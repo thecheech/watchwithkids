@@ -1,0 +1,5041 @@
+{
+  "show": "Avatar: The Last Airbender",
+  "show_id": "avatar",
+  "shelf": "kids",
+  "age": 8,
+  "age_floor": 8,
+  "audience_note": "",
+  "scale": {
+    "min": 1,
+    "max": 5,
+    "meaning": {
+      "violence": "Physical harm, fights, scary injury, weapons (slapstick counts lightly).",
+      "sex": "Sex talk, innuendo, affairs, nudity jokes, strippers, pregnancy/sex plots.",
+      "language": "Swears, crude insults, sexual slang (damn/hell mild; stronger words higher)."
+    },
+    "labels": {
+      "1": "None / fine",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Strong",
+      "5": "Heavy"
+    }
+  },
+  "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
+  "count": 62,
+  "episodes": [
+    {
+      "season": 0,
+      "episode": 1,
+      "code": "0001",
+      "title": "\"The Boy in the Iceberg\" (Braving the Elements)",
+      "index_title": "\"The Boy in the Iceberg\" (Braving the Elements)",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3A%22The_Boy_in_the_Iceberg%22_%28Braving_the_Elements%29",
+      "file": "transcripts/avatar/the-boy-in-the-iceberg-braving-the-elements.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Maybe-maybe you can't even beat him.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Maybe-maybe you can't even beat him.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Maybe-maybe you can't even beat him."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 2,
+      "code": "0002",
+      "title": "Amon's True Identity Revealed! Stephen Root ('Gommu') Breaks Down This TLOK Twist",
+      "index_title": "Amon's True Identity Revealed! Stephen Root ('Gommu') Breaks Down This TLOK Twist",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAmon%27s_True_Identity_Revealed%21_Stephen_Root_%28%27Gommu%27%29_Breaks_Down_This_TLOK_Twist",
+      "file": "transcripts/avatar/amon-s-true-identity-revealed-stephen-root-gommu-breaks-down-this-tlok-twist.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 2,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "It did not work out that way. Number two, looks like Asami is out and maybe Korra is going to hook up with Mako. [Buzz.]",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It did not work out that way. Number two, looks like Asami is out and maybe Korra is going to hook up with Mako. [Buzz.]",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "But it feels-it feels like-it feel like that's happen-that something could happen. Not hook up, but, you know?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "... teach his sons to not just water bend, but in fact, bloodbend. 'Course, we love our Clancy Brown. You brought that up earlier, Stephen Root. He is...",
+            "count": 7,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... teach his sons to not just water bend, but in fact, bloodbend. 'Course, we love our Clancy Brown. You brought that up earlier, Stephen Root. He is...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You keep going. You keep going. I will say, too, one of my least favorite things I think that I've ever seen in any moment of Avatar or Korra is those boys bloodbending those animals.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Little Tarrlok, who I've hated this whole time, this-this little weasel snake of a man. I was kinda feeling for this little boy. He didn't like this. He didn't want to do the bloodbending.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... bloodbend each other.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Noatak, go. [Noatak bloodbends Tarrlok.]",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You're a disgrace. A weakling! I'll teach you a lesson, you insubordinate... [Yakone cries out as Noatak bloodbends him.]",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "That was great. He-I just bloodbent him to wave.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — It did not work out that way. Number two, looks like Asami is out and maybe Korra is going to hook up with Mako. [Buzz.]",
+        "Violence & injury — ... teach his sons to not just water bend, but in fact, bloodbend. 'Course, we love our Clancy Brown. You brought that up earlier, Stephen Root. He is..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 3,
+      "code": "0003",
+      "title": "Asami's Breaking Point, Betrayal & That Kiss in 'The Sting' with Seychelle Gabriel",
+      "index_title": "Asami's Breaking Point, Betrayal & That Kiss in 'The Sting' with Seychelle Gabriel",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAsami%27s_Breaking_Point%2C_Betrayal_%26_That_Kiss_in_%27The_Sting%27_with_Seychelle_Gabriel",
+      "file": "transcripts/avatar/asami-s-breaking-point-betrayal-that-kiss-in-the-sting-with-seychelle-gabriel.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is swearing (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Swearing"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "When Unalaq starts trouble, he'll punch him in the mouth. He's Nuktuk, the hero of the South!",
+            "count": 4,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "When Unalaq starts trouble, he'll punch him in the mouth. He's Nuktuk, the hero of the South!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So, you know when you're punching...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's one thing to be punching above your weight class, which a lot of us have done in life and-and, you know, you feel good about it, wut we do not want to be pointed out after the fact that you've been punching.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I was gonna say, two-one, two punch. Mako and Asami working together with both bending and nonbending.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Swearing",
+            "group": "language",
+            "how": "That... well, thank goodness you got away from that Moby Dick, uh, spirit.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "That... well, thank goodness you got away from that Moby Dick, uh, spirit.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "This-and they ended up in a kiss outta nowhere. That hit me, like, damn, I didn't know that was going to happen. And it was a good kiss, too. And it was a good kiss. That was a good kiss.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — When Unalaq starts trouble, he'll punch him in the mouth. He's Nuktuk, the hero of the South!",
+        "Swearing — That... well, thank goodness you got away from that Moby Dick, uh, spirit."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 4,
+      "code": "0004",
+      "title": "Ask the Creators featurette",
+      "index_title": "Ask the Creators featurette",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAsk_the_Creators_featurette",
+      "file": "transcripts/avatar/ask-the-creators-featurette.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 5,
+      "code": "0005",
+      "title": "Avatar Aang Returns in TLOK's Most Emotional Episode feat. Zach Tyler Eisen",
+      "index_title": "Avatar Aang Returns in TLOK's Most Emotional Episode feat. Zach Tyler Eisen",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAvatar_Aang_Returns_in_TLOK%27s_Most_Emotional_Episode_feat._Zach_Tyler_Eisen",
+      "file": "transcripts/avatar/avatar-aang-returns-in-tlok-s-most-emotional-episode-feat-zach-tyler-eisen.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Pitched down.] He bloodbent Avatar Korra! [Transition.",
+            "count": 12,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Pitched down.] He bloodbent Avatar Korra! [Transition.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "But enough about everything else, because the only thing you should be thinking about is that Tarrlok is a bloodbender.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "That's awesome. Yes, bloodbenders.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bloodbender. That's a big FYI.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Man. What? I hate Tarrlok. You're not supposed to be bloodbending.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... they would say waterbender because of bloodbending. I'm like, yo, chill. It's usually like, uh...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Don't even. That scene was so-the stuff, mmm. That's a Foreshadow Report, but I don't need to be seeing any animals get bloodbent, let me just say that right now, but...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's-it's usually, like, it's usually like a little kid who will come up and be like, I want to bloodbend. And I'm like, listen, kid.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "People want to do that. Don't do that, you guys. Don't bloodbend. Don't bloodbend. Even if you can't bloodbend, don't bloodbend.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Cut to audio from \"Out of the Past\" of Korra grunting as Tarrlok bloodbends her.]",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's definitely OP, it's too powerful.You can't blood bend. We can't bloodbend.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Laughs.] Republic City is mine, Avatar. I'll be back one day to claim it. [Yakone bloodbends Aang into the stairs.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Bubble coming out of his nose.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bubble coming out of his nose.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I love the bubble coming out of his nose.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Pitched down.] He bloodbent Avatar Korra! [Transition."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 6,
+      "code": "0006",
+      "title": "Avatar Korra's Debut: \"Welcome to Republic City\" with Steve Blum (\"Amon\")",
+      "index_title": "Avatar Korra's Debut: \"Welcome to Republic City\" with Steve Blum (\"Amon\")",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAvatar_Korra%27s_Debut%3A_%22Welcome_to_Republic_City%22_with_Steve_Blum_%28%22Amon%22%29",
+      "file": "transcripts/avatar/avatar-korra-s-debut-welcome-to-republic-city-with-steve-blum-amon.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "I would have loved to see them hook up. I mean, he tried so hard.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I would have loved to see them hook up. I mean, he tried so hard.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "There is no blood, it's just pure lava.",
+            "count": 5,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "There is no blood, it's just pure lava.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah. Well, bloodbender, of course 'cause oh, my God, it is-that was...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "That's-bloodbending is water bending.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "How come Amon has to go s-go straight to bloodbending? Why? [Steve laughs.] Why, Steve?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... bloodbend.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "I mean, one of the defining moments for us to choose to live here was, uh, coming out onto the sand at night, stepping out of the light and looking up at stars, and actually being able to sense the movement.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I mean, one of the defining moments for us to choose to live here was, uh, coming out onto the sand at night, stepping out of the light and looking up at stars, and actually being able to sense the movement.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — I would have loved to see them hook up. I mean, he tried so hard.",
+        "Violence & injury — There is no blood, it's just pure lava."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 7,
+      "code": "0007",
+      "title": "Avatar Spirits",
+      "index_title": "Avatar Spirits",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAvatar_Spirits",
+      "file": "transcripts/avatar/avatar-spirits.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 2,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "It's crazy how devoted people are to, like, \"Aang's gonna hook up with Katara.\" \"No, Katara's gonna hook up with Zuko.\"",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's crazy how devoted people are to, like, \"Aang's gonna hook up with Katara.\" \"No, Katara's gonna hook up with Zuko.\"",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Yeah, I went and had an apartment in Korea for, uh, three months. Worked alongside the artists there, and Mike came over for a few weeks, and, uh, that was an intense time. It was a lot of blood, sweat, and tears.",
+            "count": 3,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah, I went and had an apartment in Korea for, uh, three months. Worked alongside the artists there, and Mike came over for a few weeks, and, uh, that was an intense time. It was a lot of blood, sweat, and tears.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You don't really see all the blood, sweat, and tears, that kind of behind-the-scenes stuff.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The Fire Nation called for, uh, the, you know, [Punches the air with stable, fast strikes, completely extending his arms out.] crisp, uh, long, clean, cutting movements of Northern Shaolin.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — It's crazy how devoted people are to, like, \"Aang's gonna hook up with Katara.\" \"No, Katara's gonna hook up with Zuko.\"",
+        "Violence & injury — Yeah, I went and had an apartment in Korea for, uh, three months. Worked alongside the artists there, and Mike came over for a few weeks, and, uh, that was an intense time. It was a lot of blood, sweat, and tears."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 8,
+      "code": "0008",
+      "title": "Avatar: Tea, Tails and Tides",
+      "index_title": "Avatar: Tea, Tails and Tides",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAvatar%3A_Tea%2C_Tails_and_Tides",
+      "file": "transcripts/avatar/avatar-tea-tails-and-tides.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "Even though his body was so used to these movements, He found that casting the nets had started to take on more effort, and that his eyes couldn't quite make out what swam in the waters.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Even though his body was so used to these movements, He found that casting the nets had started to take on more effort, and that his eyes couldn't quite make out what swam in the waters.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — Even though his body was so used to these movements, He found that casting the nets had started to take on more effort, and that his eyes couldn't quite make out what swam in the waters."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 9,
+      "code": "0009",
+      "title": "Avatar: The Last Airbender Producers Reveal Secrets From New Trailer",
+      "index_title": "Avatar: The Last Airbender Producers Reveal Secrets From New Trailer",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AAvatar%3A_The_Last_Airbender_Producers_Reveal_Secrets_From_New_Trailer",
+      "file": "transcripts/avatar/avatar-the-last-airbender-producers-reveal-secrets-from-new-trailer.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "I've got to say, one of the joys of working on this show is being able to assemble this kind of murderer's row of Asian acting talent because you have Arden Cho, you'll see Tamlyn Tomita in this trailer.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I've got to say, one of the joys of working on this show is being able to assemble this kind of murderer's row of Asian acting talent because you have Arden Cho, you'll see Tamlyn Tomita in this trailer.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — I've got to say, one of the joys of working on this show is being able to assemble this kind of murderer's row of Asian acting talent because you have Arden Cho, you'll see Tamlyn Tomita in this trailer."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 10,
+      "code": "0010",
+      "title": "Behind the Scenes with the Avatar Cast and Crew",
+      "index_title": "Behind the Scenes with the Avatar Cast and Crew",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ABehind_the_Scenes_with_the_Avatar_Cast_and_Crew",
+      "file": "transcripts/avatar/behind-the-scenes-with-the-avatar-cast-and-crew.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 11,
+      "code": "0011",
+      "title": "Book One Finale: Korra's Endgame with Dee Bradley Baker ('Tarrlok')",
+      "index_title": "Book One Finale: Korra's Endgame with Dee Bradley Baker ('Tarrlok')",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ABook_One_Finale%3A_Korra%27s_Endgame_with_Dee_Bradley_Baker_%28%27Tarrlok%27%29",
+      "file": "transcripts/avatar/book-one-finale-korra-s-endgame-with-dee-bradley-baker-tarrlok.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Yep, absolutely. I mean, there's horrible things taking place. Uh, bloodbending...",
+            "count": 8,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yep, absolutely. I mean, there's horrible things taking place. Uh, bloodbending...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "There's a lot-bloodbending's going-a lotta things are going on where it, I mean, we are, you know, equality.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Will Korra and Mako expose Amon as the bloodbender he is?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "He was always too afraid to bloodbend.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The guns out.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Whenever I see a Korra cosplayer, I always say, guns out. They're like, you-you know it. Guns out.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She did not pull any punches playing this character. Wasn't...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It is the one-two punch of being wildly talented, and also just being an absolute pleasure to be in a room with.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Yep, absolutely. I mean, there's horrible things taking place. Uh, bloodbending..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 12,
+      "code": "0012",
+      "title": "Book Two Begins: Avatar Wan's Origin Revealed with Creators Mike & Bryan",
+      "index_title": "Book Two Begins: Avatar Wan's Origin Revealed with Creators Mike & Bryan",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ABook_Two_Begins%3A_Avatar_Wan%27s_Origin_Revealed_with_Creators_Mike_%26_Bryan",
+      "file": "transcripts/avatar/book-two-begins-avatar-wan-s-origin-revealed-with-creators-mike-bryan.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "I remember this, um, Tumblr post I made back when the episodes were coming out, and I was, like, I was, like, 'cause, uh, uh, the f-aud-the fans back then, if we did anything like a…",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I remember this, um, Tumblr post I made back when the episodes were coming out, and I was, like, I was, like, 'cause, uh, uh, the f-aud-the fans back then, if we did anything like a…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 13,
+      "code": "0013",
+      "title": "Civil Wars Parts 1 & 2 with Olympic Champion Laurie Hernandez",
+      "index_title": "Civil Wars Parts 1 & 2 with Olympic Champion Laurie Hernandez",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ACivil_Wars_Parts_1_%26_2_with_Olympic_Champion_Laurie_Hernandez",
+      "file": "transcripts/avatar/civil-wars-parts-1-2-with-olympic-champion-laurie-hernandez.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 2,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Affairs / cheating",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Affairs / cheating",
+            "group": "sex",
+            "how": "The family of Korra and-and Tonraq and Unalaq being up in arms. We have, uh, conflict between Bumi and Kya and Tenzin. We have conflict between Jinora and Meelo and Ikki. It's a family affair. It's a family affair.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The family of Korra and-and Tonraq and Unalaq being up in arms. We have, uh, conflict between Bumi and Kya and Tenzin. We have conflict between Jinora and Meelo and Ikki. It's a family affair. It's a family affair.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It is a family affair. And I do feel...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "She came out guns blazing.",
+            "count": 3,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She came out guns blazing.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She-Korra's like, I guess I have to punch you now.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... let's go punch this thing, and then Naga's like, let's go punch this thing.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "But-and then she comes out into the world and the world is-she's ex-like, her coming out into the world, uh, is-looks different than Bolin and Mako coming into the world because they are…",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "But-and then she comes out into the world and the world is-she's ex-like, her coming out into the world, uh, is-looks different than Bolin and Mako coming into the world because they are…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Affairs / cheating — The family of Korra and-and Tonraq and Unalaq being up in arms. We have, uh, conflict between Bumi and Kya and Tenzin. We have conflict between Jinora and Meelo and Ikki. It's a family affair. It's a family affair.",
+        "Violence & injury — She came out guns blazing."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 14,
+      "code": "0014",
+      "title": "Escape from the Spirit World",
+      "index_title": "Escape from the Spirit World",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AEscape_from_the_Spirit_World",
+      "file": "transcripts/avatar/escape-from-the-spirit-world.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "It's nice to see you, Aang. Sorry about the whole \"wrongfully accused of murder\" thing back in Chin Village.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's nice to see you, Aang. Sorry about the whole \"wrongfully accused of murder\" thing back in Chin Village.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — It's nice to see you, Aang. Sorry about the whole \"wrongfully accused of murder\" thing back in Chin Village."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 15,
+      "code": "0015",
+      "title": "Feuding Spirits: Korra's Family",
+      "index_title": "Feuding Spirits: Korra's Family",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AFeuding_Spirits%3A_Korra%27s_Family",
+      "file": "transcripts/avatar/feuding-spirits-korra-s-family.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 16,
+      "code": "0016",
+      "title": "Hot Air",
+      "index_title": "Hot Air",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AHot_Air",
+      "file": "transcripts/avatar/hot-air.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Huh? \"I desperately need a tan\"? Hey, I'll have you know my light complexion is a sign of noble blood.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Huh? \"I desperately need a tan\"? Hey, I'll have you know my light complexion is a sign of noble blood.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Huh? \"I desperately need a tan\"? Hey, I'll have you know my light complexion is a sign of noble blood."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 17,
+      "code": "0017",
+      "title": "How Varrick Became the Avatarverse's Most Unpredictable Character w/ John Michael Higgins",
+      "index_title": "How Varrick Became the Avatarverse's Most Unpredictable Character w/ John Michael Higgins",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AHow_Varrick_Became_the_Avatarverse%27s_Most_Unpredictable_Character_w/_John_Michael_Higgins",
+      "file": "transcripts/avatar/how-varrick-became-the-avatarverse-s-most-unpredictable-character-w-john-michael-higgins.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is suicide & self-harm (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Suicide & self-harm"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "But is one bear-driven jailbreak enough to fix Tonraq's fugitive state? Bolin's bloodthirsty ex-girlfriend?",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "But is one bear-driven jailbreak enough to fix Tonraq's fugitive state? Bolin's bloodthirsty ex-girlfriend?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I... I was really thinking that he-you had something going there. I was like, yeah, hot peppers, upside-down, get all the blood to the brain.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Suicide & self-harm",
+            "group": "violence",
+            "how": "[Refers to Varrick hanging himself upside-down, hooking his boots to a bar.] Gravity boots.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Refers to Varrick hanging himself upside-down, hooking his boots to a bar.] Gravity boots.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — But is one bear-driven jailbreak enough to fix Tonraq's fugitive state? Bolin's bloodthirsty ex-girlfriend?",
+        "Suicide & self-harm — [Refers to Varrick hanging himself upside-down, hooking his boots to a bar.] Gravity boots."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 18,
+      "code": "0018",
+      "title": "Inside Avatar Studios: Seven Havens, New Games, and What's Next for the Avatarverse",
+      "index_title": "Inside Avatar Studios: Seven Havens, New Games, and What's Next for the Avatarverse",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AInside_Avatar_Studios%3A_Seven_Havens%2C_New_Games%2C_and_What%27s_Next_for_the_Avatarverse",
+      "file": "transcripts/avatar/inside-avatar-studios-seven-havens-new-games-and-what-s-next-for-the-avatarverse.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "What animals did Noatak and Tarrlok practice bloodbending on in the South? And what was their dad's name?",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "What animals did Noatak and Tarrlok practice bloodbending on in the South? And what was their dad's name?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — What animals did Noatak and Tarrlok practice bloodbending on in the South? And what was their dad's name?"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 19,
+      "code": "0019",
+      "title": "Inside the Book of Spirits",
+      "index_title": "Inside the Book of Spirits",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AInside_the_Book_of_Spirits",
+      "file": "transcripts/avatar/inside-the-book-of-spirits.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 20,
+      "code": "0020",
+      "title": "Inside the Fire Nation at San Diego Comic-Con",
+      "index_title": "Inside the Fire Nation at San Diego Comic-Con",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AInside_the_Fire_Nation_at_San_Diego_Comic-Con",
+      "file": "transcripts/avatar/inside-the-fire-nation-at-san-diego-comic-con.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "…standing in front of two Fire Nation soldiers, a rectangular frame around her head showing how the shot in the final animation will zoom in on her.] Uh, scary Azula, flanked by two Fire Nation, uh, soldiers.",
+            "count": 3,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…standing in front of two Fire Nation soldiers, a rectangular frame around her head showing how the shot in the final animation will zoom in on her.] Uh, scary Azula, flanked by two Fire Nation, uh, soldiers.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "In the first two clips, Kisu stabs and slices at Bryan with a prop sword, while Bryan, pressed against a wall, evades the strikes by…",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Cut to a storyboard image of Mai holding up one of her knives, the storyboard point indicating the knife should glint in the final animation.] This is Mai being super cool.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "So, um, coming out in September, uh, Nick Magazine is gonna be an all-Avatar issue, [Cut to a cover of a Nickelodeon Magazine issue, showcasing Aang, Katara, Sokka, Toph, Momo, Azula, and Zuko.] and this is the cover.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So, um, coming out in September, uh, Nick Magazine is gonna be an all-Avatar issue, [Cut to a cover of a Nickelodeon Magazine issue, showcasing Aang, Katara, Sokka, Toph, Momo, Azula, and Zuko.] and this is the cover.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — …standing in front of two Fire Nation soldiers, a rectangular frame around her head showing how the shot in the final animation will zoom in on her.] Uh, scary Azula, flanked by two Fire Nation, uh, soldiers."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 21,
+      "code": "0021",
+      "title": "It Aint Over Till the Plush Lady Sings",
+      "index_title": "It Aint Over Till the Plush Lady Sings",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AIt_Aint_Over_Till_the_Plush_Lady_Sings",
+      "file": "transcripts/avatar/it-aint-over-till-the-plush-lady-sings.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Hey, I already have a girlfriend. [Imitates Mai while holding up a paper bag puppet of her.] Dump me again, and I'ma mess you up. [The puppet hits Zuko with its construction paper knife.] Stab, stab, stab, stab, stab.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Hey, I already have a girlfriend. [Imitates Mai while holding up a paper bag puppet of her.] Dump me again, and I'ma mess you up. [The puppet hits Zuko with its construction paper knife.] Stab, stab, stab, stab, stab.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Hey, I already have a girlfriend. [Imitates Mai while holding up a paper bag puppet of her.] Dump me again, and I'ma mess you up. [The puppet hits Zuko with its construction paper knife.] Stab, stab, stab, stab, stab."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 22,
+      "code": "0022",
+      "title": "Kindred Spirits: Tenzin's Family",
+      "index_title": "Kindred Spirits: Tenzin's Family",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AKindred_Spirits%3A_Tenzin%27s_Family",
+      "file": "transcripts/avatar/kindred-spirits-tenzin-s-family.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 23,
+      "code": "0023",
+      "title": "Korra Crosses Over: Reacting to Her First Steps Into the Spirit World",
+      "index_title": "Korra Crosses Over: Reacting to Her First Steps Into the Spirit World",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AKorra_Crosses_Over%3A_Reacting_to_Her_First_Steps_Into_the_Spirit_World",
+      "file": "transcripts/avatar/korra-crosses-over-reacting-to-her-first-steps-into-the-spirit-world.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 2,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "It's not... not sexy. They're s...",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's not... not sexy. They're s...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Not upside down, but I got stabbed in a movie and I was in a puddle of blood and then everybody went to lunch and they were like, Dante, you really can't move because, uh...",
+            "count": 5,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Not upside down, but I got stabbed in a movie and I was in a puddle of blood and then everybody went to lunch and they were like, Dante, you really can't move because, uh...",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Um, I gotta shoutout, we got some Filipino blood in the room today, and it's not mine. Everyone knows it's not mine.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I'm like, I'm just gonna lay in this puddle of blood for lunch. Can someone bring me a smoothie?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Created bloodbending. Created bloodbending.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You will. You will because we both came from on-camera and we both had to learn the hard way quickly, like, oh, I-I can't just punch towards the microphone, 'cause then the microphone will fall over. Got it.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — It's not... not sexy. They're s...",
+        "Violence & injury — Not upside down, but I got stabbed in a movie and I was in a puddle of blood and then everybody went to lunch and they were like, Dante, you really can't move because, uh..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 24,
+      "code": "0024",
+      "title": "Korra Turns on Tenzin?! David Faustino (\"Mako\") Breaks Down Book Two's Wild Start",
+      "index_title": "Korra Turns on Tenzin?! David Faustino (\"Mako\") Breaks Down Book Two's Wild Start",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AKorra_Turns_on_Tenzin%3F%21_David_Faustino_%28%22Mako%22%29_Breaks_Down_Book_Two%27s_Wild_Start",
+      "file": "transcripts/avatar/korra-turns-on-tenzin-david-faustino-mako-breaks-down-book-two-s-wild-start.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 2,
+      "language": 2,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "…then what we find out after we meet all these characters, and stuff, and, you know, Bolin's trying to hook up with Eska, and, uh, and they're-the, uh, they're at the f-the-the festival and they're playing these…",
+            "count": 3,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…then what we find out after we meet all these characters, and stuff, and, you know, Bolin's trying to hook up with Eska, and, uh, and they're-the, uh, they're at the f-the-the festival and they're playing these…",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Mako's kind of a sexy character, though.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You know, anime sexy on-what's going on?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "I still don't know what's going-there's a lotta these spirits, really strange looking evil spirits. And then number three, I just threw the-a shot in the dark. We-we find out Amon hasn't really died after all.",
+            "count": 3,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I still don't know what's going-there's a lotta these spirits, really strange looking evil spirits. And then number three, I just threw the-a shot in the dark. We-we find out Amon hasn't really died after all.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Tenzin just gets slapped around, you know? So, it's kinda, like, mmm, what do you have to say after that?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[The spirit ignores Tenzin's entreaties, and launches him through the air.] Oh! But slapped.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "It was my first time going to, like, a Comic-Con like that and coming out and having, like, did that still feel-even for you, did that still feel like a different kind of, like, whoa?",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It was my first time going to, like, a Comic-Con like that and coming out and having, like, did that still feel-even for you, did that still feel like a different kind of, like, whoa?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — …then what we find out after we meet all these characters, and stuff, and, you know, Bolin's trying to hook up with Eska, and, uh, and they're-the, uh, they're at the f-the-the festival and they're playing these…",
+        "Violence & injury — I still don't know what's going-there's a lotta these spirits, really strange looking evil spirits. And then number three, I just threw the-a shot in the dark. We-we find out Amon hasn't really died after all."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 25,
+      "code": "0025",
+      "title": "Korra's Family Fallout in Book Two 'Southern Lights' with Writer Tim Hedrick",
+      "index_title": "Korra's Family Fallout in Book Two 'Southern Lights' with Writer Tim Hedrick",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AKorra%27s_Family_Fallout_in_Book_Two_%27Southern_Lights%27_with_Writer_Tim_Hedrick",
+      "file": "transcripts/avatar/korra-s-family-fallout-in-book-two-southern-lights-with-writer-tim-hedrick.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "There was a lot of bloodbending in the first seseason, yeah.",
+            "count": 4,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "There was a lot of bloodbending in the first seseason, yeah.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bloodbending. But now you gots ghosts, spirits.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Korra tries to break the ice with an airbending-infused punch.] Here goes. Korra's, like, immediate concept is, like, let's just crush.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Let's punch it as hard as we can.'",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Yeah, more's coming out. I want to...",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah, more's coming out. I want to...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — There was a lot of bloodbending in the first seseason, yeah."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 26,
+      "code": "0026",
+      "title": "Korra's Mom Speaks Out! Alex McKenna on Harmonic Convergence and the Dark Avatar",
+      "index_title": "Korra's Mom Speaks Out! Alex McKenna on Harmonic Convergence and the Dark Avatar",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AKorra%27s_Mom_Speaks_Out%21_Alex_McKenna_on_Harmonic_Convergence_and_the_Dark_Avatar",
+      "file": "transcripts/avatar/korra-s-mom-speaks-out-alex-mckenna-on-harmonic-convergence-and-the-dark-avatar.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "I mean, if-if you, the Avatar, hooked up and became one with Raava, it makes sense that someone at some time is going to be one with Vaatu, and…",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I mean, if-if you, the Avatar, hooked up and became one with Raava, it makes sense that someone at some time is going to be one with Vaatu, and…",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing.",
+            "count": 3,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah, it's really blood in the water. It's just, uh...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I have never said that in real life, lest I be punched in the face by whatever friend I was saying that to. But you can say it here.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "…when you open a portal, that there's gonna be the dark spirits, the shadow world, the things that are coming out, too?",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…when you open a portal, that there's gonna be the dark spirits, the shadow world, the things that are coming out, too?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "They had... they had crazy bending, though, like, the planes coming out and they're shooting those icicles.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — I mean, if-if you, the Avatar, hooked up and became one with Raava, it makes sense that someone at some time is going to be one with Vaatu, and…",
+        "Violence & injury — Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 27,
+      "code": "0027",
+      "title": "Korra's Shocking Season Finale Decision Explained! with Adrian LaTourelle (\"Unalaq\")",
+      "index_title": "Korra's Shocking Season Finale Decision Explained! with Adrian LaTourelle (\"Unalaq\")",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AKorra%27s_Shocking_Season_Finale_Decision_Explained%21_with_Adrian_LaTourelle_%28%22Unalaq%22%29",
+      "file": "transcripts/avatar/korra-s-shocking-season-finale-decision-explained-with-adrian-latourelle-unalaq.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Nudity & bodies",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Nudity & bodies",
+            "group": "sex",
+            "how": "So, first of all, they lay eggs, right? And they don't have n-can I say this? They don't have nipples. They secrete milk through their skins and their babies just, like, lick their bodies.",
+            "count": 3,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So, first of all, they lay eggs, right? And they don't have n-can I say this? They don't have nipples. They secrete milk through their skins and their babies just, like, lick their bodies.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "And I was like, what is this crazy world? I can-I can do this-this job in my underwear, which I never did. Just wanna be clear. But you could.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You could, but you'd be a strange one in the booth. Like, why is-why is Adrian coming in his underwear?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "I think, okay, now, now we have some-we have some-we have some guns.",
+            "count": 3,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I think, okay, now, now we have some-we have some-we have some guns.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You will always hold a special place in the organ that pumps my blood. I will remember you fondly, my turtle duck.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Refers to Korra punching UnaVaatu in the face before thrusting her hand into his chest to reach for the light within.] Ooh, boom. Left, right, right, left, into the chest.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Very cool loong. And as you were saying ear-to me earlier, like, the sound effects that are coming out of UnaVaatu are really s-that deep hum of that, and, like...",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Very cool loong. And as you were saying ear-to me earlier, like, the sound effects that are coming out of UnaVaatu are really s-that deep hum of that, and, like...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yes, Seven Havens coming out. So we'll see.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Nudity & bodies — So, first of all, they lay eggs, right? And they don't have n-can I say this? They don't have nipples. They secrete milk through their skins and their babies just, like, lick their bodies.",
+        "Violence & injury — I think, okay, now, now we have some-we have some-we have some guns."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 28,
+      "code": "0028",
+      "title": "Kung Fu featurette",
+      "index_title": "Kung Fu featurette",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AKung_Fu_featurette",
+      "file": "transcripts/avatar/kung-fu-featurette.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 29,
+      "code": "0029",
+      "title": "Love Triangles and \"The Spirit of Competition\" with Seychelle Gabriel (\"Asami\")",
+      "index_title": "Love Triangles and \"The Spirit of Competition\" with Seychelle Gabriel (\"Asami\")",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ALove_Triangles_and_%22The_Spirit_of_Competition%22_with_Seychelle_Gabriel_%28%22Asami%22%29",
+      "file": "transcripts/avatar/love-triangles-and-the-spirit-of-competition-with-seychelle-gabriel-asami.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 3,
+      "language": 2,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury",
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "Yeah. Sometimes you get a lizard, a horny toad. We used to have little horny toads come by.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah. Sometimes you get a lizard, a horny toad. We used to have little horny toads come by.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Horny toad. I know horny toads.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "That is a great-that's a-that's a great thing. I guess that's the-the other end of bloodbending, that's the other end of bloodbending is you can heal them.",
+            "count": 4,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "That is a great-that's a-that's a great thing. I guess that's the-the other end of bloodbending, that's the other end of bloodbending is you can heal them.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I mean, we were lear-we-I-I was punching the microphone when I was s'posed to just be sounding like I was punching someone. So, I was learning on the go.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Like, he might punch me in the face, that guy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…like, imagining Korra as a very little girl, like, if she liked a boy, she would probably just go up and punch him.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "But it does lead to one of my favorite scenes in this, maybe in the entire series, which is Bolin and Pabu getting drunk on noodles. It is so funny seeing Pabu draped over the noodle bowl, and then, like, Bolin...",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "But it does lead to one of my favorite scenes in this, maybe in the entire series, which is Bolin and Pabu getting drunk on noodles. It is so funny seeing Pabu draped over the noodle bowl, and then, like, Bolin...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — Yeah. Sometimes you get a lizard, a horny toad. We used to have little horny toads come by.",
+        "Violence & injury — That is a great-that's a-that's a great thing. I guess that's the-the other end of bloodbending, that's the other end of bloodbending is you can heal them.",
+        "Alcohol & drugs — But it does lead to one of my favorite scenes in this, maybe in the entire series, which is Bolin and Pabu getting drunk on noodles. It is so funny seeing Pabu draped over the noodle bowl, and then, like, Bolin..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 30,
+      "code": "0030",
+      "title": "Metalbending Master feat. Mindy Sterling \"Lin Beifong\" (Toph's Daughter!)",
+      "index_title": "Metalbending Master feat. Mindy Sterling \"Lin Beifong\" (Toph's Daughter!)",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AMetalbending_Master_feat._Mindy_Sterling_%22Lin_Beifong%22_%28Toph%27s_Daughter%21%29",
+      "file": "transcripts/avatar/metalbending-master-feat-mindy-sterling-lin-beifong-toph-s-daughter.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is affairs / cheating (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Affairs / cheating"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "He's so sexy, though.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "He's so sexy, though.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Affairs / cheating",
+            "group": "sex",
+            "how": "It's the worst, it's the worst when you have your person you had this whole love affair with and then you break up with your ex, and you run into each other, and then you never get to see that person again.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's the worst, it's the worst when you have your person you had this whole love affair with and then you break up with your ex, and you run into each other, and then you never get to see that person again.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — He's so sexy, though.",
+        "Affairs / cheating — It's the worst, it's the worst when you have your person you had this whole love affair with and then you break up with your ex, and you run into each other, and then you never get to see that person again."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 31,
+      "code": "0031",
+      "title": "MLB's Pablo López on Sports x Avatar and His Water Tribe Pride",
+      "index_title": "MLB's Pablo López on Sports x Avatar and His Water Tribe Pride",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AMLB%27s_Pablo_L%C3%B3pez_on_Sports_x_Avatar_and_His_Water_Tribe_Pride",
+      "file": "transcripts/avatar/mlb-s-pablo-l-pez-on-sports-x-avatar-and-his-water-tribe-pride.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "So, how does it-go back, when did you first, uh, like, hook up with the show? When did you first discover it?",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So, how does it-go back, when did you first, uh, like, hook up with the show? When did you first discover it?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "I thought you were gonna ask him if he would bloodbend.",
+            "count": 7,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I thought you were gonna ask him if he would bloodbend.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I would-I'm not gonna ask that of him. I know he wouldn't, he wouldn't dare. You wouldn't dare bloodbend.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Here we have these bloodbenders who show up in the first season of Korra, and we find out that Katara was instrumental in getting…",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's like you're throwing a punch, but obviously, the punch has fire in it.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So, still maybe better than a-maybe a little better than a punch.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "And the Avatar is slapped with the yellow fan.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "All right. And we can preorder, and you guys aren't-won't run out. Do I-'cause I'm genuinely, like, I need to beat him to this.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "He's classic. He's like a Tommy Lasorda, coming out, Uncle Iroh.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "He's classic. He's like a Tommy Lasorda, coming out, Uncle Iroh.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She's all about coming out on top.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — So, how does it-go back, when did you first, uh, like, hook up with the show? When did you first discover it?",
+        "Violence & injury — I thought you were gonna ask him if he would bloodbend."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 32,
+      "code": "0032",
+      "title": "New York Comic-Con 2014",
+      "index_title": "New York Comic-Con 2014",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ANew_York_Comic-Con_2014",
+      "file": "transcripts/avatar/new-york-comic-con-2014.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Nudity & bodies",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Nudity & bodies",
+            "group": "sex",
+            "how": "[Interjects.] So, we went naked.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Interjects.] So, we went naked.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "…chuckles; cut to a storyboard of Kuvira smiling, a rectangular frame around her head showing how the shot in the final animation will zoom in on her.] Um, so it's funny seeing-not until it was, like, all animated…",
+            "count": 3,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…chuckles; cut to a storyboard of Kuvira smiling, a rectangular frame around her head showing how the shot in the final animation will zoom in on her.] Um, so it's funny seeing-not until it was, like, all animated…",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... dig-dig the kni-you know, just to twist the knife.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "And, um, I really love this costume, Chris-uh, Christy and I worked on this one together, and [Cut to the same model of Korra, now with scuffed clothes and a bruised, swollen eye.] then she gets beat up.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "[Audience applauds; cut to an advertisement for The Legend of Korra video game.] And then, real quick, um, the video game is coming out this month, October 21st, it's awesome.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Audience applauds; cut to an advertisement for The Legend of Korra video game.] And then, real quick, um, the video game is coming out this month, October 21st, it's awesome.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Nudity & bodies — [Interjects.] So, we went naked.",
+        "Violence & injury — …chuckles; cut to a storyboard of Kuvira smiling, a rectangular frame around her head showing how the shot in the final animation will zoom in on her.] Um, so it's funny seeing-not until it was, like, all animated…"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 33,
+      "code": "0033",
+      "title": "Origin Stories with Eric Coleman",
+      "index_title": "Origin Stories with Eric Coleman",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AOrigin_Stories_with_Eric_Coleman",
+      "file": "transcripts/avatar/origin-stories-with-eric-coleman.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "So, they came back with this whole story of Zuko, and instead of him just being a bad guy with a big gun, trying to kill our heroes, he was this guy, uh, with his own deep issues, his own journey that he has to go on.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So, they came back with this whole story of Zuko, and instead of him just being a bad guy with a big gun, trying to kill our heroes, he was this guy, uh, with his own deep issues, his own journey that he has to go on.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "do we get, you know, Toph is so many young people's favorite character from from girls to boys to non-binary chara-I mean, there's something so accessible about her and there's a permission there about the type…",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "do we get, you know, Toph is so many young people's favorite character from from girls to boys to non-binary chara-I mean, there's something so accessible about her and there's a permission there about the type…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — So, they came back with this whole story of Zuko, and instead of him just being a bad guy with a big gun, trying to kill our heroes, he was this guy, uh, with his own deep issues, his own journey that he has to go on."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": "102",
+      "code": "00102",
+      "title": "Origin Stories with Mike DiMartino & Bryan Konietzko Pt. 1",
+      "index_title": "Origin Stories with Mike DiMartino & Bryan Konietzko Pt. 1",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AOrigin_Stories_with_Mike_DiMartino_%26_Bryan_Konietzko_Pt._1",
+      "file": "transcripts/avatar/origin-stories-with-mike-dimartino-bryan-konietzko-pt-1.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "I was gonna say we're ready to meet her at any time. It's funny you would say that because she is actually gonna be on our next episode. I know, it seems like we jumped the gun...",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I was gonna say we're ready to meet her at any time. It's funny you would say that because she is actually gonna be on our next episode. I know, it seems like we jumped the gun...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Laughs.] But when I got this costume, I just started running around with like Nerf guns and kind of creating this character around it.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "There wa-it wasn't like now where, like, there's so many people coming out to, like, get jobs in animation.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "There wa-it wasn't like now where, like, there's so many people coming out to, like, get jobs in animation.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — I was gonna say we're ready to meet her at any time. It's funny you would say that because she is actually gonna be on our next episode. I know, it seems like we jumped the gun..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 35,
+      "code": "0035",
+      "title": "Origin Stories with Mike DiMartino & Bryan Konietzko Pt. 2",
+      "index_title": "Origin Stories with Mike DiMartino & Bryan Konietzko Pt. 2",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AOrigin_Stories_with_Mike_DiMartino_%26_Bryan_Konietzko_Pt._2",
+      "file": "transcripts/avatar/origin-stories-with-mike-dimartino-bryan-konietzko-pt-2.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "It wasn't like a movie where, like, you finished it, oh, it's coming out in a few months, oh boy, uh, you-you have time to worry and stuff like, I don't remember exactly, but…",
+            "count": 3,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It wasn't like a movie where, like, you finished it, oh, it's coming out in a few months, oh boy, uh, you-you have time to worry and stuff like, I don't remember exactly, but…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…that was more, like, common in anime back around that time and, like, that was around the time Lost was coming out and, like, it was out there but, especially of-certainly for, I think, for American TV animation, I-I…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…shows, and all, you know, basically all kinds of storytelling, you don't have a whole lot of shipping of gay characters.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 36,
+      "code": "0036",
+      "title": "Scoring TLOK's Jazz-Age Tension with Composer Jeremy Zuckerman",
+      "index_title": "Scoring TLOK's Jazz-Age Tension with Composer Jeremy Zuckerman",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AScoring_TLOK%27s_Jazz-Age_Tension_with_Composer_Jeremy_Zuckerman",
+      "file": "transcripts/avatar/scoring-tlok-s-jazz-age-tension-with-composer-jeremy-zuckerman.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "I mean, is that crazy? It's like people got guns and we're like, we don't care about guns.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I mean, is that crazy? It's like people got guns and we're like, we don't care about guns.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "If you-if you don't want to wait until July 25th for the full Book Two, I do want to reassure you that coming out this Friday, June 13th, is a special edition.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "If you-if you don't want to wait until July 25th for the full Book Two, I do want to reassure you that coming out this Friday, June 13th, is a special edition.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah. So, look for our album. And obviously, also, you gotta check out \"Secret Tunnel\" coming out, uh, this Friday and definitely check out, uh, in just about a month, you can listen to Book Two as well.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — I mean, is that crazy? It's like people got guns and we're like, we don't care about guns."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 37,
+      "code": "0037",
+      "title": "Secrets from the Vault: Zuko's Scar & Darker Themes from the Avatarverse",
+      "index_title": "Secrets from the Vault: Zuko's Scar & Darker Themes from the Avatarverse",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ASecrets_from_the_Vault%3A_Zuko%27s_Scar_%26_Darker_Themes_from_the_Avatarverse",
+      "file": "transcripts/avatar/secrets-from-the-vault-zuko-s-scar-darker-themes-from-the-avatarverse.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "third book and the wrap up of this whole story, or the first story, how did you guys feel like you started going into bloodbending or just darker ...",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "third book and the wrap up of this whole story, or the first story, how did you guys feel like you started going into bloodbending or just darker ...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "bloodbending, I think, was something that just came from the writers' room, just discussions about, like, these, sort of, ultimate techniques.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — third book and the wrap up of this whole story, or the first story, how did you guys feel like you started going into bloodbending or just darker ..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 38,
+      "code": "0038",
+      "title": "Siblings Levon and Maya Hawke Break Down Avatar's Most Intense Sibling Rivalries",
+      "index_title": "Siblings Levon and Maya Hawke Break Down Avatar's Most Intense Sibling Rivalries",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ASiblings_Levon_and_Maya_Hawke_Break_Down_Avatar%27s_Most_Intense_Sibling_Rivalries",
+      "file": "transcripts/avatar/siblings-levon-and-maya-hawke-break-down-avatar-s-most-intense-sibling-rivalries.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "…off of the Fire Nation and the complicated sibling relationships of the Fire Nation 'cause we had two bloodbenders from the Water Tribe.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…off of the Fire Nation and the complicated sibling relationships of the Fire Nation 'cause we had two bloodbenders from the Water Tribe.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The worst thing to ever do was bloodbending.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "And they just-could you imagine, like, these two siblings coming out in the fur coats and just rocking it?",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "And they just-could you imagine, like, these two siblings coming out in the fur coats and just rocking it?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — …off of the Fire Nation and the complicated sibling relationships of the Fire Nation 'cause we had two bloodbenders from the Water Tribe."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 39,
+      "code": "0039",
+      "title": "The Avatar Gets Bloodbent?! Feat. Special Guest Richard Epcar (\"Saikhan\")",
+      "index_title": "The Avatar Gets Bloodbent?! Feat. Special Guest Richard Epcar (\"Saikhan\")",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Avatar_Gets_Bloodbent%3F%21_Feat._Special_Guest_Richard_Epcar_%28%22Saikhan%22%29",
+      "file": "transcripts/avatar/the-avatar-gets-bloodbent-feat-special-guest-richard-epcar-saikhan.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Nudity & bodies",
+          "Violence & injury",
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Nudity & bodies",
+            "group": "sex",
+            "how": "Look, he's bra-I just met him in this thing, this episode, I just met him.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Look, he's bra-I just met him in this thing, this episode, I just met him.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "... uh, but I'm not sure. Uh, bendi-well, I think the metalbending is pretty cool, actually. So, there's the-the water, there's air, and the bloodbenders are really weird. They're the weird bender...",
+            "count": 12,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... uh, but I'm not sure. Uh, bendi-well, I think the metalbending is pretty cool, actually. So, there's the-the water, there's air, and the bloodbenders are really weird. They're the weird bender...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Those are evil people that are the bloodbenders, right?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Well, 'cause he has that thing up his sleeve. He's a bloodbender.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Refers to Tarrlok bloodbending Korra.] Oh, no. Oh, no. When I saw this, I was like, oh, no.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You're... you're a bloodbender?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "There are a lot of things you don't know about me. [Tarrlok bloodbends Korra through the air against a wall.]",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Ugh. [Refers to the crunching sounds accompanying Tarrlok's bloodbending.] Oh, the sound. How is the sound of bloodbending worse? Even though it's more subtle, it's, like, worse than getting hit by a brick.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "He's alrea-he's-now, he's coming at me 'cause I-I'm not bloodbe-because Korra's not bloodbending people.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "What, that you can bloodbend?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You have to learn how to do it, but if you-Katara's your teacher, you think Katara is gonna teach you how to bloodbend? No way.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I understand, but and if someone bloodbends you, you gotta have the reverse bloodbend.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah. It's just like, uh, being a human jukebox, and that's-sometimes people just gotta punch the right button and tell you what they need to hear and you'll-you'll deliver.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "Well, I-I got excited for a minute. I thought you said, uh, I thought you siad, is there a blender you'd like to have? 'Cause I-I thought I could make some nice cocktails or something with that. So, you know...",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Well, I-I got excited for a minute. I thought you said, uh, I thought you siad, is there a blender you'd like to have? 'Cause I-I thought I could make some nice cocktails or something with that. So, you know...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Nudity & bodies — Look, he's bra-I just met him in this thing, this episode, I just met him.",
+        "Violence & injury — ... uh, but I'm not sure. Uh, bendi-well, I think the metalbending is pretty cool, actually. So, there's the-the water, there's air, and the bloodbenders are really weird. They're the weird bender...",
+        "Alcohol & drugs — Well, I-I got excited for a minute. I thought you said, uh, I thought you siad, is there a blender you'd like to have? 'Cause I-I thought I could make some nice cocktails or something with that. So, you know..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 40,
+      "code": "0040",
+      "title": "The Cabbage Merchant Legacy Lives On feat. James Sie",
+      "index_title": "The Cabbage Merchant Legacy Lives On feat. James Sie",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Cabbage_Merchant_Legacy_Lives_On_feat._James_Sie",
+      "file": "transcripts/avatar/the-cabbage-merchant-legacy-lives-on-feat-james-sie.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 2,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "\"The Avatar Gets Bloodbent?! Feat. Special Guest Richard Epcar (\"Saikhan\")\"",
+            "count": 4,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "\"The Avatar Gets Bloodbent?! Feat. Special Guest Richard Epcar (\"Saikhan\")\"",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I, I mean, we-the-the cabbage merchants are our punching bag.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I was like, I could see possible frame-ness, but I also could see, after years of us being punching bagging the cabbage man, after all these years, he's like, you know what?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Who's gonna hole punch? Who? Will? Hole punch?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "My first book, Still Life Las Vegas, is actually soon coming out in paperback, so, I'm very, very happy.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "My first book, Still Life Las Vegas, is actually soon coming out in paperback, so, I'm very, very happy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — \"The Avatar Gets Bloodbent?! Feat. Special Guest Richard Epcar (\"Saikhan\")\""
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 41,
+      "code": "0041",
+      "title": "The Cinematic Evolution of Avatar with Director Joaquim Dos Santos",
+      "index_title": "The Cinematic Evolution of Avatar with Director Joaquim Dos Santos",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Cinematic_Evolution_of_Avatar_with_Director_Joaquim_Dos_Santos",
+      "file": "transcripts/avatar/the-cinematic-evolution-of-avatar-with-director-joaquim-dos-santos.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "She got guns out. Guns out. Guns are out, boy.",
+            "count": 7,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She got guns out. Guns out. Guns are out, boy.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I know. This is, uh, the-Korra's guns have inspired a lot of, like, fitness regimes. They're are, like, Facebook groups where people come in and make the commitment to, like, get Korra's guns.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She's a goner, the mother of bloodbending. The mother of...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Unless she's, like, bloodbending herself to, like, have, you know...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's not a big, you know, punch to the jaw or knockout shot, it's sort of, like, they're just blocking your chi, they're blocking your-so it's almost very delicate and very precise.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You're like, I can take a punch, I can take somebody firebending at me, I know what to do with that, but if you're just, like, tap tap tap tap tap, and, like, that debilitates me, how scary is that?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Which I think is the-is the great thing, which is why this episode is so successful. It doesn't really pull any punches. It just sort of leaves you with story. It's like, here you are.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "Then Ryu got the sketch and was like, hold my beer, buddy.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Then Ryu got the sketch and was like, hold my beer, buddy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Also Mako was, like, kinda dazed and confused coming out, yeah.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Also Mako was, like, kinda dazed and confused coming out, yeah.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — She got guns out. Guns out. Guns are out, boy.",
+        "Alcohol & drugs — Then Ryu got the sketch and was like, hold my beer, buddy."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 42,
+      "code": "0042",
+      "title": "The Essence of Bending with Bryan Konietzko and Sifu Kisu",
+      "index_title": "The Essence of Bending with Bryan Konietzko and Sifu Kisu",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Essence_of_Bending_with_Bryan_Konietzko_and_Sifu_Kisu",
+      "file": "transcripts/avatar/the-essence-of-bending-with-bryan-konietzko-and-sifu-kisu.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "The powerful kicks, the punches, the low stances, um, the nearly-acrobatic movements...",
+            "count": 5,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The powerful kicks, the punches, the low stances, um, the nearly-acrobatic movements...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "To demonstrate Kisu's point, after she steps aside to avoid Xin Fu's earthen projectile, Toph quickly punches the air while aiming at the ground, the power of her off-screen earthbending sending Xin Fu flying out…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "We use a sub-variation of the Yang-style tai chi, um, which is the Gu-style. The punch in tai chi is-is-is trained slightly different...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "than the punch in Northern Shaolin.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's just not about kicking or punching somebody, it's about expressing, and-and-and-and building the body's energy, and raising the spirit.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — The powerful kicks, the punches, the low stances, um, the nearly-acrobatic movements..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 43,
+      "code": "0043",
+      "title": "The First Avatar: How Wan Changed the Avatarverse Forever",
+      "index_title": "The First Avatar: How Wan Changed the Avatarverse Forever",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_First_Avatar%3A_How_Wan_Changed_the_Avatarverse_Forever",
+      "file": "transcripts/avatar/the-first-avatar-how-wan-changed-the-avatarverse-forever.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Is it-is it cold-blooded?",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Is it-is it cold-blooded?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Just coming out fire, just coming out. They're, like, some...",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Just coming out fire, just coming out. They're, like, some...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Is it-is it cold-blooded?"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 44,
+      "code": "0044",
+      "title": "The Last Airbender",
+      "index_title": "The Last Airbender",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Last_Airbender",
+      "file": "transcripts/avatar/the-last-airbender.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Zhao overcomes his hesitation and stabs the fish with his dagger.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Zhao overcomes his hesitation and stabs the fish with his dagger.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Zhao overcomes his hesitation and stabs the fish with his dagger."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 45,
+      "code": "0045",
+      "title": "The Legend Continues",
+      "index_title": "The Legend Continues",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Legend_Continues",
+      "file": "transcripts/avatar/the-legend-continues.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 46,
+      "code": "0046",
+      "title": "The Legend of Korra (video game)",
+      "index_title": "The Legend of Korra (video game)",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Legend_of_Korra_%28video_game%29",
+      "file": "transcripts/avatar/the-legend-of-korra-video-game.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Hop hop hoppity. Hop hop hoppity. Fight! Fight! Punch! Punch! Kick!",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Hop hop hoppity. Hop hop hoppity. Fight! Fight! Punch! Punch! Kick!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Hundun and his brother recover from a blow and land a powerful kick and punch on Korra, propelling her unconscious body high into the air.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Hop hop hoppity. Hop hop hoppity. Fight! Fight! Punch! Punch! Kick!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 47,
+      "code": "0047",
+      "title": "The Legend of Korra Begins! INSIDE Book One w/ Creators Mike & Bryan",
+      "index_title": "The Legend of Korra Begins! INSIDE Book One w/ Creators Mike & Bryan",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Legend_of_Korra_Begins%21_INSIDE_Book_One_w/_Creators_Mike_%26_Bryan",
+      "file": "transcripts/avatar/the-legend-of-korra-begins-inside-book-one-w-creators-mike-bryan.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Yeah, he's-he was just on Chris's shoulders, just slapping him in the face. And Chris, just talking like, uh, like as if it wasn't happening. He just...",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah, he's-he was just on Chris's shoulders, just slapping him in the face. And Chris, just talking like, uh, like as if it wasn't happening. He just...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "especially people coming out of a hundred year war, would say, they would, you know, look to this thing that the world had lost, but like, hey, the world needs that, that mentality, it needs that as a balancing force.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "especially people coming out of a hundred year war, would say, they would, you know, look to this thing that the world had lost, but like, hey, the world needs that, that mentality, it needs that as a balancing force.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Yeah, he's-he was just on Chris's shoulders, just slapping him in the face. And Chris, just talking like, uh, like as if it wasn't happening. He just..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 48,
+      "code": "0048",
+      "title": "The Legend of Puppetbender Presents The Making of a Legend: The Untold Story - Part I",
+      "index_title": "The Legend of Puppetbender Presents The Making of a Legend: The Untold Story - Part I",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Legend_of_Puppetbender_Presents_The_Making_of_a_Legend%3A_The_Untold_Story_-_Part_I",
+      "file": "transcripts/avatar/the-legend-of-puppetbender-presents-the-making-of-a-legend-the-untold-story-part-i.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "She ain't no chump bendin' sista. Just check out those guns! [Korra kisses one of her flexed arms.] You know you love it.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She ain't no chump bendin' sista. Just check out those guns! [Korra kisses one of her flexed arms.] You know you love it.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — She ain't no chump bendin' sista. Just check out those guns! [Korra kisses one of her flexed arms.] You know you love it."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 49,
+      "code": "0049",
+      "title": "The Legend of Puppetbender Presents The Making of a Legend: The Untold Story - Part II",
+      "index_title": "The Legend of Puppetbender Presents The Making of a Legend: The Untold Story - Part II",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Legend_of_Puppetbender_Presents_The_Making_of_a_Legend%3A_The_Untold_Story_-_Part_II",
+      "file": "transcripts/avatar/the-legend-of-puppetbender-presents-the-making-of-a-legend-the-untold-story-part-ii.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 50,
+      "code": "0050",
+      "title": "The Legend So Far",
+      "index_title": "The Legend So Far",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Legend_So_Far",
+      "file": "transcripts/avatar/the-legend-so-far.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Sokka tries to throw a punch at Suki, only to be stopped in place as Suki simply holds her closed fan against Sokka's shoulder.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Sokka tries to throw a punch at Suki, only to be stopped in place as Suki simply holds her closed fan against Sokka's shoulder.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Sokka tries to throw a punch at Suki, only to be stopped in place as Suki simply holds her closed fan against Sokka's shoulder."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 51,
+      "code": "0051",
+      "title": "The Making of Avatar - From Real Life to Animation",
+      "index_title": "The Making of Avatar - From Real Life to Animation",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Making_of_Avatar_-_From_Real_Life_to_Animation",
+      "file": "transcripts/avatar/the-making-of-avatar-from-real-life-to-animation.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 52,
+      "code": "0052",
+      "title": "The Making of Avatar - Inside the Korean Animation Studios",
+      "index_title": "The Making of Avatar - Inside the Korean Animation Studios",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Making_of_Avatar_-_Inside_the_Korean_Animation_Studios",
+      "file": "transcripts/avatar/the-making-of-avatar-inside-the-korean-animation-studios.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[In the background, a scene from \"The Fortuneteller\" plays, where Sokka tries to catch a fish by lobbing a spear and stabbing at the water with a knife.] Because that's when Sokka's personality emerges clearly.",
+            "count": 2,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[In the background, a scene from \"The Fortuneteller\" plays, where Sokka tries to catch a fish by lobbing a spear and stabbing at the water with a knife.] Because that's when Sokka's personality emerges clearly.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…of a beaver, [Footage of \"Bato of the Water Tribe\" plays intermittently in the background, with Appa slapping his massive tail down against the ground, angrily advancing on the ground toward Zuko, then fighting…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [In the background, a scene from \"The Fortuneteller\" plays, where Sokka tries to catch a fish by lobbing a spear and stabbing at the water with a knife.] Because that's when Sokka's personality emerges clearly."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 53,
+      "code": "0053",
+      "title": "The Making of Avatar - Inside the Sound Studios",
+      "index_title": "The Making of Avatar - Inside the Sound Studios",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Making_of_Avatar_-_Inside_the_Sound_Studios",
+      "file": "transcripts/avatar/the-making-of-avatar-inside-the-sound-studios.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 54,
+      "code": "0054",
+      "title": "The Rise of the Dark Avatar w/ Special Guest Devery Jacobs",
+      "index_title": "The Rise of the Dark Avatar w/ Special Guest Devery Jacobs",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Rise_of_the_Dark_Avatar_w/_Special_Guest_Devery_Jacobs",
+      "file": "transcripts/avatar/the-rise-of-the-dark-avatar-w-special-guest-devery-jacobs.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is homophobic jokes (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury",
+          "Homophobic jokes"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "I like the co-I know, I like the concept of a Dark Avatar. Sounds sexy, but...",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I like the co-I know, I like the concept of a Dark Avatar. Sounds sexy, but...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You're like, maybe that wasn't a good idea. Maybe that wasn't sexy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Like, in a weird way, considering that we're dealing with, like, spirit stuff, it's not like it's blood and gore, but somehow it's so violent that it's very upsetting. Right?",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Like, in a weird way, considering that we're dealing with, like, spirit stuff, it's not like it's blood and gore, but somehow it's so violent that it's very upsetting. Right?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Uh, one, well, we gotta beat Unalaq. We gotta beat him, right? Two, uh, somehow Jinora gets the rest of the spirits to join in the fight to defeat Unalaq.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Homophobic jokes",
+            "group": "bias",
+            "how": "I think they're called a Van Dyke, that one.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I think they're called a Van Dyke, that one.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — I like the co-I know, I like the concept of a Dark Avatar. Sounds sexy, but...",
+        "Violence & injury — Like, in a weird way, considering that we're dealing with, like, spirit stuff, it's not like it's blood and gore, but somehow it's so violent that it's very upsetting. Right?",
+        "Homophobic jokes — I think they're called a Van Dyke, that one."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 55,
+      "code": "0055",
+      "title": "The Spirit of an Episode",
+      "index_title": "The Spirit of an Episode",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Spirit_of_an_Episode",
+      "file": "transcripts/avatar/the-spirit-of-an-episode.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Same moms, different dads; so what? We're blood, Lin, and after thirty years, the least you could do is say, \"hello.\"",
+            "count": 5,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Same moms, different dads; so what? We're blood, Lin, and after thirty years, the least you could do is say, \"hello.\"",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She's using the old-school ones, which are like-almost like gun holsters on her sides, so she has to [Ian and Steve mimic drawing guns from their sides using their…",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…video and animatic footage of Jake and the White Lotus sentries striking out before pulling back their punches as though hesitating.] take it from there, we send back overseas, we clean up the boards or take another…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…if it looks good and can't reference it, you know, we'll go with it, but for everything else, down to punches and kicks, it'll be martial arts referenced.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Cut to the Dai Li sergeant sending earth discs flying by punching and kicking at the air, with his trainees trying to ward off the projectiles with their airbending, only to suffer their full impact.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Same moms, different dads; so what? We're blood, Lin, and after thirty years, the least you could do is say, \"hello.\""
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 56,
+      "code": "0056",
+      "title": "The Twist That Changed Everything: Bolin's Heroics in Night of a Thousand Stars",
+      "index_title": "The Twist That Changed Everything: Bolin's Heroics in Night of a Thousand Stars",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Twist_That_Changed_Everything%3A_Bolin%27s_Heroics_in_Night_of_a_Thousand_Stars",
+      "file": "transcripts/avatar/the-twist-that-changed-everything-bolin-s-heroics-in-night-of-a-thousand-stars.txt",
+      "summary": null,
+      "violence": 3,
+      "sex": 1,
+      "language": 2,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "And just, like, patterns. It's like, I'm not a regular ship. I'm, like, sexy.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "And just, like, patterns. It's like, I'm not a regular ship. I'm, like, sexy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "There's some bad business. There's bloodbending going on for crying out loud.",
+            "count": 8,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "There's some bad business. There's bloodbending going on for crying out loud.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bloodbending. There's this guy trying to take over the, whatever, Spirit World.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Let's go. [Bolin rips off his damaged sleeves.] Hold up. Guns out.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Gun's-sun's out, guns out.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's uncomfortable for everybody because I think, again, I-as I've said many times, there's never bad blood between Asami and Korra.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Both series are-they go-they don't pull any punches, and they go super deep, and they ask really tough questions and tackle really tough things, and then are also, like, charming and hilarious and lovely.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I feel like any Jason Statham movie, he could be, li-and then I had to just get up and, like, punch someone who was in my seat.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You know what? That, that fight, though, is so aggres-is so aggressive. I like a little bit of Bolin punched down a door.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — And just, like, patterns. It's like, I'm not a regular ship. I'm, like, sexy.",
+        "Violence & injury — There's some bad business. There's bloodbending going on for crying out loud."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 57,
+      "code": "0057",
+      "title": "The Voice of Avatar Aang's Grandaughter! Darcy Rose Byrnes (\"Ikki\")",
+      "index_title": "The Voice of Avatar Aang's Grandaughter! Darcy Rose Byrnes (\"Ikki\")",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Voice_of_Avatar_Aang%27s_Grandaughter%21_Darcy_Rose_Byrnes_%28%22Ikki%22%29",
+      "file": "transcripts/avatar/the-voice-of-avatar-aang-s-grandaughter-darcy-rose-byrnes-ikki.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "That was sexy. That was sexy, Mako. That was sexy.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "That was sexy. That was sexy, Mako. That was sexy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "So if you like murder mysteries, if you like comedy, if you like musical, this is all of those things.",
+            "count": 2,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So if you like murder mysteries, if you like comedy, if you like musical, this is all of those things.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Um, Rosa, who's in the opening, a murder victim's daughter, and then a newsboy, uh, who keeps talking about all the murders.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — That was sexy. That was sexy, Mako. That was sexy.",
+        "Violence & injury — So if you like murder mysteries, if you like comedy, if you like musical, this is all of those things."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 58,
+      "code": "0058",
+      "title": "The Voices of Avatar",
+      "index_title": "The Voices of Avatar",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Voices_of_Avatar",
+      "file": "transcripts/avatar/the-voices-of-avatar.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "You know, if someone throws a punch and they need to grunt, [Cut between Aang and Jet's respective grunts as the former blasts the latter…",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You know, if someone throws a punch and they need to grunt, [Cut between Aang and Jet's respective grunts as the former blasts the latter…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — You know, if someone throws a punch and they need to grunt, [Cut between Aang and Jet's respective grunts as the former blasts the latter…"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 59,
+      "code": "0059",
+      "title": "The Women of Avatar: The Last Airbender",
+      "index_title": "The Women of Avatar: The Last Airbender",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AThe_Women_of_Avatar%3A_The_Last_Airbender",
+      "file": "transcripts/avatar/the-women-of-avatar-the-last-airbender.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 60,
+      "code": "0060",
+      "title": "TLOK's Shiro Shinobi Speaks! The Voice Behind Avatar's Iconic Radio Voice",
+      "index_title": "TLOK's Shiro Shinobi Speaks! The Voice Behind Avatar's Iconic Radio Voice",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3ATLOK%27s_Shiro_Shinobi_Speaks%21_The_Voice_Behind_Avatar%27s_Iconic_Radio_Voice",
+      "file": "transcripts/avatar/tlok-s-shiro-shinobi-speaks-the-voice-behind-avatar-s-iconic-radio-voice.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "Um, and with the teenage drama, it looks like Asami may be out and maybe Korra is going to, uh, I mean, hook up with Mako. Like, there's gonna be some kindling of fire with Mako and Korra.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Um, and with the teenage drama, it looks like Asami may be out and maybe Korra is going to, uh, I mean, hook up with Mako. Like, there's gonna be some kindling of fire with Mako and Korra.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "I love water and I love-I-I-I saw somewhere that, like, this is really kinda cruel, but, uh, the fact of, like, being able to, like, boil someone else's blood, I think not-not as me.",
+            "count": 4,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I love water and I love-I-I-I saw somewhere that, like, this is really kinda cruel, but, uh, the fact of, like, being able to, like, boil someone else's blood, I think not-not as me.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bloodbending-bloodbending comes into play, a lot.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Like, if you're-if you were a villain, or something, you're able to bend blood. I mean, that's a pretty cool trick to be able to pull off. But it-for me...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "... you want that one-two punch of the sacrifice and the bend...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — Um, and with the teenage drama, it looks like Asami may be out and maybe Korra is going to, uh, I mean, hook up with Mako. Like, there's gonna be some kindling of fire with Mako and Korra.",
+        "Violence & injury — I love water and I love-I-I-I saw somewhere that, like, this is really kinda cruel, but, uh, the fact of, like, being able to, like, boil someone else's blood, I think not-not as me."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 61,
+      "code": "0061",
+      "title": "Toph and The Boulder Reunite! Michaela Jill Murphy & Mick Foley Spill Avatarverse Secrets",
+      "index_title": "Toph and The Boulder Reunite! Michaela Jill Murphy & Mick Foley Spill Avatarverse Secrets",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AToph_and_The_Boulder_Reunite%21_Michaela_Jill_Murphy_%26_Mick_Foley_Spill_Avatarverse_Secrets",
+      "file": "transcripts/avatar/toph-and-the-boulder-reunite-michaela-jill-murphy-mick-foley-spill-avatarverse-secrets.txt",
+      "summary": null,
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "Good drinks, good drinks, got some-some nice cocktails at times.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Good drinks, good drinks, got some-some nice cocktails at times.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Get ready for this take, this take, this flamey-O hot take that's coming out of absolutely nowhere.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Get ready for this take, this take, this flamey-O hot take that's coming out of absolutely nowhere.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Alcohol & drugs — Good drinks, good drinks, got some-some nice cocktails at times."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 0,
+      "episode": 62,
+      "code": "0062",
+      "title": "Uncle Iroh Returns! Greg Baldwin & Cora Baker on Korra's Spirit World Journey",
+      "index_title": "Uncle Iroh Returns! Greg Baldwin & Cora Baker on Korra's Spirit World Journey",
+      "url": "https://avatar.fandom.com/wiki/Transcript%3AUncle_Iroh_Returns%21_Greg_Baldwin_%26_Cora_Baker_on_Korra%27s_Spirit_World_Journey",
+      "file": "transcripts/avatar/uncle-iroh-returns-greg-baldwin-cora-baker-on-korra-s-spirit-world-journey.txt",
+      "summary": null,
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Affairs / cheating",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Affairs / cheating",
+            "group": "sex",
+            "how": "It's a family affair.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's a family affair.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Refers to Zei's corpse.] That archaeologist guy, huh? That archaeologist guy.",
+            "count": 2,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Refers to Zei's corpse.] That archaeologist guy, huh? That archaeologist guy.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "But up 'til this point, there is no bad blood between Korra and Asami. Like, the only person who gets it ta-gets taken out on is Mako. Like...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Affairs / cheating — It's a family affair.",
+        "Violence & injury — [Refers to Zei's corpse.] That archaeologist guy, huh? That archaeologist guy."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    }
+  ]
+}

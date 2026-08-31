@@ -12,27 +12,39 @@
 
 ## Shows rated
 
-- [Friends](https://watchwiththekids.com/friends.html): 228 episodes — 11% all clear, 55% gray area, 35% hard pass. Full text index: [friends.md](https://watchwiththekids.com/llms/friends.md)
-- [The Office](https://watchwiththekids.com/the-office.html): 186 episodes — 25% all clear, 46% gray area, 29% hard pass. Full text index: [the-office.md](https://watchwiththekids.com/llms/the-office.md)
-- [How I Met Your Mother](https://watchwiththekids.com/how-i-met-your-mother.html): 208 episodes — 3% all clear, 41% gray area, 55% hard pass. Full text index: [how-i-met-your-mother.md](https://watchwiththekids.com/llms/how-i-met-your-mother.md)
-- [The Big Bang Theory](https://watchwiththekids.com/big-bang-theory.html): 279 episodes — 42% all clear, 38% gray area, 20% hard pass. Full text index: [big-bang-theory.md](https://watchwiththekids.com/llms/big-bang-theory.md)
-- [Seinfeld](https://watchwiththekids.com/seinfeld.html): 176 episodes — 39% all clear, 45% gray area, 16% hard pass. Full text index: [seinfeld.md](https://watchwiththekids.com/llms/seinfeld.md)
-- [Futurama](https://watchwiththekids.com/futurama.html): 141 episodes — 0% all clear, 38% gray area, 62% hard pass. Full text index: [futurama.md](https://watchwiththekids.com/llms/futurama.md)
-- [Malcolm in the Middle](https://watchwiththekids.com/malcolm-in-the-middle.html): 151 episodes — 37% all clear, 57% gray area, 6% hard pass. Full text index: [malcolm-in-the-middle.md](https://watchwiththekids.com/llms/malcolm-in-the-middle.md)
-- [SpongeBob SquarePants](https://watchwiththekids.com/spongebob.html): 1060 episodes — 97% all clear, 3% gray area, 0% hard pass. Full text index: [spongebob.md](https://watchwiththekids.com/llms/spongebob.md)
-- [Young Sheldon](https://watchwiththekids.com/young-sheldon.html): 141 episodes — 60% all clear, 36% gray area, 4% hard pass. Full text index: [young-sheldon.md](https://watchwiththekids.com/llms/young-sheldon.md)
-- [Rick and Morty](https://watchwiththekids.com/rick-and-morty.html): 82 episodes — 0% all clear, 1% gray area, 99% hard pass. Full text index: [rick-and-morty.md](https://watchwiththekids.com/llms/rick-and-morty.md)
-- [Family Guy](https://watchwiththekids.com/family-guy.html): 456 episodes — 2% all clear, 21% gray area, 77% hard pass. Full text index: [family-guy.md](https://watchwiththekids.com/llms/family-guy.md)
-- [South Park](https://watchwiththekids.com/south-park.html): 335 episodes — 0% all clear, 6% gray area, 94% hard pass. Full text index: [south-park.md](https://watchwiththekids.com/llms/south-park.md)
+- [Friends](https://watchwiththekids.com/friends.html): 228 episodes — 14% all clear, 57% gray area, 29% hard pass. Full text index: [friends.md](https://watchwiththekids.com/llms/friends.md)
+- [The Office](https://watchwiththekids.com/the-office.html): 186 episodes — 36% all clear, 38% gray area, 26% hard pass. Full text index: [the-office.md](https://watchwiththekids.com/llms/the-office.md)
+- [Parks and Recreation](https://watchwiththekids.com/parks-and-recreation.html): 122 episodes — 38% all clear, 34% gray area, 28% hard pass. Full text index: [parks-and-recreation.md](https://watchwiththekids.com/llms/parks-and-recreation.md)
+- [How I Met Your Mother](https://watchwiththekids.com/how-i-met-your-mother.html): 208 episodes — 13% all clear, 40% gray area, 47% hard pass. Full text index: [how-i-met-your-mother.md](https://watchwiththekids.com/llms/how-i-met-your-mother.md)
+- [The Big Bang Theory](https://watchwiththekids.com/big-bang-theory.html): 279 episodes — 51% all clear, 32% gray area, 17% hard pass. Full text index: [big-bang-theory.md](https://watchwiththekids.com/llms/big-bang-theory.md)
+- [Modern Family](https://watchwiththekids.com/modern-family.html): 246 episodes — 51% all clear, 39% gray area, 9% hard pass. Full text index: [modern-family.md](https://watchwiththekids.com/llms/modern-family.md)
+- [Seinfeld](https://watchwiththekids.com/seinfeld.html): 176 episodes — 53% all clear, 39% gray area, 9% hard pass. Full text index: [seinfeld.md](https://watchwiththekids.com/llms/seinfeld.md)
+- [Futurama](https://watchwiththekids.com/futurama.html): 141 episodes — 0% all clear, 79% gray area, 21% hard pass. Full text index: [futurama.md](https://watchwiththekids.com/llms/futurama.md)
+- [Malcolm in the Middle](https://watchwiththekids.com/malcolm-in-the-middle.html): 151 episodes — 64% all clear, 32% gray area, 4% hard pass. Full text index: [malcolm-in-the-middle.md](https://watchwiththekids.com/llms/malcolm-in-the-middle.md)
+- [Phineas and Ferb](https://watchwiththekids.com/phineas-and-ferb.html): 267 episodes — 97% all clear, 3% gray area, 0% hard pass. Full text index: [phineas-and-ferb.md](https://watchwiththekids.com/llms/phineas-and-ferb.md)
+- [SpongeBob SquarePants](https://watchwiththekids.com/spongebob.html): 862 episodes — 99% all clear, 1% gray area, 0% hard pass. Full text index: [spongebob.md](https://watchwiththekids.com/llms/spongebob.md)
+- [Avatar: The Last Airbender](https://watchwiththekids.com/avatar.html): 62 episodes — 82% all clear, 18% gray area, 0% hard pass. Full text index: [avatar.md](https://watchwiththekids.com/llms/avatar.md)
+- [Adventure Time](https://watchwiththekids.com/adventure-time.html): 305 episodes — 92% all clear, 8% gray area, 0% hard pass. Full text index: [adventure-time.md](https://watchwiththekids.com/llms/adventure-time.md)
+- [Bluey](https://watchwiththekids.com/bluey.html): 154 episodes — 100% all clear, 0% gray area, 0% hard pass. Full text index: [bluey.md](https://watchwiththekids.com/llms/bluey.md)
+- [Steven Universe](https://watchwiththekids.com/steven-universe.html): 191 episodes — 98% all clear, 2% gray area, 0% hard pass. Full text index: [steven-universe.md](https://watchwiththekids.com/llms/steven-universe.md)
+- [Full House](https://watchwiththekids.com/full-house.html): 120 episodes — 93% all clear, 7% gray area, 0% hard pass. Full text index: [full-house.md](https://watchwiththekids.com/llms/full-house.md)
+- [Gravity Falls](https://watchwiththekids.com/gravity-falls.html): 63 episodes — 75% all clear, 25% gray area, 0% hard pass. Full text index: [gravity-falls.md](https://watchwiththekids.com/llms/gravity-falls.md)
+- [Young Sheldon](https://watchwiththekids.com/young-sheldon.html): 141 episodes — 79% all clear, 17% gray area, 4% hard pass. Full text index: [young-sheldon.md](https://watchwiththekids.com/llms/young-sheldon.md)
+- [Rick and Morty](https://watchwiththekids.com/rick-and-morty.html): 82 episodes — 0% all clear, 7% gray area, 93% hard pass. Full text index: [rick-and-morty.md](https://watchwiththekids.com/llms/rick-and-morty.md)
+- [Family Guy](https://watchwiththekids.com/family-guy.html): 456 episodes — 7% all clear, 27% gray area, 66% hard pass. Full text index: [family-guy.md](https://watchwiththekids.com/llms/family-guy.md)
+- [South Park](https://watchwiththekids.com/south-park.html): 335 episodes — 2% all clear, 12% gray area, 86% hard pass. Full text index: [south-park.md](https://watchwiththekids.com/llms/south-park.md)
+- [Wednesday](https://watchwiththekids.com/wednesday.html): 16 episodes — 0% all clear, 94% gray area, 6% hard pass. Full text index: [wednesday.md](https://watchwiththekids.com/llms/wednesday.md)
+- [KPop Demon Hunters](https://watchwiththekids.com/kpop-demon-hunters.html): 1 episodes — 0% all clear, 100% gray area, 0% hard pass. Full text index: [kpop-demon-hunters.md](https://watchwiththekids.com/llms/kpop-demon-hunters.md)
 
 ## Machine-readable data
 
-- [Sitemap](https://watchwiththekids.com/sitemap.xml): every show and episode page.
+- [What to watch](https://watchwiththekids.com/guides/): safest episodes and skip lists per show.
+- [How we rate](https://watchwiththekids.com/about.html): scoring method and disclaimer.
 - [Show catalogue JSON](https://watchwiththekids.com/shows.json): shows, covers and rating mix.
 - Per-show ratings JSON: https://watchwiththekids.com/data/<show-id>.js (window.RATINGS payload).
 
 ## Notes
 
 - This is informal parental guidance, not an official rating body.
-- Strong profanity is masked in quotes; slurs are replaced with [racial slur].
+- Quotes are shown verbatim from the transcript, including profanity and slurs.
 - You kids — your rules!

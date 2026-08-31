@@ -7,5 +7,19 @@
         { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.watchwiththekids.com" }],
+      "destination": "https://watchwiththekids.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "watchwithkids.vercel.app" }],
+      "destination": "https://watchwiththekids.com/:path*",
+      "permanent": true
+    }
   ]
 }

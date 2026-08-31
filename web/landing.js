@@ -6,31 +6,33 @@
   const sparkles = document.getElementById("sparkles");
 
   const READY_ORDER = [
-    "friends",
-    "seinfeld",
-    "spongebob",
-    "the-office",
-    "how-i-met-your-mother",
-    "big-bang-theory",
-    "young-sheldon",
-    "malcolm-in-the-middle",
-    "rick-and-morty",
-    "family-guy",
-    "south-park",
-    "futurama",
-  ];
-  const SOON_ORDER = [
     "bluey",
+    "spongebob",
     "phineas-and-ferb",
     "avatar",
     "gravity-falls",
     "adventure-time",
     "steven-universe",
+    "kpop-demon-hunters",
     "full-house",
-    "fresh-prince",
-    "parks-and-recreation",
-    "brooklyn-nine-nine",
+    "young-sheldon",
+    "friends",
+    "seinfeld",
+    "the-office",
+    "how-i-met-your-mother",
+    "big-bang-theory",
+    "malcolm-in-the-middle",
     "modern-family",
+    "parks-and-recreation",
+    "wednesday",
+    "futurama",
+    "rick-and-morty",
+    "family-guy",
+    "south-park",
+  ];
+  const SOON_ORDER = [
+    "fresh-prince",
+    "brooklyn-nine-nine",
     "simpsons",
     "bobs-burgers",
   ];
@@ -39,6 +41,13 @@
     friends: "Six friends, one couch — rated episode by episode.",
     seinfeld: "A show about nothing — with plenty of adult sitcom edges.",
     spongebob: "Bikini Bottom chaos. Mostly kid-safe; we flagged the exceptions.",
+    bluey: "Blue Heeler family play — almost always all clear for little kids.",
+    "phineas-and-ferb": "Summer inventions and Perry the Platypus — made for kids.",
+    avatar: "Four nations, one Avatar — adventure with some wartime weight.",
+    "gravity-falls": "Weird Oregon summer — spooky mystery, still a kids show.",
+    "adventure-time": "Land of Ooo — silly on the surface, a few darker beats.",
+    "steven-universe": "Crystal Gems and feelings — gentle, with heavy themes later.",
+    "full-house": "Tanner family sitcom — mostly mild, occasional grown-up bits.",
     "the-office": "Scranton paper-company cringe — preview before little kids.",
     "how-i-met-your-mother": "Yellow umbrella, blue French horn — lots of adult dating plots.",
     "big-bang-theory": "Nerd sitcom with more innuendo than the science jokes suggest.",
@@ -48,6 +57,10 @@
     "family-guy": "Cutaway gags and crude jokes — skip for the little ones.",
     "south-park": "Mountain-town satire — nearly every episode is a hard pass.",
     futurama: "31st-century delivery crew — lots of adult sci-fi comedy.",
+    "parks-and-recreation": "Pawnee parks dept. — workplace sitcom with adult edges.",
+    "modern-family": "Three families, one mockumentary — lots of grown-up plots.",
+    wednesday: "Macabre Nevermore mystery — murder, monsters and deadpan dark humor.",
+    "kpop-demon-hunters": "Pop stars by day, demon hunters by night — one animated movie, rated.",
   };
 
   const SLIDE_MS = 4000;
@@ -103,7 +116,6 @@
         <div class="feature-slides"></div>
         <div class="feature-chrome">
           <div class="feature-copy">
-            <span class="live-pill">Live · episode ratings</span>
             <h2 class="feature-title" id="feature-title"></h2>
             <p class="feature-blurb" id="feature-blurb"></p>
             <a class="cta" id="feature-cta" href="#">Browse episodes <span class="cta-arrow">→</span></a>
@@ -233,7 +245,8 @@
       else resume();
     });
 
-    if (!reduceMotion) {
+    const finePointer = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+    if (!reduceMotion && finePointer) {
       stage.addEventListener("pointermove", (e) => {
         const r = stage.getBoundingClientRect();
         const x = (e.clientX - r.left) / r.width - 0.5;
@@ -244,17 +257,32 @@
         stage.style.transform = "";
       });
     }
+
+    let swipeX = 0;
+    stage.addEventListener("pointerdown", (e) => {
+      swipeX = e.clientX;
+    });
+    stage.addEventListener("pointerup", (e) => {
+      const dx = e.clientX - swipeX;
+      if (Math.abs(dx) < 48) return;
+      paint(index + (dx < 0 ? 1 : -1));
+      schedule(SLIDE_MS);
+    });
   }
 
   function cardHtml(s, i, soonMode) {
     const soon = soonMode || !s.ready;
     const tag = soon ? `<span class="status soon">Coming soon</span>` : "";
     const href = s.ready ? `${s.id}.html` : "#";
+    const guideHref = s.ready ? `guides/${s.id}.html` : "";
     const cls = soon ? "show-card is-soon" : "show-card";
     const tagName = soon ? "div" : "a";
     const mix = s.mix;
     const scoreHtml =
       !soon && mix && mix.total ? safeScoreHtml(mix) : "";
+    const guideHtml = guideHref
+      ? `<span class="card-guide" data-guide="${guideHref}">What to watch</span>`
+      : "";
     return `
       <${tagName} class="${cls}" data-i="${i}" ${soon ? "" : `href="${href}"`}>
         <img src="${s.coverLocal}" alt="${escapeHtml(s.name)}" loading="lazy" />
@@ -266,10 +294,20 @@
             s.genres?.[0] ? ` · ${escapeHtml(s.genres[0])}` : ""
           }</p>
           ${scoreHtml}
+          ${guideHtml}
         </div>
       </${tagName}>
     `;
   }
+
+  document.addEventListener("click", (e) => {
+    const chip = e.target.closest(".card-guide");
+    if (!chip) return;
+    e.preventDefault();
+    e.stopPropagation();
+    const href = chip.getAttribute("data-guide");
+    if (href) window.location.href = href;
+  });
 
   /** Episode mix: Safe (≤2) / Borderline (3) / Hard Pass (≥4). */
   function safeScoreHtml(mix) {

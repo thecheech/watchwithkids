@@ -10,6 +10,9 @@ import re
 import shutil
 from datetime import date
 from pathlib import Path
+from urllib.parse import quote_plus
+
+from catalog import dedupe_codes
 
 ROOT = Path(__file__).resolve().parent
 WEB = ROOT / "web"
@@ -18,9 +21,7 @@ EP_ROOT = WEB / "ep"
 LLM_ROOT = WEB / "llms"
 DATA.mkdir(exist_ok=True)
 
-# Canonical origin. watchwiththekids.com is aliased in Vercel but NOT registered yet,
-# so canonicals point at the live vercel.app host until DNS actually resolves.
-SITE = os.environ.get("WWTK_SITE", "https://watchwithkids.vercel.app").rstrip("/")
+SITE = os.environ.get("WWTK_SITE", "https://watchwiththekids.com").rstrip("/")
 BRAND = "Watch With The Kids"
 TAGLINE = "You kids — your rules!"
 
@@ -28,6 +29,13 @@ READY = [
     "friends",
     "seinfeld",
     "spongebob",
+    "bluey",
+    "phineas-and-ferb",
+    "avatar",
+    "gravity-falls",
+    "adventure-time",
+    "steven-universe",
+    "full-house",
     "the-office",
     "how-i-met-your-mother",
     "big-bang-theory",
@@ -37,6 +45,10 @@ READY = [
     "family-guy",
     "south-park",
     "futurama",
+    "parks-and-recreation",
+    "modern-family",
+    "wednesday",
+    "kpop-demon-hunters",
 ]
 
 SHOW_PAGE = {
@@ -64,6 +76,41 @@ SHOW_PAGE = {
     "family-guy": {"name": "Family Guy", "h1": 'Family Guy <span class="pop">🐶</span>'},
     "south-park": {"name": "South Park", "h1": 'South Park <span class="pop">🏔️</span>'},
     "futurama": {"name": "Futurama", "h1": 'Futurama <span class="pop">🚀</span>'},
+    "parks-and-recreation": {
+        "name": "Parks and Recreation",
+        "h1": 'Parks and Recreation <span class="pop">🏞️</span>',
+    },
+    "modern-family": {
+        "name": "Modern Family",
+        "h1": 'Modern Family <span class="pop">🏡</span>',
+    },
+    "bluey": {"name": "Bluey", "h1": 'Bluey <span class="pop">🐶</span>'},
+    "phineas-and-ferb": {
+        "name": "Phineas and Ferb",
+        "h1": 'Phineas and Ferb <span class="pop">🎢</span>',
+    },
+    "avatar": {
+        "name": "Avatar: The Last Airbender",
+        "h1": 'Avatar: The Last Airbender <span class="pop">🌊</span>',
+    },
+    "gravity-falls": {
+        "name": "Gravity Falls",
+        "h1": 'Gravity Falls <span class="pop">🌲</span>',
+    },
+    "adventure-time": {
+        "name": "Adventure Time",
+        "h1": 'Adventure Time <span class="pop">🗡️</span>',
+    },
+    "steven-universe": {
+        "name": "Steven Universe",
+        "h1": 'Steven Universe <span class="pop">💎</span>',
+    },
+    "full-house": {"name": "Full House", "h1": 'Full House <span class="pop">🏠</span>'},
+    "wednesday": {"name": "Wednesday", "h1": 'Wednesday <span class="pop">🖤</span>'},
+    "kpop-demon-hunters": {
+        "name": "KPop Demon Hunters",
+        "h1": 'KPop Demon Hunters <span class="pop">🎤</span>',
+    },
 }
 
 BUCKET_BADGE = {
@@ -75,9 +122,15 @@ BUCKET_BADGE = {
 FONTS = (
     '<link rel="preconnect" href="https://fonts.googleapis.com" />\n'
     '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />\n'
+    '  <link rel="preconnect" href="https://static.tvmaze.com" />\n'
     '  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700'
     '&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />'
 )
+
+STILLS_PATH = ROOT / "stills.json"
+_STILLS: dict | None = None
+
+WATCH_LINKS = json.loads((ROOT / "watch_links.json").read_text()) if (ROOT / "watch_links.json").exists() else {}
 
 
 # ── helpers ───────────────────────────────────────────────────────────────────
@@ -162,21 +215,284 @@ def theme_sentence(ep: dict) -> str:
     return ", ".join(parts)
 
 
+def clip_meta(text: str, limit: int = 155) -> str:
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) <= limit:
+        return text
+    cut = text[: limit - 1]
+    if " " in cut:
+        cut = cut.rsplit(" ", 1)[0]
+    return cut.rstrip(".,;:—–-") + "…"
+
+
+def display_title(title: str) -> str:
+    """Drop scraper prefixes like 'Series 06 Episode 09 –' so titles match search queries."""
+    t = clean_title(title)
+    t = re.sub(r"^Series\s+\d+\s+Episode\s+\d+\s*[–—:-]\s*", "", t, flags=re.I)
+    t = re.sub(r"^[A-Za-z'& ]+\s\d{3,4}\s*[–—:-]\s*", "", t)
+    t = re.sub(r"^\d{3,4}\s*[–—:-]\s*", "", t)
+    return t.strip() or clean_title(title)
+
+
+def season_label(season) -> str:
+    raw = str(season)
+    if raw == "0":
+        return "Specials"
+    return f"Season {raw.lstrip('0') or raw}"
+
+
+def extra_head(image_url: str) -> str:
+    return (
+        f'  <meta property="og:image:width" content="1920" />\n'
+        f'  <meta property="og:image:height" content="1080" />\n'
+        f'  <meta property="og:locale" content="en_US" />\n'
+        f'  <meta name="twitter:image" content="{esc(image_url)}" />\n'
+        f'  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />\n'
+        f'  <link rel="icon" href="/favicon.ico" sizes="any" />\n'
+        f'  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />\n'
+        f'  <meta name="theme-color" content="#14101c" />\n'
+    )
+
+
+def site_footer(prefix: str = "") -> str:
+    return f"""  <footer class="wrap site-footer">
+    <p>
+      <a href="{prefix}index.html">{esc(BRAND)}</a>
+      · <a href="{prefix}guides/index.html">What to watch</a>
+      · <a href="{prefix}about.html">How we rate</a>
+      · {esc(TAGLINE)}
+    </p>
+  </footer>"""
+
+
+def faq_html(items: list[tuple[str, str]]) -> str:
+    blocks = []
+    for q, a in items:
+        blocks.append(
+            f'    <details class="faq-item">\n'
+            f"      <summary>{esc(q)}</summary>\n"
+            f"      <p>{a}</p>\n"
+            f"    </details>"
+        )
+    return (
+        '  <section class="wrap seo-copy faq" aria-label="Frequently asked questions">\n'
+        "    <h2>Common questions</h2>\n"
+        + "\n".join(blocks)
+        + "\n  </section>"
+    )
+
+
+def faq_jsonld(items: list[tuple[str, str]]) -> dict:
+    return {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": q,
+                "acceptedAnswer": {"@type": "Answer", "text": re.sub(r"<[^>]+>", "", a)},
+            }
+            for q, a in items
+        ],
+    }
+
+
+def home_faqs() -> list[tuple[str, str]]:
+    return [
+        (
+            "How do you decide if an episode is OK for kids?",
+            "Each episode is scored 1–5 for <strong>violence</strong>, <strong>sex</strong> and "
+            "<strong>language</strong> from its transcript. The overall score is the highest of "
+            "the three. 1–2 is all clear, 3 is a gray area worth previewing, and 4–5 is a hard "
+            "pass for little kids.",
+        ),
+        (
+            "Do you show what actually happens in the episode?",
+            "Yes. Every episode page lists each flagged theme, how many times it occurs, and the "
+            "moments behind it — direct quotes, or a short description of the scene when there "
+            "is no line to quote.",
+        ),
+        (
+            "Where should I start if I just want something safe tonight?",
+            'Open <a href="guides/index.html">What to watch</a> — each show has a list of the '
+            "safest episodes and the ones to skip, built from the same 1–5 scores.",
+        ),
+    ]
+
+
+def show_faqs(show_id: str, name: str, mix: dict) -> list[tuple[str, str]]:
+    return [
+        (
+            f"Is {name} OK for kids?",
+            f"Of {mix['total']} {esc(name)} episodes we rated, <strong>{mix['safe']}</strong> are "
+            f"all clear (overall 1–2/5), <strong>{mix['maybe']}</strong> are gray area (3/5) and "
+            f"<strong>{mix['skip']}</strong> are a hard pass (4–5/5). Every episode page lists "
+            "the exact moments behind the score.",
+        ),
+        (
+            f"How is each {name} episode rated?",
+            "Each episode is scored 1–5 for violence, sex and language. The overall score is the "
+            "highest of the three. Themes such as Sex &amp; hookups, Swearing, Alcohol / Drugs or "
+            "Racism are listed with a count and the quotes or scene descriptions behind them.",
+        ),
+        (
+            f"Which {name} episodes are safest to watch with kids?",
+            f'See the <a href="guides/{esc(show_id)}.html">What to watch in {esc(name)}</a> list — '
+            "safest episodes first, then the hard-pass list so you can skip them.",
+        ),
+        (
+            f"Where can I watch {name}?",
+            f"Try streaming {esc(name)} on Netflix, HBO or Disney+ — catalogs differ by country. "
+            "To buy a season or box set, use Amazon, Apple TV or Google Play.",
+        ),
+    ]
+
+
 def meta_description(show_name: str, ep: dict) -> str:
     label = ep_label(ep)
+    title = display_title(ep["title"])
     verdict = ep.get("verdict") or ""
     themes = theme_sentence(ep)
     base = (
-        f"Is {show_name} {label} “{clean_title(ep['title'])}” OK for kids? "
+        f"Is {show_name} {label} OK for kids? {title}. "
         f"Overall {ep.get('overall')}/5 — {verdict}. "
         f"Violence {ep.get('violence')}/5, sex {ep.get('sex')}/5, language {ep.get('language')}/5."
     )
     if themes:
         base += f" Watch for: {themes}."
-    return re.sub(r"\s+", " ", base)[:300]
+    return clip_meta(base)
+
+
+def _affiliate_url(raw) -> str | None:
+    if not raw:
+        return None
+    if isinstance(raw, str):
+        return raw
+    if isinstance(raw, dict):
+        return raw.get("url") or None
+    return None
+
+
+def outbound_href(link: dict) -> str:
+    """Prefer an affiliate URL when one is set; otherwise the plain outbound."""
+    return _affiliate_url(link.get("affiliate")) or link["url"]
+
+
+def outbound_rel(link: dict) -> str:
+    rel = "noopener noreferrer"
+    if _affiliate_url(link.get("affiliate")):
+        rel += " sponsored"
+    return rel
+
+
+def stream_links_for(show_id: str, show_name: str) -> dict | None:
+    aff = (WATCH_LINKS.get("affiliates") or {}).get(show_id) or {}
+    official = (WATCH_LINKS.get("official") or {}).get(show_id)
+    deep = (WATCH_LINKS.get("stream") or {}).get(show_id) or {}
+    q = quote_plus(show_name)
+
+    def chip(provider: str, name: str, url: str, note: str = "") -> dict:
+        link = {"id": provider, "name": name, "url": url}
+        if note:
+            link["note"] = note
+        tagged = _affiliate_url(aff.get(provider))
+        if tagged:
+            link["affiliate"] = {"url": tagged}
+        return link
+
+    netflix_url = deep.get("netflix") or f"https://www.netflix.com/search?q={q}"
+    hbo_url = deep.get("hbo") or f"https://www.hbomax.com/?q={q}"
+    disney_url = deep.get("disney") or f"https://www.disneyplus.com/search?q={q}"
+
+    official_name = (official or {}).get("name") or ""
+    official_url = (official or {}).get("url") or ""
+    extra = None
+    if official_url:
+        lowered = official_name.lower()
+        if "disney" in lowered:
+            disney_url = official_url
+        elif "netflix" in lowered:
+            netflix_url = official_url
+        elif "hbo" in lowered or lowered == "max":
+            hbo_url = official_url
+        else:
+            extra = chip("official", official_name, official_url)
+
+    watch = [
+        chip("netflix", "Netflix", netflix_url),
+        chip("hbo", "HBO", hbo_url),
+        chip("disney", "Disney+", disney_url),
+    ]
+    if extra:
+        watch.append(extra)
+
+    q_buy = quote_plus(f"{show_name} complete series")
+    buy = [
+        chip("amazon", "Amazon", f"https://www.amazon.com/s?k={q_buy}"),
+        chip("apple", "Apple TV", f"https://tv.apple.com/search?term={q}"),
+        chip("google", "Google Play", f"https://play.google.com/store/search?q={q}&c=movies"),
+    ]
+    return {"watch": watch, "buy": buy}
+
+
+def stream_chip_html(link: dict) -> str:
+    note = (
+        f' <span class="watch-chip-note">{esc(link["note"])}</span>' if link.get("note") else ""
+    )
+    aria = link["name"]
+    if link.get("note"):
+        aria = f"{link['name']} — {link['note']}"
+    aria += " (opens in a new tab)"
+    return (
+        f'<a class="watch-chip" data-provider="{esc(link["id"])}" href="{esc(outbound_href(link))}" '
+        f'target="_blank" rel="{esc(outbound_rel(link))}" aria-label="{esc(aria)}">'
+        f'<span class="watch-chip-name">{esc(link["name"])}</span>{note}'
+        f'<span class="watch-ext" aria-hidden="true">↗</span></a>'
+    )
+
+
+def stream_box_html(show_id: str, show_name: str) -> str:
+    data = stream_links_for(show_id, show_name)
+    if not data:
+        return ""
+    watch_chips = "".join(stream_chip_html(link) for link in data["watch"])
+    buy_chips = "".join(stream_chip_html(link) for link in data["buy"])
+    has_aff = any(
+        _affiliate_url(link.get("affiliate")) for link in data["watch"] + data["buy"]
+    )
+    disclose = (
+        '<p class="watch-disclose">Some links may earn us a commission — same price to you.</p>'
+        if has_aff
+        else ""
+    )
+    return f"""
+  <section class="wrap watch-box" aria-label="Where to watch or buy {esc(show_name)}">
+    <div class="watch-col">
+      <h2 class="watch-heading">📺 Where to watch</h2>
+      <p class="watch-sub">Netflix, HBO or Disney+ — catalogs differ by country.</p>
+      <div class="watch-chips">{watch_chips}</div>
+    </div>
+    <div class="watch-col">
+      <h2 class="watch-heading">🛒 Where to buy</h2>
+      <p class="watch-sub">Digital seasons or a box set to keep.</p>
+      <div class="watch-chips">{buy_chips}</div>
+    </div>
+    {disclose}
+  </section>
+"""
+
+
+def watch_action(show_id: str, show_name: str) -> dict | None:
+    data = stream_links_for(show_id, show_name)
+    if not data or not data["watch"]:
+        return None
+    return {"@type": "WatchAction", "target": outbound_href(data["watch"][0])}
 
 
 # ── data payloads ─────────────────────────────────────────────────────────────
+
+
+# Show cards page through this many moments per theme; episode pages keep all.
+LISTING_INSTANCE_CAP = 5
 
 
 def slim_detail(detail: dict, *, with_instances: bool) -> dict:
@@ -191,9 +507,57 @@ def slim_detail(detail: dict, *, with_instances: bool) -> dict:
         out["kind"] = head.get("kind")
         out["speaker"] = head.get("speaker")
         out["text"] = head.get("text")
-    if with_instances:
-        out["instances"] = instances
+    shown = instances if with_instances else instances[:LISTING_INSTANCE_CAP]
+    if shown and (with_instances or len(shown) > 1):
+        out["instances"] = [
+            {
+                "kind": inst.get("kind"),
+                "speaker": inst.get("speaker"),
+                "text": inst.get("text"),
+            }
+            for inst in shown
+        ]
     return out
+
+
+def load_stills() -> dict:
+    global _STILLS
+    if _STILLS is None:
+        _STILLS = json.loads(STILLS_PATH.read_text()) if STILLS_PATH.exists() else {}
+    return _STILLS
+
+
+def stills_for(show_id: str) -> dict:
+    return load_stills().get(show_id) or {}
+
+
+def attach_still(row: dict, show_id: str) -> dict:
+    still = stills_for(show_id).get(str(row["code"]))
+    if not still:
+        return row
+    medium = still.get("medium") or still.get("original")
+    original = still.get("original") or still.get("medium")
+    if medium:
+        row["still"] = medium
+    if original and original != medium:
+        row["stillFull"] = original
+    return row
+
+
+def cover_url(show_id: str, ep: dict | None = None, *, prefix: str = "") -> str:
+    if ep:
+        still = ep.get("stillFull") or ep.get("still")
+        if still:
+            return still
+    return f"{prefix}covers/{show_id}.jpg"
+
+
+def og_image_url(show_id: str, ep: dict | None = None) -> str:
+    if ep:
+        still = ep.get("stillFull") or ep.get("still")
+        if still:
+            return still
+    return f"{SITE}/covers/{show_id}.jpg"
 
 
 def slim(ratings: dict, show_id: str, *, with_instances: bool = False) -> dict:
@@ -201,30 +565,34 @@ def slim(ratings: dict, show_id: str, *, with_instances: bool = False) -> dict:
     for e in ratings["episodes"]:
         themes = e.get("themes") or {"fine": [], "watch": [], "watch_detail": []}
         episodes.append(
-            {
-                "season": e["season"],
-                "episode": e["episode"],
-                "code": e["code"],
-                "title": e["title"],
-                "index_title": e.get("index_title") or e["title"],
-                "summary": e.get("summary"),
-                "violence": e["violence"],
-                "sex": e["sex"],
-                "language": e["language"],
-                "overall": e["overall"],
-                "verdict": e["verdict"],
-                "themes": {
-                    "fine": themes.get("fine") or [],
-                    "watch": themes.get("watch") or [],
-                    "watch_detail": [
-                        slim_detail(d, with_instances=with_instances)
-                        for d in themes.get("watch_detail") or []
-                    ],
-                    "notes_extra": themes.get("notes_extra") or [],
+            attach_still(
+                {
+                    "season": e["season"],
+                    "episode": e["episode"],
+                    "code": e["code"],
+                    "title": e["title"],
+                    "index_title": e.get("index_title") or e["title"],
+                    "summary": e.get("summary"),
+                    "violence": e["violence"],
+                    "sex": e["sex"],
+                    "language": e["language"],
+                    "overall": e["overall"],
+                    "verdict": e["verdict"],
+                    "why": e.get("why"),
+                    "themes": {
+                        "fine": themes.get("fine") or [],
+                        "watch": themes.get("watch") or [],
+                        "watch_detail": [
+                            slim_detail(d, with_instances=with_instances)
+                            for d in themes.get("watch_detail") or []
+                        ],
+                        "notes_extra": themes.get("notes_extra") or [],
+                    },
+                    "examples": e.get("examples") or [],
+                    "notes": e.get("notes"),
                 },
-                "examples": e.get("examples") or [],
-                "notes": e.get("notes"),
-            }
+                show_id,
+            )
         )
     return {
         "show": ratings["show"],
@@ -358,13 +726,13 @@ def episode_prose(show_name: str, ep: dict) -> str:
 
 
 def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
-    title = clean_title(ep["title"])
+    title = display_title(ep["title"])
     graph = [
         {
             "@type": "TVEpisode",
             "@id": f"{url}#episode",
             "url": url,
-            "name": title,
+            "name": display_title(title),
             "episodeNumber": str(ep.get("episode")),
             "partOfSeries": {
                 "@type": "TVSeries",
@@ -378,6 +746,11 @@ def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
             "description": meta_description(show_name, ep),
             "contentRating": ep.get("verdict") or "",
             "keywords": ", ".join(d["theme"] for d in details_of(ep)),
+            **(
+                {"potentialAction": watch_action(show_id, show_name)}
+                if watch_action(show_id, show_name)
+                else {}
+            ),
         },
         {
             "@type": "Review",
@@ -421,18 +794,21 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
 
     eps = payload["episodes"]
     show_name = payload["show"]
+    stream_box = stream_box_html(show_id, show_name)
     n = 0
     for i, ep in enumerate(eps):
         code = safe_code(ep["code"])
         prev_code = safe_code(eps[i - 1]["code"]) if i > 0 else None
         next_code = safe_code(eps[i + 1]["code"]) if i + 1 < len(eps) else None
-        title = clean_title(ep["title"])
+        title = display_title(ep["title"])
         label = ep_label(ep)
         url = f"{SITE}/ep/{show_id}/{code}.html"
         bkey = bucket_of(ep)
         badge_cls, badge_text = BUCKET_BADGE[bkey]
         desc = meta_description(show_name, ep)
-        page_title = f"{show_name} {label}: {title} — Parents Guide"
+        page_title = f"Is {show_name} {label} OK for Kids?"
+        if len(page_title) + len(title) < 66:
+            page_title = f"{page_title} {title}"
 
         boot = {
             "show": show_name,
@@ -456,6 +832,9 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
         )
         notes = f'<p class="notes">📝 {esc(ep["notes"])}</p>' if ep.get("notes") else ""
         summary = f'<p class="summary">{esc(ep["summary"])}</p>' if ep.get("summary") else ""
+        hero_src = cover_url(show_id, ep, prefix="../../")
+        hero_og = og_image_url(show_id, ep)
+        hero_alt = title if ep.get("still") or ep.get("stillFull") else f"{show_name} cover art"
 
         html_doc = f"""<!DOCTYPE html>
 <html lang="en">
@@ -471,11 +850,11 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
   <meta property="og:title" content="{esc(page_title)}" />
   <meta property="og:description" content="{esc(desc)}" />
   <meta property="og:url" content="{esc(url)}" />
-  <meta property="og:image" content="{SITE}/covers/{show_id}.jpg" />
+  <meta property="og:image" content="{esc(hero_og)}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{esc(page_title)}" />
   <meta name="twitter:description" content="{esc(desc)}" />
-  {FONTS}
+{extra_head(hero_og)}  {FONTS}
   <link rel="stylesheet" href="../../friends.css" />
   <script type="application/ld+json">{episode_jsonld(show_id, show_name, ep, url)}</script>
 </head>
@@ -490,7 +869,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
     <header class="ep-hero wrap">
       <div class="ep-hero-card">
         <div class="ep-hero-cover">
-          <img src="../../covers/{esc(show_id)}.jpg" alt="{esc(show_name)} cover art" width="1920" height="1080" />
+          <img src="{esc(hero_src)}" alt="{esc(hero_alt)}" width="1280" height="720" loading="eager" decoding="async" referrerpolicy="no-referrer" />
         </div>
         <div class="ep-hero-body">
           <div class="ep-meta">
@@ -498,13 +877,14 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
             <span class="{badge_cls}">{esc(badge_text)}</span>
           </div>
           <p class="ep-show">{esc(show_name)}</p>
+          <p class="ep-kicker">Is {esc(show_name)} {esc(label)} OK for kids?</p>
           <h1>{esc(title)}</h1>
           {summary}
           {fit_meter_html(ep)}
         </div>
       </div>
     </header>
-
+{stream_box}
     <main class="wrap ep-main">
       <section class="ep-panel">
         <h2 class="ep-section-title">Content guide</h2>
@@ -545,8 +925,13 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
         </button>
       </footer>
 
+      <p class="ep-related">
+        <a href="../../guides/{esc(show_id)}.html">What to watch in {esc(show_name)}</a>
+        · <a href="../../guides/{esc(show_id)}-season-{esc(ep.get("season"))}.html">{esc(season_label(ep.get("season")))} guide</a>
+      </p>
       <p class="ep-foot-note">{esc(BRAND)} · {esc(TAGLINE)} · Informal parent guidance, not an official rating.</p>
     </main>
+{site_footer("../../")}
   </div>
   <script>window.EP_PAGE = {json.dumps(boot, ensure_ascii=False)};</script>
   <script src="../../episode.js"></script>
@@ -569,7 +954,7 @@ def episode_index_html(show_id: str, payload: dict) -> str:
         rows.append(
             f'<li class="ep-index-row"><a href="ep/{esc(show_id)}/{esc(code)}.html">'
             f'<span class="ep-index-code">{esc(ep_label(ep))}</span> '
-            f'<span class="ep-index-title">{esc(clean_title(ep["title"]))}</span></a> '
+            f'<span class="ep-index-title">{esc(display_title(ep["title"]))}</span></a> '
             f'<span class="ep-index-meta">Overall {ep["overall"]}/5 · {esc(ep.get("verdict") or "")} · '
             f"Watch for: {esc(themes)}</span></li>"
         )
@@ -591,19 +976,29 @@ def show_jsonld(show_id: str, payload: dict, mix: dict) -> str:
                 f"Parent guide to every {payload['show']} episode: violence, sex and language "
                 f"scored 1–5 with the exact moments quoted."
             ),
+            **(
+                {"potentialAction": watch_action(show_id, payload["show"])}
+                if watch_action(show_id, payload["show"])
+                else {}
+            ),
         },
         {
             "@type": "ItemList",
-            "name": f"{payload['show']} episodes rated for kids",
-            "numberOfItems": len(episodes),
+            "name": f"{payload['show']} seasons rated for kids",
+            "numberOfItems": len({str(ep.get("season")) for ep in episodes}),
             "itemListElement": [
                 {
                     "@type": "ListItem",
                     "position": i + 1,
-                    "url": f"{SITE}/ep/{show_id}/{safe_code(ep['code'])}.html",
-                    "name": f"{ep_label(ep)} {clean_title(ep['title'])}",
+                    "url": f"{SITE}/guides/{show_id}-season-{season}.html",
+                    "name": f"Is {payload['show']} {season_label(season)} OK for kids?",
                 }
-                for i, ep in enumerate(episodes[:200])
+                for i, season in enumerate(
+                    sorted(
+                        {str(ep.get("season")) for ep in episodes},
+                        key=lambda s: int(s) if str(s).isdigit() else 99,
+                    )
+                )
             ],
         },
         {
@@ -613,37 +1008,7 @@ def show_jsonld(show_id: str, payload: dict, mix: dict) -> str:
                 {"@type": "ListItem", "position": 2, "name": payload["show"], "item": url},
             ],
         },
-        {
-            "@type": "FAQPage",
-            "mainEntity": [
-                {
-                    "@type": "Question",
-                    "name": f"Is {payload['show']} OK for kids?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": (
-                            f"Of {mix['total']} {payload['show']} episodes we rated, {mix['safe']} are "
-                            f"all clear (overall 1–2/5), {mix['maybe']} are gray area (3/5) and "
-                            f"{mix['skip']} are a hard pass (4–5/5). Every episode page lists the exact "
-                            f"moments — quoted from the transcript — behind the score."
-                        ),
-                    },
-                },
-                {
-                    "@type": "Question",
-                    "name": f"How is each {payload['show']} episode rated?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": (
-                            "Each episode is scored 1–5 for violence, sex and language. The overall "
-                            "score is the highest of the three. Themes such as Sex & hookups, Swearing, "
-                            "Alcohol / Drugs or Racism are listed with a count of how many times they "
-                            "occur and the quotes or scene descriptions behind them."
-                        ),
-                    },
-                },
-            ],
-        },
+        faq_jsonld(show_faqs(show_id, payload["show"], mix)),
     ]
     return json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False)
 
@@ -653,13 +1018,13 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     name = meta["name"]
     url = f"{SITE}/{show_id}.html"
     total = mix["total"] or 1
-    desc = (
+    desc = clip_meta(
         f"Is {name} OK for kids? All {mix['total']} episodes rated 1–5 for violence, sex and "
         f"language — {round(100 * mix['safe'] / total)}% all clear, "
         f"{round(100 * mix['maybe'] / total)}% gray area, "
         f"{round(100 * mix['skip'] / total)}% hard pass, with the exact moments quoted."
     )
-    page_title = f"{name} Parents Guide — Every Episode Rated for Kids"
+    page_title = f"Is {name} OK for Kids? Episode Parents Guide"
 
     html_doc = f"""<!DOCTYPE html>
 <html lang="en">
@@ -677,7 +1042,9 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
   <meta property="og:url" content="{esc(url)}" />
   <meta property="og:image" content="{SITE}/covers/{show_id}.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  {FONTS}
+  <meta name="twitter:title" content="{esc(page_title)}" />
+  <meta name="twitter:description" content="{esc(desc)}" />
+{extra_head(f"{SITE}/covers/{show_id}.jpg")}  {FONTS}
   <link rel="stylesheet" href="friends.css" />
   <script type="application/ld+json">{show_jsonld(show_id, payload, mix)}</script>
 </head>
@@ -686,14 +1053,16 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
 
   <nav class="topnav wrap">
     <a class="back-home" href="index.html">← All shows</a>
+    <a class="back-home subtle" href="guides/{esc(show_id)}.html">What to watch</a>
   </nav>
 
   <header class="hero">
     <div class="wrap hero-inner">
       <div class="hero-copy">
-        <h1>{meta["h1"]}</h1>
+        <h1>Is {esc(name)} OK for kids?</h1>
         <p class="tagline">
-          Three buckets. One question: <strong>can the kids watch this?</strong>
+          {meta["h1"]} — every episode scored so you can decide
+          <strong>before you press play</strong>.
         </p>
         <div class="hero-pills" aria-hidden="true">
           <span>✅ all clear</span>
@@ -709,7 +1078,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
       </aside>
     </div>
   </header>
-
+{stream_box_html(show_id, name)}
   <section class="wrap vibe-row" role="tablist" aria-label="Kid-safety buckets">
     <button type="button" class="vibe-btn is-active" data-bucket="all" id="bucket-all">
       <span class="vibe-emoji">✨</span>
@@ -815,8 +1184,15 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
       Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating, Suicide / self-harm,
       Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Slut-shaming and Racism — with a count of how
       many times it comes up and the exact quote or scene description behind each mention.
+      Start with the <a href="guides/{esc(show_id)}.html">safest {esc(name)} episodes</a> if you
+      want something tonight.
+    </p>
+    <p>
+      Ready to press play? Stream on <strong>Netflix</strong>, <strong>HBO</strong> or
+      <strong>Disney+</strong>, or buy from Amazon, Apple TV and Google Play.
     </p>
   </section>
+{faq_html(show_faqs(show_id, name, mix))}
 
   <section class="wrap ep-index" aria-label="All {esc(name)} episodes">
     <h2>All {esc(name)} episodes</h2>
@@ -825,9 +1201,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     </ul>
   </section>
 
-  <footer class="wrap site-footer">
-    <p>Made for family couch debates · <strong>watchwiththekids.com</strong> · {esc(TAGLINE)}</p>
-  </footer>
+{site_footer()}
 
   <script src="data/{show_id}.js"></script>
   <script src="show.js"></script>
@@ -921,14 +1295,15 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         "",
         "## Machine-readable data",
         "",
-        f"- [Sitemap]({SITE}/sitemap.xml): every show and episode page.",
+        f"- [What to watch]({SITE}/guides/): safest episodes and skip lists per show.",
+        f"- [How we rate]({SITE}/about.html): scoring method and disclaimer.",
         f"- [Show catalogue JSON]({SITE}/shows.json): shows, covers and rating mix.",
         "- Per-show ratings JSON: " + f"{SITE}/data/<show-id>.js (window.RATINGS payload).",
         "",
         "## Notes",
         "",
         "- This is informal parental guidance, not an official rating body.",
-        "- Strong profanity is masked in quotes; slurs are replaced with [racial slur].",
+        "- Quotes are shown verbatim from the transcript, including profanity and slurs.",
         f"- {TAGLINE}",
         "",
     ]
@@ -936,12 +1311,6 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
     (WEB / "llm.txt").write_text(
         f"# {BRAND}\n\nSee {SITE}/llms.txt for the full agent index.\n"
     )
-
-
-NUMBER_WORDS = {
-    1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
-    7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Eleven", 12: "Twelve",
-}
 
 
 def _replace_block(text: str, marker: str, body: str) -> str:
@@ -959,11 +1328,6 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
         return
     live = [s for s in shows if s["id"] in mixes]
     total_eps = sum(mixes[s["id"]]["total"] for s in live)
-    word = NUMBER_WORDS.get(len(live), str(len(live)))
-
-    count_line = (
-        f"{word} shows live · {total_eps:,} episodes rated for violence, sex and language."
-    )
 
     rows = []
     for s in live:
@@ -985,12 +1349,15 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
       Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating,
       Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Slut-shaming and Racism —
       is listed with how many times it comes up and the exact quote or scene behind it.
+      Start with <a href="guides/index.html">what to watch tonight</a> if you want the safest
+      episodes first.
     </p>
     <ul class="seo-show-list">
       {"".join(rows)}
     </ul>
     <p>Agents and LLMs: see <a href="llms.txt">llms.txt</a> for a machine-readable index.</p>
   </section>
+{faq_html(home_faqs())}
 """
 
     jsonld = {
@@ -1013,6 +1380,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
                 "name": BRAND,
                 "url": f"{SITE}/",
                 "slogan": TAGLINE,
+                "logo": f"{SITE}/icon-192.png",
             },
             {
                 "@type": "ItemList",
@@ -1028,36 +1396,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
                     for i, s in enumerate(live)
                 ],
             },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "How do you decide if an episode is OK for kids?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": (
-                                "Each episode is scored 1–5 for violence, sex and language from its "
-                                "transcript. The overall score is the highest of the three. Episodes "
-                                "scoring 1–2 are all clear, 3 is a gray area worth previewing, and "
-                                "4–5 is a hard pass for little kids."
-                            ),
-                        },
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do you show what actually happens in the episode?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": (
-                                "Yes. Every episode page lists each flagged theme, how many times it "
-                                "occurs, and the moments behind it — direct quotes in quote marks, or "
-                                "a short description of the scene where there is no line to quote."
-                            ),
-                        },
-                    },
-                ],
-            },
+            faq_jsonld(home_faqs()),
         ],
     }
     script = (
@@ -1069,11 +1408,603 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
     text = path.read_text()
     # Hand-written head tags carry absolute URLs — keep them on the current origin.
     text = re.sub(r"https://(?:watchwiththekids\.com|watchwithkids\.vercel\.app)", SITE, text)
-    text = _replace_block(text, "LIVECOUNT", count_line)
     text = _replace_block(text, "SHOWS", shows_block)
     text = _replace_block(text, "JSONLD", script)
     path.write_text(text)
     print(f"Updated index.html ({len(live)} live shows, {total_eps} episodes)")
+
+
+def _pick_episodes(episodes: list[dict], bucket: str, limit: int) -> list[dict]:
+    if bucket == "safe":
+        pool = [e for e in episodes if int(e.get("overall") or 1) <= 2]
+        pool.sort(key=lambda e: (int(e["overall"]), str(e.get("season")), str(e.get("episode"))))
+    elif bucket == "skip":
+        pool = [e for e in episodes if int(e.get("overall") or 1) >= 4]
+        pool.sort(
+            key=lambda e: (
+                -int(e["overall"]),
+                -len(details_of(e)),
+                str(e.get("season")),
+            )
+        )
+    else:
+        pool = [e for e in episodes if int(e.get("overall") or 1) == 3]
+        pool.sort(key=lambda e: (str(e.get("season")), str(e.get("episode"))))
+    return pool[:limit]
+
+
+GUIDE_SCORE_PILL = {
+    "safe": ("ep-card-score safe", "✅ All clear"),
+    "maybe": ("ep-card-score maybe", "🤔 Gray area"),
+    "skip": ("ep-card-score skip", "🚫 Hard pass"),
+}
+
+
+def _ep_card_html(show_id: str, ep: dict) -> str:
+    code = safe_code(ep["code"])
+    bkey = bucket_of(ep)
+    pill_cls, pill_text = GUIDE_SCORE_PILL[bkey]
+    thumb = ""
+    if ep.get("still"):
+        thumb = (
+            f'<span class="ep-card-still"><img src="{esc(ep["still"])}" alt="" '
+            f'width="480" height="270" loading="lazy" decoding="async" '
+            f'referrerpolicy="no-referrer" /></span>'
+        )
+    themes = [d["theme"] for d in details_of(ep)]
+    if themes:
+        chips = "".join(f'<span class="ep-theme-chip">{esc(t)}</span>' for t in themes[:3])
+        if len(themes) > 3:
+            chips += f'<span class="ep-theme-chip more">+{len(themes) - 3} more</span>'
+        sub = f'<span class="ep-card-themes">{chips}</span>'
+    elif ep.get("why"):
+        sub = f'<span class="ep-card-why">{esc(clip_meta(ep["why"], 120))}</span>'
+    elif bkey == "safe":
+        sub = '<span class="ep-card-why">Nothing adult flagged in the transcript.</span>'
+    else:
+        sub = ""
+    return (
+        f'<li><a class="ep-card" href="../ep/{esc(show_id)}/{esc(code)}.html">'
+        f"{thumb}"
+        f'<span class="ep-card-main">'
+        f'<span class="ep-card-top"><span class="ep-card-code">{esc(ep_label(ep))}</span>'
+        f'<span class="ep-card-title">{esc(display_title(ep["title"]))}</span></span>'
+        f"{sub}"
+        f"</span>"
+        f'<span class="{pill_cls}">{pill_text} · {ep["overall"]}/5</span>'
+        f"</a></li>"
+    )
+
+
+def _ep_rows_html(show_id: str, episodes: list[dict]) -> str:
+    if not episodes:
+        return '<p class="ep-cards-empty">None in this bucket.</p>'
+    rows = "\n      ".join(_ep_card_html(show_id, ep) for ep in episodes)
+    return f'<ul class="ep-cards">\n      {rows}\n    </ul>'
+
+
+def _static_page(
+    *,
+    url: str,
+    title: str,
+    desc: str,
+    image: str,
+    css_href: str,
+    jsonld: dict,
+    body: str,
+    prefix: str,
+) -> str:
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{esc(title)}</title>
+  <meta name="description" content="{esc(desc)}" />
+  <link rel="canonical" href="{esc(url)}" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{esc(BRAND)}" />
+  <meta property="og:title" content="{esc(title)}" />
+  <meta property="og:description" content="{esc(desc)}" />
+  <meta property="og:url" content="{esc(url)}" />
+  <meta property="og:image" content="{esc(image)}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{esc(title)}" />
+  <meta name="twitter:description" content="{esc(desc)}" />
+{extra_head(image)}  {FONTS}
+  <link rel="stylesheet" href="{css_href}" />
+  <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
+</head>
+<body>
+  <div class="confetti" aria-hidden="true"></div>
+{body}
+{site_footer(prefix)}
+</body>
+</html>
+"""
+
+
+def write_about_page() -> None:
+    url = f"{SITE}/about.html"
+    title = "How We Rate TV for Kids"
+    desc = clip_meta(
+        "Watch With The Kids scores every episode 1–5 for violence, sex and language from the "
+        "transcript, then quotes the exact moments so parents can decide before play."
+    )
+    body = f"""  <nav class="topnav wrap">
+    <a class="back-home" href="index.html">← All shows</a>
+    <a class="back-home subtle" href="guides/index.html">What to watch</a>
+  </nav>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <h1>How we rate TV for kids</h1>
+        <p class="tagline">Informal parent guidance — not an official ratings board. {esc(TAGLINE)}</p>
+      </div>
+    </div>
+  </header>
+  <main class="wrap seo-copy about-copy">
+    <h2>The 1–5 scale</h2>
+    <p>
+      Every episode gets three scores: <strong>violence</strong>, <strong>sex</strong> and
+      <strong>language</strong>, each from 1 (none) to 5 (heavy). The overall kid-rating is the
+      <strong>highest of the three</strong>, so one spicy category is enough to bump the episode.
+    </p>
+    <ul>
+      <li><strong>1–2 — all clear</strong> for most family couches.</li>
+      <li><strong>3 — gray area</strong>. Preview first; fine for older kids depending on your rules.</li>
+      <li><strong>4–5 — hard pass</strong> for little kids.</li>
+    </ul>
+    <h2>What we flag</h2>
+    <p>
+      Sex &amp; hookups, Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death,
+      Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming,
+      Slut-shaming and Racism. Each theme lists how many times it comes up and the quote or
+      scene behind it — shown verbatim from the transcript, including profanity and slurs.
+    </p>
+    <h2>Where the data comes from</h2>
+    <p>
+      Scores are generated from episode transcripts (keyword signals plus curated overrides),
+      then published as static pages. They are a screening aid, not a substitute for watching
+      with your own kids.
+    </p>
+    <p><a href="guides/index.html">See what to watch tonight →</a></p>
+  </main>"""
+    jsonld = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "AboutPage",
+                "url": url,
+                "name": title,
+                "description": desc,
+                "isPartOf": {"@id": f"{SITE}/#website"},
+            },
+            {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": "Shows", "item": f"{SITE}/"},
+                    {"@type": "ListItem", "position": 2, "name": "How we rate", "item": url},
+                ],
+            },
+        ],
+    }
+    (WEB / "about.html").write_text(
+        _static_page(
+            url=url,
+            title=title,
+            desc=desc,
+            image=f"{SITE}/covers/friends.jpg",
+            css_href="friends.css",
+            jsonld=jsonld,
+            body=body,
+            prefix="",
+        )
+    )
+
+
+def _mix_pcts(mix: dict) -> tuple[int, int, int]:
+    total = mix["total"] or 1
+    safe_pct = round(100 * mix["safe"] / total)
+    maybe_pct = round(100 * mix["maybe"] / total)
+    skip_pct = max(0, 100 - safe_pct - maybe_pct)
+    if safe_pct + maybe_pct > 100:
+        maybe_pct = max(0, 100 - safe_pct)
+        skip_pct = 0
+    return safe_pct, maybe_pct, skip_pct
+
+
+def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
+    url = f"{SITE}/guides/"
+    title = "What to Watch With Kids Tonight"
+    desc = clip_meta(
+        "Safest episodes to watch with kids — and the ones to skip — across Friends, The Office, "
+        "SpongeBob, Seinfeld and more, scored 1–5 for violence, sex and language."
+    )
+    ranked = sorted(
+        (s for s in shows if s["id"] in mixes),
+        key=lambda s: (
+            -mixes[s["id"]]["safe"] / (mixes[s["id"]]["total"] or 1),
+            -mixes[s["id"]]["safe"],
+            s["name"],
+        ),
+    )
+    cards = []
+    for i, s in enumerate(ranked):
+        sid = s["id"]
+        mix = mixes[sid]
+        safe_pct, maybe_pct, skip_pct = _mix_pcts(mix)
+        total = mix["total"] or 1
+        if mix["safe"] / total >= 0.5:
+            badge = '<span class="guide-badge safe">Kid-friendlier</span>'
+        elif mix["skip"] / total >= 0.7:
+            badge = '<span class="guide-badge skip">Mostly skip</span>'
+        else:
+            badge = '<span class="guide-badge maybe">Preview first</span>'
+        loading = "eager" if i < 4 else "lazy"
+        cards.append(
+            f'<li><a class="guide-card" href="{esc(sid)}.html">'
+            f'<span class="guide-cover">'
+            f'<img src="../covers/{esc(sid)}.jpg" alt="" width="640" height="360" '
+            f'loading="{loading}" /></span>'
+            f'<span class="guide-body">'
+            f"{badge}"
+            f"<h2>{esc(s['name'])}</h2>"
+            f'<p class="guide-stat">{mix["safe"]} all-clear episode'
+            f'{"s" if mix["safe"] != 1 else ""}</p>'
+            f'<span class="guide-mix" aria-hidden="true">'
+            f'<span class="guide-seg safe" style="flex-grow:{safe_pct}"></span>'
+            f'<span class="guide-seg maybe" style="flex-grow:{maybe_pct}"></span>'
+            f'<span class="guide-seg skip" style="flex-grow:{skip_pct}"></span>'
+            f"</span>"
+            f'<p class="guide-legend"><strong>{safe_pct}%</strong> all clear · '
+            f"{skip_pct}% hard pass</p>"
+            f"</span></a></li>"
+        )
+    stack = "".join(
+        f'<img src="../covers/{esc(s["id"])}.jpg" alt="" width="480" height="270" />'
+        for s in ranked[:4]
+    )
+    body = f"""  <nav class="topnav wrap">
+    <a class="back-home" href="../index.html">← All shows</a>
+    <a class="back-home subtle" href="../about.html">How we rate</a>
+  </nav>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">Safest episodes · Skip lists</p>
+        <h1>What to watch with the kids</h1>
+        <p class="tagline">Pick a show, grab an all-clear episode, or skip the spicy ones. Same 1–5 scores as every episode page.</p>
+        <div class="hero-pills">
+          <span>✅ Safest first</span>
+          <span>🤔 Gray area</span>
+          <span>🚫 Hard pass</span>
+        </div>
+      </div>
+      <aside class="hero-card" aria-hidden="true">
+        <div class="guide-hero-covers">{stack}</div>
+      </aside>
+    </div>
+  </header>
+  <main class="wrap">
+    <ul class="guide-grid">
+      {"".join(cards)}
+    </ul>
+  </main>"""
+    jsonld = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "CollectionPage",
+                "url": url,
+                "name": title,
+                "description": desc,
+            },
+            {
+                "@type": "ItemList",
+                "name": "What to watch guides",
+                "numberOfItems": len(cards),
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": i + 1,
+                        "name": s["name"],
+                        "url": f"{SITE}/guides/{s['id']}.html",
+                    }
+                    for i, s in enumerate(ranked)
+                ],
+            },
+        ],
+    }
+    out_dir = WEB / "guides"
+    out_dir.mkdir(exist_ok=True)
+    (out_dir / "index.html").write_text(
+        _static_page(
+            url=url,
+            title=title,
+            desc=desc,
+            image=f"{SITE}/covers/friends.jpg",
+            css_href="../friends.css",
+            jsonld=jsonld,
+            body=body,
+            prefix="../",
+        )
+    )
+
+
+def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, str]]:
+    name = payload["show"]
+    eps = payload["episodes"]
+    url = f"{SITE}/guides/{show_id}.html"
+    title = f"What to Watch in {name} With Kids"
+    desc = clip_meta(
+        f"Safest {name} episodes for kids, plus the hard-pass list. "
+        f"{mix['safe']} all clear, {mix['maybe']} gray area, {mix['skip']} skip — scored 1–5."
+    )
+    safe = _pick_episodes(eps, "safe", 25)
+    skip = _pick_episodes(eps, "skip", 15)
+    maybe = _pick_episodes(eps, "maybe", 8)
+    seasons = sorted(
+        {str(ep.get("season")) for ep in eps},
+        key=lambda s: int(s) if s.isdigit() else 99,
+    )
+    season_links = " · ".join(
+        f'<a href="{esc(show_id)}-season-{esc(season)}.html">{esc(season_label(season))}</a>'
+        for season in seasons
+    )
+    if mix["safe"] == 0:
+        safe_intro = (
+            f"None of the {mix['total']} {esc(name)} episodes we rated land in the all-clear "
+            "bucket (overall 1–2/5). If you still want to try, preview a gray-area episode first."
+        )
+    else:
+        safe_intro = (
+            f"{mix['safe']} of {mix['total']} {esc(name)} episodes score all-clear. "
+            "These are the gentlest to start with."
+        )
+    skip_intro = (
+        f"{mix['skip']} episodes are a hard pass for little kids (overall 4–5/5). "
+        "The spiciest are listed below."
+        if mix["skip"]
+        else f"No {esc(name)} episodes scored a hard pass."
+    )
+    body = f"""  <nav class="topnav wrap">
+    <a class="back-home" href="../{esc(show_id)}.html">← {esc(name)}</a>
+    <a class="back-home subtle" href="index.html">All guides</a>
+  </nav>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">{mix["total"]} episodes rated 1–5</p>
+        <h1>What to watch in {esc(name)} with kids</h1>
+        <p class="tagline">
+          Start with an all-clear episode, or check the skip list before movie night.
+        </p>
+        <div class="hero-pills" aria-hidden="true">
+          <span>✅ {mix["safe"]} all clear</span>
+          <span>🤔 {mix["maybe"]} gray area</span>
+          <span>🚫 {mix["skip"]} hard pass</span>
+        </div>
+        <p class="season-jump">By season: {season_links}</p>
+      </div>
+      <aside class="hero-card">
+        <div class="hero-cover">
+          <img src="../covers/{esc(show_id)}.jpg" alt="{esc(name)} cover art" width="1920" height="1080" />
+        </div>
+        <p class="disclaimer"><a href="../{esc(show_id)}.html">Browse every {esc(name)} episode →</a></p>
+      </aside>
+    </div>
+  </header>
+  <main class="wrap guide-sections">
+    <section class="guide-section" aria-label="Safest {esc(name)} episodes">
+      <header class="guide-section-head safe">
+        <span class="guide-section-emoji" aria-hidden="true">✅</span>
+        <div class="guide-section-copy">
+          <h2>Start here — safest {esc(name)} episodes</h2>
+          <p>{safe_intro}</p>
+        </div>
+        <span class="guide-section-count">{mix["safe"]}</span>
+      </header>
+      {_ep_rows_html(show_id, safe)}
+    </section>
+    <section class="guide-section" aria-label="Gray-area {esc(name)} episodes">
+      <header class="guide-section-head maybe">
+        <span class="guide-section-emoji" aria-hidden="true">🤔</span>
+        <div class="guide-section-copy">
+          <h2>Gray area — preview first</h2>
+          <p>Overall 3/5. Fine for some families, not for others — read the flags before play.</p>
+        </div>
+        <span class="guide-section-count">{mix["maybe"]}</span>
+      </header>
+      {_ep_rows_html(show_id, maybe)}
+    </section>
+    <section class="guide-section" aria-label="{esc(name)} episodes to skip">
+      <header class="guide-section-head skip">
+        <span class="guide-section-emoji" aria-hidden="true">🚫</span>
+        <div class="guide-section-copy">
+          <h2>{esc(name)} episodes to skip with little kids</h2>
+          <p>{skip_intro}</p>
+        </div>
+        <span class="guide-section-count">{mix["skip"]}</span>
+      </header>
+      {_ep_rows_html(show_id, skip)}
+    </section>
+  </main>"""
+    jsonld = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "ItemList",
+                "name": title,
+                "url": url,
+                "description": desc,
+                "numberOfItems": len(safe),
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": i + 1,
+                        "url": f"{SITE}/ep/{show_id}/{safe_code(ep['code'])}.html",
+                        "name": f"{ep_label(ep)} {display_title(ep['title'])}",
+                    }
+                    for i, ep in enumerate(safe)
+                ],
+            },
+            {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": "Shows", "item": f"{SITE}/"},
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": name,
+                        "item": f"{SITE}/{show_id}.html",
+                    },
+                    {"@type": "ListItem", "position": 3, "name": "What to watch", "item": url},
+                ],
+            },
+            faq_jsonld(
+                [
+                    (
+                        f"Which {name} episodes are OK for kids?",
+                        f"{mix['safe']} of {mix['total']} score all-clear (1–2/5). "
+                        f"{mix['skip']} are a hard pass (4–5/5).",
+                    ),
+                    (
+                        f"Is {name} OK for kids overall?",
+                        f"It depends on the episode. {round(100 * mix['safe'] / (mix['total'] or 1))}% "
+                        "are all clear; check the lists on this page before you press play.",
+                    ),
+                ]
+            ),
+        ],
+    }
+    (WEB / "guides" / f"{show_id}.html").write_text(
+        _static_page(
+            url=url,
+            title=title,
+            desc=desc,
+            image=f"{SITE}/covers/{show_id}.jpg",
+            css_href="../friends.css",
+            jsonld=jsonld,
+            body=body,
+            prefix="../",
+        )
+    )
+    urls = [(url, "0.85")]
+    urls.extend(write_season_guides(show_id, payload, mix))
+    return urls
+
+
+def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[str, str]]:
+    name = payload["show"]
+    grouped: dict[str, list[dict]] = {}
+    for ep in payload["episodes"]:
+        grouped.setdefault(str(ep.get("season")), []).append(ep)
+    urls: list[tuple[str, str]] = []
+    (WEB / "guides").mkdir(exist_ok=True)
+    for season, eps in grouped.items():
+        smix = episode_mix(eps)
+        label = season_label(season)
+        url = f"{SITE}/guides/{show_id}-season-{season}.html"
+        title = f"Is {name} {label} OK for Kids?"
+        total = smix["total"] or 1
+        desc = clip_meta(
+            f"Is {name} {label} OK for kids? {smix['total']} episodes rated: "
+            f"{smix['safe']} all clear, {smix['maybe']} gray area, {smix['skip']} hard pass."
+        )
+        body = f"""  <nav class="topnav wrap">
+    <a class="back-home" href="{esc(show_id)}.html">← What to watch in {esc(name)}</a>
+    <a class="back-home subtle" href="../{esc(show_id)}.html">{esc(name)} all episodes</a>
+  </nav>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <h1>Is {esc(name)} {esc(label)} OK for kids?</h1>
+        <p class="tagline">
+          {smix["safe"]} all clear · {smix["maybe"]} gray area · {smix["skip"]} hard pass
+          across {smix["total"]} episodes.
+        </p>
+      </div>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="wrap seo-copy">
+      <p>
+        {esc(label)} of {esc(name)} is
+        {round(100 * smix["safe"] / total)}% all clear,
+        {round(100 * smix["maybe"] / total)}% gray area and
+        {round(100 * smix["skip"] / total)}% a hard pass for little kids.
+        Open an episode for the quoted moments.
+      </p>
+    </section>
+    {_ep_rows_html(show_id, eps)}
+  </main>"""
+        jsonld = {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "TVSeason",
+                    "name": f"{name} {label}",
+                    "url": url,
+                    "seasonNumber": season,
+                    "numberOfEpisodes": len(eps),
+                    "partOfSeries": {
+                        "@type": "TVSeries",
+                        "name": name,
+                        "url": f"{SITE}/{show_id}.html",
+                    },
+                    "description": desc,
+                },
+                {
+                    "@type": "ItemList",
+                    "name": f"{name} {label} episodes rated for kids",
+                    "numberOfItems": len(eps),
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": i + 1,
+                            "url": f"{SITE}/ep/{show_id}/{safe_code(ep['code'])}.html",
+                            "name": f"{ep_label(ep)} {display_title(ep['title'])}",
+                        }
+                        for i, ep in enumerate(eps)
+                    ],
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "name": "Shows", "item": f"{SITE}/"},
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": name,
+                            "item": f"{SITE}/{show_id}.html",
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "What to watch",
+                            "item": f"{SITE}/guides/{show_id}.html",
+                        },
+                        {"@type": "ListItem", "position": 4, "name": label, "item": url},
+                    ],
+                },
+            ],
+        }
+        (WEB / "guides" / f"{show_id}-season-{season}.html").write_text(
+            _static_page(
+                url=url,
+                title=title,
+                desc=desc,
+                image=f"{SITE}/covers/{show_id}.jpg",
+                css_href="../friends.css",
+                jsonld=jsonld,
+                body=body,
+                prefix="../",
+            )
+        )
+        urls.append((url, "0.8"))
+    return urls
 
 
 def write_robots() -> None:
@@ -1117,10 +2048,17 @@ def write_robots() -> None:
 
 def write_sitemap(urls: list[tuple[str, str]]) -> None:
     today = date.today().isoformat()
+    seen: set[str] = set()
+    unique: list[tuple[str, str]] = []
+    for loc, prio in urls:
+        if loc in seen:
+            continue
+        seen.add(loc)
+        unique.append((loc, prio))
     body = "\n".join(
         f"  <url><loc>{esc(loc)}</loc><lastmod>{today}</lastmod>"
         f"<changefreq>monthly</changefreq><priority>{prio}</priority></url>"
-        for loc, prio in urls
+        for loc, prio in unique
     )
     (WEB / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -1146,10 +2084,15 @@ def episode_mix(episodes: list[dict]) -> dict:
     return {"safe": safe, "maybe": maybe, "skip": skip, "total": safe + maybe + skip}
 
 
-def build_show(show_id: str, src: Path, sitemap: list[tuple[str, str]]) -> dict:
+def build_show(show_id: str, src: Path, sitemap: list[tuple[str, str]]) -> tuple[dict, dict]:
     ratings = json.loads(src.read_text())
     listing = slim(ratings, show_id, with_instances=False)
     full = slim(ratings, show_id, with_instances=True)
+    # Guarantee unique episode page codes even if a ratings JSON still has collisions.
+    listing["episodes"] = dedupe_codes(listing["episodes"])
+    full["episodes"] = dedupe_codes(full["episodes"])
+    listing["count"] = len(listing["episodes"])
+    full["count"] = len(full["episodes"])
     mix = episode_mix(listing["episodes"])
 
     out = DATA / f"{show_id}.js"
@@ -1166,21 +2109,28 @@ def build_show(show_id: str, src: Path, sitemap: list[tuple[str, str]]) -> dict:
         sitemap.append((f"{SITE}/ep/{show_id}/{safe_code(ep['code'])}.html", "0.7"))
 
     print(f"Wrote {out} ({listing['count']} episodes) + {n} episode pages + llms/{show_id}.md")
-    return mix
+    return mix, listing
 
 
 def main() -> None:
     mixes: dict[str, dict] = {}
+    payloads: dict[str, dict] = {}
     sitemap: list[tuple[str, str]] = [(f"{SITE}/", "1.0")]
 
     if LLM_ROOT.exists():
         shutil.rmtree(LLM_ROOT)
+    guides_dir = WEB / "guides"
+    if guides_dir.exists():
+        shutil.rmtree(guides_dir)
+    guides_dir.mkdir()
 
     ratings_dir = ROOT / "ratings"
     for show_id in READY:
         src = ROOT / "ratings.json" if show_id == "friends" else ratings_dir / f"{show_id}.json"
         if src.exists():
-            mixes[show_id] = build_show(show_id, src, sitemap)
+            mix, listing = build_show(show_id, src, sitemap)
+            mixes[show_id] = mix
+            payloads[show_id] = listing
 
     shows_path = WEB / "shows.json"
     shows = json.loads(shows_path.read_text())
@@ -1194,6 +2144,13 @@ def main() -> None:
     shows_path.write_text(json.dumps(shows, indent=2, ensure_ascii=False) + "\n")
     (WEB / "shows.js").write_text("window.SHOWS = " + json.dumps(shows, ensure_ascii=False) + ";\n")
 
+    write_about_page()
+    sitemap.append((f"{SITE}/about.html", "0.6"))
+    write_guides_hub(shows, mixes)
+    sitemap.append((f"{SITE}/guides/", "0.8"))
+    for show_id, payload in payloads.items():
+        sitemap.extend(write_show_guide(show_id, payload, mixes[show_id]))
+
     sitemap.append((f"{SITE}/llms.txt", "0.5"))
     for show_id in mixes:
         sitemap.append((f"{SITE}/llms/{show_id}.md", "0.4"))
@@ -1204,7 +2161,7 @@ def main() -> None:
     update_index_html(shows, mixes)
 
     print(f"Updated shows.js ready flags: {sorted(mixes)}")
-    print(f"Sitemap: {len(sitemap)} URLs · robots.txt · llms.txt · llms/*.md")
+    print(f"Sitemap: {len(sitemap)} URLs · robots.txt · llms.txt · llms/*.md · guides + about")
 
 
 if __name__ == "__main__":

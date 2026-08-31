@@ -32,9 +32,9 @@
   };
 
   const BUCKET_BADGE = {
-    safe: { className: "bucket-pill safe", text: "✅ All clear" },
-    maybe: { className: "bucket-pill maybe", text: "🤔 Gray area" },
-    skip: { className: "bucket-pill skip", text: "🚫 Hard pass" },
+    safe: { className: "bucket-pill safe", text: "All clear" },
+    maybe: { className: "bucket-pill maybe", text: "Gray area" },
+    skip: { className: "bucket-pill skip", text: "Hard pass" },
   };
 
   const NOTES_TITLE = {

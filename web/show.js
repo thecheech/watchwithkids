@@ -32,9 +32,9 @@
   };
 
   const BUCKET_BADGE = {
-    safe: { className: "bucket-pill safe", text: "✅ All clear" },
-    maybe: { className: "bucket-pill maybe", text: "🤔 Gray area" },
-    skip: { className: "bucket-pill skip", text: "🚫 Hard pass" },
+    safe: { className: "bucket-pill safe", text: "All clear" },
+    maybe: { className: "bucket-pill maybe", text: "Gray area" },
+    skip: { className: "bucket-pill skip", text: "Hard pass" },
   };
 
   const NOTES_TITLE = {
@@ -59,6 +59,9 @@
 
   let bucket = "all";
   const selectedThemes = new Set();
+  const PAGE_SIZE = 10;
+  const THEMES_PER_PAGE = 3;
+  let listPage = 1;
 
   els.disclaimer.textContent =
     "👋 Fun family guide, not an official rating. You kids — your rules!";
@@ -111,6 +114,49 @@
     return escapeHtml(text);
   }
 
+  function instancesOf(d) {
+    if (Array.isArray(d.instances) && d.instances.length) return d.instances;
+    const text = (d.text || d.how || "").trim();
+    return text ? [{ kind: d.kind, speaker: d.speaker, text }] : [];
+  }
+
+  function wrapIndex(i, n) {
+    if (n <= 0) return 0;
+    return ((i % n) + n) % n;
+  }
+
+  function themeItemHtml(d, { hidden } = {}) {
+    const instances = instancesOf(d);
+    const inst = instances[0] || d;
+    const headline = headlineOf(inst);
+    const count = Number(d.count) || instances.length || 1;
+    const n = instances.length;
+    let extra = "";
+    if (n > 1) {
+      extra = `<span class="theme-pager">
+        <button type="button" class="theme-page-btn" data-watch-step="-1" aria-label="Previous ${escapeHtml(d.theme)} moment">‹</button>
+        <span class="theme-page-n" data-watch-n>1/${n}</span>
+        <button type="button" class="theme-page-btn" data-watch-step="1" aria-label="Next ${escapeHtml(d.theme)} moment">›</button>
+      </span>`;
+    } else if (count > 1) {
+      extra = `<span class="theme-more" title="${count} moments in this episode">+${count - 1}</span>`;
+    }
+    const payload = escapeHtml(
+      JSON.stringify(
+        instances.map((x) => ({
+          kind: x.kind || "",
+          speaker: x.speaker || "",
+          text: x.text || x.how || "",
+        }))
+      )
+    );
+    return `<li class="theme-item"${hidden ? " hidden" : ""} data-instances="${payload}" data-idx="0">
+      <span class="theme-item-head">
+        <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}
+      </span>${headline ? `<span class="theme-how" data-watch-how>${headline}</span>` : ""}
+    </li>`;
+  }
+
   function matchesQuery(ep, q) {
     if (!q) return true;
     const details = watchDetailsOf(ep);
@@ -120,7 +166,12 @@
       ep.code,
       ep.summary || "",
       ...watchThemesOf(ep),
-      ...details.map((d) => `${d.theme} ${d.how || ""}`),
+      ...details.map((d) => {
+        const inst = instancesOf(d)
+          .map((x) => `${x.speaker || ""} ${x.text || ""}`)
+          .join(" ");
+        return `${d.theme} ${d.how || ""} ${inst}`;
+      }),
       ep.notes || "",
     ]
       .join(" ")
@@ -304,23 +355,18 @@
   function renderCard(ep, i) {
     const bKey = bucketOf(ep);
     const details = watchDetailsOf(ep);
+    const themePages = Math.max(1, Math.ceil(details.length / THEMES_PER_PAGE));
     const watchLis = details
-      .map((d) => {
-        const headline = headlineOf(d);
-        const count = Number(d.count) || 1;
-        const more =
-          count > 1
-            ? `<span class="theme-more" title="${count} moments in this episode">+${count - 1}</span>`
-            : "";
-        return `<li>
-          <span class="theme-name">${escapeHtml(d.theme)}</span>${more}${
-            headline
-              ? `<span class="theme-sep" aria-hidden="true">—</span><span class="theme-how">${headline}</span>`
-              : ""
-          }
-        </li>`;
-      })
+      .map((d, di) => themeItemHtml(d, { hidden: di >= THEMES_PER_PAGE }))
       .join("");
+    const listPager =
+      themePages > 1
+        ? `<div class="watch-list-pager" data-watch-list-pager data-page="0">
+            <button type="button" class="theme-page-btn" data-watch-list-step="-1" aria-label="Previous watch-for themes">‹</button>
+            <span class="theme-page-n" data-watch-list-n>1/${themePages}</span>
+            <button type="button" class="theme-page-btn" data-watch-list-step="1" aria-label="Next watch-for themes">›</button>
+          </div>`
+        : "";
     const themeHtml = details.length
       ? `<ul class="examples theme-watch-list">${watchLis}</ul>`
       : `<ul class="examples theme-watch-list"><li>No watch-for themes flagged.</li></ul>`;
@@ -332,9 +378,14 @@
       ? `<p class="summary">${escapeHtml(ep.summary)}</p>`
       : "";
     const href = epHref(ep);
+    const stillSrc = ep.stillFull || ep.still;
+    const still = stillSrc
+      ? `<div class="card-still" aria-hidden="true"><img src="${escapeHtml(stillSrc)}" alt="" width="1280" height="720" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></div>`
+      : "";
     return `
-      <article class="card card-${bKey}" style="animation-delay:${Math.min(i, 12) * 25}ms">
+      <article class="card card-${bKey}${stillSrc ? " has-still" : ""}" style="animation-delay:${Math.min(i, 12) * 25}ms">
         <a class="card-hit" href="${href}" aria-label="Open ${escapeHtml(cleanTitle(ep.title))}">
+          ${still}
           <div class="card-top">
             <div class="card-copy">
               <div class="ep-meta">
@@ -344,19 +395,28 @@
               <h2>${escapeHtml(cleanTitle(ep.title))}</h2>
               ${summary}
             </div>
-            <div class="scores" aria-label="Traffic-light content guide">
+            <div class="scores scores-full" aria-label="Traffic-light content guide">
               ${scoreBlock("👊", "Violence", ep.violence)}
               ${scoreBlock("💋", "Sex", ep.sex)}
               ${scoreBlock("🙊", "Language", ep.language)}
               ${scoreBlock("⭐", "Overall", ep.overall)}
             </div>
+            <div class="scores-compact" aria-label="Content scores">
+              ${scoreBlock("👊", "Violence", ep.violence, true)}
+              ${scoreBlock("💋", "Sex", ep.sex, true)}
+              ${scoreBlock("🙊", "Language", ep.language, true)}
+              ${scoreBlock("⭐", "Overall", ep.overall, true)}
+            </div>
           </div>
-          <div class="notes-block">
-            <p class="examples-title">${NOTES_TITLE[bKey]}</p>
-            ${themeHtml}
-          </div>
-          ${notes}
         </a>
+        <div class="notes-block">
+          <div class="examples-head">
+            <p class="examples-title">${NOTES_TITLE[bKey]}</p>
+            ${listPager}
+          </div>
+          ${themeHtml}
+        </div>
+        ${notes}
         <footer class="card-foot">
           <a class="card-open-hint" href="${href}">Open episode <span aria-hidden="true">→</span></a>
           <button
@@ -419,7 +479,7 @@
     }
   }
 
-  function apply() {
+  function apply({ resetPage } = {}) {
     const season = els.season.value;
     const q = els.q.value.trim().toLowerCase();
     const conf = BUCKETS[bucket];
@@ -440,17 +500,131 @@
     const themeNote = selectedThemes.size
       ? ` · ${selectedThemes.size} theme${selectedThemes.size > 1 ? "s" : ""}`
       : "";
+    const pages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+    if (resetPage || listPage > pages) listPage = 1;
+    const start = (listPage - 1) * PAGE_SIZE;
+    const visible = filtered.slice(start, start + PAGE_SIZE);
+
     els.hint.textContent = conf.hint;
     els.stats.textContent = `🎉 ${filtered.length} ${conf.stats}${themeNote}`;
     els.empty.classList.toggle("hidden", filtered.length > 0);
-    els.list.innerHTML = filtered.map((ep, i) => renderCard(ep, i)).join("");
+    els.list.innerHTML = visible.map((ep, i) => renderCard(ep, i)).join("");
+    renderListPager(filtered.length, pages, start);
   }
+
+  function pageWindow(current, pages) {
+    if (pages <= 7) return Array.from({ length: pages }, (_, i) => i + 1);
+    const set = new Set([1, pages, current, current - 1, current + 1]);
+    if (current <= 3) [2, 3, 4].forEach((n) => set.add(n));
+    if (current >= pages - 2) [pages - 3, pages - 2, pages - 1].forEach((n) => set.add(n));
+    const nums = [...set].filter((n) => n >= 1 && n <= pages).sort((a, b) => a - b);
+    const out = [];
+    for (let i = 0; i < nums.length; i++) {
+      if (i && nums[i] - nums[i - 1] > 1) out.push("…");
+      out.push(nums[i]);
+    }
+    return out;
+  }
+
+  function renderListPager(total, pages, start) {
+    let nav = document.getElementById("list-pager");
+    if (!nav) {
+      nav = document.createElement("nav");
+      nav.id = "list-pager";
+      nav.className = "list-pager";
+      nav.setAttribute("aria-label", "Episode list pages");
+      els.list.insertAdjacentElement("afterend", nav);
+      nav.addEventListener("click", (e) => {
+        const btn = e.target.closest("[data-list-page]");
+        if (!btn || btn.disabled) return;
+        const next = Number(btn.dataset.listPage);
+        if (!Number.isFinite(next) || next === listPage) return;
+        listPage = next;
+        apply();
+        const top = els.list.getBoundingClientRect().top + window.scrollY - 24;
+        window.scrollTo({ top, behavior: "smooth" });
+      });
+    }
+    if (pages <= 1) {
+      nav.hidden = true;
+      nav.innerHTML = "";
+      return;
+    }
+    nav.hidden = false;
+    const end = Math.min(start + PAGE_SIZE, total);
+    const buttons = pageWindow(listPage, pages)
+      .map((p) => {
+        if (p === "…") return `<span class="list-pager-gap" aria-hidden="true">…</span>`;
+        const current = p === listPage;
+        return `<button type="button" class="list-pager-btn${current ? " is-active" : ""}" data-list-page="${p}"${current ? ' aria-current="page"' : ""}>${p}</button>`;
+      })
+      .join("");
+    nav.innerHTML = `
+      <p class="list-pager-range">${start + 1}–${end} of ${total}</p>
+      <div class="list-pager-btns">
+        <button type="button" class="list-pager-btn" data-list-page="${listPage - 1}" ${listPage <= 1 ? "disabled" : ""} aria-label="Previous page">‹</button>
+        ${buttons}
+        <button type="button" class="list-pager-btn" data-list-page="${listPage + 1}" ${listPage >= pages ? "disabled" : ""} aria-label="Next page">›</button>
+      </div>
+    `;
+  }
+
+  function applyInstance(li, nextIdx) {
+    let instances = [];
+    try {
+      instances = JSON.parse(li.dataset.instances || "[]");
+    } catch (_) {
+      return;
+    }
+    if (!instances.length) return;
+    const idx = wrapIndex(nextIdx, instances.length);
+    li.dataset.idx = String(idx);
+    const how = li.querySelector("[data-watch-how]");
+    const nEl = li.querySelector("[data-watch-n]");
+    if (how) how.innerHTML = headlineOf(instances[idx]);
+    if (nEl) nEl.textContent = `${idx + 1}/${instances.length}`;
+  }
+
+  function applyThemePage(block, nextPage) {
+    const ul = block.querySelector(".theme-watch-list");
+    const pager = block.querySelector("[data-watch-list-pager]");
+    if (!ul) return;
+    const items = [...ul.querySelectorAll(":scope > li")];
+    const pages = Math.max(1, Math.ceil(items.length / THEMES_PER_PAGE));
+    const page = wrapIndex(nextPage, pages);
+    items.forEach((li, i) => {
+      li.hidden = i < page * THEMES_PER_PAGE || i >= (page + 1) * THEMES_PER_PAGE;
+    });
+    if (pager) {
+      pager.dataset.page = String(page);
+      const nEl = pager.querySelector("[data-watch-list-n]");
+      if (nEl) nEl.textContent = `${page + 1}/${pages}`;
+    }
+  }
+
+  els.list.addEventListener("click", (e) => {
+    const stepBtn = e.target.closest("[data-watch-step]");
+    if (stepBtn) {
+      e.preventDefault();
+      const li = stepBtn.closest("li");
+      if (li) applyInstance(li, Number(li.dataset.idx || 0) + Number(stepBtn.dataset.watchStep));
+      return;
+    }
+    const listBtn = e.target.closest("[data-watch-list-step]");
+    if (!listBtn) return;
+    e.preventDefault();
+    const pager = listBtn.closest("[data-watch-list-pager]");
+    const block = listBtn.closest(".notes-block");
+    if (pager && block) {
+      applyThemePage(block, Number(pager.dataset.page || 0) + Number(listBtn.dataset.watchListStep));
+    }
+  });
 
   els.vibeBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
       bucket = btn.dataset.bucket;
       els.vibeBtns.forEach((b) => b.classList.toggle("is-active", b === btn));
-      apply();
+      apply({ resetPage: true });
       window.scrollTo({ top: els.list.offsetTop - 24, behavior: "smooth" });
     });
   });
@@ -463,25 +637,25 @@
       if (selectedThemes.has(theme)) selectedThemes.delete(theme);
       else selectedThemes.add(theme);
       renderThemeChips();
-      apply();
+      apply({ resetPage: true });
     });
   }
   if (els.themeClear) {
     els.themeClear.addEventListener("click", () => {
       selectedThemes.clear();
       renderThemeChips();
-      apply();
+      apply({ resetPage: true });
     });
   }
 
   for (const el of [els.season, els.q, els.sort]) {
     el.addEventListener("input", () => {
       if (el === els.season) renderThemeChips();
-      apply();
+      apply({ resetPage: true });
     });
     el.addEventListener("change", () => {
       if (el === els.season) renderThemeChips();
-      apply();
+      apply({ resetPage: true });
     });
   }
 

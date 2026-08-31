@@ -1,0 +1,90 @@
+{
+  "show": "KPop Demon Hunters",
+  "show_id": "kpop-demon-hunters",
+  "shelf": "kids",
+  "age": 8,
+  "age_floor": 8,
+  "audience_note": "Animated movie — demon battles throughout; the villain preys on shame and fear.",
+  "scale": {
+    "min": 1,
+    "max": 5,
+    "meaning": {
+      "violence": "Physical harm, fights, scary injury, weapons (slapstick counts lightly).",
+      "sex": "Sex talk, innuendo, affairs, nudity jokes, strippers, pregnancy/sex plots.",
+      "language": "Swears, crude insults, sexual slang (damn/hell mild; stronger words higher)."
+    },
+    "labels": {
+      "1": "None / fine",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Strong",
+      "5": "Heavy"
+    }
+  },
+  "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
+  "count": 1,
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "code": "0101",
+      "title": "KPop Demon Hunters",
+      "index_title": "KPop Demon Hunters",
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kpop-demon-hunters",
+      "file": "transcripts/kpop-demon-hunters/0101-kpop-demon-hunters.txt",
+      "summary": "K-pop superstars Rumi, Mira and Zoey sell out stadiums by day and secretly defend their fans from demons by night — until a rival boy band, the Saja Boys, turns out to be demons stealing souls for their king, Gwi-Ma.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Bleeding isn't in my blood!",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bleeding isn't in my blood!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Took blood and tears to look natural!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Bleeding isn't in my blood!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    }
+  ]
+}

@@ -19,9 +19,9 @@
     "blurb": "Six young (20-something) people from New York City (Manhattan), on their own and struggling to survive in the real world, find the…",
     "href": "friends.html",
     "mix": {
-      "safe": 24,
-      "maybe": 125,
-      "skip": 79,
+      "safe": 31,
+      "maybe": 131,
+      "skip": 66,
       "total": 228
     }
   },
@@ -44,9 +44,9 @@
     "blurb": "Steve Carell stars in The Office, a fresh and funny mockumentary-style glimpse into the daily interactions of the eccentric workers at the…",
     "href": "the-office.html",
     "mix": {
-      "safe": 47,
-      "maybe": 85,
-      "skip": 54,
+      "safe": 67,
+      "maybe": 71,
+      "skip": 48,
       "total": 186
     }
   },
@@ -62,12 +62,18 @@
     "premiered": "2009",
     "runtime": 30,
     "summary": "Parks and Recreation is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.",
-    "ready": false,
+    "ready": true,
     "coverW": 1920,
     "coverH": 1080,
     "coverLocal": "covers/parks-and-recreation.jpg",
     "blurb": "Parks and Recreation is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of",
-    "href": null
+    "href": "parks-and-recreation.html",
+    "mix": {
+      "safe": 46,
+      "maybe": 42,
+      "skip": 34,
+      "total": 122
+    }
   },
   {
     "id": "brooklyn-nine-nine",
@@ -111,9 +117,9 @@
     "blurb": "How I Met Your Mother is a comedy about Ted and how he fell in love. It all starts when Ted's best friend, Marshall drops the bombshell…",
     "href": "how-i-met-your-mother.html",
     "mix": {
-      "safe": 7,
-      "maybe": 86,
-      "skip": 115,
+      "safe": 28,
+      "maybe": 83,
+      "skip": 97,
       "total": 208
     }
   },
@@ -136,9 +142,9 @@
     "blurb": "The Big Bang Theory is a comedy about brilliant physicists, Leonard and Sheldon, who are the kind of \"beautiful minds\" that understand how…",
     "href": "big-bang-theory.html",
     "mix": {
-      "safe": 118,
-      "maybe": 106,
-      "skip": 55,
+      "safe": 143,
+      "maybe": 88,
+      "skip": 48,
       "total": 279
     }
   },
@@ -155,12 +161,18 @@
     "premiered": "2009",
     "runtime": 30,
     "summary": "Modern Family revolves around three different types of families (nuclear, step- and same-sex) living in the Los Angeles area, who are interrelated through Jay Pritchett and his children, Claire Dunphy (née Pritchett) and Mitchell Pritchett. Patriarch Jay is remarried to a much younger woman, Gloria Delgado Pritchett (née Ramirez), a passionate Colombian with whom he has an infant son, Fulgencio (Joe) Pritchett, and a son from Gloria's previous marriage, Manny Delgado.Jay's daughter Claire was a homemaker, but has returned to the business world. She is now the chief executive of her father's previous business, Pritchett's Closets and Blinds. She is married to Phil Dunphy, a realtor and self-professed \"cool dad\". They have three children: Haley Dunphy, a stereotypical ditzy teenage girl; Alex Dunphy, a nerdy, smart middle child; and Luke Dunphy, the off-beat only son.Jay's lawyer son Mitchell and his husband Cameron Tucker have one daughter, Lily Tucker-Pritchett. As the name suggests, this family represents a modern-day family, and episodes are comically based on situations which many families encounter in real life.",
-    "ready": false,
+    "ready": true,
     "coverW": 1920,
     "coverH": 1080,
     "coverLocal": "covers/modern-family.jpg",
     "blurb": "Modern Family revolves around three different types of families (nuclear, step- and same-sex) living in the Los Angeles area, who are…",
-    "href": null
+    "href": "modern-family.html",
+    "mix": {
+      "safe": 126,
+      "maybe": 97,
+      "skip": 23,
+      "total": 246
+    }
   },
   {
     "id": "seinfeld",
@@ -181,9 +193,9 @@
     "blurb": "Seinfeld is the story of a fictionalized version of stand-up comedian Jerry Seinfeld, his life in New York City and his quirky group of…",
     "href": "seinfeld.html",
     "mix": {
-      "safe": 68,
-      "maybe": 80,
-      "skip": 28,
+      "safe": 93,
+      "maybe": 68,
+      "skip": 15,
       "total": 176
     }
   },
@@ -229,8 +241,8 @@
     "href": "futurama.html",
     "mix": {
       "safe": 0,
-      "maybe": 53,
-      "skip": 88,
+      "maybe": 111,
+      "skip": 30,
       "total": 141
     }
   },
@@ -253,9 +265,9 @@
     "blurb": "In the words of They Might Be Giants' rollicking Grammy-winning theme song, \"life is unfair.\" The inventive and wholly original sitcom…",
     "href": "malcolm-in-the-middle.html",
     "mix": {
-      "safe": 56,
-      "maybe": 86,
-      "skip": 9,
+      "safe": 97,
+      "maybe": 48,
+      "skip": 6,
       "total": 151
     }
   },
@@ -292,12 +304,18 @@
     "premiered": "2007",
     "runtime": null,
     "summary": "Phineas and Ferb are Phineas Flynn and his stepbrother, Ferb Fletcher who are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles as a secret agent and battles evil. Meanwhile, older sister Candace is tattling on them to Mom and Dad, though she can never seem to catch them in the act.",
-    "ready": false,
+    "ready": true,
     "coverW": 1920,
     "coverH": 1080,
     "coverLocal": "covers/phineas-and-ferb.jpg",
     "blurb": "Phineas and Ferb are Phineas Flynn and his stepbrother, Ferb Fletcher who are determined to make every day of their summer vacation fun.…",
-    "href": null
+    "href": "phineas-and-ferb.html",
+    "mix": {
+      "safe": 260,
+      "maybe": 7,
+      "skip": 0,
+      "total": 267
+    }
   },
   {
     "id": "spongebob",
@@ -320,10 +338,10 @@
     "blurb": "Come follow the adventures of the world's most lovable sponge and his starfish sidekick! Though they have the best intentions, SpongeBob…",
     "href": "spongebob.html",
     "mix": {
-      "safe": 1029,
-      "maybe": 29,
-      "skip": 2,
-      "total": 1060
+      "safe": 856,
+      "maybe": 6,
+      "skip": 0,
+      "total": 862
     }
   },
   {
@@ -340,12 +358,18 @@
     "premiered": "2024",
     "runtime": null,
     "summary": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-    "ready": false,
+    "ready": true,
     "coverW": 2048,
     "coverH": 1152,
     "coverLocal": "covers/avatar.jpg",
     "blurb": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping…",
-    "href": null
+    "href": "avatar.html",
+    "mix": {
+      "safe": 51,
+      "maybe": 11,
+      "skip": 0,
+      "total": 62
+    }
   },
   {
     "id": "adventure-time",
@@ -361,12 +385,18 @@
     "premiered": "2008",
     "runtime": 15,
     "summary": "Adventure Time's unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo and encounter its colorful inhabitants.",
-    "ready": false,
+    "ready": true,
     "coverW": 1920,
     "coverH": 1080,
     "coverLocal": "covers/adventure-time.jpg",
     "blurb": "Adventure Time's unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo and encounter its colorful",
-    "href": null
+    "href": "adventure-time.html",
+    "mix": {
+      "safe": 282,
+      "maybe": 23,
+      "skip": 0,
+      "total": 305
+    }
   },
   {
     "id": "bluey",
@@ -381,12 +411,18 @@
     "premiered": "2018",
     "runtime": null,
     "summary": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
-    "ready": false,
+    "ready": true,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/bluey.jpg",
     "blurb": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures,…",
-    "href": null
+    "href": "bluey.html",
+    "mix": {
+      "safe": 154,
+      "maybe": 0,
+      "skip": 0,
+      "total": 154
+    }
   },
   {
     "id": "steven-universe",
@@ -402,12 +438,18 @@
     "premiered": "2013",
     "runtime": 15,
     "summary": "Steven Universe, from Adventure Time writer-artist Rebecca Sugar, is a coming-of-age story told from the perspective of Steven, the youngest member of a team of magical Guardians of the Universe.",
-    "ready": false,
+    "ready": true,
     "coverW": 1920,
     "coverH": 1080,
     "coverLocal": "covers/steven-universe.jpg",
     "blurb": "Steven Universe, from Adventure Time writer-artist Rebecca Sugar, is a coming-of-age story told from the perspective of Steven, the…",
-    "href": null
+    "href": "steven-universe.html",
+    "mix": {
+      "safe": 187,
+      "maybe": 4,
+      "skip": 0,
+      "total": 191
+    }
   },
   {
     "id": "full-house",
@@ -422,12 +464,18 @@
     "premiered": "1987",
     "runtime": 30,
     "summary": "Full House follows Danny Tanner, widowed father of three young and rambunctious girls recruits his two buddies--his rock 'n' roller brother-in-law, Jesse, and his best friend, Joey, an infrequently employed stand-up comic--to move in and help him raise the brood.",
-    "ready": false,
+    "ready": true,
     "coverW": 1920,
     "coverH": 1080,
     "coverLocal": "covers/full-house.jpg",
     "blurb": "Full House follows Danny Tanner, widowed father of three young and rambunctious girls recruits his two buddies--his rock 'n' roller…",
-    "href": null
+    "href": "full-house.html",
+    "mix": {
+      "safe": 112,
+      "maybe": 8,
+      "skip": 0,
+      "total": 120
+    }
   },
   {
     "id": "gravity-falls",
@@ -443,12 +491,18 @@
     "premiered": "2012",
     "runtime": 30,
     "summary": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer with their great Uncle in the mysterious town of Gravity Falls, Oregon.",
-    "ready": false,
+    "ready": true,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/gravity-falls.jpg",
     "blurb": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer with their great Uncle in the…",
-    "href": null
+    "href": "gravity-falls.html",
+    "mix": {
+      "safe": 47,
+      "maybe": 16,
+      "skip": 0,
+      "total": 63
+    }
   },
   {
     "id": "fresh-prince",
@@ -490,9 +544,9 @@
     "blurb": "For young Sheldon Cooper, it isn't easy growing up in East Texas. Being a once-in-a-generation mind…",
     "href": "young-sheldon.html",
     "mix": {
-      "safe": 84,
-      "maybe": 51,
-      "skip": 6,
+      "safe": 112,
+      "maybe": 24,
+      "skip": 5,
       "total": 141
     }
   },
@@ -518,8 +572,8 @@
     "href": "rick-and-morty.html",
     "mix": {
       "safe": 0,
-      "maybe": 1,
-      "skip": 81,
+      "maybe": 6,
+      "skip": 76,
       "total": 82
     }
   },
@@ -543,9 +597,9 @@
     "blurb": "Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of…",
     "href": "family-guy.html",
     "mix": {
-      "safe": 11,
-      "maybe": 96,
-      "skip": 349,
+      "safe": 33,
+      "maybe": 124,
+      "skip": 299,
       "total": 456
     }
   },
@@ -568,10 +622,63 @@
     "blurb": "South Park is an adult comedy animation show centred around 4 children in the small town of south pa…",
     "href": "south-park.html",
     "mix": {
-      "safe": 1,
-      "maybe": 19,
-      "skip": 315,
+      "safe": 6,
+      "maybe": 41,
+      "skip": 288,
       "total": 335
+    }
+  },
+  {
+    "id": "wednesday",
+    "name": "Wednesday",
+    "mazeId": 53647,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/486/1215632.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "premiered": "2022",
+    "runtime": 50,
+    "summary": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore Academy.",
+    "ready": true,
+    "coverW": 3840,
+    "coverH": 2160,
+    "coverLocal": "covers/wednesday.jpg",
+    "blurb": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore…",
+    "href": "wednesday.html",
+    "mix": {
+      "safe": 0,
+      "maybe": 15,
+      "skip": 1,
+      "total": 16
+    }
+  },
+  {
+    "id": "kpop-demon-hunters",
+    "name": "KPop Demon Hunters",
+    "cover": "https://image.tmdb.org/t/p/original/1KsUG0MMfj2Yj5uTJEcPTG4rW5d.jpg",
+    "coverType": "background",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "premiered": "2025",
+    "runtime": 96,
+    "summary": "K-pop superstars Rumi, Mira and Zoey sell out stadiums by day and secretly defend their fans from demons by night — until a rival boy band turns out to be demons in disguise.",
+    "ready": true,
+    "coverW": 3840,
+    "coverH": 2160,
+    "coverLocal": "covers/kpop-demon-hunters.jpg",
+    "blurb": "K-pop superstars Rumi, Mira and Zoey sell out stadiums by day and secretly defend their fans from demons by night — until a rival boy band…",
+    "href": "kpop-demon-hunters.html",
+    "mix": {
+      "safe": 0,
+      "maybe": 1,
+      "skip": 0,
+      "total": 1
     }
   }
 ]

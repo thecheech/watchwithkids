@@ -1,0 +1,155 @@
+season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
+0,1,0001,Army,1,1,1,1,6,Usually fine — about 6+,
+0,2,0002,Asparagus,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Bandit: “Bingo! For the last time, use a knife and”"
+0,3,0003,Baby Race,1,1,1,1,6,Usually fine — about 6+,
+0,4,0004,Backpackers,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Bingo punches Bandit in the stomach, and he screams and drops his ""croissants""."
+0,5,0005,Bad Mood,1,1,1,1,6,Usually fine — about 6+,
+0,6,0006,Barky Boats,1,1,1,1,6,Usually fine — about 6+,
+0,7,0007,Bbq,1,1,1,1,6,Usually fine — about 6+,Alcohol & drugs — Bandit is cooking sausages while Stripe stands nearby with a beer.
+0,8,0008,Bedroom,1,1,1,1,6,Usually fine — about 6+,
+0,9,0009,Bike,1,1,1,1,6,Usually fine — about 6+,
+0,10,0010,Bin Night,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Bluey throws a few punches, showing off her karate moves."
+0,11,0011,Bingo (Episode),1,1,1,1,6,Usually fine — about 6+,
+0,12,0012,Blue Mountains,1,1,1,1,6,Usually fine — about 6+,
+0,13,0013,Bob Bilby,1,1,1,1,6,Usually fine — about 6+,
+0,14,0014,Born Yesterday,1,1,1,1,6,Usually fine — about 6+,
+0,15,0015,Bumpy and the Wise Old Wolfhound,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — The Shopkeeper stands up, humming, and yanks down his underwear."
+0,16,0016,Burger Shop,1,1,1,1,6,Usually fine — about 6+,
+0,17,0017,Bus,1,1,1,1,6,Usually fine — about 6+,
+0,18,0018,Butterflies,1,1,1,1,6,Usually fine — about 6+,
+0,19,0019,Café,1,1,1,1,6,Usually fine — about 6+,
+0,20,0020,Calypso (Episode),1,1,1,1,6,Usually fine — about 6+,
+0,21,0021,Camping,1,1,1,1,6,Usually fine — about 6+,
+0,22,0022,Charades,1,1,1,1,6,Usually fine — about 6+,
+0,23,0023,Chest,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Chilli: “""I can beat him in 4 moves."" Giving a bowl to Bingo, and taking the queen piece”"
+0,24,0024,Chickenrat,1,1,1,1,6,Usually fine — about 6+,
+0,25,0025,Christmas Swim,1,1,1,1,6,Usually fine — about 6+,
+0,26,0026,Circus,1,1,1,1,6,Usually fine — about 6+,
+0,27,0027,Copycat,1,1,1,1,6,Usually fine — about 6+,
+0,28,0028,Cricket,1,1,1,1,6,Usually fine — about 6+,
+0,29,0029,Cubby,1,1,1,1,6,Usually fine — about 6+,
+0,30,0030,Curry Quest,1,1,1,1,6,Usually fine — about 6+,
+0,31,0031,Dad Baby,1,2,1,2,8,Mild — okay from about 8+,
+0,32,0032,Daddy Dropoff,1,1,1,1,6,Usually fine — about 6+,
+0,33,0033,Daddy Putdown,1,1,1,1,6,Usually fine — about 6+,
+0,34,0034,Daddy Robot,1,1,1,1,6,Usually fine — about 6+,
+0,35,0035,Dance Mode,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Cut to the Busker, who is playing on a Thongophone - an instrument consisting of a tangle of PVC pipes, played by slapping the pipe openings with thongs."
+0,36,0036,Dirt,1,1,1,1,6,Usually fine — about 6+,
+0,37,0037,Double Babysitter,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Radley: “And then the prince knocked the dragon with a big prince punch!”
+0,38,0038,Dragon,1,1,1,1,6,Usually fine — about 6+,
+0,39,0039,Driving,1,1,1,1,6,Usually fine — about 6+,
+0,40,0040,Duck Cake,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Bandit walks back to the kitchen, only to trip over a block. Bluey giggles, and the shot cuts to the kitchen, with Bandit just now starting on the cake. He reads over the book while hovering a knife above the cake base."
+0,41,0041,Dunny,1,1,1,1,6,Usually fine — about 6+,
+0,42,0042,Early Baby,1,1,1,1,6,Usually fine — about 6+,
+0,43,0043,Easter,1,1,1,1,6,Usually fine — about 6+,
+0,44,0044,Escape,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Bandit: “""Butlers?! Oh no, punch it mum!""”"
+0,45,0045,Exercise,1,1,1,1,6,Usually fine — about 6+,
+0,46,0046,Explorers,1,1,1,1,6,Usually fine — about 6+,
+0,47,0047,Faceytalk,1,1,1,1,6,Usually fine — about 6+,
+0,48,0048,Fairies,1,1,1,1,6,Usually fine — about 6+,
+0,49,0049,Fairytale,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — She takes off a thong, and raising it as a weapon, chases Bandit offscreen. Rad and Stripe laugh."
+0,50,0050,Family Meeting,1,1,1,1,6,Usually fine — about 6+,
+0,51,0051,Fancy Restaurant,1,1,1,1,6,Usually fine — about 6+,
+0,52,0052,Favourite Thing,1,1,1,1,6,Usually fine — about 6+,
+0,53,0053,Featherwand,1,1,1,1,6,Usually fine — about 6+,
+0,54,0054,Flat Pack,1,1,1,1,6,Usually fine — about 6+,
+0,55,0055,Fruitbat,1,1,1,1,6,Usually fine — about 6+,
+0,56,0056,Ghostbasket,1,1,1,1,6,Usually fine — about 6+,
+0,57,0057,Grandad,1,1,1,1,6,Usually fine — about 6+,
+0,58,0058,Grannies,1,1,1,1,6,Usually fine — about 6+,
+0,59,0059,Granny Mobile,1,1,1,1,6,Usually fine — about 6+,
+0,60,0060,Hairdressers,1,1,1,1,6,Usually fine — about 6+,
+0,61,0061,Hammerbarn,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Checkout Lady: “Hey, would you kids like to try my beeper gun?”"
+0,62,0062,Handstand,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Snickers, carrying a water gun, runs in behind her and fills the water gun."
+0,63,0063,Helicopter,1,1,1,1,6,Usually fine — about 6+,"Fat-shaming — Chloe: “""Chickee-chickee! Look at that big whale!""”"
+0,64,0064,Hide and Seek,1,1,1,1,6,Usually fine — about 6+,
+0,65,0065,Horsey Ride,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Stripe playfully points finger guns at Bluey and Bingo.
+0,66,0066,Hospital,1,1,1,1,6,Usually fine — about 6+,
+0,67,0067,Hotel,1,1,1,1,6,Usually fine — about 6+,
+0,68,0068,Housework,1,1,1,1,6,Usually fine — about 6+,
+0,69,0069,Ice Cream,1,1,1,1,6,Usually fine — about 6+,
+0,70,0070,Keepy Uppy,1,1,1,1,6,Usually fine — about 6+,
+0,71,0071,Kids,1,1,1,1,6,Usually fine — about 6+,Violence & injury — A docket boy is going down the aisle with a pricing gun.
+0,72,0072,Library,1,1,1,1,6,Usually fine — about 6+,
+0,73,0073,Magic,1,1,1,1,6,Usually fine — about 6+,
+0,74,0074,Markets,1,1,1,1,6,Usually fine — about 6+,
+0,75,0075,Mini Bluey,1,1,1,1,6,Usually fine — about 6+,
+0,76,0076,Mount Mumandad,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — Bingo walks up to a bookshelf and puts several things in her backpack: a flashlight, a pair of underwear, a pair of socks and a green tie."
+0,77,0077,Movies,1,1,1,1,6,Usually fine — about 6+,
+0,78,0078,Mr Monkeyjocks,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — The scene cuts to Bandit, sitting on the floor, stabbing at a sausage."
+0,79,0079,Muffin Cone,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Muffin: “Now I'll cut it into twiangles.. (knocks around the shop once more as she searches it) where's the knife?”
+0,80,0080,Mum School,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — The camera cuts to the hallway. Bingo is still running at full speed, completely naked under her trailing pink towel, giggling wildly as Bandit bounds after her"
+0,81,0081,Mums and Dads,1,1,1,1,6,Usually fine — about 6+,
+0,82,0082,Musical Statues,1,1,1,1,6,Usually fine — about 6+,
+0,83,0083,Neighbours,1,1,1,1,6,Usually fine — about 6+,
+0,84,0084,Obstacle Course,1,1,1,1,6,Usually fine — about 6+,
+0,85,0085,Octopus,1,1,1,1,6,Usually fine — about 6+,
+0,86,0086,Omelette,1,1,1,1,6,Usually fine — about 6+,
+0,87,0087,Onesies,1,1,1,1,6,Usually fine — about 6+,
+0,88,0088,Pass the Parcel,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — The song ends with the parcel in Jasper's hands. He opens it, revealing an octopus-themed water pistol. He holds it aloft, tail wagging furiously!"
+0,89,0089,Pavlova,1,1,1,1,6,Usually fine — about 6+,
+0,90,0090,Perfect,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Bingo pretends to get a ticket out of her pocket and hands it to Bandit. She giggles. Bandit pretends to take and punch it.
+0,91,0091,Phones,1,1,1,1,6,Usually fine — about 6+,
+0,92,0092,Piggyback,1,1,1,1,6,Usually fine — about 6+,
+0,93,0093,Pirates,1,1,1,1,6,Usually fine — about 6+,"Fat-shaming — Chilli: “""Suddenly, the huge whale swallowed their boat whole!""”"
+0,94,0094,Pizza Girls,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — Two pieces of underwear, one sock, and one shirt land on the car."
+0,95,0095,Postman,1,1,1,1,6,Usually fine — about 6+,
+0,96,0096,Promises,1,1,1,1,6,Usually fine — about 6+,
+0,97,0097,Puppets,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Unicorse turns around and tries to stab Bluey with his soft fabric horn.
+0,98,0098,Queens,1,1,1,1,6,Usually fine — about 6+,
+0,99,0099,Ragdoll,1,1,1,1,6,Usually fine — about 6+,
+0,100,00100,Rain,1,1,1,1,6,Usually fine — about 6+,
+0,101,00101,Relax,1,1,1,1,6,Usually fine — about 6+,
+1,102,01102,Road Trip,1,1,1,1,6,Usually fine — about 6+,
+0,103,00103,Rug Island,1,1,1,1,6,Usually fine — about 6+,
+0,104,00104,Seesaw,1,1,1,1,6,Usually fine — about 6+,
+0,105,00105,Shadowlands,1,1,1,1,6,Usually fine — about 6+,
+0,106,00106,Shaun,1,1,1,1,6,Usually fine — about 6+,
+0,107,00107,Sheepdog,1,1,1,1,6,Usually fine — about 6+,
+0,108,00108,Shops,1,1,1,1,6,Usually fine — about 6+,
+0,109,00109,Show and Tell,1,1,1,1,6,Usually fine — about 6+,
+0,110,00110,Sleepytime,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Real life; Bingo is slapping Bandit in the face and muzzle, who yaps every time he's slapped."
+0,111,00111,Slide,1,1,1,1,6,Usually fine — about 6+,
+0,112,00112,Smoochy Kiss,1,1,1,1,6,Usually fine — about 6+,Swearing — Bandit cocks a leg and grunts.
+0,113,00113,Space,1,1,1,1,6,Usually fine — about 6+,
+0,114,00114,Spy Game,1,1,1,1,6,Usually fine — about 6+,"Alcohol & drugs — Chilli pours a bottle of wine on the fire, dousing it."
+0,115,00115,Squash,1,1,1,1,6,Usually fine — about 6+,
+0,116,00116,Stickbird,1,1,1,1,6,Usually fine — about 6+,Swearing — Bingo cocks her arm to throw.
+0,117,00117,Sticky Gecko,1,1,1,1,6,Usually fine — about 6+,
+0,118,00118,Stories,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Winton grabs some red beeswax and starts punching it, while Indy takes her horse and sadly walks away."
+0,119,00119,Stumpfest,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Stripe throws a punch, but Pat grabs him and throws him over."
+0,120,00120,Surprise!,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — We see her gun at the bottom of the screen Bandit runs across the screen from right to left.
+0,121,00121,Swim School,1,1,1,1,6,Usually fine — about 6+,
+0,122,00122,Takeaway,1,1,1,1,6,Usually fine — about 6+,
+0,123,00123,Taxi,1,1,1,1,6,Usually fine — about 6+,
+0,124,00124,Teasing,1,1,1,1,6,Usually fine — about 6+,
+0,125,00125,The Adventure,1,1,1,1,6,Usually fine — about 6+,
+0,126,00126,The Beach,1,1,1,1,6,Usually fine — about 6+,
+0,127,00127,The Claw,1,1,1,1,6,Usually fine — about 6+,"Affairs / cheating — Bluey and Bingo laugh, and Bluey turns to Chilli, who is watching the whole affair."
+0,128,00128,The Creek,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Mackenzie: “Yeah, don't worry. He just wants to eat your blood.”"
+0,129,00129,The Decider,1,1,1,1,6,Usually fine — about 6+,
+0,130,00130,The Doctor,1,1,1,1,6,Usually fine — about 6+,
+0,131,00131,The Dump,1,1,1,1,6,Usually fine — about 6+,
+0,132,00132,The Magic Xylophone,1,1,1,1,6,Usually fine — about 6+,
+0,133,00133,The Pool,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Bandit enters, carrying some pool noodles and a water pistol."
+0,134,00134,The Quiet Game,1,1,1,1,6,Usually fine — about 6+,
+0,135,00135,The Show,1,1,1,1,6,Usually fine — about 6+,
+0,136,00136,The Sign,1,1,1,1,6,Usually fine — about 6+,Violence & injury — She hangs up with an angry stab of her index finger.
+0,137,00137,The Sleepover,1,1,1,1,6,Usually fine — about 6+,
+0,138,00138,The Weekend,1,1,1,1,6,Usually fine — about 6+,
+0,139,00139,Ticklecrabs,1,1,1,1,6,Usually fine — about 6+,
+0,140,00140,Tina,1,1,1,1,6,Usually fine — about 6+,
+0,141,00141,Tradies,1,1,1,1,6,Usually fine — about 6+,"Alcohol & drugs — …microphone, a bottle of chocolate milk, a fish with a hook, a shark fin, two small dogs shouting, a keg of beer, a cricket paddle with a ball and a tiger were added to it."
+0,142,00142,Trains,1,1,1,1,6,Usually fine — about 6+,
+0,143,00143,Trampoline,1,1,1,1,6,Usually fine — about 6+,Alcohol & drugs — Bluey wiggles her hips cheekily. Chilli looks at the weed she is holding and throws it aside.
+0,144,00144,Turtleboy,1,1,1,1,6,Usually fine — about 6+,
+0,145,00145,TV Shop,1,1,1,1,6,Usually fine — about 6+,
+0,146,00146,Typewriter,1,1,1,1,6,Usually fine — about 6+,
+0,147,00147,Unicorse,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Unicorse charges into The Lawyer and a tussle akin to ""Punch and Judy""-show ensues behind the couch."
+0,148,00148,Verandah Santa,1,1,1,1,6,Usually fine — about 6+,Alcohol & drugs — Chilli and Trixie are chatting and sipping wine.
+0,149,00149,Wagon Ride,1,1,1,1,6,Usually fine — about 6+,
+0,150,00150,Whale Watching,1,1,1,1,6,Usually fine — about 6+,
+0,151,00151,Wild Girls,1,1,1,1,6,Usually fine — about 6+,
+0,152,00152,Work,1,1,1,1,6,Usually fine — about 6+,
+0,153,00153,Yoga Ball,1,1,1,1,6,Usually fine — about 6+,
+0,154,00154,Zoo,1,1,1,1,6,Usually fine — about 6+,

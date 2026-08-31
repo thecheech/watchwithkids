@@ -9,7 +9,16 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from themes import build_themes, themes_as_examples
+from catalog import clean_episode_title, dedupe_codes, is_real_episode
+from shows_meta import episode_age, meta_for
+from themes import (
+    build_themes,
+    collect_moments,
+    evidence_caps,
+    scrub_false_swear_names,
+    themes_as_examples,
+    why_this_score,
+)
 
 ROOT = Path(__file__).resolve().parent
 
@@ -112,7 +121,7 @@ TROPE_RULES = [
 ]
 
 # Milder cartoon violence for kids animation
-KIDS_SHOW_IDS = {"spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar", "gravity-falls", "steven-universe"}
+KIDS_SHOW_IDS = {"spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar", "gravity-falls", "steven-universe", "kpop-demon-hunters"}
 
 SHOW_META = {
     "seinfeld": {"name": "Seinfeld", "maze": "Seinfeld"},
@@ -136,6 +145,20 @@ SHOW_META = {
     "family-guy": {"name": "Family Guy", "maze": "Family Guy"},
     "south-park": {"name": "South Park", "maze": "South Park"},
     "futurama": {"name": "Futurama", "maze": "Futurama"},
+    "parks-and-recreation": {
+        "name": "Parks and Recreation",
+        "maze": "Parks and Recreation",
+    },
+    "modern-family": {"name": "Modern Family", "maze": "Modern Family"},
+    "bluey": {"name": "Bluey", "maze": "Bluey"},
+    "phineas-and-ferb": {"name": "Phineas and Ferb", "maze": "Phineas and Ferb"},
+    "avatar": {"name": "Avatar: The Last Airbender", "maze": "Avatar: The Last Airbender"},
+    "gravity-falls": {"name": "Gravity Falls", "maze": "Gravity Falls"},
+    "adventure-time": {"name": "Adventure Time", "maze": "Adventure Time"},
+    "steven-universe": {"name": "Steven Universe", "maze": "Steven Universe"},
+    "full-house": {"name": "Full House", "maze": "Full House"},
+    "wednesday": {"name": "Wednesday", "maze": "Wednesday"},
+    "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
 }
 
 
@@ -168,11 +191,15 @@ def apply_tropes(body: str) -> dict:
 
 def analyze_text(text: str, show_id: str) -> dict:
     body = text.split("=" * 20, 1)[-1] if "=" * 10 in text else text
-    lower = body.lower()
+    lower = scrub_false_swear_names(body.lower())
+    kids = show_id in KIDS_SHOW_IDS
 
     sex_weight = 0
     sex_hits = []
     for pat, w in SEX_PATTERNS:
+        # Cartoon laundry / costume gags — don't let "underwear" alone drive sex 1–5.
+        if kids and pat in (r"\bunderwear\b", r"\bbra\b"):
+            continue
         found = re.findall(pat, lower)
         if found:
             sex_hits.append((pat, len(found), w))
@@ -191,7 +218,7 @@ def analyze_text(text: str, show_id: str) -> dict:
             viol_weight += len(found) * w
 
     # Kids shows: cartoon violence is expected — softer curve
-    if show_id in KIDS_SHOW_IDS:
+    if kids:
         sex = score_from_hits(sex_weight, [(0, 1), (4, 2), (12, 3), (25, 4), (40, 5)])
         language = score_from_hits(lang_weight, [(0, 1), (3, 2), (8, 3), (16, 4), (30, 5)])
         violence = score_from_hits(viol_weight, [(0, 1), (8, 2), (20, 3), (40, 4), (70, 5)])
@@ -205,13 +232,20 @@ def analyze_text(text: str, show_id: str) -> dict:
     tropes = apply_tropes(body)
     sex = max(sex, tropes["min_sex"])
 
+    # Keyword counts propose; the evidence decides. A dimension can only reach 4–5
+    # when there is a moment intense enough to justify it.
+    moments = collect_moments(body, tropes["flags"], show_id=show_id)
+    caps = evidence_caps(moments)
+    sex = max(1, min(sex, caps["sex"]))
+    language = max(1, min(language, caps["language"]))
+    violence = max(1, min(violence, caps["violence"]))
+
     themes = build_themes(
-        body=body,
         show_id=show_id,
         sex=sex,
         language=language,
         violence=violence,
-        flags=tropes["flags"],
+        moments=moments,
     )
 
     return {
@@ -224,13 +258,14 @@ def analyze_text(text: str, show_id: str) -> dict:
     }
 
 
-def verdict(score: int) -> str:
+def verdict(score: int, age: int) -> str:
+    """Age-relative, so 'hard pass' never lands on a show nobody claimed was kids TV."""
     return {
-        1: "Usually fine",
-        2: "Mild — okay for many kids with a parent",
-        3: "Moderate — better for older kids / preteens",
-        4: "Strong — skip for little kids",
-        5: "Heavy — not kid-friendly",
+        1: f"Usually fine — about {age}+",
+        2: f"Mild — okay from about {age}+",
+        3: f"Preview first — about {age}+",
+        4: f"Skip for under {age}",
+        5: f"Heavy — skip for under {age}",
     }[score]
 
 
@@ -244,14 +279,14 @@ def load_episodes(show_id: str) -> list[dict]:
 def normalize_ep(show_id: str, raw: dict, idx: int) -> dict:
     season = raw.get("season")
     episode = raw.get("episode")
-    title = raw.get("title") or "Untitled"
+    title = clean_episode_title(raw.get("title") or "", raw.get("index_title") or "")
     file_rel = raw.get("file")
     if show_id == "friends":
         return {
             "season": raw["season"],
             "episode": raw["episode"],
             "code": raw.get("code") or f"{raw['season']:02d}{raw['episode']}",
-            "title": raw["title"],
+            "title": clean_episode_title(raw["title"], raw.get("index_title") or ""),
             "index_title": raw.get("index_title") or raw["title"],
             "url": raw.get("url"),
             "file": raw["file"],
@@ -286,21 +321,28 @@ def normalize_ep(show_id: str, raw: dict, idx: int) -> dict:
 
 def rate_show(show_id: str) -> dict:
     meta = SHOW_META.get(show_id, {"name": show_id})
+    show_meta = meta_for(show_id)
     raw_eps = load_episodes(show_id)
     ratings = []
+    dropped = 0
     for i, raw in enumerate(raw_eps):
         ep = normalize_ep(show_id, raw, i)
+        if not is_real_episode(show_id, ep["title"], ep["season"]):
+            dropped += 1
+            continue
         path = ROOT / ep["file"]
         text = path.read_text(encoding="utf-8", errors="replace") if path.exists() else ""
         h = analyze_text(text, show_id) if text else {
             "sex": 2,
             "language": 2,
             "violence": 1,
-            "themes": {"fine": [], "watch": []},
+            "themes": {"fine": [], "watch": [], "watch_detail": []},
             "examples": [],
             "flags": [],
         }
         o = max(h["violence"], h["sex"], h["language"])
+        age = episode_age(show_id, o)
+        scores = {"violence": h["violence"], "sex": h["sex"], "language": h["language"], "overall": o}
         ratings.append({
             "season": ep["season"],
             "episode": ep["episode"],
@@ -314,7 +356,9 @@ def rate_show(show_id: str) -> dict:
             "sex": h["sex"],
             "language": h["language"],
             "overall": o,
-            "verdict": verdict(o),
+            "age": age,
+            "verdict": verdict(o, age),
+            "why": why_this_score(show_id, scores, h["themes"]),
             "themes": h["themes"],
             "examples": h["examples"],
             "notes": None,
@@ -322,9 +366,15 @@ def rate_show(show_id: str) -> dict:
             "source": "heuristic",
         })
 
+    ratings = dedupe_codes(ratings)
+
     out = {
         "show": meta["name"],
         "show_id": show_id,
+        "shelf": show_meta["shelf"],
+        "age": show_meta["age"],
+        "age_floor": show_meta["floor"],
+        "audience_note": show_meta.get("note", ""),
         "scale": {
             "min": 1,
             "max": 5,
@@ -351,13 +401,14 @@ def rate_show(show_id: str) -> dict:
 
     with (out_dir / f"{show_id}.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["season", "episode", "code", "title", "violence", "sex", "language", "overall", "verdict", "example_1"])
+        w.writerow(["season", "episode", "code", "title", "violence", "sex", "language", "overall", "age", "verdict", "example_1"])
         for r in ratings:
             ex = (r["examples"] or [""])[0]
-            w.writerow([r["season"], r["episode"], r["code"], r["title"], r["violence"], r["sex"], r["language"], r["overall"], r["verdict"], ex])
+            w.writerow([r["season"], r["episode"], r["code"], r["title"], r["violence"], r["sex"], r["language"], r["overall"], r["age"], r["verdict"], ex])
 
     dist = Counter(r["overall"] for r in ratings)
-    print(f"{show_id}: {len(ratings)} eps → ratings/{show_id}.json  dist={dict(sorted(dist.items()))}")
+    note = f"  dropped={dropped} non-episodes" if dropped else ""
+    print(f"{show_id}: {len(ratings)} eps → ratings/{show_id}.json  dist={dict(sorted(dist.items()))}{note}")
     return out
 
 

@@ -1,0 +1,88 @@
+{
+  "_comment": "Where-to-watch / where-to-buy outbound links. Set affiliates.<showId>.<provider> to a URL (or {url, program}) to swap in affiliate links later. Until then every chip uses the plain url.",
+  "justwatch_slugs": {
+    "friends": "friends",
+    "the-office": "the-office",
+    "parks-and-recreation": "parks-and-recreation",
+    "brooklyn-nine-nine": "brooklyn-nine-nine",
+    "how-i-met-your-mother": "how-i-met-your-mother",
+    "big-bang-theory": "the-big-bang-theory",
+    "modern-family": "modern-family",
+    "seinfeld": "seinfeld",
+    "simpsons": "the-simpsons",
+    "futurama": "futurama",
+    "malcolm-in-the-middle": "malcolm-in-the-middle",
+    "bobs-burgers": "bobs-burgers",
+    "phineas-and-ferb": "phineas-and-ferb",
+    "spongebob": "spongebob-squarepants",
+    "avatar": "avatar-the-last-airbender",
+    "adventure-time": "adventure-time",
+    "bluey": "bluey",
+    "steven-universe": "steven-universe",
+    "full-house": "full-house",
+    "gravity-falls": "gravity-falls",
+    "fresh-prince": "the-fresh-prince-of-bel-air",
+    "young-sheldon": "young-sheldon",
+    "rick-and-morty": "rick-and-morty",
+    "family-guy": "family-guy",
+    "south-park": "south-park",
+    "wednesday": "wednesday",
+    "kpop-demon-hunters": "movie/k-pop-demon-hunters"
+  },
+  "imdb": {
+    "friends": "tt0108778",
+    "the-office": "tt0386676",
+    "parks-and-recreation": "tt1266020",
+    "brooklyn-nine-nine": "tt2467372",
+    "how-i-met-your-mother": "tt0460649",
+    "big-bang-theory": "tt0898266",
+    "modern-family": "tt1442437",
+    "seinfeld": "tt0098904",
+    "simpsons": "tt0096697",
+    "futurama": "tt0149460",
+    "malcolm-in-the-middle": "tt0212671",
+    "bobs-burgers": "tt1561755",
+    "phineas-and-ferb": "tt0852863",
+    "spongebob": "tt0206512",
+    "avatar": "tt9018736",
+    "adventure-time": "tt1305826",
+    "bluey": "tt7678620",
+    "steven-universe": "tt3061046",
+    "full-house": "tt0092359",
+    "gravity-falls": "tt1865718",
+    "fresh-prince": "tt0098800",
+    "young-sheldon": "tt6226232",
+    "rick-and-morty": "tt2861424",
+    "family-guy": "tt0182576",
+    "south-park": "tt0121955",
+    "wednesday": "tt13443470",
+    "kpop-demon-hunters": "tt14205554"
+  },
+  "stream": {
+    "avatar": {
+      "netflix": "https://www.netflix.com/title/80237957"
+    },
+    "phineas-and-ferb": {
+      "disney": "https://www.disneyplus.com/browse/entity-dd2d65ba-4473-4bec-885d-6b71ee699820"
+    }
+  },
+  "official": {
+    "south-park": {
+      "name": "South Park Studios",
+      "url": "https://www.southparkstudios.com/"
+    },
+    "rick-and-morty": {
+      "name": "Adult Swim",
+      "url": "https://www.adultswim.com/videos/rick-and-morty"
+    },
+    "futurama": {
+      "name": "Hulu",
+      "url": "https://www.hulu.com/series/futurama-85bf4cc1-cd8b-4469-ad87-7289217a0b74"
+    },
+    "phineas-and-ferb": {
+      "name": "Disney+",
+      "url": "https://www.disneyplus.com/browse/entity-dd2d65ba-4473-4bec-885d-6b71ee699820"
+    }
+  },
+  "affiliates": {}
+}

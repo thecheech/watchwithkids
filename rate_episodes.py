@@ -8,10 +8,20 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from themes import build_themes, themes_as_examples
+from catalog import clean_episode_title, dedupe_codes
+from shows_meta import episode_age, meta_for
+from themes import (
+    build_themes,
+    collect_moments,
+    evidence_caps,
+    scrub_false_swear_names,
+    themes_as_examples,
+    why_this_score,
+)
 
 ROOT = Path(__file__).resolve().parent
 EPISODES = json.loads((ROOT / "episodes.json").read_text())
+SHOW_ID = "friends"
 
 # 1 = fine / none · 2 = mild · 3 = moderate · 4 = strong · 5 = heavy for this show
 SCALE = {
@@ -1109,7 +1119,7 @@ def score_from_hits(weighted_hits: int, tiers: list[tuple[int, int]]) -> int:
 
 def analyze_text(text: str) -> dict:
     body = text.split("=" * 20, 1)[-1]
-    lower = body.lower()
+    lower = scrub_false_swear_names(body.lower())
 
     sex_hits = []
     sex_weight = 0
@@ -1145,13 +1155,20 @@ def analyze_text(text: str) -> dict:
     tropes = apply_tropes(body)
     sex = max(sex, tropes["min_sex"])
 
+    # Keyword counts propose; the evidence decides. Without a moment intense enough
+    # to justify it, a dimension cannot climb into the 4–5 band.
+    moments = collect_moments(body, tropes["flags"])
+    caps = evidence_caps(moments)
+    sex = max(1, min(sex, caps["sex"]))
+    language = max(1, min(language, caps["language"]))
+    violence = max(1, min(violence, caps["violence"]))
+
     themes = build_themes(
-        body=body,
-        show_id="friends",
+        show_id=SHOW_ID,
         sex=sex,
         language=language,
         violence=violence,
-        flags=tropes["flags"],
+        moments=moments,
     )
 
     return {
@@ -1159,12 +1176,14 @@ def analyze_text(text: str) -> dict:
         "language": language,
         "violence": violence,
         "themes": themes,
+        "moments": moments,
         "examples": themes_as_examples(themes),
         "flags": tropes["flags"],
         "signals": {
             "sex_weight": sex_weight,
             "language_weight": lang_weight,
             "violence_weight": viol_weight,
+            "evidence_caps": caps,
             "sex_terms": [(p, c) for p, c, _ in sex_hits[:8]],
             "language_terms": [(p, c) for p, c, _ in lang_hits[:8]],
             "tropes": tropes["flags"],
@@ -1176,13 +1195,14 @@ def overall(v: int, s: int, lang: int) -> int:
     return max(v, s, lang)
 
 
-def verdict(score: int) -> str:
+def verdict(score: int, age: int) -> str:
+    """Age-relative, so 'hard pass' never lands on a show nobody claimed was kids TV."""
     return {
-        1: "Usually fine",
-        2: "Mild — okay for many kids with a parent",
-        3: "Moderate — better for older kids / preteens",
-        4: "Strong — skip for little kids",
-        5: "Heavy — not kid-friendly",
+        1: f"Usually fine — about {age}+",
+        2: f"Mild — okay from about {age}+",
+        3: f"Preview first — about {age}+",
+        4: f"Skip for under {age}",
+        5: f"Heavy — skip for under {age}",
     }[score]
 
 
@@ -1193,7 +1213,8 @@ def rate_episode(ep: dict) -> dict:
         "sex": 2,
         "language": 2,
         "violence": 1,
-        "themes": {"fine": [], "watch": []},
+        "themes": {"fine": [], "watch": [], "watch_detail": []},
+        "moments": [],
         "examples": [],
         "flags": [],
         "signals": {},
@@ -1208,14 +1229,12 @@ def rate_episode(ep: dict) -> dict:
     violence = over.get("violence", heuristic["violence"])
 
     flags = list(heuristic.get("flags") or [])
-    body = text.split("=" * 20, 1)[-1] if text else ""
     themes = build_themes(
-        body=body,
-        show_id="friends",
+        show_id=SHOW_ID,
         sex=sex,
         language=language,
         violence=violence,
-        flags=flags,
+        moments=list(heuristic.get("moments") or []),
         override_examples=list(over.get("examples") or []) or None,
     )
     # Prefer curated blurbs for detail bullets; chips still use themes.watch only
@@ -1224,6 +1243,7 @@ def rate_episode(ep: dict) -> dict:
         examples = list(over["examples"])[:4]
 
     o = overall(violence, sex, language)
+    age = episode_age(SHOW_ID, o)
     source = "override+heuristic" if over else "heuristic"
     if flags and not over:
         source = "trope+heuristic"
@@ -1232,7 +1252,7 @@ def rate_episode(ep: dict) -> dict:
         "season": ep["season"],
         "episode": ep["episode"],
         "code": code,
-        "title": ep["title"],
+        "title": clean_episode_title(ep["title"], ep.get("index_title") or ""),
         "index_title": ep["index_title"],
         "url": ep["url"],
         "file": ep["file"],
@@ -1240,7 +1260,13 @@ def rate_episode(ep: dict) -> dict:
         "sex": sex,
         "language": language,
         "overall": o,
-        "verdict": verdict(o),
+        "age": age,
+        "verdict": verdict(o, age),
+        "why": why_this_score(
+            SHOW_ID,
+            {"violence": violence, "sex": sex, "language": language, "overall": o},
+            themes,
+        ),
         "themes": themes,
         "examples": examples,
         "notes": over.get("notes"),
@@ -1251,9 +1277,15 @@ def rate_episode(ep: dict) -> dict:
 
 
 def main() -> None:
-    ratings = [rate_episode(ep) for ep in EPISODES]
+    ratings = dedupe_codes([rate_episode(ep) for ep in EPISODES])
+    show_meta = meta_for(SHOW_ID)
     out = {
         "show": "Friends",
+        "show_id": SHOW_ID,
+        "shelf": show_meta["shelf"],
+        "age": show_meta["age"],
+        "age_floor": show_meta["floor"],
+        "audience_note": show_meta.get("note", ""),
         "scale": {
             "min": 1,
             "max": 5,
@@ -1273,7 +1305,7 @@ def main() -> None:
         "count": len(ratings),
         "episodes": ratings,
     }
-    (ROOT / "ratings.json").write_text(json.dumps(out, indent=2) + "\n")
+    (ROOT / "ratings.json").write_text(json.dumps(out, indent=2, ensure_ascii=False) + "\n")
 
     # Compact CSV for spreadsheets
     import csv
@@ -1290,6 +1322,7 @@ def main() -> None:
                 "sex",
                 "language",
                 "overall",
+                "age",
                 "verdict",
                 "example_1",
                 "example_2",
@@ -1308,6 +1341,7 @@ def main() -> None:
                     r["sex"],
                     r["language"],
                     r["overall"],
+                    r["age"],
                     r["verdict"],
                     ex[0],
                     ex[1],
