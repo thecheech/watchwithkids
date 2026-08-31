@@ -439,7 +439,26 @@ def stream_links_for(show_id: str, show_name: str) -> dict | None:
     return {"watch": watch, "buy": buy}
 
 
-def stream_chip_html(link: dict) -> str:
+def stream_icon_html(provider: str, *, prefix: str = "") -> str:
+    """Brand mark as <img> so large logos (Disney+) aren't inlined on every page."""
+    icons = {
+        "netflix": "netflix.svg",
+        "hbo": "hbo.svg",
+        "disney": "disney.svg",
+        "amazon": "amazon.svg",
+        "apple": "apple.svg",
+        "google": "google.svg",
+        "official": "official.svg",
+    }
+    file = icons.get(provider) or icons["official"]
+    wide = " watch-logo-wide" if provider == "disney" else ""
+    return (
+        f'<img class="watch-logo{wide}" src="{prefix}icons/{file}" alt="" '
+        f'width="{"52" if provider == "disney" else "18"}" height="18" loading="lazy" decoding="async" />'
+    )
+
+
+def stream_chip_html(link: dict, *, prefix: str = "") -> str:
     note = (
         f' <span class="watch-chip-note">{esc(link["note"])}</span>' if link.get("note") else ""
     )
@@ -447,20 +466,27 @@ def stream_chip_html(link: dict) -> str:
     if link.get("note"):
         aria = f"{link['name']} — {link['note']}"
     aria += " (opens in a new tab)"
+    icon = stream_icon_html(link["id"], prefix=prefix)
+    # Disney+ SVG is the full wordmark — skip duplicate text label.
+    name_html = (
+        ""
+        if link["id"] == "disney"
+        else f'<span class="watch-chip-name">{esc(link["name"])}</span>'
+    )
     return (
         f'<a class="watch-chip" data-provider="{esc(link["id"])}" href="{esc(outbound_href(link))}" '
         f'target="_blank" rel="{esc(outbound_rel(link))}" aria-label="{esc(aria)}">'
-        f'<span class="watch-chip-name">{esc(link["name"])}</span>{note}'
+        f"{icon}{name_html}{note}"
         f'<span class="watch-ext" aria-hidden="true">↗</span></a>'
     )
 
 
-def stream_box_html(show_id: str, show_name: str) -> str:
+def stream_box_html(show_id: str, show_name: str, *, prefix: str = "") -> str:
     data = stream_links_for(show_id, show_name)
     if not data:
         return ""
-    watch_chips = "".join(stream_chip_html(link) for link in data["watch"])
-    buy_chips = "".join(stream_chip_html(link) for link in data["buy"])
+    watch_chips = "".join(stream_chip_html(link, prefix=prefix) for link in data["watch"])
+    buy_chips = "".join(stream_chip_html(link, prefix=prefix) for link in data["buy"])
     has_aff = any(
         _affiliate_url(link.get("affiliate")) for link in data["watch"] + data["buy"]
     )
@@ -799,7 +825,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
 
     eps = payload["episodes"]
     show_name = payload["show"]
-    stream_box = stream_box_html(show_id, show_name)
+    stream_box = stream_box_html(show_id, show_name, prefix="../../")
     n = 0
     for i, ep in enumerate(eps):
         code = safe_code(ep["code"])
