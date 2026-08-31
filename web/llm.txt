@@ -1,0 +1,3 @@
+# Watch With The Kids
+
+See https://watchwithkids.vercel.app/llms.txt for the full agent index.

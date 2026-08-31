@@ -3,14 +3,24 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Watch With The Kids</title>
-  <meta name="description" content="Couch-night guide for parents — what’s all clear, gray area, or a hard pass." />
-  <meta property="og:title" content="Watch With The Kids" />
-  <meta property="og:description" content="Episode-by-episode vibes for family couch night." />
+  <title>Watch With The Kids — Is This Episode OK for Kids?</title>
+  <meta name="description" content="Every episode of Friends, The Office, SpongeBob, Seinfeld and more, rated 1–5 for violence, sex and language — with the exact moments quoted so you know before you press play." />
+  <link rel="canonical" href="https://watchwithkids.vercel.app/" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Watch With The Kids" />
+  <meta property="og:title" content="Watch With The Kids — Is This Episode OK for Kids?" />
+  <meta property="og:description" content="Episode-by-episode parent guide: violence, sex and language scored 1–5, with every flagged moment quoted." />
+  <meta property="og:url" content="https://watchwithkids.vercel.app/" />
+  <meta property="og:image" content="https://watchwithkids.vercel.app/covers/friends.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="landing.css" />
+  <!-- SEO:JSONLD:START -->
+  <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebSite", "@id": "https://watchwithkids.vercel.app/#website", "url": "https://watchwithkids.vercel.app/", "name": "Watch With The Kids", "description": "Parent guide to TV episodes — violence, sex and language scored 1–5 with every flagged moment quoted.", "publisher": {"@id": "https://watchwithkids.vercel.app/#org"}}, {"@type": "Organization", "@id": "https://watchwithkids.vercel.app/#org", "name": "Watch With The Kids", "url": "https://watchwithkids.vercel.app/", "slogan": "You kids — your rules!"}, {"@type": "ItemList", "name": "Shows rated for kids", "numberOfItems": 12, "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Friends", "url": "https://watchwithkids.vercel.app/friends.html"}, {"@type": "ListItem", "position": 2, "name": "The Office", "url": "https://watchwithkids.vercel.app/the-office.html"}, {"@type": "ListItem", "position": 3, "name": "How I Met Your Mother", "url": "https://watchwithkids.vercel.app/how-i-met-your-mother.html"}, {"@type": "ListItem", "position": 4, "name": "The Big Bang Theory", "url": "https://watchwithkids.vercel.app/big-bang-theory.html"}, {"@type": "ListItem", "position": 5, "name": "Seinfeld", "url": "https://watchwithkids.vercel.app/seinfeld.html"}, {"@type": "ListItem", "position": 6, "name": "Futurama", "url": "https://watchwithkids.vercel.app/futurama.html"}, {"@type": "ListItem", "position": 7, "name": "Malcolm in the Middle", "url": "https://watchwithkids.vercel.app/malcolm-in-the-middle.html"}, {"@type": "ListItem", "position": 8, "name": "SpongeBob SquarePants", "url": "https://watchwithkids.vercel.app/spongebob.html"}, {"@type": "ListItem", "position": 9, "name": "Young Sheldon", "url": "https://watchwithkids.vercel.app/young-sheldon.html"}, {"@type": "ListItem", "position": 10, "name": "Rick and Morty", "url": "https://watchwithkids.vercel.app/rick-and-morty.html"}, {"@type": "ListItem", "position": 11, "name": "Family Guy", "url": "https://watchwithkids.vercel.app/family-guy.html"}, {"@type": "ListItem", "position": 12, "name": "South Park", "url": "https://watchwithkids.vercel.app/south-park.html"}]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do you decide if an episode is OK for kids?", "acceptedAnswer": {"@type": "Answer", "text": "Each episode is scored 1–5 for violence, sex and language from its transcript. The overall score is the highest of the three. Episodes scoring 1–2 are all clear, 3 is a gray area worth previewing, and 4–5 is a hard pass for little kids."}}, {"@type": "Question", "name": "Do you show what actually happens in the episode?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every episode page lists each flagged theme, how many times it occurs, and the moments behind it — direct quotes in quote marks, or a short description of the scene where there is no line to quote."}}]}]}</script>
+  <!-- SEO:JSONLD:END -->
 </head>
 <body>
   <div class="stage" aria-hidden="true">
@@ -44,7 +54,7 @@
       <div class="shelf-head reveal">
         <div>
           <h2>Live ratings</h2>
-          <p>Six shows live — Friends through Big Bang. Jump in.</p>
+          <p><!-- SEO:LIVECOUNT:START -->Twelve shows live · 3,443 episodes rated for violence, sex and language.<!-- SEO:LIVECOUNT:END --></p>
         </div>
       </div>
       <div class="grid live-grid" id="live-grid"></div>
@@ -61,6 +71,24 @@
       <div class="grid" id="grid"></div>
     </section>
   </main>
+
+  <!-- SEO:SHOWS:START -->
+  <section class="wrap seo-copy" aria-label="Shows rated">
+    <h2>Every show we've rated</h2>
+    <p>
+      Watch With The Kids scores each episode 1–5 for <strong>violence</strong>, <strong>sex</strong> and
+      <strong>language</strong>. The overall score is the highest of the three: 1–2 is all clear,
+      3 is a gray area, 4–5 is a hard pass for little kids. Every flagged theme — Sex &amp; hookups,
+      Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating,
+      Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Slut-shaming and Racism —
+      is listed with how many times it comes up and the exact quote or scene behind it.
+    </p>
+    <ul class="seo-show-list">
+      <li><a href="friends.html"><strong>Friends</strong></a> — 228 episodes rated: 11% all clear, 55% gray area, 35% hard pass.</li><li><a href="the-office.html"><strong>The Office</strong></a> — 186 episodes rated: 25% all clear, 46% gray area, 29% hard pass.</li><li><a href="how-i-met-your-mother.html"><strong>How I Met Your Mother</strong></a> — 208 episodes rated: 3% all clear, 41% gray area, 55% hard pass.</li><li><a href="big-bang-theory.html"><strong>The Big Bang Theory</strong></a> — 279 episodes rated: 42% all clear, 38% gray area, 20% hard pass.</li><li><a href="seinfeld.html"><strong>Seinfeld</strong></a> — 176 episodes rated: 39% all clear, 45% gray area, 16% hard pass.</li><li><a href="futurama.html"><strong>Futurama</strong></a> — 141 episodes rated: 0% all clear, 38% gray area, 62% hard pass.</li><li><a href="malcolm-in-the-middle.html"><strong>Malcolm in the Middle</strong></a> — 151 episodes rated: 37% all clear, 57% gray area, 6% hard pass.</li><li><a href="spongebob.html"><strong>SpongeBob SquarePants</strong></a> — 1060 episodes rated: 97% all clear, 3% gray area, 0% hard pass.</li><li><a href="young-sheldon.html"><strong>Young Sheldon</strong></a> — 141 episodes rated: 60% all clear, 36% gray area, 4% hard pass.</li><li><a href="rick-and-morty.html"><strong>Rick and Morty</strong></a> — 82 episodes rated: 0% all clear, 1% gray area, 99% hard pass.</li><li><a href="family-guy.html"><strong>Family Guy</strong></a> — 456 episodes rated: 2% all clear, 21% gray area, 77% hard pass.</li><li><a href="south-park.html"><strong>South Park</strong></a> — 335 episodes rated: 0% all clear, 6% gray area, 94% hard pass.</li>
+    </ul>
+    <p>Agents and LLMs: see <a href="llms.txt">llms.txt</a> for a machine-readable index.</p>
+  </section>
+<!-- SEO:SHOWS:END -->
 
   <footer class="wrap foot reveal">
     <p><strong>watchwiththekids.com</strong> · You kids — your rules!</p>

@@ -1,0 +1,38 @@
+# Watch With The Kids
+
+> https://watchwithkids.vercel.app — a parent guide to TV episodes. Every episode is scored 1–5 for violence, sex and language, and every flagged theme lists how many times it occurs plus the exact quote or scene description behind it.
+
+## How the ratings work
+
+- Scores: violence, sex and language, each 1 (none) to 5 (heavy).
+- Overall = the highest of the three scores.
+- Buckets: 1–2 = all clear, 3 = gray area, 4–5 = hard pass for little kids.
+- Watch-for themes: Sex & hookups, Nudity & bodies, Porn / strippers, Swearing, Violence & death, Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Slut-shaming, Racism.
+- Each theme on an episode page shows every occurrence: quotes appear in quote marks, everything else is a short description of what happens.
+
+## Shows rated
+
+- [Friends](https://watchwithkids.vercel.app/friends.html): 228 episodes — 11% all clear, 55% gray area, 35% hard pass. Full text index: [friends.md](https://watchwithkids.vercel.app/llms/friends.md)
+- [The Office](https://watchwithkids.vercel.app/the-office.html): 186 episodes — 25% all clear, 46% gray area, 29% hard pass. Full text index: [the-office.md](https://watchwithkids.vercel.app/llms/the-office.md)
+- [How I Met Your Mother](https://watchwithkids.vercel.app/how-i-met-your-mother.html): 208 episodes — 3% all clear, 41% gray area, 55% hard pass. Full text index: [how-i-met-your-mother.md](https://watchwithkids.vercel.app/llms/how-i-met-your-mother.md)
+- [The Big Bang Theory](https://watchwithkids.vercel.app/big-bang-theory.html): 279 episodes — 42% all clear, 38% gray area, 20% hard pass. Full text index: [big-bang-theory.md](https://watchwithkids.vercel.app/llms/big-bang-theory.md)
+- [Seinfeld](https://watchwithkids.vercel.app/seinfeld.html): 176 episodes — 39% all clear, 45% gray area, 16% hard pass. Full text index: [seinfeld.md](https://watchwithkids.vercel.app/llms/seinfeld.md)
+- [Futurama](https://watchwithkids.vercel.app/futurama.html): 141 episodes — 0% all clear, 38% gray area, 62% hard pass. Full text index: [futurama.md](https://watchwithkids.vercel.app/llms/futurama.md)
+- [Malcolm in the Middle](https://watchwithkids.vercel.app/malcolm-in-the-middle.html): 151 episodes — 37% all clear, 57% gray area, 6% hard pass. Full text index: [malcolm-in-the-middle.md](https://watchwithkids.vercel.app/llms/malcolm-in-the-middle.md)
+- [SpongeBob SquarePants](https://watchwithkids.vercel.app/spongebob.html): 1060 episodes — 97% all clear, 3% gray area, 0% hard pass. Full text index: [spongebob.md](https://watchwithkids.vercel.app/llms/spongebob.md)
+- [Young Sheldon](https://watchwithkids.vercel.app/young-sheldon.html): 141 episodes — 60% all clear, 36% gray area, 4% hard pass. Full text index: [young-sheldon.md](https://watchwithkids.vercel.app/llms/young-sheldon.md)
+- [Rick and Morty](https://watchwithkids.vercel.app/rick-and-morty.html): 82 episodes — 0% all clear, 1% gray area, 99% hard pass. Full text index: [rick-and-morty.md](https://watchwithkids.vercel.app/llms/rick-and-morty.md)
+- [Family Guy](https://watchwithkids.vercel.app/family-guy.html): 456 episodes — 2% all clear, 21% gray area, 77% hard pass. Full text index: [family-guy.md](https://watchwithkids.vercel.app/llms/family-guy.md)
+- [South Park](https://watchwithkids.vercel.app/south-park.html): 335 episodes — 0% all clear, 6% gray area, 94% hard pass. Full text index: [south-park.md](https://watchwithkids.vercel.app/llms/south-park.md)
+
+## Machine-readable data
+
+- [Sitemap](https://watchwithkids.vercel.app/sitemap.xml): every show and episode page.
+- [Show catalogue JSON](https://watchwithkids.vercel.app/shows.json): shows, covers and rating mix.
+- Per-show ratings JSON: https://watchwithkids.vercel.app/data/<show-id>.js (window.RATINGS payload).
+
+## Notes
+
+- This is informal parental guidance, not an official rating body.
+- Strong profanity is masked in quotes; slurs are replaced with [racial slur].
+- You kids — your rules!

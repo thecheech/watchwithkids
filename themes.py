@@ -41,15 +41,20 @@ SEX_THEMES = [
 
 IDENTITY_THEMES = [
     (r"\blesbian\b|\bgay\b|\bhomosexual\b|\bqueer\b|\bbisexual\b|\bcoming out\b|\bsame[- ]sex\b", "Gay / Lesbian", 2),
-    (r"\bdrag\b|\btrans(?:gender|vestite)?\b|\bshowgirl\b", "Gay / Lesbian", 2),
+    (r"\bdrag queen\b|\bin drag\b|\bdrag show\b|\btrans(?:gender|vestite)\b", "Gay / Lesbian", 2),
 ]
 
 SUBSTANCE_THEMES = [
-    (r"\bcocaine\b|\bheroin\b|\bmeth\b|\becstasy\b|\bls?d\b", "Alcohol / Drugs", 4),
-    (r"\bmarijuana\b|\bweed\b|\bpot\b|\bjoint\b|\bstoned\b|\bdealer\b", "Alcohol / Drugs", 3),
+    (r"\bcocaine\b|\bheroin\b|\bmeth(?:amphetamine)?\b|\becstasy\b|\bacid trip\b", "Alcohol / Drugs", 4),
+    (
+        r"\bmarijuana\b|\bweed\b|\bstoned\b|\bpothead\b|\bsmok\w*\s+(?:a\s+)?(?:pot|joint|weed)\b"
+        r"|\bpot brownies?\b|\bdrug dealer\b|\bgetting high\b|\bhigh as a kite\b",
+        "Alcohol / Drugs",
+        3,
+    ),
     (r"\bdrunk\b|\bdrunken\b|\bhangover\b|\bbooze\b|\bwasted\b|\bintoxicated\b", "Alcohol / Drugs", 2),
     (r"\bbeer\b|\bwine\b|\bvodka\b|\btequila\b|\bwhiskey\b|\bchampagne\b|\bcocktail\b|\bmargarita\b", "Alcohol / Drugs", 2),
-    (r"\bdrinking\b|\bgot drunk\b|\bget drunk\b|\bshots?\b of\b", "Alcohol / Drugs", 2),
+    (r"\bdrinking\b|\bgot drunk\b|\bget drunk\b|\bshots? of (?:vodka|tequila|whiskey|rum)\b", "Alcohol / Drugs", 2),
 ]
 
 HARM_THEMES = [
@@ -72,10 +77,20 @@ LANG_THEMES = [
 ]
 
 VIOL_THEMES = [
-    (r"\bsuicide\b|\bkill(?:s|ed|ing)? (?:my|him|her|them|myself|yourself)\b", "Suicide / self-harm", 4),
-    (r"\bsuicide\b", "Suicide / self-harm", 4),
-    (r"\bmurder|\bstab|\bgun\b|\bshoot(?:s|ing|shot)?\b|\bblood\b", "Violence & death", 3),
-    (r"\bpunch(?:es|ed|ing)?\b|\bbeat(?:s|en|ing)? up\b|\bfight(?:s|ing)?\b", "Violence & death", 2),
+    (
+        r"\bsuicid|\bself[- ]harm\b|\boverdos|\bslit (?:his|her|my|their) wrists\b"
+        r"|\bhang(?:ed|ing)? (?:him|her|my|them)self\b|\btake (?:his|her|my) own life\b",
+        "Suicide / self-harm",
+        4,
+    ),
+    (r"\bmurder|\bstab(?:s|bed|bing)?\b|\bgun\b|\bshot (?:him|her|them|dead|in the)\b", "Violence & death", 3),
+    (r"\bblood\b(?!\s*(?:sugar|pressure|test|type|bank|drive|work))", "Violence & death", 3),
+    (
+        r"\bpunch(?:es|ed|ing)?\b|\bbeat(?:s|en|ing)? (?:him|her|them|up)\b|\bfist ?fight\b"
+        r"|\bslapp(?:ed|ing)\b|\bget(?:s|ting)? in a fight\b|\bbar fight\b",
+        "Violence & death",
+        2,
+    ),
 ]
 
 ALL_THEME_PATTERNS = SEX_THEMES + IDENTITY_THEMES + SUBSTANCE_THEMES + HARM_THEMES + LANG_THEMES + VIOL_THEMES
@@ -165,55 +180,175 @@ def map_blurb_to_themes(blurb: str) -> list[str]:
     return _uniq(hits, limit=4)
 
 
-def _clean_snip(line: str, *, max_len: int = 108) -> str:
-    t = re.sub(r"\[.*?\]", "", line)
-    t = re.sub(r"\s+", " ", t).strip(" -–—:\t")
-    # Soften raw swear dumps for the UI
-    if re.search(r"\bfuck|\bshit\b|\basshole\b|\bnigg", t, re.I):
-        return ""
-    if len(t) > max_len:
-        t = t[: max_len - 1].rstrip() + "…"
-    return t
+MAX_INSTANCES = 15
+MAX_TEXT = 220
+
+SPEAKER_RE = re.compile(r"^([A-Z][A-Za-z0-9.'\- ]{1,22}?)\s*:\s*(.+)$", re.S)
+SLUR_RE = re.compile(r"\bnigg(?:er|a)s?\b|\bchinks?\b|\bkikes?\b|\bgooks?\b|\bwett?backs?\b", re.I)
+
+# Mask hard profanity but keep the evidence readable for parents.
+PROFANITY_MASKS = [
+    (re.compile(r"\bfuck(\w*)", re.I), lambda m: "f***" + m.group(1)),
+    (re.compile(r"\bshit(\w*)", re.I), lambda m: "sh*t" + m.group(1)),
+    (re.compile(r"\bass ?hole(\w*)", re.I), lambda m: "a**hole" + m.group(1)),
+    (re.compile(r"\bcunt(\w*)", re.I), lambda m: "c**t" + m.group(1)),
+]
+
+# Wiki / metadata cruft that shows up in scraped fandom transcripts.
+JUNK_LINE_RE = re.compile(
+    r"^(episode|season|airdate|transcript|gallery|credits|general|u\.s\.|running time|previous|next|"
+    r"written by|transcribed by|additional transcribing|copyright|note)\b|№",
+    re.I,
+)
 
 
-def _find_line(body: str, pat: str) -> str | None:
-    for line in body.splitlines():
-        if re.search(pat, line, re.I):
-            cleaned = _clean_snip(line)
-            if 16 <= len(cleaned) <= 140:
-                return cleaned
-    return None
+def _mask(text: str) -> str:
+    out = SLUR_RE.sub("[racial slur]", text)
+    for pattern, repl in PROFANITY_MASKS:
+        out = pattern.sub(repl, out)
+    return out
 
 
-def collect_theme_hits(body: str, flags: list[str] | None = None) -> dict[str, dict]:
+def _shorten(text: str, max_len: int = MAX_TEXT) -> str:
+    if len(text) <= max_len:
+        return text
+    cut = text[: max_len - 1]
+    # Prefer a clean break at the last sentence or word boundary
+    for sep in (". ", "! ", "? ", " "):
+        idx = cut.rfind(sep)
+        if idx > max_len * 0.6:
+            cut = cut[: idx + (len(sep) - 1)]
+            break
+    return cut.rstrip(" ,;:-") + "…"
+
+
+def transcript_units(body: str) -> list[dict]:
     """
-    label -> {sev, how, pat}
-    Prefer a concrete dialogue snip; else flag how; else fallback later.
-    """
-    lower = body.lower()
-    best: dict[str, dict] = {}
+    Split a transcript into dialogue / stage-direction units.
 
-    for pat, label, sev in ALL_THEME_PATTERNS:
-        if label not in CANONICAL_WATCH:
+    kind "quote" → spoken line (render inside quote marks)
+    kind "scene" → stage direction describing what happens
+    kind "line"  → other narrative prose
+    """
+    units: list[dict] = []
+    for block in re.split(r"\n\s*\n", body):
+        text = re.sub(r"\s+", " ", block).strip()
+        if not text or text.startswith("=" * 6):
             continue
-        if not re.search(pat, lower):
+        if len(text) < 12 or " " not in text:
             continue
-        prev = best.get(label)
-        snip = _find_line(body, pat)
-        how = snip or ""
-        if not prev or sev > prev["sev"] or (sev == prev["sev"] and how and not prev["how"]):
-            best[label] = {"sev": sev, "how": how, "pat": pat}
+        if JUNK_LINE_RE.search(text):
+            continue
+
+        scene = False
+        if text.startswith("[") and text.endswith("]"):
+            text, scene = text[1:-1].strip(), True
+        elif text.startswith("(") and text.endswith(")"):
+            text, scene = text[1:-1].strip(), True
+        elif re.match(r"^scene\s*:", text, re.I):
+            text, scene = re.sub(r"^scene\s*:\s*", "", text, flags=re.I), True
+
+        if scene:
+            units.append({"kind": "scene", "speaker": None, "text": text})
+            continue
+
+        m = SPEAKER_RE.match(text)
+        if m and not m.group(1).lower().startswith(("http", "www")):
+            speaker = m.group(1).strip()
+            said = m.group(2).strip()
+            if len(said) >= 8:
+                units.append({"kind": "quote", "speaker": speaker, "text": said})
+                continue
+
+        units.append({"kind": "line", "speaker": None, "text": text})
+    return units
+
+
+def _instance_from_unit(unit: dict) -> dict | None:
+    text = _mask(unit["text"]).strip(" -–—")
+    if len(text) < 12:
+        return None
+    text = _shorten(text)
+    if unit["kind"] == "quote":
+        return {"kind": "quote", "speaker": unit["speaker"], "text": text}
+    return {"kind": "note", "speaker": None, "text": text}
+
+
+def collect_theme_instances(
+    body: str, flags: list[str] | None = None
+) -> dict[str, dict]:
+    """
+    label -> {sev, count, instances: [{kind, speaker, text}, …]}
+
+    Every place a theme shows up in the episode, most severe first.
+    """
+    found: dict[str, dict] = {}
+
+    for unit in transcript_units(body):
+        lower = unit["text"].lower()
+        for pattern, label, sev in ALL_THEME_PATTERNS:
+            if label not in CANONICAL_WATCH:
+                continue
+            if not re.search(pattern, lower):
+                continue
+            inst = _instance_from_unit(unit)
+            if not inst:
+                continue
+            bucket = found.setdefault(label, {"sev": 0, "seen": set(), "items": []})
+            key = re.sub(r"[^a-z0-9]+", "", inst["text"].lower())[:90]
+            if key in bucket["seen"]:
+                # Same line, weaker pattern — keep the highest severity we saw
+                bucket["sev"] = max(bucket["sev"], sev)
+                continue
+            bucket["seen"].add(key)
+            bucket["sev"] = max(bucket["sev"], sev)
+            bucket["items"].append({**inst, "sev": sev})
 
     for name in flags or []:
         if name not in FLAG_THEMES:
             continue
         label, sev = FLAG_THEMES[name]
         how = FLAG_HOW.get(name, "")
-        prev = best.get(label)
-        if not prev or sev > prev["sev"] or (sev == prev["sev"] and how and not prev["how"]):
-            best[label] = {"sev": sev, "how": how, "pat": name}
+        if not how:
+            continue
+        bucket = found.setdefault(label, {"sev": 0, "seen": set(), "items": []})
+        bucket["sev"] = max(bucket["sev"], sev)
+        bucket["items"].insert(
+            0, {"kind": "note", "speaker": None, "text": how, "sev": sev, "curated": True}
+        )
 
-    return best
+    out: dict[str, dict] = {}
+    for label, bucket in found.items():
+        items = sorted(
+            bucket["items"],
+            key=lambda x: (not x.get("curated"), -x["sev"]),
+        )
+        out[label] = {
+            "sev": bucket["sev"],
+            "count": len(items),
+            "instances": items[:MAX_INSTANCES],
+        }
+    return out
+
+
+def collect_theme_hits(body: str, flags: list[str] | None = None) -> dict[str, dict]:
+    """Back-compat shim: label -> {sev, how} using the top instance."""
+    return {
+        label: {"sev": data["sev"], "how": data["instances"][0]["text"] if data["instances"] else ""}
+        for label, data in collect_theme_instances(body, flags).items()
+    }
+
+
+def render_instance(inst: dict) -> str:
+    """Plain-text rendering: quotes get quote marks, notes stay prose."""
+    text = (inst.get("text") or "").strip()
+    if not text:
+        return ""
+    if inst.get("kind") == "quote":
+        speaker = (inst.get("speaker") or "").strip()
+        quoted = f"\u201c{text}\u201d"
+        return f"{speaker}: {quoted}" if speaker else quoted
+    return text
 
 
 def fine_themes_for(
@@ -245,26 +380,32 @@ def build_themes(
 ) -> dict:
     """
     watch: canonical labels (filters)
-    watch_detail: [{theme, how}] — how this theme shows up in THIS episode
+    watch_detail: [{theme, how, count, instances}] — every place it shows up here
     notes_extra: curated override blurbs
     """
-    hits = collect_theme_hits(body, flags)
-    how_by: dict[str, str] = {label: data["how"] for label, data in hits.items() if data.get("how")}
+    hits = collect_theme_instances(body, flags)
 
-    # Curated override blurbs win as the episode-specific "how"
+    # Curated override blurbs lead the list for this theme
     if override_examples:
         for blurb in override_examples:
+            note = {
+                "kind": "note",
+                "speaker": None,
+                "text": blurb.strip(),
+                "sev": 5,
+                "curated": True,
+            }
             for label in map_blurb_to_themes(blurb):
-                # Prefer curated prose over transcript snips
-                how_by[label] = blurb.strip()
-                if label not in hits:
-                    hits[label] = {"sev": 3, "how": blurb.strip(), "pat": "override"}
+                bucket = hits.setdefault(label, {"sev": 3, "count": 0, "instances": []})
+                bucket["instances"].insert(0, note)
+                bucket["count"] += 1
+                bucket["instances"] = bucket["instances"][:MAX_INSTANCES]
 
     watch = list(hits.keys())
 
     if language <= 1 and watch == ["Swearing"]:
         watch = []
-        how_by.pop("Swearing", None)
+        hits.pop("Swearing", None)
 
     if sex >= 4 and not any(t in watch for t in ("Sex & hookups", "Porn / strippers", "Nudity & bodies")):
         watch.append("Sex & hookups")
@@ -277,13 +418,29 @@ def build_themes(
 
     watch_detail = []
     for theme in watch:
-        how = (how_by.get(theme) or "").strip()
-        if not how:
-            how = FALLBACK_HOW.get(theme, "Flagged in this episode.")
-        # Keep how readable and parent-facing
-        if len(how) > 140:
-            how = how[:137].rstrip() + "…"
-        watch_detail.append({"theme": theme, "how": how})
+        data = hits.get(theme) or {}
+        instances = list(data.get("instances") or [])
+        if not instances:
+            instances = [
+                {
+                    "kind": "note",
+                    "speaker": None,
+                    "text": FALLBACK_HOW.get(theme, "Flagged in this episode."),
+                }
+            ]
+        instances = [
+            {k: v for k, v in inst.items() if k in ("kind", "speaker", "text")}
+            for inst in instances
+        ]
+        count = max(int(data.get("count") or 0), len(instances))
+        watch_detail.append(
+            {
+                "theme": theme,
+                "how": render_instance(instances[0]),
+                "count": count,
+                "instances": instances,
+            }
+        )
 
     fine = fine_themes_for(show_id, sex=sex, language=language, violence=violence, watch=watch)
     notes_extra = _uniq(list(override_examples or []), limit=3)

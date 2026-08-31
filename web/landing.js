@@ -12,6 +12,12 @@
     "the-office",
     "how-i-met-your-mother",
     "big-bang-theory",
+    "young-sheldon",
+    "malcolm-in-the-middle",
+    "rick-and-morty",
+    "family-guy",
+    "south-park",
+    "futurama",
   ];
   const SOON_ORDER = [
     "bluey",
@@ -26,8 +32,6 @@
     "brooklyn-nine-nine",
     "modern-family",
     "simpsons",
-    "futurama",
-    "malcolm-in-the-middle",
     "bobs-burgers",
   ];
 
@@ -38,6 +42,12 @@
     "the-office": "Scranton paper-company cringe — preview before little kids.",
     "how-i-met-your-mother": "Yellow umbrella, blue French horn — lots of adult dating plots.",
     "big-bang-theory": "Nerd sitcom with more innuendo than the science jokes suggest.",
+    "young-sheldon": "Kid genius, Texas family — mostly mild, a few adult edges.",
+    "malcolm-in-the-middle": "Dysfunctional family chaos — gray area more often than not.",
+    "rick-and-morty": "Multiverse mayhem — almost always a hard pass for little kids.",
+    "family-guy": "Cutaway gags and crude jokes — skip for the little ones.",
+    "south-park": "Mountain-town satire — nearly every episode is a hard pass.",
+    futurama: "31st-century delivery crew — lots of adult sci-fi comedy.",
   };
 
   const SLIDE_MS = 4000;

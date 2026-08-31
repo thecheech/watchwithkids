@@ -89,6 +89,28 @@
     return watchThemesOf(ep).map((theme) => ({ theme, how: "" }));
   }
 
+  /** Cards stay scannable — the full wording lives on the episode page. */
+  function clamp(text, max = 110) {
+    if (text.length <= max) return text;
+    const cut = text.slice(0, max);
+    const space = cut.lastIndexOf(" ");
+    return (space > max * 0.6 ? cut.slice(0, space) : cut).replace(/[ ,;:—-]+$/, "") + "…";
+  }
+
+  /** Most severe moment for a theme: quotes get quote marks, notes stay prose. */
+  function headlineOf(d) {
+    const text = clamp((d.text || d.how || "").trim());
+    if (!text) return "";
+    if (d.kind === "quote") {
+      const speaker = (d.speaker || "").trim();
+      const quoted = `<q>${escapeHtml(text)}</q>`;
+      return speaker
+        ? `<span class="theme-speaker">${escapeHtml(speaker)}</span> ${quoted}`
+        : quoted;
+    }
+    return escapeHtml(text);
+  }
+
   function matchesQuery(ep, q) {
     if (!q) return true;
     const details = watchDetailsOf(ep);
@@ -284,11 +306,16 @@
     const details = watchDetailsOf(ep);
     const watchLis = details
       .map((d) => {
-        const how = (d.how || "").trim();
+        const headline = headlineOf(d);
+        const count = Number(d.count) || 1;
+        const more =
+          count > 1
+            ? `<span class="theme-more" title="${count} moments in this episode">+${count - 1}</span>`
+            : "";
         return `<li>
-          <span class="theme-name">${escapeHtml(d.theme)}</span>${
-            how
-              ? `<span class="theme-sep" aria-hidden="true">—</span><span class="theme-how">${escapeHtml(how)}</span>`
+          <span class="theme-name">${escapeHtml(d.theme)}</span>${more}${
+            headline
+              ? `<span class="theme-sep" aria-hidden="true">—</span><span class="theme-how">${headline}</span>`
               : ""
           }
         </li>`;
