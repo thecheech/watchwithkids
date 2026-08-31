@@ -9,16 +9,16 @@ URL: https://watchwiththekids.com/ep/adventure-time/0515.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
+  - Finn punches himself.
   - Back in the Candy Kingdom, Princess Bubblegum is in her castle loading her candy gun when her chair and her other things start disappearing and she falls down.
   - Ice King: “[The tranquilizer darts disappears and so does the gun, making Ice King healthy again.]”
-  - Finn punches himself.
 
 ## S9 E10 — Abstract
 URL: https://watchwiththekids.com/ep/adventure-time/0910.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - Dirt Beer Guy
+  - “Dirt Beer Guy”
   - Jake, Lady Rainicorn, and Dirt Beer Guy are at the the latter's tavern
 
 ## S5 E5 — All the Little People
@@ -53,8 +53,8 @@ URL: https://watchwiththekids.com/ep/adventure-time/0717.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Jake: “Whoa, did you have a real gun all this time?”
   - BMO: “The plan is to punch the toads to the stump and bring justice to the peeps!”
+  - Jake: “Whoa, did you have a real gun all this time?”
 
 ## Ep 0 — Animated short
 URL: https://watchwiththekids.com/ep/adventure-time/0000.html
@@ -184,8 +184,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0411.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Ice King: “[Puts on Finn's hat like a bra and lays down; he starts waving his hand] I'm sorry...”
 - Violence & injury — 1 moment(s)
   - Jake: “Kompy's blood lust meter's goin' down.”
 
@@ -193,9 +191,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0552.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - He is now wearing nothing but his backpack, hat, grass sword on his wrist, and his red-and-white underwear.
-  - He runs at the ocean in his underwear, screaming, then runs away. He shivers and pants from fright.
 - Violence & injury — 2 moment(s)
   - Billy grabs the monster by the face and throws him upward. He jumps up after it, punches it away, then lands with a thud.
   - A giant reptilian monster snaps its teeth at them as they ride past. It chases them, brandishing short swords. It lunges at Canyon, but she ducks under it and punches it away.
@@ -218,8 +213,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/adventure-time/1009.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - …face first into the massage chair, which tips over and activates while Finn is stuck upside down in his underwear.
 - Violence & injury — 3 moment(s)
   - The scene changes to the Candy Kingdom, where Princess Bubblegum is riding through the streets on a hoverboard wearing a siren hat and carrying a laser gun and a megaphone.
   - Princess Bubblegum: “Bwee-woo-bwee-woo! This is a drill! [She shoots a house with her laser gun and the wall explodes.] I repeat, this is a drill! [She shoots another house.]”
@@ -230,7 +223,7 @@ URL: https://watchwiththekids.com/ep/adventure-time/0204.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Naked Old People
+  - “Naked Old People”
 - Violence & injury — 4 moment(s)
   - This article is a transcript of the Adventure Time episode "Blood Under the Skin" from season 2, which aired on November 1, 2010.
   - Finn: “Hey guys! Check this out! Dude, hit me! [Jake punches Finn on the arm] Oww! [Holding his arm] On my armor!”
@@ -327,9 +320,9 @@ URL: https://watchwiththekids.com/ep/adventure-time/0525.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - He puts his hands in a gun-like position.
   - Finn: “[Finn lifts a wooden log and finds a red substance.] Dude, check this! [Jake walks over.] Is this blood?”
   - Jake turns into a magnifying glass and looks at the "blood."
+  - He puts his hands in a gun-like position.
   - Scene changes to inside of the train. Finn and Jake enter through the back door's window and run to the shady man they saw earlier. Finn has his hands in a gun-like position.
   - Jake punches Pete as Finn shakes his head.
 
@@ -357,8 +350,8 @@ Watch for:
 - Violence & injury — 6 moment(s)
   - Marceline: “[becomes visible again, revealing that PB had shot her with the stake gun] Ouch!”
   - Vampire King: “[pulls Finn's neck closer to his mouth] My thirst for blood is an awesome force.”
-  - PB immediately shoots her stake gun at the King, who catches it in his hand.
   - Vampire King: “I wouldn't. I submit. [kneeling down, placing hands behind back] Take the vampire essence from my blood. Free me from the shackles of my station.”
+  - PB immediately shoots her stake gun at the King, who catches it in his hand.
   - Vampire King: “Marceline. [she punches him] I know I was ruthless in the past. But tell me, what's the one thing you've noticed about the world, since you beat me all those hundreds of years ago?”
   - Marceline: “[punching him back and taking out a stake] No witches.”
 
@@ -372,7 +365,7 @@ URL: https://watchwiththekids.com/ep/adventure-time/0703.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - Dirt Beer Guy
+  - “Dirt Beer Guy”
   - Cherry Cream Soda seeing Dirt Beer Guy, who had disappeared by the window. He then walk to the door.
 
 ## S6 E34 — Chips and Ice Cream
@@ -392,10 +385,10 @@ Watch for:
   - Jake: “Woah, dude. Why are you naked? [Finn is shown wearing nothing but his pack, underpants, shoes, and hat.]”
 - Violence & injury — 6 moment(s)
   - Finn: “He sees the remains of the King of Thieves.] The King of Thieves! [to the corpse] Sorry to trespass, I just...”
-  - Penny puts the chest down. She pulls out a black crooked knife.
-  - Penny: “She pulls her black crooked knife out.]”
   - Jake: “And then I'm gonna beat your purity outta them. [lightly punches Finn] And then beat a sandwich into them! [grunts while throwing air punches] And then beat them to the punch! And then punch 'em!”
   - Finn punches Mr. Turtle. When Crossbow Guy lands, Two-Headed Thief steals his crossbow.
+  - Penny puts the chest down. She pulls out a black crooked knife.
+  - Penny: “She pulls her black crooked knife out.]”
   - Penny: “Finn, please don't punch my lights out! I'm just a poor, homeless baby girl.”
 
 ## S9 E5 — Cloudy
@@ -494,8 +487,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - Camera pans out to reveal she is talking to a group of vegetables that are hooked up to electronic devices. Princess Bubblegum sighs.
 - Violence & injury — 4 moment(s)
-  - Jake stretches himself and Finn over to the escalator in front of a skeleton with a knife in it’s skull.
   - Finn: “And then the monster got punched in the head and the princess was safe. And everyone was happy!”
+  - Jake stretches himself and Finn over to the escalator in front of a skeleton with a knife in it’s skull.
   - Finn: “It’s bone-kicking time! [Punches the heads off skeletons but they get up and put them back on.]”
   - The skeletons are running around the corner. Jake punches Finn into the ground.
 
@@ -765,9 +758,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Violence & injury — 4 moment(s)
   - Warrior Princess: “Never! Not even to you, my love!! [They run into each other - Clarence blocks Warrior Princess' spear attack and plunges his sword deep into her with a sickening stabbing sound.] Aaagh...”
+  - Clarence's soul leaves what's left of his body, with Softy Cheese splattered all over the place like blood.
   - Finn: “[Picks up broken dagger] What's this? A busted knife.”
   - Finn [In flashback]: Is this your knife, bro?
-  - Clarence's soul leaves what's left of his body, with Softy Cheese splattered all over the place like blood.
 
 ## S2 E20 — Go With Me
 URL: https://watchwiththekids.com/ep/adventure-time/0220.html
@@ -853,8 +846,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/adventure-time/0122.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Marceline: “Hey, Finn. You thinkin' about how that guy's bow tie sorta looked like a bra?”
 - Violence & injury — 5 moment(s)
   - Finn: “I'm gonna murder you.”
   - Marceline: “Hey, Finn, I need you to strangle some pixies.”
@@ -1068,9 +1059,9 @@ Watch for:
   - Wildberry Princess: “I found this note stabbed to my door... man. [Lifts up a note from the Guild of Assassins with a knife pierced through it]”
   - Me-Mow: “If you say anything, I'll stab you in the brain!”
   - Wildberry Guard #1: We saw your crown next to a pile of dirtied meat, then we skipped on the meat and I thought I tasted your juice, but it was just blood from the meat. We're so glad it wasn't actually you!
+  - Jake: “[Punching the meatbag] Eat this! And that! Ooh, how do you like this, Princess! Duoo!”
   - Me-mow spits a knife out of her throat, and climbs down a tree, same as previous style. She puts a small cut in Finn's leg
   - Me-mow jumps at Finn's face, but he blows her away knocking her into a tree. Finn goes up to pin her to the tree, she puts her knife out and Finn puts his hand on it. He grunts but holds her
-  - Jake: “[Punching the meatbag] Eat this! And that! Ooh, how do you like this, Princess! Duoo!”
   - Finn: “No! You... milk-lapper! [Finn punches Me-mow out of his grip] Jake, come lick this treebark!”
 - Alcohol & drugs — 1 moment(s)
   - Jake: “[Clearly intoxicated] Hey, everybody, everything's cool...”
@@ -1107,9 +1098,8 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0633.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
-- Violence & injury — 7 moment(s)
+- Violence & injury — 6 moment(s)
   - Cut to the ceiling, where Ariel stabs an arm down at Jermaine.
-  - Jake: “[While pouring fried rice onto each of the plates,] Du-u-ump! [He then places what appears to be a carved-radish flower on each plate with each syllable,] Pre-sen-tation. [He hands Jermaine a knife and fork.]”
   - Jermaine punches Jake in the face. Jake falls, and Jermaine yells as he jumps on him.
   - Jermaine: “[Uppercuts Jake on the chin.] Think I don't want a cushy tree-house life?! [Starts punching Jake repeatedly.] I don't even get salt!”
   - Jermaine hangs by his teeth from Jake's butt, growling. Jake's butt extends suddenly, punching Jermaine across the room. Jermaine grunts as he hits the bookshelf, then stands.
@@ -1120,8 +1110,7 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0108-2.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - She's just changing. I will help her! There you are. Help me zip up my bra. Yes, milady! Pardon my late arrival, dear peasants. One is simply helpless without good help around.
+- Nudity & bodies — 1 moment(s)
   - Hmm, theoretically that could work, but it would take the bravest little heart the world has ever known. Behold my naked innards! And the heart of a hero!
 
 ## S6 E16 — Joshua and Margaret Investigations
@@ -1188,8 +1177,8 @@ URL: https://watchwiththekids.com/ep/adventure-time/0510.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - Candy Sheriff: “[comes out of saloon] [imitates guns cocking]”
   - Cream Puff Gentleman: “[running out of alley] Nyaaaaaaang! [comes up to a horse in front of a saloon] [The horse blows a raspberry at him] Nyang? [punches the horse, knocking it over]”
+  - Candy Sheriff: “[comes out of saloon] [imitates guns cocking]”
   - Cream Puff Gentleman punches Finn, sending him sliding across the ground toward a cart of oranges. Ancient Sleeping Magi of Life Giving emerges from under the oranges.
   - Cream Puff Gentleman continues punching Jake while stepping on Finn. Ancient Sleeping Magi of Life Giving is cowering nearby.
 
@@ -1274,9 +1263,7 @@ Watch for: nothing flagged.
 ## S8 E25 — Min and Marty
 URL: https://watchwiththekids.com/ep/adventure-time/0825-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - You saw my underwear! You're —— [Laughs]
+Watch for: nothing flagged.
 
 ## S3 E2 — Morituri Te Salutamus
 URL: https://watchwiththekids.com/ep/adventure-time/0302.html
@@ -1311,8 +1298,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - Lady Rainicorn: “What could it have been? Ah! Do you remember when we got completely naked, and frantically ran around in the farmer's cabbage patch?”
 - Violence & injury — 3 moment(s)
-  - Finn: “[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!”
   - Finn fends off a few and Jake grabs a bunch and punches them.
+  - Finn: “[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!”
   - Finn: “[Finn punches Tiffany in the face while on top of him] Get out of my life Tiffany! And never come back [Punches him again]”
 
 ## S8 E22 — Mysterious Island
@@ -1348,10 +1335,7 @@ Watch for:
 ## S6 E15 — Nemesis
 URL: https://watchwiththekids.com/ep/adventure-time/0615.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Peppermint Butler: “One more thing. Show us your underwear.”
-  - Peace Master: “You fiend. [his underwear showing, his son laughs]”
+Watch for: nothing flagged.
 
 ## S3 E15 — No One Can Hear You
 URL: https://watchwiththekids.com/ep/adventure-time/0315.html
@@ -1453,10 +1437,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - Gnome Ruler: “Congratulations. You fully charged the Alternator! Now it's time to power up the Plasma Ball... with sexy, fun dancing!”
 - Violence & injury — 4 moment(s)
-  - Gnome Ruler: “Fire the shootey gun-ray!!”
-  - Jake: “HIGH-FIVE!! [Smashes gun]”
   - The stranger is shown outside of the treehouse. Finn is shown sleeping and then is kidnapped by the stranger. Scene shifts to the next morning; a rooster crows. Jake is sleeping and his gut punches him awake.
   - Finn drops down and charges towards the Gnomes and punches them in another direction when just then Jake busts in and catches the Gnomes.
+  - Gnome Ruler: “Fire the shootey gun-ray!!”
+  - Jake: “HIGH-FIVE!! [Smashes gun]”
 
 ## S8 E12 — Preboot
 URL: https://watchwiththekids.com/ep/adventure-time/0812.html
@@ -1545,8 +1529,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0546.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Finn: “I hope you're wearing underwear.”
 - Violence & injury — 1 moment(s)
   - Rattleballs: “I no longer crave mindless violence. I have found peace in meditation, gardening, egg throwing. I also hope time has made you less bloodthirsty, princess, but do with me as you will. In my heart I still serve you, 100%.”
 
@@ -1734,17 +1716,13 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0603-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
-- Violence & injury — 2 moment(s)
+- Violence & injury — 1 moment(s)
   - The pig is soon disturbed, opening its eyes as Ice King attempts to eat it by stabbing it with a spoon
-  - Ice King takes out a knife and fork
 
 ## S3 E7 — Still
 URL: https://watchwiththekids.com/ep/adventure-time/0307.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Ice King: “No! Gunter, no! This one likes to break bottles, don't ya? [Ice King tucks bottle into his underwear] Tuck-ety tuck! Let's move to the living room.”
-  - Ice King: “Huh, in this economy? [Drops key into underwear] Ah, I'm gonna go make some lemonade. [Walks off]”
+Watch for: nothing flagged.
 
 ## S2 E5 — Storytelling
 URL: https://watchwiththekids.com/ep/adventure-time/0205.html
@@ -1800,9 +1778,7 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0204-2.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 4 moment(s)
-  - Keep your panties on,
-  - your panties
+- Nudity & bodies — 2 moment(s)
   - FIONNA: “Come on. Weren't you young and naked once?”
   - HUNTER: “They heard you were running around naked in a grocery store?”
 
@@ -1815,9 +1791,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/adventure-time/0643.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Martin: “Here. [holds out underwear] Grab on this.”
-  - Finn: “Oh, yeah. [Finn reaches out to grab the underwear, and Martin pulls him up into the moth's mouth with him, grunting.]”
 - Violence & injury — 2 moment(s)
   - Finn opens his eyes and sees tendrils snaking out of the walls of Orgalorg's insides and stabbing the comet, sucking up its power.
   - Two tendrils stab into Finn's right arm to absorb the power of the Grass Sword.
@@ -1939,8 +1912,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0820.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - BMO: “How do you like my bandeau? I was too embarrassed to get a bra fitting. I know they are professionals, but it’s just too intimate.”
 - Violence & injury — 3 moment(s)
   - Finn: “You can just do your own thing with it. Like, if some huge gross monster’s gonna do murder on a buncha innocents, uh, kill it! But kill it you-styles. Just don’t go nuts.”
   - Mr. Cupcake: “Eh? Not enough? You need to feel them guns?”
@@ -1983,7 +1954,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - Uh... Why do you, sexy?
 - Swearing — 3 moment(s)
-  - sh*t! I'm sorry.
+  - Shit! I'm sorry.
   - And I kind of pissed her off.
   - Damn it! What is wrong with me?
 - Alcohol & drugs — 1 moment(s)
@@ -2098,8 +2069,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - Jake: “[Immediately falls asleep. A lion and a goose sleep with him.]”
 - Violence & injury — 2 moment(s)
-  - Whisper Dan: “[Cranks a wheel, which in turn cuts the bed in half with a giant knife. Some hands spring out of the wall to hold the top half above the bottom half.]”
   - Finn: “[Deflects a fireball with his sword] Wands are for wimps! [punches Xergiok outside]”
+  - Whisper Dan: “[Cranks a wheel, which in turn cuts the bed in half with a giant knife. Some hands spring out of the wall to hold the top half above the bottom half.]”
 
 ## S1 E7 — The Star
 URL: https://watchwiththekids.com/ep/adventure-time/0107-2.html
@@ -2133,9 +2104,9 @@ URL: https://watchwiththekids.com/ep/adventure-time/0604.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - Carroll: “[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.”
   - Finn: “[starts thinking] My melon wants to punch my dad in the face and steal his arm.”
   - Jake: “[Jake reads the note] Jake, I'm going to space to punch my dad and steal his arm. Back Soon -Finn [End of note] Wow, what the he?”
+  - Carroll: “[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.”
   - Finn: “[Finn punches Martin with his telekinetic arm and it grows huge and spiked.] Gotcha! Ha, ha, hee, hee, hee, hee. [He starts to tug at Martin's arm.] Give, give it. Give me the... give me give it. Give me the...”
 
 ## S5 E34 — The Vault
@@ -2143,10 +2114,10 @@ URL: https://watchwiththekids.com/ep/adventure-time/0534.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - Boss: “And, on the other hand, so to speak, if you screw up or chicken out, you're out of the game. Permanently. [He pretends to slit his throat with his finger.] Pretend my finger's a knife.”
-  - Bath Boy Gang Leader [flashback]: Pretend my finger's a knife.
   - Finn closes his eyes in frustration, trying to remember. He starts to punch each side of his head multiple times.
   - Jake: “That's too much; don't punch yourself.”
+  - Boss: “And, on the other hand, so to speak, if you screw up or chicken out, you're out of the game. Permanently. [He pretends to slit his throat with his finger.] Pretend my finger's a knife.”
+  - Bath Boy Gang Leader [flashback]: Pretend my finger's a knife.
 
 ## S6 E27 — The Visitor
 URL: https://watchwiththekids.com/ep/adventure-time/0627.html
@@ -2177,10 +2148,8 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/adventure-time/0114.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 3 moment(s)
+- Nudity & bodies — 1 moment(s)
   - Jake: “And what gives? [Pointing to his nipple] I used to have like eight more of these things.”
-  - Jake: “Yeah... I think so. Just a little chilly. [Noticing he is in his underwear] WHOA!”
-  - Scene transition. Jake is dancing with his subconscious with flowers in his underwear.
 - Violence & injury — 1 moment(s)
   - Finn: “[Choking] You're... strangling me... a little, is all.”
 
@@ -2322,10 +2291,7 @@ Watch for:
 ## S6 E37 — Water Park Prank
 URL: https://watchwiththekids.com/ep/adventure-time/0637.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - "Finn's Underwear Song" "Trunked Up"
-  - Jake: “I knew there was something different about you today. Oh, wait. Did you remember to pack your usual shorts and underwear for getting changed into after the water park?”
+Watch for: nothing flagged.
 
 ## S5 E39 — We Fixed a Truck
 URL: https://watchwiththekids.com/ep/adventure-time/0539.html
@@ -2450,10 +2416,8 @@ Watch for:
 URL: https://watchwiththekids.com/ep/adventure-time/0526.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
-- Nudity & bodies — 3 moment(s)
+- Nudity & bodies — 1 moment(s)
   - Finn: “Is PB straight-up naked right now?”
-  - A third criminal throws underwear at Finn's head.
-  - Criminal 3: “[sarcastic] You're right. I'm so ashamed. [throws another pair of underwear at Finn.]”
 - Violence & injury — 2 moment(s)
   - Jake: “[Jake stretches his arms into the cell to fight the criminal. The criminal stabs him with a fork.] Ouch! [The criminal starts laughing.]”
   - Abracadaniel: “Bubblegum, I hereby challenge you to an honorable prison stabbing to the death!”
@@ -2463,7 +2427,7 @@ URL: https://watchwiththekids.com/ep/adventure-time/0638.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Naked Wizard
+  - “Naked Wizard”
 - Alcohol & drugs — 1 moment(s)
   - Magic Man: “Smooth and gray as far as you ​can see. No life grows in me. Nothing to weed. Nothing to seed. Pure and perfect. Like the marble floors of a bank. You slide with no obstacles, forever blank.”
 

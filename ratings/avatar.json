@@ -232,8 +232,7 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Violence & injury",
-          "Swearing"
+          "Violence & injury"
         ],
         "watch_detail": [
           {
@@ -277,32 +276,6 @@
                 "at": "late"
               }
             ]
-          },
-          {
-            "theme": "Swearing",
-            "group": "language",
-            "how": "That... well, thank goodness you got away from that Moby Dick, uh, spirit.",
-            "count": 2,
-            "intensity": 2,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "That... well, thank goodness you got away from that Moby Dick, uh, spirit.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "This-and they ended up in a kiss outta nowhere. That hit me, like, damn, I didn't know that was going to happen. And it was a good kiss, too. And it was a good kiss. That was a good kiss.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
           }
         ],
         "optional": [],
@@ -310,8 +283,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — When Unalaq starts trouble, he'll punch him in the mouth. He's Nuktuk, the hero of the South!",
-        "Swearing — That... well, thank goodness you got away from that Moby Dick, uh, spirit."
+        "Violence & injury — When Unalaq starts trouble, he'll punch him in the mouth. He's Nuktuk, the hero of the South!"
       ],
       "notes": null,
       "flags": [],
@@ -948,22 +920,6 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "The guns out.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Whenever I see a Korra cosplayer, I always say, guns out. They're like, you-you know it. Guns out.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
                 "text": "She did not pull any punches playing this character. Wasn't...",
                 "mode": "implied",
                 "intensity": 1,
@@ -976,6 +932,22 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The guns out.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Whenever I see a Korra cosplayer, I always say, guns out. They're like, you-you know it. Guns out.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           }
@@ -1100,7 +1072,7 @@
             "group": "violence",
             "how": "She came out guns blazing.",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -1108,7 +1080,7 @@
                 "speaker": null,
                 "text": "She came out guns blazing.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -1529,7 +1501,7 @@
                 "speaker": null,
                 "text": "[Cut to a storyboard image of Mai holding up one of her knives, the storyboard point indicating the knife should glint in the final animation.] This is Mai being super cool.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -2033,19 +2005,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing.",
+            "how": "Yeah, it's really blood in the water. It's just, uh...",
             "count": 3,
             "intensity": 2,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -2061,6 +2025,14 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
               }
             ]
           }
@@ -2100,7 +2072,7 @@
       },
       "examples": [
         "Sex & hookups — I mean, if-if you, the Avatar, hooked up and became one with Raava, it makes sense that someone at some time is going to be one with Vaatu, and…",
-        "Violence & injury — Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing."
+        "Violence & injury — Yeah, it's really blood in the water. It's just, uh..."
       ],
       "notes": null,
       "flags": [],
@@ -2136,7 +2108,7 @@
             "theme": "Nudity & bodies",
             "group": "sex",
             "how": "So, first of all, they lay eggs, right? And they don't have n-can I say this? They don't have nipples. They secrete milk through their skins and their babies just, like, lick their bodies.",
-            "count": 3,
+            "count": 1,
             "intensity": 3,
             "mode": "implied",
             "instances": [
@@ -2147,29 +2119,13 @@
                 "mode": "implied",
                 "intensity": 3,
                 "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "And I was like, what is this crazy world? I can-I can do this-this job in my underwear, which I never did. Just wanna be clear. But you could.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "You could, but you'd be a strange one in the booth. Like, why is-why is Adrian coming in his underwear?",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
               }
             ]
           },
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "I think, okay, now, now we have some-we have some-we have some guns.",
+            "how": "You will always hold a special place in the organ that pumps my blood. I will remember you fondly, my turtle duck.",
             "count": 3,
             "intensity": 2,
             "mode": "implied",
@@ -2177,18 +2133,18 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "I think, okay, now, now we have some-we have some-we have some guns.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
                 "text": "You will always hold a special place in the organ that pumps my blood. I will remember you fondly, my turtle duck.",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I think, okay, now, now we have some-we have some-we have some guns.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
               },
               {
                 "kind": "note",
@@ -2236,7 +2192,7 @@
       },
       "examples": [
         "Nudity & bodies — So, first of all, they lay eggs, right? And they don't have n-can I say this? They don't have nipples. They secrete milk through their skins and their babies just, like, lick their bodies.",
-        "Violence & injury — I think, okay, now, now we have some-we have some-we have some guns."
+        "Violence & injury — You will always hold a special place in the organ that pumps my blood. I will remember you fondly, my turtle duck."
       ],
       "notes": null,
       "flags": [],
@@ -2692,7 +2648,7 @@
                 "speaker": null,
                 "text": "... dig-dig the kni-you know, just to twist the knife.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -2769,7 +2725,7 @@
             "group": "violence",
             "how": "So, they came back with this whole story of Zuko, and instead of him just being a bad guy with a big gun, trying to kill our heroes, he was this guy, uh, with his own deep issues, his own journey that he has to go on.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -2777,7 +2733,7 @@
                 "speaker": null,
                 "text": "So, they came back with this whole story of Zuko, and instead of him just being a bad guy with a big gun, trying to kill our heroes, he was this guy, uh, with his own deep issues, his own journey that he has to go on.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -2845,7 +2801,7 @@
             "group": "violence",
             "how": "I was gonna say we're ready to meet her at any time. It's funny you would say that because she is actually gonna be on our next episode. I know, it seems like we jumped the gun...",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -2853,7 +2809,7 @@
                 "speaker": null,
                 "text": "I was gonna say we're ready to meet her at any time. It's funny you would say that because she is actually gonna be on our next episode. I know, it seems like we jumped the gun...",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -2861,7 +2817,7 @@
                 "speaker": null,
                 "text": "[Laughs.] But when I got this costume, I just started running around with like Nerf guns and kind of creating this character around it.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -2998,7 +2954,7 @@
             "group": "violence",
             "how": "I mean, is that crazy? It's like people got guns and we're like, we don't care about guns.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -3006,7 +2962,7 @@
                 "speaker": null,
                 "text": "I mean, is that crazy? It's like people got guns and we're like, we don't care about guns.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -3221,29 +3177,10 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Look, he's bra-I just met him in this thing, this episode, I just met him.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Look, he's bra-I just met him in this thing, this episode, I just met him.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -3374,7 +3311,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Look, he's bra-I just met him in this thing, this episode, I just met him.",
         "Violence & injury — ... uh, but I'm not sure. Uh, bendi-well, I think the metalbending is pretty cool, actually. So, there's the-the water, there's air, and the bloodbenders are really weird. They're the weird bender...",
         "Alcohol & drugs — Well, I-I got excited for a minute. I thought you said, uh, I thought you siad, is there a blender you'd like to have? 'Cause I-I thought I could make some nice cocktails or something with that. So, you know..."
       ],
@@ -3410,7 +3346,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "\"The Avatar Gets Bloodbent?! Feat. Special Guest Richard Epcar (\"Saikhan\")\"",
-            "count": 4,
+            "count": 3,
             "intensity": 2,
             "mode": "implied",
             "instances": [
@@ -3421,14 +3357,6 @@
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "I, I mean, we-the-the cabbage merchants are our punching bag.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
               },
               {
                 "kind": "note",
@@ -3510,27 +3438,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "She got guns out. Guns out. Guns are out, boy.",
+            "how": "She's a goner, the mother of bloodbending. The mother of...",
             "count": 7,
             "intensity": 2,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "She got guns out. Guns out. Guns are out, boy.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "I know. This is, uh, the-Korra's guns have inspired a lot of, like, fitness regimes. They're are, like, Facebook groups where people come in and make the commitment to, like, get Korra's guns.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -3546,6 +3458,22 @@
                 "mode": "implied",
                 "intensity": 2,
                 "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She got guns out. Guns out. Guns are out, boy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I know. This is, uh, the-Korra's guns have inspired a lot of, like, fitness regimes. They're are, like, Facebook groups where people come in and make the commitment to, like, get Korra's guns.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
               },
               {
                 "kind": "note",
@@ -3618,7 +3546,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — She got guns out. Guns out. Guns are out, boy.",
+        "Violence & injury — She's a goner, the mother of bloodbending. The mother of...",
         "Alcohol & drugs — Then Ryu got the sketch and was like, hold my beer, buddy."
       ],
       "notes": null,
@@ -4043,7 +3971,7 @@
             "group": "violence",
             "how": "She ain't no chump bendin' sista. Just check out those guns! [Korra kisses one of her flexed arms.] You know you love it.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -4051,7 +3979,7 @@
                 "speaker": null,
                 "text": "She ain't no chump bendin' sista. Just check out those guns! [Korra kisses one of her flexed arms.] You know you love it.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -4436,14 +4364,6 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "She's using the old-school ones, which are like-almost like gun holsters on her sides, so she has to [Ian and Steve mimic drawing guns from their sides using their…",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
                 "text": "…video and animatic footage of Jake and the White Lotus sentries striking out before pulling back their punches as though hesitating.] take it from there, we send back overseas, we clean up the boards or take another…",
                 "mode": "implied",
                 "intensity": 1,
@@ -4464,6 +4384,14 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She's using the old-school ones, which are like-almost like gun holsters on her sides, so she has to [Ian and Steve mimic drawing guns from their sides using their…",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
               }
             ]
           }
@@ -4549,22 +4477,6 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Let's go. [Bolin rips off his damaged sleeves.] Hold up. Guns out.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Gun's-sun's out, guns out.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
                 "text": "It's uncomfortable for everybody because I think, again, I-as I've said many times, there's never bad blood between Asami and Korra.",
                 "mode": "implied",
                 "intensity": 2,
@@ -4577,6 +4489,22 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Let's go. [Bolin rips off his damaged sleeves.] Hold up. Guns out.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Gun's-sun's out, guns out.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
               },
               {
                 "kind": "note",

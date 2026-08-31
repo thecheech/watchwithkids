@@ -376,14 +376,6 @@ MAX_PER_TRIGGER = 2
 MAX_TEXT = 220
 
 SPEAKER_RE = re.compile(r"^([A-Z][A-Za-z0-9.'\- ]{1,22}?)\s*:\s*(.+)$", re.S)
-SLUR_RE = re.compile(r"\bnigg(?:er|a)s?\b|\bchinks?\b|\bkikes?\b|\bgooks?\b|\bwett?backs?\b", re.I)
-
-PROFANITY_MASKS = [
-    (re.compile(r"\bfuck(\w*)", re.I), lambda m: "f***" + m.group(1)),
-    (re.compile(r"\bshit(\w*)", re.I), lambda m: "sh*t" + m.group(1)),
-    (re.compile(r"\bass ?hole(\w*)", re.I), lambda m: "a**hole" + m.group(1)),
-    (re.compile(r"\bcunt(\w*)", re.I), lambda m: "c**t" + m.group(1)),
-]
 
 JUNK_LINE_RE = re.compile(
     r"^(episode|season|airdate|transcript|gallery|credits|general|u\.s\.|running time|previous|next|"
@@ -413,13 +405,6 @@ def map_blurb_to_themes(blurb: str) -> list[str]:
     lower = blurb.lower()
     hits = [label for pat, label in BLURB_HINTS if re.search(pat, lower)]
     return _uniq(hits, limit=3)
-
-
-def _mask(text: str) -> str:
-    out = SLUR_RE.sub("[racial slur]", text)
-    for pattern, repl in PROFANITY_MASKS:
-        out = pattern.sub(repl, out)
-    return out
 
 
 def _shorten(text: str, max_len: int = MAX_TEXT) -> str:
@@ -566,7 +551,7 @@ def _unit_moment(unit: dict, match: re.Match, label: str, sev: int, at: str) -> 
     raw = unit["text"]
     if len(raw) > MAX_TEXT:
         raw = _window_around(raw, match.start(), match.end())
-    text = _shorten(_mask(raw).strip(" -–—"))
+    text = _shorten(raw.strip(" -–—"))
     if len(text) < 12:
         return None
     kind = "quote" if unit["kind"] in ("quote", "cue") else "note"

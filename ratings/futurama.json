@@ -212,19 +212,11 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "(17:18) ⨂Clark: [on TV] Hello, I'm Dick Clark's head. Welcome to a special year 3000 edition of New Year's Rockin' Eve!",
+            "how": "Bender literally sh*ts a brick.",
             "count": 8,
             "intensity": 2,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(17:18) ⨂Clark: [on TV] Hello, I'm Dick Clark's head. Welcome to a special year 3000 edition of New Year's Rockin' Eve!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -237,6 +229,14 @@
                 "kind": "note",
                 "speaker": null,
                 "text": "…• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…\"Law and Oracle\" • \"The Silence of the Clamps\" • \"Yo Leela Leela\" • \"All the Presidents' Heads\" • \"Möbius Dick\" • \"Fry Am the Egg Man\" • \"The Tip of the Zoidberg\" • \"Cold Warriors\" • \"Overclockwise\" • \"Reincarnation\"",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
@@ -328,7 +328,7 @@
         "Affairs / cheating — (04:39) ⨂Fry: Y'know, I guess it should be but, actually, I'm glad. I had nothing to live for in my old life. I was broke, I had a humiliating job and I was beginning to suspect my girlfriend might be cheating on me.",
         "Violence & injury — The sharp objects move forward. Fry pushes Bender to the side of the booth. The sharp things stab and twist at the air and finally return to behind the hatch.",
         "Suicide & self-harm — Fry steps into the booth, overlooking the sign on the side that says \"Suicide Booth\".",
-        "Swearing — (17:18) ⨂Clark: [on TV] Hello, I'm Dick Clark's head. Welcome to a special year 3000 edition of New Year's Rockin' Eve!"
+        "Swearing — Bender literally sh*ts a brick."
       ],
       "notes": null,
       "flags": [],
@@ -8073,24 +8073,24 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Cut to: Herman Melville's Moby Dick. Leela and Fry are on a dinghy in the middle of the ocean.",
+            "how": "…• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
             "count": 4,
             "intensity": 2,
-            "mode": "on-screen",
+            "mode": "implied",
             "instances": [
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Cut to: Herman Melville's Moby Dick. Leela and Fry are on a dinghy in the middle of the ocean.",
-                "mode": "on-screen",
+                "text": "…• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
+                "mode": "implied",
                 "intensity": 2,
                 "at": "late"
               },
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Cut to: Mark Twain's The Adventures of Tom Sawyer. Tom Sawyer paints the fence and the characters from Moby Dick are with Fry and Leela.",
-                "mode": "on-screen",
+                "text": "…\"Law and Oracle\" • \"The Silence of the Clamps\" • \"Yo Leela Leela\" • \"All the Presidents' Heads\" • \"Möbius Dick\" • \"Fry Am the Egg Man\" • \"The Tip of the Zoidberg\" • \"Cold Warriors\" • \"Overclockwise\" • \"Reincarnation\"",
+                "mode": "implied",
                 "intensity": 2,
                 "at": "late"
               },
@@ -8137,7 +8137,7 @@
       },
       "examples": [
         "Violence & injury — …Morning Fun Pit\" • \"Calculon 2.0\" • \"Assie Come Home\" • \"Leela and the Genestalk\" • \"Game of Tones\" • \"Murder on the Planet Express\" • \"Stench and Stenchibility\" • \"Meanwhile\"",
-        "Swearing — Cut to: Herman Melville's Moby Dick. Leela and Fry are on a dinghy in the middle of the ocean.",
+        "Swearing — …• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
         "Fat-shaming — Queequeg: “[pointing] Big whale over there.”"
       ],
       "notes": null,
@@ -18042,23 +18042,23 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Scene: Interior of the car, Nixon is seen talking to Vice President Dick Cheney's head.",
+            "how": "…• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
             "count": 5,
             "intensity": 2,
-            "mode": "on-screen",
+            "mode": "dialogue",
             "instances": [
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Scene: Interior of the car, Nixon is seen talking to Vice President Dick Cheney's head.",
-                "mode": "on-screen",
+                "text": "…• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
+                "mode": "implied",
                 "intensity": 2,
-                "at": "early"
+                "at": "late"
               },
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "…• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
+                "text": "…\"Law and Oracle\" • \"The Silence of the Clamps\" • \"Yo Leela Leela\" • \"All the Presidents' Heads\" • \"Möbius Dick\" • \"Fry Am the Egg Man\" • \"The Tip of the Zoidberg\" • \"Cold Warriors\" • \"Overclockwise\" • \"Reincarnation\"",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
@@ -18178,7 +18178,7 @@
       "examples": [
         "Sex & hookups — Barbados: “Like the ever-changing nature of my sexual proclivities.”",
         "Violence & injury — Petunia: “Yeah, but what a way to go. \"Die young and leave a pretty corpse,\" that's what I say.”",
-        "Swearing — Scene: Interior of the car, Nixon is seen talking to Vice President Dick Cheney's head.",
+        "Swearing — …• \"The Mutants Are Revolting\" • \"The Futurama Holiday Spectacular\" • \"The Silence of the Clamps\" • \"Möbius Dick\" • \"Law and Oracle\" • \"Benderama\" • \"The Tip of the Zoidberg\" • \"Ghost in the Machines\" • \"Neutopia\" • \"Yo…",
         "Alcohol & drugs — Leela: “What's wrong, Fry? Are you regretting another wasted year?”",
         "Racism & slurs — Bender: “You vile racist! Haven't my people suffered enough? Now keep drilling for that petroleum oil, you selfish cowards! Although, then again, I guess any kind of oil would be just as”"
       ],

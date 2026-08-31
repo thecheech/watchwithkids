@@ -10,29 +10,29 @@ Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Smith? This is principal Vagina, no relation.
+  - “Smith? This is principal Vagina, no relation.”
 - Affairs / cheating — 1 moment(s)
-  - Since we're fighting, if you ever have an affair with that guy, I will come to the hotel room and blow my brains out all over your naked bodies.
+  - “Since we're fighting, if you ever have an affair with that guy, I will come to the hotel room and blow my brains out all over your naked bodies.”
 - Violence & injury — 1 moment(s)
-  - I don't know if a knife is necessary.
+  - “I don't know if a knife is necessary.”
 
 ## S1 E2 — 2. Lawnmower Dog
 URL: https://watchwiththekids.com/ep/rick-and-morty/0102.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Oh, my God! Put some clothes on, for Pete's sake! This is disgusting! - I'm gonna puke! - I can't take it, Rick! Sexual hang-ups in the pleasure chamber are punishable by death!
+  - “Oh, my God! Put some clothes on, for Pete's sake! This is disgusting! - I'm gonna puke! - I can't take it, Rick! Sexual hang-ups in the pleasure chamber are punishable by death!”
 - Violence & injury — 1 moment(s)
-  - See that? I'm peeing all over your special guns.
+  - “See that? I'm peeing all over your special guns.”
 - Swearing — 8 moment(s)
-  - Wha-what do you want from me? Welcome to your nightmare, bitch!
-  - You can run, but you can't hide, bitch! Whoa! Hey, buddy.
-  - Holy crap! - No way.
-  - Pancakes" You don't know me! Then let me get to know yo, damn it! Uh-oh! Spoilers! I'm a full season behind.
-  - "A," "b" his name is scary Terry "C," "d" he's very scary Holy crap!
-  - What the hell?
-  - But, hey, at least they know not to piss on your carpet, right? Wait a minute.
-  - To hell with my kingdom, bean counter.
+  - “Wha-what do you want from me? Welcome to your nightmare, bitch!”
+  - “You can run, but you can't hide, bitch! Whoa! Hey, buddy.”
+  - “Holy crap! - No way.”
+  - “Pancakes" You don't know me! Then let me get to know yo, damn it! Uh-oh! Spoilers! I'm a full season behind.”
+  - “"A," "b" his name is scary Terry "C," "d" he's very scary Holy crap!”
+  - “What the hell?”
+  - “But, hey, at least they know not to piss on your carpet, right? Wait a minute.”
+  - “To hell with my kingdom, bean counter.”
 
 ## S1 E3 — 3. Anatomy Park
 URL: https://watchwiththekids.com/ep/rick-and-morty/0103.html
@@ -40,329 +40,329 @@ Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Morty, can you get to the left nipple? Are you kidding? I'm hoping I can get to both of 'em, Rick.
-  - No, Morty, I'm talking about Reuben's left nipple.
-  - Puffy vagina.
-  - The giant, naked sky Santa has exploded.
+  - “Morty, can you get to the left nipple? Are you kidding? I'm hoping I can get to both of 'em, Rick.”
+  - “No, Morty, I'm talking about Reuben's left nipple.”
+  - “Puffy vagina.”
+  - “The giant, naked sky Santa has exploded.”
 - Violence & injury — 4 moment(s)
-  - We're inside a corpse, my boy.
-  - We built it when Reuben became incontinent, but it was not designed to hold a corpse load.
-  - I don't know if our marriage will It's raining blood! Oh, sh*t.
-  - Blood and chunks of viscera are raining down on the country.
+  - “We're inside a corpse, my boy.”
+  - “We built it when Reuben became incontinent, but it was not designed to hold a corpse load.”
+  - “I don't know if our marriage will It's raining blood! Oh, sh*t.”
+  - “Blood and chunks of viscera are raining down on the country.”
 - Swearing — 10 moment(s)
-  - What? Jerry, let that stuff go, okay? I'm sorry I was a bitch earlier.
-  - Poncho? What is this in your backpack? That's bubonic plague! What are you doing with that, Poncho? Everybody, get back! Poncho, you son of a bitch!
-  - It was a dick move for me to even pause like that.
-  - I don't know if our marriage will It's raining blood! Oh, sh*t.
-  - …new- - Those guys are inside me, huh? Like, building a park? Those guys are inside you building a piece of sh*t, Ethan!
-  - …are we going to be when we die a list of fears and questions or a collection of real experiences? Holy crap.
-  - What the hell's going on here? I don't know why, but the entire security system has shut down, and I'm afraid the exhibits are unlocked.
-  - Summer! - Ethan? What are you doing here? I've been texting you for hours! What the hell?!
-  - Oh, no! - Holy crap! Whoa! It's Hepatitis C! Um wait did we have some sort of relationship with him? I think they're just like that? I think they're just good guys.
-  - God damn it, Morty.
+  - “What? Jerry, let that stuff go, okay? I'm sorry I was a bitch earlier.”
+  - “Poncho? What is this in your backpack? That's bubonic plague! What are you doing with that, Poncho? Everybody, get back! Poncho, you son of a bitch!”
+  - “It was a dick move for me to even pause like that.”
+  - “I don't know if our marriage will It's raining blood! Oh, sh*t.”
+  - “…new- - Those guys are inside me, huh? Like, building a park? Those guys are inside you building a piece of sh*t, Ethan!”
+  - “…are we going to be when we die a list of fears and questions or a collection of real experiences? Holy crap.”
+  - “What the hell's going on here? I don't know why, but the entire security system has shut down, and I'm afraid the exhibits are unlocked.”
+  - “Summer! - Ethan? What are you doing here? I've been texting you for hours! What the hell?!”
+  - “Oh, no! - Holy crap! Whoa! It's Hepatitis C! Um wait did we have some sort of relationship with him? I think they're just like that? I think they're just good guys.”
+  - “God damn it, Morty.”
 
 ## S1 E4 — 4. M. Night Shaym-Aliens!
 URL: https://watchwiththekids.com/ep/rick-and-morty/0104.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Man, how does a guy like that go home and have sex with his wife? Hey, Morty.
-  - That's the best sex I've ever had in my life.
+  - “Man, how does a guy like that go home and have sex with his wife? Hey, Morty.”
+  - “That's the best sex I've ever had in my life.”
 - Nudity & bodies — 1 moment(s)
-  - Give it to me! No! You give it to me! G-g-give it! No, Rick! Oh, God, sir! They're still naked! Ugh.
+  - “Give it to me! No! You give it to me! G-g-give it! No, Rick! Oh, God, sir! They're still naked! Ugh.”
 - Swearing — 7 moment(s)
-  - But we do now! We do now, sucka! You simulated my grandson's genitalia?! You bunch of diabolical sons of bitches! Kevin fought real hard to supervise that project.
-  - All right, Rick you little son of a bitch! Are you a simulation?! Huh?! Are you a simulation?! No! No! No! You little son of a bitch! I'm sorry, Morty.
-  - Ow! Oof! Ugh! Damn it! I'm all right.
-  - Holy crap! Come on, Morty.
-  - Holy crap! Get in, Morty.
-  - I am finally complete! My my my my man! What the hell?! No.
-  - Now empty the water bottle into the bucket and pour it all into the fuel tank so we can get the hell out of here! What are you doing, Morty?! There's no time! Oh, no.
+  - “But we do now! We do now, sucka! You simulated my grandson's genitalia?! You bunch of diabolical sons of bitches! Kevin fought real hard to supervise that project.”
+  - “All right, Rick you little son of a bitch! Are you a simulation?! Huh?! Are you a simulation?! No! No! No! You little son of a bitch! I'm sorry, Morty.”
+  - “Ow! Oof! Ugh! Damn it! I'm all right.”
+  - “Holy crap! Come on, Morty.”
+  - “Holy crap! Get in, Morty.”
+  - “I am finally complete! My my my my man! What the hell?! No.”
+  - “Now empty the water bottle into the bucket and pour it all into the fuel tank so we can get the hell out of here! What are you doing, Morty?! There's no time! Oh, no.”
 
 ## S1 E5 — 5. Meeseeks and Destroy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0105.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Countries known for their sexually aggressive men.
+  - “Countries known for their sexually aggressive men.”
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Gene Vagina.
+  - “Gene Vagina.”
 - Violence & injury — 6 moment(s)
-  - Why don't we break into his home, rob him, and murder him?" Th-th but that's not how it went down! Oh, well, it's going down like that.
-  - I smell the blood of- whoop! - Holy crap.
-  - How? They took my portal gun.
-  - Oh, man, what did I tell you, Rick? We did it! All right, Morty, looks like the portal gun's still working.
-  - Get off of me! Sweet home Alabama Whoo! No! Stop! Please! Stop being such a tease, you sweet little- No! No! Everybody sto-o-o-p! Look at me! My brothers, nothing will be accomplished by shedding Meeseeks blood.
-  - …know, how many times have I had to follow you into some nonsensical bull crap? I always roll with the punches, Rick.
+  - “Why don't we break into his home, rob him, and murder him?" Th-th but that's not how it went down! Oh, well, it's going down like that.”
+  - “I smell the blood of- whoop! - Holy crap.”
+  - “How? They took my portal gun.”
+  - “Oh, man, what did I tell you, Rick? We did it! All right, Morty, looks like the portal gun's still working.”
+  - “Get off of me! Sweet home Alabama Whoo! No! Stop! Please! Stop being such a tease, you sweet little- No! No! Everybody sto-o-o-p! Look at me! My brothers, nothing will be accomplished by shedding Meeseeks blood.”
+  - “…know, how many times have I had to follow you into some nonsensical bull crap? I always roll with the punches, Rick.”
 - Swearing — 6 moment(s)
-  - If your adventure sucks and we bail halfway through it, you lose the right to bitch about all future adventures.
-  - Oh, Jesus! Dale! You sons of bitches! Oh, man.
-  - No, Jerry, I'm the one who sucks! Let me try something.
-  - W-what the hell is he talking about? They're free to go, is what I meant.
-  - Everybody shut up! Let me try! Damn it! Damn it! Damn it! I'm going out.
-  - Do you want me to be happy or do you want me to be in prison? Whoa, whoa, where in the hell is I'll take you to dinner.
+  - “If your adventure sucks and we bail halfway through it, you lose the right to bitch about all future adventures.”
+  - “Oh, Jesus! Dale! You sons of bitches! Oh, man.”
+  - “No, Jerry, I'm the one who sucks! Let me try something.”
+  - “W-what the hell is he talking about? They're free to go, is what I meant.”
+  - “Everybody shut up! Let me try! Damn it! Damn it! Damn it! I'm going out.”
+  - “Do you want me to be happy or do you want me to be in prison? Whoa, whoa, where in the hell is I'll take you to dinner.”
 - Alcohol & drugs — 2 moment(s)
-  - More wine? I think I've had enough.
-  - Yeah, yeah, yeah, how about some scotch whiskey? You got any of that around here? Or just a bunch of nonsense words? Rick We'll have two bloogies, please.
+  - “More wine? I think I've had enough.”
+  - “Yeah, yeah, yeah, how about some scotch whiskey? You got any of that around here? Or just a bunch of nonsense words? Rick We'll have two bloogies, please.”
 
 ## S1 E6 — 6. Rick Potion #9
 URL: https://watchwiththekids.com/ep/rick-and-morty/0106.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - I had sex with Billy.
-  - Outdone yourself?! Are you kidding me, Rick? This is not okay! Not only do they all want to have sex with me, but, you know, now they want to eat me afterwards! Yeah, I don't know what I was thinking.
-  - Morty! Uh, by the way, Morty, I know you didn't ask or anything, but I'm not interested in having sex with you.
+  - “I had sex with Billy.”
+  - “Outdone yourself?! Are you kidding me, Rick? This is not okay! Not only do they all want to have sex with me, but, you know, now they want to eat me afterwards! Yeah, I don't know what I was thinking.”
+  - “Morty! Uh, by the way, Morty, I know you didn't ask or anything, but I'm not interested in having sex with you.”
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Principal vagina here.
-  - Oh, come on, principal Vagina.
-  - I wish that shotgun was my penis.
+  - “Principal vagina here.”
+  - “Oh, come on, principal Vagina.”
+  - “I wish that shotgun was my penis.”
 - Affairs / cheating — 1 moment(s)
-  - Well, isn't that convenient? Not for the men they cheat on, no.
+  - “Well, isn't that convenient? Not for the men they cheat on, no.”
 - Violence & injury — 3 moment(s)
-  - I wish that shotgun was my penis.
-  - When he comes at ya, he doesn't seem to be living until he bites ya, and then the the blood, and the red, and the water You ever wonder what happened to Rick and Morty? Sometimes.
-  - I'm the one beating them to death.
+  - “I wish that shotgun was my penis.”
+  - “When he comes at ya, he doesn't seem to be living until he bites ya, and then the the blood, and the red, and the water You ever wonder what happened to Rick and Morty? Sometimes.”
+  - “I'm the one beating them to death.”
 - Suicide & self-harm — 1 moment(s)
-  - If anything ever happened to you, I would kill myself.
+  - “If anything ever happened to you, I would kill myself.”
 - Swearing — 6 moment(s)
-  - God, grandpa, you're such a dick.
-  - I love him more than you do, Harold! You wish, you stupid bitch! Morty's mine! Morty's mine! Meant to be together! Morty! Where is Morty? Oh, my God, Rick.
-  - Crap, they need me at the horse hospital.
-  - I love Morty and I hope Morty loves me I'd like to wrap my arms around him and feel him inside me Oh, crap.
-  - What the hell is going on, Rick? What does it look like? The serum is piggybacking on the virus.
-  - What the hell? The only thing that is known is how cute he is.
+  - “God, grandpa, you're such a dick.”
+  - “I love him more than you do, Harold! You wish, you stupid bitch! Morty's mine! Morty's mine! Meant to be together! Morty! Where is Morty? Oh, my God, Rick.”
+  - “Crap, they need me at the horse hospital.”
+  - “I love Morty and I hope Morty loves me I'd like to wrap my arms around him and feel him inside me Oh, crap.”
+  - “What the hell is going on, Rick? What does it look like? The serum is piggybacking on the virus.”
+  - “What the hell? The only thing that is known is how cute he is.”
 
 ## S1 E7 — 7. Raising Gazorpazorp
 URL: https://watchwiththekids.com/ep/rick-and-morty/0107.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - You could play guitar, you could masturbate I don't wanna masturbate, I wanna conquer the planet! Oh, here we go again! Who do you think is gonna love you if you conquer the planet Morty Jr.
-  - Okay, 60 for the resonator and my grandson wants the sex robot.
-  - Where is the sex robot Morty? That is Gwendoline.
-  - I'm hunted by uncontrollable thoughts of mutilation and sexual assaults on a nearly daily basis.
+  - “You could play guitar, you could masturbate I don't wanna masturbate, I wanna conquer the planet! Oh, here we go again! Who do you think is gonna love you if you conquer the planet Morty Jr.”
+  - “Okay, 60 for the resonator and my grandson wants the sex robot.”
+  - “Where is the sex robot Morty? That is Gwendoline.”
+  - “I'm hunted by uncontrollable thoughts of mutilation and sexual assaults on a nearly daily basis.”
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - So, what are you in for? Because I got a big you know penis between my legs.
-  - Mark? Jacob? These are names of the penis.
-  - Great, now I have to take over a whole planet because of your stupid boobs.
+  - “So, what are you in for? Because I got a big you know penis between my legs.”
+  - “Mark? Jacob? These are names of the penis.”
+  - “Great, now I have to take over a whole planet because of your stupid boobs.”
 - Violence & injury — 3 moment(s)
-  - But I want to murder everyone I see.
-  - Look, I'm trying to repair portal gun with with bunch of sex doll parts and I have to do it one-handed to keep these belushis from cutting you off.
-  - One minute you like how a shiny robot looks, the next minute you're in a fist fight with your alien son.
+  - “But I want to murder everyone I see.”
+  - “Look, I'm trying to repair portal gun with with bunch of sex doll parts and I have to do it one-handed to keep these belushis from cutting you off.”
+  - “One minute you like how a shiny robot looks, the next minute you're in a fist fight with your alien son.”
 - Suicide & self-harm — 1 moment(s)
-  - What?! Just give me a gun, I'll kill myself.
+  - “What?! Just give me a gun, I'll kill myself.”
 - Swearing — 6 moment(s)
-  - Like you would even know dick about fraculation.
-  - Holly sh*t! You're gonna crush us with a boulder?! No! Stop interrupting! The boulder falls onto a lever that will launch - Knives.
-  - Such an a**hole.
-  - Your planet just got cellphones and the coverage still sucks! Yeah, yeah, and your species eat sulfur.
-  - ? Oh crap, he named it.
-  - Oh right, because there is something about having a wiener that would make me better walking through a hole? Oh crap.
+  - “Like you would even know dick about fraculation.”
+  - “Holly sh*t! You're gonna crush us with a boulder?! No! Stop interrupting! The boulder falls onto a lever that will launch - Knives.”
+  - “Such an a**hole.”
+  - “Your planet just got cellphones and the coverage still sucks! Yeah, yeah, and your species eat sulfur.”
+  - “? Oh crap, he named it.”
+  - “Oh right, because there is something about having a wiener that would make me better walking through a hole? Oh crap.”
 
 ## S1 E8 — 8. Rixty Minutes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0108.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - And now trunk men? We know science has created men that have a trunk that allows them to have sex with both male and female partners.
-  - Hey, let the trunk people have sex and get married, huh? Paid for by Trunk People.
-  - Gimme a break! We're not heroes for having unprotected sex on prom night.
-  - Hey, isn't Gazorpazorp where uh where those Sex robots came from, remember? That whole thing? Yeah hey, that's pretty, pretty that's true.
+  - “And now trunk men? We know science has created men that have a trunk that allows them to have sex with both male and female partners.”
+  - “Hey, let the trunk people have sex and get married, huh? Paid for by Trunk People.”
+  - “Gimme a break! We're not heroes for having unprotected sex on prom night.”
+  - “Hey, isn't Gazorpazorp where uh where those Sex robots came from, remember? That whole thing? Yeah hey, that's pretty, pretty that's true.”
 - Violence & injury — 3 moment(s)
-  - Guilty! Sentenced to murder.
-  - And every morning, Summer, I eat breakfast, own rotting corpse.
-  - See this knife and all the blood on it? Here's my fingerprints.
+  - “Guilty! Sentenced to murder.”
+  - “And every morning, Summer, I eat breakfast, own rotting corpse.”
+  - “See this knife and all the blood on it? Here's my fingerprints.”
 - Swearing — 8 moment(s)
-  - This sh*t is delicious.
-  - A movie about a guy eating sh*t.
-  - Step on it, we all got places to be! Son of a bitch! See, that must be where he lives OK.
-  - field, bitch! Now give me my [BLEEP.]
-  - You show us your concept of "good TV", and we'll crap all over that.
-  - Letterman from a time line where Jerry's famous - Wait! - What in the hell? I agree.
-  - Hey man, I don't give a crap about myself, Rick.
-  - Where the hell am I going? What are you asking me for Jerry? I'm sitting here trying to figure out why the cops don't just take you out.
+  - “This sh*t is delicious.”
+  - “A movie about a guy eating sh*t.”
+  - “Step on it, we all got places to be! Son of a bitch! See, that must be where he lives OK.”
+  - “field, bitch! Now give me my [BLEEP.]”
+  - “You show us your concept of "good TV", and we'll crap all over that.”
+  - “Letterman from a time line where Jerry's famous - Wait! - What in the hell? I agree.”
+  - “Hey man, I don't give a crap about myself, Rick.”
+  - “Where the hell am I going? What are you asking me for Jerry? I'm sitting here trying to figure out why the cops don't just take you out.”
 - Alcohol & drugs — 4 moment(s)
-  - I love doing cocaine with you.
-  - Whoa I love doing cocaine with you too, Johnny Depp! Haven't we spent enough time on you? I'm performing surgery but not on a horse, on a human! That's great, Beth! You always wanted to be a real surgeon.
-  - What is either code for crystal meth, or a gateway to it.
-  - You'd also be drinking wine, alone in a house full of exotic birds.
+  - “I love doing cocaine with you.”
+  - “Whoa I love doing cocaine with you too, Johnny Depp! Haven't we spent enough time on you? I'm performing surgery but not on a horse, on a human! That's great, Beth! You always wanted to be a real surgeon.”
+  - “What is either code for crystal meth, or a gateway to it.”
+  - “You'd also be drinking wine, alone in a house full of exotic birds.”
 
 ## S1 E9 — 9. Something Ricked This Way Comes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0109.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - This aftershave made women want me, but it also made me impotent! A price for everything, mr.
+  - “This aftershave made women want me, but it also made me impotent! A price for everything, mr.”
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - If it's athletic prowess you desire, principle vagina, I might -- - I'll take it.
+  - “If it's athletic prowess you desire, principle vagina, I might -- - I'll take it.”
 - Violence & injury — 2 moment(s)
-  - I thought you might want it so you didn't accidentally sell anybody, say A typewriter that generates best-selling murder mysteries and then makes the murders happen in real life? - Ooh.
-  - This eerily intelligent doll was threatening to murder its family.
+  - “I thought you might want it so you didn't accidentally sell anybody, say A typewriter that generates best-selling murder mysteries and then makes the murders happen in real life? - Ooh.”
+  - “This eerily intelligent doll was threatening to murder its family.”
 - Suicide & self-harm — 1 moment(s)
-  - He tried to kill himself.
+  - “He tried to kill himself.”
 - Swearing — 10 moment(s)
-  - Store comes out of nowhere, all the sh*t's old and creepy.
-  - Some committee of fancy a**holes disagree.
-  - You think you're so great, you stupid piece of sh*t.
-  - planet, bitch! Oh, man.
-  - I'm the devil, bitch! What, what?! Hey! Hey! - Hey, Morty.
-  - It detects and catalogs all your "twilight zone", "ray bradbury", "Friday the 13th" the series voodoo crap magic.
-  - Whoa! - Whoa! What the hell?! I'm king Flippy Nips, ruler of Pluto.
-  - I just want to go back to hell, where everyone thinks I'm smart and funny.
-  - Seriously? Holy crap.
-  - …go hard, getting busy with it but I got such a good heart that I'll make the mother wonder if he did it damn right, and I'll do it again, 'cause I am right so I gots to win break bread with the enemy but no matter…
+  - “Store comes out of nowhere, all the sh*t's old and creepy.”
+  - “Some committee of fancy a**holes disagree.”
+  - “You think you're so great, you stupid piece of sh*t.”
+  - “planet, bitch! Oh, man.”
+  - “I'm the devil, bitch! What, what?! Hey! Hey! - Hey, Morty.”
+  - “It detects and catalogs all your "twilight zone", "ray bradbury", "Friday the 13th" the series voodoo crap magic.”
+  - “Whoa! - Whoa! What the hell?! I'm king Flippy Nips, ruler of Pluto.”
+  - “I just want to go back to hell, where everyone thinks I'm smart and funny.”
+  - “Seriously? Holy crap.”
+  - “…go hard, getting busy with it but I got such a good heart that I'll make the mother wonder if he did it damn right, and I'll do it again, 'cause I am right so I gots to win break bread with the enemy but no matter…”
 
 ## S1 E10 — Close Rick-Counters of the Rick Kind
 URL: https://watchwiththekids.com/ep/rick-and-morty/0110.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - Yes, but it appears you alone have been going to the exact timelines and locations in which the murders occurred.
-  - Also, every 10 seconds, it stabs your balls.
-  - Scan his portal gun! Oh, come on.
-  - Don't look at another man's portal-gun history.
+  - “Yes, but it appears you alone have been going to the exact timelines and locations in which the murders occurred.”
+  - “Also, every 10 seconds, it stabs your balls.”
+  - “Scan his portal gun! Oh, come on.”
+  - “Don't look at another man's portal-gun history.”
 - Swearing — 7 moment(s)
-  - Um Because o-our personalities are so different? Oh, sh*t, dawg.
-  - Dude, are you -- w-- you're being a dick, right? Oh, gosh, I-I hope not.
-  - not have in common? Huh? W-who is this? I found the real killer, bitch! Get over here! Yo, ding-dong, we're done here.
-  - What's that dipshit doing out there? Are you friends with him? You know he eats his own sh*t, right? Oh, my God, this is rich! I've got like 10 Ricks to call right now.
-  - Damn it! - Hey, you didn't pay your bill! - The red "X"! Red "X"! Hey, it's a good thing that space outlet had lab coats and your favorite kind of shirt in stock, huh, Morty? Yeah, Rick, I-I heard you the first time.
-  - Do your worst, you little bastards! Kill me! Do it! Do I-I-I-I-it! Morty! Thank God! Get me out of this.
-  - Poor little rickless bastards.
+  - “Um Because o-our personalities are so different? Oh, sh*t, dawg.”
+  - “Dude, are you -- w-- you're being a dick, right? Oh, gosh, I-I hope not.”
+  - “not have in common? Huh? W-who is this? I found the real killer, bitch! Get over here! Yo, ding-dong, we're done here.”
+  - “What's that dipshit doing out there? Are you friends with him? You know he eats his own sh*t, right? Oh, my God, this is rich! I've got like 10 Ricks to call right now.”
+  - “Damn it! - Hey, you didn't pay your bill! - The red "X"! Red "X"! Hey, it's a good thing that space outlet had lab coats and your favorite kind of shirt in stock, huh, Morty? Yeah, Rick, I-I heard you the first time.”
+  - “Do your worst, you little bastards! Kill me! Do it! Do I-I-I-I-it! Morty! Thank God! Get me out of this.”
+  - “Poor little rickless bastards.”
 
 ## S1 E11 — Ricksy Business
 URL: https://watchwiththekids.com/ep/rick-and-morty/0111.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 8 moment(s)
-  - We'll be fine! Let's party! Just shake that ass, bitch, and let me see whatcha got I swear to God, Morty, if it weren't for the fact that everyone's still…
-  - Oh, sh*t, mother [beep.]
-  - What? Nancy told us what a bitch you are.
-  - He's just a huge a**hole.
-  - Yo! What up, my glip glops?! Oh, man! Oh! Y-y-you know there's a garbage, right? Hey, uh, what the hell?! Ooh.
-  - Oh, my God! - Aah! Hey, I'm squanching in here! Oh, my God! Oh, that is so disgusting! Ow! Oh! Oh, crap! Huh.
-  - How are you guys not freaking out right now?! T-the whole house is sitting in another dimension! I-I mean, w-what the hell are we supposed to do?!
-  - All right, all right, fine, Morty, you party pooper buzzkill! Boo, boo! Morty sucks! Boo! You suck, whatever your name is.
+  - “We'll be fine! Let's party! Just shake that ass, bitch, and let me see whatcha got I swear to God, Morty, if it weren't for the fact that everyone's still…”
+  - “Oh, sh*t, mother [beep.]”
+  - “What? Nancy told us what a bitch you are.”
+  - “He's just a huge a**hole.”
+  - “Yo! What up, my glip glops?! Oh, man! Oh! Y-y-you know there's a garbage, right? Hey, uh, what the hell?! Ooh.”
+  - “Oh, my God! - Aah! Hey, I'm squanching in here! Oh, my God! Oh, that is so disgusting! Ow! Oh! Oh, crap! Huh.”
+  - “How are you guys not freaking out right now?! T-the whole house is sitting in another dimension! I-I mean, w-what the hell are we supposed to do?!”
+  - “All right, all right, fine, Morty, you party pooper buzzkill! Boo, boo! Morty sucks! Boo! You suck, whatever your name is.”
 - Alcohol & drugs — 5 moment(s)
-  - Can you sneak your mom's vodka? Yes, she does.
-  - Ooh! Look, it's the line for the bow! Jerry, I'd love to just kick back with a Margarita and read.
-  - Brad is here! Quick, make my hair look drunk.
-  - Tammy's already drunk.
-  - What does a rapist look like exactly, Beth? Is it a slavic man wearing a denim jacket with a patchy beard and the scent of cheap champagne wafting over his blister-pocked lips?
+  - “Can you sneak your mom's vodka? Yes, she does.”
+  - “Ooh! Look, it's the line for the bow! Jerry, I'd love to just kick back with a Margarita and read.”
+  - “Brad is here! Quick, make my hair look drunk.”
+  - “Tammy's already drunk.”
+  - “What does a rapist look like exactly, Beth? Is it a slavic man wearing a denim jacket with a patchy beard and the scent of cheap champagne wafting over his blister-pocked lips?”
 
 ## S2 E1 — 1. A Rickle In Time
 URL: https://watchwiththekids.com/ep/rick-and-morty/0201.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - I mean it's been shot with a gun.
-  - Aaah! Oh, God, gross and weird! Chris! You killed my gun! Summer, Morty, take off your collars.
-  - Beat his ass! Get him! Beat him up! - Kick his ass, Rick! - Die, mother[bleep.]
+  - “I mean it's been shot with a gun.”
+  - “Aaah! Oh, God, gross and weird! Chris! You killed my gun! Summer, Morty, take off your collars.”
+  - “Beat his ass! Get him! Beat him up! - Kick his ass, Rick! - Die, mother[bleep.]”
 - Swearing — 12 moment(s)
-  - Shut up, Morty, you vindictive little turd! You shut up, you big female a**hole!
-  - Well, do we Do I, uh, get, uh, a big rock, or? It's not an armadillo, a**hole.
-  - I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as grandpa's concerned, you're both pieces of sh*t.
-  - So let's save the measuring for when our dicks are out.
-  - In your dreams, bitch.
-  - What? - The son of a bitch is gonna kill me! - What?! - The son of a bitch is gonna kill me! - What?! Diabolical, unfeeling sociopath.
-  - Oh, crap, are you kidding me? Two dots? This never needs to be more than one dot.
-  - What the hell is wrong with you two? I-I-I-I mean you four! That hurt! That was painful.
-  - Y-you're both all over the damn place.
-  - wind? What the hell do either of you two have to be so uncertain about? Your brand of zit cream? Which chair to sit in while I do everything? - Come on, spit it out! - Well, you don't exactly make it easy, Rick.
-  - He's lost it! Th-th-th-the time fracture must have made him crazy! - I don't know what to do! - Oh, crap! I don't know what to do! Oh, God, now there's three of them.
-  - Whoa, damn! Look at this.
+  - “Shut up, Morty, you vindictive little turd! You shut up, you big female a**hole!”
+  - “Well, do we Do I, uh, get, uh, a big rock, or? It's not an armadillo, a**hole.”
+  - “I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as grandpa's concerned, you're both pieces of sh*t.”
+  - “So let's save the measuring for when our dicks are out.”
+  - “In your dreams, bitch.”
+  - “What? - The son of a bitch is gonna kill me! - What?! - The son of a bitch is gonna kill me! - What?! Diabolical, unfeeling sociopath.”
+  - “Oh, crap, are you kidding me? Two dots? This never needs to be more than one dot.”
+  - “What the hell is wrong with you two? I-I-I-I mean you four! That hurt! That was painful.”
+  - “Y-you're both all over the damn place.”
+  - “wind? What the hell do either of you two have to be so uncertain about? Your brand of zit cream? Which chair to sit in while I do everything? - Come on, spit it out! - Well, you don't exactly make it easy, Rick.”
+  - “He's lost it! Th-th-th-the time fracture must have made him crazy! - I don't know what to do! - Oh, crap! I don't know what to do! Oh, God, now there's three of them.”
+  - “Whoa, damn! Look at this.”
 - Alcohol & drugs — 1 moment(s)
-  - You mean drunk? What's that? You got something to say? - No.
+  - “You mean drunk? What's that? You got something to say? - No.”
 
 ## S2 E2 — 2. Mortynight Run
 URL: https://watchwiththekids.com/ep/rick-and-morty/0202.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - So, did you guys make out a little bit? Is he gonna send you a postcard? Man, that guy hit the lottery when he crossed paths with you.
+  - “So, did you guys make out a little bit? Is he gonna send you a postcard? Man, that guy hit the lottery when he crossed paths with you.”
 - Violence & injury — 5 moment(s)
-  - Listen, if you ever need anybody murdered, please give me a call.
-  - You sold a gun to a murderer so you could play video games?! Yeah, sure, I mean, if you spend all day shuffling words around, you can make anything sound bad, Morty.
-  - I buy guns from your grandpa.
-  - Hey! You sold a gun to a guy that kills people!
-  - You know, you could stop this killing from happening, Rick! You know, you did a bad thing selling that gun, but you could undo it if you wanted.
+  - “Listen, if you ever need anybody murdered, please give me a call.”
+  - “You sold a gun to a murderer so you could play video games?! Yeah, sure, I mean, if you spend all day shuffling words around, you can make anything sound bad, Morty.”
+  - “I buy guns from your grandpa.”
+  - “Hey! You sold a gun to a guy that kills people!”
+  - “You know, you could stop this killing from happening, Rick! You know, you did a bad thing selling that gun, but you could undo it if you wanted.”
 - Swearing — 7 moment(s)
-  - Sh sh*t! Oh! Whoa! What the hell?! W-w-where am I?! - What in the hell?! - 55 years.
-  - Holy sh*t! This guy's taking Roy off the grid! This guy doesn't have a social security number for Roy! Hi.
-  - Whatever you want to do, you little punk-ass little bitch.
-  - Number one is me, a**hole! You're supposed to be my friend! Friend?! Do you even know my real name? It's Revolio Clockberg Junior.
-  - Oh, you still use south in space? Whoa! Jesus, Jerry! What the hell are you doing here?! What are you talking about? We agreed a boy's father should be present - when he's learning to drive.
-  - What?! I don't know how this works! Help me! What the hell?! I know, right? Oh, what the hell?! I know, right? Jerryboree!? You created a day care for my dad? Are you kidding? I wish I had this idea.
-  - Morty, take the wheel! Whoa! Whoa! Geez! Damn it, Morty! Who taught you to fly this thing? I'm kidding.
+  - “Sh sh*t! Oh! Whoa! What the hell?! W-w-where am I?! - What in the hell?! - 55 years.”
+  - “Holy sh*t! This guy's taking Roy off the grid! This guy doesn't have a social security number for Roy! Hi.”
+  - “Whatever you want to do, you little punk-ass little bitch.”
+  - “Number one is me, a**hole! You're supposed to be my friend! Friend?! Do you even know my real name? It's Revolio Clockberg Junior.”
+  - “Oh, you still use south in space? Whoa! Jesus, Jerry! What the hell are you doing here?! What are you talking about? We agreed a boy's father should be present - when he's learning to drive.”
+  - “What?! I don't know how this works! Help me! What the hell?! I know, right? Oh, what the hell?! I know, right? Jerryboree!? You created a day care for my dad? Are you kidding? I wish I had this idea.”
+  - “Morty, take the wheel! Whoa! Whoa! Geez! Damn it, Morty! Who taught you to fly this thing? I'm kidding.”
 - Alcohol & drugs — 3 moment(s)
-  - …Y-you know what those guys do in their fancy boardrooms? They take their balls and they dip them in cocaine and wipe them all over each other.
-  - It's got beer, games, prizes, and you can never tell what time it is.
-  - You kind of wasted your 30s, though, with that whole bird-watching phase.
+  - “…Y-you know what those guys do in their fancy boardrooms? They take their balls and they dip them in cocaine and wipe them all over each other.”
+  - “It's got beer, games, prizes, and you can never tell what time it is.”
+  - “You kind of wasted your 30s, though, with that whole bird-watching phase.”
 
 ## S2 E3 — 3. Auto Erotic Assimilation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0203.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - Listen, if this is an invasion, I got to sit this one out, but I'll be back to have sex with the survivors.
-  - Oh, that's pretty sexy.
-  - Summer, before I took over this planet, this man was a registered sex offender.
-  - He's Having sex with you.
+  - “Listen, if this is an invasion, I got to sit this one out, but I'll be back to have sex with the survivors.”
+  - “Oh, that's pretty sexy.”
+  - “Summer, before I took over this planet, this man was a registered sex offender.”
+  - “He's Having sex with you.”
 - Nudity & bodies — 4 moment(s)
-  - I'm an electrical engineer, father of two, and, as you can see from my flat, concentric nipple rings, I'm a member of this planet's top race! Okay, that's good.
-  - And I'll be damned if that ripple-nipple bitch's race is superior! The cone-nipple people will rule this world! You shut your mouth, you dirty knife-nipple bastards.
-  - We just have regular nipples.
-  - …crotchless uncle Sam costume, and I want the entire field of your largest stadium covered end to end with naked redheads, and I want the stands packed with every man that remotely resembles my father.
+  - “I'm an electrical engineer, father of two, and, as you can see from my flat, concentric nipple rings, I'm a member of this planet's top race! Okay, that's good.”
+  - “And I'll be damned if that ripple-nipple bitch's race is superior! The cone-nipple people will rule this world! You shut your mouth, you dirty knife-nipple bastards.”
+  - “We just have regular nipples.”
+  - “…crotchless uncle Sam costume, and I want the entire field of your largest stadium covered end to end with naked redheads, and I want the stands packed with every man that remotely resembles my father.”
 - Porn / strippers / sex work — 1 moment(s)
-  - Prostitutes are now scientists.
+  - “Prostitutes are now scientists.”
 - Violence & injury — 1 moment(s)
-  - Second of all, cards on the table, I'm a murderer that eats babies, and I came to this planet to eat babies.
+  - “Second of all, cards on the table, I'm a murderer that eats babies, and I came to this planet to eat babies.”
 - Suicide & self-harm — 1 moment(s)
-  - This woman was a drug addict on the verge of suicide.
+  - “This woman was a drug addict on the verge of suicide.”
 - Swearing — 9 moment(s)
-  - it's a ship full of dead aliens and a bunch of free sh*t! Whoa! it's a deadly trap, but I'm ready to roll those dice.
-  - And I'll be damned if that ripple-nipple bitch's race is superior! The cone-nipple people will rule this world! You shut your mouth, you dirty knife-nipple bastards.
-  - "? So good luck with your sh*tty marriage, and tell Rick I'm sorry he has to deal with either of you.
-  - All right, beta sh*t seven, you just got saved by the bell, bitch! Did you get any of that? It's-a good show-a.
-  - What the hell was that? I don't know.
-  - Uh Okay, what the hell.
-  - Reeeeeeeeeeeeeal-- God damn it, stop.
-  - I didn't know freedom meant people doing stuff that sucks.
-  - I can tolerate it, but I can't give a crap about it.
+  - “it's a ship full of dead aliens and a bunch of free sh*t! Whoa! it's a deadly trap, but I'm ready to roll those dice.”
+  - “And I'll be damned if that ripple-nipple bitch's race is superior! The cone-nipple people will rule this world! You shut your mouth, you dirty knife-nipple bastards.”
+  - “"? So good luck with your sh*tty marriage, and tell Rick I'm sorry he has to deal with either of you.”
+  - “All right, beta sh*t seven, you just got saved by the bell, bitch! Did you get any of that? It's-a good show-a.”
+  - “What the hell was that? I don't know.”
+  - “Uh Okay, what the hell.”
+  - “Reeeeeeeeeeeeeal-- God damn it, stop.”
+  - “I didn't know freedom meant people doing stuff that sucks.”
+  - “I can tolerate it, but I can't give a crap about it.”
 - Alcohol & drugs — 3 moment(s)
-  - Jerry, what are you what are you doing in here? I'm trying to find our weed whacker, 'cause our weeds are wack, yo.
-  - I, um Jerry and I were looking for our weed whacker and found your subterranean lair and your alien prisoner, and he got away.
-  - Um, should we maybe stop somewhere and get you a coffee? Maybe splash a little water on your face, or No, no, if I wanted to be sober, I wouldn't have gotten drunk.
+  - “Jerry, what are you what are you doing in here? I'm trying to find our weed whacker, 'cause our weeds are wack, yo.”
+  - “I, um Jerry and I were looking for our weed whacker and found your subterranean lair and your alien prisoner, and he got away.”
+  - “Um, should we maybe stop somewhere and get you a coffee? Maybe splash a little water on your face, or No, no, if I wanted to be sober, I wouldn't have gotten drunk.”
 - Racism & slurs — 1 moment(s)
-  - Cops are racist.
+  - “Cops are racist.”
 - Slut-shaming — 1 moment(s)
-  - Where did you learn to talk, you grandpa-stealing slut? I'm feeling Ugh.
+  - “Where did you learn to talk, you grandpa-stealing slut? I'm feeling Ugh.”
 
 ## S2 E4 — 4. Total Rickall
 URL: https://watchwiththekids.com/ep/rick-and-morty/0204.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Why couldn't I bring my portal gun? Why did all the drinks have to be extra large? Oh, the hulk.
-  - I think you should put down the gun and we should get you to a doctor.
+  - “Why couldn't I bring my portal gun? Why did all the drinks have to be extra large? Oh, the hulk.”
+  - “I think you should put down the gun and we should get you to a doctor.”
 - Swearing — 10 moment(s)
-  - Steve wasn't real? - He's a real piece of sh*t.
-  - Think before you talk sh*t.
-  - Now, listen, we can flip those sons of bitches for 230 bucks apiece easy! They're all limited-edition "Zelda" ones.
-  - You listen to me, you son of a bitch parasite scum.
-  - She's my bitch of a sister.
-  - Am I right? - Oh, my god! - Call an ambulance! - Oh, god! Steve! - What the hell, Rick?! Will everybody just relax for a second? There's no such thing as an "uncle Steve".
-  - These telepathic little bastards, they embed themselves in memories, and then they use those to multiply and spread out, take over planets.
-  - Beauregard wasn't our butler, it's safe to say the family'd be in a hell of a lot of trouble.
-  - What are we doing? I don't give a damn what else happens out there.
-  - I know you're real because I have a ton of bad memories with you! These memories that we have These memories that we cherish I wish that we can go back to that time Ooh, ooh, ooh Holy crap, Morty, you're right.
+  - “Steve wasn't real? - He's a real piece of sh*t.”
+  - “Think before you talk sh*t.”
+  - “Now, listen, we can flip those sons of bitches for 230 bucks apiece easy! They're all limited-edition "Zelda" ones.”
+  - “You listen to me, you son of a bitch parasite scum.”
+  - “She's my bitch of a sister.”
+  - “Am I right? - Oh, my god! - Call an ambulance! - Oh, god! Steve! - What the hell, Rick?! Will everybody just relax for a second? There's no such thing as an "uncle Steve".”
+  - “These telepathic little bastards, they embed themselves in memories, and then they use those to multiply and spread out, take over planets.”
+  - “Beauregard wasn't our butler, it's safe to say the family'd be in a hell of a lot of trouble.”
+  - “What are we doing? I don't give a damn what else happens out there.”
+  - “I know you're real because I have a ton of bad memories with you! These memories that we have These memories that we cherish I wish that we can go back to that time Ooh, ooh, ooh Holy crap, Morty, you're right.”
 - Alcohol & drugs — 1 moment(s)
-  - Are you drunk? What are you? - My wife coach? - Your what? Oh! God! Oh.
+  - “Are you drunk? What are you? - My wife coach? - Your what? Oh! God! Oh.”
 
 ## S2 E5 — 5. Get Schwifty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0205.html
@@ -370,241 +370,241 @@ Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Principal Vagina-- The name's real, possibly Scandinavian.
-  - I like what you got! Good job! - Yeah! - Whoo! We did it! What do you know? He was right! - Hooray Principal Vagina! - Yeah, I'll take it.
+  - “Principal Vagina-- The name's real, possibly Scandinavian.”
+  - “I like what you got! Good job! - Yeah! - Whoo! We did it! What do you know? He was right! - Hooray Principal Vagina! - Yeah, I'll take it.”
 - Violence & injury — 2 moment(s)
-  - You know what I'm saying? Ice, I don't want to be a negative Nelly or anything, but if Morty doesn't come back with my portal gun and I eat it out there, it's, uh, you know, kind of your problem, too.
-  - President I hope you like being hit in the face with a gun.
+  - “You know what I'm saying? Ice, I don't want to be a negative Nelly or anything, but if Morty doesn't come back with my portal gun and I eat it out there, it's, uh, you know, kind of your problem, too.”
+  - “President I hope you like being hit in the face with a gun.”
 - Swearing — 9 moment(s)
-  - Take off your pants and your panties sh*t on the floor Time to get schwifty in here I'm Mr.
-  - It's working! Take a sh*t on the floor Time to get schwifty in here and third-level donors get our all-access family pass.
-  - But can you help me get to my family? You know, at-- at my house? Is your intention to abandon Rick using his own portal gun? In bird culture, this is considered a dick move.
-  - All of Rick's moves are dick moves! What-- What am I eating? Wh-what is this, bird-- birdseed? It is random debris.
-  - All right, um Oh, yeah You gotta get schwifty You gotta get schwifty in here It's time to get schwifty Uh-oh Get "schwifty"? What the hell is that? It's our world's best effort.
-  - No, I'm-- I'm just saying, we don't know there's a cause-effect relationship-- Oh, my God! - What is going on now?! - Whoa! Whoa! What the hell happened? Mr.
-  - Holy crap! Oh, dear giant head, we apologize for that discussion.
-  - …tickets in the other, he's like, "I'm ready!" You gonna take a lobster to see "Iron Man 3"? Ice-T! Ah, damn.
-  - What?! - Damn.
+  - “Take off your pants and your panties sh*t on the floor Time to get schwifty in here I'm Mr.”
+  - “It's working! Take a sh*t on the floor Time to get schwifty in here and third-level donors get our all-access family pass.”
+  - “But can you help me get to my family? You know, at-- at my house? Is your intention to abandon Rick using his own portal gun? In bird culture, this is considered a dick move.”
+  - “All of Rick's moves are dick moves! What-- What am I eating? Wh-what is this, bird-- birdseed? It is random debris.”
+  - “All right, um Oh, yeah You gotta get schwifty You gotta get schwifty in here It's time to get schwifty Uh-oh Get "schwifty"? What the hell is that? It's our world's best effort.”
+  - “No, I'm-- I'm just saying, we don't know there's a cause-effect relationship-- Oh, my God! - What is going on now?! - Whoa! Whoa! What the hell happened? Mr.”
+  - “Holy crap! Oh, dear giant head, we apologize for that discussion.”
+  - “…tickets in the other, he's like, "I'm ready!" You gonna take a lobster to see "Iron Man 3"? Ice-T! Ah, damn.”
+  - “What?! - Damn.”
 - Racism & slurs — 1 moment(s)
-  - We're sorry for our increased levels of emissions and our racism and, of course, the Amber Alerts I keep ignoring on my phone.
+  - “We're sorry for our increased levels of emissions and our racism and, of course, the Amber Alerts I keep ignoring on my phone.”
 
 ## S2 E6 — 6. The Ricks Must Be Crazy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - I masturbated to an extra-curvy piece of driftwood the other day! Look, I don't care what it takes.
+  - “I masturbated to an extra-curvy piece of driftwood the other day! Look, I don't care what it takes.”
 - Nudity & bodies — 1 moment(s)
-  - …it itself! - unless it's told to do something! - We almost died! - I don't want to hear it, Summer! Your boobs are all hanging about, and you ruined ice cream with your boobs out.
+  - “…it itself! - unless it's told to do something! - We almost died! - I don't want to hear it, Summer! Your boobs are all hanging about, and you ruined ice cream with your boobs out.”
 - Violence & injury — 2 moment(s)
-  - You know, one time, Rick sh-- accidentally shot his laser pistol right through my hand.
-  - What?! A long time ago, I implanted you with a subdermal chip that could call upon dormant nanobots in your bloodstream to restructure your anatomy and turn you into a car.
+  - “You know, one time, Rick sh-- accidentally shot his laser pistol right through my hand.”
+  - “What?! A long time ago, I implanted you with a subdermal chip that could call upon dormant nanobots in your bloodstream to restructure your anatomy and turn you into a car.”
 - Swearing — 12 moment(s)
-  - Really gets their dicks hard when they see this ramp just slowly extending down.
-  - Somewhere on this planet, there's got to be an arrogant scientist prick on the verge of microverse technology, which would threaten to make Zeep's flooble cranks obsolete…
-  - Pterodactyl! a**hole! When I get out of this teenyverse, I'm gonna smash it to pieces with you in it.
-  - You know you're kind of a dick, right? My function is to keep Summer safe, not keep Summer being, like, totally stoked about, like, the general vibe and stuff.
-  - Hey, that's my deer! Aaaaaaah! Raah! I hope your God is as big a dick as you.
-  - Aaaaaaah! Hey, man, what the hell?! That was my daughter's pediatrician! Aah! No, stop! Don't kill him! Confirmed.
-  - Whoa! Holy crap! I thought we were inside your car battery, Rick.
-  - Rick, a word? What the hell was that? I know.
-  - No, what are you doing telling this guy that his miniverse is unethical? Do you not see the hypocrisy here? Holy crap.
-  - Ugh! You bastard! Much obliged.
-  - Your microverse sucks! And your miniverse is the size of a [bleep.]
-  - Everyone's gross, and they all smell like piss all the time.
+  - “Really gets their dicks hard when they see this ramp just slowly extending down.”
+  - “Somewhere on this planet, there's got to be an arrogant scientist prick on the verge of microverse technology, which would threaten to make Zeep's flooble cranks obsolete…”
+  - “Pterodactyl! a**hole! When I get out of this teenyverse, I'm gonna smash it to pieces with you in it.”
+  - “You know you're kind of a dick, right? My function is to keep Summer safe, not keep Summer being, like, totally stoked about, like, the general vibe and stuff.”
+  - “Hey, that's my deer! Aaaaaaah! Raah! I hope your God is as big a dick as you.”
+  - “Aaaaaaah! Hey, man, what the hell?! That was my daughter's pediatrician! Aah! No, stop! Don't kill him! Confirmed.”
+  - “Whoa! Holy crap! I thought we were inside your car battery, Rick.”
+  - “Rick, a word? What the hell was that? I know.”
+  - “No, what are you doing telling this guy that his miniverse is unethical? Do you not see the hypocrisy here? Holy crap.”
+  - “Ugh! You bastard! Much obliged.”
+  - “Your microverse sucks! And your miniverse is the size of a [bleep.]”
+  - “Everyone's gross, and they all smell like piss all the time.”
 
 ## S2 E7 — 7. Big Trouble In Little Sanchez
 URL: https://watchwiththekids.com/ep/rick-and-morty/0207.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - They could save the marriage of a porn star and a porn star.
+  - “They could save the marriage of a porn star and a porn star.”
 - Violence & injury — 2 moment(s)
-  - They found her in the gym with, like, two holes in her neck and all the blood drained out of her.
-  - I was pretty sure we didn't have what it takes to deal with a bloodsucker on our own.
+  - “They found her in the gym with, like, two holes in her neck and all the blood drained out of her.”
+  - “I was pretty sure we didn't have what it takes to deal with a bloodsucker on our own.”
 - Swearing — 9 moment(s)
-  - Read it and weep, bitch.
-  - Well, then get your sh*t together! Get it all together and put it in a backpack.
-  - All your sh*t, so it's together.
-  - Turn around! I said turn around! How can Beth have these thoughts about me?! That judgmental monster bitch! I'm not taking this.
-  - It's crazy, right? I mean, am I being an a**hole? Okay, I feel like everybody in the room is looking at me like I'm the buzzkill.
-  - What the hell is that?! Take that back! You do not think that about me! I didn't do anything! They scanned it out of my brain.
-  - …Rick, just so we can have a party? Hell, yeah! What's one more night? And who can have fun with this old bastard hanging around, huh?
-  - ? Yeah, I know! What kind of operation are you running? Us?! What the hell kind of relationship do you have?! Oh, right, blame this on us.
-  - When I feel like it? Damn, girl! You need to chill out! This whole thing was your idea, in the first place, and, now, you're trying to rush it along.
+  - “Read it and weep, bitch.”
+  - “Well, then get your sh*t together! Get it all together and put it in a backpack.”
+  - “All your sh*t, so it's together.”
+  - “Turn around! I said turn around! How can Beth have these thoughts about me?! That judgmental monster bitch! I'm not taking this.”
+  - “It's crazy, right? I mean, am I being an a**hole? Okay, I feel like everybody in the room is looking at me like I'm the buzzkill.”
+  - “What the hell is that?! Take that back! You do not think that about me! I didn't do anything! They scanned it out of my brain.”
+  - “…Rick, just so we can have a party? Hell, yeah! What's one more night? And who can have fun with this old bastard hanging around, huh?”
+  - “? Yeah, I know! What kind of operation are you running? Us?! What the hell kind of relationship do you have?! Oh, right, blame this on us.”
+  - “When I feel like it? Damn, girl! You need to chill out! This whole thing was your idea, in the first place, and, now, you're trying to rush it along.”
 - Alcohol & drugs — 1 moment(s)
-  - The value of his subservience is wasted on you.
+  - “The value of his subservience is wasted on you.”
 
 ## S2 E8 — 8. Interdimensional Cable 2: Tempting Fate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0208.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Smith? Uh, yeah, just masturbating! I forgot to mention, there are extensive medical records open on my desktop, and I trust you to confine your activities - to the purely pornographic.
-  - So, we'll be detaching your sexual organ at the base by making incisions here, here, and here.
+  - “Smith? Uh, yeah, just masturbating! I forgot to mention, there are extensive medical records open on my desktop, and I trust you to confine your activities - to the purely pornographic.”
+  - “So, we'll be detaching your sexual organ at the base by making incisions here, here, and here.”
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Smith, shrimply pibbles' life can be saved if we replace his heart with your human penis.
-  - …the delicate asymmetry of what you call your balls, and with relatively few adjustments, your genitals can be molded into a functioning heart for the most important man in the universe.
-  - I've got such-and-such for a penis.
+  - “Smith, shrimply pibbles' life can be saved if we replace his heart with your human penis.”
+  - “…the delicate asymmetry of what you call your balls, and with relatively few adjustments, your genitals can be molded into a functioning heart for the most important man in the universe.”
+  - “I've got such-and-such for a penis.”
 - Porn / strippers / sex work — 1 moment(s)
-  - Here's some porn.
+  - “Here's some porn.”
 - Violence & injury — 3 moment(s)
-  - It'll stain if it gets on your clothes, and it'll send you into a murderous rage if it gets in your eyes and mouth.
-  - Do it! Do it! Remove my penis! Sir, put the gun down and step away from Mr.
-  - Where did he get a gun? Who gave him a gun? That's not a gun.
+  - “It'll stain if it gets on your clothes, and it'll send you into a murderous rage if it gets in your eyes and mouth.”
+  - “Do it! Do it! Remove my penis! Sir, put the gun down and step away from Mr.”
+  - “Where did he get a gun? Who gave him a gun? That's not a gun.”
 - Swearing — 7 moment(s)
-  - If that guy catches you with a box of his eyeholes, he comes bursting in through a window and just starts kicking the sh*t out of you.
-  - Then you would give your penis so that shrimply pibbles might live? Stop asking! Yes, I will! That's right, a**holes.
-  - What's up with her face? Is she human, or is she like worf? You know, worf from "Star Trek," how he has all that sh*t all over his face, but he's just a human in a costume, you know?
-  - stupid bitch.
-  - What an a**hole! Ohh, tune in next week [ Theme music plays .]
-  - Holy crap! It's cool.
-  - What the hell is he talking about?!
+  - “If that guy catches you with a box of his eyeholes, he comes bursting in through a window and just starts kicking the sh*t out of you.”
+  - “Then you would give your penis so that shrimply pibbles might live? Stop asking! Yes, I will! That's right, a**holes.”
+  - “What's up with her face? Is she human, or is she like worf? You know, worf from "Star Trek," how he has all that sh*t all over his face, but he's just a human in a costume, you know?”
+  - “stupid bitch.”
+  - “What an a**hole! Ohh, tune in next week [ Theme music plays .]”
+  - “Holy crap! It's cool.”
+  - “What the hell is he talking about?!”
 - Alcohol & drugs — 2 moment(s)
-  - …been learning about his accomplishments, from his march on flirk blirk square to his ongoing battle with heroin dependency.
-  - Well, I-it occurs to me that his heroin addiction may not have been a matter of public record.
+  - “…been learning about his accomplishments, from his march on flirk blirk square to his ongoing battle with heroin dependency.”
+  - “Well, I-it occurs to me that his heroin addiction may not have been a matter of public record.”
 
 ## S2 E9 — 9. Look Who's Purging Now
 URL: https://watchwiththekids.com/ep/rick-and-morty/0209.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - Oh, I know what this is! You've been able to sustain world peace because you have one night a year where you all run around robbing and murdering each other without consequence.
-  - There was this one world that called it just murder night.
-  - I mean, w-w-we're both free and clear to murder these people.
-  - kidding me, Morty?! She took my car and the gun.
-  - Why don't we just use your portal gun? It's in the car, dip-ass.
+  - “Oh, I know what this is! You've been able to sustain world peace because you have one night a year where you all run around robbing and murdering each other without consequence.”
+  - “There was this one world that called it just murder night.”
+  - “I mean, w-w-we're both free and clear to murder these people.”
+  - “kidding me, Morty?! She took my car and the gun.”
+  - “Why don't we just use your portal gun? It's in the car, dip-ass.”
 - Swearing — 11 moment(s)
-  - out of the flying machine! Oh, my God! O-okay! Okay! -Back up, a**hole.
-  - Amish bitch shot me! [ Grunts .]
-  - We're like the rest of these a**holes now.
-  - drop your sh*t! Drop it all.
-  - Morty, go get their sh*t.
-  - You son of a bitch! Morty, I don't want to be the "a little help" guy, but a little help? -Aah! -Okay, I have a pen.
-  - Your grandson is a sh*tty person.
-  - W-w-what do you mean? -I was going to use your ship to destroy the rich a**holes that run our society and save my people from the horrors of this yearly festival.
-  - Oh, crap! -Get out! Get out! -Hey, whoa, whoa, whoa! Get the [Bleep.]
-  - What the hell?! I don't care.
-  - Screw you, Rick! I'll purge you, too, you old, rickety piece of crap! This has been a long time coming! I'm gonna rip your [Bleep.]
+  - “out of the flying machine! Oh, my God! O-okay! Okay! -Back up, a**hole.”
+  - “Amish bitch shot me! [ Grunts .]”
+  - “We're like the rest of these a**holes now.”
+  - “drop your sh*t! Drop it all.”
+  - “Morty, go get their sh*t.”
+  - “You son of a bitch! Morty, I don't want to be the "a little help" guy, but a little help? -Aah! -Okay, I have a pen.”
+  - “Your grandson is a sh*tty person.”
+  - “W-w-what do you mean? -I was going to use your ship to destroy the rich a**holes that run our society and save my people from the horrors of this yearly festival.”
+  - “Oh, crap! -Get out! Get out! -Hey, whoa, whoa, whoa! Get the [Bleep.]”
+  - “What the hell?! I don't care.”
+  - “Screw you, Rick! I'll purge you, too, you old, rickety piece of crap! This has been a long time coming! I'm gonna rip your [Bleep.]”
 
 ## S2 E10 — The Wedding Squanchers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - I'll have sex with that.
+  - “I'll have sex with that.”
 - Violence & injury — 4 moment(s)
-  - Birdperson's big day, Morty, was at blood Ridge on glapflap's third moon against the gromflamites! This? This is a losing battle.
-  - The road your father and I walked together is soaked deeply with the blood of both friends and enemies.
-  - Tammy? Birdperson!! No!! Holy Drop the portal gun.
-  - That's a confetti gun, you idiot! Beth: Dad! Hold on tight! Aaah!! Aaaah!! God damn it! God damn it!! What the hell happened back there?! This is on you guys.
+  - “Birdperson's big day, Morty, was at blood Ridge on glapflap's third moon against the gromflamites! This? This is a losing battle.”
+  - “The road your father and I walked together is soaked deeply with the blood of both friends and enemies.”
+  - “Tammy? Birdperson!! No!! Holy Drop the portal gun.”
+  - “That's a confetti gun, you idiot! Beth: Dad! Hold on tight! Aaah!! Aaaah!! God damn it! God damn it!! What the hell happened back there?! This is on you guys.”
 - Swearing — 4 moment(s)
-  - Why?! Because I don't want him to leave again, you dumb a**hole!! Hey.
-  - And Tammy! Inviting you to planet squanch for our mate-melding ceremony blugh! If you're from earth, that means we're getting married! Oh, my God! My friend Tammy's marrying birdperson! What the hell is a birdperson?
-  - We don't know a damn person here.
-  - There already is no more bacon! This world sucks! Our life sucks! Why are we doing this for someone that would never do anything for anyone but himself? Morty: That's not the point, dad! We love Rick F-for the most part.
+  - “Why?! Because I don't want him to leave again, you dumb a**hole!! Hey.”
+  - “And Tammy! Inviting you to planet squanch for our mate-melding ceremony blugh! If you're from earth, that means we're getting married! Oh, my God! My friend Tammy's marrying birdperson! What the hell is a birdperson?”
+  - “We don't know a damn person here.”
+  - “There already is no more bacon! This world sucks! Our life sucks! Why are we doing this for someone that would never do anything for anyone but himself? Morty: That's not the point, dad! We love Rick F-for the most part.”
 - Alcohol & drugs — 2 moment(s)
-  - Can you make me a dumb grandson pep talk? It's one part lame advice about stuff you know nothing about and a lot of vodka.
-  - I have a lot of vodka.
+  - “Can you make me a dumb grandson pep talk? It's one part lame advice about stuff you know nothing about and a lot of vodka.”
+  - “I have a lot of vodka.”
 
 ## S3 E1 — 1. The Rickshank Redemption
 URL: https://watchwiththekids.com/ep/rick-and-morty/0301.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - Yes, I'd like very much to visit the memory of you inventing your portal gun.
-  - If you take me where I want to go she'll be there, too, won't she? The day I invented the portal gun is the day I lost her.
-  - Huh? What are you -- What are you doing? Grandpa Rick must have some secret lab, right? With, like, laser guns and jets packs and a space tank!
-  - He's not bluffing! R-Rick? Why not shoot through her? 20 yards, nine-gauge plasma pistol, My first shot would liquify her insides and injure you, second shot adds recoil.
+  - “Yes, I'd like very much to visit the memory of you inventing your portal gun.”
+  - “If you take me where I want to go she'll be there, too, won't she? The day I invented the portal gun is the day I lost her.”
+  - “Huh? What are you -- What are you doing? Grandpa Rick must have some secret lab, right? With, like, laser guns and jets packs and a space tank!”
+  - “He's not bluffing! R-Rick? Why not shoot through her? 20 yards, nine-gauge plasma pistol, My first shot would liquify her insides and injure you, second shot adds recoil.”
 - Swearing — 6 moment(s)
-  - Mission Control, you getting this? Holy sh*t, yes! Yes, we got it! Yeah! Thanks, Rick.
-  - I'm bummed I didn't get to give that insect dick a test-drive.
-  - I'm gonna go take a sh*t.
-  - Who's stupid now, bitch?! Morty, we just got him back! [ Laughs .]
+  - “Mission Control, you getting this? Holy sh*t, yes! Yes, we got it! Yeah! Thanks, Rick.”
+  - “I'm bummed I didn't get to give that insect dick a test-drive.”
+  - “I'm gonna go take a sh*t.”
+  - “Who's stupid now, bitch?! Morty, we just got him back! [ Laughs .]”
   - Lawyer Morty: “Order in the court! Whoa! What the hell?! Oh, my God! [ Screaming .]”
-  - W-W-What the hell is that? Payback.
+  - “W-W-What the hell is that? Payback.”
 - Alcohol & drugs — 2 moment(s)
-  - It was all part of his plan! Jerry, is there any light beer left? It's insane what you miss in prison.
-  - Where's the vodka? Beth, it's him or me! Seems like you guys need some privacy.
+  - “It was all part of his plan! Jerry, is there any light beer left? It's insane what you miss in prison.”
+  - “Where's the vodka? Beth, it's him or me! Seems like you guys need some privacy.”
 
 ## S3 E2 — 2. Rickmancing the Stone
 URL: https://watchwiththekids.com/ep/rick-and-morty/0302.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Graze my genitals again, Taint Washer, and you'll be shipped to the wasteland.
-  - And as for you, Genital Washer Ahh! Oh! Oh, God.
+  - “Graze my genitals again, Taint Washer, and you'll be shipped to the wasteland.”
+  - “And as for you, Genital Washer Ahh! Oh! Oh, God.”
 - Violence & injury — 8 moment(s)
-  - Is it powerful enough to keep those guys from murdering us? Summer! - Hold on.
-  - I don't know if that applies to the throats of murder victims, Morty.
-  - sh*t! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.
-  - So, I can assume you haven't murdered a single person today.
-  - I-I didn't mark my murders in my murder log.
-  - "Sum-sum," let's go! Grandpa's concern for your safety is fleeting! Your blood will be my lotion.
-  - You have removed weak blood from us and made us stronger.
-  - …environment so we can properly deal with your parents' divorce! Alternatively, I have a freaking portal gun, and I can leave the two of you here forever!
+  - “Is it powerful enough to keep those guys from murdering us? Summer! - Hold on.”
+  - “I don't know if that applies to the throats of murder victims, Morty.”
+  - “sh*t! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.”
+  - “So, I can assume you haven't murdered a single person today.”
+  - “I-I didn't mark my murders in my murder log.”
+  - “"Sum-sum," let's go! Grandpa's concern for your safety is fleeting! Your blood will be my lotion.”
+  - “You have removed weak blood from us and made us stronger.”
+  - “…environment so we can properly deal with your parents' divorce! Alternatively, I have a freaking portal gun, and I can leave the two of you here forever!”
 - Swearing — 8 moment(s)
-  - Bitch, I was ready yest Bye, sweetie.
-  - sh*t! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.
-  - Wh-Wh-What in the hell are you saying? They don't have to keep trying to kill us if we join them.
-  - I mean, her parents are going through a divorce Damn it, Rick, that's what I Fine.
-  - Ohh, burn! The important question is, who wants to take a poke at my man Spine Eater here? I guess I'll see your asses in that dome! Rick, what the hell, man? Wh-What are you, out of your mind? Morty, relax.
-  - Want to piss on him? Get out of my head.
-  - What's the matter, you piece of crap? Haven't you ever watched your family burn to death before? Now I'm gonna whip you.
-  - Oh, cut the crap, Rick, okay? You proved your point.
+  - “Bitch, I was ready yest Bye, sweetie.”
+  - “sh*t! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.”
+  - “Wh-Wh-What in the hell are you saying? They don't have to keep trying to kill us if we join them.”
+  - “I mean, her parents are going through a divorce Damn it, Rick, that's what I Fine.”
+  - “Ohh, burn! The important question is, who wants to take a poke at my man Spine Eater here? I guess I'll see your asses in that dome! Rick, what the hell, man? Wh-What are you, out of your mind? Morty, relax.”
+  - “Want to piss on him? Get out of my head.”
+  - “What's the matter, you piece of crap? Haven't you ever watched your family burn to death before? Now I'm gonna whip you.”
+  - “Oh, cut the crap, Rick, okay? You proved your point.”
 
 ## S3 E3 — 3. Pickle Rick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0303.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - You are the master of your universe, and yet you are dripping with rat blood and feces.
-  - Man, I missed having hands and blood and a stomach.
+  - “You are the master of your universe, and yet you are dripping with rat blood and feces.”
+  - “Man, I missed having hands and blood and a stomach.”
 - Swearing — 7 moment(s)
-  - What, I'm gonna touch it, and you're gonna tell me it's an alien dick or something.
-  - Oh, God! Perpendicular, perpendicular! Oh, sh*t! Oh! Oh! Oh! Come on.
-  - Shut up and call me a helicopter, you prick! Do we have a deal?! Take that money, give it to Jaguar's daughter when you set her free.
-  - I'm not a snake! I'm a pickle, I'm a pickle! Whoa! Oh! Whoa, whoa, whoa! Oh, crap, that sun is bright.
-  - God damn it, I love myself.
-  - I mean, we don't really buy into that kind of crap, to the extent that love is an expression of familiarity over time, my access to infinite timelines precludes the necessity of attachment.
-  - I am mad that I can't huff enamel without people assuming it's because my family sucks.
+  - “What, I'm gonna touch it, and you're gonna tell me it's an alien dick or something.”
+  - “Oh, God! Perpendicular, perpendicular! Oh, sh*t! Oh! Oh! Oh! Come on.”
+  - “Shut up and call me a helicopter, you prick! Do we have a deal?! Take that money, give it to Jaguar's daughter when you set her free.”
+  - “I'm not a snake! I'm a pickle, I'm a pickle! Whoa! Oh! Whoa, whoa, whoa! Oh, crap, that sun is bright.”
+  - “God damn it, I love myself.”
+  - “I mean, we don't really buy into that kind of crap, to the extent that love is an expression of familiarity over time, my access to infinite timelines precludes the necessity of attachment.”
+  - “I am mad that I can't huff enamel without people assuming it's because my family sucks.”
 - Alcohol & drugs — 1 moment(s)
-  - I hope to be seen one day as someone that just likes getting high.
+  - “I hope to be seen one day as someone that just likes getting high.”
 - Racism & slurs — 1 moment(s)
-  - Wong By the way, racist name Obviously, Morty and Summer are seizing on your arbitrary pickle obsession as an end run around what was supposed to be their therapy.
+  - “Wong By the way, racist name Obviously, Morty and Summer are seizing on your arbitrary pickle obsession as an end run around what was supposed to be their therapy.”
 
 ## S3 E4 — 4. Vindicators 3: The Return of Worldender
 URL: https://watchwiththekids.com/ep/rick-and-morty/0304.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Uh, Morty, you might want to freeze some sperm.
+  - “Uh, Morty, you might want to freeze some sperm.”
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Yes! Is that what you want to hear?! Did it feel good? Did you like his six million wriggling legs more than my tragedy-stricken, half-ghost, half-tumescent penis?!
+  - “Yes! Is that what you want to hear?! Did it feel good? Did you like his six million wriggling legs more than my tragedy-stricken, half-ghost, half-tumescent penis?!”
 - Violence & injury — 2 moment(s)
-  - I think the personality conflict might have been you? Jesus How awesome is that? I mean, they wanted to not need me so bad they murdered three innocent heroes of color and they still had to bring me back?
-  - All aboard! Gun turret.
+  - “I think the personality conflict might have been you? Jesus How awesome is that? I mean, they wanted to not need me so bad they murdered three innocent heroes of color and they still had to bring me back?”
+  - “All aboard! Gun turret.”
 - Swearing — 10 moment(s)
-  - They're a bunch of drama queens that spend an hour talking and 20 minutes jumping around while sh*t blows up.
-  - Well, have fun with that, but Morty and I have to meet a Lady Comet, a Monorail Man, Two a**holes, and a Full Alligator in like an hour.
-  - The Vindicators are known throughout the galaxy, but do they know yourselves, do you know yourselves? Match your your sh*t, your your gimmicks, with your faces, and y-you get it, it's a matching thing.
-  - Um, uh, over here maybe? Jesus Christ, what a sh*tty neutrino bomb.
-  - You know why, Rick? Because when you're an a**hole, it doesn't matter how right you are, nobody wants to give you the satisfaction.
-  - …more than my tragedy-stricken, half-ghost, half-tumescent penis?! Guys, stop! You're just proving my a**hole grandpa right!
-  - Hey, everybody! Look who's a Vindicator! Man, Grandpa Rick must have gotten sh*tfaced.
-  - God damn it! Read 'em and weep.
-  - So, your origin is what? Y-You fell into a vat of redundancy? Got damn! Noob Noob, we're having a briefing.
-  - Vance that guy, that guy sucks Whoo! Yeah! Yo D-Did I get paid yet? Whoo! I can't believe we're getting Gear Cream with a Vindicator.
+  - “They're a bunch of drama queens that spend an hour talking and 20 minutes jumping around while sh*t blows up.”
+  - “Well, have fun with that, but Morty and I have to meet a Lady Comet, a Monorail Man, Two a**holes, and a Full Alligator in like an hour.”
+  - “The Vindicators are known throughout the galaxy, but do they know yourselves, do you know yourselves? Match your your sh*t, your your gimmicks, with your faces, and y-you get it, it's a matching thing.”
+  - “Um, uh, over here maybe? Jesus Christ, what a sh*tty neutrino bomb.”
+  - “You know why, Rick? Because when you're an a**hole, it doesn't matter how right you are, nobody wants to give you the satisfaction.”
+  - “…more than my tragedy-stricken, half-ghost, half-tumescent penis?! Guys, stop! You're just proving my a**hole grandpa right!”
+  - “Hey, everybody! Look who's a Vindicator! Man, Grandpa Rick must have gotten sh*tfaced.”
+  - “God damn it! Read 'em and weep.”
+  - “So, your origin is what? Y-You fell into a vat of redundancy? Got damn! Noob Noob, we're having a briefing.”
+  - “Vance that guy, that guy sucks Whoo! Yeah! Yo D-Did I get paid yet? Whoo! I can't believe we're getting Gear Cream with a Vindicator.”
 - Alcohol & drugs — 7 moment(s)
-  - Morty, how many of these Too many, Rick! Too many! Man, I am really getting high-roaded today.
-  - I end up getting high with half of them.
-  - Drunk Check, check.
-  - "Obviously?" You came here and defeated our arch nemesis while so drunk you don't remember doing it?
-  - What the hell is "Israel"? It-It's just something Rick starts talking about when he's blackout drunk.
-  - You guys hit the baskets, I'll disarm the drunkenly-improvised neutrino bomb.
-  - I mean, look, when I get drunk, I get stupid and emotional and there's no logic to it.
+  - “Morty, how many of these Too many, Rick! Too many! Man, I am really getting high-roaded today.”
+  - “I end up getting high with half of them.”
+  - “Drunk Check, check.”
+  - “"Obviously?" You came here and defeated our arch nemesis while so drunk you don't remember doing it?”
+  - “What the hell is "Israel"? It-It's just something Rick starts talking about when he's blackout drunk.”
+  - “You guys hit the baskets, I'll disarm the drunkenly-improvised neutrino bomb.”
+  - “I mean, look, when I get drunk, I get stupid and emotional and there's no logic to it.”
 
 ## S3 E5 — 5. The Whirly Dirly Conspiracy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0305.html
@@ -612,304 +612,304 @@ Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - I mean, I've wondered about having a vagina.
-  - You're asking me to lure Rick to his death? I'm only asking you to go on a ride with Rick, get off the ride without Rick, and go home to your family, where you can wonder about having a vagina.
-  - Boob-ya! And that's when Malakai the Squid came, rips off his face, and beneath it is my face.
-  - Hey, Jerry, triple trunks here says he knows a place where the ladies drop panties for anyone bi-pedal.
+  - “I mean, I've wondered about having a vagina.”
+  - “You're asking me to lure Rick to his death? I'm only asking you to go on a ride with Rick, get off the ride without Rick, and go home to your family, where you can wonder about having a vagina.”
+  - “Boob-ya! And that's when Malakai the Squid came, rips off his face, and beneath it is my face.”
+  - “Hey, Jerry, triple trunks here says he knows a place where the ladies drop panties for anyone bi-pedal.”
 - Porn / strippers / sex work — 2 moment(s)
   - Stripper or strip-club material shows up in the plot.
-  - " Oh, yeah, Ethan? What do you have in common with Tricia Lange? A mutual love of French cinema? The belief that a carbon tax is the only viable solution to climate change? Or could it be her massive stripper titties?!
+  - “" Oh, yeah, Ethan? What do you have in common with Tricia Lange? A mutual love of French cinema? The belief that a carbon tax is the only viable solution to climate change? Or could it be her massive stripper titties?!”
 - Violence & injury — 4 moment(s)
-  - It's It's no time to be thinking about who did or didn't play a role in your attempted murder.
-  - I'll leave out the part where you tried to murder me And I'll leave out the part where you admitted to sabotaging our marriage.
-  - But there comes a time in every man's life when he must choose the foundation on which his legacy will be built One of compromise or one of blood.
-  - That would be called a knife, Jerry.
+  - “It's It's no time to be thinking about who did or didn't play a role in your attempted murder.”
+  - “I'll leave out the part where you tried to murder me And I'll leave out the part where you admitted to sabotaging our marriage.”
+  - “But there comes a time in every man's life when he must choose the foundation on which his legacy will be built One of compromise or one of blood.”
+  - “That would be called a knife, Jerry.”
 - Swearing — 9 moment(s)
-  - I mean, you never made me the pants, so So, you thought I was gonna drive you into the middle of the galaxy and shove you into the vacuum of space with your dick hanging out?
-  - Jeff Goldblum? What the are you talking about, Jerry? Jesus! Holy sh*t! Yo, what's up, "Big Chill"?! Don't go into the telepod! Hey, maybe we would have fun on a fake adventure.
-  - That's what I thought, bitch.
-  - I have sh*t on my ass.
-  - I'm starting to believe you because I just finished merging with your essence for an endless epoch, and I'm already back to thinking you're an a**hole.
-  - What was that? Summer! I'm coming, Summer! What the hell happened?! How do we get her back to normal?! I don't know, man! This thing is pretty complicated.
-  - No, no, this sucks.
-  - Morty! Don't "Morty" me! I tricked Rick into taking Dad on an adventure because I thought I could get a break from this kind of but no! Like father, like damn daughter!
-  - God damn it! Go ahead.
+  - “I mean, you never made me the pants, so So, you thought I was gonna drive you into the middle of the galaxy and shove you into the vacuum of space with your dick hanging out?”
+  - “Jeff Goldblum? What the are you talking about, Jerry? Jesus! Holy sh*t! Yo, what's up, "Big Chill"?! Don't go into the telepod! Hey, maybe we would have fun on a fake adventure.”
+  - “That's what I thought, bitch.”
+  - “I have sh*t on my ass.”
+  - “I'm starting to believe you because I just finished merging with your essence for an endless epoch, and I'm already back to thinking you're an a**hole.”
+  - “What was that? Summer! I'm coming, Summer! What the hell happened?! How do we get her back to normal?! I don't know, man! This thing is pretty complicated.”
+  - “No, no, this sucks.”
+  - “Morty! Don't "Morty" me! I tricked Rick into taking Dad on an adventure because I thought I could get a break from this kind of but no! Like father, like damn daughter!”
+  - “God damn it! Go ahead.”
 
 ## S3 E6 — 6. Rest and Ricklaxation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0306.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Uh, is this like a sex dungeon? I guess I should've been paying attention.
+  - “Uh, is this like a sex dungeon? I guess I should've been paying attention.”
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Like, penis in the foreskin kind of love Mm-hmm just, like, warm, just like He Everybody [bleep.]
+  - “Like, penis in the foreskin kind of love Mm-hmm just, like, warm, just like He Everybody [bleep.]”
 - Swearing — 12 moment(s)
-  - Holy sh*t, holy sh*t, holy sh*t.
-  - Look at this sh*t.
-  - bitch ass, you [bleep.]
-  - Hey, a**hole! Oh, man! Remember us? Oh, I don't like confrontation! You [bleep.]
-  - Why? Because we're coming home, bitch! What is this? This is the parts of your pussy grandpa that keep it real.
-  - Ahh! Son of a Ahh! Nice try, a**hole.
-  - Relax, quit your bitching.
-  - Steady, God damn it! Two cetons.
-  - W-W-We're in Hell, aren't we, Rick? - You're so stupid, Morty.
-  - There's no such thing as Hell.
-  - Now, who can tell me the common denominator of these two factions? You don't know or y'all just bored? Hey, listen, you know, wha If we're all bored over here, wouldn't the common denominator be you? Damn, Morty.
-  - It's an alien spa, you go through it, fwoos-s-s-ssh, lasers, bwaa-bwaa-bwaa sucks everything out.
+  - “Holy sh*t, holy sh*t, holy sh*t.”
+  - “Look at this sh*t.”
+  - “bitch ass, you [bleep.]”
+  - “Hey, a**hole! Oh, man! Remember us? Oh, I don't like confrontation! You [bleep.]”
+  - “Why? Because we're coming home, bitch! What is this? This is the parts of your pussy grandpa that keep it real.”
+  - “Ahh! Son of a Ahh! Nice try, a**hole.”
+  - “Relax, quit your bitching.”
+  - “Steady, God damn it! Two cetons.”
+  - “W-W-We're in Hell, aren't we, Rick? - You're so stupid, Morty.”
+  - “There's no such thing as Hell.”
+  - “Now, who can tell me the common denominator of these two factions? You don't know or y'all just bored? Hey, listen, you know, wha If we're all bored over here, wouldn't the common denominator be you? Damn, Morty.”
+  - “It's an alien spa, you go through it, fwoos-s-s-ssh, lasers, bwaa-bwaa-bwaa sucks everything out.”
 - Alcohol & drugs — 1 moment(s)
-  - "Did did d-did you get a new Morty yet?" Because you kept drunk dialing me and crying about it.
+  - “"Did did d-did you get a new Morty yet?" Because you kept drunk dialing me and crying about it.”
 
 ## S3 E7 — 7. The Ricklantis Mixup
 URL: https://watchwiththekids.com/ep/rick-and-morty/0307.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - I-I wanna to go to school and throw balls around and masturbate.
+  - “I-I wanna to go to school and throw balls around and masturbate.”
 - Porn / strippers / sex work — 1 moment(s)
-  - I wish incest porn had Had a more mainstream appeal.
+  - “I wish incest porn had Had a more mainstream appeal.”
 - Violence & injury — 8 moment(s)
-  - That's why I murdered everyone in charge and left it to rot.
-  - They tried to murder him first.
-  - He murdered them.
-  - He stabbed me.
-  - Yo J-22, give 'em hell! Sam Elliot: There's a Rick that held a factory hostage after murdering his boss and several coworkers.
-  - I see it in our streets where they give guns to Mortys, so we're too busy fighting each other to fight real injustice.
-  - What are your demands? I-I-I want a portal gun.
-  - Okay, man, okay, we got your portal gun.
+  - “That's why I murdered everyone in charge and left it to rot.”
+  - “They tried to murder him first.”
+  - “He murdered them.”
+  - “He stabbed me.”
+  - “Yo J-22, give 'em hell! Sam Elliot: There's a Rick that held a factory hostage after murdering his boss and several coworkers.”
+  - “I see it in our streets where they give guns to Mortys, so we're too busy fighting each other to fight real injustice.”
+  - “What are your demands? I-I-I want a portal gun.”
+  - “Okay, man, okay, we got your portal gun.”
 - Swearing — 9 moment(s)
-  - You don't have to be a dick.
-  - I've been your supervisor for five years, but all sh*tty things must come to an end and I have been promoted to regional manager.
-  - Anyway, so yeah, the suspect says the Citadel's a lie, built on lies, and some other sh*t.
-  - Unlike that mermaid puss! Whoo! Yeah! We're going back for seconds! Yeah! Yeah! Whoo! We're gonna do that sh*t every week, man! That was Atlantis! sh*t!
-  - What the hell?! I thought I saw a fly.
-  - Aw, geez man, that sucks that your Rick's making you do that.
-  - Unregistered, untraceable, with enough fluid to take me off this God damn prison! The media's outside.
-  - Hands in the air! What the hell, man?! What the hellin' hell? You guys doing a little chemistry homework with Grandpa? Is this what I think it is? Bootleg portal fluid.
-  - Hey! Hey! No, no, no, no Whaa God damn it!
+  - “You don't have to be a dick.”
+  - “I've been your supervisor for five years, but all sh*tty things must come to an end and I have been promoted to regional manager.”
+  - “Anyway, so yeah, the suspect says the Citadel's a lie, built on lies, and some other sh*t.”
+  - “Unlike that mermaid puss! Whoo! Yeah! We're going back for seconds! Yeah! Yeah! Whoo! We're gonna do that sh*t every week, man! That was Atlantis! sh*t!”
+  - “What the hell?! I thought I saw a fly.”
+  - “Aw, geez man, that sucks that your Rick's making you do that.”
+  - “Unregistered, untraceable, with enough fluid to take me off this God damn prison! The media's outside.”
+  - “Hands in the air! What the hell, man?! What the hellin' hell? You guys doing a little chemistry homework with Grandpa? Is this what I think it is? Bootleg portal fluid.”
+  - “Hey! Hey! No, no, no, no Whaa God damn it!”
 
 ## S3 E8 — 8. Morty's Mind Blowers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0308.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - The Floop Floopians achieve an eternal orgasmic afterlife, so long as they're killed by a great warrior.
+  - “The Floop Floopians achieve an eternal orgasmic afterlife, so long as they're killed by a great warrior.”
 - Nudity & bodies — 1 moment(s)
-  - I also dabble in precision, and if you think you can even approach it with your sad, naked, caveman eyeball and a bubble of [BLEEP.]
+  - “I also dabble in precision, and if you think you can even approach it with your sad, naked, caveman eyeball and a bubble of [BLEEP.]”
 - Violence & injury — 1 moment(s)
-  - So, you want to get shot in the head, or Well, as long as the wound is fatal, I don't really mind where you shoot me.
+  - “So, you want to get shot in the head, or Well, as long as the wound is fatal, I don't really mind where you shoot me.”
 - Suicide & self-harm — 3 moment(s)
-  - We don't know what drove him to take his own life, but we want to remember the good things.
-  - Oh, my God, what have I done? What have I done? Jesus, I made that guy kill himself! Only in a literal sense.
-  - Suicide pact!
+  - “We don't know what drove him to take his own life, but we want to remember the good things.”
+  - “Oh, my God, what have I done? What have I done? Jesus, I made that guy kill himself! Only in a literal sense.”
+  - “Suicide pact!”
 - Swearing — 12 moment(s)
-  - I-I can't go on like this with the Truth Tortoise sh*t in my head.
-  - Got you now, you son of a bitch.
-  - Assess this with cold indifference, you beany-headed prick! Hey, keep it down! Just our luck, menagerie beneath the "boulder people" of Granitor Seven.
-  - Ah, sh*t, Morty, get behind me.
-  - It's, like, hello, Saturn, after ten moons, time to stop naming and start numbering, you know? What's Wh-What's with you a**holes? Morty, please, don't do this.
-  - a**hole, Rick! Take it easy, Morty, come on.
-  - relax! Come here! Let go of me, you little bitch! I'm gonna grab you by the scruff of your Take that! Ohh! - Umm.
-  - What the hell is this?! This, Morty, is my archive of all the experiences you've begged me to remove from your life, lest you go insane.
-  - Are you serious? Half the crap we've seen, and you think that sounds crazy?
-  - They have a hell, and it does not look good.
-  - I know, it's like, is that a demon slug in your stomach, or are you just happy to Sorry! Well, I guess it's nice to know the whole family sucks!
-  - Yeah, well, I crossed every line I had when this bastard tried to kill Jessica! Okay, see those two fleshy sacs under his chin, Morty? Grab 'em.
+  - “I-I can't go on like this with the Truth Tortoise sh*t in my head.”
+  - “Got you now, you son of a bitch.”
+  - “Assess this with cold indifference, you beany-headed prick! Hey, keep it down! Just our luck, menagerie beneath the "boulder people" of Granitor Seven.”
+  - “Ah, sh*t, Morty, get behind me.”
+  - “It's, like, hello, Saturn, after ten moons, time to stop naming and start numbering, you know? What's Wh-What's with you a**holes? Morty, please, don't do this.”
+  - “a**hole, Rick! Take it easy, Morty, come on.”
+  - “relax! Come here! Let go of me, you little bitch! I'm gonna grab you by the scruff of your Take that! Ohh! - Umm.”
+  - “What the hell is this?! This, Morty, is my archive of all the experiences you've begged me to remove from your life, lest you go insane.”
+  - “Are you serious? Half the crap we've seen, and you think that sounds crazy?”
+  - “They have a hell, and it does not look good.”
+  - “I know, it's like, is that a demon slug in your stomach, or are you just happy to Sorry! Well, I guess it's nice to know the whole family sucks!”
+  - “Yeah, well, I crossed every line I had when this bastard tried to kill Jessica! Okay, see those two fleshy sacs under his chin, Morty? Grab 'em.”
 - Alcohol & drugs — 1 moment(s)
-  - air, you're the reason this species is a failure, and it makes me angry! You're drunk.
+  - “air, you're the reason this species is a failure, and it makes me angry! You're drunk.”
 
 ## S3 E9 — 9. The ABCs of Beth
 URL: https://watchwiththekids.com/ep/rick-and-morty/0309.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - Dad, are you -- In love with a badass, sexy alien lady? Ha, ha, I don't know, Summer.
-  - Are you saying Tommy survived here by having sex with Froopy creatures, creating Froopy-human hybrid offspring, and then consuming their proteins, sustaining himself with an endless cycle of cannibalistic incest?
-  - Why don't you just say what you really mean? You think it's cool that having sex with her gives me telekinesis and you recognize she's got a hot bod like Cheetara in "Thundercats," but…
-  - I have intercepted sexual communications between you and my new girlfriend, Kiara.
+  - “Dad, are you -- In love with a badass, sexy alien lady? Ha, ha, I don't know, Summer.”
+  - “Are you saying Tommy survived here by having sex with Froopy creatures, creating Froopy-human hybrid offspring, and then consuming their proteins, sustaining himself with an endless cycle of cannibalistic incest?”
+  - “Why don't you just say what you really mean? You think it's cool that having sex with her gives me telekinesis and you recognize she's got a hot bod like Cheetara in "Thundercats," but…”
+  - “I have intercepted sexual communications between you and my new girlfriend, Kiara.”
 - Violence & injury — 8 moment(s)
-  - 1 News Anchor: In local news, child murderer Joseph Eli Lipnip is scheduled to die tomorrow by lethal injection, his execution already drawing dozens more spectators than the death of TV news.
-  - Shall we resume stabbing?
-  - clearly regenerative! I-I think you have to stab them through the heart or something.
+  - “1 News Anchor: In local news, child murderer Joseph Eli Lipnip is scheduled to die tomorrow by lethal injection, his execution already drawing dozens more spectators than the death of TV news.”
+  - “Shall we resume stabbing?”
+  - “clearly regenerative! I-I think you have to stab them through the heart or something.”
   - Switchblade: “It's stab time! Together: Ooh! [ School bell rings .]”
-  - Also, I broke up with Kiara, and she didn't take it well, and she wants to murder you two.
+  - “Also, I broke up with Kiara, and she didn't take it well, and she wants to murder you two.”
   - Summer: “Not the bubble gun! There's no air -- [ Zap, bloop .]”
-  - I gotta say, I am warming up to the bubble gun.
-  - If anybody deserves to be telekinetically strangled, it's me.
+  - “I gotta say, I am warming up to the bubble gun.”
+  - “If anybody deserves to be telekinetically strangled, it's me.”
 - Swearing — 8 moment(s)
-  - Bitch, my generation gets traumatized for breakfast.
-  - Does it deserve to be sh*t on creatively? Yeah, that's right.
-  - We both saw Tommy's sh*tty play.
-  - Look at some of this sh*t you were asking me to make you as a kid.
-  - Ow! You can't run forever! She's really pissed off.
-  - God damn it, Dad! [ Grunts .]
-  - Aw, crap, I think Arnaldo's is closed.
-  - Listen, my boyfriend saw those texts you've been sending me, and he got pretty pissed off.
+  - “Bitch, my generation gets traumatized for breakfast.”
+  - “Does it deserve to be sh*t on creatively? Yeah, that's right.”
+  - “We both saw Tommy's sh*tty play.”
+  - “Look at some of this sh*t you were asking me to make you as a kid.”
+  - “Ow! You can't run forever! She's really pissed off.”
+  - “God damn it, Dad! [ Grunts .]”
+  - “Aw, crap, I think Arnaldo's is closed.”
+  - “Listen, my boyfriend saw those texts you've been sending me, and he got pretty pissed off.”
 - Alcohol & drugs — 1 moment(s)
-  - It's actually clean, like a cocaine house.
+  - “It's actually clean, like a cocaine house.”
 - Racism & slurs — 3 moment(s)
-  - you ended up racist.
-  - Now help me! First, I want you to admit that you're a closet racist, a beta-male sexist, and you dragged everyone into a horrible situation by only thinking of yourself.
-  - Dad! -Come on! Just rip the Band-Aid off! Okay! Kiara, when I told you my kids were bigoted racists who were demanding I break up with you, I lied.
+  - “you ended up racist.”
+  - “Now help me! First, I want you to admit that you're a closet racist, a beta-male sexist, and you dragged everyone into a horrible situation by only thinking of yourself.”
+  - “Dad! -Come on! Just rip the Band-Aid off! Okay! Kiara, when I told you my kids were bigoted racists who were demanding I break up with you, I lied.”
 
 ## S3 E10 — The Rickchurian Mortydate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0310.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Some kind of alien googa has infested the Kennedy Sex Tunnels.
-  - Just hard at work on this sex tunnel gagoo.
+  - “Some kind of alien googa has infested the Kennedy Sex Tunnels.”
+  - “Just hard at work on this sex tunnel gagoo.”
 - Porn / strippers / sex work — 1 moment(s)
-  - Kennedy Sex Tunnels? Naturally, you'll forget you saw them, along with, in order of national embarrassment, the Truman Cocaine Lounge, the McKinley Hooker Dump, and the Lincoln Slave Coliseum.
+  - “Kennedy Sex Tunnels? Naturally, you'll forget you saw them, along with, in order of national embarrassment, the Truman Cocaine Lounge, the McKinley Hooker Dump, and the Lincoln Slave Coliseum.”
 - Violence & injury — 3 moment(s)
-  - You committed murder in the Oval Office.
-  - Rick, don't get mad, but I-I stole your portal gun.
-  - You're here with a gun because I am a clone.
+  - “You committed murder in the Oval Office.”
+  - “Rick, don't get mad, but I-I stole your portal gun.”
+  - “You're here with a gun because I am a clone.”
 - Swearing — 12 moment(s)
-  - I thought young dumb people considered it an honor to work for presidents or whatever the sh*t.
-  - You lying dicks! I see your asses playing "Minecraft"! I got you on satellite! That's right.
-  - Yeah, but not because it contains America Because moving to a new version of Earth is a bitch and a half.
-  - Let's go make first contact before someone else gets all their sh*t.
-  - Apparently, you have a need to swing your dick around? Rick and Morty escaped.
-  - Why would Rick and Morty want that? Because they're a**holes! I'm flattered, but it takes a whole team to achieve what we did today.
-  - out of my office! You have the right to kiss my dick! Give me the thing.
-  - Maybe the first few times, but this just sucks.
-  - God damn it! I'll do it.
-  - What the hell?! I made Sanchez-eum up, dumbasses.
-  - Then say that, God damn it! Sorry.
-  - Uh, does China know about that deal-breaker? China doesn't piss on the White House.
+  - “I thought young dumb people considered it an honor to work for presidents or whatever the sh*t.”
+  - “You lying dicks! I see your asses playing "Minecraft"! I got you on satellite! That's right.”
+  - “Yeah, but not because it contains America Because moving to a new version of Earth is a bitch and a half.”
+  - “Let's go make first contact before someone else gets all their sh*t.”
+  - “Apparently, you have a need to swing your dick around? Rick and Morty escaped.”
+  - “Why would Rick and Morty want that? Because they're a**holes! I'm flattered, but it takes a whole team to achieve what we did today.”
+  - “out of my office! You have the right to kiss my dick! Give me the thing.”
+  - “Maybe the first few times, but this just sucks.”
+  - “God damn it! I'll do it.”
+  - “What the hell?! I made Sanchez-eum up, dumbasses.”
+  - “Then say that, God damn it! Sorry.”
+  - “Uh, does China know about that deal-breaker? China doesn't piss on the White House.”
 - Alcohol & drugs — 1 moment(s)
-  - Kennedy Sex Tunnels? Naturally, you'll forget you saw them, along with, in order of national embarrassment, the Truman Cocaine Lounge, the McKinley Hooker Dump, and the Lincoln Slave Coliseum.
+  - “Kennedy Sex Tunnels? Naturally, you'll forget you saw them, along with, in order of national embarrassment, the Truman Cocaine Lounge, the McKinley Hooker Dump, and the Lincoln Slave Coliseum.”
 
 ## S4 E1 — 1. Edge of Tomorty: Rick, Die, Rickpeat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0401.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Will you just go up? - Stop! - You're gonna make me die wrong! - Wait a minute, what? Morty, do you have a death crystal - in your pocket? - No! Maybe! You little monster! I thought you were masturbating!
-  - Aah! Impotent rage! - [WAILING, SOBBING.]
+  - “Will you just go up? - Stop! - You're gonna make me die wrong! - Wait a minute, what? Morty, do you have a death crystal - in your pocket? - No! Maybe! You little monster! I thought you were masturbating!”
+  - “Aah! Impotent rage! - [WAILING, SOBBING.]”
 - Nudity & bodies — 2 moment(s)
-  - Obviously, the most likely imposter - is the wet, naked clone.
-  - Jess-i-ca? A bunch of us girls were gonna go skinny-dipping later, if you wanted to join.
+  - “Obviously, the most likely imposter - is the wet, naked clone.”
+  - “Jess-i-ca? A bunch of us girls were gonna go skinny-dipping later, if you wanted to join.”
 - Violence & injury — 3 moment(s)
-  - Morty, do me a solid problematic wordplay aside grab the gun with the blue handle from the trunk and get a tissue sample from the corpse.
-  - That "yes" was pretty - [GUN COCKS.]
-  - I trust, the kind of strange that makes Rick and Morty - [GUN COCKS.]
+  - “Morty, do me a solid problematic wordplay aside grab the gun with the blue handle from the trunk and get a tissue sample from the corpse.”
+  - “That "yes" was pretty - [GUN COCKS.]”
+  - “I trust, the kind of strange that makes Rick and Morty - [GUN COCKS.]”
 - Swearing — 12 moment(s)
-  - …it?! Why would you steal a death crystal?! - I want to die old! - Then stop driving! - No! - You son of a bitch!
-  - That "yes" was pretty - [GUN COCKS.]
-  - I trust, the kind of strange that makes Rick and Morty - [GUN COCKS.]
-  - I ain't better than sh*t, Jack.
-  - Meeseeks! Kill this Nazi prick! Can do! - Come here, you son of a bitch! - No! Stop! [SHOUTING.]
-  - Goddamn it! When did this sh*t become the default?! [DOGS BARKING.]
-  - When you're born that big an a**hole, the least you can do is have a little empathy.
-  - Geez, you're really this pissed about my mom making sure I'm okay with our adventures?
-  - Truth is, anyone that knows how they're definitely gonna die is either boring as hell or about to get shot.
-  - What the hell? I axed this protocol.
-  - Damn it! How am I gonna die with her if I can't even talk to her? Here's an idea, Morty.
-  - Damn, Morty, you're bad at math, but I'm giving you an A-plus in confidence.
+  - “…it?! Why would you steal a death crystal?! - I want to die old! - Then stop driving! - No! - You son of a bitch!”
+  - “That "yes" was pretty - [GUN COCKS.]”
+  - “I trust, the kind of strange that makes Rick and Morty - [GUN COCKS.]”
+  - “I ain't better than sh*t, Jack.”
+  - “Meeseeks! Kill this Nazi prick! Can do! - Come here, you son of a bitch! - No! Stop! [SHOUTING.]”
+  - “Goddamn it! When did this sh*t become the default?! [DOGS BARKING.]”
+  - “When you're born that big an a**hole, the least you can do is have a little empathy.”
+  - “Geez, you're really this pissed about my mom making sure I'm okay with our adventures?”
+  - “Truth is, anyone that knows how they're definitely gonna die is either boring as hell or about to get shot.”
+  - “What the hell? I axed this protocol.”
+  - “Damn it! How am I gonna die with her if I can't even talk to her? Here's an idea, Morty.”
+  - “Damn, Morty, you're bad at math, but I'm giving you an A-plus in confidence.”
 - Racism & slurs — 1 moment(s)
-  - , racist, accusatory, Isaac Asimov bull[BLEEP.]
+  - “, racist, accusatory, Isaac Asimov bull[BLEEP.]”
 
 ## S4 E2 — 2. The Old Man and the Seat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0402.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - Then you know that a few years ago - I started getting into - Strap-on porn? Yes.
+  - “Then you know that a few years ago - I started getting into - Strap-on porn? Yes.”
 - Violence & injury — 6 moment(s)
-  - What would your girlfriend think of you murdering? I happen to be between relationships right now.
-  - Oh, well you came to the right place 'cause you're about to get a bullet sandwich on two slices of whole gun.
-  - Okay, w-w-what do you want? What do you want? Wait, this is seriously about sandwiches? I thought this was about drugs or guns or the fact that I'm a fly that runs a frog restaurant.
-  - Is there someone with a gun or It's on its way.
-  - Take us to whoever does, or w-w-we'll we'll punch you.
-  - Take it down, or we'll we'll we'll punch you.
+  - “What would your girlfriend think of you murdering? I happen to be between relationships right now.”
+  - “Oh, well you came to the right place 'cause you're about to get a bullet sandwich on two slices of whole gun.”
+  - “Okay, w-w-what do you want? What do you want? Wait, this is seriously about sandwiches? I thought this was about drugs or guns or the fact that I'm a fly that runs a frog restaurant.”
+  - “Is there someone with a gun or It's on its way.”
+  - “Take us to whoever does, or w-w-we'll we'll punch you.”
+  - “Take it down, or we'll we'll we'll punch you.”
 - Swearing — 9 moment(s)
-  - It will be when I find whoever sh*t in my toilet.
-  - You had your chance, dick.
-  - While your planet continues to dick around with a, uh what is their version of it called? Lovefinderrz, with two "R's" and a "Z.
-  - You're not gonna kill me? Don't tell me what to do! Now every time they play this song She say "This is my sh*t my sh*t" See the flick of my wrist, of my wrist - - And I know she know what's up Baby, this is my sh*t my…
-  - face out of your stupid a**hole.
-  - I'm gonna daughter your brains out, bitch.
-  - Don't talk to me like - Like I'm thirsty? Like I'm your mother, you childish prick.
-  - Summer Smith, let's get the hell out of here.
-  - What in the hell are you doing? - Parenting.
+  - “It will be when I find whoever sh*t in my toilet.”
+  - “You had your chance, dick.”
+  - “While your planet continues to dick around with a, uh what is their version of it called? Lovefinderrz, with two "R's" and a "Z.”
+  - “You're not gonna kill me? Don't tell me what to do! Now every time they play this song She say "This is my sh*t my sh*t" See the flick of my wrist, of my wrist - - And I know she know what's up Baby, this is my sh*t my…”
+  - “face out of your stupid a**hole.”
+  - “I'm gonna daughter your brains out, bitch.”
+  - “Don't talk to me like - Like I'm thirsty? Like I'm your mother, you childish prick.”
+  - “Summer Smith, let's get the hell out of here.”
+  - “What in the hell are you doing? - Parenting.”
 
 ## S4 E3 — 3. One Crew Over the Crewcoo's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0403.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Let's loop this corpse.
+  - “Let's loop this corpse.”
 - Swearing — 9 moment(s)
-  - …what? Is that an origami horse? It's a calling card from Miles Knightley, a heist artist, AKA a hipster dick whose adventures are 60% putting a crew together and 40% revealing that the robbery already happened, and…
-  - Rick Sanchez, you son of a bitch! Need some people for a thing, Glar.
-  - I quit! Augh! And the name's Glar! Sanchez, you son of a bitch.
-  - You sons of bitches.
-  - It's exactly that kind of sh*t that made us worry about regular Elon.
-  - sh*t! Alright.
-  - God damn it, Morty, what did I tell you? Rick, I-I want to say goodbye.
-  - That's my hell, Morty.
-  - God damn it, Morty, what did I tell you? That is something I should know, or at least something I should have predicted, which I did.
+  - “…what? Is that an origami horse? It's a calling card from Miles Knightley, a heist artist, AKA a hipster dick whose adventures are 60% putting a crew together and 40% revealing that the robbery already happened, and…”
+  - “Rick Sanchez, you son of a bitch! Need some people for a thing, Glar.”
+  - “I quit! Augh! And the name's Glar! Sanchez, you son of a bitch.”
+  - “You sons of bitches.”
+  - “It's exactly that kind of sh*t that made us worry about regular Elon.”
+  - “sh*t! Alright.”
+  - “God damn it, Morty, what did I tell you? Rick, I-I want to say goodbye.”
+  - “That's my hell, Morty.”
+  - “God damn it, Morty, what did I tell you? That is something I should know, or at least something I should have predicted, which I did.”
 - Alcohol & drugs — 1 moment(s)
-  - Aah! You stole the gem I needed to split tachyons and probably fenced it so the 80 people that did all the work could each buy a beer.
+  - “Aah! You stole the gem I needed to split tachyons and probably fenced it so the 80 people that did all the work could each buy a beer.”
 
 ## S4 E4 — 4. Claw and Hoarder: Special Ricktim's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0404.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - Who's this mysterious character? Shadow Jacker, you haven't come out of your masturbation cave in eons.
-  - I grow tired of eavesdropping and masturbating to the sounds you all make.
-  - Are these two gonna hook up? No, and only the lame fans want that.
-  - Who wants to be infused with, like, uh, unreasonable power? Oh, can I be, like, a sexy arrow-shooty lady? Yeah, whatever.
-  - Just want to clarify, are these real sex positions?
-  - Maybe we could try again? Look, to be honest, I'm kind of grossed out with the sexual nature of how everything unfolded.
-  - I didn't know how sexual dragons were.
+  - “Who's this mysterious character? Shadow Jacker, you haven't come out of your masturbation cave in eons.”
+  - “I grow tired of eavesdropping and masturbating to the sounds you all make.”
+  - “Are these two gonna hook up? No, and only the lame fans want that.”
+  - “Who wants to be infused with, like, uh, unreasonable power? Oh, can I be, like, a sexy arrow-shooty lady? Yeah, whatever.”
+  - “Just want to clarify, are these real sex positions?”
+  - “Maybe we could try again? Look, to be honest, I'm kind of grossed out with the sexual nature of how everything unfolded.”
+  - “I didn't know how sexual dragons were.”
 - Affairs / cheating — 1 moment(s)
-  - How about 50 bucks? You weary of 50 bucks? I'm trying to cheat on my wife.
+  - “How about 50 bucks? You weary of 50 bucks? I'm trying to cheat on my wife.”
 - Swearing — 7 moment(s)
   - WOMAN: “Oh, gross! Who sh*t in the sand? Someone took a small sh*t in the sand and buried it with, like, two little kicks and just left it here like a land mine.”
-  - Well, I sleep on an extra big pile of awesome sh*t.
-  - are you, bitch? Debrah, stop.
-  - Oh, son of a bitch.
-  - Ha! Ha! Oh, crap.
-  - What the hell else are you hoarding down here? Cha-ching.
-  - What the hell? Taylor Swift pumping her hands in the air? - What does it mean when - It means you're lame.
+  - “Well, I sleep on an extra big pile of awesome sh*t.”
+  - “are you, bitch? Debrah, stop.”
+  - “Oh, son of a bitch.”
+  - “Ha! Ha! Oh, crap.”
+  - “What the hell else are you hoarding down here? Cha-ching.”
+  - “What the hell? Taylor Swift pumping her hands in the air? - What does it mean when - It means you're lame.”
 - Slut-shaming — 4 moment(s)
-  - You slut dragon! - What the [BLEEP.]
-  - ! - You slut.
-  - All dragons are sluts deep down, even the ones up above, but we would have to kill the wizard to be free.
-  - We've never had enough sluts to defeat the wizard.
+  - “You slut dragon! - What the [BLEEP.]”
+  - “! - You slut.”
+  - “All dragons are sluts deep down, even the ones up above, but we would have to kill the wizard to be free.”
+  - “We've never had enough sluts to defeat the wizard.”
 
 ## S4 E5 — 5. Rattlestar Ricklactica
 URL: https://watchwiththekids.com/ep/rick-and-morty/0405.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Aw, man, I-I wanted to go to Boob World.
-  - You want to go to Boob World, Summer? Eh, not today.
+  - “Aw, man, I-I wanted to go to Boob World.”
+  - “You want to go to Boob World, Summer? Eh, not today.”
 - Affairs / cheating — 1 moment(s)
-  - Then where is he? Maybe he's having an affair.
+  - “Then where is he? Maybe he's having an affair.”
 - Violence & injury — 1 moment(s)
-  - …of removing all the air from your body and making you float around it for eternity as a flash-mummified corpse, which is also what space wants, so get back in the car.
+  - “…of removing all the air from your body and making you float around it for eternity as a flash-mummified corpse, which is also what space wants, so get back in the car.”
 - Swearing — 12 moment(s)
-  - But for real, has anyone seen him? Grandpa, did you trap him in a painting again? I didn't do sh*t.
-  - Merry Christmas, bitch.
-  - Ah, you little son of a bitch.
-  - Hey, it's it's Slippy! Keep up, sh*t bag.
-  - Hey, a**holes.
-  - Hey, guess what, a**hole.
-  - How the hell do you get a flat tire in space, Rick? Obviously from a sharp thing in space, Morty.
-  - Ah! - God damn it.
-  - Ow! Damn it, Slippy, come on.
-  - Oh, crap, he's gonna die.
-  - Real talk, buddy, where you at? - Go to hell, Rick.
-  - Geez, your dad sucks.
+  - “But for real, has anyone seen him? Grandpa, did you trap him in a painting again? I didn't do sh*t.”
+  - “Merry Christmas, bitch.”
+  - “Ah, you little son of a bitch.”
+  - “Hey, it's it's Slippy! Keep up, sh*t bag.”
+  - “Hey, a**holes.”
+  - “Hey, guess what, a**hole.”
+  - “How the hell do you get a flat tire in space, Rick? Obviously from a sharp thing in space, Morty.”
+  - “Ah! - God damn it.”
+  - “Ow! Damn it, Slippy, come on.”
+  - “Oh, crap, he's gonna die.”
+  - “Real talk, buddy, where you at? - Go to hell, Rick.”
+  - “Geez, your dad sucks.”
 - Racism & slurs — 1 moment(s)
-  - How funny is that? Imagine being a racist snake.
+  - “How funny is that? Imagine being a racist snake.”
 - Slut-shaming — 1 moment(s)
-  - Yeah, it's fun until it's you, - huh, sh*t nog? - Yeah, have fun sewing those snake costumes together, - you little tramp.
+  - “Yeah, it's fun until it's you, - huh, sh*t nog? - Yeah, have fun sewing those snake costumes together, - you little tramp.”
 
 ## S4 E6 — 6. Never Ricking Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0406.html

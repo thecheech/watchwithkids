@@ -52,27 +52,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Back in the Candy Kingdom, Princess Bubblegum is in her castle loading her candy gun when her chair and her other things start disappearing and she falls down.",
+            "how": "Finn punches himself.",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Back in the Candy Kingdom, Princess Bubblegum is in her castle loading her candy gun when her chair and her other things start disappearing and she falls down.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Ice King",
-                "text": "[The tranquilizer darts disappears and so does the gun, making Ice King healthy again.]",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -80,6 +64,22 @@
                 "mode": "on-screen",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Back in the Candy Kingdom, Princess Bubblegum is in her castle loading her candy gun when her chair and her other things start disappearing and she falls down.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Ice King",
+                "text": "[The tranquilizer darts disappears and so does the gun, making Ice King healthy again.]",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
               }
             ]
           }
@@ -89,7 +89,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Back in the Candy Kingdom, Princess Bubblegum is in her castle loading her candy gun when her chair and her other things start disappearing and she falls down."
+        "Violence & injury — Finn punches himself."
       ],
       "notes": null,
       "flags": [],
@@ -123,16 +123,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Dirt Beer Guy",
+            "how": "“Dirt Beer Guy”",
             "count": 2,
             "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Dirt Beer Guy",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
@@ -152,7 +152,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Dirt Beer Guy"
+        "Alcohol & drugs — “Dirt Beer Guy”"
       ],
       "notes": null,
       "flags": [],
@@ -412,19 +412,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Jake: “Whoa, did you have a real gun all this time?”",
+            "how": "BMO: “The plan is to punch the toads to the stump and bring justice to the peeps!”",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Jake",
-                "text": "Whoa, did you have a real gun all this time?",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "quote",
                 "speaker": "BMO",
@@ -432,6 +424,14 @@
                 "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Jake",
+                "text": "Whoa, did you have a real gun all this time?",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           }
@@ -441,7 +441,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Jake: “Whoa, did you have a real gun all this time?”"
+        "Violence & injury — BMO: “The plan is to punch the toads to the stump and bring justice to the peeps!”"
       ],
       "notes": null,
       "flags": [],
@@ -1037,7 +1037,7 @@
             "group": "violence",
             "how": "SMO 4: “Yeah. You know the world these days. All goofs. [SMO 4 takes his gun and gets donuts out of the vending machine with it.]”",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -1045,7 +1045,7 @@
                 "speaker": "SMO 4",
                 "text": "Yeah. You know the world these days. All goofs. [SMO 4 takes his gun and gets donuts out of the vending machine with it.]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -1053,7 +1053,7 @@
                 "speaker": null,
                 "text": "SMO 6 still charges his laser gun",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -1452,28 +1452,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Ice King: “[Puts on Finn's hat like a bra and lays down; he starts waving his hand] I'm sorry...”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Ice King",
-                "text": "[Puts on Finn's hat like a bra and lays down; he starts waving his hand] I'm sorry...",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -1498,7 +1479,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Ice King: “[Puts on Finn's hat like a bra and lays down; he starts waving his hand] I'm sorry...”",
         "Violence & injury — Jake: “Kompy's blood lust meter's goin' down.”"
       ],
       "notes": null,
@@ -1527,36 +1507,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "He is now wearing nothing but his backpack, hat, grass sword on his wrist, and his red-and-white underwear.",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "He is now wearing nothing but his backpack, hat, grass sword on his wrist, and his red-and-white underwear.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "He runs at the ocean in his underwear, screaming, then runs away. He shivers and pants from fright.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -1589,7 +1542,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — He is now wearing nothing but his backpack, hat, grass sword on his wrist, and his red-and-white underwear.",
         "Violence & injury — Billy grabs the monster by the face and throws him upward. He jumps up after it, punches it away, then lands with a thud."
       ],
       "notes": null,
@@ -1721,34 +1673,15 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "…face first into the massage chair, which tips over and activates while Finn is stuck upside down in his underwear.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "…face first into the massage chair, which tips over and activates while Finn is stuck upside down in his underwear.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
             "how": "The scene changes to the Candy Kingdom, where Princess Bubblegum is riding through the streets on a hoverboard wearing a siren hat and carrying a laser gun and a megaphone.",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -1756,7 +1689,7 @@
                 "speaker": null,
                 "text": "The scene changes to the Candy Kingdom, where Princess Bubblegum is riding through the streets on a hoverboard wearing a siren hat and carrying a laser gun and a megaphone.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -1764,7 +1697,7 @@
                 "speaker": "Princess Bubblegum",
                 "text": "Bwee-woo-bwee-woo! This is a drill! [She shoots a house with her laser gun and the wall explodes.] I repeat, this is a drill! [She shoots another house.]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -1772,7 +1705,7 @@
                 "speaker": "Ice King",
                 "text": "It's about time us young guns took the reins.",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -1783,7 +1716,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — …face first into the massage chair, which tips over and activates while Finn is stuck upside down in his underwear.",
         "Violence & injury — The scene changes to the Candy Kingdom, where Princess Bubblegum is riding through the streets on a hoverboard wearing a siren hat and carrying a laser gun and a megaphone."
       ],
       "notes": null,
@@ -1819,16 +1751,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Naked Old People",
+            "how": "“Naked Old People”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Naked Old People",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1882,7 +1814,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Naked Old People",
+        "Nudity & bodies — “Naked Old People”",
         "Violence & injury — This article is a transcript of the Adventure Time episode \"Blood Under the Skin\" from season 2, which aired on November 1, 2010."
       ],
       "notes": null,
@@ -2000,7 +1932,7 @@
             "group": "violence",
             "how": "…moment to hit a large boulder that is next to a skeleton dressed in hunting gear, smashing it and firing a gun shot that hits a standing tree trunk and falls into the river next to the waterfall that BMO and the Baby…",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -2008,7 +1940,7 @@
                 "speaker": null,
                 "text": "…moment to hit a large boulder that is next to a skeleton dressed in hunting gear, smashing it and firing a gun shot that hits a standing tree trunk and falls into the river next to the waterfall that BMO and the Baby…",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -2563,19 +2495,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "He puts his hands in a gun-like position.",
+            "how": "Finn: “[Finn lifts a wooden log and finds a red substance.] Dude, check this! [Jake walks over.] Is this blood?”",
             "count": 5,
             "intensity": 2,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "He puts his hands in a gun-like position.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "early"
-              },
               {
                 "kind": "quote",
                 "speaker": "Finn",
@@ -2595,9 +2519,17 @@
               {
                 "kind": "note",
                 "speaker": null,
+                "text": "He puts his hands in a gun-like position.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
                 "text": "Scene changes to inside of the train. Finn and Jake enter through the back door's window and run to the shady man they saw earlier. Finn has his hands in a gun-like position.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -2616,7 +2548,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — He puts his hands in a gun-like position."
+        "Violence & injury — Finn: “[Finn lifts a wooden log and finds a red substance.] Dude, check this! [Jake walks over.] Is this blood?”"
       ],
       "notes": null,
       "flags": [],
@@ -2805,19 +2737,19 @@
                 "at": "mid"
               },
               {
-                "kind": "note",
-                "speaker": null,
-                "text": "PB immediately shoots her stake gun at the King, who catches it in his hand.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
                 "kind": "quote",
                 "speaker": "Vampire King",
                 "text": "I wouldn't. I submit. [kneeling down, placing hands behind back] Take the vampire essence from my blood. Free me from the shackles of my station.",
                 "mode": "dialogue",
                 "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "PB immediately shoots her stake gun at the King, who catches it in his hand.",
+                "mode": "on-screen",
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -2910,16 +2842,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Dirt Beer Guy",
+            "how": "“Dirt Beer Guy”",
             "count": 2,
             "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Dirt Beer Guy",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
@@ -2939,7 +2871,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Dirt Beer Guy"
+        "Alcohol & drugs — “Dirt Beer Guy”"
       ],
       "notes": null,
       "flags": [],
@@ -3080,22 +3012,6 @@
                 "at": "late"
               },
               {
-                "kind": "note",
-                "speaker": null,
-                "text": "Penny puts the chest down. She pulls out a black crooked knife.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Penny",
-                "text": "She pulls her black crooked knife out.]",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
                 "kind": "quote",
                 "speaker": "Jake",
                 "text": "And then I'm gonna beat your purity outta them. [lightly punches Finn] And then beat a sandwich into them! [grunts while throwing air punches] And then beat them to the punch! And then punch 'em!",
@@ -3110,6 +3026,22 @@
                 "mode": "on-screen",
                 "intensity": 1,
                 "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Penny puts the chest down. She pulls out a black crooked knife.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Penny",
+                "text": "She pulls her black crooked knife out.]",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
               },
               {
                 "kind": "quote",
@@ -3217,7 +3149,7 @@
             "group": "violence",
             "how": "Duke of Nuts: “Um, excuse me? Excuse me. Princess, if I may. I think I have a plan that'll put an end to all this tonight. I just need a Bowie knife, a snowmobile, a parachute, rubber gloves, and, uh... [interrupted by Lemongrab]”",
             "count": 5,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -3225,7 +3157,7 @@
                 "speaker": "Duke of Nuts",
                 "text": "Um, excuse me? Excuse me. Princess, if I may. I think I have a plan that'll put an end to all this tonight. I just need a Bowie knife, a snowmobile, a parachute, rubber gloves, and, uh... [interrupted by Lemongrab]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -3374,7 +3306,7 @@
             "group": "violence",
             "how": "Jake is hanging from the ceiling from his feet, holding Finn's feet. Finn is holding BMO's feet, and BMO is blindfolded and holding a knife. They are spinning in a circular motion.",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -3382,7 +3314,7 @@
                 "speaker": null,
                 "text": "Jake is hanging from the ceiling from his feet, holding Finn's feet. Finn is holding BMO's feet, and BMO is blindfolded and holding a knife. They are spinning in a circular motion.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -3390,7 +3322,7 @@
                 "speaker": null,
                 "text": "BMO hits a poster with his knife. The poster says \"Headmaster: The Final Lesson\", and it shows an angry man in a suit.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -3896,24 +3828,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Jake stretches himself and Finn over to the escalator in front of a skeleton with a knife in it’s skull.",
+            "how": "Finn: “And then the monster got punched in the head and the princess was safe. And everyone was happy!”",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Jake stretches himself and Finn over to the escalator in front of a skeleton with a knife in it’s skull.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "early"
-              },
               {
                 "kind": "quote",
                 "speaker": "Finn",
                 "text": "And then the monster got punched in the head and the princess was safe. And everyone was happy!",
                 "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Jake stretches himself and Finn over to the escalator in front of a skeleton with a knife in it’s skull.",
+                "mode": "on-screen",
                 "intensity": 1,
                 "at": "early"
               },
@@ -3942,7 +3874,7 @@
       },
       "examples": [
         "Sex & hookups — Camera pans out to reveal she is talking to a group of vegetables that are hooked up to electronic devices. Princess Bubblegum sighs.",
-        "Violence & injury — Jake stretches himself and Finn over to the escalator in front of a skeleton with a knife in it’s skull."
+        "Violence & injury — Finn: “And then the monster got punched in the head and the princess was safe. And everyone was happy!”"
       ],
       "notes": null,
       "flags": [],
@@ -5010,7 +4942,7 @@
             "group": "violence",
             "how": "Farmworld Marceline: “[She comes out from behind the missile and cocks her gun] Hold it right there!”",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -5018,7 +4950,7 @@
                 "speaker": "Farmworld Marceline",
                 "text": "[She comes out from behind the missile and cocks her gun] Hold it right there!",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -5026,7 +4958,7 @@
                 "speaker": "Farmworld Marceline",
                 "text": "I'm sorry. You must DIEEEE! [A laser beam is fired from the gun]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -5284,7 +5216,7 @@
                 "speaker": null,
                 "text": "♪ Rode to town with my guns blazing ♪",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -6035,11 +5967,19 @@
                 "at": "late"
               },
               {
+                "kind": "note",
+                "speaker": null,
+                "text": "Clarence's soul leaves what's left of his body, with Softy Cheese splattered all over the place like blood.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
                 "kind": "quote",
                 "speaker": "Finn",
                 "text": "[Picks up broken dagger] What's this? A busted knife.",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -6047,15 +5987,7 @@
                 "speaker": null,
                 "text": "Finn [In flashback]: Is this your knife, bro?",
                 "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Clarence's soul leaves what's left of his body, with Softy Cheese splattered all over the place like blood.",
-                "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -6442,7 +6374,7 @@
             "group": "violence",
             "how": "Gunter draws a knife.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -6450,7 +6382,7 @@
                 "speaker": null,
                 "text": "Gunter draws a knife.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -6763,28 +6695,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Marceline: “Hey, Finn. You thinkin' about how that guy's bow tie sorta looked like a bra?”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Marceline",
-                "text": "Hey, Finn. You thinkin' about how that guy's bow tie sorta looked like a bra?",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -6841,7 +6754,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Marceline: “Hey, Finn. You thinkin' about how that guy's bow tie sorta looked like a bra?”",
         "Violence & injury — Finn: “I'm gonna murder you.”"
       ],
       "notes": null,
@@ -7051,7 +6963,7 @@
             "group": "violence",
             "how": "Do y'all have any guns?",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -7059,7 +6971,7 @@
                 "speaker": null,
                 "text": "Do y'all have any guns?",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -8423,11 +8335,19 @@
                 "at": "mid"
               },
               {
+                "kind": "quote",
+                "speaker": "Jake",
+                "text": "[Punching the meatbag] Eat this! And that! Ooh, how do you like this, Princess! Duoo!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
                 "kind": "note",
                 "speaker": null,
                 "text": "Me-mow spits a knife out of her throat, and climbs down a tree, same as previous style. She puts a small cut in Finn's leg",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               },
               {
@@ -8435,16 +8355,8 @@
                 "speaker": null,
                 "text": "Me-mow jumps at Finn's face, but he blows her away knocking her into a tree. Finn goes up to pin her to the tree, she puts her knife out and Finn puts his hand on it. He grunts but holds her",
                 "mode": "on-screen",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Jake",
-                "text": "[Punching the meatbag] Eat this! And that! Ooh, how do you like this, Princess! Duoo!",
-                "mode": "dialogue",
                 "intensity": 1,
-                "at": "mid"
+                "at": "late"
               },
               {
                 "kind": "quote",
@@ -8729,7 +8641,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "Cut to the ceiling, where Ariel stabs an arm down at Jermaine.",
-            "count": 7,
+            "count": 6,
             "intensity": 3,
             "mode": "on-screen",
             "instances": [
@@ -8739,14 +8651,6 @@
                 "text": "Cut to the ceiling, where Ariel stabs an arm down at Jermaine.",
                 "mode": "on-screen",
                 "intensity": 3,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Jake",
-                "text": "[While pouring fried rice onto each of the plates,] Du-u-ump! [He then places what appears to be a carved-radish flower on each plate with each syllable,] Pre-sen-tation. [He hands Jermaine a knife and fork.]",
-                "mode": "dialogue",
-                "intensity": 2,
                 "at": "mid"
               },
               {
@@ -8831,19 +8735,11 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "She's just changing. I will help her! There you are. Help me zip up my bra. Yes, milady! Pardon my late arrival, dear peasants. One is simply helpless without good help around.",
-            "count": 2,
+            "how": "Hmm, theoretically that could work, but it would take the bravest little heart the world has ever known. Behold my naked innards! And the heart of a hero!",
+            "count": 1,
             "intensity": 1,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "She's just changing. I will help her! There you are. Help me zip up my bra. Yes, milady! Pardon my late arrival, dear peasants. One is simply helpless without good help around.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -8860,7 +8756,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — She's just changing. I will help her! There you are. Help me zip up my bra. Yes, milady! Pardon my late arrival, dear peasants. One is simply helpless without good help around."
+        "Nudity & bodies — Hmm, theoretically that could work, but it would take the bravest little heart the world has ever known. Behold my naked innards! And the heart of a hero!"
       ],
       "notes": null,
       "flags": [],
@@ -9070,7 +8966,7 @@
             "group": "violence",
             "how": "Lady Rainicorn: “그놈이 칼을 들고 덤비면 어떡해요?! (\"What if he attacks you with a knife?!\")”",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -9078,7 +8974,7 @@
                 "speaker": "Lady Rainicorn",
                 "text": "그놈이 칼을 들고 덤비면 어떡해요?! (\"What if he attacks you with a knife?!\")",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -9086,7 +8982,7 @@
                 "speaker": "Princess Bubblegum",
                 "text": "[Pulls out her Electrode Gun.] Then I'll pull out my Electrode gun.",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -9094,7 +8990,7 @@
                 "speaker": "Princess Bubblegum",
                 "text": "Don't worry, Lady! [Prepares gun] Ball Blam Burglerber-ber!",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -9321,23 +9217,23 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Candy Sheriff: “[comes out of saloon] [imitates guns cocking]”",
+            "how": "Cream Puff Gentleman: “[running out of alley] Nyaaaaaaang! [comes up to a horse in front of a saloon] [The horse blows a raspberry at him] Nyang? [punches the horse, knocking it over]”",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
                 "kind": "quote",
-                "speaker": "Candy Sheriff",
-                "text": "[comes out of saloon] [imitates guns cocking]",
+                "speaker": "Cream Puff Gentleman",
+                "text": "[running out of alley] Nyaaaaaaang! [comes up to a horse in front of a saloon] [The horse blows a raspberry at him] Nyang? [punches the horse, knocking it over]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
                 "kind": "quote",
-                "speaker": "Cream Puff Gentleman",
-                "text": "[running out of alley] Nyaaaaaaang! [comes up to a horse in front of a saloon] [The horse blows a raspberry at him] Nyang? [punches the horse, knocking it over]",
+                "speaker": "Candy Sheriff",
+                "text": "[comes out of saloon] [imitates guns cocking]",
                 "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
@@ -9366,7 +9262,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Candy Sheriff: “[comes out of saloon] [imitates guns cocking]”"
+        "Violence & injury — Cream Puff Gentleman: “[running out of alley] Nyaaaaaaang! [comes up to a horse in front of a saloon] [The horse blows a raspberry at him] Nyang? [punches the horse, knocking it over]”"
       ],
       "notes": null,
       "flags": [],
@@ -10000,38 +9896,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "You saw my underwear! You're —— [Laughs]",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "You saw my underwear! You're —— [Laughs]",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — You saw my underwear! You're —— [Laughs]"
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -10287,19 +10160,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Finn: “[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!”",
+            "how": "Finn fends off a few and Jake grabs a bunch and punches them.",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Finn",
-                "text": "[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -10307,6 +10172,14 @@
                 "mode": "on-screen",
                 "intensity": 1,
                 "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Finn",
+                "text": "[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
               },
               {
                 "kind": "quote",
@@ -10325,7 +10198,7 @@
       },
       "examples": [
         "Nudity & bodies — Lady Rainicorn: “What could it have been? Ah! Do you remember when we got completely naked, and frantically ran around in the farmer's cabbage patch?”",
-        "Violence & injury — Finn: “[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!”"
+        "Violence & injury — Finn fends off a few and Jake grabs a bunch and punches them."
       ],
       "notes": null,
       "flags": [],
@@ -10416,7 +10289,7 @@
             "group": "violence",
             "how": "The scene cuts to Tree Trunks holding a knife in her mouth, being tied around her stomach with the bottom half of Ice King's robe.",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -10424,7 +10297,7 @@
                 "speaker": null,
                 "text": "The scene cuts to Tree Trunks holding a knife in her mouth, being tied around her stomach with the bottom half of Ice King's robe.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -10432,7 +10305,7 @@
                 "speaker": null,
                 "text": "A knife pokes through from the inside, creates a line and Tree Trunks pops her head out of the fish's body.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -10586,46 +10459,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Peppermint Butler: “One more thing. Show us your underwear.”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Peppermint Butler",
-                "text": "One more thing. Show us your underwear.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "late"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Peace Master",
-                "text": "You fiend. [his underwear showing, his son laughs]",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — Peppermint Butler: “One more thing. Show us your underwear.”"
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -10834,7 +10676,7 @@
                 "speaker": "Sir Soda",
                 "text": "C’mon! [Raises knife] Now’s our chance to act!",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               },
               {
@@ -10842,7 +10684,7 @@
                 "speaker": "See-Thru Princess",
                 "text": "Shut your blowholes! [Takes Sir Soda’s knife] You trapped my best friend in there to die. Shame!",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -11020,7 +10862,7 @@
             "group": "violence",
             "how": "The three Koala rebels cock their guns. The other two guards drop their spears and raise their hands in surrender. The small Koala chained to Martin smiles.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -11028,7 +10870,7 @@
                 "speaker": null,
                 "text": "The three Koala rebels cock their guns. The other two guards drop their spears and raise their hands in surrender. The small Koala chained to Martin smiles.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -11421,27 +11263,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Gnome Ruler: “Fire the shootey gun-ray!!”",
+            "how": "The stranger is shown outside of the treehouse. Finn is shown sleeping and then is kidnapped by the stranger. Scene shifts to the next morning; a rooster crows. Jake is sleeping and his gut punches him awake.",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Gnome Ruler",
-                "text": "Fire the shootey gun-ray!!",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Jake",
-                "text": "HIGH-FIVE!! [Smashes gun]",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -11457,6 +11283,22 @@
                 "mode": "on-screen",
                 "intensity": 1,
                 "at": "late"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Gnome Ruler",
+                "text": "Fire the shootey gun-ray!!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Jake",
+                "text": "HIGH-FIVE!! [Smashes gun]",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           }
@@ -11467,7 +11309,7 @@
       },
       "examples": [
         "Sex & hookups — Gnome Ruler: “Congratulations. You fully charged the Alternator! Now it's time to power up the Plasma Ball... with sexy, fun dancing!”",
-        "Violence & injury — Gnome Ruler: “Fire the shootey gun-ray!!”"
+        "Violence & injury — The stranger is shown outside of the treehouse. Finn is shown sleeping and then is kidnapped by the stranger. Scene shifts to the next morning; a rooster crows. Jake is sleeping and his gut punches him awake."
       ],
       "notes": null,
       "flags": [],
@@ -11566,7 +11408,7 @@
             "group": "violence",
             "how": "It's no good.My guns are barkin'.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -11574,7 +11416,7 @@
                 "speaker": null,
                 "text": "It's no good.My guns are barkin'.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -11654,7 +11496,7 @@
             "group": "violence",
             "how": "Lumpy Space Princess: “[cutting the pancake walls with a knife, muttering] Lousy Breakfast Princess. Pamplemousse. What is that even?”",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -11662,7 +11504,7 @@
                 "speaker": "Lumpy Space Princess",
                 "text": "[cutting the pancake walls with a knife, muttering] Lousy Breakfast Princess. Pamplemousse. What is that even?",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -11670,7 +11512,7 @@
                 "speaker": "Lumpy Space Princess",
                 "text": "[scene changes back to her and Marceline, who are in the breakfast car, Lumpy Space Princess tries to start it with her knife, the engine turns over]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -12002,7 +11844,7 @@
             "group": "violence",
             "how": "The episode starts with a quick scene outside the Tree Fort where a Knife storm is going on.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -12010,7 +11852,7 @@
                 "speaker": null,
                 "text": "The episode starts with a quick scene outside the Tree Fort where a Knife storm is going on.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -12076,7 +11918,7 @@
             "group": "violence",
             "how": "Jake: “[Examining] Hmmm... [Knives fall from the clouds and Jake gasps.] Finn... it's a knife storm!! [Finn slaps Jake's nose yet again] It's raining knives, man! Come on! [Exits]”",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -12084,7 +11926,7 @@
                 "speaker": "Jake",
                 "text": "[Examining] Hmmm... [Knives fall from the clouds and Jake gasps.] Finn... it's a knife storm!! [Finn slaps Jake's nose yet again] It's raining knives, man! Come on! [Exits]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -12092,7 +11934,7 @@
                 "speaker": "Finn",
                 "text": "I've never seen a knife storm before... It's beautiful.",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -12148,28 +11990,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Finn: “I hope you're wearing underwear.”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Finn",
-                "text": "I hope you're wearing underwear.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -12194,7 +12017,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Finn: “I hope you're wearing underwear.”",
         "Violence & injury — Rattleballs: “I no longer crave mindless violence. I have found peace in meditation, gardening, egg throwing. I also hope time has made you less bloodthirsty, princess, but do with me as you will. In my heart I still serve you, 100%.”"
       ],
       "notes": null,
@@ -12231,7 +12053,7 @@
             "group": "violence",
             "how": "Net gun fires",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -12239,7 +12061,7 @@
                 "speaker": null,
                 "text": "Net gun fires",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -12247,7 +12069,7 @@
                 "speaker": null,
                 "text": "Sorry.[ Net gun fires ]",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -12855,7 +12677,7 @@
             "group": "violence",
             "how": "Finn: “Arm wrestling, huh? I see what you did there. My guns are obviously weak as heck from climbing that greasy pole. If only I had some kind of [Whirrs] superhuman robot arm. Bam!”",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -12863,7 +12685,7 @@
                 "speaker": "Finn",
                 "text": "Arm wrestling, huh? I see what you did there. My guns are obviously weak as heck from climbing that greasy pole. If only I had some kind of [Whirrs] superhuman robot arm. Bam!",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -13564,7 +13386,7 @@
             "group": "violence",
             "how": "Son of Rap Bear: “[Rapping] ♪ I guess there was that fire guy that wanted to marry you ♪ ♪ Was it Don Jon with the big guns? ♪ ♪ Oh, but you're not into macho men, are you? ♪ ♪ You like 'em soft and round like cinnamon-flavored buns ♪”",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -13572,7 +13394,7 @@
                 "speaker": "Son of Rap Bear",
                 "text": "[Rapping] ♪ I guess there was that fire guy that wanted to marry you ♪ ♪ Was it Don Jon with the big guns? ♪ ♪ Oh, but you're not into macho men, are you? ♪ ♪ You like 'em soft and round like cinnamon-flavored buns ♪",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -13693,7 +13515,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "The pig is soon disturbed, opening its eyes as Ice King attempts to eat it by stabbing it with a spoon",
-            "count": 2,
+            "count": 1,
             "intensity": 3,
             "mode": "on-screen",
             "instances": [
@@ -13703,14 +13525,6 @@
                 "text": "The pig is soon disturbed, opening its eyes as Ice King attempts to eat it by stabbing it with a spoon",
                 "mode": "on-screen",
                 "intensity": 3,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Ice King takes out a knife and fork",
-                "mode": "on-screen",
-                "intensity": 2,
                 "at": "mid"
               }
             ]
@@ -13746,46 +13560,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Ice King: “No! Gunter, no! This one likes to break bottles, don't ya? [Ice King tucks bottle into his underwear] Tuck-ety tuck! Let's move to the living room.”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Ice King",
-                "text": "No! Gunter, no! This one likes to break bottles, don't ya? [Ice King tucks bottle into his underwear] Tuck-ety tuck! Let's move to the living room.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Ice King",
-                "text": "Huh, in this economy? [Drops key into underwear] Ah, I'm gonna go make some lemonade. [Walks off]",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — Ice King: “No! Gunter, no! This one likes to break bottles, don't ya? [Ice King tucks bottle into his underwear] Tuck-ety tuck! Let's move to the living room.”"
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -14139,7 +13922,7 @@
             "group": "violence",
             "how": "Farmer: “What's all the ruckus?! I own this pasture, so get back in your vehicle and get! [shakes his gun in the air]”",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -14147,7 +13930,7 @@
                 "speaker": "Farmer",
                 "text": "What's all the ruckus?! I own this pasture, so get back in your vehicle and get! [shakes his gun in the air]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -14155,7 +13938,7 @@
                 "speaker": "Ice King",
                 "text": "We can't! Our wheels fell off! [the farmer gets ready to fire his gun, Ice King gasps] Back on the vehicle. I'll make a slick ice road. [uses his powers and starts making a road, the bus takes off]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -14201,27 +13984,11 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Keep your panties on,",
-            "count": 4,
+            "how": "FIONNA: “Come on. Weren't you young and naked once?”",
+            "count": 2,
             "intensity": 1,
             "mode": "dialogue",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Keep your panties on,",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "your panties",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
               {
                 "kind": "quote",
                 "speaker": "FIONNA",
@@ -14246,7 +14013,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Keep your panties on,"
+        "Nudity & bodies — FIONNA: “Come on. Weren't you young and naked once?”"
       ],
       "notes": null,
       "flags": [],
@@ -14306,36 +14073,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Martin: “Here. [holds out underwear] Grab on this.”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Martin",
-                "text": "Here. [holds out underwear] Grab on this.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Finn",
-                "text": "Oh, yeah. [Finn reaches out to grab the underwear, and Martin pulls him up into the moth's mouth with him, grunting.]",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -14368,7 +14108,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Martin: “Here. [holds out underwear] Grab on this.”",
         "Violence & injury — Finn opens his eyes and sees tendrils snaking out of the walls of Orgalorg's insides and stabbing the comet, sucking up its power."
       ],
       "notes": null,
@@ -14635,7 +14374,7 @@
             "group": "violence",
             "how": "Jake: “Nah, we're more like cops. Crooked cops! [Jake makes a gun with his fingers and pretends to shoot something.]”",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -14643,7 +14382,7 @@
                 "speaker": "Jake",
                 "text": "Nah, we're more like cops. Crooked cops! [Jake makes a gun with his fingers and pretends to shoot something.]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -15217,7 +14956,7 @@
                 "speaker": null,
                 "text": "Fionna beheads three warriors with a laser gun attached to her right arm",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -15256,28 +14995,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "BMO: “How do you like my bandeau? I was too embarrassed to get a bra fitting. I know they are professionals, but it’s just too intimate.”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "BMO",
-                "text": "How do you like my bandeau? I was too embarrassed to get a bra fitting. I know they are professionals, but it’s just too intimate.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -15299,7 +15019,7 @@
                 "speaker": "Mr. Cupcake",
                 "text": "Eh? Not enough? You need to feel them guns?",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -15318,7 +15038,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — BMO: “How do you like my bandeau? I was too embarrassed to get a bra fitting. I know they are professionals, but it’s just too intimate.”",
         "Violence & injury — Finn: “You can just do your own thing with it. Like, if some huge gross monster’s gonna do murder on a buncha innocents, uh, kill it! But kill it you-styles. Just don’t go nuts.”"
       ],
       "notes": null,
@@ -15605,7 +15324,7 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "sh*t! I'm sorry.",
+            "how": "Shit! I'm sorry.",
             "count": 3,
             "intensity": 2,
             "mode": "implied",
@@ -15613,7 +15332,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "sh*t! I'm sorry.",
+                "text": "Shit! I'm sorry.",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
@@ -15661,7 +15380,7 @@
       },
       "examples": [
         "Sex & hookups — Uh... Why do you, sexy?",
-        "Swearing — sh*t! I'm sorry.",
+        "Swearing — Shit! I'm sorry.",
         "Alcohol & drugs — you're drunk and not thinking clearly."
       ],
       "notes": null,
@@ -15981,7 +15700,7 @@
                 "speaker": "Bandit Butterfly",
                 "text": "Right the bazoobs now! [Pulls out his laser gun]",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               },
               {
@@ -15989,7 +15708,7 @@
                 "speaker": "Jake",
                 "text": "Finn, he's got a laser gun!",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -16495,19 +16214,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Whisper Dan: “[Cranks a wheel, which in turn cuts the bed in half with a giant knife. Some hands spring out of the wall to hold the top half above the bottom half.]”",
+            "how": "Finn: “[Deflects a fireball with his sword] Wands are for wimps! [punches Xergiok outside]”",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Whisper Dan",
-                "text": "[Cranks a wheel, which in turn cuts the bed in half with a giant knife. Some hands spring out of the wall to hold the top half above the bottom half.]",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "quote",
                 "speaker": "Finn",
@@ -16515,6 +16226,14 @@
                 "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Whisper Dan",
+                "text": "[Cranks a wheel, which in turn cuts the bed in half with a giant knife. Some hands spring out of the wall to hold the top half above the bottom half.]",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
               }
             ]
           }
@@ -16525,7 +16244,7 @@
       },
       "examples": [
         "Sex & hookups — Jake: “[Immediately falls asleep. A lion and a goose sleep with him.]”",
-        "Violence & injury — Whisper Dan: “[Cranks a wheel, which in turn cuts the bed in half with a giant knife. Some hands spring out of the wall to hold the top half above the bottom half.]”"
+        "Violence & injury — Finn: “[Deflects a fireball with his sword] Wands are for wimps! [punches Xergiok outside]”"
       ],
       "notes": null,
       "flags": [],
@@ -16683,7 +16402,7 @@
             "group": "violence",
             "how": "Princess Bubblegum: “[Fires an X-ray gun at Braco].”",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -16691,7 +16410,7 @@
                 "speaker": "Princess Bubblegum",
                 "text": "[Fires an X-ray gun at Braco].",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -16769,19 +16488,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Carroll: “[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.”",
+            "how": "Finn: “[starts thinking] My melon wants to punch my dad in the face and steal his arm.”",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Carroll",
-                "text": "[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "quote",
                 "speaker": "Finn",
@@ -16794,6 +16505,14 @@
                 "kind": "quote",
                 "speaker": "Jake",
                 "text": "[Jake reads the note] Jake, I'm going to space to punch my dad and steal his arm. Back Soon -Finn [End of note] Wow, what the he?",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Carroll",
+                "text": "[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.",
                 "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
@@ -16814,7 +16533,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Carroll: “[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.”"
+        "Violence & injury — Finn: “[starts thinking] My melon wants to punch my dad in the face and steal his arm.”"
       ],
       "notes": null,
       "flags": [],
@@ -16848,27 +16567,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Boss: “And, on the other hand, so to speak, if you screw up or chicken out, you're out of the game. Permanently. [He pretends to slit his throat with his finger.] Pretend my finger's a knife.”",
+            "how": "Finn closes his eyes in frustration, trying to remember. He starts to punch each side of his head multiple times.",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Boss",
-                "text": "And, on the other hand, so to speak, if you screw up or chicken out, you're out of the game. Permanently. [He pretends to slit his throat with his finger.] Pretend my finger's a knife.",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Bath Boy Gang Leader [flashback]: Pretend my finger's a knife.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -16884,6 +16587,22 @@
                 "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Boss",
+                "text": "And, on the other hand, so to speak, if you screw up or chicken out, you're out of the game. Permanently. [He pretends to slit his throat with his finger.] Pretend my finger's a knife.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bath Boy Gang Leader [flashback]: Pretend my finger's a knife.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           }
@@ -16893,7 +16612,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Boss: “And, on the other hand, so to speak, if you screw up or chicken out, you're out of the game. Permanently. [He pretends to slit his throat with his finger.] Pretend my finger's a knife.”"
+        "Violence & injury — Finn closes his eyes in frustration, trying to remember. He starts to punch each side of his head multiple times."
       ],
       "notes": null,
       "flags": [],
@@ -17158,9 +16877,9 @@
             "theme": "Nudity & bodies",
             "group": "sex",
             "how": "Jake: “And what gives? [Pointing to his nipple] I used to have like eight more of these things.”",
-            "count": 3,
+            "count": 1,
             "intensity": 3,
-            "mode": "on-screen",
+            "mode": "dialogue",
             "instances": [
               {
                 "kind": "quote",
@@ -17169,22 +16888,6 @@
                 "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Jake",
-                "text": "Yeah... I think so. Just a little chilly. [Noticing he is in his underwear] WHOA!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Scene transition. Jake is dancing with his subconscious with flowers in his underwear.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
               }
             ]
           },
@@ -17249,7 +16952,7 @@
             "group": "violence",
             "how": "Huntress Wizard (young form): [Holds out a small knife.] I'm sorry.",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -17257,7 +16960,7 @@
                 "speaker": null,
                 "text": "Huntress Wizard (young form): [Holds out a small knife.] I'm sorry.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               },
               {
@@ -17265,7 +16968,7 @@
                 "speaker": null,
                 "text": "Huntress pulls her knife up to it, but hesitates.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -17375,7 +17078,7 @@
             "group": "violence",
             "how": "Their arms are outstretched with their hands clasped together and their index fingers pointing like guns.",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -17383,7 +17086,7 @@
                 "speaker": null,
                 "text": "Their arms are outstretched with their hands clasped together and their index fingers pointing like guns.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -18313,46 +18016,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "\"Finn's Underwear Song\" \"Trunked Up\"",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "\"Finn's Underwear Song\" \"Trunked Up\"",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Jake",
-                "text": "I knew there was something different about you today. Oh, wait. Did you remember to pack your usual shorts and underwear for getting changed into after the water park?",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — \"Finn's Underwear Song\" \"Trunked Up\""
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -18735,7 +18407,7 @@
             "group": "violence",
             "how": "What say we rifle through herbiz next time she's out?",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -18743,7 +18415,7 @@
                 "speaker": null,
                 "text": "What say we rifle through herbiz next time she's out?",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -19348,9 +19020,9 @@
             "theme": "Nudity & bodies",
             "group": "sex",
             "how": "Finn: “Is PB straight-up naked right now?”",
-            "count": 3,
+            "count": 1,
             "intensity": 1,
-            "mode": "on-screen",
+            "mode": "dialogue",
             "instances": [
               {
                 "kind": "quote",
@@ -19359,22 +19031,6 @@
                 "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "A third criminal throws underwear at Finn's head.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Criminal 3",
-                "text": "[sarcastic] You're right. I'm so ashamed. [throws another pair of underwear at Finn.]",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "late"
               }
             ]
           },
@@ -19446,16 +19102,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Naked Wizard",
+            "how": "“Naked Wizard”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Naked Wizard",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -19485,7 +19141,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Naked Wizard",
+        "Nudity & bodies — “Naked Wizard”",
         "Alcohol & drugs — Magic Man: “Smooth and gray as far as you ​can see. No life grows in me. Nothing to weed. Nothing to seed. Pure and perfect. Like the marble floors of a bank. You slide with no obstacles, forever blank.”"
       ],
       "notes": null,

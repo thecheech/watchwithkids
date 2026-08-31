@@ -280,9 +280,7 @@
     const mix = s.mix;
     const scoreHtml =
       !soon && mix && mix.total ? safeScoreHtml(mix) : "";
-    const guideHtml = guideHref
-      ? `<span class="card-guide" data-guide="${guideHref}">What to watch</span>`
-      : "";
+    const guideHtml = guideHref ? guideChipHtml(guideHref, mix) : "";
     return `
       <${tagName} class="${cls}" data-i="${i}" ${soon ? "" : `href="${href}"`}>
         <img src="${s.coverLocal}" alt="${escapeHtml(s.name)}" loading="lazy" />
@@ -298,6 +296,21 @@
         </div>
       </${tagName}>
     `;
+  }
+
+  /** Compact deep-link into the per-show guide — count, not a fat empty bar. */
+  function guideChipHtml(guideHref, mix) {
+    let label = "Episode guide →";
+    if (mix && mix.total) {
+      if (mix.safe > 0) {
+        label = `${mix.safe} safe →`;
+      } else if (mix.maybe > 0) {
+        label = `${mix.maybe} to preview →`;
+      } else if (mix.skip > 0) {
+        label = `${mix.skip} hard pass →`;
+      }
+    }
+    return `<span class="card-guide" data-guide="${guideHref}">${label}</span>`;
   }
 
   document.addEventListener("click", (e) => {

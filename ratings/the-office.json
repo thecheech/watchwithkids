@@ -532,16 +532,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Dwight: Sex.",
+            "how": "“Dwight: Sex.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Dwight: Sex.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -644,7 +644,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Dwight: Sex.",
+        "Sex & hookups — “Dwight: Sex.”",
         "Nudity & bodies — Dwight: “The purse girl hits everything on my checklist. Creamy skin. Straight teeth. Curly hair. Amazing breasts. Not for me, for my children. The Schrutes produce very thirsty babies.”",
         "Swearing — Michael: “All right girls break it up, you're being infiltrated. Cock in the henhouse.”",
         "Alcohol & drugs — Michael: “You hear stories about Dunder Mifflin in the eighties before everybody knew how bad cocaine was.”"
@@ -2369,16 +2369,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Dwight & Roy: [at the same time] Guns.",
+            "how": "“Dwight & Roy: [at the same time] Guns.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Dwight & Roy: [at the same time] Guns.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -2451,7 +2451,7 @@
       },
       "examples": [
         "Sex & hookups — Michael: “Is it good to be back. Yeah. I mean I love the guy stuff but to run an office you need men and women. You know why? Because you need to have that crazy sexual tension to keep things interesting.”",
-        "Violence & injury — Dwight & Roy: [at the same time] Guns.",
+        "Violence & injury — “Dwight & Roy: [at the same time] Guns.”",
         "Swearing — Michael: “Hey. Um... look guys, I'm sorry. Sometimes Jan can be such a bitch. All the Men: Generalized mumbling agreement. Yeah. Michael: Hey, watch it, watch it. We have a relationship.”",
         "Slut-shaming — Angela: “And, apparently, judging from her outfit, Jan aspires to be a whore.”"
       ],
@@ -4560,16 +4560,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Harvey: Boobs.",
+            "how": "“Harvey: Boobs.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Harvey: Boobs.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -4621,7 +4621,7 @@
       },
       "examples": [
         "Sex & hookups — Harvey: “Me so horny. Me love you long tim.”",
-        "Nudity & bodies — Harvey: Boobs.",
+        "Nudity & bodies — “Harvey: Boobs.”",
         "Violence & injury — Andy: “Caught an eighty-pound shark off of Montauk. It's in the Hamptons. My dad's got a 42-ft Bayliner. Sniped it with a rifle from the crow's nest. Also shot a deer once.”"
       ],
       "notes": null,
@@ -17721,10 +17721,10 @@
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Darryl: Damn!",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
@@ -22272,16 +22272,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Angela: Murder.",
+            "how": "“Angela: Murder.”",
             "count": 5,
             "intensity": 3,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Angela: Murder.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               },
@@ -22409,7 +22409,7 @@
         "Sex & hookups — Angela: “They’re sleeping with my husband.”",
         "Nudity & bodies — Explicit body / sex-act language appears in dialogue.",
         "Affairs / cheating — Oscar: “Yesterday, Angela may or may not have figured out that I’m having an affair with her husband.”",
-        "Violence & injury — Angela: Murder.",
+        "Violence & injury — “Angela: Murder.”",
         "Alcohol & drugs — Jim: “Phyllis: How much wine do you have?”",
         "Fat-shaming — Pam: “your mama is so fat, when she wears red, people yell, “Hey, kool-aid.” Yeah, your mama’s fat.”"
       ],
@@ -23883,16 +23883,16 @@
           {
             "theme": "Homophobic jokes",
             "group": "bias",
-            "how": "Reporter #1: Senator, were always gay, or did your wife turn you gay?",
+            "how": "“Reporter #1: Senator, were always gay, or did your wife turn you gay?”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Reporter #1: Senator, were always gay, or did your wife turn you gay?",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -23951,7 +23951,7 @@
       "examples": [
         "Affairs / cheating — Erin: ““Though it mostly focuses on the daily realities of office life, a lurid subplot reveals the hypocrisy of a local public figure embroiled in a gay affair while preaching family values.””",
         "Violence & injury — Stanley: “Dwight: Well—no, no—n— Stanley: [stabs his own leg with a tranquilizer dart and falls to the ground] Dwight: [stomps on the ground] We need a winch and a hoist.”",
-        "Homophobic jokes — Reporter #1: Senator, were always gay, or did your wife turn you gay?"
+        "Homophobic jokes — “Reporter #1: Senator, were always gay, or did your wife turn you gay?”"
       ],
       "notes": null,
       "flags": [],

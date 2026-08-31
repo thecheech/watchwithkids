@@ -140,6 +140,11 @@ def esc(value) -> str:
     return html.escape(str(value if value is not None else ""), quote=True)
 
 
+def ep_count(n: int) -> str:
+    """'1 episode' / '16 episodes' — films and one-off specials read wrong otherwise."""
+    return f"{n} episode" if int(n) == 1 else f"{n} episodes"
+
+
 def safe_code(code: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]+", "-", str(code)).strip("-") or "ep"
 
@@ -323,9 +328,9 @@ def show_faqs(show_id: str, name: str, mix: dict) -> list[tuple[str, str]]:
     return [
         (
             f"Is {name} OK for kids?",
-            f"Of {mix['total']} {esc(name)} episodes we rated, <strong>{mix['safe']}</strong> are "
-            f"all clear (overall 1–2/5), <strong>{mix['maybe']}</strong> are gray area (3/5) and "
-            f"<strong>{mix['skip']}</strong> are a hard pass (4–5/5). Every episode page lists "
+            f"We rated {ep_count(mix['total'])} of {esc(name)}: <strong>{mix['safe']}</strong> "
+            f"all clear (overall 1–2/5), <strong>{mix['maybe']}</strong> gray area (3/5) and "
+            f"<strong>{mix['skip']}</strong> a hard pass (4–5/5). Every episode page lists "
             "the exact moments behind the score.",
         ),
         (
@@ -1019,7 +1024,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     url = f"{SITE}/{show_id}.html"
     total = mix["total"] or 1
     desc = clip_meta(
-        f"Is {name} OK for kids? All {mix['total']} episodes rated 1–5 for violence, sex and "
+        f"Is {name} OK for kids? {'All ' if mix['total'] != 1 else ''}{ep_count(mix['total'])} rated 1–5 for violence, sex and "
         f"language — {round(100 * mix['safe'] / total)}% all clear, "
         f"{round(100 * mix['maybe'] / total)}% gray area, "
         f"{round(100 * mix['skip'] / total)}% hard pass, with the exact moments quoted."
@@ -1174,10 +1179,10 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
   <section class="wrap seo-copy">
     <h2>Is {esc(name)} OK to watch with the kids?</h2>
     <p>
-      We rated all <strong>{mix["total"]}</strong> episodes of {esc(name)} for violence, sex and
-      language on a 1–5 scale. <strong>{mix["safe"]}</strong> episodes come out all clear (overall
-      1–2/5), <strong>{mix["maybe"]}</strong> land in the gray area (3/5) and
-      <strong>{mix["skip"]}</strong> are a hard pass for little kids (4–5/5).
+      We rated {"all " if mix["total"] != 1 else ""}<strong>{ep_count(mix["total"])}</strong> of {esc(name)} for violence, sex and
+      language on a 1–5 scale: <strong>{mix["safe"]}</strong> all clear (overall
+      1–2/5), <strong>{mix["maybe"]}</strong> in the gray area (3/5) and
+      <strong>{mix["skip"]}</strong> a hard pass for little kids (4–5/5).
     </p>
     <p>
       Each episode page lists every watch-for theme — Sex &amp; hookups, Nudity &amp; bodies,
@@ -1285,7 +1290,7 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         mix = mixes[sid]
         total = mix["total"] or 1
         lines.append(
-            f"- [{s['name']}]({SITE}/{sid}.html): {mix['total']} episodes — "
+            f"- [{s['name']}]({SITE}/{sid}.html): {ep_count(mix['total'])} — "
             f"{round(100 * mix['safe'] / total)}% all clear, "
             f"{round(100 * mix['maybe'] / total)}% gray area, "
             f"{round(100 * mix['skip'] / total)}% hard pass. "
@@ -1335,7 +1340,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
         total = mix["total"] or 1
         rows.append(
             f'<li><a href="{esc(s["id"])}.html"><strong>{esc(s["name"])}</strong></a> — '
-            f'{mix["total"]} episodes rated: {round(100 * mix["safe"] / total)}% all clear, '
+            f'{ep_count(mix["total"])} rated: {round(100 * mix["safe"] / total)}% all clear, '
             f'{round(100 * mix["maybe"] / total)}% gray area, '
             f'{round(100 * mix["skip"] / total)}% hard pass.</li>'
         )
@@ -1532,6 +1537,29 @@ def write_about_page() -> None:
         "Watch With The Kids scores every episode 1–5 for violence, sex and language from the "
         "transcript, then quotes the exact moments so parents can decide before play."
     )
+    themes = [
+        "Sex & hookups",
+        "Nudity & bodies",
+        "Porn / strippers",
+        "Swearing",
+        "Violence & death",
+        "Affairs / cheating",
+        "Suicide / self-harm",
+        "Alcohol / Drugs",
+        "Gay / Lesbian",
+        "Fat-shaming",
+        "Slut-shaming",
+        "Racism",
+    ]
+    theme_chips = "".join(f'<li><span class="about-theme">{esc(t)}</span></li>' for t in themes)
+
+    def dots(n: int) -> str:
+        bits = []
+        for i in range(1, 6):
+            cls = "on go" if i <= 2 else "on caution" if i == 3 else "on stop"
+            bits.append(f'<i class="{cls}"></i>' if i <= n else "<i></i>")
+        return "".join(bits)
+
     body = f"""  <nav class="topnav wrap">
     <a class="back-home" href="index.html">← All shows</a>
     <a class="back-home subtle" href="guides/index.html">What to watch</a>
@@ -1539,37 +1567,112 @@ def write_about_page() -> None:
   <header class="hero">
     <div class="wrap hero-inner">
       <div class="hero-copy">
+        <p class="eyebrow">The method behind every episode page</p>
         <h1>How we rate TV for kids</h1>
-        <p class="tagline">Informal parent guidance — not an official ratings board. {esc(TAGLINE)}</p>
+        <p class="tagline">
+          Informal parent guidance — not an official ratings board. {esc(TAGLINE)}
+        </p>
+        <div class="hero-pills">
+          <span>✅ 1–2 all clear</span>
+          <span>🤔 3 gray area</span>
+          <span>🚫 4–5 hard pass</span>
+        </div>
       </div>
+      <aside class="hero-card about-demo" aria-hidden="true">
+        <p class="about-demo-kicker">Example episode</p>
+        <div class="about-demo-row">
+          <span>Violence</span>
+          <span class="about-dots">{dots(3)}</span>
+          <b>3</b>
+        </div>
+        <div class="about-demo-row">
+          <span>Sex</span>
+          <span class="about-dots">{dots(2)}</span>
+          <b>2</b>
+        </div>
+        <div class="about-demo-row">
+          <span>Language</span>
+          <span class="about-dots">{dots(4)}</span>
+          <b>4</b>
+        </div>
+        <div class="about-demo-overall">
+          <span>Overall = the highest</span>
+          <strong>4</strong>
+          <span class="bucket-pill skip">🚫 Hard pass</span>
+        </div>
+      </aside>
     </div>
   </header>
-  <main class="wrap seo-copy about-copy">
-    <h2>The 1–5 scale</h2>
-    <p>
+  <main class="wrap about-page">
+    <p class="about-lead">
       Every episode gets three scores: <strong>violence</strong>, <strong>sex</strong> and
       <strong>language</strong>, each from 1 (none) to 5 (heavy). The overall kid-rating is the
       <strong>highest of the three</strong>, so one spicy category is enough to bump the episode.
     </p>
-    <ul>
-      <li><strong>1–2 — all clear</strong> for most family couches.</li>
-      <li><strong>3 — gray area</strong>. Preview first; fine for older kids depending on your rules.</li>
-      <li><strong>4–5 — hard pass</strong> for little kids.</li>
-    </ul>
-    <h2>What we flag</h2>
-    <p>
-      Sex &amp; hookups, Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death,
-      Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming,
-      Slut-shaming and Racism. Each theme lists how many times it comes up and the quote or
-      scene behind it — shown verbatim from the transcript, including profanity and slurs.
-    </p>
-    <h2>Where the data comes from</h2>
-    <p>
-      Scores are generated from episode transcripts (keyword signals plus curated overrides),
-      then published as static pages. They are a screening aid, not a substitute for watching
-      with your own kids.
-    </p>
-    <p><a href="guides/index.html">See what to watch tonight →</a></p>
+    <section class="about-buckets" aria-label="The 1–5 scale">
+      <article class="about-bucket safe">
+        <span class="about-bucket-emoji" aria-hidden="true">✅</span>
+        <p class="about-bucket-range">1–2</p>
+        <h2>All clear</h2>
+        <p>Fine for most family couches.</p>
+      </article>
+      <article class="about-bucket maybe">
+        <span class="about-bucket-emoji" aria-hidden="true">🤔</span>
+        <p class="about-bucket-range">3</p>
+        <h2>Gray area</h2>
+        <p>Preview first — fine for older kids depending on your rules.</p>
+      </article>
+      <article class="about-bucket skip">
+        <span class="about-bucket-emoji" aria-hidden="true">🚫</span>
+        <p class="about-bucket-range">4–5</p>
+        <h2>Hard pass</h2>
+        <p>Too spicy for little kids.</p>
+      </article>
+    </section>
+    <section class="about-section">
+      <h2>What we flag</h2>
+      <p>
+        Each theme lists how many times it comes up and the quote or scene behind it —
+        shown verbatim from the transcript, including profanity and slurs.
+      </p>
+      <ul class="about-themes">
+        {theme_chips}
+      </ul>
+    </section>
+    <section class="about-section">
+      <h2>Where the data comes from</h2>
+      <div class="about-steps">
+        <article>
+          <span aria-hidden="true">📜</span>
+          <h3>Transcripts</h3>
+          <p>Keyword signals plus curated overrides, scored episode by episode.</p>
+        </article>
+        <article>
+          <span aria-hidden="true">📈</span>
+          <h3>Highest wins</h3>
+          <p>Overall is the max of violence, sex and language — not an average.</p>
+        </article>
+        <article>
+          <span aria-hidden="true">💬</span>
+          <h3>Quoted moments</h3>
+          <p>A screening aid, not a substitute for watching with your own kids.</p>
+        </article>
+      </div>
+    </section>
+    <a class="about-cta" href="guides/index.html">
+      <span class="about-cta-stack" aria-hidden="true">
+        <img src="covers/spongebob.jpg" alt="" width="320" height="180" />
+        <img src="covers/young-sheldon.jpg" alt="" width="320" height="180" />
+        <img src="covers/seinfeld.jpg" alt="" width="320" height="180" />
+        <img src="covers/big-bang-theory.jpg" alt="" width="320" height="180" />
+      </span>
+      <span class="about-cta-copy">
+        <span class="about-cta-kicker">Ready to pick an episode</span>
+        <strong>See what to watch tonight</strong>
+        <span class="about-cta-sub">Safest episodes first. Skip lists for the spicy ones.</span>
+        <span class="about-cta-btn">Open the guides →</span>
+      </span>
+    </a>
   </main>"""
     jsonld = {
         "@context": "https://schema.org",
@@ -1630,37 +1733,94 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
             s["name"],
         ),
     )
-    cards = []
-    for i, s in enumerate(ranked):
+
+    def group_of(sid: str) -> str:
+        mix = mixes[sid]
+        total = mix["total"] or 1
+        if mix["safe"] / total >= 0.5:
+            return "safe"
+        if mix["skip"] / total >= 0.7:
+            return "skip"
+        return "maybe"
+
+    def card_html(s: dict, *, eager: bool) -> str:
         sid = s["id"]
         mix = mixes[sid]
         safe_pct, maybe_pct, skip_pct = _mix_pcts(mix)
         total = mix["total"] or 1
         if mix["safe"] / total >= 0.5:
             badge = '<span class="guide-badge safe">Kid-friendlier</span>'
+            stat = f'{mix["safe"]} of {mix["total"]} episodes are all clear'
         elif mix["skip"] / total >= 0.7:
             badge = '<span class="guide-badge skip">Mostly skip</span>'
+            stat = f'Only {mix["safe"]} of {mix["total"]} episodes are all clear'
         else:
             badge = '<span class="guide-badge maybe">Preview first</span>'
-        loading = "eager" if i < 4 else "lazy"
-        cards.append(
+            stat = f'{mix["safe"]} of {mix["total"]} episodes are all clear'
+        return (
             f'<li><a class="guide-card" href="{esc(sid)}.html">'
             f'<span class="guide-cover">'
             f'<img src="../covers/{esc(sid)}.jpg" alt="" width="640" height="360" '
-            f'loading="{loading}" /></span>'
+            f'loading="{"eager" if eager else "lazy"}" /></span>'
             f'<span class="guide-body">'
             f"{badge}"
             f"<h2>{esc(s['name'])}</h2>"
-            f'<p class="guide-stat">{mix["safe"]} all-clear episode'
-            f'{"s" if mix["safe"] != 1 else ""}</p>'
+            f'<p class="guide-stat">{esc(stat)}</p>'
             f'<span class="guide-mix" aria-hidden="true">'
             f'<span class="guide-seg safe" style="flex-grow:{safe_pct}"></span>'
             f'<span class="guide-seg maybe" style="flex-grow:{maybe_pct}"></span>'
             f'<span class="guide-seg skip" style="flex-grow:{skip_pct}"></span>'
             f"</span>"
             f'<p class="guide-legend"><strong>{safe_pct}%</strong> all clear · '
-            f"{skip_pct}% hard pass</p>"
+            f"{maybe_pct}% gray · {skip_pct}% skip</p>"
+            f'<span class="guide-cta">See the safest episodes →</span>'
             f"</span></a></li>"
+        )
+
+    groups = [
+        (
+            "safe",
+            "🛋️",
+            "Easy wins",
+            "Most episodes are all clear — pick almost anything and relax.",
+        ),
+        (
+            "maybe",
+            "🤔",
+            "Depends on the episode",
+            "Some gentle ones, some spicy ones — check the list before play.",
+        ),
+        (
+            "skip",
+            "🚫",
+            "Mostly not for little kids",
+            "A few episodes work; the rest are for after bedtime.",
+        ),
+    ]
+    sections = []
+    eager_budget = 4
+    n_cards = 0
+    for key, emoji, heading, sub in groups:
+        members = [s for s in ranked if group_of(s["id"]) == key]
+        if not members:
+            continue
+        cards = []
+        for s in members:
+            cards.append(card_html(s, eager=eager_budget > 0))
+            eager_budget -= 1
+        n_cards += len(cards)
+        sections.append(
+            f'    <section class="guide-group" aria-label="{esc(heading)}">\n'
+            f'      <header class="guide-group-head {key}">\n'
+            f'        <span class="guide-section-emoji" aria-hidden="true">{emoji}</span>\n'
+            f'        <div class="guide-section-copy">\n'
+            f"          <h2>{esc(heading)}</h2>\n"
+            f"          <p>{esc(sub)}</p>\n"
+            f"        </div>\n"
+            f'        <span class="guide-section-count">{len(members)} shows</span>\n'
+            f"      </header>\n"
+            f'      <ul class="guide-grid">\n        {"".join(cards)}\n      </ul>\n'
+            f"    </section>"
         )
     stack = "".join(
         f'<img src="../covers/{esc(s["id"])}.jpg" alt="" width="480" height="270" />'
@@ -1675,7 +1835,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
       <div class="hero-copy">
         <p class="eyebrow">Safest episodes · Skip lists</p>
         <h1>What to watch with the kids</h1>
-        <p class="tagline">Pick a show, grab an all-clear episode, or skip the spicy ones. Same 1–5 scores as every episode page.</p>
+        <p class="tagline">Every episode scored 1–5 for violence, sex and language. Pick a show — the safest episodes are listed first.</p>
         <div class="hero-pills">
           <span>✅ Safest first</span>
           <span>🤔 Gray area</span>
@@ -1687,10 +1847,8 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
       </aside>
     </div>
   </header>
-  <main class="wrap">
-    <ul class="guide-grid">
-      {"".join(cards)}
-    </ul>
+  <main class="wrap guide-sections">
+{chr(10).join(sections)}
   </main>"""
     jsonld = {
         "@context": "https://schema.org",
@@ -1704,7 +1862,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
             {
                 "@type": "ItemList",
                 "name": "What to watch guides",
-                "numberOfItems": len(cards),
+                "numberOfItems": n_cards,
                 "itemListElement": [
                     {
                         "@type": "ListItem",

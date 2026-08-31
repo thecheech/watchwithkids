@@ -9,131 +9,131 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0101.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - ( Screaming ) Who's the baby now? I'm here because I think that there is a tremendous opportunity for Could you, you know, maybe put a top on? They're just boobs, lady.
+  - “( Screaming ) Who's the baby now? I'm here because I think that there is a tremendous opportunity for Could you, you know, maybe put a top on? They're just boobs, lady.”
 - Alcohol & drugs — 1 moment(s)
-  - He goes to parties, drinks beer and goes skiing.
+  - “He goes to parties, drinks beer and goes skiing.”
 
 ## S1 E2 — 2. Red Dress
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0102.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Think! All I can think about is how hard he's twisting my nipple.
+  - “Think! All I can think about is how hard he's twisting my nipple.”
 - Violence & injury — 1 moment(s)
-  - You beat up people 'cause they call me a weirdo? The last kid, he was a freak anyways.
+  - “You beat up people 'cause they call me a weirdo? The last kid, he was a freak anyways.”
 - Alcohol & drugs — 1 moment(s)
-  - Oh, can I have another vodka martini, please? Very good.
+  - “Oh, can I have another vodka martini, please? Very good.”
 
 ## S1 E3 — 3. Home Alone 4
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0103.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Yep, that underwear is going to wrinkle.
+  - “Yep, that underwear is going to wrinkle.”
 - Violence & injury — 1 moment(s)
-  - You want to get blood all over the car? Wait! We can't take the car.
+  - “You want to get blood all over the car? Wait! We can't take the car.”
 - Alcohol & drugs — 1 moment(s)
-  - So it wasn't a complete waste, and Mom always says it's not a wasted experience if you learn something from it.
+  - “So it wasn't a complete waste, and Mom always says it's not a wasted experience if you learn something from it.”
 
 ## S1 E4 — 4. Shame
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0104.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - Now he has to ruin sex? Now, remember every one of these diseases can easily be transmitted to you.
-  - I think you'll enjoy my sexual awareness lecture next week.
-  - Francis, I don't know why you assume we'll be able to just walk into Spangler's office and find the sex slides.
-  - I'm going to make Spangler's sexual awareness lecture just a little more interesting.
+  - “Now he has to ruin sex? Now, remember every one of these diseases can easily be transmitted to you.”
+  - “I think you'll enjoy my sexual awareness lecture next week.”
+  - “Francis, I don't know why you assume we'll be able to just walk into Spangler's office and find the sex slides.”
+  - “I'm going to make Spangler's sexual awareness lecture just a little more interesting.”
 - Violence & injury — 7 moment(s)
-  - Look at all this blood.
-  - That's not blood.
-  - Why are you seven? You beat up a seven-year-old? I didn't know.
-  - Can you beat her up tomorrow? Leave me alone.
-  - When are you going to punish me? For what? For beating up a seven-year-old.
-  - I hear your son likes to beat up seven-year-olds.
-  - '' ( Mirthless Chuckle ) I'm sorry I beat him up but how was I supposed to know he was 1 5? He was huge.
+  - “Look at all this blood.”
+  - “That's not blood.”
+  - “Why are you seven? You beat up a seven-year-old? I didn't know.”
+  - “Can you beat her up tomorrow? Leave me alone.”
+  - “When are you going to punish me? For what? For beating up a seven-year-old.”
+  - “I hear your son likes to beat up seven-year-olds.”
+  - “'' ( Mirthless Chuckle ) I'm sorry I beat him up but how was I supposed to know he was 1 5? He was huge.”
 - Alcohol & drugs — 1 moment(s)
-  - I don't suppose there's a beer guy around here.
+  - “I don't suppose there's a beer guy around here.”
 
 ## S1 E5 — 5. Malcolm Babysits
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0105.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - You have got to call the exterminator! What, and miss out on watching you hunt? You're like a sexy, bug-killing panther.
-  - ( dish crashing ) - Sex! ( car pulls away quickly ) Things didn't work out so bad.
+  - “You have got to call the exterminator! What, and miss out on watching you hunt? You're like a sexy, bug-killing panther.”
+  - “( dish crashing ) - Sex! ( car pulls away quickly ) Things didn't work out so bad.”
 - Nudity & bodies — 2 moment(s)
-  - And you made fun of me when I bought this mesh underwear.
+  - “And you made fun of me when I bought this mesh underwear.”
   - Lois: “If you don't change your underwear this is exactly what happens.”
 - Porn / strippers / sex work — 2 moment(s)
-  - Otherwise, all you'll get is pornography.
-  - Yeah, well,judging by the empty scotch bottles and German dungeon porn, I don't think so.
+  - “Otherwise, all you'll get is pornography.”
+  - “Yeah, well,judging by the empty scotch bottles and German dungeon porn, I don't think so.”
 - Alcohol & drugs — 1 moment(s)
-  - They are sent off to Valhalla in flaming ships! They are not put in beer hats or used as photo props or given fake moustaches.
+  - “They are sent off to Valhalla in flaming ships! They are not put in beer hats or used as photo props or given fake moustaches.”
 
 ## S1 E6 — 6. Sleepover
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0106.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - What's that? A naked man arguing with a wall.
+  - “What's that? A naked man arguing with a wall.”
 - Violence & injury — 2 moment(s)
-  - Red paint for blood.
-  - '' Is that a switchblade? It's an X-Acto knife to cut the pieces apart.
+  - “Red paint for blood.”
+  - “'' Is that a switchblade? It's an X-Acto knife to cut the pieces apart.”
 - Swearing — 1 moment(s)
-  - You never stop bitching.
+  - “You never stop bitching.”
 
 ## S1 E7 — 7. Francis Escapes
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0107.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Slut-shaming — 2 moment(s)
-  - She's a tramp.
-  - No one's saying she's not a tramp.
+  - “She's a tramp.”
+  - “No one's saying she's not a tramp.”
 
 ## S1 E8 — 8. Krelboyne Picnic
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0108.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - You better be naked when I get back.
+  - “You better be naked when I get back.”
 - Violence & injury — 1 moment(s)
-  - Blood tastes funny.
+  - “Blood tastes funny.”
 
 ## S1 E9 — 9. Lois vs. Evil
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0109.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Not to mention the most talented sweet and sexy What? Francis are are you sure you're really how you are? Tanya, I'm so confused.
+  - “Not to mention the most talented sweet and sexy What? Francis are are you sure you're really how you are? Tanya, I'm so confused.”
 
 ## S1 E10 — Stock Car Races
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0110.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 6 moment(s)
-  - '' And they wouldn't bother making it ''forbidden'' if it wasn't something totally bitchin' on the other side.
-  - Sit down! You are such an idiot! It actually was pretty bitchin'.
-  - This tastes like crap.
-  - We're wild men! ( Cackling ) Whoo! ( ''Sukiyaki''Sung InJapanese ) Where did I put the damn paycheck? ( Gasping ) Yeah.
-  - This place sucks.
-  - I'm just really pissed.
+  - “'' And they wouldn't bother making it ''forbidden'' if it wasn't something totally bitchin' on the other side.”
+  - “Sit down! You are such an idiot! It actually was pretty bitchin'.”
+  - “This tastes like crap.”
+  - “We're wild men! ( Cackling ) Whoo! ( ''Sukiyaki''Sung InJapanese ) Where did I put the damn paycheck? ( Gasping ) Yeah.”
+  - “This place sucks.”
+  - “I'm just really pissed.”
 - Alcohol & drugs — 1 moment(s)
-  - Get your dad a beer.
+  - “Get your dad a beer.”
 
 ## S1 E11 — Funeral
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0111.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - I don't want to go anymore! Just leave me alone! ( music continues ) ( music stops ) How could you let her see me in my underwear? Mom, this has gone too far.
+  - “I don't want to go anymore! Just leave me alone! ( music continues ) ( music stops ) How could you let her see me in my underwear? Mom, this has gone too far.”
 
 ## S1 E12 — Cheerleader
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0112.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - And if they love each other and take the proper precautions, they'll have sex.
+  - “And if they love each other and take the proper precautions, they'll have sex.”
 - Slut-shaming — 1 moment(s)
   - Spangler: “My mother was neither a madonna or a whore! She was a damn fine woman.”
 
@@ -142,61 +142,61 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0113.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - All I'm taking is a canteen a knife, my bedroll and some emergency rations.
-  - Canteen, knife, survival blanket.
+  - “All I'm taking is a canteen a knife, my bedroll and some emergency rations.”
+  - “Canteen, knife, survival blanket.”
 - Swearing — 1 moment(s)
-  - They paraded every Tom, Dick and Harry through that room to look at me.
+  - “They paraded every Tom, Dick and Harry through that room to look at me.”
 
 ## S1 E14 — The Bots and the Bees
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0114.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - He's smoking, he's dancing around in his underwear.
+  - “He's smoking, he's dancing around in his underwear.”
 - Porn / strippers / sex work — 1 moment(s)
-  - I thought this was porno.
+  - “I thought this was porno.”
 - Violence & injury — 3 moment(s)
-  - I'm getting a scope for my BB gun.
-  - You don't have a BB gun.
-  - We can start in on Monks of Death or lighten things up with a little Samurai Bloodfest.
+  - “I'm getting a scope for my BB gun.”
+  - “You don't have a BB gun.”
+  - “We can start in on Monks of Death or lighten things up with a little Samurai Bloodfest.”
 - Swearing — 3 moment(s)
-  - You have done nothing but bitch and moan since I got here and I've been nothing but pleasant.
-  - Well, how about this? I didn't come to work because somehow I felt that eight hours of joyless, mind-numbing crap just didn't seem like fun.
-  - ( gears growl ) What the hell is that thing? That thing is a little project we have been working on around here.
+  - “You have done nothing but bitch and moan since I got here and I've been nothing but pleasant.”
+  - “Well, how about this? I didn't come to work because somehow I felt that eight hours of joyless, mind-numbing crap just didn't seem like fun.”
+  - “( gears growl ) What the hell is that thing? That thing is a little project we have been working on around here.”
 
 ## S1 E15 — Smunday
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0115.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Did Grandpa really punch Jimmy Carter in the face? No, he just threw a rock at the motorcade and ran off.
+  - “Did Grandpa really punch Jimmy Carter in the face? No, he just threw a rock at the motorcade and ran off.”
 
 ## S1 E16 — Water Park (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0116.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Let me adjust your bra strap.
+  - “Let me adjust your bra strap.”
 - Violence & injury — 2 moment(s)
-  - It would've been different if I had done something to you, but that was totally cold-blooded.
-  - Remember when Hendrix beat him playing horse on a lucky shot? We couldn't watch anything but PBS for a week.
+  - “It would've been different if I had done something to you, but that was totally cold-blooded.”
+  - “Remember when Hendrix beat him playing horse on a lucky shot? We couldn't watch anything but PBS for a week.”
 - Alcohol & drugs — 1 moment(s)
-  - And I brought the cocktails.
+  - “And I brought the cocktails.”
 
 ## S2 E1 — 1. Traffic Jam (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0201.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Hal, stop to look back That car has been pursuing Just cum and let it go Oh that making signs with lights Want it that way eh For God's Hal! He could have a gun! Just let it go Oh agreement ended.
-  - …can not absorb In extreme cases can the human body stand but is only 75% confidence If you eat too much blood in your body not flow and you pass out Gentlemen, gentlemen These arguments are useless One Look at them…
+  - “Hal, stop to look back That car has been pursuing Just cum and let it go Oh that making signs with lights Want it that way eh For God's Hal! He could have a gun! Just let it go Oh agreement ended.”
+  - “…can not absorb In extreme cases can the human body stand but is only 75% confidence If you eat too much blood in your body not flow and you pass out Gentlemen, gentlemen These arguments are useless One Look at them…”
 - Swearing — 6 moment(s)
-  - I say pass on this side Forward f***ing sucking sugar! C'mon, it's just an accident that is waiting to happen A, B, C, D.
-  - …eating them, yes, But for me the "Candy Cuack" are a perfect meal I could eat up to 100 No way all that crap on your stomach would grow Not even the 50 would pass I'm afraid you're wrong Joe.
-  - …be me Oh Hal, could not be any of us Noo, our car direct slides transit, and got caught This totally sucks More than an hour ago we're here!
-  - You're evil!, You malvadoo! I see no way to discuss This significantly You're a damn! Calm down, no we can do Yes there is, I can, I can And I know about the idiot who is also Hey, you're talking about my brother.
-  - Turn the crane! You can not tell me what I have to do Hey not so fast friend What do you think? Nothing just watching! What the hell happens? This kid was trying to get in your truck.
-  - And you do not deserve to be an ice cream! Come here bastard! That's what you get for your trouble.
+  - “I say pass on this side Forward f***ing sucking sugar! C'mon, it's just an accident that is waiting to happen A, B, C, D.”
+  - “…eating them, yes, But for me the "Candy Cuack" are a perfect meal I could eat up to 100 No way all that crap on your stomach would grow Not even the 50 would pass I'm afraid you're wrong Joe.”
+  - “…be me Oh Hal, could not be any of us Noo, our car direct slides transit, and got caught This totally sucks More than an hour ago we're here!”
+  - “You're evil!, You malvadoo! I see no way to discuss This significantly You're a damn! Calm down, no we can do Yes there is, I can, I can And I know about the idiot who is also Hey, you're talking about my brother.”
+  - “Turn the crane! You can not tell me what I have to do Hey not so fast friend What do you think? Nothing just watching! What the hell happens? This kid was trying to get in your truck.”
+  - “And you do not deserve to be an ice cream! Come here bastard! That's what you get for your trouble.”
 
 ## S2 E2 — 2. Halloween Approximately
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0202.html
@@ -213,18 +213,18 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0204.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Listen girls Save my underwear! Good blow.
+  - “Listen girls Save my underwear! Good blow.”
 - Violence & injury — 2 moment(s)
-  - I broke a bone! Reciver or not Good for you, I knew she was in her blood!
-  - Stupid behavior but You can beat him.
+  - “I broke a bone! Reciver or not Good for you, I knew she was in her blood!”
+  - “Stupid behavior but You can beat him.”
 - Swearing — 4 moment(s)
-  - sh*t! Now we are really dead.
-  - " Look, a dollar! It's mine! Damn! I never thought would use this deception.
-  - Oh yeah? So how can you see this ? Damn! So when you said that I felt exalted 5 seconds before you go.
-  - Stevie, What the hell are you doing? You are in many problems, this behavior is totally unacceptable.
+  - “sh*t! Now we are really dead.”
+  - “" Look, a dollar! It's mine! Damn! I never thought would use this deception.”
+  - “Oh yeah? So how can you see this ? Damn! So when you said that I felt exalted 5 seconds before you go.”
+  - “Stevie, What the hell are you doing? You are in many problems, this behavior is totally unacceptable.”
 - Alcohol & drugs — 2 moment(s)
-  - Hal probably drank in the bar, such Once you are drunk so I'm a.
-  - Her daddy got drunk.
+  - “Hal probably drank in the bar, such Once you are drunk so I'm a.”
+  - “Her daddy got drunk.”
 
 ## S2 E5 — 5. Casino
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0205.html
@@ -236,193 +236,193 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0206.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Would you sleep with me? Okay, let's go.
+  - “Would you sleep with me? Okay, let's go.”
 - Nudity & bodies — 1 moment(s)
-  - What? What are you talking about? "Francis? Is that Francis? Tell Patty Anderson of the great bra is here.
+  - “What? What are you talking about? "Francis? Is that Francis? Tell Patty Anderson of the great bra is here.”
 - Alcohol & drugs — 2 moment(s)
-  - Are you already drunk? No, I wish I could but I have to go back my things in 24 hours.
-  - Hey, why not pay for dinner and we get benefits? Are you abusing me because I'm drunk? Yes.
+  - “Are you already drunk? No, I wish I could but I have to go back my things in 24 hours.”
+  - “Hey, why not pay for dinner and we get benefits? Are you abusing me because I'm drunk? Yes.”
 - Fat-shaming — 1 moment(s)
-  - Come on guys! Not so fat! That cute! It's so cute! Yes .
+  - “Come on guys! Not so fat! That cute! It's so cute! Yes .”
 
 ## S2 E7 — 7. Robbery
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0207.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - …here -No -Si, if you want $ 50 Look, I have only 20 so agree! Hey, watch out! idiot, is the mainstay of breast What?
+  - “…here -No -Si, if you want $ 50 Look, I have only 20 so agree! Hey, watch out! idiot, is the mainstay of breast What?”
 - Violence & injury — 1 moment(s)
-  - …you imagine how you really no eyes? because it began can break all your fingers even tear some saw the knife carried in the boot Do you really want to face at about Craig?
+  - “…you imagine how you really no eyes? because it began can break all your fingers even tear some saw the knife carried in the boot Do you really want to face at about Craig?”
 - Swearing — 2 moment(s)
-  - Well "Tell me the f***ing combination!
-  - …not know I felt something break, and if they were not my pants were inside me "I told you?, Fights illegal cock at least you won something.
+  - “Well "Tell me the f***ing combination!”
+  - “…not know I felt something break, and if they were not my pants were inside me "I told you?, Fights illegal cock at least you won something.”
 
 ## S2 E8 — 8. Therapy
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0208.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - My brother went last year and had so much blood false fainted.
+  - “My brother went last year and had so much blood false fainted.”
 - Swearing — 3 moment(s)
-  - Sorry! I just stupid! I can not do it! I'm stupid and terrible! I stink at everything! And I'm a sh*t! Can you get comfortable? talk when ready.
-  - Why it's all here, under this crap! What about your appointment with "the dentist" Loi? My teeth are fine now Caroline, I love myself.
-  - That sucks! Where did that flame? Malcolm, I want you dear sientras relaxed.
+  - “Sorry! I just stupid! I can not do it! I'm stupid and terrible! I stink at everything! And I'm a sh*t! Can you get comfortable? talk when ready.”
+  - “Why it's all here, under this crap! What about your appointment with "the dentist" Loi? My teeth are fine now Caroline, I love myself.”
+  - “That sucks! Where did that flame? Malcolm, I want you dear sientras relaxed.”
 
 ## S2 E9 — 9. High School Play
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0209.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - …or navel Julie will know, camp with fua while her boyfriend was away Josh lead all camp and tries to swim naked with But I do not think Josh naked is stimulating You know, throw a party Deveria -swimming pool at my…
+  - “…or navel Julie will know, camp with fua while her boyfriend was away Josh lead all camp and tries to swim naked with But I do not think Josh naked is stimulating You know, throw a party Deveria -swimming pool at my…”
 - Slut-shaming — 1 moment(s)
-  - know that our grief spirit and it never will Not worth it! seems I'm again the only man around here - I can not believe that Nicole is thus seen if you want to look like whore is well .
+  - “know that our grief spirit and it never will Not worth it! seems I'm again the only man around here - I can not believe that Nicole is thus seen if you want to look like whore is well .”
 
 ## S2 E10 — The Bully
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0210.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - We can take the beating, but we should not use underwear in case we split our ups and half.
+  - “We can take the beating, but we should not use underwear in case we split our ups and half.”
 
 ## S2 E11 — Old Mrs. Old
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0211.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - …pills are working I keep taking them and I feel nothing Do not be stingy with the cream You'll need a knife when you get calluses If you did not know him well say that that new doctor was Hungarian Dr.
+  - “…pills are working I keep taking them and I feel nothing Do not be stingy with the cream You'll need a knife when you get calluses If you did not know him well say that that new doctor was Hungarian Dr.”
 - Suicide & self-harm — 1 moment(s)
-  - …good college! My mom would kill me! drive to a cliff like Thelma and Louise That everything must end in suicide for you Well, do not panic!
+  - “…good college! My mom would kill me! drive to a cliff like Thelma and Louise That everything must end in suicide for you Well, do not panic!”
 - Swearing — 1 moment(s)
-  - …a major problem Very well, thank you I have to go Well, it was not her I need another bag Again? How the f*** up so much?
+  - “…a major problem Very well, thank you I have to go Well, it was not her I need another bag Again? How the f*** up so much?”
 
 ## S2 E12 — Krelboyne Girl
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0212.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - No, I mean I thought in your bra.
-  - No, I was thinking about what's in your bra! Well I mean .
+  - “No, I mean I thought in your bra.”
+  - “No, I was thinking about what's in your bra! Well I mean .”
 
 ## S2 E13 — New Neighbors
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0213.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - …spit on your hamburger? Do not worry Do you want to see something funny? Stop looking at him my mother's breasts!
-  - …when you sleep is when Malcolm goes to spy Better be careful and pay attention Malcolm or see your underwear What do you do, where you learn that?
+  - “…spit on your hamburger? Do not worry Do you want to see something funny? Stop looking at him my mother's breasts!”
+  - “…when you sleep is when Malcolm goes to spy Better be careful and pay attention Malcolm or see your underwear What do you do, where you learn that?”
 - Violence & injury — 1 moment(s)
-  - …drastic! No, Dad is just a dispute what this family needs A common enemy honorable skilled and join in a blood brotherhood Look, I'm saying is that before judging them We should look at ourselves ourselves.
+  - “…drastic! No, Dad is just a dispute what this family needs A common enemy honorable skilled and join in a blood brotherhood Look, I'm saying is that before judging them We should look at ourselves ourselves.”
 - Alcohol & drugs — 4 moment(s)
-  - This drunken master .
-  - I was very nervous about visit of Colonel North I thought a drink could help That seven or eight means of whiskey.
-  - …Oh, little monsters! Is teaching me to swim I can not believe after all what made us go Spangler was intoxicated and let Colonel planted if it was frightening how crawling on the floor Calling his mother .
-  - …to call him "Oly" - Really? Do not you remember? They were joking and laughing like old friends drinking whiskey Much, much whiskey Clearly, if, right?
+  - “This drunken master .”
+  - “I was very nervous about visit of Colonel North I thought a drink could help That seven or eight means of whiskey.”
+  - “…Oh, little monsters! Is teaching me to swim I can not believe after all what made us go Spangler was intoxicated and let Colonel planted if it was frightening how crawling on the floor Calling his mother .”
+  - “…to call him "Oly" - Really? Do not you remember? They were joking and laughing like old friends drinking whiskey Much, much whiskey Clearly, if, right?”
 
 ## S2 E14 — Hal Quits
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0214.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Look at the sexy teacher! Dad, are you going to carry all that crap to the class of Dewey? If Malcolm, this is my first presentation I want to surprise them.
+  - “Look at the sexy teacher! Dad, are you going to carry all that crap to the class of Dewey? If Malcolm, this is my first presentation I want to surprise them.”
 - Alcohol & drugs — 3 moment(s)
-  - Mom, dad guess what! The mouse Perez wine.
-  - Wait a minute, "Go home? Did not you hear? We lost! Spring wasted counting slippers and candy They say that all this was for nothing? Yes.
-  - Do you know how many parties I missed this week? In many moves could have been how many girls could have known that drunk would have taken it off if I had been at his side to encourage them .
+  - “Mom, dad guess what! The mouse Perez wine.”
+  - “Wait a minute, "Go home? Did not you hear? We lost! Spring wasted counting slippers and candy They say that all this was for nothing? Yes.”
+  - “Do you know how many parties I missed this week? In many moves could have been how many girls could have known that drunk would have taken it off if I had been at his side to encourage them .”
 
 ## S2 E15 — The Grandparents
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0215.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - …- I know, is a junk Just 5 years How does it break so much? Bring the garage fridge maybe that works That breast decide!
+  - “…- I know, is a junk Just 5 years How does it break so much? Bring the garage fridge maybe that works That breast decide!”
 - Violence & injury — 1 moment(s)
-  - once strangled a guard border with my own hands Just wondering Study on home school Always with the books, you to eye cancer No, really, I found Folklore interesting .
+  - “once strangled a guard border with my own hands Just wondering Study on home school Always with the books, you to eye cancer No, really, I found Folklore interesting .”
 - Alcohol & drugs — 2 moment(s)
-  - Guaranteed! You do not know what is out there! There is free beer, and girls remove your shirt if you give them endorse it!
-  - oh, I'm so full, I should not ask for another Are you all right Grandma? if you want I can take the bag or whiskey.
+  - “Guaranteed! You do not know what is out there! There is free beer, and girls remove your shirt if you give them endorse it!”
+  - “oh, I'm so full, I should not ask for another Are you all right Grandma? if you want I can take the bag or whiskey.”
 
 ## S2 E16 — Traffic Ticket
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0216.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
-  - Are you kidding? "It's brilliant From now on what she says something it we take in the face! Francis, I can not! If I show this video mom go crazy! And then kill the messenger, that's me! You're asking me to suicide!
+  - “Are you kidding? "It's brilliant From now on what she says something it we take in the face! Francis, I can not! If I show this video mom go crazy! And then kill the messenger, that's me! You're asking me to suicide!”
 
 ## S2 E17 — Surgery
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0217.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - White blood cells are at 12.
-  - This is what we call "a hysterical patient" I'm not hysterical, I just think it would be a good idea I have another test decirdir blood before the body open up! Well that's a great idea, really great.
+  - “White blood cells are at 12.”
+  - “This is what we call "a hysterical patient" I'm not hysterical, I just think it would be a good idea I have another test decirdir blood before the body open up! Well that's a great idea, really great.”
 
 ## S2 E18 — Reese Cooks
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0218.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - None of breast Cordon Blue and no cake.
+  - “None of breast Cordon Blue and no cake.”
 - Violence & injury — 2 moment(s)
-  - What was your dream? I dreamed I was a man out the door with a large knife I wanted to be tied to all and kill eat your eyes everyone.
-  - What a surprise! The trick is to support rapid cutting knife on the knuckles and lifting Who cut it? I did.
+  - “What was your dream? I dreamed I was a man out the door with a large knife I wanted to be tied to all and kill eat your eyes everyone.”
+  - “What a surprise! The trick is to support rapid cutting knife on the knuckles and lifting Who cut it? I did.”
 
 ## S2 E19 — Tutoring Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0219.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Sorry, but the honor compels me to report this conversation with the deputy Then the honor to report that requires us to sleep with a sheet of elmo.
+  - “Sorry, but the honor compels me to report this conversation with the deputy Then the honor to report that requires us to sleep with a sheet of elmo.”
 - Porn / strippers / sex work — 2 moment(s)
-  - And could remove pornography for 5 minutes? Yes, it is over.
-  - I will put "the girls at the conference" No, no, no more porn! Brother, that's a documentary Au!, God! My eye! Try to find that one Francis, walk disgusting stuff.
+  - “And could remove pornography for 5 minutes? Yes, it is over.”
+  - “I will put "the girls at the conference" No, no, no more porn! Brother, that's a documentary Au!, God! My eye! Try to find that one Francis, walk disgusting stuff.”
 
 ## S2 E20 — Bowling
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0220.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Mom did not do this I mean it, you play bowling Oh, the hormones can be cut here with a knife What kind of parent leaves those children alone just like that.
+  - “Mom did not do this I mean it, you play bowling Oh, the hormones can be cut here with a knife What kind of parent leaves those children alone just like that.”
 
 ## S2 E21 — Malcolm vs. Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0221.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 2 moment(s)
-  - Keep pushing a**hole.
-  - Totally sucks, Is not there anything fun to do here?
+  - “Keep pushing a**hole.”
+  - “Totally sucks, Is not there anything fun to do here?”
 
 ## S2 E22 — Mini-Bike
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0222.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - But do not ever wash my things, I am only touches my underwear.
+  - “But do not ever wash my things, I am only touches my underwear.”
 
 ## S2 E23 — Carnival
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0223.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Hal brings my bra.
+  - “Hal brings my bra.”
 - Porn / strippers / sex work — 1 moment(s)
-  - First he said that the porn shop is having a window Redford auction Oh yeah and the county fair is in town now.
+  - “First he said that the porn shop is having a window Redford auction Oh yeah and the county fair is in town now.”
 - Violence & injury — 2 moment(s)
-  - Look at that, they have roller coasters, phenomena, knife throwers.
-  - Fake Blood Is that a Zombie? Tire casings Stevie, Stevie, Stevie, Stevie, Stevie, Stevie, Stevie Kitty have to leave space between Stevies your answer or not hear.
+  - “Look at that, they have roller coasters, phenomena, knife throwers.”
+  - “Fake Blood Is that a Zombie? Tire casings Stevie, Stevie, Stevie, Stevie, Stevie, Stevie, Stevie Kitty have to leave space between Stevies your answer or not hear.”
 - Swearing — 3 moment(s)
-  - Wow, when got new parents? Listen, little grain, better tell me where they are Before you jump on the phone and you rip your f***ing mouth face.
-  - Where the hell is the exit? We were hanging around here for 20 minutes.
-  - Dedicated to show us hell and send to an early grave These guys just do not know how much we suffer.
+  - “Wow, when got new parents? Listen, little grain, better tell me where they are Before you jump on the phone and you rip your f***ing mouth face.”
+  - “Where the hell is the exit? We were hanging around here for 20 minutes.”
+  - “Dedicated to show us hell and send to an early grave These guys just do not know how much we suffer.”
 
 ## S2 E24 — Evacuation
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0224.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - And we can be in place bathe naked girls! So tell us! Malcolm! No visitors.
+  - “And we can be in place bathe naked girls! So tell us! Malcolm! No visitors.”
 - Violence & injury — 2 moment(s)
-  - You're a bloody and vicious brat.
-  - blood does not circulate well.
+  - “You're a bloody and vicious brat.”
+  - “blood does not circulate well.”
 
 ## S2 E25 — Flashback
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0225.html
@@ -434,11 +434,11 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0301.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Do you realise how close your father came to being a registered sex offender?! A registered sex offender! And for what? For some trampy girl? Mom, please! I feel terrible.
+  - “Do you realise how close your father came to being a registered sex offender?! A registered sex offender! And for what? For some trampy girl? Mom, please! I feel terrible.”
 - Nudity & bodies — 1 moment(s)
-  - Me and my naked friends got tired of waiting for you.
+  - “Me and my naked friends got tired of waiting for you.”
 - Violence & injury — 1 moment(s)
-  - Watch out! > (CLATTERING) Dewey Can I see that spear gun? Sure.
+  - “Watch out! > (CLATTERING) Dewey Can I see that spear gun? Sure.”
 
 ## S3 E2 — 2. Emancipation (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0302.html
@@ -450,151 +450,151 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0303.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - A housewife, a career woman, sex slave.
+  - “A housewife, a career woman, sex slave.”
 - Nudity & bodies — 1 moment(s)
-  - Lillian Miller! # Mademoiselle from Armentieres, Parlez-vous # Mademoiselle from Armentieres, Parlez-vous # She got the palm and the croix de guerre # For washing soldiers' underwear # Inky dinky, parlez-vous # Whoa!
+  - “Lillian Miller! # Mademoiselle from Armentieres, Parlez-vous # Mademoiselle from Armentieres, Parlez-vous # She got the palm and the croix de guerre # For washing soldiers' underwear # Inky dinky, parlez-vous # Whoa!”
 - Violence & injury — 1 moment(s)
-  - He beat up Fred Nason? He's huge! Fred knocked Jimmy's hat off and Jimmy punched him in the face five times in a row in a second! Fred fell and he started hitting him.
+  - “He beat up Fred Nason? He's huge! Fred knocked Jimmy's hat off and Jimmy punched him in the face five times in a row in a second! Fred fell and he started hitting him.”
 - Alcohol & drugs — 2 moment(s)
-  - So, I really liked the book! Really? Oh, Karen, let's have some more wine! The voice of the narrator was shifted from character to character.
-  - (ALL GIGGLE DRUNKENLY) Shhh!
+  - “So, I really liked the book! Really? Oh, Karen, let's have some more wine! The voice of the narrator was shifted from character to character.”
+  - “(ALL GIGGLE DRUNKENLY) Shhh!”
 
 ## S3 E4 — 4. Malcolm's Girlfriend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0304.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - Are you blaming Francis on me? No! That's what you said! No, I meant that Lois, let's not have this veer off into us somehow not having sex tonight.
-  - For a while all we did is fight and make out, then fight, then make out.
-  - We can't make out all day.
+  - “Are you blaming Francis on me? No! That's what you said! No, I meant that Lois, let's not have this veer off into us somehow not having sex tonight.”
+  - “For a while all we did is fight and make out, then fight, then make out.”
+  - “We can't make out all day.”
 - Nudity & bodies — 1 moment(s)
-  - Ah-ah! No underwear, no clothes at all.
+  - “Ah-ah! No underwear, no clothes at all.”
 - Affairs / cheating — 1 moment(s)
-  - He and Vanessa had an affair last year - Shut up in there! Oh, man, who's got their assignment on Cambodia? I need to borrow it.
+  - “He and Vanessa had an affair last year - Shut up in there! Oh, man, who's got their assignment on Cambodia? I need to borrow it.”
 - Violence & injury — 3 moment(s)
-  - …who you wanna be? You wanna be a lap dog who ruins his life for some girl? For God's sake, Malcolm, you beat up a foreign exchange student!
-  - All because of some stupid girl! I'm on probation! I beat up a kid who doesn't even speak English!
-  - I'll go get us some punch, how's that sound? You know, son, this is all part of growing up.
+  - “…who you wanna be? You wanna be a lap dog who ruins his life for some girl? For God's sake, Malcolm, you beat up a foreign exchange student!”
+  - “All because of some stupid girl! I'm on probation! I beat up a kid who doesn't even speak English!”
+  - “I'll go get us some punch, how's that sound? You know, son, this is all part of growing up.”
 - Slut-shaming — 1 moment(s)
-  - Don't you wanna go to college? Don't you care about your future? You are not old enough to prioritise between homework and some tramp! Your mother's right.
+  - “Don't you wanna go to college? Don't you care about your future? You are not old enough to prioritise between homework and some tramp! Your mother's right.”
 
 ## S3 E5 — 5. Charity
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0305.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - Everyone hates her so much, they'll never pin it on us! God, look at this next to my name - emotionally dependent on pornography, loves nut clusters.
+  - “Everyone hates her so much, they'll never pin it on us! God, look at this next to my name - emotionally dependent on pornography, loves nut clusters.”
 - Violence & injury — 1 moment(s)
-  - Look, Lavernia may be evil, and she may be tough, but we can beat her.
+  - “Look, Lavernia may be evil, and she may be tough, but we can beat her.”
 - Alcohol & drugs — 3 moment(s)
-  - Lemme tell ya about loggers - they're filthy, drunken, low-life swine, .
-  - I need some licorice, some paper towels and a 6-pack of beer.
-  - More wine? Please.
+  - “Lemme tell ya about loggers - they're filthy, drunken, low-life swine, .”
+  - “I need some licorice, some paper towels and a 6-pack of beer.”
+  - “More wine? Please.”
 
 ## S3 E6 — 6. Health Scare
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0306.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - It's gonna be a blood bath! You're right, Dewey.
-  - You never know what animal the blood will attract.
+  - “It's gonna be a blood bath! You're right, Dewey.”
+  - “You never know what animal the blood will attract.”
 - Alcohol & drugs — 1 moment(s)
-  - Do it over, even if you're here all night! What? That paint you wasted is coming out of your pay.
+  - “Do it over, even if you're here all night! What? That paint you wasted is coming out of your pay.”
 
 ## S3 E7 — 7. Christmas
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0307.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Had to sleep with the pigs.
+  - “Had to sleep with the pigs.”
 
 ## S3 E8 — 8. Poker
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0308.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - No way! You be a gentleman! It's just like touching a corpse It's just like touching a corpse How many lessons have you had? What? None! Really? I'm impressed! You have very good instincts.
+  - “No way! You be a gentleman! It's just like touching a corpse It's just like touching a corpse How many lessons have you had? What? None! Really? I'm impressed! You have very good instincts.”
 
 ## S3 E9 — 9. Reese's Job
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0309.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - I get to make out with your girlfriend.
+  - “I get to make out with your girlfriend.”
 - Nudity & bodies — 1 moment(s)
-  - " # I'm so full of bacon, my body's meant for shakin' (MAKES DRUM-BEAT NOISES) # And when I start to wiggle, my nipples, they will jiggle # (MAKES WHOOPING NOISES) Once again I have to be embarrassed for the both of us.
+  - “" # I'm so full of bacon, my body's meant for shakin' (MAKES DRUM-BEAT NOISES) # And when I start to wiggle, my nipples, they will jiggle # (MAKES WHOOPING NOISES) Once again I have to be embarrassed for the both of us.”
 - Porn / strippers / sex work — 3 moment(s)
   - Stripper or strip-club material shows up in the plot.
-  - I'm just sorry the nearest stripper's 300 miles away.
-  - Is anyone thinking about this woman? I'm trying to keep a stripper in my head.
+  - “I'm just sorry the nearest stripper's 300 miles away.”
+  - “Is anyone thinking about this woman? I'm trying to keep a stripper in my head.”
 - Violence & injury — 1 moment(s)
-  - OK, ready! That is so cool! I wish you had a gun so we can really test this out.
+  - “OK, ready! That is so cool! I wish you had a gun so we can really test this out.”
 
 ## S3 E10 — Lois's Makeover
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0310.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
-  - What'll it cost me? What? Is it cheaper if we use my car, or do we have to get a room? You think I'm a hooker? No! You do! You think I'm a hooker! Thank you! Come with me! A prostitute.
-  - This guy was convinced I was a prostitute.
+  - “What'll it cost me? What? Is it cheaper if we use my car, or do we have to get a room? You think I'm a hooker? No! You do! You think I'm a hooker! Thank you! Come with me! A prostitute.”
+  - “This guy was convinced I was a prostitute.”
 
 ## S3 E11 — Company Picnic (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0311.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - So nice to Oh, my God! There's a toothpick in my eye! She's gushing blood! Put a tourniquet on her neck! I'm outside of my body.
+  - “So nice to Oh, my God! There's a toothpick in my eye! She's gushing blood! Put a tourniquet on her neck! I'm outside of my body.”
 - Alcohol & drugs — 1 moment(s)
-  - I drank an entire bottle of champagne then I passed out.
+  - “I drank an entire bottle of champagne then I passed out.”
 
 ## S3 E12 — Company Picnic (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0312.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - I never said anything about your mother! By the way, I don't have a porn problem! She introduced it into our home! I don't have any interest - It was her idea and now I'm the pervert! I don't know what it is about porn.
+  - “I never said anything about your mother! By the way, I don't have a porn problem! She introduced it into our home! I don't have any interest - It was her idea and now I'm the pervert! I don't know what it is about porn.”
 - Violence & injury — 1 moment(s)
-  - Where's Amis? He ran out yelling about government helicopters and murderous clones.
+  - “Where's Amis? He ran out yelling about government helicopters and murderous clones.”
 
 ## S3 E13 — Reese Drives
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0313.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - You got me here to hook up your stereo? Can't you get one of your friends to help you? And tick off the other friends I didn't ask? Malcolm, this goes far beyond just a stereo.
+  - “You got me here to hook up your stereo? Can't you get one of your friends to help you? And tick off the other friends I didn't ask? Malcolm, this goes far beyond just a stereo.”
 - Nudity & bodies — 1 moment(s)
-  - tell them I got under your bra.
+  - “tell them I got under your bra.”
 - Violence & injury — 1 moment(s)
-  - Reese surrounded by and 20 gallons of explosive fuel?! It's like giving a shark a sub-machine gun! (PHONE RINGS) Hello? Hey, Dad.
+  - “Reese surrounded by and 20 gallons of explosive fuel?! It's like giving a shark a sub-machine gun! (PHONE RINGS) Hello? Hey, Dad.”
 
 ## S3 E14 — Cynthia's Back
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0314.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - Brilliant! Maybe my third nipple can get me out of wrestling.
-  - Beep, beep She's not hiding her butt, she's hiding her big boobs! So if you tease her you're just gonna look like a.
-  - Reese is only interested in you cos I told him you have big breasts.
-  - He only wants you for your boobs! Stop saying that! He planned all this.
+  - “Brilliant! Maybe my third nipple can get me out of wrestling.”
+  - “Beep, beep She's not hiding her butt, she's hiding her big boobs! So if you tease her you're just gonna look like a.”
+  - “Reese is only interested in you cos I told him you have big breasts.”
+  - “He only wants you for your boobs! Stop saying that! He planned all this.”
 - Porn / strippers / sex work — 1 moment(s)
-  - We're getting rid of it and putting you back on corn dogs and porn for your own safety.
+  - “We're getting rid of it and putting you back on corn dogs and porn for your own safety.”
 - Violence & injury — 1 moment(s)
-  - I don't lie! So can we fly kites tomorrow? Sorry, son I have to testify at a murder trial.
+  - “I don't lie! So can we fly kites tomorrow? Sorry, son I have to testify at a murder trial.”
 - Suicide & self-harm — 1 moment(s)
-  - It's suicide.
+  - “It's suicide.”
 - Swearing — 2 moment(s)
-  - Here comes Her Royal Bitchiness.
-  - I would never do anything about it, but, God, hell, I notice! And if you don't, it means that .
+  - “Here comes Her Royal Bitchiness.”
+  - “I would never do anything about it, but, God, hell, I notice! And if you don't, it means that .”
 - Alcohol & drugs — 2 moment(s)
-  - Can we please go out and get hammered? Is getting drunk all you think about? We work like dogs all day, drink, then work like hungover dogs.
-  - There's more to life than falling down drunk and acting like a jackass.
+  - “Can we please go out and get hammered? Is getting drunk all you think about? We work like dogs all day, drink, then work like hungover dogs.”
+  - “There's more to life than falling down drunk and acting like a jackass.”
 
 ## S3 E15 — Hal's Birthday
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0315.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - He got a new back shaver, we got to eat cake cut by a knife and Mom has promised not to yell at us any more.
+  - “He got a new back shaver, we got to eat cake cut by a knife and Mom has promised not to yell at us any more.”
 
 ## S3 E16 — Hal Coaches
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0316.html
@@ -606,21 +606,21 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0317.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 5 moment(s)
-  - We'll lock the boys in the garage, open a bottle of wine (WHIMPERING) Oh, I know, honey.
-  - ) (WHIMPERS) (SIGHS) Is the roast medium rare? Did you put the wine in the fridge? My roast is perfect.
-  - Or we can wait till they come home and they might be drunk.
-  - Go and buy me some medicine, some cold medicine, and serve it to me in a champagne glass.
-  - (CRASH!) I don't believe it, he's drunk again! Face it, Francis, there's no hope for this guy.
+  - “We'll lock the boys in the garage, open a bottle of wine (WHIMPERING) Oh, I know, honey.”
+  - “) (WHIMPERS) (SIGHS) Is the roast medium rare? Did you put the wine in the fridge? My roast is perfect.”
+  - “Or we can wait till they come home and they might be drunk.”
+  - “Go and buy me some medicine, some cold medicine, and serve it to me in a champagne glass.”
+  - “(CRASH!) I don't believe it, he's drunk again! Face it, Francis, there's no hope for this guy.”
 
 ## S3 E18 — Poker #2
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0318.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - Did you hear the one about the astronaut and the hooker? Yeah, I didn't get it.
+  - “Did you hear the one about the astronaut and the hooker? Yeah, I didn't get it.”
 - Violence & injury — 2 moment(s)
-  - # "I'll Never Break Your Heart" - Backstreet Boys Missing something? What did you do with it? What are you doing with a gun? Give it back.
-  - No! You don't bring a gun into this house.
+  - “# "I'll Never Break Your Heart" - Backstreet Boys Missing something? What did you do with it? What are you doing with a gun? Give it back.”
+  - “No! You don't bring a gun into this house.”
 
 ## S3 E19 — Clip Show
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0319.html
@@ -632,22 +632,22 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0320.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - …Agh! (SCREAMING CONTINUES) I may be fat, stupid, colour-blind and dyslexic, but I don't have three nipples!
-  - We just saw Stevie's mom naked! And she's a total babe.
-  - We turn around and there she was, in the hallway, naked! Buck naked, except for her shower cap.
+  - “…Agh! (SCREAMING CONTINUES) I may be fat, stupid, colour-blind and dyslexic, but I don't have three nipples!”
+  - “We just saw Stevie's mom naked! And she's a total babe.”
+  - “We turn around and there she was, in the hallway, naked! Buck naked, except for her shower cap.”
 - Violence & injury — 4 moment(s)
-  - He can't account for his whereabouts when the murder occurred, and they found the murder weapon in his car!
-  - …In yer face! See? The wife did have time to run down here from home! That leaves her two minutes to stab him, remove the head, and still make it to the party in time.
-  - She'd have had to ask him to pick her up so she could stab him!
-  - …and rubbed it all over Moynihan! Impossible! You just don't wanna be proven wrong! I am not wrong! The knife entered at a downward angle.
+  - “He can't account for his whereabouts when the murder occurred, and they found the murder weapon in his car!”
+  - “…In yer face! See? The wife did have time to run down here from home! That leaves her two minutes to stab him, remove the head, and still make it to the party in time.”
+  - “She'd have had to ask him to pick her up so she could stab him!”
+  - “…and rubbed it all over Moynihan! Impossible! You just don't wanna be proven wrong! I am not wrong! The knife entered at a downward angle.”
 
 ## S3 E21 — Cliques
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0321.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - You haven't heard the last of this! Sucker! Um, Kevin, you're supposed to wear underwear with those.
-  - (ALL SOB) Thanks for the heads-up on the underwear.
+  - “You haven't heard the last of this! Sucker! Um, Kevin, you're supposed to wear underwear with those.”
+  - “(ALL SOB) Thanks for the heads-up on the underwear.”
 
 ## S3 E22 — Monkey
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0322.html
@@ -659,77 +659,77 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0401.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - No, I gave you back the key to the rifle closet.
+  - “No, I gave you back the key to the rifle closet.”
 - Alcohol & drugs — 1 moment(s)
-  - You've wasted your entire summer - lying in bed feeling - sorry for yourself.
+  - “You've wasted your entire summer - lying in bed feeling - sorry for yourself.”
 - Slut-shaming — 1 moment(s)
-  - And third, you were the one dating that slut manicurist! Here is where we put the houses for the horses.
+  - “And third, you were the one dating that slut manicurist! Here is where we put the houses for the horses.”
 
 ## S4 E2 — 2. Humilithon
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0402.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - I don't care! - (revving engine) - (screams) Malcolm! If you do this, I will never have sex with you again.
-  - Again? - They had sex? - He had sex with her? GIRL: That kid had sex? - GIRL: - She's a slut.
+  - “I don't care! - (revving engine) - (screams) Malcolm! If you do this, I will never have sex with you again.”
+  - “Again? - They had sex? - He had sex with her? GIRL: That kid had sex? - GIRL: - She's a slut.”
 - Nudity & bodies — 1 moment(s)
-  - And you must breast-feed.
+  - “And you must breast-feed.”
 - Porn / strippers / sex work — 1 moment(s)
-  - No! Tomorrow I may be leading aerobics again or faking my way through a wine-tasting seminar or-or playing the prostitute in the Old West stunt show.
+  - “No! Tomorrow I may be leading aerobics again or faking my way through a wine-tasting seminar or-or playing the prostitute in the Old West stunt show.”
 - Homophobic jokes — 1 moment(s)
-  - (mambo music playing) Papa loves mambo Mama loves mambo Look good and sway with it Gettin' so gay with it Shoutin' olÃ© with it.
+  - “(mambo music playing) Papa loves mambo Mama loves mambo Look good and sway with it Gettin' so gay with it Shoutin' olÃ© with it.”
 - Slut-shaming — 2 moment(s)
-  - Again? - They had sex? - He had sex with her? GIRL: That kid had sex? - GIRL: - She's a slut.
-  - BOY: - She's a big slut.
+  - “Again? - They had sex? - He had sex with her? GIRL: That kid had sex? - GIRL: - She's a slut.”
+  - “BOY: - She's a big slut.”
 
 ## S4 E3 — 3. Family Reunion
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0403.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Meanwhile, the grandma who goes shopping in her bra visits five times a year.
+  - “Meanwhile, the grandma who goes shopping in her bra visits five times a year.”
 - Violence & injury — 5 moment(s)
-  - We've been getting away with murder.
-  - …of pliers - And the calf has - to be restrained - So that it - doesn't kick so once you cut off their blood supply, they shrivel up and are replaced by fat tissue.
-  - You don't want to waste your time with a bunch of guns.
-  - And then the little boy, - about your age, Was found hanging in the moonlight, strangled by his own intestines.
-  - When my best friend - moved away - When I got beaten up - at school - When I spent - a whole summer crying And I didn't know why!
+  - “We've been getting away with murder.”
+  - “…of pliers - And the calf has - to be restrained - So that it - doesn't kick so once you cut off their blood supply, they shrivel up and are replaced by fat tissue.”
+  - “You don't want to waste your time with a bunch of guns.”
+  - “And then the little boy, - about your age, Was found hanging in the moonlight, strangled by his own intestines.”
+  - “When my best friend - moved away - When I got beaten up - at school - When I spent - a whole summer crying And I didn't know why!”
 
 ## S4 E4 — 4. Stupid Girl
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0404.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - You want to make out? Do you? Sure.
+  - “You want to make out? Do you? Sure.”
 - Violence & injury — 2 moment(s)
-  - Is there supposed to be this much blood in my pocket? - Okay, you're going - to the emergency room.
-  - Want some punch? - If I say yes, - you're just going to hit me.
+  - “Is there supposed to be this much blood in my pocket? - Okay, you're going - to the emergency room.”
+  - “Want some punch? - If I say yes, - you're just going to hit me.”
 - Alcohol & drugs — 2 moment(s)
-  - I know this senior - who's got some beer stashed.
-  - We're going to throw away his beer, get someone to take you home, and you should totally dump that guy.
+  - “I know this senior - who's got some beer stashed.”
+  - “We're going to throw away his beer, get someone to take you home, and you should totally dump that guy.”
 
 ## S4 E5 — 5. Forwards Backwards
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0405.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - (cheering) - You know, Daniela - could do that, too, - If your affair - hadn't scarred her for life.
+  - “(cheering) - You know, Daniela - could do that, too, - If your affair - hadn't scarred her for life.”
 - Violence & injury — 2 moment(s)
-  - And now whenever the moon is red, she comes down from a mountain lair to drink the blood of the innocent.
-  - …to blink! When he sees my face, - he's going to know - he doesn't have a chance! He's off and flying as he guns the car around the track He's jamming down the pedal like he's never coming back - Adventure's waiting…
+  - “And now whenever the moon is red, she comes down from a mountain lair to drink the blood of the innocent.”
+  - “…to blink! When he sees my face, - he's going to know - he doesn't have a chance! He's off and flying as he guns the car around the track He's jamming down the pedal like he's never coming back - Adventure's waiting…”
 - Alcohol & drugs — 1 moment(s)
-  - I got to tell you, Hal, this beer is tasting mighty bitter.
+  - “I got to tell you, Hal, this beer is tasting mighty bitter.”
 
 ## S4 E6 — 6. Forbidden Girlfriend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0406.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - And we can't have sex for a week.
-  - No sex for a week.
+  - “And we can't have sex for a week.”
+  - “No sex for a week.”
 - Violence & injury — 2 moment(s)
-  - Gretchen, my gun! Which one? Ooh, what am I saying? The Luger, hmm? Otto, this is nuts.
-  - I jumped in a line - at the mall to ditch my Dad, - And I ended up giving blood - at the Red Cross.
+  - “Gretchen, my gun! Which one? Ooh, what am I saying? The Luger, hmm? Otto, this is nuts.”
+  - “I jumped in a line - at the mall to ditch my Dad, - And I ended up giving blood - at the Red Cross.”
 
 ## S4 E7 — 7. Malcolm Holds His Tongue
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0407.html
@@ -741,232 +741,232 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0408.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - We had the best sex we had had in years.
+  - “We had the best sex we had had in years.”
 - Alcohol & drugs — 1 moment(s)
-  - Well, if I am such a genius, how come that I am drunk and lost in the desert with a bullet in my ass? Hal, listen to me.
+  - “Well, if I am such a genius, how come that I am drunk and lost in the desert with a bullet in my ass? Hal, listen to me.”
 
 ## S4 E9 — 9. Grandma Sues
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0409.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - And I could sleep with the baby.
+  - “And I could sleep with the baby.”
 - Nudity & bodies — 1 moment(s)
-  - Forcing your - own brother - Out into the night - in his underwear.
+  - “Forcing your - own brother - Out into the night - in his underwear.”
 - Violence & injury — 2 moment(s)
-  - Take as much blood as you need.
-  - Punch yourself - in the face.
+  - “Take as much blood as you need.”
+  - “Punch yourself - in the face.”
 
 ## S4 E10 — If Boys Were Girls
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0410.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Diet pills? - I have a slow - metabolism, okay? - And I don't burn up calories - having sex with a different boy Every night down by the creek.
-  - I am not pregnant, - because I know - That sex is wrong - and immoral and fun.
+  - “Diet pills? - I have a slow - metabolism, okay? - And I don't burn up calories - having sex with a different boy Every night down by the creek.”
+  - “I am not pregnant, - because I know - That sex is wrong - and immoral and fun.”
 - Nudity & bodies — 1 moment(s)
-  - Um, ah, how about this? (grunting) (yelping) (panting) (gasping) (screams) (clamoring) I can see through that old lady's bra.
+  - “Um, ah, how about this? (grunting) (yelping) (panting) (gasping) (screams) (clamoring) I can see through that old lady's bra.”
 - Violence & injury — 1 moment(s)
-  - So apparently, - there's a risk - Of extra blood loss - with a cesarean section, But Dr.
+  - “So apparently, - there's a risk - Of extra blood loss - with a cesarean section, But Dr.”
 - Alcohol & drugs — 1 moment(s)
-  - With tips, I can pay rent on the trailer - and still keep - my husband in beer.
+  - “With tips, I can pay rent on the trailer - and still keep - my husband in beer.”
 
 ## S4 E11 — Long Drive
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0411.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - What are you going to do, stretch out your arms to my house? (laughter) - And if the sperm - doesn't take, - The uterine wall - sloughs off cells, - And that's what - creates a period.
-  - So, on the night - I lost my virginity, - I learned something - very important - About relationships - and trust.
-  - But if you want - to have sex with someone, - Doesn't that mean - you really like them? Oh, no, honey.
-  - What are we going to talk about - for three hours? Sex.
-  - I'm not seeing Nicki! I'm not having sex! I know about protection! I know all that stuff! Malcolm, there's a lot more - to being a sexually - responsible person - Than what they teach - you in health class.
+  - “What are you going to do, stretch out your arms to my house? (laughter) - And if the sperm - doesn't take, - The uterine wall - sloughs off cells, - And that's what - creates a period.”
+  - “So, on the night - I lost my virginity, - I learned something - very important - About relationships - and trust.”
+  - “But if you want - to have sex with someone, - Doesn't that mean - you really like them? Oh, no, honey.”
+  - “What are we going to talk about - for three hours? Sex.”
+  - “I'm not seeing Nicki! I'm not having sex! I know about protection! I know all that stuff! Malcolm, there's a lot more - to being a sexually - responsible person - Than what they teach - you in health class.”
 - Violence & injury — 1 moment(s)
-  - Which is just medical jargon for the simple fact that every time you boys misbehave, - you might as well - be taking a knife - And putting it in that baby's - tiny little heart.
+  - “Which is just medical jargon for the simple fact that every time you boys misbehave, - you might as well - be taking a knife - And putting it in that baby's - tiny little heart.”
 
 ## S4 E12 — Kicked Out
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0412.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - My brothers are seeing who can go the longest - without changing - their underwear.
-  - (gasping) (music playing) - How come she's - allowed to be naked - On the kitchen table, - and I'm not? Dewey, if a cop - tells you to do something, - you do it.
+  - “My brothers are seeing who can go the longest - without changing - their underwear.”
+  - “(gasping) (music playing) - How come she's - allowed to be naked - On the kitchen table, - and I'm not? Dewey, if a cop - tells you to do something, - you do it.”
 - Violence & injury — 1 moment(s)
-  - …man Well, don't trust your soul - To no backwoods - Southern lawyer 'Cause the judge in the town's Got bloodstains on his hands Bloody, bloody hands.
+  - “…man Well, don't trust your soul - To no backwoods - Southern lawyer 'Cause the judge in the town's Got bloodstains on his hands Bloody, bloody hands.”
 - Alcohol & drugs — 1 moment(s)
-  - So that makes it okay that Malcolm spent the night - sleeping on a booze- - soaked mattress - In some dark alley? - Craig - Oh, my God! He's - probably dead by now! - Malcolm can take care - of himself.
+  - “So that makes it okay that Malcolm spent the night - sleeping on a booze- - soaked mattress - In some dark alley? - Craig - Oh, my God! He's - probably dead by now! - Malcolm can take care - of himself.”
 
 ## S4 E13 — Stereo Store
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0413.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - You know what would have helped? Some sex.
+  - “You know what would have helped? Some sex.”
 - Porn / strippers / sex work — 3 moment(s)
   - Stripper or strip-club material shows up in the plot.
-  - She's just like my mom, - except she's not - a 60-year-old stripper.
-  - Look, I didn't know - when I booked your company That you made porn.
+  - “She's just like my mom, - except she's not - a 60-year-old stripper.”
+  - “Look, I didn't know - when I booked your company That you made porn.”
 - Alcohol & drugs — 3 moment(s)
-  - They're just wasted on me.
-  - Guys! Hey, hey, you want to go get a beer? I'm buying.
-  - (echoing): Can I get you a beer? I'm good.
+  - “They're just wasted on me.”
+  - “Guys! Hey, hey, you want to go get a beer? I'm buying.”
+  - “(echoing): Can I get you a beer? I'm good.”
 
 ## S4 E14 — Hal's Friend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0414.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - The XJ 7000! Cool! What is it? It's a paintball gun.
-  - Dabney, your grandfather got you this amazing gun, and you have to use it.
-  - (paintball guns popping) Stevie, cover me! (vicious yelling) (rapid popping) I'm so glad I dragged Dabney here.
-  - (guns popping) - (gun pops) - (gasps) Aren't I dead by now? - In the game, you are.
-  - Larry, I don't believe you! - I invited you over - for a couple of beers, And you punch a hole in my wall? This is exactly why I haven't seen you in all these! That little bat did all that? (laughing) This is great.
+  - “The XJ 7000! Cool! What is it? It's a paintball gun.”
+  - “Dabney, your grandfather got you this amazing gun, and you have to use it.”
+  - “(paintball guns popping) Stevie, cover me! (vicious yelling) (rapid popping) I'm so glad I dragged Dabney here.”
+  - “(guns popping) - (gun pops) - (gasps) Aren't I dead by now? - In the game, you are.”
+  - “Larry, I don't believe you! - I invited you over - for a couple of beers, And you punch a hole in my wall? This is exactly why I haven't seen you in all these! That little bat did all that? (laughing) This is great.”
 - Alcohol & drugs — 1 moment(s)
-  - Sweet! - First beer, 7:04.
+  - “Sweet! - First beer, 7:04.”
 
 ## S4 E15 — Garage Sale
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0415.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - (whinnies) (laughs) Boy, I don't remember that he was so fat.
+  - “(whinnies) (laughs) Boy, I don't remember that he was so fat.”
 
 ## S4 E16 — Academic Octathalon
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0416.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - …you're out - throwing our money away! - Oh, here we go! - By the way, - Are we actually going to - have sex on this vacation, - Or is it going to be - St.
-  - You should spend less money! We never have sex! Are you too tired for that? How can we when your parents are always visiting? - I cannot wait until I am old - and senile.
-  - I'm going to be - hooked up to life support - in your attic Running you ragged with crazy old person demands.
+  - “…you're out - throwing our money away! - Oh, here we go! - By the way, - Are we actually going to - have sex on this vacation, - Or is it going to be - St.”
+  - “You should spend less money! We never have sex! Are you too tired for that? How can we when your parents are always visiting? - I cannot wait until I am old - and senile.”
+  - “I'm going to be - hooked up to life support - in your attic Running you ragged with crazy old person demands.”
 - Violence & injury — 1 moment(s)
-  - …Because that's the only way - they're going to become - successful enough - So that people don't - beat them up every day For the rest of their lives.
+  - “…Because that's the only way - they're going to become - successful enough - So that people don't - beat them up every day For the rest of their lives.”
 - Alcohol & drugs — 1 moment(s)
-  - …money like we have a key to the mint or someplace! The square root of 8,649 bottles - Of non-alcoholic beer - on the wall The square root of 8,649 bottles (inhales) Beer - Take one down, - pass it around The square…
+  - “…money like we have a key to the mint or someplace! The square root of 8,649 bottles - Of non-alcoholic beer - on the wall The square root of 8,649 bottles (inhales) Beer - Take one down, - pass it around The square…”
 - Fat-shaming — 1 moment(s)
-  - Isn't it amazing? Are you sure this is going to fit because you're so fat.
+  - “Isn't it amazing? Are you sure this is going to fit because you're so fat.”
 
 ## S4 E17 — Clip Show #2
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0417.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Listen, when the kids at school ask you about this tell them I got under your bra.
+  - “Listen, when the kids at school ask you about this tell them I got under your bra.”
 - Suicide & self-harm — 2 moment(s)
-  - What? - And then I'll commit suicide - a few days later.
-  - No, I You're wishing me dead? Why would you say such a thing? Oh, and there is no reaction at all to my suicide.
+  - “What? - And then I'll commit suicide - a few days later.”
+  - “No, I You're wishing me dead? Why would you say such a thing? Oh, and there is no reaction at all to my suicide.”
 
 ## S4 E18 — Reese's Party
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0418.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - We've got our - rhythm method child, Our diaphragm child, our condom child.
+  - “We've got our - rhythm method child, Our diaphragm child, our condom child.”
 - Nudity & bodies — 1 moment(s)
-  - Well, I went - through it! Mom! Oh, for the love of Pete! Reese blew his nose on my shirt! - Because Dewey put his dirty - underwear on my pillow!
+  - “Well, I went - through it! Mom! Oh, for the love of Pete! Reese blew his nose on my shirt! - Because Dewey put his dirty - underwear on my pillow!”
 - Fat-shaming — 1 moment(s)
-  - You boys aren't even - supposed to be here - And you're - throwing A coed slumber party? Who's the fat chick? Okay, that's it.
+  - “You boys aren't even - supposed to be here - And you're - throwing A coed slumber party? Who's the fat chick? Okay, that's it.”
 
 ## S4 E19 — Future Malcolm
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0419.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - What color - are your nipples? - It's all - very tasteful, - Which is beside - the point, - Because, guess what, - it's my body, - So you can't tell me - what to do with it.
-  - Posing? As in naked? Yes.
-  - I remember conversations - with the word "naked" in them.
-  - So this morning, Dewey tried to go to school in his underwear because apparently the baby doesn't like his wardrobe.
+  - “What color - are your nipples? - It's all - very tasteful, - Which is beside - the point, - Because, guess what, - it's my body, - So you can't tell me - what to do with it.”
+  - “Posing? As in naked? Yes.”
+  - “I remember conversations - with the word "naked" in them.”
+  - “So this morning, Dewey tried to go to school in his underwear because apparently the baby doesn't like his wardrobe.”
 - Alcohol & drugs — 1 moment(s)
-  - What? There's no Camembert? You expect me to have my wine without any Camembert? - That ruins - my entire aesthetic! - Francis - Forget it.
+  - “What? There's no Camembert? You expect me to have my wine without any Camembert? - That ruins - my entire aesthetic! - Francis - Forget it.”
 
 ## S4 E20 — Baby (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0420.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - I'm the third person - to wear this underwear.
+  - “I'm the third person - to wear this underwear.”
 - Violence & injury — 1 moment(s)
-  - REESE: - Ow! Shotgun! (grunts) - Wow, honey, you wouldn't believe - the huge pothole We just went over.
+  - “REESE: - Ow! Shotgun! (grunts) - Wow, honey, you wouldn't believe - the huge pothole We just went over.”
 - Racism & slurs — 1 moment(s)
-  - You see, she's a horrible bigot.
+  - “You see, she's a horrible bigot.”
 
 ## S4 E21 — Baby (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0421.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - It's important - that you let your baby Suck the obstruction out of the breast, and don't be alarmed if the baby then vomits up a cottage cheese-type substance.
+  - “It's important - that you let your baby Suck the obstruction out of the breast, and don't be alarmed if the baby then vomits up a cottage cheese-type substance.”
 - Violence & injury — 1 moment(s)
-  - Mother! Telephone! Is the border station going to return my rifle? Hello? Yes? - Oh, I'm glad - to hear you say that.
+  - “Mother! Telephone! Is the border station going to return my rifle? Hello? Yes? - Oh, I'm glad - to hear you say that.”
 - Alcohol & drugs — 3 moment(s)
-  - So you're a drug dealer.
-  - (all talking at once) Oh, Hal, where are you? Well, let's go! Your mother's in labor! We just wasted 45 minutes in the security office.
-  - What?! This slutty cocktail waitress in Manitoba.
+  - “So you're a drug dealer.”
+  - “(all talking at once) Oh, Hal, where are you? Well, let's go! Your mother's in labor! We just wasted 45 minutes in the security office.”
+  - “What?! This slutty cocktail waitress in Manitoba.”
 
 ## S4 E22 — Day Care
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0422.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - They think our hands are sex organs.
+  - “They think our hands are sex organs.”
 - Nudity & bodies — 2 moment(s)
-  - What? - Well, Reese, six months, - But he was a nipple-biter, - so I didn't blame you.
-  - Really? - Well, it's not - all nude.
+  - “What? - Well, Reese, six months, - But he was a nipple-biter, - so I didn't blame you.”
+  - “Really? - Well, it's not - all nude.”
 - Porn / strippers / sex work — 2 moment(s)
   - Stripper or strip-club material shows up in the plot.
-  - It's gone now, bought out by a strip club.
+  - “It's gone now, bought out by a strip club.”
 - Alcohol & drugs — 1 moment(s)
-  - I don't need no evil weed Oh, man.
+  - “I don't need no evil weed Oh, man.”
 
 ## S5 E1 — 1. Vegas
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0501.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - My best friend shot in the restaurant.
-  - I think I like yours the blood.
+  - “My best friend shot in the restaurant.”
+  - “I think I like yours the blood.”
 - Alcohol & drugs — 1 moment(s)
-  - Two cocktails with apricots.
+  - “Two cocktails with apricots.”
 
 ## S5 E2 — 2. Watching The Baby
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0502.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - We can not simply jedziæ amazing car Three incredibly sexy girls.
+  - “We can not simply jedziæ amazing car Three incredibly sexy girls.”
 - Nudity & bodies — 2 moment(s)
-  - He said "nipple".
-  - (Nipple, nipple) / Craig Feldspar.
+  - “He said "nipple".”
+  - “(Nipple, nipple) / Craig Feldspar.”
 - Alcohol & drugs — 1 moment(s)
-  - What do we do now? I do not know from where they can be taken ¹ æ beer.
+  - “What do we do now? I do not know from where they can be taken ¹ æ beer.”
 
 ## S5 E3 — 3. Goodbye Kitty
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0503.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - That, and completely mechanical nature our sex life.
+  - “That, and completely mechanical nature our sex life.”
 - Nudity & bodies — 2 moment(s)
-  - Already passed out of the food with the word of oiczków, but are still being wants to be breast-fed.
-  - But it comes to second base (the catching for boob) if I've got something to say.
+  - “Already passed out of the food with the word of oiczków, but are still being wants to be breast-fed.”
+  - “But it comes to second base (the catching for boob) if I've got something to say.”
 
 ## S5 E4 — 4. Thanksgiving
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0504.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
-  - sh*t at dinner tonight! Do not take it as the meal to.
-  - But the funny thing is, Also I do not care! Damn, Dewey, to the room! - Let's get this behind us are! - No, Mom! Count to 10! Count to 10! Crazy world of Malcolm T the interpreter: MoszeUsz Tomorrow's Thanksgiving Feast.
-  - Yesterday sucks Did you come to trash the ocean floor.
-  - Where are we all? Fireworks? The bastards! None of us said no! The hell with them! I'll be talking of.
+  - “sh*t at dinner tonight! Do not take it as the meal to.”
+  - “But the funny thing is, Also I do not care! Damn, Dewey, to the room! - Let's get this behind us are! - No, Mom! Count to 10! Count to 10! Crazy world of Malcolm T the interpreter: MoszeUsz Tomorrow's Thanksgiving Feast.”
+  - “Yesterday sucks Did you come to trash the ocean floor.”
+  - “Where are we all? Fireworks? The bastards! None of us said no! The hell with them! I'll be talking of.”
 - Alcohol & drugs — 7 moment(s)
-  - Beer! My stepfather as many drinks Also never counted.
-  - Somebody will lose the beer? 'Scuse me.
-  - My parents in relation to beers are a little less at ease.
-  - So what if Also I enjoy a couple of beers, I looks as the front of colleagues, I give the woman a lead? - What? - I do not care about the her my feelings.
-  - God, you're drunk! What the hell is wrong with you are wrong? I'll tell you what's wrong with me are wrong.
-  - I'm drunk because I'm a coward.
-  - And you know what? I was thinking of, Also forget about getting drunk the c up.
+  - “Beer! My stepfather as many drinks Also never counted.”
+  - “Somebody will lose the beer? 'Scuse me.”
+  - “My parents in relation to beers are a little less at ease.”
+  - “So what if Also I enjoy a couple of beers, I looks as the front of colleagues, I give the woman a lead? - What? - I do not care about the her my feelings.”
+  - “God, you're drunk! What the hell is wrong with you are wrong? I'll tell you what's wrong with me are wrong.”
+  - “I'm drunk because I'm a coward.”
+  - “And you know what? I was thinking of, Also forget about getting drunk the c up.”
 
 ## S5 E5 — 5. Malcolm Films Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0505.html
@@ -982,34 +982,34 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0506.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.
+  - “Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.”
 
 ## S5 E7 — 7. Christmas Trees
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0507.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Watch out, he's got murder in his eyes and a cute fluffy tail! Checkmate, chipmunk! And three makes ten.
-  - And where would I get a spear gun? This is your son? It depends on what you mean by son.
+  - “Watch out, he's got murder in his eyes and a cute fluffy tail! Checkmate, chipmunk! And three makes ten.”
+  - “And where would I get a spear gun? This is your son? It depends on what you mean by son.”
 
 ## S5 E8 — 8. Block Party
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0508.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - If I wanted to you solicitation, is already on your wisielibycie my underwear.
+  - “If I wanted to you solicitation, is already on your wisielibycie my underwear.”
 
 ## S5 E9 — 9. Dirty Magazine
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0509.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Touches of a me exactly that! Practically the saliva and up over my sexy long-oñmi.
+  - “Touches of a me exactly that! Practically the saliva and up over my sexy long-oñmi.”
 - Porn / strippers / sex work — 1 moment(s)
-  - It's pornography.
+  - “It's pornography.”
 - Alcohol & drugs — 2 moment(s)
-  - You're good for nothing! EOE wasted the completely four days learning the cylinder.
-  - Otto, it's so wonderful that the party! Everything is perfect the e Quiet, please! Is everyone could briefly interrupt getting drunk?
+  - “You're good for nothing! EOE wasted the completely four days learning the cylinder.”
+  - “Otto, it's so wonderful that the party! Everything is perfect the e Quiet, please! Is everyone could briefly interrupt getting drunk?”
 
 ## S5 E10 — Hot Tub
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0510.html
@@ -1021,113 +1021,113 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0511.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - This is not anything different differs from spraying perfume or stuffing bra tomatoes.
+  - “This is not anything different differs from spraying perfume or stuffing bra tomatoes.”
 - Violence & injury — 2 moment(s)
-  - I employ the corpse actors, that played a mysterious weekend crime.
-  - My specjalnoæ - murder.
+  - “I employ the corpse actors, that played a mysterious weekend crime.”
+  - “My specjalnoæ - murder.”
 
 ## S5 E12 — Softball
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0512.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - Ch the boys! I have found the beer, which schowalicie in the garage u!
-  - I love you so much, the boys ch Przytuliæ you? The busiest him a little to find the beer.
+  - “Ch the boys! I have found the beer, which schowalicie in the garage u!”
+  - “I love you so much, the boys ch Przytuliæ you? The busiest him a little to find the beer.”
 
 ## S5 E13 — Lois' Sister
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0513.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - …a victim of the at my prom! When the louse am in the garage and nakry am the boyfriend of her boyfriend in sex with my sister are the on the hood of my car!
-  - As this sexy nun which every year distributes toys.
+  - “…a victim of the at my prom! When the louse am in the garage and nakry am the boyfriend of her boyfriend in sex with my sister are the on the hood of my car!”
+  - “As this sexy nun which every year distributes toys.”
 - Affairs / cheating — 1 moment(s)
-  - …subject! God, a repeat of the scandal of apple flans made pretty in! Not important for this to wywlekaæ affair with the apple flans made pretty in!
+  - “…subject! God, a repeat of the scandal of apple flans made pretty in! Not important for this to wywlekaæ affair with the apple flans made pretty in!”
 - Swearing — 4 moment(s)
-  - …very ba itself of doing this! And the crown on your tooth, arised when Cindy Bauer and the name and my bitches are, and you Pobi Did you come to her and thinking of the AoE Also never know about it!
-  - How's Larry? It can not OCIA the crap angle of up to have the.
-  - Get out all of you! - Move the damn car! - I think the battery pad! I'll fix it.
-  - Okay, you know what? You can wywiadczyæ me UGE aperture and the crap pretend like you depends on me and the o!
+  - “…very ba itself of doing this! And the crown on your tooth, arised when Cindy Bauer and the name and my bitches are, and you Pobi Did you come to her and thinking of the AoE Also never know about it!”
+  - “How's Larry? It can not OCIA the crap angle of up to have the.”
+  - “Get out all of you! - Move the damn car! - I think the battery pad! I'll fix it.”
+  - “Okay, you know what? You can wywiadczyæ me UGE aperture and the crap pretend like you depends on me and the o!”
 - Alcohol & drugs — 1 moment(s)
-  - Get in the car! What you have reached the æ car without an engine? Than than a party with beer.
+  - “Get in the car! What you have reached the æ car without an engine? Than than a party with beer.”
 
 ## S5 E14 — Malcolm Dates A Family
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0514.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - My mom is horrible! My mom call of a drunk on my birthday ¿¿So that I yczyæ money.
+  - “My mom is horrible! My mom call of a drunk on my birthday ¿¿So that I yczyæ money.”
 
 ## S5 E15 — Reese's Apartment
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0515.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - Usually I'm so confident, but by t the wonder Affairs over each time the aspect of This is good.
+  - “Usually I'm so confident, but by t the wonder Affairs over each time the aspect of This is good.”
 - Swearing — 2 moment(s)
-  - …Do not complain, ole! Hal, give yourself another the minute! You can store both up close the! Oh sh*t.
-  - I do not believe for the hell of the you przejæ by their parents.
+  - “…Do not complain, ole! Hal, give yourself another the minute! You can store both up close the! Oh sh*t.”
+  - “I do not believe for the hell of the you przejæ by their parents.”
 - Alcohol & drugs — 1 moment(s)
-  - Do not worry, essay will not wasted the.
+  - “Do not worry, essay will not wasted the.”
 
 ## S5 E16 — Malcolm Visits College
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0516.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.
+  - “Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.”
 
 ## S5 E17 — Polly In The Middle
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0517.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - Oh, my God also? This woman has fallen from the tree "sex" and hit the ball and the time you declining c Abe, you stud.
-  - Craig is just the Security of the sexual themselves and fantasies.
-  - I would like only the crap AAE ¿the idea of ??sex.
+  - “Oh, my God also? This woman has fallen from the tree "sex" and hit the ball and the time you declining c Abe, you stud.”
+  - “Craig is just the Security of the sexual themselves and fantasies.”
+  - “I would like only the crap AAE ¿the idea of ??sex.”
 - Swearing — 2 moment(s)
-  - No, it is very important At any culture! But me hanging, because these guys keep the how a**holes.
-  - (Spanish for "you") You speak the crap I have zrobiæ.
+  - “No, it is very important At any culture! But me hanging, because these guys keep the how a**holes.”
+  - “(Spanish for "you") You speak the crap I have zrobiæ.”
 
 ## S5 E18 — Dewey's Special Class
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0518.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - …finally understandable, I should also AEOI to the library! And you know what? You can instantly watch the porn Daae the Internet and the librarian can not zabroniæ.
+  - “…finally understandable, I should also AEOI to the library! And you know what? You can instantly watch the porn Daae the Internet and the librarian can not zabroniæ.”
 - Alcohol & drugs — 1 moment(s)
-  - I wasted no of the 150 bucks.
+  - “I wasted no of the 150 bucks.”
 
 ## S5 E19 — Experiment
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0519.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - And we will end the blood.
-  - We tried acids, we tried the rules - How much blood has been with us? - A lot.
+  - “And we will end the blood.”
+  - “We tried acids, we tried the rules - How much blood has been with us? - A lot.”
 - Alcohol & drugs — 1 moment(s)
-  - But I want to know ¿ebycie that the if y jaka the bniêta pair steal me and later brought up girl it will be on your wine.
+  - “But I want to know ¿ebycie that the if y jaka the bniêta pair steal me and later brought up girl it will be on your wine.”
 
 ## S5 E20 — Victor's Other Family
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0520.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Is not it going to explode out of the grave and strangle you.
+  - “Is not it going to explode out of the grave and strangle you.”
 - Swearing — 4 moment(s)
-  - A little sh*t.
-  - Coconut cake! From the woman who stole the a your father fluids! I will make of him a bastard!
-  - And the pain as hell! Not Suffering dotrzymywaæ promises, Dewey.
-  - What the hell are you talking about?! - I'm trying to help you.
+  - “A little sh*t.”
+  - “Coconut cake! From the woman who stole the a your father fluids! I will make of him a bastard!”
+  - “And the pain as hell! Not Suffering dotrzymywaæ promises, Dewey.”
+  - “What the hell are you talking about?! - I'm trying to help you.”
 
 ## S5 E21 — Reese Joins The Army (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0521.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Are you afraid of your mother's underwear? What problem do you see in bielinie mother? - Stop speak "beautiful mother".
+  - “Are you afraid of your mother's underwear? What problem do you see in bielinie mother? - Stop speak "beautiful mother".”
 - Violence & injury — 1 moment(s)
-  - …the EOE your backpack and semi-repellent coat? Backpack as domylam up Pulling off was achieved with the corpse, and semi-coat Is going to rain?
+  - “…the EOE your backpack and semi-repellent coat? Backpack as domylam up Pulling off was achieved with the corpse, and semi-coat Is going to rain?”
 
 ## S5 E22 — Reese Joins The Army (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0522.html
@@ -1141,265 +1141,262 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0601.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - What do you expect of people who would give Reese a gun? Oh, that's right.
-  - One of mine interrupted a war game because his rifle was kind of digging into his shoulder.
+  - “What do you expect of people who would give Reese a gun? Oh, that's right.”
+  - “One of mine interrupted a war game because his rifle was kind of digging into his shoulder.”
 - Suicide & self-harm — 1 moment(s)
-  - So you're saying if he dies, then you'll be even? I didn't say he was going to die! - Malcolm, he almost killed himself with Bisquick once.
+  - “So you're saying if he dies, then you'll be even? I didn't say he was going to die! - Malcolm, he almost killed himself with Bisquick once.”
 
 ## S6 E2 — 2. Busey's Run Away
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0602.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - A week of freedom out in the desert, naked women, getting back to your primal nature, naked women, people doing art, naked women.
-  - Are all the women naked? That is all you heard, isn't it? Mom Dad breakfast Jamie Dewey Dad dinner.
+  - “A week of freedom out in the desert, naked women, getting back to your primal nature, naked women, people doing art, naked women.”
+  - “Are all the women naked? That is all you heard, isn't it? Mom Dad breakfast Jamie Dewey Dad dinner.”
 
 ## S6 E3 — 3. Standee
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0603.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
-  - Where's the beer? Oh, he took that.
-  - It's a picture of a man with a mop and a beer.
-  - It really brings out the finish in the wine.
+  - “Where's the beer? Oh, he took that.”
+  - “It's a picture of a man with a mop and a beer.”
+  - “It really brings out the finish in the wine.”
 - Racism & slurs — 3 moment(s)
-  - 25 an hour! You know that sign is a bigoted image, Malcolm.
-  - Maybe you can explain to everyone here why this isn't racist.
-  - It's probably the saddest sight of all when racism impacts on white people.
+  - “25 an hour! You know that sign is a bigoted image, Malcolm.”
+  - “Maybe you can explain to everyone here why this isn't racist.”
+  - “It's probably the saddest sight of all when racism impacts on white people.”
 
 ## S6 E4 — 4. Pearl Harbor
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0604.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - She's sexually active and I'm pretty sure she's into drugs, and the only reason why he's interested in her is because he's so insecure about himself.
+  - “She's sexually active and I'm pretty sure she's into drugs, and the only reason why he's interested in her is because he's so insecure about himself.”
 - Nudity & bodies — 1 moment(s)
-  - How can a man have nipples that big? What? You can hang out here if you need to get away from your dad, but don't act like we're friends, okay? Why are you mad at me? Because I stick up for you all the time.
+  - “How can a man have nipples that big? What? You can hang out here if you need to get away from your dad, but don't act like we're friends, okay? Why are you mad at me? Because I stick up for you all the time.”
 - Violence & injury — 2 moment(s)
-  - I especially liked the part where the father was stabbed in the back by his son.
-  - If anyone cares, I'll be in the garage alone, commemorating our heroic stand against a heartless, back-stabbing, traitorous attack.
+  - “I especially liked the part where the father was stabbed in the back by his son.”
+  - “If anyone cares, I'll be in the garage alone, commemorating our heroic stand against a heartless, back-stabbing, traitorous attack.”
 - Alcohol & drugs — 1 moment(s)
-  - And then go away! Seriously, what do you have to do to get popped for drunk and disorderly around here? He was out on the curb in his underpants, rolling burning trash cans into the street.
+  - “And then go away! Seriously, what do you have to do to get popped for drunk and disorderly around here? He was out on the curb in his underpants, rolling burning trash cans into the street.”
 
 ## S6 E5 — 5. Kitty's Back
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0605.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - You mean sex? I'm afraid so.
+  - “You mean sex? I'm afraid so.”
 - Alcohol & drugs — 3 moment(s)
-  - The last two years of my life have been a nightmare of booze binges and hotel rooms.
-  - I'll just have another Margarita.
-  - I'll have another Margarita.
+  - “The last two years of my life have been a nightmare of booze binges and hotel rooms.”
+  - “I'll just have another Margarita.”
+  - “I'll have another Margarita.”
 
 ## S6 E6 — 6. Hal's Christmas Gift
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0606.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - What?! Oh, for God's sakes! Can you think of a Christmas reason for stopping somewhere I can sell blood? Oh, Hal, don't worry about it.
+  - “What?! Oh, for God's sakes! Can you think of a Christmas reason for stopping somewhere I can sell blood? Oh, Hal, don't worry about it.”
 
 ## S6 E7 — 7. Hal Sleepwalks
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0607.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Why don't you just do something simple? You know, get a bottle of champagne, watch a sunset, recite a poem to her.
+  - “Why don't you just do something simple? You know, get a bottle of champagne, watch a sunset, recite a poem to her.”
 
 ## S6 E8 — 8. Lois Battles Jamie
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0608.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Did you know that the Newmans put a statue of a naked guy on their front lawn a week ago? We should be ashamed of ourselves.
+  - “Did you know that the Newmans put a statue of a naked guy on their front lawn a week ago? We should be ashamed of ourselves.”
 - Violence & injury — 2 moment(s)
-  - I stuck a bloody Band-Aid in it before we left.
-  - I have to empty the blood out of my shoes again.
+  - “I stuck a bloody Band-Aid in it before we left.”
+  - “I have to empty the blood out of my shoes again.”
 
 ## S6 E9 — 9. Malcolm's Car
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0609.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - A car bra! What? You had $200.
-  - Her bra flew off before I even hit the freeway.
+  - “A car bra! What? You had $200.”
+  - “Her bra flew off before I even hit the freeway.”
 - Affairs / cheating — 4 moment(s)
-  - Margie's husband has a gambling problem, and Paula in there, she is having an affair.
-  - It's really eating away at my savings, but I guess I have no one to blame but myself, and, oh, my God, you know about the affair.
-  - Like that Paula woman, Fred's wife? Not only is she cheating on her husband, now she's two-timing on her golf instructor with her swing-dance teacher.
-  - You're cheating on me with Craig Feldspar?! I think we're both victims here, Fred.
+  - “Margie's husband has a gambling problem, and Paula in there, she is having an affair.”
+  - “It's really eating away at my savings, but I guess I have no one to blame but myself, and, oh, my God, you know about the affair.”
+  - “Like that Paula woman, Fred's wife? Not only is she cheating on her husband, now she's two-timing on her golf instructor with her swing-dance teacher.”
+  - “You're cheating on me with Craig Feldspar?! I think we're both victims here, Fred.”
 - Alcohol & drugs — 1 moment(s)
-  - Today was totally wasted.
+  - “Today was totally wasted.”
 
 ## S6 E10 — Billboard
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0610.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - You just dreamed me up as a super-sexy way to face the fact that you're going to live the rest of your life alone.
-  - This woman is beautiful, she's sexy, and perfect and gigantic, but you know what? She isn't real.
+  - “You just dreamed me up as a super-sexy way to face the fact that you're going to live the rest of your life alone.”
+  - “This woman is beautiful, she's sexy, and perfect and gigantic, but you know what? She isn't real.”
 - Nudity & bodies — 1 moment(s)
-  - If it weren't for Value Village, most of this family would have to run around naked.
+  - “If it weren't for Value Village, most of this family would have to run around naked.”
 - Porn / strippers / sex work — 2 moment(s)
-  - Of what? Of the fact that they're not hot enough to be strippers.
-  - So all women want to be strippers? There are no women in the world who want to be doctors or lawyers or anything like that? Cut the act, Malcolm.
+  - “Of what? Of the fact that they're not hot enough to be strippers.”
+  - “So all women want to be strippers? There are no women in the world who want to be doctors or lawyers or anything like that? Cut the act, Malcolm.”
 - Violence & injury — 2 moment(s)
-  - …do?! Oh, God! Oh, God! Why do billboards have to be so visible? Come down now! Reese, give me your pocket knife.
-  - …Unite! I am their mother, and I say this has gone on long enough! Don't you have snipers with tranquilizer guns or a giant net?!
+  - “…do?! Oh, God! Oh, God! Why do billboards have to be so visible? Come down now! Reese, give me your pocket knife.”
+  - “…Unite! I am their mother, and I say this has gone on long enough! Don't you have snipers with tranquilizer guns or a giant net?!”
 - Alcohol & drugs — 1 moment(s)
-  - One night he got me drunk and borrowed $400 from me! What? He bought a velour suit and faked his own death to get out of paying me back.
+  - “One night he got me drunk and borrowed $400 from me! What? He bought a velour suit and faked his own death to get out of paying me back.”
 
 ## S6 E11 — Dewey's Opera
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0611.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - That's your secret? I know it's stupid and embarrassing and I want to be sexy for you, but after 20 years, I just have to have a break from clamping down and gritting my teeth all night.
+  - “That's your secret? I know it's stupid and embarrassing and I want to be sexy for you, but after 20 years, I just have to have a break from clamping down and gritting my teeth all night.”
 - Violence & injury — 3 moment(s)
-  - It has to be something so dramatic it's like a knife in the heart.
-  - …is the worst case of emotional blackmail, she's ever seen! And I've seen plenty! Call 911! Tell them a blood vessel just burst in my brain, Just halfway between my neck and my nose.
-  - What if Don Argento solves his romantic problems with a machete in a tragic, yet comedic, big bloody mess? Yes, I want to return a mattress I bought last week in accord with your 30-day return policy.
+  - “It has to be something so dramatic it's like a knife in the heart.”
+  - “…is the worst case of emotional blackmail, she's ever seen! And I've seen plenty! Call 911! Tell them a blood vessel just burst in my brain, Just halfway between my neck and my nose.”
+  - “What if Don Argento solves his romantic problems with a machete in a tragic, yet comedic, big bloody mess? Yes, I want to return a mattress I bought last week in accord with your 30-day return policy.”
 
 ## S6 E12 — Living Will
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0612.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - You've learned to do so many things, and the sex has been interesting, but you can't go on living like this.
+  - “You've learned to do so many things, and the sex has been interesting, but you can't go on living like this.”
 - Alcohol & drugs — 1 moment(s)
-  - You want to go through the arrest reports? I'll pour some more wine.
+  - “You want to go through the arrest reports? I'll pour some more wine.”
 
 ## S6 E13 — Tiki Lounge
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0613.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
-  - We've got really cool-looking plastic champagne glasses, and we've also got six-channel walkie-talkies so we can be in constant audio contact in all sectors of the gymnasium.
-  - And now I find that there's a wine tasting booth with an incredibly underpriced Riesling, just 25 cents a glass.
-  - So, if you'll excuse me, I think I saw a slightly drunk Ms.
+  - “We've got really cool-looking plastic champagne glasses, and we've also got six-channel walkie-talkies so we can be in constant audio contact in all sectors of the gymnasium.”
+  - “And now I find that there's a wine tasting booth with an incredibly underpriced Riesling, just 25 cents a glass.”
+  - “So, if you'll excuse me, I think I saw a slightly drunk Ms.”
 
 ## S6 E14 — Ida Loses A Leg
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0614.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - It's like, "La-la, I'm old, so here's a stupid cartoon with boobs on it.
+  - “It's like, "La-la, I'm old, so here's a stupid cartoon with boobs on it.”
 - Violence & injury — 4 moment(s)
-  - "The Forest of Severed Legs" or "Drowning in Grandma's Blood"? Well, good night.
-  - If you think I'm above punching you, you are totally wrong.
-  - …- You stupid Nancy boy! - You dried up old hag! If I had been driving that truck myself - You ought to strangle yourself Well, I wonder which nightmare I'm going to have tonight.
-  - I fell asleep beating up a kid.
+  - “"The Forest of Severed Legs" or "Drowning in Grandma's Blood"? Well, good night.”
+  - “If you think I'm above punching you, you are totally wrong.”
+  - “…- You stupid Nancy boy! - You dried up old hag! If I had been driving that truck myself - You ought to strangle yourself Well, I wonder which nightmare I'm going to have tonight.”
+  - “I fell asleep beating up a kid.”
 - Slut-shaming — 1 moment(s)
-  - Oh, my God, this sucks! That was, like, the one thing I was living for and it's just not working at all! - Can you take the soap opera outside? I want to watch the whore that gives the weather.
+  - “Oh, my God, this sucks! That was, like, the one thing I was living for and it's just not working at all! - Can you take the soap opera outside? I want to watch the whore that gives the weather.”
 
 ## S6 E15 — Chad's Sleepover
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0615.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - They deserve every stained pair of underwear they're about to get.
 - Alcohol & drugs — 2 moment(s)
-  - Last night, I covered for Bernice so she could leave early, and when she got home, she found Charlie standing in their living room wearing her red cocktail dress!
-  - I wasted a half an hour getting Jamie to sleep.
+  - “Last night, I covered for Bernice so she could leave early, and when she got home, she found Charlie standing in their living room wearing her red cocktail dress!”
+  - “I wasted a half an hour getting Jamie to sleep.”
 - Racism & slurs — 1 moment(s)
-  - You know what? Sometimes if you're just being bigoted and unreasonable, maybe I don't have to listen to you.
+  - “You know what? Sometimes if you're just being bigoted and unreasonable, maybe I don't have to listen to you.”
 
 ## S6 E16 — No Motorcycles
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0616.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - Wait, wasn't there? This is sealed in blood.
-  - Do you hear me, son? Sealed in blood.
-  - You know, for a little kid, he can really take a punch.
-  - Dewey got beat up even though Randy wasn't after him.
-  - By October, I'll be strong enough to beat him.
+  - “Wait, wasn't there? This is sealed in blood.”
+  - “Do you hear me, son? Sealed in blood.”
+  - “You know, for a little kid, he can really take a punch.”
+  - “Dewey got beat up even though Randy wasn't after him.”
+  - “By October, I'll be strong enough to beat him.”
 - Alcohol & drugs — 1 moment(s)
-  - And meanwhile, I plan this whole trip, and now I find out you're sober, and I'm standing here with a bottle of booze like some kind of jackass.
+  - “And meanwhile, I plan this whole trip, and now I find out you're sober, and I'm standing here with a bottle of booze like some kind of jackass.”
 
 ## S6 E17 — Butterflies
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0617.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - Skinny-dipping starts at midnight.
-  - Fresh fruit? A package of all-cotton underwear? A decent book? We don't sell this stuff.
-  - I've been having intense stomach problems, and that's what the fruit is for, and the underwear, and sadly, the book, too.
+  - “Skinny-dipping starts at midnight.”
+  - “Fresh fruit? A package of all-cotton underwear? A decent book? We don't sell this stuff.”
+  - “I've been having intense stomach problems, and that's what the fruit is for, and the underwear, and sadly, the book, too.”
 - Affairs / cheating — 1 moment(s)
-  - Where's the toothpaste? -I'm on a break.
+  - “Where's the toothpaste? -I'm on a break.”
 
 ## S6 E18 — Ida's Dance
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0618.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - That's why the goat refused to breast-feed her.
-  - But that look on your face when I got you your first mitt? It's the same face I use when I get underwear for Christmas.
+  - “That's why the goat refused to breast-feed her.”
+  - “But that look on your face when I got you your first mitt? It's the same face I use when I get underwear for Christmas.”
 - Violence & injury — 1 moment(s)
-  - Do you understand? Does a punch mean yes? Good.
+  - “Do you understand? Does a punch mean yes? Good.”
 - Alcohol & drugs — 2 moment(s)
-  - She dragged me seven blocks by my pigtails to some stinking butcher shop full of drunk uncles.
-  - You're not around fancy big-shots with all their teeth, sipping wine.
+  - “She dragged me seven blocks by my pigtails to some stinking butcher shop full of drunk uncles.”
+  - “You're not around fancy big-shots with all their teeth, sipping wine.”
 - Homophobic jokes — 1 moment(s)
-  - Really? I wasn't going to say anything 'cause it's so gay to talk about feelings, but I used to feel bad that we don't spend any time together.
+  - “Really? I wasn't going to say anything 'cause it's so gay to talk about feelings, but I used to feel bad that we don't spend any time together.”
 - Slut-shaming — 1 moment(s)
-  - And not on her back like your slut daughter.
+  - “And not on her back like your slut daughter.”
 
 ## S6 E19 — Motivational Seminar
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0619.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - …president in two years! Hey, come on, he knows! I'm gonna get out of debt! Hey, she knows! I'm gonna have sex with a member of every race!
+  - “…president in two years! Hey, come on, he knows! I'm gonna get out of debt! Hey, she knows! I'm gonna have sex with a member of every race!”
 - Violence & injury — 3 moment(s)
-  - Monkey! Squid! Kangaroo! I have no idea if a monkey could beat a squid or a kangaroo in a knife fight, but if I admitted that, we'd have nothing to do for the rest of the day.
-  - I've got a gun! You make one step, and you're all getting it.
-  - Hey, you need a gun?
+  - “Monkey! Squid! Kangaroo! I have no idea if a monkey could beat a squid or a kangaroo in a knife fight, but if I admitted that, we'd have nothing to do for the rest of the day.”
+  - “I've got a gun! You make one step, and you're all getting it.”
+  - “Hey, you need a gun?”
 
 ## S6 E20 — Stilts
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0620.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - I'm the only one snacking out of birdfeeders! Look at this! $18 for a three-minute What the?! Welcome to the Hot Fantasy Sex Line.
-- Nudity & bodies — 2 moment(s)
-  - Is it in the bathroom? Mom's underwear drawer? Of course! She'd never think of looking for it there.
-  - Two years ago, I was thrown out of the locker room completely naked.
+  - “I'm the only one snacking out of birdfeeders! Look at this! $18 for a three-minute What the?! Welcome to the Hot Fantasy Sex Line.”
+- Nudity & bodies — 1 moment(s)
+  - “Two years ago, I was thrown out of the locker room completely naked.”
 - Porn / strippers / sex work — 2 moment(s)
   - Porn / adult-channel plot is part of this episode.
-  - I accidentally spent $800 on phone sex.
+  - “I accidentally spent $800 on phone sex.”
 - Affairs / cheating — 1 moment(s)
-  - Are you sure she's not having an affair? Because that would be perfect.
+  - “Are you sure she's not having an affair? Because that would be perfect.”
 - Violence & injury — 1 moment(s)
-  - com So, there I was innocently paying the bills, when I was suddenly slapped in the face by a charge for $45.
+  - “com So, there I was innocently paying the bills, when I was suddenly slapped in the face by a charge for $45.”
 - Suicide & self-harm — 1 moment(s)
-  - I'd kill myself, except they'd run that picture in the paper.
+  - “I'd kill myself, except they'd run that picture in the paper.”
 - Alcohol & drugs — 1 moment(s)
-  - Bad? He's been coming to work drunk for 20 years.
+  - “Bad? He's been coming to work drunk for 20 years.”
 
 ## S6 E21 — Buseys Takes A Hostage
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0621.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - What I can't believe is Jessica is having an affair with the judge.
+  - “What I can't believe is Jessica is having an affair with the judge.”
 - Violence & injury — 1 moment(s)
-  - So, if Rex Huntington is the finest doctor in Spring Valley, why is he defending Jessica in the murder trial.
+  - “So, if Rex Huntington is the finest doctor in Spring Valley, why is he defending Jessica in the murder trial.”
 
 ## S6 E22 — Mrs. Tri-County
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0622.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - If you want to, have a sex change, come back in 20 years and we'll talk.
+  - “If you want to, have a sex change, come back in 20 years and we'll talk.”
 
 ## S7 E1 — 1. Burning Man
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0701.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - A week of freedom out in the desert, naked women, getting back to your primal nature, naked women, people doing art, naked women.
-  - Are all the women naked? That is all you heard, isn't it? Mom Dad breakfast Jamie Dewey Dad dinner.
+  - “A week of freedom out in the desert, naked women, getting back to your primal nature, naked women, people doing art, naked women.”
+  - “Are all the women naked? That is all you heard, isn't it? Mom Dad breakfast Jamie Dewey Dad dinner.”
 
 ## S7 E2 — 2. Health Insurance
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0702.html
@@ -1411,256 +1408,256 @@ URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0703.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - And so like an idiot, I started stuffing my bra with toilet paper.
-  - The day of the tryouts, I borrowed my sister's good sweater, spent about an hour on my hair, stuffed my bra, even shoved a little extra in there for luck.
+  - “And so like an idiot, I started stuffing my bra with toilet paper.”
+  - “The day of the tryouts, I borrowed my sister's good sweater, spent about an hour on my hair, stuffed my bra, even shoved a little extra in there for luck.”
 - Violence & injury — 2 moment(s)
-  - If I found his phone records, they would prove that he was the one who called the police station on the night of the murder.
-  - And the blood was, I mean, there's always blood, but Scotty was like one of those big sprinklers, you know? And once he went down, Reese went to work on him.
+  - “If I found his phone records, they would prove that he was the one who called the police station on the night of the murder.”
+  - “And the blood was, I mean, there's always blood, but Scotty was like one of those big sprinklers, you know? And once he went down, Reese went to work on him.”
 - Alcohol & drugs — 1 moment(s)
-  - All that fussing and primping and time I wasted to shut out laughter that stopped 30 years ago.
+  - “All that fussing and primping and time I wasted to shut out laughter that stopped 30 years ago.”
 
 ## S7 E4 — 4. Halloween
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0704.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Keyes giving birth are not as sexy as I thought.
+  - “Keyes giving birth are not as sexy as I thought.”
 - Violence & injury — 7 moment(s)
-  - This guy started this death tour, showing people all the places in town where grisly murders took place.
-  - Now, coming up on your left, the site where one of the most gruesome multiple murders in the history of the state took place.
-  - I don't like murder.
-  - It would be nice to have a murderless one.
-  - I mean, the murderer's dead so it's not like he's coming back.
-  - Malcolm, is there any place in this house where bloody pieces of dismembered bodies weren't found? Well Yes.
-  - So, Craig, I understand the bandana and the eye patch, but why would a pirate have blood dripping out of his mouth? Oh, I tried holding a dagger in my teeth.
+  - “This guy started this death tour, showing people all the places in town where grisly murders took place.”
+  - “Now, coming up on your left, the site where one of the most gruesome multiple murders in the history of the state took place.”
+  - “I don't like murder.”
+  - “It would be nice to have a murderless one.”
+  - “I mean, the murderer's dead so it's not like he's coming back.”
+  - “Malcolm, is there any place in this house where bloody pieces of dismembered bodies weren't found? Well Yes.”
+  - “So, Craig, I understand the bandana and the eye patch, but why would a pirate have blood dripping out of his mouth? Oh, I tried holding a dagger in my teeth.”
 - Suicide & self-harm — 2 moment(s)
-  - He padded it with a couple of suicides, but come on, close enough.
-  - They say he lived here with five headless bodies for a week before he finally killed himself.
+  - “He padded it with a couple of suicides, but come on, close enough.”
+  - “They say he lived here with five headless bodies for a week before he finally killed himself.”
 - Alcohol & drugs — 2 moment(s)
-  - Are you drunk? Chilty as garged.
-  - I wasted my whole break sitting with some shoplifter and no one else even considered coming to help.
+  - “Are you drunk? Chilty as garged.”
+  - “I wasted my whole break sitting with some shoplifter and no one else even considered coming to help.”
 
 ## S7 E5 — 5. Jessica Stays Over
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0705.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - You can't hook up in my house.
-  - I've never hooked up in my house.
-  - You don't really put out a sexual vibe.
+  - “You can't hook up in my house.”
+  - “I've never hooked up in my house.”
+  - “You don't really put out a sexual vibe.”
 - Violence & injury — 1 moment(s)
-  - And how are you supposed to get back after you beat him up? Dewey, you know nothing about Asian culture.
+  - “And how are you supposed to get back after you beat him up? Dewey, you know nothing about Asian culture.”
 - Alcohol & drugs — 1 moment(s)
-  - Seems he got drunk Friday night, decided to track down her mom and tried to drive a street-sweeper to Mexico.
+  - “Seems he got drunk Friday night, decided to track down her mom and tried to drive a street-sweeper to Mexico.”
 
 ## S7 E6 — 6. Secret Boyfriend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0706.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - The experiment's going to be hard enough as it is without my lab partner trying to honk my boobs every five minutes.
-  - Bet he's at home right now sitting in his barcalounger with a big bowl of popcorn on his lap chuckling at us with the boobs that he Hey.
+  - “The experiment's going to be hard enough as it is without my lab partner trying to honk my boobs every five minutes.”
+  - “Bet he's at home right now sitting in his barcalounger with a big bowl of popcorn on his lap chuckling at us with the boobs that he Hey.”
 - Affairs / cheating — 1 moment(s)
-  - Look, I'll walk you through the experiment, I'll do your homework, but I will not cheat on a test for you, okay? Fair enough.
+  - “Look, I'll walk you through the experiment, I'll do your homework, but I will not cheat on a test for you, okay? Fair enough.”
 
 ## S7 E7 — 7. Blackout
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0707.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - They don't even have a word for virginity there.
-  - What? When I say "the bedroom," I mean sex.
+  - “They don't even have a word for virginity there.”
+  - “What? When I say "the bedroom," I mean sex.”
 - Violence & injury — 1 moment(s)
-  - If you let anyone know I'm here, I will punch you so hard in the stomach, you won't be able to eat cereal for two days.
+  - “If you let anyone know I'm here, I will punch you so hard in the stomach, you won't be able to eat cereal for two days.”
 - Alcohol & drugs — 5 moment(s)
-  - It lives on beer and ice cream.
-  - Are you drunk? -You are drunk! -Who's drunk? Malcolm.
-  - He's drunk at a party Now we both have to go down there, pick him up and drive his car back.
-  - The public transportation is underfunded and you can't drink beer in the library, and now the lights are out.
-  - Don't cover for him! Malcolm, you're such a big man when you're getting drunk to impress your friends.
+  - “It lives on beer and ice cream.”
+  - “Are you drunk? -You are drunk! -Who's drunk? Malcolm.”
+  - “He's drunk at a party Now we both have to go down there, pick him up and drive his car back.”
+  - “The public transportation is underfunded and you can't drink beer in the library, and now the lights are out.”
+  - “Don't cover for him! Malcolm, you're such a big man when you're getting drunk to impress your friends.”
 
 ## S7 E8 — 8. Army Buddy
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0708.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - So when are you guys going to hook up and get it over with? What? What are you talking about? Oh, come on.
-  - Everyone has their own kind of foreplay.
+  - “So when are you guys going to hook up and get it over with? What? What are you talking about? Oh, come on.”
+  - “Everyone has their own kind of foreplay.”
 - Violence & injury — 1 moment(s)
-  - Punch me if I'm wrong, but there's something in the air around here that smells a whole lot more than friendship.
+  - “Punch me if I'm wrong, but there's something in the air around here that smells a whole lot more than friendship.”
 - Swearing — 4 moment(s)
-  - Malcolm, Reese, get the lead out! Say it, or I'll lick your ear! I'm a worthless sack of pus, and I will always be your bitch! You know it's true, but it's still nice to hear once in a while.
-  - Short Stack, is that you? I don't believe it! What the hell are you doing here, you ugly grub eater? I had a few days' leave.
-  - Damn! I never should have let her see me in my bike shorts.
-  - Why don't I get the footbath ready? It's my own damn fault for thinking there was a magic pill to give me my life back.
+  - “Malcolm, Reese, get the lead out! Say it, or I'll lick your ear! I'm a worthless sack of pus, and I will always be your bitch! You know it's true, but it's still nice to hear once in a while.”
+  - “Short Stack, is that you? I don't believe it! What the hell are you doing here, you ugly grub eater? I had a few days' leave.”
+  - “Damn! I never should have let her see me in my bike shorts.”
+  - “Why don't I get the footbath ready? It's my own damn fault for thinking there was a magic pill to give me my life back.”
 
 ## S7 E9 — 9. Malcolm Defends Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0709.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - It feels like someone's stabbing you all over with tiny, razor-sharp knives.
+  - “It feels like someone's stabbing you all over with tiny, razor-sharp knives.”
 
 ## S7 E10 — Malcolm's Money
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0710.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Fine! Code blue! Code blue! I think some of these are Viagra.
-  - I couldn't say no! How can you say no to that? Oh, shut up, you old fool! Wait! I can fix this! Just get back at him by sleeping with someone else!
+  - “Fine! Code blue! Code blue! I think some of these are Viagra.”
+  - “I couldn't say no! How can you say no to that? Oh, shut up, you old fool! Wait! I can fix this! Just get back at him by sleeping with someone else!”
 - Nudity & bodies — 1 moment(s)
-  - That is totally unfair! I mean, as long as the two of you can see each other naked and still keep your lunches down, you should be able to do whatever it is you want to do.
+  - “That is totally unfair! I mean, as long as the two of you can see each other naked and still keep your lunches down, you should be able to do whatever it is you want to do.”
 - Violence & injury — 2 moment(s)
-  - I told you, you gotta let the blood drip into your shoes.
-  - It sounds to me like he was asking to be beaten up.
+  - “I told you, you gotta let the blood drip into your shoes.”
+  - “It sounds to me like he was asking to be beaten up.”
 - Alcohol & drugs — 1 moment(s)
-  - Man, it's true what they say old age is wasted on the old.
+  - “Man, it's true what they say old age is wasted on the old.”
 - Slut-shaming — 1 moment(s)
-  - I mean, who does it hurt to let two old people be happy? You whore! You stole my husband! No, I just used him without your permission and gave him back to you Just like someone did with my sewing machine.
+  - “I mean, who does it hurt to let two old people be happy? You whore! You stole my husband! No, I just used him without your permission and gave him back to you Just like someone did with my sewing machine.”
 
 ## S7 E11 — Bride of Ida (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0711.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - If I get a wife, does that mean I get to have sex? So much sex you won't believe it.
-  - These are sex organs of four different animals.
+  - “If I get a wife, does that mean I get to have sex? So much sex you won't believe it.”
+  - “These are sex organs of four different animals.”
 - Nudity & bodies — 7 moment(s)
-  - Wait, up until this point, they're still breast feeding? It keeps families close.
-  - Then more breasts are offered to the proud young man.
-  - It's the underwire on my bra.
-  - Yes, as I said, I have a bra on under my shirt, and there is an underwire in my bra.
-  - This is punishment for what I said about the first-class line, isn't it? Ma'am, I need to touch your breasts.
-  - Because I made a comment about first class, I am being singled out for a public feel-up? Oh for God's sake, Mom, just let her touch your boobs! The kid makes a lot of sense, ma'am.
-  - I wear thong.
+  - “Wait, up until this point, they're still breast feeding? It keeps families close.”
+  - “Then more breasts are offered to the proud young man.”
+  - “It's the underwire on my bra.”
+  - “Yes, as I said, I have a bra on under my shirt, and there is an underwire in my bra.”
+  - “This is punishment for what I said about the first-class line, isn't it? Ma'am, I need to touch your breasts.”
+  - “Because I made a comment about first class, I am being singled out for a public feel-up? Oh for God's sake, Mom, just let her touch your boobs! The kid makes a lot of sense, ma'am.”
+  - “I wear thong.”
 - Violence & injury — 4 moment(s)
-  - They should be murdered and mashed up and dumped down a salt mine along with nuclear waste and left there to fester and rot in a toxic pool of its own filth! Your pretty words don't hide your fear.
-  - What? You shall be the rock on which his knife is sharpened.
-  - You must beat him at every contest or there will be no bride for you.
-  - Ha! I beat him! It's over! proski, verontut The marriage is off.
+  - “They should be murdered and mashed up and dumped down a salt mine along with nuclear waste and left there to fester and rot in a toxic pool of its own filth! Your pretty words don't hide your fear.”
+  - “What? You shall be the rock on which his knife is sharpened.”
+  - “You must beat him at every contest or there will be no bride for you.”
+  - “Ha! I beat him! It's over! proski, verontut The marriage is off.”
 - Alcohol & drugs — 1 moment(s)
-  - These are the ripe, inviting pleasure domes of the virgins of the village, presented dripping with wine.
+  - “These are the ripe, inviting pleasure domes of the virgins of the village, presented dripping with wine.”
 - Slut-shaming — 1 moment(s)
-  - I shave! Hide your shame, whore! You can't talk to my wife that way.
+  - “I shave! Hide your shame, whore! You can't talk to my wife that way.”
 
 ## S7 E12 — College Recruiters (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0712.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - Anyway, you know we can't have sex until after the waiting period.
-  - Geez, Reese, I don't want to hear about your sex life.
-  - For your information, marriage isn't just about sex.
+  - “Anyway, you know we can't have sex until after the waiting period.”
+  - “Geez, Reese, I don't want to hear about your sex life.”
+  - “For your information, marriage isn't just about sex.”
 - Nudity & bodies — 1 moment(s)
-  - Shut up and look at my breasts! This is the kind of thing that it will be on test.
+  - “Shut up and look at my breasts! This is the kind of thing that it will be on test.”
 - Alcohol & drugs — 2 moment(s)
-  - Here, why don't you take one of my key chains? It lights up! What else you got in there? I like that beer cozy.
-  - Really? Yeah, man! You were always there for us, borrowing our money so we couldn't get wasted on beer, taking our car so we'd be stuck here and have to practice all the time, and it totally paid off.
+  - “Here, why don't you take one of my key chains? It lights up! What else you got in there? I like that beer cozy.”
+  - “Really? Yeah, man! You were always there for us, borrowing our money so we couldn't get wasted on beer, taking our car so we'd be stuck here and have to practice all the time, and it totally paid off.”
 - Slut-shaming — 1 moment(s)
-  - If I was a woman, I'd be a slut.
+  - “If I was a woman, I'd be a slut.”
 
 ## S7 E13 — Mono
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0713.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Chaffley? The one who's always on my ass about the lawn? Well, she can stand on her head and drink a pitcher of beer in seven seconds.
+  - “Chaffley? The one who's always on my ass about the lawn? Well, she can stand on her head and drink a pitcher of beer in seven seconds.”
 
 ## S7 E14 — Hal Grieves
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0714.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Lois There's this wonderful service where they hook up ordinary people with celebrities.
-  - So you think a weekend of nurturing and sex is going to get him through this? Do you even know this man?! What the hell's all this? Turns out Dad still has some grieving left to do.
+  - “Lois There's this wonderful service where they hook up ordinary people with celebrities.”
+  - “So you think a weekend of nurturing and sex is going to get him through this? Do you even know this man?! What the hell's all this? Turns out Dad still has some grieving left to do.”
 
 ## S7 E15 — A.a.
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0715.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - And you can see everything on this nude fairy.
+  - “And you can see everything on this nude fairy.”
 - Porn / strippers / sex work — 1 moment(s)
-  - …the Tai-chi group, the charity 10K won't get its phony route markers, and I'm afraid planting the porn magazines in the feminist bookstore will have to wait till another time.
+  - “…the Tai-chi group, the charity 10K won't get its phony route markers, and I'm afraid planting the porn magazines in the feminist bookstore will have to wait till another time.”
 - Violence & injury — 1 moment(s)
-  - One phone call, and I got a trunkful of pig's blood.
+  - “One phone call, and I got a trunkful of pig's blood.”
 - Alcohol & drugs — 3 moment(s)
-  - $20,000?! And none of your drunk friends could help you out on this, huh? Not at all.
-  - Of course! I got to tell you, son, I am drunk as a skunk with pride right now.
-  - I mean, maybe I have a glass of champagne on my birthday -Every birthday? -What does that have to do with anything? -I think we should get going -Come on, Mom, you have the classic signs.
+  - “$20,000?! And none of your drunk friends could help you out on this, huh? Not at all.”
+  - “Of course! I got to tell you, son, I am drunk as a skunk with pride right now.”
+  - “I mean, maybe I have a glass of champagne on my birthday -Every birthday? -What does that have to do with anything? -I think we should get going -Come on, Mom, you have the classic signs.”
 
 ## S7 E16 — Lois Strikes Back
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0716.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - She also requested a bottle of champagne and the romance package.
+  - “She also requested a bottle of champagne and the romance package.”
 
 ## S7 E17 — Hal's Dentist
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0717.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Sleep makes you feel like you've been beaten up.
+  - “Sleep makes you feel like you've been beaten up.”
 - Alcohol & drugs — 1 moment(s)
-  - You want a beer? Malcolm in the Middle Forom.
+  - “You want a beer? Malcolm in the Middle Forom.”
 
 ## S7 E18 — Bomb Shelter
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0718.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Well, if we can do it with our dancing, maybe you could stop sleeping with the judges.
+  - “Well, if we can do it with our dancing, maybe you could stop sleeping with the judges.”
 - Nudity & bodies — 1 moment(s)
-  - Can we please just get my underwear and get out of here? Malcolm, you know it's hard to buy underwear for you.
+  - “Can we please just get my underwear and get out of here? Malcolm, you know it's hard to buy underwear for you.”
 - Violence & injury — 1 moment(s)
-  - Turns out, I'm naturally talented at science and dancing two things that are guaranteed to get you beat up.
+  - “Turns out, I'm naturally talented at science and dancing two things that are guaranteed to get you beat up.”
 
 ## S7 E19 — Stevie in the Hospital
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0719.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - If I had to see him lying in his hospital bed, hooked up to God knows what, it's kind of hard to pretend like nothing's wrong.
+  - “If I had to see him lying in his hospital bed, hooked up to God knows what, it's kind of hard to pretend like nothing's wrong.”
 - Violence & injury — 4 moment(s)
-  - You follow the trail of blood back to his hole.
-  - And then you reach in, pull the rabbit out and then you strangle him! And then you're ready to walk around.
-  - What did you always teach me about standing up for myself? I can't beat up a ten-year-old.
-  - Let's beat him on the water.
+  - “You follow the trail of blood back to his hole.”
+  - “And then you reach in, pull the rabbit out and then you strangle him! And then you're ready to walk around.”
+  - “What did you always teach me about standing up for myself? I can't beat up a ten-year-old.”
+  - “Let's beat him on the water.”
 
 ## S7 E20 — Cattle Court
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0720.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - No, it's just that I couldn't sit and watch kids eating the flesh of murdered animals.
-  - That's him! -He's the murderer! What?! No! He ate my husband! He deep-fried my parents! Order! Order in my court.
-  - Your Honor, the defendant is charged with 63,428 counts of murder! What?! Each count is by the slice! It's not my fault you're all so delicious! This isn't fair.
-  - What? You can't have blood sausage without the blood, can you? You'd better get moving.
+  - “No, it's just that I couldn't sit and watch kids eating the flesh of murdered animals.”
+  - “That's him! -He's the murderer! What?! No! He ate my husband! He deep-fried my parents! Order! Order in my court.”
+  - “Your Honor, the defendant is charged with 63,428 counts of murder! What?! Each count is by the slice! It's not my fault you're all so delicious! This isn't fair.”
+  - “What? You can't have blood sausage without the blood, can you? You'd better get moving.”
 - Suicide & self-harm — 1 moment(s)
-  - Unless, of course, you pull the "Suicide" card.
+  - “Unless, of course, you pull the "Suicide" card.”
 
 ## S7 E21 — Morp
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0721.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - And I'd like to think I'm big enough to be able to admit I'd like to have sex with one of them.
-  - " -The sex maniacs are here! -Cool! If you can keep your hands off your wife long enough, pull up to the window.
+  - “And I'd like to think I'm big enough to be able to admit I'd like to have sex with one of them.”
+  - “" -The sex maniacs are here! -Cool! If you can keep your hands off your wife long enough, pull up to the window.”
 - Nudity & bodies — 3 moment(s)
-  - Hey, how crazy is this? So you know how everyone wears formal clothes the prom, right? So how about if we all went naked? I'm not sure that's such a good idea.
-  - Can we go naked? -No.
-  - What time is everyone going to nude up? I just have to come out and say it.
+  - “Hey, how crazy is this? So you know how everyone wears formal clothes the prom, right? So how about if we all went naked? I'm not sure that's such a good idea.”
+  - “Can we go naked? -No.”
+  - “What time is everyone going to nude up? I just have to come out and say it.”
 - Violence & injury — 2 moment(s)
-  - Have some punch.
-  - Punch? -No, thanks.
+  - “Have some punch.”
+  - “Punch? -No, thanks.”
 - Alcohol & drugs — 2 moment(s)
-  - You did a really nice job with her whiskey bottle.
-  - You know I wasn't planning on the night ending this way, but why don't we get out of here, grab a blanket and a bottle of wine and go to the beach.
+  - “You did a really nice job with her whiskey bottle.”
+  - “You know I wasn't planning on the night ending this way, but why don't we get out of here, grab a blanket and a bottle of wine and go to the beach.”
 
 ## S7 E22 — Graduation
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0722.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Racism & slurs — 1 moment(s)
-  - Harlem who? What are you talking about? I'm not saying there was definitely some unconscious racism going on, but I do think someone could benefit from a little self-examination in a quiet moment.
+  - “Harlem who? What are you talking about? I'm not saying there was definitely some unconscious racism going on, but I do think someone could benefit from a little self-examination in a quiet moment.”

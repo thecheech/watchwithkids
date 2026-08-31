@@ -39,7 +39,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on swearing (moderate, implied).",
+      "why": "Sits in the gray area mainly on swearing (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -53,40 +53,40 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Son of a bitch.",
+            "how": "“Son of a bitch.”",
             "count": 4,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Son of a bitch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "The hell were you doing - out there? - George, language.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": ": Well, we damn well better cut back somewhere.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Why don't we all just take a deep breath here? The hell with that.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -95,16 +95,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "That's why you drink so much beer.",
+            "how": "“That's why you drink so much beer.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "That's why you drink so much beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -116,8 +116,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Swearing — Son of a bitch.",
-        "Alcohol & drugs — That's why you drink so much beer."
+        "Swearing — “Son of a bitch.”",
+        "Alcohol & drugs — “That's why you drink so much beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -171,7 +171,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is swearing (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is swearing (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -187,16 +187,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "They are my blood.",
+            "how": "“They are my blood.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "They are my blood.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -205,24 +205,24 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Son of a bitch.",
+            "how": "“Son of a bitch.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Son of a bitch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Give me my damn keys.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -231,32 +231,32 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Hell is that? I sent Georgie on a beer run, and tipped him with firecrackers.",
+            "how": "“Hell is that? I sent Georgie on a beer run, and tipped him with firecrackers.”",
             "count": 3,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Hell is that? I sent Georgie on a beer run, and tipped him with firecrackers.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What kind of Texan drinks pink wine? [PHONE RINGS.]",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You know what's stupid? I got to drink pink wine! [DOOR SLAMS.]",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -268,9 +268,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — They are my blood.",
-        "Swearing — Son of a bitch.",
-        "Alcohol & drugs — Hell is that? I sent Georgie on a beer run, and tipped him with firecrackers."
+        "Violence & injury — “They are my blood.”",
+        "Swearing — “Son of a bitch.”",
+        "Alcohol & drugs — “Hell is that? I sent Georgie on a beer run, and tipped him with firecrackers.”"
       ],
       "notes": null,
       "flags": [],
@@ -291,7 +291,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -306,16 +306,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "\" Did you know I was talking about sex? No.",
+            "how": "“\" Did you know I was talking about sex? No.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\" Did you know I was talking about sex? No.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -324,24 +324,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "The murder weapon? A Jimmy Dean sausage.",
+            "how": "“The murder weapon? A Jimmy Dean sausage.”",
             "count": 2,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "The murder weapon? A Jimmy Dean sausage.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "All I saw was my brother licking jelly off the knife and putting it back in the jar.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -350,16 +350,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Now what? Sounds like your mom's making margaritas.",
+            "how": "“Now what? Sounds like your mom's making margaritas.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Now what? Sounds like your mom's making margaritas.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -371,9 +371,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — \" Did you know I was talking about sex? No.",
-        "Violence & injury — The murder weapon? A Jimmy Dean sausage.",
-        "Alcohol & drugs — Now what? Sounds like your mom's making margaritas."
+        "Sex & hookups — “\" Did you know I was talking about sex? No.”",
+        "Violence & injury — “The murder weapon? A Jimmy Dean sausage.”",
+        "Alcohol & drugs — “Now what? Sounds like your mom's making margaritas.”"
       ],
       "notes": null,
       "flags": [],
@@ -394,7 +394,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -408,24 +408,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight.",
+            "how": "“Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Mom? (\"I FOUGHT THE LAW\" BY THE CLASH PLAYING) Robbin' people with a six-gun I fought the law and the law won Sheldon got a B-plus! That's terrible for him! I'm very disappointed in all three of you.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -437,7 +437,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight."
+        "Violence & injury — “Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight.”"
       ],
       "notes": null,
       "flags": [],
@@ -491,7 +491,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on swearing (moderate, implied).",
+      "why": "Sits in the gray area mainly on swearing (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -505,40 +505,40 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": ": Connie, you evil bitch! It's smoother than regular coffee.",
+            "how": "“: Connie, you evil bitch! It's smoother than regular coffee.”",
             "count": 4,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": ": Connie, you evil bitch! It's smoother than regular coffee.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Really good? You're spitting the best brisket in Texas all over the damn table.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Only thing I ever asked in return was that damn recipe.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "But I've come a hell of a long way since then.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -547,24 +547,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Mind if I have a sip of your beer? You mind if I dip your head in the compost heap? You could have just said no.",
+            "how": "“Mind if I have a sip of your beer? You mind if I dip your head in the compost heap? You could have just said no.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Mind if I have a sip of your beer? You mind if I dip your head in the compost heap? You could have just said no.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Three tablespoons of dried mustard, one cup of Lone Star beer Okay.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -576,8 +576,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Swearing — : Connie, you evil bitch! It's smoother than regular coffee.",
-        "Alcohol & drugs — Mind if I have a sip of your beer? You mind if I dip your head in the compost heap? You could have just said no."
+        "Swearing — “: Connie, you evil bitch! It's smoother than regular coffee.”",
+        "Alcohol & drugs — “Mind if I have a sip of your beer? You mind if I dip your head in the compost heap? You could have just said no.”"
       ],
       "notes": null,
       "flags": [],
@@ -598,7 +598,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -606,83 +606,64 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]",
+            "how": "“Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You want to sleep with me? Yes, thank you.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
-              }
-            ]
-          },
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "What about clothes? A change of underwear? Got it.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "What about clothes? A change of underwear? Got it.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
               }
             ]
           },
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Could we shoot guns at the gun range? Mm, you're too young to go to the gun range.",
+            "how": "“Could we shoot guns at the gun range? Mm, you're too young to go to the gun range.”",
             "count": 3,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Could we shoot guns at the gun range? Mm, you're too young to go to the gun range.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Shotgun! - No, no.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I called shotgun.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -694,9 +675,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]",
-        "Nudity & bodies — What about clothes? A change of underwear? Got it.",
-        "Violence & injury — Could we shoot guns at the gun range? Mm, you're too young to go to the gun range."
+        "Sex & hookups — “Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]”",
+        "Violence & injury — “Could we shoot guns at the gun range? Mm, you're too young to go to the gun range.”"
       ],
       "notes": null,
       "flags": [],
@@ -717,7 +697,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is affairs / cheating (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is affairs / cheating (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -732,24 +712,24 @@
           {
             "theme": "Affairs / cheating",
             "group": "sex",
-            "how": ": Georgie cheated on the test.",
+            "how": "“: Georgie cheated on the test.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": ": Georgie cheated on the test.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Because he doesn't always follow the rules? He even cheated on a test when he was a cadet.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -758,16 +738,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly.",
+            "how": "“You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -779,8 +759,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Affairs / cheating — : Georgie cheated on the test.",
-        "Alcohol & drugs — You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly."
+        "Affairs / cheating — “: Georgie cheated on the test.”",
+        "Alcohol & drugs — “You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly.”"
       ],
       "notes": null,
       "flags": [],
@@ -801,7 +781,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -815,16 +795,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I used to buy my marijuana there.",
+            "how": "“I used to buy my marijuana there.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I used to buy my marijuana there.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -836,7 +816,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — I used to buy my marijuana there."
+        "Alcohol & drugs — “I used to buy my marijuana there.”"
       ],
       "notes": null,
       "flags": [],
@@ -857,7 +837,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -871,16 +851,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "But you do eat him, and drink his blood.",
+            "how": "“But you do eat him, and drink his blood.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "But you do eat him, and drink his blood.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -892,7 +872,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — But you do eat him, and drink his blood."
+        "Violence & injury — “But you do eat him, and drink his blood.”"
       ],
       "notes": null,
       "flags": [],
@@ -913,7 +893,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is racism & slurs (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is racism & slurs (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -929,16 +909,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "If you switched to Hawaiian Punch, we could live in a bigger house.",
+            "how": "“If you switched to Hawaiian Punch, we could live in a bigger house.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "If you switched to Hawaiian Punch, we could live in a bigger house.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -947,24 +927,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "You mean like the money you give to church? No, I mean like the money you give to the Lone Star Beer company.",
+            "how": "“You mean like the money you give to church? No, I mean like the money you give to the Lone Star Beer company.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You mean like the money you give to church? No, I mean like the money you give to the Lone Star Beer company.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "He's getting a beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -973,16 +953,16 @@
           {
             "theme": "Racism & slurs",
             "group": "bias",
-            "how": "Whoa, that's racist.",
+            "how": "“Whoa, that's racist.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Whoa, that's racist.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               }
@@ -994,9 +974,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — If you switched to Hawaiian Punch, we could live in a bigger house.",
-        "Alcohol & drugs — You mean like the money you give to church? No, I mean like the money you give to the Lone Star Beer company.",
-        "Racism & slurs — Whoa, that's racist."
+        "Violence & injury — “If you switched to Hawaiian Punch, we could live in a bigger house.”",
+        "Alcohol & drugs — “You mean like the money you give to church? No, I mean like the money you give to the Lone Star Beer company.”",
+        "Racism & slurs — “Whoa, that's racist.”"
       ],
       "notes": null,
       "flags": [],
@@ -1017,7 +997,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1032,16 +1012,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.",
+            "how": "“I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -1050,16 +1030,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Their blood ran through my veins.",
+            "how": "“Their blood ran through my veins.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Their blood ran through my veins.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -1071,8 +1051,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.",
-        "Violence & injury — Their blood ran through my veins."
+        "Sex & hookups — “I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.”",
+        "Violence & injury — “Their blood ran through my veins.”"
       ],
       "notes": null,
       "flags": [],
@@ -1093,7 +1073,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1108,16 +1088,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "What if you slip and stab me in the eye? I'm not gonna slip.",
+            "how": "“What if you slip and stab me in the eye? I'm not gonna slip.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What if you slip and stab me in the eye? I'm not gonna slip.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               }
@@ -1126,24 +1106,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I hope I don't get drunk.",
+            "how": "“I hope I don't get drunk.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I hope I don't get drunk.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Why does the kitchen smell like whiskey? Ask her.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -1155,8 +1135,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — What if you slip and stab me in the eye? I'm not gonna slip.",
-        "Alcohol & drugs — I hope I don't get drunk."
+        "Violence & injury — “What if you slip and stab me in the eye? I'm not gonna slip.”",
+        "Alcohol & drugs — “I hope I don't get drunk.”"
       ],
       "notes": null,
       "flags": [],
@@ -1177,7 +1157,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1193,24 +1173,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.",
+            "how": "“No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I was so proud of Tam for not making an immature cleavage joke.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -1219,16 +1199,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "1 What are you doing? I heard you could punch a hole in these and make them double-sided.",
+            "how": "“1 What are you doing? I heard you could punch a hole in these and make them double-sided.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "1 What are you doing? I heard you could punch a hole in these and make them double-sided.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1237,16 +1217,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "You smoke marijuana? - Mom! - No, ma'am.",
+            "how": "“You smoke marijuana? - Mom! - No, ma'am.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You smoke marijuana? - Mom! - No, ma'am.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -1258,9 +1238,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.",
-        "Violence & injury — 1 What are you doing? I heard you could punch a hole in these and make them double-sided.",
-        "Alcohol & drugs — You smoke marijuana? - Mom! - No, ma'am."
+        "Nudity & bodies — “No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.”",
+        "Violence & injury — “1 What are you doing? I heard you could punch a hole in these and make them double-sided.”",
+        "Alcohol & drugs — “You smoke marijuana? - Mom! - No, ma'am.”"
       ],
       "notes": null,
       "flags": [],
@@ -1281,7 +1261,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1296,24 +1276,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "How many people saw you naked? A lot.",
+            "how": "“How many people saw you naked? A lot.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "How many people saw you naked? A lot.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Poor naked wretches, whereso'er you are, that bide the pelting of this pitiless storm.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -1322,16 +1302,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors.",
+            "how": "“1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1343,8 +1323,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — How many people saw you naked? A lot.",
-        "Alcohol & drugs — 1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors."
+        "Nudity & bodies — “How many people saw you naked? A lot.”",
+        "Alcohol & drugs — “1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors.”"
       ],
       "notes": null,
       "flags": [],
@@ -1365,7 +1345,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is homophobic jokes (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is homophobic jokes (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1381,16 +1361,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "What's not okay is Sheldon gettin' beat up by a little girl.",
+            "how": "“What's not okay is Sheldon gettin' beat up by a little girl.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What's not okay is Sheldon gettin' beat up by a little girl.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -1399,24 +1379,24 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Now, I'm warnin' you, Brenda is one mean I know you don't like bad language, but we are in a bowling alley One mean bitch.",
+            "how": "“Now, I'm warnin' you, Brenda is one mean I know you don't like bad language, but we are in a bowling alley One mean bitch.”",
             "count": 3,
             "intensity": 2,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Now, I'm warnin' you, Brenda is one mean I know you don't like bad language, but we are in a bowling alley One mean bitch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Sucks for you.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
@@ -1433,24 +1413,24 @@
           {
             "theme": "Homophobic jokes",
             "group": "bias",
-            "how": "Now, examples of prey include Oryctolagus cuniculus, Gallus gallus domesticus, and weighing in at 58 pounds soaking wet, Diminutive homo novus Curiously, a close relative of Gallus gallus domesticus.",
+            "how": "“Now, examples of prey include Oryctolagus cuniculus, Gallus gallus domesticus, and weighing in at 58 pounds soaking wet, Diminutive homo novus Curiously, a close relative of Gallus gallus domesticus.”",
             "count": 2,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Now, examples of prey include Oryctolagus cuniculus, Gallus gallus domesticus, and weighing in at 58 pounds soaking wet, Diminutive homo novus Curiously, a close relative of Gallus gallus domesticus.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Homo novus needs a Yoo-hoo.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -1462,9 +1442,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — What's not okay is Sheldon gettin' beat up by a little girl.",
-        "Swearing — Now, I'm warnin' you, Brenda is one mean I know you don't like bad language, but we are in a bowling alley One mean bitch.",
-        "Homophobic jokes — Now, examples of prey include Oryctolagus cuniculus, Gallus gallus domesticus, and weighing in at 58 pounds soaking wet, Diminutive homo novus Curiously, a close relative of Gallus gallus domesticus."
+        "Violence & injury — “What's not okay is Sheldon gettin' beat up by a little girl.”",
+        "Swearing — “Now, I'm warnin' you, Brenda is one mean I know you don't like bad language, but we are in a bowling alley One mean bitch.”",
+        "Homophobic jokes — “Now, examples of prey include Oryctolagus cuniculus, Gallus gallus domesticus, and weighing in at 58 pounds soaking wet, Diminutive homo novus Curiously, a close relative of Gallus gallus domesticus.”"
       ],
       "notes": null,
       "flags": [],
@@ -1485,7 +1465,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1500,24 +1480,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "You wouldn't forbid me from looking at Michelangelo's David just because he's nude.",
+            "how": "“You wouldn't forbid me from looking at Michelangelo's David just because he's nude.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You wouldn't forbid me from looking at Michelangelo's David just because he's nude.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "When a statue of your naked blue fella is on display at the Vatican, we'll talk.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1526,16 +1506,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "We should put a lock on the knife drawer.",
+            "how": "“We should put a lock on the knife drawer.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "We should put a lock on the knife drawer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -1547,8 +1527,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — You wouldn't forbid me from looking at Michelangelo's David just because he's nude.",
-        "Violence & injury — We should put a lock on the knife drawer."
+        "Nudity & bodies — “You wouldn't forbid me from looking at Michelangelo's David just because he's nude.”",
+        "Violence & injury — “We should put a lock on the knife drawer.”"
       ],
       "notes": null,
       "flags": [],
@@ -1618,16 +1598,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Now I'm looking at you in your underwear.",
+            "how": "“Now I'm looking at you in your underwear.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Now I'm looking at you in your underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1636,40 +1616,40 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "A tranquilizer gun? A pet fish.",
+            "how": "“A tranquilizer gun? A pet fish.”",
             "count": 4,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "A tranquilizer gun? A pet fish.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "His fish blood is mixing with my human blood.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Meemaw got punched in the face because of me.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "No, that wasn't because of you, and for the record, your meemaw gets punched in the face all the time.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -1678,32 +1658,32 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Don't you think I realize that Mary can be a bit Of a self-righteous bitch? I was gonna say \"challenging,\" but sure, let's go with yours.",
+            "how": "“Don't you think I realize that Mary can be a bit Of a self-righteous bitch? I was gonna say \"challenging,\" but sure, let's go with yours.”",
             "count": 6,
             "intensity": 2,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Don't you think I realize that Mary can be a bit Of a self-righteous bitch? I was gonna say \"challenging,\" but sure, let's go with yours.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Son of a bitch! Dad killed my fish! George! He'll be fine.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "How the hell did he do that? He pushed in a screen window.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
@@ -1716,18 +1696,18 @@
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "But everybody else can go to hell.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'm proud of him for trying to overcome that damn dog phobia.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -1736,24 +1716,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Brenda, this is, by far, the best bowling alley margarita in town.",
+            "how": "“Brenda, this is, by far, the best bowling alley margarita in town.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Brenda, this is, by far, the best bowling alley margarita in town.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\" Okay, see now, Brenda, you don't want to go calling my grandson weird when I've just treated you to a margarita grande.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -1765,10 +1745,10 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Now I'm looking at you in your underwear.",
-        "Violence & injury — A tranquilizer gun? A pet fish.",
-        "Swearing — Don't you think I realize that Mary can be a bit Of a self-righteous bitch? I was gonna say \"challenging,\" but sure, let's go with yours.",
-        "Alcohol & drugs — Brenda, this is, by far, the best bowling alley margarita in town."
+        "Nudity & bodies — “Now I'm looking at you in your underwear.”",
+        "Violence & injury — “A tranquilizer gun? A pet fish.”",
+        "Swearing — “Don't you think I realize that Mary can be a bit Of a self-righteous bitch? I was gonna say \"challenging,\" but sure, let's go with yours.”",
+        "Alcohol & drugs — “Brenda, this is, by far, the best bowling alley margarita in town.”"
       ],
       "notes": null,
       "flags": [],
@@ -1855,7 +1835,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1869,16 +1849,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Jessica Gieger wears a black bra.",
+            "how": "“Jessica Gieger wears a black bra.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Jessica Gieger wears a black bra.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1892,16 +1872,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "It's coming out of your face.",
+            "how": "“It's coming out of your face.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "It's coming out of your face.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1911,7 +1891,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Jessica Gieger wears a black bra."
+        "Nudity & bodies — “Jessica Gieger wears a black bra.”"
       ],
       "notes": null,
       "flags": [],
@@ -1932,7 +1912,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1947,16 +1927,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "While she's gone, you want to make out? Sure.",
+            "how": "“While she's gone, you want to make out? Sure.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "While she's gone, you want to make out? Sure.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -1965,24 +1945,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Can I interest anyone in something stronger than iced tea? Oh, well, I'll take a beer if you have one.",
+            "how": "“Can I interest anyone in something stronger than iced tea? Oh, well, I'll take a beer if you have one.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Can I interest anyone in something stronger than iced tea? Oh, well, I'll take a beer if you have one.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Don't you get him another beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -1994,8 +1974,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — While she's gone, you want to make out? Sure.",
-        "Alcohol & drugs — Can I interest anyone in something stronger than iced tea? Oh, well, I'll take a beer if you have one."
+        "Sex & hookups — “While she's gone, you want to make out? Sure.”",
+        "Alcohol & drugs — “Can I interest anyone in something stronger than iced tea? Oh, well, I'll take a beer if you have one.”"
       ],
       "notes": null,
       "flags": [],
@@ -2016,7 +1996,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2032,24 +2012,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Casper runs around butt naked.",
+            "how": "“Casper runs around butt naked.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Casper runs around butt naked.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Maybe he died naked.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2058,32 +2038,32 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "That's your fault for having a hangover.",
+            "how": "“That's your fault for having a hangover.”",
             "count": 3,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "That's your fault for having a hangover.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Go out where? - I don't know, Dairy Queen, shooting range, line dancing? Have you been drinking? I might've had a wine cooler or two.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Last time she was this drunk, you ended up with your first son.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2092,16 +2072,16 @@
           {
             "theme": "Fat-shaming",
             "group": "bias",
-            "how": "Why, was there some barbecue sauce on your face? It's a fat joke.",
+            "how": "“Why, was there some barbecue sauce on your face? It's a fat joke.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Why, was there some barbecue sauce on your face? It's a fat joke.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2113,9 +2093,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Casper runs around butt naked.",
-        "Alcohol & drugs — That's your fault for having a hangover.",
-        "Fat-shaming — Why, was there some barbecue sauce on your face? It's a fat joke."
+        "Nudity & bodies — “Casper runs around butt naked.”",
+        "Alcohol & drugs — “That's your fault for having a hangover.”",
+        "Fat-shaming — “Why, was there some barbecue sauce on your face? It's a fat joke.”"
       ],
       "notes": null,
       "flags": [],
@@ -2136,7 +2116,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is affairs / cheating (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is affairs / cheating (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2152,16 +2132,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "I slept in the nude last night.",
+            "how": "“I slept in the nude last night.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I slept in the nude last night.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2170,16 +2150,16 @@
           {
             "theme": "Affairs / cheating",
             "group": "sex",
-            "how": "I asked my father about it - ADULT SHELDON: As I walked Tam through the whole sordid affair, I could feel a weight lifting off my shoulders.",
+            "how": "“I asked my father about it - ADULT SHELDON: As I walked Tam through the whole sordid affair, I could feel a weight lifting off my shoulders.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I asked my father about it - ADULT SHELDON: As I walked Tam through the whole sordid affair, I could feel a weight lifting off my shoulders.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -2188,24 +2168,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "How is driving drunk not bad? I wasn't exactly driving.",
+            "how": "“How is driving drunk not bad? I wasn't exactly driving.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "How is driving drunk not bad? I wasn't exactly driving.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "She had a few too many margaritas, so I drove us home.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2217,9 +2197,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — I slept in the nude last night.",
-        "Affairs / cheating — I asked my father about it - ADULT SHELDON: As I walked Tam through the whole sordid affair, I could feel a weight lifting off my shoulders.",
-        "Alcohol & drugs — How is driving drunk not bad? I wasn't exactly driving."
+        "Nudity & bodies — “I slept in the nude last night.”",
+        "Affairs / cheating — “I asked my father about it - ADULT SHELDON: As I walked Tam through the whole sordid affair, I could feel a weight lifting off my shoulders.”",
+        "Alcohol & drugs — “How is driving drunk not bad? I wasn't exactly driving.”"
       ],
       "notes": null,
       "flags": [],
@@ -2240,7 +2220,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2255,16 +2235,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Ooh, you sexy little thing.",
+            "how": "“Ooh, you sexy little thing.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Ooh, you sexy little thing.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2273,16 +2253,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "What about all those times you punched me? Punches of joy.",
+            "how": "“What about all those times you punched me? Punches of joy.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What about all those times you punched me? Punches of joy.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2294,8 +2274,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Ooh, you sexy little thing.",
-        "Violence & injury — What about all those times you punched me? Punches of joy."
+        "Sex & hookups — “Ooh, you sexy little thing.”",
+        "Violence & injury — “What about all those times you punched me? Punches of joy.”"
       ],
       "notes": null,
       "flags": [],
@@ -2316,7 +2296,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2333,16 +2313,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Are you my make out partner? No.",
+            "how": "“Are you my make out partner? No.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Are you my make out partner? No.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2351,24 +2331,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "I will not have innocent children walk through this house on Halloween and see a half-naked woman.",
+            "how": "“I will not have innocent children walk through this house on Halloween and see a half-naked woman.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I will not have innocent children walk through this house on Halloween and see a half-naked woman.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "A half-naked woman chock-full of syphilis.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2377,32 +2357,32 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "So it's not gonna be scary? It will, but without all the blood and gore.",
+            "how": "“So it's not gonna be scary? It will, but without all the blood and gore.”",
             "count": 3,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "So it's not gonna be scary? It will, but without all the blood and gore.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "But I like blood and gore.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You like Guns N' Roses? They're all right.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -2411,24 +2391,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "What'd she do? She sold a piÃ±ata full of weed to an undercover cop.",
+            "how": "“What'd she do? She sold a piÃ±ata full of weed to an undercover cop.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What'd she do? She sold a piÃ±ata full of weed to an undercover cop.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I need another beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2440,10 +2420,10 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Are you my make out partner? No.",
-        "Nudity & bodies — I will not have innocent children walk through this house on Halloween and see a half-naked woman.",
-        "Violence & injury — So it's not gonna be scary? It will, but without all the blood and gore.",
-        "Alcohol & drugs — What'd she do? She sold a piÃ±ata full of weed to an undercover cop."
+        "Sex & hookups — “Are you my make out partner? No.”",
+        "Nudity & bodies — “I will not have innocent children walk through this house on Halloween and see a half-naked woman.”",
+        "Violence & injury — “So it's not gonna be scary? It will, but without all the blood and gore.”",
+        "Alcohol & drugs — “What'd she do? She sold a piÃ±ata full of weed to an undercover cop.”"
       ],
       "notes": null,
       "flags": [],
@@ -2464,7 +2444,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2478,16 +2458,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Don't you get him another beer.",
+            "how": "“Don't you get him another beer.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Don't you get him another beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2499,7 +2479,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Don't you get him another beer."
+        "Alcohol & drugs — “Don't you get him another beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -2520,7 +2500,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on swearing (moderate, implied).",
+      "why": "Sits in the gray area mainly on swearing (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2535,16 +2515,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "It's got those pointy cups, look like Madonna's bra.",
+            "how": "“It's got those pointy cups, look like Madonna's bra.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "It's got those pointy cups, look like Madonna's bra.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2553,48 +2533,48 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Die, you son bitches! When I grow up, will I be a Dallas Cowboys cheerleader? \"Not likely.",
+            "how": "“Die, you son bitches! When I grow up, will I be a Dallas Cowboys cheerleader? \"Not likely.”",
             "count": 5,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Die, you son bitches! When I grow up, will I be a Dallas Cowboys cheerleader? \"Not likely.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I had a buddy in high school had a Pacer with the flames painted on the side, which was funny 'cause the damn thing caught fire during the Homecoming parade.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You really want to quit football to go work in a garage? Hell yeah.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "All I have left is the damn flute.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You know, this is the kind of crap I get from my wife.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2603,16 +2583,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Sorry about the light beer, but Brenda's got me on this health kick.",
+            "how": "“Sorry about the light beer, but Brenda's got me on this health kick.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Sorry about the light beer, but Brenda's got me on this health kick.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2624,9 +2604,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — It's got those pointy cups, look like Madonna's bra.",
-        "Swearing — Die, you son bitches! When I grow up, will I be a Dallas Cowboys cheerleader? \"Not likely.",
-        "Alcohol & drugs — Sorry about the light beer, but Brenda's got me on this health kick."
+        "Nudity & bodies — “It's got those pointy cups, look like Madonna's bra.”",
+        "Swearing — “Die, you son bitches! When I grow up, will I be a Dallas Cowboys cheerleader? \"Not likely.”",
+        "Alcohol & drugs — “Sorry about the light beer, but Brenda's got me on this health kick.”"
       ],
       "notes": null,
       "flags": [],
@@ -2647,7 +2627,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2662,24 +2642,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.",
+            "how": "“Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "In my underwear? I hardly think so.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2688,16 +2668,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "That's it; I've wasted my life.",
+            "how": "“That's it; I've wasted my life.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "That's it; I've wasted my life.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2709,8 +2689,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.",
-        "Alcohol & drugs — That's it; I've wasted my life."
+        "Nudity & bodies — “Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.”",
+        "Alcohol & drugs — “That's it; I've wasted my life.”"
       ],
       "notes": null,
       "flags": [],
@@ -2731,7 +2711,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2745,32 +2725,32 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No.",
+            "how": "“That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No.”",
             "count": 3,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "and drank their blood! No.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "They don't eat meat, let alone drink blood.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -2782,7 +2762,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No."
+        "Violence & injury — “That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No.”"
       ],
       "notes": null,
       "flags": [],
@@ -2803,7 +2783,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2837,24 +2817,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Help her seek salvation in you instead of cocaine, marijuana and bass players.",
+            "how": "“Help her seek salvation in you instead of cocaine, marijuana and bass players.”",
             "count": 2,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Help her seek salvation in you instead of cocaine, marijuana and bass players.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I was drunk off my ass.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2863,24 +2843,24 @@
           {
             "theme": "Homophobic jokes",
             "group": "bias",
-            "how": "I'm recording my findings so that future generations of mankind can understand the steps I took to create homo novus, \"new man.",
+            "how": "“I'm recording my findings so that future generations of mankind can understand the steps I took to create homo novus, \"new man.”",
             "count": 2,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'm recording my findings so that future generations of mankind can understand the steps I took to create homo novus, \"new man.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\" Of course, there's a strong likelihood that my homo novi might've wiped out all future generations, so I have no idea who's watching this.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               }
@@ -2893,8 +2873,8 @@
       },
       "examples": [
         "Nudity & bodies — GEORGIE: “Now if for instance she and I were to go skinny dipping and one thing were to lead to another under the moonlit sky, get this: not only do I become a devout Christian, I will also bug everybody I meet to do the same.”",
-        "Alcohol & drugs — Help her seek salvation in you instead of cocaine, marijuana and bass players.",
-        "Homophobic jokes — I'm recording my findings so that future generations of mankind can understand the steps I took to create homo novus, \"new man."
+        "Alcohol & drugs — “Help her seek salvation in you instead of cocaine, marijuana and bass players.”",
+        "Homophobic jokes — “I'm recording my findings so that future generations of mankind can understand the steps I took to create homo novus, \"new man.”"
       ],
       "notes": null,
       "flags": [],
@@ -2915,7 +2895,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2929,16 +2909,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "It's either cartoons or men in their underwear banging their heads together.",
+            "how": "“It's either cartoons or men in their underwear banging their heads together.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "It's either cartoons or men in their underwear banging their heads together.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2950,7 +2930,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — It's either cartoons or men in their underwear banging their heads together."
+        "Nudity & bodies — “It's either cartoons or men in their underwear banging their heads together.”"
       ],
       "notes": null,
       "flags": [],
@@ -2971,7 +2951,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is sex & hookups (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is sex & hookups (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -2987,16 +2967,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.",
+            "how": "“And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -3005,24 +2985,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Just as friends, would you wanna hang out on Saturday night? In a no-kissing and no-punching-in- the-face kind of way? I can't.",
+            "how": "“Just as friends, would you wanna hang out on Saturday night? In a no-kissing and no-punching-in- the-face kind of way? I can't.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Just as friends, would you wanna hang out on Saturday night? In a no-kissing and no-punching-in- the-face kind of way? I can't.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I feel like I got punched in the stomach.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3031,24 +3011,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Champagne? Oh, I'm fine, thank you.",
+            "how": "“Champagne? Oh, I'm fine, thank you.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Champagne? Oh, I'm fine, thank you.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Oh, look! Shrimp cocktail.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3060,9 +3040,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.",
-        "Violence & injury — Just as friends, would you wanna hang out on Saturday night? In a no-kissing and no-punching-in- the-face kind of way? I can't.",
-        "Alcohol & drugs — Champagne? Oh, I'm fine, thank you."
+        "Sex & hookups — “And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.”",
+        "Violence & injury — “Just as friends, would you wanna hang out on Saturday night? In a no-kissing and no-punching-in- the-face kind of way? I can't.”",
+        "Alcohol & drugs — “Champagne? Oh, I'm fine, thank you.”"
       ],
       "notes": null,
       "flags": [],
@@ -3083,7 +3063,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on swearing (moderate, implied).",
+      "why": "Sits in the gray area mainly on swearing (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3097,16 +3077,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "BOY: Face-punching time! Jason, let's do it! [CHANTING.]",
+            "how": "“BOY: Face-punching time! Jason, let's do it! [CHANTING.]”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "BOY: Face-punching time! Jason, let's do it! [CHANTING.]",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3115,24 +3095,24 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Ow! Son of a bitch! [LAUGHTER, CHEERING.]",
+            "how": "“Ow! Son of a bitch! [LAUGHTER, CHEERING.]”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Ow! Son of a bitch! [LAUGHTER, CHEERING.]",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Hell yeah, I did.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -3144,8 +3124,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — BOY: Face-punching time! Jason, let's do it! [CHANTING.]",
-        "Swearing — Ow! Son of a bitch! [LAUGHTER, CHEERING.]"
+        "Violence & injury — “BOY: Face-punching time! Jason, let's do it! [CHANTING.]”",
+        "Swearing — “Ow! Son of a bitch! [LAUGHTER, CHEERING.]”"
       ],
       "notes": null,
       "flags": [],
@@ -3166,7 +3146,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3180,16 +3160,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "They're having sexual problems.",
+            "how": "“They're having sexual problems.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "They're having sexual problems.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3201,7 +3181,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — They're having sexual problems."
+        "Sex & hookups — “They're having sexual problems.”"
       ],
       "notes": null,
       "flags": [],
@@ -3222,7 +3202,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3236,24 +3216,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Did you use one knife for the PB and the J? - No.",
+            "how": "“Did you use one knife for the PB and the J? - No.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Did you use one knife for the PB and the J? - No.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You rejected me, you punched me in the face, and I'm still here.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3265,7 +3245,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Did you use one knife for the PB and the J? - No."
+        "Violence & injury — “Did you use one knife for the PB and the J? - No.”"
       ],
       "notes": null,
       "flags": [],
@@ -3286,7 +3266,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3300,16 +3280,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Take a few beers.",
+            "how": "“Take a few beers.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Take a few beers.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3323,16 +3303,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "If it were a joke, your mouth would be open and the sound \"ha-ha\" would be coming out.",
+            "how": "“If it were a joke, your mouth would be open and the sound \"ha-ha\" would be coming out.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "If it were a joke, your mouth would be open and the sound \"ha-ha\" would be coming out.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3342,7 +3322,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Take a few beers."
+        "Alcohol & drugs — “Take a few beers.”"
       ],
       "notes": null,
       "flags": [],
@@ -3363,7 +3343,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3378,16 +3358,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.",
+            "how": "“And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3396,24 +3376,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Bobbi stabbed Billy in the leg with a fork.",
+            "how": "“Bobbi stabbed Billy in the leg with a fork.”",
             "count": 2,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Bobbi stabbed Billy in the leg with a fork.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Oh, pity the cowboy All bloody and red For the bronco fell on him And bashed in his head There was blood on the saddle And blood all around And a great big puddle of blood On the ground.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -3425,8 +3405,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.",
-        "Violence & injury — Bobbi stabbed Billy in the leg with a fork."
+        "Nudity & bodies — “And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.”",
+        "Violence & injury — “Bobbi stabbed Billy in the leg with a fork.”"
       ],
       "notes": null,
       "flags": [],
@@ -3447,7 +3427,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3461,16 +3441,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "\"Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.",
+            "how": "“\"Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\"Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -3482,7 +3462,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — \"Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning."
+        "Violence & injury — “\"Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.”"
       ],
       "notes": null,
       "flags": [],
@@ -3503,7 +3483,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is sex & hookups (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is sex & hookups (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3518,16 +3498,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "If you're sleeping with the man, you should be married to him.",
+            "how": "“If you're sleeping with the man, you should be married to him.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "If you're sleeping with the man, you should be married to him.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -3536,32 +3516,32 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "You waited till I had a beer to tell me - this story, didn't you? - You always have a beer.",
+            "how": "“You waited till I had a beer to tell me - this story, didn't you? - You always have a beer.”",
             "count": 3,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You waited till I had a beer to tell me - this story, didn't you? - You always have a beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What personal business? - Well I heard her mama's boyfriend is a drunk.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "There's very little wasted effort.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3573,8 +3553,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — If you're sleeping with the man, you should be married to him.",
-        "Alcohol & drugs — You waited till I had a beer to tell me - this story, didn't you? - You always have a beer."
+        "Sex & hookups — “If you're sleeping with the man, you should be married to him.”",
+        "Alcohol & drugs — “You waited till I had a beer to tell me - this story, didn't you? - You always have a beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -3611,16 +3591,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "You also smell like mothballs and Ben-Gay.",
+            "how": "“You also smell like mothballs and Ben-Gay.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You also smell like mothballs and Ben-Gay.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -3649,7 +3629,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3663,16 +3643,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Laundry services? Your poor mother has to touch your underwear.",
+            "how": "“Laundry services? Your poor mother has to touch your underwear.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Laundry services? Your poor mother has to touch your underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3684,7 +3664,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Laundry services? Your poor mother has to touch your underwear."
+        "Nudity & bodies — “Laundry services? Your poor mother has to touch your underwear.”"
       ],
       "notes": null,
       "flags": [],
@@ -3705,7 +3685,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3719,16 +3699,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.",
+            "how": "“Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -3740,7 +3720,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast."
+        "Violence & injury — “Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.”"
       ],
       "notes": null,
       "flags": [],
@@ -3761,7 +3741,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on swearing (moderate, implied).",
+      "why": "Sits in the gray area mainly on swearing (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3775,24 +3755,24 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": ": sexual immorality.",
+            "how": "“: sexual immorality.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": ": sexual immorality.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "The bolo tie's too sexy, right? Knew it.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -3801,40 +3781,40 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": ": Well Well, they don't have any kids, so Son of a bitch.",
+            "how": "“: Well Well, they don't have any kids, so Son of a bitch.”",
             "count": 4,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": ": Well Well, they don't have any kids, so Son of a bitch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "So? - So I'm going to hell! - No, you're not.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Yes, I am! Sucks for you.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "So, what did they do in the bathroom? I'm going to hell.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3846,8 +3826,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — : sexual immorality.",
-        "Swearing — : Well Well, they don't have any kids, so Son of a bitch."
+        "Sex & hookups — “: sexual immorality.”",
+        "Swearing — “: Well Well, they don't have any kids, so Son of a bitch.”"
       ],
       "notes": null,
       "flags": [],
@@ -3901,7 +3881,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3916,16 +3896,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Now he runs around naked and bites the heads off fish.",
+            "how": "“Now he runs around naked and bites the heads off fish.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Now he runs around naked and bites the heads off fish.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3934,16 +3914,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Let's get that blood pumping.",
+            "how": "“Let's get that blood pumping.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Let's get that blood pumping.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -3955,8 +3935,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Now he runs around naked and bites the heads off fish.",
-        "Violence & injury — Let's get that blood pumping."
+        "Nudity & bodies — “Now he runs around naked and bites the heads off fish.”",
+        "Violence & injury — “Let's get that blood pumping.”"
       ],
       "notes": null,
       "flags": [],
@@ -3977,7 +3957,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -3991,48 +3971,48 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I'm gonna get another beer.",
+            "how": "“I'm gonna get another beer.”",
             "count": 5,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'm gonna get another beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Hey, John, what do you say you and I go grab a beer? But we haven't cut open the pineapple yet.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What can I get you? Um, do you have sarsaparilla? Two beers.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "We'll take two beers.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I've seen her take a wine cooler out of the trash and finish it.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4044,7 +4024,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — I'm gonna get another beer."
+        "Alcohol & drugs — “I'm gonna get another beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -4065,7 +4045,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4080,24 +4060,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Uh-oh! Dad's bringing in the big guns.",
+            "how": "“Uh-oh! Dad's bringing in the big guns.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Uh-oh! Dad's bringing in the big guns.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You're just begging to get beat up.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -4106,40 +4086,40 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "For your information, I got up, put my slippers on, crossed the street, - broke into your house and stole your beer.",
+            "how": "“For your information, I got up, put my slippers on, crossed the street, - broke into your house and stole your beer.”",
             "count": 4,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "For your information, I got up, put my slippers on, crossed the street, - broke into your house and stole your beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Get me a beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I may be too drunk to drive, but I still can count to six.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "She's hungover! Wants us to keep it down! Are you going for your baseball tryout? - Yup.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4151,8 +4131,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Uh-oh! Dad's bringing in the big guns.",
-        "Alcohol & drugs — For your information, I got up, put my slippers on, crossed the street, - broke into your house and stole your beer."
+        "Violence & injury — “Uh-oh! Dad's bringing in the big guns.”",
+        "Alcohol & drugs — “For your information, I got up, put my slippers on, crossed the street, - broke into your house and stole your beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -4173,7 +4153,7 @@
       "overall": 3,
       "age": 10,
       "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on swearing (moderate, implied).",
+      "why": "Sits in the gray area mainly on swearing (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4189,24 +4169,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.",
+            "how": "“See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I may have boobs, but I'm still a man.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4215,16 +4195,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Missy! Missy Cooper, you stop beating up that boy! Punch him in the nuts! Ooh, the long-awaited rebuttal.",
+            "how": "“Missy! Missy Cooper, you stop beating up that boy! Punch him in the nuts! Ooh, the long-awaited rebuttal.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Missy! Missy Cooper, you stop beating up that boy! Punch him in the nuts! Ooh, the long-awaited rebuttal.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4233,40 +4213,40 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Whoa! - What the hell? - Son of a bitch.",
+            "how": "“Whoa! - What the hell? - Son of a bitch.”",
             "count": 4,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Whoa! - What the hell? - Son of a bitch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Crap, we have homework? You're so funny.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What the hell's a modem? It links my computer to an interconnected web of other computers in order to facilitate the exchange of ideas.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You're damn straight that's how it works.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4275,24 +4255,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I-I'd like to take you out for a beer, if that would be okay.",
+            "how": "“I-I'd like to take you out for a beer, if that would be okay.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I-I'd like to take you out for a beer, if that would be okay.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Guess who I'm grabbing a beer with.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -4304,10 +4284,10 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.",
-        "Violence & injury — Missy! Missy Cooper, you stop beating up that boy! Punch him in the nuts! Ooh, the long-awaited rebuttal.",
-        "Swearing — Whoa! - What the hell? - Son of a bitch.",
-        "Alcohol & drugs — I-I'd like to take you out for a beer, if that would be okay."
+        "Nudity & bodies — “See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.”",
+        "Violence & injury — “Missy! Missy Cooper, you stop beating up that boy! Punch him in the nuts! Ooh, the long-awaited rebuttal.”",
+        "Swearing — “Whoa! - What the hell? - Son of a bitch.”",
+        "Alcohol & drugs — “I-I'd like to take you out for a beer, if that would be okay.”"
       ],
       "notes": null,
       "flags": [],
@@ -4328,7 +4308,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4342,40 +4322,40 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I was wondering if we could go out for a beer and talk.",
+            "how": "“I was wondering if we could go out for a beer and talk.”",
             "count": 4,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I was wondering if we could go out for a beer and talk.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Gee, John, last time, you got drunk and threw up in my glove compartment.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "This beer is yummy.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "They do have a good margarita.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -4387,7 +4367,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — I was wondering if we could go out for a beer and talk."
+        "Alcohol & drugs — “I was wondering if we could go out for a beer and talk.”"
       ],
       "notes": null,
       "flags": [],
@@ -4408,7 +4388,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4422,24 +4402,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Well, when that happens to me, I have another beer.",
+            "how": "“Well, when that happens to me, I have another beer.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Well, when that happens to me, I have another beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\"My mother also threw up, but that was because of wine.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4451,7 +4431,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Well, when that happens to me, I have another beer."
+        "Alcohol & drugs — “Well, when that happens to me, I have another beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -4472,7 +4452,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4486,16 +4466,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "In fact, he sold me an athletic supporter to protect my genitals.",
+            "how": "“In fact, he sold me an athletic supporter to protect my genitals.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "In fact, he sold me an athletic supporter to protect my genitals.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -4507,7 +4487,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — In fact, he sold me an athletic supporter to protect my genitals."
+        "Nudity & bodies — “In fact, he sold me an athletic supporter to protect my genitals.”"
       ],
       "notes": null,
       "flags": [],
@@ -4528,7 +4508,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4543,16 +4523,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "To be murdered.",
+            "how": "“To be murdered.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "To be murdered.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               }
@@ -4561,16 +4541,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I'm just gonna grab a beer.",
+            "how": "“I'm just gonna grab a beer.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'm just gonna grab a beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -4582,8 +4562,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — To be murdered.",
-        "Alcohol & drugs — I'm just gonna grab a beer."
+        "Violence & injury — “To be murdered.”",
+        "Alcohol & drugs — “I'm just gonna grab a beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -4637,7 +4617,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4651,40 +4631,40 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I'm calling to confirm a time for beer and socializing this weekend.",
+            "how": "“I'm calling to confirm a time for beer and socializing this weekend.”",
             "count": 4,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'm calling to confirm a time for beer and socializing this weekend.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Make sure your dad doesn't drink too many beers.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "And make sure your son doesn't drink any beers.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Well, evidence suggests I need another beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -4696,7 +4676,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — I'm calling to confirm a time for beer and socializing this weekend."
+        "Alcohol & drugs — “I'm calling to confirm a time for beer and socializing this weekend.”"
       ],
       "notes": null,
       "flags": [],
@@ -4717,7 +4697,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4732,16 +4712,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "\"Sell blood or non-vital organs.",
+            "how": "“\"Sell blood or non-vital organs.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\"Sell blood or non-vital organs.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -4750,16 +4730,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "You sure? 'Cause that's how you look when Dad had that breakfast beer.",
+            "how": "“You sure? 'Cause that's how you look when Dad had that breakfast beer.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You sure? 'Cause that's how you look when Dad had that breakfast beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4771,8 +4751,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — \"Sell blood or non-vital organs.",
-        "Alcohol & drugs — You sure? 'Cause that's how you look when Dad had that breakfast beer."
+        "Violence & injury — “\"Sell blood or non-vital organs.”",
+        "Alcohol & drugs — “You sure? 'Cause that's how you look when Dad had that breakfast beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -4793,7 +4773,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4808,24 +4788,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.",
+            "how": "“Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What were you doing naked with a golf club in a hailstorm? Uh, you know, it was the '70s.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -4834,24 +4814,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "This would be a lot more fun with margaritas.",
+            "how": "“This would be a lot more fun with margaritas.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "This would be a lot more fun with margaritas.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "If you're worried about the beer-drinking, Dad has thoroughly desensitized me.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -4863,8 +4843,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.",
-        "Alcohol & drugs — This would be a lot more fun with margaritas."
+        "Nudity & bodies — “Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.”",
+        "Alcohol & drugs — “This would be a lot more fun with margaritas.”"
       ],
       "notes": null,
       "flags": [],
@@ -4885,7 +4865,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4899,32 +4879,32 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.",
+            "how": "“Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.”",
             "count": 3,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Oh, what'd you do, sleep through church one mornin'? For your information I used to skip class so that I could drink beer in my boyfriend's truck.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "And, you know, tequila.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4936,7 +4916,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer."
+        "Alcohol & drugs — “Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.”"
       ],
       "notes": null,
       "flags": [],
@@ -4957,7 +4937,7 @@
       "overall": 1,
       "age": 8,
       "verdict": "Usually fine — about 8+",
-      "why": "Scores low: the strongest thing we found is fat-shaming (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is fat-shaming (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -4972,16 +4952,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "But when I said \"snacks,\" I mean wine.",
+            "how": "“But when I said \"snacks,\" I mean wine.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "But when I said \"snacks,\" I mean wine.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -4990,16 +4970,16 @@
           {
             "theme": "Fat-shaming",
             "group": "bias",
-            "how": "Did you make this taste bad so Dad would lose weight? Fine.",
+            "how": "“Did you make this taste bad so Dad would lose weight? Fine.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Did you make this taste bad so Dad would lose weight? Fine.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -5011,8 +4991,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — But when I said \"snacks,\" I mean wine.",
-        "Fat-shaming — Did you make this taste bad so Dad would lose weight? Fine."
+        "Alcohol & drugs — “But when I said \"snacks,\" I mean wine.”",
+        "Fat-shaming — “Did you make this taste bad so Dad would lose weight? Fine.”"
       ],
       "notes": null,
       "flags": [],
@@ -7160,7 +7140,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -7177,7 +7157,7 @@
             "how": "Sex, sex, sex. Get over it.",
             "count": 3,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
                 "kind": "note",
@@ -7188,10 +7168,10 @@
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": ": \"I Wanna Sex You Up.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
@@ -7702,7 +7682,7 @@
             "how": "What do you know about getting wine stains out of rayon? You got to let it soak first.",
             "count": 6,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
                 "kind": "note",
@@ -7745,10 +7725,10 @@
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "like the finest wine",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }

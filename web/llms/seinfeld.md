@@ -12,11 +12,11 @@ Watch for:
   - GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”
 - Nudity & bodies — 2 moment(s)
   - JERRY: “Ya know, it's dark, there's bubbles happening, they're all kind a dancing around in there...shirt grabs the underwear: "C'mon babe, let's gather".”
-  - job-interviews is there a chance you'll end up naked at the end
+  - “job-interviews is there a chance you'll end up naked at the end”
 - Violence & injury — 3 moment(s)
   - JERRY: “Ya know, instead, I'm like a detective: I've gotta pick up clues, the whole thing is a murder investigation.”
-  - for getting out blood-stains...Is this a violent image to anybody?
-  - Blood-stains? I mean, I, come on, you got a T-shirt with blood-stains
+  - “for getting out blood-stains...Is this a violent image to anybody?”
+  - “Blood-stains? I mean, I, come on, you got a T-shirt with blood-stains”
 - Alcohol & drugs — 3 moment(s)
   - JERRY: “[hands George a beer] Look, it's a very awkward situation, I, I don't wanna be presumptuous.”
   - LAURA: “[laughs] Actually uhm, do you have any wine?”
@@ -57,7 +57,7 @@ Watch for:
 
 ## S2 E6 — The Ex-Girlfriend
 URL: https://watchwiththekids.com/ep/seinfeld/0206.html
-Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
   - KRAMER: “You're his friend. Better that she should sleep with someone else. Some jerk that he doesn't even know.”
@@ -68,8 +68,6 @@ Watch for:
   - GEORGE: “No, you're a fine person. You're a humanitarian. She's very sexy.”
 - Violence & injury — 1 moment(s)
   - JERRY: “You're flesh and blood.”
-- Swearing — 1 moment(s)
-  - Moby Dick the second time, Ahab and the whale become good friends. You know, it's not like Marlene's a bad person or anything, but, my God! I mean, we've
 
 ## S2 E7 — The Pony Remark
 URL: https://watchwiththekids.com/ep/seinfeld/0207.html
@@ -325,8 +323,8 @@ Watch for:
   - Jerry: “I would say when the nipple makes its first appearance.”
   - George: “So she starts vaccuming, back and forth, back and forth, her hips swivelling, her breasts, uh... (trying to think of a word)”
 - Violence & injury — 2 moment(s)
-  - knife, a big, long, sharp knife, that's what I'm in the market for.
-  - like blades and kind of serrated? That's the kind of knife I'm looking
+  - “knife, a big, long, sharp knife, that's what I'm in the market for.”
+  - “like blades and kind of serrated? That's the kind of knife I'm looking”
 - Swearing — 3 moment(s)
   - Elaine: “Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.”
   - Elaine: “(softly to Dick) Dick.”
@@ -367,8 +365,8 @@ Watch for:
   - KRAMER: “Not only that but at the hotel they opened up this area on the beach for nude bathing and all of the Sports Illustrated models went down there.”
   - KRAMER: “We played Backgammon in the nude.”
 - Suicide & self-harm — 3 moment(s)
-  - The thing I don’t understand about the suicide person is the people
-  - who try and commit suicide for some reason they don’t die and that’s
+  - “The thing I don’t understand about the suicide person is the people”
+  - “who try and commit suicide for some reason they don’t die and that’s”
   - GEORGE: “It’s Martine. I think he’s dying. He tried to kill himself with pills.”
 - Fat-shaming — 1 moment(s)
   - ELAINE: “And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.”
@@ -465,7 +463,7 @@ Watch for:
   - JERRY: “Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?”
   - JERRY: “Oh. I see. There he is! <Pretends the murderers are coming.>”
   - HIPPIE #1: Lemme tell you something, Kramer. If that ogre dude pulled that crap on me <pulls out a knife> - I'D STAB HIM! I'D CUT HIM
-  - right on my head. Cracked it wide open! Blood and stuff was just splattered
+  - “right on my head. Cracked it wide open! Blood and stuff was just splattered”
 - Swearing — 4 moment(s)
   - ELAINE: “O.K., can I just watch the show? <mutters under her breath> God, what an a**hole.”
   - JERRY's brain: “What the hell...? Why is the door open?”
@@ -506,7 +504,7 @@ Watch for:
   - Jerry: “…know it's an emergency number...it is an emergency...my friend is being accused of being a smog strangler and I know he didn't do it...they're putting me trough to the detective in charge of the…”
   - Jerry: “Yes I have some very important information regarding the smog strangler.”
   - Newscaster: “Authorities exposed today, that the latest suspect in the smog strangling was apprehended this week on an unrelated charge, but somehow managed to escape from the police car, in which he was being held.”
-  - punched in the top? What the hell is going on out there? It's very strange,
+  - “punched in the top? What the hell is going on out there? It's very strange,”
 - Alcohol & drugs — 2 moment(s)
   - Lt. Martel: “…the pervert in the park had a present in his pants, huh? Well, I've got another theory Kramer: you're a weed.”
   - Lt. Martel: “You killed all the pretty flowers, didn't you Kramer? You killed the pretty little flowers, didn't you? You dirty, filthy, stinky weed! Didn't you?”
@@ -667,8 +665,8 @@ URL: https://watchwiththekids.com/ep/seinfeld/0456.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - relationship, I think, is that each person has their own sexual time-table
-  - That's why I really think we need some sort of sexual rulebook, where
+  - “relationship, I think, is that each person has their own sexual time-table”
+  - “That's why I really think we need some sort of sexual rulebook, where”
 - Nudity & bodies — 2 moment(s)
   - GEORGE: “<Jerry nudges George to sneak a peek at Molly's cleavage as she bends over and looks in her backpack.”
   - GEORGE: “It's cleavage. I couldn't look away. What am I, waiting to win an Oscar here? This is all I have in my life.”
@@ -893,9 +891,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - JOEL: “Ned's a guy who buys irregular underwear. Next!”
 - Violence & injury — 6 moment(s)
-  - by the sounds of murdering, just stereo. Chain saws, people screaming,
+  - “by the sounds of murdering, just stereo. Chain saws, people screaming,”
   - ELAINE: “(to the person in front of her) He's not the murderer.”
-  - yourself, buddy. (Jerry slams down the knife and goes to the couch)
+  - “yourself, buddy. (Jerry slams down the knife and goes to the couch)”
   - ELAINE: “Hey, how many people did Rifkin strangle? Eighteen?”
   - JERRY: “Yeah. Eighteen strangles.”
   - ELAINE: “(she fakes a strangling) RRR...”
@@ -943,7 +941,7 @@ Watch for:
   - GEORGE: “You know there is an unusual number of people in this country having sex with AMPUTEES! . . . Penthouse forum, newspaper, gum, Clark Bar.”
 - Nudity & bodies — 2 moment(s)
   - KRAMER: “"…well of course I noticed it too with those ample breasts and those pouty lips. I don't have to tell you she was a knock out…."”
-  - skiing naked if you got a good hat. But there's no hat that makes a statement
+  - “skiing naked if you got a good hat. But there's no hat that makes a statement”
 - Violence & injury — 2 moment(s)
   - George enters in Gore-Tex jacket
   - GEORGE: “This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?”
@@ -988,7 +986,7 @@ Watch for:
   - JERRY: “No, gore-tex. It's new. <Checks his pockets.> Hey, look at this locket. What the hell is this? There's a picture in here, look at that.”
 - Swearing — 4 moment(s)
   - MERYL (throws Paula's clothes at Jerry): You son of a bitch!
-  - cigarette warnings - your very life is at stake! People go, 'Ah, the hell
+  - “cigarette warnings - your very life is at stake! People go, 'Ah, the hell”
   - MORTY: “Why the hell didn't you tell us?”
   - GRANDPA (to Anna): I thought you said you was bringin' a white boy home! I don't see a white boy! I see a damn fool!
 
@@ -999,8 +997,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - JERRY: “(stopping them) We better not. (they make out some more; then stop) T-They're gonna be here any second.”
 - Nudity & bodies — 2 moment(s)
-  - clean you know people wear underwear, ya well they don't wear iron underwear
-  - move into somebody's pants? There is no vintage underwear of course, but
+  - “clean you know people wear underwear, ya well they don't wear iron underwear”
+  - “move into somebody's pants? There is no vintage underwear of course, but”
 - Swearing — 5 moment(s)
   - FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”
   - JACK: “Alright how the hell do I know?”
@@ -1008,7 +1006,7 @@ Watch for:
   - RUDY: “Lousy moth ridden crap.”
   - JACK: “You wanted those damn boxes didn't you?”
 - Alcohol & drugs — 3 moment(s)
-  - (Handsome Cab) drinking champagne. George then smacks the top of the cab
+  - “(Handsome Cab) drinking champagne. George then smacks the top of the cab”
   - GEORGE: “They were drinking champagne in a buggy!”
   - KRAMER: “Well I suppose they are wasted.”
 
@@ -1019,8 +1017,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - JERRY: “(stopping them) We better not. (they make out some more; then stop) T-They're gonna be here any second.”
 - Nudity & bodies — 2 moment(s)
-  - clean you know people wear underwear, ya well they don't wear iron underwear
-  - move into somebody's pants? There is no vintage underwear of course, but
+  - “clean you know people wear underwear, ya well they don't wear iron underwear”
+  - “move into somebody's pants? There is no vintage underwear of course, but”
 - Swearing — 5 moment(s)
   - FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”
   - JACK: “Alright how the hell do I know?”
@@ -1028,7 +1026,7 @@ Watch for:
   - RUDY: “Lousy moth ridden crap.”
   - JACK: “You wanted those damn boxes didn't you?”
 - Alcohol & drugs — 3 moment(s)
-  - (Handsome Cab) drinking champagne. George then smacks the top of the cab
+  - “(Handsome Cab) drinking champagne. George then smacks the top of the cab”
   - GEORGE: “They were drinking champagne in a buggy!”
   - KRAMER: “Well I suppose they are wasted.”
 
@@ -1037,7 +1035,7 @@ URL: https://watchwiththekids.com/ep/seinfeld/0584.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - from the shower curtain naked with an ice bucket on your head. What happened
+  - “from the shower curtain naked with an ice bucket on your head. What happened”
 - Violence & injury — 2 moment(s)
   - KRAMER: “Yeah, yeah, then all of a sudden, this guy pulls out a gun.”
   - GEORGE (from backstage): He's got a gun! He's got a gun! <Tries to flee the bar in a mad panic. The audience in the club also goes nuts and heads for the exits. Jerry stands onstage, perplexed.>
@@ -1090,7 +1088,7 @@ URL: https://watchwiththekids.com/ep/seinfeld/0688.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners
+  - “for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners”
   - Kramer: “Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.”
   - Jerry: “Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.”
 
@@ -1147,7 +1145,7 @@ Watch for:
   - KRAMER: “A gymnast, Jerry. Think of the flexibility. Mmm, that sex'll melt your face.”
   - JERRY: “Yeah, you know, Kramer, there's always a price to pay for just a sexual dalliance.”
 - Violence & injury — 1 moment(s)
-  - by the way. It's not bad enough Lincoln got shot in the head, we gotta
+  - “by the way. It's not bad enough Lincoln got shot in the head, we gotta”
 
 ## S6 E93 — The Soup
 URL: https://watchwiththekids.com/ep/seinfeld/0693.html
@@ -1355,7 +1353,7 @@ Watch for:
   - Jerry: “Well, at least you probably had some, uh, pretty good make-up sex after.”
   - George: “I didn't have any sex.”
 - Porn / strippers / sex work — 1 moment(s)
-  - to mention to me that her friend had wondered if going to a prostitute
+  - “to mention to me that her friend had wondered if going to a prostitute”
 - Suicide & self-harm — 1 moment(s)
   - George: “I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.”
 
@@ -1707,7 +1705,7 @@ Watch for:
   - Jerry: “Oh my God. You had sex. You had sex with Louise!”
   - George: “I can do six weeks standin' on my head. I'm a sexual camel. That's not the point. At least there was the possibility.”
   - Jerry: “Louise! That's what's doin' it. You're no longer pre-occupied with sex, so your mind is able to focus.”
-  - tiny piece of lettuce), and the part obsessed with sex. (Shows large
+  - “tiny piece of lettuce), and the part obsessed with sex. (Shows large”
   - Jerry: “You mean, not subjecting yourself to your sexual advances.”
 
 ## S8 E144 — The Andrea Doria

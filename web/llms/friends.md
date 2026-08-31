@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/friends.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 31 all clear (1–2), 131 gray area (3), 66 hard pass (4–5).
+Buckets: 33 all clear (1–2), 129 gray area (3), 66 hard pass (4–5).
 
 ## S1 E1 — The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)
 URL: https://watchwiththekids.com/ep/friends/0101.html
@@ -80,12 +80,11 @@ Watch for:
   - Rachel: “Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.”
   - Monica: “Wow. My brother never even told me when he lost his virginity.”
   - Joey: “Yeah, but it's not gonna last. She's too much for me in bed. Sexually.”
-- Nudity & bodies — 6 moment(s)
+- Nudity & bodies — 5 moment(s)
   - Ross: “Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve.”
   - Joey: “Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.”
   - Angela: “That's because I'm wearing a dress that accents my boobs.”
   - Monica: “Ugly Naked Guy's laying kitchen tile. Eww!”
-  - Chandler: “Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear—you want it to be dirty?”
   - Rachel: “(holds a pair of panties in front of Ross) Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?”
 - Alcohol & drugs — 2 moment(s)
   - Ross: “So what're you saying here? I should shave again, pick up some wine, what?”
@@ -154,9 +153,7 @@ Watch for:
   - Rachel: “Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?”
 - Suicide & self-harm — 1 moment(s)
   - Phoebe: “So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.”
-- Swearing — 4 moment(s)
-  - Chandler: “It's just that I'm sick of being a victim of this Dick Clark holiday. I say this year, no dates, we make a pact. Just the six of us- dinner.”
-  - Dick Clark: “(on TV) Hi, this is Dick Clark, live in Times Square. We're in a virtual snowstorm of confetti here in Times Square...”
+- Swearing — 2 moment(s)
   - Rachel: “...I think that bitch cracked my tooth.”
   - David: “Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?”
 
@@ -602,14 +599,10 @@ Watch for:
 
 ## S2 E15 — The One Where Rachel and Ross... You Know
 URL: https://watchwiththekids.com/ep/friends/0215.html
-Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - ROSS: “Doctor Burke is sexy?”
-- Swearing — 3 moment(s)
-  - ROSS: “This screen is amazing, I mean Dick Van Dyke is practically life-size.”
-  - DR. BURKE: “I didn't need to know that. I guess 21 years is a lot. I mean, hell, I'm a whole person who can drink older than you.”
-  - MONICA: “Wow, this really sucks.”
 - Alcohol & drugs — 4 moment(s)
   - DR. BURKE: “OK. You better. Oh God, here we go. Hey wanna see 'em go nuts? Watch this. [grabbing some wine glasses and opening the door to the party] Who needs glasses? [everyone laughs]”
   - RACHEL: “Well, I was thinking maybe a um, a romantic dinner with um, candles and wine and then uh, maybe going back to my place for um, dessert.”
@@ -1517,7 +1510,7 @@ Watch for:
   - London wedding; Monica and Chandler hook up (secret affair starts).
   - Scene: The Virgin Atlantic flight to London that Rachel is on.
   - Joey: “Waltham takes her place.) I’m about to pass the bridesmaid I hooked up with last night.”
-  - sexual feelings for him, but I do love him—Ohh! Oh my God! Oh my—why
+  - “sexual feelings for him, but I do love him—Ohh! Oh my God! Oh my—why”
   - Felicity: “(In a sexy voice.)Hello Joey.”
 - Affairs / cheating — 2 moment(s)
   - London wedding; Monica and Chandler hook up (secret affair starts).
@@ -1647,8 +1640,8 @@ Watch for:
   - Monica: “And when he's naked I can throw him out in the front yard and lock the door and all the neighbors will just humiliate him!”
 - Violence & injury — 4 moment(s)
   - Past Life Phoebe: “When the smoke clears, she's missing an arm and the blood is pumping out like you'd see in a horror movie.”
-  - and-and-and y'know if I get really hot umm, I-I like to pick up this knife (She picks up a
-  - knife without putting the box down. She's holding the box between her cheek and shoulder)
+  - “and-and-and y'know if I get really hot umm, I-I like to pick up this knife (She picks up a”
+  - “knife without putting the box down. She's holding the box between her cheek and shoulder)”
   - French Phoebe: “…and when the smoke clears, Phoebe still has her arm.) Whew! (Her arm falls off and starts pumping out blood.) This is getting ridiculous uh!”
 - Fat-shaming — 1 moment(s)
   - Thanksgiving flashbacks include Monica's fat suit and Chandler's insult that shapes her life — body image, not sex.
@@ -1690,14 +1683,11 @@ Watch for:
 
 ## S5 E11 — The One With All The Resolutions
 URL: https://watchwiththekids.com/ep/friends/0511.html
-Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Monica: “Well if Ted Kopel talked about his coworkers botched boob jobs, I would.”
   - She puts her hands over her breasts and indicates that the coworkers boob job resulted in one pointing up and one pointing down with her hands by pointing up with one hand and down with the other.
-- Swearing — 2 moment(s)
-  - Jay Leno: “(On TV to Dick Clark) Is there any entertainment there? What are people doing?”
-  - Rachel: “(entering, singing) "Baddest man in the whole damn town."”
 - Alcohol & drugs — 2 moment(s)
   - He exhales in sheer ecstasy as the coolness of the bathroom envelops his legs.
   - Ross: “(in ecstasy) Ahhhhhhhhhhhhhh……….”
@@ -1769,7 +1759,7 @@ Watch for:
   - Joey: “Okay? But sometimes when you, when you playfully punch me like that it-it feels like someone's hitting me with a very tiny but very real bat.”
   - Katie: “Aww, like I could hurt you. Are you making fun of my size? Don't make fun of me because of my size! (She punches him again and almost knocks him off the arm of the couch.)”
 - Alcohol & drugs — 1 moment(s)
-  - but when I first meet you y'know Kurt, I thought, y'know abrasive drunk, umm Lola, mind
+  - “but when I first meet you y'know Kurt, I thought, y'know abrasive drunk, umm Lola, mind”
 
 ## S5 E16 — The One With A Cop
 URL: https://watchwiththekids.com/ep/friends/0516.html
@@ -1796,8 +1786,8 @@ Watch for:
   - Rachel: “Oh my God! What if he thinks I'm the kind of girl that-that would just sleep with him?”
   - Chandler: “{Finally! The voice of reason.} I mean, just impress Gary and Phoebe we have to go upstairs and have sex over and over and I'm saying no to this, why?”
   - Monica: “So! So we've got to go upstairs and have a lot of sex to prove them wrong!”
-  - When I thought you wanted sex in exchange for this job, I said no. That shows integrity.
-  - gotta have courage. And umm, and finally when I thought you were making sexual advances in
+  - “When I thought you wanted sex in exchange for this job, I said no. That shows integrity.”
+  - “gotta have courage. And umm, and finally when I thought you were making sexual advances in”
   - Monica: “Yes it is. You see I've always found the men's bathroom very sexual. Haven't you?”
 - Nudity & bodies — 2 moment(s)
   - Joey: “Boy, that guy's underwear sucks!”
@@ -2028,9 +2018,8 @@ Watch for:
 URL: https://watchwiththekids.com/ep/friends/0610.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
-- Swearing — 5 moment(s)
+- Swearing — 4 moment(s)
   - Janine: “I just got a call to be a dancer on a television special for New Year’s Eve. It’s called some sort of Dick’n Rock’n Dickie Eve.”
-  - Monica: “Hold it! Are you talking about Dick Clark’s New Year’s Rocking Eve?”
   - Joey: “And if she kisses me back, great! Y’know? But if she says ‘Dude, what the hell are you doing?’ I can say ‘It wasn’t me, it was New Years!’”
   - Phoebe: “Yeah, and you have nothing to worry about 'cos they're all crap!”
   - Monica: “Man, this sucks! Y’know if Mom and Dad don’t see us on TV after we made them so jealous, I mean, who’s gonna be the losers then?”
@@ -2209,7 +2198,7 @@ Watch for:
   - Joey: “(nodding knowingly) Now you’re thinking you gotta sleep with him.”
   - Ross: “Wow! The only thing I got from my Grandmother was her eyes. I mean not-not her actual eyeballs, but, but people say that my eyes—Do-do you want to make out?”
   - They fall to the couch and start to make out, but Ross stops suddenly.
-  - it. Nice and sexy. You’re just a love machine. (Starts singing) I’m just a
+  - “it. Nice and sexy. You’re just a love machine. (Starts singing) I’m just a”
 - Swearing — 3 moment(s)
   - Phoebe: “Oh! Here it is! (Noticing it next to the door.) Ooh, Joey! Why did you sign it, "Son of a bitch?" (Son of a bitch is written across the entire picture.)”
   - The Dry Cleaner: “(entering) Son of a bitch!”
@@ -2278,7 +2267,7 @@ Watch for:
   - Joey: “You got porn!”
   - Ross: “(chases her) Oh yeah, yeah? Well uh, when we were going out, I read tons of porno magazines! (Realizes a table of women overheard him.) (To that table.) ‘Sup?”
 - Violence & injury — 1 moment(s)
-  - and pulls out a little beat up paperback book. He opens it and starts to read from it.)
+  - “and pulls out a little beat up paperback book. He opens it and starts to read from it.)”
 - Alcohol & drugs — 1 moment(s)
   - Monica: “A jazz trio for cocktails. The Bay City Rollers for dancing. Wait, that was from my sixth grade wedding.”
 
@@ -2433,7 +2422,7 @@ URL: https://watchwiththekids.com/ep/friends/0713.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - (Mimes putting a gun to his head, pulling the trigger, and splattering his brain on the
+  - “(Mimes putting a gun to his head, pulling the trigger, and splattering his brain on the”
 - Suicide & self-harm — 2 moment(s)
   - Scene: The telemarketing office, Phoebe is still trying to talk Earl out of suicide.
   - Phoebe: “My mom killed herself.”
@@ -2448,9 +2437,8 @@ Watch for:
 URL: https://watchwiththekids.com/ep/friends/0714.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
+- Nudity & bodies — 1 moment(s)
   - Rachel: “Okay, but taking care of a drunk, naked woman seems like a job for Joey.”
-  - smoked a cigarette! And I got a box of Ding-Dongs hidden in my underwear drawer!
 - Swearing — 4 moment(s)
   - Rachel: “So what?! Y’know what? The way I see it—(Phoebe pulls out a hair from the back of her head)—Ow! Son of a bitch!!”
   - Tag: “She would appreciate it if you don’t use the words old or downhill or (To Joey) they still look pretty damn good.”
@@ -2625,18 +2613,13 @@ Watch for:
 
 ## S7 Especial — Friends: The Stuff You’ve Never Seen
 URL: https://watchwiththekids.com/ep/friends/07outtakes.html
-Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Cut to Monica and Chandler's, Sick Monica is trying to entice Chandler to have sex with her.
 - Nudity & bodies — 2 moment(s)
   - Cut to Monica’s restaurant kitchen, it’s the episode where Joey is working as a waiter at Monica’s restaurant. Joey is patting her breast from when she set it on fire.
   - Matthew runs in and starts patting the other breast, then walks away. Matt slowly stops patting her breast.
-- Swearing — 4 moment(s)
-  - Cut to Central Perk, to the theme from The Dick Van Dyke show Joey runs into Central Perk carrying a stack of Soap Opera Digests and falls on the step. He does bounce right back up making it all that much funnier.
-  - Jennifer: “That damn monkey.”
-  - Conan: “(to Matt) You bastard.”
-  - Phoebe: “(spitting the cookie out onto a napkin) Oh, sweet Je—(Beep)—sus! Oh! Monica, these are the (laughing) cookies they serve in hell!”
 - Alcohol & drugs — 2 moment(s)
   - Cut to Monica and Chandler's, Monica is throwing a party. Joey is talking to Ross about the bad audition he just had while pouring booze onto a snow cone.
   - Matt: “Okay, I’ll just put a little more booze on there. (Pours some more on.)”
@@ -3097,7 +3080,7 @@ URL: https://watchwiththekids.com/ep/friends/0904.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - before yeah we had sex on this couch and then on that chair and no. no we
+  - “before yeah we had sex on this couch and then on that chair and no. no we”
   - Joey: “well that's not even the weird part. I don't think she remembered sleeping with me.”
   - Monica: “: But you don't remember sleeping with her.”
   - Joey: “come on, come on, search your brain all right. it was (thinks) a certain amount of time ago, I was here you were here, we had sex (starts pointing out the places) here, here, here NOT there. Anything?”
@@ -3158,12 +3141,12 @@ Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Chandler: “Whoho ho... Listen to the judgement from the porn star!”
 - Affairs / cheating — 1 moment(s)
-  - were on a break. (baby talk) Yes we were! Yes we were! (picks Emma up) Come
+  - “were on a break. (baby talk) Yes we were! Yes we were! (picks Emma up) Come”
 - Violence & injury — 2 moment(s)
   - Phoebe: “Yeah I bet! Look out! (Phoebe punches Theodore right in the stomach)”
   - Theodore: “How could you know. Why wouldn't you punch me in the stomach? (Theodore walks out... Mike walks towards Phoebe)”
 - Suicide & self-harm — 1 moment(s)
-  - I'm from upstate, but uhm... then my mom killed herself and my stepdad went
+  - “I'm from upstate, but uhm... then my mom killed herself and my stepdad went”
 - Alcohol & drugs — 1 moment(s)
   - Chandler: “It may be customary to get a beer...”
 

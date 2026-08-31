@@ -87,10 +87,10 @@
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "job-interviews is there a chance you'll end up naked at the end",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -113,18 +113,18 @@
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "for getting out blood-stains...Is this a violent image to anybody?",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Blood-stains? I mean, I, come on, you got a T-shirt with blood-stains",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -459,7 +459,7 @@
       "summary": null,
       "violence": 2,
       "sex": 2,
-      "language": 2,
+      "language": 1,
       "overall": 2,
       "age": 10,
       "verdict": "Mild — okay from about 10+",
@@ -472,8 +472,7 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Violence & injury",
-          "Swearing"
+          "Violence & injury"
         ],
         "watch_detail": [
           {
@@ -551,24 +550,6 @@
                 "at": "early"
               }
             ]
-          },
-          {
-            "theme": "Swearing",
-            "group": "language",
-            "how": "Moby Dick the second time, Ahab and the whale become good friends. You know, it's not like Marlene's a bad person or anything, but, my God! I mean, we've",
-            "count": 1,
-            "intensity": 2,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Moby Dick the second time, Ahab and the whale become good friends. You know, it's not like Marlene's a bad person or anything, but, my God! I mean, we've",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
           }
         ],
         "optional": [],
@@ -577,8 +558,7 @@
       },
       "examples": [
         "Sex & hookups — KRAMER: “You're his friend. Better that she should sleep with someone else. Some jerk that he doesn't even know.”",
-        "Violence & injury — JERRY: “You're flesh and blood.”",
-        "Swearing — Moby Dick the second time, Ahab and the whale become good friends. You know, it's not like Marlene's a bad person or anything, but, my God! I mean, we've"
+        "Violence & injury — JERRY: “You're flesh and blood.”"
       ],
       "notes": null,
       "flags": [],
@@ -1554,16 +1534,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "some sort of homosexual store, thinking it's a shoe store, and the salesman",
+            "how": "“some sort of homosexual store, thinking it's a shoe store, and the salesman”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "some sort of homosexual store, thinking it's a shoe store, and the salesman",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2819,24 +2799,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "knife, a big, long, sharp knife, that's what I'm in the market for.",
+            "how": "“knife, a big, long, sharp knife, that's what I'm in the market for.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "knife, a big, long, sharp knife, that's what I'm in the market for.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "like blades and kind of serrated? That's the kind of knife I'm looking",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -2902,7 +2882,7 @@
       "examples": [
         "Sex & hookups — Jerry: “You had sex with the cleaning woman on your desk? Who are you, how did you do that?”",
         "Nudity & bodies — Jerry: “I would say when the nipple makes its first appearance.”",
-        "Violence & injury — knife, a big, long, sharp knife, that's what I'm in the market for.",
+        "Violence & injury — “knife, a big, long, sharp knife, that's what I'm in the market for.”",
         "Swearing — Elaine: “Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.”",
         "Alcohol & drugs — Kramer: “Imagine, you can walk around drunk all day.”"
       ],
@@ -3239,24 +3219,24 @@
           {
             "theme": "Suicide & self-harm",
             "group": "violence",
-            "how": "The thing I don’t understand about the suicide person is the people",
+            "how": "“The thing I don’t understand about the suicide person is the people”",
             "count": 3,
             "intensity": 3,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "The thing I don’t understand about the suicide person is the people",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "who try and commit suicide for some reason they don’t die and that’s",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               },
@@ -3296,7 +3276,7 @@
       "examples": [
         "Sex & hookups — JERRY: “Boy she’s sexy isn’t she?”",
         "Nudity & bodies — KRAMER: “Not only that but at the hotel they opened up this area on the beach for nude bathing and all of the Sports Illustrated models went down there.”",
-        "Suicide & self-harm — The thing I don’t understand about the suicide person is the people",
+        "Suicide & self-harm — “The thing I don’t understand about the suicide person is the people”",
         "Fat-shaming — ELAINE: “And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.”"
       ],
       "notes": null,
@@ -4066,10 +4046,10 @@
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "right on my head. Cracked it wide open! Blood and stuff was just splattered",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -4428,10 +4408,10 @@
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "punched in the top? What the hell is going on out there? It's very strange,",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -5825,7 +5805,7 @@
       "overall": 1,
       "age": 10,
       "verdict": "Usually fine — about 10+",
-      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, implied).",
+      "why": "Scores low: the strongest thing we found is sex & hookups (joke or passing mention, in dialogue).",
       "themes": {
         "fine": [
           "Observational New York comedy",
@@ -5841,24 +5821,24 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "relationship, I think, is that each person has their own sexual time-table",
+            "how": "“relationship, I think, is that each person has their own sexual time-table”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "relationship, I think, is that each person has their own sexual time-table",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "That's why I really think we need some sort of sexual rulebook, where",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -5935,7 +5915,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — relationship, I think, is that each person has their own sexual time-table",
+        "Sex & hookups — “relationship, I think, is that each person has their own sexual time-table”",
         "Nudity & bodies — GEORGE: “<Jerry nudges George to sneak a peek at Molly's cleavage as she bends over and looks in her backpack.”",
         "Alcohol & drugs — ELAINE: “Bouchard's, on 53rd. <George starts choking on his wine, and attempts to tell Elaine something.>”"
       ],
@@ -7925,16 +7905,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "by the sounds of murdering, just stereo. Chain saws, people screaming,",
+            "how": "“by the sounds of murdering, just stereo. Chain saws, people screaming,”",
             "count": 6,
             "intensity": 3,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "by the sounds of murdering, just stereo. Chain saws, people screaming,",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               },
@@ -7947,10 +7927,10 @@
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "yourself, buddy. (Jerry slams down the knife and goes to the couch)",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
@@ -7988,7 +7968,7 @@
       "examples": [
         "Sex & hookups — JOANNE: “I wouldn't sleep with my back to him if I were you.”",
         "Nudity & bodies — JOEL: “Ned's a guy who buys irregular underwear. Next!”",
-        "Violence & injury — by the sounds of murdering, just stereo. Chain saws, people screaming,"
+        "Violence & injury — “by the sounds of murdering, just stereo. Chain saws, people screaming,”"
       ],
       "notes": null,
       "flags": [],
@@ -8401,10 +8381,10 @@
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "skiing naked if you got a good hat. But there's no hat that makes a statement",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -8798,10 +8778,10 @@
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "cigarette warnings - your very life is at stake! People go, 'Ah, the hell",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
@@ -8886,24 +8866,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "clean you know people wear underwear, ya well they don't wear iron underwear",
+            "how": "“clean you know people wear underwear, ya well they don't wear iron underwear”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "clean you know people wear underwear, ya well they don't wear iron underwear",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "move into somebody's pants? There is no vintage underwear of course, but",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -8962,16 +8942,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "(Handsome Cab) drinking champagne. George then smacks the top of the cab",
+            "how": "“(Handsome Cab) drinking champagne. George then smacks the top of the cab”",
             "count": 3,
             "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "(Handsome Cab) drinking champagne. George then smacks the top of the cab",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
@@ -9029,9 +9009,9 @@
       },
       "examples": [
         "Sex & hookups — JERRY: “(stopping them) We better not. (they make out some more; then stop) T-They're gonna be here any second.”",
-        "Nudity & bodies — clean you know people wear underwear, ya well they don't wear iron underwear",
+        "Nudity & bodies — “clean you know people wear underwear, ya well they don't wear iron underwear”",
         "Swearing — FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”",
-        "Alcohol & drugs — (Handsome Cab) drinking champagne. George then smacks the top of the cab"
+        "Alcohol & drugs — “(Handsome Cab) drinking champagne. George then smacks the top of the cab”"
       ],
       "notes": null,
       "flags": [],
@@ -9086,24 +9066,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "clean you know people wear underwear, ya well they don't wear iron underwear",
+            "how": "“clean you know people wear underwear, ya well they don't wear iron underwear”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "clean you know people wear underwear, ya well they don't wear iron underwear",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "move into somebody's pants? There is no vintage underwear of course, but",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -9162,16 +9142,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "(Handsome Cab) drinking champagne. George then smacks the top of the cab",
+            "how": "“(Handsome Cab) drinking champagne. George then smacks the top of the cab”",
             "count": 3,
             "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "(Handsome Cab) drinking champagne. George then smacks the top of the cab",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
@@ -9229,9 +9209,9 @@
       },
       "examples": [
         "Sex & hookups — JERRY: “(stopping them) We better not. (they make out some more; then stop) T-They're gonna be here any second.”",
-        "Nudity & bodies — clean you know people wear underwear, ya well they don't wear iron underwear",
+        "Nudity & bodies — “clean you know people wear underwear, ya well they don't wear iron underwear”",
         "Swearing — FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”",
-        "Alcohol & drugs — (Handsome Cab) drinking champagne. George then smacks the top of the cab"
+        "Alcohol & drugs — “(Handsome Cab) drinking champagne. George then smacks the top of the cab”"
       ],
       "notes": null,
       "flags": [],
@@ -9266,16 +9246,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "from the shower curtain naked with an ice bucket on your head. What happened",
+            "how": "“from the shower curtain naked with an ice bucket on your head. What happened”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "from the shower curtain naked with an ice bucket on your head. What happened",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -9313,7 +9293,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — from the shower curtain naked with an ice bucket on your head. What happened",
+        "Nudity & bodies — “from the shower curtain naked with an ice bucket on your head. What happened”",
         "Violence & injury — KRAMER: “Yeah, yeah, then all of a sudden, this guy pulls out a gun.”"
       ],
       "notes": null,
@@ -9768,16 +9748,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners",
+            "how": "“for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners”",
             "count": 3,
             "intensity": 3,
             "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               },
@@ -9805,7 +9785,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners"
+        "Violence & injury — “for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners”"
       ],
       "notes": null,
       "flags": [],
@@ -10251,7 +10231,7 @@
       "overall": 2,
       "age": 10,
       "verdict": "Mild — okay from about 10+",
-      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, in dialogue).",
       "themes": {
         "fine": [
           "Observational New York comedy",
@@ -10300,16 +10280,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "by the way. It's not bad enough Lincoln got shot in the head, we gotta",
+            "how": "“by the way. It's not bad enough Lincoln got shot in the head, we gotta”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "by the way. It's not bad enough Lincoln got shot in the head, we gotta",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -10322,7 +10302,7 @@
       },
       "examples": [
         "Sex & hookups — GEORGE: “Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.”",
-        "Violence & injury — by the way. It's not bad enough Lincoln got shot in the head, we gotta"
+        "Violence & injury — “by the way. It's not bad enough Lincoln got shot in the head, we gotta”"
       ],
       "notes": null,
       "flags": [],
@@ -12138,7 +12118,7 @@
       "overall": 4,
       "age": 13,
       "verdict": "Skip for under 13",
-      "why": "Driven by porn / strippers / sex work (explicit, implied), with suicide & self-harm alongside it.",
+      "why": "Driven by porn / strippers / sex work (explicit, in dialogue), with suicide & self-harm alongside it.",
       "themes": {
         "fine": [
           "Observational New York comedy",
@@ -12179,16 +12159,16 @@
           {
             "theme": "Porn / strippers / sex work",
             "group": "sex",
-            "how": "to mention to me that her friend had wondered if going to a prostitute",
+            "how": "“to mention to me that her friend had wondered if going to a prostitute”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "to mention to me that her friend had wondered if going to a prostitute",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               }
@@ -12219,7 +12199,7 @@
       },
       "examples": [
         "Sex & hookups — Jerry: “Well, at least you probably had some, uh, pretty good make-up sex after.”",
-        "Porn / strippers / sex work — to mention to me that her friend had wondered if going to a prostitute",
+        "Porn / strippers / sex work — “to mention to me that her friend had wondered if going to a prostitute”",
         "Suicide & self-harm — George: “I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.”"
       ],
       "notes": null,
@@ -15206,10 +15186,10 @@
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "tiny piece of lettuce), and the part obsessed with sex. (Shows large",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },

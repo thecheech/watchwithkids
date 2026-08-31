@@ -19,8 +19,8 @@
     "blurb": "Six young (20-something) people from New York City (Manhattan), on their own and struggling to survive in the real world, find the…",
     "href": "friends.html",
     "mix": {
-      "safe": 31,
-      "maybe": 131,
+      "safe": 33,
+      "maybe": 129,
       "skip": 66,
       "total": 228
     }
@@ -338,8 +338,8 @@
     "blurb": "Come follow the adventures of the world's most lovable sponge and his starfish sidekick! Though they have the best intentions, SpongeBob…",
     "href": "spongebob.html",
     "mix": {
-      "safe": 856,
-      "maybe": 6,
+      "safe": 858,
+      "maybe": 4,
       "skip": 0,
       "total": 862
     }
@@ -597,8 +597,8 @@
     "blurb": "Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of…",
     "href": "family-guy.html",
     "mix": {
-      "safe": 33,
-      "maybe": 124,
+      "safe": 34,
+      "maybe": 123,
       "skip": 299,
       "total": 456
     }

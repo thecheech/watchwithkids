@@ -61,7 +61,7 @@ URL: https://watchwiththekids.com/ep/the-office/0106.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Dwight: Sex.
+  - “Dwight: Sex.”
 - Nudity & bodies — 1 moment(s)
   - Dwight: “The purse girl hits everything on my checklist. Creamy skin. Straight teeth. Curly hair. Amazing breasts. Not for me, for my children. The Schrutes produce very thirsty babies.”
 - Swearing — 3 moment(s)
@@ -259,7 +259,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “Is it good to be back. Yeah. I mean I love the guy stuff but to run an office you need men and women. You know why? Because you need to have that crazy sexual tension to keep things interesting.”
 - Violence & injury — 1 moment(s)
-  - Dwight & Roy: [at the same time] Guns.
+  - “Dwight & Roy: [at the same time] Guns.”
 - Swearing — 4 moment(s)
   - Michael: “Hey. Um... look guys, I'm sorry. Sometimes Jan can be such a bitch. All the Men: Generalized mumbling agreement. Yeah. Michael: Hey, watch it, watch it. We have a relationship.”
   - Darryl: “My job sucks compared to this.”
@@ -507,7 +507,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - Harvey: “Me so horny. Me love you long tim.”
 - Nudity & bodies — 1 moment(s)
-  - Harvey: Boobs.
+  - “Harvey: Boobs.”
 - Violence & injury — 1 moment(s)
   - Andy: “Caught an eighty-pound shark off of Montauk. It's in the Hamptons. My dad's got a 42-ft Bayliner. Sniped it with a rifle from the crow's nest. Also shot a deer once.”
 
@@ -1943,7 +1943,7 @@ Watch for:
   - Deangelo: “Raise your hand if you have a vagina.”
 - Swearing — 4 moment(s)
   - Kevin: “That sounds like Pam. You know how she gets. Deangelo, she can get really bitchy. [begins bad imitation of Pam] Kevin...”
-  - Darryl: Damn!
+  - “Darryl: Damn!”
   - Dwight: “Pass. If I wanted to see a pissing contest, I'd lock Mose in the chicken coop.”
   - Deangelo: “Damn it, Dwight! Enough! Get your ass downstairs or find a new place to sell paper! [Dwight immediately gets up and walks out]”
 - Slut-shaming — 1 moment(s)
@@ -2437,7 +2437,7 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - Oscar: “Yesterday, Angela may or may not have figured out that I’m having an affair with her husband.”
 - Violence & injury — 5 moment(s)
-  - Angela: Murder.
+  - “Angela: Murder.”
   - Dwight: “You can’t have someone murdered.”
   - Angela: “Do you have a gun?”
   - Dwight: “[snickers] Does he own a gun? Show her.”
@@ -2611,7 +2611,7 @@ Watch for:
   - Dwight: “[fires tranquilizer gun at Stanley]”
   - Dwight: “[fires tranquilizer gun twice]”
 - Homophobic jokes — 1 moment(s)
-  - Reporter #1: Senator, were always gay, or did your wife turn you gay?
+  - “Reporter #1: Senator, were always gay, or did your wife turn you gay?”
 
 ## S9 E20 — Paper Airplane
 URL: https://watchwiththekids.com/ep/the-office/0920.html

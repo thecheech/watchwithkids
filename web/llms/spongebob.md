@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/spongebob.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 856 all clear (1–2), 6 gray area (3), 0 hard pass (4–5).
+Buckets: 858 all clear (1–2), 4 gray area (3), 0 hard pass (4–5).
 
 ## S2 E29a — & 1 Toilets
 URL: https://watchwiththekids.com/ep/spongebob/0229a.html
@@ -120,16 +120,12 @@ Watch for:
 ## S13 E279c — A Skin Wrinkle in Time
 URL: https://watchwiththekids.com/ep/spongebob/13279c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob opens the door, still in his underwear.
+Watch for: nothing flagged.
 
 ## S1 E18b — A Space Affair to Remember
 URL: https://watchwiththekids.com/ep/spongebob/0118b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Cecil and Bunny skid across the ground on one hand each. Cecil's lights on fire and he tries to blow it out. They each catch on fire and explode, ruining their costumes and exposing their underwear.
 - Affairs / cheating — 2 moment(s)
   - A Space Affair to Remember
   - This article is a transcript of the The Patrick Star Show episode "A Space Affair to Remember" from season 1, which aired on April 18, 2023.
@@ -152,10 +148,7 @@ Watch for: nothing flagged.
 ## S15 E314b — A Taste of Plankton
 URL: https://watchwiththekids.com/ep/spongebob/15314b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - The glue bubbles and pops. Hot glue spills on Plankton, making him scream and flail. Karen pulls him out of it; his lower body is ripped, revealing pink skin and his underwear.
-  - Mr. Krabs: “Mmm... [exits office in his underwear] Worse than chum!? [takes a patty and bites it, his eyestalks burn up, runs to SpongeBob] What have you done to my patties?”
+Watch for: nothing flagged.
 
 ## S4 E55a — A Tinkle in Time
 URL: https://watchwiththekids.com/ep/spongebob/0455a.html
@@ -220,9 +213,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/11238a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “[put his dentures back in his mouth; he and Gary jump in the bathtub and SpongeBob scrubs himself] Until they found a copy in the producer's underwear drawer.”
-  - Mr. Krabs is counting money and Squidward is manning the register. SpongeBob bursts out from the door and runs past them in a fast pace, leaving a trail of fire and leaving Mr. Krabs in his underwear.
 - Violence & injury — 1 moment(s)
   - SpongeBob is beaten up from getting crushed by the rocky roads. He pokes a hole, deflates, and flies everywhere. He then looks at his watch.
 
@@ -274,17 +264,12 @@ Watch for:
 ## S2 E38a — At Home, on the Lam
 URL: https://watchwiththekids.com/ep/spongebob/0238a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Bunny: “[whistles to summon Tinkle, pulling out a pair of underwear from a laundry basket] All right, Tinkle.”
-  - Tinkle: “[sniffs underwear, passes out]”
+Watch for: nothing flagged.
 
 ## S5 E92 — Atlantis SquarePantis
 URL: https://watchwiththekids.com/ep/spongebob/0592.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “[Sees the amulet's half was still there and is dumbfounded] ...ome?! You boobs found the missing half of the Atlantean amulet?”
 - Violence & injury — 2 moment(s)
   - Plankton: “And this one here matches my shoes!♪ [serious tone] Come on, Plankton, just pick one and forget about your shoes! Eeny, meeny, minie moe, I pick you, now let's go! [jumps into a giant tank's gun.”
   - Sandy: “Hang in there, little buddy! [she uses Squidward's tentacles to grab the shooting balls and fires the balls at the guards by pulling Squidward's nose like a gun.”
@@ -308,9 +293,7 @@ Watch for:
 ## S1 E16a — Backpay Payback
 URL: https://watchwiththekids.com/ep/spongebob/0116a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Bunny is unloading the dryer, taking out a pair of heart-patterned underwear. Squidward and Granny Tentacles fly into the dryer, and Bunny unknowingly closes the door on them.
+Watch for: nothing flagged.
 
 ## S15 E309a — Bad Luck Bob
 URL: https://watchwiththekids.com/ep/spongebob/15309a.html
@@ -352,8 +335,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0480a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “the best day ever starts at the Krusty Krab! Guys, I'm sorry, but I'm going to have to ask you to leave! [nematodes eat his pants reveling his underwear and he covers himself] Ohhhh!”
 - Violence & injury — 1 moment(s)
   - Sandy: “Knock... it... off! [grabs one of her karate gloves and punches SpongeBob up high. The leak stops] It stopped? SpongeBob!”
 
@@ -438,8 +419,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0593c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “I may get beaten to a quivering pulp but I must do it, for the sake of my parents! [cries and wipes his eyes with a pair of underwear.”
 - Violence & injury — 2 moment(s)
   - Harold: “Now if your klutzy mother can stop dropping her punch glass like she dropped that picture frame...”
   - BlackJack: “In the living flesh! [grunts as he takes off SpongeBob's shoe and punches his big toe]”
@@ -476,9 +455,7 @@ Watch for: nothing flagged.
 ## S1 E4b — Boating School
 URL: https://watchwiththekids.com/ep/spongebob/014b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “[focuses in on the underwear with the telescope to reveal the word lucky on the top of it] ...bingo!”
+Watch for: nothing flagged.
 
 ## S1 E18b — Boo Light Special
 URL: https://watchwiththekids.com/ep/spongebob/0118b-2.html
@@ -560,12 +537,10 @@ Watch for: nothing flagged.
 
 ## S1 E26a — Bubble Bass Reviews
 URL: https://watchwiththekids.com/ep/spongebob/0126a.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bubble Bass: “...whereas, previously, it was traveling left to right. The shots don't hook up! My immersion is ruined. You had one job, and you goof'd!”
-- Nudity & bodies — 1 moment(s)
-  - Mama Bass: “Ugh, look at this. [pulls out Bubble Bass' underwear] There's skid marks on all his underwear. [pulls up Bubble Bass' action figures] Oh, and he buys multiples of the same superhero dolls. [drops the figures]”
 
 ## S12 E265a — Bubble Bass's Tab
 URL: https://watchwiththekids.com/ep/spongebob/12265a.html
@@ -604,9 +579,7 @@ Watch for: nothing flagged.
 ## S5 E86b — Bucket Sweet Bucket
 URL: https://watchwiththekids.com/ep/spongebob/0586b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Plankton: “With those three boobs preoccupied, stealin' the formula will be a snap!”
+Watch for: nothing flagged.
 
 ## S14 E294b — Buff for Puff
 URL: https://watchwiththekids.com/ep/spongebob/14294b.html
@@ -677,8 +650,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/11236a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - He pulls his underwear out and stuffs it in the toilet too.
 - Alcohol & drugs — 3 moment(s)
   - The police officer put on donut-earmuffs so she wouldn't hear Plankton's complaining. Patrick comes in all covered in ice cream and looking drunk. Patrick kicks the camera stand and falls.
   - Patrick drunkenly stumbles over to Plankton's cell.
@@ -688,8 +659,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0232a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Bubble Bass: “[wearing only underwear and a nightcap] Oh, please.”
 - Violence & injury — 1 moment(s)
   - Wise kraken: “[roars, then gets hit with the dart and turns into a much smaller creature, making the campers fall] Shot in the back? I'll tell ya, I got no respect. [falls and yells]”
 
@@ -697,8 +666,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0117a-2.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Krabs has been trapped in two life preservers and hung up by his underwear to his cabin. Patrick snips a bit of Krabs' heart-patterned underwear with scissors and runs off.
 - Violence & injury — 1 moment(s)
   - SpongeBob: “I see... Camp Master Krabs's angry bloodshot eyes!?”
 
@@ -761,9 +728,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/06115b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Patrick: “You still have your underwear.”
-  - Brother Roger: “[takes Squidward's underwear]”
 - Violence & injury — 1 moment(s)
   - Squidward: “[clears throat] Do not worry. I will save you. Be gone, foul beast, or, I will smite thee. [punches the sock twice]”
 
@@ -852,8 +816,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0239b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - GrandPat: “[pulls his underwear off and tosses them to the floor]”
 - Violence & injury — 1 moment(s)
   - Tinkle: “[wheeze laughs, then gets beaten up internally by the dust devil before being eaten and spat out clean, grins]”
 
@@ -927,9 +889,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/16321a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “[groans as he is under a pile of books, and is now in his underwear] What happened? Where am I?”
-  - SpongeBob: “I was? [covers his crotch due to being in his underwear] How embarrassing.”
 - Violence & injury — 1 moment(s)
   - WereDoodle: “[roars, doodles hair onto Squidward's head, which punches him in the face, knocking his tooth out]”
 
@@ -1034,9 +993,7 @@ Watch for:
 ## S15 E312b — Dome Alone
 URL: https://watchwiththekids.com/ep/spongebob/15312b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - She is then seen looking exhausted, and drops a bra she tries to put on the laundry rack.
+Watch for: nothing flagged.
 
 ## S11 E226b — Don't Feed the Clowns
 URL: https://watchwiththekids.com/ep/spongebob/11226b.html
@@ -1047,11 +1004,8 @@ Watch for:
 
 ## S9 E187a — Don't Look Now
 URL: https://watchwiththekids.com/ep/spongebob/09187a.html
-Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Patrick: “I don't want to die in my underwear!”
-  - SpongeBob: “Here. [takes off his underwear] Die in mine.”
 - Violence & injury — 1 moment(s)
   - Patrick: “You're going down, Fisherman! [starts beating up Squidward's Fisherman costume while SpongeBob grabs Squidward's neck]”
 
@@ -1080,15 +1034,11 @@ Watch for: nothing flagged.
 
 ## S13 E288a — Dopey Dick
 URL: https://watchwiththekids.com/ep/spongebob/13288a.html
-Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 2 moment(s)
   - Fishmael: “Whoa. Oh! [the anchovies put his head in a harpoon gun] This is the special job?”
   - Capn' A. Krabs runs up the crow's nest with a plunger harpoon gun and kicks out another anchovy who's already there.
-- Swearing — 3 moment(s)
-  - This article is a transcript of the SpongeBob SquarePants episode "Dopey Dick" from season 13, which aired on June 29, 2023.
-  - The episode opens with Dopey Dick's hand opening a book titled after him. A grayscale image of a Squidward-like character called Fishmael is on the front page.
-  - Dopey jumps into the wreckage and causes a whirlpool, which sucks the anchovies and ship parts inside. Fishmael surfaces, leaning over a plank of wood.
 
 ## S2 E31b — Dr. Smart Science
 URL: https://watchwiththekids.com/ep/spongebob/0231b.html
@@ -1123,8 +1073,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0477a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Mrs. Puff: “[Patrick walks up to the boat she is sitting in and gets in it, in his underwear] Good morning.”
 - Violence & injury — 2 moment(s)
   - SpongeBob: “Officer, it is my civic duty to report that the driver of this vehicle is speeding. Why don't you clock him with your radar gun?”
   - Officer: “Umm... okay. [uses radar gun. It reads 0mph] Actually, he's going 40 miles under the limit. So move along before I run you in, tattletale. [drives off]”
@@ -1204,9 +1152,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/12266.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Animatronic Hieronymus Glove: [singing] ♪A glove is beyond compare, as essential as underwear!♪
-  - A glove with a face falls onto a scale, balancing it out with some underwear.
 - Violence & injury — 3 moment(s)
   - Helen: “[breaks the leg off of a doll she's holding] Murder one! [bites the doll's leg and growls. The other kids take a step back] I'm kidding, I'm just here 'cause I bit the lemonade guy.”
   - SpongeBob and Patrick: “A ray gun and a flamethrower appear; the guy chuckles and gives a thumbs-up, and they zap him.”
@@ -1501,8 +1446,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/08162.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Ghosts: “Ha-ha-ha! [Lord Poltergeist shows bones for feet and taps them together] We like to haunt and frighten and scare ‘til you jump right out of your underwear.”
 - Violence & injury — 2 moment(s)
   - Sandy: “Hey, corpse breath! You better let my friends out of there if you know what's good for ya!”
   - Mr. Krabs: “Hey, you thieving bilge rat! I stole this gold fair and square! [Mr. Krabs and Poltergeist beat up each other trying to get possession of treasure chest, which flies into the air]”
@@ -1550,9 +1493,7 @@ Watch for: nothing flagged.
 ## S4 E64b — Good Neighbors
 URL: https://watchwiththekids.com/ep/spongebob/0464b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “Which means, those boobs aren't around to bug me.”
+Watch for: nothing flagged.
 
 ## S5 E84c — Good Ol' Whatshisname
 URL: https://watchwiththekids.com/ep/spongebob/0584c.html
@@ -1572,16 +1513,12 @@ Watch for: nothing flagged.
 ## S11 E237 — Goons on the Moon
 URL: https://watchwiththekids.com/ep/spongebob/11237.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “[starts floating] Ooh, whoa! I'm flying, I'm flying! [his skirt falls down, revealing his underwear] Whoop! [covers his underwear and laughs]”
+Watch for: nothing flagged.
 
 ## S16 E321b — Gorilla Suit Day
 URL: https://watchwiththekids.com/ep/spongebob/16321b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Customer: “[gets a pair of underwear thrown at his face, which he slurps up and chews] Mmm.”
+Watch for: nothing flagged.
 
 ## S7 E139a — Gramma's Secret Recipe
 URL: https://watchwiththekids.com/ep/spongebob/07139a.html
@@ -1686,17 +1623,12 @@ Watch for: nothing flagged.
 ## S8 E178 — Hello Bikini Bottom!
 URL: https://watchwiththekids.com/ep/spongebob/08178.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Incidental 106: “[rips out his underwear] Signature, Mr. Tentacles?”
+Watch for: nothing flagged.
 
 ## S1 E14a — Help Not Wanted
 URL: https://watchwiththekids.com/ep/spongebob/0114a.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Patrick: “[writing] "Dear Mom and Dad, please send more underpants." [flashback to him eating underwear and taking SpongeBob's underwear and eating it as well] "I ate my last pair and some of SpongeBob's, so…”
-  - Cecil: “Hey, son! [screams, uses underwear as parachute, crash landing next to Patrick]”
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Watch for: nothing flagged.
 
 ## S1 E1a — Help Wanted
 URL: https://watchwiththekids.com/ep/spongebob/011a.html
@@ -1709,8 +1641,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0120a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Their clothes fall off their bodies, exposing their underwear. They all revert to cavemen, roar, and make animal noises. A group of anchovies is walking by.
 - Violence & injury — 3 moment(s)
   - SpongeBob: “Tentacles! [puts his hand down, wiggles fingers] When that crazy square dance beat gets in my blood, something happens.”
   - Sandy: “Whoa! Whoa-oh-oh-oh! Who's ready for a [punches gloves together] high-impact workout?”
@@ -1787,10 +1717,9 @@ Watch for: nothing flagged.
 
 ## S1 E20a — Hooky
 URL: https://watchwiththekids.com/ep/spongebob/0120a-2.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - The hook is shown to be also hooked in SpongeBob's underwear, while Pearl and her friends laugh again.
+- Nudity & bodies — 1 moment(s)
   - SpongeBob: “Krabs! [cries] I promise I'll be good! [his underwear tears off] Whew.”
 
 ## S1 E15b — Host-a-Palooza
@@ -1835,8 +1764,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/10207b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Ow! [gasps and pulls his underwear up] Open up, Gary! I'm still in my underwear!”
 - Violence & injury — 1 moment(s)
   - He gets shocked when he sees the mailfish severely beaten up.
 
@@ -1870,17 +1797,13 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/015b-3.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Cecil: “Oh. [runs off, returns grating underwear into the soup, then tosses away grate and underwear] What about now?”
 - Violence & injury — 1 moment(s)
   - Patrick: “[stench slaps his face] Ugh! [gets slapped again] Where is that [sweeps air] freaky, funky smell coming from?”
 
 ## S1 E13b — I Was a Teenage Gary
 URL: https://watchwiththekids.com/ep/spongebob/0113b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - There's a knock on the door. Squidward is seen outside. The door opens, but the first thing Squidward sees is Gary on SpongeBob's head. He looks down at SpongeBob and reveals a pair of underwear.
+Watch for: nothing flagged.
 
 ## S7 E127b — I ♥ Dancing
 URL: https://watchwiththekids.com/ep/spongebob/07127b.html
@@ -1891,9 +1814,8 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0237b-3.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
+- Nudity & bodies — 1 moment(s)
   - SpongeBob: “No, they don't, Patrick. Parents just like to push your buttons. Like this! [pushes Patrick's nipples and his eyes elongate] Nee!”
-  - Pan over to SpongeBob pushing his nose to reveal his underwear. When he lets go, his pants pull up by themselves. This is repeated a few times. SpongeBob makes a buzzer sound after that. Patrick giggles.
 
 ## S2 E30b — I'm Your Biggest Fanatic
 URL: https://watchwiththekids.com/ep/spongebob/0230b.html
@@ -1924,9 +1846,7 @@ Watch for:
 ## S1 E26b — In a Nut's Shell
 URL: https://watchwiththekids.com/ep/spongebob/0126b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Narlene: “[opens the shell's butt and waves out underwear on a flag] We give up! We give up!”
+Watch for: nothing flagged.
 
 ## S4 E61a — In a Space Pickle
 URL: https://watchwiththekids.com/ep/spongebob/0461a-2.html
@@ -1960,9 +1880,7 @@ Watch for:
 ## S12 E249b — Insecurity Guards
 URL: https://watchwiththekids.com/ep/spongebob/12249b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Wow! Your life is so glamorous! [puts an underwear with red hearts on his head]”
+Watch for: nothing flagged.
 
 ## S8 E171b — InSPONGEiac
 URL: https://watchwiththekids.com/ep/spongebob/08171b.html
@@ -2047,9 +1965,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0110a-2.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Patrick: “Half-chewed candle, gift! [He takes out a candle with three bite marks.] Fully-chewed candle, gift! [He takes out a gray, stone-like pair of underwear, hitting it with a pickax twice.] Ooh, petrified underwear.”
-  - [They unwrap their gifts; Quasar got petrified underwear, the Tattooed Fish got a mess of hair, Caveman Jenkins got a chewed-up candle, and the dinosaur got GrandPat and the hatchling.
 - Violence & injury — 3 moment(s)
   - Bunny: “Don't hog the punch, dear. Get your presents for everyone and put them under the pole.”
   - Quasar: “[being beaten up by trees] Pat-Tron, forget what I said. I need the laser! Pass me the laser! Baby wants his laser!”
@@ -2065,10 +1980,7 @@ Watch for:
 ## S1 E19b — Kamp Kow
 URL: https://watchwiththekids.com/ep/spongebob/0119b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Underwear transition to several campers and counselors angrily walking to Lucky and the others.]
-  - Mrs. Puff: “[pointing] She also ate my [holds up underwear with a bite taken out of them] unmentionables!”
+Watch for: nothing flagged.
 
 ## S1 E14b — Karate Choppers
 URL: https://watchwiththekids.com/ep/spongebob/0114b-3.html
@@ -2103,9 +2015,7 @@ Watch for: nothing flagged.
 ## S13 E281b — Karen for Spot
 URL: https://watchwiththekids.com/ep/spongebob/13281b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Karen: “[folding tiny underwear] All right, Plankton. [puts underwear into tiny suitcase and closes it] I managed to fit 12 changes of underwear into your suitcase. [picks up suitcase] Will that be enough for the trip?”
+Watch for: nothing flagged.
 
 ## S12 E250b — Karen's Baby
 URL: https://watchwiththekids.com/ep/spongebob/12250b.html
@@ -2167,8 +2077,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/014b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Mr. Krabs: “Ah, alright. Looks like you are Mr. Plankton's new helper! Uh, um, [pulls up SpongeBob's underwear] SpongeBob.”
 - Violence & injury — 1 moment(s)
   - Bubble transition to SpongeBob attempting to cut bread with a knife.
 
@@ -2176,8 +2084,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0110b-3.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Inside a tent, Patrick and Cecil sit in their underwear on the opposite side of the three elder men. There is a fire pit in the middle.
 - Violence & injury — 1 moment(s)
   - Patrick screams and punches him off the stage. He lands in the crowd.
 
@@ -2201,9 +2107,7 @@ Watch for:
 ## S3 E49a — Krab Borg
 URL: https://watchwiththekids.com/ep/spongebob/0349a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Oh, yeah. What color is my underwear? [slaps him again]”
+Watch for: nothing flagged.
 
 ## S3 E57a — Krabby Land
 URL: https://watchwiththekids.com/ep/spongebob/0357a.html
@@ -2257,13 +2161,10 @@ Watch for: nothing flagged.
 
 ## S14 E302 — Kreepaway Kamp
 URL: https://watchwiththekids.com/ep/spongebob/14302.html
-Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Harvey: “[turns around and makes out with himself] Oh, my pumpkin.”
-- Nudity & bodies — 2 moment(s)
-  - Patrick: “[takes the tool and opens the letter, he gets blasted with confetti and an old pair of underwear] My old Kamp Koral underwear! [close-up of the underwear] I haven't worn these in years.”
-  - Patrick: “[whimpering, wearing the old underwear, turning blue] I think these memories are cutting off the circulation to my brain.”
 - Violence & injury — 4 moment(s)
   - Plankton: “I'm not afraid of any creature or axe murderer or whatever.”
   - Patrick: “Ooh, tell the part [mimes swinging an axe] with all the bloody axe-murdering!”
@@ -2413,11 +2314,8 @@ Watch for:
 
 ## S10 E210a — Life Insurance
 URL: https://watchwiththekids.com/ep/spongebob/10210a.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “I... Umm... [he tries to find a pen in his underwear. He rummages through the underwear and pulls out a rubber duck and a bowling ball]”
-  - Patrick: “Hey, SpongeBob! [notices SpongeBob in his underwear] You're in your underwear. That's cool. [shoves a large envelope onto SpongeBob's face] I got your mail. What is it?”
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Watch for: nothing flagged.
 
 ## S2 E27b — Life of Crime
 URL: https://watchwiththekids.com/ep/spongebob/0227b.html
@@ -2442,9 +2340,7 @@ Watch for:
 ## S9 E182a — Little Yellow Book
 URL: https://watchwiththekids.com/ep/spongebob/09182a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “Get this: "If I hear the Bikini Bottom Municipal Anthem, I can't help but take off all my clothes and dance around in my underwear!" [everyone laughs] Quiet, quiet, quiet.”
+Watch for: nothing flagged.
 
 ## S13 E268b — Lockdown for Love
 URL: https://watchwiththekids.com/ep/spongebob/13268b.html
@@ -2470,17 +2366,14 @@ Watch for:
 ## S9 E190a — Lost in Bikini Bottom
 URL: https://watchwiththekids.com/ep/spongebob/09190a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “[notices that he is still in his underwear and gasps] Not ready for work!”
+Watch for: nothing flagged.
 
 ## S1 E3a — Lost in Couch
 URL: https://watchwiththekids.com/ep/spongebob/013a-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
+- Nudity & bodies — 1 moment(s)
   - GrandPat: “Oh-ho, no. I ain't going searchin' for a boob who can't find his way out of a chair. [raises finger] I have nappin' to do!”
-  - Bunny: “[next to Rube's china hutch, holding underwear] Where's my big boy? I brought you a change of underwear.”
 
 ## S7 E151b — Love That Squid
 URL: https://watchwiththekids.com/ep/spongebob/07151b.html
@@ -2523,20 +2416,13 @@ Watch for:
 
 ## S11 E219a — Man Ray Returns
 URL: https://watchwiththekids.com/ep/spongebob/11219a.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Watch for:
-- Nudity & bodies — 4 moment(s)
-  - SpongeBob: “[removes underwear off his head] Oh—your unmentionables.”
-  - Squidward swats the underwear away in anger.
-  - Patrick: “I won't mention this bra.”
-  - Squidward: “It's not a bra! It's a pectoral girdle. I don't care about my clothes. I just wanna get away from you two. And while I'm away—huh...”
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Watch for: nothing flagged.
 
 ## S13 E287b — Mandatory Music
 URL: https://watchwiththekids.com/ep/spongebob/13287b.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
-Watch for:
-- Swearing — 1 moment(s)
-  - "Dopey Dick"
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Watch for: nothing flagged.
 
 ## S9 E196b — Married to Money
 URL: https://watchwiththekids.com/ep/spongebob/09196b.html
@@ -2575,8 +2461,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0120b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Barnacle Boy: “What?! [The scene cuts to the front door of the pineapple. The door opens.] [While he is pushing Mermaid Man out the door.] I come down in my underwear to open a jar of mayonnaise?! [He stops and the two turn around.]”
 - Violence & injury — 1 moment(s)
   - TV Announcer: “It cuts to a wide shot of the cut out of the Jumbo Shrimp.] and the dreaded Jumbo Shrimp! [Mermaid Man and Barnacle Boy punch it.”
 
@@ -2602,8 +2486,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Chief: “Our sources last found E.V.I.L. harassing teenagers up at "Make-Out Reef." You know, Make-Out Reef? [makes out with himself] Whoo-ho-hoo!”
-- Nudity & bodies — 1 moment(s)
-  - Barnacle Boy: “I'm tired of playing second banana to a man who wears a bra! From now on, I wanna be called Barnacle Man! And, I'm through with protecting citizens that don't respect me!”
 
 ## S8 E163a — Mermaid Man Begins
 URL: https://watchwiththekids.com/ep/spongebob/08163a.html
@@ -2615,10 +2497,7 @@ Watch for:
 ## S5 E94b — Mermaid Man vs. SpongeBob
 URL: https://watchwiththekids.com/ep/spongebob/0594b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “Yeah, but it's so worth it when you get to work in these. [shows his uniform which consists of red underwear and a disguise mask around his eyes, and you hear a five-note poorly played trumpet fanfare]”
-  - Plankton: “[Mermaid Man's ears has hair growing out of it and zits all over and you hear a monkey scream] That bra.”
+Watch for: nothing flagged.
 
 ## S2 E30b — Mermaid Men and Barnacle Boys
 URL: https://watchwiththekids.com/ep/spongebob/0230b-2.html
@@ -2629,8 +2508,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/10205b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Krabs and Squidward shake the crusts off themselves and are now in their underwear.
 - Violence & injury — 5 moment(s)
   - SpongeBob gives him a blood transfusion bag for the customer.
   - SpongeBob and Patrick punch a potato into fries.
@@ -2642,9 +2519,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0355b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob, Patrick, and Mr. Krabs tiptoe into a bedroom, and quietly laugh to themselves. Mr. Krabs opens a drawer and observes the pairs of panties.
-  - Mr. Krabs: “[holds up the pair of underwear he got] Woo hoo! You finally came through for me, boys! I feel young again!”
 - Violence & injury — 3 moment(s)
   - Mr. Krabs: “You know, I love staring at delicates as much as the next guy, but it's just that I thought we'd see more of the nightlife. Something that'll give you that wild and crazy hot-blooded feeling, if you know what I mean.”
   - Mr. Krabs: “Debauchery? I never thought of picking up trash under the highway as hot-blooded, but if it's what the kids are into...”
@@ -2740,9 +2614,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/11229b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Mama Bass: “[off-screen] Moving? Hah! You can't even do your own laundry! [grunts and throws an underwear at Bubble Bass]”
-  - Bubble Bass: “[underwear lands on Bubble Bass's face, and a fly is heard buzzing.”
 - Violence & injury — 2 moment(s)
   - Patrick: “[gulps out a bib and fork and knife]”
   - Patrick: “[inhales and swallows the fork, knife, and bib. grumbles] If my friend SpongeBob doesn't get his free lunch, [a realistic close-up of Patrick's face] things are gonna get crazy! [pants while Bubble Bass melts]”
@@ -2830,11 +2701,10 @@ Watch for: nothing flagged.
 
 ## S17 E339a — My Tighty Whiteys
 URL: https://watchwiththekids.com/ep/spongebob/17339a.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “It appears that SpongeBob has been taking a procedure on his dirty underwear as he puts it on his bottom half] Operation: Underwear repair is a success!”
-  - SpongeBob: “Now they just need a good cleaning! [grunts; his chest reveals what appears to be abs in the shape of paper] On my [deep voice] washboard abs! [laughs and takes his underwear off cleaning it with a blue sponge.”
+- Nudity & bodies — 1 moment(s)
+  - SpongeBob: “[jellyfishes with his underwear as a net] ♪ Don't ever fret or despair (Tighty whiteys) ♪ [drinks milk then puts some on his underwear]…”
 
 ## S12 E259b — My Two Krabses
 URL: https://watchwiththekids.com/ep/spongebob/12259b.html
@@ -2851,8 +2721,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0344a-2.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Mr. Krabs: “[gasps] ...the health inspector! [runs up to the kitchen in a yellow towel, says to SpongeBob] Wash your hands! Clean the floors! Change your underwear!”
 - Violence & injury — 3 moment(s)
   - SpongeBob: “[disgusted] Eww, gross, germs, it's all icky and corpse-y! [gagging and shrieking while constantly spraying it with disinfectant] Eww... eww... [drags the body with a tissue]”
   - Officer Nancy: “Step aside. You people act like you've committed a murder.”
@@ -2897,34 +2765,25 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0121b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick pulls him out into the present day. He shakes the robe, making the king fall out in just his underwear.
 - Violence & injury — 1 moment(s)
   - Old Man Walker: “I took down that creature with naught but a bowie knife [shakes fists] and these two fins.”
 
 ## S1 E19b — Neptune's Spatula
 URL: https://watchwiththekids.com/ep/spongebob/0119b-3.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - King Neptune: “[snaps fingers] Also, the royal fry cook wears the red underwear.”
+Watch for: nothing flagged.
 
 ## S5 E85a — New Digs
 URL: https://watchwiththekids.com/ep/spongebob/0585a.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Squidward: “Socks and-- [gasps. socks and underwear are in the register instead of money] What the...? SpongeBob, why is your underwear in the cash register?”
-  - SpongeBob: “Well, I had to put them somewhere and my underwear drawer is all filled up with Krabby Patties and the freezer is filled up with my iced snowflake collection.”
 - Violence & injury — 1 moment(s)
   - SpongeBob: “Done. [a bunch of Krabby Patties are in the kitchen ready for serving. SpongeBob punches his time card at 8:59] All that, before we even open up our doors, sir.”
 
 ## S7 E151a — New Fish in Town
 URL: https://watchwiththekids.com/ep/spongebob/07151a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “[walks outside] Now what are you two boobs up to?”
+Watch for: nothing flagged.
 
 ## S4 E73a — New Leaf
 URL: https://watchwiththekids.com/ep/spongebob/0473a.html
@@ -2954,9 +2813,8 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0116b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
+- Nudity & bodies — 1 moment(s)
   - Sandy pulls the shower cloth down to show Squidward, naked, as a woman screams.
-  - Patrick: “[takes out his underwear on a flag] Let your stink flag fly!”
 
 ## S17 E340a — Night School Knuckleheads
 URL: https://watchwiththekids.com/ep/spongebob/17340a.html
@@ -2978,9 +2836,7 @@ Watch for:
 ## S1 E13a — Nitwit Neighborhood News
 URL: https://watchwiththekids.com/ep/spongebob/0113a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “And a laundry pile-up causes a clean underwear shortage! [Ouchie drops down, the screen changes to "Star Inaction News"] Hmm? [sticks Ouchie on his head, who drills into him and buzzes] Ooh. We have incoming broken news!”
+Watch for: nothing flagged.
 
 ## S2 E30a — No Free Rides
 URL: https://watchwiththekids.com/ep/spongebob/0230a.html
@@ -2991,8 +2847,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/06120a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Mr. Krabs: “…and a cloud of dust covers the screen and the dollar bills fly away] Grandma, help! [he is now in his underwear spinning around on the floor on his back with the ripped up remains of money, unconscious with X's on…”
 - Violence & injury — 2 moment(s)
   - SpongeBob: “Patrick had a bloody nose, so I was going to walk him home.”
   - Mr. Krabs: “Oh, a bloody nose, eh?”
@@ -3023,17 +2877,12 @@ Watch for:
 ## S6 E104a — Not Normal
 URL: https://watchwiththekids.com/ep/spongebob/06104a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “But first, I'll need a garden hose and a flatbed truck, and I'll need you to remove your trousers. [Cuts to people laughing at SpongeBob who is only in his underwear]”
+Watch for: nothing flagged.
 
 ## S2 E28b — Now Museum, Now You Don't
 URL: https://watchwiththekids.com/ep/spongebob/0228b.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - A plate of pancakes transitions to Patrick walking out of the dining room, licking his plate clean. He steps in a pair of underwear and falls on his face.
-  - Patrick: “Huh? [looks at underwear] Dad left the most important part of his job uniform at home: [close-up of underwear] his official [badge gleams] security briefs.”
 - Violence & injury — 3 moment(s)
   - Upturn: “[woman screams] The bloodshed.”
   - Cecil: “If you're not going to comply, sir, then I'll take you [raises fist] by force! [jumps at the statue and karate chops it] Yah! [punches it] Ah-hoo!”
@@ -3075,8 +2924,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0346b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “Patrick Star, you are one smart shopper. [picks up his lollipop, now stuck to a pair of underwear, and continues licking the candy side]”
 - Violence & injury — 1 moment(s)
   - Mr. Krabs: “[punches the thought bubble away] Ah!”
 
@@ -3096,12 +2943,8 @@ Watch for:
 
 ## S8 E157b — Oral Report
 URL: https://watchwiththekids.com/ep/spongebob/08157b.html
-Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 3 moment(s)
-  - Sandy: “It has been scientifically proven that [pulls a piece of paper down with a person on it] 85% of speech related stress can be alleviated if the speaker imagines the audience in their underwear.”
-  - SpongeBob's hand take the clothes off the person and he covers his underwear. He tears the page to cover his underwear
-  - Mrs. Puff: “What's all this laughing about? [now wearing a bra and underwear] Well, SpongeBob?”
 - Violence & injury — 2 moment(s)
   - Squidward: “[gets pulled back, then all customers begin to physically fight for the Krabby Patty, resulting in Squidward getting beaten up.”
   - SpongeBob: “[slowly creeps away as Squidward still gets beaten up.”
@@ -3156,9 +2999,7 @@ Watch for:
 ## S2 E38b — Parasite Pals
 URL: https://watchwiththekids.com/ep/spongebob/0238b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “My secret sausages! [SpongeBob inhales his underwear caught in between the sausage links] My secret underwear!”
+Watch for: nothing flagged.
 
 ## S16 E329a — Pardon My Wand
 URL: https://watchwiththekids.com/ep/spongebob/16329a.html
@@ -3201,9 +3042,6 @@ Watch for:
 - Sex & hookups — 2 moment(s)
   - Patrick: “[puckers his lips to make out with himself]”
   - Slappy: “[laughing as Patrick continues to make out with himself]”
-- Nudity & bodies — 2 moment(s)
-  - Bunny: “[projector displays a photo of a child Patrick tangled up in his underwear] And here's Patrick figuring out how underwear works. [giggles]”
-  - Patrick: “Huh? Who said that? [his underwear rips off of his body, yelps]”
 - Violence & injury — 4 moment(s)
   - Slappy: “No! Impending bloodshed. [watches eagerly with a pair of binoculars]”
   - Patrick: “Pfft, you call these jokes? I saw funnier starts in my last concussion! [punches himself] You not nice guy!”
@@ -3350,19 +3188,13 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/09180a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Patrick: “The scene transitions cuts to Patrick pulling out his underwear and putting it on over his pants.”
-  - Squidward and Mr. Krabs start laughing as Patrick looks down at his underwear. Then SpongeBob comes out of the kitchen
 - Violence & injury — 1 moment(s)
   - Patrick: “I have him right where I want him. For the Pit Punch! [Stench from Patrick's armpit forms a pit and flies toward the Dirty Bubble. The Dirty Bubble swallows it and it hits SpongeBob]”
 
 ## S3 E47a — Patrickle Jokes
 URL: https://watchwiththekids.com/ep/spongebob/0347a-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Squidina: “Good thing I got it all on tape. Now, come on. [she and Patrick open another door] Dad? [Cecil walks up to an aiming site] What's he doing here... in his underwear?”
-  - Incidental 14: “Okay, subject number one. We're gonna test out some electric shock underwear, OK?”
+Watch for: nothing flagged.
 
 ## S6 E108a — Patty Caper
 URL: https://watchwiththekids.com/ep/spongebob/06108a.html
@@ -3372,9 +3204,7 @@ Watch for: nothing flagged.
 ## S2 E25b — Patty Hype
 URL: https://watchwiththekids.com/ep/spongebob/0225b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Incidental 1D: “[Scottish accent] Look what I got under me kilt! [raises his kilt to reveal a plaid body, and white underwear]”
+Watch for: nothing flagged.
 
 ## S3 E46a — Patty Poo
 URL: https://watchwiththekids.com/ep/spongebob/0346a.html
@@ -3441,13 +3271,10 @@ Watch for: nothing flagged.
 
 ## S1 E6b — Pickles
 URL: https://watchwiththekids.com/ep/spongebob/016b-3.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[tries sleeping with a mattress over his head] Negative.”
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “[walks into view backwards and is wearing a pair of underwear backwards over his head] Mr. Krabs, hello. Do you how do? (Hello, Mr. Krabs. How do you do?)”
-  - Mr. Krabs: “Why you talkin' funny, lad? [takes the underwear off SpongeBob's head]”
 
 ## S5 E93a — Picture Day
 URL: https://watchwiththekids.com/ep/spongebob/0593a.html
@@ -3464,9 +3291,7 @@ Watch for:
 ## S6 E125a — Pineapple Fever
 URL: https://watchwiththekids.com/ep/spongebob/06125a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - he jumps out of his security guard costume leaving on his underwear and jumps on Squidward's back
+Watch for: nothing flagged.
 
 ## S9 E203a — Pineapple Invasion
 URL: https://watchwiththekids.com/ep/spongebob/09203a.html
@@ -3507,12 +3332,10 @@ Watch for:
 
 ## S13 E288b — Plankton and the Beanstalk
 URL: https://watchwiththekids.com/ep/spongebob/13288b.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - Giant Krabs: “[stomping] Fee, fi, fo, fite! I smell the blood of a Bottomite! [smells around]”
-- Swearing — 1 moment(s)
-  - "Dopey Dick"
 
 ## S10 E209b — Plankton Gets the Boot
 URL: https://watchwiththekids.com/ep/spongebob/10209b.html
@@ -3566,8 +3389,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/12246a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Plankton: “What? They're good for another month. [his underwear pops off his body, as wolf whistle plays]”
 - Violence & injury — 1 moment(s)
   - Angry mob: “Yeah! [grab Plankton and prepare to beat him up]”
 
@@ -3606,9 +3427,8 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0360b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 5 moment(s)
+- Nudity & bodies — 4 moment(s)
   - Tom: “And on your right, if you look, you'll see two naked guys fighting over a can of paint!”
-  - Mr. Krabs: “[his underwear is strung up with rope] Got me shivering timber brace, [shows his ankles chained together] and the hairs on the back of me neck are taped down.”
   - Mr. Krabs: “[they all laugh] Uh, any particular reason you boys are naked?”
   - Mr. Krabs: “Of course it does. Well, you two better hurry home before someone sees you nude.”
   - Mr. Krabs: “The Krusty Krab presents... live nude pranksters! [he is shown shining the light on them from the crow's nest] Starring the Bikini Bottom Ghosts!”
@@ -3684,8 +3504,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0566a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “[starts the camera for the show] Hey, folks! Welcome to an extra intense segment of The Patrick Show that we call: Scared In Your Underwear.”
 - Violence & injury — 1 moment(s)
   - Janet: “Oh ho, that's funny Bobby. Because I apparently you're in charge of getting on my nerves. [punches and breaks the team building retreat wall; groans]”
 
@@ -3703,11 +3521,8 @@ Watch for: nothing flagged.
 
 ## S1 E2b — Ripped Pants
 URL: https://watchwiththekids.com/ep/spongebob/012b-2.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “[his underwear starts ripping] ...my pants.”
-  - All: “…and [Incidental 22 turns around and suddenly, her bottom then rips, splitting open, revealing her white underwear] ripped his pants!♪”
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Watch for: nothing flagged.
 
 ## S5 E83a — Rise and Shine
 URL: https://watchwiththekids.com/ep/spongebob/0583a.html
@@ -3720,8 +3535,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0117b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Then SpongeBob's underwear hits him right in the face.”
 - Violence & injury — 1 moment(s)
   - Patrick: “[has bloodshot eyes, starts to sweat] I still can't read the sign! [shaking in fear] I wanna go home!”
 
@@ -3835,9 +3648,7 @@ Watch for:
 ## S12 E249a — Sandy's Nutty Nieces
 URL: https://watchwiththekids.com/ep/spongebob/12249a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Mm? [hands her a pair of underwear]”
+Watch for: nothing flagged.
 
 ## S1 E8a — Sandy's Rocket
 URL: https://watchwiththekids.com/ep/spongebob/018a-2.html
@@ -4011,9 +3822,7 @@ Watch for:
 ## S6 E117a — Shuffleboarding
 URL: https://watchwiththekids.com/ep/spongebob/06117a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Man Ray: “Ahhhh! Grrr... You! It's on now! Filthy shorts attack! [Flings underwear at SpongeBob's face]”
+Watch for: nothing flagged.
 
 ## S5 E66b — Sidekick Search
 URL: https://watchwiththekids.com/ep/spongebob/0566b.html
@@ -4052,9 +3861,7 @@ Watch for:
 ## S13 E286b — Sir Urchin and Snail Fail
 URL: https://watchwiththekids.com/ep/spongebob/13286b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “[shows his Sir Urchin underwear] Yeah, Sir Urchin! You know, the guy that goes... [hits self with a hammer] "Why, you!" [laughs] He's so funny.”
+Watch for: nothing flagged.
 
 ## S4 E53a — Sitcom Stars
 URL: https://watchwiththekids.com/ep/spongebob/0453a.html
@@ -4096,9 +3903,7 @@ Watch for:
 ## S5 E88c — Slimy Dancing
 URL: https://watchwiththekids.com/ep/spongebob/0588c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “Poor boobs, they don't stand a chance. [laughs]”
+Watch for: nothing flagged.
 
 ## S4 E63b — Slumber Party Stars
 URL: https://watchwiththekids.com/ep/spongebob/0463b.html
@@ -4166,10 +3971,7 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/07129a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 5 moment(s)
-  - There is a tearing sound as Sandy grabs the fur on her head and literally rips the fur pelt and bikini down the middle, revealing her pink body clad in only panties and a padded bra.
-  - The camera faces Sandy, who is scrubbing her bra with soap as if she is washing her breasts. In the background, Plankton rolls Sandy's helmet off-screen.
-  - Meanwhile, Sandy looks at the town, her panties are covered by a clump of seaweed.
+- Nudity & bodies — 2 moment(s)
   - Harold (a.k.a. Bill): Look it, a naked chipmunk!
   - SpongeBob: “Sandy, you're naked! And you don't have any clothes on!”
 - Violence & injury — 2 moment(s)
@@ -4187,9 +3989,7 @@ Watch for:
 ## S2 E22a — Something Smells
 URL: https://watchwiththekids.com/ep/spongebob/0222a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob gets up, still in his underwear, puts his blanket on like a cape, and uses the wind of the alarm clock to "fly" at his big calendar.
+Watch for: nothing flagged.
 
 ## S3 E49 — Something Stupid This Way Comes
 URL: https://watchwiththekids.com/ep/spongebob/0349.html
@@ -4221,8 +4021,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/16323.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Announcer: “["Ripped Cecil" appears again as model Cecil appears again wearing only underwear] Ripped Cecil Fashion.”
 - Violence & injury — 2 moment(s)
   - Past SpongeBob: “And now, with the addition of two, count 'em, two, marshmallows. [cracks knuckles then spins his foot before being slapped by Cecil]”
   - Bunny: “[sees the spatula and gasps, slapping Past SpongeBob's hand away] SpongeBob!”
@@ -4307,15 +4105,13 @@ Watch for: nothing flagged.
 
 ## S12 E254 — SpongeBob's Big Birthday Blowout
 URL: https://watchwiththekids.com/ep/spongebob/12254.html
-Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Patrick: “Oh, yeah. I was gonna tell you. [holds out a bag of beans and throws some beans at SpongeBob] Surprise! [goes to sleep with everyone]”
-- Nudity & bodies — 4 moment(s)
+- Nudity & bodies — 2 moment(s)
   - Rube: “Now remember, everyone, keep your arms and legs inside the bus at all times 'cause we are about to encounter a gaggle of nearly naked beach giraffes!”
   - SpongeBob and Patrick: “Nearly naked beach giraffes!”
-  - Bubble Bass: “[leans in closer to Squidward's face] You're all lame! The theme has got to be Mermaid Man or nada. [dresses himself up as Mermaid Man, but loses the scallop bra and his pants rip, revealing Dirty Bubble underwear]”
-  - Squidward: “[removes the scallop bra from his face and holds up a picture of himself and his clarinet] I'm obviously his idol. A theme based on me is the only”
 - Violence & injury — 3 moment(s)
   - Plankton: “[holds up a ray gun] Have you ever tried to annihilate him?!”
   - Sandy: “Not yet. [punches the creepy man and stomps over to another section of the party]”
@@ -4327,8 +4123,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/07134.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “The police car stops in the middle of nowhere and throws SpongeBob and Patrick out, and then drive away, kicking up dust and blowing away their clothes, leaving them in their underwear]”
 - Violence & injury — 1 moment(s)
   - Mr. Krabs: “[angrily punches his claws together] C'mon lad, let's go give that Plankton a piece of our minds!”
 
@@ -4340,9 +4134,7 @@ Watch for: nothing flagged.
 ## S13 E272 — SpongeBob's Road to Christmas
 URL: https://watchwiththekids.com/ep/spongebob/13272.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Plankton: “[gets up, taking off elf outfit, walking weakly inside] I wore you down, didn't I? Yeah. You meat head cari-boobs.”
+Watch for: nothing flagged.
 
 ## S12 E757 — SpongeBob's Spookiest Scenes Countdown Special
 URL: https://watchwiththekids.com/ep/spongebob/12757.html
@@ -4442,8 +4234,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0240a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “Ah, yes, our meager restitution! [He takes the envelope and smells it.] Ah, the sweet smell of payday! [He opens it and finds a pair of underwear. The sound of a fly buzzing is heard.] Huh?!”
 - Violence & injury — 2 moment(s)
   - Squidward: “…He can't treat us like this anymore! [SpongeBob goes back to the door and Squidward's eyes become bloodshot.] He owes us for all the precious, irretrievable moments we've wasted in this trash heap.”
   - Squidward's eyes become bloodshot.
@@ -4466,9 +4256,8 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0221b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
+- Nudity & bodies — 1 moment(s)
   - Mr. Krabs: “Thanks, Doc. [looks at the street and smiles until the nude and deranged Squidward runs past him]”
-  - Squidward: “SpongeBob takes off his clothes (except his underwear) and hands them to Squidward]”
 - Violence & injury — 1 moment(s)
   - Squidward: “He pops up, gasping a couple of times] He's heading back to the Krusty Krab! [jumps out of his bathtub and runs to the door] I'll beat him there!”
 
@@ -4592,8 +4381,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0348b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “Try to imagine him in his underwear.”
 - Violence & injury — 2 moment(s)
   - Patrick: “Gimme that hat! [shaking a coat rack with a hat on it] I said give it to me! Are you gonna hand it over or not? Don't you back-sass me! [jumps on the coat rack and starts punching it]”
   - …making Squilliam's experience the best he can, so he treats him like royalty doing all sorts of things: knife-and-forking the roast and feeding him each piece of roast, spraying cologne on his head, wiping his head…
@@ -4671,8 +4458,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/15311b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick is wearing only his underwear and holding a gong.
 - Violence & injury — 1 moment(s)
   - Squidward: “[runs to jail bars, his eyes become bloodshot, laughs insanely] Going up!”
 
@@ -4718,17 +4503,12 @@ Watch for: nothing flagged.
 ## S1 E15b — Suds
 URL: https://watchwiththekids.com/ep/spongebob/0115b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “I can't get the suds, [sniffles] because then I'll have to miss work. [sniffles, puts his underwear over his mouth and nose, then sneezes. Pink bubbles come out again]”
-  - SpongeBob: “[sarcastically] No, Gary. I like wearing my underwear like this. [turns around and has two bubbles representing his glutes. Each one pops]”
+Watch for: nothing flagged.
 
 ## S1 E2a — Sugar Squeeze
 URL: https://watchwiththekids.com/ep/spongebob/012a-3.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Narlene: “Krabs' belt, which makes the latter's pants fall down and reveal his underwear, and he quickly pulls his pants back up.] Do we have a deal?”
+Watch for: nothing flagged.
 
 ## S7 E136b — Summer Job
 URL: https://watchwiththekids.com/ep/spongebob/07136b.html
@@ -4781,11 +4561,8 @@ Watch for: nothing flagged.
 
 ## S1 E9b — Survivoring
 URL: https://watchwiththekids.com/ep/spongebob/019b-3.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Squidina: “And a change of underwear. [pulls out a white pair of underwear, which sparkles]”
-  - Patrick takes out a green pair of underwear, which turns into a ghost and wails.
 - Violence & injury — 2 moment(s)
   - Blood comes down the screen as we see the campers again.
   - The sea monster from the movie shows behind them. Patrick, Squidina, and Cecil scream and run away. The monster destroys the shelter and roars. The text "THE END" appears written in blood.
@@ -4840,8 +4617,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/14299a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Mama Bass: “Sorry we're late. Bubble Bass needed clean underwear.”
 - Violence & injury — 2 moment(s)
   - Plankton: “[getting up] Nobody is more aggressive than us. [a ray gun drops to the ground] They just have more practice. If only there was some way we could cheat [Karen sighs] and show them who's really the best.”
   - Karen: “Let's just go home, Sheldon. [picks up the ray gun] Here, this fell out of your pocket.”
@@ -4928,10 +4703,9 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0341a-2.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 3 moment(s)
+- Nudity & bodies — 2 moment(s)
   - Krabs lands behind Mr. Plankton, and casts a shadow in front of Alternate-Universe SpongeBob. Shows a Dutch-angle, low-angle shot of naked Krabs and Mr. Plankton is surprised.
   - Mr. Plankton: “[looking at Krabs] Good grief, he's naked! [a part of Krabs then glints]”
-  - Krabs: “Ar, ar, ar, ar, ar! [stops laughing, as he realizes that a bra has caught him and he looks at the viewers after he got caught] Huh?”
 
 ## S7 E135b — The Bad Guy Club for Villains
 URL: https://watchwiththekids.com/ep/spongebob/07135b.html
@@ -4954,8 +4728,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0597b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “I'll fix it. [Stretches SpongeBob's pants, filling it up with dirt, then yanks his underwear, making SpongeBob squish up with dirt]”
 - Violence & injury — 1 moment(s)
   - SpongeBob: “[looks around and sees a knife and two onions] Careful, Patrick, I got a weapon! [throws two onions at Patrick's eyes]”
 
@@ -4970,9 +4742,7 @@ Watch for:
 ## S13 E274a — The Big Bad Bubble Bass
 URL: https://watchwiththekids.com/ep/spongebob/13274a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Bubble Bass: “Bubble Bass is shown in his underwear, and he shrieks and covers himself as his mom walks away.”
+Watch for: nothing flagged.
 
 ## S3 E43b — The Bully
 URL: https://watchwiththekids.com/ep/spongebob/0343b-2.html
@@ -5017,8 +4787,7 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/11217b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Mr. Krabs: “Hoo! Gettin' kinda hot in here! [chuckles and the x-ray continues to scan; smoke begins to spew out] Should my underwear be on fire?”
+- Nudity & bodies — 1 moment(s)
   - SpongeBob walks back into the spa and Mr. Krabs is laying naked on the table.
 - Violence & injury — 3 moment(s)
   - Squidward: “SpongeBob, you moron! Cold-blooded means your body is the same temperature as the water around it, not that you're actually cold!”
@@ -5061,9 +4830,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0454a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Patrick: “[mumbles with his underwear still over his head]”
-  - Squidina: “Sorry. What? [pulls Patrick's underwear off from his head]”
 - Violence & injury — 1 moment(s)
   - GrandPat: “[pulls Patrick's underwear over his head, leaves] I'd be delighted! So, baby, [Granny Tentacles puts her hand on his arm] you ever ride shotgun on a mobility scooter?”
 
@@ -5118,8 +4884,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0239b-2.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick's underwear is yellow, and SpongeBob's underwear is pink
 - Violence & injury — 1 moment(s)
   - Mr. Krabs: “He's gonna stab you in the back.”
 
@@ -5149,9 +4913,7 @@ Watch for:
 ## S4 E80b — The Gift of Gum
 URL: https://watchwiththekids.com/ep/spongebob/0480b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “[a pair of underwear come out of the gum slithers onto SpongeBob's cringing face]”
+Watch for: nothing flagged.
 
 ## S13 E291b — The Goobfather
 URL: https://watchwiththekids.com/ep/spongebob/13291b.html
@@ -5218,9 +4980,7 @@ Watch for: nothing flagged.
 ## S4 E57a — The Haunting of Flim-Flam House
 URL: https://watchwiththekids.com/ep/spongebob/0457a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “I overcooked it this morning, and it died! [the scene cuts to him] In order to speak to the great beyond, I'll need... [pulls out his underwear] my Wedgie Board!”
+Watch for: nothing flagged.
 
 ## S1 E7a — The Haunting of Star House
 URL: https://watchwiththekids.com/ep/spongebob/017a-2.html
@@ -5288,16 +5048,12 @@ Watch for:
 ## S8 E167a — The Krabby Patty That Ate Bikini Bottom
 URL: https://watchwiththekids.com/ep/spongebob/08167a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Plankton: “[exits the Chum Bucket] [SpongeBob and Squidward are still running] Out of my way, you boobs!”
+Watch for: nothing flagged.
 
 ## S16 E322b — The Kreepy Krab
 URL: https://watchwiththekids.com/ep/spongebob/16322b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - The lights suddenly shut off as Nosferatu appears at the entrance wearing underwear and a bathrobe
 - Violence & injury — 2 moment(s)
   - Slappy: “[rolls over a table with two cups and a blood bag] Time for Master to sleep tight and bite the bedbugs goodnight! [laughs] I brought your favorite bedtime tea, [pours him a cup of blood] blood orange! Hold the orange.”
   - Slappy and Nosferatu both laugh. Slappy loses his head, and it bounces into the table, knocking it over and creating a puddle of blood. Slappy's head reattaches, and Slappy slips into blood and slides down the hall.
@@ -5449,9 +5205,7 @@ Watch for:
 ## S4 E79a — The Pink Purloiner
 URL: https://watchwiththekids.com/ep/spongebob/0479a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Ol' Reliable? [gasps] It's gone! [runs out the door in his underwear.]”
+Watch for: nothing flagged.
 
 ## S7 E138a — The Play's the Thing
 URL: https://watchwiththekids.com/ep/spongebob/07138a.html
@@ -5475,7 +5229,7 @@ Watch for:
 
 ## S2 E35a — The Secret Box
 URL: https://watchwiththekids.com/ep/spongebob/0235a-3.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “I love my job at the Krusty Krab, I sleep with my shoes on, I like jelly on both sides of my toast, I've got an overdue library book, I think jellyfishing and bubble-blowing are the sea bee's knees...”
@@ -5501,9 +5255,7 @@ Watch for:
 ## S6 E110a — The Slumber Party
 URL: https://watchwiththekids.com/ep/spongebob/06110a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Mr. Krabs reclines in his chair in a white tank top undershirt and grayish-whitish underwear, fast asleep. Pearl walks up to him angrily.
+Watch for: nothing flagged.
 
 ## S2 E32b — The Smoking Peanut
 URL: https://watchwiththekids.com/ep/spongebob/0232b-2.html
@@ -5521,9 +5273,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0359.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “[takes off his towel, under which is his underwear, and tosses it away] Oh well.”
-  - Fred: “[the crowd leaves; SpongeBob, now in his underwear, regains consciousness]”
 - Violence & injury — 1 moment(s)
   - "SpongeBob Meets the Strangler"
 
@@ -5675,9 +5424,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/06116b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - SpongeBob: “It's laundry day, Gary! [takes off Gary's shell, revealing his buttocks] Oops. [puts Gary's shell back on then takes it off again, revealing underwear]”
-  - Bubble transition to SpongeBob bringing out a Krabby Patty in his underwear.
 - Violence & injury — 1 moment(s)
   - SpongeBob: “[Squidward punches himself] Oh, dear!”
 
@@ -5718,11 +5464,8 @@ Watch for:
 
 ## S6 E123 — Truth or Square
 URL: https://watchwiththekids.com/ep/spongebob/06123.html
-Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Ricky Gervais: “…Could Fly."] To find Nicktoons Animation Studio [The clip is replaced with a clip of Patchy ripping his underwear off from "The Sponge Who Could Fly."] and meet his idol [The clip is replaced with a clip of Patchy…”
-  - The rock opens and Patrick is shown in his underwear. Hans puts his pants on. Patrick laughs.
 - Violence & injury — 1 moment(s)
   - Patchy: “[Slapping Robbin Williams' hand out of the way] Oh, Mr. Williams, that's not for you.”
 - Alcohol & drugs — 2 moment(s)
@@ -5742,9 +5485,7 @@ Watch for: nothing flagged.
 ## S4 E55b — TV or Not TV
 URL: https://watchwiththekids.com/ep/spongebob/0455b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Patrick: “[giggles while watching TV in his underwear inside the suit]”
+Watch for: nothing flagged.
 
 ## S13 E994 — Twas the Night Before Spongemas
 URL: https://watchwiththekids.com/ep/spongebob/13994.html
@@ -5789,10 +5530,7 @@ Watch for:
 ## S2 E33a — Un-Breaking and De-Entering
 URL: https://watchwiththekids.com/ep/spongebob/0233a-3.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Transition to inside the Dinghy cabin. SpongeBob takes out a pair of underwear, which is ripped. He looks at Patrick, who is eating socks.
-  - Gary: “Meow. [brings him some underwear.]”
+Watch for: nothing flagged.
 
 ## S1 E15a — Uncredible Journey
 URL: https://watchwiththekids.com/ep/spongebob/0115a-3.html
@@ -5838,11 +5576,8 @@ Watch for: nothing flagged.
 
 ## S4 E64a — Visiting Vikings
 URL: https://watchwiththekids.com/ep/spongebob/0464a-2.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - GrandPat opens a drawer and tosses underwear into the cart.
-  - Patrick: “Look at him pilly-pillaging all that underwear!”
 - Violence & injury — 2 moment(s)
   - GrandPat laughs nervously as he pulls the spork from the Viking's butt. As he attempts to walk off, the Viking grabs him and repeatedly punches him off-screen. GrandPat crawls back to SpongeBob and Patrick, now squashed.
   - GrandPat is getting punched, flicked, smacked with a hammer, wedgied, smacked with a paddle, chopped with a sword, hit by a mace, smashed between two shields.
@@ -5875,8 +5610,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/15313a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Bubble transition to SpongeBob's room. He throws out a sandal, underwear, and a toothbrush. Gary enters the room, looking suspicious. SpongeBob notices him, wearing a sun hat, sunglasses, an inner tube, and flippers.
 - Swearing — 1 moment(s)
   - SpongeBob: “Time for a snail hunt! [cocks his jellyfish net, then happily skips off singing]”
 
@@ -5908,8 +5641,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/0350a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Did it work? [Patrick comes out from the washing machine with the dollar, still with paint on it, in his hands; he also has a bra on his head]”
 - Violence & injury — 2 moment(s)
   - SpongeBob: “He blows off the steam from the dryer like smoke from a gun] Yeah.”
   - Patrick: “Meanwhile, SpongeBob is beating up the dollar, but Patrick takes the hits] Oof!”
@@ -6032,9 +5763,7 @@ Watch for: nothing flagged.
 ## S2 E25a — Wormy
 URL: https://watchwiththekids.com/ep/spongebob/0225a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - SpongeBob: “Krabs' underwear and Squidward's Krusty Krab employee hat on the floor] It ate them!”
+Watch for: nothing flagged.
 
 ## S1 E11a — X Marks the Pot
 URL: https://watchwiththekids.com/ep/spongebob/0111a-3.html
@@ -6057,9 +5786,7 @@ Watch for:
 ## S9 E188b — Yeti Krabs
 URL: https://watchwiththekids.com/ep/spongebob/09188b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Squidward: “[picks up a pair of underwear] You sure it's not these you're smelling?”
+Watch for: nothing flagged.
 
 ## S7 E149a — You Don't Know Sponge
 URL: https://watchwiththekids.com/ep/spongebob/07149a.html
@@ -6087,8 +5814,5 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0459a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Cecil: “[shows picture of someone pulling on his underwear while suspended in the air] Yup, I was the big sea star on campus back in my day.”
-  - Two sea chimps pull on a rope to pull Fred on a hook by his underwear.
 - Violence & injury — 1 moment(s)
   - GrandPat: “[coughs up soot and a pickax, which he stabs the seat with] Ooh, my old toothpick.”

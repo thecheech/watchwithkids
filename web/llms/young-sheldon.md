@@ -9,12 +9,12 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0101.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
-  - Son of a bitch.
-  - The hell were you doing - out there? - George, language.
-  - : Well, we damn well better cut back somewhere.
-  - Why don't we all just take a deep breath here? The hell with that.
+  - “Son of a bitch.”
+  - “The hell were you doing - out there? - George, language.”
+  - “: Well, we damn well better cut back somewhere.”
+  - “Why don't we all just take a deep breath here? The hell with that.”
 - Alcohol & drugs — 1 moment(s)
-  - That's why you drink so much beer.
+  - “That's why you drink so much beer.”
 
 ## S1 E2 — 2. Rockets, Communists, and the Dewey Decimal System
 URL: https://watchwiththekids.com/ep/young-sheldon/0102.html
@@ -26,34 +26,34 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0103.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - They are my blood.
+  - “They are my blood.”
 - Swearing — 2 moment(s)
-  - Son of a bitch.
-  - Give me my damn keys.
+  - “Son of a bitch.”
+  - “Give me my damn keys.”
 - Alcohol & drugs — 3 moment(s)
-  - Hell is that? I sent Georgie on a beer run, and tipped him with firecrackers.
-  - What kind of Texan drinks pink wine? [PHONE RINGS.]
-  - You know what's stupid? I got to drink pink wine! [DOOR SLAMS.]
+  - “Hell is that? I sent Georgie on a beer run, and tipped him with firecrackers.”
+  - “What kind of Texan drinks pink wine? [PHONE RINGS.]”
+  - “You know what's stupid? I got to drink pink wine! [DOOR SLAMS.]”
 
 ## S1 E4 — 4. A Therapist, a Comic Book and a Breakfast Sausage
 URL: https://watchwiththekids.com/ep/young-sheldon/0104.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - " Did you know I was talking about sex? No.
+  - “" Did you know I was talking about sex? No.”
 - Violence & injury — 2 moment(s)
-  - The murder weapon? A Jimmy Dean sausage.
-  - All I saw was my brother licking jelly off the knife and putting it back in the jar.
+  - “The murder weapon? A Jimmy Dean sausage.”
+  - “All I saw was my brother licking jelly off the knife and putting it back in the jar.”
 - Alcohol & drugs — 1 moment(s)
-  - Now what? Sounds like your mom's making margaritas.
+  - “Now what? Sounds like your mom's making margaritas.”
 
 ## S1 E5 — 5. A Solar Calculator, a Game Ball and a Cheerleader's Bosom
 URL: https://watchwiththekids.com/ep/young-sheldon/0105.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight.
-  - Mom? ("I FOUGHT THE LAW" BY THE CLASH PLAYING) Robbin' people with a six-gun I fought the law and the law won Sheldon got a B-plus! That's terrible for him! I'm very disappointed in all three of you.
+  - “Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight.”
+  - “Mom? ("I FOUGHT THE LAW" BY THE CLASH PLAYING) Robbin' people with a six-gun I fought the law and the law won Sheldon got a B-plus! That's terrible for him! I'm very disappointed in all three of you.”
 
 ## S1 E6 — 6. A Patch, a Modem, and a Zantac
 URL: https://watchwiththekids.com/ep/young-sheldon/0106.html
@@ -65,128 +65,126 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0107.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
-  - : Connie, you evil bitch! It's smoother than regular coffee.
-  - Really good? You're spitting the best brisket in Texas all over the damn table.
-  - Only thing I ever asked in return was that damn recipe.
-  - But I've come a hell of a long way since then.
+  - “: Connie, you evil bitch! It's smoother than regular coffee.”
+  - “Really good? You're spitting the best brisket in Texas all over the damn table.”
+  - “Only thing I ever asked in return was that damn recipe.”
+  - “But I've come a hell of a long way since then.”
 - Alcohol & drugs — 2 moment(s)
-  - Mind if I have a sip of your beer? You mind if I dip your head in the compost heap? You could have just said no.
-  - Three tablespoons of dried mustard, one cup of Lone Star beer Okay.
+  - “Mind if I have a sip of your beer? You mind if I dip your head in the compost heap? You could have just said no.”
+  - “Three tablespoons of dried mustard, one cup of Lone Star beer Okay.”
 
 ## S1 E8 — 8. Cape Canaveral, Shrodinger's Cat and Cyndi Lauper's Hair
 URL: https://watchwiththekids.com/ep/young-sheldon/0108.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]
-  - You want to sleep with me? Yes, thank you.
-- Nudity & bodies — 1 moment(s)
-  - What about clothes? A change of underwear? Got it.
+  - “Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]”
+  - “You want to sleep with me? Yes, thank you.”
 - Violence & injury — 3 moment(s)
-  - Could we shoot guns at the gun range? Mm, you're too young to go to the gun range.
-  - Shotgun! - No, no.
-  - I called shotgun.
+  - “Could we shoot guns at the gun range? Mm, you're too young to go to the gun range.”
+  - “Shotgun! - No, no.”
+  - “I called shotgun.”
 
 ## S1 E9 — 9. Spock, Kirk and Testicular Hernia
 URL: https://watchwiththekids.com/ep/young-sheldon/0109.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
-  - : Georgie cheated on the test.
-  - Because he doesn't always follow the rules? He even cheated on a test when he was a cadet.
+  - “: Georgie cheated on the test.”
+  - “Because he doesn't always follow the rules? He even cheated on a test when he was a cadet.”
 - Alcohol & drugs — 1 moment(s)
-  - You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly.
+  - “You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly.”
 
 ## S1 E10 — An Eagle Feather, a String Bean, and an Eskimo
 URL: https://watchwiththekids.com/ep/young-sheldon/0110.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - I used to buy my marijuana there.
+  - “I used to buy my marijuana there.”
 
 ## S1 E11 — Demons, Sunday School and Prime Numbers
 URL: https://watchwiththekids.com/ep/young-sheldon/0111.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - But you do eat him, and drink his blood.
+  - “But you do eat him, and drink his blood.”
 
 ## S1 E12 — A Computer, a Plastic Pony, and a Case of Beer
 URL: https://watchwiththekids.com/ep/young-sheldon/0112.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - If you switched to Hawaiian Punch, we could live in a bigger house.
+  - “If you switched to Hawaiian Punch, we could live in a bigger house.”
 - Alcohol & drugs — 2 moment(s)
-  - You mean like the money you give to church? No, I mean like the money you give to the Lone Star Beer company.
-  - He's getting a beer.
+  - “You mean like the money you give to church? No, I mean like the money you give to the Lone Star Beer company.”
+  - “He's getting a beer.”
 - Racism & slurs — 1 moment(s)
-  - Whoa, that's racist.
+  - “Whoa, that's racist.”
 
 ## S1 E13 — A Sneeze, Detention, and Sissy Spacek
 URL: https://watchwiththekids.com/ep/young-sheldon/0113.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.
+  - “I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.”
 - Violence & injury — 1 moment(s)
-  - Their blood ran through my veins.
+  - “Their blood ran through my veins.”
 
 ## S1 E14 — Potato Salad, a Broomstick, and Dad's Whiskey
 URL: https://watchwiththekids.com/ep/young-sheldon/0114.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - What if you slip and stab me in the eye? I'm not gonna slip.
+  - “What if you slip and stab me in the eye? I'm not gonna slip.”
 - Alcohol & drugs — 2 moment(s)
-  - I hope I don't get drunk.
-  - Why does the kitchen smell like whiskey? Ask her.
+  - “I hope I don't get drunk.”
+  - “Why does the kitchen smell like whiskey? Ask her.”
 
 ## S1 E15 — Dolomite, Apple Slices, and a Mystery Woman
 URL: https://watchwiththekids.com/ep/young-sheldon/0115.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.
-  - I was so proud of Tam for not making an immature cleavage joke.
+  - “No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.”
+  - “I was so proud of Tam for not making an immature cleavage joke.”
 - Violence & injury — 1 moment(s)
-  - 1 What are you doing? I heard you could punch a hole in these and make them double-sided.
+  - “1 What are you doing? I heard you could punch a hole in these and make them double-sided.”
 - Alcohol & drugs — 1 moment(s)
-  - You smoke marijuana? - Mom! - No, ma'am.
+  - “You smoke marijuana? - Mom! - No, ma'am.”
 
 ## S1 E16 — Killer Asteroids, Oklahoma, and a Frizzy Hair Machine
 URL: https://watchwiththekids.com/ep/young-sheldon/0116.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - How many people saw you naked? A lot.
-  - Poor naked wretches, whereso'er you are, that bide the pelting of this pitiless storm.
+  - “How many people saw you naked? A lot.”
+  - “Poor naked wretches, whereso'er you are, that bide the pelting of this pitiless storm.”
 - Alcohol & drugs — 1 moment(s)
-  - 1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors.
+  - “1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors.”
 
 ## S1 E17 — Jiu-Jitsu, Bubble Wrap, and Yoo-hoo
 URL: https://watchwiththekids.com/ep/young-sheldon/0117.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - What's not okay is Sheldon gettin' beat up by a little girl.
+  - “What's not okay is Sheldon gettin' beat up by a little girl.”
 - Swearing — 3 moment(s)
-  - Now, I'm warnin' you, Brenda is one mean I know you don't like bad language, but we are in a bowling alley One mean bitch.
-  - Sucks for you.
+  - “Now, I'm warnin' you, Brenda is one mean I know you don't like bad language, but we are in a bowling alley One mean bitch.”
+  - “Sucks for you.”
   - BRENDA: “Herschel! Where the hell are you?! Shh.”
 - Homophobic jokes — 2 moment(s)
-  - Now, examples of prey include Oryctolagus cuniculus, Gallus gallus domesticus, and weighing in at 58 pounds soaking wet, Diminutive homo novus Curiously, a close relative of Gallus gallus domesticus.
-  - Homo novus needs a Yoo-hoo.
+  - “Now, examples of prey include Oryctolagus cuniculus, Gallus gallus domesticus, and weighing in at 58 pounds soaking wet, Diminutive homo novus Curiously, a close relative of Gallus gallus domesticus.”
+  - “Homo novus needs a Yoo-hoo.”
 
 ## S1 E18 — A Mother, a Child and a Blue Man's Backside
 URL: https://watchwiththekids.com/ep/young-sheldon/0118.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - You wouldn't forbid me from looking at Michelangelo's David just because he's nude.
-  - When a statue of your naked blue fella is on display at the Vatican, we'll talk.
+  - “You wouldn't forbid me from looking at Michelangelo's David just because he's nude.”
+  - “When a statue of your naked blue fella is on display at the Vatican, we'll talk.”
 - Violence & injury — 1 moment(s)
-  - We should put a lock on the knife drawer.
+  - “We should put a lock on the knife drawer.”
 
 ## S1 E19 — Gluons, Guacamole, and the Color Purple
 URL: https://watchwiththekids.com/ep/young-sheldon/0119.html
@@ -198,22 +196,22 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0120.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Now I'm looking at you in your underwear.
+  - “Now I'm looking at you in your underwear.”
 - Violence & injury — 4 moment(s)
-  - A tranquilizer gun? A pet fish.
-  - His fish blood is mixing with my human blood.
-  - Meemaw got punched in the face because of me.
-  - No, that wasn't because of you, and for the record, your meemaw gets punched in the face all the time.
+  - “A tranquilizer gun? A pet fish.”
+  - “His fish blood is mixing with my human blood.”
+  - “Meemaw got punched in the face because of me.”
+  - “No, that wasn't because of you, and for the record, your meemaw gets punched in the face all the time.”
 - Swearing — 6 moment(s)
-  - Don't you think I realize that Mary can be a bit Of a self-righteous bitch? I was gonna say "challenging," but sure, let's go with yours.
-  - Son of a bitch! Dad killed my fish! George! He'll be fine.
-  - How the hell did he do that? He pushed in a screen window.
+  - “Don't you think I realize that Mary can be a bit Of a self-righteous bitch? I was gonna say "challenging," but sure, let's go with yours.”
+  - “Son of a bitch! Dad killed my fish! George! He'll be fine.”
+  - “How the hell did he do that? He pushed in a screen window.”
   - BRENDA: “Damn it, Herschel, what is going on? - Oh, hey, George.”
-  - But everybody else can go to hell.
-  - I'm proud of him for trying to overcome that damn dog phobia.
+  - “But everybody else can go to hell.”
+  - “I'm proud of him for trying to overcome that damn dog phobia.”
 - Alcohol & drugs — 2 moment(s)
-  - Brenda, this is, by far, the best bowling alley margarita in town.
-  - " Okay, see now, Brenda, you don't want to go calling my grandson weird when I've just treated you to a margarita grande.
+  - “Brenda, this is, by far, the best bowling alley margarita in town.”
+  - “" Okay, see now, Brenda, you don't want to go calling my grandson weird when I've just treated you to a margarita grande.”
 
 ## S1 E21 — Summer Sausage, a Pocket Poncho, and Tony Danza
 URL: https://watchwiththekids.com/ep/young-sheldon/0121.html
@@ -230,110 +228,110 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0201.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Jessica Gieger wears a black bra.
+  - “Jessica Gieger wears a black bra.”
 
 ## S2 E2 — 2. A Rival Prodigy and Sir Isaac Neutron
 URL: https://watchwiththekids.com/ep/young-sheldon/0202.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - While she's gone, you want to make out? Sure.
+  - “While she's gone, you want to make out? Sure.”
 - Alcohol & drugs — 2 moment(s)
-  - Can I interest anyone in something stronger than iced tea? Oh, well, I'll take a beer if you have one.
-  - Don't you get him another beer.
+  - “Can I interest anyone in something stronger than iced tea? Oh, well, I'll take a beer if you have one.”
+  - “Don't you get him another beer.”
 
 ## S2 E3 — 3. A Crisis of Faith and Octopus Aliens
 URL: https://watchwiththekids.com/ep/young-sheldon/0203.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Casper runs around butt naked.
-  - Maybe he died naked.
+  - “Casper runs around butt naked.”
+  - “Maybe he died naked.”
 - Alcohol & drugs — 3 moment(s)
-  - That's your fault for having a hangover.
-  - Go out where? - I don't know, Dairy Queen, shooting range, line dancing? Have you been drinking? I might've had a wine cooler or two.
-  - Last time she was this drunk, you ended up with your first son.
+  - “That's your fault for having a hangover.”
+  - “Go out where? - I don't know, Dairy Queen, shooting range, line dancing? Have you been drinking? I might've had a wine cooler or two.”
+  - “Last time she was this drunk, you ended up with your first son.”
 - Fat-shaming — 1 moment(s)
-  - Why, was there some barbecue sauce on your face? It's a fat joke.
+  - “Why, was there some barbecue sauce on your face? It's a fat joke.”
 
 ## S2 E4 — 4. A Financial Secret and Fish Sauce
 URL: https://watchwiththekids.com/ep/young-sheldon/0204.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - I slept in the nude last night.
+  - “I slept in the nude last night.”
 - Affairs / cheating — 1 moment(s)
-  - I asked my father about it - ADULT SHELDON: As I walked Tam through the whole sordid affair, I could feel a weight lifting off my shoulders.
+  - “I asked my father about it - ADULT SHELDON: As I walked Tam through the whole sordid affair, I could feel a weight lifting off my shoulders.”
 - Alcohol & drugs — 2 moment(s)
-  - How is driving drunk not bad? I wasn't exactly driving.
-  - She had a few too many margaritas, so I drove us home.
+  - “How is driving drunk not bad? I wasn't exactly driving.”
+  - “She had a few too many margaritas, so I drove us home.”
 
 ## S2 E5 — 5. A Research Study and Czechoslovakian Wedding Pastries
 URL: https://watchwiththekids.com/ep/young-sheldon/0205.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Ooh, you sexy little thing.
+  - “Ooh, you sexy little thing.”
 - Violence & injury — 1 moment(s)
-  - What about all those times you punched me? Punches of joy.
+  - “What about all those times you punched me? Punches of joy.”
 
 ## S2 E6 — 6. Seven Deadly Sins and a Small Carl Sagan
 URL: https://watchwiththekids.com/ep/young-sheldon/0206.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Are you my make out partner? No.
+  - “Are you my make out partner? No.”
 - Nudity & bodies — 2 moment(s)
-  - I will not have innocent children walk through this house on Halloween and see a half-naked woman.
-  - A half-naked woman chock-full of syphilis.
+  - “I will not have innocent children walk through this house on Halloween and see a half-naked woman.”
+  - “A half-naked woman chock-full of syphilis.”
 - Violence & injury — 3 moment(s)
-  - So it's not gonna be scary? It will, but without all the blood and gore.
-  - But I like blood and gore.
-  - You like Guns N' Roses? They're all right.
+  - “So it's not gonna be scary? It will, but without all the blood and gore.”
+  - “But I like blood and gore.”
+  - “You like Guns N' Roses? They're all right.”
 - Alcohol & drugs — 2 moment(s)
-  - What'd she do? She sold a piÃ±ata full of weed to an undercover cop.
-  - I need another beer.
+  - “What'd she do? She sold a piÃ±ata full of weed to an undercover cop.”
+  - “I need another beer.”
 
 ## S2 E7 — 7. Carbon Dating and a Stuffed Raccoon
 URL: https://watchwiththekids.com/ep/young-sheldon/0207.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Don't you get him another beer.
+  - “Don't you get him another beer.”
 
 ## S2 E8 — 8. An 8-Bit Princess and a Flat Tire Genius
 URL: https://watchwiththekids.com/ep/young-sheldon/0208.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - It's got those pointy cups, look like Madonna's bra.
+  - “It's got those pointy cups, look like Madonna's bra.”
 - Swearing — 5 moment(s)
-  - Die, you son bitches! When I grow up, will I be a Dallas Cowboys cheerleader? "Not likely.
-  - I had a buddy in high school had a Pacer with the flames painted on the side, which was funny 'cause the damn thing caught fire during the Homecoming parade.
-  - You really want to quit football to go work in a garage? Hell yeah.
-  - All I have left is the damn flute.
-  - You know, this is the kind of crap I get from my wife.
+  - “Die, you son bitches! When I grow up, will I be a Dallas Cowboys cheerleader? "Not likely.”
+  - “I had a buddy in high school had a Pacer with the flames painted on the side, which was funny 'cause the damn thing caught fire during the Homecoming parade.”
+  - “You really want to quit football to go work in a garage? Hell yeah.”
+  - “All I have left is the damn flute.”
+  - “You know, this is the kind of crap I get from my wife.”
 - Alcohol & drugs — 1 moment(s)
-  - Sorry about the light beer, but Brenda's got me on this health kick.
+  - “Sorry about the light beer, but Brenda's got me on this health kick.”
 
 ## S2 E9 — 9. Family Dynamics and a Red Fiero
 URL: https://watchwiththekids.com/ep/young-sheldon/0209.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.
-  - In my underwear? I hardly think so.
+  - “Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.”
+  - “In my underwear? I hardly think so.”
 - Alcohol & drugs — 1 moment(s)
-  - That's it; I've wasted my life.
+  - “That's it; I've wasted my life.”
 
 ## S2 E10 — A Stunted Childhood and a Can of Fancy Mixed Nuts
 URL: https://watchwiththekids.com/ep/young-sheldon/0210.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No.
-  - and drank their blood! No.
-  - They don't eat meat, let alone drink blood.
+  - “That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No.”
+  - “and drank their blood! No.”
+  - “They don't eat meat, let alone drink blood.”
 
 ## S2 E11 — A Race of Superhumans and a Letter to Alf
 URL: https://watchwiththekids.com/ep/young-sheldon/0211.html
@@ -342,91 +340,91 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - GEORGIE: “Now if for instance she and I were to go skinny dipping and one thing were to lead to another under the moonlit sky, get this: not only do I become a devout Christian, I will also bug everybody I meet to do the same.”
 - Alcohol & drugs — 2 moment(s)
-  - Help her seek salvation in you instead of cocaine, marijuana and bass players.
-  - I was drunk off my ass.
+  - “Help her seek salvation in you instead of cocaine, marijuana and bass players.”
+  - “I was drunk off my ass.”
 - Homophobic jokes — 2 moment(s)
-  - I'm recording my findings so that future generations of mankind can understand the steps I took to create homo novus, "new man.
-  - " Of course, there's a strong likelihood that my homo novi might've wiped out all future generations, so I have no idea who's watching this.
+  - “I'm recording my findings so that future generations of mankind can understand the steps I took to create homo novus, "new man.”
+  - “" Of course, there's a strong likelihood that my homo novi might've wiped out all future generations, so I have no idea who's watching this.”
 
 ## S2 E12 — A Tummy Ache and a Whale of a Metaphor
 URL: https://watchwiththekids.com/ep/young-sheldon/0212.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - It's either cartoons or men in their underwear banging their heads together.
+  - “It's either cartoons or men in their underwear banging their heads together.”
 
 ## S2 E13 — A Nuclear Reactor And a Boy Called Lovey
 URL: https://watchwiththekids.com/ep/young-sheldon/0213.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.
+  - “And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.”
 - Violence & injury — 2 moment(s)
-  - Just as friends, would you wanna hang out on Saturday night? In a no-kissing and no-punching-in- the-face kind of way? I can't.
-  - I feel like I got punched in the stomach.
+  - “Just as friends, would you wanna hang out on Saturday night? In a no-kissing and no-punching-in- the-face kind of way? I can't.”
+  - “I feel like I got punched in the stomach.”
 - Alcohol & drugs — 2 moment(s)
-  - Champagne? Oh, I'm fine, thank you.
-  - Oh, look! Shrimp cocktail.
+  - “Champagne? Oh, I'm fine, thank you.”
+  - “Oh, look! Shrimp cocktail.”
 
 ## S2 E14 — David, Goliath, and a Yoo-Hoo from the Back
 URL: https://watchwiththekids.com/ep/young-sheldon/0214.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - BOY: Face-punching time! Jason, let's do it! [CHANTING.]
+  - “BOY: Face-punching time! Jason, let's do it! [CHANTING.]”
 - Swearing — 2 moment(s)
-  - Ow! Son of a bitch! [LAUGHTER, CHEERING.]
-  - Hell yeah, I did.
+  - “Ow! Son of a bitch! [LAUGHTER, CHEERING.]”
+  - “Hell yeah, I did.”
 
 ## S2 E15 — A Math Emergency and Perky Palms
 URL: https://watchwiththekids.com/ep/young-sheldon/0215.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - They're having sexual problems.
+  - “They're having sexual problems.”
 
 ## S2 E16 — A Loaf of Bread and a Grand Old Flag
 URL: https://watchwiththekids.com/ep/young-sheldon/0216.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Did you use one knife for the PB and the J? - No.
-  - You rejected me, you punched me in the face, and I'm still here.
+  - “Did you use one knife for the PB and the J? - No.”
+  - “You rejected me, you punched me in the face, and I'm still here.”
 
 ## S2 E17 — Albert Einstein and the Story of Another Mary
 URL: https://watchwiththekids.com/ep/young-sheldon/0217.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Take a few beers.
+  - “Take a few beers.”
 
 ## S2 E18 — A Perfect Score and a Bunsen Burner Marshmallow
 URL: https://watchwiththekids.com/ep/young-sheldon/0218.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.
+  - “And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.”
 - Violence & injury — 2 moment(s)
-  - Bobbi stabbed Billy in the leg with a fork.
-  - Oh, pity the cowboy All bloody and red For the bronco fell on him And bashed in his head There was blood on the saddle And blood all around And a great big puddle of blood On the ground.
+  - “Bobbi stabbed Billy in the leg with a fork.”
+  - “Oh, pity the cowboy All bloody and red For the bronco fell on him And bashed in his head There was blood on the saddle And blood all around And a great big puddle of blood On the ground.”
 
 ## S2 E19 — A Political Campaign and a Candy Land Cheater
 URL: https://watchwiththekids.com/ep/young-sheldon/0219.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - "Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.
+  - “"Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.”
 
 ## S2 E20 — A Proposal and a Popsicle Stick Cross
 URL: https://watchwiththekids.com/ep/young-sheldon/0220.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - If you're sleeping with the man, you should be married to him.
+  - “If you're sleeping with the man, you should be married to him.”
 - Alcohol & drugs — 3 moment(s)
-  - You waited till I had a beer to tell me - this story, didn't you? - You always have a beer.
-  - What personal business? - Well I heard her mama's boyfriend is a drunk.
-  - There's very little wasted effort.
+  - “You waited till I had a beer to tell me - this story, didn't you? - You always have a beer.”
+  - “What personal business? - Well I heard her mama's boyfriend is a drunk.”
+  - “There's very little wasted effort.”
 
 ## S2 E21 — A Broken Heart and a Crock Monster
 URL: https://watchwiththekids.com/ep/young-sheldon/0221.html
@@ -438,27 +436,27 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0222.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Laundry services? Your poor mother has to touch your underwear.
+  - “Laundry services? Your poor mother has to touch your underwear.”
 
 ## S3 E1 — 1. Quirky Eggheads and Texas Snow Globes
 URL: https://watchwiththekids.com/ep/young-sheldon/0301.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.
+  - “Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.”
 
 ## S3 E2 — 2. A Broom Closet and Satan's Monopoly Board
 URL: https://watchwiththekids.com/ep/young-sheldon/0302.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - : sexual immorality.
-  - The bolo tie's too sexy, right? Knew it.
+  - “: sexual immorality.”
+  - “The bolo tie's too sexy, right? Knew it.”
 - Swearing — 4 moment(s)
-  - : Well Well, they don't have any kids, so Son of a bitch.
-  - So? - So I'm going to hell! - No, you're not.
-  - Yes, I am! Sucks for you.
-  - So, what did they do in the bathroom? I'm going to hell.
+  - “: Well Well, they don't have any kids, so Son of a bitch.”
+  - “So? - So I'm going to hell! - No, you're not.”
+  - “Yes, I am! Sucks for you.”
+  - “So, what did they do in the bathroom? I'm going to hell.”
 
 ## S3 E3 — 3. An Entrepreneurialist and a Swat on the Bottom
 URL: https://watchwiththekids.com/ep/young-sheldon/0303.html
@@ -470,85 +468,85 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0304.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Now he runs around naked and bites the heads off fish.
+  - “Now he runs around naked and bites the heads off fish.”
 - Violence & injury — 1 moment(s)
-  - Let's get that blood pumping.
+  - “Let's get that blood pumping.”
 
 ## S3 E5 — 5. A Pineapple and the Bosom of Male Friendship
 URL: https://watchwiththekids.com/ep/young-sheldon/0305.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 5 moment(s)
-  - I'm gonna get another beer.
-  - Hey, John, what do you say you and I go grab a beer? But we haven't cut open the pineapple yet.
-  - What can I get you? Um, do you have sarsaparilla? Two beers.
-  - We'll take two beers.
-  - I've seen her take a wine cooler out of the trash and finish it.
+  - “I'm gonna get another beer.”
+  - “Hey, John, what do you say you and I go grab a beer? But we haven't cut open the pineapple yet.”
+  - “What can I get you? Um, do you have sarsaparilla? Two beers.”
+  - “We'll take two beers.”
+  - “I've seen her take a wine cooler out of the trash and finish it.”
 
 ## S3 E6 — 6. A Parasol and a Hell of an Arm
 URL: https://watchwiththekids.com/ep/young-sheldon/0306.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Uh-oh! Dad's bringing in the big guns.
-  - You're just begging to get beat up.
+  - “Uh-oh! Dad's bringing in the big guns.”
+  - “You're just begging to get beat up.”
 - Alcohol & drugs — 4 moment(s)
-  - For your information, I got up, put my slippers on, crossed the street, - broke into your house and stole your beer.
-  - Get me a beer.
-  - I may be too drunk to drive, but I still can count to six.
-  - She's hungover! Wants us to keep it down! Are you going for your baseball tryout? - Yup.
+  - “For your information, I got up, put my slippers on, crossed the street, - broke into your house and stole your beer.”
+  - “Get me a beer.”
+  - “I may be too drunk to drive, but I still can count to six.”
+  - “She's hungover! Wants us to keep it down! Are you going for your baseball tryout? - Yup.”
 
 ## S3 E7 — 7. Pongo Pygmaeus and a Culture that Encourages Spitting
 URL: https://watchwiththekids.com/ep/young-sheldon/0307.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.
-  - I may have boobs, but I'm still a man.
+  - “See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.”
+  - “I may have boobs, but I'm still a man.”
 - Violence & injury — 1 moment(s)
-  - Missy! Missy Cooper, you stop beating up that boy! Punch him in the nuts! Ooh, the long-awaited rebuttal.
+  - “Missy! Missy Cooper, you stop beating up that boy! Punch him in the nuts! Ooh, the long-awaited rebuttal.”
 - Swearing — 4 moment(s)
-  - Whoa! - What the hell? - Son of a bitch.
-  - Crap, we have homework? You're so funny.
-  - What the hell's a modem? It links my computer to an interconnected web of other computers in order to facilitate the exchange of ideas.
-  - You're damn straight that's how it works.
+  - “Whoa! - What the hell? - Son of a bitch.”
+  - “Crap, we have homework? You're so funny.”
+  - “What the hell's a modem? It links my computer to an interconnected web of other computers in order to facilitate the exchange of ideas.”
+  - “You're damn straight that's how it works.”
 - Alcohol & drugs — 2 moment(s)
-  - I-I'd like to take you out for a beer, if that would be okay.
-  - Guess who I'm grabbing a beer with.
+  - “I-I'd like to take you out for a beer, if that would be okay.”
+  - “Guess who I'm grabbing a beer with.”
 
 ## S3 E8 — 8. The Sin of Greed and a Chimichanga from Chi-Chi's
 URL: https://watchwiththekids.com/ep/young-sheldon/0308.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 4 moment(s)
-  - I was wondering if we could go out for a beer and talk.
-  - Gee, John, last time, you got drunk and threw up in my glove compartment.
-  - This beer is yummy.
-  - They do have a good margarita.
+  - “I was wondering if we could go out for a beer and talk.”
+  - “Gee, John, last time, you got drunk and threw up in my glove compartment.”
+  - “This beer is yummy.”
+  - “They do have a good margarita.”
 
 ## S3 E9 — 9. A Party Invitation, Football Grapes and an Earth Chicken
 URL: https://watchwiththekids.com/ep/young-sheldon/0309.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - Well, when that happens to me, I have another beer.
-  - "My mother also threw up, but that was because of wine.
+  - “Well, when that happens to me, I have another beer.”
+  - “"My mother also threw up, but that was because of wine.”
 
 ## S3 E10 — Teenager Soup and a Little Ball of Fib
 URL: https://watchwiththekids.com/ep/young-sheldon/0310.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - In fact, he sold me an athletic supporter to protect my genitals.
+  - “In fact, he sold me an athletic supporter to protect my genitals.”
 
 ## S3 E11 — A Live Chicken, a Fried Chicken and Holy Matrimony
 URL: https://watchwiththekids.com/ep/young-sheldon/0311.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - To be murdered.
+  - “To be murdered.”
 - Alcohol & drugs — 1 moment(s)
-  - I'm just gonna grab a beer.
+  - “I'm just gonna grab a beer.”
 
 ## S3 E12 — Body Glitter and a Mall Safety Kit
 URL: https://watchwiththekids.com/ep/young-sheldon/0312.html
@@ -560,48 +558,48 @@ URL: https://watchwiththekids.com/ep/young-sheldon/0313.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 4 moment(s)
-  - I'm calling to confirm a time for beer and socializing this weekend.
-  - Make sure your dad doesn't drink too many beers.
-  - And make sure your son doesn't drink any beers.
-  - Well, evidence suggests I need another beer.
+  - “I'm calling to confirm a time for beer and socializing this weekend.”
+  - “Make sure your dad doesn't drink too many beers.”
+  - “And make sure your son doesn't drink any beers.”
+  - “Well, evidence suggests I need another beer.”
 
 ## S3 E14 — A Slump, a Cross and Roadside Gravel
 URL: https://watchwiththekids.com/ep/young-sheldon/0314.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - "Sell blood or non-vital organs.
+  - “"Sell blood or non-vital organs.”
 - Alcohol & drugs — 1 moment(s)
-  - You sure? 'Cause that's how you look when Dad had that breakfast beer.
+  - “You sure? 'Cause that's how you look when Dad had that breakfast beer.”
 
 ## S3 E15 — A Boyfriend's Ex-Wife and a Good Luck Head Rub
 URL: https://watchwiththekids.com/ep/young-sheldon/0315.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.
-  - What were you doing naked with a golf club in a hailstorm? Uh, you know, it was the '70s.
+  - “Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.”
+  - “What were you doing naked with a golf club in a hailstorm? Uh, you know, it was the '70s.”
 - Alcohol & drugs — 2 moment(s)
-  - This would be a lot more fun with margaritas.
-  - If you're worried about the beer-drinking, Dad has thoroughly desensitized me.
+  - “This would be a lot more fun with margaritas.”
+  - “If you're worried about the beer-drinking, Dad has thoroughly desensitized me.”
 
 ## S3 E16 — Pasadena
 URL: https://watchwiththekids.com/ep/young-sheldon/0316.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
-  - Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.
-  - Oh, what'd you do, sleep through church one mornin'? For your information I used to skip class so that I could drink beer in my boyfriend's truck.
-  - And, you know, tequila.
+  - “Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.”
+  - “Oh, what'd you do, sleep through church one mornin'? For your information I used to skip class so that I could drink beer in my boyfriend's truck.”
+  - “And, you know, tequila.”
 
 ## S3 E17 — An Academic Crime and a More Romantic Taco Bell
 URL: https://watchwiththekids.com/ep/young-sheldon/0317.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - But when I said "snacks," I mean wine.
+  - “But when I said "snacks," I mean wine.”
 - Fat-shaming — 1 moment(s)
-  - Did you make this taste bad so Dad would lose weight? Fine.
+  - “Did you make this taste bad so Dad would lose weight? Fine.”
 
 ## S3 E18 — A Couple Bruised Ribs and a Cereal Box Ghost Detector
 URL: https://watchwiththekids.com/ep/young-sheldon/0318.html
@@ -864,7 +862,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Sex, sex, sex. Get over it.
-  - : "I Wanna Sex You Up.
+  - “: "I Wanna Sex You Up.”
   - Andy, would you feel embarrassed talking about sexual intercourse with your mother? Uh Stammering, red-faced.
 
 ## S5 E7 — 7. An Introduction to Engineering and a Glob of Hair Gel
@@ -930,7 +928,7 @@ Watch for:
   - Here we go, two margaritas.
   - I love their margaritas.
   - I'm at least getting a beer out of this.
-  - like the finest wine
+  - “like the finest wine”
 
 ## S5 E12 — A Pink Cadillac and a Glorious Tribal Dance
 URL: https://watchwiththekids.com/ep/young-sheldon/0512.html

@@ -281,8 +281,6 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Leonard: “Okay, well, what exactly did this guy write, not that I need to know the details of your sex life, I just thought…. never mind.”
-- Nudity & bodies — 1 moment(s)
-  - Sheldon: “A second what? Pair of underwear?”
 - Alcohol & drugs — 1 moment(s)
   - Penny: “Well, Raj can’t talk to me unless he’s drunk, and Wolowitz is, you know, disgusting.”
 
@@ -1043,8 +1041,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/big-bang-theory/0409.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Wyatt: “I thought we were past the days when you would try to pull the wool over my eyes. Telling me the baggie in your underwear drawer is potpourri? And the pee stick in your bathroom is to check for diabetes?”
 - Alcohol & drugs — 3 moment(s)
   - Howard: “I did it with you when we rented The Notebook. (Raj whispers) Yes, Gena Rowlands is a treasure. You’d better open up that bottle of wine or I’m gonna end up with swimmer’s ear.”
   - Howard: “What? Galileo did his best work while drinking wine.”
@@ -1114,9 +1110,6 @@ Watch for:
   - Bernadette: “Don’t you listen to them. You’ve got plenty of sex appeal.”
   - Raj: “Well, thanks, Bernadette. And just for the record, labradoodles are hypo-allergenic, which is a very sexy quality to those troubled by animal dander.”
   - Howard: “Sexual needs.”
-- Nudity & bodies — 2 moment(s)
-  - Sheldon: “I understand. Oh, Shelly? A man’s here to take you away to the future! Be sure to pack clean underwear.””
-  - Sheldon: “Oh, Shelly? A man’s here to take you away to the future. Be sure to pack clean underwear.”
 - Violence & injury — 2 moment(s)
   - Sheldon: “Glory be to Heaven, some sort of creature just manifested out of thin air. George, put down that Pepsi can full of bourbon that ain’t foolin’ no one, and get your shotgun!”
   - Sheldon: “Yes, but he’s going to a better place where he won’t get beat up. So much.”
@@ -1152,8 +1145,6 @@ Watch for:
   - Bernadette: “Nothing. Just thinking about the noises people make during sex.”
   - Mrs Wolowitz (voice): Who’s there? Are you a sex criminal?
   - Amy: “It seems like the appropriate thing to do when one’s best friend finds herself replaced by a smart, beautiful woman with the smouldering sexuality of a crouched Bengal tiger.”
-- Nudity & bodies — 1 moment(s)
-  - Howard: “Better put it on the list. If you wash my underwear with regular soap, I get little red bumps on my tuchus.”
 - Porn / strippers / sex work — 1 moment(s)
   - Penny: “Oh, yeah, yeah. It’s real great. Today I drove to Van Nuys for an audition I thought was going to be for a cat food commercial. Turned out to be porn.”
 - Swearing — 2 moment(s)
@@ -1804,9 +1795,8 @@ Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Penny: “Thank you. Now behave yourself and eat your dinner. Maybe later, if you’re lucky, you get to sleep with a college girl.”
-- Nudity & bodies — 2 moment(s)
+- Nudity & bodies — 1 moment(s)
   - Bernadette: “So, I was taking a shower this morning, and when I got out, I started to dry off with what I thought was a towel but turned out to be Howard’s mom’s underwear.”
-  - Amy: “I once looked in Sheldon’s underwear drawer. He yelled at me. But now I know what it looks like and he can never take that away.”
 - Violence & injury — 1 moment(s)
   - Sheldon: “I was beating him so bad, he doesn’t want to be friends anymore. Why does everyone love me except Stephen Hawking?”
 - Swearing — 4 moment(s)
@@ -2283,8 +2273,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Howard: “Please, I’ve made plenty of girls laugh, sometimes just by asking them out. (Bernadette laughs uncontrollably) Yeah? Well, I fake my orgasms.”
-- Nudity & bodies — 1 moment(s)
-  - Penny: “Really? ‘Cause this morning at Starbucks, a pair of old underwear fell out of my pant leg. And it wasn’t the only one in there.”
 - Alcohol & drugs — 1 moment(s)
   - Leonard: “Look, you know I love you but, but you’re, you’re drunk and sad and feeling lost.”
 - Fat-shaming — 1 moment(s)
@@ -2303,9 +2291,6 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Penny: “Okay, sex is not what makes you a grown-up.”
-- Nudity & bodies — 2 moment(s)
-  - Penny: “Oh, all right, if we’re gonna be fancy, I should probably put on clean underwear.”
-  - Bernadette: “La-dee-da, look who has clean underwear.”
 - Porn / strippers / sex work — 2 moment(s)
   - Stripper or strip-club material shows up in the plot.
   - James: “What were you trying to ask me at the strip club?”
@@ -2634,8 +2619,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/big-bang-theory/0816.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Raj: “Ooh. Okay, let’s hope one of the clues is written on a pair of clean underwear.”
 - Alcohol & drugs — 2 moment(s)
   - Penny: “Yup. Be right there. I assume you don’t want wine.”
   - Penny: “Well, not to steal from the Bible, but turning water into wine sounds pretty good.”
@@ -3327,214 +3310,214 @@ URL: https://watchwiththekids.com/ep/big-bang-theory/1101.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Some suggestion of make-up sex that did not go over well, even though it's not like we can get more pregnant.
+  - “Some suggestion of make-up sex that did not go over well, even though it's not like we can get more pregnant.”
 
 ## S11 E2 — 2. The Retraction Reaction
 URL: https://watchwiththekids.com/ep/big-bang-theory/1102.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 3 moment(s)
-  - " He said that to your face? What a dick.
-  - The more I told him about my lab, the pissier he got.
-  - Damn right it is; I came up with it.
+  - “" He said that to your face? What a dick.”
+  - “The more I told him about my lab, the pissier he got.”
+  - “Damn right it is; I came up with it.”
 - Alcohol & drugs — 4 moment(s)
-  - (clears throat) You were drinking water instead of wine.
-  - Isn't that just vodka with blue dye in it? You-- first, physics, now Romulan ale.
-  - Your lives are not wasted.
-  - Are we running there? Because watching drunk Sheldon run would be the highlight of my life.
+  - “(clears throat) You were drinking water instead of wine.”
+  - “Isn't that just vodka with blue dye in it? You-- first, physics, now Romulan ale.”
+  - “Your lives are not wasted.”
+  - “Are we running there? Because watching drunk Sheldon run would be the highlight of my life.”
 
 ## S11 E3 — 3. The Relaxation Integration
 URL: https://watchwiththekids.com/ep/big-bang-theory/1103.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Mm, it's true-- Freud thought dreams were about sex, Adler thought they were about dominance Then again, mine are just about being married to this little guy.
+  - “Mm, it's true-- Freud thought dreams were about sex, Adler thought they were about dominance Then again, mine are just about being married to this little guy.”
 
 ## S11 E4 — 4. The Explosion Implosion
 URL: https://watchwiththekids.com/ep/big-bang-theory/1104.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Oh, hey, hey, what do you think? Just because it's a boy, I don't think you need to put a picture of genitals on his shirt.
-  - Is Halley hoping for a little brother or a little sister? Well, she's nine months old, so unless it jingles or is in my bra, she doesn't care.
+  - “Oh, hey, hey, what do you think? Just because it's a boy, I don't think you need to put a picture of genitals on his shirt.”
+  - “Is Halley hoping for a little brother or a little sister? Well, she's nine months old, so unless it jingles or is in my bra, she doesn't care.”
 - Swearing — 1 moment(s)
-  - You're rough and tumble? You bet I am, bitch.
+  - “You're rough and tumble? You bet I am, bitch.”
 
 ## S11 E5 — 5. The Collaboration Contamination
 URL: https://watchwiththekids.com/ep/big-bang-theory/1105.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Yeah, no more stories about sex, so, Amy, that brings us to you.
-  - Yeah? Anything interesting? Well, I just saw a picture of a baby's head crowning, so I hope you enjoyed sex, because we're done with that.
+  - “Yeah, no more stories about sex, so, Amy, that brings us to you.”
+  - “Yeah? Anything interesting? Well, I just saw a picture of a baby's head crowning, so I hope you enjoyed sex, because we're done with that.”
 
 ## S11 E6 — 6. The Proton Regeneration
 URL: https://watchwiththekids.com/ep/big-bang-theory/1106.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - So was having sex, and look where that got us.
+  - “So was having sex, and look where that got us.”
 
 ## S11 E7 — 7. The Geology Methodology
 URL: https://watchwiththekids.com/ep/big-bang-theory/1107.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - We ordered in some food, we had sex, I left.
-  - Checkered past? It's a figure of speech referring to how sexually promiscuous you were.
-  - Really? Well, I've got a figure of speech about how sexually promiscuous you can go be with yourself.
-  - Why would I want to spend time with someone like that? Someone who is just interested in sex? Yeah.
+  - “We ordered in some food, we had sex, I left.”
+  - “Checkered past? It's a figure of speech referring to how sexually promiscuous you were.”
+  - “Really? Well, I've got a figure of speech about how sexually promiscuous you can go be with yourself.”
+  - “Why would I want to spend time with someone like that? Someone who is just interested in sex? Yeah.”
 - Violence & injury — 2 moment(s)
-  - Okay, put a rubber band around your wrist, and any time you start planning your wedding or naming your children, I want you to stab yourself in the hand with a fork.
-  - Oh, almost paradise We're knocking on heaven's door Almost paradise And then I had to catalog it by color, viscosity and percentage of blood.
+  - “Okay, put a rubber band around your wrist, and any time you start planning your wedding or naming your children, I want you to stab yourself in the hand with a fork.”
+  - “Oh, almost paradise We're knocking on heaven's door Almost paradise And then I had to catalog it by color, viscosity and percentage of blood.”
 
 ## S11 E8 — 8. The Tesla Recoil
 URL: https://watchwiththekids.com/ep/big-bang-theory/1108.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - You're just saying that 'cause she's sleeping with you.
-  - I am not fist bumping you after we have sex.
-  - So what did you do? What do you think I did? I made small talk for 20 minutes and had sex again.
-  - If I do that, she's gonna confront Ruchi, and then Ruchi's gonna stop sleeping with me.
-  - Isn't he sexy all fired up? He really gets my current alternating, if you know what I mean.
+  - “You're just saying that 'cause she's sleeping with you.”
+  - “I am not fist bumping you after we have sex.”
+  - “So what did you do? What do you think I did? I made small talk for 20 minutes and had sex again.”
+  - “If I do that, she's gonna confront Ruchi, and then Ruchi's gonna stop sleeping with me.”
+  - “Isn't he sexy all fired up? He really gets my current alternating, if you know what I mean.”
 - Swearing — 3 moment(s)
-  - Thanks for coming! (door closes) That bitch.
-  - But if someone else does it, I can double check the crap out of it.
-  - Damn it! Excuse us.
+  - “Thanks for coming! (door closes) That bitch.”
+  - “But if someone else does it, I can double check the crap out of it.”
+  - “Damn it! Excuse us.”
 
 ## S11 E9 — 9. The Bitcoin Entanglement
 URL: https://watchwiththekids.com/ep/big-bang-theory/1109.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - Wow, I-I knew you were single back then, but that is a lot of porn Science! A lot of science.
+  - “Wow, I-I knew you were single back then, but that is a lot of porn Science! A lot of science.”
 - Violence & injury — 1 moment(s)
-  - You want to mine some Bitcoin with us? We'll write the program, you bring the snacks? Too rich for my blood.
+  - “You want to mine some Bitcoin with us? We'll write the program, you bring the snacks? Too rich for my blood.”
 - Alcohol & drugs — 1 moment(s)
-  - I was gonna write you an e-mail, but I'm a little drunk, and spelling is a sober person's game, so I feel I owe you a 'splanation.
+  - “I was gonna write you an e-mail, but I'm a little drunk, and spelling is a sober person's game, so I feel I owe you a 'splanation.”
 
 ## S11 E10 — The Confidence Erosion
 URL: https://watchwiththekids.com/ep/big-bang-theory/1110.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - You're gonna make me forget I've been stuck in bed while a baby uses my bladder as a kickball? (knocking) Hey, you had unprotected sex with Howard.
+  - “You're gonna make me forget I've been stuck in bed while a baby uses my bladder as a kickball? (knocking) Hey, you had unprotected sex with Howard.”
 - Nudity & bodies — 1 moment(s)
-  - Just remember, if you fall asleep first, they're gonna freeze your bra.
+  - “Just remember, if you fall asleep first, they're gonna freeze your bra.”
 - Violence & injury — 1 moment(s)
-  - Please, confidence is like red blood cells-- it's nice if you got some, but you don't need 'em.
+  - “Please, confidence is like red blood cells-- it's nice if you got some, but you don't need 'em.”
 
 ## S11 E11 — The Celebration Reverberation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1111.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - Everyone knows the best foreplay is rigid adherence to a strict schedule.
-  - Hey, hey, save that sexy talk for the bedroom.
-  - Well should we make love now? How can you even think about sex? Hey, I'm a man; I have annual needs just like anyone.
+  - “Everyone knows the best foreplay is rigid adherence to a strict schedule.”
+  - “Hey, hey, save that sexy talk for the bedroom.”
+  - “Well should we make love now? How can you even think about sex? Hey, I'm a man; I have annual needs just like anyone.”
 
 ## S11 E12 — The Matrimonial Metric
 URL: https://watchwiththekids.com/ep/big-bang-theory/1112.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Is it about his special underwear? Because I already know.
+  - “Is it about his special underwear? Because I already know.”
 - Alcohol & drugs — 1 moment(s)
-  - Pink saying, âJesus thinks you've had enough whiskey.
+  - “Pink saying, âJesus thinks you've had enough whiskey.”
 
 ## S11 E13 — The Solo Oscillation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1113.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Otherwise, Justin would never have brought sexy back.
+  - “Otherwise, Justin would never have brought sexy back.”
 - Violence & injury — 1 moment(s)
-  - …my idol, I'm homicidal Gonna roll over you till your brains come out And your bones will crunch and your blood will spout!
+  - “…my idol, I'm homicidal Gonna roll over you till your brains come out And your bones will crunch and your blood will spout!”
 
 ## S11 E14 — The Separation Triangulation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1114.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - How is it gonna be okay? You're sleeping with my wife.
-  - And she had sex with you? Nell tells me you're a fireman.
-  - Well, if you're uncomfortable with it, maybe stop sleeping with his wife.
-  - I don't think the sex is the problem.
+  - “How is it gonna be okay? You're sleeping with my wife.”
+  - “And she had sex with you? Nell tells me you're a fireman.”
+  - “Well, if you're uncomfortable with it, maybe stop sleeping with his wife.”
+  - “I don't think the sex is the problem.”
 - Racism & slurs — 1 moment(s)
-  - I was just trying not to be racist.
+  - “I was just trying not to be racist.”
 
 ## S11 E15 — The Novelization Correlation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1115.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - Oh! I just thought of the murder weapon! Swiss army knife? (laughs) No.
-  - Logan Dean makes two important discoveries: a gluino (gruffly): and murder.
-  - I don't mean to interrupt, but somebody's tracking blood everywhere, so-- never mind, it's me.
-  - What makes you think you can solve a crime? He's losing a lot of blood.
+  - “Oh! I just thought of the murder weapon! Swiss army knife? (laughs) No.”
+  - “Logan Dean makes two important discoveries: a gluino (gruffly): and murder.”
+  - “I don't mean to interrupt, but somebody's tracking blood everywhere, so-- never mind, it's me.”
+  - “What makes you think you can solve a crime? He's losing a lot of blood.”
 - Swearing — 2 moment(s)
-  - Son of a bitch.
-  - Damn it, Logan.
+  - “Son of a bitch.”
+  - “Damn it, Logan.”
 
 ## S11 E16 — The Neonatal Nomenclature
 URL: https://watchwiththekids.com/ep/big-bang-theory/1116.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - Why are you smiling? I had sex twice last night.
-  - You only have sex once a year.
-  - I'll probably have sex tonight.
-  - Ta-da! (snaps fingers) You know, I hear that sex can induce labor.
+  - “Why are you smiling? I had sex twice last night.”
+  - “You only have sex once a year.”
+  - “I'll probably have sex tonight.”
+  - “Ta-da! (snaps fingers) You know, I hear that sex can induce labor.”
 - Swearing — 3 moment(s)
-  - Go put on some more clothes, you bitch.
-  - Today's my due date, and this crap needs to end now.
-  - Ooh! Who said war was hell? Yeah, that's a rhetorical question.
+  - “Go put on some more clothes, you bitch.”
+  - “Today's my due date, and this crap needs to end now.”
+  - “Ooh! Who said war was hell? Yeah, that's a rhetorical question.”
 - Alcohol & drugs — 1 moment(s)
-  - It's not a champagne cork.
+  - “It's not a champagne cork.”
 
 ## S11 E17 — The Athenaeum Allocation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1117.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Is it too sexy? It's too something.
+  - “Is it too sexy? It's too something.”
 - Violence & injury — 1 moment(s)
-  - The kids could've screamed bloody murder and you wouldn't have woken up.
+  - “The kids could've screamed bloody murder and you wouldn't have woken up.”
 
 ## S11 E18 — The Gates Excitation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1118.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - Plenty of people do that: businessmen, high-end prostitutes.
+  - “Plenty of people do that: businessmen, high-end prostitutes.”
 - Alcohol & drugs — 1 moment(s)
-  - And a whole bottle of wine.
+  - “And a whole bottle of wine.”
 
 ## S11 E19 — The Tenant Disassociation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1119.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - All hooked up.
+  - “All hooked up.”
 - Nudity & bodies — 1 moment(s)
-  - I mean, did you see how hot she was? I want to get all up on that and start making babies! I know exactly what underwear I'm gonna wear on our first date.
+  - “I mean, did you see how hot she was? I want to get all up on that and start making babies! I know exactly what underwear I'm gonna wear on our first date.”
 - Violence & injury — 2 moment(s)
-  - (laughs) You got beaten up by a girl.
-  - (laughs) You got beaten up by a baby.
+  - “(laughs) You got beaten up by a girl.”
+  - “(laughs) You got beaten up by a baby.”
 
 ## S11 E20 — The Reclusive Potential
 URL: https://watchwiththekids.com/ep/big-bang-theory/1120.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - Well, I wish I could say none of that is gonna happen, but Penny is planning it, and she is the reason I own those underwear with writing across the butt.
+  - “Well, I wish I could say none of that is gonna happen, but Penny is planning it, and she is the reason I own those underwear with writing across the butt.”
 - Porn / strippers / sex work — 2 moment(s)
-  - Welcome to your bachelorette party! Oh It's a quilting bee! My bachelorette party's a quilting bee! (forced chuckle) Isn't it perfect? Yeah, instead of oiled-up strippers and sex toys, we thought: what does Amy like?
-  - Yeah, what happened to the good old days where if someone wanted to steal your work, they had to hire a prostitute to seduce you? Who told you about that? Just making a joke.
+  - “Welcome to your bachelorette party! Oh It's a quilting bee! My bachelorette party's a quilting bee! (forced chuckle) Isn't it perfect? Yeah, instead of oiled-up strippers and sex toys, we thought: what does Amy like?”
+  - “Yeah, what happened to the good old days where if someone wanted to steal your work, they had to hire a prostitute to seduce you? Who told you about that? Just making a joke.”
 - Alcohol & drugs — 2 moment(s)
-  - Drinking wine, riding panthers Proof that girls have gone wild for over 2,500 years.
-  - All right, you know what, why don't we stay home, have a little wine What are you not getting about this?! Dr.
+  - “Drinking wine, riding panthers Proof that girls have gone wild for over 2,500 years.”
+  - “All right, you know what, why don't we stay home, have a little wine What are you not getting about this?! Dr.”
 
 ## S11 E21 — The Comet Polarization
 URL: https://watchwiththekids.com/ep/big-bang-theory/1121.html
@@ -3546,176 +3529,175 @@ URL: https://watchwiththekids.com/ep/big-bang-theory/1122.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Well, I've got a push-up bra I can loan you that always gets me free drinks.
-  - Then I'd go no bra.
+  - “Well, I've got a push-up bra I can loan you that always gets me free drinks.”
+  - “Then I'd go no bra.”
 - Porn / strippers / sex work — 1 moment(s)
-  - You're in a stolen cop car with a dead hooker in the trunk.
+  - “You're in a stolen cop car with a dead hooker in the trunk.”
 - Alcohol & drugs — 2 moment(s)
-  - " I can't wait to get drunk and pick a fight with her at your wedding.
-  - Would you like some champagne? Oh, thank you.
+  - “" I can't wait to get drunk and pick a fight with her at your wedding.”
+  - “Would you like some champagne? Oh, thank you.”
 
 ## S11 E23 — The Sibling Realignment
 URL: https://watchwiththekids.com/ep/big-bang-theory/1123.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Y-You wouldn't be paying for sex.
-  - I mean, obviously if things went well, it could lead to sex, but, but the money is for, like, you know, her time and companionship.
+  - “Y-You wouldn't be paying for sex.”
+  - “I mean, obviously if things went well, it could lead to sex, but, but the money is for, like, you know, her time and companionship.”
 - Porn / strippers / sex work — 2 moment(s)
-  - Wh-Wh-Why can't there be a service where you can just pay someone to be your date for the evening? Like an escort service? No, no, no.
-  - Oh, I get it an escort service.
+  - “Wh-Wh-Why can't there be a service where you can just pay someone to be your date for the evening? Like an escort service? No, no, no.”
+  - “Oh, I get it an escort service.”
 - Violence & injury — 1 moment(s)
-  - He was still gonna get beat up for wearing that dress.
+  - “He was still gonna get beat up for wearing that dress.”
 - Alcohol & drugs — 1 moment(s)
-  - If it makes you feel any better, my mom's most proud of Sheldon, too, so Leonard, you want a beer? Yeah, I would love a beer.
+  - “If it makes you feel any better, my mom's most proud of Sheldon, too, so Leonard, you want a beer? Yeah, I would love a beer.”
 
 ## S11 E24 — The Bow Tie Asymmetry
 URL: https://watchwiththekids.com/ep/big-bang-theory/1124.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Racism & slurs — 2 moment(s)
-  - Mom Oh, so now it's racist to notice when somebody's Indian.
-  - I don't think it's racist.
+  - “Mom Oh, so now it's racist to notice when somebody's Indian.”
+  - “I don't think it's racist.”
 
 ## S12 E1 — 1. The Conjugal Configuration
 URL: https://watchwiththekids.com/ep/big-bang-theory/1201.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - You're gonna have to find some other way to not have sex with me tonight.
-  - So, now that we're married, sex can occur at any time? Like, we can be brushing our teeth, and suddenly your minty-fresh tongue is in my mouth? No, thank you.
-  - Now that sex can happen at any time, I always have to be ready.
-  - Some guys think strong women are sexy.
-  - Is it possible that you're sexually frustrated? Okay, now I'm testy.
+  - “You're gonna have to find some other way to not have sex with me tonight.”
+  - “So, now that we're married, sex can occur at any time? Like, we can be brushing our teeth, and suddenly your minty-fresh tongue is in my mouth? No, thank you.”
+  - “Now that sex can happen at any time, I always have to be ready.”
+  - “Some guys think strong women are sexy.”
+  - “Is it possible that you're sexually frustrated? Okay, now I'm testy.”
 - Nudity & bodies — 1 moment(s)
-  - And when we get there, I'm gonna need you to say that again, except naked.
+  - “And when we get there, I'm gonna need you to say that again, except naked.”
 
 ## S12 E2 — 2. The Wedding Gift Wormhole
 URL: https://watchwiththekids.com/ep/big-bang-theory/1202.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
-- Nudity & bodies — 4 moment(s)
-  - A flute, a letter opener, one of those pens where you put the bikini back on the naked lady.
-  - Back when I was dating, I'd always wear a new pair of underwear, just in case.
-  - It's also been a long time since I bought new underwear.
-  - If there's a chance someone's gonna see you naked, it's also polite to make sure you're well-groomed down there.
+- Nudity & bodies — 3 moment(s)
+  - “A flute, a letter opener, one of those pens where you put the bikini back on the naked lady.”
+  - “It's also been a long time since I bought new underwear.”
+  - “If there's a chance someone's gonna see you naked, it's also polite to make sure you're well-groomed down there.”
 
 ## S12 E3 — 3. The Procreation Calculation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1203.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - I'd have to change all the tags in my underwear.
-  - What-- new house, new underwear.
-  - What would you say if I told you I was totally naked under this robe? I would say that sounds pretty good.
+  - “I'd have to change all the tags in my underwear.”
+  - “What-- new house, new underwear.”
+  - “What would you say if I told you I was totally naked under this robe? I would say that sounds pretty good.”
 - Alcohol & drugs — 1 moment(s)
-  - I'm so sorry if I wasted your time.
+  - “I'm so sorry if I wasted your time.”
 
 ## S12 E4 — 4. The Tam Turbulence
 URL: https://watchwiththekids.com/ep/big-bang-theory/1204.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - Okay, are you trying to get us drunk so we'll dish on our friend? 'Cause it's totally gonna work, what do you want to know? What kind of guy is he? He is great.
-  - Bernie came home pretty drunk.
+  - “Okay, are you trying to get us drunk so we'll dish on our friend? 'Cause it's totally gonna work, what do you want to know? What kind of guy is he? He is great.”
+  - “Bernie came home pretty drunk.”
 
 ## S12 E5 — 5. The Planetarium Collision
 URL: https://watchwiththekids.com/ep/big-bang-theory/1205.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - If you were him, would you want to share the stage with a sexy-ass astronaut? I don't know.
-  - How sexy are we talking? Oh, you know, tight pants, huge biceps, magic hammer.
+  - “If you were him, would you want to share the stage with a sexy-ass astronaut? I don't know.”
+  - “How sexy are we talking? Oh, you know, tight pants, huge biceps, magic hammer.”
 
 ## S12 E6 — 6. The Imitation Perturbation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1206.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - So, what are you wearing to the party? Sexy cat? Sexy nurse? Sexy zombie? Why do girls' costumes have to be sexy but guys' costumes don't? (scoffs) Say that again with this helicopter on my head.
+  - “So, what are you wearing to the party? Sexy cat? Sexy nurse? Sexy zombie? Why do girls' costumes have to be sexy but guys' costumes don't? (scoffs) Say that again with this helicopter on my head.”
 - Alcohol & drugs — 1 moment(s)
-  - I was drunk, and I was still with Kurt, and I was using you to make myself feel better.
+  - “I was drunk, and I was still with Kurt, and I was using you to make myself feel better.”
 
 ## S12 E7 — 7. The Grant Allocation Derivation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1207.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - I'm gonna hook up the garden hose, so it has running water.
-  - That'd be a good slogan for a condom company.
-  - It was so sexy.
+  - “I'm gonna hook up the garden hose, so it has running water.”
+  - “That'd be a good slogan for a condom company.”
+  - “It was so sexy.”
 - Alcohol & drugs — 2 moment(s)
-  - Really? You and Bernadette aren't doing stuff without me? What? No! Why would you even say that? You know how your talent is getting just drunk enough to have a good time without being hungover the next day? Thank you.
-  - Yeah? With a bag full of wine? I Got to stay hydrated.
+  - “Really? You and Bernadette aren't doing stuff without me? What? No! Why would you even say that? You know how your talent is getting just drunk enough to have a good time without being hungover the next day? Thank you.”
+  - “Yeah? With a bag full of wine? I Got to stay hydrated.”
 
 ## S12 E8 — 8. The Consummation Deviation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1208.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - (chuckles) I think we should have sex.
-  - What's up, pal? I I don't know how else to say this, but, um, Anu and I are going to have sex tonight.
-  - I mean, this is the woman I'm marrying-- what if it's no good? Do we break up? Do we sign on for a lifetime of mediocre sex? Just don't put so much pressure on it.
-  - And by the way, Anu is Indian-- she's gonna know there's no sexual position called a "screeching lotus.
-  - Yeah, what if you're great and she's bad? How can she be bad? Raj, women can be bad at sex, too.
+  - “(chuckles) I think we should have sex.”
+  - “What's up, pal? I I don't know how else to say this, but, um, Anu and I are going to have sex tonight.”
+  - “I mean, this is the woman I'm marrying-- what if it's no good? Do we break up? Do we sign on for a lifetime of mediocre sex? Just don't put so much pressure on it.”
+  - “And by the way, Anu is Indian-- she's gonna know there's no sexual position called a "screeching lotus.”
+  - “Yeah, what if you're great and she's bad? How can she be bad? Raj, women can be bad at sex, too.”
 - Nudity & bodies — 1 moment(s)
-  - You can do that but you still can't get my bra off.
+  - “You can do that but you still can't get my bra off.”
 - Violence & injury — 2 moment(s)
-  - A perfectly ordinary table knife.
-  - Well, look, there's fake blood, too.
+  - “A perfectly ordinary table knife.”
+  - “Well, look, there's fake blood, too.”
 - Alcohol & drugs — 3 moment(s)
-  - Everything okay? Why are you acting so weird? Raj? What's going on? (champagne cork pops) Be right out! You look beautiful! Sorry, I had to use the facilities.
-  - With a bottle of champagne? Mm, I like to celebrate the little things in life.
-  - So you've been drunk every time we've seen each other? No.
+  - “Everything okay? Why are you acting so weird? Raj? What's going on? (champagne cork pops) Be right out! You look beautiful! Sorry, I had to use the facilities.”
+  - “With a bottle of champagne? Mm, I like to celebrate the little things in life.”
+  - “So you've been drunk every time we've seen each other? No.”
 
 ## S12 E9 — 9. The Citation Negation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1209.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 3 moment(s)
-  - I'm having an affair.
-  - The truth is, I was never having an affair with the cafeteria lady.
-  - Maybe leave an anonymous note, you know, like in high school, when you want to let your best friend know that her boyfriend's cheating on her.
+  - “I'm having an affair.”
+  - “The truth is, I was never having an affair with the cafeteria lady.”
+  - “Maybe leave an anonymous note, you know, like in high school, when you want to let your best friend know that her boyfriend's cheating on her.”
 - Swearing — 5 moment(s)
-  - (chuckles) Son of a bitch.
-  - It's just a portal to hell.
-  - Ugh, damn it, why can't I hit anybody? Here, let me try.
-  - Hey, do you want to play the game, or do you want to crawl back up your mommy's shirt and chow down like a baby? Damn, what is wrong with you? I'm sorry, I thought you wanted to beat your husband.
-  - Whoo! What a rush! All right, can we go eat now? - Hell yeah.
+  - “(chuckles) Son of a bitch.”
+  - “It's just a portal to hell.”
+  - “Ugh, damn it, why can't I hit anybody? Here, let me try.”
+  - “Hey, do you want to play the game, or do you want to crawl back up your mommy's shirt and chow down like a baby? Damn, what is wrong with you? I'm sorry, I thought you wanted to beat your husband.”
+  - “Whoo! What a rush! All right, can we go eat now? - Hell yeah.”
 
 ## S12 E10 — The VCR Illumination
 URL: https://watchwiththekids.com/ep/big-bang-theory/1210.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Okay, all hooked up.
+  - “Okay, all hooked up.”
 - Nudity & bodies — 1 moment(s)
-  - I used to record a lot of Jeopardy! for my mom, but if I push play and you see some naked people Got it.
+  - “I used to record a lot of Jeopardy! for my mom, but if I push play and you see some naked people Got it.”
 - Porn / strippers / sex work — 2 moment(s)
-  - What is porn? Ooh, we were looking for "vintage '80s erotica," but I'll accept it.
-  - If you think about it, they're just the strippers of the emblem world.
+  - “What is porn? Ooh, we were looking for "vintage '80s erotica," but I'll accept it.”
+  - “If you think about it, they're just the strippers of the emblem world.”
 
 ## S12 E11 — The Paintball Scattering
 URL: https://watchwiththekids.com/ep/big-bang-theory/1211.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - And did you give it to him? Did you give him his stuff? If "stuff" means sex, then no.
+  - “And did you give it to him? Did you give him his stuff? If "stuff" means sex, then no.”
 - Alcohol & drugs — 2 moment(s)
-  - 1 Champagne, a champagne, a champagne with a packet of Splenda in it.
-  - You know what I call this drink? - A waste of champagne? No.
+  - “1 Champagne, a champagne, a champagne with a packet of Splenda in it.”
+  - “You know what I call this drink? - A waste of champagne? No.”
 
 ## S12 E12 — The Propagation Proposition
 URL: https://watchwiththekids.com/ep/big-bang-theory/1212.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Just because I slept with your wife doesn't mean you get to sleep with mine.
-  - Really? So you'd be okay if someone wanted to use Sheldon as their sperm donor? Oh, absolutely not.
+  - “Just because I slept with your wife doesn't mean you get to sleep with mine.”
+  - “Really? So you'd be okay if someone wanted to use Sheldon as their sperm donor? Oh, absolutely not.”
 - Alcohol & drugs — 3 moment(s)
-  - " I have a bottle of champagne for you.
-  - Amy got drunk and kept telling us that Sheldon's chest is smooth like a porpoise.
-  - Uh, okay, well, how is that different than what you're doing? Hmm? Worried that you wasted so many years dating the wrong people, and now, you're just looking for a shortcut.
+  - “" I have a bottle of champagne for you.”
+  - “Amy got drunk and kept telling us that Sheldon's chest is smooth like a porpoise.”
+  - “Uh, okay, well, how is that different than what you're doing? Hmm? Worried that you wasted so many years dating the wrong people, and now, you're just looking for a shortcut.”
 
 ## S12 E13 — The Confirmation Polarization
 URL: https://watchwiththekids.com/ep/big-bang-theory/1213.html
@@ -3732,25 +3714,23 @@ URL: https://watchwiththekids.com/ep/big-bang-theory/1215.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - And they say, for the best results, between now and then, you shouldn't have sex.
-  - My wife kept trying to have sex with me.
-  - Why are you trying to avoid having sex? Well, we just did it three weeks ago.
-- Nudity & bodies — 1 moment(s)
-  - Indian sushi? I need a change of underwear just thinking about that.
+  - “And they say, for the best results, between now and then, you shouldn't have sex.”
+  - “My wife kept trying to have sex with me.”
+  - “Why are you trying to avoid having sex? Well, we just did it three weeks ago.”
 - Alcohol & drugs — 3 moment(s)
-  - Can I get you something to drink? Maybe a beer? Sure, if you're having one.
-  - In high school, he could hear me open a can of beer in my closet under a blanket.
-  - That time you got drunk and stole a horse.
+  - “Can I get you something to drink? Maybe a beer? Sure, if you're having one.”
+  - “In high school, he could hear me open a can of beer in my closet under a blanket.”
+  - “That time you got drunk and stole a horse.”
 
 ## S12 E16 — The D & D Vortex
 URL: https://watchwiththekids.com/ep/big-bang-theory/1216.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - (stammers) Wait, if you think I'm lying, why do you think I'm eating pies? Why don't you think I'm having an affair? Listen, i-it's fine, just next time, bring me a slice.
+  - “(stammers) Wait, if you think I'm lying, why do you think I'm eating pies? Why don't you think I'm having an affair? Listen, i-it's fine, just next time, bring me a slice.”
 - Violence & injury — 2 moment(s)
-  - What-What's he doing there? Maybe he died in Wil's house and he can't leave until he solves his own murder.
-  - Oh, a-and that, uh, the guy that played the werewolf on-on True Blood, he was there.
+  - “What-What's he doing there? Maybe he died in Wil's house and he can't leave until he solves his own murder.”
+  - “Oh, a-and that, uh, the guy that played the werewolf on-on True Blood, he was there.”
 
 ## S12 E17 — The Conference Valuation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1217.html
@@ -3762,78 +3742,78 @@ URL: https://watchwiththekids.com/ep/big-bang-theory/1218.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Sometimes I forget you're smart because you're so sexy.
+  - “Sometimes I forget you're smart because you're so sexy.”
 - Affairs / cheating — 1 moment(s)
   - PEMBERTON: “Yeah, I wasn't trying to prove that my wife was cheating on me when I came home early one Friday, but I'm still sleeping on his couch.”
 - Violence & injury — 1 moment(s)
-  - What if, instead, I'm punching a meteor into the sun with my bare fists? So you have superpowers? I like the way you're thinking.
+  - “What if, instead, I'm punching a meteor into the sun with my bare fists? So you have superpowers? I like the way you're thinking.”
 - Swearing — 2 moment(s)
-  - Why? Because I don't want the whole world to know I was the frightened little astronaut! Maybe you should've called it The Bitchy Little Astronaut.
-  - We can also find out what's so damn funny about birds.
+  - “Why? Because I don't want the whole world to know I was the frightened little astronaut! Maybe you should've called it The Bitchy Little Astronaut.”
+  - “We can also find out what's so damn funny about birds.”
 
 ## S12 E19 — The Inspiration Deprivation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1219.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - Yeah, only condoms.
+  - “Yeah, only condoms.”
   - Pro tip: “if you find strong women sexy, do not say it out loud.”
 - Swearing — 3 moment(s)
-  - Emasculating? You were about to ride bitch on a moped with another man.
-  - I'm sorry, but you telling me what I can and can't do is pretty damn emasculating.
-  - Damn right, 'cause I'm a strong woman wearing a strong man's deodorant! Well, how about have a seat? Maybe you'd like a glass of water? You have anything with a little more kick? Seriously, Dr.
+  - “Emasculating? You were about to ride bitch on a moped with another man.”
+  - “I'm sorry, but you telling me what I can and can't do is pretty damn emasculating.”
+  - “Damn right, 'cause I'm a strong woman wearing a strong man's deodorant! Well, how about have a seat? Maybe you'd like a glass of water? You have anything with a little more kick? Seriously, Dr.”
 - Alcohol & drugs — 1 moment(s)
-  - You know what I like to do? Numb your brain with alcohol and watch a reality show where wealthy people pick fake arguments with each other? Hey, don't knock it until you've wasted a couple hundred hours of your life.
+  - “You know what I like to do? Numb your brain with alcohol and watch a reality show where wealthy people pick fake arguments with each other? Hey, don't knock it until you've wasted a couple hundred hours of your life.”
 
 ## S12 E20 — The Decision Reverberation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1220.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - I want to have sex.
-  - Wow, sex with your wife.
-  - Don't take this the wrong way, but that was even more exciting than the sex.
+  - “I want to have sex.”
+  - “Wow, sex with your wife.”
+  - “Don't take this the wrong way, but that was even more exciting than the sex.”
 
 ## S12 E21 — The Plagiarism Schism
 URL: https://watchwiththekids.com/ep/big-bang-theory/1221.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - And someone is sleeping with his ex-wife and it's not me.
+  - “And someone is sleeping with his ex-wife and it's not me.”
 - Porn / strippers / sex work — 3 moment(s)
   - Stripper or strip-club material shows up in the plot.
-  - We should hit up the buffet at the strip club while you're in town.
-  - Nothing beats a lap dance and a baked potato bar, huh? (chuckles) You can come, too.
+  - “We should hit up the buffet at the strip club while you're in town.”
+  - “Nothing beats a lap dance and a baked potato bar, huh? (chuckles) You can come, too.”
 - Violence & injury — 1 moment(s)
-  - Don't you think it's better to take the high road? Yeah, and instead of guns, armies should carry candy canes that shoot wishes.
+  - “Don't you think it's better to take the high road? Yeah, and instead of guns, armies should carry candy canes that shoot wishes.”
 - Swearing — 1 moment(s)
-  - What is going on here? I'm in love with Linda! You son of a bitch! (both grunting) That was my iced tea.
+  - “What is going on here? I'm in love with Linda! You son of a bitch! (both grunting) That was my iced tea.”
 - Alcohol & drugs — 1 moment(s)
-  - Are you drunk? I was, and then I still was.
+  - “Are you drunk? I was, and then I still was.”
 
 ## S12 E22 — The Maternal Conclusion
 URL: https://watchwiththekids.com/ep/big-bang-theory/1222.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - Fruit or naked dudes? Actually, it doesn't matter, I'm jealous of both.
-  - I mean, how often do you wear your superhero underwear now? - Only Fridays and my birthday.
+  - “Fruit or naked dudes? Actually, it doesn't matter, I'm jealous of both.”
+  - “I mean, how often do you wear your superhero underwear now? - Only Fridays and my birthday.”
 
 ## S12 E23 — The Change Constant; The Stockholm Syndrome
 URL: https://watchwiththekids.com/ep/big-bang-theory/1223.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - Heck, you've had sex almost as many times as I have fingers.
+  - “Heck, you've had sex almost as many times as I have fingers.”
 - Violence & injury — 2 moment(s)
-  - I slapped Sheldon.
-  - Waitress, uh, 95% Hawaiian Punch, five percent vodka.
+  - “I slapped Sheldon.”
+  - “Waitress, uh, 95% Hawaiian Punch, five percent vodka.”
 - Swearing — 3 moment(s)
-  - If my blood sugar drops and I get bitchy, it's on you.
-  - To hell with you and your Nobel Prize.
-  - No, but still, a-after all these years, after all the crap I've put up with, you'd think just this once he'd care about someone else's feelings.
+  - “If my blood sugar drops and I get bitchy, it's on you.”
+  - “To hell with you and your Nobel Prize.”
+  - “No, but still, a-after all these years, after all the crap I've put up with, you'd think just this once he'd care about someone else's feelings.”
 - Alcohol & drugs — 1 moment(s)
-  - Oh, you are a mean drunk.
+  - “Oh, you are a mean drunk.”
 
 ## S12 E90 — Unraveling The Mystery: A Big Bang Farewell
 URL: https://watchwiththekids.com/ep/big-bang-theory/1290.html
@@ -3841,12 +3821,12 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - Penis-first? Well, I think the most memorable prop that we have in here comes from season two.
+  - “Penis-first? Well, I think the most memorable prop that we have in here comes from season two.”
 - Violence & injury — 2 moment(s)
-  - Melissa trying to hit me - Punch you.
-  - "Punch you".
+  - “Melissa trying to hit me - Punch you.”
+  - “"Punch you".”
 - Swearing — 1 moment(s)
-  - Ah, gravity thou art a heartless bitch.
+  - “Ah, gravity thou art a heartless bitch.”
 - Alcohol & drugs — 2 moment(s)
-  - Remember the scene where we were sitting here, very early on? We were getting We were drunk.
-  - Not drunk in real life, but it was this And we got to - We were passing the lime back and forth.
+  - “Remember the scene where we were sitting here, very early on? We were getting We were drunk.”
+  - “Not drunk in real life, but it was this And we got to - We were passing the lime back and forth.”

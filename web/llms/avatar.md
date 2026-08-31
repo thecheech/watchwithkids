@@ -36,9 +36,6 @@ Watch for:
   - So, you know when you're punching...
   - It's one thing to be punching above your weight class, which a lot of us have done in life and-and, you know, you feel good about it, wut we do not want to be pointed out after the fact that you've been punching.
   - I was gonna say, two-one, two punch. Mako and Asami working together with both bending and nonbending.
-- Swearing — 2 moment(s)
-  - That... well, thank goodness you got away from that Moby Dick, uh, spirit.
-  - This-and they ended up in a kiss outta nowhere. That hit me, like, damn, I didn't know that was going to happen. And it was a good kiss, too. And it was a good kiss. That was a good kiss.
 
 ## Ep 4 — Ask the Creators featurette
 URL: https://watchwiththekids.com/ep/avatar/0004.html
@@ -115,10 +112,10 @@ Watch for:
   - There's a lot-bloodbending's going-a lotta things are going on where it, I mean, we are, you know, equality.
   - Will Korra and Mako expose Amon as the bloodbender he is?
   - He was always too afraid to bloodbend.
-  - The guns out.
-  - Whenever I see a Korra cosplayer, I always say, guns out. They're like, you-you know it. Guns out.
   - She did not pull any punches playing this character. Wasn't...
   - It is the one-two punch of being wildly talented, and also just being an absolute pleasure to be in a room with.
+  - The guns out.
+  - Whenever I see a Korra cosplayer, I always say, guns out. They're like, you-you know it. Guns out.
 
 ## Ep 12 — Book Two Begins: Avatar Wan's Origin Revealed with Creators Mike & Bryan
 URL: https://watchwiththekids.com/ep/avatar/0012.html
@@ -242,21 +239,19 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - I mean, if-if you, the Avatar, hooked up and became one with Raava, it makes sense that someone at some time is going to be one with Vaatu, and…
 - Violence & injury — 3 moment(s)
-  - Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing.
   - Yeah, it's really blood in the water. It's just, uh...
   - I have never said that in real life, lest I be punched in the face by whatever friend I was saying that to. But you can say it here.
+  - Like, I know where you're coming from, and we need to do that, but you try to come in guns-a-blazing.
 
 ## Ep 27 — Korra's Shocking Season Finale Decision Explained! with Adrian LaTourelle ("Unalaq")
 URL: https://watchwiththekids.com/ep/avatar/0027.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 3 moment(s)
+- Nudity & bodies — 1 moment(s)
   - So, first of all, they lay eggs, right? And they don't have n-can I say this? They don't have nipples. They secrete milk through their skins and their babies just, like, lick their bodies.
-  - And I was like, what is this crazy world? I can-I can do this-this job in my underwear, which I never did. Just wanna be clear. But you could.
-  - You could, but you'd be a strange one in the booth. Like, why is-why is Adrian coming in his underwear?
 - Violence & injury — 3 moment(s)
-  - I think, okay, now, now we have some-we have some-we have some guns.
   - You will always hold a special place in the organ that pumps my blood. I will remember you fondly, my turtle duck.
+  - I think, okay, now, now we have some-we have some-we have some guns.
   - [Refers to Korra punching UnaVaatu in the face before thrusting her hand into his chest to reach for the light within.] Ooh, boom. Left, right, right, left, into the chest.
 
 ## Ep 28 — Kung Fu featurette
@@ -361,8 +356,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/avatar/0039.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Look, he's bra-I just met him in this thing, this episode, I just met him.
 - Violence & injury — 12 moment(s)
   - ... uh, but I'm not sure. Uh, bendi-well, I think the metalbending is pretty cool, actually. So, there's the-the water, there's air, and the bloodbenders are really weird. They're the weird bender...
   - Those are evil people that are the bloodbenders, right?
@@ -383,9 +376,8 @@ Watch for:
 URL: https://watchwiththekids.com/ep/avatar/0040.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
-- Violence & injury — 4 moment(s)
+- Violence & injury — 3 moment(s)
   - "The Avatar Gets Bloodbent?! Feat. Special Guest Richard Epcar ("Saikhan")"
-  - I, I mean, we-the-the cabbage merchants are our punching bag.
   - I was like, I could see possible frame-ness, but I also could see, after years of us being punching bagging the cabbage man, after all these years, he's like, you know what?
   - Who's gonna hole punch? Who? Will? Hole punch?
 
@@ -394,10 +386,10 @@ URL: https://watchwiththekids.com/ep/avatar/0041.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 7 moment(s)
-  - She got guns out. Guns out. Guns are out, boy.
-  - I know. This is, uh, the-Korra's guns have inspired a lot of, like, fitness regimes. They're are, like, Facebook groups where people come in and make the commitment to, like, get Korra's guns.
   - She's a goner, the mother of bloodbending. The mother of...
   - Unless she's, like, bloodbending herself to, like, have, you know...
+  - She got guns out. Guns out. Guns are out, boy.
+  - I know. This is, uh, the-Korra's guns have inspired a lot of, like, fitness regimes. They're are, like, Facebook groups where people come in and make the commitment to, like, get Korra's guns.
   - It's not a big, you know, punch to the jaw or knockout shot, it's sort of, like, they're just blocking your chi, they're blocking your-so it's almost very delicate and very precise.
   - You're like, I can take a punch, I can take somebody firebending at me, I know what to do with that, but if you're just, like, tap tap tap tap tap, and, like, that debilitates me, how scary is that?
   - Which I think is the-is the great thing, which is why this episode is so successful. It doesn't really pull any punches. It just sort of leaves you with story. It's like, here you are.
@@ -505,10 +497,10 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Watch for:
 - Violence & injury — 5 moment(s)
   - Same moms, different dads; so what? We're blood, Lin, and after thirty years, the least you could do is say, "hello."
-  - She's using the old-school ones, which are like-almost like gun holsters on her sides, so she has to [Ian and Steve mimic drawing guns from their sides using their…
   - …video and animatic footage of Jake and the White Lotus sentries striking out before pulling back their punches as though hesitating.] take it from there, we send back overseas, we clean up the boards or take another…
   - …if it looks good and can't reference it, you know, we'll go with it, but for everything else, down to punches and kicks, it'll be martial arts referenced.
   - Cut to the Dai Li sergeant sending earth discs flying by punching and kicking at the air, with his trainees trying to ward off the projectiles with their airbending, only to suffer their full impact.
+  - She's using the old-school ones, which are like-almost like gun holsters on her sides, so she has to [Ian and Steve mimic drawing guns from their sides using their…
 
 ## Ep 56 — The Twist That Changed Everything: Bolin's Heroics in Night of a Thousand Stars
 URL: https://watchwiththekids.com/ep/avatar/0056.html
@@ -519,10 +511,10 @@ Watch for:
 - Violence & injury — 8 moment(s)
   - There's some bad business. There's bloodbending going on for crying out loud.
   - Bloodbending. There's this guy trying to take over the, whatever, Spirit World.
-  - Let's go. [Bolin rips off his damaged sleeves.] Hold up. Guns out.
-  - Gun's-sun's out, guns out.
   - It's uncomfortable for everybody because I think, again, I-as I've said many times, there's never bad blood between Asami and Korra.
   - Both series are-they go-they don't pull any punches, and they go super deep, and they ask really tough questions and tackle really tough things, and then are also, like, charming and hilarious and lovely.
+  - Let's go. [Bolin rips off his damaged sleeves.] Hold up. Guns out.
+  - Gun's-sun's out, guns out.
   - I feel like any Jason Statham movie, he could be, li-and then I had to just get up and, like, punch someone who was in my seat.
   - You know what? That, that fight, though, is so aggres-is so aggressive. I like a little bit of Bolin punched down a door.
 

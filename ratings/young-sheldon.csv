@@ -1,65 +1,65 @@
 season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
-1,1,0101,1. Pilot,1,1,3,3,10,Preview first — about 10+,Swearing — Son of a bitch.
+1,1,0101,1. Pilot,1,1,3,3,10,Preview first — about 10+,Swearing — “Son of a bitch.”
 1,2,0102,"2. Rockets, Communists, and the Dewey Decimal System",1,1,2,2,8,Mild — okay from about 8+,
-1,3,0103,"3. Poker, Faith, and Eggs",2,1,2,2,8,Mild — okay from about 8+,Violence & injury — They are my blood.
-1,4,0104,"4. A Therapist, a Comic Book and a Breakfast Sausage",3,2,2,3,10,Preview first — about 10+,"Sex & hookups — "" Did you know I was talking about sex? No."
-1,5,0105,"5. A Solar Calculator, a Game Ball and a Cheerleader's Bosom",2,1,2,2,8,Mild — okay from about 8+,"Violence & injury — Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight."
+1,3,0103,"3. Poker, Faith, and Eggs",2,1,2,2,8,Mild — okay from about 8+,Violence & injury — “They are my blood.”
+1,4,0104,"4. A Therapist, a Comic Book and a Breakfast Sausage",3,2,2,3,10,Preview first — about 10+,"Sex & hookups — “"" Did you know I was talking about sex? No.”"
+1,5,0105,"5. A Solar Calculator, a Game Ball and a Cheerleader's Bosom",2,1,2,2,8,Mild — okay from about 8+,"Violence & injury — “Has everyone lost their mind? He's a little boy, Tam! - Good night! - But Good Lord, that mouth of yours is a machine gun tonight.”"
 1,6,0106,"6. A Patch, a Modem, and a Zantac",1,1,2,2,8,Mild — okay from about 8+,
-1,7,0107,"7. A Brisket, Voodoo and Cannonball Run",1,1,3,3,10,Preview first — about 10+,"Swearing — : Connie, you evil bitch! It's smoother than regular coffee."
-1,8,0108,"8. Cape Canaveral, Shrodinger's Cat and Cyndi Lauper's Hair",3,2,2,3,10,Preview first — about 10+,Sex & hookups — Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]
-1,9,0109,"9. Spock, Kirk and Testicular Hernia",1,1,1,1,8,Usually fine — about 8+,Affairs / cheating — : Georgie cheated on the test.
-1,10,0110,"An Eagle Feather, a String Bean, and an Eskimo",1,1,1,1,8,Usually fine — about 8+,Alcohol & drugs — I used to buy my marijuana there.
-1,11,0111,"Demons, Sunday School and Prime Numbers",2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — But you do eat him, and drink his blood."
-1,12,0112,"A Computer, a Plastic Pony, and a Case of Beer",2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — If you switched to Hawaiian Punch, we could live in a bigger house."
-1,13,0113,"A Sneeze, Detention, and Sissy Spacek",2,1,2,2,8,Mild — okay from about 8+,"Sex & hookups — I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos."
-1,14,0114,"Potato Salad, a Broomstick, and Dad's Whiskey",1,1,1,1,8,Usually fine — about 8+,Violence & injury — What if you slip and stab me in the eye? I'm not gonna slip.
-1,15,0115,"Dolomite, Apple Slices, and a Mystery Woman",1,1,1,1,8,Usually fine — about 8+,Nudity & bodies — No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.
-1,16,0116,"Killer Asteroids, Oklahoma, and a Frizzy Hair Machine",1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — How many people saw you naked? A lot.
-1,17,0117,"Jiu-Jitsu, Bubble Wrap, and Yoo-hoo",2,1,2,2,8,Mild — okay from about 8+,Violence & injury — What's not okay is Sheldon gettin' beat up by a little girl.
-1,18,0118,"A Mother, a Child and a Blue Man's Backside",1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — You wouldn't forbid me from looking at Michelangelo's David just because he's nude.
+1,7,0107,"7. A Brisket, Voodoo and Cannonball Run",1,1,3,3,10,Preview first — about 10+,"Swearing — “: Connie, you evil bitch! It's smoother than regular coffee.”"
+1,8,0108,"8. Cape Canaveral, Shrodinger's Cat and Cyndi Lauper's Hair",3,2,2,3,10,Preview first — about 10+,Sex & hookups — “Why is she only like a virgin? - MARY: Good night! - [DOOR CLOSES.]”
+1,9,0109,"9. Spock, Kirk and Testicular Hernia",1,1,1,1,8,Usually fine — about 8+,Affairs / cheating — “: Georgie cheated on the test.”
+1,10,0110,"An Eagle Feather, a String Bean, and an Eskimo",1,1,1,1,8,Usually fine — about 8+,Alcohol & drugs — “I used to buy my marijuana there.”
+1,11,0111,"Demons, Sunday School and Prime Numbers",2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “But you do eat him, and drink his blood.”"
+1,12,0112,"A Computer, a Plastic Pony, and a Case of Beer",2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “If you switched to Hawaiian Punch, we could live in a bigger house.”"
+1,13,0113,"A Sneeze, Detention, and Sissy Spacek",2,1,2,2,8,Mild — okay from about 8+,"Sex & hookups — “I've got a refrigerator, I've got my sleeping bag, and anything else I need I can make out of Legos.”"
+1,14,0114,"Potato Salad, a Broomstick, and Dad's Whiskey",1,1,1,1,8,Usually fine — about 8+,Violence & injury — “What if you slip and stab me in the eye? I'm not gonna slip.”
+1,15,0115,"Dolomite, Apple Slices, and a Mystery Woman",1,1,1,1,8,Usually fine — about 8+,Nudity & bodies — “No So if you ask me It's called perfect cleavage when gypsum separates this cleanly.”
+1,16,0116,"Killer Asteroids, Oklahoma, and a Frizzy Hair Machine",1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — “How many people saw you naked? A lot.”
+1,17,0117,"Jiu-Jitsu, Bubble Wrap, and Yoo-hoo",2,1,2,2,8,Mild — okay from about 8+,Violence & injury — “What's not okay is Sheldon gettin' beat up by a little girl.”
+1,18,0118,"A Mother, a Child and a Blue Man's Backside",1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — “You wouldn't forbid me from looking at Michelangelo's David just because he's nude.”
 1,19,0119,"Gluons, Guacamole, and the Color Purple",1,1,2,2,8,Mild — okay from about 8+,
-1,20,0120,"A Dog, a Squirrel, and a Fish Named Fish",3,1,3,3,10,Preview first — about 10+,Nudity & bodies — Now I'm looking at you in your underwear.
+1,20,0120,"A Dog, a Squirrel, and a Fish Named Fish",3,1,3,3,10,Preview first — about 10+,Nudity & bodies — “Now I'm looking at you in your underwear.”
 1,21,0121,"Summer Sausage, a Pocket Poncho, and Tony Danza",1,1,1,1,8,Usually fine — about 8+,
 1,22,0122,"Vanilla Ice Cream, Gentleman Callers, and a Dinette Set",1,1,2,2,8,Mild — okay from about 8+,
-2,1,0201,1. A High-Pitched Buzz and Training Wheels,1,1,1,1,8,Usually fine — about 8+,Nudity & bodies — Jessica Gieger wears a black bra.
-2,2,0202,2. A Rival Prodigy and Sir Isaac Neutron,1,1,2,2,8,Mild — okay from about 8+,"Sex & hookups — While she's gone, you want to make out? Sure."
-2,3,0203,3. A Crisis of Faith and Octopus Aliens,1,2,2,2,8,Mild — okay from about 8+,Nudity & bodies — Casper runs around butt naked.
-2,4,0204,4. A Financial Secret and Fish Sauce,1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — I slept in the nude last night.
-2,5,0205,5. A Research Study and Czechoslovakian Wedding Pastries,2,1,1,2,8,Mild — okay from about 8+,"Sex & hookups — Ooh, you sexy little thing."
-2,6,0206,6. Seven Deadly Sins and a Small Carl Sagan,2,2,2,2,8,Mild — okay from about 8+,Sex & hookups — Are you my make out partner? No.
-2,7,0207,7. Carbon Dating and a Stuffed Raccoon,1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — Don't you get him another beer.
-2,8,0208,8. An 8-Bit Princess and a Flat Tire Genius,1,1,3,3,10,Preview first — about 10+,"Nudity & bodies — It's got those pointy cups, look like Madonna's bra."
-2,9,0209,9. Family Dynamics and a Red Fiero,1,2,2,2,8,Mild — okay from about 8+,Nudity & bodies — Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.
-2,10,0210,A Stunted Childhood and a Can of Fancy Mixed Nuts,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No."
+2,1,0201,1. A High-Pitched Buzz and Training Wheels,1,1,1,1,8,Usually fine — about 8+,Nudity & bodies — “Jessica Gieger wears a black bra.”
+2,2,0202,2. A Rival Prodigy and Sir Isaac Neutron,1,1,2,2,8,Mild — okay from about 8+,"Sex & hookups — “While she's gone, you want to make out? Sure.”"
+2,3,0203,3. A Crisis of Faith and Octopus Aliens,1,2,2,2,8,Mild — okay from about 8+,Nudity & bodies — “Casper runs around butt naked.”
+2,4,0204,4. A Financial Secret and Fish Sauce,1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — “I slept in the nude last night.”
+2,5,0205,5. A Research Study and Czechoslovakian Wedding Pastries,2,1,1,2,8,Mild — okay from about 8+,"Sex & hookups — “Ooh, you sexy little thing.”"
+2,6,0206,6. Seven Deadly Sins and a Small Carl Sagan,2,2,2,2,8,Mild — okay from about 8+,Sex & hookups — “Are you my make out partner? No.”
+2,7,0207,7. Carbon Dating and a Stuffed Raccoon,1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — “Don't you get him another beer.”
+2,8,0208,8. An 8-Bit Princess and a Flat Tire Genius,1,1,3,3,10,Preview first — about 10+,"Nudity & bodies — “It's got those pointy cups, look like Madonna's bra.”"
+2,9,0209,9. Family Dynamics and a Red Fiero,1,2,2,2,8,Mild — okay from about 8+,Nudity & bodies — “Are we sleeping there? Do I need to bring pajamas? Just sleep in your underwear.”
+2,10,0210,A Stunted Childhood and a Can of Fancy Mixed Nuts,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “That's when the bloodthirsty Goatman Part goat, part man - Crept up on the sleeping children - No.”"
 2,11,0211,A Race of Superhumans and a Letter to Alf,1,1,2,2,8,Mild — okay from about 8+,"Nudity & bodies — GEORGIE: “Now if for instance she and I were to go skinny dipping and one thing were to lead to another under the moonlit sky, get this: not only do I become a devout Christian, I will also bug everybody I meet to do the same.”"
-2,12,0212,A Tummy Ache and a Whale of a Metaphor,1,1,2,2,8,Mild — okay from about 8+,Nudity & bodies — It's either cartoons or men in their underwear banging their heads together.
-2,13,0213,A Nuclear Reactor And a Boy Called Lovey,2,2,2,2,8,Mild — okay from about 8+,"Sex & hookups — And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light."
-2,14,0214,"David, Goliath, and a Yoo-Hoo from the Back",2,1,3,3,10,Preview first — about 10+,"Violence & injury — BOY: Face-punching time! Jason, let's do it! [CHANTING.]"
-2,15,0215,A Math Emergency and Perky Palms,1,1,1,1,8,Usually fine — about 8+,Sex & hookups — They're having sexual problems.
-2,16,0216,A Loaf of Bread and a Grand Old Flag,2,1,2,2,8,Mild — okay from about 8+,Violence & injury — Did you use one knife for the PB and the J? - No.
-2,17,0217,Albert Einstein and the Story of Another Mary,1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — Take a few beers.
-2,18,0218,A Perfect Score and a Bunsen Burner Marshmallow,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear."
-2,19,0219,A Political Campaign and a Candy Land Cheater,1,1,1,1,8,Usually fine — about 8+,"Violence & injury — ""Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning."
-2,20,0220,A Proposal and a Popsicle Stick Cross,1,2,2,2,8,Mild — okay from about 8+,"Sex & hookups — If you're sleeping with the man, you should be married to him."
+2,12,0212,A Tummy Ache and a Whale of a Metaphor,1,1,2,2,8,Mild — okay from about 8+,Nudity & bodies — “It's either cartoons or men in their underwear banging their heads together.”
+2,13,0213,A Nuclear Reactor And a Boy Called Lovey,2,2,2,2,8,Mild — okay from about 8+,"Sex & hookups — “And why do you think that is? Well, I don't want to point any fingers, but Missy sleeps with a night-light.”"
+2,14,0214,"David, Goliath, and a Yoo-Hoo from the Back",2,1,3,3,10,Preview first — about 10+,"Violence & injury — “BOY: Face-punching time! Jason, let's do it! [CHANTING.]”"
+2,15,0215,A Math Emergency and Perky Palms,1,1,1,1,8,Usually fine — about 8+,Sex & hookups — “They're having sexual problems.”
+2,16,0216,A Loaf of Bread and a Grand Old Flag,2,1,2,2,8,Mild — okay from about 8+,Violence & injury — “Did you use one knife for the PB and the J? - No.”
+2,17,0217,Albert Einstein and the Story of Another Mary,1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — “Take a few beers.”
+2,18,0218,A Perfect Score and a Bunsen Burner Marshmallow,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — “And, on top of that, I got to pack a suitcase, which is like playing Tetris but with underwear.”"
+2,19,0219,A Political Campaign and a Candy Land Cheater,1,1,1,1,8,Usually fine — about 8+,"Violence & injury — “""Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.”"
+2,20,0220,A Proposal and a Popsicle Stick Cross,1,2,2,2,8,Mild — okay from about 8+,"Sex & hookups — “If you're sleeping with the man, you should be married to him.”"
 2,21,0221,A Broken Heart and a Crock Monster,1,1,1,1,8,Usually fine — about 8+,
-2,22,0222,A Swedish Science Thing and the Equation for Toast,1,1,2,2,8,Mild — okay from about 8+,Nudity & bodies — Laundry services? Your poor mother has to touch your underwear.
-3,1,0301,1. Quirky Eggheads and Texas Snow Globes,1,1,2,2,8,Mild — okay from about 8+,"Violence & injury — Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast."
-3,2,0302,2. A Broom Closet and Satan's Monopoly Board,1,1,3,3,10,Preview first — about 10+,Sex & hookups — : sexual immorality.
+2,22,0222,A Swedish Science Thing and the Equation for Toast,1,1,2,2,8,Mild — okay from about 8+,Nudity & bodies — “Laundry services? Your poor mother has to touch your underwear.”
+3,1,0301,1. Quirky Eggheads and Texas Snow Globes,1,1,2,2,8,Mild — okay from about 8+,"Violence & injury — “Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.”"
+3,2,0302,2. A Broom Closet and Satan's Monopoly Board,1,1,3,3,10,Preview first — about 10+,Sex & hookups — “: sexual immorality.”
 3,3,0303,3. An Entrepreneurialist and a Swat on the Bottom,1,1,2,2,8,Mild — okay from about 8+,
-3,4,0304,"4. Hobbitses, Physicses and a Ball with Zip",2,1,1,2,8,Mild — okay from about 8+,Nudity & bodies — Now he runs around naked and bites the heads off fish.
-3,5,0305,5. A Pineapple and the Bosom of Male Friendship,1,1,1,1,8,Usually fine — about 8+,Alcohol & drugs — I'm gonna get another beer.
-3,6,0306,6. A Parasol and a Hell of an Arm,1,1,2,2,8,Mild — okay from about 8+,Violence & injury — Uh-oh! Dad's bringing in the big guns.
-3,7,0307,7. Pongo Pygmaeus and a Culture that Encourages Spitting,2,1,3,3,10,Preview first — about 10+,"Nudity & bodies — See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose."
-3,8,0308,8. The Sin of Greed and a Chimichanga from Chi-Chi's,1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — I was wondering if we could go out for a beer and talk.
-3,9,0309,"9. A Party Invitation, Football Grapes and an Earth Chicken",1,1,1,1,8,Usually fine — about 8+,"Alcohol & drugs — Well, when that happens to me, I have another beer."
-3,10,0310,Teenager Soup and a Little Ball of Fib,1,1,2,2,8,Mild — okay from about 8+,"Nudity & bodies — In fact, he sold me an athletic supporter to protect my genitals."
-3,11,0311,"A Live Chicken, a Fried Chicken and Holy Matrimony",2,1,2,2,8,Mild — okay from about 8+,Violence & injury — To be murdered.
+3,4,0304,"4. Hobbitses, Physicses and a Ball with Zip",2,1,1,2,8,Mild — okay from about 8+,Nudity & bodies — “Now he runs around naked and bites the heads off fish.”
+3,5,0305,5. A Pineapple and the Bosom of Male Friendship,1,1,1,1,8,Usually fine — about 8+,Alcohol & drugs — “I'm gonna get another beer.”
+3,6,0306,6. A Parasol and a Hell of an Arm,1,1,2,2,8,Mild — okay from about 8+,Violence & injury — “Uh-oh! Dad's bringing in the big guns.”
+3,7,0307,7. Pongo Pygmaeus and a Culture that Encourages Spitting,2,1,3,3,10,Preview first — about 10+,"Nudity & bodies — “See, I get to wander around my house in my underwear, and I can make whatever bodily noises I choose whenever I choose.”"
+3,8,0308,8. The Sin of Greed and a Chimichanga from Chi-Chi's,1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — “I was wondering if we could go out for a beer and talk.”
+3,9,0309,"9. A Party Invitation, Football Grapes and an Earth Chicken",1,1,1,1,8,Usually fine — about 8+,"Alcohol & drugs — “Well, when that happens to me, I have another beer.”"
+3,10,0310,Teenager Soup and a Little Ball of Fib,1,1,2,2,8,Mild — okay from about 8+,"Nudity & bodies — “In fact, he sold me an athletic supporter to protect my genitals.”"
+3,11,0311,"A Live Chicken, a Fried Chicken and Holy Matrimony",2,1,2,2,8,Mild — okay from about 8+,Violence & injury — “To be murdered.”
 3,12,0312,Body Glitter and a Mall Safety Kit,1,1,2,2,8,Mild — okay from about 8+,
-3,13,0313,"Contracts, Rules and a Little Bit of Pig Brains",1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — I'm calling to confirm a time for beer and socializing this weekend.
-3,14,0314,"A Slump, a Cross and Roadside Gravel",2,1,2,2,8,Mild — okay from about 8+,"Violence & injury — ""Sell blood or non-vital organs."
-3,15,0315,A Boyfriend's Ex-Wife and a Good Luck Head Rub,1,2,2,2,8,Mild — okay from about 8+,"Nudity & bodies — Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club."
-3,16,0316,Pasadena,1,1,1,1,8,Usually fine — about 8+,Alcohol & drugs — Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.
-3,17,0317,An Academic Crime and a More Romantic Taco Bell,1,1,1,1,8,Usually fine — about 8+,"Alcohol & drugs — But when I said ""snacks,"" I mean wine."
+3,13,0313,"Contracts, Rules and a Little Bit of Pig Brains",1,1,2,2,8,Mild — okay from about 8+,Alcohol & drugs — “I'm calling to confirm a time for beer and socializing this weekend.”
+3,14,0314,"A Slump, a Cross and Roadside Gravel",2,1,2,2,8,Mild — okay from about 8+,"Violence & injury — “""Sell blood or non-vital organs.”"
+3,15,0315,A Boyfriend's Ex-Wife and a Good Luck Head Rub,1,2,2,2,8,Mild — okay from about 8+,"Nudity & bodies — “Well, did he tell you that I was naked when he locked me out? No! Why did he do that? 'Cause I was trying to hit him with a golf club.”"
+3,16,0316,Pasadena,1,1,1,1,8,Usually fine — about 8+,Alcohol & drugs — “Imagine if you got a chance to see Jesus or Dad got to meet the man who invented beer.”
+3,17,0317,An Academic Crime and a More Romantic Taco Bell,1,1,1,1,8,Usually fine — about 8+,"Alcohol & drugs — “But when I said ""snacks,"" I mean wine.”"
 3,18,0318,A Couple Bruised Ribs and a Cereal Box Ghost Detector,1,3,3,3,10,Preview first — about 10+,"Sex & hookups — You sleeping with her? - Lord, no."
 3,19,0319,A House for Sale and Serious Woman Stuff,3,1,2,3,10,Preview first — about 10+,Violence & injury — Has there ever been a murder next door? I sure hope so.
 3,20,0320,A Baby Tooth and the Egyptian God of Knowledge,2,2,2,2,8,Mild — okay from about 8+,"Nudity & bodies — So don't be surprised if everybody knows my name, how I take my whiskey and the color of my lucky bra."

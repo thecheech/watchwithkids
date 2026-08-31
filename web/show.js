@@ -506,7 +506,8 @@
     const visible = filtered.slice(start, start + PAGE_SIZE);
 
     els.hint.textContent = conf.hint;
-    els.stats.textContent = `🎉 ${filtered.length} ${conf.stats}${themeNote}`;
+    const noun = conf.stats === "episodes" && filtered.length === 1 ? "episode" : conf.stats;
+    els.stats.textContent = `🎉 ${filtered.length} ${noun}${themeNote}`;
     els.empty.classList.toggle("hidden", filtered.length > 0);
     els.list.innerHTML = visible.map((ep, i) => renderCard(ep, i)).join("");
     renderListPager(filtered.length, pages, start);

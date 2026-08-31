@@ -86,7 +86,7 @@
             "group": "violence",
             "how": "Bandit: “Bingo! For the last time, use a knife and”",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -94,7 +94,7 @@
                 "speaker": "Bandit",
                 "text": "Bingo! For the last time, use a knife and",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -607,38 +607,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "The Shopkeeper stands up, humming, and yanks down his underwear.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The Shopkeeper stands up, humming, and yanks down his underwear.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — The Shopkeeper stands up, humming, and yanks down his underwear."
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -1547,7 +1524,7 @@
             "group": "violence",
             "how": "Bandit walks back to the kitchen, only to trip over a block. Bluey giggles, and the shot cuts to the kitchen, with Bandit just now starting on the cake. He reads over the book while hovering a knife above the cake base.",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -1555,7 +1532,7 @@
                 "speaker": null,
                 "text": "Bandit walks back to the kitchen, only to trip over a block. Bluey giggles, and the shot cuts to the kitchen, with Bandit just now starting on the cake. He reads over the book while hovering a knife above the cake base.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -1563,7 +1540,7 @@
                 "speaker": null,
                 "text": "Bandit cuts down a little too rough, causing the knife to slice the head in half.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -1894,38 +1871,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "She takes off a thong, and raising it as a weapon, chases Bandit offscreen. Rad and Stripe laugh.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "She takes off a thong, and raising it as a weapon, chases Bandit offscreen. Rad and Stripe laugh.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — She takes off a thong, and raising it as a weapon, chases Bandit offscreen. Rad and Stripe laugh."
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -2312,7 +2266,7 @@
             "group": "violence",
             "how": "Checkout Lady: “Hey, would you kids like to try my beeper gun?”",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -2320,7 +2274,7 @@
                 "speaker": "Checkout Lady",
                 "text": "Hey, would you kids like to try my beeper gun?",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -2356,46 +2310,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Snickers, carrying a water gun, runs in behind her and fills the water gun.",
-            "count": 2,
-            "intensity": 2,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Snickers, carrying a water gun, runs in behind her and fills the water gun.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "As Snickers finishes filling the water gun, Honey hides beside the kitchen door, tail wagging. He runs past her, and she nails him in the back with her water balloon.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Violence & injury — Snickers, carrying a water gun, runs in behind her and fills the water gun."
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -2517,7 +2440,7 @@
             "group": "violence",
             "how": "Stripe playfully points finger guns at Bluey and Bingo.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -2525,7 +2448,7 @@
                 "speaker": null,
                 "text": "Stripe playfully points finger guns at Bluey and Bingo.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -2732,7 +2655,7 @@
             "group": "violence",
             "how": "A docket boy is going down the aisle with a pricing gun.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -2740,7 +2663,7 @@
                 "speaker": null,
                 "text": "A docket boy is going down the aisle with a pricing gun.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -2904,46 +2827,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Bingo walks up to a bookshelf and puts several things in her backpack: a flashlight, a pair of underwear, a pair of socks and a green tie.",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Bingo walks up to a bookshelf and puts several things in her backpack: a flashlight, a pair of underwear, a pair of socks and a green tie.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "She is wearing the pair of underwear she gathered earlier on her head as a beanie.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — Bingo walks up to a bookshelf and puts several things in her backpack: a flashlight, a pair of underwear, a pair of socks and a green tie."
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -3065,7 +2957,7 @@
             "group": "violence",
             "how": "Muffin: “Now I'll cut it into twiangles.. (knocks around the shop once more as she searches it) where's the knife?”",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -3073,7 +2965,7 @@
                 "speaker": "Muffin",
                 "text": "Now I'll cut it into twiangles.. (knocks around the shop once more as she searches it) where's the knife?",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -3081,7 +2973,7 @@
                 "speaker": "Muffin",
                 "text": "Here's the knife. (she ends up picking up a toy carrot)",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -3147,7 +3039,7 @@
             "group": "violence",
             "how": "Bandit: “Time to bring out the big guns! (He digs his fingers into her sides) Tickle, tickle, tickle, tickle, tickle, tickle, tickle, tickle!”",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "dialogue",
             "instances": [
               {
@@ -3155,7 +3047,7 @@
                 "speaker": "Bandit",
                 "text": "Time to bring out the big guns! (He digs his fingers into her sides) Tickle, tickle, tickle, tickle, tickle, tickle, tickle, tickle!",
                 "mode": "dialogue",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -3427,7 +3319,7 @@
             "group": "violence",
             "how": "The song ends with the parcel in Jasper's hands. He opens it, revealing an octopus-themed water pistol. He holds it aloft, tail wagging furiously!",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -3435,7 +3327,7 @@
                 "speaker": null,
                 "text": "The song ends with the parcel in Jasper's hands. He opens it, revealing an octopus-themed water pistol. He holds it aloft, tail wagging furiously!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -3443,7 +3335,7 @@
                 "speaker": null,
                 "text": "In the dining room, Jasper's Mum is wrapping Pass the Parcel. Jasper walks up, carrying his water pistol.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -3696,28 +3588,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Two pieces of underwear, one sock, and one shirt land on the car.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Two pieces of underwear, one sock, and one shirt land on the car.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -3742,7 +3615,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Two pieces of underwear, one sock, and one shirt land on the car.",
         "Violence & injury — It shows the tap dripping water. Muffin is seen putting the wheel back on the car, which she starts punching the wheel into place. Bingo and Socks are finishing up the “no mushrooms” pizza."
       ],
       "notes": null,
@@ -4760,7 +4632,7 @@
             "group": "violence",
             "how": "We see her gun at the bottom of the screen Bandit runs across the screen from right to left.",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -4768,7 +4640,7 @@
                 "speaker": null,
                 "text": "We see her gun at the bottom of the screen Bandit runs across the screen from right to left.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -4776,7 +4648,7 @@
                 "speaker": null,
                 "text": "Cut to a wider shot. Bluey lurks beside the door, a mischeivous grin on her face. Her toy gun makes a charging-up noise.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -5252,8 +5124,8 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "Bandit enters, carrying some pool noodles and a water pistol.",
-            "count": 2,
-            "intensity": 2,
+            "count": 1,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -5261,15 +5133,7 @@
                 "speaker": null,
                 "text": "Bandit enters, carrying some pool noodles and a water pistol.",
                 "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Bandit squirts the water gun at Chilli.",
-                "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -5663,8 +5527,7 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Alcohol & drugs",
-          "Racism & slurs"
+          "Alcohol & drugs"
         ],
         "watch_detail": [
           {
@@ -5684,24 +5547,6 @@
                 "at": "late"
               }
             ]
-          },
-          {
-            "theme": "Racism & slurs",
-            "group": "bias",
-            "how": "Bandit: “Ka-[racial slur]!”",
-            "count": 1,
-            "intensity": 3,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Bandit",
-                "text": "Ka-[racial slur]!",
-                "mode": "dialogue",
-                "intensity": 3,
-                "at": "early"
-              }
-            ]
           }
         ],
         "optional": [],
@@ -5709,8 +5554,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Bluey wiggles her hips cheekily. Chilli looks at the weed she is holding and throws it aside.",
-        "Racism & slurs — Bandit: “Ka-[racial slur]!”"
+        "Alcohol & drugs — Bluey wiggles her hips cheekily. Chilli looks at the weed she is holding and throws it aside."
       ],
       "notes": null,
       "flags": [],
