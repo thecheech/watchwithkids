@@ -15,6 +15,7 @@ DISPLAY = {
     "bluey": ("Bluey", "blueypedia.fandom.com"),
     "bobs-burgers": ("Bob's Burgers", "springfieldspringfield.co.uk"),
     "brooklyn-nine-nine": ("Brooklyn Nine-Nine", "springfieldspringfield.co.uk"),
+    "family-guy": ("Family Guy", "springfieldspringfield.co.uk"),
     "fresh-prince": ("The Fresh Prince of Bel-Air", "springfieldspringfield.co.uk"),
     "full-house": ("Full House", "springfieldspringfield.co.uk"),
     "futurama": ("Futurama", "theinfosphere.org"),
@@ -24,11 +25,14 @@ DISPLAY = {
     "modern-family": ("Modern Family", "springfieldspringfield.co.uk"),
     "parks-and-recreation": ("Parks and Recreation", "springfieldspringfield.co.uk"),
     "phineas-and-ferb": ("Phineas and Ferb", "phineasandferb.fandom.com"),
+    "rick-and-morty": ("Rick and Morty", "springfieldspringfield.co.uk"),
     "seinfeld": ("Seinfeld", "seinfeldscripts.com"),
     "simpsons": ("The Simpsons", "Todd Schneider dataset (via GitHub)"),
+    "south-park": ("South Park", "springfieldspringfield.co.uk"),
     "spongebob": ("SpongeBob SquarePants", "spongebob.fandom.com"),
     "steven-universe": ("Steven Universe", "steven-universe.fandom.com"),
     "the-office": ("The Office (US)", "brianbuie/the-office (GitHub)"),
+    "young-sheldon": ("Young Sheldon", "springfieldspringfield.co.uk"),
 }
 
 

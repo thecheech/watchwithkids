@@ -21,6 +21,12 @@ READY = [
     "the-office",
     "how-i-met-your-mother",
     "big-bang-theory",
+    "young-sheldon",
+    "malcolm-in-the-middle",
+    "rick-and-morty",
+    "family-guy",
+    "south-park",
+    "futurama",
 ]
 
 SHOW_PAGE = {
@@ -47,6 +53,30 @@ SHOW_PAGE = {
     "big-bang-theory": {
         "name": "The Big Bang Theory",
         "h1": 'The Big Bang Theory <span class="pop">🔬</span>',
+    },
+    "young-sheldon": {
+        "name": "Young Sheldon",
+        "h1": 'Young Sheldon <span class="pop">🧪</span>',
+    },
+    "malcolm-in-the-middle": {
+        "name": "Malcolm in the Middle",
+        "h1": 'Malcolm in the Middle <span class="pop">🛼</span>',
+    },
+    "rick-and-morty": {
+        "name": "Rick and Morty",
+        "h1": 'Rick and Morty <span class="pop">🌀</span>',
+    },
+    "family-guy": {
+        "name": "Family Guy",
+        "h1": 'Family Guy <span class="pop">🐶</span>',
+    },
+    "south-park": {
+        "name": "South Park",
+        "h1": 'South Park <span class="pop">🏔️</span>',
+    },
+    "futurama": {
+        "name": "Futurama",
+        "h1": 'Futurama <span class="pop">🚀</span>',
     },
 }
 

@@ -133,6 +133,12 @@ FINE_BY_SHOW = {
     "spongebob": ["Cartoon slapstick", "Kid-adventure silliness"],
     "how-i-met-your-mother": ["Friend-group hangouts", "Bar / apartment sitcom banter"],
     "big-bang-theory": ["Nerd / science humor", "Friend-group hangouts"],
+    "young-sheldon": ["Family sitcom", "Science / school humor"],
+    "malcolm-in-the-middle": ["Family sitcom chaos", "Sibling comedy"],
+    "rick-and-morty": ["Sci-fi adventure comedy", "Dimension-hopping hijinks"],
+    "family-guy": ["Cutaway gag comedy", "Animated family satire"],
+    "south-park": ["Animated satire", "Town-wide misadventures"],
+    "futurama": ["Sci-fi sitcom", "Future delivery-crew adventures"],
 }
 
 

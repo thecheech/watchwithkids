@@ -127,6 +127,15 @@ SHOW_META = {
         "name": "The Big Bang Theory",
         "maze": "The Big Bang Theory",
     },
+    "young-sheldon": {"name": "Young Sheldon", "maze": "Young Sheldon"},
+    "malcolm-in-the-middle": {
+        "name": "Malcolm in the Middle",
+        "maze": "Malcolm in the Middle",
+    },
+    "rick-and-morty": {"name": "Rick and Morty", "maze": "Rick and Morty"},
+    "family-guy": {"name": "Family Guy", "maze": "Family Guy"},
+    "south-park": {"name": "South Park", "maze": "South Park"},
+    "futurama": {"name": "Futurama", "maze": "Futurama"},
 }
 
 

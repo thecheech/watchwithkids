@@ -221,12 +221,18 @@
     "premiered": "1999",
     "runtime": null,
     "summary": "Futurama follows pizza guy Philip J. Fry, who reawakens in 31st century New New York after a cryonics lab accident. Now part of the Planet Express delivery crew, Fry travels to the farthest reaches of the universe with his robot buddy Bender and cyclopsian love interest Leela, discovering freaky mutants, intergalactic conspiracies and other strange stuff.",
-    "ready": false,
+    "ready": true,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/futurama.jpg",
     "blurb": "Futurama follows pizza guy Philip J. Fry, who reawakens in 31st century New New York after a cryonics lab accident. Now part of the Planet…",
-    "href": null
+    "href": "futurama.html",
+    "mix": {
+      "safe": 0,
+      "maybe": 53,
+      "skip": 88,
+      "total": 141
+    }
   },
   {
     "id": "malcolm-in-the-middle",
@@ -240,12 +246,18 @@
     "premiered": "2000",
     "runtime": null,
     "summary": "In the words of They Might Be Giants' rollicking Grammy-winning theme song, \"life is unfair.\" The inventive and wholly original sitcom Malcolm in the Middle has been honored with a Peabody Award and Emmys for directing and writing, but if life was fair, it would have earned an Emmy for Best Comedy Series, not to mention statuettes for its pitch-perfect cast. With his perpetual \"yes, me worry\" expression, Frankie Muniz instantly earns audience empathy as Malcolm, whose chances for a normal life are thwarted not only by his genius IQ, but also by his outrageously dysfunctional family: Lois, his obsessive, control-freak mother; Hal, his loving but ineffectual father; Francis, his eldest brother waging his own private war at military school; middle brother Reese, a delinquent savant; and Dewey, the put-upon youngest. As Malcolm observes at one point, \"This family may be rude, loud and gross, and have no shame whatsoever, but with them you know where you stand.\"",
-    "ready": false,
+    "ready": true,
     "coverW": 1280,
     "coverH": 720,
     "coverLocal": "covers/malcolm-in-the-middle.jpg",
     "blurb": "In the words of They Might Be Giants' rollicking Grammy-winning theme song, \"life is unfair.\" The inventive and wholly original sitcom…",
-    "href": null
+    "href": "malcolm-in-the-middle.html",
+    "mix": {
+      "safe": 56,
+      "maybe": 86,
+      "skip": 9,
+      "total": 151
+    }
   },
   {
     "id": "bobs-burgers",
@@ -457,5 +469,109 @@
     "coverLocal": "covers/fresh-prince.jpg",
     "blurb": "Will Smith plays a young man transplanted from the tough streets of Philadelphia to live with his wealthy Bel-Air relatives, causing…",
     "href": null
+  },
+  {
+    "id": "young-sheldon",
+    "name": "Young Sheldon",
+    "mazeId": 26020,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/167/419118.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "premiered": "2017",
+    "runtime": 30,
+    "summary": "For young Sheldon Cooper, it isn't easy growing up in East Texas. Being a once-in-a-generation mind capable of advanced mathematics and science isn't always helpful in a land where church and football are king. And while the vulnerable, gifted and somewhat naïve Sheldon deals with the world, his very normal family must find a way to deal with him. His father, George, is struggling to find his way as a high school football coach and as father to a boy he doesn't understand. Sheldon's mother, Mary, fiercely protects and nurtures her son in a town where he just doesn't fit in. Sheldon's older brother, Georgie, does the best he can in high school, but it's tough to be cool when you're in the same classes with your odd younger brother. Sheldon's twin sister, Missy, sometimes resents all the attention Sheldon gets, but also remains the one person who can reliably tell Sheldon the truth. Finally, there's Sheldon's beloved Meemaw, his foul-mouthed, hard-drinking Texas grandmother who is very supportive of her grandson and his unique gifts. For 12 years on The Big Bang Theory, audiences have come to know the iconic, eccentric, and extraordinary Sheldon Cooper. This single-camera, half-hour comedy allows us the chance to meet him in childhood, as he embarks on his innocent, awkward, and hopeful journey toward the man he will become.",
+    "ready": true,
+    "coverW": 1920,
+    "coverH": 1080,
+    "coverLocal": "covers/young-sheldon.jpg",
+    "blurb": "For young Sheldon Cooper, it isn't easy growing up in East Texas. Being a once-in-a-generation mind…",
+    "href": "young-sheldon.html",
+    "mix": {
+      "safe": 84,
+      "maybe": 51,
+      "skip": 6,
+      "total": 141
+    }
+  },
+  {
+    "id": "rick-and-morty",
+    "name": "Rick and Morty",
+    "mazeId": 216,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/90/225679.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Science-Fiction"
+    ],
+    "premiered": "2013",
+    "runtime": 30,
+    "summary": "Rick is a mentally gifted, but sociopathic and alcoholic scientist and a grandfather to Morty; an awkward, impressionable, and somewhat spineless teenage boy. Rick moves into the family home of Morty, where he immediately becomes a bad influence.",
+    "ready": true,
+    "coverW": 2981,
+    "coverH": 1750,
+    "coverLocal": "covers/rick-and-morty.jpg",
+    "blurb": "Rick is a mentally gifted, but sociopathic and alcoholic scientist and a grandfather to Morty; an aw…",
+    "href": "rick-and-morty.html",
+    "mix": {
+      "safe": 0,
+      "maybe": 1,
+      "skip": 81,
+      "total": 82
+    }
+  },
+  {
+    "id": "family-guy",
+    "name": "Family Guy",
+    "mazeId": 84,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/218/547438.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "premiered": "1999",
+    "runtime": 30,
+    "summary": "Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.",
+    "ready": true,
+    "coverW": 1920,
+    "coverH": 1080,
+    "coverLocal": "covers/family-guy.jpg",
+    "blurb": "Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of…",
+    "href": "family-guy.html",
+    "mix": {
+      "safe": 11,
+      "maybe": 96,
+      "skip": 349,
+      "total": 456
+    }
+  },
+  {
+    "id": "south-park",
+    "name": "South Park",
+    "mazeId": 112,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/75/188107.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy"
+    ],
+    "premiered": "1997",
+    "runtime": 30,
+    "summary": "South Park is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.",
+    "ready": true,
+    "coverW": 1280,
+    "coverH": 720,
+    "coverLocal": "covers/south-park.jpg",
+    "blurb": "South Park is an adult comedy animation show centred around 4 children in the small town of south pa…",
+    "href": "south-park.html",
+    "mix": {
+      "safe": 1,
+      "maybe": 19,
+      "skip": 315,
+      "total": 335
+    }
   }
 ]
