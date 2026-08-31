@@ -7,6 +7,7 @@ Buckets: 67 all clear (1–2), 71 gray area (3), 48 hard pass (4–5).
 ## S1 E1 — Pilot
 URL: https://watchwiththekids.com/ep/the-office/0101.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: A documentary crew arrives at Dundler Mifflin to observe the workplace. Michael Scott tries to paint a happy picture while facing potential downsizing.
 Watch for:
 - Swearing — 1 moment(s)
   - Michael: “Because downsizing is a bitch.”
@@ -14,6 +15,7 @@ Watch for:
 ## S1 E2 — Diversity Day
 URL: https://watchwiththekids.com/ep/the-office/0102.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Corporate sends in a consultant after Michael attempts to imitate a Chris Rock routine. Michael ends up staging his own Diversity Day event.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “You know what? Here's what we're going to do. Why don't we go around and everybody... everybody say a race that you are attracted to sexually. I will go last. Go.”
@@ -26,6 +28,7 @@ Watch for:
 ## S1 E3 — Health Care
 URL: https://watchwiththekids.com/ep/the-office/0103.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Dwight ends up in charge of picking a new health care plan.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -34,6 +37,7 @@ Watch for:
 ## S1 E4 — The Alliance
 URL: https://watchwiththekids.com/ep/the-office/0104.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: With Dwight worried about downsizing, Jim agrees to an alliance; Michael tries to increase moral be throwing a birthday party for Meredith.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - Michael: “You know what? If I were allergic to dairy, I think I'd kill myself. 'Cause this is way, way too good.”
@@ -45,6 +49,7 @@ Watch for:
 ## S1 E5 — Basketball
 URL: https://watchwiththekids.com/ep/the-office/0105.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael challenges the warehouse staff to a basketball game versus the office staff.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Pam: “My fiance has plans for us this Saturday. So I really hope that Dwight doesn't make me work. Maybe I should sleep with him? I'm kidding, kidding. Totally kidding.”
@@ -59,6 +64,7 @@ Watch for:
 ## S1 E6 — Hot Girl
 URL: https://watchwiththekids.com/ep/the-office/0106.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Several male staff members vie for the attention of an attractive purse sales woman.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Dwight: Sex.”
@@ -74,6 +80,7 @@ Watch for:
 ## S2 E1 — The Dundies
 URL: https://watchwiththekids.com/ep/the-office/0201.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael hosts the annual Dundies awards.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Pam: “Oh good, I'm just in time for Ping. Jim: Yeah. Michael: [doing impression] Oh, dat wir be fwar. Ah, me so horny. Michael: Right? You know wat I'm talking 'bout.”
@@ -90,6 +97,7 @@ Watch for:
 ## S2 E2 — Sexual Harassment
 URL: https://watchwiththekids.com/ep/the-office/0202.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Michael's continual sending of explicit e-mail forwards forces Dunder Mifflin to review it's sexual harassment policy; Pam's mom makes a visit to the office.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - Phyllis: “All relationships? Eh, even a one-night stand?”
@@ -112,6 +120,7 @@ Watch for:
 ## S2 E3 — Office Olympics
 URL: https://watchwiththekids.com/ep/the-office/0203.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: With Michael and Dwight out of the house, Jim organizes an office Olympics.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Dwight: “Actually, I do own property. My grandfather left me a 60 acre working beet farm. I run it with my cousin, Mose. We sell beets to local stores and restaurants. It's a nice little farm. Sometimes teenagers use it for sex.”
@@ -119,6 +128,7 @@ Watch for:
 ## S2 E4 — The Fire
 URL: https://watchwiththekids.com/ep/the-office/0204.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: A fire starts in the office kitchen.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Michael: “Well, I would definitely have sex with Ryan. 'Cause he is going to own his own business.”
@@ -130,6 +140,7 @@ Watch for:
 ## S2 E5 — Halloween
 URL: https://watchwiththekids.com/ep/the-office/0205.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael has to fire someone on Halloween.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Michael: “Last Halloween I came as Janet Jackson's boob.”
@@ -141,6 +152,7 @@ Watch for:
 ## S2 E6 — The Fight
 URL: https://watchwiththekids.com/ep/the-office/0206.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael challenges Dwight to a fight at his martial arts studio.
 Watch for:
 - Violence & injury — 9 moment(s)
   - Dwight: “[to Kevin, who he is teaching to fight] Take this pen and stab me with it.”
@@ -156,6 +168,7 @@ Watch for:
 ## S2 E7 — The Client
 URL: https://watchwiththekids.com/ep/the-office/0207.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Jan helps Michael with an important pitch for a client; The staff discovers a screenplay in Michael's office.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Michael: “She is a strong, soft, thoughtful, sexy woman.”
@@ -171,6 +184,7 @@ Watch for:
 ## S2 E8 — Performance Review
 URL: https://watchwiththekids.com/ep/the-office/0208.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael uses each employee's performance review to discuss his relationship with Jan.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - Kevin: “I heard they made out and had sex.”
@@ -184,6 +198,7 @@ Watch for:
 ## S2 E9 — E-mail Surveillance
 URL: https://watchwiththekids.com/ep/the-office/0209.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: The office staff finds out that Michael has set up e-mail surveillance.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Michael: “Think about this; what is the most exciting thing that can happen, on TV, or in movies, or in real life? Somebody has a gun. [gasps] That's why I always start with a gun, because you can't top it, you just can't.”
@@ -198,6 +213,7 @@ Watch for:
 ## S2 E10 — Christmas Party
 URL: https://watchwiththekids.com/ep/the-office/0210.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: At the office Christmas party, Michael changes secret santa into a gift exchange.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Dwight: “[shooting paintball gun at target] Take that, Saddam!”
@@ -210,6 +226,7 @@ Watch for:
 ## S2 E11 — Booze Cruise
 URL: https://watchwiththekids.com/ep/the-office/0211.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael takes the staff on a booze cruise.
 Watch for:
 - Alcohol & drugs — 3 moment(s)
   - Michael: “Well, no. But... okay, don't spoil it for everybody, all right? But we are going on a booze cruise on Lake Wallenpaupack.”
@@ -219,6 +236,7 @@ Watch for:
 ## S2 E12 — The Injury
 URL: https://watchwiththekids.com/ep/the-office/0212.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: Michael accidentally burns his foot on his George Foreman Grill, but insists on coming to work anyway. When none of his employees, except for Dwight , help him, Michael feels under-appreciated. Meanwhile, Dwight starts acting strangely nice to everyone, especially Pam.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Michael: “No, I don't want some aspirin, yeah I'm a little fussy. Aspirin's not gonna do a damn thing. I'm sitting here with a bloody stump of a foot.”
@@ -229,6 +247,7 @@ Watch for:
 ## S2 E13 — The Secret
 URL: https://watchwiththekids.com/ep/the-office/0213.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Jim is forced into spending time with Michael so that he will not reveal Jim's feelings for Pam. Meanwhile, Oscar takes a "sick day" and Dwight investigates whether he is actually sick.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Michael: “Why do I like Hooters? Well I will give you two reasons, the boobs and the hot wings.”
@@ -246,6 +265,7 @@ Watch for:
 ## S2 E14 — The Carpet
 URL: https://watchwiththekids.com/ep/the-office/0214.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: A disgusting "thing" – implied to be human feces – is left in Michael's office, and he tries to discover who did it. While his carpet is being replaced, he uses Jim's desk, forcing him to move away from Pam into the annex.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Creed: “[after Michael punches him in the arm] What did you hit me for? Michael: Charley horse! Creed: What? Michael: Charley horse! Creed: You shouldn't have hit me, Michael. Michael: Oh, okay. Gah.”
@@ -255,6 +275,7 @@ Watch for:
 ## S2 E15 — Boys and Girls
 URL: https://watchwiththekids.com/ep/the-office/0215.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: When Jan comes to the office for a women in the office session, Michael stages a men's only session.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “Is it good to be back. Yeah. I mean I love the guy stuff but to run an office you need men and women. You know why? Because you need to have that crazy sexual tension to keep things interesting.”
@@ -271,6 +292,7 @@ Watch for:
 ## S2 E16 — Valentine's Day
 URL: https://watchwiththekids.com/ep/the-office/0216.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael has a big meeting in New York with Jan and the companies new CEO; Pam deals with all the Valentine's Day deliveries hoping Roy will remember to send her something.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Kelly: “Nothing. Oh except, oh my God Jim. Last night, Ryan and I totally, finally hooked up. It was awesome.”
@@ -288,6 +310,7 @@ Watch for:
 ## S2 E17 — Dwight's Speech
 URL: https://watchwiththekids.com/ep/the-office/0217.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Dwight has to make a big speech when he is named Salesmen of the Year.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “It's a joke, Dwight. It's not a Sex Ed class.”
@@ -302,16 +325,19 @@ Watch for:
 ## S2 E18 — Take Your Daughter to Work Day
 URL: https://watchwiththekids.com/ep/the-office/0218.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: Staff members bring their children to work.
 Watch for: nothing flagged.
 
 ## S2 E19 — Michael's Birthday
 URL: https://watchwiththekids.com/ep/the-office/0219.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael's birthday coincides with Kevin awaiting the news to see if he has skin cancer.
 Watch for: nothing flagged.
 
 ## S2 E20 — Drug Testing
 URL: https://watchwiththekids.com/ep/the-office/0220.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: After Dwight finds a joint in the office park, he goes overboard with an investigation.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Michael: “Okay, you know what, Toby? Pam, can you take this down? [Pam throws her hands up to indicate she has no notepad] In addition to Toby's urine being tested, I would like to test his blood and his hair.”
@@ -327,6 +353,7 @@ Watch for:
 ## S2 E21 — Conflict Resolution
 URL: https://watchwiththekids.com/ep/the-office/0221.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael's attempt to resolve conflict resolution in the office just leads to more conflict.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “You are accused of making sexually suggestive remarks to Angela that made her feel uncomfortable.”
@@ -339,6 +366,7 @@ Watch for:
 ## S2 E22 — Casino Night
 URL: https://watchwiththekids.com/ep/the-office/0222.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The office holds a casino night for charity in the warehouse.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Jan: “Why did I hook up with Michael?”
@@ -351,6 +379,7 @@ Watch for:
 ## S3 E1 — Gay Witch Hunt
 URL: https://watchwiththekids.com/ep/the-office/0301.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael finds out that Oscar is gay after Oscar files a complaint when Michael uses a homosexual slur.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Jan: “You know, it's amazing to me that in this day and age, you could be so obtuse about sexual orientation.”
@@ -370,6 +399,7 @@ Watch for:
 ## S3 E2 — The Convention
 URL: https://watchwiththekids.com/ep/the-office/0302.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael and Dwight go to a convention that Jim is also attending; Pam goes on her first date after her engagement.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Ryan: “All right. Three pairs of pants. Three pairs of socks. Three packs of condoms. Michael: Yesh. Ryan: Uh, fun jeans. Michael: Right there. Ah. Angela: Sign. Michael: Per diem.”
@@ -391,6 +421,7 @@ Watch for:
 ## S3 E3 — The Coup
 URL: https://watchwiththekids.com/ep/the-office/0303.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: After Jan discovers Michael has been having "movie Monday's", Angela encourages Dwight to make a move for Michael's job.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Phyllis: “Kelly: It's so sexy.”
@@ -407,6 +438,7 @@ Watch for:
 ## S3 E4 — Grief Counseling
 URL: https://watchwiththekids.com/ep/the-office/0304.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael organizes grief counseling sessions following the death of his old boss, Ed Truck.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Michael: “can you imagine how much blood there was?”
@@ -417,6 +449,7 @@ Watch for:
 ## S3 E5 — Initiation
 URL: https://watchwiththekids.com/ep/the-office/0305.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Dwight initiates Ryan into his new job as a salesmen at Dunder Mifflin; Pam is tasked with keeping track of everything Michael does during the day by Jan.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Michael: “I worked. And then I went home to my condo. And Carol came over. And then we had sex. Is that what you want to hear?”
@@ -429,6 +462,7 @@ Watch for:
 ## S3 E6 — Diwali
 URL: https://watchwiththekids.com/ep/the-office/0306.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Kelly invites the office staff to a Diwali celebration.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Phyllis: “Meredith: Do you want to make Appletini's and watch 'Sex and the City' at my place?”
@@ -440,6 +474,7 @@ Watch for:
 ## S3 E7 — Branch Closing
 URL: https://watchwiththekids.com/ep/the-office/0307.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Jan gives Michael the news that the Scranton branch is closing.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Dwight: “What's the plan? Michael: Go to New York, confront the CFO, show him he's making a mistake... save the branch. Dwight: Can I drive? Michael: No... way. Dwight: Shotgun! Michael: No. There's no one else. Dwight: Still.”
@@ -449,6 +484,7 @@ Watch for:
 ## S3 E8 — The Merger
 URL: https://watchwiththekids.com/ep/the-office/0308.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Jim and other members of the Stamford branch have their first day at Scranton.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Hannah: “[using breast pump] Take a picture. It'll last longer. Ryan: I'm sorry. It's just, it's a little distracting. Creed: Ditto that, my brother.”
@@ -462,6 +498,7 @@ Watch for:
 ## S3 E9 — The Convict
 URL: https://watchwiththekids.com/ep/the-office/0309.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The office discovers than one of the new Stamford people is a former convict.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Andy: “[over phone] I am so horny.”
@@ -478,6 +515,7 @@ Watch for:
 ## S3 E10 — A Benihana Christmas
 URL: https://watchwiththekids.com/ep/the-office/0310.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael gets dumped by Carol; Pam and Karen start a rival party planning committee. Michael gets dumped by Carol; Karen and Pam start a rival party planning committee.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Dwight: “[to Pam] So can you watch this? I'm gonna get my carving knife out of the trunk.”
@@ -495,6 +533,7 @@ Watch for:
 ## S3 E11 — Back From Vacation
 URL: https://watchwiththekids.com/ep/the-office/0311.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: Michael returns from his vacation and accidentally sends a picture of Jan sunbathing to everyone in the office.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Jim: “Dwight, you know what, just back up, okay, that's making me uncomfortable. This is sexual harassment, by the way. Oh my God! He's got a knife!”
@@ -503,6 +542,7 @@ Watch for:
 ## S3 E12 — Traveling Salesmen
 URL: https://watchwiththekids.com/ep/the-office/0312.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Dwight does a favor for Angela that puts him in hot water with Michael; The sales team heads out on partner sales calls.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Harvey: “Me so horny. Me love you long tim.”
@@ -514,6 +554,7 @@ Watch for:
 ## S3 E13 — The Return
 URL: https://watchwiththekids.com/ep/the-office/0313.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Oscar returns to work; Dwight gets a job at Staples.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Andy: “[punches a hole in the wall] That...”
@@ -524,6 +565,7 @@ Watch for:
 ## S3 E14 — Ben Franklin
 URL: https://watchwiththekids.com/ep/the-office/0314.html
 Scores: violence 2/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The ladies of the office throw a bridal shower for Phyllis; Michael tries to throw a rival bachelor party for Bob.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Michael: “[Pokes Ryan with a sex toy.] Gotcha, oh! [Phone rings.] Yes?”
@@ -553,6 +595,7 @@ Watch for:
 ## S3 E15 — Phyllis' Wedding
 URL: https://watchwiththekids.com/ep/the-office/0315.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael tries to expand his role at Phyllis' wedding; Pam realizes that Phyllis stole all of her ideas from her canceled wedding to Roy.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Dwight: “The Shrutes have their own traditions. We usually marry standing in our own graves. Makes the funerals very romantic, but the weddings are a bleak affair.”
@@ -562,6 +605,7 @@ Watch for:
 ## S3 E16 — Business School
 URL: https://watchwiththekids.com/ep/the-office/0316.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael is a guest speaker at Ryan's business school class; A bat gets lose in the office; Pam has an art show that she invites the entire office too.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Michael: “And he actually hooked up with one of the students.”
@@ -570,6 +614,7 @@ Watch for:
 ## S3 E17 — Cocktails
 URL: https://watchwiththekids.com/ep/the-office/0317.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: David Wallace hosts a party at his host which Michael, Jan, Dwight, Jim and Karen attend; The rest of the office staff go out for Happy Hour.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Dwight: “Do you ever watch Battlestar Galactica? Dan Gore: No. Dwight: No? Then you are an idiot.”
@@ -580,6 +625,7 @@ Watch for:
 ## S3 E18 — The Negotiation
 URL: https://watchwiththekids.com/ep/the-office/0318.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Dwight saves Jim when Roy shows up at the office planning to hit him for kissing Pam; Darryl asks Michael for a raise which leads to Michael asking for a raise from Jan.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Jim: “[softly] Sex, Steve Martin, Terri Hatcher.”
@@ -596,6 +642,7 @@ Watch for:
 ## S3 E19 — Safety Training
 URL: https://watchwiththekids.com/ep/the-office/0319.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The office staff undergoes safety training; Andy returns from anger management training.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “It's complicated with Jan. And I don't know where I stand, or what I want. The sex isn't nearly as good as it used to be.”
@@ -618,6 +665,7 @@ Watch for:
 ## S3 E20 — Product Recall
 URL: https://watchwiththekids.com/ep/the-office/0320.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The office staff deal with a breach in quality control when an obscene water mark ends up their paper.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Michael: “Cartoon characters having sex?”
@@ -632,6 +680,7 @@ Watch for:
 ## S3 E21 — Women's Appreciation
 URL: https://watchwiththekids.com/ep/the-office/0321.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
+Summary: After Phyllis is flashed in the parking lot, Michael arranges a women's appreciation day.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Ryan: “Nothing - I think, uh, we all kinda thought you guys were just, like, hooking up.”
@@ -652,11 +701,13 @@ Watch for:
 ## S3 E22 — Beach Games
 URL: https://watchwiththekids.com/ep/the-office/0322.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The office attends beach day which Michael uses to try and determine who would replace him if he gets a job at corporate.
 Watch for: nothing flagged.
 
 ## S3 E23 — The Job
 URL: https://watchwiththekids.com/ep/the-office/0323.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael, Jim and Karen interview for a job at corporate; Michael appoints Dwight as regional manager.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Meredith: “You got a haircut. It's sexy, hot.”
@@ -683,6 +734,7 @@ Watch for:
 ## S4 E1 — Fun Run
 URL: https://watchwiththekids.com/ep/the-office/0401.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Michael accidentally runs over Meredith in the parking lot which results in Michael arranging a 5K fun run for her.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Kevin: “Are you kidding me, Pam and Jim are totally hooking up.”
@@ -707,6 +759,7 @@ Watch for:
 ## S4 E2 — Dunder Mifflin Infinity
 URL: https://watchwiththekids.com/ep/the-office/0402.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael is resistant to the new ideas the Ryan brings to the company; Jim and Pam's relationship is exposed to the entire office. Michael sets out to win clients back the old fashion way.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Phyllis: “You can't base who gets new clients on who you're sleeping with that week, OK?”
@@ -722,6 +775,7 @@ Watch for:
 ## S4 E3 — Launch Party
 URL: https://watchwiththekids.com/ep/the-office/0403.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The Dunder Mifflin website launches; Dwight gets into a paper selling war with the new website. Michael is upset when he realizes he wasn't invited to attend the actual launch party in New York; Andy pursues Angela.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Michael: “Alright. I'm ready to go and I'm callin' shotgun.”
@@ -733,6 +787,7 @@ Watch for:
 ## S4 E4 — Money
 URL: https://watchwiththekids.com/ep/the-office/0404.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael takes a second job as supporting Jan is draining his finances; Jim and Pam stay at Dwight's farm. Oscar helps Michael with his finances; Andy continues to pursue Angela.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Darryl: “It's like she only wants to hook up when Ryan comes around. It's gotten to the point where I get excited every time I see that little dude walk through the door.”
@@ -757,6 +812,7 @@ Watch for:
 ## S4 E5 — Local Ad
 URL: https://watchwiththekids.com/ep/the-office/0405.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael believes he can make a better TV ad than the professionals Dunder Mifflin sent.
 Watch for:
 - Swearing — 4 moment(s)
   - Michael: “Yeah, I'm glad you called. Ryan is being a little bitch again.”
@@ -767,6 +823,7 @@ Watch for:
 ## S4 E6 — Branch Wars
 URL: https://watchwiththekids.com/ep/the-office/0406.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael and Dwight set out to pull a prank on Utica when they find out that Karen is trying to steal Stanley.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Oscar: “Besides having sex with men, I would say that the Finer Things Club is the gayest thing about me.”
@@ -782,6 +839,7 @@ Watch for:
 ## S4 E7 — Survivor Man
 URL: https://watchwiththekids.com/ep/the-office/0407.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael sets out to survivor in the wilderness after Ryan doesn't invite him on a retreat; Jim is put in charge of the office while Michael is going and he attempts to change the birthday party policy.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Michael: “[screams] Wish I could have gone with Ryan on that cool retreat! Jan has plastic boobs!”
@@ -795,6 +853,7 @@ Watch for:
 ## S4 E8 — The Deposition
 URL: https://watchwiththekids.com/ep/the-office/0408.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael tries to play both sides when he has to give a deposition for Jan's lawsuit against Dunder Mifflin.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Lester: “I had sex with my boss.”
@@ -811,6 +870,7 @@ Watch for:
 ## S4 E9 — Dinner Party
 URL: https://watchwiththekids.com/ep/the-office/0409.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael traps Pam and Jim, Angela and Andy into a dinner party with him and Jan.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Dwight: “You people. [to Michael] Come on. You're sleeping with me.”
@@ -823,6 +883,7 @@ Watch for:
 ## S4 E10 — Chair Model
 URL: https://watchwiththekids.com/ep/the-office/0410.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael becomes obsessed with a model in a chair catalog; Kevin and Andy set out to reclaim the office's parking spaces.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Michael: “Yeah. Yeah, and you can't see her whole body. Down here, she's got a boob job. Just... she was just crazy smart and really manipulative and I don't know.”
@@ -838,6 +899,7 @@ Watch for:
 ## S4 E11 — Night Out
 URL: https://watchwiththekids.com/ep/the-office/0411.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael and Dwight head to New York to party with Ryan; Jim gets the office to work late to avoid coming in on Saturday and they get locked in the parking lot.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Michael: “Would you have sex with Meredith?”
@@ -860,6 +922,7 @@ Watch for:
 ## S4 E12 — Did I Stutter?
 URL: https://watchwiththekids.com/ep/the-office/0412.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael has to deal with Stanley's open insubordination at a meeting.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “My wife likes to talk after sex, so she called me from a hotel room, and said, "I don't respect you!" Ahh, thoughtless.”
@@ -869,6 +932,7 @@ Watch for:
 ## S4 E13 — Job Fair
 URL: https://watchwiththekids.com/ep/the-office/0413.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael, Pam, Darryl and Oscar attend a job fair; Jim, Kevin and Andy play a round of golf with a perspective client.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Michael: “Today I'm heading over to the job fair at Valley View High School, to find some new interns. Want to get some fresh blood. Um, euthanize this place.”
@@ -884,6 +948,7 @@ Watch for:
 ## S4 E14 — Goodbye Toby
 URL: https://watchwiththekids.com/ep/the-office/0414.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael becomes infatuated with the woman replacing Toby; Jim plan to propose to Pam is upstaged by Andy; Michael gets a surprise from Jan.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - Jan: “I went to a sperm bank.”
@@ -902,6 +967,7 @@ Watch for:
 ## S5 E1 — Weight Loss
 URL: https://watchwiththekids.com/ep/the-office/0501.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: The office staff goes to extremes when they participate in a weight loss contest run by corporate.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Michael: “Wait a second. [removes condom from wallet, throws it to Jim] I don't want you to end up with a surprise pregnancy like me.”
@@ -921,6 +987,7 @@ Watch for:
 ## S5 E2 — Business Ethics
 URL: https://watchwiththekids.com/ep/the-office/0502.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Holly has to run an ethics meeting which leads to Meredith revealing an unethical situation.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Dwight: “[raises hand] She's not a virgin, you know.”
@@ -935,6 +1002,7 @@ Watch for:
 ## S5 E3 — Baby Shower
 URL: https://watchwiththekids.com/ep/the-office/0503.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael insists the office throw Jan a baby shower even though he is not the father of her baby.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Jim: “[drawing two family trees on a whiteboard] Jan is about to have a baby with a sperm donor.”
@@ -946,6 +1014,7 @@ Watch for:
 ## S5 E4 — Crime Aid
 URL: https://watchwiththekids.com/ep/the-office/0504.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael arranges for a fundraiser when the office is burglarized.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Michael: “In my opinion, the third date is traditionally the one where... you have sex. Does Holly feel that way? I don't know. I will probably find out tonight. If she starts having sex with me I'll know for sure.”
@@ -961,6 +1030,7 @@ Watch for:
 ## S5 E5 — Employee Transfer
 URL: https://watchwiththekids.com/ep/the-office/0505.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: After corporate finds out about Michael and Holly's relationship, they transfer Holly back to New Hampshire.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Kelly: “Oh, I'm Carrie Bradshaw from Sex And The City.”
@@ -970,6 +1040,7 @@ Watch for:
 ## S5 E6 — Customer Survey
 URL: https://watchwiththekids.com/ep/the-office/0506.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Jim and Dwight are surprised by their low customer survey scores.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Michael: “Hey, sport. Dwight: I heard someone got engaged, you dog, huh? [punches Michael's shoulder] Michael: Ow! God! Dwight: Oh, nothing can hurt you now. You're a man in love!”
@@ -980,6 +1051,7 @@ Watch for:
 ## S5 E7 — Business Trip
 URL: https://watchwiththekids.com/ep/the-office/0507.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Andy and Oscar accompany Michael on a business trip to Canada; Pam gets bad news about her art class.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Andy: “And she has the softest skin I've ever seen and I can't wait to have sex with her.”
@@ -999,6 +1071,7 @@ Watch for:
 ## S5 E8 — Frame Toby
 URL: https://watchwiththekids.com/ep/the-office/0508.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael attempts to frame Toby when he returns to the office; Jim surprises Pam by purchasing his parents house.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Ryan: “Let's be adults about this. Let's have sex one more time. And if you have any extra cash, that would be amazing.”
@@ -1021,6 +1094,7 @@ Watch for:
 ## S5 E9 — The Surplus
 URL: https://watchwiththekids.com/ep/the-office/0509.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The office argues over what to buy with a surplus; Dwight tricks Angela.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Andy: “We're getting married at Schrute Farms, no matter what. I have looked at twelve venues, I have lost eight deposits, and I have seen Angela naked zero times. I am not losing another deposit.”
@@ -1030,6 +1104,7 @@ Watch for:
 ## S5 E10 — Moroccan Christmas
 URL: https://watchwiththekids.com/ep/the-office/0510.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael turns the Office Christmas Party into an intervention for Meredith; Dwight makes money off of a popular children's toy.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Jim: “How does that happen? King has sex with a unicorn?”
@@ -1051,6 +1126,7 @@ Watch for:
 ## S5 E11 — The Duel
 URL: https://watchwiththekids.com/ep/the-office/0511.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Andy finally finds out about Dwight and Angela; Michael is called to corporate to discuss the branch's success.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Andy: “That you're sleeping with Dwight.”
@@ -1067,6 +1143,7 @@ Watch for:
 ## S5 E12 — Prince Family Paper
 URL: https://watchwiththekids.com/ep/the-office/0512.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Michael does research on a local family run company the Dunder Mifflin wants to buy out; The office debates the hotness of Hilary Swank.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Jim: “…and says Kevin Malone, I just read your online profile and there is nothing I would rather do then make out with you right now.”
@@ -1081,6 +1158,7 @@ Watch for:
 ## S5 E13 — Stress Relief
 URL: https://watchwiththekids.com/ep/the-office/0513.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Dwight takes things to far during his fire drill. Michael realizes he is what is causing people to stress out in the office so he arranges a roast.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Kelly: “I have made a list of people that I would make out with before I would make out with Michael Scott.”
@@ -1100,6 +1178,7 @@ Watch for:
 ## S5 E14 — Lecture Circuit 1
 URL: https://watchwiththekids.com/ep/the-office/0514.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Pam accompanies Michael on a lecture circuit at other branches where they discover Karen is pregnant; Andy becomes infatuated with Stanley's client.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Michael: “I'm just, I'm trying to figure out the last time that you and Jim had sex, and...”
@@ -1113,6 +1192,7 @@ Watch for:
 ## S5 E15 — Lecture Circuit 2
 URL: https://watchwiththekids.com/ep/the-office/0515.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael and Pam head to Nashua so Michael can find closure with Holly.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Jim: “[grunts] Okay, so far, our ideal party consists of beer, fights to the death, cupcakes, blood pudding, blood, touch football, mating, charades, and yes, horse hunting.”
@@ -1127,6 +1207,7 @@ Watch for:
 ## S5 E16 — Blood Drive
 URL: https://watchwiththekids.com/ep/the-office/0516.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: After a missed opportunity at a blood drive, Michael throws a Lonely Hearts Valentine's Day party; Jim and Pam go a double date with Bob and Phyllis.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Michael: “Yeah. And the sexy looks between you and Pam, the general sexiness, the flowers, it's creating a bit of a hostile work environment.”
@@ -1142,6 +1223,7 @@ Watch for:
 ## S5 E17 — Golden Ticket
 URL: https://watchwiththekids.com/ep/the-office/0517.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael's idea to hide golden tickets in shipments backfires and Michael asks Dwight to take the heat.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Lynn: “[Both laugh] Boobs.”
@@ -1149,6 +1231,7 @@ Watch for:
 ## S5 E18 — New Boss
 URL: https://watchwiththekids.com/ep/the-office/0518.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The new supervisor clashes with Michael.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Michael: “But Jan would mostly come by when she was super horny, and Ryan would come by to visit his parents and do laundry, so...”
@@ -1161,6 +1244,7 @@ Watch for:
 ## S5 E19 — Two Weeks
 URL: https://watchwiththekids.com/ep/the-office/0519.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: Michael decides to start his own paper company after giving his two week's notice.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Dwight: “Any really good headhunter would storm your village at sunset with overwhelming force and cut off your head with a ceremonial knife,”
@@ -1175,6 +1259,7 @@ Watch for:
 ## S5 E20 — Dream Team
 URL: https://watchwiththekids.com/ep/the-office/0520.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael and Pam set out to build their new company.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Pam: “My hooker's here.”
@@ -1188,6 +1273,7 @@ Watch for:
 ## S5 E21 — Michael Scott Paper Company
 URL: https://watchwiththekids.com/ep/the-office/0521.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Michael decides to start his own paper company after giving his two week's notice.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Dwight: “Not long ago we were sexual competitors.”
@@ -1211,6 +1297,7 @@ Watch for:
 ## S5 E22 — Heavy Competition
 URL: https://watchwiththekids.com/ep/the-office/0522.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael and Dwight wag war over clients; Jim pretends to confide in Andy.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Jim: “Andy put down a bunch of deposits on stuff for his wedding with Angela, but then she was sleeping with Dwight for...”
@@ -1223,6 +1310,7 @@ Watch for:
 ## S5 E23 — Broke
 URL: https://watchwiththekids.com/ep/the-office/0523.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The Michael Scott Paper Company runs into financial trouble but Dunder Mifflin is worried about the clients they are losing.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Michael: “You know, David. I don't care if Ryan murdered his entire family he is like a son to me.”
@@ -1230,6 +1318,7 @@ Watch for:
 ## S5 E24 — Casual Friday
 URL: https://watchwiththekids.com/ep/the-office/0524.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael, Pam and Ryan return to Dunder Mifflin; Some staff takes casual Friday too far; The other sales people are upset that they are not getting their clients back.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Toby: “Well, I was in the Seminary for a year and dropped out 'cause I wanted to have sex with this girl, Cathy.”
@@ -1243,6 +1332,7 @@ Watch for:
 ## S5 E25 — Cafe Disco
 URL: https://watchwiththekids.com/ep/the-office/0525.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael tries to create a disco in his old Michael Scott Paper Company office.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Dwight: “Phyllis: I think Bob is gonna cheat on me with his new secretary.”
@@ -1253,6 +1343,7 @@ Watch for:
 ## S5 E26 — Company Picnic
 URL: https://watchwiththekids.com/ep/the-office/0526.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: The staff attend the Dunder Mifflin company picnic.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Michael: “Two hundred and fifty dollars is more money than I've ever seen in my life. I will say, C, a gun. He shot himself in the head.”
@@ -1271,6 +1362,7 @@ Watch for:
 ## S6 E1 — Gossip
 URL: https://watchwiththekids.com/ep/the-office/0601.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Michael accidentally reveals that Stanley is having an affair so he makes up a bunch of other rumors to divert people's attention.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Jim: “You gotta have sex with a woman.”
@@ -1296,6 +1388,7 @@ Watch for:
 ## S6 E2 — The Meeting
 URL: https://watchwiththekids.com/ep/the-office/0602.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael attempts to sabotage Jim's efforts at a promotion.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Darryl: “And I'm telling them you guys sexually harassed my sister.”
@@ -1310,6 +1403,7 @@ Watch for:
 ## S6 E3 — The Promotion
 URL: https://watchwiththekids.com/ep/the-office/0603.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael and Jim have to decide who is getting a raise and who is not.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Oscar: “Excellent question, genius. It's because Jim wants to give the raises to his friends and the people he sleeps with.”
@@ -1319,6 +1413,7 @@ Watch for:
 ## S6 E4 — Niagara
 URL: https://watchwiththekids.com/ep/the-office/0604.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The office staff head to Niagara Falls for Jim and Pam's wedding. The office staff travels to Jim and Pam's wedding.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - Michael: “I will see you up there in Viagra Falls!”
@@ -1344,6 +1439,7 @@ Watch for:
 ## S6 E5 — Mafia
 URL: https://watchwiththekids.com/ep/the-office/0605.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: With Jim and Pam on their honeymoon, Michael ends up signing up for insurance thinking the guy selling is in the mafia.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Dwight: “I knew it! More trunk space. Or should I say, corpse space.”
@@ -1352,6 +1448,7 @@ Watch for:
 ## S6 E6 — The Lover
 URL: https://watchwiththekids.com/ep/the-office/0606.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Pam finds out that Michael is dating her mother.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Jim: “You did not have sex with Pam's mom.”
@@ -1365,6 +1462,7 @@ Watch for:
 ## S6 E7 — Koi Pond
 URL: https://watchwiththekids.com/ep/the-office/0607.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael ends up becoming the butt of everyone's jokes when he falls into a koi pond while on a sales call; Pam and Andy are mistaken for a couple when they go on sales calls together.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Secretary: “[points to Pam's tummy] Secretary: How exciting! Do you guys know the sex yet?”
@@ -1377,6 +1475,7 @@ Watch for:
 ## S6 E8 — Double Date
 URL: https://watchwiththekids.com/ep/the-office/0608.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael breaks up with Pam's mom on her birthday; Dwight tries to get the rest of the staff to owe him in order to get Jim fired.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Kevin: “Because of sex?”
@@ -1391,6 +1490,7 @@ Watch for:
 ## S6 E9 — Murder
 URL: https://watchwiththekids.com/ep/the-office/0609.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Michael attempts to distract the office when rumors of Dunder Mifflin's bankruptcy surface.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Kevin: “Meredith: How about a threesome?”
@@ -1410,6 +1510,7 @@ Watch for:
 ## S6 E10 — Shareholder Meeting
 URL: https://watchwiththekids.com/ep/the-office/0610.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael is invited to be honored at a shareholder's meeting; Jim tries to get the rest of the office to understand he is one of the "real" bosses.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Andy: “Hey, guys, do you think anyone might have had sex in here?”
@@ -1420,6 +1521,7 @@ Watch for:
 ## S6 E11 — Scott's Tots
 URL: https://watchwiththekids.com/ep/the-office/0611.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael is in hot water when it comes time to pay up for promising a bunch of kids he would pay for their college tuition; Dwight tries to set Jim up.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Jim: “Did you murder someone?”
@@ -1432,6 +1534,7 @@ Watch for:
 ## S6 E12 — Secret Santa
 URL: https://watchwiththekids.com/ep/the-office/0612.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael is upset when Jim allows Phyllis to be the office Santa for Christmas.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1446,6 +1549,7 @@ Watch for:
 ## S6 E13 — The Banker
 URL: https://watchwiththekids.com/ep/the-office/0613.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: A banker from the potential buyer visits the office.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Eric: “What about non-safety issues, in terms of liability? Sexual harassment.”
@@ -1456,11 +1560,13 @@ Watch for:
 ## S6 E14 — Sabre
 URL: https://watchwiththekids.com/ep/the-office/0614.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: Michael doesn't like the changes that the new owner is making to Dunder Mifflin; Jim and Pam interview at a day care.
 Watch for: nothing flagged.
 
 ## S6 E15 — Manager and Salesman
 URL: https://watchwiththekids.com/ep/the-office/0615.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Michael doesn't like the changes that the new owner is making to Dunder Mifflin; Jim and Pam interview at a day care.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “No, I think I would be bad. I would sleep in my office, and I would sexually harass people.”
@@ -1479,6 +1585,7 @@ Watch for:
 ## S6 E16 — The Delivery
 URL: https://watchwiththekids.com/ep/the-office/0616.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Pam insists on waiting until after midnight to check in to the hospital; Dwight and Angela make a business agreement to have their own baby. After the birth of the baby, Pam has trouble getting the baby to breastfeed. Michael tries to set up other members of the office.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Michael: “Too bad you didn't have sex like seven and a half hours later.”
@@ -1497,6 +1604,7 @@ Watch for:
 ## S6 E17 — St. Patrick's Day
 URL: https://watchwiththekids.com/ep/the-office/0617.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Dwight becomes obsessed with a mega desk recreated while Jim and Pam were gone; Michael's attempts to suck up to Jo are unsuccessful.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “Hello hello. Top of the morning to you! Ooh ooh! Green M&amp;Ms! Nature's Viagra! [Grabs and pours Kevin-esque scoop of M&amp;Ms into his coat pocket] Two of my favorite joke areas combined. It'll be a good day.”
@@ -1504,6 +1612,7 @@ Watch for:
 ## S6 E18 — New Leads
 URL: https://watchwiththekids.com/ep/the-office/0618.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Tensions rise in the office when the sales staff thinks they are the top dog.
 Watch for:
 - Violence & injury — 5 moment(s)
   - Michael: “Just - imagine that instead of going to jail for murdering someone, you got an ice-cream cone.”
@@ -1517,6 +1626,7 @@ Watch for:
 ## S6 E19 — Happy Hour
 URL: https://watchwiththekids.com/ep/the-office/0619.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Oscar gets the staff to go out after work in order to see Matt from the warehouse.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Andy: “Andy: Yeah, cause when everyone knows- [knock on window, open blinds to Kevin giggling and making sexual gestures] That's actually pretty funny, but in general, you know.”
@@ -1526,6 +1636,7 @@ Watch for:
 ## S6 E20 — Secretary's Day
 URL: https://watchwiththekids.com/ep/the-office/0620.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Andy tries to create a special secretary's day for Erin but Michael accidentally reveals a secret.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Erin: “They had sex?”
@@ -1540,6 +1651,7 @@ Watch for:
 ## S6 E21 — Body Language
 URL: https://watchwiththekids.com/ep/the-office/0621.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael thinks that a new client is interested in him; Dwight tries to recruit different minorities into Sabre executive program.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Donna: “Oh. [Michael quickly advances PowerPoint show to last slide which is "SEX" in bold white letters on a black background and then exits the show quickly]”
@@ -1557,6 +1669,7 @@ Watch for:
 ## S6 E22 — The Cover-Up
 URL: https://watchwiththekids.com/ep/the-office/0622.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael thinks Donna is cheating on him; Darryl tries to set Andy up.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - Dwight: “All cases are solved with logic. The only logical way to find out if Donna Is a cheater is to seduce her, bring her to orgasm, then call Michael and tell him the sad news.”
@@ -1576,6 +1689,7 @@ Watch for:
 ## S6 E23 — The Chump
 URL: https://watchwiththekids.com/ep/the-office/0623.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael doesn't break up with Donna after learning she is married; Jim and Pam struggle to stay awake at work; Dwight and Angela take their baby contract to a mediator.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Michael: “All the time I was thinking, "I'm sleeping with your wife." And you know who does that?”
@@ -1599,6 +1713,7 @@ Watch for:
 ## S6 E24 — Whistleblower
 URL: https://watchwiththekids.com/ep/the-office/0624.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Jo returns to the branch to find who contacted the press about the printer's starting on fire.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Dwight: “Inner city kids use computers for two things, games and porn.”
@@ -1608,6 +1723,7 @@ Watch for:
 ## S7 E1 — Nepotism
 URL: https://watchwiththekids.com/ep/the-office/0701.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The staff demands that Michael fire the new assistant who keeps screwing things up.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Michael: “No, just power it down. No, no, no, no, no. Not on Angela's boob. Come on. Come on. Luke, seriously.”
@@ -1618,6 +1734,7 @@ Watch for:
 ## S7 E2 — Counseling
 URL: https://watchwiththekids.com/ep/the-office/0702.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Michael has to go to counseling with Toby; Dwight seeks revenge on a local mall; Pam fakes her way into a new position.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1640,6 +1757,7 @@ Watch for:
 ## S7 E3 — Andy's Play
 URL: https://watchwiththekids.com/ep/the-office/0703.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Andy invites the entire office to his community theatre production of "Sweeney Todd'.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Dwight: “No, no, no. Contractually we're obligated to have sex.”
@@ -1655,6 +1773,7 @@ Watch for:
 ## S7 E4 — Sex Ed
 URL: https://watchwiththekids.com/ep/the-office/0704.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael contacts all of his former girlfriends thinking he has herpes.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - Andy: “Well someone could answer if they want to. [looks at Erin hopefully] Ok, in that case I will now show you how to put this condom on... using this pencil. [Stanley laughs]”
@@ -1679,6 +1798,7 @@ Watch for:
 ## S7 E5 — The Sting
 URL: https://watchwiththekids.com/ep/the-office/0705.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael, Dwight and Jim arrange a sting on a rival company salesman.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1692,6 +1812,7 @@ Watch for:
 ## S7 E6 — Costume Contest
 URL: https://watchwiththekids.com/ep/the-office/0706.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: While the office celebrates Halloween, Michael comes upset that Darryl went to corporate with an idea; Jim is set on figuring out why Danny didn't call Pam back when they went on some dates.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Gabe: “Why don't witches wear panties?”
@@ -1704,6 +1825,7 @@ Watch for:
 ## S7 E7 — Christening
 URL: https://watchwiththekids.com/ep/the-office/0707.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The entire office staff attends CiCi's christening.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Church congregation: “If you go to Cabo San Lucas, all the prostitutes are from Cabo Corrientes.”
@@ -1711,6 +1833,7 @@ Watch for:
 ## S7 E8 — Viewing Party
 URL: https://watchwiththekids.com/ep/the-office/0708.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Gabe and Erin throw a Glee viewing party which Michael attempts to sabotage; Pam discovers Dwight is the secret to CiCi's sleeping problem.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Dwight: “Oh come on, stop the fake prissy act. We're in the real world. Sex contracts exist!”
@@ -1730,6 +1853,7 @@ Watch for:
 ## S7 E9 — WUPHF.com
 URL: https://watchwiththekids.com/ep/the-office/0709.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Ryan tries to get more investors in his internet company; Jim lacks motivation to work when Sabra institutes commission caps.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Ryan: “"What's he dropping?! Wow, what's falling on us, man?!" WUPHF condoms! 50,000 condoms out of the sky!”
@@ -1746,6 +1870,7 @@ Watch for:
 ## S7 E10 — China
 URL: https://watchwiththekids.com/ep/the-office/0710.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael outsmarts Oscar in a debate about China; Pam goes toe to toe with Dwight about the changes he has made to the office building.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “Not if the printer isn't hooked up. You are making some very dangerous assumptions Oscar.”
@@ -1756,6 +1881,7 @@ Watch for:
 ## S7 E11 — Classy Christmas
 URL: https://watchwiththekids.com/ep/the-office/0711.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Michael insists on an elaborate Christmas party when he finds out that Holly is returning. Michael gets jealous when he finds out that Holly is still dating A.J.; Jim is paranoid when Dwight starts a snow ball war with him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Dwight: “Is it the middle school teacher who tried to turn her foreign exchange student into a sex slave?”
@@ -1785,6 +1911,7 @@ Watch for:
 ## S7 E12 — Ultimatum
 URL: https://watchwiththekids.com/ep/the-office/0712.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Michael is initially exited when Holly returns from vacation without an engagement ring but left disappointed that she didn't follow through on her ultimatum; Pam tries to boost staff morale.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Darryl: “You know what you guys should do? Go to the bookstore at lunch. There's tons of cuties and it's easy to talk to them. 'Hey, what book is that? Cool, let's hang out tonight. Sex already? Whoa...'”
@@ -1805,6 +1932,7 @@ Watch for:
 ## S7 E13 — The Seminar
 URL: https://watchwiththekids.com/ep/the-office/0713.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Andy hosts a small business seminar at the office.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1816,6 +1944,7 @@ Watch for:
 ## S7 E14 — The Search
 URL: https://watchwiththekids.com/ep/the-office/0714.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: After Jim gets an emergency phone call about CeCe he leaves Michael at a gas station leading to Holly, Erin and Dwight to search for him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “No I'm not. I'm not in a bad mood. I'm not, Jim. Hello? Ok fine, ignore me. Have it your way. Let's just talk about you, as always. Is sex different after the baby, Jim?”
@@ -1825,6 +1954,7 @@ Watch for:
 ## S7 E15 — Pda
 URL: https://watchwiththekids.com/ep/the-office/0715.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The office is grossed out by Michael and Holly's PDA.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - Dwight: “And what is the hook-up zone policy on masturbation?”
@@ -1844,6 +1974,7 @@ Watch for:
 ## S7 E16 — Threat Level Midnight
 URL: https://watchwiththekids.com/ep/the-office/0716.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael finally finishes his movie.
 Watch for:
 - Violence & injury — 5 moment(s)
   - Michael: “By far and away, the most expensive shot in the movie. But, it was integral to the story.”
@@ -1861,6 +1992,7 @@ Watch for:
 ## S7 E17 — Todd Packer
 URL: https://watchwiththekids.com/ep/the-office/0717.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Everyone is upset when Todd Packer is hired back to the office; Andy is upset when Pam gets a new computer for Erin.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Michael: “You did! You got burned, because Packer's back! Packer is turning in his car for a desk. He is turning in his condoms, for a condominium! Although he's probably going to have to use condoms from here on out.”
@@ -1876,6 +2008,7 @@ Watch for:
 ## S7 E18 — Garage Sale
 URL: https://watchwiththekids.com/ep/the-office/0718.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Michael prepares to propose to Holly; The staff holds a garage sale in the warehouse.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Michael: “Holly: Oh, I say, I say, I say I sit on you! Michael: And right over there is where you found out that Meredith was prostituting herself for Outback steak.”
@@ -1886,6 +2019,7 @@ Watch for:
 ## S7 E19 — Training Day
 URL: https://watchwiththekids.com/ep/the-office/0719.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The new boss, Deangelo Vickers, arrives to begin training.
 Watch for:
 - Affairs / cheating — 2 moment(s)
   - Michael: “This is Jim and Pam, aka Jap. What started as an affair has blossomed into a family before our eyes.”
@@ -1896,6 +2030,7 @@ Watch for:
 ## S7 E20 — Michael's Last Dundies
 URL: https://watchwiththekids.com/ep/the-office/0720.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael prepares to host his last Dundies.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Deangelo: “They say he's going to be my right hand man, adlib masturbation joke.”
@@ -1917,6 +2052,7 @@ Watch for:
 ## S7 E21 — Goodbye Michael
 URL: https://watchwiththekids.com/ep/the-office/0721.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Michael doesn't tell the staff that he is leaving a day early; Deangelo helps Andy with a big client.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Michael: “Was it just me, or did you think that we were going to have sex at some point?”
@@ -1935,6 +2071,7 @@ Watch for:
 ## S7 E22 — The Inner Circle
 URL: https://watchwiththekids.com/ep/the-office/0722.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Deangelo creates tension when he created an inner circle of only men at the office.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1952,6 +2089,7 @@ Watch for:
 ## S7 E23 — Dwight K. Schrute, (Acting) Manager
 URL: https://watchwiththekids.com/ep/the-office/0723.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Dwight becomes acting manager of the branch.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Dwight: “Ah, Jim, Jim, Jim. The gun is a Beaumont-Adams. Jo collects them. I thought we could have some nice small talk about it. And the piranha's a rescue.”
@@ -1962,6 +2100,7 @@ Watch for:
 ## S7 E24 — Search Committee
 URL: https://watchwiththekids.com/ep/the-office/0724.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Jim, Toby and Gabe head up the search committee for a new manager for the branch.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Kelly: “I don't think it's professional that he was sleeping with the receptionist, and then when Erin dumped him, so that she could be with Andy, he became a total crazy stalker psycho.”
@@ -1980,6 +2119,7 @@ Watch for:
 ## S8 E1 — The List
 URL: https://watchwiththekids.com/ep/the-office/0801.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: The office staff become obsessed when they find a list of names in two columns in Robert California's notebook.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - Andy: “Okay. You guys ever had Margarita pizza?”
@@ -1988,6 +2128,7 @@ Watch for:
 ## S8 E2 — The Incentive
 URL: https://watchwiththekids.com/ep/the-office/0802.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Under pressure from Robert California, Andy introduces an incentive program to increase sales.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Darryl: “[singing] We took a shower, we were naked.”
@@ -2001,6 +2142,7 @@ Watch for:
 ## S8 E3 — Lotto
 URL: https://watchwiththekids.com/ep/the-office/0803.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The warehouse staff quits after winning the lottery.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - Stripper or strip-club material shows up in the plot.
@@ -2015,11 +2157,13 @@ Watch for:
 ## S8 E4 — Garden Party
 URL: https://watchwiththekids.com/ep/the-office/0804.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: Andy throws a garden party to impress his parents.
 Watch for: nothing flagged.
 
 ## S8 E5 — Spooked
 URL: https://watchwiththekids.com/ep/the-office/0805.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Erin worries that Andy will fire her when her Halloween party doesn't live up to Robert California's expectations.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Erin: “Ok. Let’s say that I wanted this party to be a tiny, tiny bit like that one. Just… more adult… more… scary and sexy”
@@ -2034,6 +2178,7 @@ Watch for:
 ## S8 E6 — Doomsday
 URL: https://watchwiththekids.com/ep/the-office/0806.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Dwight convinces Andy to let him install a doomsday device that sends an e-mail to Robert California after the office makes five mistakes.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Andy: “They're both Kevin. Oscar is the Sex and the City gang and Angela, if you can picture…”
@@ -2051,6 +2196,7 @@ Watch for:
 ## S8 E7 — Pam's Replacement
 URL: https://watchwiththekids.com/ep/the-office/0807.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Pam worries that Jim thinks the temp filling in for her during her maternity leave is attractive.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Phyllis: “Yeah you have this sexy glow.”
@@ -2069,6 +2215,7 @@ Watch for:
 ## S8 E8 — Gettysburg
 URL: https://watchwiththekids.com/ep/the-office/0808.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Andy takes a portion of the staff on an outing to Gettysburg; Part of the staff stays behind where they pitch the next big idea to Robert.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Andy: “All right, guys, a little foreplay before we do it.”
@@ -2083,6 +2230,7 @@ Watch for:
 ## S8 E9 — Mrs. California
 URL: https://watchwiththekids.com/ep/the-office/0809.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Andy is in a tight spot when Robert doesn't want him to hire his wife at the office.
 Watch for:
 - Violence & injury — 2 moment(s)
   - Dwight: “Maybe over a beer after she’s closed her first sale [makes gun click noise].”
@@ -2096,6 +2244,7 @@ Watch for:
 ## S8 E10 — Christmas Wishes
 URL: https://watchwiththekids.com/ep/the-office/0810.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Andy attempts to grant each person's holiday wish.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Andy: “Jessica is my super serious girlfriend, who is seriously awesome and seriously sexy. Only thing that's not serious, by the way? Our repartee.”
@@ -2117,6 +2266,7 @@ Watch for:
 ## S8 E11 — Trivia
 URL: https://watchwiththekids.com/ep/the-office/0811.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Andy brings the staff to a trivia night in order to win money to buy Dunder Mifflin's paper to meet their sales goal.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Erin: “[shows bloody hand] Does anyone have a first aid kit?”
@@ -2126,6 +2276,7 @@ Watch for:
 ## S8 E12 — Pool Party
 URL: https://watchwiththekids.com/ep/the-office/0812.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Robert California invites the staff to his house for a pool party before he sells the property.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Robert California: “A temple to wine, revelry, sex, intrigue...”
@@ -2144,6 +2295,7 @@ Watch for:
 ## S8 E13 — Jury Duty
 URL: https://watchwiththekids.com/ep/the-office/0813.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Jim gets caught lying about having jury duty; Angela has her baby.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Andy: “[dances to Kenny Loggin's Footloose] Sex also works.”
@@ -2163,6 +2315,7 @@ Watch for:
 ## S8 E14 — Special Project
 URL: https://watchwiththekids.com/ep/the-office/0814.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Dwight gets the opportunity to lead a special project team.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Andy: “And here's some facts for you. Did you know frogs can hear with their lungs? And that flamingos can have orgasms that last 30 minutes.”
@@ -2173,6 +2326,7 @@ Watch for:
 ## S8 E15 — Tallahassee
 URL: https://watchwiththekids.com/ep/the-office/0815.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Dwight is set on securing the VP position up for grabs even as he battles appendicitis.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Todd Packer: “Did you say "masturbator?"”
@@ -2190,6 +2344,7 @@ Watch for:
 ## S8 E16 — After Hours
 URL: https://watchwiththekids.com/ep/the-office/0816.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Dwight and Todd Packer try to win over Nellie by trying to sleep with her; Jim worries that Cathy is trying to hit on him; The office staff works late.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Darryl: “I'm not sleeping with your girlfriend.”
@@ -2202,6 +2357,7 @@ Watch for:
 ## S8 E17 — Test the Store
 URL: https://watchwiththekids.com/ep/the-office/0817.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The team in Florida launch the test store; Andy and Pam are attacked by a group of kids in the parking lot.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Dwight: “Packer, you will be the sexual predator who has come to prey on the trendy teenage girls who are obsessed with the Pyramid.”
@@ -2230,6 +2386,7 @@ Watch for:
 ## S8 E18 — Last Day In Florida
 URL: https://watchwiththekids.com/ep/the-office/0818.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Jim learns that Robert plans to kill the store idea at the board meeting and tries to warn Dwight; Erin tells Andy that she is staying in Florida.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Dwight: “[to Robert] You think you're excited? You should feel my nipples. [Robert gives a fake laugh]”
@@ -2239,6 +2396,7 @@ Watch for:
 ## S8 E19 — Get the Girl
 URL: https://watchwiththekids.com/ep/the-office/0819.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Andy heads to Florida to win Erin back; Nellie shows up at the office and attempts to take over the manager job.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Robert California: “Jim, would you prefer a nature metaphor or a sexual metaphor?”
@@ -2249,6 +2407,7 @@ Watch for:
 ## S8 E20 — Welcome Party
 URL: https://watchwiththekids.com/ep/the-office/0820.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Robert California forces the staff to throw a welcome party for Nellie; Andy tries to break-up with Jessica.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2259,6 +2418,7 @@ Watch for:
 ## S8 E21 — Angry Andy
 URL: https://watchwiththekids.com/ep/the-office/0821.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Andy returns to the office to discover Nellie has taken over his job and refuses to give it up; Ryan is jealous when Kelly starts dating Jim and Pam's pediatrician.
 Watch for:
 - Sex & hookups — 10 moment(s)
   - Phyllis: “If it makes you feel any better, I never had an orgasm until I was forty-two. And then when I did, it lasted 'til I was forty-four.”
@@ -2284,6 +2444,7 @@ Watch for:
 ## S8 E22 — Fundraiser
 URL: https://watchwiththekids.com/ep/the-office/0822.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The staff attend a fundraiser hosted by Angela's husband.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Angela: “Andy: Hello! Did anyone order a blast from the past, with a side order of sexy?”
@@ -2299,6 +2460,7 @@ Watch for:
 ## S8 E23 — Turf War
 URL: https://watchwiththekids.com/ep/the-office/0823.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: A turf war ensues when Robert fails to implement a transition plan when a branch closes.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Nellie: “I mean, the man talks of nothing but sex.”
@@ -2308,6 +2470,7 @@ Watch for:
 ## S8 E24 — Free Family Portrait Studio
 URL: https://watchwiththekids.com/ep/the-office/0824.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Andy arranges for David Wallace to buy back the company to make him the regional manager again.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Robert California: “pep talk. Sexuality is a spectrum. It's a paradox to think of any sexual activity as "normal." It gets better but it also gets vastly more complicated.”
@@ -2322,6 +2485,7 @@ Watch for:
 ## S9 E1 — New Guys
 URL: https://watchwiththekids.com/ep/the-office/0901.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The office is joined by two new guys who the office dubs new Dwight and new Jim. Andy tries to force Nellie out.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Angela: “Well, I need to give my cat up for adoption. Kevin: The one who uses the doorbell, or the one with the Mexican hat, or the one with the rain galoshes, or the one you let go around naked?”
@@ -2333,6 +2497,7 @@ Watch for:
 ## S9 E2 — Roy's Wedding
 URL: https://watchwiththekids.com/ep/the-office/0902.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Jim and Pam attend Roy's wedding. Nellie tries to initiate a special project involving charity.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Clark: “Pff. Guess I'll just head over to the mall then. Buy Erin some sexy, fun outfits.”
@@ -2346,6 +2511,7 @@ Watch for:
 ## S9 E3 — Andy’s Ancestry
 URL: https://watchwiththekids.com/ep/the-office/0903.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Nellie convinces Andy that he is distantly related to Michelle Obama; Pam tries to teach Nellie how to drive.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Nellie: “My ex behaved like Nixon. All of the lying. None of the sexual charisma. [pauses] I just made a joke there.”
@@ -2357,6 +2523,7 @@ Watch for:
 ## S9 E4 — Work Bus
 URL: https://watchwiththekids.com/ep/the-office/0904.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Jim convinces Dwight that the office has safety issues so Jim sets up a temporary office in the parking lot.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Jim: “”..breast pain...””
@@ -2369,6 +2536,7 @@ Watch for:
 ## S9 E5 — Here Comes Treble
 URL: https://watchwiththekids.com/ep/the-office/0905.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: It's Halloween at the office and Andy invites his college's capella group to perform at the party; Jim and Pam disagree over how much to invest in the new sports business.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Andy: “I had sex with a snowman.”
@@ -2389,6 +2557,7 @@ Watch for:
 ## S9 E6 — The Boat
 URL: https://watchwiththekids.com/ep/the-office/0906.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Andy deals with the aftermath of his family losing all their money; Jim, Pam and Nellie pulls a radio interview prank on Dwight; Kevin finds out about Oscar and Angela's husband.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Pam: “Nellie: Well why don't I go and tell Dwight so he can stop being such a complete nipple.”
@@ -2406,6 +2575,7 @@ Watch for:
 ## S9 E7 — The Whale
 URL: https://watchwiththekids.com/ep/the-office/0907.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: The ladies of the office try and help Dwight pitch to a female client; Angela and Oscar think the Senator is cheating on them.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Business partner: “[laughing] Uh, yeah, that sounded kinda spooky-sexy, over here Halpert.”
@@ -2423,6 +2593,7 @@ Watch for:
 ## S9 E8 — The Target
 URL: https://watchwiththekids.com/ep/the-office/0908.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Angela wants to put a hit out on Oscar; Jim has to wine and dine Phyllis and Stanley for a favor.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Angela: “They’re sleeping with my husband.”
@@ -2451,6 +2622,7 @@ Watch for:
 ## S9 E9 — Dwight Christmas
 URL: https://watchwiththekids.com/ep/the-office/0909.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When the staff forgets about Christmas, Dwight is able to throw his version of Christmas.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Oscar: “I didn't realize how many of Angela's opinions I agreed with, until she tried to have my kneecap shattered for sleeping with her husband. She makes a lot of very sound points.”
@@ -2469,6 +2641,7 @@ Watch for:
 ## S9 E10 — Lice
 URL: https://watchwiththekids.com/ep/the-office/0910.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Pam brings lice into the office and lets Meredith take the fall.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Oscar: “[Angela is slapping mayo on Oscar's head] Angela. Angela: You don't want bugs. You know? Who knows where those bugs will end up?”
@@ -2478,6 +2651,7 @@ Watch for:
 ## S9 E11 — Suit Warehouse
 URL: https://watchwiththekids.com/ep/the-office/0911.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Dwight gets Clark to help him with a sale; Darryl has an interview at Jim's company.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Clark: “Kevin: Hey, so how was it? I mean… the sex with Jan.”
@@ -2492,6 +2666,7 @@ Watch for:
 ## S9 E12 — Customer Loyalty
 URL: https://watchwiththekids.com/ep/the-office/0912.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The office believes that Erin and Pete have feelings for each other; Jim misses his daughter's recital because of a business meeting.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2503,6 +2678,7 @@ Watch for:
 ## S9 E13 — Junior Salesman
 URL: https://watchwiththekids.com/ep/the-office/0913.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Clark has to compete against a bunch of Dwight's friends and family for the job of junior salesman.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Jim: “Darryl: Your friends are like Spider-man, if he had gotten bitten by a spider and then got really into masturbating.”
@@ -2510,6 +2686,7 @@ Watch for:
 ## S9 E14 — Vandalism
 URL: https://watchwiththekids.com/ep/the-office/0914.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Pam is upset when she finds her mural has been defaced; Darryl finds out Jim is a slob when they sublet an apartment together in Philly.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Darryl: “Just a couple of grown, sexy-ass roommates.”
@@ -2529,6 +2706,7 @@ Watch for:
 ## S9 E15 — Couples Discount
 URL: https://watchwiththekids.com/ep/the-office/0915.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The staff celebrates Valentine's Day by going out to a local nail salon for couple's discounts; Jim and Pam have lunch with Brian.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Nellie: “My boyfriend does look like a pretty girl, doesn't he? Yes, a very little pretty girl. And you know what, now that you are developing, we should go and get you a training bra. [both laugh at Clark]”
@@ -2544,6 +2722,7 @@ Watch for:
 ## S9 E16 — Moving On
 URL: https://watchwiththekids.com/ep/the-office/0916.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Andy learns that Erin is now seeing Pete; Pam interviews for a job in Philadelphia.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Andy: “Stanley: I'm the same way with horny people.”
@@ -2565,6 +2744,7 @@ Watch for:
 ## S9 E17 — The Farm
 URL: https://watchwiththekids.com/ep/the-office/0917.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: After Dwight's aunt dies, his sister and brother return for her funeral; Todd Packer returns to the office.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Todd Packer: “From that place 'Nipples'.”
@@ -2583,6 +2763,7 @@ Watch for:
 ## S9 E18 — Promos
 URL: https://watchwiththekids.com/ep/the-office/0918.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: The promo for the documentary is finally released.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Dwight: “Phyllis is masturbating. In the office right now as we speak.”
@@ -2603,6 +2784,7 @@ Watch for:
 ## S9 E19 — Stairmageddon
 URL: https://watchwiththekids.com/ep/the-office/0919.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Stanley refuses to go on a sales call with Dwight because the elevator is broke; Jim and Pam begin marriage counseling.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Erin: ““Though it mostly focuses on the daily realities of office life, a lurid subplot reveals the hypocrisy of a local public figure embroiled in a gay affair while preaching family values.””
@@ -2616,6 +2798,7 @@ Watch for:
 ## S9 E20 — Paper Airplane
 URL: https://watchwiththekids.com/ep/the-office/0920.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: The staff competes in a paper airplane contest.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Andy: “I'm not comfortable doing my own stunts. I'll get nude if you want me to, I'll go full Lena Dunham but I”
@@ -2626,6 +2809,7 @@ Watch for:
 ## S9 E21 — Livin' The Dream
 URL: https://watchwiththekids.com/ep/the-office/0921.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Andy quits as regional manager to focus on his acting career; Jim dedicates more time at Dunder Mifflin to save his marriage.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Meredith: “Hey, good choice, man. Seriously. Don’t want to see you in a porn next year.”
@@ -2641,6 +2825,7 @@ Watch for:
 ## S9 E22 — A.a.r.m.
 URL: https://watchwiththekids.com/ep/the-office/0922.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Andy auditions for a singing competition; Dwight hires an assistant to his assistant to the regional manager...himself; Kevin is jealous of Phillip.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Dwight: “Plus her dowry contains a walk-in freezer full of frozen, premium cattle sperm.”
@@ -2660,6 +2845,7 @@ Watch for:
 ## S9 E23 — Finale
 URL: https://watchwiththekids.com/ep/the-office/0923.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: The office staff reunites for a panel discussion and Dwight and Angela's wedding.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Pam: “I think she looks good. Now that she’s wearing sports bras, we don’t see her boobs as much.”

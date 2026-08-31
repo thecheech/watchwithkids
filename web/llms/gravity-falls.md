@@ -12,17 +12,18 @@ Watch for: nothing flagged.
 ## Ep 2 — A Tale of Two Stans
 URL: https://watchwiththekids.com/ep/gravity-falls/0002.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Cornered underneath the Mystery Shack, Stan must finally reveal the secrets of his past and his mysterious portal to Dipper and Mabel. Academy Award winner J.K. Simmons ("Whiplash") recurs as Stan's twin brother.
 Watch for:
 - Violence & injury — 9 moment(s)
   - And so the Murder Hut was born!
-  - Wait, forget. That's it! I think I know a way we might be able to defeat those agents! (Takes a Memory erasing gun out of a bag and gives it to Stanford)
-  - (Plugs some wires into the gun and looks through some viewing glasses to see the agents running into the shack) There.
   - Punch each other and laugh
   - Ha ha! Good thing you've got your smarts, Poindexter. I've got the other thing. What is it called? Oh, right, punching! (punches through a board; looks at his hand, which now has splinters all over it) Cool. Splinters!
   - Punches him in the face
   - What I did?! Why, you ungrateful... (Tries to punch him but Ford ducks and grabs him) Don't expect me to go easy on you, just because you're... family. (As Ford slams him to the ground) Ah!
   - Punches him playfully in the arm) Well then, I guess you better come visit me on the other side of the country. Haha. (Walks away back home
   - It's a trans-universal gateway, a punched hole through a weak spot in our dimension.
+  - Wait, forget. That's it! I think I know a way we might be able to defeat those agents! (Takes a Memory erasing gun out of a bag and gives it to Stanford)
+  - (Plugs some wires into the gun and looks through some viewing glasses to see the agents running into the shack) There.
 - Alcohol & drugs — 1 moment(s)
   - (Stoically) I'd say we wasted a car trip.
 
@@ -44,14 +45,15 @@ Watch for:
 ## Ep 4 — Blendin's Game
 URL: https://watchwiththekids.com/ep/gravity-falls/0004.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Blendin Blandin returns to fight Dipper and Mabel in a futuristic battle that could trap the two of them forever in time jail.
 Watch for:
 - Violence & injury — 7 moment(s)
   - You're right, Dipper! It's time for us to bring out the big guns!
   - Um, we definitely didn't rifle through your wallet? (Awkwardly laughs)
-  - Cut back to laser tag at Big Guns
-  - Robbie chases Thompson, spraying him with a water gun.
-  - (Shoots Dipper in face with a water gun) Heheh, dorks. Young Robbie!
   - (Shows only Blendin's head and hands) Oh, uh, (He fiddles with and punches his wristwatch as his uniform alternates through scenery) Sorry...
+  - Cut back to laser tag at Big Guns
+  - Freeze! (Shoots laser gun at tree, which blows up, revealing Robbie, who runs away crying) Trace their chrono-signatures.
+  - Freeze! (Points laser gun at them)
   - The crowd is shouting "Globnar" repeatedly, punching their fists in the air, and the group is shown on a large screen at the edge of the arena.
 - Alcohol & drugs — 1 moment(s)
   - Are you kidding me?! Do you have any idea what you’ve just wasted?! Do you how many have died to get the time wish; the wars that were started?!
@@ -59,9 +61,8 @@ Watch for:
 ## Ep 5 — Boss Mabel
 URL: https://watchwiththekids.com/ep/gravity-falls/0005.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Mabel questions the way Stan runs the Shack, he challenges her to a bet - whoever can make the most money in three days wins the chance to run the Shack however they wish for the rest of the summer. Mabel takes the bet and implements a new bossing method that coddles her employees and gives them the freedom to follow their hopes and dreams. Unfortunately, the results are not as expected and Mabel finds herself just trying to get back some normalcy. Meanwhile, Grunkle Stan sets off to win big money on a television game show.
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - (steps out from behind the porta-potty, showing he only has his foam question mark and underwear on) revealing, than I expected?
 - Violence & injury — 2 moment(s)
   - Money starts falling down on the man in the middle. When the other two contestants try to take some money, he slaps and punches them away.
   - Comes up with a large moving bag) Mabel! I captured something! This is gonna blow those tourists away! Ha ha! (The creature inside the bag grabs Dipper's arm, and Dipper punches it repeatably, and the creature lets go.
@@ -69,6 +70,7 @@ Watch for:
 ## Ep 6 — Bottomless Pit!
 URL: https://watchwiththekids.com/ep/gravity-falls/0006.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Stan, Dipper, Mabel and Soos find themselves falling into a bottomless pit, they each decide to tell a different story to pass the time.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Well, take this! (Hits a button but hits himself in the eye) Ow! And this! (Punches himself again) Ow! It hurts. I wish this was working better. And this! Aw, dude! (Knocks himself down)
@@ -78,6 +80,7 @@ Watch for:
 ## Ep 7 — Boyz Crazy
 URL: https://watchwiththekids.com/ep/gravity-falls/0007.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Mabel discovers that her favorite boy band is actually a bunch of imprisoned clones, she sets them free, only to decide on keeping them for herself. Meanwhile, Dipper is convinced that Robbie plans to brainwash Wendy with a secret message hidden inside one of his songs.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Finally, a good reason to punch a teenager in the face. Let's roll!
@@ -92,16 +95,16 @@ Watch for:
 ## Ep 9 — Carpet Diem
 URL: https://watchwiththekids.com/ep/gravity-falls/0009.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Dipper discovers a hidden room inside the Mystery Shack, he is happy to claim it as his own space, but there is one problem - Mabel wants the room too. The duo compete to win the room with a contest that gets even trickier when they learn the room's carpet has electric body swapping properties.
 Watch for:
-- Nudity & bodies — 2 moment(s)
-  - At least I wash my clothes once in a while. (Picks up a pair of underwear with the fun stick)
+- Nudity & bodies — 1 moment(s)
   - Waddles, you got it good, bro. You got no worries. I mean, nobody thinks it's cute when I lie naked on the living room floor. I wish I could be a pig. (Rubs Waddles' head, the electrons are swapped, and they swap bodies)
 - Violence & injury — 5 moment(s)
-  - Free meal... (Pulls a knife and a fork out of his beard)
-  - (Comes up from behind Soos with fork and knife) I'll still eat ya.
   - (Starts punching the floor) Beautiful! Beautiful!
   - One baby is poked with a stick and the two begin slapping each other.
   - (Punching Dipper's stomach) Get out, get out, get out!
+  - Free meal... (Pulls a knife and a fork out of his beard)
+  - (Comes up from behind Soos with fork and knife) I'll still eat ya.
 - Fat-shaming — 1 moment(s)
   - I said, uh, shut up old man! You're fat and dumb and you're a dummy and, take that! (Lightly punches Stan on the arm)
 
@@ -112,16 +115,17 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - (Cut to a clip of Manotaurs cheering, with one holding another in a headlock and punching him in the face.
 - Racism & slurs — 1 moment(s)
-  - Cryptograms! Have you seen this mixed up gobbly [racial slur]?
+  - Cryptograms! Have you seen this mixed up gobbly gook?
 
 ## Ep 11 — Dipper and Mabel vs. the Future
 URL: https://watchwiththekids.com/ep/gravity-falls/0011.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Mabel decides to plan for her and Dipper's 13th birthday party.
 Watch for:
 - Violence & injury — 4 moment(s)
+  - My hormones are like a sweaty cage! (Punches bulletin board)
   - This magnet gun can rip the fillings out of a man's mouth from 100 feet.
   - Now come. Take this. (throws Dipper a magnet gun)
-  - My hormones are like a sweaty cage! (Punches bulletin board)
   - When confirmation of extraterrestrials still had that punch.
 - Swearing — 1 moment(s)
   - Also, if it touches you it will seal up all the orifices in your face, (cocks gun) so try to avoid that.
@@ -129,6 +133,7 @@ Watch for:
 ## Ep 12 — Dipper vs. Manliness
 URL: https://watchwiththekids.com/ep/gravity-falls/0012.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: In a quest to attain manliness, Dipper ventures into the forest to battle the notorious Multi-Bear. Meanwhile, Mabel tries to teach Grunkle Stan how to be attractive to women, particularly the waitress in the local diner, Lazy Susan,.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - I have three Y chromosomes, six adam's apples, pecs on my abs and FISTS FOR NIPPLES!
@@ -141,6 +146,7 @@ Watch for:
 ## Ep 13 — Double Dipper
 URL: https://watchwiththekids.com/ep/gravity-falls/0013.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Stan throws a big party to promote the Mystery Shack, while Dipper uses a strange photocopier to make clones of himself, so that he can impress Wendy.
 Watch for:
 - Violence & injury — 3 moment(s)
   - Robbie, you're a stupid, arrogant fraud; but kiss me anyway because you can play guitar. Oh wait, I forgot something. (Walks over and punches Dipper; to Robbie:) LET'S GET MARRIED TONIGHT!
@@ -150,6 +156,7 @@ Watch for:
 ## Ep 14 — Dreamscaperers
 URL: https://watchwiththekids.com/ep/gravity-falls/0014.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Dipper, Mabel and Soos must travel through Grunkle Stan's mind to defeat a tricky dream demon summoned by Lil Gideon.
 Watch for:
 - Violence & injury — 6 moment(s)
   - Dipper, Mabel, Stan, and Wendy are watching television. Dipper and Wendy are shooting each other with Nyarf brand dart guns.
@@ -164,8 +171,8 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0015.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - (Takes out a gun) Your math is no match for my gun, you idiot!
   - Everyone, get down! Don't let it taste human flesh! (Punches it and it drops off his hand crawls around the room)
+  - (Takes out a gun) Your math is no match for my gun, you idiot!
 
 ## Ep 16 — Eyes
 URL: https://watchwiththekids.com/ep/gravity-falls/0016.html
@@ -175,10 +182,11 @@ Watch for: nothing flagged.
 ## Ep 17 — Fight Fighters
 URL: https://watchwiththekids.com/ep/gravity-falls/0017.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: After being challenged to a video game battle by Wendy's boyfriend Robbie, Dipper is shocked when his favorite playable fighter, Rumble McSkirmish, comes to life to defend him. But Dipper soon loses control over Rumble McSkirmish and has to find a way to stop him.
 Watch for:
 - Violence & injury — 6 moment(s)
-  - You know, studies show that keeping a ladder in the house is more dangerous than a loaded gun. That's why I own ten guns, in case some maniac tries to sneak in with a ladder.
   - I'm gonna punch the ref.
+  - You know, studies show that keeping a ladder in the house is more dangerous than a loaded gun. That's why I own ten guns, in case some maniac tries to sneak in with a ladder.
   - (Enters code) Back, back, hold, forward, back, forward, down, hold, quarter circle, forward, triple punch!
   - I punched an oil drum!
   - I WILL NOT REST UNTIL THE MAN WHO DISHONORED YOU IS DESTROYED!!! (Punches Robbie's band poster and runs after him) AAAAAAAAAAAAARRRRGGGG! (Jumps up and punches an electric pole) PUNCH!!
@@ -187,11 +195,12 @@ Watch for:
 ## Ep 18 — Gideon Rises
 URL: https://watchwiththekids.com/ep/gravity-falls/0018.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: After 'Lil Gideon swindles the Mystery Shack away from Stan, everything in Gravity Falls appears to be even more west of weird - Dipper, Mabel and Grunkle Stan are forced to move in with Soos and his grandmother, while the town remains enamored with Gideon's charm. Meanwhile, Grunkle Stan isn't certain he can take care of the twins and is considering sending them back home. With their summer in Gravity Falls threatening to come to an end, Mabel and Dipper decide to take on Gideon and win back their home.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - (Shoots water guns at Dipper and Mabel and pops out of cardboard box) Soos-ed!
   - Sighs) You're a good man... child, Soos, but it's not lookin' good. This whole town loves Gideon and hates me. If only they knew how evil he really was! (punches the table in anger
   - Gideon runs inside the robot and is in his motion-sensor suit, he then punches his right hand, and the robot pushes the Gideonland sign into the ground. the Gideon-Bot walks away.
+  - (Shoots water guns at Dipper and Mabel and pops out of cardboard box) Soos-ed!
 
 ## Ep 19 — Government Agency
 URL: https://watchwiththekids.com/ep/gravity-falls/0019.html
@@ -201,15 +210,15 @@ Watch for: nothing flagged.
 ## Ep 20 — Headhunters
 URL: https://watchwiththekids.com/ep/gravity-falls/0020.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: When someone tampers with Mabel's life-size wax statue, she and Dipper set out to find the culprit. Meanwhile, Grunkle Stan mourns over the loss of his wax doppelganger.
 Watch for:
-- Violence & injury — 12 moment(s)
+- Violence & injury — 11 moment(s)
   - (Starts quacking, the subtitles read:) Accident, constable? Or is it...Murder?!
   - Wax Stan! He's been... m-murdered! (Clock bongs three times)
   - There were a lot of unhappy customers at the unveiling. (Looks at the bulletin board with pictures of suspects) The murderer could have been anyone.
   - Furious enough, for murder!
   - We're heading into town right now to interrogate the murderer.
   - Wait a minute, what has a hole on its shoes and no fingerprints? Mabel! The murderers are
-  - Grunkle Stan, I'm an arts and crafts master. Why do you think I always have this glue gun stuck to my arm? (Holds up her arm, which has a glue gun glued to it; shakes her arm) Eugh, eugh!
   - It's Mabel. (Takes microphone) Thank you for coming! I made this sculpture with my own two hands! (Throws up her arms) It's covered in my blood, sweat, tears, and other fluids!
   - (Punches a pole) In your face!
   - Jokingly punches Stan
@@ -219,9 +228,8 @@ Watch for:
 ## Ep 21 — Into the Bunker
 URL: https://watchwiththekids.com/ep/gravity-falls/0021.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Dipper's secret journal pages lead him and the gang to the author's hidden bunker where they find themselves face-to-face with a mysterious figure from Gravity Falls' lore.
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - (Casually) Dude, you're laying on my bra.
 - Violence & injury — 2 moment(s)
   - It's cool, it's cool. It's just blood, man; don't freak out.
   - Two! (Punches symbol)
@@ -229,11 +237,13 @@ Watch for:
 ## Ep 22 — Irrational Treasure
 URL: https://watchwiththekids.com/ep/gravity-falls/0022.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: When Dipper and Mabel discover evidence that the reported town founder is a hoax, they set out to expose the historical cover-up and prove that Mabel's silliness is not a bad thing.
 Watch for: nothing flagged.
 
 ## Ep 23 — Land Before Swine
 URL: https://watchwiththekids.com/ep/gravity-falls/0023.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: When a prehistoric beast snatches Mabel's beloved pig Waddles, the Pines family must journey to a land trapped in time to rescue him.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - He's a fat, naked, jerk.
@@ -262,6 +272,7 @@ Watch for:
 ## Ep 26 — Little Dipper
 URL: https://watchwiththekids.com/ep/gravity-falls/0026.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Dipper feels self-conscious that Mabel is taller than him and is becoming the alpha twin, so he seeks out a magic way to grow himself the same height. Meanwhile, Lil' Gideon takes advantage of Dipper's and Mabel's height discrepancies.
 Watch for:
 - Violence & injury — 2 moment(s)
   - (Sees a butterfly pass through the pink light and shrink, then the blue light and grow; it knocks over a tree) What the heck? (Cuts a crystal off with a Swiss army knife)
@@ -270,18 +281,20 @@ Watch for:
 ## Ep 27 — Little Gift Shop of Horrors
 URL: https://watchwiththekids.com/ep/gravity-falls/0027.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: In three separate mysterious tales, Stan is cursed by a Witch, Waddles accidentally eats a bowl of brain-enhancing jelly and builds a machine that allows him to speak for the first time, and Mabel faces her fear of Claymotion.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Drives into the machine) The origin of life. The meaning of existence. Why dudes have nipples. (He presses a button, making the machine glow
 - Violence & injury — 4 moment(s)
-  - Don't forget the laser gun I made for Candy.
   - Punches several hands before one grabs his face
   - Hands are slapping Stan.
+  - Don't forget the laser gun I made for Candy.
   - Kid, I'm sorry I doubted you. (Punches through clay). You were right! Stop-motion is pure evil.
 
 ## Ep 28 — Mabel's Guide to Art
 URL: https://watchwiththekids.com/ep/gravity-falls/0028.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: Mabel reveals that her gift of art has driven her to genius level with the creation of her own personal art movement - the "Caticature.".
 Watch for: nothing flagged.
 
 ## Ep 29 — Mabel's Guide to Color
@@ -292,16 +305,19 @@ Watch for: nothing flagged.
 ## Ep 30 — Mabel's Guide to Dating
 URL: https://watchwiththekids.com/ep/gravity-falls/0030.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: Mabel gives her thoughts on dating and puts her dating quiz to the test with three of Gravity Falls' most eligible bachelors - Grunkle Stan, Dipper and Soos.
 Watch for: nothing flagged.
 
 ## Ep 31 — Mabel's Guide to Fashion
 URL: https://watchwiththekids.com/ep/gravity-falls/0031.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: Mabel reveals her fashion secrets to the world, including FLASH MAKEOVERS!.
 Watch for: nothing flagged.
 
 ## Ep 32 — Mabel's Guide to Stickers
 URL: https://watchwiththekids.com/ep/gravity-falls/0032.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: Mabel gives her unique perspective on the history of stickers, their many styles and uses.
 Watch for: nothing flagged.
 
 ## Ep 33 — Mailbox
@@ -318,8 +334,7 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/gravity-falls/0035.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Violence & injury — 5 moment(s)
-  - Grenda, get the glue gun. We're making dresses!
+- Violence & injury — 4 moment(s)
   - Aah! (Screams as blood dripping from above, gasps, looks up)
   - Blood swells from the mouths of the stuffed animal heads on the walls. Dipper and Pacifica shout as the fire bursts out of the fireplace.
   - Ugh, it's like this collar is strangling me. Who do you guys think you're impressing with this stuff?
@@ -328,6 +343,7 @@ Watch for:
 ## Ep 36 — Not What He Seems
 URL: https://watchwiththekids.com/ep/gravity-falls/0036.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Summary: After government agents take Stan into custody, Dipper and Mabel question how much they really know about their Grunkle Stan. Nick Offerman guest stars as Agent Powers.
 Watch for:
 - Swearing — 1 moment(s)
   - Several agents rappel out of a helicopter. Cut to the Mystery Shack attic, where agents crash in and cock their weapons.
@@ -340,6 +356,7 @@ Watch for: nothing flagged.
 ## Ep 38 — Roadside Attraction
 URL: https://watchwiththekids.com/ep/gravity-falls/0038.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Grunkle Stan takes the kids with him on a road-trip to sabotage all the other tourist traps in Oregon.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - You know, I'm going on a break. You wanna take the sky tram up to Widow's Peak?
@@ -353,26 +370,27 @@ Watch for:
 ## Ep 39 — Scary-oke
 URL: https://watchwiththekids.com/ep/gravity-falls/0039.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: The Pines family resolves to get back to normal after the Li'l Gideon incident. They throw a "Mystery Shack is Back" party, but some unwelcome guests crash the celebration.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - (Pulls a zombie head off his jacket and watches it dissolve in his hand) This is bigger than we imagined. We need to bring in the big guns.
   - Eat it, no eyes! (A zombie growls and bites the baseball bat in half, only be punched by Stan's brass-knuckle-wearing fists) ANYONE ELSE WANNA PIECE?!
   - A zombie breaks through the window. Stan punches it and watches it fall to the ground, where a crowd of zombies is staring up at the Shack. More start crawling up the outside walls.
+  - (Pulls a zombie head off his jacket and watches it dissolve in his hand) This is bigger than we imagined. We need to bring in the big guns.
 
 ## Ep 40 — Society of the Blind Eye
 URL: https://watchwiththekids.com/ep/gravity-falls/0040.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: The kids, along with Old Man McGucket's help, discover there is a secret society in Gravity Falls.
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - You're no match for the unstoppable power of- (His robe is caught in the tube and rips off, leaving him in his underwear.) That's right, I don't wear nothin' under my robe.
 - Violence & injury — 3 moment(s)
+  - (A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous.
   - There, there. (Pulls ray gun out of the box. The members pull down their hoods.) You won't be like "Bwaaa?" for much longer.
   - What is that gizmo? It looks like a hair dryer. Are you guys barbers? (The Lead Member zaps her with the gun.) AAAAAH!
-  - (A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous.
 
 ## Ep 41 — Sock Opera
 URL: https://watchwiththekids.com/ep/gravity-falls/0041.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Mabel decides to put on a sock puppet rock opera to impress a local puppeteer, but her show goes awry when Dipper's drive to uncover journal secrets leads to a supernatural disaster.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Did he just make out with his puppets?
@@ -382,6 +400,7 @@ Watch for:
 ## Ep 42 — Soos and the Real Girl
 URL: https://watchwiththekids.com/ep/gravity-falls/0042.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Soos needs a date for his cousin Reggie's engagement party and looks to a dating simulator game to help him talk to girls.
 Watch for:
 - Violence & injury — 6 moment(s)
   - (Playing a video game entitled "First Person Puncher") Punch!
@@ -404,9 +423,8 @@ Watch for: nothing flagged.
 ## Ep 45 — Summerween
 URL: https://watchwiththekids.com/ep/gravity-falls/0045.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: It's Gravity Falls' version of Halloween in Summer with Jack-o-Melons and lots of trick-or-treating. Dipper and Mabel are excited to join in on the fun, but when Wendy casually mentions that trick-or-treating is for kids, Dipper's whole outlook on the evening changes. The night gets even more complicated when a monster that Dipper accidentally insulted makes them fulfill his candy quota by night's end or else he will eat them.
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - (Still wearing his underwear) Ahahaha! Still got it!
 - Violence & injury — 2 moment(s)
   - (Picks up a big barrel of fake blood) Ha ha! When the children come to my door tonight, they're gonna run away screaming from Stan Pines, Master of Fright! (Turns, faces a baby) Boo.
   - (Holding leaking container of fake blood) Uh-oh. Think this one's leaking!
@@ -414,6 +432,7 @@ Watch for:
 ## Ep 46 — The Deep End
 URL: https://watchwiththekids.com/ep/gravity-falls/0046.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: When Mabel befriends a cute Merman trapped in the deep end of the public pool, she's determined to return him to his family in the ocean - even though that means her whirlwind.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Well, thanks, I— (Mr. Poolcheck strangles him in a hug.) Yep. Oh, this is happening.
@@ -421,10 +440,10 @@ Watch for:
 ## Ep 47 — The Golf War
 URL: https://watchwiththekids.com/ep/gravity-falls/0047.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: After being belittled by Pacifica one too many times, Mabel challenges her to a miniature golf-off which gets a tad out of control when some local residents offer their help.
 Watch for:
-- Violence & injury — 5 moment(s)
+- Violence & injury — 4 moment(s)
   - Uh, I don't know, guys. I'm not sure I wanna get involved in your weird mini-blood feud.
-  - Gun it! (They drive away.)
   - Guys, this is amazing! If Mabel gets a hole in one here, she'll beat her all-time high score!
   - Soos, would it be wrong to punch a child?
   - Yeah! If you beat her at this, she could never rag on you again. Imagine it!
@@ -432,6 +451,7 @@ Watch for:
 ## Ep 48 — The Hand That Rocks the Mabel
 URL: https://watchwiththekids.com/ep/gravity-falls/0048.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Dipper and Mabel discover their seemingly cherubic new neighbor, Lil' Gideon, happens to be the town's adored psychic. But when Dipper convinces Mabel to go on a date with Gideon to question his authenticity, she soon learns that his cuteness can fade all too quickly.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Oh hey man. Sorry for accusing you of murder last week.
@@ -452,6 +472,7 @@ Watch for: nothing flagged.
 ## Ep 51 — The Inconveniencing
 URL: https://watchwiththekids.com/ep/gravity-falls/0051.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: When Dipper tries to impress Wendy by acting older than he really is, he's invited to join a group of teenagers that leads to an old abandoned convenience store that may be haunted. Mabel tags along for the ride but gets sidetracked when she sees a discontinued line of flavored candies that sends her on an unexpected adventure.
 Watch for:
 - Violence & injury — 6 moment(s)
   - No! (Screams as a stabbing sound is heard)
@@ -464,19 +485,21 @@ Watch for:
 ## Ep 52 — The Last Mabelcorn
 URL: https://watchwiththekids.com/ep/gravity-falls/0052.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: A new threat leads Mabel to venture into the enchanted realm of the unicorns. Meanwhile, Dipper learns an unexpected twist about the enigmatic Bill Cipher.
 Watch for:
 - Violence & injury — 7 moment(s)
   - So can I go on a mission to get that hair? Please please please? I'LL GIVE YOU MY BLOOD!
-  - Off-screen:) AH! IT'S THE COPS! GUN IT! (Drives away accompanied by the sound of pugs yapping
   - Montage: “Mabel donates three pints of blood, then faints.”
-  - (Backing away) Why were you really scanning my thoughts? (Aims Memory Gun at Ford) Are you Bill right now?!
   - …so many good deeds, I'll have the purest heart in Gravity Falls! (Pumps fist in the air and accidentally punches a bird out of the air which opens Wendy's, Candy's, and Grenda's mouth as a form of minor shock for…
   - (Wendy then punches and rubs her left fist against her right hand as a way of signaling a violent gesture)
+  - (Backing away) Why were you really scanning my thoughts? (Aims Memory Gun at Ford) Are you Bill right now?!
+  - (Charging gun) Trust no one, trust no one, trust...
   - Candy, Grenda, Mabel and Wendy are behind her. They are all beat up and covered in unicorn fluids and tears.
 
 ## Ep 53 — The Legend of the Gobblewonker
 URL: https://watchwiththekids.com/ep/gravity-falls/0053.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Dipper and Mabel hear rumors that a lake monster lives at the bottom of the local lake, they enlist Soos to take them on a boating expedition to prove that it really does exist, instead of going with Stan Pines to go fishing.
 Watch for:
 - Violence & injury — 2 moment(s)
   - NO! (Takes the pole and breaks it in half) I'll show you how a real man fishes! (Grabs a fish straight out of water) Ha ha ha ha ha! (Throws fish on the floor of their boat and jumps on it, he punches it repeatedly)
@@ -485,6 +508,7 @@ Watch for:
 ## Ep 54 — The Love God
 URL: https://watchwiththekids.com/ep/gravity-falls/0054.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Mabel takes matchmaking too far when she steals a love potion from a real love god.
 Watch for:
 - Violence & injury — 6 moment(s)
   - Cut to the inside of the house. There is a glass coffin with a corpse in it. On top of it is a tray of crackers and grapes. Mr. Valentino grabs the tray and approaches Mabel, who is sitting on the couch.
@@ -497,17 +521,18 @@ Watch for:
 ## Ep 55 — The Stanchurian Candidate
 URL: https://watchwiththekids.com/ep/gravity-falls/0055.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Grunkle Stan decides to run for mayor, Dipper and Mabel have their work cut out for them trying to turn their gaffe-prone uncle into the perfect candidate.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Come on, have you seen the polls? I could debate naked and I'd still win! Huh, come to think of it...
-- Violence & injury — 3 moment(s)
-  - (Picks up knife and fork) Now this I could get used to!
+- Violence & injury — 2 moment(s)
   - I'll win either way, and when I do, you might not like the Gravity Falls you wake up in! (Punches out the Mystery Shack on a map of Gravity Falls hanging on the wall)
   - Is shrugging off birdseed) No, stop it! (turns to crowd) Thank you, but stop it! (eagles begin flying around Stan) Aah! Get back, you terror birds! (Stan punches them out and keeps climbing
 
 ## Ep 56 — The Time Traveler's Pig
 URL: https://watchwiththekids.com/ep/gravity-falls/0056.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: When Dipper wishes he could go back in time and undo a mistake he made, he discovers there is a time machine that can help him do just that. Meanwhile, it's love at first sight for Mabel when she wins a pet pig at the fair.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Let's go get two dodos and force them to make out!
@@ -524,11 +549,10 @@ Watch for: nothing flagged.
 ## Ep 58 — Tourist Trapped
 URL: https://watchwiththekids.com/ep/gravity-falls/0058.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Dipper and Mabel Pines arrive to spend their summer break in the remote town of Gravity Falls, Mabel's suspiciously weird new boyfriend causes the twins to come face to face with the town's strange and uncanny secrets.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - (Fires the grappling hook up at the ceiling; it catches and pulls her up) Grappling hook!
-- Nudity & bodies — 1 moment(s)
-  - Cut to a Sasquatch wearing underwear. Tourists start speaking excitedly, and snap pictures. Cut to Dipper sweeping the wooden floor with a broom. Mabel is looking at stuff.
 - Violence & injury — 2 moment(s)
   - With Steve biting her sweater arm) Let go of me! (Punches Steve off
   - Mabel elbow punches a gnome off. Shmebulock jumps up behind Dipper, who grabs him and slams him into the steering wheel out of annoyance.
@@ -546,6 +570,7 @@ Watch for: nothing flagged.
 ## Ep 61 — TV Shorts 1
 URL: https://watchwiththekids.com/ep/gravity-falls/0061.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: Mabel watches the public television of Gravity Falls. On the television she finds a Mystery Shack TV commercial, some words by Soos, and footage of Gideon in the prison, which appears to be a sort of reality show about his interaction with fellow inmates.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Cuts to scene where Gideon is holding a pillow with a page taped on it saying "MY ISSUES", a second prisoner is sitting next to him punching the pillow.
@@ -553,14 +578,13 @@ Watch for:
 ## Ep 62 — TV Shorts 2
 URL: https://watchwiththekids.com/ep/gravity-falls/0062.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
+Summary: Grunkle Stan watches Ducktective, Teenz Talk, and Why You Ackin' So Cray-Cray.
 Watch for: nothing flagged.
 
 ## Ep 63 — Unaired pilot
 URL: https://watchwiththekids.com/ep/gravity-falls/0063.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Cut to an apelike figure wearing underwear, with a sign that reads "The Sascrotch."
 - Violence & injury — 4 moment(s)
   - How's about corpse melon.
   - The twins are ringing the bell. The door opens and Grunkle Stan appears from the dark, growling and covered in a blood-like substance.

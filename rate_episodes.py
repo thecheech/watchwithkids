@@ -14,7 +14,7 @@ from themes import (
     build_themes,
     collect_moments,
     evidence_caps,
-    scrub_false_swear_names,
+    scrub_rating_false_positives,
     themes_as_examples,
     why_this_score,
 )
@@ -1119,7 +1119,7 @@ def score_from_hits(weighted_hits: int, tiers: list[tuple[int, int]]) -> int:
 
 def analyze_text(text: str) -> dict:
     body = text.split("=" * 20, 1)[-1]
-    lower = scrub_false_swear_names(body.lower())
+    lower = scrub_rating_false_positives(body.lower())
 
     sex_hits = []
     sex_weight = 0

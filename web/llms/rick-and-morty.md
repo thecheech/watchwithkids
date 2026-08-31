@@ -7,6 +7,7 @@ Buckets: 0 all clear (1–2), 6 gray area (3), 76 hard pass (4–5).
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/rick-and-morty/0101.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
+Summary: Rick takes Morty to another dimension to get some seeds for him but Morty's parents are considering to put Rick in a retirement home for keeping Morty away from school to help him in his lab.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -19,6 +20,7 @@ Watch for:
 ## S1 E2 — 2. Lawnmower Dog
 URL: https://watchwiththekids.com/ep/rick-and-morty/0102.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Morty's small, white dog Snuffles gets on the nerves of the family, so Rick quickly builds a knowledge enhancing helmet for the dog. In the meantime, Rick and Morty decide to incept the dreams of Morty's math teacher, Mr. Goldenfold in order to convince him to give Morty A's in math. While the duo are sent on an epic dream world journey, Snuffles slowly gains sentience, which leads to a slew of even more problems.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh, my God! Put some clothes on, for Pete's sake! This is disgusting! - I'm gonna puke! - I can't take it, Rick! Sexual hang-ups in the pleasure chamber are punishable by death!”
@@ -37,6 +39,7 @@ Watch for:
 ## S1 E3 — 3. Anatomy Park
 URL: https://watchwiththekids.com/ep/rick-and-morty/0103.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: It's around Christmas time and Jerry's parents are coming to visit so he wants everybody to have a normal holiday without technology and without Rick. Fortunately for him, Rick has other plans, involving building a molecular theme park inside of a friend of his named Ruben, and he shrinks down Morty and sends him in there to test it out.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -47,14 +50,14 @@ Watch for:
 - Violence & injury — 4 moment(s)
   - “We're inside a corpse, my boy.”
   - “We built it when Reuben became incontinent, but it was not designed to hold a corpse load.”
-  - “I don't know if our marriage will It's raining blood! Oh, sh*t.”
+  - “I don't know if our marriage will It's raining blood! Oh, shit.”
   - “Blood and chunks of viscera are raining down on the country.”
 - Swearing — 10 moment(s)
   - “What? Jerry, let that stuff go, okay? I'm sorry I was a bitch earlier.”
   - “Poncho? What is this in your backpack? That's bubonic plague! What are you doing with that, Poncho? Everybody, get back! Poncho, you son of a bitch!”
   - “It was a dick move for me to even pause like that.”
-  - “I don't know if our marriage will It's raining blood! Oh, sh*t.”
-  - “…new- - Those guys are inside me, huh? Like, building a park? Those guys are inside you building a piece of sh*t, Ethan!”
+  - “I don't know if our marriage will It's raining blood! Oh, shit.”
+  - “…new- - Those guys are inside me, huh? Like, building a park? Those guys are inside you building a piece of shit, Ethan!”
   - “…are we going to be when we die a list of fears and questions or a collection of real experiences? Holy crap.”
   - “What the hell's going on here? I don't know why, but the entire security system has shut down, and I'm afraid the exhibits are unlocked.”
   - “Summer! - Ethan? What are you doing here? I've been texting you for hours! What the hell?!”
@@ -64,6 +67,7 @@ Watch for:
 ## S1 E4 — 4. M. Night Shaym-Aliens!
 URL: https://watchwiththekids.com/ep/rick-and-morty/0104.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Aliens send Rick, Morty and Jerry into an alternate reality, and Rick tries to get them out as oblivious Jerry pitches a marketing slogan for apples.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Man, how does a guy like that go home and have sex with his wife? Hey, Morty.”
@@ -82,6 +86,7 @@ Watch for:
 ## S1 E5 — 5. Meeseeks and Destroy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0105.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: Morty has grown weary of Rick's shenanigans, so he leads a supposedly safer adventure. Jerry conjures weird creatures to help him with his golf game.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Countries known for their sexually aggressive men.”
@@ -109,6 +114,7 @@ Watch for:
 ## S1 E6 — 6. Rick Potion #9
 URL: https://watchwiththekids.com/ep/rick-and-morty/0106.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: Rick provides Morty with a love potion to get Jessica. The serum backfires & Rick's attempt to fix things creates Cronenberg inspired monsters. Rick is okay with it but Morty feels partly responsible for creating a living nightmare.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I had sex with Billy.”
@@ -138,6 +144,7 @@ Watch for:
 ## S1 E7 — 7. Raising Gazorpazorp
 URL: https://watchwiththekids.com/ep/rick-and-morty/0107.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: After Morty fathers a child with a sex robot, Rick and Summer visit the robot's planet, where the kid grows into an adult within days.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You could play guitar, you could masturbate I don't wanna masturbate, I wanna conquer the planet! Oh, here we go again! Who do you think is gonna love you if you conquer the planet Morty Jr.”
@@ -157,8 +164,8 @@ Watch for:
   - “What?! Just give me a gun, I'll kill myself.”
 - Swearing — 6 moment(s)
   - “Like you would even know dick about fraculation.”
-  - “Holly sh*t! You're gonna crush us with a boulder?! No! Stop interrupting! The boulder falls onto a lever that will launch - Knives.”
-  - “Such an a**hole.”
+  - “Holly shit! You're gonna crush us with a boulder?! No! Stop interrupting! The boulder falls onto a lever that will launch - Knives.”
+  - “Such an asshole.”
   - “Your planet just got cellphones and the coverage still sucks! Yeah, yeah, and your species eat sulfur.”
   - “? Oh crap, he named it.”
   - “Oh right, because there is something about having a wiener that would make me better walking through a hole? Oh crap.”
@@ -166,6 +173,7 @@ Watch for:
 ## S1 E8 — 8. Rixty Minutes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0108.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: When Rick hooks up the family's tv receiver with reality-tv shows from alternate dimensions, and allows them to see themselves in different versions of their lives, they begin to wonder what they have, and more importantly - what could have been.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “And now trunk men? We know science has created men that have a trunk that allows them to have sex with both male and female partners.”
@@ -177,8 +185,8 @@ Watch for:
   - “And every morning, Summer, I eat breakfast, own rotting corpse.”
   - “See this knife and all the blood on it? Here's my fingerprints.”
 - Swearing — 8 moment(s)
-  - “This sh*t is delicious.”
-  - “A movie about a guy eating sh*t.”
+  - “This shit is delicious.”
+  - “A movie about a guy eating shit.”
   - “Step on it, we all got places to be! Son of a bitch! See, that must be where he lives OK.”
   - “field, bitch! Now give me my [BLEEP.]”
   - “You show us your concept of "good TV", and we'll crap all over that.”
@@ -194,6 +202,7 @@ Watch for:
 ## S1 E9 — 9. Something Ricked This Way Comes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0109.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick is skeptical of Summer's new job at a shop run by the devil. Jerry and Morty argue about Pluto's status as a planet and end up traveling there.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “This aftershave made women want me, but it also made me impotent! A price for everything, mr.”
@@ -206,9 +215,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “He tried to kill himself.”
 - Swearing — 10 moment(s)
-  - “Store comes out of nowhere, all the sh*t's old and creepy.”
-  - “Some committee of fancy a**holes disagree.”
-  - “You think you're so great, you stupid piece of sh*t.”
+  - “Store comes out of nowhere, all the shit's old and creepy.”
+  - “Some committee of fancy assholes disagree.”
+  - “You think you're so great, you stupid piece of shit.”
   - “planet, bitch! Oh, man.”
   - “I'm the devil, bitch! What, what?! Hey! Hey! - Hey, Morty.”
   - “It detects and catalogs all your "twilight zone", "ray bradbury", "Friday the 13th" the series voodoo crap magic.”
@@ -220,6 +229,7 @@ Watch for:
 ## S1 E10 — Close Rick-Counters of the Rick Kind
 URL: https://watchwiththekids.com/ep/rick-and-morty/0110.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick's just trying to enjoy a nice breakfast, but he's kidnapped by a group of alternate Ricks and taken to stand trial for crimes against Ricks.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Yes, but it appears you alone have been going to the exact timelines and locations in which the murders occurred.”
@@ -227,10 +237,10 @@ Watch for:
   - “Scan his portal gun! Oh, come on.”
   - “Don't look at another man's portal-gun history.”
 - Swearing — 7 moment(s)
-  - “Um Because o-our personalities are so different? Oh, sh*t, dawg.”
+  - “Um Because o-our personalities are so different? Oh, shit, dawg.”
   - “Dude, are you -- w-- you're being a dick, right? Oh, gosh, I-I hope not.”
   - “not have in common? Huh? W-who is this? I found the real killer, bitch! Get over here! Yo, ding-dong, we're done here.”
-  - “What's that dipshit doing out there? Are you friends with him? You know he eats his own sh*t, right? Oh, my God, this is rich! I've got like 10 Ricks to call right now.”
+  - “What's that dipshit doing out there? Are you friends with him? You know he eats his own shit, right? Oh, my God, this is rich! I've got like 10 Ricks to call right now.”
   - “Damn it! - Hey, you didn't pay your bill! - The red "X"! Red "X"! Hey, it's a good thing that space outlet had lab coats and your favorite kind of shirt in stock, huh, Morty? Yeah, Rick, I-I heard you the first time.”
   - “Do your worst, you little bastards! Kill me! Do it! Do I-I-I-I-it! Morty! Thank God! Get me out of this.”
   - “Poor little rickless bastards.”
@@ -238,12 +248,13 @@ Watch for:
 ## S1 E11 — Ricksy Business
 URL: https://watchwiththekids.com/ep/rick-and-morty/0111.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: When Jerry and Beth go away to take part in a re-creation of the sinking of the Titanic, Rick and Summer throw a party that gets out of control.
 Watch for:
 - Swearing — 8 moment(s)
   - “We'll be fine! Let's party! Just shake that ass, bitch, and let me see whatcha got I swear to God, Morty, if it weren't for the fact that everyone's still…”
-  - “Oh, sh*t, mother [beep.]”
+  - “Oh, shit, mother [beep.]”
   - “What? Nancy told us what a bitch you are.”
-  - “He's just a huge a**hole.”
+  - “He's just a huge asshole.”
   - “Yo! What up, my glip glops?! Oh, man! Oh! Y-y-you know there's a garbage, right? Hey, uh, what the hell?! Ooh.”
   - “Oh, my God! - Aah! Hey, I'm squanching in here! Oh, my God! Oh, that is so disgusting! Ow! Oh! Oh, crap! Huh.”
   - “How are you guys not freaking out right now?! T-the whole house is sitting in another dimension! I-I mean, w-what the hell are we supposed to do?!”
@@ -258,15 +269,16 @@ Watch for:
 ## S2 E1 — 1. A Rickle In Time
 URL: https://watchwiththekids.com/ep/rick-and-morty/0201.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick unfreezes time, but since he, Morty and Summer have been living for so long on frozen time, a parallel dimension develops.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “I mean it's been shot with a gun.”
   - “Aaah! Oh, God, gross and weird! Chris! You killed my gun! Summer, Morty, take off your collars.”
   - “Beat his ass! Get him! Beat him up! - Kick his ass, Rick! - Die, mother[bleep.]”
 - Swearing — 12 moment(s)
-  - “Shut up, Morty, you vindictive little turd! You shut up, you big female a**hole!”
-  - “Well, do we Do I, uh, get, uh, a big rock, or? It's not an armadillo, a**hole.”
-  - “I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as grandpa's concerned, you're both pieces of sh*t.”
+  - “Shut up, Morty, you vindictive little turd! You shut up, you big female asshole!”
+  - “Well, do we Do I, uh, get, uh, a big rock, or? It's not an armadillo, asshole.”
+  - “I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as grandpa's concerned, you're both pieces of shit.”
   - “So let's save the measuring for when our dicks are out.”
   - “In your dreams, bitch.”
   - “What? - The son of a bitch is gonna kill me! - What?! - The son of a bitch is gonna kill me! - What?! Diabolical, unfeeling sociopath.”
@@ -282,6 +294,7 @@ Watch for:
 ## S2 E2 — 2. Mortynight Run
 URL: https://watchwiththekids.com/ep/rick-and-morty/0202.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Morty tries to save a life.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “So, did you guys make out a little bit? Is he gonna send you a postcard? Man, that guy hit the lottery when he crossed paths with you.”
@@ -292,10 +305,10 @@ Watch for:
   - “Hey! You sold a gun to a guy that kills people!”
   - “You know, you could stop this killing from happening, Rick! You know, you did a bad thing selling that gun, but you could undo it if you wanted.”
 - Swearing — 7 moment(s)
-  - “Sh sh*t! Oh! Whoa! What the hell?! W-w-where am I?! - What in the hell?! - 55 years.”
-  - “Holy sh*t! This guy's taking Roy off the grid! This guy doesn't have a social security number for Roy! Hi.”
+  - “Sh shit! Oh! Whoa! What the hell?! W-w-where am I?! - What in the hell?! - 55 years.”
+  - “Holy shit! This guy's taking Roy off the grid! This guy doesn't have a social security number for Roy! Hi.”
   - “Whatever you want to do, you little punk-ass little bitch.”
-  - “Number one is me, a**hole! You're supposed to be my friend! Friend?! Do you even know my real name? It's Revolio Clockberg Junior.”
+  - “Number one is me, asshole! You're supposed to be my friend! Friend?! Do you even know my real name? It's Revolio Clockberg Junior.”
   - “Oh, you still use south in space? Whoa! Jesus, Jerry! What the hell are you doing here?! What are you talking about? We agreed a boy's father should be present - when he's learning to drive.”
   - “What?! I don't know how this works! Help me! What the hell?! I know, right? Oh, what the hell?! I know, right? Jerryboree!? You created a day care for my dad? Are you kidding? I wish I had this idea.”
   - “Morty, take the wheel! Whoa! Whoa! Geez! Damn it, Morty! Who taught you to fly this thing? I'm kidding.”
@@ -307,6 +320,7 @@ Watch for:
 ## S2 E3 — 3. Auto Erotic Assimilation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0203.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick becomes emotional; Beth and Jerry are hard on each other.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Listen, if this is an invasion, I got to sit this one out, but I'll be back to have sex with the survivors.”
@@ -325,10 +339,10 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “This woman was a drug addict on the verge of suicide.”
 - Swearing — 9 moment(s)
-  - “it's a ship full of dead aliens and a bunch of free sh*t! Whoa! it's a deadly trap, but I'm ready to roll those dice.”
+  - “it's a ship full of dead aliens and a bunch of free shit! Whoa! it's a deadly trap, but I'm ready to roll those dice.”
   - “And I'll be damned if that ripple-nipple bitch's race is superior! The cone-nipple people will rule this world! You shut your mouth, you dirty knife-nipple bastards.”
-  - “"? So good luck with your sh*tty marriage, and tell Rick I'm sorry he has to deal with either of you.”
-  - “All right, beta sh*t seven, you just got saved by the bell, bitch! Did you get any of that? It's-a good show-a.”
+  - “"? So good luck with your shitty marriage, and tell Rick I'm sorry he has to deal with either of you.”
+  - “All right, beta shit seven, you just got saved by the bell, bitch! Did you get any of that? It's-a good show-a.”
   - “What the hell was that? I don't know.”
   - “Uh Okay, what the hell.”
   - “Reeeeeeeeeeeeeal-- God damn it, stop.”
@@ -346,13 +360,14 @@ Watch for:
 ## S2 E4 — 4. Total Rickall
 URL: https://watchwiththekids.com/ep/rick-and-morty/0204.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Meeting new friends; Morty goes ballistic.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Why couldn't I bring my portal gun? Why did all the drinks have to be extra large? Oh, the hulk.”
   - “I think you should put down the gun and we should get you to a doctor.”
 - Swearing — 10 moment(s)
-  - “Steve wasn't real? - He's a real piece of sh*t.”
-  - “Think before you talk sh*t.”
+  - “Steve wasn't real? - He's a real piece of shit.”
+  - “Think before you talk shit.”
   - “Now, listen, we can flip those sons of bitches for 230 bucks apiece easy! They're all limited-edition "Zelda" ones.”
   - “You listen to me, you son of a bitch parasite scum.”
   - “She's my bitch of a sister.”
@@ -367,6 +382,7 @@ Watch for:
 ## S2 E5 — 5. Get Schwifty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0205.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick and Morty must step up and save things; a new religion starts up.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -376,8 +392,8 @@ Watch for:
   - “You know what I'm saying? Ice, I don't want to be a negative Nelly or anything, but if Morty doesn't come back with my portal gun and I eat it out there, it's, uh, you know, kind of your problem, too.”
   - “President I hope you like being hit in the face with a gun.”
 - Swearing — 9 moment(s)
-  - “Take off your pants and your panties sh*t on the floor Time to get schwifty in here I'm Mr.”
-  - “It's working! Take a sh*t on the floor Time to get schwifty in here and third-level donors get our all-access family pass.”
+  - “Take off your pants and your panties Shit on the floor Time to get schwifty in here I'm Mr.”
+  - “It's working! Take a shit on the floor Time to get schwifty in here and third-level donors get our all-access family pass.”
   - “But can you help me get to my family? You know, at-- at my house? Is your intention to abandon Rick using his own portal gun? In bird culture, this is considered a dick move.”
   - “All of Rick's moves are dick moves! What-- What am I eating? Wh-what is this, bird-- birdseed? It is random debris.”
   - “All right, um Oh, yeah You gotta get schwifty You gotta get schwifty in here It's time to get schwifty Uh-oh Get "schwifty"? What the hell is that? It's our world's best effort.”
@@ -391,6 +407,7 @@ Watch for:
 ## S2 E6 — 6. The Ricks Must Be Crazy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick forgets to check his oil, and must repair his car.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I masturbated to an extra-curvy piece of driftwood the other day! Look, I don't care what it takes.”
@@ -402,7 +419,7 @@ Watch for:
 - Swearing — 12 moment(s)
   - “Really gets their dicks hard when they see this ramp just slowly extending down.”
   - “Somewhere on this planet, there's got to be an arrogant scientist prick on the verge of microverse technology, which would threaten to make Zeep's flooble cranks obsolete…”
-  - “Pterodactyl! a**hole! When I get out of this teenyverse, I'm gonna smash it to pieces with you in it.”
+  - “Pterodactyl! Asshole! When I get out of this teenyverse, I'm gonna smash it to pieces with you in it.”
   - “You know you're kind of a dick, right? My function is to keep Summer safe, not keep Summer being, like, totally stoked about, like, the general vibe and stuff.”
   - “Hey, that's my deer! Aaaaaaah! Raah! I hope your God is as big a dick as you.”
   - “Aaaaaaah! Hey, man, what the hell?! That was my daughter's pediatrician! Aah! No, stop! Don't kill him! Confirmed.”
@@ -416,6 +433,7 @@ Watch for:
 ## S2 E7 — 7. Big Trouble In Little Sanchez
 URL: https://watchwiththekids.com/ep/rick-and-morty/0207.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick joins in on hijinks, Beth and Jerry sort out relationship issues.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “They could save the marriage of a porn star and a porn star.”
@@ -424,10 +442,10 @@ Watch for:
   - “I was pretty sure we didn't have what it takes to deal with a bloodsucker on our own.”
 - Swearing — 9 moment(s)
   - “Read it and weep, bitch.”
-  - “Well, then get your sh*t together! Get it all together and put it in a backpack.”
-  - “All your sh*t, so it's together.”
+  - “Well, then get your shit together! Get it all together and put it in a backpack.”
+  - “All your shit, so it's together.”
   - “Turn around! I said turn around! How can Beth have these thoughts about me?! That judgmental monster bitch! I'm not taking this.”
-  - “It's crazy, right? I mean, am I being an a**hole? Okay, I feel like everybody in the room is looking at me like I'm the buzzkill.”
+  - “It's crazy, right? I mean, am I being an asshole? Okay, I feel like everybody in the room is looking at me like I'm the buzzkill.”
   - “What the hell is that?! Take that back! You do not think that about me! I didn't do anything! They scanned it out of my brain.”
   - “…Rick, just so we can have a party? Hell, yeah! What's one more night? And who can have fun with this old bastard hanging around, huh?”
   - “? Yeah, I know! What kind of operation are you running? Us?! What the hell kind of relationship do you have?! Oh, right, blame this on us.”
@@ -438,6 +456,7 @@ Watch for:
 ## S2 E8 — 8. Interdimensional Cable 2: Tempting Fate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0208.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Jerry gets sick and Rick sparks up the TV.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Smith? Uh, yeah, just masturbating! I forgot to mention, there are extensive medical records open on my desktop, and I trust you to confine your activities - to the purely pornographic.”
@@ -454,11 +473,11 @@ Watch for:
   - “Do it! Do it! Remove my penis! Sir, put the gun down and step away from Mr.”
   - “Where did he get a gun? Who gave him a gun? That's not a gun.”
 - Swearing — 7 moment(s)
-  - “If that guy catches you with a box of his eyeholes, he comes bursting in through a window and just starts kicking the sh*t out of you.”
-  - “Then you would give your penis so that shrimply pibbles might live? Stop asking! Yes, I will! That's right, a**holes.”
-  - “What's up with her face? Is she human, or is she like worf? You know, worf from "Star Trek," how he has all that sh*t all over his face, but he's just a human in a costume, you know?”
+  - “If that guy catches you with a box of his eyeholes, he comes bursting in through a window and just starts kicking the shit out of you.”
+  - “Then you would give your penis so that shrimply pibbles might live? Stop asking! Yes, I will! That's right, assholes.”
+  - “What's up with her face? Is she human, or is she like worf? You know, worf from "Star Trek," how he has all that shit all over his face, but he's just a human in a costume, you know?”
   - “stupid bitch.”
-  - “What an a**hole! Ohh, tune in next week [ Theme music plays .]”
+  - “What an asshole! Ohh, tune in next week [ Theme music plays .]”
   - “Holy crap! It's cool.”
   - “What the hell is he talking about?!”
 - Alcohol & drugs — 2 moment(s)
@@ -468,6 +487,7 @@ Watch for:
 ## S2 E9 — 9. Look Who's Purging Now
 URL: https://watchwiththekids.com/ep/rick-and-morty/0209.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick and Morty land on a planet where all the citizens are allowed to commit crimes -- including murder -- without punishment for one night.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “Oh, I know what this is! You've been able to sustain world peace because you have one night a year where you all run around robbing and murdering each other without consequence.”
@@ -476,14 +496,14 @@ Watch for:
   - “kidding me, Morty?! She took my car and the gun.”
   - “Why don't we just use your portal gun? It's in the car, dip-ass.”
 - Swearing — 11 moment(s)
-  - “out of the flying machine! Oh, my God! O-okay! Okay! -Back up, a**hole.”
+  - “out of the flying machine! Oh, my God! O-okay! Okay! -Back up, asshole.”
   - “Amish bitch shot me! [ Grunts .]”
-  - “We're like the rest of these a**holes now.”
-  - “drop your sh*t! Drop it all.”
-  - “Morty, go get their sh*t.”
+  - “We're like the rest of these assholes now.”
+  - “drop your shit! Drop it all.”
+  - “Morty, go get their shit.”
   - “You son of a bitch! Morty, I don't want to be the "a little help" guy, but a little help? -Aah! -Okay, I have a pen.”
-  - “Your grandson is a sh*tty person.”
-  - “W-w-what do you mean? -I was going to use your ship to destroy the rich a**holes that run our society and save my people from the horrors of this yearly festival.”
+  - “Your grandson is a shitty person.”
+  - “W-w-what do you mean? -I was going to use your ship to destroy the rich assholes that run our society and save my people from the horrors of this yearly festival.”
   - “Oh, crap! -Get out! Get out! -Hey, whoa, whoa, whoa! Get the [Bleep.]”
   - “What the hell?! I don't care.”
   - “Screw you, Rick! I'll purge you, too, you old, rickety piece of crap! This has been a long time coming! I'm gonna rip your [Bleep.]”
@@ -491,6 +511,7 @@ Watch for:
 ## S2 E10 — The Wedding Squanchers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: When Jerry accidentally gets transported to the planet hosting Birdperson and Tammy's wedding, the whole family attends the ill-fated ceremony.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I'll have sex with that.”
@@ -500,7 +521,7 @@ Watch for:
   - “Tammy? Birdperson!! No!! Holy Drop the portal gun.”
   - “That's a confetti gun, you idiot! Beth: Dad! Hold on tight! Aaah!! Aaaah!! God damn it! God damn it!! What the hell happened back there?! This is on you guys.”
 - Swearing — 4 moment(s)
-  - “Why?! Because I don't want him to leave again, you dumb a**hole!! Hey.”
+  - “Why?! Because I don't want him to leave again, you dumb asshole!! Hey.”
   - “And Tammy! Inviting you to planet squanch for our mate-melding ceremony blugh! If you're from earth, that means we're getting married! Oh, my God! My friend Tammy's marrying birdperson! What the hell is a birdperson?”
   - “We don't know a damn person here.”
   - “There already is no more bacon! This world sucks! Our life sucks! Why are we doing this for someone that would never do anything for anyone but himself? Morty: That's not the point, dad! We love Rick F-for the most part.”
@@ -511,6 +532,7 @@ Watch for:
 ## S3 E1 — 1. The Rickshank Redemption
 URL: https://watchwiththekids.com/ep/rick-and-morty/0301.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Rick, still in galactic prison, puts an intricate escape plan into action. Back on Earth, which is now under federation control, Morty and Summer have an argument about their grandpa.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Yes, I'd like very much to visit the memory of you inventing your portal gun.”
@@ -518,9 +540,9 @@ Watch for:
   - “Huh? What are you -- What are you doing? Grandpa Rick must have some secret lab, right? With, like, laser guns and jets packs and a space tank!”
   - “He's not bluffing! R-Rick? Why not shoot through her? 20 yards, nine-gauge plasma pistol, My first shot would liquify her insides and injure you, second shot adds recoil.”
 - Swearing — 6 moment(s)
-  - “Mission Control, you getting this? Holy sh*t, yes! Yes, we got it! Yeah! Thanks, Rick.”
+  - “Mission Control, you getting this? Holy shit, yes! Yes, we got it! Yeah! Thanks, Rick.”
   - “I'm bummed I didn't get to give that insect dick a test-drive.”
-  - “I'm gonna go take a sh*t.”
+  - “I'm gonna go take a shit.”
   - “Who's stupid now, bitch?! Morty, we just got him back! [ Laughs .]”
   - Lawyer Morty: “Order in the court! Whoa! What the hell?! Oh, my God! [ Screaming .]”
   - “W-W-What the hell is that? Payback.”
@@ -531,6 +553,7 @@ Watch for:
 ## S3 E2 — 2. Rickmancing the Stone
 URL: https://watchwiththekids.com/ep/rick-and-morty/0302.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: With the kids dealing with their parents' divorce, Rick takes them to a Mad Max-style universe where he tries to steal a green crystal from a group of scavengers.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Graze my genitals again, Taint Washer, and you'll be shipped to the wasteland.”
@@ -538,7 +561,7 @@ Watch for:
 - Violence & injury — 8 moment(s)
   - “Is it powerful enough to keep those guys from murdering us? Summer! - Hold on.”
   - “I don't know if that applies to the throats of murder victims, Morty.”
-  - “sh*t! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.”
+  - “Shit! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.”
   - “So, I can assume you haven't murdered a single person today.”
   - “I-I didn't mark my murders in my murder log.”
   - “"Sum-sum," let's go! Grandpa's concern for your safety is fleeting! Your blood will be my lotion.”
@@ -546,7 +569,7 @@ Watch for:
   - “…environment so we can properly deal with your parents' divorce! Alternatively, I have a freaking portal gun, and I can leave the two of you here forever!”
 - Swearing — 8 moment(s)
   - “Bitch, I was ready yest Bye, sweetie.”
-  - “sh*t! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.”
+  - “Shit! Wh-Wh-Wh-What do I Well, the longer you wait, Morty, the more it's gonna feel like committing a whole murder.”
   - “Wh-Wh-What in the hell are you saying? They don't have to keep trying to kill us if we join them.”
   - “I mean, her parents are going through a divorce Damn it, Rick, that's what I Fine.”
   - “Ohh, burn! The important question is, who wants to take a poke at my man Spine Eater here? I guess I'll see your asses in that dome! Rick, what the hell, man? Wh-What are you, out of your mind? Morty, relax.”
@@ -557,13 +580,14 @@ Watch for:
 ## S3 E3 — 3. Pickle Rick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0303.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Rick turns himself into a pickle while the rest of the family goes to therapy. Now Rick has to figure out how to stop being a pickle.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “You are the master of your universe, and yet you are dripping with rat blood and feces.”
   - “Man, I missed having hands and blood and a stomach.”
 - Swearing — 7 moment(s)
   - “What, I'm gonna touch it, and you're gonna tell me it's an alien dick or something.”
-  - “Oh, God! Perpendicular, perpendicular! Oh, sh*t! Oh! Oh! Oh! Come on.”
+  - “Oh, God! Perpendicular, perpendicular! Oh, shit! Oh! Oh! Oh! Come on.”
   - “Shut up and call me a helicopter, you prick! Do we have a deal?! Take that money, give it to Jaguar's daughter when you set her free.”
   - “I'm not a snake! I'm a pickle, I'm a pickle! Whoa! Oh! Whoa, whoa, whoa! Oh, crap, that sun is bright.”
   - “God damn it, I love myself.”
@@ -577,6 +601,7 @@ Watch for:
 ## S3 E4 — 4. Vindicators 3: The Return of Worldender
 URL: https://watchwiththekids.com/ep/rick-and-morty/0304.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: While ostensibly helping a group of superheroes called the Vindicators, Rick instead drunkenly sets up a "Saw"-like scenario for them to navigate.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Uh, Morty, you might want to freeze some sperm.”
@@ -587,13 +612,13 @@ Watch for:
   - “I think the personality conflict might have been you? Jesus How awesome is that? I mean, they wanted to not need me so bad they murdered three innocent heroes of color and they still had to bring me back?”
   - “All aboard! Gun turret.”
 - Swearing — 10 moment(s)
-  - “They're a bunch of drama queens that spend an hour talking and 20 minutes jumping around while sh*t blows up.”
-  - “Well, have fun with that, but Morty and I have to meet a Lady Comet, a Monorail Man, Two a**holes, and a Full Alligator in like an hour.”
-  - “The Vindicators are known throughout the galaxy, but do they know yourselves, do you know yourselves? Match your your sh*t, your your gimmicks, with your faces, and y-you get it, it's a matching thing.”
-  - “Um, uh, over here maybe? Jesus Christ, what a sh*tty neutrino bomb.”
-  - “You know why, Rick? Because when you're an a**hole, it doesn't matter how right you are, nobody wants to give you the satisfaction.”
-  - “…more than my tragedy-stricken, half-ghost, half-tumescent penis?! Guys, stop! You're just proving my a**hole grandpa right!”
-  - “Hey, everybody! Look who's a Vindicator! Man, Grandpa Rick must have gotten sh*tfaced.”
+  - “They're a bunch of drama queens that spend an hour talking and 20 minutes jumping around while shit blows up.”
+  - “Well, have fun with that, but Morty and I have to meet a Lady Comet, a Monorail Man, Two Assholes, and a Full Alligator in like an hour.”
+  - “The Vindicators are known throughout the galaxy, but do they know yourselves, do you know yourselves? Match your your shit, your your gimmicks, with your faces, and y-you get it, it's a matching thing.”
+  - “Um, uh, over here maybe? Jesus Christ, what a shitty neutrino bomb.”
+  - “You know why, Rick? Because when you're an asshole, it doesn't matter how right you are, nobody wants to give you the satisfaction.”
+  - “…more than my tragedy-stricken, half-ghost, half-tumescent penis?! Guys, stop! You're just proving my asshole grandpa right!”
+  - “Hey, everybody! Look who's a Vindicator! Man, Grandpa Rick must have gotten shitfaced.”
   - “God damn it! Read 'em and weep.”
   - “So, your origin is what? Y-You fell into a vat of redundancy? Got damn! Noob Noob, we're having a briefing.”
   - “Vance that guy, that guy sucks Whoo! Yeah! Yo D-Did I get paid yet? Whoo! I can't believe we're getting Gear Cream with a Vindicator.”
@@ -609,6 +634,7 @@ Watch for:
 ## S3 E5 — 5. The Whirly Dirly Conspiracy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0305.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick takes Jerry on a sympathy adventure to a resort where everyone is immortal when there, and Jerry meets some old acquaintances of Rick's who want payback.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -626,10 +652,10 @@ Watch for:
   - “That would be called a knife, Jerry.”
 - Swearing — 9 moment(s)
   - “I mean, you never made me the pants, so So, you thought I was gonna drive you into the middle of the galaxy and shove you into the vacuum of space with your dick hanging out?”
-  - “Jeff Goldblum? What the are you talking about, Jerry? Jesus! Holy sh*t! Yo, what's up, "Big Chill"?! Don't go into the telepod! Hey, maybe we would have fun on a fake adventure.”
+  - “Jeff Goldblum? What the are you talking about, Jerry? Jesus! Holy shit! Yo, what's up, "Big Chill"?! Don't go into the telepod! Hey, maybe we would have fun on a fake adventure.”
   - “That's what I thought, bitch.”
-  - “I have sh*t on my ass.”
-  - “I'm starting to believe you because I just finished merging with your essence for an endless epoch, and I'm already back to thinking you're an a**hole.”
+  - “I have shit on my ass.”
+  - “I'm starting to believe you because I just finished merging with your essence for an endless epoch, and I'm already back to thinking you're an asshole.”
   - “What was that? Summer! I'm coming, Summer! What the hell happened?! How do we get her back to normal?! I don't know, man! This thing is pretty complicated.”
   - “No, no, this sucks.”
   - “Morty! Don't "Morty" me! I tricked Rick into taking Dad on an adventure because I thought I could get a break from this kind of but no! Like father, like damn daughter!”
@@ -638,6 +664,7 @@ Watch for:
 ## S3 E6 — 6. Rest and Ricklaxation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0306.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: After another exhausting adventure, Rick and Morty decide they need a vacation. But things go a little haywire when they try a special detox machine.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Uh, is this like a sex dungeon? I guess I should've been paying attention.”
@@ -645,12 +672,12 @@ Watch for:
   - Explicit body / sex-act language appears in dialogue.
   - “Like, penis in the foreskin kind of love Mm-hmm just, like, warm, just like He Everybody [bleep.]”
 - Swearing — 12 moment(s)
-  - “Holy sh*t, holy sh*t, holy sh*t.”
-  - “Look at this sh*t.”
+  - “Holy shit, holy shit, holy shit.”
+  - “Look at this shit.”
   - “bitch ass, you [bleep.]”
-  - “Hey, a**hole! Oh, man! Remember us? Oh, I don't like confrontation! You [bleep.]”
+  - “Hey, asshole! Oh, man! Remember us? Oh, I don't like confrontation! You [bleep.]”
   - “Why? Because we're coming home, bitch! What is this? This is the parts of your pussy grandpa that keep it real.”
-  - “Ahh! Son of a Ahh! Nice try, a**hole.”
+  - “Ahh! Son of a Ahh! Nice try, asshole.”
   - “Relax, quit your bitching.”
   - “Steady, God damn it! Two cetons.”
   - “W-W-We're in Hell, aren't we, Rick? - You're so stupid, Morty.”
@@ -663,6 +690,7 @@ Watch for:
 ## S3 E7 — 7. The Ricklantis Mixup
 URL: https://watchwiththekids.com/ep/rick-and-morty/0307.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick and Morty encounter a visiting Rick and Morty from the Citadel of Ricks before heading off on an amazing adventure to Atlantis.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I-I wanna to go to school and throw balls around and masturbate.”
@@ -679,9 +707,9 @@ Watch for:
   - “Okay, man, okay, we got your portal gun.”
 - Swearing — 9 moment(s)
   - “You don't have to be a dick.”
-  - “I've been your supervisor for five years, but all sh*tty things must come to an end and I have been promoted to regional manager.”
-  - “Anyway, so yeah, the suspect says the Citadel's a lie, built on lies, and some other sh*t.”
-  - “Unlike that mermaid puss! Whoo! Yeah! We're going back for seconds! Yeah! Yeah! Whoo! We're gonna do that sh*t every week, man! That was Atlantis! sh*t!”
+  - “I've been your supervisor for five years, but all shitty things must come to an end and I have been promoted to regional manager.”
+  - “Anyway, so yeah, the suspect says the Citadel's a lie, built on lies, and some other shit.”
+  - “Unlike that mermaid puss! Whoo! Yeah! We're going back for seconds! Yeah! Yeah! Whoo! We're gonna do that shit every week, man! That was Atlantis! Shit!”
   - “What the hell?! I thought I saw a fly.”
   - “Aw, geez man, that sucks that your Rick's making you do that.”
   - “Unregistered, untraceable, with enough fluid to take me off this God damn prison! The media's outside.”
@@ -691,6 +719,7 @@ Watch for:
 ## S3 E8 — 8. Morty's Mind Blowers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0308.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick shows Morty a room filled with memories Morty begged him to remove from his mind, and things go off the rails when Rick starts restoring them.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “The Floop Floopians achieve an eternal orgasmic afterlife, so long as they're killed by a great warrior.”
@@ -703,12 +732,12 @@ Watch for:
   - “Oh, my God, what have I done? What have I done? Jesus, I made that guy kill himself! Only in a literal sense.”
   - “Suicide pact!”
 - Swearing — 12 moment(s)
-  - “I-I can't go on like this with the Truth Tortoise sh*t in my head.”
+  - “I-I can't go on like this with the Truth Tortoise shit in my head.”
   - “Got you now, you son of a bitch.”
   - “Assess this with cold indifference, you beany-headed prick! Hey, keep it down! Just our luck, menagerie beneath the "boulder people" of Granitor Seven.”
-  - “Ah, sh*t, Morty, get behind me.”
-  - “It's, like, hello, Saturn, after ten moons, time to stop naming and start numbering, you know? What's Wh-What's with you a**holes? Morty, please, don't do this.”
-  - “a**hole, Rick! Take it easy, Morty, come on.”
+  - “Ah, shit, Morty, get behind me.”
+  - “It's, like, hello, Saturn, after ten moons, time to stop naming and start numbering, you know? What's Wh-What's with you assholes? Morty, please, don't do this.”
+  - “asshole, Rick! Take it easy, Morty, come on.”
   - “relax! Come here! Let go of me, you little bitch! I'm gonna grab you by the scruff of your Take that! Ohh! - Umm.”
   - “What the hell is this?! This, Morty, is my archive of all the experiences you've begged me to remove from your life, lest you go insane.”
   - “Are you serious? Half the crap we've seen, and you think that sounds crazy?”
@@ -721,6 +750,7 @@ Watch for:
 ## S3 E9 — 9. The ABCs of Beth
 URL: https://watchwiththekids.com/ep/rick-and-morty/0309.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick and Beth sort out issues from her childhood by visiting a world called Froopyland. Morty and Summer are a little wary of Jerry's new girlfriend.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Dad, are you -- In love with a badass, sexy alien lady? Ha, ha, I don't know, Summer.”
@@ -738,9 +768,9 @@ Watch for:
   - “If anybody deserves to be telekinetically strangled, it's me.”
 - Swearing — 8 moment(s)
   - “Bitch, my generation gets traumatized for breakfast.”
-  - “Does it deserve to be sh*t on creatively? Yeah, that's right.”
-  - “We both saw Tommy's sh*tty play.”
-  - “Look at some of this sh*t you were asking me to make you as a kid.”
+  - “Does it deserve to be shit on creatively? Yeah, that's right.”
+  - “We both saw Tommy's shitty play.”
+  - “Look at some of this shit you were asking me to make you as a kid.”
   - “Ow! You can't run forever! She's really pissed off.”
   - “God damn it, Dad! [ Grunts .]”
   - “Aw, crap, I think Arnaldo's is closed.”
@@ -755,6 +785,7 @@ Watch for:
 ## S3 E10 — The Rickchurian Mortydate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0310.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The president needs help from Rick and Morty, prompting a bit of a confrontation. Beth begins to suspect that she may be a clone.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Some kind of alien googa has infested the Kennedy Sex Tunnels.”
@@ -766,12 +797,12 @@ Watch for:
   - “Rick, don't get mad, but I-I stole your portal gun.”
   - “You're here with a gun because I am a clone.”
 - Swearing — 12 moment(s)
-  - “I thought young dumb people considered it an honor to work for presidents or whatever the sh*t.”
+  - “I thought young dumb people considered it an honor to work for presidents or whatever the shit.”
   - “You lying dicks! I see your asses playing "Minecraft"! I got you on satellite! That's right.”
   - “Yeah, but not because it contains America Because moving to a new version of Earth is a bitch and a half.”
-  - “Let's go make first contact before someone else gets all their sh*t.”
+  - “Let's go make first contact before someone else gets all their shit.”
   - “Apparently, you have a need to swing your dick around? Rick and Morty escaped.”
-  - “Why would Rick and Morty want that? Because they're a**holes! I'm flattered, but it takes a whole team to achieve what we did today.”
+  - “Why would Rick and Morty want that? Because they're assholes! I'm flattered, but it takes a whole team to achieve what we did today.”
   - “out of my office! You have the right to kiss my dick! Give me the thing.”
   - “Maybe the first few times, but this just sucks.”
   - “God damn it! I'll do it.”
@@ -784,6 +815,7 @@ Watch for:
 ## S4 E1 — 1. Edge of Tomorty: Rick, Die, Rickpeat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0401.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick brings Morty to a planet containing crystals that show whoever is touching them all the ways they may die depending on their choices.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Will you just go up? - Stop! - You're gonna make me die wrong! - Wait a minute, what? Morty, do you have a death crystal - in your pocket? - No! Maybe! You little monster! I thought you were masturbating!”
@@ -799,10 +831,10 @@ Watch for:
   - “…it?! Why would you steal a death crystal?! - I want to die old! - Then stop driving! - No! - You son of a bitch!”
   - “That "yes" was pretty - [GUN COCKS.]”
   - “I trust, the kind of strange that makes Rick and Morty - [GUN COCKS.]”
-  - “I ain't better than sh*t, Jack.”
+  - “I ain't better than shit, Jack.”
   - “Meeseeks! Kill this Nazi prick! Can do! - Come here, you son of a bitch! - No! Stop! [SHOUTING.]”
-  - “Goddamn it! When did this sh*t become the default?! [DOGS BARKING.]”
-  - “When you're born that big an a**hole, the least you can do is have a little empathy.”
+  - “Goddamn it! When did this shit become the default?! [DOGS BARKING.]”
+  - “When you're born that big an asshole, the least you can do is have a little empathy.”
   - “Geez, you're really this pissed about my mom making sure I'm okay with our adventures?”
   - “Truth is, anyone that knows how they're definitely gonna die is either boring as hell or about to get shot.”
   - “What the hell? I axed this protocol.”
@@ -814,6 +846,7 @@ Watch for:
 ## S4 E2 — 2. The Old Man and the Seat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0402.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Jerry develops an app at the request of a persistent alien with a "Do Not Develop My App" forehead tattoo. A determined Rick tracks a mystery pooper.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Then you know that a few years ago - I started getting into - Strap-on porn? Yes.”
@@ -825,11 +858,11 @@ Watch for:
   - “Take us to whoever does, or w-w-we'll we'll punch you.”
   - “Take it down, or we'll we'll we'll punch you.”
 - Swearing — 9 moment(s)
-  - “It will be when I find whoever sh*t in my toilet.”
+  - “It will be when I find whoever shit in my toilet.”
   - “You had your chance, dick.”
   - “While your planet continues to dick around with a, uh what is their version of it called? Lovefinderrz, with two "R's" and a "Z.”
-  - “You're not gonna kill me? Don't tell me what to do! Now every time they play this song She say "This is my sh*t my sh*t" See the flick of my wrist, of my wrist - - And I know she know what's up Baby, this is my sh*t my…”
-  - “face out of your stupid a**hole.”
+  - “You're not gonna kill me? Don't tell me what to do! Now every time they play this song She say "This is my shit my shit" See the flick of my wrist, of my wrist - - And I know she know what's up Baby, this is my shit my…”
+  - “face out of your stupid asshole.”
   - “I'm gonna daughter your brains out, bitch.”
   - “Don't talk to me like - Like I'm thirsty? Like I'm your mother, you childish prick.”
   - “Summer Smith, let's get the hell out of here.”
@@ -838,6 +871,7 @@ Watch for:
 ## S4 E3 — 3. One Crew Over the Crewcoo's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0403.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick assembles a crew to break into a heist convention, then needs another crew to stop a heist-planning robot. And Morty writes a heist script.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Let's loop this corpse.”
@@ -846,8 +880,8 @@ Watch for:
   - “Rick Sanchez, you son of a bitch! Need some people for a thing, Glar.”
   - “I quit! Augh! And the name's Glar! Sanchez, you son of a bitch.”
   - “You sons of bitches.”
-  - “It's exactly that kind of sh*t that made us worry about regular Elon.”
-  - “sh*t! Alright.”
+  - “It's exactly that kind of shit that made us worry about regular Elon.”
+  - “Shit! Alright.”
   - “God damn it, Morty, what did I tell you? Rick, I-I want to say goodbye.”
   - “That's my hell, Morty.”
   - “God damn it, Morty, what did I tell you? That is something I should know, or at least something I should have predicted, which I did.”
@@ -857,6 +891,7 @@ Watch for:
 ## S4 E4 — 4. Claw and Hoarder: Special Ricktim's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0404.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Rick reluctantly gives in to Morty's wishes to get a pet dragon, then things get weird. Jerry befriends a talking cat and they go to Florida.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “Who's this mysterious character? Shadow Jacker, you haven't come out of your masturbation cave in eons.”
@@ -869,8 +904,8 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - “How about 50 bucks? You weary of 50 bucks? I'm trying to cheat on my wife.”
 - Swearing — 7 moment(s)
-  - WOMAN: “Oh, gross! Who sh*t in the sand? Someone took a small sh*t in the sand and buried it with, like, two little kicks and just left it here like a land mine.”
-  - “Well, I sleep on an extra big pile of awesome sh*t.”
+  - WOMAN: “Oh, gross! Who shit in the sand? Someone took a small shit in the sand and buried it with, like, two little kicks and just left it here like a land mine.”
+  - “Well, I sleep on an extra big pile of awesome shit.”
   - “are you, bitch? Debrah, stop.”
   - “Oh, son of a bitch.”
   - “Ha! Ha! Oh, crap.”
@@ -885,6 +920,7 @@ Watch for:
 ## S4 E5 — 5. Rattlestar Ricklactica
 URL: https://watchwiththekids.com/ep/rick-and-morty/0405.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick and Morty get caught up in a full-on snake war after a space snake bites Morty. Jerry tries to prove he can hang Christmas lights without dying.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Aw, man, I-I wanted to go to Boob World.”
@@ -894,12 +930,12 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “…of removing all the air from your body and making you float around it for eternity as a flash-mummified corpse, which is also what space wants, so get back in the car.”
 - Swearing — 12 moment(s)
-  - “But for real, has anyone seen him? Grandpa, did you trap him in a painting again? I didn't do sh*t.”
+  - “But for real, has anyone seen him? Grandpa, did you trap him in a painting again? I didn't do shit.”
   - “Merry Christmas, bitch.”
   - “Ah, you little son of a bitch.”
-  - “Hey, it's it's Slippy! Keep up, sh*t bag.”
-  - “Hey, a**holes.”
-  - “Hey, guess what, a**hole.”
+  - “Hey, it's it's Slippy! Keep up, shit bag.”
+  - “Hey, assholes.”
+  - “Hey, guess what, asshole.”
   - “How the hell do you get a flat tire in space, Rick? Obviously from a sharp thing in space, Morty.”
   - “Ah! - God damn it.”
   - “Ow! Damn it, Slippy, come on.”
@@ -909,11 +945,12 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “How funny is that? Imagine being a racist snake.”
 - Slut-shaming — 1 moment(s)
-  - “Yeah, it's fun until it's you, - huh, sh*t nog? - Yeah, have fun sewing those snake costumes together, - you little tramp.”
+  - “Yeah, it's fun until it's you, - huh, shit nog? - Yeah, have fun sewing those snake costumes together, - you little tramp.”
 
 ## S4 E6 — 6. Never Ricking Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0406.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick and Morty get caught in a continuity-creating anthology device full of people telling stories about Rick.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - You're staying a virgin
@@ -926,14 +963,14 @@ Watch for:
   - or is the blood just
   - is Floaty Bloody Man's
 - Swearing — 12 moment(s)
-  - I'll f***in' cook and eat
-  - f*** you, I'd rather die.
-  - f*** these guys.
-  - just a f***in' circle.
-  - reacting to f***ing YouTube.
-  - When I create sh*t, it works, Morty.
-  - doesn't mean you can be an a**hole.
-  - over-think sh*t, okay?
+  - I'll fuckin' cook and eat
+  - Fuck you, I'd rather die.
+  - Fuck these guys.
+  - just a fuckin' circle.
+  - reacting to fucking YouTube.
+  - When I create shit, it works, Morty.
+  - doesn't mean you can be an asshole.
+  - over-think shit, okay?
   - Step the hell back! Back!
   - You're God damn right
   - Hey, what the hell? Your leg is healed.
@@ -942,13 +979,14 @@ Watch for:
 ## S4 E7 — 7. Promortyus
 URL: https://watchwiththekids.com/ep/rick-and-morty/0407.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick and Morty find themselves in a fight against face-hugging aliens who just happen to have an M&M's store.
 Watch for:
 - Swearing — 11 moment(s)
   - you don't chop your dick off.
   - Summer, you bitch!
-  - sh*t an egg, and die.
-  - Is just some sh*t we made up ♪
-  - sh*tting eggs in a cave,
+  - shit an egg, and die.
+  - Is just some shit we made up ♪
+  - shitting eggs in a cave,
   - All right, God damn, sold.
   - Damn, feels kinda good
   - What the hell was that?!
@@ -959,22 +997,23 @@ Watch for:
 ## S4 E8 — 8. The Vat of Acid Episode
 URL: https://watchwiththekids.com/ep/rick-and-morty/0408.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Morty challenges Rick to build him the real-life equivalent of a "save game" function to live without consequence. Also, there's a giant vat of acid.
 Watch for:
 - Violence & injury — 2 moment(s)
   - You brought fake crystals and a gun?
   - Beats real crystals and no gun.
 - Suicide & self-harm — 2 moment(s)
-  - Oh sh*t, suicide by cop!
+  - Oh shit, suicide by cop!
   - if you wanna suicide by cop.
 - Swearing — 12 moment(s)
-  - Oh, Jesus f***ing Christ. Come on.
-  - Holy sh*t. What the f***?
-  - f***in' his own pee hole.
-  - Jesus f***ing Christ, enough already!
-  - The f*** is wrong with you?
-  - Oh, sh*t, I almost parked.
-  - Just admit it was a sh*tty idea!
-  - You're a piece of sh*t.
+  - Oh, Jesus fucking Christ. Come on.
+  - Holy shit. What the fuck?
+  - fuckin' his own pee hole.
+  - Jesus fucking Christ, enough already!
+  - The fuck is wrong with you?
+  - Oh, shit, I almost parked.
+  - Just admit it was a shitty idea!
+  - You're a piece of shit.
   - Son of a bitch.
   - I did it, you little son of a bitch!
   - the damn acid, don't use a rat,
@@ -986,6 +1025,7 @@ Watch for:
 ## S4 E9 — 9. Childrick of Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0409.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Jerry's plan to take the whole family on a camping trip is sidetracked when Rick gets news that he may have impregnated a planet.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Sex with a living planet?
@@ -999,11 +1039,11 @@ Watch for:
   - Ow! You stabbed my hand!
   - Basically murdered him.
 - Swearing — 12 moment(s)
-  - I thought she was gonna sh*t an egg.
+  - I thought she was gonna shit an egg.
   - Ohh, son of a bitch.
   - Son of a bitch.
-  - Don't push me, a**hole!
-  - of sh*t I'm talking about.
+  - Don't push me, asshole!
+  - of shit I'm talking about.
   - Your parents are a bag of dicks.
   - Damn it, I didn't think
   - Because this sucks ass.
@@ -1018,6 +1058,7 @@ Watch for:
 ## S4 E10 — Star Mort Rickturn of the Jerri
 URL: https://watchwiththekids.com/ep/rick-and-morty/0410.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Two Beths, a corporate-sponsored planet incinerator and some faces from the past force Rick and family to "do a Star Wars" to save Earth.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - God damn it. Morty, fix your underwear.
@@ -1029,10 +1070,10 @@ Watch for:
 - Swearing — 9 moment(s)
   - Thermal goggles, bitch.
   - How do you like that, bitch?
-  - is your sh*tty father's approval.
-  - You fetch your sh*tty father's lemonade.
-  - Holy sh*t. I'm a terrible father.
-  - Oh, sh*tskis.
+  - is your shitty father's approval.
+  - You fetch your shitty father's lemonade.
+  - Holy shit. I'm a terrible father.
+  - Oh, shitskis.
   - It would really piss off Morty.
   - What the hell?!
   - Damn, this thing has twin turbines?
@@ -1042,6 +1083,7 @@ Watch for:
 ## S5 E1 — 1. Mort Dinner Rick Andre
 URL: https://watchwiththekids.com/ep/rick-and-morty/0501.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: It's a busy night at the Smith house as Rick's nemesis pays a visit and Morty invites a girl over. Then some stuff happens with a portal in the garage.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - to have a threesome with us?
@@ -1062,16 +1104,16 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - There are suicide capsules
 - Swearing — 12 moment(s)
-  - That's f***ing tight.
-  - We have to go right f***ing now.
-  - Oh, f***. sh*t.
-  - Trust me, after that ocean f***-up,
+  - That's fucking tight.
+  - We have to go right fucking now.
+  - Oh, fuck. Shit.
+  - Trust me, after that ocean fuck-up,
   - Ow! Motherfucker!
-  - Holy sh*t. Holy sh*t. Come on, come on!
-  - Holy sh*t. We have to go.
+  - Holy shit. Holy shit. Come on, come on!
+  - Holy shit. We have to go.
   - about your dick, Morty.
   - dick killer, Morty.
-  - Stop sh*tting in the ocean.
+  - Stop shitting in the ocean.
   - the bottle. God damn.
   - No, no, no, no, no. Damn it!
 - Alcohol & drugs — 5 moment(s)
@@ -1084,6 +1126,7 @@ Watch for:
 ## S5 E2 — 2. Mortyplicity
 URL: https://watchwiththekids.com/ep/rick-and-morty/0502.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Killer squids are after the Smiths, but luckily Rick created a decoy family. Or are they real? Can the decoys make decoys? Who's real? Are you real?
 Watch for:
 - Sex & hookups — 1 moment(s)
   - I had sex with their queen.
@@ -1097,12 +1140,12 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - I had to kill myself. You have to, too.
 - Swearing — 9 moment(s)
-  - You dumb a**hole, you made decoys?
-  - But that a**hole
+  - You dumb asshole, you made decoys?
+  - But that asshole
   - My dick's too big.
-  - Okay, let's loot their sh*t,
-  - I didn't skip sh*t.
-  - There's always a "sh*tty
+  - Okay, let's loot their shit,
+  - I didn't skip shit.
+  - There's always a "shitty
   - Let's go, you little bitch.
   - Please, Morty! Is it there? God damn it!
   - Damn. Like "Westworld."
@@ -1112,6 +1155,7 @@ Watch for:
 ## S5 E3 — 3. A Rickconvenient Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0503.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Morty falls head-over-heels in love with an ecological superhero, leaving Summer to join Rick on a bender of interplanetary apocalyptic hedonism.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - I'd rather have sex with.
@@ -1124,16 +1168,16 @@ Watch for:
   - And now an elemental punch
   - Oyyy, don't punch my lunch!
 - Swearing — 12 moment(s)
-  - Hells yeah. I f***in' love merch!
-  - one more time, I swear to f***ing God
-  - RICK: Hey! The f*** we doin' here?
-  - What the f*** was that sh*t?
-  - f***ing head until I die.
-  - Stupid f***in' sh*t hole!
-  - sister, you piece of sh*t.
-  - a**hole that dumped you?
-  - in I-could-give-two-sh*ts
-  - Holy sh*t. I-I-I mean,
+  - Hells yeah. I fuckin' love merch!
+  - one more time, I swear to fucking God
+  - RICK: Hey! The fuck we doin' here?
+  - What the fuck was that shit?
+  - fucking head until I die.
+  - Stupid fuckin' shit hole!
+  - sister, you piece of shit.
+  - asshole that dumped you?
+  - in I-could-give-two-shits
+  - Holy shit. I-I-I mean,
   - Hit the dicks.
   - Damn, girl. Your moves is tight.
 - Alcohol & drugs — 1 moment(s)
@@ -1142,6 +1186,7 @@ Watch for:
 ## S5 E4 — 4. Rickdependence Spray
 URL: https://watchwiththekids.com/ep/rick-and-morty/0504.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The Smiths band together to fight an army of giant mutant sperm, and let's just say everyone would be better off if Morty stays away from Beth's work.
 Watch for:
 - Sex & hookups — 8 moment(s)
   - The sperm, Morty!
@@ -1163,9 +1208,9 @@ Watch for:
   - Blood for blood.
   - Men and their guns.
 - Swearing — 9 moment(s)
-  - latest piece of Marvel sh*t
-  - Kidding. This sh*t is totally random.
-  - Good. Put that a**hole on speaker.
+  - latest piece of Marvel shit
+  - Kidding. This shit is totally random.
+  - Good. Put that asshole on speaker.
   - Let's Nancy Reagan this bitch.
   - God damn. Your generation really
   - Dad, what the hell is going on?!
@@ -1176,6 +1221,7 @@ Watch for:
 ## S5 E5 — 5. Amortycan Grickfitti
 URL: https://watchwiththekids.com/ep/rick-and-morty/0505.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Beth crashes Rick and Jerry's hellish guys night out, while Morty and Summer attempt to use a spaceship to impress a cool new kid at school.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - lose my virginity.
@@ -1188,12 +1234,12 @@ Watch for:
   - Just shake it until it draws blood.
   - Enjoying punching down?
 - Swearing — 12 moment(s)
-  - Oscar the f***ing Grouch.
-  - Jesus Christ, I'm f***ing dying up here.
-  - f***, too small.
-  - I'm with her. Touch my sh*t and die.
+  - Oscar the fucking Grouch.
+  - Jesus Christ, I'm fucking dying up here.
+  - Fuck, too small.
+  - I'm with her. Touch my shit and die.
   - Dude, this bitch plays
-  - I said don't touch my sh*t.
+  - I said don't touch my shit.
   - freeze your dick in amber.
   - He left. Son of a bitch, we blew it!
   - Suck it, bitches!
@@ -1209,6 +1255,7 @@ Watch for:
 ## S5 E6 — 6. Rick & Morty's Thanksploitation Spectacular
 URL: https://watchwiththekids.com/ep/rick-and-morty/0506.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick turns himself into a turkey after he ruffles the President's feathers on Thanksgiving, and the situation soon spirals into total clucking carnage.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - put a buckshot in its panties.
@@ -1218,8 +1265,8 @@ Watch for:
   - room to measure dicks
   - than some steam-powered French bitch,
   - Just pardon me, dick.
-  - sh*t! My plume!
-  - like five pounds of sh*t
+  - Shit! My plume!
+  - like five pounds of shit
   - you old-timey bitch!
   - gonna be pissed again.
   - Oof. He's really pissed this time.
@@ -1235,6 +1282,7 @@ Watch for:
 ## S5 E7 — 7. Gotron Jerrysis Rickvangelion
 URL: https://watchwiththekids.com/ep/rick-and-morty/0507.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The Smiths get a lesson on the meaning of family after Rick cancels a trip to Boob World to acquire the fifth and final GoTron ferret.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - ALL SINGING: “Boob World, Boob World ♪”
@@ -1244,11 +1292,11 @@ Watch for:
   - Uh, one where your mother murdering you
   - GUN RICK SAYS "BANG" REPEATEDLY"
 - Swearing — 8 moment(s)
-  - Holy sh*t, holy sh*t, holy sh*t.
+  - Holy shit, holy shit, holy shit.
   - Bitch! When are you gonna
   - without this crazy bitch.
-  - Summer's treating me like sh*t,
-  - You little a**holes!
+  - Summer's treating me like shit,
+  - You little assholes!
   - What the hell?!
   - Oh, my God. Hell yes!
   - Okay, I'll do it. God damn.
@@ -1258,6 +1306,7 @@ Watch for:
 ## S5 E8 — 8. Rickternal Friendshine of the Spotless Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0508.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: With the rest of the family out of town on a cruise, Rick is left to his own devices at home and decides it's time to reconnect with an old friend.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - I thought for sure I'd have to be naked
@@ -1267,10 +1316,10 @@ Watch for:
   - you're saying Blood Ridge goes bad.
   - and I used that gun to erase his memory?
 - Swearing — 6 moment(s)
-  - Get your sh*t together.
-  - a**hole detected.
-  - For real, that sh*t was cash.
-  - your life for that a**hole?
+  - Get your shit together.
+  - Asshole detected.
+  - For real, that shit was cash.
+  - your life for that asshole?
   - BP, where the hell are you going?
   - Damn, a great time.
 - Alcohol & drugs — 2 moment(s)
@@ -1280,6 +1329,7 @@ Watch for:
 ## S5 E9 — 9. Forgetting Sarick Mortshall
 URL: https://watchwiththekids.com/ep/rick-and-morty/0509.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: When Rick starts using birds as sidekicks, Morty finds a new partner in a portal. Is Rick and Morty's interdimensional partnership done forever?
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - eat my porno magazines?
@@ -1288,11 +1338,11 @@ Watch for:
   - Damn it. He must be showing the gun off
   - And with guns.
 - Swearing — 12 moment(s)
-  - if the dude hadn't f***ed us both over.
-  - f***ing horse sh*t.
+  - if the dude hadn't fucked us both over.
+  - Fucking horse shit.
   - Son of a bitch. He marked it.
-  - this sh*t everywhere
-  - don't expect sh*t from you.
+  - this shit everywhere
+  - don't expect shit from you.
   - that's being dicks.
   - Here we go, bitch!
   - Hey, what the hell?
@@ -1304,6 +1354,7 @@ Watch for:
 ## S5 E10 — Rickmurai Jack
 URL: https://watchwiththekids.com/ep/rick-and-morty/0510.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick's still doing the weird crows thing, but a middle-aged Morty hopes to reconnect with Rick, leading them down an emotional path in a familiar location.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - See ya later, masturbators.
@@ -1311,12 +1362,12 @@ Watch for:
   - Drop the gun!
   - did you refill this gun?
 - Swearing — 10 moment(s)
-  - Fine, I can kill an extra a**hole.
-  - because you look like sh*t,
-  - Who sold you this sh*tty aging serum?
-  - You a**hole! I vouched for you!
-  - of one sh*tty old man.
-  - to say, eat sh*t, [BLEEP] you.
+  - Fine, I can kill an extra asshole.
+  - because you look like shit,
+  - Who sold you this shitty aging serum?
+  - You asshole! I vouched for you!
+  - of one shitty old man.
+  - to say, eat shit, [BLEEP] you.
   - Oh. Super dick move.
   - W-what the hell's going on here?
   - God damn, you are cantankerous.
@@ -1327,6 +1378,7 @@ Watch for:
 ## S6 E1 — 1. Solaricks
 URL: https://watchwiththekids.com/ep/rick-and-morty/0601.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: They're back, baby! The Smiths deal with last season's fallout, and Rick and Morty are stranded in space floating in the remnants of the citadel.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Or maybe it's me, all naked!
@@ -1335,14 +1387,14 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - You're like a suicide bomber!
 - Swearing — 12 moment(s)
-  - and f*** off.
-  - This whole f***ing timeline is cursed.
-  - It only cost me f***ing everything.
-  - Oh, f*** yes!
-  - all your sh*t and split.
-  - Thought you'd have cooler sh*t.
+  - and fuck off.
+  - This whole fucking timeline is cursed.
+  - It only cost me fucking everything.
+  - Oh, fuck yes!
+  - all your shit and split.
+  - Thought you'd have cooler shit.
   - You son of a bitch! I got you!
-  - We're in trouble, a**hole!
+  - We're in trouble, asshole!
   - Been drinking a lot of my piss.
   - Oh, hell yes!
   - Damn it, Morty, there's
@@ -1351,6 +1403,7 @@ Watch for:
 ## S6 E2 — 2. Rick: A Mort Well Lived
 URL: https://watchwiththekids.com/ep/rick-and-morty/0602.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Morty is trapped and Rick needs to save him, but to do so, Summer must do a Die Hard. This won't be easy because she's never seen it.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - and masturbation,
@@ -1362,9 +1415,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - What What is this, suicide
 - Swearing — 12 moment(s)
-  - seen f***ing "Die Hard"!
+  - seen fucking "Die Hard"!
   - Walkie talkie "Die Hard," motherfucker.
-  - What? Why the f***?!
+  - What? Why the fuck?!
   - I got your walkie talkie. Bitch.
   - and just go shoot that bitch!
   - he's a rude, entitled cock.
@@ -1383,6 +1436,7 @@ Watch for:
 ## S6 E3 — 3. Bethic Twinstinct
 URL: https://watchwiththekids.com/ep/rick-and-morty/0603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The Smiths celebrate one of their favourite holidays while Summer and Morty lock into their new ultra-realistic video game console.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - Oh, my God, Beth, there's masturbating
@@ -1404,13 +1458,13 @@ Watch for:
   - I was saying I'd kill myself.
   - Threaten to kill myself?
 - Swearing — 12 moment(s)
-  - f***ing believe this!
-  - Here we f***ing go!
-  - Oh, f***, it's on, bitch!
-  - Ugh, f*** you!
-  - sh*t, in that case, let's go,
-  - love the sh*t out of him.
-  - Yeah, we do share a sh*tty back.
+  - fucking believe this!
+  - Here we fucking go!
+  - Oh, fuck, it's on, bitch!
+  - Ugh, fuck you!
+  - Shit, in that case, let's go,
+  - love the shit out of him.
+  - Yeah, we do share a shitty back.
   - It's my back, you dumb bitch.
   - Rick, what the hell?! A-Are
   - to pronounce this crap, too,
@@ -1425,6 +1479,7 @@ Watch for:
 ## S6 E4 — 4. Night Family
 URL: https://watchwiththekids.com/ep/rick-and-morty/0604.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The family discover Rick has been using some new technology that they want to try too. After obliging, classic Rick and Morty chaos ensues.
 Watch for:
 - Violence & injury — 4 moment(s)
   - It needs a blood sample.
@@ -1432,11 +1487,11 @@ Watch for:
   - in your bloodstream when you're asleep,
   - Give me that gun and
 - Swearing — 12 moment(s)
-  - Okay! Fine! f*** it!
-  - What the f*** is your problem with me?
-  - Mornin', a**holes.
-  - list of sh*t I want to get done.
-  - Oh, sh*t, Rick,
+  - Okay! Fine! Fuck it!
+  - What the fuck is your problem with me?
+  - Mornin', assholes.
+  - list of shit I want to get done.
+  - Oh, shit, Rick,
   - What the cock? Where are the dishes?
   - to suck my dick
   - Son of a bitch!
@@ -1452,6 +1507,7 @@ Watch for:
 ## S6 E5 — 5. Final DeSmithation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0605.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The Smiths dine at their favourite Chinese restaurant and read their fortune cookies aloud. Pretty normal stuff, until Jerry reads his.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - "You will have sex with your mother."
@@ -1465,14 +1521,14 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - There were murders in it,
 - Swearing — 12 moment(s)
-  - Jerry, are you f***ing peeking?
-  - f*** you, DEA piece of sh*t!
-  - f***ing cameras everywhere.
-  - Then you f*** my mom.
-  - I 'spose they f***ed their moms.
-  - You sick f***s.
-  - I don't have to do sh*t. That's dumb.
-  - likely to sh*t a balloon
+  - Jerry, are you fucking peeking?
+  - Fuck you, DEA piece of shit!
+  - Fucking cameras everywhere.
+  - Then you fuck my mom.
+  - I 'spose they fucked their moms.
+  - You sick fucks.
+  - I don't have to do shit. That's dumb.
+  - likely to shit a balloon
   - All right, who the hell
   - What the hell was that?
   - ugh, God damn it Smith?
@@ -1485,6 +1541,7 @@ Watch for:
 ## S6 E6 — 6. JuRicksic Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0606.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Seemingly out of the blue, Earth's old rulers return. They make a great case for changing the way society does business, but Rick isn't going to put up with it.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - A rear naked choke hold. I'll show you.
@@ -1494,13 +1551,13 @@ Watch for:
   - I'm fixing my portal gun, and
   - A "Portal Pistol."
 - Swearing — 12 moment(s)
-  - Zero Dark Thirty these f***ers
-  - Oh, my God, are you f***ing kidding me?
-  - f***ed up in the past
-  - f*** off and die-nosaurs ♪
-  - I f***ing love you, Rick.
-  - Dr. Manhattan high-road a**holes
-  - Holy sh*t! I'm a famous author!
+  - Zero Dark Thirty these fuckers
+  - Oh, my God, are you fucking kidding me?
+  - fucked up in the past
+  - Fuck off and die-nosaurs ♪
+  - I fucking love you, Rick.
+  - Dr. Manhattan high-road assholes
+  - Holy shit! I'm a famous author!
   - gig, you son of a bitch!
   - with their dicks in their hands.
   - God damn it.
@@ -1510,6 +1567,7 @@ Watch for:
 ## S6 E7 — 7. Full Meta Jackrick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0607.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick and Morty remember some of their old adventures together, which leads them to a stand-off with an old enemy.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Jerry, I had sex with your wife.
@@ -1521,15 +1579,15 @@ Watch for:
   - If I suck-a your blood,
   - so this is literally punching down,
 - Swearing — 12 moment(s)
-  - read f***ing "Canterbury Tales."
-  - The website didn't even f***ing work!
-  - They set me up to fail. They f***ed me!
-  - They f***ed me and you're lucky
-  - Is that a threat, you f***?
-  - little piece of sh*t!
-  - "Moonlighting" sh*t.
-  - I'm better than some sh*tty toy train.
-  - And it was a sh*tty URL to begin with,
+  - read fucking "Canterbury Tales."
+  - The website didn't even fucking work!
+  - They set me up to fail. They fucked me!
+  - They fucked me and you're lucky
+  - Is that a threat, you fuck?
+  - little piece of shit!
+  - "Moonlighting" shit.
+  - I'm better than some shitty toy train.
+  - And it was a shitty URL to begin with,
   - What the hell's going on?
   - Damn it, Rick. I don't like this.
   - What the hell happened?
@@ -1539,6 +1597,7 @@ Watch for:
 ## S6 E8 — 8. Analyze Piss
 URL: https://watchwiththekids.com/ep/rick-and-morty/0608.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Tired of being attacked by goofball supervillains, Rick decides to seek advice about why he's always a target, leading to a breakthrough - for Jerry.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - I'm sorry I sexualized you!
@@ -1556,13 +1615,13 @@ Watch for:
   - Wait, you kept the suicide note?
   - What the hell?! He killed himself?
 - Swearing — 12 moment(s)
-  - Submit, you continental c**t.
-  - What the f***?
-  - I'm not the f***ing Tick.
-  - his f***ing Batman logo.
-  - Jerry, for f***'s sake,
-  - Oh, sh*t! Oh, sh*t! Oh, sh*t! Oh, sh*t!
-  - ugly piece of sh*t.
+  - Submit, you continental cunt.
+  - What the fuck?
+  - I'm not the fucking Tick.
+  - his fucking Batman logo.
+  - Jerry, for fuck's sake,
+  - Oh, shit! Oh, shit! Oh, shit! Oh, shit!
+  - ugly piece of shit.
   - [CHUCKLES] You're on, bitch.
   - Oh, don't start that crap, Morty.
   - What the hell?
@@ -1576,6 +1635,7 @@ Watch for:
 ## S6 E9 — 9. A Rick in King Mortur's Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0609.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Morty starts a war on worlds after debunking the entire existence of the Knights of the Sun and is forced to take extreme measures in order to put an end to it all.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1584,11 +1644,11 @@ Watch for:
   - I'm a murderer, but
   - and put an end to the bloodshed.
 - Swearing — 12 moment(s)
-  - You drunk cranky f***!
-  - f*** this knights sh*t.
-  - And you're sh*tting on it!
-  - make you feel like sh*t about it.
-  - That's some Jerry-league sh*t.
+  - You drunk cranky fuck!
+  - Fuck this knights shit.
+  - And you're shitting on it!
+  - make you feel like shit about it.
+  - That's some Jerry-league shit.
   - been such a dick in the past
   - cut my dick off for it.
   - God damn it, Morty! You took the sword?
@@ -1604,21 +1664,22 @@ Watch for:
 ## S6 E10 — Ricktional Mortpoon's Rickmas Mortcation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0610.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: What starts as a merry Christmas in the Smith household takes an ugly turn when Morty uncovers a betrayal thanks to a gift from a galaxy far, far away.
 Watch for:
 - Violence & injury — 3 moment(s)
   - wasn't murdered as a child.
   - that got stabbed in the back!
   - lightsaber Gatling gun.
 - Swearing — 12 moment(s)
-  - You didn't! No f***ing way.
-  - FAMILY: No f***ing way.
-  - What the f***?
-  - Y-You gave him a f***in'
-  - The f*** you don't. It's Christmas!
+  - You didn't! No fucking way.
+  - FAMILY: No fucking way.
+  - What the fuck?
+  - Y-You gave him a fuckin'
+  - The fuck you don't. It's Christmas!
   - You beautiful son of a bitch!
-  - Oh, sh*t, sh*t, sh*t. Open it, Rick!
-  - Wars sh*t is silly, right?
-  - of the United a**holes.
+  - Oh, shit, shit, shit. Open it, Rick!
+  - Wars shit is silly, right?
+  - of the United Assholes.
   - Suck it, bitches!
   - until I resolve this archnemesis crap.
   - RICK: What the hell?
@@ -1628,19 +1689,20 @@ Watch for:
 ## S7 E1 — 1. How Poopy Got His Poop Back
 URL: https://watchwiththekids.com/ep/rick-and-morty/0701.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: When Mr. Poopybutthole overstays his welcome at the Smith household, the rest of the family get Rick to deal with the problem. However what starts out as a hang out of friends quickly turns into an out of control bar crawl, especially when a special guest joins the group.
 Watch for:
 - Violence & injury — 2 moment(s)
   - The best bloody day of my life.
   - before he punched me.
 - Swearing — 12 moment(s)
-  - Yeah, f*** you, Summer.
-  - Welcome to f*** You's!
-  - or should I say, f***s!
-  - stick you up a cat's a**hole?
+  - Yeah, fuck you, Summer.
+  - Welcome to Fuck You's!
+  - or should I say, fucks!
+  - stick you up a cat's asshole?
   - Birddaughter is a total bitch.
   - Punch your dick, turn some tricks ♪
-  - Oh, sh*t, it's happening!
-  - Oh, sh*t, it is.
+  - Oh, shit, it's happening!
+  - Oh, shit, it is.
   - Then nut me up, bitch!
   - God damn it.
   - Ah, crap. Hang on.
@@ -1652,20 +1714,21 @@ Watch for:
 ## S7 E2 — 2. The Jerrick Trap
 URL: https://watchwiththekids.com/ep/rick-and-morty/0702.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick and Jerry's minds are accidentally scrambled; they have to learn to set aside their differences to save their family.
 Watch for:
 - Violence & injury — 2 moment(s)
   - I'm not going to murder Gene.
   - GUNSHOT, GUN CLATTERS
 - Swearing — 12 moment(s)
-  - f*** This is Morty.
-  - What is this guy, f***in' new?
-  - Well, check those f***ing
-  - f***. f***! Call my wife.
-  - I f***ing will.
-  - I am so sick of this "born smart" sh*t.
-  - Let's see you fix it, then, a**hole.
-  - briefcases this a**hole owes us.
-  - What have you two a**holes done?
+  - fuck This is Morty.
+  - What is this guy, fuckin' new?
+  - Well, check those fucking
+  - Fuck. Fuck! Call my wife.
+  - I fucking will.
+  - I am so sick of this "born smart" shit.
+  - Let's see you fix it, then, asshole.
+  - briefcases this asshole owes us.
+  - What have you two assholes done?
   - son of a bitch.
   - I was born crying and pissing
   - God damn it.
@@ -1676,6 +1739,7 @@ Watch for:
 ## S7 E3 — 3. Air Force Wong
 URL: https://watchwiththekids.com/ep/rick-and-morty/0703.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick, along with the president and Dr. Wong, deal with a situation when an ex-lover of Rick takes over Virginia.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - of hippie sex cult.
@@ -1685,13 +1749,13 @@ Watch for:
   - I have a right to not get stabbed"?
   - You riding shotgun, or
 - Swearing — 12 moment(s)
-  - Oh, f*** me.
-  - What the f*** are you spraying me with?
-  - and you're really f***ed.
+  - Oh, fuck me.
+  - What the fuck are you spraying me with?
+  - and you're really fucked.
   - Tell that little bitch to zip it.
-  - Pick up your phone, a**hole.
+  - Pick up your phone, asshole.
   - I'm being cock-blocked.
-  - Oh, sh*t. Shonda came to play.
+  - Oh, shit. Shonda came to play.
   - We got the spray, bitch.
   - Suck my dick and lose
   - What the hell does that even
@@ -1703,6 +1767,7 @@ Watch for:
 ## S7 E4 — 4. That's Amorte
 URL: https://watchwiththekids.com/ep/rick-and-morty/0704.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The Smith family is enjoying delicious spaghetti for family dinner but Morty uncovers the truth about the dish leading to a horrifying discovery and the collapse of a society.
 Watch for:
 - Violence & injury — 6 moment(s)
   - Check it out. Murdered.
@@ -1720,14 +1785,14 @@ Watch for:
   - people, regular suicides?
   - You just want me to kill myself
 - Swearing — 12 moment(s)
-  - And if you know the f***in' names
-  - to their f***in' funeral?
-  - I f***ing hate you.
-  - Whoa, what the f*** is that?!
-  - near a f***ed up system,
-  - Ah, f*** it, just spell it out for me.
-  - Why is it always this sh*t with you?!
-  - Me! I love this ethical sh*t!
+  - And if you know the fuckin' names
+  - to their fuckin' funeral?
+  - I fucking hate you.
+  - Whoa, what the fuck is that?!
+  - near a fucked up system,
+  - Ah, fuck it, just spell it out for me.
+  - Why is it always this shit with you?!
+  - Me! I love this ethical shit!
   - Hell yeah, you like that?!
   - You know God damn well what it is, baby.
   - The new spaghetti sucks!
@@ -1736,6 +1801,7 @@ Watch for:
 ## S7 E5 — 5. Unmortricken
 URL: https://watchwiththekids.com/ep/rick-and-morty/0705.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The search for Rick Prime takes Rick and Morty to the vast reaches of the multiverse where they have to team up with an old enemy to bring him down for good.
 Watch for:
 - Violence & injury — 2 moment(s)
   - A monkey humping a shotgun has
@@ -1743,17 +1809,17 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - Maybe he'll kill himself next.
 - Swearing — 12 moment(s)
-  - You want out, then f***ing quit!
-  - What the f*** are you doing? Oh, sh*t!
-  - gimmick was f***ing off.
-  - Like in a f***ed-up robot way,
-  - Seriously though. f*** you.
+  - You want out, then fucking quit!
+  - What the fuck are you doing? Oh, shit!
+  - gimmick was fucking off.
+  - Like in a fucked-up robot way,
+  - Seriously though. Fuck you.
   - You son of a bitch! You killed my wife!
   - You're such a dick!
   - Dick smelled weird!
-  - You're an a**hole.
-  - We brought ourselves, a**hole.
-  - sh*tty grandpa.
+  - You're an asshole.
+  - We brought ourselves, asshole.
+  - Shitty grandpa.
   - bastards! Kill me! Do it!
 - Alcohol & drugs — 1 moment(s)
   - Hey, Rick. You drunk yet?
@@ -1761,6 +1827,7 @@ Watch for:
 ## S7 E6 — 6. Rickfending Your Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0706.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: As the mind-bending animated adventures continue, Morty gets audited.
 Watch for:
 - Violence & injury — 7 moment(s)
   - We don't just murder for fun.
@@ -1771,16 +1838,16 @@ Watch for:
   - Fully punched cards, each entitling me
   - with the punch cards,
 - Swearing — 12 moment(s)
-  - Look at your face, you're so f***ed.
-  - You ever f***ed this guy's wife?
-  - a f***ing clip show.
+  - Look at your face, you're so fucked.
+  - You ever fucked this guy's wife?
+  - a fucking clip show.
   - So I got receipts, bitch.
-  - and you didn't read sh*t.
+  - and you didn't read shit.
   - Oh, quit your bitchin' and do the audit.
-  - Eh, I'll just pay the a**hole
-  - I have never seen two bigger a**holes!
-  - And I see all a**holes!
-  - sh*t, hot, so hot.
+  - Eh, I'll just pay the asshole
+  - I have never seen two bigger assholes!
+  - And I see all assholes!
+  - Shit, hot, so hot.
   - tag and bag these bastards?
   - What the hell is "Leg Day"?
 - Alcohol & drugs — 2 moment(s)
@@ -1790,6 +1857,7 @@ Watch for:
 ## S7 E7 — 7. Wet Kuat Amortican Summer
 URL: https://watchwiththekids.com/ep/rick-and-morty/0707.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick gives Summer an Attribute Slider as payment for helping clean up his messes. When Morty wants it for himself, the siblings are thrown into an adventure where the term "sibling bond" is given a whole new meaning for them.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - girl to hook up with on Tuesdays?
@@ -1800,13 +1868,13 @@ Watch for:
   - Whoa, he's got a knife!
   - why you're punching me?
 - Swearing — 12 moment(s)
-  - Oh, my God. What the f***?
-  - They f***ing shamed me for it!
-  - You know what? f*** this noise.
-  - Just color the f***in' picture.
-  - Thank f***ing Christ, you bitch!
-  - Do some sh*t for me, bro.
-  - Now this is some sh*t.
+  - Oh, my God. What the fuck?
+  - They fucking shamed me for it!
+  - You know what? Fuck this noise.
+  - Just color the fuckin' picture.
+  - Thank fucking Christ, you bitch!
+  - Do some shit for me, bro.
+  - Now this is some shit.
   - Arrivadeadci, bitch.
   - What the hell?
   - Ugh, God damn it, Morty,
@@ -1818,17 +1886,18 @@ Watch for:
 ## S7 E8 — 8. Rise of the Numbericons: The Movie
 URL: https://watchwiththekids.com/ep/rick-and-morty/0708.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Morty's math class takes a surprising new turn when he and his math teacher Mr. Goldenfield go on an adventure with Goldenfield's old student, Water-T to battle the Numbericons.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Kill! Murder! Death!
 - Swearing — 12 moment(s)
-  - f*** your homework, old man.
-  - Who gives a f***?
-  - Just start the f***ing ship.
-  - f***in' up my words?
-  - Ha! Got you again, mutha-f***er!
-  - It's a prophecy or some sh*t.
-  - Oh, sh*t! He's crunching the numbers.
+  - Fuck your homework, old man.
+  - Who gives a fuck?
+  - Just start the fucking ship.
+  - fuckin' up my words?
+  - Ha! Got you again, mutha-fucker!
+  - It's a prophecy or some shit.
+  - Oh, shit! He's crunching the numbers.
   - I don't teach English, bitch!
   - Cock a doodle!
   - I sure the hell tried.
@@ -1838,6 +1907,7 @@ Watch for:
 ## S7 E9 — 9. Mort: Ragnarick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0709.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: In an attempt to answer the age old question if there is an afterlife, Rick has Bigfoot kill him in order to enter Valhalla for a robbery. Things get pretty hectic when the pope gets involved in the situation.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - You will have your naked imbecile.
@@ -1849,14 +1919,14 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - But I only used you to kill myself!
 - Swearing — 12 moment(s)
-  - f*** you. I've been tired.
-  - What the f***, Morty!
-  - with these f***ing guys.
-  - You're f***ed.
-  - It's a f***ed-up rule.
-  - Holy sh*t, this is consistent.
-  - can't you just stop being an a**hole?
-  - Oh, sh*t, I'm dead Rick.
+  - Fuck you. I've been tired.
+  - What the fuck, Morty!
+  - with these fucking guys.
+  - You're fucked.
+  - It's a fucked-up rule.
+  - Holy shit, this is consistent.
+  - can't you just stop being an asshole?
+  - Oh, shit, I'm dead Rick.
   - What in the mighty whale's wooden cock?
   - You've got my grandparents pissed at me.
   - piss and dragon balls
@@ -1868,6 +1938,7 @@ Watch for:
 ## S7 E10 — Fear No Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0710.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: When Rick and Morty enter into a mysterious new realm called the Fear Hole, the two must learn to overcome their greatest fears and know what it's like to live with themselves.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - My greatest fear is you hooking up?
@@ -1876,13 +1947,13 @@ Watch for:
   - scared of not having a gun?
   - Yeah. This is punching down.
 - Swearing — 12 moment(s)
-  - What a f***ing ride.
-  - What the f***, Grandpa? Say something.
-  - What the f*** are you two talking about?
-  - I'm not going to f***ing
-  - We both sh*t our pants.
-  - Morty and I sh*t our pants.
-  - than the average a**hole in a Denny's.
+  - What a fucking ride.
+  - What the fuck, Grandpa? Say something.
+  - What the fuck are you two talking about?
+  - I'm not going to fucking
+  - We both shit our pants.
+  - Morty and I shit our pants.
+  - than the average asshole in a Denny's.
   - It sucks, you know,
   - Okay. What the hell?
   - What the hell?
@@ -1896,6 +1967,7 @@ Watch for:
 ## S8 E1 — 1. Summer of All Fears
 URL: https://watchwiththekids.com/ep/rick-and-morty/0801.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Rick left the kids in a matrix. Not chill, broh.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1903,12 +1975,12 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Put that mindblower gun down.
 - Swearing — 12 moment(s)
-  - f*** you! None of this is real!
-  - Nothing out here f***ing matters.
+  - Fuck you! None of this is real!
+  - Nothing out here fucking matters.
   - That means no chargers, you old bitch!
-  - Oh, sh*t. How long was I out?
+  - Oh, shit. How long was I out?
   - Eat my ass, you shallow bitches!
-  - slowly up your a**hole.
+  - slowly up your asshole.
   - I thought you were my friend, bitch!
   - What the hell?
   - The hell are you doing, Morty?
@@ -1924,18 +1996,19 @@ Watch for:
 ## S9 E1 — 1. Theres Something About Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0901.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick's been lonely, broh. Morty's worried bout side pieces.
 Watch for:
 - Violence & injury — 2 moment(s)
   - He'll want to murder
   - Just like the portal gun.
 - Swearing — 12 moment(s)
-  - What the f***?!
-  - The f*** it's fine!
-  - and we're f***ed. You're driving.
-  - Load your f***ing thing in.
-  - You really f***ed me there, Morty.
-  - Hello? sh*t.
-  - and never has to sh*t.
+  - What the fuck?!
+  - The fuck it's fine!
+  - and we're fucked. You're driving.
+  - Load your fucking thing in.
+  - You really fucked me there, Morty.
+  - Hello? Shit.
+  - and never has to shit.
   - Thank dick, we're here.
   - who sucks my grandpa's dick.
   - Blackmailing prick.
@@ -1947,6 +2020,7 @@ Watch for:
 ## S9 E2 — 2. Ricks Days, Seven Nights
 URL: https://watchwiththekids.com/ep/rick-and-morty/0902.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: You try being Rick all the time, broh.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - to hook up with locals.
@@ -1956,11 +2030,11 @@ Watch for:
   - when he murders a fish?
 - Swearing — 12 moment(s)
   - There you are, motherfucker.
-  - Alright, well, sh*t.
-  - and a sh*t-ton of snow,
-  - that a**hole plays,
+  - Alright, well, shit.
+  - and a shit-ton of snow,
+  - that asshole plays,
   - He can be kind of a dick,
-  - But this a**hole's
+  - But this asshole's
   - you self-centered prick!
   - I'm a stubborn old bitch.
   - one bad son of a bitch,
@@ -1976,6 +2050,7 @@ Watch for:
 ## S9 E3 — 3. Rick Fu Hustle
 URL: https://watchwiththekids.com/ep/rick-and-morty/0903.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: You haven't lived till you've chested up at Trader Joe's, broh.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - to hook up the flat screen.
@@ -1994,12 +2069,12 @@ Watch for:
   - I got death punched.
   - and he punched me.
 - Swearing — 12 moment(s)
-  - f*** you. Watch this.
-  - Okay, then. f*** off.
-  - This is me f***ing off
-  - out of the f***ing garage
-  - Nobody f***s
-  - f***in' phone. Where'd you go?
+  - Fuck you. Watch this.
+  - Okay, then. Fuck off.
+  - This is me fucking off
+  - out of the fucking garage
+  - Nobody fucks
+  - Fuckin' phone. Where'd you go?
   - First, I'm gonna cure the dick
   - Ooh! Jerry's new pool sucks?
   - What the hell does that mean?
@@ -2017,21 +2092,22 @@ Watch for:
 ## S9 E4 — 4. A Ricker Runs Through It
 URL: https://watchwiththekids.com/ep/rick-and-morty/0904.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Remembering passwords is hard, broh. Special characters, broh.
 Watch for:
 - Violence & injury — 2 moment(s)
   - a lot of blood.
   - Punching down.
 - Swearing — 12 moment(s)
-  - Ugh, this f***in' thing.
-  - This, uh, uhh, f***.
-  - Piece of f***in'
-  - f***ing Reese, Morty!
-  - f*** that up?
-  - Jesus f***ing Christ!
-  - That was f***ed up, Rick.
-  - But I can handle f***ed up.
-  - piece of sh*t!
-  - Y-you don't give a sh*t
+  - Ugh, this fuckin' thing.
+  - This, uh, uhh, fuck.
+  - Piece of fuckin'
+  - Fucking Reese, Morty!
+  - fuck that up?
+  - Jesus fucking Christ!
+  - That was fucked up, Rick.
+  - But I can handle fucked up.
+  - piece of shit!
+  - Y-you don't give a shit
   - H-hell, yeah!
   - What the hell
 - Alcohol & drugs — 4 moment(s)
@@ -2043,6 +2119,7 @@ Watch for:
 ## S9 E5 — 5. Jer Bud
 URL: https://watchwiththekids.com/ep/rick-and-morty/0905.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Man's best friend, broh.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - about the way I look naked.
@@ -2051,15 +2128,15 @@ Watch for:
   - Blood. Fear. Darwinism.
   - Yeah, these guys do not get guns!
 - Swearing — 11 moment(s)
-  - sh*t! What the f***?
-  - Oh, f*** me!
-  - You f***ing leatherskins!
-  - you're f***ing bald.
-  - so much specific sh*t onto me!
-  - sh*t, Jerry!
-  - He said we were a**hole,
-  - You a**hole,
-  - but still sh*tting on the carpet!
+  - Shit! What the fuck?
+  - Oh, fuck me!
+  - You fucking leatherskins!
+  - you're fucking bald.
+  - so much specific shit onto me!
+  - Shit, Jerry!
+  - He said we were asshole,
+  - You asshole,
+  - but still shitting on the carpet!
   - Aw, damn it!
   - 'cause I'm pissed at Snowball,
 - Alcohol & drugs — 4 moment(s)
@@ -2069,12 +2146,13 @@ Watch for:
   - to Nipslip Vodka.
 - Racism & slurs — 3 moment(s)
   - You think I'm racist.
-  - racist piece-of-sh*t bigots!
+  - racist piece-of-shit bigots!
   - neck racism, probably.
 
 ## S9 E6 — 6. Erickerhead
 URL: https://watchwiththekids.com/ep/rick-and-morty/0906.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick's stomach is mad, broh. But it's all-you-can-eat-and-drink here, broh!
 Watch for:
 - Sex & hookups — 2 moment(s)
   - I had an orgasm.
@@ -2086,15 +2164,15 @@ Watch for:
   - They see a lot of murder,
   - Portal guns fried, too.
 - Swearing — 12 moment(s)
-  - The f*** you talking about?
-  - Oh f*** oh f*** oh f***
-  - We might actually be f***ed
-  - will be extra f***ed.
-  - today, I swear to f***ing God.
+  - The fuck you talking about?
+  - Oh fuck oh fuck oh fuck
+  - We might actually be fucked
+  - will be extra fucked.
+  - today, I swear to fucking God.
   - Bitch, they can't make me run
-  - interloping sh*t.
+  - interloping shit.
   - it is crazy having no dick.
-  - I can't see sh*t from down here!
+  - I can't see shit from down here!
   - Morty: “God damn it!”
   - Oh, god damn it.
   - What the hell, Summer?!
@@ -2106,24 +2184,26 @@ Watch for:
 ## S9 E7 — 7. Mortgully: The Last Rickforest
 URL: https://watchwiththekids.com/ep/rick-and-morty/0907.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rick and Morty gotta evolve, broh.
 Watch for:
 - Swearing — 12 moment(s)
-  - What the f***'s going on.
+  - What the fuck's going on.
   - you limp-dick motherfucker!
-  - Hey, what the f***?
-  - Ohhhh, I'm so f***ing wounded.
-  - It's time to climb this f***er.
-  - sh*t! Vines!
-  - Spawn-camping piece of sh*t!
-  - Ocean needs sh*ttin'.
-  - sh*ttier prison?
-  - I didn't say sh*ttier!
+  - Hey, what the fuck?
+  - Ohhhh, I'm so fucking wounded.
+  - It's time to climb this fucker.
+  - Shit! Vines!
+  - Spawn-camping piece of shit!
+  - Ocean needs shittin'.
+  - shittier prison?
+  - I didn't say shittier!
   - What the hell?
   - God damn it, Morty,
 
 ## S9 E8 — 8. Rickuiem Mort a Dream
 URL: https://watchwiththekids.com/ep/rick-and-morty/0908.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Hold still, broh. It'll make you nice, broh.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2134,13 +2214,13 @@ Watch for:
   - Do you have a knife?
   - my desk drawer with period blood.
 - Swearing — 12 moment(s)
-  - Morty! What the f***?
-  - What the f***?!
-  - real f***in' important
-  - is a f***ing worm.
-  - so f***ing sad.
-  - I'm gonna buy myself some sh*t
-  - piece of sh*t, Morty!
+  - Morty! What the fuck?
+  - What the fuck?!
+  - real fuckin' important
+  - is a fucking worm.
+  - so fucking sad.
+  - I'm gonna buy myself some shit
+  - piece of shit, Morty!
   - you dumb dead-wife-having bitch.
   - Lift your side, bitch.
   - God damn it.
@@ -2152,6 +2232,7 @@ Watch for:
 ## S9 E9 — 9. Salute Your Morts
 URL: https://watchwiththekids.com/ep/rick-and-morty/0909.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Morty and Summer go to camp, broh. Beth and Jerry home alone, broh.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2164,18 +2245,18 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - It was a visualization of suicide.
 - Swearing — 12 moment(s)
-  - The f*** you just say?
-  - too f***ing spoiled to know
-  - as much as your f***ing bald spot.
-  - Doin' whatever the f*** you want!
-  - Great place to get f***ed.
-  - Perfect place to get f***ed.
-  - for being high-concept a**holes.
-  - he's being a lazy piece of sh*t.
+  - The fuck you just say?
+  - too fucking spoiled to know
+  - as much as your fucking bald spot.
+  - Doin' whatever the fuck you want!
+  - Great place to get fucked.
+  - Perfect place to get fucked.
+  - for being high-concept assholes.
+  - he's being a lazy piece of shit.
   - Little bitch ninja-logged me.
-  - Pack your sh*t.
+  - Pack your shit.
   - Yeah, you dumb bitch!
-  - These a**holes have way more stamina
+  - These assholes have way more stamina
 - Alcohol & drugs — 2 moment(s)
   - Get that fart baby a beer!
   - I wish we hadn't given beer
@@ -2183,6 +2264,7 @@ Watch for:
 ## S9 E10 — Field Of Dreams
 URL: https://watchwiththekids.com/ep/rick-and-morty/0910.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Tom Sawyer, broh.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - buried with your porn magazines?
@@ -2190,14 +2272,14 @@ Watch for:
   - Then break the gun.
   - it's a fish gun.
 - Swearing — 12 moment(s)
-  - f*** you, Morty.
-  - into a f***ing giraffe?
-  - I f***ing knew it.
-  - f***, I hate that guy.
-  - So she's a f***bot?
-  - Oh, sh*t. You gotta try it, dude.
-  - and saying the nicest sh*t
-  - My students were a**holes today,
+  - Fuck you, Morty.
+  - into a fucking giraffe?
+  - I fucking knew it.
+  - Fuck, I hate that guy.
+  - So she's a fuckbot?
+  - Oh, shit. You gotta try it, dude.
+  - and saying the nicest shit
+  - My students were assholes today,
   - I built this place with my dick
   - Wouldn't a dick be a better hammer?
   - Oh, hell yeah!

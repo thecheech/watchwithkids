@@ -6495,16 +6495,17 @@
       "file": "transcripts/spongebob/code-yellow.txt",
       "summary": null,
       "violence": 1,
-      "sex": 3,
+      "sex": 2,
       "language": 1,
-      "overall": 3,
-      "age": 10,
-      "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on sex & hookups (moderate, shown on screen).",
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is sex & hookups (moderate, shown on screen).",
       "themes": {
         "fine": [
           "Cartoon slapstick",
-          "Kid-adventure silliness"
+          "Kid-adventure silliness",
+          "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
           "Sex & hookups",
@@ -6515,7 +6516,7 @@
             "theme": "Sex & hookups",
             "group": "sex",
             "how": "Bubble transitions to Squidward hooked up to the IV.",
-            "count": 4,
+            "count": 2,
             "intensity": 2,
             "mode": "on-screen",
             "instances": [
@@ -6534,22 +6535,6 @@
                 "mode": "on-screen",
                 "intensity": 2,
                 "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The surgeon puts Squidward to sleep with anesthesia.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The surgeon puts Squidward to sleep with anesthesia again. He wakes up again and looks at his reflection again. He has three noses instead of one.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "late"
               }
             ]
           },
@@ -9700,48 +9685,22 @@
       "file": "transcripts/spongebob/feral-friends.txt",
       "summary": null,
       "violence": 1,
-      "sex": 3,
+      "sex": 2,
       "language": 1,
-      "overall": 3,
-      "age": 10,
-      "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on sex & hookups (moderate, shown on screen).",
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, shown on screen).",
       "themes": {
         "fine": [
           "Cartoon slapstick",
-          "Kid-adventure silliness"
+          "Kid-adventure silliness",
+          "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Sex & hookups",
           "Nudity & bodies"
         ],
         "watch_detail": [
-          {
-            "theme": "Sex & hookups",
-            "group": "sex",
-            "how": "The green moon flies over Pearl and it transforms her into a realistic sperm whale.",
-            "count": 2,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The green moon flies over Pearl and it transforms her into a realistic sperm whale.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Patchy",
-                "text": "…Stroke! Stroke! [rows his boat out of Pearl's way; Pearl leaps over Patchy and Potty, as a live-action sperm whale, and lands back in the ocean, splashing water into Patchy's boat] Oh!",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Nudity & bodies",
             "group": "sex",
@@ -9774,7 +9733,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — The green moon flies over Pearl and it transforms her into a realistic sperm whale.",
         "Nudity & bodies — Mr. Krabs and Mrs. Puff fight each other again, they both revert back into their regular forms, and are now naked"
       ],
       "notes": null,
@@ -23136,36 +23094,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Sex & hookups",
           "Suicide & self-harm"
         ],
         "watch_detail": [
-          {
-            "theme": "Sex & hookups",
-            "group": "sex",
-            "how": "SpongeBob lifts Squidward out of the hole as the SpongeBob-snowman comes to life. SpongeBob and Squidward walk over to an arctic sperm whale.",
-            "count": 2,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "SpongeBob lifts Squidward out of the hole as the SpongeBob-snowman comes to life. SpongeBob and Squidward walk over to an arctic sperm whale.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The arctic sperm whale takes the delivery bag and pulls out a Krabby Patty frozen in ice. Then he takes a bite of the frozen patty.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Suicide & self-harm",
             "group": "violence",
@@ -23190,7 +23121,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — SpongeBob lifts Squidward out of the hole as the SpongeBob-snowman comes to life. SpongeBob and Squidward walk over to an arctic sperm whale.",
         "Suicide & self-harm — Art Appraiser: “Well, paintings can become much more valuable when the artist is no longer with us. You know. Out of the picture. [pretends to hang himself]”"
       ],
       "notes": null,
@@ -32394,7 +32324,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is sex & hookups (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is fat-shaming (moderate, shown on screen).",
       "themes": {
         "fine": [
           "Cartoon slapstick",
@@ -32402,30 +32332,11 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Sex & hookups",
           "Nudity & bodies",
           "Violence & injury",
           "Fat-shaming"
         ],
         "watch_detail": [
-          {
-            "theme": "Sex & hookups",
-            "group": "sex",
-            "how": "Patrick: “Oh, yeah. I was gonna tell you. [holds out a bag of beans and throws some beans at SpongeBob] Surprise! [goes to sleep with everyone]”",
-            "count": 1,
-            "intensity": 2,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Patrick",
-                "text": "Oh, yeah. I was gonna tell you. [holds out a bag of beans and throws some beans at SpongeBob] Surprise! [goes to sleep with everyone]",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Nudity & bodies",
             "group": "sex",
@@ -32510,7 +32421,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Patrick: “Oh, yeah. I was gonna tell you. [holds out a bag of beans and throws some beans at SpongeBob] Surprise! [goes to sleep with everyone]”",
         "Nudity & bodies — Rube: “Now remember, everyone, keep your arms and legs inside the bus at all times 'cause we are about to encounter a gaggle of nearly naked beach giraffes!”",
         "Violence & injury — Plankton: “[holds up a ray gun] Have you ever tried to annihilate him?!”",
         "Fat-shaming — The creepy man becomes so fat from eating the cake that he splits the table in half."

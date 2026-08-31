@@ -9,13 +9,13 @@ URL: https://watchwiththekids.com/ep/south-park/0047.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
-  - explosive f***ing diarrhea all night
-  - f*** you, Mom!
-  - sweet f***ing knockers.
-  - f*** it! Make it more lame.
+  - explosive fucking diarrhea all night
+  - Fuck you, Mom!
+  - sweet fucking knockers.
+  - Fuck it! Make it more lame.
   - Who you callin' fat, you heathen bitch?
-  - Let's go. I'm sick of this sh*t.
-  - don't know how to do sh*t.
+  - Let's go. I'm sick of this shit.
+  - don't know how to do shit.
   - They all honky-ass bitches!
   - Yeah, bitch, you just
   - What the hell is going on?
@@ -25,7 +25,7 @@ Watch for:
   - of beer and you can get drunk.
   - You wasted our time!
 - Racism & slurs — 5 moment(s)
-  - racist piece of sh*t.
+  - racist piece of shit.
   - not being so racist, Cartman.
   - and so you're lashing out with racism.
   - to fight all the bigotry in our society.
@@ -51,17 +51,17 @@ Watch for:
   - I want to beat her on Instagram,
   - I want to beat her on TikTok,
 - Swearing — 12 moment(s)
-  - f*** you, Spencer,
-  - you're a f***ing poser!
-  - so why don't you shut the f*** up?
-  - Okay, well, you're a c**t.
-  - a f***ing charity for the homeless?
-  - I'm gonna f***in' do it!
+  - Fuck you, Spencer,
+  - you're a fucking poser!
+  - so why don't you shut the fuck up?
+  - Okay, well, you're a cunt.
+  - a fucking charity for the homeless?
+  - I'm gonna fuckin' do it!
   - I got Cred, bitches ♪
   - You got no Cred, bitches ♪
-  - Drink Cred or you're a piece of sh*t.
-  - Oh, you want the good sh*t.
-  - $80? For a sh*tty fake-sugar drink?
+  - Drink Cred or you're a piece of shit.
+  - Oh, you want the good shit.
+  - $80? For a shitty fake-sugar drink?
   - What the hell are you doing?
 - Alcohol & drugs — 2 moment(s)
   - Stoli Vodka at 150.
@@ -79,17 +79,17 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - experience suicidal thoughts.
 - Swearing — 12 moment(s)
-  - and your religion is f***ing bullshit.
-  - Your whole country is f***ing
-  - f*** yeah, dawg. This is f***ing nice!
-  - I can't f***in' wait.
-  - It's so f***ed up, you
-  - What's f***ed up?
-  - and meanwhile, Cartman's fat as f***
-  - with this sh*t again.
+  - and your religion is fucking bullshit.
+  - Your whole country is fucking
+  - Fuck yeah, dawg. This is fucking nice!
+  - I can't fuckin' wait.
+  - It's so fucked up, you
+  - What's fucked up?
+  - and meanwhile, Cartman's fat as fuck
+  - with this shit again.
   - You're a dumb bitch.
-  - you get your sh*t together?
-  - Ozempic gave me the sh*ts
+  - you get your shit together?
+  - Ozempic gave me the shits
   - You're a uh Damn it!
 - Alcohol & drugs — 5 moment(s)
   - It's like cocaine and
@@ -103,6 +103,7 @@ Watch for:
 ## S1 E1 — 1. Cartman Gets an Anal Probe
 URL: https://watchwiththekids.com/ep/south-park/0101.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Aliens wreak havoc in the Rockies, first by subjecting Cartman to an anal probe, and then by abducting Kyle's baby brother.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “No, Kitty, this is my potpie! Mom! Kitty's being a dildo! Then I know a certain kitty-kitty who's sleeping with Mommy tonight.”
@@ -124,6 +125,7 @@ Watch for:
 ## S1 E2 — 2. Weight Gain 4000
 URL: https://watchwiththekids.com/ep/south-park/0102.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman tries to slim down when he learns a TV talk-show host is coming to town to give him an award, but he bulks up instead. Meanwhile, Mr. Garrison hatches a plan to murder the visiting celeb.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Kathie Lee is a beautiful, sultry queen of sexual fantasy.”
@@ -147,6 +149,7 @@ Watch for:
 ## S1 E3 — 3. Volcano
 URL: https://watchwiththekids.com/ep/south-park/0103.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
+Summary: A volcanic eruption interrupts the boys' camping trip.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “Don't ever walk with your gun unless the safety's on.”
@@ -162,6 +165,7 @@ Watch for:
 ## S1 E4 — 4. Big Gay Al's Big Gay Boat Ride
 URL: https://watchwiththekids.com/ep/south-park/0104.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: When his pup explores his sexuality, Stan gets so upset that he inadvertently threatens to blow the school's homecoming-game victory.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Evil down to their black hearts, which pump not blood but a vomitous oil that oozes through their veins clots in their brains, which causes their Nazi-esque violent behavior.”
@@ -173,6 +177,7 @@ Watch for:
 ## S1 E5 — 5. An Elephant Makes Love to a Pig
 URL: https://watchwiththekids.com/ep/south-park/0105.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: After a botched genetic experiment, Stan's clone is let loose in the town. Voices include Trey Parker and Matt Stone.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Lf a girl tried to kick my ass, I'd be: "Why don't you stop dressing me like a mailman and making me dance for you while you smoke crack in your bedroom and have sex with some guy I don't even know on my dad's bed.”
@@ -202,6 +207,7 @@ Watch for:
 ## S1 E6 — 6. Death
 URL: https://watchwiththekids.com/ep/south-park/0106.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys summon the Grim Reaper.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Why don't we go watch those porno movie thingies? - What are you doing, Grandpa? - I'm going to Africa.”
@@ -215,10 +221,10 @@ Watch for:
   - “What if he really wants to die, and he's just asking for help? Yeah, like assisted suicide.”
 - Swearing — 12 moment(s)
   - “Take that, you stupid dick.”
-  - “What did he say? - You're an a**hole, Phillip.”
+  - “What did he say? - You're an asshole, Phillip.”
   - “Is that a fact? Let me tell you something, porky your mom was over here earlier, and I humped her like a bitch.”
   - “I ever tell you how I boofed your dad, fatso? - I can't believe that son of a bitch! - Have some Snacky Cakes.”
-  - “You're such an a**hole, Terrance.”
+  - “You're such an asshole, Terrance.”
   - “Damn it! - Language! Back to Terrance and Phillip.”
   - “Damn it! - Want to make a dollar, Billy? - My name's not Billy, it's Stan.”
   - “That's crap.”
@@ -233,9 +239,10 @@ Watch for:
 ## S1 E7 — 7. Pinkeye
 URL: https://watchwiththekids.com/ep/south-park/0107.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: A pinkeye epidemic interrupts the boys' plans to win a Halloween-costume contest; and Kenny has a run-in with a Russian space station when it falls to Earth.
 Watch for:
 - Swearing — 12 moment(s)
-  - “You owe me a Sweetie Pop, a**hole.”
+  - “You owe me a Sweetie Pop, asshole.”
   - “Hooray! Pink Eye - Oh, my God, they killed Kenny! - You bastards! - What the hell is that thing? - A UFO.”
   - “Look out, Holly Hobbie's pissed off.”
   - “I'm talking to you, Kenny! Achtung! Poor piece of crap.”
@@ -255,6 +262,7 @@ Watch for:
 ## S1 E8 — 8. Starvin' Marvin
 URL: https://watchwiththekids.com/ep/south-park/0108.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: After the boys contact an agency that helps starving children, Government authorities send Cartman to Ethiopia. Meanwhile, the town holds a drive for canned goods; and turkeys revolt against a genetic engineer.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “No punches below the belt, holding or miracles.”
@@ -276,6 +284,7 @@ Watch for:
 ## S1 E9 — 9. Mr. Hankey, the Christmas Poo
 URL: https://watchwiththekids.com/ep/south-park/0109.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Because he's Jewish, Kyle is denied involvement in the Nativity play and excluded from trips to see Santa. Meanwhile, South Park residents try to plan a politically correct celebration; and Mr. Hankey visits Kyle.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Look at the way they foam at the mouth like beautiful suds of beer.”
@@ -285,6 +294,7 @@ Watch for:
 ## S1 E10 — Damien
 URL: https://watchwiththekids.com/ep/south-park/0110.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: As Cartman celebrates his birthday, Jesus Christ and Satan duke it out on a pay-per-view TV special. Meanwhile, Satan's son Damien tries to fit in with the crowd after making a violent first impression.
 Watch for:
 - Swearing — 11 moment(s)
   - “Super-bitch is at it again.”
@@ -302,6 +312,7 @@ Watch for:
 ## S1 E11 — Tom's Rhinoplasty
 URL: https://watchwiththekids.com/ep/south-park/0111.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Mr. Garrison takes a leave of absence to have a nose job and is replaced by Miss Ellen, a substitute who threatens Stan and Wendy's relationship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hat, being hot and sexy is fun for a while, but it does get boring.”
@@ -319,6 +330,7 @@ Watch for:
 ## S1 E12 — Mecha-Streisand
 URL: https://watchwiththekids.com/ep/south-park/0112.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The future of the world is at stake after the boys unearth a prehistoric relic that spawns a monster.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Robert Smith, hit her nose! Use robot punch.”
@@ -340,6 +352,7 @@ Watch for:
 ## S1 E13 — Cartman's Mom is a Dirty Slut
 URL: https://watchwiththekids.com/ep/south-park/0113.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: When Cartman begins to exhibit odd behavior, a counselor suggests that finding his father may solve his problems.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I might have made love to your mother at the dance, but who here didn't? Now come on, honestly, who here has never had sex with Mrs.”
@@ -373,6 +386,7 @@ Watch for:
 ## S2 E1 — 1. Terrance & Phillip in "Not Without My Anus"
 URL: https://watchwiththekids.com/ep/south-park/0201.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: An episode featuring Terrance and Phillip, who must save Canada from Saddam Hussein.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “If they can't see how horribly disfigured you are, they'll want to sleep with you.”
@@ -398,6 +412,7 @@ Watch for:
 ## S2 E2 — 2. Cartman's Mom is Still a Dirty Slut
 URL: https://watchwiththekids.com/ep/south-park/0202.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Chef and the boys rush to the hospital to check on Mephesto, who's gunned down just as he's set to reveal the identity of Cartman's father. Meanwhile, the townspeople search for the gunman and battle a snowstorm.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “No, don't! Set an open course for the virgin sea.”
@@ -410,11 +425,11 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “There's a murderer free in South Park.”
 - Swearing — 12 moment(s)
-  - “Unless we get help soon, all these people in here are completely f***ed.”
-  - “Are you f***ing kidding me, making me crawl through that f***ing thing.”
-  - “Eh, man, this is f***ing weak.”
+  - “Unless we get help soon, all these people in here are completely fucked.”
+  - “Are you fucking kidding me, making me crawl through that fucking thing.”
+  - “Eh, man, this is fucking weak.”
   - “Wake up you son of a bitch! Now son, that's not going to do him any good.”
-  - “Yes, of, of course, nobody gives a sh*t about Eric Roberts.”
+  - “Yes, of, of course, nobody gives a shit about Eric Roberts.”
   - “Gentlemen, the father is - Hey, what the hell's going on? - It's a power outage.”
   - “You bastards! - Mephesto's been shot.”
   - “You've got to be kidding me! - Come on children! Oh the poor kid, it must be hell for him going through all this.”
@@ -431,6 +446,7 @@ Watch for:
 ## S2 E3 — 3. Chickenlover
 URL: https://watchwiththekids.com/ep/south-park/0203.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Chaos ensues on the streets of South Park as the town is overcome by a crime wave that leaves scores of chickens assaulted. And Officer Barbrady's no help...because he's resigned.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Who'd have sex with a chicken? Uh boys you move along, this isn't for young eyes to see.”
@@ -441,12 +457,12 @@ Watch for:
   - “There you see, this could be a bank robery or possibly even a murder.”
   - “For what? Orderly conduct? - How about fishing without a license? - I'm not fishin'! What do you call this then? If you do not comply I'll be forced to execute each and everyone of you by gun shots in the head.”
 - Swearing — 11 moment(s)
-  - “With chicken after chicken being violated the South Park police are under increasing presure to solve the case of the chicken f***er.”
-  - “But has chicken f***er left any clues at the crime - Alright! Alright! I can't read!! There I said it.”
-  - “Now sir is there some kind of I want him out of my house! He ain't workin' sh*t! He can't even hold a f***in' job! Shut up bitch! Ok, ok let's try to watch the language there's children present hea.”
-  - “So you f***ed a bunch of chickens? - Yes! Yes exactly! Don't you see? Only by f***ing chickens could I get Officer Barbrady to become literate.”
-  - “In today's news, South Park has a parade to honor Officer Barbrady and his heroic work on the chicken f***ing case.”
-  - “I read every last word of this garbage and because of this piece of sh*t, I'm never reading again! Hooray for Barbrady! - Wow, I guess reading really does suck ass.”
+  - “With chicken after chicken being violated the South Park police are under increasing presure to solve the case of the chicken fucker.”
+  - “But has chicken fucker left any clues at the crime - Alright! Alright! I can't read!! There I said it.”
+  - “Now sir is there some kind of I want him out of my house! He ain't workin' shit! He can't even hold a fuckin' job! Shut up bitch! Ok, ok let's try to watch the language there's children present hea.”
+  - “So you fucked a bunch of chickens? - Yes! Yes exactly! Don't you see? Only by fucking chickens could I get Officer Barbrady to become literate.”
+  - “In today's news, South Park has a parade to honor Officer Barbrady and his heroic work on the chicken fucking case.”
+  - “I read every last word of this garbage and because of this piece of shit, I'm never reading again! Hooray for Barbrady! - Wow, I guess reading really does suck ass.”
   - “Ok children each of you gets to choose - Reading sucks ass! - Eric, shut up! Boring, boring - Gay, boring, boring.”
   - “God damn it! Ok people, move along, there's nothing to see here.”
   - “Damn it Barbrady, what the hell's wrong with you? Everytime something happens in this town you say 'Nothing to see here' and 'Case closed'.”
@@ -456,6 +472,7 @@ Watch for:
 ## S2 E4 — 4. Ike's Wee Wee
 URL: https://watchwiththekids.com/ep/south-park/0204.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys try to circumvent a delicate surgical procedure set to be performed on Kyle's brother as part of a tradition begun by their Jewish ancestors. Meanwhile, Mr. Mackey is cut from his job after he botches a lecture on drugs.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -465,8 +482,8 @@ Watch for:
   - “Trying to prosecute out of one side of your mouth, mmkay, while supporting guns out of the other, mmkay?”
   - “Family isn't about whose blood you have, it's about who you care about.”
 - Swearing — 8 moment(s)
-  - “Children, uh, what's the one thing that's more sacred to a man than anything else in the world? - Uh, bicycles? - Ham? - No, not ham you fat f***!”
-  - “Knock it off a**hole.”
+  - “Children, uh, what's the one thing that's more sacred to a man than anything else in the world? - Uh, bicycles? - Ham? - No, not ham you fat fuck!”
+  - “Knock it off asshole.”
   - “What the hell is a Bris? - I don't know, but there's going to be lots of food, and a band.”
   - “Hey, are you going to come to Ike's Bris this weekend? Oh hell no, I can't bear to see that.”
   - “Damn it children.”
@@ -483,11 +500,12 @@ Watch for:
 ## S2 E5 — 5. Conjoined Fetus Lady
 URL: https://watchwiththekids.com/ep/south-park/0205.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle's terrified after an injury sustained during a dodgeball game sends him to the nurse---a conjoined twin with an unusual medical condition. Meanwhile, Pip leads the dodgeball team to the world championships in China.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Yeah good thing they have those big eyes so they don't have to rely on that amazing American intellect Pray bra! Holy crap.”
 - Swearing — 11 moment(s)
-  - “Damn dude, China's f***ed up.”
+  - “Damn dude, China's fucked up.”
   - “And take those stupid things off your heads! - Oh my what an ungrateful bitch.”
   - “Play ball! - Damn it, we lost one already.”
   - “God damn maybe if you didn't eat all those crossaints be able to get Ok, that was pretty good Pip, but you're supposed to hit the kids on the other team.”
@@ -506,6 +524,7 @@ Watch for:
 ## S2 E6 — 6. The Mexican Staring Frog of Southern Sri Lanka
 URL: https://watchwiththekids.com/ep/south-park/0206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Jimbo and Ned launch a TV hunting show, which goes head-to-head with "Jesus and Pals," the popular cable-access series.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “I'll just take him home and show him some good hard core porn, he'll snap right out of it, won't you Ned? I want to appologize to all of you for what happened in there.”
@@ -513,8 +532,8 @@ Watch for:
   - “Now Ned, he's not looking! Quick Ned, hit him with the shot gun! Now Ned! Ned? Ned? Oh no.”
   - “My pony boar was beat up pretty bad.”
 - Swearing — 12 moment(s)
-  - “Garrison? - Yes, uh where the f*** did you hear this ridiculous load of bullshit? From Veitnam veteran.”
-  - “Take that you a**hole! - What the f*** was that? - Uh, let's watch the language people.”
+  - “Garrison? - Yes, uh where the fuck did you hear this ridiculous load of bullshit? From Veitnam veteran.”
+  - “Take that you asshole! - What the fuck was that? - Uh, let's watch the language people.”
   - “Yeah dude, your uncle Jimbo sucks ass! Why would he just invent a story instead of telling us the truth? Well let's see maybe because he's an old drunk hillbilly dick!”
   - “Yeah, what a couple of dumbasses! Yeah, they're a couple of bitch ass motherfuckers! - Come one we gotta go make another one! - Lying kicks ass! Jesus! We're in trouble.”
   - “Pass me some cocoa will you Ned? - Certainly, and would you like another muffin as well? Why the hell not? We're at war.”
@@ -531,6 +550,7 @@ Watch for:
 ## S2 E7 — 7. City on the Edge of Forever (a.k.a. Flashbacks)
 URL: https://watchwiththekids.com/ep/south-park/0207.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys put twists on events such as the attempted assassination of a talk-show host and a fight with Death as their bus hangs off a cliff. Meanwhile, Ms. Crabtree finds fame when she goes to look for help.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -538,10 +558,10 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Garrison used a gun.”
 - Swearing — 12 moment(s)
-  - “DAMN IT CARTMAN YOU ARE SUCH A FAT f***! What did you say????!??!? I'm scared! Be quiet kid!! And right up here you can see a red bellied chickadee.”
+  - “DAMN IT CARTMAN YOU ARE SUCH A FAT FUCK! What did you say????!??!? I'm scared! Be quiet kid!! And right up here you can see a red bellied chickadee.”
   - “Remember don't get off this bus or a big scary monster WILL EAT YOU!!! Hey why doens't the scary monster eat her? Cause dumbass, scary monsters don't eat big fat smelly bitches.”
-  - “Dude! What? I don't wanna die on this bus with you a**holes! You guys suck! Would you just relax? We've been in a lot worse situations than this and come out of it just fine.”
-  - “You look like a lump of dog sh*t just got hit by a CAR!!!!! What did I tell you? She's fantastic.”
+  - “Dude! What? I don't wanna die on this bus with you assholes! You guys suck! Would you just relax? We've been in a lot worse situations than this and come out of it just fine.”
+  - “You look like a lump of dog shit just got hit by a CAR!!!!! What did I tell you? She's fantastic.”
   - “Oh no? Don't you remember the time he went crazy, and tried to kill Kathie Lee Gifford? Here she comes! Come on you little bitch.”
   - “So uh, what's a fragile dove like yourself, doing out on a a night like this? Look mister, I gotta bus load of kids trapped on that pass, and I need a crane, helicopters and all that crap!”
   - “Fart damn you! Ok, that does it.”
@@ -557,15 +577,16 @@ Watch for:
 ## S2 E8 — 8. Summer Sucks
 URL: https://watchwiththekids.com/ep/south-park/0208.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The mayor devises a plan to make the town's Fourth of July celebration memorable, despite a ban on fireworks; and Mr. Hat vanishes, causing Mr. Garrison to visit a therapist.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hat was gay? Sometimes he fanatsizes about same sexualations.”
 - Swearing — 12 moment(s)
-  - “GOD DAMN IT, WHERE THE f*** DID YOU PUT MR.”
-  - “Oh course I do you f***ing a**hole! Dusty the dirtball! Why does everything have to suck so bad in summer.”
-  - “sh*t! Where did everybody go? Oh golly! Kevin honey! Good to see you again, son.”
+  - “GOD DAMN IT, WHERE THE FUCK DID YOU PUT MR.”
+  - “Oh course I do you fucking asshole! Dusty the dirtball! Why does everything have to suck so bad in summer.”
+  - “Shit! Where did everybody go? Oh golly! Kevin honey! Good to see you again, son.”
   - “Huh? First graders! Awww weak! Weak! Aww you sons of bitches! Where the is our fireworks.”
-  - “Our 4th of July celebration is going to have no fireworks and a bunch of tonedeaf little sh*ts playing.”
+  - “Our 4th of July celebration is going to have no fireworks and a bunch of tonedeaf little shits playing.”
   - “The school year's over, but summer vacation doesn't start for you little bastards, until Mr.”
   - “Your parents are dead? God damn you suck Pip.”
   - “I don't know, but it's likeit sucks ass.”
@@ -584,6 +605,7 @@ Watch for:
 ## S2 E9 — 9. Chef's Chocolate Salty Balls
 URL: https://watchwiththekids.com/ep/south-park/0209.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Hollywood pooh-bahs in town for a film festival try to sign Mr. Hankey to a movie deal after their upscale cuisine disrupts the sewage system and nearly destroys him. Meanwhile, locals are up in arms over the movie-industry event.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And is a sexual exploration piece about 2 women in love.”
@@ -591,10 +613,10 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “It's a work of blood, sweat, and tears.”
 - Swearing — 10 moment(s)
-  - “Cartman's ass is so f***ing fat that sometimes it takes up the entire projecting room.”
+  - “Cartman's ass is so fucking fat that sometimes it takes up the entire projecting room.”
   - “Once again you have no idea what you're talkin about, fatass! I'm not fat, I just haven't grown into my body yet, you skinny bitch! Eric if you call Wendy bitch one more time, I'm sending you to the principal's office.”
-  - “That's great kid, a dried up lump of sh*t.”
-  - “Hankey! You got rid of all the film people! Oh yeah, now all we have is a town covered in sh*t.”
+  - “That's great kid, a dried up lump of shit.”
+  - “Hankey! You got rid of all the film people! Oh yeah, now all we have is a town covered in shit.”
   - “Sick Kenny! Damn dude, look at all these people.”
   - “Yes! The theatre sucks though, they need to get a bigger screen.”
   - “What the hell? Mr.”
@@ -605,6 +627,7 @@ Watch for:
 ## S2 E10 — Chickenpox
 URL: https://watchwiththekids.com/ep/south-park/0210.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The town faces an outbreak of chicken pox.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I don't think it's very healthy to sleep with rats.”
@@ -612,12 +635,12 @@ Watch for:
   - “And so children, that's how you tell a prostitute from a policeman.”
   - “…We gave you guys herpes! - What what what!? You did this? We got you back for getting us sick! We had a prostitute use her toothbrushes and stuff.”
 - Swearing — 12 moment(s)
-  - “and his mama cries cause if it's another bit of hunger for my two feet in the ghetto in the ghetto - Cartman! - What? Kenny! Your little friends are here! Come play with them! But mom, I'm f***ing sick!”
-  - “Oh geezes, are you f***ing killing me? Hey! We don't say f*** at the table you little a**hole! Yeah, we apparently don't say sidedishes either.”
+  - “and his mama cries cause if it's another bit of hunger for my two feet in the ghetto in the ghetto - Cartman! - What? Kenny! Your little friends are here! Come play with them! But mom, I'm fucking sick!”
+  - “Oh geezes, are you fucking killing me? Hey! We don't say fuck at the table you little asshole! Yeah, we apparently don't say sidedishes either.”
   - “Well I've got the remote bitch! - Say Terrance would you check my ass for abnormalities? - Sure thing Phillip.”
-  - “Yeah well unfortunately my husband is a washed up hunk of sh*t! - Oh, I'm sorry to hear that.”
+  - “Yeah well unfortunately my husband is a washed up hunk of shit! - Oh, I'm sorry to hear that.”
   - “That son of a bitch! What kind of sick weirdo is he!? Now Stanley, I know at your age teachers can seem cold and heartless, but later you'll understand that he did this for your own good.”
-  - “Why? - Because they're a bunch of a**holes.”
+  - “Why? - Because they're a bunch of assholes.”
   - “And since we have been faithful to you, we know that you will send us some good fortune one of these days, even though you sure as hell seem to be taking your sweet time.”
   - “Man your family sucks ass Kenny.”
   - “Cartman, what the hell is that? - It's my Urkel sleeping bag.”
@@ -632,11 +655,12 @@ Watch for:
 ## S2 E11 — Roger Ebert Should Lay Off the Fatty Foods
 URL: https://watchwiththekids.com/ep/south-park/0211.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan, Kyle and Kenny gravitate toward a new planetarium; and Cartman auditions to be the star of "Les Miserables."
 Watch for:
 - Swearing — 9 moment(s)
-  - “Kenny, can you give us another example? When I get blowjobs that I cum through discharging that's the way to f***.”
-  - “No! Don't go back! No! - Hey be careful a**hole! - Please don't take me back there! - Can'tcan't - Alright dude, mellow out, geez.”
-  - “in the balls a**hole ah damn it! - Uh, how's he doing nurse? - He's stable.”
+  - “Kenny, can you give us another example? When I get blowjobs that I cum through discharging that's the way to fuck.”
+  - “No! Don't go back! No! - Hey be careful asshole! - Please don't take me back there! - Can'tcan't - Alright dude, mellow out, geez.”
+  - “in the balls asshole ah damn it! - Uh, how's he doing nurse? - He's stable.”
   - “Planetarium sucks.”
   - “Ahh dude! Who the hell are you? - My name is - Van Gather - Van Gather? What the hell you doing on our bus? Mr.”
   - “Shut your god damn mouth or else I'm gonnakick you.”
@@ -649,13 +673,14 @@ Watch for:
 ## S2 E12 — Clubhouses
 URL: https://watchwiththekids.com/ep/south-park/0212.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys each build a clubhouse---and Stan is eager to have Wendy over for a game of "truth or dare." However, his parents' separation interferes with his plans.
 Watch for:
 - Swearing — 12 moment(s)
-  - “That's not it you idiot! - Hey back off c**t! - You just said the C-word! - Did I? This is a sweet spot for a clubhouse.”
-  - “Well why the f*** do I have to do all the work while you stand around? Because Kenny, your family's poor, you have to be the worker.”
-  - “School in summertime? Yeah bitch! School in summer time! Open your f***ing ass [racial slur] hole or I'll pop your bitch ass! - I'll a poppa yo a bitcha assa tuba.”
+  - “That's not it you idiot! - Hey back off cunt! - You just said the C-word! - Did I? This is a sweet spot for a clubhouse.”
+  - “Well why the fuck do I have to do all the work while you stand around? Because Kenny, your family's poor, you have to be the worker.”
+  - “School in summertime? Yeah bitch! School in summer time! Open your fucking ass nigga hole or I'll pop your bitch ass! - I'll a poppa yo a bitcha assa tuba.”
   - “I loose weight when I feel like it bitch! - Shut your bitch ass mouth hoe! - Bitch I'll kick yo ass! - Whoa dude! - Sweet! You think you slick you punk ass blassemous dopefeed bitch.”
-  - “I busta copin yo [racial slur] ass sh*t.”
+  - “I busta copin yo nigga ass shit.”
   - “You're such a little suckup! And stop your bitchin! - What are you doing hon? - Trying to get a cookie.”
   - “Now stop your bitchin.”
   - “Go ahead Stanley! Get your god damn cookie! - Ok.”
@@ -664,8 +689,8 @@ Watch for:
   - “What the hell is going on in this cartoon? Oh hey Kenny, did you find any chics to come to the clubhouse? Hi we ran away from home.”
   - “Holy crap! Behold, E-wak Village 2000! Oh well I guess it beats living at home.”
 - Racism & slurs — 2 moment(s)
-  - “I busta copin yo [racial slur] ass sh*t.”
-  - “School in summertime? Yeah bitch! School in summer time! Open your f***ing ass [racial slur] hole or I'll pop your bitch ass! - I'll a poppa yo a bitcha assa tuba.”
+  - “I busta copin yo nigga ass shit.”
+  - “School in summertime? Yeah bitch! School in summer time! Open your fucking ass nigga hole or I'll pop your bitch ass! - I'll a poppa yo a bitcha assa tuba.”
 - Fat-shaming — 1 moment(s)
   - “Cartman! We shot your Bosnian fat ass! - Yeah you're dead! - I have class 4 armor on, that uh uh it it - No, you don't! Special armor that's imperitable to American bulets.”
 - Slut-shaming — 1 moment(s)
@@ -674,6 +699,7 @@ Watch for:
 ## S2 E13 — Cow Days
 URL: https://watchwiththekids.com/ep/south-park/0213.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: During South Park's annual rodeo, the boys compete in a bull-riding contest. Meanwhile, the cows find religion.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Cool! Hora hora plee sojuboy! Hora sojuboy me so horny.”
@@ -686,10 +712,10 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “…Stop please! Can't we do anything??? Oh god the humanity Ned! The humanity! This is the first cow mass suicide I've seen in at least 8 months.”
 - Swearing — 11 moment(s)
-  - “Come on dude! I can do it! I'm sure! I'm gonna die without f***ing food stamps! I have nothing to eat without any food stamps! Damn it Kenny! Don't be such a food stamphog.”
-  - “…of our money on those stupid rides fatass! And either you're getting on a bull or I'm gonna break your f***ing head open!”
-  - “See you tomorrow on "Ooh what the hell is that!" sh*t.”
-  - “Lend me money fat boy! - I only have 3 dollars left a**hole! Damn it! Come on, I'll try to get more money from my mom.”
+  - “Come on dude! I can do it! I'm sure! I'm gonna die without fucking food stamps! I have nothing to eat without any food stamps! Damn it Kenny! Don't be such a food stamphog.”
+  - “…of our money on those stupid rides fatass! And either you're getting on a bull or I'm gonna break your fucking head open!”
+  - “See you tomorrow on "Ooh what the hell is that!" Shit.”
+  - “Lend me money fat boy! - I only have 3 dollars left asshole! Damn it! Come on, I'll try to get more money from my mom.”
   - “You son of a bitch!!! Well Cartman, thanks to you we don't have any money left to win the Terrance and Phillip dolls.”
   - “You dirty son of a bitch! You never told us we had to win.”
   - “Dude, that kicks ass! - Oh god damn I gotta win those.”
@@ -705,13 +731,14 @@ Watch for:
 ## S2 E14 — Chef Aid
 URL: https://watchwiththekids.com/ep/south-park/0214.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Chef invites some of his well-known musician friends to participate in a benefit concert after he loses all of his money in a lawsuit. Meanwhile, the boys join the workforce to help him get out of debt.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “How would you like to use some sex toys Sex toys Like what Like this very special device.”
   - “" How does it work All you do is put this paper bag over your head, and it increases your sexual pleasure.”
 - Swearing — 8 moment(s)
   - “If he was here in front of me, I'd be like, "Ay! You stupid son of a bitch, you d-.”
-  - “Some slick trousers and sh*t.”
+  - “Some slick trousers and shit.”
   - “Hat! I hope you starve, you lousy son of a bitch! What are you all looking at This is just between me and Mr.”
   - “Stinky britches, you've got stinky britches Stinky stinky britches, you've got stinky- What the hell are you singin', Cartman This new song by Alanis Morissette.”
   - “We're going to bring these bastards down! Right.”
@@ -728,6 +755,7 @@ Watch for:
 ## S2 E15 — Spooky Fish
 URL: https://watchwiththekids.com/ep/south-park/0215.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan fears his pet fish may be involved with a rash of unsolved murders that occur on Halloween. Meanwhile, Cartman starts killing people---with kindness, even going so far as to appreciate Wendy's liberal views.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “C'mon Shelly let's hook up your home theater.”
@@ -740,8 +768,8 @@ Watch for:
   - “This gingerfication gun will send you back to our universe.”
   - “Oh, what now? - It's the evil pets! - The Gingerfication gun.”
 - Swearing — 8 moment(s)
-  - “Mom, I know you think I did all this but I'm gonna prove to you that it was this f***ing fish.”
-  - “Why don't you two go f*** yourselves? - Hey, what's wrong with you Cartman? - What's wrong with me? Let's see, um I hate you guys, you're hella-stupid”
+  - “Mom, I know you think I did all this but I'm gonna prove to you that it was this fucking fish.”
+  - “Why don't you two go fuck yourselves? - Hey, what's wrong with you Cartman? - What's wrong with me? Let's see, um I hate you guys, you're hella-stupid”
   - “Every time she shows up my mom turns into a total bitch.”
   - “Why the hell not? Because you're standing over there! - Ah, son of a bitch! - Well you don't see this every day.”
   - “What the hell are you talkin' about Cartman? Stop screwin' around dude.”
@@ -760,6 +788,7 @@ Watch for:
 ## S2 E16 — Merry Christmas Charlie Manson!
 URL: https://watchwiththekids.com/ep/south-park/0216.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys go to Cartman's grandmother's house for a holiday feast that's also attended by Cartman's uncle (an escaped con) and the police.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “Mass murderer and extremely nasty person, Charles Manson has escaped from prison.”
@@ -769,8 +798,8 @@ Watch for:
   - “Don't point a gun at your own mother.”
   - “There's gonna be a lot of bloodshed and a lot of innocent people are gonna die.”
 - Swearing — 12 moment(s)
-  - “Are you telling me I drove nine hours through butt f***ing nowhere to get a goddamn shirt!? Mom grandma's gone senile.”
-  - “If you see Manson please kick his ass and smash his f***in' face in for me and then call the police.”
+  - “Are you telling me I drove nine hours through butt fucking nowhere to get a goddamn shirt!? Mom grandma's gone senile.”
+  - “If you see Manson please kick his ass and smash his fuckin' face in for me and then call the police.”
   - “Well you know what you are; you're a little bitch.”
   - “That's right you're a bitch and I bet you would like to suck it, wouldn't ya? Wake up Cartman, we gotta get to the mall.”
   - “You poor piece of crap.”
@@ -785,16 +814,17 @@ Watch for:
 ## S2 E17 — Gnomes (a.k.a. Underpants Gnomes)
 URL: https://watchwiththekids.com/ep/south-park/0217.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys work on a project with a high-strung kid whose parents' coffee shop faces strong competition from a conglomerate that hopes to set up in South Park.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Soon they'll want my blood.”
   - “Blood! And as the voluminous corporate automaton bulldozes it's way through bantam America, What will become of the endeavoring American family? I don't think they wrote this, Mr.”
 - Swearing — 12 moment(s)
-  - “They're perfectly happy being poor and on welfare, right Kenny? - f*** you.”
+  - “They're perfectly happy being poor and on welfare, right Kenny? - Fuck you.”
   - “Hat is gonna smack you bitches up! - Hello there customer.”
   - “Ya well I don't wanna sound like a dick hole, but I told you so.”
   - “I don't want to sound like a dick hole but I Mayor, these boys want that Harbucks Coffee shut down right now.”
-  - “Holy sh*t, we killed your friend.”
+  - “Holy shit, we killed your friend.”
   - “Wow that sucks dude.”
   - “Why do they torture me like this?! Why can't they leave me alone?! - Dammit, what the hell is wrong with you Tweek? - They took my underpants again.”
   - “Tweek, this committee is not going to let you run out of business by these bastards.”
@@ -810,6 +840,7 @@ Watch for:
 ## S2 E18 — Prehistoric Ice Man
 URL: https://watchwiththekids.com/ep/south-park/0218.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys unearth a prehistoric man frozen in ice, but the discovery jeopardizes Stan and Kyle's friendship when they argue over what to name him.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -818,7 +849,7 @@ Watch for:
   - “What color blood came out? B-L-O-O uh O spells blue and that means that you will go to the lab and help out Mephesto, and then we could all go home and watch Murphy Brown.”
   - “My mother punched your mother in the nose.”
 - Swearing — 12 moment(s)
-  - “Cartman, you f***in hunk of fat rat f***in hunk of pig f***in ass fat! Oh yeah! Oh yeah! Say that to my face, pussy! - Can you climb back up, dude? - I don't think so.”
+  - “Cartman, you fuckin hunk of fat rat fuckin hunk of pig fuckin ass fat! Oh yeah! Oh yeah! Say that to my face, pussy! - Can you climb back up, dude? - I don't think so.”
   - “No it isn't! - Why you being such a dick? I'm not being a dick, you're being a dick! Hello children.”
   - “Holy crap, dude! - If I get bit out here, I'm 200 km from the nearest hospital.”
   - “Oh boy he's pissed of now! - Go dude go! I'm gonna jam my thumb in his butthole now.”
@@ -834,15 +865,16 @@ Watch for:
 ## S3 E1 — 1. Rainforest Schmainforest
 URL: https://watchwiththekids.com/ep/south-park/0301.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys accompany a teacher and her singing-and-dancing group to Central America to raise awareness of the rain forest. Also: Kenny falls for a choir member; and Kyle has trouble mastering the choreography.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We're ready to head to the Latin American nation of Costa Rica, a country filled with virgin rainforests.”
 - Porn / strippers / sex work — 1 moment(s)
-  - “You f***in a**hole! Your family isn't poor? Whoa dude, look over there! Wow, Costa Rican prostitutes! Hey, look at the prostitutes you guys! - What are you looking at, man? - Yeah, why don't you take a picture? Okay.”
+  - “You fuckin asshole! Your family isn't poor? Whoa dude, look over there! Wow, Costa Rican prostitutes! Hey, look at the prostitutes you guys! - What are you looking at, man? - Yeah, why don't you take a picture? Okay.”
 - Swearing — 12 moment(s)
-  - “This is f***in stupid! Kenny McCormick, you speak when you're spoken to! Go ahead.”
-  - “You f***in a**hole! Your family isn't poor? Whoa dude, look over there! Wow, Costa Rican prostitutes! Hey, look at the prostitutes you guys! - What are you looking at, man? - Yeah, why don't you take a picture? Okay.”
-  - “I told you Jewish people don't have rhythm! - f*** off, Cartman! No, dude, I think Cartman might actually be right! - No, that's a stereotype.”
+  - “This is fuckin stupid! Kenny McCormick, you speak when you're spoken to! Go ahead.”
+  - “You fuckin asshole! Your family isn't poor? Whoa dude, look over there! Wow, Costa Rican prostitutes! Hey, look at the prostitutes you guys! - What are you looking at, man? - Yeah, why don't you take a picture? Okay.”
+  - “I told you Jewish people don't have rhythm! - Fuck off, Cartman! No, dude, I think Cartman might actually be right! - No, that's a stereotype.”
   - “Well why the hell don't they get jobs? Hey why don't you people quit slacking off and get a job? What's wrong with you? Go to college.”
   - “…but let me I don't think it's funny! This place is overcrowded, smelly, and poor! That's not funny, that sucks!”
   - “Oh! It's everything I've ever dreamed it would be! God damn, it's hot out here! Ah! Snake! No, dude, that's a branch.”
@@ -856,10 +888,11 @@ Watch for:
 ## S3 E2 — 2. Spontaneous Combustion
 URL: https://watchwiththekids.com/ep/south-park/0302.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Residents start to spontaneously combust, prompting Stan's geologist father to investigate.
 Watch for:
 - Swearing — 12 moment(s)
-  - “Really? Yeah! So hurry up and die you piece of crap! When I get my super powers, I'm gonna use them to smote you two a**holes right off the planet! Super powers is sweet.”
-  - “Marsh earlier today and he had this to say: I don't know what to say What an a**hole! I hate that guy and so do you! And now on to the weather.”
+  - “Really? Yeah! So hurry up and die you piece of crap! When I get my super powers, I'm gonna use them to smote you two assholes right off the planet! Super powers is sweet.”
+  - “Marsh earlier today and he had this to say: I don't know what to say What an asshole! I hate that guy and so do you! And now on to the weather.”
   - “Dammit! What the hell is wrong with everybody? That's the fifth store we've been kicked out of! Why is it so hard to get an erection? I just want an erection so I can give it to my mom.”
   - “If you - Oh my God! They killed Kenny! - You bastards!”
   - “Well, this sucks that I have to die, but if I die, everyone's sins will be forgiven, so I guess it's cool.”
@@ -876,6 +909,7 @@ Watch for:
 ## S3 E3 — 3. The Succubus (a.k.a. Chef's Mama)
 URL: https://watchwiththekids.com/ep/south-park/0303.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Chef gets a visit from his mother when the boys feel his bride-to-be has taken their place in his heart.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “and how men have been oppressing women for years and viewing them as sexual objects, and I realized that I had done that myself.”
@@ -885,8 +919,8 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Ahh! It's a Succubus! - We know what you are, lady! - Yeah! You're a blood-thirsty Succubus! - A what? - A demon from Hell sent to suck the life out of men.”
 - Swearing — 11 moment(s)
-  - “Whoa, what happened to your eyes, Cartman? - My a**hole eye doctor made them all dial-vated.”
-  - “Why? Why?! I'll tell you why! Because he's a goddam a**hole, and that's about it.”
+  - “Whoa, what happened to your eyes, Cartman? - My asshole eye doctor made them all dial-vated.”
+  - “Why? Why?! I'll tell you why! Because he's a goddam asshole, and that's about it.”
   - “This is insane! - That bitch! - She's stealing Chef from us! He didn't even seem like Chef.”
   - “We just have to get him alone so we can tell him what a bitch she is.”
   - “And a real huge dick.”
@@ -902,16 +936,17 @@ Watch for:
 ## S3 E4 — 4. Jakovasaurs
 URL: https://watchwiththekids.com/ep/south-park/0304.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys discover two nearly extinct animals while camping on the banks of Stark's Pond.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “…quick! Hit him again while he's down! Good! Now, kick his balls! There! See?! You got him coughing up blood!”
   - “…anything?! Okay! The time has finally come! Programs! Get your programs here! Programs! Remember, Tweek! Punch hard, punch low!”
 - Swearing — 8 moment(s)
-  - “…move on! Baby, I feel so much better! I feel so alive! Thank you, Baby! Thank you! Dude! this is pretty f***ed up right here!”
+  - “…move on! Baby, I feel so much better! I feel so alive! Thank you, Baby! Thank you! Dude! this is pretty fucked up right here!”
   - “…and Craig both went home about fifteen minutes ago! What?! - Yeah! They left! - Hell! - Those sons of bitches!”
   - “…say about Strype?! Oh, nothing except that you stick it up your ass before you go to bed! That son of a bitch!”
   - “…diarreah comming out of someone's mouth or something! - Shut up, fatass! Don't call me fat, you son of a bitch!”
-  - “…Alright! Here we go! Time for you to get proven wrong, fatboy! You're gonna be eating those words, a**hole!”
+  - “…Alright! Here we go! Time for you to get proven wrong, fatboy! You're gonna be eating those words, asshole!”
   - “Yes you did! - Told ya! Dude, shop class sucks!”
   - “Don't screw around! You all screw around too much! Goodbye, cruel world! Jesus Christ! What was I thinking?! That would've hurt like hell!”
   - “…Stop screwing around! Hey! You're screwing around too much! - Oh, my God! They killed Kenny! - You Bastards!”
@@ -919,16 +954,17 @@ Watch for:
 ## S3 E5 — 5. Tweek vs. Craig
 URL: https://watchwiththekids.com/ep/south-park/0305.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys take a shop class taught by an eccentric, and urge a schoolyard fight between classmates Tweek and Craig.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “…quick! Hit him again while he's down! Good! Now, kick his balls! There! See?! You got him coughing up blood!”
   - “…anything?! Okay! The time has finally come! Programs! Get your programs here! Programs! Remember, Tweek! Punch hard, punch low!”
 - Swearing — 8 moment(s)
-  - “…move on! Baby, I feel so much better! I feel so alive! Thank you, Baby! Thank you! Dude! this is pretty f***ed up right here!”
+  - “…move on! Baby, I feel so much better! I feel so alive! Thank you, Baby! Thank you! Dude! this is pretty fucked up right here!”
   - “…and Craig both went home about fifteen minutes ago! What?! - Yeah! They left! - Hell! - Those sons of bitches!”
   - “…say about Strype?! Oh, nothing except that you stick it up your ass before you go to bed! That son of a bitch!”
   - “…diarreah comming out of someone's mouth or something! - Shut up, fatass! Don't call me fat, you son of a bitch!”
-  - “…Alright! Here we go! Time for you to get proven wrong, fatboy! You're gonna be eating those words, a**hole!”
+  - “…Alright! Here we go! Time for you to get proven wrong, fatboy! You're gonna be eating those words, asshole!”
   - “Yes you did! - Told ya! Dude, shop class sucks!”
   - “Don't screw around! You all screw around too much! Goodbye, cruel world! Jesus Christ! What was I thinking?! That would've hurt like hell!”
   - “…Stop screwing around! Hey! You're screwing around too much! - Oh, my God! They killed Kenny! - You Bastards!”
@@ -936,6 +972,7 @@ Watch for:
 ## S3 E6 — 6. Sexual Harassment Panda
 URL: https://watchwiththekids.com/ep/south-park/0306.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Cartman sues Stan for sexual harassment.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Due to recent events around the country, I've been instructed to teach you all about sexual harrassment in school.”
@@ -953,6 +990,7 @@ Watch for:
 ## S3 E7 — 7. Cat Orgy (1)
 URL: https://watchwiththekids.com/ep/south-park/0307.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Shelly baby-sits Cartman.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “The male lion is inticed by the females subtle breasts and firm back side.”
@@ -966,6 +1004,7 @@ Watch for:
 ## S3 E8 — 8. Two Guys Naked in a Hot Tub (2) (a.k.a. Melvins)
 URL: https://watchwiththekids.com/ep/south-park/0308.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
+Summary: A meteor shower hits town, and Stan's sister Shelly babysits Cartman while Mrs. Cartman goes to a "meteor party."
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “…your wife would love that! I wish! That's the one thing I've always thought of experimenting with! A threesome!”
@@ -983,12 +1022,13 @@ Watch for:
 ## S3 E9 — 9. Jewbilee (3)
 URL: https://watchwiththekids.com/ep/south-park/0309.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle and Ike go on a camping trip while South Park residents wait for a meteor shower to begin.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “…how we'll be making tonight's craft! And so you see, Scouts, all you need is a bar of soap and a dull knife!”
 - Swearing — 7 moment(s)
-  - “That's f***in' stupid! - It is not stupid, Kenny! This is my faith and you shouldn't make fun of it! Alright, Jew Scouts! The meteor shower will start soon! Let's pray to Moses for guidance.”
-  - “…God! Oh, the bear took a squirt! Oh, I'm gonna get it now! What's happening! - Shut up, Kenny! WHAT THE f*** IS THAT?!”
+  - “That's fuckin' stupid! - It is not stupid, Kenny! This is my faith and you shouldn't make fun of it! Alright, Jew Scouts! The meteor shower will start soon! Let's pray to Moses for guidance.”
+  - “…God! Oh, the bear took a squirt! Oh, I'm gonna get it now! What's happening! - Shut up, Kenny! WHAT THE FUCK IS THAT?!”
   - “…of a new kingdom! You can't wake Haymen! What would Moses say?! Moses is trapped for all eternity in the cock of blind faith!”
   - “Where the hell are the Squirts! We need those macaroni pictures for moses right now! Now, we'll just see how Mr.”
   - “What the hell are we gonna do!”
@@ -998,6 +1038,7 @@ Watch for:
 ## S3 E10 — Korn's Groovy Pirate Ghost Mystery
 URL: https://watchwiththekids.com/ep/south-park/0310.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: On Halloween, the boys are plagued by fifth graders and the town is overrun by pirate ghosts. Music group Korn assists, and sings "Falling Away from Me."
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “somebody wanted to have sex with her dead body.”
@@ -1007,7 +1048,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Somebody's probably making love to her corpse as we speak.”
 - Swearing — 4 moment(s)
-  - “…we'll bust out dead Grandma! Let's go! Wait till you guys see my costume! It's gonan be sweet! Mine is so f***in' badass it's gotta win now!”
+  - “…we'll bust out dead Grandma! Let's go! Wait till you guys see my costume! It's gonan be sweet! Mine is so fuckin' badass it's gotta win now!”
   - “The gang and I wrote a song about it, and it goes goes a little somethin' like this: And a-one, and-a-two, and a Sweet! Antonio, no! You son of a bitch chicken from outer space thing, come back here!”
   - “Yeah, fatass, it has to be real to be scary! So where the hell are we going to get a dead body? We're gonna dig up Kyle's dead grandma.”
   - “Noo! Don't go to the docks! I'm Captain Bly! You land-lubbers had better stay away from the docks! Or else, there'll be hell to pay!”
@@ -1019,10 +1060,11 @@ Watch for:
 ## S3 E11 — Chinpokomon
 URL: https://watchwiththekids.com/ep/south-park/0311.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Adults try to counter when the town's children become obsessed with a fad from Japan, whose government reveals their master plan behind the craze.
 Watch for:
 - Swearing — 5 moment(s)
-  - “…contestant is Mark Coxwalds from homeschool! Alright, Mark! Your word is "Conscientious"! What?! What the f*** does that mean?”
-  - “…dance! I can ask Rebecca to go to the dance! Dude, what happened to you! You're a total wus now! Yeah! A f***in' wussy!”
+  - “…contestant is Mark Coxwalds from homeschool! Alright, Mark! Your word is "Conscientious"! What?! What the fuck does that mean?”
+  - “…dance! I can ask Rebecca to go to the dance! Dude, what happened to you! You're a total wus now! Yeah! A fuckin' wussy!”
   - “…bastard! You cost me fifty bucks! Why don't you run away and join the circus, you stupid little son of a bitch!?”
   - “…this to my sister! Uh, all I did was show her how to You made my sister into a slut! I'll kill you! You bitch!”
   - “…bee! I never do! This year's gonna be different! Look! I got you Hooked on Monkey Fonics! What the hell is Hooked on Monkey Fonics?!”
@@ -1032,18 +1074,20 @@ Watch for:
 ## S3 E12 — Hooked on Monkey Fonics
 URL: https://watchwiththekids.com/ep/south-park/0312.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle tries to teach his new rival about love; the boys compete against home-schooled kids in the annual spelling bee; and Cartman's mom agrees to teach him at home.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “…of Australia, I welcome you to our fine planet of Australia! Chipie chip! Charah! Look out! He's got a gun!”
 - Swearing — 4 moment(s)
-  - “So we're gonna need an Ionic Tractor Disruptor! Now, now, not a regular Ionic Tractor Disruptor, but a Negative Ionic Tractor Disruptor to help spread the word of Jesus! I will get the f***in' idiot up here!”
-  - “…you to send us money so we can help others! Oh, my God! This guy again! - Why would anybody send this a**hole money?!”
+  - “So we're gonna need an Ionic Tractor Disruptor! Now, now, not a regular Ionic Tractor Disruptor, but a Negative Ionic Tractor Disruptor to help spread the word of Jesus! I will get the fuckin' idiot up here!”
+  - “…you to send us money so we can help others! Oh, my God! This guy again! - Why would anybody send this asshole money?!”
   - “…What?! Eh, oh! I had some bad bleeters today! Alright, boys! Time to get back to your quarters! Son of a bitch!”
   - “…it looks like he's tried everywhere in the world! Well, he hasn't been here yet! Where's this?! What the hell did you hit, Cartman?!”
 
 ## S3 E13 — Starvin' Marvin in Space!
 URL: https://watchwiththekids.com/ep/south-park/0313.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Starvin Marvin returns in a stolen U.S. spaceship, and enlists the boys to help feed his Ethiopian village. The CIA is among their pursuers.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1059,15 +1103,17 @@ Watch for:
 ## S3 E14 — The Red Badge of Gayness (a.k.a. War)
 URL: https://watchwiththekids.com/ep/south-park/0314.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The town holds its annual reenactment of a Civil War battle, and Cartman suits up for the Confederacy with visions of glory.
 Watch for:
 - Violence & injury — 1 moment(s)
   - …in 1862! The Union army had to get the bell on Aplomaticstown from Temrock Hill! What ensued was a bloody battle, but after many hours, the Union army prevailed!
 - Swearing — 1 moment(s)
-  - …can't just hit a drum! You have to beat the sh*t out of it! Shut your pot hole! I'll take you out, you f***in' drum!
+  - …can't just hit a drum! You have to beat the shit out of it! Shut your pot hole! I'll take you out, you fuckin' drum!
 
 ## S3 E15 — Mr. Hankey's Christmas Classics
 URL: https://watchwiththekids.com/ep/south-park/0315.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Mr. Hankey and South Park citizens celebrate the holidays with musical numbers from his Christmas Classics Album.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…day! And what Shut up, turds! was in those ships all three, on Christmas day in the morning! The virgin Mary and Christ were there, on Christmas day, on Christmas day!”
@@ -1075,14 +1121,15 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Kennedy caroling with his son! Reunited for the holidays! God bless us everyone! Everybody has a happy glow! Let's dance in blood and pretend it's snow!”
 - Swearing — 4 moment(s)
-  - “Muslim, Merry f***in' Christmas!”
-  - “Hinduist, Merry f***in' Christmas! Drink egg nog and eat some beef and pass it to the Mrs.”
-  - “…not a Christmas song! But I I know, but there's like three hundred Jesus Christmas songs and only four f***ing Santa ones!”
+  - “Muslim, Merry Fuckin' Christmas!”
+  - “Hinduist, Merry Fuckin' Christmas! Drink egg nog and eat some beef and pass it to the Mrs.”
+  - “…not a Christmas song! But I I know, but there's like three hundred Jesus Christmas songs and only four fucking Santa ones!”
   - “…is well! It's Christmas time in hell! Gather close together and make it quick! We gotta make room for Andy Dick!”
 
 ## S3 E16 — Are You There God, It's Me Jesus
 URL: https://watchwiththekids.com/ep/south-park/0316.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: "Are You There, God? It's Me, Jesus" purports to "answer age-old questions about who we are and what we're all about."
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “ROD "DO YA THINK I'M SEXY" STEWART! Uh, pooped 'em.”
@@ -1092,15 +1139,16 @@ Watch for:
   - “…that for a minute! - Is that good?! - I don't know! Dude! Did you get your period yet?! - No! There's no blood coming out of my ass!”
   - “…Year's Eve! But first, you need to buy some maxipads to stuff in the back of your pants so you don't get blood on your underwear!”
 - Swearing — 5 moment(s)
-  - “…cooler than Clyde! Yeah! I agree! I think that Craig is cooler than Clyde, and Clyde is a dirty dumb f***!”
-  - “…you! Uh Please! It's important! Well, it's when pubrity hits and you bleed you know down there! - Holy sh*t, dude!”
-  - “What that means to me is Hey, a**holes!”
+  - “…cooler than Clyde! Yeah! I agree! I think that Craig is cooler than Clyde, and Clyde is a dirty dumb fuck!”
+  - “…you! Uh Please! It's important! Well, it's when pubrity hits and you bleed you know down there! - Holy shit, dude!”
+  - “What that means to me is Hey, assholes!”
   - “I believe that the goddess in me is more spirituality because Quiet, Kenny! The goddess lives in all of us and has Goddammit, Kenny! Shut the hell up! Whoa, dude! - Mr.”
   - “This sucks balls!”
 
 ## S3 E17 — Worldwide Recorder Concert (a.k.a. The Brown Noise)
 URL: https://watchwiththekids.com/ep/south-park/0317.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys and their class travel to the first "Worldwide Recorder Concert" in Arkansas, where Mr. Garrison confronts the demons of his childhood while visiting his parents.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Garrison's mental state! I worried that if you don't do something, well, it could kill 'im! Hold on a second! Are you actually suggesting that I have sex with my 41-year-old son?”
@@ -1110,8 +1158,8 @@ Watch for:
   - “Mackey! I'm your school councilor! M'kay? What can I do for you? I wanna talk to you about your son! I'm his, uh, therapist! M'kay? Oh, brother! Look! I didn't sexually abuse my son when he was younger!”
 - Swearing — 7 moment(s)
   - “…YOU SAY?! YOU HEARD ME, JACKASS! THERE'S MONKEYS THAT MAKE BETTER COUNCILORS THAN YOU! WHY, YOU SON OF A BITCH!”
-  - “…Chicago Hope for another season? Totally! No! That we could use the Brown Noise to get back at those a**hole New Yorker Kids!”
-  - “…we just want you to know that we think you're pretty cool! - You do?! - Sure! I mean, Everybody on earth sh*t themselves cause of you, and that's pretty cool!”
+  - “…Chicago Hope for another season? Totally! No! That we could use the Brown Noise to get back at those asshole New Yorker Kids!”
+  - “…we just want you to know that we think you're pretty cool! - You do?! - Sure! I mean, Everybody on earth shit themselves cause of you, and that's pretty cool!”
   - “…best! Okay? Recorders up! And a one, and a two, and a "of Liberty,"! You're late! "my fathers" What the hell was that?”
   - “Garrison, I think when we get to Arkansas, you need to see your father! You need to face this demon in your closet, m'kay! Don't look at me! I'll go on your bastard trip and just don't look at me!”
   - “…Lookit this kid's coat! Hey, kid, what'sa matter?! You a freakin' burn victim or something?! What? Who the hell are these guys?!”
@@ -1122,6 +1170,7 @@ Watch for:
 ## S4 E1 — 1. The Tooth Fairy's TATS 2000
 URL: https://watchwiththekids.com/ep/south-park/0401.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman impersonates the Tooth Fairy when he learns there's money to be made from harvesting the teeth of underprivileged kids. However, the leader of a dentists' organization sets out to stop him.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1129,7 +1178,7 @@ Watch for:
   - “Work for you, or have my? Cartman! How much do we get if we work for you? I'll cut you in at 2% penis cut off?”
   - “Clinton replied, "i don't even like vagina.”
 - Swearing — 8 moment(s)
-  - “…ping-A-Ling! Wa-Aaa! Higher, you guys! Christ, why did we pick the fat guy to lift up? Ow! Careful, you a**holes!”
+  - “…ping-A-Ling! Wa-Aaa! Higher, you guys! Christ, why did we pick the fat guy to lift up? Ow! Careful, you assholes!”
   - “…a question, weasel? Well, why, sure, sure! Do you think i'm an idiot? These are cat teeth, you son-Of-A-Bitch!”
   - “Oh man, this is so tits! You guys, you're not gonna believe this! Oh my god, you guys! Just wait 'til you hear this, you guys! I'm rich! I'm totally rich! Aren't you stoked? What the hell's wrong with cartman?”
   - “Oh my, the tooth fairy will have to give you A big surprise for losing two teeth in two days! I know, huh? You guys! Oh my god, you guys You're not gonna believe it! It's beyond rational thought! Holy crap, you guys!”
@@ -1144,14 +1193,15 @@ Watch for:
 ## S4 E2 — 2. Cartman's Silly Hate Crime 2000
 URL: https://watchwiththekids.com/ep/south-park/0402.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman is sentenced to juvenile hall and his friends plan to get him out. Meanwhile, he begins to adjust to life on the inside.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “If a man beats another man because that man was sleeping with his wife, is that not a hate crime?”
   - “What the hell is a hate crime? Uh, but I don't think this is a ruh- New laws have been passed that make any crime based on race, ethnicity, or sexual orientation a federal offense.”
 - Swearing — 12 moment(s)
-  - “Uh-uh-uh, where'd he go? Kenny! Kenny, you have to get me out of town! (What the f*** for?!) They're gonna put me in jail for a hate crime!”
-  - “So I don't get to be on the team now? Shut up, fatass! Yeah, why don't you go eat some more pork rinds or something, you fat f***?! Come on, let's get it a try.”
-  - “…against a race! Do the democratic thing and send his fat little butt to prison! Ey! Don't call me fat, a**hole!”
+  - “Uh-uh-uh, where'd he go? Kenny! Kenny, you have to get me out of town! (What the fuck for?!) They're gonna put me in jail for a hate crime!”
+  - “So I don't get to be on the team now? Shut up, fatass! Yeah, why don't you go eat some more pork rinds or something, you fat fuck?! Come on, let's get it a try.”
+  - “…against a race! Do the democratic thing and send his fat little butt to prison! Ey! Don't call me fat, asshole!”
   - “Jeezus, he's gonna ram it! Crazy son of a bitch.”
   - “We're gonna make it, Kenny! We're gonna make it to Mexico! Oh, God damnit! Hello? Just a friendly reminder: Cartman's going to jail and you've got four days until the race, rump rangers! Son of a bitch!”
   - “…make damn sure they're the same color as you are! Court is adjourned! Bailiffs, escort this little bastard to Juvenile Hall.”
@@ -1173,6 +1223,7 @@ Watch for:
 ## S4 E3 — 3. Timmy! 2000
 URL: https://watchwiththekids.com/ep/south-park/0403.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Mr. Mackey excuses Timmy from homework when he mistakenly thinks the boy is suffering from Attention Deficit Disorder; then Cartman and his friends try to develop the same affliction.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “All right, children, today we're going to learn about Human reproduction! What do you think about that? Vaginas and penises Butt sex.”
@@ -1192,14 +1243,15 @@ Watch for:
 ## S4 E4 — 4. Quintuplets 2000
 URL: https://watchwiththekids.com/ep/south-park/0404.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The South Park media showers attention on a family with quintuplets that moves into the area, and Cartman befriends one of the new residents. Meanwhile, Kenny's mom tries to cash in on the excitement by planning a multiple birth of her own.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Let the quints stay! Romania is gay! Let the quints stay! Romania is gay! Fur is murder, fur is murder! Oh, what are we protesting here? Romania sucks.”
   - “Dahhh! Gun, gun! Down, down! Riot, riot! Pepper spray, pepper spray! Dammit, now i'm never gonna have my own circus.”
 - Swearing — 11 moment(s)
   - “No way, the bitches from cirque du che-Blah! Yeah, they're quintuplets from romania.”
-  - “Yes, luckily for them, these quintuplets no longer Have to live in romania, the a**hole of the world.”
-  - “…quints! Hand over the children- Happy easter- Hand over the children! What the hell's goin' on? Freeze, a**hole.”
+  - “Yes, luckily for them, these quintuplets no longer Have to live in romania, the asshole of the world.”
+  - “…quints! Hand over the children- Happy easter- Hand over the children! What the hell's goin' on? Freeze, asshole.”
   - “Yeah, you guys are dicks.”
   - “Ahh! Why the hell do you wanna take these boys To see that "fufu" french theater crap?! You're gonna turn them into "poofters".”
   - “Woo hoo! What, what- Another gay guy in feathers? Wow! Damn, dude! Oh, yay! Oh, that was wonderful.”
@@ -1214,6 +1266,7 @@ Watch for:
 ## S4 E5 — 5. Cartman Joins NAMBLA
 URL: https://watchwiththekids.com/ep/south-park/0405.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
+Summary: Cartman seeks online companionship from older users after deciding that Stan, Kenny and Kyle aren't mature enough.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “You mean you expect me to go out there and let all those horny old men Have their way with my fragile person? Just what team is this anyway? Just go, butters, we're running out of time.”
@@ -1229,6 +1282,7 @@ Watch for:
 ## S4 E6 — 6. Cherokee Hair Tampons
 URL: https://watchwiththekids.com/ep/south-park/0406.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle suffers from a rare kidney disease and Cartman may be the only one who can save him, but at a high price.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Garrison, last week's charges of attempting to solicit sex from a minor That was not me, that was mr.”
@@ -1246,8 +1300,8 @@ Watch for:
   - “Looks like if we cut here and here- I hope it's not too bloody, i'm wearing my favorite pants.”
   - “Flopping all around and slapping her face.”
 - Swearing — 5 moment(s)
-  - “Ah! Oh! Ah! That son of a bitch! Okay, a**hole, give me back my kidney.”
-  - “My a**hole friend stan took my kidney and i need it put back in.”
+  - “Ah! Oh! Ah! That son of a bitch! Okay, asshole, give me back my kidney.”
+  - “My asshole friend stan took my kidney and i need it put back in.”
   - “Ha ha! Ha ha! Ha ha! Oh, oh, ow! Dude, what the hell is that? Dude, you know when you're laughing so hard that milk comes out your nose.”
   - “Oh, my god! How much? I don't know, how much is your life worth to you, kyle? Cartman, you are so going to hell when you die! Yes, but until then i need about $10,000,000.”
   - “Isn't that funny, sweetie? Ooh, i am so pissed off! Oh, here's everybody.”
@@ -1258,6 +1312,7 @@ Watch for:
 ## S4 E7 — 7. Chef Goes Nanners
 URL: https://watchwiththekids.com/ep/south-park/0407.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Chef protests against the South Park flag and ignites a town debate that even divides the kids. Meanwhile, Wendy becomes attracted to Cartman.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Alright, look, When two people work closely for a long time, Sometimes they feel what's called "sexual tension".”
@@ -1277,6 +1332,7 @@ Watch for:
 ## S4 E8 — 8. Something You Can Do with Your Finger (a.k.a. Fingerbang)
 URL: https://watchwiththekids.com/ep/south-park/0408.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan, Kyle, Kenny and Cartman form their own band and hold tryouts for a fifth member.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Huh? Attention, shoppers, There are naked people at the orange smoothie machine, There are naked people at the orange- Oh! God damn it.”
@@ -1286,7 +1342,7 @@ Watch for:
   - “Keeping the law in the mall is just like any tough city And especially because they don't let us have guns, It can be very dangerous.”
   - “? Itsy-Bitsy spider up the water spout? Next! ? Oh danny boy the pipes are calling? ? Clang clang? Next audition! ? E-F-G-H-I-J-K-L-M-N-? Goddamn it, next! ? G-U-B, when the teacher wanna punch me?”
 - Swearing — 12 moment(s)
-  - “There's nothingfaggyabout $10,000,000, a**hole! This was a message from god! Dude, we don't have any musical talent.”
+  - “There's nothingfaggyabout $10,000,000, asshole! This was a message from god! Dude, we don't have any musical talent.”
   - “Harris was her boyfriend and he had a great big? ?Cock-A-Doodle-Doodle the rooster just won't quit?”
   - “Ah! Timmy, livin' a lie! Son of a bitch! Hey, this video's dumb.”
   - “Damn it! Okay, okay, okay.”
@@ -1304,6 +1360,7 @@ Watch for:
 ## S4 E9 — 9. Do the Handicapped Go to Hell? (1)
 URL: https://watchwiththekids.com/ep/south-park/0409.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The boys, scared by Priest Maxi's threats of eternal damnation, scramble to take part in Holy Communion and their first Confession in order to "save" themselves.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I know that's what you liked about sex with saddam, I'm just showing you that i can be that way too.”
@@ -1323,6 +1380,7 @@ Watch for:
 ## S4 E10 — Probably (2)
 URL: https://watchwiththekids.com/ep/south-park/0410.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Satan can't decide between his new boyfriend and his former beau, Saddam Hussein. Meanwhile, Cartman has discovered his evangelical side and tries to ensure the gang a passage to heaven.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…the lord! Praise the lord! And now it's like there's one guy who's horrible to me, But i'm totally sexually attracted to, And then one guy who's really nice to me, But i'm not sexually attracted to at all!”
@@ -1336,7 +1394,7 @@ Watch for:
 - Swearing — 7 moment(s)
   - “And then yesterday He was smacked down by the lord-A! God bitch slapped him right to the fiery depths of hell!”
   - “And now you're a whiny little bitch.”
-  - “What? What? Saddam, you're an a**hole And you'll never be the friend that i want.”
+  - “What? What? Saddam, you're an asshole And you'll never be the friend that i want.”
   - “Nobody leaves me! Yes, i can! Agahgh! You little prick!”
   - “Today, we are going to talk about hell! Hello, satan! Saddam.”
   - “Us jews don't believe in hell.”
@@ -1347,6 +1405,7 @@ Watch for:
 ## S4 E11 — Fourth Grade
 URL: https://watchwiththekids.com/ep/south-park/0411.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: The fearful boys speculate on the identity of their teacher as they begin the fourth grade, leading them to build a time machine to take them back to the safety of third grade.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…the men's locker room? I was just comparing size! For seven minutes? Ah! And what about the time you masturbated To the men's 100-Meter swimming relay at the olympics?”
@@ -1368,6 +1427,7 @@ Watch for:
 ## S4 E12 — Trapper Keeper
 URL: https://watchwiththekids.com/ep/south-park/0412.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Mr. Garrison orders a recount when the race for kindergarten president is too close to call. Meanwhile, a life form from the future appears in the school yard at South Park Elementary.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh sweet, what's it gonna hybrid with now? Cartman, you might as well open up, We're just gonna have bill cosby bust the door down After he finishes having sex with your mom!”
@@ -1375,7 +1435,7 @@ Watch for:
   - “…for christ's sakes, you're all acting like a bunch of kids! Turn left here, we're getting close! Get your gun ready.”
 - Swearing — 7 moment(s)
   - “Pretty sweet, you guys, Getting 100 bucks to play tether ball with some- Serve! Ah! Got it! Dude, he's running off with your trapper keeper! Wha-Huh! You son of a bitch!”
-  - “You're so cool, trapper keeper, I would never let those a**holes take you away.”
+  - “You're so cool, trapper keeper, I would never let those assholes take you away.”
   - “Look, i'm fading! It must have worked, i don't exist! Oh, that's a bitch.”
   - “Nobody gives a crap about your trapper keeper, cartman! Ms.”
   - “Well, "nobody gives a crap about your trapper keeper, cartman.”
@@ -1388,11 +1448,12 @@ Watch for:
 ## S4 E13 — Helen Keller! The Musical
 URL: https://watchwiththekids.com/ep/south-park/0413.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys work on a Thanksgiving pageant about Helen Keller and decide to use a turkey instead of a dog.
 Watch for:
 - Swearing — 11 moment(s)
   - “Come on, you blind bitch, channel your spirit through me! Tonight, we present the story of a courageous girl And her fight against depression.”
-  - “I don't know, you guys! Alright, maybe i tried to have timmy's turkey crushed by a stagelight, But i didn't do anything else, i'm not an a**hole! You're going to be brilliant! You sexy, gorgeous turkey.”
-  - “Timmy! Turkey shoot! Aaghgh! Alinicia, jesus, no! Hagh, timmy! Okay, we're ready for the- What the hell did you a**holes do?!”
+  - “I don't know, you guys! Alright, maybe i tried to have timmy's turkey crushed by a stagelight, But i didn't do anything else, i'm not an asshole! You're going to be brilliant! You sexy, gorgeous turkey.”
+  - “Timmy! Turkey shoot! Aaghgh! Alinicia, jesus, no! Hagh, timmy! Okay, we're ready for the- What the hell did you assholes do?!”
   - “Stan, what the hell is wrong with you, i can't understand your lines!”
   - “Hahgh! Uh, timmy, if we go back to other kids with that turkey, They're gonna be pissed.”
   - “Alright, places everybody, bring in the turkey! What the hell is that? It's a turkey.”
@@ -1408,6 +1469,7 @@ Watch for:
 ## S4 E14 — Pip (a.k.a. Great Expectations)
 URL: https://watchwiththekids.com/ep/south-park/0414.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: The boys' British classmate, Pip, stars in this spoof of Dickens' classic "Great Expectations," set in London.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I tried to tell you, pip, she's a vengeful, spiteful woman Who wanted nothing more than to see you hurt Along with the rest of the male sex.”
@@ -1432,6 +1494,7 @@ Watch for:
 ## S4 E15 — Fat Camp
 URL: https://watchwiththekids.com/ep/south-park/0415.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman is sent to a camp for obese youngsters by concerned family and friends. Meanwhile, Kenny has his own hit TV show, "Krazy Kenny." Also, Chef talks to the boys about prostitution.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I told you i was a tight virgin flower.”
@@ -1453,6 +1516,7 @@ Watch for:
 ## S4 E16 — The Wacky Molestation Adventure
 URL: https://watchwiththekids.com/ep/south-park/0416.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Cartman becomes South Park's mayor when the kids take over the town.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What i want you to do, is learn to control those sick, sexual urges you have.”
@@ -1469,6 +1533,7 @@ Watch for:
 ## S4 E17 — A Very Crappy Christmas
 URL: https://watchwiththekids.com/ep/south-park/0417.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys make a video Christmas card when Mr. Hankey's visit is delayed.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1478,7 +1543,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “How would you like to have your own show And make 100 more of them? Are you kidding? I think we'd rather stab ourselves in the head.”
 - Swearing — 8 moment(s)
-  - “Only three shopping days until- God dammit! Hey, merry christmas, a**hole! Nobody's paying any attention.”
+  - “Only three shopping days until- God dammit! Hey, merry christmas, asshole! Nobody's paying any attention.”
   - “Oh, that was just a stupid song, cornwallis! I was just trying to get you to stop your bitching.”
   - “Oh hell, it's christmas.”
   - “Nobody's buying anything and i can't afford To keep this furnace runnin'! Oh, and boys, there's some crap on the sidewalk there, watch out.”
@@ -1497,6 +1562,7 @@ Watch for:
 ## S5 E1 — 1. It Hits the Fan
 URL: https://watchwiththekids.com/ep/south-park/0501.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys realize they may have made history of some sort when Cartman utters an expletive.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1506,14 +1572,14 @@ Watch for:
   - Stripper or strip-club material shows up in the plot.
   - “Who is in charge here? Oh, no! You guys didn't hire me a stripper for my birthday.”
 - Swearing — 12 moment(s)
-  - “God damn it, cartman, what are they gonna say on cop drama? You ready? Tonight on cop drama, on tv, they're gonna say "sh*t.”
-  - “" They're gonna say sh*t on tv? They can't say sh*t on tv.”
-  - “In other news, a strange virus Which causes victims to vomit up their intestines Is making life sh*tty for a small farming community.”
-  - For instance: “"That's a sh*tty picture of me.”
-  - “Because i'm gay, and that means i'm free to use the word "fag"! So piss off, you fag sh*tter.”
+  - “God damn it, cartman, what are they gonna say on cop drama? You ready? Tonight on cop drama, on tv, they're gonna say "Shit.”
+  - “" They're gonna say shit on tv? They can't say shit on tv.”
+  - “In other news, a strange virus Which causes victims to vomit up their intestines Is making life shitty for a small farming community.”
+  - For instance: “"That's a shitty picture of me.”
+  - “Because i'm gay, and that means i'm free to use the word "fag"! So piss off, you fag shitter.”
   - “We're gonna have to start saying other bad words, Like "cock" and and meecrob.”
-  - “God damn it, kenny, don't get your plague germs on me! Cartman, stop being an a**hole! The ratings are in, sir.”
-  - “Bravo! Night of a million sh*ts! Now, doing this live will be difficult, so we- Hold on a minute, mr.”
+  - “God damn it, kenny, don't get your plague germs on me! Cartman, stop being an asshole! The ratings are in, sir.”
+  - “Bravo! Night of a million shits! Now, doing this live will be difficult, so we- Hold on a minute, mr.”
   - “I'm about to piss myself.”
   - “But we can keep the "halo the turtle" dolls, right? Damn cracker-Ass producers! Now, what are we gonna do, chef? I don't know, children.”
   - “Now what? We've got to find people who know what the hell this is all about.”
@@ -1527,6 +1593,7 @@ Watch for:
 ## S5 E2 — 2. Cripple Fight
 URL: https://watchwiththekids.com/ep/south-park/0502.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The boys join the Mountain Scouts with Timmy, who winds up in a fight with Jimmy in a supermarket parking lot.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “That's what you said about peterson, And then you ended up having sex with him.”
@@ -1534,8 +1601,8 @@ Watch for:
   - “Now, the first activity for this evening will be Naked pictures.”
   - “I'm going to take some pictures of each of you naked In case we need them for later.”
 - Swearing — 5 moment(s)
-  - “You do not say "big silly goose"! You call him an a**hole like a normal kid.”
-  - “But dad, i was just trying to- Stanley, you call your friend an a**hole this instant! a**hole.”
+  - “You do not say "big silly goose"! You call him an asshole like a normal kid.”
+  - “But dad, i was just trying to- Stanley, you call your friend an asshole this instant! Asshole.”
   - “Hey, look at this one, sick son of a bitch.”
   - “How about that eric cartman kid, huh? "God damn it, no chicken pot pies! God damn it! God damn it!" Heh, heh.”
   - “"I think it's all very sacrilege- It's all very sacrilege " "God damn it! God damn it!" And of course, my very favorite "Timmy! Timmy! I'm living a lie, i'm living a lie, timmy!" "Timmy, i'm living a lie.”
@@ -1543,6 +1610,7 @@ Watch for:
 ## S5 E3 — 3. Super Best Friends
 URL: https://watchwiththekids.com/ep/south-park/0503.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: A magician persuades Kenny, Cartman and Kyle to join his cult, and their journey lands them in Washington, D.C.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You want to go get a room so you can make out for a while? Heh-Heh.”
@@ -1551,7 +1619,7 @@ Watch for:
   - “I mean, if i kill myself, it's gonna make my family really sad.”
   - “And you know what else kyle said? Kyle, he said that if we were all going to commit suicide That he wouldn't do it.”
 - Swearing — 7 moment(s)
-  - “Who's this a**hole? He's a magician named david blaine, dude, he kicks ass.”
+  - “Who's this asshole? He's a magician named david blaine, dude, he kicks ass.”
   - “Oh! No way! Damn, that guy is the coolest guy in the universe.”
   - “Oh yeah - God damn it- Hold on a second.”
   - “That trick sucks, jesus.”
@@ -1567,6 +1635,7 @@ Watch for:
 ## S5 E4 — 4. Scott Tenorman Must Die
 URL: https://watchwiththekids.com/ep/south-park/0504.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Radiohead plays a role in Cartman's plan for revenge against an eighth-grader who wronged him.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1575,8 +1644,8 @@ Watch for:
   - “Scott's mom's about to take off her bra.”
 - Swearing — 10 moment(s)
   - “I'm gonna get that son of a bitch.”
-  - “" And the stupid a**hole buys them.”
-  - “Sweet! Uh- Ah, godammit! That a**hole.”
+  - “" And the stupid asshole buys them.”
+  - “Sweet! Uh- Ah, godammit! That asshole.”
   - “…doo? ? Da da da da daa ya da da daa? ? Do do doo da da daa? ? Hey-De hey-De how's it going, guys? What the hell you so happy about, fat-Ass?”
   - “What the hell are you talking about? Well, because unlike you guys, I just got my first pubes.”
   - “Who's scott tenorman? Yeah! Yeah! Yeah! Scott tenorman is an 8th grader who sold cartman his pubes for $10, And now cartman's all pissed off.”
@@ -1592,6 +1661,7 @@ Watch for:
 ## S5 E5 — 5. Terrance and Phillip: Behind the Blow
 URL: https://watchwiththekids.com/ep/south-park/0505.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys are devastated to learn that their heroes Terrence and Phillip have broken up.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Could i just have you sign my breasts? What do i get in return? Whatever you want.”
@@ -1602,8 +1672,8 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Come on, kenny, hurry up! After years of depression and suicide attempts, Terrance and phillip finally decided to get together For one last film, The 1999 smash hit, asses of fire.”
 - Swearing — 9 moment(s)
-  - “Yon fart doth smell of elderberry sweet- That's not the line, a**hole.”
-  - “You're right, it's a better one, a**hole.”
+  - “Yon fart doth smell of elderberry sweet- That's not the line, asshole.”
+  - “You're right, it's a better one, asshole.”
   - “Just do the bit right, dick face! Why don't you go eat some more pudding, you fatass drug addict! I may be fat, but at least i didn't get hair plugs.”
   - “" Uh Where the hell is phillip? Phillip, phillip! Phillip, phillip, phillip, phillip! And now, for some classic terrance and phillip comedy.”
   - “Dude, what the hell is going on? Why'd they replace phillip? I think this new guy's funny.”
@@ -1618,16 +1688,17 @@ Watch for:
 ## S5 E6 — 6. Cartmanland
 URL: https://watchwiththekids.com/ep/south-park/0506.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman uses his $1 million inheritance to open his own amusement park.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “" And so, god had a bunch of barbarians come in And slaughter job's ox and donkeys And murder all his workers.”
   - “It's like an inflicted blood vessel on your ass.”
 - Swearing — 12 moment(s)
   - “Don't tell me i didn't earn it, you son of a bitch! No, no, this is impossible.”
-  - “Cartman is the biggest a**hole in the world.”
+  - “Cartman is the biggest asshole in the world.”
   - “Help, help, help! Oh, that hurts! What the hell? You sons of bitches! Come on, dude! Oh, god, i popped it.”
-  - “You made kyle lose his faith in god, you fat a**hole! Get him out of here.”
-  - “Oh, gerald! Doctor, can we wheel kyle out of here on his bed With the machines attached? Well, i supposed it could be rigged, but i Then damn it, man, do it! It isn't fair! You goddamn a**holes, it isn't fair!”
+  - “You made kyle lose his faith in god, you fat asshole! Get him out of here.”
+  - “Oh, gerald! Doctor, can we wheel kyle out of here on his bed With the machines attached? Well, i supposed it could be rigged, but i Then damn it, man, do it! It isn't fair! You goddamn assholes, it isn't fair!”
   - “Hey, you used to work for me! Goddammit, you son of a bitch! Kyle.”
   - “Ohh! God damn it! "And so i leave my stocks and bonds "Worth an estimated $14.”
   - “Damn, dan, i've never seen that much cash.”
@@ -1641,6 +1712,7 @@ Watch for:
 ## S5 E7 — 7. Proper Condom Use
 URL: https://watchwiththekids.com/ep/south-park/0507.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The impulsive implementation of sex-education classes at school leads to an all-out battle between the boys and the girls.
 Watch for:
 - Sex & hookups — 12 moment(s)
   - “The only way we can combat that Is by educating children before they have sex.”
@@ -1665,7 +1737,7 @@ Watch for:
   - “Donkey punch, uh-Huh.”
 - Swearing — 7 moment(s)
   - “"Oh, god, it burns, it burns!" Scream for me, bitch! "Aah!" Whoa, awesome! Hey guys, you guys, come here, you gotta check this out! Oh, no, what now? No, you guys, this is really cool.”
-  - “But, they're children! Would you rather them do it unprotected? Yeah, you want us unprotected, a**hole? I just think that all this sex ed and condom talk In elementary school is wrong.”
+  - “But, they're children! Would you rather them do it unprotected? Yeah, you want us unprotected, asshole? I just think that all this sex ed and condom talk In elementary school is wrong.”
   - “We'll never walk away, never! Oh, bitch! That does it! Attack! M'kay, so apparently the lesson plan tomorrow Is supposed to involve secretion of bodily fluids, m'kay.”
   - “Red rocket, red rocket, heh-Heh! Come on! Cartman, what the hell are you doing? I'm milking the dog, they make dog milk.”
   - “" It's amazing how with three images He puts you right there and Red rocket, red rocket! Ahh! Stanley, what the hell are you doing?! I'm beating off the dog.”
@@ -1675,6 +1747,7 @@ Watch for:
 ## S5 E8 — 8. Towelie
 URL: https://watchwiththekids.com/ep/south-park/0508.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The gang tries to protect a new resident in South Park from the government.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “Truth or no, your alien murdering group is over.”
@@ -1684,8 +1757,8 @@ Watch for:
   - “If anything goes wrong Use this newly-Developed photon rifle.”
   - “Photon rifle, whatever.”
 - Swearing — 9 moment(s)
-  - “That's my last "j", a**hole! I don't care, you better remember where your base is.”
-  - “You a**hole.”
+  - “That's my last "j", asshole! I don't care, you better remember where your base is.”
+  - “You asshole.”
   - “Jesus, is cartman still in the bathroom? Hey, cartman, we're almost to level 20! You giving birth in there or what? Let a man take a crap.”
   - “Come on, cartman, you're missing the game! I'm almost done, you smart-Asses, I'm just wiping my- What the hell is that? You guys, look what i found in the trash can in stan's bathroom.”
   - “Woo hoo! Awesome! Oh, crap.”
@@ -1700,15 +1773,16 @@ Watch for:
 ## S5 E9 — 9. Osama Bin Laden Has Farty Pants
 URL: https://watchwiththekids.com/ep/south-park/0509.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys decide to get into the patriotic spirit by heeding the President's advice to send money to the children of Afghanistan. But their spirits sour when they receive a package back and their mail becomes the focus of Government investigators.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “The americans are attacking! Where do we go? Get down! You, murdering american! Hey, shut up, kid, america didn't start this war.”
   - “Grab your guns and your bibles.”
 - Swearing — 12 moment(s)
-  - “Oh, i'm sorry, But i thought we were at war with these a**holes! We're at war with terrorists, fat-Ass, Not with afghanistan.”
+  - “Oh, i'm sorry, But i thought we were at war with these assholes! We're at war with terrorists, fat-Ass, Not with afghanistan.”
   - “Oh, son of a bitch! Hey, wait! There's children in here! Dude, it looks like we're going to afghanistan.”
   - “You son of a bitch, cartman.”
-  - “Well, boys, it's "aboot" time We get to our "hoose" in canada, isn't it? Hey, what the hell are you talking about?! I'm not a god damn canadian and neither are you! Oh, cartman, you stupid a**hole.”
+  - “Well, boys, it's "aboot" time We get to our "hoose" in canada, isn't it? Hey, what the hell are you talking about?! I'm not a god damn canadian and neither are you! Oh, cartman, you stupid asshole.”
   - “Uh, hey, how's it going, fellas? Butters, what the hell are you doing?”
   - “Aha! What the hell are you doing with this? Those are myhootie owl round tip scissors.”
   - “God damn it! All right, next! Okay, clear.”
@@ -1721,6 +1795,7 @@ Watch for:
 ## S5 E10 — How to Eat with Your Butt
 URL: https://watchwiththekids.com/ep/south-park/0510.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: As a prank, Cartman somehow gets Kenny's picture pasted on milk cartons as a missing child, which soon backfires on him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Why did the pigeon cross the road? Okay, why? Because he was having sex with the chick Because he was having sex with the ch-Chick Because he was having sex with the ch-Ch-Ch He was having sex with the chicken.”
@@ -1733,11 +1808,12 @@ Watch for:
 ## S5 E11 — The Entity (a.k.a. The Ginger Device)
 URL: https://watchwiththekids.com/ep/south-park/0511.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle is embarrassed by his cousin, Kyle, and tries to think of ways to avoid him in front of his friends.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “So we have the same blood! Now, kyle two, listen to me.”
 - Swearing — 6 moment(s)
-  - “Ha ha, serves you right, a**hole.”
+  - “Ha ha, serves you right, asshole.”
   - “A- A brand new vehicle That will put all you bastards out of business! Yeah! You think i can't do it? I've got a masters degree in mechanical engineering At denver community college.”
   - “What! How the hell am i suppose to do that? I'm sure your friends will love him.”
   - “What the hell was that? Well, what the hell was that? What the hell was that? I dunno, it was going so fast I couldn't see it.”
@@ -1747,9 +1823,10 @@ Watch for:
 ## S5 E12 — Here Comes the Neighborhood
 URL: https://watchwiththekids.com/ep/south-park/0512.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Kyle, Stan, Kenny and Cartman have a run-in with Token, the town's only rich kid. In retaliation, Token encourages other wealthy people to move into the neighborhood.
 Watch for:
 - Swearing — 5 moment(s)
-  - “And cartman for being a sadistic a**hole.”
+  - “And cartman for being a sadistic asshole.”
   - “? Shout "hell yeah" from my vehicle? ? Living is a miracle? Look, there's more ofthem moving into our town.”
   - “Damn, i hate them stupid richers.”
   - “Tallyho! Tallyho! Tallyho! Hooray! Go frederick, it's wonderful! What in the hell are they doing? Is that fun? I don't know, we don't have horses so we can't play.”
@@ -1766,9 +1843,10 @@ Watch for:
 ## S5 E13 — Kenny Dies
 URL: https://watchwiththekids.com/ep/south-park/0513.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman discovers the benefits of stem-cell research.
 Watch for:
 - Swearing — 6 moment(s)
-  - “Fine, i don't need you a**holes! I can sell these fetuses all on my own! Hello, is this university of colorado biology department? Great, i understand you're currently doing research On stem cells.”
+  - “Fine, i don't need you assholes! I can sell these fetuses all on my own! Hello, is this university of colorado biology department? Great, i understand you're currently doing research On stem cells.”
   - “All right, cartman, what's so important You had to pull us away from lighting cow crap on fire? Oh, you guys, you're not gonna believe it.”
   - “Cartman, what the hell are you doing with aborted fetuses? I'm leaving, right now.”
   - “And what the hell does that have to do with anything? Stem cells, numb nuts.”
@@ -1780,6 +1858,7 @@ Watch for:
 ## S5 E14 — Butters' Very Own Episode
 URL: https://watchwiththekids.com/ep/south-park/0514.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Butters looks forward to his parents' anniversary dinner despite his mother's reaction to his father's secret extracurricular activities.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I was going to gay movie and bath houses And having sex with random men who were complete strangers.”
@@ -1799,6 +1878,7 @@ Watch for:
 ## S6 E1 — 1. Jared Has Aides
 URL: https://watchwiththekids.com/ep/south-park/0601.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The gang seizes upon an opportunity to make money with a weight-loss program that's sweeping the country.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1824,11 +1904,12 @@ Watch for:
 ## S6 E2 — 2. Asspen
 URL: https://watchwiththekids.com/ep/south-park/0602.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The boys head to Aspen, where the slopes are superb and Stan gets into a showdown with the lodge's expert skier.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “I'm gonna beat him! The race is half over and tad is still out in the lead.”
 - Swearing — 6 moment(s)
-  - “And when the hotshot a**hole skier takes your girl, If you're supposed to race him the first time, Or train first to beat him on the really difficult mountain So you can save the dorky, but hot girl's youth center.”
+  - “And when the hotshot asshole skier takes your girl, If you're supposed to race him the first time, Or train first to beat him on the really difficult mountain So you can save the dorky, but hot girl's youth center.”
   - “So where's the part where we have a good time? Hey, little dude, you got some crap right here.”
   - “Oh, god damn it! Dude, it's been 12 hours.”
   - “Where the hell are our parents? I'm glad you guys came.”
@@ -1838,6 +1919,7 @@ Watch for:
 ## S6 E3 — 3. Freak Strike
 URL: https://watchwiththekids.com/ep/south-park/0603.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The gang decides to put Butters up as a guest on a talk show thinking that they will get special favors.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “…man? Could you go on the maury povich show with me And say that i'm out of control and do drugs and have sex So that i can go to the largest Putt-Putt golf course in the world?”
@@ -1853,7 +1935,7 @@ Watch for:
   - “It's time to bring out the big guns.”
 - Swearing — 9 moment(s)
   - “What a dick.”
-  - “That a**hole! Hello, is this the maury povich show? Yes, hello, i'm calling because i saw your television program And i also have balls hanging from my chin.”
+  - “That asshole! Hello, is this the maury povich show? Yes, hello, i'm calling because i saw your television program And i also have balls hanging from my chin.”
   - “Yeah, i use drugs, i can do what i want, bitch.”
   - “Do they go, "oh gross, what the hell is that thing?" I don't know.”
   - “Hello, is this maury povich? Oh, well, who the hell are you? Oh.”
@@ -1871,6 +1953,7 @@ Watch for:
 ## S6 E4 — 4. Fun with Veal
 URL: https://watchwiththekids.com/ep/south-park/0604.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: After learning how veal is made, the boys try to save some calves from the slaughterhouse.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “There you go, you're free! Run away! Go, they're gonna murder you! Stan, could you hurry it up? I'm freezing my ass off.”
@@ -1879,7 +1962,7 @@ Watch for:
   - “So how about we give you one calf- Cartman, no! Dude! We'll give you one calf if you'll give us Some guns and ammunition of our own.”
   - “Oh, all right, some guns, i'll see what i can do.”
 - Swearing — 6 moment(s)
-  - “Stanly, did you see- Oh, crap! Stanly, what are you doing with those calves? That a**hole was gonna kill them And feed them to people! Stanly, they belong to him.”
+  - “Stanly, did you see- Oh, crap! Stanly, what are you doing with those calves? That asshole was gonna kill them And feed them to people! Stanly, they belong to him.”
   - “Kyle, if you don't do what you're told, I'm going to be very angry! Well, you made me eat veal And didn't tell me what it was! So go ahead and be angry, you baby-Cow-Killing bitch! Very persuasive.”
   - “Wait a minute, veal is Little baby cows? Yepper! Then why the hell do they call it "veal"? Well, if we called it "little baby cow" People might not eat it.”
   - “No, uncle jessie, no! Cartman, wake up! What? What the hell are you guys doing? Come on, we gotta go! Where we going? We're gonna go save the little baby cows, fat-Ass.”
@@ -1889,6 +1972,7 @@ Watch for:
 ## S6 E5 — 5. The New Terrance and Phillip Movie Trailer
 URL: https://watchwiththekids.com/ep/south-park/0605.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: The boys look forward to the newest Terrance and Phillip movie.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1899,13 +1983,14 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “But you know, tugga's attempted suicide Has made me realize that i should take up a cause.”
 - Swearing — 3 moment(s)
-  - “How's that? That's worse! Okay, how about that- Dude! Goddammit, cartman, you broke it! It was just- I just- Butters, you a**hole! Dude, the commercials could start any time! I don't think we're watching them on this tv.”
+  - “How's that? That's worse! Okay, how about that- Dude! Goddammit, cartman, you broke it! It was just- I just- Butters, you asshole! Dude, the commercials could start any time! I don't think we're watching them on this tv.”
   - “We're gonna have lots of fun today, As we travel all around and look for some good- Hey! What the hell do you think you're doin'?!”
   - “Who the hell do you think you are?! I'm the editor.”
 
 ## S6 E6 — 6. Professor Chaos
 URL: https://watchwiththekids.com/ep/south-park/0606.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: When Butters is rejected by the kids, his alter ego Professor Chaos is unleashed.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “TOWELIE'S COOL, BUT HE GETS STONED ALL THE TIME.”
@@ -1913,6 +1998,7 @@ Watch for:
 ## S6 E7 — 7. The Simpsons Already Did It
 URL: https://watchwiththekids.com/ep/south-park/0607.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Cartman and the gang fear that they may have accidentally caused a death.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Alright, let's just leave the semen sample next to the corpse.”
@@ -1923,7 +2009,7 @@ Watch for:
   - “…You better stop worshiping him, sea people! What's going on now? The sea people from cartman's side Are suicide-Bombing the buildings on tweek's side!”
 - Swearing — 4 moment(s)
   - “…The simpsons is such a great show And we need reminders like this to keep us watching! Aw aw, son-Of-A-Bitch.”
-  - “Yeah, and the sweet thing is, The stupid a**hole didn't even charge me money for it! He just made me close my eyes and suck it out of a hose.”
+  - “Yeah, and the sweet thing is, The stupid asshole didn't even charge me money for it! He just made me close my eyes and suck it out of a hose.”
   - “Jesus christ, we killed her! Shhh, tweek shut the hell up! General disarray, are your parents home? No.”
   - “Hat? Hello there, children! Aaaaaaghg! Nooooooo! What the hell's wrong with him? Look the sea people have evolved to an Egyptian-Like culture! Soon they'll discover frozen foods- Agh! That should be enough water, kyle.”
 - Alcohol & drugs — 1 moment(s)
@@ -1932,6 +2018,7 @@ Watch for:
 ## S6 E8 — 8. Red Hot Catholic Love
 URL: https://watchwiththekids.com/ep/south-park/0608.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: A priest visits South Park to find out why church attendance is down; the boys protest the tinkering of their favorite movies.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “If things continue this way We'll never be able to have sex with young boys again! Yeah!Uh-Huh! That's right! That's right- Wait, what?! In france as well, we are finding it harder and harder To make love to our boys.”
@@ -1944,7 +2031,7 @@ Watch for:
   - “Hawhhh!Rumble! Women! The gelgamek vagina is three feet wide And filled with razor-Sharp teeth!”
 - Swearing — 5 moment(s)
   - “You son-Of-A-Bitch, kyle! I hate you! Down with god! Yeah!Atheists rule! Great news, stan, the vatican is burning down! Score one for us atheists! Come on, tweek, we're gonna go watch on tv! Gone it's all gone.”
-  - “We shouldn't toss away the lessons of the bible Just because some a**holes in italy screwed it up.”
+  - “We shouldn't toss away the lessons of the bible Just because some assholes in italy screwed it up.”
   - “What? It makes perfect sense okay, run with me on this: If you eat food, you crap out your butt, right?”
   - “I have to go to the vatican and get help! Hghnn hghh Well, cartman? Hold on! God, let a man crap! Hgh hgh What's going on? Cartman shoved food up his ass And now he's trying to crap out his mouth.”
   - “…of it applies to what being a catholic is all about! But the holy document of vatican law states that- To hell with the holy document of vatican law!”
@@ -1952,6 +2039,7 @@ Watch for:
 ## S6 E9 — 9. Free Hat
 URL: https://watchwiththekids.com/ep/south-park/0609.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The boys try to prevent filmmakers from remaking their movies, but their efforts are mistaken for a campaign for the release of an infamous criminal.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “…Hat! Hat! Hat! Thank you, everyone- Kill the innocent! Uh, i'm so thankful for all your support- Rape the virgin!”
@@ -1963,8 +2051,8 @@ Watch for:
   - “All the guns have been digitally changed to walkie-Talkies.”
   - “And all the guns have been replaced by walkie-Talkies.”
 - Swearing — 5 moment(s)
-  - “…Woo hoo! Aaaaaghhh! God dammit, that pisses me off! Yeah, we want our money back! Sorry, suckers! You a**hole!”
-  - “It isn't fair for those a**hole directors To keep changing their movies and making them different!”
+  - “…Woo hoo! Aaaaaghhh! God dammit, that pisses me off! Yeah, we want our money back! Sorry, suckers! You asshole!”
+  - “It isn't fair for those asshole directors To keep changing their movies and making them different!”
   - “…stop with these "faggotronics" Or we'll find someone to replace you! Aaagh! Oh, jesus! Dude, that sign sucks, nobody's gonna show up!”
   - “You have to offer fabulous prizes If you want people to show up for your stupid crap.”
   - “Over here! That's it! Alright, get it, tweek! Nu-Uh! Get it, you piece of crap Before i grab your nutsack and twist it!”
@@ -1974,6 +2062,7 @@ Watch for:
 ## S6 E10 — Bebe's Boobs Destroy Society
 URL: https://watchwiththekids.com/ep/south-park/0610.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
+Summary: When Bebe starts to mature physically, the boys behave so boorishly that their friendships are almost ruined.
 Watch for:
 - Nudity & bodies — 9 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1986,7 +2075,7 @@ Watch for:
   - “Why not? Britney spears got fake ones when she was a teenager, Why can't i have mine taken off? Because making breasts larger Is a beautiful and wonderful thing.”
   - “I think it's insane to want them bigger! Why do you hate your breasts so?”
 - Swearing — 6 moment(s)
-  - “I heard that her a**hole is like this big around.”
+  - “I heard that her asshole is like this big around.”
   - “…me out or i'm gonna kill it! You say- "Don't you hurt my f-King dog"! Don't you hurt my f-King dog! You bitch, i'll cut your throat- What the hell are you doing?”
   - “Just gotta jam it up there! Get-In-There-You-Bitch! Get-In-There-You-Bitch! Ahhh, okay, there's one, wendy, doing great! M'kay, kids, we need to talk about your failing grades.”
   - “It's all about the timing You damn kids!”
@@ -1999,6 +2088,7 @@ Watch for:
 ## S6 E11 — Child Abduction is Not Funny
 URL: https://watchwiththekids.com/ep/south-park/0611.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Media stories about kidnappings drive South Park parents to extreme measures, such as building a wall around the town to keep out predators.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “You mean that even though all the news Is about murderers and abductors, Those kind of people only make up A very small part of the world.”
@@ -2016,6 +2106,7 @@ Watch for:
 ## S6 E12 — A Ladder to Heaven
 URL: https://watchwiththekids.com/ep/south-park/0612.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Trying to find Kenny in Heaven, the boys discover that Saddam Hussein may have hidden weapons there.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2026,7 +2117,7 @@ Watch for:
   - “…pride * * 'cause kenny and his family all reside * * in the ghetto in the ghetto * Shut up, cartman, you blood-Belching vagina!”
   - “War's not my voice! This country's just run by rednecks and bumpkins with their guns!”
 - Swearing — 12 moment(s)
-  - “We build it, climb up and get our winning ticket back From that a**hole kenny.”
+  - “We build it, climb up and get our winning ticket back From that asshole kenny.”
   - “Dear christ, that son of a bitch just doesn't stop.”
   - “Stop calling me poor, you fat dick! Oh, jesus christ.”
   - “God damn it! We've gotta find that ticket! Which one of us took it?! It was so long ago i can't remember.”
@@ -2042,6 +2133,7 @@ Watch for:
 ## S6 E13 — The Return of the Fellowship of the Ring to the Two Towers
 URL: https://watchwiththekids.com/ep/south-park/0613.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: While returning "The Lord of the Rings" to the video store, the boys accidentally get a hold of a steamy porno tape.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It shows adult men and adult women Having sexual intercourse.”
@@ -2060,9 +2152,9 @@ Watch for:
   - “Backdoor sluts 9! Backdoor sluts 9! Is that bad? Backdoor sluts 9 makes crotch capers 3 Look like "naughty nurses 2"! It is the single most vile, twisted, Dark piece of porn ever made.”
   - “Maybe it's okay for them to see an adult film.”
 - Swearing — 8 moment(s)
-  - “Faragon! a**hole.”
+  - “Faragon! Asshole.”
   - “Clyde's a dick.”
-  - “Ha! We cannot trust something of that much power to a dwarf! Especially a kindergartner dwarf! Stop acting like a bunch of a**holes! I will take it! I will walk to the video store.”
+  - “Ha! We cannot trust something of that much power to a dwarf! Especially a kindergartner dwarf! Stop acting like a bunch of assholes! I will take it! I will walk to the video store.”
   - “Hurry now! That quest sucks, cartman! Think of another one! Uh, boys, butters' parents want to borrow "The lord of the rings" video we rented.”
   - “Man, that's crap.”
   - “Butters! What the hell are you doing?! Playing lord of the rings! Huh, huh! Yeah.”
@@ -2077,6 +2169,7 @@ Watch for:
 ## S6 E14 — Death Camp of Tolerance
 URL: https://watchwiththekids.com/ep/south-park/0614.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys are sent to a camp where cultural sensitivity is taught.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I want to come clean with you and tell you that back then Some of us were uncomfortable with your sexual preferences.”
@@ -2085,14 +2178,14 @@ Watch for:
   - “I think in the fourth chapter, When nancy drew discovers the bloody glove In the cheerleader's locker, That was just a brilliantly written passage.”
 - Swearing — 6 moment(s)
   - “Garrison? I had a dream last night that you were a real dick.”
-  - “Really? Why would you dream that i was being an a**hole? No, no- I was the a**hole.”
-  - “Our boys didn't hate homosexuals, They just hated the way this a**hole was acting.”
+  - “Really? Why would you dream that i was being an asshole? No, no- I was the asshole.”
+  - “Our boys didn't hate homosexuals, They just hated the way this asshole was acting.”
   - “Hey! What the hell are you doing?! I was just- There's no smoking in the museum! But i'm not in the museum.”
   - “Glue, glue damn you! Take zis one away, he is done for.”
   - “It can still piss you off! Jesus-Tap-Dancing-Christ! He's right.”
 - Racism & slurs — 2 moment(s)
   - “Here we try to educate you on the dynamics Of racism and prejudice in america.”
-  - “Queer! Beaner! [racial slur]! [racial slur]! Heeb! Faggot! Cracker! Oh man, this is awesome! Now you know how it feels.”
+  - “Queer! Beaner! Chink! Nigger! Heeb! Faggot! Cracker! Oh man, this is awesome! Now you know how it feels.”
 - Homophobic jokes — 2 moment(s)
   - “What you need to do is let the parents see What kind of demented faggot you are.”
   - “…magic helmet torch to help you light the way * * there's still a lot of ground to cross inside the man so gay * * ahead of you lies adventure * * and your strength still lies within * * freedom from the ass of doom…”
@@ -2103,11 +2196,12 @@ Watch for:
 ## S6 E15 — The Biggest Douche in the Universe
 URL: https://watchwiththekids.com/ep/south-park/0615.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Cartman takes desperate measures to try to rid himself of Kenny's spirit, including traveling to Scotland.
 Watch for:
 - Swearing — 5 moment(s)
-  - “What the hell are you a**holes doing here? That's cartman.”
-  - “…stuff? The things did involve stuff! Wow-Aoao-Oao! Aw man! I can't believe i got fooled by that a**hole!”
-  - “Thanks, a**hole.”
+  - “What the hell are you assholes doing here? That's cartman.”
+  - “…stuff? The things did involve stuff! Wow-Aoao-Oao! Aw man! I can't believe i got fooled by that asshole!”
+  - “Thanks, asshole.”
   - “…You are so a douche! I'm nominating you for biggest douche in the universe award, Ya douche! Son of a bitch!”
   - “Kyle! No, kyle! Aw crap! Hey, uh, i need to talk to mr.”
 - Fat-shaming — 1 moment(s)
@@ -2116,19 +2210,20 @@ Watch for:
 ## S6 E16 — My Future Self 'n' Me
 URL: https://watchwiththekids.com/ep/south-park/0616.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan is forced to look at his life 30 years in the future; Cartman tries to launch a new business.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - “Of your own time travel company! Oh wow, really? That's so awesome! Now i'll really work to be successful! Right on! Go have sex with yourself, a**hole!”
+  - “Of your own time travel company! Oh wow, really? That's so awesome! Now i'll really work to be successful! Right on! Go have sex with yourself, asshole!”
   - “Me and my girlfriend took it, And we stayed up all night having s-S-Sex.”
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “Where did you have sex with her? In her v-V-Vagina.”
   - “The man claimed to be from the future And ran naked through the city streets, Screaming, "the past! The past! Oh my god, it's the past!" Which is what one would expect someone from the future to yell.”
 - Swearing — 11 moment(s)
-  - “Whoa! Kyle and cartman! So cool to see you guys! Who's this a**hole? This is my future self.”
+  - “Whoa! Kyle and cartman! So cool to see you guys! Who's this asshole? This is my future self.”
   - “Hey, where are you going, stan? Alright, where's that son of a bitch's wallet?”
-  - “Butters, don't you get it?! Those a**holes aren't our future selves, Our parents hired them to make us more motivated!”
-  - “Of your own time travel company! Oh wow, really? That's so awesome! Now i'll really work to be successful! Right on! Go have sex with yourself, a**hole!”
+  - “Butters, don't you get it?! Those assholes aren't our future selves, Our parents hired them to make us more motivated!”
+  - “Of your own time travel company! Oh wow, really? That's so awesome! Now i'll really work to be successful! Right on! Go have sex with yourself, asshole!”
   - “Butters, part of being on an adventure Is you go places you're not supposed to! Oh! Well, you're good at adventurin', huh, stan? What the hell is going on here?”
   - “Uh, hi, is this the parental revenge center Of western america? Uh, i'm really pissed off at my parents And i want to impose swift and horrible revenge upon them?”
   - “What the hell are you doing here? I'm running a business, stan, are you my 11:00? You're the parental revenge center of western america? God dammit, i knew this was too good to be true.”
@@ -2149,10 +2244,11 @@ Watch for:
 ## S6 E17 — Red Sleigh Down
 URL: https://watchwiththekids.com/ep/south-park/0617.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Cartman tries to score some points with Santa Claus by asking him to deliver presents to the needy children in Iraq.
 Watch for:
 - Swearing — 7 moment(s)
   - “God dammit, i have to get that haibo robot doll, You son of a bitch! Hey, i'm just your naughty or nice accountant, Don't blame me for the numbers! Haven't you seen the haibo doll? It's like a pet, a robot pet.”
-  - “…stupid, it's a toy that you can starve! If you don't feed it, it dies! It's so cool! Well, good going, a**hole!”
+  - “…stupid, it's a toy that you can starve! If you don't feed it, it dies! It's so cool! Well, good going, asshole!”
   - “I hate when the mayor uses christmas For her own political agenda- Light the damn tree! Yeah! Christmas tree! Christmas tree! Oh my god- That's it.”
   - “…* * poo-Choo train is my favorite thing * * spreading christmas joy as we ride and sing * Dude, what the hell has gotten into cartman?”
   - “Stay back, you bastards! Stay back! Oh, no.”
@@ -2162,6 +2258,7 @@ Watch for:
 ## S7 E1 — 1. Cancelled
 URL: https://watchwiththekids.com/ep/south-park/0701.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys are abducted by aliens, who inform them that Earth is actually a reality show that is about to be canceled by intergalactic media moguls.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “They took the children, Jeff! I have to know what those aliens are up to! Wait a minute! Butt sex! Butt sex? Butt sex requires a lot of lubrication, right? Lubrication.”
@@ -2169,10 +2266,10 @@ Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “…try a little glach? Agh-oh yeah! Oh, gluck yeah! Kenny! Screw this place! Let's go get a hotel room and a hooker!”
 - Swearing — 11 moment(s)
-  - “Yeah! Go home, you little dildo! Dude, for the last time, don't call my brother a dildo! Alright, go home, you little semen-puking a**hole dickhead! Dude, sweet! Yeah.”
-  - “What is a proc-tologist, Chef? He's a doctor that specializes in your a**hole, children.”
+  - “Yeah! Go home, you little dildo! Dude, for the last time, don't call my brother a dildo! Alright, go home, you little semen-puking asshole dickhead! Dude, sweet! Yeah.”
+  - “What is a proc-tologist, Chef? He's a doctor that specializes in your asshole, children.”
   - “What a dick! Hello, everyone! Hello, doctor.”
-  - “Oh sh*t, did we do that? Everyone, can I have your attention real quick? Uh, look, I just got a call from the network and I'm afraid Earth has been cancelled.”
+  - “Oh shit, did we do that? Everyone, can I have your attention real quick? Uh, look, I just got a call from the network and I'm afraid Earth has been cancelled.”
   - “Ah, damn it! - What? My God-damned little brother's trying to follow me to school, again! Suck my balls.”
   - “Hey, just what the hell do you think you're doing? Eric, the doctor has to feel inside your rectum.”
   - “…just turn around and beat your white skinny alien asses anyway! Maybe next time you'll remember to Huh? Aw crap!”
@@ -2184,29 +2281,31 @@ Watch for:
 ## S7 E2 — 2. Krazy Kripples
 URL: https://watchwiththekids.com/ep/south-park/0702.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The kids become embroiled in the life of a disabled celebrity who breezes through town and gets all the attention.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “So can we join your g group? All right, you wanna thug with the Five Point Crips? Bitches, all you gotta do is pop some punk-ass Bloods.”
   - “Tim and I would love to pop some punk-ass Bloods.”
 - Swearing — 3 moment(s)
   - “So can we join your g group? All right, you wanna thug with the Five Point Crips? Bitches, all you gotta do is pop some punk-ass Bloods.”
-  - “Oh sh*t! Suh, suh, suh, suh, Sunday driver! Yo yo, listen up, y'all! Let me tell you about my little Gs Roller and 4 Legs here.”
-  - “The Bloods! Oh sh*t! It's a trap! Muthafucka Crips tryin' to smoke us all out! What the hell is goin' on here? It's called a lock-in at the rec center.”
+  - “Oh shit! Suh, suh, suh, suh, Sunday driver! Yo yo, listen up, y'all! Let me tell you about my little Gs Roller and 4 Legs here.”
+  - “The Bloods! Oh shit! It's a trap! Muthafucka Crips tryin' to smoke us all out! What the hell is goin' on here? It's called a lock-in at the rec center.”
 - Alcohol & drugs — 1 moment(s)
   - “…pushed around by others! The old Christopher Reeve is dead! From now on, I am Chris! Sixty-five bottles of beer on the wall.”
 - Racism & slurs — 1 moment(s)
-  - “Look! My gang, which I can't talk about because it's super secret, is the most important thing to me now! And if you two don't like it, you can just pass the blunt to the [racial slur] on your left.”
+  - “Look! My gang, which I can't talk about because it's super secret, is the most important thing to me now! And if you two don't like it, you can just pass the blunt to the nigga on your left.”
 
 ## S7 E3 — 3. Toilet Paper
 URL: https://watchwiththekids.com/ep/south-park/0703.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys are under investigation for covering their teacher's house with toilet paper.
 Watch for:
 - Swearing — 8 moment(s)
-  - “Dreible thinks she's so cool! How dare she talk to us like that?! Yeah, who the f*** is that?! We can't let her get away with this! I think tonight we need to do something drastic.”
-  - “Here's what I think of your art class, you God-damned bitch! Yeah! f*** you! Come on, let's go! What have we done? Let's go, Kyle! We're, we're in trouble.”
-  - “I can get a better deal? Kyle, so help me God, if you Jew us out on this one, I will f***ing kill you! There we go.”
-  - “So? So we're not TP'ing a house with kids inside it! Kyle, we all agreed to do this! We didn't say nothin' about no kids, man! Kyle, you're bein' an a**hole! Now let's do this thing and get out of m'yeah.”
-  - “Aw man, that was so awesome! How can you say that? Did you see what we did to their house? It'll take them days to clean that up! Who cares? Well, you don't, because you're a non-caring a**hole, Cartman!”
+  - “Dreible thinks she's so cool! How dare she talk to us like that?! Yeah, who the fuck is that?! We can't let her get away with this! I think tonight we need to do something drastic.”
+  - “Here's what I think of your art class, you God-damned bitch! Yeah! Fuck you! Come on, let's go! What have we done? Let's go, Kyle! We're, we're in trouble.”
+  - “I can get a better deal? Kyle, so help me God, if you Jew us out on this one, I will fucking kill you! There we go.”
+  - “So? So we're not TP'ing a house with kids inside it! Kyle, we all agreed to do this! We didn't say nothin' about no kids, man! Kyle, you're bein' an asshole! Now let's do this thing and get out of m'yeah.”
+  - “Aw man, that was so awesome! How can you say that? Did you see what we did to their house? It'll take them days to clean that up! Who cares? Well, you don't, because you're a non-caring asshole, Cartman!”
   - “Damn! Oh God! How the hell did they find out it was us that TP'ed that house? Will you relax, Kyle?! They've got nothing on us! As long as we all stick to our story, we'll be fine.”
   - “What the hell are you doing, Cartman?! I'm killing you.”
   - “What fibs have you been telling this policeman, Butters? You know damn well you didn't toilet-paper that house! Huh? Butters was with us all night, Officer Barbrady.”
@@ -2216,14 +2315,15 @@ Watch for:
 ## S7 E4 — 4. I'm a Little Bit Country
 URL: https://watchwiththekids.com/ep/south-park/0704.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The foul-mouthed youngsters return for a seventh season.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “What about the war? Ih--It's g-gay? Uh huh, and what aspect of it do you think is most gay? Uuuh, n-no blood for oil.”
 - Suicide & self-harm — 1 moment(s)
   - “…hate those guys # # Hate Stan and Kyle # Is he going to be all right, doctor? Your son tried to kill himself in a ritualistic fashion I've never seen before.”
 - Swearing — 11 moment(s)
-  - “Oho kick-f***ing-ass, dude! Never seen you around here, friend.”
-  - “We have a report to do, a**hole! - Get up! Get up! - Whoa.”
+  - “Oho kick-fucking-ass, dude! Never seen you around here, friend.”
+  - “We have a report to do, asshole! - Get up! Get up! - Whoa.”
   - “It's a bitch, ain't it? Perhaps this document will make the reasons for war obvious to all.”
   - “…no- ohhh! Awww, now we lost two in our study group! God damnit! Can you believe those hick sons of bitches?”
   - “…GPS, ICBMs, and good old-fashioned lead # # We're gonna show Saddam what America means; # # that son of a bitch will be dead # # Why are we fightin' this war?”
@@ -2237,6 +2337,7 @@ Watch for:
 ## S7 E5 — 5. Fat Butt and Pancake Head
 URL: https://watchwiththekids.com/ep/south-park/0705.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Jennifer Lopez and Ben Affleck come to town.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I'm gonna fulfill all your sexy wishes, give you lots of taco-flavored kisses.”
@@ -2244,10 +2345,10 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Mom! What is it, sweetie? Ben Affleck is naked in my bed! Oooo, looks like the tooth fairy was extra-happy with you.”
 - Swearing — 11 moment(s)
-  - “Only mistake was when this ghetto trash got signed in the first place! Shut your God-damned mouth! You f***ing smartass, who do you think you are? Nobody.”
-  - “I am Yennifer Hrlopez! I eat tacos, and burritos! f*** you! Yaaaaah! Wait! I'm sorry! Ah I'll stop! I'll stop! - You'd better stop! - I will.”
-  - “…session! Our love is like rain! That's what you said about me, a**hole! - Quiet! - Get her out of here! f*** you!”
-  - “No, you didn't, a**hole! What you did was totally stupid and racist! And you only did it to screw me over! Awww, I don't think Kyle likes you, Ms.”
+  - “Only mistake was when this ghetto trash got signed in the first place! Shut your God-damned mouth! You fucking smartass, who do you think you are? Nobody.”
+  - “I am Yennifer Hrlopez! I eat tacos, and burritos! Fuck you! Yaaaaah! Wait! I'm sorry! Ah I'll stop! I'll stop! - You'd better stop! - I will.”
+  - “…session! Our love is like rain! That's what you said about me, asshole! - Quiet! - Get her out of here! Fuck you!”
+  - “No, you didn't, asshole! What you did was totally stupid and racist! And you only did it to screw me over! Awww, I don't think Kyle likes you, Ms.”
   - “And you're a mean-spirited bitch who spits on people who aren't rich and famous.”
   - “Where to? Take me to South Park, Colorado! I'm gonna kill that bitch! Hey, everybody! Listen up! I've got somethng to tell Kyle! What? What are you gloating about? Oh, I'm not gloating.”
   - “Look, we're not going in there, so just-! Wait, why the hell am I talking to your hand? Look, we're not going in there, so just knock it off! Hey, I'm on your guys's side.”
@@ -2256,13 +2357,14 @@ Watch for:
   - “So stop doing it! Stop doing what? You know God-damn well what! Now get outta here! Please, you guys.”
   - “Lopez? What's she doing? Come here! You're not actually buying this crap, are you? I don't know, meh, maybe he can't help it.”
 - Racism & slurs — 1 moment(s)
-  - “No, you didn't, a**hole! What you did was totally stupid and racist! And you only did it to screw me over! Awww, I don't think Kyle likes you, Ms.”
+  - “No, you didn't, asshole! What you did was totally stupid and racist! And you only did it to screw me over! Awww, I don't think Kyle likes you, Ms.”
 - Slut-shaming — 1 moment(s)
   - “Hoohh, I love you too, Ben! But But what? But what if you still have feelings for the slut with the large ass? I still care for her.”
 
 ## S7 E6 — 6. Lil' Crime Stoppers
 URL: https://watchwiththekids.com/ep/south-park/0706.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The guys start their own detective agency.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2271,8 +2373,8 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “He would have watched Sarah with the doll, possibly while cutting the palms of his hands with a large knife.”
 - Swearing — 8 moment(s)
-  - “Awww, sh*t! All right, sir, well, please call us if you need anything.”
-  - “Stupid a**holes! How come nobody has a crime to solve? Yeah, maybe starting a detective club isn't such a bright idea It's a great idea, we just have to keep working at it.”
+  - “Awww, shit! All right, sir, well, please call us if you need anything.”
+  - “Stupid assholes! How come nobody has a crime to solve? Yeah, maybe starting a detective club isn't such a bright idea It's a great idea, we just have to keep working at it.”
   - “Son of a bitch stupid FBI! Well, I guess we can go back to playing laundromat.”
   - “That gives us jurisdiction over you! Aw crap! I want choppers on the roof ready to go! Dude, we've been working this case since two-thirty! Good.”
   - “W-hell, that's fantastic, kids.”
@@ -2291,6 +2393,7 @@ Watch for:
 ## S7 E7 — 7. Red Man's Greed
 URL: https://watchwiththekids.com/ep/south-park/0707.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys try to save the town from developers.
 Watch for:
 - Swearing — 6 moment(s)
   - “…interest Kyle anymore! Well I'm calling the moving company right now! Well, you shouldn't be such a dick, dude.”
@@ -2305,6 +2408,7 @@ Watch for:
 ## S7 E8 — 8. South Park is Gay!
 URL: https://watchwiththekids.com/ep/south-park/0708.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
+Summary: The whole town suddenly discovers it's all the rage to be gay.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “I think they learned murder is wrong.”
@@ -2320,14 +2424,15 @@ Watch for:
 ## S7 E9 — 9. Christian Rock Hard
 URL: https://watchwiththekids.com/ep/south-park/0709.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman puts together a band; Stan, Kyle and Kenny get into trouble for downloading music from the Internet.
 Watch for:
 - Swearing — 9 moment(s)
-  - “How's it going? We're not letting you back in the band, Cartman! f*** off! I don't wanna be in your crappy band, guys.”
-  - “Oh, f*** Jesus! Eric, I-I'm pretty sure you shouldn't say the F-word about-uh Jesus.”
-  - “Who f***in' cares, Token?! I could never beat Kyle now! I'll say it again! f*** Jesus! My ears are bleeding! Good job, dickhead! You lost the entire audience! Ah, f*** you, Token! You black a**hole! Hm.”
-  - “…- You're on, fat boy! - Okay, fine! Ready? First one to have a platinum album wins! Go! What a stupid a**hole!”
-  - “More! Why the hell would I be looking way over there? So it looks like you're too cool to care that you're on an album cover, you black a**hole! Now just hold it! Don't ever leave me, Jesus.”
-  - “Who cares?! I can never win my bet because you stupid a**holes don't give out platinum albums! But you spread the Word of the Lord.”
+  - “How's it going? We're not letting you back in the band, Cartman! Fuck off! I don't wanna be in your crappy band, guys.”
+  - “Oh, fuck Jesus! Eric, I-I'm pretty sure you shouldn't say the F-word about-uh Jesus.”
+  - “Who fuckin' cares, Token?! I could never beat Kyle now! I'll say it again! Fuck Jesus! My ears are bleeding! Good job, dickhead! You lost the entire audience! Ah, fuck you, Token! You black asshole! Hm.”
+  - “…- You're on, fat boy! - Okay, fine! Ready? First one to have a platinum album wins! Go! What a stupid asshole!”
+  - “More! Why the hell would I be looking way over there? So it looks like you're too cool to care that you're on an album cover, you black asshole! Now just hold it! Don't ever leave me, Jesus.”
+  - “Who cares?! I can never win my bet because you stupid assholes don't give out platinum albums! But you spread the Word of the Lord.”
   - “…in the world, right? If we just play songs about how much we love Jesus, all the Christians will buy our crap!”
   - “Wow! Downloading music for free is awesome! What the hell is that? I don't know.”
   - “Why the hell did you tell us to dress nice to take us out here? Because, Token, we have to take pictures for our album cover.”
@@ -2335,12 +2440,13 @@ Watch for:
 ## S7 E10 — Grey Dawn
 URL: https://watchwiththekids.com/ep/south-park/0710.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys try to have South Park's senior citizens stripped of their driver's licenses after they go on a dangerous rampage.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Would you like a gun? Oh, I suppose so.”
 - Swearing — 8 moment(s)
-  - “You insensitive a**hole, Cartman! Nine people died! Yeah, but like, eight of them were hippies.”
-  - “Okay, all set? a**hole! Ooooh my God! Ah, I think there's a police car behind you, Grandpa.”
+  - “You insensitive asshole, Cartman! Nine people died! Yeah, but like, eight of them were hippies.”
+  - “Okay, all set? Asshole! Ooooh my God! Ah, I think there's a police car behind you, Grandpa.”
   - “Well, good job, Dad! Look at you now! Oh God damnit, don't you lecture me, you son of a bitch! You just had to be so damn stubborn, didn't you? Now my son is gonna talk to me like I'm twelve.”
   - “Seniors of South Park, I don't know about you, but I am mad as hell! Yeah! I'm sick of having my mental condition come into question! We need to let everyone know we're pissed off, and we're not gonna take it anymore!”
   - “…Yeah! That's right! That's right! They're gonna try and take our licenses away! And I, for one, am mad as hell!”
@@ -2351,17 +2457,18 @@ Watch for:
 ## S7 E11 — Casa Bonita
 URL: https://watchwiththekids.com/ep/south-park/0711.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman seeks revenge for not being invited to Kyle's birthday outing.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Now you say, "Ingmar Bergman who?" Take that, Jimmy! And that! And don't you ever talk bad about Kyle again! Kyle is my friend! And if you say you had sex with his mom one more time, I'm gonna really let you have it!”
 - Violence & injury — 1 moment(s)
   - “Do you really think that beating up a handicapped kid is being nice? He-hey Kyle! Knock knock.”
 - Swearing — 8 moment(s)
-  - “f*** off, Cartman! Okay, except maybe for that one time.”
-  - “Well, f*** you, Kyle!”
+  - “Fuck off, Cartman! Okay, except maybe for that one time.”
+  - “Well, fuck you, Kyle!”
   - “Butters?! You're gonna take that butthole? Why? Because Butters isn't a total dick to me! I have never been a dick to you.”
   - “You've always been a dick to me, Cartman, and I'm not inviting you.”
-  - “…Oh man, I'm so scared! Oh! Oh! Oh, that was awesome! Oh! Oh! Cliff divers! Come on! Come on, dive! Dive, a**hole!”
+  - “…Oh man, I'm so scared! Oh! Oh! Oh, that was awesome! Oh! Oh! Cliff divers! Come on! Come on, dive! Dive, asshole!”
   - “Wuh ih uh Weh come on, Kyle, who the hell else are you gonna take besides Stan and Kenny? I'm gonna take Butters.”
   - “I know we argue all the time and I give you tons of crap, but we've also been through a, a lot together, and maybe that alone doesn't make us friends, but it makes us something.”
   - “Man, that sucks about Butters.”
@@ -2369,14 +2476,15 @@ Watch for:
 ## S7 E12 — All About the Mormons?
 URL: https://watchwiththekids.com/ep/south-park/0712.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Mormon neighbors move into town, causing the citizens of South Park to become Mormons themselves.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Did you make out with him, too? What's the big deal? Can't I have other friends? You guys should give Gary a chance.”
 - Violence & injury — 1 moment(s)
   - “Aren't they so cute together? Hey! My family's on their way over to the fire station to donate blood.”
 - Swearing — 5 moment(s)
-  - “Come on, dude, somebody needs to wipe that f***in' smirk off his face! Yeah, little bitch! All right, I'm gonna go kick his ass.”
-  - “I'm really excited to live in this town and share all kinds of great experiences with you, my new friends! Oh, dude, what a little a**hole!”
+  - “Come on, dude, somebody needs to wipe that fuckin' smirk off his face! Yeah, little bitch! All right, I'm gonna go kick his ass.”
+  - “I'm really excited to live in this town and share all kinds of great experiences with you, my new friends! Oh, dude, what a little asshole!”
   - “Excuse me? I'm gonna kick your ass bitch.”
   - “" If he thinks he can fill my son's head with wacko religious crap, he's wrong! Randy, don't cause trouble.”
   - “Damn, that kid is cool, huh?”
@@ -2384,13 +2492,14 @@ Watch for:
 ## S7 E13 — Butt Out
 URL: https://watchwiththekids.com/ep/south-park/0713.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The guys rebel after an anti-smoking campaign begins at their school.
 Watch for:
 - Swearing — 10 moment(s)
-  - “…lot of horrible things in your life, but smoking? You're grounded for three weeks! Three weeks?! Are you f***ing kidding me?”
-  - “Oh sh*t, here comes Mr.”
-  - “M'kay, and uh, eh, what? What the? Holy sh*t! M'kay?! Oh! Jesus Christ! Woops.”
-  - “And that's called fascism, you tubby a**hole! God-dammit, there'll be no more smoking! It wasn't the tobacco companies' fault that we smoked.”
-  - “Reiner, why don't you Butt Out! I'm warning you: Don't mess with anti-smoking groups! I don't idolize you anymore, a**hole! My goo! My precious goo! So Kyle, it wasn't the tobacco company that made you wanna smoke? No.”
+  - “…lot of horrible things in your life, but smoking? You're grounded for three weeks! Three weeks?! Are you fucking kidding me?”
+  - “Oh shit, here comes Mr.”
+  - “M'kay, and uh, eh, what? What the? Holy shit! M'kay?! Oh! Jesus Christ! Woops.”
+  - “And that's called fascism, you tubby asshole! God-dammit, there'll be no more smoking! It wasn't the tobacco companies' fault that we smoked.”
+  - “Reiner, why don't you Butt Out! I'm warning you: Don't mess with anti-smoking groups! I don't idolize you anymore, asshole! My goo! My precious goo! So Kyle, it wasn't the tobacco company that made you wanna smoke? No.”
   - “…ones hurting our nation's health! I will not stand by and see the children of America corrupted by those bastards!”
   - “And if it gives me cancer when I'm eighty I don't care Who the hell wants to be ninety anyway?”
   - “Got it! Ha! You bastards are going down now!”
@@ -2400,16 +2509,17 @@ Watch for:
 ## S7 E14 — Raisins
 URL: https://watchwiththekids.com/ep/south-park/0714.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: When Stan's girlfriend breaks up with him, his friends try to cheer him up by bringing him to a local restaurant where lovely ladies hang out.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “We have things like hoola-hoops, silly string and water guns to play with the other girls.”
 - Swearing — 10 moment(s)
-  - “Just get outta our football game, you stupid skank! f*** you, fat ass! You guys are a**holes! Oh yeah, well, at least we have a**holes, you dumb girl! Yeah, that's right! God, you're so stupid! What a whore.”
-  - “Okay - Hey Wen-- Hey, Wendy? - Yeah? Stan says you're a cont- you're a cont Stan says you're a cont-cont-cont-- Well, tell Stan to f*** off! You're a cont-- continuing source of inspiration to him.”
-  - “Love didn't work for my mom and dad, why should it work for me? My dad is such an a**hole.”
+  - “Just get outta our football game, you stupid skank! Fuck you, fat ass! You guys are assholes! Oh yeah, well, at least we have assholes, you dumb girl! Yeah, that's right! God, you're so stupid! What a whore.”
+  - “Okay - Hey Wen-- Hey, Wendy? - Yeah? Stan says you're a cont- you're a cont Stan says you're a cont-cont-cont-- Well, tell Stan to fuck off! You're a cont-- continuing source of inspiration to him.”
+  - “Love didn't work for my mom and dad, why should it work for me? My dad is such an asshole.”
   - “Dinner? That's a laugh, just an excuse for my mom to bitch at me for not wearing girly clothes like all the Britney Spears wannabes at this school.”
   - “You are so creative, honey! Conformist bitch.”
-  - “Yeah, why don't you just go back to your Justin Timberlake and your homework, you conformist a**hole.”
+  - “Yeah, why don't you just go back to your Justin Timberlake and your homework, you conformist asshole.”
   - “Yeah, like Stan gives a crap if Wendy breaks up.”
   - “Dude, please, I might still have a chance to make things work! Please, just go talk to her! God damn it.”
   - “Hey, can we get more coffee over here? Damn it, are you kids just gonna sit here all night again and get and drink $6 worth of coffee?”
@@ -2419,21 +2529,22 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “Why? What's the point of living when the only girl I'll ever love is gone? God, what a fag! Dude, not now.”
 - Fat-shaming — 1 moment(s)
-  - “Just get outta our football game, you stupid skank! f*** you, fat ass! You guys are a**holes! Oh yeah, well, at least we have a**holes, you dumb girl! Yeah, that's right! God, you're so stupid! What a whore.”
+  - “Just get outta our football game, you stupid skank! Fuck you, fat ass! You guys are assholes! Oh yeah, well, at least we have assholes, you dumb girl! Yeah, that's right! God, you're so stupid! What a whore.”
 
 ## S7 E15 — It's Christmas in Canada
 URL: https://watchwiththekids.com/ep/south-park/0715.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Ike's Canadian birth parents come back to claim him, prompting the residents of South Park to collect money to get him back.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “My little brother was-- - Not so fast! - Ike! - Kyle! Prime Minister, these are the child's Canadian parents! Their Canadian blood pumps through his veins!”
   - “Family isn't about whose blood you have in you, family is about the people who cared about you and took care of you.”
 - Swearing — 10 moment(s)
-  - “No! No, this can't be happening! You f***ing a**hole!”
-  - “Oh no, no no no no, I am not flying in that thing! Me neither! Why not? 'Cause, dude, I'll f***in' die! You're not gonna die, Kenny.”
+  - “No! No, this can't be happening! You fucking asshole!”
+  - “Oh no, no no no no, I am not flying in that thing! Me neither! Why not? 'Cause, dude, I'll fuckin' die! You're not gonna die, Kenny.”
   - “Well now you're gonna get it, motherfucker!”
-  - “Oh boy! Some business! Finally! Herro? sh*tty Wok, take orda prease! Oh, I must have the wrong number.”
-  - “Herro, sh*tty Airrines.”
+  - “Oh boy! Some business! Finally! Herro? Shitty Wok, take orda prease! Oh, I must have the wrong number.”
+  - “Herro, Shitty Airrines.”
   - “Hey! What the hell is going on?! It's Scott! Who damaged our beloved Canadian land? Who's that? That's Scott! He's a dick!”
   - “…# Good-bye, friends! Good luck with the new Prime Minister! And remember to watch out for Scott! He's a dick!”
   - “Gerald, what the hell is going on? I'm not sure.”
@@ -2446,6 +2557,7 @@ Watch for:
 ## S8 E1 — 1. Good Times with Weapons
 URL: https://watchwiththekids.com/ep/south-park/0801.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: After buying some martial arts objects at a market, the boys turn into Japanese warriors to take on their enemy, Prof. Chaos.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I guess parents don't give a crap about violence if there's sex things to worry about.”
@@ -2457,12 +2569,12 @@ Watch for:
   - “Oh well, let's murder one of these other dogs.”
   - “But you know well that your Jewish blood won't let you.”
 - Swearing — 11 moment(s)
-  - “Professor Chaos cannot be stopped! Oh yeah?! Kenny! Use your ninja star! - Oh, f*** dude! - It's Butters.”
-  - “Butters! Butters! Oh, nice going, you a**holes! You made us lose him! Lose who? Butters! He got a ninja star stuck in his eye, and we were taking him to the vet when you f***ed it all up!”
-  - “C-Cartman should be punished! - Yeah! Hey, f*** you, Kyle! Heck, I c- I can't believe it.”
-  - “No a**hole! From now on you only get to have ONE power! So what is it?! I have the power to have all the powers I want.”
-  - “Butters! We're trying to help you, Goddamnit! Now, stop being such an a**hole! We need some more fur.”
-  - “We've gotta hurry, it's getting late! - Oh sh*t, somebody's coming!”
+  - “Professor Chaos cannot be stopped! Oh yeah?! Kenny! Use your ninja star! - Oh, fuck dude! - It's Butters.”
+  - “Butters! Butters! Oh, nice going, you assholes! You made us lose him! Lose who? Butters! He got a ninja star stuck in his eye, and we were taking him to the vet when you fucked it all up!”
+  - “C-Cartman should be punished! - Yeah! Hey, fuck you, Kyle! Heck, I c- I can't believe it.”
+  - “No asshole! From now on you only get to have ONE power! So what is it?! I have the power to have all the powers I want.”
+  - “Butters! We're trying to help you, Goddamnit! Now, stop being such an asshole! We need some more fur.”
+  - “We've gotta hurry, it's getting late! - Oh shit, somebody's coming!”
   - “We won't have to take crap from anybody.”
   - “That doesn't count, fatass! Yeah, that it, Cartman! You don't get to have any powers! C'mon! Well well well! If it isn't the four ninjas! - Who the hell is that?? - I dunno.”
   - “Oh my God! - Oh, dude! It's stuck in his eye! - What the hell did you do that for, Kenny?! It hurts! It hurts! Oh man! We are in serious trouble! Ssh sshhhh.”
@@ -2474,6 +2586,7 @@ Watch for:
 ## S8 E2 — 2. Up the Down Steroid
 URL: https://watchwiththekids.com/ep/south-park/0802.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Steroids become an issue as Timmy, Jimmy and Cartman train for a sporting event.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Jim, it's your father! I said I'm coming! Give me a Goddamned s-second! Jimmy, were you masturbating? Nn-no, Dad.”
@@ -2481,12 +2594,12 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “So uh, ha-how do they w-wwork? You just take one of these little blue babies three times a day and inject this directly into your bloodstream twice a day before meals.”
 - Swearing — 9 moment(s)
-  - “Sssso what are you gonna do now, huh?! You gonna be a f***in' narc and show that bbottle to the coaches?!”
-  - “Yeah! f*** yeah! Yeah, I did it! I'm the bbub-best! Congratulations, Jimmy.”
-  - “You're an a**hole, Cartman.”
-  - “…ever! I'm gonna be rich! What? Dude, I was just looking at the Special Olympics brochure, and check this sh*t out: "At the end of the Special Olympics, a Grand Champion Special Athlete is crowned and given a cash…”
+  - “Sssso what are you gonna do now, huh?! You gonna be a fuckin' narc and show that bbottle to the coaches?!”
+  - “Yeah! Fuck yeah! Yeah, I did it! I'm the bbub-best! Congratulations, Jimmy.”
+  - “You're an asshole, Cartman.”
+  - “…ever! I'm gonna be rich! What? Dude, I was just looking at the Special Olympics brochure, and check this shit out: "At the end of the Special Olympics, a Grand Champion Special Athlete is crowned and given a cash…”
   - “You're not leaving me! You try to leave me and I'll kill you, bitch!”
-  - “Eh, oh yeah?! Well, well you guys are a**holes! Grow up! WilLoW :--) 2005 Jan.”
+  - “Eh, oh yeah?! Well, well you guys are assholes! Grow up! WilLoW :--) 2005 Jan.”
   - “God damn you! You see, gentlemen? The Special Olympics Championship and my one thousand dollars is just four days away.”
   - “I know that I often have serious moral objections to the things that you do, but this time I think you really need to reconsider, because if you do this, I believe you will go to hell.”
   - “If you had seen The Passion you would know that Hell is reserved for the Jews, and all those who don't accept Christ.”
@@ -2494,16 +2607,17 @@ Watch for:
 ## S8 E3 — 3. The Passion of the Jew
 URL: https://watchwiththekids.com/ep/south-park/0803.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: "The Passion of the Christ" has an unusual effect on Stan, Cartman, Kyle and Kenny.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Gibson?! So! You boys have led me here to your secret base, huh? I guess now you're gonna start torturing me! Well! Oh, my nipples are so tender!”
 - Swearing — 9 moment(s)
-  - “…feet tall! I don't care! You sound like a little bitch to me! Bitch?! Don't call me bitch! I'll pop your f***in' head open!”
-  - “Mel Gibson is f***ing crazy dude!”
-  - “I'm not arguing about The Passion! He's being an a**hole! You know what it is? You're scared.”
-  - “You're a stupid a**hole! Sweeet, now I can just play with myself.”
+  - “…feet tall! I don't care! You sound like a little bitch to me! Bitch?! Don't call me bitch! I'll pop your fuckin' head open!”
+  - “Mel Gibson is fucking crazy dude!”
+  - “I'm not arguing about The Passion! He's being an asshole! You know what it is? You're scared.”
+  - “You're a stupid asshole! Sweeet, now I can just play with myself.”
   - “Now stop wasting me and Mel Gibson's time, you little wussy prick.”
-  - “Oh, you've got to be sh*ttin' me.”
+  - “Oh, you've got to be shittin' me.”
   - “Oh, we will! This is America! And in America, if something sucks, you're supposed to be able to get your money back!”
   - “Mel Gibson is right behind you and he's gonna- What the hell? - Hey! That's Mel Gibson! - Yeah.”
   - “I told you that! Well, what the hell does he want?! He wouldn't give us our money back for The Passion, so we kinda took it.”
@@ -2513,6 +2627,7 @@ Watch for:
 ## S8 E4 — 4. You Got F**ked in the Ass
 URL: https://watchwiththekids.com/ep/south-park/0804.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Stan tries to put together a group of competitive dancers to challenge some rivals from Orange County.
 Watch for:
 - Homophobic jokes — 1 moment(s)
   - “People will think we're fags.”
@@ -2520,14 +2635,15 @@ Watch for:
 ## S8 E5 — 5. Awesom-o
 URL: https://watchwiththekids.com/ep/south-park/0805.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman disguises himself as a robot so he can learn secrets about Butters to use against him.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “I would like to see what he looks like so I can beat him up for you.”
 - Swearing — 8 moment(s)
-  - “The f*** are you talkin' about, dude?! Ah, I'm sorry, robot, they want me to reprogram you.”
-  - “No, he's not smart ! He's just an a**hole.”
+  - “The fuck are you talkin' about, dude?! Ah, I'm sorry, robot, they want me to reprogram you.”
+  - “No, he's not smart ! He's just an asshole.”
   - “Oh, son of a bitch ! Hey there have you heard about my robot friend ? He's metal and small and doesn't judge me at all.”
-  - “Kill that son of a bitch! No! Look, Goddamnit! Now I can show you stupid a**holes who I really am! AWESOM-O! I am the AWESOM-O 4000.”
+  - “Kill that son of a bitch! No! Look, Goddamnit! Now I can show you stupid assholes who I really am! AWESOM-O! I am the AWESOM-O 4000.”
   - “Wow, that sucks.”
   - “What the hell are you doing, fatass? Dude, are you still pretending to be a robot? I just need to uh make Butters think I'm a robot for a little while longer.”
   - “What the hell? What's going on? It powered itself back on.”
@@ -2540,6 +2656,7 @@ Watch for:
 ## S8 E6 — 6. The Jeffersons
 URL: https://watchwiththekids.com/ep/south-park/0806.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: A mysterious gentleman and his son create controversy in South Park.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2549,8 +2666,8 @@ Watch for:
   - “Framin' rich black men for crimes they didn't commit is in your blood.”
   - “All right, when this Jefferson guy shows up, arrest him fast and try not to beat him.”
 - Swearing — 10 moment(s)
-  - “Jefferson, ih it might be good for Blanket to learn how to chop wood Blanket likes to play, don't you Blanket? Wee, look! He can fly! Jesus Christ, dude! Aaaaaah!! Stop, you f***ing lunatic!!”
-  - “You guys better not be trying to Bogart my friend away! What? He is MY friend, got it?! I was friends with him before you a**holes were, and I hoowi- Stan!”
+  - “Jefferson, ih it might be good for Blanket to learn how to chop wood Blanket likes to play, don't you Blanket? Wee, look! He can fly! Jesus Christ, dude! Aaaaaah!! Stop, you fucking lunatic!!”
+  - “You guys better not be trying to Bogart my friend away! What? He is MY friend, got it?! I was friends with him before you assholes were, and I hoowi- Stan!”
   - “Jefferson, I have to go to school tomorrow! Oh, son of a bitch! I knew it! What the hell are you doing, Stan?! I'll tell you what you're doing! You're trying to steal MY best friend! He just showed up here.”
   - “…either! Oh Jesus ! This is Yeats! Stand down! I repeat, stand down! Suspect is not black! You son of a bitch, you told my this guy was African-American!”
   - “What the hell is going on?! Are you having Mr.”
@@ -2565,15 +2682,16 @@ Watch for:
 ## S8 E7 — 7. Goobacks
 URL: https://watchwiththekids.com/ep/south-park/0807.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: South Park becomes flooded with time travelers from the future.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Hundreds of men who have lost their jobs to time immigrants are here having sex with one another.”
   - “These unemployed men have been having sex for several days.”
 - Swearing — 10 moment(s)
-  - “What? You've been on your f***ing phone since we started! Dude, I'm takin' a break.”
-  - “…share of the money, then you're gonna shovel snow like the rest of us! Hey! Don't boss me around, you f***in' Jew!”
-  - “…age?! Well you know, the global warming could bring on like a climate shift or somethin'? Chet, you are a f***in' retard, you know that?!”
-  - “…sandwich? No, it's not a chicken sandwich! I want a Goddamned cheeseburger and some Goddamned fries you f***ing goobacks!”
+  - “What? You've been on your fucking phone since we started! Dude, I'm takin' a break.”
+  - “…share of the money, then you're gonna shovel snow like the rest of us! Hey! Don't boss me around, you fuckin' Jew!”
+  - “…age?! Well you know, the global warming could bring on like a climate shift or somethin'? Chet, you are a fuckin' retard, you know that?!”
+  - “…sandwich? No, it's not a chicken sandwich! I want a Goddamned cheeseburger and some Goddamned fries you fucking goobacks!”
   - “Son of a bitch! Still more immigrants from the future arrived at the time border today, some even bringing their entire families.”
   - “On my right is pissed-off white-trash redneck conservative.”
   - “Now, pissed-off redneck, you say we shouldn't allow anyone else through the time portal, aright?”
@@ -2586,15 +2704,16 @@ Watch for:
 ## S8 E8 — 8. Douche and Turd
 URL: https://watchwiththekids.com/ep/south-park/0808.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The kids have to choose a new mascot after an animal-rights group protests.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “But now that you know where our compound is, you'll either have to live with us, or be murdered.”
   - “Hey everybody! They just found all the PETA members murdered at their compound!”
   - “"Vote or Die"? What the hell does that even mean?! What you think it means, bitch! AAAAH!! Vote or die, mother_, mother_er, vote or die! Rock the vote or else I'm gonna stick a knife through your eye.”
 - Swearing — 7 moment(s)
-  - “…want me to vote you wanted me to vote for your guy! Well, I just figured you'd vote for my guy! Who's f***in' friend are you?!”
-  - “You won't get more votes than us, a**hole! Dream on, Jew boy! Yeah, dream on, Jew boy! Be sure to vote for Giant Douche.”
-  - “Do you really want that a**hole to win? I'm not voting! What? Y-you gotta vote, dude.”
+  - “…want me to vote you wanted me to vote for your guy! Well, I just figured you'd vote for my guy! Who's fuckin' friend are you?!”
+  - “You won't get more votes than us, asshole! Dream on, Jew boy! Yeah, dream on, Jew boy! Be sure to vote for Giant Douche.”
+  - “Do you really want that asshole to win? I'm not voting! What? Y-you gotta vote, dude.”
   - “…a turd sandwich? Well you're not exactly Einstein! I am sick of you belittling my opinion, you son of a bitch!”
   - “"Vote or Die"? What the hell does that even mean?! What you think it means, bitch! AAAAH!! Vote or die, mother_, mother_er, vote or die! Rock the vote or else I'm gonna stick a knife through your eye.”
   - “Goddamnit PETAns piss me off! We're never gonna end up with a stupid eagle or a faggy bobcat as a mascot.”
@@ -2605,9 +2724,10 @@ Watch for:
 ## S8 E9 — 9. Something Wall-Mart This Way Comes
 URL: https://watchwiththekids.com/ep/south-park/0809.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: South Park is invaded by a giant shopping center that threatens the quiet little town.
 Watch for:
 - Swearing — 6 moment(s)
-  - “That is f***ing stupid, Cartman! Oh yeah?! I'll bet you five bucks that when you die you crap your pants, a**hole! Hey everybody, it's time! It's time! It's time.”
+  - “That is fucking stupid, Cartman! Oh yeah?! I'll bet you five bucks that when you die you crap your pants, asshole! Hey everybody, it's time! It's time! It's time.”
   - “You guys know what? Um, the last thing you dowhen you die, is crap your pants.”
   - “What? Yeah, when you die, your jowels release and crap comes flying out your ass.”
   - “Three copies for eighteen bucks! Why the hell would you want three copies of the same movie?”
@@ -2617,6 +2737,7 @@ Watch for:
 ## S8 E10 — Pre-School
 URL: https://watchwiththekids.com/ep/south-park/0810.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman, Butters, Kenny, Stan and Kyle fear that a secret may get out when an old adversary turns up in town.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “How the hell are condoms gonna help us?! Sorry, heh.”
@@ -2633,9 +2754,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “And one switchblade knife with "Kill all betrayers" written on the blade, black.”
 - Swearing — 6 moment(s)
-  - “We're firemen! Do you f***heads even know how to put out a fire? Yeah yeah, we play Fireman all the time.”
-  - “Claridge? You guys, what the f*** are we gonna do?! In case you've forgotten, Trent Boyett is the meanest kid we ever knew.”
-  - “He's the toughest, baddest kid in preschool! Say Encore! Encore! Say Encore! Encore! What do you sh*theads want?! Do you know how to start a fire? Sure! I burn lots stuff.”
+  - “We're firemen! Do you fuckheads even know how to put out a fire? Yeah yeah, we play Fireman all the time.”
+  - “Claridge? You guys, what the fuck are we gonna do?! In case you've forgotten, Trent Boyett is the meanest kid we ever knew.”
+  - “He's the toughest, baddest kid in preschool! Say Encore! Encore! Say Encore! Encore! What do you shitheads want?! Do you know how to start a fire? Sure! I burn lots stuff.”
   - Just tell us this: “do you trust that we want what's best for you, yes or no? All right, fine! But someday you're gonna have to learn to let people in! Bitch.”
   - “When did-? What did you say? Trent Boyett? Meanest, dirtiest, toughest kid in the world, super-pissed off at US Trent Boyett?? Yeah.”
   - “Oh, Holy Jesus, God is What the hell are we gonna do?? Hey, is it true?? Trent Boyett is getting out?? It's true.”
@@ -2645,6 +2766,7 @@ Watch for:
 ## S8 E11 — Quest for Ratings
 URL: https://watchwiththekids.com/ep/south-park/0811.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman becomes a network honcho when he and the boys launch a morning news show on the school's closed-circuit TV station.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It should be Sexy News.”
@@ -2654,28 +2776,29 @@ Watch for:
   - “We've also got confirmation that Sally Turner stuffs her bra.”
   - “Hey! Let's run naked through the street! Dude, this TV show is awesome.”
 - Swearing — 6 moment(s)
-  - “Hello boys, ready to do some whistlin'? f*** off, Whistlin' Willy.”
-  - “They're doing it in the hallways! Behind the school! Hey, get out of here, you f***in' dork!”
-  - “Your idea took about this much thought, Craig! This much more than you had! Hey, a round of root beers for everyone! On me! (Woohoo!) Kenny, what the hell are you doing with this a**hole??”
-  - “One testicle! What an a**hole! Uh oh, looks like it's Panda Bear Madness Minute! Oh yeah, Panda Bear Madness! And now, let's get a look at the celebrity scene shot, with Butters.”
+  - “Hello boys, ready to do some whistlin'? Fuck off, Whistlin' Willy.”
+  - “They're doing it in the hallways! Behind the school! Hey, get out of here, you fuckin' dork!”
+  - “Your idea took about this much thought, Craig! This much more than you had! Hey, a round of root beers for everyone! On me! (Woohoo!) Kenny, what the hell are you doing with this asshole??”
+  - “One testicle! What an asshole! Uh oh, looks like it's Panda Bear Madness Minute! Oh yeah, Panda Bear Madness! And now, let's get a look at the celebrity scene shot, with Butters.”
   - “But that's that's crap! That's not even TV! It's what the students want, and it's cheaper to make than your show.”
   - “Get to it! Nobody has any ideas? This sucks.”
 
 ## S8 E12 — Stupid Spoiled Whore Video Playset
 URL: https://watchwiththekids.com/ep/south-park/0812.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: South Park is abuzz over a visit from a famous socialite.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They're having a huge sex party right now and I'm not invited.”
 - Nudity & bodies — 1 moment(s)
   - “Why is everybody so stupid anyway? I flashed all these hicks with my boobs; you should've seen the look on their faces! Stupid redneck idiots! Oh dear Another dog killed itself! Hey Jessie, hey Kal.”
 - Swearing — 6 moment(s)
-  - “Bye! Give me that! f***ing Christ I need a drink! Where's my dog?! Wow, look at all this great stuff.”
-  - “Thanks, Annie! God, get me out of this hick town! What a bunch of rednecks! Everybody's so f***ing lame.”
-  - “" f*** you Millie, f*** you Annie, f*** you Bebe, f*** you whatever your name is, and f*** you, bitch! Huh.”
-  - “Biggles! Paris Hilton is a nobody! She may have money, but she's a thoughtless, talentless lowlife! Who the f*** are you calling a lowlife?!”
+  - “Bye! Give me that! Fucking Christ I need a drink! Where's my dog?! Wow, look at all this great stuff.”
+  - “Thanks, Annie! God, get me out of this hick town! What a bunch of rednecks! Everybody's so fucking lame.”
+  - “" Fuck you Millie, fuck you Annie, fuck you Bebe, fuck you whatever your name is, and fuck you, bitch! Huh.”
+  - “Biggles! Paris Hilton is a nobody! She may have money, but she's a thoughtless, talentless lowlife! Who the fuck are you calling a lowlife?!”
   - “Wow, what a bitch.”
-  - “Now, that's a whore! Wow, I guess Paris isn't such hot sh*t after all.”
+  - “Now, that's a whore! Wow, I guess Paris isn't such hot shit after all.”
 - Alcohol & drugs — 2 moment(s)
   - “I need to get wasted.”
   - “Oh my God, I'm so wasted! The room's all spinny.”
@@ -2691,6 +2814,7 @@ Watch for:
 ## S8 E13 — Cartman's Incredible Gift
 URL: https://watchwiththekids.com/ep/south-park/0813.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman is imbued with the power to see into the future after he's hit on the head.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"You come home rigtht now and have sex with me!”
@@ -2704,9 +2828,9 @@ Watch for:
   - “…Well, I followed this guy to his house, and when he left again, I collected some fingerprints and did a blood-sample analysis.”
   - “Look, kid, don't waste my time with your blood-sampling fingerprinty hocus-pocus!”
 - Swearing — 6 moment(s)
-  - “Johansen runs a candy shop! He wasn't a killer and you know it! Then why did I see ice cream and cookies when I closed my eyes? Because you're a f***ing fatass, that's why?!”
-  - “This is f***in' ridiculous! Whattaya got, wunderkind? Are ya seeing anything? No.”
-  - “Good, because you a**holes have kept me up for three hours! All right, let's go, Murphy.”
+  - “Johansen runs a candy shop! He wasn't a killer and you know it! Then why did I see ice cream and cookies when I closed my eyes? Because you're a fucking fatass, that's why?!”
+  - “This is fuckin' ridiculous! Whattaya got, wunderkind? Are ya seeing anything? No.”
+  - “Good, because you assholes have kept me up for three hours! All right, let's go, Murphy.”
   - “Why the hell do I have to share my room with other patients? This is bullcrap! Oh, you're sounding just like your old self again.”
   - “Jesus, how did he? Little boy Well it's a snowball's chance in hell but we were wondering if you could come down and see if your.”
   - “He can't do crap! Fine, Kyle! You asked for it! Hee-at! There he is! Hey, Eric! We've got a little problem.”
@@ -2716,6 +2840,7 @@ Watch for:
 ## S8 E14 — Woodland Critter Christmas
 URL: https://watchwiththekids.com/ep/south-park/0814.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Woodland creatures ask Stan to help them build a manger.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Porcupiney is a virgin, Stanny.”
@@ -2724,13 +2849,14 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “…for a celebration! Let's sacrifice Rabbity and eat his flesh! Yay! Sacrifice me to the Devil! Drink his blood!”
 - Swearing — 3 moment(s)
-  - “For the critters to be saved, someone had to stop that nasty old cat Goddamnit, this is f***ing ridiculous! Said the little boy in the red poofball hat.”
+  - “For the critters to be saved, someone had to stop that nasty old cat Goddamnit, this is fucking ridiculous! Said the little boy in the red poofball hat.”
   - “What the hell? Christmastime is once a year Every critter holds it dear Every animal big or small Christmas means so much to us all Well hello there.”
   - “Hi there! What the hell? How come you're all alone on Christmas Eve.”
 
 ## S9 E1 — 1. Mr. Garrison's Fancy New Vagina
 URL: https://watchwiththekids.com/ep/south-park/0901.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
+Summary: In the season 9 premiere, Mr. Garrison looks to become a woman, and Kyle works in improving his basketball skills.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “A sex-change operation is my last chance at happiness.”
@@ -2742,7 +2868,7 @@ Watch for:
   - “…Hi gals! Oh boy, can you believe the sales they're havin' out there? Well, I'm about to pee out my vagina for the first time.”
   - “It's still me; I just have a vagina instead of a penis.”
 - Swearing — 3 moment(s)
-  - “Hey a**hole! - Excuse me, I'm performing an operation here! - You told me you were going to make me into a woman! - I gave you a sex change.”
+  - “Hey asshole! - Excuse me, I'm performing an operation here! - You told me you were going to make me into a woman! - I gave you a sex change.”
   - “Biber is about to get his ass bitten off! Who the hell do you think you are?! Dr.”
   - “It's Girls Gone Wild! These gilrs will do anything! Oh jeez, should I do it?! Should I do it?! Oh what the hell!”
 - Homophobic jokes — 2 moment(s)
@@ -2754,6 +2880,7 @@ Watch for:
 ## S9 E2 — 2. Die Hippie, Die
 URL: https://watchwiththekids.com/ep/south-park/0902.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
+Summary: Hippies, the bane of Cartman's existence, threaten to overrun South Park when they plan a weeklong music festival in town.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “…a geologist! We don't have time to argue! They're gonna nuke us! Put them in my laptop! Slayer - "Raining Blood" Oh man, not cool.”
@@ -2765,12 +2892,13 @@ Watch for:
 ## S9 E3 — 3. Wing
 URL: https://watchwiththekids.com/ep/south-park/0903.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Cartman, Kenny, Stan and Kyle become talent agents with one client.
 Watch for:
 - Swearing — 10 moment(s)
-  - “sh*tty Wok, take your order prease.”
-  - “Welcome to sh*tty Wok, take your order prease? Aw crap, Chinese Mafia! Mr.”
-  - “Goddamnit! Goddamnit! We can't wait in line! We have to be in school on Monday! Stupid a**holes!”
-  - “You a**holes stole our client!”
+  - “Shitty Wok, take your order prease.”
+  - “Welcome to Shitty Wok, take your order prease? Aw crap, Chinese Mafia! Mr.”
+  - “Goddamnit! Goddamnit! We can't wait in line! We have to be in school on Monday! Stupid assholes!”
+  - “You assholes stole our client!”
   - “What the hell are you doing?! I'm making it look like important people call us.”
   - “So do we! - Oh crap! - Dude, how long is the wait? It's been about 17 days for me.”
   - “…silk dress, Wing! - Come on, Wing! - Let's do it Wing! Brint it on Wing! Oh my God, dude! She's got a hell of a chin on her, I'll give her that.”
@@ -2781,6 +2909,7 @@ Watch for:
 ## S9 E4 — 4. Best Friends Forever
 URL: https://watchwiththekids.com/ep/south-park/0904.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Kenny is able to purchase a gaming device that's been sold out, straining his friendship with Cartman.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Removing the feeding tube is murder, Removing the feeding tube is murder!”
@@ -2796,10 +2925,11 @@ Watch for:
 ## S9 E5 — 5. The Losing Edge
 URL: https://watchwiththekids.com/ep/south-park/0905.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys become bored with baseball after a long winning streak.
 Watch for:
 - Swearing — 9 moment(s)
-  - “That was no strike! What the hell is wrong with you, ref? Good call, ref! Good call! Come on, Alan! This pitcher throws like a girl! What'd you say?! You heard me, a**hole!”
-  - “You want a piece of me?! 'Cause I'm pretty sick of your Goddamned mouth! Whattaya wanna do, huh? Whattaya wanna do? Randy, don't! You'd better shut up, a**hole!”
+  - “That was no strike! What the hell is wrong with you, ref? Good call, ref! Good call! Come on, Alan! This pitcher throws like a girl! What'd you say?! You heard me, asshole!”
+  - “You want a piece of me?! 'Cause I'm pretty sick of your Goddamned mouth! Whattaya wanna do, huh? Whattaya wanna do? Randy, don't! You'd better shut up, asshole!”
   - “…before I kick your ass! Come on, let's go! I'm right here! Randy Sit down before you get hurt! Mother bitch!”
   - “Hit it out of the park, Alan! South Park sucks! Just look at those boys out there, lovin' the great game of baseball like we did when we were kids.”
   - “Boy, you really beat the crap out of that Conifer dad.”
@@ -2813,14 +2943,15 @@ Watch for:
 ## S9 E6 — 6. The Death of Eric Cartman
 URL: https://watchwiththekids.com/ep/south-park/0906.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Butters believes he can talk to the dead.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Mom! - She's here! She's got Colonel! - I want some! - I want a breast! Some extra-crispy thighs, extra crispy? Uuh uh uh, not so fast.”
 - Violence & injury — 1 moment(s)
   - “Three convicted murderers have escaped from jail and are holding twelve people at the Red Cross!”
 - Swearing — 6 moment(s)
-  - “Goddamnit, what the f*** is going on? Well, I guess saying goodbye wasn't enough.”
-  - “I can't believe that fat a**hole! You can't believe it?? He does this sh*t all the time! Well this time he's gone too far.”
+  - “Goddamnit, what the fuck is going on? Well, I guess saying goodbye wasn't enough.”
+  - “I can't believe that fat asshole! You can't believe it?? He does this shit all the time! Well this time he's gone too far.”
   - “Go, go! The hostages are clear! All right, move in! The hostages are gone! What?! Son of a bitch.”
   - “Broke fence took a crap in the principal's purse seven times.”
   - “This psychic boy and his ghost pal are going to save the day! Stay back, people! Stay back?! Hell, my wife and child are in there! Stay calm in there.”
@@ -2833,6 +2964,7 @@ Watch for:
 ## S9 E7 — 7. Erection Day
 URL: https://watchwiththekids.com/ep/south-park/0907.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Jimmy has trouble controlling his hormones right before the big talent show.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “No room at the inn, Virgin Mary.”
@@ -2851,8 +2983,8 @@ Watch for:
   - “Well, that's it, I just pissed blood! So I have to stick a tampon up my peehole.”
   - “…you jackass just now, but I'm very upset! And what are you gonna do, huh?! I've got four feet on you AND a gun!”
 - Swearing — 7 moment(s)
-  - “…already dead, ho! Sir! I paid for that lady, and by taking her, you are no better than a common th-thief! f*** you, punk!”
-  - “D'you know what you are? You're all a bunch of f***ing cock roaches!”
+  - “…already dead, ho! Sir! I paid for that lady, and by taking her, you are no better than a common th-thief! Fuck you, punk!”
+  - “D'you know what you are? You're all a bunch of fucking cock roaches!”
   - “You got a problem, bitch?! Yes, I do have a problem, as a matter of fact! I've spent all my money on this ho, and she's now my only shot at getting laid, and the talent show is only a couple of hours from being over.”
   - “You're gonna pay for this, bitch! No! Heelllp!! Don't worry, Nut Gobbler! I'm coming! Oh Jesus, not now.”
   - “Well why the hell not?! He's what Oh, you do? R r right now, right now it is? on'kay, on'kay.”
@@ -2864,13 +2996,14 @@ Watch for:
 ## S9 E8 — 8. Two Days Before the Day After Tomorrow
 URL: https://watchwiththekids.com/ep/south-park/0908.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
+Summary: The town of Beaverton is flooded when a mammoth beaver dam breaks. Is global warming to blame? Only Stan and Cartman know for sure.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “My leg is broken, and my left boob is leaking.”
 - Violence & injury — 1 moment(s)
   - “We've gotta keep the blood flowing.”
 - Swearing — 4 moment(s)
-  - “No, noo!! Hey, wait up you a**holes! God.”
+  - “No, noo!! Hey, wait up you assholes! God.”
   - “Hey everybody! They just found out what caused the flood in Beaverton! Aww, crap! Quiet, children, quiet.”
   - “This is all your fault, Jimbo! Me? Yeah! You drive that damn SUV around.”
   - “What, Frank? Oh, oh God damn it! Hello? Anybody? We'd like to be rescued, please.”
@@ -2882,13 +3015,14 @@ Watch for:
 ## S9 E9 — 9. Marjorine
 URL: https://watchwiththekids.com/ep/south-park/0909.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys decide to fake Butters' death and resurrect him as a girl.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Your son is at the Bowery Building threatening to kill himself.”
 - Swearing — 7 moment(s)
-  - “My mom? Hello ? Butters! Just what the f*** do you think you're doing?! Well, I'm just havin' some fun with my girlfriends.”
-  - “You aren't there to have fun, you black a**hole! You were supposed to be getting the future-telling device.”
-  - “Naw, dude, then it won't be fun to watch! Will you all just shut up so I can do this?! You shut up, a**hole!”
+  - “My mom? Hello ? Butters! Just what the fuck do you think you're doing?! Well, I'm just havin' some fun with my girlfriends.”
+  - “You aren't there to have fun, you black asshole! You were supposed to be getting the future-telling device.”
+  - “Naw, dude, then it won't be fun to watch! Will you all just shut up so I can do this?! You shut up, asshole!”
   - “…Cartman! That's retarded! You, sir, mocked Cartman before, yet you two sit here demanding answers! Now damn you let him speak!”
   - “Lezzing out? What's lezzing out? Now look, Butters, when the girls bring out the future-telling device, pay attention to how it works Once you know how to operate it, just grab it and get the hell out of there.”
   - “No! That darn device is nothin' but trouble! Ah I'm done, and I'm goin' home to tell my Mom and Dad I'm not dead! What the hell?”
@@ -2897,6 +3031,7 @@ Watch for:
 ## S9 E10 — Follow That Egg
 URL: https://watchwiththekids.com/ep/south-park/0910.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Townsfolk rally against gay marriage, especially Mr. Garrison, whose ex Mr. Slave plans to wed Big Gay Al.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I've forgiven you for walking out on me after I had my sex change, and uh And I'm ready to take you back, Mr.”
@@ -2904,9 +3039,9 @@ Watch for:
   - “…I am the greatest killer the world has ever seen!! Then why are you scared of one little ehhhhgg?! I will murder that egg!”
   - “I tried to cover it up, tried to put it back together with modeling glue, tried to seal it with a soldering gun, but, I give up.”
 - Swearing — 10 moment(s)
-  - “And everyone is happy! Well what about lesbians?! Well like anyone cares about f***in' dykes.”
-  - “Damnit, damnit! Stan and Kyle's egg is still doin' fine! Those little a**holes are screwin' up my entire plan! Yes, what?! What the hell is this?! I broke the egg.”
-  - “I'm gonna come over so that we can take our egg to school together, all right? Aah, you'd like that, wouldn't you?! I took care of this egg, Kyle, not you! Okay, Stan, you've been an a**hole to me all week!”
+  - “And everyone is happy! Well what about lesbians?! Well like anyone cares about fuckin' dykes.”
+  - “Damnit, damnit! Stan and Kyle's egg is still doin' fine! Those little assholes are screwin' up my entire plan! Yes, what?! What the hell is this?! I broke the egg.”
+  - “I'm gonna come over so that we can take our egg to school together, all right? Aah, you'd like that, wouldn't you?! I took care of this egg, Kyle, not you! Okay, Stan, you've been an asshole to me all week!”
   - “Slave! Well, give us a kiss! Slave, honey, is that the pizza? What the hell is he doing here?! Mr.”
   - “…I say: Marriage is a holy sacrament between a man and a woman! Who is that lady? I don't know, but she is pissed.”
   - “That's because I was pissed off! At who? Hang on.”
@@ -2922,27 +3057,29 @@ Watch for:
   - “Jealous of what?! I'm doin' this out of principle! To protect the sanctity of marriage! Fags are gettin' married over MY DEAD BODY!! Hello? Oh hey dude.”
   - “…out of them! Come on, everybody! Let's get some queers, and some trucks, and have us a good old-fashioned fag drag!”
   - “Yeah ! Eh fah, fag drag? Governor, we have collected over one thousand signatures requesting that you veto this gay-marriage bill! Oh jeez, I knew this would happen.”
-  - “And everyone is happy! Well what about lesbians?! Well like anyone cares about f***in' dykes.”
+  - “And everyone is happy! Well what about lesbians?! Well like anyone cares about fuckin' dykes.”
 
 ## S9 E11 — Ginger Kids
 URL: https://watchwiththekids.com/ep/south-park/0911.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Ostracized for his appearance because of a case of "gingervitus," Cartman goes on a campaign against discrimination.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “My fellow gingers! The day of reckoning is finally upon us! Cartman ? Oh Jesus, I should have known! What we begin here, we will take worldwide, until the blood of every non-ginger child has been spilled!”
 - Swearing — 6 moment(s)
   - “That's right! This is bullcrap! We True Gingers are furious that the role of Annie is being minimalized! What harm do you believe this actress is doing to the true red-haired community? The bitch isn't ginger!”
-  - “…ginger, it'll be hysterical! Are you in? totally You know, Cartman is an uncaring, bigoted intolerant a**hole, but I have to admit, I had my own prejudice about gingers.”
-  - “You are such a manipulative a**hole, Cartman Yes, but I'm not going to die.”
+  - “…ginger, it'll be hysterical! Are you in? totally You know, Cartman is an uncaring, bigoted intolerant asshole, but I have to admit, I had my own prejudice about gingers.”
+  - “You are such a manipulative asshole, Cartman Yes, but I'm not going to die.”
   - “" Ho! Daywalkers! This is all a bunch of crap! Mrs.”
   - “That's a great idea! Can you guys meet me over at Cartman's house tonight at around midnight? Sure, for what? We're gonna teach that fat bastard a lesson!”
   - “The hell do they want?? Kenny ! Run dude, run ! Uh Gi ginger kids! AAAAAH! Clyde? What is it, honey?? Ginger kids! Nooo! Laaa la, laaa lala.”
 - Racism & slurs — 1 moment(s)
-  - “…he isn't really ginger, it'll be hysterical! Are you in? totally You know, Cartman is an uncaring, bigoted intolerant a**hole, but I have to admit, I had my own prejudice about gingers.”
+  - “…he isn't really ginger, it'll be hysterical! Are you in? totally You know, Cartman is an uncaring, bigoted intolerant asshole, but I have to admit, I had my own prejudice about gingers.”
 
 ## S9 E12 — Trapped in the Closet
 URL: https://watchwiththekids.com/ep/south-park/0912.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Religious leaders think Stan is the "Golden Child," prompting believers to camp in front of his house.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “I asked myself why won't Tom Cruise just come out the closet? Nobody has no answers and so I pull out my gun!”
@@ -2950,8 +3087,8 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Neither did I! Stanley, do you have any concept of money at all? Money doesn't grow on trees, you know? Don't you care that I'm depressed?! What if I become suicidal, or, or become an alcoholic like Grandpa?”
 - Swearing — 6 moment(s)
-  - “…dollars! Three milliion dollars? That's how the scam works! But this is a scam on a global scale! Do you f***ing get me now?!”
-  - “Man, this is some crazy sh*t.”
+  - “…dollars! Three milliion dollars? That's how the scam works! But this is a scam on a global scale! Do you fucking get me now?!”
+  - “Man, this is some crazy shit.”
   - “I'm gonna cap some bitch.”
   - “Stan! What the hell did you do?! I don't know! Hello young man.”
   - “It is a great honor to meet you! All right, what the hell is going on here?! We've been looking for your son for a long time, Mr.”
@@ -2960,6 +3097,7 @@ Watch for:
 ## S9 E13 — Free Willzyx
 URL: https://watchwiththekids.com/ep/south-park/0913.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle bonds with a marine-park whale and gets the boys to help try to return the creature to its family.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “He said my dad was gonna sneak into my room naked one night and beat me up.”
@@ -2967,8 +3105,8 @@ Watch for:
   - “…All right! That whale belongs to a sea park! It belongs with its family! That's right! I said drop the gun NOW!”
   - “They've moved on to another town! We don't know that! If they've moved on, then we have no leads! This is fate, Brian! It's fate! For telling the kids their naked dads were gonna beat them up!”
 - Swearing — 8 moment(s)
-  - “Let's go! Hey you guys! You guys are not gonna believe this! What? Dude, he talks! The orca whale talks! (What the f*** are you talking about?) I went up to Jambu's tank and I tapped three times like the trainer did.”
-  - “We told them that a-and they told us to go f-f*** ourselves.”
+  - “Let's go! Hey you guys! You guys are not gonna believe this! What? Dude, he talks! The orca whale talks! (What the fuck are you talking about?) I went up to Jambu's tank and I tapped three times like the trainer did.”
+  - “We told them that a-and they told us to go f-fuck ourselves.”
   - “…its family! That's right! I said drop the gun NOW! Save the whales! Jesus, Oh God! Save the whales, motherfucker!”
   - “What the hell? How could you not have seen anything? It's a whale, for Christ's sake! It must have been taken while I was going to the bathroom.”
   - “Those bastards have done stuff like this before.”
@@ -2979,6 +3117,7 @@ Watch for:
 ## S9 E14 — Bloody Mary
 URL: https://watchwiththekids.com/ep/south-park/0914.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
+Summary: After his drunken-driving arrest, Stan's dad believes a visit to a bleeding statue of the Virgin Mary will cure his drinking problem.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “The statue of the Virgin Mary has started to bleed.”
@@ -3004,6 +3143,7 @@ Watch for:
 ## S10 E1 — 1. The Return of Chef
 URL: https://watchwiththekids.com/ep/south-park/1001.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Chef Jerome McElroy returns, though the kids notice he's not quite the same.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Like what? I think I think he wants to have sex with me.”
@@ -3018,8 +3158,8 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “But every time he got somewhere, he realized that other explorers had beat him to it.”
 - Swearing — 10 moment(s)
-  - “Dude, what are you saying? I'm gonna make love to your a**hole, children.”
-  - “No, Chef, we don't wanna make love to you! Kenny, how would you like to sodomize my black ass? Chef, Chef! You need to get out of here before you get arrested, all right?! I specializes in your a**hole, Kyle.”
+  - “Dude, what are you saying? I'm gonna make love to your asshole, children.”
+  - “No, Chef, we don't wanna make love to you! Kenny, how would you like to sodomize my black ass? Chef, Chef! You need to get out of here before you get arrested, all right?! I specializes in your asshole, Kyle.”
   - “Ha! I knew it! Knew what? The reason Chef has been saying those terrible things about us is because he's been brainwashed! By this fruity little club! Oh, son of a bitch! Come on, children.”
   - “Daaance? Anybody wanna daaance? Come on, bitch! Dance! Up yours, fatty.”
   - “Just what the hell is that thing?! What? What thing? I don't see anything.”
@@ -3034,16 +3174,17 @@ Watch for:
 ## S10 E2 — 2. Smug Alert!
 URL: https://watchwiththekids.com/ep/south-park/1002.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan leads a campaign to purchase hybrid cars, but it stalls when an environmental disaster threatens the town.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “I'm sorry, Stan, but unfortunately you live in a small-minded town filled with ignorant boobs.”
 - Violence & injury — 1 moment(s)
   - “That no-good back-stabbing Jew rat is finally leaving! Come on, everyone! Let's sing! Nanana na! Nanana na! Hey hey hey! Goodbye Kyle! Kyle! Dude what is going on?! My Dad says he can't live here anymore.”
 - Swearing — 7 moment(s)
-  - “We just can't get rid of you, can we, you sneaky Jew rat! Don't belitle my people, you f***ing fatass! Ah, that's better.”
+  - “We just can't get rid of you, can we, you sneaky Jew rat! Don't belitle my people, you fucking fatass! Ah, that's better.”
   - “You son of a bitch! Do you have any idea what you've done?! What?! Come with me! There! Look! Smog? There's never been smog over South Park before.”
-  - “Well it shows that I'm not Jewish, and now th- No, no! Don't apologize, you a**hole! Marsh! Oh crap, Ranger McFriendly.”
-  - “However, San Francisco, I'm afraid has disappeared completely up its own a**hole.”
+  - “Well it shows that I'm not Jewish, and now th- No, no! Don't apologize, you asshole! Marsh! Oh crap, Ranger McFriendly.”
+  - “However, San Francisco, I'm afraid has disappeared completely up its own asshole.”
   - “I know it's not a real ticket!! Broflovski, did you put this crap on my windshield?! Jimbo, your truck probably gets less than ten miles to the gallon.”
   - “…do! Well, I really don't see how that has anything to do with the- There, like that! Stop that! Who the hell put this faggy fake ticket on my truck!”
   - “The hell is that? "Oscar winner, George Clooney, sexiest man alive" Wow, Eric.”
@@ -3056,6 +3197,7 @@ Watch for:
 ## S10 E3 — 3. Cartoon Wars (1)
 URL: https://watchwiththekids.com/ep/south-park/1003.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle and Cartman race to Hollywood, with the fate of Kyle's favorite cartoon, "Family Guy," at stake.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And what do we know about the places Muslims live ? They live in Good, sand ! Now put yourself in the shoes of a Muslim, it's friday night but you can't have sex and you can't jack off.”
@@ -3076,6 +3218,7 @@ Watch for:
 ## S10 E4 — 4. Cartoon Wars (2)
 URL: https://watchwiththekids.com/ep/south-park/1004.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle is injured and Cartman must forge on alone, determined to stop the makers of "Family Guy."
 Watch for:
 - Violence & injury — 2 moment(s)
   - “I'm hear to investigate a murder.”
@@ -3086,8 +3229,8 @@ Watch for:
   - “Suicide bombers running in the building and blowing up one after another! They were like Mexican jumping beans.”
 - Swearing — 9 moment(s)
   - “Hello? This can't be right, I- Cowabunga, motherfucker! Hello Mitchell.”
-  - “Well, a lot of people like Family Guy too! Who are you to decide it shouldn't be on the air?! Shut up! You shut your f***ing face, man!”
-  - “I am God! Family Guy is going off the air! No more Family Guy for me, mon frère! C artman! You f***ing fatass!”
+  - “Well, a lot of people like Family Guy too! Who are you to decide it shouldn't be on the air?! Shut up! You shut your fucking face, man!”
+  - “I am God! Family Guy is going off the air! No more Family Guy for me, mon frère! C artman! You fucking fatass!”
   - “You just want Family Guy off the air Kyle, stop it! So long, Kyle! You son of a bitch! I won't let you win! Mr.”
   - “Son of a bitch.”
   - “All right, just what the hell is going on here?! You censored out the image of Muhammad in our television special! Ey! You guys know the rules! Nobody can show the image of Muhammad anymore.”
@@ -3100,6 +3243,7 @@ Watch for:
 ## S10 E5 — 5. A Million Little Fibers
 URL: https://watchwiththekids.com/ep/south-park/1005.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Oprah picks Towelie's memoir for her book club, but his account is found to be less than truthful. Soon, the public derision lures Towelie off the wagon.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3114,10 +3258,10 @@ Watch for:
   - “Not with those hostages so close! It's too risky! Oh just put down the gun, Mingie.”
   - “Oh, the blood.”
 - Swearing — 7 moment(s)
-  - “Oh, what do you care? You're just an a**hole.”
-  - “a**holes need stimulation too, you bastard! I want to travel.”
-  - “All you need to know is that I'm definitely not Oprah's a**hole.”
-  - “Yeah, that's it! Well you know what I think, Towelie? I think you're a lying sack of sh*t! You lied to all these people and for what?! To make money! They bought your book thinking it was true! That's right! - Yeah.”
+  - “Oh, what do you care? You're just an asshole.”
+  - “Assholes need stimulation too, you bastard! I want to travel.”
+  - “All you need to know is that I'm definitely not Oprah's asshole.”
+  - “Yeah, that's it! Well you know what I think, Towelie? I think you're a lying sack of shit! You lied to all these people and for what?! To make money! They bought your book thinking it was true! That's right! - Yeah.”
   - “Ya hear that, Gary? Nobody's applaudin'! Yeah! They're all right pissed off! This is great! Now, it turns out that your name isn't really Steven.”
   - “…to you! All right, Oprah! I've shown my fans that ugh! All right! Everyone back! Get back I said! What the hell is this?!”
   - “You killed him, you bastards!”
@@ -3129,16 +3273,17 @@ Watch for:
 ## S10 E6 — 6. ManBearPig
 URL: https://watchwiththekids.com/ep/south-park/1006.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman finds treasure when the boys get stuck in a cave.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Please welcome Al Gore.”
   - “But have no fear, because I am here to save you! And someday, when the world is rid of Manbearpig, everyone will say "Thank you, Al Gore".”
 - Swearing — 12 moment(s)
-  - “Just take a shot or pass the ball, a**hole!”
+  - “Just take a shot or pass the ball, asshole!”
   - “Christ! He's here! Take this rope! Be ready to tie him up! I've got you now, you son of a bitch!”
-  - “Now! Hello? - Help! We're trapped in here! - Somebody get us some help down hyah! Hello, help! - Hello? Forget it! They can't hear us! What are we gonna do? You'd better get us out of here, a**hole!”
-  - “It's all mine! So long as these greedy a**holes don't find out about it!”
-  - “No dont! Don't leave me here, you a**holes.”
+  - “Now! Hello? - Help! We're trapped in here! - Somebody get us some help down hyah! Hello, help! - Hello? Forget it! They can't hear us! What are we gonna do? You'd better get us out of here, asshole!”
+  - “It's all mine! So long as these greedy assholes don't find out about it!”
+  - “No dont! Don't leave me here, you assholes.”
   - “No, nooo! You made us pull you to safety because you ate treasure?! You son of a bitch! Don't you think I'm hurting enough, Kyle?! Well, my work here is done.”
   - “What does your dad look like? Does he have large hooves where his feet should be? No! Damn.”
   - “This is bullcrap! If I'ma thin I'm gonna be so pissed off!”
@@ -3150,13 +3295,14 @@ Watch for:
 ## S10 E7 — 7. Tsst
 URL: https://watchwiththekids.com/ep/south-park/1007.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman's mom employs the Dog Whisperer to help curb her son's behavioral problems.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Where am I supposed to get a gun? - Well I don't know.”
 - Swearing — 8 moment(s)
-  - “Well nice goin', a**hole! You made my mom cry! It's not him, it's you, Eric.”
+  - “Well nice goin', asshole! You made my mom cry! It's not him, it's you, Eric.”
   - “Eric, no! This is not acceptable! Stop trying to bogart my X-Box, you fat bitch!”
-  - “Suck my a**hole, taco vendor!”
+  - “Suck my asshole, taco vendor!”
   - “Mom, I am serious! This has gone on long enough! Get that guy out of here and give me a piece of chicken! That's how you want it, bitch?! Fine! I hate you! I'm running away! Oh, dear.”
   - “The hell do you think you're doing? - Come on.”
   - “All right, seriously, you're starting to piss me off now.”
@@ -3166,16 +3312,17 @@ Watch for:
 ## S10 E8 — 8. Make Love, Not Warcraft
 URL: https://watchwiththekids.com/ep/south-park/1008.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The gang attempts to save the online game World of Warcraft after it is taken over by a renegade gamer.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “Butters, go buy World of Warcraft, install it on your computer and join the online sensation before we all murder you.”
   - “I've braved the Fargo deep mine to feed it the bloodfish at Jaro d's Landing.”
   - “Hey yeah! We can really stick it to that assm-m-muncher! Are you guys dumb? We can't beat him, even with all of us.”
 - Swearing — 7 moment(s)
-  - “Dad, get off our teamspeak line! That's it, I'm dead! That's it, screw this game! No, leave me alone, don't do that, dugh God-f***ing-damnit!”
-  - “Oh crap! It's that guy again! Who is this? This is the guy that kept killing us after you went to bed! Get out of here, a**hole! He's a way higher level than us.”
+  - “Dad, get off our teamspeak line! That's it, I'm dead! That's it, screw this game! No, leave me alone, don't do that, dugh God-fucking-damnit!”
+  - “Oh crap! It's that guy again! Who is this? This is the guy that kept killing us after you went to bed! Get out of here, asshole! He's a way higher level than us.”
   - “Oh my God, he killed Kenny! You bastard! Don't you have better things to do than going online killing people?! No! I don't want them to start over at the graveyard! No! That son of a bitch!”
-  - “Well, there's only like four races to choose from- So pick another one! I'm the dwarf, you stupid a**hole! Log out, create a new character and log back in! I like Hello Kitty Island Adventure a lot more 'n this stuff.”
+  - “Well, there's only like four races to choose from- So pick another one! I'm the dwarf, you stupid asshole! Log out, create a new character and log back in! I like Hello Kitty Island Adventure a lot more 'n this stuff.”
   - “…and meet some friends of mine Episode 10x08 "Make Love, Not Warcraft" Oh, dude! I just took the biggest crap.”
   - “Timmy! This shall be a day for all to remember! Let us bravely charge the fields of Azeroth! From with- - Hey fellas! Boy, this is neato, huh? Butters? What the hell are you doing? I got World of Warcraft, like you said.”
   - “No! Noooo! What the hell are you guys doing? Don't tell me you all quit playing World of Warcraft too?! Dude, we're done.”
@@ -3183,10 +3330,11 @@ Watch for:
 ## S10 E9 — 9. Mystery of the Urinal Deuce
 URL: https://watchwiththekids.com/ep/south-park/1009.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The gang discovers who's responsible for the 9/11 attacks and realizes South Park may be in danger.
 Watch for:
 - Swearing — 5 moment(s)
-  - “Follow me! Who the f*** are you?! - There's no time! come on! Do you mind telling us what the hell is going on? Who are you? - I'm a detective.”
-  - President: “How the devil did you know we were all here? How come you couldn't just go home, dude? That's all we had to do! Stan! What the f***?! It was all planned out! - You knew this whole time? Why? Because it was me.”
+  - “Follow me! Who the fuck are you?! - There's no time! come on! Do you mind telling us what the hell is going on? Who are you? - I'm a detective.”
+  - President: “How the devil did you know we were all here? How come you couldn't just go home, dude? That's all we had to do! Stan! What the fuck?! It was all planned out! - You knew this whole time? Why? Because it was me.”
   - “Goddamnit! You see what happens when you spread this stupid crap, fatass?!”
   - “Pleeease! Dude! What the hell is going on?! Don't kill me! I, I just do what they say! What who said? - I have an family.”
   - “So then, who was responsible for 9/11? Whattaya mean? A bunch of pissed-off Muslims.”
@@ -3194,6 +3342,7 @@ Watch for:
 ## S10 E10 — Miss Teacher Bangs a Boy
 URL: https://watchwiththekids.com/ep/south-park/1010.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman is tapped to be the new hallway monitor and takes offense when Kyle discovers a teacher is having an affair with a student in his jurisdiction.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “You sure they had sex? Y es.”
@@ -3205,8 +3354,8 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - “Tom, an elementary school teacher is under arrest for an elegently having affair with one of her young students.”
 - Swearing — 9 moment(s)
-  - “Oh, suck my balls you ginger Jew rat hall monitor! Punkass stoolie, who the f*** do you think you are?! I just doing my job.”
-  - “What the f*** is this? And so this shape with four sides, is what class? Ike Browlofski.”
+  - “Oh, suck my balls you ginger Jew rat hall monitor! Punkass stoolie, who the fuck do you think you are?! I just doing my job.”
+  - “What the fuck is this? And so this shape with four sides, is what class? Ike Browlofski.”
   - “Oh God! You just dealt with the dog, bitch! Sorry we had to do this, but the lady principal instisted.”
   - “Who's Beth? - Beth is my bitch.”
   - “Ike? What the hell is going on? Oh, what's the use Ike were caught.”
@@ -3222,6 +3371,7 @@ Watch for:
 ## S10 E11 — Hell On Earth 2006
 URL: https://watchwiththekids.com/ep/south-park/1011.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Satan tries to plan a Halloween party while dealing with a religious group, an ex-lover and mischievous serial killers.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Every costume party there's like fourteen guys come dressed like the Crow 'cause they wanna look hot and hook up.”
@@ -3231,8 +3381,8 @@ Watch for:
   - “Sevo! Fetch my Blackberry! That Ferrari cake must get here by midnight! The Three Murderers Do you gentlemen need a hand? Gacy! Whatcha do that foor?! I did it for Dahmer.”
   - “Hey, Hey Sharon! Cool this, sucka! The Three Murderers All right, listen you mugs! It's now 11:30.”
 - Swearing — 7 moment(s)
-  - “Biggie Smalls Biggie Smalls Biggie Smalls What the f*** is this?!”
-  - “Damn! Every Halloween I gots tuh deal with this sh*t! I'm in hell, mindin' my own business and the next thing I know I'm in some kid's bathroom.”
+  - “Biggie Smalls Biggie Smalls Biggie Smalls What the fuck is this?!”
+  - “Damn! Every Halloween I gots tuh deal with this shit! I'm in hell, mindin' my own business and the next thing I know I'm in some kid's bathroom.”
   - “…titties really big fat titties So come on out to south park and meet some friends of mine Episode 10x11 "Hell On Earth 2006" Halloween is a night for evil.”
   - “What do you plan, Lord Satan? On Halloween we shall open the Gates of Hell, rise up to the earth and we will rent out the entire W Hotel for an awesome party and invite a bunch of celebrities!”
   - “Oh, God-damnit! It does work! - Holly crap! That's it! Now I'm pissed! Hehey, everybody.”
@@ -3241,11 +3391,12 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Dad! Dad! - What? If you look in the mirror and say Biggie Smalls' name three times he doesn't come and get you, right? Biggie Smalls? You know, escargot, my cargo, one eighteen, sippin' on booze at the House of Blues.”
 - Racism & slurs — 1 moment(s)
-  - “You don't understand, fool! I ain't missin' the party! W-what party? - I already got my wristband, see? You've got to get me to Los Angeles! Well can't you just take a plane? How, punk?!…”
+  - “You don't understand, fool! I ain't missin' the party! W-what party? - I already got my wristband, see? You've got to get me to Los Angeles! Well can't you just take a plane? How, punk?! We don't use money in her, nigga!”
 
 ## S10 E12 — Go God Go (1)
 URL: https://watchwiththekids.com/ep/south-park/1012.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: South Park residents clash over the teaching of evolution. Meanwhile, Cartman attempts time travel so he can play a soon-to-be-released video-game system.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I've got a date! I've got a date! My first real date with a real man since my sex-change operation! Oh boy, what'll I wear?! Hey everybody! Close the door, I'm trying to freeze! Eric, get out of there.”
@@ -3254,9 +3405,9 @@ Watch for:
   - “So I told my gynecologist, you put so many things in my vagina, maybe I should charge you! Oh, Ms.”
   - “Oh, just let me see those beautiful breasts again.”
 - Swearing — 9 moment(s)
-  - “And if I'm a monkey, then I might as well act like a monkey, huh?! What on earth are you doing?? Don't ask me, I'm a f***in' monkey!! AAAH! Principal Victoria, I was simply trying to make a point to Mr.”
-  - “Get out of here, you a**hole! You're gonna ruin everything! Oh jeez! Yes.”
-  - “Butters? Butters, you black a**hole?! Please be careful.”
+  - “And if I'm a monkey, then I might as well act like a monkey, huh?! What on earth are you doing?? Don't ask me, I'm a fuckin' monkey!! AAAH! Principal Victoria, I was simply trying to make a point to Mr.”
+  - “Get out of here, you asshole! You're gonna ruin everything! Oh jeez! Yes.”
+  - “Butters? Butters, you black asshole?! Please be careful.”
   - “What?? But Dick, you told me the world would be a better place without religion.”
   - “You're the smartest man on earth, Dick.”
   - “Do you see monkeys at the zoo?! They crap in their hands and throw it at people! Ms.”
@@ -3270,6 +3421,7 @@ Watch for:
 ## S10 E13 — Go God Go XII (2)
 URL: https://watchwiththekids.com/ep/south-park/1013.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman tries to escape a dystopian future plagued by militant otters and a lack of video games.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I want this Nintendo hooked up to my float screen NOW! Come on! Come on! Dude, what is taling so long! I wanna play! Uhh, what kind of output does this have? This is some ancient Super-VHS output or somethin'.”
@@ -3277,13 +3429,13 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Will more bloodshed end anything? Wise One, our answer to the Great Question is the only one based on good science.”
 - Swearing — 10 moment(s)
-  - “You've gotta be sh*ttin' me!! Science-damnit! I am so f***ing sick of the future!”
-  - “…to deal with a bunch of see otters! Oh very funny, Kyle! It's not Kyle, it's you! Yeah? Well you can go f*** yourself.”
-  - “What?? Who the f*** is this?! Aw damnit, just listen to me! If you freeze yourself, you're going to die! Suck my balls! No, you suck my balls!! Just listen to me for one minute! Okay, you have one minute.”
+  - “You've gotta be shittin' me!! Science-damnit! I am so fucking sick of the future!”
+  - “…to deal with a bunch of see otters! Oh very funny, Kyle! It's not Kyle, it's you! Yeah? Well you can go fuck yourself.”
+  - “What?? Who the fuck is this?! Aw damnit, just listen to me! If you freeze yourself, you're going to die! Suck my balls! No, you suck my balls!! Just listen to me for one minute! Okay, you have one minute.”
   - “You have to be a dick to everyone who doesn't think like you.”
-  - “All right, just let me use my tools Hey! Haha! Stupid a**holes! I got your time phone! Science H.”
-  - “What an a**hole! Hello? Butters? Butters! Eric? Iiis that you? Butters, Butters! Listen to me! Just just listen.”
-  - “Garrison? But he's an a**hole.”
+  - “All right, just let me use my tools Hey! Haha! Stupid assholes! I got your time phone! Science H.”
+  - “What an asshole! Hello? Butters? Butters! Eric? Iiis that you? Butters, Butters! Listen to me! Just just listen.”
+  - “Garrison? But he's an asshole.”
   - “NOOOO! It was a trick! SCIENCE DAMN YOU, TIME CHILD! I got it! I got the Wii! Time Child! You've returned! We thought for sure you had died in the in the Phobart plant.”
   - “All right, all right, listen! Listen to me carefully! You need to be patient! What?? Who the hell is this?! It's me.”
   - “Garrison! Damnit, who the hell is calling?! I'll thell them to call you back Oh yeah Garrison residence.”
@@ -3293,11 +3445,12 @@ Watch for:
 ## S10 E14 — Stanley's Cup
 URL: https://watchwiththekids.com/ep/south-park/1014.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Stan Marsh has hit rock bottom. He's got no job, no bicycle and his only way out of a bad situation is to coach the local pee wee hockey team. Once a hotshot pee wee hockey player himself, Marsh has tried to put those days behind him. But he's still living with the memory of how he let his team down when he missed the winning shot in the big game. Now, he's about to find out that being a coach means facing your past. He's determined to show his kids what it's like to be winners!
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Sooo, if we lose we're gonna kill Nelson? Oh Jesus, no! I don't wanna be a murderer! Relax! If we lose we're not gonna be murderers.”
 - Swearing — 4 moment(s)
-  - “Do NOT tow my bike! Stop, a**hole! Yes? Come in.”
+  - “Do NOT tow my bike! Stop, asshole! Yes? Come in.”
   - “Coach! What the hell were you thinking? We can't beat Denver County.”
   - “We've, we've been through all this stupid emotional crap! Well, you've got nobody to play, there's nothing we can do.”
   - “All right! Give 'em hell, boys! All right! Yeah! It's a tie game here in Colorado as we get set to start the final period.”
@@ -3305,14 +3458,15 @@ Watch for:
 ## S11 E1 — 1. With Apologies to Jesse Jackson
 URL: https://watchwiththekids.com/ep/south-park/1101.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy Marsh is publicly chastised for using the N-word on national television. Meanwhile, Cartman clashes with a little person.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “And if you take away the gun powder- - Yeah, yeah, we get it, Mr.”
 - Swearing — 10 moment(s)
-  - “How are we all feeling today? I would like to share with you all my- No, dude! No, f***ing way! Dude.”
-  - “Get it? Like he can rise above anything! Shut your f***ing mouth! - Mr.”
-  - “Oh, sh*t, here we go.”
-  - “It's on! Race war! Race war! Race war! Race war is on, everybody! It's going down! sh*t is going down! Token my dad wasn't trying to be offensive, just forget about it.”
+  - “How are we all feeling today? I would like to share with you all my- No, dude! No, fucking way! Dude.”
+  - “Get it? Like he can rise above anything! Shut your fucking mouth! - Mr.”
+  - “Oh, shit, here we go.”
+  - “It's on! Race war! Race war! Race war! Race war is on, everybody! It's going down! Shit is going down! Token my dad wasn't trying to be offensive, just forget about it.”
   - “Michael richards, well, son of a bitch.”
   - “Look, look, look! They put a little suit on him! So I said to my wife: "You told me to kill the damn cockroach, don't yell at me for making a mess!" We got a great crowd here tonight.”
   - “Have y'all seen these navigation systems in these cars, these days? Damn things look like they're right out of space nuts.”
@@ -3322,12 +3476,13 @@ Watch for:
 - Racism & slurs — 4 moment(s)
   - “Listen, Token, my dad isn't an racist.”
   - “And I want to assure you that I'm not a racist, reverend Jackson.”
-  - “You're the guy that said [racial slur] on Wheel of Fortune! Look, everybody, it's the [racial slur] guy.”
-  - “Everyone wave to the [racial slur] guy, say "Hi, [racial slur] guy.”
+  - “You're the guy that said nigger on Wheel of Fortune! Look, everybody, it's the nigger guy.”
+  - “Everyone wave to the nigger guy, say "Hi, nigger guy.”
 
 ## S11 E2 — 2. Cartman Sucks
 URL: https://watchwiththekids.com/ep/south-park/1102.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Butters is sent to a religious camp that promotes a heterosexual lifestyle.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3335,9 +3490,9 @@ Watch for:
   - “Yes? It's a picture of me and what appears to be a penis in my mouth.”
   - “What's wrong with underwear?”
 - Swearing — 9 moment(s)
-  - “Yeah huh! Kenny, that doesn't make me gay, huh? - That makes you very f***ing gay.”
-  - “A surprise? What is it? - It's so f***ing awesome.”
-  - “sh*t, I gotta find Butters! Idiot.”
+  - “Yeah huh! Kenny, that doesn't make me gay, huh? - That makes you very fucking gay.”
+  - “A surprise? What is it? - It's so fucking awesome.”
+  - “Shit, I gotta find Butters! Idiot.”
   - “For having contraband in your room, you will both do penance by writing scripture for the next four days! That son of a bitch.”
   - “…really big fat titties So come on out to south park and meet some friends of mine Episode 11x02 "Cartman Sucks" This picture I like to call "The Pierre.”
   - “Like a dog crap, on a guy's face! That isn't funny.”
@@ -3348,6 +3503,7 @@ Watch for:
 ## S11 E3 — 3. Lice Capades
 URL: https://watchwiththekids.com/ep/south-park/1103.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: th Park Elementary deals with a head-lice scare, and Cartman looks to expose the kids with infected scalps.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Sorry to cut the honeymoon short! Why you murdering bastard! Your little fantasy of another world ends here! Walk! - What the hell do you want, Vice President?! Walk! Clyde, dude, get down to the park.”
@@ -3355,8 +3511,8 @@ Watch for:
   - “Just like mosquitoes they leave small traces of their saliva in the host's bloodstream.”
   - “So if an infected person's blood is touched by this hot metal coil, say that person's blood will jump Really? That's retarded! You didn't come up with that experiment, Cartman.”
 - Swearing — 7 moment(s)
-  - “What? f*** you! I'm sure this class is clean, but we're gonna be examined so that if anyone has the lice we can stop it before it spreads.”
-  - “Hey! f*** you! Have a seat on the stool.”
+  - “What? Fuck you! I'm sure this class is clean, but we're gonna be examined so that if anyone has the lice we can stop it before it spreads.”
+  - “Hey! Fuck you! Have a seat on the stool.”
   - “You son of a bitch! You had a chance to stop this! So help me, if we live through this, I'm gonna see you rot in prison! What do we do now? - We aren't out of this yet! You two look for other survivors.”
   - “Damn you vice president Craig! You could be killing us all! This is so embarassing.”
   - “We have to get out of here now, Kelly! What is that? Run! Everyone get up into the trees! We have to get up high! Come on, Kelly! Oh my God, Travis, they're all dying! Don't look, Kelly! Don't look! What the hell is it?!”
@@ -3366,6 +3522,7 @@ Watch for:
 ## S11 E4 — 4. The Snuke
 URL: https://watchwiththekids.com/ep/south-park/1104.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
+Summary: lary Clinton makes a campaign stop in South Park. Meanwhile, Cartman believes he's uncovered a terrorist plot.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3377,13 +3534,14 @@ Watch for:
 ## S11 E5 — 5. Fantastic Easter Special
 URL: https://watchwiththekids.com/ep/south-park/1105.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Stan searches for the origins of egg decorating, and falls in with a strange society guarding an infamous secret.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “What? - Stab me with this.”
 - Suicide & self-harm — 1 moment(s)
   - “Suicide is blasphemy.”
 - Swearing — 5 moment(s)
-  - “So if you don't bring me what I want for Easter, I can f***ing kill you! Smile! Bye, Easter bunny! Oh My God.”
+  - “So if you don't bring me what I want for Easter, I can fucking kill you! Smile! Bye, Easter bunny! Oh My God.”
   - “Mom? Dad? Anybody home? Not now, Stanley, I'm on the toilet! Dad! You've gotta help me! - Hang on, I'm taking a crap.”
   - “Peter was a rabbit is blasphemy! You must admit you are wrong or burn in hell! It's saying stupid things like that that made Jesus wanna put a rabbit in charge.”
   - “You asked for the help of the American Catholic League, let us do our job! Take him! No! No, you bunny-hating bastards! Don't do this! I don't get it.”
@@ -3394,18 +3552,19 @@ Watch for:
 ## S11 E6 — 6. D-Yikes
 URL: https://watchwiththekids.com/ep/south-park/1106.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Ms. Garrison gets dumped again, so the boys decide to hire someone to remedy the situation.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “Maybe if you boys could keep your penises in your pants once in a while you'd get more done! But teacher, my penis never slips out of my pants.”
 - Swearing — 12 moment(s)
-  - “…out to south park and meet some friends of mine Episode 11x06 "D-Yikes!" Everyone, sit down and shut the f*** up!”
-  - “Having Mexicans around totally kicks f***ing ass.”
-  - “" Dude, we're totally f***ed now! Why the hell would we pay you to write your friends?! We thought it was kind of strange.”
-  - “"Curves" For Women They can all rot in hell! Who needs men anyway?! They're Goddamned arrogant self-centered a**holes is what they are! Are you okay, hon? - I just hate men is all.”
+  - “…out to south park and meet some friends of mine Episode 11x06 "D-Yikes!" Everyone, sit down and shut the fuck up!”
+  - “Having Mexicans around totally kicks fucking ass.”
+  - “" Dude, we're totally fucked now! Why the hell would we pay you to write your friends?! We thought it was kind of strange.”
+  - “"Curves" For Women They can all rot in hell! Who needs men anyway?! They're Goddamned arrogant self-centered assholes is what they are! Are you okay, hon? - I just hate men is all.”
   - “This is your fault, Cartman! Now we're gonna fail! You guys, school starts in ten minutes! - Son of a bitch! Clyde? Clyde! Heyhey Clyde! You didn't finish your essay either, right? No, I got it done.”
-  - “It's time I met this rich Persian a**hole face to face.”
-  - “And you know why? Because men are all a**holes! They make you feel ashamed for being a little big or manly looking.”
+  - “It's time I met this rich Persian asshole face to face.”
+  - “And you know why? Because men are all assholes! They make you feel ashamed for being a little big or manly looking.”
   - “All men care about is sex! I spent two hours getting ready for that stupid date! And when the bastard checks out my body, he just says: "Hey, did you used to be a guy or something?" I'm a woman now, so what's it matter?!”
   - “What the hell are we going to do?! You guys, you guys, relax.”
   - “Sorry I'm so pissed off.”
@@ -3419,20 +3578,22 @@ Watch for:
 ## S11 E7 — 7. Night of the Living Homeless
 URL: https://watchwiththekids.com/ep/south-park/1107.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The homeless population is on the rise in South Park. Both the adults and children go to work looking for solutions to the problem.
 Watch for:
 - Swearing — 8 moment(s)
-  - “Spare any change, sir? - No! f*** off! I don't get it.”
-  - “Dude, shut the f*** up about my house! Whoa, Kenny, relax dude.”
-  - “…mine Episode 11x07 "Night Of The Living Homeless" All right, this time, it's me and Kenny versus you two a**holes.”
-  - “Holy sh*t, dude! - Over here! Jump down! Go! Aw man, it really smells like Kenny's house down here.”
+  - “Spare any change, sir? - No! Fuck off! I don't get it.”
+  - “Dude, shut the fuck up about my house! Whoa, Kenny, relax dude.”
+  - “…mine Episode 11x07 "Night Of The Living Homeless" All right, this time, it's me and Kenny versus you two assholes.”
+  - “Holy shit, dude! - Over here! Jump down! Go! Aw man, it really smells like Kenny's house down here.”
   - “Try South Park!" You son of a bitch.”
-  - “No, I wasn't homeless you stupid a**hole! Christine, I can't understand you.”
+  - “No, I wasn't homeless you stupid asshole! Christine, I can't understand you.”
   - “Spare any change, sir? Come on, let's go! What the hell were you doing outside?! Our parents are stuck on top of a building in town.”
   - “Each one of you just put in a little change? Change? What the hell happened here? That's far enough! Just march your butts right back out of our town! We, just came to ask a question.”
 
 ## S11 E8 — 8. Le Petit Tourette
 URL: https://watchwiththekids.com/ep/south-park/1108.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman pretends to have Tourette's syndrome in order to say whatever he wants.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Kyle? - Surprise, fatass! Kyle, what are you doing? - I went online posing as a boy who would have sex with older men and told them to meet me here.”
@@ -3444,45 +3605,47 @@ Watch for:
   - “If we apply what we've just learned, we see that all negatives can- Spooge balls bloody vaginal belch.”
 - Swearing — 12 moment(s)
   - “Let's see - Cock! The Black Jackal.”
-  - “Karate Kick Panel Force and bendable neck- a**hole! Cock! a**hole, sh*t, sh*t, cock! Ma'am, is that your son over there? - Yes, I'm sorry.”
-  - “Oh sh*t! Dumb sh*t! All right Mom- Bitch! Ass, bitch! Here, let's buy you a nice toy to take home.”
-  - “Cockbutt! Stupid sh*t! Are you talking to me?! - No.”
-  - “a**hole, a**hole! Wait, wait, wait.”
-  - “I want tuh go! sh*tfag! Poor kid.”
-  - “Puh- pussy! Pussy! Cock! sh*t! I was checking out the Internet and it almost seems like his symptoms are like those in something called Tour Tourette's Syndrome? - Tourette's Syndrome? What is that, Mommy.”
-  - “Oh, well that's it! sh*thead! a**hole! Mexican sticky balls! Oh Doctor, can you help him? We don't know very much about Tourette's I'm afraid.”
+  - “Karate Kick Panel Force and bendable neck- Asshole! Cock! Asshole, shit, shit, cock! Ma'am, is that your son over there? - Yes, I'm sorry.”
+  - “Oh Shit! Dumb shit! All right Mom- Bitch! Ass, bitch! Here, let's buy you a nice toy to take home.”
+  - “Cockbutt! Stupid shit! Are you talking to me?! - No.”
+  - “Asshole, asshole! Wait, wait, wait.”
+  - “I want tuh go! Shitfag! Poor kid.”
+  - “Puh- pussy! Pussy! Cock! Shit! I was checking out the Internet and it almost seems like his symptoms are like those in something called Tour Tourette's Syndrome? - Tourette's Syndrome? What is that, Mommy.”
+  - “Oh, well that's it! Shithead! Asshole! Mexican sticky balls! Oh Doctor, can you help him? We don't know very much about Tourette's I'm afraid.”
   - “Dumb bitch! Uh, sorry.”
-  - “sh*tballs! - Good morning, Eric.”
-  - “Did Cartman just say sh*tballs to the principal? - You didn't hear? Well Cartman has some, mental disease called Tourette's Syndrome or something.”
+  - “Shitballs! - Good morning, Eric.”
+  - “Did Cartman just say Shitballs to the principal? - You didn't hear? Well Cartman has some, mental disease called Tourette's Syndrome or something.”
   - “Piss! Piss! That's right, Kyle.”
 - Racism & slurs — 1 moment(s)
-  - “Big-nosed [racial slur]! Well I thnk we can all put this behind us now.”
+  - “Big-nosed kike! Well I thnk we can all put this behind us now.”
 - Homophobic jokes — 2 moment(s)
-  - “Faggot! sh*t! Butthole! Hey Wendy.”
-  - “…what I say! I got a golden ticket! Thanks to Kyle! I got a golden twinkle in my eye! Aw, sh*t! To all the fags that place this sub on their website and remove the first line.”
+  - “Faggot! Shit! Butthole! Hey Wendy.”
+  - “…what I say! I got a golden ticket! Thanks to Kyle! I got a golden twinkle in my eye! Aw, shit! To all the fags that place this sub on their website and remove the first line.”
 
 ## S11 E9 — 9. More Crap
 URL: https://watchwiththekids.com/ep/south-park/1109.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy Marsh becomes a local hero after passing a sizable bowel movement. Later, he contacts a record-keeping society to find out if he has surpassed the world record.
 Watch for:
 - Swearing — 4 moment(s)
-  - “I mean, at some point, can't you just kind of f*** off? I want people to know that I'm worth something.”
-  - “That's why he's able to do so much, try to help so many people but still seem like such a piece of sh*t.”
+  - “I mean, at some point, can't you just kind of fuck off? I want people to know that I'm worth something.”
+  - “That's why he's able to do so much, try to help so many people but still seem like such a piece of shit.”
   - “…really big fat titties So come on out to south park and meet some friends of mine Episode 11x09 "More Crap" Well, there's no doubt in my mind, Mr.”
   - “Thanks for the news flash! I haven't taken a crap in over three weeks! The question is why?! Well, what food have you been eating? - P.”
 
 ## S11 E10 — Imaginationland (1)
 URL: https://watchwiththekids.com/ep/south-park/1110.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys enter a dimension containing the world's imagination. Before long, the government taps them for intelligence.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “What did they say? - We don't wanna jump to conclusions, but we're worried that maybe somebody kidnapped Butters, sodomized him over and over again and then fed his genitals to wild animals.”
   - “Ah, my nipples, they hurt!”
 - Swearing — 6 moment(s)
-  - “Code names are what they are, Blackie! Check your six and alert when in position! This is f***ing retarded!”
-  - “…something! I got it! It's uh Oh jeez I thnk it's a leprechaun! - Set off diversion track C! Dude - Fuh, f*** me, it's a leprechaun.”
-  - “Get it! Get that f***ing leprechaun! I want it alive! Wow.”
-  - “Now, good news, everyone! These boys did see the leprechaun! What did he tell you? Did he have any news? Well he said there was gonna be a- that there was gonna be a- Allah! Oh f***, no!”
+  - “Code names are what they are, Blackie! Check your six and alert when in position! This is fucking retarded!”
+  - “…something! I got it! It's uh Oh jeez I thnk it's a leprechaun! - Set off diversion track C! Dude - Fuh, fuck me, it's a leprechaun.”
+  - “Get it! Get that fucking leprechaun! I want it alive! Wow.”
+  - “Now, good news, everyone! These boys did see the leprechaun! What did he tell you? Did he have any news? Well he said there was gonna be a- that there was gonna be a- Allah! Oh fuck, no!”
   - “Kyle sucks Cartman's balls The trilogy Dad, where do leprechauns come from? - From Ireland.”
   - “Who the hell are you? - Still not convinced, eh? I tell you what, boys.”
 - Homophobic jokes — 2 moment(s)
@@ -3492,25 +3655,27 @@ Watch for:
 ## S11 E11 — Imaginationland (2)
 URL: https://watchwiththekids.com/ep/south-park/1111.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Pentagon officials pressure Kyle and Stan to reveal how they gained access to Imaginationland. Meanwhile, Cartman searches for Kyle in order to make him fulfill his side of the leprechaun bet.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “And then rape their bodies so we can use their blood as lubricant? Say, that's a great idea, Beary Bear.”
 - Swearing — 4 moment(s)
-  - “I was being sarcastic, you f***ing idiot?! Aw jeez, I'm really sorry sir.”
-  - “Really? - No, you f***ing dipshit, that was a joke! Mayor, what are we supposed to do, snarf snarf? Get to Castle Sunshine! It's your only hope! - Castle Sunshine? Through the Gumdrop Forest.”
+  - “I was being sarcastic, you fucking idiot?! Aw jeez, I'm really sorry sir.”
+  - “Really? - No, you fucking dipshit, that was a joke! Mayor, what are we supposed to do, snarf snarf? Get to Castle Sunshine! It's your only hope! - Castle Sunshine? Through the Gumdrop Forest.”
   - “…Two! Sector Two? Cartman? Hello Kyle! Thought you could get out of your responsibilities, huh?! Who the hell are you?!”
   - “And instead I got Snarf and Popeye and Luke Skywalker all pissed off.”
 
 ## S11 E12 — Imaginationland (3)
 URL: https://watchwiththekids.com/ep/south-park/1112.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan and Butters attempt to escape Imaginationland before the government detonates a nuclear device in the alternate dimension. Meanwhile, Cartman takes his bet with Kyle to the Supreme Court.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Al Gore brought this video to the public's attention, sparking demands by everyone who wants to know exactly what's going on.”
 - Swearing — 6 moment(s)
-  - “Just let it go with your f***ing balls, you f***ing a**hole!”
-  - “Goddamnit, you stupid a**holes are going to ruin everything! Prepare for launch.”
-  - “Oh yes you are! Oh yeah? That only works in Imaginationland! You're grounded! Ah, sh*t.”
+  - “Just let it go with your fucking balls, you fucking asshole!”
+  - “Goddamnit, you stupid assholes are going to ruin everything! Prepare for launch.”
+  - “Oh yes you are! Oh yeah? That only works in Imaginationland! You're grounded! Ah, shit.”
   - “How am I supposed to focus with all this crap going on?! Think only of one thing.”
   - “It's coming from Sector Two! Sector 2? What the hell do you think you're doing declaring leprechauns aren't real?!”
   - “You'd better not say that! You'll go to hell! It's possible that hell is also imaginary.”
@@ -3518,13 +3683,14 @@ Watch for:
 ## S11 E13 — Guitar Queer-o
 URL: https://watchwiththekids.com/ep/south-park/1113.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Stan and Kyle become a successful Guitar Hero duo. After they part ways, Stan succumbs to the pitfalls of rock stardom.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Please enjoy yourselves, there's lots more coke and sex in the house.”
   - “I thought I was having a great time because I was getting signed by managers and going to big sex and coke parties, but then I realized I was having fun because I was doing all that with my best friend.”
 - Swearing — 5 moment(s)
-  - “Because I don't need you to break a million points! I never did! Stan, what is the matter with you? - I just wanna play alone, alright?! I can't concentrate with all these a**holes riding me all the time!”
-  - “…get Dad out of here? Stop cheating, Craig! - How was that cheating! Because you tricked me, you black a**hole!”
+  - “Because I don't need you to break a million points! I never did! Stan, what is the matter with you? - I just wanna play alone, alright?! I can't concentrate with all these assholes riding me all the time!”
+  - “…get Dad out of here? Stop cheating, Craig! - How was that cheating! Because you tricked me, you black asshole!”
   - “Pretty damn good, huh? Yeah, that's pretty good.”
   - “I hate that bubblegum crap.”
   - “What the hell? Come on, come on.”
@@ -3537,18 +3703,20 @@ Watch for:
 ## S11 E14 — The List
 URL: https://watchwiththekids.com/ep/south-park/1114.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys discover a secret list compiled by their female classmates that rates them according to looks.
 Watch for:
 - Swearing — 6 moment(s)
-  - “They probably put you at the bottom of the list because you have f***ed up teeth! Or Kenny's because he's poor.”
-  - “I'm not telling! And anyway, I'm not the list keeper, Nelly is! And Nelly will never let you look at it, so there! f*** you Bebe! f*** you bitch! Well, I guess we're never gonna get that list from the girls.”
-  - “I don't want to! I don't want anybody telling me how to feel anymore! Well then you're just a f***ing a**hole! Wait a minute.”
+  - “They probably put you at the bottom of the list because you have fucked up teeth! Or Kenny's because he's poor.”
+  - “I'm not telling! And anyway, I'm not the list keeper, Nelly is! And Nelly will never let you look at it, so there! Fuck you Bebe! Fuck you bitch! Well, I guess we're never gonna get that list from the girls.”
+  - “I don't want to! I don't want anybody telling me how to feel anymore! Well then you're just a fucking asshole! Wait a minute.”
   - “What? You know what I'm talking about, bitch!”
-  - “Are we good? What you do that for?! Hey, what's your problem, a**hole?! Bail, bail! Okay, our mission failed, but we've learned a lot.”
-  - “I don't wanna find out I'm good-looking and become a total sh*thead when I grow up.”
+  - “Are we good? What you do that for?! Hey, what's your problem, asshole?! Bail, bail! Okay, our mission failed, but we've learned a lot.”
+  - “I don't wanna find out I'm good-looking and become a total shithead when I grow up.”
 
 ## S12 E1 — 1. Tonsil Trouble
 URL: https://watchwiththekids.com/ep/south-park/1201.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: In the 12th-season premiere, Cartman faces an uncertain future after a routine tonsillectomy reveals a more serious condition.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I sleep with all my money.”
@@ -3559,13 +3727,13 @@ Watch for:
   - “Well look, if being around lots of cash negatively affects the HIV, then maybe Then maybe enough cash shot directly into the bloodstream could kill the virus altogether.”
   - “About a hundred and eighty thousand dollars shot directly into the bloodstream.”
 - Swearing — 12 moment(s)
-  - “f*** your ice cream, you said I'd be fine! You all said I'd be fine! My baby has HIV! No! No! Thank you for coming, everyone.”
-  - “…he got AIDS I haven't a clue Wasting away again because of AIDS and stuff How are we all feeling tonight? f*** you, Jimmy Buffett!”
-  - “Oh yeah, it's real f***ing funny, Kyle! I'm sorry.”
-  - “If you really felt bad, you'd wipe that f***ing smirk off your face! Well any Goddamned second, Kyle! I'm sorry.”
-  - “Jesus Christ, can you believe that a**hole? He does feel bad for you, Cartman.”
+  - “Fuck your ice cream, you said I'd be fine! You all said I'd be fine! My baby has HIV! No! No! Thank you for coming, everyone.”
+  - “…he got AIDS I haven't a clue Wasting away again because of AIDS and stuff How are we all feeling tonight? Fuck you, Jimmy Buffett!”
+  - “Oh yeah, it's real fucking funny, Kyle! I'm sorry.”
+  - “If you really felt bad, you'd wipe that fucking smirk off your face! Well any Goddamned second, Kyle! I'm sorry.”
+  - “Jesus Christ, can you believe that asshole? He does feel bad for you, Cartman.”
   - “Ironic how? You know,you're always such a dick and stuff, and Oh, and what? I deserve it? Is that what you think? Not me! That's eh, kinda what he thinks.”
-  - “You think HIV is something to be laughed at, Kyle? Well Let's just see how funny it is now, a**hole.”
+  - “You think HIV is something to be laughed at, Kyle? Well Let's just see how funny it is now, asshole.”
   - “That son of a bitch!”
   - “…infected me with his HIV virus! Is that true, Eric? Did you give Kyle AIDS? Well he was being a total dick!”
   - “God damnit this sucks ass! Excuse me, I have to step out for a minute.”
@@ -3575,6 +3743,7 @@ Watch for:
 ## S12 E2 — 2. Britney's New Look
 URL: https://watchwiththekids.com/ep/south-park/1202.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys meet Britney Spears while she's on a search for seclusion in the Colorado mountains, and Stan and Kyle eventually take on the responsibility of getting her to the North Pole.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Corn harvest! We haven't told you about it, Stanley, because we, we like to wait until kids are a little older to talk to them about things like condoms and ritualistic human sacrifice for harvest.”
@@ -3585,8 +3754,8 @@ Watch for:
   - “You mean everyone has been wanting Britney Spears to kill herself? Britney was chosen a long time ago, to be built up and adored, and then sacrificed.”
   - “She was supposed to have killed herself a long time ago.”
 - Swearing — 8 moment(s)
-  - “Yeah, all you amateur photographers are making this tougher on the professionals! We're professionals too, you f***ing butthole! Ah ah, nobody goes upstairs.”
-  - “Be a good boy? You know all about this? Kyle, what the f*** is going on now? She's been built up to be sacrificed, Stan! Sacrificed? For what? For harvest, Stanley.”
+  - “Yeah, all you amateur photographers are making this tougher on the professionals! We're professionals too, you fucking butthole! Ah ah, nobody goes upstairs.”
+  - “Be a good boy? You know all about this? Kyle, what the fuck is going on now? She's been built up to be sacrificed, Stan! Sacrificed? For what? For harvest, Stanley.”
   - “…Britney has been spotted camping in the Colorado mountains, and one report claims that she has taken a piss in the forest.”
   - “The troubled diva took a piss.”
   - “Hey look! - There she is! Oh crap! Jesus Christ! Yeah yeah, it's like this all the time.”
@@ -3600,17 +3769,18 @@ Watch for:
 ## S12 E3 — 3. Major Boobage
 URL: https://watchwiththekids.com/ep/south-park/1203.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Suspicions by friends and family of Kenny's drug use play out in an homage to the 1981 animated fantasy "Heavy Metal."
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - “Appease the gods by lathering her boobs with soapy suds.”
   - “And then you fight the boob goblin in the gazongas cave, and then the girl may thank you for it.”
   - “And you never really get a good look at her naked boobs anyway.”
 - Swearing — 11 moment(s)
-  - “Kenny! Kenny, wake up! Wake up, Kenny! You all right? - Kenny! - What? What's the matter? Dude, that cat urine really f***ed you up.”
-  - “Hey f*** you, Cartman! Agh Kenny! Knock it off! What's wrong with you? Ah, Kenny! Dude! Dude, Kenny, calm down! How can I calm down? You should've seen those titties.”
-  - “I'm not ruining my life, okay, you Goddamned f***ing psychos.”
-  - “He's cheesing his f***ing balls off, dude.”
-  - “What? Get out of here, kid! Hey! f*** you!”
+  - “Kenny! Kenny, wake up! Wake up, Kenny! You all right? - Kenny! - What? What's the matter? Dude, that cat urine really fucked you up.”
+  - “Hey fuck you, Cartman! Agh Kenny! Knock it off! What's wrong with you? Ah, Kenny! Dude! Dude, Kenny, calm down! How can I calm down? You should've seen those titties.”
+  - “I'm not ruining my life, okay, you Goddamned fucking psychos.”
+  - “He's cheesing his fucking balls off, dude.”
+  - “What? Get out of here, kid! Hey! Fuck you!”
   - “Dude, I don't think we should be messing around with that crap anymore.”
   - “" This sixth grade girl said she's been snorting cat piss for several months.”
   - “Kids also refer to it as "the cheese game," or "vitamin cheese," or "Mary Jane piss in your face fun time.”
@@ -3625,13 +3795,14 @@ Watch for:
 ## S12 E4 — 4. Canada on Strike
 URL: https://watchwiththekids.com/ep/south-park/1204.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: When Canada goes on strike, the boys find themselves in the thick of negotiations for a settlement, and the void in U.S. jobs is filled by replacements from Denmark. Meanwhile, Terrance and Phillip are on the fence about joining the strike, but are shocked by its fiscal consequences.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “The blood will be on your hand.”
   - “Huh, it somehow loses its punch after multiple viewings.”
 - Swearing — 4 moment(s)
-  - “A young, confused-looking boy dancing and singing a song called "what what in my a**hole.”
-  - “Houe a**hole kid.”
+  - “A young, confused-looking boy dancing and singing a song called "what what in my asshole.”
+  - “Houe asshole kid.”
   - “Who crowned you the top internet star? I did, when I became bigger than all you bitches.”
   - “You all want to mother Die? No! Hey, forget it! We'll wait our turn! leave him alone! leave him alone! Get ready for some chocolate bean, bitch! Leave the what whatnda alone! Leave her alone! I'm serious.”
 - Homophobic jokes — 1 moment(s)
@@ -3642,6 +3813,7 @@ Watch for:
 ## S12 E5 — 5. Eek, A Penis!
 URL: https://watchwiththekids.com/ep/south-park/1205.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman takes over Ms. Garrison's class when the teacher's personal crisis causes her to be removed from the classroom.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “She was a woman but then she got a sex change, became a man, but then she got pregnant and is having a baby, which means she's still a woman all along.”
@@ -3651,11 +3823,11 @@ Watch for:
   - “Where are you going to find a penis?" Whattaya mean, where am I gonna find a penis? I'm a man! I deserve a Goddamned penis! Mr.”
   - “Uh, we think it's best you not teach until you get your personal life in order, m'kay? Oh it's so easy for you, Mackey! You have a penis!”
 - Violence & injury — 1 moment(s)
-  - “Do you know what those kids are going to do to you? A little middle-class white boy telling them what to do? They are going to f***ing murder you! Maybe he's right.”
+  - “Do you know what those kids are going to do to you? A little middle-class white boy telling them what to do? They are going to fucking murder you! Maybe he's right.”
 - Swearing — 5 moment(s)
-  - “Do you know what those kids are going to do to you? A little middle-class white boy telling them what to do? They are going to f***ing murder you! Maybe he's right.”
-  - “Getting into college? Man, we ain't getting in no college! f*** you!”
-  - “f*** you, man, you can't do that! Look at the scoreboard, amigo.”
+  - “Do you know what those kids are going to do to you? A little middle-class white boy telling them what to do? They are going to fucking murder you! Maybe he's right.”
+  - “Getting into college? Man, we ain't getting in no college! Fuck you!”
+  - “Fuck you, man, you can't do that! Look at the scoreboard, amigo.”
   - “What the hell is this? I am here to teach you calculus.”
   - “Hey man, what the hell do you think you're doing? Mr.”
 - Homophobic jokes — 1 moment(s)
@@ -3664,6 +3836,7 @@ Watch for:
 ## S12 E6 — 6. Over Logging
 URL: https://watchwiththekids.com/ep/south-park/1206.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
+Summary: When a lack of Internet access in South Park sparks panic in the community, Randy takes his family to California in search of a signal.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - “Aw, how am I supposed to see Internet porn that way? - What did you say? - Uh, you go ahead, Sharon.”
@@ -3678,14 +3851,15 @@ Watch for:
 ## S12 E7 — 7. Super Fun Time
 URL: https://watchwiththekids.com/ep/south-park/1207.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: A class trip to a living museum that recreates 1800s Colorado leads to a hostage situation for some of the boys.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “You let out Murderin' Murphy? Y'are all gettin' it for puttin' me in that there jail! Stop it! Stop your bad historical acting right now! Tarnation.”
   - “Why'd you let Murderin' Murphy go? He's a bad man.”
   - “Will you shut up! - Wait, you have guns here? Sure.”
 - Swearing — 7 moment(s)
-  - “Goddamnit you people are f***ing insane! - I don't believe it.”
-  - “I am the f***ing bad man! You get that? Knock it off and give me the mine shaft access code! You're just gonna have to kill us, mister, 'cause you ain't makin' no sense at all! I won't kill you if you don't tell me.”
+  - “Goddamnit you people are fucking insane! - I don't believe it.”
+  - “I am the fucking bad man! You get that? Knock it off and give me the mine shaft access code! You're just gonna have to kill us, mister, 'cause you ain't makin' no sense at all! I won't kill you if you don't tell me.”
   - “We lost them, we lost them! - Damn pig cops! - Close that gate! - What's going on? - I don't know.”
   - “Crap, they called the cops on us.”
   - “Damanov, Vodski! Find out if there are any employees or students wandering about! Bring them here or shoot them! - Oh crap, we've gotta hide.”
@@ -3695,6 +3869,7 @@ Watch for:
 ## S12 E8 — 8. The China Probrem
 URL: https://watchwiththekids.com/ep/south-park/1208.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Butters stands with Cartman as he confronts the Chinese after a tragic event.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Them panties, take 'em off.”
@@ -3703,9 +3878,9 @@ Watch for:
   - “I mean it! - Butters, hold this gun on them.”
   - “The police are here! We're safe! You with the gun, step out or we will fire upon you.”
 - Swearing — 8 moment(s)
-  - “Yeah, f***'em! No.”
-  - “Dude, what the f*** are you doing? What? What happened? Goddammit, what did I say about shooting guys in the dick? - I did it again.”
-  - “You don't f***in' do that.”
+  - “Yeah, fuck'em! No.”
+  - “Dude, what the fuck are you doing? What? What happened? Goddammit, what did I say about shooting guys in the dick? - I did it again.”
+  - “You don't fuckin' do that.”
   - “He's gonna warn the Chinese and they'll kill your parents! Do it! Oh, dude, you shot him in the dick.”
   - “You don't shoot a guy in the dick.”
   - “Oh, my god! - What? - One of the cops is Chinese! Son of a bitch, how high up does this thing go?”
@@ -3719,6 +3894,7 @@ Watch for:
 ## S12 E9 — 9. Breast Cancer Show Ever
 URL: https://watchwiththekids.com/ep/south-park/1209.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Wendy courts trouble when she vows to beat up Cartman after school.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - “Me, you're the one talking about killer titties, watch out wendy,guys, went day says boobs can kill you.”
@@ -3733,7 +3909,7 @@ Watch for:
 - Swearing — 7 moment(s)
   - “Throw down, bitch.”
   - “It's on bitch.”
-  - “You don't get it a**hole, there's nothing you can do to stop this fight.”
+  - “You don't get it asshole, there's nothing you can do to stop this fight.”
   - “She is pissed off.”
   - “****** I hope not, i want to see wendy kick the crap out of him.”
   - “Detention, that's it! I've got to get detention fast! Eric, did you just take a crap on my desk?”
@@ -3748,12 +3924,13 @@ Watch for:
 ## S12 E10 — Pandemic (1)
 URL: https://watchwiththekids.com/ep/south-park/1210.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman enlists the help of rival Craig when the boys spot an easy opportunity for financial gain from a global crisis.
 Watch for:
 - Swearing — 10 moment(s)
-  - “Craig, don't be an a**hole.”
-  - “Go, go! Serves you right, a**holes.”
-  - “Don't be an a**hole.”
-  - “And that's why everyone at school thinks you guys are a**holes.”
+  - “Craig, don't be an asshole.”
+  - “Go, go! Serves you right, assholes.”
+  - “Don't be an asshole.”
+  - “And that's why everyone at school thinks you guys are assholes.”
   - “Craig's just being a dick because we're having a tough time right now.”
   - “I'm being a dick.”
   - “You heartless bastard.”
@@ -3764,10 +3941,11 @@ Watch for:
 ## S12 E11 — Pandemic (2): The Startling
 URL: https://watchwiththekids.com/ep/south-park/1211.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The boys discover the reason for the global attacks by oversize guinea pigs, but first they have to find their way out of the Andes.
 Watch for:
 - Swearing — 5 moment(s)
-  - “Craig! No! How did you get here? Hey, it's that a**hole who sent us to the jungle with nobody to pick us up.”
-  - “That guy's an a**hole.”
+  - “Craig! No! How did you get here? Hey, it's that asshole who sent us to the jungle with nobody to pick us up.”
+  - “That guy's an asshole.”
   - “Yeah, what a dick! [mumbles.]”
   - “Randy! What the hell are you doing? I've got really good shot of it, Sharon.”
   - “Damn you, Craig.”
@@ -3775,17 +3953,18 @@ Watch for:
 ## S12 E12 — About Last Night...
 URL: https://watchwiththekids.com/ep/south-park/1212.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: South Park residents join the rest of the country in celebrating the election of a U.S. president, who moves a new administration into the White House ahead of schedule.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Bloody idiots.”
 - Suicide & self-harm — 1 moment(s)
   - “Was he an Obama supporter or McCaine supporter? Why does that matter? Because then I'll know if he partied too hard or if he tried to kill himself.”
 - Swearing — 12 moment(s)
-  - “Yeah, you know what? f*** you! - Huh? - You heared me, you f***ing piece of sh*t.”
-  - “I can finally tell you what I think you, f***ing a**hole.”
-  - “I don't need this stupid f***ing job anymore.”
-  - “What do you say? Ah, what the f***.”
-  - “Let go my face, a**hole.”
+  - “Yeah, you know what? Fuck you! - Huh? - You heared me, you fucking piece of shit.”
+  - “I can finally tell you what I think you, fucking asshole.”
+  - “I don't need this stupid fucking job anymore.”
+  - “What do you say? Ah, what the fuck.”
+  - “Let go my face, asshole.”
   - “That son of a bitch lied to us.”
   - “No! Ike! Oh crap, Ike! Alright, everyone, I'm turning in for the night.”
   - “We're not take crap for the rich fat cats anymore.”
@@ -3799,6 +3978,7 @@ Watch for:
 ## S12 E13 — Elementary School Musical
 URL: https://watchwiththekids.com/ep/south-park/1213.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys are startled to learn that their popularity at school is waning when they fail to submit to the latest fad, which actually makes Butters cooler than they are.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “What's High School Musical one and two? This-- This is not even condom its only's baloney sandwitch.”
@@ -3810,12 +3990,12 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “I'm gonna go home and kill myself.”
 - Swearing — 12 moment(s)
-  - “No, f*** off, I'm not doing it.”
-  - “f*** you, Kyle.”
-  - “Don't talk to me, stupid jack a**hole.”
-  - “I'll slap the sh*t out of you.”
-  - “Slap it again! Dad, stop! You're trying to turn my son into little a**hole sports person like yourself.”
-  - “Oh, sh*t! Oh, that's good, that's good.”
+  - “No, fuck off, I'm not doing it.”
+  - “Fuck you, Kyle.”
+  - “Don't talk to me, stupid jack asshole.”
+  - “I'll slap the shit out of you.”
+  - “Slap it again! Dad, stop! You're trying to turn my son into little asshole sports person like yourself.”
+  - “Oh, shit! Oh, that's good, that's good.”
   - “…is, slapped you! You probably think I'm finished, huh? No, there's another one! Oh my god! Don't worry, bitch, I didn't forget about you.”
   - “God damn, your family's poor, dude.”
   - “Yeah! Where the hell are you guys-- b-been? Peru.”
@@ -3829,6 +4009,7 @@ Watch for:
 ## S12 E14 — The Ungroundable
 URL: https://watchwiththekids.com/ep/south-park/1214.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: In the 12th-season finale, vampire sightings at school anger the Goth kids, who are upset when they become indistinguishable from the bloodsucking interlopers in the eyes of their peers.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It makes me want to - Dude! - Are you all right, sweetie? What's going on? Well, Mom, apparently Butters is gay, finds me very attractive and confused about his sexual identity.”
@@ -3848,6 +4029,7 @@ Watch for:
 ## S13 E1 — 1. The Ring
 URL: https://watchwiththekids.com/ep/south-park/1301.html
 Scores: violence 1/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: In the 13th-season premiere, Kenny gets less than he bargained for when he takes his new girlfriend to a Jonas Brothers concert.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “What kind of protection? Can I have a box of condoms, please? Box of condoms.”
@@ -3861,13 +4043,13 @@ Watch for:
   - “And you're gonna let that near your penis?”
   - “"Statistically the most unsafe place for a man to put his penis," I said.”
 - Swearing — 11 moment(s)
-  - “No, f*** that, dude! I bought the f***ing tickets! Hey, what the f***?! The Jonas Brothers will be right out, girls.”
-  - “Yeah! It isn't fair, I was so close to getting a blow job and I'll never get one now! This is f***ing bullshit.”
-  - “Well well, maybe we'll just refuse to go onstage! Ooof! You don't f***ing talk to me like that-- ha-ha-- you little piece of sh*t-- ha-ha.”
-  - “Get the f*** up! Get the f*** up-- Ha-ha.”
+  - “No, fuck that, dude! I bought the fucking tickets! Hey, what the fuck?! The Jonas Brothers will be right out, girls.”
+  - “Yeah! It isn't fair, I was so close to getting a blow job and I'll never get one now! This is fucking bullshit.”
+  - “Well well, maybe we'll just refuse to go onstage! Ooof! You don't fucking talk to me like that-- ha-ha-- you little piece of shit-- ha-ha.”
+  - “Get the fuck up! Get the fuck up-- Ha-ha.”
   - “Oh, my God, look at this! Motherfucker! What? "Jonas Brothers talk music, Faith in God, and purity rings.”
   - “What? It's true! Ask anybody in fifth grade! Tammy Warner is a total slut! That bitch! Kenny gave his heart to her and she's just gonna throw it in his face! Well, Kenny deserves to know, fellas.”
-  - “Hey, what do you think you're doing? That's great stuff, boys! You like takin' the Jonas Brothers' hot foam in your faces, girls? Hey! Hey, those Jonas Brothers are a**holes!”
+  - “Hey, what do you think you're doing? That's great stuff, boys! You like takin' the Jonas Brothers' hot foam in your faces, girls? Hey! Hey, those Jonas Brothers are assholes!”
   - “Wake up, wake up, you little prick-- ha-ha.”
   - “Can you can you forgive me, Ken? There you are, young man, two tickets to the Jonas Brothers concert! Thanks! The Jonas Brothers? Dude, Kenny, what the hell is wrong with you?”
   - “Yup, he's in here! Dude, what the hell are you doing, Kenny? This is the day we were supposed to throw cow turds at cars together! We've had just about enough, dude.”
@@ -3883,23 +4065,24 @@ Watch for:
 ## S13 E2 — 2. The Coon
 URL: https://watchwiththekids.com/ep/south-park/1302.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Rival vigilantes battle for supremacy as crime-fighting icons of the town.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “What do we know about the Mayor's sexual preferences? All right, listen, you have five seconds to leave or I'm gonna put you in the jail and call your parents.”
 - Swearing — 11 moment(s)
-  - “You're a fag, Kyle! f*** you! Dude, what? He's not a fag! Why do you care? Oh, I, uh Well, I'm just mad 'cause you shouldn't ever use the term "fag," Kyle.”
-  - “Mysterion? That's f***ing retarded.”
+  - “You're a fag, Kyle! Fuck you! Dude, what? He's not a fag! Why do you care? Oh, I, uh Well, I'm just mad 'cause you shouldn't ever use the term "fag," Kyle.”
+  - “Mysterion? That's fucking retarded.”
   - “No! Dude, I'm seriously, you're being a copycat! I'll sue you! Motherfucker!”
-  - “How is it that nobody came to Coonicon '09? This is just this is f***ing ridiculous! Got everything you need here, sir? Okay on beverages, buffet items? Yes, it's fine.”
-  - “…Let him go, General Disarray! Why would you help us? Because Mysterion is trying to-- Ugh! Little f***er, that f***ing hurt!”
-  - “Why don't you shut the f*** up? All right, Chaos, I'm gonna get the triggers for these things at Ace Hardware.”
-  - “God speed, Mysterion! You are a beacon of hope in an otherwise bleak and dreary world! Dude, seriously, I'm gonna kick the sh*t out of you if you don't stop.”
-  - “Fireworks are illegal in Colorado, you a**hole! Hey, he's got fireworks! So, guys any of you do anything interesting last night? Not really.”
+  - “How is it that nobody came to Coonicon '09? This is just this is fucking ridiculous! Got everything you need here, sir? Okay on beverages, buffet items? Yes, it's fine.”
+  - “…Let him go, General Disarray! Why would you help us? Because Mysterion is trying to-- Ugh! Little fucker, that fucking hurt!”
+  - “Why don't you shut the fuck up? All right, Chaos, I'm gonna get the triggers for these things at Ace Hardware.”
+  - “God speed, Mysterion! You are a beacon of hope in an otherwise bleak and dreary world! Dude, seriously, I'm gonna kick the shit out of you if you don't stop.”
+  - “Fireworks are illegal in Colorado, you asshole! Hey, he's got fireworks! So, guys any of you do anything interesting last night? Not really.”
   - “Everything went to crap.”
   - “But she is still my city and I cannot just sit and watch as innocent people are Who the hell is that? Who the hell are you? I am an angel keeping watch over the city at night.”
   - “Really? Nobody was playing with any fireworks?! Dude, what the hell?”
 - Homophobic jokes — 1 moment(s)
-  - “You're a fag, Kyle! f*** you! Dude, what? He's not a fag! Why do you care? Oh, I, uh Well, I'm just mad 'cause you shouldn't ever use the term "fag," Kyle.”
+  - “You're a fag, Kyle! Fuck you! Dude, what? He's not a fag! Why do you care? Oh, I, uh Well, I'm just mad 'cause you shouldn't ever use the term "fag," Kyle.”
 - Fat-shaming — 1 moment(s)
   - “Yeah, well, you can't know my true identity either! I assume you must be Cartman, because you're fat.”
 - Slut-shaming — 1 moment(s)
@@ -3908,13 +4091,14 @@ Watch for:
 ## S13 E3 — 3. Margaritaville
 URL: https://watchwiththekids.com/ep/south-park/1303.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy's solution to fix the economy finds enthusiastic support in the community and revolutionizes the way people live their lives.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “If somebody's thinking of stabbing him in the back, you're being a dick.”
 - Swearing — 5 moment(s)
-  - “So saying it would be limited to one son is f***ing stupid! That is stupid, yea.”
-  - “Kyle, please, for f-f-f-f***'s sake, don't do anything drastic.”
-  - “And these a**holes just blindly started buying any stupid thing that looked appealing because they thought money was endless.”
+  - “So saying it would be limited to one son is fucking stupid! That is stupid, yea.”
+  - “Kyle, please, for f-f-f-fuck's sake, don't do anything drastic.”
+  - “And these assholes just blindly started buying any stupid thing that looked appealing because they thought money was endless.”
   - “If somebody's thinking of stabbing him in the back, you're being a dick.”
   - “Well, this sucks.”
 - Alcohol & drugs — 1 moment(s)
@@ -3925,19 +4109,20 @@ Watch for:
 ## S13 E4 — 4. Eat, Pray, Queef
 URL: https://watchwiththekids.com/ep/south-park/1304.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: An April Fools' joke goes bad, inspiring fear and fury among the boys.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - “…we're having sex! f*** you, you don't f***ing slap me! Could you please keep it down? We're trying to have sex over here.”
+  - “…we're having sex! Fuck you, you don't fucking slap me! Could you please keep it down? We're trying to have sex over here.”
   - “She queefed while we were having sex, Terrance!”
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “I had air trapped in my vagina.”
   - “You wanna tell me what's funny about two women shooting air from their vagina into a man's face?! No, no, see, some of us were eating when you showed that! I threw up on my way home.”
 - Swearing — 6 moment(s)
-  - “Agh! Ha hah ahahahaahaa!! What the f*** is this? Now listen here, if you queef in my face then I refuse to be your gynecologist! I'm sorry, Doctor.”
-  - “…my way! Losers! Losers wait! Ahghghgghh! Ahghghgghh! Ahghghgghh! Jesus Christ! You stupid bitch! What the f*** is wrong with you?!”
+  - “Agh! Ha hah ahahahaahaa!! What the fuck is this? Now listen here, if you queef in my face then I refuse to be your gynecologist! I'm sorry, Doctor.”
+  - “…my way! Losers! Losers wait! Ahghghgghh! Ahghghgghh! Ahghghgghh! Jesus Christ! You stupid bitch! What the fuck is wrong with you?!”
   - “Now get your bitch-ass on the floor! It's on, it's on, it's on! You are watching the Canada Channel.”
-  - “…that's what we want! Like why did you show that smut instead of the Terrance and Phillip conclusion, you a**hole?!”
+  - “…that's what we want! Like why did you show that smut instead of the Terrance and Phillip conclusion, you asshole?!”
   - “Dude, what the hell is this disgusting crap? What the hell is this disgusting crap? Queef Sisters?! That's right, it's a hot, new Canadian show we're trying out.”
   - “I don't love your queefs, but, damn it, I love you.”
 - Alcohol & drugs — 1 moment(s)
@@ -3946,16 +4131,17 @@ Watch for:
 ## S13 E5 — 5. Fishsticks
 URL: https://watchwiththekids.com/ep/south-park/1305.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman helps Jimmy with a comedy routine that becomes the sensation of the year until it's time to take credit for the joke.
 Watch for:
 - Swearing — 12 moment(s)
-  - “Dude, f*** that! Maybe you were writing jokes for people's amusement but I don't work for free.”
+  - “Dude, fuck that! Maybe you were writing jokes for people's amusement but I don't work for free.”
   - “And then it just occurred to me, 'Oh man, you must be a gay fish, holmes!' That's just how I came up with it, mi amigos! Motherfucker!”
-  - “Yo' woa, what the hell? Gay fish! Gay fish! Gay fish! Gay fish! Gay fish! Gay fish! Yo' f*** this noise yo'!”
-  - “How do you look at yourself in the f***ing mirror? That's what I want to know! So here it is.”
+  - “Yo' woa, what the hell? Gay fish! Gay fish! Gay fish! Gay fish! Gay fish! Gay fish! Yo' fuck this noise yo'!”
+  - “How do you look at yourself in the fucking mirror? That's what I want to know! So here it is.”
   - “Fish dicks Oh my God, it's so obvious! How did I never think of it before? Dude, you got something? Alright just run with me on this, Eric.”
   - “You like putting fish dicks in your mouth? Yeah.”
   - “…I'm the voice of a generation! What are you!? Nothing! Look at me man I'm not funny, I steal jokes, my dick don't work, man I got to piss in a plastic bag, man, I got no dick!”
-  - “Oh sh*t, oh no man, come on I got no dick man- Ahhh ahh! Now, explain it to me.”
+  - “Oh shit, oh no man, come on I got no dick man- Ahhh ahh! Now, explain it to me.”
   - “…"like fishsticks in your mouth?" "What are you a gay fish?" -There! Wow Eric, incredible! Too bad I'm a dick and I'm gonna take all the credit.”
   - “S-s-suck it, bitch.”
   - “Yeah well, you wanna do something? I wanted to hang out with Stan and Kyle but they're all pissed off at me for something so I have to hang out with you.”
@@ -3966,6 +4152,7 @@ Watch for:
 ## S13 E6 — 6. Pinewood Derby
 URL: https://watchwiththekids.com/ep/south-park/1306.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy pulls out all the stops to make sure that Stan wins first place in the annual Pinewood Derby
 Watch for:
 - Affairs / cheating — 2 moment(s)
   - “What? Stan! The truth is I don't deserve this trophy, because I cheated on my Pinewood Derby car.”
@@ -3975,7 +4162,7 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “You know, suicide.”
 - Swearing — 7 moment(s)
-  - “Come on out, sir, it appears to be over! Oh, sh*t, it's Baby Fark McGee-Zax! My real name is Kevirn Xaxor.”
+  - “Come on out, sir, it appears to be over! Oh, shit, it's Baby Fark McGee-Zax! My real name is Kevirn Xaxor.”
   - “Stan, did you use all the damn toilet paper again? Oh, crap! What?! What do you guys want?! We said we only used what was in the kit! You got nothing on us! You got nothing on ussssss! Dad, they aren't here for that! Oh.”
   - “Oh, crap, it's the cops! Hang on! Oh, hey, space officers.”
   - “Hey-- hey, Mexico! We said no spending the space cash yet! What the hell are you doing?!”
@@ -3986,15 +4173,16 @@ Watch for:
 ## S13 E7 — 7. Fatbeard
 URL: https://watchwiththekids.com/ep/south-park/1307.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Buoyed by news of pirates in Somalia, Cartman hatches a plan to run away to live the life of a buccaneer.
 Watch for:
 - Swearing — 8 moment(s)
-  - “You should go there right away! I'll even help pay for your ticket! Wow, cool! Wait a minute-- the f***? Why would you do that? Unless, you're trying to trick me somehow No, no, you're right.”
-  - “You guys-- the f***?!”
-  - “"Everyone at school is a f***ing idiot "and if one more person talked to me about "that Susan Boyle performance of 'Les Miserables' "I was going to puke my balls out through my mouth.”
-  - “…town and live the life we've all dreamed of! We can?! What are you talking about, dude? Haven't you a**holes been watching the news?!”
-  - “"I'm going to Somalia to be a to be a pirate?!" Oh, sh*t! Oh, Gerald, what are we gonna do?! It's all right, he couldn't have gone far.”
+  - “You should go there right away! I'll even help pay for your ticket! Wow, cool! Wait a minute-- the fuck? Why would you do that? Unless, you're trying to trick me somehow No, no, you're right.”
+  - “You guys-- the fuck?!”
+  - “"Everyone at school is a fucking idiot "and if one more person talked to me about "that Susan Boyle performance of 'Les Miserables' "I was going to puke my balls out through my mouth.”
+  - “…town and live the life we've all dreamed of! We can?! What are you talking about, dude? Haven't you assholes been watching the news?!”
+  - “"I'm going to Somalia to be a to be a pirate?!" Oh, shit! Oh, Gerald, what are we gonna do?! It's all right, he couldn't have gone far.”
   - “…ho And a trick a lotty do Trick a lotty do We'll shoot you in the face with glee Then we'll cut off your cock and feed it to a crock Somalian Pirates we Somalian Pirates Weeeeeee Somalian Pirates Weeeeee We found…”
-  - “Jeez, guess we kinda got put in our place, huh, Ike? I feel like an a**hole.”
+  - “Jeez, guess we kinda got put in our place, huh, Ike? I feel like an asshole.”
   - “Damn pirates! What's causing them to suddenly be so much more active? Is the crew okay? Yes, sir, they're French so they surrendered immediately.”
 - Homophobic jokes — 1 moment(s)
   - “…-Who, you mean you? -Yes! Do you really wanna go back to that?! No, I'm sick of it! Well, all right then, fag!”
@@ -4004,6 +4192,7 @@ Watch for:
 ## S13 E8 — 8. Dead Celebrities
 URL: https://watchwiththekids.com/ep/south-park/1308.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle seeks help from paranormal experts when his little brother is haunted by ghosts.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Stop buying new underwear every time you eat Chipotle.”
@@ -4014,9 +4203,9 @@ Watch for:
   - “Just one Chipotle burrito can leave up to a 1/4 cup of underwear blood, but Chipotlaway makes your underwear clean and ready for more.”
   - “No, why the hell would you keep eating something that made you crap blood? - Dude, have you had Chipotle? It's really good.”
 - Swearing — 6 moment(s)
-  - “It's the gayest show in the f***ing world.”
-  - “Are you getting this? - Are you guys f***ing serious? - Oh, god, the paranormal activity is now leaving a-- a trail of some kind behind both of us.”
-  - “Hee, hee-hee, hee-hee-hee - Dude, a**hole! You're keeping a lot of other celebrities in Purgatory.”
+  - “It's the gayest show in the fucking world.”
+  - “Are you getting this? - Are you guys fucking serious? - Oh, god, the paranormal activity is now leaving a-- a trail of some kind behind both of us.”
+  - “Hee, hee-hee, hee-hee-hee - Dude, asshole! You're keeping a lot of other celebrities in Purgatory.”
   - “Dude, why the hell would you do that? - Because he was a great person, Kyle.”
   - “It's neither Heaven nor Hell.”
   - “All right, that's about enough! - Aw, crap! - Hey, what the f? - All right, everyone.”
@@ -4026,6 +4215,7 @@ Watch for:
 ## S13 E9 — 9. Butters' Bottom Bitch
 URL: https://watchwiththekids.com/ep/south-park/1309.html
 Scores: violence 1/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Butters hopes his first kiss will put an end to his friends' ridicule.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Soyou are agreeing to have sex with me for $100, correct? - Sure.”
@@ -4034,7 +4224,7 @@ Watch for:
   - “Now if you wouldn't mind handing over the $20 for oral sex.”
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “Oh, you're a nasty little f***, aren't ya? Yeah, let me see that hot penis of yours.”
+  - “Oh, you're a nasty little fuck, aren't ya? Yeah, let me see that hot penis of yours.”
   - “Fellas, my underwear is so far up my butt crack, my legs are numb.”
 - Porn / strippers / sex work — 7 moment(s)
   - Stripper or strip-club material shows up in the plot.
@@ -4047,15 +4237,15 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “If Stan comes near me, punch him.”
 - Swearing — 12 moment(s)
-  - “Oh, you're a nasty little f***, aren't ya? Yeah, let me see that hot penis of yours.”
-  - “Oh, yes! That's great! - Yeah, you like it? - Oh, I love it! - Yeah, you're a dirty f***.”
-  - “Wendy! Bitch, don't you wanna start making some real f***ing money? - Leave me alone.”
-  - “Butters! Butters, do you have a problem? - All these bitches are kissin' fellers, and they haven't figured out that they can be makin' some serious f***ing money.”
+  - “Oh, you're a nasty little fuck, aren't ya? Yeah, let me see that hot penis of yours.”
+  - “Oh, yes! That's great! - Yeah, you like it? - Oh, I love it! - Yeah, you're a dirty fuck.”
+  - “Wendy! Bitch, don't you wanna start making some real fucking money? - Leave me alone.”
+  - “Butters! Butters, do you have a problem? - All these bitches are kissin' fellers, and they haven't figured out that they can be makin' some serious fucking money.”
   - “Boy, Kyle was right, Sally! There's guys with kissing companies all over the country! The person managing all the women is known as "the pimp," while the working women are referred to as "ho" or "bitch.”
   - “" Oh! You're a bitch, Sally!”
   - “What's the game? - The game is how you treat the bitches, know what I'm sayin'?”
   - “Pimp gotta be out there every motherfucking day keepin' his bitches in line.”
-  - “Can't let 'em go shopping, spending their money on stupid sh*t.”
+  - “Can't let 'em go shopping, spending their money on stupid shit.”
   - “Hey, hey! What the hell are you guys picking on Butters for this time? - Oh, dude, you guys are not gonna believe this.”
   - “Butters, you're the one doing all this? - Yep! I am founder and Head CEO of the Butters' Kissing Company! Just look at this! - Damn, dude, you made all that money off of chicks?”
   - “Sally Darson? - Aw, hell, Dad, I got lots of girlfriends.”
@@ -4068,6 +4258,7 @@ Watch for:
 ## S13 E10 — W.t.f.
 URL: https://watchwiththekids.com/ep/south-park/1310.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys aspire to be professional wrestlers after seeing their first match live.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Number 24 You're wrestling for the right to marry Mackenzie Phillips but just learned that she had sex with her father.”
@@ -4082,13 +4273,13 @@ Watch for:
   - “Wrestling simply involves too much adult subject matter, like murder and abortion.”
   - “…Mexico to wrestle against you! - That Russian kid's got hepatitis? - And here he comes now! The cold-blooded wrestler from Mexico, El Pollo Loco!”
 - Swearing — 12 moment(s)
-  - “…Tomorrow we are signing up for wrestling class! - Yeah! - All right! - This is awesome, you guys! - The f*** is this?”
-  - “Here we go - The f*** is this? - Now just reach around him here.”
-  - “That's f***ing gay! - Yeah.”
-  - “Well, this is f***ing lame, dude.”
-  - “You're sh*tting me.”
+  - “…Tomorrow we are signing up for wrestling class! - Yeah! - All right! - This is awesome, you guys! - The fuck is this?”
+  - “Here we go - The fuck is this? - Now just reach around him here.”
+  - “That's fucking gay! - Yeah.”
+  - “Well, this is fucking lame, dude.”
+  - “You're shitting me.”
   - “Son of a bitch.”
-  - “This is all your fault, you WWE President a**hole.”
+  - “This is all your fault, you WWE President asshole.”
   - “Let me guess, You just went to that stupid WWE show in Denver last night! Yeah! - Ugh! The WWE is not wrassling! That's a bunch of fake bull crap! How stupid are you? Real wrassling, boys, is this.”
   - “Let's get the hell out of here, guys.”
   - “Holy crap, dude.”
@@ -4101,18 +4292,19 @@ Watch for:
 ## S13 E11 — Whale Whores
 URL: https://watchwiththekids.com/ep/south-park/1311.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Stan vows to save the dolphins after a family visit to an aquarium in Denver on his birthday is marred by a mass slaughter of aquatic mammals.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “It's time to bring out the big guns.”
   - “…plays A little gambling is fun when you're with me I love it Russian roulette is not the same without a gun And baby when it's love If it's not rough, it isn't fun Oh oh Whoa whoa oh Whoa oh whoa oh I'll get him…”
 - Swearing — 10 moment(s)
-  - “It's the Japanese! - f*** you, dolphin! - f*** you, dolphin! - These are our favorite animals here at the Atlanta Zoo.”
-  - “These whales live mostly in the Arctic-- - f*** you, whale! - All right, Jessica.”
-  - “You're taking viewers away from our show, you stupid ass! - Your show is f***ing gay, dude.”
-  - “Your show is f***ing gay! - Screw this.”
-  - “Kenny? You don't care about whales and dolphins being slaughtered? - Stan, me and Kenny don't give two sh*ts about stupid-ass whales!”
-  - “What did you do? - What you a**holes acted like you were doing.”
-  - “You said, "Stan, me and Kenny don't give two sh*ts about stupid-ass whales.”
+  - “It's the Japanese! - Fuck you, dolphin! - Fuck you, dolphin! - These are our favorite animals here at the Atlanta Zoo.”
+  - “These whales live mostly in the Arctic-- - Fuck you, whale! - All right, Jessica.”
+  - “You're taking viewers away from our show, you stupid ass! - Your show is fucking gay, dude.”
+  - “Your show is fucking gay! - Screw this.”
+  - “Kenny? You don't care about whales and dolphins being slaughtered? - Stan, me and Kenny don't give two shits about stupid-ass whales!”
+  - “What did you do? - What you assholes acted like you were doing.”
+  - “You said, "Stan, me and Kenny don't give two shits about stupid-ass whales.”
   - “What the hell is that? - Oh, no.”
   - “Sweet! - Are we ready to do this? - Yeah! - Yeah! - Yeah! Hell yeah! Let's do it! - Are we badasses? Yeah! - Are we badasses? Yeah! - All right, so What do we do? Wait.”
   - “I just want people to know that you can stop the Japanese if you have some real god damn balls.”
@@ -4122,20 +4314,21 @@ Watch for:
 ## S13 E12 — The F Word
 URL: https://watchwiththekids.com/ep/south-park/1312.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys take action when a motorcycle festival takes over the town.
 Watch for:
 - Swearing — 9 moment(s)
-  - “Just wanted to let you know you're f***ing fags.”
-  - “This is f***ed up! - What's wrong with kids today? - It doesn't make any sense.”
-  - “Oh! Aww! Somebody took a sh*t on my f***ing Harley!”
-  - “Aw, not those guys again! - God damn it! Why is it that every time we try and have a relaxing day a bunch of a**holes on their Harley motorcycles show up?”
-  - “All right! - Let's hit the streets! Fire 'em up! - Excuse me! Excuse me! Hey, a**holes!”
-  - “What are you guys talking about? Harley's are neat-o! - What? - I always thought someday when I grow up I'm gonna get a Harley! Then people will have to notice me, and they'll have to deal with my sh*t for once!”
-  - “No! We rolled in, kicked ass, and took sh*t over.”
+  - “Just wanted to let you know you're fucking fags.”
+  - “This is fucked up! - What's wrong with kids today? - It doesn't make any sense.”
+  - “Oh! Aww! Somebody took a shit on my fucking Harley!”
+  - “Aw, not those guys again! - God damn it! Why is it that every time we try and have a relaxing day a bunch of assholes on their Harley motorcycles show up?”
+  - “All right! - Let's hit the streets! Fire 'em up! - Excuse me! Excuse me! Hey, assholes!”
+  - “What are you guys talking about? Harley's are neat-o! - What? - I always thought someday when I grow up I'm gonna get a Harley! Then people will have to notice me, and they'll have to deal with my shit for once!”
+  - “No! We rolled in, kicked ass, and took shit over.”
   - “Cartman, you said you had an idea? - I think what I'm gonna do is find out wherever their bikes are and, uh, crap on their seats.”
   - “You four turd balls in my office, now! - Ah, crap.”
 - Homophobic jokes — 8 moment(s)
-  - “All right! - Let's hit the streets! Fire 'em up! - Excuse me! Excuse me! Hey, a**holes! - You guys know that Everyone thinks you're total fags, right?”
-  - “Just wanted to let you know you're f***ing fags.”
+  - “All right! - Let's hit the streets! Fire 'em up! - Excuse me! Excuse me! Hey, assholes! - You guys know that Everyone thinks you're total fags, right?”
+  - “Just wanted to let you know you're fucking fags.”
   - “I have had it with those loud annoying f-f-f-faggots.”
   - “Just because a person is gay doesn't mean he's a fag.”
   - “What? You four boys in my office now! - Aw, crap! - "'Faggot,' often shortened to 'fag,' "has been used in the English language "since the late 16th century.”
@@ -4146,6 +4339,7 @@ Watch for:
 ## S13 E13 — Dances with Smurfs
 URL: https://watchwiththekids.com/ep/south-park/1313.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman is selected to read the morning announcements at school, but he turns the forum into a bully pulpit to unleash criticism of the student-body president.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4159,11 +4353,11 @@ Watch for:
   - “Any interested students should fill out a-- Whoa! What's going on? - I'll kill you! I swear to god, I'll kill you! - Who are you? - I'm the man who's gonna put a bullet between your eyes! - Hey, he's got a gun!”
   - “…survey-- Aah! Aah! - I knew you were lying! That was terrible! Now put your mouth over the barrel of this gun.”
 - Swearing — 7 moment(s)
-  - “…I'm the man who's gonna put a bullet between your eyes! - Hey, he's got a gun! - You little bastard! You f***ed my wife!”
-  - “With all those Smurf berries, I can power the school for the entire year! - Wendy, I know you're president of our school, but you can't just dig up the Smurf's land! - f*** the Smurfs! They can suck my fat tits.”
+  - “…I'm the man who's gonna put a bullet between your eyes! - Hey, he's got a gun! - You little bastard! You fucked my wife!”
+  - “With all those Smurf berries, I can power the school for the entire year! - Wendy, I know you're president of our school, but you can't just dig up the Smurf's land! - Fuck the Smurfs! They can suck my fat tits.”
   - “Oh, this is it, huh? Okay, uh, Mike, why don't we have you try out first? He stutters like a bitch.”
   - “Maybe you guys should check into what student council actually does before you just blindly listen to what some idiot with a microphone tells you! - What did the Smurfs ever do to you, you bitch?”
-  - “Our a**hole president is a fat, smelly, douche bag milkshake.”
+  - “Our asshole president is a fat, smelly, douche bag milkshake.”
   - “I don't give a crap about Smurfs! It is true.”
   - “What the hell do you think you're doing? - A book signing.”
 - Alcohol & drugs — 1 moment(s)
@@ -4176,13 +4370,14 @@ Watch for:
 ## S13 E14 — Pee
 URL: https://watchwiththekids.com/ep/south-park/1314.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: In the 13th-season finale, the boys' trip to a local water park comes with apocalyptic overtones.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Aghgh Ahghg! Ahghggh! - He's losin' it! Stevens, your gun! - No! Wait! Wait.”
 - Swearing — 8 moment(s)
-  - “All right, check it out-- Butters--Butters! What the f***? Are you peeing in the pool? - You said go ahead! - Come on, Kyle.”
-  - “You don't pee in the shower, dude! That's f***ing disgusting!”
-  - “Okay, so let's-a-- - Hey, look! - Stan! - Alright, they finally came for us! - Are you f***ing kidding me?! - Wait here a minute, Stan.”
+  - “All right, check it out-- Butters--Butters! What the fuck? Are you peeing in the pool? - You said go ahead! - Come on, Kyle.”
+  - “You don't pee in the shower, dude! That's fucking disgusting!”
+  - “Okay, so let's-a-- - Hey, look! - Stan! - Alright, they finally came for us! - Are you fucking kidding me?! - Wait here a minute, Stan.”
   - “Pisses me off.”
   - “Six adorable children, please! Wave pool! Wave pool! Wave pool! Oh, what the hell? - All right.”
   - “Damn it! Where is that antidote? - Here! Here! We think we have it, sir! It's the best we could come up with in such a short time.”
@@ -4194,6 +4389,7 @@ Watch for:
 ## S14 E1 — 1. Sexual Healing
 URL: https://watchwiththekids.com/ep/south-park/1401.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
+Summary: In the 14th-season premiere, scientific testing reveals that some of the fourth-grade boys are sex addicts.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - “Autoerotic asphyxiation? What's that? I don't want to go into too much detail, but You choke yourself with a belt around your neck, While masturbating, dressed up like batman or something.”
@@ -4225,6 +4421,7 @@ Watch for:
 ## S14 E2 — 2. The Tale of Scrotie McBoogerballs
 URL: https://watchwiththekids.com/ep/south-park/1402.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: After being assigned to read a book that was once banned, the boys are inspired to collaborate on one of their own.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It's gonna blow! Kim kardashian is soo sexy.”
@@ -4237,24 +4434,25 @@ Watch for:
   - “Oh, my god! Walking out of his house he spotted a bloody and pus covered -- No!”
   - “No, no!That's just wrong! Randy, please! You've got to listen to me! Walking out of the house he found a bloody pus filled -- What?”
 - Swearing — 8 moment(s)
-  - “What's so controversial about this? All he's done is said sh*t and f*** a few times.”
-  - “Mother f***er! The whole thing.”
-  - “I read the whole f***ing thing! I kept thinking, alright, I guess the cool offensive stuff must be coming, And then after like a hundred pages i was like, Alright, i guess all the dirty stuff is at the end.”
-  - “And i was all, the f***ing is this?”
-  - “Dude, what the f*** is so dirty about this piece of sh*t?”
-  - “I hope they bury you, You evil f***er! Dude, people are pissed off at you, Butters.”
-  - “Why, Eric? Butters, you know god damn well you didn't write that book! But you told me i did! Yeah, but that was when we thought we were gonna get in trouble, a**hole!”
+  - “What's so controversial about this? All he's done is said shit and fuck a few times.”
+  - “Mother fucker! The whole thing.”
+  - “I read the whole fucking thing! I kept thinking, alright, I guess the cool offensive stuff must be coming, And then after like a hundred pages i was like, Alright, i guess all the dirty stuff is at the end.”
+  - “And i was all, the fucking is this?”
+  - “Dude, what the fuck is so dirty about this piece of shit?”
+  - “I hope they bury you, You evil fucker! Dude, people are pissed off at you, Butters.”
+  - “Why, Eric? Butters, you know god damn well you didn't write that book! But you told me i did! Yeah, but that was when we thought we were gonna get in trouble, asshole!”
   - “All because one little prick Had to go and write a book, leopold stotch.”
 
 ## S14 E3 — 3. Medicinal Fried Chicken
 URL: https://watchwiththekids.com/ep/south-park/1403.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: When a store selling medical marijuana opens on the site of Cartman's favorite fried-chicken joint, Randy is first in line to buy some weed. But he can't because he's completely healthy. Meanwhile, Cartman will stop at nothing to get the restaurant back.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You get the chicken for me and I'll make sure you are hooked up for life.”
 - Swearing — 8 moment(s)
-  - “There wont be a next time, you *** cocksucker! Hey, take it easy, colonel! I told you a long time ago, you f***ing little monkey, not to f*** with me.”
-  - “Hey! Hey, who the f*** you think you're talking to? Oh crap.”
+  - “There wont be a next time, you *** cocksucker! Hey, take it easy, colonel! I told you a long time ago, you fucking little monkey, not to fuck with me.”
+  - “Hey! Hey, who the fuck you think you're talking to? Oh crap.”
   - “I know,it sucks! Alright,kids.”
   - “You are in fine shape! Wul,that sucks.”
   - “Who's askin'? Cut the crap.”
@@ -4273,18 +4471,19 @@ Watch for:
 ## S14 E4 — 4. You Have 0 Friends
 URL: https://watchwiththekids.com/ep/south-park/1404.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle turns to Stan for help with a Facebook crisis.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “Hello? That's just a guy's penis, too! Okay.”
   - “Penis, penis, penis, penis, penis.”
 - Swearing — 9 moment(s)
-  - “Dude, f*** facebook, seriously.”
-  - “…I'm not getting sucked into that! You don't get sucked into it! You don't get sucked in at all! Please! f***!”
-  - “Let the final battle begin! f***ing yahtzee again? Seriously? What did i tell you! That's a straight flush already! You don't have a chance in here, user! Your pathetic little -- Yahtzee.”
-  - “No, i have 30 friend -- Hey, what the ll i Oh, no! Oh sh*t! Am i a joke to you? What? I just wanna know is that all i am? A big joke? Ummm, no? You do have a facebook page, Stan! Aw, god dammit.”
+  - “Dude, fuck facebook, seriously.”
+  - “…I'm not getting sucked into that! You don't get sucked into it! You don't get sucked in at all! Please! Fuck!”
+  - “Let the final battle begin! Fucking yahtzee again? Seriously? What did i tell you! That's a straight flush already! You don't have a chance in here, user! Your pathetic little -- Yahtzee.”
+  - “No, i have 30 friend -- Hey, what the ll i Oh, no! Oh shit! Am i a joke to you? What? I just wanna know is that all i am? A big joke? Ummm, no? You do have a facebook page, Stan! Aw, god dammit.”
   - “I don't wanna see anymore! Kyle, that's the way the world works! If you wanna find some quality friends, You can wade through all the dicks first! Excuse me.”
-  - “" Oh awesome! What the hell is that? Stan? You're an a**hole, Kyle!”
+  - “" Oh awesome! What the hell is that? Stan? You're an asshole, Kyle!”
   - “Son of a bitch.”
   - “I've got more friends than Kyle! How the hell do you have more friends than me? Cuz people think i'm cool, dude.”
   - “How many friends do you have, Kenny? How the hell do i only have 37 friends?”
@@ -4292,14 +4491,15 @@ Watch for:
 ## S14 E5 — 5. 200
 URL: https://watchwiththekids.com/ep/south-park/1405.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: South Park is the target of a class-action lawsuit on behalf of all the vengeful celebrities who have been mocked by the town.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “…and the same crappy music in every film and that if you're that in love with Johnny depp you should just have sex with him already.”
 - Swearing — 12 moment(s)
-  - “Aw, not you guys too! Jesus f***ing Christ!”
-  - “That town suggested I was made of sh*t.”
-  - “If anybody has a gripe against that sh*t it's me.”
-  - “Oh we can play that game too! You wanna see violence, you got it! God damn stupid a**holes!”
+  - “Aw, not you guys too! Jesus fucking Christ!”
+  - “That town suggested I was made of shit.”
+  - “If anybody has a gripe against that shit it's me.”
+  - “Oh we can play that game too! You wanna see violence, you got it! God damn stupid assholes!”
   - “That damn town.”
   - “Just what the hell do you think you're doing? What am I doing? Just having some fun, cholo.”
   - “Cut the crap.”
@@ -4318,6 +4518,7 @@ Watch for:
 ## S14 E6 — 6. 201
 URL: https://watchwiththekids.com/ep/south-park/1406.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The identity of Cartman's dad is on everyone's mind despite threats from the ginger kids about Muhammad and enraged celebrities who have harnessed the power of Mecha Streisand.
 Watch for:
 - Porn / strippers / sex work — 3 moment(s)
   - Porn / adult-channel plot is part of this episode.
@@ -4329,16 +4530,16 @@ Watch for:
   - “What's the matter, Conner? Don't like a little blood? No, I don't like a little blood.”
   - “Blood ain't the stuff for Blood ain't the stuff for Mitch Conner.”
 - Swearing — 8 moment(s)
-  - “If we were gonna have someone in a bear costume, Why would we actually have it be Muhammad, You f***ing idiot.”
-  - “We gots a black president, But whitey still don't trust me to use his mother f***ing phone.”
-  - “…It worked! I've done it! I've done it! Look at me! I'm not okay to make fun of anymore! Ooh, you lucky f***er.”
-  - “Eric Cartman? Suprise to see me, a**hole? Close the door.”
+  - “If we were gonna have someone in a bear costume, Why would we actually have it be Muhammad, You fucking idiot.”
+  - “We gots a black president, But whitey still don't trust me to use his mother fucking phone.”
+  - “…It worked! I've done it! I've done it! Look at me! I'm not okay to make fun of anymore! Ooh, you lucky fucker.”
+  - “Eric Cartman? Suprise to see me, asshole? Close the door.”
   - “Saigon is a hell of a place.”
   - “We aren't sure where he is! That's your problem! Get him back or babs will kill you all! Oh boy! Kenny! Kenny, dude, what the hell? You're supposed to be watching Muhammad I am! He's right here.”
   - “Dude, nobody gives a crap about who your stupid father is! Muhammad is an important issue with actual ethical rara I guarantee you, people care way more about who my father is.”
   - “Ha-Haaa! Oh crap.”
 - Racism & slurs — 2 moment(s)
-  - “One day you're sifting through the guts of some [racial slur] in Vietnam And the next you're playing Doctor Phil with some kid and his teacher.”
+  - “One day you're sifting through the guts of some gook in Vietnam And the next you're playing Doctor Phil with some kid and his teacher.”
   - “We understand you just Sounded like a freaking racist! We don't live in the We have a black president! Alright, alright.”
 - Homophobic jokes — 1 moment(s)
   - “Watching porn isn't like doing coke, fag!”
@@ -4349,6 +4550,7 @@ Watch for:
 ## S14 E7 — 7. Crippled Summer
 URL: https://watchwiththekids.com/ep/south-park/1407.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: Jimmy and Timmy go to summer camp with a winner-take-all attitude in a variety of contests, including Jimmy's participation in a surfing competition. Towelie faces an intervention for his addictions.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We got a bunch of wet campers down there! What's going on? Towelie makes extra money for drugs by offering oral sex to older men.”
@@ -4359,8 +4561,8 @@ Watch for:
   - “I just don't want to watch him kill himself! I don't even know who he is anymore! There's is no doubt in my mind that if we don't get Towelie help, our entire summer is going to be ruined.”
 - Swearing — 6 moment(s)
   - “Lemme talk to him, you bitch! Towelie is attempting to talk to his son.”
-  - “Alright, campers, are we ready? Yeah! Good luck, Jimmy! You too n-n-Nathan! You're gonna need it, you a**hole.”
-  - “Hey you owe me money, a**hole! That's it.”
+  - “Alright, campers, are we ready? Yeah! Good luck, Jimmy! You too n-n-Nathan! You're gonna need it, you asshole.”
+  - “Hey you owe me money, asshole! That's it.”
   - “You! It's not illegal, bitch.”
   - “What's going on, towel? Oh, yeah, just had to take a piss.”
   - “On your mark! Get set! Holy ! Mimsy! What the hell did you do? Dar you said ta put da black mamba in the canoe, boss! Not in our canoe, Mimsy! Mimsy has put the black mamba snake in the wrong canoe.”
@@ -4380,6 +4582,7 @@ Watch for:
 ## S14 E8 — 8. Poor and Stupid
 URL: https://watchwiththekids.com/ep/south-park/1408.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman's dream to become a NASCAR driver comes true, with Butters as his pit boss.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4390,12 +4593,12 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Don't you get it, Butters? It's never going to happen for me! Those people are way more poor and stupid than I'll ever be! I might as well kill myself.”
 - Swearing — 12 moment(s)
-  - “f***ing gross! All those ladies have stinky vaginas? If you develop an allergic reaction, see your doctor.”
-  - “Let's go Nascar! It looks like Dale Evans' car is going the wrong way! Cool, Nascar! Sweeet! Oh f*** my ass! Eric? All that work, all the effort I put in, I still wasn't poor and stupid enough to win.”
-  - “Oh that f***ing a**hole! Oh hey, Kenny! Dude, what the f***ing are doing.”
-  - “…no payments for two years! That's how you people stay poor forever! Am I right? That's it, right? Dude, f*** you!”
-  - “Hey Eric! - Ah, Butters! Did you give away all my money? You don't have a penny left! You're poor as sh*t.”
-  - “We both love Nascar and we're both poor as sh*t.”
+  - “Fucking gross! All those ladies have stinky vaginas? If you develop an allergic reaction, see your doctor.”
+  - “Let's go Nascar! It looks like Dale Evans' car is going the wrong way! Cool, Nascar! Sweeet! Oh fuck my ass! Eric? All that work, all the effort I put in, I still wasn't poor and stupid enough to win.”
+  - “Oh that fucking asshole! Oh hey, Kenny! Dude, what the fucking are doing.”
+  - “…no payments for two years! That's how you people stay poor forever! Am I right? That's it, right? Dude, fuck you!”
+  - “Hey Eric! - Ah, Butters! Did you give away all my money? You don't have a penny left! You're poor as shit.”
+  - “We both love Nascar and we're both poor as shit.”
   - “…sometimes! Can we just get back to the subject of racing, please? Oho, bring it aw-n Danica, you dumb bitch.”
   - “God damn it, Butters! All right, just just keep a lookout.”
   - “All right, what's up Nascar fans? I don't know about ya'll but this President Obama is pissin' me off.”
@@ -4408,6 +4611,7 @@ Watch for:
 ## S14 E9 — 9. It's a Jersey Thing
 URL: https://watchwiththekids.com/ep/south-park/1409.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Randy spearheads the town's defense when "Jersey Shore"-inspired Garden State residents are threatening to take over the entire country.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They're either screaming at each other or making disgusting sex sounds.”
@@ -4419,25 +4623,26 @@ Watch for:
   - “What are you doing? My dad said to distribute all these guns.”
   - “All people from Jersey do is hump and punch each other.”
 - Swearing — 12 moment(s)
-  - “Excuse my language, but that bitch needs her f***ing head examined.”
-  - “You f***ing psycho bitch! You're nothing but cabbage.”
-  - “You sick, old woman muff cabbage! Muff cabbage! f*** this psycho bitch.”
-  - “Let's get the f*** out of here.”
+  - “Excuse my language, but that bitch needs her fucking head examined.”
+  - “You fucking psycho bitch! You're nothing but cabbage.”
+  - “You sick, old woman muff cabbage! Muff cabbage! Fuck this psycho bitch.”
+  - “Let's get the fuck out of here.”
   - “What a stupid bitch.”
   - “What's her name? Linda? Have you noticed how yellow that bitch's teeth are? You can tell she's cabbage.”
-  - “They talk way too loud, they flip out for no reason, and every time they act like selfish a**holes, they go, "It's a Jersey thing.”
-  - “I don't have to take your sh*t.”
+  - “They talk way too loud, they flip out for no reason, and every time they act like selfish assholes, they go, "It's a Jersey thing.”
+  - “I don't have to take your shit.”
   - “I drank heavily and punched a lot of bitches in the face.”
-  - “Because his mom's a Jersey a**hole doesn't mean he is.”
+  - “Because his mom's a Jersey asshole doesn't mean he is.”
   - “You know what you do to make them move away? Every night, you take a crap on their doorstep.”
   - “Is that why there's crap on my doorstep every morning? Busted.”
 - Slut-shaming — 2 moment(s)
   - “You don't ever, ever, you rat dog, prostitution whore! You probably sell your muff for $6.”
-  - “Who the f*** are you to tell me what to do? You trashy whores get out of here and leave her alone.”
+  - “Who the fuck are you to tell me what to do? You trashy whores get out of here and leave her alone.”
 
 ## S14 E10 — Insheeption
 URL: https://watchwiththekids.com/ep/south-park/1410.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
+Summary: Stan talks to Mr. Mackey about his hoarding disorder, but learns the guidance counselor has problems with the same compulsion.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4448,6 +4653,7 @@ Watch for:
 ## S14 E11 — Coon 2: Hindsight
 URL: https://watchwiththekids.com/ep/south-park/1411.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 14+)
+Summary: The Coon leads a group of crimefighters who spring into action to help victims of another drilling catastrophe in the Gulf.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “All we need to do is get pictures of Captain Hindsight naked with Courtney Love.”
@@ -4462,6 +4668,7 @@ Watch for:
 ## S14 E12 — Mysterion Rises
 URL: https://watchwiththekids.com/ep/south-park/1412.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The identity of Mysterion is revealed when the Coon, abandoned by his crime-fighting cohorts, seeks revenge in the Gulf.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Um, dude, are you okay? Where are the pictures? Give every copy of the pictures to me now! P-please, sir, we don't know what you mean! You got pictures of me having sex with Courtney Love!”
@@ -4475,10 +4682,10 @@ Watch for:
 - Swearing — 12 moment(s)
   - “Mint Berrrrry Kerr-runch! The boys stated that there used to also be a hero named the Coon actually in the group, but they let him go because he was being quote "a dick.”
   - “You guys go! I'll deal with this prick.”
-  - “They reside in Colorado and they are a**holes and they all deserve to be sent to a dark oblivion! You can do that, right? Send people into a dark oblivion cuz that's what those buttholes deserve! No, dude.”
+  - “They reside in Colorado and they are assholes and they all deserve to be sent to a dark oblivion! You can do that, right? Send people into a dark oblivion cuz that's what those buttholes deserve! No, dude.”
   - “Hindsight's a bitch, isn't it?”
   - “I'm gonna keep being a dick.”
-  - “Who's a needs a tummy rub? You're hogging it all, a**hole.”
+  - “Who's a needs a tummy rub? You're hogging it all, asshole.”
   - “Cuz I paid for it, you stupid bitch.”
   - “You paid for it with the money I made washin' dishes at the Olive Garden! I told you to shut up! Give it to me you prick!”
   - “…so much fun * * Sending all my stupid friends to oblivion * * You and the dark one Cthulhu * Suck it bitches!”
@@ -4494,6 +4701,7 @@ Watch for:
 ## S14 E13 — Coon Vs. Coon & Friends
 URL: https://watchwiththekids.com/ep/south-park/1413.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cthulhu does Cartman's bidding, leaving Coon & Friends at his mercy; Kenny's curse presents a dilemma.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4504,14 +4712,14 @@ Watch for:
   - “Pretty cool? Do you know what it feels like to be stabbed? To be shot, decapitated, torn apart, burned, run over Kenny, Kenny calm down.”
   - “You just wanted to frame and blackmail people, then you beat up Clyde and Bradley for no reason! No, you're right.”
 - Swearing — 12 moment(s)
-  - “It's not pretty cool, Kyle! It f***ing hurts! And it won't go away and nobody will believe me! Remember this time! Try and f***ing remember! Oh my God! Holy sh*t dude! Dude! Is he Oh Jesus! Kenny.”
-  - “But you guys, what should I do? You should f*** off.”
-  - “Dude, where the f*** are we? I don't know but, I feel like I've been here before.”
-  - “Kenny! That f***ing hurts! Oh my God! Kenny.”
+  - “It's not pretty cool, Kyle! It fucking hurts! And it won't go away and nobody will believe me! Remember this time! Try and fucking remember! Oh my God! Holy shit dude! Dude! Is he Oh Jesus! Kenny.”
+  - “But you guys, what should I do? You should fuck off.”
+  - “Dude, where the fuck are we? I don't know but, I feel like I've been here before.”
+  - “Kenny! That fucking hurts! Oh my God! Kenny.”
   - “Oh you motherfucker.”
-  - “And you screamed, oh my God, and you called him a bastard! When was that? All the time! I die all the time! And you a**holes never remember! I think we would remember you dying, dude.”
-  - “The coon teamed up with Cthulhu, because even Cthulhu knows what evil a**holes Kyle and Stan and those guys are.”
-  - “…heroically watched judge Judy, knowing that his super hero friends were probably just fine without him! Oh sh*t!”
+  - “And you screamed, oh my God, and you called him a bastard! When was that? All the time! I die all the time! And you assholes never remember! I think we would remember you dying, dude.”
+  - “The coon teamed up with Cthulhu, because even Cthulhu knows what evil assholes Kyle and Stan and those guys are.”
+  - “…heroically watched judge Judy, knowing that his super hero friends were probably just fine without him! Oh shit!”
   - “Oh, get that fire-twirling hippie bitch! This freaking sucks! We worshiped and prayed to Cthulhu, went to all the cult meetings, but life is still totally freakin' gay.”
   - “How, dude? Kenny, where the hell are you going? I'm going to try to get you all out of here.”
   - “Don't worry, Mysterion! Mintberry Crunch is here to help you with these black cultists! Get out of my room, twerp! Mintberry Crunch isn't afraid of his fat sister! Grab her legs Mysterion! Mysterion? Oh crap!”
@@ -4522,15 +4730,16 @@ Watch for:
 ## S14 E14 — CrÃ¨me Fraiche
 URL: https://watchwiththekids.com/ep/south-park/1414.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: In the 14th-season finale, Randy's addiction to the Food Network has a detrimental effect on his family.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Alright, now for my baked ziti we are gonna start off by getting some extra virgin olive oil into the pan.”
 - Swearing — 12 moment(s)
-  - “Yeah, f***ing money.”
-  - “Oh f*** yeah.”
-  - “You gonna deglaze that f***ing pan? Oh I'm going to deglaze it.”
-  - “And I'd deglaze the f*** out of that pan.”
-  - “See what he's doing, Stan? He brined that for an hour in the fridge so now he can sear the sh*t out of it.”
+  - “Yeah, fucking money.”
+  - “Oh fuck yeah.”
+  - “You gonna deglaze that fucking pan? Oh I'm going to deglaze it.”
+  - “And I'd deglaze the fuck out of that pan.”
+  - “See what he's doing, Stan? He brined that for an hour in the fridge so now he can sear the shit out of it.”
   - “Well, hearing you bitch about your dad all the time is super interesting, Stan.”
   - “Dad, what are you doing? You're just in time! Sit down, sit down! I've made you all breakfast again! Oh crap.”
   - “Now here's the really cool part! What we're gonna do is this channel has been blocked by parental controls channel blocked? What the what the hell?”
@@ -4544,21 +4753,22 @@ Watch for:
 ## S15 E1 — 1. HUMANCENTiPAD
 URL: https://watchwiththekids.com/ep/south-park/1501.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The 15th season begins with the launch of a revolutionary tablet computer, though Cartman is feeling left out of the technology craze.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh, I've got a better idea! Why don't you go across the street and buy some condoms?”
 - Violence & injury — 1 moment(s)
   - “Hey you can't do that! You agreed we could take all the blood we needed.”
 - Swearing — 11 moment(s)
-  - “Would you mind loaning me some of your lipstick mom? Because I wanna at least look pretty the next time you decide to f*** me!”
-  - “Oh, I've got a better idea! Why don't you go across the street and buy some condoms? Because we should at least be safe if you're gonna f*** me, mom!”
-  - “Mama-- please, can we just go back and get the Toshiba Handibook? No! Welll, then could we at least pull up here and get some dinner? Cuz I liked to be wined and dined after I've been f***ed!”
-  - “Eric, you say that-- you're mom f***s you? Yes, she f***ed me so hard does this happen often, does she-- does she f***ed you a lot? Dude, Filipino hookers don't get f***ed the way I do.”
-  - “But, where was the last time your mother f***ed you? At Best Buy.”
-  - “Mom, do not screw me over again! If I take that thing to school everyone is gonna think I'm a poverty stricken a**hole! Eric, stop acting like a spoiled brat.”
-  - “People couldn't believe how easy it was to take their videos, music and photos and all their other sh*t and share it with other people who took their sh*t.”
-  - “Oh, no cuddle fish is about to to come out of my a**hole.”
-  - “And so, Eric, here is your very own-- Humancentipad! Woah! Cool! Oh wow, no way! It does email and web browsing and it sh*t in Kyle's mouth?!”
+  - “Would you mind loaning me some of your lipstick mom? Because I wanna at least look pretty the next time you decide to fuck me!”
+  - “Oh, I've got a better idea! Why don't you go across the street and buy some condoms? Because we should at least be safe if you're gonna fuck me, mom!”
+  - “Mama-- please, can we just go back and get the Toshiba Handibook? No! Welll, then could we at least pull up here and get some dinner? Cuz I liked to be wined and dined after I've been fucked!”
+  - “Eric, you say that-- you're mom fucks you? Yes, she fucked me so hard does this happen often, does she-- does she fucked you a lot? Dude, Filipino hookers don't get fucked the way I do.”
+  - “But, where was the last time your mother fucked you? At Best Buy.”
+  - “Mom, do not screw me over again! If I take that thing to school everyone is gonna think I'm a poverty stricken asshole! Eric, stop acting like a spoiled brat.”
+  - “People couldn't believe how easy it was to take their videos, music and photos and all their other shit and share it with other people who took their shit.”
+  - “Oh, no cuddle fish is about to to come out of my asshole.”
+  - “And so, Eric, here is your very own-- Humancentipad! Woah! Cool! Oh wow, no way! It does email and web browsing and it shit in Kyle's mouth?!”
   - “…and conditions for the last update say? I don't know, I didn't read them! You didn't read them?! Who the hell reads that entire thing every time it pops up?!”
   - “What the hell are they doing now? The Genius are just performing the toran ra, it's future stuff.”
 - Alcohol & drugs — 1 moment(s)
@@ -4567,19 +4777,20 @@ Watch for:
 ## S15 E2 — 2. Funnybot
 URL: https://watchwiththekids.com/ep/south-park/1502.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Jimmy hosts the Special Ed department's inaugural Comedy Awards, but a comment about the Germans' sense of humor gets the school in hot water.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “We can try and fix this! What is up with Sandra Bullock? I wouldn't eat her dick with Stevie Wonder's vagina.”
   - “…have seen the looks on people's faces, as Funnybot began his opening monologue, skewering everyone, from vagina obsessed Hispanics to Sandra Bullock, then spontaneously started shooting people in their faces and in…”
 - Violence & injury — 1 moment(s)
-  - “…to Sandra Bullock, then spontaneously started shooting people in their faces and in their chests The blood went flying sh*t, it was funny!”
+  - “…to Sandra Bullock, then spontaneously started shooting people in their faces and in their chests The blood went flying Shit, it was funny!”
 - Swearing — 10 moment(s)
-  - “You little sh*t! What the f*** have you done to us? It's Adam Sandler.”
-  - “Everyone into the school gymnasium! Move! - Don't make us go back in the - Into the gymnasium! - Not again! - Crap! Come on, let's go! You little f***ers!”
-  - “Who the f*** thinks a comedy awards show is a good idea? Don't hurt anybody.”
-  - “Little f***ers! Let's just kill them! Let's kill them all, right f***ing now! Tell your friends they better get it done.”
-  - “More than I hate having to do Bryant Gumble in his a**hole.”
+  - “You little shit! What the fuck have you done to us? It's Adam Sandler.”
+  - “Everyone into the school gymnasium! Move! - Don't make us go back in the - Into the gymnasium! - Not again! - Crap! Come on, let's go! You little fuckers!”
+  - “Who the fuck thinks a comedy awards show is a good idea? Don't hurt anybody.”
+  - “Little fuckers! Let's just kill them! Let's kill them all, right fucking now! Tell your friends they better get it done.”
+  - “More than I hate having to do Bryant Gumble in his asshole.”
   - “We can try and fix this! What is up with Sandra Bullock? I wouldn't eat her dick with Stevie Wonder's vagina.”
   - “Germany is pissed off at us! - Everything's gonna be OK.”
   - “OK? You know what happened to those they were pissed off at, last time? Tell him, Kyle.”
@@ -4591,6 +4802,7 @@ Watch for:
 ## S15 E3 — 3. Royal Pudding
 URL: https://watchwiththekids.com/ep/south-park/1503.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Canadian-born Ike shares his country's obsession with a royal wedding and offers his services when the princess-to-be is abducted.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4600,26 +4812,27 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Canada is in mourning, as nationwide suicides abound.”
 - Swearing — 11 moment(s)
-  - “Box of faith? What the f*** is that? Hello there, my noble, strong, fellow Canadian.”
-  - “What am I supposed to do? You tell me! Couldn't you get rid of the part of tooth decay? Getting rid of tooth decay is what I'm trying to f***ing do! He's your brother.”
-  - “With candy and treats, I will - Hold it! Stop! What the f*** was that? Just doing the lines.”
-  - “Get it f***ing right! Just pick it up from there.”
+  - “Box of faith? What the fuck is that? Hello there, my noble, strong, fellow Canadian.”
+  - “What am I supposed to do? You tell me! Couldn't you get rid of the part of tooth decay? Getting rid of tooth decay is what I'm trying to fucking do! He's your brother.”
+  - “With candy and treats, I will - Hold it! Stop! What the fuck was that? Just doing the lines.”
+  - “Get it fucking right! Just pick it up from there.”
   - “Or you opened it and are watching this without being told to, in which case you are a dick.”
-  - “You're trying? You call rolling your fat ass out on the stage and lazily blurting out your lines like a turtle taking a sh*t.”
+  - “You're trying? You call rolling your fat ass out on the stage and lazily blurting out your lines like a turtle taking a shit.”
   - “You're a dick.”
-  - “Loudmouth self-centered a**holes.”
-  - “You all probably think you can live your lives cavity-free, never giving a sh*t about the plaque building on your teeth.”
+  - “Loudmouth self-centered assholes.”
+  - “You all probably think you can live your lives cavity-free, never giving a shit about the plaque building on your teeth.”
   - “They got the son of a bitch.”
   - “I would never harm the royal family! Crap, we had some bad intel.”
 - Racism & slurs — 2 moment(s)
-  - “Let's get them! Let's f*** them up! What? You're looking at me like I'm a racist.”
-  - “Goddamn polar [racial slur].”
+  - “Let's get them! Let's fuck them up! What? You're looking at me like I'm a racist.”
+  - “Goddamn polar gooks.”
 - Fat-shaming — 1 moment(s)
-  - “You're trying? You call rolling your fat ass out on the stage and lazily blurting out your lines like a turtle taking a sh*t.”
+  - “You're trying? You call rolling your fat ass out on the stage and lazily blurting out your lines like a turtle taking a shit.”
 
 ## S15 E4 — 4. T.m.i.
 URL: https://watchwiththekids.com/ep/south-park/1504.html
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman is sent to anger-management therapy when he's upset after personal information about the boys is posted on the school bulletin board.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They have sex.”
@@ -4630,14 +4843,14 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “…Who is Mitch Conner? There can't be an official police report, honey, there's no -- no, Carol put down the gun!”
 - Swearing — 12 moment(s)
-  - “Skeletor's a lady? God dammit! Who the f*** do they think they are?”
-  - “Yeah, they f***ing did, Kyle!”
-  - “Go look for yourselves! There, you see? Can you f***ing believe it? Is that really all our wiener sizes? Yeah, dude! Look at it! It says right there.”
-  - “No sh*t, Sherlock! My dick isn't 1.”
+  - “Skeletor's a lady? God dammit! Who the fuck do they think they are?”
+  - “Yeah, they fucking did, Kyle!”
+  - “Go look for yourselves! There, you see? Can you fucking believe it? Is that really all our wiener sizes? Yeah, dude! Look at it! It says right there.”
+  - “No shit, Sherlock! My dick isn't 1.”
   - “…is president! You don't go around putting little boys on blast, telling the whole world lengths of their dicks!”
   - “Those weren't our dick sizes?”
-  - “You get a little flash of anger when someone tells you you got tits like a forty year old woman, fat boy? You like that? sh*tty titty jelly belly? Oh, yeah, he's a big boy! Get that fatty some mud flaps for his ass.”
-  - “…he gets a city chicken poured all over his head! We have good reason to be angry! This country is going to sh*t!”
+  - “You get a little flash of anger when someone tells you you got tits like a forty year old woman, fat boy? You like that? Shitty titty jelly belly? Oh, yeah, he's a big boy! Get that fatty some mud flaps for his ass.”
+  - “…he gets a city chicken poured all over his head! We have good reason to be angry! This country is going to shit!”
   - “Ain't no mother good, mah, bitch be coming.”
   - “Go! Hey! What, you think, I got a small dick? Huh? I don't have a small penis! My wife thinks my penis is perfectly fine! Okay.”
   - “Who the hell is this chick surgeon general appointed by Obama? God damn right! Socialist fascists! Power to the people! Burn it down! Burn it down! Mr.”
@@ -4647,18 +4860,19 @@ Watch for:
 - Fat-shaming — 3 moment(s)
   - “What if I were to tell you that I think you're fat? I think you're a fat little boy.”
   - “Does that make you feel any anger? Huh, fatty? Jelly belly? You got jelly in your belly you little fat [Bleep.]”
-  - “You get a little flash of anger when someone tells you you got tits like a forty year old woman, fat boy? You like that? sh*tty titty jelly belly? Oh, yeah, he's a big boy! Get that fatty some mud flaps for his ass.”
+  - “You get a little flash of anger when someone tells you you got tits like a forty year old woman, fat boy? You like that? Shitty titty jelly belly? Oh, yeah, he's a big boy! Get that fatty some mud flaps for his ass.”
 
 ## S15 E5 — 5. Crack Baby Athletic Association
 URL: https://watchwiththekids.com/ep/south-park/1505.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman hatches a plan to help babies who are born addicted to drugs
 Watch for:
 - Violence & injury — 1 moment(s)
   - “But then, who was the guitar player for guns and roses? One of our parents! Are you serious? You guys are ten years old and you just figured out that Slash isn't real? Oh, my God.”
 - Swearing — 8 moment(s)
-  - “And f*** you too.”
-  - “Well boys, this has been real educational n' all, but now let's part with that ol' EA Sports sayin', get the f*** outta my buildin'.”
-  - “I like that boom boom pow them chickens jackin' my style they try copy my swagger I'm on that next sh*t now.”
+  - “And fuck you too.”
+  - “Well boys, this has been real educational n' all, but now let's part with that ol' EA Sports sayin', get the fuck outta my buildin'.”
+  - “I like that boom boom pow them chickens jackin' my style they try copy my swagger I'm on that next shit now.”
   - “What's going on? Ahghghgghgh! Aw crap.”
   - “That's their mom's God damn fault! Yeah, I'm sure that's what Cartman would say too.”
   - “Slash is not hard to find! He'll show up to play anywhere if you pay him! He played at my eighth birthday party for Christ's sake! Look, look he's playing at lakewood mall right now! You guys get down there aw crap!”
@@ -4671,6 +4885,7 @@ Watch for:
 ## S15 E6 — 6. City Sushi
 URL: https://watchwiththekids.com/ep/south-park/1506.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Butters gets diagnosed with multiple personality disorder, and he's prescribed medication.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You don't even know what sex is Mr.”
@@ -4683,18 +4898,18 @@ Watch for:
 - Suicide & self-harm — 3 moment(s)
   - “Suicide rate in Japan? Sky-high.”
   - “Oh, no, I'm a Japanese and I had a bad day, I think I've got to kill myself.”
-  - “f*** you! I'm not trying to kill myself.”
+  - “Fuck you! I'm not trying to kill myself.”
 - Swearing — 12 moment(s)
-  - “What? What? What the f***? Welcome to City Sushi.”
-  - “Why aren't you speaking f***ing English you sofa eating f***er.”
-  - “What the f***? You see what happened? I told you not to come in here.”
-  - “Now everyone in town think the Chinese and the Japanese are the same f***ing thing.”
-  - “I admit it, I f***ed you at the assembly.”
-  - “Welcome to sh*tty Wok.”
-  - “How far from my sh*tty Wok? You mean the Sushi restaurant? It's right over there.”
-  - “Oh, so you're on to me, huh? You little sh*t?”
-  - “Get in there, move it a**hole.”
-  - “Stotch, as long as you ground your son? Oh, we'll ground the sh*t out of him, detective.”
+  - “What? What? What the fuck? Welcome to City Sushi.”
+  - “Why aren't you speaking fucking English you sofa eating fucker.”
+  - “What the fuck? You see what happened? I told you not to come in here.”
+  - “Now everyone in town think the Chinese and the Japanese are the same fucking thing.”
+  - “I admit it, I fucked you at the assembly.”
+  - “Welcome to Shitty Wok.”
+  - “How far from my Shitty Wok? You mean the Sushi restaurant? It's right over there.”
+  - “Oh, so you're on to me, huh? You little shit?”
+  - “Get in there, move it asshole.”
+  - “Stotch, as long as you ground your son? Oh, we'll ground the shit out of him, detective.”
   - “You remember how you told me if I got myself a video it might help me with my problem? Yes, did you catch something? Yeah, I saw you pissing in my face.”
   - “Hory crap, what time is it? Oh, no, I'm rate.”
 - Racism & slurs — 2 moment(s)
@@ -4704,18 +4919,19 @@ Watch for:
 ## S15 E7 — 7. You're Getting Old
 URL: https://watchwiththekids.com/ep/south-park/1507.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan's outlook on life begins to change after his 10th birthday, but it also affects his friendships with the other kids, who find they have little in common with him anymore.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - “Oh, that sh*tty game? Who plays video games to listen to a bunch of characters talk and press the X button? Ask him about the murder now, Kyle!”
+  - “Oh, that shitty game? Who plays video games to listen to a bunch of characters talk and press the X button? Ask him about the murder now, Kyle!”
 - Swearing — 12 moment(s)
-  - “Now we're the old people who think the younger generation's music sounds like sh*t.”
-  - “That music sounds like sh*t.”
-  - “I mean it sounds like somebody is sh*tting in my ears.”
-  - “It's a condition called being a cynical a**hole.”
-  - “Everything just seems sh*tty and everyone starts to seem sh*tty and everything they say just starts to Randy, do you mind cleaning up the garage like I asked you? Get out of my room.”
-  - “Now you can't admit the next generation's music sounds sh*tty.”
-  - “They've got this fellow down at the bowling alley, he gets up on his stage and sh*ts his britches.”
-  - “Steamy Ray Vaughn just sh*ts his britches.”
+  - “Now we're the old people who think the younger generation's music sounds like shit.”
+  - “That music sounds like shit.”
+  - “I mean it sounds like somebody is shitting in my ears.”
+  - “It's a condition called being a cynical asshole.”
+  - “Everything just seems shitty and everyone starts to seem shitty and everything they say just starts to Randy, do you mind cleaning up the garage like I asked you? Get out of my room.”
+  - “Now you can't admit the next generation's music sounds shitty.”
+  - “They've got this fellow down at the bowling alley, he gets up on his stage and shits his britches.”
+  - “Steamy Ray Vaughn just shits his britches.”
   - “It sounds like crap.”
   - “Don't you remember being younger and having our parents say the music we liked sounded like crap? This is different.”
   - “What the hell.”
@@ -4724,6 +4940,7 @@ Watch for:
 ## S15 E8 — 8. Ass Burgers
 URL: https://watchwiththekids.com/ep/south-park/1508.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Stan's stuck in an abnormal rut; Cartman suspects he has Asperger's syndrome.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4733,15 +4950,15 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “You better get him to tell you or you're going to get shot in the back of the head.”
 - Swearing — 12 moment(s)
-  - “Wait, there's a disease called ass burgers? You are so lying, there is no disease called f***ing ass burgers.”
-  - “God, shut up! Everyone just shut the f*** up! M'kay, stan, you got to try to pull yourself out of this.”
-  - “Or fox or whatever, f*** you.”
-  - “You were right, Adam Sandler is f***ing hysterical.”
-  - “When you walk around all mope, m'kay? Saying everything is just sh*tty, well that's called being a Debbie Downer, Stan.”
-  - “It's pretty sh*tty when you work so hard to be a great parent.”
+  - “Wait, there's a disease called ass burgers? You are so lying, there is no disease called fucking ass burgers.”
+  - “God, shut up! Everyone just shut the fuck up! M'kay, stan, you got to try to pull yourself out of this.”
+  - “Or fox or whatever, fuck you.”
+  - “You were right, Adam Sandler is fucking hysterical.”
+  - “When you walk around all mope, m'kay? Saying everything is just shitty, well that's called being a Debbie Downer, Stan.”
+  - “It's pretty shitty when you work so hard to be a great parent.”
   - “Goddamn stupid school nurse, heartless bitch.”
-  - “You see everything as sh*t, don't you? Where other people see fun movies and hear cool music all you see and hear is sh*t.”
-  - “Everything looks like sh*t to you, right? What if I were to tell you that you're seeing the world the way it actually is.”
+  - “You see everything as shit, don't you? Where other people see fun movies and hear cool music all you see and hear is shit.”
+  - “Everything looks like shit to you, right? What if I were to tell you that you're seeing the world the way it actually is.”
   - “You vampire sons of bitches! All right, nice work, Stan.”
   - “Come on Deb, you're even bumming me out now, m'kay? Your attitude just sucks.”
   - “I know he has an illness but goddamn it's like being around a black hole that just sucks the life out of everything.”
@@ -4751,17 +4968,18 @@ Watch for:
 ## S15 E9 — 9. The Last of the Meheecans
 URL: https://watchwiththekids.com/ep/south-park/1509.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman fancies himself an agent of the U.S. Border Patrol when the boys play Texans vs. Mexicans.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Alright y'all, keep yer eyes peeled and yer guns ready.”
 - Swearing — 10 moment(s)
-  - “Oh yeah?! Well you're a f***ing Jew, Kyle!”
-  - “Nobody's f***ing screaming, Craig.”
-  - “Wake the f*** up! B-base! Aw God! So then the Pope says 'Maybe you should go check the toilet!' I got one.”
-  - “I think he wants to come back in! Oh, my, God, it is! Hey! Come on in! Come on! Come on, it's okay! f*** are you doin'?”
-  - “So then don't have a slumber party if you're gonna be an a**hole all night.”
-  - “At least I have an a**hole, Kyle.”
-  - “so sh*tty they wouldn't wanna come any more.”
+  - “Oh yeah?! Well you're a fucking Jew, Kyle!”
+  - “Nobody's fucking screaming, Craig.”
+  - “Wake the fuck up! B-base! Aw God! So then the Pope says 'Maybe you should go check the toilet!' I got one.”
+  - “I think he wants to come back in! Oh, my, God, it is! Hey! Come on in! Come on! Come on, it's okay! Fuck are you doin'?”
+  - “So then don't have a slumber party if you're gonna be an asshole all night.”
+  - “At least I have an asshole, Kyle.”
+  - “so shitty they wouldn't wanna come any more.”
   - “Noooooooooo! Base! El ba-so! Base-ooooo! So then, so then the fireman says 'That won't even fit in my scrotum! Stop being a pouty little bitch cuz you lost, Cartman.”
   - “A great and wealthy nation will always be plagued by the needy trying to what the hell? Uh, sir, aren't them Mexicans running into Mexico? That don't make sense.”
   - “I think that Cartman, what the hell is this? Ou guys the game is over.”
@@ -4771,6 +4989,7 @@ Watch for:
 ## S15 E10 — Bass to Mouth
 URL: https://watchwiththekids.com/ep/south-park/1510.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: A hacker wreaks havoc with gossipy Web posts on a site called "The South Park Elementary Eavesdropper."
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “He posted on his website that I had sex with an underage fish, and that she performed bass to mouth.”
@@ -4784,11 +5003,11 @@ Watch for:
   - “Not cool! She's on suicide watch.”
   - “You said Pete Melman couldn't kill himself.”
 - Swearing — 10 moment(s)
-  - “That's f*** up.”
-  - “" - What the f***? - What? How did Eavesdropper get a hold of my email? - I don't know.”
-  - “Sparrow Prince! Catatafish! He is f***ing him up.”
-  - “Did you guys see Eavesdropper? Melman sh*t his pants.”
-  - “You're asking me to simply ignore a kid who, excuse my language, I have to be harsh, a kid who sh*t in his pants in front of everyone to just ignore that so he can have a normal life?”
+  - “That's fuck up.”
+  - “" - What the fuck? - What? How did Eavesdropper get a hold of my email? - I don't know.”
+  - “Sparrow Prince! Catatafish! He is fucking him up.”
+  - “Did you guys see Eavesdropper? Melman shit his pants.”
+  - “You're asking me to simply ignore a kid who, excuse my language, I have to be harsh, a kid who shit in his pants in front of everyone to just ignore that so he can have a normal life?”
   - “Whoever you are, you're a gossiping little bitch, and - It's not someone in this room.”
   - “By making Jenny Simons crap her pants worse than him, I've made her the number one story on Eavesdropper.”
   - “Get it! Don't let him get away! - He's gone! - What the hell? A stupid rat is in charge of Eavesdropper? It says here its name is Wikileaks.”
@@ -4800,6 +5019,7 @@ Watch for:
 ## S15 E11 — Broadway Bro Down
 URL: https://watchwiththekids.com/ep/south-park/1511.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy turns into a huge fan of Broadway shows after he takes Sharon to see a hit musical in Denver.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “From what I heard I figured this show must be really sexy and hot but - I just don't see it happening.”
@@ -4809,9 +5029,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “…to bro down with him! And what am I supposed to do? Run? Don't bro down against Sondheim, Randy, it's suicide.”
 - Swearing — 8 moment(s)
-  - “That's what bros do! That's what bros f***ing do! You're alright, Marsh.”
-  - “We have to go! Dad, what are you doing here?! Right now, Shelley! Shelley you are not watching this trash! Now, come one! Would you mind?! I'm trying to enjoy this musical with my grand daughter! Oh you f***ing pervert!”
-  - “What was the show about? Aw, sh*t, I don't know, some green chick and a goat or something.”
+  - “That's what bros do! That's what bros fucking do! You're alright, Marsh.”
+  - “We have to go! Dad, what are you doing here?! Right now, Shelley! Shelley you are not watching this trash! Now, come one! Would you mind?! I'm trying to enjoy this musical with my grand daughter! Oh you fucking pervert!”
+  - “What was the show about? Aw, shit, I don't know, some green chick and a goat or something.”
   - “What's metaphorical about a musical called "Splooge Drenched Blowjob Queen"? Tricking bitches into hour long blowjobs is an art form!”
   - “You didn't see the game?! What the hell were you doing? Took the wife down to Denver to see that new musical in town.”
   - “Just kind of sucks to be back here now, ya know? I mean, there's no culture here.”
@@ -4823,6 +5043,7 @@ Watch for:
 ## S15 E12 — 1%
 URL: https://watchwiththekids.com/ep/south-park/1512.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman's lack of physical fitness makes him a target for the other kids' scorn.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “And now, we live in a world where one of you has decided to become a murderer.”
@@ -4830,12 +5051,12 @@ Watch for:
   - “…I know that I am awesome and cool, Polly Prissy Pants, but that has little relevance to Clyde Frog's murder.”
   - “You're a little disturbed right now, but maybe you can Shut your fat piehole, bitch! You know what you did, skank! You let Clyde Frog get murdered! No, Rumper Tumpskin, I didn't.”
 - Swearing — 12 moment(s)
-  - “And so, as far as we're concerned, you're all a bunch of fat f***ing pigs.”
-  - “As far as the board is concerned, you're all a bunch of fat f***ing pigs.”
-  - “That doesn't prove anything! That f***er's getting what he deserves.”
-  - “Black people are now impervious to being f***ed with.”
+  - “And so, as far as we're concerned, you're all a bunch of fat fucking pigs.”
+  - “As far as the board is concerned, you're all a bunch of fat fucking pigs.”
+  - “That doesn't prove anything! That fucker's getting what he deserves.”
+  - “Black people are now impervious to being fucked with.”
   - “We're all being punished for one lazy bitch.”
-  - “Steven Tamal? The fifth grader? sh*t!”
+  - “Steven Tamal? The fifth grader? Shit!”
   - “God, this sucks! Four weeks, we gotta do this? Let's just suck it up.”
   - “…a big 99% rally, aren't you? Occupying the cafeteria? You know why you are protesting? Because you're pissed off.”
   - “But you won't be pissed off at a black president, so you're all pissed off at me!”
@@ -4845,18 +5066,19 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “The problem is with this area blocked by napping tents, we have no place to serve the officers' beer.”
 - Slut-shaming — 2 moment(s)
-  - “The same dirty slut who's been f***ing with us our whole lives! Sweetie, is everything OK? Does everything look OK? Sit down, you f***ing bitch! Sit down, mother.”
+  - “The same dirty slut who's been fucking with us our whole lives! Sweetie, is everything OK? Does everything look OK? Sit down, you fucking bitch! Sit down, mother.”
   - “You're a little disturbed right now, but maybe you can Shut your fat piehole, bitch! You know what you did, skank! You let Clyde Frog get murdered! No, Rumper Tumpskin, I didn't.”
 
 ## S15 E13 — A History Channel Thanksgiving
 URL: https://watchwiththekids.com/ep/south-park/1513.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys learn what really happened at the first Thanksgiving—including an extraterrestrial presence—from a TV documentary.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Was Thanksgiving about turkey and peace, or was it the beginning of the genocide of an entire race? Thanksgiving is about murder? This is bullcrap.”
   - “…aliens and real history! Have you seen that stuff about the pyramids linked to Mars? There's a guy with a gun here!”
 - Swearing — 4 moment(s)
-  - “Shut your f***ing mouth! See what I mean? Is that them? That's them.”
+  - “Shut your fucking mouth! See what I mean? Is that them? That's them.”
   - “…Why are you being so grumpy? Are you on your period? We are not basing research for our report on this crap.”
   - “God damn you! The white man is gonna pay for his lies! Look at this! An aerial photograph of Cape Cod where the pilgrims landed in 1620.”
   - “What is wrong with Kyle of DeVry Institute? He's pissed off he was wrong about the whole ancient aliens thing.”
@@ -4866,6 +5088,7 @@ Watch for:
 ## S15 E14 — The Poor Kid
 URL: https://watchwiththekids.com/ep/south-park/1514.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: In the 15th-season finale, the arrest of Kenny's parents sends him and his two siblings into the foster-care system, but the situation creates a dilemma for Cartman, who is left without a target to mock for being the poorest kid in school.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “All right, how much do you make? Like gross yearly income after taxes? This is where you'll sleep with your foster brothers.”
@@ -4873,10 +5096,10 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “They're about to beat up that new kid.”
 - Swearing — 7 moment(s)
-  - “You think you're man enough to fight me, you little sh*t? You're a drunk piece a sh*t! You're both drunk pieces a sh*t! - Both of you sit the f***ing down! - sh*t him! They're noisy.”
-  - “What the f***? But the children in this home live in a world of neglect.”
-  - “What theâ¦ This is poorer than my old house! What the f*** are you doing here? Your room is upstairs on the left.”
-  - “But how did it get here? Shut your mouth, bitch! You shut your mouth, you dumb f***ing a**hole! f*** you, bitch! You can remain silent.”
+  - “You think you're man enough to fight me, you little shit? You're a drunk piece a shit! You're both drunk pieces a shit! - Both of you sit the fucking down! - Shit him! They're noisy.”
+  - “What the fuck? But the children in this home live in a world of neglect.”
+  - “What theâ¦ This is poorer than my old house! What the fuck are you doing here? Your room is upstairs on the left.”
+  - “But how did it get here? Shut your mouth, bitch! You shut your mouth, you dumb fucking asshole! Fuck you, bitch! You can remain silent.”
   - “you, bitch!n a bitch! They're nasty.”
   - “Who the hell is this? How about you find another little girl to pick on? Mind your business, Peter Pan! Karen McCormick is off limits.”
   - “He leaped down from the sky! And he kicked the crap out of Jessica Pinkerton.”
@@ -4890,6 +5113,7 @@ Watch for:
 ## S16 E1 — 1. Reverse Cowgirl
 URL: https://watchwiththekids.com/ep/south-park/1601.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Tragedy strikes when one of the boys repeatedly ignores reminders about leaving the toilet seat up in the Season 16 premiere.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4902,12 +5126,12 @@ Watch for:
   - “Shocking outrage ensued after an unknown terrorist managed to get through TSA security with a gun and a baby.”
   - “What good is the TSA if they're not protecting us? Why have we given up freedom if terrorists can take a hostage in a bathroom with a baby and a gun on the toilet? And the toilet seat was up.”
 - Swearing — 10 moment(s)
-  - “Clyde, Clyde! What have I told you about pissing on the seat? and Clyde's all like Okay mom, f***! Not in front of my friends! Cartman, it was actually really lame.”
-  - “…right now! Do you mind if I toch your balls, sir? What? Yes I'd mind! Do you mind if I touch your f***ing balls?”
-  - “Wait, what? What the f*** is a suance? Tom, I'm standing outside the South Park courthouse where experts have succesfully summoned the ghost of toilet inventor sir John Harrington.”
-  - “His mom His mom goes Clyde, you're an a**hole and now I have toilet water in my vagigi.”
-  - “You say something? No, I was talking to my a**hole.”
-  - “The head of TSA chief of operations had this to say; sh*t! Meanwhile, outraged civilians claiming they're finally fed up with the overblown goverment bureaucracy.”
+  - “Clyde, Clyde! What have I told you about pissing on the seat? and Clyde's all like Okay mom, fuck! Not in front of my friends! Cartman, it was actually really lame.”
+  - “…right now! Do you mind if I toch your balls, sir? What? Yes I'd mind! Do you mind if I touch your fucking balls?”
+  - “Wait, what? What the fuck is a suance? Tom, I'm standing outside the South Park courthouse where experts have succesfully summoned the ghost of toilet inventor sir John Harrington.”
+  - “His mom His mom goes Clyde, you're an asshole and now I have toilet water in my vagigi.”
+  - “You say something? No, I was talking to my asshole.”
+  - “The head of TSA chief of operations had this to say; Shit! Meanwhile, outraged civilians claiming they're finally fed up with the overblown goverment bureaucracy.”
   - “Dude, that sucks, Clyde.”
   - “I know, right! Women are just jealous 'cause they have to face outwards to pee and crap.”
   - “Damn it! He, he, officer.”
@@ -4916,6 +5140,7 @@ Watch for:
 ## S16 E2 — 2. Cash for Gold
 URL: https://watchwiththekids.com/ep/south-park/1602.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman targets a specific—and vulnerable—clientele when he starts his own shopping channel for gems, while Stan researches the value of a piece of jewelry that was a gift from his grandfather.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “I have a gun right here.”
@@ -4923,14 +5148,14 @@ Watch for:
   - “Ever since that little kid called up everyone wants to call and tell me to kill myself.”
   - “Every time you call and tell me to kill myself it's costing us $2.”
 - Swearing — 11 moment(s)
-  - “How about some walking cash? I can probably offer you What the f***.”
-  - “Do you like f***ing little boys? I'm sorry.”
-  - “Just wondering if you f*** kids all the time? That's what you did with this deal.”
-  - “You f***ed me good, Mrs.”
-  - “I am not f***ing you and you know it.”
-  - “No they're getting f***ed from an Asian lady.”
-  - “Kenny, will you tell Carlton to shut up? Shut up, you're an a**hole.”
-  - “Oh, I'm an a**hole for doing that? Oh my God, can you believe this? Someone is about to get this copper ring for $4000.”
+  - “How about some walking cash? I can probably offer you What the fuck.”
+  - “Do you like fucking little boys? I'm sorry.”
+  - “Just wondering if you fuck kids all the time? That's what you did with this deal.”
+  - “You fucked me good, Mrs.”
+  - “I am not fucking you and you know it.”
+  - “No they're getting fucked from an Asian lady.”
+  - “Kenny, will you tell Carlton to shut up? Shut up, you're an asshole.”
+  - “Oh, I'm an asshole for doing that? Oh my God, can you believe this? Someone is about to get this copper ring for $4000.”
   - “I have to get the taste of old lady dick out of my mouth.”
   - “I wand God damn retribution for my God damn grandpa.”
   - “Alright, God damn it another comedian.”
@@ -4940,6 +5165,7 @@ Watch for:
 ## S16 E3 — 3. Faith Hilling
 URL: https://watchwiththekids.com/ep/south-park/1603.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: An evolutionary development poses a grave threat to humanity.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “The newest meme is pulling the shirt out to look like boobs.”
@@ -4948,14 +5174,15 @@ Watch for:
   - “I think Pick the gun up! You might as well.”
   - “It said we cannot coexist and then said oh don piano and then and then something about seeing the streets of human cities running red with the blood of their children.”
 - Swearing — 4 moment(s)
-  - “Taylor swifting? What the f*** is that? That's all it is? You pull down your pants and wipe your butt on the ground like an old dog.”
-  - “Why don't you get the f*** out of here? Oh God.”
+  - “Taylor swifting? What the fuck is that? That's all it is? You pull down your pants and wipe your butt on the ground like an old dog.”
+  - “Why don't you get the fuck out of here? Oh God.”
   - “What seems point less? Hey, faith hilling is not out of style alright? No, no, no! These stupid fads are only that, okay? We can't give in to this crap.”
   - “To hell with you, Mr.”
 
 ## S16 E4 — 4. Jewpacabra
 URL: https://watchwiththekids.com/ep/south-park/1604.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The town's Easter-egg hunt may be canceled due to rumors of a vicious beast that Cartman claims to have caught on film.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “We believe in a just Lord who would never murder innocent children.”
@@ -4971,6 +5198,7 @@ Watch for:
 ## S16 E5 — 5. Butterballs
 URL: https://watchwiththekids.com/ep/south-park/1605.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Stan organizes an antibullying video when Butters is tormented by an unlikely predator.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4981,13 +5209,13 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “I didn't beat up Dr.”
 - Swearing — 11 moment(s)
-  - “You think you're f***ing tough? You don't look f***ing tough.”
-  - “Put it in your f***ing mouth.”
-  - “Get the f*** out of here.”
+  - “You think you're fucking tough? You don't look fucking tough.”
+  - “Put it in your fucking mouth.”
+  - “Get the fuck out of here.”
   - “You got any more money? No, you took it all! Why don't you do something about it? Do something, you little bitch.”
   - “You're Grandma's bitch.”
   - “You greedy, selfish, little prick! You gonna cry? Go ahead, let me see you cry.”
-  - “Only problem is America doesn't give a sh*t about an old fart with a Captain Kangaroo haircut.”
+  - “Only problem is America doesn't give a shit about an old fart with a Captain Kangaroo haircut.”
   - “Life sucks sometimes, but it will pass.”
   - “It's got piss all over it.”
   - “What the hell does that mean? Oh, Heavens to Betsy.”
@@ -4998,6 +5226,7 @@ Watch for:
 ## S16 E6 — 6. I Should Have Never Gone Ziplining
 URL: https://watchwiththekids.com/ep/south-park/1606.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys try zip-lining in the Colorado mountains on the last day of spring break, but their adventure takes a dangerous, life-threatening turn.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “So when I call out "shaka bra" look up and give the camera a nice shaka bra.”
@@ -5006,9 +5235,9 @@ Watch for:
   - “If I crap in the woods, the blood will attract beavers, Kyle.”
   - “Yeah, his cold sore is really bad and he's losing blood.”
 - Swearing — 10 moment(s)
-  - “It covers a more extensive area than other Americ-- So after a**hole gets his biology lesson we finally get to go ziplining.”
-  - “Ya, dude it's ****ing boring as sh*t.”
-  - “You fat piece of sh*t.”
+  - “It covers a more extensive area than other Americ-- So after asshole gets his biology lesson we finally get to go ziplining.”
+  - “Ya, dude it's ****ing boring as shit.”
+  - “You fat piece of shit.”
   - “…park, ?And meet some friends of mine Kyle, Kyle, Kyle! Four young boys in Colorado, are on a trip from hell.”
   - “Aaahh! Let her rip! Zipline! Four young boys in Colorado are on a trip from hell.”
   - “Go take a crap.”
@@ -5025,10 +5254,11 @@ Watch for:
 ## S16 E7 — 7. Cartman Finds Love
 URL: https://watchwiththekids.com/ep/south-park/1607.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: A romance for Cartman may finally become a reality when there's a new girl at school.
 Watch for:
 - Swearing — 6 moment(s)
   - “Anyway, thanks a lot, and you know, stay away from my man, bitch.”
-  - “No they won't **** you, Butters, You're an a**hole.”
+  - “No they won't **** you, Butters, You're an asshole.”
   - “Baratheons, Targaryens all Will you shut the hell up.”
   - “So now Stacy is pissed at us.”
   - “I'm more out than Kyle is, but it sucks because he acts like we're not a couple in school he's embarrassed.”
@@ -5040,25 +5270,27 @@ Watch for:
 ## S16 E8 — 8. Sarcastaball
 URL: https://watchwiththekids.com/ep/south-park/1608.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Randy's campaign to prevent head injuries in football radically changes the way the game is played, but the new rules become a national sensation and even make a South Park student a star athlete.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Stan, hook up my bra.”
 - Swearing — 3 moment(s)
-  - “Do you feel warm and compassionate? Holy sh*t, I think I do.”
+  - “Do you feel warm and compassionate? Holy shit, I think I do.”
   - “Give 'em hell Coach! Loving, not shoving! Oh, yeah, good one! And now here are your Denver whoop dee [Bleep.]”
   - “…Cuddle up! Now, what is going on out there?! That kid is provoking us! He's saying mean things to try to piss us off.”
 
 ## S16 E9 — 9. Raising the Bar
 URL: https://watchwiththekids.com/ep/south-park/1609.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman finally comes to the realization that he's overweight, but declares that the solution is to ride around on a mobility scooter. Also: Cartman learns he has a rival in a young reality-TV star.
 Watch for:
 - Swearing — 10 moment(s)
   - “I don't drive around on a mobility scooter like that bitch.”
   - “See what I mean? You can't even walk around a Walmart anymore without getting run over by some fat dick on a rascal!”
-  - “You've got to make your bathroom accessible for my mobility scooter or else I won't be able to take a sh*t in your house.”
-  - “So take a sh*t somewhere else! That's not the way this country works, Kyle.”
-  - “…the middle isn't even fat Look at him! He's got no right to be on a rascal! You're not fooling anybody a**hole walk to the back of the line!”
-  - “Stop it! Stop it you kids!!! The government warns that rascal tipping can be dangerous and may lead to fat people sh*tting their pants as they kick and scream on the floor.”
+  - “You've got to make your bathroom accessible for my mobility scooter or else I won't be able to take a shit in your house.”
+  - “So take a shit somewhere else! That's not the way this country works, Kyle.”
+  - “…the middle isn't even fat Look at him! He's got no right to be on a rascal! You're not fooling anybody asshole walk to the back of the line!”
+  - “Stop it! Stop it you kids!!! The government warns that rascal tipping can be dangerous and may lead to fat people shitting their pants as they kick and scream on the floor.”
   - “…Honey Boo Boo? Dud, you've never seen Honey Boo Boo? My name's Honey Boo Boo, and I'm a beauty queen! Bitches!”
   - “You son of a bitch Newman! How did you beat me down here?! I don't want anyone raising the bar cuz nobody'll hire me.”
   - “Holy hell yes.”
@@ -5073,6 +5305,7 @@ Watch for:
 ## S16 E10 — Insecurity
 URL: https://watchwiththekids.com/ep/south-park/1610.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle suspects that his mother is having an affair with a deliveryman; Cartman installs a home-security system.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “But are you sure they had sex, like sex, sex, like they actually had sex? Yeah, dude, full on, I saw everything.”
@@ -5091,8 +5324,8 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “So you say this man killed himself because he was a psychopath who was forced to have sex with his mother? Yes.”
 - Swearing — 9 moment(s)
-  - “Aww sh*t! Of [Bleep.]”
-  - “I could be Kyle trying to take more of my sh*t! How did you get rid of him? How did you get rid of the milk man? There is no getting rid of him.”
+  - “Aww shit! Of [Bleep.]”
+  - “I could be Kyle trying to take more of my shit! How did you get rid of him? How did you get rid of the milk man? There is no getting rid of him.”
   - “Nobody wants any of your stuff you fat bitch.”
   - “Oh, fat bitch, ha? It just so happens that this fat bitch has insecurity now Kyle, and so I'm protected from all you greedy little Jews until you and your people die out.”
   - “Damn you, it's not just our wives anymore.”
@@ -5108,6 +5341,7 @@ Watch for:
 ## S16 E11 — Going Native
 URL: https://watchwiththekids.com/ep/south-park/1611.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: When Butters starts acting out at school, his parents realize it's time to tell him why he's not like all of the other kids. He must travel to a foreign place to learn the ways of his people. It will be a difficult trip for a young boy to make alone, so Butters chooses Kenny to travel with him to the distant and secluded island of Hawaii.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You guys gonna make out, Kenny?”
@@ -5117,8 +5351,8 @@ Watch for:
   - “Fellas! Fellas!!!! What? You'll never guess what happened? Butters just beat up Scott Malkinson.”
   - “Get outta here all of you! Butters, people can't just go around beating up people who have diabetes.”
 - Swearing — 5 moment(s)
-  - “Holy sh*t balls, holy sh*t balls.”
-  - “Guess what you guys, holy sh*t balls.”
+  - “Holy shit balls, holy shit balls.”
+  - “Guess what you guys, holy shit balls.”
   - “Dude, I'm telling you Butters beat the crap out Scott and then he locked himself in the bathroom.”
   - “…revolves around him and he only cares about his image! You guys think Cartman is the only selfish piece of crap at this school?”
   - “Butters, what on earth has gotten into you? I don't know dad, I was just piss off I guess.”
@@ -5133,6 +5367,7 @@ Watch for:
 ## S16 E12 — A Nightmare on Face Time
 URL: https://watchwiththekids.com/ep/south-park/1612.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys' plans to go trick-or-treating as their comic-book heroes, the Avengers, hit a snag when Stan's dad needs his son's help with a new business venture.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Renting DVDs is more ancient than Madonna's boobs! That's enough, Stanley! Ew! Gross! I can't go trick or treating.”
@@ -5140,7 +5375,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “They've murdered over a dozen people trying to get the cash from redboxes.”
 - Swearing — 7 moment(s)
-  - “Holy sh*t, they shot this guy! Oh my God! Dude, this, let's bail! Get em! Oh my gosh that's so cute! And so what is little Monica wearing? Oh I bet she's adorable.”
+  - “Holy shit, they shot this guy! Oh my God! Dude, this, let's bail! Get em! Oh my gosh that's so cute! And so what is little Monica wearing? Oh I bet she's adorable.”
   - “…Fire! Hey what are you doing it's mine, dad! Get your own! What the hell is going on? We got the son of a bitch.”
   - “I know it sucks, Kyle.”
   - “Stan get off the damn phone people are gonna start calling to reserve movies! Gal! Oh never mind, I hate him again.”
@@ -5153,6 +5388,7 @@ Watch for:
 ## S16 E13 — A Scause for Applause
 URL: https://watchwiththekids.com/ep/south-park/1613.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: An icon is implicated in a doping scandal, so supporters start cutting off their symbolic wristbands.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Dark times, bra, dark times.”
@@ -5163,8 +5399,8 @@ Watch for:
 - Swearing — 9 moment(s)
   - “Dick! Stan after everything that's come out, after all the facts have been proven, why do you still wear the wristband? I dunno, I just like it.”
   - “Chris Martin you say that Stan Marsh is - a dick? Yeah, yeah, thanks, Charlie.”
-  - “Craig?! You a**hole.”
-  - “And now that the Belarusian farmers are all dead what will you try next? What? Aw sh*t! One at a time please! One at a time! Look, I want to return this orange bracelet, mkay.”
+  - “Craig?! You asshole.”
+  - “And now that the Belarusian farmers are all dead what will you try next? What? Aw shit! One at a time please! One at a time! Look, I want to return this orange bracelet, mkay.”
   - “Dude, what the hell? You're wearing a what would Jesus do bracelet! Alright, alright, I got it a few weeks ago.”
   - “I have? Yeah, you know, I can't believe in Jesus any more because he's a damn fraud so what I'm gonna believe in, is just being me and being independent like you.”
   - “Hey, dude, people are kind of pissed off at you.”
@@ -5174,14 +5410,15 @@ Watch for:
 ## S16 E14 — Obama Wins!
 URL: https://watchwiththekids.com/ep/south-park/1614.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: In the series 16 finale, Cartman believes he can affect the outcome of the 2012 presidential election.
 Watch for:
 - Swearing — 9 moment(s)
-  - “What the f*** is this? Alright! Where are the missing ballots?! President Obama? Oh, God dammit, Kyle, I was just about to get what I wanted! Mr.”
-  - “Alright, f***ers.”
-  - “Well huh Oh, sh*t! Don't let him swallow it! - Pry his mouth open! - He ate it! Butters, where are the ballots going? Where are they going? I I I hate almonds.”
-  - “Oh, my God, you guys! Look! Dude, it's Boba Fett's ship! Just what the Dickens is going on here, ha ha? Oh sh*t, it's him again.”
-  - “And there has to be a character called Jewbacca! You can be Luke's son, you can be Han Solo's son, I don't give two sh*ts in a ****.”
-  - “Sure thing! I got a Tonton coming up my a**hole.”
+  - “What the fuck is this? Alright! Where are the missing ballots?! President Obama? Oh, God dammit, Kyle, I was just about to get what I wanted! Mr.”
+  - “Alright, fuckers.”
+  - “Well huh Oh, shit! Don't let him swallow it! - Pry his mouth open! - He ate it! Butters, where are the ballots going? Where are they going? I I I hate almonds.”
+  - “Oh, my God, you guys! Look! Dude, it's Boba Fett's ship! Just what the Dickens is going on here, ha ha? Oh shit, it's him again.”
+  - “And there has to be a character called Jewbacca! You can be Luke's son, you can be Han Solo's son, I don't give two shits in a ****.”
+  - “Sure thing! I got a Tonton coming up my asshole.”
   - “What if I did, Kyle? What could you possibly have in your room that could change the outcome of the election? Pretty sweet, huh? What the hell is this?”
   - “The rights to "Star Wars," the movies? What the hell is going on here? What's going on is the sale of America's greatest asset.”
   - “Every vote counts, and - Cut the crap, Mouse.”
@@ -5192,6 +5429,7 @@ Watch for:
 ## S17 E1 — 1. Let Go, Let Gov
 URL: https://watchwiththekids.com/ep/south-park/1701.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: In the Season 17 premiere, Cartman infiltrates the National Security Agency and is upset by what he finds in his personal file. Meanwhile, Butters finds a new audience for his prayers.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “We need to change Eric Cartman's status and that's when I masturbated to game of thrones.”
@@ -5201,13 +5439,13 @@ Watch for:
   - “Don't you see what this could lead to? Don't you see what we could become? The DMV was shut down today after rampant allegations of sex with young boys.”
   - “postal service has been shut down due to rampant allegations of sex with young boys.”
 - Swearing — 12 moment(s)
-  - “I f***ed Jack lemmon's makeup girl in a porta potty.”
-  - “How would you like to know the truth? The f*** are you talking about Butters? It's time to let go, Eric.”
+  - “I fucked Jack lemmon's makeup girl in a porta potty.”
+  - “How would you like to know the truth? The fuck are you talking about Butters? It's time to let go, Eric.”
   - “I am so sick of that stupid bitch.”
   - “Blabbing, prissy little skank! Why do people talk on the phone like that? I can't even get a minute of peace before that bitch walks in holding the cell phone out like this and talking on speakerphone.”
-  - “Know what I'm saying? That is not what happened you totally started crying and quit the game! Kyle, this is a private conversation! Then take that sh*t off speakerphone!”
-  - “It's called sh*tter.”
-  - “Wires are grafted harmlessly into your skull and any thought you have is uploaded to the Internet and on to all your sh*tter followers.”
+  - “Know what I'm saying? That is not what happened you totally started crying and quit the game! Kyle, this is a private conversation! Then take that shit off speakerphone!”
+  - “It's called Shitter.”
+  - “Wires are grafted harmlessly into your skull and any thought you have is uploaded to the Internet and on to all your Shitter followers.”
   - “I borrowed my brothers dick once to Daryl Hannah.”
   - “Will you please take your rally conversation somewhere else? Oh hell no you did not just invade my privacy again.”
   - “…home so long as folks out there want to take that American flag and shove it so far up your anus that you crap stars and stripes for a week and as your sittin' there on the toilet with the star spangled montezuma's…”
@@ -5223,6 +5461,7 @@ Watch for:
 ## S17 E2 — 2. Informative Murder Porn
 URL: https://watchwiththekids.com/ep/south-park/1702.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The boys try to keep their parents from hurting one another by using a distraction in the form of the game "Minecraft."
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “We don't have to have sex for our relationship to be good.”
@@ -5244,13 +5483,13 @@ Watch for:
   - “Wonder if you saw or heard anything? No, what happened? Someone broke into your next door neighbor's backyard dug up a bunch of holes and punched his trees.”
   - “Punched his trees? Yes, across the street, someone built a cabin.”
 - Swearing — 10 moment(s)
-  - “How long before one of our daddy's dressed up in lingerie and bashes mommy's head in with a brick? Oh, crap! Who could that be? It's probably f***ing Stan.”
-  - “We heard that you're willing to teach Minecraft to adults? f*** off! We were told you're available for hire and we're desperate.”
-  - “Punching trees? Why would we punch trees? Just use your f***ing brain.”
-  - “Oh, yeah, what's that? Sharon what the effing f*** was that? Sorry, couldn't resist.”
+  - “How long before one of our daddy's dressed up in lingerie and bashes mommy's head in with a brick? Oh, crap! Who could that be? It's probably fucking Stan.”
+  - “We heard that you're willing to teach Minecraft to adults? Fuck off! We were told you're available for hire and we're desperate.”
+  - “Punching trees? Why would we punch trees? Just use your fucking brain.”
+  - “Oh, yeah, what's that? Sharon what the effing fuck was that? Sorry, couldn't resist.”
   - “He's the one who stabbed that nagging bitch in her fat face.”
   - “Stop using your grown up brains and start Aha! Son of a bitch.”
-  - “Real sick sh*t.”
+  - “Real sick shit.”
   - “What the what the hell? Yeah, hi.”
   - “Magnacube? What the hell is that? I'm going to sleep.”
   - “I wouldn't have to live in a boring sexless marriage where all we do is piss each other off.”
@@ -5258,6 +5497,7 @@ Watch for:
 ## S17 E3 — 3. World War Zimmerman
 URL: https://watchwiththekids.com/ep/south-park/1703.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Token is deemed a threat to all humanity by Cartman.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “So bad! - That's what's bothering you? - Not the fact that you're a murderer.”
@@ -5267,9 +5507,9 @@ Watch for:
   - “Alright, you want a rifle, like this .”
   - “You'd like to walk right up and punch me in the face, but what's that going to solve? I've got a way better idea.”
 - Swearing — 8 moment(s)
-  - “Oh wait, is this a Tesla? sh*t.”
-  - “You've got a better idea, a**hole? - Everyone quiet! I have to think.”
-  - “Fist bump! Bump that sh*t, bro.”
+  - “Oh wait, is this a Tesla? Shit.”
+  - “You've got a better idea, asshole? - Everyone quiet! I have to think.”
+  - “Fist bump! Bump that shit, bro.”
   - “Why do you think Token is a ticking time bomb? He's pissed off Because of something that happened a long time ago.”
   - “I know you're pissed off but be reasonable! [Bleep.]”
   - “What the hell's wrong with you? Why are you all sitting here listening to this? Oh god, here here it comes, get down everybody, get down, now! Clear the streets, everyone clear the streets we gotta get the [bleep.]”
@@ -5279,11 +5519,12 @@ Watch for:
 ## S17 E4 — 4. Goth Kids 3: Dawn of the Posers
 URL: https://watchwiththekids.com/ep/south-park/1704.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: A goth kid is sent to a camp for troubled youth, but upon her return her friends find her changed in disturbing ways, so they turn to an unlikely group for help.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “I like spiders, loss and rain! I'm only happy when I'm in pain! I'm goin' down to South Park to die! So I cast my body into the trails of blood.”
   - “The knife pierces deep, deep into my lonely eyes, so I can see this black world no more.”
-  - “Agrees with who? Is that red dye in your hair or did a blood demon take a sh*t on your head, poser? Uhoh, he got you there, [racial slur].”
+  - “Agrees with who? Is that red dye in your hair or did a blood demon take a shit on your head, poser? Uhoh, he got you there, nigga.”
   - “We beat up their leader and burned down their lair.”
 - Suicide & self-harm — 4 moment(s)
   - “Okay, okay, look, emos are more prone to suicide.”
@@ -5291,27 +5532,28 @@ Watch for:
   - “I'd rather kill myself than put on gym shorts.”
   - “Not now, mom! I'm suicidal.”
 - Swearing — 12 moment(s)
-  - “I'm not a f***ing emo.”
-  - “Don't you even know the f***ing diff? Do you know how your foul language breaks your mother's heart? Like calling mommy "demon jizz.”
-  - “A goth believes that, deep down, the world is totally f***ed up.”
-  - “But an emo thinks that, deep down, they are totally f***ed up.”
+  - “I'm not a fucking emo.”
+  - “Don't you even know the fucking diff? Do you know how your foul language breaks your mother's heart? Like calling mommy "demon jizz.”
+  - “A goth believes that, deep down, the world is totally fucked up.”
+  - “But an emo thinks that, deep down, they are totally fucked up.”
   - “Well, whoever you is, you better get your ass ready to run, motherfucker, 'cause you a damn traitor.”
   - “Hey, look, man, all genres of gothic subcultures are derivative of Poe's work Motherfucker.”
-  - “They're vile, self-pitying, depressed a**holes.”
+  - “They're vile, self-pitying, depressed assholes.”
   - “She didn't call me a bitch, and she actually apologized to me! That's more like it.”
-  - “Holy sh*t, look! Where am I? What is this place? It's him! It's Edgar Allan Poe.”
+  - “Holy shit, look! Where am I? What is this place? It's him! It's Edgar Allan Poe.”
   - “What the hell have they done to you? What do you mean? They couldn't do anything.”
   - “All she does now is hang out with the douchebag emo kids.”
   - “What did they do to you at that camp? What do you mean? Just the usual group therapy crap.”
 - Racism & slurs — 2 moment(s)
-  - “And I'll bet you it's this little [racial slur] right here.”
-  - “Agrees with who? Is that red dye in your hair or did a blood demon take a sh*t on your head, poser? Uhoh, he got you there, [racial slur].”
+  - “And I'll bet you it's this little nigga right here.”
+  - “Agrees with who? Is that red dye in your hair or did a blood demon take a shit on your head, poser? Uhoh, he got you there, nigga.”
 - Fat-shaming — 1 moment(s)
-  - “Shut up, mom! Leave me alone, you conformist bag of demon jizz! Fatty! Ok, so Ike, do you have any questions? You're f***ing stupid, Kyle! That's not a question.”
+  - “Shut up, mom! Leave me alone, you conformist bag of demon jizz! Fatty! Ok, so Ike, do you have any questions? You're fucking stupid, Kyle! That's not a question.”
 
 ## S17 E5 — 5. Taming Strange
 URL: https://watchwiththekids.com/ep/south-park/1705.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Ike just isn't himself lately and he and Kyle are growing apart. Kyle goes to the guidance counselor for advice, but Mr. Mackey is too busy dealing with the bugs in the school's new integrated technology system to help. Kyle decides to take Ike to a live performance of his favorite show, "Yo Gabba Gabba!" He hopes it'll make his little brother like him again.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Maybe we need to be edgier, have sex appeal.”
@@ -5320,12 +5562,12 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Let's say you're in the cafeteria, mkay, and you start coughing up blood and need to see the nurse.”
 - Swearing — 12 moment(s)
-  - “I just wanted to see if maybe you wanna do finger paints with me? Do I look like I want to do f***ing finger paints? Look at the f***ing zits on my face.”
-  - “? Go, go, go Foofa ? Go, go, go Foofa ? Come on, let's dance Who would you rather f***, Foofa or Toodee? - What? - I wanna f*** Foofa.”
-  - “? Come on, let's dance I wouldn't want to f*** Toodee.”
-  - “I don't even know what the f***ing Muno is.”
+  - “I just wanted to see if maybe you wanna do finger paints with me? Do I look like I want to do fucking finger paints? Look at the fucking zits on my face.”
+  - “? Go, go, go Foofa ? Go, go, go Foofa ? Come on, let's dance Who would you rather fuck, Foofa or Toodee? - What? - I wanna fuck Foofa.”
+  - “? Come on, let's dance I wouldn't want to fuck Toodee.”
+  - “I don't even know what the fucking Muno is.”
   - “It's a dick and balls.”
-  - “That's 'cause you don't understand sh*t! I knew this was a bad idea! I'm gonna go watch Yo Gabba Gabba in my roomsies.”
+  - “That's 'cause you don't understand shit! I knew this was a bad idea! I'm gonna go watch Yo Gabba Gabba in my roomsies.”
   - “For instance, when you fart your dick gets hard.”
   - “Oh, damn it! Okay, now back Set No, set appointment.”
   - “That sucks, dude.”
@@ -5342,6 +5584,7 @@ Watch for:
 ## S17 E6 — 6. Ginger Cow
 URL: https://watchwiththekids.com/ep/south-park/1706.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman facilitates world peace with his latest prank, which brings religious leaders to South Park to witness the fulfillment of a Biblical prophecy.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5350,9 +5593,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “What's going on, Kyle? He said the Muslims beat them here.”
 - Swearing — 7 moment(s)
-  - “What the f***? [Knock at door.]”
-  - “You know, I don't think when Gandhi starved himself he was all, "Dude, look how f***ing awesome I am for starving.”
-  - “Well, now he just sounds like a self righteous a**hole.”
+  - “What the fuck? [Knock at door.]”
+  - “You know, I don't think when Gandhi starved himself he was all, "Dude, look how fucking awesome I am for starving.”
+  - “Well, now he just sounds like a self righteous asshole.”
   - “But you can't suck farts and be a dick about it.”
   - “See? You sound like a dick.”
   - “Dude, go to hell! You're right.”
@@ -5364,6 +5607,7 @@ Watch for:
 ## S17 E7 — 7. Black Friday
 URL: https://watchwiththekids.com/ep/south-park/1707.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: It's the biggest Black Friday sale in history. The boys are divided over which gaming device to buy and a bloody battle will determine whether Xbox or Sony will be the winner.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5375,7 +5619,7 @@ Watch for:
   - “we, uh, douse ourselves in pig blood, because it does help us slip through the crowd when the doors open.”
   - “There was screaming, blood, people tearing each other's faces off while holiday music played in the background.”
 - Swearing — 5 moment(s)
-  - “you know the Xbox is still better, right? - Yeah, but why can't Xbox automatically let you preorder Metal Gear Solid 5? - sir Kyle, preorder doesn't mean sh*t, okay?”
+  - “you know the Xbox is still better, right? - Yeah, but why can't Xbox automatically let you preorder Metal Gear Solid 5? - sir Kyle, preorder doesn't mean shit, okay?”
   - “You know what you get for preordering a game? A big dick in your mouth.”
   - “Please do put a penny in the old man's-- - What the hell are you doing? - Oh, hey, Sharon.”
   - “Do we understand each other? - Hey, you damn kids! get the hell out of my yard.”
@@ -5386,6 +5630,7 @@ Watch for:
 ## S17 E8 — 8. A Song of Ass and Fire
 URL: https://watchwiththekids.com/ep/south-park/1708.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Console wars escalate as throngs of shoppers push toward the mall in anticipation of Black Friday. Meanwhile, Cartman seeks revenge against Princess Kenny.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “What Ha ha! How's it feel Now who's walking who through the betrayal garden Why don't you stay the out of my business Why don't you stay the out of my yard Ish, ish, ish, oh-ish! Hi-sooooo! - That was amazing sex.”
@@ -5395,10 +5640,10 @@ Watch for:
   - “We understand that you've donated some guns to the kids as well.”
   - “This is going to be a blood bath, tom! There will be medical tents, ambulances, face painting.”
 - Swearing — 7 moment(s)
-  - “Stupid a**hole.”
+  - “Stupid asshole.”
   - “The little prick thinks he's daenerys targaryen.”
-  - “Clean that sh*t up.”
-  - “No! Can we skip the wiener stuff and just get to the dragons - Aw, sh*t, I think - I think I'm going faint.”
+  - “Clean that shit up.”
+  - “No! Can we skip the wiener stuff and just get to the dragons - Aw, shit, I think - I think I'm going faint.”
   - “What the hell is he wearing now My followers, though few in number, shall help see me through until I am finally accepted as a princess by all.”
   - “Hey! I told you kids to stay out of my damn yard.”
   - “We're not fans! - Yeah! We don't like it! We don't like it, and I'm pretty pissed off, if you want to know the truth.”
@@ -5410,6 +5655,7 @@ Watch for:
 ## S17 E9 — 9. Titties and Dragons
 URL: https://watchwiththekids.com/ep/south-park/1709.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The war over gaming devices begins as the malls open for the holiday-shopping craze.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5420,9 +5666,9 @@ Watch for:
   - “bloodbath, Tom.”
   - “They're cold, they're starving, and there's already been a lot of bloodshed over these holiday deals.”
 - Swearing — 10 moment(s)
-  - “a**hole! [Beeped.]”
-  - “I'll sh*t in your [Beeped.]”
-  - “Now if you'll excuse me, my lady, I need to take a sh*t.”
+  - “asshole! [Beeped.]”
+  - “I'll shit in your [Beeped.]”
+  - “Now if you'll excuse me, my lady, I need to take a shit.”
   - “That's it, you're not delaying this anymore, you wiener-loving bitch! Happy holidays, Rick.”
   - “up! Who is that? He's just this old crazy guy that gets pissed off 'cause I'm in his garden all the time.”
   - “Well, what the hell are you doing? - This isn't gonna work now! - Shh, shh, shh.”
@@ -5436,6 +5682,7 @@ Watch for:
 ## S17 E10 — The Hobbit
 URL: https://watchwiththekids.com/ep/south-park/1710.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Wendy plays matchmaker by trying to pair one of her gal pals with Butters, only to end up in the counselor's office.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “So, you can She-she is sexy and womanly and she smokes a pipe, she can blow them rings over her head and Hold up.”
@@ -5447,10 +5694,10 @@ Watch for:
   - “So then the family with the mustache saw the cupcakes then lady takes out a gun and puts it in his face and she says Excuse me, Butters.”
   - “Alright, but if you try to punch me, I'll scream.”
 - Swearing — 6 moment(s)
-  - “Are you just an a**hole? Is that it? - Am I just an a**hole? - Yeah! Well, no, I've got arms and legs, I've got everything.”
+  - “Are you just an asshole? Is that it? - Am I just an asshole? - Yeah! Well, no, I've got arms and legs, I've got everything.”
   - “Bitch, how you not the hobbit again? Yeah.”
   - “Bitch, you not a hobbit, right? No, I know, you just you smoke that long pipe sometimes when you sit by the fire.”
-  - “Who the BEEP asked you? Nobody is talking any more sh*t about my woman all right? She is gorgeous.”
+  - “Who the BEEP asked you? Nobody is talking any more shit about my woman all right? She is gorgeous.”
   - “You should rip on her because she's ugly, okay? She looks like someone hit her in the face with a hot shovel and that's why she sucks, alright?”
   - “Oh, she sucks! - Oh, God! - Can we try this without Wendy? - I agree.”
 - Fat-shaming — 1 moment(s)
@@ -5461,15 +5708,16 @@ Watch for:
 ## S18 E1 — 1. Go Fund Yourself
 URL: https://watchwiththekids.com/ep/south-park/1801.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The group attempt to make a kickstarter company to raise money instead of going to school. The episode focuses on kickstarter and how people can make money before producing a product.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Bloody Butt Cough.”
   - “You take a moral stand on issues, you say you're about honor, integrity, and the next thing you know your clergymen are getting caught beating up their wives in an elevator.”
 - Swearing — 9 moment(s)
-  - “Washington Redskins, go f*** yourself.”
-  - “Uh-uh f*** you, bye-bye.”
-  - “It's just a bold new way that we can say, we don't f***ing care.”
-  - “You guys! You guys, it's awesome! Holy sh*t, you guys! You guys, I've got it.”
+  - “Washington Redskins, go fuck yourself.”
+  - “Uh-uh fuck you, bye-bye.”
+  - “It's just a bold new way that we can say, we don't fucking care.”
+  - “You guys! You guys, it's awesome! Holy shit, you guys! You guys, I've got it.”
   - “You son of a bitch! - What? - You broke KickStarter.”
   - “Man, this sucks.”
   - “Digging in our heels and pissing on public opinion is what the Washington Redskins are all about.”
@@ -5479,15 +5727,16 @@ Watch for:
 ## S18 E2 — 2. Gluten Free Ebola
 URL: https://watchwiththekids.com/ep/south-park/1802.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: After the group attempted a kickstarter company in a previous episode they are hated by everyone else at school so attempt to throw a party whilst the town is thrown into chaos over the threat of gluten.
 Watch for:
 - Swearing — 12 moment(s)
-  - “But you told us all to go f*** ourselves.”
-  - “Guys, what we said was You told us your company was gonna make $10 million and the rest of us could go f*** ourselves.”
-  - “Aw, do we need Mackey here? Yeah, all he's gonna talk about is how he's gluten-free now and he feels so f***ing amazing.”
-  - “I'm just saying that I personally feel so f***ing amazing.”
+  - “But you told us all to go fuck ourselves.”
+  - “Guys, what we said was You told us your company was gonna make $10 million and the rest of us could go fuck ourselves.”
+  - “Aw, do we need Mackey here? Yeah, all he's gonna talk about is how he's gluten-free now and he feels so fucking amazing.”
+  - “I'm just saying that I personally feel so fucking amazing.”
   - “Is that why you told Clyde that you broke up with me because you're about to be "dripping in bitches"? Why does everyone suddenly remember everything everybody says? I'm happy, Stan.”
-  - “Between the four of us, we can throw the sweetest party ever, and these a**holes won't even remember us being dicks to them! Hey, that might work, but it can't be a party for us.”
-  - “A band! Holy sh*t, Stan! Didn't you say your dad knows somebody who knows Lorde? Yeah, he said some guy at work is Lorde's Uncle or something.”
+  - “Between the four of us, we can throw the sweetest party ever, and these assholes won't even remember us being dicks to them! Hey, that might work, but it can't be a party for us.”
+  - “A band! Holy shit, Stan! Didn't you say your dad knows somebody who knows Lorde? Yeah, he said some guy at work is Lorde's Uncle or something.”
   - “There's been a lot of confusion about gluten lately people saying that gluten is the cause of cancer, gluten should be avoided, gluten can make your dick fly off but let's set the record straight.”
   - “Dude, people are pissed off at us.”
   - “If you cut out gluten, you don't ever get pissed off.”
@@ -5500,19 +5749,20 @@ Watch for:
 ## S18 E3 — 3. The Cissy
 URL: https://watchwiththekids.com/ep/south-park/1803.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Stan is searching for answers about how a person who he's always known to be one thing could suddenly identify with another. In the meantime, the pressure of holding on to a giant secret is starting to get to Randy.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What? - Did you notice the bow? I'm not comfortable with the sex I was assigned at birth, so I'm exercising my right to identify with the gender of my choice.”
   - “If you identify with the sex you were born with, then you're cis.”
 - Swearing — 11 moment(s)
-  - “Huh? - W-w-wait, is that Holy moly! Hey! What the f***, dude? Do you mind? This is occupied! It's cool.”
-  - “Dude, this is my f***ing bathroom! I want her suspended and I want charges brought up for sexual harassment.”
-  - “I'm sorry, Erica, but I spoke with Wendyl this morning and she's not comfortable "Wendyl"? f***ing"Wendyl"? - Grow up, Wendy.”
-  - “Hey! What the f***, dude?”
-  - “No, God damn it, no! - Who's taking the sh*t? - Occupied! I called dibs on stall one for all recess, Craig! You can't call dibs on a toilet.”
+  - “Huh? - W-w-wait, is that Holy moly! Hey! What the fuck, dude? Do you mind? This is occupied! It's cool.”
+  - “Dude, this is my fucking bathroom! I want her suspended and I want charges brought up for sexual harassment.”
+  - “I'm sorry, Erica, but I spoke with Wendyl this morning and she's not comfortable "Wendyl"? Fucking"Wendyl"? - Grow up, Wendy.”
+  - “Hey! What the fuck, dude?”
+  - “No, God damn it, no! - Who's taking the shit? - Occupied! I called dibs on stall one for all recess, Craig! You can't call dibs on a toilet.”
   - “Son of a bitch.”
-  - “All right, that does it! I'm sick of this sh*t and I'm not taking it any longer! You all pushed me to this! - What the hell do you think you're doing? - I'm going to the potty.”
-  - “That means I can use the girls' sh*tter.”
+  - “All right, that does it! I'm sick of this shit and I'm not taking it any longer! You all pushed me to this! - What the hell do you think you're doing? - I'm going to the potty.”
+  - “That means I can use the girls' shitter.”
   - “Cisginger bitch.”
   - “I prepared for this, but still I wonder, will I have the guts to go through with it? - You're damn right I will.”
   - “What the hell is that? Cartman is using our bathroom! Dude, this is awesome! I should have used the girls' - bathroom a long time ago.”
@@ -5522,18 +5772,19 @@ Watch for:
 ## S18 E4 — 4. Handicar
 URL: https://watchwiththekids.com/ep/south-park/1804.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Handicapped driven vehicles compete with taxi's and other vehicles. The company entitled "Handicar" with the lead driver being Timmy.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I'm gonna take down handicar by being an employee who sexually harasses the passengers.”
   - “Uh, sexual harassment, boss? - It's simple.”
   - “If you're a sheep herder and a snake is killing your sheep, you just need to have the snake get sued for sexual misconduct.”
 - Swearing — 10 moment(s)
-  - “Shut up, mimsy! I'm not gonna spend my summer trapped at camp with these punch-happy a**holes.”
-  - “Now kiss your business goodbye, a**hole.”
+  - “Shut up, mimsy! I'm not gonna spend my summer trapped at camp with these punch-happy assholes.”
+  - “Now kiss your business goodbye, asshole.”
   - “Would you like to see my dick? Sure.”
-  - “Wacky Races? Holy sh*t! The prime minister of Japan has insisted that any race would break the treaty of salzburg, which called for a cease-fire to the Wacky Races for their senseless brutality.”
+  - “Wacky Races? Holy shit! The prime minister of Japan has insisted that any race would break the treaty of salzburg, which called for a cease-fire to the Wacky Races for their senseless brutality.”
   - “The Canadians and Chinese are also saying they would be forced to race, and no one yet has heard from dick dastardly or muttley.”
-  - “What the hell are all of those cars? Holy sh*t! - Timmy! - Timmy! - Timmy! - Timmy! We're near the finish line.”
+  - “What the hell are all of those cars? Holy shit! - Timmy! - Timmy! - Timmy! - Timmy! We're near the finish line.”
   - “Timmy! Good night, you son of a bitch.”
   - “It's just so damn handy! If there is a way to reduce handicar's positive publicity, then we need to do it now.”
   - “She just got snatched by the pissed off Russian in his taxi.”
@@ -5542,6 +5793,7 @@ Watch for:
 ## S18 E5 — 5. The Magic Bush
 URL: https://watchwiththekids.com/ep/south-park/1805.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: A scandalous invasion of privacy makes the South Park denizens edgy as Cartman and Butters get in possession of a drone.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5549,8 +5801,8 @@ Watch for:
   - “Her vagina is everywhere.”
   - “Have you ever seen pictures of naked women before 2005? It's not that weird.”
 - Swearing — 8 moment(s)
-  - “I don't want to - Butters! - Oh, sh*t.”
-  - “Wait, what's that? Oh, sh*t, dude.”
+  - “I don't want to - Butters! - Oh, shit.”
+  - “Wait, what's that? Oh, shit, dude.”
   - “How is that not spying?! You're a dick! You're a spying dick, and now you want to lecture Kenny about spying?! [Bleep.]”
   - “you, hypocrite dick spy.”
   - “Oh, God damn it.”
@@ -5561,16 +5813,17 @@ Watch for:
 ## S18 E6 — 6. Freemium Isn't Free
 URL: https://watchwiththekids.com/ep/south-park/1806.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan's addicted to a new app marketed by Terrance and Phillip, but the duo find that all the money they're making can't buy happiness.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “So, you've got dopamine, right? That's the chemical that gets released in your brain whenever you do something pleasurable like eating, sex.”
 - Swearing — 8 moment(s)
-  - “Get off your high f***ing horse.”
-  - “And now Stan is so consumed by the sh*t by you've been pushing that he can't even see through it!”
+  - “Get off your high fucking horse.”
+  - “And now Stan is so consumed by the shit by you've been pushing that he can't even see through it!”
   - “You son of a bitch! You paid pushers to get addicts hooked on our freemium game? - You what? - Now, hold on, Terrance and Phillip.”
-  - “You have summoned the prince of temptation for what purpose? Oh sh*t.”
+  - “You have summoned the prince of temptation for what purpose? Oh shit.”
   - “Oh, that son of a bitch.”
-  - “Canada is back to being an ethical, respected, sh*tty tundra.”
+  - “Canada is back to being an ethical, respected, shitty tundra.”
   - “Who makes this crap? Oh, it's tewiffic! That's $200,000 more American in just one day.”
   - “I tell him temptation has to be nuanced, but he goes and does this crap again.”
 - Alcohol & drugs — 5 moment(s)
@@ -5583,6 +5836,7 @@ Watch for:
 ## S18 E7 — 7. Grounded Vindaloop
 URL: https://watchwiththekids.com/ep/south-park/1807.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Butters is convinced that he's living in a virtual reality. When he suddenly goes rogue and wreaks havoc at home and all over South Park, everyone struggles to figure out what's real.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “How do you feel? Do you feel okay? I touched Wendy's boob.”
@@ -5597,14 +5851,14 @@ Watch for:
   - “I-I d-didn't think a knife could really hurt me.”
   - “Okay, butters, let's call it good, okay? I'm gonna beat her up and take her money! Wait.”
 - Swearing — 12 moment(s)
-  - “He's so f***ing stupid.”
+  - “He's so fucking stupid.”
   - “Take that, you dumb hooker! Woman: What you doin', motherfucker?! I'm taking your money! Oh.”
-  - “You really think I'm that stupid, that I'd believe all of this, all along, has been me living out some kind of virtual reality fantasy? f*** you.”
-  - “Are you f***ing with me? What? What do you mean? Butters, I'm seriously.”
-  - “Mrph! Mrph rmhmhm rm mrph rmhmhm rm! Mrph rmh? Mrph rmhmhm rm! Mrph rmhmhm rm mrph rmhmhm! You found cartman like this, and you think he's somehow trapped in virtual reality? Mrph! f*** you.”
-  - “Can't you just leave him alone? Dude, butters is an a**hole, and he deserves to be taken down once in a while, okay?”
-  - “These guys are so dumb, huh? Yeah! See? He's an a**hole.”
-  - “Who's the man now?! I'm gonna take his car! This is like "grand theft auto"! Hey! Whoa! I'm in the car now! Oh, sh*t! Butters, butters, where are you now? [ Laughs .]”
+  - “You really think I'm that stupid, that I'd believe all of this, all along, has been me living out some kind of virtual reality fantasy? Fuck you.”
+  - “Are you fucking with me? What? What do you mean? Butters, I'm seriously.”
+  - “Mrph! Mrph rmhmhm rm mrph rmhmhm rm! Mrph rmh? Mrph rmhmhm rm! Mrph rmhmhm rm mrph rmhmhm! You found cartman like this, and you think he's somehow trapped in virtual reality? Mrph! Fuck you.”
+  - “Can't you just leave him alone? Dude, butters is an asshole, and he deserves to be taken down once in a while, okay?”
+  - “These guys are so dumb, huh? Yeah! See? He's an asshole.”
+  - “Who's the man now?! I'm gonna take his car! This is like "grand theft auto"! Hey! Whoa! I'm in the car now! Oh, shit! Butters, butters, where are you now? [ Laughs .]”
   - “Kyle, just don't be a dick right now.”
   - “…up my hands, I can see them, too! Whoa! Wow! You were right! I can actually feel it! Butters, what the hell are you doing?”
   - “And then -- and then he -- he took of the shop goggles, and was all like, "whoa, I'm back!" Damn it if it's not the awesomest thing ever! Sounds pretty typical to me.”
@@ -5613,15 +5867,16 @@ Watch for:
 ## S18 E8 — 8. Cock Magic
 URL: https://watchwiththekids.com/ep/south-park/1808.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kenny excels at playing the game, Magic: The Gathering. He has the boys' full attention until a new, hard-core activity gets in the way. When Wendy tries to get Stan to pay attention to what she's doing, she realizes that what he does with his guy friends always comes first.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “And then he, took his penis from behind our daughter's ear and, we that's when we saw him with, the three rings and his penis.”
   - “Except except for the thing where he poured the milk into - his penis.”
 - Swearing — 8 moment(s)
-  - “Yeah, so, sorry you're not getting any spectators, but there's hard-core dude sh*t to watch.”
-  - “This a**hole needs to make a move already.”
-  - “I'm talking real man sh*t.”
+  - “Yeah, so, sorry you're not getting any spectators, but there's hard-core dude shit to watch.”
+  - “This asshole needs to make a move already.”
+  - “I'm talking real man shit.”
   - “Surprised to see us? - What do you mean? Let's cut the crap? We know there's an illegal cock magic ring going on in town.”
   - “What's cock magic? - Right.”
   - “Kenny glacial crasher, and then Stan's dad shot his dick off.”
@@ -5631,17 +5886,18 @@ Watch for:
 ## S18 E9 — 9. #rehash
 URL: https://watchwiththekids.com/ep/south-park/1809.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy's forced to perform again after Stan spends all the Marsh's money on freemium games; Kyle gets upset when Ike doesn't want to play with him anymore.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh, I'm so horny.”
 - Swearing — 12 moment(s)
-  - “What the f***? Stan is such a douchebag.”
-  - “I don't need Ike listening to you comment on anything! What are you talking about? This fat f*** thinks he's Pewdiepie.”
-  - “I mean, it's just just rehashing sh*t, isn't it? It's like everything these kids are into these days, you know.”
-  - “It's just rehashed sh*t.”
+  - “What the fuck? Stan is such a douchebag.”
+  - “I don't need Ike listening to you comment on anything! What are you talking about? This fat fuck thinks he's Pewdiepie.”
+  - “I mean, it's just just rehashing shit, isn't it? It's like everything these kids are into these days, you know.”
+  - “It's just rehashed shit.”
   - “Anything to keep you away from cock magic.”
-  - “…is rip off Missy Missy who? Missy who? Missy who? Missy who? Missy who, who? Missy who, who? All right, bitches and hos, here he is, via hologram and sh*t Michael Jackson!”
-  - “On the contrary, Lorde is going on the Jimmy Fallon show tonight and exposing her a**hole for everyone to freak out about.”
+  - “…is rip off Missy Missy who? Missy who? Missy who? Missy who? Missy who, who? Missy who, who? All right, bitches and hos, here he is, via hologram and shit Michael Jackson!”
+  - “On the contrary, Lorde is going on the Jimmy Fallon show tonight and exposing her asshole for everyone to freak out about.”
   - “Oh, my dick's getting hard again.”
   - “He's such a bitch.”
   - “Stan is such a douchebag.”
@@ -5651,14 +5907,15 @@ Watch for:
 ## S18 E10 — #HappyHolograms
 URL: https://watchwiththekids.com/ep/south-park/1810.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle plans a holiday special for TV in hopes of bringing families together again with help from some of the biggest names in entertainment. Meanwhile, Cartmaaan Bra is still trending as holograms continue to run rampant in South Park.
 Watch for:
 - Swearing — 12 moment(s)
-  - “It's "the Washington Redskins' Go f*** Yourself Holiday Special.”
-  - “Sir, I'm pretty sure that "Washington Redskins' Go f*** Yourself Holiday Special" is not a good name.”
-  - “It's f***ing awesome! If I may be frank, sir, I think you're giving this kid a little too much power.”
-  - “You mean the girl who just showed her a**hole on "Jimmy Fallon"? No! That was a copy of me.”
+  - “It's "the Washington Redskins' Go Fuck Yourself Holiday Special.”
+  - “Sir, I'm pretty sure that "Washington Redskins' Go Fuck Yourself Holiday Special" is not a good name.”
+  - “It's fucking awesome! If I may be frank, sir, I think you're giving this kid a little too much power.”
+  - “You mean the girl who just showed her asshole on "Jimmy Fallon"? No! That was a copy of me.”
   - “" Now we're talking! That son of a bitch.”
-  - “That self-promoting a**hole.”
+  - “That self-promoting asshole.”
   - “He's such a douchebag.”
   - “And we still have no idea where the damn hologram is? Not yet, but Tupac is close to hunting him down.”
   - “I can hear you, douchebag.”
@@ -5672,6 +5929,7 @@ Watch for:
 ## S19 E1 — 1. Stunning and Brave
 URL: https://watchwiththekids.com/ep/south-park/1901.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: There is a new principal at the helm of South Park Elementary. He forces the boys to confront the damage they've done through their history of racism and unconscious bias.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Butters, I'm going to need your underwear.”
@@ -5681,12 +5939,12 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “A chef person of color who the children had sing soul songs, and who the children drove to kill himself.”
 - Swearing — 12 moment(s)
-  - “Ooh, I hate-a Mongolians! What the f*** is this? Are you f***ing kidding me? I'm telling you all, this is done.”
-  - “Principal, I-I'm sure Kyle was just referring to Bruce Jenner as a person, and not trying to say anything against You got a f***ing problem, bro? No.”
-  - “'Cause it's not Bruce f***ing Jenner! It's Caitlyn, and she's a f***ing stunning woman! Or maybe you're the one teaching him to demean women in the first place.”
-  - “f*** yeah! Sweet, dude.”
-  - “Wha I got detention? I Googled South Park before I came here, and I could not believe the sh*t you are getting away with.”
-  - “And then this sh*t comes out of people's mouths! P.”
+  - “Ooh, I hate-a Mongolians! What the fuck is this? Are you fucking kidding me? I'm telling you all, this is done.”
+  - “Principal, I-I'm sure Kyle was just referring to Bruce Jenner as a person, and not trying to say anything against You got a fucking problem, bro? No.”
+  - “'Cause it's not Bruce fucking Jenner! It's Caitlyn, and she's a fucking stunning woman! Or maybe you're the one teaching him to demean women in the first place.”
+  - “Fuck yeah! Sweet, dude.”
+  - “Wha I got detention? I Googled South Park before I came here, and I could not believe the shit you are getting away with.”
+  - “And then this shit comes out of people's mouths! P.”
   - “By all means, please, keep your dick out.”
   - “Capiche? What did you just say? You mean about keeping your dick out? "Capiche"? You're associating Italian-Americans to intimidation tactics? You better watch your microaggressions, bro.”
   - “Dad, did you draw dicks on my friend's face? Did I check his privilege? Yes.”
@@ -5705,18 +5963,19 @@ Watch for:
 ## S19 E2 — 2. Where My Country Gone?
 URL: https://watchwiththekids.com/ep/south-park/1902.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Tired of illegal immigrants continuously crossing over the border into the United States without any repercussions, Mr. Garrison wants a wall to be built to keep them out of the country.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “" I mean, if we can get one of us to go out with one of them, probably have sex, then it could be a symbol of us all getting along.”
 - Swearing — 12 moment(s)
-  - “In order for better understanding, we have asked students of Canadian origin to introduce you to their culture and Hey, Leslie, shut your f***ing mouth! To introduce you to their culture and customs.”
-  - “Well, there's only one immigration policy that I believe in, and that's f*** 'em all to death! [Students gasp.]”
-  - “No, no! Not it! Oh, sh*t! Support is growing for a Colorado man who claims the way to deal with illegal immigrants is to f*** them all to death.”
-  - MAN: “USA! And then after we've f***ed every last one of them to death, we build a big wall.”
-  - “I know you're all as pissed off as I am, so why don't we begin today's lesson on why the once-great empire of Rome fell to sh*t.”
-  - “Huh? Who can tell me why Rome fell to sh*t? No, somebody who matters.”
+  - “In order for better understanding, we have asked students of Canadian origin to introduce you to their culture and Hey, Leslie, shut your fucking mouth! To introduce you to their culture and customs.”
+  - “Well, there's only one immigration policy that I believe in, and that's fuck 'em all to death! [Students gasp.]”
+  - “No, no! Not it! Oh, shit! Support is growing for a Colorado man who claims the way to deal with illegal immigrants is to fuck them all to death.”
+  - MAN: “USA! And then after we've fucked every last one of them to death, we build a big wall.”
+  - “I know you're all as pissed off as I am, so why don't we begin today's lesson on why the once-great empire of Rome fell to shit.”
+  - “Huh? Who can tell me why Rome fell to shit? No, somebody who matters.”
   - “Stkrdknmibalz [stick your dick in my balls.]”
-  - GARRISON: “Where has my country gone? Where has my country gone? It was a land of opportunity that we held dear But now all these other a**holes are comin' here And where's my country gone?”
+  - GARRISON: “Where has my country gone? Where has my country gone? It was a land of opportunity that we held dear But now all these other assholes are comin' here And where's my country gone?”
   - “You, sir, have a pizza face, and you suck your mom's dick.”
   - “What the hell are you doing? It's 8:00 A.”
   - “But damn it, I understand there's a bunch of Canadians here, and I'm gonna do something about it! [Applause.]”
@@ -5727,16 +5986,17 @@ Watch for:
 ## S19 E3 — 3. The City Part of Town
 URL: https://watchwiththekids.com/ep/south-park/1903.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kenny tries to land a job when the town of South Park begins gentrifying.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “With modern styling, these lofts are sleek, sexy, and, oh, so SodoSopa.”
 - Swearing — 11 moment(s)
-  - “Not surprisingly, this guy is from a predominantly white town called South Park, Colorado, or sh*t heads of America, Incorporated.”
-  - “Garrison, we are now being referred to as "the sh*t heads of America.”
+  - “Not surprisingly, this guy is from a predominantly white town called South Park, Colorado, or shit heads of America, Incorporated.”
+  - “Garrison, we are now being referred to as "the shit heads of America.”
   - “Shut your damn mouth, bitch! You shut your mouth, or I'll shut But that's not all.”
-  - “Now that-a SodoSopa open, I'm the sh*tty part of town! And everyone hates the sh*tty part of town.”
-  - “Oh, what do you know about living in the sh*tty part of town, Dennis?”
-  - “We'll get that a**hole! There's a new and exciting place where people can gather to shop, experience, and grow.”
+  - “Now that-a SodoSopa open, I'm the shitty part of town! And everyone hates the shitty part of town.”
+  - “Oh, what do you know about living in the shitty part of town, Dennis?”
+  - “We'll get that asshole! There's a new and exciting place where people can gather to shop, experience, and grow.”
   - “Oh, boy! Get ready, child-labor force! Any minute now, we gonna have customers up our ass! - Get him! - There he is! That son a bitch!”
   - “Yeah, I got concerns! I don't want you touching my damn house! We realize that when a rejuvenation like this takes place, the lower-income residents fear they'll be priced out of the area.”
   - “Your house sucks.”
@@ -5748,16 +6008,17 @@ Watch for:
 ## S19 E4 — 4. You're Not Yelping
 URL: https://watchwiththekids.com/ep/south-park/1904.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman considers himself the top on-line restaurant reviewer in South Park.
 Watch for:
 - Swearing — 12 moment(s)
-  - “Get the f*** out of here.”
-  - “Iâll get the f*** out! Thank you! Youâre pretty important, Eric.”
-  - “Youâre not a food critic, Dennis! Youâre a f***ing mechanic! Now get the f*** out! Go on! All you Yelping sons of bitches get the f*** out of here! Youâre gonna regret this, Whistlinâ Willy.”
-  - “Do you need more lemonade? Thereâs a f***ing billion people here! Thank you all for coming.”
-  - “Could you turn down the music? This pagan sh*t hurts my ears.”
-  - “âÂ Itâs not supposed to have waterâ It was like this one, solid piece that I had to push out my a**hole.”
+  - “Get the fuck out of here.”
+  - “Iâll get the fuck out! Thank you! Youâre pretty important, Eric.”
+  - “Youâre not a food critic, Dennis! Youâre a fucking mechanic! Now get the fuck out! Go on! All you Yelping sons of bitches get the fuck out of here! Youâre gonna regret this, Whistlinâ Willy.”
+  - “Do you need more lemonade? Thereâs a fucking billion people here! Thank you all for coming.”
+  - “Could you turn down the music? This pagan shit hurts my ears.”
+  - “âÂ Itâs not supposed to have waterâ It was like this one, solid piece that I had to push out my asshole.”
   - “âÂ You, too, you son of a bitch.”
-  - “Thereâs some sh*t on the floor.”
+  - “Thereâs some shit on the floor.”
   - “Iâm not from Mexico, dude! Iâm from Idaho! Iâm gonna show this prick how we do things in Boise.”
   - “Hell, does anyone? Gerald, weâre going to the park.”
   - “God, Iâm so damn tired.”
@@ -5768,21 +6029,22 @@ Watch for:
 ## S19 E5 — 5. Safe Space
 URL: https://watchwiththekids.com/ep/south-park/1905.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman is the latest victim of Body Shaming.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “"Hey, Demi Lovato, I bet your vagina has a" Oh oh, God Oh, that's ter horrible! Geez.”
   - “I was in the locker room And I was in my underwear, and these kids walked by.”
 - Swearing — 10 moment(s)
-  - “Internet m-m-made fu-fun of me and Well, Eric, maybe you shouldn't have put a picture of you in your underwear up on social media Hey! You got a f***ing problem, Mackey?! N-no, P.”
-  - “Principal! Because body shaming is f***ing serious, and I'm not gonna allow that sh*t in my school! Nobody should have to feel that kind of shame.”
-  - “Dude, f*** Demi Lovato.”
-  - “I sh*t on all of you! Seagal! f*** you f*** you f*** you f*** you f*** you! Give me that, you stupid bitch.”
-  - “What new people? I've got Demi Lovato to take care of now, And Lena Dunham just put a picture of her a**hole On Twitter and wants only the positive comments.”
+  - “Internet m-m-made fu-fun of me and Well, Eric, maybe you shouldn't have put a picture of you in your underwear up on social media Hey! You got a fucking problem, Mackey?! N-no, P.”
+  - “Principal! Because body shaming is fucking serious, and I'm not gonna allow that shit in my school! Nobody should have to feel that kind of shame.”
+  - “Dude, fuck Demi Lovato.”
+  - “I shit on all of you! Seagal! Fuck you fuck you fuck you fuck you fuck you! Give me that, you stupid bitch.”
+  - “What new people? I've got Demi Lovato to take care of now, And Lena Dunham just put a picture of her asshole On Twitter and wants only the positive comments.”
   - “"You aren't fat, but my dick is.”
-  - “Ha ha! Aaaah! So, you're the one trying to destroy me, eh? What?! You little sh*t!”
+  - “Ha ha! Aaaah! So, you're the one trying to destroy me, eh? What?! You little shit!”
   - “Hey Kyle, you want to see What people on the Internet said about my dick pic? Everyone's pretty stoked on it.”
-  - “Reality?! Who let him in?! sh*t!”
+  - “Reality?! Who let him in?! Shit!”
   - “Yeah! And the coolest thing? Ever since I started using this service, All my followers are actually way more stoked on me! So cool, right?! Butters! What the hell is this?!”
 - Alcohol & drugs — 3 moment(s)
   - “So, with the ice cream, the vodka, pizza pockets, and nothing for hungry kids, that's $37.”
@@ -5792,6 +6054,7 @@ Watch for:
 ## S19 E6 — 6. Tweek x Craig
 URL: https://watchwiththekids.com/ep/south-park/1906.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The news of a romantic relationship between Tweek and Craig hits South Park Elementary.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “âÂ You guys! Hurry! âÂ What? Itâs Tweek and Craig, dude! Theyâre about to have sex!”
@@ -5802,13 +6065,13 @@ Watch for:
   - “âÂ But Iâm not gay! âÂ I donât care about that, bro! Tweek, ifâ¦ and Iâm only saying ifâ¦ at some point, you wanted to touch Craigâs penis, you canât just go grabbing for it.”
   - “Youâd need to say something like, âCraig, is it all right with you if I touch your penis?â Letâs try it out.”
 - Swearing — 12 moment(s)
-  - “Weâre gonna be showing you some art from our Asian-American studentsâ¦ Damn it, Leslie! Shut your f***ing pie hole! Presented by student-body president, Wendy Testaberger.”
-  - “â Dude, what the f***? In yaoi art, the seme, or âtop,â is usually dominating the uke, or âbottom,â as demonstrated in Heather Nishimuraâs âTweek and Craig: Boizu Rabu.”
-  - “âÂ You guys! Hurry! âÂ What? Itâs Tweek and Craig, dude! Theyâre about to have sex! âÂ You got a f***ing problem, man?”
-  - “Now you need me, huh? âÂ f*** you, dude.”
-  - “You want two weeks detention? This sh*tâs important! Craig, can I touch your penis? OK.”
-  - “Craig, what would you say if you wanted to take a gander at Tweekâs a**hole? Randy, you should have a talk with Stan.”
-  - “Donât use that lame sh*t on me, man.”
+  - “Weâre gonna be showing you some art from our Asian-American studentsâ¦ Damn it, Leslie! Shut your fucking pie hole! Presented by student-body president, Wendy Testaberger.”
+  - “â Dude, what the fuck? In yaoi art, the seme, or âtop,â is usually dominating the uke, or âbottom,â as demonstrated in Heather Nishimuraâs âTweek and Craig: Boizu Rabu.”
+  - “âÂ You guys! Hurry! âÂ What? Itâs Tweek and Craig, dude! Theyâre about to have sex! âÂ You got a fucking problem, man?”
+  - “Now you need me, huh? âÂ Fuck you, dude.”
+  - “You want two weeks detention? This shitâs important! Craig, can I touch your penis? OK.”
+  - “Craig, what would you say if you wanted to take a gander at Tweekâs asshole? Randy, you should have a talk with Stan.”
+  - “Donât use that lame shit on me, man.”
   - “You just need a little prick of magic.”
   - “âÂ God damn it.”
   - “Itâs Japan that decides? How the hell do they actually make people gaâ¦ And Japan, of course, is who does the yaoi to make people gay.”
@@ -5820,6 +6083,7 @@ Watch for:
 ## S19 E7 — 7. Naughty Ninjas
 URL: https://watchwiththekids.com/ep/south-park/1907.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: A game of Ninja Warriors is led by Kenny and attracts attention from foreign terrorists. Meanwhile, the citizens of South Park decide they don't need a police department anymore.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “…A shocking report shows that some kids in the town of South Park Are swearing loyalty to a murderous regime.”
@@ -5828,21 +6092,21 @@ Watch for:
   - “See, used to be we could beat up minorities, and nobody cared.”
   - “Hey, Mitch, you want to go down and arrest some homeless people, But not be able to beat up any minorities? No, thank you.”
 - Swearing — 12 moment(s)
-  - “You people all get out of here! What makes you in charge? 'Cause this is my f***ing house!”
-  - “How is that gay? It's the gayest thing ever, dude! Ninjas are f***ing dumb! Dude, come on! We got to go see this! Over this way! Wah! Wah, wah! Hoo-ah, wah, wah! We will defend our ninja honor.”
-  - “f*** the police Comin' straight from the underground A young [racial slur] got it bad 'cause I'm Brown And not the…”
-  - “Yo, Dre, I got something to say f*** the police f*** the police Aahhhh!”
-  - “sh*tpaTown is for people who care about each other.”
-  - “Now, look, not all cops are racist, trigger-happy a**holes.”
-  - “Why would kids in our town want to be a part of that? They're just bad kids, rotten on the inside, probably with sh*tty parents.”
-  - “Sorry, but I guess you'll have to find somebody else to do all the difficult, dirty sh*t you don't want to do yourselves.”
-  - “This chicken tastes like sh*t.”
-  - “Soon we'll all have sh*tpaTown to enjoy again.”
+  - “You people all get out of here! What makes you in charge? 'Cause this is my fucking house!”
+  - “How is that gay? It's the gayest thing ever, dude! Ninjas are fucking dumb! Dude, come on! We got to go see this! Over this way! Wah! Wah, wah! Hoo-ah, wah, wah! We will defend our ninja honor.”
+  - “Fuck the police Comin' straight from the underground A young nigga got it bad 'cause I'm Brown And not the…”
+  - “Yo, Dre, I got something to say Fuck the police Fuck the police Aahhhh!”
+  - “ShiTpaTown is for people who care about each other.”
+  - “Now, look, not all cops are racist, trigger-happy assholes.”
+  - “Why would kids in our town want to be a part of that? They're just bad kids, rotten on the inside, probably with shitty parents.”
+  - “Sorry, but I guess you'll have to find somebody else to do all the difficult, dirty shit you don't want to do yourselves.”
+  - “This chicken tastes like shit.”
+  - “Soon we'll all have ShiTpaTown to enjoy again.”
   - “God damn it.”
   - “What do you think? God damn it! What are they doing?! They're not coming! But they have to! Karen brought in one of their syringes, for Christ's sake! Well, it's just too bad.”
 - Racism & slurs — 2 moment(s)
-  - “Now, look, not all cops are racist, trigger-happy a**holes.”
-  - “f*** the police Comin' straight from the underground A young [racial slur] got it bad 'cause I'm Brown And not the other color, so police think They have the authority to kill a…”
+  - “Now, look, not all cops are racist, trigger-happy assholes.”
+  - “Fuck the police Comin' straight from the underground A young nigga got it bad 'cause I'm Brown And not the other color, so police think They have the authority to kill a…”
 - Homophobic jokes — 4 moment(s)
   - “They're so gay.”
   - “They're so gay, you guys.”
@@ -5852,20 +6116,21 @@ Watch for:
 ## S19 E8 — 8. Sponsored Content
 URL: https://watchwiththekids.com/ep/south-park/1908.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Jimmy challenges PC Principal when the budding newsman is flagged for inappropriate language in the school paper.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “I donât cheat on you, Sharon.”
 - Swearing — 12 moment(s)
-  - “The word retarded does not belong in our school! Who is in charge of the school paper? âCause Iâm about to break their f***ing legs! Heâs in charge of the school paper.”
-  - “See, what I know is that thereâs only one way to deal with Syrian refugees, and that isâ¦ f*** them all to death! Thank you! That was hilarious when you called her a pizza face.”
-  - “When I hear that word, I want to f***ing punch them in the face.”
-  - “He picked it up, and I saw the headline! What the f*** is this, bro?”
+  - “The word retarded does not belong in our school! Who is in charge of the school paper? âCause Iâm about to break their fucking legs! Heâs in charge of the school paper.”
+  - “See, what I know is that thereâs only one way to deal with Syrian refugees, and that isâ¦ Fuck them all to death! Thank you! That was hilarious when you called her a pizza face.”
+  - “When I hear that word, I want to fucking punch them in the face.”
+  - “He picked it up, and I saw the headline! What the fuck is this, bro?”
   - “Donât forget to read the school paper, now delivered directly to your door! Super School News! What is that, bro? Suck my dick, PC Principal!”
-  - “Did you know the police in sh*tpaTown beat up homeless to clear them out?”
-  - “She looks like a donkey took a sh*t on her face.”
-  - “We have sh*tpaTown, boutique restaurants, and artisan shops.”
-  - “Weâre gonna figure this sh*t out.”
-  - “God, youâre such an a**hole.”
+  - “Did you know the police in ShiTpaTown beat up homeless to clear them out?”
+  - “She looks like a donkey took a shit on her face.”
+  - “We have ShiTpaTown, boutique restaurants, and artisan shops.”
+  - “Weâre gonna figure this shit out.”
+  - “God, youâre such an asshole.”
   - “You feel like thatâs a no-no word, right? That word makes my heart piss its pants.”
   - “What do you think? Keeping our country safe has become more and more difficult, but I believe there are several thingsâ¦ No! You shut the hell up! Youâve got a dumpy butt and seven chins.”
 - Racism & slurs — 2 moment(s)
@@ -5875,15 +6140,16 @@ Watch for:
 ## S19 E9 — 9. Truth and Advertising
 URL: https://watchwiththekids.com/ep/south-park/1909.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: PC Principal disappears along with 2 fourth grade students. The latest news in the school paper sets the boys on a search to find their two missing classmates. Being the crack reporter that he is, Jimmy sets out to learn everything he can about what makes Leslie tick. Meanwhile, Principal Victoria and Mr. Garrison return to a South Park that has become unrecognizable
 Watch for:
 - Violence & injury — 1 moment(s)
   - “The man who came to your house with a gun was one of them.”
 - Swearing — 12 moment(s)
-  - “" Oh, my f***ing God.”
-  - “How PC culture is changing Vermont from a state of intolerance to a Dude, there it is again! It's that goddamn guitar! This ad is f***ing following me! - Just click out of it.”
+  - “" Oh, my fucking God.”
+  - “How PC culture is changing Vermont from a state of intolerance to a Dude, there it is again! It's that goddamn guitar! This ad is fucking following me! - Just click out of it.”
   - “Your Super School News was a threat to them, but unless you get this little bitch to talk, we may never know why.”
-  - “Oh, that That's where you draw the line, huh, Caitlyn? Don't be an a**hole.”
-  - “You're such an a**hole.”
+  - “Oh, that That's where you draw the line, huh, Caitlyn? Don't be an asshole.”
+  - “You're such an asshole.”
   - “I think he's a dick.”
   - “Jimmy, you're thinking with your dick.”
   - “M'kay? God damn it.”
@@ -5897,6 +6163,7 @@ Watch for:
 ## S19 E10 — PC Principal Final Justice
 URL: https://watchwiththekids.com/ep/south-park/1910.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle has chosen a dangerous alliance over his friendship with Stan.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “I like good food, organic pressed juices, and Iâve got a thing for high-class prostitutes.”
@@ -5909,12 +6176,12 @@ Watch for:
   - “The judge wants to take another look at that shotgun/rifle mix.”
   - “Shut up, Classi! Oh, hell, no! Oh, hell no, your Down syndrome ass just slapped me.”
 - Swearing — 12 moment(s)
-  - “We need to round âem up fast and f*** them till theyâre dead.”
-  - “You donât want to f*** a vampire.”
-  - “Psych! Now, put the f***ing gun down, bitch! Iâll go tell Mom! You go tell her.”
-  - “I will bust yo f***ing ass! I will bust yo f***ing nose! I ainât no mimsy-ass ho! Iâm a classy bitch, and I do notâ¦ want adsâ¦ controlling my news! Classi, thank you! You need my help? You gots it.”
-  - “All I had to do was work for the ads, and I got everything I wantedâ¦ My own loft with all of sh*tpaTown right at my doorstep.”
-  - “âÂ Mom! âÂ sh*t! Took a lot to hunt you down, PC Principal.”
+  - “We need to round âem up fast and fuck them till theyâre dead.”
+  - “You donât want to fuck a vampire.”
+  - “Psych! Now, put the fucking gun down, bitch! Iâll go tell Mom! You go tell her.”
+  - “I will bust yo fucking ass! I will bust yo fucking nose! I ainât no mimsy-ass ho! Iâm a classy bitch, and I do notâ¦ want adsâ¦ controlling my news! Classi, thank you! You need my help? You gots it.”
+  - “All I had to do was work for the ads, and I got everything I wantedâ¦ My own loft with all of ShiTpaTown right at my doorstep.”
+  - “âÂ Mom! âÂ Shit! Took a lot to hunt you down, PC Principal.”
   - “Iâmma break yo dick off! Hang on, Classi.”
   - “Donât listen to them! The real conspiracy here are the PC extremists who have no problem killing whoever doesnât think like they do! You son of a bitch, Stan.”
   - “âÂ Jesus! What am I, on trial or something? God damn! You guys are really acting strange.”
@@ -5927,6 +6194,7 @@ Watch for:
 ## S20 E1 — 1. Member Berries
 URL: https://watchwiththekids.com/ep/south-park/2001.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: An American icon gives the National Anthem a reboot.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5934,10 +6202,10 @@ Watch for:
   - “No! No? Come on, talk about having sex with guys and say "vagina!" and stuff like that.”
 - Swearing — 11 moment(s)
   - “Sell to me, baby Yeah! Suck that poll, you dumb bitch! Up 10%.”
-  - “Can you believe that sh*t? Oh, Caitlyn, I think we're really gonna win this thing.”
+  - “Can you believe that shit? Oh, Caitlyn, I think we're really gonna win this thing.”
   - “He Photoshopped a picture of Heidi Turner's mom with a dick in her mouth! I want to see.”
   - “Look! There's Wendy's mom with a dick in her mouth, too?! [Chuckling.]”
-  - “You'd have to be an absolute a**hole not to stand and support it.”
+  - “You'd have to be an absolute asshole not to stand and support it.”
   - “And that's just the kind of sexist bull crap that's gonna keep you in the kitchen.”
   - “What? What the hell is wrong with people? They really think that a Giant Douche should be president? It's insane! Why'd you say I'd be voting for the Turd Sandwich, Randy? You haven't even talked to me about it.”
   - “What the hell are you doing?! Rebooting fairy tales to try and ease the friction caused by Internet trolls.”
@@ -5950,6 +6218,7 @@ Watch for:
 ## S20 E2 — 2. Skank Hunt
 URL: https://watchwiththekids.com/ep/south-park/2002.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: An online troll threatens to have global implications as Cartman professes his innocence.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5966,6 +6235,7 @@ Watch for:
 ## S20 E3 — 3. The Damned
 URL: https://watchwiththekids.com/ep/south-park/2003.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Gerald basks in the thrill of media attention as he continues to troll everyone.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Whoo-hoo! I have scissored with another woman when I had a sex change! [Cheers and applause.]”
@@ -5977,10 +6247,10 @@ Watch for:
   - “Kyle! We're simply trying to gather information on whether was a Twitter suicide or Twitter homicide.”
   - “Last night, the trolling took a vicious turn when Freja Ollengaurd finally succumbed to the pressure and committed suicide.”
 - Swearing — 8 moment(s)
-  - “I tried getting on community message boards and swaying people's minds, but it always ends up with some a**hole talking about vaginas and photoshopping a dick in my mouth.”
-  - “No, shut up! Listen to me! You don't want a guy like me in the White House! You don't even want to know the sh*t I've done.”
+  - “I tried getting on community message boards and swaying people's minds, but it always ends up with some asshole talking about vaginas and photoshopping a dick in my mouth.”
+  - “No, shut up! Listen to me! You don't want a guy like me in the White House! You don't even want to know the shit I've done.”
   - “He's so honest! No, no! I'm not the guy you want going to Russia to negotiate with Putin! I'll probably end up getting drunk and trying to suck his dick! [Cheers and applause.]”
-  - Man: “Yeah! I seriously hold so much contempt for each and every one of you pieces of sh*t.”
+  - Man: “Yeah! I seriously hold so much contempt for each and every one of you pieces of shit.”
   - “Everything sucks.”
   - “Yeah, everything sucks.”
   - “And there's people like your mother who are thinking about voting for a douche 'cause she doesn't have a brain! Sharon: Go to hell, Randy! I don't know what's wrong with people in this town.”
@@ -5991,10 +6261,11 @@ Watch for:
 ## S20 E4 — 4. Wieners Out
 URL: https://watchwiththekids.com/ep/south-park/2004.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle feels guilty for the tension between the boys and the girls, but Butters brings his gender together to stand up for their rights. Meanwhile, Gerald is worried that his cover may be blown.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it.”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it.”
   - “I saw a vagina, Kyle.”
   - “You saw whose vagina? - My girlfriend's.”
 - Porn / strippers / sex work — 2 moment(s)
@@ -6003,9 +6274,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “It was just stupid, harmless locker-room humor until I made that lady kill herself.”
 - Swearing — 8 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it.”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it.”
   - “My name is Dick.”
-  - “Oh, sh*t! What's protocol zero? Everything's gone.”
+  - “Oh, shit! What's protocol zero? Everything's gone.”
   - “Son a bitch! Ah! Gerald.”
   - “You fat, little bitch! Go Go kill yourself, whore! Yeah [bleep.]”
   - “No, no, I'm done with this crap.”
@@ -6021,21 +6292,22 @@ Watch for:
 ## S20 E5 — 5. Douche and a Danish
 URL: https://watchwiththekids.com/ep/south-park/2005.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Garrison finally goes too far at a rally and reconsiders his future in politics. Meanwhile, the kids begin searching for an infamous Internet troll; and Gerald joins the opposition to a Danish campaign tracking nefarious characters on the Web.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it.”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it.”
 - Swearing — 12 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it.”
-  - “You know, I'm standing there in line and you know what I do? I stick my finger in this chick's a**hole.”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it.”
+  - “You know, I'm standing there in line and you know what I do? I stick my finger in this chick's asshole.”
   - “No dude wants his finger in some ugly bitch's ass.”
-  - “It's only about half-an-inch away, you know, the a**hole and that clam, so you got to be careful.”
-  - “everyone to death, all the Muslim and Mexican sh*t, but fingers in the ass did it for you? Cool.”
+  - “It's only about half-an-inch away, you know, the asshole and that clam, so you got to be careful.”
+  - “everyone to death, all the Muslim and Mexican shit, but fingers in the ass did it for you? Cool.”
   - “Remember there was that guy that had the He had that weird haircut and you kept saying that it looked like - he had a dick on his head.”
   - “And on November 8th, when I lose, I'll be able to say "I told you so!" This sum'ma bitch pulled a fast one on us! It's like he's not even trying! Oh, no.”
-  - “sh*t! [Shouting continues.]”
-  - “I led this entire election down the sh*tter.”
-  - “You a**holes overcooked them! [All shouting.]”
+  - “Shit! [Shouting continues.]”
+  - “I led this entire election down the shitter.”
+  - “You assholes overcooked them! [All shouting.]”
   - “Denmark! Butters: That's it! I am through with your stupid crap! Every house I've been to just rips on me and says Denmark is stupid.”
   - “Who the hell are these people? Just listen.”
 - Alcohol & drugs — 1 moment(s)
@@ -6049,21 +6321,22 @@ Watch for:
 ## S20 E6 — 6. Fort Collins
 URL: https://watchwiththekids.com/ep/south-park/2006.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: An entire city in Colorado gets hacked. Gerald and Cartman may lose everything when their complete history of internet activity becomes public.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
 - Swearing — 12 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
   - “Up yours, bitch.”
   - “How about a dick in your mouth? There you go.”
-  - “The election? I don't give a sh*t about the election.”
+  - “The election? I don't give a shit about the election.”
   - “You stupid, bitch.”
-  - “I have a wife and kids and sh*t to do.”
+  - “I have a wife and kids and shit to do.”
   - “Yes! It! Is! If somebody Photoshopped a dick in your wife's mouth, would you just think it was funny? You mean my [bleep.]”
-  - “You're just an a**hole.”
-  - “political activist holed up in your sh*tty little midget condo? You're nothing but a pissed off little giant lashing out at everyone because you can't get laid.”
-  - “We did? Yeah, we have to go with plan "B," 'member? Ooh, I 'member! Sorry, a**hole.”
+  - “You're just an asshole.”
+  - “political activist holed up in your shitty little midget condo? You're nothing but a pissed off little giant lashing out at everyone because you can't get laid.”
+  - “We did? Yeah, we have to go with plan "B," 'member? Ooh, I 'member! Sorry, asshole.”
   - “Damn it! These things are impossible to get rid of.”
   - “Ow, ow, ow! Damn it! Nothing kills these things.”
 - Alcohol & drugs — 2 moment(s)
@@ -6081,23 +6354,24 @@ Watch for:
 ## S20 E7 — 7. Oh, Jeez
 URL: https://watchwiththekids.com/ep/south-park/2007.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: PC Principal plays peacemaker between the girls and the boys one more time. Meanwhile, the election results are in, and Gerald is confronted by the Troll Hunter.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
-  - “When Amy Schumer jokes about her vagina, I seriously lose my sh*t.”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
+  - “When Amy Schumer jokes about her vagina, I seriously lose my shit.”
 - Violence & injury — 1 moment(s)
   - “The world is in a bit of a shock, uh Is this W-We're sure this is for real, right? What have you done?! You maniacs! [Gun cocks.]”
 - Suicide & self-harm — 2 moment(s)
   - “Since the city was hacked, there have been murders, suicides, and complete loss of civility.”
   - “But I also understand you weren't trying to get a woman to kill herself.”
 - Swearing — 11 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
-  - “And now, let's begin f***ing them all to death! [Knock on door.]”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
+  - “And now, let's begin fucking them all to death! [Knock on door.]”
   - “The world is in a bit of a shock, uh Is this W-We're sure this is for real, right? What have you done?! You maniacs! [Gun cocks.]”
   - “…break all your stuff, dumb-ass! If anyone should be pissed at chicks, it's you! But, no, you've got your bitchy little girlfriend pulling your strings now.”
-  - “When Amy Schumer jokes about her vagina, I seriously lose my sh*t.”
-  - “" You're a kid! You're supposed to just laugh and make fun of sh*t.”
+  - “When Amy Schumer jokes about her vagina, I seriously lose my shit.”
+  - “" You're a kid! You're supposed to just laugh and make fun of shit.”
   - “And trust me, my wife is a crazy bitch.”
   - “Please! My wife is so pissed at me! [Gunshot.]”
   - “It sucks, Dad! This country's gonna suck for four years! Oh, come on, Shelley.”
@@ -6111,24 +6385,25 @@ Watch for:
 ## S20 E8 — 8. Members Only
 URL: https://watchwiththekids.com/ep/south-park/2008.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The new President-elect visits his hometown.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
   - “And if there's one thing I've learned about becoming President, it's that your penis can get really dry.”
   - “Yeah, and I mean, when women make vagina jokes, I think it's the funniest thing ever.”
   - “Yeah, I swear I don't care how many times Amy Schumer talks about her vagina, I laugh every time.”
 - Affairs / cheating — 1 moment(s)
   - “Secretary of Foreign Affairs calling from London.”
 - Swearing — 12 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
-  - “Is it true Mars would have really sh*tty Wi-Fi? That'd be an understatement, yes.”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
+  - “Is it true Mars would have really shitty Wi-Fi? That'd be an understatement, yes.”
   - “That's better, bitch.”
   - “You know if they have anything at this store for a dry dick? Huh? No? You guys can't think of anything? Oh, I know.”
-  - “I thought boys were being treated unfairly, but now I know sh*t's about to get a lot worse.”
-  - “Gerald? He's full of sh*t.”
+  - “I thought boys were being treated unfairly, but now I know shit's about to get a lot worse.”
+  - “Gerald? He's full of shit.”
   - “I need you to type "How'd you like a donkey dick?" Welcome to the Pentagon, sir.”
-  - “You expect people to believe that you went from being the biggest a**hole in the school to a soft-hearted feminist like me? Fat chance.”
+  - “You expect people to believe that you went from being the biggest asshole in the school to a soft-hearted feminist like me? Fat chance.”
   - “Aw, God damn it.”
   - “Is that Cher?! Do you believe the world, oh God damn it! How the [bleep.]”
   - Butters: “Hey, Eric! What the hell are you doing here? Well, I want to get the [bleep.]”
@@ -6139,10 +6414,11 @@ Watch for:
 ## S20 E9 — 9. Not Funny
 URL: https://watchwiththekids.com/ep/south-park/2009.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman becomes convinced that Butters wants to steal his girlfriend.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
   - “Putting a penis in the mouth of a mom who has cancer is funny?! Because it's so not funny, God! Pushing people's buttons to get a reaction can actually be very good for society, Kyle.”
   - “Okay, okay, now could you just do the "my vagina" thing for them? Could you just say, "my vagina"? They're out of sequence! I'll show you! What the [bleep.]”
 - Affairs / cheating — 1 moment(s)
@@ -6150,15 +6426,15 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “And I'm so sorry she was driven to kill herself by trolling.”
 - Swearing — 12 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches and I know my penis likes it!”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches and I know my penis likes it!”
   - “You're such a little bitch.”
   - “Oh, I'm a bitch, huh? I happen to be president, bitch! You're a little bitch president.”
-  - “Oh You Oh, okay! You think so, huh? Well, watch this, you gay a**hole! Bomb Denmark! Sir? The Troll Trace building and the whole [bleep.]”
-  - “You were right, Dildo, when you said I was a dick, when you called me an a**hole.”
-  - “You're not an a**hole.”
-  - “They're sick of our sh*t.”
-  - “Bomb the sh*t out of them.”
-  - “Use that country to create a machine that relies on the sh*ttiness of people to [bleep.]”
+  - “Oh You Oh, okay! You think so, huh? Well, watch this, you gay asshole! Bomb Denmark! Sir? The Troll Trace building and the whole [bleep.]”
+  - “You were right, Dildo, when you said I was a dick, when you called me an asshole.”
+  - “You're not an asshole.”
+  - “They're sick of our shit.”
+  - “Bomb the shit out of them.”
+  - “Use that country to create a machine that relies on the shittiness of people to [bleep.]”
   - “dicks in the mouth and tit jokes, you amateur little pussy.”
   - “Now, get out there and - Kyle! Ike! What the hell is this?! What did I say?! Get off of that computer right now! [All shouting.]”
   - “damn it! Hold up! Hold up on the [bleep.]”
@@ -6171,15 +6447,16 @@ Watch for:
 ## S20 E10 — The End of Serialization As We Know It
 URL: https://watchwiththekids.com/ep/south-park/2010.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman finally understands why Heidi wants him to get to Mars.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - “You fat hooker.”
   - “He looked at porn 4,000 times in one month! Aren't you curious what your husband does? Huh? Sure he doesn't have any girlfriends? No, I-I have to respect Gerald's privacy.”
 - Swearing — 12 moment(s)
-  - “Thank you! (BEEP) Tweak, Craig, I need you to get on the GLADD website and respond to all the horrible sh*t I just said about gay people.”
-  - “Why'd you day horrible sh*t about gay people? It's not important.”
-  - “Lick my a**hole, you Mexican bitch.”
-  - “We're gonna take that big sh*tstorm of hate you're creating and amplify it.”
+  - “Thank you! (BEEP) Tweak, Craig, I need you to get on the GLADD website and respond to all the horrible shit I just said about gay people.”
+  - “Why'd you day horrible shit about gay people? It's not important.”
+  - “Lick my asshole, you Mexican bitch.”
+  - “We're gonna take that big shitstorm of hate you're creating and amplify it.”
   - “(SOBBING) What? What? What? The son of a bitch.”
   - “(GRUNTS) No! Ha! (BLEEP) you! What I do is (BLEEP) funny, bitch! (ALARM BLARING) That's it! Your dad's got it! Give it everything you've got! Mr.”
   - “Winger? I showed him my dick, called him a fag.”
@@ -6197,6 +6474,7 @@ Watch for:
 ## S21 E1 — 1. White People Renovating Houses
 URL: https://watchwiththekids.com/ep/south-park/2101.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Protestors armed with tiki torches and confederate flags take to the streets of South Park; Randy comes to grips with what it means to be white in today's society.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6206,9 +6484,9 @@ Watch for:
   - “And where you use to have your gun case, look at what Sharon did.”
 - Swearing — 10 moment(s)
   - “Thanks for coming in and bitching me out in front of all the guys.”
-  - “You will not replace us! - Eat sh*t, Siri! Not these dipshits again! We got one of 'em! [Cheering.]”
+  - “You will not replace us! - Eat shit, Siri! Not these dipshits again! We got one of 'em! [Cheering.]”
   - “Get it! - Burn it alive! Yeah! How you like that, bitch?!”
-  - “What if I told you I could get you all jobs? - Huh? Jobs? - Get us jobs? You're fulla sh*t.”
+  - “What if I told you I could get you all jobs? - Huh? Jobs? - Get us jobs? You're fulla shit.”
   - “That That okay? What are you pissed off about? [Scoffs.]”
   - “I'm not pissed off, I'm just hanging out.”
   - “What the hell is that? All: [Chanting.]”
@@ -6219,6 +6497,7 @@ Watch for:
 ## S21 E2 — 2. Put It Down
 URL: https://watchwiththekids.com/ep/south-park/2102.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: North Korea takes aim at South Park. While Craig and Tweek have problems trying to find a place to hide.
 Watch for:
 - Suicide & self-harm — 5 moment(s)
   - “I'll kill myself, and then you'll be sorry! You'll wish you could have me back, but I'll be dead! [Laughter.]”
@@ -6228,32 +6507,33 @@ Watch for:
   - “I'm sorry, but you're the one who started all this by telling everybody that I was suicidal.”
 - Swearing — 8 moment(s)
   - “" The bitch is crazy.”
-  - “Distracted driving? Who gives a sh*t about that? A lot of people.”
-  - “Eric, please don't die Distracted driving my a**hole.”
+  - “Distracted driving? Who gives a shit about that? A lot of people.”
+  - “Eric, please don't die Distracted driving my asshole.”
   - “all you slanty eyed bitches doggy style.”
   - “Oh, that son of a bitch.”
-  - “I'm gonna talk to the principal! Put down the candle, Kenny! Like you ever gave a sh*t about Gary Borkovec! [Knocking.]”
+  - “I'm gonna talk to the principal! Put down the candle, Kenny! Like you ever gave a shit about Gary Borkovec! [Knocking.]”
   - “So you're just gonna e-mail with every every guy who has a dick and a deathwish? Are we just your type? - Eric, come on.”
   - “God damn it.”
 
 ## S21 E3 — 3. Holiday Special
 URL: https://watchwiththekids.com/ep/south-park/2103.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Everyone is going crazy as Columbus Day gets canceled and the kids try to bring it back as they would have a free day.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
   - “You know, with the guy and the chick that had the wife beater on, but her boobs were sweaty so you could see them.”
 - Violence & injury — 3 moment(s)
   - “Marsh pointed out to me the hypocrisy of glorifying a genocidal murderer.”
   - “thing down! Yeah!! Yeah! Take it down! Columbus was a mass murderer! [Chanting.]”
   - “I drive around a big circle that celebrates a guy who murdered Native Americans.”
 - Swearing — 12 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
-  - “We have to come to school on Monday! They what?! They can't do this! We made plans! Some a**hole went and convinced the school board that Columbus Day is racist and should be eliminated.”
-  - “What a**hole would take away a holiday? My name is Peter Galtman.”
-  - “Stan, I have to deal with my mom doing sh*t like this all the time, but she's never tried to take away a holiday.”
-  - “Is that correct? Yeah? You racist piece of sh*t.”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
+  - “We have to come to school on Monday! They what?! They can't do this! We made plans! Some asshole went and convinced the school board that Columbus Day is racist and should be eliminated.”
+  - “What asshole would take away a holiday? My name is Peter Galtman.”
+  - “Stan, I have to deal with my mom doing shit like this all the time, but she's never tried to take away a holiday.”
+  - “Is that correct? Yeah? You racist piece of shit.”
   - “They'll just see me as a thoughtless, indigenous son of a bitch.”
   - “I don't know, like like maybe say Like talk about cutting off his dick or something.”
   - “We're gonna cut off your dick! Kyle: [Distorted.]”
@@ -6262,22 +6542,23 @@ Watch for:
   - “I'll crap all over their statues.”
   - “Oh, God damn it.”
 - Racism & slurs — 3 moment(s)
-  - “We have to come to school on Monday! They what?! They can't do this! We made plans! Some a**hole went and convinced the school board that Columbus Day is racist and should be eliminated.”
-  - “Is that correct? Yeah? You racist piece of sh*t.”
-  - “'Sup, [racial slur].”
+  - “We have to come to school on Monday! They what?! They can't do this! We made plans! Some asshole went and convinced the school board that Columbus Day is racist and should be eliminated.”
+  - “Is that correct? Yeah? You racist piece of shit.”
+  - “'Sup, nigga.”
 - Slut-shaming — 1 moment(s)
   - “Your wife's a whore.”
 
 ## S21 E4 — 4. Franchise Prequel
 URL: https://watchwiththekids.com/ep/south-park/2104.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Facebook is the ultimate weapon for Professor Chaos.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “That's why we now have young kids dressing up in costumes, eating poop, and having sex with antelopes in our town.”
   - “We're here to put an end to you, Chaos! Yeah! I don't have butt sex with antelopes, and Token doesn't poop in girls' mouths! It's the 21st century, gentlemen.”
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
   - “Guess nobody realized Mark Zuckerberg was such a penis.”
 - Violence & injury — 2 moment(s)
   - “Coon and Friends? You mean the kids I just read about in the news who stabbed Jessica Alba? Look, you didn't you didn't read that on the news.”
@@ -6285,10 +6566,10 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “We have a real shot at starting our franchise, and you are a part of that franchise plan, okay? We have movies planned for the bad guy! You mean like "Suicide Squad"? Yes! "Suicide Squad" sucked.”
 - Swearing — 8 moment(s)
-  - “…People spouting, "howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
-  - “You are about to make a sh*t load of money.”
+  - “…People spouting, "howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
+  - “You are about to make a shit load of money.”
   - “What a dick! If we don't find a way to stop him, we're never going to make any money, you guys.”
-  - “brain and decide sh*t for yourself! [Screams.]”
+  - “brain and decide shit for yourself! [Screams.]”
   - “God damn it! Let's just face it.”
   - “What the hell?! It's Mark Zuckerberg.”
   - “Who the S-S-S-Sam Hell is that? I think that's Mark Zuckerberg.”
@@ -6297,21 +6578,22 @@ Watch for:
 ## S21 E5 — 5. Hummels & Heroin
 URL: https://watchwiththekids.com/ep/south-park/2105.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Beloved entertainers are being cut down in their prime due to massive overdoses of opiates. Stan is about to be exposed as the source of the illegal drugs.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
 - Porn / strippers / sex work — 1 moment(s)
   - “We are young prostitutes here to volunteer however we can.”
 - Suicide & self-harm — 2 moment(s)
   - “Another drug overdose? Most likely.”
   - “Let us not forget Dinkie Dook the clown, dead of a Roxanol overdose at Tommy Schneider's bar mitzvah last March, Shimmer and Shine, who both collapsed from massive amounts…”
 - Swearing — 9 moment(s)
-  - “…People spouting, "howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
+  - “…People spouting, "howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
   - “McGullicutty is top bitch.”
   - “McGullicutty over there? Whoever has the best Hummel collection is top bitch in this place, and she's got the best.”
-  - “…up in here They got me locked up in here And I'm sitting, doin' hard time Pissin' in a metal bowl Eatin' sh*t from a lunch line They got me locked up In here, nobody knows you by your name You just a number Livin'…”
-  - “Now you know how we do sh*t in the nursing home.”
+  - “…up in here They got me locked up in here And I'm sitting, doin' hard time Pissin' in a metal bowl Eatin' shit from a lunch line They got me locked up In here, nobody knows you by your name You just a number Livin'…”
+  - “Now you know how we do shit in the nursing home.”
   - “Had we known the personal hell he was going through, perhaps we could have helped.”
   - “Grandpa, what the hell have you gotten me into? [Whispering.]”
   - “Now, damn it, what did you find? Nothing out of the ordinary.”
@@ -6324,16 +6606,17 @@ Watch for:
 ## S21 E6 — 6. Sons A Witches
 URL: https://watchwiththekids.com/ep/south-park/2106.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: This year at the traditional Halloween get together, a witch casts a spell that terrorizes the town and ruins Halloween for the boys. Cartman sees a way to use the witch's power to his advantage.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
-  - “…Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
+  - “…Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
 - Swearing — 8 moment(s)
-  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like f***ing silly bitches cause I know my penis likes it!”
+  - “…People spouting, "Howdy, neighbor!" Heading on up to South Park, gonna see if I can't unwind I like fucking silly bitches cause I know my penis likes it!”
   - “All the other guys' wives aren't being bitchy about it.”
-  - “'Sup, guys? You know, just getting a bunch of sh*t for being witches.”
+  - “'Sup, guys? You know, just getting a bunch of shit for being witches.”
   - “Cool, and did you build that big wall you were gonna build? Don't be a dick, Butters.”
-  - “Are you just calling to sh*t on my Halloween? No, sir! I Well, the thing is Didn't you used to do J and C Witch Week with our dads? Yeah, it was my favorite time of year.”
+  - “Are you just calling to shit on my Halloween? No, sir! I Well, the thing is Didn't you used to do J and C Witch Week with our dads? Yeah, it was my favorite time of year.”
   - “Bye, Daddy! Love you! 'Kay, here we go to the pumpkin patch! Oh, crap.”
   - “It's like a witch pursuit thingie! A witch uh It's a witch chase and shoot 'em up! Yeah, that's what it is! Hey, what the hell is this? Randy: Park closed until further notice.”
   - “Nobody's talking about getting rid of Heidi! You guys said you would help me get rid of her! Of the witch! Who cares about a witch?! My life is a living hell, you guys!”
@@ -6343,6 +6626,7 @@ Watch for:
 ## S21 E7 — 7. Doubling Down
 URL: https://watchwiththekids.com/ep/south-park/2107.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Kyle is playing with fire when he gets in the middle of Cartman and Heidi's relationship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hope you brought some condoms.”
@@ -6351,8 +6635,8 @@ Watch for:
 - Swearing — 11 moment(s)
   - “you! How could you feed me like that, you bitch?! Get outta here! Eric, if blood sugar is really the problem, then you need to change how you eat, right? Right.”
   - “That dirty whore! Who does that bitch think she is?! Packing my lunch for me? [BLEEP.]”
-  - “I don't give two sh*ts about a treaty.”
-  - “This is really fun! - No worries! We're just glad you finally came to your senses! Yeah! No kidding! We seriously thought you might marry that piece of sh*t! [LAUGHTER.]”
+  - “I don't give two shits about a treaty.”
+  - “This is really fun! - No worries! We're just glad you finally came to your senses! Yeah! No kidding! We seriously thought you might marry that piece of shit! [LAUGHTER.]”
   - “She feeds me all this crap, and my body doesn't know how to process it.”
   - “her, dude! Pissed off at your girlfriend again, huh, Eric? She's not a girlfriend.”
   - “I am so sick of hearing you call Heidi horrible things! That's because you don't understand how much it sucks be in a relationship.”
@@ -6361,7 +6645,7 @@ Watch for:
   - “To be pissed of at the world.”
   - “…Don't tell me you guys already disrespected the flag and flipped over cars today? Did I miss it? What the hell are you talking about?”
 - Racism & slurs — 2 moment(s)
-  - “Oh, don't tell me people are still mad about that [racial slur] thing.”
+  - “Oh, don't tell me people are still mad about that nigger thing.”
   - “Uhh, yeah, like what? Racism? Or the sociopath part? [LAUGHTER.]”
 - Homophobic jokes — 1 moment(s)
   - “Yeah, I understand that, faggot.”
@@ -6372,6 +6656,7 @@ Watch for:
 ## S21 E8 — 8. Moss Piglets
 URL: https://watchwiththekids.com/ep/south-park/2108.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Timmy and Jimmy's science project has caught the attention of some very important people who think it can save the world.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And then every chick in this school is gonna want to have sex with us.”
@@ -6380,11 +6665,11 @@ Watch for:
   - “I'm talking about bitches.”
   - “Bullcrap, you're all talking about me again! 'Cause you're judgmental bitches.”
   - “Heidi Are you okay? It's just You look I look what? You know, you just look ââ What, I look fat? Is that what you wanna say, Wendy? (BLEEP) you, bitch.”
-  - “Can I do it without you guys sh*tting all over me? All right good, Timmy.”
-  - “I'm not letting those a**holes win the science fair.”
+  - “Can I do it without you guys shitting all over me? All right good, Timmy.”
+  - “I'm not letting those assholes win the science fair.”
   - “I'll try, but she's such a bitch.”
   - “Butters, don't be a dick! Yeah don't make up excuses because judging handicapped students sounds terrible.”
-  - “Being supportive doesn't mean you criticize me, a**hole!”
+  - “Being supportive doesn't mean you criticize me, asshole!”
   - “Aw, God damn it! [SNEAKY MUSIC PLAYS.]”
   - “Ooh, yes, massa! Lemme judge that science fair for ya, sir! God, will you stop? Theresa, don't get all aggro on me because you're pissed off you're family lives in a trailer.”
   - “What the hell is going on?! Everywhere I turn, people are being given handouts while I'm forced to work my ass off! It's total bullshit! Yeah.”
@@ -6395,12 +6680,13 @@ Watch for:
 ## S21 E9 — 9. SUPER HARD PCness
 URL: https://watchwiththekids.com/ep/south-park/2109.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: It's never been more challenging to be a PC Principal.Witness the return of Terrance and Philip via the power of Netflix! Kyle isn't impressed. Meanwhile, PC Principal falls in love with the new Vice-Principal...
 Watch for:
 - Swearing — 9 moment(s)
   - “Welcome to Netflix, you sons a bitches! Yeah! Hooray.”
-  - “Sweetheart! Piece of sh*t! [CARTMAN GRUNTING.]”
+  - “Sweetheart! Piece of shit! [CARTMAN GRUNTING.]”
   - “So then why can't I come?! "Terrance and Phillip" is guys' night thing baby! Hey, hey, hey, hey! What the hell are you all doing?! Watching Heidi get her bitch-ass kicked! [BLEEP.]”
-  - “You really think I couldn't have handled that myself? Oh! Uh, I was just making sure everything was You really had to grab the mic out of my hand like that? sh*t.”
+  - “You really think I couldn't have handled that myself? Oh! Uh, I was just making sure everything was You really had to grab the mic out of my hand like that? Shit.”
   - “God damn it.”
   - “you, Wendy! Don't take that crap, Heidi! Let Cartman have it! Guys! Guys, this has gone on way too long! Can't we all stop being so mean to each other? Shut up, Kyle.”
   - “Aww Damn it.”
@@ -6413,28 +6699,30 @@ Watch for:
 ## S21 E10 — Splatty Tomato
 URL: https://watchwiththekids.com/ep/south-park/2110.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The children of South Park claim to have seen Mr. Garrison lurking around town, and the townspeople are angry that the president is scaring their kids.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “Who would want to put their penis in a co-worker?! [Gags, vomits.]”
   - “Who would want to put their penis in a co-worker?!”
 - Violence & injury — 1 moment(s)
-  - “What's best for your daughter? I mean, really? HEIDI: You piece of sh*t! This was all your fault! You controlled me and manipulated me and turned me into this! Baby, put down the gun, sweetheart, okay? I used to be kind.”
+  - “What's best for your daughter? I mean, really? HEIDI: You piece of shit! This was all your fault! You controlled me and manipulated me and turned me into this! Baby, put down the gun, sweetheart, okay? I used to be kind.”
 - Suicide & self-harm — 1 moment(s)
   - “You break up with me, I will kill myself! The choice is yours, Heidi! Come on, everybody! "Eric, we don't want you to die.”
 - Swearing — 8 moment(s)
-  - “How come I'm always the one getting sh*t on around here? I don't need anyone to go with me.”
-  - “Yes, honey, now, can we get going, please? I'm sorry! I'm trying to have a moment here! This is where our whole relationship started, a**hole! Yes, it's very touching, sweetheart.”
+  - “How come I'm always the one getting shit on around here? I don't need anyone to go with me.”
+  - “Yes, honey, now, can we get going, please? I'm sorry! I'm trying to have a moment here! This is where our whole relationship started, asshole! Yes, it's very touching, sweetheart.”
   - “Skinny bitch.”
   - “Who turned you into this, Heidi? Shut up! Skinny-ass bitch! You don't know anything! Heidi, I think spooky walk in the woods is making you lose it a little bit.”
-  - “I'm pretty sick of this sh*t, so you better Aah! Have we already done a search of this area? Maybe Heidi went there with her boyfriend! She would have called by now.”
-  - “He's running around, scaring your kids, and sh*tting in the woods.”
+  - “I'm pretty sick of this shit, so you better Aah! Have we already done a search of this area? Maybe Heidi went there with her boyfriend! She would have called by now.”
+  - “He's running around, scaring your kids, and shitting in the woods.”
   - “" Well, we've just about had it you If loving you is wrong, I don't wanna be right I don't wanna be right and, damn it, we won't be ignored! I'm sorry.”
   - “Hey, what the hell's going on?! They're together! Who's together? The Principal and the Vice Principal! They can't be together! They're co-workers! [Vomits.]”
 
 ## S22 E1 — 1. Dead Kids
 URL: https://watchwiththekids.com/ep/south-park/2201.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: With several shooting occurring at South Park Elementary School, Randy attempts to get Sharon to get her emotions in check. Meanwhile, Cartman is mad after realizing he flunked his math quiz, despite copying his answers off Token's quiz.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And I'm supposed to believe that Token and his little sex kitten never even talked about it.”
@@ -6445,7 +6733,7 @@ Watch for:
 - Swearing — 7 moment(s)
   - “But if a woman isn't having periods anymore, then why would she still overreact and be bitchy? Well, actually, menopause is one of the most severely hormonal times a woman ever goes through.”
   - “What I'm saying is that I'm so overwhelmed that I Old lady, where's my dick? Where's my dick? What the hell are you talking about?! I don't understand! God damn it! Stop acting like there's something wrong with me.”
-  - “I know that right now, Token's sh*tting his pants.”
+  - “I know that right now, Token's shitting his pants.”
   - “If you ever found out your son saw a PG-13 movie without you, you'd probably be pretty pissed off.”
   - “I didn't see "Black Panther" in the theater! Of course you did, Token! That's why me ripping on it pissed you off so much! I swear on my mother's life.”
   - “Butters! It's the entire glee club this time! Butters, I have to get to class! The math quiz is starting! Oh, crap!”
@@ -6456,6 +6744,7 @@ Watch for:
 ## S22 E2 — 2. A Boy and a Priest
 URL: https://watchwiththekids.com/ep/south-park/2202.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: A very special relationship has developed between Butters and the Parish Priest. When the town finds the church doors locked and no sign of the pair, they call in the Catholic Church.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Father Maxi thinks they've been taken by the other priests! Taken by priests? Should we call the police or buy some condoms? [LAUGHS.]”
@@ -6468,26 +6757,27 @@ Watch for:
   - “You find something on that chair? It's either blood and cum or ketchup and mayo.”
 - Swearing — 4 moment(s)
   - “Let's see what you got, bitch.”
-  - “Father! Aw, sh*t! I missed it.”
+  - “Father! Aw, shit! I missed it.”
   - “You wanna go to (BLEEP) hell? [DOOR CREAKS.]”
   - “Well, this sucks.”
 
 ## S22 E3 — 3. The Problem with a Poo
 URL: https://watchwiththekids.com/ep/south-park/2203.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Mr. Hankey's offensive behavior puts him in jeopardy of being fired as the Director of the Annual Christmas Pageant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They can have their eggs fertilized by an unknown person's sperm in a lab.”
 - Violence & injury — 1 moment(s)
   - “You have lawyer blood inside your veins! You can help me with my defecation lawsuit, Kyle! Me? What can I do? Please, Kyle.”
 - Swearing — 10 moment(s)
-  - “Offensive? What about me is offensive? Some people think that sh*t isn't the best representation of Christmas.”
+  - “Offensive? What about me is offensive? Some people think that shit isn't the best representation of Christmas.”
   - “They can't just fire me from the Christmas show! The whole thing is my creation! Uh, last night, you tweeted, "The city council can suck my Mexican dick.”
   - “Look at me! I don't even have a dick! Get it? Okay, okay, look, I know It wasn't a good joke.”
-  - “I'm sorry, sir, but we don't represent pieces of sh*t.”
-  - “People are starting to think I'm sh*tty.”
-  - “You stand up for all pieces of crap? a**hole! Kyle, listen.”
-  - “You want them to erase me, too? Kyle we can all be sh*tty sometimes.”
+  - “I'm sorry, sir, but we don't represent pieces of shit.”
+  - “People are starting to think I'm shitty.”
+  - “You stand up for all pieces of crap? Asshole! Kyle, listen.”
+  - “You want them to erase me, too? Kyle we can all be shitty sometimes.”
   - “Why would you tweet that?! All the kids are really pissed off! It was a bad attempt at a joke.”
   - “You ever take that crap? You want us to take this up against Ambien? They have the best lawyers in the world.”
   - “Talking crap.”
@@ -6504,6 +6794,7 @@ Watch for:
 ## S22 E4 — 4. Tegridy Farms
 URL: https://watchwiththekids.com/ep/south-park/2204.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The Vaping epidemic hits South Park Elementary
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6517,8 +6808,8 @@ Watch for:
   - “Do you understand? Well, I don't know how this means you can go and punch me in the face Everything will make sense, Butters, I told you.”
   - “You guys decided to beat up the dealer.”
 - Swearing — 8 moment(s)
-  - “Don't you wanna just start over? Go back to simpler times? What do you mean? I've had it school shootings, pieces of sh*t taking Ambien and tweeting, priests raping kids, and somehow I'm not laughing anymore.”
-  - “…in the barn Barn That's life livin' on a Colorado farm Ice cold beer, pickup truck Country music, listin' sh*t We've got tegridy to keep us warm That's what you get on a Colorado Farm And I'm gonna stay on a Colorado…”
+  - “Don't you wanna just start over? Go back to simpler times? What do you mean? I've had it school shootings, pieces of shit taking Ambien and tweeting, priests raping kids, and somehow I'm not laughing anymore.”
+  - “…in the barn Barn That's life livin' on a Colorado farm Ice cold beer, pickup truck Country music, listin' shit We've got tegridy to keep us warm That's what you get on a Colorado Farm And I'm gonna stay on a Colorado…”
   - “…We need a break sometimes! These things are bad for you, do you understand?! Bad kindergartners! Relax, bitch.”
   - “Oh, yeah! Hey, bitches! Where's my mother [BLEEP.]”
   - “Vape on this, bitch! [MUFFLED SCREAMS.]”
@@ -6531,13 +6822,14 @@ Watch for:
 ## S22 E5 — 5. The Scoots
 URL: https://watchwiththekids.com/ep/south-park/2205.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The kids plan to use the latest revolution in mobility to get more candy on Halloween than they have ever gotten before.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “[SHOTGUN COCKS.]”
 - Swearing — 8 moment(s)
-  - “It's just This awesome plan to get sh*tloads of candy doesn't work with you.”
-  - “Whoa, sh*t! M'kay! - [TIRES SCREECH.]”
-  - “Sh Sh Sh sh*t! Cover it! Cover it! [DOORBELL RINGS.]”
+  - “It's just This awesome plan to get shitloads of candy doesn't work with you.”
+  - “Whoa, shit! M'kay! - [TIRES SCREECH.]”
+  - “Sh Sh Sh Shit! Cover it! Cover it! [DOORBELL RINGS.]”
   - “[SHOTGUN COCKS.]”
   - “Whoa! What the Hey, who left their scooter here, m'kay? Whose damn scooter is this? TOWNSPERSON: It isn't anybody's! They're e-scooters.”
   - “Well, where the hell did they all come from?! Nobody knows.”
@@ -6547,6 +6839,7 @@ Watch for:
 ## S22 E6 — 6. Time to Get Cereal
 URL: https://watchwiththekids.com/ep/south-park/2206.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys realize they need Al Gore's help when dead citizens start popping up all over town.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “We know that! What the hell are we gonna do?! Who was that ex-president guy? The one who showed up and tried to convince everyone of a ManBearPig? Mrph rmhmhm rm? Al Gore.”
@@ -6554,10 +6847,10 @@ Watch for:
   - “The house in Valentine is built? Where did I get a sniper rifle? Maggie! Did you play over my save game? I just played a little bit.”
   - “…need a life, too, ya know! So I robbed a lumber mill in Monto's Rest, upgraded my horse, and got a sniper rifle.”
 - Swearing — 12 moment(s)
-  - “Looks like you shot the sh*t out of it.”
-  - “All right, which one of you little sh*theads did this? Come on! I don't have time for these little games.”
-  - “You know how sh*tty it is to be a cop?”
-  - “Mrph rmhmhm rm! Shut up! Now, which one of you had a beef with Colin Brooks? Nobody gives a sh*t about Colin Brooks.”
+  - “Looks like you shot the shit out of it.”
+  - “All right, which one of you little shitheads did this? Come on! I don't have time for these little games.”
+  - “You know how shitty it is to be a cop?”
+  - “Mrph rmhmhm rm! Shut up! Now, which one of you had a beef with Colin Brooks? Nobody gives a shit about Colin Brooks.”
   - “That'd be so bitchin' sweet.”
   - “He's a dick.”
   - “What the hell are we dealing with, Ned? Whatever it is, it was here recently.”
@@ -6570,6 +6863,7 @@ Watch for:
 ## S22 E7 — 7. Nobody Got Cereal?
 URL: https://watchwiththekids.com/ep/south-park/2207.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys break out of jail and are on the run from the police and ManBearPig.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “But then, one night, I'm having sex with your grandma, and she sticks her finger in my ass.”
@@ -6579,11 +6873,11 @@ Watch for:
   - “Gore? Where have you been?! It's me.”
 - Swearing — 10 moment(s)
   - MAN: “Ooooh, yeah! Take that, cop! You want some, too, sheriff?! Yeah! There you go, bitch!”
-  - “Oh, what?! I'm sorry! I'm sorry I needed to decompress with all this sh*t going on.”
-  - “I can't believe you would get high and play video games while your son is in jail! You're such an a**hole!”
-  - “Cut the sh*t, Grandpa.”
+  - “Oh, what?! I'm sorry! I'm sorry I needed to decompress with all this shit going on.”
+  - “I can't believe you would get high and play video games while your son is in jail! You're such an asshole!”
+  - “Cut the shit, Grandpa.”
   - “Oh, you'd better not - You bitch! - [SCREAMS.]”
-  - “And you didn't give two sh*ts what it would mean for your grandchildren.”
+  - “And you didn't give two shits what it would mean for your grandchildren.”
   - “What the hell are you talking about? [SCREAMING IN DISTANCE, EXPLOSIONS.]”
   - “Wait, what? Oh, God damn it! You see my point? Things aren't always as they appear.”
   - “God damn it!”
@@ -6594,14 +6888,15 @@ Watch for:
 ## S22 E8 — 8. Buddah Box
 URL: https://watchwiththekids.com/ep/south-park/2208.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: In "Buddha Box," Cartman discovered a foolproof way to tune out the rest of the world and enjoy some quality time on his phone.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “…advantage of my position?! - I'm not some two bit floozy - I'm not Harvey Weinstein, who goes around sleeping with the boss!”
 - Swearing — 9 moment(s)
-  - “That means I have trouble being around a**holes who won't leave me alone! [BICYCLE BELL DINGS.]”
+  - “That means I have trouble being around assholes who won't leave me alone! [BICYCLE BELL DINGS.]”
   - “I have anxiety, you dumb bitch.”
-  - “Even though you need me to do sh*t for you every 10 (BLEEP) minutes.”
-  - “And you know what they do? They get over it! And they stop being a piece of sh*t.”
+  - “Even though you need me to do shit for you every 10 (BLEEP) minutes.”
+  - “And you know what they do? They get over it! And they stop being a piece of shit.”
   - “It's just, everyone sucks so hard, you know? Everybody is so stupid.”
   - “What the hell is that? I think it's Cartman.”
   - “Dude! What the hell are you doing?! - What? What? Who's that? - Get off of me! Oh, sorry, Craig.”
@@ -6611,6 +6906,7 @@ Watch for:
 ## S22 E9 — 9. Unfulfilled
 URL: https://watchwiththekids.com/ep/south-park/2209.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: The citizens of South Park are enjoying all the perks of being a company town when the Amazon Fulfillment Center moves in. Everything is just swell until the contradictions inherent in capitalism threaten to bring the entire system down.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Some people say a man is made outta mud A poor man's made outta muscle and blood Muscle and blood and skin and bones A mind that's a-weak and a back that's strong You load 16 tons, what do you get?”
@@ -6618,25 +6914,26 @@ Watch for:
 - Swearing — 6 moment(s)
   - “…dreams away And now I'm lost And unfulfilled Curtains close All we were a distant memory Somebody just bitch slapped the smile right off of me And here I am So unfulfilled The happiness I knew just got raped and…”
   - “But you're a bitch because it's a lie and you're patronizing me.”
-  - “I have a weed business to run! I need my sh*t from Amazon to make it all work! At what cost, sir?! Do you care that personal worth is being reduced by capitalists to exchange value?! Oh, yeah.”
-  - “We ordered a bunch of sh*t for the bike parade and if we get you workers, we want them to deliver our stuff first.”
+  - “I have a weed business to run! I need my shit from Amazon to make it all work! At what cost, sir?! Do you care that personal worth is being reduced by capitalists to exchange value?! Oh, yeah.”
+  - “We ordered a bunch of shit for the bike parade and if we get you workers, we want them to deliver our stuff first.”
   - “Ya can't do it, Stotch! Ya damn us all!”
   - “Then follow me to hell.”
 - Alcohol & drugs — 2 moment(s)
-  - “I have a weed business to run! I need my sh*t from Amazon to make it all work! At what cost, sir?! Do you care that personal worth is being reduced by capitalists to exchange value?! Oh, yeah.”
+  - “I have a weed business to run! I need my shit from Amazon to make it all work! At what cost, sir?! Do you care that personal worth is being reduced by capitalists to exchange value?! Oh, yeah.”
   - IRISH SINGER: “Working me fingers to the bone I needs me a drink before goin' home Be back in the morning, pack boxes at dawn Workin' for Amazon Can I get a beer, please? Whatcha got on tap? Amazon, Amazon light, and Amazon IPA.”
 
 ## S22 E10 — Bike Parade
 URL: https://watchwiththekids.com/ep/south-park/2210.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The Bike Parade is still on, but the boys' chance of winning is in jeopardy when Kenny resists commercialism in solidarity with the Amazon Fulfillment Center's striking workers.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Who would use a bike parade like some $20 hooker? Kenny was right about you.”
 - Swearing — 11 moment(s)
-  - “No, no, no, no! Wait, wait, wait! Please! Merry Christmas! Have fun sucking Jeff Bezos' dick, you bunch a c**ts! Christ the savior is born DEEJAY: Continuing with non-stop holiday music.”
-  - “Bike parade?! Your dad is part of the strike, you little sh*t!”
-  - “A small business needs products for exposure, and until those a**holes go back to work, small businesses are gonna suffer! [KNOCK ON DOOR.]”
-  - “sh*t! This whole Amazon strike has more people smoking weed than ever.”
+  - “No, no, no, no! Wait, wait, wait! Please! Merry Christmas! Have fun sucking Jeff Bezos' dick, you bunch a cunts! Christ the savior is born DEEJAY: Continuing with non-stop holiday music.”
+  - “Bike parade?! Your dad is part of the strike, you little shit!”
+  - “A small business needs products for exposure, and until those assholes go back to work, small businesses are gonna suffer! [KNOCK ON DOOR.]”
+  - “Shit! This whole Amazon strike has more people smoking weed than ever.”
   - “Oh, my God! My anxiety! My anxiety is going off, you guys! Come on, Kenny, don't be a dick.”
   - “I already bragged to everyone we were gonna beat them like bitches at the bike parade.”
   - “How do we get the bike parade canceled? How do you get anything cancelled? You bitch about it being insensitive! Hey, yeah.”
@@ -6647,25 +6944,26 @@ Watch for:
 - Alcohol & drugs — 4 moment(s)
   - “Your weed-farm idea didn't work.”
   - “Could I buy some weed? Oh, yeah.”
-  - “sh*t! This whole Amazon strike has more people smoking weed than ever.”
+  - “Shit! This whole Amazon strike has more people smoking weed than ever.”
   - “Damn you, Tegridy! Ice cold beer, down-home Days Country music and bike parades We got Tegridy all around - Round - Round That's life livin' in our Colorado town [BABIES CRYING.]”
 
 ## S23 E1 — 1. Mexican Joker
 URL: https://watchwiththekids.com/ep/south-park/2301.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy fights against home-grown. Meanwhile, Kyle goes to camp.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “What do you want? Do you remember last week you called me a butthole in front of Suzie Tobler? Yeah, 'cause you were gonna snap her bra.”
 - Violence & injury — 1 moment(s)
   - “What is going on? [GUN COCKS.]”
 - Swearing — 12 moment(s)
-  - “f*** you guys! I'll get you for this, Stephen.”
-  - “Get the f*** out of my house! [IKE CONTINUES CRYING.]”
-  - “Yeahâhuh! While you a**holes were all screwing around, I went out and made a living!”
+  - “Fuck you guys! I'll get you for this, Stephen.”
+  - “Get the fuck out of my house! [IKE CONTINUES CRYING.]”
+  - “Yeahâhuh! While you assholes were all screwing around, I went out and made a living!”
   - “I want you to apologize for every time you've been a dick to me, Kyle.”
   - “What is going on? [GUN COCKS.]”
-  - “I don't give two sh*ts about South Park.”
-  - “What?! How did a Jew get in here? I'm just here because some fat intolerant a**hole didn't want me around! Yeah, that's why I'm here too.”
+  - “I don't give two shits about South Park.”
+  - “What?! How did a Jew get in here? I'm just here because some fat intolerant asshole didn't want me around! Yeah, that's why I'm here too.”
   - “This sucks balls.”
   - “Not ordering as much? What the hell is going on? [DOORBELL RINGS.]”
   - “Am I the only person here who understands what this will do to us? Yeah, but, Dad, you're gonna piss off everybody in South Park.”
@@ -6684,16 +6982,17 @@ Watch for:
 ## S23 E2 — 2. Band in China
 URL: https://watchwiththekids.com/ep/south-park/2302.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Randy sees an opportunity for Tegridy in China.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Dad, why are you covered in honey and blood? Dad, did you kill Winnie the Pooh? Winnie the Pooh, Winnie the Pooh Oh, yeah, I did kill Winnie the Pooh.”
 - Swearing — 7 moment(s)
-  - “The Chinese seem to exploit their own people - with forced labor that - Shut the f*** up, Thor! You're here to flex and not think, ya f***ing bitch! Please, Mr.”
-  - “You are a fat diabetic bear, and if the Chinese don't want you, then I don't either! Now, who the f*** is Mr.”
-  - “I'm going to have to live on that f***ing farm forever.”
-  - “Alright, who's the a**hole? Which one of you decided to go and start badmouthing the Chinese government?! Who here thought they had permission to say anything critical of Chinese politics?! Well, it is true, sir.”
-  - “that I'm losing Chinese customers because of some sh*thead that's not even from my company?!”
-  - “Man, this is really good sh*t.”
+  - “The Chinese seem to exploit their own people - with forced labor that - Shut the fuck up, Thor! You're here to flex and not think, ya fucking bitch! Please, Mr.”
+  - “You are a fat diabetic bear, and if the Chinese don't want you, then I don't either! Now, who the fuck is Mr.”
+  - “I'm going to have to live on that fucking farm forever.”
+  - “Alright, who's the asshole? Which one of you decided to go and start badmouthing the Chinese government?! Who here thought they had permission to say anything critical of Chinese politics?! Well, it is true, sir.”
+  - “that I'm losing Chinese customers because of some shithead that's not even from my company?!”
+  - “Man, this is really good shit.”
   - “They're still pissed off about the bear.”
 - Alcohol & drugs — 3 moment(s)
   - “And also, I'm addicted to cocaine.”
@@ -6703,18 +7002,19 @@ Watch for:
 ## S23 E3 — 3. Shots!!!
 URL: https://watchwiththekids.com/ep/south-park/2303.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Randy celebrates the success of Tegridy Farms; Cartman refuses to get a shot.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “That is for genital warts.”
 - Swearing — 9 moment(s)
-  - “Say, "f*** the Chinese government.”
-  - “f*** the Chinese government! There! Well you just got your partner back.”
+  - “Say, "Fuck the Chinese government.”
+  - “Fuck the Chinese government! There! Well you just got your partner back.”
   - “Not to be a dick, but I remember back when you, Sharon, and you, Shelley, said buying a pot farm was a "stupid" idea.”
   - “Eric, It's just a little prick.”
-  - “…you've tried to hold him down! I'm a good mother! Don't you dare question if I care about my child! Oh, sh*t.”
-  - “You try to do what's best for your family and all you do is get sh*t on.”
-  - “Do you remember we used to come here and look over the town lights together? Yeah, so what? Then you turned into an a**hole.”
-  - “No more dealing with those MedMen a**holes.”
+  - “…you've tried to hold him down! I'm a good mother! Don't you dare question if I care about my child! Oh, shit.”
+  - “You try to do what's best for your family and all you do is get shit on.”
+  - “Do you remember we used to come here and look over the town lights together? Yeah, so what? Then you turned into an asshole.”
+  - “No more dealing with those MedMen assholes.”
   - “Other parents expect me to deal with Eric and And I get it from both sides because my family's pissed off at me, too! - I understand.”
 - Alcohol & drugs — 4 moment(s)
   - “…"Howdy, neighbor" I'm headin' on down to Tegridy Farms Gonna see if I can't unwind TOWELIE: I got some weed, and I don't know what's going on.”
@@ -6727,15 +7027,16 @@ Watch for:
 ## S23 E4 — 4. Let Them Eat Goo
 URL: https://watchwiththekids.com/ep/south-park/2304.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The citizens of South Park are moving toward a completely plant-based diet. Cartman is pretty sure the new food in the cafeteria gave him a heart attack.
 Watch for:
 - Swearing — 12 moment(s)
-  - “The girls! - The girls? The f***ing girls.”
-  - “f*** you, Wendy.”
-  - “Yeah, right? It's really f***ing good, man.”
-  - “No, f*** you, sum bitch! They're your problem now.”
-  - “It's like we sell all the good parts of the weed but we throw away, like, tons and tons of all the left over sh*t.”
+  - “The girls! - The girls? The fucking girls.”
+  - “Fuck you, Wendy.”
+  - “Yeah, right? It's really fucking good, man.”
+  - “No, fuck you, sum bitch! They're your problem now.”
+  - “It's like we sell all the good parts of the weed but we throw away, like, tons and tons of all the left over shit.”
   - “We had kids complainin' our food wasn't healthy or sustainable enough so don't you start bitchin' about it now.”
-  - “Hey, this tastes like sh*t.”
+  - “Hey, this tastes like shit.”
   - “Whatchu doin', you sum bitch? Excuse me? I'm the biggest cattle rancher in South Park.”
   - “You can sell that crap as mulch to a hardware company.”
   - “After all that yogurt and crap they gave me at the hospital.”
@@ -6749,16 +7050,17 @@ Watch for:
 ## S23 E5 — 5. Tegridy Farms Halloween Special
 URL: https://watchwiththekids.com/ep/south-park/2305.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: It's Halloween and Randy is dealing with his daughter's marijuana problem. Butters gets an unexpected surprise when he visits the Egyptian Artifact exhibit at the Denver Museum.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hey, at least I didn't really have butt sex with Harvey Weinstein, huh? Huh? Or did I? Whoo! Happy Halloween, everybody!”
 - Violence & injury — 1 moment(s)
   - GUNS COCKING.
 - Swearing — 8 moment(s)
-  - “Now, I don't want to see any f***ing sombreros! Alright? If I see any f***ing Mexican sombreros, or anyone f***ing dressed like a f***ing Native American, I'm gonna lose my f***ing sh*t.”
-  - “And lastly, heed my f***ing words if I see any of you girls dressed as f***ing Moana, I am gonna lose my f***ing mind.”
-  - “The Halloween special Whatever your daughter threw on this sh*t made it more powerful than ever.”
-  - “You're such a piece of sh*t, Dad! [SHOUTS.]”
+  - “Now, I don't want to see any fucking sombreros! Alright? If I see any fucking Mexican sombreros, or anyone fucking dressed like a fucking Native American, I'm gonna lose my fucking shit.”
+  - “And lastly, heed my fucking words if I see any of you girls dressed as fucking Moana, I am gonna lose my fucking mind.”
+  - “The Halloween special Whatever your daughter threw on this shit made it more powerful than ever.”
+  - “You're such a piece of shit, Dad! [SHOUTS.]”
   - “I mean I saw rapists in the hot tub, zombie cows I thought I was gonna die, and then this fat, bitchy angel came and put me to bed.”
   - “…you throw the mummy out of your house? No! I didn't throw the mummy out of the house! The mummy got all pissed off at me, and left!”
   - “It's a personal hell.”
@@ -6775,13 +7077,14 @@ Watch for:
 ## S23 E6 — 6. Danger Close: The Battle of Long Tan
 URL: https://watchwiththekids.com/ep/south-park/2306.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The Mayor has evidence that Randy blew up his neighbor's yards in protest over homegrown weed and then blamed it on a Mexican Joker. Now the citizens of South Park have had enough of Randy and Tegridy Farms and they just want to lock him up.
 Watch for:
 - Swearing — 6 moment(s)
-  - “No, f*** you, Rudy.”
-  - “I'd like to Would you please get the f*** away from me? I'd like to take this opportunity to thank those who have always been my side Supporting me from the very beginning.”
-  - “You You illegally damaged property to make your business You damaged property to make your business more profitable, you lying sack of sh*t! I'm not gonna be bullied by you! See? It's really not that hard.”
-  - “He was a sh*tty receiver.”
-  - “And you know what I thought? I thought, "This is some sh*tty ass weed.”
+  - “No, fuck you, Rudy.”
+  - “I'd like to Would you please get the fuck away from me? I'd like to take this opportunity to thank those who have always been my side Supporting me from the very beginning.”
+  - “You You illegally damaged property to make your business You damaged property to make your business more profitable, you lying sack of shit! I'm not gonna be bullied by you! See? It's really not that hard.”
+  - “He was a shitty receiver.”
+  - “And you know what I thought? I thought, "This is some shitty ass weed.”
   - “What the hell are you doing? Sorry, everybody, we'll be right back.”
 - Alcohol & drugs — 4 moment(s)
   - “…"Howdy, Neighbor" I'm headin' on down to Tegridy Farms Gonna see if I can't unwind TOWELIE: I got some weed, and I don't know what's going on.”
@@ -6792,6 +7095,7 @@ Watch for:
 ## S23 E7 — 7. Board Girls
 URL: https://watchwiththekids.com/ep/south-park/2307.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The annual Strong Woman competition pushes everyone to their limits.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6803,17 +7107,17 @@ Watch for:
   - “I was just stopping by to make sure you're not too beat up.”
   - “Motivate them to understand that I will beat them at any sport they try.”
 - Swearing — 9 moment(s)
-  - “Our challenge is to motivate ourselves and others to create an inviting, non-bigoted and Hey, Stotch, you got a f***ing problem? No, sir! Now, I think that what we all need are leaders who motivate by example.”
-  - “What the f*** do we do? Um, guys, we play lots of games here at Dice Studz, but today, we're playing "D&D.”
-  - “I'm here to kick some f***ing ass.”
-  - “The f*** is this? - Wow! Well, this is just like what you said Dice Studz would be, Eric! Oh, hey, guys.”
-  - “We need something with lots of, like, war and dice and thematic sh*t.”
-  - “Wha Back when we were together, he was such an a**hole.”
-  - “Motivate them to run away like that chicken sh*t Strong Woman did because I PC PRINCIPAL: Alright.”
+  - “Our challenge is to motivate ourselves and others to create an inviting, non-bigoted and Hey, Stotch, you got a fucking problem? No, sir! Now, I think that what we all need are leaders who motivate by example.”
+  - “What the fuck do we do? Um, guys, we play lots of games here at Dice Studz, but today, we're playing "D&D.”
+  - “I'm here to kick some fucking ass.”
+  - “The fuck is this? - Wow! Well, this is just like what you said Dice Studz would be, Eric! Oh, hey, guys.”
+  - “We need something with lots of, like, war and dice and thematic shit.”
+  - “Wha Back when we were together, he was such an asshole.”
+  - “Motivate them to run away like that chicken shit Strong Woman did because I PC PRINCIPAL: Alright.”
   - “So, then, let's do it, bitch.”
   - “…Now, hey girl, you're the best in the world And, hey, hon Don't look now, but you just won - HEATHER: Hell yeah!”
 - Racism & slurs — 4 moment(s)
-  - “Our challenge is to motivate ourselves and others to create an inviting, non-bigoted and Hey, Stotch, you got a f***ing problem? No, sir! Now, I think that what we all need are leaders who motivate by example.”
+  - “Our challenge is to motivate ourselves and others to create an inviting, non-bigoted and Hey, Stotch, you got a fucking problem? No, sir! Now, I think that what we all need are leaders who motivate by example.”
   - “We've really come a long way breaking down gender binary bigotry, and I hope I can especially inspire some of my girl students here.”
   - “Well, what is an average trans athlete? Honestly, I find that kind of bigoted, David.”
   - “You're right! They realize that raising a gender-based issue of strength doesn't necessarily make one a bigot or a bully.”
@@ -6821,19 +7125,20 @@ Watch for:
 ## S23 E8 — 8. Turd Burglars
 URL: https://watchwiththekids.com/ep/south-park/2308.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle's mom has a fecal transplant and the boys are on a quest for the best microbiome.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “There's tiny creatures which live in your mom's skin, on her eyelashes, in her vagina.”
 - Swearing — 9 moment(s)
-  - “That c**t! I told you she'd say no.”
-  - KYLE: “The f*** are you doing? Oh, hey, Kyle.”
-  - “…'Cause the girls told me you called me the C word the other day! Oh, you're all backstabbing bitches now! f*** you, Harriot!”
+  - “That cunt! I told you she'd say no.”
+  - KYLE: “The fuck are you doing? Oh, hey, Kyle.”
+  - “…'Cause the girls told me you called me the C word the other day! Oh, you're all backstabbing bitches now! Fuck you, Harriot!”
   - “How much of a bitch can you be? Won't share your feces? Talk about anal retentive.”
-  - “What is your problem? What is my problem?! I'm not gonna go steal my mom's sh*t.”
+  - “What is your problem? What is my problem?! I'm not gonna go steal my mom's shit.”
   - “You think she'll poop a big enough log? You see how fat Kyle's mom is? That bitch must poop at least 2 pounders.”
-  - “What's goin' on? You are not stealing my mom's sh*t! Kyle, this is the world we are living in, okay? People are finding new and exciting ways to get healthy, and who are we to stand in their way? [TOILET FLUSHES.]”
-  - “Come on Just admit it! I can't stop puking and sh*tting because of what you did to me! [MOANS.]”
+  - “What's goin' on? You are not stealing my mom's shit! Kyle, this is the world we are living in, okay? People are finding new and exciting ways to get healthy, and who are we to stand in their way? [TOILET FLUSHES.]”
+  - “Come on Just admit it! I can't stop puking and shitting because of what you did to me! [MOANS.]”
   - “Oh! God damn it! - You had a what? A fecal transplant.”
 - Slut-shaming — 1 moment(s)
   - “There you are, you Goddamn bitch! I will take you to court, fat whore!”
@@ -6841,15 +7146,16 @@ Watch for:
 ## S23 E9 — 9. Basic Cable
 URL: https://watchwiththekids.com/ep/south-park/2309.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Scott Malkinson's future with the new girl in his class depends on him getting the latest and greatest streaming platform. Scott's dad works for the local cable company and refuses to move beyond basic cable.
 Watch for:
 - Swearing — 12 moment(s)
-  - “We don't need Disney f***ing +, Scott! We've got cable, and that's enough.”
-  - “All this talk about Disney+ and CBS Max and sh*t on a f***ing extreme prime.”
-  - “Well, what the f*** are you doing? You gave me a window of noon to 3:00 to get it all.”
-  - “Not this sh*t again! No.”
-  - “sh*t! a**hole.”
-  - “Oh, no! Not this time! You a**holes aren't ruining Scott Malkinson's life again! I'm taking control, you understand? I'm taking control, you understand.”
-  - “'Cause you got a**holes in Hollywood making little niche programs for everybody.”
+  - “We don't need Disney fucking +, Scott! We've got cable, and that's enough.”
+  - “All this talk about Disney+ and CBS Max and shit on a fucking extreme prime.”
+  - “Well, what the fuck are you doing? You gave me a window of noon to 3:00 to get it all.”
+  - “Not this shit again! No.”
+  - “Shit! Asshole.”
+  - “Oh, no! Not this time! You assholes aren't ruining Scott Malkinson's life again! I'm taking control, you understand? I'm taking control, you understand.”
+  - “'Cause you got assholes in Hollywood making little niche programs for everybody.”
   - “What's wrong with you? What's wrong is that we're losing our asses to these streaming sons a bitches! I don't know about you guys, but I haven't worked a full day in weeks.”
   - “Please, can we get Disney+? God damn it.”
   - “God damn it.”
@@ -6859,17 +7165,18 @@ Watch for:
 ## S23 E10 — Christmas Snow
 URL: https://watchwiththekids.com/ep/south-park/2310.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: It's a bleak Christmas Season in South Park this year and it's all Santa's fault. He is single handedly stealing the joy from the holiday. The town just wants their Christmas Spirit back but that will take a Christmas miracle.
 Watch for:
 - Swearing — 12 moment(s)
-  - “The f*** is this? JIMBO: There's like a chain blocking the liquor aisle.”
-  - “Marijuana?! This isn't what Santa meant! I got rid of liquor, and now you a**holes are all just getting high?! God f***ing damn it! Santa will just see about this! Our Christmas special is so amazing.”
+  - “The fuck is this? JIMBO: There's like a chain blocking the liquor aisle.”
+  - “Marijuana?! This isn't what Santa meant! I got rid of liquor, and now you assholes are all just getting high?! God fucking damn it! Santa will just see about this! Our Christmas special is so amazing.”
   - “Stay back, motherfucker.”
-  - “It's f***ing pure.”
+  - “It's fucking pure.”
   - “Son of a bitch! This can't be happening.”
-  - “You know what it means when our parents have no Christmas spirit? sh*tty presents.”
-  - “Oh, sh*t! [YELLS.]”
-  - “I feel like total sh*t.”
-  - “You a**holes drink and drive, and you think marijuana is somehow different, and go driving around on that, and then, you go and make this sh*t.”
+  - “You know what it means when our parents have no Christmas spirit? Shitty presents.”
+  - “Oh, shit! [YELLS.]”
+  - “I feel like total shit.”
+  - “You assholes drink and drive, and you think marijuana is somehow different, and go driving around on that, and then, you go and make this shit.”
   - “What the hell's going on? We We don't know! Hey, guys.”
   - “What? Who has that kind of power? It's Christmas, damn it! What are we supposed to drink?! You gotta just drink what you have at your house.”
   - “What the hell is this? New ordinance has been passed by the county.”
@@ -6887,30 +7194,31 @@ Watch for:
 ## S24 E97 — The Pandemic Special
 URL: https://watchwiththekids.com/ep/south-park/2497.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Randy comes to terms with his role in the COVID-19 outbreak as the on-going pandemic presents continued challenges to the citizens of South Park. The kids happily head back to school but nothing resembles the normal that they once knew; not their teachers, not their homeroom, not even Eric Cartman.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - I mean, if you can handle a bat, then Then what? You ever have sex with a pangolin? What the f*** is a pangolin? [SPEAKS NATIVE LANGUAGE.]
+  - I mean, if you can handle a bat, then Then what? You ever have sex with a pangolin? What the fuck is a pangolin? [SPEAKS NATIVE LANGUAGE.]
   - “would have sex with a pangolin?”
 - Violence & injury — 2 moment(s)
   - Yes? STAN: Uh, we were there, and Token was actually taken to the hospital because you guys shot him.
   - That's enough! [GUNS COCK.]
 - Swearing — 12 moment(s)
-  - They're actually talking about school opening up again in a few days! What the f*** are you talking about? There's going to be a big meeting.
-  - “There's a f***ing pandemic!”
-  - “Six feet, Mom! Six f***ing feet!”
-  - “when we f***ed that bat in Wuhan?”
-  - “I've f***ed a lot of bats!”
-  - “Jesus Christ, you f***er!”
-  - “You told me to f*** the bat!”
-  - Doesn't surprise me all this sh*t came from there.
+  - They're actually talking about school opening up again in a few days! What the fuck are you talking about? There's going to be a big meeting.
+  - “There's a fucking pandemic!”
+  - “Six feet, Mom! Six fucking feet!”
+  - “when we fucked that bat in Wuhan?”
+  - “I've fucked a lot of bats!”
+  - “Jesus Christ, you fucker!”
+  - “You told me to fuck the bat!”
+  - Doesn't surprise me all this shit came from there.
   - If she finds out I started the pandemic, she's gonna be a total bitch about it.
-  - Ha ha! Ha whoa! Ho ho! Ha ha ha ha! Ha ha ha ha ha! sh*t! DET. HARRIS: Alright, children, welcome back to class.
+  - Ha ha! Ha whoa! Ho ho! Ha ha ha ha! Ha ha ha ha ha! Shit! DET. HARRIS: Alright, children, welcome back to class.
   - That's enough! [GUNS COCK.]
   - “it sucks to be around everybody!”
 - Alcohol & drugs — 4 moment(s)
   - I sell weed.
   - Tegridy Farms' weed has seen a 400% increase in sales since the shutdown in March.
-  - “your f***ing marijuana!”
+  - “your fucking marijuana!”
   - I think all the marijuana really did go to my head.
 - Racism & slurs — 2 moment(s)
   - “You guys are being racist!”
@@ -6919,6 +7227,7 @@ Watch for:
 ## S24 E98 — South ParQ Vaccination Special
 URL: https://watchwiththekids.com/ep/south-park/2498.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: As the citizens of South Park are clamoring for the COVID-19 vaccine, a militant group tries to stop the boys from getting their teacher vaccinated.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “was found guilty of sex trafficking,”
@@ -6930,26 +7239,26 @@ Watch for:
   - I mean, what is funny about blood coming out of a woman's vagina? Like, it's sexist, first of all, and you know what else? It's just lazy.
 - Violence & injury — 4 moment(s)
   - “who are fine with child murder!”
-  - Do you wanna come with us? Casa Bonita?! Hell yeah, I'll come! Oh, wait! I can't! I have f***ing Kenny this weekend! sh*t! Nice doing business with you you little child-murdering pedophiles.
+  - Do you wanna come with us? Casa Bonita?! Hell yeah, I'll come! Oh, wait! I can't! I have fucking Kenny this weekend! Shit! Nice doing business with you you little child-murdering pedophiles.
   - “you can see the most blood”
   - I mean, what is funny about blood coming out of a woman's vagina? Like, it's sexist, first of all, and you know what else? It's just lazy.
 - Suicide & self-harm — 1 moment(s)
   - “dead in his cell from "suicide.”
 - Swearing — 12 moment(s)
-  - “Get the f*** outta here.”
-  - “Hey! f*** you!”
-  - Will you f***ing get lost, pal? I don't know what you're talking about! - Alright, that's it.
-  - The word is get a f***ing life, jackass! Blow sh*t out your dickhole! Did you hear that, honey? He said "sh*t out your dickhole" He's trying to give us some kind of signal.
+  - “Get the fuck outta here.”
+  - “Hey! Fuck you!”
+  - Will you fucking get lost, pal? I don't know what you're talking about! - Alright, that's it.
+  - The word is get a fucking life, jackass! Blow shit out your dickhole! Did you hear that, honey? He said "shit out your dickhole" He's trying to give us some kind of signal.
   - “79, bitchesssss!”
-  - “Holy sh*t, is that who I think it is?”
-  - Nice going, you dumb cocks! Stupid a**holes! You guys are dicks.
+  - “Holy shit, is that who I think it is?”
+  - Nice going, you dumb cocks! Stupid assholes! You guys are dicks.
   - “kids bitch about your stupid”
   - I sat on my computer 30 nights in a row trying to make a vaccination appointment and get on the god damn list.
   - Wow, people are really pissed at us for doing the period joke, you guys.
   - “and listen to this crap?!”
   - Let's just see how your god damn school functions without a god damn counselor! Oh, god dammit.
 - Slut-shaming — 1 moment(s)
-  - Oh, you f***ing slut! This is why we keep old people in the back of the line! Cartman, just stick to the f***ing plan! Oh, great, Kyle.
+  - Oh, you fucking slut! This is why we keep old people in the back of the line! Cartman, just stick to the fucking plan! Oh, great, Kyle.
 
 ## S24 E99 — Post COVID
 URL: https://watchwiththekids.com/ep/south-park/2499.html
@@ -6967,21 +7276,21 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - And so his mother couldn't take the loss of Shelley and so she killed herself! Which is your fault.
 - Swearing — 12 moment(s)
-  - “you please shut the f*** up?”
-  - Is that what you want? It's the f***ing future, you guys. Grow up.
-  - So you walked out on all your friends and then just hung out at a bar all day? Alexa, f***ing just go throw yourself out a window.
-  - Why don't you grow up and start acting like an adult for once in your life Alexa, stop! f*** you! [NEWS THEME VOLUME INCREASES.]
-  - Will you please knock it off?! What's the problem, Kyle? You know what you're doing, fat-ass! Goddamn it, why don't you lay off my f***in' dad, Uncle Kyle! Moisha! He's never talked like that before.
-  - “It feels sh*tty, okay? Can”
-  - Oh, God, you are such a piece of sh*t.
-  - You know, in the Torah, when Abraham first heard the word of God Just knock it off! You don't believe a word of that sh*t.
+  - “you please shut the fuck up?”
+  - Is that what you want? It's the fucking future, you guys. Grow up.
+  - So you walked out on all your friends and then just hung out at a bar all day? Alexa, fucking just go throw yourself out a window.
+  - Why don't you grow up and start acting like an adult for once in your life Alexa, stop! Fuck you! [NEWS THEME VOLUME INCREASES.]
+  - Will you please knock it off?! What's the problem, Kyle? You know what you're doing, fat-ass! Goddamn it, why don't you lay off my fuckin' dad, Uncle Kyle! Moisha! He's never talked like that before.
+  - “It feels shitty, okay? Can”
+  - Oh, God, you are such a piece of shit.
+  - You know, in the Torah, when Abraham first heard the word of God Just knock it off! You don't believe a word of that shit.
   - Tell that little pussy if I had any grandkids, maybe I wouldn't be so bitter at having such a little bitch for a son! - Hi, Dad.
   - Who has something that they want to share? Mr. Garrison? I'd like to share my dick in your mouth.
   - Too bad he died, 'cause the future certainly sucks.
   - Yeah, me, too. Sucks about Kenny, huh? Hope they find all the information on that thing he hid.
 - Alcohol & drugs — 11 moment(s)
-  - What is this really? - What do you mean? This isn't cocaine, it's the COVID vaccine, isn't it?! I'm not putting that sh*t in my body! Forget it, guys, it didn't work.
-  - ALEXA: “Tegridy Weed? Isn't that your dad's old marijuana company? Oh, sh*t.”
+  - What is this really? - What do you mean? This isn't cocaine, it's the COVID vaccine, isn't it?! I'm not putting that shit in my body! Forget it, guys, it didn't work.
+  - ALEXA: “Tegridy Weed? Isn't that your dad's old marijuana company? Oh, shit.”
   - Why would he have Tegridy Weed in his equations? Dr. McCormick mentioned Tegridy? It seemed to somehow fit into some grand theory he had.
   - Working on getting drunk again.
   - I'm not "getting drunk," I'm an online whiskey consultant.
@@ -6995,13 +7304,14 @@ Watch for:
 ## S25 E1 — 1. Pajama Day
 URL: https://watchwiththekids.com/ep/south-park/2501.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: After failing to show respect for their teacher, PC Principal revokes Pajama Day privileges for the entire 4th grade class. Cartman is distraught. The kids aren't going to stand for it but PC Principal refuses to back down.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - You redneck, gun toting piece of sh*t.
+  - You redneck, gun toting piece of shit.
 - Swearing — 5 moment(s)
-  - Okay, text me at lunch! Bye, Ri-i-i-i-ck! Oh, sh*t, it's Marcus! Should I answer it?! I have to answer it. He's gonna suspect something.
-  - You redneck, gun toting piece of sh*t.
-  - Yeah but she was caught sh*tting on the car of a guy who wasn't wearing pajamas.
+  - Okay, text me at lunch! Bye, Ri-i-i-i-ck! Oh, shit, it's Marcus! Should I answer it?! I have to answer it. He's gonna suspect something.
+  - You redneck, gun toting piece of shit.
+  - Yeah but she was caught shitting on the car of a guy who wasn't wearing pajamas.
   - You can all wear whatever you want as long as it covers your dick and tits.
   - You can't make me cover my dick and tits!
 - Slut-shaming — 1 moment(s)
@@ -7010,14 +7320,15 @@ Watch for:
 ## S25 E2 — 2. The Big Fix
 URL: https://watchwiththekids.com/ep/south-park/2502.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Stan's horrified to realize he's misinterpreted some of the greatest writing of all time.
 Watch for:
 - Swearing — 7 moment(s)
-  - Holy sh*t, that's what his name means? What did you think his name meant? Would you like to see how we grow and process our weed? You see, it's all about refinement.
-  - Who did you think Tolkien was named after? Stan? You out here? Uh, yeah, hang on a second Tol-kien, - just taking a sh*t.
+  - Holy shit, that's what his name means? What did you think his name meant? Would you like to see how we grow and process our weed? You see, it's all about refinement.
+  - Who did you think Tolkien was named after? Stan? You out here? Uh, yeah, hang on a second Tol-kien, - just taking a shit.
   - “Black puppy bitch,”
   - “black, black puppy bitch”
   - “Get this little prick outta my house!”
-  - “Game on, a**hole!”
+  - “Game on, asshole!”
   - “What the hell's going on?”
 - Alcohol & drugs — 4 moment(s)
   - “As farmers and cultivators of marijuana,”
@@ -7033,12 +7344,13 @@ Watch for:
 ## S25 E3 — 3. City People
 URL: https://watchwiththekids.com/ep/south-park/2503.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Cartman is furious with his mom when she tells him about her new job.
 Watch for:
 - Violence & injury — 1 moment(s)
   - We have to show them who's really in charge of this town Jimbo go to your gun store and get the necessary supplies.
 - Swearing — 6 moment(s)
-  - “Oh, you piece of sh*t!”
-  - My mom is dumb as sh*t and somebody is paying her to do something.
+  - “Oh, you piece of shit!”
+  - My mom is dumb as shit and somebody is paying her to do something.
   - “Mom! Where the hell have you been?!”
   - A-A pretty young guy Can't have been in the business that long Oh, my God That's a pretty damn good picture.
   - I am not talking about this anymore! Okay, that's fine mom, why don't you go to [BLEEP.] hell?! It always gets like this with agents.
@@ -7047,14 +7359,15 @@ Watch for:
 ## S25 E4 — 4. Back to the Cold War
 URL: https://watchwiththekids.com/ep/south-park/2504.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: A lot is riding on Butter's ability to crush the competition in the all-important dressage championship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - We're not gonna get a boner, and we're certainly not gonna have unwarranted sex with the ladies.
 - Violence & injury — 1 moment(s)
   - “I've got the gun!”
 - Swearing — 8 moment(s)
-  - “You piece-a-sh*t communist!”
-  - You see that little Russian kid over there? That kid doesn't give a sh*t about you.
+  - “You piece-a-shit communist!”
+  - You see that little Russian kid over there? That kid doesn't give a shit about you.
   - Oh, Jesus! Not Melancholy! Now, that little prick is trying to intimidate you.
   - “because your dick doesn't”
   - Da Da But just because our dicks don't work doesn't mean we should go back to the way things were.
@@ -7067,6 +7380,7 @@ Watch for:
 ## S25 E5 — 5. Help, My Teenager Hates Me
 URL: https://watchwiththekids.com/ep/south-park/2505.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: The boys find out that the joys of playing Airsoft come with the challenges of dealing with teenagers.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - I wasn't talking anything about sexual orientation.
@@ -7078,10 +7392,10 @@ Watch for:
   - “I use my sniper rifle!”
   - What if the police thought that gun was real? No, it's safe. See? As long as your gun has a red tip and you're white, police won't shoot you.
 - Swearing — 12 moment(s)
-  - Oh, my God, you gotta be sh*tting me.
-  - “It's burning the sh*t out of my hand!”
+  - Oh, my God, you gotta be shitting me.
+  - “It's burning the shit out of my hand!”
   - “bitching and just play Airsoft.”
-  - No sh*t in the world takes that long.
+  - No shit in the world takes that long.
   - “Ow! I said hit, you bitch!”
   - “Ow, my dick! My dick! Aah!”
   - For just a few, brief hours I forgot how much everything sucks.
@@ -7098,16 +7412,17 @@ Watch for:
 ## S25 E6 — 6. Credigree Weed St. Patrick's Day Special
 URL: https://watchwiththekids.com/ep/south-park/2506.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Butters is shocked to learn that people in South Park don't understand what St. Patrick's Day is really about.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Do you know what sexual assault is?”
   - “and book him for sexual”
   - And as for the mysterious, sexually charged being who groped and assaulted so many.
 - Swearing — 8 moment(s)
-  - Piece a sh*t family How's it going, Randy? Ugh, I'm just so stressed out! We have to make a huge profit today or the whole year is [BLEEP.] .
-  - “sh*thead to the station”
+  - Piece a shit family How's it going, Randy? Ugh, I'm just so stressed out! We have to make a huge profit today or the whole year is [BLEEP.] .
+  - “shithead to the station”
   - What's your point? I'm looking at my point, you racist son of a bitch.
-  - Yeah, well, his piece a sh*t dad is trying to take over the St. Patrick's Day Special! I don't care.
+  - Yeah, well, his piece a shit dad is trying to take over the St. Patrick's Day Special! I don't care.
   - "Kiss me I'm Irish!" That's more like it! Oh, my God! No, you bought the shirt, bitch! Come on, let's have a go! It's me day! Take your dick out.
   - “Who wants him to take his dick out?”
   - Top O' the mornin' to ya! This is God damn ridiculous.
@@ -7125,25 +7440,27 @@ Watch for:
 ## S26 E1 — 1. Cupid Ye
 URL: https://watchwiththekids.com/ep/south-park/2601.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Cartman is jealous of the friendship that's developed between Kyle and Tolkien and decides to do something about it.
 Watch for:
 - Violence & injury — 2 moment(s)
   - about a dude who has guns for hands
   - The guy has guns for hands!
 - Swearing — 8 moment(s)
-  - sh*t about your TikToks, guys.
-  - Holy sh*t. Kyle runs Hollywood.
+  - shit about your TikToks, guys.
+  - Holy shit. Kyle runs Hollywood.
   - Deathcon one, bitches!
-  - Hey! a**hole!
+  - Hey! Asshole!
   - Happy Valentine's Day, bitch!
   - What the hell?!
   - What the hell is that?!
   - God damn it.
 - Racism & slurs — 1 moment(s)
-  - to be a racist piece of sh*t.
+  - to be a racist piece of shit.
 
 ## S26 E2 — 2. The World-Wide Privacy Tour
 URL: https://watchwiththekids.com/ep/south-park/2602.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: The prince of Canada and his wife try to find privacy and seclusion in a small mountain town.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7154,8 +7471,8 @@ Watch for:
 - Swearing — 8 moment(s)
   - that your Instagram-loving bitch wife
   - My Instagram-loving bitch wife
-  - Yeah, nobody gives a sh*t.
-  - getting the sh*t beat
+  - Yeah, nobody gives a shit.
+  - getting the shit beat
   - Ike, God damn it, get off!
   - To hell with Canada.
   - What the hell?
@@ -7166,6 +7483,7 @@ Watch for:
 ## S26 E3 — 3. Japanese Toilet
 URL: https://watchwiththekids.com/ep/south-park/2603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: South Park learns about the wonders of Japanese toilets.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7175,14 +7493,14 @@ Watch for:
   - fall," and pulls a gun
   - [COCKS GUN] There's no stopping them!
 - Swearing — 10 moment(s)
-  - What the f***?
-  - The f*** are you doing?!
-  - Bro! I got f***ing shot!
-  - Hey, guys! Your mom took a sh*t
-  - sh*tsurei Shimasu! Owarimashita.
-  - nobody gives a sh*t.
+  - What the fuck?
+  - The fuck are you doing?!
+  - Bro! I got fucking shot!
+  - Hey, guys! Your mom took a shit
+  - Shitsurei Shimasu! Owarimashita.
+  - nobody gives a shit.
   - that matters, you bitch?
-  - cost of sh*tty Japanese
+  - cost of shitty Japanese
   - [COCKS GUN] There's no stopping them!
   - bastards out with me!
 - Alcohol & drugs — 4 moment(s)
@@ -7194,12 +7512,13 @@ Watch for:
 ## S26 E4 — 4. Deep Learning
 URL: https://watchwiththekids.com/ep/south-park/2604.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
+Summary: Stan is reeling when a cheating scandal hits the school.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - cheating on her essay.
 - Swearing — 5 moment(s)
-  - All done with her stupid sh*t.
-  - Oh, sh*t. What time is it?
+  - All done with her stupid shit.
+  - Oh, shit. What time is it?
   - All right, what the hell is going on?!
   - God damn it, Clyde!
   - Oh, God-[BLEEP]-damn it.
@@ -7207,18 +7526,19 @@ Watch for:
 ## S26 E5 — 5. DikinBaus Hot Dogs
 URL: https://watchwiththekids.com/ep/south-park/2605.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The South Park boys renovate and open an historic restaurant in Colorado.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - she's got droopy boobs.
 - Violence & injury — 1 moment(s)
   - That son of a gun.
 - Swearing — 12 moment(s)
-  - [MUFFLED] Why the f***
-  - [MUFFLED] The f***?
-  - You're f***ing joking.
-  - sh*thole like Kenny does.
-  - Mom, look at this sh*thole we live in.
-  - for some piece of sh*t owner.
+  - [MUFFLED] Why the fuck
+  - [MUFFLED] The fuck?
+  - You're fucking joking.
+  - shithole like Kenny does.
+  - Mom, look at this shithole we live in.
+  - for some piece of shit owner.
   - We got him to say dick and balls!
   - Butters, what the hell are you wearing?
   - Yeah, it's dumb as hell but I'm going
@@ -7231,6 +7551,7 @@ Watch for:
 ## S26 E6 — 6. Spring Break
 URL: https://watchwiththekids.com/ep/south-park/2606.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
+Summary: Spring Break is an excuse for Garrison to jump back into his former depraved lifestyle.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - the Romanian sex trafficker!
@@ -7242,8 +7563,8 @@ Watch for:
   - ordered the stripper?
 - Swearing — 7 moment(s)
   - Bitches are gone!
-  - Let's do some spring break sh*t!
-  - with this stupid sh*t.
+  - Let's do some spring break shit!
+  - with this stupid shit.
   - some bitches over here?
   - Hell, yeah, let's do some "40k."
   - What the hell is up with
@@ -7256,6 +7577,7 @@ Watch for:
 ## S27 E1 — 1. Sermon on the 'Mount
 URL: https://watchwiththekids.com/ep/south-park/2701.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: When the residents of South Park face their possible demise, Jesus returns to give them an important message.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7263,13 +7585,13 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - It's a suicide pact, Butters.
 - Swearing — 12 moment(s)
-  - What the f***?
-  - The f***ing president
-  - Fellas, what the f*** is going on?
-  - memes and just f***in' around.
+  - What the fuck?
+  - The fucking president
+  - Fellas, what the fuck is going on?
+  - memes and just fuckin' around.
   - bitch and whine about stuff.
-  - That was, like, the funniest sh*t ever.
-  - man? This sh*t is wack!
+  - That was, like, the funniest shit ever.
+  - man? This shit is wack!
   - get that son of a bitch.
   - Why is my dick so small?
   - I mean, who the hell does
@@ -7285,16 +7607,17 @@ Watch for:
 ## S27 E2 — 2. Got a Nut
 URL: https://watchwiththekids.com/ep/south-park/2702.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: When Mr. Mackey loses his job, he desperately tries to find a new way to make a living.
 Watch for:
 - Violence & injury — 2 moment(s)
   - good at is murdering babies.
   - [GUNS COCKING]
 - Swearing — 6 moment(s)
-  - Are you f***ing serious?
-  - Whoa, what the f***?
-  - he's spewing his stupid sh*t about.
-  - say some really divisive sh*t,
-  - to Satan's a**hole, boss?
+  - Are you fucking serious?
+  - Whoa, what the fuck?
+  - he's spewing his stupid shit about.
+  - say some really divisive shit,
+  - to Satan's asshole, boss?
   - What the hell do you
 - Fat-shaming — 1 moment(s)
   - Yeah, screw you, fat ass.
@@ -7304,6 +7627,7 @@ Watch for:
 ## S27 E3 — 3. Sickofancy
 URL: https://watchwiththekids.com/ep/south-park/2703.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Towelie goes to Washington, D.C.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - sex with yourself again,
@@ -7312,8 +7636,8 @@ Watch for:
   - And you do not have a small penis.
   - not have a small penis.
 - Swearing — 8 moment(s)
-  - f*** you, bitch.
-  - You wanna f***?
+  - Fuck you, bitch.
+  - You wanna fuck?
   - You sons of bitches!
   - Why are you such a bitch to her?
   - the gift, you little bitch.
@@ -7328,6 +7652,7 @@ Watch for:
 ## S27 E4 — 4. Wok is Dead
 URL: https://watchwiththekids.com/ep/south-park/2704.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Butters experiences the reality of tariffs when he has to buy a Labubu doll for his girlfriend's birthday.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - You can just make out
@@ -7335,13 +7660,13 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [KNIFE SLASHING, CHICKEN CRIES]
 - Swearing — 12 moment(s)
-  - I don't get f***ed by tariff.
-  - You get f***ed by tariff.
-  - are you f***ing Satan?
-  - No! I'm not f***ing Satan!
+  - I don't get fucked by tariff.
+  - You get fucked by tariff.
+  - are you fucking Satan?
+  - No! I'm not fucking Satan!
   - probably yours, you fat bitch.
-  - and started talking sh*t.
-  - You talk sh*t about my
+  - and started talking shit.
+  - You talk shit about my
   - dead, you stupid bitch!
   - Wow, new counselor's kind of a dick.
   - I don't know, Jesus sucks, dude.
@@ -7355,15 +7680,16 @@ Watch for:
 ## S27 E5 — 5. Conflict of Interest
 URL: https://watchwiththekids.com/ep/south-park/2705.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Kyle and Cartman are at odds when a prediction markets app gets popular with their fellow students.
 Watch for:
 - Swearing — 12 moment(s)
-  - that was a f***ing dude.
-  - and I'm gonna f***ing
-  - No! f***! Brendan Carr!
-  - rip them a new a**hole!
-  - She would absolutely lose her sh*t!
-  - The FCC guy must have sh*tty ankles.
-  - antisemitic sh*t about his mom
+  - that was a fucking dude.
+  - and I'm gonna fucking
+  - No! Fuck! Brendan Carr!
+  - rip them a new asshole!
+  - She would absolutely lose her shit!
+  - The FCC guy must have shitty ankles.
+  - antisemitic shit about his mom
   - Man, that bitch has it out
   - Why the hell would my mom
   - What the hell is this?
@@ -7375,6 +7701,7 @@ Watch for:
 ## S28 E1 — 1. Twisted Christian
 URL: https://watchwiththekids.com/ep/south-park/2801.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Cartman is possessed and may be the key to stopping the Antichrist.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - We haven't had sex in forever.
@@ -7383,33 +7710,34 @@ Watch for:
   - whose penis is so teeny, teeny tiny
   - How small is Donald Trump's penis?
 - Swearing — 12 moment(s)
-  - So f***ing funny.
-  - How about we just go home and f***?
-  - Yeah, but f*** the baby. This is stupid!
-  - and doesn't tolerate any f***ing fags.
-  - numerology sh*t going on.
-  - the Lord God did shrink Satan's a**hole
-  - in Satan's a**hole.
+  - So fucking funny.
+  - How about we just go home and fuck?
+  - Yeah, but fuck the baby. This is stupid!
+  - and doesn't tolerate any fucking fags.
+  - numerology shit going on.
+  - the Lord God did shrink Satan's asshole
+  - in Satan's asshole.
   - little bitches, and only our
-  - preaching sh*t about the Bible?
+  - preaching shit about the Bible?
   - What do you have, you little bitch?
   - and hell coming to Earth.
   - Damn right you won't, 'cause
 - Homophobic jokes — 2 moment(s)
-  - and doesn't tolerate any f***ing fags.
+  - and doesn't tolerate any fucking fags.
   - Are you a fag?
 
 ## S28 E2 — 2. The Woman in the Hat
 URL: https://watchwiththekids.com/ep/south-park/2802.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The White House deals with a disruptive spirit from the east wing; Stan worries that South Park has become too political.
 Watch for:
 - Swearing — 12 moment(s)
-  - Yeah, it f***ing sucks, doesn't it?
-  - She's in the f***ing bathroom!
-  - Well, what the f*** is it?
-  - We're trying to f*** a bunch
-  - there by Grandpa's sh*t pan.
-  - You got a little sh*t
+  - Yeah, it fucking sucks, doesn't it?
+  - She's in the fucking bathroom!
+  - Well, what the fuck is it?
+  - We're trying to fuck a bunch
+  - there by Grandpa's shit pan.
+  - You got a little shit
   - Yeah, it sucks.
   - This is a bunch of bull crap!
   - What the hell is going on?
@@ -7420,6 +7748,7 @@ Watch for:
 ## S28 E3 — 3. Sora Not Sorry
 URL: https://watchwiththekids.com/ep/south-park/2803.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
+Summary: Butters' AI revenge plan backfires, igniting an epidemic of fake videos at school that leaves Detective Harris struggling to tell fantasy from reality.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - and I'm gonna have sex
@@ -7431,12 +7760,12 @@ Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - make revenge porn, Butters.
 - Swearing — 12 moment(s)
-  - I'm gonna f*** him.
-  - You f*** Totoro!
-  - We made one of Red eating dog sh*t,
+  - I'm gonna fuck him.
+  - You fuck Totoro!
+  - We made one of Red eating dog shit,
   - 'Cause Red's a bitch!
   - That bitch deserves it.
-  - That little sh*t!
+  - That little shit!
   - so I'm gonna piss in your face now.
   - And then Santa Claus pisses in her face!
   - smell like Santa's piss.
@@ -7447,18 +7776,19 @@ Watch for:
 ## S28 E4 — 4. Turkey Trot
 URL: https://watchwiththekids.com/ep/south-park/2804.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: The town's annual Turkey Trot turns chaotic when Cartman uses questionable "science" to win the race.
 Watch for:
 - Violence & injury — 2 moment(s)
   - We're racing with the Kiwanis Gun Club.
   - and guns and dudes!
 - Swearing — 12 moment(s)
-  - We more f***ed than anybody!
-  - What the f*** are you doing?
-  - Are you f***ing joking?
+  - We more fucked than anybody!
+  - What the fuck are you doing?
+  - Are you fucking joking?
   - bitch ass out of my town.
-  - Holy sh*t, we've got an Antifa uprising!
+  - Holy shit, we've got an Antifa uprising!
   - You're being a dick, bro.
-  - Come get it, a**hole!
+  - Come get it, asshole!
   - What the hell is he doing?
   - Damn, dude, there's so
   - Hell yeah, we are! $5,000!
@@ -7471,6 +7801,7 @@ Watch for:
 ## S28 E5 — 5. The Crap Out
 URL: https://watchwiththekids.com/ep/south-park/2805.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - The President Vance So much sex.
@@ -7485,11 +7816,11 @@ Watch for:
   - but it's definitely a suicide.
   - considering suicide right here
 - Swearing — 12 moment(s)
-  - and he's out f***ing around!
+  - and he's out fucking around!
   - go get that motherfucker.
-  - you two are f***ing
-  - like sh*t has changed, bro?
-  - Just shut up and pour me that sh*t.
+  - you two are fucking
+  - like shit has changed, bro?
+  - Just shut up and pour me that shit.
   - That son of a bitch.
   - damn Christmas magic!
   - the crap-out is coming.

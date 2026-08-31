@@ -79,7 +79,22 @@
   }
 
   const byId = Object.fromEntries(shows.map((s) => [s.id, s]));
-  const ready = READY_ORDER.map((id) => byId[id]).filter(Boolean);
+  /** Lead with gray-area-heavy shows (Friends, etc.), not the all-clear cartoons. */
+  function borderlineKey(s) {
+    const mix = s.mix || {};
+    const total = mix.total || 0;
+    const maybe = mix.maybe || 0;
+    return [maybe, total ? maybe / total : 0];
+  }
+  const ready = READY_ORDER.map((id) => byId[id])
+    .filter(Boolean)
+    .sort((a, b) => {
+      const [aN, aPct] = borderlineKey(a);
+      const [bN, bPct] = borderlineKey(b);
+      if (bN !== aN) return bN - aN;
+      if (bPct !== aPct) return bPct - aPct;
+      return String(a.name || "").localeCompare(String(b.name || ""));
+    });
   const soon = SOON_ORDER.map((id) => byId[id]).filter(Boolean);
 
   if (featured && ready.length) {

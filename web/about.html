@@ -40,37 +40,112 @@
   <header class="hero">
     <div class="wrap hero-inner">
       <div class="hero-copy">
+        <p class="eyebrow">The method behind every episode page</p>
         <h1>How we rate TV for kids</h1>
-        <p class="tagline">Informal parent guidance — not an official ratings board. You kids — your rules!</p>
+        <p class="tagline">
+          Informal parent guidance — not an official ratings board. You kids — your rules!
+        </p>
+        <div class="hero-pills">
+          <span>✅ 1–2 all clear</span>
+          <span>🤔 3 gray area</span>
+          <span>🚫 4–5 hard pass</span>
+        </div>
       </div>
+      <aside class="hero-card about-demo" aria-hidden="true">
+        <p class="about-demo-kicker">Example episode</p>
+        <div class="about-demo-row">
+          <span>Violence</span>
+          <span class="about-dots"><i class="on go"></i><i class="on go"></i><i class="on caution"></i><i></i><i></i></span>
+          <b>3</b>
+        </div>
+        <div class="about-demo-row">
+          <span>Sex</span>
+          <span class="about-dots"><i class="on go"></i><i class="on go"></i><i></i><i></i><i></i></span>
+          <b>2</b>
+        </div>
+        <div class="about-demo-row">
+          <span>Language</span>
+          <span class="about-dots"><i class="on go"></i><i class="on go"></i><i class="on caution"></i><i class="on stop"></i><i></i></span>
+          <b>4</b>
+        </div>
+        <div class="about-demo-overall">
+          <span>Overall = the highest</span>
+          <strong>4</strong>
+          <span class="bucket-pill skip">🚫 Hard pass</span>
+        </div>
+      </aside>
     </div>
   </header>
-  <main class="wrap seo-copy about-copy">
-    <h2>The 1–5 scale</h2>
-    <p>
+  <main class="wrap about-page">
+    <p class="about-lead">
       Every episode gets three scores: <strong>violence</strong>, <strong>sex</strong> and
       <strong>language</strong>, each from 1 (none) to 5 (heavy). The overall kid-rating is the
       <strong>highest of the three</strong>, so one spicy category is enough to bump the episode.
     </p>
-    <ul>
-      <li><strong>1–2 — all clear</strong> for most family couches.</li>
-      <li><strong>3 — gray area</strong>. Preview first; fine for older kids depending on your rules.</li>
-      <li><strong>4–5 — hard pass</strong> for little kids.</li>
-    </ul>
-    <h2>What we flag</h2>
-    <p>
-      Sex &amp; hookups, Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death,
-      Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming,
-      Slut-shaming and Racism. Each theme lists how many times it comes up and the quote or
-      scene behind it — shown verbatim from the transcript, including profanity and slurs.
-    </p>
-    <h2>Where the data comes from</h2>
-    <p>
-      Scores are generated from episode transcripts (keyword signals plus curated overrides),
-      then published as static pages. They are a screening aid, not a substitute for watching
-      with your own kids.
-    </p>
-    <p><a href="guides/index.html">See what to watch tonight →</a></p>
+    <section class="about-buckets" aria-label="The 1–5 scale">
+      <article class="about-bucket safe">
+        <span class="about-bucket-emoji" aria-hidden="true">✅</span>
+        <p class="about-bucket-range">1–2</p>
+        <h2>All clear</h2>
+        <p>Fine for most family couches.</p>
+      </article>
+      <article class="about-bucket maybe">
+        <span class="about-bucket-emoji" aria-hidden="true">🤔</span>
+        <p class="about-bucket-range">3</p>
+        <h2>Gray area</h2>
+        <p>Preview first — fine for older kids depending on your rules.</p>
+      </article>
+      <article class="about-bucket skip">
+        <span class="about-bucket-emoji" aria-hidden="true">🚫</span>
+        <p class="about-bucket-range">4–5</p>
+        <h2>Hard pass</h2>
+        <p>Too spicy for little kids.</p>
+      </article>
+    </section>
+    <section class="about-section">
+      <h2>What we flag</h2>
+      <p>
+        Each theme lists how many times it comes up and the quote or scene behind it —
+        shown verbatim from the transcript, including profanity and slurs.
+      </p>
+      <ul class="about-themes">
+        <li><span class="about-theme">Sex &amp; hookups</span></li><li><span class="about-theme">Nudity &amp; bodies</span></li><li><span class="about-theme">Porn / strippers</span></li><li><span class="about-theme">Swearing</span></li><li><span class="about-theme">Violence &amp; death</span></li><li><span class="about-theme">Affairs / cheating</span></li><li><span class="about-theme">Suicide / self-harm</span></li><li><span class="about-theme">Alcohol / Drugs</span></li><li><span class="about-theme">Gay / Lesbian</span></li><li><span class="about-theme">Fat-shaming</span></li><li><span class="about-theme">Slut-shaming</span></li><li><span class="about-theme">Racism</span></li>
+      </ul>
+    </section>
+    <section class="about-section">
+      <h2>Where the data comes from</h2>
+      <div class="about-steps">
+        <article>
+          <span aria-hidden="true">📜</span>
+          <h3>Transcripts</h3>
+          <p>Keyword signals plus curated overrides, scored episode by episode.</p>
+        </article>
+        <article>
+          <span aria-hidden="true">📈</span>
+          <h3>Highest wins</h3>
+          <p>Overall is the max of violence, sex and language — not an average.</p>
+        </article>
+        <article>
+          <span aria-hidden="true">💬</span>
+          <h3>Quoted moments</h3>
+          <p>A screening aid, not a substitute for watching with your own kids.</p>
+        </article>
+      </div>
+    </section>
+    <a class="about-cta" href="guides/index.html">
+      <span class="about-cta-stack" aria-hidden="true">
+        <img src="covers/spongebob.jpg" alt="" width="320" height="180" />
+        <img src="covers/young-sheldon.jpg" alt="" width="320" height="180" />
+        <img src="covers/seinfeld.jpg" alt="" width="320" height="180" />
+        <img src="covers/big-bang-theory.jpg" alt="" width="320" height="180" />
+      </span>
+      <span class="about-cta-copy">
+        <span class="about-cta-kicker">Ready to pick an episode</span>
+        <strong>See what to watch tonight</strong>
+        <span class="about-cta-sub">Safest episodes first. Skip lists for the spicy ones.</span>
+        <span class="about-cta-btn">Open the guides →</span>
+      </span>
+    </a>
   </main>
   <footer class="wrap site-footer">
     <p>

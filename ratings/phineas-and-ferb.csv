@@ -1,6 +1,6 @@
 season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,1,0001,A Chip to the Vet,3,1,1,3,10,Preview first — about 10+,Violence & injury — Veterinarian: “Thank goodness. The main office is sending over a temporary vet to help. Give him this chipping gun and send him to exam room 1 when he gets here.”
-0,2,0002,A Hard Day's Knight,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Major Monogram: “(Perry sees Wexler in his underwear tied up next to him) Good luck, Agent P.”"
+0,2,0002,A Hard Day's Knight,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Doofenshmirtz: “(Perry sends a punch at Doofenshmirtz) Oof!”
 0,3,0003,A Phineas and Ferb Family Christmas,2,1,1,2,8,Mild — okay from about 8+,
 0,4,0004,A Real Boy,1,1,1,1,6,Usually fine — about 6+,
 0,5,0005,Act Your Age,1,1,1,1,6,Usually fine — about 6+,
@@ -18,7 +18,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,17,0017,Backyard Aquarium,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Candace: “Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)”"
 0,18,0018,Backyard Hodge Podge,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Doofenshmirtz: “I've got you now, Perry the Platypus! (They attempt to run into each other but miss; Doofenshmirtz punches a chair instead) Perry the Platypus, did you get yourself upholstered?”"
 0,19,0019,Bad Hair Day,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Doofenshmirtz: “Ow! Shot in the butt while covered in honey and hair? What do you know, my horoscope was right. (hugging pole) My beautiful, beautiful horoscope.”"
-0,20,0020,Bee Day,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — Doofenshmirtz: “(cut back to Doofenshmirtz) Look, I even put one on my underwear.”"
+0,20,0020,Bee Day,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “(A giant yellow fly swatter appears behind Perry and swats him) Ha! Swats happening, Perry the platypus? Swats up? Swats goin- (Perry punches him in the chin) Oof!”"
 0,21,0021,Bee Story,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Holly: “(sneezes) Achoo! It was murder on my allergies.”
 0,22,0022,Bend It Like Doof,1,1,1,1,6,Usually fine — about 6+,
 0,23,0023,Biblio-Blast!,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”"
@@ -28,22 +28,22 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,27,0027,"Boyfriend From 27,000 B.C.",1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Boy dressed as a robot: “Jeremy, dude! Sweet costume, bro! (Conk punches him) Okay, you're not my bro!”"
 0,28,0028,Brain Drain,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Game Buford runs, Game Isabella jumps; he charge punches her. Game Isabella pulls her sash off"
 0,29,0029,Bread Bowl Hot Tub,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Buford: “What? No! I'm not gonna eat my friend. You're the best thing that's ever happened to me! And the third best thing that's happened to Volley-Baljeet, right? (imitating Baljeet) ""My face is blood.""”"
-0,30,0030,Bubble Boys,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Doofenshmirtz: “(grabs jet-pack and puts it on) but at least I can beat a hasty retreat before I'm too humiliated! (He revs up the jet-pack and it shoots into the sky, tearing his clothes off and leaving him in his underwear and socks.”"
+0,30,0030,Bubble Boys,2,1,1,2,8,Mild — okay from about 8+,
 0,31,0031,Buford Confidential,1,1,1,1,6,Usually fine — about 6+,
 0,32,0032,Bullseye!,2,1,1,2,8,Mild — okay from about 8+,
-0,33,0033,Bully Bromance Breakup,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Baljeet: “Another week's allowance replacing wedgied underwear. If I had anything left, I would invest in the company.”"
+0,33,0033,Bully Bromance Breakup,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Perry swings down from the rafters and punches him, knocking him over"
 0,34,0034,Bully Bust,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Buford: “Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.”"
 0,35,0035,Candace Disconnected,1,1,1,1,6,Usually fine — about 6+,
 0,36,0036,Candace Gets Busted,1,1,1,1,6,Usually fine — about 6+,
 0,37,0037,Candace Loses Her Head,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Doofenshmirtz: “…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)”
 0,38,0038,Candace's Big Day,1,1,1,1,6,Usually fine — about 6+,
 0,39,0039,Canderemy,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen"
-0,40,0040,Cheer Up Candace,2,1,1,2,8,Mild — okay from about 8+,Nudity & bodies — ♪ so make sure that your underwear's clean. ♪
+0,40,0040,Cheer Up Candace,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Candace: “(She then looks in mirror and starts screaming loudly again, birds fly, dogs bark, seals jump in water, monkeys beat up Tarzan look-alike.)”"
 0,41,0041,Cheers for Fears,2,1,1,2,8,Mild — okay from about 8+,
 0,42,0042,Chez Platypus,1,1,1,1,6,Usually fine — about 6+,
 0,43,0043,Cloudy With a Chance of Mom,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy.
 0,44,0044,Comet Kermillian,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Doofenshmirtz: “Wait. You're not trying to hack into the ray-gun system, are you? Wait, what am I worried about? You'll never guess my super-secret password.”"
-0,45,0045,Crack That Whip,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Clyde: “There you are, hon. Know where your dad keeps his glue gun?”"
+0,45,0045,Crack That Whip,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Betty Jo: “(Young Hildegard punches Betty Jo, and crosses the finish line first)”"
 0,46,0046,Cranius Maximus,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “I've got it! I've got it! (at Perry) There, you see? I told you it was water solut -- (Perry's capsule melts and he punches him) Oh!”"
 0,47,0047,Croquet Y-8,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Cut back to the Flynn-Fletcher house. Candace is on the phone with Mom, but the robo-Perry's tail keeps slapping her in the face."
 0,48,0048,Day of the Living Gelatin,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Phineas: “We'll beat him the same way we created him: with water.”
@@ -88,7 +88,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,87,0087,Greece Lightning,1,1,1,1,6,Usually fine — about 6+,
 0,88,0088,Hail Doofania!,1,1,1,1,6,Usually fine — about 6+,
 0,89,0089,"Happy Birthday, Isabella",1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “…Get it off! Get it off! (Doofenshmirtz open the bubble to let the bugs out) Wait I'm not ready! (Perry punches him, causing him to spin around his bubble) Whoa, whoa, whoa.”"
-0,90,0090,Happy New Year!,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Doofenshmirtz: “(voice over) ...you couldn't change your underwear,...”"
+0,90,0090,Happy New Year!,2,1,1,2,8,Mild — okay from about 8+,"Affairs / cheating — Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”"
 0,91,0091,Hide and Seek,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Buford: “(Punches Baljeet) How do you feel now?”
 0,92,0092,Hip Hip Parade,2,1,1,2,8,Mild — okay from about 8+,"Sex & hookups — Doofenshmirtz: “When I zap those streets there will be eight times the traffic, and Danville will come to a standstill! That's where I will make out like a bandit.”"
 0,93,0093,"I Scream, You Scream",1,1,1,1,6,Usually fine — about 6+,
@@ -105,7 +105,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,104,00104,Journey to the Center of Candace,1,1,1,1,6,Usually fine — about 6+,"Sex & hookups — Phineas: “(another claw grabs another tendril, now the screen displays her eyes are hooked up.) Eyes...”"
 0,105,00105,Just Desserts,1,1,1,1,6,Usually fine — about 6+,
 0,106,00106,Just Our Luck,2,1,1,2,8,Mild — okay from about 8+,
-0,107,00107,Just Passing Through,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Linda: “No! (to Lawrence) Alright, well, I'm all set. I've got my lucky guitar strings, I'm wearing my lucky underwear, and, of course, I've got...”"
+0,107,00107,Just Passing Through,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — He hands the knife to Linda and she pokes it into the crack, but it's too short"
 0,108,00108,Knot My Problem,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “So, today, I win! (Perry punches Doofenshmirtz's stomach and the inator zaps from inside his mouth.”"
 0,109,00109,La Candace-Cabra,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Buford: “(voiceover) There he was, happily plying his trade, cow punching.”"
 0,110,00110,"Ladies and Gentlemen, Meet Max Modem!",1,1,1,1,6,Usually fine — about 6+,
@@ -117,17 +117,17 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,116,00116,Let's Bounce,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — That's the cue for Doofenshmirtz's out of control platform to swoop down and stab up the anti-gravity Maximus, taking it away. Candace drags her mom to the backyard at just the right moment to not see anything."
 0,117,00117,Let's Take a Quiz,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “Well, I was able to reach this! (He reaches offscreen and retrieves a mallet-looking device) It's the Swapotron-Smash-o-Matic! (a boxing glove comes out of the mallet and punches Perry) I got it for only $99.95.”"
 0,118,00118,License to Bust,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.
-0,119,00119,"Lights, Candace, Action!",1,1,1,1,6,Usually fine — about 6+,Nudity & bodies — Doofenshmirtz: “(Fabric tearing but it's just his underwear) Heh.”
+0,119,00119,"Lights, Candace, Action!",1,1,1,1,6,Usually fine — about 6+,
 0,120,00120,Live and Let Drive,1,1,1,1,6,Usually fine — about 6+,
 0,121,00121,Lord of the Firesides,1,1,1,1,6,Usually fine — about 6+,
 0,122,00122,Lost in Danville,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Professor Mystery: “Don't you diminish him like th— (he gets body slammed by Peter.) See? He's thwarting me! You mean nothing to him, Doofenshmirtz! (gets punched) Yes yes!”"
 0,123,00123,Lotsa Latkes,1,1,1,1,6,Usually fine — about 6+,
 0,124,00124,Love at First Byte,1,1,2,2,8,Mild — okay from about 8+,"Violence & injury — Buford: “The lenses are good, but all the blood's rushed to my head.”"
-0,125,00125,Magic Carpet Ride,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Candace: “(pulls Linda away from the counter; the knife she was holding spins a few times and sticks in the counter) Now!”
+0,125,00125,Magic Carpet Ride,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Doofenshmirtz: “Wow, not only does this thing work, it has a sense of irony! (Perry punches Doofenshmirtz) Ow!... AAAAAHHHHHH!”"
 0,126,00126,Make Play,1,1,1,1,6,Usually fine — about 6+,"Racism & slurs — Major Monogram: “We don't actually have a photo of her, but whatever, she's a 15-year-old girl, they all pretty much look alike...”"
 0,127,00127,Mandace,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Perry punches Doof, revealing that he has escaped the cage by burning through the bars"
 0,128,00128,Mantis Fact!,1,1,1,1,6,Usually fine — about 6+,
-0,129,00129,Master of Fate,2,1,1,2,8,Mild — okay from about 8+,Nudity & bodies — ♪ That's some old underwear ♪
+0,129,00129,Master of Fate,2,1,1,2,8,Mild — okay from about 8+,
 0,42,0042-2,Meap Me in St. Louis,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — A Hench-Robot punches Doof and takes away Balloony.
 0,131,00131,Meapless in Seattle,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Phineas: “(No longer wearing his raincoat) Gotcha! (to Meap) Come on, punch it Meap. Let's get out of here!”"
 0,132,00132,Meatloaf Surprise,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “…the trap? Oh, I should've never made that out of biodegradable materials! Stupid Mother Earth! (Perry punches him) For that, I'll turn you rotten, then perhaps you'll stop annoying me!”"
@@ -137,10 +137,10 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,136,00136,Mom's Birthday,2,1,1,2,8,Mild — okay from about 8+,
 0,137,00137,Mom's in the House,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Doofenshmirtz: “(two of the arms punch him) Get off!”
 0,138,00138,Mommy Can You Hear Me?,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “Did mean old Perry the Platypus stick you in there? (releases Perry from the trap, who then punches him in the face) Hey, why did you do… (Agent P puts on his fedora) Perry the Platypus!”"
-0,139,00139,Monster from the Id,1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — Doofenshmirtz: “♪ Eating cereal looks like this! ♪ (Perry enters the building and chatters) Ah! Perry the Platypus! You're early! And I'm in my underwear.”
+0,139,00139,Monster from the Id,1,2,1,2,8,Mild — okay from about 8+,
 0,140,00140,Moon Farm,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Stacy: “Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?”"
 0,141,00141,More Than an Intern,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Agent P salutes and fires his grappling gun in pursuit of Doof.
-0,142,00142,My Fair Goalie,1,1,1,1,6,Usually fine — about 6+,Violence & injury — ♪ She knows which knife and fork and spoon to use and when ♪
+0,142,00142,My Fair Goalie,1,1,1,1,6,Usually fine — about 6+,
 0,143,00143,My Sweet Ride,1,1,1,1,6,Usually fine — about 6+,
 0,144,00144,Nerds of a Feather,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — ♪ As red as the blood of all who enter! ♪
 0,145,00145,Nerdy Dancin',1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Doofenshmirtz: “Patience, Dr. Bloodpudding, they'll be here. When have I ever let you guys down?”"
@@ -166,7 +166,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,165,00165,Phineas and Ferb and the Temple of Juatchadoon,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Major Monogram: “If he were to get hold of it, it would be blood-sucking-Chupacabra-brain-eating-zombie-ancient-Mayan-Gods-come-to-life-weird-voodoo-curses-with-goat-heads and what not bad.”"
 0,166,00166,Phineas and Ferb Christmas Vacation!,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Perry punches Doofenshmirtz
 0,167,00167,Phineas and Ferb Get Busted!,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — The car is on a ledge, extremely beaten up. Jeremy looks down at the cliff"
-0,168,00168,Phineas and Ferb Hawaiian Vacation,2,1,1,2,8,Mild — okay from about 8+,Nudity & bodies — Doofenshmirtz: “It's strange that my underwear and socks evolved with me.”
+0,168,00168,Phineas and Ferb Hawaiian Vacation,2,1,1,2,8,Mild — okay from about 8+,"Alcohol & drugs — Doofenshmirtz: “(a crab pinches his finger) Ow! Ohh! Oh, you're so going to be crab cocktail.”"
 0,169,00169,Phineas and Ferb Interrupted,2,1,1,2,8,Mild — okay from about 8+,
 0,170,00170,Phineas and Ferb Musical Cliptastic Countdown,1,1,1,1,6,Usually fine — about 6+,
 0,171,00171,Phineas and Ferb Musical Cliptastic Countdown Hosted by Kelly Osbourne,1,1,1,1,6,Usually fine — about 6+,Violence & injury — ♪ I'm light on my feet and I'm quick to the punch ♪
@@ -216,11 +216,11 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,215,00215,The Beak,2,1,1,2,8,Mild — okay from about 8+,
 0,216,00216,The Belly of the Beast,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”
 0,217,00217,The Best Lazy Day Ever,2,1,1,2,8,Mild — okay from about 8+,
-0,218,00218,The Bully Code,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — ♪ He's arranging my underwear drawer, ♪"
+0,218,00218,The Bully Code,1,1,1,1,6,Usually fine — about 6+,
 0,219,00219,The Candace Suit,1,1,1,1,6,Usually fine — about 6+,
-0,38,0038-2,The Chronicles of Meap,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Ferb's spaceship whips past Buford and Baljeet, tearing off all their clothes, except their underwear"
-0,221,00221,The Chronicles of Meap/Character Commentary,2,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — Monogram: “Underwear? Kids in underwear. How is this appropriate for - for children?”
-0,222,00222,The Chronicles of Meap/Creator Commentary,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Jeff ""Swampy"" Marsh: Gotta love the cute death ray. And underwear. Underwear is funny."
+0,38,0038-2,The Chronicles of Meap,2,1,1,2,8,Mild — okay from about 8+,
+0,221,00221,The Chronicles of Meap/Character Commentary,2,2,1,2,8,Mild — okay from about 8+,Violence & injury — Monogram: “That little grappling hook gun Perry's got cost the department 46 million dollars to develop.”
+0,222,00222,The Chronicles of Meap/Creator Commentary,2,1,1,2,8,Mild — okay from about 8+,Alcohol & drugs — Dan Povenmire: “Because it just sounds like a bunch of drunken guys singing”
 0,223,00223,The Curse of Candace,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Candace: “Imagine if you had to choose between a blood-thirsty undead walking corpse and a slobbering hairy lupine man-beast for a boyfriend.”
 0,224,00224,The Doof Side of the Moon,1,1,1,1,6,Usually fine — about 6+,
 0,225,00225,The Doonkelberry Imperative,1,1,1,1,6,Usually fine — about 6+,
@@ -229,21 +229,21 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,228,00228,The Great Indoors,2,1,1,2,8,Mild — okay from about 8+,
 0,229,00229,The Haberdasher,1,1,1,1,6,Usually fine — about 6+,Violence & injury — Cut to Phineas on the phone riding shotgun in Mom's car.
 0,230,00230,The Inator Method,1,1,1,1,6,Usually fine — about 6+,"Sex & hookups — Candace: “I'm all hooked up and ready to multitask. First on the list, wash dishes. (She dusts the table while walking. Sidenote: Don't try this at home.) Now where did we leave off?”"
-0,231,00231,The Klimpaloon Ultimatum,1,1,1,1,6,Usually fine — about 6+,Nudity & bodies — Buford: “Watch it! Long underwear makes the best wedgies!”
+0,231,00231,The Klimpaloon Ultimatum,1,1,1,1,6,Usually fine — about 6+,
 0,232,00232,The Lake Nose Monster,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Doofenshmirtz: “Wait, w-what was that? (Perry jumps out of the scuba mask and the bars drop off.) Huh? You were trying to escape?! After I shared my wings with you! Well, granted, I did trap you like a monkey— (Perry punches him.)”"
 0,233,00233,The Lemonade Stand,2,1,1,2,8,Mild — okay from about 8+,
 0,234,00234,The Lizard Whisperer,1,1,1,1,6,Usually fine — about 6+,
 0,235,00235,The Magnificent Few,1,1,1,1,6,Usually fine — about 6+,
 0,236,00236,The Mom Attractor,1,1,1,1,6,Usually fine — about 6+,
-0,237,00237,The Monster of Phineas-n-Ferbenstein,2,1,2,2,8,Mild — okay from about 8+,"Nudity & bodies — Villager 2: “(Walks to his balcony, seen wearing only his underwear) I'm finally cured of my irrational fear that a giant platypus will see me in my underpants. (The platypus monster walks by) It's even worse than I imagined!”"
+0,237,00237,The Monster of Phineas-n-Ferbenstein,2,1,2,2,8,Mild — okay from about 8+,"Violence & injury — The platypus monster chatters, and his bill slants. He grabs Jekyll, shakes him and punches him"
 0,238,00238,The Nightmare-Inator,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Zoom out to see the dream being projected. The fight is still going on. Perry punches Doof and the inator fires again, and bounces off the radio antenna."
 0,239,00239,The Phineas and Ferb Effect,3,1,1,3,10,Preview first — about 10+,"Violence & injury — Diogee cocks his leg like a rifle, and the Martin Pistachion attempts to swipe at Milo, but is thwarted."
 0,240,00240,The Phineas and Ferb Effect/Memorable Quotes,2,1,1,2,8,Mild — okay from about 8+,
-0,241,00241,The Remains of the Platypus,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Scene begins at D.E.I. with Doofenshmirtz in his apartment, standing in his underwear, socks, and shoes, while an inator fires up behind him."
+0,241,00241,The Remains of the Platypus,2,1,1,2,8,Mild — okay from about 8+,
 0,242,00242,The Return of the Rogue Rabbit,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Cut to Perry being thrown against a brick wall. Dennis' inator suit punches through the wall. Perry flees from the rabbit and sees the giant marionette.
 0,243,00243,The Secret of Success,1,1,1,1,6,Usually fine — about 6+,
 0,244,00244,This Is Your Backstory,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Doofenshmirtz: “Norm, let's bring out the big guns: Failed -inators! (montage set to 1812 Overture begins)”"
-0,245,00245,Tip of the Day,1,1,1,1,6,Usually fine — about 6+,"Nudity & bodies — Major Monogram: “Carl, I told you. There's nothing funny about a man in his underwear skating into a toilet.”"
+0,245,00245,Tip of the Day,1,1,1,1,6,Usually fine — about 6+,
 0,246,00246,Tour de Ferb,1,1,1,1,6,Usually fine — about 6+,
 0,247,00247,Toy to the World,1,1,1,1,6,Usually fine — about 6+,
 0,248,00248,Traffic Cam Caper,1,1,1,1,6,Usually fine — about 6+,
@@ -265,4 +265,4 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,264,00264,Where's Perry?,1,1,1,1,6,Usually fine — about 6+,
 0,265,00265,Where's Perry? (Part Two),2,1,1,2,8,Mild — okay from about 8+,
 0,266,00266,Where's Pinky?,1,1,1,1,6,Usually fine — about 6+,
-0,267,00267,Wizard of Odd,1,1,1,1,6,Usually fine — about 6+,Nudity & bodies — Nerdcrow (Baljeet): I wish I was still hanging by my underwear! Just kidding!
+0,267,00267,Wizard of Odd,1,1,1,1,6,Usually fine — about 6+,"Violence & injury — Nerdcrow (Baljeet): Oh, yes, I much prefer rotting vegetation and blood-sucking demons."

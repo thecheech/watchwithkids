@@ -36,14 +36,14 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,35,0035,Cry for Help,1,1,1,1,7,Usually fine — about 7+,Violence & injury — Sugilite winds up her fists and punches the bottom pillars at great force.
 0,36,0036,Dewey Wins,1,1,1,1,7,Usually fine — about 7+,
 0,37,0037,Doug Out,1,1,1,1,7,Usually fine — about 7+,
-0,38,0038,Drop Beat Dad,1,1,1,1,7,Usually fine — about 7+,Violence & injury — Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.
+0,38,0038,Drop Beat Dad,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*"
 0,39,0039,Earthlings,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Peridot laughs joyfully at Jasper getting beaten up.
 0,40,0040,Escapism (episode),1,1,1,1,7,Usually fine — about 7+,
 0,41,0041,Everything's Fine,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — Bismuth backs out of the way and lets Steven get behind the anvil. He cracks his knuckles and raises his fist, about to punch the metal."
 0,42,0042,Familiar (episode),1,1,1,1,7,Usually fine — about 7+,
 0,43,0043,Fragments,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Jasper punches a tree and destroys it, sending smoke towards Steven."
 0,44,0044,Friend Ship,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — *punches her fist into her palm* Nope, we're gonna"
-0,45,0045,Frybo (episode),1,2,1,2,8,Mild — okay from about 8+,"Nudity & bodies — No, have you seen my pants? *reveals that he is wearing just a shirt and underwear* They’re also very important."
+0,45,0045,Frybo (episode),1,2,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth."
 0,46,0046,Full Disclosure,1,1,1,1,7,Usually fine — about 7+,Violence & injury — But you were able to beat them back?
 1,47,0147,Fusion (short),1,1,1,1,7,Usually fine — about 7+,
 0,48,0048,Fusion Cuisine,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — Steven and Connie are watching ""Under the Knife"" on the TV together in Steven's Room."
@@ -52,7 +52,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,51,0051,Garnet's Universe,3,1,1,3,10,Preview first — about 10+,"Violence & injury — Hopper the morning to you, Garnet. Nothing like some morning training to get the blood pumping. Am I right?"
 0,52,0052,Gem Drill,1,1,1,1,7,Usually fine — about 7+,
 0,53,0053,Gem Glow,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — A Centipeetle sneaks up from beside Garnet, which she quickly punches away."
-0,54,0054,Gem Harvest,1,1,1,1,7,Usually fine — about 7+,Violence & injury — *picks up a knife* Ready?
+0,54,0054,Gem Harvest,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — The Gems begin to harvest the vegetables from the farm. Garnet summons her gauntlets and punches the ground, making carrots pop up into the air, and Lapis flies down to catch them in a bag."
 0,55,0055,Gem Heist,1,1,1,1,7,Usually fine — about 7+,Violence & injury — Holly Blue punches the guards to correct them.
 0,56,0056,Gem Hunt,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — The pair watches in horror as Jasper repeatedly punches the Snow Monster, and then slams it into the ground."
 0,57,0057,Gem Karaoke,1,1,1,1,7,Usually fine — about 7+,
@@ -68,7 +68,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,67,0067,House Guest,1,1,1,1,7,Usually fine — about 7+,
 0,68,0068,How Are Gems Made?,1,1,1,1,7,Usually fine — about 7+,
 0,69,0069,I Am My Mom,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Very nice meeting you all, and your compliance is appreciated, but!- *dodges a stab from Pearl's spear* Our job here is done, so..."
-0,70,0070,I Am My Monster,1,1,1,1,7,Usually fine — about 7+,"Nudity & bodies — You forgot your foot thong thingy-(she sees Steven) OOOHHH, WHA?!"
+0,70,0070,I Am My Monster,1,1,1,1,7,Usually fine — about 7+,
 0,71,0071,In Dreams,1,1,1,1,7,Usually fine — about 7+,
 0,72,0072,Island Adventure,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Lars covers his ears, feigning ignorance. Sadie grunts and stabs her spear into the water in frustration, unintentionally spearing three fishes in one go."
 0,73,0073,It Could've Been Great,1,1,1,1,7,Usually fine — about 7+,
@@ -93,7 +93,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 1,92,0192,Lion Loves to Fit in a Box,1,1,1,1,7,Usually fine — about 7+,
 0,93,0093,Little Graduation,1,1,1,1,7,Usually fine — about 7+,
 0,94,0094,Little Homeschool (episode),2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Huh, well then! Why don't you throw the first punch?"
-0,95,0095,Log Date 7 15 2,1,1,1,1,7,Usually fine — about 7+,"Nudity & bodies — …in the entire camp! And Pierre is a force to be reckoned with on land, when he hung Bunk Seven's underwear in the tree, the whole-"""
+0,95,0095,Log Date 7 15 2,1,1,1,1,7,Usually fine — about 7+,
 0,96,0096,Love Letters,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean."
 0,97,0097,Made of Honor,1,1,1,1,7,Usually fine — about 7+,
 0,98,0098,Marble Madness,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Garnet tries to push against the robonoid, Pearl sit atop it and is stabbing it with her spear, and Amethyst has her whip wrapped around it."
@@ -107,7 +107,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,106,00106,Mr. Universe (episode),1,1,1,1,7,Usually fine — about 7+,
 0,107,00107,Nightmare Hospital,1,1,1,1,7,Usually fine — about 7+,
 0,108,00108,Now We're Only Falling Apart,1,1,1,1,7,Usually fine — about 7+,
-0,109,00109,Ocean Gem,3,1,1,3,10,Preview first — about 10+,Violence & injury — Steven shoots a water gun while Connie hurls a small rock at the clone.
+0,109,00109,Ocean Gem,3,1,1,3,10,Preview first — about 10+,Violence & injury — Stand together. Don't let them separate us. *gets punched by Water Garnet*
 0,110,00110,Off Colors (episode),1,1,1,1,7,Usually fine — about 7+,
 0,111,00111,On the Run,1,1,1,1,7,Usually fine — about 7+,
 0,112,00112,Onion Friend,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — A lady with a bulb hairstyle then emerges from behind a curtain, wielding a shotgun."
@@ -129,7 +129,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,128,00128,Rose's Room,1,1,1,1,7,Usually fine — about 7+,
 0,129,00129,Rose's Scabbard,1,1,1,1,7,Usually fine — about 7+,
 0,130,00130,Sadie Killer,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror."
-0,131,00131,Sadie's Song,1,1,1,1,7,Usually fine — about 7+,"Nudity & bodies — *chuckles* Well, I wasn't planning on going in my underwear."
+0,131,00131,Sadie's Song,1,1,1,1,7,Usually fine — about 7+,Violence & injury — I remember when you punched the umpire.
 0,132,00132,Same Old World,1,1,1,1,7,Usually fine — about 7+,
 0,133,00133,Save the Light,2,1,1,2,8,Mild — okay from about 8+,Nudity & bodies — Squaridot: “naked and detatched!”
 0,134,00134,Say Uncle,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — Amethyst pulls Uncle Grandpa in and the Gems start beating him up. They then leap into the sky, leaving a beaten-up Uncle Grandpa on the ground."
@@ -168,10 +168,10 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,167,00167,The Trial,1,1,1,1,7,Usually fine — about 7+,
 0,168,00168,The Zoo,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — Steven proceeds to punch Greg in his face, but delivers a dud instead."
 0,169,00169,Three Gems and a Baby,1,1,1,1,7,Usually fine — about 7+,
-0,170,00170,Tiger Millionaire (episode),2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Steven, in just his underwear, is looking at his tiger mask, visibly upset and in guilt."
+0,170,00170,Tiger Millionaire (episode),2,1,1,2,8,Mild — okay from about 8+,Violence & injury — How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!
 0,171,00171,Tiger Philanthropist,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Purple Puma and Tiger Philanthropist smile at each other, when Chunk Truck suddenly punches Purple Puma in the face."
 0,172,00172,Together Alone,1,1,1,1,7,Usually fine — about 7+,
-0,173,00173,Together Breakfast (episode),2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Just then, a purple police bursts in through the front door of the house, wielding a water gun."
+0,173,00173,Together Breakfast (episode),2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away."
 0,174,00174,Together Forever,1,1,1,1,7,Usually fine — about 7+,
 0,175,00175,Too Far,1,1,1,1,7,Usually fine — about 7+,
 0,176,00176,Too Short to Ride,1,1,1,1,7,Usually fine — about 7+,
@@ -179,7 +179,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 0,178,00178,Unleash the Light,1,1,1,1,7,Usually fine — about 7+,Violence & injury — Bismuth': “This will pack a punch.”
 0,179,00179,Video Chat,1,1,1,1,7,Usually fine — about 7+,
 0,180,00180,Volleyball,1,1,1,1,7,Usually fine — about 7+,
-0,181,00181,Warp Tour,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — *sighs, arms himself with a water gun and stands on guard at the front door* Looks like I'm not sleeping tonight."
+0,181,00181,Warp Tour,2,1,1,2,8,Mild — okay from about 8+,
 0,182,00182,Watermelon Steven,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Baby Melon closes his eyes and punches Steven in the belly, knocking him back on the sand and grasping the other watermelons' attention."
 0,183,00183,We Are the Crystal Gems (short),1,1,1,1,7,Usually fine — about 7+,
 1,184,01184,We Deserve to Shine (short),1,1,1,1,7,Usually fine — about 7+,

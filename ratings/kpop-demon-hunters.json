@@ -51,24 +51,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Bleeding isn't in my blood!",
+            "how": "“Bleeding isn't in my blood!”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Bleeding isn't in my blood!",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Took blood and tears to look natural!",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -80,7 +80,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Bleeding isn't in my blood!"
+        "Violence & injury — “Bleeding isn't in my blood!”"
       ],
       "notes": null,
       "flags": [],

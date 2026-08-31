@@ -64,7 +64,7 @@
       "index_title": "A Tale of Two Stans",
       "url": "https://gravityfalls.fandom.com/wiki/A_Tale_of_Two_Stans/Transcript",
       "file": "transcripts/gravity-falls/a-tale-of-two-stans.txt",
-      "summary": null,
+      "summary": "Cornered underneath the Mystery Shack, Stan must finally reveal the secrets of his past and his mysterious portal to Dipper and Mabel. Academy Award winner J.K. Simmons (\"Whiplash\") recurs as Stan's twin brother.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -95,22 +95,6 @@
                 "text": "And so the Murder Hut was born!",
                 "mode": "implied",
                 "intensity": 3,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Wait, forget. That's it! I think I know a way we might be able to defeat those agents! (Takes a Memory erasing gun out of a bag and gives it to Stanford)",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Plugs some wires into the gun and looks through some viewing glasses to see the agents running into the shack) There.",
-                "mode": "implied",
-                "intensity": 2,
                 "at": "late"
               },
               {
@@ -160,6 +144,22 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Wait, forget. That's it! I think I know a way we might be able to defeat those agents! (Takes a Memory erasing gun out of a bag and gives it to Stanford)",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "(Plugs some wires into the gun and looks through some viewing glasses to see the agents running into the shack) There.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           },
@@ -324,7 +324,7 @@
       "index_title": "Blendin's Game",
       "url": "https://gravityfalls.fandom.com/wiki/Blendin%27s_Game/Transcript",
       "file": "transcripts/gravity-falls/blendin-s-game.txt",
-      "summary": null,
+      "summary": "Blendin Blandin returns to fight Dipper and Mabel in a futuristic battle that could trap the two of them forever in time jail.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -346,7 +346,7 @@
             "group": "violence",
             "how": "You're right, Dipper! It's time for us to bring out the big guns!",
             "count": 7,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -354,7 +354,7 @@
                 "speaker": null,
                 "text": "You're right, Dipper! It's time for us to bring out the big guns!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -362,32 +362,8 @@
                 "speaker": null,
                 "text": "Um, we definitely didn't rifle through your wallet? (Awkwardly laughs)",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Cut back to laser tag at Big Guns",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Robbie chases Thompson, spraying him with a water gun.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Shoots Dipper in face with a water gun) Heheh, dorks. Young Robbie!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
               },
               {
                 "kind": "note",
@@ -396,6 +372,30 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Cut back to laser tag at Big Guns",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Freeze! (Shoots laser gun at tree, which blows up, revealing Robbie, who runs away crying) Trace their chrono-signatures.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Freeze! (Points laser gun at them)",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               },
               {
                 "kind": "note",
@@ -446,7 +446,7 @@
       "index_title": "Boss Mabel",
       "url": "https://gravityfalls.fandom.com/wiki/Boss_Mabel/Transcript",
       "file": "transcripts/gravity-falls/boss-mabel.txt",
-      "summary": null,
+      "summary": "When Mabel questions the way Stan runs the Shack, he challenges her to a bet - whoever can make the most money in three days wins the chance to run the Shack however they wish for the rest of the summer. Mabel takes the bet and implements a new bossing method that coddles her employees and gives them the freedom to follow their hopes and dreams. Unfortunately, the results are not as expected and Mabel finds herself just trying to get back some normalcy. Meanwhile, Grunkle Stan sets off to win big money on a television game show.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -460,28 +460,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "(steps out from behind the porta-potty, showing he only has his foam question mark and underwear on) revealing, than I expected?",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(steps out from behind the porta-potty, showing he only has his foam question mark and underwear on) revealing, than I expected?",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -514,7 +495,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — (steps out from behind the porta-potty, showing he only has his foam question mark and underwear on) revealing, than I expected?",
         "Violence & injury — Money starts falling down on the man in the middle. When the other two contestants try to take some money, he slaps and punches them away."
       ],
       "notes": null,
@@ -529,7 +509,7 @@
       "index_title": "Bottomless Pit!",
       "url": "https://gravityfalls.fandom.com/wiki/Bottomless_Pit%21/Transcript",
       "file": "transcripts/gravity-falls/bottomless-pit.txt",
-      "summary": null,
+      "summary": "When Stan, Dipper, Mabel and Soos find themselves falling into a bottomless pit, they each decide to tell a different story to pass the time.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -625,7 +605,7 @@
       "index_title": "Boyz Crazy",
       "url": "https://gravityfalls.fandom.com/wiki/Boyz_Crazy/Transcript",
       "file": "transcripts/gravity-falls/boyz-crazy.txt",
-      "summary": null,
+      "summary": "When Mabel discovers that her favorite boy band is actually a bunch of imprisoned clones, she sets them free, only to decide on keeping them for herself. Meanwhile, Dipper is convinced that Robbie plans to brainwash Wendy with a secret message hidden inside one of his songs.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -735,7 +715,7 @@
       "index_title": "Carpet Diem",
       "url": "https://gravityfalls.fandom.com/wiki/Carpet_Diem/Transcript",
       "file": "transcripts/gravity-falls/carpet-diem.txt",
-      "summary": null,
+      "summary": "When Dipper discovers a hidden room inside the Mystery Shack, he is happy to claim it as his own space, but there is one problem - Mabel wants the room too. The duo compete to win the room with a contest that gets even trickier when they learn the room's carpet has electric body swapping properties.",
       "violence": 3,
       "sex": 1,
       "language": 2,
@@ -756,19 +736,11 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "At least I wash my clothes once in a while. (Picks up a pair of underwear with the fun stick)",
-            "count": 2,
+            "how": "Waddles, you got it good, bro. You got no worries. I mean, nobody thinks it's cute when I lie naked on the living room floor. I wish I could be a pig. (Rubs Waddles' head, the electrons are swapped, and they swap bodies)",
+            "count": 1,
             "intensity": 1,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "At least I wash my clothes once in a while. (Picks up a pair of underwear with the fun stick)",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -782,27 +754,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Free meal... (Pulls a knife and a fork out of his beard)",
+            "how": "(Starts punching the floor) Beautiful! Beautiful!",
             "count": 5,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Free meal... (Pulls a knife and a fork out of his beard)",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Comes up from behind Soos with fork and knife) I'll still eat ya.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -826,6 +782,22 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Free meal... (Pulls a knife and a fork out of his beard)",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "(Comes up from behind Soos with fork and knife) I'll still eat ya.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           },
@@ -853,8 +825,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — At least I wash my clothes once in a while. (Picks up a pair of underwear with the fun stick)",
-        "Violence & injury — Free meal... (Pulls a knife and a fork out of his beard)",
+        "Nudity & bodies — Waddles, you got it good, bro. You got no worries. I mean, nobody thinks it's cute when I lie naked on the living room floor. I wish I could be a pig. (Rubs Waddles' head, the electrons are swapped, and they swap bodies)",
+        "Violence & injury — (Starts punching the floor) Beautiful! Beautiful!",
         "Fat-shaming — I said, uh, shut up old man! You're fat and dumb and you're a dummy and, take that! (Lightly punches Stan on the arm)"
       ],
       "notes": null,
@@ -908,7 +880,7 @@
           {
             "theme": "Racism & slurs",
             "group": "bias",
-            "how": "Cryptograms! Have you seen this mixed up gobbly [racial slur]?",
+            "how": "Cryptograms! Have you seen this mixed up gobbly gook?",
             "count": 1,
             "intensity": 3,
             "mode": "implied",
@@ -916,7 +888,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Cryptograms! Have you seen this mixed up gobbly [racial slur]?",
+                "text": "Cryptograms! Have you seen this mixed up gobbly gook?",
                 "mode": "implied",
                 "intensity": 3,
                 "at": "early"
@@ -930,7 +902,7 @@
       },
       "examples": [
         "Violence & injury — (Cut to a clip of Manotaurs cheering, with one holding another in a headlock and punching him in the face.",
-        "Racism & slurs — Cryptograms! Have you seen this mixed up gobbly [racial slur]?"
+        "Racism & slurs — Cryptograms! Have you seen this mixed up gobbly gook?"
       ],
       "notes": null,
       "flags": [],
@@ -944,7 +916,7 @@
       "index_title": "Dipper and Mabel vs. the Future",
       "url": "https://gravityfalls.fandom.com/wiki/Dipper_and_Mabel_vs._the_Future/Transcript",
       "file": "transcripts/gravity-falls/dipper-and-mabel-vs-the-future.txt",
-      "summary": null,
+      "summary": "Mabel decides to plan for her and Dipper's 13th birthday party.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -964,31 +936,31 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "This magnet gun can rip the fillings out of a man's mouth from 100 feet.",
+            "how": "My hormones are like a sweaty cage! (Punches bulletin board)",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
                 "kind": "note",
                 "speaker": null,
+                "text": "My hormones are like a sweaty cage! (Punches bulletin board)",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
                 "text": "This magnet gun can rip the fillings out of a man's mouth from 100 feet.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
                 "kind": "note",
                 "speaker": null,
                 "text": "Now come. Take this. (throws Dipper a magnet gun)",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "My hormones are like a sweaty cage! (Punches bulletin board)",
                 "mode": "implied",
                 "intensity": 1,
                 "at": "early"
@@ -1027,7 +999,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — This magnet gun can rip the fillings out of a man's mouth from 100 feet.",
+        "Violence & injury — My hormones are like a sweaty cage! (Punches bulletin board)",
         "Swearing — Also, if it touches you it will seal up all the orifices in your face, (cocks gun) so try to avoid that."
       ],
       "notes": null,
@@ -1042,7 +1014,7 @@
       "index_title": "Dipper vs. Manliness",
       "url": "https://gravityfalls.fandom.com/wiki/Dipper_vs._Manliness/Transcript",
       "file": "transcripts/gravity-falls/dipper-vs-manliness.txt",
-      "summary": null,
+      "summary": "In a quest to attain manliness, Dipper ventures into the forest to battle the notorious Multi-Bear. Meanwhile, Mabel tries to teach Grunkle Stan how to be attractive to women, particularly the waitress in the local diner, Lazy Susan,.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1141,7 +1113,7 @@
       "index_title": "Double Dipper",
       "url": "https://gravityfalls.fandom.com/wiki/Double_Dipper/Transcript",
       "file": "transcripts/gravity-falls/double-dipper.txt",
-      "summary": null,
+      "summary": "Stan throws a big party to promote the Mystery Shack, while Dipper uses a strange photocopier to make clones of himself, so that he can impress Wendy.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1212,7 +1184,7 @@
       "index_title": "Dreamscaperers",
       "url": "https://gravityfalls.fandom.com/wiki/Dreamscaperers/Transcript",
       "file": "transcripts/gravity-falls/dreamscaperers.txt",
-      "summary": null,
+      "summary": "Dipper, Mabel and Soos must travel through Grunkle Stan's mind to defeat a tricky dream demon summoned by Lil Gideon.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -1233,7 +1205,7 @@
             "group": "violence",
             "how": "Dipper, Mabel, Stan, and Wendy are watching television. Dipper and Wendy are shooting each other with Nyarf brand dart guns.",
             "count": 6,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -1241,7 +1213,7 @@
                 "speaker": null,
                 "text": "Dipper, Mabel, Stan, and Wendy are watching television. Dipper and Wendy are shooting each other with Nyarf brand dart guns.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -1249,7 +1221,7 @@
                 "speaker": null,
                 "text": "Growls angrily in resentment towards his great-uncle, grabs his Nyarf dart gun and fires it at the picture of Stan.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -1257,7 +1229,7 @@
                 "speaker": null,
                 "text": "Finally! It's--you got a pen there? It's 13, 44... (The door gets hit by a nyarf gun) Ah! No no no! Wait, no!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -1325,19 +1297,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "(Takes out a gun) Your math is no match for my gun, you idiot!",
+            "how": "Everyone, get down! Don't let it taste human flesh! (Punches it and it drops off his hand crawls around the room)",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Takes out a gun) Your math is no match for my gun, you idiot!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -1345,6 +1309,14 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "(Takes out a gun) Your math is no match for my gun, you idiot!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
               }
             ]
           }
@@ -1354,7 +1326,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — (Takes out a gun) Your math is no match for my gun, you idiot!"
+        "Violence & injury — Everyone, get down! Don't let it taste human flesh! (Punches it and it drops off his hand crawls around the room)"
       ],
       "notes": null,
       "flags": [],
@@ -1400,7 +1372,7 @@
       "index_title": "Fight Fighters",
       "url": "https://gravityfalls.fandom.com/wiki/Fight_Fighters/Transcript",
       "file": "transcripts/gravity-falls/fight-fighters.txt",
-      "summary": null,
+      "summary": "After being challenged to a video game battle by Wendy's boyfriend Robbie, Dipper is shocked when his favorite playable fighter, Rumble McSkirmish, comes to life to defend him. But Dipper soon loses control over Rumble McSkirmish and has to find a way to stop him.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -1419,23 +1391,23 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "You know, studies show that keeping a ladder in the house is more dangerous than a loaded gun. That's why I own ten guns, in case some maniac tries to sneak in with a ladder.",
+            "how": "I'm gonna punch the ref.",
             "count": 6,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "You know, studies show that keeping a ladder in the house is more dangerous than a loaded gun. That's why I own ten guns, in case some maniac tries to sneak in with a ladder.",
+                "text": "I'm gonna punch the ref.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "I'm gonna punch the ref.",
+                "text": "You know, studies show that keeping a ladder in the house is more dangerous than a loaded gun. That's why I own ten guns, in case some maniac tries to sneak in with a ladder.",
                 "mode": "implied",
                 "intensity": 1,
                 "at": "early"
@@ -1480,7 +1452,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — You know, studies show that keeping a ladder in the house is more dangerous than a loaded gun. That's why I own ten guns, in case some maniac tries to sneak in with a ladder."
+        "Violence & injury — I'm gonna punch the ref."
       ],
       "notes": null,
       "flags": [],
@@ -1494,7 +1466,7 @@
       "index_title": "Gideon Rises",
       "url": "https://gravityfalls.fandom.com/wiki/Gideon_Rises/Transcript",
       "file": "transcripts/gravity-falls/gideon-rises.txt",
-      "summary": null,
+      "summary": "After 'Lil Gideon swindles the Mystery Shack away from Stan, everything in Gravity Falls appears to be even more west of weird - Dipper, Mabel and Grunkle Stan are forced to move in with Soos and his grandmother, while the town remains enamored with Gideon's charm. Meanwhile, Grunkle Stan isn't certain he can take care of the twins and is considering sending them back home. With their summer in Gravity Falls threatening to come to an end, Mabel and Dipper decide to take on Gideon and win back their home.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -1513,19 +1485,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "(Shoots water guns at Dipper and Mabel and pops out of cardboard box) Soos-ed!",
+            "how": "Sighs) You're a good man... child, Soos, but it's not lookin' good. This whole town loves Gideon and hates me. If only they knew how evil he really was! (punches the table in anger",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Shoots water guns at Dipper and Mabel and pops out of cardboard box) Soos-ed!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -1541,6 +1505,14 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "(Shoots water guns at Dipper and Mabel and pops out of cardboard box) Soos-ed!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           }
@@ -1550,7 +1522,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — (Shoots water guns at Dipper and Mabel and pops out of cardboard box) Soos-ed!"
+        "Violence & injury — Sighs) You're a good man... child, Soos, but it's not lookin' good. This whole town loves Gideon and hates me. If only they knew how evil he really was! (punches the table in anger"
       ],
       "notes": null,
       "flags": [],
@@ -1596,7 +1568,7 @@
       "index_title": "Headhunters",
       "url": "https://gravityfalls.fandom.com/wiki/Headhunters/Transcript",
       "file": "transcripts/gravity-falls/headhunters.txt",
-      "summary": null,
+      "summary": "When someone tampers with Mabel's life-size wax statue, she and Dipper set out to find the culprit. Meanwhile, Grunkle Stan mourns over the loss of his wax doppelganger.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -1616,7 +1588,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "(Starts quacking, the subtitles read:) Accident, constable? Or is it...Murder?!",
-            "count": 12,
+            "count": 11,
             "intensity": 3,
             "mode": "on-screen",
             "instances": [
@@ -1667,14 +1639,6 @@
                 "mode": "implied",
                 "intensity": 3,
                 "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Grunkle Stan, I'm an arts and crafts master. Why do you think I always have this glue gun stuck to my arm? (Holds up her arm, which has a glue gun glued to it; shakes her arm) Eugh, eugh!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
               },
               {
                 "kind": "note",
@@ -1738,7 +1702,7 @@
       "index_title": "Into the Bunker",
       "url": "https://gravityfalls.fandom.com/wiki/Into_the_Bunker/Transcript",
       "file": "transcripts/gravity-falls/into-the-bunker.txt",
-      "summary": null,
+      "summary": "Dipper's secret journal pages lead him and the gang to the author's hidden bunker where they find themselves face-to-face with a mysterious figure from Gravity Falls' lore.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1752,28 +1716,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "(Casually) Dude, you're laying on my bra.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Casually) Dude, you're laying on my bra.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -1806,7 +1751,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — (Casually) Dude, you're laying on my bra.",
         "Violence & injury — It's cool, it's cool. It's just blood, man; don't freak out."
       ],
       "notes": null,
@@ -1821,7 +1765,7 @@
       "index_title": "Irrational Treasure",
       "url": "https://gravityfalls.fandom.com/wiki/Irrational_Treasure/Transcript",
       "file": "transcripts/gravity-falls/irrational-treasure.txt",
-      "summary": null,
+      "summary": "When Dipper and Mabel discover evidence that the reported town founder is a hoax, they set out to expose the historical cover-up and prove that Mabel's silliness is not a bad thing.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1853,7 +1797,7 @@
       "index_title": "Land Before Swine",
       "url": "https://gravityfalls.fandom.com/wiki/Land_Before_Swine/Transcript",
       "file": "transcripts/gravity-falls/land-before-swine.txt",
-      "summary": null,
+      "summary": "When a prehistoric beast snatches Mabel's beloved pig Waddles, the Pines family must journey to a land trapped in time to rescue him.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -2074,7 +2018,7 @@
       "index_title": "Little Dipper",
       "url": "https://gravityfalls.fandom.com/wiki/Little_Dipper/Transcript",
       "file": "transcripts/gravity-falls/little-dipper.txt",
-      "summary": null,
+      "summary": "Dipper feels self-conscious that Mabel is taller than him and is becoming the alpha twin, so he seeks out a magic way to grow himself the same height. Meanwhile, Lil' Gideon takes advantage of Dipper's and Mabel's height discrepancies.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2096,7 +2040,7 @@
             "group": "violence",
             "how": "(Sees a butterfly pass through the pink light and shrink, then the blue light and grow; it knocks over a tree) What the heck? (Cuts a crystal off with a Swiss army knife)",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -2104,7 +2048,7 @@
                 "speaker": null,
                 "text": "(Sees a butterfly pass through the pink light and shrink, then the blue light and grow; it knocks over a tree) What the heck? (Cuts a crystal off with a Swiss army knife)",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -2112,7 +2056,7 @@
                 "speaker": null,
                 "text": "Maybe it can. (Pulls out Swiss army knife with scissors, cuts the rope freeing the discount dollar and they start flying away)",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -2137,7 +2081,7 @@
       "index_title": "Little Gift Shop of Horrors",
       "url": "https://gravityfalls.fandom.com/wiki/Little_Gift_Shop_of_Horrors/Transcript",
       "file": "transcripts/gravity-falls/little-gift-shop-of-horrors.txt",
-      "summary": null,
+      "summary": "In three separate mysterious tales, Stan is cursed by a Witch, Waddles accidentally eats a bowl of brain-enhancing jelly and builds a machine that allows him to speak for the first time, and Mabel faces her fear of Claymotion.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -2175,19 +2119,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Don't forget the laser gun I made for Candy.",
+            "how": "Punches several hands before one grabs his face",
             "count": 4,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Don't forget the laser gun I made for Candy.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -2207,6 +2143,14 @@
               {
                 "kind": "note",
                 "speaker": null,
+                "text": "Don't forget the laser gun I made for Candy.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
                 "text": "Kid, I'm sorry I doubted you. (Punches through clay). You were right! Stop-motion is pure evil.",
                 "mode": "implied",
                 "intensity": 1,
@@ -2221,7 +2165,7 @@
       },
       "examples": [
         "Nudity & bodies — Drives into the machine) The origin of life. The meaning of existence. Why dudes have nipples. (He presses a button, making the machine glow",
-        "Violence & injury — Don't forget the laser gun I made for Candy."
+        "Violence & injury — Punches several hands before one grabs his face"
       ],
       "notes": null,
       "flags": [],
@@ -2235,7 +2179,7 @@
       "index_title": "Mabel's Guide to Art",
       "url": "https://gravityfalls.fandom.com/wiki/Mabel%27s_Guide_to_Art/Transcript",
       "file": "transcripts/gravity-falls/mabel-s-guide-to-art.txt",
-      "summary": null,
+      "summary": "Mabel reveals that her gift of art has driven her to genius level with the creation of her own personal art movement - the \"Caticature.\".",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2299,7 +2243,7 @@
       "index_title": "Mabel's Guide to Dating",
       "url": "https://gravityfalls.fandom.com/wiki/Mabel%27s_Guide_to_Dating/Transcript",
       "file": "transcripts/gravity-falls/mabel-s-guide-to-dating.txt",
-      "summary": null,
+      "summary": "Mabel gives her thoughts on dating and puts her dating quiz to the test with three of Gravity Falls' most eligible bachelors - Grunkle Stan, Dipper and Soos.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2331,7 +2275,7 @@
       "index_title": "Mabel's Guide to Fashion",
       "url": "https://gravityfalls.fandom.com/wiki/Mabel%27s_Guide_to_Fashion/Transcript",
       "file": "transcripts/gravity-falls/mabel-s-guide-to-fashion.txt",
-      "summary": null,
+      "summary": "Mabel reveals her fashion secrets to the world, including FLASH MAKEOVERS!.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2363,7 +2307,7 @@
       "index_title": "Mabel's Guide to Stickers",
       "url": "https://gravityfalls.fandom.com/wiki/Mabel%27s_Guide_to_Stickers/Transcript",
       "file": "transcripts/gravity-falls/mabel-s-guide-to-stickers.txt",
-      "summary": null,
+      "summary": "Mabel gives her unique perspective on the history of stickers, their many styles and uses.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2479,19 +2423,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Grenda, get the glue gun. We're making dresses!",
-            "count": 5,
+            "how": "Aah! (Screams as blood dripping from above, gasps, looks up)",
+            "count": 4,
             "intensity": 2,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Grenda, get the glue gun. We're making dresses!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -2553,7 +2489,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Grenda, get the glue gun. We're making dresses!"
+        "Violence & injury — Aah! (Screams as blood dripping from above, gasps, looks up)"
       ],
       "notes": null,
       "flags": [],
@@ -2567,7 +2503,7 @@
       "index_title": "Not What He Seems",
       "url": "https://gravityfalls.fandom.com/wiki/Not_What_He_Seems/Transcript",
       "file": "transcripts/gravity-falls/not-what-he-seems.txt",
-      "summary": null,
+      "summary": "After government agents take Stan into custody, Dipper and Mabel question how much they really know about their Grunkle Stan. Nick Offerman guest stars as Agent Powers.",
       "violence": 2,
       "sex": 1,
       "language": 2,
@@ -2654,7 +2590,7 @@
       "index_title": "Roadside Attraction",
       "url": "https://gravityfalls.fandom.com/wiki/Roadside_Attraction/Transcript",
       "file": "transcripts/gravity-falls/roadside-attraction.txt",
-      "summary": null,
+      "summary": "Grunkle Stan takes the kids with him on a road-trip to sabotage all the other tourist traps in Oregon.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2782,7 +2718,7 @@
       "index_title": "Scary-oke",
       "url": "https://gravityfalls.fandom.com/wiki/Scary-oke/Transcript",
       "file": "transcripts/gravity-falls/scary-oke.txt",
-      "summary": null,
+      "summary": "The Pines family resolves to get back to normal after the Li'l Gideon incident. They throw a \"Mystery Shack is Back\" party, but some unwelcome guests crash the celebration.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2802,19 +2738,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "(Pulls a zombie head off his jacket and watches it dissolve in his hand) This is bigger than we imagined. We need to bring in the big guns.",
+            "how": "Eat it, no eyes! (A zombie growls and bites the baseball bat in half, only be punched by Stan's brass-knuckle-wearing fists) ANYONE ELSE WANNA PIECE?!",
             "count": 3,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Pulls a zombie head off his jacket and watches it dissolve in his hand) This is bigger than we imagined. We need to bring in the big guns.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -2830,6 +2758,14 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "(Pulls a zombie head off his jacket and watches it dissolve in his hand) This is bigger than we imagined. We need to bring in the big guns.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               }
             ]
           }
@@ -2839,7 +2775,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — (Pulls a zombie head off his jacket and watches it dissolve in his hand) This is bigger than we imagined. We need to bring in the big guns."
+        "Violence & injury — Eat it, no eyes! (A zombie growls and bites the baseball bat in half, only be punched by Stan's brass-knuckle-wearing fists) ANYONE ELSE WANNA PIECE?!"
       ],
       "notes": null,
       "flags": [],
@@ -2853,7 +2789,7 @@
       "index_title": "Society of the Blind Eye",
       "url": "https://gravityfalls.fandom.com/wiki/Society_of_the_Blind_Eye/Transcript",
       "file": "transcripts/gravity-falls/society-of-the-blind-eye.txt",
-      "summary": null,
+      "summary": "The kids, along with Old Man McGucket's help, discover there is a secret society in Gravity Falls.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -2866,32 +2802,13 @@
           "Light comedy tone"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
           {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "You're no match for the unstoppable power of- (His robe is caught in the tube and rips off, leaving him in his underwear.) That's right, I don't wear nothin' under my robe.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "You're no match for the unstoppable power of- (His robe is caught in the tube and rips off, leaving him in his underwear.) That's right, I don't wear nothin' under my robe.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          },
-          {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "There, there. (Pulls ray gun out of the box. The members pull down their hoods.) You won't be like \"Bwaaa?\" for much longer.",
+            "how": "(A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous.",
             "count": 3,
             "intensity": 2,
             "mode": "on-screen",
@@ -2899,9 +2816,17 @@
               {
                 "kind": "note",
                 "speaker": null,
+                "text": "(A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
                 "text": "There, there. (Pulls ray gun out of the box. The members pull down their hoods.) You won't be like \"Bwaaa?\" for much longer.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -2909,16 +2834,8 @@
                 "speaker": null,
                 "text": "What is that gizmo? It looks like a hair dryer. Are you guys barbers? (The Lead Member zaps her with the gun.) AAAAAH!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "late"
               }
             ]
           }
@@ -2949,8 +2866,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — You're no match for the unstoppable power of- (His robe is caught in the tube and rips off, leaving him in his underwear.) That's right, I don't wear nothin' under my robe.",
-        "Violence & injury — There, there. (Pulls ray gun out of the box. The members pull down their hoods.) You won't be like \"Bwaaa?\" for much longer."
+        "Violence & injury — (A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous."
       ],
       "notes": null,
       "flags": [],
@@ -2964,7 +2880,7 @@
       "index_title": "Sock Opera",
       "url": "https://gravityfalls.fandom.com/wiki/Sock_Opera/Transcript",
       "file": "transcripts/gravity-falls/sock-opera.txt",
-      "summary": null,
+      "summary": "Mabel decides to put on a sock puppet rock opera to impress a local puppeteer, but her show goes awry when Dipper's drive to uncover journal secrets leads to a supernatural disaster.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3039,7 +2955,7 @@
       "index_title": "Soos and the Real Girl",
       "url": "https://gravityfalls.fandom.com/wiki/Soos_and_the_Real_Girl/Transcript",
       "file": "transcripts/gravity-falls/soos-and-the-real-girl.txt",
-      "summary": null,
+      "summary": "Soos needs a date for his cousin Reggie's engagement party and looks to a dating simulator game to help him talk to girls.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3198,7 +3114,7 @@
       "index_title": "Summerween",
       "url": "https://gravityfalls.fandom.com/wiki/Summerween/Transcript",
       "file": "transcripts/gravity-falls/summerween.txt",
-      "summary": null,
+      "summary": "It's Gravity Falls' version of Halloween in Summer with Jack-o-Melons and lots of trick-or-treating. Dipper and Mabel are excited to join in on the fun, but when Wendy casually mentions that trick-or-treating is for kids, Dipper's whole outlook on the evening changes. The night gets even more complicated when a monster that Dipper accidentally insulted makes them fulfill his candy quota by night's end or else he will eat them.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3212,28 +3128,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "(Still wearing his underwear) Ahahaha! Still got it!",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Still wearing his underwear) Ahahaha! Still got it!",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -3266,7 +3163,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — (Still wearing his underwear) Ahahaha! Still got it!",
         "Violence & injury — (Picks up a big barrel of fake blood) Ha ha! When the children come to my door tonight, they're gonna run away screaming from Stan Pines, Master of Fright! (Turns, faces a baby) Boo."
       ],
       "notes": null,
@@ -3281,7 +3177,7 @@
       "index_title": "The Deep End",
       "url": "https://gravityfalls.fandom.com/wiki/The_Deep_End/Transcript",
       "file": "transcripts/gravity-falls/the-deep-end.txt",
-      "summary": null,
+      "summary": "When Mabel befriends a cute Merman trapped in the deep end of the public pool, she's determined to return him to his family in the ocean - even though that means her whirlwind.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3336,7 +3232,7 @@
       "index_title": "The Golf War",
       "url": "https://gravityfalls.fandom.com/wiki/The_Golf_War/Transcript",
       "file": "transcripts/gravity-falls/the-golf-war.txt",
-      "summary": null,
+      "summary": "After being belittled by Pacifica one too many times, Mabel challenges her to a miniature golf-off which gets a tad out of control when some local residents offer their help.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -3356,7 +3252,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "Uh, I don't know, guys. I'm not sure I wanna get involved in your weird mini-blood feud.",
-            "count": 5,
+            "count": 4,
             "intensity": 2,
             "mode": "implied",
             "instances": [
@@ -3367,14 +3263,6 @@
                 "mode": "implied",
                 "intensity": 2,
                 "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Gun it! (They drive away.)",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
               },
               {
                 "kind": "note",
@@ -3422,7 +3310,7 @@
       "index_title": "The Hand That Rocks the Mabel",
       "url": "https://gravityfalls.fandom.com/wiki/The_Hand_That_Rocks_the_Mabel/Transcript",
       "file": "transcripts/gravity-falls/the-hand-that-rocks-the-mabel.txt",
-      "summary": null,
+      "summary": "Dipper and Mabel discover their seemingly cherubic new neighbor, Lil' Gideon, happens to be the town's adored psychic. But when Dipper convinces Mabel to go on a date with Gideon to question his authenticity, she soon learns that his cuteness can fade all too quickly.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3586,7 +3474,7 @@
       "index_title": "The Inconveniencing",
       "url": "https://gravityfalls.fandom.com/wiki/The_Inconveniencing/Transcript",
       "file": "transcripts/gravity-falls/the-inconveniencing.txt",
-      "summary": null,
+      "summary": "When Dipper tries to impress Wendy by acting older than he really is, he's invited to join a group of teenagers that leads to an old abandoned convenience store that may be haunted. Mabel tags along for the ride but gets sidetracked when she sees a discontinued line of flavored candies that sends her on an unexpected adventure.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -3701,7 +3589,7 @@
       "index_title": "The Last Mabelcorn",
       "url": "https://gravityfalls.fandom.com/wiki/The_Last_Mabelcorn/Transcript",
       "file": "transcripts/gravity-falls/the-last-mabelcorn.txt",
-      "summary": null,
+      "summary": "A new threat leads Mabel to venture into the enchanted realm of the unicorns. Meanwhile, Dipper learns an unexpected twist about the enigmatic Bill Cipher.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -3723,7 +3611,7 @@
             "how": "So can I go on a mission to get that hair? Please please please? I'LL GIVE YOU MY BLOOD!",
             "count": 7,
             "intensity": 2,
-            "mode": "on-screen",
+            "mode": "dialogue",
             "instances": [
               {
                 "kind": "note",
@@ -3734,28 +3622,12 @@
                 "at": "early"
               },
               {
-                "kind": "note",
-                "speaker": null,
-                "text": "Off-screen:) AH! IT'S THE COPS! GUN IT! (Drives away accompanied by the sound of pugs yapping",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
                 "kind": "quote",
                 "speaker": "Montage",
                 "text": "Mabel donates three pints of blood, then faints.",
                 "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Backing away) Why were you really scanning my thoughts? (Aims Memory Gun at Ford) Are you Bill right now?!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "late"
               },
               {
                 "kind": "note",
@@ -3772,6 +3644,22 @@
                 "mode": "implied",
                 "intensity": 1,
                 "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "(Backing away) Why were you really scanning my thoughts? (Aims Memory Gun at Ford) Are you Bill right now?!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "(Charging gun) Trust no one, trust no one, trust...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
               },
               {
                 "kind": "note",
@@ -3803,7 +3691,7 @@
       "index_title": "The Legend of the Gobblewonker",
       "url": "https://gravityfalls.fandom.com/wiki/The_Legend_of_the_Gobblewonker/Transcript",
       "file": "transcripts/gravity-falls/the-legend-of-the-gobblewonker.txt",
-      "summary": null,
+      "summary": "When Dipper and Mabel hear rumors that a lake monster lives at the bottom of the local lake, they enlist Soos to take them on a boating expedition to prove that it really does exist, instead of going with Stan Pines to go fishing.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3866,7 +3754,7 @@
       "index_title": "The Love God",
       "url": "https://gravityfalls.fandom.com/wiki/The_Love_God/Transcript",
       "file": "transcripts/gravity-falls/the-love-god.txt",
-      "summary": null,
+      "summary": "Mabel takes matchmaking too far when she steals a love potion from a real love god.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3904,7 +3792,7 @@
                 "speaker": null,
                 "text": "In case you forgot, your stupid brother is the one who ruined my LIFE!!! (Robbie furiously tosses the spray can, shuriken, and combat army knife at the dartboard to unveil a picture of Dipper",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -3961,7 +3849,7 @@
       "index_title": "The Stanchurian Candidate",
       "url": "https://gravityfalls.fandom.com/wiki/The_Stanchurian_Candidate/Transcript",
       "file": "transcripts/gravity-falls/the-stanchurian-candidate.txt",
-      "summary": null,
+      "summary": "When Grunkle Stan decides to run for mayor, Dipper and Mabel have their work cut out for them trying to turn their gaffe-prone uncle into the perfect candidate.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4000,19 +3888,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "(Picks up knife and fork) Now this I could get used to!",
-            "count": 3,
-            "intensity": 2,
+            "how": "I'll win either way, and when I do, you might not like the Gravity Falls you wake up in! (Punches out the Mystery Shack on a map of Gravity Falls hanging on the wall)",
+            "count": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "(Picks up knife and fork) Now this I could get used to!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -4059,7 +3939,7 @@
       },
       "examples": [
         "Nudity & bodies — Come on, have you seen the polls? I could debate naked and I'd still win! Huh, come to think of it...",
-        "Violence & injury — (Picks up knife and fork) Now this I could get used to!"
+        "Violence & injury — I'll win either way, and when I do, you might not like the Gravity Falls you wake up in! (Punches out the Mystery Shack on a map of Gravity Falls hanging on the wall)"
       ],
       "notes": null,
       "flags": [],
@@ -4073,7 +3953,7 @@
       "index_title": "The Time Traveler's Pig",
       "url": "https://gravityfalls.fandom.com/wiki/The_Time_Traveler%27s_Pig/Transcript",
       "file": "transcripts/gravity-falls/the-time-traveler-s-pig.txt",
-      "summary": null,
+      "summary": "When Dipper wishes he could go back in time and undo a mistake he made, he discovers there is a time machine that can help him do just that. Meanwhile, it's love at first sight for Mabel when she wins a pet pig at the fair.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4115,7 +3995,7 @@
             "group": "violence",
             "how": "(Gives Mabel fork and knife) And you'll be needin' these.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -4123,7 +4003,7 @@
                 "speaker": null,
                 "text": "(Gives Mabel fork and knife) And you'll be needin' these.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -4200,7 +4080,7 @@
       "index_title": "Tourist Trapped",
       "url": "https://gravityfalls.fandom.com/wiki/Tourist_Trapped/Transcript",
       "file": "transcripts/gravity-falls/tourist-trapped.txt",
-      "summary": null,
+      "summary": "When Dipper and Mabel Pines arrive to spend their summer break in the remote town of Gravity Falls, Mabel's suspiciously weird new boyfriend causes the twins to come face to face with the town's strange and uncanny secrets.",
       "violence": 2,
       "sex": 2,
       "language": 1,
@@ -4215,7 +4095,6 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
@@ -4234,24 +4113,6 @@
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
-              }
-            ]
-          },
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Cut to a Sasquatch wearing underwear. Tourists start speaking excitedly, and snap pictures. Cut to Dipper sweeping the wooden floor with a broom. Mabel is looking at stuff.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Cut to a Sasquatch wearing underwear. Tourists start speaking excitedly, and snap pictures. Cut to Dipper sweeping the wooden floor with a broom. Mabel is looking at stuff.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
               }
             ]
           },
@@ -4288,7 +4149,6 @@
       },
       "examples": [
         "Sex & hookups — (Fires the grappling hook up at the ceiling; it catches and pulls her up) Grappling hook!",
-        "Nudity & bodies — Cut to a Sasquatch wearing underwear. Tourists start speaking excitedly, and snap pictures. Cut to Dipper sweeping the wooden floor with a broom. Mabel is looking at stuff.",
         "Violence & injury — With Steve biting her sweater arm) Let go of me! (Punches Steve off"
       ],
       "notes": null,
@@ -4367,7 +4227,7 @@
       "index_title": "TV Shorts 1",
       "url": "https://gravityfalls.fandom.com/wiki/TV_Shorts_1/Transcript",
       "file": "transcripts/gravity-falls/tv-shorts-1.txt",
-      "summary": null,
+      "summary": "Mabel watches the public television of Gravity Falls. On the television she finds a Mystery Shack TV commercial, some words by Soos, and footage of Gideon in the prison, which appears to be a sort of reality show about his interaction with fellow inmates.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4422,7 +4282,7 @@
       "index_title": "TV Shorts 2",
       "url": "https://gravityfalls.fandom.com/wiki/TV_Shorts_2/Transcript",
       "file": "transcripts/gravity-falls/tv-shorts-2.txt",
-      "summary": null,
+      "summary": "Grunkle Stan watches Ducktective, Teenz Talk, and Why You Ackin' So Cray-Cray.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4468,28 +4328,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Cut to an apelike figure wearing underwear, with a sign that reads \"The Sascrotch.\"",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Cut to an apelike figure wearing underwear, with a sign that reads \"The Sascrotch.\"",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -4538,7 +4379,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Cut to an apelike figure wearing underwear, with a sign that reads \"The Sascrotch.\"",
         "Violence & injury — How's about corpse melon."
       ],
       "notes": null,

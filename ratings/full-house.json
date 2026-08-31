@@ -32,7 +32,7 @@
       "index_title": "1. Our Very First Show",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e01",
       "file": "transcripts/full-house/s01e01-our-very-first-show.txt",
-      "summary": null,
+      "summary": "Joey and Jesse move in to help Danny raise his three daughters.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -64,7 +64,7 @@
       "index_title": "2. Our Very First Night",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e02",
       "file": "transcripts/full-house/s01e02-our-very-first-night.txt",
-      "summary": null,
+      "summary": "Jesse throws a big party with his band.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -96,7 +96,7 @@
       "index_title": "3. The First Day of School",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e03",
       "file": "transcripts/full-house/s01e03-the-first-day-of-school.txt",
-      "summary": null,
+      "summary": "D.J. and Stephanie struggle on their first day at school.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -128,7 +128,7 @@
       "index_title": "4. The Return of Grandma",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e04",
       "file": "transcripts/full-house/s01e04-the-return-of-grandma.txt",
-      "summary": null,
+      "summary": "Danny, Jesse and Joey's mothers want to move in and help out.",
       "violence": 2,
       "sex": 1,
       "language": 2,
@@ -160,7 +160,7 @@
       "index_title": "5. Sea Cruise",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e05",
       "file": "transcripts/full-house/s01e05-sea-cruise.txt",
-      "summary": null,
+      "summary": "Danny, Jesse, and Joey go fishing.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -175,41 +175,22 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Nudity & bodies",
           "Alcohol & drugs"
         ],
         "watch_detail": [
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "You gotta admit, it is kind of sexy out here.",
+            "how": "“You gotta admit, it is kind of sexy out here.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You gotta admit, it is kind of sexy out here.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "I got my lucky pole, my lucky hat my lucky underwear with little sharks on it.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "I got my lucky pole, my lucky hat my lucky underwear with little sharks on it.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -218,24 +199,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Champagne, caviar, what have you.",
+            "how": "“Champagne, caviar, what have you.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Champagne, caviar, what have you.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Yoo-hoo, champagne's gone.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -247,9 +228,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — You gotta admit, it is kind of sexy out here.",
-        "Nudity & bodies — I got my lucky pole, my lucky hat my lucky underwear with little sharks on it.",
-        "Alcohol & drugs — Champagne, caviar, what have you."
+        "Sex & hookups — “You gotta admit, it is kind of sexy out here.”",
+        "Alcohol & drugs — “Champagne, caviar, what have you.”"
       ],
       "notes": null,
       "flags": [],
@@ -263,7 +243,7 @@
       "index_title": "6. Daddy's Home",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e06",
       "file": "transcripts/full-house/s01e06-daddy-s-home.txt",
-      "summary": null,
+      "summary": "Danny feels guilty of not spending more time with his children.",
       "violence": 1,
       "sex": 1,
       "language": 2,
@@ -277,49 +257,22 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
           {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "No clean underwear.",
-            "count": 2,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "No clean underwear.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "You fantasize about having bad breath and dirty underwear? Michelle.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          },
-          {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "My sweet little baby, my own flesh and blood thinks that you two are her father.",
+            "how": "“My sweet little baby, my own flesh and blood thinks that you two are her father.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "My sweet little baby, my own flesh and blood thinks that you two are her father.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -331,8 +284,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — No clean underwear.",
-        "Violence & injury — My sweet little baby, my own flesh and blood thinks that you two are her father."
+        "Violence & injury — “My sweet little baby, my own flesh and blood thinks that you two are her father.”"
       ],
       "notes": null,
       "flags": [],
@@ -366,24 +318,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Yeah, girls, nobody can take a punch like your father.",
+            "how": "“Yeah, girls, nobody can take a punch like your father.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Yeah, girls, nobody can take a punch like your father.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "My favorite part was when the manager punched him-- Right in the stomach.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -397,16 +349,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "What's coming out of it? Diet cola.",
+            "how": "“What's coming out of it? Diet cola.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What's coming out of it? Diet cola.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -416,7 +368,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Yeah, girls, nobody can take a punch like your father."
+        "Violence & injury — “Yeah, girls, nobody can take a punch like your father.”"
       ],
       "notes": null,
       "flags": [],
@@ -430,7 +382,7 @@
       "index_title": "8. Jesse's Girl",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e08",
       "file": "transcripts/full-house/s01e08-jesse-s-girl.txt",
-      "summary": null,
+      "summary": "Jesse tells a flashback story of a girl he was teaching music to.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -451,16 +403,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "I think that a sense of humor is a very sexy quality in a man.",
+            "how": "“I think that a sense of humor is a very sexy quality in a man.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I think that a sense of humor is a very sexy quality in a man.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -469,24 +421,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Joey Stabs Sweet, Innocent Uncle Jesse in the Back.",
+            "how": "“Joey Stabs Sweet, Innocent Uncle Jesse in the Back.”",
             "count": 2,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Joey Stabs Sweet, Innocent Uncle Jesse in the Back.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Joey Stabs Sweet, Innocent Uncle Jesse - in the Back,\" do you? - Yeah.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -495,16 +447,16 @@
           {
             "theme": "Suicide & self-harm",
             "group": "violence",
-            "how": "I kill myself.",
+            "how": "“I kill myself.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I kill myself.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -516,9 +468,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — I think that a sense of humor is a very sexy quality in a man.",
-        "Violence & injury — Joey Stabs Sweet, Innocent Uncle Jesse in the Back.",
-        "Suicide & self-harm — I kill myself."
+        "Sex & hookups — “I think that a sense of humor is a very sexy quality in a man.”",
+        "Violence & injury — “Joey Stabs Sweet, Innocent Uncle Jesse in the Back.”",
+        "Suicide & self-harm — “I kill myself.”"
       ],
       "notes": null,
       "flags": [],
@@ -532,7 +484,7 @@
       "index_title": "9. The Miracle of Thanksgiving",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e09",
       "file": "transcripts/full-house/s01e09-the-miracle-of-thanksgiving.txt",
-      "summary": null,
+      "summary": "It's the girls first Thanksgiving without their mom and the boys do everything they can to make it easier for them.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -552,16 +504,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I'll get us some traditional pumpkin margaritas.",
+            "how": "“I'll get us some traditional pumpkin margaritas.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'll get us some traditional pumpkin margaritas.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -573,7 +525,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — I'll get us some traditional pumpkin margaritas."
+        "Alcohol & drugs — “I'll get us some traditional pumpkin margaritas.”"
       ],
       "notes": null,
       "flags": [],
@@ -587,7 +539,7 @@
       "index_title": "Joey's Place",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e10",
       "file": "transcripts/full-house/s01e10-joey-s-place.txt",
-      "summary": null,
+      "summary": "Joey gets his own room in the garage.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -619,7 +571,7 @@
       "index_title": "The Big Three-O",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e11",
       "file": "transcripts/full-house/s01e11-the-big-three-o.txt",
-      "summary": null,
+      "summary": "Danny has a hard time accepting the fact that he's turning thirty. He then has to deal with Jesse feeling bad about accidentally totaling his beloved car, Bullet.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -641,16 +593,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "Okay, I'm coming out of Pep Boys, right with your wonderful yet essentially useless party gift and this idiot plowed into Bullet.",
+            "how": "“Okay, I'm coming out of Pep Boys, right with your wonderful yet essentially useless party gift and this idiot plowed into Bullet.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Okay, I'm coming out of Pep Boys, right with your wonderful yet essentially useless party gift and this idiot plowed into Bullet.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -672,7 +624,7 @@
       "index_title": "Our Very First Promo",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e12",
       "file": "transcripts/full-house/s01e12-our-very-first-promo.txt",
-      "summary": null,
+      "summary": "When Danny tells Jesse, Joey, and the girls that they'll be appearing in a promo for the television station, they're delighted at the prospect of being on television. However, when the director tells them what she has in mind, they promptly fire her and do things their way. Meanwhile, when Stephanie hears a strange noise in the house, Uncle Jesse begins hunting down the \"monster\" making the noise.",
       "violence": 2,
       "sex": 2,
       "language": 1,
@@ -686,51 +638,32 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Sex & hookups",
-          "Violence & injury"
+          "Sex & hookups"
         ],
         "watch_detail": [
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "\" Steph, did you make that noise? Why would I make a noise that's scaring me to death? Could I sleep with you in your bed? All right.",
+            "how": "“\" Steph, did you make that noise? Why would I make a noise that's scaring me to death? Could I sleep with you in your bed? All right.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\" Steph, did you make that noise? Why would I make a noise that's scaring me to death? Could I sleep with you in your bed? All right.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Daddy, can I sleep with you in your bed tonight? Oh, honey, you don't want to sleep in my bed, do you? I guess not.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
-              }
-            ]
-          },
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Get out now, or be another notch on my spray gun.",
-            "count": 1,
-            "intensity": 2,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Get out now, or be another notch on my spray gun.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
               }
             ]
           }
@@ -740,8 +673,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — \" Steph, did you make that noise? Why would I make a noise that's scaring me to death? Could I sleep with you in your bed? All right.",
-        "Violence & injury — Get out now, or be another notch on my spray gun."
+        "Sex & hookups — “\" Steph, did you make that noise? Why would I make a noise that's scaring me to death? Could I sleep with you in your bed? All right.”"
       ],
       "notes": null,
       "flags": [],
@@ -755,7 +687,7 @@
       "index_title": "Sisterly Love",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e13",
       "file": "transcripts/full-house/s01e13-sisterly-love.txt",
-      "summary": null,
+      "summary": "D.J. and Stephanie fight over a cereal commercial.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -775,16 +707,16 @@
           {
             "theme": "Fat-shaming",
             "group": "bias",
-            "how": "You don't want a corned-beef sandwich on rye? It's extra fatty.",
+            "how": "“You don't want a corned-beef sandwich on rye? It's extra fatty.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You don't want a corned-beef sandwich on rye? It's extra fatty.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -796,7 +728,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Fat-shaming — You don't want a corned-beef sandwich on rye? It's extra fatty."
+        "Fat-shaming — “You don't want a corned-beef sandwich on rye? It's extra fatty.”"
       ],
       "notes": null,
       "flags": [],
@@ -810,7 +742,7 @@
       "index_title": "Half A Love Story",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e14",
       "file": "transcripts/full-house/s01e14-half-a-love-story.txt",
-      "summary": null,
+      "summary": "Jesse meets Danny's co-worker Robin at the station, and uses Michelle to get a date with Robin. Complications arise when Jesse's \"friend\" Jill turns up for a date with Jesse too.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -831,16 +763,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "There's something about a man with a baby that's so sexy and so hard to resist.",
+            "how": "“There's something about a man with a baby that's so sexy and so hard to resist.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "There's something about a man with a baby that's so sexy and so hard to resist.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -849,24 +781,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Yesterday, Michelle picked the Warriors by five, and son of a gun.",
+            "how": "“Yesterday, Michelle picked the Warriors by five, and son of a gun.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Yesterday, Michelle picked the Warriors by five, and son of a gun.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Son of a gun if they didn't win 106 to 101.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -880,16 +812,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "We've got water coming out our ears! Municipal and industrial users in Northern California, have mercy.",
+            "how": "“We've got water coming out our ears! Municipal and industrial users in Northern California, have mercy.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "We've got water coming out our ears! Municipal and industrial users in Northern California, have mercy.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -899,8 +831,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — There's something about a man with a baby that's so sexy and so hard to resist.",
-        "Violence & injury — Yesterday, Michelle picked the Warriors by five, and son of a gun."
+        "Sex & hookups — “There's something about a man with a baby that's so sexy and so hard to resist.”",
+        "Violence & injury — “Yesterday, Michelle picked the Warriors by five, and son of a gun.”"
       ],
       "notes": null,
       "flags": [],
@@ -914,7 +846,7 @@
       "index_title": "A Pox in Our House",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e15",
       "file": "transcripts/full-house/s01e15-a-pox-in-our-house.txt",
-      "summary": null,
+      "summary": "Joey, Jesse and Stephanie has chickenpox.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -946,7 +878,7 @@
       "index_title": "But Seriously, Folks",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e16",
       "file": "transcripts/full-house/s01e16-but-seriously-folks.txt",
-      "summary": null,
+      "summary": "Joey quits comedy after failing at stand up.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -965,16 +897,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "This is comedy murder.",
+            "how": "“This is comedy murder.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "This is comedy murder.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               }
@@ -986,7 +918,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — This is comedy murder."
+        "Violence & injury — “This is comedy murder.”"
       ],
       "notes": null,
       "flags": [],
@@ -1000,7 +932,7 @@
       "index_title": "Danny's Very First Date",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e17",
       "file": "transcripts/full-house/s01e17-danny-s-very-first-date.txt",
-      "summary": null,
+      "summary": "Danny struggles to work up the courage to ask Linda, Stephanie's Honeybee troop leader, on a date. He then has no idea how to explain to the girls.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1020,16 +952,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "This sweet, young child is your own flesh and blood.",
+            "how": "“This sweet, young child is your own flesh and blood.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "This sweet, young child is your own flesh and blood.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -1041,7 +973,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — This sweet, young child is your own flesh and blood."
+        "Violence & injury — “This sweet, young child is your own flesh and blood.”"
       ],
       "notes": null,
       "flags": [],
@@ -1055,7 +987,7 @@
       "index_title": "Just One of the Guys",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e18",
       "file": "transcripts/full-house/s01e18-just-one-of-the-guys.txt",
-      "summary": null,
+      "summary": "When Cousin Steve from Baltimore arrives to visit colleges, DJ gets jealous when he starts spending so much time with Danny, Joey, and Uncle Jesse.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1075,16 +1007,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "You see, it's in our blood.",
+            "how": "“You see, it's in our blood.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You see, it's in our blood.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -1096,7 +1028,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — You see, it's in our blood."
+        "Violence & injury — “You see, it's in our blood.”"
       ],
       "notes": null,
       "flags": [],
@@ -1110,7 +1042,7 @@
       "index_title": "The Seven-Month Itch (1)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e19",
       "file": "transcripts/full-house/s01e19-the-seven-month-itch-1.txt",
-      "summary": null,
+      "summary": "Jesse wants to move on with his life.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1130,16 +1062,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Sammy, brought you some champagne.",
+            "how": "“Sammy, brought you some champagne.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Sammy, brought you some champagne.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1151,7 +1083,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Sammy, brought you some champagne."
+        "Alcohol & drugs — “Sammy, brought you some champagne.”"
       ],
       "notes": null,
       "flags": [],
@@ -1165,7 +1097,7 @@
       "index_title": "The Seven-Month Itch (2)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e20",
       "file": "transcripts/full-house/s01e20-the-seven-month-itch-2.txt",
-      "summary": null,
+      "summary": "Jesse decides to stay with the Tanners.",
       "violence": 1,
       "sex": 1,
       "language": 2,
@@ -1197,7 +1129,7 @@
       "index_title": "Mad Money",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e21",
       "file": "transcripts/full-house/s01e21-mad-money.txt",
-      "summary": null,
+      "summary": "Joey gets his trust fund. Jesse has a job as an Elvis impersonator.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1218,24 +1150,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "I need a knife.",
+            "how": "“I need a knife.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I need a knife.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "First, my friend, we start with a clean knife.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -1244,16 +1176,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Now, if you're real good, next year you get the little baby weed whacker.",
+            "how": "“Now, if you're real good, next year you get the little baby weed whacker.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Now, if you're real good, next year you get the little baby weed whacker.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -1265,8 +1197,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — I need a knife.",
-        "Alcohol & drugs — Now, if you're real good, next year you get the little baby weed whacker."
+        "Violence & injury — “I need a knife.”",
+        "Alcohol & drugs — “Now, if you're real good, next year you get the little baby weed whacker.”"
       ],
       "notes": null,
       "flags": [],
@@ -1280,7 +1212,7 @@
       "index_title": "D.J. Tanners's Day Off",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s01e22",
       "file": "transcripts/full-house/s01e22-d-j-tanners-s-day-off.txt",
-      "summary": null,
+      "summary": "D.J. cuts school to get an autograph.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1312,7 +1244,7 @@
       "index_title": "1. Cutting It Close",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e01",
       "file": "transcripts/full-house/s02e01-cutting-it-close.txt",
-      "summary": null,
+      "summary": "When Stephanie accidentally cuts Uncle Jesse's hair while playing Beauty Parlor, he absentmindedly rides off to have his regular stylist fix his hair. As a result, Jesse gets in an accident where he breaks his arms, causing Stephanie to feel extremely guilt ridden about what she did.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1332,16 +1264,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "You're gonna need a weed whacker for that bush.",
+            "how": "“You're gonna need a weed whacker for that bush.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You're gonna need a weed whacker for that bush.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -1353,7 +1285,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — You're gonna need a weed whacker for that bush."
+        "Alcohol & drugs — “You're gonna need a weed whacker for that bush.”"
       ],
       "notes": null,
       "flags": [],
@@ -1367,7 +1299,7 @@
       "index_title": "2. Tanner vs. Gibbler",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e02",
       "file": "transcripts/full-house/s02e02-tanner-vs-gibbler.txt",
-      "summary": null,
+      "summary": "D.J. and Kimmy rival about the birthday party.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1387,24 +1319,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Nobody was in their underwear.",
+            "how": "“Nobody was in their underwear.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Nobody was in their underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "When you're in your underwear, I knock.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1416,7 +1348,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Nobody was in their underwear."
+        "Nudity & bodies — “Nobody was in their underwear.”"
       ],
       "notes": null,
       "flags": [],
@@ -1430,7 +1362,7 @@
       "index_title": "3. It's Not My Job",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e03",
       "file": "transcripts/full-house/s02e03-it-s-not-my-job.txt",
-      "summary": null,
+      "summary": "Jesse wants to quit his father's business to do music full time.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1462,7 +1394,7 @@
       "index_title": "4. D.J.'s Very First Horse",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e04",
       "file": "transcripts/full-house/s02e04-d-j-s-very-first-horse.txt",
-      "summary": null,
+      "summary": "D.J. and Kimmy buy a horse. Jesse strikes out in his attempts to date Rebecca.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1494,7 +1426,7 @@
       "index_title": "5. Jingle Hell",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e05",
       "file": "transcripts/full-house/s02e05-jingle-hell.txt",
-      "summary": null,
+      "summary": "Jesse and Joey start working together, while D.J. and Stephanie fight because Stephanie breaks some of D.J.'s stuff.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -1513,16 +1445,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "And you stabbed me in the back with it.",
+            "how": "“And you stabbed me in the back with it.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "And you stabbed me in the back with it.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               }
@@ -1534,7 +1466,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — And you stabbed me in the back with it."
+        "Violence & injury — “And you stabbed me in the back with it.”"
       ],
       "notes": null,
       "flags": [],
@@ -1548,7 +1480,7 @@
       "index_title": "6. Beach Boy Bingo",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e06",
       "file": "transcripts/full-house/s02e06-beach-boy-bingo.txt",
-      "summary": null,
+      "summary": "The Beach Boys are in town and D.J. wins a radio contest where she and a guest can see the Beach Boys in concert. Problem is, Danny, Jesse and Joey want to go and D.J. has to decide who will go with her. When she makes her decision, Danny has hurt feelings because he isn't chosen. Now D.J. is upset because of that and she doesn't know what to do.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1580,7 +1512,7 @@
       "index_title": "7. Joey Gets Tough",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e07",
       "file": "transcripts/full-house/s02e07-joey-gets-tough.txt",
-      "summary": null,
+      "summary": "When Jesse's band gets a gig in a downtown club, he convinces Danny and his producer to be a guest on Wake Up, San Francisco to get some publicity. Meanwhile, Joey is in charge of things at home while Danny and Jesse are busy with their segment on the show. DJ and Stephanie are happy about this, until he has to show some tough love when DJ fails to let him know she was going to come home late from karate practice.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1600,16 +1532,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Stick to your guns.",
+            "how": "“Stick to your guns.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Stick to your guns.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -1621,7 +1553,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Stick to your guns."
+        "Violence & injury — “Stick to your guns.”"
       ],
       "notes": null,
       "flags": [],
@@ -1635,7 +1567,7 @@
       "index_title": "8. Triple Date",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e08",
       "file": "transcripts/full-house/s02e08-triple-date.txt",
-      "summary": null,
+      "summary": "Danny has a date with a woman he met at the market and also got blind dates for Joey and Jesse.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1667,7 +1599,7 @@
       "index_title": "9. Our Very First Christmas Show",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e09",
       "file": "transcripts/full-house/s02e09-our-very-first-christmas-show.txt",
-      "summary": null,
+      "summary": "The Tanners spend Christmas at an airport.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1687,16 +1619,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "It's a magic land where people sit in seats as big as sofas and eat shrimp cocktail.",
+            "how": "“It's a magic land where people sit in seats as big as sofas and eat shrimp cocktail.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "It's a magic land where people sit in seats as big as sofas and eat shrimp cocktail.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1708,7 +1640,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — It's a magic land where people sit in seats as big as sofas and eat shrimp cocktail."
+        "Alcohol & drugs — “It's a magic land where people sit in seats as big as sofas and eat shrimp cocktail.”"
       ],
       "notes": null,
       "flags": [],
@@ -1722,7 +1654,7 @@
       "index_title": "Middle Age Crazy",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e10",
       "file": "transcripts/full-house/s02e10-middle-age-crazy.txt",
-      "summary": null,
+      "summary": "Stephanie feels left out because D.J. and Michelle gets more attention than her.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1754,7 +1686,7 @@
       "index_title": "A Little Romance",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e11",
       "file": "transcripts/full-house/s02e11-a-little-romance.txt",
-      "summary": null,
+      "summary": "The guys are auction as dates. D.J. gets her first heart broken by a boy.",
       "violence": 1,
       "sex": 2,
       "language": 1,
@@ -1775,24 +1707,24 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Go sleep with Michelle.",
+            "how": "“Go sleep with Michelle.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Go sleep with Michelle.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "So, Nick, how are the kids? Well, Steph had to sleep with Michelle because D.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -1801,16 +1733,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I took the liberty of buying you some champagne.",
+            "how": "“I took the liberty of buying you some champagne.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I took the liberty of buying you some champagne.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -1822,8 +1754,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Go sleep with Michelle.",
-        "Alcohol & drugs — I took the liberty of buying you some champagne."
+        "Sex & hookups — “Go sleep with Michelle.”",
+        "Alcohol & drugs — “I took the liberty of buying you some champagne.”"
       ],
       "notes": null,
       "flags": [],
@@ -1837,7 +1769,7 @@
       "index_title": "Fogged In",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e12",
       "file": "transcripts/full-house/s02e12-fogged-in.txt",
-      "summary": null,
+      "summary": "The Tanners are stuck in the house because of the fog.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1869,7 +1801,7 @@
       "index_title": "Working Mothers",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e13",
       "file": "transcripts/full-house/s02e13-working-mothers.txt",
-      "summary": null,
+      "summary": "Joey and Jesse gets a full time job. The girls are not too happy about it.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1889,16 +1821,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "This is the last time I buy champagne in a can.",
+            "how": "“This is the last time I buy champagne in a can.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "This is the last time I buy champagne in a can.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -1910,7 +1842,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — This is the last time I buy champagne in a can."
+        "Alcohol & drugs — “This is the last time I buy champagne in a can.”"
       ],
       "notes": null,
       "flags": [],
@@ -1924,7 +1856,7 @@
       "index_title": "Little Shop of Sweaters",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e14",
       "file": "transcripts/full-house/s02e14-little-shop-of-sweaters.txt",
-      "summary": null,
+      "summary": "D.J. gets a sweater she wanted and it gets destroyed at school.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1944,16 +1876,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "…are you doing eating with your hands? Someday you're gonna be invited to the White House to eat fruit cocktail with the president and if you eat with your fingers there's a chance you'll gross out the commander in…",
+            "how": "“…are you doing eating with your hands? Someday you're gonna be invited to the White House to eat fruit cocktail with the president and if you eat with your fingers there's a chance you'll gross out the commander in…”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "…are you doing eating with your hands? Someday you're gonna be invited to the White House to eat fruit cocktail with the president and if you eat with your fingers there's a chance you'll gross out the commander in…",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -1965,7 +1897,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — …are you doing eating with your hands? Someday you're gonna be invited to the White House to eat fruit cocktail with the president and if you eat with your fingers there's a chance you'll gross out the commander in…"
+        "Alcohol & drugs — “…are you doing eating with your hands? Someday you're gonna be invited to the White House to eat fruit cocktail with the president and if you eat with your fingers there's a chance you'll gross out the commander in…”"
       ],
       "notes": null,
       "flags": [],
@@ -1979,7 +1911,7 @@
       "index_title": "Pal Joey",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e15",
       "file": "transcripts/full-house/s02e15-pal-joey.txt",
-      "summary": null,
+      "summary": "Joey and Danny recall the day they first met.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2011,7 +1943,7 @@
       "index_title": "Baby Love",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e16",
       "file": "transcripts/full-house/s02e16-baby-love.txt",
-      "summary": null,
+      "summary": "Michelle develops a crush on Rebecca's nephew.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2031,16 +1963,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Chill that champagne, pal.",
+            "how": "“Chill that champagne, pal.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Chill that champagne, pal.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2052,7 +1984,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — Chill that champagne, pal."
+        "Alcohol & drugs — “Chill that champagne, pal.”"
       ],
       "notes": null,
       "flags": [],
@@ -2066,7 +1998,7 @@
       "index_title": "El Problema Grande de D.J.",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e17",
       "file": "transcripts/full-house/s02e17-el-problema-grande-de-d-j.txt",
-      "summary": null,
+      "summary": "D.J. is having trouble with her spanish. Michelle gets auditioned by a marshmallow commercial.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2086,32 +2018,32 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "We're gonna take a field trip to the cafeteria to learn the Spanish words for knife, fork and mystery meat.",
+            "how": "“We're gonna take a field trip to the cafeteria to learn the Spanish words for knife, fork and mystery meat.”",
             "count": 3,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "We're gonna take a field trip to the cafeteria to learn the Spanish words for knife, fork and mystery meat.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You beat them to the punchline.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Why not? I beat up the first guy who said something.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2123,7 +2055,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — We're gonna take a field trip to the cafeteria to learn the Spanish words for knife, fork and mystery meat."
+        "Violence & injury — “We're gonna take a field trip to the cafeteria to learn the Spanish words for knife, fork and mystery meat.”"
       ],
       "notes": null,
       "flags": [],
@@ -2137,7 +2069,7 @@
       "index_title": "Goodbye, Mr. Bear",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e18",
       "file": "transcripts/full-house/s02e18-goodbye-mr-bear.txt",
-      "summary": null,
+      "summary": "Mr. Bear gets lost and the family remembers the one person that they all lost.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2169,7 +2101,7 @@
       "index_title": "Blast from the Past",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e19",
       "file": "transcripts/full-house/s02e19-blast-from-the-past.txt",
-      "summary": null,
+      "summary": "Joey's old girlfriend from college returns into his life.",
       "violence": 1,
       "sex": 2,
       "language": 1,
@@ -2190,24 +2122,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.",
+            "how": "“Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I was not buck-naked.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2216,16 +2148,16 @@
           {
             "theme": "Slut-shaming",
             "group": "bias",
-            "how": "Well, Lady and The Tramp was the most romantic cartoon ever made.",
+            "how": "“Well, Lady and The Tramp was the most romantic cartoon ever made.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Well, Lady and The Tramp was the most romantic cartoon ever made.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -2237,8 +2169,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.",
-        "Slut-shaming — Well, Lady and The Tramp was the most romantic cartoon ever made."
+        "Nudity & bodies — “Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.”",
+        "Slut-shaming — “Well, Lady and The Tramp was the most romantic cartoon ever made.”"
       ],
       "notes": null,
       "flags": [],
@@ -2252,7 +2184,7 @@
       "index_title": "I'm There for You, Babe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e20",
       "file": "transcripts/full-house/s02e20-i-m-there-for-you-babe.txt",
-      "summary": null,
+      "summary": "It's Jesse birthday and everyone's giving him a full day's work.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2272,16 +2204,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "There's no way to beat her, is there? No, not really.",
+            "how": "“There's no way to beat her, is there? No, not really.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "There's no way to beat her, is there? No, not really.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2293,7 +2225,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — There's no way to beat her, is there? No, not really."
+        "Violence & injury — “There's no way to beat her, is there? No, not really.”"
       ],
       "notes": null,
       "flags": [],
@@ -2307,7 +2239,7 @@
       "index_title": "Luck Be a Lady (1)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e21",
       "file": "transcripts/full-house/s02e21-luck-be-a-lady-1.txt",
-      "summary": null,
+      "summary": "When Danny and Becky get to film some special episodes of Wake Up, San Francisco in Lake Tahoe, Danny decides to take the family along for a vacation. While there, Becky and Jesse hastily decide to elope.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2327,16 +2259,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Right before she punched me admit it, you were jealous.",
+            "how": "“Right before she punched me admit it, you were jealous.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Right before she punched me admit it, you were jealous.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2348,7 +2280,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Right before she punched me admit it, you were jealous."
+        "Violence & injury — “Right before she punched me admit it, you were jealous.”"
       ],
       "notes": null,
       "flags": [],
@@ -2362,7 +2294,7 @@
       "index_title": "Luck Be a Lady (2)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s02e22",
       "file": "transcripts/full-house/s02e22-luck-be-a-lady-2.txt",
-      "summary": null,
+      "summary": "Upon learning that Jesse and Becky plan to elope, Danny and Joey try to convince them to wait. However, as the big event draws near, Becky gets cold feet.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2383,16 +2315,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Yeah, well, if you call a fractured rib beat up.",
+            "how": "“Yeah, well, if you call a fractured rib beat up.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Yeah, well, if you call a fractured rib beat up.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2401,16 +2333,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "Fruit cocktail.",
+            "how": "“Fruit cocktail.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Fruit cocktail.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2422,8 +2354,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Yeah, well, if you call a fractured rib beat up.",
-        "Alcohol & drugs — Fruit cocktail."
+        "Violence & injury — “Yeah, well, if you call a fractured rib beat up.”",
+        "Alcohol & drugs — “Fruit cocktail.”"
       ],
       "notes": null,
       "flags": [],
@@ -2437,7 +2369,7 @@
       "index_title": "1. Tanner's Island",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e01",
       "file": "transcripts/full-house/s03e01-tanner-s-island.txt",
-      "summary": null,
+      "summary": "The Tanners celebrate their family life of two years by going to Hawaii.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2457,16 +2389,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Yeah! -All righy! Hawaii? I love their punch.",
+            "how": "“Yeah! -All righy! Hawaii? I love their punch.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Yeah! -All righy! Hawaii? I love their punch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2478,7 +2410,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Yeah! -All righy! Hawaii? I love their punch."
+        "Violence & injury — “Yeah! -All righy! Hawaii? I love their punch.”"
       ],
       "notes": null,
       "flags": [],
@@ -2492,7 +2424,7 @@
       "index_title": "2. Back to School Blues",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e02",
       "file": "transcripts/full-house/s03e02-back-to-school-blues.txt",
-      "summary": null,
+      "summary": "As the new school year begins, seventh grade causes problems for D.J.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2512,16 +2444,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "My dad eats his breakfast in his underwear.",
+            "how": "“My dad eats his breakfast in his underwear.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "My dad eats his breakfast in his underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2533,7 +2465,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — My dad eats his breakfast in his underwear."
+        "Nudity & bodies — “My dad eats his breakfast in his underwear.”"
       ],
       "notes": null,
       "flags": [],
@@ -2547,7 +2479,7 @@
       "index_title": "3. Breaking up is Hard to Do (in 22 Minutes)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e03",
       "file": "transcripts/full-house/s03e03-breaking-up-is-hard-to-do-in-22-minutes.txt",
-      "summary": null,
+      "summary": "Jesse and Rebecca break up and get back together.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2567,16 +2499,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Ed play in front of 50,000 screaming fans? And did Guns N' Roses ever win yhe Kenyucky Derby? All righy.",
+            "how": "“Ed play in front of 50,000 screaming fans? And did Guns N' Roses ever win yhe Kenyucky Derby? All righy.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Ed play in front of 50,000 screaming fans? And did Guns N' Roses ever win yhe Kenyucky Derby? All righy.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -2588,7 +2520,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Ed play in front of 50,000 screaming fans? And did Guns N' Roses ever win yhe Kenyucky Derby? All righy."
+        "Violence & injury — “Ed play in front of 50,000 screaming fans? And did Guns N' Roses ever win yhe Kenyucky Derby? All righy.”"
       ],
       "notes": null,
       "flags": [],
@@ -2602,7 +2534,7 @@
       "index_title": "4. Nerd for a Day",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e04",
       "file": "transcripts/full-house/s03e04-nerd-for-a-day.txt",
-      "summary": null,
+      "summary": "Stephanie and her class made fun of a classmate that they called Duckface. Stephanie realizes how terrible it was after her friends made fun of her.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2622,16 +2554,16 @@
           {
             "theme": "Suicide & self-harm",
             "group": "violence",
-            "how": "\" I kill myself! -Syephanie.",
+            "how": "“\" I kill myself! -Syephanie.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\" I kill myself! -Syephanie.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -2643,7 +2575,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Suicide & self-harm — \" I kill myself! -Syephanie."
+        "Suicide & self-harm — “\" I kill myself! -Syephanie.”"
       ],
       "notes": null,
       "flags": [],
@@ -2657,7 +2589,7 @@
       "index_title": "5. Granny Tanny",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e05",
       "file": "transcripts/full-house/s03e05-granny-tanny.txt",
-      "summary": null,
+      "summary": "As the family prepares for a weekend visit by Danny's mother Claire, they discover that it's time to buy Michelle a \"big girl bed\" when she crawls out of her crib. Upon Claire's arrival, Danny urges everyone to go to his mother for help so can feel needed. However, his plan works too well, at the end of the weekend, Claire announces her intentions of moving into the Tanner house so she can help take care of everyone.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2677,16 +2609,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Oh, why don'y you jusy puy a knife yhrough my heary? -Thay is exacyly whay she's gonna say.",
+            "how": "“Oh, why don'y you jusy puy a knife yhrough my heary? -Thay is exacyly whay she's gonna say.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Oh, why don'y you jusy puy a knife yhrough my heary? -Thay is exacyly whay she's gonna say.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -2698,7 +2630,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Oh, why don'y you jusy puy a knife yhrough my heary? -Thay is exacyly whay she's gonna say."
+        "Violence & injury — “Oh, why don'y you jusy puy a knife yhrough my heary? -Thay is exacyly whay she's gonna say.”"
       ],
       "notes": null,
       "flags": [],
@@ -2712,7 +2644,7 @@
       "index_title": "6. Star Search",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e06",
       "file": "transcripts/full-house/s03e06-star-search.txt",
-      "summary": null,
+      "summary": "After stumbling upon an old video of his college talk show, Danny shows it his family. As Joey watches, he realizes that his aspiration of becoming a famous comedian in 10 years is rapidly approaching and tries to fast track his dream. When he is about to call it quits, Danny surprises him with a big break: having a chance to appear on Star Search.",
       "violence": 2,
       "sex": 1,
       "language": 2,
@@ -2732,16 +2664,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "\" Of course, he knocks Bluyo for one big, solid punch.",
+            "how": "“\" Of course, he knocks Bluyo for one big, solid punch.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\" Of course, he knocks Bluyo for one big, solid punch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2753,7 +2685,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — \" Of course, he knocks Bluyo for one big, solid punch."
+        "Violence & injury — “\" Of course, he knocks Bluyo for one big, solid punch.”"
       ],
       "notes": null,
       "flags": [],
@@ -2767,7 +2699,7 @@
       "index_title": "7. And They Call It Puppy Love",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e07",
       "file": "transcripts/full-house/s03e07-and-they-call-it-puppy-love.txt",
-      "summary": null,
+      "summary": "A stray dog finds its way into the Tanner's back yard, so naturally DJ, Stephanie, and Michelle want to keep her. When the family discovers that she's pregnant and about to have puppies, she takes a liking to Jesse's room and ultimately has her puppies there. Upon locating the dog's owner, as a way to say thanks, he tells Danny that they can keep one of the puppies.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2787,16 +2719,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "My leopard underwear! That's why we don't.",
+            "how": "“My leopard underwear! That's why we don't.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "My leopard underwear! That's why we don't.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2808,7 +2740,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — My leopard underwear! That's why we don't."
+        "Nudity & bodies — “My leopard underwear! That's why we don't.”"
       ],
       "notes": null,
       "flags": [],
@@ -2822,7 +2754,7 @@
       "index_title": "8. Divorce Court",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e08",
       "file": "transcripts/full-house/s03e08-divorce-court.txt",
-      "summary": null,
+      "summary": "D.J. and Stephanie refuse to share a room any longer; Danny is forced to play mediator.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2843,16 +2775,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Underwear a little tight, boys? We were playing fooyball wiyh Michelle.",
+            "how": "“Underwear a little tight, boys? We were playing fooyball wiyh Michelle.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Underwear a little tight, boys? We were playing fooyball wiyh Michelle.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2861,16 +2793,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Let's play guns.",
+            "how": "“Let's play guns.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Let's play guns.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -2884,16 +2816,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "You're not coming out until you get along.",
+            "how": "“You're not coming out until you get along.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You're not coming out until you get along.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -2903,8 +2835,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Underwear a little tight, boys? We were playing fooyball wiyh Michelle.",
-        "Violence & injury — Let's play guns."
+        "Nudity & bodies — “Underwear a little tight, boys? We were playing fooyball wiyh Michelle.”",
+        "Violence & injury — “Let's play guns.”"
       ],
       "notes": null,
       "flags": [],
@@ -2918,7 +2850,7 @@
       "index_title": "9. Dr. Dare Rides Again",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e09",
       "file": "transcripts/full-house/s03e09-dr-dare-rides-again.txt",
-      "summary": null,
+      "summary": "With Danny and Becky out of town working on an episode of their talk show, Jesse gets a visit from an old, wild friend named Pete Bianco. When Pete notices how much Jesse changed now that he's living with Danny, Joey, and his nieces, he gives Jesse some good natured ribbing. However, not liking Pete's tone, Jesse tries to prove he's the same fun-loving guy Pete remembers.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2950,7 +2882,7 @@
       "index_title": "The Greatest Birthday on Earth",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e10",
       "file": "transcripts/full-house/s03e10-the-greatest-birthday-on-earth.txt",
-      "summary": null,
+      "summary": "It's Michelle's third birthday and things don't go as planned.",
       "violence": 1,
       "sex": 2,
       "language": 1,
@@ -2970,24 +2902,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "She goy my underwear.",
+            "how": "“She goy my underwear.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "She goy my underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Help! I'm naked, I'm naked! That's funny.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -2999,7 +2931,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — She goy my underwear."
+        "Nudity & bodies — “She goy my underwear.”"
       ],
       "notes": null,
       "flags": [],
@@ -3013,7 +2945,7 @@
       "index_title": "Aftershocks",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e11",
       "file": "transcripts/full-house/s03e11-aftershocks.txt",
-      "summary": null,
+      "summary": "Stephanie suddenly becomes very possessive of her dad; D.J. gets her first blemish.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3033,16 +2965,16 @@
           {
             "theme": "Suicide & self-harm",
             "group": "violence",
-            "how": "I kill myself.",
+            "how": "“I kill myself.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I kill myself.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               }
@@ -3054,7 +2986,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Suicide & self-harm — I kill myself."
+        "Suicide & self-harm — “I kill myself.”"
       ],
       "notes": null,
       "flags": [],
@@ -3068,7 +3000,7 @@
       "index_title": "Joey & Stacy and ... Oh, Yeah, Jesse",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e12",
       "file": "transcripts/full-house/s03e12-joey-stacy-and-oh-yeah-jesse.txt",
-      "summary": null,
+      "summary": "Joey's new girlfirend thinks he should be more aggressive.",
       "violence": 2,
       "sex": 2,
       "language": 1,
@@ -3090,16 +3022,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "You know, ever since you've hooked up wiyh Yoko over here you've changed, and noy for yhe beyyer.",
+            "how": "“You know, ever since you've hooked up wiyh Yoko over here you've changed, and noy for yhe beyyer.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You know, ever since you've hooked up wiyh Yoko over here you've changed, and noy for yhe beyyer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -3108,24 +3040,24 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Bear is naked.",
+            "how": "“Bear is naked.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Bear is naked.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Thay's noy your regular underwear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3134,24 +3066,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "He stabbed me right in the back right in front of my face.",
+            "how": "“He stabbed me right in the back right in front of my face.”",
             "count": 2,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "He stabbed me right in the back right in front of my face.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You syuck yo your guns, and iy paid off.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -3163,9 +3095,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — You know, ever since you've hooked up wiyh Yoko over here you've changed, and noy for yhe beyyer.",
-        "Nudity & bodies — Bear is naked.",
-        "Violence & injury — He stabbed me right in the back right in front of my face."
+        "Sex & hookups — “You know, ever since you've hooked up wiyh Yoko over here you've changed, and noy for yhe beyyer.”",
+        "Nudity & bodies — “Bear is naked.”",
+        "Violence & injury — “He stabbed me right in the back right in front of my face.”"
       ],
       "notes": null,
       "flags": [],
@@ -3179,7 +3111,7 @@
       "index_title": "No More Mr. Dumb Guy",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e13",
       "file": "transcripts/full-house/s03e13-no-more-mr-dumb-guy.txt",
-      "summary": null,
+      "summary": "Feeling threatened by Becky's smart friends when she and Danny do a culture week on their talk show, Jesse turns to Joey for help in proving he's smart enough to have a relationship with her.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3199,16 +3131,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "It's Jesse! You see that? I beat him! Congrayulayions.",
+            "how": "“It's Jesse! You see that? I beat him! Congrayulayions.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "It's Jesse! You see that? I beat him! Congrayulayions.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3220,7 +3152,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — It's Jesse! You see that? I beat him! Congrayulayions."
+        "Violence & injury — “It's Jesse! You see that? I beat him! Congrayulayions.”"
       ],
       "notes": null,
       "flags": [],
@@ -3234,7 +3166,7 @@
       "index_title": "Misadventures in Baby-Sitting",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e14",
       "file": "transcripts/full-house/s03e14-misadventures-in-baby-sitting.txt",
-      "summary": null,
+      "summary": "D.J.'s baby-sitting job is made no easier by the child she is looking after.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3266,7 +3198,7 @@
       "index_title": "Lust in the Dust",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e15",
       "file": "transcripts/full-house/s03e15-lust-in-the-dust.txt",
-      "summary": null,
+      "summary": "Danny's budding romance with Stephanie's dancing instructor flounders after he glimpses her untidy home.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3298,7 +3230,7 @@
       "index_title": "Bye, Bye Birdie",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e16",
       "file": "transcripts/full-house/s03e16-bye-bye-birdie.txt",
-      "summary": null,
+      "summary": "Michelle is too eager to sleep the night before her first day of preschool, and when she finally arrives in the classroom the next morning her happiness is squashed when she is involved in an unfortunate incident with the class bird.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3330,7 +3262,7 @@
       "index_title": "13 Candles",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e17",
       "file": "transcripts/full-house/s03e17-13-candles.txt",
-      "summary": null,
+      "summary": "It's D.J.'s 13th birthday. She has a boy-girl party and her friends decides to play a game of spin the bottle.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3350,24 +3282,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Well, I'm gonna go get some punch.",
+            "how": "“Well, I'm gonna go get some punch.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Well, I'm gonna go get some punch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "How about some aspirin? -I'll go get some more punch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3379,7 +3311,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Well, I'm gonna go get some punch."
+        "Violence & injury — “Well, I'm gonna go get some punch.”"
       ],
       "notes": null,
       "flags": [],
@@ -3393,7 +3325,7 @@
       "index_title": "Mr. Egghead",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e18",
       "file": "transcripts/full-house/s03e18-mr-egghead.txt",
-      "summary": null,
+      "summary": "Joey has a chance to host a show called Mr. Egghead.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3425,7 +3357,7 @@
       "index_title": "Those Better Not be the Days",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e19",
       "file": "transcripts/full-house/s03e19-those-better-not-be-the-days.txt",
-      "summary": null,
+      "summary": "The guys fear that they have to wait on the girls for life without appreciation.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3457,7 +3389,7 @@
       "index_title": "Honey, I Broke the House",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e20",
       "file": "transcripts/full-house/s03e20-honey-i-broke-the-house.txt",
-      "summary": null,
+      "summary": "Stephanie takes a ride in Joey's new car only to back up and slam into the house.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3489,7 +3421,7 @@
       "index_title": "Just Say No Way",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e21",
       "file": "transcripts/full-house/s03e21-just-say-no-way.txt",
-      "summary": null,
+      "summary": "D.J. hosts a school party where there was drinking.",
       "violence": 2,
       "sex": 2,
       "language": 1,
@@ -3511,16 +3443,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Abouy-- Abouy drugs, and abouy sex and who knows whay.",
+            "how": "“Abouy-- Abouy drugs, and abouy sex and who knows whay.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Abouy-- Abouy drugs, and abouy sex and who knows whay.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -3529,16 +3461,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "I'm jusy gonna gey some punch.",
+            "how": "“I'm jusy gonna gey some punch.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'm jusy gonna gey some punch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3547,24 +3479,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "You're drinking beer? Yeah, it tastes horrible.",
+            "how": "“You're drinking beer? Yeah, it tastes horrible.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You're drinking beer? Yeah, it tastes horrible.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You guys aren'y supposed yo be drinking beer.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3576,9 +3508,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Abouy-- Abouy drugs, and abouy sex and who knows whay.",
-        "Violence & injury — I'm jusy gonna gey some punch.",
-        "Alcohol & drugs — You're drinking beer? Yeah, it tastes horrible."
+        "Sex & hookups — “Abouy-- Abouy drugs, and abouy sex and who knows whay.”",
+        "Violence & injury — “I'm jusy gonna gey some punch.”",
+        "Alcohol & drugs — “You're drinking beer? Yeah, it tastes horrible.”"
       ],
       "notes": null,
       "flags": [],
@@ -3592,7 +3524,7 @@
       "index_title": "Three Men and Another Baby",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e22",
       "file": "transcripts/full-house/s03e22-three-men-and-another-baby.txt",
-      "summary": null,
+      "summary": "The guys babysit a baby and Jesse is the favorite to the baby. Michelle thinks Jesse don't like her anymore because she's a little older.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3624,7 +3556,7 @@
       "index_title": "Fraternity Reunion",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e23",
       "file": "transcripts/full-house/s03e23-fraternity-reunion.txt",
-      "summary": null,
+      "summary": "Danny and Joey pull a prank at a high school reunion and they end up getting arrested.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3656,7 +3588,7 @@
       "index_title": "Our Very First Telethon",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s03e24",
       "file": "transcripts/full-house/s03e24-our-very-first-telethon.txt",
-      "summary": null,
+      "summary": "Danny hosts a 24 hour telethon not knowing it's a full 24 hour telethon.",
       "violence": 1,
       "sex": 1,
       "language": 2,
@@ -3688,7 +3620,7 @@
       "index_title": "1. Greek Week",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e01",
       "file": "transcripts/full-house/s04e01-greek-week.txt",
-      "summary": null,
+      "summary": "Jesse's grandparents come to town. Rebecca gets jealous of one of his family members.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3708,16 +3640,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "THANK YOU VERY MUCH, BUT WE BROUGHT OUR OWN UNDERWEAR.",
+            "how": "“THANK YOU VERY MUCH, BUT WE BROUGHT OUR OWN UNDERWEAR.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "THANK YOU VERY MUCH, BUT WE BROUGHT OUR OWN UNDERWEAR.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -3729,7 +3661,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — THANK YOU VERY MUCH, BUT WE BROUGHT OUR OWN UNDERWEAR."
+        "Nudity & bodies — “THANK YOU VERY MUCH, BUT WE BROUGHT OUR OWN UNDERWEAR.”"
       ],
       "notes": null,
       "flags": [],
@@ -3743,7 +3675,7 @@
       "index_title": "2. Crimes and Michelle's Demeanor",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e02",
       "file": "transcripts/full-house/s04e02-crimes-and-michelle-s-demeanor.txt",
-      "summary": null,
+      "summary": "Danny lets Michelle do whatever she wants.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3763,16 +3695,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "I'LL BET YOU FIVE MARSHMALLOWS AT LEAST ONE GUY FROM GUNS 'N ROSES FALLS OFF THE STAGE.",
+            "how": "“I'LL BET YOU FIVE MARSHMALLOWS AT LEAST ONE GUY FROM GUNS 'N ROSES FALLS OFF THE STAGE.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'LL BET YOU FIVE MARSHMALLOWS AT LEAST ONE GUY FROM GUNS 'N ROSES FALLS OFF THE STAGE.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -3784,7 +3716,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — I'LL BET YOU FIVE MARSHMALLOWS AT LEAST ONE GUY FROM GUNS 'N ROSES FALLS OFF THE STAGE."
+        "Violence & injury — “I'LL BET YOU FIVE MARSHMALLOWS AT LEAST ONE GUY FROM GUNS 'N ROSES FALLS OFF THE STAGE.”"
       ],
       "notes": null,
       "flags": [],
@@ -3798,7 +3730,7 @@
       "index_title": "3. The I.Q. Man",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e03",
       "file": "transcripts/full-house/s04e03-the-i-q-man.txt",
-      "summary": null,
+      "summary": "Jesse is hired as a model for an I.Q. commercial and things don't go as planned, so he and Joey quit.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3818,16 +3750,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "YOU'RE SEXY.",
+            "how": "“YOU'RE SEXY.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "YOU'RE SEXY.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -3839,7 +3771,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — YOU'RE SEXY."
+        "Sex & hookups — “YOU'RE SEXY.”"
       ],
       "notes": null,
       "flags": [],
@@ -3853,7 +3785,7 @@
       "index_title": "4. Slumber Party",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e04",
       "file": "transcripts/full-house/s04e04-slumber-party.txt",
-      "summary": null,
+      "summary": "Stephanie's honeybee has a slumber party and didn't want to go. Jesse dresses Michelle as his mini-me.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3885,7 +3817,7 @@
       "index_title": "5. Good News, Bad News",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e05",
       "file": "transcripts/full-house/s04e05-good-news-bad-news.txt",
-      "summary": null,
+      "summary": "DJ becomes editor of the school newspaper and faces backlash when she appoints Kimmy to a position for which she is unqualified.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -3904,16 +3836,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "\"POWER-HUNGRY EDITOR DONNA JO TANNER \"STABS BEST FRIEND IN BACK.",
+            "how": "“\"POWER-HUNGRY EDITOR DONNA JO TANNER \"STABS BEST FRIEND IN BACK.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "\"POWER-HUNGRY EDITOR DONNA JO TANNER \"STABS BEST FRIEND IN BACK.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               }
@@ -3925,7 +3857,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — \"POWER-HUNGRY EDITOR DONNA JO TANNER \"STABS BEST FRIEND IN BACK."
+        "Violence & injury — “\"POWER-HUNGRY EDITOR DONNA JO TANNER \"STABS BEST FRIEND IN BACK.”"
       ],
       "notes": null,
       "flags": [],
@@ -3939,7 +3871,7 @@
       "index_title": "6. A Pinch for a Pinch",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e06",
       "file": "transcripts/full-house/s04e06-a-pinch-for-a-pinch.txt",
-      "summary": null,
+      "summary": "Jesse gives Michelle bad advice on how to handle a bully.",
       "violence": 2,
       "sex": 2,
       "language": 1,
@@ -3959,16 +3891,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "THAT'S WHY I'M SLEEPING WITH MICHELLE'S NIGHT LIGHT.",
+            "how": "“THAT'S WHY I'M SLEEPING WITH MICHELLE'S NIGHT LIGHT.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "THAT'S WHY I'M SLEEPING WITH MICHELLE'S NIGHT LIGHT.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -3980,7 +3912,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — THAT'S WHY I'M SLEEPING WITH MICHELLE'S NIGHT LIGHT."
+        "Sex & hookups — “THAT'S WHY I'M SLEEPING WITH MICHELLE'S NIGHT LIGHT.”"
       ],
       "notes": null,
       "flags": [],
@@ -3994,7 +3926,7 @@
       "index_title": "7. Viva Las Joey",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e07",
       "file": "transcripts/full-house/s04e07-viva-las-joey.txt",
-      "summary": null,
+      "summary": "Joey gets the opportunity of a lifetime when he's asked to open for Wayne Newton in Las Vegas.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4015,16 +3947,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "YOU KNOW, WHENEVER THEY RECOGNIZE SOMEBODY, THEY ALWAYS DO THAT PHONY GUN-POINT THING.",
+            "how": "“YOU KNOW, WHENEVER THEY RECOGNIZE SOMEBODY, THEY ALWAYS DO THAT PHONY GUN-POINT THING.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "YOU KNOW, WHENEVER THEY RECOGNIZE SOMEBODY, THEY ALWAYS DO THAT PHONY GUN-POINT THING.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -4033,16 +3965,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "IN THE SAME NIGHT YOU CAN GET MARRIED, DIVORCED, LOSE YOUR ENTIRE LIFE SAVINGS, AND STILL GO HOME HAPPY BECAUSE HEY YOU HAD THAT 19 CENT SHRIMP COCKTAIL, YOU KNOW? THANK YOU.",
+            "how": "“IN THE SAME NIGHT YOU CAN GET MARRIED, DIVORCED, LOSE YOUR ENTIRE LIFE SAVINGS, AND STILL GO HOME HAPPY BECAUSE HEY YOU HAD THAT 19 CENT SHRIMP COCKTAIL, YOU KNOW? THANK YOU.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "IN THE SAME NIGHT YOU CAN GET MARRIED, DIVORCED, LOSE YOUR ENTIRE LIFE SAVINGS, AND STILL GO HOME HAPPY BECAUSE HEY YOU HAD THAT 19 CENT SHRIMP COCKTAIL, YOU KNOW? THANK YOU.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4054,8 +3986,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — YOU KNOW, WHENEVER THEY RECOGNIZE SOMEBODY, THEY ALWAYS DO THAT PHONY GUN-POINT THING.",
-        "Alcohol & drugs — IN THE SAME NIGHT YOU CAN GET MARRIED, DIVORCED, LOSE YOUR ENTIRE LIFE SAVINGS, AND STILL GO HOME HAPPY BECAUSE HEY YOU HAD THAT 19 CENT SHRIMP COCKTAIL, YOU KNOW? THANK YOU."
+        "Violence & injury — “YOU KNOW, WHENEVER THEY RECOGNIZE SOMEBODY, THEY ALWAYS DO THAT PHONY GUN-POINT THING.”",
+        "Alcohol & drugs — “IN THE SAME NIGHT YOU CAN GET MARRIED, DIVORCED, LOSE YOUR ENTIRE LIFE SAVINGS, AND STILL GO HOME HAPPY BECAUSE HEY YOU HAD THAT 19 CENT SHRIMP COCKTAIL, YOU KNOW? THANK YOU.”"
       ],
       "notes": null,
       "flags": [],
@@ -4069,7 +4001,7 @@
       "index_title": "8. Shape Up",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e08",
       "file": "transcripts/full-house/s04e08-shape-up.txt",
-      "summary": null,
+      "summary": "Kimmy wants a pool party for her birthday. D.J. is embarrassed by her body so she stops eating to get the shape she wants for Kimmy's party.",
       "violence": 1,
       "sex": 2,
       "language": 1,
@@ -4090,16 +4022,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "NOW HOOK UP.",
+            "how": "“NOW HOOK UP.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "NOW HOOK UP.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -4108,24 +4040,24 @@
           {
             "theme": "Fat-shaming",
             "group": "bias",
-            "how": "WHY? ARE YOU TRYING TO LOSE WEIGHT? I'VE GOT TWO WEEKS TO LOOK LIKE YOU.",
+            "how": "“WHY? ARE YOU TRYING TO LOSE WEIGHT? I'VE GOT TWO WEEKS TO LOOK LIKE YOU.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "WHY? ARE YOU TRYING TO LOSE WEIGHT? I'VE GOT TWO WEEKS TO LOOK LIKE YOU.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I'M FINALLY STARTING TO LOSE WEIGHT.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -4137,8 +4069,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — NOW HOOK UP.",
-        "Fat-shaming — WHY? ARE YOU TRYING TO LOSE WEIGHT? I'VE GOT TWO WEEKS TO LOOK LIKE YOU."
+        "Sex & hookups — “NOW HOOK UP.”",
+        "Fat-shaming — “WHY? ARE YOU TRYING TO LOSE WEIGHT? I'VE GOT TWO WEEKS TO LOOK LIKE YOU.”"
       ],
       "notes": null,
       "flags": [],
@@ -4152,7 +4084,7 @@
       "index_title": "9. One Last Kiss",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e09",
       "file": "transcripts/full-house/s04e09-one-last-kiss.txt",
-      "summary": null,
+      "summary": "Jesse's high school reunion brings a flashback with a high school girlfriend and gave him doubts about Rebecca.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4167,23 +4099,22 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Nudity & bodies",
-          "Violence & injury"
+          "Nudity & bodies"
         ],
         "watch_detail": [
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "SOMEBODY INTELLIGENT, SEXY, EXTREMELY ATTRACTIVE YOU'RE RIGHT, JOEY.",
+            "how": "“SOMEBODY INTELLIGENT, SEXY, EXTREMELY ATTRACTIVE YOU'RE RIGHT, JOEY.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "SOMEBODY INTELLIGENT, SEXY, EXTREMELY ATTRACTIVE YOU'RE RIGHT, JOEY.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -4192,36 +4123,18 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "SEE, OTHERWISE A RED SOCK CAN GET IN WITH WITH YOUR WHITES, AND YOU WIND UP WITH PINK UNDERWEAR.",
+            "how": "“SEE, OTHERWISE A RED SOCK CAN GET IN WITH WITH YOUR WHITES, AND YOU WIND UP WITH PINK UNDERWEAR.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "SEE, OTHERWISE A RED SOCK CAN GET IN WITH WITH YOUR WHITES, AND YOU WIND UP WITH PINK UNDERWEAR.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
-              }
-            ]
-          },
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "…ONE * * WHEN YOU GONNA GIVE ME SOME * * TIME, SHARONA * * OOH, YOU MAKE MY MOTOR RUN * * MY MOTOR RUN * * GUN IT COMING OFF OF THE LINE, SHARONA * * MUH-MUH-MUH-MY-SHARONA * * MUH-MUH-MUH-MY SHARONA * JESSIE, IT'S…",
-            "count": 1,
-            "intensity": 2,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "…ONE * * WHEN YOU GONNA GIVE ME SOME * * TIME, SHARONA * * OOH, YOU MAKE MY MOTOR RUN * * MY MOTOR RUN * * GUN IT COMING OFF OF THE LINE, SHARONA * * MUH-MUH-MUH-MY-SHARONA * * MUH-MUH-MUH-MY SHARONA * JESSIE, IT'S…",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
               }
             ]
           }
@@ -4231,9 +4144,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — SOMEBODY INTELLIGENT, SEXY, EXTREMELY ATTRACTIVE YOU'RE RIGHT, JOEY.",
-        "Nudity & bodies — SEE, OTHERWISE A RED SOCK CAN GET IN WITH WITH YOUR WHITES, AND YOU WIND UP WITH PINK UNDERWEAR.",
-        "Violence & injury — …ONE * * WHEN YOU GONNA GIVE ME SOME * * TIME, SHARONA * * OOH, YOU MAKE MY MOTOR RUN * * MY MOTOR RUN * * GUN IT COMING OFF OF THE LINE, SHARONA * * MUH-MUH-MUH-MY-SHARONA * * MUH-MUH-MUH-MY SHARONA * JESSIE, IT'S…"
+        "Sex & hookups — “SOMEBODY INTELLIGENT, SEXY, EXTREMELY ATTRACTIVE YOU'RE RIGHT, JOEY.”",
+        "Nudity & bodies — “SEE, OTHERWISE A RED SOCK CAN GET IN WITH WITH YOUR WHITES, AND YOU WIND UP WITH PINK UNDERWEAR.”"
       ],
       "notes": null,
       "flags": [],
@@ -4247,7 +4159,7 @@
       "index_title": "Terror in Tanner Town",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e10",
       "file": "transcripts/full-house/s04e10-terror-in-tanner-town.txt",
-      "summary": null,
+      "summary": "Danny's new girlfriend's son causes trouble with the Tanners.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4279,7 +4191,7 @@
       "index_title": "Secret Admirer",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e11",
       "file": "transcripts/full-house/s04e11-secret-admirer.txt",
-      "summary": null,
+      "summary": "Rusty writes a love letter to make D.J. think it's from the paper boy but it went in the wrong hands.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -4298,16 +4210,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "GUYS! DOES JESSE KNOW DANNY GAVE ME THAT LOVE LETTER? GENTLEMEN I'M GONNA FIND OUT RIGHT NOW WHICH OF MY BEST FRIENDS IS A BACK-STABBING WEASEL.",
+            "how": "“GUYS! DOES JESSE KNOW DANNY GAVE ME THAT LOVE LETTER? GENTLEMEN I'M GONNA FIND OUT RIGHT NOW WHICH OF MY BEST FRIENDS IS A BACK-STABBING WEASEL.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "GUYS! DOES JESSE KNOW DANNY GAVE ME THAT LOVE LETTER? GENTLEMEN I'M GONNA FIND OUT RIGHT NOW WHICH OF MY BEST FRIENDS IS A BACK-STABBING WEASEL.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "mid"
               }
@@ -4319,7 +4231,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — GUYS! DOES JESSE KNOW DANNY GAVE ME THAT LOVE LETTER? GENTLEMEN I'M GONNA FIND OUT RIGHT NOW WHICH OF MY BEST FRIENDS IS A BACK-STABBING WEASEL."
+        "Violence & injury — “GUYS! DOES JESSE KNOW DANNY GAVE ME THAT LOVE LETTER? GENTLEMEN I'M GONNA FIND OUT RIGHT NOW WHICH OF MY BEST FRIENDS IS A BACK-STABBING WEASEL.”"
       ],
       "notes": null,
       "flags": [],
@@ -4333,7 +4245,7 @@
       "index_title": "Danny in Charge",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e12",
       "file": "transcripts/full-house/s04e12-danny-in-charge.txt",
-      "summary": null,
+      "summary": "When Joey and Jesse take a trip, Danny is alone in caring for the girls for the first time.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4353,16 +4265,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "ENJOY THE VIRGIN FOREST.",
+            "how": "“ENJOY THE VIRGIN FOREST.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "ENJOY THE VIRGIN FOREST.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -4376,16 +4288,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "THE FOX IS NOT COMING OUT.",
+            "how": "“THE FOX IS NOT COMING OUT.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "THE FOX IS NOT COMING OUT.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -4395,7 +4307,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — ENJOY THE VIRGIN FOREST."
+        "Sex & hookups — “ENJOY THE VIRGIN FOREST.”"
       ],
       "notes": null,
       "flags": [],
@@ -4409,7 +4321,7 @@
       "index_title": "Happy New Year",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e13",
       "file": "transcripts/full-house/s04e13-happy-new-year.txt",
-      "summary": null,
+      "summary": "The Tanners celebrate New Year's. Danny and Jesse set Joey up with a blind date.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4441,7 +4353,7 @@
       "index_title": "Working Girl",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e14",
       "file": "transcripts/full-house/s04e14-working-girl.txt",
-      "summary": null,
+      "summary": "D.J. gets a part time job so she can buy new shoes. Michelle is playing cop for her school.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4461,16 +4373,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "FIND A CHURCH, HIRE A HALL, BUY A DRESS, PICK OUT INVITATIONS, A BAND, A CATERER, COCKTAIL NAPKINS-- BECKY, WHY DON'T WE ELOPE? OH, I DON'T KNOW.",
+            "how": "“FIND A CHURCH, HIRE A HALL, BUY A DRESS, PICK OUT INVITATIONS, A BAND, A CATERER, COCKTAIL NAPKINS-- BECKY, WHY DON'T WE ELOPE? OH, I DON'T KNOW.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "FIND A CHURCH, HIRE A HALL, BUY A DRESS, PICK OUT INVITATIONS, A BAND, A CATERER, COCKTAIL NAPKINS-- BECKY, WHY DON'T WE ELOPE? OH, I DON'T KNOW.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -4482,7 +4394,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Alcohol & drugs — FIND A CHURCH, HIRE A HALL, BUY A DRESS, PICK OUT INVITATIONS, A BAND, A CATERER, COCKTAIL NAPKINS-- BECKY, WHY DON'T WE ELOPE? OH, I DON'T KNOW."
+        "Alcohol & drugs — “FIND A CHURCH, HIRE A HALL, BUY A DRESS, PICK OUT INVITATIONS, A BAND, A CATERER, COCKTAIL NAPKINS-- BECKY, WHY DON'T WE ELOPE? OH, I DON'T KNOW.”"
       ],
       "notes": null,
       "flags": [],
@@ -4496,7 +4408,7 @@
       "index_title": "Ol' Brown Eyes",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e15",
       "file": "transcripts/full-house/s04e15-ol-brown-eyes.txt",
-      "summary": null,
+      "summary": "D.J. hosts a fundraiser for her school. Danny wanted to perform but gets his wish later on.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4516,16 +4428,16 @@
           {
             "theme": "Racism & slurs",
             "group": "bias",
-            "how": "YOU'RE SPIC AND SPAN.",
+            "how": "“YOU'RE SPIC AND SPAN.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "YOU'RE SPIC AND SPAN.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -4537,7 +4449,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Racism & slurs — YOU'RE SPIC AND SPAN."
+        "Racism & slurs — “YOU'RE SPIC AND SPAN.”"
       ],
       "notes": null,
       "flags": [],
@@ -4551,7 +4463,7 @@
       "index_title": "Stephanie Gets Framed",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e16",
       "file": "transcripts/full-house/s04e16-stephanie-gets-framed.txt",
-      "summary": null,
+      "summary": "Stephanie gets new glasses but she's afraid to get teased by her classmates.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4571,16 +4483,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "YOU KNOW, I DO FEEL THE BLOOD FLOWING.",
+            "how": "“YOU KNOW, I DO FEEL THE BLOOD FLOWING.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "YOU KNOW, I DO FEEL THE BLOOD FLOWING.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -4592,7 +4504,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — YOU KNOW, I DO FEEL THE BLOOD FLOWING."
+        "Violence & injury — “YOU KNOW, I DO FEEL THE BLOOD FLOWING.”"
       ],
       "notes": null,
       "flags": [],
@@ -4606,7 +4518,7 @@
       "index_title": "A Fish Called Martin",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e17",
       "file": "transcripts/full-house/s04e17-a-fish-called-martin.txt",
-      "summary": null,
+      "summary": "Michelle gets a new fish named Martin. Rebecca has the family practice square dancing for the wedding.",
       "violence": 2,
       "sex": 2,
       "language": 1,
@@ -4626,16 +4538,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "MARTIN, YOU CAN SLEEP WITH MY PIG TONIGHT.",
+            "how": "“MARTIN, YOU CAN SLEEP WITH MY PIG TONIGHT.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "MARTIN, YOU CAN SLEEP WITH MY PIG TONIGHT.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -4647,7 +4559,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — MARTIN, YOU CAN SLEEP WITH MY PIG TONIGHT."
+        "Sex & hookups — “MARTIN, YOU CAN SLEEP WITH MY PIG TONIGHT.”"
       ],
       "notes": null,
       "flags": [],
@@ -4661,7 +4573,7 @@
       "index_title": "The Wedding (1)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e18",
       "file": "transcripts/full-house/s04e18-the-wedding-1.txt",
-      "summary": null,
+      "summary": "Jesse and Rebecca prepare for their wedding. Jesse goes skydiving.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4693,7 +4605,7 @@
       "index_title": "The Wedding (2)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e19",
       "file": "transcripts/full-house/s04e19-the-wedding-2.txt",
-      "summary": null,
+      "summary": "Jesse and Rebecca get married.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4725,7 +4637,7 @@
       "index_title": "Fuller House",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e20",
       "file": "transcripts/full-house/s04e20-fuller-house.txt",
-      "summary": null,
+      "summary": "Jesse and Rebecca move in.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4757,7 +4669,7 @@
       "index_title": "The Hole-in-the-Wall Gang",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e21",
       "file": "transcripts/full-house/s04e21-the-hole-in-the-wall-gang.txt",
-      "summary": null,
+      "summary": "D.J. is tired of Stephanie copying her so they argue and put a hole in the wall in Danny's room. Jesse is fixing up the attic for his new home.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4771,49 +4683,22 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
           {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "DID YOU KNOW YOUR DAD HAS A BOX OF BAKING SODA IN HIS UNDERWEAR DRAWER.",
-            "count": 2,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "DID YOU KNOW YOUR DAD HAS A BOX OF BAKING SODA IN HIS UNDERWEAR DRAWER.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "WHO MOVED THE BAKING SODA IN MY UNDERWEAR DRAWER? BY THE WAY, I LOVE THAT DAD SONG.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          },
-          {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "LET'S NOT PUNCH ANY MORE HOLES, OK? DEAL.",
+            "how": "“LET'S NOT PUNCH ANY MORE HOLES, OK? DEAL.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "LET'S NOT PUNCH ANY MORE HOLES, OK? DEAL.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -4825,8 +4710,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — DID YOU KNOW YOUR DAD HAS A BOX OF BAKING SODA IN HIS UNDERWEAR DRAWER.",
-        "Violence & injury — LET'S NOT PUNCH ANY MORE HOLES, OK? DEAL."
+        "Violence & injury — “LET'S NOT PUNCH ANY MORE HOLES, OK? DEAL.”"
       ],
       "notes": null,
       "flags": [],
@@ -4840,7 +4724,7 @@
       "index_title": "Stephanie Plays the Field",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e22",
       "file": "transcripts/full-house/s04e22-stephanie-plays-the-field.txt",
-      "summary": null,
+      "summary": "Stephanie plays little league and has a crush on a player that is playing against her team.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4860,16 +4744,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "YOU CAN CUT THE TENSION WITH A KNIFE.",
+            "how": "“YOU CAN CUT THE TENSION WITH A KNIFE.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "YOU CAN CUT THE TENSION WITH A KNIFE.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -4881,7 +4765,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — YOU CAN CUT THE TENSION WITH A KNIFE."
+        "Violence & injury — “YOU CAN CUT THE TENSION WITH A KNIFE.”"
       ],
       "notes": null,
       "flags": [],
@@ -4895,7 +4779,7 @@
       "index_title": "Joey Goes Hollywood",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e23",
       "file": "transcripts/full-house/s04e23-joey-goes-hollywood.txt",
-      "summary": null,
+      "summary": "When Joey leaves for Los Angeles to begin filming his new television series with a prolific actor, the rest of the Tanner family decides to join him.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4915,16 +4799,16 @@
           {
             "theme": "Suicide & self-harm",
             "group": "violence",
-            "how": "I KILL MYSELF.",
+            "how": "“I KILL MYSELF.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I KILL MYSELF.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "early"
               }
@@ -4936,7 +4820,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Suicide & self-harm — I KILL MYSELF."
+        "Suicide & self-harm — “I KILL MYSELF.”"
       ],
       "notes": null,
       "flags": [],
@@ -4950,7 +4834,7 @@
       "index_title": "Girls Just Wanna Have Fun",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e24",
       "file": "transcripts/full-house/s04e24-girls-just-wanna-have-fun.txt",
-      "summary": null,
+      "summary": "D.J. wants to get to know a boy more. Danny and Jesse compete a game of pool.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4982,7 +4866,7 @@
       "index_title": "The Graduates",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e25",
       "file": "transcripts/full-house/s04e25-the-graduates.txt",
-      "summary": null,
+      "summary": "D.J. and Michelle graduate. Stephanie wants a small graduation because she was the only one that didn't have on. Jesse host Michelle's graduation ceremony.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5002,16 +4886,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "I JUST PRETEND EVERYBODY IS IN THEIR UNDERWEAR.",
+            "how": "“I JUST PRETEND EVERYBODY IS IN THEIR UNDERWEAR.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I JUST PRETEND EVERYBODY IS IN THEIR UNDERWEAR.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -5023,7 +4907,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — I JUST PRETEND EVERYBODY IS IN THEIR UNDERWEAR."
+        "Nudity & bodies — “I JUST PRETEND EVERYBODY IS IN THEIR UNDERWEAR.”"
       ],
       "notes": null,
       "flags": [],
@@ -5037,7 +4921,7 @@
       "index_title": "Rock the Cradle",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s04e26",
       "file": "transcripts/full-house/s04e26-rock-the-cradle.txt",
-      "summary": null,
+      "summary": "Rebecca has a big announcement to make while Jesse's career could be taking off.",
       "violence": 1,
       "sex": 3,
       "language": 1,
@@ -5056,16 +4940,16 @@
           {
             "theme": "Affairs / cheating",
             "group": "sex",
-            "how": "…HEAVEN * * BUT I DON'T THINK * * REAL LOVE IS IN THE AIR * * WHAT WE HAVE HERE * * IS A FLESH TONE LOVE AFFAIR * * YEAH, YEAH * * WELL, I FEEL LIKE I'M IN HEAVEN * * BUT I DON'T THINK THIS UNION HAS A PRAYER * * WHAT…",
+            "how": "“…HEAVEN * * BUT I DON'T THINK * * REAL LOVE IS IN THE AIR * * WHAT WE HAVE HERE * * IS A FLESH TONE LOVE AFFAIR * * YEAH, YEAH * * WELL, I FEEL LIKE I'M IN HEAVEN * * BUT I DON'T THINK THIS UNION HAS A PRAYER * * WHAT…”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "…HEAVEN * * BUT I DON'T THINK * * REAL LOVE IS IN THE AIR * * WHAT WE HAVE HERE * * IS A FLESH TONE LOVE AFFAIR * * YEAH, YEAH * * WELL, I FEEL LIKE I'M IN HEAVEN * * BUT I DON'T THINK THIS UNION HAS A PRAYER * * WHAT…",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -5077,7 +4961,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Affairs / cheating — …HEAVEN * * BUT I DON'T THINK * * REAL LOVE IS IN THE AIR * * WHAT WE HAVE HERE * * IS A FLESH TONE LOVE AFFAIR * * YEAH, YEAH * * WELL, I FEEL LIKE I'M IN HEAVEN * * BUT I DON'T THINK THIS UNION HAS A PRAYER * * WHAT…"
+        "Affairs / cheating — “…HEAVEN * * BUT I DON'T THINK * * REAL LOVE IS IN THE AIR * * WHAT WE HAVE HERE * * IS A FLESH TONE LOVE AFFAIR * * YEAH, YEAH * * WELL, I FEEL LIKE I'M IN HEAVEN * * BUT I DON'T THINK THIS UNION HAS A PRAYER * * WHAT…”"
       ],
       "notes": null,
       "flags": [],
@@ -5091,7 +4975,7 @@
       "index_title": "1. Double Trouble",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e01",
       "file": "transcripts/full-house/s05e01-double-trouble.txt",
-      "summary": null,
+      "summary": "Jesse and Rebecca finds out that they are having twins. Michelle struggles her first day at school.",
       "violence": 1,
       "sex": 2,
       "language": 2,
@@ -5111,16 +4995,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "You look very sexy.",
+            "how": "“You look very sexy.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You look very sexy.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -5132,7 +5016,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — You look very sexy."
+        "Sex & hookups — “You look very sexy.”"
       ],
       "notes": null,
       "flags": [],
@@ -5146,7 +5030,7 @@
       "index_title": "2. Matchmaker Michelle",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e02",
       "file": "transcripts/full-house/s05e02-matchmaker-michelle.txt",
-      "summary": null,
+      "summary": "Michelle tried to have Danny and her teacher to be together.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5178,7 +5062,7 @@
       "index_title": "3. Take My Sister, Please",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e03",
       "file": "transcripts/full-house/s05e03-take-my-sister-please.txt",
-      "summary": null,
+      "summary": "D.J. wants her own room, Michelle also wants her own room, so what happens to Stephanie? Jesse and Rebecca host a lamaze class at home.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5210,7 +5094,7 @@
       "index_title": "4. Oh Where, Oh Where Has My Little Girl Gone?",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e04",
       "file": "transcripts/full-house/s05e04-oh-where-oh-where-has-my-little-girl-gone.txt",
-      "summary": null,
+      "summary": "D.J. has a small mega-crisis and Danny is concerned why D.J. won't talk to him about it.",
       "violence": 2,
       "sex": 1,
       "language": 2,
@@ -5231,16 +5115,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Just make out with every guy in school until they change their mind.",
+            "how": "“Just make out with every guy in school until they change their mind.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Just make out with every guy in school until they change their mind.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -5249,16 +5133,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Those stubborn mustard stains are murder to get out.",
+            "how": "“Those stubborn mustard stains are murder to get out.”",
             "count": 1,
             "intensity": 3,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Those stubborn mustard stains are murder to get out.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 3,
                 "at": "late"
               }
@@ -5270,8 +5154,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Just make out with every guy in school until they change their mind.",
-        "Violence & injury — Those stubborn mustard stains are murder to get out."
+        "Sex & hookups — “Just make out with every guy in school until they change their mind.”",
+        "Violence & injury — “Those stubborn mustard stains are murder to get out.”"
       ],
       "notes": null,
       "flags": [],
@@ -5285,7 +5169,7 @@
       "index_title": "5. The King and I",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e05",
       "file": "transcripts/full-house/s05e05-the-king-and-i.txt",
-      "summary": null,
+      "summary": "Jesse is overwhelmed with his music career. He meets an Elvis impersonator that helps him calm down.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5307,16 +5191,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "I got sprouts coming out my sideburns.",
+            "how": "“I got sprouts coming out my sideburns.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I got sprouts coming out my sideburns.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -5338,7 +5222,7 @@
       "index_title": "6. The Legend of Ranger Joe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e06",
       "file": "transcripts/full-house/s05e06-the-legend-of-ranger-joe.txt",
-      "summary": null,
+      "summary": "Joey gets a dream job of playing Ranger Joe from his favorite kiddie show.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5358,16 +5242,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Without his gun and badge, Deputy Dawg weighs exactly 43 pounds.",
+            "how": "“Without his gun and badge, Deputy Dawg weighs exactly 43 pounds.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Without his gun and badge, Deputy Dawg weighs exactly 43 pounds.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -5379,7 +5263,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Without his gun and badge, Deputy Dawg weighs exactly 43 pounds."
+        "Violence & injury — “Without his gun and badge, Deputy Dawg weighs exactly 43 pounds.”"
       ],
       "notes": null,
       "flags": [],
@@ -5393,7 +5277,7 @@
       "index_title": "7. The Volunteer",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e07",
       "file": "transcripts/full-house/s05e07-the-volunteer.txt",
-      "summary": null,
+      "summary": "D.J. volunteers at a nursing home. Jesse and Rebecca challenge each other.",
       "violence": 2,
       "sex": 3,
       "language": 1,
@@ -5412,16 +5296,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Did you guys ever try to sleep with a watermelon in your pajamas? Yeah, once.",
+            "how": "“Did you guys ever try to sleep with a watermelon in your pajamas? Yeah, once.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Did you guys ever try to sleep with a watermelon in your pajamas? Yeah, once.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -5433,7 +5317,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Did you guys ever try to sleep with a watermelon in your pajamas? Yeah, once."
+        "Sex & hookups — “Did you guys ever try to sleep with a watermelon in your pajamas? Yeah, once.”"
       ],
       "notes": null,
       "flags": [],
@@ -5447,7 +5331,7 @@
       "index_title": "8. Gotta Dance",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e08",
       "file": "transcripts/full-house/s05e08-gotta-dance.txt",
-      "summary": null,
+      "summary": "Stephanie wants to do dance full time but has a change of heart when she realizes it took her away from family gatherings.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5467,16 +5351,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Tiny, Brain Dead, if you are gonna fight, please, no blood on the carpet.",
+            "how": "“Tiny, Brain Dead, if you are gonna fight, please, no blood on the carpet.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Tiny, Brain Dead, if you are gonna fight, please, no blood on the carpet.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -5488,7 +5372,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Tiny, Brain Dead, if you are gonna fight, please, no blood on the carpet."
+        "Violence & injury — “Tiny, Brain Dead, if you are gonna fight, please, no blood on the carpet.”"
       ],
       "notes": null,
       "flags": [],
@@ -5502,7 +5386,7 @@
       "index_title": "9. Happy Birthday, Babies (1)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e09",
       "file": "transcripts/full-house/s05e09-happy-birthday-babies-1.txt",
-      "summary": null,
+      "summary": "It's Michelle's 5th birthday. The family looks back at her life.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5534,7 +5418,7 @@
       "index_title": "Happy Birthday, Babies (2)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e10",
       "file": "transcripts/full-house/s05e10-happy-birthday-babies-2.txt",
-      "summary": null,
+      "summary": "Rebecca goes into labor at Michelle's party. Jesse goes into surgery.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5554,16 +5438,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Is anybody allowed to use a knife? ALL: No.",
+            "how": "“Is anybody allowed to use a knife? ALL: No.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Is anybody allowed to use a knife? ALL: No.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -5575,7 +5459,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Is anybody allowed to use a knife? ALL: No."
+        "Violence & injury — “Is anybody allowed to use a knife? ALL: No.”"
       ],
       "notes": null,
       "flags": [],
@@ -5589,7 +5473,7 @@
       "index_title": "Nicky and/or Alexander",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e11",
       "file": "transcripts/full-house/s05e11-nicky-and-or-alexander.txt",
-      "summary": null,
+      "summary": "Jesse can't tell who's Nicky and who's Alex.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5609,16 +5493,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "No, I-- I love those boot-- Any good red-blooded American boy would love to wear those booties.",
+            "how": "“No, I-- I love those boot-- Any good red-blooded American boy would love to wear those booties.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "No, I-- I love those boot-- Any good red-blooded American boy would love to wear those booties.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               }
@@ -5630,7 +5514,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — No, I-- I love those boot-- Any good red-blooded American boy would love to wear those booties."
+        "Violence & injury — “No, I-- I love those boot-- Any good red-blooded American boy would love to wear those booties.”"
       ],
       "notes": null,
       "flags": [],
@@ -5644,7 +5528,7 @@
       "index_title": "Bachelor of the Month",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e12",
       "file": "transcripts/full-house/s05e12-bachelor-of-the-month.txt",
-      "summary": null,
+      "summary": "Danny becomes Bachelor of the Month. He meets Vicky for the first time. Jesse and Rebecca are on diaper duties.",
       "violence": 1,
       "sex": 2,
       "language": 1,
@@ -5665,16 +5549,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "I got you an Elvis mobile, huh? Watch this, they're all shook up, see? I just hope they can sleep with the glare from those sequined jump suits.",
+            "how": "“I got you an Elvis mobile, huh? Watch this, they're all shook up, see? I just hope they can sleep with the glare from those sequined jump suits.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I got you an Elvis mobile, huh? Watch this, they're all shook up, see? I just hope they can sleep with the glare from those sequined jump suits.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -5683,24 +5567,24 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I can just picture you out with some stuffed shirt discussing Russian literature over white wine and Brie.",
+            "how": "“I can just picture you out with some stuffed shirt discussing Russian literature over white wine and Brie.”",
             "count": 2,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I can just picture you out with some stuffed shirt discussing Russian literature over white wine and Brie.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Pork and beans in a white-wine sauce.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -5714,16 +5598,16 @@
           {
             "theme": "LGBTQ themes",
             "group": "optin",
-            "how": "Is it my imagination, or is more coming out than going in? I know.",
+            "how": "“Is it my imagination, or is more coming out than going in? I know.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Is it my imagination, or is more coming out than going in? I know.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -5733,8 +5617,8 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — I got you an Elvis mobile, huh? Watch this, they're all shook up, see? I just hope they can sleep with the glare from those sequined jump suits.",
-        "Alcohol & drugs — I can just picture you out with some stuffed shirt discussing Russian literature over white wine and Brie."
+        "Sex & hookups — “I got you an Elvis mobile, huh? Watch this, they're all shook up, see? I just hope they can sleep with the glare from those sequined jump suits.”",
+        "Alcohol & drugs — “I can just picture you out with some stuffed shirt discussing Russian literature over white wine and Brie.”"
       ],
       "notes": null,
       "flags": [],
@@ -5748,7 +5632,7 @@
       "index_title": "Easy Rider",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e13",
       "file": "transcripts/full-house/s05e13-easy-rider.txt",
-      "summary": null,
+      "summary": "Michelle decides that she wants to learn how to ride a two-wheel bike with out training wheels. she asks her dad for help but he has to spend the day with co-star Vicky so that they can plan their week. However, all they can talk about is the kiss they shared the week before. Meanwhile Joey offers to help Michelle learn to ride, and she agrees, but he uses the classic technique of letting go, and Michelle falls into a bush. She yells at him and says that she cant trust him anymore. So when they get home Joey, as Bulwinkle, says that he can help her clean her scrape. ...",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5768,16 +5652,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Whoa! Make Out, San Francisco! Steph! Go to your room.",
+            "how": "“Whoa! Make Out, San Francisco! Steph! Go to your room.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Whoa! Make Out, San Francisco! Steph! Go to your room.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -5789,7 +5673,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Whoa! Make Out, San Francisco! Steph! Go to your room."
+        "Sex & hookups — “Whoa! Make Out, San Francisco! Steph! Go to your room.”"
       ],
       "notes": null,
       "flags": [],
@@ -5803,7 +5687,7 @@
       "index_title": "Sisters in Crime",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e14",
       "file": "transcripts/full-house/s05e14-sisters-in-crime.txt",
-      "summary": null,
+      "summary": "D.J.'s boyfriend Steve comes around and she takes her sisters with her and got in trouble.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5835,7 +5719,7 @@
       "index_title": "Play It Again, Jess",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e15",
       "file": "transcripts/full-house/s05e15-play-it-again-jess.txt",
-      "summary": null,
+      "summary": "Jesse wants to make money for his family while Rebecca wants him home to take care of the boys.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5867,7 +5751,7 @@
       "index_title": "Crushed",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e16",
       "file": "transcripts/full-house/s05e16-crushed.txt",
-      "summary": null,
+      "summary": "Stephanie is celebrating her tenth birthday with her friends. When Danny surprises her with a special serenade by her favorite singer, Stephanie decides to start making wedding plans. However, when she finds out that DJ also has a crush on Tommy, she decides to embarrass DJ by sharing embarrassing pictures when they return from sightseeing around the city.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5899,7 +5783,7 @@
       "index_title": "Spellbound",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e17",
       "file": "transcripts/full-house/s05e17-spellbound.txt",
-      "summary": null,
+      "summary": "Stephanie is studying for a school-wide spelling bee. When she gets eliminated in the first round, Stephanie gets a lesson in humility from the eventual winner and some words of advice from her father. Meanwhile, Michelle gets overwhelmed when everybody starts using different teaching methods to help her learn how to read.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5919,24 +5803,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "What? Totally wrong? What--? What was the guns and the thing and the spinning? Jess, it just doesn't have that childlike quality I'm looking for.",
+            "how": "“What? Totally wrong? What--? What was the guns and the thing and the spinning? Jess, it just doesn't have that childlike quality I'm looking for.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "What? Totally wrong? What--? What was the guns and the thing and the spinning? Jess, it just doesn't have that childlike quality I'm looking for.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "So instead of spending my time trying to learn to read I spent all my time beating up the Bluebirds.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -5948,7 +5832,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — What? Totally wrong? What--? What was the guns and the thing and the spinning? Jess, it just doesn't have that childlike quality I'm looking for."
+        "Violence & injury — “What? Totally wrong? What--? What was the guns and the thing and the spinning? Jess, it just doesn't have that childlike quality I'm looking for.”"
       ],
       "notes": null,
       "flags": [],
@@ -5962,7 +5846,7 @@
       "index_title": "Too Much Monkey Business",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e18",
       "file": "transcripts/full-house/s05e18-too-much-monkey-business.txt",
-      "summary": null,
+      "summary": "Danny's sister comes to town with a monkey. The monkey seems to have a crush on Jesse.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5982,16 +5866,16 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Why won't that monkey give me a break? I don't know, but if you talk sexy to her, she'll nibble on your ear.",
+            "how": "“Why won't that monkey give me a break? I don't know, but if you talk sexy to her, she'll nibble on your ear.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Why won't that monkey give me a break? I don't know, but if you talk sexy to her, she'll nibble on your ear.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -6003,7 +5887,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Why won't that monkey give me a break? I don't know, but if you talk sexy to her, she'll nibble on your ear."
+        "Sex & hookups — “Why won't that monkey give me a break? I don't know, but if you talk sexy to her, she'll nibble on your ear.”"
       ],
       "notes": null,
       "flags": [],
@@ -6017,7 +5901,7 @@
       "index_title": "The Devil Made Me Do It",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e19",
       "file": "transcripts/full-house/s05e19-the-devil-made-me-do-it.txt",
-      "summary": null,
+      "summary": "When Michelle's disobedience lands her in the doghouse, the little bow-wow in her wants to bite back. Meanwhile, D.J. plays buffer between a bickering Stephanie and Kimmy.",
       "violence": 1,
       "sex": 2,
       "language": 1,
@@ -6037,24 +5921,24 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "I was gonna sleep with the dog.",
+            "how": "“I was gonna sleep with the dog.”",
             "count": 2,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I was gonna sleep with the dog.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You're not gonna sleep with anybody but your own bed.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "late"
               }
@@ -6066,7 +5950,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — I was gonna sleep with the dog."
+        "Sex & hookups — “I was gonna sleep with the dog.”"
       ],
       "notes": null,
       "flags": [],
@@ -6080,7 +5964,7 @@
       "index_title": "Driving Miss D.J.",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e20",
       "file": "transcripts/full-house/s05e20-driving-miss-d-j.txt",
-      "summary": null,
+      "summary": "D.J. learns how to drive.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6100,16 +5984,16 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Fine, you can have shotgun.",
+            "how": "“Fine, you can have shotgun.”",
             "count": 1,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Fine, you can have shotgun.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "early"
               }
@@ -6121,7 +6005,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Fine, you can have shotgun."
+        "Violence & injury — “Fine, you can have shotgun.”"
       ],
       "notes": null,
       "flags": [],
@@ -6135,7 +6019,7 @@
       "index_title": "Yours, Mine and Ours",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e21",
       "file": "transcripts/full-house/s05e21-yours-mine-and-ours.txt",
-      "summary": null,
+      "summary": "Jesse and Becky disagree on how to raise Nicky and Alex.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6167,7 +6051,7 @@
       "index_title": "Trouble with Danny",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e22",
       "file": "transcripts/full-house/s05e22-trouble-with-danny.txt",
-      "summary": null,
+      "summary": "Danny is overzealous about spring cleaning.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6187,16 +6071,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "Naked? Oh, great, potato chips.",
+            "how": "“Naked? Oh, great, potato chips.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Naked? Oh, great, potato chips.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "late"
               }
@@ -6208,7 +6092,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Naked? Oh, great, potato chips."
+        "Nudity & bodies — “Naked? Oh, great, potato chips.”"
       ],
       "notes": null,
       "flags": [],
@@ -6222,7 +6106,7 @@
       "index_title": "Five's a Crowd",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e23",
       "file": "transcripts/full-house/s05e23-five-s-a-crowd.txt",
-      "summary": null,
+      "summary": "D.J's on a date with a band member and the guys join in.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -6254,7 +6138,7 @@
       "index_title": "Girls Will Be Boys",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e24",
       "file": "transcripts/full-house/s05e24-girls-will-be-boys.txt",
-      "summary": null,
+      "summary": "Teddy doesn't want to play with girls anymore so Michele decides to become a boy.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -6275,16 +6159,16 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "And there's this rumor going around that Roxanne is stuffing her bra with two-ply paper towels.",
+            "how": "“And there's this rumor going around that Roxanne is stuffing her bra with two-ply paper towels.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "And there's this rumor going around that Roxanne is stuffing her bra with two-ply paper towels.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -6293,56 +6177,56 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "No, I don't need your mother's stun gun.",
+            "how": "“No, I don't need your mother's stun gun.”",
             "count": 6,
             "intensity": 2,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "No, I don't need your mother's stun gun.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Let's play guns.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Let's play house, and blow it up with our guns.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "Baby Love Button is not a gun.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "You mean, chew it up and swallow it, and have it go through my bloodstream? Steph, you're acting like I'm trying to poison you or something.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
               },
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "And when I see a friend, I like to give him a manly punch.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -6351,16 +6235,16 @@
           {
             "theme": "Alcohol & drugs",
             "group": "substances",
-            "how": "I knew I should have bought him the beer sausage.",
+            "how": "“I knew I should have bought him the beer sausage.”",
             "count": 1,
             "intensity": 1,
-            "mode": "implied",
+            "mode": "dialogue",
             "instances": [
               {
-                "kind": "note",
+                "kind": "quote",
                 "speaker": null,
                 "text": "I knew I should have bought him the beer sausage.",
-                "mode": "implied",
+                "mode": "dialogue",
                 "intensity": 1,
                 "at": "early"
               }
@@ -6372,9 +6256,9 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — And there's this rumor going around that Roxanne is stuffing her bra with two-ply paper towels.",
-        "Violence & injury — No, I don't need your mother's stun gun.",
-        "Alcohol & drugs — I knew I should have bought him the beer sausage."
+        "Nudity & bodies — “And there's this rumor going around that Roxanne is stuffing her bra with two-ply paper towels.”",
+        "Violence & injury — “No, I don't need your mother's stun gun.”",
+        "Alcohol & drugs — “I knew I should have bought him the beer sausage.”"
       ],
       "notes": null,
       "flags": [],
@@ -6388,7 +6272,7 @@
       "index_title": "Captain Video (1)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e25",
       "file": "transcripts/full-house/s05e25-captain-video-1.txt",
-      "summary": null,
+      "summary": "Jesse has a chance to make a music video of Forever. D.J. tries to get Danny to let her go to Spain.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6420,7 +6304,7 @@
       "index_title": "Captain Video (2)",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=full-house&episode=s05e26",
       "file": "transcripts/full-house/s05e26-captain-video-2.txt",
-      "summary": null,
+      "summary": "Jesse makes the video of Forever. Danny allows D.J. to go to Spain.",
       "violence": 1,
       "sex": 1,
       "language": 1,

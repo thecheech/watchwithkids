@@ -32,7 +32,7 @@
       "index_title": "A Single Pale Rose",
       "url": "https://steven-universe.fandom.com/wiki/A_Single_Pale_Rose/Transcript",
       "file": "transcripts/steven-universe/a-single-pale-rose.txt",
-      "summary": null,
+      "summary": "Steven helps Pearl find her phone.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -177,7 +177,7 @@
       "index_title": "Adventures in Light Distortion",
       "url": "https://steven-universe.fandom.com/wiki/Adventures_in_Light_Distortion/Transcript",
       "file": "transcripts/steven-universe/adventures-in-light-distortion.txt",
-      "summary": null,
+      "summary": "Steven and the Gems take off on a search and recovery mission.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -238,7 +238,7 @@
       "index_title": "Alone at Sea",
       "url": "https://steven-universe.fandom.com/wiki/Alone_at_Sea/Transcript",
       "file": "transcripts/steven-universe/alone-at-sea.txt",
-      "summary": null,
+      "summary": "Steven and Greg take Lapis on a fishing trip.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -293,7 +293,7 @@
       "index_title": "Alone Together",
       "url": "https://steven-universe.fandom.com/wiki/Alone_Together/Transcript",
       "file": "transcripts/steven-universe/alone-together.txt",
-      "summary": null,
+      "summary": "The Gems try to teach Steven to use his fusion powers.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -377,7 +377,7 @@
       "index_title": "An Indirect Kiss",
       "url": "https://steven-universe.fandom.com/wiki/An_Indirect_Kiss/Transcript",
       "file": "transcripts/steven-universe/an-indirect-kiss.txt",
-      "summary": null,
+      "summary": "Steven tells Connie about his mission with the Gems to heal Amethyst when she cracked her gem.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -485,7 +485,7 @@
       "index_title": "Arcade Mania",
       "url": "https://steven-universe.fandom.com/wiki/Arcade_Mania/Transcript",
       "file": "transcripts/steven-universe/arcade-mania.txt",
-      "summary": null,
+      "summary": "Steven takes the Gems on his own kind of adventure by bringing them to the Funland Arcade, where Garnet becomes enchanted by a rhythm game.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -593,7 +593,7 @@
       "index_title": "Are You My Dad?",
       "url": "https://steven-universe.fandom.com/wiki/Are_You_My_Dad%3F/Transcript",
       "file": "transcripts/steven-universe/are-you-my-dad.txt",
-      "summary": null,
+      "summary": "People are disappearing from Beach City, and Steven tries to solve the mystery.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -729,7 +729,7 @@
       "index_title": "Back to the Barn",
       "url": "https://steven-universe.fandom.com/wiki/Back_to_the_Barn/Transcript",
       "file": "transcripts/steven-universe/back-to-the-barn.txt",
-      "summary": null,
+      "summary": "The gang return to the family barn to build robots.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -821,7 +821,7 @@
       "index_title": "Back to the Kindergarten",
       "url": "https://steven-universe.fandom.com/wiki/Back_to_the_Kindergarten/Transcript",
       "file": "transcripts/steven-universe/back-to-the-kindergarten.txt",
-      "summary": null,
+      "summary": "Steven, Amethyst and Peridot try to spruce up the Kindergarten.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -843,7 +843,7 @@
             "group": "violence",
             "how": "Steven and Amethyst begins watering the sunflowers by blasting them with water guns.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -851,7 +851,7 @@
                 "speaker": null,
                 "text": "Steven and Amethyst begins watering the sunflowers by blasting them with water guns.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -905,7 +905,7 @@
       "index_title": "Back to the Moon",
       "url": "https://steven-universe.fandom.com/wiki/Back_to_the_Moon/Transcript",
       "file": "transcripts/steven-universe/back-to-the-moon.txt",
-      "summary": null,
+      "summary": "Steven and the Gems return to the Moon Base.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -989,7 +989,7 @@
       "index_title": "Barn Mates",
       "url": "https://steven-universe.fandom.com/wiki/Barn_Mates/Transcript",
       "file": "transcripts/steven-universe/barn-mates.txt",
-      "summary": null,
+      "summary": "Steven helps two of his friends get along at the barn.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1050,7 +1050,7 @@
       "index_title": "Beach City Drift",
       "url": "https://steven-universe.fandom.com/wiki/Beach_City_Drift/Transcript",
       "file": "transcripts/steven-universe/beach-city-drift.txt",
-      "summary": null,
+      "summary": "Steven and Connie battle their biggest foe in a car race.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1150,7 +1150,7 @@
       "index_title": "Beach Party",
       "url": "https://steven-universe.fandom.com/wiki/Beach_Party/Transcript",
       "file": "transcripts/steven-universe/beach-party.txt",
-      "summary": null,
+      "summary": "After a battle damages the Fish Stew Pizza sign, the Gems are banned from the restaurant, so Steven throws a cookout on the beachside to mend the relationship between the Pizza family and the Gems.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1234,7 +1234,7 @@
       "index_title": "Beta",
       "url": "https://steven-universe.fandom.com/wiki/Beta/Transcript",
       "file": "transcripts/steven-universe/beta.txt",
-      "summary": null,
+      "summary": "Amethyst acts strangely when she and Steven visit friends in the country.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1486,7 +1486,7 @@
                 "speaker": null,
                 "text": "Steven walks down and sees Bluebird who's got a knife.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -1494,7 +1494,7 @@
                 "speaker": null,
                 "text": "... Hmm? *gasps* PEARL! Bluebird's got a knife!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -1556,7 +1556,7 @@
       "index_title": "Bubble Buddies",
       "url": "https://steven-universe.fandom.com/wiki/Bubble_Buddies/Transcript",
       "file": "transcripts/steven-universe/bubble-buddies.txt",
-      "summary": null,
+      "summary": "Steven forms a magic bubble around himself and a girl named Connie to save her from a falling rock, but he has no idea how to make it disappear.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -1578,7 +1578,7 @@
             "group": "violence",
             "how": "Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -1586,7 +1586,7 @@
                 "speaker": null,
                 "text": "Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -1594,7 +1594,7 @@
                 "speaker": null,
                 "text": "It's okay, I'm a Gem. Onion, we need a harpoon gun! *slowly* HAR-POON-GUUUN!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -1648,7 +1648,7 @@
       "index_title": "Bubbled",
       "url": "https://steven-universe.fandom.com/wiki/Bubbled/Transcript",
       "file": "transcripts/steven-universe/bubbled.txt",
-      "summary": null,
+      "summary": "Steven is stuck in a bubble.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1670,7 +1670,7 @@
             "group": "violence",
             "how": "\"Eyeball\" snickers as her gem shimmers, and she pulls a chisel knife out of her gem.",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -1678,7 +1678,7 @@
                 "speaker": null,
                 "text": "\"Eyeball\" snickers as her gem shimmers, and she pulls a chisel knife out of her gem.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               },
               {
@@ -1686,7 +1686,7 @@
                 "speaker": null,
                 "text": "Steven stops running to think, and \"Eyeball\" bumps into him. \"Eyeball\" has Steven pinned down, with her chisel knife floating right above them.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "late"
               }
             ]
@@ -1711,7 +1711,7 @@
       "index_title": "Buddy's Book",
       "url": "https://steven-universe.fandom.com/wiki/Buddy%27s_Book/Transcript",
       "file": "transcripts/steven-universe/buddy-s-book.txt",
-      "summary": null,
+      "summary": "Steven visits the library with Connie and uncovers a long lost book.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1772,7 +1772,7 @@
       "index_title": "Can't Go Back",
       "url": "https://steven-universe.fandom.com/wiki/Can%27t_Go_Back/Transcript",
       "file": "transcripts/steven-universe/can-t-go-back.txt",
-      "summary": null,
+      "summary": "Ronaldo spots something mysterious on the moon, and Steven goes to investigate.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1856,7 +1856,7 @@
       "index_title": "Cat Fingers",
       "url": "https://steven-universe.fandom.com/wiki/Cat_Fingers/Transcript",
       "file": "transcripts/steven-universe/cat-fingers.txt",
-      "summary": null,
+      "summary": "Steven tries to master his shapeshifting abilities with Amethyst, but turns his fingers into cats, making it harder to do things.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1917,7 +1917,7 @@
       "index_title": "Catch and Release",
       "url": "https://steven-universe.fandom.com/wiki/Catch_and_Release/Transcript",
       "file": "transcripts/steven-universe/catch-and-release.txt",
-      "summary": null,
+      "summary": "We finally see inside steven's bathroom.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2139,7 +2139,7 @@
       "index_title": "Chille Tid",
       "url": "https://steven-universe.fandom.com/wiki/Chille_Tid/Transcript",
       "file": "transcripts/steven-universe/chille-tid.txt",
-      "summary": null,
+      "summary": "Steven and the Crystal Gems try to relax with a slumber party.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2223,7 +2223,7 @@
       "index_title": "Coach Steven",
       "url": "https://steven-universe.fandom.com/wiki/Coach_Steven/Transcript",
       "file": "transcripts/steven-universe/coach-steven.txt",
-      "summary": null,
+      "summary": "Against Pearl's wishes, Steven becomes determined to get stronger after watching Garnet and Amethyst fuse into the mighty Sugilite.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2363,7 +2363,7 @@
       "index_title": "Cooking with Lion",
       "url": "https://steven-universe.fandom.com/wiki/Cooking_with_Lion/Transcript",
       "file": "transcripts/steven-universe/cooking-with-lion.txt",
-      "summary": null,
+      "summary": "Steven and Lion host an educational online cooking show.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2395,7 +2395,7 @@
       "index_title": "Crack the Whip",
       "url": "https://steven-universe.fandom.com/wiki/Crack_the_Whip/Transcript",
       "file": "transcripts/steven-universe/crack-the-whip.txt",
-      "summary": null,
+      "summary": "Amethyst takes charge of Steven and Connie.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -2534,7 +2534,7 @@
       "index_title": "Cry for Help",
       "url": "https://steven-universe.fandom.com/wiki/Cry_for_Help/Transcript",
       "file": "transcripts/steven-universe/cry-for-help.txt",
-      "summary": null,
+      "summary": "A magical disturbance causes an interruption to Steven's favorite show.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2618,7 +2618,7 @@
       "index_title": "Dewey Wins",
       "url": "https://steven-universe.fandom.com/wiki/Dewey_Wins/Transcript",
       "file": "transcripts/steven-universe/dewey-wins.txt",
-      "summary": null,
+      "summary": "Steven helps Mayor Dewey run a difficult campaign.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2679,7 +2679,7 @@
       "index_title": "Doug Out",
       "url": "https://steven-universe.fandom.com/wiki/Doug_Out/Transcript",
       "file": "transcripts/steven-universe/doug-out.txt",
-      "summary": null,
+      "summary": "Steven and Connie join Connie's father on a stake out.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2740,7 +2740,7 @@
       "index_title": "Drop Beat Dad",
       "url": "https://steven-universe.fandom.com/wiki/Drop_Beat_Dad/Transcript",
       "file": "transcripts/steven-universe/drop-beat-dad.txt",
-      "summary": null,
+      "summary": "Steven tries to help Sour Cream reconnect with his estranged father.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -2760,24 +2760,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.",
+            "how": "That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.",
-                "mode": "on-screen",
-                "intensity": 2,
+                "text": "That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*",
+                "mode": "implied",
+                "intensity": 1,
                 "at": "mid"
               },
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*",
-                "mode": "implied",
+                "text": "Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.",
+                "mode": "on-screen",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -2818,7 +2818,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone."
+        "Violence & injury — That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*"
       ],
       "notes": null,
       "flags": [],
@@ -2832,7 +2832,7 @@
       "index_title": "Earthlings",
       "url": "https://steven-universe.fandom.com/wiki/Earthlings/Transcript",
       "file": "transcripts/steven-universe/earthlings.txt",
-      "summary": null,
+      "summary": "Steven, Amethyst and Peridot face off against Jasper and her army of gem monsters.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3225,7 +3225,7 @@
       "index_title": "Friend Ship",
       "url": "https://steven-universe.fandom.com/wiki/Friend_Ship/Transcript",
       "file": "transcripts/steven-universe/friend-ship.txt",
-      "summary": null,
+      "summary": "An old spaceship is looked around by the Gems.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3337,23 +3337,15 @@
           {
             "theme": "Nudity & bodies",
             "group": "sex",
-            "how": "No, have you seen my pants? *reveals that he is wearing just a shirt and underwear* They’re also very important.",
-            "count": 3,
+            "how": "Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.",
+            "count": 2,
             "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "No, have you seen my pants? *reveals that he is wearing just a shirt and underwear* They’re also very important.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven appears in just his underwear after placing a shard in each of his garments. His socks, shirt, pants, shoes, and jacket stand beside him.",
+                "text": "Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.",
                 "mode": "on-screen",
                 "intensity": 1,
                 "at": "late"
@@ -3403,7 +3395,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — No, have you seen my pants? *reveals that he is wearing just a shirt and underwear* They’re also very important."
+        "Nudity & bodies — Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth."
       ],
       "notes": null,
       "flags": [],
@@ -3417,7 +3409,7 @@
       "index_title": "Full Disclosure",
       "url": "https://steven-universe.fandom.com/wiki/Full_Disclosure/Transcript",
       "file": "transcripts/steven-universe/full-disclosure.txt",
-      "summary": null,
+      "summary": "After defeating Jasper and Peridot, Steven has trouble telling Connie about his most recent adventure.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3533,7 +3525,7 @@
       "index_title": "Fusion Cuisine",
       "url": "https://steven-universe.fandom.com/wiki/Fusion_Cuisine/Transcript",
       "file": "transcripts/steven-universe/fusion-cuisine.txt",
-      "summary": null,
+      "summary": "Steven convinces the Gems to act as his mother.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3555,7 +3547,7 @@
             "group": "violence",
             "how": "Steven and Connie are watching \"Under the Knife\" on the TV together in Steven's Room.",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -3563,7 +3555,7 @@
                 "speaker": null,
                 "text": "Steven and Connie are watching \"Under the Knife\" on the TV together in Steven's Room.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -3571,7 +3563,7 @@
                 "speaker": null,
                 "text": "Prep the patient for emergency surgery. We're gonna go... Under the Knife.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               }
             ]
@@ -3625,7 +3617,7 @@
       "index_title": "Future Boy Zoltron",
       "url": "https://steven-universe.fandom.com/wiki/Future_Boy_Zoltron/Transcript",
       "file": "transcripts/steven-universe/future-boy-zoltron.txt",
-      "summary": null,
+      "summary": "Steven tells people's fortunes at Funland.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3657,7 +3649,7 @@
       "index_title": "Future Vision",
       "url": "https://steven-universe.fandom.com/wiki/Future_Vision/Transcript",
       "file": "transcripts/steven-universe/future-vision.txt",
-      "summary": null,
+      "summary": "Steven learns that Garnet can see into the future and becomes curious about the possible dangers that lurk around him.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -3679,7 +3671,7 @@
             "group": "violence",
             "how": "pick up the knife...",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -3687,7 +3679,7 @@
                 "speaker": null,
                 "text": "pick up the knife...",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               },
               {
@@ -3749,7 +3741,7 @@
       "index_title": "Garnet's Universe",
       "url": "https://steven-universe.fandom.com/wiki/Garnet%27s_Universe/Transcript",
       "file": "transcripts/steven-universe/garnet-s-universe.txt",
-      "summary": null,
+      "summary": "Steven imagines what garnet does before she returns.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -3872,7 +3864,7 @@
       "index_title": "Gem Drill",
       "url": "https://steven-universe.fandom.com/wiki/Gem_Drill/Transcript",
       "file": "transcripts/steven-universe/gem-drill.txt",
-      "summary": null,
+      "summary": "Steven and Peridot take on the Cluster.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -3925,7 +3917,7 @@
       "index_title": "Gem Glow",
       "url": "https://steven-universe.fandom.com/wiki/Gem_Glow/Transcript",
       "file": "transcripts/steven-universe/gem-glow.txt",
-      "summary": null,
+      "summary": "Steven eats cookie cat's and mistakenly thinks they have activated his gem.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4037,24 +4029,24 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "*picks up a knife* Ready?",
+            "how": "The Gems begin to harvest the vegetables from the farm. Garnet summons her gauntlets and punches the ground, making carrots pop up into the air, and Lapis flies down to catch them in a bag.",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "*picks up a knife* Ready?",
-                "mode": "implied",
-                "intensity": 2,
+                "text": "The Gems begin to harvest the vegetables from the farm. Garnet summons her gauntlets and punches the ground, making carrots pop up into the air, and Lapis flies down to catch them in a bag.",
+                "mode": "on-screen",
+                "intensity": 1,
                 "at": "mid"
               },
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "The Gems begin to harvest the vegetables from the farm. Garnet summons her gauntlets and punches the ground, making carrots pop up into the air, and Lapis flies down to catch them in a bag.",
-                "mode": "on-screen",
+                "text": "*picks up a knife* Ready?",
+                "mode": "implied",
                 "intensity": 1,
                 "at": "mid"
               }
@@ -4087,7 +4079,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — *picks up a knife* Ready?"
+        "Violence & injury — The Gems begin to harvest the vegetables from the farm. Garnet summons her gauntlets and punches the ground, making carrots pop up into the air, and Lapis flies down to catch them in a bag."
       ],
       "notes": null,
       "flags": [],
@@ -4101,7 +4093,7 @@
       "index_title": "Gem Heist",
       "url": "https://steven-universe.fandom.com/wiki/Gem_Heist/Transcript",
       "file": "transcripts/steven-universe/gem-heist.txt",
-      "summary": null,
+      "summary": "The Gems try to pull off a heist.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4177,7 +4169,7 @@
       "index_title": "Gem Hunt",
       "url": "https://steven-universe.fandom.com/wiki/Gem_Hunt/Transcript",
       "file": "transcripts/steven-universe/gem-hunt.txt",
-      "summary": null,
+      "summary": "Steven and Pearl take Connie on her first mission.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -4232,7 +4224,7 @@
       "index_title": "Gem Karaoke",
       "url": "https://steven-universe.fandom.com/wiki/Gem_Karaoke/Transcript",
       "file": "transcripts/steven-universe/gem-karaoke.txt",
-      "summary": null,
+      "summary": "Connie documents Steven and the Gems singing their hearts out to a prerecorded backing track.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4264,7 +4256,7 @@
       "index_title": "Gemcation",
       "url": "https://steven-universe.fandom.com/wiki/Gemcation/Transcript",
       "file": "transcripts/steven-universe/gemcation.txt",
-      "summary": null,
+      "summary": "Greg and the Gems take Steven on vacation to help him relax.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4409,7 +4401,7 @@
       "index_title": "Greg the Babysitter",
       "url": "https://steven-universe.fandom.com/wiki/Greg_the_Babysitter/Transcript",
       "file": "transcripts/steven-universe/greg-the-babysitter.txt",
-      "summary": null,
+      "summary": "Greg tells Steven the story how he ended up working at the car wash.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4592,7 +4584,7 @@
       "index_title": "Historical Friction",
       "url": "https://steven-universe.fandom.com/wiki/Historical_Friction/Transcript",
       "file": "transcripts/steven-universe/historical-friction.txt",
-      "summary": null,
+      "summary": "Steven joins a theatre group along with Jamie.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4676,7 +4668,7 @@
       "index_title": "Hit the Diamond",
       "url": "https://steven-universe.fandom.com/wiki/Hit_the_Diamond/Transcript",
       "file": "transcripts/steven-universe/hit-the-diamond.txt",
-      "summary": null,
+      "summary": "Steven and the Gems engage in an old-fashioned game of baseball.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4852,7 +4844,7 @@
       "index_title": "Horror Club",
       "url": "https://steven-universe.fandom.com/wiki/Horror_Club/Transcript",
       "file": "transcripts/steven-universe/horror-club.txt",
-      "summary": null,
+      "summary": "Steven goes to the lighthouse to watch scary movies with Ronaldo, Lars and Sadie.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -4913,7 +4905,7 @@
       "index_title": "House Guest",
       "url": "https://steven-universe.fandom.com/wiki/House_Guest/Transcript",
       "file": "transcripts/steven-universe/house-guest.txt",
-      "summary": null,
+      "summary": "Greg moves in with Steven after injuring his leg.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5006,7 +4998,7 @@
       "index_title": "I Am My Mom",
       "url": "https://steven-universe.fandom.com/wiki/I_Am_My_Mom/Transcript",
       "file": "transcripts/steven-universe/i-am-my-mom.txt",
-      "summary": null,
+      "summary": "Steven struggles to fix his mistakes.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -5093,38 +5085,15 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "You forgot your foot thong thingy-(she sees Steven) OOOHHH, WHA?!",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "You forgot your foot thong thingy-(she sees Steven) OOOHHH, WHA?!",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — You forgot your foot thong thingy-(she sees Steven) OOOHHH, WHA?!"
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -5198,7 +5167,7 @@
       "index_title": "Island Adventure",
       "url": "https://steven-universe.fandom.com/wiki/Island_Adventure/Transcript",
       "file": "transcripts/steven-universe/island-adventure.txt",
-      "summary": null,
+      "summary": "Steven, Lars and Sadie visit a beach to mend their friendship.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -5306,7 +5275,7 @@
       "index_title": "It Could've Been Great",
       "url": "https://steven-universe.fandom.com/wiki/It_Could%27ve_Been_Great/Transcript",
       "file": "transcripts/steven-universe/it-could-ve-been-great.txt",
-      "summary": null,
+      "summary": "The Gems go to the moon.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5367,7 +5336,7 @@
       "index_title": "Jail Break",
       "url": "https://steven-universe.fandom.com/wiki/Jail_Break/Transcript",
       "file": "transcripts/steven-universe/jail-break.txt",
-      "summary": null,
+      "summary": "Steven is in outer space as he meets new gems and tries to make his way around the ship.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -5459,7 +5428,7 @@
       "index_title": "Joking Victim",
       "url": "https://steven-universe.fandom.com/wiki/Joking_Victim/Transcript",
       "file": "transcripts/steven-universe/joking-victim.txt",
-      "summary": null,
+      "summary": "Steven works at the Big Donut when Lars leaves Sadie with all the work.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5528,7 +5497,7 @@
       "index_title": "Joy Ride",
       "url": "https://steven-universe.fandom.com/wiki/Joy_Ride/Transcript",
       "file": "transcripts/steven-universe/joy-ride.txt",
-      "summary": null,
+      "summary": "The Cool Kids help Steven put some fun back in his life.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5780,7 +5749,7 @@
       "index_title": "Keeping It Together",
       "url": "https://steven-universe.fandom.com/wiki/Keeping_It_Together/Transcript",
       "file": "transcripts/steven-universe/keeping-it-together.txt",
-      "summary": null,
+      "summary": "Steven and the Crystal Gems revisit the Kindergarten and find a dark secret.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5841,7 +5810,7 @@
       "index_title": "Kevin Party",
       "url": "https://steven-universe.fandom.com/wiki/Kevin_Party/Transcript",
       "file": "transcripts/steven-universe/kevin-party.txt",
-      "summary": null,
+      "summary": "Kevin is throwing a party, and Steven is invited.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5902,7 +5871,7 @@
       "index_title": "Keystone Motel",
       "url": "https://steven-universe.fandom.com/wiki/Keystone_Motel/Transcript",
       "file": "transcripts/steven-universe/keystone-motel.txt",
-      "summary": null,
+      "summary": "The friends take a trip out of town.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5986,7 +5955,7 @@
       "index_title": "Kiki's Pizza Delivery Service",
       "url": "https://steven-universe.fandom.com/wiki/Kiki%27s_Pizza_Delivery_Service/Transcript",
       "file": "transcripts/steven-universe/kiki-s-pizza-delivery-service.txt",
-      "summary": null,
+      "summary": "Kiki has nightmares and Steven intervenes.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -6047,7 +6016,7 @@
       "index_title": "Kindergarten Kid",
       "url": "https://steven-universe.fandom.com/wiki/Kindergarten_Kid/Transcript",
       "file": "transcripts/steven-universe/kindergarten-kid.txt",
-      "summary": null,
+      "summary": "A monster problem surfaces.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -6123,7 +6092,7 @@
       "index_title": "Know Your Fusion",
       "url": "https://steven-universe.fandom.com/wiki/Know_Your_Fusion/Transcript",
       "file": "transcripts/steven-universe/know-your-fusion.txt",
-      "summary": null,
+      "summary": "Steven and the Gems examine fusions.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6199,7 +6168,7 @@
       "index_title": "Lars and the Cool Kids",
       "url": "https://steven-universe.fandom.com/wiki/Lars_and_the_Cool_Kids/Transcript",
       "file": "transcripts/steven-universe/lars-and-the-cool-kids.txt",
-      "summary": null,
+      "summary": "Steven and Lars get to hang out with the cool kids (Jenny Pizza, Buck Dewey, and Sour Cream) in town, but their teenage shenanigans get them into magical trouble.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -6283,7 +6252,7 @@
       "index_title": "Lars of the Stars",
       "url": "https://steven-universe.fandom.com/wiki/Lars_of_the_Stars/Transcript",
       "file": "transcripts/steven-universe/lars-of-the-stars.txt",
-      "summary": null,
+      "summary": "Lars rises to the occasion.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6305,7 +6274,7 @@
             "group": "violence",
             "how": "*makes finger-guns* Bingo, bongo.",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -6313,7 +6282,7 @@
                 "speaker": null,
                 "text": "*makes finger-guns* Bingo, bongo.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -6321,7 +6290,7 @@
                 "speaker": null,
                 "text": "*looks at a photo of Sadie, and smiles* Hmm, pulling out the big guns just for us, huh?",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -6375,7 +6344,7 @@
       "index_title": "Lars' Head",
       "url": "https://steven-universe.fandom.com/wiki/Lars%27_Head/Transcript",
       "file": "transcripts/steven-universe/lars-head.txt",
-      "summary": null,
+      "summary": "Steven finally gets to know the real Lars.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6497,7 +6466,7 @@
       "index_title": "Last One Out of Beach City",
       "url": "https://steven-universe.fandom.com/wiki/Last_One_Out_of_Beach_City/Transcript",
       "file": "transcripts/steven-universe/last-one-out-of-beach-city.txt",
-      "summary": null,
+      "summary": "Pearl, Steven and Amethyst go to a rock show.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6558,7 +6527,7 @@
       "index_title": "Legs From Here to Homeworld",
       "url": "https://steven-universe.fandom.com/wiki/Legs_From_Here_to_Homeworld/Transcript",
       "file": "transcripts/steven-universe/legs-from-here-to-homeworld.txt",
-      "summary": null,
+      "summary": "Steven travels to visit family.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6619,7 +6588,7 @@
       "index_title": "Letters to Lars",
       "url": "https://steven-universe.fandom.com/wiki/Letters_to_Lars/Transcript",
       "file": "transcripts/steven-universe/letters-to-lars.txt",
-      "summary": null,
+      "summary": "Steven writes about the latest news of Beach City.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6902,7 +6871,7 @@
       "index_title": "Log Date 7 15 2",
       "url": "https://steven-universe.fandom.com/wiki/Log_Date_7_15_2/Transcript",
       "file": "transcripts/steven-universe/log-date-7-15-2.txt",
-      "summary": null,
+      "summary": "Steven listens to a friend's audio diary.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -6913,31 +6882,10 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "…in the entire camp! And Pierre is a force to be reckoned with on land, when he hung Bunk Seven's underwear in the tree, the whole-\"",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "…in the entire camp! And Pierre is a force to be reckoned with on land, when he hung Bunk Seven's underwear in the tree, the whole-\"",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [
           "LGBTQ themes"
         ],
@@ -6971,9 +6919,7 @@
         ],
         "notes_extra": []
       },
-      "examples": [
-        "Nudity & bodies — …in the entire camp! And Pierre is a force to be reckoned with on land, when he hung Bunk Seven's underwear in the tree, the whole-\""
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -6986,7 +6932,7 @@
       "index_title": "Love Letters",
       "url": "https://steven-universe.fandom.com/wiki/Love_Letters/Transcript",
       "file": "transcripts/steven-universe/love-letters.txt",
-      "summary": null,
+      "summary": "Steven and Connie help Jamie the mailman with love.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7070,7 +7016,7 @@
       "index_title": "Made of Honor",
       "url": "https://steven-universe.fandom.com/wiki/Made_of_Honor/Transcript",
       "file": "transcripts/steven-universe/made-of-honor.txt",
-      "summary": null,
+      "summary": "Steven has a big surprise for the Crystal Gems.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7131,7 +7077,7 @@
       "index_title": "Marble Madness",
       "url": "https://steven-universe.fandom.com/wiki/Marble_Madness/Transcript",
       "file": "transcripts/steven-universe/marble-madness.txt",
-      "summary": null,
+      "summary": "Steven and the Gems encounter another droid from space.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -7215,7 +7161,7 @@
       "index_title": "Maximum Capacity",
       "url": "https://steven-universe.fandom.com/wiki/Maximum_Capacity/Transcript",
       "file": "transcripts/steven-universe/maximum-capacity.txt",
-      "summary": null,
+      "summary": "A garage sale reunites Greg and Amethyst with their favorite cheesy sitcom - Lil' Butler.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7299,7 +7245,7 @@
       "index_title": "Message Received",
       "url": "https://steven-universe.fandom.com/wiki/Message_Received/Transcript",
       "file": "transcripts/steven-universe/message-received.txt",
-      "summary": null,
+      "summary": "Steven doubts everyone.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7383,7 +7329,7 @@
       "index_title": "Mindful Education",
       "url": "https://steven-universe.fandom.com/wiki/Mindful_Education/Transcript",
       "file": "transcripts/steven-universe/mindful-education.txt",
-      "summary": null,
+      "summary": "Steven and Connie learn to focus better.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -7467,7 +7413,7 @@
       "index_title": "Mirror Gem",
       "url": "https://steven-universe.fandom.com/wiki/Mirror_Gem/Transcript",
       "file": "transcripts/steven-universe/mirror-gem.txt",
-      "summary": null,
+      "summary": "Steven befriends a magical mirror that can mysteriously communicate with him, and ends up freeing its trapped captive: Lapis Lazuli, another mysterious Gem.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7488,7 +7434,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "Pearl grunts angrily and tosses M.C. Bear-Bear into a pile of other stabbed items.",
-            "count": 3,
+            "count": 2,
             "intensity": 3,
             "mode": "on-screen",
             "instances": [
@@ -7498,14 +7444,6 @@
                 "text": "Pearl grunts angrily and tosses M.C. Bear-Bear into a pile of other stabbed items.",
                 "mode": "on-screen",
                 "intensity": 3,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Howdy. *makes a finger gun* Bang.",
-                "mode": "implied",
-                "intensity": 2,
                 "at": "mid"
               },
               {
@@ -7567,7 +7505,7 @@
       "index_title": "Monster Buddies",
       "url": "https://steven-universe.fandom.com/wiki/Monster_Buddies/Transcript",
       "file": "transcripts/steven-universe/monster-buddies.txt",
-      "summary": null,
+      "summary": "Steven attempts to tame a Gem monster's wild form when he accidentally releases it from its bubble.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -7659,7 +7597,7 @@
       "index_title": "Monster Reunion",
       "url": "https://steven-universe.fandom.com/wiki/Monster_Reunion/Transcript",
       "file": "transcripts/steven-universe/monster-reunion.txt",
-      "summary": null,
+      "summary": "Steven convinces the Gems to let him try and heal a monster.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7720,7 +7658,7 @@
       "index_title": "Mr. Greg",
       "url": "https://steven-universe.fandom.com/wiki/Mr._Greg/Transcript",
       "file": "transcripts/steven-universe/mr-greg.txt",
-      "summary": null,
+      "summary": "Steven visits Empire City with Greg and Pearl.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7813,7 +7751,7 @@
       "index_title": "Nightmare Hospital",
       "url": "https://steven-universe.fandom.com/wiki/Nightmare_Hospital/Transcript",
       "file": "transcripts/steven-universe/nightmare-hospital.txt",
-      "summary": null,
+      "summary": "Steven and Connie sneak into a hospital to recover Rose's Sword, and meet an enemy while trying.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7874,7 +7812,7 @@
       "index_title": "Now We're Only Falling Apart",
       "url": "https://steven-universe.fandom.com/wiki/Now_We%27re_Only_Falling_Apart/Transcript",
       "file": "transcripts/steven-universe/now-we-re-only-falling-apart.txt",
-      "summary": null,
+      "summary": "Pearl tells a story.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -7935,7 +7873,7 @@
       "index_title": "Ocean Gem",
       "url": "https://steven-universe.fandom.com/wiki/Ocean_Gem/Transcript",
       "file": "transcripts/steven-universe/ocean-gem.txt",
-      "summary": null,
+      "summary": "Lapis Lazuli disappears after reigniting a past conflict with the three Crystal Gems and takes the ocean with her, leaving Beach City in a panic on the first day of summer. Steven, Connie, Greg, Lion and the Gems go on a mission to confront Lapis and set things right.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -7954,19 +7892,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Steven shoots a water gun while Connie hurls a small rock at the clone.",
-            "count": 3,
-            "intensity": 2,
+            "how": "Stand together. Don't let them separate us. *gets punched by Water Garnet*",
+            "count": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven shoots a water gun while Connie hurls a small rock at the clone.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -8020,7 +7950,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Steven shoots a water gun while Connie hurls a small rock at the clone."
+        "Violence & injury — Stand together. Don't let them separate us. *gets punched by Water Garnet*"
       ],
       "notes": null,
       "flags": [],
@@ -8087,7 +8017,7 @@
       "index_title": "On the Run",
       "url": "https://steven-universe.fandom.com/wiki/On_the_Run/Transcript",
       "file": "transcripts/steven-universe/on-the-run.txt",
-      "summary": null,
+      "summary": "Steven and Amethyst try out life on the road.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8140,7 +8070,7 @@
       "index_title": "Onion Friend",
       "url": "https://steven-universe.fandom.com/wiki/Onion_Friend/Transcript",
       "file": "transcripts/steven-universe/onion-friend.txt",
-      "summary": null,
+      "summary": "Steven and Amethyst pay a visit to the odd world of Onion's house.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8232,7 +8162,7 @@
       "index_title": "Onion Gang",
       "url": "https://steven-universe.fandom.com/wiki/Onion_Gang/Transcript",
       "file": "transcripts/steven-universe/onion-gang.txt",
-      "summary": null,
+      "summary": "Steven learns about Onion's secret group of friends.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8293,7 +8223,7 @@
       "index_title": "Onion Trade",
       "url": "https://steven-universe.fandom.com/wiki/Onion_Trade/Transcript",
       "file": "transcripts/steven-universe/onion-trade.txt",
-      "summary": null,
+      "summary": "A toy trade between Steven and Onion escalates into epic proportions.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -8354,7 +8284,7 @@
       "index_title": "Open Book",
       "url": "https://steven-universe.fandom.com/wiki/Open_Book/Transcript",
       "file": "transcripts/steven-universe/open-book.txt",
-      "summary": null,
+      "summary": "Steven and Connie want a new ending to a beloved book series, so Steven takes them into Rose's Room to re-enact it.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8386,7 +8316,7 @@
       "index_title": "Pilot",
       "url": "https://steven-universe.fandom.com/wiki/Pilot/Transcript",
       "file": "transcripts/steven-universe/pilot.txt",
-      "summary": null,
+      "summary": "Upon returning from an intergalactic mission, the Crystal Gems—Garnet, Amethyst, and Pearl—have brought a mysterious magical hourglass. Steven Universe, the youngest member of the Crystal Gems, gets his hands on the device and discovers that it has the ability to let him travel back in time in order to make snappy comebacks. However, his actions soon bring about a deadly adversary, with everyone's lives dependent on Steven being able to make a worthwhile comeback.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8470,7 +8400,7 @@
       "index_title": "Political Power",
       "url": "https://steven-universe.fandom.com/wiki/Political_Power/Transcript",
       "file": "transcripts/steven-universe/political-power.txt",
-      "summary": null,
+      "summary": "The Gems cause a power outage in Beach City, and Steven helps Mayor Dewey do damage control.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8531,7 +8461,7 @@
       "index_title": "Pool Hopping",
       "url": "https://steven-universe.fandom.com/wiki/Pool_Hopping/Transcript",
       "file": "transcripts/steven-universe/pool-hopping.txt",
-      "summary": null,
+      "summary": "Garnet and Steven explore the most unlikely timelines in Beach City.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8671,7 +8601,7 @@
       "index_title": "Raising the Barn",
       "url": "https://steven-universe.fandom.com/wiki/Raising_the_Barn/Transcript",
       "file": "transcripts/steven-universe/raising-the-barn.txt",
-      "summary": null,
+      "summary": "Pumpkin goes missing!",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8732,7 +8662,7 @@
       "index_title": "Reformed",
       "url": "https://steven-universe.fandom.com/wiki/Reformed/Transcript",
       "file": "transcripts/steven-universe/reformed.txt",
-      "summary": null,
+      "summary": "Steven, Amethyst and Garnet chase a corrupted gem monster through the Temple.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8824,7 +8754,7 @@
       "index_title": "Restaurant Wars",
       "url": "https://steven-universe.fandom.com/wiki/Restaurant_Wars/Transcript",
       "file": "transcripts/steven-universe/restaurant-wars.txt",
-      "summary": null,
+      "summary": "Steven settles a rivalry between restaurant owners.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -8885,7 +8815,7 @@
       "index_title": "Reunited",
       "url": "https://steven-universe.fandom.com/wiki/Reunited/Transcript",
       "file": "transcripts/steven-universe/reunited.txt",
-      "summary": null,
+      "summary": "Steven brings everyone together for a special reunion.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -9001,7 +8931,7 @@
       "index_title": "Rising Tides, Crashing Skies",
       "url": "https://steven-universe.fandom.com/wiki/Rising_Tides%2C_Crashing_Skies/Transcript",
       "file": "transcripts/steven-universe/rising-tides-crashing-skies.txt",
-      "summary": null,
+      "summary": "Ronaldo does some investigative reporting on whether Steven and the Crystal Gems are safe for Beach City.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9062,7 +8992,7 @@
       "index_title": "Rocknaldo",
       "url": "https://steven-universe.fandom.com/wiki/Rocknaldo/Transcript",
       "file": "transcripts/steven-universe/rocknaldo.txt",
-      "summary": null,
+      "summary": "Ronaldo sets out to find all the rock people living in Beach City!",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9170,7 +9100,7 @@
       "index_title": "Room for Ruby",
       "url": "https://steven-universe.fandom.com/wiki/Room_for_Ruby/Transcript",
       "file": "transcripts/steven-universe/room-for-ruby.txt",
-      "summary": null,
+      "summary": "Steven's gem family continues to grow.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -9315,7 +9245,7 @@
       "index_title": "Rose's Room",
       "url": "https://steven-universe.fandom.com/wiki/Rose%27s_Room/Transcript",
       "file": "transcripts/steven-universe/rose-s-room.txt",
-      "summary": null,
+      "summary": "Steven's desire for some alone time unlocks a new room in the temple that answers his every wish.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9376,7 +9306,7 @@
       "index_title": "Rose's Scabbard",
       "url": "https://steven-universe.fandom.com/wiki/Rose%27s_Scabbard/Transcript",
       "file": "transcripts/steven-universe/rose-s-scabbard.txt",
-      "summary": null,
+      "summary": "Steven joins Pearl on a special mission to a place that belonged to Rose-Quartz.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9437,7 +9367,7 @@
       "index_title": "Sadie Killer",
       "url": "https://steven-universe.fandom.com/wiki/Sadie_Killer/Transcript",
       "file": "transcripts/steven-universe/sadie-killer.txt",
-      "summary": null,
+      "summary": "Steven and the Cool Kids start a band, but they have trouble finding their sound.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9521,7 +9451,7 @@
       "index_title": "Sadie's Song",
       "url": "https://steven-universe.fandom.com/wiki/Sadie%27s_Song/Transcript",
       "file": "transcripts/steven-universe/sadie-s-song.txt",
-      "summary": null,
+      "summary": "Steven helps Sadie plan a performance for Beachapalooza.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9535,28 +9465,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "*chuckles* Well, I wasn't planning on going in my underwear.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "*chuckles* Well, I wasn't planning on going in my underwear.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -9610,7 +9521,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — *chuckles* Well, I wasn't planning on going in my underwear.",
         "Violence & injury — I remember when you punched the umpire."
       ],
       "notes": null,
@@ -9625,7 +9535,7 @@
       "index_title": "Same Old World",
       "url": "https://steven-universe.fandom.com/wiki/Same_Old_World/Transcript",
       "file": "transcripts/steven-universe/same-old-world.txt",
-      "summary": null,
+      "summary": "Steven flies around the world with Lapis Lazuli.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9741,7 +9651,7 @@
       "index_title": "Say Uncle",
       "url": "https://steven-universe.fandom.com/wiki/Say_Uncle/Transcript",
       "file": "transcripts/steven-universe/say-uncle.txt",
-      "summary": null,
+      "summary": "Steven meets Uncle Grandpa",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9796,7 +9706,7 @@
       "index_title": "Secret Team",
       "url": "https://steven-universe.fandom.com/wiki/Secret_Team/Transcript",
       "file": "transcripts/steven-universe/secret-team.txt",
-      "summary": null,
+      "summary": "A Secret Team is formed to retrieve the missing shards of a popped gem.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9880,7 +9790,7 @@
       "index_title": "Serious Steven",
       "url": "https://steven-universe.fandom.com/wiki/Serious_Steven/Transcript",
       "file": "transcripts/steven-universe/serious-steven.txt",
-      "summary": null,
+      "summary": "While navigating out of an ancient Gem maze, Steven tries to prove himself to the Gems by being serious.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9902,7 +9812,7 @@
             "group": "violence",
             "how": "Alright, but be careful. You might trigger a trap with that gun-show.",
             "count": 1,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -9910,7 +9820,7 @@
                 "speaker": null,
                 "text": "Alright, but be careful. You might trigger a trap with that gun-show.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -9964,7 +9874,7 @@
       "index_title": "Shirt Club",
       "url": "https://steven-universe.fandom.com/wiki/Shirt_Club/Transcript",
       "file": "transcripts/steven-universe/shirt-club.txt",
-      "summary": null,
+      "summary": "Steven makes T-shirts with Buck Dewey.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -10103,7 +10013,7 @@
       "index_title": "So Many Birthdays",
       "url": "https://steven-universe.fandom.com/wiki/So_Many_Birthdays/Transcript",
       "file": "transcripts/steven-universe/so-many-birthdays.txt",
-      "summary": null,
+      "summary": "After learning that the Gems are thousands of years old, Steven decides to make up for all the birthdays they've missed.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10187,7 +10097,7 @@
       "index_title": "Space Race",
       "url": "https://steven-universe.fandom.com/wiki/Space_Race/Transcript",
       "file": "transcripts/steven-universe/space-race.txt",
-      "summary": null,
+      "summary": "Steven tries to build a spaceship for Pearl.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10309,7 +10219,7 @@
       "index_title": "Steven Floats",
       "url": "https://steven-universe.fandom.com/wiki/Steven_Floats/Transcript",
       "file": "transcripts/steven-universe/steven-floats.txt",
-      "summary": null,
+      "summary": "Steven aquires a new gem power.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10370,7 +10280,7 @@
       "index_title": "Steven Reacts",
       "url": "https://steven-universe.fandom.com/wiki/Steven_Reacts/Transcript",
       "file": "transcripts/steven-universe/steven-reacts.txt",
-      "summary": null,
+      "summary": "Steven reacts live to a brand new episode of his favorite cartoon show.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10402,7 +10312,7 @@
       "index_title": "Steven the Sword Fighter",
       "url": "https://steven-universe.fandom.com/wiki/Steven_the_Sword_Fighter/Transcript",
       "file": "transcripts/steven-universe/steven-the-sword-fighter.txt",
-      "summary": null,
+      "summary": "Pearl's attempt to teach Steven the art of sword-fighting using a holographic version of herself goes awry when she gets injured and has to retreat into her gem to heal.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -10501,7 +10411,7 @@
       "index_title": "Steven vs. Amethyst",
       "url": "https://steven-universe.fandom.com/wiki/Steven_vs._Amethyst/Transcript",
       "file": "transcripts/steven-universe/steven-vs-amethyst.txt",
-      "summary": null,
+      "summary": "Steven and Amethyst compete against each other while training with Pearl.",
       "violence": 3,
       "sex": 1,
       "language": 1,
@@ -10608,7 +10518,7 @@
       "index_title": "Steven's Birthday",
       "url": "https://steven-universe.fandom.com/wiki/Steven%27s_Birthday/Transcript",
       "file": "transcripts/steven-universe/steven-s-birthday.txt",
-      "summary": null,
+      "summary": "Steven has a birthday party out at the barn, and decides he has some growing up to do.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10669,7 +10579,7 @@
       "index_title": "Steven's Dream",
       "url": "https://steven-universe.fandom.com/wiki/Steven%27s_Dream/Transcript",
       "file": "transcripts/steven-universe/steven-s-dream.txt",
-      "summary": null,
+      "summary": "A strange dream prompts Steven to search for answers.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10730,7 +10640,7 @@
       "index_title": "Steven's Lion",
       "url": "https://steven-universe.fandom.com/wiki/Steven%27s_Lion/Transcript",
       "file": "transcripts/steven-universe/steven-s-lion.txt",
-      "summary": null,
+      "summary": "Steven befriends a magical lion he finds in the desert during a mission.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10814,7 +10724,7 @@
       "index_title": "Steven's Song Time",
       "url": "https://steven-universe.fandom.com/wiki/Steven%27s_Song_Time/Transcript",
       "file": "transcripts/steven-universe/steven-s-song-time.txt",
-      "summary": null,
+      "summary": "Steven teaches you how to play a new song he wrote.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10846,7 +10756,7 @@
       "index_title": "Storm in the Room",
       "url": "https://steven-universe.fandom.com/wiki/Storm_in_the_Room/Transcript",
       "file": "transcripts/steven-universe/storm-in-the-room.txt",
-      "summary": null,
+      "summary": "Steven goes into his room in the temple to look for answers.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10907,7 +10817,7 @@
       "index_title": "Story for Steven",
       "url": "https://steven-universe.fandom.com/wiki/Story_for_Steven/Transcript",
       "file": "transcripts/steven-universe/story-for-steven.txt",
-      "summary": null,
+      "summary": "Greg reveals how he met Rose-Quartz.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -10962,7 +10872,7 @@
       "index_title": "Stuck Together",
       "url": "https://steven-universe.fandom.com/wiki/Stuck_Together/Transcript",
       "file": "transcripts/steven-universe/stuck-together.txt",
-      "summary": null,
+      "summary": "Steven and Lars are stuck inside Topaz and try to look for a way to escape.",
       "violence": 1,
       "sex": 1,
       "language": 2,
@@ -10994,7 +10904,7 @@
       "index_title": "Super Watermelon Island",
       "url": "https://steven-universe.fandom.com/wiki/Super_Watermelon_Island/Transcript",
       "file": "transcripts/steven-universe/super-watermelon-island.txt",
-      "summary": null,
+      "summary": "Steven mobilizes the Watermelon Stevens to help the Gems battle Malachite.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -11094,7 +11004,7 @@
       "index_title": "Sworn to the Sword",
       "url": "https://steven-universe.fandom.com/wiki/Sworn_to_the_Sword/Transcript",
       "file": "transcripts/steven-universe/sworn-to-the-sword.txt",
-      "summary": null,
+      "summary": "Connie wants to learn sword fighting.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -11155,7 +11065,7 @@
       "index_title": "That Will Be All",
       "url": "https://steven-universe.fandom.com/wiki/That_Will_Be_All/Transcript",
       "file": "transcripts/steven-universe/that-will-be-all.txt",
-      "summary": null,
+      "summary": "Steven and the Gems make a daring escape!",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -11210,7 +11120,7 @@
       "index_title": "The Answer",
       "url": "https://steven-universe.fandom.com/wiki/The_Answer/Transcript",
       "file": "transcripts/steven-universe/the-answer.txt",
-      "summary": null,
+      "summary": "Garnet finally tells Steven the story of how she came to be a Crystal Gem.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -11310,7 +11220,7 @@
       "index_title": "The Big Show",
       "url": "https://steven-universe.fandom.com/wiki/The_Big_Show/Transcript",
       "file": "transcripts/steven-universe/the-big-show.txt",
-      "summary": null,
+      "summary": "Steven shoots a documentary that follows a local band as they get their first big break.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -11426,7 +11336,7 @@
       "index_title": "The Good Lars",
       "url": "https://steven-universe.fandom.com/wiki/The_Good_Lars/Transcript",
       "file": "transcripts/steven-universe/the-good-lars.txt",
-      "summary": null,
+      "summary": "Steven, Lars and Sadie get invited to a party with the Cool Kids.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -11448,7 +11358,7 @@
             "group": "violence",
             "how": "*laughs anxiously* That is funny, Buck! It sounds great! *make thumbs-ups* Super cool! Can't wait! *makes gun hands* Bingo, bongo!",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "implied",
             "instances": [
               {
@@ -11456,7 +11366,7 @@
                 "speaker": null,
                 "text": "*laughs anxiously* That is funny, Buck! It sounds great! *make thumbs-ups* Super cool! Can't wait! *makes gun hands* Bingo, bongo!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -11464,7 +11374,7 @@
                 "speaker": null,
                 "text": "That Lars is full of surprises. The other day, he did this thing. What was it? *makes gun hands* Bingo, bongo. It was transcendent.",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -11518,7 +11428,7 @@
       "index_title": "The Message",
       "url": "https://steven-universe.fandom.com/wiki/The_Message/Transcript",
       "file": "transcripts/steven-universe/the-message.txt",
-      "summary": null,
+      "summary": "Steven and the Gems try to retrieve a message from the Wailing Stone.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -11579,7 +11489,7 @@
       "index_title": "The New Crystal Gems",
       "url": "https://steven-universe.fandom.com/wiki/The_New_Crystal_Gems/Transcript",
       "file": "transcripts/steven-universe/the-new-crystal-gems.txt",
-      "summary": null,
+      "summary": "Connie helps look after Beach City while Steven is busy.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -11640,7 +11550,7 @@
       "index_title": "The New Lars",
       "url": "https://steven-universe.fandom.com/wiki/The_New_Lars/Transcript",
       "file": "transcripts/steven-universe/the-new-lars.txt",
-      "summary": null,
+      "summary": "Steven analyzes Lar's life.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -11807,7 +11717,7 @@
       "index_title": "The Question",
       "url": "https://steven-universe.fandom.com/wiki/The_Question/Transcript",
       "file": "transcripts/steven-universe/the-question.txt",
-      "summary": null,
+      "summary": "Steven shows some city slicker gems how the cowboys lived.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -11829,7 +11739,7 @@
             "group": "violence",
             "how": "*making finger-guns atop Greg's van* Yee-haw! Pa-pow, pa-pow! Bang bang bang! Woo-hoo!!",
             "count": 2,
-            "intensity": 2,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
               {
@@ -11837,7 +11747,7 @@
                 "speaker": null,
                 "text": "*making finger-guns atop Greg's van* Yee-haw! Pa-pow, pa-pow! Bang bang bang! Woo-hoo!!",
                 "mode": "implied",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "early"
               },
               {
@@ -11845,7 +11755,7 @@
                 "speaker": null,
                 "text": "She glares at it, points a finger-gun at it and succeeds in scaring it away.",
                 "mode": "on-screen",
-                "intensity": 2,
+                "intensity": 1,
                 "at": "mid"
               }
             ]
@@ -11899,7 +11809,7 @@
       "index_title": "The Return",
       "url": "https://steven-universe.fandom.com/wiki/The_Return/Transcript",
       "file": "transcripts/steven-universe/the-return.txt",
-      "summary": null,
+      "summary": "Steven teams up with a new ally to rescue the Gems.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -11999,7 +11909,7 @@
       "index_title": "The Test",
       "url": "https://steven-universe.fandom.com/wiki/The_Test/Transcript",
       "file": "transcripts/steven-universe/the-test.txt",
-      "summary": null,
+      "summary": "Steven finds out that his mission to the Lunar Sea Spire was a test and demands a new quest.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12060,7 +11970,7 @@
       "index_title": "The Trial",
       "url": "https://steven-universe.fandom.com/wiki/The_Trial/Transcript",
       "file": "transcripts/steven-universe/the-trial.txt",
-      "summary": null,
+      "summary": "Steven goes to court against Blue and Yellow Diamond to determine his (or rather Rose Quartz's) fate.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12121,7 +12031,7 @@
       "index_title": "The Zoo",
       "url": "https://steven-universe.fandom.com/wiki/The_Zoo/Transcript",
       "file": "transcripts/steven-universe/the-zoo.txt",
-      "summary": null,
+      "summary": "Steven visits a special zoo.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12184,7 +12094,7 @@
       "index_title": "Three Gems and a Baby",
       "url": "https://steven-universe.fandom.com/wiki/Three_Gems_and_a_Baby/Transcript",
       "file": "transcripts/steven-universe/three-gems-and-a-baby.txt",
-      "summary": null,
+      "summary": "Greg tells Steven the story of his first winter with Steven.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12251,28 +12161,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Nudity & bodies",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Steven, in just his underwear, is looking at his tiger mask, visibly upset and in guilt.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven, in just his underwear, is looking at his tiger mask, visibly upset and in guilt.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -12334,7 +12225,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Nudity & bodies — Steven, in just his underwear, is looking at his tiger mask, visibly upset and in guilt.",
         "Violence & injury — How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!"
       ],
       "notes": null,
@@ -12349,7 +12239,7 @@
       "index_title": "Tiger Philanthropist",
       "url": "https://steven-universe.fandom.com/wiki/Tiger_Philanthropist/Transcript",
       "file": "transcripts/steven-universe/tiger-philanthropist.txt",
-      "summary": null,
+      "summary": "Steven returns to the ring to continue his pro wrestling odyssey.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -12441,7 +12331,7 @@
       "index_title": "Together Alone",
       "url": "https://steven-universe.fandom.com/wiki/Together_Alone/Transcript",
       "file": "transcripts/steven-universe/together-alone.txt",
-      "summary": null,
+      "summary": "Steven throws a party to bring his family together.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12522,27 +12412,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "Just then, a purple police bursts in through the front door of the house, wielding a water gun.",
-            "count": 3,
-            "intensity": 2,
+            "how": "The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away.",
+            "count": 1,
+            "intensity": 1,
             "mode": "on-screen",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Just then, a purple police bursts in through the front door of the house, wielding a water gun.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Dumb Police! Uhhh, you’re dumb! *shoots the water gun*",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -12588,7 +12462,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — Just then, a purple police bursts in through the front door of the house, wielding a water gun."
+        "Violence & injury — The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away."
       ],
       "notes": null,
       "flags": [],
@@ -12634,7 +12508,7 @@
       "index_title": "Too Far",
       "url": "https://steven-universe.fandom.com/wiki/Too_Far/Transcript",
       "file": "transcripts/steven-universe/too-far.txt",
-      "summary": null,
+      "summary": "Steven and Amethyst get involved with Gem gossip.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12695,7 +12569,7 @@
       "index_title": "Too Short to Ride",
       "url": "https://steven-universe.fandom.com/wiki/Too_Short_to_Ride/Transcript",
       "file": "transcripts/steven-universe/too-short-to-ride.txt",
-      "summary": null,
+      "summary": "Steven visits Funland with Amethyst but runs into trouble when their friend is too short to ride the rollercoasters.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12843,7 +12717,7 @@
       "index_title": "Video Chat",
       "url": "https://steven-universe.fandom.com/wiki/Video_Chat/Transcript",
       "file": "transcripts/steven-universe/video-chat.txt",
-      "summary": null,
+      "summary": "Steven and Peridot introduce Lapis to a new way to communicate.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -12936,7 +12810,7 @@
       "index_title": "Warp Tour",
       "url": "https://steven-universe.fandom.com/wiki/Warp_Tour/Transcript",
       "file": "transcripts/steven-universe/warp-tour.txt",
-      "summary": null,
+      "summary": "Steven thinks he sees something creepy traversing the warp streams and the Gems try to ease his paranoia.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -12947,39 +12821,10 @@
       "themes": {
         "fine": [
           "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "*sighs, arms himself with a water gun and stands on guard at the front door* Looks like I'm not sleeping tonight.",
-            "count": 2,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "*sighs, arms himself with a water gun and stands on guard at the front door* Looks like I'm not sleeping tonight.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven is fast asleep, leaning against the front door, water gun in hand.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "early"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [
           "LGBTQ themes"
         ],
@@ -13005,9 +12850,7 @@
         ],
         "notes_extra": []
       },
-      "examples": [
-        "Violence & injury — *sighs, arms himself with a water gun and stands on guard at the front door* Looks like I'm not sleeping tonight."
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -13020,7 +12863,7 @@
       "index_title": "Watermelon Steven",
       "url": "https://steven-universe.fandom.com/wiki/Watermelon_Steven/Transcript",
       "file": "transcripts/steven-universe/watermelon-steven.txt",
-      "summary": null,
+      "summary": "Steven grows a patch of watermelons and discovers a new power.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -13139,7 +12982,7 @@
       "index_title": "We Need to Talk",
       "url": "https://steven-universe.fandom.com/wiki/We_Need_to_Talk/Transcript",
       "file": "transcripts/steven-universe/we-need-to-talk.txt",
-      "summary": null,
+      "summary": "Greg tells Steven and Connie the story of how he learned about Gem fusion.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -13232,7 +13075,7 @@
       "index_title": "What's Your Problem",
       "url": "https://steven-universe.fandom.com/wiki/What%27s_Your_Problem/Transcript",
       "file": "transcripts/steven-universe/what-s-your-problem.txt",
-      "summary": null,
+      "summary": "Amethyst convinces Steven to take a day off for himself.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -13293,7 +13136,7 @@
       "index_title": "When It Rains",
       "url": "https://steven-universe.fandom.com/wiki/When_It_Rains/Transcript",
       "file": "transcripts/steven-universe/when-it-rains.txt",
-      "summary": null,
+      "summary": "Steven helps a friend who is afraid of thunderstorms.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -13399,7 +13242,7 @@
       "index_title": "Winter Forecast",
       "url": "https://steven-universe.fandom.com/wiki/Winter_Forecast/Transcript",
       "file": "transcripts/steven-universe/winter-forecast.txt",
-      "summary": null,
+      "summary": "Steven has to get Connie home before it snows.",
       "violence": 2,
       "sex": 1,
       "language": 1,
@@ -13460,7 +13303,7 @@
       "index_title": "Your Mother and Mine",
       "url": "https://steven-universe.fandom.com/wiki/Your_Mother_and_Mine/Transcript",
       "file": "transcripts/steven-universe/your-mother-and-mine.txt",
-      "summary": null,
+      "summary": "Steven takes Garnet to meet some of his new friends.",
       "violence": 1,
       "sex": 1,
       "language": 1,

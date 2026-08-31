@@ -15,7 +15,7 @@ from themes import (
     build_themes,
     collect_moments,
     evidence_caps,
-    scrub_false_swear_names,
+    scrub_rating_false_positives,
     themes_as_examples,
     why_this_score,
 )
@@ -191,7 +191,7 @@ def apply_tropes(body: str) -> dict:
 
 def analyze_text(text: str, show_id: str) -> dict:
     body = text.split("=" * 20, 1)[-1] if "=" * 10 in text else text
-    lower = scrub_false_swear_names(body.lower())
+    lower = scrub_rating_false_positives(body.lower())
     kids = show_id in KIDS_SHOW_IDS
 
     sex_weight = 0

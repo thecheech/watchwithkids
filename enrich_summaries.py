@@ -164,10 +164,9 @@ def lookup_summary(
 
 
 def ratings_path_for(show_id: str) -> Path:
+    # ratings.json is where rate_episodes.py writes Friends, so it is the source of
+    # truth; ratings/friends.json is only kept in sync as a convenience copy.
     if show_id == "friends":
-        rated = ROOT / "ratings" / "friends.json"
-        if rated.exists():
-            return rated
         return ROOT / "ratings.json"
     return ROOT / "ratings" / f"{show_id}.json"
 

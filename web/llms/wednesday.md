@@ -18,7 +18,7 @@ Watch for:
   - Winner draws first blood.
   - never bring a knife to a sword fight.
 - Swearing — 3 moment(s)
-  - Still think you're weird as sh*t, though.
+  - Still think you're weird as shit, though.
   - What the hell did you do to my room?
   - of scaring the hell out of people?
 - Alcohol & drugs — 1 moment(s)
@@ -45,8 +45,8 @@ Watch for:
   - to beat her at her own game.
 - Swearing — 7 moment(s)
   - Payback is going to be a bitch.
-  - He doesn't tell me sh*t.
-  - Holy sh*t. Wh Why would he do that?
+  - He doesn't tell me shit.
+  - Holy shit. Wh Why would he do that?
   - Sartre said, "Hell is other people."
   - Better not be talking crap
   - give a damn about Rowan?
@@ -67,7 +67,7 @@ Watch for:
   - sans the desire to strangle him
 - Swearing — 6 moment(s)
   - Volunteers, prick up thine ears.
-  - Okay, he was a sadistic a**hole.
+  - Okay, he was a sadistic asshole.
   - After the crap she pulled in the Poe Cup,
   - there's no way in hell.
   - Just find the damn bear
@@ -94,7 +94,7 @@ Watch for:
   - Oh, make sure nobody spikes the punch.
 - Swearing — 4 moment(s)
   - "First date. Stand back, bitches!
-  - for the sh*tty hand he's been dealt.
+  - for the shitty hand he's been dealt.
   - What the hell are you doing?
   - I fell for your crap.
 - Alcohol & drugs — 1 moment(s)
@@ -181,7 +181,7 @@ Watch for:
   - It is a full blood moon.
   - You brought a gun to a sword fight.
 - Swearing — 4 moment(s)
-  - Oh, you a**hole!
+  - Oh, you asshole!
   - Where the hell am I?
   - What the hell is going on?
   - have been slashed. Every damn one.
@@ -249,8 +249,8 @@ Watch for:
   - Huh. You seem to attract murderers
   - If a Hyde murders their master,
 - Swearing — 4 moment(s)
-  - Eat sh*t, baldy.
-  - Holy sh*t. I'll talk!
+  - Eat shit, baldy.
+  - Holy shit. I'll talk!
   - What the hell'd you do in there?
   - [Dwayne] What the hell was that?
 

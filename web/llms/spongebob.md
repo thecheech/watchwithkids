@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/spongebob.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 858 all clear (1–2), 4 gray area (3), 0 hard pass (4–5).
+Buckets: 860 all clear (1–2), 2 gray area (3), 0 hard pass (4–5).
 
 ## S2 E29a — & 1 Toilets
 URL: https://watchwiththekids.com/ep/spongebob/0229a.html
@@ -833,13 +833,11 @@ Watch for: nothing flagged.
 
 ## S10 E206b — Code Yellow
 URL: https://watchwiththekids.com/ep/spongebob/10206b.html
-Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Sex & hookups — 4 moment(s)
+- Sex & hookups — 2 moment(s)
   - Bubble transitions to Squidward hooked up to the IV.
   - Bubble transitions to the doctors talking to Mrs. Puff hooked up to the iron lung.
-  - The surgeon puts Squidward to sleep with anesthesia.
-  - The surgeon puts Squidward to sleep with anesthesia again. He wakes up again and looks at his reflection again. He has three noses instead of one.
 - Violence & injury — 1 moment(s)
   - SpongeBob: “Just make an incision here, and— [operates with the spatula and ink sprays up] no! Shoot! [the heart flips] Son of a gun!”
 
@@ -1236,11 +1234,8 @@ Watch for: nothing flagged.
 
 ## S10 E215a — Feral Friends
 URL: https://watchwiththekids.com/ep/spongebob/10215a.html
-Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Sex & hookups — 2 moment(s)
-  - The green moon flies over Pearl and it transforms her into a realistic sperm whale.
-  - Patchy: “…Stroke! Stroke! [rows his boat out of Pearl's way; Pearl leaps over Patchy and Potty, as a live-action sperm whale, and lands back in the ocean, splashing water into Patchy's boat] Oh!”
 - Nudity & bodies — 2 moment(s)
   - Mr. Krabs and Mrs. Puff fight each other again, they both revert back into their regular forms, and are now naked
   - But he is also naked.
@@ -2953,9 +2948,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/spongebob/10214b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Sex & hookups — 2 moment(s)
-  - SpongeBob lifts Squidward out of the hole as the SpongeBob-snowman comes to life. SpongeBob and Squidward walk over to an arctic sperm whale.
-  - The arctic sperm whale takes the delivery bag and pulls out a Krabby Patty frozen in ice. Then he takes a bite of the frozen patty.
 - Suicide & self-harm — 1 moment(s)
   - Art Appraiser: “Well, paintings can become much more valuable when the artist is no longer with us. You know. Out of the picture. [pretends to hang himself]”
 
@@ -4107,8 +4099,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/12254.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
-- Sex & hookups — 1 moment(s)
-  - Patrick: “Oh, yeah. I was gonna tell you. [holds out a bag of beans and throws some beans at SpongeBob] Surprise! [goes to sleep with everyone]”
 - Nudity & bodies — 2 moment(s)
   - Rube: “Now remember, everyone, keep your arms and legs inside the bus at all times 'cause we are about to encounter a gaggle of nearly naked beach giraffes!”
   - SpongeBob and Patrick: “Nearly naked beach giraffes!”

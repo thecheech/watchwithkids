@@ -221,6 +221,12 @@ THEME_EXCLUSIONS = {
         r"\bsex of the baby\b",
         r"\bthe sex\b(?=\s+of)",
         r"\bsexy\s+(?:new\s+)?(?:hair|shoes|car|dress)\b",
+        # Animal name, not the reproductive cell.
+        r"\bsperm\s+whale\b",
+        # Literal sleep, not sex.
+        r"\b(?:go(?:es|ing)?|went|fall(?:s|en|ing)?|fallen)\s+(?:to\s+)?sleep\s+with\b",
+        r"\bsleep(?:ing|s)?\s+with\s+(?:everyone|everybody|the\s+(?:fishes|lights|door))\b",
+        r"\bput(?:s|ting)?\s+(?:\w+\s+){0,3}to\s+sleep\b",
     ],
     "Nudity & bodies": [
         r"\bnaked eye\b",
@@ -284,6 +290,11 @@ FALSE_SWEAR_NAME_RES = [
     re.compile(p, re.I) for p in THEME_EXCLUSIONS.get("Swearing", [])
 ]
 
+# Same idea for sex-weight scoring (sperm whale, "goes to sleep with…").
+FALSE_SEX_PHRASE_RES = [
+    re.compile(p, re.I) for p in THEME_EXCLUSIONS.get("Sex & hookups", [])
+]
+
 # On kids animation, bare clothing words are costume gags unless undress language is nearby.
 MILD_BODY_TRIGGERS = {"underwear", "bra", "panties", "thong", "breasts", "boobs", "cleavage"}
 REAL_UNDRESS_RE = re.compile(
@@ -297,6 +308,19 @@ def scrub_false_swear_names(text: str) -> str:
     for pattern in FALSE_SWEAR_NAME_RES:
         out = pattern.sub("name", out)
     return out
+
+
+def scrub_false_sex_phrases(text: str) -> str:
+    """Neutralize known non-sexual phrases before SEX_PATTERNS weight counting."""
+    out = text
+    for pattern in FALSE_SEX_PHRASE_RES:
+        out = pattern.sub(" ", out)
+    return out
+
+
+def scrub_rating_false_positives(text: str) -> str:
+    """Apply all keyword-score scrubs used by the raters."""
+    return scrub_false_sex_phrases(scrub_false_swear_names(text))
 
 # Curated plot flags raise a floor even when the transcript is thin.
 FLAG_THEMES = {

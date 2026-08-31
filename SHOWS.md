@@ -17,6 +17,7 @@ index at the project root for compatibility with the web app).
 | [Futurama](transcripts/futurama/) | 11 | 141 | 852,953 | theinfosphere.org |
 | [Gravity Falls](transcripts/gravity-falls/) | — | 63 | 212,804 | gravityfalls.fandom.com |
 | [How I Met Your Mother](transcripts/how-i-met-your-mother/) | 9 | 208 | 625,893 | springfieldspringfield.co.uk |
+| [kpop-demon-hunters](transcripts/kpop-demon-hunters/) | 1 | 1 | 10,082 | ? |
 | [Malcolm in the Middle](transcripts/malcolm-in-the-middle/) | 7 | 151 | 422,764 | springfieldspringfield.co.uk |
 | [Modern Family](transcripts/modern-family/) | 11 | 246 | 920,793 | springfieldspringfield.co.uk |
 | [Parks and Recreation](transcripts/parks-and-recreation/) | 7 | 122 | 425,996 | springfieldspringfield.co.uk |
@@ -30,9 +31,10 @@ index at the project root for compatibility with the web app).
 | [The Fresh Prince of Bel-Air](transcripts/fresh-prince/) | 6 | 148 | 378,300 | springfieldspringfield.co.uk |
 | [The Office (US)](transcripts/the-office/) | 9 | 186 | 677,992 | brianbuie/the-office (GitHub) |
 | [The Simpsons](transcripts/simpsons/) | 26 | 564 | 1,883,638 | Todd Schneider dataset (via GitHub) |
+| [wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | ? |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 25 shows, 6,132 transcripts, 19,636,865 words.**
+**Total: 27 shows, 6,149 transcripts, 19,720,678 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

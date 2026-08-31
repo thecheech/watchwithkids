@@ -119,7 +119,7 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Still think you're weird as sh*t, though.",
+            "how": "Still think you're weird as shit, though.",
             "count": 3,
             "intensity": 2,
             "mode": "implied",
@@ -127,7 +127,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Still think you're weird as sh*t, though.",
+                "text": "Still think you're weird as shit, though.",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
@@ -175,7 +175,7 @@
       },
       "examples": [
         "Violence & injury — attempted murder charges.",
-        "Swearing — Still think you're weird as sh*t, though.",
+        "Swearing — Still think you're weird as shit, though.",
         "Alcohol & drugs — getting stoned."
       ],
       "notes": null,
@@ -343,7 +343,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "He doesn't tell me sh*t.",
+                "text": "He doesn't tell me shit.",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "mid"
@@ -351,7 +351,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Holy sh*t. Wh Why would he do that?",
+                "text": "Holy shit. Wh Why would he do that?",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "mid"
@@ -521,7 +521,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Okay, he was a sadistic a**hole.",
+                "text": "Okay, he was a sadistic asshole.",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
@@ -740,7 +740,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "for the sh*tty hand he's been dealt.",
+                "text": "for the shitty hand he's been dealt.",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
@@ -1444,7 +1444,7 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Oh, you a**hole!",
+            "how": "Oh, you asshole!",
             "count": 4,
             "intensity": 2,
             "mode": "implied",
@@ -1452,7 +1452,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Oh, you a**hole!",
+                "text": "Oh, you asshole!",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "late"
@@ -1491,7 +1491,7 @@
       "examples": [
         "Nudity & bodies — I'd wake up naked,",
         "Violence & injury — framing Xavier for murder",
-        "Swearing — Oh, you a**hole!"
+        "Swearing — Oh, you asshole!"
       ],
       "notes": null,
       "flags": [],
@@ -1965,7 +1965,7 @@
           {
             "theme": "Swearing",
             "group": "language",
-            "how": "Eat sh*t, baldy.",
+            "how": "Eat shit, baldy.",
             "count": 4,
             "intensity": 2,
             "mode": "implied",
@@ -1973,7 +1973,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Eat sh*t, baldy.",
+                "text": "Eat shit, baldy.",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "mid"
@@ -1981,7 +1981,7 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Holy sh*t. I'll talk!",
+                "text": "Holy shit. I'll talk!",
                 "mode": "implied",
                 "intensity": 2,
                 "at": "mid"
@@ -2011,7 +2011,7 @@
       },
       "examples": [
         "Violence & injury — into a murderous trap?",
-        "Swearing — Eat sh*t, baldy."
+        "Swearing — Eat shit, baldy."
       ],
       "notes": null,
       "flags": [],
