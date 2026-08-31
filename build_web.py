@@ -1067,6 +1067,8 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
     )
 
     text = path.read_text()
+    # Hand-written head tags carry absolute URLs — keep them on the current origin.
+    text = re.sub(r"https://(?:watchwiththekids\.com|watchwithkids\.vercel\.app)", SITE, text)
     text = _replace_block(text, "LIVECOUNT", count_line)
     text = _replace_block(text, "SHOWS", shows_block)
     text = _replace_block(text, "JSONLD", script)
