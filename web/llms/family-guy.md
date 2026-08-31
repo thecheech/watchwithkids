@@ -1,11 +1,11 @@
 # Family Guy — parent guide (456 episodes)
 
-Source: https://watchwithkids.vercel.app/family-guy.html
+Source: https://watchwiththekids.com/family-guy.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 11 all clear (1–2), 96 gray area (3), 349 hard pass (4–5).
 
 ## S1 E1 — 1. Death Has a Shadow
-URL: https://watchwithkids.vercel.app/ep/family-guy/0101.html
+URL: https://watchwiththekids.com/ep/family-guy/0101.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -25,7 +25,7 @@ Watch for:
   - Cheery instrumental music.] Mom, Dad, I found cigarettes in Greg's jacket. - Greg, were you smoking cigarettes? - No, Dad. He's lying. There's no doubt about that.…
 
 ## S1 E2 — 2. I Never Met the Dead Man
-URL: https://watchwithkids.vercel.app/ep/family-guy/0102.html
+URL: https://watchwiththekids.com/ep/family-guy/0102.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -40,7 +40,7 @@ Watch for:
   - Cheery instrumental music.] LOIS: Look at Stewie. Isn't he adorable playing with his Sesame Street phone? Put me through to the Pentagon.…
 
 ## S1 E3 — 3. Chitty Chitty Death Bang
-URL: https://watchwithkids.vercel.app/ep/family-guy/0103.html
+URL: https://watchwiththekids.com/ep/family-guy/0103.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -55,7 +55,7 @@ Watch for:
   - LOIS: “[Singing.] "It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?…”
 
 ## S1 E4 — 4. Mind Over Murder
-URL: https://watchwithkids.vercel.app/ep/family-guy/0104.html
+URL: https://watchwiththekids.com/ep/family-guy/0104.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -72,7 +72,7 @@ Watch for:
   - Cheery singing from TV.] SINGERS: "When life is getting to you "put some fresh in your life Let Mintos freshen up your life "Life is just a breeze when you stay fresh and cool "Because Mintos puts the fresh in life…
 
 ## S1 E5 — 5. A Hero Sits Next Door
-URL: https://watchwithkids.vercel.app/ep/family-guy/0105.html
+URL: https://watchwiththekids.com/ep/family-guy/0105.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -89,7 +89,7 @@ Watch for:
   - Cheery instrumental music.] Machiavelli! You've told me nothing I don't already know! Sun Tzu's The Art of War. LOIS: Stewie, those books aren't for babies. Here. Watch the Teletubbies.…
 
 ## S1 E6 — 6. The Son Also Draws
-URL: https://watchwithkids.vercel.app/ep/family-guy/0106.html
+URL: https://watchwiththekids.com/ep/family-guy/0106.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -102,7 +102,7 @@ Watch for:
   - Blasted matriarch! She has failed once again to replenish this frigid box with potations. l shall give her a piece of my mind! Damn it! Now look here, you.…
 
 ## S1 E7 — 7. Brian: Portrait of a Dog
-URL: https://watchwithkids.vercel.app/ep/family-guy/0107.html
+URL: https://watchwiththekids.com/ep/family-guy/0107.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -117,7 +117,7 @@ Watch for:
   - Come on, everyone. The Eight is Enough reunion show is about to start. Mary, have you seen Nicholas? He's up in his room sulking, Dad. Yeah. He's still upset because Abby threw out his baseball cards.…
 
 ## S2 E1 — 1. Peter, Peter, Caviar Eater
-URL: https://watchwithkids.vercel.app/ep/family-guy/0201.html
+URL: https://watchwiththekids.com/ep/family-guy/0201.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -133,7 +133,7 @@ Watch for:
   - LOIS: “[Singing.] "It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?…”
 
 ## S2 E2 — 2. Holy Crap
-URL: https://watchwithkids.vercel.app/ep/family-guy/0202.html
+URL: https://watchwiththekids.com/ep/family-guy/0202.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -147,7 +147,7 @@ Watch for:
   - LOIS: “[Singing.] "It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?…”
 
 ## S2 E3 — 3. DaBoom
-URL: https://watchwithkids.vercel.app/ep/family-guy/0203.html
+URL: https://watchwiththekids.com/ep/family-guy/0203.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -165,7 +165,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S2 E4 — 4. Brian in Love
-URL: https://watchwithkids.vercel.app/ep/family-guy/0204.html
+URL: https://watchwiththekids.com/ep/family-guy/0204.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -182,7 +182,7 @@ Watch for:
   - Hello, neighbour. I'm glad we're together again. Oh! I think I hear our friend, Trolley. - Actually, it's your mortal enemy, Stewie. - What the? Don't visit the neighbourhood of make-believe today.…
 
 ## S2 E5 — 5. Love Thy Trophy
-URL: https://watchwithkids.vercel.app/ep/family-guy/0205.html
+URL: https://watchwiththekids.com/ep/family-guy/0205.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -202,7 +202,7 @@ Watch for:
   - Good evening. I'm Diane Simmons. A stunning development tonight as O. J. Simpson is proven innocent. We have the identity of the real killer. But first It's fall.…
 
 ## S2 E6 — 6. Death Is a Bitch
-URL: https://watchwithkids.vercel.app/ep/family-guy/0206.html
+URL: https://watchwiththekids.com/ep/family-guy/0206.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -221,7 +221,7 @@ Watch for:
   - LOIS: “[Singing.] "It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?…”
 
 ## S2 E7 — 7. The King Is Dead
-URL: https://watchwithkids.vercel.app/ep/family-guy/0207.html
+URL: https://watchwiththekids.com/ep/family-guy/0207.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -239,7 +239,7 @@ Watch for:
   - LOIS: “[Singing.] "It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?…”
 
 ## S2 E8 — 8. I Am Peter, Hear Me Roar
-URL: https://watchwithkids.vercel.app/ep/family-guy/0208.html
+URL: https://watchwiththekids.com/ep/family-guy/0208.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -258,7 +258,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S2 E9 — 9. If I'm Dyin' I'm Lyin'
-URL: https://watchwithkids.vercel.app/ep/family-guy/0209.html
+URL: https://watchwiththekids.com/ep/family-guy/0209.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -275,7 +275,7 @@ Watch for:
   - LOIS: “[Singing.] "It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?…”
 
 ## S2 E10 — 10. Running Mates
-URL: https://watchwithkids.vercel.app/ep/family-guy/0210.html
+URL: https://watchwiththekids.com/ep/family-guy/0210.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -293,7 +293,7 @@ Watch for:
   - LOIS: “[Singing.] |"It seems today that all you see "is violence in movies and sex on TV "But where are those good,|old-fashioned values "on which we used to rely?…”
 
 ## S2 E11 — 11. A Picture Is Worth 1,000 Bucks
-URL: https://watchwithkids.vercel.app/ep/family-guy/0211.html
+URL: https://watchwiththekids.com/ep/family-guy/0211.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -310,7 +310,7 @@ Watch for:
   - Where's Brian? Breakfast is getting cold. In tonight's episode, the part of Brian the dog will be played by Carter Banks. - Here I am. Sorry, I - Camera two. - Sorry, I overslept.…
 
 ## S2 E12 — 12. Fifteen Minutes of Shame
-URL: https://watchwithkids.vercel.app/ep/family-guy/0212.html
+URL: https://watchwiththekids.com/ep/family-guy/0212.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -330,7 +330,7 @@ Watch for:
   - All right, we're gonna use a fan brush here. I want you to take some hunter green, and we're gonna put a happy little bush down here in the corner. And that'll just be our little secret.…
 
 ## S2 E13 — 13. Road to Rhode Island
-URL: https://watchwithkids.vercel.app/ep/family-guy/0213.html
+URL: https://watchwiththekids.com/ep/family-guy/0213.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -347,7 +347,7 @@ Watch for:
   - Excedrin headache number one: puppy mill. Damn! Does anyone here have thumbs? Anyone? No? Agh! Sorry, I don't play. Hey, come on! Knock it off! Hey, how's the flow today? Hey, hey! Whoa! Mom! Do something.…
 
 ## S2 E14 — 14. Let's Go to the Hop
-URL: https://watchwithkids.vercel.app/ep/family-guy/0214.html
+URL: https://watchwiththekids.com/ep/family-guy/0214.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -360,7 +360,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S2 E15 — 15. Dammit Janet
-URL: https://watchwithkids.vercel.app/ep/family-guy/0215.html
+URL: https://watchwiththekids.com/ep/family-guy/0215.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -373,7 +373,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S2 E16 — 16. There's Something About Paulie
-URL: https://watchwithkids.vercel.app/ep/family-guy/0216.html
+URL: https://watchwiththekids.com/ep/family-guy/0216.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -389,7 +389,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S2 E17 — 17. He's Too Sexy for His Fat
-URL: https://watchwithkids.vercel.app/ep/family-guy/0217.html
+URL: https://watchwiththekids.com/ep/family-guy/0217.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -404,7 +404,7 @@ Watch for:
   - Oh, my! Tomatoes are 3. 99 a pound. That's so high! Isn't that high? It seems so high. This is interminable! I demand to know why you insist on taking me everywhere you go!…
 
 ## S2 E18 — 18. E. Peterbus Unum
-URL: https://watchwithkids.vercel.app/ep/family-guy/0218.html
+URL: https://watchwiththekids.com/ep/family-guy/0218.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -420,7 +420,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S2 E19 — 19. The Story on Page One
-URL: https://watchwithkids.vercel.app/ep/family-guy/0219.html
+URL: https://watchwiththekids.com/ep/family-guy/0219.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -435,7 +435,7 @@ Watch for:
   - (TV) We now return to "Sherry and the Anus". - Anus, are you still up? - Yeah, come on in, sis. Have you ever had to tell a lie in order to keep a friend?…
 
 ## S2 E20 — 20. Wasted Talent
-URL: https://watchwithkids.vercel.app/ep/family-guy/0220.html
+URL: https://watchwiththekids.com/ep/family-guy/0220.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -448,7 +448,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S2 E21 — 21. Fore, Father
-URL: https://watchwithkids.vercel.app/ep/family-guy/0221.html
+URL: https://watchwiththekids.com/ep/family-guy/0221.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -459,7 +459,7 @@ Watch for:
   - TV) We now return to "Little House on the Prairie". Mary, you're doing great with your Braille. I couldn't have done it without you, Pa. Why don't you go up to bed and get some sleep, honey? Sh.…
 
 ## S3 E1 — 1. The Thin White Line (1)
-URL: https://watchwithkids.vercel.app/ep/family-guy/0301.html
+URL: https://watchwiththekids.com/ep/family-guy/0301.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -474,7 +474,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E2 — 2. Brian Does Hollywood (2)
-URL: https://watchwithkids.vercel.app/ep/family-guy/0302.html
+URL: https://watchwiththekids.com/ep/family-guy/0302.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -487,7 +487,7 @@ Watch for:
   - Previously on "Family Guy": Oh, my God. Tell your father|not to start the car. You want my badge number?|Here's my freakin' badge number! - I can't lose this case. |- Lois, the case is already over.…
 
 ## S3 E3 — 3. Mr. Griffin Goes to Washington
-URL: https://watchwithkids.vercel.app/ep/family-guy/0303.html
+URL: https://watchwiththekids.com/ep/family-guy/0303.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -503,7 +503,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E4 — 4. One If By Clam, Two If By Sea
-URL: https://watchwithkids.vercel.app/ep/family-guy/0304.html
+URL: https://watchwiththekids.com/ep/family-guy/0304.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -518,7 +518,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E5 — 5. And the Wiener is...
-URL: https://watchwithkids.vercel.app/ep/family-guy/0305.html
+URL: https://watchwiththekids.com/ep/family-guy/0305.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -534,7 +534,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E6 — 6. Death Lives
-URL: https://watchwithkids.vercel.app/ep/family-guy/0306.html
+URL: https://watchwiththekids.com/ep/family-guy/0306.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -545,7 +545,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E7 — 7. Lethal Weapons
-URL: https://watchwithkids.vercel.app/ep/family-guy/0307.html
+URL: https://watchwiththekids.com/ep/family-guy/0307.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -564,7 +564,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E8 — 8. The Kiss Seen Around the World
-URL: https://watchwithkids.vercel.app/ep/family-guy/0308.html
+URL: https://watchwiththekids.com/ep/family-guy/0308.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -583,7 +583,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E9 — 9. Mr. Saturday Knight
-URL: https://watchwithkids.vercel.app/ep/family-guy/0309.html
+URL: https://watchwiththekids.com/ep/family-guy/0309.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -600,7 +600,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E10 — 10. Fish Out of Water
-URL: https://watchwithkids.vercel.app/ep/family-guy/0310.html
+URL: https://watchwiththekids.com/ep/family-guy/0310.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -617,7 +617,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E11 — 11. Emission Impossible
-URL: https://watchwithkids.vercel.app/ep/family-guy/0311.html
+URL: https://watchwiththekids.com/ep/family-guy/0311.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -635,7 +635,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E12 — 12. To Live and Die in Dixie
-URL: https://watchwithkids.vercel.app/ep/family-guy/0312.html
+URL: https://watchwiththekids.com/ep/family-guy/0312.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -654,7 +654,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E13 — 13. Screwed the Pooch
-URL: https://watchwithkids.vercel.app/ep/family-guy/0313.html
+URL: https://watchwiththekids.com/ep/family-guy/0313.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -671,7 +671,7 @@ Watch for:
   - I got the whole day planned. |First, we see the primates. Then the butterfly house, bathroom break Can't we all just run around|in a disorganised fashion? - Yeah!|- Monkeys throw their poo!…
 
 ## S3 E14 — 14. Peter Griffin: Husband, Father...Brother?
-URL: https://watchwithkids.vercel.app/ep/family-guy/0314.html
+URL: https://watchwiththekids.com/ep/family-guy/0314.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -690,7 +690,7 @@ Watch for:
   - I don't wanna go on a rant here, but America's|foreign policy makes about as much sense as Beowulf havin' sex with Robert Fulton|at the first battle of Antietam.…
 
 ## S3 E15 — 15. Ready, Willing, and Disabled
-URL: https://watchwithkids.vercel.app/ep/family-guy/0315.html
+URL: https://watchwiththekids.com/ep/family-guy/0315.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -705,7 +705,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E16 — 16. A Very Special Family Guy Freakin' Christmas
-URL: https://watchwithkids.vercel.app/ep/family-guy/0316.html
+URL: https://watchwiththekids.com/ep/family-guy/0316.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -718,7 +718,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E17 — 17. Brian Wallows and Peter's Swallows
-URL: https://watchwithkids.vercel.app/ep/family-guy/0317.html
+URL: https://watchwiththekids.com/ep/family-guy/0317.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -736,7 +736,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E18 — 18. From Method to Madness
-URL: https://watchwithkids.vercel.app/ep/family-guy/0318.html
+URL: https://watchwiththekids.com/ep/family-guy/0318.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -749,7 +749,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E19 — 19. Stuck Together, Torn Apart
-URL: https://watchwithkids.vercel.app/ep/family-guy/0319.html
+URL: https://watchwiththekids.com/ep/family-guy/0319.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -764,7 +764,7 @@ Watch for:
   - "It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?…
 
 ## S3 E20 — 20. Road to Europe
-URL: https://watchwithkids.vercel.app/ep/family-guy/0320.html
+URL: https://watchwiththekids.com/ep/family-guy/0320.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -783,7 +783,7 @@ Watch for:
   - It's 4 o'clock! Away with you!|- Change it back! Jolly Farm Revue. The latest indoctrinating|pablum for children with not enough to do.…
 
 ## S3 E21 — 21. Family Guy Viewer Mail (1)
-URL: https://watchwithkids.vercel.app/ep/family-guy/0321.html
+URL: https://watchwiththekids.com/ep/family-guy/0321.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -798,7 +798,7 @@ Watch for:
   - Hi, I'm Brian Griffin. |- I'm Stewart. Many of you have written in|with suggestions for episodes. - They're mostly God-awful. |- (canned laughter) Well, we've produced|three of our favourite suggestions.…
 
 ## S3 E22 — 22. When You Wish Upon a Weinstein
-URL: https://watchwithkids.vercel.app/ep/family-guy/0322.html
+URL: https://watchwiththekids.com/ep/family-guy/0322.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -809,7 +809,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E1 — 1. North by North Quahog
-URL: https://watchwithkids.vercel.app/ep/family-guy/0401.html
+URL: https://watchwiththekids.com/ep/family-guy/0401.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -826,7 +826,7 @@ Watch for:
   - Everybody, I got bad news. We've been cancelled. Oh no, Peter, how could they do that? Unfortunately, lois, there's just no more room on the schedule.…
 
 ## S4 E2 — 2. Fast Times at Buddy Cianci Jr. High
-URL: https://watchwithkids.vercel.app/ep/family-guy/0402.html
+URL: https://watchwiththekids.com/ep/family-guy/0402.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -845,7 +845,7 @@ Watch for:
   - In the television comedy world, the people are entertained by two separate yet equally important types of shows. TraditionaI sitcoms that get laughs out of everyday situations like trying to fix your own plumbing or…
 
 ## S4 E3 — 3. Blind Ambition
-URL: https://watchwithkids.vercel.app/ep/family-guy/0403.html
+URL: https://watchwiththekids.com/ep/family-guy/0403.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -861,7 +861,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E4 — 4. Don't Make Me Over
-URL: https://watchwithkids.vercel.app/ep/family-guy/0404.html
+URL: https://watchwiththekids.com/ep/family-guy/0404.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -880,7 +880,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E5 — 5. The Cleveland-Loretta Quagmire
-URL: https://watchwithkids.vercel.app/ep/family-guy/0405.html
+URL: https://watchwiththekids.com/ep/family-guy/0405.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -895,7 +895,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E6 — 6. Petarded
-URL: https://watchwithkids.vercel.app/ep/family-guy/0406.html
+URL: https://watchwiththekids.com/ep/family-guy/0406.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -909,7 +909,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E7 — 7. Brian the Bachelor
-URL: https://watchwithkids.vercel.app/ep/family-guy/0407.html
+URL: https://watchwiththekids.com/ep/family-guy/0407.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -926,7 +926,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E8 — 8. 8 Simple Rules for Buying My Teenage Daughter
-URL: https://watchwithkids.vercel.app/ep/family-guy/0408.html
+URL: https://watchwiththekids.com/ep/family-guy/0408.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -939,7 +939,7 @@ Watch for:
   - Thanks for baby-sitting, Meg. We'll be back in a couple of hours. I don't understand why I have to baby-sit Stewie. I mean, what's he really gonna do if we leave him by himself? And now to test my teleportation pods.…
 
 ## S4 E9 — 9. Breaking Out Is Hard to Do
-URL: https://watchwithkids.vercel.app/ep/family-guy/0409.html
+URL: https://watchwiththekids.com/ep/family-guy/0409.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -950,7 +950,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E10 — 10. Model Misbehavior
-URL: https://watchwithkids.vercel.app/ep/family-guy/0410.html
+URL: https://watchwiththekids.com/ep/family-guy/0410.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -969,7 +969,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E11 — 11. Peter's Got Woods
-URL: https://watchwithkids.vercel.app/ep/family-guy/0411.html
+URL: https://watchwiththekids.com/ep/family-guy/0411.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -986,7 +986,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E12 — 12. Perfect Castaway
-URL: https://watchwithkids.vercel.app/ep/family-guy/0412.html
+URL: https://watchwiththekids.com/ep/family-guy/0412.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -999,7 +999,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E13 — 13. Jungle Love
-URL: https://watchwithkids.vercel.app/ep/family-guy/0413.html
+URL: https://watchwiththekids.com/ep/family-guy/0413.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1016,7 +1016,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S4 E14 — 14. PTV
-URL: https://watchwithkids.vercel.app/ep/family-guy/0414.html
+URL: https://watchwiththekids.com/ep/family-guy/0414.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1030,7 +1030,7 @@ Watch for:
   - This is a message to all American infidels. Prepare to die in a sea of holy fire. You will be punished for your decadent ways on the first day of Radaman. You Wait. Did I just say R? What'd I say? "Radaman"? Ramadan.…
 
 ## S4 E15 — 15. Brian Goes Back to College
-URL: https://watchwithkids.vercel.app/ep/family-guy/0415.html
+URL: https://watchwiththekids.com/ep/family-guy/0415.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1048,7 +1048,7 @@ Watch for:
   - A-Team roll call. Face? - Here and handsome. - Murdock? - Here, and crazy! - BA? - I pity the fool. But I also suggest ways he may better himself. This is gonna be a fun day.…
 
 ## S4 E16 — 16. The Courtship of Stewie's Father
-URL: https://watchwithkids.vercel.app/ep/family-guy/0416.html
+URL: https://watchwiththekids.com/ep/family-guy/0416.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1062,7 +1062,7 @@ Watch for:
   - How come I'm never employee of the month? It's the worstjob since the Sand People choir. And a one, and a two No. The altos were early. This is the worst glee club I've ever Come on.…
 
 ## S4 E17 — 17. The Fat Guy Strangler
-URL: https://watchwithkids.vercel.app/ep/family-guy/0417.html
+URL: https://watchwiththekids.com/ep/family-guy/0417.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1080,7 +1080,7 @@ Watch for:
   - Peter, don't forget you have a physical at one o'clock. For the hundredth time, Lois, I won't forget. Nag, nag, nag. I should have married that woman I met on my bachelor party.…
 
 ## S4 E18 — 18. The Father, The Son and the Holy Fonz
-URL: https://watchwithkids.vercel.app/ep/family-guy/0418.html
+URL: https://watchwiththekids.com/ep/family-guy/0418.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1102,7 +1102,7 @@ Watch for:
   - We now return to The Adventures of Aquaman. - Yeah? - Hey, can you grab me another beer? Yeah. Anything else? Maybe a TV guide and another pillow for your feet? No, actually, get me, like, a Dewar's and soda.…
 
 ## S4 E19 — 19. Brian Sings and Swings
-URL: https://watchwithkids.vercel.app/ep/family-guy/0419.html
+URL: https://watchwiththekids.com/ep/family-guy/0419.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1119,7 +1119,7 @@ Watch for:
   - How did you sleep, Peter? Last night I had this crazy dream I was eating a sheep and now my pillow's gone. Wait. Here it is. What the hell was I eating? Sorry. See you, Lois.…
 
 ## S4 E20 — 20. Patriot Games
-URL: https://watchwithkids.vercel.app/ep/family-guy/0420.html
+URL: https://watchwiththekids.com/ep/family-guy/0420.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1134,7 +1134,7 @@ Watch for:
   - Family Guy: “"Patriot Games" All right, all bets are in. Ooh, Rupert, bad idea trusting the Celtics. Worse than when I trusted Brian to pack my parachute.…”
 
 ## S4 E21 — 21. I Take Thee, Quagmire
-URL: https://watchwithkids.vercel.app/ep/family-guy/0421.html
+URL: https://watchwiththekids.com/ep/family-guy/0421.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1152,7 +1152,7 @@ Watch for:
   - Family Guy - episode 512 "I take thee, Quagmire" All right, Peter, you made it to the Bonus Round. Congratulations. - Thanks, Regis. - Okay. The category is "Actor & Show. " So we need five consonants and a vowel.…
 
 ## S4 E22 — 22. Sibling Rivalry
-URL: https://watchwithkids.vercel.app/ep/family-guy/0422.html
+URL: https://watchwiththekids.com/ep/family-guy/0422.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1170,7 +1170,7 @@ Watch for:
   - Family Guy - episode 513 "Sibling rivalry" - Chris, did you get your homework done? - Yup. Chris, I know when you're lying to me, just like Santa Claus knows when you're sleeping.…
 
 ## S4 E23 — 23. Deep Throats
-URL: https://watchwithkids.vercel.app/ep/family-guy/0423.html
+URL: https://watchwiththekids.com/ep/family-guy/0423.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1187,7 +1187,7 @@ Watch for:
   - Family Guy "Deep Throats" Tuesday on Scarecrow and Mrs. King My God, what did those drug dealers do to you? Oh, they took my chest out and threw it over there. Then they pulled my legs out and threw them over there.…
 
 ## S4 E24 — 24. Peterotica
-URL: https://watchwithkids.vercel.app/ep/family-guy/0424.html
+URL: https://watchwiththekids.com/ep/family-guy/0424.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1200,7 +1200,7 @@ Watch for:
   - Family Guy - Les Griffin "Peterotica" Guys, this is the best dirty bookstore in town. Family-owned, great hours, and lots of parking in the rear. Get it? Wow, you usually expect these places to be dirty.…
 
 ## S4 E25 — 25. You May Kiss The...Uh...Guy Who Receives
-URL: https://watchwithkids.vercel.app/ep/family-guy/0425.html
+URL: https://watchwiththekids.com/ep/family-guy/0425.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1217,7 +1217,7 @@ Watch for:
   - "You May Now Kiss The Uh Guy Who Receives" Oh, Brian, we're so thrilled your gay cousin Jasper finally decided to come visit. Me, too. It's been way too long. - Anyway, thanks for putting him up. - No problem, Brian.…
 
 ## S4 E26 — 26. Petergeist
-URL: https://watchwithkids.vercel.app/ep/family-guy/0426.html
+URL: https://watchwiththekids.com/ep/family-guy/0426.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1237,7 +1237,7 @@ Watch for:
   - Family Guy "Petergeist" We now return to JAG. Harm, I found that evidence we need. Now we can finally clear that Chief Petty Officer of all charges Oh, what's the point? Does anybody even watch this show?…
 
 ## S4 E27 — 27. Untitled Griffin Family History
-URL: https://watchwithkids.vercel.app/ep/family-guy/0427.html
+URL: https://watchwiththekids.com/ep/family-guy/0427.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1252,7 +1252,7 @@ Watch for:
   - Family guy "Untitled Griffin Family History" - Peter, did you brush your teeth? - Nah. - Peter, brush your teeth. - I don't want to. - Peter, brush your teeth. - No, it's stupid.…
 
 ## S5 E1 — 1. Stewie Loves Lois
-URL: https://watchwithkids.vercel.app/ep/family-guy/0501.html
+URL: https://watchwiththekids.com/ep/family-guy/0501.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1265,7 +1265,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E2 — 2. Mother Tucker
-URL: https://watchwithkids.vercel.app/ep/family-guy/0502.html
+URL: https://watchwiththekids.com/ep/family-guy/0502.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1281,7 +1281,7 @@ Watch for:
   - Oh, this is so exciting. Maybe we'll get lucky and see another crash this year. Yeah, we can get some souvenirs. Last year, I got an altimeter and a shinbone. Eh, this is boring.…
 
 ## S5 E3 — 3. Hell Comes to Quahog
-URL: https://watchwithkids.vercel.app/ep/family-guy/0503.html
+URL: https://watchwiththekids.com/ep/family-guy/0503.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1296,7 +1296,7 @@ Watch for:
   - Oh, yes! I slam it, and you can suck it! Joe, that was our last ball. Eh, don't worry. Mr. Moose will help us out. Won't you, Mr. Moose? Fine. Knock-knock. Ping pong balls! Hey, hey, guys, look at me.…
 
 ## S5 E4 — 4. Saving Private Brian
-URL: https://watchwithkids.vercel.app/ep/family-guy/0504.html
+URL: https://watchwiththekids.com/ep/family-guy/0504.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1316,7 +1316,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E5 — 5. Whistle While Your Wife Works
-URL: https://watchwithkids.vercel.app/ep/family-guy/0505.html
+URL: https://watchwiththekids.com/ep/family-guy/0505.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1332,7 +1332,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E6 — 6. Prick Up Your Ears
-URL: https://watchwithkids.vercel.app/ep/family-guy/0506.html
+URL: https://watchwiththekids.com/ep/family-guy/0506.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1350,7 +1350,7 @@ Watch for:
   - We now return to Rodney King of Queens. - Rodney, did you take out the trash? - Um, I forgot. Oh, no she di-in't. Pizza for Adam West. No. You gave me Canadian bacon instead of bacon? This misdeed cannot go unpunished.…
 
 ## S5 E7 — 7. Chick Cancer
-URL: https://watchwithkids.vercel.app/ep/family-guy/0507.html
+URL: https://watchwiththekids.com/ep/family-guy/0507.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1374,7 +1374,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E8 — 8. Barely Legal
-URL: https://watchwithkids.vercel.app/ep/family-guy/0508.html
+URL: https://watchwiththekids.com/ep/family-guy/0508.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1396,7 +1396,7 @@ Watch for:
   - Family Guy Barely Legal And now back to Romancing the Stone. The only way they're not going to kill my sister is if we give them the stone. Well, they're going to be looking everywhere.…
 
 ## S5 E9 — 9. Road to Rupert
-URL: https://watchwithkids.vercel.app/ep/family-guy/0509.html
+URL: https://watchwiththekids.com/ep/family-guy/0509.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1409,7 +1409,7 @@ Watch for:
   - Oh, Peter, you're selling your anvil? Yeah, I've had a lot of good times with this thing. Oh, a dollar! - Hey, there, Chris. - Hi, Mr. Herbert. - Selling your old hand-me-downs? - Yep.…
 
 ## S5 E10 — 10. Peter's Two Dads
-URL: https://watchwithkids.vercel.app/ep/family-guy/0510.html
+URL: https://watchwiththekids.com/ep/family-guy/0510.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1424,7 +1424,7 @@ Watch for:
   - Um, Mom, Dad, um, I decided I want a big party this year with all my friends. And maybe a band. Is that cool? - Yeah, sure - Yeah, sure.…
 
 ## S5 E11 — 11. The Tan Aquatic with Steve Zissou
-URL: https://watchwithkids.vercel.app/ep/family-guy/0511.html
+URL: https://watchwiththekids.com/ep/family-guy/0511.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1441,7 +1441,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E12 — 12. Airport '07
-URL: https://watchwithkids.vercel.app/ep/family-guy/0512.html
+URL: https://watchwiththekids.com/ep/family-guy/0512.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1463,7 +1463,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E13 — 13. Bill and Peter's Bogus Adventure
-URL: https://watchwithkids.vercel.app/ep/family-guy/0513.html
+URL: https://watchwiththekids.com/ep/family-guy/0513.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1483,7 +1483,7 @@ Watch for:
   - Family Guy Bill and Peter's Bogus Journey This was such a great idea for a weekend activity. Well, I thought it'd be good to get out of the house.…
 
 ## S5 E14 — 14. No Meals on Wheels
-URL: https://watchwithkids.vercel.app/ep/family-guy/0514.html
+URL: https://watchwiththekids.com/ep/family-guy/0514.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1500,7 +1500,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E15 — 15. Boys Do Cry
-URL: https://watchwithkids.vercel.app/ep/family-guy/0515.html
+URL: https://watchwiththekids.com/ep/family-guy/0515.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1518,7 +1518,7 @@ Watch for:
   - Family Guy Boys Do Cry We now return to Julia Louis-Dreyfus in "Now It's Just Getting Sad. " Okay, okay, hear me out. My character is a therapist living in the city, but I'm married to an elephant. Hi, I'm the husband.…
 
 ## S5 E16 — 16. No Chris Left Behind
-URL: https://watchwithkids.vercel.app/ep/family-guy/0516.html
+URL: https://watchwiththekids.com/ep/family-guy/0516.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1529,7 +1529,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E17 — 17. It Takes a Village Idiot, and I Married One
-URL: https://watchwithkids.vercel.app/ep/family-guy/0517.html
+URL: https://watchwiththekids.com/ep/family-guy/0517.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1545,7 +1545,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S5 E18 — 18. Meet the Quagmires
-URL: https://watchwithkids.vercel.app/ep/family-guy/0518.html
+URL: https://watchwiththekids.com/ep/family-guy/0518.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1558,7 +1558,7 @@ Watch for:
   - Family Guy Meet The Quagmires Hey, Quagmire, how was your date last night? Cleveland, it was amazing. You know what I discovered last night? - Women have a fourth hole. - What? Yeah.…
 
 ## S6 E1 — 1. Blue Harvest
-URL: https://watchwithkids.vercel.app/ep/family-guy/0601.html
+URL: https://watchwiththekids.com/ep/family-guy/0601.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1576,7 +1576,7 @@ Watch for:
   - We now return to Sunday Golf on CBS. And Mickelson here, trying to save par. And there's Mickelson's wife. God, is she hot. Look at that rack. There's a downhill lie for you.…
 
 ## S6 E2 — 2. Movin' Out
-URL: https://watchwithkids.vercel.app/ep/family-guy/0602.html
+URL: https://watchwiththekids.com/ep/family-guy/0602.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1598,7 +1598,7 @@ Watch for:
   - Movin' Out (Brian's Song) This Tuesday on Lifetime, Valerie Bertinelli stars in a Lifetime original movie. You know, Doctor, you said you were going to cure my cancer, but all you did was rape me!…
 
 ## S6 E3 — 3. Believe It or Not, Joe's Walking on Air
-URL: https://watchwithkids.vercel.app/ep/family-guy/0603.html
+URL: https://watchwiththekids.com/ep/family-guy/0603.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1613,7 +1613,7 @@ Watch for:
   - Family Guy - Episode S06E03 Hell comes to Quahog Correction : Kemar Oh, yes! I slam it, and you can suck it! Joe, that was our last ball. Eh, don't worry. Mr. Moose will help us out. Won't you, Mr. Moose? Fine.…
 
 ## S6 E4 — 4. Stewie Kills Lois (1)
-URL: https://watchwithkids.vercel.app/ep/family-guy/0604.html
+URL: https://watchwiththekids.com/ep/family-guy/0604.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1633,7 +1633,7 @@ Watch for:
   - Family Guy - Episode S06E04 Saving Private Brian All right, kids, assembly is starting. Now please take your seats for the following presentation by the U. S. Army.…
 
 ## S6 E5 — 5. Lois Kills Stewie (2)
-URL: https://watchwithkids.vercel.app/ep/family-guy/0605.html
+URL: https://watchwiththekids.com/ep/family-guy/0605.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1649,7 +1649,7 @@ Watch for:
   - Family Guy - Episode S06E05 Whistle While Your Wife Works - Ow, damn it! - Peter, are you all right? No, no, I think you should call somebody. - Ma'am, are you all right? - I can't breathe.…
 
 ## S6 E6 — 6. Padre de Familia
-URL: https://watchwithkids.vercel.app/ep/family-guy/0606.html
+URL: https://watchwiththekids.com/ep/family-guy/0606.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1667,7 +1667,7 @@ Watch for:
   - Family Guy - Episode S06E06 Prick Up Your Ears We now return to Rodney King of Queens. - Rodney, did you take out the trash? - Um, I forgot. Oh, no she di-in't. Pizza for Adam West. No.…
 
 ## S6 E7 — 7. Peter's Daughter
-URL: https://watchwithkids.vercel.app/ep/family-guy/0607.html
+URL: https://watchwiththekids.com/ep/family-guy/0607.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1691,7 +1691,7 @@ Watch for:
   - Family Guy - Episode S06E07 Chick Cancer Coming up, a New Orleans man says his socks are finally dry. But first, the big news in entertainment this week is the lovable child actress, Olivia Fuller.…
 
 ## S6 E8 — 8. McStroke
-URL: https://watchwithkids.vercel.app/ep/family-guy/0608.html
+URL: https://watchwiththekids.com/ep/family-guy/0608.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1709,7 +1709,7 @@ Watch for:
   - Mom, where's Dad? Over across the street. He's collecting Cleveland's mail while he's out of town. Black guy mail. Peter, you're just supposed to pick up Cleveland's mail, not go through it.…
 
 ## S6 E9 — 9. Back to the Woods
-URL: https://watchwithkids.vercel.app/ep/family-guy/0609.html
+URL: https://watchwiththekids.com/ep/family-guy/0609.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1722,7 +1722,7 @@ Watch for:
   - And now back to G. I. Jose. Hey, guys, let's go swim in the old quarry. Yeah! Wait a minute, kids. Don't go swimming in that quarry. It's dangerous. Wow, thanks, G. I. Jose.…
 
 ## S6 E10 — 10. Play it Again, Brian
-URL: https://watchwithkids.vercel.app/ep/family-guy/0610.html
+URL: https://watchwiththekids.com/ep/family-guy/0610.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1737,7 +1737,7 @@ Watch for:
   - Family Guy - Episode S06E10 Peter's Two Dads Um, Mom, Dad, um, I decided I want a big party this year with all my friends. And maybe a band. Is that cool? - Yeah, sure - Yeah, sure.…
 
 ## S6 E11 — 11. The Former Life of Brian
-URL: https://watchwithkids.vercel.app/ep/family-guy/0611.html
+URL: https://watchwiththekids.com/ep/family-guy/0611.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1752,7 +1752,7 @@ Watch for:
   - The Former Life of Brian Hey, Stewie, you ready to go home? About an hour ago. This party sucks. What happened to your face? I'a ttcat. Stupid face-painters apparently never heard of Darth Maul.…
 
 ## S6 E12 — 12. Long John Peter
-URL: https://watchwithkids.vercel.app/ep/family-guy/0612.html
+URL: https://watchwiththekids.com/ep/family-guy/0612.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1766,7 +1766,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S7 E1 — 1. Love Blactually
-URL: https://watchwithkids.vercel.app/ep/family-guy/0701.html
+URL: https://watchwiththekids.com/ep/family-guy/0701.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1784,7 +1784,7 @@ Watch for:
   - Come on. People are gonna start showing up for the costume party any minute. - Hey, nice Snoopy costume, Brian. - Thanks. Aah! It's not true what they say: Punch Snoopy in the stomach as hard as you can and he won't…
 
 ## S7 E2 — 2. I Dream of Jesus
-URL: https://watchwithkids.vercel.app/ep/family-guy/0702.html
+URL: https://watchwiththekids.com/ep/family-guy/0702.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1797,7 +1797,7 @@ Watch for:
   - You know, kids, there's a lot of history here. These '50s diners were very popular in the '80s. Am I gonna enjoy this meal. Not like last night. I didn't have time to poop before the guests arrived.…
 
 ## S7 E3 — 3. Road to Germany
-URL: https://watchwithkids.vercel.app/ep/family-guy/0703.html
+URL: https://watchwiththekids.com/ep/family-guy/0703.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Porn / strippers — 1 moment(s)
@@ -1810,7 +1810,7 @@ Watch for:
   - Okay, everyone. Hurry up and hand in your Oscar picks before it starts. Peter, for best picture you wrote Wild Hogs. Lois, four guys from the suburbs hit the road. And the road hit back.…
 
 ## S7 E4 — 4. Baby Not on Board
-URL: https://watchwithkids.vercel.app/ep/family-guy/0704.html
+URL: https://watchwiththekids.com/ep/family-guy/0704.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1828,7 +1828,7 @@ Watch for:
   - You guys are gonna love this spa. They give the best massages. Your whole bodies will feel like Joe's legs. - Wow. - That would be nice for a short period. I tell you, I need this. I've had a really stressful morning.…
 
 ## S7 E5 — 5. The Man with Two Brians
-URL: https://watchwithkids.vercel.app/ep/family-guy/0705.html
+URL: https://watchwiththekids.com/ep/family-guy/0705.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1845,7 +1845,7 @@ Watch for:
   - We now return to Jackass. Hello. My name's Johnny Knoxville and I'm gonna take a shotgun blast to the face. Okay, ready? God. These guys are hilarious. They do so much funny stuff.…
 
 ## S7 E6 — 6. Tales of a Third Grade Nothing
-URL: https://watchwithkids.vercel.app/ep/family-guy/0706.html
+URL: https://watchwiththekids.com/ep/family-guy/0706.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1863,7 +1863,7 @@ Watch for:
   - Griffin, I need you to run these shipping reports upstairs to the CEO. Huh. There's nothing fun or entertaining about that. Maybe if I walk down the hall with a wisecracking rabbi.…
 
 ## S7 E7 — 7. Ocean's Three and a Half
-URL: https://watchwithkids.vercel.app/ep/family-guy/0707.html
+URL: https://watchwiththekids.com/ep/family-guy/0707.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1879,7 +1879,7 @@ Watch for:
   - Hey, fellas. Y'all set for some paintball? You bet. I tell you, I know something about paint. I once met Jackson Pollock. How do you know when you're done painting? How do you know when you're done making love?…
 
 ## S7 E8 — 8. Family Gay
-URL: https://watchwithkids.vercel.app/ep/family-guy/0708.html
+URL: https://watchwiththekids.com/ep/family-guy/0708.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1897,7 +1897,7 @@ Watch for:
   - Now, remember, don't touch this money until you get to the grocery store. Then buy one can of beans and come straight home. Do you understand? Lois, I'm a guy you can trust with a task.…
 
 ## S7 E9 — 9. The Juice Is Loose!
-URL: https://watchwithkids.vercel.app/ep/family-guy/0709.html
+URL: https://watchwiththekids.com/ep/family-guy/0709.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1910,7 +1910,7 @@ Watch for:
   - Okay, Peter, I'm off to my book club. You'll babysit Stewie? - Only if I can have a Popsicle. - Only if you say it right. "Popsicle. " Good. And you better be responsible tonight.…
 
 ## S7 E10 — 10. FOX-y Lady
-URL: https://watchwithkids.vercel.app/ep/family-guy/0710.html
+URL: https://watchwiththekids.com/ep/family-guy/0710.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1928,7 +1928,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S7 E11 — 11. Not All Dogs Go to Heaven
-URL: https://watchwithkids.vercel.app/ep/family-guy/0711.html
+URL: https://watchwiththekids.com/ep/family-guy/0711.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1952,7 +1952,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S7 E12 — 12. 420
-URL: https://watchwithkids.vercel.app/ep/family-guy/0712.html
+URL: https://watchwiththekids.com/ep/family-guy/0712.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1970,7 +1970,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S7 E13 — 13. Stew-Roids
-URL: https://watchwithkids.vercel.app/ep/family-guy/0713.html
+URL: https://watchwiththekids.com/ep/family-guy/0713.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1995,7 +1995,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S7 E14 — 14. We Love You Conrad
-URL: https://watchwithkids.vercel.app/ep/family-guy/0714.html
+URL: https://watchwiththekids.com/ep/family-guy/0714.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2011,7 +2011,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S7 E15 — 15. Three Kings
-URL: https://watchwithkids.vercel.app/ep/family-guy/0715.html
+URL: https://watchwiththekids.com/ep/family-guy/0715.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2029,7 +2029,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S7 E16 — 16. Peter's Progress
-URL: https://watchwithkids.vercel.app/ep/family-guy/0716.html
+URL: https://watchwiththekids.com/ep/family-guy/0716.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2045,7 +2045,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S8 E1 — 1. Road to the Multiverse
-URL: https://watchwithkids.vercel.app/ep/family-guy/0801.html
+URL: https://watchwiththekids.com/ep/family-guy/0801.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2061,7 +2061,7 @@ Watch for:
   - Step right up. Step right up. You won't believe your eyes. Step right up and see the amazing half man, half clam. What a rip-off. It's just Kim Cattrall sitting Indian style.…
 
 ## S8 E2 — 2. Family Goy
-URL: https://watchwithkids.vercel.app/ep/family-guy/0802.html
+URL: https://watchwiththekids.com/ep/family-guy/0802.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2080,7 +2080,7 @@ Watch for:
   - Gathered together from the cosmic reaches of the universe. Here in this great Hall of Justice are the most powerful forces of good ever assembled. Superman. Batman and Robin. Wonder Woman. Aquaman. And Meg.…
 
 ## S8 E3 — 3. Spies Reminiscent of Us
-URL: https://watchwithkids.vercel.app/ep/family-guy/0803.html
+URL: https://watchwiththekids.com/ep/family-guy/0803.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2096,7 +2096,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S8 E4 — 4. Brian's Got a Brand New Bag
-URL: https://watchwithkids.vercel.app/ep/family-guy/0804.html
+URL: https://watchwiththekids.com/ep/family-guy/0804.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2112,7 +2112,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S8 E5 — 5. Hannah Banana
-URL: https://watchwithkids.vercel.app/ep/family-guy/0805.html
+URL: https://watchwiththekids.com/ep/family-guy/0805.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2136,7 +2136,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S8 E6 — 6. Quagmire's Baby
-URL: https://watchwithkids.vercel.app/ep/family-guy/0806.html
+URL: https://watchwiththekids.com/ep/family-guy/0806.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2155,7 +2155,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S8 E7 — 7. Jerome Is the New Black
-URL: https://watchwithkids.vercel.app/ep/family-guy/0807.html
+URL: https://watchwiththekids.com/ep/family-guy/0807.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2172,7 +2172,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S8 E8 — 8. Dog Gone
-URL: https://watchwithkids.vercel.app/ep/family-guy/0808.html
+URL: https://watchwiththekids.com/ep/family-guy/0808.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2185,7 +2185,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S8 E9 — 9. Business Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/0809.html
+URL: https://watchwiththekids.com/ep/family-guy/0809.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2201,7 +2201,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E10 — 10. Big Man on Hippocampus
-URL: https://watchwithkids.vercel.app/ep/family-guy/0810.html
+URL: https://watchwiththekids.com/ep/family-guy/0810.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2215,7 +2215,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E11 — 11. Dial Meg for Murder
-URL: https://watchwithkids.vercel.app/ep/family-guy/0811.html
+URL: https://watchwiththekids.com/ep/family-guy/0811.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2235,7 +2235,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E12 — 12. Extra Large Medium
-URL: https://watchwithkids.vercel.app/ep/family-guy/0812.html
+URL: https://watchwiththekids.com/ep/family-guy/0812.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2246,7 +2246,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E13 — 13. Go, Stewie, Go!
-URL: https://watchwithkids.vercel.app/ep/family-guy/0813.html
+URL: https://watchwiththekids.com/ep/family-guy/0813.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2261,7 +2261,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E14 — 14. Peter-assment
-URL: https://watchwithkids.vercel.app/ep/family-guy/0814.html
+URL: https://watchwiththekids.com/ep/family-guy/0814.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2287,7 +2287,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E15 — 15. Brian Griffin's House of Payne
-URL: https://watchwithkids.vercel.app/ep/family-guy/0815.html
+URL: https://watchwiththekids.com/ep/family-guy/0815.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2302,7 +2302,7 @@ Watch for:
   - Boy, eight months on patrol and nothing. You know, Rupert, I miss the Earth so much. I miss my wife. It's lonely out in spa Uh-oh, Rupert, we've got company. And I don't think it's the Avon lady. Strap yourself in.…
 
 ## S8 E16 — 16. April in Quahog
-URL: https://watchwithkids.vercel.app/ep/family-guy/0816.html
+URL: https://watchwiththekids.com/ep/family-guy/0816.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2321,7 +2321,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E17 — 17. Brian & Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/0817.html
+URL: https://watchwiththekids.com/ep/family-guy/0817.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2338,7 +2338,7 @@ Watch for:
   - Hurry up. We still have to swing by Wyndham's before they close. Relax. I'm almost done. Why do you have a safety-deposit box? What's in there that you can't bury? I have things.…
 
 ## S8 E18 — 18. Quagmire's Dad
-URL: https://watchwithkids.vercel.app/ep/family-guy/0818.html
+URL: https://watchwiththekids.com/ep/family-guy/0818.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2354,7 +2354,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E19 — 19. The Splendid Source
-URL: https://watchwithkids.vercel.app/ep/family-guy/0819.html
+URL: https://watchwiththekids.com/ep/family-guy/0819.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2372,7 +2372,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?…
 
 ## S8 E20 — 20. Something, Something, Something, Dark Side
-URL: https://watchwithkids.vercel.app/ep/family-guy/0820.html
+URL: https://watchwiththekids.com/ep/family-guy/0820.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2387,12 +2387,12 @@ Watch for:
   - We now return to Aaron Sorkin 's new show, The Kitchen. - Where's the milk? No milk? - We're out. No. Walk with me. I want you to get some milk. - Where? Now? - At the store. Right now.…
 
 ## S8 E21 — 21. Partial Terms of Endearment
-URL: https://watchwithkids.vercel.app/ep/family-guy/0821.html
+URL: https://watchwiththekids.com/ep/family-guy/0821.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E1 — 1. And Then There Were Fewer
-URL: https://watchwithkids.vercel.app/ep/family-guy/0901.html
+URL: https://watchwiththekids.com/ep/family-guy/0901.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2408,7 +2408,7 @@ Watch for:
   - Attention, everyone, mail call! Meg, Teen People, Chris, Amazing Spider-Man Lois, Redbook, World War II Army Guy, a letter from your gal. Open that one up, buddy. - All right, at ease, at ease.…
 
 ## S9 E2 — 2. Excellence in Broadcasting
-URL: https://watchwithkids.vercel.app/ep/family-guy/0902.html
+URL: https://watchwiththekids.com/ep/family-guy/0902.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2427,7 +2427,7 @@ Watch for:
   - What's wrong with the TV? - Nothing, Chris. All shows are wide-screen now, so you can see the stuff you couldn't before. We now return to The Brady Bunch. See, look. Here's what you used to see. - Good night, Mike.…
 
 ## S9 E3 — 3. Welcome Back, Carter
-URL: https://watchwithkids.vercel.app/ep/family-guy/0903.html
+URL: https://watchwiththekids.com/ep/family-guy/0903.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2449,7 +2449,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fasioned values On which we used to rely?…
 
 ## S9 E4 — 4. Halloween on Spooner Street
-URL: https://watchwithkids.vercel.app/ep/family-guy/0904.html
+URL: https://watchwiththekids.com/ep/family-guy/0904.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2468,7 +2468,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E5 — 5. Baby, You Knock Me Out
-URL: https://watchwithkids.vercel.app/ep/family-guy/0905.html
+URL: https://watchwiththekids.com/ep/family-guy/0905.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2483,7 +2483,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E6 — 6. Brian Writes a Bestseller
-URL: https://watchwithkids.vercel.app/ep/family-guy/0906.html
+URL: https://watchwiththekids.com/ep/family-guy/0906.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2496,7 +2496,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E7 — 7. Road to the North Pole
-URL: https://watchwithkids.vercel.app/ep/family-guy/0907.html
+URL: https://watchwiththekids.com/ep/family-guy/0907.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2516,7 +2516,7 @@ Watch for:
   - Hi. I'm Ron MacFarlane, Seth MacFarlane's father. And I'm here to tell you the story of a very special Christmas in Quahog. Kenny Rogers was supposed to be here, but I think he's dead.…
 
 ## S9 E8 — 8. New Kidney in Town
-URL: https://watchwithkids.vercel.app/ep/family-guy/0908.html
+URL: https://watchwiththekids.com/ep/family-guy/0908.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2531,7 +2531,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E9 — 9. And I'm Joyce Kinney
-URL: https://watchwithkids.vercel.app/ep/family-guy/0909.html
+URL: https://watchwiththekids.com/ep/family-guy/0909.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2555,7 +2555,7 @@ Watch for:
   - Stewie Griffin, scientist, inventor, infant. Searching for a way to tap into the hidden strengths that all humans have. Then an accidental overdose of gamma radiation alters his body chemistry.…
 
 ## S9 E10 — 10. Friends of Peter G
-URL: https://watchwithkids.vercel.app/ep/family-guy/0910.html
+URL: https://watchwiththekids.com/ep/family-guy/0910.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2574,7 +2574,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E11 — 11. German Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/0911.html
+URL: https://watchwiththekids.com/ep/family-guy/0911.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2591,7 +2591,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E12 — 12. The Hand That Rocks the Wheelchair
-URL: https://watchwithkids.vercel.app/ep/family-guy/0912.html
+URL: https://watchwiththekids.com/ep/family-guy/0912.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2608,7 +2608,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E13 — 13. Trading Places
-URL: https://watchwithkids.vercel.app/ep/family-guy/0913.html
+URL: https://watchwiththekids.com/ep/family-guy/0913.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2628,7 +2628,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E14 — 14. Tiegs for Two
-URL: https://watchwithkids.vercel.app/ep/family-guy/0914.html
+URL: https://watchwiththekids.com/ep/family-guy/0914.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2643,7 +2643,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E15 — 15. Brothers & Sisters
-URL: https://watchwithkids.vercel.app/ep/family-guy/0915.html
+URL: https://watchwiththekids.com/ep/family-guy/0915.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2661,7 +2661,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E16 — 16. The Big Bang Theory
-URL: https://watchwithkids.vercel.app/ep/family-guy/0916.html
+URL: https://watchwiththekids.com/ep/family-guy/0916.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2674,7 +2674,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E17 — 17. Foreign Affairs
-URL: https://watchwithkids.vercel.app/ep/family-guy/0917.html
+URL: https://watchwiththekids.com/ep/family-guy/0917.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2691,7 +2691,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S9 E18 — 18. It's a Trap!
-URL: https://watchwithkids.vercel.app/ep/family-guy/0918.html
+URL: https://watchwiththekids.com/ep/family-guy/0918.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2702,7 +2702,7 @@ Watch for:
   - TV ANNOUNCER. And now, back to VH1's Salute to Singers from the'90s. Today's installment, "Why they all needed to turn every vowel into the letter'A.…
 
 ## S10 E1 — 1. Lottery Fever
-URL: https://watchwithkids.vercel.app/ep/family-guy/1001.html
+URL: https://watchwiththekids.com/ep/family-guy/1001.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2722,7 +2722,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E2 — 2. Seahorse Seashell Party (2)
-URL: https://watchwithkids.vercel.app/ep/family-guy/1002.html
+URL: https://watchwiththekids.com/ep/family-guy/1002.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2741,7 +2741,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E3 — 3. Screams of Silence: The Story of Brenda Q
-URL: https://watchwithkids.vercel.app/ep/family-guy/1003.html
+URL: https://watchwiththekids.com/ep/family-guy/1003.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2763,7 +2763,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E4 — 4. Stewie Goes for a Drive
-URL: https://watchwithkids.vercel.app/ep/family-guy/1004.html
+URL: https://watchwiththekids.com/ep/family-guy/1004.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2782,7 +2782,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E5 — 5. Back to the Pilot
-URL: https://watchwithkids.vercel.app/ep/family-guy/1005.html
+URL: https://watchwiththekids.com/ep/family-guy/1005.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2795,7 +2795,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E6 — 6. Thanksgiving
-URL: https://watchwithkids.vercel.app/ep/family-guy/1006.html
+URL: https://watchwiththekids.com/ep/family-guy/1006.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2815,7 +2815,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E7 — 7. Amish Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1007.html
+URL: https://watchwiththekids.com/ep/family-guy/1007.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2826,7 +2826,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E8 — 8. Cool Hand Peter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1008.html
+URL: https://watchwiththekids.com/ep/family-guy/1008.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2843,7 +2843,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E9 — 9. Grumpy Old Man
-URL: https://watchwithkids.vercel.app/ep/family-guy/1009.html
+URL: https://watchwiththekids.com/ep/family-guy/1009.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2862,7 +2862,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E10 — 10. Quagmire & Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/1010.html
+URL: https://watchwiththekids.com/ep/family-guy/1010.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2877,7 +2877,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E11 — 11. The Blind Side
-URL: https://watchwithkids.vercel.app/ep/family-guy/1011.html
+URL: https://watchwiththekids.com/ep/family-guy/1011.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2893,7 +2893,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E12 — 12. Livin' on a Prayer
-URL: https://watchwithkids.vercel.app/ep/family-guy/1012.html
+URL: https://watchwiththekids.com/ep/family-guy/1012.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2908,7 +2908,7 @@ Watch for:
   - Ow! There's a rock right there! There's a huge rock right there, and it's covered up by grass and there's no way you can see it. And I got lucky.…
 
 ## S10 E13 — 13. Tom Tucker: The Man and His Dream
-URL: https://watchwithkids.vercel.app/ep/family-guy/1013.html
+URL: https://watchwiththekids.com/ep/family-guy/1013.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2921,7 +2921,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E14 — 14. Be Careful What You Fish For
-URL: https://watchwithkids.vercel.app/ep/family-guy/1014.html
+URL: https://watchwiththekids.com/ep/family-guy/1014.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2937,7 +2937,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E15 — 15. Burning Down the Bayit
-URL: https://watchwithkids.vercel.app/ep/family-guy/1015.html
+URL: https://watchwiththekids.com/ep/family-guy/1015.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2948,7 +2948,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E16 — 16. Killer Queen
-URL: https://watchwithkids.vercel.app/ep/family-guy/1016.html
+URL: https://watchwiththekids.com/ep/family-guy/1016.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2965,7 +2965,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E17 — 17. Forget-Me-Not
-URL: https://watchwithkids.vercel.app/ep/family-guy/1017.html
+URL: https://watchwiththekids.com/ep/family-guy/1017.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2985,7 +2985,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E18 — 18. You Can't Do That on Television, Peter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1018.html
+URL: https://watchwiththekids.com/ep/family-guy/1018.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3003,7 +3003,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E19 — 19. Mr. and Mrs. Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/1019.html
+URL: https://watchwiththekids.com/ep/family-guy/1019.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3022,7 +3022,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E20 — 20. Leggo My Meg-O
-URL: https://watchwithkids.vercel.app/ep/family-guy/1020.html
+URL: https://watchwiththekids.com/ep/family-guy/1020.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3033,7 +3033,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S10 E21 — 21. Tea Peter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1021.html
+URL: https://watchwiththekids.com/ep/family-guy/1021.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3044,7 +3044,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E22 — 22. Family Guy Viewer Mail (2)
-URL: https://watchwithkids.vercel.app/ep/family-guy/1022.html
+URL: https://watchwiththekids.com/ep/family-guy/1022.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3062,7 +3062,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S10 E23 — 23. Internal Affairs
-URL: https://watchwithkids.vercel.app/ep/family-guy/1023.html
+URL: https://watchwiththekids.com/ep/family-guy/1023.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3082,7 +3082,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E1 — 1. Into Fat Air
-URL: https://watchwithkids.vercel.app/ep/family-guy/1101.html
+URL: https://watchwiththekids.com/ep/family-guy/1101.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3102,7 +3102,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E2 — 2. Ratings Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1102.html
+URL: https://watchwiththekids.com/ep/family-guy/1102.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3115,7 +3115,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E3 — 3. The Old Man & the Big 'C'
-URL: https://watchwithkids.vercel.app/ep/family-guy/1103.html
+URL: https://watchwiththekids.com/ep/family-guy/1103.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3131,7 +3131,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E4 — 4. Yug Ylimaf
-URL: https://watchwithkids.vercel.app/ep/family-guy/1104.html
+URL: https://watchwiththekids.com/ep/family-guy/1104.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3147,7 +3147,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E5 — 5. Joe's Revenge
-URL: https://watchwithkids.vercel.app/ep/family-guy/1105.html
+URL: https://watchwiththekids.com/ep/family-guy/1105.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3168,7 +3168,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E6 — 6. Lois Comes Out of Her Shell
-URL: https://watchwithkids.vercel.app/ep/family-guy/1106.html
+URL: https://watchwiththekids.com/ep/family-guy/1106.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3181,7 +3181,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E7 — 7. Friends Without Benefits
-URL: https://watchwithkids.vercel.app/ep/family-guy/1107.html
+URL: https://watchwiththekids.com/ep/family-guy/1107.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3196,7 +3196,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E8 — 8. Jesus, Mary & Joseph
-URL: https://watchwithkids.vercel.app/ep/family-guy/1108.html
+URL: https://watchwiththekids.com/ep/family-guy/1108.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3216,7 +3216,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E9 — 9. Space Cadet
-URL: https://watchwithkids.vercel.app/ep/family-guy/1109.html
+URL: https://watchwiththekids.com/ep/family-guy/1109.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3237,7 +3237,7 @@ Watch for:
   - It's Chris, would you like to read your personal essay? Okay, Mrs. Donovan. "Following Mrs. Donovan" by Chris Griffin. "The first thing that Mrs. Donovan does "when she gets home from school "is put on sweatpants.…
 
 ## S11 E10 — 10. Brian's Play
-URL: https://watchwithkids.vercel.app/ep/family-guy/1110.html
+URL: https://watchwiththekids.com/ep/family-guy/1110.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3254,7 +3254,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E11 — 11. The Giggity Wife
-URL: https://watchwithkids.vercel.app/ep/family-guy/1111.html
+URL: https://watchwiththekids.com/ep/family-guy/1111.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3276,7 +3276,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E12 — 12. Valentine's Day in Quahog
-URL: https://watchwithkids.vercel.app/ep/family-guy/1112.html
+URL: https://watchwiththekids.com/ep/family-guy/1112.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3297,7 +3297,7 @@ Watch for:
   - Valentine's Day: “a day of love, right in the middle of Black History Month. There are a thousand hearts in Quahog, a thousand stories. Some people don't have any stories. Others got two.…”
 
 ## S11 E13 — 13. Chris Cross
-URL: https://watchwithkids.vercel.app/ep/family-guy/1113.html
+URL: https://watchwiththekids.com/ep/family-guy/1113.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3310,7 +3310,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E14 — 14. Call Girl
-URL: https://watchwithkids.vercel.app/ep/family-guy/1114.html
+URL: https://watchwiththekids.com/ep/family-guy/1114.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3328,7 +3328,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E15 — 15. Turban Cowboy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1115.html
+URL: https://watchwiththekids.com/ep/family-guy/1115.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3345,7 +3345,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E16 — 16. 12 and a Half Angry Men
-URL: https://watchwithkids.vercel.app/ep/family-guy/1116.html
+URL: https://watchwiththekids.com/ep/family-guy/1116.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3362,7 +3362,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E17 — 17. Bigfat
-URL: https://watchwithkids.vercel.app/ep/family-guy/1117.html
+URL: https://watchwiththekids.com/ep/family-guy/1117.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Porn / strippers — 2 moment(s)
@@ -3376,7 +3376,7 @@ Watch for:
   - It was awfully nice of our new neighbors to invite us over for dinner. I don't know, Lois. Going to Cleveland's house with someone else living there just seems weird. Like when a new Pope moves into the Vatican.…
 
 ## S11 E18 — 18. Total Recall
-URL: https://watchwithkids.vercel.app/ep/family-guy/1118.html
+URL: https://watchwiththekids.com/ep/family-guy/1118.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3400,7 +3400,7 @@ Watch for:
   - Peter, come on, it's time to wake up. You got to get to work. Uh, Lois, I ain't feeling good. Peter, what happened to your voice? It-It's so deep. I think I'm sick. Well, you don't sound like yourself.…
 
 ## S11 E19 — 19. Save the Clam
-URL: https://watchwithkids.vercel.app/ep/family-guy/1119.html
+URL: https://watchwiththekids.com/ep/family-guy/1119.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3422,7 +3422,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E20 — 20. Farmer Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1120.html
+URL: https://watchwiththekids.com/ep/family-guy/1120.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3441,7 +3441,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S11 E21 — 21. Road to Vegas
-URL: https://watchwithkids.vercel.app/ep/family-guy/1121.html
+URL: https://watchwiththekids.com/ep/family-guy/1121.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3460,7 +3460,7 @@ Watch for:
   - Thanks for encouraging us to come to Gay Pride Day, Brian. Yeah, this seems like it'll be fun. Real fun, not "entertain- your-wife's-parents- while-your-wife- is-at-work" fun.…
 
 ## S11 E22 — 22. No Country Club for Old Men
-URL: https://watchwithkids.vercel.app/ep/family-guy/1122.html
+URL: https://watchwiththekids.com/ep/family-guy/1122.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3477,7 +3477,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E1 — 1. Finders Keepers
-URL: https://watchwithkids.vercel.app/ep/family-guy/1201.html
+URL: https://watchwiththekids.com/ep/family-guy/1201.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3495,7 +3495,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E2 — 2. Vestigial Peter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1202.html
+URL: https://watchwiththekids.com/ep/family-guy/1202.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3511,7 +3511,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E3 — 3. Quagmire's Quagmire
-URL: https://watchwithkids.vercel.app/ep/family-guy/1203.html
+URL: https://watchwiththekids.com/ep/family-guy/1203.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3526,7 +3526,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E4 — 4. A Fistful of Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/1204.html
+URL: https://watchwiththekids.com/ep/family-guy/1204.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3544,7 +3544,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E5 — 5. Boopa-dee Bappa-dee
-URL: https://watchwithkids.vercel.app/ep/family-guy/1205.html
+URL: https://watchwiththekids.com/ep/family-guy/1205.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3559,7 +3559,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E6 — 6. Life of Brian
-URL: https://watchwithkids.vercel.app/ep/family-guy/1206.html
+URL: https://watchwiththekids.com/ep/family-guy/1206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3572,7 +3572,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E7 — 7. Into Harmony's Way
-URL: https://watchwithkids.vercel.app/ep/family-guy/1207.html
+URL: https://watchwiththekids.com/ep/family-guy/1207.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3590,7 +3590,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E8 — 8. Christmas Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1208.html
+URL: https://watchwiththekids.com/ep/family-guy/1208.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3608,7 +3608,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E9 — 9. Peter Problems
-URL: https://watchwithkids.vercel.app/ep/family-guy/1209.html
+URL: https://watchwiththekids.com/ep/family-guy/1209.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3622,7 +3622,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E10 — 10. Grimm Job
-URL: https://watchwithkids.vercel.app/ep/family-guy/1210.html
+URL: https://watchwiththekids.com/ep/family-guy/1210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3641,7 +3641,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E11 — 11. Brian's a Bad Father
-URL: https://watchwithkids.vercel.app/ep/family-guy/1211.html
+URL: https://watchwiththekids.com/ep/family-guy/1211.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3658,7 +3658,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E12 — 12. Mom's the Word
-URL: https://watchwithkids.vercel.app/ep/family-guy/1212.html
+URL: https://watchwiththekids.com/ep/family-guy/1212.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3669,7 +3669,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E13 — 13. 3 Acts of God
-URL: https://watchwithkids.vercel.app/ep/family-guy/1213.html
+URL: https://watchwiththekids.com/ep/family-guy/1213.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3685,7 +3685,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E14 — 14. Fresh Heir
-URL: https://watchwithkids.vercel.app/ep/family-guy/1214.html
+URL: https://watchwiththekids.com/ep/family-guy/1214.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3700,7 +3700,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E15 — 15. Secondhand Spoke
-URL: https://watchwithkids.vercel.app/ep/family-guy/1215.html
+URL: https://watchwiththekids.com/ep/family-guy/1215.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3718,7 +3718,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E16 — 16. Herpe the Love Sore
-URL: https://watchwithkids.vercel.app/ep/family-guy/1216.html
+URL: https://watchwiththekids.com/ep/family-guy/1216.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3737,7 +3737,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E17 — 17. The Most Interesting Man in the World
-URL: https://watchwithkids.vercel.app/ep/family-guy/1217.html
+URL: https://watchwiththekids.com/ep/family-guy/1217.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3755,7 +3755,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E18 — 18. Baby Got Black
-URL: https://watchwithkids.vercel.app/ep/family-guy/1218.html
+URL: https://watchwiththekids.com/ep/family-guy/1218.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3778,7 +3778,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E19 — 19. Meg Stinks!
-URL: https://watchwithkids.vercel.app/ep/family-guy/1219.html
+URL: https://watchwiththekids.com/ep/family-guy/1219.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3798,7 +3798,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S12 E20 — 20. He's Bla-ack!
-URL: https://watchwithkids.vercel.app/ep/family-guy/1220.html
+URL: https://watchwiththekids.com/ep/family-guy/1220.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3820,7 +3820,7 @@ Watch for:
   - Hey guys, can I share something with you? Sure. Yeah. Go ahead. Well, you know how I don't ever brag about my sexual exploits. That would be an accurate statement, yes. Well, last night, Bonnie and I got really kinky.…
 
 ## S12 E21 — 21. Chap Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/1221.html
+URL: https://watchwiththekids.com/ep/family-guy/1221.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3841,7 +3841,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E1 — 1. The Simpsons Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1301.html
+URL: https://watchwiththekids.com/ep/family-guy/1301.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3862,7 +3862,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E2 — 2. The Book of Joe
-URL: https://watchwithkids.vercel.app/ep/family-guy/1302.html
+URL: https://watchwiththekids.com/ep/family-guy/1302.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3878,7 +3878,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E3 — 3. Baking Bad
-URL: https://watchwithkids.vercel.app/ep/family-guy/1303.html
+URL: https://watchwiththekids.com/ep/family-guy/1303.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3897,7 +3897,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E4 — 4. Brian the Closer
-URL: https://watchwithkids.vercel.app/ep/family-guy/1304.html
+URL: https://watchwiththekids.com/ep/family-guy/1304.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3910,7 +3910,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E5 — 5. Turkey Guys
-URL: https://watchwithkids.vercel.app/ep/family-guy/1305.html
+URL: https://watchwiththekids.com/ep/family-guy/1305.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3925,7 +3925,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E6 — 6. The 2000-Year-Old Virgin
-URL: https://watchwithkids.vercel.app/ep/family-guy/1306.html
+URL: https://watchwiththekids.com/ep/family-guy/1306.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3942,7 +3942,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E7 — 7. Stewie, Chris & Brian's Excellent Adventure
-URL: https://watchwithkids.vercel.app/ep/family-guy/1307.html
+URL: https://watchwiththekids.com/ep/family-guy/1307.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3953,7 +3953,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E8 — 8. Our Idiot Brian
-URL: https://watchwithkids.vercel.app/ep/family-guy/1308.html
+URL: https://watchwiththekids.com/ep/family-guy/1308.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3974,7 +3974,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E9 — 9. This Little Piggy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1309.html
+URL: https://watchwiththekids.com/ep/family-guy/1309.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3993,7 +3993,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E10 — 10. Quagmire's Mom
-URL: https://watchwithkids.vercel.app/ep/family-guy/1310.html
+URL: https://watchwiththekids.com/ep/family-guy/1310.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4008,7 +4008,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E11 — 11. Encyclopedia Griffin
-URL: https://watchwithkids.vercel.app/ep/family-guy/1311.html
+URL: https://watchwiththekids.com/ep/family-guy/1311.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4025,7 +4025,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E12 — 12. Stewie Is Enceinte
-URL: https://watchwithkids.vercel.app/ep/family-guy/1312.html
+URL: https://watchwiththekids.com/ep/family-guy/1312.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4041,7 +4041,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E13 — 13. Dr. C and the Women
-URL: https://watchwithkids.vercel.app/ep/family-guy/1313.html
+URL: https://watchwiththekids.com/ep/family-guy/1313.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4063,7 +4063,7 @@ Watch for:
   - * It seems today that all you see * * Is violence in movies and sex on TV * * But where are those good old-fashioned values * * On which we used to rely?…
 
 ## S13 E14 — 14. #JOLO
-URL: https://watchwithkids.vercel.app/ep/family-guy/1314.html
+URL: https://watchwiththekids.com/ep/family-guy/1314.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4078,7 +4078,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E15 — 15. Once Bitten
-URL: https://watchwithkids.vercel.app/ep/family-guy/1315.html
+URL: https://watchwiththekids.com/ep/family-guy/1315.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4093,7 +4093,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E16 — 16. Roasted Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1316.html
+URL: https://watchwiththekids.com/ep/family-guy/1316.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4113,7 +4113,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S13 E17 — 17. Fighting Irish
-URL: https://watchwithkids.vercel.app/ep/family-guy/1317.html
+URL: https://watchwiththekids.com/ep/family-guy/1317.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4131,7 +4131,7 @@ Watch for:
   - * It seems today that all you see * * Is violence in movies and sex on TV * * But where are those good old-fashioned values * * On which we used to rely?…
 
 ## S13 E18 — 18. Take My Wife
-URL: https://watchwithkids.vercel.app/ep/family-guy/1318.html
+URL: https://watchwiththekids.com/ep/family-guy/1318.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4146,7 +4146,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E1 — 1. Pilling Them Softly
-URL: https://watchwithkids.vercel.app/ep/family-guy/1401.html
+URL: https://watchwiththekids.com/ep/family-guy/1401.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4163,7 +4163,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E2 — 2. Papa Has a Rollin' Son
-URL: https://watchwithkids.vercel.app/ep/family-guy/1402.html
+URL: https://watchwiththekids.com/ep/family-guy/1402.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4178,7 +4178,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E3 — 3. Guy, Robot
-URL: https://watchwithkids.vercel.app/ep/family-guy/1403.html
+URL: https://watchwiththekids.com/ep/family-guy/1403.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4193,7 +4193,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E4 — 4. Peternormal Activity
-URL: https://watchwithkids.vercel.app/ep/family-guy/1404.html
+URL: https://watchwiththekids.com/ep/family-guy/1404.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4210,7 +4210,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E5 — 5. Peter, Chris, & Brian
-URL: https://watchwithkids.vercel.app/ep/family-guy/1405.html
+URL: https://watchwiththekids.com/ep/family-guy/1405.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4227,7 +4227,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E6 — 6. Peter's Sister
-URL: https://watchwithkids.vercel.app/ep/family-guy/1406.html
+URL: https://watchwiththekids.com/ep/family-guy/1406.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4244,7 +4244,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E7 — 7. Hot Pocket-Dial
-URL: https://watchwithkids.vercel.app/ep/family-guy/1407.html
+URL: https://watchwiththekids.com/ep/family-guy/1407.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4259,7 +4259,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E8 — 8. Brokeback Swanson
-URL: https://watchwithkids.vercel.app/ep/family-guy/1408.html
+URL: https://watchwiththekids.com/ep/family-guy/1408.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4278,7 +4278,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E9 — 9. A Shot in the Dark
-URL: https://watchwithkids.vercel.app/ep/family-guy/1409.html
+URL: https://watchwiththekids.com/ep/family-guy/1409.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4297,7 +4297,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E10 — 10. Candy, Quahog Marshmallow
-URL: https://watchwithkids.vercel.app/ep/family-guy/1410.html
+URL: https://watchwiththekids.com/ep/family-guy/1410.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4310,7 +4310,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E11 — 11. The Peanut Butter Kid
-URL: https://watchwithkids.vercel.app/ep/family-guy/1411.html
+URL: https://watchwiththekids.com/ep/family-guy/1411.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4333,7 +4333,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E12 — 12. Scammed Yankees
-URL: https://watchwithkids.vercel.app/ep/family-guy/1412.html
+URL: https://watchwiththekids.com/ep/family-guy/1412.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4350,7 +4350,7 @@ Watch for:
   - It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E13 — 13. An App a Day
-URL: https://watchwithkids.vercel.app/ep/family-guy/1413.html
+URL: https://watchwiththekids.com/ep/family-guy/1413.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4373,7 +4373,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E14 — 14. Underage Peter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1414.html
+URL: https://watchwiththekids.com/ep/family-guy/1414.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4391,7 +4391,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E15 — 15. A Lot Going on Upstairs
-URL: https://watchwithkids.vercel.app/ep/family-guy/1415.html
+URL: https://watchwiththekids.com/ep/family-guy/1415.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4406,7 +4406,7 @@ Watch for:
   - 1 (groaning softly) Okay, who'd like to start us off with show-and-tell? Stewie? Yes, today I brought in my mother's driver's license. Now, if you look closely, she's clearly drunk.…
 
 ## S14 E16 — 16. The Heartbreak Dog
-URL: https://watchwithkids.vercel.app/ep/family-guy/1416.html
+URL: https://watchwiththekids.com/ep/family-guy/1416.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4428,7 +4428,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E17 — 17. Take a Letter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1417.html
+URL: https://watchwiththekids.com/ep/family-guy/1417.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4439,7 +4439,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E18 — 18. The New Adventures of Old Tom
-URL: https://watchwithkids.vercel.app/ep/family-guy/1418.html
+URL: https://watchwiththekids.com/ep/family-guy/1418.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4460,7 +4460,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E19 — 19. Run, Chris, Run
-URL: https://watchwithkids.vercel.app/ep/family-guy/1419.html
+URL: https://watchwiththekids.com/ep/family-guy/1419.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4484,7 +4484,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S14 E20 — 20. Road to India
-URL: https://watchwithkids.vercel.app/ep/family-guy/1420.html
+URL: https://watchwiththekids.com/ep/family-guy/1420.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4495,7 +4495,7 @@ Watch for:
   - 1 Family Guy 14x20 Road to India (instrumental Indian-style version of theme song playing) @elderman What are you doing over there? I'm on hold with tech support.…
 
 ## S15 E1 — 1. The Boys in the Band
-URL: https://watchwithkids.vercel.app/ep/family-guy/1501.html
+URL: https://watchwiththekids.com/ep/family-guy/1501.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4510,7 +4510,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E2 — 2. Bookie of the Year
-URL: https://watchwithkids.vercel.app/ep/family-guy/1502.html
+URL: https://watchwiththekids.com/ep/family-guy/1502.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4525,7 +4525,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E3 — 3. American Gigg-olo
-URL: https://watchwithkids.vercel.app/ep/family-guy/1503.html
+URL: https://watchwiththekids.com/ep/family-guy/1503.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4550,7 +4550,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E4 — 4. Inside Family Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1504.html
+URL: https://watchwiththekids.com/ep/family-guy/1504.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4566,7 +4566,7 @@ Watch for:
   - 1 TV ANNOUNCER: We now return to Doctor Who Farted. (PEOPLE SCREAMING) Doctor, the alien attack has begun! We've got to return to the 21st century! Uh we can't go into the time machine right now.…
 
 ## S15 E5 — 5. Chris Has Got a Date, Date, Date, Date, Date
-URL: https://watchwithkids.vercel.app/ep/family-guy/1505.html
+URL: https://watchwiththekids.com/ep/family-guy/1505.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4581,7 +4581,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E6 — 6. Hot Shots
-URL: https://watchwithkids.vercel.app/ep/family-guy/1506.html
+URL: https://watchwiththekids.com/ep/family-guy/1506.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4603,7 +4603,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E7 — 7. High School English
-URL: https://watchwithkids.vercel.app/ep/family-guy/1507.html
+URL: https://watchwiththekids.com/ep/family-guy/1507.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4622,7 +4622,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E8 — 8. Carter and Tricia
-URL: https://watchwithkids.vercel.app/ep/family-guy/1508.html
+URL: https://watchwiththekids.com/ep/family-guy/1508.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4637,7 +4637,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E9 — 9. How the Griffin Stole Christmas
-URL: https://watchwithkids.vercel.app/ep/family-guy/1509.html
+URL: https://watchwiththekids.com/ep/family-guy/1509.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4658,7 +4658,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E10 — 10. Passenger Fatty-Seven
-URL: https://watchwithkids.vercel.app/ep/family-guy/1510.html
+URL: https://watchwiththekids.com/ep/family-guy/1510.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4671,7 +4671,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E11 — 11. Gronkowsbees
-URL: https://watchwithkids.vercel.app/ep/family-guy/1511.html
+URL: https://watchwiththekids.com/ep/family-guy/1511.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4684,7 +4684,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E12 — 12. Peter's Def Jam
-URL: https://watchwithkids.vercel.app/ep/family-guy/1512.html
+URL: https://watchwiththekids.com/ep/family-guy/1512.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4701,7 +4701,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E13 — 13. The Finer Strings
-URL: https://watchwithkids.vercel.app/ep/family-guy/1513.html
+URL: https://watchwiththekids.com/ep/family-guy/1513.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4719,7 +4719,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E14 — 14. The Dating Game
-URL: https://watchwithkids.vercel.app/ep/family-guy/1514.html
+URL: https://watchwiththekids.com/ep/family-guy/1514.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4737,7 +4737,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E15 — 15. Cop and a Half-wit
-URL: https://watchwithkids.vercel.app/ep/family-guy/1515.html
+URL: https://watchwiththekids.com/ep/family-guy/1515.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4755,7 +4755,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E16 — 16. Saturated Fat Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1516.html
+URL: https://watchwiththekids.com/ep/family-guy/1516.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4774,7 +4774,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E17 — 17. Peter's Lost Youth
-URL: https://watchwithkids.vercel.app/ep/family-guy/1517.html
+URL: https://watchwiththekids.com/ep/family-guy/1517.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4789,7 +4789,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E18 — 18. The Peter Principal
-URL: https://watchwithkids.vercel.app/ep/family-guy/1518.html
+URL: https://watchwiththekids.com/ep/family-guy/1518.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4800,7 +4800,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E19 — 19. Dearly Deported
-URL: https://watchwithkids.vercel.app/ep/family-guy/1519.html
+URL: https://watchwiththekids.com/ep/family-guy/1519.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4817,7 +4817,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S15 E20 — 20. A House Full of Peters
-URL: https://watchwithkids.vercel.app/ep/family-guy/1520.html
+URL: https://watchwiththekids.com/ep/family-guy/1520.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4834,7 +4834,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E1 — 1. Emmy-Winning Episode
-URL: https://watchwithkids.vercel.app/ep/family-guy/1601.html
+URL: https://watchwiththekids.com/ep/family-guy/1601.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4854,7 +4854,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E2 — 2. Foxx in the Men House
-URL: https://watchwithkids.vercel.app/ep/family-guy/1602.html
+URL: https://watchwiththekids.com/ep/family-guy/1602.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4867,7 +4867,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E3 — 3. Nanny Goats
-URL: https://watchwithkids.vercel.app/ep/family-guy/1603.html
+URL: https://watchwiththekids.com/ep/family-guy/1603.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4882,7 +4882,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E4 — 4. Follow the Money
-URL: https://watchwithkids.vercel.app/ep/family-guy/1604.html
+URL: https://watchwiththekids.com/ep/family-guy/1604.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4897,7 +4897,7 @@ Watch for:
   - 1 CARTER: "And so, for your birthday, Chris, I'm giving you this dollar bill. Don't spend it all in one place. Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, arrow.…
 
 ## S16 E5 — 5. Three Directors
-URL: https://watchwithkids.vercel.app/ep/family-guy/1605.html
+URL: https://watchwiththekids.com/ep/family-guy/1605.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4912,7 +4912,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E6 — 6. The D in Apartment 23
-URL: https://watchwithkids.vercel.app/ep/family-guy/1606.html
+URL: https://watchwiththekids.com/ep/family-guy/1606.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4931,7 +4931,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E7 — 7. Petey IV
-URL: https://watchwithkids.vercel.app/ep/family-guy/1607.html
+URL: https://watchwiththekids.com/ep/family-guy/1607.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4952,7 +4952,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E8 — 8. Crimes and Meg's Demeanor
-URL: https://watchwithkids.vercel.app/ep/family-guy/1608.html
+URL: https://watchwiththekids.com/ep/family-guy/1608.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4969,7 +4969,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E9 — 9. Don't Be a Dickens at Christmas
-URL: https://watchwithkids.vercel.app/ep/family-guy/1609.html
+URL: https://watchwiththekids.com/ep/family-guy/1609.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4985,7 +4985,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E10 — 10. Boy (Dog) Meets Girl (Dog)
-URL: https://watchwithkids.vercel.app/ep/family-guy/1610.html
+URL: https://watchwiththekids.com/ep/family-guy/1610.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4998,7 +4998,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E11 — 11. Dog Bites Bear
-URL: https://watchwithkids.vercel.app/ep/family-guy/1611.html
+URL: https://watchwiththekids.com/ep/family-guy/1611.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5011,7 +5011,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E12 — 12. Send in Stewie, Please
-URL: https://watchwithkids.vercel.app/ep/family-guy/1612.html
+URL: https://watchwiththekids.com/ep/family-guy/1612.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5024,7 +5024,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E13 — 13. V Is For Mystery
-URL: https://watchwithkids.vercel.app/ep/family-guy/1613.html
+URL: https://watchwiththekids.com/ep/family-guy/1613.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5037,7 +5037,7 @@ Watch for:
   - 1 (BELL TOLLING) (HORSE NEIGHING) Lovely day for a walk, eh, Holmes? Yes, just look at our great city, bustling with activity. Even the chimney sweeps are hard at work. JEFFREY: It's all dirty in here. I don't care.…
 
 ## S16 E14 — 14. Veteran Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1614.html
+URL: https://watchwiththekids.com/ep/family-guy/1614.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5054,7 +5054,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E15 — 15. The Woof of Wall Street
-URL: https://watchwithkids.vercel.app/ep/family-guy/1615.html
+URL: https://watchwiththekids.com/ep/family-guy/1615.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5069,7 +5069,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E16 — 16. Family Guy' Through the Years
-URL: https://watchwithkids.vercel.app/ep/family-guy/1616.html
+URL: https://watchwiththekids.com/ep/family-guy/1616.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5087,7 +5087,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E17 — 17. Switch the Flip
-URL: https://watchwithkids.vercel.app/ep/family-guy/1617.html
+URL: https://watchwiththekids.com/ep/family-guy/1617.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5107,7 +5107,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E18 — 18. HTTPete
-URL: https://watchwithkids.vercel.app/ep/family-guy/1618.html
+URL: https://watchwiththekids.com/ep/family-guy/1618.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5123,7 +5123,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E19 — 19. The Unkindest Cut
-URL: https://watchwithkids.vercel.app/ep/family-guy/1619.html
+URL: https://watchwiththekids.com/ep/family-guy/1619.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5143,7 +5143,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S16 E20 — 20. Are You There God? It's Me, Peter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1620.html
+URL: https://watchwiththekids.com/ep/family-guy/1620.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5160,7 +5160,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on T. V. But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E1 — 1. Married... With Cancer
-URL: https://watchwithkids.vercel.app/ep/family-guy/1701.html
+URL: https://watchwiththekids.com/ep/family-guy/1701.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5174,7 +5174,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E2 — 2. Dead Dog Walking
-URL: https://watchwithkids.vercel.app/ep/family-guy/1702.html
+URL: https://watchwiththekids.com/ep/family-guy/1702.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5192,7 +5192,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E3 — 3. Pal Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/1703.html
+URL: https://watchwiththekids.com/ep/family-guy/1703.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5209,7 +5209,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E4 — 4. Big Trouble in Little Quahog
-URL: https://watchwithkids.vercel.app/ep/family-guy/1704.html
+URL: https://watchwiththekids.com/ep/family-guy/1704.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5222,7 +5222,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E5 — 5. Regarding Carter
-URL: https://watchwithkids.vercel.app/ep/family-guy/1705.html
+URL: https://watchwiththekids.com/ep/family-guy/1705.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5239,7 +5239,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E6 — 6. Stand by Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/1706.html
+URL: https://watchwiththekids.com/ep/family-guy/1706.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5258,7 +5258,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E7 — 7. The Griffin Winter Games
-URL: https://watchwithkids.vercel.app/ep/family-guy/1707.html
+URL: https://watchwiththekids.com/ep/family-guy/1707.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5275,7 +5275,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E8 — 8. Con Heiress
-URL: https://watchwithkids.vercel.app/ep/family-guy/1708.html
+URL: https://watchwiththekids.com/ep/family-guy/1708.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5286,7 +5286,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E9 — 9. Pawtucket Pete
-URL: https://watchwithkids.vercel.app/ep/family-guy/1709.html
+URL: https://watchwiththekids.com/ep/family-guy/1709.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5299,7 +5299,7 @@ Watch for:
   - 1 (CLEARS THROAT) Webster's defines "class" as "a group of students gathered at a pre-ordained time for the purposes of education. " Angela pretty much epitomized class.…
 
 ## S17 E10 — 10. Hefty Shades of Gray
-URL: https://watchwithkids.vercel.app/ep/family-guy/1710.html
+URL: https://watchwiththekids.com/ep/family-guy/1710.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5318,7 +5318,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E11 — 11. Trump Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1711.html
+URL: https://watchwiththekids.com/ep/family-guy/1711.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5335,7 +5335,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E12 — 12. Bri, Robot
-URL: https://watchwithkids.vercel.app/ep/family-guy/1712.html
+URL: https://watchwiththekids.com/ep/family-guy/1712.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5346,7 +5346,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E13 — 13. Trans-Fat
-URL: https://watchwithkids.vercel.app/ep/family-guy/1713.html
+URL: https://watchwiththekids.com/ep/family-guy/1713.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5361,7 +5361,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E14 — 14. Family Guy Lite
-URL: https://watchwithkids.vercel.app/ep/family-guy/1714.html
+URL: https://watchwiththekids.com/ep/family-guy/1714.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5383,7 +5383,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E15 — 15. No Giggity, No Doubt
-URL: https://watchwithkids.vercel.app/ep/family-guy/1715.html
+URL: https://watchwiththekids.com/ep/family-guy/1715.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5396,7 +5396,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E16 — 16. You Can't Handle the Booth
-URL: https://watchwithkids.vercel.app/ep/family-guy/1716.html
+URL: https://watchwiththekids.com/ep/family-guy/1716.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5413,7 +5413,7 @@ Watch for:
   - 1 It's pretty cool we got our own mural, huh? Eh, don't get too excited. You know who else has one? - The Ox-Bow Incident. - What is that?…
 
 ## S17 E17 — 17. Island Adventure
-URL: https://watchwithkids.vercel.app/ep/family-guy/1717.html
+URL: https://watchwiththekids.com/ep/family-guy/1717.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5428,7 +5428,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E18 — 18. Throw It Away
-URL: https://watchwithkids.vercel.app/ep/family-guy/1718.html
+URL: https://watchwiththekids.com/ep/family-guy/1718.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5445,7 +5445,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E19 — 19. Girl, Internetted
-URL: https://watchwithkids.vercel.app/ep/family-guy/1719.html
+URL: https://watchwiththekids.com/ep/family-guy/1719.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5460,7 +5460,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S17 E20 — 20. Adam West High
-URL: https://watchwithkids.vercel.app/ep/family-guy/1720.html
+URL: https://watchwiththekids.com/ep/family-guy/1720.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5476,7 +5476,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S18 E1 — 1. Yacht Rocky
-URL: https://watchwithkids.vercel.app/ep/family-guy/1801.html
+URL: https://watchwiththekids.com/ep/family-guy/1801.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5491,7 +5491,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E2 — 2. Bri-Da
-URL: https://watchwithkids.vercel.app/ep/family-guy/1802.html
+URL: https://watchwiththekids.com/ep/family-guy/1802.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5513,7 +5513,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E3 — 3. Absolutely Babulous
-URL: https://watchwithkids.vercel.app/ep/family-guy/1803.html
+URL: https://watchwiththekids.com/ep/family-guy/1803.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5524,7 +5524,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E4 — 4. Disney's The Reboot
-URL: https://watchwithkids.vercel.app/ep/family-guy/1804.html
+URL: https://watchwiththekids.com/ep/family-guy/1804.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5544,7 +5544,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E5 — 5. Cat Fight
-URL: https://watchwithkids.vercel.app/ep/family-guy/1805.html
+URL: https://watchwiththekids.com/ep/family-guy/1805.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5561,7 +5561,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E6 — 6. Peter & Lois' Wedding
-URL: https://watchwithkids.vercel.app/ep/family-guy/1806.html
+URL: https://watchwiththekids.com/ep/family-guy/1806.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5578,7 +5578,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E7 — 7. Heart Burn
-URL: https://watchwithkids.vercel.app/ep/family-guy/1807.html
+URL: https://watchwiththekids.com/ep/family-guy/1807.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5597,7 +5597,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E8 — 8. Shanksgiving
-URL: https://watchwithkids.vercel.app/ep/family-guy/1808.html
+URL: https://watchwiththekids.com/ep/family-guy/1808.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5614,7 +5614,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E9 — 9. Christmas is Coming
-URL: https://watchwithkids.vercel.app/ep/family-guy/1809.html
+URL: https://watchwiththekids.com/ep/family-guy/1809.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5627,7 +5627,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S18 E10 — 10. Connie's Celica
-URL: https://watchwithkids.vercel.app/ep/family-guy/1810.html
+URL: https://watchwiththekids.com/ep/family-guy/1810.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5646,7 +5646,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E11 — 11. Short Cuts
-URL: https://watchwithkids.vercel.app/ep/family-guy/1811.html
+URL: https://watchwiththekids.com/ep/family-guy/1811.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5667,7 +5667,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E12 — 12. Undergrounded
-URL: https://watchwithkids.vercel.app/ep/family-guy/1812.html
+URL: https://watchwiththekids.com/ep/family-guy/1812.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5683,7 +5683,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E13 — 13. Rich Old Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/1813.html
+URL: https://watchwiththekids.com/ep/family-guy/1813.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5701,7 +5701,7 @@ Watch for:
   - 1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?…
 
 ## S18 E14 — 14. The Movement
-URL: https://watchwithkids.vercel.app/ep/family-guy/1814.html
+URL: https://watchwiththekids.com/ep/family-guy/1814.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -5729,7 +5729,7 @@ Watch for:
   - Carter. What are you doing here? Peter, ever since you made that stupid commercial, my ticket sales have tanked! Thanks to you, people now think the Quahog Whooping Scalpers are racist!…
 
 ## S18 E15 — 15. Baby Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/1815.html
+URL: https://watchwiththekids.com/ep/family-guy/1815.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -5757,7 +5757,7 @@ Watch for:
   - Where the hell is my white wine with Sprite in it?! Hi again. That man over there reading a book by himself has offered to pay for your meal if you move to a table outside.
 
 ## S18 E16 — 16. Start Me Up
-URL: https://watchwithkids.vercel.app/ep/family-guy/1816.html
+URL: https://watchwiththekids.com/ep/family-guy/1816.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5789,7 +5789,7 @@ Watch for:
   - Why? 'Cause I'm drunk and have a gun? - No.
 
 ## S18 E17 — 17. Coma Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1817.html
+URL: https://watchwiththekids.com/ep/family-guy/1817.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5815,7 +5815,7 @@ Watch for:
   - Reginald, we're leaving! Damn it! I shopped at Trader Joe's for this fancy cocktail party, and once again, your ignorance of books has ruined it.
 
 ## S18 E18 — 18. Better Off Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/1818.html
+URL: https://watchwiththekids.com/ep/family-guy/1818.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5835,7 +5835,7 @@ Watch for:
   - (LAUGHTER) - Oh! NARRATOR: Under court order, Stewie went on to make baked goods for the gay wedding.
 
 ## S18 E19 — 19. Holly Bibble
-URL: https://watchwithkids.vercel.app/ep/family-guy/1819.html
+URL: https://watchwiththekids.com/ep/family-guy/1819.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -5877,7 +5877,7 @@ Watch for:
   - I don't know, maybe throw it in the dryer at least? Don't take this the wrong way, but I'm not taking advice about germs from a whore.
 
 ## S18 E20 — 20. Movin' In (Principal Shepherd's Song)
-URL: https://watchwithkids.vercel.app/ep/family-guy/1820.html
+URL: https://watchwiththekids.com/ep/family-guy/1820.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5905,7 +5905,7 @@ Watch for:
   - At least I'm not a withered old slut like you are.
 
 ## S19 E1 — 1. Stewie's First Word
-URL: https://watchwithkids.vercel.app/ep/family-guy/1901.html
+URL: https://watchwiththekids.com/ep/family-guy/1901.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5926,7 +5926,7 @@ Watch for:
   - Ahoy! Are you looking to build a city where sports fans can be notoriously racist? Yeah, and can we also ruin "Sweet Caroline" - for everyone else? - Absolutely.
 
 ## S19 E2 — 2. The Talented Mr. Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/1902.html
+URL: https://watchwiththekids.com/ep/family-guy/1902.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -5953,7 +5953,7 @@ Watch for:
   - (Italian music playing) Mm. So anyway, so I'm-I'm Eat Gay Loving it and it's-it's going great.
 
 ## S19 E3 — 3. Boys & Squirrels
-URL: https://watchwithkids.vercel.app/ep/family-guy/1903.html
+URL: https://watchwiththekids.com/ep/family-guy/1903.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5977,7 +5977,7 @@ Watch for:
   - Yikes! - I hate the one story you tell at every cocktail party about almost meeting John Kerry.
 
 ## S19 E4 — 4. CutawayLand
-URL: https://watchwithkids.vercel.app/ep/family-guy/1904.html
+URL: https://watchwiththekids.com/ep/family-guy/1904.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6004,7 +6004,7 @@ Watch for:
   - Hey, Lois, you remember that time you and me made it under the boardwalk? When I go back to school, my greaser friends are gonna say, "Tell me more, tell me more," and I'm gonna say you were a slut.
 
 ## S19 E5 — 5. La Famiglia Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/1905.html
+URL: https://watchwiththekids.com/ep/family-guy/1905.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -6038,7 +6038,7 @@ Watch for:
   - "You's dead, fat ass.
 
 ## S19 E6 — 6. Meg's Wedding
-URL: https://watchwithkids.vercel.app/ep/family-guy/1906.html
+URL: https://watchwiththekids.com/ep/family-guy/1906.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -6071,7 +6071,7 @@ Watch for:
   - I'm gay, and like all gay men, it was a choice I made when I couldn't find a table at the high school cafeteria.
 
 ## S19 E7 — 7. Wild Wild West
-URL: https://watchwithkids.vercel.app/ep/family-guy/1907.html
+URL: https://watchwiththekids.com/ep/family-guy/1907.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -6088,7 +6088,7 @@ Watch for:
   - And don't say the economy or Iraq or income inequality or racism or Brett Kavanaugh or air pollution or Vietnam or slavery or Watergate or capitalism or #MeToo or homelessness or police brutality or homophobia or…
 
 ## S19 E8 — 8. Pawtucket Pat
-URL: https://watchwithkids.vercel.app/ep/family-guy/1908.html
+URL: https://watchwiththekids.com/ep/family-guy/1908.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -6131,7 +6131,7 @@ Watch for:
   - The pressing issue isn't what someone did 300 years ago, it's how do we help Native Americans today and end the institutional racism that still plagues society?…
 
 ## S19 E9 — 9. The First No L
-URL: https://watchwithkids.vercel.app/ep/family-guy/1909.html
+URL: https://watchwiththekids.com/ep/family-guy/1909.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6152,7 +6152,7 @@ Watch for:
   - A denim-shirted lesbian named CJ helped us.
 
 ## S19 E10 — 10. Fecal Matters
-URL: https://watchwithkids.vercel.app/ep/family-guy/1910.html
+URL: https://watchwiththekids.com/ep/family-guy/1910.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6177,7 +6177,7 @@ Watch for:
   - Anyway, this champagne is to celebrate my victory over the Giant Chicken.
 
 ## S19 E11 — 11. Boy's Best Friend
-URL: https://watchwithkids.vercel.app/ep/family-guy/1911.html
+URL: https://watchwiththekids.com/ep/family-guy/1911.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -6204,7 +6204,7 @@ Watch for:
   - Is that true? Are you a selfless lover? Stop saying "selfless lover. " Have you been reading Lois' romance novels again? A few, but I'm just saying I bet your coital congress will send Holly into paroxysms of ecstasy.
 
 ## S19 E12 — 12. And Then There's Fraud
-URL: https://watchwithkids.vercel.app/ep/family-guy/1912.html
+URL: https://watchwiththekids.com/ep/family-guy/1912.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6218,7 +6218,7 @@ Watch for:
   - What is it, bottom of the fourth? My Lord, it's cold. (GASPS) Chris, look. Two Irish guys who aren't drinking.
 
 ## S19 E13 — 13. PeTerminator
-URL: https://watchwithkids.vercel.app/ep/family-guy/1913.html
+URL: https://watchwiththekids.com/ep/family-guy/1913.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6246,7 +6246,7 @@ Watch for:
   - (KNOCK ON DOOR) Champagne and chocolate-covered strawberries? Yes, put it over there near the candles.
 
 ## S19 E14 — 14. The Marrying Kind
-URL: https://watchwithkids.vercel.app/ep/family-guy/1914.html
+URL: https://watchwiththekids.com/ep/family-guy/1914.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -6266,7 +6266,7 @@ Watch for:
   - I have Dasani water bottle full of Rite Aid vodka.
 
 ## S19 E15 — 15. Customer of the Week
-URL: https://watchwithkids.vercel.app/ep/family-guy/1915.html
+URL: https://watchwiththekids.com/ep/family-guy/1915.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6292,7 +6292,7 @@ Watch for:
   - I-I guess I'm not woke, okay? Fine, you win with your gay stuff.
 
 ## S19 E16 — 16. Who's Brian Now?
-URL: https://watchwithkids.vercel.app/ep/family-guy/1916.html
+URL: https://watchwiththekids.com/ep/family-guy/1916.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6313,7 +6313,7 @@ Watch for:
   - Okay, that's it! How are you all actually this dumb? I can't even believe I've wasted my intellect living here.
 
 ## S19 E17 — 17. Young Parent Trap
-URL: https://watchwithkids.vercel.app/ep/family-guy/1917.html
+URL: https://watchwiththekids.com/ep/family-guy/1917.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -6328,7 +6328,7 @@ Watch for:
   - Dropped my phone. (CHUCKLES) Peter, can you help me pick this up? What the hell is AirDrop? Is that Wi-Fi? I think it's a medical term for a fart.
 
 ## S19 E18 — 18. Meg Goes to College
-URL: https://watchwithkids.vercel.app/ep/family-guy/1918.html
+URL: https://watchwiththekids.com/ep/family-guy/1918.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6346,7 +6346,7 @@ Watch for:
   - And then I can get back to hustling drunk women upstairs with Tobin and Squee.
 
 ## S19 E19 — 19. Family Cat
-URL: https://watchwithkids.vercel.app/ep/family-guy/1919.html
+URL: https://watchwiththekids.com/ep/family-guy/1919.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6366,7 +6366,7 @@ Watch for:
   - I'm a punching bag at school and at home.
 
 ## S19 E20 — 20. Tales of Former Sports Glory
-URL: https://watchwithkids.vercel.app/ep/family-guy/1920.html
+URL: https://watchwiththekids.com/ep/family-guy/1920.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6391,7 +6391,7 @@ Watch for:
   - Castro was not happy that they had named the most dangerously gay part of San Francisco after him.
 
 ## S20 E1 — 1. LASIK Instinct
-URL: https://watchwithkids.vercel.app/ep/family-guy/2001.html
+URL: https://watchwiththekids.com/ep/family-guy/2001.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -6408,7 +6408,7 @@ Watch for:
   - There's the one where you compared the homosexual lifestyle to playing in the sewer, and there's the one where you defended Roy Moore.
 
 ## S20 E2 — 2. Rock Hard
-URL: https://watchwithkids.vercel.app/ep/family-guy/2002.html
+URL: https://watchwiththekids.com/ep/family-guy/2002.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6452,7 +6452,7 @@ Watch for:
   - Now, since he was a Black performer, naturally, he went on tour in the part of the country that's so racist it's known as the Boston of the South.
 
 ## S20 E3 — 3. Must Love Dogs
-URL: https://watchwithkids.vercel.app/ep/family-guy/2003.html
+URL: https://watchwiththekids.com/ep/family-guy/2003.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6476,7 +6476,7 @@ Watch for:
   - I mean, it's not just that the sex is great, which it is, but I appreciate her as a person, which sounds kind of weird coming out of my mouth.
 
 ## S20 E4 — 4. 80's Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/2004.html
+URL: https://watchwiththekids.com/ep/family-guy/2004.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -6499,7 +6499,7 @@ Watch for:
   - Wha? (GRUNTING) Oh, no! Help! Help! Help me! What? We can't hear you! Our voices are very faint because we are so distant! Distant from you, he means! We're not distant from each other!…
 
 ## S20 E5 — 5. Brief Encounter
-URL: https://watchwithkids.vercel.app/ep/family-guy/2005.html
+URL: https://watchwiththekids.com/ep/family-guy/2005.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6536,7 +6536,7 @@ Watch for:
   - Boy, we all get a Doug, huh? Yeah, Tyler's Doug is a drunk stepdad.
 
 ## S20 E6 — 6. Cootie & The Blowhard
-URL: https://watchwithkids.vercel.app/ep/family-guy/2006.html
+URL: https://watchwiththekids.com/ep/family-guy/2006.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6563,7 +6563,7 @@ Watch for:
   - You see, Rupert? That's why I'm glad you stopped drinking.
 
 ## S20 E7 — 7. Peterschmidt Manor
-URL: https://watchwithkids.vercel.app/ep/family-guy/2007.html
+URL: https://watchwiththekids.com/ep/family-guy/2007.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -6590,7 +6590,7 @@ Watch for:
   - Wow! So am I also gonna be a billionaire making websites? No, but you'll use his site to post pictures of wine and passive-aggressively body-shame other moms.
 
 ## S20 E8 — 8. The Birthday Bootlegger
-URL: https://watchwithkids.vercel.app/ep/family-guy/2008.html
+URL: https://watchwiththekids.com/ep/family-guy/2008.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6611,7 +6611,7 @@ Watch for:
   - What have you learned from this experience? That your mother's a whore.
 
 ## S20 E9 — 9. The Fatman Always Rings Twice
-URL: https://watchwithkids.vercel.app/ep/family-guy/2009.html
+URL: https://watchwiththekids.com/ep/family-guy/2009.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6641,7 +6641,7 @@ Watch for:
   - And of course, there was racism.
 
 ## S20 E10 — 10. Christmas Crime
-URL: https://watchwithkids.vercel.app/ep/family-guy/2010.html
+URL: https://watchwiththekids.com/ep/family-guy/2010.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6666,7 +6666,7 @@ Watch for:
   - He's not Australian! He name-checks Vancouver in the song! A guy from Australia can't know where Vancouver is? Feels kind of racist.
 
 ## S20 E11 — 11. Mister Act
-URL: https://watchwithkids.vercel.app/ep/family-guy/2011.html
+URL: https://watchwiththekids.com/ep/family-guy/2011.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6685,7 +6685,7 @@ Watch for:
   - How's that cheap wine headache? Go roll in dirt, you pig.
 
 ## S20 E12 — 12. The Lois Quagmire
-URL: https://watchwithkids.vercel.app/ep/family-guy/2012.html
+URL: https://watchwiththekids.com/ep/family-guy/2012.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -6718,7 +6718,7 @@ Watch for:
   - May I say that you have the breasts of an obese woman and the arms of an anorexic.
 
 ## S20 E13 — 13. Lawyer Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/2013.html
+URL: https://watchwiththekids.com/ep/family-guy/2013.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6739,7 +6739,7 @@ Watch for:
   - And you, Joe, you like to relax with an ice-cold beer.
 
 ## S20 E14 — 14. HBO-No
-URL: https://watchwithkids.vercel.app/ep/family-guy/2014.html
+URL: https://watchwiththekids.com/ep/family-guy/2014.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6753,7 +6753,7 @@ Watch for:
   - It's not just outdoor fireplace wine shops and the opening credits bridge that's actually in Big Sur.
 
 ## S20 E15 — 15. Hard Boiled Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/2015.html
+URL: https://watchwiththekids.com/ep/family-guy/2015.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -6782,7 +6782,7 @@ Watch for:
   - Uh, hey, Kel, how's that cocktail coming along? Listen, Meg, I've got a big job I've been thinking about.
 
 ## S20 E16 — 16. Prescription Heroine
-URL: https://watchwithkids.vercel.app/ep/family-guy/2016.html
+URL: https://watchwiththekids.com/ep/family-guy/2016.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6805,7 +6805,7 @@ Watch for:
   - Also, you're naked and you're falling and you're falling and your teeth are coming out, too.
 
 ## S20 E17 — 17. All About Alana
-URL: https://watchwithkids.vercel.app/ep/family-guy/2017.html
+URL: https://watchwiththekids.com/ep/family-guy/2017.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6824,7 +6824,7 @@ Watch for:
   - "Dear family, I've decided to leave you all and become a lesbian. " Wait, we can just do that? Dad, how did this happen? I blame myself.
 
 ## S20 E18 — 18. Girlfriend, Eh?
-URL: https://watchwithkids.vercel.app/ep/family-guy/2018.html
+URL: https://watchwiththekids.com/ep/family-guy/2018.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -6849,7 +6849,7 @@ Watch for:
   - A nation divided over which was the least trashy quality of a crappy, domestic river beer.
 
 ## S20 E19 — 19. First Blood
-URL: https://watchwithkids.vercel.app/ep/family-guy/2019.html
+URL: https://watchwiththekids.com/ep/family-guy/2019.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6875,7 +6875,7 @@ Watch for:
   - But today I took a morning-after cocktail of Flintstones vitamins, Ovaltine, castor oil, and a splash of Dr. Pepper, since its name is both a medical professional and a vegetable.
 
 ## S20 E20 — 20. Jersey Bore
-URL: https://watchwithkids.vercel.app/ep/family-guy/2020.html
+URL: https://watchwiththekids.com/ep/family-guy/2020.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -6922,7 +6922,7 @@ Watch for:
   - Is that why I'm so big? On account of the water? No, Peter. You are aggressively obese.
 
 ## S21 E1 — 1. Oscars Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/2101.html
+URL: https://watchwiththekids.com/ep/family-guy/2101.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -6949,7 +6949,7 @@ Watch for:
   - fat girl who went missing?
 
 ## S21 E2 — 2. Bend or Blockbuster
-URL: https://watchwithkids.vercel.app/ep/family-guy/2102.html
+URL: https://watchwiththekids.com/ep/family-guy/2102.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -6975,7 +6975,7 @@ Watch for:
   - No, your mom's a whore.
 
 ## S21 E3 — 3. A Wife-Changing Experience
-URL: https://watchwithkids.vercel.app/ep/family-guy/2103.html
+URL: https://watchwiththekids.com/ep/family-guy/2103.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -7005,7 +7005,7 @@ Watch for:
   - Look, this is gonna sound racist, but
 
 ## S21 E4 — 4. The Munchurian Candidate
-URL: https://watchwithkids.vercel.app/ep/family-guy/2104.html
+URL: https://watchwiththekids.com/ep/family-guy/2104.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -7038,7 +7038,7 @@ Watch for:
   - Peter, I'm gonna open a bottle of wine.
 
 ## S21 E5 — 5. Unzipped Code
-URL: https://watchwithkids.vercel.app/ep/family-guy/2105.html
+URL: https://watchwiththekids.com/ep/family-guy/2105.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7070,7 +7070,7 @@ Watch for:
   - the beer-loving everyman
 
 ## S21 E6 — 6. Happy Holo-ween
-URL: https://watchwithkids.vercel.app/ep/family-guy/2106.html
+URL: https://watchwiththekids.com/ep/family-guy/2106.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7091,7 +7091,7 @@ Watch for:
   - Don't be racist with your costume ♪
 
 ## S21 E7 — 7. The Stewaway
-URL: https://watchwithkids.vercel.app/ep/family-guy/2107.html
+URL: https://watchwiththekids.com/ep/family-guy/2107.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -7114,7 +7114,7 @@ Watch for:
   - And in a town called "gay Paree,"
 
 ## S21 E8 — 8. Get Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/2108.html
+URL: https://watchwiththekids.com/ep/family-guy/2108.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7137,7 +7137,7 @@ Watch for:
   - Peter needs to lose weight,
 
 ## S21 E9 — 9. Carny Knowledge
-URL: https://watchwithkids.vercel.app/ep/family-guy/2109.html
+URL: https://watchwiththekids.com/ep/family-guy/2109.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -7165,7 +7165,7 @@ Watch for:
   - Taking a whore bath
 
 ## S21 E10 — 10. The Candidate
-URL: https://watchwithkids.vercel.app/ep/family-guy/2110.html
+URL: https://watchwiththekids.com/ep/family-guy/2110.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -7196,7 +7196,7 @@ Watch for:
   - Yes, rosé is wine.
 
 ## S21 E11 — 11. Love Story Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/2111.html
+URL: https://watchwiththekids.com/ep/family-guy/2111.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -7218,7 +7218,7 @@ Watch for:
   - We had booze, sexy music,
 
 ## S21 E12 — 12. Old West
-URL: https://watchwithkids.vercel.app/ep/family-guy/2112.html
+URL: https://watchwiththekids.com/ep/family-guy/2112.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7250,7 +7250,7 @@ Watch for:
   - of root beer at the A&W.
 
 ## S21 E13 — 13. Single White Dad
-URL: https://watchwithkids.vercel.app/ep/family-guy/2113.html
+URL: https://watchwiththekids.com/ep/family-guy/2113.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -7281,7 +7281,7 @@ Watch for:
   - Or the children slinging racist
 
 ## S21 E14 — 14. White Meg Can't Jump
-URL: https://watchwithkids.vercel.app/ep/family-guy/2114.html
+URL: https://watchwiththekids.com/ep/family-guy/2114.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7307,7 +7307,7 @@ Watch for:
   - pizza coming out.
 
 ## S21 E15 — 15. Adoptation
-URL: https://watchwithkids.vercel.app/ep/family-guy/2115.html
+URL: https://watchwiththekids.com/ep/family-guy/2115.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7330,7 +7330,7 @@ Watch for:
   - and smoke was coming out the machine,
 
 ## S21 E16 — 16. The Bird Reich
-URL: https://watchwithkids.vercel.app/ep/family-guy/2116.html
+URL: https://watchwiththekids.com/ep/family-guy/2116.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7357,7 +7357,7 @@ Watch for:
   - I stopped drinking, and I'm
 
 ## S21 E17 — 17. A Bottle Episode
-URL: https://watchwithkids.vercel.app/ep/family-guy/2117.html
+URL: https://watchwiththekids.com/ep/family-guy/2117.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7374,7 +7374,7 @@ Watch for:
   - You think I give a crap
 
 ## S21 E18 — 18. Vat Man and Rob 'Em
-URL: https://watchwithkids.vercel.app/ep/family-guy/2118.html
+URL: https://watchwiththekids.com/ep/family-guy/2118.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7411,7 +7411,7 @@ Watch for:
   - and he stole all the beer.
 
 ## S21 E19 — 19. From Russia With Love
-URL: https://watchwithkids.vercel.app/ep/family-guy/2119.html
+URL: https://watchwiththekids.com/ep/family-guy/2119.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -7438,7 +7438,7 @@ Watch for:
   - from the same sex cult?
 
 ## S21 E20 — 20. Adult Education
-URL: https://watchwithkids.vercel.app/ep/family-guy/2120.html
+URL: https://watchwiththekids.com/ep/family-guy/2120.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -7469,7 +7469,7 @@ Watch for:
   - Already drunk at 9:15 ♪
 
 ## S22 E1 — 1. Fertilized Megg
-URL: https://watchwithkids.vercel.app/ep/family-guy/2201.html
+URL: https://watchwiththekids.com/ep/family-guy/2201.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7497,7 +7497,7 @@ Watch for:
   - lesser-known gay icon.
 
 ## S22 E2 — 2. Supermarket Pete
-URL: https://watchwithkids.vercel.app/ep/family-guy/2202.html
+URL: https://watchwiththekids.com/ep/family-guy/2202.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7526,7 +7526,7 @@ Watch for:
   - No, the Drunken Clam.
 
 ## S22 E3 — 3. A Stache From the Past
-URL: https://watchwithkids.vercel.app/ep/family-guy/2203.html
+URL: https://watchwiththekids.com/ep/family-guy/2203.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7542,7 +7542,7 @@ Watch for:
   - Yep. Whole-blurry-shelf racist.
 
 ## S22 E4 — 4. Old World Harm
-URL: https://watchwithkids.vercel.app/ep/family-guy/2204.html
+URL: https://watchwiththekids.com/ep/family-guy/2204.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7568,7 +7568,7 @@ Watch for:
   - mutual love of cocaine
 
 ## S22 E5 — 5. Baby, It's Cold Inside
-URL: https://watchwithkids.vercel.app/ep/family-guy/2205.html
+URL: https://watchwiththekids.com/ep/family-guy/2205.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7593,7 +7593,7 @@ Watch for:
   - with steam coming out of it.
 
 ## S22 E6 — 6. Boston Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/2206.html
+URL: https://watchwiththekids.com/ep/family-guy/2206.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7621,7 +7621,7 @@ Watch for:
   - I survive on racist bleacher farts.
 
 ## S22 E7 — 7. Snap(ple) Decision
-URL: https://watchwithkids.vercel.app/ep/family-guy/2207.html
+URL: https://watchwiththekids.com/ep/family-guy/2207.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7642,7 +7642,7 @@ Watch for:
   - before telling a racist joke.
 
 ## S22 E8 — 8. Baking Sad
-URL: https://watchwithkids.vercel.app/ep/family-guy/2208.html
+URL: https://watchwiththekids.com/ep/family-guy/2208.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7660,7 +7660,7 @@ Watch for:
   - offensive Chinese accent,
 
 ## S22 E9 — 9. The Return of the King (of Queens)
-URL: https://watchwithkids.vercel.app/ep/family-guy/2209.html
+URL: https://watchwiththekids.com/ep/family-guy/2209.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -7686,7 +7686,7 @@ Watch for:
   - They're coming out of the cornfield.
 
 ## S22 E10 — 10. Cabin Pressure
-URL: https://watchwithkids.vercel.app/ep/family-guy/2210.html
+URL: https://watchwiththekids.com/ep/family-guy/2210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7706,7 +7706,7 @@ Watch for:
   - Hey, thanks for coming out.
 
 ## S22 E11 — 11. Teacher's Heavy Pet
-URL: https://watchwithkids.vercel.app/ep/family-guy/2211.html
+URL: https://watchwiththekids.com/ep/family-guy/2211.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 15 moment(s)
@@ -7742,7 +7742,7 @@ Watch for:
   - Ow! Damn it.
 
 ## S22 E12 — 12. Take This Job and Love It
-URL: https://watchwithkids.vercel.app/ep/family-guy/2212.html
+URL: https://watchwiththekids.com/ep/family-guy/2212.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7775,7 +7775,7 @@ Watch for:
   - racist uncle hates you.
 
 ## S22 E13 — 13. Lifeguard Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/2213.html
+URL: https://watchwiththekids.com/ep/family-guy/2213.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7790,7 +7790,7 @@ Watch for:
   - You're all drinking Folgers.
 
 ## S22 E14 — 14. Fat Actor
-URL: https://watchwithkids.vercel.app/ep/family-guy/2214.html
+URL: https://watchwiththekids.com/ep/family-guy/2214.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7813,7 +7813,7 @@ Watch for:
   - Gay, straight you forgot those ones.
 
 ## S22 E15 — 15. Faith No More
-URL: https://watchwithkids.vercel.app/ep/family-guy/2215.html
+URL: https://watchwiththekids.com/ep/family-guy/2215.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 10 moment(s)
@@ -7842,7 +7842,7 @@ Watch for:
   - I turn this water into wine.
 
 ## S22 E90 — 90. Peter, Peter, Pumpkin Cheater
-URL: https://watchwithkids.vercel.app/ep/family-guy/2290.html
+URL: https://watchwiththekids.com/ep/family-guy/2290.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7856,7 +7856,7 @@ Watch for:
   - How'd you know I was cheating?
 
 ## S23 E0 — . Gift of the White Guy
-URL: https://watchwithkids.vercel.app/ep/family-guy/2300.html
+URL: https://watchwiththekids.com/ep/family-guy/2300.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -7881,7 +7881,7 @@ Watch for:
   - [WOMAN ON TV] Transgender
 
 ## S23 E1 — 1. Fat Gun
-URL: https://watchwithkids.vercel.app/ep/family-guy/2301.html
+URL: https://watchwiththekids.com/ep/family-guy/2301.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -7911,7 +7911,7 @@ Watch for:
   - It looks easy, and I can do it drunk.
 
 ## S23 E2 — 2. Live, Laugh, Love
-URL: https://watchwithkids.vercel.app/ep/family-guy/2302.html
+URL: https://watchwiththekids.com/ep/family-guy/2302.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7935,7 +7935,7 @@ Watch for:
   - I just put "gay stabbing."
 
 ## S23 E3 — 3. Drunk With Power
-URL: https://watchwithkids.vercel.app/ep/family-guy/2303.html
+URL: https://watchwiththekids.com/ep/family-guy/2303.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7982,7 +7982,7 @@ Watch for:
   - but you preserved gay marriage.
 
 ## S23 E4 — 4. Lois C.K.
-URL: https://watchwithkids.vercel.app/ep/family-guy/2304.html
+URL: https://watchwiththekids.com/ep/family-guy/2304.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -8015,7 +8015,7 @@ Watch for:
   - beer bottles to throw
 
 ## S23 E5 — 5. The Chicken or the Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/2305.html
+URL: https://watchwiththekids.com/ep/family-guy/2305.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -8044,7 +8044,7 @@ Watch for:
   - racist or homophobic slurs.
 
 ## S23 E6 — 6. Dog Is My Co-Pilot
-URL: https://watchwithkids.vercel.app/ep/family-guy/2306.html
+URL: https://watchwiththekids.com/ep/family-guy/2306.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8069,7 +8069,7 @@ Watch for:
   - coming out at "98 degrees"
 
 ## S23 E7 — 7. Pitch Imperfect
-URL: https://watchwithkids.vercel.app/ep/family-guy/2307.html
+URL: https://watchwiththekids.com/ep/family-guy/2307.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8097,7 +8097,7 @@ Watch for:
   - euthanasia cocktail.
 
 ## S23 E8 — 8. Hard Times at Adam West High
-URL: https://watchwithkids.vercel.app/ep/family-guy/2308.html
+URL: https://watchwiththekids.com/ep/family-guy/2308.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -8122,7 +8122,7 @@ Watch for:
   - Uh Uh, having an affair?
 
 ## S23 E9 — 9. The Elle Word
-URL: https://watchwithkids.vercel.app/ep/family-guy/2309.html
+URL: https://watchwiththekids.com/ep/family-guy/2309.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -8147,7 +8147,7 @@ Watch for:
   - Uh having an affair?
 
 ## S23 E10 — 10. A Real Who's Hulu
-URL: https://watchwithkids.vercel.app/ep/family-guy/2310.html
+URL: https://watchwiththekids.com/ep/family-guy/2310.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -8183,7 +8183,7 @@ Watch for:
   - full gallon of blood
 
 ## S23 E11 — 11. China Doll
-URL: https://watchwithkids.vercel.app/ep/family-guy/2311.html
+URL: https://watchwiththekids.com/ep/family-guy/2311.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8203,7 +8203,7 @@ Watch for:
   - of an obscure regional racism.
 
 ## S23 E12 — 12. One Foot in Front of the Mother
-URL: https://watchwithkids.vercel.app/ep/family-guy/2312.html
+URL: https://watchwiththekids.com/ep/family-guy/2312.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8226,7 +8226,7 @@ Watch for:
   - Well, he needs to lose weight.
 
 ## S23 E13 — 13. The Fat Lotus
-URL: https://watchwithkids.vercel.app/ep/family-guy/2313.html
+URL: https://watchwiththekids.com/ep/family-guy/2313.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -8247,7 +8247,7 @@ Watch for:
   - wasted when we hang out.
 
 ## S23 E14 — 14. Cool Hand Lois
-URL: https://watchwithkids.vercel.app/ep/family-guy/2314.html
+URL: https://watchwiththekids.com/ep/family-guy/2314.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -8272,7 +8272,7 @@ Watch for:
   - a secret lesbian holiday.
 
 ## S23 E15 — 15. Martian Meg
-URL: https://watchwithkids.vercel.app/ep/family-guy/2315.html
+URL: https://watchwiththekids.com/ep/family-guy/2315.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -8287,7 +8287,7 @@ Watch for:
   - and they're a home-wrecking slut.
 
 ## S23 E16 — 16. Row v. Wade
-URL: https://watchwithkids.vercel.app/ep/family-guy/2316.html
+URL: https://watchwiththekids.com/ep/family-guy/2316.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8311,7 +8311,7 @@ Watch for:
   - you're not drinking this month.
 
 ## S23 E17 — 17. Karenheit 451
-URL: https://watchwithkids.vercel.app/ep/family-guy/2317.html
+URL: https://watchwiththekids.com/ep/family-guy/2317.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -8352,7 +8352,7 @@ Watch for:
   - It's not a racist book!
 
 ## S23 E18 — 18. Twain's World
-URL: https://watchwithkids.vercel.app/ep/family-guy/2318.html
+URL: https://watchwiththekids.com/ep/family-guy/2318.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8398,7 +8398,7 @@ Watch for:
   - a racist, sexist screed
 
 ## S24 E1 — 1. The Edible Arrangement
-URL: https://watchwithkids.vercel.app/ep/family-guy/2401.html
+URL: https://watchwiththekids.com/ep/family-guy/2401.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8409,7 +8409,7 @@ Watch for:
   - This is like The Hangover
 
 ## S24 E2 — 2. Pumpkin Spice Girls
-URL: https://watchwithkids.vercel.app/ep/family-guy/2402.html
+URL: https://watchwiththekids.com/ep/family-guy/2402.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8429,7 +8429,7 @@ Watch for:
   - the smoking gun we needed.
 
 ## S24 E3 — 3. Man-Fest Destiny
-URL: https://watchwithkids.vercel.app/ep/family-guy/2403.html
+URL: https://watchwiththekids.com/ep/family-guy/2403.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8452,7 +8452,7 @@ Watch for:
   - and regional weathermen to be gay.
 
 ## S24 E4 — 4. Bringing Up Brady
-URL: https://watchwithkids.vercel.app/ep/family-guy/2404.html
+URL: https://watchwiththekids.com/ep/family-guy/2404.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -8477,7 +8477,7 @@ Watch for:
   - word "whore" on my chest.
 
 ## S24 E5 — 5. Dear Francis
-URL: https://watchwithkids.vercel.app/ep/family-guy/2405.html
+URL: https://watchwiththekids.com/ep/family-guy/2405.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -8504,7 +8504,7 @@ Watch for:
   - Unmoved, the obese mammal returns
 
 ## S24 E6 — 6. Viewer DMs
-URL: https://watchwithkids.vercel.app/ep/family-guy/2406.html
+URL: https://watchwiththekids.com/ep/family-guy/2406.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8523,7 +8523,7 @@ Watch for:
   - Plus, he did a "gay" voice,
 
 ## S24 E7 — 7. Scent of a Woman
-URL: https://watchwithkids.vercel.app/ep/family-guy/2407.html
+URL: https://watchwiththekids.com/ep/family-guy/2407.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -8562,7 +8562,7 @@ Watch for:
   - I'm wasted by the way ♪
 
 ## S24 E8 — 8. Play Time
-URL: https://watchwithkids.vercel.app/ep/family-guy/2408.html
+URL: https://watchwiththekids.com/ep/family-guy/2408.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -8601,7 +8601,7 @@ Watch for:
   - God, this country is racist.
 
 ## S24 E9 — 9. Phony Montana
-URL: https://watchwithkids.vercel.app/ep/family-guy/2409.html
+URL: https://watchwiththekids.com/ep/family-guy/2409.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -8627,7 +8627,7 @@ Watch for:
   - You're gonna get us beat up
 
 ## S24 E10 — 10. A Few More Ways to Die in the West
-URL: https://watchwithkids.vercel.app/ep/family-guy/2410.html
+URL: https://watchwiththekids.com/ep/family-guy/2410.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8653,7 +8653,7 @@ Watch for:
   - bisexual nightclubs.
 
 ## S24 E11 — 11. Tall Stewie
-URL: https://watchwithkids.vercel.app/ep/family-guy/2411.html
+URL: https://watchwiththekids.com/ep/family-guy/2411.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 12 moment(s)
@@ -8696,7 +8696,7 @@ Watch for:
   - Big, fat ass.
 
 ## S24 E12 — 12. Lower G.I. Joe
-URL: https://watchwithkids.vercel.app/ep/family-guy/2412.html
+URL: https://watchwiththekids.com/ep/family-guy/2412.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8724,7 +8724,7 @@ Watch for:
   - I'm Coming Out on there?
 
 ## S24 E13 — 13. Friend's Best Man
-URL: https://watchwithkids.vercel.app/ep/family-guy/2413.html
+URL: https://watchwiththekids.com/ep/family-guy/2413.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 13 moment(s)
@@ -8763,7 +8763,7 @@ Watch for:
   - I feel like a cheap whore.
 
 ## S24 E14 — 14. Let the Goodtimes Walk
-URL: https://watchwithkids.vercel.app/ep/family-guy/2414.html
+URL: https://watchwiththekids.com/ep/family-guy/2414.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8793,7 +8793,7 @@ Watch for:
   - or is it like champagne and
 
 ## S24 E15 — 15. High School History
-URL: https://watchwithkids.vercel.app/ep/family-guy/2415.html
+URL: https://watchwiththekids.com/ep/family-guy/2415.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)

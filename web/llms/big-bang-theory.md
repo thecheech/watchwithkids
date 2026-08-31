@@ -1,11 +1,11 @@
 # The Big Bang Theory — parent guide (279 episodes)
 
-Source: https://watchwithkids.vercel.app/big-bang-theory.html
+Source: https://watchwiththekids.com/big-bang-theory.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 118 all clear (1–2), 106 gray area (3), 55 hard pass (4–5).
 
 ## S1 E1 — Series 01 Episode 01 – Pilot Episode
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0101.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0101.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 10 moment(s)
@@ -32,7 +32,7 @@ Watch for:
   - Sheldon: “Two hundred pound transvestite with a skin condition, yes she is.”
 
 ## S1 E2 — Series 01 Episode 02 – The Big Bran Hypothesis
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0102.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0102.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -54,7 +54,7 @@ Watch for:
   - Leonard: “When the transvestite lived here, you didn’t care how he kept the place.”
 
 ## S1 E3 — Series 01 Episode 03 – The Fuzzy Boots Corollary
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0103.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0103.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 12 moment(s)
@@ -80,7 +80,7 @@ Watch for:
   - Sheldon: “If you’re compiling a mix CD for a double suicide. (Leonard is taking supplies out of a bag) Oh, I hope that scratching post is for you.”
 
 ## S1 E4 — Series 01 Episode 04 – The Luminous Fish Effect
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0104.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0104.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 3 moment(s)
@@ -91,7 +91,7 @@ Watch for:
   - Mrs Cooper: Lard.
 
 ## S1 E5 — Series 01 Episode 05 – The Hamburger Postulate
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0105.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0105.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -109,7 +109,7 @@ Watch for:
   - Raj: “Excuse me, Ganesh is the remover of obstacles, and Shiva is the destroyer. When the smoke clears, Abraham Lincoln will be speaking Hindi and drinking mint juleps.”
 
 ## S1 E6 — Series 01 Episode 06 – The Middle Earth Paradigm
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0106.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0106.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -128,7 +128,7 @@ Watch for:
   - Raj: “What? Just because I’m Indian I can’t be a Norse God? No, no, no, Raj has to be an Indian God. That’s racism. I mean, look at Wolowitz, he’s not English, but he’s dressed like Peter Pan.…”
 
 ## S1 E7 — Series 01 Episode 07 – The Dumpling Paradox
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0107.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0107.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 10 moment(s)
@@ -163,7 +163,7 @@ Watch for:
   - Raj: “Oh, that’s very impressive. And a little racist.”
 
 ## S1 E8 — Series 02 Episode 08 – The Lizard-Spock Expansion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0108.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0108.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -178,7 +178,7 @@ Watch for:
   - Howard (voice): Really? Is that what you do when someone knocks? Thank you. I had no idea! (opening door) Hey, buddy. What brings you to my little slice of hell?
 
 ## S1 E8 — Series 01 Episode 08 – The Grasshopper Experiment
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0108.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0108.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -214,7 +214,7 @@ Watch for:
   - Raj: “You have lost so much weight! That must have been difficult for you because you were so, so fat! Do you remember?”
 
 ## S1 E9 — Series 01 Episode 09 – The Cooper-Hofstadter Polarization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0109.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0109.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -232,7 +232,7 @@ Watch for:
   - Leonard (coming out of apartment): Hey, Sheldon, I’ve been thinking, instead of arguing about this why don’t….
 
 ## S1 E10 — Series 01 Episode 10 – The Loobenfeld Decay
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0110.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0110.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -247,7 +247,7 @@ Watch for:
   - Toby: “This is amazing. Just sitting on a couch, watching TV with a woman. Not being drunk, or high, or… or… wondering if you’re a dude down there.”
 
 ## S1 E11 — Series 01 Episode 11 – The Pancake Batter Anomaly
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0111.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0111.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -258,7 +258,7 @@ Watch for:
   - Raj: “Well if you leave now, you can be back before the gorillas rip the crap out of Charlton Heston.”
 
 ## S1 E12 — Series 01 Episode 12 – The Jerusalem Duality
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0112.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0112.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -279,7 +279,7 @@ Watch for:
   - Leonard: “Howard, that’s racist, any fifteen year-old girl will do the trick. (Penny slams door.)”
 
 ## S1 E13 — Series 01 Episode 13 – The Bat Jar Conjecture
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0113.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0113.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -290,7 +290,7 @@ Watch for:
   - Leonard: “What the hell is that.”
 
 ## S1 E14 — Series 01 Episode 14 – The Nerdvana Annihilation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0114.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0114.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -310,7 +310,7 @@ Watch for:
   - Penny (coming out of her flat): What the hell’s going on?
 
 ## S1 E15 — Series 01 Episode 15 – The Porkchop Indeterminacy
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0115.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0115.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -328,7 +328,7 @@ Watch for:
   - Howard: “Oh, you poor, deluded bastard.”
 
 ## S1 E16 — Series 01 Episode 16 – The Peanut Reaction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0116.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0116.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -356,7 +356,7 @@ Watch for:
   - Penny: “I’ve got a hot former fat girl with no self-esteem, I’ve got a girl who punishes her father by sleeping around and an alcoholic who’s two tequila shots away from letting you wear her like a hat.”
 
 ## S1 E17 — Series 01 Episode 17 – The Tangerine Factor
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0117.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0117.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -376,7 +376,7 @@ Watch for:
   - Leonard: “Oh, sure. Huh, maybe I am her gay friend.”
 
 ## S2 E1 — Series 02 Episode 01 – The Bad Fish Paradigm
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0201.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0201.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -391,7 +391,7 @@ Watch for:
   - Sheldon: “Oh, good Lord. Why don’t you just take your clothes down to the river and beat them with a rock?”
 
 ## S2 E2 — Series 02 Episode 02 – The Codpiece Topology
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0202.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0202.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -412,7 +412,7 @@ Watch for:
   - The apartment. Leonard is dressed smartly and placing wine on the table. Sheldon enters.
 
 ## S2 E3 — Series 02 Episode 03 – The Barbarian Sublimation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0203.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0203.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -427,7 +427,7 @@ Watch for:
   - Raj: “I always thought Peppermint Patty was a lesbian?”
 
 ## S2 E4 — Series 02 Episode 04 – The Griffin Equivalency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0204.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0204.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -450,7 +450,7 @@ Watch for:
   - Howard: “It can’t be racist, he’s a beloved character on the Simpsons.”
 
 ## S2 E5 — Series 02 Episode 05 – The Euclid Alternative
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0205.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0205.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -460,7 +460,7 @@ Watch for:
   - Sheldon: “Studies have shown that performing tasks such as eating, talking on a cell phone or drinking coffee while driving reduces one’s reaction time by the same factor as an ounce of alcohol.”
 
 ## S2 E6 — Series 02 Episode 06 – The Cooper-Nowitzki Theorem
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0206.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0206.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -469,7 +469,7 @@ Watch for:
   - Penny: “Um, sure, sisters. (Ramona leaves.) Holy crap on a cracker.”
 
 ## S2 E7 — Series 02 Episode 07 – The Panty Pinata Polarization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0207.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0207.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -482,7 +482,7 @@ Watch for:
   - Penny: “How the hell did you get them up on that telephone wire?”
 
 ## S2 E9 — Series 02 Episode 09 – The White Asparagus Triangulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0209.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0209.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -495,7 +495,7 @@ Watch for:
   - Leonard: “Want some more wine?”
 
 ## S2 E11 — Series 02 Episode 11 – The Bath Item Gift Hypothesis
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0211.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0211.html
 Scores: violence 3/5, sex 5/5, language 1/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -514,7 +514,7 @@ Watch for:
   - David: “Uh-huh. We’re going to explore the effects of tequila shots on a gorgeous 22-year-old woman.”
 
 ## S2 E11 — Series 02 Episode 10 – The Vartabedian Conundrum
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0211.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0211.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -526,7 +526,7 @@ Watch for:
   - Steph: “I haven’t heard a thing about you. Leonard? Why haven’t I heard a thing about this woman who lives across the hall and comes into your apartment in the morning in her underwear?”
 
 ## S2 E12 — Series 02 Episode 12 – The Killer Robot Instability
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0212.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0212.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -546,7 +546,7 @@ Watch for:
   - Howard: “Yeah. They sucker punch you when your eyes are closed.”
 
 ## S2 E13 — Series 02 Episode 13 – The Friendship Algorithm
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0213.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0213.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -558,7 +558,7 @@ Watch for:
   - Sheldon (picks up train): Oh my! That’s awfully sticky. Alright, let’s see. Bernie Bunny has Two Daddies Now. It’s probably about homosexual rabbits. Jerry the Gerbil and the Bullies on the Bus. Read it, not helpful.…
 
 ## S2 E14 — Series 02 Episode 14 – The Financial Permeability
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0214.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0214.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -574,7 +574,7 @@ Watch for:
   - Leonard: “And that’s based on the inherent credit-worthiness of people who get drunk and urinate on police vehicles?”
 
 ## S2 E15 — Series 02 Episode 15 – The Maternal Capacitance
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0215.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0215.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -597,7 +597,7 @@ Watch for:
   - Penny (coming out of her apartment): Oh, good morning.
 
 ## S2 E16 — Series 02 Episode 16 – The Cushion Saturation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0216.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0216.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -622,7 +622,7 @@ Watch for:
   - Leonard: “Just to shoot the couch with a paintball gun?”
 
 ## S2 E17 — Series 02 Episode 17 – The Terminator Decoupling
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0217.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0217.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -637,7 +637,7 @@ Watch for:
   - Leonard: “Look at it. Non-alcoholic beer.”
 
 ## S2 E18 — Series 02 Episode 18 – The Work Song Nanocluster
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0218.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0218.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -661,7 +661,7 @@ Watch for:
   - Leonard: “Sorry. My apologies to the gay community of East Rutherford, New Jersey.”
 
 ## S2 E19 — Series 02 Episode 19 – The Dead Hooker Juxtaposition
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0219.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0219.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -678,7 +678,7 @@ Watch for:
   - Penny: “Well, dead whore on TV, live one in real life.”
 
 ## S2 E20 — Series 02 Episode 20 – The Hofstadter Isotope
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0220.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0220.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -701,7 +701,7 @@ Watch for:
   - Penny (coming out of apartment): Oh, hey guys.
 
 ## S2 E21 — Series 02 Episode 21 – The Vegas Renormalization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0221.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0221.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -722,7 +722,7 @@ Watch for:
   - Penny: “Really? Are you drunk?”
 
 ## S2 E22 — Series 02 Episode 22 – The Classified Materials Turbulence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0222.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0222.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -744,7 +744,7 @@ Watch for:
   - Leonard: “Wine? I didn’t say to give her wine.”
 
 ## S2 E23 — Series 02 Episode 23 – The Monopolar Expedition
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0223.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0223.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -757,7 +757,7 @@ Watch for:
   - Penny: “Wine, credit card and late night television are a bad combination.”
 
 ## S3 E1 — Series 03 Episode 01 – The Electric Can Opener Fluctuation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0301.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0301.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -779,7 +779,7 @@ Watch for:
   - Howard: “If y’all don’t mind, I got a hankerin’ for a Lone Star beer.”
 
 ## S3 E2 — Series 03 Episode 02 – The Jiminy Conjecture
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0302.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0302.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 12 moment(s)
@@ -813,7 +813,7 @@ Watch for:
   - Prof Crawley: “Let me show you something. See that? That’s a Crawley’s dung beetle. I discovered it after spending six months slogging through a Bornean rain forest, while my wife was back home shacking up with a two-bit…”
 
 ## S3 E3 — Series 03 Episode 03 – The Gothowitz Deviation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0303.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0303.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -838,7 +838,7 @@ Watch for:
   - Raj: “Oh, what’s so gothic about vodka and cranberry juice?”
 
 ## S3 E4 — Series 03 Episode 04 – The Pirate Solution
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0304.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0304.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -851,7 +851,7 @@ Watch for:
   - Sheldon: “Forgive me, as you know, I’m no adept at reading facial cues, but I’m going to take a stab here, you’re either sad or nauseated.”
 
 ## S3 E5 — Series 03 Episode 05 – The Creepy Candy Coating Corollary
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0305.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0305.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -868,7 +868,7 @@ Watch for:
   - Raj: “What are you waiting for? Kill Wil Wheaton! From hell’s heart, stab at him!”
 
 ## S3 E6 — Series 03 Episode 06 – The Cornhusker Vortex
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0306.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0306.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -883,7 +883,7 @@ Watch for:
   - Penny: “Oh. I was just kind of hoping you were drunk. Now we’re back live.”
 
 ## S3 E7 — Series 03 Episode 07 – The Guitarist Amplification
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0307.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0307.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -905,7 +905,7 @@ Watch for:
   - Leonard: “An old boyfriend who’s definitely not gay. That’s what a guy likes to hear, definitely.”
 
 ## S3 E8 — Series 03 Episode 08 – The Adhesive Duck Deficiency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0308.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0308.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -920,7 +920,7 @@ Watch for:
   - Penny: “Oh, my god, what the hell does this have to do with my stupid shoulder?”
 
 ## S3 E9 — Series 03 Episode 09 – The Vengeance Formulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0309.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0309.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -936,7 +936,7 @@ Watch for:
   - Penny: “Yo, Raj, talk to me. I’m sorry, just screwing with you. Hey, Howard, why haven’t you called Bernadette?”
 
 ## S3 E10 — Series 03 Episode 10 – The Gorilla Experiment
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0310.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0310.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -951,7 +951,7 @@ Watch for:
   - Bernadette: “Oh. You got me again. This isn’t non-fat yogurt, this is fatty fat fat. Excuse me.”
 
 ## S3 E11 — Series 03 Episode 11 – The Maternal Congruence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0311.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0311.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -981,7 +981,7 @@ Watch for:
   - Howard: “Because we don’t have latent homosexual feelings toward one another.”
 
 ## S3 E12 — Series 03 Episode 12 – The Psychic Vortex
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0312.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0312.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -997,7 +997,7 @@ Watch for:
   - Sheldon: “I would like a root beer float.”
 
 ## S3 E13 — Series 03 Episode 13 – The Bozeman Reaction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0313.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0313.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -1008,7 +1008,7 @@ Watch for:
   - Sheldon: “I see you’re drinking wine.”
 
 ## S3 E14 — Series 03 Episode 14 – The Einstein Approximation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0314.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0314.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1018,7 +1018,7 @@ Watch for:
   - Sheldon: “All right, one bacon cheeseburger, breaking two Jewish dietary restrictions simultaneously, kudos. Beer-battered fish and chips. Now, here’s your tartar sauce. I also brought you salsa.…”
 
 ## S3 E15 — Series 03 Episode 15 – The Large Hadron Collision
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0315.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0315.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1038,7 +1038,7 @@ Watch for:
   - Raj: “Oh, my goodness, look at this room! Champagne! Roses! Oh, and little chocolates! This is going to be the best Valentine’s Day ever.”
 
 ## S3 E16 — Series 03 Episode 16 – The Excelsior Acquisition
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0316.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0316.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -1049,7 +1049,7 @@ Watch for:
   - Stuart: “Sure. What the hell.”
 
 ## S3 E17 — Series 03 Episode 17 – The Precious Fragmentation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0317.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0317.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1074,7 +1074,7 @@ Watch for:
   - Howard: “So, Sheldon, how’s it feel to get beaten up by a girl?”
 
 ## S3 E18 — Series 03 Episode 18 – The Pants Alternative
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0318.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0318.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1093,7 +1093,7 @@ Watch for:
   - Raj: “I’m not going to punch you.”
 
 ## S3 E19 — Series 03 Episode 19 – The Wheaton Recurrence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0319.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0319.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1108,7 +1108,7 @@ Watch for:
   - Raj: “Ah, beer. The magic elixir that can turn this poor, shy Indian boy into the life of the party. Oh, yeah.”
 
 ## S3 E20 — Series 03 Episode 20 – The Spaghetti Catalyst
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0320.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0320.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1128,7 +1128,7 @@ Watch for:
   - Sheldon: “And now, as promised, the tangent. Sheldon and the Hell Hound, or How I Lost My Hot Dogs.”
 
 ## S3 E21 — Series 03 Episode 21 – The Plimpton Stimulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0321.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0321.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1143,7 +1143,7 @@ Watch for:
   - Raj: “Maybe, but I don’t care. That’s the great thing about Nyquil, it’s like ten-percent booze. I call it the nighttime sniffling, sneezing, coughing, so you can talk to girls medicine.”
 
 ## S3 E22 — Series 03 Episode 22 – The Staircase Implementation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0322.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0322.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -1158,7 +1158,7 @@ Watch for:
   - Large Black Transvestite: Yeah?
 
 ## S3 E23 — Series 03 Episode 23 – The Lunar Excitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0323.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0323.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1185,7 +1185,7 @@ Watch for:
   - Penny: “Look, I’m sorry. I was drunk, I was lonely, I hated Zack. Can we just forget it ever happened?”
 
 ## S4 E1 — Series 04 Episode 01 – The Robotic Manipulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0401.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0401.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1215,7 +1215,7 @@ Watch for:
   - Amy: “This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?”
 
 ## S4 E2 — Series 04 Episode 02 – The Cruciferous Vegetable Amplification
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0402.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0402.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1227,7 +1227,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S4 E3 — Series 04 Episode 03 – The Zazzy Substitution
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0403.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0403.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 4 moment(s)
@@ -1240,7 +1240,7 @@ Watch for:
   - Leonard: “I assume by never again, you mean never again will you drink all of Penny’s beer, then run down to the gas station for a couple of 40s, a box of Slim Jims and the latest issue of Bombay Badonkadonks.”
 
 ## S4 E4 — Series 04 Episode 04 – The Hot Troll Deviation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0404.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0404.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1258,7 +1258,7 @@ Watch for:
   - Katee Sackhoff: “Howard, do you have latent homosexual tendencies?”
 
 ## S4 E5 — Series 04 Episode 05 – The Desperation Emanation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0405.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0405.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1272,7 +1272,7 @@ Watch for:
   - Howard: “Why the hell would you cross Ebola with the common cold?”
 
 ## S4 E6 — Series 04 Episode 06 – The Irish Pub Formulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0406.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0406.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1283,7 +1283,7 @@ Watch for:
   - Sheldon: “Don’t listen to him, he’s still light headed from all the Irish whiskey and pickled eggs in his system.”
 
 ## S4 E7 — Series 04 Episode 07 – The Apology Insufficiency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0407.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0407.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1301,7 +1301,7 @@ Watch for:
   - Sheldon: “To drinking. (Knocks back drink and spits it out again.) Nope. Oh, if only there were some way to force Howard to accept my apology so I could escape this miasma of guilt.”
 
 ## S4 E8 — Series 04 Episode 08 – The 21 Second Excitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0408.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0408.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1312,7 +1312,7 @@ Watch for:
   - Penny: “What the hell was that?”
 
 ## S4 E9 — Series 04 Episode 09 – The Boyfriend Complexity
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0409.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0409.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 11 moment(s)
@@ -1346,7 +1346,7 @@ Watch for:
   - Howard: “Actually, Indian Monopoly’s just like regular, except the money’s in Rupees, instead of hotels you build call centers, and when you pick a chance card, you might die of dysentery. Just FYI, that was racist.”
 
 ## S4 E10 — Series 04 Episode 10 – The Alien Parasite Hypothesis
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0410.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0410.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1361,7 +1361,7 @@ Watch for:
   - Amy: “I was sitting in a restaurant with Penny and Bernadette, drinking water, carbonated as it was a special occasion. Penny’s friend Zack stopped by and said hello and I said hoo.”
 
 ## S4 E11 — Series 04 Episode 11 – The Justice League Recombination
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0411.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0411.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1379,7 +1379,7 @@ Watch for:
   - Zack: “You guys want to come in and have a beer?”
 
 ## S4 E12 — Series 04 Episode 12 – The Bus Pants Utilization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0412.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0412.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1392,7 +1392,7 @@ Watch for:
   - Raj: “Oh. Very clever. But still racist.”
 
 ## S4 E13 — Series 04 Episode 13 – The Love Car Displacement
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0413.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0413.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1416,7 +1416,7 @@ Watch for:
   - Howard: “Please tell me he’s your gay cousin.”
 
 ## S4 E14 — Series 04 Episode 14 – The Thespian Catalyst
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0414.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0414.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1436,7 +1436,7 @@ Watch for:
   - Raj (out of daydream): Dance number aside, I’m so not gay.
 
 ## S4 E15 — Series 04 Episode 15 – The Benefactor Factor
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0415.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0415.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1457,7 +1457,7 @@ Watch for:
   - Penny: “Good morning, slut.”
 
 ## S4 E16 — Series 04 Episode 16 – The Cohabitation Formulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0416.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0416.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -1481,7 +1481,7 @@ Watch for:
   - Bernadette: “It’s cute. You sound a little like a drunken monkey. Ooh-ooh-ooh-ooh!”
 
 ## S4 E17 — Series 04 Episode 17 – The Toast Derivation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0417.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0417.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1508,7 +1508,7 @@ Watch for:
   - Zack: “Great, I’ll make a beer run.”
 
 ## S4 E18 — Series 04 Episode 18 – The Prestidigitation Approximation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0418.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0418.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1528,7 +1528,7 @@ Watch for:
   - Leonard: “Is it racist that I took you to an Indian restaurant?”
 
 ## S4 E19 — Series 04 Episode 19 – The Zarnecki Incursion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0419.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0419.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1551,7 +1551,7 @@ Watch for:
   - Amy: “Believe me, it’s there, we all have it. Hit me with some more booze, and I’ll show you.”
 
 ## S4 E20 — Series 04 Episode 20 – The Herb Garden Germination
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0420.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0420.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1568,7 +1568,7 @@ Watch for:
   - Raj: “I just felt like drinking alone, because I’m deep and dark.”
 
 ## S4 E21 — Series 04 Episode 21 – The Agreement Dissection
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0421.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0421.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -1591,7 +1591,7 @@ Watch for:
   - Sheldon: “Ah, memory impairment, the free prize at the bottom of every vodka bottle.”
 
 ## S4 E22 — Series 04 Episode 22 – The Wildebeest Implementation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0422.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0422.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1613,7 +1613,7 @@ Watch for:
   - Penny: “Okay, Amy, you’re being silly. I am not concerned about who hangs out with who. And I certainly don’t have a problem with Leonard’s new girlfriend who wears way too much makeup. Ooh, these are cute.…”
 
 ## S4 E23 — Series 04 Episode 23 – The Engagement Reaction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0423.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0423.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1633,7 +1633,7 @@ Watch for:
   - Sheldon: “I gargled with tequila and may have swallowed a teeny bit.”
 
 ## S4 E24 — Series 04 Episode 24 – The Roommate Transmogrification
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0424.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0424.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1655,7 +1655,7 @@ Watch for:
   - Sheldon (off): Would you booze hounds please stop that infernal clinking? And the answer was elephant!
 
 ## S5 E1 — Series 05 Episode 01 – The Skank Reflex Analysis
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0501.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0501.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1684,7 +1684,7 @@ Watch for:
   - Amy: “You can’t blame yourself. When your prefrontal cortex fails to make you happy, promiscuity rewards you with the needed flood of dopamine. We neurobiologists refer to this as the skank reflex.”
 
 ## S5 E2 — Series 05 Episode 02 – The Infestation Hypothesis
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0502.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0502.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1704,7 +1704,7 @@ Watch for:
   - Raj: “How can you be so racist?”
 
 ## S5 E3 — Series 05 Episode 03 – The Pulled Groin Extrapolation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0503.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0503.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1720,7 +1720,7 @@ Watch for:
   - Amy: “The inevitable, he was lonely and vulnerable from missing his girlfriend, while I was charming, supportive and, let’s face it, in this dress, the perfect combination of Madonna and whore.”
 
 ## S5 E4 — Series 05 Episode 04 – The Wiggly Finger Catalyst
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0504.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0504.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -1738,7 +1738,7 @@ Watch for:
   - Penny: “What? He paid off her credit cards? Damn it, I could’ve dated Raj for a couple months. But I, I wouldn’t have, because I’m not that kind of girl. We should really talk to Raj.”
 
 ## S5 E5 — Series 05 Episode 05 – The Russian Rocket Reaction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0505.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0505.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1752,7 +1752,7 @@ Watch for:
   - Leonard: “No, it’s okay. I’m gonna stab my friend in the chest.”
 
 ## S5 E6 — Series 05 Episode 06 – The Rhinitis Revelation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0506.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0506.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 6 moment(s)
@@ -1766,7 +1766,7 @@ Watch for:
   - Mrs Cooper: “Oh, I thought the one we couldn’t say was ching chong.”
 
 ## S5 E7 — Series 05 Episode 07 – The Good Guy Fluctuation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0507.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0507.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1799,7 +1799,7 @@ Watch for:
   - Penny: “Okay, good, because there’s this one guy I used to date who’s about to be force-fed wine and cheese if he doesn’t get to the point.”
 
 ## S5 E8 — Series 05 Episode 08 – The Isolation Permutation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0508.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0508.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1821,7 +1821,7 @@ Watch for:
   - Amy: “Well, I came here to get a bottle of wine like Penny taught me to do when you’re sad.”
 
 ## S5 E9 — Series 05 Episode 09 – The Ornithophobia Diffusion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0509.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0509.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -1847,7 +1847,7 @@ Watch for:
   - Sheldon: “Age seven, a blood-thirsty chicken chases me up a tree. Age twelve, a magpie tries to steal the retainer out of my mouth. Age sixteen, a parrot in a pet store called me fat ass. Need I go on?”
 
 ## S5 E10 — Series 05 Episode 10 – The Flaming Spittoon Acquisition
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0510.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0510.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1863,7 +1863,7 @@ Watch for:
   - Bernadette: “Looks like it’s just us playing. (Penny snores) Penny? (Penny snores louder) Penny, we’re out of wine!”
 
 ## S5 E11 — Series 05 Episode 11 – The Speckerman Recurrence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0511.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0511.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1888,7 +1888,7 @@ Watch for:
   - Jimmy: “Yeah, yeah, yeah. I drive better drunk. You know, it makes you pay attention.”
 
 ## S5 E12 — Series 05 Episode 12 – The Shiny Trinket Maneouvre
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0512.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0512.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1902,7 +1902,7 @@ Watch for:
   - Sheldon: “Amy had a fight. I was being perfectly reasonable. I’m gonna have a whiskey. Do you want anything?”
 
 ## S5 E13 — Series 05 Episode 13 – The Recombination Hypothesis
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0513.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0513.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1923,7 +1923,7 @@ Watch for:
   - Penny: “You know what? I just realized I’m on a break. I’ll get someone else.”
 
 ## S5 E14 — Series 05 Episode 14 – The Beta Test Initiation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0514.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0514.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1939,7 +1939,7 @@ Watch for:
   - Raj: “Can I pour you some wine? I think you’ll enjoy it. The traditional choice with Peking duck is a Sauvignon Blanc, but Siri suggested an off-dry Riesling.…”
 
 ## S5 E15 — Series 05 Episode 15 – The Friendship Contraction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0515.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0515.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1959,7 +1959,7 @@ Watch for:
   - Leonard: “To wine and bubble wrap. And to not having to watch Sheldon demonstrate his reverse osmosis machine that converts urine into drinking water.”
 
 ## S5 E16 — Series 05 Episode 16 – The Vacation Solution
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0516.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0516.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1981,7 +1981,7 @@ Watch for:
   - Sheldon: “It’s not. I’ll have you know, in the field of physics, we work with particles so small, they make fat jokes about the locus coeruleus, i.e., when your locus coeruleus sits around the house, it sits around the house.”
 
 ## S5 E17 — Series 05 Episode 17 – The Rothman Disintegration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0517.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0517.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 6 moment(s)
@@ -1999,7 +1999,7 @@ Watch for:
   - Bernadette: “Good night, transvestite Penny.”
 
 ## S5 E18 — Series 05 Episode 18 – The Werewolf Transformation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0518.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0518.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2015,7 +2015,7 @@ Watch for:
   - Penny (entering): What the hell?!
 
 ## S5 E19 — Series 05 Episode 19 – The Weekend Vortex
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0519.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0519.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2033,7 +2033,7 @@ Watch for:
   - Penny: “Wow. Yeah, b-beginner’s luck. So, now I will drink this entire cup of beer, and you will go again and we can… uh… all right. So, yeah, okay, now I’m gonna drink this entire cup and then I’m going to drink another one……”
 
 ## S5 E20 — Series 05 Episode 20 – The Transporter Malfunction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0520.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0520.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2060,7 +2060,7 @@ Watch for:
   - Raj: “Listen, I love your charming racist humour, but any chance you could not knock my religion while she’s here.”
 
 ## S5 E21 — Series 05 Episode 21 – The Hawking Excitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0521.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0521.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2075,7 +2075,7 @@ Watch for:
   - Bernadette: “Oh, damn. I’m sorry, I can’t make it, but Sheldon’s going to go with you! And that’s the last thing you do to him.”
 
 ## S5 E22 — Series 05 Episode 22 – The Stag Convergence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0522.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0522.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -2104,7 +2104,7 @@ Watch for:
   - Howard: “How about you? Did you have a fun night? Yeah, we, uh, made gift bags, had wine, and then went online and saw this.”
 
 ## S5 E23 — Series 05 Episode 23 – The Launch Acceleration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0523.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0523.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2127,7 +2127,7 @@ Watch for:
   - Mr. Rostenkowski: “Nah, his wife shot him. But she was nuts, so in a way.”
 
 ## S5 E24 — Series 05 Episode 24 – The Countdown Reflection
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0524.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0524.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2142,7 +2142,7 @@ Watch for:
   - Cosmonaut: “Go with gay story, people are more accepting of that.”
 
 ## S6 E1 — Series 06 Episode 01 – The Date Night Variable
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0601.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0601.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2163,7 +2163,7 @@ Watch for:
   - Raj: “She’s kind of a mean drunk, but what are you gonna do?”
 
 ## S6 E2 — Series 06 Episode 02 – The Decoupling Fluctuation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0602.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0602.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2173,7 +2173,7 @@ Watch for:
   - Penny: “What the hell is wrong with you? You told Sheldon? Do you know what a terrible position this puts me in? (Phone beeps)”
 
 ## S6 E3 — Series 06 Episode 03 – The Higgs Boson Observation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0603.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0603.html
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2188,7 +2188,7 @@ Watch for:
   - Amy (to Penny, on other side of room): You were right. I had nothing to worry about. That skank’s your problem, not mine.
 
 ## S6 E4 — Series 06 Episode 04 – The Re-Entry Minimization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0604.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0604.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2203,7 +2203,7 @@ Watch for:
   - Penny: “Okay. Just for the record, I have never entered a wet T-shirt contest. I’ve won a few, but that’s just because I spill when I’m drunk, so…”
 
 ## S6 E5 — Series 06 Episode 05 – The Holographic Excitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0605.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0605.html
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2219,7 +2219,7 @@ Watch for:
   - Howard: “But you know what wasn’t a party? That hotel in Kazakhstan they put you up in before the launch. I mean, it’s your last night on Earth. You’d think you’d get one porn channel.”
 
 ## S6 E6 — Series 06 Episode 06 – The Extract Obliteration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0606.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0606.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2242,7 +2242,7 @@ Watch for:
   - Raj: “Dude, my accent is brilliant. (In American accent) Hey, my snow-white American friends, let’s put some cow meat on the barbecue and eat it until we’re all obese.”
 
 ## S6 E7 — Series 06 Episode 07 – The Habitation Configuration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0607.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0607.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2256,7 +2256,7 @@ Watch for:
   - Wil: “Have you been drinking?”
 
 ## S6 E8 — Series 06 Episode 08 – The 43 Peculiarity
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0608.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0608.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 4 moment(s)
@@ -2269,7 +2269,7 @@ Watch for:
   - Leonard: “Right, the case of who murdered three Saturday nights of my life?”
 
 ## S6 E9 — Series 06 Episode 09 – The Parking Spot Escalation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0609.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0609.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2298,7 +2298,7 @@ Watch for:
   - Sheldon: “A naked man sat on it. Now, here’s my concern, his diet is rich in fatty deli meats. What test do you have to detect lipid residue?”
 
 ## S6 E10 — Series 06 Episode 10 – The Fish Guts Displacement
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0610.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0610.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2310,7 +2310,7 @@ Watch for:
   - Sheldon: “Oh, that seems overly harsh. I mean, you gave in to a human weakness, you didn’t kill a man. You know, it’s a tad old-school, but my father was not one to spare the rod when my brother would sneak into his truck and…”
 
 ## S6 E11 — Series 06 Episode 11 – The Santa Simulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0611.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0611.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2335,7 +2335,7 @@ Watch for:
   - Leonard: “What are you drinking there? A little eggnog?”
 
 ## S6 E12 — Series 06 Episode 12 – The Egg Salad Equivalency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0612.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0612.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2361,7 +2361,7 @@ Watch for:
   - Sheldon: “Yes. No, yeah, but in his defense, that wasn’t racist. He’s also brown.”
 
 ## S6 E13 — Series 06 Episode 13 – The Bakersfield Expedition
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0613.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0613.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2374,7 +2374,7 @@ Watch for:
   - Penny: “Oh, this is the best. You have booze with breakfast on a Tuesday, you got a problem. You do it on the weekend, you got brunch.”
 
 ## S6 E14 — Series 06 Episode 14 – The Cooper/Kripke Inversion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0614.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0614.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2390,7 +2390,7 @@ Watch for:
   - Howard: “I can’t believe I wasted all that money.”
 
 ## S6 E15 — Series 06 Episode 15 – The Spoiler Alert Segmentation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0615.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0615.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2408,7 +2408,7 @@ Watch for:
   - Penny: “Come on, Amy, let’s go drink wine and talk about what jerks our boyfriends are.”
 
 ## S6 E16 — Series 06 Episode 16 – The Tangible Affection Proof
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0616.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0616.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2430,7 +2430,7 @@ Watch for:
   - Penny: “Okay. You know what? This might be the wine talking, but I have a very important question to ask you.”
 
 ## S6 E17 — Series 06 Episode 17 – The Monster Isolation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0617.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0617.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2443,7 +2443,7 @@ Watch for:
   - Sheldon: “Hello, I’m Dr. Sheldon Cooper. Welcome to Sheldon Cooper Presents Fun with Flags. My apologies that this episode is coming late. I did shoot one last week, in honour of Black History Month, but I was informed by my…”
 
 ## S6 E18 — Series 06 Episode 18 – The Contractual Obligation Implementation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0618.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0618.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2466,7 +2466,7 @@ Watch for:
   - Penny: “You’re kidding, right? We’re not just gonna get drunk and go on rides?”
 
 ## S6 E19 — Series 06 Episode 19 – The Closet Reconfiguration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0619.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0619.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2479,7 +2479,7 @@ Watch for:
   - Penny: “Damn, I forgot to feed him. And that I had him.”
 
 ## S6 E20 — Series 06 Episode 20 – The Tenure Turbulence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0620.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0620.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2496,7 +2496,7 @@ Watch for:
   - Bernadette: “I think that’s enough wine for now.”
 
 ## S6 E21 — Series 06 Episode 21 – The Closure Alternative
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0621.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0621.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2507,7 +2507,7 @@ Watch for:
   - Penny: “Yeah, it was fun. Kind of reminded me of my high school. But instead of vampires, we had meth heads. But both came out at night and had messed up teeth.”
 
 ## S6 E22 — Series 06 Episode 22 – The Proton Resurgence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0622.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0622.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -2515,7 +2515,7 @@ Watch for:
   - Arthur: “Sure, what the hell.”
 
 ## S6 E23 — Series 06 Episode 23 – The Love Spell Potential
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0623.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0623.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2538,7 +2538,7 @@ Watch for:
   - Penny: “Fifteen’s the point, the point is fifteen. Give the little lady some room, here it is, coming out. Sixteen! Yes! Oh, please tell me we’re playing for money.”
 
 ## S6 E24 — Series 06 Episode 24 – The Bon Voyage Reaction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0624.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0624.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -2551,7 +2551,7 @@ Watch for:
   - Penny: “That’s great. Do you want some wine?”
 
 ## S7 E1 — Series 07 Episode 01 – The Hofstadter Insufficiency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0701.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0701.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2565,7 +2565,7 @@ Watch for:
   - Sheldon: “Well, perhaps you’re obsessively picturing him engaged in drunken coitus with another woman. Is that it? Did I get it right?”
 
 ## S7 E2 — Series 07 Episode 02 – The Deception Verification
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0702.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0702.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2597,7 +2597,7 @@ Watch for:
   - Howard: “You’re kidding, right? I mean, you know I’m trying to lose weight. God, I thought we were partners in this marriage.”
 
 ## S7 E3 — Series 07 Episode 03 – The Scavenger Vortex
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0703.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0703.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 3 moment(s)
@@ -2614,7 +2614,7 @@ Watch for:
   - Penny: “Wow. I can drink a beer underwater.”
 
 ## S7 E4 — Series 07 Episode 04 – The Raiders Minimization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0704.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0704.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2633,7 +2633,7 @@ Watch for:
   - Raj: “Come on. One more time. Yeah, it’s, it’s a little blurry, but I think that works in your favour. Do you want a beer?”
 
 ## S7 E5 — Series 08 Episode 05 – The Focus Attenuation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0705.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0705.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2655,7 +2655,7 @@ Watch for:
   - Leonard: “It’s late. We’ve wasted hours. Can we please find it in ourselves to do any amount of work tonight?”
 
 ## S7 E5 — Series 07 Episode 05 – The Workplace Proximity
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0705.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0705.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -2663,7 +2663,7 @@ Watch for:
   - Amy: “Yes. Before all things, I’m a scientist. I’m just there to do my work and, with a little luck, scare the living crap out of some monkeys.”
 
 ## S7 E6 — Series 07 Episode 06 – The Romance Resonance
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0706.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0706.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -2685,7 +2685,7 @@ Watch for:
   - Howard: “If I didn’t have you life would be dreary, I’d be string theory without any string. I’d be binary code without a one, a cathode ray tube without an electron gun. I’d be Firefly, Buffy and Avengers without Joss Whedon.…”
 
 ## S7 E7 — Series 07 Episode 07 – The Proton Displacement
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0707.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0707.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2696,7 +2696,7 @@ Watch for:
   - Raj: “My name is Howard. I can make your hair into diamonds. My mom is morbidly obese. Everybody love me.”
 
 ## S7 E8 — Series 07 Episode 08 – The Itchy Brain Simulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0708.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0708.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2710,7 +2710,7 @@ Watch for:
   - Penny: “I’m not gonna say anything. I just want to check her out. Because she hurt my friend. My Indian friend. Who’s racist now?”
 
 ## S7 E9 — Series 07 Episode 09 – The Thanksgiving Decoupling
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0709.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0709.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2738,7 +2738,7 @@ Watch for:
   - Howard: “You know, my mom’s been to Arizona. She rode one of those mules down in the Grand Canyon. Long story short, they had to shoot it. ‘Cause she’s so fat. I’ll get the door while you finish laughing. Hey, guys.”
 
 ## S7 E10 — Series 07 Episode 10 – The Discovery Dissipation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0710.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0710.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2751,7 +2751,7 @@ Watch for:
   - Amy: “I’ll get the vodka.”
 
 ## S7 E11 — Series 07 Episode 11 – The Cooper Extraction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0711.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0711.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2766,7 +2766,7 @@ Watch for:
   - Raj: “My father’s a gynaecologist, I think I can handle it. And, now, I’m gay.”
 
 ## S7 E12 — Series 07 Episode 12 – The Hesitation Ramification
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0712.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0712.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2780,7 +2780,7 @@ Watch for:
   - Sheldon: “Wait, if Howard’s mother is coming, then you should also steal marbles. Because she’s obese, and hippos are obese, and in the popular board game Hungry Hungry Hippos, they eat marbles.…”
 
 ## S7 E13 — Series 07 Episode 13 – The Occupation Recalibration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0713.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0713.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -2793,7 +2793,7 @@ Watch for:
   - Howard: “Of course we tell him she’s a lesbian.”
 
 ## S7 E14 — Series 07 Episode 14 – The Convention Conundrum
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0714.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0714.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2815,7 +2815,7 @@ Watch for:
   - Amy: “Aw. Drinking in the afternoon, just like her mommy.”
 
 ## S7 E15 — Series 07 Episode 15 – The Locomotive Manipulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0715.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0715.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2835,7 +2835,7 @@ Watch for:
   - Sheldon: “Well, if you want romance, then let’s have romance. Oh, look, there’s wine. Mmm. Grape juice that burns. Uh, now let’s gaze into each other’s eyes, hmm? You blinked. I win.”
 
 ## S7 E16 — Series 07 Episode 16 – The Table Polarisation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0716.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0716.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2848,7 +2848,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S7 E17 — Series 07 Episode 17 – The Friendship Turbulence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0717.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0717.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -2870,7 +2870,7 @@ Watch for:
   - Howard: “Oh, he’s not coming out until he sees proof you don’t have an air freshener in your car.”
 
 ## S7 E18 — Series 07 Episode 18 – The Mommy Observation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0718.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0718.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2903,7 +2903,7 @@ Watch for:
   - Penny: “Well, my beer isn’t flat and my rack’s not saggy. So far, the future’s great.”
 
 ## S7 E19 — Series 07 Episode 19 – The Indecision Amalgamation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0719.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0719.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2914,7 +2914,7 @@ Watch for:
   - Bernadette: “Okay, well, I did something that will either make me look like a lovable goof or a horrible monster damned to spend eternity in hell.”
 
 ## S7 E20 — Series 07 Episode 20 – The Relationship Diremption
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0720.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0720.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2927,7 +2927,7 @@ Watch for:
   - Sheldon: “Oh, please. If I wanted to take up a fad, I’d get a tramp stamp.”
 
 ## S7 E21 — Series 07 Episode 21 – The Anything Can Happen Recurrence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0721.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0721.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2941,7 +2941,7 @@ Watch for:
   - Raj: “Hey. Listen to this. Murder, cannibalism and satanic rituals are just a few of the thousand plus horrors that await.”
 
 ## S7 E22 — Series 07 Episode 22 – The Proton Transmogrification
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0722.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0722.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2954,7 +2954,7 @@ Watch for:
   - Amy: “My mom made it up as an alternative to the Girl Scouts. She didn’t want me selling cookies on some street corner like a whore.”
 
 ## S7 E23 — Series 07 Episode 23 – The Gorilla Dissolution
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0723.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0723.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2974,7 +2974,7 @@ Watch for:
   - Leonard: “I don’t know. The bisexual gorilla go-go dancer in Schindler’s List is tough to beat.”
 
 ## S7 E24 — Series 07 Episode 24 – The Status Quo Combustion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0724.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0724.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2989,7 +2989,7 @@ Watch for:
   - Penny: “You want some wine?”
 
 ## S8 E1 — Series 08 Episode 01 – The Locomotion Interruption
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0801.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0801.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3001,7 +3001,7 @@ Watch for:
   - Sheldon: “You know, Sherlock Holmes liked to use cocaine to sharpen his focus. But I’m sure those Cool Ranch Doritos are doing the trick.”
 
 ## S8 E2 — Series 08 Episode 02 – The Junior Professor Solution
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0802.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0802.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3012,7 +3012,7 @@ Watch for:
   - Amy: “I’m saying, in the spirit of science, what is that little skank’s problem?”
 
 ## S8 E3 — Series 08 Episode 03 – The First Pitch Insufficiency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0803.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0803.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3025,7 +3025,7 @@ Watch for:
   - Sheldon: “If you’ve got a problem basing a relationship on a contract, I’d like to tell you about 13 plucky colonies that entered a relationship agreement called the U.S. Constitution.…”
 
 ## S8 E4 — Series 08 Episode 04 – The Hook-Up Reverbration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0804.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0804.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3043,7 +3043,7 @@ Watch for:
   - Amy: “What if you just hang around and act like her friend until you wear her down? I mean, next thing you know, you’re in her home, you’re eating her food, drinking her wine.”
 
 ## S8 E6 — Series 08 Episode 06 – The Expedition Approximation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0806.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0806.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3056,7 +3056,7 @@ Watch for:
   - Howard: “Talk about wasted money. What about the late fees on our credit card because somebody didn’t pay the bill on time?”
 
 ## S8 E7 — Series 08 Episode 07 – The Misinterpretation Agitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0807.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0807.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3071,7 +3071,7 @@ Watch for:
   - Howard: “Oh, I think I just cheated on my wife.”
 
 ## S8 E8 — Series 08 Episode 08 – The Prom Equivalency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0808.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0808.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3092,7 +3092,7 @@ Watch for:
   - Howard: “Oh, so now you’re cheating on my mother?”
 
 ## S8 E9 — Series 08 Episode 09 – The Septum Deviation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0809.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0809.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 2 moment(s)
@@ -3102,7 +3102,7 @@ Watch for:
   - Sheldon: “Oh, you’re hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose. The minute you sneeze web, I’m moving out.”
 
 ## S8 E10 — Series 08 Episode 10 – The Champagne Reflection
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0810.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0810.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3120,7 +3120,7 @@ Watch for:
   - Sheldon: “You heard him, Leonard. No, it’s not racist.”
 
 ## S8 E11 — Series 08 Episode 11 – The Clean Room Infiltration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0811.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0811.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3137,7 +3137,7 @@ Watch for:
   - Sheldon: “Because in the last ten minutes, Santa came to town, kissed Mommy and ran Grandma over with a reindeer. I had a drunk uncle who did all those things. Nobody sings songs about him.”
 
 ## S8 E12 — Series 08 Episode 12 – The Space Probe Disintegration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0812.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0812.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3150,7 +3150,7 @@ Watch for:
   - Leonard: “I wasn’t gonna get beat up.”
 
 ## S8 E13 — Series 08 Episode 13 – The Anxiety Optimisation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0813.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0813.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3161,7 +3161,7 @@ Watch for:
   - Sheldon: “You sounded in distress. I was worried something unpleasant was happening to you. Like a murder. Or spontaneous coitus with Leonard.”
 
 ## S8 E14 — Series 08 Episode 14 – The Troll Manifestation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0814.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0814.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3174,7 +3174,7 @@ Watch for:
   - Sheldon: “We could, but we always run the risk of someone else beating us to the punch.”
 
 ## S8 E15 — Series 08 Episode 15 – The Comic Book Store Regeneration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0815.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0815.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3185,7 +3185,7 @@ Watch for:
   - Sheldon: “Uh, Barry, uh, how many Edisons does it take to screw in a light bulb?”
 
 ## S8 E16 — Series 08 Episode 16 – The Intimacy Acceleration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0816.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0816.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3195,7 +3195,7 @@ Watch for:
   - Penny: “Well, not to steal from the Bible, but turning water into wine sounds pretty good.”
 
 ## S8 E17 — Series 08 Episode 17 – The Colonization Application
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0817.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0817.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -3209,7 +3209,7 @@ Watch for:
   - Howard: “Does she have any pillows or wine glasses?”
 
 ## S8 E18 — Series 08 Episode 18 – The Leftover Thermalization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0818.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0818.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3218,7 +3218,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S8 E19 — Series 08 Episode 19 – The Skywalker Incursion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0819.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0819.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3235,7 +3235,7 @@ Watch for:
   - Penny: “Oh, I meant beer pong.”
 
 ## S8 E20 — Series 08 Episode 20 – The Fortification Implementation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0820.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0820.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3245,7 +3245,7 @@ Watch for:
   - Howard: “Yeah, I bet you anything it’s just ’cause you’re a pain in the ass.”
 
 ## S8 E21 — Series 08 Episode 21 – The Communication Deterioration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0821.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0821.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3257,7 +3257,7 @@ Watch for:
   - Bernadette: “Don’t take this the wrong way, but how many of these little booze balls have you had?”
 
 ## S8 E22 — Series 08 Episode 22 – The Graduation Transmission
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0822.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0822.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3270,7 +3270,7 @@ Watch for:
   - Penny: “Uh, yeah, I just need to throw in a few last minute things, you know, makeup, underwear, clothes.”
 
 ## S8 E23 — Series 08 Episode 23 – The Maternal Combustion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0823.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0823.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3282,7 +3282,7 @@ Watch for:
   - Mrs Cooper: “Doesn’t matter, a good Christian would’ve turned the other cheek. On the other hand, a good Texan would’ve shot her, so, I just kind of split the difference. Hey, who’s in the mood for spaghetti and hot dogs?”
 
 ## S8 E24 — Series 08 Episode 24 – The Commitment Determination
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0824.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0824.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -3296,7 +3296,7 @@ Watch for:
   - Leonard: “Okay, well, there, there was a lot of drinking and craziness going on.”
 
 ## S9 E1 — Series 09 Episode 01 – The Matrimonial Momentum
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0901.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0901.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3320,7 +3320,7 @@ Watch for:
   - Mrs Cooper: “Well, honey, don’t send it back yet. Your sister’s married, and I’m not letting your brother give my grandmother’s ring to that whore he’s dating.”
 
 ## S9 E2 — Series 09 Episode 02 – The Separation Oscillation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0902.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0902.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3340,7 +3340,7 @@ Watch for:
   - Leonard: “You know, what we did, when we were drunk.”
 
 ## S9 E3 — Series 09 Episode 03 – The Batchelor Party Corrosion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0903.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0903.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3357,14 +3357,14 @@ Watch for:
   - Amy: “I’m feeling a little dizzy from all the blood loss. I don’t know what you’re talking about.”
 
 ## S9 E4 — Series 09 Episode 04 – The 2003 Approximation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0904.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0904.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Howard: “Oh, please. Your brain belongs to whoever’s willing to sleep with you.”
 
 ## S9 E5 — Series 09 Episode 05 – The Perspiration Implementation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0905.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0905.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -3382,7 +3382,7 @@ Watch for:
   - Raj: “How many sips of that beer did he have?”
 
 ## S9 E6 — Series 09 Episode 06 – The Helium Insufficiency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0906.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0906.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3395,14 +3395,14 @@ Watch for:
   - Leonard: “Listen, we can do the experiment as planned and beat the Swedish team to the punch, or we can kiss our dreams good-bye because we were to afraid to break a few rules.”
 
 ## S9 E7 — Series 09 Episode 07 – The Spock Resonance
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0907.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0907.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Bernadette: “Oh, please. Mom did everything. All you did was come home from work, sit on the couch and drink beer. How is that raising kids?”
 
 ## S9 E8 — Series 09 Episode 08 – The Mystery Date Observation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0908.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0908.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3416,7 +3416,7 @@ Watch for:
   - Sheldon: “Off the top of my head? Uh, prospective women weed themselves out in a battle of wits until only one champion remains, and she shows up at my door flush with the thrill of victory, and then sits quietly by my side…”
 
 ## S9 E9 — Series 09 Episode 09 – The Platonic Permutation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0909.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0909.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3431,7 +3431,7 @@ Watch for:
   - Bernadette: “That he’s an ass? He beat you to it.”
 
 ## S9 E10 — Series 09 Episode 10 – The Earworm Reverberation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0910.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0910.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3448,7 +3448,7 @@ Watch for:
   - Sheldon: “Oh, no, he’s drinking it.”
 
 ## S9 E11 — Series 09 Episode 11 – The Opening Night Excitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0911.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0911.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3461,7 +3461,7 @@ Watch for:
   - Wil: “See? That’s what I mean. When you wake up in the morning, whether this is the greatest movie ever or a total piece of crap, your life isn’t gonna change at all.”
 
 ## S9 E12 — Series 09 Episode 12 – The Sales Call Sublimation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0912.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0912.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3470,7 +3470,7 @@ Watch for:
   - Howard: “I know. It’s not like he returns the favour when he watches his Japanese porn cartoons.”
 
 ## S9 E13 — Series 09 Episode 13 – The Empathy Optimisation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0913.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0913.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Porn / strippers — 2 moment(s)
@@ -3486,7 +3486,7 @@ Watch for:
   - Penny: “Here’s some champagne.”
 
 ## S9 E14 — Series 09 Episode 14 – The Meemaw Materialisation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0914.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0914.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3502,7 +3502,7 @@ Watch for:
   - Meemaw: “Oh, no wine for me. Sheldon’s bringing me my whiskey.”
 
 ## S9 E15 — Series 09 Episode 15 – The Valentino Submergence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0915.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0915.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3521,7 +3521,7 @@ Watch for:
   - Sheldon: “Speaking of ending relationships, when British Honduras became Belize, they designed a new flag with a tree on it, and I would like to hang myself from that tree.”
 
 ## S9 E16 — Series 09 Episode 16 – The Positive Negative Reaction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0916.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0916.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3546,12 +3546,12 @@ Watch for:
   - Amy: “He used a period instead of a question mark. He’s so wasted.”
 
 ## S9 E17 — Series 09 Episode 17 – The Celebration Experimentation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0917.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0917.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E18 — Series 09 Episode 18 – The Application Deterioration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0918.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0918.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3564,7 +3564,7 @@ Watch for:
   - Howard: “Is the foetus helping you? ‘Cause that’s cheating.”
 
 ## S9 E19 — Series 09 Episode 19 – The Solder Excursion Diversion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0919.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0919.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3581,7 +3581,7 @@ Watch for:
   - Howard: “Remember when her fun was nightclubs and drinking games?”
 
 ## S9 E20 — Series 09 Episode 20 – The Big Bear Precipitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0920.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0920.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3593,7 +3593,7 @@ Watch for:
   - Sheldon: “Oh, never have I ever drunk milk past its expiration date.”
 
 ## S9 E21 — Series 09 Episode 21 – The Viewing Party Combustion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0921.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0921.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3612,7 +3612,7 @@ Watch for:
   - Penny: “Okay, well, that was murder, this was an accident.”
 
 ## S9 E22 — Series 09 Episode 22 – The Fermentation Bifurcation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0922.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0922.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3638,7 +3638,7 @@ Watch for:
   - Leonard: “Ugh. Too much wine.”
 
 ## S9 E23 — Series 09 Episode 23 – The Line Substitution Solution
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0923.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0923.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3647,7 +3647,7 @@ Watch for:
   - Howard: “I can’t believe we’re gonna get beat up, and it’s not because of your chair.”
 
 ## S9 E24 — Series 09 Episode 24 – The Convergence Convergence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/0924.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0924.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3660,7 +3660,7 @@ Watch for:
   - Beverly: “You do understand our marriage ended because he had an affair.”
 
 ## S10 E1 — Series 10 Episode 01 – The Conjugal Conjecture
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1001.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1001.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 2 moment(s)
@@ -3668,7 +3668,7 @@ Watch for:
   - Wyatt: “Well, I could use another beer.”
 
 ## S10 E2 — Series 10 Episode 02 – The Military Miniturization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1002.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1002.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3681,7 +3681,7 @@ Watch for:
   - Bernadette: “Hey, I learned a long time ago, when you’re four feet eleven and eye level with every guy’s crotch, that’s where you punch.”
 
 ## S10 E3 — Series 10 Episode 03 -The Dependence Transcendence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1003.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1003.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3695,7 +3695,7 @@ Watch for:
   - Raj: “Oh, come on, we could share a pretzel and get sideways glances from racist old ladies.”
 
 ## S10 E4 — Series 10 Episode 04 – The Cohabitation Experimentation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1004.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1004.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -3718,7 +3718,7 @@ Watch for:
   - Penny: Damn.
 
 ## S10 E5 — Series 10 Episode 05 – The Hot Tub Contamination
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1005.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1005.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3732,7 +3732,7 @@ Watch for:
   - Howard: “He’s in our hot tub drinking our wine.”
 
 ## S10 E6 — Series 10 Episode 06 – The Foetal Kick Catalyst
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1006.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1006.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3746,7 +3746,7 @@ Watch for:
   - Sheldon: “All right, fine. Let’s say that we were to entertain people. What type of gathering did you have in mind? Huh? A meal? Lunch? Brunch? Dinner? Afternoon tea? A formal tea? Hmm? Is it a party?…”
 
 ## S10 E7 — Series 10 Episode 07 – The Veracity Elasticity
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1007.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1007.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3757,7 +3757,7 @@ Watch for:
   - Sheldon: “Qu’vatlh (Damn it.)”
 
 ## S10 E8 — Series 10 Episode 08 – The Brain Bowl Incubation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1008.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1008.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3766,7 +3766,7 @@ Watch for:
   - Howard: “Huh, they screwed up and gave us steamed broccoli.”
 
 ## S10 E9 — Series 10 Episode 09 – The Geology Elevation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1009.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1009.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3778,7 +3778,7 @@ Watch for:
   - Sheldon: “I didn’t punch him. He turned around, and I gave him a Captain Kirk karate chop. I’m not even sure he knows I did it.”
 
 ## S10 E10 — Series 10 Episode 10 – The Property Division Collision
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1010.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1010.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3789,7 +3789,7 @@ Watch for:
   - Stuart: “You mean the one with the empty beer bottles in the sandbox? We’ll pass, thank you.”
 
 ## S10 E11 — Series 10 Episode 11 – The Birthday Synchronicity
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1011.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1011.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -3804,7 +3804,7 @@ Watch for:
   - Leonard: “Damn, I need my inhaler.”
 
 ## S10 E12 — Series 10 Episode 12 – The Holiday Summation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1012.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1012.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3815,7 +3815,7 @@ Watch for:
   - Sheldon: “What? Wh, where’s the judgment? Wh, where’s the fire and brimstone? Where’s the part where you tell us we’re going to Hell and I say have you seen the size of the bugs outside? We’re already there.”
 
 ## S10 E13 — Series 10 Episode 13 – The Romance Recalibration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1013.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1013.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3833,7 +3833,7 @@ Watch for:
   - Sheldon: “Very well. Hey, later we’ll check out the minibar, I’ll show you how Godzilla gets drunk.”
 
 ## S10 E14 — Series 10 Episode 14 – The Emotion Detection Automation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1014.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1014.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3847,7 +3847,7 @@ Watch for:
   - Raj: “But theoretically, if you and I were in a gay relationship, how would we tell people? Like, print up announcements?”
 
 ## S10 E15 — Series 10 Episode 15 – The Locomotion Reverberation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1015.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1015.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3859,7 +3859,7 @@ Watch for:
   - Bernadette: “I’m not sad. I just wanted to get drunk and not wear sweatpants.”
 
 ## S10 E16 — Series 10 Episode 16 – The Allowance Evaporation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1016.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1016.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3869,7 +3869,7 @@ Watch for:
   - Howard: “What, what are you doing? I, I, I schlepped the baby over, I brought imported beer. Why don’t you like me?”
 
 ## S10 E17 — Series 10 Episode 17 – The Comic-Con Conundrum
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1017.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1017.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3884,14 +3884,14 @@ Watch for:
   - Bernadette: “Oh, dear God, you’re cheating on me with Raj.”
 
 ## S10 E18 — Series 10 Episode 18 – The Escape Hatch Identification
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1018.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1018.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Howard: “He also never had sex in that room. That’s something else to look forward to.”
 
 ## S10 E19 — Series 10 Episode 19 – The Collaboration Fluctuation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1019.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1019.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -3906,7 +3906,7 @@ Watch for:
   - Sheldon: “It could be the most inspired combination since I mixed red Icee into my blue Icee. It was like drinking two sevenths of the rainbow.”
 
 ## S10 E20 — Series 10 Episode 20 – The Recollection Dissipation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1020.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1020.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3920,14 +3920,14 @@ Watch for:
   - Stuart: “Why don’t you think she’s fine? She sounds fine, she looks fine. If I saw her on the street I’d say, damn, that girl’s fine.”
 
 ## S10 E21 — Series 10 Episode 21 – The Separation Agitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1021.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1021.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Bert: “She was also interested in walking around my house in her underwear. Now the only one doing that is me.”
 
 ## S10 E22 — Series 10 Episode 22 – The Cognition Regeneration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1022.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1022.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3946,7 +3946,7 @@ Watch for:
   - Leonard: “Yeah. Although, when he was trying to figure out the tip, I’m pretty sure I saw smoke coming out of his ears. You’re not really considering working for him, are you?”
 
 ## S10 E23 — Series 10 Episode 23 – The Gyroscopic Collapse
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1023.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1023.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3959,7 +3959,7 @@ Watch for:
   - Howard: “No. Then you’ll get all sexed up and I’m not in the mood. I mean, an entire year wasted.”
 
 ## S10 E24 — Series 10 Episode 24 – The Long Distance Dissonance
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1024.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1024.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -3969,7 +3969,7 @@ Watch for:
   - Sheldon: “Yeah. Raj made the funniest joke, he said, which is the best ladder to use to hang myself?”
 
 ## S11 E1 — 1. The Proposal Proposal
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1101.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1101.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3980,7 +3980,7 @@ Watch for:
   - 1 Previously on The Big Bang Theory I was offered a summer research fellowship at Princeton. A fine institution. The place where Albert Einstein taught, and where Leonard got his PhD, so it may have gone downhill.…
 
 ## S11 E2 — 2. The Retraction Reaction
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1102.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1102.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3991,7 +3991,7 @@ Watch for:
   - 1 Uh, One dumpling left. Who wants it? Maybe you should offer it to the pregnant lady. And that would be Me, Sheldon. I'm obviously pregnant. Well, you never said it to my face.…
 
 ## S11 E3 — 3. The Relaxation Integration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1103.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1103.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4002,7 +4002,7 @@ Watch for:
   - 1 Hmm. Some news of our wedding. I have sent you all a "save the date" e-mail. Oh, exciting. You guys picked a date? Better. I picked 80 dates. And I need you to save them all until we narrow it down.…
 
 ## S11 E4 — 4. The Explosion Implosion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1104.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1104.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4013,7 +4013,7 @@ Watch for:
   - 1 It feels like it wasn't that long ago we were here doing this for Halley. 'Cause it wasn't. Which reminds me, before we leave, let's get you a vasectomy. Oh, that's sweet, but today is all about you.…
 
 ## S11 E5 — 5. The Collaboration Contamination
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1105.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1105.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4022,14 +4022,14 @@ Watch for:
   - 1 Thanks for letting me put Halley in your room. Yeah, no problem. Oh, and, Penny, she kinda threw up on your stuffed bear. Oh, that's okay. Hey. Tha-That's an Ewok and it's mine. Yeah, which is why it's okay.…
 
 ## S11 E6 — 6. The Proton Regeneration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1106.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1106.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - 1 Howie, slow down. I can't. I'm not allowed to eat for 12 hours before my surgery, and I only got two more minutes. What surgery are you having? I'm stress eating. My best friend's getting a vasectomy tomorrow.…
 
 ## S11 E7 — 7. The Geology Methodology
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1107.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1107.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4040,7 +4040,7 @@ Watch for:
   - 1 Hey, uh, who's free tonight? - Oh, I think I'm - Hang on. We've made this mistake before. It's how we wound up at his cousin Deepak's Tupperware party.…
 
 ## S11 E8 — 8. The Tesla Recoil
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1108.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1108.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4049,7 +4049,7 @@ Watch for:
   - 1 Can we start the movie? Before Sheldon gets here? Last time we did that, he didn't talk to us for a month. So do it! Hold on. Where is he?…
 
 ## S11 E9 — 9. The Bitcoin Entanglement
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1109.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1109.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Porn / strippers — 1 moment(s)
@@ -4062,7 +4062,7 @@ Watch for:
   - 1 Why are they making four more Avatar movies? It's not like the first one is even that good. What are you talking about? You love that movie. You even went as Avatar for Halloween. I remember.…
 
 ## S11 E10 — 10. The Confidence Erosion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1110.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1110.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4075,14 +4075,14 @@ Watch for:
   - 1 This was a good idea. It's been a long time since we've had girls' night. Yeah, it's so nice to have a relaxing evening at home doing nothing.…
 
 ## S11 E11 — 11. The Celebration Reverberation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1111.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1111.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - 1 Previously on The Big Bang Theory Want to grab some lunch? You know what? I don't think so. Oh, let me guess, you're not eating because the mean girls circled your chubby bits in marker? No. That, that right there.…
 
 ## S11 E12 — 12. The Matrimonial Metric
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1112.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1112.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4093,7 +4093,7 @@ Watch for:
   - 1 Hey, can you do me a favor? Can we try to avoid talking to our friends tonight about our wedding plans? I'll do you one better. I'll avoid talking to our friends entirely and play on my phone.…
 
 ## S11 E13 — 13. The Solo Oscillation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1113.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1113.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4102,7 +4102,7 @@ Watch for:
   - 1 Hey! Look what I got everybody. Newspapers? Did you find a portal back to the 1990s? No. If he had that, he'd be trying to prevent NSYNC from breaking up. Oh, please. I'm glad they broke up.…
 
 ## S11 E14 — 14. The Separation Triangulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1114.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1114.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4113,7 +4113,7 @@ Watch for:
   - 1 Space is the mirror of the soul. Are we looking beyond, or are we looking within? I'm looking at my shoes. This is making me a little motion sick.…
 
 ## S11 E15 — 15. The Novelization Correlation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1115.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1115.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4122,7 +4122,7 @@ Watch for:
   - 1 Previously on The Big Bang Theory So, Leonard, tell everyone your news. Oh, uh, I am starting a book. That would be big news from Penny, but you've read a book before. He means he's writing a book. I do.…
 
 ## S11 E16 — 16. The Neonatal Nomenclature
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1116.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1116.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4135,7 +4135,7 @@ Watch for:
   - 1 Howie? Howie, wake up. It's time. Oh. Did your water break? No. Are you feeling any contractions? No. Wait. Well, where are you going? To the hospital. Today's my due date, and this crap needs to end now.…
 
 ## S11 E17 — 17. The Athenaeum Allocation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1117.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1117.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4146,7 +4146,7 @@ Watch for:
   - 1 Oh, my God, I can't believe how big Halley's getting. Yeah-- where's Howard? He's changing Michael. A-All done. You know, fun fact, did you know baby boys can pee straight up? Grown-up boys, too.…
 
 ## S11 E18 — 18. The Gates Excitation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1118.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1118.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4157,7 +4157,7 @@ Watch for:
   - 1 But why do they still call Batman using the Bat-Signal? Wouldn't it just be, like, easier to text him? The Bat-Signal isn't just to alert Batman, it's also to strike fear in the hearts of his enemies and let them…
 
 ## S11 E19 — 19. The Tenant Disassociation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1119.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1119.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4168,7 +4168,7 @@ Watch for:
   - 1 Why are you wearing a Band-Aid? Halley bit me. (laughs) You got beaten up by a girl. Hey, that's sexist. You're right. (laughs) You got beaten up by a baby. - Hi. - Hey. - Hey.…
 
 ## S11 E20 — 20. The Reclusive Potential
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1120.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1120.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4181,7 +4181,7 @@ Watch for:
   - 1 KOOTHRAPPALI: If Bruce Banner's driving a rental car and turns into the Hulk, do you think he's covered, or does he need to add the Hulk as an additional driver? You really need a girlfriend.…
 
 ## S11 E21 — 21. The Comet Polarization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1121.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1121.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4190,7 +4190,7 @@ Watch for:
   - 1 WOLOWITZ: What are you doing? Pigeon check for Sheldon. North side's all clear! Great. Let's look at some planets! Hey, why'd you lug your telescope all the way over here? Leonard has one in our apartment.…
 
 ## S11 E22 — 22. The Monetary Insufficiency
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1122.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1122.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4199,7 +4199,7 @@ Watch for:
   - 1 What-what are you doing? The light is red so I came to a stop. You're in a stolen cop car with a dead hooker in the trunk. You don't have to obey traffic laws. I know I don't have to. The fun is choosing to. Hey.…
 
 ## S11 E23 — 23. The Sibling Realignment
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1123.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1123.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4212,7 +4212,7 @@ Watch for:
   - 1 That's not right. That's so unreasonable. Yeah, well, if you're going to be like this, then I don't want to talk to you right now, either. Okay. I love you. Bye. Amazon customer support? No, my mother.…
 
 ## S11 E24 — 24. The Bow Tie Asymmetry
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1124.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1124.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4223,7 +4223,7 @@ Watch for:
   - 1 All right, Saturday is the big day. A lot of people thought this would never come. I may have been one of those people. I may have been one of those people. Wait, wait, are we talking about the wedding? Yes.…
 
 ## S12 E1 — 1. The Conjugal Configuration
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1201.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1201.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4232,7 +4232,7 @@ Watch for:
   - 1 Previously on The Big Bang Theory Can you believe our little lamb is finally getting married? He can't believe it. And neither can I. (laughing) Hi, Dad.…
 
 ## S12 E2 — 2. The Wedding Gift Wormhole
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1202.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1202.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4245,7 +4245,7 @@ Watch for:
   - 1 But I think, by the end of the honeymoon, we really started to feel like a married couple. But the good kind, like on TV, not like my parents. - Yeah.…
 
 ## S12 E3 — 3. The Procreation Calculation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1203.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1203.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4258,7 +4258,7 @@ Watch for:
   - 1 So, Penny, we were talking to our neighbors, and they're thinking of moving and selling their house. Really? Why? Something about babies crying and keeping them up all night; it's not important.…
 
 ## S12 E4 — 4. The Tam Turbulence
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1204.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1204.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4267,7 +4267,7 @@ Watch for:
   - 1 Hey, whatcha doing? Improving our wedding photos. Oh, that's nice. Wait, I'm still in them, right? Of course. And not only you. I've added some guests who couldn't be there.…
 
 ## S12 E5 — 5. The Planetarium Collision
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1205.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1205.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4276,7 +4276,7 @@ Watch for:
   - 1 Recently, 12 new moons were discovered orbiting Jupiter, bringing the total up to 79. As a middle child myself, I'd like to extend my sympathies to moons two through 78. Your grandpa will never learn your name.…
 
 ## S12 E6 — 6. The Imitation Perturbation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1206.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1206.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4291,7 +4291,7 @@ Watch for:
   - 1 Hey, did you guys know this year's the 40th anniversary of Halloween? - Oh, nonsense. Halloween traditions of date back to the Celtic festival of Samhain.…
 
 ## S12 E7 — 7. The Grant Allocation Derivation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1207.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1207.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4300,7 +4300,7 @@ Watch for:
   - 1 Oh, this is amazing. I wish I had a playhouse like this when I was a kid. Really? You never had a playhouse? No. I mean, my dad did buy the house next door for us to play in.…
 
 ## S12 E8 — 8. The Consummation Deviation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1208.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1208.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4313,7 +4313,7 @@ Watch for:
   - 1 Hey, you guys have any plans for Valentine's Day? Three months from now? No. - What? No? - I mean, secret romantic plans that would be ruined if I told you. Oh.…
 
 ## S12 E9 — 9. The Citation Negation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1209.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1209.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4324,7 +4324,7 @@ Watch for:
   - 1 Sheldon, do you want to put the tables after each section or in an appendix at the end? You know what? We wrote this paper together. I think we should decide together that they go in an appendix at the end.…
 
 ## S12 E10 — 10. The VCR Illumination
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1210.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1210.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4337,7 +4337,7 @@ Watch for:
   - 1 Previously on The Big Bang Theory Actually, I-I need to talk to both of you about your paper. Oh, right, how are the citations coming? Um We came a-across a-a Russian paper that seems to disprove super-asymmetry.…
 
 ## S12 E11 — 11. The Paintball Scattering
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1211.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1211.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4350,7 +4350,7 @@ Watch for:
   - 1 Champagne, a champagne, a champagne with a packet of Splenda in it. - You know what I call this drink? - A waste of champagne? No. A Dr. Cooper. Because He's also sweet and bubbly. All right.…
 
 ## S12 E12 — 12. The Propagation Proposition
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1212.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1212.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4361,21 +4361,21 @@ Watch for:
   - 1 Previously on The Big Bang Theory So I told my mom she just needed to back off. This is our wedding, and if anyone's gonna design the floral arrangements, it's going to be my man. Thank you.…
 
 ## S12 E13 — 13. The Confirmation Polarization
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1213.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1213.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 Hello. I'm Dr. Sheldon Cooper. And I'm Dr. Amy Farrah Fowler. And this is: Dr. Sheldon Cooper and Dr. Amy Farrah Fowler present BOTH: Dr. Sheldon Cooper's Fun with Flags.…
 
 ## S12 E14 — 14. The Meteorite Manifestation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1214.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1214.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 Ooh, it's freezing out here. Would you like me to heat things up? No, I want to get in the hot tub before I lose a toe. Oh. That is bright! Yeah, a new neighbor put in floodlights. Huh. So, shall we? No.…
 
 ## S12 E15 — 15. The Donation Oscillation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1215.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1215.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4388,7 +4388,7 @@ Watch for:
   - 1 Previously on The Big Bang Theory Uh, we sort of have another reason for asking you here. We want to have a baby, but we can't do it on our own. Okay, whoa, whoa. Whoa, whoa, whoa.…
 
 ## S12 E16 — 16. The D & D Vortex
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1216.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1216.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4399,7 +4399,7 @@ Watch for:
   - 1 All right, Professor Proton fans, get ready to meet Dr. Sheldon Cooper and Dr. Amy Farrah Fowler, a pair of real-life scientists who may win the Nobel Prize.…
 
 ## S12 E17 — 17. The Conference Valuation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1217.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1217.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4408,7 +4408,7 @@ Watch for:
   - 1 Previously on The Big Bang Theory The drug I've been working on for the past five years just got approved by the FDA. - Wow. - Oh. Congratulations.…
 
 ## S12 E18 — 18. The Laureate Accumulation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1218.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1218.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4421,7 +4421,7 @@ Watch for:
   - 1 Previously on The Big Bang Theory We just published a few months ago. How did you have time to design an experiment? This whole thing is actually a gigantic accident.…
 
 ## S12 E19 — 19. The Inspiration Deprivation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1219.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1219.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4432,14 +4432,14 @@ Watch for:
   - 1 Previously on The Big Bang Theory We conclusively proved super-asymmetry, and yet somehow we-we still feel like imposters. Yeah, there should be a term for that.…
 
 ## S12 E20 — 20. The Decision Reverberation
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1220.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1220.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - 1 Oh, the there's a 7:15 at the ArcLight. Well, that doesn't give us much time to eat. We can eat afterwards. I'm not gonna eat at 10:00 at night.…
 
 ## S12 E21 — 21. The Plagiarism Schism
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1221.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1221.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4455,14 +4455,14 @@ Watch for:
   - 1 Previously on The Big Bang Theory We conclusively proved super-asymmetry, and yet somehow we-we still feel like imposters. Yeah, there should be a term for that.…
 
 ## S12 E22 — 22. The Maternal Conclusion
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1222.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1222.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - 1 Leonard, when are you leaving to pick your mother up from the airport? Uh, well, let's see, her plane gets in at 3:00, figure half hour to get her luggage, so never.…
 
 ## S12 E23 — 23. The Change Constant; The Stockholm Syndrome
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1223.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1223.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4475,7 +4475,7 @@ Watch for:
   - 1 Previously, on The Big Bang Theory Guess I'm your new neighbor. Penny. - Oh. Leonard. Sheldon. - Hi. - Hi. - Hi. - Hi. - Hi. That's where I sit. Howard Wolowitz. Caltech Department of Applied Physics. Penny? Leonard.…
 
 ## S12 E90 — 90. Unraveling The Mystery: A Big Bang Farewell
-URL: https://watchwithkids.vercel.app/ep/big-bang-theory/1290.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1290.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)

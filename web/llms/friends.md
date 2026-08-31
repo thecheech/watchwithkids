@@ -1,11 +1,11 @@
 # Friends — parent guide (228 episodes)
 
-Source: https://watchwithkids.vercel.app/friends.html
+Source: https://watchwiththekids.com/friends.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 24 all clear (1–2), 125 gray area (3), 79 hard pass (4–5).
 
 ## S1 E1 — The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)
-URL: https://watchwithkids.vercel.app/ep/friends/0101.html
+URL: https://watchwiththekids.com/ep/friends/0101.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica's old friend Rachel moves in with her after leaving her fiancé.
 Watch for:
@@ -36,7 +36,7 @@ Watch for:
   - Chandler: “Sometimes I wish I was a lesbian... (They all stare at him.) Did I say that out loud?”
 
 ## S1 E2 — The One With the Sonogram at the End
-URL: https://watchwithkids.vercel.app/ep/friends/0102.html
+URL: https://watchwiththekids.com/ep/friends/0102.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel returns her engagement ring; Ross's ex-wife has a revelation for him.
 Watch for:
@@ -58,7 +58,7 @@ Watch for:
   - Ross: “(pulls his hand away) Okay! Okay. (To his parents) Look, I, uh- I realise you guys have been wondering what exactly happened between Carol and me, and, so, well, here's the deal. Carol's a lesbian.…”
 
 ## S1 E3 — The One With the Thumb
-URL: https://watchwithkids.vercel.app/ep/friends/0103.html
+URL: https://watchwiththekids.com/ep/friends/0103.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Monica's friends find her new beau appealing; Phoebe finds a little something extra in her soda.
 Watch for:
@@ -69,7 +69,7 @@ Watch for:
   - Chandler: “So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing?…”
 
 ## S1 E4 — The One With George Stephanopoulos
-URL: https://watchwithkids.vercel.app/ep/friends/0104.html
+URL: https://watchwiththekids.com/ep/friends/0104.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Chandler and Joey take Ross to a hockey game -- with painful results; the ladies get someone else's pizza.
 Watch for:
@@ -92,7 +92,7 @@ Watch for:
   - Ross: “Today's the day Carol and I first.. consummated our physical relationship. (Joey is puzzled.) Sex. ..You know what, I-I'd better pass on the game.…”
 
 ## S1 E5 — The One With the East German Laundry Detergent
-URL: https://watchwithkids.vercel.app/ep/friends/0105.html
+URL: https://watchwiththekids.com/ep/friends/0105.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross does laundry with Rachel; Joey uses Monica to get his old girlfriend back.
 Watch for:
@@ -111,7 +111,7 @@ Watch for:
   - Ross: “So what're you saying here? I should shave again, pick up some wine, what?”
 
 ## S1 E6 — The One With the Butt
-URL: https://watchwithkids.vercel.app/ep/friends/0106.html
+URL: https://watchwiththekids.com/ep/friends/0106.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Joey's new agent gets him a cheeky role in a movie; Chandler dates a woman with lots of baggage.
 Watch for:
@@ -132,7 +132,7 @@ Watch for:
   - Chandler: “No, no resentment, believe me, it's worth it. 'Kay? Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life? Well, every- single- second is like that with Aurora..…”
 
 ## S1 E7 — The One With the Blackout
-URL: https://watchwithkids.vercel.app/ep/friends/0107.html
+URL: https://watchwiththekids.com/ep/friends/0107.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: A blackout traps Chandler in an ATM vestibule with model Jill Goodacre; a cat comes between Ross and Rachel.
 Watch for:
@@ -150,7 +150,7 @@ Watch for:
   - Joey: “Yeeeeaaaahhh! What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...' (Rachel comes into the room behind them)”
 
 ## S1 E8 — The One Where Nana Dies Twice
-URL: https://watchwithkids.vercel.app/ep/friends/0108.html
+URL: https://watchwiththekids.com/ep/friends/0108.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Monica and Ross mourn the loss of their grandmother.
 Watch for:
@@ -177,7 +177,7 @@ Watch for:
   - Ross: “(hugs him) And listen, man, if you wanna be gay, be gay. Doesn't matter to me.”
 
 ## S1 E9 — The One Where Underdog Gets Away
-URL: https://watchwithkids.vercel.app/ep/friends/0109.html
+URL: https://watchwiththekids.com/ep/friends/0109.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica tries to cook Thanksgiving dinner for the gang; Ross relishes the chance to talk to his unborn child.
 Watch for:
@@ -195,7 +195,7 @@ Watch for:
   - Ross: “Ok. (browsing the apartment) Wow, you guys sure have a lot of books about bein' a lesbian.”
 
 ## S1 E10 — The One With the Monkey
-URL: https://watchwithkids.vercel.app/ep/friends/0110.html
+URL: https://watchwiththekids.com/ep/friends/0110.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Summary: A new pet monkeys around with Ross's ego during the holidays; Phoebe falls for a scientist .
 Watch for:
@@ -227,7 +227,7 @@ Watch for:
   - Phoebe: “So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.”
 
 ## S1 E11 — The One With Mrs. Bing
-URL: https://watchwithkids.vercel.app/ep/friends/0111.html
+URL: https://watchwiththekids.com/ep/friends/0111.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Chandler's novelist mother visits -- and hits on Ross; Phoebe and Monica fall for the same guy.
 Watch for:
@@ -260,7 +260,7 @@ Watch for:
   - Ross: “I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in”
 
 ## S1 E12 — The One With the Dozen Lasagnas
-URL: https://watchwithkids.vercel.app/ep/friends/0112.html
+URL: https://watchwiththekids.com/ep/friends/0112.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe has some bad news for Rachel about Paolo; Ross learns some of the results of his former wife's amniocentesis.
 Watch for:
@@ -286,7 +286,7 @@ Watch for:
   - Joey: “(in baby-like voice) How come you don't live with Mommy? (pause; shows Ross less than amused) How come Mommy lives with that other lady? (pause; Ross still looks less than amused; Joey smiling) What's a lesbian?…”
 
 ## S1 E13 — The One With the Boobies
-URL: https://watchwithkids.vercel.app/ep/friends/0113.html
+URL: https://watchwiththekids.com/ep/friends/0113.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler sees Rachel naked; Joey learns his father is having an affair; Phoebe dates a psychiatrist.
 Watch for:
@@ -309,7 +309,7 @@ Watch for:
   - Ross: “Hey, I married a lesbian to make you look good!”
 
 ## S1 E14 — The One With the Candy Hearts
-URL: https://watchwithkids.vercel.app/ep/friends/0114.html
+URL: https://watchwiththekids.com/ep/friends/0114.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler has a blind date with an ex-girlfriend -- whom he's broken up with twice before; the ladies light a "boyfriend bonfire"; Ross finds an unlikely Valentine's Day date.
 Watch for:
@@ -336,7 +336,7 @@ Watch for:
   - Ross: “No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it.…”
 
 ## S1 E15 — The One With the Stoned Guy
-URL: https://watchwithkids.vercel.app/ep/friends/0115.html
+URL: https://watchwiththekids.com/ep/friends/0115.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler and Monica plan big career moves, while Ross labors to hit it off with a date.
 Watch for:
@@ -355,7 +355,7 @@ Watch for:
   - Rachel: “Let me, let me get you some wine!”
 
 ## S1 E16 — The One With Two Parts, part 1
-URL: https://watchwithkids.vercel.app/ep/friends/0116.html
+URL: https://watchwiththekids.com/ep/friends/0116.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross attends Lamaze classes; Joey dates Phoebe's twin; and Chandler has the hots for a co-worker he's supposed to fire.
 Watch for:
@@ -370,7 +370,7 @@ Watch for:
   - Monica points the remote at her TV, and punches out a key combination from the book, but the dreaded SAP logo remains and Spanish still comes forth.
 
 ## S1 E17 — The One With Two Parts, Part 2
-URL: https://watchwithkids.vercel.app/ep/friends/0117.html
+URL: https://watchwiththekids.com/ep/friends/0117.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica and Rachel meet two cute doctors; Ross looks to Jack for fatherly advice; Phoebe confronts her twin about Joey.
 Watch for:
@@ -395,7 +395,7 @@ Watch for:
   - Phoebe: “(as Ursula) That's right, I don't... But I was, I was drunk on you!”
 
 ## S1 E18 — The One With All The Poker
-URL: https://watchwithkids.vercel.app/ep/friends/0118.html
+URL: https://watchwiththekids.com/ep/friends/0118.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: The guys let the ladies in on a sacred ritual -- their poker game. Meanwhile, Rachel has an interview with Saks.
 Watch for:
@@ -409,7 +409,7 @@ Watch for:
   - Monica and Phoebe get up and start celebrating in the kitchen, pouring wine and singing. Rachel, shocked, goes to join them.
 
 ## S1 E19 — The One Where the Monkey Gets Away
-URL: https://watchwithkids.vercel.app/ep/friends/0119.html
+URL: https://watchwiththekids.com/ep/friends/0119.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross entrusts Rachel with his pet monkey for a day; Barry has a surprise for Rachel.
 Watch for:
@@ -436,7 +436,7 @@ Watch for:
   - Ross: “Alright. (He goes to get the glasses. Then he hesitates and turns off the main light. Rachel looks round and he acts surprised) The, uh, the neighbours must be vacuuming.…”
 
 ## S1 E20 — The One With the Evil Orthodontist
-URL: https://watchwithkids.vercel.app/ep/friends/0120.html
+URL: https://watchwiththekids.com/ep/friends/0120.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Chandler's not a very smooth operator when it comes to calling a woman he went out with; Rachel gets involved with her ex-fiancé.
 Watch for:
@@ -463,7 +463,7 @@ Watch for:
   - Phoebe: “You know he's gay?”
 
 ## S1 E21 — The One With The Fake Monica
-URL: https://watchwithkids.vercel.app/ep/friends/0121.html
+URL: https://watchwiththekids.com/ep/friends/0121.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Monica meets the woman who used her credit-card number; Ross realizes it's time to find a new home for Marcel.
 Watch for:
@@ -479,7 +479,7 @@ Watch for:
   - Monica is drinking from the tap
 
 ## S1 E22 — The One With the Ick Factor
-URL: https://watchwithkids.vercel.app/ep/friends/0122.html
+URL: https://watchwiththekids.com/ep/friends/0122.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe gets temporary work as Chandler's secretary; Monica's new boyfriend is younger than she thinks.
 Watch for:
@@ -499,7 +499,7 @@ Watch for:
   - Chandler: “I'm sorry, it was a one-time-thing. I was very drunk and i was somebody else's subconscious.”
 
 ## S1 E23 — The One With the Birth
-URL: https://watchwithkids.vercel.app/ep/friends/0123.html
+URL: https://watchwiththekids.com/ep/friends/0123.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross quarrels with Susan in the delivery room as Carol prepares to give birth; Joey befriends a mother-to-be.
 Watch for:
@@ -517,7 +517,7 @@ Watch for:
   - Chandler: “(to nurse) Let me ask you, do you have to be Carol's lesbian life partner?”
 
 ## S1 E24 — The One Where Rachel Finds Out
-URL: https://watchwithkids.vercel.app/ep/friends/0124.html
+URL: https://watchwiththekids.com/ep/friends/0124.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel finally realizes how much Ross likes her -- but not before he leaves for China on museum business.
 Watch for:
@@ -534,7 +534,7 @@ Watch for:
   - Joey: “Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something.”
 
 ## S2 E1 — The One With Ross' New Girlfriend
-URL: https://watchwithkids.vercel.app/ep/friends/0201.html
+URL: https://watchwiththekids.com/ep/friends/0201.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Rachel meets Ross's female travel companion; Joey unwittingly recommends a seamy tailor to Chandler; and Phoebe cuts Monica's hair.
 Watch for:
@@ -547,7 +547,7 @@ Watch for:
   - Rachel: “When I saw him get off that plane with her, I really thought I hit rock bottom. But today, it's like there's rock bottom, 50 feet of crap, then me.”
 
 ## S2 E2 — The One With the Breast Milk
-URL: https://watchwithkids.vercel.app/ep/friends/0202.html
+URL: https://watchwiththekids.com/ep/friends/0202.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica goes shopping with Julie behind Rachel's back; Ross isn't exactly gaga over breast milk.
 Watch for:
@@ -578,7 +578,7 @@ Watch for:
   - Ross: “Ok, would people stop drinking the breast milk?”
 
 ## S2 E3 — The One Where Mr. Heckles Dies
-URL: https://watchwithkids.vercel.app/ep/friends/0203.html
+URL: https://watchwiththekids.com/ep/friends/0203.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: The gang disturbs Mr. Heckles for the last time; Phoebe takes issue with Ross on the subject of evolution.
 Watch for:
@@ -596,7 +596,7 @@ Watch for:
   - ROSS: “Is there blood coming out of my ears?”
 
 ## S2 E4 — The One With Phoebe's Husband
-URL: https://watchwithkids.vercel.app/ep/friends/0204.html
+URL: https://watchwiththekids.com/ep/friends/0204.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Phoebe's secret husband shows up; Rachel tries to distract Ross from having sex with Julie.
 Watch for:
@@ -644,7 +644,7 @@ Watch for:
   - RAHCEL: “OK, [racial slur] luck.”
 
 ## S2 E5 — The One With Five Steaks and an Eggplant
-URL: https://watchwithkids.vercel.app/ep/friends/0205.html
+URL: https://watchwiththekids.com/ep/friends/0205.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Chandler receives a sexy phone call meant for someone else; the gang becomes divided along income lines.
 Watch for:
@@ -661,7 +661,7 @@ Watch for:
   - JADE: “I got a little drunk...and naked.”
 
 ## S2 E6 — The One With the Baby on the Bus
-URL: https://watchwithkids.vercel.app/ep/friends/0206.html
+URL: https://watchwiththekids.com/ep/friends/0206.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: An allergic reaction sends Ross to the hospital, leaving Chandler and Joey to look after Ben; Central Perk hires another singer to replace Phoebe.
 Watch for:
@@ -679,7 +679,7 @@ Watch for:
   - PHOEBE: “No. This whole like playing-for-money thing is so not good for me. You know, I don't know, when I sang "Su-Su-Suicide", I got a dollar seventy-five. But then, "Smelly Cat", I got 25 cents and a condom.…”
 
 ## S2 E7 — The One Where Ross Finds Out
-URL: https://watchwithkids.vercel.app/ep/friends/0207.html
+URL: https://watchwiththekids.com/ep/friends/0207.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel goes on a date in an effort to forget about Ross; Monica presses Chandler to complete an exercise program.
 Watch for:
@@ -705,7 +705,7 @@ Watch for:
   - JOEY: “Maybe he's. . . gay.”
 
 ## S2 E8 — The One With the List
-URL: https://watchwithkids.vercel.app/ep/friends/0208.html
+URL: https://watchwiththekids.com/ep/friends/0208.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross is torn between Rachel and Julie, so Chandler prompts him to list each woman's pros and cons; Monica concocts recipes for a new product.
 Watch for:
@@ -731,7 +731,7 @@ Watch for:
   - MNCA: “[getting the wine] Do not start without me. Do not start without me.”
 
 ## S2 E9 — The One With Phoebe's Dad
-URL: https://watchwithkids.vercel.app/ep/friends/0209.html
+URL: https://watchwiththekids.com/ep/friends/0209.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe confronts her grandmother about the father she never knew; things heat up at Monica's holiday party.
 Watch for:
@@ -750,7 +750,7 @@ Watch for:
   - CHANDLER: “Ya know I remember my father, all dressed up in the red suit, the big black boots, and the patent leather belt, sneakin around downstairs.…”
 
 ## S2 E10 — The One With Russ
-URL: https://watchwithkids.vercel.app/ep/friends/0210.html
+URL: https://watchwiththekids.com/ep/friends/0210.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel dates a guy who's similar to Ross; Joey can get a part if he sleeps with the casting director; Fun Bobby is no fun without alcohol.
 Watch for:
@@ -779,7 +779,7 @@ Watch for:
   - FBOB: “I think you may have a drinking problem.”
 
 ## S2 E11 — The One With the Lesbian Wedding
-URL: https://watchwithkids.vercel.app/ep/friends/0211.html
+URL: https://watchwiththekids.com/ep/friends/0211.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel's mother considers ending her marriage; Carol decides to marry her lover, Susan; Phoebe believes she's possessed.
 Watch for:
@@ -810,7 +810,7 @@ Watch for:
   - CHANDLER: “Well now you understand how I feel every single day, ok? The world is my lesbian wedding.”
 
 ## S2 E12-13 — The One After the Superbowl
-URL: https://watchwithkids.vercel.app/ep/friends/0212-0213.html
+URL: https://watchwiththekids.com/ep/friends/0212-0213.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross searches for Marcel; Joey is attracted to an obsessed fan; Phoebe sings songs for kids. Ross learns Marcel is working on a movie, and the film's makeup artist seems to want Chandler; Monica and Rachel fight over Jean-Claude Van Damme, who appears as himself.
 Watch for:
@@ -864,7 +864,7 @@ Watch for:
   - ROSS: “Bye Marcel. See ya on the big screen. You keep people drinkin' that beer, OK. I miss you buddy.”
 
 ## S2 E14 — The One With the Prom Video
-URL: https://watchwithkids.vercel.app/ep/friends/0214.html
+URL: https://watchwiththekids.com/ep/friends/0214.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica brings some things home from her parents' house, including a prom video; Rachel tells Ross that she doesn't think it will work out between them.
 Watch for:
@@ -880,7 +880,7 @@ Watch for:
   - ROSS: “Emotional hell. So, did they lend you the money yet?”
 
 ## S2 E15 — The One Where Rachel and Ross... You Know
-URL: https://watchwithkids.vercel.app/ep/friends/0215.html
+URL: https://watchwiththekids.com/ep/friends/0215.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross's work hinders the evolution of his and Rachel's romance; Monica has eyes for an older opthalmologist; Joey and Chandler enjoy a big-screen TV.
 Watch for:
@@ -907,7 +907,7 @@ Watch for:
   - DR. BURKE: “No no. Henry's almost two and he's talking and everyting. Here. You know, the other day he told me he liked me better than his other grandpa. Now in all fairness his other grandpa's a drunk but still. . .”
 
 ## S2 E16 — The One Where Joey Moves Out
-URL: https://watchwithkids.vercel.app/ep/friends/0216.html
+URL: https://watchwiththekids.com/ep/friends/0216.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Richard's relationship with a younger woman causes a stir at a party for Ross and Monica's dad; Joey decides to move out; Rachel gets a tattoo.
 Watch for:
@@ -923,7 +923,7 @@ Watch for:
   - RACHEL: “Yeah, who's gonna eat all our food, and tie up our phone lines, and - is that my bra? What the hell you doin' with my bra?”
 
 ## S2 E17 — The One Where Eddie Moves In
-URL: https://watchwithkids.vercel.app/ep/friends/0217.html
+URL: https://watchwiththekids.com/ep/friends/0217.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Chandler gets a new roommate; Monica doesn't like having Ross around all the time; Phoebe makes a music video.
 Watch for:
@@ -931,7 +931,7 @@ Watch for:
   - MONICA: “Yeah. You're just gonna have to stop pissing me off.”
 
 ## S2 E18 — The One Where Dr. Remore Dies
-URL: https://watchwithkids.vercel.app/ep/friends/0218.html
+URL: https://watchwiththekids.com/ep/friends/0218.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: The days in the life of Joey's character, Dr. Ramoray, are numbered; Chandler's new roommate scares him.
 Watch for:
@@ -948,7 +948,7 @@ Watch for:
   - JOEY: “I fall down an elevator shaft? What the hell does this mean, I fall down an elevator shaft?”
 
 ## S2 E19 — The One Where Eddie Won't Go
-URL: https://watchwithkids.vercel.app/ep/friends/0219.html
+URL: https://watchwiththekids.com/ep/friends/0219.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Chandler wants Eddie to move out; Joey faces unemployment; a self-help book empowers the ladies.
 Watch for:
@@ -960,7 +960,7 @@ Watch for:
   - CHANDLER: “Our next cocktail party?”
 
 ## S2 E20 — The One Where Old Yeller Dies
-URL: https://watchwithkids.vercel.app/ep/friends/0220.html
+URL: https://watchwiththekids.com/ep/friends/0220.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel freaks when Ross talks about spending a lifetime together; Chandler and Joey befriend Richard; Phoebe is shocked by the ending of "Old Yeller."
 Watch for:
@@ -978,7 +978,7 @@ Watch for:
   - CHANDLER: “Yeah, Ross can't go so it's between my friend Eric Prower who has breath issues and Dan with the poking. [starts poking Monica in the shoulder] 'Did you see that play? Do you want some more beer? Is that Spike Lee?'”
 
 ## S2 E21 — The One With the Two Bullies
-URL: https://watchwithkids.vercel.app/ep/friends/0221.html
+URL: https://watchwiththekids.com/ep/friends/0221.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Bullies accost Ross and Chandler; Monica plays the stock market; and Phoebe attempts to meet her father again.
 Watch for:
@@ -996,7 +996,7 @@ Watch for:
   - FRANK: “This is huge, you can buy me beer.”
 
 ## S2 E22 — The One With the Two Parties
-URL: https://watchwithkids.vercel.app/ep/friends/0222.html
+URL: https://watchwiththekids.com/ep/friends/0222.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: When Rachel's divorcing parents both show up for her birthday, her friends hold two separate parties to keep them apart.
 Watch for:
@@ -1017,7 +1017,7 @@ Watch for:
   - GIRL 1: “Is it true they have beer?”
 
 ## S2 E23 — The One With the Chicken Pox
-URL: https://watchwithkids.vercel.app/ep/friends/0223.html
+URL: https://watchwiththekids.com/ep/friends/0223.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: A submariner surfaces to spend two weeks with Phoebe, who's come down with chicken pox; Joey plays the role of a data processor at Chandler's company.
 Watch for:
@@ -1038,7 +1038,7 @@ Watch for:
   - CHANDLER: “Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.”
 
 ## S2 E24 — The One With Barry and Mindy's Wedding
-URL: https://watchwithkids.vercel.app/ep/friends/0224.html
+URL: https://watchwiththekids.com/ep/friends/0224.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel's in her ex-fiancé's wedding; Chandler has a cyberspace romance; Monica and Richard think about their future.
 Watch for:
@@ -1065,7 +1065,7 @@ Watch for:
   - JOEY: “Wow, you are a good friend, 'course the audition was this morning, and I didn't get it. But that was a hell of a kiss. Rachel is a very lucky girl.”
 
 ## S3 E1 — The One With the Princess Leia Fantasy
-URL: https://watchwithkids.vercel.app/ep/friends/0301.html
+URL: https://watchwiththekids.com/ep/friends/0301.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Janice tries to change Joey's opinion of her; Ross's sexual fantasy isn't kept between him and Rachel; Monica can't shake memories of Richard.
 Watch for:
@@ -1088,7 +1088,7 @@ Watch for:
   - Monica: “Richard's living room, drinking wine.”
 
 ## S3 E2 — The One Where No-one's Ready
-URL: https://watchwithkids.vercel.app/ep/friends/0302.html
+URL: https://watchwiththekids.com/ep/friends/0302.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Nobody seems to be getting the message when Ross demands that the group get ready for his black-tie benefit.
 Watch for:
@@ -1113,7 +1113,7 @@ Watch for:
   - Ross: “I think this will be fine. Okay, vanilla milkshake, just a vanilla milkshake, with chicken bits floating in it. Cheers. (starts to drink, but Rachel stops him just before he starts drinking)”
 
 ## S3 E3 — The One With the Jam
-URL: https://watchwithkids.vercel.app/ep/friends/0303.html
+URL: https://watchwiththekids.com/ep/friends/0303.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Monica turns her attention from making jam to maybe making a baby; Phoebe befriends a guy who's stalking her twin sister.
 Watch for:
@@ -1133,7 +1133,7 @@ Watch for:
   - Chandler: “Hey, Joe, I gotta ask. The girl from the Xerox place buck naked (holds up one hand), or, or a big tub of jam. (holds up the other hand)”
 
 ## S3 E4 — The One With The Metaphorical Tunnel
-URL: https://watchwithkids.vercel.app/ep/friends/0304.html
+URL: https://watchwiththekids.com/ep/friends/0304.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler decides to make a real commitment to Janice; Phoebe poses as Joey's agent; Ross is troubled by Ben's toy.
 Watch for:
@@ -1153,7 +1153,7 @@ Watch for:
   - Ross: “(coming out of the bathroom) Won't you dance around with me.”
 
 ## S3 E5 — The One With Frank Jr.
-URL: https://watchwithkids.vercel.app/ep/friends/0305.html
+URL: https://watchwiththekids.com/ep/friends/0305.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: The gang compiles "freebie lists"; Phoebe tries to get to know her half brother; Joey builds an entertainment center.
 Watch for:
@@ -1173,7 +1173,7 @@ Watch for:
   - Joey: “Relax. Here hold this (hands her his beer). This old stuff just comes right off. (he bends down to try and lift some tile right in the middle of the floor, in his tight pants.)”
 
 ## S3 E6 — The One With The Flashback
-URL: https://watchwithkids.vercel.app/ep/friends/0306.html
+URL: https://watchwiththekids.com/ep/friends/0306.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: The show flashes back to when the friends were acquaintances and pairing off was a possibility.
 Watch for:
@@ -1209,7 +1209,7 @@ Watch for:
   - Ross: “My wife’s a lesbian.”
 
 ## S3 E7 — The One With the Race Car Bed
-URL: https://watchwithkids.vercel.app/ep/friends/0307.html
+URL: https://watchwiththekids.com/ep/friends/0307.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Monica orders a bed from the store owned by Janice's estranged husband; Joey teaches soap-opera acting; Ross struggles through a dinner with Rachel's abrasive father.
 Watch for:
@@ -1227,7 +1227,7 @@ Watch for:
   - Joey: “(sadly) There will come a time in each of your careers when you’ll have a chance to screw over another soap opera actor. I had such an opportunity in the recent, present.…”
 
 ## S3 E8 — The One With The Giant Poking Device
-URL: https://watchwithkids.vercel.app/ep/friends/0308.html
+URL: https://watchwiththekids.com/ep/friends/0308.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey reveals to Chandler that he saw Janice kissing her estranged husband; Rachel and Monica baby-sit Ben; Phoebe explains her fear of the dentist.
 Watch for:
@@ -1254,7 +1254,7 @@ Watch for:
   - Monica: “(coming out of the bedroom) You jerk! You know how much I love that kid! (starts to chase Ross around the living room)”
 
 ## S3 E9 — The One With The Football
-URL: https://watchwithkids.vercel.app/ep/friends/0309.html
+URL: https://watchwiththekids.com/ep/friends/0309.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross and Monica go nose-to-nose in an unfriendly Thanksgiving football game.
 Watch for:
@@ -1271,7 +1271,7 @@ Watch for:
   - Chandler: “That’s not true! I wanted to wear my bathrobe and eat peanut clusters all day. I wanted to start drinking in the morning. Don’t say that I don’t have goals!”
 
 ## S3 E10 — The One Where Rachel Quits
-URL: https://watchwithkids.vercel.app/ep/friends/0310.html
+URL: https://watchwiththekids.com/ep/friends/0310.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Rachel quits Central Perk; Phoebe objects to the treatment of Christmas trees; Ross sells cookies for a "Brown Bird" scout he injured; Monica gets hooked on Mint Treasures.
 Watch for:
@@ -1281,7 +1281,7 @@ Watch for:
   - Chandler: “Well seeing that drunk Santa wet himself, really perked up my Christmas.”
 
 ## S3 E11 — The One Where Chandler Can’t Remember Which Sister
-URL: https://watchwithkids.vercel.app/ep/friends/0311.html
+URL: https://watchwiththekids.com/ep/friends/0311.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: A drunken Chandler has a liaison with one of Joey's sisters; a nice guy recommends Rachel for a job.
 Watch for:
@@ -1320,7 +1320,7 @@ Watch for:
   - Chandler: “I wasn’t sure which one Mary-Angela was. (all of Joey’s sisters gasp) Look, I’m sorry okay, I was really drunk, and you all look really similar.”
 
 ## S3 E12 — The One With All The Jealousy
-URL: https://watchwithkids.vercel.app/ep/friends/0312.html
+URL: https://watchwiththekids.com/ep/friends/0312.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross is jealous of Mark; a romantic poet criticizes Monica in verse; Joey's a dancing fool for a Broadway musical audition.
 Watch for:
@@ -1354,7 +1354,7 @@ Watch for:
   - Chandler: “Well, if the magician can open my beer with his but cheeks, then all right.”
 
 ## S3 E13 — The One Where Monica and Richard Are Friends
-URL: https://watchwithkids.vercel.app/ep/friends/0313.html
+URL: https://watchwiththekids.com/ep/friends/0313.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica sees Richard again and they agree to be just pals -- and occasional lovers; Phoebe's new beau has an embarrassing habit.
 Watch for:
@@ -1379,7 +1379,7 @@ Watch for:
   - Chandler: “No. He.....he’s coming out of his shorts.”
 
 ## S3 E14 — The One With Phoebe’s Ex-Partner
-URL: https://watchwithkids.vercel.app/ep/friends/0314.html
+URL: https://watchwiththekids.com/ep/friends/0314.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe's ex-singing partner wants to reunite; Chandler likes a woman associated with a shameful incident from Joey's past; Ross wants to spend more time with Rachel.
 Watch for:
@@ -1398,7 +1398,7 @@ Watch for:
   - Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
 
 ## S3 E15 — The One Where Ross and Rachel Take A Break
-URL: https://watchwithkids.vercel.app/ep/friends/0315.html
+URL: https://watchwiththekids.com/ep/friends/0315.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross and Rachel decide to take a break in their relationship; Phoebe dates a diplomat who requires a translator.
 Watch for:
@@ -1418,7 +1418,7 @@ Watch for:
   - Ross: “I’m sorry. But ah, hey, oh, somebody’s off the phone, how ‘bout a glass of wine by the fire, I could get it going again.”
 
 ## S3 E16 — The One The Morning After
-URL: https://watchwithkids.vercel.app/ep/friends/0316.html
+URL: https://watchwiththekids.com/ep/friends/0316.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross's fling with Chloe jeopardizes his future with Rachel, who learns of the misdeed after she says she wants to work things out.
 Watch for:
@@ -1454,7 +1454,7 @@ Watch for:
   - Scene: Monica and Rachel's, Monica is making a fruit drink in the blender, Rachel has just finished her shower and is coming out of the bathroom.
 
 ## S3 E17 — The One Without The Ski Trip
-URL: https://watchwithkids.vercel.app/ep/friends/0317.html
+URL: https://watchwiththekids.com/ep/friends/0317.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel organizes a ski trip for all the friends except Ross, who must then come to their rescue when they run out of gas.
 Watch for:
@@ -1483,7 +1483,7 @@ Watch for:
   - Ross: “Umm, candles, champagne, yeah anniversaries are great. ‘Cause you know love lasts forever, y'know. Nothing like it in this lifetime, money in the bank, so Rachel and I broke up.”
 
 ## S3 E18 — The One With The Hypnosis Tape
-URL: https://watchwithkids.vercel.app/ep/friends/0318.html
+URL: https://watchwiththekids.com/ep/friends/0318.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe's upset by her brother's engagement to an older woman; Monica dates a computer-software mogul; Chandler tries to quit smoking.
 Watch for:
@@ -1505,7 +1505,7 @@ Watch for:
   - Monica: “What the hell is this? (holding up the check)”
 
 ## S3 E19 — The One With The Tiny T-shirt
-URL: https://watchwithkids.vercel.app/ep/friends/0319.html
+URL: https://watchwiththekids.com/ep/friends/0319.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Mark asks out Rachel, who returns Ross's things; Monica still isn't attracted to millionaire Pete; Joey's irked by his costar in a play.
 Watch for:
@@ -1525,7 +1525,7 @@ Watch for:
   - Rachel: “I mean I think I’d say no to anybody right now. (Hearing this Gunther swoops back to cleaning tables.) Oh, but it was so strange. I mean I’m standing there with this charming, cute guy, who’s asking me to go out with…”
 
 ## S3 E20 — The One With The Dollhouse
-URL: https://watchwithkids.vercel.app/ep/friends/0320.html
+URL: https://watchwiththekids.com/ep/friends/0320.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Chandler's insincere "I'll call you" to Rachel's boss causes complications; Monica inherits a dollhouse; Joey and Kate get romantic.
 Watch for:
@@ -1544,7 +1544,7 @@ Watch for:
   - Monica: “Oh, she was a cruel, cranky, old bitch! (Ross gives her a look) (to Ross) And I’m sorry she died. Did Dad say I get the dollhouse?”
 
 ## S3 E21 — The One With A Chick. And A Duck
-URL: https://watchwithkids.vercel.app/ep/friends/0321.html
+URL: https://watchwiththekids.com/ep/friends/0321.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross helps an injured Rachel prepare for a business dinner, but doesn't tell her he's missing a chance to appear on TV; Pete buys Monica a restaurant; Chandler and Joey adopt a baby chick.
 Watch for:
@@ -1564,7 +1564,7 @@ Watch for:
   - Chandler: “(coming out of his apartment and seeing Ross) What did you do?”
 
 ## S3 E22 — The One With The Screamer
-URL: https://watchwithkids.vercel.app/ep/friends/0322.html
+URL: https://watchwiththekids.com/ep/friends/0322.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: The gang goes to the opening night of Joey's play and Rachel brings a date to make Ross jealous; Phoebe waits on hold so she can have her phone repaired before the warranty expires.
 Watch for:
@@ -1583,7 +1583,7 @@ Watch for:
   - Ross: “(coming out of the kitchen with a cup of coffee, almost running into Tommy) Oh-ho, whoa! Sorry, Tommy. I almost spilled this hot coffee on you.”
 
 ## S3 E23 — The One With Ross's Thing
-URL: https://watchwithkids.vercel.app/ep/friends/0323.html
+URL: https://watchwiththekids.com/ep/friends/0323.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross has an unusual growth; Phoebe is torn between two men she's dating; Monica thinks Pete is going to propose.
 Watch for:
@@ -1610,7 +1610,7 @@ Watch for:
   - Rachel: “Oh please, what do you know! You married a lesbian!”
 
 ## S3 E24 — The One With The Ultimate Fighting Champion
-URL: https://watchwithkids.vercel.app/ep/friends/0324.html
+URL: https://watchwiththekids.com/ep/friends/0324.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Pete pursues the Ultimate Fighting championship; Chandler has a slap-happy new boss; Ross dates Phoebe's friend.
 Watch for:
@@ -1632,7 +1632,7 @@ Watch for:
   - Doug: “(coming out of his office) Dartmouth? Who went to Dartmouth? Dartmouth sucks. Did you go to Dartmouth Bing?”
 
 ## S3 E25 — The One At The Beach
-URL: https://watchwithkids.vercel.app/ep/friends/0325.html
+URL: https://watchwiththekids.com/ep/friends/0325.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe's quest to find her father leads the gang to a beach house -- and leads Phoebe to a fateful meeting with an old family friend; Rachel persuades Bonnie to make a change.
 Watch for:
@@ -1661,7 +1661,7 @@ Watch for:
   - Scene: Outside the beach house, Ross is coming out to talk to Rachel.
 
 ## S4 E1 — The One With The Jellyfish
-URL: https://watchwithkids.vercel.app/ep/friends/0401.html
+URL: https://watchwiththekids.com/ep/friends/0401.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: At the beach house, Ross and Rachel appear on the threshold of a new era; Phoebe gets to know her birth mother; Monica is stung by a jellyfish.
 Watch for:
@@ -1688,7 +1688,7 @@ Watch for:
   - Phoebe: “I can’t believe you didn’t tell me there was a suicide note!”
 
 ## S4 E2 — The One With The Cat
-URL: https://watchwithkids.vercel.app/ep/friends/0402.html
+URL: https://watchwiththekids.com/ep/friends/0402.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe thinks her mother's spirit resides in a cat; Monica dates a former high-school hunk; Joey tries to sell the entertainment center.
 Watch for:
@@ -1708,7 +1708,7 @@ Watch for:
   - Monica: “Back then, I thought that I would never, ever get the chance to go out with a Chip Matthews, and now he’s-he’s called me up and asked me out. And the fat girl inside of me really wants to go. I-I owe her this.…”
 
 ## S4 E3 — The One With The ‘Cuffs
-URL: https://watchwithkids.vercel.app/ep/friends/0403.html
+URL: https://watchwiththekids.com/ep/friends/0403.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler's torrid fling with Rachel's boss puts him in a compromising position; Monica caters her mom's party.
 Watch for:
@@ -1734,7 +1734,7 @@ Watch for:
   - Phoebe: “Wow! And hey, it’s cool if you’re a lesbian! (Gives her a thumbs up)”
 
 ## S4 E4 — The One With The Ballroom Dancing
-URL: https://watchwithkids.vercel.app/ep/friends/0404.html
+URL: https://watchwiththekids.com/ep/friends/0404.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey' s roped into being the superintendent's practice dance partner; Phoebe gets fired.
 Watch for:
@@ -1759,7 +1759,7 @@ Watch for:
   - Phoebe: “Yeah, they thought I was a whore.”
 
 ## S4 E5 — The One With Joey's New Girlfriend
-URL: https://watchwithkids.vercel.app/ep/friends/0405.html
+URL: https://watchwiththekids.com/ep/friends/0405.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler falls for Joey's new girlfriend; Phoebe likes the effect of a cold on her singing voice.
 Watch for:
@@ -1793,7 +1793,7 @@ Watch for:
   - Rachel: “Why don't you just marry her? Oh no, wait a minute you can't, I'm sorry I forgot, she's not a lesbian.”
 
 ## S4 E6 — The One With The Dirty Girl
-URL: https://watchwithkids.vercel.app/ep/friends/0406.html
+URL: https://watchwiththekids.com/ep/friends/0406.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe helps Monica cater a funeral; Chandler buys Kathy a special birthday gift; Ross's beautiful date has a very messy place.
 Watch for:
@@ -1808,7 +1808,7 @@ Watch for:
   - Phoebe: “Yeah. Hard Ass and Wuss. We could fight crime!”
 
 ## S4 E7 — The One Where Chandler Crosses a Line
-URL: https://watchwithkids.vercel.app/ep/friends/0407.html
+URL: https://watchwiththekids.com/ep/friends/0407.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler keeps Kathy company while Joey's out with another girl---and one thing leads to another.
 Watch for:
@@ -1837,7 +1837,7 @@ Watch for:
   - Joey: “Hey! Samboucha Margarita?”
 
 ## S4 E8 — The One With Chandler in a Box
-URL: https://watchwithkids.vercel.app/ep/friends/0408.html
+URL: https://watchwiththekids.com/ep/friends/0408.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: On Thanksgiving, Chandler begs for Joey's forgiveness about Kathy; Monica has eyes for Richard's son.
 Watch for:
@@ -1860,7 +1860,7 @@ Watch for:
   - Rachel: “(coming out of her bedroom with a necklace) Here it is! I love it. I wear it all the time.”
 
 ## S4 E9 — The One Where They’re Gonna PARTY!
-URL: https://watchwithkids.vercel.app/ep/friends/0409.html
+URL: https://watchwiththekids.com/ep/friends/0409.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel is promised a promotion; a restaurateur confronts Monica after she writes a scathing review; Chandler and Ross prepare to party with a world-class carouser.
 Watch for:
@@ -1880,7 +1880,7 @@ Watch for:
   - Scene: Rachel’s office, she is coming in for the day carrying a picture for her new office. Mrs. Lynch is coming out of Joanna’s office, carrying a box.
 
 ## S4 E10 — The One With The Girl From Poughkeepsie
-URL: https://watchwithkids.vercel.app/ep/friends/0410.html
+URL: https://watchwiththekids.com/ep/friends/0410.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Summary: Monica hires Joey so she can fire him to show who's the boss at the restaurant; Ross goes extra miles to date a gal from Poughkeepsie; Chandler plays matchmaker for Rachel.
 Watch for:
@@ -1904,7 +1904,7 @@ Watch for:
   - Ross: “Well, I-I want to give her another chance, y’know? She lives so close. And, at the end of the date, the other time, she-she said something that was—if she was kidding was very funny.…”
 
 ## S4 E11 — The One With Phoebe’s Uterus
-URL: https://watchwithkids.vercel.app/ep/friends/0411.html
+URL: https://watchwiththekids.com/ep/friends/0411.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: In lieu of a gift, newlyweds Frank Jr. and Alice ask Phoebe to be a surrogate mother for their child; Ross breaks an unwritten rule at the museum.
 Watch for:
@@ -1927,7 +1927,7 @@ Watch for:
   - Phoebe Sr: “Hey! Okay! Well thanks for coming out to see me. I just-I just thought it would be a very good idea to talk about this baby stuff in person. Y’know…”
 
 ## S4 E12 — The One With The Embryos
-URL: https://watchwithkids.vercel.app/ep/friends/0412.html
+URL: https://watchwiththekids.com/ep/friends/0412.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe undergoes in-vitro fertilization; Monica and Rachel go up against Joey and Chandler to determine which pair know the other better.
 Watch for:
@@ -1942,7 +1942,7 @@ Watch for:
   - Frank: “I know! Why don’t you get drunk! That worked for a lot of girls in my high school.”
 
 ## S4 E13 — The One With Rachel’s Crush
-URL: https://watchwithkids.vercel.app/ep/friends/0413.html
+URL: https://watchwiththekids.com/ep/friends/0413.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Kathy's sexy role in a play irks Chandler; personal-shopper Rachel develops a crush on a client.
 Watch for:
@@ -1983,7 +1983,7 @@ Watch for:
   - Chandler: “Steps! (He opens the door to his apartment to Ross and Joey looking at the new Playboy) Slut! (Ross and Joey quickly hide the Playboy behind their backs.…”
 
 ## S4 E14 — The One With Joey’s Dirty Day
-URL: https://watchwithkids.vercel.app/ep/friends/0414.html
+URL: https://watchwiththekids.com/ep/friends/0414.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Joey doesn't smell too good when he's about to appear in a Charlton Heston movie; Rachel asks Ross to entertain her boss's niece so she can be with Joshua; the girls join heartbroken Chandler at a strip joint.
 Watch for:
@@ -2037,7 +2037,7 @@ Watch for:
   - Scene: Chandler and Joey's, erm, Monica and Rachel's, Chandler is there and is getting ready to direct a bunch of strippers, Monica, Rachel, and Phoebe on what to do in the upcoming orgy of lesbian lust.…
 
 ## S4 E15 — The One With All The Rugby
-URL: https://watchwithkids.vercel.app/ep/friends/0415.html
+URL: https://watchwiththekids.com/ep/friends/0415.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross plays rugby to impress Emily; to escape Janice, Chandler claims he's being transferred; Monica obsesses over a useless switch.
 Watch for:
@@ -2051,7 +2051,7 @@ Watch for:
   - Chandler: “(standing in the door of the fridge) Well, I don’t have to break up with her this time. We’re not involved! I’m going to do a pre-emptive strike! I’m going to end it with her before it starts.…”
 
 ## S4 E16 — The One With The Fake Party
-URL: https://watchwithkids.vercel.app/ep/friends/0416.html
+URL: https://watchwiththekids.com/ep/friends/0416.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel throws an impromptu going-away party for Emily to lure Joshua into a social setting; pregnant vegetarian Phoebe craves meat.
 Watch for:
@@ -2085,7 +2085,7 @@ Watch for:
   - Scene: The hallway, Ross is sitting on the step drinking a beer as Rachel comes out of the guys apartment.
 
 ## S4 E17 — The One With The Free Porn
-URL: https://watchwithkids.vercel.app/ep/friends/0417.html
+URL: https://watchwiththekids.com/ep/friends/0417.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Ross pursues his romance with Emily; Phoebe learns she's having triplets; the boys get free adult TV.
 Watch for:
@@ -2119,7 +2119,7 @@ Watch for:
   - Mr. Treeger: “What in the name of hell?”
 
 ## S4 E18 — The One With Rachel’s New Dress
-URL: https://watchwithkids.vercel.app/ep/friends/0418.html
+URL: https://watchwiththekids.com/ep/friends/0418.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel gears up for a night of romance with Joshua; Ross fears Emily is getting too chummy with Susan; Phoebe names one of the triplets.
 Watch for:
@@ -2141,7 +2141,7 @@ Watch for:
   - Rachel: “What—yeah—what, y’know what? I hope Emily is a lesbian.”
 
 ## S4 E19 — The One With All The Haste
-URL: https://watchwithkids.vercel.app/ep/friends/0419.html
+URL: https://watchwiththekids.com/ep/friends/0419.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross proposes to Emily; Rachel and Monica demand their apartment back from the guys.
 Watch for:
@@ -2162,7 +2162,7 @@ Watch for:
   - Ross: “Yeah, I know, so what? I mean, who’s-who’s to say? Does that me we-we can’t do it? Look, huh, I was with Carol for four years before we got married and I wound up divorced from a pregnant lesbian.…”
 
 ## S4 E20 — The One With All the Wedding Dresses
-URL: https://watchwithkids.vercel.app/ep/friends/0420.html
+URL: https://watchwiththekids.com/ep/friends/0420.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica tries on Emily's wedding dress; Ross's plans affect Rachel and Joshua; Chandler insists Joey get help for his snoring.
 Watch for:
@@ -2176,7 +2176,7 @@ Watch for:
   - Time lapse, all three girls are now wearing wedding dresses, eating popcorn, drinking beer, and watching TV.
 
 ## S4 E21 — The One With The Invitation
-URL: https://watchwithkids.vercel.app/ep/friends/0421.html
+URL: https://watchwiththekids.com/ep/friends/0421.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: In a clip show, Rachel receives her invitation to Ross and Emily's wedding.
 Watch for:
@@ -2200,7 +2200,7 @@ Watch for:
   - Scene, A Restaurant, Rachel is on her date, drunk, and is leaving that answering machine message.
 
 ## S4 E22 — The One With The Worst Best Man Ever
-URL: https://watchwithkids.vercel.app/ep/friends/0422.html
+URL: https://watchwiththekids.com/ep/friends/0422.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Best man Joey loses Ross's heirloom ring; pregnant Phoebe has mood swings.
 Watch for:
@@ -2237,7 +2237,7 @@ Watch for:
   - Phoebe: “I know. It’s just y’know usually when you’re, when you’re done with the pregnant thing, y’know, then you get to do the mom thing. I’m gonna be y’know, sitting around in my leather pants, drinking Tequila.”
 
 ## S4 E23 — The One With Ross’s Wedding Parts I and II
-URL: https://watchwithkids.vercel.app/ep/friends/0423.html
+URL: https://watchwiththekids.com/ep/friends/0423.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: London's the location for Ross and Emily's wedding, but back at home, Rachel realizes that she still loves the groom-to-be.
 Watch for:
@@ -2281,7 +2281,7 @@ Watch for:
   - Mrs. Geller: “There’s nothing to discuss. We’re not paying for your wine cellar.”
 
 ## S5 E1 — The One After Ross Says Rachel
-URL: https://watchwithkids.vercel.app/ep/friends/0501.html
+URL: https://watchwiththekids.com/ep/friends/0501.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross and Rachel cope with the ramifications of Ross saying "Rachel" instead of "Emily" during his wedding vows; Monica and Chandler are still hot for each other.
 Watch for:
@@ -2309,7 +2309,7 @@ Watch for:
   - Mrs. Geller: “(To Mr. Geller) This is worse than when he married the lesbian.”
 
 ## S5 E2 — The One With All The Kissing
-URL: https://watchwithkids.vercel.app/ep/friends/0502.html
+URL: https://watchwiththekids.com/ep/friends/0502.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel wants to tell Ross that she still loves him; Chandler must kiss Rachel and Phoebe to cover up a kiss with Monica; Phoebe's water breaks.
 Watch for:
@@ -2337,7 +2337,7 @@ Watch for:
   - Joey: “That was good beer.”
 
 ## S5 E3 — The One Hundredth
-URL: https://watchwithkids.vercel.app/ep/friends/0503.html
+URL: https://watchwiththekids.com/ep/friends/0503.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe's pregnancy comes to fruition; Monica and Chandler have their first fight.
 Watch for:
@@ -2358,7 +2358,7 @@ Watch for:
   - Frank: “I can't believe there's somebody coming out of you right now. There's somebody coming out of you! Is it? Is it? It's my son.”
 
 ## S5 E4 — The One Where Phoebe Hates PBS
-URL: https://watchwithkids.vercel.app/ep/friends/0504.html
+URL: https://watchwiththekids.com/ep/friends/0504.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe reveals her hatred of PBS; Emily tells Ross she'll see him again---if he stops seeing Rachel.
 Watch for:
@@ -2376,7 +2376,7 @@ Watch for:
   - Scene: Monica and Rachel's, later that day. Monica is coming out of the bathroom carrying her cleaning gear.
 
 ## S5 E5 — The One With All the Kips
-URL: https://watchwithkids.vercel.app/ep/friends/0505.html
+URL: https://watchwiththekids.com/ep/friends/0505.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica and Chandler plan a weekend getaway; Ross has to tell Rachel that to save his marriage he can't see her anymore.
 Watch for:
@@ -2401,7 +2401,7 @@ Watch for:
   - Joey: “Y'know, I-I don't even feel like I know you anymore man! All right, look, I'm just gonna ask you this one time. And whatever you say, I'll believe ya. (Pause.) Were you, or were you not on a gay cruise?!”
 
 ## S5 E6 — The One With The Yeti
-URL: https://watchwithkids.vercel.app/ep/friends/0506.html
+URL: https://watchwiththekids.com/ep/friends/0506.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Emily's demands regarding Rachel weigh on Ross; Rachel and Monica encounter a hairy, beastlike man; Phoebe receives a fur coat.
 Watch for:
@@ -2415,7 +2415,7 @@ Watch for:
   - Ross: “Unreasonable? How about we have this conversation when one of you guys gets married! You have no idea what it takes to make a marriage work! All right, it's about compromise! Do you always like it? No!…”
 
 ## S5 E7 — The One Where Ross Moves In
-URL: https://watchwithkids.vercel.app/ep/friends/0507.html
+URL: https://watchwiththekids.com/ep/friends/0507.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Ross moves in with the boys; Phoebe dates a health inspector; Rachel plays hard to get for Danny, who's oblivious.
 Watch for:
@@ -2431,7 +2431,7 @@ Watch for:
   - The apartment manager hung up on him and he hangs up the phone and throws in on the chair. Joey motions, "What the hell was that?" Chandler makes a face to say, "Think about it." Joey tries to divide 136 by 13; he's…
 
 ## S5 E8 — The One With The Thanksgiving Flashbacks
-URL: https://watchwithkids.vercel.app/ep/friends/0508.html
+URL: https://watchwiththekids.com/ep/friends/0508.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: The gang reflects on bad Thanksgivings---and the biggest turkey belongs to Monica, who recalls her first encounter with Chandler.
 Watch for:
@@ -2463,7 +2463,7 @@ Watch for:
   - Big Nosed Rachel: “Guess what?! All that stuff about Nancy Branson being a slut was all a rumor so Chip dumped her and he wants to come over to my house tonight!”
 
 ## S5 E9 — The One With Ross's Sandwich
-URL: https://watchwithkids.vercel.app/ep/friends/0509.html
+URL: https://watchwiththekids.com/ep/friends/0509.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross loses it when someone eats his sandwich at work; keeping up appearances for Monica and Chandler makes Joey look bad; Phoebe and Rachel take a lit class.
 Watch for:
@@ -2495,7 +2495,7 @@ Watch for:
   - Joey: “Well, get ready to come out of the non-gay closet!”
 
 ## S5 E10 — The One With The Inappropriate Sister
-URL: https://watchwithkids.vercel.app/ep/friends/0510.html
+URL: https://watchwiththekids.com/ep/friends/0510.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Danny's close relationship with his sister (Julie Lauren) bothers Rachel; Ross urges Joey to write a script; Phoebe collects for holiday charity on a street corner.
 Watch for:
@@ -2515,7 +2515,7 @@ Watch for:
   - Estelle: “Well, you’re just going to say no again but...gay porn.”
 
 ## S5 E11 — The One With All The Resolutions
-URL: https://watchwithkids.vercel.app/ep/friends/0511.html
+URL: https://watchwiththekids.com/ep/friends/0511.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel's New Year's resolution not to gossip is tested when she discovers Monica and Chandler's romance.
 Watch for:
@@ -2543,7 +2543,7 @@ Watch for:
   - Ross: “All right, I'm coming out. Hey, can you turn the lights off.”
 
 ## S5 E12 — The One With Chandler's Work Laugh
-URL: https://watchwithkids.vercel.app/ep/friends/0512.html
+URL: https://watchwiththekids.com/ep/friends/0512.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica meets "Work Chandler"; Ross gets together with Janice.
 Watch for:
@@ -2567,7 +2567,7 @@ Watch for:
   - Chandler: “(from his bedroom) All right, so you're telling me that I have to tell racist jokes now?!”
 
 ## S5 E13 — The One With Joey's Bag
-URL: https://watchwithkids.vercel.app/ep/friends/0513.html
+URL: https://watchwiththekids.com/ep/friends/0513.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe meets Frank Sr. (Bob Balaban) at her grandma's funeral; Joey gets attached to a bag that's like a purse.
 Watch for:
@@ -2584,7 +2584,7 @@ Watch for:
   - Ross: “Well, but aren't you pissed at him?! I mean this guy abandoned you! I gotta tell you if this were me, this guy would be in some serious physical danger!…”
 
 ## S5 E14 — The One Where Everyone Finds Out
-URL: https://watchwithkids.vercel.app/ep/friends/0514.html
+URL: https://watchwiththekids.com/ep/friends/0514.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe finds out about Monica and Chandler's romance; Ross plans to rent Ugly Naked Guy's apartment.
 Watch for:
@@ -2625,7 +2625,7 @@ Watch for:
   - She makes a big show out of pulling out the cork and pours the wine.
 
 ## S5 E15 — The One With The Girl Who Hits Joey
-URL: https://watchwithkids.vercel.app/ep/friends/0515.html
+URL: https://watchwiththekids.com/ep/friends/0515.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler freaks out over the subject of marriage to Monica; Joey's girlfriend throws playful, but painful, punches; Ross alienates his new neighbors.
 Watch for:
@@ -2651,7 +2651,7 @@ Watch for:
   - Phoebe: “All right, everyone calm down! Everyone calm down! I have something that I would like to say! Who here likes Ross? (Ross is the only one who raises his hand and Phoebe glares at him to put his hand back down.) Of…”
 
 ## S5 E16 — The One With A Cop
-URL: https://watchwithkids.vercel.app/ep/friends/0516.html
+URL: https://watchwiththekids.com/ep/friends/0516.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe finds a police badge; Joey has a romantic dream about Monica; Rachel helps Ross move his new couch.
 Watch for:
@@ -2671,7 +2671,7 @@ Watch for:
   - Cop: “Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen.”
 
 ## S5 E17 — The One With Rachel's Inadvertant Kiss
-URL: https://watchwithkids.vercel.app/ep/friends/0517.html
+URL: https://watchwiththekids.com/ep/friends/0517.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel makes an awkward move during a job interview; Monica and Chandler compete with Phoebe and Gary to be the hotter couple.
 Watch for:
@@ -2704,7 +2704,7 @@ Watch for:
   - Rachel: “(stopping him) Wh-whoa! All right, okay-okay, I see, I see what's going on here! Now listen, look-look, I'm sorry if I gave you the wrong impression, but I am not some hussy who will just sleep around to get ahead!…”
 
 ## S5 E18 — The One Where Rachel Smokes
-URL: https://watchwithkids.vercel.app/ep/friends/0518.html
+URL: https://watchwiththekids.com/ep/friends/0518.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel takes up smoking for work reasons; Joey angles into an audition involving Ross's son, Ben.
 Watch for:
@@ -2720,7 +2720,7 @@ Watch for:
   - Phoebe: “Oh wait, I change my mind! (She slams the door on them.) Okay, let's talk about the party! I have so many ideas! (Holds up a cocktail napkin.)”
 
 ## S5 E19 — The One Where Ross Can't Flirt
-URL: https://watchwithkids.vercel.app/ep/friends/0519.html
+URL: https://watchwiththekids.com/ep/friends/0519.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross's flirting with the pizza-delivery girl falls flat; Joey's scene in a TV crime drama is cut.
 Watch for:
@@ -2739,7 +2739,7 @@ Watch for:
   - Ross: “Meth-methane smells…”
 
 ## S5 E20 — The One With The Ride Along
-URL: https://watchwithkids.vercel.app/ep/friends/0520.html
+URL: https://watchwiththekids.com/ep/friends/0520.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: The boys ride along with Gary (Michael Rapaport); Monica and Rachel overhear bride-to-be Emily's urgent phone message to Ross.
 Watch for:
@@ -2759,7 +2759,7 @@ Watch for:
   - Chandler: “Y'know, when you say partner it doesn't sound cop. It, it sounds gay.”
 
 ## S5 E21 — The One With The Ball
-URL: https://watchwithkids.vercel.app/ep/friends/0521.html
+URL: https://watchwiththekids.com/ep/friends/0521.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Gary (Michael Rapaport) asks Phoebe to live with him; a game of catch goes on for hours; Rachel buys an expensive cat.
 Watch for:
@@ -2777,7 +2777,7 @@ Watch for:
   - Scene: Central Perk, Phoebe is drinking coffee as Chandler enters.
 
 ## S5 E22 — The One With Joey's Big Break
-URL: https://watchwithkids.vercel.app/ep/friends/0522.html
+URL: https://watchwiththekids.com/ep/friends/0522.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey is cast in an independent film to be shot in the desert outside Las Vegas; Phoebe's angry with Ross.
 Watch for:
@@ -2800,7 +2800,7 @@ Watch for:
   - Phoebe: “Oh no, I am mad at you. I know that much. But, I am sorry about the fat ass thing. You actually have a very sweet little hiney.”
 
 ## S5 E23 — The One In Vegas
-URL: https://watchwithkids.vercel.app/ep/friends/0523.html
+URL: https://watchwiththekids.com/ep/friends/0523.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Chandler and Monica celebrate their first anniversary; the gang goes to Vegas to visit Joey; Chandler finds out about Monica's lunch with Richard.
 Watch for:
@@ -2841,7 +2841,7 @@ Watch for:
   - Scene: Monica and Rachel's, Rachel is coming out of the bathroom after a shower wearing only her bath robe, walks into the kitchen, and opens the fridge.…
 
 ## S6 E1 — The One After Vegas
-URL: https://watchwithkids.vercel.app/ep/friends/0601.html
+URL: https://watchwiththekids.com/ep/friends/0601.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross and Rachel experience the world's worst hangover when they realize they've gotten married. Chandler and Monica back away from their own altar plans. Phoebe and Joey head back to New York in the taxi cab.
 Watch for:
@@ -2863,7 +2863,7 @@ Watch for:
   - Chandler: “Look, I just don’t think Monica and I are ready to get married yet! Y’know? I mean, I love her and everything but seeing Ross and Rachel coming out of that chapel was like a, like a wake-up call that Monica and I are…”
 
 ## S6 E2 — The One Where Ross Hugs Rachel
-URL: https://watchwithkids.vercel.app/ep/friends/0602.html
+URL: https://watchwiththekids.com/ep/friends/0602.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Monica and Chandler decide to move in together, leading Rachel to believe that all three of them will be roommates, and Monica doesn't want to tell her the truth. Meanwhile, Ross tries to keep Rachel from learning that their marriage hasn't been annulled.
 Watch for:
@@ -2884,7 +2884,7 @@ Watch for:
   - Phoebe: “But then we ditch those two and that’s when we get married. We’ll have Chandler’s money and Rachel’s kids and getting custody will be easy because of Rachel’s drinking problem.”
 
 ## S6 E3 — The One With Ross’s Denial
-URL: https://watchwithkids.vercel.app/ep/friends/0603.html
+URL: https://watchwiththekids.com/ep/friends/0603.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica and Chandler disagree over how to redecorate Rachel's old room. Joey advertises for a "non ugly" roommate. Ross is unwilling to accept that he is still in love with Rachel.
 Watch for:
@@ -2902,7 +2902,7 @@ Watch for:
   - Scene: Central Perk, Ross is reading a magazine, eating a cookie, and drinking some coffee as Phoebe enters.
 
 ## S6 E4 — The One Where Joey Loses His Insurance
-URL: https://watchwithkids.vercel.app/ep/friends/0604.html
+URL: https://watchwiththekids.com/ep/friends/0604.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel prepares to move in with Ross. Ross is asked to give a lecture at NYU. Phoebe's psychic tells her that she will die before the end of the week. Joey discovers his SAG health insurance has lapsed due to his lack of work.
 Watch for:
@@ -2928,7 +2928,7 @@ Watch for:
   - Scene: Chandler and Joey's, Joey is holding a football helmet; and apparently, in a rather disgusting scene, Joey wants Phoebe to beat him senseless.…
 
 ## S6 E5 — The One With Joey’s Porsche
-URL: https://watchwithkids.vercel.app/ep/friends/0605.html
+URL: https://watchwiththekids.com/ep/friends/0605.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: The gang is mad at Ross. Joey tries to find the owner of a Porsche who left their keys in Central Perk. Monica and Chandler agree to baby-sit Frank and Alice's triplets for Phoebe. Rachel decides to move in with Phoebe.
 Watch for:
@@ -2948,7 +2948,7 @@ Watch for:
   - Ross: “Okay, I’m sorry, this is insane! I-I-I’m not addicted to heroin, I’m not gay, and there is no problem with my ability to consummate anything! Look, I’ll consummate this marriage right here, right now!”
 
 ## S6 E6 — The One The Last Night
-URL: https://watchwithkids.vercel.app/ep/friends/0606.html
+URL: https://watchwiththekids.com/ep/friends/0606.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Chandler and Monica are moving in with each other, which means Rachel is moving in with Phoebe, and Joey will be without a roommate. Meanwhile, Ross doesn't want to help with the packing so he stays at home with Ben, or so they think. Joey doesn't know how to live by himself, so Chandler decides to "lose" money to him in various games.
 Watch for:
@@ -2963,7 +2963,7 @@ Watch for:
   - Scene: Rachel’s bedroom, Rachel is entering carrying two glasses of wine. She gives one to Phoebe, keeps one, and completely ignores Monica.
 
 ## S6 E7 — The One Where Phoebe Runs
-URL: https://watchwithkids.vercel.app/ep/friends/0607.html
+URL: https://watchwiththekids.com/ep/friends/0607.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel and Phoebe decide to start running together, but Rachel is thrown off by the fact that Phoebe runs like a four-year-old. Joey finds a sexy new female roommate. Chandler decides to surprise Monica by cleaning the apartment, but forgets where everything goes. Ross tries to help him fix the apartment before Monica gets home.
 Watch for:
@@ -2985,7 +2985,7 @@ Watch for:
   - Janine: “Hey Joey, I got some beer for you.”
 
 ## S6 E8 — The One With Ross’s Teeth
-URL: https://watchwithkids.vercel.app/ep/friends/0608.html
+URL: https://watchwiththekids.com/ep/friends/0608.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross bleaches his teeth for a date with Monica's coworker. The only problem is that they now glow in the dark. Chandler convinces Joey that Janine is trying to take over his apartment. Phoebe makes out with the copy guy at Rachel's office. Rachel spreads rumors about Phoebe but her boss thinks that Rachel slept with Ralph Lauren.
 Watch for:
@@ -3010,7 +3010,7 @@ Watch for:
   - Chandler: “Yes, but I feel like I’ve really gotten in touch with my feminine side enough today. You know. In fact I think we’re two sachets away from becoming a lesbian couple.”
 
 ## S6 E9 — The One Where Ross Got High
-URL: https://watchwithkids.vercel.app/ep/friends/0609.html
+URL: https://watchwiththekids.com/ep/friends/0609.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Monica's parents come for Thanksgiving, which is a problem because, not only do they not like Chandler, they don't know where he's living. Rachel makes a dessert--with beef. Phoebe develops a crush on Mr. Geller. Joey and Ross can't wait for dinner to end so they can go to Janine's "Thanksgiving with models".
 Watch for:
@@ -3041,7 +3041,7 @@ Watch for:
   - Chandler: “(worried) He’s the headliner of a gay burlesque show.”
 
 ## S6 E10 — The One With The Routinue
-URL: https://watchwithkids.vercel.app/ep/friends/0610.html
+URL: https://watchwiththekids.com/ep/friends/0610.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Summary: Joey is beginning to like Janine more. She gets an invitation to dance on Dick Clark's New Year's Rockin' Eve and invites Joey, Monica, and Ross to join her. Monica and Ross are a little TOO happy. While Monica is at the taping, Rachel, Phoebe, and Chandler search for their Christmas presents.
 Watch for:
@@ -3069,7 +3069,7 @@ Watch for:
   - Chandler: “Ah, you’re still just a little fat girl inside aren’t you? (He kisses her on the cheek)”
 
 ## S6 E11 — The One With The Apothecary Table
-URL: https://watchwithkids.vercel.app/ep/friends/0611.html
+URL: https://watchwiththekids.com/ep/friends/0611.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Rachel orders an apothecary table from Pottery Barn, which is a problem because Phoebe hates the mass-producing company. After Janine and Joey double date with Chandler and Monica, Janine tells Joey that she thinks the other two are boring. Ross buys a new apothecary table too, which causes problems for Rachel.
 Watch for:
@@ -3091,7 +3091,7 @@ Watch for:
   - Ross: “Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.”
 
 ## S6 E12 — The One With The Joke
-URL: https://watchwithkids.vercel.app/ep/friends/0612.html
+URL: https://watchwiththekids.com/ep/friends/0612.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Chandler and Ross fight over ownership of a joke published in Playboy. A wayward remark of Phoebe's leads to trouble between the girls and a broke Joey starts working at Central Perk.
 Watch for:
@@ -3102,7 +3102,7 @@ Watch for:
   - Rachel: “Oh, yeah, sure. I mean, like in the case of this young woman, she has lost her clothes, so she rides naked on the horse, she’s crying out, ‘Where are they, where are they?’”
 
 ## S6 E13 — The One With Rachel’s Sister
-URL: https://watchwithkids.vercel.app/ep/friends/0613.html
+URL: https://watchwiththekids.com/ep/friends/0613.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Joey gets in trouble for giving female customers free food at Central Perk. A sick Monica desperately tries to convince Chandler that she's not sick. After her father cuts her off, Rachel's sister Jill comes to town and Rachel talks Jill into asking Ross out.
 Watch for:
@@ -3122,7 +3122,7 @@ Watch for:
   - Rachel: “Ugh, she is a slut!”
 
 ## S6 E14 — The One Where Chandler Can’t Cry
-URL: https://watchwithkids.vercel.app/ep/friends/0614.html
+URL: https://watchwiththekids.com/ep/friends/0614.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Chandler admits that he hasn't cried since he was a child. Phoebe discovers that Ursula is starring in porno movies using her name. Rachel desperately tries to stop Ross and Jill from starting a relationship.
 Watch for:
@@ -3153,7 +3153,7 @@ Watch for:
   - Jill: “(To Ross) And you! I throw myself at you and you say no, how gay are you?”
 
 ## S6 E15-16 — The One That Could Have Been
-URL: https://watchwithkids.vercel.app/ep/friends/0615-0616.html
+URL: https://watchwiththekids.com/ep/friends/0615-0616.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Barry and Mindy's impending divorce prompts the gang to fantasize about what their lives might be like if they'd all taken different courses. Ross is still married to Carol, and Rachel is married to Barry, but fawning over famous soap star Joey Tribbiani. Monica is still fat and dating a doctor. Chandler is an aspiring writer and Phoebe is a Wall Street shark for Merrill Lynch. Carol and Ross decide to have a threesome to spice up their marriage. Rachel goes to Joey's and kisses him. Chandler and Monica have sex and end up together anyway. Susan meets Carol. Rachel catches Barry cheating.
 Watch for:
@@ -3210,7 +3210,7 @@ Watch for:
   - Monica: “Hey, check me out, I’m a slut!”
 
 ## S6 E17 — The One With The Unagi
-URL: https://watchwithkids.vercel.app/ep/friends/0617.html
+URL: https://watchwiththekids.com/ep/friends/0617.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey needs money for new headshots, and tries to enter a medical study. The only problem is that the study is for twins. Rachel and Phoebe are taking a self-defense class, but Ross tries to give them a lesson in Unagi instead. Chandler needs a homemade present for Monica's Valentine's Day present.
 Watch for:
@@ -3236,7 +3236,7 @@ Watch for:
   - Joey: “No-no! I used to get paid for all kinds of medical stuff, remember? Let’s see uh, well I don’t want to donate sperm again. (To Ross) I really prefer doing that at the home office y’know?…”
 
 ## S6 E18 — The One Where Ross Dates A Student
-URL: https://watchwithkids.vercel.app/ep/friends/0618.html
+URL: https://watchwiththekids.com/ep/friends/0618.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross gets his student evaluations and one student writes that he's hot. Even though it could cost him his job, he considers dating her. An ex-girlfriend of Chandler's from college is directing the new Al Pacino movie and Joey wants an audition. A fire starts in Phoebe and Rachel's apartment, forcing them to find temporary living spaces with Monica and Joey.
 Watch for:
@@ -3248,7 +3248,7 @@ Watch for:
   - Phoebe: “Oh, it’s bad. It’s really bad. The only thing in there that isn’t burned is an ass. Which I do not remember buying!”
 
 ## S6 E19 — The One With Joey’s Fridge
-URL: https://watchwithkids.vercel.app/ep/friends/0619.html
+URL: https://watchwiththekids.com/ep/friends/0619.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe and Monica & Chandler compete to get Rachel a date for a charity ball. Joey's fridge is broken and he tries to cajole his friends into helping him buy a new one. Elizabeth tells Ross her intention to visit Daytona Beach for spring break, making him nervous.
 Watch for:
@@ -3266,7 +3266,7 @@ Watch for:
   - Joey: “So what? I drove down, sold T-shirts, had a blast. And y’know who knows how to party? Drunk college chicks.”
 
 ## S6 E20 — The One With Mac and C.H.E.E.S.E.
-URL: https://watchwithkids.vercel.app/ep/friends/0620.html
+URL: https://watchwiththekids.com/ep/friends/0620.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey gets an audition for the lead character in a new TV show. When the audition is rescheduled, Chandler takes the message but forgets to tell Joey. Then the group recalls some of Joey's less-than-spectacular acting moments.
 Watch for:
@@ -3294,7 +3294,7 @@ Watch for:
   - Chandler: “(coming out from behind the door) I KNEW IT!!!!”
 
 ## S6 E21 — The One Where Ross Meets Elizabeth’s Dad
-URL: https://watchwithkids.vercel.app/ep/friends/0621.html
+URL: https://watchwiththekids.com/ep/friends/0621.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross asks his friends to keep him company when he meets Elizabeth's dad for the first time. Paul ends up hitting it off with Rachel. Phoebe decides to write "another" book, about Monica and Chandler. Joey may be fired from his sitcom when he has a fight with C.H.E.E.S.E.'s operator.
 Watch for:
@@ -3323,7 +3323,7 @@ Watch for:
   - Ross: “(coming out of the bedroom) Oh! Oh my God! I didn’t even see you!”
 
 ## S6 E22 — The One Where Paul’s The Man
-URL: https://watchwithkids.vercel.app/ep/friends/0622.html
+URL: https://watchwiththekids.com/ep/friends/0622.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: While visiting an art museum, Monica puts her name on a two-year waiting list to use the museum for a wedding. When Paul threatens to fire Ross if he doesn't stop seeing his daughter, Ross and Elizabeth take a trip up to her dad's mountain cabin. Unfortunately, Paul has the same idea and takes Rachel up to the cabin.
 Watch for:
@@ -3346,7 +3346,7 @@ Watch for:
   - Phoebe: “Don’t feel too sorry for me. At least my boyfriend isn’t gay.”
 
 ## S6 E23 — The One With The Ring
-URL: https://watchwithkids.vercel.app/ep/friends/0623.html
+URL: https://watchwiththekids.com/ep/friends/0623.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler and Phoebe shop for a ring for Monica. Chandler finds the perfect one but Phoebe accidentally lets it get away. Rachel wants Paul to open up, but he opens up a bit too much. Ross and Joey think that Chandler's mad at them because he's preoccupied with the ring.
 Watch for:
@@ -3361,7 +3361,7 @@ Watch for:
   - Rachel: “Well, you’re lucky you never met that bitch Sharon Majesky. Anyway, umm… The rest of you life, y’know? Any regrets?”
 
 ## S6 E24 — The One With The Proposal
-URL: https://watchwithkids.vercel.app/ep/friends/0624.html
+URL: https://watchwiththekids.com/ep/friends/0624.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler plans to propose to Monica at dinner, but his plans go awry when Richard shows up. Phoebe and Joey join Rachel at a charity auction.
 Watch for:
@@ -3389,7 +3389,7 @@ Watch for:
   - Rachel: “How is you drinking helping the kids?”
 
 ## S7 E1 — The One With Monica’s Thunder
-URL: https://watchwithkids.vercel.app/ep/friends/0701.html
+URL: https://watchwiththekids.com/ep/friends/0701.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Everybody toasts the engagement. Phoebe wants to be the musician at the wedding. Joey prepares for an audition where he must play a 19-year-old. After Chandler can't get it up for Monica, he worries about the consequences. Ross and Rachel debate a "bonus night", but Monica catches them kissing and thinks Rachel is trying to steal her night.
 Watch for:
@@ -3425,7 +3425,7 @@ Watch for:
   - Phoebe: “If you would’ve let me finish, it goes on to say that he’s probably not gay.”
 
 ## S7 E2 — The One With Rachel’s Book
-URL: https://watchwithkids.vercel.app/ep/friends/0702.html
+URL: https://watchwiththekids.com/ep/friends/0702.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Everybody begins planning for the wedding. Napping in Rachel's bed because the duck threw up in his, Joey discovers that Rachel has been reading a trashy romance novel. Phoebe moves her massage parlor in Ross's apartment. Monica's parents spent her wedding money on a beach house, but Chandler reveals he has enough saved for the wedding of Monica's dreams.
 Watch for:
@@ -3454,7 +3454,7 @@ Watch for:
   - Scene: Ross's apartment, Ross is coming out of the living room carrying his salad and a puzzle—beer! Cold beer. And he decides to fold up Phoebe’s massage table, but being Ross has trouble with it as there is a knock…
 
 ## S7 E3 — The One With Phoebe’s Cookies
-URL: https://watchwithkids.vercel.app/ep/friends/0703.html
+URL: https://watchwiththekids.com/ep/friends/0703.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel tries to teach Joey how to sail his boat but turns into an overbearing perfectionist. Chandler plays racquetball with Monica's father and accidentally sits on his lap in the steam room... while they're both naked. Monica tries desperately to reproduce Phoebe's grandmother's secret cookie recipe.
 Watch for:
@@ -3477,7 +3477,7 @@ Watch for:
   - Joey: “Oh, y’know what? Since I’m here, I think I’m gonna have me a little beer on the port side. (Grabs and opens one.)”
 
 ## S7 E4 — The One With Rachel’s Assistant
-URL: https://watchwithkids.vercel.app/ep/friends/0704.html
+URL: https://watchwiththekids.com/ep/friends/0704.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: While hiring a new assistant, Rachel is torn between hiring a much more qualified woman, or a handsome but inexperienced young man. Monica, Chandler and Ross engage in a war of secret sharing after Monica and Chandler vow to be more honest. Joey has problems when his TV show is cancelled after just one airing.
 Watch for:
@@ -3505,7 +3505,7 @@ Watch for:
   - Rachel: “(Pause) Yeah, she’s gay.”
 
 ## S7 E5 — The One With The Engagement Picture
-URL: https://watchwithkids.vercel.app/ep/friends/0705.html
+URL: https://watchwiththekids.com/ep/friends/0705.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: While taking an engagement picture for himself and Monica, Chandler cannot make anything but a weird face. Rachel enlists Joey to take Tag out for a night on the town. Phoebe and Ross date a couple in the middle of a divorce.
 Watch for:
@@ -3525,7 +3525,7 @@ Watch for:
   - Rachel: “Why? Is he? He is! Isn’t he? He’s dating that slut in marketing!”
 
 ## S7 E6 — The One With The Nap Partners
-URL: https://watchwithkids.vercel.app/ep/friends/0706.html
+URL: https://watchwiththekids.com/ep/friends/0706.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel and Phoebe compete to be Monica's maid-of-honor. Joey and Ross find themselves in awkward positions after a nap. Monica insists that Chandler apologize to an ex-girlfriend for dumping her because of a weight gain.
 Watch for:
@@ -3546,7 +3546,7 @@ Watch for:
   - Ross: “(playing the drunk uncle) When Monica was a little girl, I remember that—(Phoebe screams and tackles him)—Ooh!! Ow! Very good!”
 
 ## S7 E7 — The One With Ross’s Book
-URL: https://watchwithkids.vercel.app/ep/friends/0707.html
+URL: https://watchwiththekids.com/ep/friends/0707.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Rachel and Phoebe convince Joey to keep dating a girl that they like. However, the girls must decide whether to tell Joey when they find out that she's not interested in a serious relationship with him. Monica unintentionally invites Janice to her wedding. Ross is proud to find his thesis in the library but gets upset when he discovers it is in a section that is so deserted that students go there to make out.
 Watch for:
@@ -3561,7 +3561,7 @@ Watch for:
   - Phoebe: “Secret affair!”
 
 ## S7 E8 — The One Where Chandler Doesn’t Like Dogs
-URL: https://watchwithkids.vercel.app/ep/friends/0708.html
+URL: https://watchwiththekids.com/ep/friends/0708.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross drives himself insane when he can't name all 50 states in a simple game. Tag joins the gang for Thanksgiving dinner, where Joey accidentally spills the beans about Rachel's crush on him. Phoebe sneaks a dog into the apartment, making Chandler extremely nervous.
 Watch for:
@@ -3574,7 +3574,7 @@ Watch for:
   - Chandler: “Okay, I went over to Ross' apartment to bring back Clunkers. Y’know, for you, and…(Clears his throat) I left the door open and she must have gotten out and I looked everywhere, all over the apartment, including the…”
 
 ## S7 E9 — The One With All The Candy
-URL: https://watchwithkids.vercel.app/ep/friends/0709.html
+URL: https://watchwiththekids.com/ep/friends/0709.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: When Phoebe tells the gang about how she was too poor to have a bike as a child, Ross goes out and buys her one. Rachel writes a playful work evaluation of Tag that he accidentally turns in to human resources. Monica decides to make candy and leave it outside her door as a way to meet the neighbors.
 Watch for:
@@ -3601,7 +3601,7 @@ Watch for:
   - Chandler: “Get in here! (They head for the door and Chandler sees Smokes-A-Lot Lady standing next to the door and smoking, to her) Hey, and you can not smoke in here!…”
 
 ## S7 E10 — The One With the Holiday Armadillo
-URL: https://watchwithkids.vercel.app/ep/friends/0710.html
+URL: https://watchwiththekids.com/ep/friends/0710.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross's plans to teach Ben about Hanukkah are continually thwarted when the young boy can't get his mind off of Santa. Phoebe prepares to move back into her refurbished apartment, with or without Rachel. However, she'll stop at nothing to get Rachel to go with her, including buying Joey a drum set. Monica is mystified by Chandler's inability to tip properly.
 Watch for:
@@ -3614,7 +3614,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S7 E11 — The One With All The Cheesecakes
-URL: https://watchwithkids.vercel.app/ep/friends/0711.html
+URL: https://watchwiththekids.com/ep/friends/0711.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Phoebe gets angry with Joey when he blows off dinner with her for a date. The tables are turned however when her scientist boyfriend David returns to town for one night -- the same night when she's scheduled to go to dinner with Joey. Monica is upset by her lack of invitation to a cousin's wedding, especially when she finds out that Ross was invited "with guest". Chandler accidentally gets a cheesecake delivered that was intended for another apartment. When he and Rachel start eating it, they are unable to stop and refuse to give it back.
 Watch for:
@@ -3636,7 +3636,7 @@ Watch for:
   - Ross: “Hey Joe, while you’re over there how about another beer for the Ross-A-Tron?”
 
 ## S7 E12 — The One Where They’re Up All Night
-URL: https://watchwithkids.vercel.app/ep/friends/0712.html
+URL: https://watchwiththekids.com/ep/friends/0712.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross assembles the gang on the roof to watch a meteor shower. They all decide to leave, however, Ross becomes trapped on the roof with Joey; the two try to escape using the fire escape. Rachel and Tag argue over which one of them forgot to send a package at work. Phoebe's fire alarm won't stop beeping. Chandler and Monica can't seem to fall asleep together, so they keep waking each other up.
 Watch for:
@@ -3656,7 +3656,7 @@ Watch for:
   - Joey: “Man, I’m starving! What the hell was I thinking at dinner?! "Do you want soup or salad?" Both! Always order both!”
 
 ## S7 E13 — The One Where Rosita Dies
-URL: https://watchwithkids.vercel.app/ep/friends/0713.html
+URL: https://watchwiththekids.com/ep/friends/0713.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: In an attempt to make up for her slow massage business, Phoebe takes a job as a telemarketer for an office supply company. When her first call is to a despondent office manager, she takes it upon herself to convince him to not kill himself. Monica and Ross discover that their parents are selling their house. While attempting to re-arrange the furniture, Rachel breaks Joey's favorite chair (that he's named Rosita).
 Watch for:
@@ -3676,7 +3676,7 @@ Watch for:
   - Rachel: “(grabbing a beer out of the chair’s fridge) I am so psyched I kept this chair for myself!”
 
 ## S7 E14 — The One Where They All Turn Thirty
-URL: https://watchwithkids.vercel.app/ep/friends/0714.html
+URL: https://watchwiththekids.com/ep/friends/0714.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: When Rachel turns 30, the gang reminisces about their 30th birthdays. While trying to patch things up with Ursula, Phoebe discovers that she is 31. Ross buys a sports car to look cool. Monica gets drunk in front of her parents.
 Watch for:
@@ -3713,7 +3713,7 @@ Watch for:
   - Flashback to Monica and Chandler’s apartment. Chandler has a bunch of people over in formal wear to give Monica a surprise birthday party. Joey is coming out of the bathroom and removing his tie.
 
 ## S7 E15 — The One With Joey’s New Brain
-URL: https://watchwithkids.vercel.app/ep/friends/0715.html
+URL: https://watchwiththekids.com/ep/friends/0715.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross plans a surprise for Monica and Chandler's wedding -- he wants to play the bagpipes. Dr. Drake Ramoray is coming out of his coma on Days of Our Lives. A diva will be killed off and her character's brain will be transplanted into Drake's. Phoebe and Rachel fight over a guy who left his cell phone in Central Perk.
 Watch for:
@@ -3746,7 +3746,7 @@ Watch for:
   - Rachel: “(They both look behind them.) Well, I'd have to say gay.”
 
 ## S7 E16 — The One With The Truth About London
-URL: https://watchwithkids.vercel.app/ep/friends/0716.html
+URL: https://watchwiththekids.com/ep/friends/0716.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler becomes upset after learning that Monica only came to his room in London looking for Joey on the first night they were together. Joey is ordained as a minister through the Internet so that he can officiate the wedding. Phoebe becomes upset after taking headache medicine. Ross becomes upset after a baby-sitting Rachel teaches Ben how to play pranks.
 Watch for:
@@ -3788,7 +3788,7 @@ Watch for:
   - Rachel: “Carol…Lesbian?”
 
 ## S7 E17 — The One With The Cheap Wedding Dress
-URL: https://watchwithkids.vercel.app/ep/friends/0717.html
+URL: https://watchwiththekids.com/ep/friends/0717.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Monica regrets telling a woman about a discount bridal shop when they end up fighting over the same dress. Meanwhile, Joey and Ross discover that they're dating the same girl.
 Watch for:
@@ -3801,7 +3801,7 @@ Watch for:
   - Joey: “No. It just seems like Ross is the kind of a guy that would marry a woman on the verge of being a lesbian and then push her over the edge.”
 
 ## S7 E18 — The One With Joey’s Award
-URL: https://watchwithkids.vercel.app/ep/friends/0718.html
+URL: https://watchwiththekids.com/ep/friends/0718.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey is nominated for a Soapie Award, and will go to any length to get the award. He loses, but he steals a trophy from one of his co-stars (Jessica) who doesn't appreciate the award. One of Ross's students convinces him that he failed his midterm because he's in love with Ross. When a guy hits on Phoebe instead of her, Monica realises that Chandler is the only one left in her life to kiss, sleep with, and so on.
 Watch for:
@@ -3822,7 +3822,7 @@ Watch for:
   - Scene: Central Perk, Monica and Phoebe are drinking coffee and Phoebe notices a cute guy checking them out.
 
 ## S7 E19 — The One With Ross and Monica’s Cousin
-URL: https://watchwithkids.vercel.app/ep/friends/0719.html
+URL: https://watchwiththekids.com/ep/friends/0719.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey auditions for a big movie role which will require him to appear naked. A problem arises, however, when the part calls for an uncircumcised man. Rachel and Phoebe plan Monica's wedding shower at the last minute. Ross and Monica's cousin visits and Ross becomes attracted to her for some reason.
 Watch for:
@@ -3854,7 +3854,7 @@ Watch for:
   - She lets her hair down and whips her hair around in Baywatch-esque slow motion with a Barry White song in the background. Chandler needless to say can’t help but stare along with the rest of the male and lesbian…
 
 ## S7 E20 — The One With Rachel’s Big Kiss
-URL: https://watchwithkids.vercel.app/ep/friends/0720.html
+URL: https://watchwiththekids.com/ep/friends/0720.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel's friend, Melissa, from college shows up at the coffee house which brings back memories of their "closer" days. Then when Melissa can't remember that special night in their senior year, Rachel goes to great lengths to prove to Phoebe that there was really a kiss. Meanwhile, Chandler and Ross argue for possession of Val Kilmer's tuxedo. Also, Joey drives Monica crazy when he insists that the wedding be arranged around his parents' schedule.
 Watch for:
@@ -3883,7 +3883,7 @@ Watch for:
   - Rachel: “I’m not saying that I’m a lesbian! I’m just saying that this happened!”
 
 ## S7 E21 — The One With The Vows
-URL: https://watchwithkids.vercel.app/ep/friends/0721.html
+URL: https://watchwiththekids.com/ep/friends/0721.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: With four weeks left before the wedding, Chandler and Monica are faced with the issue of their wedding vows. With each person dealing with their own problems in writing the vows, they turn to memories of past events to help them.
 Watch for:
@@ -3915,7 +3915,7 @@ Watch for:
   - Phoebe: “Well let’s just say its she’s lucky she has a sweet ass, ‘cause she’s not so good at the writing.”
 
 ## S7 E22 — The One With Chandler’s Dad
-URL: https://watchwithkids.vercel.app/ep/friends/0722.html
+URL: https://watchwiththekids.com/ep/friends/0722.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica's Porsche shows up again, and becomes a conflict when Rachel finds out she is the only one who hasn't driven it. Meanwhile, Chandler and Monica travel to Vegas to find Chandler's dad and invite him (or her) to the wedding. Back at home, Joey proves his masculinity to Phoebe, while Ross and Rachel hit the freeway in the "bad boy".
 Watch for:
@@ -3944,7 +3944,7 @@ Watch for:
   - Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S7 E23 — The One With Chandler and Monica’s Wedding
-URL: https://watchwithkids.vercel.app/ep/friends/0723.html
+URL: https://watchwiththekids.com/ep/friends/0723.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica and Chandler prepare for their wedding. During the rehearsal dinner with their families, Chandler's tie get's tighter and tighter until he can't take it anymore and he disappears. Meanwhile, Joey is starring in a movie with a prestigious actor with a spitting problem.
 Watch for:
@@ -3985,7 +3985,7 @@ Watch for:
   - Rachel: “No Monica! I’m serious! Oh, maybe I should just forget about it. Become a lesbian or something.”
 
 ## S7 Especial — Friends: The Stuff You’ve Never Seen
-URL: https://watchwithkids.vercel.app/ep/friends/07outtakes.html
+URL: https://watchwiththekids.com/ep/friends/07outtakes.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Summary: Episode: Friends: The Stuff You’ve Never Seen.
 Watch for:
@@ -4013,7 +4013,7 @@ Watch for:
   - Cut to Monica and Chandler's, Courtney is dancing in the fat suit and after shaking her groove thing sits down in exhaustion.
 
 ## S8 E1 — The One After "I Do"
-URL: https://watchwithkids.vercel.app/ep/friends/0801.html
+URL: https://watchwiththekids.com/ep/friends/0801.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Everybody thinks Monica's pregnant, but her denial quickly shifts the focus to Phoebe, taking the heat off of Rachel. Chandler's shoes are slippery, rendering his dance lessons useless. Joey tries to impress a Broadway director. Ross dances with children to impress a woman.
 Watch for:
@@ -4032,7 +4032,7 @@ Watch for:
   - Fat Girl: Gert!
 
 ## S8 E2 — The One With The Red Sweater
-URL: https://watchwithkids.vercel.app/ep/friends/0802.html
+URL: https://watchwiththekids.com/ep/friends/0802.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel won't tell anybody who the father of her baby is until she tells him. Joey tells Monica and Phoebe that a guy slept with Rachel a few weeks earlier, and left a red sweater behind. Ross and Chandler attempt to recreate the wedding pictures, after Chandler loses the disposable cameras. Monica opens all of her and Chandler's wedding presents.
 Watch for:
@@ -4060,7 +4060,7 @@ Watch for:
   - They follow him and meet him in the hall coming out of his apartment carrying a sweater.
 
 ## S8 E3 — The One Where Rachel Tells…
-URL: https://watchwithkids.vercel.app/ep/friends/0803.html
+URL: https://watchwiththekids.com/ep/friends/0803.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler and Monica prepare to leave for their honeymoon as Rachel prepares to tell the father of her baby. Phoebe and Joey try to get into Monica and Chandler's apartment.
 Watch for:
@@ -4079,7 +4079,7 @@ Watch for:
   - Monica: “Yeah, but I’m the only one related by blood.”
 
 ## S8 E4 — The One With The Videotape
-URL: https://watchwithkids.vercel.app/ep/friends/0804.html
+URL: https://watchwiththekids.com/ep/friends/0804.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross and Rachel disagree over who came onto whom when they hooked up. He wants to prove it and accidentally reveals that he has the encounter on videotape. Monica and Chandler meet another couple while on their honeymoon.
 Watch for:
@@ -4114,7 +4114,7 @@ Watch for:
   - Rachel: “(on tape) (Ross hands her a glass of wine) I cannot believe that I did this. Especially after Monica just went on and on and on about it! (Mimicking Monica) "Okay Rachel! Here are the invitations Rachel!…”
 
 ## S8 E5 — The One With Rachel’s Date
-URL: https://watchwithkids.vercel.app/ep/friends/0805.html
+URL: https://watchwiththekids.com/ep/friends/0805.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe begins dating a guy who works for Monica, causing a problem when Phoebe wants to dump him on the same day Monica plans to fire him. A guy at Chandler's work thinks that Chandler's name is Toby. Rachel goes on a date with Joey's costar, despite being pregnant, much to Ross' annoyance.
 Watch for:
@@ -4136,7 +4136,7 @@ Watch for:
   - Ross: “(entering with a pizza and beer) Hey!”
 
 ## S8 E6 — The One With The Halloween Party
-URL: https://watchwithkids.vercel.app/ep/friends/0806.html
+URL: https://watchwiththekids.com/ep/friends/0806.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica and Chandler are throwing a Halloween Party. At the party Phoebe runs into her sister's fiance, Eric, and finds herself attracted to him. Ross and Chandler arm wrestle. Rachel asks if she can be the person who hands out candy to the trick-or-treaters, claiming 'the strongest maternal instincts', only to find out she isn't as maternal as she thought.
 Watch for:
@@ -4158,7 +4158,7 @@ Watch for:
   - Ursula: “Yeah. It wasn’t a town when I got there, but it was a town when I left. (To Eric) Shall we get me really drunk?”
 
 ## S8 E7 — The One With The Stain
-URL: https://watchwithkids.vercel.app/ep/friends/0807.html
+URL: https://watchwiththekids.com/ep/friends/0807.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Chandler hires a maid, whom Monica suspects is stealing her clothing. Eric has broken up with Ursula and is ready to date Phoebe, except for one problem: he can't look at her without seeing Ursula. Ross tries to get Rachel an apartment in his building, but the woman living there isn't in a hurry to die.
 Watch for:
@@ -4190,7 +4190,7 @@ Watch for:
   - Brenda: “Look, I know it must be hard that your wife is a lesbian, but it’s wrong. You’re married.”
 
 ## S8 E8 — The One With The Stripper
-URL: https://watchwithkids.vercel.app/ep/friends/0808.html
+URL: https://watchwiththekids.com/ep/friends/0808.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Rachel prepares to have dinner with her dad and tell him that she's pregnant. Meanwhile, an unknowing Chandler discovers that Monica had a stripper at her bachelorette party, causing her to try to make it up, by getting him a stripper.
 Watch for:
@@ -4239,7 +4239,7 @@ Watch for:
   - Chandler: “All right Rock, Paper, Scissors who has to tell the whore to leave! (Joey smirks.) What?”
 
 ## S8 E9 — The One With The Rumor
-URL: https://watchwithkids.vercel.app/ep/friends/0809.html
+URL: https://watchwiththekids.com/ep/friends/0809.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica invites an old friend from high school over for Thanksgiving dinner, unaware that Will started a "We Hate Rachel" club with Ross. Meanwhile, Joey vows to eat an entire turkey by himself, and Chandler and Phoebe pretend to watch football to avoid helping in the kitchen.
 Watch for:
@@ -4257,7 +4257,7 @@ Watch for:
   - Ross: “Actually, Billy Tratt is gay now. So-so that one’s not really our fault.”
 
 ## S8 E10 — The One With Monica’s Boots
-URL: https://watchwithkids.vercel.app/ep/friends/0810.html
+URL: https://watchwiththekids.com/ep/friends/0810.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler is peeved when Monica splurges on an expensive pair of boots. Phoebe learns Ross' and Sting's children attend the same school, she angles to meet the celebrity and get concert tickets. When Joey's sister Dina tells him she is pregnant, he freaks out.
 Watch for:
@@ -4271,7 +4271,7 @@ Watch for:
   - Phoebe: “I am one of Ben’s mothers. I’m a lesbian. It was, it was difficult coming out to my parents.”
 
 ## S8 E11 — The One With Ross’ Big Step Forward
-URL: https://watchwithkids.vercel.app/ep/friends/0811.html
+URL: https://watchwiththekids.com/ep/friends/0811.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross starts to panic when Mona gets an idea to send out a holiday card for the two of them, thinking that their relationship is starting to move too fast. Chandler's newly divorced boss tries to get Monica and Chandler to come out to dinner with him, but Monica can't stand him. Rachel's hormones start acting up due to her pregnancy, causing her to hit on almost every guy she meets.
 Watch for:
@@ -4296,7 +4296,7 @@ Watch for:
   - Monica: “From the tequila factory?”
 
 ## S8 E12 — The One Where Joey Dates Rachel
-URL: https://watchwithkids.vercel.app/ep/friends/0812.html
+URL: https://watchwiththekids.com/ep/friends/0812.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe gets Monica and Chandler a Ms. Pacman arcade game for a wedding present, which leads to some heavy competition between Monica, Phoebe, and surprisingly, Chandler. Ross gets to teach an important class because of a retiring professor, but soon learns that its on the other side of town, and he doesn't have enough time to get there. Joey takes Rachel to dinner on a pretend date to make her feel better since she can't have a normal relationship due to her pregnancy.
 Watch for:
@@ -4324,7 +4324,7 @@ Watch for:
   - Rachel: “(laughs) Yeah, but I’m pretty sure he’s gay.”
 
 ## S8 E13 — The One Where Chandler Takes a Bath
-URL: https://watchwithkids.vercel.app/ep/friends/0813.html
+URL: https://watchwiththekids.com/ep/friends/0813.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Monica turns Chandler on to the concept of a bath to relax, complete with scented oils and candles. Ross and Rachel toss baby names back and forth while deciding whether to learn the baby's sex. Joey still likes Rachel, a fact that Monica, Chandler and Phoebe discover by a little detective work.
 Watch for:
@@ -4340,7 +4340,7 @@ Watch for:
   - greatest love affair of their lives! And they would have me to thank, and we could all
 
 ## S8 E14 — The One With The Secret Closet
-URL: https://watchwithkids.vercel.app/ep/friends/0814.html
+URL: https://watchwiththekids.com/ep/friends/0814.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe talks Monica into letting her give her a massage but becomes disconcerted when Monica begins making sexual noises. Joey dreams about being with Rachel and betraying Ross. Chandler realizes he's never seen what's in the closet by the bathroom and tries to break in. Rachel feels her baby kick for the first time.
 Watch for:
@@ -4365,7 +4365,7 @@ Watch for:
   - Scene: Joey and Rachel's, Joey is drinking a gallon of orange juice as Chandler enters.
 
 ## S8 E15 — 815 The Birthing Video
-URL: https://watchwithkids.vercel.app/ep/friends/0815.html
+URL: https://watchwiththekids.com/ep/friends/0815.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe tries to cheer up a depressed Joey by lending him the world's happiest dog. Ross has yet to tell Mona that Rachel's living with him. Monica and Chandler's romantic Valentine's Day is interrupted when they watch a videotape of Phoebe's friend giving birth.
 Watch for:
@@ -4399,7 +4399,7 @@ Watch for:
   - Chandler: “You know, it haunts me? Up ‘til now, the worst thing I ever saw, was my father doing tequila shots off the naked houseboy. After this, I would gladly make that my screensaver!”
 
 ## S8 E16 — The One Where Joey Tells Rachel
-URL: https://watchwithkids.vercel.app/ep/friends/0816.html
+URL: https://watchwiththekids.com/ep/friends/0816.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Ross has trouble understanding Joey's revelation, as does Gunther. However, he comes to his senses and convinces Joey to tell Rachel how he feels. Meanwhile, Phoebe meets Monica's soulmate.
 Watch for:
@@ -4411,7 +4411,7 @@ Watch for:
   - Don: “…so I’ve been slowly phasing out the wine importing and focusing more on the cheese side of things.”
 
 ## S8 E17 — The One With The Tea Leaves
-URL: https://watchwithkids.vercel.app/ep/friends/0817.html
+URL: https://watchwiththekids.com/ep/friends/0817.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Joey has been hiding from Rachel, so she invents a problem at work to draw him into conversation. Phoebe's tea leaves tell her that she's going to meet the man of her dreams, except that the man she meets is a nightmare. Ross tries to retrieve his favorite shirt from Mona's, interrupted when she returns home with a date.
 Watch for:
@@ -4428,7 +4428,7 @@ Watch for:
   - Mona: “(entering, with her date) I am so sorry I spilled wine all over your shirt.”
 
 ## S8 E18 — The One In Massapequa
-URL: https://watchwithkids.vercel.app/ep/friends/0818.html
+URL: https://watchwiththekids.com/ep/friends/0818.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Everybody prepares to go out to Long Island for the elder Gellers' 35th wedding anniversary party. Monica wants to write a toast to make everybody cry like Ross's toasts do. Ross and Rachel discover that his parents have told people they're married. Phoebe invites her new boyfriend, Parker, who is extremely enthusiastic.
 Watch for:
@@ -4445,7 +4445,7 @@ Watch for:
   - Chandler: “Ya know if you want to, I can just hold them down and you could (Punches the air).”
 
 ## S8 E19 — The One With Joey’s Interview
-URL: https://watchwithkids.vercel.app/ep/friends/0819.html
+URL: https://watchwiththekids.com/ep/friends/0819.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Joey prepares for an interview with Soap Opera Digest, although he's afraid of appearing stupid, so he enlists his friends to make sure things go well. During the interview, he reminisces about his past acting experiences, what he does in his spare time, eating and exercising right, his friends, his homosexual tendencies, and his romantic life.
 Watch for:
@@ -4478,7 +4478,7 @@ Watch for:
   - Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S8 E20 — The One With The Baby Shower
-URL: https://watchwithkids.vercel.app/ep/friends/0820.html
+URL: https://watchwiththekids.com/ep/friends/0820.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel panics when she realizes that she is not ready to take care of her baby, and reluctantly agrees for her mother to move in with her and Ross to help out. Monica tries desperately to get Mrs. Green to like her. Meanwhile, the guys help Joey practice for his audition as the host of a wild game show called "Bamboozled."
 Watch for:
@@ -4501,7 +4501,7 @@ Watch for:
   - Rachel: “Oh my gosh! Oh wow! Oh, I know what this is! (She’s holding an item with a large suction cup connected to a yellow plastic box, with a long narrow tube and bottle connected the yellow part.) Wait a minute.…”
 
 ## S8 E21 — The One With The Cooking Class
-URL: https://watchwithkids.vercel.app/ep/friends/0821.html
+URL: https://watchwiththekids.com/ep/friends/0821.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica's restaurant gets a bad review in the Post. After confronting the critic who wrote it, she decides to join a cooking class, with Joey in tow. Ross goes on a date with a clerk from a baby store, making Rachel jealous. Chandler prepares for a job interview after Phoebe tells him that he makes a bad first impression.
 Watch for:
@@ -4520,7 +4520,7 @@ Watch for:
   - Rachel: “Oh, it was great! We got everything that we needed! Oh and Ross, almost got something that wasn’t on the list. A whore.”
 
 ## S8 E22 — The One Where Rachel Is Late
-URL: https://watchwithkids.vercel.app/ep/friends/0822.html
+URL: https://watchwiththekids.com/ep/friends/0822.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: With the release of Joey's movie approaching, he must decide which friend to invite to the premiere. Unfortunately, his pick, Chandler, falls asleep during it. Monica and Phoebe bet on when the baby will be born as Rachel's due date comes and goes.
 Watch for:
@@ -4543,7 +4543,7 @@ Watch for:
   - Rachel: “Oh wow! What now Ross you’re not gonna talk? How on earth will you ever annoy me? Oh wait a minute, I know. (Mimics his breathing.) I mean you’d think the damn jalepeno would’ve cleared up your sinuses, but no!!…”
 
 ## S8 E23 — The One Where Rachel Has A Baby
-URL: https://watchwithkids.vercel.app/ep/friends/0823.html
+URL: https://watchwiththekids.com/ep/friends/0823.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel and Ross arrive at the hospital. Monica and Chandler decide to have a baby and right away. Mrs. Geller turns up to give Ross her mother's engagement ring; she wants Ross to marry Rachel. Joey can't understand why somebody wouldn't want to be married to Rachel. Phoebe meets a handsome stranger, but can't quite get his room number, so she gets Dr. Drake Ramoray to get it.
 Watch for:
@@ -4589,7 +4589,7 @@ Watch for:
   - Rachel: “Oh great! Suddenly she sounds like a biblical whore.”
 
 ## S9 E1 — The One Where No One Proposes
-URL: https://watchwithkids.vercel.app/ep/friends/0901.html
+URL: https://watchwiththekids.com/ep/friends/0901.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Because of a misunderstanding, Rachel finds herself engaged to Joey instead of Ross, who was planning to propose.
 Watch for:
@@ -4619,7 +4619,7 @@ Watch for:
   - Rachel: “Well then Joey, what the hell were you doing with an engagement ring?!”
 
 ## S9 E2 — The One Where Emma Cries
-URL: https://watchwithkids.vercel.app/ep/friends/0902.html
+URL: https://watchwiththekids.com/ep/friends/0902.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Somebody ends up in the hospital when Joey attempts to apologize to Ross for mistakenly asking Rachel to marry him.
 Watch for:
@@ -4641,7 +4641,7 @@ Watch for:
   - Monica: “Are you trying to tell me that we’re moving to Oklahoma, or that you’re gay? All right, not that this matters, but did they at least offer you a huge raise?”
 
 ## S9 E3 — 903 - The One With The Pediatrician
-URL: https://watchwithkids.vercel.app/ep/friends/0903.html
+URL: https://watchwiththekids.com/ep/friends/0903.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel's constant calls to Emma's pediatrician force him to reject her as a patient.
 Watch for:
@@ -4660,7 +4660,7 @@ Watch for:
   - Joey: “Please, we're trying to have a conversation. (Pushes the wine glass closer to Mary Ellen.)”
 
 ## S9 E4 — 904 - The One With The Sharks
-URL: https://watchwithkids.vercel.app/ep/friends/0904.html
+URL: https://watchwiththekids.com/ep/friends/0904.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Phoebe fears losing Mike, and her self-doubt is exacerbated by Ross' foolish comments.
 Watch for:
@@ -4694,7 +4694,7 @@ Watch for:
   - Monica: “: Im very, very drunk right now.”
 
 ## S9 E5 — 905 - The One With Phoebe�s Birthday Dinner
-URL: https://watchwithkids.vercel.app/ep/friends/0905.html
+URL: https://watchwiththekids.com/ep/friends/0905.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel is afraid to leave Emma with a babysitter.
 Watch for:
@@ -4722,7 +4722,7 @@ Watch for:
   - Joey: “(returns to their old table where elderly people are sitting now, sits) Finally you guys made it. (looks up, turns left to Phoebe�s chair) Pheebs, who the hell�uhuhh!”
 
 ## S9 E6 — 906 - The One With The Male Nanny (200th episode)
-URL: https://watchwithkids.vercel.app/ep/friends/0906.html
+URL: https://watchwiththekids.com/ep/friends/0906.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross jealously mocks Rachel's choice of an oversensitive male nanny for Emma.
 Watch for:
@@ -4758,7 +4758,7 @@ Watch for:
   - Ross: “Are you gay? (Rachel turns to Ross in an embarrassed way)”
 
 ## S9 E7 — 907 - The One With Ross's Inappropriate Song
-URL: https://watchwithkids.vercel.app/ep/friends/0907.html
+URL: https://watchwiththekids.com/ep/friends/0907.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: When Chandler's former romantic rival decides to sell his apartment, Chandler persuades Joey to help him inspect it on the sly.
 Watch for:
@@ -4782,7 +4782,7 @@ Watch for:
   - Chandler: “It's football... It's just football... This is great! This is the first time I've ever enjoyed football... It may be customary to get a beer...…”
 
 ## S9 E8 — 908 - The One With Rachel's Other Sister
-URL: https://watchwithkids.vercel.app/ep/friends/0908.html
+URL: https://watchwiththekids.com/ep/friends/0908.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel's self-centered younger sister, Amy, ruins everyone's Thanksgiving dinner with her uncensored observations.
 Watch for:
@@ -4805,7 +4805,7 @@ Watch for:
   - Amy coming out of the bathroom: Hey. Hey where's the baby?
 
 ## S9 E9 — 909 Rachel's Phone Number
-URL: https://watchwithkids.vercel.app/ep/friends/0909.html
+URL: https://watchwiththekids.com/ep/friends/0909.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: While on a night out with Phoebe, Rachel impulsively gives her telephone number to a handsome restaurant patron.
 Watch for:
@@ -4838,7 +4838,7 @@ Watch for:
   - MIKE: “(finally) Stout.� That's a kind of beer.”
 
 ## S9 E10 — Friends The One With Christmas In Tulsa
-URL: https://watchwithkids.vercel.app/ep/friends/0910.html
+URL: https://watchwiththekids.com/ep/friends/0910.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Because of a critical deadline at work, Chandler is stuck spending Christmas in Tulsa, Okla.
 Watch for:
@@ -4870,7 +4870,7 @@ Watch for:
   - Monica: “"Wendy" is a fat girl name.”
 
 ## S9 E11 — 911 Rachel Goes Back To Work
-URL: https://watchwithkids.vercel.app/ep/friends/0911.html
+URL: https://watchwiththekids.com/ep/friends/0911.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: While visiting her workplace to show off baby Emma, Rachel is surprised to find a handsome temp who's been doing her job.
 Watch for:
@@ -4898,7 +4898,7 @@ Watch for:
   - Monica: “You call eight hours alone with my label maker wasted time? Ooh, now I get to use my shredder!”
 
 ## S9 E12 — 912 Phoebe's Rats
-URL: https://watchwithkids.vercel.app/ep/friends/0912.html
+URL: https://watchwiththekids.com/ep/friends/0912.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Summary: Rachel is irritated to learn that her handsome workplace rival has been invited to her birthday party.
 Watch for:
@@ -4929,7 +4929,7 @@ Watch for:
   - Joey: “It's like my favorite fairy tale come true! (Chandler looks at him) The princess, the stable boy and the lesbian!”
 
 ## S9 E13 — 913 Monica Sings
-URL: https://watchwithkids.vercel.app/ep/friends/0913.html
+URL: https://watchwiththekids.com/ep/friends/0913.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: While Rachel sorts out her conflicted feelings for Gavin, Ross sets out to make her jealous, enlisting Chandler to help him meet attractive women.
 Watch for:
@@ -4964,7 +4964,7 @@ Watch for:
   - Gavin: “You hear a key in the hole and you jump like a young bronco coming out of a chute for the first time. I used to be a rodeo clown.”
 
 ## S9 E14 — 914 The One With the Blind Dates
-URL: https://watchwithkids.vercel.app/ep/friends/0914.html
+URL: https://watchwiththekids.com/ep/friends/0914.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: In an attempt to reunite Rachel and Ross, Joey and Phoebe arrange awful blind dates for both of them.
 Watch for:
@@ -4995,7 +4995,7 @@ Watch for:
   - Scene: Delmonico's. Ross is still waiting for his date and drinking wine. The waiter comes up to him again.
 
 ## S9 E15 — 915 The Mugging
-URL: https://watchwithkids.vercel.app/ep/friends/0915.html
+URL: https://watchwiththekids.com/ep/friends/0915.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey develops an unusual acting method to impress a famous fellow actor. Meanwhile, Chandler accepts an internship at an advertising agency.
 Watch for:
@@ -5020,7 +5020,7 @@ Watch for:
   - Scene: Central Perk, Phoebe is there drinking coffee and Ross is about to enter
 
 ## S9 E16 — 916 - The One With The Boob Job
-URL: https://watchwithkids.vercel.app/ep/friends/0916.html
+URL: https://watchwiththekids.com/ep/friends/0916.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Phoebe asks Mike to move in with her, but coming so close to married life may cause trouble in their relationship.
 Watch for:
@@ -5053,7 +5053,7 @@ Watch for:
   - Ross: “If you have to call me name, I prefer "Ross the Divorcer". It's just cooler. Look, I know my marriage isn't exactly work out. But I love to be that committed to another person.…”
 
 ## S9 E17 — Friends 917 - The One With The Memorial Service
-URL: https://watchwithkids.vercel.app/ep/friends/0917.html
+URL: https://watchwiththekids.com/ep/friends/0917.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: When Chandler jokingly posts an outrageous biography about Ross on his college alumni Web site, Ross retaliates.
 Watch for:
@@ -5085,7 +5085,7 @@ Watch for:
   - Chandler: “Chandler, Chandler Bing. I'm not gay, I'm not gay at all.”
 
 ## S9 E18 — Friends 918 - The one with the lottery
-URL: https://watchwithkids.vercel.app/ep/friends/0918.html
+URL: https://watchwiththekids.com/ep/friends/0918.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Hoping to win a huge jackpot, the friends pool their money and buy dozens of lottery tickets.
 Watch for:
@@ -5107,7 +5107,7 @@ Watch for:
   - Lottery ticket / roommate stress — milder.
 
 ## S9 E19 — Friends 919 - The one with Rachel's dream
-URL: https://watchwithkids.vercel.app/ep/friends/0919.html
+URL: https://watchwiththekids.com/ep/friends/0919.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Nervous because his daytime-drama role requires him to act as if he's deeply in love with a woman, Joey rehearses with Rachel.
 Watch for:
@@ -5131,7 +5131,7 @@ Watch for:
   - Joey: “Rach, I gotta say...if you weren't here wondering if these guys were gay I don't know if I could do this!”
 
 ## S9 E20 — Friends 920 - The One With The Soap Opera Party
-URL: https://watchwithkids.vercel.app/ep/friends/0920.html
+URL: https://watchwiththekids.com/ep/friends/0920.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross is excited when he meets fellow paleontologist Charlie Wheeler, who's a stunning beauty.
 Watch for:
@@ -5160,7 +5160,7 @@ Watch for:
   - Monica: “That's different! I was drunk and stupid!”
 
 ## S9 E21 — Friends 921 - The one with the fertility test
-URL: https://watchwithkids.vercel.app/ep/friends/0921.html
+URL: https://watchwiththekids.com/ep/friends/0921.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross is in agony because Charlie is dating Joey. Meanwhile, Chandler and Monica visit a fertility clinic.
 Watch for:
@@ -5189,7 +5189,7 @@ Watch for:
   - Joey: “(sipping red wine from a glass) Who says that wine has to cost more than milk!”
 
 ## S9 E22 — Friends 922 - The one with the donor
-URL: https://watchwithkids.vercel.app/ep/friends/0922.html
+URL: https://watchwiththekids.com/ep/friends/0922.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Disappointed to learn that they can't conceive a baby naturally, Monica and Chandler consider their options.
 Watch for:
@@ -5231,7 +5231,7 @@ Watch for:
   - Chandler: “Why not, just because his great-grandmother was obese, our kids are gonna get that from you anyway!”
 
 ## S9 E23-24 — Friends 923 - 924 - The one in Barbados
-URL: https://watchwithkids.vercel.app/ep/friends/0923-0924.html
+URL: https://watchwiththekids.com/ep/friends/0923-0924.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Chandler gives David some bad advice, sparks fly between Ross and Charlie, and Rachel struggles with the idea of telling Joey that she's crazy about him. Charlie and Joey break up, Rachel finally tells Joey about her crush on him, and Monica and Mike compete at a game of ping pong.
 Watch for:
@@ -5278,7 +5278,7 @@ Watch for:
   - Ross: “I know! It's like, if you knew, why didn't you tell me, you know? I mean, call, or leave a note: "Hi, I just dropped by to say your wife's gay"”
 
 ## S10 E1 — 1001 - The One After Joey And Rachel Kiss
-URL: https://watchwithkids.vercel.app/ep/friends/1001.html
+URL: https://watchwiththekids.com/ep/friends/1001.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica, Chandler and Phoebe discover that they can eavesdrop on Ross & Charlie and Joey & Rachel through the walls of the hotel. Both new couples decide to wait before proceeding with their relationships, until the men can talk to each other. Ross tells Joey on the plane ride back to New York, but Joey can't quite yet. Later, Ross walks in on Joey and Rachel kissing. Meanwhile, Monica combats her poofy hair by getting corn rows put in, and Phoebe discovers that Mike has a girlfriend.
 Watch for:
@@ -5313,7 +5313,7 @@ Watch for:
   - Phoebe: “Look, Precious... Mike's not worth this. You're an attractive, intelligent woman and let's face it, Mike's kind of a wang. I mean, he proposed to me while he was still seeing you...…”
 
 ## S10 E2 — 1002 - The One Where Ross Is Fine
-URL: https://watchwithkids.vercel.app/ep/friends/1002.html
+URL: https://watchwiththekids.com/ep/friends/1002.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross puts on a convincing front and invites Joey and Rachel to dine on fajitas with him and Charlie. He quickly gets drunk and embarrasses everyone. After Rachel and Charlie leave, Joey spends the night and the two talk in the morning. Ross tells Joey he'll work on getting used to him and Rachel. Meanwhile, Frank Jr. visits with his kids and tries to talk Phoebe into taking one of the triplets. Also, Chandler and Monica visit some friends of Phoebe's to learn about adoption. However, Chandler accidentally tells their son something he didn't know - that he's adopted.
 Watch for:
@@ -5340,7 +5340,7 @@ Watch for:
   - Phoebe: “Yeah, I know, Frank. I counted them when they were coming out of my area.”
 
 ## S10 E3 — Friends 1003 - The One With Ross' Tan
-URL: https://watchwithkids.vercel.app/ep/friends/1003.html
+URL: https://watchwiththekids.com/ep/friends/1003.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Joey and Rachel's first date goes well, until they return to their apartment and discover that everything's awkward. They decide that they make better friends than lovers and call off their relationship. Monica and Phoebe try to avoid their annoying friend Amanda, who has returned from living in London with a fake British accent. Ross gets a spray-on tan.
 Watch for:
@@ -5388,7 +5388,7 @@ Watch for:
   - Joey takes the ice-bucket with the champagne bottle in it and puts it on his sore spot
 
 ## S10 E4 — Friends 1004 - The One With The Cake
-URL: https://watchwithkids.vercel.app/ep/friends/1004.html
+URL: https://watchwiththekids.com/ep/friends/1004.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: It's baby Emma's first birthday and Rachel won't let the party start until Emma wakes from her nap. However, everybody has places to be: Monica and Chandler want to leave for a weekend getaway in Vermont, Phoebe has a massage client, and Joey has an audition.
 Watch for:
@@ -5409,7 +5409,7 @@ Watch for:
   - Phoebe: “Oooh, I love family traditions like that. When uhm... when Ursula and I were kids, on our birthday, our stepdad would sell his blood to buy us food!”
 
 ## S10 E5 — Friends 1005 - The One Where Rachel's Sister Baby-sits
-URL: https://watchwithkids.vercel.app/ep/friends/1005.html
+URL: https://watchwiththekids.com/ep/friends/1005.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica and Chandler solicit Joey to write a letter to the adoption agency on their behalf. Joey discovers the thesaurus. Rachel's sister Amy visits and moves in with Rachel and Joey. She babysits Emma and gets the little girl's ears pierced. On their first anniversary, Phoebe spoils Mike's plans to propose, so she proposes to him. That doesn't go well, but the two get engaged anyway.
 Watch for:
@@ -5430,7 +5430,7 @@ Watch for:
   - Joey: “(Yelling from Rachel's room) She has a lot of crap!”
 
 ## S10 E6 — Friends 1006 - The One With Ross' Grant
-URL: https://watchwithkids.vercel.app/ep/friends/1006.html
+URL: https://watchwiththekids.com/ep/friends/1006.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Rachel and Monica fight over who will receive an ugly painting from Phoebe's apartment when Mike wants her to get rid of it. Chandler gets on Joey's bad side when he lies about watching Joey's audition tape. Ross is up for a big grant, although Charlie's ex-boyfriend is in charge of who gets it. Dr. Hobart tries to trade--Ross breaks up with Charlie and he'll get the grant. Eventually, Charlie and Dr. Hobart reconcile after he reveals his feelings for her.
 Watch for:
@@ -5448,7 +5448,7 @@ Watch for:
   - Phoebe: “Really? It doesn't have anything coming out of it. Or maybe there is some place for her in your bedroom?”
 
 ## S10 E7 — Friends 1007 - The One With The Home Study
-URL: https://watchwithkids.vercel.app/ep/friends/1007.html
+URL: https://watchwiththekids.com/ep/friends/1007.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Summary: Phoebe and Mike struggle over their decision to donate their wedding fund to charity. Ross discovers Rachel's irrational fear of swings. The adoption worker in charge of deciding the fate of Monica and Chandler's adoption hopes had a one-night-stand with Joey where he never called her back. Monica and Chandler are approved for adoption.
 Watch for:
@@ -5474,7 +5474,7 @@ Watch for:
   - Phoebe (to Mike): Gay, go.
 
 ## S10 E8 — Friends 1008 - The One With The Late Thanksgiving
-URL: https://watchwithkids.vercel.app/ep/friends/1008.html
+URL: https://watchwiththekids.com/ep/friends/1008.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: After Monica announces that she's not cooking Thanksgiving dinner this year, Phoebe talks her back into it. Ross, Rachel, Phoebe and Joey are all late to the dinner, thanks to a baby beauty contest and a Rangers game, so Monica and Chandler lock them out. The gang is united again when Monica gets a phone call informing her that a pregnant girl from Ohio has selected her to adopt her unborn baby.
 Watch for:
@@ -5487,7 +5487,7 @@ Watch for:
   - Phoebe: “Oh, yeah, happy needless-turkey-murder day.”
 
 ## S10 E9 — Friends 1009 - The One With The Birth Mother
-URL: https://watchwithkids.vercel.app/ep/friends/1009.html
+URL: https://watchwiththekids.com/ep/friends/1009.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Monica and Chandler travel to Ohio to meet a potential mother for their child, but they're put in an uncomfortable situation when the mom-to-be thinks they're a reverend and doctor. Joey's date picks food off his plate. Rachel picks out an outfit for Ross to wear on a date, but accidentally gives him the bag with her purchases instead.
 Watch for:
@@ -5505,7 +5505,7 @@ Watch for:
   - Joey: “(he thinks a little, considering the option and seems to be quite satisfied) I like that! A sharing buffer! Yeah! I’ll order some extra fries! Maybe a plate of onion rings. Yeah. And a shrimp cocktail.…”
 
 ## S10 E10 — Friends 1010 - The One Where Chandler Gets Caught
-URL: https://watchwithkids.vercel.app/ep/friends/1010.html
+URL: https://watchwiththekids.com/ep/friends/1010.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Summary: Phoebe and Rachel catch Chandler getting into a car with a blonde woman and think he's having an affair. It turns out that the woman was Monica and Chandler's realtor, and the two are buying a house in Westchester. The friends reminisce about their good times in the apartment.
 Watch for:
@@ -5546,7 +5546,7 @@ Watch for:
   - Chandler: “Bet you wish I was having an affair now, huh?”
 
 ## S10 E11 — Friends 1011 - The One Where The Stripper Cries
-URL: https://watchwithkids.vercel.app/ep/friends/1011.html
+URL: https://watchwiththekids.com/ep/friends/1011.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe's bachelorette party features a rather unexpected surprise when the stripper shows up. Joey is on ""Pyramid."" Chandler and Ross flash back to 1987 to reflect on a pact they made when they were in college.
 Watch for:
@@ -5595,7 +5595,7 @@ Watch for:
   - Monica: “Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.”
 
 ## S10 E12 — Friends 1012 - The One With Phoebe's Wedding
-URL: https://watchwithkids.vercel.app/ep/friends/1012.html
+URL: https://watchwiththekids.com/ep/friends/1012.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe asks Joey to give her away at her wedding. Monica's the wedding planner and she's driving Phoebe nuts. Chandler and Ross discover at the rehearsal dinner that neither of them has a part in the wedding. However, Mike needs to replace a groomsman, so he lets Phoebe choose one of them, although she gives the job to Rachel. Joey takes his role as the bride's dad way too seriously. Phoebe fires Monica. The day of the wedding, New York is hit with the worst snowstorm its seen in 20 years. Phoebe rehires Monica, and the wedding ends up taking place in the street outside of Central Perk. When the priest can't make it, Joey steps in for him, and Chandler gives the bride away, while groomsman Ross is stuck taking care of Mike's old dog.
 Watch for:
@@ -5618,7 +5618,7 @@ Watch for:
   - Phoebe: “Yeah. Well, uhm... listen he was supposed to get a weekend furlough, so he'd come to the wedding tomorrow, but he just called and... uhm...…”
 
 ## S10 E13 — Friends 1013 - The One Where Joey Speaks French
-URL: https://watchwithkids.vercel.app/ep/friends/1013.html
+URL: https://watchwiththekids.com/ep/friends/1013.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Phoebe tries to teach Joey to speak French for an audition. Surrogate mom Erica is visiting town and tells the Bings that the baby's father may be a shovel killer. Ross and Rachel head out to Long Island after her dad has a heart attack. After Ross rejects an upset Rachel's advances, the two decide never to have sex again, although Rachel suggests it still might happen.
 Watch for:
@@ -5642,7 +5642,7 @@ Watch for:
   - Rachel: “(stopping a nurse who's coming out of a room) Oh, uhm, excuse me, I'm here to see my father. My name is Rachel Green.”
 
 ## S10 E14 — Friends 1014 - The One With Princess Consuela
-URL: https://watchwithkids.vercel.app/ep/friends/1014.html
+URL: https://watchwiththekids.com/ep/friends/1014.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Monica and Chandler visit their house, which is in escrow, where Joey is comforted about losing his friends by the 8-year-old girl who presently lives there. Phoebe learns that she can change her name to whatever she wants, which turns out to be Princess Consuela Bananahammock. After Mike changes his name to Crap Bag, she decides to just be Phoebe Buffay-Hannigan. Ross gets tenure at his job. Rachel's boss is sitting next to her at an interview, and she loses her job. However, she runs into her old friend Mark, who offers her a job in Paris.
 Watch for:
@@ -5667,7 +5667,7 @@ Watch for:
   - they all drink from the champagne, but clearly dislike the taste of it
 
 ## S10 E15 — Friends 1015 - The One Where Estelle Dies
-URL: https://watchwithkids.vercel.app/ep/friends/1015.html
+URL: https://watchwiththekids.com/ep/friends/1015.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: Ross tries to get Rachel rehired at Ralph Lauren. He succeeds, but after Rachel tells him how scared she is about moving to Paris, he's convinced she should go. Phoebe discovers that Joey's agent Estelle died and, since his life has been changing so much recently, doesn't want to tell him. Chandler and Monica visit the house next door to theirs and discover that Janice is bidding on it. To get Janice to withdraw her offer, Chandler comes on to her.
 Watch for:
@@ -5682,7 +5682,7 @@ Watch for:
   - Chandler: “It feels like we’re cheating on our house. And if we’re gonna cheat, shouldn’t it be with like a hot, younger house, that does stuff that our house won’t do?”
 
 ## S10 E16 — Friends 1016 - The One With Rachel's Going Away Party
-URL: https://watchwithkids.vercel.app/ep/friends/1016.html
+URL: https://watchwiththekids.com/ep/friends/1016.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Summary: With Rachel leaving tomorrow, the gang throws her a small going away party. She says goodbye to each of her friends individually, except for Ross. He gets mad and the two of them end up in a passionate kiss after she explains that she was putting it off because of how hard saying goodbye to him would be. Meanwhile, Erica is in town until the baby arrives and she ends up going into labor at the party.
 Watch for:
@@ -5708,7 +5708,7 @@ Watch for:
   - Joey: “Huh, if I had to guess I'd say Rachel is putting on the bubble wrap and Phoebe is doing the punching.”
 
 ## S10 E17-18 — Friends 1017-1018 - The Last One
-URL: https://watchwithkids.vercel.app/ep/friends/1017-1018.html
+URL: https://watchwiththekids.com/ep/friends/1017-1018.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Summary: Ross and Phoebe chase Rachel to the airport, but end up at the wrong one. They narrowly make it to the right airport, where Ross declares his love for Rachel, but she gets on the plane anyway.
 Watch for:

@@ -1,11 +1,11 @@
 # Rick and Morty — parent guide (82 episodes)
 
-Source: https://watchwithkids.vercel.app/rick-and-morty.html
+Source: https://watchwiththekids.com/rick-and-morty.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 0 all clear (1–2), 1 gray area (3), 81 hard pass (4–5).
 
 ## S1 E1 — 1. Pilot
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0101.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0101.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -21,7 +21,7 @@ Watch for:
   - Morty, you got to come on. - You got to come with me. - Rick, what's going on? I got a surprise for you, Morty. It's the middle of the night. What are you talking about? I got a surprise for you.…
 
 ## S1 E2 — 2. Lawnmower Dog
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0102.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0102.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -34,7 +34,7 @@ Watch for:
   - Coin collecting is considered the perfect hobby. beautiful putt right there good birdie. That's only the eighth birdie of the day. What? Why are you looking at me? You want to go outside? Outside? Outside?…
 
 ## S1 E3 — 3. Anatomy Park
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0103.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0103.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -46,7 +46,7 @@ Watch for:
   - Corrections by XhmikosR last king Christmas last arrived on the Christmas Christmas Mmm. Jerry, you are really giving it to this ham. Um, merry Christmas. Hello? My parents are coming over for the first time in years.…
 
 ## S1 E4 — 4. M. Night Shaym-Aliens!
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0104.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0104.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -59,7 +59,7 @@ Watch for:
   - Corrections by XhmikosR This is just sloppy craftsmanship. Hey, Rick. Boy, sure is really especially beautiful out there today, huh? Oh, yes, Morty.…
 
 ## S1 E5 — 5. Meeseeks and Destroy
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0105.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0105.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -73,7 +73,7 @@ Watch for:
   - Run! Morty, do it! Hit the button now! I can't do it, Rick! They're my parents and sister! Morty, I already told you it's not your family!…
 
 ## S1 E6 — 6. Rick Potion #9
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0106.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0106.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -89,7 +89,7 @@ Watch for:
   - Principal vagina here. Don't let the name fool you. I'm very much in charge reminding you that tonight is our annual flu season dance. I don't know how many times I have to say this, but if you have the flu, stay home.…
 
 ## S1 E7 — 7. Raising Gazorpazorp
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0107.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0107.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -105,7 +105,7 @@ Watch for:
   - Look, I'm not paying 70 smidgens for a broken defraculator. That is multiphase quantum resonator. - Well, does it defraculate? - No. Then it's a broken defraculator. Like you would even know dick about fraculation.…
 
 ## S1 E8 — 8. Rixty Minutes
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0108.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0108.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -120,7 +120,7 @@ Watch for:
   - Cynthia - Oh, my God! No, no - I told you! - Hold on Will you please Not marry me? I choose Veronica. - What? - Yes! - Called it. - Why would he choose Veronica? Because he loves her.…
 
 ## S1 E9 — 9. Something Ricked This Way Comes
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0109.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0109.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -134,7 +134,7 @@ Watch for:
   - Hey, Rick. I have to make a project for the science fair this weekend. - You think you could help me out? - Whatever. Well, I mean, traditionally, science fairs are a father-son thing.…
 
 ## S1 E10 — 10. Close Rick-Counters of the Rick Kind
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0110.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0110.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -143,7 +143,7 @@ Watch for:
   - So, dad, guess what tomorrow is. - Martin Luther King Jr. 's birthday. No. - Well, it might be. - It is. Fine. But also, tomorrow is your one-year anniversary back in our lives.…
 
 ## S1 E11 — 11. Ricksy Business
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0111.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0111.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -154,7 +154,7 @@ Watch for:
   - Bye, mom! Bye, dad! - Drive carefully! Have fun, you two. Yes, we will have as much fun as possible on our Titanic -themed getaway. Let's lose the 'tude, please. It's supposed to be romantic.…
 
 ## S2 E1 — 1. A Rickle In Time
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0201.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0201.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -167,7 +167,7 @@ Watch for:
   - Hurry up, Morty. Grandpa's about to un-freeze time. You really should be cleaning from top to bottom. I know how to vacuum mom and dad, Summer. I've been doing it for six months.…
 
 ## S2 E2 — 2. Mortynight Run
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0202.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0202.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -180,7 +180,7 @@ Watch for:
   - Learning to fly this thing, Morty, is gonna be really liberating. You know, you're gonna be free to go on all kinds of errands for me. - Cool. - See that planet right there? Don't fly too close to that planet.…
 
 ## S2 E3 — 3. Auto Erotic Assimilation
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0203.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0203.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -201,7 +201,7 @@ Watch for:
   - Love Connection Experience Yeah, Morty. Come together With love, connection, and experience - It's my favorite song. - Oh, yeah. Oh, yeah, distress beacon! Yeah, baby!…
 
 ## S2 E4 — 4. Total Rickall
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0204.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0204.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -212,7 +212,7 @@ Watch for:
   - Steve, I just got a weird e-mail. Did you buy us airline tickets? Aw, shoot. It was supposed to be a surprise. I wanted to thank you for letting me live here all this time, so I'm treating the family to a vacation!…
 
 ## S2 E5 — 5. Get Schwifty
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0205.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0205.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -226,7 +226,7 @@ Watch for:
   - Hey, golf is easy now! Aah! Golf is hard again! Golf is hard again! The view from here is the same as yours, Jim. A giant head has entered earth's gravity, triggering climate change and natural disasters we thought…
 
 ## S2 E6 — 6. The Ricks Must Be Crazy
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0206.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0206.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -237,7 +237,7 @@ Watch for:
   - Geez, I can't believe we found a version of Earth with a "Ball Fondlers" movie franchise. I can't believe the things this reality considers PG-13. - Yeah. I-I'm pretty jealous. - Don't be, Morty.…
 
 ## S2 E7 — 7. Big Trouble In Little Sanchez
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0207.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0207.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Porn / strippers — 1 moment(s)
@@ -250,7 +250,7 @@ Watch for:
   - What's new at school? - Nothing. Nothing! Oh, uh, one of the lunch ladies died. They found her in the gym with, like, two holes in her neck and all the blood drained out of her.…
 
 ## S2 E8 — 8. Interdimensional Cable 2: Tempting Fate
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0208.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0208.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -266,7 +266,7 @@ Watch for:
   - [Door Beep.] Don't worry about Jerry. He's gonna be fine. You hear me, Jerry? You're gonna be fine. Whoa! Ooh, watch out for that stuff.…
 
 ## S2 E9 — 9. Look Who's Purging Now
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0209.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0209.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -275,7 +275,7 @@ Watch for:
   - I got to tell you, Rick. It's pretty great to be in this spaceship, just the two of us, you know? Just cruising around, Rick and Morty style. I agree, Morty.…
 
 ## S2 E10 — 10. The Wedding Squanchers
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0210.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0210.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -288,7 +288,7 @@ Watch for:
   - The trick to cereal is keeping 70% above the milk. Jerry, get a job. Uh, w-why don't you get it, Jerry? You're the man of the house, and you don't have a job. Delivery for Rick. Morning, Summer, Beth, and Jerry. Gross.…
 
 ## S3 E1 — 1. The Rickshank Redemption
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0301.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0301.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -299,7 +299,7 @@ Watch for:
   - 1 Rick: Anyway, that's how I escaped from space prison! Oh, scary place. Wow, Rick! That's -- That's one -- one heck of a story. I sure do wish I could have been there to see it happen. Oh, come on.…
 
 ## S3 E2 — 2. Rickmancing the Stone
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0302.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0302.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -310,7 +310,7 @@ Watch for:
   - 1 Ohh! Summer, next time we're hiding in a Colorkian echo nest, can you do me a favor and turn your ringer off? It's called "carpe diem," Morty. Look it up.…
 
 ## S3 E3 — 3. Pickle Rick
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0303.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0303.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -323,7 +323,7 @@ Watch for:
   - 1 Morty?! - Morty! - Rick? - Hey, Morty?! - Rick? Are you far away, or are you inside something? Is this a camera? Is everything a camera? Morty, the garage, Morty.…
 
 ## S3 E4 — 4. Vindicators 3: The Return of Worldender
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0304.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0304.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -339,7 +339,7 @@ Watch for:
   - Don't let any of those things get away, Morty. It their DNA gets into Earth's food chain, our entire species could be sterilized. Then why aren't we killing them?…
 
 ## S3 E5 — 5. The Whirly Dirly Conspiracy
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0305.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0305.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -356,7 +356,7 @@ Watch for:
   - Jerry! Jerry, come on! We got to go! You got to come with me, Jerry! Rick? It's important, Jerry. The fate of the galaxy rests on your shoulders. Let's go. Put some pants on.…
 
 ## S3 E6 — 6. Rest and Ricklaxation
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0306.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0306.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -372,7 +372,7 @@ Watch for:
   - 1 So, Jessica, I heard you broke up with Brad. Who are you gonna date now that you can date anyone? I don't know. I mean, obviously if someone special comes along B-But I mean really special, like, nothing I've even…
 
 ## S3 E7 — 7. The Ricklantis Mixup
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0307.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0307.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -385,7 +385,7 @@ Watch for:
   - All right, Morty, you ready for our adventure to the Lost City of Atlantis? Ready as I'll ever be, Rick. For [Bleep.] sake. Hello, I'm Rick K-22. This is my Morty.…
 
 ## S3 E8 — 8. Morty's Mind Blowers
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0308.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0308.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -400,7 +400,7 @@ Watch for:
   - Morty, hurry! Return the Truth Tortoise! Morty, whatever you do, don't drop the Truth Tortoise! Also really important, whatever you do, don't look into its eyes! I I did look at it, Rick! I've been looking at it!…
 
 ## S3 E9 — 9. The ABCs of Beth
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0309.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0309.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -415,7 +415,7 @@ Watch for:
   - 1 News Anchor: In local news, child murderer Joseph Eli Lipnip is scheduled to die tomorrow by lethal injection, his execution already drawing dozens more spectators than the death of TV news.…
 
 ## S3 E10 — 10. The Rickchurian Mortydate
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0310.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0310.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -428,7 +428,7 @@ Watch for:
   - 1 Come on, football! Go, go! Oh, come on. Play football! [ Suspenseful music plays .] [ Creature growls softly .] [ Heartbeat pounding .] [ Creature snarls .] Aaah! [ Slash!…
 
 ## S4 E1 — 1. Edge of Tomorty: Rick, Die, Rickpeat
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0401.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0401.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -445,7 +445,7 @@ Watch for:
   - 1 Morty's on Jessica's Instagram again. Get out of here, jerk! What's so embarrassing, Morty? Sharing it with your family might help. Summer, stop shaming your brother.…
 
 ## S4 E2 — 2. The Old Man and the Seat
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0402.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0402.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Porn / strippers — 1 moment(s)
@@ -458,7 +458,7 @@ Watch for:
   - 1 We're out of syrup. Huh. You know what? Maybe I'll use my intern. - Glootie? - Good? - Thanks, Glootie. - Anything else? Do you want to develop an app? - No thanks, Glootie. - Hey, what's up, Glootie? Hi, Morty.…
 
 ## S4 E3 — 3. One Crew Over the Crewcoo's Morty
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0403.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0403.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -469,7 +469,7 @@ Watch for:
   - Rick, I-I'm not rated to climb something this sheer. Look, you're the guy that wanted an epic adventure. I'm the guy with only one hover chair. Goddammit, an alien spider just bit my finger! It's an alien cliff.…
 
 ## S4 E4 — 4. Claw and Hoarder: Special Ricktim's Morty
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0404.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0404.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -486,7 +486,7 @@ Watch for:
   - 1 Rick, we did it! We we got it! Hurry up, Morty. Get in! - Chachi! - [BLEEP.] Chachi, Morty. - Did you get it? - He helped me escape prison. Did you get the Ultimate Cube? Oh, it's purple. Y-You said it was purple.…
 
 ## S4 E5 — 5. Rattlestar Ricklactica
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0405.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0405.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -501,7 +501,7 @@ Watch for:
   - 1 Morty, be sure to pee before we go. This adventure is gonna be a long haul, and I don't feel like emptying the jug. Jerry, will you please just let me automate this [BLEEP.] task? I didn't ask for anyone's help.…
 
 ## S4 E6 — 6. Never Ricking Morty
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0406.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0406.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -534,7 +534,7 @@ Watch for:
   - Why is lesbian part of her job title?!
 
 ## S4 E7 — 7. Promortyus
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0407.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0407.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 11 moment(s)
@@ -553,7 +553,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S4 E8 — 8. The Vat of Acid Episode
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0408.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0408.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -585,7 +585,7 @@ Watch for:
   - Big man, big genius. Big lonely drunk.
 
 ## S4 E9 — 9. Childrick of Mort
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0409.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0409.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -620,7 +620,7 @@ Watch for:
   - from her drunk father!
 
 ## S4 E10 — 10. Star Mort Rickturn of the Jerri
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0410.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0410.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -647,7 +647,7 @@ Watch for:
   - cheap wine and dinosaur pasta.
 
 ## S5 E1 — 1. Mort Dinner Rick Andre
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0501.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0501.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -701,7 +701,7 @@ Watch for:
   - For the wine.
 
 ## S5 E2 — 2. Mortyplicity
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0502.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0502.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -732,7 +732,7 @@ Watch for:
   - might look like blackface.
 
 ## S5 E3 — 3. A Rickconvenient Mort
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0503.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0503.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -768,7 +768,7 @@ Watch for:
   - This gay sex with my Dad is terrific!
 
 ## S5 E4 — 4. Rickdependence Spray
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0504.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0504.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 33 moment(s)
@@ -811,7 +811,7 @@ Watch for:
   - Blood for blood.
 
 ## S5 E5 — 5. Amortycan Grickfitti
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0505.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0505.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -842,7 +842,7 @@ Watch for:
   - blackmail you, skank.
 
 ## S5 E6 — 6. Rick & Morty's Thanksploitation Spectacular
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0506.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0506.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -871,7 +871,7 @@ Watch for:
   - Well, I'm racist.
 
 ## S5 E7 — 7. Gotron Jerrysis Rickvangelion
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0507.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0507.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -899,7 +899,7 @@ Watch for:
   - You're so fat you're
 
 ## S5 E8 — 8. Rickternal Friendshine of the Spotless Mort
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0508.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0508.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -933,7 +933,7 @@ Watch for:
   - us getting a beer?
 
 ## S5 E9 — 9. Forgetting Sarick Mortshall
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0509.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0509.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 35 moment(s)
@@ -958,7 +958,7 @@ Watch for:
   - to take his portal gun.
 
 ## S5 E10 — 10. Rickmurai Jack
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0510.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0510.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 9 moment(s)
@@ -979,7 +979,7 @@ Watch for:
   - you wasted your entire life?
 
 ## S6 E1 — 1. Solaricks
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0601.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0601.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1012,7 +1012,7 @@ Watch for:
   - Been drinking a lot of my piss.
 
 ## S6 E2 — 2. Rick: A Mort Well Lived
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0602.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0602.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1048,7 +1048,7 @@ Watch for:
   - Hard 3" was clearly racist.
 
 ## S6 E3 — 3. Bethic Twinstinct
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0603.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1091,7 +1091,7 @@ Watch for:
   - get clone lesbian married
 
 ## S6 E4 — 4. Night Family
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0604.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0604.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 21 moment(s)
@@ -1118,7 +1118,7 @@ Watch for:
   - A cocktail of Mountain Dew and DayQuil.
 
 ## S6 E5 — 5. Final DeSmithation
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0605.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0605.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1161,7 +1161,7 @@ Watch for:
   - And before you say that sounded racist,
 
 ## S6 E6 — 6. JuRicksic Mort
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0606.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0606.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1188,7 +1188,7 @@ Watch for:
   - would just murder us
 
 ## S6 E7 — 7. Full Meta Jackrick
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0607.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0607.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1222,7 +1222,7 @@ Watch for:
   - like a bisexual acting coach
 
 ## S6 E8 — 8. Analyze Piss
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0608.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0608.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 75 moment(s)
@@ -1259,7 +1259,7 @@ Watch for:
   - and everyone's popping champagne.
 
 ## S6 E9 — 9. A Rick in King Mortur's Mort
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0609.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0609.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1291,7 +1291,7 @@ Watch for:
   - drunk, I'm a psychopath,
 
 ## S6 E10 — 10. Ricktional Mortpoon's Rickmas Mortcation
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0610.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0610.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1322,7 +1322,7 @@ Watch for:
   - Where is it coming out?
 
 ## S7 E1 — 1. How Poopy Got His Poop Back
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0701.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0701.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 26 moment(s)
@@ -1352,7 +1352,7 @@ Watch for:
   - I'm too drunk to flee
 
 ## S7 E2 — 2. The Jerrick Trap
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0702.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0702.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1387,7 +1387,7 @@ Watch for:
   - and we're all a little gay.
 
 ## S7 E3 — 3. Air Force Wong
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0703.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0703.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1420,7 +1420,7 @@ Watch for:
   - You're all just drunk!
 
 ## S7 E4 — 4. That's Amorte
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0704.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0704.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1452,7 +1452,7 @@ Watch for:
   - people, regular suicides?
 
 ## S7 E5 — 5. Unmortricken
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0705.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0705.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1478,7 +1478,7 @@ Watch for:
   - Hey, Rick. You drunk yet?
 
 ## S7 E6 — 6. Rickfending Your Mort
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0706.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0706.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 31 moment(s)
@@ -1515,7 +1515,7 @@ Watch for:
   - Are you drinking wine in there?
 
 ## S7 E7 — 7. Wet Kuat Amortican Summer
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0707.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0707.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1546,7 +1546,7 @@ Watch for:
   - New friends! Champagne?
 
 ## S7 E8 — 8. Rise of the Numbericons: The Movie
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0708.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0708.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1573,7 +1573,7 @@ Watch for:
   - Coming out of Helvetica Light Speed
 
 ## S7 E9 — 9. Mort: Ragnarick
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0709.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0709.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1608,7 +1608,7 @@ Watch for:
   - He's not coming out to meet you anymore
 
 ## S7 E10 — 10. Fear No Mort
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0710.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0710.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1638,7 +1638,7 @@ Watch for:
   - Same. Okay. I'm gonna go get drunk.
 
 ## S8 E1 — 1. Summer of All Fears
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0801.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0801.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1669,7 +1669,7 @@ Watch for:
   - that was "Wine Mom" talk!
 
 ## S9 E1 — 1. Theres Something About Morty
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0901.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0901.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 40 moment(s)
@@ -1697,7 +1697,7 @@ Watch for:
   - Okay, so imagine a cosmic gay guy
 
 ## S9 E2 — 2. Ricks Days, Seven Nights
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0902.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0902.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1727,7 +1727,7 @@ Watch for:
   - He was drunk.
 
 ## S9 E3 — 3. Rick Fu Hustle
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0903.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0903.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1775,7 +1775,7 @@ Watch for:
   - Is it racist to say I adore
 
 ## S9 E4 — 4. A Ricker Runs Through It
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0904.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0904.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 29 moment(s)
@@ -1804,7 +1804,7 @@ Watch for:
   - Go make my vodka!
 
 ## S9 E5 — 5. Jer Bud
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0905.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0905.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1841,7 +1841,7 @@ Watch for:
   - neck racism, probably.
 
 ## S9 E6 — 6. Erickerhead
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0906.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0906.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1874,7 +1874,7 @@ Watch for:
   - I give myself when I'm drunk.
 
 ## S9 E7 — 7. Mortgully: The Last Rickforest
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0907.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0907.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 17 moment(s)
@@ -1899,7 +1899,7 @@ Watch for:
   - uh, drinking water.
 
 ## S9 E8 — 8. Rickuiem Mort a Dream
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0908.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0908.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1932,7 +1932,7 @@ Watch for:
   - His juice is coming out.
 
 ## S9 E9 — 9. Salute Your Morts
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0909.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0909.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1966,7 +1966,7 @@ Watch for:
   - It only drinks beer.
 
 ## S9 E10 — 10. Field Of Dreams
-URL: https://watchwithkids.vercel.app/ep/rick-and-morty/0910.html
+URL: https://watchwiththekids.com/ep/rick-and-morty/0910.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Porn / strippers — 1 moment(s)

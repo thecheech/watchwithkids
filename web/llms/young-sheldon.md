@@ -1,11 +1,11 @@
 # Young Sheldon — parent guide (141 episodes)
 
-Source: https://watchwithkids.vercel.app/young-sheldon.html
+Source: https://watchwiththekids.com/young-sheldon.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 84 all clear (1–2), 51 gray area (3), 6 hard pass (4–5).
 
 ## S1 E1 — 1. Pilot
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0101.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0101.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -14,7 +14,7 @@ Watch for:
   - 1 (train chugging) (train whistle blows) ADULT SHELDON: I've always loved trains. In fact, if my career in theoretical physics hadn't worked out, my backup plan was to become a professional ticket taker. Or hobo.…
 
 ## S1 E2 — 2. Rockets, Communists, and the Dewey Decimal System
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0102.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0102.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -25,7 +25,7 @@ Watch for:
   - 1 Look at him. Bres my heart. Poor little guy, all alone. I don't see why - his brother can't sit with him. - Come on, Mary. When you were in high school, would you have lunch - with a nine-year-old? - Yes, I would've.…
 
 ## S1 E3 — 3. Poker, Faith, and Eggs
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0103.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0103.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -36,7 +36,7 @@ Watch for:
   - 1 [GEORGE MICHAEL'S "FAITH" PLAYING.] [TAPE REWINDING.] Faith, faith, faith Baby I know you're asking me to stay Say please, please, please don't go away You say I'm giving you the blues Maybe Huh!…
 
 ## S1 E4 — 4. A Therapist, a Comic Book and a Breakfast Sausage
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0104.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0104.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -49,7 +49,7 @@ Watch for:
   - 1 Let's go. Let's go. We're gonna be late! ADULT SHELDON: Fun fact the first time I almost died was at the age of nine. The murder weapon? A Jimmy Dean sausage. [CHOKING QUIETLY.] Mom, Sheldon's making faces at me.…
 
 ## S1 E5 — 5. A Solar Calculator, a Game Ball and a Cheerleader's Bosom
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0105.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0105.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -58,7 +58,7 @@ Watch for:
   - 1 - Geez! - Damn it! - Come on! ADULT SHELDON: In Texas, the Holy Trinity is God, football and barbeque, not necessarily in that order. I don't care if you win, just cover the damn spread.…
 
 ## S1 E6 — 6. A Patch, a Modem, and a Zantac
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0106.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0106.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -67,7 +67,7 @@ Watch for:
   - 1 I have a special treat for y'all today. My dear friend and former college roommate is here from the Johnson Space Center in Houston to talk to us about our space program. And yeah, I know what you're thinking.…
 
 ## S1 E7 — 7. A Brisket, Voodoo and Cannonball Run
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0107.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0107.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -78,7 +78,7 @@ Watch for:
   - 1 ADULT SHELDON: The average American consumes 55 pounds of beef per year. And then there's Texas, where we can knock that off in a couple of months.…
 
 ## S1 E8 — 8. Cape Canaveral, Shrodinger's Cat and Cyndi Lauper's Hair
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0108.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0108.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -91,7 +91,7 @@ Watch for:
   - 1 [GEORGE SR. AND MARY LAUGHING.] I thought you didn't like taking the Lord's name in vain? Oh, shut up. [CHUCKLES.] It's been a while, huh? Don't blame me. You're the one who had a heart attack.…
 
 ## S1 E9 — 9. Spock, Kirk and Testicular Hernia
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0109.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0109.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -100,14 +100,14 @@ Watch for:
   - 1 CAPTAIN KIRK: The Enterprise is preparing to leave Beta III in star system C-111. Sociologist Lindstrom is remaining behind with a party of experts who will help restore the planet's culture to a human form.…
 
 ## S1 E10 — 10. An Eagle Feather, a String Bean, and an Eskimo
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0110.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0110.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - 1 First off, I want to thank you both for coming. Yeah, yeah, what'd he do? Uh, he didn't do anything. Gosh, Tom, I want to believe you. Okay, the problem is, the curriculum here is not challenging enough for Sheldon.…
 
 ## S1 E11 — 11. Demons, Sunday School and Prime Numbers
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0111.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0111.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -116,7 +116,7 @@ Watch for:
   - 1 You walk down a hallway and come to a wooden chest. Lord Gray Matter, what do you do? I poke it with my dagger to see if there are any traps. There are no traps.…
 
 ## S1 E12 — 12. A Computer, a Plastic Pony, and a Case of Beer
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0112.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0112.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -129,7 +129,7 @@ Watch for:
   - Power has always been a deadly narcotic, and in 1989, RadioShack's Tandy 1000 SL was my drug of choice. With an Intel 8086 running at eight megahertz and a five-and-a-quarter-inch floppy drive, there was nothing I…
 
 ## S1 E13 — 13. A Sneeze, Detention, and Sissy Spacek
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0113.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0113.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -142,7 +142,7 @@ Watch for:
   - 1 A simile directly compares two things, using the words "like" and "as. " "I slept like a log. " "I'm hungry as a horse. " "Your love is like bad medicine. " Exactly. That's Bon Jovi. Okay. His hair is awesome.…
 
 ## S1 E14 — 14. Potato Salad, a Broomstick, and Dad's Whiskey
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0114.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0114.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -151,7 +151,7 @@ Watch for:
   - 1 This little light of mine I'm gonna let it shine Let it shine, let it shine Let it shine Everywhere I go I'm gonna let it shine Everywhere I go I'm gonna let it shine Well, I am happy to report that my potato salad…
 
 ## S1 E15 — 15. Dolomite, Apple Slices, and a Mystery Woman
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0115.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0115.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -160,7 +160,7 @@ Watch for:
   - 1 What are you doing? I heard you could punch a hole in these and make them double-sided. Then it would have more storage? Yes, but I didn't pay for a double-sided floppy disk. So? So it's an ethical dilemma.…
 
 ## S1 E16 — 16. Killer Asteroids, Oklahoma, and a Frizzy Hair Machine
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0116.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0116.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -171,7 +171,7 @@ Watch for:
   - 1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors. [SCREAMS.] From daily humiliation to school-sanctioned violence BOY: Oh!…
 
 ## S1 E17 — 17. Jiu-Jitsu, Bubble Wrap, and Yoo-hoo
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0117.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0117.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -180,7 +180,7 @@ Watch for:
   - 1 ADULT SHELDON: In any ecosystem, you'll find a delicate balance between predator and prey. Some well-known predators include Panthera leo, Ursus arctos, and star of the 1987 film Predator, Predator.…
 
 ## S1 E18 — 18. A Mother, a Child and a Blue Man's Backside
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0118.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0118.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -189,14 +189,14 @@ Watch for:
   - 1 Hey, what you reading? A magazine. Oh. Making a collage for school? No, just reading it. Look at that. Maybe Sheldon isn't the only bookworm around here. Which magazine? - Cosmopolitan.…
 
 ## S1 E19 — 19. Gluons, Guacamole, and the Color Purple
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0119.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0119.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - Now we're looking for two binomials that multiply to get the given trinomial. Whenever I wasn't being challenged intellectually, my brain was more than happy to step up and accommodate.…
 
 ## S1 E20 — 20. A Dog, a Squirrel, and a Fish Named Fish
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0120.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0120.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -211,21 +211,21 @@ Watch for:
   - 1 ADULT SHELDON: It was a beautiful morning in East Texas. The kind of morning that made you want to get up, get dressed and test that acceleration due to gravity does not depend on an object's motion.…
 
 ## S1 E21 — 21. Summer Sausage, a Pocket Poncho, and Tony Danza
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0121.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0121.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 Previously, on Young Sheldon I've been corresponding with Dr. John Sturgis at East Texas Tech. He said I could audit his course. Connie, I would like to see you again. Perhaps we could have dinner sometime.…
 
 ## S1 E22 — 22. Vanilla Ice Cream, Gentleman Callers, and a Dinette Set
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0122.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0122.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - Previously on Young Sheldon You know that Mr. Rosenbloom with the furniture store over by the steak house? He's asked me to dinner. Is he your boyfriend? Well, he's one of them, so let's not bring that up.…
 
 ## S2 E1 — 1. A High-Pitched Buzz and Training Wheels
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0201.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0201.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -234,7 +234,7 @@ Watch for:
   - 1 ADULT SHELDON: Some people have said I'm overly sensitive. [SCREAMING.] What now? Missy gave me cinnamon gum! Sure, sure. ADULT SHELDON: And by some people, I mean everyone.…
 
 ## S2 E2 — 2. A Rival Prodigy and Sir Isaac Neutron
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0202.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0202.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -245,7 +245,7 @@ Watch for:
   - 1 Previously on Young Sheldon I've been corresponding with Dr. John Sturgis at East Texas Tech. He said I could audit his course. I'm John Sturgis. Sheldon invited me to dinner. Spaghetti and hot dogs is delightful.…
 
 ## S2 E3 — 3. A Crisis of Faith and Octopus Aliens
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0203.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0203.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -262,7 +262,7 @@ Watch for:
   - 1 "That everyone who believes may have eternal life in him. For God so loved the world that he gave his one and only son. " [WHISPERS.] : Here we go.…
 
 ## S2 E4 — 4. A Financial Secret and Fish Sauce
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0204.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0204.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -275,7 +275,7 @@ Watch for:
   - 1 ADULT SHELDON: For most students, the weekend represented two days of fun, freedom, and in the case of my brother, a chance to ignore all forms of hygiene. [QUIETLY.] : Come on, come on.…
 
 ## S2 E5 — 5. A Research Study and Czechoslovakian Wedding Pastries
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0205.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0205.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -288,7 +288,7 @@ Watch for:
   - 1 ADULT SHELDON: While my sister and I are twins, we've always been different. By the age of two, I was reading books. Missy was content to eat them.…
 
 ## S2 E6 — 6. Seven Deadly Sins and a Small Carl Sagan
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0206.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0206.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -303,7 +303,7 @@ Watch for:
   - 1 With us tonight is Pastor Jeff Difford from the First Baptist Church of Medford. Thank you for being here, Pastor. - My pleasure. - So it would appear that your church's Halloween Hell House has stirred up quite a…
 
 ## S2 E7 — 7. Carbon Dating and a Stuffed Raccoon
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0207.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0207.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -312,7 +312,7 @@ Watch for:
   - 1 Previously on Young Sheldon Who are you? - I'm Paige. - This is a very advanced class. Do you know how to differentiate under the integral sign? No. [CHUCKLING.] : Do you know anything? I know you're in my spot.…
 
 ## S2 E8 — 8. An 8-Bit Princess and a Flat Tire Genius
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0208.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0208.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -325,7 +325,7 @@ Watch for:
   - 1 ADULT SHELDON: Since the 1970s, home video games have been coveted by children around the world. I was not one of those children. What do you think? I won it bowling.…
 
 ## S2 E9 — 9. Family Dynamics and a Red Fiero
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0209.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0209.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -336,7 +336,7 @@ Watch for:
   - 1 ADULT SHELDON: In tenth grade, high school students are presented with picking a class of their own choosing. This is called an elective. Courses on offer included wood shop I'm happy with ten fingers, thank you.…
 
 ## S2 E10 — 10. A Stunted Childhood and a Can of Fancy Mixed Nuts
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0210.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0210.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -345,7 +345,7 @@ Watch for:
   - 1 Previously on Young Sheldon Paige? I'm so happy to see you. Are you happy to see me? Not immediately. I don't usually see young people at my lectures.…
 
 ## S2 E11 — 11. A Race of Superhumans and a Letter to Alf
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0211.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0211.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -356,7 +356,7 @@ Watch for:
   - 1 Previously on Young Sheldon Why was Veronica Duncan hugging you? I'm tutoring her in trigonometry. Just between us, she's a little slow. That's not what I heard. There's nobody at my house.…
 
 ## S2 E12 — 12. A Tummy Ache and a Whale of a Metaphor
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0212.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0212.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -365,7 +365,7 @@ Watch for:
   - 1 Now, can anyone tell me why Melville shifts the narrative voice from Ishmael to Ahab? [SIGHS.] Sheldon. I have a tummyache. I'd like to see the nurse. A "tummyache"? Yes, Derek, I have a tummy and it aches.…
 
 ## S2 E13 — 13. A Nuclear Reactor And a Boy Called Lovey
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0213.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0213.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -378,7 +378,7 @@ Watch for:
   - 1 Previously on Young Sheldon Veronica. I-I'm here for your mom's Bible study. I'm glad you could join us. What are you doing? Come here for Bible study.…
 
 ## S2 E14 — 14. David, Goliath, and a Yoo-Hoo from the Back
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0214.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0214.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -387,7 +387,7 @@ Watch for:
   - 1 [SCREECHES.] ADULT SHELDON: A fossil is formed when an organism, preserved in sediment, undergoes physical compression - over millions of years.…
 
 ## S2 E15 — 15. A Math Emergency and Perky Palms
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0215.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0215.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -396,7 +396,7 @@ Watch for:
   - 1 ADULT SHELDON: It should come as no surprise that the very first grade I ever received was a "super-duper. " Granted it was for counting spots on a ladybug, but still, I nailed it.…
 
 ## S2 E16 — 16. A Loaf of Bread and a Grand Old Flag
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0216.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0216.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -405,7 +405,7 @@ Watch for:
   - 1 ADULT SHELDON: I'd like to tell you a story about a time I was right. Now, I'm sure you're thinking, "But, Sheldon, you're never wrong. " And you'd be right.…
 
 ## S2 E17 — 17. Albert Einstein and the Story of Another Mary
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0217.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0217.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -416,7 +416,7 @@ Watch for:
   - 1 ["GIRLS JUST WANT TO HAVE FUN" BY CYNDI LAUPER PLAYING.] ADULT SHELDON: It's typical for young people to admire rock stars. For my sister, it was Cyndi Lauper.…
 
 ## S2 E18 — 18. A Perfect Score and a Bunsen Burner Marshmallow
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0218.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0218.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -429,7 +429,7 @@ Watch for:
   - 1 Mm-hmm. I'll tell him. Sheldon, you need to go to the principal's office. Ooh You do that every time. Why? Uh-huh. Okay. I'll be right there. What's up? Principal wants to talk to me. Ooh Grow up. Hello! Oh.…
 
 ## S2 E19 — 19. A Political Campaign and a Candy Land Cheater
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0219.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0219.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -440,7 +440,7 @@ Watch for:
   - Not all science is created equal. There's physics, the undisputed king of science. There's chemistry. It's no physics, but it's not a bad way to pass a rainy afternoon.…
 
 ## S2 E20 — 20. A Proposal and a Popsicle Stick Cross
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0220.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0220.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -451,7 +451,7 @@ Watch for:
   - 1 ADULT SHELDON: Living in a small Texas town, a few things are guaranteed: - someone nearby will have chickens - [CHICKENS CLUCKING.] - George - Yeah? Go shoot those chickens. Everyone will know your business.…
 
 ## S2 E21 — 21. A Broken Heart and a Crock Monster
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0221.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0221.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -462,7 +462,7 @@ Watch for:
   - A few times a year, there was a dedicated day where my school was closed. This allowed the teachers to catch up on their administrative duties.…
 
 ## S2 E22 — 22. A Swedish Science Thing and the Equation for Toast
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0222.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0222.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -471,14 +471,14 @@ Watch for:
   - 1 [DISTORTED VOICES, RADIO CRACKLING.] What on Earth? Hello? - Hello, Mom. - Hi. I bet you're wondering. I sure am. It's a shortwave radio. Dr. Sturgis is letting me use it.…
 
 ## S3 E1 — 1. Quirky Eggheads and Texas Snow Globes
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0301.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0301.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 ADULT SHELDON: Some people are just natural-born worriers. My mother, for example, could whip herself into a frenzy even if I were sitting on my bed doing nothing. Shelly? Shelly? Everything okay? Hunky-dory.…
 
 ## S3 E2 — 2. A Broom Closet and Satan's Monopoly Board
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0302.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0302.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -487,14 +487,14 @@ Watch for:
   - 1 - Abigail Baker? - Here. Georgie Cooper? Here. Sheldon Cooper? Georgie, where's your brother? I don't know. Good enough for me. Melissa Dixon? ADULT SHELDON: Since I no longer had a college class with Dr.…
 
 ## S3 E3 — 3. An Entrepreneurialist and a Swat on the Bottom
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0303.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0303.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - Previously on Young Sheldon Dr. Linkletter! Please meet my girlfriend, Connie Tucker. Connie, did you grow up in Texas? - Took my first bath in a ten-gallon hat. - Oh, my goodness. You're as funny as you are beautiful.…
 
 ## S3 E4 — 4. Hobbitses, Physicses and a Ball with Zip
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0304.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0304.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -507,7 +507,7 @@ Watch for:
   - 1 Previously on Young Sheldon What the hell's going on? Mom thinks that I'm crazy. I thought we weren't supposed to say stuff like that. Baby, there's something I need to tell you. Dr.…
 
 ## S3 E5 — 5. A Pineapple and the Bosom of Male Friendship
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0305.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0305.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -516,7 +516,7 @@ Watch for:
   - 1 (BIRDS CHIRPING) Garden's looking nice. Well, not to commit the sin of pride, but I know. How did you come out of me? So, good news. John's coming home on Friday. That's wonderful. It is. You must be thrilled.…
 
 ## S3 E6 — 6. A Parasol and a Hell of an Arm
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0306.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0306.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -527,7 +527,7 @@ Watch for:
   - Previously on Young Sheldon - Dad, you busy? - What do you want? Would you teach me how to throw a baseball? That one had some zip on it. You might be a natural. Look who I brought.…
 
 ## S3 E7 — 7. Pongo Pygmaeus and a Culture that Encourages Spitting
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0307.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0307.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -540,7 +540,7 @@ Watch for:
   - Previously on Young Sheldon - Excuse me. - You Coach Ballard? - That'd be me. My daughter's here to try out. Come on, I'm not gonna put a girl on my team. Why not? She's got pigtails.…
 
 ## S3 E8 — 8. The Sin of Greed and a Chimichanga from Chi-Chi's
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0308.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0308.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -549,7 +549,7 @@ Watch for:
   - 1 - Here we go. - For many kids, Christmas morning wasthe most exciting day of the year. That's only because most kids don't know the joy of getting their college midterms back. It also didn't hurt that Dr.…
 
 ## S3 E9 — 9. A Party Invitation, Football Grapes and an Earth Chicken
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0309.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0309.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -558,14 +558,14 @@ Watch for:
   - 1 Previously on Young Sheldon We've never really discussed the status of our relationship. Men don't break up with me. I do the breaking up. STURGIS: So, uh, how's Connie? Hit him! Hit him again. Mom's good.…
 
 ## S3 E10 — 10. Teenager Soup and a Little Ball of Fib
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0310.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0310.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 Previously on Young Sheldon I saw Connie for the first time since I broke up with her, and it's making me wonder if she also is feeling lonely, and I made a bad decision for both of us.…
 
 ## S3 E11 — 11. A Live Chicken, a Fried Chicken and Holy Matrimony
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0311.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0311.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -578,14 +578,14 @@ Watch for:
   - 1 JEFF: The Bible says a lot about love. "Love thy neighbor. " "For God so loved the world. " In First Corinthians, it says, "Love is patient, love is kind.…
 
 ## S3 E12 — 12. Body Glitter and a Mall Safety Kit
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0312.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0312.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 Previously on Young Sheldon - Who are you? - I'm Paige. A unique child can require a lot of attention. Try all the attention. Barry and I haven't been in a good place in a long time.…
 
 ## S3 E13 — 13. Contracts, Rules and a Little Bit of Pig Brains
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0313.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0313.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -594,7 +594,7 @@ Watch for:
   - Previously on Young Sheldon Dr. Sturgis will be joining us for dinner. I thought he was in the nuthouse. We do not call it that. That's what Dad calls it. For starters, do not bring up his time in the hospital.…
 
 ## S3 E14 — 14. A Slump, a Cross and Roadside Gravel
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0314.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0314.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -607,7 +607,7 @@ Watch for:
   - 1 ADULT SHELDON: The Clean Air Act required all new cars to be equipped with catalytic converters to combat air pollution. The first state to do this was California, which led Texans to say things like - I hate…
 
 ## S3 E15 — 15. A Boyfriend's Ex-Wife and a Good Luck Head Rub
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0315.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0315.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -618,14 +618,14 @@ Watch for:
   - Previously on Young Sheldon Would you teach me how to throw a baseball? What's bringing this on? - I don't know. - You Coach Ballard? That'd be me. My daughter's here to try out. She made the team. Congratulations.…
 
 ## S3 E16 — 16. Pasadena
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0316.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0316.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - In the early days of the Internet, you couldn't stream movies or summon Thai food to your doorstep. But if you were interested in text-based news about upcoming physics lectures, it was a great time to be alive.…
 
 ## S3 E17 — 17. An Academic Crime and a More Romantic Taco Bell
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0317.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0317.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -636,7 +636,7 @@ Watch for:
   - Previously on Young Sheldon I love you. - Veronica. - Hey, Georgie. What's up? We're friends, right? - What do you mean? - I've asked you out a bunch, and you've made it pretty clear you weren't interested.…
 
 ## S3 E18 — 18. A Couple Bruised Ribs and a Cereal Box Ghost Detector
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0318.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0318.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -654,7 +654,7 @@ Watch for:
   - See what a special bond we have? Now answer the damn question! - Why were you gone for so long? - I don't want to talk about it.
 
 ## S3 E19 — 19. A House for Sale and Serious Woman Stuff
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0319.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0319.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 2 moment(s)
@@ -668,7 +668,7 @@ Watch for:
   - Not just 'cause she's a cop with a gun.
 
 ## S3 E20 — 20. A Baby Tooth and the Egyptian God of Knowledge
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0320.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0320.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -690,7 +690,7 @@ Watch for:
   - So don't be surprised if everybody knows my name, how I take my whiskey and the color of my lucky bra.
 
 ## S3 E21 — 21. A Secret Letter and a Lowly Disc of Processed Meat
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0321.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0321.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -701,7 +701,7 @@ Watch for:
   - Smoking, drinking, lying.
 
 ## S4 E1 — 1. Graduation
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0401.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0401.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -714,19 +714,19 @@ Watch for:
   - Hey, just bring her a margarita.
 
 ## S4 E2 — 2. A Docent, A Little Lady and a Bouncer Named Dalton
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0402.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0402.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Bruce Willis stabs a guy in the head with an icicle.
 
 ## S4 E3 — 3. Training Wheels and an Unleashed Chicken
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0403.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0403.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E4 — 4. Bible Camp and a Chariot of Love
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0404.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0404.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 4 moment(s)
@@ -738,7 +738,7 @@ Watch for:
   - accept Jesus Chr Go get me a beer, woman.
 
 ## S4 E5 — 5. A Musty Crypt and a Stick to Pee On
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0405.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0405.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -755,7 +755,7 @@ Watch for:
   - What do you? - [Dale.] Pull a beer out of it.
 
 ## S4 E6 — 6. Freshman Orientation and the Inventor of the Zipper
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0406.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0406.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -763,7 +763,7 @@ Watch for:
   - Like hell you are.
 
 ## S4 E7 — 7. A Philosophy Class and Worms That Can Chase You
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0407.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0407.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -772,7 +772,7 @@ Watch for:
   - You want to get some coffee? I was thinking vodka, but coffee will do.
 
 ## S4 E8 — 8. An Existential Crisis and a Bear That Makes Bubbles
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0408.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0408.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -783,7 +783,7 @@ Watch for:
   - What the hell? [adult Sheldon.]
 
 ## S4 E9 — 9. Crappy Frozen Ice Cream and an Organ Grinder's Monkey
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0409.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0409.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -803,7 +803,7 @@ Watch for:
   - What? Bring me back a beer.
 
 ## S4 E10 — 10. Cowboy Aerobics and 473 Grease-Free Bolts
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0410.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0410.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -817,7 +817,7 @@ Watch for:
   - I overheard some of your other candidates talking about marijuana.
 
 ## S4 E11 — 11. A Pager, a Club and a Cranky Bag of Wrinkles
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0411.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0411.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -832,7 +832,7 @@ Watch for:
   - Y'all still go out drinking together? It was our grandson's elementary school graduation.
 
 ## S4 E12 — 12. A Box of Treasure and the Meemaw of Science
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0412.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0412.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -841,14 +841,14 @@ Watch for:
   - Hell, I even crocheted a cover for Jolene.
 
 ## S4 E13 — 13. The Geezer Bus and a New Model for Education
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0413.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0413.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - "Maybe" my ass.
 
 ## S4 E14 — 14. Mitch's Son and the Unconditional Approval of a Government Agency
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0414.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0414.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 4 moment(s)
@@ -862,7 +862,7 @@ Watch for:
   - It ain't gonna undo 70 years of red meat and beer.
 
 ## S4 E15 — 15. A Virus, Heartbreak and a World of Possibilities
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0415.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0415.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -873,7 +873,7 @@ Watch for:
   - What happened? If there's another woman, she's a tramp and you're way prettier.
 
 ## S4 E16 — 16. A Second Prodigy and the Hottest Tips for Pouty Lips
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0416.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0416.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -887,7 +887,7 @@ Watch for:
   - Good luck. The only thing he has a crush on is beer.
 
 ## S4 E17 — 17. A Black Hole
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0417.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0417.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -898,7 +898,7 @@ Watch for:
   - Only thing I need for emotional support is a warm shotgun and a cold beer.
 
 ## S4 E18 — 18. The Wild and Woolly World of Nonlinear Dynamics
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0418.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0418.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -907,7 +907,7 @@ Watch for:
   - Dip the pacifier in some whiskey, put him right out.
 
 ## S5 E1 — 1. One Bad Night and Chaos of Selfish Desires
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0501.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0501.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -916,7 +916,7 @@ Watch for:
   - You look like you could use a shot with that beer.
 
 ## S5 E2 — 2. Snoopin' Around and the Wonder Twins of Atheism
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0502.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0502.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 4 moment(s)
@@ -928,7 +928,7 @@ Watch for:
   - Fresh blood. I like the sound of that.
 
 ## S5 E3 — 3. Potential Energy and Hooch on a Park Bench
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0503.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0503.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 3 moment(s)
@@ -943,7 +943,7 @@ Watch for:
   - So how come you're here tonight? Were you too drunk to ride your bike home, too? My father's mad 'cause I dropped out of school.
 
 ## S5 E4 — 4. Pish Posh and a Secret Back Room
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0504.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0504.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -960,7 +960,7 @@ Watch for:
   - Good to see you. Hey, thanks for coming out.
 
 ## S5 E5 — 5. Stuffed Animals and A Sweet Southern Syzygy
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0505.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0505.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -969,7 +969,7 @@ Watch for:
   - What's gonna happen next? You gonna get me a beer.
 
 ## S5 E6 — 6. Money Laundering and a Cascade of Hormones
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0506.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0506.html
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 10 moment(s)
@@ -987,7 +987,7 @@ Watch for:
   - I sure as hell don't.
 
 ## S5 E7 — 7. An Introduction to Engineering and a Glob of Hair Gel
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0507.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0507.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1004,7 +1004,7 @@ Watch for:
   - And Dale is? I got that hernia by dragging him onto the bed one night he came in passed-out drunk.
 
 ## S5 E8 — 8. The Grand Chancellor and a Den of Sin
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0508.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0508.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1016,7 +1016,7 @@ Watch for:
   - When I was a kid in El Paso, we used to cross the border to drink beer and dance the night away.
 
 ## S5 E9 — 9. The Yips and an Oddly Hypnotic Bohemian
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0509.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0509.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1041,7 +1041,7 @@ Watch for:
   - Are you drinking already? - [laughs.] No! Can't a guy give his wife a compliment? Do I have to smell your breath? How about a kiss instead? What is with you? Well, I don't know.
 
 ## S5 E10 — 10. An Expensive Glitch and a Goof-Off Room
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0510.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0510.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -1056,7 +1056,7 @@ Watch for:
   - What's to keep people from punching it themselves? I'm getting me a free sandwich.
 
 ## S5 E11 — 11. A Lock-In, a Weather Girl and a Disgusting Habit
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0511.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0511.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1072,7 +1072,7 @@ Watch for:
   - Yeah, I love my baby Heart and soul Love like ours Won't never grow old She's my sweet little thing She's my pride and joy She's my sweet little baby I'm her little lover boy Yeah, I love my baby like the finest wine…
 
 ## S5 E12 — 12. A Pink Cadillac and a Glorious Tribal Dance
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0512.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0512.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1081,7 +1081,7 @@ Watch for:
   - This is a face that would stop the spilling of blood.
 
 ## S5 E13 — 13. A Lot of Band-Aids and the Cooper Surrender
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0513.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0513.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -1100,21 +1100,21 @@ Watch for:
   - So thanks for coming out. Go, Wolves.
 
 ## S5 E14 — 14. A Free Scratcher and Feminine Wiles
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0514.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0514.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Ah, it was like taking off my bra at the end of a long day.
 
 ## S5 E15 — 15. A Lobster, an Armadillo and a Way Bigger Number
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0515.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0515.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - I know it's silly, but when I saw it lying there all bald and helpless, I thought, "That's gonna be me one day. " That is the most damn depressing thing I have ever heard.
 
 ## S5 E16 — 16. A Suitcase Full of Cash and a Yellow Clown Car
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0516.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0516.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1134,7 +1134,7 @@ Watch for:
   - You ever hear of a Texas college that only plays soccer? Can I get a beer first before we start with the hard questions? I went to Sheldon's college for a possible coaching gig.
 
 ## S5 E17 — 17. A Solo Peanut, a Social Butterfly, and the Truth
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0517.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0517.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1162,7 +1162,7 @@ Watch for:
   - Don't tell me to calm down! And good luck with your hangover.
 
 ## S5 E18 — 18. Babies, Lies and a Resplendent Cannoli
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0518.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0518.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1177,7 +1177,7 @@ Watch for:
   - Maybe she cheated on me.
 
 ## S5 E19 — 19. A God-Fearin' Baptist and a Hot Trophy Husband
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0519.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0519.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1193,7 +1193,7 @@ Watch for:
   - You go out drinking last night? - Of course not.
 
 ## S5 E20 — 20. Uncle Sheldon and a Hormonal Firecracker
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0520.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0520.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1208,7 +1208,7 @@ Watch for:
   - That son of a gun.
 
 ## S5 E21 — 21. White Trash, Holy Rollers and Punching People
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0521.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0521.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1230,7 +1230,7 @@ Watch for:
   - What did he tell you? Nothing much, really, just that his parents are fighting all the time, his older brother got a girl pregnant and his sister punched a little boy in Sunday school.
 
 ## S5 E22 — 22. A Clogged Pore, a Little Spanish, and the Future
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0522.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0522.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1254,7 +1254,7 @@ Watch for:
   - Jesus turned water into wine.
 
 ## S6 E1 — 1. Four Hundred Cartons of Undeclared Cigarettes and a Niblingo
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0601.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0601.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1279,7 +1279,7 @@ Watch for:
   - More like having tequila before sex.
 
 ## S6 E2 — 2. Future Worf and the Margarita of the South Pacific
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0602.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0602.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1294,7 +1294,7 @@ Watch for:
   - as the margarita of the South Pacific.
 
 ## S6 E3 — 3. Passion’s Harvest and a Sheldocracy
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0603.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0603.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1311,7 +1311,7 @@ Watch for:
   - What are you drinking, Marie?
 
 ## S6 E4 — 4. Blonde Ambition and the Concept of Zero
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0604.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0604.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1330,7 +1330,7 @@ Watch for:
   - cheat off me if you want.
 
 ## S6 E5 — 5. A Resident Advisor and the Word 'Sketchy'
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0605.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0605.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1343,7 +1343,7 @@ Watch for:
   - without all the murder and mayhem.
 
 ## S6 E6 — 6. An Ugly Car, an Affair and Some Kickass Football
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0606.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0606.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1361,7 +1361,7 @@ Watch for:
   - I got vodka and root beer.
 
 ## S6 E7 — 7. A Tougher Nut and a Note on File
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0607.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0607.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 6 moment(s)
@@ -1377,7 +1377,7 @@ Watch for:
   - Find it and Suicide Squad is yours.
 
 ## S6 E8 — 8. Legalese and a Whole Hoo-Ha
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0608.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0608.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1393,7 +1393,7 @@ Watch for:
   - Speaking of which, can I get you a beer?
 
 ## S6 E9 — 9. College Dropouts and the Medford Miracle
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0609.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0609.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1406,7 +1406,7 @@ Watch for:
   - beating us to the punch.
 
 ## S6 E10 — 10. Pancake Sunday and Textbook Flirting
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0610.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0610.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1424,7 +1424,7 @@ Watch for:
   - What the hell, what?
 
 ## S6 E11 — 11. Ruthless, Toothless and a Week of Bed Rest
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0611.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0611.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1436,7 +1436,7 @@ Watch for:
   - Damn, it was right there.
 
 ## S6 E12 — 12. A Baby Shower and a Testosterone-Rich Banter
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0612.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0612.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1451,7 +1451,7 @@ Watch for:
   - Don't go drinking out of my bottle.
 
 ## S6 E13 — 13. A Frat Party, a Sleepover and the Mother of All Blisters
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0613.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0613.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1479,7 +1479,7 @@ Watch for:
   - a drunk girl in your bed.
 
 ## S6 E14 — 14. A Launch Party and a Whole Human Being
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0614.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0614.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1492,7 +1492,7 @@ Watch for:
   - So, who did George almost punch?
 
 ## S6 E15 — 15. Teen Angst and a Smart-Boy Walk of Shame
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0615.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0615.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1502,7 +1502,7 @@ Watch for:
   - what cheating looks like.
 
 ## S6 E16 — 16. A Stolen Truck and Going on the Lam
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0616.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0616.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 4 moment(s)
@@ -1516,7 +1516,7 @@ Watch for:
   - It means drunk.
 
 ## S6 E17 — 17. A German Folk Song and an Actual Adult
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0617.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0617.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1532,7 +1532,7 @@ Watch for:
   - So the music's like a cheat sheet
 
 ## S6 E18 — 18. Little Green Men and a Fella's Marriage Proposal
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0618.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0618.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1542,7 +1542,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S6 E19 — 19. A New Weather Girl and a Stay-at-Home Coddler
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0619.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0619.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 3 moment(s)
@@ -1553,7 +1553,7 @@ Watch for:
   - whiskey in that coffee.
 
 ## S6 E20 — 20. German for Beginners and a Crazy Old Man with a Bat
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0620.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0620.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1565,7 +1565,7 @@ Watch for:
   - Beer is not a snack.
 
 ## S6 E21 — 21. A Romantic Getaway and a Germanic Meat-Based Diet
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0621.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0621.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1579,7 +1579,7 @@ Watch for:
   - drinking enough water?
 
 ## S6 E22 — 22. A Tornado, a 10-Hour Flight and a Darn Fine Ring
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0622.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0622.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1587,7 +1587,7 @@ Watch for:
   - What the hell is all this?
 
 ## S7 E1 — 1. A Weiner Schnitzel and Underwear in a Tree
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0701.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0701.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1602,7 +1602,7 @@ Watch for:
   - I don't want to go to hell.
 
 ## S7 E2 — 2. A Roulette Wheel and a Piano Playing Dog
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0702.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0702.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 3 moment(s)
@@ -1614,7 +1614,7 @@ Watch for:
   - A beer in the middle of the afternoon?
 
 ## S7 E3 — 3. A Strudel and a Hot American Boy Toy
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0703.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0703.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1632,7 +1632,7 @@ Watch for:
   - the tear gas coming out of your pants.
 
 ## S7 E4 — 4. Ants on a Log and a Cheating Winker
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0704.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0704.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1648,7 +1648,7 @@ Watch for:
   - the cheating winker.
 
 ## S7 E5 — 5. A Frankenstein's Monster and a Crazy Church Guy
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0705.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0705.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1675,7 +1675,7 @@ Watch for:
   - Is that beer?
 
 ## S7 E6 — 6. Baptists, Catholics and an Attempted Drowning
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0706.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0706.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1689,7 +1689,7 @@ Watch for:
   - Jesus drank wine!
 
 ## S7 E7 — 7. A Proper Wedding and Skeletons in the Closet
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0707.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0707.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1704,7 +1704,7 @@ Watch for:
   - Are you drunk?
 
 ## S7 E8 — 8. An Ankle Monitor and a Big Plastic Crap House
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0708.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0708.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1721,7 +1721,7 @@ Watch for:
   - I don't know. Y-You want to get drunk?
 
 ## S7 E9 — 9. A Fancy Article and a Scholarship for a Baby
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0709.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0709.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1731,7 +1731,7 @@ Watch for:
   - and some beer to wash it down.
 
 ## S7 E10 — 10. Community Service and the Key to a Happy Marriage
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0710.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0710.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -1744,14 +1744,14 @@ Watch for:
   - This room better be spic and span.
 
 ## S7 E11 — 11. A Little Snip and Teaching Old Dogs
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0711.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0711.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - Poor bastard. Shuffling
 
 ## S7 E12 — 12. A New Home and a Traditional Texas Torture
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0712.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0712.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1761,7 +1761,7 @@ Watch for:
   - Only when I'm drinking.
 
 ## S7 E13 — 13. Funeral
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0713.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0713.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1779,7 +1779,7 @@ Watch for:
   - than the Lone Star Beer company.
 
 ## S7 E14 — 14. Memoir
-URL: https://watchwithkids.vercel.app/ep/young-sheldon/0714.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0714.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)

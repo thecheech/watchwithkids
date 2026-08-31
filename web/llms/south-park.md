@@ -1,11 +1,11 @@
 # South Park — parent guide (335 episodes)
 
-Source: https://watchwithkids.vercel.app/south-park.html
+Source: https://watchwiththekids.com/south-park.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 1 all clear (1–2), 19 gray area (3), 315 hard pass (4–5).
 
 ## Ep 47 — 47. Joining the Panderverse
-URL: https://watchwithkids.vercel.app/ep/south-park/0047.html
+URL: https://watchwiththekids.com/ep/south-park/0047.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 78 moment(s)
@@ -50,7 +50,7 @@ Watch for:
   - if you hadn't tried to fight racism
 
 ## Ep 48 — 48. Not Suitable for Children
-URL: https://watchwithkids.vercel.app/ep/south-park/0048.html
+URL: https://watchwiththekids.com/ep/south-park/0048.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 6 moment(s)
@@ -88,7 +88,7 @@ Watch for:
   - She is not a slut.
 
 ## Ep 49 — 49. The End of Obesity
-URL: https://watchwithkids.vercel.app/ep/south-park/0049.html
+URL: https://watchwiththekids.com/ep/south-park/0049.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 62 moment(s)
@@ -123,7 +123,7 @@ Watch for:
   - like a cum whore.
 
 ## S1 E1 — 1. Cartman Gets an Anal Probe
-URL: https://watchwithkids.vercel.app/ep/south-park/0101.html
+URL: https://watchwiththekids.com/ep/south-park/0101.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -136,7 +136,7 @@ Watch for:
   - Cartman Gets an Anal Probe Damn it! My little brother's trying to follow me to school again. Ike, you can't come to school with me. - Go home, you little dildo. - Dude, don't call my brother a dildo.…
 
 ## S1 E2 — 2. Weight Gain 4000
-URL: https://watchwithkids.vercel.app/ep/south-park/0102.html
+URL: https://watchwiththekids.com/ep/south-park/0102.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -151,7 +151,7 @@ Watch for:
   - Weight Gain 4000 - Did you see that rainbow this morning? - It was huge. I hate those things! - Nobody hates rainbows. - What's there to hate about them?…
 
 ## S1 E3 — 3. Volcano
-URL: https://watchwithkids.vercel.app/ep/south-park/0103.html
+URL: https://watchwiththekids.com/ep/south-park/0103.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -164,7 +164,7 @@ Watch for:
   - Volcano Now, you be careful, Eric. The woods can be very dangerous. Okay, Mom. - Ready to go hunting? - My Uncle Jimbo says we gotta go early. Right. Animals are easier to shoot in the morning. Here, hon.…
 
 ## S1 E4 — 4. Big Gay Al's Big Gay Boat Ride
-URL: https://watchwithkids.vercel.app/ep/south-park/0104.html
+URL: https://watchwiththekids.com/ep/south-park/0104.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -175,7 +175,7 @@ Watch for:
   - Big Gay Al's Big Gay Boat Ride Where's the bus? We'll be late for practice. - Hi, Sparky. - Who's that? My new dog Sparky. He followed me. - Wow, cool! - Good boy.…
 
 ## S1 E5 — 5. An Elephant Makes Love to a Pig
-URL: https://watchwithkids.vercel.app/ep/south-park/0105.html
+URL: https://watchwiththekids.com/ep/south-park/0105.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -190,7 +190,7 @@ Watch for:
   - An Elephant Makes Love to a Pig - Stan, where'd you get that black eye? - Nothing, I mean nowhere. - Your sister beat you up again? - No! Your sister kicked your ass! She's pissed she got headgear.…
 
 ## S1 E6 — 6. Death
-URL: https://watchwithkids.vercel.app/ep/south-park/0106.html
+URL: https://watchwiththekids.com/ep/south-park/0106.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -205,7 +205,7 @@ Watch for:
   - Death Now blow out the candles, Grandpa. - How's it feel to be 1 02, Paps? - Shoot me. - Make a wish, Grandpa. - I wish I were dead. - That's silly. - I'm not being silly, kill me. - I'd do it myself, but I'm too old.…
 
 ## S1 E7 — 7. Pinkeye
-URL: https://watchwithkids.vercel.app/ep/south-park/0107.html
+URL: https://watchwiththekids.com/ep/south-park/0107.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -218,7 +218,7 @@ Watch for:
   - Hooray! Pink Eye - Oh, my God, they killed Kenny! - You bastards! - What the hell is that thing? - A UFO. There's no such thing as UFOs. Let's get him to the morgue. Wait till you see my Halloween costume.…
 
 ## S1 E8 — 8. Starvin' Marvin
-URL: https://watchwithkids.vercel.app/ep/south-park/0108.html
+URL: https://watchwiththekids.com/ep/south-park/0108.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -227,7 +227,7 @@ Watch for:
   - Damien Here you go, Kyle. Here's yours, Stan. - What is this? - Invitations to my birthday party. Your mom's giving you a big party again? That's right. Kick-ass! Cartman's mom throws the best parties! - That's right.…
 
 ## S1 E9 — 9. Mr. Hankey, the Christmas Poo
-URL: https://watchwithkids.vercel.app/ep/south-park/0109.html
+URL: https://watchwiththekids.com/ep/south-park/0109.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -240,14 +240,14 @@ Watch for:
   - Starvin' Marvin - That was awesome. - Would you boys like Cheesy Poofs? Move! The Terrance & Phillip Thanksgiving Special is on. - Sure. - Yeah, we want Cheesy Poofs.…
 
 ## S1 E10 — 10. Damien
-URL: https://watchwithkids.vercel.app/ep/south-park/0110.html
+URL: https://watchwiththekids.com/ep/south-park/0110.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
   - Hooray! Mr. Hankey, The Christmas Poo Lights, please. There were shepherds abiding in the field, watching over their flock. The Lord's angel came upon them, and they were afraid. He said: "Fear not.…
 
 ## S1 E11 — 11. Tom's Rhinoplasty
-URL: https://watchwithkids.vercel.app/ep/south-park/0111.html
+URL: https://watchwiththekids.com/ep/south-park/0111.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -262,7 +262,7 @@ Watch for:
   - Tom's Rhinoplasty - Stan, it's almost Valentine's Day. - I know. - We should go on a cruise. - I can't afford a cruise. We can make a little boat out of cardboard and pretend it's a cruise. Shut up, Cartman.…
 
 ## S1 E12 — 12. Mecha-Streisand
-URL: https://watchwithkids.vercel.app/ep/south-park/0112.html
+URL: https://watchwiththekids.com/ep/south-park/0112.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -273,7 +273,7 @@ Watch for:
   - Mecha Streisand So these ancient arrowheads are buried deep in the earth. We dig them up and find over 1 2 new arrowheads every month. Boring! Eric, keep quiet! I'm trying to sleep.…
 
 ## S1 E13 — 13. Cartman's Mom is a Dirty Slut
-URL: https://watchwithkids.vercel.app/ep/south-park/0113.html
+URL: https://watchwiththekids.com/ep/south-park/0113.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -292,7 +292,7 @@ Watch for:
   - Cartman's Mom is a Dirty Slut Cartman's not showing up for school. Yeah, this is the third day in a row. I wonder what's wrong. - Yeah. - Hey, maybe we should go check on him. - Come on, we're running late.…
 
 ## S2 E1 — 1. Terrance & Phillip in "Not Without My Anus"
-URL: https://watchwithkids.vercel.app/ep/south-park/0201.html
+URL: https://watchwiththekids.com/ep/south-park/0201.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -305,7 +305,7 @@ Watch for:
   - Since the last South Park you've waited four long weeks to find out who the father of Eric Cartman is. Now, finally, the shocking truth about Cartman's lineage will not be seen tonight so we can bring you the following…
 
 ## S2 E2 — 2. Cartman's Mom is Still a Dirty Slut
-URL: https://watchwithkids.vercel.app/ep/south-park/0202.html
+URL: https://watchwiththekids.com/ep/south-park/0202.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -323,7 +323,7 @@ Watch for:
   - Previously on South Park: An air of sobriety fills laboratory as the men of South Park gather to find out which one of them fathered this boy.…
 
 ## S2 E3 — 3. Chickenlover
-URL: https://watchwithkids.vercel.app/ep/south-park/0203.html
+URL: https://watchwiththekids.com/ep/south-park/0203.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -336,7 +336,7 @@ Watch for:
   - Ok children each of you gets to choose - Reading sucks ass! - Eric, shut up! Boring, boring - Gay, boring, boring. - Hey guys, check out these books. - Sabrina unchained.…
 
 ## S2 E4 — 4. Ike's Wee Wee
-URL: https://watchwithkids.vercel.app/ep/south-park/0204.html
+URL: https://watchwiththekids.com/ep/south-park/0204.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -352,7 +352,7 @@ Watch for:
   - Ok children, let's take our seats. This morning we're going to have a special lecture from your school counselor, Mr. Mackee. Now, now, who was that? That is not appropriate behavior, mmkay? I'm sorry Mr.…
 
 ## S2 E5 — 5. Conjoined Fetus Lady
-URL: https://watchwithkids.vercel.app/ep/south-park/0205.html
+URL: https://watchwiththekids.com/ep/south-park/0205.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -367,7 +367,7 @@ Watch for:
   - Ok children it's Friday and you know what that means for PE class. We're gonna play dodgeball! - We don't wanna play dodgeball. It hurts.…
 
 ## S2 E6 — 6. The Mexican Staring Frog of Southern Sri Lanka
-URL: https://watchwithkids.vercel.app/ep/south-park/0206.html
+URL: https://watchwiththekids.com/ep/south-park/0206.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Porn / strippers — 1 moment(s)
@@ -380,7 +380,7 @@ Watch for:
   - And now back to hunting and killing with South Park's favorite hunters, Jimbo and Ned. I'm Jimbo Kerny and this is here is Ned. Say hi, Ned. - Nnnhi, Ned. - Now, isn't that great? We have a terrific show for you today.…
 
 ## S2 E7 — 7. City on the Edge of Forever (a.k.a. Flashbacks)
-URL: https://watchwithkids.vercel.app/ep/south-park/0207.html
+URL: https://watchwiththekids.com/ep/south-park/0207.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -396,7 +396,7 @@ Watch for:
   - Be quiet back there! These roads are SLICK!!!! Hey Cartman. What? Are you gonna share any of that cake with the rest of us? Mm, let me think. No. Come on fatass, you shouldn't be eating all that cake anyway.…
 
 ## S2 E8 — 8. Summer Sucks
-URL: https://watchwithkids.vercel.app/ep/south-park/0208.html
+URL: https://watchwiththekids.com/ep/south-park/0208.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -411,7 +411,7 @@ Watch for:
   - Ok children I know that today is the last day of school, and that the last day of school involves pranks, but this is going too far! Now what've you done with Mr. Hat?? Children, I want Mr.…
 
 ## S2 E9 — 9. Chef's Chocolate Salty Balls
-URL: https://watchwithkids.vercel.app/ep/south-park/0209.html
+URL: https://watchwiththekids.com/ep/south-park/0209.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -424,7 +424,7 @@ Watch for:
   - Why do we hold the Sundance Film Festival here Phillis? It's so painfully crowded. Because, people from LA love to come to a quaint little mountain town for a few days, and this gives them excuse.…
 
 ## S2 E10 — 10. Chickenpox
-URL: https://watchwithkids.vercel.app/ep/south-park/0210.html
+URL: https://watchwiththekids.com/ep/south-park/0210.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -437,7 +437,7 @@ Watch for:
   - It's a good thing we got her to the hospital in time. - What's wrong with her? It's chickenpox. There seems to be a small epidemic going around.…
 
 ## S2 E11 — 11. Roger Ebert Should Lay Off the Fatty Foods
-URL: https://watchwithkids.vercel.app/ep/south-park/0211.html
+URL: https://watchwiththekids.com/ep/south-park/0211.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -450,7 +450,7 @@ Watch for:
   - Well detective it looks like you fooled them again. Well then it is work I guess. I just hope that next time, I don't have to run so much.…
 
 ## S2 E12 — 12. Clubhouses
-URL: https://watchwithkids.vercel.app/ep/south-park/0212.html
+URL: https://watchwiththekids.com/ep/south-park/0212.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -467,7 +467,7 @@ Watch for:
   - Sargent Stanley Marsh is trapped behind enemy lines. His only chance of survival is to sneak past the Bosnian guard who stands watch. Sargent Marsh knows it's now or never. He must make a run for it.…
 
 ## S2 E13 — 13. Cow Days
-URL: https://watchwithkids.vercel.app/ep/south-park/0213.html
+URL: https://watchwiththekids.com/ep/south-park/0213.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -485,7 +485,7 @@ Watch for:
   - Well Tom and Mary, you've made it to the final round. Are you ready to play for the grand prize? - We're ready Bob! - Any particular prize you're hoping for? Well Hawaii's nice but Tahiti would be fun too!…
 
 ## S2 E14 — 14. Chef Aid
-URL: https://watchwithkids.vercel.app/ep/south-park/0214.html
+URL: https://watchwiththekids.com/ep/south-park/0214.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -502,7 +502,7 @@ Watch for:
   - I'm going down to South Park, gonna have myself a time. Friendly faces everywhere, humble folks without temptation. Going down to South Park, gonna leave my woes behind.…
 
 ## S2 E15 — 15. Spooky Fish
-URL: https://watchwithkids.vercel.app/ep/south-park/0215.html
+URL: https://watchwiththekids.com/ep/south-park/0215.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -524,7 +524,7 @@ Watch for:
   - The following program is brought to you in Spooky Vision. Be warned, all scenes will be accompanied by pictures of Barbara Streisand. I wonder why Cartman wasn't in school today?…
 
 ## S2 E16 — 16. Merry Christmas Charlie Manson!
-URL: https://watchwithkids.vercel.app/ep/south-park/0216.html
+URL: https://watchwiththekids.com/ep/south-park/0216.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -533,7 +533,7 @@ Watch for:
   - The answer is no, Stanley. But mom all the guys are going to Cartman's grandma's for the weekend. I'm sorry Stanley. I can't let you go all the way to Nebraska by yourself. - It's the holidays.…
 
 ## S2 E17 — 17. Gnomes (a.k.a. Underpants Gnomes)
-URL: https://watchwithkids.vercel.app/ep/south-park/0217.html
+URL: https://watchwiththekids.com/ep/south-park/0217.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -546,7 +546,7 @@ Watch for:
   - Settle down children. I have some difficult news which is going to make you all very sad. The school board is considering firing me as your teacher.…
 
 ## S2 E18 — 18. Prehistoric Ice Man
-URL: https://watchwithkids.vercel.app/ep/south-park/0218.html
+URL: https://watchwiththekids.com/ep/south-park/0218.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -562,7 +562,7 @@ Watch for:
   - As we steer out boats, looking for these dangerous predators. There's a king croc right there. He must be 4 meters. 12, 13 feet long at least. This croc has enough power in his jaws to rip my head right off.…
 
 ## S3 E1 — 1. Rainforest Schmainforest
-URL: https://watchwithkids.vercel.app/ep/south-park/0301.html
+URL: https://watchwiththekids.com/ep/south-park/0301.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -575,7 +575,7 @@ Watch for:
   - Ok children we have a special guest today, a woman recruiting young people for a national choir tour. Now I know that choir tours are totally stupid and lame, but please give her your full attention. - Go ahead.…
 
 ## S3 E2 — 2. Spontaneous Combustion
-URL: https://watchwithkids.vercel.app/ep/south-park/0302.html
+URL: https://watchwiththekids.com/ep/south-park/0302.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -586,7 +586,7 @@ Watch for:
   - Is this what you're looking for, Kyle? - No, I don't think so. - How about this? - No, that's a hair dryer. - Can I help you find something? - Yeah, do you have any erections? - Any what?…
 
 ## S3 E3 — 3. The Succubus (a.k.a. Chef's Mama)
-URL: https://watchwithkids.vercel.app/ep/south-park/0303.html
+URL: https://watchwiththekids.com/ep/south-park/0303.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -599,7 +599,7 @@ Watch for:
   - Mom, please can we just leave? You have to see the eye doctor Eric. But I hate the eye doctor. He always makes fun of me for being fat. You're not fat, you're big boned.…
 
 ## S3 E4 — 4. Jakovasaurs
-URL: https://watchwithkids.vercel.app/ep/south-park/0304.html
+URL: https://watchwiththekids.com/ep/south-park/0304.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -610,7 +610,7 @@ Watch for:
   - This is shop class! My name is Mr. Adler! For the next week, rather than your normal school work, you will be learning how to make things! Now, does anybody know why you are in shop class?!…
 
 ## S3 E5 — 5. Tweek vs. Craig
-URL: https://watchwithkids.vercel.app/ep/south-park/0305.html
+URL: https://watchwiththekids.com/ep/south-park/0305.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -621,7 +621,7 @@ Watch for:
   - This is shop class! My name is Mr. Adler! For the next week, rather than your normal school work, you will be learning how to make things! Now, does anybody know why you are in shop class?!…
 
 ## S3 E6 — 6. Sexual Harassment Panda
-URL: https://watchwithkids.vercel.app/ep/south-park/0306.html
+URL: https://watchwiththekids.com/ep/south-park/0306.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -636,7 +636,7 @@ Watch for:
   - Okay, Children! Lets take our seats. We have something very important to discuss. Due to recent events around the country, I've been instructed to teach you all about sexual harrassment in school.…
 
 ## S3 E7 — 7. Cat Orgy (1)
-URL: https://watchwithkids.vercel.app/ep/south-park/0307.html
+URL: https://watchwiththekids.com/ep/south-park/0307.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -649,7 +649,7 @@ Watch for:
   - Now I will kill the president and kill Salma Hayek! Oh Save Me! Who will save me! I will! James West! Cowboy and rapstar. Quick, Artimus Clyde Frog! We've got to save Salma Hayek!…
 
 ## S3 E8 — 8. Two Guys Naked in a Hot Tub (2) (a.k.a. Melvins)
-URL: https://watchwithkids.vercel.app/ep/south-park/0308.html
+URL: https://watchwiththekids.com/ep/south-park/0308.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -668,7 +668,7 @@ Watch for:
   - I don't wanna go to the stupid party! Come on, Stan! You're gonna have a great time! No! YOU guys are gonna have a great time! Whenever there's a party, the adults get to hang out and have fun while the kids spend the…
 
 ## S3 E9 — 9. Jewbilee (3)
-URL: https://watchwithkids.vercel.app/ep/south-park/0309.html
+URL: https://watchwiththekids.com/ep/south-park/0309.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -677,7 +677,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S3 E10 — 10. Korn's Groovy Pirate Ghost Mystery
-URL: https://watchwithkids.vercel.app/ep/south-park/0310.html
+URL: https://watchwiththekids.com/ep/south-park/0310.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -692,7 +692,7 @@ Watch for:
   - We're here live at the KOZY 102. 1 Hallween Haunt at the South Park docks! Come on down! We've got a haunted house and everyone is decorating for tomorrow night, HALLOWEEN, when the band KoRn, that's right, KoRn, is…
 
 ## S3 E11 — 11. Chinpokomon
-URL: https://watchwithkids.vercel.app/ep/south-park/0311.html
+URL: https://watchwiththekids.com/ep/south-park/0311.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -707,7 +707,7 @@ Watch for:
   - Look, Eric! Mommy got you a present! A present! Is it a Rocket Racer?! No! Lemmie guess! It's a Frogman Game Board! No, wait! I know! It's a Police Power Chopper! No!…
 
 ## S3 E12 — 12. Hooked on Monkey Fonics
-URL: https://watchwithkids.vercel.app/ep/south-park/0312.html
+URL: https://watchwiththekids.com/ep/south-park/0312.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -718,7 +718,7 @@ Watch for:
   - Marklar! This is Marklar! Approaching Marklar! Proceed with Marklar and make first contact! Marklar. Greetings, Marklars! I am Marklar! I come in Marklar! Oh, Marklar! Hello, everyone! I am sister Hollis!…
 
 ## S3 E13 — 13. Starvin' Marvin in Space!
-URL: https://watchwithkids.vercel.app/ep/south-park/0313.html
+URL: https://watchwiththekids.com/ep/south-park/0313.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -729,7 +729,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S3 E14 — 14. The Red Badge of Gayness (a.k.a. War)
-URL: https://watchwithkids.vercel.app/ep/south-park/0314.html
+URL: https://watchwiththekids.com/ep/south-park/0314.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -746,7 +746,7 @@ Watch for:
   - Ready?! One, two, three, four! Yeah! Yeah! We like to rock! Yeah! I like to rock! Hello, Baltimore! - Cartman, what the hell are you doing?! - I'm playing the drum! Well, you have to hit it softer!…
 
 ## S3 E15 — 15. Mr. Hankey's Christmas Classics
-URL: https://watchwithkids.vercel.app/ep/south-park/0315.html
+URL: https://watchwiththekids.com/ep/south-park/0315.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -759,7 +759,7 @@ Watch for:
   - Fighting the frizzies at eleven! We've all heard of Rudolph and his shiny nose, and we all know Frosty who's made out of snow! But, all of those stories seem kind of gay, 'cause we all know who brightens up our…
 
 ## S3 E16 — 16. Are You There God, It's Me Jesus
-URL: https://watchwithkids.vercel.app/ep/south-park/0316.html
+URL: https://watchwiththekids.com/ep/south-park/0316.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -774,7 +774,7 @@ Watch for:
   - Dude, what're we gonna do for New Year's Eve?! It has to be awesome! I know! It's probably gonna be the biggest night of our lives! - Y'guys! Y'guys! Guess what! - What, fatass?! I've become a man!…
 
 ## S3 E17 — 17. Worldwide Recorder Concert (a.k.a. The Brown Noise)
-URL: https://watchwithkids.vercel.app/ep/south-park/0317.html
+URL: https://watchwiththekids.com/ep/south-park/0317.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -789,7 +789,7 @@ Watch for:
   - This Saturday, POX presents the musical event of the new millennium! You all remember playing the recorder in elementary school? Well this Saturday, in Oklahoma City, over four million third-grade students from all…
 
 ## S4 E1 — 1. The Tooth Fairy's TATS 2000
-URL: https://watchwithkids.vercel.app/ep/south-park/0401.html
+URL: https://watchwiththekids.com/ep/south-park/0401.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -801,7 +801,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E2 — 2. Cartman's Silly Hate Crime 2000
-URL: https://watchwithkids.vercel.app/ep/south-park/0402.html
+URL: https://watchwiththekids.com/ep/south-park/0402.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -818,7 +818,7 @@ Watch for:
   - What the hell is a hate crime? Uh, but I don't think this is a ruh- New laws have been passed that make any crime based on race, ethnicity, or sexual orientation a federal offense. What? A federal offense? -Oh no.…
 
 ## S4 E3 — 3. Timmy! 2000
-URL: https://watchwithkids.vercel.app/ep/south-park/0403.html
+URL: https://watchwiththekids.com/ep/south-park/0403.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -829,7 +829,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E4 — 4. Quintuplets 2000
-URL: https://watchwithkids.vercel.app/ep/south-park/0404.html
+URL: https://watchwiththekids.com/ep/south-park/0404.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -842,7 +842,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E5 — 5. Cartman Joins NAMBLA
-URL: https://watchwithkids.vercel.app/ep/south-park/0405.html
+URL: https://watchwiththekids.com/ep/south-park/0405.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -855,7 +855,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E6 — 6. Cherokee Hair Tampons
-URL: https://watchwithkids.vercel.app/ep/south-park/0406.html
+URL: https://watchwiththekids.com/ep/south-park/0406.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -873,7 +873,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E7 — 7. Chef Goes Nanners
-URL: https://watchwithkids.vercel.app/ep/south-park/0407.html
+URL: https://watchwiththekids.com/ep/south-park/0407.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -886,7 +886,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E8 — 8. Something You Can Do with Your Finger (a.k.a. Fingerbang)
-URL: https://watchwithkids.vercel.app/ep/south-park/0408.html
+URL: https://watchwiththekids.com/ep/south-park/0408.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -899,7 +899,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E9 — 9. Do the Handicapped Go to Hell? (1)
-URL: https://watchwithkids.vercel.app/ep/south-park/0409.html
+URL: https://watchwiththekids.com/ep/south-park/0409.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -914,7 +914,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E10 — 10. Probably (2)
-URL: https://watchwithkids.vercel.app/ep/south-park/0410.html
+URL: https://watchwiththekids.com/ep/south-park/0410.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -929,7 +929,7 @@ Watch for:
   - Today, we are going to talk about hell! Hello, satan! Saddam. Us jews don't believe in hell. But what if we're wrong? Let's go! They killed kenny! He had sins that he didn't confess!…
 
 ## S4 E11 — 11. Fourth Grade
-URL: https://watchwithkids.vercel.app/ep/south-park/0411.html
+URL: https://watchwiththekids.com/ep/south-park/0411.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -945,7 +945,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E12 — 12. Trapper Keeper
-URL: https://watchwithkids.vercel.app/ep/south-park/0412.html
+URL: https://watchwiththekids.com/ep/south-park/0412.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -960,7 +960,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E13 — 13. Helen Keller! The Musical
-URL: https://watchwithkids.vercel.app/ep/south-park/0413.html
+URL: https://watchwiththekids.com/ep/south-park/0413.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -975,7 +975,7 @@ Watch for:
   - Captioning provided by comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ?…
 
 ## S4 E14 — 14. Pip (a.k.a. Great Expectations)
-URL: https://watchwithkids.vercel.app/ep/south-park/0414.html
+URL: https://watchwiththekids.com/ep/south-park/0414.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -993,7 +993,7 @@ Watch for:
   - comedy central Ahh dickens- The imagery of cobblestone streets, Craggy london buildings And nutmeg-Filled yorkshire puddings. Hello, i'm a british person.…
 
 ## S4 E15 — 15. Fat Camp
-URL: https://watchwithkids.vercel.app/ep/south-park/0415.html
+URL: https://watchwiththekids.com/ep/south-park/0415.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1012,7 +1012,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E16 — 16. The Wacky Molestation Adventure
-URL: https://watchwithkids.vercel.app/ep/south-park/0416.html
+URL: https://watchwiththekids.com/ep/south-park/0416.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1023,7 +1023,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S4 E17 — 17. A Very Crappy Christmas
-URL: https://watchwithkids.vercel.app/ep/south-park/0417.html
+URL: https://watchwiththekids.com/ep/south-park/0417.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1039,7 +1039,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E1 — 1. It Hits the Fan
-URL: https://watchwithkids.vercel.app/ep/south-park/0501.html
+URL: https://watchwiththekids.com/ep/south-park/0501.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1058,7 +1058,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E2 — 2. Cripple Fight
-URL: https://watchwithkids.vercel.app/ep/south-park/0502.html
+URL: https://watchwiththekids.com/ep/south-park/0502.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1071,7 +1071,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E3 — 3. Super Best Friends
-URL: https://watchwithkids.vercel.app/ep/south-park/0503.html
+URL: https://watchwiththekids.com/ep/south-park/0503.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1088,7 +1088,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E4 — 4. Scott Tenorman Must Die
-URL: https://watchwithkids.vercel.app/ep/south-park/0504.html
+URL: https://watchwiththekids.com/ep/south-park/0504.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1106,7 +1106,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E5 — 5. Terrance and Phillip: Behind the Blow
-URL: https://watchwithkids.vercel.app/ep/south-park/0505.html
+URL: https://watchwiththekids.com/ep/south-park/0505.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1123,7 +1123,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E6 — 6. Cartmanland
-URL: https://watchwithkids.vercel.app/ep/south-park/0506.html
+URL: https://watchwiththekids.com/ep/south-park/0506.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1136,7 +1136,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E7 — 7. Proper Condom Use
-URL: https://watchwithkids.vercel.app/ep/south-park/0507.html
+URL: https://watchwiththekids.com/ep/south-park/0507.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1152,7 +1152,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E8 — 8. Towelie
-URL: https://watchwithkids.vercel.app/ep/south-park/0508.html
+URL: https://watchwiththekids.com/ep/south-park/0508.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1163,7 +1163,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E9 — 9. Osama Bin Laden Has Farty Pants
-URL: https://watchwithkids.vercel.app/ep/south-park/0509.html
+URL: https://watchwiththekids.com/ep/south-park/0509.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1174,7 +1174,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E10 — 10. How to Eat with Your Butt
-URL: https://watchwithkids.vercel.app/ep/south-park/0510.html
+URL: https://watchwiththekids.com/ep/south-park/0510.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1189,7 +1189,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E11 — 11. The Entity (a.k.a. The Ginger Device)
-URL: https://watchwithkids.vercel.app/ep/south-park/0511.html
+URL: https://watchwiththekids.com/ep/south-park/0511.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1200,7 +1200,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E12 — 12. Here Comes the Neighborhood
-URL: https://watchwithkids.vercel.app/ep/south-park/0512.html
+URL: https://watchwiththekids.com/ep/south-park/0512.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1215,7 +1215,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E13 — 13. Kenny Dies
-URL: https://watchwithkids.vercel.app/ep/south-park/0513.html
+URL: https://watchwiththekids.com/ep/south-park/0513.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1226,7 +1226,7 @@ Watch for:
   - comedy central ? I'm going down to south park? ? Gonna have myself a time? ? Friendly faces everywhere? ? Humble folks without temptation? ? Going down to south park? ? Gonna leave my woes behind? ?…
 
 ## S5 E14 — 14. Butters' Very Own Episode
-URL: https://watchwithkids.vercel.app/ep/south-park/0514.html
+URL: https://watchwiththekids.com/ep/south-park/0514.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1239,7 +1239,7 @@ Watch for:
   - All right, mom, I'm all done wrapping dad's anniversary present for you. Oh, is it someone's anniversary soon? Oh, you. Just kidding. Ooh, i wonder what it is. It's a- Oh, shucks, i can't tell you.…
 
 ## S6 E1 — 1. Jared Has Aides
-URL: https://watchwithkids.vercel.app/ep/south-park/0601.html
+URL: https://watchwiththekids.com/ep/south-park/0601.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1255,7 +1255,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E2 — 2. Asspen
-URL: https://watchwithkids.vercel.app/ep/south-park/0602.html
+URL: https://watchwiththekids.com/ep/south-park/0602.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1264,7 +1264,7 @@ Watch for:
   - Thanks for having us all over for dinner, chris and linda. Yes, it was fabulous. Oh, we're just really happy that your boys Have become such good friends with our little butters.…
 
 ## S6 E3 — 3. Freak Strike
-URL: https://watchwithkids.vercel.app/ep/south-park/0603.html
+URL: https://watchwiththekids.com/ep/south-park/0603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1285,7 +1285,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E4 — 4. Fun with Veal
-URL: https://watchwithkids.vercel.app/ep/south-park/0604.html
+URL: https://watchwiththekids.com/ep/south-park/0604.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1298,7 +1298,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E5 — 5. The New Terrance and Phillip Movie Trailer
-URL: https://watchwithkids.vercel.app/ep/south-park/0605.html
+URL: https://watchwiththekids.com/ep/south-park/0605.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1314,7 +1314,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E6 — 6. Professor Chaos
-URL: https://watchwithkids.vercel.app/ep/south-park/0606.html
+URL: https://watchwiththekids.com/ep/south-park/0606.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1327,7 +1327,7 @@ Watch for:
   - * I'M GOING DOWN TO SOUTH PARK * * GONNA HAVE MYSELF A TIME * * FRIENDLY FACES EVERYWHERE * * HUMBLE FOLKS WITHOUT TEMPTATION * * GOING DOWN TO SOUTH PARK * * GONNA LEAVE MY WOES BEHIND * * AMPLE PARKING DAY OR NIGHT *…
 
 ## S6 E7 — 7. The Simpsons Already Did It
-URL: https://watchwithkids.vercel.app/ep/south-park/0607.html
+URL: https://watchwiththekids.com/ep/south-park/0607.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1340,7 +1340,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E8 — 8. Red Hot Catholic Love
-URL: https://watchwithkids.vercel.app/ep/south-park/0608.html
+URL: https://watchwiththekids.com/ep/south-park/0608.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1352,7 +1352,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E9 — 9. Free Hat
-URL: https://watchwithkids.vercel.app/ep/south-park/0609.html
+URL: https://watchwiththekids.com/ep/south-park/0609.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1367,7 +1367,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E10 — 10. Bebe's Boobs Destroy Society
-URL: https://watchwithkids.vercel.app/ep/south-park/0610.html
+URL: https://watchwiththekids.com/ep/south-park/0610.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1383,7 +1383,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E11 — 11. Child Abduction is Not Funny
-URL: https://watchwithkids.vercel.app/ep/south-park/0611.html
+URL: https://watchwiththekids.com/ep/south-park/0611.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1394,7 +1394,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E12 — 12. A Ladder to Heaven
-URL: https://watchwithkids.vercel.app/ep/south-park/0612.html
+URL: https://watchwiththekids.com/ep/south-park/0612.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1408,7 +1408,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E13 — 13. The Return of the Fellowship of the Ring to the Two Towers
-URL: https://watchwithkids.vercel.app/ep/south-park/0613.html
+URL: https://watchwiththekids.com/ep/south-park/0613.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1424,7 +1424,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E14 — 14. Death Camp of Tolerance
-URL: https://watchwithkids.vercel.app/ep/south-park/0614.html
+URL: https://watchwiththekids.com/ep/south-park/0614.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1439,7 +1439,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E15 — 15. The Biggest Douche in the Universe
-URL: https://watchwithkids.vercel.app/ep/south-park/0615.html
+URL: https://watchwiththekids.com/ep/south-park/0615.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1452,7 +1452,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E16 — 16. My Future Self 'n' Me
-URL: https://watchwithkids.vercel.app/ep/south-park/0616.html
+URL: https://watchwiththekids.com/ep/south-park/0616.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1470,7 +1470,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S6 E17 — 17. Red Sleigh Down
-URL: https://watchwithkids.vercel.app/ep/south-park/0617.html
+URL: https://watchwiththekids.com/ep/south-park/0617.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1483,7 +1483,7 @@ Watch for:
   - * i'm going down to south park * * gonna have myself a time * * friendly faces everywhere * * humble folks without temptation * * going down to south park * * gonna leave my woes behind * * ample parking day or night *…
 
 ## S7 E1 — 1. Cancelled
-URL: https://watchwithkids.vercel.app/ep/south-park/0701.html
+URL: https://watchwiththekids.com/ep/south-park/0701.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1496,7 +1496,7 @@ Watch for:
   - "Cancelled" School days, school days, teacher's golden rule day - Ah, damn it! - What? My God-damned little brother's trying to follow me to school, again! Suck my balls. No, Ike! You can't come to school with me.…
 
 ## S7 E2 — 2. Krazy Kripples
-URL: https://watchwithkids.vercel.app/ep/south-park/0702.html
+URL: https://watchwiththekids.com/ep/south-park/0702.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1507,7 +1507,7 @@ Watch for:
   - "Krazy Kripples" Ladies and Gentlemen, give it up for Jimmy! Thank you! Wow. What a terrific audience. I know what most of you are thinking. "Hey, uh-that guy stole my show" Wow, what a great audience.…
 
 ## S7 E3 — 3. Toilet Paper
-URL: https://watchwithkids.vercel.app/ep/south-park/0703.html
+URL: https://watchwiththekids.com/ep/south-park/0703.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1518,7 +1518,7 @@ Watch for:
   - "Toilet Paper" Okay, good, children. Good. Remember to feel the clay. Be one with the clay. Nice. Put more clay on the balls. Boys! What is that? A reindeer? You know, I've had it!…
 
 ## S7 E4 — 4. I'm a Little Bit Country
-URL: https://watchwithkids.vercel.app/ep/south-park/0704.html
+URL: https://watchwiththekids.com/ep/south-park/0704.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1529,7 +1529,7 @@ Watch for:
   - "I'm A Little Bit Country" Okay, children, let's take our seats. Did you take attendance, Mr. Slave? All donesy wunsy. Okay, let's all take out our math homework and go over the problems. Math homework, math homework.…
 
 ## S7 E5 — 5. Fat Butt and Pancake Head
-URL: https://watchwithkids.vercel.app/ep/south-park/0705.html
+URL: https://watchwiththekids.com/ep/south-park/0705.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1546,7 +1546,7 @@ Watch for:
   - "Fatt Butt and Pancake Head" And in conclusion, the Latino community has provided America, and indeed, the entire world with innovations that we would be lost without.…
 
 ## S7 E6 — 6. Lil' Crime Stoppers
-URL: https://watchwithkids.vercel.app/ep/south-park/0706.html
+URL: https://watchwiththekids.com/ep/south-park/0706.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1557,7 +1557,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S7 E7 — 7. Red Man's Greed
-URL: https://watchwithkids.vercel.app/ep/south-park/0707.html
+URL: https://watchwiththekids.com/ep/south-park/0707.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1568,7 +1568,7 @@ Watch for:
   - "Red Man's Greed" Wow, dude. Man, Indians have it good, huh? Now, Eric, they're called Native Americans, remember? Show some respect. Welcome to the Three Feathers Casino. I'm your host, Chief Runs With Premise.…
 
 ## S7 E8 — 8. South Park is Gay!
-URL: https://watchwithkids.vercel.app/ep/south-park/0708.html
+URL: https://watchwiththekids.com/ep/south-park/0708.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1581,14 +1581,14 @@ Watch for:
   - "South Park Is Gay" Oh my God, you guys are not gonna believe what happened to me last night. What? Tell us? So, I'm watching the season premiere of Boy Meets Boy on television, and then Queer Eye for the Straight Guy…
 
 ## S7 E9 — 9. Christian Rock Hard
-URL: https://watchwithkids.vercel.app/ep/south-park/0709.html
+URL: https://watchwiththekids.com/ep/south-park/0709.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
   - "Christian Rock Hard" Stan, are you okay? Yeah, Dad. We're just rehearsing our band. Ohh, I thought a group of Vietnamese people were having their intestines pulled out through their mouths. He's right, dude.…
 
 ## S7 E10 — 10. Grey Dawn
-URL: https://watchwithkids.vercel.app/ep/south-park/0710.html
+URL: https://watchwiththekids.com/ep/south-park/0710.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1599,7 +1599,7 @@ Watch for:
   - "Grey Dawn" Friends, we gather in this place to mourn the victims of yesterday's tragedy. Nine good people who were run over in the street by an elderly woman driver. Oh God, memorial services are so boring.…
 
 ## S7 E11 — 11. Casa Bonita
-URL: https://watchwithkids.vercel.app/ep/south-park/0711.html
+URL: https://watchwiththekids.com/ep/south-park/0711.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1610,7 +1610,7 @@ Watch for:
   - "Casa Bonita" Dude, I wonder where Kyle is. Maybe he caught a disease and died. That'd be so awesome. Dude that's not funny. You shouldn't joke about that. - Yeah.…
 
 ## S7 E12 — 12. All About the Mormons?
-URL: https://watchwithkids.vercel.app/ep/south-park/0712.html
+URL: https://watchwiththekids.com/ep/south-park/0712.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1621,7 +1621,7 @@ Watch for:
   - "All About Mormons" Okay, children, let's take our seats. We have a new student joining us today who has just moved here from Utah. I want you all to say hi to Gary. Hello, everbody. It's really great to meet you all.…
 
 ## S7 E13 — 13. Butt Out
-URL: https://watchwithkids.vercel.app/ep/south-park/0713.html
+URL: https://watchwiththekids.com/ep/south-park/0713.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1630,7 +1630,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S7 E14 — 14. Raisins
-URL: https://watchwithkids.vercel.app/ep/south-park/0714.html
+URL: https://watchwiththekids.com/ep/south-park/0714.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1645,7 +1645,7 @@ Watch for:
   - "Raisins" All right, you guys, it's first down. I'll hike the ball on the third set hut. Kyle and Cartman go deep post outs. Kenny run a slant up the middle, Butters be ready for the screen.…
 
 ## S7 E15 — 15. It's Christmas in Canada
-URL: https://watchwithkids.vercel.app/ep/south-park/0715.html
+URL: https://watchwiththekids.com/ep/south-park/0715.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1658,7 +1658,7 @@ Watch for:
   - "It's Christmas in Canada" # Chanukah, Chanukah, sivivon, sov, sov # - I gotta go tinkle. - No Ike! Shh! # Sov, sov, sov! Ma nayim vi-tov # We thank God for our blessings this Chanukah.…
 
 ## S8 E1 — 1. Good Times with Weapons
-URL: https://watchwithkids.vercel.app/ep/south-park/0801.html
+URL: https://watchwiththekids.com/ep/south-park/0801.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1672,7 +1672,7 @@ Watch for:
   - South Park 801 512x384 Xvid 141MB Good Times With Weapons - Stop it, Cartman! - Pfaha, so funny. Goddamnit Cartman, stope throwin' those stupid popping things at me! Come on and take a look, folks.…
 
 ## S8 E2 — 2. Up the Down Steroid
-URL: https://watchwithkids.vercel.app/ep/south-park/0802.html
+URL: https://watchwiththekids.com/ep/south-park/0802.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1681,7 +1681,7 @@ Watch for:
   - Hey fellas. Oh hey Jimmy, hey Timmy. Timmy!!! Say fellas, JImmy and I were wondering if maybe you would come and cheer for us next Sssaturday. We're both competing in the Special Olympics down in Denver.…
 
 ## S8 E3 — 3. The Passion of the Jew
-URL: https://watchwithkids.vercel.app/ep/south-park/0803.html
+URL: https://watchwiththekids.com/ep/south-park/0803.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1692,12 +1692,12 @@ Watch for:
   - South Park 804 576x432 Xvid 140MB The Passion of the Jew Captain Cartman reporting from Shuttlecraft Spontaneity. Approaching planet Omega Nine. Warp drive disengaged. Landing sequence initiated.…
 
 ## S8 E4 — 4. You Got F**ked in the Ass
-URL: https://watchwithkids.vercel.app/ep/south-park/0804.html
+URL: https://watchwiththekids.com/ep/south-park/0804.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for: nothing flagged.
 
 ## S8 E5 — 5. AWESOM-O
-URL: https://watchwithkids.vercel.app/ep/south-park/0805.html
+URL: https://watchwiththekids.com/ep/south-park/0805.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1708,7 +1708,7 @@ Watch for:
   - Due to this week's tragic events in Hawaii the "Lemmiwinks" episode of South Park will not be shown tonight Instead, we present the all new and slightly better episode, AWESOM-O.…
 
 ## S8 E6 — 6. The Jeffersons
-URL: https://watchwithkids.vercel.app/ep/south-park/0806.html
+URL: https://watchwiththekids.com/ep/south-park/0806.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1717,7 +1717,7 @@ Watch for:
   - Swear words show up in the dialogue.
 
 ## S8 E7 — 7. Goobacks
-URL: https://watchwithkids.vercel.app/ep/south-park/0807.html
+URL: https://watchwiththekids.com/ep/south-park/0807.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1730,7 +1730,7 @@ Watch for:
   - Yes? Hel-lo ma'am. We're going around town and offering snow-shoveling service. Would you like your driveway and sidewalk shoveled for eight thousand dollars?…
 
 ## S8 E8 — 8. Douche and Turd
-URL: https://watchwithkids.vercel.app/ep/south-park/0808.html
+URL: https://watchwiththekids.com/ep/south-park/0808.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1741,14 +1741,14 @@ Watch for:
   - We are South Park, Green and White. Let's go, Cows! Fight fight fight! Nobody can beat a Cow! Let's gooo, South Park! Hey, South Park! Do you have school spirit? Moooooooo! I think us Cows have the best school spirit.…
 
 ## S8 E9 — 9. Something Wall-Mart This Way Comes
-URL: https://watchwithkids.vercel.app/ep/south-park/0809.html
+URL: https://watchwiththekids.com/ep/south-park/0809.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
   - You guys know what? Um, the last thing you dowhen you die, is crap your pants. What? Yeah, when you die, your jowels release and crap comes flying out your ass.…
 
 ## S8 E10 — 10. Pre-School
-URL: https://watchwithkids.vercel.app/ep/south-park/0810.html
+URL: https://watchwiththekids.com/ep/south-park/0810.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1761,7 +1761,7 @@ Watch for:
   - Yeah, and it was called Man from Atlantis, and he had like, webbed fingers Kyle, Kenny! I have to talk to you right now! Okay, hang on a second I- RIGHT NOW, GODDAMNIT! All right, all right!…
 
 ## S8 E11 — 11. Quest for Ratings
-URL: https://watchwithkids.vercel.app/ep/south-park/0811.html
+URL: https://watchwiththekids.com/ep/south-park/0811.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1774,7 +1774,7 @@ Watch for:
   - This is closed-circuit television for South Park Elementary School. And now, Super School News. News made for students, by students. Welcome to Ssuper School News. I'm Jimmy Valmer. And I'm Rick Cartman.…
 
 ## S8 E12 — 12. Stupid Spoiled Whore Video Playset
-URL: https://watchwithkids.vercel.app/ep/south-park/0812.html
+URL: https://watchwiththekids.com/ep/south-park/0812.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1789,7 +1789,7 @@ Watch for:
   - South Park 812 dsr-lol 512x384 Xvid 140MB Stupid Spoiled Whore Video Playset. Come on, Wendy, we'er gonna miss it. We're gonna miss what? Paris Hilton is making an appearance at the mall.…
 
 ## S8 E13 — 13. Cartman's Incredible Gift
-URL: https://watchwithkids.vercel.app/ep/south-park/0813.html
+URL: https://watchwiththekids.com/ep/south-park/0813.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1804,7 +1804,7 @@ Watch for:
   - WilLoW: “) January 27th, 2005 I don't know, that looks pretty high up. Yeah. I think it'd be better to start lower. Dude, I really don't think it's smart, Cartman. This is gonna be totally cool, you guys.…”
 
 ## S8 E14 — 14. Woodland Critter Christmas
-URL: https://watchwithkids.vercel.app/ep/south-park/0814.html
+URL: https://watchwiththekids.com/ep/south-park/0814.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1815,7 +1815,7 @@ Watch for:
   - WilLoW: “) January 27th, 2005 Way up in the mountains in a small little town, The Main Street was being decorated all up and down. People stood in long lines, sometimes waiting hours or more, Because Christmas need to be bought…”
 
 ## S9 E1 — 1. Mr. Garrison's Fancy New Vagina
-URL: https://watchwithkids.vercel.app/ep/south-park/0901.html
+URL: https://watchwiththekids.com/ep/south-park/0901.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1831,7 +1831,7 @@ Watch for:
   - South Park 801 512x384 Xvid 141MB Hello, Mr. Garrison, I'm Dr. Biber. I'll be performing your surgery today. God bless you, Doctor. I know you'll make me well again.…
 
 ## S9 E2 — 2. Die Hippie, Die
-URL: https://watchwithkids.vercel.app/ep/south-park/0902.html
+URL: https://watchwiththekids.com/ep/south-park/0902.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1844,14 +1844,14 @@ Watch for:
   - South Park 902 512x384 Xvid 140MB Die Hippie, Die Hello, ma'am. I'm working to clean up the neighborhood from parasites. Do you mind if I take a quick look around your house? I'm afraid you may have hippies.…
 
 ## S9 E3 — 3. Wing
-URL: https://watchwithkids.vercel.app/ep/south-park/0903.html
+URL: https://watchwiththekids.com/ep/south-park/0903.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
   - South Park 903 512x384 Xvid 140MB Wing Children, children, we have a very special announcement. Your classmate, Token, has just returned from winning the Colorado Child Star Contest with his incredible singing!…
 
 ## S9 E4 — 4. Best Friends Forever
-URL: https://watchwithkids.vercel.app/ep/south-park/0904.html
+URL: https://watchwiththekids.com/ep/south-park/0904.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1860,7 +1860,7 @@ Watch for:
   - South Park 904 512x384 Xvid 136MB Best Friends Forever Mom! Mom! Get up, we have to go! MOM, GET UP! Oh, Poopie-kins, it's very early. Mom, I told you! The new Sony PSP game machines go on sale at seven a. m. today.…
 
 ## S9 E5 — 5. The Losing Edge
-URL: https://watchwithkids.vercel.app/ep/south-park/0905.html
+URL: https://watchwiththekids.com/ep/south-park/0905.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1873,7 +1873,7 @@ Watch for:
   - South Park 905 512x384 Xvid 140MB The Losing Edge This is is, Stan. If you strike this kid out, we all get to go home. Now batting for Conifer is little Alan Barkas.…
 
 ## S9 E6 — 6. The Death of Eric Cartman
-URL: https://watchwithkids.vercel.app/ep/south-park/0906.html
+URL: https://watchwiththekids.com/ep/south-park/0906.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1886,7 +1886,7 @@ Watch for:
   - South Park 906 512x384 Xvid 133MB The Death of Eric Cartman Dude, where is she? We can't wait. God, this is gonna be sooo yummy. Stan, you said your mom was bringing KFC home for dinner! Now is she or isn't she?!…
 
 ## S9 E7 — 7. Erection Day
-URL: https://watchwithkids.vercel.app/ep/south-park/0907.html
+URL: https://watchwiththekids.com/ep/south-park/0907.html
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1902,7 +1902,7 @@ Watch for:
   - South Park 907 512x384 Xvid 140MB Erection Day N'kay, kids, as your counselor, I know it can sometimes be difficult to talk about subjects like drugs and sex and alcohol, m'kay?…
 
 ## S9 E8 — 8. Two Days Before the Day After Tomorrow
-URL: https://watchwithkids.vercel.app/ep/south-park/0908.html
+URL: https://watchwiththekids.com/ep/south-park/0908.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1911,7 +1911,7 @@ Watch for:
   - Dude, you were right cartman! Your uncle Roy has a sweet boat! Yeah, isn't this fun? Just you and me hanging out, Stan. No stupid Kyle around. Man, I wish I could really drive this thing. You know how? Sure I do.…
 
 ## S9 E9 — 9. Marjorine
-URL: https://watchwithkids.vercel.app/ep/south-park/0909.html
+URL: https://watchwiththekids.com/ep/south-park/0909.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1920,7 +1920,7 @@ Watch for:
   - What are you guys all doing here? I don't know, I, I got this emergency letter from Cartman, who said to meet in his basement? Yeah, us too. Ah, gentlemen, thank you for coming.…
 
 ## S9 E10 — 10. Follow That Egg
-URL: https://watchwithkids.vercel.app/ep/south-park/0910.html
+URL: https://watchwiththekids.com/ep/south-park/0910.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1935,7 +1935,7 @@ Watch for:
   - Okay, children, this week we are all going to learn about parenting. I'm going to pair all the boys and girls in class into couples, and give each couple an egg You must care for and look after this egg just like a…
 
 ## S9 E11 — 11. Ginger Kids
-URL: https://watchwithkids.vercel.app/ep/south-park/0911.html
+URL: https://watchwiththekids.com/ep/south-park/0911.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1950,7 +1950,7 @@ Watch for:
   - Pluto is also the furthest planet from the sun, though scientists believe more planets lie beyond it. I hope you enjoyed my report on the Solar System. Thank you. Okay, very nice, Token. Thank you.…
 
 ## S9 E12 — 12. Trapped in the Closet
-URL: https://watchwithkids.vercel.app/ep/south-park/0912.html
+URL: https://watchwiththekids.com/ep/south-park/0912.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1959,14 +1959,14 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S9 E13 — 13. Free Willzyx
-URL: https://watchwithkids.vercel.app/ep/south-park/0913.html
+URL: https://watchwiththekids.com/ep/south-park/0913.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
   - Swear words show up in the dialogue.
 
 ## S9 E14 — 14. Bloody Mary
-URL: https://watchwithkids.vercel.app/ep/south-park/0914.html
+URL: https://watchwiththekids.com/ep/south-park/0914.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1977,7 +1977,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S10 E1 — 1. The Return of Chef
-URL: https://watchwithkids.vercel.app/ep/south-park/1001.html
+URL: https://watchwiththekids.com/ep/south-park/1001.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1993,7 +1993,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S10 E2 — 2. Smug Alert!
-URL: https://watchwithkids.vercel.app/ep/south-park/1002.html
+URL: https://watchwiththekids.com/ep/south-park/1002.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2006,7 +2006,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S10 E3 — 3. Cartoon Wars (1)
-URL: https://watchwithkids.vercel.app/ep/south-park/1003.html
+URL: https://watchwiththekids.com/ep/south-park/1003.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2019,7 +2019,7 @@ Watch for:
   - South Park Episode 10x03 : Cartoon Wars. But the Bubble Gum Prince wasn't afraid. He knew that the Land of Chocolate was safe forever and ever. Good night my little angel.…
 
 ## S10 E4 — 4. Cartoon Wars (2)
-URL: https://watchwithkids.vercel.app/ep/south-park/1004.html
+URL: https://watchwiththekids.com/ep/south-park/1004.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2032,7 +2032,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S10 E5 — 5. A Million Little Fibers
-URL: https://watchwithkids.vercel.app/ep/south-park/1005.html
+URL: https://watchwiththekids.com/ep/south-park/1005.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2048,7 +2048,7 @@ Watch for:
   - Hi, welcome to P. F Chang's. How spicy would you like me to make your Chang sauce? Chris, the people at Table 3 need their check. I know. I'm swamped.…
 
 ## S10 E6 — 6. ManBearPig
-URL: https://watchwithkids.vercel.app/ep/south-park/1006.html
+URL: https://watchwiththekids.com/ep/south-park/1006.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2057,7 +2057,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S10 E7 — 7. Tsst
-URL: https://watchwithkids.vercel.app/ep/south-park/1007.html
+URL: https://watchwiththekids.com/ep/south-park/1007.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2066,7 +2066,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S10 E8 — 8. Make Love, Not Warcraft
-URL: https://watchwithkids.vercel.app/ep/south-park/1008.html
+URL: https://watchwiththekids.com/ep/south-park/1008.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2077,7 +2077,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S10 E9 — 9. Mystery of the Urinal Deuce
-URL: https://watchwithkids.vercel.app/ep/south-park/1009.html
+URL: https://watchwiththekids.com/ep/south-park/1009.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2086,7 +2086,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S10 E10 — 10. Miss Teacher Bangs a Boy
-URL: https://watchwithkids.vercel.app/ep/south-park/1010.html
+URL: https://watchwiththekids.com/ep/south-park/1010.html
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2099,7 +2099,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S10 E11 — 11. Hell On Earth 2006
-URL: https://watchwithkids.vercel.app/ep/south-park/1011.html
+URL: https://watchwiththekids.com/ep/south-park/1011.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2114,7 +2114,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S10 E12 — 12. Go God Go (1)
-URL: https://watchwithkids.vercel.app/ep/south-park/1012.html
+URL: https://watchwiththekids.com/ep/south-park/1012.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2128,7 +2128,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S10 E13 — 13. Go God Go XII (2)
-URL: https://watchwithkids.vercel.app/ep/south-park/1013.html
+URL: https://watchwiththekids.com/ep/south-park/1013.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2141,7 +2141,7 @@ Watch for:
   - South Park Episode 1013 - Go God Go XII Transcript VO : spscriptorium Relecture : Kowaio , aAakii The year is 2006, and young Eric Cartman cannot wait for the new Nintendo Wii to come out.…
 
 ## S10 E14 — 14. Stanley's Cup
-URL: https://watchwithkids.vercel.app/ep/south-park/1014.html
+URL: https://watchwiththekids.com/ep/south-park/1014.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2150,7 +2150,7 @@ Watch for:
   - South Park Episode 1014 - Stanley's Cup Transcript VO : spscriptorium Relecture : Kowaio , aAakii Being a delivery boy for the South Park Gazette is a moble privilege. I'm sorry, Mr.…
 
 ## S11 E1 — 1. With Apologies to Jesse Jackson
-URL: https://watchwithkids.vercel.app/ep/south-park/1101.html
+URL: https://watchwiththekids.com/ep/south-park/1101.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2163,7 +2163,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E2 — 2. Cartman Sucks
-URL: https://watchwithkids.vercel.app/ep/south-park/1102.html
+URL: https://watchwiththekids.com/ep/south-park/1102.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2175,7 +2175,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E3 — 3. Lice Capades
-URL: https://watchwithkids.vercel.app/ep/south-park/1103.html
+URL: https://watchwiththekids.com/ep/south-park/1103.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2184,7 +2184,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E4 — 4. The Snuke
-URL: https://watchwithkids.vercel.app/ep/south-park/1104.html
+URL: https://watchwiththekids.com/ep/south-park/1104.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2198,7 +2198,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E5 — 5. Fantastic Easter Special
-URL: https://watchwithkids.vercel.app/ep/south-park/1105.html
+URL: https://watchwiththekids.com/ep/south-park/1105.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2209,7 +2209,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E6 — 6. D-Yikes
-URL: https://watchwithkids.vercel.app/ep/south-park/1106.html
+URL: https://watchwiththekids.com/ep/south-park/1106.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2223,14 +2223,14 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E7 — 7. Night of the Living Homeless
-URL: https://watchwithkids.vercel.app/ep/south-park/1107.html
+URL: https://watchwiththekids.com/ep/south-park/1107.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E8 — 8. Le Petit Tourette
-URL: https://watchwithkids.vercel.app/ep/south-park/1108.html
+URL: https://watchwiththekids.com/ep/south-park/1108.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2244,7 +2244,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E9 — 9. More Crap
-URL: https://watchwithkids.vercel.app/ep/south-park/1109.html
+URL: https://watchwiththekids.com/ep/south-park/1109.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2253,7 +2253,7 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E10 — 10. Imaginationland (1)
-URL: https://watchwithkids.vercel.app/ep/south-park/1110.html
+URL: https://watchwiththekids.com/ep/south-park/1110.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2264,14 +2264,14 @@ Watch for:
   - I'm going out to South Park gonna have myself a time Friendly faces everywhere humble folks without temptation I'm goin out to south park gonna leave my woes behind Ample parking day or night people spouting howdy…
 
 ## S11 E11 — 11. Imaginationland (2)
-URL: https://watchwithkids.vercel.app/ep/south-park/1111.html
+URL: https://watchwiththekids.com/ep/south-park/1111.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 1 moment(s)
   - Fighting, weapons, or death talk.
 
 ## S11 E12 — 12. Imaginationland (3)
-URL: https://watchwithkids.vercel.app/ep/south-park/1112.html
+URL: https://watchwiththekids.com/ep/south-park/1112.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2280,19 +2280,19 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S11 E13 — 13. Guitar Queer-o
-URL: https://watchwithkids.vercel.app/ep/south-park/1113.html
+URL: https://watchwiththekids.com/ep/south-park/1113.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for: nothing flagged.
 
 ## S11 E14 — 14. The List
-URL: https://watchwithkids.vercel.app/ep/south-park/1114.html
+URL: https://watchwiththekids.com/ep/south-park/1114.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
   - Swear words show up in the dialogue.
 
 ## S12 E1 — 1. Tonsil Trouble
-URL: https://watchwithkids.vercel.app/ep/south-park/1201.html
+URL: https://watchwiththekids.com/ep/south-park/1201.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2303,7 +2303,7 @@ Watch for:
   - South Park - Season 12 Episode 1 "Tonsil Trouble" Well, there's no doubt about it. Those tonsils need to come out. - What? - What exactly does that entail, doctor? It's a very simple operation.…
 
 ## S12 E2 — 2. Britney's New Look
-URL: https://watchwithkids.vercel.app/ep/south-park/1202.html
+URL: https://watchwiththekids.com/ep/south-park/1202.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2314,7 +2314,7 @@ Watch for:
   - South Park - Season 12 Episode 2 "Britney's New Look" Live, from Chicago, Illinois, it's Decision 2008. Good evening and welcome to the political debate between Hillary Rodham Clinton and Barack Obama.…
 
 ## S12 E3 — 3. Major Boobage
-URL: https://watchwithkids.vercel.app/ep/south-park/1203.html
+URL: https://watchwiththekids.com/ep/south-park/1203.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2325,7 +2325,7 @@ Watch for:
   - South Park - Season 12 Episode 3 "Major Boobage" M'kay, kids, we have something very serious we need to discuss today, m'kay? It appears that some kids are getting high by choking themselves.…
 
 ## S12 E4 — 4. Canada on Strike
-URL: https://watchwithkids.vercel.app/ep/south-park/1204.html
+URL: https://watchwiththekids.com/ep/south-park/1204.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2338,7 +2338,7 @@ Watch for:
   - Students, quiet please, m'kay. As you may or may not know, today is Canada appreciation day. Oh, god, I'm bored already! M'kay, so we've been asked to show you a video from the world canadian bureau.…
 
 ## S12 E5 — 5. Eek, A Penis!
-URL: https://watchwithkids.vercel.app/ep/south-park/1205.html
+URL: https://watchwiththekids.com/ep/south-park/1205.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2354,7 +2354,7 @@ Watch for:
   - South Park - Season 12 Episode 05 "Eek, a Penis!" It's like, my whole life has just been one big screw-up, you know? I admit it, I was I was sexually lost. And then I see this person on Oprah.…
 
 ## S12 E6 — 6. Over Logging
-URL: https://watchwithkids.vercel.app/ep/south-park/1206.html
+URL: https://watchwiththekids.com/ep/south-park/1206.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Porn / strippers — 1 moment(s)
@@ -2365,7 +2365,7 @@ Watch for:
   - South Park - Season 12 Episode 6 "Over Logging" Get off the Internet, Stanley, it's time for bed. Mom, I just gotta do a couple more things. Now, Stanley. The Internet will be waiting for you in the morning.…
 
 ## S12 E7 — 7. Super Fun Time
-URL: https://watchwithkids.vercel.app/ep/south-park/1207.html
+URL: https://watchwiththekids.com/ep/south-park/1207.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2376,7 +2376,7 @@ Watch for:
   - South Park - Season 12 Episode 7 "Super Fun Time" Kids, everyone together. Welcome to Pioneer Village. This is a recreation of early Colorado days. I want you all to meet Pioneer Paul.…
 
 ## S12 E8 — 8. The China Probrem
-URL: https://watchwithkids.vercel.app/ep/south-park/1208.html
+URL: https://watchwiththekids.com/ep/south-park/1208.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2389,7 +2389,7 @@ Watch for:
   - Welcome to the televised broadcast of the olympic opening ceremonies from Beijing! Thousands of Chinese performers play ancient Chinese drums.…
 
 ## S12 E9 — 9. Breast Cancer Show Ever
-URL: https://watchwithkids.vercel.app/ep/south-park/1209.html
+URL: https://watchwiththekids.com/ep/south-park/1209.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2402,14 +2402,14 @@ Watch for:
   - Okay. Chilildren, let's all take our seats. Before we get started today. Wendy testaburger has asked to share something with the clasS. Wendy? Thank you,mr. GarrisoN.…
 
 ## S12 E10 — 10. Pandemic (1)
-URL: https://watchwithkids.vercel.app/ep/south-park/1210.html
+URL: https://watchwiththekids.com/ep/south-park/1210.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
   - . . Season12 Episode10 Pandemic I don't get it, kenny. Why did you buy razors and shaving cream? 'Cuz, dude, I'm gonna shave my ballS. Shave your balls? Why would you shave your balls? Because girls like shaved balls.…
 
 ## S12 E11 — 11. Pandemic (2): The Startling
-URL: https://watchwithkids.vercel.app/ep/south-park/1211.html
+URL: https://watchwiththekids.com/ep/south-park/1211.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2418,7 +2418,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S12 E12 — 12. About Last Night...
-URL: https://watchwithkids.vercel.app/ep/south-park/1212.html
+URL: https://watchwiththekids.com/ep/south-park/1212.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2429,7 +2429,7 @@ Watch for:
   - There's anyone here tonight and still doubts that America is a place where all things are possible? Who still wanders if the dream of our founders is alive in our time? Who still questions the power of our democracy?…
 
 ## S12 E13 — 13. Elementary School Musical
-URL: https://watchwithkids.vercel.app/ep/south-park/1213.html
+URL: https://watchwiththekids.com/ep/south-park/1213.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2442,7 +2442,7 @@ Watch for:
   - South Park Look at Kenny's lunch. A baloney sandwitch and water. God damn, your family's poor, dude. Hey you, fellas, wanna go see High School Musical three tonight? Bunch of kids from school are gonna go see it again.…
 
 ## S12 E14 — 14. The Ungroundable
-URL: https://watchwithkids.vercel.app/ep/south-park/1214.html
+URL: https://watchwiththekids.com/ep/south-park/1214.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2459,7 +2459,7 @@ Watch for:
   - South Park 12x14 - The Ungroundable - Mkay, so now the computer will type a command bar. Mkay, and we type in "x" equal "y" plus one. Mkay, and then it says we hit command "y" to bring up the menu screen. Oh, man.…
 
 ## S13 E1 — 1. The Ring
-URL: https://watchwithkids.vercel.app/ep/south-park/1301.html
+URL: https://watchwiththekids.com/ep/south-park/1301.html
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2473,7 +2473,7 @@ Watch for:
   - COMEDY CENTRAL I'm going down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation Going down to South Park Gonna leave my woes behind Ample parking day or night People…
 
 ## S13 E2 — 2. The Coon
-URL: https://watchwithkids.vercel.app/ep/south-park/1302.html
+URL: https://watchwiththekids.com/ep/south-park/1302.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2492,7 +2492,7 @@ Watch for:
   - COMEDY CENTRAL I'm going down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation Going down to South Park Gonna leave my woes behind Ample parking day or night People…
 
 ## S13 E3 — 3. Margaritaville
-URL: https://watchwithkids.vercel.app/ep/south-park/1303.html
+URL: https://watchwiththekids.com/ep/south-park/1303.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2503,7 +2503,7 @@ Watch for:
   - COMEDY CENTRAL I'm going down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation Going down to South Park Gonna leave my woes behind Ample parking day or night People…
 
 ## S13 E4 — 4. Eat, Pray, Queef
-URL: https://watchwithkids.vercel.app/ep/south-park/1304.html
+URL: https://watchwiththekids.com/ep/south-park/1304.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2519,7 +2519,7 @@ Watch for:
   - COMEDY CENTRAL I'm going down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation Going down to South Park Gonna leave my woes behind Ample parking day or night People…
 
 ## S13 E5 — 5. Fishsticks
-URL: https://watchwithkids.vercel.app/ep/south-park/1305.html
+URL: https://watchwiththekids.com/ep/south-park/1305.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2530,7 +2530,7 @@ Watch for:
   - COMEDY CENTRAL I'm going down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation Going down to South Park Gonna leave my woes behind Ample parking day or night People…
 
 ## S13 E6 — 6. Pinewood Derby
-URL: https://watchwithkids.vercel.app/ep/south-park/1306.html
+URL: https://watchwiththekids.com/ep/south-park/1306.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2543,7 +2543,7 @@ Watch for:
   - COMEDY CENTRAL I'm going down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation Going down to South Park Gonna leave my woes behind Ample parking day or night People…
 
 ## S13 E7 — 7. Fatbeard
-URL: https://watchwithkids.vercel.app/ep/south-park/1307.html
+URL: https://watchwiththekids.com/ep/south-park/1307.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2554,7 +2554,7 @@ Watch for:
   - COMEDY CENTRAL I'm going down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation Going down to South Park Gonna leave my woes behind Ample parking day or night People…
 
 ## S13 E8 — 8. Dead Celebrities
-URL: https://watchwithkids.vercel.app/ep/south-park/1308.html
+URL: https://watchwiththekids.com/ep/south-park/1308.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2571,7 +2571,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night, people spouting…
 
 ## S13 E9 — 9. Butters' Bottom Bitch
-URL: https://watchwithkids.vercel.app/ep/south-park/1309.html
+URL: https://watchwiththekids.com/ep/south-park/1309.html
 Scores: violence 1/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2592,7 +2592,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night, people spouting…
 
 ## S13 E10 — 10. W.T.F.
-URL: https://watchwithkids.vercel.app/ep/south-park/1310.html
+URL: https://watchwiththekids.com/ep/south-park/1310.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2613,7 +2613,7 @@ Watch for:
   - I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation I'm goin' down to South Park Gonna leave my woes behind Ample parking day or night, people spouting howdy…
 
 ## S13 E11 — 11. Whale Whores
-URL: https://watchwithkids.vercel.app/ep/south-park/1311.html
+URL: https://watchwiththekids.com/ep/south-park/1311.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2628,7 +2628,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night, people spouting…
 
 ## S13 E12 — 12. The F Word
-URL: https://watchwithkids.vercel.app/ep/south-park/1312.html
+URL: https://watchwiththekids.com/ep/south-park/1312.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2637,7 +2637,7 @@ Watch for:
   - I'm goin' down to South Park, Gonna have myself a time - Friendly faces everywhere Humble folks without temptation - I'm goin' down to South Park Gonna leave my woes behind - Ample parking day or night, people spouting…
 
 ## S13 E13 — 13. Dances with Smurfs
-URL: https://watchwithkids.vercel.app/ep/south-park/1313.html
+URL: https://watchwiththekids.com/ep/south-park/1313.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2653,7 +2653,7 @@ Watch for:
   - I'm goin' down to South Park Gonna have myself a time - Friendly faces everywhere Humble folks without temptation - I'm goin' down to South Park Gonna leave my woes behind - Ample parking day or night, people spouting…
 
 ## S13 E14 — 14. Pee
-URL: https://watchwithkids.vercel.app/ep/south-park/1314.html
+URL: https://watchwiththekids.com/ep/south-park/1314.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2666,7 +2666,7 @@ Watch for:
   - I'm goin' down to South Park Gonna have myself a time - Friendly faces everywhere Humble folks without temptation - I'm goin' down to South Park Gonna leave my woes behind - Ample parking day or night, people spouting…
 
 ## S14 E1 — 1. Sexual Healing
-URL: https://watchwithkids.vercel.app/ep/south-park/1401.html
+URL: https://watchwiththekids.com/ep/south-park/1401.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2686,7 +2686,7 @@ Watch for:
   - Put it down, you ! Put the golf club down, you crazy bitch! You a mother . I never should have never married-A you! You're overreacting, you stupid swedish cow!…
 
 ## S14 E2 — 2. The Tale of Scrotie McBoogerballs
-URL: https://watchwithkids.vercel.app/ep/south-park/1402.html
+URL: https://watchwiththekids.com/ep/south-park/1402.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2701,7 +2701,7 @@ Watch for:
   - Okay, kids. Let's take our seats. There has been a change in school policy and so I am assigning you all a book to read. Aw, a book? God, i hate those.…
 
 ## S14 E3 — 3. Medicinal Fried Chicken
-URL: https://watchwithkids.vercel.app/ep/south-park/1403.html
+URL: https://watchwiththekids.com/ep/south-park/1403.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2712,7 +2712,7 @@ Watch for:
   - All characters and events in this show--Even those based on real people are entirely fictional. All celebrity voices are impersonatedpoorly.…
 
 ## S14 E4 — 4. You Have 0 Friends
-URL: https://watchwithkids.vercel.app/ep/south-park/1404.html
+URL: https://watchwiththekids.com/ep/south-park/1404.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2722,7 +2722,7 @@ Watch for:
   - I've got more friends than Kyle! How the hell do you have more friends than me? Cuz people think i'm cool, dude. How many friends do you have, Kenny? How the hell do i only have 37 friends?…
 
 ## S14 E5 — 5. 200
-URL: https://watchwithkids.vercel.app/ep/south-park/1405.html
+URL: https://watchwiththekids.com/ep/south-park/1405.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2737,7 +2737,7 @@ Watch for:
   - Our factory works and we have over 500 employees! Here you can see where the cocoa is mixed with the sugar and milk! Wow, cool! Chocolate rules. You should know, fat ass.…
 
 ## S14 E6 — 6. 201
-URL: https://watchwithkids.vercel.app/ep/south-park/1406.html
+URL: https://watchwiththekids.com/ep/south-park/1406.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2757,7 +2757,7 @@ Watch for:
   - Saigon is a hell of a place. I've seen a lot of death, a lot of suffering. Darkness that most people couldn't stand to see. I tried to sit it out as much as I could.…
 
 ## S14 E7 — 7. Crippled Summer
-URL: https://watchwithkids.vercel.app/ep/south-park/1407.html
+URL: https://watchwiththekids.com/ep/south-park/1407.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2775,7 +2775,7 @@ Watch for:
   - This program contains subject matter and language that may be disturbing to some viewers. Viewer discretion is advised. Hey, everybody! How's it going? The towel the drug addict I just -- I just can't seem to stop.…
 
 ## S14 E8 — 8. Poor and Stupid
-URL: https://watchwithkids.vercel.app/ep/south-park/1408.html
+URL: https://watchwiththekids.com/ep/south-park/1408.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2791,7 +2791,7 @@ Watch for:
   - Orijinal script: “I'm goin' down to south park gonna have myself a time Friendly faces everywhere humble folks without temptation Goin' down to south park gonna leave my woes behind Ample parking day or night people shouting howdy…”
 
 ## S14 E9 — 9. It's a Jersey Thing
-URL: https://watchwithkids.vercel.app/ep/south-park/1409.html
+URL: https://watchwiththekids.com/ep/south-park/1409.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2808,7 +2808,7 @@ Watch for:
   - Mom, Dad, what's muff cabbage? - Muff cabbage? - Where did you hear that? Muff cabbage. The new neighbors next to Stan's house. We saw the mom get a parking ticket, and she called the parking cop muff cabbage.…
 
 ## S14 E10 — 10. Insheeption
-URL: https://watchwithkids.vercel.app/ep/south-park/1410.html
+URL: https://watchwiththekids.com/ep/south-park/1410.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2820,7 +2820,7 @@ Watch for:
   - So then the guy hits the paint ball bottle with his stick and it goes right in his mouth. Stan, I have a note for you. Wendy said to give you this. I'm like a mail man. What's it say? "We need to talk.…
 
 ## S14 E11 — 11. Coon 2: Hindsight
-URL: https://watchwithkids.vercel.app/ep/south-park/1411.html
+URL: https://watchwiththekids.com/ep/south-park/1411.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2833,7 +2833,7 @@ Watch for:
   - My fellow heroes, tonight I stopped three murders from happening. I don't know why, but we're seeing a huge trend in crime. We have to find out the source of this evil.…
 
 ## S14 E12 — 12. Mysterion Rises
-URL: https://watchwithkids.vercel.app/ep/south-park/1412.html
+URL: https://watchwiththekids.com/ep/south-park/1412.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2848,7 +2848,7 @@ Watch for:
   - I am Mysterion. Though only nine years old, I dedicate my life to helping people, when I am not in school. For months now, I have been protecting my town from crime.…
 
 ## S14 E13 — 13. Coon Vs. Coon & Friends
-URL: https://watchwithkids.vercel.app/ep/south-park/1413.html
+URL: https://watchwiththekids.com/ep/south-park/1413.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2864,7 +2864,7 @@ Watch for:
   - Sentem-se de volta, justiceiros, and listen to another edition of America's favorite super hero! Mintberry Crunch! Our story begins in a remote corner of the Gulf of Mexico!…
 
 ## S14 E14 — 14. CrÃ¨me Fraiche
-URL: https://watchwithkids.vercel.app/ep/south-park/1414.html
+URL: https://watchwiththekids.com/ep/south-park/1414.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2875,7 +2875,7 @@ Watch for:
   - Passengers said the carnival cruise line smelled like poop, but that that was an improvement. Alright, it's late. I'm gonna call it a night. You coming? Oh ya know, I can't really sleep. I'm just gonna stay up a bit.…
 
 ## S15 E1 — 1. HUMANCENTiPAD
-URL: https://watchwithkids.vercel.app/ep/south-park/1501.html
+URL: https://watchwiththekids.com/ep/south-park/1501.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2888,7 +2888,7 @@ Watch for:
   - "HumancentiPad" Oh my God, isn't it awesome having an iPad you guys? Hey Bebe-- where's your iPad? Oh right, you're not cool enough. Ha ha ha ha ha! Hey, have you seen my iPad Token? Funny, you don't seem to have one!…
 
 ## S15 E2 — 2. Funnybot
-URL: https://watchwithkids.vercel.app/ep/south-park/1502.html
+URL: https://watchwiththekids.com/ep/south-park/1502.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2904,7 +2904,7 @@ Watch for:
   - Here you go. Don't forget to vote, everyone. Here you go. Get these handed in tomorrow. - What's this? - Every student needs to vote in each category.…
 
 ## S15 E3 — 3. Royal Pudding
-URL: https://watchwithkids.vercel.app/ep/south-park/1503.html
+URL: https://watchwiththekids.com/ep/south-park/1503.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2922,7 +2922,7 @@ Watch for:
   - Welcome, oh, welcome to our little play. It's our hope that you all learn something today. I am a tooth. So white and so strong. I am a toothbrush. My bristles are long. Together we work to keep the bad guy away.…
 
 ## S15 E4 — 4. T.M.I.
-URL: https://watchwithkids.vercel.app/ep/south-park/1504.html
+URL: https://watchwiththekids.com/ep/south-park/1504.html
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2938,7 +2938,7 @@ Watch for:
   - "T. M. I. " And so then, and so then it turns out the Terminator secretly had a kid, ten years ago, meaning Terminator could be his own father, and then Skeletor gets angry and wants to fight him!…
 
 ## S15 E5 — 5. Crack Baby Athletic Association
-URL: https://watchwithkids.vercel.app/ep/south-park/1505.html
+URL: https://watchwiththekids.com/ep/south-park/1505.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2947,7 +2947,7 @@ Watch for:
   - "Crack Baby Athletic Association" That one was smelly! Take this dali Terrance! Dude, this is probably the best episode they've ever done! I know, this is awesome! Ugh, I'm so happy!…
 
 ## S15 E6 — 6. City Sushi
-URL: https://watchwithkids.vercel.app/ep/south-park/1506.html
+URL: https://watchwiththekids.com/ep/south-park/1506.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2964,7 +2964,7 @@ Watch for:
   - "City Sushi" Hello sir, Postman Butters with a special delivery for you. What's this? An all new Sushi restaurant just opened in town. Try their lunch specials. Thanks. You can count on Postman Butters.…
 
 ## S15 E7 — 7. You're Getting Old
-URL: https://watchwithkids.vercel.app/ep/south-park/1507.html
+URL: https://watchwiththekids.com/ep/south-park/1507.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2973,7 +2973,7 @@ Watch for:
   - "You're Getting Old" Happy Birthday to you Happy Birthday to you Happy Birthday, dear Stan Happy Birthday to you All right, now, come on, open presents, open presents. Open mine first, Stan, it's the red one.…
 
 ## S15 E8 — 8. Ass Burgers
-URL: https://watchwithkids.vercel.app/ep/south-park/1508.html
+URL: https://watchwiththekids.com/ep/south-park/1508.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2991,7 +2991,7 @@ Watch for:
   - That's real funny. Big Hairy and Mike in the morning talking about the new hit movie It's a great comedy, it's starring and I saw the movie last night, Big Hairy, it made me laugh so hard.…
 
 ## S15 E9 — 9. The Last of the Meheecans
-URL: https://watchwithkids.vercel.app/ep/south-park/1509.html
+URL: https://watchwiththekids.com/ep/south-park/1509.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3000,7 +3000,7 @@ Watch for:
   - Alright y'all, keep yer eyes peeled and yer guns ready. There's a heap of Mexicans out there who want nothing more than to sneak past our border, and we gotta stop 'em!…
 
 ## S15 E10 — 10. Bass to Mouth
-URL: https://watchwithkids.vercel.app/ep/south-park/1510.html
+URL: https://watchwiththekids.com/ep/south-park/1510.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3017,7 +3017,7 @@ Watch for:
   - You guys! You're never gonna guess what! Seriously, guess what? - Why? - You know Pete Melman? - Fourth grade, Mr. Bard's class? - The blond kid? - Pete Melman.…
 
 ## S15 E11 — 11. Broadway Bro Down
-URL: https://watchwithkids.vercel.app/ep/south-park/1511.html
+URL: https://watchwiththekids.com/ep/south-park/1511.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3034,7 +3034,7 @@ Watch for:
   - I mean, look guys, I know it was just the dolphins, but Tebow is definitely our quarterback of the future! What'd you think Nelson? I didn't see the game.…
 
 ## S15 E12 — 12. 1%
-URL: https://watchwithkids.vercel.app/ep/south-park/1512.html
+URL: https://watchwiththekids.com/ep/south-park/1512.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3047,7 +3047,7 @@ Watch for:
   - Last week, the students of this school participated in the Presidential Fitness Test. I'm sad to announce that the school scored the lowest in health and fitness in the entire country.…
 
 ## S15 E13 — 13. A History Channel Thanksgiving
-URL: https://watchwithkids.vercel.app/ep/south-park/1513.html
+URL: https://watchwiththekids.com/ep/south-park/1513.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3058,7 +3058,7 @@ Watch for:
   - Children, let's all take our seats. As you all know, Thanksgiving is only two weeks away. And the school has arranged for a lecture from a real live native American. Neat-o! Huh, fellas? Hello, boys and girls.…
 
 ## S15 E14 — 14. The Poor Kid
-URL: https://watchwithkids.vercel.app/ep/south-park/1514.html
+URL: https://watchwiththekids.com/ep/south-park/1514.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3073,7 +3073,7 @@ Watch for:
   - You think you're man enough to fight me, you little sh*t? You're a drunk piece a sh*t! You're both drunk pieces a sh*t! - Both of you sit the f***ing down! - sh*t him! They're noisy.…
 
 ## S16 E1 — 1. Reverse Cowgirl
-URL: https://watchwithkids.vercel.app/ep/south-park/1601.html
+URL: https://watchwiththekids.com/ep/south-park/1601.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3085,7 +3085,7 @@ Watch for:
   - Throw it here! Throw it here! Yeah! Nice one, Clyde! Clyde! Clyde! Clyde, get up here! Hurry! What is that? A toilet. That's right. It's a toilet, Clyde. And where is the toilet seat? It's up. Because you left it up.…
 
 ## S16 E2 — 2. Cash for Gold
-URL: https://watchwithkids.vercel.app/ep/south-park/1602.html
+URL: https://watchwiththekids.com/ep/south-park/1602.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3098,7 +3098,7 @@ Watch for:
   - Well, dad, it was really great seeing you. We would love to stay for dinner but the food here gives Sharon diarrhea. What, Randy. Just trying to leave without being rude. Hold on, hold on just a second.…
 
 ## S16 E3 — 3. Faith Hilling
-URL: https://watchwithkids.vercel.app/ep/south-park/1603.html
+URL: https://watchwiththekids.com/ep/south-park/1603.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3107,7 +3107,7 @@ Watch for:
   - I know the people are going to say you should only practice this way or that way. I believe in capitalism too. I believe in capitalism for everybody.…
 
 ## S16 E4 — 4. Jewpacabra
-URL: https://watchwithkids.vercel.app/ep/south-park/1604.html
+URL: https://watchwiththekids.com/ep/south-park/1604.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3116,7 +3116,7 @@ Watch for:
   - Yes, yes, this whole coming week is the Jewish holiday of passover! Yes, it's all about how Moses led the hebrews out of Egypt. Very good! So on Friday, all Jewish people will celebrate passover with a seder dinner.…
 
 ## S16 E5 — 5. Butterballs
-URL: https://watchwithkids.vercel.app/ep/south-park/1605.html
+URL: https://watchwiththekids.com/ep/south-park/1605.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3130,7 +3130,7 @@ Watch for:
   - I'm telling you, music videos have evolved to nothing but pretty girls wearing skin-tight clothes and singing about their vajayjays. It used to be about relationships, now it's all, My vajayjay this, my vajayjay that.…
 
 ## S16 E6 — 6. I Should Have Never Gone Ziplining
-URL: https://watchwithkids.vercel.app/ep/south-park/1606.html
+URL: https://watchwiththekids.com/ep/south-park/1606.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3145,7 +3145,7 @@ Watch for:
   - ?I'm goin' down to south park ?Gonna have myself a time ?Friendly faces everywhere ?Humble folks without ?Temptation ?I'm goin' down to south park ?Gonna leave my woes behind ?Ample parking day or night, ?People…
 
 ## S16 E7 — 7. Cartman Finds Love
-URL: https://watchwithkids.vercel.app/ep/south-park/1607.html
+URL: https://watchwiththekids.com/ep/south-park/1607.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3158,7 +3158,7 @@ Watch for:
   - I'm goin' down to south park gonna have myself a time friendly faces everywhere humble folks without temptation I'm goin' down to south park gonna leave my woes behind ample parking day or night, people spouting…
 
 ## S16 E8 — 8. Sarcastaball
-URL: https://watchwithkids.vercel.app/ep/south-park/1608.html
+URL: https://watchwiththekids.com/ep/south-park/1608.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3173,7 +3173,7 @@ Watch for:
   - I'm going down to South Park, gonna have myself a time. Friendly faces everywhere, humble folks without temptation. Going down to South Park gonna leave my woes behind.…
 
 ## S16 E9 — 9. Raising the Bar
-URL: https://watchwithkids.vercel.app/ep/south-park/1609.html
+URL: https://watchwiththekids.com/ep/south-park/1609.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3182,7 +3182,7 @@ Watch for:
   - I'm going down to South Park, gonna have myself a time friendly faces everywhere, humble folks without temptation going down to South Park gonna leave my woes behind ample parking day or night, people shouting howdy…
 
 ## S16 E10 — 10. Insecurity
-URL: https://watchwithkids.vercel.app/ep/south-park/1610.html
+URL: https://watchwiththekids.com/ep/south-park/1610.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3195,7 +3195,7 @@ Watch for:
   - I'm going down to South park, gonna have myself a time friendly faces everywhere, humble folks without temptation going down to South park gonna leave my woes behind ample parking day or night, people shouting howdy…
 
 ## S16 E11 — 11. Going Native
-URL: https://watchwithkids.vercel.app/ep/south-park/1611.html
+URL: https://watchwiththekids.com/ep/south-park/1611.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3210,7 +3210,7 @@ Watch for:
   - I'm goin' down to South Park gonna have myself a time friendly faces everywhere humble folks without temptation I'm goin' down to South Park gonna leave my woes behind ample Parking day or night, people spouting…
 
 ## S16 E12 — 12. A Nightmare on Face Time
-URL: https://watchwithkids.vercel.app/ep/south-park/1612.html
+URL: https://watchwiththekids.com/ep/south-park/1612.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3223,7 +3223,7 @@ Watch for:
   - I'm goin' down to South Park gonna have myself a time, friendly faces everywhere humble folks without temptation I'm goin' down to South Park gonna leave my woes behind ample parking day or night, people spouting…
 
 ## S16 E13 — 13. A Scause for Applause
-URL: https://watchwithkids.vercel.app/ep/south-park/1613.html
+URL: https://watchwiththekids.com/ep/south-park/1613.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3240,7 +3240,7 @@ Watch for:
   - I'm going down to south Park, honna have myself a time friendly faces everywhere, humble folks without temptation. going down to south Park gonna leave my woes behind.…
 
 ## S16 E14 — 14. Obama Wins!
-URL: https://watchwithkids.vercel.app/ep/south-park/1614.html
+URL: https://watchwiththekids.com/ep/south-park/1614.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3249,7 +3249,7 @@ Watch for:
   - Okay Mister Thompson, voting line is right over there. - Next, please. - Mom? Mommy? Where's my mommy? Oh dear, did you lose your mother, little boy? - Mom! - Security! - Huh? - This little boy lost his mom!…
 
 ## S17 E1 — 1. Let Go, Let Gov
-URL: https://watchwithkids.vercel.app/ep/south-park/1701.html
+URL: https://watchwiththekids.com/ep/south-park/1701.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3260,7 +3260,7 @@ Watch for:
   - I am so sick of that stupid bitch. Blabbing, prissy little skank! Why do people talk on the phone like that? I can't even get a minute of peace before that bitch walks in holding the cell phone out like this and…
 
 ## S17 E2 — 2. Informative Murder Porn
-URL: https://watchwithkids.vercel.app/ep/south-park/1702.html
+URL: https://watchwiththekids.com/ep/south-park/1702.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3273,7 +3273,7 @@ Watch for:
   - Unless we come together as a country and realize that refugees from Syria should be considered in Booo! Boo, Wendy. Boo Wendy Testaburger, boo.…
 
 ## S17 E3 — 3. World War Zimmerman
-URL: https://watchwithkids.vercel.app/ep/south-park/1703.html
+URL: https://watchwiththekids.com/ep/south-park/1703.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3286,7 +3286,7 @@ Watch for:
   - I'm going down to South Park gonna have myself a time friendly faces everywhere humble folks without temptation I'm going down to South Park gonna leave my woes behind ample parking day or night people spouting,"…
 
 ## S17 E4 — 4. Goth Kids 3: Dawn of the Posers
-URL: https://watchwithkids.vercel.app/ep/south-park/1704.html
+URL: https://watchwiththekids.com/ep/south-park/1704.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3301,7 +3301,7 @@ Watch for:
   - Goin' down to South Park gonna have myself a time. death and sadness everywhere, loneliness and degradation. Goin' down to South Park gonna take my woes with me.…
 
 ## S17 E5 — 5. Taming Strange
-URL: https://watchwithkids.vercel.app/ep/south-park/1705.html
+URL: https://watchwiththekids.com/ep/south-park/1705.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3314,7 +3314,7 @@ Watch for:
   - Students, I would love to introduce you all to the future, mkay? Starting today, our school will be operating entirely on Intelilink. Now whenever you need to see the school nurse or talk to me, your counselor, you can…
 
 ## S17 E6 — 6. Ginger Cow
-URL: https://watchwithkids.vercel.app/ep/south-park/1706.html
+URL: https://watchwiththekids.com/ep/south-park/1706.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3328,7 +3328,7 @@ Watch for:
   - Hey, everyone, excuse me. Everybody, can I just have a second of your time, please? Everyone listen up. Listen, everybody I owe Kyle a big apology, and I want to do it in front of everyone because I was wrong, Kyle.…
 
 ## S17 E7 — 7. Black Friday
-URL: https://watchwithkids.vercel.app/ep/south-park/1707.html
+URL: https://watchwiththekids.com/ep/south-park/1707.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3344,7 +3344,7 @@ Watch for:
   - The holiday season is here. and Black Friday is upon us. As you know, Black Friday is the day shoppers go berserk for holiday deals. Last year, 26 people died and 461 were seriously injured.…
 
 ## S17 E8 — 8. A Song of Ass and Fire
-URL: https://watchwithkids.vercel.app/ep/south-park/1708.html
+URL: https://watchwiththekids.com/ep/south-park/1708.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3361,7 +3361,7 @@ Watch for:
   - Previously on South Park Soon we will be fighting the greatest battle of our young hot lives - Black Friday. - Everyone who wants to get PS4s, join with us. Tom, the South Park mall says they've beefed up security.…
 
 ## S17 E9 — 9. Titties and Dragons
-URL: https://watchwithkids.vercel.app/ep/south-park/1709.html
+URL: https://watchwiththekids.com/ep/south-park/1709.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3377,7 +3377,7 @@ Watch for:
   - Soon, we will be fighting the greatest battle of our young, hot lives Black Friday. Everyone who wants to get PS4s, join with us. You can't die! Everybody really likes you!…
 
 ## S17 E10 — 10. The Hobbit
-URL: https://watchwithkids.vercel.app/ep/south-park/1710.html
+URL: https://watchwiththekids.com/ep/south-park/1710.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3396,7 +3396,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time. Friendly faces everywhere humble folks without temptation. I'm goin' down to South Park, gonna leave my woes behind.…
 
 ## S18 E1 — 1. Go Fund Yourself
-URL: https://watchwithkids.vercel.app/ep/south-park/1801.html
+URL: https://watchwiththekids.com/ep/south-park/1801.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3405,7 +3405,7 @@ Watch for:
   - [Quirky music.] I'm goin' down to South park gonna have myself a time friendly faces everywhere humble folks without temptation I'm goin' down to South park gonna leave my woes behind ample parking day or night people…
 
 ## S18 E2 — 2. Gluten Free Ebola
-URL: https://watchwithkids.vercel.app/ep/south-park/1802.html
+URL: https://watchwiththekids.com/ep/south-park/1802.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3414,7 +3414,7 @@ Watch for:
   - [quirky music.] I'm goin' down to South Park gonna have myself a time friendly faces everywhere humble folks without temptation goin' down to South Park gonna leave my woes behind ample parking day or night people…
 
 ## S18 E3 — 3. The Cissy
-URL: https://watchwithkids.vercel.app/ep/south-park/1803.html
+URL: https://watchwiththekids.com/ep/south-park/1803.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3427,7 +3427,7 @@ Watch for:
   - [lively music.] I'm goin' down to South Park gonna have myself a time friendly faces everywhere humble folks without temptation I'm goin' down to South Park gonna leave my woes behind ample parking day or night people…
 
 ## S18 E4 — 4. Handicar
-URL: https://watchwithkids.vercel.app/ep/south-park/1804.html
+URL: https://watchwiththekids.com/ep/south-park/1804.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3438,7 +3438,7 @@ Watch for:
   - Well, that was a lot of fun. Thanks for inviting us, guys. Sure. You bet. Are you guys parked over here? Oh, no, no, no. We we took a handicar. - It was easier that way.…
 
 ## S18 E5 — 5. The Magic Bush
-URL: https://watchwithkids.vercel.app/ep/south-park/1805.html
+URL: https://watchwiththekids.com/ep/south-park/1805.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3450,7 +3450,7 @@ Watch for:
   - I'm goin' down to South park, gonna have myself a time friendly faces everywhere humble folks without temptation goin' down to South park, gonna leave my woes behind ample parking day or night people spouting, "howdy…
 
 ## S18 E6 — 6. Freemium Isn't Free
-URL: https://watchwithkids.vercel.app/ep/south-park/1806.html
+URL: https://watchwiththekids.com/ep/south-park/1806.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3461,7 +3461,7 @@ Watch for:
   - Oh, hey, Kyle. Kyle, hang on a sec. Hey, Jimmy. What's up? Not much. I just wanted to make sure you've heard the f-f-fantastic news. There's a new Terrance and Phillip mobile game, and it's so - amazing and incredibly…
 
 ## S18 E7 — 7. Grounded Vindaloop
-URL: https://watchwithkids.vercel.app/ep/south-park/1807.html
+URL: https://watchwiththekids.com/ep/south-park/1807.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3472,7 +3472,7 @@ Watch for:
   - I'm goin' down to South park, gonna have myself a time friendly faces everywhere humble folks without temptation goin' down to South park, gonna leave my woes behind ample parking day or night people spouting, "howdy…
 
 ## S18 E8 — 8. Cock Magic
-URL: https://watchwithkids.vercel.app/ep/south-park/1808.html
+URL: https://watchwiththekids.com/ep/south-park/1808.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3484,7 +3484,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S18 E9 — 9. #rehash
-URL: https://watchwithkids.vercel.app/ep/south-park/1809.html
+URL: https://watchwiththekids.com/ep/south-park/1809.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3495,7 +3495,7 @@ Watch for:
   - subs by awaqeded I'm goin' down to South Park, gonna have myself a time friendly faces everywhere humble folks without temptation goin' down to South Park, gonna leave my woes behind ample parking day or night people…
 
 ## S18 E10 — 10. #HappyHolograms
-URL: https://watchwithkids.vercel.app/ep/south-park/1810.html
+URL: https://watchwiththekids.com/ep/south-park/1810.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3508,7 +3508,7 @@ Watch for:
   - Synced and transcribed by mczolly & dreaMaker7 I'm goin' down to South Park, gonna have myself a time friendly faces everywhere humble folks without temptation goin' down to South Park, gonna leave my woes behind ample…
 
 ## S19 E1 — 1. Stunning and Brave
-URL: https://watchwithkids.vercel.app/ep/south-park/1901.html
+URL: https://watchwiththekids.com/ep/south-park/1901.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3525,7 +3525,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting, "Howdy…
 
 ## S19 E2 — 2. Where My Country Gone?
-URL: https://watchwithkids.vercel.app/ep/south-park/1902.html
+URL: https://watchwiththekids.com/ep/south-park/1902.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3536,7 +3536,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S19 E3 — 3. The City Part of Town
-URL: https://watchwithkids.vercel.app/ep/south-park/1903.html
+URL: https://watchwiththekids.com/ep/south-park/1903.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3549,7 +3549,7 @@ Watch for:
   - S19E03 The City Part of Town I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or…
 
 ## S19 E4 — 4. You're Not Yelping
-URL: https://watchwithkids.vercel.app/ep/south-park/1904.html
+URL: https://watchwiththekids.com/ep/south-park/1904.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3560,7 +3560,7 @@ Watch for:
   - âÂ Morning, Randy. âÂ Morning, Ger. Just another day in paradise, huh? Look at all these new restaurants the Whole Foods has brought in. Letâs try out that one there. Hi. Two of us, please. Yeah, sorry, guys.…
 
 ## S19 E5 — 5. Safe Space
-URL: https://watchwithkids.vercel.app/ep/south-park/1905.html
+URL: https://watchwiththekids.com/ep/south-park/1905.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3576,7 +3576,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample Parking day or night People spouting, "Howdy…
 
 ## S19 E6 — 6. Tweek x Craig
-URL: https://watchwithkids.vercel.app/ep/south-park/1906.html
+URL: https://watchwiththekids.com/ep/south-park/1906.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3590,7 +3590,7 @@ Watch for:
   - Everyone, listen up. Weâre gonna be showing you some art from our Asian-American studentsâ¦ Damn it, Leslie! Shut your f***ing pie hole! Presented by student-body president, Wendy Testaberger. Hey, guys.…
 
 ## S19 E7 — 7. Naughty Ninjas
-URL: https://watchwithkids.vercel.app/ep/south-park/1907.html
+URL: https://watchwiththekids.com/ep/south-park/1907.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3605,7 +3605,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting, "Howdy…
 
 ## S19 E8 — 8. Sponsored Content
-URL: https://watchwithkids.vercel.app/ep/south-park/1908.html
+URL: https://watchwiththekids.com/ep/south-park/1908.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3618,7 +3618,7 @@ Watch for:
   - Who was it? Somebodyâs about to get their asses kicked! When I find out who did thisâ¦ PC Principal is on the warpath! Run for your lives! Again? Oh, Jesus.…
 
 ## S19 E9 — 9. Truth and Advertising
-URL: https://watchwithkids.vercel.app/ep/south-park/1909.html
+URL: https://watchwiththekids.com/ep/south-park/1909.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3631,7 +3631,7 @@ Watch for:
   - I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting, "Howdy…
 
 ## S19 E10 — 10. PC Principal Final Justice
-URL: https://watchwithkids.vercel.app/ep/south-park/1910.html
+URL: https://watchwiththekids.com/ep/south-park/1910.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3646,7 +3646,7 @@ Watch for:
   - All right, listen up. I donât know about you, but Iâm tired of hate speech that serves to marginalize others. You know, if thereâs one thing that makes me sick, itâs when a race thinks theyâre superior and…
 
 ## S20 E1 — 1. Member Berries
-URL: https://watchwithkids.vercel.app/ep/south-park/2001.html
+URL: https://watchwiththekids.com/ep/south-park/2001.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3666,7 +3666,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E2 — 2. Skank Hunt
-URL: https://watchwithkids.vercel.app/ep/south-park/2002.html
+URL: https://watchwiththekids.com/ep/south-park/2002.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3678,7 +3678,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E3 — 3. The Damned
-URL: https://watchwithkids.vercel.app/ep/south-park/2003.html
+URL: https://watchwiththekids.com/ep/south-park/2003.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3696,7 +3696,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E4 — 4. Wieners Out
-URL: https://watchwithkids.vercel.app/ep/south-park/2004.html
+URL: https://watchwiththekids.com/ep/south-park/2004.html
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3714,7 +3714,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E5 — 5. Douche and a Danish
-URL: https://watchwithkids.vercel.app/ep/south-park/2005.html
+URL: https://watchwiththekids.com/ep/south-park/2005.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3730,7 +3730,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E6 — 6. Fort Collins
-URL: https://watchwithkids.vercel.app/ep/south-park/2006.html
+URL: https://watchwiththekids.com/ep/south-park/2006.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3746,7 +3746,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E7 — 7. Oh, Jeez
-URL: https://watchwithkids.vercel.app/ep/south-park/2007.html
+URL: https://watchwiththekids.com/ep/south-park/2007.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3766,7 +3766,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E8 — 8. Members Only
-URL: https://watchwithkids.vercel.app/ep/south-park/2008.html
+URL: https://watchwiththekids.com/ep/south-park/2008.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3778,7 +3778,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E9 — 9. Not Funny
-URL: https://watchwithkids.vercel.app/ep/south-park/2009.html
+URL: https://watchwiththekids.com/ep/south-park/2009.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3796,7 +3796,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S20 E10 — 10. The End of Serialization As We Know It
-URL: https://watchwithkids.vercel.app/ep/south-park/2010.html
+URL: https://watchwiththekids.com/ep/south-park/2010.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Porn / strippers — 1 moment(s)
@@ -3809,7 +3809,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E1 — 1. White People Renovating Houses
-URL: https://watchwithkids.vercel.app/ep/south-park/2101.html
+URL: https://watchwiththekids.com/ep/south-park/2101.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3823,7 +3823,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E2 — 2. Put It Down
-URL: https://watchwithkids.vercel.app/ep/south-park/2102.html
+URL: https://watchwiththekids.com/ep/south-park/2102.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3834,7 +3834,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E3 — 3. Holiday Special
-URL: https://watchwithkids.vercel.app/ep/south-park/2103.html
+URL: https://watchwiththekids.com/ep/south-park/2103.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3852,7 +3852,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E4 — 4. Franchise Prequel
-URL: https://watchwithkids.vercel.app/ep/south-park/2104.html
+URL: https://watchwiththekids.com/ep/south-park/2104.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3868,7 +3868,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E5 — 5. Hummels & Heroin
-URL: https://watchwithkids.vercel.app/ep/south-park/2105.html
+URL: https://watchwiththekids.com/ep/south-park/2105.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3884,7 +3884,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E6 — 6. Sons A Witches
-URL: https://watchwithkids.vercel.app/ep/south-park/2106.html
+URL: https://watchwiththekids.com/ep/south-park/2106.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3896,7 +3896,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E7 — 7. Doubling Down
-URL: https://watchwithkids.vercel.app/ep/south-park/2107.html
+URL: https://watchwiththekids.com/ep/south-park/2107.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3911,7 +3911,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E8 — 8. Moss Piglets
-URL: https://watchwithkids.vercel.app/ep/south-park/2108.html
+URL: https://watchwiththekids.com/ep/south-park/2108.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3922,7 +3922,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E9 — 9. SUPER HARD PCness
-URL: https://watchwithkids.vercel.app/ep/south-park/2109.html
+URL: https://watchwiththekids.com/ep/south-park/2109.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -3931,7 +3931,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S21 E10 — 10. Splatty Tomato
-URL: https://watchwithkids.vercel.app/ep/south-park/2110.html
+URL: https://watchwiththekids.com/ep/south-park/2110.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3943,7 +3943,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S22 E1 — 1. Dead Kids
-URL: https://watchwithkids.vercel.app/ep/south-park/2201.html
+URL: https://watchwiththekids.com/ep/south-park/2201.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3958,7 +3958,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S22 E2 — 2. A Boy and a Priest
-URL: https://watchwithkids.vercel.app/ep/south-park/2202.html
+URL: https://watchwiththekids.com/ep/south-park/2202.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3971,7 +3971,7 @@ Watch for:
   - 1 LES: I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation LES: I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People…
 
 ## S22 E3 — 3. The Problem with a Poo
-URL: https://watchwithkids.vercel.app/ep/south-park/2203.html
+URL: https://watchwiththekids.com/ep/south-park/2203.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3986,7 +3986,7 @@ Watch for:
   - 1 People, it's time we faced some hard truths. The town is looking to us for answers, and all we keep doing is burying our heads. We need to cut the budget for this year's Christmas pageant. My God.…
 
 ## S22 E4 — 4. Tegridy Farms
-URL: https://watchwithkids.vercel.app/ep/south-park/2204.html
+URL: https://watchwiththekids.com/ep/south-park/2204.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4000,14 +4000,14 @@ Watch for:
   - 1 LES: I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation LES: I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People…
 
 ## S22 E5 — 5. The Scoots
-URL: https://watchwithkids.vercel.app/ep/south-park/2205.html
+URL: https://watchwiththekids.com/ep/south-park/2205.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 LES: I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation LES: I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People…
 
 ## S22 E6 — 6. Time to Get Cereal
-URL: https://watchwithkids.vercel.app/ep/south-park/2206.html
+URL: https://watchwiththekids.com/ep/south-park/2206.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4020,7 +4020,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S22 E7 — 7. Nobody Got Cereal?
-URL: https://watchwithkids.vercel.app/ep/south-park/2207.html
+URL: https://watchwiththekids.com/ep/south-park/2207.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4033,7 +4033,7 @@ Watch for:
   - 1 LES: I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation LES: I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People…
 
 ## S22 E8 — 8. Buddah Box
-URL: https://watchwithkids.vercel.app/ep/south-park/2208.html
+URL: https://watchwiththekids.com/ep/south-park/2208.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4044,7 +4044,7 @@ Watch for:
   - 1 LES: I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation LES: I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People…
 
 ## S22 E9 — 9. Unfulfilled
-URL: https://watchwithkids.vercel.app/ep/south-park/2209.html
+URL: https://watchwiththekids.com/ep/south-park/2209.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4055,7 +4055,7 @@ Watch for:
   - 1 LES: I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation LES: I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People…
 
 ## S22 E10 — 10. Bike Parade
-URL: https://watchwithkids.vercel.app/ep/south-park/2210.html
+URL: https://watchwiththekids.com/ep/south-park/2210.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4066,7 +4066,7 @@ Watch for:
   - 1 LES: I'm goin' down to South Park Gonna have myself a time Friendly faces everywhere Humble folks without temptation LES: I'm goin' down to South Park, gonna leave my woes behind Ample parking day or night People…
 
 ## S23 E1 — 1. Mexican Joker
-URL: https://watchwithkids.vercel.app/ep/south-park/2301.html
+URL: https://watchwiththekids.com/ep/south-park/2301.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4083,7 +4083,7 @@ Watch for:
   - 1 SINGER: Goin' down to Tegridy Farms, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to Tegridy Farms, gonna leave my woes behind There's ample parking day or night…
 
 ## S23 E2 — 2. Band in China
-URL: https://watchwithkids.vercel.app/ep/south-park/2302.html
+URL: https://watchwiththekids.com/ep/south-park/2302.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4096,7 +4096,7 @@ Watch for:
   - 1 RANDY: Goin' down to Tegridy Farms, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to Tegridy Farms, gonna leave my woes behind There's ample parking day or night People…
 
 ## S23 E3 — 3. Shots!!!
-URL: https://watchwithkids.vercel.app/ep/south-park/2303.html
+URL: https://watchwiththekids.com/ep/south-park/2303.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4109,7 +4109,7 @@ Watch for:
   - 1 RANDY: Goin' down to Tegridy Farms, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to Tegridy Farms, gonna leave my woes behind There's ample parking day or night People…
 
 ## S23 E4 — 4. Let Them Eat Goo
-URL: https://watchwithkids.vercel.app/ep/south-park/2304.html
+URL: https://watchwiththekids.com/ep/south-park/2304.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4122,7 +4122,7 @@ Watch for:
   - 1 RANDY: Goin' down to Tegridy Farms, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to Tegridy Farms, gonna leave my woes behind There's ample parking day or night People…
 
 ## S23 E5 — 5. Tegridy Farms Halloween Special
-URL: https://watchwithkids.vercel.app/ep/south-park/2305.html
+URL: https://watchwiththekids.com/ep/south-park/2305.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4135,7 +4135,7 @@ Watch for:
   - 1 RANDY: Goin' down to Tegridy Farms, gonna have myself a time Friendly faces everywhere Humble folks without temptation ANNOUNCER: The Tegridy Farms Halloween Special!…
 
 ## S23 E6 — 6. Danger Close: The Battle of Long Tan
-URL: https://watchwithkids.vercel.app/ep/south-park/2306.html
+URL: https://watchwiththekids.com/ep/south-park/2306.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4146,7 +4146,7 @@ Watch for:
   - 1 RANDY: Goin' down to Tegridy Farms, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to Tegridy Farms, gonna leave my woes behind There's ample parking day or night People…
 
 ## S23 E7 — 7. Board Girls
-URL: https://watchwithkids.vercel.app/ep/south-park/2307.html
+URL: https://watchwiththekids.com/ep/south-park/2307.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4162,7 +4162,7 @@ Watch for:
   - 1 PC Babies! They're comin' to your town! NARRATOR: The PC Babies! The wokest kids around! When there's something problematic They're sure to let you know!…
 
 ## S23 E8 — 8. Turd Burglars
-URL: https://watchwithkids.vercel.app/ep/south-park/2308.html
+URL: https://watchwiththekids.com/ep/south-park/2308.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4176,14 +4176,14 @@ Watch for:
   - 1 Goin' down to South Park, gonna have myself a time ANNOUNCER: It's one for the ladies! Goin' down to South Park, gonna leave my woes behind Headin' down to South Park, gonna see if I can't unwind So come on down to…
 
 ## S23 E9 — 9. Basic Cable
-URL: https://watchwithkids.vercel.app/ep/south-park/2309.html
+URL: https://watchwiththekids.com/ep/south-park/2309.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
   - 1 Dad Dad, I love you. I love you so much, Dad. What is it, Scott? 90, Mom. Okay. Great. Dad. I love you. What? I love you so much, Dad. Please, can we get Disney+? God damn it. Not this sh*t again! No.…
 
 ## S23 E10 — 10. Christmas Snow
-URL: https://watchwithkids.vercel.app/ep/south-park/2310.html
+URL: https://watchwiththekids.com/ep/south-park/2310.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4192,7 +4192,7 @@ Watch for:
   - 1 I'm goin' down to South Park, gonna have myself a time Friendly faces everywhere Humble folks without temptation Goin' down to South Park, gonna leave my woes behind Ample parking day or night People spouting…
 
 ## S24 E97 — 97. The Pandemic Special
-URL: https://watchwithkids.vercel.app/ep/south-park/2497.html
+URL: https://watchwiththekids.com/ep/south-park/2497.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4230,7 +4230,7 @@ Watch for:
   - Does it matter what started coronavirus?! Who cares what started coronavirus?! You guys are being racist! We don't need to watch this!…
 
 ## S24 E98 — 98. South ParQ Vaccination Special
-URL: https://watchwithkids.vercel.app/ep/south-park/2498.html
+URL: https://watchwiththekids.com/ep/south-park/2498.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4276,7 +4276,7 @@ Watch for:
   - Oh, you f***ing slut! This is why we keep old people in the back of the line! Cartman, just stick to the f***ing plan! Oh, great, Kyle.
 
 ## S24 E99 — 99. Post COVID
-URL: https://watchwithkids.vercel.app/ep/south-park/2499.html
+URL: https://watchwiththekids.com/ep/south-park/2499.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -4324,7 +4324,7 @@ Watch for:
   - The Mark VII headphones have a new edition coming out.
 
 ## S25 E1 — 1. Pajama Day
-URL: https://watchwithkids.vercel.app/ep/south-park/2501.html
+URL: https://watchwiththekids.com/ep/south-park/2501.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 7 moment(s)
@@ -4341,7 +4341,7 @@ Watch for:
   - Hey, don't put that pajama wearing slut in here with us! Chief, they're asking for your assistance - down on Brighton Street.
 
 ## S25 E2 — 2. The Big Fix
-URL: https://watchwithkids.vercel.app/ep/south-park/2502.html
+URL: https://watchwiththekids.com/ep/south-park/2502.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 14 moment(s)
@@ -4385,7 +4385,7 @@ Watch for:
   - Wow, bro you're a racist piece of sh*t.
 
 ## S25 E3 — 3. City People
-URL: https://watchwithkids.vercel.app/ep/south-park/2503.html
+URL: https://watchwiththekids.com/ep/south-park/2503.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 7 moment(s)
@@ -4400,7 +4400,7 @@ Watch for:
   - We have to show them who's really in charge of this town Jimbo go to your gun store and get the necessary supplies.
 
 ## S25 E4 — 4. Back to the Cold War
-URL: https://watchwithkids.vercel.app/ep/south-park/2504.html
+URL: https://watchwiththekids.com/ep/south-park/2504.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4420,7 +4420,7 @@ Watch for:
   - We want to thank everyone for coming out today to support these little riders.
 
 ## S25 E5 — 5. Help, My Teenager Hates Me
-URL: https://watchwithkids.vercel.app/ep/south-park/2505.html
+URL: https://watchwiththekids.com/ep/south-park/2505.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 9 moment(s)
@@ -4452,7 +4452,7 @@ Watch for:
   - Ow! Ow! Ow! Ow! Ow! Bruh! Aah, bruh! Aah! Ow, my dick! My dick! Aah! They're not coming out of cover! I don't see them! It's okay, I've got an idea.
 
 ## S25 E6 — 6. Credigree Weed St. Patrick's Day Special
-URL: https://watchwithkids.vercel.app/ep/south-park/2506.html
+URL: https://watchwiththekids.com/ep/south-park/2506.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4489,7 +4489,7 @@ Watch for:
   - What's your point? I'm looking at my point, you racist son of a bitch.
 
 ## S26 E1 — 1. Cupid Ye
-URL: https://watchwithkids.vercel.app/ep/south-park/2601.html
+URL: https://watchwiththekids.com/ep/south-park/2601.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 9 moment(s)
@@ -4506,7 +4506,7 @@ Watch for:
   - to be a racist piece of sh*t.
 
 ## S26 E2 — 2. The World-Wide Privacy Tour
-URL: https://watchwithkids.vercel.app/ep/south-park/2602.html
+URL: https://watchwiththekids.com/ep/south-park/2602.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4536,7 +4536,7 @@ Watch for:
   - this, you dumb slut?
 
 ## S26 E3 — 3. Japanese Toilet
-URL: https://watchwithkids.vercel.app/ep/south-park/2603.html
+URL: https://watchwiththekids.com/ep/south-park/2603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4570,7 +4570,7 @@ Watch for:
   - sparkling water or champagne
 
 ## S26 E4 — 4. Deep Learning
-URL: https://watchwithkids.vercel.app/ep/south-park/2604.html
+URL: https://watchwiththekids.com/ep/south-park/2604.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 9 moment(s)
@@ -4591,7 +4591,7 @@ Watch for:
   - to jail for cheating.
 
 ## S26 E5 — 5. DikinBaus Hot Dogs
-URL: https://watchwithkids.vercel.app/ep/south-park/2605.html
+URL: https://watchwiththekids.com/ep/south-park/2605.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 13 moment(s)
@@ -4614,7 +4614,7 @@ Watch for:
   - hours on a job, fat ass.
 
 ## S26 E6 — 6. Spring Break
-URL: https://watchwithkids.vercel.app/ep/south-park/2606.html
+URL: https://watchwiththekids.com/ep/south-park/2606.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4642,7 +4642,7 @@ Watch for:
   - You guys have wasted
 
 ## S27 E1 — 1. Sermon on the 'Mount
-URL: https://watchwithkids.vercel.app/ep/south-park/2701.html
+URL: https://watchwiththekids.com/ep/south-park/2701.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4674,7 +4674,7 @@ Watch for:
   - Everyone's fine with using gay slurs.
 
 ## S27 E2 — 2. Got a Nut
-URL: https://watchwithkids.vercel.app/ep/south-park/2702.html
+URL: https://watchwiththekids.com/ep/south-park/2702.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4695,7 +4695,7 @@ Watch for:
   - Yeah, screw you, fat ass.
 
 ## S27 E3 — 3. Sickofancy
-URL: https://watchwithkids.vercel.app/ep/south-park/2703.html
+URL: https://watchwiththekids.com/ep/south-park/2703.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -4738,7 +4738,7 @@ Watch for:
   - we need you to reclassify marijuana
 
 ## S27 E4 — 4. Wok is Dead
-URL: https://watchwithkids.vercel.app/ep/south-park/2704.html
+URL: https://watchwiththekids.com/ep/south-park/2704.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -4767,7 +4767,7 @@ Watch for:
   - Labubus every day, whore.
 
 ## S27 E5 — 5. Conflict of Interest
-URL: https://watchwithkids.vercel.app/ep/south-park/2705.html
+URL: https://watchwiththekids.com/ep/south-park/2705.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 19 moment(s)
@@ -4790,7 +4790,7 @@ Watch for:
   - Take that bet down right now, fat ass!
 
 ## S28 E1 — 1. Twisted Christian
-URL: https://watchwithkids.vercel.app/ep/south-park/2801.html
+URL: https://watchwiththekids.com/ep/south-park/2801.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4820,7 +4820,7 @@ Watch for:
   - you're a gay little pussy!
 
 ## S28 E2 — 2. The Woman in the Hat
-URL: https://watchwithkids.vercel.app/ep/south-park/2802.html
+URL: https://watchwiththekids.com/ep/south-park/2802.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 20 moment(s)
@@ -4843,7 +4843,7 @@ Watch for:
   - We've lied and we've cheated.
 
 ## S28 E3 — 3. Sora Not Sorry
-URL: https://watchwithkids.vercel.app/ep/south-park/2803.html
+URL: https://watchwiththekids.com/ep/south-park/2803.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4874,7 +4874,7 @@ Watch for:
   - Hey, look. Kid's coming out.
 
 ## S28 E4 — 4. Turkey Trot
-URL: https://watchwithkids.vercel.app/ep/south-park/2804.html
+URL: https://watchwiththekids.com/ep/south-park/2804.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 27 moment(s)
@@ -4905,7 +4905,7 @@ Watch for:
   - but I'm the racist!
 
 ## S28 E5 — 5. The Crap Out
-URL: https://watchwithkids.vercel.app/ep/south-park/2805.html
+URL: https://watchwiththekids.com/ep/south-park/2805.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)

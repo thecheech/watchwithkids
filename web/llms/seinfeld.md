@@ -1,11 +1,11 @@
 # Seinfeld — parent guide (176 episodes)
 
-Source: https://watchwithkids.vercel.app/seinfeld.html
+Source: https://watchwiththekids.com/seinfeld.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 68 all clear (1–2), 80 gray area (3), 28 hard pass (4–5).
 
 ## S1 E1 — The Seinfeld Chronicles
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0101.html
+URL: https://watchwiththekids.com/ep/seinfeld/0101.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -23,7 +23,7 @@ Watch for:
   - JERRY: “[doubtfully] Yeah, we could do that...why not, why not. [pours the wine] I'm just, I'm really glad you're here. [the phone rings; he picks it up] Yeah, hello...yes...yes, she is, hold on. [to Laura] Uhm, it's for you.”
 
 ## S1 E2 — The Stakeout
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0102.html
+URL: https://watchwiththekids.com/ep/seinfeld/0102.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -33,7 +33,7 @@ Watch for:
   - Jerry: “Ma, you can't look up words in the dictionary! Dad, she's cheating!”
 
 ## S1 E3 — The Robbery
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0103.html
+URL: https://watchwiththekids.com/ep/seinfeld/0103.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 3 moment(s)
@@ -44,7 +44,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S1 E4 — Male Unbonding
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0104.html
+URL: https://watchwiththekids.com/ep/seinfeld/0104.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -54,7 +54,7 @@ Watch for:
   - little holes for us so we can see what the hell is going on. But if they don't cut those holes - we are climbing those fences. Right over there. "What are you using the
 
 ## S1 E5 — The Stock Tip
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0105.html
+URL: https://watchwiththekids.com/ep/seinfeld/0105.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -65,7 +65,7 @@ Watch for:
   - JERRY: “We cold play "Sorry!" We cold play "Steal the Old Man's Bundle." (To himself) Maybe I can get an extension cord and hang myself. (To Vanessa) What”
 
 ## S2 E6 — The Ex-Girlfriend
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0206.html
+URL: https://watchwiththekids.com/ep/seinfeld/0206.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -80,7 +80,7 @@ Watch for:
   - JERRY: “You're flesh and blood.”
 
 ## S2 E7 — The Pony Remark
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0207.html
+URL: https://watchwiththekids.com/ep/seinfeld/0207.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -89,7 +89,7 @@ Watch for:
   - GEORGE: “They always make me take stock of my life and how I've pretty much wasted all of it, and how I plan to continue wasting it.”
 
 ## S2 E8 — The Jacket
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0208.html
+URL: https://watchwiththekids.com/ep/seinfeld/0208.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -105,7 +105,7 @@ Watch for:
   - ELAINE: “No, he pretty much thinks everyone is gay.”
 
 ## S2 E9 — The Phone Message
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0209.html
+URL: https://watchwiththekids.com/ep/seinfeld/0209.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -120,7 +120,7 @@ Watch for:
   - watching TV and you're drinking the exact same product that they're advertising
 
 ## S2 E10 — The Apartment
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0210.html
+URL: https://watchwiththekids.com/ep/seinfeld/0210.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -128,7 +128,7 @@ Watch for:
   - GEORGE: “Is that right? (Showing him up) I just threw away a lifetime of guilt-free sex and floor seats for ever sporting event in Madison Square Garden. So please,”
 
 ## S2 E11 — The Statue
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0211.html
+URL: https://watchwiththekids.com/ep/seinfeld/0211.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -145,7 +145,7 @@ Watch for:
   - ELAINE: “Why don't we just throw a Molotov cocktail through their window?”
 
 ## S2 E12 — The Revenge
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0212.html
+URL: https://watchwiththekids.com/ep/seinfeld/0212.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -164,7 +164,7 @@ Watch for:
   - really don't have an apartment. I kinda sleep around.
 
 ## S2 E13 — The Heart Attack
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0213.html
+URL: https://watchwiththekids.com/ep/seinfeld/0213.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -184,7 +184,7 @@ Watch for:
   - thing you know, you got a hose coming out of your chest attached to a piece of luggage.
 
 ## S2 E14 — The Deal
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0214.html
+URL: https://watchwiththekids.com/ep/seinfeld/0214.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -200,7 +200,7 @@ Watch for:
   - George: “Oh, see? that's why I don't have cable in my house. Because of that naked station. If I had that in my house, I would never turn it off. I wouldn't sleep, I wouldn't eat.…”
 
 ## S2 E15 — The Baby Shower
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0215.html
+URL: https://watchwiththekids.com/ep/seinfeld/0215.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -209,12 +209,12 @@ Watch for:
   - JERRY: “Well, I mean, does it ever erupt into a drunken orgy of violence?”
 
 ## S2 E16 — The Chinese Restaurant
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0216.html
+URL: https://watchwiththekids.com/ep/seinfeld/0216.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E17 — The Busboy
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0217.html
+URL: https://watchwiththekids.com/ep/seinfeld/0217.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 2 moment(s)
@@ -226,7 +226,7 @@ Watch for:
   - (The menu at a neighboring table catches fire. Elaine quickly picks up a wine glass - about to put it out, but George tosses the menu on the floor, and stomps it out.
 
 ## S3 E18 — The Note
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0318.html
+URL: https://watchwiththekids.com/ep/seinfeld/0318.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -236,7 +236,7 @@ Watch for:
   - What causes homophobia? What is it that makes a heterosexual man worry? I think it's because men know that deep down we have weak sales resistance.…
 
 ## S3 E19 — The Truth
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0319.html
+URL: https://watchwiththekids.com/ep/seinfeld/0319.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -261,7 +261,7 @@ Watch for:
   - JERRY: “Yeah, I know champagne, limos, cigars. WHAT happened to the papers?”
 
 ## S3 E20 — The Pen
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0320.html
+URL: https://watchwiththekids.com/ep/seinfeld/0320.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 10 moment(s)
@@ -280,14 +280,14 @@ Watch for:
   - JERRY: “I got in a fist fight with one of the ladies at the pool.”
 
 ## S3 E21 — The Dog
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0321.html
+URL: https://watchwiththekids.com/ep/seinfeld/0321.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Jerry: “I'm telling you the guy's a drunk, he's probably on a bender.”
 
 ## S3 E22 — The Library
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0322.html
+URL: https://watchwiththekids.com/ep/seinfeld/0322.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -301,7 +301,7 @@ Watch for:
   - anything to you, but that means a lot to me. One whole hell of a lot.
 
 ## S3 E23 — The Parking Garage
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0323.html
+URL: https://watchwiththekids.com/ep/seinfeld/0323.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -317,7 +317,7 @@ Watch for:
   - KRAMER You know when you hold it in like that you can cause a lot of damage to your bladder. That's what happens to truck drivers. They hold it in all the time. Eventually it starts coming out involuntarily.…
 
 ## S3 E24 — The Cafe
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0324.html
+URL: https://watchwiththekids.com/ep/seinfeld/0324.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Affairs / cheating — 3 moment(s)
@@ -326,7 +326,7 @@ Watch for:
   - Jerry: “It's all right, she was cheating anyway.”
 
 ## S3 E25 — The Tape
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0325.html
+URL: https://watchwiththekids.com/ep/seinfeld/0325.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -342,7 +342,7 @@ Watch for:
   - Elaine: “(coming out of the shower in a bathrobe) May be she realized she could never have you and she jumped off”
 
 ## S3 E26 — The Nose Job
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0326.html
+URL: https://watchwiththekids.com/ep/seinfeld/0326.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -367,7 +367,7 @@ Watch for:
   - Kramer. Nasty woman, many a night I had to throw her out on the street, drunken
 
 ## S3 E27 — The Stranded
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0327.html
+URL: https://watchwiththekids.com/ep/seinfeld/0327.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -382,7 +382,7 @@ Watch for:
   - Steve (drunk and slurring): Oh Jerry! Jerry! Look who's here, it's Jerry
 
 ## S3 E28 — The Alternate Side
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0328.html
+URL: https://watchwiththekids.com/ep/seinfeld/0328.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -402,7 +402,7 @@ Watch for:
   - are making me thirsty' and I took a swig of beer, ya know, and I slammed the
 
 ## S3 E29 — The Red Dot
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0329.html
+URL: https://watchwiththekids.com/ep/seinfeld/0329.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -441,7 +441,7 @@ Watch for:
   - George: “So we started drinking, and I'll tell you I don't know if it was the alcohol or the ammonia, but the next think I knew she was mopping the floor with me.”
 
 ## S3 E30 — The Subway
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0330.html
+URL: https://watchwiththekids.com/ep/seinfeld/0330.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 11 moment(s)
@@ -474,7 +474,7 @@ Watch for:
   - He squeezes himself to same seat with obese young man.
 
 ## S3 E31 — The Pez Dispenser
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0331.html
+URL: https://watchwiththekids.com/ep/seinfeld/0331.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -487,7 +487,7 @@ Watch for:
   - I got so much hand I'm coming out of my gloves. I got to thank Kramer.
 
 ## S3 E32 — The Suicide
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0332.html
+URL: https://watchwiththekids.com/ep/seinfeld/0332.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -512,7 +512,7 @@ Watch for:
   - ELAINE: “And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.”
 
 ## S3 E33 — The Fix-Up
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0333.html
+URL: https://watchwiththekids.com/ep/seinfeld/0333.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -529,7 +529,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S3 E34 — The Boyfriend (Part 1)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0334.html
+URL: https://watchwiththekids.com/ep/seinfeld/0334.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -539,7 +539,7 @@ Watch for:
   - JERRY(MIND): Damn, I was too overanxious, he must have noticed that.
 
 ## S3 E35 — The Boyfriend (Part 2)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0335.html
+URL: https://watchwiththekids.com/ep/seinfeld/0335.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 11 moment(s)
@@ -559,7 +559,7 @@ Watch for:
   - NEWMAN: “He must have caught a glimpse of us when I poured that beer on his head.”
 
 ## S3 E36 — The Limo
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0336.html
+URL: https://watchwiththekids.com/ep/seinfeld/0336.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -572,7 +572,7 @@ Watch for:
   - Eva (gun drawn): Who are you?
 
 ## S3 E37 — The Good Samaritan
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0337.html
+URL: https://watchwiththekids.com/ep/seinfeld/0337.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -597,7 +597,7 @@ Watch for:
   - Michael stops pouring wine and looks seriously at George
 
 ## S3 E38 — The Letter
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0338.html
+URL: https://watchwiththekids.com/ep/seinfeld/0338.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 4 moment(s)
@@ -607,7 +607,7 @@ Watch for:
   - my accountant, who is a hell of a guy. And he handles the Yankees
 
 ## S3 E39 — The Parking Space
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0339.html
+URL: https://watchwiththekids.com/ep/seinfeld/0339.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -622,7 +622,7 @@ Watch for:
   - Elaine: “I think it was a gun. And then they followed us all the way into the”
 
 ## S3 E40 — The Keys
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0340.html
+URL: https://watchwiththekids.com/ep/seinfeld/0340.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -645,7 +645,7 @@ Watch for:
   - GIRLFRIEND: “You were so fast with those keys. <They prepare to kiss, but are interrupted by Kramer and his girlfriend coming out of Jerry's bedroom, laughing and horsing around.>”
 
 ## S4 E41 — The Trip (Part 1)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0441.html
+URL: https://watchwiththekids.com/ep/seinfeld/0441.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -663,7 +663,7 @@ Watch for:
   - Another murder scene. A police officer pulls a blanket over the body's head,
 
 ## S4 E42 — The Trip (Part 2)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0442.html
+URL: https://watchwiththekids.com/ep/seinfeld/0442.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 3 moment(s)
@@ -680,7 +680,7 @@ Watch for:
   - Lt. Martel: “You killed all the pretty flowers, didn't you Kramer? You killed the pretty little flowers, didn't you? You dirty, filthy, stinky weed! Didn't you?”
 
 ## S4 E43 — The Pitch
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0443.html
+URL: https://watchwiththekids.com/ep/seinfeld/0443.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -693,7 +693,7 @@ Watch for:
   - KRAMER: “That's queer uh?”
 
 ## S4 E44 — The Ticket
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0444.html
+URL: https://watchwiththekids.com/ep/seinfeld/0444.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -717,7 +717,7 @@ Watch for:
   - Jerry and George are coming out of the office
 
 ## S4 E45 — The Wallet
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0445.html
+URL: https://watchwiththekids.com/ep/seinfeld/0445.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -728,7 +728,7 @@ Watch for:
   - KRAMER: “Federal Express? Of course. It's the oldest trick in the book. You know it might not be a burglar it might be a murderer.”
 
 ## S4 E46 — The Watch
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0446.html
+URL: https://watchwiththekids.com/ep/seinfeld/0446.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -741,7 +741,7 @@ Watch for:
   - Cynthia sits on the couch, and puts her wine glass on the coffee table.
 
 ## S4 E47 — The Bubble Boy
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0447.html
+URL: https://watchwiththekids.com/ep/seinfeld/0447.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -756,7 +756,7 @@ Watch for:
   - the show with my son Donald. He's got this rare immune deficiency in his blood. Damnedest thing.
 
 ## S4 E48 — The Cheever Letters
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0448.html
+URL: https://watchwiththekids.com/ep/seinfeld/0448.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -775,7 +775,7 @@ Watch for:
   - MRS. ROSS: “(Laughing, she points to her shirt) Look, Henry, I spilled wine on me! (Laughs again)”
 
 ## S4 E49 — The Opera
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0449.html
+URL: https://watchwiththekids.com/ep/seinfeld/0449.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -787,7 +787,7 @@ Watch for:
   - like the breastplates, the bullet hats with the horn coming out. If you
 
 ## S4 E50 — The Virgin
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0450.html
+URL: https://watchwiththekids.com/ep/seinfeld/0450.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 14 moment(s)
@@ -813,7 +813,7 @@ Watch for:
   - Elaine: “Yeah, since she met him she's been vomited on, her family cabin's been burned down, she learned her father's a homosexual, and she got fired from a high paying network job. Yeah, they had a real good thing going.”
 
 ## S4 E51 — The Contest
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0451.html
+URL: https://watchwiththekids.com/ep/seinfeld/0451.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -838,7 +838,7 @@ Watch for:
   - ESTELLE: “Get the hell outta here. (Angrily sets them aside) I'm sorry you came.”
 
 ## S4 E52 — The Airport
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0452.html
+URL: https://watchwiththekids.com/ep/seinfeld/0452.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -857,7 +857,7 @@ Watch for:
   - Jerry: “Wow! Coming out of the shower... It's a good thing they gave you”
 
 ## S4 E53 — The Pick
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0453.html
+URL: https://watchwiththekids.com/ep/seinfeld/0453.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Nudity & bodies — 12 moment(s)
@@ -878,12 +878,12 @@ Watch for:
   - DANA: “Uhg. Well you hold it. Wait, uh, Damn It! I can't move it. God, I've never seen a zipper so stubborn. DAMN IT! I almost had it.”
 
 ## S4 E54 — The Movie
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0454.html
+URL: https://watchwiththekids.com/ep/seinfeld/0454.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S4 E55 — The Visa
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0455.html
+URL: https://watchwiththekids.com/ep/seinfeld/0455.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -902,7 +902,7 @@ Watch for:
   - George (tasting the wine): Excellent. Like I really know what I'm talking
 
 ## S4 E56 — The Shoes
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0456.html
+URL: https://watchwiththekids.com/ep/seinfeld/0456.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -920,7 +920,7 @@ Watch for:
   - RUSSELL (coming out of the bathroom): Really, I'm terribly sorry, it just, uh...all of a sudden it just hit me.
 
 ## S4 E57 — The Outing
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0457.html
+URL: https://watchwiththekids.com/ep/seinfeld/0457.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -953,7 +953,7 @@ Watch for:
   - is a stereotype. They normally don't think of gay people as fat, sloppy
 
 ## S4 E58 — The Old Man
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0458.html
+URL: https://watchwiththekids.com/ep/seinfeld/0458.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -979,7 +979,7 @@ Watch for:
   - Elaine: “You had an affair with Ghandhi?”
 
 ## S4 E59 — The Implant
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0459.html
+URL: https://watchwiththekids.com/ep/seinfeld/0459.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1004,7 +1004,7 @@ Watch for:
   - JERRY: “Good, feel good...you know that Jayne Mansfield had some big breasts. Really big, huge...just coming out the top of her dress, they were like, chokin' her.”
 
 ## S4 E60 — The Junior Mint
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0460.html
+URL: https://watchwiththekids.com/ep/seinfeld/0460.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1021,7 +1021,7 @@ Watch for:
   - some people actually *cheat* on the people that they're cheating
 
 ## S4 E61 — The Smelly Car
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0461.html
+URL: https://watchwiththekids.com/ep/seinfeld/0461.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1044,7 +1044,7 @@ Watch for:
   - George: “Yes, I know so. You happen to be a very eligible lesbian.”
 
 ## S4 E62 — The Handicap Spot
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0462.html
+URL: https://watchwiththekids.com/ep/seinfeld/0462.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1058,7 +1058,7 @@ Watch for:
   - Jerry (coming out of the bathroom): What's the big hurry?
 
 ## S4 E63 — The Pilot (Part 1)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0463.html
+URL: https://watchwiththekids.com/ep/seinfeld/0463.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1077,7 +1077,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S4 E64 — The Pilot (Part 2)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0464.html
+URL: https://watchwiththekids.com/ep/seinfeld/0464.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1089,7 +1089,7 @@ Watch for:
   - ELAINE: “I can't believe this? What happened to him? Where the hell is he?”
 
 ## S5 E65 — The Mango
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0565.html
+URL: https://watchwiththekids.com/ep/seinfeld/0565.html
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 10 moment(s)
@@ -1111,7 +1111,7 @@ Watch for:
   - GEORGE: “It's like the manager coming out and asking you for the ball.”
 
 ## S5 E66 — The Puffy Shirt
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0566.html
+URL: https://watchwiththekids.com/ep/seinfeld/0566.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1120,7 +1120,7 @@ Watch for:
   - FRANK: “(Looking up from his paper) Who the hell did'ya ever mention his hands to?”
 
 ## S5 E67 — The Glasses
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0567.html
+URL: https://watchwiththekids.com/ep/seinfeld/0567.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1135,7 +1135,7 @@ Watch for:
   - ELAINE: “Listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.”
 
 ## S5 E68 — The Sniffing Accountant
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0568.html
+URL: https://watchwiththekids.com/ep/seinfeld/0568.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 11 moment(s)
@@ -1156,7 +1156,7 @@ Watch for:
   - *Kramer drinks the beer and smokes the cigarette at the same time*
 
 ## S5 E69 — The Bris
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0569.html
+URL: https://watchwiththekids.com/ep/seinfeld/0569.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1174,7 +1174,7 @@ Watch for:
   - Well if it isn't Shakey the Mohel! You did a hell of a
 
 ## S5 E70 — The Lip Reader
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0570.html
+URL: https://watchwiththekids.com/ep/seinfeld/0570.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1188,7 +1188,7 @@ Watch for:
   - Driver: “I'm so sorry, you'll have to forgive me. I can't hear a damn thing. I went to that rock concert last night at the garden. My seats were right up agains the speaker. It's a heavy metal group. Metalla-something.”
 
 ## S5 E71 — The Non-Fat Yogurt
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0571.html
+URL: https://watchwiththekids.com/ep/seinfeld/0571.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1200,7 +1200,7 @@ Watch for:
   - some blood spilled into Mr. Giuliani's test tube causing his
 
 ## S5 E72 — The Barber
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0572.html
+URL: https://watchwiththekids.com/ep/seinfeld/0572.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1212,7 +1212,7 @@ Watch for:
   - woman so, we had a little party, with cake and champagne. I made a toast.
 
 ## S5 E73 — The Masseuse
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0573.html
+URL: https://watchwiththekids.com/ep/seinfeld/0573.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1234,7 +1234,7 @@ Watch for:
   - ELAINE: “Yeah, in college I sat next to an Alex in art history. And he was always drinking coffee and after every sip he would go: "Ahh!". I mean every two seconds: "Ahh!".…”
 
 ## S5 E74 — The Cigar Store Indian
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0574.html
+URL: https://watchwiththekids.com/ep/seinfeld/0574.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1251,7 +1251,7 @@ Watch for:
   - Chinese restaurants are? (adopts hackneyed Chinese accent) Oh, ask honolable
 
 ## S5 E75 — The Conversion
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0575.html
+URL: https://watchwiththekids.com/ep/seinfeld/0575.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1266,7 +1266,7 @@ Watch for:
   - George takes a drink of some wine. He spills some on his gown. He makes a
 
 ## S5 E76 — The Stall
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0576.html
+URL: https://watchwiththekids.com/ep/seinfeld/0576.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1285,7 +1285,7 @@ Watch for:
   - coming out from the bathroom
 
 ## S5 E77 — The Dinner Party
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0577.html
+URL: https://watchwiththekids.com/ep/seinfeld/0577.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1310,7 +1310,7 @@ Watch for:
   - GEORGE: “And your wine.”
 
 ## S5 E78 — The Marine Biologist
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0578.html
+URL: https://watchwiththekids.com/ep/seinfeld/0578.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1325,7 +1325,7 @@ Watch for:
   - George: “I'm such a Huge whale fan. These marine biologists were showing how”
 
 ## S5 E79 — The Pie
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0579.html
+URL: https://watchwiththekids.com/ep/seinfeld/0579.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1341,7 +1341,7 @@ Watch for:
   - BOB: “Then what the hell business is it of yours?”
 
 ## S5 E80 — The Stand-In
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0580.html
+URL: https://watchwiththekids.com/ep/seinfeld/0580.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1359,7 +1359,7 @@ Watch for:
   - KRAMER: “Hey, nobody put a gun to your head.”
 
 ## S5 E81 — The Wife
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0581.html
+URL: https://watchwiththekids.com/ep/seinfeld/0581.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1381,7 +1381,7 @@ Watch for:
   - GRANDPA (to Anna): I thought you said you was bringin' a white boy home! I don't see a white boy! I see a damn fool!
 
 ## S5 E82 — The Raincoats (Part 1)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0582.html
+URL: https://watchwiththekids.com/ep/seinfeld/0582.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1416,7 +1416,7 @@ Watch for:
   - JERRY: “Say, I happened to catch you coming out of Schindler's List the other night.”
 
 ## S5 E83 — The Raincoats (Part 2)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0583.html
+URL: https://watchwiththekids.com/ep/seinfeld/0583.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1451,7 +1451,7 @@ Watch for:
   - JERRY: “Say, I happened to catch you coming out of Schindler's List the other night.”
 
 ## S5 E84 — The Fire
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0584.html
+URL: https://watchwiththekids.com/ep/seinfeld/0584.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1467,7 +1467,7 @@ Watch for:
   - GEORGE: “The prop comic? <Ronnie holds up his water gun and smiles.> Oh, hi...I didn't recognize you, what...did you get a haircut?”
 
 ## S5 E85 — The Hamptons
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0585.html
+URL: https://watchwiththekids.com/ep/seinfeld/0585.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1483,7 +1483,7 @@ Watch for:
   - 'damn' expression behind George)
 
 ## S5 E86 — The Opposite
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0586.html
+URL: https://watchwiththekids.com/ep/seinfeld/0586.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1499,7 +1499,7 @@ Watch for:
   - Regis: “Young guy, he's got a new book coming out, and it's about, and this is the best part”
 
 ## S6 E87 — The Chaperone
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0687.html
+URL: https://watchwiththekids.com/ep/seinfeld/0687.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1521,7 +1521,7 @@ Watch for:
   - PITT: “Mrs. Landis, there's something wrong with this copying machine, it's all coming out slanted. Now, I don't know if this is your department or not.”
 
 ## S6 E88 — The Big Salad
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0688.html
+URL: https://watchwiththekids.com/ep/seinfeld/0688.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -1530,7 +1530,7 @@ Watch for:
   - Jerry: “Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.”
 
 ## S6 E89 — The Pledge Drive
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0689.html
+URL: https://watchwiththekids.com/ep/seinfeld/0689.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1543,7 +1543,7 @@ Watch for:
   - Jerry: “Yeah, and one of those foam beer can holders.”
 
 ## S6 E90 — The Chinese Woman
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0690.html
+URL: https://watchwiththekids.com/ep/seinfeld/0690.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1570,7 +1570,7 @@ Watch for:
   - If I like their race, how can that be racist?..
 
 ## S6 E91 — The Couch
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0691.html
+URL: https://watchwiththekids.com/ep/seinfeld/0691.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1586,7 +1586,7 @@ Watch for:
   - MARIE: “George...Fred's gay.”
 
 ## S6 E92 — The Gymnast
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0692.html
+URL: https://watchwiththekids.com/ep/seinfeld/0692.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1602,7 +1602,7 @@ Watch for:
   - JERRY: “I've never been able to figure out why they make these bizarre toilet seats that they have. You know, like those clear Lucite ones, with all the, the coins in it?…”
 
 ## S6 E93 — The Soup
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0693.html
+URL: https://watchwiththekids.com/ep/seinfeld/0693.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1619,12 +1619,12 @@ Watch for:
   - Simon: “Hey mate. Fancy a beer?”
 
 ## S6 E94 — The Mom &amp; Pop Store
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0694.html
+URL: https://watchwiththekids.com/ep/seinfeld/0694.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E95 — The Secretary
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0695.html
+URL: https://watchwiththekids.com/ep/seinfeld/0695.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1643,7 +1643,7 @@ Watch for:
   - sequestered in a one-bedroom suite with a white wine intravenous.
 
 ## S6 E96 — The Race
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0696.html
+URL: https://watchwiththekids.com/ep/seinfeld/0696.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -1659,7 +1659,7 @@ Watch for:
   - The Christmas tree certainly seems to inspire a love/hate relationship. All that time is spent selecting it and decorating it, and then a week after it's just thrown somewhere, you see it by the side of the road, it…
 
 ## S6 E97 — The Switch
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0697.html
+URL: https://watchwiththekids.com/ep/seinfeld/0697.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1671,7 +1671,7 @@ Watch for:
   - {Commercial, then "third scene,"The boys are finishing pizza and beer.
 
 ## S6 E98 — The Label Maker
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0698.html
+URL: https://watchwiththekids.com/ep/seinfeld/0698.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1684,7 +1684,7 @@ Watch for:
   - Jerry: “I'm not letting you cheat, Newman. You're not getting anywhere near”
 
 ## S6 E99 — The Scofflaw
-URL: https://watchwithkids.vercel.app/ep/seinfeld/0699.html
+URL: https://watchwiththekids.com/ep/seinfeld/0699.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1694,7 +1694,7 @@ Watch for:
   - to punch Jerry)
 
 ## S6 E102 — The Beard
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06102.html
+URL: https://watchwiththekids.com/ep/seinfeld/06102.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1713,7 +1713,7 @@ Watch for:
   - bad he's gay".
 
 ## S6 E103 — The Kiss Hello
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06103.html
+URL: https://watchwiththekids.com/ep/seinfeld/06103.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 29 moment(s)
@@ -1745,7 +1745,7 @@ Watch for:
   - GUY: “I'll go get some more beer.”
 
 ## S6 E104 — The Doorman
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06104.html
+URL: https://watchwiththekids.com/ep/seinfeld/06104.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 11 moment(s)
@@ -1771,7 +1771,7 @@ Watch for:
   - ESTELLE: “You're not having any of your transvestite parties?”
 
 ## S6 E105 — The Jimmy
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06105.html
+URL: https://watchwiththekids.com/ep/seinfeld/06105.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 4 moment(s)
@@ -1786,7 +1786,7 @@ Watch for:
   - you're coming out of the gas but you were still under the gas."
 
 ## S6 E106 — The Doodle
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06106.html
+URL: https://watchwiththekids.com/ep/seinfeld/06106.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1806,7 +1806,7 @@ Watch for:
   - Kramer and Newman who is coming out of the market eating a peach.
 
 ## S6 E107 — The Fusilli Jerry
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06107.html
+URL: https://watchwiththekids.com/ep/seinfeld/06107.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1829,7 +1829,7 @@ Watch for:
   - is. He's not gonna cheat you.
 
 ## S6 E108 — The Diplomat's Club
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06108.html
+URL: https://watchwiththekids.com/ep/seinfeld/06108.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1840,7 +1840,7 @@ Watch for:
   - Earl: “You're a cheat! Nobody hustles Earl Hafler.”
 
 ## S6 E109 — The Face Painter
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06109.html
+URL: https://watchwiththekids.com/ep/seinfeld/06109.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1850,7 +1850,7 @@ Watch for:
   - Jerry: “Those damn 'I love you' returns.”
 
 ## S6 E110 — The Understudy
-URL: https://watchwithkids.vercel.app/ep/seinfeld/06110.html
+URL: https://watchwiththekids.com/ep/seinfeld/06110.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1863,7 +1863,7 @@ Watch for:
   - Frank: “I had an affair with a Korean woman.”
 
 ## S7 E111 — The Engagement
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07111.html
+URL: https://watchwiththekids.com/ep/seinfeld/07111.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1875,7 +1875,7 @@ Watch for:
   - Jerry: “Hmm. I thought she became a lesbian.”
 
 ## S7 E112 — The Postponement
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07112.html
+URL: https://watchwiththekids.com/ep/seinfeld/07112.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1900,7 +1900,7 @@ Watch for:
   - Kramer: “I've been drinking Caf Latte since the fifth grade and I haven't looked back.”
 
 ## S7 E113 — The Maestro
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07113.html
+URL: https://watchwiththekids.com/ep/seinfeld/07113.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1919,7 +1919,7 @@ Watch for:
   - "Hello Maestro, how about a beer". O.K. So that's a fact.
 
 ## S7 E114 — The Wink
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07114.html
+URL: https://watchwiththekids.com/ep/seinfeld/07114.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1930,7 +1930,7 @@ Watch for:
   - MORGAN: “Ha ha, uh, well you screwed me again, Costanza. How am I supposed to sign the card now when it's already under glass?”
 
 ## S7 E115 — The Hot Tub
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07115.html
+URL: https://watchwiththekids.com/ep/seinfeld/07115.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 23 moment(s)
@@ -1958,7 +1958,7 @@ Watch for:
   - They are calling George at the Yankee Stadium, while they're drinking and laughing in the plane
 
 ## S7 E116 — The Soup Nazi
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07116.html
+URL: https://watchwiththekids.com/ep/seinfeld/07116.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1967,7 +1967,7 @@ Watch for:
   - GEORGE: “Yeah. Yeah. With all that kissing and the shmoopy, shmoopy,”
 
 ## S7 E117 — The Secret Code
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07117.html
+URL: https://watchwiththekids.com/ep/seinfeld/07117.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 6 moment(s)
@@ -1979,7 +1979,7 @@ Watch for:
   - Captain: “Kramer, get the hell off of there. You're not trained to operate this”
 
 ## S7 E118 — The Pool Guy
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07118.html
+URL: https://watchwiththekids.com/ep/seinfeld/07118.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1993,7 +1993,7 @@ Watch for:
   - know, and the punches started flying -- who do you think would win?
 
 ## S7 E119 — The Sponge
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07119.html
+URL: https://watchwiththekids.com/ep/seinfeld/07119.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 14 moment(s)
@@ -2018,7 +2018,7 @@ Watch for:
   - Fighting, weapons, or death talk.
 
 ## S7 E120 — The Gum
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07120.html
+URL: https://watchwiththekids.com/ep/seinfeld/07120.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2032,7 +2032,7 @@ Watch for:
   - KRAMER: “(slapping Jerry on the back) Ah, he loved it.”
 
 ## S7 E121 — The Rye
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07121.html
+URL: https://watchwiththekids.com/ep/seinfeld/07121.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2052,7 +2052,7 @@ Watch for:
   - JERRY: “But you said he was just coming out of a very serious relationship.”
 
 ## S7 E122 — The Caddy
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07122.html
+URL: https://watchwiththekids.com/ep/seinfeld/07122.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2086,7 +2086,7 @@ Watch for:
   - Elaine makes a gun with her fingers and points it to her head
 
 ## S7 E123 — The Seven
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07123.html
+URL: https://watchwiththekids.com/ep/seinfeld/07123.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2099,7 +2099,7 @@ Watch for:
   - shaker, she knocks her glass of red wine over her dress.
 
 ## S7 E124 — The Cadillac (Part 1)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07124.html
+URL: https://watchwiththekids.com/ep/seinfeld/07124.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2115,7 +2115,7 @@ Watch for:
   - GEORGE: “(adamant) It's not cheating if there's no sex!”
 
 ## S7 E125 — The Cadillac (Part 2)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07125.html
+URL: https://watchwiththekids.com/ep/seinfeld/07125.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2133,7 +2133,7 @@ Watch for:
   - you think I was having an affair with George?
 
 ## S7 E126 — The Shower Head
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07126.html
+URL: https://watchwiththekids.com/ep/seinfeld/07126.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2148,7 +2148,7 @@ Watch for:
   - Jerry: “Actually, I'm drunk.”
 
 ## S7 E127 — The Doll
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07127.html
+URL: https://watchwiththekids.com/ep/seinfeld/07127.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2171,7 +2171,7 @@ Watch for:
   - ELAINE: “Oh, ok! (Picking up the Ori-dent box, she knocks over a bottle of wine. It spills all over the poster)”
 
 ## S7 E128 — The Friars Club
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07128.html
+URL: https://watchwiththekids.com/ep/seinfeld/07128.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2196,7 +2196,7 @@ Watch for:
   - George pushes open the door and enters, still ebullient. He punches the air
 
 ## S7 E129 — The Wigmaster
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07129.html
+URL: https://watchwiththekids.com/ep/seinfeld/07129.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -2216,7 +2216,7 @@ Watch for:
   - drinking Champagne Coolies."
 
 ## S7 E130 — The Calzone
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07130.html
+URL: https://watchwiththekids.com/ep/seinfeld/07130.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2237,7 +2237,7 @@ Watch for:
   - Mr. Steinbrenner: “Corn beef . I don't think so . It is a little fatty .”
 
 ## S7 E131 — The Bottle Deposit (Part 1)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07131.html
+URL: https://watchwiththekids.com/ep/seinfeld/07131.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2248,7 +2248,7 @@ Watch for:
   - NEWMAN: Damn!
 
 ## S7 E132 — The Bottle Deposit (Part 2)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07132.html
+URL: https://watchwiththekids.com/ep/seinfeld/07132.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2266,14 +2266,14 @@ Watch for:
   - STEINBRENNER: “What about drugs? You doing some of that crack cocaine?”
 
 ## S7 E133 — The Wait Out
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07133.html
+URL: https://watchwiththekids.com/ep/seinfeld/07133.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - KRAMER: “Yeah, and I'm playing a business man accused of murder.”
 
 ## S7 E134 — The Invitations
-URL: https://watchwithkids.vercel.app/ep/seinfeld/07134.html
+URL: https://watchwiththekids.com/ep/seinfeld/07134.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2284,7 +2284,7 @@ Watch for:
   - Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.
 
 ## S8 E135 — The Foundation
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08135.html
+URL: https://watchwiththekids.com/ep/seinfeld/08135.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 2 moment(s)
@@ -2296,7 +2296,7 @@ Watch for:
   - She continues drinking.
 
 ## S8 E136 — The Soul Mate
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08136.html
+URL: https://watchwiththekids.com/ep/seinfeld/08136.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 2 moment(s)
@@ -2309,7 +2309,7 @@ Watch for:
   - New scene - Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.
 
 ## S8 E137 — The Bizarro Jerry
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08137.html
+URL: https://watchwiththekids.com/ep/seinfeld/08137.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -2325,7 +2325,7 @@ Watch for:
   - [Night exterior. GEORGE, JERRY, and KRAMER walking down the street. Down the sidewalk is ELAINE coming out of a
 
 ## S8 E138 — The Little Kicks
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08138.html
+URL: https://watchwiththekids.com/ep/seinfeld/08138.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 5 moment(s)
@@ -2340,7 +2340,7 @@ Watch for:
   - Jerry: “Kramer, you make me get a ticket for this friend of yours and then the guy forces me to bootleg the movie at gun point!”
 
 ## S8 E139 — The Package
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08139.html
+URL: https://watchwiththekids.com/ep/seinfeld/08139.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2352,7 +2352,7 @@ Watch for:
   - Newman: “Not so fast pretty boy . There is more to this sordid little affair .”
 
 ## S8 E140 — The Fatigues
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08140.html
+URL: https://watchwiththekids.com/ep/seinfeld/08140.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 3 moment(s)
@@ -2365,7 +2365,7 @@ Watch for:
   - Frank pours a shot of whiskey and drinks it.
 
 ## S8 E141 — The Checks
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08141.html
+URL: https://watchwiththekids.com/ep/seinfeld/08141.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2379,7 +2379,7 @@ Watch for:
   - waist (at least), wearing Stetsons, and drinking sake. They spot George as he
 
 ## S8 E142 — The Chicken Roaster
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08142.html
+URL: https://watchwiththekids.com/ep/seinfeld/08142.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2391,7 +2391,7 @@ Watch for:
   - George: “Damn salami.”
 
 ## S8 E143 — The Abstinence
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08143.html
+URL: https://watchwiththekids.com/ep/seinfeld/08143.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 15 moment(s)
@@ -2416,7 +2416,7 @@ Watch for:
   - Louise: “So the hospital called, turns out some stupid intern screwed up my test. I never had mono. So we can... you know.”
 
 ## S8 E144 — The Andrea Doria
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08144.html
+URL: https://watchwiththekids.com/ep/seinfeld/08144.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2438,7 +2438,7 @@ Watch for:
   - VET: “Yeah, well, uh - we've been seeing a lot of this lately. Been drinking from the toilet?”
 
 ## S8 E145 — The Little Jerry
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08145.html
+URL: https://watchwiththekids.com/ep/seinfeld/08145.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2452,7 +2452,7 @@ Watch for:
   - ELAINE: “Why did you get into a fist fight with the cop? You were innocent!”
 
 ## S8 E146 — The Money
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08146.html
+URL: https://watchwiththekids.com/ep/seinfeld/08146.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2470,7 +2470,7 @@ Watch for:
   - Jerry, George and Elaine sit in a booth. Jerry drinking coffee, George
 
 ## S8 E147 — The Comeback
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08147.html
+URL: https://watchwiththekids.com/ep/seinfeld/08147.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2489,7 +2489,7 @@ Watch for:
   - DOCTOR (O.C.): Wait a minute, she's coming out of the coma.
 
 ## S8 E148 — The Van Buren Boys
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08148.html
+URL: https://watchwiththekids.com/ep/seinfeld/08148.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 4 moment(s)
@@ -2506,7 +2506,7 @@ Watch for:
   - Kramer nods his head while drinking from a mug of beer
 
 ## S8 E149 — The Susie
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08149.html
+URL: https://watchwiththekids.com/ep/seinfeld/08149.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2520,7 +2520,7 @@ Watch for:
   - Susie didn't commit suicide!
 
 ## S8 E150 — The Pothole
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08150.html
+URL: https://watchwiththekids.com/ep/seinfeld/08150.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2541,7 +2541,7 @@ Watch for:
   - JERRY: “Nothing. I just, I uh, I bruised my lip. I was drinking a Celray, and I”
 
 ## S8 E151 — The English Patient
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08151.html
+URL: https://watchwiththekids.com/ep/seinfeld/08151.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2564,7 +2564,7 @@ Watch for:
   - Elaine turns to enter the theatre, and meets Gail, Carol and Lisa coming out.
 
 ## S8 E152 — The Nap
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08152.html
+URL: https://watchwiththekids.com/ep/seinfeld/08152.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 4 moment(s)
@@ -2574,7 +2574,7 @@ Watch for:
   - STEINBRENNER: “Costanza what the hell are you doing?”
 
 ## S8 E153 — The Yada Yada
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08153.html
+URL: https://watchwiththekids.com/ep/seinfeld/08153.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2598,7 +2598,7 @@ Watch for:
   - Waiter: “Anything to drink? Some wine, perhaps.”
 
 ## S8 E154 — The Millennium
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08154.html
+URL: https://watchwiththekids.com/ep/seinfeld/08154.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2621,7 +2621,7 @@ Watch for:
   - MRS HAMILTON: “I'm sure she'll be along. (handing over a glass) Have some wine,”
 
 ## S8 E155 — The Muffin Tops
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08155.html
+URL: https://watchwiththekids.com/ep/seinfeld/08155.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2630,7 +2630,7 @@ Watch for:
   - John Tyler: “How about this. You give me Castanza, I convert your concessions to all chicken no charge. Instead of hot dogs, chicken dogs. Instead of pretzels, chicken twists. Instead of beer, alcoholic chicken.”
 
 ## S8 E156 — The Summer of George
-URL: https://watchwithkids.vercel.app/ep/seinfeld/08156.html
+URL: https://watchwiththekids.com/ep/seinfeld/08156.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2644,7 +2644,7 @@ Watch for:
   - Kramer: “Jerry, it was a whirlwind. They whisked us backstage, the media is sworming, champagne is flowing...whooo! I can't describe how great it is to win.”
 
 ## S9 E157 — The Butter Shave
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09157.html
+URL: https://watchwiththekids.com/ep/seinfeld/09157.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2662,7 +2662,7 @@ Watch for:
   - sitting in the bar at the comedy club drinking a glass of champagne. Bania
 
 ## S9 E158 — The Voice
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09158.html
+URL: https://watchwiththekids.com/ep/seinfeld/09158.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2683,7 +2683,7 @@ Watch for:
   - Puddy: “Hey, you want to split a root beer (I think that’s what he says)?”
 
 ## S9 E159 — The Serenity Now
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09159.html
+URL: https://watchwiththekids.com/ep/seinfeld/09159.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2703,7 +2703,7 @@ Watch for:
   - Estelle: “Move your crap, I'm comin' in!”
 
 ## S9 E160 — The Blood
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09160.html
+URL: https://watchwiththekids.com/ep/seinfeld/09160.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2734,7 +2734,7 @@ Watch for:
   - Kramer: “So, my blood is not enough. Would you like a kidney too, because I'll give it to you? I'll rip it out right here and stack it on the table!”
 
 ## S9 E161 — The Junk Mail
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09161.html
+URL: https://watchwiththekids.com/ep/seinfeld/09161.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2751,7 +2751,7 @@ Watch for:
   - George: “"Quick for a... catered affair."”
 
 ## S9 E162 — The Merv Griffin Show
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09162.html
+URL: https://watchwiththekids.com/ep/seinfeld/09162.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2765,7 +2765,7 @@ Watch for:
   - ELAINE: “Oh well, hey, I dated Jerry too. I know what a monster he can be. More wine and turkey?”
 
 ## S9 E163 — The Slicer
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09163.html
+URL: https://watchwiththekids.com/ep/seinfeld/09163.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Swearing — 7 moment(s)
@@ -2778,7 +2778,7 @@ Watch for:
   - Jerry: “What the hell is this?”
 
 ## S9 E164 — The Betrayal
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09164.html
+URL: https://watchwiththekids.com/ep/seinfeld/09164.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2800,7 +2800,7 @@ Watch for:
   - ELAINE: “Watch this. (Puts the bottle of Schnapps in her mouth, flips her head up, drinking it, then puts it back down with her teeth. She is effected by that last”
 
 ## S9 E165 — The Apology
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09165.html
+URL: https://watchwiththekids.com/ep/seinfeld/09165.html
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2825,7 +2825,7 @@ Watch for:
   - Jerry: “"I'd accuse you of cheating, but I don't know where you'd hide the”
 
 ## S9 E166 — The Strike
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09166.html
+URL: https://watchwiththekids.com/ep/seinfeld/09166.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2842,7 +2842,7 @@ Watch for:
   - ELAINE: “Oh.. (sees a guy looking at her) I got denim vest checking me out. (laughs) Fake phone number's coming out tonight.”
 
 ## S9 E167 — The Dealership
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09167.html
+URL: https://watchwiththekids.com/ep/seinfeld/09167.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2856,7 +2856,7 @@ Watch for:
   - PUDDY: “(While punching up numbers on a calculator) That chick’s whacked. We’re history. (Back to the transaction) I just left out a couple of things:”
 
 ## S9 E168 — The Reverse Peephole
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09168.html
+URL: https://watchwiththekids.com/ep/seinfeld/09168.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2873,7 +2873,7 @@ Watch for:
   - Jerry: “Your good friend is morbidly obese.”
 
 ## S9 E169 — The Cartoon
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09169.html
+URL: https://watchwiththekids.com/ep/seinfeld/09169.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2891,7 +2891,7 @@ Watch for:
   - Elaine: “The pig says "my wife is a slut."”
 
 ## S9 E170 — The Strong Box
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09170.html
+URL: https://watchwiththekids.com/ep/seinfeld/09170.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2911,7 +2911,7 @@ Watch for:
   - George, drinking tea in his apartment with his girlfriend: "I-I've given this
 
 ## S9 E171 — The Wizard
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09171.html
+URL: https://watchwiththekids.com/ep/seinfeld/09171.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 2 moment(s)
@@ -2921,7 +2921,7 @@ Watch for:
   - That is racism!"
 
 ## S9 E172 — The Burning
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09172.html
+URL: https://watchwiththekids.com/ep/seinfeld/09172.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Swearing — 13 moment(s)
@@ -2944,7 +2944,7 @@ Watch for:
   - Jerry: “And a bit of a tramp if you ask me.”
 
 ## S9 E173 — The Bookstore
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09173.html
+URL: https://watchwiththekids.com/ep/seinfeld/09173.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 4 moment(s)
@@ -2965,7 +2965,7 @@ Watch for:
   - ELAINE: “(Talking to a co-worker) Of course Zach and I have been dating. What'd you think, I was the office skank?”
 
 ## S9 E174 — The Frogger
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09174.html
+URL: https://watchwiththekids.com/ep/seinfeld/09174.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2981,7 +2981,7 @@ Watch for:
   - GEORGE: “Slippery Pete, Kramer tells me you are one hell of a rogue electrician. And shlomo, you're the best truck driver.”
 
 ## S9 E175 — The Maid
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09175.html
+URL: https://watchwiththekids.com/ep/seinfeld/09175.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2998,7 +2998,7 @@ Watch for:
   - JERRY: “Is this the suicide talk or the nickname talk?”
 
 ## S9 E176 — The Puerto Rican Day
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09176.html
+URL: https://watchwiththekids.com/ep/seinfeld/09176.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3012,12 +3012,12 @@ Watch for:
   - GEORGE: “Damn you, laser guy! You had to grab it all with your lowbrow laser shtick! You're just a prop comic! Where's the craft?!”
 
 ## S9 E178 — The Clip Show (Part 2)
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09178.html
+URL: https://watchwiththekids.com/ep/seinfeld/09178.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E179 — The Finale
-URL: https://watchwithkids.vercel.app/ep/seinfeld/09179.html
+URL: https://watchwiththekids.com/ep/seinfeld/09179.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Strong — skip for little kids)
 Watch for:
 - Sex & hookups — 4 moment(s)

@@ -1,11 +1,11 @@
 # SpongeBob SquarePants — parent guide (1060 episodes)
 
-Source: https://watchwithkids.vercel.app/spongebob.html
+Source: https://watchwiththekids.com/spongebob.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 1029 all clear (1–2), 29 gray area (3), 2 hard pass (4–5).
 
 ## S2 E29a — 10 & 1 Toilets
-URL: https://watchwithkids.vercel.app/ep/spongebob/0229a.html
+URL: https://watchwiththekids.com/ep/spongebob/0229a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -15,63 +15,63 @@ Watch for:
   - Patrick: “[family approaches GrandPat] GrandPat, we are very disappointed in how old and naked you are. [walks off with puppies, then his family follows] Come on, poopies. [chuckles] Poopies." Heh-heh, poop.”
 
 ## S5 E97a — 20,000 Patties Under the Sea
-URL: https://watchwithkids.vercel.app/ep/spongebob/0597a.html
+URL: https://watchwiththekids.com/ep/spongebob/0597a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - Plankton: “I think it's time for you to lose some weight, fatty! That's what it is!”
 
 ## Ep 3 — 2000 Kids' Choice Awards short
-URL: https://watchwithkids.vercel.app/ep/spongebob/0003.html
+URL: https://watchwiththekids.com/ep/spongebob/0003.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 4 — 2019 Kids' Choice Awards short
-URL: https://watchwithkids.vercel.app/ep/spongebob/0004.html
+URL: https://watchwiththekids.com/ep/spongebob/0004.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 5 — 2021 Kids' Choice Awards short
-URL: https://watchwithkids.vercel.app/ep/spongebob/0005.html
+URL: https://watchwiththekids.com/ep/spongebob/0005.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 6 — 2022 Kids' Choice Awards short
-URL: https://watchwithkids.vercel.app/ep/spongebob/0006.html
+URL: https://watchwiththekids.com/ep/spongebob/0006.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 7 — 2025 Kids' Choice Awards short
-URL: https://watchwithkids.vercel.app/ep/spongebob/0007.html
+URL: https://watchwiththekids.com/ep/spongebob/0007.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E37b — 5 Star Restaurant
-URL: https://watchwithkids.vercel.app/ep/spongebob/0237b.html
+URL: https://watchwiththekids.com/ep/spongebob/0237b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bunny: “[holding Patrick, kisses his boo-boo away, then cradles him] My brave boy! I'm never leaving you out of my sight again.”
 
 ## S12 E262a — A Cabin in the Kelp
-URL: https://watchwithkids.vercel.app/ep/spongebob/12262a.html
+URL: https://watchwiththekids.com/ep/spongebob/12262a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - As time passes, day turns to nighttime. The girls are sitting together around the campfire drinking kelp cocoa.
 
 ## Ep 10 — A Chuckie Finster Christmas, Channukah, Kwaanza, Winter Solstice
-URL: https://watchwithkids.vercel.app/ep/spongebob/0010.html
+URL: https://watchwiththekids.com/ep/spongebob/0010.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E136a — A Day Without Tears
-URL: https://watchwithkids.vercel.app/ep/spongebob/07136a.html
+URL: https://watchwiththekids.com/ep/spongebob/07136a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E37a — A Finful of Sand Dollars
-URL: https://watchwithkids.vercel.app/ep/spongebob/0237a.html
+URL: https://watchwiththekids.com/ep/spongebob/0237a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -83,12 +83,12 @@ Watch for:
   - Sandy: “[train horn blows] Well, I'm gonna need an old Western trope to get outta this old Western rope. [whistles, getting the attention of a seahorse drinking water, who runs to Sandy; holds up a bottle of horse radish…”
 
 ## S15 E318b — A Fish Called Sandy
-URL: https://watchwithkids.vercel.app/ep/spongebob/15318b.html
+URL: https://watchwiththekids.com/ep/spongebob/15318b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E90a — A Flea in Her Dome
-URL: https://watchwithkids.vercel.app/ep/spongebob/0590a.html
+URL: https://watchwiththekids.com/ep/spongebob/0590a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -96,7 +96,7 @@ Watch for:
   - Patrick: “Yeah, good to see ya. [They run toward the door, but a flea tornado beats them there. The tornado then chases after them]”
 
 ## S3 E48b — A Fool Schooled
-URL: https://watchwithkids.vercel.app/ep/spongebob/0348b.html
+URL: https://watchwiththekids.com/ep/spongebob/0348b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -105,14 +105,14 @@ Watch for:
   - Patrick: “[takes the toothbrush] You got it! [he pulls out loose teeth and brushes them] Brush-a, brush-a, brush-a. I brush my teeth every night.…”
 
 ## Ep 16 — A Football is a Seed
-URL: https://watchwithkids.vercel.app/ep/spongebob/0016.html
+URL: https://watchwiththekids.com/ep/spongebob/0016.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Patrick: “Inevitably. [attempts to drink from the cup, but its drinking straw pokes his left eye] Ow!”
 
 ## S5 E70b — A Fridge Too Far
-URL: https://watchwithkids.vercel.app/ep/spongebob/0570b.html
+URL: https://watchwiththekids.com/ep/spongebob/0570b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -121,21 +121,21 @@ Watch for:
   - Cecil: “A tender head kiss? Oh! Does this make my head fridge-worthy?! [grabs Bunny next to the fridge and takes his head off] Maybe you can hang this on the fridge!”
 
 ## S8 E155a — A Friendly Game
-URL: https://watchwithkids.vercel.app/ep/spongebob/08155a.html
+URL: https://watchwiththekids.com/ep/spongebob/08155a.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 1 moment(s)
   - Fighting, weapons, or death talk.
 
 ## S6 E106a — A Life in a Day
-URL: https://watchwithkids.vercel.app/ep/spongebob/06106a.html
+URL: https://watchwiththekids.com/ep/spongebob/06106a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patrick: “To live, my friend! We are going to live! [SpongeBob's expression goes from determined to worried. We now transition. to "A-1 Wreckers", a junkyard.] This is going to be the best fun yet!…”
 
 ## S7 E131b — A Pal for Gary
-URL: https://watchwithkids.vercel.app/ep/spongebob/07131b.html
+URL: https://watchwiththekids.com/ep/spongebob/07131b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 4 moment(s)
@@ -145,14 +145,14 @@ Watch for:
   - Gary: “[Sees SpongeBob by taking off the drinking soda cowboy hat then gets bored] Meow.”
 
 ## S3 E44b — A Patty in Time
-URL: https://watchwithkids.vercel.app/ep/spongebob/0344b.html
+URL: https://watchwiththekids.com/ep/spongebob/0344b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - The Patricks all mob each other in a big fight. One punches another, one grabs another's head, and one butt-slams another.
 
 ## S13 E268a — A Place for Pets
-URL: https://watchwithkids.vercel.app/ep/spongebob/13268a.html
+URL: https://watchwiththekids.com/ep/spongebob/13268a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -161,7 +161,7 @@ Watch for:
   - Lady Upturn feeds her pet worm who is coming out of her purse a small Krabby Patty. Squidward then pulls the soda cups off of his eyes which results in his eyeballs becoming small.…
 
 ## S4 E59b — A Remembrance of Grand-Past
-URL: https://watchwithkids.vercel.app/ep/spongebob/0459b.html
+URL: https://watchwiththekids.com/ep/spongebob/0459b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -173,7 +173,7 @@ Watch for:
   - GrandPat: “Oh, boy. [the man punches him in the face]”
 
 ## S1 E22b — A Root Galoot
-URL: https://watchwithkids.vercel.app/ep/spongebob/0122b.html
+URL: https://watchwiththekids.com/ep/spongebob/0122b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -182,14 +182,14 @@ Watch for:
   - The tanning bed is completely closed, with heat coming out of it. Patrick looks in and gasps. Bunny, GrandPat, and Cecil do as well. Shmandrake's body is cooked.
 
 ## S13 E279c — A Skin Wrinkle in Time
-URL: https://watchwithkids.vercel.app/ep/spongebob/13279c.html
+URL: https://watchwiththekids.com/ep/spongebob/13279c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob opens the door, still in his underwear.
 
 ## S1 E18b — A Space Affair to Remember
-URL: https://watchwithkids.vercel.app/ep/spongebob/0118b.html
+URL: https://watchwiththekids.com/ep/spongebob/0118b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -206,7 +206,7 @@ Watch for:
   - A mug of root beer transitions to the Star house, which has been trashed by the party guests.
 
 ## S8 E159 — A SquarePants Family Vacation
-URL: https://watchwithkids.vercel.app/ep/spongebob/08159.html
+URL: https://watchwiththekids.com/ep/spongebob/08159.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -214,12 +214,12 @@ Watch for:
   - SpongeBob: “Don't worry, Patrick, your blood flows not the only thing that's wearing thin! [Vine breaks, both screaming and swinging on a vine. SpongeBob sees different vine] Grab it, Patrick!”
 
 ## S2 E31a — A Tale of Two Roxies
-URL: https://watchwithkids.vercel.app/ep/spongebob/0231a.html
+URL: https://watchwiththekids.com/ep/spongebob/0231a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E314b — A Taste of Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/15314b.html
+URL: https://watchwiththekids.com/ep/spongebob/15314b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -227,34 +227,34 @@ Watch for:
   - Mr. Krabs: “Mmm... [exits office in his underwear] Worse than chum!? [takes a patty and bites it, his eyestalks burn up, runs to SpongeBob] What have you done to my patties?”
 
 ## S4 E55a — A Tinkle in Time
-URL: https://watchwithkids.vercel.app/ep/spongebob/0455a.html
+URL: https://watchwiththekids.com/ep/spongebob/0455a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E31 — A Very Patchy Holiday Livestream
-URL: https://watchwithkids.vercel.app/ep/spongebob/1431.html
+URL: https://watchwiththekids.com/ep/spongebob/1431.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - The scene transitions to a scene from "Just in Time for Christmas." GrandPat is at the top of the tree, fitting a star topper on it. Patrick runs into the room and hits the telephone pole, being flung back into the…
 
 ## S13 E280a — Abandon Twits
-URL: https://watchwithkids.vercel.app/ep/spongebob/13280a.html
+URL: https://watchwiththekids.com/ep/spongebob/13280a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E69b — Accidentally in Love
-URL: https://watchwithkids.vercel.app/ep/spongebob/0569b.html
+URL: https://watchwiththekids.com/ep/spongebob/0569b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E153a — Accidents Will Happen
-URL: https://watchwithkids.vercel.app/ep/spongebob/08153a.html
+URL: https://watchwiththekids.com/ep/spongebob/08153a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E282b — Ain't That the Tooth
-URL: https://watchwithkids.vercel.app/ep/spongebob/13282b.html
+URL: https://watchwiththekids.com/ep/spongebob/13282b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -267,7 +267,7 @@ Watch for:
   - Patrick: “[punches Dorsal Dan in his sleep] Sleep punch! [snores]”
 
 ## S3 E41b — All Bot Myself
-URL: https://watchwithkids.vercel.app/ep/spongebob/0341b.html
+URL: https://watchwiththekids.com/ep/spongebob/0341b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -275,12 +275,12 @@ Watch for:
   - Pat-Tron: “[hits Bunny away as he lifts up the couch to vacuum up the dust, but Bunny beats him to it]”
 
 ## S3 E48a — All Out of Idea Bricks
-URL: https://watchwithkids.vercel.app/ep/spongebob/0348a.html
+URL: https://watchwiththekids.com/ep/spongebob/0348a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E72a — All That Glitters
-URL: https://watchwithkids.vercel.app/ep/spongebob/0472a.html
+URL: https://watchwiththekids.com/ep/spongebob/0472a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -294,7 +294,7 @@ Watch for:
   - SpongeBob: “Le Spatula, wait! I gave up everything for you! We had something! [Le Spatula punches him in the face]”
 
 ## S13 E292b — Allergy Attack!
-URL: https://watchwithkids.vercel.app/ep/spongebob/13292b.html
+URL: https://watchwiththekids.com/ep/spongebob/13292b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -302,17 +302,17 @@ Watch for:
   - SpongeBob: “Allergy-free. [kisses patty, releasing pink heart] Mwah.”
 
 ## Ep 40 — And Krabs Saves the Day
-URL: https://watchwithkids.vercel.app/ep/spongebob/0040.html
+URL: https://watchwiththekids.com/ep/spongebob/0040.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 41 — Anything for Baby
-URL: https://watchwithkids.vercel.app/ep/spongebob/0041.html
+URL: https://watchwiththekids.com/ep/spongebob/0041.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E238a — Appointment TV
-URL: https://watchwithkids.vercel.app/ep/spongebob/11238a.html
+URL: https://watchwiththekids.com/ep/spongebob/11238a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -322,17 +322,17 @@ Watch for:
   - SpongeBob is beaten up from getting crushed by the rocky roads. He pokes a hole, deflates, and flies everywhere. He then looks at his watch.
 
 ## S13 E282a — Arbor Day Disarray
-URL: https://watchwithkids.vercel.app/ep/spongebob/13282a.html
+URL: https://watchwiththekids.com/ep/spongebob/13282a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 44 — Are We There Yet?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0044.html
+URL: https://watchwiththekids.com/ep/spongebob/0044.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E13 — Are You Afraid of the Dork?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0113.html
+URL: https://watchwiththekids.com/ep/spongebob/0113.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -340,14 +340,14 @@ Watch for:
   - Patrick: “Yeah, your story needed some punching up.”
 
 ## S8 E169a — Are You Happy Now?
-URL: https://watchwithkids.vercel.app/ep/spongebob/08169a.html
+URL: https://watchwiththekids.com/ep/spongebob/08169a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Incidental 40: “[reaches the top] Son of a seahorse! Twenty years of training and a couple of amateurs just leap out of a balloon! Here! [gives SpongeBob his flag] You plant it!…”
 
 ## S1 E22a — Are You Smarter Than a Smart Cabin?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0122a.html
+URL: https://watchwiththekids.com/ep/spongebob/0122a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -355,44 +355,44 @@ Watch for:
   - The wall rotates. Patrick's butt is slapped repeatedly.
 
 ## Ep 48 — Are You Square Enough?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0048.html
+URL: https://watchwiththekids.com/ep/spongebob/0048.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 49 — Around the World
-URL: https://watchwithkids.vercel.app/ep/spongebob/0049.html
+URL: https://watchwiththekids.com/ep/spongebob/0049.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 50 — Around the World with SpongeBob SquarePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0050.html
+URL: https://watchwiththekids.com/ep/spongebob/0050.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E17a — Arrgh!
-URL: https://watchwithkids.vercel.app/ep/spongebob/0117a.html
+URL: https://watchwiththekids.com/ep/spongebob/0117a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E38b — Artist Unknown
-URL: https://watchwithkids.vercel.app/ep/spongebob/0238b.html
+URL: https://watchwiththekids.com/ep/spongebob/0238b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E47a — As Seen on TV
-URL: https://watchwithkids.vercel.app/ep/spongebob/0347a.html
+URL: https://watchwiththekids.com/ep/spongebob/0347a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “[screaming] No! [in his head] My career is over. All those years clawing my way up. All the people I've stepped on, wasted.”
 
 ## Ep 54 — Ask Patrick Anything
-URL: https://watchwithkids.vercel.app/ep/spongebob/0054.html
+URL: https://watchwiththekids.com/ep/spongebob/0054.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E38a — At Home, on the Lam
-URL: https://watchwithkids.vercel.app/ep/spongebob/0238a.html
+URL: https://watchwiththekids.com/ep/spongebob/0238a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -402,7 +402,7 @@ Watch for:
   - Bunny: “[bangs fists together] Time for a lesson you'll [repeatedly pokes GrandPat's beard] never forget. [cut to her using a shovel to shove chocolate bars into an obese GrandPat's mouth] I hope you enjoy your just desserts.”
 
 ## S5 E92 — Atlantis SquarePantis
-URL: https://watchwithkids.vercel.app/ep/spongebob/0592.html
+URL: https://watchwiththekids.com/ep/spongebob/0592.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -412,36 +412,36 @@ Watch for:
   - LRH: “For centuries, we Atlanteans spent, nay, wasted our talents and energy building the most sophisticated weaponry to defend ourselves from invaders.…”
 
 ## S4 E57 — Attack of the SpongeBob DVDs!
-URL: https://watchwithkids.vercel.app/ep/spongebob/0457.html
+URL: https://watchwiththekids.com/ep/spongebob/0457.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 58 — Australia 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/0058.html
+URL: https://watchwiththekids.com/ep/spongebob/0058.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 59 — Australia 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/0059.html
+URL: https://watchwiththekids.com/ep/spongebob/0059.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 60 — Back to School Season
-URL: https://watchwithkids.vercel.app/ep/spongebob/0060.html
+URL: https://watchwiththekids.com/ep/spongebob/0060.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - The shot zooms out to reveal SpongeBob chroma-keyed into the Turners' living room. He is sitting on their sofa in his underwear and is not wearing a water helmet.
 
 ## S7 E135a — Back to the Past
-URL: https://watchwithkids.vercel.app/ep/spongebob/07135a.html
+URL: https://watchwiththekids.com/ep/spongebob/07135a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Barnacle Boy: “Just getting stuck in a wasted life.”
 
 ## S1 E16a — Backpay Payback
-URL: https://watchwithkids.vercel.app/ep/spongebob/0116a.html
+URL: https://watchwiththekids.com/ep/spongebob/0116a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -450,14 +450,14 @@ Watch for:
   - Bunny is unloading the dryer, taking out a pair of heart-patterned underwear. Squidward and Granny Tentacles fly into the dryer, and Bunny unknowingly closes the door on them.
 
 ## Ep 63 — Backstage Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0063.html
+URL: https://watchwiththekids.com/ep/spongebob/0063.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Tom Kenny: “People often ask if SpongeBob wears the exact same pair of underwear in each and every episode, and I would have to say... mostly yes.…”
 
 ## S15 E309a — Bad Luck Bob
-URL: https://watchwithkids.vercel.app/ep/spongebob/15309a.html
+URL: https://watchwiththekids.com/ep/spongebob/15309a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -466,24 +466,24 @@ Watch for:
   - SpongeBob rubs some water off himself when the old lady, wearing a ski mask and wielding her cane like a gun, sticks him up.
 
 ## Ep 65 — Bad Neighbor Blues
-URL: https://watchwithkids.vercel.app/ep/spongebob/0065.html
+URL: https://watchwiththekids.com/ep/spongebob/0065.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 66 — Balloons
-URL: https://watchwithkids.vercel.app/ep/spongebob/0066.html
+URL: https://watchwiththekids.com/ep/spongebob/0066.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E35b — Band Geeks
-URL: https://watchwithkids.vercel.app/ep/spongebob/0235b.html
+URL: https://watchwiththekids.com/ep/spongebob/0235b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Sandy: “Why, you... Why, I oughta--! [Sandy jumps on Patrick and starts beating him up until they both roll outside. The doors slam shut.]”
 
 ## S5 E100a — Banned in Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/05100a.html
+URL: https://watchwiththekids.com/ep/spongebob/05100a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -495,14 +495,14 @@ Watch for:
   - A tour bus comes out with Miss Gristlepuss dusting the ground, coming out, and blowing a whistle that signals more ladies that are similar to her. Mr. Krabs is at the door wearing a Viking helmet for some reason.
 
 ## S8 E164a — Barnacle Face
-URL: https://watchwithkids.vercel.app/ep/spongebob/08164a.html
+URL: https://watchwiththekids.com/ep/spongebob/08164a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - The episode begins at Bikini Bottom High School. A teenage fish walking past gets a doughnut thrown on him. Two teenage fish nearby laugh, and one of them spits at the other out of a straw.…
 
 ## S14 E296a — BassWard
-URL: https://watchwithkids.vercel.app/ep/spongebob/14296a.html
+URL: https://watchwiththekids.com/ep/spongebob/14296a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -510,12 +510,12 @@ Watch for:
   - Shark receptionist: “[groans, punches buttons on computer] Let me see what we can do. Oh! Here we go. Though it's not as nice as your previous accomodations.”
 
 ## Ep 71 — Battle for Bikini Bottom (Game Boy Advance)
-URL: https://watchwithkids.vercel.app/ep/spongebob/0071.html
+URL: https://watchwiththekids.com/ep/spongebob/0071.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 72 — Battle for Bikini Bottom (home console)
-URL: https://watchwithkids.vercel.app/ep/spongebob/0072.html
+URL: https://watchwiththekids.com/ep/spongebob/0072.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -533,22 +533,22 @@ Watch for:
   - Plankton: “Sigh, all this beautiful mayhem, wasted on some brainless tin cans!”
 
 ## Ep 73 — Behind the Pantis
-URL: https://watchwithkids.vercel.app/ep/spongebob/0073.html
+URL: https://watchwiththekids.com/ep/spongebob/0073.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 74 — Behind the Scenes of the SpongeBob Opening
-URL: https://watchwithkids.vercel.app/ep/spongebob/0074.html
+URL: https://watchwiththekids.com/ep/spongebob/0074.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E75 — Behind the Scenes with Pick Boy and SpongeBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/0475.html
+URL: https://watchwiththekids.com/ep/spongebob/0475.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E80a — Best Day Ever
-URL: https://watchwithkids.vercel.app/ep/spongebob/0480a.html
+URL: https://watchwiththekids.com/ep/spongebob/0480a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -557,7 +557,7 @@ Watch for:
   - Sandy: “Knock... it... off! [grabs one of her karate gloves and punches SpongeBob up high. The leak stops] It stopped? SpongeBob!”
 
 ## Ep 77 — Best Day Ever marathon
-URL: https://watchwithkids.vercel.app/ep/spongebob/0077.html
+URL: https://watchwiththekids.com/ep/spongebob/0077.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -565,7 +565,7 @@ Watch for:
   - Skippy: “Number 23: Bubble Buddy, 22: Skill Crane, 21: Just one Bite, 20: The Snowball Effect, 19: Scaredy Pants, 18: Super Friends, Number 17: Grandma's Kisses, 16: SpongeBob BC, 15: Krusty Krab Training Video, 14: F.U.N, 13…”
 
 ## S4 E78b — Best Frenemies
-URL: https://watchwithkids.vercel.app/ep/spongebob/0478b.html
+URL: https://watchwiththekids.com/ep/spongebob/0478b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -577,45 +577,45 @@ Watch for:
   - Mr. Krabs: “Grr. I better get to the bottom of this. [Squidward secretly sips his Kelpshake when Mr. Krabs leaves. Mr. Krabs walks outside and sees a new restaurant] Ah! A new store! [store is shaped like a Kelpshake] On my block!…”
 
 ## S2 E35a — Best Served Cold
-URL: https://watchwithkids.vercel.app/ep/spongebob/0235a.html
+URL: https://watchwiththekids.com/ep/spongebob/0235a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidward: “[drinking water and with his news bag next to him] Oh, how I hate that paper-pilfering Cecil Star.”
 
 ## Ep 80 — Beware Flying Jellyfish
-URL: https://watchwithkids.vercel.app/ep/spongebob/0080.html
+URL: https://watchwiththekids.com/ep/spongebob/0080.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E253b — Biddy Sitting
-URL: https://watchwithkids.vercel.app/ep/spongebob/12253b.html
+URL: https://watchwiththekids.com/ep/spongebob/12253b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Baby Prunes: “Why, I oughta! [punches them in the face, knocking them away]”
 
 ## S2 E33b — Big Baby Patrick
-URL: https://watchwithkids.vercel.app/ep/spongebob/0233b.html
+URL: https://watchwiththekids.com/ep/spongebob/0233b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E307b — Big League Bob
-URL: https://watchwithkids.vercel.app/ep/spongebob/15307b.html
+URL: https://watchwiththekids.com/ep/spongebob/15307b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Mr. Krabs: “[holding the stacks of cash] Yeah, far be it from me to hold you back, boy-o. By the looks of this legal tender, it's obvious you're destined [takes off SpongeBob's hat and puts it on the stack of cash] for bigger and…”
 
 ## S2 E23a — Big Pink Loser
-URL: https://watchwithkids.vercel.app/ep/spongebob/0223a.html
+URL: https://watchwiththekids.com/ep/spongebob/0223a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Incidental 41: “[approaches Patrick] Hey, pal. You just blow in from Stupidtown? [continues drinking]”
 
 ## S7 E152a — Big Sister Sam
-URL: https://watchwithkids.vercel.app/ep/spongebob/07152a.html
+URL: https://watchwiththekids.com/ep/spongebob/07152a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -623,29 +623,29 @@ Watch for:
   - Sam: “[bus drives up and she punches another hole, but next to the door]”
 
 ## S13 E293a — Big Top Flop
-URL: https://watchwithkids.vercel.app/ep/spongebob/13293a.html
+URL: https://watchwiththekids.com/ep/spongebob/13293a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 87 — Bike Safety Tips
-URL: https://watchwithkids.vercel.app/ep/spongebob/0087.html
+URL: https://watchwiththekids.com/ep/spongebob/0087.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 88 — Bikini Bottom's 7 Life Strategies
-URL: https://watchwithkids.vercel.app/ep/spongebob/0088.html
+URL: https://watchwiththekids.com/ep/spongebob/0088.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E310a — Biscuit Ballyhoo
-URL: https://watchwithkids.vercel.app/ep/spongebob/15310a.html
+URL: https://watchwiththekids.com/ep/spongebob/15310a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Pearl: “Thanks, Daddy. [kisses Mr. Krabs and drops several boxes onto him, then walks away with the money] We're going to Mars.”
 
 ## S17 E336b — Bitter Groans and Gardens
-URL: https://watchwithkids.vercel.app/ep/spongebob/17336b.html
+URL: https://watchwiththekids.com/ep/spongebob/17336b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -664,19 +664,19 @@ Watch for:
   - Squidward goes to SpongeBob's garden. SpongeBob hums while walking and Squidward throws the weed seeds at the flowers nearby
 
 ## S16 E320a — Bizarro Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/16320a.html
+URL: https://watchwiththekids.com/ep/spongebob/16320a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E94a — Blackened Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/0594a.html
+URL: https://watchwiththekids.com/ep/spongebob/0594a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Dream SpongeBob: “Hey, that's cheating!”
 
 ## S5 E93c — BlackJack
-URL: https://watchwithkids.vercel.app/ep/spongebob/0593c.html
+URL: https://watchwiththekids.com/ep/spongebob/0593c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -686,7 +686,7 @@ Watch for:
   - BlackJack: “In the living flesh! [grunts as he takes off SpongeBob's shoe and punches his big toe]”
 
 ## S14 E297a — Blood is Thicker Than Grease
-URL: https://watchwithkids.vercel.app/ep/spongebob/14297a.html
+URL: https://watchwiththekids.com/ep/spongebob/14297a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -698,7 +698,7 @@ Watch for:
   - Plankton: “[beaten up] Ugh. So, you want customers, eh? I'll give you a customer!”
 
 ## S1 E23b — Blorpsgiving
-URL: https://watchwithkids.vercel.app/ep/spongebob/0123b.html
+URL: https://watchwiththekids.com/ep/spongebob/0123b.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -711,19 +711,19 @@ Watch for:
   - Quasar: “[grabs Pat-Tron] I'm not like you machines! I'm not meant for this [shakes him] cold metal world. [screams skyward] I'm flesh and blood!”
 
 ## S5 E84b — Boat Smarts
-URL: https://watchwithkids.vercel.app/ep/spongebob/0584b.html
+URL: https://watchwiththekids.com/ep/spongebob/0584b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E109a — Boating Buddies
-URL: https://watchwithkids.vercel.app/ep/spongebob/06109a.html
+URL: https://watchwiththekids.com/ep/spongebob/06109a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - The chip drops on the floor and breaks in half, then Mrs. Puff, SpongeBob, and Squidward make a break for it into a drain. The scene then cuts to a cowboy heading to a water drinking fountain, but as he starts drinking…
 
 ## S1 E4b — Boating School
-URL: https://watchwithkids.vercel.app/ep/spongebob/014b.html
+URL: https://watchwiththekids.com/ep/spongebob/014b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -749,7 +749,7 @@ Watch for:
   - SpongeBob: “Hey! I can hear you in my head! This is great! While I'm taking the test, you can give me all the answers. [notices the antenna sticking out; boing!] Wait a minute, Patrick.…”
 
 ## S1 E18b — Boo Light Special
-URL: https://watchwithkids.vercel.app/ep/spongebob/0118b.html
+URL: https://watchwiththekids.com/ep/spongebob/0118b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -758,14 +758,14 @@ Watch for:
   - Mo: “Thanks, Dutchy! [laughs, punches Flying Dutchman, making his arm fall off, laughs, then leaves]”
 
 ## S3 E56a — Born Again Krabs
-URL: https://watchwithkids.vercel.app/ep/spongebob/0356a.html
+URL: https://watchwiththekids.com/ep/spongebob/0356a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Mr. Krabs now changes from generous to greedy and races up to Incidental 41 drinking a Mountain Dew-like drink and he confiscates it from him
 
 ## S4 E78a — Born to Be Wild
-URL: https://watchwithkids.vercel.app/ep/spongebob/0478a.html
+URL: https://watchwiththekids.com/ep/spongebob/0478a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -778,7 +778,7 @@ Watch for:
   - SpongeBob: “Oh, no thank you, Patrick. I'm drinking diet blood. [both take sips of their drinks] See, Squidward? We walk the walk, but can we talk the talk? Do you want to join our biker gang?”
 
 ## S12 E258a — Boss for a Day
-URL: https://watchwithkids.vercel.app/ep/spongebob/12258a.html
+URL: https://watchwiththekids.com/ep/spongebob/12258a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -787,7 +787,7 @@ Watch for:
   - SpongeBob: “Woo! Everything is under control now, Mr. K. [punches Mr. Krabs with a fist] I guarantee it.”
 
 ## S2 E22b — Bossy Boots
-URL: https://watchwithkids.vercel.app/ep/spongebob/0222b.html
+URL: https://watchwiththekids.com/ep/spongebob/0222b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -797,7 +797,7 @@ Watch for:
   - Mr. Krabs: “[regaining consciousness] Oh, Pearly... [sniffs] Is that a $20? [pockets the bill] Oh, SpongeBob, how could we have done such a thing to me own flesh and blood? [cries]”
 
 ## S11 E230b — Bottle Burglars
-URL: https://watchwithkids.vercel.app/ep/spongebob/11230b.html
+URL: https://watchwiththekids.com/ep/spongebob/11230b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -809,14 +809,14 @@ Watch for:
   - Mr. Krabs: “[calmly] Then I'll just have to steal it back. [walks over to the Chum Bucket] Hmm. Uh-huh. [punches a hole through the exterior wall of the Chum Bucket and grabs the secret formula from inside it] Oh.…”
 
 ## S5 E68a — Braggin' Slayer
-URL: https://watchwithkids.vercel.app/ep/spongebob/0568a.html
+URL: https://watchwiththekids.com/ep/spongebob/0568a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Jolly King Pork Chop: “Perfect! Well, that settles it. Tofu Todd- [his daughter, Princess Hamhock, comes in and whispers something to him] My beloved daughter, Princess Hamhock, sayeth unto me that, "Todd is a big ol' softie and he'll never…”
 
 ## S17 E334b — Brainless Brawn
-URL: https://watchwithkids.vercel.app/ep/spongebob/17334b.html
+URL: https://watchwiththekids.com/ep/spongebob/17334b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -825,27 +825,27 @@ Watch for:
   - Patrick: “[bounces on SpongeBob and climbs the tree, then punches the hive, causing jellyfish to swirl around him; laughs and gets electrocuted]”
 
 ## Ep 107 — Brazil 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00107.html
+URL: https://watchwiththekids.com/ep/spongebob/00107.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 108 — Brazil 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00108.html
+URL: https://watchwiththekids.com/ep/spongebob/00108.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E257b — Breakin'
-URL: https://watchwithkids.vercel.app/ep/spongebob/12257b.html
+URL: https://watchwiththekids.com/ep/spongebob/12257b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E87b — Breath of Fresh Squidward
-URL: https://watchwithkids.vercel.app/ep/spongebob/0587b.html
+URL: https://watchwiththekids.com/ep/spongebob/0587b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E250a — Broken Alarm
-URL: https://watchwithkids.vercel.app/ep/spongebob/12250a.html
+URL: https://watchwiththekids.com/ep/spongebob/12250a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -854,7 +854,7 @@ Watch for:
   - SpongeBob gets up from his chair, takes all of the alarm clocks and goes off to do something with them. It took him all night long until morning arises. SpongeBob, who is now tired, goes back into his house.…
 
 ## S1 E26a — Bubble Bass Reviews
-URL: https://watchwithkids.vercel.app/ep/spongebob/0126a.html
+URL: https://watchwiththekids.com/ep/spongebob/0126a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -865,48 +865,48 @@ Watch for:
   - Patrick: “Hey! The sun's coming out!”
 
 ## S12 E265a — Bubble Bass's Tab
-URL: https://watchwithkids.vercel.app/ep/spongebob/12265a.html
+URL: https://watchwiththekids.com/ep/spongebob/12265a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Squidward: “[punches Bubble Bass' face with his lance] Alright, Bubble Bass. You're tagged. Pay your tab.”
 
 ## S2 E23b — Bubble Buddy
-URL: https://watchwithkids.vercel.app/ep/spongebob/0223b.html
+URL: https://watchwiththekids.com/ep/spongebob/0223b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E167b — Bubble Buddy Returns
-URL: https://watchwithkids.vercel.app/ep/spongebob/08167b.html
+URL: https://watchwiththekids.com/ep/spongebob/08167b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E166a — Bubble Troubles
-URL: https://watchwithkids.vercel.app/ep/spongebob/08166a.html
+URL: https://watchwiththekids.com/ep/spongebob/08166a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Sandy: “Hm-mmm. [Patrick holds a nut before Sandy sniffs it and punches Patrick]”
 
 ## S1 E2a — Bubblestand
-URL: https://watchwithkids.vercel.app/ep/spongebob/012a.html
+URL: https://watchwiththekids.com/ep/spongebob/012a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Squidward: “Technique? Hah. SpongeBob, you don't think I created that [kisses his tentacle] beautiful work of art with your help? [starts laughing] Come on, it's in my genes.”
 
 ## S11 E240a — Bubbletown
-URL: https://watchwithkids.vercel.app/ep/spongebob/11240a.html
+URL: https://watchwiththekids.com/ep/spongebob/11240a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E86b — Bucket Sweet Bucket
-URL: https://watchwithkids.vercel.app/ep/spongebob/0586b.html
+URL: https://watchwiththekids.com/ep/spongebob/0586b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E294b — Buff for Puff
-URL: https://watchwithkids.vercel.app/ep/spongebob/14294b.html
+URL: https://watchwiththekids.com/ep/spongebob/14294b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -919,29 +919,29 @@ Watch for:
   - Bubble transition to Mr. Krabs running on a treadmill as Larry holds up a dollar on a fishing rod. He tries to bite it and continues running.…
 
 ## S9 E201b — Bulletin Board
-URL: https://watchwithkids.vercel.app/ep/spongebob/09201b.html
+URL: https://watchwiththekids.com/ep/spongebob/09201b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E1b — Bummer Jobs
-URL: https://watchwithkids.vercel.app/ep/spongebob/011b.html
+URL: https://watchwiththekids.com/ep/spongebob/011b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bunny: “[just arriving in the room] So dapper. [kisses Cecil, who then chuckles]”
 
 ## S4 E74a — Bummer Vacation
-URL: https://watchwithkids.vercel.app/ep/spongebob/0474a.html
+URL: https://watchwiththekids.com/ep/spongebob/0474a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E182b — Bumper to Bumper
-URL: https://watchwithkids.vercel.app/ep/spongebob/09182b.html
+URL: https://watchwiththekids.com/ep/spongebob/09182b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E223b — Bunny Hunt
-URL: https://watchwithkids.vercel.app/ep/spongebob/11223b.html
+URL: https://watchwiththekids.com/ep/spongebob/11223b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -950,33 +950,33 @@ Watch for:
   - SpongeBob sprays water with the water gun to protect his Mermaid Man and Barnacle Boy comic book collection from the fire. Bunny Wunny's mouth gets filled with water and he is cooled down.
 
 ## S1 E6b — Bunny the Barbarian
-URL: https://watchwithkids.vercel.app/ep/spongebob/016b.html
+URL: https://watchwiththekids.com/ep/spongebob/016b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bunny: “Aww. [kisses gatekeeper on forehead] Mwah! [begins climbing spiral staircase]”
 
 ## S7 E145a — Buried in Time
-URL: https://watchwithkids.vercel.app/ep/spongebob/07145a.html
+URL: https://watchwiththekids.com/ep/spongebob/07145a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “[gasps] Wow, special drinking fountains for short people! What will the future think of next? [SpongeBob's future ends]”
 
 ## S10 E210b — Burst Your Bubble
-URL: https://watchwithkids.vercel.app/ep/spongebob/10210b.html
+URL: https://watchwiththekids.com/ep/spongebob/10210b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E271b — C.H.U.M.S
-URL: https://watchwithkids.vercel.app/ep/spongebob/13271b.html
+URL: https://watchwiththekids.com/ep/spongebob/13271b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Plankton: “Me and my C.H.U.M. army! [the C.H.U.M. starts coming out of the stalls]”
 
 ## S1 E3b — Cabin of Curiosities
-URL: https://watchwithkids.vercel.app/ep/spongebob/013b.html
+URL: https://watchwiththekids.com/ep/spongebob/013b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -989,7 +989,7 @@ Watch for:
   - SpongeBob and Patrick are laughing and slapping each other with their elongated arms.
 
 ## S11 E236a — Call the Cops
-URL: https://watchwithkids.vercel.app/ep/spongebob/11236a.html
+URL: https://watchwiththekids.com/ep/spongebob/11236a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -999,7 +999,7 @@ Watch for:
   - They see Patrick, covered in ice cream again, all drunk from Goofy Goobers and opens the cell door with the key. Patrick walks over to the toilet, runs over to Plankton, Helen the Felon, Mr.…
 
 ## S2 E32a — Calling Some Monsters
-URL: https://watchwithkids.vercel.app/ep/spongebob/0232a.html
+URL: https://watchwiththekids.com/ep/spongebob/0232a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1010,7 +1010,7 @@ Watch for:
   - Patrick: “Instead, we're drinking old lady tea.”
 
 ## S1 E17a — Camp Crossbones
-URL: https://watchwithkids.vercel.app/ep/spongebob/0117a.html
+URL: https://watchwiththekids.com/ep/spongebob/0117a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1020,14 +1020,14 @@ Watch for:
   - Krabs has been trapped in two life preservers and hung up by his underwear to his cabin. Patrick snips a bit of Krabs' heart-patterned underwear with scissors and runs off.
 
 ## S1 E14b — Camp Spirit
-URL: https://watchwithkids.vercel.app/ep/spongebob/0114b.html
+URL: https://watchwiththekids.com/ep/spongebob/0114b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Patrick: “[coming out of Mr. Krabs' pocket] She's not in his pocket.”
 
 ## S1 E8b — Camp SpongeBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/018b.html
+URL: https://watchwiththekids.com/ep/spongebob/018b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1038,14 +1038,14 @@ Watch for:
   - Craig: “[punches Mo] I've got mine! [they go back into a fighting cloud]”
 
 ## S1 E5b — Camper Gary
-URL: https://watchwithkids.vercel.app/ep/spongebob/015b.html
+URL: https://watchwiththekids.com/ep/spongebob/015b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Mrs. Puff: “Oh! [laughs] You must really like my vegetables. What a healthy boy. [kisses Gary, leaving a trail of slime]”
 
 ## S3 E47b — Can You Spare a Dime?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0347b.html
+URL: https://watchwiththekids.com/ep/spongebob/0347b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1053,17 +1053,17 @@ Watch for:
   - Mr. Krabs: “Aye, lad. Just let the dime and me have our privacy. [kisses the dime. SpongeBob cheers before running off]”
 
 ## Ep 138 — Can't Swim
-URL: https://watchwithkids.vercel.app/ep/spongebob/00138.html
+URL: https://watchwiththekids.com/ep/spongebob/00138.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 139 — Cancer
-URL: https://watchwithkids.vercel.app/ep/spongebob/00139.html
+URL: https://watchwiththekids.com/ep/spongebob/00139.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E277a — Captain Pipsqueak
-URL: https://watchwithkids.vercel.app/ep/spongebob/13277a.html
+URL: https://watchwiththekids.com/ep/spongebob/13277a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -1076,14 +1076,14 @@ Watch for:
   - Man Ray: “Wasted our time!”
 
 ## S5 E67b — Cart of Darkness
-URL: https://watchwithkids.vercel.app/ep/spongebob/0567b.html
+URL: https://watchwiththekids.com/ep/spongebob/0567b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidina: “Ha! That oughta slow her down. [turns monitor on showing Patrick on cart drinking]”
 
 ## S11 E216a — Cave Dwelling Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/11216a.html
+URL: https://watchwiththekids.com/ep/spongebob/11216a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -1094,7 +1094,7 @@ Watch for:
   - Spongy Spongy: “Unh. Spongy Spongy. [punches SpongeBob in the face]”
 
 ## S6 E115b — Cephalopod Lodge
-URL: https://watchwithkids.vercel.app/ep/spongebob/06115b.html
+URL: https://watchwiththekids.com/ep/spongebob/06115b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1104,12 +1104,12 @@ Watch for:
   - Squidward: “[clears throat] Do not worry. I will save you. Be gone, foul beast, or, I will smite thee. [punches the sock twice]”
 
 ## S11 E226a — Chatterbox Gary
-URL: https://watchwithkids.vercel.app/ep/spongebob/11226a.html
+URL: https://watchwiththekids.com/ep/spongebob/11226a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E234b — ChefBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/11234b.html
+URL: https://watchwiththekids.com/ep/spongebob/11234b.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -1119,19 +1119,19 @@ Watch for:
   - Hand puppet Mr. Krabs: “ChefBob, you are hereby fired! [punches ChefBob to the floor] Mr. Squidward, will you do the honors?”
 
 ## S4 E70a — Chimps Ahoy
-URL: https://watchwithkids.vercel.app/ep/spongebob/0470a.html
+URL: https://watchwiththekids.com/ep/spongebob/0470a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Lord Reginald: “Now it's tuning my ukulele! [the ukulele makes two good notes then one sour note and the invention goes out of control. Lord Reginald is hit on the head with the ukulele] Ouch!…”
 
 ## Ep 147 — Chocolate Milk
-URL: https://watchwithkids.vercel.app/ep/spongebob/00147.html
+URL: https://watchwiththekids.com/ep/spongebob/00147.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E52a — Chocolate with Nuts
-URL: https://watchwithkids.vercel.app/ep/spongebob/0352a.html
+URL: https://watchwiththekids.com/ep/spongebob/0352a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1142,19 +1142,19 @@ Watch for:
   - Incidental 60: “As you can see, me and chocolate no longer hang. [holds up a picture of him being obese at age 13] You can keep that for $5.”
 
 ## S6 E112b — Choir Boys
-URL: https://watchwithkids.vercel.app/ep/spongebob/06112b.html
+URL: https://watchwiththekids.com/ep/spongebob/06112b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E41a — Chopping Spree
-URL: https://watchwithkids.vercel.app/ep/spongebob/0341a.html
+URL: https://watchwiththekids.com/ep/spongebob/0341a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Puffasaur: “[roars, retracts trunk as it smells the stench, a tear coming out of its eye]”
 
 ## S2 E28 — Christmas Who?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0228.html
+URL: https://watchwiththekids.com/ep/spongebob/0228.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1166,7 +1166,7 @@ Watch for:
   - Patrick: “Wow. [punches a hole through the clock] A wrist watch.”
 
 ## S2 E33a — Chum Bucket List
-URL: https://watchwithkids.vercel.app/ep/spongebob/0233a.html
+URL: https://watchwiththekids.com/ep/spongebob/0233a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -1178,24 +1178,24 @@ Watch for:
   - SpongeBob: “Now for my bucket list! [takes out bucket with smaller ones coming out of it, reads it] "Save Patrick's life", "save Patrick's life", "save Patrick's life", "save Patrick's life"...”
 
 ## S6 E122a — Chum Bucket Supreme
-URL: https://watchwithkids.vercel.app/ep/spongebob/06122a.html
+URL: https://watchwiththekids.com/ep/spongebob/06122a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Plankton screams while the hockey players are starting beating him up. The hockey players kick him out of the Chum Bucket.
 
 ## S6 E125b — Chum Caverns
-URL: https://watchwithkids.vercel.app/ep/spongebob/06125b.html
+URL: https://watchwiththekids.com/ep/spongebob/06125b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E176b — Chum Fricassee
-URL: https://watchwithkids.vercel.app/ep/spongebob/08176b.html
+URL: https://watchwiththekids.com/ep/spongebob/08176b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E53b — Clams
-URL: https://watchwithkids.vercel.app/ep/spongebob/0353b.html
+URL: https://watchwiththekids.com/ep/spongebob/0353b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1205,7 +1205,7 @@ Watch for:
   - Mr. Krabs: “[laughs] Oh, Squidward, you got to lighten up. [The camera focuses on SpongeBob, who is still casting out items while Mr. Krabs talks to Squidward] Sure, the lad's a bit overeager, but you've got to learn to roll with…”
 
 ## S2 E39b — Cleanin' House
-URL: https://watchwithkids.vercel.app/ep/spongebob/0239b.html
+URL: https://watchwiththekids.com/ep/spongebob/0239b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1214,14 +1214,14 @@ Watch for:
   - Tinkle: “[wheeze laughs, then gets beaten up internally by the dust devil before being eaten and spat out clean, grins]”
 
 ## S17 E342a — Clicking with a Clique
-URL: https://watchwithkids.vercel.app/ep/spongebob/17342a.html
+URL: https://watchwiththekids.com/ep/spongebob/17342a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “[does a punch and a kick and a hit with sound effects] I'm the Notorious Villain: Man Ray!”
 
 ## S3 E42a — Club SpongeBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/0342a.html
+URL: https://watchwiththekids.com/ep/spongebob/0342a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 2 moment(s)
@@ -1229,7 +1229,7 @@ Watch for:
   - Squidward: “Everything sure looks delicious! [gasps] Oh! Smoked sausages, my favorite! [smells them but Patrick sucks them in and Squidward's nose too. He pulls his nose out] Uh, hey, uh, [laughs] SpongeBob, I...…”
 
 ## S10 E206b — Code Yellow
-URL: https://watchwithkids.vercel.app/ep/spongebob/10206b.html
+URL: https://watchwiththekids.com/ep/spongebob/10206b.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1241,14 +1241,14 @@ Watch for:
   - SpongeBob: “Okay, SpongeBob, this can't be too hard. Just make an incision here, and— [operates with the spatula and ink sprays up] no! Shoot! [the heart flips] Son of a gun!…”
 
 ## S9 E192a — Company Picnic
-URL: https://watchwithkids.vercel.app/ep/spongebob/09192a.html
+URL: https://watchwiththekids.com/ep/spongebob/09192a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Squidward runs past Mr. Krabs, which makes him spin around until his shell falls off. Seeing that he is naked, Mr. Krabs is embarrassed. Squidward gobbles up the cotton candy and roasted peanuts in a crazy frenzy.
 
 ## S9 E198b — CopyBob DittoPants
-URL: https://watchwithkids.vercel.app/ep/spongebob/09198b.html
+URL: https://watchwiththekids.com/ep/spongebob/09198b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -1259,12 +1259,12 @@ Watch for:
   - Plankton: “No more punch for you! You don't look so good, SpongeBob. I suggest you take the day off tomorrow.”
 
 ## Ep 163 — Creature from the Krusty Krab (home console)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00163.html
+URL: https://watchwiththekids.com/ep/spongebob/00163.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E37b — Cretins of the Night
-URL: https://watchwithkids.vercel.app/ep/spongebob/0237b.html
+URL: https://watchwiththekids.com/ep/spongebob/0237b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 9 moment(s)
@@ -1279,12 +1279,12 @@ Watch for:
   - Patrick: “[holding AB positive blood bag] Nope. We're French.”
 
 ## Ep 165 — Crossing the Street
-URL: https://watchwithkids.vercel.app/ep/spongebob/00165.html
+URL: https://watchwiththekids.com/ep/spongebob/00165.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E225a — Cuddle E. Hugs
-URL: https://watchwithkids.vercel.app/ep/spongebob/11225a.html
+URL: https://watchwiththekids.com/ep/spongebob/11225a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1298,12 +1298,12 @@ Watch for:
   - The scene changes to SpongeBob and Cuddle E. Hugs walking down the street. They stop and see Squidward strolling along with a basket of bread and wine.
 
 ## S1 E10a — Culture Shock
-URL: https://watchwithkids.vercel.app/ep/spongebob/0110a.html
+URL: https://watchwiththekids.com/ep/spongebob/0110a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E321a — Curse of the WereDoodle
-URL: https://watchwithkids.vercel.app/ep/spongebob/16321a.html
+URL: https://watchwiththekids.com/ep/spongebob/16321a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1313,7 +1313,7 @@ Watch for:
   - WereDoodle: “[roars, doodles hair onto Squidward's head, which punches him in the face, knocking his tooth out]”
 
 ## S1 E22a — Dad's Stache Stash
-URL: https://watchwithkids.vercel.app/ep/spongebob/0122a.html
+URL: https://watchwiththekids.com/ep/spongebob/0122a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -1327,7 +1327,7 @@ Watch for:
   - The mustache cloud booms, and Cecil comes out of it in a lightning bolt shape. He lands on top of the train, causing electricity to generate. Patrick is drinking from a cup and spits it out. He looks up.
 
 ## S3 E45b — Day of the Dartfish
-URL: https://watchwithkids.vercel.app/ep/spongebob/0345b.html
+URL: https://watchwiththekids.com/ep/spongebob/0345b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1336,7 +1336,7 @@ Watch for:
   - Teensy Tom: “[grabbing onto an open screw; his skin rips off, then his muscles rip off as he turns into a ghost, then his ghost layer gets sucked in to reveal a polygon model underneath; get sucked in and screams]”
 
 ## S3 E51b — Day of the Living Dad Jokes
-URL: https://watchwithkids.vercel.app/ep/spongebob/0351b.html
+URL: https://watchwiththekids.com/ep/spongebob/0351b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -1345,14 +1345,14 @@ Watch for:
   - Patrick and Squidina: “[spot a Dad baby drinking from a bottle] Dad babies? What? [Dad snails come out from the trash] Dad snails? Huh? [Squidward takes off his bike helmet to reveal he is a Dad too] Dad Squidw”
 
 ## S4 E62b — De-Pat-ment Store
-URL: https://watchwithkids.vercel.app/ep/spongebob/0462b.html
+URL: https://watchwiththekids.com/ep/spongebob/0462b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Cecil: “What's going on--? [screams as three security guards beat him up]”
 
 ## S6 E114a — Dear Vikings
-URL: https://watchwithkids.vercel.app/ep/spongebob/06114a.html
+URL: https://watchwiththekids.com/ep/spongebob/06114a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1361,7 +1361,7 @@ Watch for:
   - Two of the Vikings chop a table and barrels with their axes, one punches the soda machine, another tips over a table holding some pots and pans, and one other torches a urinal
 
 ## S1 E22b — Deep Sea Despot
-URL: https://watchwithkids.vercel.app/ep/spongebob/0122b.html
+URL: https://watchwiththekids.com/ep/spongebob/0122b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -1371,24 +1371,24 @@ Watch for:
   - Pearl gives him a bottle. Mrs. Puff, Plankton, and Helga are also sleeping and drinking from bottles. Bubble transition to the canteen whistle blowing. A sign leads "Cafe Le Squid."
 
 ## S15 E317a — Delivery of Doom
-URL: https://watchwithkids.vercel.app/ep/spongebob/15317a.html
+URL: https://watchwiththekids.com/ep/spongebob/15317a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E285a — Delivery to Monster Island
-URL: https://watchwithkids.vercel.app/ep/spongebob/13285a.html
+URL: https://watchwiththekids.com/ep/spongebob/13285a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Plankton: “Rawr, rawr. We're alone at last. [kisses patty] Muah.”
 
 ## S8 E173b — Demolition Doofus
-URL: https://watchwithkids.vercel.app/ep/spongebob/08173b.html
+URL: https://watchwiththekids.com/ep/spongebob/08173b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E32b — Dig This
-URL: https://watchwithkids.vercel.app/ep/spongebob/0232b.html
+URL: https://watchwiththekids.com/ep/spongebob/0232b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1397,12 +1397,12 @@ Watch for:
   - The monster sets the battery down, connects two plugs, opens an umbrella, and punches numbers on the calculator. Electricity flows through the contraption as the monster calls someone through a fan.
 
 ## Ep 179 — Digital Cable
-URL: https://watchwithkids.vercel.app/ep/spongebob/00179.html
+URL: https://watchwiththekids.com/ep/spongebob/00179.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E252b — Dirty Bubble Returns
-URL: https://watchwithkids.vercel.app/ep/spongebob/12252b.html
+URL: https://watchwiththekids.com/ep/spongebob/12252b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1413,26 +1413,26 @@ Watch for:
   - Pans screen to the right, to reveal what appears to be a walking stack of frozen Krabby Patties coming out of the freezer.
 
 ## S6 E114b — Ditchin'
-URL: https://watchwithkids.vercel.app/ep/spongebob/06114b.html
+URL: https://watchwiththekids.com/ep/spongebob/06114b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E63a — Doctor Patrick
-URL: https://watchwithkids.vercel.app/ep/spongebob/0463a.html
+URL: https://watchwiththekids.com/ep/spongebob/0463a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Meat Person: “[flips Doctor 1 (The Lost Mattress) all around and beats him up] He's the best doctor! [winks, which makes the mustard land in his eye]”
 
 ## Ep 183 — Documenting Our Road Trip
-URL: https://watchwithkids.vercel.app/ep/spongebob/00183.html
+URL: https://watchwiththekids.com/ep/spongebob/00183.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Sandy: “Okay, how about you, Patrick? [he is chewing gum and wrapping it around his head] Uhh, Patrick? O...kay. How about you, Mr. Krabs? [he is sleeping with a pillow and blanket made out of money] Squidward?…”
 
 ## S3 E45b — Doing Time
-URL: https://watchwithkids.vercel.app/ep/spongebob/0345b.html
+URL: https://watchwiththekids.com/ep/spongebob/0345b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 6 moment(s)
@@ -1444,19 +1444,19 @@ Watch for:
   - SpongeBob: “Made of sponge! [laughs hysterically. The room is made of yellow sponge as SpongeBob's face appears on all sides of the wall. Mrs. Puff screams in terror as the scene goes back to SpongeBob driving in mid-air with the…”
 
 ## S15 E312b — Dome Alone
-URL: https://watchwithkids.vercel.app/ep/spongebob/15312b.html
+URL: https://watchwiththekids.com/ep/spongebob/15312b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Cut to Sandy playing music on her guitar in her rocking chair. An acorn bell rings, and Sandy pulls back in the fighting ring as she dives into a wooden robot, kicking him out of the ring.…
 
 ## S11 E226b — Don't Feed the Clowns
-URL: https://watchwithkids.vercel.app/ep/spongebob/11226b.html
+URL: https://watchwiththekids.com/ep/spongebob/11226b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E187a — Don't Look Now
-URL: https://watchwithkids.vercel.app/ep/spongebob/09187a.html
+URL: https://watchwiththekids.com/ep/spongebob/09187a.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1475,7 +1475,7 @@ Watch for:
   - SpongeBob and Patrick scream and run off while popcorn drops from their buckets. Squidward laughs at them for his prank and continues drinking.…
 
 ## S14 E297b — Don't Make Me Laugh
-URL: https://watchwithkids.vercel.app/ep/spongebob/14297b.html
+URL: https://watchwiththekids.com/ep/spongebob/14297b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1485,21 +1485,21 @@ Watch for:
   - SpongeBob: “[stifles laughter, then laughs as he gets shushed by the audience members] I'm sorry. [sticks the popcorn bowl in his mouth, then laughs again] I can't hold it!…”
 
 ## S10 E215b — Don't Wake Patrick
-URL: https://watchwithkids.vercel.app/ep/spongebob/10215b.html
+URL: https://watchwiththekids.com/ep/spongebob/10215b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “[sniffs the fumes] Blech! [the fumes form into a fist and punch SpongeBob's face] Ow!”
 
 ## S11 E229a — Doodle Dimension
-URL: https://watchwithkids.vercel.app/ep/spongebob/11229a.html
+URL: https://watchwiththekids.com/ep/spongebob/11229a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Patrick: “[loudly] Nah-nah, you missed us! [through megaphone] "[Shaking his butt"] Now you gotta kiss us!”
 
 ## S13 E288a — Dopey Dick
-URL: https://watchwithkids.vercel.app/ep/spongebob/13288a.html
+URL: https://watchwiththekids.com/ep/spongebob/13288a.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Swearing — 36 moment(s)
@@ -1524,27 +1524,27 @@ Watch for:
   - Planky: “[jumps on harpoon gun] Hardy har-poon, sucker!”
 
 ## S2 E31b — Dr. Smart Science
-URL: https://watchwithkids.vercel.app/ep/spongebob/0231b.html
+URL: https://watchwiththekids.com/ep/spongebob/0231b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 193 — Drawing Characters
-URL: https://watchwithkids.vercel.app/ep/spongebob/00193.html
+URL: https://watchwiththekids.com/ep/spongebob/00193.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 194 — Drawing the Goo Lagoon
-URL: https://watchwithkids.vercel.app/ep/spongebob/00194.html
+URL: https://watchwiththekids.com/ep/spongebob/00194.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E267b — Dream Hoppers
-URL: https://watchwithkids.vercel.app/ep/spongebob/12267b.html
+URL: https://watchwiththekids.com/ep/spongebob/12267b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E227a — Drive Happy
-URL: https://watchwithkids.vercel.app/ep/spongebob/11227a.html
+URL: https://watchwiththekids.com/ep/spongebob/11227a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1552,17 +1552,17 @@ Watch for:
   - SpongeBob: “Good night, Coupe. [kisses Coupe and goes in his house]”
 
 ## S8 E154a — Drive Thru
-URL: https://watchwithkids.vercel.app/ep/spongebob/08154a.html
+URL: https://watchwiththekids.com/ep/spongebob/08154a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E44a — Driven to Drive
-URL: https://watchwithkids.vercel.app/ep/spongebob/0344a.html
+URL: https://watchwiththekids.com/ep/spongebob/0344a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E77a — Driven to Tears
-URL: https://watchwithkids.vercel.app/ep/spongebob/0477a.html
+URL: https://watchwiththekids.com/ep/spongebob/0477a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1572,7 +1572,7 @@ Watch for:
   - Officer: “Umm... okay. [uses radar gun. It reads 0mph] Actually, he's going 40 miles under the limit. So move along before I run you in, tattletale. [drives off]”
 
 ## S17 E341a — Duct Tape Dystopia
-URL: https://watchwithkids.vercel.app/ep/spongebob/17341a.html
+URL: https://watchwiththekids.com/ep/spongebob/17341a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1582,19 +1582,19 @@ Watch for:
   - SpongeBob: “I'm on it, Mr. Krabs. [stands in front of leaking water and covers all of it, absorbing it inside his spongy pores. He then walks into the toilet with fire coming out and extinguishes it with water while sitting and…”
 
 ## S2 E29b — Dumped
-URL: https://watchwithkids.vercel.app/ep/spongebob/0229b.html
+URL: https://watchwiththekids.com/ep/spongebob/0229b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E66 — Dunces and Dragons
-URL: https://watchwithkids.vercel.app/ep/spongebob/0466.html
+URL: https://watchwiththekids.com/ep/spongebob/0466.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - King Krabs: “Pearl! [cries] Can no one stop this madness? [sun shines on SpongeBob and Patrick] You... you two...[kisses their feet] My apologies... most noble... and valued... warriors...”
 
 ## S2 E24a — Dying for Pie
-URL: https://watchwithkids.vercel.app/ep/spongebob/0224a.html
+URL: https://watchwiththekids.com/ep/spongebob/0224a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1603,46 +1603,46 @@ Watch for:
   - SpongeBob: “Who's the doctor here? [Squidward's heart squirts blood. SpongeBob checks his operation off the list as well as some other items while he laughs] The last thing on the list is...”
 
 ## Ep 204 — Dying for Pie (voice-over)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00204.html
+URL: https://watchwiththekids.com/ep/spongebob/00204.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E146b — Earworm
-URL: https://watchwithkids.vercel.app/ep/spongebob/07146b.html
+URL: https://watchwiththekids.com/ep/spongebob/07146b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 206 — Educate and Activate
-URL: https://watchwithkids.vercel.app/ep/spongebob/00206.html
+URL: https://watchwiththekids.com/ep/spongebob/00206.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 207 — Educate and Activate 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00207.html
+URL: https://watchwiththekids.com/ep/spongebob/00207.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E183a — Eek, an Urchin!
-URL: https://watchwithkids.vercel.app/ep/spongebob/09183a.html
+URL: https://watchwiththekids.com/ep/spongebob/09183a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Plankton: “Fine [sticks out his arms out of cactus costume and poses] H-h-hey there, handsome! You're cute... for a parasite.[The urchin pants happily and tries to move closer to him] Whoa there, buddy!…”
 
 ## S1 E12b — Employee of the Month
-URL: https://watchwithkids.vercel.app/ep/spongebob/0112b.html
+URL: https://watchwiththekids.com/ep/spongebob/0112b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E145b — Enchanted Tiki Dreams
-URL: https://watchwithkids.vercel.app/ep/spongebob/07145b.html
+URL: https://watchwiththekids.com/ep/spongebob/07145b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidward walks around a bit, drinking his coconut along the way, then comes to a waterfall, goes inside, and takes a shower. Then he comes back out to see a tiki boat waiting for him.…
 
 ## S2 E39 — End of Summer Daze
-URL: https://watchwithkids.vercel.app/ep/spongebob/0239.html
+URL: https://watchwiththekids.com/ep/spongebob/0239.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1657,14 +1657,14 @@ Watch for:
   - Tall Tail picks up the cabin and plays it like an accordion, with green clouds of stench coming out when it is squeezed.
 
 ## S1 E2b — Enemies à la Mode
-URL: https://watchwithkids.vercel.app/ep/spongebob/012b.html
+URL: https://watchwiththekids.com/ep/spongebob/012b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Squidina: “Morning, [narrowly avoids being hit by the wheel] Patrick! [she playfully punches Patrick, who is upset] How's the ol' creative process going?”
 
 ## S4 E67a — Enemy In-Law
-URL: https://watchwithkids.vercel.app/ep/spongebob/0467a.html
+URL: https://watchwiththekids.com/ep/spongebob/0467a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1673,7 +1673,7 @@ Watch for:
   - Plankton: “No! No, not really. I mean... not at first. I... I mean uh, honey bunch? [Mama Krabs shows her muscles, which show a ship's cannons] Uh-oh. [she punches him back to the Chum Bucket] Oh, well.…”
 
 ## S12 E266 — Escape from Beneath Glove World
-URL: https://watchwithkids.vercel.app/ep/spongebob/12266.html
+URL: https://watchwiththekids.com/ep/spongebob/12266.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1687,17 +1687,17 @@ Watch for:
   - SpongeBob: “Yay, Patrick! See, little guy? Everything is gonna be just... [he notices that the toddler is gone, and he is only holding a disembodied animatronic hand] Fine!…”
 
 ## S9 E184b — Evil Spatula
-URL: https://watchwithkids.vercel.app/ep/spongebob/09184b.html
+URL: https://watchwiththekids.com/ep/spongebob/09184b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E322a — Exchange Student Driver
-URL: https://watchwithkids.vercel.app/ep/spongebob/16322a.html
+URL: https://watchwiththekids.com/ep/spongebob/16322a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E179a — Extreme Spots
-URL: https://watchwithkids.vercel.app/ep/spongebob/09179a.html
+URL: https://watchwiththekids.com/ep/spongebob/09179a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -1707,22 +1707,22 @@ Watch for:
   - Johnny: “[completely beaten up] Now that was extreme, dudes. You think you're starting to get it?”
 
 ## S1 E24a — Eye of the Hotdog
-URL: https://watchwithkids.vercel.app/ep/spongebob/0124a.html
+URL: https://watchwiththekids.com/ep/spongebob/0124a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E10b — F.U.N.
-URL: https://watchwithkids.vercel.app/ep/spongebob/0110b.html
+URL: https://watchwiththekids.com/ep/spongebob/0110b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E172a — Face Freeze!
-URL: https://watchwithkids.vercel.app/ep/spongebob/08172a.html
+URL: https://watchwiththekids.com/ep/spongebob/08172a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E37a — Face/Off-Model
-URL: https://watchwithkids.vercel.app/ep/spongebob/0237a.html
+URL: https://watchwiththekids.com/ep/spongebob/0237a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1735,14 +1735,14 @@ Watch for:
   - Cecil and Bunny are drinking orange juice as Patrick, seen from behind, with shock. Cecil sputters his drink in Bunny's face.
 
 ## S2 E29b — Family Plotz
-URL: https://watchwithkids.vercel.app/ep/spongebob/0229b.html
+URL: https://watchwiththekids.com/ep/spongebob/0229b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bunny: “[wearing yoga outfit and holding mat] Have fun, dear! [kisses Cecil]”
 
 ## S17 E341b — Farmer's Market Feud
-URL: https://watchwithkids.vercel.app/ep/spongebob/17341b.html
+URL: https://watchwiththekids.com/ep/spongebob/17341b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1751,26 +1751,26 @@ Watch for:
   - Narlene: “The only sandwich I'm dreaming of is a knuckle sandwich. [prepares her fist to punch, but SpongeBob steps in and her fist goes through his hole and punches her face back. Takes off her hand and pulls her piney nose]”
 
 ## S12 E242a — FarmerBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/12242a.html
+URL: https://watchwiththekids.com/ep/spongebob/12242a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Farmer alien: “Thank you kindly for inviting us, old timer. Well, we're off to destroy the universe. [pulls out a ray gun]”
 
 ## Ep 225 — Favorite Animated Show
-URL: https://watchwithkids.vercel.app/ep/spongebob/00225.html
+URL: https://watchwiththekids.com/ep/spongebob/00225.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E61a — Fear of a Krabby Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/0461a.html
+URL: https://watchwiththekids.com/ep/spongebob/0461a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Squidward: “[through his teeth] Mr. Krabs, he is not normal. [SpongeBob starts kissing a Krabby Patty]”
 
 ## S10 E215a — Feral Friends
-URL: https://watchwithkids.vercel.app/ep/spongebob/10215a.html
+URL: https://watchwiththekids.com/ep/spongebob/10215a.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1786,19 +1786,19 @@ Watch for:
   - Frenchy: “Ah, Bikini Bottom. Teaming with life and naked mysteries. This next whale song is going out to my favorite squirrel. Sandy, happy birthday.”
 
 ## S8 E168b — Fiasco!
-URL: https://watchwithkids.vercel.app/ep/spongebob/08168b.html
+URL: https://watchwiththekids.com/ep/spongebob/08168b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Female movie character: “Mine does too. [the movie characters slowly attempt to kiss, until Incidental 117 bursts through the screen]”
 
 ## S15 E315b — Firehouse Bob
-URL: https://watchwithkids.vercel.app/ep/spongebob/15315b.html
+URL: https://watchwiththekids.com/ep/spongebob/15315b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E16a — First and Last Aid
-URL: https://watchwithkids.vercel.app/ep/spongebob/0116a.html
+URL: https://watchwiththekids.com/ep/spongebob/0116a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1807,7 +1807,7 @@ Watch for:
   - Mr. Krabs grumbles in annoyance as he puts down his lunch and squirts ketchup onto the end of SpongeBob's leg, before picking SpongeBob up and screwing the leg back on.
 
 ## S1 E14b — FitzPatrick
-URL: https://watchwithkids.vercel.app/ep/spongebob/0114b.html
+URL: https://watchwiththekids.com/ep/spongebob/0114b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1816,7 +1816,7 @@ Watch for:
   - Patrick: “Nah, just my malevolent sister. [cut to show a shellphone in Patrick's stomach] I swallowed my shellphone. [to Squidina] Okay, I'm coming back now!…”
 
 ## S2 E29a — Five Times the Fun
-URL: https://watchwithkids.vercel.app/ep/spongebob/0229a.html
+URL: https://watchwiththekids.com/ep/spongebob/0229a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1825,12 +1825,12 @@ Watch for:
   - The camera pans upwards as it shows another tiny naked Patrick falling from the sky.
 
 ## Ep 233 — Flowers for Sandy
-URL: https://watchwithkids.vercel.app/ep/spongebob/00233.html
+URL: https://watchwiththekids.com/ep/spongebob/00233.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E202a — Food Con Castaways
-URL: https://watchwithkids.vercel.app/ep/spongebob/09202a.html
+URL: https://watchwiththekids.com/ep/spongebob/09202a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1839,32 +1839,32 @@ Watch for:
   - SpongeBob punches Patrick's foot and pushes his mouth back up to his head.
 
 ## S13 E275a — Food PBFFT! Truck
-URL: https://watchwithkids.vercel.app/ep/spongebob/13275a.html
+URL: https://watchwiththekids.com/ep/spongebob/13275a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E19a — Fools in April
-URL: https://watchwithkids.vercel.app/ep/spongebob/0119a.html
+URL: https://watchwiththekids.com/ep/spongebob/0119a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E174b — For Here or to Go
-URL: https://watchwithkids.vercel.app/ep/spongebob/08174b.html
+URL: https://watchwiththekids.com/ep/spongebob/08174b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 238 — France 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00238.html
+URL: https://watchwiththekids.com/ep/spongebob/00238.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 239 — France 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00239.html
+URL: https://watchwiththekids.com/ep/spongebob/00239.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E34b — Frankendoodle
-URL: https://watchwithkids.vercel.app/ep/spongebob/0234b.html
+URL: https://watchwiththekids.com/ep/spongebob/0234b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1873,12 +1873,12 @@ Watch for:
   - Patrick: “He's beating up Squidward! [he laughs]”
 
 ## S8 E170a — Free Samples
-URL: https://watchwithkids.vercel.app/ep/spongebob/08170a.html
+URL: https://watchwiththekids.com/ep/spongebob/08170a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E81 — Friend or Foe
-URL: https://watchwithkids.vercel.app/ep/spongebob/0581.html
+URL: https://watchwiththekids.com/ep/spongebob/0581.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1887,33 +1887,33 @@ Watch for:
   - Krabs and Plankton are walking through the carnival grounds, with Plankton conversing with him. Krabs has a box around his body, so he doesn't want to be naked
 
 ## S13 E287a — Friendiversary
-URL: https://watchwithkids.vercel.app/ep/spongebob/13287a.html
+URL: https://watchwiththekids.com/ep/spongebob/13287a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “[off-screen] Five punchings to the left. [mechanical boxing gloves punch Squidward from above, making him yell in pain. He melts off the conveyor belt and lands on a shell seat.…”
 
 ## S8 E156 — Frozen Face-Off
-URL: https://watchwithkids.vercel.app/ep/spongebob/08156.html
+URL: https://watchwiththekids.com/ep/spongebob/08156.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Mr. Krabs: “The race! The million clams! [gasps] I've been trapped in ice, mutinous thieves trying to cheat me out of me winnings. [rattles Squidward]”
 
 ## Ep 245 — Frozen Krabby Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/00245.html
+URL: https://watchwiththekids.com/ep/spongebob/00245.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - The director kisses Patrick and he giggles.
 
 ## S1 E19b — Fun & Done!
-URL: https://watchwithkids.vercel.app/ep/spongebob/0119b.html
+URL: https://watchwiththekids.com/ep/spongebob/0119b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E289b — FUN-Believable
-URL: https://watchwithkids.vercel.app/ep/spongebob/13289b.html
+URL: https://watchwiththekids.com/ep/spongebob/13289b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1924,7 +1924,7 @@ Watch for:
   - Old Mrs. Perkins: “Ooh, you fibber! If I wasn't your elder, [imitates a punch] I'd pop you right in the beezer!”
 
 ## S11 E228a — Fun-Sized Friends
-URL: https://watchwithkids.vercel.app/ep/spongebob/11228a.html
+URL: https://watchwiththekids.com/ep/spongebob/11228a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -1932,17 +1932,17 @@ Watch for:
   - Both Mini SpongeBob and Mini Patrick grumble and pull out a jackhammer and a pair of pliers. Mini Patrick digs the pliers in SpongeBob's nose and pulls out a long piece of nose hair.…
 
 ## S5 E83c — Fungus Among Us
-URL: https://watchwithkids.vercel.app/ep/spongebob/0583c.html
+URL: https://watchwiththekids.com/ep/spongebob/0583c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E65b — Funny Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0465b.html
+URL: https://watchwiththekids.com/ep/spongebob/0465b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E9b — Game Night
-URL: https://watchwithkids.vercel.app/ep/spongebob/019b.html
+URL: https://watchwiththekids.com/ep/spongebob/019b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1953,7 +1953,7 @@ Watch for:
   - Mrs. Puff: “[SpongeBob is heard laughing again, eyes widen] [gasps, stops drinking, sweating] It couldn't be...”
 
 ## S12 E242b — Gary & Spot
-URL: https://watchwithkids.vercel.app/ep/spongebob/12242b.html
+URL: https://watchwiththekids.com/ep/spongebob/12242b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1963,7 +1963,7 @@ Watch for:
   - Farmer fish: “[punches the hay stack and forms into a bed] Whoo-hoo! [jumps on the hay bed and goes to sleep]”
 
 ## S7 E137b — Gary in Love
-URL: https://watchwithkids.vercel.app/ep/spongebob/07137b.html
+URL: https://watchwiththekids.com/ep/spongebob/07137b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1971,12 +1971,12 @@ Watch for:
   - SpongeBob turns off the lights and he and Gary fall asleep. Inside of Gary's head, he dreams about him and Mary playing on a see-saw. Mary slithers toward Gary and they both kiss with their lips when the dream ends.…
 
 ## S2 E33b — Gary Takes a Bath
-URL: https://watchwithkids.vercel.app/ep/spongebob/0233b.html
+URL: https://watchwiththekids.com/ep/spongebob/0233b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E245a — Gary's Got Legs
-URL: https://watchwithkids.vercel.app/ep/spongebob/12245a.html
+URL: https://watchwiththekids.com/ep/spongebob/12245a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -1985,12 +1985,12 @@ Watch for:
   - SpongeBob: “That's it, Gary. [gets slapped again] Move the— [gets slapped again] Move the— [gets slapped again] Move those arms.”
 
 ## Ep 256 — Gary's Holiday Sing Along
-URL: https://watchwithkids.vercel.app/ep/spongebob/00256.html
+URL: https://watchwiththekids.com/ep/spongebob/00256.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E180b — Gary's New Toy
-URL: https://watchwithkids.vercel.app/ep/spongebob/09180b.html
+URL: https://watchwiththekids.com/ep/spongebob/09180b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -1999,7 +1999,7 @@ Watch for:
   - Patrick: “Huh? [sees the laser pointing at his head] Oh, there it is. [sniffs smoke coming out of the laser] Hey, do you smell something burning?”
 
 ## S13 E290b — Gary's Playhouse
-URL: https://watchwithkids.vercel.app/ep/spongebob/13290b.html
+URL: https://watchwiththekids.com/ep/spongebob/13290b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2010,7 +2010,7 @@ Watch for:
   - Gary: “[coming out with a shell that resembles SpongeBob, and starts laughing like him]”
 
 ## S1 E6a — Gas Station Vacation
-URL: https://watchwithkids.vercel.app/ep/spongebob/016a.html
+URL: https://watchwiththekids.com/ep/spongebob/016a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -2019,27 +2019,27 @@ Watch for:
   - Cut to hot dogs cooking on a roller. Patrick grabs two. Squidina is drinking a slushie with her arms full of snacks.
 
 ## Ep 260 — Gemini
-URL: https://watchwithkids.vercel.app/ep/spongebob/00260.html
+URL: https://watchwiththekids.com/ep/spongebob/00260.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 261 — Germany 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00261.html
+URL: https://watchwiththekids.com/ep/spongebob/00261.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 262 — Germany 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00262.html
+URL: https://watchwiththekids.com/ep/spongebob/00262.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E25b — Get Off My Lawnie
-URL: https://watchwithkids.vercel.app/ep/spongebob/0125b.html
+URL: https://watchwiththekids.com/ep/spongebob/0125b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E51a — Get Ouch
-URL: https://watchwithkids.vercel.app/ep/spongebob/0351a.html
+URL: https://watchwiththekids.com/ep/spongebob/0351a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2048,17 +2048,17 @@ Watch for:
   - Pinkeye: “[drools, hears a fork stabbing and looks at Bunny]”
 
 ## Ep 265 — Ghost
-URL: https://watchwithkids.vercel.app/ep/spongebob/00265.html
+URL: https://watchwiththekids.com/ep/spongebob/00265.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E70b — Ghost Host
-URL: https://watchwithkids.vercel.app/ep/spongebob/0470b.html
+URL: https://watchwiththekids.com/ep/spongebob/0470b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E162 — Ghoul Fools
-URL: https://watchwithkids.vercel.app/ep/spongebob/08162.html
+URL: https://watchwiththekids.com/ep/spongebob/08162.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2067,7 +2067,7 @@ Watch for:
   - Mr. Krabs: “Hey, you thieving bilge rat! I stole this gold fair and square! [Mr. Krabs and Poltergeist beat up each other trying to get possession of treasure chest, which flies into the air]”
 
 ## S6 E107a — Giant Squidward
-URL: https://watchwithkids.vercel.app/ep/spongebob/06107a.html
+URL: https://watchwiththekids.com/ep/spongebob/06107a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2076,14 +2076,14 @@ Watch for:
   - Patrick: “Yeah! Squidward, tell them about all those times that you didn't punch me in the face.”
 
 ## S1 E10b — Gimme a News Break
-URL: https://watchwithkids.vercel.app/ep/spongebob/0110b.html
+URL: https://watchwiththekids.com/ep/spongebob/0110b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Harvey: “[kisses Perch and puts a tin foil hat onto him] It's all true, Perch. [close-up shot of Perch's brain-eyes] Just open your brain-eyes and you'll think-see the Martians.…”
 
 ## S11 E240b — Girls' Night Out
-URL: https://watchwithkids.vercel.app/ep/spongebob/11240b.html
+URL: https://watchwiththekids.com/ep/spongebob/11240b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2095,53 +2095,53 @@ Watch for:
   - Mrs. Puff frantically runs away from SpongeBob. The scene changes to Sandy, Karen, and Mrs. Puff drinking hot chocolate at the corner café at night.
 
 ## S8 E172b — Glove World R.I.P.
-URL: https://watchwithkids.vercel.app/ep/spongebob/08172b.html
+URL: https://watchwiththekids.com/ep/spongebob/08172b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob & Patrick are kissing to his feet.. Cut to Tilt-A-Hurl
 
 ## S16 E327b — Go Fetch!
-URL: https://watchwithkids.vercel.app/ep/spongebob/16327b.html
+URL: https://watchwiththekids.com/ep/spongebob/16327b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E104b — Gone
-URL: https://watchwithkids.vercel.app/ep/spongebob/06104b.html
+URL: https://watchwiththekids.com/ep/spongebob/06104b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E91a — Goo Goo Gas
-URL: https://watchwithkids.vercel.app/ep/spongebob/0591a.html
+URL: https://watchwiththekids.com/ep/spongebob/0591a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Cut to the Krusty Krab, where the old Mr. Krabs is drinking a soda
 
 ## S4 E64b — Good Neighbors
-URL: https://watchwithkids.vercel.app/ep/spongebob/0464b.html
+URL: https://watchwiththekids.com/ep/spongebob/0464b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S5 E84c — Good Ol' Whatshisname
-URL: https://watchwithkids.vercel.app/ep/spongebob/0584c.html
+URL: https://watchwiththekids.com/ep/spongebob/0584c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E200 — Goodbye, Krabby Patty?
-URL: https://watchwithkids.vercel.app/ep/spongebob/09200.html
+URL: https://watchwiththekids.com/ep/spongebob/09200.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E270a — Goofy Scoopers
-URL: https://watchwithkids.vercel.app/ep/spongebob/13270a.html
+URL: https://watchwiththekids.com/ep/spongebob/13270a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - The lights go on. SpongeBob is seen strumming an electric guitar as loud feedback plays. Bongos gets ready at his drum set and plays rapidly.…
 
 ## S11 E237 — Goons on the Moon
-URL: https://watchwithkids.vercel.app/ep/spongebob/11237.html
+URL: https://watchwiththekids.com/ep/spongebob/11237.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2150,7 +2150,7 @@ Watch for:
   - SpongeBob, Pearl, Squidina, and Sandy open a hole in their helmets and start drinking their soda. The soda's chemicals build up in their stomachs.…
 
 ## S16 E321b — Gorilla Suit Day
-URL: https://watchwithkids.vercel.app/ep/spongebob/16321b.html
+URL: https://watchwiththekids.com/ep/spongebob/16321b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2159,12 +2159,12 @@ Watch for:
   - Mr. Krabs: “[enters the kitchen to see the gorilla has made a complete mess] SpongeBob, you animal! Those patties are coming out of your pay! [screams as the gorilla grabs his eyes and puts him above the fryer] You can't fry me…”
 
 ## S7 E139a — Gramma's Secret Recipe
-URL: https://watchwithkids.vercel.app/ep/spongebob/07139a.html
+URL: https://watchwiththekids.com/ep/spongebob/07139a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E26a — Grandma's Kisses
-URL: https://watchwithkids.vercel.app/ep/spongebob/0226a.html
+URL: https://watchwiththekids.com/ep/spongebob/0226a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 11 moment(s)
@@ -2181,7 +2181,7 @@ Watch for:
   - Grandma: “Of course not. [pulls the plug under SpongeBob's tear flood to drain it, and SpongeBob stops crying over baby stuff] No matter how grown-up you get, you'll always be my little baby boo.…”
 
 ## S11 E228b — Grandmum's the Word
-URL: https://watchwithkids.vercel.app/ep/spongebob/11228b.html
+URL: https://watchwiththekids.com/ep/spongebob/11228b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2192,45 +2192,45 @@ Watch for:
   - Plankton: “[covers his grandmother with a blanket] Happy birthday, Grandma. [kisses her as she whacks him with her purse, knocking out two teeth]”
 
 ## S6 E115a — Grandpappy the Pirate
-URL: https://watchwithkids.vercel.app/ep/spongebob/06115a.html
+URL: https://watchwiththekids.com/ep/spongebob/06115a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Mr. Krabs: “It's, it's, it's a pirate never lies! [starts crying] And I've been a dirty liar! Everything you see is a lie! This sail is a lie! [tears down the sail] This crew is a lie!…”
 
 ## S2 E36a — Graveyard Shift
-URL: https://watchwithkids.vercel.app/ep/spongebob/0236a.html
+URL: https://watchwiththekids.com/ep/spongebob/0236a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 286 — Graveyard Shift (voice-over)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00286.html
+URL: https://watchwiththekids.com/ep/spongebob/00286.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E130a — Greasy Buffoons
-URL: https://watchwithkids.vercel.app/ep/spongebob/07130a.html
+URL: https://watchwiththekids.com/ep/spongebob/07130a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Mr. Krabs: “Hmm... Nothing's coming out.”
 
 ## Ep 288 — Green Stuff Rap
-URL: https://watchwithkids.vercel.app/ep/spongebob/00288.html
+URL: https://watchwiththekids.com/ep/spongebob/00288.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Rapper: “Yeah! He's got the green light go! He's bought to show you fishes what he means by dough. Lush lifestyle, like grass, the green's growin' uuuup.…”
 
 ## S6 E110b — Grooming Gary
-URL: https://watchwithkids.vercel.app/ep/spongebob/06110b.html
+URL: https://watchwiththekids.com/ep/spongebob/06110b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - SpongeBob: “[walks onto set where the Perch is doing his newscast from] Gary? [gasps from coming out of Squidward's bathtub] Gary? Oh, hi ya, Squidward.…”
 
 ## S7 E128a — Growth Spout
-URL: https://watchwithkids.vercel.app/ep/spongebob/07128a.html
+URL: https://watchwiththekids.com/ep/spongebob/07128a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2239,22 +2239,22 @@ Watch for:
   - Mr. Krabs: “That's strange. I'm sure I can remember screwing the cap back on the toothpaste, but here it is on the edge of the sink, plain as day. Heh heh! These are strange times we're livin' in.”
 
 ## S6 E119a — Gullible Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/06119a.html
+URL: https://watchwiththekids.com/ep/spongebob/06119a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 292 — GumShoe SquarePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/00292.html
+URL: https://watchwiththekids.com/ep/spongebob/00292.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E7a — Hall Monitor
-URL: https://watchwithkids.vercel.app/ep/spongebob/017a.html
+URL: https://watchwiththekids.com/ep/spongebob/017a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E257a — Handemonium
-URL: https://watchwithkids.vercel.app/ep/spongebob/12257a.html
+URL: https://watchwiththekids.com/ep/spongebob/12257a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2268,14 +2268,14 @@ Watch for:
   - Hans continues to wrestle with the Chum Bucket glove. Hans pinches the Chum Bucket glove, while one of its fingers punch Hans away.
 
 ## S16 E331b — Happy Krabby Birthday
-URL: https://watchwithkids.vercel.app/ep/spongebob/16331b.html
+URL: https://watchwiththekids.com/ep/spongebob/16331b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “Personal? Aaah! [sits on teddy bear and guesses, Squidward also guesses] What's that? Teddy bear says: "You will find a clue in Mr. Krabs' house!" [kisses teddy bear and hands it to Squidward as he runs]”
 
 ## S1 E7b — Hard Time Out
-URL: https://watchwithkids.vercel.app/ep/spongebob/017b.html
+URL: https://watchwiththekids.com/ep/spongebob/017b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -2283,14 +2283,14 @@ Watch for:
   - Patrick: “Stop being so beautiful! [the dummy punches him and he runs into Krabs' desk] Get off me, you dream boat!”
 
 ## S1 E26a — Hats Off to Space
-URL: https://watchwithkids.vercel.app/ep/spongebob/0126a.html
+URL: https://watchwiththekids.com/ep/spongebob/0126a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - The campers' hats are suddenly pulled into the air. A pan across the camp shows more campers losing their hats. Bubble Bass walks out of the general store with a soda-drinking hat.…
 
 ## S4 E63 — Have You Seen This Snail?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0463.html
+URL: https://watchwiththekids.com/ep/spongebob/0463.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2298,14 +2298,14 @@ Watch for:
   - SpongeBob: “Yeah, like that. [Gary purrs] Gary, your purring is making it hard to forget you.[notices Gary and picks him up and hugs him cheerfully] Gary! Oh, Gary!…”
 
 ## S16 E328a — Heart of Garbage
-URL: https://watchwithkids.vercel.app/ep/spongebob/16328a.html
+URL: https://watchwiththekids.com/ep/spongebob/16328a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[hugs him] Welcome home, Squidward! [kisses him]”
 
 ## S8 E178 — Hello Bikini Bottom!
-URL: https://watchwithkids.vercel.app/ep/spongebob/08178.html
+URL: https://watchwiththekids.com/ep/spongebob/08178.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2316,7 +2316,7 @@ Watch for:
   - The episode opens on Squidward's house. Squidward is standing at his window, drinking tea.
 
 ## S1 E14a — Help Not Wanted
-URL: https://watchwithkids.vercel.app/ep/spongebob/0114a.html
+URL: https://watchwiththekids.com/ep/spongebob/0114a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2330,14 +2330,14 @@ Watch for:
   - Bubble transition to Mr. Krabs opening a cabin door, and sees Mrs. Puff and Plankton lounging and drinking in lawn chairs.
 
 ## S1 E1a — Help Wanted
-URL: https://watchwithkids.vercel.app/ep/spongebob/011a.html
+URL: https://watchwiththekids.com/ep/spongebob/011a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “[jumps on the diving board] Look at me, I'm... [jumps up, and leaves his underwear behind] ..naked! [lands inside his pants, then runs toward his exercise room.…”
 
 ## S1 E20a — Helter Shelter
-URL: https://watchwithkids.vercel.app/ep/spongebob/0120a.html
+URL: https://watchwiththekids.com/ep/spongebob/0120a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2351,7 +2351,7 @@ Watch for:
   - Sandy: “[singing] Take your campmate by the wrist! [Patrick grabs SpongeBob and swings him around] Shake and shake, and twist and twist! [Patrick swings SpongeBob into the wall] And pull his leg!…”
 
 ## S12 E261b — Hiccup Plague
-URL: https://watchwithkids.vercel.app/ep/spongebob/12261b.html
+URL: https://watchwiththekids.com/ep/spongebob/12261b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2364,17 +2364,17 @@ Watch for:
   - Bubble Bass: “[hiccups and spits out the kelp soda coming out of his nose, ruining his comic] No! That hiccup ruined my precious comic book!”
 
 ## S7 E147a — Hide and Then What Happens?
-URL: https://watchwithkids.vercel.app/ep/spongebob/07147a.html
+URL: https://watchwiththekids.com/ep/spongebob/07147a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E28a — High and Dry
-URL: https://watchwithkids.vercel.app/ep/spongebob/0228a.html
+URL: https://watchwiththekids.com/ep/spongebob/0228a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E230a — High Sea Diving
-URL: https://watchwithkids.vercel.app/ep/spongebob/11230a.html
+URL: https://watchwiththekids.com/ep/spongebob/11230a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Fat-shaming — 3 moment(s)
@@ -2383,7 +2383,7 @@ Watch for:
   - SpongeBob: “Okay, Gary, that's enough lard. I gotta warm up.”
 
 ## S1 E15a — Hill-Fu
-URL: https://watchwithkids.vercel.app/ep/spongebob/0115a.html
+URL: https://watchwiththekids.com/ep/spongebob/0115a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -2391,12 +2391,12 @@ Watch for:
   - Narlene: “[steps on SpongeBob, spinning him and making him sit] Oh, that t'ain't a problem. [Nobby hops on stump, points to him] You just need to study under the right master.…”
 
 ## S4 E76b — Hocus Pocus
-URL: https://watchwithkids.vercel.app/ep/spongebob/0476b.html
+URL: https://watchwiththekids.com/ep/spongebob/0476b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E325b — Hog Huntin'
-URL: https://watchwithkids.vercel.app/ep/spongebob/16325b.html
+URL: https://watchwiththekids.com/ep/spongebob/16325b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -2407,17 +2407,17 @@ Watch for:
   - Old Man Jenkins: “[tries to stab them but fails and gets tired; he falls then gets back up] You two may be fast, but I got one more trick up my trousers.…”
 
 ## Ep 311 — Holiday Party
-URL: https://watchwithkids.vercel.app/ep/spongebob/00311.html
+URL: https://watchwiththekids.com/ep/spongebob/00311.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S17 E335a — Home Away from Home
-URL: https://watchwithkids.vercel.app/ep/spongebob/17335a.html
+URL: https://watchwiththekids.com/ep/spongebob/17335a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E19a — Home ECCH!
-URL: https://watchwithkids.vercel.app/ep/spongebob/0119a.html
+URL: https://watchwiththekids.com/ep/spongebob/0119a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -2428,7 +2428,7 @@ Watch for:
   - "A Space Affair to Remember"
 
 ## S1 E5b — Home Sweet Pineapple
-URL: https://watchwithkids.vercel.app/ep/spongebob/015b.html
+URL: https://watchwiththekids.com/ep/spongebob/015b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 2 moment(s)
@@ -2436,14 +2436,14 @@ Watch for:
   - SpongeBob: “Huh? Wait a minute! [cut to the outside, where the nematodes are still drinking the pineapple] Oh, no! [runs into the living room. He squeezes through the shrinking doorway and gets launched into the wall.…”
 
 ## S8 E170b — Home Sweet Rubble
-URL: https://watchwithkids.vercel.app/ep/spongebob/08170b.html
+URL: https://watchwiththekids.com/ep/spongebob/08170b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidward: “[wakes up scared] It's The Big One! It's the end of the world! Invest in gold! Hoard your drinking wa- [looks out the window to see the rotting pineapple leaning against his house. He sighs] I should've known.…”
 
 ## S1 E20a — Hooky
-URL: https://watchwithkids.vercel.app/ep/spongebob/0120a.html
+URL: https://watchwiththekids.com/ep/spongebob/0120a.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -2453,12 +2453,12 @@ Watch for:
   - SpongeBob: “The pants! The underwear! [cries]”
 
 ## S1 E15b — Host-a-Palooza
-URL: https://watchwithkids.vercel.app/ep/spongebob/0115b.html
+URL: https://watchwiththekids.com/ep/spongebob/0115b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E286a — Hot Crossed Nuts
-URL: https://watchwithkids.vercel.app/ep/spongebob/13286a.html
+URL: https://watchwiththekids.com/ep/spongebob/13286a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -2467,31 +2467,31 @@ Watch for:
   - Sandy is displeased, and SpongeBob is worried. A munching sound is heard, and fire blows out from Mr. Krabs' office door. Mr. Krabs comes out, his eyes red and smoke coming out of his mouth.
 
 ## S1 E6b — Hot Pearl-tato
-URL: https://watchwithkids.vercel.app/ep/spongebob/016b.html
+URL: https://watchwiththekids.com/ep/spongebob/016b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob and Squidward get picked up and thrown by the sea moose, which uses them as paddle balls on its antlers. The air bottle drops directly into Pearl's blowhole, turning her back to normal.…
 
 ## S6 E101a — House Fancy
-URL: https://watchwithkids.vercel.app/ep/spongebob/06101a.html
+URL: https://watchwiththekids.com/ep/spongebob/06101a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E16b — House Hunting
-URL: https://watchwithkids.vercel.app/ep/spongebob/0116b.html
+URL: https://watchwiththekids.com/ep/spongebob/0116b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E165a — House Sittin' for Sandy
-URL: https://watchwithkids.vercel.app/ep/spongebob/08165a.html
+URL: https://watchwiththekids.com/ep/spongebob/08165a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Sandy: “Yep. I brought home something real handy. [takes out a ray gun]”
 
 ## S10 E207b — House Worming
-URL: https://watchwithkids.vercel.app/ep/spongebob/10207b.html
+URL: https://watchwiththekids.com/ep/spongebob/10207b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2503,7 +2503,7 @@ Watch for:
   - At night, Prickles is walking with a hobo stick, scared of the surroundings. He gets shocked when he sees the mailfish severely beaten up.…
 
 ## S17 E338b — How the West Was Dumb
-URL: https://watchwithkids.vercel.app/ep/spongebob/17338b.html
+URL: https://watchwiththekids.com/ep/spongebob/17338b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -2512,29 +2512,29 @@ Watch for:
   - Gary's eyes turn blood-red with anger. He grunts, slamming his shell into the floor, flattening himself completely before springing back up.…
 
 ## Ep 325 — How The You-Know-Who Stole You-Know-What!
-URL: https://watchwithkids.vercel.app/ep/spongebob/00325.html
+URL: https://watchwiththekids.com/ep/spongebob/00325.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 326 — How to Draw SpongeBob SquarePants & His Underwater Buddies
-URL: https://watchwithkids.vercel.app/ep/spongebob/00326.html
+URL: https://watchwiththekids.com/ep/spongebob/00326.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E327 — How to Make SpongeBob SquarePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/06327.html
+URL: https://watchwiththekids.com/ep/spongebob/06327.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E301b — Hysterical History
-URL: https://watchwithkids.vercel.app/ep/spongebob/14301b.html
+URL: https://watchwiththekids.com/ep/spongebob/14301b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - Sandy: “Now hold it just a darn minute. [flashback ends, looking at her notebook, and sketches a screw and a ball onto her notebook] Ain't no way these screwball stories are true. Lemme read that plaque.…”
 
 ## S3 E56b — I Had an Accident
-URL: https://watchwithkids.vercel.app/ep/spongebob/0356b.html
+URL: https://watchwiththekids.com/ep/spongebob/0356b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -2544,7 +2544,7 @@ Watch for:
   - Squidward: “[sits at a table drinking tea close to the mountain] Stop naming moves after me!”
 
 ## S1 E5b — I Smell a Pat
-URL: https://watchwithkids.vercel.app/ep/spongebob/015b.html
+URL: https://watchwiththekids.com/ep/spongebob/015b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2553,7 +2553,7 @@ Watch for:
   - Patrick: “Found it! [opens book] Today's story is called: "Downtown Patty: The Thrilliflick Tale of a Krabby Patty looking for love." [licks finger, turns page] Boy meets grill...…”
 
 ## S1 E13b — I Was a Teenage Gary
-URL: https://watchwithkids.vercel.app/ep/spongebob/0113b.html
+URL: https://watchwiththekids.com/ep/spongebob/0113b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2562,19 +2562,19 @@ Watch for:
   - Gary crawls to his water bowl to get a drink. After drinking the water, he gargles, clears his throat, and meows normally again.
 
 ## S7 E127b — I ♥ Dancing
-URL: https://watchwithkids.vercel.app/ep/spongebob/07127b.html
+URL: https://watchwiththekids.com/ep/spongebob/07127b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Agent fish: “[holding a cell phone with an antenna coming out of it] That's right, kid. You got the dazzle, dazzle, dazzle. I love how you did that shuffle into the moonsault, and then stuck the landing!”
 
 ## Ep 333 — I'm Urchin You to Leave
-URL: https://watchwithkids.vercel.app/ep/spongebob/00333.html
+URL: https://watchwiththekids.com/ep/spongebob/00333.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E37b — I'm with Stupid
-URL: https://watchwithkids.vercel.app/ep/spongebob/0237b.html
+URL: https://watchwiththekids.com/ep/spongebob/0237b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2585,7 +2585,7 @@ Watch for:
   - SpongeBob: “Your parents? [reads the message out loud] "Dear Patrick, your mom and I are coming out tomorrow for Starfish Day. Please try to remember, but don't try too hard, or you'll hurt yourself like last time. Love, Daddy."”
 
 ## S2 E30b — I'm Your Biggest Fanatic
-URL: https://watchwithkids.vercel.app/ep/spongebob/0230b.html
+URL: https://watchwiththekids.com/ep/spongebob/0230b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -2594,40 +2594,40 @@ Watch for:
   - Kevin: “Don't look at me! I was just in this for the fashion! [close up on Kevin's pants, with patches, stickers and a toy jellyfish coming out of his pocket and ready to cry] It's hopeless! We're trapped! We're trapped!…”
 
 ## S4 E54b — Ice Cream Headache
-URL: https://watchwithkids.vercel.app/ep/spongebob/0454b.html
+URL: https://watchwiththekids.com/ep/spongebob/0454b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Ice Cream King: “Let it sink its teeth into this! [He uses a hook to stab the ice cream and whistles] Tack her up!”
 
 ## S3 E44b — Idiot Box
-URL: https://watchwithkids.vercel.app/ep/spongebob/0344b.html
+URL: https://watchwiththekids.com/ep/spongebob/0344b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E24b — Imitation Krabs
-URL: https://watchwithkids.vercel.app/ep/spongebob/0224b.html
+URL: https://watchwiththekids.com/ep/spongebob/0224b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Mr. Krabs: “Phew, that's okay, me lad. Long as the secret formula's safe again. [takes the bottle] However, that penny's coming out of your paycheck. [both laughing]”
 
 ## S1 E26b — In a Nut's Shell
-URL: https://watchwithkids.vercel.app/ep/spongebob/0126b.html
+URL: https://watchwiththekids.com/ep/spongebob/0126b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Narlene: “[opens the shell's butt and waves out underwear on a flag] We give up! We give up!”
 
 ## S4 E61a — In a Space Pickle
-URL: https://watchwithkids.vercel.app/ep/spongebob/0461a.html
+URL: https://watchwiththekids.com/ep/spongebob/0461a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - A pillow wipes across the screen as the scene transitions to Patrick and Quasar walking past some aliens playing jump rope with their tongues.…
 
 ## S1 E4a — In Search of Camp Noodist
-URL: https://watchwithkids.vercel.app/ep/spongebob/014a.html
+URL: https://watchwiththekids.com/ep/spongebob/014a.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 8 moment(s)
@@ -2643,12 +2643,12 @@ Watch for:
   - The bubble transition goes to SpongeBob, Patrick, and Sandy coming out of the forest
 
 ## S14 E300b — In the Mood to Feud
-URL: https://watchwithkids.vercel.app/ep/spongebob/14300b.html
+URL: https://watchwiththekids.com/ep/spongebob/14300b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E231b — Ink Lemonade
-URL: https://watchwithkids.vercel.app/ep/spongebob/11231b.html
+URL: https://watchwiththekids.com/ep/spongebob/11231b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -2657,45 +2657,45 @@ Watch for:
   - Incidental 69: “[after drinking the pitcher] Ahh! Thanks, buddy. I was thirsty. [gags and sticks his tongue out with the bandage on it]”
 
 ## S12 E249b — Insecurity Guards
-URL: https://watchwithkids.vercel.app/ep/spongebob/12249b.html
+URL: https://watchwiththekids.com/ep/spongebob/12249b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “Wow! Your life is so glamorous! [puts an underwear with red hearts on his head]”
 
 ## Ep 345 — Inside the SpongeBob Animation Studios
-URL: https://watchwithkids.vercel.app/ep/spongebob/00345.html
+URL: https://watchwiththekids.com/ep/spongebob/00345.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E171b — InSPONGEiac
-URL: https://watchwithkids.vercel.app/ep/spongebob/08171b.html
+URL: https://watchwiththekids.com/ep/spongebob/08171b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “This pillow is hard as a rock! [punches a pillow and tries to sleep] Oh, what to do?”
 
 ## Ep 347 — Intelligent Financial Life
-URL: https://watchwithkids.vercel.app/ep/spongebob/00347.html
+URL: https://watchwiththekids.com/ep/spongebob/00347.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 348 — Interview with Carlos
-URL: https://watchwithkids.vercel.app/ep/spongebob/00348.html
+URL: https://watchwiththekids.com/ep/spongebob/00348.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “Well, it had everything! It had...DRAMA! [turns flashlight on and points it upwards at his face] It had...ACTION! [punches himself in the face]”
 
 ## S2 E34a — Is There a Director in the House?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0234a.html
+URL: https://watchwiththekids.com/ep/spongebob/0234a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Sandy: “[jumps up and screams in Patrick's face while punching him]”
 
 ## S9 E185 — It Came from Goo Lagoon
-URL: https://watchwithkids.vercel.app/ep/spongebob/09185.html
+URL: https://watchwiththekids.com/ep/spongebob/09185.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2706,24 +2706,24 @@ Watch for:
   - Patrick: “Help, help! Help! [punches through the door] I'm out of toilet paper in here! [the outhouse begins to slide off]”
 
 ## S8 E175 — It's a SpongeBob Christmas!
-URL: https://watchwithkids.vercel.app/ep/spongebob/08175.html
+URL: https://watchwiththekids.com/ep/spongebob/08175.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S17 E337b — It's About Mime
-URL: https://watchwithkids.vercel.app/ep/spongebob/17337b.html
+URL: https://watchwiththekids.com/ep/spongebob/17337b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E64b — It's Too Late... With Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/0464b.html
+URL: https://watchwiththekids.com/ep/spongebob/0464b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Plankton: “Wait, what's going on? Where's my remote? [Patrick presses the button again] Uh-oh. [an arm grabs Plankton by the antennae, and he is punched, stretched, rolled, and then pulled] Ooh, that felt pretty good.…”
 
 ## S9 E184a — Jailbreak!
-URL: https://watchwithkids.vercel.app/ep/spongebob/09184a.html
+URL: https://watchwiththekids.com/ep/spongebob/09184a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -2731,7 +2731,7 @@ Watch for:
   - Plankton: “Are we near the airport? [Gets launched outside, lands on the cake on the wall, and the file hits him on the mouth and falls to the ground.…”
 
 ## S15 E314a — Jeffy T's Prankwell Emporium
-URL: https://watchwithkids.vercel.app/ep/spongebob/15314a.html
+URL: https://watchwiththekids.com/ep/spongebob/15314a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2740,46 +2740,46 @@ Watch for:
   - Jeffy: “I wonder what it could be. [opens the box, and a boxing glove comes out to punch his face] Whoa! A surprise boxing glove? I love it! [a pie from the box hits him in the face] And a cream pie...…”
 
 ## S2 E39a — Jellyfish Hunter
-URL: https://watchwithkids.vercel.app/ep/spongebob/0239a.html
+URL: https://watchwiththekids.com/ep/spongebob/0239a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E7b — Jellyfish Jam
-URL: https://watchwithkids.vercel.app/ep/spongebob/017b.html
+URL: https://watchwiththekids.com/ep/spongebob/017b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E3a — Jellyfishing
-URL: https://watchwithkids.vercel.app/ep/spongebob/013a.html
+URL: https://watchwiththekids.com/ep/spongebob/013a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 359 — Jellyfishing Safety Tips
-URL: https://watchwithkids.vercel.app/ep/spongebob/00359.html
+URL: https://watchwiththekids.com/ep/spongebob/00359.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 360 — Jimmy Neutron's Nicktoon Blast
-URL: https://watchwithkids.vercel.app/ep/spongebob/00360.html
+URL: https://watchwiththekids.com/ep/spongebob/00360.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “Welcome to Nicktoons Studios! We hope you enjoy your visit. While you're on the ride, we ask that you refrain from the following activities: (Smoking, eating, drinking, ripping your pants!…”
 
 ## S12 E253a — Jolly Lodgers
-URL: https://watchwithkids.vercel.app/ep/spongebob/12253a.html
+URL: https://watchwiththekids.com/ep/spongebob/12253a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 362 — Juice Man
-URL: https://watchwithkids.vercel.app/ep/spongebob/00362.html
+URL: https://watchwiththekids.com/ep/spongebob/00362.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “Go long. [throws a green frisbee in the air and then chases after it himself, a fish drinking juice watches SpongeBob run by him but then the frisbee hits him in the head, causing his juice to spill on the sand…”
 
 ## S1 E10a — Just in Time for Christmas
-URL: https://watchwithkids.vercel.app/ep/spongebob/0110a.html
+URL: https://watchwiththekids.com/ep/spongebob/0110a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -2802,7 +2802,7 @@ Watch for:
   - Mrs. Puff turns her beard into a fist and punches Patrick. He is sent flying back into the time closet's door. When he arrives back in his room, he notices the monkey under his hat.
 
 ## S3 E43a — Just One Bite
-URL: https://watchwithkids.vercel.app/ep/spongebob/0343a.html
+URL: https://watchwiththekids.com/ep/spongebob/0343a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2814,7 +2814,7 @@ Watch for:
   - Squidward: “C'mon, c'mon, c'mon! [holds up the Krabby Patty covered in sand] Ah, still alive! [shoves the whole thing in his mouth] Oh, so delicious! [cries] Oh, all the wasted years! [licks the ground] I gotta have more!…”
 
 ## S1 E19b — Kamp Kow
-URL: https://watchwithkids.vercel.app/ep/spongebob/0119b.html
+URL: https://watchwiththekids.com/ep/spongebob/0119b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2829,7 +2829,7 @@ Watch for:
   - Lucky: “[slurps and eats Patrick's underwear, then burps]”
 
 ## S1 E14b — Karate Choppers
-URL: https://watchwithkids.vercel.app/ep/spongebob/0114b.html
+URL: https://watchwiththekids.com/ep/spongebob/0114b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -2838,12 +2838,12 @@ Watch for:
   - Sandy: “W-w-wait! Mr. Krabs, it's not his fault. It-it's mine. He tried to tell me, but... I-I wouldn't listen. [SpongeBob is crying into a cup and drinking his tears. Now he is flipping over and over around Sandy and Mr.…”
 
 ## S4 E71b — Karate Island
-URL: https://watchwithkids.vercel.app/ep/spongebob/0471b.html
+URL: https://watchwiththekids.com/ep/spongebob/0471b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E332a — Karate Pals
-URL: https://watchwithkids.vercel.app/ep/spongebob/16332a.html
+URL: https://watchwiththekids.com/ep/spongebob/16332a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -2852,7 +2852,7 @@ Watch for:
   - Bubble transition to Sandy lounging and drinking lemonade in her treedome. Her phone rings.
 
 ## S7 E144b — Karate Star
-URL: https://watchwithkids.vercel.app/ep/spongebob/07144b.html
+URL: https://watchwiththekids.com/ep/spongebob/07144b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -2860,26 +2860,26 @@ Watch for:
   - Patrick: “I'm trying to, but this thing has a mind of its owwwnnnn... [punches SpongeBob, SpongeBob hits a rack] Yah! [then the counter, until the whole store collapses. He emerges from the debris.]”
 
 ## S8 E171a — Karen 2.0
-URL: https://watchwithkids.vercel.app/ep/spongebob/08171a.html
+URL: https://watchwiththekids.com/ep/spongebob/08171a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E281b — Karen for Spot
-URL: https://watchwithkids.vercel.app/ep/spongebob/13281b.html
+URL: https://watchwiththekids.com/ep/spongebob/13281b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Karen: “[folding tiny underwear] All right, Plankton. [puts underwear into tiny suitcase and closes it] I managed to fit 12 changes of underwear into your suitcase. [picks up suitcase] Will that be enough for the trip?”
 
 ## S12 E250b — Karen's Baby
-URL: https://watchwithkids.vercel.app/ep/spongebob/12250b.html
+URL: https://watchwiththekids.com/ep/spongebob/12250b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Chip mimics every detail of what happened at the arcade. He shows that he was having a fun time playing in one of the videogames by making gun noises.…
 
 ## S16 E332b — Karen's Klatch
-URL: https://watchwithkids.vercel.app/ep/spongebob/16332b.html
+URL: https://watchwiththekids.com/ep/spongebob/16332b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2894,7 +2894,7 @@ Watch for:
   - Karen punches "Tandy"'s head, making it go up to the ceiling and drop back down, breaking the monitor to reveal Plankton.
 
 ## S11 E238b — Karen's Virus
-URL: https://watchwithkids.vercel.app/ep/spongebob/11238b.html
+URL: https://watchwiththekids.com/ep/spongebob/11238b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2907,7 +2907,7 @@ Watch for:
   - Plankton: “Someone's gonna have to get inside you and kill that virus. It's probably a suicide mission. [lifts Karen's hand] But who would be stupid enough to—[hears someone knocking on the door; he opens and it turns out to be…”
 
 ## S7 E131a — Keep Bikini Bottom Beautiful
-URL: https://watchwithkids.vercel.app/ep/spongebob/07131a.html
+URL: https://watchwiththekids.com/ep/spongebob/07131a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -2915,14 +2915,14 @@ Watch for:
   - The muscular mother beats up Squidward, dumps the trash on Squidward and leaves with her son and his wagon. The officer shakes his head in disapproval and writes third ticket for Squidward
 
 ## S9 E188a — Kenny the Cat
-URL: https://watchwithkids.vercel.app/ep/spongebob/09188a.html
+URL: https://watchwiththekids.com/ep/spongebob/09188a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Kenny: “[screaming] I can't take it! I need oxygen! [punches his body for his oxygen tank which falls to the ground causing the crowd to gasp as he uses the tank and signs in relief]”
 
 ## S12 E245b — King Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/12245b.html
+URL: https://watchwiththekids.com/ep/spongebob/12245b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -2932,7 +2932,7 @@ Watch for:
   - Plankton and the sea chimps all fall down Patrick's throat. Just then, SpongeBob comes back from the Krusty Krab and enters the Chum Bucket. He sees Patrick drinking the aquarium water.
 
 ## S17 E334a — Kiss of the Nematode
-URL: https://watchwithkids.vercel.app/ep/spongebob/17334a.html
+URL: https://watchwiththekids.com/ep/spongebob/17334a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -2946,14 +2946,14 @@ Watch for:
   - Guy Fishman and Lady Nematode kiss 3 times
 
 ## S1 E4b — Kitchen Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/014b.html
+URL: https://watchwiththekids.com/ep/spongebob/014b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Mr. Krabs: “Ah, alright. Looks like you are Mr. Plankton's new helper! Uh, um, [pulls up SpongeBob's underwear] SpongeBob.”
 
 ## S1 E10b — Klopnodian Heritage Festival
-URL: https://watchwithkids.vercel.app/ep/spongebob/0110b.html
+URL: https://watchwiththekids.com/ep/spongebob/0110b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2967,17 +2967,17 @@ Watch for:
   - Patrick screams and punches him off the stage. He lands in the crowd.
 
 ## S12 E260a — Knock Knock, Who's There?
-URL: https://watchwithkids.vercel.app/ep/spongebob/12260a.html
+URL: https://watchwiththekids.com/ep/spongebob/12260a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E118b — Komputer Overload
-URL: https://watchwithkids.vercel.app/ep/spongebob/06118b.html
+URL: https://watchwiththekids.com/ep/spongebob/06118b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E265b — Kooky Cooks
-URL: https://watchwithkids.vercel.app/ep/spongebob/12265b.html
+URL: https://watchwiththekids.com/ep/spongebob/12265b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2986,64 +2986,64 @@ Watch for:
   - Mrs. Puff tries to stab SpongeBob, who keeps dodging
 
 ## S3 E49a — Krab Borg
-URL: https://watchwithkids.vercel.app/ep/spongebob/0349a.html
+URL: https://watchwiththekids.com/ep/spongebob/0349a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “Oh, yeah. What color is my underwear? [slaps him again]”
 
 ## S3 E57a — Krabby Land
-URL: https://watchwithkids.vercel.app/ep/spongebob/0357a.html
+URL: https://watchwiththekids.com/ep/spongebob/0357a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “[puts on his Krusty Krab employee hat] Well, time to punch that clock. [walks into his living room] But not before checking my motivational Quote-a-Day calendar. [calendar reads "June 21"] You are a winner.…”
 
 ## S11 E222a — Krabby Patty Creature Feature
-URL: https://watchwithkids.vercel.app/ep/spongebob/11222a.html
+URL: https://watchwiththekids.com/ep/spongebob/11222a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Bubble Bass: “Really, Krabs? Is this some kind of new promotional gimmick? Surely, you can do better than this, Eugene. I mean, [takes out a pickle from Mr.…”
 
 ## Ep 387 — Krabby Patty IRL
-URL: https://watchwithkids.vercel.app/ep/spongebob/00387.html
+URL: https://watchwiththekids.com/ep/spongebob/00387.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 388 — Krabby Patty Jingle
-URL: https://watchwithkids.vercel.app/ep/spongebob/00388.html
+URL: https://watchwiththekids.com/ep/spongebob/00388.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Mr. Krabs: “♪You love me double patties, and the triple patty's fun. Me favorite's the patty-free patty made cheap, it's just a bun. You bought the hatty patty to cover your lack of hair, you tried the briefy patty when you needed…”
 
 ## Ep 389 — Krabby Patty Report
-URL: https://watchwithkids.vercel.app/ep/spongebob/00389.html
+URL: https://watchwiththekids.com/ep/spongebob/00389.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E101b — Krabby Road
-URL: https://watchwithkids.vercel.app/ep/spongebob/06101b.html
+URL: https://watchwiththekids.com/ep/spongebob/06101b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Plankton: “When nobody's there? [makes a purring noise with drool coming out of his mouth at the thought of it]”
 
 ## S4 E62b — Krabs vs. Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/0462b.html
+URL: https://watchwiththekids.com/ep/spongebob/0462b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E85b — Krabs à la Mode
-URL: https://watchwithkids.vercel.app/ep/spongebob/0585b.html
+URL: https://watchwiththekids.com/ep/spongebob/0585b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Mr. Krabs: “[gasps] You've gone too far this time, Plankton! You can pummel me employees, [punches SpongeBob through the gut] try to destroy me restaurant, but nobody messes with me thermostat. [boxing bell rings as Mr.…”
 
 ## S2 E34a — Krabsy the Klown
-URL: https://watchwithkids.vercel.app/ep/spongebob/0234a.html
+URL: https://watchwiththekids.com/ep/spongebob/0234a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -3051,12 +3051,12 @@ Watch for:
   - Close-ups on Mrs. Puff, some kids, and Pearl looking angry. Pearl beats her fist into her palm.
 
 ## S7 E132b — Kracked Krabs
-URL: https://watchwithkids.vercel.app/ep/spongebob/07132b.html
+URL: https://watchwiththekids.com/ep/spongebob/07132b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E302 — Kreepaway Kamp
-URL: https://watchwithkids.vercel.app/ep/spongebob/14302.html
+URL: https://watchwiththekids.com/ep/spongebob/14302.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3073,36 +3073,36 @@ Watch for:
   - Patrick: “[chews] Oh, boy, breakfast. [the clam fights back, grunting] Hey! Bad breakfast! [puts hand in mouth and punches it down] You go in my tummy!”
 
 ## S7 E150a — Krusty Dogs
-URL: https://watchwithkids.vercel.app/ep/spongebob/07150a.html
+URL: https://watchwiththekids.com/ep/spongebob/07150a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E326b — Krusty Kafeteria
-URL: https://watchwithkids.vercel.app/ep/spongebob/16326b.html
+URL: https://watchwiththekids.com/ep/spongebob/16326b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - They enter the cafeteria with easy expressions at first, then are shocked to see a bunch of students with empty stomachs craving sustenance as they groan and moan.…
 
 ## S10 E208b — Krusty Katering
-URL: https://watchwithkids.vercel.app/ep/spongebob/10208b.html
+URL: https://watchwiththekids.com/ep/spongebob/10208b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E233b — Krusty Kleaners
-URL: https://watchwithkids.vercel.app/ep/spongebob/11233b.html
+URL: https://watchwiththekids.com/ep/spongebob/11233b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S12 E267a — Krusty Koncessionaires
-URL: https://watchwithkids.vercel.app/ep/spongebob/12267a.html
+URL: https://watchwiththekids.com/ep/spongebob/12267a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Squidward: “Now, I if can passes find Claire St. Claire! Oh, I'm sure he met a fellow godstick aficionado play his instrument [along the way, he encounters a guard who tries to beat him up.] Excuse me, Janitor, do you know where…”
 
 ## S3 E50b — Krusty Krab Training Video
-URL: https://watchwithkids.vercel.app/ep/spongebob/0350b.html
+URL: https://watchwiththekids.com/ep/spongebob/0350b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3113,7 +3113,7 @@ Watch for:
   - Young Mr. Krabs laughs while drinking his soda. The scene transitions to a tired Mr. Krabs, sitting depressed in a room with a light at the window.
 
 ## S6 E113a — Krusty Krushers
-URL: https://watchwithkids.vercel.app/ep/spongebob/06113a.html
+URL: https://watchwiththekids.com/ep/spongebob/06113a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -3122,28 +3122,28 @@ Watch for:
   - They both get punched more and more until they turn to liquid. Wrestler #1 gargles SpongeBob and Patrick and spits them out into the drain. The crowd groans as they slosh down the drain. An impatient Mr.…
 
 ## S2 E36b — Krusty Love
-URL: https://watchwithkids.vercel.app/ep/spongebob/0236b.html
+URL: https://watchwiththekids.com/ep/spongebob/0236b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Mrs. Puff: “You're a very sweet man, Mr. Krabs. [Mrs. Puff kisses him and his eyes bend into the shape of a heart]”
 
 ## S4 E69a — Krusty Towers
-URL: https://watchwithkids.vercel.app/ep/spongebob/0469a.html
+URL: https://watchwiththekids.com/ep/spongebob/0469a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Mr. Krabs: “Quit? You can't quit! [Squidward walks out naked and reenters with Hawaiian-styled clothes. Squidward rings the bell] Welcome to the Krusty Towers... Squidward?!”
 
 ## S12 E263b — Kwarantined Krab
-URL: https://watchwithkids.vercel.app/ep/spongebob/12263b.html
+URL: https://watchwiththekids.com/ep/spongebob/12263b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “Wait! I'll go willingly. I feel fine, but... I don't want to risk infecting my friends. Especially you, Squidward. [kisses his cheek. Squidward screams and sprays his cheek with disinfectant.…”
 
 ## S1 E18a — Lake Crashers
-URL: https://watchwithkids.vercel.app/ep/spongebob/0118a.html
+URL: https://watchwiththekids.com/ep/spongebob/0118a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3156,7 +3156,7 @@ Watch for:
   - The derby vehicles continue driving, dodging Pearl as she continues to crawl. A tire falls off and rolls near her. Pearl picks up the ice cream, and the camera zooms in on a spectator drinking something.
 
 ## S9 E199b — Lame and Fortune
-URL: https://watchwithkids.vercel.app/ep/spongebob/09199b.html
+URL: https://watchwiththekids.com/ep/spongebob/09199b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3164,7 +3164,7 @@ Watch for:
   - Incidental 115 and Incidental 114: Thanks, fortune cookie! [resumes kissing]
 
 ## S11 E219b — Larry the Floor Manager
-URL: https://watchwithkids.vercel.app/ep/spongebob/11219b.html
+URL: https://watchwiththekids.com/ep/spongebob/11219b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -3177,7 +3177,7 @@ Watch for:
   - Larry: “No, you gotta keep your elbow—[SpongeBob shoots a Krabby Patty into Larry's mouth and he chews on it; SpongeBob blows on his slingshot and Larry eventually gives in as he swallows the patty] Oh!…”
 
 ## S9 E195b — Larry's Gym
-URL: https://watchwithkids.vercel.app/ep/spongebob/09195b.html
+URL: https://watchwiththekids.com/ep/spongebob/09195b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -3188,7 +3188,7 @@ Watch for:
   - SpongeBob runs off to Larry's gym as Squidward's face pops back out. The scene changes to people coming in and out of the gym. Larry, who is now extremely obese, is still at his desk working on his paperwork.
 
 ## S1 E1a — Late for Breakfast
-URL: https://watchwithkids.vercel.app/ep/spongebob/011a.html
+URL: https://watchwiththekids.com/ep/spongebob/011a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3197,7 +3197,7 @@ Watch for:
   - Patrick: “Leedle-leedle-leedle-leedle-leedle! [falls and hits his head on the floor] Morning, Mom. [kisses]”
 
 ## S16 E325a — Laundro-Madness
-URL: https://watchwithkids.vercel.app/ep/spongebob/16325a.html
+URL: https://watchwiththekids.com/ep/spongebob/16325a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3206,7 +3206,7 @@ Watch for:
   - Patrick: “[laughs as he runs by naked]”
 
 ## S5 E91b — Le Big Switch
-URL: https://watchwithkids.vercel.app/ep/spongebob/0591b.html
+URL: https://watchwiththekids.com/ep/spongebob/0591b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3217,7 +3217,7 @@ Watch for:
   - SpongeBob: “You got it, Mr. Krabs. [Blows another kiss. Squidward swallows it and starts choking. Mr. Krabs and SpongeBob laugh]”
 
 ## S3 E43b — Legend of the Lost Bathroom
-URL: https://watchwithkids.vercel.app/ep/spongebob/0343b.html
+URL: https://watchwiththekids.com/ep/spongebob/0343b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3228,39 +3228,39 @@ Watch for:
   - Several toilet rolls scroll past the screen as it transitions to Patrick drinking out of a coffee mug.
 
 ## Ep 414 — Legend of the Lost Spatula
-URL: https://watchwithkids.vercel.app/ep/spongebob/00414.html
+URL: https://watchwiththekids.com/ep/spongebob/00414.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 415 — Leo
-URL: https://watchwithkids.vercel.app/ep/spongebob/00415.html
+URL: https://watchwiththekids.com/ep/spongebob/00415.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 416 — Lessons Learned
-URL: https://watchwithkids.vercel.app/ep/spongebob/00416.html
+URL: https://watchwiththekids.com/ep/spongebob/00416.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E58b — Li'l Past-Cals
-URL: https://watchwithkids.vercel.app/ep/spongebob/0458b.html
+URL: https://watchwiththekids.com/ep/spongebob/0458b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E235b — Library Cards
-URL: https://watchwithkids.vercel.app/ep/spongebob/11235b.html
+URL: https://watchwiththekids.com/ep/spongebob/11235b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E181a — License to Milkshake
-URL: https://watchwithkids.vercel.app/ep/spongebob/09181a.html
+URL: https://watchwiththekids.com/ep/spongebob/09181a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “I'll show you! I'll show you all I can make a milkshake! [Marches off. Bubble transition to SpongeBob riding a motorcycle to a sunset. Cue montage with the other cadets shooting cherries at the milkshake target.…”
 
 ## S10 E210a — Life Insurance
-URL: https://watchwithkids.vercel.app/ep/spongebob/10210a.html
+URL: https://watchwiththekids.com/ep/spongebob/10210a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3268,24 +3268,24 @@ Watch for:
   - Patrick: “Hey, SpongeBob! [notices SpongeBob in his underwear] You're in your underwear. That's cool. [shoves a large envelope onto SpongeBob's face] I got your mail. What is it?”
 
 ## Ep 421 — Life Lessons from Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/00421.html
+URL: https://watchwiththekids.com/ep/spongebob/00421.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E27b — Life of Crime
-URL: https://watchwithkids.vercel.app/ep/spongebob/0227b.html
+URL: https://watchwiththekids.com/ep/spongebob/0227b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E261a — Lighthouse Louie
-URL: https://watchwithkids.vercel.app/ep/spongebob/12261a.html
+URL: https://watchwiththekids.com/ep/spongebob/12261a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Mrs. Puff is about to meditate and turns on the music. Quickly afterwards, the meditation music becomes rock music and Mrs. Puff starts rocking.…
 
 ## Ep 424 — Lights, Camera, Pants! (home console)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00424.html
+URL: https://watchwiththekids.com/ep/spongebob/00424.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -3294,12 +3294,12 @@ Watch for:
   - Inside the Krusty Krab, Mermaid Man and Barnacle Boy are eating a couple of Krabby Patties and French fries and drinking cups of soda.
 
 ## Ep 425 — Lights, Camera, Pants! (PC)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00425.html
+URL: https://watchwiththekids.com/ep/spongebob/00425.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E426 — List of transcripts
-URL: https://watchwithkids.vercel.app/ep/spongebob/01426.html
+URL: https://watchwiththekids.com/ep/spongebob/01426.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3311,14 +3311,14 @@ Watch for:
   - A Space Affair to Remember
 
 ## S9 E182a — Little Yellow Book
-URL: https://watchwithkids.vercel.app/ep/spongebob/09182a.html
+URL: https://watchwiththekids.com/ep/spongebob/09182a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Squidward: “Oh, oh, this is the best one yet. Get this: "If I hear the Bikini Bottom Municipal Anthem, I can't help but take off all my clothes and dance around in my underwear!" [everyone laughs] Quiet, quiet, quiet. Watch this.…”
 
 ## S13 E268b — Lockdown for Love
-URL: https://watchwithkids.vercel.app/ep/spongebob/13268b.html
+URL: https://watchwiththekids.com/ep/spongebob/13268b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3328,12 +3328,12 @@ Watch for:
   - Karen: “Oh, Ray Ray. That's the most romantic thing you've ever said! [pulls Patrick up to her and kisses him]”
 
 ## Ep 429 — Loop dee Loop
-URL: https://watchwithkids.vercel.app/ep/spongebob/00429.html
+URL: https://watchwiththekids.com/ep/spongebob/00429.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E34b — Lords of the Larp
-URL: https://watchwithkids.vercel.app/ep/spongebob/0234b.html
+URL: https://watchwiththekids.com/ep/spongebob/0234b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -3342,14 +3342,14 @@ Watch for:
   - A girl camper is drinking from a drinking fountain.
 
 ## S10 E213b — Lost and Found
-URL: https://watchwithkids.vercel.app/ep/spongebob/10213b.html
+URL: https://watchwiththekids.com/ep/spongebob/10213b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - The candies are shaped like a turkey, a suckling pig, a bottle of wine, and a cornucopia with fruit.
 
 ## S9 E190a — Lost in Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/09190a.html
+URL: https://watchwiththekids.com/ep/spongebob/09190a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3361,24 +3361,24 @@ Watch for:
   - SpongeBob: “What ya doing there, drinking soda?”
 
 ## S1 E3a — Lost in Couch
-URL: https://watchwithkids.vercel.app/ep/spongebob/013a.html
+URL: https://watchwiththekids.com/ep/spongebob/013a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Bunny: “[next to Rube's china hutch, holding underwear] Where's my big boy? I brought you a change of underwear.”
 
 ## S7 E151b — Love That Squid
-URL: https://watchwithkids.vercel.app/ep/spongebob/07151b.html
+URL: https://watchwiththekids.com/ep/spongebob/07151b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E29b — Low Falutin'
-URL: https://watchwithkids.vercel.app/ep/spongebob/0229b.html
+URL: https://watchwiththekids.com/ep/spongebob/0229b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E283a — Ma and Pa's Big Hurrah
-URL: https://watchwithkids.vercel.app/ep/spongebob/13283a.html
+URL: https://watchwiththekids.com/ep/spongebob/13283a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3388,7 +3388,7 @@ Watch for:
   - The opening bell rings, and wrestlers pound their fists together. Margaret does stretches. Harold runs in place, winds up a punch, and runs. The wrestler bounces him into the ground.…
 
 ## S2 E27a — Mad Science Squirrel
-URL: https://watchwithkids.vercel.app/ep/spongebob/0227a.html
+URL: https://watchwiththekids.com/ep/spongebob/0227a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3397,17 +3397,17 @@ Watch for:
   - Plankton: “Heh, [sets down cup] that's a bunch of hooey. I've been drinking coffee all my life. [grunts as he reaches for a sip, then sees Sandy working on an equation on the chalkboard] No, no, don't bother with that.…”
 
 ## S5 E69a — Make Yourself Pat Home
-URL: https://watchwithkids.vercel.app/ep/spongebob/0569a.html
+URL: https://watchwiththekids.com/ep/spongebob/0569a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E319a — Making Waves
-URL: https://watchwithkids.vercel.app/ep/spongebob/15319a.html
+URL: https://watchwiththekids.com/ep/spongebob/15319a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E197a — Mall Girl Pearl
-URL: https://watchwithkids.vercel.app/ep/spongebob/09197a.html
+URL: https://watchwiththekids.com/ep/spongebob/09197a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3417,7 +3417,7 @@ Watch for:
   - Marina holds a hot-dog with extra string as we shift to the right to see another store: Scorched Coral. The place looks like a bomb and the word 'scorched' has fire letters.…
 
 ## S11 E219a — Man Ray Returns
-URL: https://watchwithkids.vercel.app/ep/spongebob/11219a.html
+URL: https://watchwiththekids.com/ep/spongebob/11219a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -3427,14 +3427,14 @@ Watch for:
   - Squidward: “It's not a bra! It's a pectoral girdle. I don't care about my clothes. I just wanna get away from you two. And while I'm away—huh...”
 
 ## S13 E287b — Mandatory Music
-URL: https://watchwithkids.vercel.app/ep/spongebob/13287b.html
+URL: https://watchwiththekids.com/ep/spongebob/13287b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - "Dopey Dick"
 
 ## S9 E196b — Married to Money
-URL: https://watchwithkids.vercel.app/ep/spongebob/09196b.html
+URL: https://watchwiththekids.com/ep/spongebob/09196b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -3453,7 +3453,7 @@ Watch for:
   - Bubble transition to the "Fancy!" restaurant. A green fish wearing a purple shirt walks down the road past the restaurant. Inside, elegant music plays as a waiter walks past carrying a covered platter and a bottle of…
 
 ## S2 E35a — Mascot Mayhem
-URL: https://watchwithkids.vercel.app/ep/spongebob/0235a.html
+URL: https://watchwiththekids.com/ep/spongebob/0235a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -3462,19 +3462,19 @@ Watch for:
   - Sea bear: “[punches the outhouse, then gets knocked over by the door opening]”
 
 ## S5 E67a — Mass Gramp-Nosis
-URL: https://watchwithkids.vercel.app/ep/spongebob/0567a.html
+URL: https://watchwiththekids.com/ep/spongebob/0567a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidina: “[sitting on studio chair, wearing blindfold, headphones, and drinking] Not seeing or hearing you, but I'm assuming it's goin' great!”
 
 ## Ep 446 — Me Money
-URL: https://watchwithkids.vercel.app/ep/spongebob/00446.html
+URL: https://watchwiththekids.com/ep/spongebob/00446.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E6a — Mermaid Man and Barnacle Boy
-URL: https://watchwithkids.vercel.app/ep/spongebob/016a.html
+URL: https://watchwiththekids.com/ep/spongebob/016a.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3484,7 +3484,7 @@ Watch for:
   - SpongeBob: “Do you remember the time the food supply in Atlantis was running low? So you invented a ray gun that make things grow six times their size to shoot at the kelp gardens.…”
 
 ## S1 E20b — Mermaid Man and Barnacle Boy II
-URL: https://watchwithkids.vercel.app/ep/spongebob/0120b.html
+URL: https://watchwiththekids.com/ep/spongebob/0120b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3493,12 +3493,12 @@ Watch for:
   - TV Announcer: “Fighting a rogues gallery of villains [Mermaid Man and Barnacle Boy jump into the scene. It then cuts to a close-up of the Sinister Slug cutout.] like the Sinister Slug, [Barnacle Boy hits it and a pow-bubble with…”
 
 ## S2 E31a — Mermaid Man and Barnacle Boy III
-URL: https://watchwithkids.vercel.app/ep/spongebob/0231a.html
+URL: https://watchwiththekids.com/ep/spongebob/0231a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E45a — Mermaid Man and Barnacle Boy IV
-URL: https://watchwithkids.vercel.app/ep/spongebob/0345a.html
+URL: https://watchwiththekids.com/ep/spongebob/0345a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3512,7 +3512,7 @@ Watch for:
   - Sandy: “And I need an elevator to climb one stair! Hi-yah! [punches his brain]”
 
 ## S3 E52b — Mermaid Man and Barnacle Boy V
-URL: https://watchwithkids.vercel.app/ep/spongebob/0352b.html
+URL: https://watchwiththekids.com/ep/spongebob/0352b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3522,14 +3522,14 @@ Watch for:
   - Barnacle Boy: “I'm tired of playing second banana to a man who wears a bra! From now on, I wanna be called Barnacle Man! And, I'm through with protecting citizens that don't respect me!”
 
 ## S8 E163a — Mermaid Man Begins
-URL: https://watchwithkids.vercel.app/ep/spongebob/08163a.html
+URL: https://watchwiththekids.com/ep/spongebob/08163a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Mermaid Man: “[slapping his temples] Oh, sorry, boys... There I was in the ocean, the only human who could breathe underwater. [flashback resumes] Alas, such a life got lonely real fast; I had no other humans to talk to.…”
 
 ## S5 E94b — Mermaid Man vs. SpongeBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/0594b.html
+URL: https://watchwiththekids.com/ep/spongebob/0594b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3537,12 +3537,12 @@ Watch for:
   - Plankton: “Say, you two look like a couple of ladies' men, am I right? [An ugly image of Mermaid Man and Barnacle Boy is seen. A scream and glass breaking can be heard.] I knew it! Just look at that heroic chin.…”
 
 ## S2 E30b — Mermaid Men and Barnacle Boys
-URL: https://watchwithkids.vercel.app/ep/spongebob/0230b.html
+URL: https://watchwiththekids.com/ep/spongebob/0230b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S10 E205b — Mermaid Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/10205b.html
+URL: https://watchwiththekids.com/ep/spongebob/10205b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3555,17 +3555,17 @@ Watch for:
   - The security guard rips his shirt and bulks up. He beats up both Mr. Krabs and Squidward, leaving them injured. SpongeBob gives them a thumbs up.…
 
 ## Ep 456 — Mexico 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00456.html
+URL: https://watchwiththekids.com/ep/spongebob/00456.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 457 — Mexico 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00457.html
+URL: https://watchwiththekids.com/ep/spongebob/00457.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E55b — Mid-Life Crustacean
-URL: https://watchwithkids.vercel.app/ep/spongebob/0355b.html
+URL: https://watchwiththekids.com/ep/spongebob/0355b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3577,7 +3577,7 @@ Watch for:
   - Mr. Krabs: “[seethes with fury] I'm feeling like a total barnacle head! [furiously swings the screaming kids around and around then off his hat] You think this is cool?! How about this?!…”
 
 ## S1 E13b — Mid-Season Finale
-URL: https://watchwithkids.vercel.app/ep/spongebob/0113b.html
+URL: https://watchwiththekids.com/ep/spongebob/0113b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3588,12 +3588,12 @@ Watch for:
   - She swats the air, which causes the mime to act like he has been slapped. He falls over, holding a flower.
 
 ## S1 E6a — Midnight Snack Attack
-URL: https://watchwithkids.vercel.app/ep/spongebob/016a.html
+URL: https://watchwiththekids.com/ep/spongebob/016a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S10 E207a — Mimic Madness
-URL: https://watchwithkids.vercel.app/ep/spongebob/10207a.html
+URL: https://watchwiththekids.com/ep/spongebob/10207a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Fat-shaming — 2 moment(s)
@@ -3601,7 +3601,7 @@ Watch for:
   - SpongeBob: “I'm ready! I'm ready! [jumps in excitement] I'm ready! I remember! I know who I am! I am SpongeBob SquarePants, and yes, I do like cooking with lard! [holds up his spatula with lard]”
 
 ## S12 E252a — Mind the Gap
-URL: https://watchwithkids.vercel.app/ep/spongebob/12252a.html
+URL: https://watchwiththekids.com/ep/spongebob/12252a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3612,24 +3612,24 @@ Watch for:
   - SpongeBob: “Oh, boy, would I? That sounds so cool. [gently punches Squidward's burnt hand]”
 
 ## S3 E58a — Missing Identity
-URL: https://watchwithkids.vercel.app/ep/spongebob/0358a.html
+URL: https://watchwiththekids.com/ep/spongebob/0358a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E130b — Model Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/07130b.html
+URL: https://watchwiththekids.com/ep/spongebob/07130b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Director: “[with a German accent] Very well. [through a megaphone] Lose the pants! [a claw snatches SpongeBob's pants, making him naked] Hans! Where's my star?! [a live-action hand comes out of a dressing room and grabs SpongeBob]”
 
 ## Ep 465 — Moldy Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/00465.html
+URL: https://watchwiththekids.com/ep/spongebob/00465.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E298a — Momageddon
-URL: https://watchwithkids.vercel.app/ep/spongebob/14298a.html
+URL: https://watchwiththekids.com/ep/spongebob/14298a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3639,7 +3639,7 @@ Watch for:
   - Bubble Bass: “[drinking soda from lid] How pathetic. You three clearly don't know how to appreciate the [hugs soda cup] smothering embrace of motherly love.”
 
 ## S5 E88a — Money Talks
-URL: https://watchwithkids.vercel.app/ep/spongebob/0588a.html
+URL: https://watchwiththekids.com/ep/spongebob/0588a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3650,36 +3650,36 @@ Watch for:
   - Mr. Krabs: “[he has a 5 o'clock shadow] Dutchman, you cheated me! Take this horrible curse away! [weeps] I want a refund!”
 
 ## S8 E161a — Mooncation
-URL: https://watchwithkids.vercel.app/ep/spongebob/08161a.html
+URL: https://watchwiththekids.com/ep/spongebob/08161a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “Oh, Sandy. I'm sorry I activated it! How was I to know it was hooked up to your doorbell?”
 
 ## S14 E301a — Mooned!
-URL: https://watchwithkids.vercel.app/ep/spongebob/14301a.html
+URL: https://watchwiththekids.com/ep/spongebob/14301a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 470 — More Feeling
-URL: https://watchwithkids.vercel.app/ep/spongebob/00470.html
+URL: https://watchwiththekids.com/ep/spongebob/00470.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E177b — Move It or Lose It
-URL: https://watchwithkids.vercel.app/ep/spongebob/08177b.html
+URL: https://watchwiththekids.com/ep/spongebob/08177b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidward: “[he is outside his home, with an umbrella on top of him, sitting on a chair, and drinking a cup of tea, happily]”
 
 ## Ep 472 — Movie Etiquette
-URL: https://watchwithkids.vercel.app/ep/spongebob/00472.html
+URL: https://watchwiththekids.com/ep/spongebob/00472.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E31a — Movie Stars
-URL: https://watchwithkids.vercel.app/ep/spongebob/0231a.html
+URL: https://watchwiththekids.com/ep/spongebob/0231a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3697,7 +3697,7 @@ Watch for:
   - Cecil is drinking from a variety of soda cans, including from a hat and tied to his shirt.
 
 ## S11 E229b — Moving Bubble Bass
-URL: https://watchwithkids.vercel.app/ep/spongebob/11229b.html
+URL: https://watchwiththekids.com/ep/spongebob/11229b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3705,17 +3705,17 @@ Watch for:
   - Bubble Bass: “[underwear lands on Bubble Bass's face, and a fly is heard buzzing. SpongeBob and Patrick, on a wagon, are laughing in the background] All I need to do is find two able-bodied idiots.…”
 
 ## S8 E161b — Mr. Krabs Takes a Vacation
-URL: https://watchwithkids.vercel.app/ep/spongebob/08161b.html
+URL: https://watchwiththekids.com/ep/spongebob/08161b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E69b — Mrs. Puff, You're Fired
-URL: https://watchwithkids.vercel.app/ep/spongebob/0469b.html
+URL: https://watchwiththekids.com/ep/spongebob/0469b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E36b — Much Tofu About Nothing
-URL: https://watchwithkids.vercel.app/ep/spongebob/0236b.html
+URL: https://watchwiththekids.com/ep/spongebob/0236b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3730,21 +3730,21 @@ Watch for:
   - He stabs Shmeat in the stomach with his carrot, making him spit out the kiss. Todd gets kissed on the cheek and blushes.
 
 ## S1 E11a — MuscleBob BuffPants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0111a.html
+URL: https://watchwiththekids.com/ep/spongebob/0111a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Sandy: “Ding ding! [punches SpongeBob out of the ring. Later, Sandy starts up her exercise wheel with SpongeBob on it. SpongeBob pants while the wheel goes faster and makes him trip all over the wheel] Feeling the burn?”
 
 ## S15 E316b — MuseBob ModelPants
-URL: https://watchwithkids.vercel.app/ep/spongebob/15316b.html
+URL: https://watchwiththekids.com/ep/spongebob/15316b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Squidward: “[walks away backwards] Y-Y-You don't understand. But-but... [yelps as the kids are now near him, which each rip off a part of their shirts and beat him up as SpongeBob and Patrick run past] Time for an even more direct…”
 
 ## S11 E232a — Mustard O' Mine
-URL: https://watchwithkids.vercel.app/ep/spongebob/11232a.html
+URL: https://watchwiththekids.com/ep/spongebob/11232a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -3757,43 +3757,43 @@ Watch for:
   - SpongeBob, Patrick, Squidward: [dancing around in circles while twisting SpongeBob's body] ♪Look at all the mustard flow! Look at all the mustard flow! That golden yellow fatty acid treat!♪
 
 ## S9 E204a — Mutiny on the Krusty
-URL: https://watchwithkids.vercel.app/ep/spongebob/09204a.html
+URL: https://watchwiththekids.com/ep/spongebob/09204a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - However, Mr. Krabs is still alive and is beating up the monster inside. He makes the monster spit Squidward out. Squidward frantically runs back into the restaurant crying. Mr.…
 
 ## S1 E10a — My Fair Nobby
-URL: https://watchwithkids.vercel.app/ep/spongebob/0110a.html
+URL: https://watchwiththekids.com/ep/spongebob/0110a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E317b — My Father the Boat
-URL: https://watchwithkids.vercel.app/ep/spongebob/15317b.html
+URL: https://watchwiththekids.com/ep/spongebob/15317b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E289a — My Friend Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/13289a.html
+URL: https://watchwiththekids.com/ep/spongebob/13289a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Krabby Patty: “[looking inside SpongeBob's mouth] Great teeth, [SpongeBob's tongue turns into a flexing bicep] healthy tongue... [minty breath comes out of the mouth and kisses it] Minty-fresh breath.…”
 
 ## S11 E231a — My Leg!
-URL: https://watchwithkids.vercel.app/ep/spongebob/11231a.html
+URL: https://watchwiththekids.com/ep/spongebob/11231a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Nurse Bazooka: “[kisses Fred] Mwah, mwah, mwah.”
 
 ## S3 E42b — My Pretty Seahorse
-URL: https://watchwithkids.vercel.app/ep/spongebob/0342b.html
+URL: https://watchwiththekids.com/ep/spongebob/0342b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S17 E339a — My Tighty Whiteys
-URL: https://watchwithkids.vercel.app/ep/spongebob/17339a.html
+URL: https://watchwiththekids.com/ep/spongebob/17339a.html
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — not kid-friendly)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3819,7 +3819,7 @@ Watch for:
   - SpongeBob: “[uses the underwear as a swing but pushes himself too far and goes off flying as only his underwear is still shown] ♪ So cozy and comfy, so cottony and cuddly ♪ [rides his underwear like a surfboard in a live-action…”
 
 ## S12 E259b — My Two Krabses
-URL: https://watchwithkids.vercel.app/ep/spongebob/12259b.html
+URL: https://watchwiththekids.com/ep/spongebob/12259b.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3832,7 +3832,7 @@ Watch for:
   - SpongeBob: “Stop! This is all a big misunderstanding- [Mr. Krabs punches SpongeBob and Patrick, as they fall, and Chum Krabs gets up and releases chum in his mouth, and beats Mr.…”
 
 ## S3 E44a — Nasty Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/0344a.html
+URL: https://watchwiththekids.com/ep/spongebob/0344a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3841,26 +3841,26 @@ Watch for:
   - Officer Nancy: “Step aside. You people act like you've committed a murder.”
 
 ## S1 E9a — Nature Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/019a.html
+URL: https://watchwiththekids.com/ep/spongebob/019a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Shows reality of SpongeBob, still dreaming about becoming a jellyfish at the kitchen. The grill is on fire, smoke clearly coming out of it
 
 ## S1 E4a — Naughty Nautical Neighbors
-URL: https://watchwithkids.vercel.app/ep/spongebob/014a.html
+URL: https://watchwiththekids.com/ep/spongebob/014a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Squidward: “Wow. Squidward, this is the best soufflé you have ever created. [blows kiss] Congratulations, chef!”
 
 ## S6 E102b — Nautical Novice
-URL: https://watchwithkids.vercel.app/ep/spongebob/06102b.html
+URL: https://watchwiththekids.com/ep/spongebob/06102b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E328b — Near-Mint Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/16328b.html
+URL: https://watchwiththekids.com/ep/spongebob/16328b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Fat-shaming — 2 moment(s)
@@ -3868,17 +3868,17 @@ Watch for:
   - Plankton: “[comes out of a Man Ray mask; cackles] I'll finally obtain a Krabby Patty, thanks to that goofy geek! [goes up to the shelf, attempts to open the container containing the Fatty Patty, but he falls off and knocks over a…”
 
 ## S14 E299b — Necro-Nom-Nom-Nom-I-Con
-URL: https://watchwithkids.vercel.app/ep/spongebob/14299b.html
+URL: https://watchwiththekids.com/ep/spongebob/14299b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E70a — Neighborhood Wash
-URL: https://watchwithkids.vercel.app/ep/spongebob/0570a.html
+URL: https://watchwiththekids.com/ep/spongebob/0570a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E21b — Neptune's Ball
-URL: https://watchwithkids.vercel.app/ep/spongebob/0121b.html
+URL: https://watchwiththekids.com/ep/spongebob/0121b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3887,7 +3887,7 @@ Watch for:
   - Squidina's dress gets caught on the screw of the turntable. She runs away and drags the soundsystem with her.
 
 ## S1 E19b — Neptune's Spatula
-URL: https://watchwithkids.vercel.app/ep/spongebob/0119b.html
+URL: https://watchwiththekids.com/ep/spongebob/0119b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3896,7 +3896,7 @@ Watch for:
   - King Neptune: “[snaps fingers] Also, the royal fry cook wears the red underwear. [SpongeBob shows his red underwear] No, blue. [SpongeBob shows his blue underwear] Uh, the royal fry cook's wallet contains...…”
 
 ## S5 E85a — New Digs
-URL: https://watchwithkids.vercel.app/ep/spongebob/0585a.html
+URL: https://watchwiththekids.com/ep/spongebob/0585a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -3909,17 +3909,17 @@ Watch for:
   - SpongeBob: “Done. [a bunch of Krabby Patties are in the kitchen ready for serving. SpongeBob punches his time card at 8:59] All that, before we even open up our doors, sir.”
 
 ## S7 E151a — New Fish in Town
-URL: https://watchwithkids.vercel.app/ep/spongebob/07151a.html
+URL: https://watchwiththekids.com/ep/spongebob/07151a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 500 — New Home
-URL: https://watchwithkids.vercel.app/ep/spongebob/00500.html
+URL: https://watchwiththekids.com/ep/spongebob/00500.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E73a — New Leaf
-URL: https://watchwithkids.vercel.app/ep/spongebob/0473a.html
+URL: https://watchwiththekids.com/ep/spongebob/0473a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -3928,77 +3928,77 @@ Watch for:
   - Plankton: “You forgot something. [throws the formula back at Mr. Krabs] Can't you understand I've wasted so much time chasing after you? And now I have something that's mine. And it makes me happy. [walks off]”
 
 ## S3 E53a — New Student Starfish
-URL: https://watchwithkids.vercel.app/ep/spongebob/0353a.html
+URL: https://watchwiththekids.com/ep/spongebob/0353a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Both Patrick and SpongeBob start to punch. The group of students start to quiet down as they notice SpongeBob and Patrick are punching, but no hits are landing, and they're only flailing their arms around in circles
 
 ## Ep 503 — Nick DVD Bingo
-URL: https://watchwithkids.vercel.app/ep/spongebob/00503.html
+URL: https://watchwiththekids.com/ep/spongebob/00503.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 504 — Nick Kit Presentation
-URL: https://watchwithkids.vercel.app/ep/spongebob/00504.html
+URL: https://watchwiththekids.com/ep/spongebob/00504.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 505 — Nick or Treat Sweepstakes
-URL: https://watchwithkids.vercel.app/ep/spongebob/00505.html
+URL: https://watchwiththekids.com/ep/spongebob/00505.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - As the narrator speaks, SpongeBob sets down a punch bowl and blows up a balloon. He accidentally sucks the balloon in and floats up briefly before the screen transitions to some live action snacks and an address on the…
 
 ## Ep 506 — Nick Takes Over the Super Bowl
-URL: https://watchwithkids.vercel.app/ep/spongebob/00506.html
+URL: https://watchwiththekids.com/ep/spongebob/00506.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 507 — Nickelodeon All-Star Brawl 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00507.html
+URL: https://watchwiththekids.com/ep/spongebob/00507.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 508 — Nickelodeon Blimp
-URL: https://watchwithkids.vercel.app/ep/spongebob/00508.html
+URL: https://watchwiththekids.com/ep/spongebob/00508.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 509 — Nicktoons Battle
-URL: https://watchwithkids.vercel.app/ep/spongebob/00509.html
+URL: https://watchwiththekids.com/ep/spongebob/00509.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Debbie Thornberry: “Eww! [jumps in the air and turns on the hair dryer, burning the tips of Helga's hair. She spins and hearts are thrown everywhere. She kisses Chuckie.]”
 
 ## Ep 510 — Nicktoons Freeze Frame Frenzy
-URL: https://watchwithkids.vercel.app/ep/spongebob/00510.html
+URL: https://watchwiththekids.com/ep/spongebob/00510.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## Ep 511 — Nicktoons Unite! (home console)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00511.html
+URL: https://watchwiththekids.com/ep/spongebob/00511.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Jimmy: “Your holograms are right, Timmy. We must work together to stop the Syndicate. I know that you've each defeated these guys individually. That's why I brought you all here. If we combine our knowledge, we can beat them.”
 
 ## Ep 512 — Nickverse
-URL: https://watchwithkids.vercel.app/ep/spongebob/00512.html
+URL: https://watchwiththekids.com/ep/spongebob/00512.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E82b — Night Light
-URL: https://watchwithkids.vercel.app/ep/spongebob/0582b.html
+URL: https://watchwiththekids.com/ep/spongebob/0582b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “Great idea, Mr. Krabs. [that night, he browses Barg'N-Mart wearing his green pajamas and nightcap] Night light, night light... Oh! [sees a whole wall of them in different shapes and colors at the end of an aisle.…”
 
 ## S1 E16b — Night of the Living Stench
-URL: https://watchwithkids.vercel.app/ep/spongebob/0116b.html
+URL: https://watchwiththekids.com/ep/spongebob/0116b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4008,7 +4008,7 @@ Watch for:
   - Bubble transition to Squidward rigging a bucket of water above the door. He has aimed multiple toilet brushes at the door. He laughs and goes into his room, then welds his clarinet to a cord connected to a giant bottle…
 
 ## S17 E340a — Night School Knuckleheads
-URL: https://watchwithkids.vercel.app/ep/spongebob/17340a.html
+URL: https://watchwiththekids.com/ep/spongebob/17340a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -4017,7 +4017,7 @@ Watch for:
   - SpongeBob and Patrick walk in the hallway passing lockers, doors and students. One student is seen walking bored, another is seen walking to class with his book, another also walking to class with his bag, another is…
 
 ## S2 E31b — Nite Owls
-URL: https://watchwithkids.vercel.app/ep/spongebob/0231b.html
+URL: https://watchwiththekids.com/ep/spongebob/0231b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -4025,14 +4025,14 @@ Watch for:
   - Narlene: “[stops punching] SpongeBob? Patrick? [gets up] Sandy? What in tarnation? [picks up Nobby and lets him go]”
 
 ## S1 E13a — Nitwit Neighborhood News
-URL: https://watchwithkids.vercel.app/ep/spongebob/0113a.html
+URL: https://watchwiththekids.com/ep/spongebob/0113a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Patrick: “And a laundry pile-up causes a clean underwear shortage! [Ouchie drops down, the screen changes to "Star Inaction News"] Hmm? [sticks Ouchie on his head, who drills into him and buzzes] Ooh. We have incoming broken news!”
 
 ## S2 E30a — No Free Rides
-URL: https://watchwithkids.vercel.app/ep/spongebob/0230a.html
+URL: https://watchwiththekids.com/ep/spongebob/0230a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4040,19 +4040,19 @@ Watch for:
   - SpongeBob: “Hi, Boaty. [he runs his hand on the side of the boat and gasps] Boaty, you're cold! [he stands up and lays his socks on the side of the door] Take my socks.…”
 
 ## S6 E120a — No Hat for Pat
-URL: https://watchwithkids.vercel.app/ep/spongebob/06120a.html
+URL: https://watchwiththekids.com/ep/spongebob/06120a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Mr. Krabs: “Sorry, absolutely no refunds. [customers grumble and gang up on Mr. Krabs] Hey. Wait. Hold on there, what's the big idea? [customers tear up his clothes and money flies in the air] Whoa! Whoa! Good Gravy! I'm nak--no!…”
 
 ## S6 E107b — No Nose Knows
-URL: https://watchwithkids.vercel.app/ep/spongebob/06107b.html
+URL: https://watchwiththekids.com/ep/spongebob/06107b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E221a — No Pictures Please
-URL: https://watchwithkids.vercel.app/ep/spongebob/11221a.html
+URL: https://watchwiththekids.com/ep/spongebob/11221a.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4064,7 +4064,7 @@ Watch for:
   - Patrick: “This is my best friend SpongeBob. As you can see, he sucks his thumb when he sleeps. [sucks SpongeBob's thumb] Oh—wait, that's me. [sucks SpongeBob's thumb as the alarm clock in his stomach rings; he punches his…”
 
 ## S3 E48a — No Weenies Allowed
-URL: https://watchwithkids.vercel.app/ep/spongebob/0348a.html
+URL: https://watchwiththekids.com/ep/spongebob/0348a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -4072,14 +4072,14 @@ Watch for:
   - Patrick: “Oh, yeah. [invisible punches flying] No, please wait! [grunting as more invisible punches hit him and an elephant trumpet sound is heard when Patrick's head is hit.…”
 
 ## S6 E104a — Not Normal
-URL: https://watchwithkids.vercel.app/ep/spongebob/06104a.html
+URL: https://watchwiththekids.com/ep/spongebob/06104a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Patrick: “But first, I'll need a garden hose and a flatbed truck, and I'll need you to remove your trousers. [Cuts to people laughing at SpongeBob who is only in his underwear]”
 
 ## S2 E28b — Now Museum, Now You Don't
-URL: https://watchwithkids.vercel.app/ep/spongebob/0228b.html
+URL: https://watchwiththekids.com/ep/spongebob/0228b.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4105,38 +4105,38 @@ Watch for:
   - Cecil: “[dizzy] Is that all you got, burglar? [punches fists] Put 'em up. Put 'em up. [smacks a statue]”
 
 ## S2 E30a — Nut Madness
-URL: https://watchwithkids.vercel.app/ep/spongebob/0230a.html
+URL: https://watchwiththekids.com/ep/spongebob/0230a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E227b — Old Man Patrick
-URL: https://watchwithkids.vercel.app/ep/spongebob/11227b.html
+URL: https://watchwiththekids.com/ep/spongebob/11227b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E24b — Olly Olly Organ Free
-URL: https://watchwithkids.vercel.app/ep/spongebob/0124b.html
+URL: https://watchwiththekids.com/ep/spongebob/0124b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - A fist comes out and punches Patrick into the ceiling. He falls on his back. His stomach climbs out.
 
 ## S4 E73b — Once Bitten
-URL: https://watchwithkids.vercel.app/ep/spongebob/0473b.html
+URL: https://watchwiththekids.com/ep/spongebob/0473b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Mr. Krabs: “Arrgh, alright, but it's coming out of your paycheck.”
 
 ## S7 E137a — One Coarse Meal
-URL: https://watchwithkids.vercel.app/ep/spongebob/07137a.html
+URL: https://watchwiththekids.com/ep/spongebob/07137a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Mr. Krabs: “Ready ammunition! [SpongeBob takes off his Krusty Krab employee hat and it reveals a pea can. Mr. Krabs opens the can with his claw, and he pours all the peas into SpongeBob.…”
 
 ## S3 E46b — One Krabs Trash
-URL: https://watchwithkids.vercel.app/ep/spongebob/0346b.html
+URL: https://watchwiththekids.com/ep/spongebob/0346b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4152,7 +4152,7 @@ Watch for:
   - Mr. Krabs: “Well, that's a spirit breaker. [tosses the soda drinking hat away and breaks down crying]”
 
 ## S12 E247b — One Trick Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/12247b.html
+URL: https://watchwiththekids.com/ep/spongebob/12247b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -4161,19 +4161,19 @@ Watch for:
   - SpongeBob: “Oh, then you haven't seen anything yet! [he grabs a hold of Patrick's hand. The two spin around and then they disappear into a magic hat. Some confetti and a card come out of the hat as the two laugh.…”
 
 ## Ep 532 — Operation Krabby Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/00532.html
+URL: https://watchwiththekids.com/ep/spongebob/00532.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E9b — Opposite Day
-URL: https://watchwithkids.vercel.app/ep/spongebob/019b.html
+URL: https://watchwiththekids.com/ep/spongebob/019b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Squidward: “Drum? What drum? [puts the drum on the ground, punches a hole in it, and pulls out a wig] This is just my wig case! See? [puts on the wig, kicks the drum out of the way and frolics around] Come on, SpongeBob, tackle me!”
 
 ## S8 E157b — Oral Report
-URL: https://watchwithkids.vercel.app/ep/spongebob/08157b.html
+URL: https://watchwiththekids.com/ep/spongebob/08157b.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 8 moment(s)
@@ -4192,12 +4192,12 @@ Watch for:
   - The scene cuts to SpongeBob coming out of the kitchen with a Krabby Patty and gets shocked. We see a bunch of fish looking like zombies.
 
 ## Ep 535 — Order Up
-URL: https://watchwithkids.vercel.app/ep/spongebob/00535.html
+URL: https://watchwiththekids.com/ep/spongebob/00535.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S10 E214b — Out of the Picture
-URL: https://watchwithkids.vercel.app/ep/spongebob/10214b.html
+URL: https://watchwiththekids.com/ep/spongebob/10214b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -4208,7 +4208,7 @@ Watch for:
   - Art Appraiser: “Well, paintings can become much more valuable when the artist is no longer with us. You know. Out of the picture. [pretends to hang himself]”
 
 ## S1 E12b — Outhouse Outrage
-URL: https://watchwithkids.vercel.app/ep/spongebob/0112b.html
+URL: https://watchwiththekids.com/ep/spongebob/0112b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4218,7 +4218,7 @@ Watch for:
   - Patrick: “[narrating] Ahem... I woke up on my cloud as usual. [alarm clock floats by] Clouds aren't as comfortable as you think. Too wet and lumpy. I flew around the camp, but it was so peaceful I got bored.…”
 
 ## S6 E119b — Overbooked
-URL: https://watchwithkids.vercel.app/ep/spongebob/06119b.html
+URL: https://watchwiththekids.com/ep/spongebob/06119b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4226,19 +4226,19 @@ Watch for:
   - SpongeBob: “Uh, Sandy, I hate to delay the proceedings, but, uh, I forgot to mail in this mail-in rebate and, uh... I'll be right back. [everyone looks on angrily as SpongeBob runs to Mr.…”
 
 ## S15 E316a — Pablum Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/15316a.html
+URL: https://watchwiththekids.com/ep/spongebob/15316a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Plankton: “We did it! Nobody will ever see my naked baby photos again!”
 
 ## S17 E340b — Painfully Employed
-URL: https://watchwithkids.vercel.app/ep/spongebob/17340b.html
+URL: https://watchwiththekids.com/ep/spongebob/17340b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E19a — Painting with Squidward
-URL: https://watchwithkids.vercel.app/ep/spongebob/0119a.html
+URL: https://watchwiththekids.com/ep/spongebob/0119a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4250,31 +4250,31 @@ Watch for:
   - Sandy: “[arms on SpongeBob and Patrick's shoulders] We're gonna turn your mistery into ecstasy. Now give me a hand, boys. [they grab Squidward and pull him out] Yah!”
 
 ## Ep 542 — Pants-Casso
-URL: https://watchwithkids.vercel.app/ep/spongebob/00542.html
+URL: https://watchwiththekids.com/ep/spongebob/00542.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E38b — Parasite Pals
-URL: https://watchwithkids.vercel.app/ep/spongebob/0238b.html
+URL: https://watchwiththekids.com/ep/spongebob/0238b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Patrick: “My secret sausages! [SpongeBob inhales his underwear caught in between the sausage links] My secret underwear!”
 
 ## S16 E329a — Pardon My Wand
-URL: https://watchwithkids.vercel.app/ep/spongebob/16329a.html
+URL: https://watchwiththekids.com/ep/spongebob/16329a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[picks up Gary] Gare-bear! Mwah! [kisses him] What a day! I saw Howdini the Great do amazing things, [hiccups] and Sandy didn't believe in magic, [hiccups, summoning a sea bunny] but Howdini made her float up onstage…”
 
 ## S4 E56b — Partial Recall
-URL: https://watchwithkids.vercel.app/ep/spongebob/0456b.html
+URL: https://watchwiththekids.com/ep/spongebob/0456b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E51 — Party Pooper Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0351.html
+URL: https://watchwiththekids.com/ep/spongebob/0351.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4294,7 +4294,7 @@ Watch for:
   - Larry: “Larry, my man, you are looking good enough to eat! [the mirror shows a real lobster on a plate] Mmm-mm! Oh, yeah, baby. Could use a little teeth whitener, though. I'm sure SpongeBob won't mind.…”
 
 ## S12 E260b — Pat Hearts Squid
-URL: https://watchwithkids.vercel.app/ep/spongebob/12260b.html
+URL: https://watchwiththekids.com/ep/spongebob/12260b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4311,12 +4311,12 @@ Watch for:
   - Patrick: “[holding up his fork] More lard cake, please!”
 
 ## S5 E93b — Pat No Pay
-URL: https://watchwithkids.vercel.app/ep/spongebob/0593b.html
+URL: https://watchwiththekids.com/ep/spongebob/0593b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E47b — Pat Roast
-URL: https://watchwithkids.vercel.app/ep/spongebob/0347b.html
+URL: https://watchwiththekids.com/ep/spongebob/0347b.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4333,14 +4333,14 @@ Watch for:
   - Patrick: “[groans, then punches himself in two places at once]”
 
 ## S13 E270b — Pat the Dog
-URL: https://watchwithkids.vercel.app/ep/spongebob/13270b.html
+URL: https://watchwiththekids.com/ep/spongebob/13270b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob walks in, drinking a soda. Reacting to what he sees, it squirts out of his holes. The worms are racing and Patrick waves a flag as they pass the finish line. Marvin comes in and gasps.…
 
 ## S11 E225b — Pat the Horse
-URL: https://watchwithkids.vercel.app/ep/spongebob/11225b.html
+URL: https://watchwiththekids.com/ep/spongebob/11225b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4350,7 +4350,7 @@ Watch for:
   - Patrick neighs and runs to catch up. Mr. Krabs, who is not going to play fair, cheats by making a shortcut sign in hopes of getting SpongeBob and Patrick lost.
 
 ## S1 E8a — Pat's A Li'l Sinker
-URL: https://watchwithkids.vercel.app/ep/spongebob/018a.html
+URL: https://watchwiththekids.com/ep/spongebob/018a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -4358,14 +4358,14 @@ Watch for:
   - Sandy: “[jumps] Yah! [SpongeBob punches her backwards]”
 
 ## S1 E3b — Pat-a-thon
-URL: https://watchwithkids.vercel.app/ep/spongebob/013b.html
+URL: https://watchwiththekids.com/ep/spongebob/013b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patrick yells as GrandPat pushes him, the latter chuckling. Patrick then starts going down the track. He gets swallowed by an alligator, and spat out by the other one. He goes through the Wheel of Fire unharmed.…
 
 ## S3 E45a — Pat-per Route
-URL: https://watchwithkids.vercel.app/ep/spongebob/0345a.html
+URL: https://watchwiththekids.com/ep/spongebob/0345a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4373,7 +4373,7 @@ Watch for:
   - Squidward: “[grabs paper] Patrick, wait! [Lady Upturn's mansion is shown] The fanciest lady in Bikini Bottom lives in that house! If we don't get this delivery perfect, I can kiss that Golden Lobber goodbye!”
 
 ## S4 E60a — Pat-Tathlon
-URL: https://watchwithkids.vercel.app/ep/spongebob/0460a.html
+URL: https://watchwiththekids.com/ep/spongebob/0460a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4385,12 +4385,12 @@ Watch for:
   - Pat the Hapless: “[yells, breaking his hand free to punch Patrick and knock him over]”
 
 ## S12 E556 — Patchy's Playlist
-URL: https://watchwithkids.vercel.app/ep/spongebob/12556.html
+URL: https://watchwiththekids.com/ep/spongebob/12556.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E234a — Patnocchio
-URL: https://watchwithkids.vercel.app/ep/spongebob/11234a.html
+URL: https://watchwiththekids.com/ep/spongebob/11234a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -4402,14 +4402,14 @@ Watch for:
   - Patrick: “Where are you, Voice? [stretches his face and his eyes stretch out] Where are you? [sees SpongeBob, who is coming out of the restaurant]”
 
 ## Ep 558 — Patrick Reacts to a Football Game!
-URL: https://watchwithkids.vercel.app/ep/spongebob/00558.html
+URL: https://watchwiththekids.com/ep/spongebob/00558.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [laughs] Whoa, whoa, whoa, whoa! Casting magical spells to make the ball move like that. It should be illegal. He's cheating.
 
 ## S3 E43a — Patrick Show Land
-URL: https://watchwithkids.vercel.app/ep/spongebob/0343a.html
+URL: https://watchwiththekids.com/ep/spongebob/0343a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4421,22 +4421,22 @@ Watch for:
   - The rest of the family come in, wearing their night clothes. Patrick is drinking from a cup designed like his face.
 
 ## S4 E68a — Patrick SmartPants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0468a.html
+URL: https://watchwiththekids.com/ep/spongebob/0468a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 561 — Patrick Star Checks His Instaclam
-URL: https://watchwithkids.vercel.app/ep/spongebob/00561.html
+URL: https://watchwiththekids.com/ep/spongebob/00561.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E24b — Patrick Takes the Cake
-URL: https://watchwithkids.vercel.app/ep/spongebob/0124b.html
+URL: https://watchwiththekids.com/ep/spongebob/0124b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E276b — Patrick the Mailman
-URL: https://watchwithkids.vercel.app/ep/spongebob/13276b.html
+URL: https://watchwiththekids.com/ep/spongebob/13276b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4447,29 +4447,29 @@ Watch for:
   - Patrick: “[grabs a jellyfish net as well] En lard!”
 
 ## Ep 564 — Patrick the Snowman
-URL: https://watchwithkids.vercel.app/ep/spongebob/00564.html
+URL: https://watchwiththekids.com/ep/spongebob/00564.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E194a — Patrick! The Game
-URL: https://watchwithkids.vercel.app/ep/spongebob/09194a.html
+URL: https://watchwiththekids.com/ep/spongebob/09194a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E11b — Patrick's Alley
-URL: https://watchwithkids.vercel.app/ep/spongebob/0111b.html
+URL: https://watchwiththekids.com/ep/spongebob/0111b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patrick: “[to puppet] I think your magic word is broken! [as puppet] Argh! You moronic, imbecilic dimwit! [puppet punches him in the face multiple times, and he falls down]”
 
 ## S10 E214a — Patrick's Coupon
-URL: https://watchwithkids.vercel.app/ep/spongebob/10214a.html
+URL: https://watchwiththekids.com/ep/spongebob/10214a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E17b — Patrick's Got a Zoo Loose
-URL: https://watchwithkids.vercel.app/ep/spongebob/0117b.html
+URL: https://watchwiththekids.com/ep/spongebob/0117b.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 6 moment(s)
@@ -4481,14 +4481,14 @@ Watch for:
   - Patrick does a slow-motion slide towards the chair and punches it into the air. He smacks it apart. It turns into toothpicks that rain down on him.
 
 ## S1 E26b — Patrick's Prison Pals
-URL: https://watchwithkids.vercel.app/ep/spongebob/0126b.html
+URL: https://watchwiththekids.com/ep/spongebob/0126b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Sockeye has to vomit and runs to the bathroom. He opens up the toilet, but it's Tinkle, who roars and scares him. He swallows his vomit and screams.…
 
 ## S2 E36b — Patrick's Star
-URL: https://watchwithkids.vercel.app/ep/spongebob/0236b.html
+URL: https://watchwiththekids.com/ep/spongebob/0236b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4498,19 +4498,19 @@ Watch for:
   - A live-action chicken breast falls down from the sky, which everyone dodges.
 
 ## S8 E160a — Patrick's Staycation
-URL: https://watchwithkids.vercel.app/ep/spongebob/08160a.html
+URL: https://watchwiththekids.com/ep/spongebob/08160a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - SpongeBob: “[coming out of the black smoke with a burnt patty on a plate] Mr. Star, your meal is ready. [the Krabby Patty dissolves into dust and is blown away by the wind] Patrick, where is he? [Squidward screams] Ah!”
 
 ## S12 E264b — Patrick's Tantrum
-URL: https://watchwithkids.vercel.app/ep/spongebob/12264b.html
+URL: https://watchwiththekids.com/ep/spongebob/12264b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E180a — Patrick-Man!
-URL: https://watchwithkids.vercel.app/ep/spongebob/09180a.html
+URL: https://watchwiththekids.com/ep/spongebob/09180a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4520,7 +4520,7 @@ Watch for:
   - Patrick: “I have him right where I want him. For the Pit Punch! [Stench from Patrick's armpit forms a pit and flies toward the Dirty Bubble. The Dirty Bubble swallows it and it hits SpongeBob]”
 
 ## S3 E47a — Patrickle Jokes
-URL: https://watchwithkids.vercel.app/ep/spongebob/0347a.html
+URL: https://watchwiththekids.com/ep/spongebob/0347a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4528,14 +4528,14 @@ Watch for:
   - Incidental 14: “Okay, subject number one. We're gonna test out some electric shock underwear, OK?”
 
 ## S6 E108a — Patty Caper
-URL: https://watchwithkids.vercel.app/ep/spongebob/06108a.html
+URL: https://watchwiththekids.com/ep/spongebob/06108a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Patrick: “[with bad breath coming out, implying he ate Plankton's patty] Good question.”
 
 ## S2 E25b — Patty Hype
-URL: https://watchwithkids.vercel.app/ep/spongebob/0225b.html
+URL: https://watchwiththekids.com/ep/spongebob/0225b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4545,7 +4545,7 @@ Watch for:
   - Incidental 1D: “[Scottish accent] Look what I got under me kilt! [raises his kilt to reveal a plaid body, and white underwear]”
 
 ## S3 E46a — Patty Poo
-URL: https://watchwithkids.vercel.app/ep/spongebob/0346a.html
+URL: https://watchwiththekids.com/ep/spongebob/0346a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4553,7 +4553,7 @@ Watch for:
   - Patrick: “[to Patty Poo as he tosses away the makeup] You wait right here. I'll go introduce you. [kisses Patty Poo and runs off] Mwah.”
 
 ## S1 E12a — Pearl Wants to Be a Star
-URL: https://watchwithkids.vercel.app/ep/spongebob/0112a.html
+URL: https://watchwiththekids.com/ep/spongebob/0112a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -4562,19 +4562,19 @@ Watch for:
   - Pearl: “[singing] A stubbed my toe song, a fell in snow song! [pulls her pockets out] An out of dough, full of woe, eating crow song! [pulls a picture of a nose with snot coming out of it] A bloody nose song, [pulls up a muddy…”
 
 ## S6 E102a — Penny Foolish
-URL: https://watchwithkids.vercel.app/ep/spongebob/06102a.html
+URL: https://watchwiththekids.com/ep/spongebob/06102a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E152b — Perfect Chemistry
-URL: https://watchwithkids.vercel.app/ep/spongebob/07152b.html
+URL: https://watchwiththekids.com/ep/spongebob/07152b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Sandy: “So where do I hook up my teleporter?”
 
 ## S5 E96 — Pest of the West
-URL: https://watchwithkids.vercel.app/ep/spongebob/0596.html
+URL: https://watchwiththekids.com/ep/spongebob/0596.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4583,24 +4583,24 @@ Watch for:
   - SpongeBuck: “No. To be honest, I didn't think I'd get this far. [Everyone groans] But I know we can beat him! If we just work together!”
 
 ## S6 E118a — Pet or Pests
-URL: https://watchwithkids.vercel.app/ep/spongebob/06118a.html
+URL: https://watchwiththekids.com/ep/spongebob/06118a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E164b — Pet Sitter Pat
-URL: https://watchwithkids.vercel.app/ep/spongebob/08164b.html
+URL: https://watchwiththekids.com/ep/spongebob/08164b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E298b — Pet the Rock
-URL: https://watchwithkids.vercel.app/ep/spongebob/14298b.html
+URL: https://watchwiththekids.com/ep/spongebob/14298b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patrick: “Woah! Rolly, you got big! [punches a hole in the wall and grabs a telephone from it] SpongeBob?”
 
 ## S2 E38b — Pick Patrick's Path
-URL: https://watchwithkids.vercel.app/ep/spongebob/0238b.html
+URL: https://watchwiththekids.com/ep/spongebob/0238b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -4612,7 +4612,7 @@ Watch for:
   - A baby knocks him out of his seat. Cut to a bored Patrick in office as the monsters stand as bodyguards. A picture of Patrick kissing a baby is on his desk.
 
 ## S1 E6b — Pickles
-URL: https://watchwithkids.vercel.app/ep/spongebob/016b.html
+URL: https://watchwiththekids.com/ep/spongebob/016b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4622,17 +4622,17 @@ Watch for:
   - Mr. Krabs: “Why you talkin' funny, lad? [takes the underwear off SpongeBob's head]”
 
 ## S5 E93a — Picture Day
-URL: https://watchwithkids.vercel.app/ep/spongebob/0593a.html
+URL: https://watchwiththekids.com/ep/spongebob/0593a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 588 — Pie
-URL: https://watchwithkids.vercel.app/ep/spongebob/00588.html
+URL: https://watchwiththekids.com/ep/spongebob/00588.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E330 — Pigskin Pearl
-URL: https://watchwithkids.vercel.app/ep/spongebob/16330.html
+URL: https://watchwiththekids.com/ep/spongebob/16330.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4644,7 +4644,7 @@ Watch for:
   - Patrick: “[off-screen] There's room for three right there! [pushes four attendees aside while drinking a large soda; in doing so, he carelessly pushes the fourth one off the bleacher]”
 
 ## S6 E125a — Pineapple Fever
-URL: https://watchwithkids.vercel.app/ep/spongebob/06125a.html
+URL: https://watchwiththekids.com/ep/spongebob/06125a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4656,12 +4656,12 @@ Watch for:
   - SpongeBob: “Oh, yeah. Hot cocoa... we'll be drinking.”
 
 ## S9 E203a — Pineapple Invasion
-URL: https://watchwithkids.vercel.app/ep/spongebob/09203a.html
+URL: https://watchwiththekids.com/ep/spongebob/09203a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E244b — Pineapple RV
-URL: https://watchwithkids.vercel.app/ep/spongebob/12244b.html
+URL: https://watchwiththekids.com/ep/spongebob/12244b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4670,22 +4670,22 @@ Watch for:
   - The episode begins with a morning at Conch Street. Squidward is coming out of his house with a bunch of stuff.
 
 ## S15 E313b — Pinned
-URL: https://watchwithkids.vercel.app/ep/spongebob/15313b.html
+URL: https://watchwiththekids.com/ep/spongebob/15313b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 594 — Pisces
-URL: https://watchwithkids.vercel.app/ep/spongebob/00594.html
+URL: https://watchwiththekids.com/ep/spongebob/00594.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E5a — Pizza Delivery
-URL: https://watchwithkids.vercel.app/ep/spongebob/015a.html
+URL: https://watchwiththekids.com/ep/spongebob/015a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E300a — PL-1413
-URL: https://watchwithkids.vercel.app/ep/spongebob/14300a.html
+URL: https://watchwiththekids.com/ep/spongebob/14300a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -4696,19 +4696,19 @@ Watch for:
   - Tom puts a book inside the capsule, and Patrick arrives while drinking a beverage.
 
 ## S13 E277b — Plane to Sea
-URL: https://watchwithkids.vercel.app/ep/spongebob/13277b.html
+URL: https://watchwiththekids.com/ep/spongebob/13277b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E169b — Planet of the Jellyfish
-URL: https://watchwithkids.vercel.app/ep/spongebob/08169b.html
+URL: https://watchwiththekids.com/ep/spongebob/08169b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[to Jellien] Tonight, you'll sleep with me little jelly. Goodnight, jellyfish. Goodnight, Gary! Heh, goodnight little jelly. [sleeps. The Jellien tries to climb on SpongeBob, but he wakes up] Ah, I can't sleep.…”
 
 ## S13 E288b — Plankton and the Beanstalk
-URL: https://watchwithkids.vercel.app/ep/spongebob/13288b.html
+URL: https://watchwiththekids.com/ep/spongebob/13288b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4720,7 +4720,7 @@ Watch for:
   - Giant Krabs: “[stomping] Fee, fi, fo, fite! I smell the blood of a Bottomite! [smells around]”
 
 ## S10 E209b — Plankton Gets the Boot
-URL: https://watchwithkids.vercel.app/ep/spongebob/10209b.html
+URL: https://watchwiththekids.com/ep/spongebob/10209b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -4735,29 +4735,29 @@ Watch for:
   - Plankton: “Yeah, right! You two are mocking me! [jumps between SpongeBob and Patrick's bodies, punching them as they continue talking]”
 
 ## S11 E235a — Plankton Paranoia
-URL: https://watchwithkids.vercel.app/ep/spongebob/11235a.html
+URL: https://watchwiththekids.com/ep/spongebob/11235a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 602 — Plankton Pays
-URL: https://watchwithkids.vercel.app/ep/spongebob/00602.html
+URL: https://watchwiththekids.com/ep/spongebob/00602.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S10 E211a — Plankton Retires
-URL: https://watchwithkids.vercel.app/ep/spongebob/10211a.html
+URL: https://watchwiththekids.com/ep/spongebob/10211a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E3b — Plankton!
-URL: https://watchwithkids.vercel.app/ep/spongebob/013b.html
+URL: https://watchwiththekids.com/ep/spongebob/013b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Karen Plankton: “Seaweed: 50% Sea, 50% Weed. [a picture of the seaweed appears on the screen]”
 
 ## S3 E58b — Plankton's Army
-URL: https://watchwithkids.vercel.app/ep/spongebob/0358b.html
+URL: https://watchwiththekids.com/ep/spongebob/0358b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 3 moment(s)
@@ -4766,12 +4766,12 @@ Watch for:
   - Plankton pulls the cork from the bottle and smells it as if it were champagne, and lets go with a refreshening exhale; he pulls the book out of the bottle
 
 ## Ep 606 — Plankton's Color Nullifier
-URL: https://watchwithkids.vercel.app/ep/spongebob/00606.html
+URL: https://watchwiththekids.com/ep/spongebob/00606.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E163b — Plankton's Good Eye
-URL: https://watchwithkids.vercel.app/ep/spongebob/08163b.html
+URL: https://watchwiththekids.com/ep/spongebob/08163b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4780,14 +4780,14 @@ Watch for:
   - Plankton: “Tears, huh? I guess if I have to. [Stabs his foot broken with a crutch] Ow! [Starts crying] Will these do?”
 
 ## Ep 608 — Plankton's Holiday Hits
-URL: https://watchwithkids.vercel.app/ep/spongebob/00608.html
+URL: https://watchwiththekids.com/ep/spongebob/00608.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Plankton: “[dancing, holding a microphone while singing to the real tune] ♪ Deck the hall with fists of fury / [punching at the screen] Ha ha ha ha ha, ha ha ha ha. ♪ [wipes sweat off and hangs tongue]”
 
 ## S12 E264a — Plankton's Intern
-URL: https://watchwithkids.vercel.app/ep/spongebob/12264a.html
+URL: https://watchwiththekids.com/ep/spongebob/12264a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4801,7 +4801,7 @@ Watch for:
   - SpongeBob: “And you'll have to get past me too. [punches his fists together, and hurts his hand] Ow.”
 
 ## S12 E246a — Plankton's Old Chum
-URL: https://watchwithkids.vercel.app/ep/spongebob/12246a.html
+URL: https://watchwiththekids.com/ep/spongebob/12246a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4812,38 +4812,38 @@ Watch for:
   - Angry mob: “Yeah! [grab Plankton and prepare to beat him up]”
 
 ## S9 E186b — Plankton's Pet
-URL: https://watchwithkids.vercel.app/ep/spongebob/09186b.html
+URL: https://watchwiththekids.com/ep/spongebob/09186b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Incidental 104, Incidental 46: [overlap talking] You monster!/How dare you?! [beat him up with an umbrella, a purse, and a walker respectively]
 
 ## Ep 612 — Plankton's Plan
-URL: https://watchwithkids.vercel.app/ep/spongebob/00612.html
+URL: https://watchwiththekids.com/ep/spongebob/00612.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E108b — Plankton's Regular
-URL: https://watchwithkids.vercel.app/ep/spongebob/06108b.html
+URL: https://watchwiththekids.com/ep/spongebob/06108b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 614 — Plankton's Robotic Revenge
-URL: https://watchwithkids.vercel.app/ep/spongebob/00614.html
+URL: https://watchwiththekids.com/ep/spongebob/00614.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Mr. Krabs: “Not that part! There's another key! We need to get there and beat him to it! C'mon!”
 
 ## Ep 615 — Plankton's Special Sinister Commentary
-URL: https://watchwithkids.vercel.app/ep/spongebob/00615.html
+URL: https://watchwiththekids.com/ep/spongebob/00615.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Plankton: “Ohh! [laughs] They almost got nailed by those boards. Hey that's a good one, I'm gonna write that down. "Nailed, by, those, boards." That's pretty good.…”
 
 ## S17 E338a — Plankton's Squeeze Play
-URL: https://watchwithkids.vercel.app/ep/spongebob/17338a.html
+URL: https://watchwiththekids.com/ep/spongebob/17338a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4852,32 +4852,32 @@ Watch for:
   - Karen uses a screwdriver to punch a hole into the jar. Squidward inhales deeply, sighing in relief.
 
 ## Ep 617 — Plankton. A Thank You Would Be Nice.
-URL: https://watchwithkids.vercel.app/ep/spongebob/00617.html
+URL: https://watchwiththekids.com/ep/spongebob/00617.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 618 — Pool
-URL: https://watchwithkids.vercel.app/ep/spongebob/00618.html
+URL: https://watchwiththekids.com/ep/spongebob/00618.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E112a — Porous Pockets
-URL: https://watchwithkids.vercel.app/ep/spongebob/06112a.html
+URL: https://watchwiththekids.com/ep/spongebob/06112a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 620 — Porthole
-URL: https://watchwithkids.vercel.app/ep/spongebob/00620.html
+URL: https://watchwiththekids.com/ep/spongebob/00620.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E273a — Potato Puff
-URL: https://watchwithkids.vercel.app/ep/spongebob/13273a.html
+URL: https://watchwiththekids.com/ep/spongebob/13273a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E60b — Pranks a Lot
-URL: https://watchwithkids.vercel.app/ep/spongebob/0360b.html
+URL: https://watchwiththekids.com/ep/spongebob/0360b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -4888,24 +4888,24 @@ Watch for:
   - Mr. Krabs: “The Krusty Krab presents... live nude pranksters! [he is shown shining the light on them from the crow's nest] Starring the Bikini Bottom Ghosts!”
 
 ## S2 E27a — Prehibernation Week
-URL: https://watchwithkids.vercel.app/ep/spongebob/0227a.html
+URL: https://watchwiththekids.com/ep/spongebob/0227a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Sandy: “SpongeBob?! [SpongeBob struggles to get free and eventually does, but leaves his pants stuck on the plant] SpongeBob? [walks up to SpongeBob's pants] Where are you, little square dude? [gasps] SpongeBob's tie!…”
 
 ## S2 E32a — Pressure
-URL: https://watchwithkids.vercel.app/ep/spongebob/0232a.html
+URL: https://watchwiththekids.com/ep/spongebob/0232a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E21b — Prickly Pests
-URL: https://watchwithkids.vercel.app/ep/spongebob/0121b.html
+URL: https://watchwiththekids.com/ep/spongebob/0121b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E37a — Procrastination
-URL: https://watchwithkids.vercel.app/ep/spongebob/0237a.html
+URL: https://watchwiththekids.com/ep/spongebob/0237a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4916,12 +4916,12 @@ Watch for:
   - SpongeBob: “[wakes up] Where's my essay? [notices the paper stuck to his head] Oh, there you are! [laughs] I must have dozed off. [grabs his paper from his head] Lets see, where are we?…”
 
 ## S6 E117b — Professor Squidward
-URL: https://watchwithkids.vercel.app/ep/spongebob/06117b.html
+URL: https://watchwiththekids.com/ep/spongebob/06117b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E192b — Pull Up a Barrel
-URL: https://watchwithkids.vercel.app/ep/spongebob/09192b.html
+URL: https://watchwiththekids.com/ep/spongebob/09192b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
@@ -4930,12 +4930,12 @@ Watch for:
   - Captain Scarfish: “[Captain Scarfish bursts through the door.] Stand down, Krabs! I'll have you on irons! [He holds up two irons with steam coming out from the bottoms.]”
 
 ## Ep 629 — Pumpkin Carving
-URL: https://watchwithkids.vercel.app/ep/spongebob/00629.html
+URL: https://watchwiththekids.com/ep/spongebob/00629.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E35b — Putt Up or Shut Up
-URL: https://watchwithkids.vercel.app/ep/spongebob/0235b.html
+URL: https://watchwiththekids.com/ep/spongebob/0235b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4947,7 +4947,7 @@ Watch for:
   - Squidward: “[screams, his eyes coming out, runs away]”
 
 ## S1 E3a — Quest for Tire
-URL: https://watchwithkids.vercel.app/ep/spongebob/013a.html
+URL: https://watchwiththekids.com/ep/spongebob/013a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 2 moment(s)
@@ -4958,12 +4958,12 @@ Watch for:
   - The truck is running wild. Eventually the tires pop and oil starts coming out of the truck. Squidward, Larry, and Bubble Bass jump off the tree.
 
 ## S1 E1b — Reef Blower
-URL: https://watchwithkids.vercel.app/ep/spongebob/011b.html
+URL: https://watchwiththekids.com/ep/spongebob/011b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E23a — Regi-Hilled
-URL: https://watchwithkids.vercel.app/ep/spongebob/0123a.html
+URL: https://watchwiththekids.com/ep/spongebob/0123a.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -4972,19 +4972,19 @@ Watch for:
   - Nobby: “[coming out of the ground, holding up Narlene's foot] Narlene wins! [the crowd cheers]”
 
 ## Ep 634 — Remodeling
-URL: https://watchwithkids.vercel.app/ep/spongebob/00634.html
+URL: https://watchwiththekids.com/ep/spongebob/00634.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E168a — Restraining SpongeBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/08168a.html
+URL: https://watchwiththekids.com/ep/spongebob/08168a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - Dave: “Yes, I would like two Double Fried Kelp Fritters, three Krusty Krab Cream Filled Corals, and four Triple Fatty Krabby Patties. Is that too much?”
 
 ## S5 E66a — Retreat!
-URL: https://watchwithkids.vercel.app/ep/spongebob/0566a.html
+URL: https://watchwiththekids.com/ep/spongebob/0566a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4993,7 +4993,7 @@ Watch for:
   - Janet: “Oh ho, that's funny Bobby. Because I apparently you're in charge of getting on my nerves. [punches and breaks the team building retreat wall; groans]”
 
 ## S1 E20b — Reveille Revolution
-URL: https://watchwithkids.vercel.app/ep/spongebob/0120b.html
+URL: https://watchwiththekids.com/ep/spongebob/0120b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5003,7 +5003,7 @@ Watch for:
   - Squidward: “[gets idea] That's it! Tomorrow morning, I'll wake up an hour earlier and blow reveille! [punches fists] I'll show those anchovy clowns who the boss horn is.”
 
 ## Ep 638 — Revenge of the Flying Dutchman (home console)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00638.html
+URL: https://watchwiththekids.com/ep/spongebob/00638.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
@@ -5012,12 +5012,12 @@ Watch for:
   - Sandy: “There we go. Everything spic and span, the way it should be.”
 
 ## S13 E285b — Ride Patrick Ride
-URL: https://watchwithkids.vercel.app/ep/spongebob/13285b.html
+URL: https://watchwiththekids.com/ep/spongebob/13285b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E2b — Ripped Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/012b.html
+URL: https://watchwiththekids.com/ep/spongebob/012b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -5026,7 +5026,7 @@ Watch for:
   - SpongeBob: “Absolutely, buddy. [SpongeBob bends down to sign Larry's pants. His underwear then rips off completely, leaving SpongeBob "au naturel." Someone off-screen whistles.…”
 
 ## S5 E83a — Rise and Shine
-URL: https://watchwithkids.vercel.app/ep/spongebob/0583a.html
+URL: https://watchwiththekids.com/ep/spongebob/0583a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5035,14 +5035,14 @@ Watch for:
   - Patrick: “Oh my gosh. [sticks his tongue back in his mouth and swallows the clock] I'm late, I'm late, I'm late! [starts running] I gotta put on my teeth and brush my pants!…”
 
 ## S1 E17b — Rock Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/0117b.html
+URL: https://watchwiththekids.com/ep/spongebob/0117b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “Patrick, I think we're on the wrong... [The bus drives down at a 90-degree angle steep road as SpongeBob and Patrick yell. The alarm sounds, and the two fly back, hit the back of the bus and end up looking flattened.…”
 
 ## S17 E342b — Rock Bottom Games
-URL: https://watchwithkids.vercel.app/ep/spongebob/17342b.html
+URL: https://watchwiththekids.com/ep/spongebob/17342b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5056,7 +5056,7 @@ Watch for:
   - Plankton: “I'm sorry I cheated! You hear that, Neptune?! I'm sorry! [the camera zooms out of the island] Karen!”
 
 ## S3 E49b — Rock-a-Bye Bivalve
-URL: https://watchwithkids.vercel.app/ep/spongebob/0349b.html
+URL: https://watchwiththekids.com/ep/spongebob/0349b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5068,19 +5068,19 @@ Watch for:
   - Patrick: “You're right. If I was a mom... [the camera draws back to reveal Patrick's hairy, obese, unsightly form] ...this would be kinda shocking. [lifts his arms, revealing armpit hair] Just call me "Daddy"!”
 
 ## S7 E138b — Rodeo Daze
-URL: https://watchwithkids.vercel.app/ep/spongebob/07138b.html
+URL: https://watchwiththekids.com/ep/spongebob/07138b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E86a — Roller Cowards
-URL: https://watchwithkids.vercel.app/ep/spongebob/0586a.html
+URL: https://watchwiththekids.com/ep/spongebob/0586a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patrick: “Oh, yeah? [punches his reflection, without breaking the glass] I thought we settled this the last time! [cut to SpongeBob still hitting himself in the head with the ice cream]”
 
 ## S4 E57b — Rube Tube
-URL: https://watchwithkids.vercel.app/ep/spongebob/0457b.html
+URL: https://watchwiththekids.com/ep/spongebob/0457b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5089,22 +5089,22 @@ Watch for:
   - Patrick: “That's weird. [takes off his binoculars] Squidina said- [his face morphs into Squidina] 'I'm doing the show today, Patrick,' but there she is. Doing a show without Patrick.…”
 
 ## S4 E77b — Rule of Dumb
-URL: https://watchwithkids.vercel.app/ep/spongebob/0477b.html
+URL: https://watchwiththekids.com/ep/spongebob/0477b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 649 — Russia 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00649.html
+URL: https://watchwiththekids.com/ep/spongebob/00649.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 650 — Russia 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00650.html
+URL: https://watchwiththekids.com/ep/spongebob/00650.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E186a — Safe Deposit Krabs
-URL: https://watchwithkids.vercel.app/ep/spongebob/09186a.html
+URL: https://watchwiththekids.com/ep/spongebob/09186a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5115,7 +5115,7 @@ Watch for:
   - SpongeBob: “I gotta save Mr. Krabs! [runs to Patrick's house] Patrick! [goes inside Patrick's house by trying to fit himself in the tight hole, then his own legs.…”
 
 ## S4 E62a — Safety Worst
-URL: https://watchwithkids.vercel.app/ep/spongebob/0462a.html
+URL: https://watchwiththekids.com/ep/spongebob/0462a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5125,29 +5125,29 @@ Watch for:
   - Squidina: “[appears in the video] Now I would like to introduce you to 2 friends of mine for a series of safety demos: This is Mr. Goodboy! [shows Patrick wearing a blue outfit with a pink scarf and holding a lollipop] He does…”
 
 ## Ep 653 — Sagittarius
-URL: https://watchwithkids.vercel.app/ep/spongebob/00653.html
+URL: https://watchwiththekids.com/ep/spongebob/00653.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E38a — Sailor Mouth
-URL: https://watchwithkids.vercel.app/ep/spongebob/0238a.html
+URL: https://watchwiththekids.com/ep/spongebob/0238a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Incidental 119: “[clearly disgusted] Do you kiss your mother with that mouth? [picks up the garbage bags and leaves]”
 
 ## Ep 655 — Saloon Door Sorrows
-URL: https://watchwithkids.vercel.app/ep/spongebob/00655.html
+URL: https://watchwiththekids.com/ep/spongebob/00655.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E203b — Salsa Imbecilicus
-URL: https://watchwithkids.vercel.app/ep/spongebob/09203b.html
+URL: https://watchwiththekids.com/ep/spongebob/09203b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E281a — Salty Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/13281a.html
+URL: https://watchwiththekids.com/ep/spongebob/13281a.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5160,7 +5160,7 @@ Watch for:
   - Trevally: “[high-pitched voice, gives thumbs up] Nice punch, SpongeBob!”
 
 ## S15 E307a — Sammy Suckerfish
-URL: https://watchwithkids.vercel.app/ep/spongebob/15307a.html
+URL: https://watchwiththekids.com/ep/spongebob/15307a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5169,26 +5169,26 @@ Watch for:
   - Sammy: “Well, I'll tell ya. [on a table, snaps fingers, singing] ♪ There are janitors who only clean with [holds a brush] brushes. [gets near SpongeBob and pulls out cloths and a broom from him, which he punches] Others use a…”
 
 ## S9 E193a — Sanctuary!
-URL: https://watchwithkids.vercel.app/ep/spongebob/09193a.html
+URL: https://watchwiththekids.com/ep/spongebob/09193a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob giggles as he is feeding the baby snails, but Patrick sighs sadly and leaves as he is being rejected. Bubble transitions to SpongeBob continuing to take care of the snails.…
 
 ## S6 E121a — Sand Castles in the Sand
-URL: https://watchwithkids.vercel.app/ep/spongebob/06121a.html
+URL: https://watchwiththekids.com/ep/spongebob/06121a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patrick: “[has a robot already built that punches through his own castle] I like you this much! [picks up SpongeBob's tank with SpongeBob screaming inside]”
 
 ## Ep 661 — Sandy Cheeks Explains a Turnover
-URL: https://watchwithkids.vercel.app/ep/spongebob/00661.html
+URL: https://watchwiththekids.com/ep/spongebob/00661.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E306 — Sandy's Country Christmas
-URL: https://watchwithkids.vercel.app/ep/spongebob/14306.html
+URL: https://watchwiththekids.com/ep/spongebob/14306.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5197,7 +5197,7 @@ Watch for:
   - Randy: “Yeah, sis, we came all the way from Texas just to spend Christmas with little old smarty-tail you. [punches Sandy]”
 
 ## S9 E201a — Sandy's Nutmare
-URL: https://watchwithkids.vercel.app/ep/spongebob/09201a.html
+URL: https://watchwiththekids.com/ep/spongebob/09201a.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5208,14 +5208,14 @@ Watch for:
   - Sandy pulls a branch and a huge bundle of acorns rain down. She takes a cleaver and cuts a small amount of acorns she needs to make Nutty Butter. She rolls the acorns into liquid with her log-shaped rolling pin.…
 
 ## S12 E249a — Sandy's Nutty Nieces
-URL: https://watchwithkids.vercel.app/ep/spongebob/12249a.html
+URL: https://watchwiththekids.com/ep/spongebob/12249a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “Mm? [hands her a pair of underwear]”
 
 ## S1 E8a — Sandy's Rocket
-URL: https://watchwithkids.vercel.app/ep/spongebob/018a.html
+URL: https://watchwiththekids.com/ep/spongebob/018a.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 6 moment(s)
@@ -5227,26 +5227,26 @@ Watch for:
   - Patrick: “Oh, but it's not you that's got me, it's... [catches himself with the gray netting as it turns out he had his gun pointed the wrong way] ...me that's got me.”
 
 ## Ep 666 — Sandy's Vacation in Ruins
-URL: https://watchwithkids.vercel.app/ep/spongebob/00666.html
+URL: https://watchwiththekids.com/ep/spongebob/00666.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E293b — Sandy, Help Us!
-URL: https://watchwithkids.vercel.app/ep/spongebob/13293b.html
+URL: https://watchwiththekids.com/ep/spongebob/13293b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Sandy smacks her head and warbles. Inside her head, a smaller Sandy is in an exercise wheel hooked up to Sandy's brain. She wakes up, runs in the wheel, then hears an alarm ringing.…
 
 ## S2 E40b — Sandy, SpongeBob, and the Worm
-URL: https://watchwithkids.vercel.app/ep/spongebob/0240b.html
+URL: https://watchwiththekids.com/ep/spongebob/0240b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Sandy: “Course I am! I'm going in, and I ain't coming out 'til I got me a big heaping plate of worm stew. [walks into the cave; SpongeBob hides behind a rock and shudders; we hear Sandy inside the cave] Aha!…”
 
 ## S11 E223a — Sanitation Insanity
-URL: https://watchwithkids.vercel.app/ep/spongebob/11223a.html
+URL: https://watchwiththekids.com/ep/spongebob/11223a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5255,31 +5255,31 @@ Watch for:
   - Patrick, Squidward, and SpongeBob begin their battle. SpongeBob and Squidward start off with a single punch, which splatters trash on Patrick's house.…
 
 ## Ep 670 — Saving the Surf
-URL: https://watchwithkids.vercel.app/ep/spongebob/00670.html
+URL: https://watchwiththekids.com/ep/spongebob/00670.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E276a — Say Awww!
-URL: https://watchwithkids.vercel.app/ep/spongebob/13276a.html
+URL: https://watchwiththekids.com/ep/spongebob/13276a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Plankton tries to blast her with his ray gun, but the old lady gets closer to him and pokes him.
 
 ## Ep 672 — SB BK
-URL: https://watchwithkids.vercel.app/ep/spongebob/00672.html
+URL: https://watchwiththekids.com/ep/spongebob/00672.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E14a — SB-129
-URL: https://watchwithkids.vercel.app/ep/spongebob/0114a.html
+URL: https://watchwiththekids.com/ep/spongebob/0114a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Squidward: “[kisses his clarinet] I think I'll treat Bikini Bottom to some real music. [He gets ready to play his clarinet, and then SpongeBob's alarm clock goes off, sending Squidward's clarinet into his throat] Yow!…”
 
 ## S1 E13a — Scaredy Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0113a.html
+URL: https://watchwiththekids.com/ep/spongebob/0113a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -5287,14 +5287,14 @@ Watch for:
   - Squidward: “I don't get it. [Sandy and Squidward drink the fruit punch. Meanwhile, SpongeBob and Patrick are on the roof of the Krusty Krab. SpongeBob is tied up with some rope which Patrick will lower him in with.…”
 
 ## S1 E25b — Scaredy Squirrel
-URL: https://watchwithkids.vercel.app/ep/spongebob/0125b.html
+URL: https://watchwiththekids.com/ep/spongebob/0125b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Racism — 1 moment(s)
   - Sandy: “All these ding dong dang doors look alike! [looks at her feet] Huh? Huh? [she's stepping in slime] Oh. Aah, aah, aah! [screams]”
 
 ## S11 E224b — Scavenger Pants
-URL: https://watchwithkids.vercel.app/ep/spongebob/11224b.html
+URL: https://watchwiththekids.com/ep/spongebob/11224b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -5304,12 +5304,12 @@ Watch for:
   - SpongeBob and Patrick observe the Badlands. There, they see a dried-up wasteland with a volcano, a cactus, and a skeleton with sea urchins crawling out.…
 
 ## Ep 677 — Sea Food and Eat It
-URL: https://watchwithkids.vercel.app/ep/spongebob/00677.html
+URL: https://watchwiththekids.com/ep/spongebob/00677.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E58a — Sea Haw
-URL: https://watchwithkids.vercel.app/ep/spongebob/0458a.html
+URL: https://watchwiththekids.com/ep/spongebob/0458a.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -5320,12 +5320,12 @@ Watch for:
   - Granny Tentacles gets hit by a big cork coming out of Captain Cruel's blunderbuss.
 
 ## Ep 679 — Sea Horse Riding Made Easy
-URL: https://watchwithkids.vercel.app/ep/spongebob/00679.html
+URL: https://watchwiththekids.com/ep/spongebob/00679.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E274b — Sea-Man Sponge Haters Club
-URL: https://watchwithkids.vercel.app/ep/spongebob/13274b.html
+URL: https://watchwiththekids.com/ep/spongebob/13274b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 6 moment(s)
@@ -5340,7 +5340,7 @@ Watch for:
   - Bubble transition to the next scene with firefighters putting out Squidward's burning house. The club members, SpongeBob, and Patrick stand outside, with Patrick still drinking punch.
 
 ## S4 E65a — Selling Out
-URL: https://watchwithkids.vercel.app/ep/spongebob/0465a.html
+URL: https://watchwiththekids.com/ep/spongebob/0465a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5350,7 +5350,7 @@ Watch for:
   - Carl: “[chuckling] Well, yes, but with the Krabby O'Monday's spirit. Now Squidward, you wouldn't wanna have to talk to human resources... [points to the door to Human Resources.…”
 
 ## S12 E251b — Senior Discount
-URL: https://watchwithkids.vercel.app/ep/spongebob/12251b.html
+URL: https://watchwiththekids.com/ep/spongebob/12251b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5359,24 +5359,24 @@ Watch for:
   - Old Man Jenkins: “[shivering] Ehh...ehh.... It's too cold in here for my old blood! [takes his beard off his face and uses it as a sweater] Show a little respect for your elders and turn up the heat!”
 
 ## S8 E155b — Sentimental Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/08155b.html
+URL: https://watchwiththekids.com/ep/spongebob/08155b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 684 — Separation Anxiety
-URL: https://watchwithkids.vercel.app/ep/spongebob/00684.html
+URL: https://watchwiththekids.com/ep/spongebob/00684.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E33a — Shanghaied
-URL: https://watchwithkids.vercel.app/ep/spongebob/0233a.html
+URL: https://watchwiththekids.com/ep/spongebob/0233a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Drinking noises were heard before we go to the Flying Dutchman laying down and relaxing as the remains of the liquids from SpongeBob, Patrick and Squidward's beverage forms. He pats his belly happily.
 
 ## S9 E198a — Sharks vs. Pods
-URL: https://watchwithkids.vercel.app/ep/spongebob/09198a.html
+URL: https://watchwiththekids.com/ep/spongebob/09198a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -5385,14 +5385,14 @@ Watch for:
   - gets 100% lard patty oil and dips his head in it, and then has some hair, he uses his hair to hit a punching bag and then spins around two spatulas and slices almost everything in the room.
 
 ## S14 E305b — Sheldon SquarePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/14305b.html
+URL: https://watchwiththekids.com/ep/spongebob/14305b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Margaret: “All right, [pointing] you two boys have fun. [kisses Plankton and SpongeBob before leaving with Harold]”
 
 ## S12 E251a — Shell Games
-URL: https://watchwithkids.vercel.app/ep/spongebob/12251a.html
+URL: https://watchwiththekids.com/ep/spongebob/12251a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Swearing — 1 moment(s)
@@ -5401,7 +5401,7 @@ Watch for:
   - waiter leaves, Patrick starts drinking his own sweat and goes back to normal
 
 ## S4 E61b — Shell of a Man
-URL: https://watchwithkids.vercel.app/ep/spongebob/0461b.html
+URL: https://watchwiththekids.com/ep/spongebob/0461b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5416,12 +5416,12 @@ Watch for:
   - SpongeBob: “Fire the torpedoes. [Iron Eye punches SpongeBob. He bounces around in the shell then comes up dizzy]”
 
 ## S6 E121b — Shell Shocked
-URL: https://watchwithkids.vercel.app/ep/spongebob/06121b.html
+URL: https://watchwiththekids.com/ep/spongebob/06121b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E147b — Shellback Shenanigans
-URL: https://watchwithkids.vercel.app/ep/spongebob/07147b.html
+URL: https://watchwiththekids.com/ep/spongebob/07147b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -5429,7 +5429,7 @@ Watch for:
   - Mr. Krabs: “Plankton? [finds out Gary beat him out of the restaurant and has an idea. Bubbles change the scene. Gary is at the Krusty Krab door letting people in, then Plankton, in a fish costume, comes up to Gary]”
 
 ## S11 E232b — Shopping List
-URL: https://watchwithkids.vercel.app/ep/spongebob/11232b.html
+URL: https://watchwiththekids.com/ep/spongebob/11232b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -5439,17 +5439,17 @@ Watch for:
   - Mr. Krabs come out and is completely beaten up.
 
 ## Ep 693 — Show Design
-URL: https://watchwithkids.vercel.app/ep/spongebob/00693.html
+URL: https://watchwiththekids.com/ep/spongebob/00693.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 694 — Shrek
-URL: https://watchwithkids.vercel.app/ep/spongebob/00694.html
+URL: https://watchwiththekids.com/ep/spongebob/00694.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E14a — Shrinking Stars
-URL: https://watchwithkids.vercel.app/ep/spongebob/0114a.html
+URL: https://watchwiththekids.com/ep/spongebob/0114a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -5458,14 +5458,14 @@ Watch for:
   - Cecil: “[sees a light coming out of surrounding tunnels] Stay together, Stars! I think there's a way out of here. [leads them to the light as they end up in front of their home]”
 
 ## S6 E117a — Shuffleboarding
-URL: https://watchwithkids.vercel.app/ep/spongebob/06117a.html
+URL: https://watchwiththekids.com/ep/spongebob/06117a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Man Ray: “Ahhhh! Grrr... You! It's on now! Filthy shorts attack! [Flings underwear at SpongeBob's face]”
 
 ## S5 E66b — Sidekick Search
-URL: https://watchwithkids.vercel.app/ep/spongebob/0566b.html
+URL: https://watchwiththekids.com/ep/spongebob/0566b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -5474,14 +5474,14 @@ Watch for:
   - Old Man Walker: “[transitions to him with a ventriloquist dummy] Hello. I'm Old Man Walker and I'm going to drink a glass of water while Old Man Dummy here sings "Old Man River." [gargles drinking water and sings via Old Man Walker…”
 
 ## S5 E89b — Sing a Song of Patrick
-URL: https://watchwithkids.vercel.app/ep/spongebob/0589b.html
+URL: https://watchwiththekids.com/ep/spongebob/0589b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Fred: “Let's get 'em, boys! [They start to chase them. But, SpongeBob and Patrick found a cure. They beat them up but SpongeBob and Patrick play with instruments wildly.…”
 
 ## S6 E122b — Single Cell Anniversary
-URL: https://watchwithkids.vercel.app/ep/spongebob/06122b.html
+URL: https://watchwiththekids.com/ep/spongebob/06122b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5495,7 +5495,7 @@ Watch for:
   - Cut to Squidward outside of his house drinking something in his lawn chair
 
 ## S14 E294a — Single-Celled Defense
-URL: https://watchwithkids.vercel.app/ep/spongebob/14294a.html
+URL: https://watchwiththekids.com/ep/spongebob/14294a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 6 moment(s)
@@ -5509,14 +5509,14 @@ Watch for:
   - Bubble Bass is walking down the street, drinking a cup of soda.
 
 ## S13 E286b — Sir Urchin and Snail Fail
-URL: https://watchwithkids.vercel.app/ep/spongebob/13286b.html
+URL: https://watchwiththekids.com/ep/spongebob/13286b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Patrick: “[shows his Sir Urchin underwear] Yeah, Sir Urchin! You know, the guy that goes... [hits self with a hammer] "Why, you!" [laughs] He's so funny.”
 
 ## S4 E53a — Sitcom Stars
-URL: https://watchwithkids.vercel.app/ep/spongebob/0453a.html
+URL: https://watchwiththekids.com/ep/spongebob/0453a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5526,7 +5526,7 @@ Watch for:
   - Patrick: “[is on the kitchen table] Business meeting! [gets punched by Mr. Rilla] 401 K! [gets punched] Synergy! [gets punched, laughter]”
 
 ## S4 E64a — Skill Crane
-URL: https://watchwithkids.vercel.app/ep/spongebob/0464a.html
+URL: https://watchwiththekids.com/ep/spongebob/0464a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -5535,7 +5535,7 @@ Watch for:
   - Bubble transition to Mr. Krabs coming out of his office.
 
 ## S13 E278b — Slappy Daze
-URL: https://watchwithkids.vercel.app/ep/spongebob/13278b.html
+URL: https://watchwiththekids.com/ep/spongebob/13278b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5548,7 +5548,7 @@ Watch for:
   - Dr. Calimari: “Yes, Master. I will bring you blood samples. Und cookies.”
 
 ## S1 E15a — Sleepy Time
-URL: https://watchwithkids.vercel.app/ep/spongebob/0115a.html
+URL: https://watchwiththekids.com/ep/spongebob/0115a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -5557,43 +5557,43 @@ Watch for:
   - SpongeBob: “[screams as he crashes through the target, breaking the ground and flips on the real-life ground] Ouch. All right, that's it. No more messing with people's dreams. [sees a dream cloud coming out of Mr.…”
 
 ## S6 E105b — Slide Whistle Stooges
-URL: https://watchwithkids.vercel.app/ep/spongebob/06105b.html
+URL: https://watchwiththekids.com/ep/spongebob/06105b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Incidental 114: “Can I help you... [Incidental 24 punches Incidental 114 in the face]”
 
 ## Ep 707 — Slime Time!
-URL: https://watchwithkids.vercel.app/ep/spongebob/00707.html
+URL: https://watchwiththekids.com/ep/spongebob/00707.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E88c — Slimy Dancing
-URL: https://watchwithkids.vercel.app/ep/spongebob/0588c.html
+URL: https://watchwiththekids.com/ep/spongebob/0588c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - SpongeBob: “Now, before I begin, let me just thank you all for coming out tonight. [Squidward grabs SpongeBob's mouth]”
 
 ## S4 E63b — Slumber Party Stars
-URL: https://watchwithkids.vercel.app/ep/spongebob/0463b.html
+URL: https://watchwiththekids.com/ep/spongebob/0463b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Cecil: “[puts a cowboy hat on Squidina, and everyone else puts on hats] On your mark, get set, hunt! [fires the confetti gun]”
 
 ## S15 E315a — Smartificial Intelligence
-URL: https://watchwithkids.vercel.app/ep/spongebob/15315a.html
+URL: https://watchwiththekids.com/ep/spongebob/15315a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E165b — Smoothe Jazz at Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/08165b.html
+URL: https://watchwiththekids.com/ep/spongebob/08165b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E202b — Snail Mail
-URL: https://watchwithkids.vercel.app/ep/spongebob/09202b.html
+URL: https://watchwiththekids.com/ep/spongebob/09202b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -5601,7 +5601,7 @@ Watch for:
   - SpongeBob punches his chest as if he believes that he is putting his hand on his heart.
 
 ## S10 E208a — Snooze You Lose
-URL: https://watchwithkids.vercel.app/ep/spongebob/10208a.html
+URL: https://watchwiththekids.com/ep/spongebob/10208a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -5613,7 +5613,7 @@ Watch for:
   - Maestro Mackerel: “Yes, yes! Oh, bring us to [throws his clipboard away] ecstasy, maestro!”
 
 ## S14 E304 — Snow Yellow
-URL: https://watchwithkids.vercel.app/ep/spongebob/14304.html
+URL: https://watchwiththekids.com/ep/spongebob/14304.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5625,7 +5625,7 @@ Watch for:
   - Hans: “[narrating as Karen leaves the castle] So, Queen Karen snuck away to the Seven Jellies' hive, and-- [tries to turn the page but gets slapped away by Karen] Ow!”
 
 ## S3 E46a — Snowball Effect
-URL: https://watchwithkids.vercel.app/ep/spongebob/0346a.html
+URL: https://watchwiththekids.com/ep/spongebob/0346a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -5634,14 +5634,14 @@ Watch for:
   - Squidward: “[snickers] Now there's something I'd actually like to see. [takes a chair up to one of his windows] Nothing wrong with getting a front-row seat, I suppose.…”
 
 ## S9 E199a — Sold!
-URL: https://watchwithkids.vercel.app/ep/spongebob/09199a.html
+URL: https://watchwiththekids.com/ep/spongebob/09199a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Squidward: “[coming out from the top of his flipped home] What happened?”
 
 ## S7 E129a — Someone's in the Kitchen with Sandy
-URL: https://watchwithkids.vercel.app/ep/spongebob/07129a.html
+URL: https://watchwiththekids.com/ep/spongebob/07129a.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Nudity & bodies — 9 moment(s)
@@ -5659,7 +5659,7 @@ Watch for:
   - The Sandy robot is punched and knocked into the wall and slumps over. Sandy rolls up her pelt and Plankton and the formula flies out. Mr. Krabs catches the formula, Sandy catches Plankton.
 
 ## S13 E271a — Something Narwhal This Way Comes
-URL: https://watchwithkids.vercel.app/ep/spongebob/13271a.html
+URL: https://watchwiththekids.com/ep/spongebob/13271a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5667,7 +5667,7 @@ Watch for:
   - Plankton: “Oh! [puckers lips] [SpongeBob kisses him on the head] Ew!”
 
 ## S2 E22a — Something Smells
-URL: https://watchwithkids.vercel.app/ep/spongebob/0222a.html
+URL: https://watchwiththekids.com/ep/spongebob/0222a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5676,31 +5676,31 @@ Watch for:
   - Bubble transition to SpongeBob coming out of the kitchen with a bunch of stink coming out with him. He feels relaxed. He drops his spoon while Gary hides behind a coral plant.
 
 ## S3 E49 — Something Stupid This Way Comes
-URL: https://watchwithkids.vercel.app/ep/spongebob/0349.html
+URL: https://watchwiththekids.com/ep/spongebob/0349.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Pat-gor: “[stabs the sandwich with an olive on a stick]”
 
 ## Ep 721 — Spain 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00721.html
+URL: https://watchwiththekids.com/ep/spongebob/00721.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 722 — Spain 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/00722.html
+URL: https://watchwiththekids.com/ep/spongebob/00722.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E290a — Spatula of the Heavens
-URL: https://watchwithkids.vercel.app/ep/spongebob/13290a.html
+URL: https://watchwiththekids.com/ep/spongebob/13290a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[examines spatula using a magnifying glass, connects the spatula to the handle, squeals excitedly and kisses the spatula] You're finally back! [hugs the spatula]”
 
 ## S11 E218a — Spin the Bottle
-URL: https://watchwithkids.vercel.app/ep/spongebob/11218a.html
+URL: https://watchwiththekids.com/ep/spongebob/11218a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5712,32 +5712,32 @@ Watch for:
   - Plankton cheats the game as he moves the bottle to Mr. Krabs.
 
 ## Ep 725 — Splash
-URL: https://watchwithkids.vercel.app/ep/spongebob/00725.html
+URL: https://watchwiththekids.com/ep/spongebob/00725.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E142b — Sponge-Cano!
-URL: https://watchwithkids.vercel.app/ep/spongebob/07142b.html
+URL: https://watchwiththekids.com/ep/spongebob/07142b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 727 — SpongeBoard
-URL: https://watchwithkids.vercel.app/ep/spongebob/00727.html
+URL: https://watchwiththekids.com/ep/spongebob/00727.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 728 — SpongeBob & You Save the Big Blue
-URL: https://watchwithkids.vercel.app/ep/spongebob/00728.html
+URL: https://watchwiththekids.com/ep/spongebob/00728.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 729 — SpongeBob (Re-Hydrated)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00729.html
+URL: https://watchwiththekids.com/ep/spongebob/00729.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E323 — SpongeBob and Patrick's Timeline Twist-Up
-URL: https://watchwithkids.vercel.app/ep/spongebob/16323.html
+URL: https://watchwiththekids.com/ep/spongebob/16323.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5752,12 +5752,12 @@ Watch for:
   - The episode special opens with SpongeBob and Patrick in a barrel floating on a lazy river. SpongeBob drinks his cocktail.
 
 ## Ep 731 — SpongeBob Brings Super Bowl LVIII to Bikini Bottom Bottom w/ Patrick & Sandy!
-URL: https://watchwithkids.vercel.app/ep/spongebob/00731.html
+URL: https://watchwiththekids.com/ep/spongebob/00731.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 732 — SpongeBob Checks His Instaclam
-URL: https://watchwithkids.vercel.app/ep/spongebob/00732.html
+URL: https://watchwiththekids.com/ep/spongebob/00732.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5766,36 +5766,36 @@ Watch for:
   - SpongeBob scrolls down to a photo of Gary in his underwear.
 
 ## Ep 733 — SpongeBob Checks His Snapper Chat
-URL: https://watchwithkids.vercel.app/ep/spongebob/00733.html
+URL: https://watchwiththekids.com/ep/spongebob/00733.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - SpongeBob: “Hm. Hey! These are all my favorite places! How'd they fit them all in here? [SpongeBob taps on "Bikini Bottom," leading to a scene from "The Slumber Party" showing Pearl and her friends reading magazines and laughing…”
 
 ## Ep 734 — SpongeBob Cheese Nips
-URL: https://watchwithkids.vercel.app/ep/spongebob/00734.html
+URL: https://watchwiththekids.com/ep/spongebob/00734.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 735 — SpongeBob HeroPants
-URL: https://watchwithkids.vercel.app/ep/spongebob/00735.html
+URL: https://watchwiththekids.com/ep/spongebob/00735.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E256a — SpongeBob in RandomLand
-URL: https://watchwithkids.vercel.app/ep/spongebob/12256a.html
+URL: https://watchwiththekids.com/ep/spongebob/12256a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E195a — SpongeBob LongPants
-URL: https://watchwithkids.vercel.app/ep/spongebob/09195a.html
+URL: https://watchwiththekids.com/ep/spongebob/09195a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Driving instructor: “I was gonna fail you, and send you to jail, but because of those longpants, and all the blood rushing to my head, you passed! [hands SpongeBob his license]”
 
 ## S3 E60a — SpongeBob Meets the Strangler
-URL: https://watchwithkids.vercel.app/ep/spongebob/0360a.html
+URL: https://watchwiththekids.com/ep/spongebob/0360a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -5805,34 +5805,34 @@ Watch for:
   - French Narrator: “Twenty minutes later... [SpongeBob is still searching for his key. The Strangler gets even more angry with steam coming out of his head]”
 
 ## S13 E284b — SpongeBob on Parade
-URL: https://watchwithkids.vercel.app/ep/spongebob/13284b.html
+URL: https://watchwiththekids.com/ep/spongebob/13284b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidward: “Well, that was another day wasted.”
 
 ## Ep 740 — SpongeBob Showdown
-URL: https://watchwithkids.vercel.app/ep/spongebob/00740.html
+URL: https://watchwiththekids.com/ep/spongebob/00740.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 741 — SpongeBob Simulator
-URL: https://watchwithkids.vercel.app/ep/spongebob/00741.html
+URL: https://watchwiththekids.com/ep/spongebob/00741.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S17 E335b — SpongeBob SpareParts
-URL: https://watchwithkids.vercel.app/ep/spongebob/17335b.html
+URL: https://watchwiththekids.com/ep/spongebob/17335b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## Ep 743 — SpongeBob SquarePants Sings Keep It Cool
-URL: https://watchwithkids.vercel.app/ep/spongebob/00743.html
+URL: https://watchwiththekids.com/ep/spongebob/00743.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E111 — SpongeBob SquarePants vs. The Big One
-URL: https://watchwithkids.vercel.app/ep/spongebob/06111.html
+URL: https://watchwiththekids.com/ep/spongebob/06111.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -5841,12 +5841,12 @@ Watch for:
   - Patrick: “Look! He's on top of that big... drinking fountain!”
 
 ## Ep 745 — SpongeBob SubPants Adventure
-URL: https://watchwithkids.vercel.app/ep/spongebob/00745.html
+URL: https://watchwiththekids.com/ep/spongebob/00745.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E326a — SpongeBob TrashPants
-URL: https://watchwithkids.vercel.app/ep/spongebob/16326a.html
+URL: https://watchwiththekids.com/ep/spongebob/16326a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -5855,14 +5855,14 @@ Watch for:
   - SpongeBob: “[turns into a live-action robot] I am a mean, clean, trash machine. [terminal code displays on his eyes; he gets inside his trash can and rolls to the trash with his pick; masculine voice] I thank you, trash, for a…”
 
 ## S5 E88b — SpongeBob vs. The Patty Gadget
-URL: https://watchwithkids.vercel.app/ep/spongebob/0588b.html
+URL: https://watchwiththekids.com/ep/spongebob/0588b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patchy: “He struggled and strained 'til his face turned dark blue. Then the lever moved forward and broke right in two! The gadget buckled and sparked; it cracked like a gun. So Squidward took off, yelling...”
 
 ## S9 E189 — SpongeBob You're Fired
-URL: https://watchwithkids.vercel.app/ep/spongebob/09189.html
+URL: https://watchwiththekids.com/ep/spongebob/09189.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5872,12 +5872,12 @@ Watch for:
   - Krabby Patty Man: “Stop! Unhand that sponge! [Jumps on Pizza Pete and punches him away. Takes Señor Taco and destroys his costume by gobbling it. Señor Taco runs away embarrassed.]”
 
 ## S12 E256b — SpongeBob's Bad Habit
-URL: https://watchwithkids.vercel.app/ep/spongebob/12256b.html
+URL: https://watchwiththekids.com/ep/spongebob/12256b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E254 — SpongeBob's Big Birthday Blowout
-URL: https://watchwithkids.vercel.app/ep/spongebob/12254.html
+URL: https://watchwiththekids.com/ep/spongebob/12254.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -5906,7 +5906,7 @@ Watch for:
   - The creepy man becomes so fat from eating the cake that he splits the table in half. He coughs up the cake. Sandy groans in disgust. Two kids come by and start eating the partially eaten cake, much to Sandy's disgust.…
 
 ## Ep 751 — SpongeBob's Boating Bash
-URL: https://watchwithkids.vercel.app/ep/spongebob/00751.html
+URL: https://watchwiththekids.com/ep/spongebob/00751.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5915,14 +5915,14 @@ Watch for:
   - That's coming out of your paycheck!
 
 ## Ep 752 — SpongeBob's Crazy Carnival Ride
-URL: https://watchwithkids.vercel.app/ep/spongebob/00752.html
+URL: https://watchwiththekids.com/ep/spongebob/00752.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - Mr. Krabs: “Ahoy landlubbers, and welcome to Mr. Krabs Carnival Games! [whispers] And congratulations, you're going to help me get very, very rich.…”
 
 ## S7 E134 — SpongeBob's Last Stand
-URL: https://watchwithkids.vercel.app/ep/spongebob/07134.html
+URL: https://watchwiththekids.com/ep/spongebob/07134.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5931,12 +5931,12 @@ Watch for:
   - Mr. Krabs: “[angrily punches his claws together] C'mon lad, let's go give that Plankton a piece of our minds!”
 
 ## Ep 754 — SpongeBob's Legendary Dance Party
-URL: https://watchwithkids.vercel.app/ep/spongebob/00754.html
+URL: https://watchwiththekids.com/ep/spongebob/00754.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S10 E209a — SpongeBob's Place
-URL: https://watchwithkids.vercel.app/ep/spongebob/10209a.html
+URL: https://watchwiththekids.com/ep/spongebob/10209a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5946,26 +5946,26 @@ Watch for:
   - The Krusty Krab is shown with lots of black smoke coming out of the chimney. Shows burnt Krabby Patties on the grill and they burst into flames.
 
 ## S13 E272 — SpongeBob's Road to Christmas
-URL: https://watchwithkids.vercel.app/ep/spongebob/13272.html
+URL: https://watchwiththekids.com/ep/spongebob/13272.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “♪ Ta-dah! ♪ This gift is for Santa Claus! [kisses present, then places it under a Christmas tree] Even Santa deserves a gift! Right, Gary?”
 
 ## S12 E757 — SpongeBob's Spookiest Scenes Countdown Special
-URL: https://watchwithkids.vercel.app/ep/spongebob/12757.html
+URL: https://watchwiththekids.com/ep/spongebob/12757.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[sobs] Please, Mr. Squidward's ghost! [SpongeBob and Patrick are bowing before Squidward]Spare us your ghostly anger! [Patrick is kissing Squidward's feet and sobbing]”
 
 ## Ep 758 — SpongeBob's Start
-URL: https://watchwithkids.vercel.app/ep/spongebob/00758.html
+URL: https://watchwiththekids.com/ep/spongebob/00758.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E759 — SpongeBob's Super Bowl Party
-URL: https://watchwithkids.vercel.app/ep/spongebob/14759.html
+URL: https://watchwiththekids.com/ep/spongebob/14759.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5974,7 +5974,7 @@ Watch for:
   - SpongeBob: “Please let Gary take your coat. Then allow me to offer you some hors d'oeuvres and a glass of punch.”
 
 ## Ep 760 — SpongeBob's Truth or Square
-URL: https://watchwithkids.vercel.app/ep/spongebob/00760.html
+URL: https://watchwiththekids.com/ep/spongebob/00760.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -5982,34 +5982,34 @@ Watch for:
   - Dream SpongeBob: “Yes, I believe you ordered the rodent punch. Well, I got it. All by myself.”
 
 ## S14 E295b — SpongeChovy
-URL: https://watchwithkids.vercel.app/ep/spongebob/14295b.html
+URL: https://watchwiththekids.com/ep/spongebob/14295b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 762 — SpongeGod
-URL: https://watchwithkids.vercel.app/ep/spongebob/00762.html
+URL: https://watchwiththekids.com/ep/spongebob/00762.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E41b — SpongeGuard on Duty
-URL: https://watchwithkids.vercel.app/ep/spongebob/0341b.html
+URL: https://watchwiththekids.com/ep/spongebob/0341b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Larry: “Breathe, darn you! [starts to punch the fish in the stomach. The fish regurgitates "water" and a book]”
 
 ## S5 E99b — SpongeHenge
-URL: https://watchwithkids.vercel.app/ep/spongebob/0599b.html
+URL: https://watchwiththekids.com/ep/spongebob/0599b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 765 — SpongeLock Holmes and Dr. Patson
-URL: https://watchwithkids.vercel.app/ep/spongebob/00765.html
+URL: https://watchwiththekids.com/ep/spongebob/00765.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E103a — Spongicus
-URL: https://watchwithkids.vercel.app/ep/spongebob/06103a.html
+URL: https://watchwiththekids.com/ep/spongebob/06103a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -6017,7 +6017,7 @@ Watch for:
   - SpongeBob: “No! [slaps the sausage out of his hands] Patrick, now is not the time for eating, now is the time to avoid being eaten by that giant...…”
 
 ## S10 E212b — Sportz?
-URL: https://watchwithkids.vercel.app/ep/spongebob/10212b.html
+URL: https://watchwiththekids.com/ep/spongebob/10212b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -6025,7 +6025,7 @@ Watch for:
   - SpongeBob and Patrick appear brutally beaten up by Squidward's so-called games.
 
 ## S11 E217a — Spot Returns
-URL: https://watchwithkids.vercel.app/ep/spongebob/11217a.html
+URL: https://watchwiththekids.com/ep/spongebob/11217a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6035,36 +6035,36 @@ Watch for:
   - Plankton: “These are purebred amoebas, swine! [pulls out a ray gun and shots rapidly at Thaddeus as he runs; a lady walks out of the store] Take this puppy or I'll destroy you!”
 
 ## Ep 769 — Spurskate
-URL: https://watchwithkids.vercel.app/ep/spongebob/00769.html
+URL: https://watchwiththekids.com/ep/spongebob/00769.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E84a — Spy Buddies
-URL: https://watchwithkids.vercel.app/ep/spongebob/0584a.html
+URL: https://watchwiththekids.com/ep/spongebob/0584a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “Spy?! Whoo-ooh-ooh! [acts like James Bond, but it is really Patrick looking at SpongeBob through a drinking straw]”
 
 ## S1 E11b — Squatch Swap
-URL: https://watchwithkids.vercel.app/ep/spongebob/0111b.html
+URL: https://watchwiththekids.com/ep/spongebob/0111b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E8b — Squeaky Boots
-URL: https://watchwithkids.vercel.app/ep/spongebob/018b.html
+URL: https://watchwiththekids.com/ep/spongebob/018b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob pulls the covers over him with his feet sticking out. He then wiggles his feet, making the boots squeak one more time before going to sleep. As SpongeBob is sleeping with his boots on, Mr.…
 
 ## S9 E181b — Squid Baby
-URL: https://watchwithkids.vercel.app/ep/spongebob/09181b.html
+URL: https://watchwiththekids.com/ep/spongebob/09181b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S9 E183b — Squid Defense
-URL: https://watchwithkids.vercel.app/ep/spongebob/09183b.html
+URL: https://watchwiththekids.com/ep/spongebob/09183b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -6074,7 +6074,7 @@ Watch for:
   - Squidward: “[pushes SpongeBob] I won't. [walks out of the Krusty Krab and the scene changes to him walking in town with groceries. In the background, one incidental is seen drinking a cup of water.…”
 
 ## S11 E224a — Squid Noir
-URL: https://watchwithkids.vercel.app/ep/spongebob/11224a.html
+URL: https://watchwiththekids.com/ep/spongebob/11224a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6085,7 +6085,7 @@ Watch for:
   - Mermaid Man punches Suburban Dad. Suburban Dad falls but is grabbed by Mermaid Man.
 
 ## S2 E40a — Squid on Strike
-URL: https://watchwithkids.vercel.app/ep/spongebob/0240a.html
+URL: https://watchwiththekids.com/ep/spongebob/0240a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6096,14 +6096,14 @@ Watch for:
   - Squidward: “SpongeBob! [He grabs SpongeBob and pulls him off the door, but his arms and legs stick to the glass.] News flash, SpongeBob: I got fired, too! [SpongeBob is suctioned to the door.…”
 
 ## S9 E191a — Squid Plus One
-URL: https://watchwithkids.vercel.app/ep/spongebob/09191a.html
+URL: https://watchwiththekids.com/ep/spongebob/09191a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Larry punches Squidward to the ground and walks off. Squidward pops his head out.
 
 ## S4 E79b — Squid Wood
-URL: https://watchwithkids.vercel.app/ep/spongebob/0479b.html
+URL: https://watchwiththekids.com/ep/spongebob/0479b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6112,7 +6112,7 @@ Watch for:
   - Squidward: “That was awful! [confetti rains down as they all cheer for Mini Squidward and walk away with a noisemaker playing in the background.] He stole my jokes, he stole my job, he stole my standing ovation!…”
 
 ## S2 E21b — Squid's Day Off
-URL: https://watchwithkids.vercel.app/ep/spongebob/0221b.html
+URL: https://watchwiththekids.com/ep/spongebob/0221b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6122,21 +6122,21 @@ Watch for:
   - Squidward: “Aha! [goes under the water and appears as a real octopus (with the bathing cap shaped like a squid's head) with a gurgling voice] I know you're in here. [gasps] What? [SpongeBob is in the drain. He winks and goes down.…”
 
 ## S12 E248b — Squid's on a Bus
-URL: https://watchwithkids.vercel.app/ep/spongebob/12248b.html
+URL: https://watchwiththekids.com/ep/spongebob/12248b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Squidward: “Eh, ah-ah. No sharp objects allowed. [puts the umbrella in a box full of sharp stuff; he hears munching sounds] Huh? [sees Incidental 160 eating a Krabby Patty and begins talking through the microphone] Attention: this…”
 
 ## S6 E116a — Squid's Visit
-URL: https://watchwithkids.vercel.app/ep/spongebob/06116a.html
+URL: https://watchwiththekids.com/ep/spongebob/06116a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Squidward: “[Gary's food bowl lands on Squidward, who is on the couch, which is tipped over. Squidward sits up to realize he has the vacuum stuck inside of him] SpongeBob!…”
 
 ## S13 E292a — SquidBird
-URL: https://watchwithkids.vercel.app/ep/spongebob/13292a.html
+URL: https://watchwiththekids.com/ep/spongebob/13292a.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6147,14 +6147,14 @@ Watch for:
   - Bus driver: “...And on your left, you'll see a naked octopus locked out of his house!”
 
 ## S4 E68b — SquidBob TentaclePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/0468b.html
+URL: https://watchwiththekids.com/ep/spongebob/0468b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - One-Eyed Monster: “I've been in love with you ever since I first laid my eye on you. [both monsters kiss. SpongeBob and Squidward appear between them] Hey, baby, what's your name? [SpongeBob and Squidward get transported again.…”
 
 ## S13 E278a — Squidferatu
-URL: https://watchwithkids.vercel.app/ep/spongebob/13278a.html
+URL: https://watchwiththekids.com/ep/spongebob/13278a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6166,7 +6166,7 @@ Watch for:
   - SpongeBob: “[clapping] Yay! [gets slapped by Squidward] Ow.”
 
 ## S3 E52 — Squidina's Holidaze Special
-URL: https://watchwithkids.vercel.app/ep/spongebob/0352.html
+URL: https://watchwiththekids.com/ep/spongebob/0352.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6182,12 +6182,12 @@ Watch for:
   - He gets punched by Hans, who has a box on his fist. Patrick is tied to a ball and chain, wearing a mining helmet, and mining rocks.
 
 ## S1 E5a — Squidina's Little Helper
-URL: https://watchwithkids.vercel.app/ep/spongebob/015a.html
+URL: https://watchwiththekids.com/ep/spongebob/015a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E296b — Squidiot Box
-URL: https://watchwithkids.vercel.app/ep/spongebob/14296b.html
+URL: https://watchwiththekids.com/ep/spongebob/14296b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6199,17 +6199,17 @@ Watch for:
   - Bubble transition to SpongeBob and Patrick drinking from soda cans while on lounge chairs. Squidward is heard panting as the box jumps up repeatedly.
 
 ## S8 E173a — Squiditis
-URL: https://watchwithkids.vercel.app/ep/spongebob/08173a.html
+URL: https://watchwiththekids.com/ep/spongebob/08173a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E312a — Squidness Protection
-URL: https://watchwithkids.vercel.app/ep/spongebob/15312a.html
+URL: https://watchwiththekids.com/ep/spongebob/15312a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E75a — Squidtastic Voyage
-URL: https://watchwithkids.vercel.app/ep/spongebob/0475a.html
+URL: https://watchwiththekids.com/ep/spongebob/0475a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -6219,33 +6219,33 @@ Watch for:
   - Squidward is shown drinking a bottle of soda. He puts it with several other bottles.
 
 ## S2 E26b — Squidville
-URL: https://watchwithkids.vercel.app/ep/spongebob/0226b.html
+URL: https://watchwiththekids.com/ep/spongebob/0226b.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - "Grandma's Kisses"
 
 ## S7 E133b — Squidward in Clarinetland
-URL: https://watchwithkids.vercel.app/ep/spongebob/07133b.html
+URL: https://watchwiththekids.com/ep/spongebob/07133b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - His bad breath punches Squidward, plugs his nose, and he is still happy.
 
 ## S1 E11b — Squidward the Unfriendly Ghost
-URL: https://watchwithkids.vercel.app/ep/spongebob/0111b.html
+URL: https://watchwiththekids.com/ep/spongebob/0111b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[sobs] Please, Mr. Squidward's ghost! [SpongeBob and Patrick are bowing before Squidward, much to his surprise with Patrick kissing Squidward's feet and sobbing] Spare us your ghostly anger!”
 
 ## Ep 794 — Squidward's Back
-URL: https://watchwithkids.vercel.app/ep/spongebob/00794.html
+URL: https://watchwiththekids.com/ep/spongebob/00794.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E157a — Squidward's School for Grown-Ups
-URL: https://watchwithkids.vercel.app/ep/spongebob/08157a.html
+URL: https://watchwiththekids.com/ep/spongebob/08157a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6254,7 +6254,7 @@ Watch for:
   - SpongeBob and Patrick are coming out of their houses.
 
 ## S13 E269b — Squidward's Sick Daze
-URL: https://watchwithkids.vercel.app/ep/spongebob/13269b.html
+URL: https://watchwiththekids.com/ep/spongebob/13269b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6262,7 +6262,7 @@ Watch for:
   - SpongeBob laughs, kisses Squidward again, puts his icepack on his head, and carries him into his own house. Mr. Krabs walks off laughing. Bubble transition to SpongeBob preparing soup.…
 
 ## S16 E320b — Squidward's Tough Break
-URL: https://watchwithkids.vercel.app/ep/spongebob/16320b.html
+URL: https://watchwiththekids.com/ep/spongebob/16320b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -6272,7 +6272,7 @@ Watch for:
   - Reg: “Wow, Crazy Legs, you took that guy out in one hit! You've earned your leather! [snaps his fingers, and the two fish beat up the same person and give Crazy Legs his leather jacket]”
 
 ## S3 E48b — Squilliam Returns
-URL: https://watchwithkids.vercel.app/ep/spongebob/0348b.html
+URL: https://watchwiththekids.com/ep/spongebob/0348b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6281,7 +6281,7 @@ Watch for:
   - Patrick: “Gimme that hat! [shaking a coat rack with a hat on it] I said give it to me! Are you gonna hand it over or not? Don't you back-sass me! [jumps on the coat rack and starts punching it]”
 
 ## S11 E241a — Squirrel Jelly
-URL: https://watchwithkids.vercel.app/ep/spongebob/11241a.html
+URL: https://watchwiththekids.com/ep/spongebob/11241a.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -6292,33 +6292,33 @@ Watch for:
   - The giant jellyfish monster throws the machetes down to the ground. SpongeBob and Patrick frantically dodge the incoming machetes to avoid getting hurt.…
 
 ## S2 E31b — Squirrel Jokes
-URL: https://watchwithkids.vercel.app/ep/spongebob/0231b.html
+URL: https://watchwiththekids.com/ep/spongebob/0231b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E179b — Squirrel Record
-URL: https://watchwithkids.vercel.app/ep/spongebob/09179b.html
+URL: https://watchwiththekids.com/ep/spongebob/09179b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “You're right. She does need my help. I must stop this madness! It's all that book's fault! [punches his fist] The book is evil! The book must be destroyed!”
 
 ## S1 E9a — Squisery
-URL: https://watchwithkids.vercel.app/ep/spongebob/019a.html
+URL: https://watchwiththekids.com/ep/spongebob/019a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Patrick: “[holding up three wieners] Cocktail wieners?”
 
 ## S1 E2a — Stair Wars
-URL: https://watchwithkids.vercel.app/ep/spongebob/012a.html
+URL: https://watchwiththekids.com/ep/spongebob/012a.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - Sun: “Cock-a-doodle-doo!”
 
 ## S5 E100b — Stanley S. SquarePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/05100b.html
+URL: https://watchwiththekids.com/ep/spongebob/05100b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6328,7 +6328,7 @@ Watch for:
   - Plankton: “I can't believe it! That fool Krabs letting the blood relative of his best worker-- [loud noises are heard inside the Chum Bucket. The building starts shaking and a big explosion occurs as Mr.…”
 
 ## S2 E34b — Star Cruise
-URL: https://watchwithkids.vercel.app/ep/spongebob/0234b.html
+URL: https://watchwiththekids.com/ep/spongebob/0234b.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6336,7 +6336,7 @@ Watch for:
   - The Stars shout as a black hole sucks up their car, then blows a kiss. It grabs a straw and sucks up the rest of the background, and then itself.
 
 ## S3 E42a — Star-Robics
-URL: https://watchwithkids.vercel.app/ep/spongebob/0342a.html
+URL: https://watchwiththekids.com/ep/spongebob/0342a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -6344,7 +6344,7 @@ Watch for:
   - Patrick puts on leopard print wristbands. He begins punching Squidasaurus Rex's nose, who eats him, Cave Patrick, and the ground below them. Then, Cave Patrick cracks a large egg into a small bowl, then chugs it.…
 
 ## S4 E61b — Stare Wars
-URL: https://watchwithkids.vercel.app/ep/spongebob/0461b.html
+URL: https://watchwiththekids.com/ep/spongebob/0461b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 3 moment(s)
@@ -6353,7 +6353,7 @@ Watch for:
   - GrandPat: “Outrageous! [punches chest] This ticker is as strong as a whale!”
 
 ## S12 E246b — Stormy Weather
-URL: https://watchwithkids.vercel.app/ep/spongebob/12246b.html
+URL: https://watchwiththekids.com/ep/spongebob/12246b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6361,7 +6361,7 @@ Watch for:
   - SpongeBob: “Good-bye, my little foul weather friend. I'll never forget you, come rain or shine. Mwah! [blow kisses]”
 
 ## S15 E311b — Stuck in an Elevator
-URL: https://watchwithkids.vercel.app/ep/spongebob/15311b.html
+URL: https://watchwiththekids.com/ep/spongebob/15311b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6370,12 +6370,12 @@ Watch for:
   - The elevator bell dings. SpongeBob and Patrick rise out of the sand, both having stubble. SpongeBob has his tie wrapped around his head like a headband and his pant leggings are ripped.…
 
 ## S7 E128b — Stuck in the Wringer
-URL: https://watchwithkids.vercel.app/ep/spongebob/07128b.html
+URL: https://watchwiththekids.com/ep/spongebob/07128b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E221b — Stuck on the Roof
-URL: https://watchwithkids.vercel.app/ep/spongebob/11221b.html
+URL: https://watchwiththekids.com/ep/spongebob/11221b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6385,14 +6385,14 @@ Watch for:
   - SpongeBob: “Ooh, looks like Squidward has a date. Good for him. It can be so tough to put yourself out there. [sees Squidward clink both glasses of wine and drinks them both] Oh, no. Poor Squidward.…”
 
 ## S15 E310b — Student Driver Survivor
-URL: https://watchwithkids.vercel.app/ep/spongebob/15310b.html
+URL: https://watchwiththekids.com/ep/spongebob/15310b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Mrs. Puff: “Well, I've got a live one for you. [holds up SpongeBob, drops him back into the boat, and laughs as she runs off] Oh, good luck! You'll need it. [blows a kiss] Mwah.…”
 
 ## S1 E24a — Stuntin'
-URL: https://watchwithkids.vercel.app/ep/spongebob/0124a.html
+URL: https://watchwiththekids.com/ep/spongebob/0124a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6402,14 +6402,14 @@ Watch for:
   - Bare Knuckles is rapidly punching Patrick.
 
 ## S16 E329b — Stupor-stition
-URL: https://watchwithkids.vercel.app/ep/spongebob/16329b.html
+URL: https://watchwiththekids.com/ep/spongebob/16329b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Leprechaun: “[teleports to the pot of gold and laughs] Looking for a pot of gold? [snaps his fingers revealing lots of coins coming out of the pot]”
 
 ## S6 E103b — Suction Cup Symphony
-URL: https://watchwithkids.vercel.app/ep/spongebob/06103b.html
+URL: https://watchwiththekids.com/ep/spongebob/06103b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6417,7 +6417,7 @@ Watch for:
   - Squidward: “Noooo! [breaks down in tears] Why, why, why, oh, why?! [cries. Patrick is hitting his knee with a hammer, and SpongeBob is timing how long it takes until he screams, he then writes something down on his clipboard…”
 
 ## S1 E15b — Suds
-URL: https://watchwithkids.vercel.app/ep/spongebob/0115b.html
+URL: https://watchwiththekids.com/ep/spongebob/0115b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6427,7 +6427,7 @@ Watch for:
   - SpongeBob: “No, Gary. [sniffles] If I had the suds, I'd have bubbles coming out of me. [sneezes, then pink bubbles come out of him then he moans exhaustingly]”
 
 ## S1 E2a — Sugar Squeeze
-URL: https://watchwithkids.vercel.app/ep/spongebob/012a.html
+URL: https://watchwiththekids.com/ep/spongebob/012a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6436,27 +6436,27 @@ Watch for:
   - Narlene: “Hey y'all, you wanna meet my kin folk? [She opens a door to reveal a country band. The campers and Narlene dance to it, as she uses a spray gun to spray Sugar Squeeze into the campers mouths, and they drink so much…”
 
 ## S7 E136b — Summer Job
-URL: https://watchwithkids.vercel.app/ep/spongebob/07136b.html
+URL: https://watchwiththekids.com/ep/spongebob/07136b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E106b — Sun Bleached
-URL: https://watchwithkids.vercel.app/ep/spongebob/06106b.html
+URL: https://watchwiththekids.com/ep/spongebob/06106b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E15b — Sun's Out, Fun's Out
-URL: https://watchwithkids.vercel.app/ep/spongebob/0115b.html
+URL: https://watchwiththekids.com/ep/spongebob/0115b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 821 — Super Bowl LIII Halftime Show short
-URL: https://watchwithkids.vercel.app/ep/spongebob/00821.html
+URL: https://watchwiththekids.com/ep/spongebob/00821.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E176a — Super Evil Aquatic Villain Team Up is Go!
-URL: https://watchwithkids.vercel.app/ep/spongebob/08176a.html
+URL: https://watchwiththekids.com/ep/spongebob/08176a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -6468,12 +6468,12 @@ Watch for:
   - Man Ray: “[Is obese after eating too much Krabby Patties. He holds one last uneaten Krabby Patty] No... no... no more... can't... eat... [drops the last Patty] another... [the chair he's sitting on breaks, he falls on the floor.]”
 
 ## Ep 823 — Super Senses
-URL: https://watchwithkids.vercel.app/ep/spongebob/00823.html
+URL: https://watchwiththekids.com/ep/spongebob/00823.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E12b — Super Sitters
-URL: https://watchwithkids.vercel.app/ep/spongebob/0112b.html
+URL: https://watchwiththekids.com/ep/spongebob/0112b.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6491,21 +6491,21 @@ Watch for:
   - The director is walking back, humming. He sees explosions and lightning coming out of the day care.
 
 ## S2 E28a — Super Stars
-URL: https://watchwithkids.vercel.app/ep/spongebob/0228a.html
+URL: https://watchwiththekids.com/ep/spongebob/0228a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Squidina: “All right! [raises rope] Time for some villainy. [beats up Granny Tentacles in a fight cloud, leaving her tied up in the rope] But first, let's get rid of this pesky hero. Evil ink web.…”
 
 ## Ep 826 — SuperSponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/00826.html
+URL: https://watchwiththekids.com/ep/spongebob/00826.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “Now to find the Scallop Bra, the only place is Desert Wasteland. But what if I get stuck in quicksand! Like that's gonna happen!!”
 
 ## S11 E236b — Surf N' Turf
-URL: https://watchwithkids.vercel.app/ep/spongebob/11236b.html
+URL: https://watchwiththekids.com/ep/spongebob/11236b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6513,17 +6513,17 @@ Watch for:
   - Mr. Krabs: “Blow a kiss, jellyfish! [cackles as he drives away with Sandy's treedome]”
 
 ## Ep 828 — Surfing Dreams
-URL: https://watchwithkids.vercel.app/ep/spongebob/00828.html
+URL: https://watchwiththekids.com/ep/spongebob/00828.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E29a — Survival of the Idiots
-URL: https://watchwithkids.vercel.app/ep/spongebob/0229a.html
+URL: https://watchwiththekids.com/ep/spongebob/0229a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E9b — Survivoring
-URL: https://watchwithkids.vercel.app/ep/spongebob/019b.html
+URL: https://watchwiththekids.com/ep/spongebob/019b.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -6538,7 +6538,7 @@ Watch for:
   - Patrick and Cecil shiver some more. Back at home, GrandPat is on the couch with the TV remote. He tries to change the channel, but gets knocked over by a pop-up tent coming out of the remote.
 
 ## S12 E247a — Swamp Mates
-URL: https://watchwithkids.vercel.app/ep/spongebob/12247a.html
+URL: https://watchwiththekids.com/ep/spongebob/12247a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 2 moment(s)
@@ -6546,7 +6546,7 @@ Watch for:
   - Bubble Bass: “[looks at his stung tongue] My tongue! [notices Patrick drinking a cup of liquid] Water! Give me water! [takes Patrick's cup and drinks it, but then spits it out in disgust over realizing it is not water, but rather…”
 
 ## S3 E46b — Swaptoberfest
-URL: https://watchwithkids.vercel.app/ep/spongebob/0346b.html
+URL: https://watchwiththekids.com/ep/spongebob/0346b.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6556,19 +6556,19 @@ Watch for:
   - GrandPat: “[narrating] He single-handedly defeated the entire Klopnodian army with nothing but his bare fist-- [punches the soldiers away]”
 
 ## S8 E158a — Sweet and Sour Squid
-URL: https://watchwithkids.vercel.app/ep/spongebob/08158a.html
+URL: https://watchwiththekids.com/ep/spongebob/08158a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E33b — Swimmin' Holed
-URL: https://watchwithkids.vercel.app/ep/spongebob/0233b.html
+URL: https://watchwiththekids.com/ep/spongebob/0233b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - Everyone tries to beat up Narlene and Nobby, and they both escape from the fighting cloud.
 
 ## S13 E291a — Swimming Fools
-URL: https://watchwithkids.vercel.app/ep/spongebob/13291a.html
+URL: https://watchwiththekids.com/ep/spongebob/13291a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6576,14 +6576,14 @@ Watch for:
   - As Squidward plays his clarinet, two mermaids appear on both sides and kiss his head, until the scene fades to reality with Squidward kissing until he falls off the inflatable chair and into the pool.
 
 ## S9 E187b — Séance Shméance
-URL: https://watchwithkids.vercel.app/ep/spongebob/09187b.html
+URL: https://watchwiththekids.com/ep/spongebob/09187b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Old Man Jenkins: “[in the background, Incidental 40 is seen drinking a Krabby Soda] Huh? Well, let's see, um, I think it was on rye bread, it was #9 on the menu, it came with a side of something or other...”
 
 ## S1 E2b — Tag, You're It
-URL: https://watchwithkids.vercel.app/ep/spongebob/012b.html
+URL: https://watchwiththekids.com/ep/spongebob/012b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6592,7 +6592,7 @@ Watch for:
   - Craig punches Tall Tail's legs repeatedly. Tall Tail kicks him into the wall. Mo bashes Larry over the head with a chair. Mo rides after Larry on the bike. The Dinghies crawl and escape.…
 
 ## S14 E299a — Tango Tangle
-URL: https://watchwithkids.vercel.app/ep/spongebob/14299a.html
+URL: https://watchwiththekids.com/ep/spongebob/14299a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6611,7 +6611,7 @@ Watch for:
   - Plankton: “[getting up] Nobody is more aggressive than us. [a ray gun drops to the ground] They just have more practice. If only there was some way we could cheat [Karen sighs] and show them who's really the best.”
 
 ## S2 E35b — Tattoo Hullabaloo
-URL: https://watchwithkids.vercel.app/ep/spongebob/0235b.html
+URL: https://watchwiththekids.com/ep/spongebob/0235b.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6627,38 +6627,38 @@ Watch for:
   - Brown thug: “[repeatedly punching a black-eyed Fred, then screams as Bunny tosses him aside]”
 
 ## Ep 840 — Taurus
-URL: https://watchwithkids.vercel.app/ep/spongebob/00840.html
+URL: https://watchwiththekids.com/ep/spongebob/00840.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E1c — Tea at the Treedome
-URL: https://watchwithkids.vercel.app/ep/spongebob/011c.html
+URL: https://watchwiththekids.com/ep/spongebob/011c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Sandy: “[cartwheeling] Well, alright. I made Texas tea and cookies. Well, come on in! Hi-yah! [SpongeBob is walking an inch forward and it makes weak squeaking sounds with every step] That's not in. In.…”
 
 ## S11 E222b — Teacher's Pests
-URL: https://watchwithkids.vercel.app/ep/spongebob/11222b.html
+URL: https://watchwiththekids.com/ep/spongebob/11222b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Mr. Krabs: “Ehh, you cause a little 300 boat pile-up, and they send you to boating school. Eh, well, better make the most of it and grab the best desk. Ahh.…”
 
 ## S7 E127a — Tentacle-Vision
-URL: https://watchwithkids.vercel.app/ep/spongebob/07127a.html
+URL: https://watchwiththekids.com/ep/spongebob/07127a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S1 E8 — Terror at 20,000 Leagues
-URL: https://watchwithkids.vercel.app/ep/spongebob/0108.html
+URL: https://watchwiththekids.com/ep/spongebob/0108.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Quasar: “That's not your baby, Pat-Tron. That's a murder machine!”
 
 ## S4 E65 — Terror on Tape
-URL: https://watchwithkids.vercel.app/ep/spongebob/0465.html
+URL: https://watchwiththekids.com/ep/spongebob/0465.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6670,7 +6670,7 @@ Watch for:
   - Patrick: “[now obese, eating a bunch of junk food] Huh?”
 
 ## S1 E18a — Texas
-URL: https://watchwithkids.vercel.app/ep/spongebob/0118a.html
+URL: https://watchwiththekids.com/ep/spongebob/0118a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -6679,24 +6679,24 @@ Watch for:
   - SpongeBob: “[off-screen] Good morning, Bikini Bottom! [cut to his hand coming out from a sandcastle pineapple, with his face drawn] Ah, what a beautiful day. [his hand is crawling] Do-do-do-do-do-do-do-doo.…”
 
 ## Ep 847 — Texas (voice-over)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00847.html
+URL: https://watchwiththekids.com/ep/spongebob/00847.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E50 — Thanks But No Thanksgiving
-URL: https://watchwithkids.vercel.app/ep/spongebob/0350.html
+URL: https://watchwiththekids.com/ep/spongebob/0350.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Cecil: “Phew, that soup's got some kick to it! [Cecil gets repeatedly kicked by a donkey legs coming out of the cauldron]”
 
 ## S7 E144a — That Sinking Feeling
-URL: https://watchwithkids.vercel.app/ep/spongebob/07144a.html
+URL: https://watchwiththekids.com/ep/spongebob/07144a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E75b — That's No Lady
-URL: https://watchwithkids.vercel.app/ep/spongebob/0475b.html
+URL: https://watchwiththekids.com/ep/spongebob/0475b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6705,24 +6705,24 @@ Watch for:
   - Patrick rips off his disguise and reveals him naked. Everyone gasps in shock while Squidward's eyes shrink in horror.
 
 ## Ep 851 — The 12 Days of Nickmas
-URL: https://watchwithkids.vercel.app/ep/spongebob/00851.html
+URL: https://watchwiththekids.com/ep/spongebob/00851.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E146a — The Abrasive Side
-URL: https://watchwithkids.vercel.app/ep/spongebob/07146a.html
+URL: https://watchwiththekids.com/ep/spongebob/07146a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Mr. Krabs: “[coming out of the shoe store] SpongeBob! Boyo, you've got to help me. Pearl's got her heart set on a new pair of shoes. Your job is to tell her no.”
 
 ## Ep 853 — The Absorbing Tale Behind The SpongeBob SquarePants Movie
-URL: https://watchwithkids.vercel.app/ep/spongebob/00853.html
+URL: https://watchwiththekids.com/ep/spongebob/00853.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E41a — The Algae's Always Greener
-URL: https://watchwithkids.vercel.app/ep/spongebob/0341a.html
+URL: https://watchwiththekids.com/ep/spongebob/0341a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6736,7 +6736,7 @@ Watch for:
   - Alternate-Universe SpongeBob: [steam coming out of his mouth] Yes, sir?
 
 ## S7 E135b — The Bad Guy Club for Villains
-URL: https://watchwithkids.vercel.app/ep/spongebob/07135b.html
+URL: https://watchwiththekids.com/ep/spongebob/07135b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -6748,21 +6748,21 @@ Watch for:
   - Patrick: “I can't watch! [His eyes come through his hands. The nuclear touch shows an arm coming out, and it punches Barnacle Boy right in the face]”
 
 ## S12 E243b — The Ballad of Filthy Muck
-URL: https://watchwithkids.vercel.app/ep/spongebob/12243b.html
+URL: https://watchwiththekids.com/ep/spongebob/12243b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Old Man Jenkins points to Patrick's buttocks being shown. The scene pulls out to reveal that Patrick is naked after he dropped his towel. Everyone except Squidward and Old Man Jenkins laugh at Patrick's nakedness.…
 
 ## S5 E97b — The Battle of Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/0597b.html
+URL: https://watchwiththekids.com/ep/spongebob/0597b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Patrick: “I'll fix it. [Stretches SpongeBob's pants, filling it up with dirt, then yanks his underwear, making SpongeBob squish up with dirt]”
 
 ## S2 E28b — The Beardsman
-URL: https://watchwithkids.vercel.app/ep/spongebob/0228b.html
+URL: https://watchwiththekids.com/ep/spongebob/0228b.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6772,14 +6772,14 @@ Watch for:
   - Larry: “[using his beard fist to hit a punching bag on a rope]”
 
 ## S13 E274a — The Big Bad Bubble Bass
-URL: https://watchwithkids.vercel.app/ep/spongebob/13274a.html
+URL: https://watchwiththekids.com/ep/spongebob/13274a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Bubble Bass: “M-M-Mama, t-t-t-that receipt must be a forgery! [she inhales deeply] No, mama, please! I was just trying to- [she burps on him. Bubble Bass is shown in his underwear, and he shrieks and covers himself as his mom walks…”
 
 ## S3 E43b — The Bully
-URL: https://watchwithkids.vercel.app/ep/spongebob/0343b.html
+URL: https://watchwiththekids.com/ep/spongebob/0343b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 5 moment(s)
@@ -6790,12 +6790,12 @@ Watch for:
   - Mrs. Puff: “Sorry I'm late, class, I... [gasps as she sees SpongeBob's fist and Flats on the ground] SpongeBob! I can't believe you beat up a new student! [zoom out of school] I'm going to kick your butt!”
 
 ## S3 E57b — The Camping Episode
-URL: https://watchwithkids.vercel.app/ep/spongebob/0357b.html
+URL: https://watchwiththekids.com/ep/spongebob/0357b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S6 E113b — The Card
-URL: https://watchwithkids.vercel.app/ep/spongebob/06113b.html
+URL: https://watchwiththekids.com/ep/spongebob/06113b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -6803,12 +6803,12 @@ Watch for:
   - Voice: “Mermaid Man says... [four fists punch four Barnacle Boys on the four cards]”
 
 ## S7 E139b — The Cent of Money
-URL: https://watchwithkids.vercel.app/ep/spongebob/07139b.html
+URL: https://watchwiththekids.com/ep/spongebob/07139b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E12a — The Chaperone
-URL: https://watchwithkids.vercel.app/ep/spongebob/0112a.html
+URL: https://watchwiththekids.com/ep/spongebob/0112a.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -6820,7 +6820,7 @@ Watch for:
   - Mr. Krabs: “Yeah, they would. We've got to find someone else. [makes an announcement to the customers] Listen up! Which one of you lucky lubbers wants to take [now off-screen, cut to Pearl making a charming pose and bouncing her…”
 
 ## S11 E217b — The Check-Up
-URL: https://watchwithkids.vercel.app/ep/spongebob/11217b.html
+URL: https://watchwiththekids.com/ep/spongebob/11217b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6830,7 +6830,7 @@ Watch for:
   - SpongeBob: “Oh, no, Mr. Krabs! Getting a checkup is the best! The nurse poked me [pokes himself] and prodded me [prods himself] and jabbed me... [punches himself] and pulled me [stretches] and twisted me. [twists himself] And”
 
 ## S11 E216b — The Clam Whisperer
-URL: https://watchwithkids.vercel.app/ep/spongebob/11216b.html
+URL: https://watchwiththekids.com/ep/spongebob/11216b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -6839,19 +6839,19 @@ Watch for:
   - SpongeBob solemnly leaves Bikini Bottom with the clams while a violin player among the townsfolk plays a sad song on the violin. Bubble transition to SpongeBob swinging on a vine and giving out a Tarzan-like yell.…
 
 ## S6 E126 — The Clash of Triton
-URL: https://watchwithkids.vercel.app/ep/spongebob/06126.html
+URL: https://watchwiththekids.com/ep/spongebob/06126.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - King Neptune: “[narrating] What was happening to my own flesh and blood? [he is seen sitting on the toilet] Over the next few millennia, my son grew not only in size, but in perplexing behavior.”
 
 ## S2 E32a — The Commode Episode
-URL: https://watchwithkids.vercel.app/ep/spongebob/0232a.html
+URL: https://watchwiththekids.com/ep/spongebob/0232a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 869 — The Cosmic Shake
-URL: https://watchwithkids.vercel.app/ep/spongebob/00869.html
+URL: https://watchwiththekids.com/ep/spongebob/00869.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6870,12 +6870,12 @@ Watch for:
   - Madame Kassandra: “This precious Jelly is not to be wasted on the minor inconveniences of a bald sea critter! This is about the big, the really big, the biggest picture! My once in a lifetime opportunity for world domina-...…”
 
 ## S7 E133a — The Curse of Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/07133a.html
+URL: https://watchwiththekids.com/ep/spongebob/07133a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E141a — The Curse of the Hex
-URL: https://watchwithkids.vercel.app/ep/spongebob/07141a.html
+URL: https://watchwiththekids.com/ep/spongebob/07141a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
@@ -6884,7 +6884,7 @@ Watch for:
   - Mr. Krabs: “[throws patties away] We are not a soup kitchen, boy! And these will be coming out of your paycheck. Besides, we don't want to encourage- [shudders] charity...”
 
 ## S4 E54a — The Dated Game
-URL: https://watchwithkids.vercel.app/ep/spongebob/0454a.html
+URL: https://watchwiththekids.com/ep/spongebob/0454a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -6893,29 +6893,29 @@ Watch for:
   - Squidina: “Sorry. What? [pulls Patrick's underwear off from his head]”
 
 ## S14 E305a — The Dirty Bubble Bass
-URL: https://watchwithkids.vercel.app/ep/spongebob/14305a.html
+URL: https://watchwiththekids.com/ep/spongebob/14305a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E90b — The Donut of Shame
-URL: https://watchwithkids.vercel.app/ep/spongebob/0590b.html
+URL: https://watchwiththekids.com/ep/spongebob/0590b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Patrick: “Whooooo! Chamomile, chamomile, chamomile! Oh, she really knows how to pound 'em down, huh, SpongeBob? [you can hear SpongeBob snoring] SpongeBob...…”
 
 ## S1 E17a — The Drooling Fool
-URL: https://watchwithkids.vercel.app/ep/spongebob/0117a.html
+URL: https://watchwiththekids.com/ep/spongebob/0117a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 876 — The Endless Summer
-URL: https://watchwithkids.vercel.app/ep/spongebob/00876.html
+URL: https://watchwiththekids.com/ep/spongebob/00876.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E191b — The Executive Treatment
-URL: https://watchwithkids.vercel.app/ep/spongebob/09191b.html
+URL: https://watchwiththekids.com/ep/spongebob/09191b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -6928,17 +6928,17 @@ Watch for:
   - Patrick: “Oh, wait! [Patrick draws a sun with a happy face on the easel. Then he draws a house.] And here's a little house with smoke coming out of the chimney.…”
 
 ## Ep 878 — The First Season Crew on...
-URL: https://watchwithkids.vercel.app/ep/spongebob/00878.html
+URL: https://watchwiththekids.com/ep/spongebob/00878.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E196a — The Fish Bowl
-URL: https://watchwithkids.vercel.app/ep/spongebob/09196a.html
+URL: https://watchwiththekids.com/ep/spongebob/09196a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E284a — The Flower Plot
-URL: https://watchwithkids.vercel.app/ep/spongebob/13284a.html
+URL: https://watchwiththekids.com/ep/spongebob/13284a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6948,14 +6948,14 @@ Watch for:
   - Squidward: “SpongeBob! [enters the Pot] Get back to your grill! I've got orders coming out of my nose! [snorts it out]”
 
 ## S17 E337a — The Fry Cook and the Elves
-URL: https://watchwithkids.vercel.app/ep/spongebob/17337a.html
+URL: https://watchwiththekids.com/ep/spongebob/17337a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Scene bubble transitions to the Elves holding out the ingredients and making the Krabby Patties. Nick and Knox hold a punch of Patties and put them on a Spatula designed as a catapult over a cup, and then Knack jumps…
 
 ## S2 E39b — The Fry Cook Games
-URL: https://watchwithkids.vercel.app/ep/spongebob/0239b.html
+URL: https://watchwiththekids.com/ep/spongebob/0239b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6964,7 +6964,7 @@ Watch for:
   - Mr. Krabs: “He's gonna stab you in the back.”
 
 ## S3 E40a — The Fun Bucket
-URL: https://watchwithkids.vercel.app/ep/spongebob/0340a.html
+URL: https://watchwiththekids.com/ep/spongebob/0340a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6974,7 +6974,7 @@ Watch for:
   - Cecil: “Live, son! [punches Patrick] Live!”
 
 ## S10 E213a — The Getaway
-URL: https://watchwithkids.vercel.app/ep/spongebob/10213a.html
+URL: https://watchwiththekids.com/ep/spongebob/10213a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6985,21 +6985,21 @@ Watch for:
   - Sticky Fins punches the radio.
 
 ## S12 E259a — The Ghost of Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/12259a.html
+URL: https://watchwiththekids.com/ep/spongebob/12259a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Plankton: “Okay, my turn! [gives the Flying Dutchman a friendly punch in the stomach] Shh. Someone's coming. [floats toward a mirror] Watch me scare this dummy real good.”
 
 ## S4 E80b — The Gift of Gum
-URL: https://watchwithkids.vercel.app/ep/spongebob/0480b.html
+URL: https://watchwiththekids.com/ep/spongebob/0480b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “O, majestic and much masticated Gummy, although I am not worthy to be in your presence, may my humble abode please you. [struggles to push the giant ball of gum in his house.…”
 
 ## S13 E291b — The Goobfather
-URL: https://watchwithkids.vercel.app/ep/spongebob/13291b.html
+URL: https://watchwiththekids.com/ep/spongebob/13291b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
@@ -7008,43 +7008,43 @@ Watch for:
   - Goobfather: “That's just my day job. The Goobfather is my true identity. I control all the ice cream trade in this town, and I heard about your little [pulls down menu] fatty flips.”
 
 ## S8 E177a — The Good Krabby Name
-URL: https://watchwithkids.vercel.app/ep/spongebob/08177a.html
+URL: https://watchwiththekids.com/ep/spongebob/08177a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Patrick punches SpongeBob
 
 ## S12 E258b — The Goofy Newbie
-URL: https://watchwithkids.vercel.app/ep/spongebob/12258b.html
+URL: https://watchwiththekids.com/ep/spongebob/12258b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S8 E158b — The Googly Artiste
-URL: https://watchwithkids.vercel.app/ep/spongebob/08158b.html
+URL: https://watchwiththekids.com/ep/spongebob/08158b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E143 — The Great Patty Caper
-URL: https://watchwithkids.vercel.app/ep/spongebob/07143.html
+URL: https://watchwiththekids.com/ep/spongebob/07143.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E55a — The Great Snail Race
-URL: https://watchwithkids.vercel.app/ep/spongebob/0355a.html
+URL: https://watchwiththekids.com/ep/spongebob/0355a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - SpongeBob: “Alright, Gary, no more foolin' around. Time to get serious. [scene cuts to SpongeBob blowing on a whistle] Come on, Gary, move it! [scene cuts to Gary crawling up and down a wall] Up, up, up, up, up!…”
 
 ## S16 E331a — The Green Tentacle
-URL: https://watchwithkids.vercel.app/ep/spongebob/16331a.html
+URL: https://watchwiththekids.com/ep/spongebob/16331a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “No, Squidward. You destroyed your paintings for friendship. [kisses Squidward on the helmet] Mwah! [hums and skips away]”
 
 ## S11 E239a — The Grill is Gone
-URL: https://watchwithkids.vercel.app/ep/spongebob/11239a.html
+URL: https://watchwiththekids.com/ep/spongebob/11239a.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7052,7 +7052,7 @@ Watch for:
   - The scene changes to the next morning. Thunder claps around the sign that reads, "Murder Hill." SpongeBob pulls the racing cart he and Mr. Krabs made.…
 
 ## S12 E262b — The Hankering
-URL: https://watchwithkids.vercel.app/ep/spongebob/12262b.html
+URL: https://watchwiththekids.com/ep/spongebob/12262b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -7061,24 +7061,24 @@ Watch for:
   - Mr. Krabs: “[takes out a straw] Right! [slurps on the rest of the chum until he is completely obese and full]”
 
 ## S16 E327a — The Haunted Bucket
-URL: https://watchwithkids.vercel.app/ep/spongebob/16327a.html
+URL: https://watchwiththekids.com/ep/spongebob/16327a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E57a — The Haunting of Flim-Flam House
-URL: https://watchwithkids.vercel.app/ep/spongebob/0457a.html
+URL: https://watchwiththekids.com/ep/spongebob/0457a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Patrick: “I overcooked it this morning, and it died! [the scene cuts to him] In order to speak to the great beyond, I'll need... [pulls out his underwear] my Wedgie Board!”
 
 ## S1 E7a — The Haunting of Star House
-URL: https://watchwithkids.vercel.app/ep/spongebob/017a.html
+URL: https://watchwiththekids.com/ep/spongebob/017a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E12a — The Ho! Ho! Horror!
-URL: https://watchwithkids.vercel.app/ep/spongebob/0112a.html
+URL: https://watchwiththekids.com/ep/spongebob/0112a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7091,7 +7091,7 @@ Watch for:
   - Patrick: “Stupid root beer! [runs off]”
 
 ## S8 E154b — The Hot Shot
-URL: https://watchwithkids.vercel.app/ep/spongebob/08154b.html
+URL: https://watchwiththekids.com/ep/spongebob/08154b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7099,31 +7099,31 @@ Watch for:
   - Tony Jr.: “Okay Bro-Jangles! Catch you... [jumps and flips off of the boat landing perfectly on the ground] ...on the flipside! [snaps and then gets picked up by Mrs. Puff] What the? [Mrs. Puff kisses him on the cheek]”
 
 ## S10 E212a — The Incredible Shrinking Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/10212a.html
+URL: https://watchwiththekids.com/ep/spongebob/10212a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “What the shrimp? [his body starts shrinking] Hey, what's going on here? [notices the high temperature on the grill] Whoa! That's too hot! [tries to turn the grill down, but his fingers are too sweaty] Whooaaa!…”
 
 ## S5 E95a — The Inmates of Summer
-URL: https://watchwithkids.vercel.app/ep/spongebob/0595a.html
+URL: https://watchwiththekids.com/ep/spongebob/0595a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E129b — The Inside Job
-URL: https://watchwithkids.vercel.app/ep/spongebob/07129b.html
+URL: https://watchwiththekids.com/ep/spongebob/07129b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Plankton unplugs the eardrum plugs, causing everything from SpongeBob's perspective to be muted as Mr. Krabs describes the secret formula with no sound coming out.
 
 ## S1 E17b — The Jelly Life
-URL: https://watchwithkids.vercel.app/ep/spongebob/0117b.html
+URL: https://watchwiththekids.com/ep/spongebob/0117b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E1 — The Jellyfish Kid
-URL: https://watchwithkids.vercel.app/ep/spongebob/0101.html
+URL: https://watchwiththekids.com/ep/spongebob/0101.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -7132,7 +7132,7 @@ Watch for:
   - Patrick and Sandy stare in awe at the beautiful jellyfish coming out of SpongeBob's back. The jellyfish fly away as the episode ends.
 
 ## S6 E109b — The Krabby Kronicle
-URL: https://watchwithkids.vercel.app/ep/spongebob/06109b.html
+URL: https://watchwiththekids.com/ep/spongebob/06109b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7143,12 +7143,12 @@ Watch for:
   - Larry: “[reading] "Larry the Loser Gets Beaten Up by Pipsqueak"? [tries to explain to his teacher] But, but-but...”
 
 ## S8 E167a — The Krabby Patty That Ate Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/08167a.html
+URL: https://watchwiththekids.com/ep/spongebob/08167a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S16 E322b — The Kreepy Krab
-URL: https://watchwithkids.vercel.app/ep/spongebob/16322b.html
+URL: https://watchwiththekids.com/ep/spongebob/16322b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7160,29 +7160,29 @@ Watch for:
   - Slappy and Nosferatu both laugh. Slappy loses his head, and it bounces into the table, knocking it over and creating a puddle of blood. Slappy's head reattaches, and Slappy slips into blood and slides down the hall.
 
 ## S12 E248a — The Krusty Bucket
-URL: https://watchwithkids.vercel.app/ep/spongebob/12248a.html
+URL: https://watchwiththekids.com/ep/spongebob/12248a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E90c — The Krusty Plate
-URL: https://watchwithkids.vercel.app/ep/spongebob/0590c.html
+URL: https://watchwiththekids.com/ep/spongebob/0590c.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S12 E244a — The Krusty Slammer
-URL: https://watchwithkids.vercel.app/ep/spongebob/12244a.html
+URL: https://watchwiththekids.com/ep/spongebob/12244a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E89a — The Krusty Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/0589a.html
+URL: https://watchwiththekids.com/ep/spongebob/0589a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Mr. Krabs: “I'm glad you asked. We got SpongeBob drinking straws— [shows a green straw with SpongeBob in the middle] coasters— [holds up two coasters with SpongeBob's face on them] bibs— [holds up a bib with SpongeBob's face on it…”
 
 ## S17 E336a — The Lady in the Lighthouse
-URL: https://watchwithkids.vercel.app/ep/spongebob/17336a.html
+URL: https://watchwiththekids.com/ep/spongebob/17336a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 6 moment(s)
@@ -7196,7 +7196,7 @@ Watch for:
   - Squidward: “[narrating and cuts to the Salty Spitoon] The Salty Spitoon was just as dank and dreary as I remembered. This place was truly the bottom of Bikini Bottom.…”
 
 ## S11 E220 — The Legend of Boo-Kini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/11220.html
+URL: https://watchwiththekids.com/ep/spongebob/11220.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7206,17 +7206,17 @@ Watch for:
   - SpongeBob: “Oh, scary...Hm...You know, what always scares me out of the room? It's when my mom takes out naked baby pictures. [laughs]”
 
 ## Ep 915 — The Legend of SpongeBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/00915.html
+URL: https://watchwiththekids.com/ep/spongebob/00915.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E20a — The Lil' Patscals
-URL: https://watchwithkids.vercel.app/ep/spongebob/0120a.html
+URL: https://watchwiththekids.com/ep/spongebob/0120a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E62a — The Lost Mattress
-URL: https://watchwithkids.vercel.app/ep/spongebob/0462a.html
+URL: https://watchwiththekids.com/ep/spongebob/0462a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7225,33 +7225,33 @@ Watch for:
   - Mr. Krabs: “Oh, me back. Well, here goes another useless attempt to sleep on me mount less, lumpy mattress. [lays on his mattress, but then notices that something's odd on "his" mattress] Huh, that's queer.…”
 
 ## S7 E141b — The Main Drain
-URL: https://watchwithkids.vercel.app/ep/spongebob/07141b.html
+URL: https://watchwiththekids.com/ep/spongebob/07141b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - At the Krusty Krab, we see SpongeBob coming out of the freezer with a Krabby Patty.
 
 ## S7 E148a — The Masterpiece
-URL: https://watchwithkids.vercel.app/ep/spongebob/07148a.html
+URL: https://watchwiththekids.com/ep/spongebob/07148a.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
   - Sea Chicken: “[on TV] Cock-a-doodle-yum! [squawks] Rise and shine! We're the best restaurant in the sea!”
 
 ## S7 E140a — The Monster Who Came to Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/07140a.html
+URL: https://watchwiththekids.com/ep/spongebob/07140a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - French Narrator: “Yesterday... [at the Krusty Krab, a customer is trying to get some ice in his cup but there is no ice coming out]”
 
 ## Ep 921 — The Museum of Cartoon Sponges
-URL: https://watchwithkids.vercel.app/ep/spongebob/00921.html
+URL: https://watchwiththekids.com/ep/spongebob/00921.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S17 E333a — The Nerds
-URL: https://watchwithkids.vercel.app/ep/spongebob/17333a.html
+URL: https://watchwiththekids.com/ep/spongebob/17333a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7263,12 +7263,12 @@ Watch for:
   - Nerds: “[coming out of various places] Where's the second issue?”
 
 ## S11 E239b — The Night Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/11239b.html
+URL: https://watchwiththekids.com/ep/spongebob/11239b.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for: nothing flagged.
 
 ## S12 E243a — The Nitwitting
-URL: https://watchwithkids.vercel.app/ep/spongebob/12243a.html
+URL: https://watchwiththekids.com/ep/spongebob/12243a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
@@ -7277,12 +7277,12 @@ Watch for:
   - Inside the box, there is a bunch of people, who appear as club members, acting in a goofy and idiotic manner similar to Patrick. One is eating a hot dog while being hung on a pole.…
 
 ## Ep 925 — The Origin of SpongeBob SquarePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/00925.html
+URL: https://watchwiththekids.com/ep/spongebob/00925.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S5 E82a — The Original Fry Cook
-URL: https://watchwithkids.vercel.app/ep/spongebob/0582a.html
+URL: https://watchwiththekids.com/ep/spongebob/0582a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7291,19 +7291,19 @@ Watch for:
   - He punches the wall and all of SpongeBob's pictures, as well as SpongeBob, fall off and break on the floor. Underneath is a giant photo of Jim
 
 ## S8 E153b — The Other Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/08153b.html
+URL: https://watchwiththekids.com/ep/spongebob/08153b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - SpongeBob: “[coming out of the hole with shovel looking tired] Yeah, pie. [his face plants on the ground]”
 
 ## Ep 928 — The Outfit
-URL: https://watchwithkids.vercel.app/ep/spongebob/00928.html
+URL: https://watchwiththekids.com/ep/spongebob/00928.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E16b — The Paper
-URL: https://watchwithkids.vercel.app/ep/spongebob/0116b.html
+URL: https://watchwiththekids.com/ep/spongebob/0116b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7315,7 +7315,7 @@ Watch for:
   - SpongeBob: “Yeah, see, you're playing it like this... [plays his piece of paper as the clarinet with the note symbols coming out] ...when ordinarily it goes like this...…”
 
 ## S3 E40b — The Patrick Show After Dark
-URL: https://watchwithkids.vercel.app/ep/spongebob/0340b.html
+URL: https://watchwiththekids.com/ep/spongebob/0340b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7324,14 +7324,14 @@ Watch for:
   - She takes out a jellyfishing net and goes to a diner. She catches a jellyfish drinking coffee, rushes back to Patrick, and puts it in his pants.
 
 ## S2 E27a — The Patrick Show Cashes In
-URL: https://watchwithkids.vercel.app/ep/spongebob/0227a.html
+URL: https://watchwiththekids.com/ep/spongebob/0227a.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 1 moment(s)
   - Fighting, weapons, or death talk.
 
 ## S1 E21a — The Patrick Show Sells Out
-URL: https://watchwithkids.vercel.app/ep/spongebob/0121a.html
+URL: https://watchwiththekids.com/ep/spongebob/0121a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -7341,19 +7341,19 @@ Watch for:
   - Pat punches Krabs away, causing an explosion. He comes down next to Plankton and burps.
 
 ## Ep 933 — The Patrick Star Game
-URL: https://watchwithkids.vercel.app/ep/spongebob/00933.html
+URL: https://watchwiththekids.com/ep/spongebob/00933.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E18a — The Patterfly Effect
-URL: https://watchwithkids.vercel.app/ep/spongebob/0118a.html
+URL: https://watchwiththekids.com/ep/spongebob/0118a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - "A Space Affair to Remember"
 
 ## S1 E23b — The Perfect Camper
-URL: https://watchwithkids.vercel.app/ep/spongebob/0123b.html
+URL: https://watchwiththekids.com/ep/spongebob/0123b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 4 moment(s)
@@ -7363,14 +7363,14 @@ Watch for:
   - Tall Tail: “Stop! [punches them]”
 
 ## S4 E79a — The Pink Purloiner
-URL: https://watchwithkids.vercel.app/ep/spongebob/0479a.html
+URL: https://watchwiththekids.com/ep/spongebob/0479a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - SpongeBob: “[in his bed] Ah, I love jellyfishing. [night breaks into day quickly and the foghorn alarm goes off.] Whoo! Time to get ready for day two of the jellyfish migration.…”
 
 ## S7 E138a — The Play's the Thing
-URL: https://watchwithkids.vercel.app/ep/spongebob/07138a.html
+URL: https://watchwiththekids.com/ep/spongebob/07138a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 2 moment(s)
@@ -7378,19 +7378,19 @@ Watch for:
   - Squidward: “(more choked up) Unfulfilled. In a word, his myriad of talents were, (sobs) wasted.”
 
 ## S1 E20b — The Prehistoric Patrick Star Show
-URL: https://watchwithkids.vercel.app/ep/spongebob/0120b.html
+URL: https://watchwiththekids.com/ep/spongebob/0120b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E309b — The Sandman Cometh
-URL: https://watchwithkids.vercel.app/ep/spongebob/15309b.html
+URL: https://watchwiththekids.com/ep/spongebob/15309b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - The screen zooms out to show that Patrick has beaten up Squidward
 
 ## S2 E35a — The Secret Box
-URL: https://watchwithkids.vercel.app/ep/spongebob/0235a.html
+URL: https://watchwiththekids.com/ep/spongebob/0235a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7405,7 +7405,7 @@ Watch for:
   - Patrick: “[with a tear coming out of his eye] That's it, SpongeBob! You have crossed the line. As of right now, this friendship is over!”
 
 ## S9 E194b — The Sewers of Bikini Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/09194b.html
+URL: https://watchwiththekids.com/ep/spongebob/09194b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7414,7 +7414,7 @@ Watch for:
   - Mr. Krabs: “[Crupski punches Mr. Krabs] Ow!”
 
 ## S4 E53b — The Show Must Go Yawn
-URL: https://watchwithkids.vercel.app/ep/spongebob/0453b.html
+URL: https://watchwiththekids.com/ep/spongebob/0453b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7422,7 +7422,7 @@ Watch for:
   - Patrick: “Riding a bicycle? I can do that! [cut to him breaking through his bedroom wall with a bicycle on his back] Yah! Ha-ha! [sends the bicycle crashing off-screen as he lands on the stage] Welcome to The Patrick Show!…”
 
 ## S6 E110a — The Slumber Party
-URL: https://watchwithkids.vercel.app/ep/spongebob/06110a.html
+URL: https://watchwiththekids.com/ep/spongebob/06110a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7439,19 +7439,19 @@ Watch for:
   - SpongeBob: “Mr. Krabs, I think I know what'll cheer you up. [puts a drinking glass under his armpit and squirts some root beer into it] A mug of ice cold root beer!”
 
 ## S2 E32b — The Smoking Peanut
-URL: https://watchwithkids.vercel.app/ep/spongebob/0232b.html
+URL: https://watchwiththekids.com/ep/spongebob/0232b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Slut-shaming — 1 moment(s)
   - Joe: “Easy, girl! It's me, Joe! Remember?”
 
 ## S6 E105a — The Splinter
-URL: https://watchwithkids.vercel.app/ep/spongebob/06105a.html
+URL: https://watchwiththekids.com/ep/spongebob/06105a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E59 — The Sponge Who Could Fly
-URL: https://watchwithkids.vercel.app/ep/spongebob/0359.html
+URL: https://watchwiththekids.com/ep/spongebob/0359.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7461,12 +7461,12 @@ Watch for:
   - Fred: “What have we done? [starts to cry] Come on, everybody! I think a proper burial is in order. [picks up the pants] A pair of pants like these come around... once in a lifetime.…”
 
 ## Ep 947 — The SpongeBob Challenge (game)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00947.html
+URL: https://watchwiththekids.com/ep/spongebob/00947.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 948 — The SpongeBob SquarePants Movie
-URL: https://watchwithkids.vercel.app/ep/spongebob/00948.html
+URL: https://watchwiththekids.com/ep/spongebob/00948.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7504,12 +7504,12 @@ Watch for:
   - A fish is kicked through one of the Thug Tug windows and lands next to SpongeBob and Patrick, with many broken bones. His leg twitches.…
 
 ## Ep 949 — The SpongeBob SquarePants Movie (Game Boy Advance)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00949.html
+URL: https://watchwiththekids.com/ep/spongebob/00949.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 950 — The SpongeBob SquarePants Movie (PC)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00950.html
+URL: https://watchwiththekids.com/ep/spongebob/00950.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7523,14 +7523,14 @@ Watch for:
   - Twins: “We're drinking rusty dirt water, and trying to remember the words to a song.”
 
 ## Ep 951 — The SpongeBob SquarePants Movie (video game)
-URL: https://watchwithkids.vercel.app/ep/spongebob/00951.html
+URL: https://watchwiththekids.com/ep/spongebob/00951.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Violence & death — 1 moment(s)
   - French Narrator: “And so, SpongeBob and Patrick escaped the clutches of the mad, murderous Dennis, only to be captured by the even more hideous Cyclops!…”
 
 ## S17 E333b — The SquarePants Method
-URL: https://watchwithkids.vercel.app/ep/spongebob/17333b.html
+URL: https://watchwiththekids.com/ep/spongebob/17333b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -7544,24 +7544,24 @@ Watch for:
   - Marlin Branzino: “[acts as SpongeBob in his movie] Every morning, I come to work in the same kitchen. [puts on his hairnet] I wear the same hairnet. I cook on the same grill.…”
 
 ## S2 E27b — The Star Games
-URL: https://watchwithkids.vercel.app/ep/spongebob/0227b.html
+URL: https://watchwiththekids.com/ep/spongebob/0227b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E23a — The Starry Awards
-URL: https://watchwithkids.vercel.app/ep/spongebob/0123a.html
+URL: https://watchwiththekids.com/ep/spongebob/0123a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Pan down to Cecil in the audience, drinking from his #1 Dad mug.
 
 ## Ep 955 — The Story of King Neptune
-URL: https://watchwithkids.vercel.app/ep/spongebob/00955.html
+URL: https://watchwiththekids.com/ep/spongebob/00955.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S11 E241b — The String
-URL: https://watchwithkids.vercel.app/ep/spongebob/11241b.html
+URL: https://watchwiththekids.com/ep/spongebob/11241b.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Moderate — better for older kids / preteens)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7577,7 +7577,7 @@ Watch for:
   - Squidward: “[comes out in a suit of armor, sing-songs a fanfare and opens his helmet] Let's see that twine-twirling twit try to unravel this! Huh.…”
 
 ## S2 E38a — The Suit Suits You
-URL: https://watchwithkids.vercel.app/ep/spongebob/0238a.html
+URL: https://watchwiththekids.com/ep/spongebob/0238a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Swearing — 1 moment(s)
@@ -7588,7 +7588,7 @@ Watch for:
   - The new suit continues throwing punches at the old suit, then the new suit falls to the ground as it tries to swing at the old suit, which inflates and rises.…
 
 ## S1 E21a — The Switch Glitch
-URL: https://watchwithkids.vercel.app/ep/spongebob/0121a.html
+URL: https://watchwiththekids.com/ep/spongebob/0121a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7596,19 +7596,19 @@ Watch for:
   - Plankton: “Well, remember this! [punches SpongeBob in the face] Karen! Ooh, there she is! [jumps on the ground next to Patrick] Where the heck have you been? And where are those lightning berries I asked you for?”
 
 ## S1 E25a — The Taste of Defeat
-URL: https://watchwithkids.vercel.app/ep/spongebob/0125a.html
+URL: https://watchwiththekids.com/ep/spongebob/0125a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “[blows chef's kiss] My compliments to the chef.”
 
 ## S4 E76a — The Thing
-URL: https://watchwithkids.vercel.app/ep/spongebob/0476a.html
+URL: https://watchwiththekids.com/ep/spongebob/0476a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E5a — The Treasure of Kamp Koral
-URL: https://watchwithkids.vercel.app/ep/spongebob/015a.html
+URL: https://watchwiththekids.com/ep/spongebob/015a.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -7616,12 +7616,12 @@ Watch for:
   - Mr. Krabs: “And now to introduce me new money to me old money. You'll be money buddies. [laughs] [gasps as he sees a hole in the wall] Me booty!! I've been robbed! [enters the hole and makes his way to the surface] Me chest!…”
 
 ## S5 E99a — The Two Faces of Squidward
-URL: https://watchwithkids.vercel.app/ep/spongebob/0599a.html
+URL: https://watchwiththekids.com/ep/spongebob/0599a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E166b — The Way of the Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/08166b.html
+URL: https://watchwiththekids.com/ep/spongebob/08166b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7629,22 +7629,22 @@ Watch for:
   - Fuzzy Acorns is brutally injured and beaten up from his "match" with SpongeBob, which is, ironically, his well-deserved punishment for hatefully calling SpongeBob a "sorry excuse for a student" and berating him for…
 
 ## S9 E204b — The Whole Tooth
-URL: https://watchwithkids.vercel.app/ep/spongebob/09204b.html
+URL: https://watchwiththekids.com/ep/spongebob/09204b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E30a — The Wrath of Shmandor
-URL: https://watchwithkids.vercel.app/ep/spongebob/0230a.html
+URL: https://watchwiththekids.com/ep/spongebob/0230a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E150b — The Wreck of the Mauna Loa
-URL: https://watchwithkids.vercel.app/ep/spongebob/07150b.html
+URL: https://watchwiththekids.com/ep/spongebob/07150b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E4 — The Yard Sale
-URL: https://watchwithkids.vercel.app/ep/spongebob/0104.html
+URL: https://watchwiththekids.com/ep/spongebob/0104.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7657,48 +7657,48 @@ Watch for:
   - They charge at each other. GrandPat jumps out of his oldie-o and slams it over Moronicus's body, trapping him. Moronicus pulls his arms out and punches the oldie-o twice, triggering lunchtime again.…
 
 ## S2 E30b — There Goes the Neighborhood
-URL: https://watchwithkids.vercel.app/ep/spongebob/0230b.html
+URL: https://watchwiththekids.com/ep/spongebob/0230b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - The aliens' tentacles are sticking through every house in the neighborhood. Granny Tentacles is drinking tea when she gets pulled down.
 
 ## S13 E273b — There Will Be Grease
-URL: https://watchwithkids.vercel.app/ep/spongebob/13273b.html
+URL: https://watchwiththekids.com/ep/spongebob/13273b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - He elbows the truck and its headlights turn on. It collapses into a platform with an organ and an Everything Juice banner coming out of it. Krabs and Plankton spin around and are in tuxedos.…
 
 ## S11 E218b — There's a Sponge in My Soup
-URL: https://watchwithkids.vercel.app/ep/spongebob/11218b.html
+URL: https://watchwiththekids.com/ep/spongebob/11218b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Sunshine pops out of Octavius Rex's soup and gives him a kiss. Debbie Rechid hits Octavius Rex in the head with her spoon.
 
 ## Ep 971 — Things to Do When Encountering a Legendary Creature
-URL: https://watchwithkids.vercel.app/ep/spongebob/00971.html
+URL: https://watchwiththekids.com/ep/spongebob/00971.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 972 — Time Machine
-URL: https://watchwithkids.vercel.app/ep/spongebob/00972.html
+URL: https://watchwiththekids.com/ep/spongebob/00972.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E39a — Time to Eat
-URL: https://watchwithkids.vercel.app/ep/spongebob/0239a.html
+URL: https://watchwiththekids.com/ep/spongebob/0239a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 974 — Tips for Jellyfish Fields
-URL: https://watchwithkids.vercel.app/ep/spongebob/00974.html
+URL: https://watchwiththekids.com/ep/spongebob/00974.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E9a — To Dad and Back
-URL: https://watchwithkids.vercel.app/ep/spongebob/019a.html
+URL: https://watchwiththekids.com/ep/spongebob/019a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -7707,12 +7707,12 @@ Watch for:
   - Rube: “Oh, don't worry. That's just bile. Bile breaks down fat and fatty acids.”
 
 ## S5 E87a — To Love a Patty
-URL: https://watchwithkids.vercel.app/ep/spongebob/0587a.html
+URL: https://watchwiththekids.com/ep/spongebob/0587a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E27b — To Pop a Bubble
-URL: https://watchwithkids.vercel.app/ep/spongebob/0227b.html
+URL: https://watchwiththekids.com/ep/spongebob/0227b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7723,12 +7723,12 @@ Watch for:
   - Patrick: “[shrugging] I didn't try to eat camper Buddy. [happily] I tried to pop him! [flashback to last night, voiceover; seen on the ceiling] That night, when everyone was doing the night-night, [he falls and screams, then…”
 
 ## S5 E95b — To Save a Squirrel
-URL: https://watchwithkids.vercel.app/ep/spongebob/0595b.html
+URL: https://watchwiththekids.com/ep/spongebob/0595b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E116b — To SquarePants or Not to SquarePants
-URL: https://watchwithkids.vercel.app/ep/spongebob/06116b.html
+URL: https://watchwiththekids.com/ep/spongebob/06116b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -7739,7 +7739,7 @@ Watch for:
   - SpongeBob: “Hello, sir. I'd like an application, please. My name is SpongeBob Sq... [coughs and grunts] Sorry, I'm a little... [coughs more] I'm a little... [grunts] Sorry, I'm a little nervous. My name is SpongeBob... RoundPants.…”
 
 ## S2 E36a — Too Many Patricks
-URL: https://watchwithkids.vercel.app/ep/spongebob/0236a.html
+URL: https://watchwiththekids.com/ep/spongebob/0236a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -7748,51 +7748,51 @@ Watch for:
   - Yellow old man: “You stink! You wasted what little life I have left!”
 
 ## Ep 981 — Top 10 Krabby Patty Varieties
-URL: https://watchwithkids.vercel.app/ep/spongebob/00981.html
+URL: https://watchwiththekids.com/ep/spongebob/00981.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 982 — Touchdown 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00982.html
+URL: https://watchwiththekids.com/ep/spongebob/00982.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 983 — Touchdown!
-URL: https://watchwithkids.vercel.app/ep/spongebob/00983.html
+URL: https://watchwiththekids.com/ep/spongebob/00983.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S6 E120b — Toy Store of Doom
-URL: https://watchwithkids.vercel.app/ep/spongebob/06120b.html
+URL: https://watchwiththekids.com/ep/spongebob/06120b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 985 — Toys "R" Us THQ
-URL: https://watchwithkids.vercel.app/ep/spongebob/00985.html
+URL: https://watchwiththekids.com/ep/spongebob/00985.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 986 — Traffic
-URL: https://watchwithkids.vercel.app/ep/spongebob/00986.html
+URL: https://watchwiththekids.com/ep/spongebob/00986.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S8 E174a — Treats!
-URL: https://watchwithkids.vercel.app/ep/spongebob/08174a.html
+URL: https://watchwiththekids.com/ep/spongebob/08174a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Female fish in commercial: [gives the snail a treat and kisses the snail] Snail Bites.
 
 ## S7 E142a — Trenchbillies
-URL: https://watchwithkids.vercel.app/ep/spongebob/07142a.html
+URL: https://watchwiththekids.com/ep/spongebob/07142a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “Hey, give me some of that! [begins drinking the soda] [Both SpongeBob and Patrick let out a very long and loud belch.]”
 
 ## S10 E211b — Trident Trouble
-URL: https://watchwithkids.vercel.app/ep/spongebob/10211b.html
+URL: https://watchwiththekids.com/ep/spongebob/10211b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7800,7 +7800,7 @@ Watch for:
   - The mother Kraken punches King Neptune far out into the distance. The scene changes to Patrick eating an ice cream cone just as SpongeBob arrives.
 
 ## S6 E123 — Truth or Square
-URL: https://watchwithkids.vercel.app/ep/spongebob/06123.html
+URL: https://watchwiththekids.com/ep/spongebob/06123.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -7823,26 +7823,26 @@ Watch for:
   - A flashback begins. It shows Squidward sleeping at his station. Fred is on the other side of the Cash register. The scene changes to show SpongeBob opening the Krusty Krab broom closet to find Squidward sleeping.…
 
 ## S7 E149b — Tunnel of Glove
-URL: https://watchwithkids.vercel.app/ep/spongebob/07149b.html
+URL: https://watchwiththekids.com/ep/spongebob/07149b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E190b — Tutor Sauce
-URL: https://watchwithkids.vercel.app/ep/spongebob/09190b.html
+URL: https://watchwiththekids.com/ep/spongebob/09190b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Mr. Krabs: “[looks at a smiling SpongeBob] This ticket's coming out of your paycheck, boy.”
 
 ## S4 E55b — TV or Not TV
-URL: https://watchwithkids.vercel.app/ep/spongebob/0455b.html
+URL: https://watchwiththekids.com/ep/spongebob/0455b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Patrick: “[giggles while watching TV in his underwear inside the suit]”
 
 ## S13 E994 — Twas the Night Before Spongemas
-URL: https://watchwithkids.vercel.app/ep/spongebob/13994.html
+URL: https://watchwiththekids.com/ep/spongebob/13994.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 2 moment(s)
@@ -7850,7 +7850,7 @@ Watch for:
   - Patrick: “Huh? [as snowballs pile on him. He then stands up, revealing a bunch of snowballs lined up on his forehead] Ha! You missed me! [However, he speaks too soon, as SpongeBob shoots more snow into Patrick's mouth.…”
 
 ## S4 E56a — Two Pests in a Teapot
-URL: https://watchwithkids.vercel.app/ep/spongebob/0456a.html
+URL: https://watchwiththekids.com/ep/spongebob/0456a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7864,14 +7864,14 @@ Watch for:
   - The camera pans over to the town nearby in utter chaos. A cop is chasing a burglar, tentacles are coming out of a house, and several buildings are on fire.
 
 ## S9 E197b — Two Thumbs Down
-URL: https://watchwithkids.vercel.app/ep/spongebob/09197b.html
+URL: https://watchwiththekids.com/ep/spongebob/09197b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - SpongeBob: “You got the right stuff, golden boys. [SpongeBob kisses his two thumbs-up.]”
 
 ## S2 E32b — Tying the Klop-Knot
-URL: https://watchwithkids.vercel.app/ep/spongebob/0232b.html
+URL: https://watchwiththekids.com/ep/spongebob/0232b.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 11 moment(s)
@@ -7890,24 +7890,24 @@ Watch for:
   - Patrick: “Or else I'll punch you in-- [Cyberpat punches him]”
 
 ## S3 E54 — Ugh
-URL: https://watchwithkids.vercel.app/ep/spongebob/0354.html
+URL: https://watchwiththekids.com/ep/spongebob/0354.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Violence & death — 1 moment(s)
   - [SpongeGar smiles and hits himself on the head. Patar smiles and punches himself in the face a couple times. SpongeGar pulls out his nose and lets it go, slamming it back into his face.…
 
 ## Ep 999 — UK 1
-URL: https://watchwithkids.vercel.app/ep/spongebob/00999.html
+URL: https://watchwiththekids.com/ep/spongebob/00999.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1000 — UK 2
-URL: https://watchwithkids.vercel.app/ep/spongebob/001000.html
+URL: https://watchwiththekids.com/ep/spongebob/001000.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E33a — Un-Breaking and De-Entering
-URL: https://watchwithkids.vercel.app/ep/spongebob/0233a.html
+URL: https://watchwiththekids.com/ep/spongebob/0233a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -7915,22 +7915,22 @@ Watch for:
   - Gary: “Meow. [brings him some underwear.]”
 
 ## S1 E15a — Uncredible Journey
-URL: https://watchwithkids.vercel.app/ep/spongebob/0115a.html
+URL: https://watchwiththekids.com/ep/spongebob/0115a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E269a — Under the Small Top
-URL: https://watchwithkids.vercel.app/ep/spongebob/13269a.html
+URL: https://watchwiththekids.com/ep/spongebob/13269a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E308b — Unidentified Flailing Octopus
-URL: https://watchwithkids.vercel.app/ep/spongebob/15308b.html
+URL: https://watchwiththekids.com/ep/spongebob/15308b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S10 E206a — Unreal Estate
-URL: https://watchwithkids.vercel.app/ep/spongebob/10206a.html
+URL: https://watchwiththekids.com/ep/spongebob/10206a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7939,29 +7939,29 @@ Watch for:
   - Squidward: “Not the face! [gets punched by Gary's eye stalk]”
 
 ## S13 E275b — Upturn Girls
-URL: https://watchwithkids.vercel.app/ep/spongebob/13275b.html
+URL: https://watchwiththekids.com/ep/spongebob/13275b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Gay / Lesbian — 1 moment(s)
   - Narlene: “[coming out of the barrel] How-dy, SpongeBob!”
 
 ## S4 E60b — Upturn's Downturn
-URL: https://watchwithkids.vercel.app/ep/spongebob/0460b.html
+URL: https://watchwiththekids.com/ep/spongebob/0460b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E308a — UpWard
-URL: https://watchwithkids.vercel.app/ep/spongebob/15308a.html
+URL: https://watchwiththekids.com/ep/spongebob/15308a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E16a — Valentine's Day
-URL: https://watchwithkids.vercel.app/ep/spongebob/0116a.html
+URL: https://watchwiththekids.com/ep/spongebob/0116a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E64a — Visiting Vikings
-URL: https://watchwithkids.vercel.app/ep/spongebob/0464a.html
+URL: https://watchwiththekids.com/ep/spongebob/0464a.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -7975,36 +7975,36 @@ Watch for:
   - GrandPat is getting punched, flicked, smacked with a hammer, wedgied, smacked with a paddle, chopped with a sword, hit by a mace, smashed between two shields.
 
 ## S5 E83b — Waiting
-URL: https://watchwithkids.vercel.app/ep/spongebob/0583b.html
+URL: https://watchwiththekids.com/ep/spongebob/0583b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - SpongeBob: “[drops to his knees] That stupid toy! I wasted my whole life waiting for it!”
 
 ## S1 E18b — Walking Small
-URL: https://watchwithkids.vercel.app/ep/spongebob/0118b.html
+URL: https://watchwiththekids.com/ep/spongebob/0118b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Plankton: “Butterfly kisses. Can't take it. It's too cute! It's... it's disgusting!”
 
 ## S8 E160b — Walking the Plankton
-URL: https://watchwithkids.vercel.app/ep/spongebob/08160b.html
+URL: https://watchwiththekids.com/ep/spongebob/08160b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E280b — Wallhalla
-URL: https://watchwithkids.vercel.app/ep/spongebob/13280b.html
+URL: https://watchwiththekids.com/ep/spongebob/13280b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1015 — Walmart Holiday x SpongeBob
-URL: https://watchwithkids.vercel.app/ep/spongebob/001015.html
+URL: https://watchwiththekids.com/ep/spongebob/001015.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S15 E313a — Wary Gary
-URL: https://watchwithkids.vercel.app/ep/spongebob/15313a.html
+URL: https://watchwiththekids.com/ep/spongebob/15313a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8016,22 +8016,22 @@ Watch for:
   - Gary jumps in, and SpongeBob follows. The doors shut and the limo drives off. Inside, SpongeBob sits next to cans of Snail Po, holding a wine glass with snail food in it.
 
 ## Ep 1017 — Watch
-URL: https://watchwithkids.vercel.app/ep/spongebob/001017.html
+URL: https://watchwiththekids.com/ep/spongebob/001017.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1018 — Watch Me
-URL: https://watchwithkids.vercel.app/ep/spongebob/001018.html
+URL: https://watchwiththekids.com/ep/spongebob/001018.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S14 E295a — We ♥ Hoops
-URL: https://watchwithkids.vercel.app/ep/spongebob/14295a.html
+URL: https://watchwiththekids.com/ep/spongebob/14295a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E279a — Welcome to Binary Bottom
-URL: https://watchwithkids.vercel.app/ep/spongebob/13279a.html
+URL: https://watchwiththekids.com/ep/spongebob/13279a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8040,19 +8040,19 @@ Watch for:
   - PlankBot: “Thanks, Karen, my flesh and blood wife. Don't worry, I'll get him. [growls]”
 
 ## S7 E140b — Welcome to the Bikini Bottom Triangle
-URL: https://watchwithkids.vercel.app/ep/spongebob/07140b.html
+URL: https://watchwiththekids.com/ep/spongebob/07140b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E34a — Welcome to the Chum Bucket
-URL: https://watchwithkids.vercel.app/ep/spongebob/0234a.html
+URL: https://watchwiththekids.com/ep/spongebob/0234a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Plankton: “It's a deal! I cheated, anyway.”
 
 ## S3 E50a — Wet Painters
-URL: https://watchwithkids.vercel.app/ep/spongebob/0350a.html
+URL: https://watchwiththekids.com/ep/spongebob/0350a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -8062,7 +8062,7 @@ Watch for:
   - Patrick: “Nope. [the camera pans along various tools that apparently failed at the task. Meanwhile, SpongeBob is beating up the dollar, but Patrick takes the hits] Oof! Oof! Oof!…”
 
 ## S4 E71a — Whale of a Birthday
-URL: https://watchwithkids.vercel.app/ep/spongebob/0471a.html
+URL: https://watchwiththekids.com/ep/spongebob/0471a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -8074,14 +8074,14 @@ Watch for:
   - Squidward: “It is dishwater. [the girls cough out the punch]”
 
 ## S11 E233a — Whale Watching
-URL: https://watchwithkids.vercel.app/ep/spongebob/11233a.html
+URL: https://watchwiththekids.com/ep/spongebob/11233a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - At the breach party near the surface, the party goers are having a great time. Some are watching television, eating pizza and drinking soda.…
 
 ## S1 E7a — What About Meep?
-URL: https://watchwithkids.vercel.app/ep/spongebob/017a.html
+URL: https://watchwiththekids.com/ep/spongebob/017a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8089,12 +8089,12 @@ Watch for:
   - The weight crushes Chovy and sends his eyes into the air. He swallows them and they go into his arms as muscles. He kisses them.
 
 ## Ep 1027 — What Else Can a Krabby Patty Do?
-URL: https://watchwithkids.vercel.app/ep/spongebob/001027.html
+URL: https://watchwiththekids.com/ep/spongebob/001027.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S17 E339b — What Ever Happened to Baby Prunes?
-URL: https://watchwithkids.vercel.app/ep/spongebob/17339b.html
+URL: https://watchwiththekids.com/ep/spongebob/17339b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -8103,7 +8103,7 @@ Watch for:
   - Patrick: “Yeah, so much wasted candies!”
 
 ## S5 E98 — What Ever Happened to SpongeBob?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0598.html
+URL: https://watchwiththekids.com/ep/spongebob/0598.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
@@ -8114,49 +8114,49 @@ Watch for:
   - Squidward: “[holding the mallet with bloodshot eyes while panting heavily like a deranged maniac] [realizes what he has done] Oops. I dropped it. [Mr. Krabs becomes furious.…”
 
 ## Ep 1030 — What if SpongeBob Was Gone? (Gary)
-URL: https://watchwithkids.vercel.app/ep/spongebob/001030.html
+URL: https://watchwiththekids.com/ep/spongebob/001030.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1031 — What if SpongeBob Was Gone? (Mr. Krabs)
-URL: https://watchwithkids.vercel.app/ep/spongebob/001031.html
+URL: https://watchwiththekids.com/ep/spongebob/001031.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1032 — What if SpongeBob Was Gone? (Patrick)
-URL: https://watchwithkids.vercel.app/ep/spongebob/001032.html
+URL: https://watchwiththekids.com/ep/spongebob/001032.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1033 — What if SpongeBob Was Gone? (Sandy)
-URL: https://watchwithkids.vercel.app/ep/spongebob/001033.html
+URL: https://watchwiththekids.com/ep/spongebob/001033.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1034 — What if the Mystery Ended This Way...?
-URL: https://watchwithkids.vercel.app/ep/spongebob/001034.html
+URL: https://watchwiththekids.com/ep/spongebob/001034.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1035 — What is Football?
-URL: https://watchwithkids.vercel.app/ep/spongebob/001035.html
+URL: https://watchwiththekids.com/ep/spongebob/001035.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S9 E193b — What's Eating Patrick?
-URL: https://watchwithkids.vercel.app/ep/spongebob/09193b.html
+URL: https://watchwiththekids.com/ep/spongebob/09193b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E148b — Whelk Attack
-URL: https://watchwithkids.vercel.app/ep/spongebob/07148b.html
+URL: https://watchwiththekids.com/ep/spongebob/07148b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Violence & death — 1 moment(s)
   - Sandy: “Yes! [jumps in the air] I need to get a sample of their slime! If I can analyze it, [buffs her muscles and punches twice] I may be able to deduce...hi-yah!…”
 
 ## S1 E25a — Which Witch is Which?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0125a.html
+URL: https://watchwiththekids.com/ep/spongebob/0125a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8166,7 +8166,7 @@ Watch for:
   - Patrick is drinking the potion from the bathtub with a straw.
 
 ## S10 E205a — Whirly Brains
-URL: https://watchwithkids.vercel.app/ep/spongebob/10205a.html
+URL: https://watchwiththekids.com/ep/spongebob/10205a.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8181,14 +8181,14 @@ Watch for:
   - SpongeBob: “Yes! We're gonna beat him, Patrick! We're gonna win!”
 
 ## S12 E263a — Who R Zoo?
-URL: https://watchwithkids.vercel.app/ep/spongebob/12263a.html
+URL: https://watchwiththekids.com/ep/spongebob/12263a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Squidward: “Now, wait just a darn second, I- [before he can rant, a bubble goat appears and eats his clothes; he sees himself mostly naked with his underpants on and freaks out; he runs over to the bubble rhino enclosure and gets…”
 
 ## S1 E7b — Who's a Big Boy?
-URL: https://watchwithkids.vercel.app/ep/spongebob/017b.html
+URL: https://watchwiththekids.com/ep/spongebob/017b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8198,17 +8198,17 @@ Watch for:
   - Patrick: “Uh? [a green fist punches him and leaves a green glow on his face as it exits, then gets dizzy with radioactive symbols circling over his head] The 1940s were boring.”
 
 ## S15 E318a — Who's Afraid of Mr. Snippers?
-URL: https://watchwithkids.vercel.app/ep/spongebob/15318a.html
+URL: https://watchwiththekids.com/ep/spongebob/15318a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E36a — Who's Complaining?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0236a.html
+URL: https://watchwiththekids.com/ep/spongebob/0236a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S3 E42b — Who's the Dummy Now?
-URL: https://watchwithkids.vercel.app/ep/spongebob/0342b.html
+URL: https://watchwiththekids.com/ep/spongebob/0342b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8219,34 +8219,34 @@ Watch for:
   - Bananas starts drinking water. Daddy Dartfish is on Cecil's hand, looking at the inside of Bananas.
 
 ## S15 E311a — Wiener Takes All
-URL: https://watchwithkids.vercel.app/ep/spongebob/15311a.html
+URL: https://watchwiththekids.com/ep/spongebob/15311a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E74b — Wigstruck
-URL: https://watchwithkids.vercel.app/ep/spongebob/0474b.html
+URL: https://watchwiththekids.com/ep/spongebob/0474b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1047 — Wild Cod
-URL: https://watchwithkids.vercel.app/ep/spongebob/001047.html
+URL: https://watchwiththekids.com/ep/spongebob/001047.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S1 E11a — Wise Kraken
-URL: https://watchwithkids.vercel.app/ep/spongebob/0111a.html
+URL: https://watchwiththekids.com/ep/spongebob/0111a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E72b — Wishing You Well
-URL: https://watchwithkids.vercel.app/ep/spongebob/0472b.html
+URL: https://watchwiththekids.com/ep/spongebob/0472b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Alcohol / Drugs — 1 moment(s)
   - Mrs. Puff: “I wish I had a snazzy new boat. I wanna be a hot rod mama. [SpongeBob gasps. Patrick walks up to the well drinking a soda and throws it down the well when he is finished]”
 
 ## S2 E25a — Wormy
-URL: https://watchwithkids.vercel.app/ep/spongebob/0225a.html
+URL: https://watchwiththekids.com/ep/spongebob/0225a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -8255,7 +8255,7 @@ Watch for:
   - SpongeBob: “I'm coming, Patrick! [Patrick then rips right through the net and crashes into the tree, causing some acorns to fall into his water helmet.…”
 
 ## S1 E11a — X Marks the Pot
-URL: https://watchwithkids.vercel.app/ep/spongebob/0111a.html
+URL: https://watchwiththekids.com/ep/spongebob/0111a.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay for many kids with a parent)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -8269,7 +8269,7 @@ Watch for:
   - Man Ray: “Well, I do have the reflexes of a supervillai-- [dodges a punch from Cecil] er, a super photographer!”
 
 ## S13 E283b — Yellow Pavement
-URL: https://watchwithkids.vercel.app/ep/spongebob/13283b.html
+URL: https://watchwiththekids.com/ep/spongebob/13283b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -8279,7 +8279,7 @@ Watch for:
   - Squidward tries to start the boat, but it sputters. A large trucker steps out of his truck and grabs Squidward, then winds up to punch him.…
 
 ## S9 E188b — Yeti Krabs
-URL: https://watchwithkids.vercel.app/ep/spongebob/09188b.html
+URL: https://watchwiththekids.com/ep/spongebob/09188b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -8288,37 +8288,37 @@ Watch for:
   - Mr. Krabs: “Excellent idea, Mr. SquarePants! Squidward, I'd like you to sweep-- [hears a noise in the ducts and looks up at them and a dirty SpongeBob coming out of the ducts]”
 
 ## Ep 1054 — Yokel to Tough Guy
-URL: https://watchwithkids.vercel.app/ep/spongebob/001054.html
+URL: https://watchwiththekids.com/ep/spongebob/001054.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E149a — You Don't Know Sponge
-URL: https://watchwithkids.vercel.app/ep/spongebob/07149a.html
+URL: https://watchwiththekids.com/ep/spongebob/07149a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## Ep 1056 — You Know You're From Bikini Bottom When...
-URL: https://watchwithkids.vercel.app/ep/spongebob/001056.html
+URL: https://watchwiththekids.com/ep/spongebob/001056.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S13 E279b — You're Going to Pay...Phone
-URL: https://watchwithkids.vercel.app/ep/spongebob/13279b.html
+URL: https://watchwiththekids.com/ep/spongebob/13279b.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S2 E21a — Your Shoe's Untied
-URL: https://watchwithkids.vercel.app/ep/spongebob/0221a.html
+URL: https://watchwiththekids.com/ep/spongebob/0221a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S7 E132a — Yours, Mine and Mine
-URL: https://watchwithkids.vercel.app/ep/spongebob/07132a.html
+URL: https://watchwiththekids.com/ep/spongebob/07132a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for: nothing flagged.
 
 ## S4 E59a — Zoo U
-URL: https://watchwithkids.vercel.app/ep/spongebob/0459a.html
+URL: https://watchwiththekids.com/ep/spongebob/0459a.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine)
 Watch for:
 - Nudity & bodies — 2 moment(s)
