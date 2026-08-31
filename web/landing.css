@@ -348,30 +348,6 @@ main,
   background: rgba(255, 255, 255, 0.72);
 }
 
-.card-guide {
-  display: inline-flex;
-  align-items: center;
-  justify-self: start;
-  width: max-content;
-  margin-top: 0.45rem;
-  padding: 0.22rem 0.6rem;
-  border-radius: 999px;
-  background: rgba(255, 210, 74, 0.95);
-  color: var(--ink);
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: -0.01em;
-  border: 1.5px solid rgba(20, 16, 28, 0.35);
-  box-shadow: 0 2px 0 rgba(20, 16, 28, 0.35);
-  cursor: pointer;
-  transition: transform 0.15s var(--ease), box-shadow 0.15s var(--ease);
-}
-
-.card-guide:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 3px 0 rgba(20, 16, 28, 0.35);
-}
-
 .feature-stage:hover .cta {
   gap: 0.65rem;
   transform: translateX(3px);

@@ -289,13 +289,11 @@
     const soon = soonMode || !s.ready;
     const tag = soon ? `<span class="status soon">Coming soon</span>` : "";
     const href = s.ready ? `${s.id}.html` : "#";
-    const guideHref = s.ready ? `guides/${s.id}.html` : "";
     const cls = soon ? "show-card is-soon" : "show-card";
     const tagName = soon ? "div" : "a";
     const mix = s.mix;
     const scoreHtml =
       !soon && mix && mix.total ? safeScoreHtml(mix) : "";
-    const guideHtml = guideHref ? guideChipHtml(guideHref, mix) : "";
     return `
       <${tagName} class="${cls}" data-i="${i}" ${soon ? "" : `href="${href}"`}>
         <img src="${s.coverLocal}" alt="${escapeHtml(s.name)}" loading="lazy" />
@@ -307,35 +305,10 @@
             s.genres?.[0] ? ` · ${escapeHtml(s.genres[0])}` : ""
           }</p>
           ${scoreHtml}
-          ${guideHtml}
         </div>
       </${tagName}>
     `;
   }
-
-  /** Compact deep-link into the per-show guide — count, not a fat empty bar. */
-  function guideChipHtml(guideHref, mix) {
-    let label = "Episode guide →";
-    if (mix && mix.total) {
-      if (mix.safe > 0) {
-        label = `${mix.safe} safe →`;
-      } else if (mix.maybe > 0) {
-        label = `${mix.maybe} to preview →`;
-      } else if (mix.skip > 0) {
-        label = `${mix.skip} hard pass →`;
-      }
-    }
-    return `<span class="card-guide" data-guide="${guideHref}">${label}</span>`;
-  }
-
-  document.addEventListener("click", (e) => {
-    const chip = e.target.closest(".card-guide");
-    if (!chip) return;
-    e.preventDefault();
-    e.stopPropagation();
-    const href = chip.getAttribute("data-guide");
-    if (href) window.location.href = href;
-  });
 
   /** Episode mix: Safe (≤2) / Borderline (3) / Hard Pass (≥4). */
   function safeScoreHtml(mix) {
