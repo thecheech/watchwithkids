@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Watch With The Kids</title>
+  <meta name="description" content="Couch-night guide for parents — what’s all clear, gray area, or a hard pass." />
+  <meta property="og:title" content="Watch With The Kids" />
+  <meta property="og:description" content="Episode-by-episode vibes for family couch night." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="landing.css" />
+</head>
+<body>
+  <div class="stage" aria-hidden="true">
+    <span class="orb orb-a"></span>
+    <span class="orb orb-b"></span>
+    <span class="orb orb-c"></span>
+    <div class="sparkles" id="sparkles"></div>
+  </div>
+
+  <section class="hero wrap">
+    <div class="hero-copy reveal">
+      <div class="brand-row">
+        <span class="brand-mark" aria-hidden="true">🍿</span>
+      </div>
+      <h1>
+        Watch With<br /><em>The Kids</em>
+      </h1>
+      <p class="lede">
+        Before play — know if it’s
+        <strong class="tone-go">all clear</strong>,
+        <strong class="tone-caution">gray area</strong>, or a
+        <strong class="tone-stop">hard pass</strong>.
+      </p>
+      <p class="tagline-brand">You kids — your rules!</p>
+    </div>
+    <div class="hero-feature reveal delay-2" id="featured" aria-label="Ready to browse"></div>
+  </section>
+
+  <main class="wrap">
+    <section class="live-shelf">
+      <div class="shelf-head reveal">
+        <div>
+          <h2>Live ratings</h2>
+          <p>Six shows live — Friends through Big Bang. Jump in.</p>
+        </div>
+      </div>
+      <div class="grid live-grid" id="live-grid"></div>
+    </section>
+
+    <section class="shelf">
+      <div class="shelf-head reveal">
+        <div>
+          <h2>More shows on the shelf</h2>
+          <p>Covers up. Ratings rolling out show by show.</p>
+        </div>
+        <div class="count-chip" id="shelf-count">—</div>
+      </div>
+      <div class="grid" id="grid"></div>
+    </section>
+  </main>
+
+  <footer class="wrap foot reveal">
+    <p><strong>watchwiththekids.com</strong> · You kids — your rules!</p>
+  </footer>
+
+  <script src="shows.js"></script>
+  <script src="landing.js"></script>
+</body>
+</html>

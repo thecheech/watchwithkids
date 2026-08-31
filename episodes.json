@@ -1,0 +1,2282 @@
+[
+  {
+    "season": 1,
+    "episode": "01",
+    "code": "0101",
+    "index_title": "101 Monica Gets A Roommate",
+    "title": "The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)",
+    "words": 4424,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0101.html",
+    "file": "transcripts/season-01/s01e01-101-monica-gets-a-roommate.txt"
+  },
+  {
+    "season": 1,
+    "episode": "02",
+    "code": "0102",
+    "index_title": "102 The Sonogram At The End",
+    "title": "The One With the Sonogram at the End",
+    "words": 3121,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0102.html",
+    "file": "transcripts/season-01/s01e02-102-the-sonogram-at-the-end.txt"
+  },
+  {
+    "season": 1,
+    "episode": "03",
+    "code": "0103",
+    "index_title": "103 The Thumb",
+    "title": "The One With the Thumb",
+    "words": 3232,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0103.html",
+    "file": "transcripts/season-01/s01e03-103-the-thumb.txt"
+  },
+  {
+    "season": 1,
+    "episode": "04",
+    "code": "0104",
+    "index_title": "104 George Stephanopoulos",
+    "title": "The One With George Stephanopoulos",
+    "words": 3397,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0104.html",
+    "file": "transcripts/season-01/s01e04-104-george-stephanopoulos.txt"
+  },
+  {
+    "season": 1,
+    "episode": "05",
+    "code": "0105",
+    "index_title": "105 The East German Laundry Detergent",
+    "title": "The One With the East German Laundry Detergent",
+    "words": 3399,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0105.html",
+    "file": "transcripts/season-01/s01e05-105-the-east-german-laundry-detergent.txt"
+  },
+  {
+    "season": 1,
+    "episode": "06",
+    "code": "0106",
+    "index_title": "106 The Butt",
+    "title": "The One With the Butt",
+    "words": 3147,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0106.html",
+    "file": "transcripts/season-01/s01e06-106-the-butt.txt"
+  },
+  {
+    "season": 1,
+    "episode": "07",
+    "code": "0107",
+    "index_title": "107 The Blackout",
+    "title": "The One With the Blackout",
+    "words": 3207,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0107.html",
+    "file": "transcripts/season-01/s01e07-107-the-blackout.txt"
+  },
+  {
+    "season": 1,
+    "episode": "08",
+    "code": "0108",
+    "index_title": "108 Nana Dies Twice",
+    "title": "The One Where Nana Dies Twice",
+    "words": 2920,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0108.html",
+    "file": "transcripts/season-01/s01e08-108-nana-dies-twice.txt"
+  },
+  {
+    "season": 1,
+    "episode": "09",
+    "code": "0109",
+    "index_title": "109 Underdog Gets Away",
+    "title": "The One Where Underdog Gets Away",
+    "words": 3108,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0109.html",
+    "file": "transcripts/season-01/s01e09-109-underdog-gets-away.txt"
+  },
+  {
+    "season": 1,
+    "episode": "10",
+    "code": "0110",
+    "index_title": "110 The Monkey",
+    "title": "The One With the Monkey",
+    "words": 3379,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0110.html",
+    "file": "transcripts/season-01/s01e10-110-the-monkey.txt"
+  },
+  {
+    "season": 1,
+    "episode": "11",
+    "code": "0111",
+    "index_title": "111 Mrs. Bing",
+    "title": "The One With Mrs. Bing",
+    "words": 3656,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0111.html",
+    "file": "transcripts/season-01/s01e11-111-mrs-bing.txt"
+  },
+  {
+    "season": 1,
+    "episode": "12",
+    "code": "0112",
+    "index_title": "112 The Dozen Lasagnas",
+    "title": "The One With the Dozen Lasagnas",
+    "words": 3417,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0112.html",
+    "file": "transcripts/season-01/s01e12-112-the-dozen-lasagnas.txt"
+  },
+  {
+    "season": 1,
+    "episode": "13",
+    "code": "0113",
+    "index_title": "113 The Boobies",
+    "title": "The One With the Boobies",
+    "words": 3259,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0113.html",
+    "file": "transcripts/season-01/s01e13-113-the-boobies.txt"
+  },
+  {
+    "season": 1,
+    "episode": "14",
+    "code": "0114",
+    "index_title": "114 The Candy Hearts",
+    "title": "The One With the Candy Hearts",
+    "words": 2926,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0114.html",
+    "file": "transcripts/season-01/s01e14-114-the-candy-hearts.txt"
+  },
+  {
+    "season": 1,
+    "episode": "15",
+    "code": "0115",
+    "index_title": "115 The Stoned Guy",
+    "title": "The One With the Stoned Guy",
+    "words": 3497,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0115.html",
+    "file": "transcripts/season-01/s01e15-115-the-stoned-guy.txt"
+  },
+  {
+    "season": 1,
+    "episode": "16",
+    "code": "0116",
+    "index_title": "116 The Two Parts, Part I",
+    "title": "The One With Two Parts, part 1",
+    "words": 4376,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0116.html",
+    "file": "transcripts/season-01/s01e16-116-the-two-parts-part-i.txt"
+  },
+  {
+    "season": 1,
+    "episode": "17",
+    "code": "0117",
+    "index_title": "117 The Two Parts, Part II",
+    "title": "The One With Two Parts, Part 2",
+    "words": 4920,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0117.html",
+    "file": "transcripts/season-01/s01e17-117-the-two-parts-part-ii.txt"
+  },
+  {
+    "season": 1,
+    "episode": "18",
+    "code": "0118",
+    "index_title": "118 All The Poker",
+    "title": "The One With All The Poker",
+    "words": 3458,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0118.html",
+    "file": "transcripts/season-01/s01e18-118-all-the-poker.txt"
+  },
+  {
+    "season": 1,
+    "episode": "19",
+    "code": "0119",
+    "index_title": "119 The Monkey Gets Away",
+    "title": "The One Where the Monkey Gets Away",
+    "words": 3572,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0119.html",
+    "file": "transcripts/season-01/s01e19-119-the-monkey-gets-away.txt"
+  },
+  {
+    "season": 1,
+    "episode": "20",
+    "code": "0120",
+    "index_title": "120 The Evil Orthodontist",
+    "title": "The One With the Evil Orthodontist",
+    "words": 3346,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0120.html",
+    "file": "transcripts/season-01/s01e20-120-the-evil-orthodontist.txt"
+  },
+  {
+    "season": 1,
+    "episode": "21",
+    "code": "0121",
+    "index_title": "121 The Fake Monica",
+    "title": "The One With The Fake Monica",
+    "words": 2994,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0121.html",
+    "file": "transcripts/season-01/s01e21-121-the-fake-monica.txt"
+  },
+  {
+    "season": 1,
+    "episode": "22",
+    "code": "0122",
+    "index_title": "122 The Ick Factor",
+    "title": "The One With the Ick Factor",
+    "words": 3306,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0122.html",
+    "file": "transcripts/season-01/s01e22-122-the-ick-factor.txt"
+  },
+  {
+    "season": 1,
+    "episode": "23",
+    "code": "0123",
+    "index_title": "123 The Birth",
+    "title": "The One With the Birth",
+    "words": 3733,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0123.html",
+    "file": "transcripts/season-01/s01e23-123-the-birth.txt"
+  },
+  {
+    "season": 1,
+    "episode": "24",
+    "code": "0124",
+    "index_title": "124 Rachel Finds Out",
+    "title": "The One Where Rachel Finds Out",
+    "words": 3607,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0124.html",
+    "file": "transcripts/season-01/s01e24-124-rachel-finds-out.txt"
+  },
+  {
+    "season": 2,
+    "episode": "01",
+    "code": "0201",
+    "index_title": "201 Ross's New Girlfriend",
+    "title": "The One With Ross' New Girlfriend",
+    "words": 3091,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0201.html",
+    "file": "transcripts/season-02/s02e01-201-ross-s-new-girlfriend.txt"
+  },
+  {
+    "season": 2,
+    "episode": "02",
+    "code": "0202",
+    "index_title": "202 The Breast Milk",
+    "title": "The One With the Breast Milk",
+    "words": 3021,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0202.html",
+    "file": "transcripts/season-02/s02e02-202-the-breast-milk.txt"
+  },
+  {
+    "season": 2,
+    "episode": "03",
+    "code": "0203",
+    "index_title": "203 Heckles Dies",
+    "title": "The One Where Mr. Heckles Dies",
+    "words": 2632,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0203.html",
+    "file": "transcripts/season-02/s02e03-203-heckles-dies.txt"
+  },
+  {
+    "season": 2,
+    "episode": "04",
+    "code": "0204",
+    "index_title": "204 Phoebe's Husband",
+    "title": "The One With Phoebe's Husband",
+    "words": 3126,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0204.html",
+    "file": "transcripts/season-02/s02e04-204-phoebe-s-husband.txt"
+  },
+  {
+    "season": 2,
+    "episode": "05",
+    "code": "0205",
+    "index_title": "205 Five Steaks And An Eggplant",
+    "title": "The One With Five Steaks and an Eggplant",
+    "words": 3011,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0205.html",
+    "file": "transcripts/season-02/s02e05-205-five-steaks-and-an-eggplant.txt"
+  },
+  {
+    "season": 2,
+    "episode": "06",
+    "code": "0206",
+    "index_title": "206 The Baby On The Bus",
+    "title": "The One With the Baby on the Bus",
+    "words": 2829,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0206.html",
+    "file": "transcripts/season-02/s02e06-206-the-baby-on-the-bus.txt"
+  },
+  {
+    "season": 2,
+    "episode": "07",
+    "code": "0207",
+    "index_title": "207 Ross Finds Out",
+    "title": "The One Where Ross Finds Out",
+    "words": 3201,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0207.html",
+    "file": "transcripts/season-02/s02e07-207-ross-finds-out.txt"
+  },
+  {
+    "season": 2,
+    "episode": "08",
+    "code": "0208",
+    "index_title": "208 The List",
+    "title": "The One With the List",
+    "words": 3256,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0208.html",
+    "file": "transcripts/season-02/s02e08-208-the-list.txt"
+  },
+  {
+    "season": 2,
+    "episode": "09",
+    "code": "0209",
+    "index_title": "209 Phoebe's Dad",
+    "title": "The One With Phoebe's Dad",
+    "words": 3336,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0209.html",
+    "file": "transcripts/season-02/s02e09-209-phoebe-s-dad.txt"
+  },
+  {
+    "season": 2,
+    "episode": "10",
+    "code": "0210",
+    "index_title": "210 Russ",
+    "title": "The One With Russ",
+    "words": 3632,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0210.html",
+    "file": "transcripts/season-02/s02e10-210-russ.txt"
+  },
+  {
+    "season": 2,
+    "episode": "11",
+    "code": "0211",
+    "index_title": "211 The Lesbian Wedding",
+    "title": "The One With the Lesbian Wedding",
+    "words": 3116,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0211.html",
+    "file": "transcripts/season-02/s02e11-211-the-lesbian-wedding.txt"
+  },
+  {
+    "season": 2,
+    "episode": "12-13",
+    "code": "0212-0213",
+    "index_title": "212-213 The Superbowl",
+    "title": "The One After the Superbowl",
+    "words": 6362,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0212-0213.html",
+    "file": "transcripts/season-02/s02e12-13-212-213-the-superbowl.txt"
+  },
+  {
+    "season": 2,
+    "episode": "14",
+    "code": "0214",
+    "index_title": "214 The Prom Video",
+    "title": "The One With the Prom Video",
+    "words": 3573,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0214.html",
+    "file": "transcripts/season-02/s02e14-214-the-prom-video.txt"
+  },
+  {
+    "season": 2,
+    "episode": "15",
+    "code": "0215",
+    "index_title": "215 Ross And Rachel... You Know",
+    "title": "The One Where Rachel and Ross... You Know",
+    "words": 3016,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0215.html",
+    "file": "transcripts/season-02/s02e15-215-ross-and-rachel-you-know.txt"
+  },
+  {
+    "season": 2,
+    "episode": "16",
+    "code": "0216",
+    "index_title": "216 Joey Moves Out",
+    "title": "The One Where Joey Moves Out",
+    "words": 3353,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0216.html",
+    "file": "transcripts/season-02/s02e16-216-joey-moves-out.txt"
+  },
+  {
+    "season": 2,
+    "episode": "17",
+    "code": "0217",
+    "index_title": "217 Eddie Moves In",
+    "title": "The One Where Eddie Moves In",
+    "words": 3277,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0217.html",
+    "file": "transcripts/season-02/s02e17-217-eddie-moves-in.txt"
+  },
+  {
+    "season": 2,
+    "episode": "18",
+    "code": "0218",
+    "index_title": "218 Dr. Ramoray Dies",
+    "title": "The One Where Dr. Remore Dies",
+    "words": 3230,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0218.html",
+    "file": "transcripts/season-02/s02e18-218-dr-ramoray-dies.txt"
+  },
+  {
+    "season": 2,
+    "episode": "19",
+    "code": "0219",
+    "index_title": "219 Eddie Won't Go",
+    "title": "The One Where Eddie Won't Go",
+    "words": 3372,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0219.html",
+    "file": "transcripts/season-02/s02e19-219-eddie-won-t-go.txt"
+  },
+  {
+    "season": 2,
+    "episode": "20",
+    "code": "0220",
+    "index_title": "220 uld Yeller Dies",
+    "title": "The One Where Old Yeller Dies",
+    "words": 3757,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0220.html",
+    "file": "transcripts/season-02/s02e20-220-uld-yeller-dies.txt"
+  },
+  {
+    "season": 2,
+    "episode": "21",
+    "code": "0221",
+    "index_title": "221 The Bullies",
+    "title": "The One With the Two Bullies",
+    "words": 3696,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0221.html",
+    "file": "transcripts/season-02/s02e21-221-the-bullies.txt"
+  },
+  {
+    "season": 2,
+    "episode": "22",
+    "code": "0222",
+    "index_title": "222 The Two Parties",
+    "title": "The One With the Two Parties",
+    "words": 3558,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0222.html",
+    "file": "transcripts/season-02/s02e22-222-the-two-parties.txt"
+  },
+  {
+    "season": 2,
+    "episode": "23",
+    "code": "0223",
+    "index_title": "223 The Chicken Pox",
+    "title": "The One With the Chicken Pox",
+    "words": 3393,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0223.html",
+    "file": "transcripts/season-02/s02e23-223-the-chicken-pox.txt"
+  },
+  {
+    "season": 2,
+    "episode": "24",
+    "code": "0224",
+    "index_title": "224 Barry And Mindy's Wedding",
+    "title": "The One With Barry and Mindy's Wedding",
+    "words": 3358,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0224.html",
+    "file": "transcripts/season-02/s02e24-224-barry-and-mindy-s-wedding.txt"
+  },
+  {
+    "season": 3,
+    "episode": "01",
+    "code": "0301",
+    "index_title": "301 The Princess Leia Fantasy",
+    "title": "The One With the Princess Leia Fantasy",
+    "words": 3217,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0301.html",
+    "file": "transcripts/season-03/s03e01-301-the-princess-leia-fantasy.txt"
+  },
+  {
+    "season": 3,
+    "episode": "02",
+    "code": "0302",
+    "index_title": "302 No One's Ready",
+    "title": "The One Where No-one's Ready",
+    "words": 3636,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0302.html",
+    "file": "transcripts/season-03/s03e02-302-no-one-s-ready.txt"
+  },
+  {
+    "season": 3,
+    "episode": "03",
+    "code": "0303",
+    "index_title": "303 The Jam",
+    "title": "The One With the Jam",
+    "words": 3355,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0303.html",
+    "file": "transcripts/season-03/s03e03-303-the-jam.txt"
+  },
+  {
+    "season": 3,
+    "episode": "04",
+    "code": "0304",
+    "index_title": "304 The Metaphorical Tunnel",
+    "title": "The One With The Metaphorical Tunnel",
+    "words": 3832,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0304.html",
+    "file": "transcripts/season-03/s03e04-304-the-metaphorical-tunnel.txt"
+  },
+  {
+    "season": 3,
+    "episode": "05",
+    "code": "0305",
+    "index_title": "305 Frank Jr.",
+    "title": "The One With Frank Jr.",
+    "words": 3359,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0305.html",
+    "file": "transcripts/season-03/s03e05-305-frank-jr.txt"
+  },
+  {
+    "season": 3,
+    "episode": "06",
+    "code": "0306",
+    "index_title": "306 The Flashback",
+    "title": "The One With The Flashback",
+    "words": 3231,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0306.html",
+    "file": "transcripts/season-03/s03e06-306-the-flashback.txt"
+  },
+  {
+    "season": 3,
+    "episode": "07",
+    "code": "0307",
+    "index_title": "307 The Race Car Bed",
+    "title": "The One With the Race Car Bed",
+    "words": 3604,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0307.html",
+    "file": "transcripts/season-03/s03e07-307-the-race-car-bed.txt"
+  },
+  {
+    "season": 3,
+    "episode": "08",
+    "code": "0308",
+    "index_title": "308 The Giant Poking Device",
+    "title": "The One With The Giant Poking Device",
+    "words": 3492,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0308.html",
+    "file": "transcripts/season-03/s03e08-308-the-giant-poking-device.txt"
+  },
+  {
+    "season": 3,
+    "episode": "09",
+    "code": "0309",
+    "index_title": "309 The Football",
+    "title": "The One With The Football",
+    "words": 4010,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0309.html",
+    "file": "transcripts/season-03/s03e09-309-the-football.txt"
+  },
+  {
+    "season": 3,
+    "episode": "10",
+    "code": "0310",
+    "index_title": "310 Rachel Quits",
+    "title": "The One Where Rachel Quits",
+    "words": 3714,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0310.html",
+    "file": "transcripts/season-03/s03e10-310-rachel-quits.txt"
+  },
+  {
+    "season": 3,
+    "episode": "11",
+    "code": "0311",
+    "index_title": "311 Chandler Can't Remember Which Sister",
+    "title": "The One Where Chandler Can’t Remember Which Sister",
+    "words": 3918,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0311.html",
+    "file": "transcripts/season-03/s03e11-311-chandler-can-t-remember-which-sister.txt"
+  },
+  {
+    "season": 3,
+    "episode": "12",
+    "code": "0312",
+    "index_title": "312 All The Jealousy",
+    "title": "The One With All The Jealousy",
+    "words": 3454,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0312.html",
+    "file": "transcripts/season-03/s03e12-312-all-the-jealousy.txt"
+  },
+  {
+    "season": 3,
+    "episode": "13",
+    "code": "0313",
+    "index_title": "313 Monica And Richard Are Just Friends",
+    "title": "The One Where Monica and Richard Are Friends",
+    "words": 3465,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0313.html",
+    "file": "transcripts/season-03/s03e13-313-monica-and-richard-are-just-friends.txt"
+  },
+  {
+    "season": 3,
+    "episode": "14",
+    "code": "0314",
+    "index_title": "314 Phoebe's Ex-Partner",
+    "title": "The One With Phoebe’s Ex-Partner",
+    "words": 3443,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0314.html",
+    "file": "transcripts/season-03/s03e14-314-phoebe-s-ex-partner.txt"
+  },
+  {
+    "season": 3,
+    "episode": "15",
+    "code": "0315",
+    "index_title": "315 Ross And Rachel Take A Break",
+    "title": "The One Where Ross and Rachel Take A Break",
+    "words": 3646,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0315.html",
+    "file": "transcripts/season-03/s03e15-315-ross-and-rachel-take-a-break.txt"
+  },
+  {
+    "season": 3,
+    "episode": "16",
+    "code": "0316",
+    "index_title": "316 The Morning After",
+    "title": "The One The Morning After",
+    "words": 4088,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0316.html",
+    "file": "transcripts/season-03/s03e16-316-the-morning-after.txt"
+  },
+  {
+    "season": 3,
+    "episode": "17",
+    "code": "0317",
+    "index_title": "317 The Ski Trip",
+    "title": "The One Without The Ski Trip",
+    "words": 3997,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0317.html",
+    "file": "transcripts/season-03/s03e17-317-the-ski-trip.txt"
+  },
+  {
+    "season": 3,
+    "episode": "18",
+    "code": "0318",
+    "index_title": "318 The Hypnosis Tape",
+    "title": "The One With The Hypnosis Tape",
+    "words": 3773,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0318.html",
+    "file": "transcripts/season-03/s03e18-318-the-hypnosis-tape.txt"
+  },
+  {
+    "season": 3,
+    "episode": "19",
+    "code": "0319",
+    "index_title": "319 The Tiny T-Shirt",
+    "title": "The One With The Tiny T-shirt",
+    "words": 3463,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0319.html",
+    "file": "transcripts/season-03/s03e19-319-the-tiny-t-shirt.txt"
+  },
+  {
+    "season": 3,
+    "episode": "20",
+    "code": "0320",
+    "index_title": "320 The Dullhouse",
+    "title": "The One With The Dollhouse",
+    "words": 3674,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0320.html",
+    "file": "transcripts/season-03/s03e20-320-the-dullhouse.txt"
+  },
+  {
+    "season": 3,
+    "episode": "21",
+    "code": "0321",
+    "index_title": "321 The Chick And The Duck",
+    "title": "The One With A Chick. And A Duck",
+    "words": 4125,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0321.html",
+    "file": "transcripts/season-03/s03e21-321-the-chick-and-the-duck.txt"
+  },
+  {
+    "season": 3,
+    "episode": "22",
+    "code": "0322",
+    "index_title": "322 The Screamer",
+    "title": "The One With The Screamer",
+    "words": 3772,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0322.html",
+    "file": "transcripts/season-03/s03e22-322-the-screamer.txt"
+  },
+  {
+    "season": 3,
+    "episode": "23",
+    "code": "0323",
+    "index_title": "323 Ross's Thing",
+    "title": "The One With Ross's Thing",
+    "words": 3782,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0323.html",
+    "file": "transcripts/season-03/s03e23-323-ross-s-thing.txt"
+  },
+  {
+    "season": 3,
+    "episode": "24",
+    "code": "0324",
+    "index_title": "324 The Ultimate Fighting Champion",
+    "title": "The One With The Ultimate Fighting Champion",
+    "words": 4000,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0324.html",
+    "file": "transcripts/season-03/s03e24-324-the-ultimate-fighting-champion.txt"
+  },
+  {
+    "season": 3,
+    "episode": "25",
+    "code": "0325",
+    "index_title": "325 At The Beach",
+    "title": "The One At The Beach",
+    "words": 3883,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0325.html",
+    "file": "transcripts/season-03/s03e25-325-at-the-beach.txt"
+  },
+  {
+    "season": 4,
+    "episode": "01",
+    "code": "0401",
+    "index_title": "401 The Jellyfish",
+    "title": "The One With The Jellyfish",
+    "words": 3523,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0401.html",
+    "file": "transcripts/season-04/s04e01-401-the-jellyfish.txt"
+  },
+  {
+    "season": 4,
+    "episode": "02",
+    "code": "0402",
+    "index_title": "402 The Cat",
+    "title": "The One With The Cat",
+    "words": 3357,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0402.html",
+    "file": "transcripts/season-04/s04e02-402-the-cat.txt"
+  },
+  {
+    "season": 4,
+    "episode": "03",
+    "code": "0403",
+    "index_title": "403 The Cuffs",
+    "title": "The One With The ‘Cuffs",
+    "words": 3805,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0403.html",
+    "file": "transcripts/season-04/s04e03-403-the-cuffs.txt"
+  },
+  {
+    "season": 4,
+    "episode": "04",
+    "code": "0404",
+    "index_title": "404 The Ballroom Dancing",
+    "title": "The One With The Ballroom Dancing",
+    "words": 3321,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0404.html",
+    "file": "transcripts/season-04/s04e04-404-the-ballroom-dancing.txt"
+  },
+  {
+    "season": 4,
+    "episode": "05",
+    "code": "0405",
+    "index_title": "405 Joey's New Girlfriend",
+    "title": "The One With Joey's New Girlfriend",
+    "words": 3430,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0405.html",
+    "file": "transcripts/season-04/s04e05-405-joey-s-new-girlfriend.txt"
+  },
+  {
+    "season": 4,
+    "episode": "06",
+    "code": "0406",
+    "index_title": "406 The Dirty Girl",
+    "title": "The One With The Dirty Girl",
+    "words": 3525,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0406.html",
+    "file": "transcripts/season-04/s04e06-406-the-dirty-girl.txt"
+  },
+  {
+    "season": 4,
+    "episode": "07",
+    "code": "0407",
+    "index_title": "407 Chandler Crosses The Line",
+    "title": "The One Where Chandler Crosses a Line",
+    "words": 3279,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0407.html",
+    "file": "transcripts/season-04/s04e07-407-chandler-crosses-the-line.txt"
+  },
+  {
+    "season": 4,
+    "episode": "08",
+    "code": "0408",
+    "index_title": "408 Chandler In A Box",
+    "title": "The One With Chandler in a Box",
+    "words": 3721,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0408.html",
+    "file": "transcripts/season-04/s04e08-408-chandler-in-a-box.txt"
+  },
+  {
+    "season": 4,
+    "episode": "09",
+    "code": "0409",
+    "index_title": "409 They're Going To Party",
+    "title": "The One Where They’re Gonna PARTY!",
+    "words": 3535,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0409.html",
+    "file": "transcripts/season-04/s04e09-409-they-re-going-to-party.txt"
+  },
+  {
+    "season": 4,
+    "episode": "10",
+    "code": "0410",
+    "index_title": "410 The Girl From Poughkeepsie",
+    "title": "The One With The Girl From Poughkeepsie",
+    "words": 3511,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0410.html",
+    "file": "transcripts/season-04/s04e10-410-the-girl-from-poughkeepsie.txt"
+  },
+  {
+    "season": 4,
+    "episode": "11",
+    "code": "0411",
+    "index_title": "411 Phoebe's Uterus",
+    "title": "The One With Phoebe’s Uterus",
+    "words": 3382,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0411.html",
+    "file": "transcripts/season-04/s04e11-411-phoebe-s-uterus.txt"
+  },
+  {
+    "season": 4,
+    "episode": "12",
+    "code": "0412",
+    "index_title": "412 The Embryos",
+    "title": "The One With The Embryos",
+    "words": 3421,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0412.html",
+    "file": "transcripts/season-04/s04e12-412-the-embryos.txt"
+  },
+  {
+    "season": 4,
+    "episode": "13",
+    "code": "0413",
+    "index_title": "413 Rachel's Crush",
+    "title": "The One With Rachel’s Crush",
+    "words": 3852,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0413.html",
+    "file": "transcripts/season-04/s04e13-413-rachel-s-crush.txt"
+  },
+  {
+    "season": 4,
+    "episode": "14",
+    "code": "0414",
+    "index_title": "414 Joey's Dirty Day",
+    "title": "The One With Joey’s Dirty Day",
+    "words": 4080,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0414.html",
+    "file": "transcripts/season-04/s04e14-414-joey-s-dirty-day.txt"
+  },
+  {
+    "season": 4,
+    "episode": "15",
+    "code": "0415",
+    "index_title": "415 All The Rugby",
+    "title": "The One With All The Rugby",
+    "words": 3804,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0415.html",
+    "file": "transcripts/season-04/s04e15-415-all-the-rugby.txt"
+  },
+  {
+    "season": 4,
+    "episode": "16",
+    "code": "0416",
+    "index_title": "416 The Fake Party",
+    "title": "The One With The Fake Party",
+    "words": 3549,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0416.html",
+    "file": "transcripts/season-04/s04e16-416-the-fake-party.txt"
+  },
+  {
+    "season": 4,
+    "episode": "17",
+    "code": "0417",
+    "index_title": "417 The Free Porn",
+    "title": "The One With The Free Porn",
+    "words": 3643,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0417.html",
+    "file": "transcripts/season-04/s04e17-417-the-free-porn.txt"
+  },
+  {
+    "season": 4,
+    "episode": "18",
+    "code": "0418",
+    "index_title": "418 Rachel's New Dress",
+    "title": "The One With Rachel’s New Dress",
+    "words": 3551,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0418.html",
+    "file": "transcripts/season-04/s04e18-418-rachel-s-new-dress.txt"
+  },
+  {
+    "season": 4,
+    "episode": "19",
+    "code": "0419",
+    "index_title": "419 All The Haste",
+    "title": "The One With All The Haste",
+    "words": 3318,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0419.html",
+    "file": "transcripts/season-04/s04e19-419-all-the-haste.txt"
+  },
+  {
+    "season": 4,
+    "episode": "20",
+    "code": "0420",
+    "index_title": "420 The Wedding Dresses",
+    "title": "The One With All the Wedding Dresses",
+    "words": 3282,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0420.html",
+    "file": "transcripts/season-04/s04e20-420-the-wedding-dresses.txt"
+  },
+  {
+    "season": 4,
+    "episode": "21",
+    "code": "0421",
+    "index_title": "421 The Invitation",
+    "title": "The One With The Invitation",
+    "words": 4111,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0421.html",
+    "file": "transcripts/season-04/s04e21-421-the-invitation.txt"
+  },
+  {
+    "season": 4,
+    "episode": "22",
+    "code": "0422",
+    "index_title": "422 The Worst Best Man Ever",
+    "title": "The One With The Worst Best Man Ever",
+    "words": 3845,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0422.html",
+    "file": "transcripts/season-04/s04e22-422-the-worst-best-man-ever.txt"
+  },
+  {
+    "season": 4,
+    "episode": "23",
+    "code": "0423",
+    "index_title": "423 Ross's Wedding",
+    "title": "The One With Ross’s Wedding Parts I and II",
+    "words": 7823,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0423.html",
+    "file": "transcripts/season-04/s04e23-423-ross-s-wedding.txt"
+  },
+  {
+    "season": 5,
+    "episode": "01",
+    "code": "0501",
+    "index_title": "501 Ross Says Rachel",
+    "title": "The One After Ross Says Rachel",
+    "words": 3593,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0501.html",
+    "file": "transcripts/season-05/s05e01-501-ross-says-rachel.txt"
+  },
+  {
+    "season": 5,
+    "episode": "02",
+    "code": "0502",
+    "index_title": "502 All The Kissing",
+    "title": "The One With All The Kissing",
+    "words": 3458,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0502.html",
+    "file": "transcripts/season-05/s05e02-502-all-the-kissing.txt"
+  },
+  {
+    "season": 5,
+    "episode": "03",
+    "code": "0503",
+    "index_title": "503 Hundredth",
+    "title": "The One Hundredth",
+    "words": 3497,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0503.html",
+    "file": "transcripts/season-05/s05e03-503-hundredth.txt"
+  },
+  {
+    "season": 5,
+    "episode": "04",
+    "code": "0504",
+    "index_title": "504 Phoebe Hates PBS",
+    "title": "The One Where Phoebe Hates PBS",
+    "words": 3562,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0504.html",
+    "file": "transcripts/season-05/s05e04-504-phoebe-hates-pbs.txt"
+  },
+  {
+    "season": 5,
+    "episode": "05",
+    "code": "0505",
+    "index_title": "505 The Kips",
+    "title": "The One With All the Kips",
+    "words": 3395,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0505.html",
+    "file": "transcripts/season-05/s05e05-505-the-kips.txt"
+  },
+  {
+    "season": 5,
+    "episode": "06",
+    "code": "0506",
+    "index_title": "506 The Yeti",
+    "title": "The One With The Yeti",
+    "words": 3561,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0506.html",
+    "file": "transcripts/season-05/s05e06-506-the-yeti.txt"
+  },
+  {
+    "season": 5,
+    "episode": "07",
+    "code": "0507",
+    "index_title": "507 Ross Moves In",
+    "title": "The One Where Ross Moves In",
+    "words": 3900,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0507.html",
+    "file": "transcripts/season-05/s05e07-507-ross-moves-in.txt"
+  },
+  {
+    "season": 5,
+    "episode": "08",
+    "code": "0508",
+    "index_title": "508 The Thanksgiving Flashbacks",
+    "title": "The One With The Thanksgiving Flashbacks",
+    "words": 4070,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0508.html",
+    "file": "transcripts/season-05/s05e08-508-the-thanksgiving-flashbacks.txt"
+  },
+  {
+    "season": 5,
+    "episode": "09",
+    "code": "0509",
+    "index_title": "509 Ross's Sandwich",
+    "title": "The One With Ross's Sandwich",
+    "words": 3461,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0509.html",
+    "file": "transcripts/season-05/s05e09-509-ross-s-sandwich.txt"
+  },
+  {
+    "season": 5,
+    "episode": "10",
+    "code": "0510",
+    "index_title": "510 The Inappropriate Sister",
+    "title": "The One With The Inappropriate Sister",
+    "words": 4167,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0510.html",
+    "file": "transcripts/season-05/s05e10-510-the-inappropriate-sister.txt"
+  },
+  {
+    "season": 5,
+    "episode": "11",
+    "code": "0511",
+    "index_title": "511 All The Resulutions",
+    "title": "The One With All The Resolutions",
+    "words": 3985,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0511.html",
+    "file": "transcripts/season-05/s05e11-511-all-the-resulutions.txt"
+  },
+  {
+    "season": 5,
+    "episode": "12",
+    "code": "0512",
+    "index_title": "512 Chandler's Work Laugh",
+    "title": "The One With Chandler's Work Laugh",
+    "words": 3775,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0512.html",
+    "file": "transcripts/season-05/s05e12-512-chandler-s-work-laugh.txt"
+  },
+  {
+    "season": 5,
+    "episode": "13",
+    "code": "0513",
+    "index_title": "513 Joey's Bag",
+    "title": "The One With Joey's Bag",
+    "words": 3660,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0513.html",
+    "file": "transcripts/season-05/s05e13-513-joey-s-bag.txt"
+  },
+  {
+    "season": 5,
+    "episode": "14",
+    "code": "0514",
+    "index_title": "514 Everybody Finds Out",
+    "title": "The One Where Everyone Finds Out",
+    "words": 3688,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0514.html",
+    "file": "transcripts/season-05/s05e14-514-everybody-finds-out.txt"
+  },
+  {
+    "season": 5,
+    "episode": "15",
+    "code": "0515",
+    "index_title": "515 The Girl Who Hits Joey",
+    "title": "The One With The Girl Who Hits Joey",
+    "words": 3795,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0515.html",
+    "file": "transcripts/season-05/s05e15-515-the-girl-who-hits-joey.txt"
+  },
+  {
+    "season": 5,
+    "episode": "16",
+    "code": "0516",
+    "index_title": "516 The Cop",
+    "title": "The One With A Cop",
+    "words": 4017,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0516.html",
+    "file": "transcripts/season-05/s05e16-516-the-cop.txt"
+  },
+  {
+    "season": 5,
+    "episode": "17",
+    "code": "0517",
+    "index_title": "517 Rachel's Inadvertant Kiss",
+    "title": "The One With Rachel's Inadvertant Kiss",
+    "words": 3944,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0517.html",
+    "file": "transcripts/season-05/s05e17-517-rachel-s-inadvertant-kiss.txt"
+  },
+  {
+    "season": 5,
+    "episode": "18",
+    "code": "0518",
+    "index_title": "518 Rachel Smokes",
+    "title": "The One Where Rachel Smokes",
+    "words": 3905,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0518.html",
+    "file": "transcripts/season-05/s05e18-518-rachel-smokes.txt"
+  },
+  {
+    "season": 5,
+    "episode": "19",
+    "code": "0519",
+    "index_title": "519 Ross Can't Flirt",
+    "title": "The One Where Ross Can't Flirt",
+    "words": 3886,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0519.html",
+    "file": "transcripts/season-05/s05e19-519-ross-can-t-flirt.txt"
+  },
+  {
+    "season": 5,
+    "episode": "20",
+    "code": "0520",
+    "index_title": "520 The Ride Along",
+    "title": "The One With The Ride Along",
+    "words": 3648,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0520.html",
+    "file": "transcripts/season-05/s05e20-520-the-ride-along.txt"
+  },
+  {
+    "season": 5,
+    "episode": "21",
+    "code": "0521",
+    "index_title": "521 The Ball",
+    "title": "The One With The Ball",
+    "words": 4432,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0521.html",
+    "file": "transcripts/season-05/s05e21-521-the-ball.txt"
+  },
+  {
+    "season": 5,
+    "episode": "22",
+    "code": "0522",
+    "index_title": "522 Joey's Big Break",
+    "title": "The One With Joey's Big Break",
+    "words": 4651,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0522.html",
+    "file": "transcripts/season-05/s05e22-522-joey-s-big-break.txt"
+  },
+  {
+    "season": 5,
+    "episode": "23",
+    "code": "0523",
+    "index_title": "523 In Vegas",
+    "title": "The One In Vegas",
+    "words": 8316,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0523.html",
+    "file": "transcripts/season-05/s05e23-523-in-vegas.txt"
+  },
+  {
+    "season": 6,
+    "episode": "01",
+    "code": "0601",
+    "index_title": "601 Vegas",
+    "title": "The One After Vegas",
+    "words": 3526,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0601.html",
+    "file": "transcripts/season-06/s06e01-601-vegas.txt"
+  },
+  {
+    "season": 6,
+    "episode": "02",
+    "code": "0602",
+    "index_title": "602 Ross Hugs Rachel",
+    "title": "The One Where Ross Hugs Rachel",
+    "words": 3717,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0602.html",
+    "file": "transcripts/season-06/s06e02-602-ross-hugs-rachel.txt"
+  },
+  {
+    "season": 6,
+    "episode": "03",
+    "code": "0603",
+    "index_title": "603 Ross's Denial",
+    "title": "The One With Ross’s Denial",
+    "words": 3853,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0603.html",
+    "file": "transcripts/season-06/s06e03-603-ross-s-denial.txt"
+  },
+  {
+    "season": 6,
+    "episode": "04",
+    "code": "0604",
+    "index_title": "604 Joey Loses His Insurance",
+    "title": "The One Where Joey Loses His Insurance",
+    "words": 3807,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0604.html",
+    "file": "transcripts/season-06/s06e04-604-joey-loses-his-insurance.txt"
+  },
+  {
+    "season": 6,
+    "episode": "05",
+    "code": "0605",
+    "index_title": "605 Joey's Porsche",
+    "title": "The One With Joey’s Porsche",
+    "words": 4006,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0605.html",
+    "file": "transcripts/season-06/s06e05-605-joey-s-porsche.txt"
+  },
+  {
+    "season": 6,
+    "episode": "06",
+    "code": "0606",
+    "index_title": "606 On The Last Night",
+    "title": "The One The Last Night",
+    "words": 3868,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0606.html",
+    "file": "transcripts/season-06/s06e06-606-on-the-last-night.txt"
+  },
+  {
+    "season": 6,
+    "episode": "07",
+    "code": "0607",
+    "index_title": "607 Phoebe Runs",
+    "title": "The One Where Phoebe Runs",
+    "words": 3445,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0607.html",
+    "file": "transcripts/season-06/s06e07-607-phoebe-runs.txt"
+  },
+  {
+    "season": 6,
+    "episode": "08",
+    "code": "0608",
+    "index_title": "608 Ross's Teeth",
+    "title": "The One With Ross’s Teeth",
+    "words": 3502,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0608.html",
+    "file": "transcripts/season-06/s06e08-608-ross-s-teeth.txt"
+  },
+  {
+    "season": 6,
+    "episode": "09",
+    "code": "0609",
+    "index_title": "609 Ross Got High",
+    "title": "The One Where Ross Got High",
+    "words": 4365,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0609.html",
+    "file": "transcripts/season-06/s06e09-609-ross-got-high.txt"
+  },
+  {
+    "season": 6,
+    "episode": "10",
+    "code": "0610",
+    "index_title": "610 The Routine",
+    "title": "The One With The Routinue",
+    "words": 3397,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0610.html",
+    "file": "transcripts/season-06/s06e10-610-the-routine.txt"
+  },
+  {
+    "season": 6,
+    "episode": "11",
+    "code": "0611",
+    "index_title": "611 The Apothecary Table",
+    "title": "The One With The Apothecary Table",
+    "words": 3700,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0611.html",
+    "file": "transcripts/season-06/s06e11-611-the-apothecary-table.txt"
+  },
+  {
+    "season": 6,
+    "episode": "12",
+    "code": "0612",
+    "index_title": "612 The Joke",
+    "title": "The One With The Joke",
+    "words": 3729,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0612.html",
+    "file": "transcripts/season-06/s06e12-612-the-joke.txt"
+  },
+  {
+    "season": 6,
+    "episode": "13",
+    "code": "0613",
+    "index_title": "613 Rachel's Sister",
+    "title": "The One With Rachel’s Sister",
+    "words": 3602,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0613.html",
+    "file": "transcripts/season-06/s06e13-613-rachel-s-sister.txt"
+  },
+  {
+    "season": 6,
+    "episode": "14",
+    "code": "0614",
+    "index_title": "614 Chandler Can't Cry",
+    "title": "The One Where Chandler Can’t Cry",
+    "words": 3788,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0614.html",
+    "file": "transcripts/season-06/s06e14-614-chandler-can-t-cry.txt"
+  },
+  {
+    "season": 6,
+    "episode": "15-16",
+    "code": "0615-0616",
+    "index_title": "615-616 That Could Have Been, Part I & II",
+    "title": "The One That Could Have Been",
+    "words": 7611,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0615-0616.html",
+    "file": "transcripts/season-06/s06e15-16-615-616-that-could-have-been-part-i-ii.txt"
+  },
+  {
+    "season": 6,
+    "episode": "17",
+    "code": "0617",
+    "index_title": "617 Unagi",
+    "title": "The One With The Unagi",
+    "words": 3824,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0617.html",
+    "file": "transcripts/season-06/s06e17-617-unagi.txt"
+  },
+  {
+    "season": 6,
+    "episode": "18",
+    "code": "0618",
+    "index_title": "618 Ross Dates A Student",
+    "title": "The One Where Ross Dates A Student",
+    "words": 3924,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0618.html",
+    "file": "transcripts/season-06/s06e18-618-ross-dates-a-student.txt"
+  },
+  {
+    "season": 6,
+    "episode": "19",
+    "code": "0619",
+    "index_title": "619 Joey's Fridge",
+    "title": "The One With Joey’s Fridge",
+    "words": 3800,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0619.html",
+    "file": "transcripts/season-06/s06e19-619-joey-s-fridge.txt"
+  },
+  {
+    "season": 6,
+    "episode": "20",
+    "code": "0620",
+    "index_title": "620 Mac And C.H.E.E.S.E.",
+    "title": "The One With Mac and C.H.E.E.S.E.",
+    "words": 4212,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0620.html",
+    "file": "transcripts/season-06/s06e20-620-mac-and-c-h-e-e-s-e.txt"
+  },
+  {
+    "season": 6,
+    "episode": "21",
+    "code": "0621",
+    "index_title": "621 Ross Meets Elizabeth's Dad",
+    "title": "The One Where Ross Meets Elizabeth’s Dad",
+    "words": 4079,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0621.html",
+    "file": "transcripts/season-06/s06e21-621-ross-meets-elizabeth-s-dad.txt"
+  },
+  {
+    "season": 6,
+    "episode": "22",
+    "code": "0622",
+    "index_title": "622 Paul's The Man",
+    "title": "The One Where Paul’s The Man",
+    "words": 3897,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0622.html",
+    "file": "transcripts/season-06/s06e22-622-paul-s-the-man.txt"
+  },
+  {
+    "season": 6,
+    "episode": "23",
+    "code": "0623",
+    "index_title": "623 The Ring",
+    "title": "The One With The Ring",
+    "words": 3882,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0623.html",
+    "file": "transcripts/season-06/s06e23-623-the-ring.txt"
+  },
+  {
+    "season": 6,
+    "episode": "24",
+    "code": "0624",
+    "index_title": "624 The Proposal, Part I & II",
+    "title": "The One With The Proposal",
+    "words": 7775,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0624.html",
+    "file": "transcripts/season-06/s06e24-624-the-proposal-part-i-ii.txt"
+  },
+  {
+    "season": 7,
+    "episode": "01",
+    "code": "0701",
+    "index_title": "701 Monica's Thunder",
+    "title": "The One With Monica’s Thunder",
+    "words": 3709,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0701.html",
+    "file": "transcripts/season-07/s07e01-701-monica-s-thunder.txt"
+  },
+  {
+    "season": 7,
+    "episode": "02",
+    "code": "0702",
+    "index_title": "702 Rachel's Book",
+    "title": "The One With Rachel’s Book",
+    "words": 3455,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0702.html",
+    "file": "transcripts/season-07/s07e02-702-rachel-s-book.txt"
+  },
+  {
+    "season": 7,
+    "episode": "03",
+    "code": "0703",
+    "index_title": "703 Phoebe's Cookies",
+    "title": "The One With Phoebe’s Cookies",
+    "words": 3735,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0703.html",
+    "file": "transcripts/season-07/s07e03-703-phoebe-s-cookies.txt"
+  },
+  {
+    "season": 7,
+    "episode": "04",
+    "code": "0704",
+    "index_title": "704 Rachel's Assistant",
+    "title": "The One With Rachel’s Assistant",
+    "words": 3640,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0704.html",
+    "file": "transcripts/season-07/s07e04-704-rachel-s-assistant.txt"
+  },
+  {
+    "season": 7,
+    "episode": "05",
+    "code": "0705",
+    "index_title": "705 The Engagement Picture",
+    "title": "The One With The Engagement Picture",
+    "words": 3725,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0705.html",
+    "file": "transcripts/season-07/s07e05-705-the-engagement-picture.txt"
+  },
+  {
+    "season": 7,
+    "episode": "06",
+    "code": "0706",
+    "index_title": "706 The Nap Partners",
+    "title": "The One With The Nap Partners",
+    "words": 3579,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0706.html",
+    "file": "transcripts/season-07/s07e06-706-the-nap-partners.txt"
+  },
+  {
+    "season": 7,
+    "episode": "07",
+    "code": "0707",
+    "index_title": "707 Ross's Library Book",
+    "title": "The One With Ross’s Book",
+    "words": 3556,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0707.html",
+    "file": "transcripts/season-07/s07e07-707-ross-s-library-book.txt"
+  },
+  {
+    "season": 7,
+    "episode": "08",
+    "code": "0708",
+    "index_title": "708 Chandler Doesn't Like Dogs",
+    "title": "The One Where Chandler Doesn’t Like Dogs",
+    "words": 3626,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0708.html",
+    "file": "transcripts/season-07/s07e08-708-chandler-doesn-t-like-dogs.txt"
+  },
+  {
+    "season": 7,
+    "episode": "09",
+    "code": "0709",
+    "index_title": "709 All The Candy",
+    "title": "The One With All The Candy",
+    "words": 3719,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0709.html",
+    "file": "transcripts/season-07/s07e09-709-all-the-candy.txt"
+  },
+  {
+    "season": 7,
+    "episode": "10",
+    "code": "0710",
+    "index_title": "710 The Huliday Armadillo",
+    "title": "The One With the Holiday Armadillo",
+    "words": 3416,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0710.html",
+    "file": "transcripts/season-07/s07e10-710-the-huliday-armadillo.txt"
+  },
+  {
+    "season": 7,
+    "episode": "11",
+    "code": "0711",
+    "index_title": "711 All The Cheesecakes",
+    "title": "The One With All The Cheesecakes",
+    "words": 4007,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0711.html",
+    "file": "transcripts/season-07/s07e11-711-all-the-cheesecakes.txt"
+  },
+  {
+    "season": 7,
+    "episode": "12",
+    "code": "0712",
+    "index_title": "712 They're Up All Night",
+    "title": "The One Where They’re Up All Night",
+    "words": 3822,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0712.html",
+    "file": "transcripts/season-07/s07e12-712-they-re-up-all-night.txt"
+  },
+  {
+    "season": 7,
+    "episode": "13",
+    "code": "0713",
+    "index_title": "713 Rosita Dies",
+    "title": "The One Where Rosita Dies",
+    "words": 4646,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0713.html",
+    "file": "transcripts/season-07/s07e13-713-rosita-dies.txt"
+  },
+  {
+    "season": 7,
+    "episode": "14",
+    "code": "0714",
+    "index_title": "714 They All Turn Thirty",
+    "title": "The One Where They All Turn Thirty",
+    "words": 4156,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0714.html",
+    "file": "transcripts/season-07/s07e14-714-they-all-turn-thirty.txt"
+  },
+  {
+    "season": 7,
+    "episode": "15",
+    "code": "0715",
+    "index_title": "715 Joey's New Brain",
+    "title": "The One With Joey’s New Brain",
+    "words": 4650,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0715.html",
+    "file": "transcripts/season-07/s07e15-715-joey-s-new-brain.txt"
+  },
+  {
+    "season": 7,
+    "episode": "16",
+    "code": "0716",
+    "index_title": "716 The Truth About London",
+    "title": "The One With The Truth About London",
+    "words": 4963,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0716.html",
+    "file": "transcripts/season-07/s07e16-716-the-truth-about-london.txt"
+  },
+  {
+    "season": 7,
+    "episode": "17",
+    "code": "0717",
+    "index_title": "717 The Cheap Wedding Dress",
+    "title": "The One With The Cheap Wedding Dress",
+    "words": 3772,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0717.html",
+    "file": "transcripts/season-07/s07e17-717-the-cheap-wedding-dress.txt"
+  },
+  {
+    "season": 7,
+    "episode": "18",
+    "code": "0718",
+    "index_title": "718 Joey's Award",
+    "title": "The One With Joey’s Award",
+    "words": 3630,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0718.html",
+    "file": "transcripts/season-07/s07e18-718-joey-s-award.txt"
+  },
+  {
+    "season": 7,
+    "episode": "19",
+    "code": "0719",
+    "index_title": "719 Ross And Monica's Cousin",
+    "title": "The One With Ross and Monica’s Cousin",
+    "words": 3745,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0719.html",
+    "file": "transcripts/season-07/s07e19-719-ross-and-monica-s-cousin.txt"
+  },
+  {
+    "season": 7,
+    "episode": "20",
+    "code": "0720",
+    "index_title": "720 Rachel's Big Kiss",
+    "title": "The One With Rachel’s Big Kiss",
+    "words": 3687,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0720.html",
+    "file": "transcripts/season-07/s07e20-720-rachel-s-big-kiss.txt"
+  },
+  {
+    "season": 7,
+    "episode": "21",
+    "code": "0721",
+    "index_title": "721 The Vows",
+    "title": "The One With The Vows",
+    "words": 3802,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0721.html",
+    "file": "transcripts/season-07/s07e21-721-the-vows.txt"
+  },
+  {
+    "season": 7,
+    "episode": "22",
+    "code": "0722",
+    "index_title": "722 Chandler's Dad",
+    "title": "The One With Chandler’s Dad",
+    "words": 3781,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0722.html",
+    "file": "transcripts/season-07/s07e22-722-chandler-s-dad.txt"
+  },
+  {
+    "season": 7,
+    "episode": "23",
+    "code": "0723",
+    "index_title": "723 Chandler And Monica's Wedding",
+    "title": "The One With Chandler and Monica’s Wedding",
+    "words": 7029,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0723.html",
+    "file": "transcripts/season-07/s07e23-723-chandler-and-monica-s-wedding.txt"
+  },
+  {
+    "season": 7,
+    "episode": "special",
+    "code": "07outtakes",
+    "index_title": "724 outtakesFriends Special: The Stuff You've Never Seen",
+    "title": "Friends: The Stuff You’ve Never Seen",
+    "words": 3611,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/07outtakes.html",
+    "file": "transcripts/season-07/s07especial-724-outtakesfriends-special-the-stuff-you-ve-never-seen.txt"
+  },
+  {
+    "season": 8,
+    "episode": "01",
+    "code": "0801",
+    "index_title": "801 \"I Do\"",
+    "title": "The One After \"I Do\"",
+    "words": 3631,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0801.html",
+    "file": "transcripts/season-08/s08e01-801-i-do.txt"
+  },
+  {
+    "season": 8,
+    "episode": "02",
+    "code": "0802",
+    "index_title": "802 The Red Sweater",
+    "title": "The One With The Red Sweater",
+    "words": 3581,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0802.html",
+    "file": "transcripts/season-08/s08e02-802-the-red-sweater.txt"
+  },
+  {
+    "season": 8,
+    "episode": "03",
+    "code": "0803",
+    "index_title": "803 Rachel Tells...",
+    "title": "The One Where Rachel Tells…",
+    "words": 3573,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0803.html",
+    "file": "transcripts/season-08/s08e03-803-rachel-tells.txt"
+  },
+  {
+    "season": 8,
+    "episode": "04",
+    "code": "0804",
+    "index_title": "804 The Videotape",
+    "title": "The One With The Videotape",
+    "words": 3577,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0804.html",
+    "file": "transcripts/season-08/s08e04-804-the-videotape.txt"
+  },
+  {
+    "season": 8,
+    "episode": "05",
+    "code": "0805",
+    "index_title": "805 Rachel's Date",
+    "title": "The One With Rachel’s Date",
+    "words": 3928,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0805.html",
+    "file": "transcripts/season-08/s08e05-805-rachel-s-date.txt"
+  },
+  {
+    "season": 8,
+    "episode": "06",
+    "code": "0806",
+    "index_title": "806 The Halloween Party",
+    "title": "The One With The Halloween Party",
+    "words": 3753,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0806.html",
+    "file": "transcripts/season-08/s08e06-806-the-halloween-party.txt"
+  },
+  {
+    "season": 8,
+    "episode": "07",
+    "code": "0807",
+    "index_title": "807 The Stain",
+    "title": "The One With The Stain",
+    "words": 3561,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0807.html",
+    "file": "transcripts/season-08/s08e07-807-the-stain.txt"
+  },
+  {
+    "season": 8,
+    "episode": "08",
+    "code": "0808",
+    "index_title": "808 The Stripper",
+    "title": "The One With The Stripper",
+    "words": 3777,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0808.html",
+    "file": "transcripts/season-08/s08e08-808-the-stripper.txt"
+  },
+  {
+    "season": 8,
+    "episode": "09",
+    "code": "0809",
+    "index_title": "809 The Rumor",
+    "title": "The One With The Rumor",
+    "words": 3676,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0809.html",
+    "file": "transcripts/season-08/s08e09-809-the-rumor.txt"
+  },
+  {
+    "season": 8,
+    "episode": "10",
+    "code": "0810",
+    "index_title": "810 Monica's Boots",
+    "title": "The One With Monica’s Boots",
+    "words": 3823,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0810.html",
+    "file": "transcripts/season-08/s08e10-810-monica-s-boots.txt"
+  },
+  {
+    "season": 8,
+    "episode": "11",
+    "code": "0811",
+    "index_title": "811 Ross's Step Forward",
+    "title": "The One With Ross’ Big Step Forward",
+    "words": 3262,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0811.html",
+    "file": "transcripts/season-08/s08e11-811-ross-s-step-forward.txt"
+  },
+  {
+    "season": 8,
+    "episode": "12",
+    "code": "0812",
+    "index_title": "812 Joey Dates Rachel",
+    "title": "The One Where Joey Dates Rachel",
+    "words": 3696,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0812.html",
+    "file": "transcripts/season-08/s08e12-812-joey-dates-rachel.txt"
+  },
+  {
+    "season": 8,
+    "episode": "13",
+    "code": "0813",
+    "index_title": "813 Chandler Takes A Bath",
+    "title": "The One Where Chandler Takes a Bath",
+    "words": 3257,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0813.html",
+    "file": "transcripts/season-08/s08e13-813-chandler-takes-a-bath.txt"
+  },
+  {
+    "season": 8,
+    "episode": "14",
+    "code": "0814",
+    "index_title": "814 The Secret Closet",
+    "title": "The One With The Secret Closet",
+    "words": 3539,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0814.html",
+    "file": "transcripts/season-08/s08e14-814-the-secret-closet.txt"
+  },
+  {
+    "season": 8,
+    "episode": "15",
+    "code": "0815",
+    "index_title": "815 The Birthing Video",
+    "title": "815 The Birthing Video",
+    "words": 3632,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0815.html",
+    "file": "transcripts/season-08/s08e15-815-the-birthing-video.txt"
+  },
+  {
+    "season": 8,
+    "episode": "16",
+    "code": "0816",
+    "index_title": "816 Joey Tells Rachel",
+    "title": "The One Where Joey Tells Rachel",
+    "words": 3160,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0816.html",
+    "file": "transcripts/season-08/s08e16-816-joey-tells-rachel.txt"
+  },
+  {
+    "season": 8,
+    "episode": "17",
+    "code": "0817",
+    "index_title": "817 The Tea Leaves",
+    "title": "The One With The Tea Leaves",
+    "words": 3443,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0817.html",
+    "file": "transcripts/season-08/s08e17-817-the-tea-leaves.txt"
+  },
+  {
+    "season": 8,
+    "episode": "18",
+    "code": "0818",
+    "index_title": "818 In Massapequa",
+    "title": "The One In Massapequa",
+    "words": 3363,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0818.html",
+    "file": "transcripts/season-08/s08e18-818-in-massapequa.txt"
+  },
+  {
+    "season": 8,
+    "episode": "19",
+    "code": "0819",
+    "index_title": "819 Joey's Interview",
+    "title": "The One With Joey’s Interview",
+    "words": 4531,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0819.html",
+    "file": "transcripts/season-08/s08e19-819-joey-s-interview.txt"
+  },
+  {
+    "season": 8,
+    "episode": "20",
+    "code": "0820",
+    "index_title": "820 The Baby Shower",
+    "title": "The One With The Baby Shower",
+    "words": 4090,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0820.html",
+    "file": "transcripts/season-08/s08e20-820-the-baby-shower.txt"
+  },
+  {
+    "season": 8,
+    "episode": "21",
+    "code": "0821",
+    "index_title": "821 The Cooking Class",
+    "title": "The One With The Cooking Class",
+    "words": 3669,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0821.html",
+    "file": "transcripts/season-08/s08e21-821-the-cooking-class.txt"
+  },
+  {
+    "season": 8,
+    "episode": "22",
+    "code": "0822",
+    "index_title": "822 Rachel Is Late",
+    "title": "The One Where Rachel Is Late",
+    "words": 3388,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0822.html",
+    "file": "transcripts/season-08/s08e22-822-rachel-is-late.txt"
+  },
+  {
+    "season": 8,
+    "episode": "23",
+    "code": "0823",
+    "index_title": "823 Rachel Has A Baby",
+    "title": "The One Where Rachel Has A Baby",
+    "words": 6799,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0823.html",
+    "file": "transcripts/season-08/s08e23-823-rachel-has-a-baby.txt"
+  },
+  {
+    "season": 9,
+    "episode": "01",
+    "code": "0901",
+    "index_title": "901 No One Proposes",
+    "title": "The One Where No One Proposes",
+    "words": 3382,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0901.html",
+    "file": "transcripts/season-09/s09e01-901-no-one-proposes.txt"
+  },
+  {
+    "season": 9,
+    "episode": "02",
+    "code": "0902",
+    "index_title": "902 Emma Cries",
+    "title": "The One Where Emma Cries",
+    "words": 3614,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0902.html",
+    "file": "transcripts/season-09/s09e02-902-emma-cries.txt"
+  },
+  {
+    "season": 9,
+    "episode": "03",
+    "code": "0903",
+    "index_title": "903 The Pediatrician",
+    "title": "903 - The One With The Pediatrician",
+    "words": 3392,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0903.html",
+    "file": "transcripts/season-09/s09e03-903-the-pediatrician.txt"
+  },
+  {
+    "season": 9,
+    "episode": "04",
+    "code": "0904",
+    "index_title": "904 The Sharks",
+    "title": "904 - The One With The Sharks",
+    "words": 3357,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0904.html",
+    "file": "transcripts/season-09/s09e04-904-the-sharks.txt"
+  },
+  {
+    "season": 9,
+    "episode": "05",
+    "code": "0905",
+    "index_title": "905 Phoebe's Birthday Dinner",
+    "title": "905 - The One With Phoebe�s Birthday Dinner",
+    "words": 3629,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0905.html",
+    "file": "transcripts/season-09/s09e05-905-phoebe-s-birthday-dinner.txt"
+  },
+  {
+    "season": 9,
+    "episode": "06",
+    "code": "0906",
+    "index_title": "906 The Male Nanny",
+    "title": "906 - The One With The Male Nanny (200th episode)",
+    "words": 5516,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0906.html",
+    "file": "transcripts/season-09/s09e06-906-the-male-nanny.txt"
+  },
+  {
+    "season": 9,
+    "episode": "07",
+    "code": "0907",
+    "index_title": "907 Ross's Inappropriate Song",
+    "title": "907 - The One With Ross's Inappropriate Song",
+    "words": 4132,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0907.html",
+    "file": "transcripts/season-09/s09e07-907-ross-s-inappropriate-song.txt"
+  },
+  {
+    "season": 9,
+    "episode": "08",
+    "code": "0908",
+    "index_title": "908 Rachel's Other Sister",
+    "title": "908 - The One With Rachel's Other Sister",
+    "words": 4470,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0908.html",
+    "file": "transcripts/season-09/s09e08-908-rachel-s-other-sister.txt"
+  },
+  {
+    "season": 9,
+    "episode": "09",
+    "code": "0909",
+    "index_title": "909 Rachel's Phone Number",
+    "title": "909 Rachel's Phone Number",
+    "words": 4228,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0909.html",
+    "file": "transcripts/season-09/s09e09-909-rachel-s-phone-number.txt"
+  },
+  {
+    "season": 9,
+    "episode": "10",
+    "code": "0910",
+    "index_title": "910 Christmas In Tulsa",
+    "title": "Friends\n\nThe One With Christmas In Tulsa",
+    "words": 3973,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0910.html",
+    "file": "transcripts/season-09/s09e10-910-christmas-in-tulsa.txt"
+  },
+  {
+    "season": 9,
+    "episode": "11",
+    "code": "0911",
+    "index_title": "911 Rachel Goes Back To Work",
+    "title": "911 Rachel Goes Back To Work",
+    "words": 3492,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0911.html",
+    "file": "transcripts/season-09/s09e11-911-rachel-goes-back-to-work.txt"
+  },
+  {
+    "season": 9,
+    "episode": "12",
+    "code": "0912",
+    "index_title": "912 Phoebe's Rats",
+    "title": "912 Phoebe's Rats",
+    "words": 3574,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0912.html",
+    "file": "transcripts/season-09/s09e12-912-phoebe-s-rats.txt"
+  },
+  {
+    "season": 9,
+    "episode": "13",
+    "code": "0913",
+    "index_title": "913 Monica Sings",
+    "title": "913 Monica Sings",
+    "words": 4067,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0913.html",
+    "file": "transcripts/season-09/s09e13-913-monica-sings.txt"
+  },
+  {
+    "season": 9,
+    "episode": "14",
+    "code": "0914",
+    "index_title": "914 The Blind Dates",
+    "title": "914 The One With the Blind Dates",
+    "words": 3849,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0914.html",
+    "file": "transcripts/season-09/s09e14-914-the-blind-dates.txt"
+  },
+  {
+    "season": 9,
+    "episode": "15",
+    "code": "0915",
+    "index_title": "915 The Mugging",
+    "title": "915 The Mugging",
+    "words": 4032,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0915.html",
+    "file": "transcripts/season-09/s09e15-915-the-mugging.txt"
+  },
+  {
+    "season": 9,
+    "episode": "16",
+    "code": "0916",
+    "index_title": "916 The Boob Job",
+    "title": "916 - The One With The Boob Job",
+    "words": 3586,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0916.html",
+    "file": "transcripts/season-09/s09e16-916-the-boob-job.txt"
+  },
+  {
+    "season": 9,
+    "episode": "17",
+    "code": "0917",
+    "index_title": "917 The Memorial Service",
+    "title": "Friends\n\n917 - The One With The Memorial Service",
+    "words": 3910,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0917.html",
+    "file": "transcripts/season-09/s09e17-917-the-memorial-service.txt"
+  },
+  {
+    "season": 9,
+    "episode": "18",
+    "code": "0918",
+    "index_title": "918 The Lottery",
+    "title": "Friends\n\n918 - The one with the lottery",
+    "words": 4041,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0918.html",
+    "file": "transcripts/season-09/s09e18-918-the-lottery.txt"
+  },
+  {
+    "season": 9,
+    "episode": "19",
+    "code": "0919",
+    "index_title": "919 Rachel's Dream",
+    "title": "Friends\n919 - The one with Rachel's dream",
+    "words": 3903,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0919.html",
+    "file": "transcripts/season-09/s09e19-919-rachel-s-dream.txt"
+  },
+  {
+    "season": 9,
+    "episode": "20",
+    "code": "0920",
+    "index_title": "920 The Soap Opera Party",
+    "title": "Friends\n920 - The One With The Soap Opera Party",
+    "words": 4045,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0920.html",
+    "file": "transcripts/season-09/s09e20-920-the-soap-opera-party.txt"
+  },
+  {
+    "season": 9,
+    "episode": "21",
+    "code": "0921",
+    "index_title": "921 The Fertility Test",
+    "title": "Friends\n\n921 - The one with the fertility test",
+    "words": 3980,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0921.html",
+    "file": "transcripts/season-09/s09e21-921-the-fertility-test.txt"
+  },
+  {
+    "season": 9,
+    "episode": "22",
+    "code": "0922",
+    "index_title": "922 The Donor",
+    "title": "Friends\n\n922 - The one with the donor",
+    "words": 4184,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0922.html",
+    "file": "transcripts/season-09/s09e22-922-the-donor.txt"
+  },
+  {
+    "season": 9,
+    "episode": "23-24",
+    "code": "0923-0924",
+    "index_title": "923-924 In Barbados",
+    "title": "Friends\n\n923 - 924 - The one in Barbados",
+    "words": 8530,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/0923-0924.html",
+    "file": "transcripts/season-09/s09e23-24-923-924-in-barbados.txt"
+  },
+  {
+    "season": 10,
+    "episode": "01",
+    "code": "1001",
+    "index_title": "1001 Joey and Rachel Kiss",
+    "title": "1001 - The One After Joey And Rachel Kiss",
+    "words": 4716,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1001.html",
+    "file": "transcripts/season-10/s10e01-1001-joey-and-rachel-kiss.txt"
+  },
+  {
+    "season": 10,
+    "episode": "02",
+    "code": "1002",
+    "index_title": "1002 Ross Is Fine",
+    "title": "1002 - The One Where Ross Is Fine",
+    "words": 3465,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1002.html",
+    "file": "transcripts/season-10/s10e02-1002-ross-is-fine.txt"
+  },
+  {
+    "season": 10,
+    "episode": "03",
+    "code": "1003",
+    "index_title": "1003 Ross's Tan",
+    "title": "Friends\n\n1003 - The One With Ross' Tan",
+    "words": 3949,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1003.html",
+    "file": "transcripts/season-10/s10e03-1003-ross-s-tan.txt"
+  },
+  {
+    "season": 10,
+    "episode": "04",
+    "code": "1004",
+    "index_title": "1004 The Cake",
+    "title": "Friends\n\n1004 - The One With The Cake",
+    "words": 4135,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1004.html",
+    "file": "transcripts/season-10/s10e04-1004-the-cake.txt"
+  },
+  {
+    "season": 10,
+    "episode": "05",
+    "code": "1005",
+    "index_title": "1005  Rachel's Sister Babysits",
+    "title": "Friends\n\n1005 - The One Where Rachel's Sister Baby-sits",
+    "words": 4627,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1005.html",
+    "file": "transcripts/season-10/s10e05-1005-rachel-s-sister-babysits.txt"
+  },
+  {
+    "season": 10,
+    "episode": "06",
+    "code": "1006",
+    "index_title": "1006  Ross's Grant",
+    "title": "Friends\n\n1006 - The One With Ross' Grant",
+    "words": 4322,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1006.html",
+    "file": "transcripts/season-10/s10e06-1006-ross-s-grant.txt"
+  },
+  {
+    "season": 10,
+    "episode": "07",
+    "code": "1007",
+    "index_title": "1007 The Home Study",
+    "title": "Friends\n\n1007 - The One With The Home Study",
+    "words": 4252,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1007.html",
+    "file": "transcripts/season-10/s10e07-1007-the-home-study.txt"
+  },
+  {
+    "season": 10,
+    "episode": "08",
+    "code": "1008",
+    "index_title": "1008 The Late Thanksgiving",
+    "title": "Friends\n\n1008 - The One With The Late Thanksgiving",
+    "words": 4446,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1008.html",
+    "file": "transcripts/season-10/s10e08-1008-the-late-thanksgiving.txt"
+  },
+  {
+    "season": 10,
+    "episode": "09",
+    "code": "1009",
+    "index_title": "1009 The Birth Mother",
+    "title": "Friends\n\n1009 - The One With The Birth Mother",
+    "words": 4253,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1009.html",
+    "file": "transcripts/season-10/s10e09-1009-the-birth-mother.txt"
+  },
+  {
+    "season": 10,
+    "episode": "10",
+    "code": "1010",
+    "index_title": "1010 Chandler Gets Caught",
+    "title": "Friends\n\n1010 - The One Where Chandler Gets Caught",
+    "words": 3877,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1010.html",
+    "file": "transcripts/season-10/s10e10-1010-chandler-gets-caught.txt"
+  },
+  {
+    "season": 10,
+    "episode": "11",
+    "code": "1011",
+    "index_title": "1011 The Stripper Cries",
+    "title": "Friends\n\n1011 - The One Where The Stripper Cries",
+    "words": 4666,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1011.html",
+    "file": "transcripts/season-10/s10e11-1011-the-stripper-cries.txt"
+  },
+  {
+    "season": 10,
+    "episode": "12",
+    "code": "1012",
+    "index_title": "1012  Phoebe's Wedding",
+    "title": "Friends\n\n1012 - The One With Phoebe's Wedding",
+    "words": 5149,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1012.html",
+    "file": "transcripts/season-10/s10e12-1012-phoebe-s-wedding.txt"
+  },
+  {
+    "season": 10,
+    "episode": "13",
+    "code": "1013",
+    "index_title": "1013 Joey Speaks French",
+    "title": "Friends\n\n1013 - The One Where Joey Speaks French",
+    "words": 3889,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1013.html",
+    "file": "transcripts/season-10/s10e13-1013-joey-speaks-french.txt"
+  },
+  {
+    "season": 10,
+    "episode": "14",
+    "code": "1014",
+    "index_title": "1014 Princess Consuela",
+    "title": "Friends\n\n1014 - The One With Princess Consuela",
+    "words": 4030,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1014.html",
+    "file": "transcripts/season-10/s10e14-1014-princess-consuela.txt"
+  },
+  {
+    "season": 10,
+    "episode": "15",
+    "code": "1015",
+    "index_title": "1015 Estelle Dies",
+    "title": "Friends\n\n1015 - The One Where Estelle Dies",
+    "words": 3690,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1015.html",
+    "file": "transcripts/season-10/s10e15-1015-estelle-dies.txt"
+  },
+  {
+    "season": 10,
+    "episode": "16",
+    "code": "1016",
+    "index_title": "1016 Rachel's Going Away Party",
+    "title": "Friends\n\n1016 - The One With Rachel's Going Away Party",
+    "words": 3778,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1016.html",
+    "file": "transcripts/season-10/s10e16-1016-rachel-s-going-away-party.txt"
+  },
+  {
+    "season": 10,
+    "episode": "17-18",
+    "code": "1017-1018",
+    "index_title": "1017-1018 The Last One, Part I & II",
+    "title": "Friends\n\n1017-1018 - The Last One",
+    "words": 7337,
+    "url": "https://edersoncorbari.github.io/friends-scripts/season/1017-1018.html",
+    "file": "transcripts/season-10/s10e17-18-1017-1018-the-last-one-part-i-ii.txt"
+  }
+]

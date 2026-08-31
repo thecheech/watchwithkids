@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Big Bang Theory · Watch With The Kids</title>
+  <meta name="description" content="Is this The Big Bang Theory episode safe to watch with the kids?" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="friends.css" />
+</head>
+<body>
+  <div class="confetti" aria-hidden="true"></div>
+
+  <nav class="topnav wrap">
+    <a class="back-home" href="index.html">← All shows</a>
+  </nav>
+
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <h1>The Big Bang Theory <span class="pop">🔬</span></h1>
+        <p class="tagline">
+          Three buckets. One question: <strong>can the kids watch this?</strong>
+        </p>
+        <div class="hero-pills" aria-hidden="true">
+          <span>✅ all clear</span>
+          <span>🤔 gray area</span>
+          <span>🚫 hard pass</span>
+        </div>
+      </div>
+      <aside class="hero-card">
+        <div class="hero-cover">
+          <img src="covers/big-bang-theory.jpg" alt="The Big Bang Theory" width="1920" height="1080" />
+        </div>
+        <p class="disclaimer" id="disclaimer"></p>
+      </aside>
+    </div>
+  </header>
+
+  <section class="wrap vibe-row" role="tablist" aria-label="Kid-safety buckets">
+    <button type="button" class="vibe-btn is-active" data-bucket="all" id="bucket-all">
+      <span class="vibe-emoji">✨</span>
+      <span class="vibe-label">Show all</span>
+      <span class="vibe-count" data-count-for="all">—</span>
+    </button>
+    <button type="button" class="vibe-btn vibe-safe" data-bucket="safe" id="bucket-safe">
+      <span class="vibe-emoji">✅</span>
+      <span class="vibe-label">All clear</span>
+      <span class="vibe-sub">Pretty safe with kids</span>
+      <span class="vibe-count" data-count-for="safe">—</span>
+    </button>
+    <button type="button" class="vibe-btn vibe-maybe" data-bucket="maybe" id="bucket-maybe">
+      <span class="vibe-emoji">🤔</span>
+      <span class="vibe-label">Gray area</span>
+      <span class="vibe-sub">Your call — preview first</span>
+      <span class="vibe-count" data-count-for="maybe">—</span>
+    </button>
+    <button type="button" class="vibe-btn vibe-skip" data-bucket="skip" id="bucket-skip">
+      <span class="vibe-emoji">🚫</span>
+      <span class="vibe-label">Hard pass</span>
+      <span class="vibe-sub">Skip for little ones</span>
+      <span class="vibe-count" data-count-for="skip">—</span>
+    </button>
+  </section>
+
+  <section class="wrap controls-bar">
+    <label class="field">
+      <span>🎬 Season</span>
+      <select id="season">
+        <option value="all">All seasons ✨</option>
+      </select>
+    </label>
+    <label class="field grow">
+      <span>🔎 Search</span>
+      <input id="q" type="search" placeholder="Search titles or themes…" autocomplete="off" />
+    </label>
+    <label class="field">
+      <span>🔀 Sort</span>
+      <select id="sort">
+        <option value="air">Air order</option>
+        <option value="themes">Most watch-fors first</option>
+        <option value="overall-asc">Safest first 🏅</option>
+        <option value="overall-desc">Spiciest first 🌶️</option>
+        <option value="sex-desc">Most 💋 first</option>
+        <option value="language-desc">Most 🙊 first</option>
+        <option value="violence-desc">Most 👊 first</option>
+      </select>
+    </label>
+  </section>
+
+  <section class="wrap theme-filter-bar" aria-label="Watch-for theme filters">
+    <div class="theme-filter-head">
+      <div>
+        <h2 class="theme-filter-title">Watch for</h2>
+        <p class="theme-filter-sub">Filter by the flags parents actually care about.</p>
+      </div>
+      <button type="button" class="theme-clear" id="theme-clear" hidden>Clear themes</button>
+    </div>
+    <div class="theme-chips" id="theme-chips" role="group" aria-label="Themes to watch for"></div>
+  </section>
+
+  <section class="wrap legend">
+    <div class="legend-scale" aria-label="Traffic-light guide">
+      <span class="sem-legend">
+        <span class="mini-sem" aria-hidden="true">
+          <i class="lamp stop"></i><i class="lamp caution"></i><i class="lamp go on"></i>
+        </span>
+        Go
+      </span>
+      <span class="sem-legend">
+        <span class="mini-sem" aria-hidden="true">
+          <i class="lamp stop"></i><i class="lamp caution on"></i><i class="lamp go"></i>
+        </span>
+        Caution
+      </span>
+      <span class="sem-legend">
+        <span class="mini-sem" aria-hidden="true">
+          <i class="lamp stop on"></i><i class="lamp caution"></i><i class="lamp go"></i>
+        </span>
+        Stop — inappropriate
+      </span>
+    </div>
+    <p class="bucket-hint" id="bucket-hint">Tap a bucket above to filter fast.</p>
+    <p id="stats" class="stats"></p>
+  </section>
+
+  <main class="wrap">
+    <div id="list" class="episode-list"></div>
+    <p id="empty" class="empty hidden">🫠 Nothing matched. Loosen the filters and try again!</p>
+  </main>
+
+  <footer class="wrap site-footer">
+    <p>Made for family couch debates · <strong>watchwiththekids.com</strong> · You kids — your rules!</p>
+  </footer>
+
+  <script src="data/big-bang-theory.js"></script>
+  <script src="show.js"></script>
+</body>
+</html>
