@@ -719,9 +719,18 @@
     "premiered": "2016",
     "runtime": 65,
     "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
-    "ready": false,
+    "ready": true,
     "blurb": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces …",
-    "href": null
+    "href": "stranger-things.html",
+    "mix": {
+      "safe": 0,
+      "maybe": 5,
+      "skip": 29,
+      "total": 34
+    },
+    "coverLocal": "covers/stranger-things.jpg",
+    "coverW": 1920,
+    "coverH": 1080
   },
   {
     "id": "legend-of-korra",
@@ -737,9 +746,18 @@
     "premiered": "2012",
     "runtime": 30,
     "summary": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
-    "ready": false,
+    "ready": true,
     "blurb": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
-    "href": null
+    "href": "legend-of-korra.html",
+    "mix": {
+      "safe": 36,
+      "maybe": 14,
+      "skip": 2,
+      "total": 52
+    },
+    "coverLocal": "covers/legend-of-korra.jpg",
+    "coverW": 1920,
+    "coverH": 1080
   },
   {
     "id": "clone-wars",
@@ -755,9 +773,18 @@
     "premiered": "2008",
     "runtime": 30,
     "summary": "The Clone Wars television series chronicles the events taking place during Star Wars Episode II: Attack of the Clones and Star Wars Episode III: Revenge of the Sith. The Clone Wars will ultimately lead to the downfall of the Jedi and the rise of the Galactic Empire.",
-    "ready": false,
+    "ready": true,
     "blurb": "The Clone Wars television series chronicles the events taking place during Star Wars Episode II: Attack of the Clones an…",
-    "href": null
+    "href": "clone-wars.html",
+    "mix": {
+      "safe": 120,
+      "maybe": 13,
+      "skip": 0,
+      "total": 133
+    },
+    "coverLocal": "covers/clone-wars.jpg",
+    "coverW": 1920,
+    "coverH": 1080
   },
   {
     "id": "owl-house",
@@ -773,9 +800,18 @@
     "premiered": "2020",
     "runtime": 29,
     "summary": "The Owl House follows Luz, a self-assured teenage human girl who accidentally stumbles upon a portal to the Demon Realm where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
-    "ready": false,
+    "ready": true,
     "blurb": "The Owl House follows Luz, a self-assured teenage human girl who accidentally stumbles upon a portal to the Demon Realm …",
-    "href": null
+    "href": "owl-house.html",
+    "mix": {
+      "safe": 31,
+      "maybe": 12,
+      "skip": 0,
+      "total": 43
+    },
+    "coverLocal": "covers/owl-house.jpg",
+    "coverW": 1920,
+    "coverH": 1080
   },
   {
     "id": "amphibia",
@@ -791,9 +827,18 @@
     "premiered": "2019",
     "runtime": 16,
     "summary": "Amphibia chronicles the adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the fictitious world of Amphibia, a rural marshland full of frog-people. With the help of an excitable young frog named Sprig, Anne will transform into a hero and discover the first true friendship of her life.",
-    "ready": false,
+    "ready": true,
     "blurb": "Amphibia chronicles the adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the ficti…",
-    "href": null
+    "href": "amphibia.html",
+    "mix": {
+      "safe": 99,
+      "maybe": 7,
+      "skip": 0,
+      "total": 106
+    },
+    "coverLocal": "covers/amphibia.jpg",
+    "coverW": 1920,
+    "coverH": 1080
   },
   {
     "id": "pokemon",
@@ -809,8 +854,17 @@
     "premiered": "1997",
     "runtime": 25,
     "summary": "Pocket Monsters, or Pokémon for short. These arethe mysterious and wondrous creatures of this planet. They can be seen everywhere in the world—in the sky, in the sea, in the forests, in the cities.Ash and Pikachu continue their adventures, going wherever the wind takes them and wherever their hearts lead them, chasing the unfulfilled dream of becoming a \"Pokémon Master.\"Encounters with wild Pokémon along the way—andTeam Rocket's pursuit, aiming to steal Pikachu.Ash and Pikachu were continuing their usual adventurous days, but one day in a forest, they encountered a wounded legendary Pokémon, Latias ...!",
-    "ready": false,
+    "ready": true,
     "blurb": "Pocket Monsters, or Pokémon for short. These arethe mysterious and wondrous creatures of this planet. They can be seen e…",
-    "href": null
+    "href": "pokemon.html",
+    "mix": {
+      "safe": 78,
+      "maybe": 1,
+      "skip": 0,
+      "total": 79
+    },
+    "coverLocal": "covers/pokemon.jpg",
+    "coverW": 1920,
+    "coverH": 1080
   }
 ]

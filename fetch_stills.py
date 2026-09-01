@@ -39,6 +39,14 @@ READY = [
     "parks-and-recreation",
     "modern-family",
     "wednesday",
+    "avatar",
+    "gravity-falls",
+    "stranger-things",
+    "legend-of-korra",
+    "clone-wars",
+    "owl-house",
+    "amphibia",
+    "pokemon",
 ]
 
 

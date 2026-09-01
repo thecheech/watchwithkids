@@ -53,6 +53,12 @@ READY = [
     "simpsons",
     "wednesday",
     "kpop-demon-hunters",
+    "stranger-things",
+    "legend-of-korra",
+    "clone-wars",
+    "owl-house",
+    "amphibia",
+    "pokemon",
 ]
 
 SHOW_PAGE = {
@@ -837,12 +843,15 @@ def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
             "name": f"Is {show_name} {ep_label(ep)} OK for kids?",
             "itemReviewed": {"@id": f"{url}#episode"},
             "reviewBody": re.sub(r"<[^>]+>", "", episode_prose(show_name, ep)).strip(),
+            # overall is an unsafety score (5 = hard pass). Schema.org stars
+            # read as quality, so publish the inverted kid-fit score instead.
             "reviewRating": {
                 "@type": "Rating",
-                "ratingValue": ep.get("overall"),
+                "ratingValue": max(1, 6 - int(ep.get("overall") or 1)),
                 "bestRating": 5,
                 "worstRating": 1,
                 "alternateName": ep.get("verdict") or "",
+                "description": "Kid-fit score (5 = all clear, 1 = hard pass)",
             },
             "author": {"@type": "Organization", "name": BRAND, "url": SITE},
         },

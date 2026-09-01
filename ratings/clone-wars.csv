@@ -1,0 +1,134 @@
+season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
+1,1,0101,Ambush,1,1,1,1,9,Usually fine — about 9+,
+1,2,0102,Rising Malevolence,1,1,1,1,9,Usually fine — about 9+,
+1,3,0103,Shadow Malevolence,1,1,1,1,9,Usually fine — about 9+,
+1,4,0104,Destroy Malevolence,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “All batteries, open fire! You know, we have guns.”"
+1,5,0105,Rookies,1,1,1,1,9,Usually fine — about 9+,Violence & injury — “Big gun doesn't make a big man.”
+1,6,0106,Downfall of a Droid,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “What do you mean the laser guns won't fire? Cargo bay doors open.”
+1,7,0107,Duel of the Droids,1,1,1,1,9,Usually fine — about 9+,
+1,8,0108,Bombad Jedi,1,1,1,1,9,Usually fine — about 9+,
+1,9,0109,Cloak of Darkness,1,1,1,1,9,Usually fine — about 9+,
+1,10,0110,The Lair of General Grievous,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “These must be trophies taken from the Jedi he's murdered.”
+1,11,0111,Dooku Captured,1,1,1,1,9,Usually fine — about 9+,Alcohol & drugs — “Get what? How a bunch of drunken pirates managed to catch Dooku when we couldn't.”
+1,12,0112,The Gungan General,1,1,1,1,9,Usually fine — about 9+,
+1,13,0113,Jedi Crash,1,1,1,1,9,Usually fine — about 9+,
+1,14,0114,Defenders of Peace,1,1,1,1,9,Usually fine — about 9+,
+1,15,0115,Trespass,1,2,1,2,9,Mild — okay from about 9+,Affairs / cheating — “This is now an internal affair of Pantora.”
+1,16,0116,Hidden Enemy,1,1,1,1,9,Usually fine — about 9+,Violence & injury — “Gun's empty.”
+1,17,0117,Blue Shadow Virus,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “You mean murdered.”
+1,18,0118,Mystery of a Thousand Moons,1,1,1,1,9,Usually fine — about 9+,"Suicide & self-harm — “I applaud your courage, General Skywalker, but it's suicide.”"
+1,19,0119,Storm Over Ryloth,3,1,1,3,10,Preview first — about 10+,Violence & injury — “And I want him to know it is I who has beaten him.”
+1,20,0120,Innocents of Ryloth,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “We can't risk landing the larger transports - until you take out those guns.”
+1,21,0121,Liberty of Ryloth,1,1,1,1,9,Usually fine — about 9+,
+1,22,0122,Hostage Crisis,1,1,1,1,9,Usually fine — about 9+,
+2,1,0201,Holocron Heist,1,1,1,1,9,Usually fine — about 9+,
+2,2,0202,Cargo of Doom,1,1,1,1,9,Usually fine — about 9+,
+2,3,0203,Children of the Force,1,1,1,1,9,Usually fine — about 9+,Affairs / cheating — “It's an internal Jedi affair.”
+2,4,0204,Senate Spy,1,1,1,1,9,Usually fine — about 9+,
+2,5,0205,Landing at Point Rain,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “Look at that giant wall with all the gun emplacements.”
+2,6,0206,Weapons Factory,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “Focus your fire on the gun emplacements here and here Because it's only after we neutralize the guns - that we can push for the factory.”
+2,7,0207,Legacy of Terror,1,1,1,1,9,Usually fine — about 9+,
+2,8,0208,Brain Invaders,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “Why should we believe you? Look, no guns.”"
+2,9,0209,Grievous Intrigue,3,1,1,3,10,Preview first — about 10+,Violence & injury — “Reputation of a coward and a murderer.”
+2,10,0210,The Deserter,3,1,1,3,10,Preview first — about 10+,Violence & injury — “Reputation of a coward and a murderer.”
+2,11,0211,Lightsaber Lost,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “Maybe the gun market To sell the lightsaber, Within the radius.”"
+2,12,0212,The Mandalore Plot,1,1,1,1,9,Usually fine — about 9+,"Affairs / cheating — “I know we sound Defensive, but-- clearly your investigation Was ordered because the senate Is eager to intervene in Our affairs.”"
+2,13,0213,Voyage of Temptation,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “Who will strike first and Brand themselves A cold-blooded killer? Anakin What? He was going to blow up The ship.”
+2,14,0214,Duchess of Mandalore,3,1,1,3,10,Preview first — about 10+,"Affairs / cheating — “If the republic gets involved In our affairs, It will only lead To further violence.”"
+2,15,0215,Senate Murders,3,1,1,3,10,Preview first — about 10+,Violence & injury — “A murderers on the lose and it's my job to find him.”
+2,16,0216,Cat and Mouse,1,1,1,1,9,Usually fine — about 9+,
+2,17,0217,Bounty Hunters,1,1,1,1,9,Usually fine — about 9+,
+2,18,0218,The Zillo Beast,1,1,1,1,9,Usually fine — about 9+,"Violence & injury — “It is a dangerous, bloodthirsty monster! Did you forget that it tried to kill you? It was under attack.”"
+2,19,0219,The Zillo Beast Strikes Back,1,1,1,1,9,Usually fine — about 9+,
+2,20,0220,Death Trap,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “I just wanted to kill the Jedi that murdered my father.”
+2,21,0221,R2 Come Home,3,1,1,3,10,Preview first — about 10+,Violence & injury — “Florrum? A buddy of mine was just murdered on Florrum.”
+2,22,0222,Lethal Trackdown,3,1,1,3,10,Preview first — about 10+,Violence & injury — “Florrum? A buddy of mine was just murdered on Florrum.”
+3,1,0301,Clone Cadets,3,1,1,3,10,Preview first — about 10+,"Violence & injury — “Those guns up there We can use them as a step to The next level, form a chain, And use each other To scale this face.”"
+3,2,0302,ARC Troopers,3,1,1,3,10,Preview first — about 10+,"Violence & injury — “Those guns up there We can use them as a step to The next level, form a chain, And use each other To scale this face.”"
+3,3,0303,Supply Lines,1,1,1,1,9,Usually fine — about 9+,
+3,4,0304,Sphere of Influence,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “What's this? Blood.”
+3,5,0305,Corruption,1,1,1,1,9,Usually fine — about 9+,Affairs / cheating — “This must be a closed-loop affair.”
+3,6,0306,The Academy,1,1,1,1,9,Usually fine — about 9+,Violence & injury — “A peaceful planet of Mandalore is being strangled by the grip of corruption.”
+3,7,0307,Assassin,1,1,1,1,9,Usually fine — about 9+,
+3,8,0308,Evil Plans,1,1,1,1,9,Usually fine — about 9+,"Violence & injury — “That's the wrong droid! Murderer! Murderer! Swindled? Me? Might I remind you, sir, I was once protocol droid to the chief negotiator for the entire manakron system.”"
+3,9,0309,Hunt for Ziro,1,1,1,1,9,Usually fine — about 9+,Violence & injury — “Chad something out for blood.”
+3,10,0310,Heroes on Both Sides,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “What exactly are you proposing? Perhaps some unexpected bloodshed on Coruscant, Uh, may change a few minds.”"
+3,11,0311,Pursuit of Peace,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “The Republic spies are reporting that senator Bonteri was murdered by Dooku's thugs.”
+3,12,0312,Nightsisters,1,1,1,1,9,Usually fine — about 9+,Violence & injury — “Turn your guns on our command ship and open fire.”
+3,13,0313,Monster,1,1,1,1,9,Usually fine — about 9+,
+3,14,0314,Witches of the Mist,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “A man from your village murdered two Jedi.”
+3,15,0315,Overlords,1,1,1,1,9,Usually fine — about 9+,
+3,16,0316,Altar of Mortis,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “The same reason he had for attempting to murder your father? He would never do such a thing.”
+3,17,0317,Ghosts of Mortis,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “You murdered your sister.”
+3,18,0318,The Citadel,1,1,1,1,9,Usually fine — about 9+,
+3,19,0319,Counter Attack,1,1,1,1,9,Usually fine — about 9+,Violence & injury — “We've beat them once.”
+3,20,0320,Citadel Rescue,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “Once you punch a hole through their defenses, I will lead the gunships down to the surface and extract the team.”"
+3,21,0321,Padawan Lost,1,1,1,1,9,Usually fine — about 9+,
+3,22,0322,Wookiee Hunt,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “You murdered my son! And you need to pay for what you did! Your son died because of your own actions.”
+4,1,0401,Water War,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “Adding to this strife, the king of the Mon Calamari has been found mysteriously murdered, leaving his young son Prince Lee-Char to guide his people alone.”"
+4,2,0402,Gungan Attack,1,1,1,1,9,Usually fine — about 9+,
+4,3,0403,Prisoners,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “They assassinated your father! No, Captain, Riff Tamson murdered my father.”"
+4,4,0404,Shadow Warrior,1,1,1,1,9,Usually fine — about 9+,Racism & slurs — “But we all don't look alike! This a sad day for all Gungans.”
+4,5,0405,Mercy Mission,1,1,1,1,9,Usually fine — about 9+,
+4,6,0406,Nomad Droids,1,1,1,1,9,Usually fine — about 9+,
+4,7,0407,Darkness on Umbara,1,1,1,1,9,Usually fine — about 9+,
+4,8,0408,The General,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “At least three tank divisions, plus guns.”"
+4,9,0409,Plan of Dissent,1,1,1,1,9,Usually fine — about 9+,
+4,10,0410,Carnage of Krell,1,1,1,1,9,Usually fine — about 9+,
+4,11,0411,Kidnapped,1,1,1,1,9,Usually fine — about 9+,
+4,12,0412,Slaves of the Republic,1,1,1,1,9,Usually fine — about 9+,Suicide & self-harm — “Why would a slaver try to rescue a slave from the palace? It's suicide.”
+4,13,0413,Escape from Kadavo,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “The Queen! She was murdered by the Jedi.”
+4,14,0414,A Friend in Need,3,1,1,3,10,Preview first — about 10+,Violence & injury — “It has come to my attention that my mother was murdered by Count Dooku in cold blood.”
+4,15,0415,Deception,3,1,1,3,10,Preview first — about 10+,"Violence & injury — “So, how was my funeral? A better performance than you, your corpse gave.”"
+4,16,0416,Friends and Enemies,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “How can they expect me to just sit here and do nothing with Obi-Wan's murderer on the loose? It is possible that they do not trust you to control your feelings.”
+4,17,0417,The Box,1,1,1,1,9,Usually fine — about 9+,Violence & injury — “But only with a sniper rifle.”
+4,18,0418,Crisis on Naboo,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “I have a sniper rifle.”
+4,19,0419,Massacre,1,1,1,1,9,Usually fine — about 9+,
+4,20,0420,Bounty,1,1,1,1,9,Usually fine — about 9+,
+4,21,0421,Brothers,1,1,1,1,9,Usually fine — about 9+,"Violence & injury — “No! You You don't know! You don't know anything! Never, never! I know I am your blood! Never! Never, never! I'm ready for my leftovers.”"
+4,22,0422,Revenge,1,1,1,1,9,Usually fine — about 9+,"Violence & injury — “There will be more innocent blood on your hands, Kenobi, unless you come here, face me.”"
+5,1,0501,Revival,2,1,1,2,9,Mild — okay from about 9+,Sex & hookups — “Who are these horny-headed maniacs? They don't seem like normal Jedi.”
+5,2,0502,A War on Two Fronts,1,1,1,1,9,Usually fine — about 9+,
+5,3,0503,Front Runners,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “Fire the gun.”
+5,4,0504,The Soft War,2,1,1,2,9,Mild — okay from about 9+,"Affairs / cheating — “Are you one of the meddlers creating disorder, interfering in the affairs of the throne? Only to restore your kingship as the rightful ruler.”"
+5,5,0505,Tipping Points,1,1,1,1,9,Usually fine — about 9+,Affairs / cheating — “The Council will not engage or involve the Republic in an internal affair.”
+5,6,0506,The Gathering,1,1,1,1,9,Usually fine — about 9+,
+5,7,0507,A Test of Strength,1,1,1,1,9,Usually fine — about 9+,
+5,8,0508,Bound for Rescue,1,1,1,1,9,Usually fine — about 9+,"Affairs / cheating — “Don't ask me why, but Dooku holds such a grudge against me since our little ""I held him hostage"" affair.”"
+5,9,0509,A Necessary Bond,1,1,1,1,9,Usually fine — about 9+,
+5,10,0510,Secret Weapons,1,1,1,1,9,Usually fine — about 9+,
+5,11,0511,A Sunny Day in the Void,1,1,1,1,9,Usually fine — about 9+,
+5,12,0512,Missing in Action,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “You want your freedom, Gregor? Take your gun from me.”"
+5,13,0513,Point of No Return,1,1,1,1,9,Usually fine — about 9+,
+5,14,0514,Eminence,1,1,1,1,9,Usually fine — about 9+,
+5,15,0515,Shades of Reason,3,1,1,3,10,Preview first — about 10+,Violence & injury — “He's a murderer.”
+5,16,0516,The Lawless,1,1,1,1,9,Usually fine — about 9+,"Affairs / cheating — “Without involvement from the Separatists, this is an internal affair for the Mandalorians.”"
+5,17,0517,Sabotage,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “Jackar is dead, and now you're trying to blame his murder on me.”"
+5,18,0518,The Jedi Who Knew Too Much,1,1,1,1,9,Usually fine — about 9+,
+5,19,0519,To Catch a Jedi,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “Ahsoka Tano on the run! After an attack on the Jedi Temple, Anakin Skywalker's young Padawan found herself accused of murdering the person responsible for the bombings.”"
+5,20,0520,The Wrong Jedi,3,1,1,3,10,Preview first — about 10+,"Violence & injury — “Ahsoka Tano captured! While on the run to prove her innocence, Padawan Tano teamed up with the deadly Asajj Ventress to find the rogue Jedi who framed Ahsoka for murder.”"
+6,1,0601,The Unknown,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “You murdered General Tiplar.”
+6,2,0602,Conspiracy,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — “There does not seem to be any sign of infection in the blood.”
+6,3,0603,Fugitive,1,1,1,1,9,Usually fine — about 9+,
+6,4,0604,Orders,1,1,1,1,9,Usually fine — about 9+,
+6,5,0605,An Old Friend,1,1,1,1,9,Usually fine — about 9+,Affairs / cheating — “I'm afraid I'm going to have to report on your sad state of affairs to the Chancellor.”
+6,6,0606,The Rise of Clovis,1,1,1,1,9,Usually fine — about 9+,
+6,7,0607,Crisis at the Heart,1,1,1,1,9,Usually fine — about 9+,
+6,8,0608,The Disappeared: Pt. 1,1,1,1,1,9,Usually fine — about 9+,
+6,9,0609,The Disappeared: Pt. 2,1,1,1,1,9,Usually fine — about 9+,
+6,10,0610,The Lost One,1,1,1,1,9,Usually fine — about 9+,"Sex & hookups — “They use a very ancient dialect, which is hard to understand, but from what I can make out, when Master Sifo-Dyas died, he was not alone.”"
+6,11,0611,Voices,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “The Jedi have learned that before the start of the war Count Dooku murdered Sifo-Dyas and skillfully manipulated the Republic into the galactic conflict, intending for the Jedi to fight with the clones at their side.”"
+6,12,0612,Destiny,1,1,1,1,9,Usually fine — about 9+,
+6,13,0613,Sacrifice,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — “For in fighting the battles, the bloodshed already lost we have.”"
+7,1,0701,The Bad Batch,1,1,1,1,9,Usually fine — about 9+,
+7,2,0702,A Distant Echo,1,1,1,1,9,Usually fine — about 9+,
+7,3,0703,On the Wings of Keeradaks,1,1,1,1,9,Usually fine — about 9+,
+7,4,0704,Unfinished Business,1,1,1,1,9,Usually fine — about 9+,
+7,5,0705,Gone With a Trace,1,1,1,1,9,Usually fine — about 9+,Violence & injury — Good. I can only take so many punches to my head and still be considered a pilot.
+7,6,0706,Deal No Deal,1,1,1,1,9,Usually fine — about 9+,
+7,7,0707,Dangerous Debt,1,1,1,1,9,Usually fine — about 9+,
+7,8,0708,Together Again,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — And the gun.
+7,9,0709,Old Friends Not Forgotten,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — There's no time! Maul's influence on Mandalore is destroying my people! He murdered their ruler, my sister! I thought she meant something to you! She did. And still does."
+7,10,0710,The Phantom Apprentice,1,1,1,1,9,Usually fine — about 9+,
+7,11,0711,Shattered,1,1,1,1,9,Usually fine — about 9+,
+7,12,0712,Victory and Death,1,1,1,1,9,Usually fine — about 9+,

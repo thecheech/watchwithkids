@@ -12,6 +12,7 @@ index at the project root for compatibility with the web app).
 | [Bluey](transcripts/bluey/) | 3 | 152 | 407,115 | blueypedia.fandom.com |
 | [Bob's Burgers](transcripts/bobs-burgers/) | 16 | 312 | 1,268,805 | springfieldspringfield.co.uk |
 | [Brooklyn Nine-Nine](transcripts/brooklyn-nine-nine/) | 7 | 135 | 534,115 | springfieldspringfield.co.uk |
+| [clone-wars](transcripts/clone-wars/) | 7 | 129 | 221,964 | ? |
 | [Family Guy](transcripts/family-guy/) | 24 | 456 | 1,429,993 | springfieldspringfield.co.uk |
 | [Friends](episodes.json) | 10 | 228 | 879,510 | edersoncorbari.github.io/friends |
 | [Full House](transcripts/full-house/) | 5 | 120 | 320,151 | springfieldspringfield.co.uk |
@@ -25,11 +26,13 @@ index at the project root for compatibility with the web app).
 | [owl-house](transcripts/owl-house/) | — | 43 | 255,045 | ? |
 | [Parks and Recreation](transcripts/parks-and-recreation/) | 7 | 122 | 425,996 | springfieldspringfield.co.uk |
 | [Phineas and Ferb](transcripts/phineas-and-ferb/) | 5 | 249 | 979,220 | phineasandferb.fandom.com |
+| [pokemon](transcripts/pokemon/) | — | 115 | 168,932 | ? |
 | [Rick and Morty](transcripts/rick-and-morty/) | 9 | 82 | 273,333 | springfieldspringfield.co.uk |
 | [Seinfeld](transcripts/seinfeld/) | 9 | 176 | 754,339 | seinfeldscripts.com |
 | [South Park](transcripts/south-park/) | 28 | 335 | 1,075,300 | springfieldspringfield.co.uk |
 | [SpongeBob SquarePants](transcripts/spongebob/) | 17 | 611 | 1,401,669 | spongebob.fandom.com |
 | [Steven Universe](transcripts/steven-universe/) | 5 | 149 | 456,835 | steven-universe.fandom.com |
+| [stranger-things](transcripts/stranger-things/) | 4 | 34 | 166,248 | ? |
 | [The Big Bang Theory](transcripts/big-bang-theory/) | 12 | 279 | 795,605 | bigbangtrans.wordpress.com + springfieldspringfield (S11-12) |
 | [The Fresh Prince of Bel-Air](transcripts/fresh-prince/) | 6 | 148 | 378,300 | springfieldspringfield.co.uk |
 | [The Office (US)](transcripts/the-office/) | 9 | 186 | 677,992 | brianbuie/the-office (GitHub) |
@@ -37,7 +40,7 @@ index at the project root for compatibility with the web app).
 | [wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | ? |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 30 shows, 5,821 transcripts, 19,518,046 words.**
+**Total: 33 shows, 6,099 transcripts, 20,075,190 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

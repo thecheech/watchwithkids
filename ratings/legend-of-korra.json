@@ -1,0 +1,3625 @@
+{
+  "show": "The Legend of Korra",
+  "show_id": "legend-of-korra",
+  "shelf": "kids",
+  "age": 10,
+  "age_floor": 9,
+  "audience_note": "Darker follow-up to ATLA — politics, romance and fight intensity vary by episode.",
+  "scale": {
+    "min": 1,
+    "max": 5,
+    "meaning": {
+      "violence": "Physical harm, fights, scary injury, weapons (slapstick counts lightly).",
+      "sex": "Sex talk, innuendo, affairs, nudity jokes, strippers, pregnancy/sex plots.",
+      "language": "Swears, crude insults, sexual slang (damn/hell mild; stronger words higher)."
+    },
+    "labels": {
+      "1": "None / fine",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Strong",
+      "5": "Heavy"
+    }
+  },
+  "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
+  "count": 52,
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "code": "0101",
+      "title": "Welcome to Republic City",
+      "index_title": "Welcome to Republic City",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AWelcome_to_Republic_City",
+      "file": "transcripts/legend-of-korra/welcome-to-republic-city.txt",
+      "summary": "The series premiere of this cartoon about a bold and rebellious teenage girl who undergoes training to become a fully realized Avatar, Korra arrives in Republic City and discovers it's a dangerous place for benders.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Roku firebends three fire punches to the right side, and turns around and bends an arc of fire.] Air.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Roku firebends three fire punches to the right side, and turns around and bends an arc of fire.] Air.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She jumps forward, and punches to the left, leaving a trail of fire.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Roku firebends three fire punches to the right side, and turns around and bends an arc of fire.] Air."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "code": "0102",
+      "title": "A Leaf in the Wind",
+      "index_title": "A Leaf in the Wind",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AA_Leaf_in_the_Wind",
+      "file": "transcripts/legend-of-korra/a-leaf-in-the-wind.txt",
+      "summary": "Korra is thrilled to discover the city's Pro-bending Arena, where she meets two brothers who compete there.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Among the equipment are punching bags, dumbbell weights, nets, pommel horses, and earth disks.",
+            "count": 6,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Among the equipment are punching bags, dumbbell weights, nets, pommel horses, and earth disks.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Switch to Mako as he punches two fire blasts.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Mako destroys the disc with a fire punch and Hasook shoot his water bullet.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…on the edge of the ring, surviving the three on one barrage! It seems his plan is to let the Tigerdillos punch themselves out!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…[Frontal shot of Korra and Bolin with Mako in the background as Bolin takes on a fighting stance, punching to air.] Stay light on your toes, right up until the moment when you need to dig in and strike.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Camera moves back as he punches it away.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Among the equipment are punching bags, dumbbell weights, nets, pommel horses, and earth disks."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "code": "0103",
+      "title": "The Revelation",
+      "index_title": "The Revelation",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Revelation_%28episode%29",
+      "file": "transcripts/legend-of-korra/the-revelation-episode.txt",
+      "summary": "Korra tries to gain access to the Equalist movement and its secretive leader.",
+      "violence": 2,
+      "sex": 4,
+      "language": 1,
+      "overall": 4,
+      "age": 13,
+      "verdict": "Skip for under 13",
+      "why": "Driven by sex & hookups (explicit, implied), with nudity & bodies alongside it.",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Nudity & bodies",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "The protester squeals as Korra grabs the hem of his shirt and pulls him up. Cut to a side shot of the threesome.",
+            "count": 2,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The protester squeals as Korra grabs the hem of his shirt and pulls him up. Cut to a side shot of the threesome.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Frontal shot of the threesome; screaming.] The Avatar's oppressing us. Help!",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Nudity & bodies",
+            "group": "sex",
+            "how": "Explicit body / sex-act language appears in dialogue.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Explicit body / sex-act language appears in dialogue.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Close side shot as Korra looks back at Mako.] The Triple Threat Triad? I beat up some of those yahoos when I got into town. Why would Bolin get tangled up wit",
+            "count": 4,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Close side shot as Korra looks back at Mako.] The Triple Threat Triad? I beat up some of those yahoos when I got into town. Why would Bolin get tangled up wit",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The Avatar throws another fire punch with her left hand, but the chi-blocker leans back to dodge it, knocking Korra's hand to the side.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Cut to a back shot of Mako as he aims a wide fire-fueled swing at his opponent, who easily ducks under it, twirls behind Mako's back, and quickly delivers several punches to his unguarded left side.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Frontal shot of Korra as she curiously eyes her hands, and raises her arms, punching out in an attempt to bend.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — The protester squeals as Korra grabs the hem of his shirt and pulls him up. Cut to a side shot of the threesome.",
+        "Nudity & bodies — Explicit body / sex-act language appears in dialogue.",
+        "Violence & injury — [Close side shot as Korra looks back at Mako.] The Triple Threat Triad? I beat up some of those yahoos when I got into town. Why would Bolin get tangled up wit"
+      ],
+      "notes": null,
+      "flags": [
+        "explicit_body"
+      ],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "code": "0104",
+      "title": "The Voice in the Night",
+      "index_title": "The Voice in the Night",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Voice_in_the_Night",
+      "file": "transcripts/legend-of-korra/the-voice-in-the-night.txt",
+      "summary": "A task force recruits Korra to help them with their violent plan to remove Equalists.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Who's this Tarrlok guy? Is he bothering you? Huh, 'cause I could have a word with him. [Punches fist into his other hand.]",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Who's this Tarrlok guy? Is he bothering you? Huh, 'cause I could have a word with him. [Punches fist into his other hand.]",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…she uses her legs to kick some fire and earth around, but she is ultimately hit in the back by several punches from multiple chi-blockers.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Who's this Tarrlok guy? Is he bothering you? Huh, 'cause I could have a word with him. [Punches fist into his other hand.]"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "code": "0105",
+      "title": "The Spirit of Competition",
+      "index_title": "The Spirit of Competition",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Spirit_of_Competition",
+      "file": "transcripts/legend-of-korra/the-spirit-of-competition.txt",
+      "summary": "Romantic rivalries disrupt the harmony on Korra's team.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is racism & slurs (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Alcohol & drugs",
+          "Racism & slurs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "He immediately retaliates with two fire punches.",
+            "count": 3,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "He immediately retaliates with two fire punches.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…the sky, where they get married and eat clouds with spoons and use stars as ice cubes in their moonlight punch.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "And the Avatar is slapped with the yellow fan.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "Korra and Bolin are drinking cocktails with straws.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Korra and Bolin are drinking cocktails with straws.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Racism & slurs",
+            "group": "bias",
+            "how": "Work with me here, Pabu! You wanna look spic and span in your new uniform, don't you? [To Mako.] So, what do you think of Korra, in a \"girlfriend\" sort of way?",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Work with me here, Pabu! You wanna look spic and span in your new uniform, don't you? [To Mako.] So, what do you think of Korra, in a \"girlfriend\" sort of way?",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — He immediately retaliates with two fire punches.",
+        "Alcohol & drugs — Korra and Bolin are drinking cocktails with straws.",
+        "Racism & slurs — Work with me here, Pabu! You wanna look spic and span in your new uniform, don't you? [To Mako.] So, what do you think of Korra, in a \"girlfriend\" sort of way?"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "code": "0106",
+      "title": "And the Winner is...",
+      "index_title": "And the Winner is...",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AAnd_the_Winner_Is...",
+      "file": "transcripts/legend-of-korra/and-the-winner-is.txt",
+      "summary": "Korra prepares for the pro-bending championship while a sense of danger hovers over the arena.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "The Ferret brothers are backed up to zone three and the Wolfbats smell blood.",
+            "count": 3,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The Ferret brothers are backed up to zone three and the Wolfbats smell blood.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The camera quickly pans to the left to show Mako throwing two fire punches and a flaming arc with his foot at the camera.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Punches his fist into the air.] Yeah!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — The Ferret brothers are backed up to zone three and the Wolfbats smell blood."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "code": "0107",
+      "title": "The Aftermath",
+      "index_title": "The Aftermath",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Aftermath",
+      "file": "transcripts/legend-of-korra/the-aftermath.txt",
+      "summary": "Korra worries that a friend is secretly aligned with the Equalists.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "She breaks the glass by stabbing the front, missing the Equalist inside who dodges.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She breaks the glass by stabbing the front, missing the Equalist inside who dodges.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — She breaks the glass by stabbing the front, missing the Equalist inside who dodges."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "code": "0108",
+      "title": "When Extremes Meet",
+      "index_title": "When Extremes Meet",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AWhen_Extremes_Meet",
+      "file": "transcripts/legend-of-korra/when-extremes-meet.txt",
+      "summary": "Korra quarrels with Councilman Tarrlok in the midst of growing Equalist activity.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "She runs toward him intending to vaporize him, but she is halted by Tarrlok as he begins to perform bloodbending.",
+            "count": 7,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She runs toward him intending to vaporize him, but she is halted by Tarrlok as he begins to perform bloodbending.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Looks at her arms before looking at Tarrlok with shock, as he continues.] You're, you're a bloodbender?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Continues to struggle.] It's not a full moon! [He continues to bloodbend.] How- how are you doing this?!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Tarrlok bloodbends her and flings her across the room into a pillar.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "All right, [Punches palm.] Let's ride.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She attempts to punch the ice darts away, but one catches her on her side, and she lifts her hands up to protect her head.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She earthbends, causing Tarrlok to fall to the ground. She jumps off and punches the ground, causing a gigantic hole around her. She looks up at him with anger, breathing heavily.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — She runs toward him intending to vaporize him, but she is halted by Tarrlok as he begins to perform bloodbending."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "code": "0109",
+      "title": "Out of the Past",
+      "index_title": "Out of the Past",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AOut_of_the_Past",
+      "file": "transcripts/legend-of-korra/out-of-the-past.txt",
+      "summary": "Korra tries to analyze the mysterious visions she's been having. Meanwhile, Tenzin and Beifong look for Equalist hostages.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "But the heated argument quickly turned into an all-out bending battle! Desperate to save himself, Tarrlok revealed his ability to bloodbend and took Korra far from Republic City.",
+            "count": 9,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "But the heated argument quickly turned into an all-out bending battle! Desperate to save himself, Tarrlok revealed his ability to bloodbend and took Korra far from Republic City.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "A door at the top of the stairs opens and Tarrlok steps in, using bloodbending to levitate Korra several inches off the ground in front of him.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Strained, while looking at Tarrlok.] What are you doing? [When Korra is entirely in the box, he releases his bloodbending grip on her, causing her to land, and slams the metal door shut; aggressively.] Tarrlok!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The prosecution's entire case is built upon the make-believe notion that my client is able to bloodbend at will, at any time on any day.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Looking down.] I was terrified to tell because ... [Looks up.] Because Tarrlok is a bloodbender! [Everyone looks at Tarrlok in shock.] He bloodbent Avatar Korra!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Everyone in the room cries out in pain as Tarrlok bloodbends them to their knees.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Looks around the chamber.] Ughh! Man! I had this awful dream that Korra was taken by this evil bloodbender. [Mako and Asami look at him.] So weird.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Aang is being bloodbent by Yakone, who is grinning in relish at his own power.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[With difficulty.] Yakone. [Yakone bloodbends his arms behind his back.] You won't get away with this!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "[In a slightly high-pitched voice and chuckling nervously.] W-What? No! That's, just gossip, where'd you hear that? [Pointing to Asami.] Crazy talk is coming out of your mouth right now. Heh ...",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[In a slightly high-pitched voice and chuckling nervously.] W-What? No! That's, just gossip, where'd you hear that? [Pointing to Asami.] Crazy talk is coming out of your mouth right now. Heh ...",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — But the heated argument quickly turned into an all-out bending battle! Desperate to save himself, Tarrlok revealed his ability to bloodbend and took Korra far from Republic City."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 10,
+      "code": "0110",
+      "title": "Turning the Tides",
+      "index_title": "Turning the Tides",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ATurning_the_Tides",
+      "file": "transcripts/legend-of-korra/turning-the-tides.txt",
+      "summary": "Republic City gets bombarded by the Equalists.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "It all makes sense now. That's how Tarrlok was able to bloodbend us without a full moon.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It all makes sense now. That's how Tarrlok was able to bloodbend us without a full moon.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Defensively.] What? No! She was taken by a crazy bloodbender! How did you expect me to act?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "They both search the room with their flashlights. Tenzin notices smoke coming out of a vent.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "They both search the room with their flashlights. Tenzin notices smoke coming out of a vent.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — It all makes sense now. That's how Tarrlok was able to bloodbend us without a full moon."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "code": "0111",
+      "title": "Skeletons in the Closet",
+      "index_title": "Skeletons in the Closet",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ASkeletons_in_the_Closet",
+      "file": "transcripts/legend-of-korra/skeletons-in-the-closet.txt",
+      "summary": "Korra goes undercover and learns a secret while her teammates go after the enemies' stronghold.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Cut to inside Tarrlok's cell looking outward at Mako and Korra.] He's a waterbender and a bloodbender, [Frontal shot of Tarrlok as he lifts his head up.] just like I was.",
+            "count": 12,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Cut to inside Tarrlok's cell looking outward at Mako and Korra.] He's a waterbender and a bloodbender, [Frontal shot of Tarrlok as he lifts his head up.] just like I was.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Cut to a campfire around which Yakone and his sons sit.] He told us his true identity was Yakone, Republic City's most notorious crime boss, and that he was once a bloodbender of rare skill.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Inside the flashback.] What's bloodbending?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Our family has the strongest line of bloodbenders in history.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You two will become bloodbenders of the highest order.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Cut to Yakone and his sons hiding from a herd of yaks.] Every full moon, our father took us on another supposed \"hunting trip,\" where he secretly trained us in bloodbending.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Noatak bloodbends the creature, making it stand up, and forces its head back. The yak groans in pain.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Voice-over.] A few years later, my father taught us to bloodbend anytime, without the need of the full moon.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Lightning and thunder strike in the distance.] Our father pushed us to extremes, and one day, he made us bloodbend each other.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Bloodbends Yakone onto his knees.] You always say bloodbending is the most powerful thing in the world, but it isn't.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "How in the world do we beat him?",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Pacing.] So much for our ambush. If we stay here, we're toast. But there's another way to beat him.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Cut to inside Tarrlok's cell looking outward at Mako and Korra.] He's a waterbender and a bloodbender, [Frontal shot of Tarrlok as he lifts his head up.] just like I was."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "code": "0112",
+      "title": "Endgame",
+      "index_title": "Endgame",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AEndgame",
+      "file": "transcripts/legend-of-korra/endgame.txt",
+      "summary": "Korra confronts the enigmatic ruler of the Equalists.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "He's a waterbender, a bloodbender, and brother to Tarrlok!",
+            "count": 8,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "He's a waterbender, a bloodbender, and brother to Tarrlok!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Amon has been lying to you. The spirits didn't give him the power to take people's bending away. He uses bloodbending to do it. [Points to Amon.] Amon is a waterbender! [Crowd gasps in surprise.]",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Korra breathes a sigh of relief, but suddenly writhes in pain as Amon bloodbends her out from under the table and into the air.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Tries to stop Amon from bloodbending Korra by sending continued attacks of firebending.] Let her go!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Amon dodges each attack and bloodbends Mako into submission by lifting him into the air.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Standing behind Amon.] Amon! Everything the Avatar said is true, isn't it? I just saw you bloodbend her.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Right after Mako throws a fire punch and fire kick, Tenzin runs in front of him fires two air blasts, which knocks an Equalist and the Lieutenant off the stage.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Korra instinctively throws a punch at Amon, and it suddenly become a blast of air that shoots down the corridor and slams into Amon and Mako, sending them flying.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — He's a waterbender, a bloodbender, and brother to Tarrlok!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 1,
+      "code": "0201",
+      "title": "Rebel Spirit",
+      "index_title": "Rebel Spirit",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ARebel_Spirit",
+      "file": "transcripts/legend-of-korra/rebel-spirit.txt",
+      "summary": "Korra attends the Southern Water Tribe Festival, where she tries to connect to the spirit world.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "…pose.] because when you back a Fire Ferret in the corner, well mister, [He throws a strong downward punch.] he comes out fighting!",
+            "count": 4,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "…pose.] because when you back a Fire Ferret in the corner, well mister, [He throws a strong downward punch.] he comes out fighting!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Laughs.] I have mastered airbending! [The camera quickly zooms out as she emphasizes her statement by directing several air blasts at the nearby trees, sending leaves floating.] Punch punch punch!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Ohh, I missed you, too. Your father doesn't bring you to visit nearly enough. He's probably scared I'll beat him up [Lightly punches Tenzin's arm playfully.] like when we were kids.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Bumi punches Tenzin's arm, before wrapping his arm around Tenzin's shoulders.] Come on! It'll be fun.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — …pose.] because when you back a Fire Ferret in the corner, well mister, [He throws a strong downward punch.] he comes out fighting!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "code": "0202",
+      "title": "The Southern Lights",
+      "index_title": "The Southern Lights",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Southern_Lights",
+      "file": "transcripts/legend-of-korra/the-southern-lights.txt",
+      "summary": "Korra she enters a violent maelstrom and discovers a source of spiritual power.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Cut to Korra as she readies her stance, and subsequently punches the frozen portal with airbending, but to no effect. Korra tries to firebend at the portal, but still with no results.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Cut to Korra as she readies her stance, and subsequently punches the frozen portal with airbending, but to no effect. Korra tries to firebend at the portal, but still with no results.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Cut to Korra as she readies her stance, and subsequently punches the frozen portal with airbending, but to no effect. Korra tries to firebend at the portal, but still with no results."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 3,
+      "code": "0203",
+      "title": "Civil Wars (1)",
+      "index_title": "Civil Wars (1)",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ACivil_Wars%2C_Part_1",
+      "file": "transcripts/legend-of-korra/civil-wars-part-1.txt",
+      "summary": "Part 1 of 2. Korra tries to be impartial as tension rises between the northern and southern tribes.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Holds Bolin's shoulder.] Ending a relationship is kind of like pulling off a blood-sucking leech. You just gotta rip it off and get it over with. You'll feel a lot better afterwards. Trust me.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Holds Bolin's shoulder.] Ending a relationship is kind of like pulling off a blood-sucking leech. You just gotta rip it off and get it over with. You'll feel a lot better afterwards. Trust me.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Korra punches a gap within her enclosure and pursues the rebels.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Holds Bolin's shoulder.] Ending a relationship is kind of like pulling off a blood-sucking leech. You just gotta rip it off and get it over with. You'll feel a lot better afterwards. Trust me."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 4,
+      "code": "0204",
+      "title": "Civil Wars (2)",
+      "index_title": "Civil Wars (2)",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ACivil_Wars%2C_Part_2",
+      "file": "transcripts/legend-of-korra/civil-wars-part-2.txt",
+      "summary": "Korra's folks are wrongfully incarcerated, so Korra fights to free them.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 5,
+      "code": "0205",
+      "title": "Peacekeepers",
+      "index_title": "Peacekeepers",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3APeacekeepers",
+      "file": "transcripts/legend-of-korra/peacekeepers.txt",
+      "summary": "Korra reaches a dead end when she turns to the president for help, so she strikes out on her own.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Explain why my boyfriend stabbed me in the back?",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Explain why my boyfriend stabbed me in the back?",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Explain why my boyfriend stabbed me in the back?"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 6,
+      "code": "0206",
+      "title": "The Sting",
+      "index_title": "The Sting",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Sting",
+      "file": "transcripts/legend-of-korra/the-sting.txt",
+      "summary": "Future Industries may close up shop because of the threat Triad poses, so Mako does some research and stumbles upon a huge conspiracy at work.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Evil Unalaq looks ahead, while Nuktuk punches him off balances.] When Unalaq starts trouble, he'll punch him in the mouth.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Evil Unalaq looks ahead, while Nuktuk punches him off balances.] When Unalaq starts trouble, he'll punch him in the mouth.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Evil Unalaq looks ahead, while Nuktuk punches him off balances.] When Unalaq starts trouble, he'll punch him in the mouth."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 7,
+      "code": "0207",
+      "title": "Beginnings (1)",
+      "index_title": "Beginnings (1)",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ABeginnings%2C_Part_1",
+      "file": "transcripts/legend-of-korra/beginnings-part-1.txt",
+      "summary": "The origins of the first Avatar are revealed to Korra.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Wan tests out his newly-received ability by punching in front of him. The blast he creates sends him tumbling backward. He comes to a stop among the other hunters while the head huntsman steps forward.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Wan tests out his newly-received ability by punching in front of him. The blast he creates sends him tumbling backward. He comes to a stop among the other hunters while the head huntsman steps forward.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It lifts its mouth while Wan tries to get out of there by punching through but to no avail.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Wan tests out his newly-received ability by punching in front of him. The blast he creates sends him tumbling backward. He comes to a stop among the other hunters while the head huntsman steps forward."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "code": "0208",
+      "title": "Beginnings (2)",
+      "index_title": "Beginnings (2)",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ABeginnings%2C_Part_2",
+      "file": "transcripts/legend-of-korra/beginnings-part-2.txt",
+      "summary": "Korra sets out to restore balance between the physical and spirit worlds.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 9,
+      "code": "0209",
+      "title": "The Guide",
+      "index_title": "The Guide",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Guide",
+      "file": "transcripts/legend-of-korra/the-guide.txt",
+      "summary": "Tenzin's assistance is sought by Korra as she prepares to enter the Spirit World for the first time.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Scores low: the strongest thing we found is sex & hookups (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "[Blankly.] Yeah. Should've known you'd hook up with your old pals. Once a Triple Threat, always a Triple Threat.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Blankly.] Yeah. Should've known you'd hook up with your old pals. Once a Triple Threat, always a Triple Threat.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — [Blankly.] Yeah. Should've known you'd hook up with your old pals. Once a Triple Threat, always a Triple Threat."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 10,
+      "code": "0210",
+      "title": "A New Spiritual Age",
+      "index_title": "A New Spiritual Age",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AA_New_Spiritual_Age",
+      "file": "transcripts/legend-of-korra/a-new-spiritual-age.txt",
+      "summary": "Korra arrives in the Spirit World, where she has difficulty forging connections with the spirits.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 11,
+      "code": "0211",
+      "title": "Night of a Thousand Stars",
+      "index_title": "Night of a Thousand Stars",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ANight_of_a_Thousand_Stars",
+      "file": "transcripts/legend-of-korra/night-of-a-thousand-stars.txt",
+      "summary": "Bolin proves to be a hero when President Raiko is attacked.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Cut back to the booth where Bolin punches the floor, crackling the ground with an earth wave which throws the three remaining waterbenders against the ceiling.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Cut back to the booth where Bolin punches the floor, crackling the ground with an earth wave which throws the three remaining waterbenders against the ceiling.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Cut back to the booth where Bolin punches the floor, crackling the ground with an earth wave which throws the three remaining waterbenders against the ceiling."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 12,
+      "code": "0212",
+      "title": "Harmonic Convergence",
+      "index_title": "Harmonic Convergence",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AHarmonic_Convergence_%28episode%29",
+      "file": "transcripts/legend-of-korra/harmonic-convergence-episode.txt",
+      "summary": "Korra tries to seal the spirit portals prior to Harmonic Convergence.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Oh Mako, you know a wise man once told me that delivering bad news to a girlfriend was like ripping off a blood-sucking leech: you just have to do it fast and get it over with.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Oh Mako, you know a wise man once told me that delivering bad news to a girlfriend was like ripping off a blood-sucking leech: you just have to do it fast and get it over with.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bumi begins punching the spirit.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Oh Mako, you know a wise man once told me that delivering bad news to a girlfriend was like ripping off a blood-sucking leech: you just have to do it fast and get it over with."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 13,
+      "code": "0213",
+      "title": "Darkness Falls",
+      "index_title": "Darkness Falls",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ADarkness_Falls",
+      "file": "transcripts/legend-of-korra/darkness-falls.txt",
+      "summary": "Unalaq's scheme has a twist uncovered by Korra. Meanwhile, Tenzin must deal with his demons if he wants to rescue his daughter.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 14,
+      "code": "0214",
+      "title": "Light in the Dark",
+      "index_title": "Light in the Dark",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ALight_in_the_Dark",
+      "file": "transcripts/legend-of-korra/light-in-the-dark.txt",
+      "summary": "Korra learns of a method she can employ to attempt to destroy the dark spirit.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Walking toward Bolin.] But, you will always hold the special place in the organ that pumps my blood. I will remember you fondly. [Places her right hand to her heart, while smiling.] My turtle duck.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Walking toward Bolin.] But, you will always hold the special place in the organ that pumps my blood. I will remember you fondly. [Places her right hand to her heart, while smiling.] My turtle duck.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Korra runs forward and punches Unavaatu before reaching into his chest. As she touches the ball of light, she pulls out Raava. She subsequently prepares to purify Vaatu.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Walking toward Bolin.] But, you will always hold the special place in the organ that pumps my blood. I will remember you fondly. [Places her right hand to her heart, while smiling.] My turtle duck."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 1,
+      "code": "0301",
+      "title": "A Breath of Fresh Air",
+      "index_title": "A Breath of Fresh Air",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AA_Breath_of_Fresh_Air",
+      "file": "transcripts/legend-of-korra/a-breath-of-fresh-air.txt",
+      "summary": "In the third-season opener, Korra uncovers a huge shift in the bending world, which is the result of Harmonic Convergence.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Okay, [Punches his fists.] Bum-Ju and I had a little fight.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Okay, [Punches his fists.] Bum-Ju and I had a little fight.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "I was alerted that you had a new plan to wipe out these noxious weed. So I thought you'd want everyone to be here to watch.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "I was alerted that you had a new plan to wipe out these noxious weed. So I thought you'd want everyone to be here to watch.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Okay, [Punches his fists.] Bum-Ju and I had a little fight.",
+        "Alcohol & drugs — I was alerted that you had a new plan to wipe out these noxious weed. So I thought you'd want everyone to be here to watch."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "code": "0302",
+      "title": "Rebirth",
+      "index_title": "Rebirth",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ARebirth",
+      "file": "transcripts/legend-of-korra/rebirth.txt",
+      "summary": "Air Nation is revived thanks to Korra and Team Avatar.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "As more sentries start coming out of the guard tower, Zaheer blasts two more overboard.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "As more sentries start coming out of the guard tower, Zaheer blasts two more overboard.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "code": "0303",
+      "title": "The Earth Queen",
+      "index_title": "The Earth Queen",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Earth_Queen",
+      "file": "transcripts/legend-of-korra/the-earth-queen.txt",
+      "summary": "The team look for Airbenders on a trip to Ba Sing Se.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Bowing.] Avatar Korra, Master Tenzin, it is a pleasure to welcome you and your party to the Upper Ring of Ba Sing Se. I'm Grand Secretariat Gun.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Bowing.] Avatar Korra, Master Tenzin, it is a pleasure to welcome you and your party to the Upper Ring of Ba Sing Se. I'm Grand Secretariat Gun.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bolin and Pabu walk off in a huff. Gun begins to exit the house, and Korra follows him.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Bowing.] Avatar Korra, Master Tenzin, it is a pleasure to welcome you and your party to the Upper Ring of Ba Sing Se. I'm Grand Secretariat Gun."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 4,
+      "code": "0304",
+      "title": "In Harm's Way",
+      "index_title": "In Harm's Way",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AIn_Harm%27s_Way",
+      "file": "transcripts/legend-of-korra/in-harm-s-way.txt",
+      "summary": "Korra wants to free Airbenders in Be Sing Se who are being forced to join the Earth Queen's army.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Good. You're here. Gun, tell them the news.",
+            "count": 4,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Good. You're here. Gun, tell them the news.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So, I assume you and your [Pabu wiggles in Bolin's shirt.] friends here will be leaving immediately. [Sneezes repeated with unease. To Gun, struggling to breathe.] Is there an animal in my presence?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Tonraq waterbends a punch and an ice block at Zaheer, who dodges both attacks.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Cut to Team Avatar's residence, where Korra punches a protective glove in anger. Far shot of Korra, which shows that she is attacking Asami in combat attire.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Good. You're here. Gun, tell them the news."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 5,
+      "code": "0305",
+      "title": "The Metal Clan",
+      "index_title": "The Metal Clan",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Metal_Clan",
+      "file": "transcripts/legend-of-korra/the-metal-clan.txt",
+      "summary": "Korra and her pals arrive in the metal city of Zaofu.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Affairs / cheating",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Affairs / cheating",
+            "group": "sex",
+            "how": "[Sarcastically.] Hey, everyone. My little sister is an expert on world affairs now.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Sarcastically.] Hey, everyone. My little sister is an expert on world affairs now.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Same mom, different dads, so what? [Puts her hand over her heart.] We're blood, Lin, and after thirty years, the least you could do is say \"hello\".",
+            "count": 2,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Same mom, different dads, so what? [Puts her hand over her heart.] We're blood, Lin, and after thirty years, the least you could do is say \"hello\".",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The metalbender regards the polar bear dog for a moment before bending out her cable and slapping it against the ball, thereby puncturing it and causing it to deflate as she leaves.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Affairs / cheating — [Sarcastically.] Hey, everyone. My little sister is an expert on world affairs now.",
+        "Violence & injury — Same mom, different dads, so what? [Puts her hand over her heart.] We're blood, Lin, and after thirty years, the least you could do is say \"hello\"."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 6,
+      "code": "0306",
+      "title": "Old Wounds",
+      "index_title": "Old Wounds",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AOld_Wounds",
+      "file": "transcripts/legend-of-korra/old-wounds.txt",
+      "summary": "Beifong confronts her past.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Suyin breaks free with her knife and sends the cables back at Lin, and the cables slice her cheek, causing Lin to scream in pain.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Suyin breaks free with her knife and sends the cables back at Lin, and the cables slice her cheek, causing Lin to scream in pain.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Suyin breaks free with her knife and sends the cables back at Lin, and the cables slice her cheek, causing Lin to scream in pain."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 7,
+      "code": "0307",
+      "title": "Original Airbenders",
+      "index_title": "Original Airbenders",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AOriginal_Airbenders",
+      "file": "transcripts/legend-of-korra/original-airbenders.txt",
+      "summary": "New members receive training from Tenzin, who must also deal with Bumi's poor attitude.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "The only way to deal with new recruits is to [Punches a hand forward.] break them down so you can [Brings both hands up.] build them back up.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The only way to deal with new recruits is to [Punches a hand forward.] break them down so you can [Brings both hands up.] build them back up.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — The only way to deal with new recruits is to [Punches a hand forward.] break them down so you can [Brings both hands up.] build them back up."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 8,
+      "code": "0308",
+      "title": "The Terror Within",
+      "index_title": "The Terror Within",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Terror_Within",
+      "file": "transcripts/legend-of-korra/the-terror-within.txt",
+      "summary": "Zaheer and his crew try to kidnap Korra.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 9,
+      "code": "0309",
+      "title": "The Stakeout",
+      "index_title": "The Stakeout",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Stakeout",
+      "file": "transcripts/legend-of-korra/the-stakeout.txt",
+      "summary": "Zaheer reveals the goals of the Red Lotus to Korra while his allies close in on her.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Alarmed. Furrows her brows.] What! You let Korra go?! I thought we were on the same page about this, and then you go and stab me in the back?",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Alarmed. Furrows her brows.] What! You let Korra go?! I thought we were on the same page about this, and then you go and stab me in the back?",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Alarmed. Furrows her brows.] What! You let Korra go?! I thought we were on the same page about this, and then you go and stab me in the back?"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 10,
+      "code": "0310",
+      "title": "Long Live the Queen",
+      "index_title": "Long Live the Queen",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ALong_Live_the_Queen",
+      "file": "transcripts/legend-of-korra/long-live-the-queen.txt",
+      "summary": "Korra and Asami escape and return to the oasis, so Zaheer takes his anger out on the Earth Queen as the Red Lotus destroy the city.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Slut-shaming"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Gun, escort them to the antechamber until the Avatar's arrival.",
+            "count": 4,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Gun, escort them to the antechamber until the Avatar's arrival.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Gun, noticing the battle, runs away in fear.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Close-up of Hou-Ting with bloodshot eyes.] To your people ...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Ghazan readies himself and punches the floor, melting it to lava.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Slut-shaming",
+            "group": "bias",
+            "how": "Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Gun, escort them to the antechamber until the Avatar's arrival.",
+        "Slut-shaming — Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 11,
+      "code": "0311",
+      "title": "The Ultimatum",
+      "index_title": "The Ultimatum",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Ultimatum",
+      "file": "transcripts/legend-of-korra/the-ultimatum.txt",
+      "summary": "Korra contacts Tenzin as the Red Lotus attack the temple, so Tenzin and his siblings try to fight off the invaders.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 12,
+      "code": "0312",
+      "title": "Enter the Void",
+      "index_title": "Enter the Void",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AEnter_the_Void",
+      "file": "transcripts/legend-of-korra/enter-the-void.txt",
+      "summary": "Zaheer removes the hostages from the temple as Korra prepares to sacrifice herself for the other airbenders.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "With his remaining water supply, Tonraq bends an ice spear on his forearm, and attempts to stab Zaheer, who dodges his attack and manages to ensnare Tonraq in a small tornado.",
+            "count": 2,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "With his remaining water supply, Tonraq bends an ice spear on his forearm, and attempts to stab Zaheer, who dodges his attack and manages to ensnare Tonraq in a small tornado.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Come on. [Punches the hairpin, freeing Tenzin before supporting him.] We have to get to the airship.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — With his remaining water supply, Tonraq bends an ice spear on his forearm, and attempts to stab Zaheer, who dodges his attack and manages to ensnare Tonraq in a small tornado."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 13,
+      "code": "0313",
+      "title": "Venom of the Red Lotus",
+      "index_title": "Venom of the Red Lotus",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AVenom_of_the_Red_Lotus",
+      "file": "transcripts/legend-of-korra/venom-of-the-red-lotus.txt",
+      "summary": "The Red Lotus poison Korra, who takes to the skies to battle Zaheer.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Ghazan punches the floor, causing rocks to fall down. He melts the walls around him and directs it downward.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Ghazan punches the floor, causing rocks to fall down. He melts the walls around him and directs it downward.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Don't worry. I'm not coming out without our children and the rest of your people.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Don't worry. I'm not coming out without our children and the rest of your people.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Ghazan punches the floor, causing rocks to fall down. He melts the walls around him and directs it downward."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 1,
+      "code": "0401",
+      "title": "After All These Years",
+      "index_title": "After All These Years",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AAfter_All_These_Years",
+      "file": "transcripts/legend-of-korra/after-all-these-years.txt",
+      "summary": "Kai and Opal try to assist a struggling community in Earth Kingdom three years after Team Avatar was poisoned by Zaheer.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "[Calmly and dryly.] That's not blood. It's strawberry pie.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Calmly and dryly.] That's not blood. It's strawberry pie.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — [Calmly and dryly.] That's not blood. It's strawberry pie."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "code": "0402",
+      "title": "Korra Alone",
+      "index_title": "Korra Alone",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AKorra_Alone",
+      "file": "transcripts/legend-of-korra/korra-alone.txt",
+      "summary": "Avatar Korra may have escaped Republic City, but she can't seem to escape her past.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Holding the bundle with her left hand, she takes up a knife laying on her right and puts it up against her hair.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Holding the bundle with her left hand, she takes up a knife laying on her right and puts it up against her hair.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Holding the bundle with her left hand, she takes up a knife laying on her right and puts it up against her hair."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "code": "0403",
+      "title": "The Coronation",
+      "index_title": "The Coronation",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Coronation",
+      "file": "transcripts/legend-of-korra/the-coronation.txt",
+      "summary": "There's only one thing Prince Wu is looking forward to more than ruling the Earth Kingdom, his PARTY!",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Affairs / cheating",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Affairs / cheating",
+            "group": "sex",
+            "how": "So now you're taking an interest in world affairs.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "So now you're taking an interest in world affairs.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Where have you been? My coronation is in ten minutes! [Gun and two other walk up to Wu.] Where's everyone else? Where are the Seven Sacred Chests of Exquisite Finery? Where are my grandfather's taffeta pantaloons?",
+            "count": 5,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Where have you been? My coronation is in ten minutes! [Gun and two other walk up to Wu.] Where's everyone else? Where are the Seven Sacred Chests of Exquisite Finery? Where are my grandfather's taffeta pantaloons?",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Cut to Wu's coronation in Republic City. Gun pins the earring on Wu.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bolin! [Bolin turns around, and they trade some mock-punches before hugging each other.] Look at you! My little brother got all ... important.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[As the leech pops off.] Gah! Hey! It seems like you're enjoying having someone around to beat up an awful lot.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Yeah, the swampbenders out here really can't take a punch.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Affairs / cheating — So now you're taking an interest in world affairs.",
+        "Violence & injury — Where have you been? My coronation is in ten minutes! [Gun and two other walk up to Wu.] Where's everyone else? Where are the Seven Sacred Chests of Exquisite Finery? Where are my grandfather's taffeta pantaloons?"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "code": "0404",
+      "title": "The Calling",
+      "index_title": "The Calling",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Calling",
+      "file": "transcripts/legend-of-korra/the-calling.txt",
+      "summary": "Pema and Tenzin's kids leave their home to find Korra.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 9,
+      "verdict": "Usually fine — about 9+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 5,
+      "code": "0405",
+      "title": "Enemy at the Gates",
+      "index_title": "Enemy at the Gates",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AEnemy_at_the_Gates",
+      "file": "transcripts/legend-of-korra/enemy-at-the-gates.txt",
+      "summary": "Kuvira travels to the city of Zaofu to negotiate with Suyin Beifong. Zaofu is the last city in the Earth Kingdom not under Kuvira's rule.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "She turns just in time to catch a punch from a tank in the head, hard enough to make her fly backward a good distance.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She turns just in time to catch a punch from a tank in the head, hard enough to make her fly backward a good distance.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "She punches him back and launches cables into the ground around him, reeling herself in to kick her opponent hard.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — She turns just in time to catch a punch from a tank in the head, hard enough to make her fly backward a good distance."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 6,
+      "code": "0406",
+      "title": "The Battle of Zaofu",
+      "index_title": "The Battle of Zaofu",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Battle_of_Zaofu",
+      "file": "transcripts/legend-of-korra/the-battle-of-zaofu.txt",
+      "summary": "Korra and Kuvira face off in an epic showdown.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Dodging another fiery punch, she very rapidly bends a slab of earth between her and Korra, breaking the Avatar's attack and pushing her arm up, leaving her side unprotected.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Dodging another fiery punch, she very rapidly bends a slab of earth between her and Korra, breaking the Avatar's attack and pushing her arm up, leaving her side unprotected.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Dodging another fiery punch, she very rapidly bends a slab of earth between her and Korra, breaking the Avatar's attack and pushing her arm up, leaving her side unprotected."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 7,
+      "code": "0407",
+      "title": "Reunion",
+      "index_title": "Reunion",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AReunion",
+      "file": "transcripts/legend-of-korra/reunion.txt",
+      "summary": "Korra returns to Republic City, but Kuvira'a actions spoil her homecoming.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "You know who else has incisors sharp as a knife? Zhu Li ...",
+            "count": 5,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You know who else has incisors sharp as a knife? Zhu Li ...",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Korra jumps in the car and Asami guns it. The van makes a sharp turn and the attendant bends up a wall to block them. Asami manages to steer clear of the wall just in the nick of time.",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Baraz is fighting a mecha tank as well, dodging its punches.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Asami quickly defends herself by kicking an attacker's punch out of the way and shocking him with her glove, flinging him back.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Next to a long dock is a beat up looking red and white, wooden boat with several escaped reeducation campers aboard.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — You know who else has incisors sharp as a knife? Zhu Li ..."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 8,
+      "code": "0408",
+      "title": "Remembrances",
+      "index_title": "Remembrances",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ARemembrances",
+      "file": "transcripts/legend-of-korra/remembrances.txt",
+      "summary": "Korra goes to Zaheer in order to face her inner fears and find balance within herself.",
+      "violence": 3,
+      "sex": 1,
+      "language": 1,
+      "overall": 3,
+      "age": 10,
+      "verdict": "Preview first — about 10+",
+      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "[Cut to the bored refugees in a circle laying down and sleeping with Bolin with his head on his hands and Varrick lying casually.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Cut to the bored refugees in a circle laying down and sleeping with Bolin with his head on his hands and Varrick lying casually.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Amon! The reanimated [Cut to a close-up of Amon.] zombie body [Cut to Amon bloodbending Korra and Mako.] of the bloodbending leader of the Equalists!",
+            "count": 3,
+            "intensity": 2,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Amon! The reanimated [Cut to a close-up of Amon.] zombie body [Cut to Amon bloodbending Korra and Mako.] of the bloodbending leader of the Equalists!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Wu raises his hands in a defensive manner as Mako moves in closer; he throws a punch, which hits the prince in the chest. He falls to the ground immediately.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Mako's first punch knocks Wu to the ground again.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — [Cut to the bored refugees in a circle laying down and sleeping with Bolin with his head on his hands and Varrick lying casually.",
+        "Violence & injury — Amon! The reanimated [Cut to a close-up of Amon.] zombie body [Cut to Amon bloodbending Korra and Mako.] of the bloodbending leader of the Equalists!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 9,
+      "code": "0409",
+      "title": "Beyond the Wilds",
+      "index_title": "Beyond the Wilds",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ABeyond_the_Wilds",
+      "file": "transcripts/legend-of-korra/beyond-the-wilds.txt",
+      "summary": "Jinora gets trapped in the Spirit World and Korra mounts a rescue mission, but she's halted by Zaheer's apparition.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Mako is on her trail, though stops to release some fire punches at the incoming vines.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Mako is on her trail, though stops to release some fire punches at the incoming vines.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Mako is on her trail, though stops to release some fire punches at the incoming vines."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 10,
+      "code": "0410",
+      "title": "Operation Beifong",
+      "index_title": "Operation Beifong",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AOperation_Beifong",
+      "file": "transcripts/legend-of-korra/operation-beifong.txt",
+      "summary": "Bolin assists Opal and Lin in rescuing the Beifongs. Meanwhile, Korra searches for help in the Spirit World.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is suicide & self-harm (explicit, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Suicide & self-harm"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "The beam punches a smoldering hole into a rock face directly behind Bolin, Opal, Juicy, and Zhu Li.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The beam punches a smoldering hole into a rock face directly behind Bolin, Opal, Juicy, and Zhu Li.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          },
+          {
+            "theme": "Suicide & self-harm",
+            "group": "violence",
+            "how": "You can't go in there, kid. It's suicide. Kuvira's onto us.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "You can't go in there, kid. It's suicide. Kuvira's onto us.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "[Into a two-way radio.] We got 'em. We're coming out.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Into a two-way radio.] We got 'em. We're coming out.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — The beam punches a smoldering hole into a rock face directly behind Bolin, Opal, Juicy, and Zhu Li.",
+        "Suicide & self-harm — You can't go in there, kid. It's suicide. Kuvira's onto us."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 11,
+      "code": "0411",
+      "title": "Kuvira's Gambit",
+      "index_title": "Kuvira's Gambit",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AKuvira%27s_Gambit",
+      "file": "transcripts/legend-of-korra/kuvira-s-gambit.txt",
+      "summary": "Korra and the gang attempt to halt Kuvira's actions against Republic City. Meanwhile, Kuvira reveals a new lethal weapon in her arsenal.",
+      "violence": 1,
+      "sex": 4,
+      "language": 1,
+      "overall": 4,
+      "age": 13,
+      "verdict": "Skip for under 13",
+      "why": "Driven by sex & hookups (explicit, implied), with nudity & bodies alongside it.",
+      "themes": {
+        "fine": [
+          "Light comedy tone"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Nudity & bodies"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "[Side-shot as they walk up to the threesome.] The four of us have been talking and ... we wanna take out Kuvira's spirit weapon before it gets too close to the city.",
+            "count": 2,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Side-shot as they walk up to the threesome.] The four of us have been talking and ... we wanna take out Kuvira's spirit weapon before it gets too close to the city.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "[Frontal shot of the threesome.] That sounds like a risk we don't need to take. The evacuation is on schedule and General Iroh is getting his army in place.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Nudity & bodies",
+            "group": "sex",
+            "how": "Explicit body / sex-act language appears in dialogue.",
+            "count": 1,
+            "intensity": 3,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Explicit body / sex-act language appears in dialogue.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — [Side-shot as they walk up to the threesome.] The four of us have been talking and ... we wanna take out Kuvira's spirit weapon before it gets too close to the city.",
+        "Nudity & bodies — Explicit body / sex-act language appears in dialogue."
+      ],
+      "notes": null,
+      "flags": [
+        "explicit_body"
+      ],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 12,
+      "code": "0412",
+      "title": "Day of the Colossus",
+      "index_title": "Day of the Colossus",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3ADay_of_the_Colossus",
+      "file": "transcripts/legend-of-korra/day-of-the-colossus.txt",
+      "summary": "Team Avatar battle Kuvira in the heart of Republic City, and innocent bystanders are evacuated by Pema and Prince Wu.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "This is my hometown and I hate to say it, but there's no use risking all our lives to fight that giant thing! Let her take the city for now! We'll think of some way to come back and beat her!",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "This is my hometown and I hate to say it, but there's no use risking all our lives to fight that giant thing! Let her take the city for now! We'll think of some way to come back and beat her!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — This is my hometown and I hate to say it, but there's no use risking all our lives to fight that giant thing! Let her take the city for now! We'll think of some way to come back and beat her!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 13,
+      "code": "0413",
+      "title": "The Last Stand",
+      "index_title": "The Last Stand",
+      "url": "https://legendofkorra.fandom.com/wiki/Transcript%3AThe_Last_Stand",
+      "file": "transcripts/legend-of-korra/the-last-stand.txt",
+      "summary": "Korra faces off with Kuvira, and the fate of many hangs in the balance.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Staggering momentarily backward, Korra throws a blast of fire with a punch and dodges several metalbending attacks from Kuvira; they fly past her as Kuvira rotates into the frame.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Staggering momentarily backward, Korra throws a blast of fire with a punch and dodges several metalbending attacks from Kuvira; they fly past her as Kuvira rotates into the frame.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Staggering momentarily backward, Korra throws a blast of fire with a punch and dodges several metalbending attacks from Kuvira; they fly past her as Kuvira rotates into the frame."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    }
+  ]
+}

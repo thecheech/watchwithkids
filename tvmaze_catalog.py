@@ -33,6 +33,18 @@ TITLE_ALIASES: dict[str, dict[str, str]] = {
         "the tales of ba sing se": "tales of ba sing se",
         "the avatar and the firelord": "the avatar and the fire lord",
     },
+    "clone-wars": {
+        "condition unknown": "the unknown",
+    },
+    "pokemon": {
+        "haunter vs kadabra": "haunter versus kadabra",
+        "volcanic panic": "vocanic panic",
+        "it s mr mime time": "it s mr mimie time",
+    },
+    "big-bang-theory": {
+        "pilot episode": "pilot",
+        "the middle earth paradigm": "the middle earth paradigm",
+    },
 }
 
 # Drop these TVmaze rows even when they have season/episode numbers.
@@ -53,15 +65,26 @@ def norm_title(value: str | None) -> str:
     t = re.sub(r"^transcript:\s*", "", t, flags=re.I)
     t = re.sub(r"\([^)]*\)", " ", t)
     t = re.sub(r"^\d+\.\s*", "", t)
+    t = t.replace("&", " and ")
     t = re.sub(r"[^a-z0-9]+", " ", t.lower())
     return re.sub(r"\s+", " ", t).strip()
+
+
+# bigbangtrans / similar: "Series 01 Episode 08 – The Grasshopper Experiment"
+_SERIES_EP_PREFIX = re.compile(
+    r"^series\s+\d+\s+episode\s+\d+\s*[-–—:.·]?\s*",
+    re.I,
+)
 
 
 def maze_episode_title(name: str) -> str:
     """TVMaze often prefixes book/chapter labels — keep the episode title parents search."""
     t = html.unescape(str(name or "")).strip()
+    t = _SERIES_EP_PREFIX.sub("", t)
     if " - " in t:
         t = t.rsplit(" - ", 1)[-1].strip()
+    if " – " in t:
+        t = t.rsplit(" – ", 1)[-1].strip()
     t = re.sub(
         r"^chapter\s+(?:one|two|three|four|five|six|seven|eight|nine|ten|"
         r"eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|"
@@ -71,6 +94,8 @@ def maze_episode_title(name: str) -> str:
         flags=re.I,
     )
     t = re.sub(r"^episode\s+\d+\s*:\s*", "", t, flags=re.I)
+    # "Pilot Episode" on bigbangtrans → TVMaze "Pilot"
+    t = re.sub(r"\s+episode$", "", t, flags=re.I)
     return t.strip()
 
 
@@ -86,19 +111,36 @@ def title_keys(show_id: str, title: str) -> list[str]:
             keys.append(key)
 
     raw = html.unescape(str(title or "")).strip()
+    cleaned = maze_episode_title(raw)
     add(raw)
-    add(maze_episode_title(raw))
+    add(cleaned)
+    add(_SERIES_EP_PREFIX.sub("", raw).strip())
     add(re.sub(r"\s*\([^)]*\)", "", raw))
-    add(re.sub(r"\s*\([^)]*\)", "", maze_episode_title(raw)))
+    add(re.sub(r"\s*\([^)]*\)", "", cleaned))
 
     if ":" in raw:
         left, right = raw.split(":", 1)
-        add(right.strip())
-        add(left.strip())
-        add(f"{right.strip()} {left.strip()}")
+        # Skip generic labels like "Chapter One" — they collide across seasons.
+        for part in (right.strip(), left.strip(), f"{right.strip()} {left.strip()}"):
+            if part and not re.match(r"^(chapter|book|part|episode|season)\b", part, re.I):
+                add(part)
 
     # "Weirdmageddon (1)" -> "Weirdmageddon 1"
     add(re.sub(r"\((\d+)\)", r" \1", raw))
+    add(re.sub(r"\((\d+)\)", r" \1", cleaned))
+
+    # "Civil Wars, Part 1" -> "Civil Wars 1"
+    add(re.sub(r"\bpart\s+(\d+)\b", r"\1", raw, flags=re.I))
+    add(re.sub(r"\bpart\s+(\d+)\b", r"\1", cleaned, flags=re.I))
+
+    # Combined broadcasts: "Holocron Heist / Cargo of Doom" matches either half.
+    for source in (raw, cleaned):
+        if "/" in source:
+            for chunk in source.split("/"):
+                chunk = re.sub(r"^\d+\.\s*", "", chunk.strip())
+                chunk = _SERIES_EP_PREFIX.sub("", chunk).strip()
+                if chunk:
+                    add(chunk)
 
     return keys
 
