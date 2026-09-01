@@ -129,6 +129,7 @@
   cards.forEach((c) => io.observe(c));
 
   function setupHeroSlideshow(root, slides) {
+    const usePager = slides.length > 8;
     root.innerHTML = `
       <div class="feature-stage" aria-roledescription="carousel" aria-label="Rated shows">
         <div class="feature-slides"></div>
@@ -138,7 +139,15 @@
             <p class="feature-blurb" id="feature-blurb"></p>
             <a class="cta" id="feature-cta" href="#">Browse episodes <span class="cta-arrow">→</span></a>
           </div>
-          <div class="feature-dots" role="tablist" aria-label="Choose show"></div>
+          ${
+            usePager
+              ? `<div class="feature-pager" aria-label="Choose show">
+                  <button type="button" class="feature-pager-btn" data-dir="-1" aria-label="Previous show">‹</button>
+                  <span class="feature-pager-n" id="feature-pager-n"></span>
+                  <button type="button" class="feature-pager-btn" data-dir="1" aria-label="Next show">›</button>
+                </div>`
+              : `<div class="feature-dots" role="tablist" aria-label="Choose show"></div>`
+          }
         </div>
         <div class="feature-progress" aria-hidden="true"><i></i></div>
       </div>
@@ -150,6 +159,8 @@
     const blurbEl = root.querySelector("#feature-blurb");
     const ctaEl = root.querySelector("#feature-cta");
     const dotsEl = root.querySelector(".feature-dots");
+    const pagerEl = root.querySelector(".feature-pager");
+    const pagerN = root.querySelector("#feature-pager-n");
     const progress = root.querySelector(".feature-progress > i");
 
     slidesEl.innerHTML = slides
@@ -161,12 +172,14 @@
       )
       .join("");
 
-    dotsEl.innerHTML = slides
-      .map(
-        (s, i) => `
-        <button type="button" class="feature-dot${i === 0 ? " is-active" : ""}" role="tab" aria-selected="${i === 0 ? "true" : "false"}" aria-label="${escapeHtml(s.name)}" data-i="${i}"></button>`
-      )
-      .join("");
+    if (dotsEl) {
+      dotsEl.innerHTML = slides
+        .map(
+          (s, i) => `
+          <button type="button" class="feature-dot${i === 0 ? " is-active" : ""}" role="tab" aria-selected="${i === 0 ? "true" : "false"}" aria-label="${escapeHtml(s.name)}" data-i="${i}"></button>`
+        )
+        .join("");
+    }
 
     let index = 0;
     let timer = null;
@@ -182,11 +195,18 @@
         el.classList.toggle("is-active", on);
         el.setAttribute("aria-hidden", on ? "false" : "true");
       });
-      dotsEl.querySelectorAll(".feature-dot").forEach((el, n) => {
-        const on = n === index;
-        el.classList.toggle("is-active", on);
-        el.setAttribute("aria-selected", on ? "true" : "false");
-      });
+      if (dotsEl) {
+        dotsEl.querySelectorAll(".feature-dot").forEach((el, n) => {
+          const on = n === index;
+          el.classList.toggle("is-active", on);
+          el.setAttribute("aria-selected", on ? "true" : "false");
+        });
+        const activeDot = dotsEl.querySelector(".feature-dot.is-active");
+        if (activeDot && typeof activeDot.scrollIntoView === "function") {
+          activeDot.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+        }
+      }
+      if (pagerN) pagerN.textContent = `${index + 1} / ${slides.length}`;
       titleEl.textContent = s.name;
       blurbEl.textContent = BLURBS[s.id] || "";
       ctaEl.href = `${s.id}.html`;
@@ -249,12 +269,22 @@
     paint(0);
     schedule(SLIDE_MS);
 
-    dotsEl.addEventListener("click", (e) => {
-      const btn = e.target.closest(".feature-dot");
-      if (!btn) return;
-      paint(Number(btn.dataset.i));
-      schedule(SLIDE_MS);
-    });
+    if (dotsEl) {
+      dotsEl.addEventListener("click", (e) => {
+        const btn = e.target.closest(".feature-dot");
+        if (!btn) return;
+        paint(Number(btn.dataset.i));
+        schedule(SLIDE_MS);
+      });
+    }
+    if (pagerEl) {
+      pagerEl.addEventListener("click", (e) => {
+        const btn = e.target.closest("[data-dir]");
+        if (!btn) return;
+        paint(index + Number(btn.dataset.dir));
+        schedule(SLIDE_MS);
+      });
+    }
 
     stage.addEventListener("pointerenter", pause);
     stage.addEventListener("pointerleave", resume);

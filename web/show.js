@@ -188,11 +188,21 @@
     return false;
   }
 
+  function seasonKey(value) {
+    return String(value);
+  }
+
+  function inSelectedSeason(ep, season = els.season.value) {
+    return season === "all" || seasonKey(ep.season) === season;
+  }
+
   function themeIndex() {
     const season = els.season.value;
+    const q = els.q.value.trim().toLowerCase();
     const counts = new Map();
     for (const ep of data.episodes) {
-      if (season !== "all" && String(ep.season) !== season) continue;
+      if (!inSelectedSeason(ep, season)) continue;
+      if (!matchesQuery(ep, q)) continue;
       for (const t of watchThemesOf(ep)) {
         counts.set(t, (counts.get(t) || 0) + 1);
       }
@@ -241,7 +251,7 @@
     const season = els.season.value;
     const q = els.q.value.trim().toLowerCase();
     const base = data.episodes.filter((ep) => {
-      if (season !== "all" && String(ep.season) !== season) return false;
+      if (!inSelectedSeason(ep, season)) return false;
       if (!matchesThemes(ep)) return false;
       return matchesQuery(ep, q);
     });
@@ -254,6 +264,25 @@
         node.textContent = String(n);
       });
     }
+  }
+
+  function emptyCopy({ season, q }) {
+    const hasSearch = Boolean(q);
+    const hasThemes = selectedThemes.size > 0;
+    const seasonNarrow = season !== "all";
+    if (hasSearch) return "Nothing matched that search. Try another word, or clear the box.";
+    if (bucket === "safe" && !hasThemes && !seasonNarrow) {
+      const anySafe = data.episodes.some((ep) => ep.overall <= 2);
+      if (!anySafe) {
+        return "No all-clear episodes in this show — try Gray area, or Show all.";
+      }
+    }
+    if (bucket === "safe") {
+      return "No all-clear episodes in this slice — try Gray area, or Show all.";
+    }
+    if (hasThemes) return "Nothing matched those themes. Clear a chip or pick Show all.";
+    if (seasonNarrow) return "Nothing in this season for the current filters.";
+    return "Nothing matched. Loosen the filters and try again!";
   }
 
   function epLabel(ep) {
@@ -486,7 +515,7 @@
     const conf = BUCKETS[bucket];
 
     let filtered = data.episodes.filter((ep) => {
-      if (season !== "all" && String(ep.season) !== season) return false;
+      if (!inSelectedSeason(ep, season)) return false;
       if (!conf.match(ep)) return false;
       if (!matchesThemes(ep)) return false;
       return matchesQuery(ep, q);
@@ -508,10 +537,20 @@
 
     els.hint.textContent = conf.hint;
     const noun = conf.stats === "episodes" && filtered.length === 1 ? "episode" : conf.stats;
-    els.stats.textContent = `🎉 ${filtered.length} ${noun}${themeNote}`;
+    const seasonNote = season !== "all" ? ` · season ${season}` : "";
+    els.stats.textContent = `🎉 ${filtered.length} ${noun}${themeNote}${seasonNote}`;
+    els.empty.textContent = emptyCopy({ season, q });
     els.empty.classList.toggle("hidden", filtered.length > 0);
     els.list.innerHTML = visible.map((ep, i) => renderCard(ep, i)).join("");
     renderListPager(filtered.length, pages, start);
+
+    // The crawlable full index under the live list never respects filters —
+    // hide it whenever the interactive list is narrowed so it doesn't look broken.
+    const narrowed =
+      season !== "all" || Boolean(q) || bucket !== "all" || selectedThemes.size > 0;
+    document.querySelectorAll(".ep-index, .seo-copy").forEach((el) => {
+      el.hidden = narrowed;
+    });
   }
 
   function pageWindow(current, pages) {
@@ -652,11 +691,11 @@
 
   for (const el of [els.season, els.q, els.sort]) {
     el.addEventListener("input", () => {
-      if (el === els.season) renderThemeChips();
+      if (el === els.season || el === els.q) renderThemeChips();
       apply({ resetPage: true });
     });
     el.addEventListener("change", () => {
-      if (el === els.season) renderThemeChips();
+      if (el === els.season || el === els.q) renderThemeChips();
       apply({ resetPage: true });
     });
   }
@@ -733,6 +772,7 @@
     let activeEp = null;
     let reason = "";
     let lastFocus = null;
+    let closeTimer = null;
 
     reasonsEl.innerHTML = REASONS.map(
       (r) => `
@@ -743,6 +783,10 @@
     ).join("");
 
     function openReport(ep) {
+      if (closeTimer) {
+        window.clearTimeout(closeTimer);
+        closeTimer = null;
+      }
       activeEp = ep;
       reason = "";
       details.value = "";
@@ -761,18 +805,19 @@
       sheet.hidden = false;
       document.body.classList.add("report-open");
       lastFocus = document.activeElement;
-      requestAnimationFrame(() => {
-        scrim.classList.add("is-on");
-        sheet.classList.add("is-on");
-        reasonsEl.querySelector("input")?.focus();
-      });
+      void sheet.offsetWidth;
+      scrim.classList.add("is-on");
+      sheet.classList.add("is-on");
+      reasonsEl.querySelector("input")?.focus();
     }
 
     function closeReport() {
       scrim.classList.remove("is-on");
       sheet.classList.remove("is-on");
       document.body.classList.remove("report-open");
-      window.setTimeout(() => {
+      if (closeTimer) window.clearTimeout(closeTimer);
+      closeTimer = window.setTimeout(() => {
+        closeTimer = null;
         scrim.hidden = true;
         sheet.hidden = true;
         if (lastFocus && lastFocus.focus) lastFocus.focus();

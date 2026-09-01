@@ -369,6 +369,65 @@ main,
   display: flex;
   gap: 0.4rem;
   pointer-events: auto;
+  max-width: min(46%, 16rem);
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding: 0.15rem;
+  mask-image: linear-gradient(90deg, transparent, #000 12px, #000 calc(100% - 12px), transparent);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 12px, #000 calc(100% - 12px), transparent);
+}
+
+.feature-dots::-webkit-scrollbar {
+  display: none;
+}
+
+.feature-pager {
+  position: absolute;
+  right: clamp(0.9rem, 2vw, 1.25rem);
+  bottom: clamp(0.9rem, 2vw, 1.25rem);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  pointer-events: auto;
+  padding: 0.25rem 0.35rem;
+  border-radius: 999px;
+  background: rgba(10, 8, 14, 0.45);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+}
+
+.feature-pager-btn {
+  appearance: none;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  font-size: 1rem;
+  line-height: 1;
+  display: grid;
+  place-items: center;
+}
+
+.feature-pager-btn:hover,
+.feature-pager-btn:focus-visible {
+  background: rgba(255, 255, 255, 0.28);
+  outline: none;
+}
+
+.feature-pager-n {
+  min-width: 3.2rem;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
 }
 
 .feature-dot {
@@ -584,13 +643,13 @@ a.count-chip:hover {
   aspect-ratio: 16 / 9;
   text-decoration: none;
   color: #fff;
-  opacity: 0;
-  transform: translateY(18px) scale(0.98);
+  opacity: 1;
+  transform: none;
   transition: transform 0.2s var(--ease), box-shadow 0.2s var(--ease), filter 0.2s ease;
 }
 
 .show-card.in-view {
-  animation: card-in 0.5s var(--ease) forwards;
+  animation: none;
 }
 
 @keyframes card-in {
@@ -846,16 +905,23 @@ a.count-chip:hover {
     top: 0.65rem;
     bottom: auto;
     right: 0.65rem;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     max-width: 58%;
-    justify-content: flex-end;
+    justify-content: flex-start;
     gap: 0.15rem;
+  }
+
+  .feature-pager {
+    top: 0.55rem;
+    bottom: auto;
+    right: 0.55rem;
   }
 
   .feature-dot {
     position: relative;
     width: 7px;
     height: 7px;
+    flex: 0 0 auto;
   }
 
   .feature-dot.is-active {

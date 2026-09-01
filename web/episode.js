@@ -84,6 +84,7 @@
   let activeEp = null;
   let reason = "";
   let lastFocus = null;
+  let closeTimer = null;
 
   reasonsEl.innerHTML = REASONS.map(
     (r) => `
@@ -94,6 +95,10 @@
   ).join("");
 
   function openReport(target) {
+    if (closeTimer) {
+      window.clearTimeout(closeTimer);
+      closeTimer = null;
+    }
     activeEp = target;
     reason = "";
     detailsEl.value = "";
@@ -111,17 +116,20 @@
     sheet.hidden = false;
     document.body.classList.add("report-open");
     lastFocus = document.activeElement;
-    requestAnimationFrame(() => {
-      scrim.classList.add("is-on");
-      sheet.classList.add("is-on");
-    });
+    // Force a layout pass after un-hiding so opacity/pointer-events
+    // transition from the resting state instead of staying ghosted.
+    void sheet.offsetWidth;
+    scrim.classList.add("is-on");
+    sheet.classList.add("is-on");
   }
 
   function closeReport() {
     scrim.classList.remove("is-on");
     sheet.classList.remove("is-on");
     document.body.classList.remove("report-open");
-    window.setTimeout(() => {
+    if (closeTimer) window.clearTimeout(closeTimer);
+    closeTimer = window.setTimeout(() => {
+      closeTimer = null;
       scrim.hidden = true;
       sheet.hidden = true;
       if (lastFocus && lastFocus.focus) lastFocus.focus();

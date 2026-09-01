@@ -1377,11 +1377,13 @@ body.report-open {
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   opacity: 0;
+  pointer-events: none;
   transition: opacity 0.2s ease;
 }
 
 .report-scrim.is-on {
   opacity: 1;
+  pointer-events: auto;
 }
 
 .report-sheet {
@@ -1399,6 +1401,11 @@ body.report-open {
 .report-sheet.is-on {
   opacity: 1;
   transform: none;
+  pointer-events: auto;
+}
+
+/* While open but mid-animation, keep the panel itself clickable */
+.report-sheet.is-on .report-panel {
   pointer-events: auto;
 }
 
