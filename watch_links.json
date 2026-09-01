@@ -27,7 +27,13 @@
     "family-guy": "family-guy",
     "south-park": "south-park",
     "wednesday": "wednesday",
-    "kpop-demon-hunters": "movie/k-pop-demon-hunters"
+    "kpop-demon-hunters": "movie/k-pop-demon-hunters",
+    "stranger-things": "stranger-things",
+    "legend-of-korra": "the-legend-of-korra",
+    "clone-wars": "star-wars-the-clone-wars",
+    "owl-house": "the-owl-house",
+    "amphibia": "amphibia",
+    "pokemon": "pokemon"
   },
   "imdb": {
     "friends": "tt0108778",
@@ -56,11 +62,17 @@
     "family-guy": "tt0182576",
     "south-park": "tt0121955",
     "wednesday": "tt13443470",
-    "kpop-demon-hunters": "tt14205554"
+    "kpop-demon-hunters": "tt14205554",
+    "stranger-things": "tt4574334",
+    "legend-of-korra": "tt1695360",
+    "clone-wars": "tt0458290",
+    "owl-house": "tt8050756",
+    "amphibia": "tt9318892",
+    "pokemon": "tt0168366"
   },
   "stream": {
     "avatar": {
-      "netflix": "https://www.netflix.com/title/80237957"
+      "netflix": "https://www.netflix.com/title/70142405"
     },
     "phineas-and-ferb": {
       "disney": "https://www.disneyplus.com/browse/entity-dd2d65ba-4473-4bec-885d-6b71ee699820"
