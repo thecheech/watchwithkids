@@ -184,9 +184,16 @@ main,
 .tone-stop { color: #d50032; }
 
 .reveal {
-  opacity: 0;
-  transform: translateY(14px);
-  animation: reveal-up 0.65s var(--ease) forwards;
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(14px);
+    animation: reveal-up 0.65s var(--ease) forwards;
+  }
 }
 
 .delay-2 { animation-delay: 0.12s; }
@@ -214,6 +221,7 @@ main,
 .hero-tv-bezel {
   width: 100%;
   position: relative;
+  overflow: hidden;
   background:
     linear-gradient(180deg, #3a3348 0%, #1c1828 48%, #121018 100%);
   border: 3px solid var(--ink);
@@ -527,12 +535,21 @@ a.count-chip:hover {
   transition: transform 0.2s var(--ease), box-shadow 0.2s var(--ease), filter 0.2s ease;
 }
 
-.show-card.in-view {
-  animation: none;
-}
+@media (prefers-reduced-motion: no-preference) {
+  html.js-scroll-reveal .show-card:not(.in-view) {
+    opacity: 0;
+    transform: translateY(14px);
+  }
 
-@keyframes card-in {
-  to { opacity: 1; transform: none; }
+  html.js-scroll-reveal .show-card.in-view {
+    opacity: 1;
+    transform: none;
+    transition:
+      opacity 0.45s var(--ease),
+      transform 0.45s var(--ease),
+      box-shadow 0.2s var(--ease),
+      filter 0.2s ease;
+  }
 }
 
 .show-card.is-soon {
