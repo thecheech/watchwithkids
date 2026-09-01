@@ -1897,6 +1897,50 @@ body.report-open {
   color: var(--muted);
 }
 
+.pnk-panel {
+  border-color: rgba(120, 78, 160, 0.22);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(248, 244, 255, 0.92));
+}
+
+.pnk-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.65rem;
+  margin-bottom: 0.35rem;
+}
+
+.pnk-head .ep-section-title {
+  margin: 0;
+}
+
+.pnk-age {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 2px solid var(--ink);
+  background: #fff;
+  font-weight: 900;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  box-shadow: 0 2px 0 rgba(31, 22, 48, 0.08);
+}
+
+.pnk-tagline {
+  margin: 0 0 0.65rem;
+  font-weight: 800;
+  font-size: 1rem;
+  color: var(--ink);
+}
+
+.pnk-body {
+  margin: 0;
+  line-height: 1.55;
+  color: rgba(31, 22, 48, 0.88);
+}
+
 .ep-actions {
   display: flex;
   flex-wrap: wrap;

@@ -9,7 +9,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0101.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “I encountered bigotry you could not imagine.”
+  - [Too much] “I encountered bigotry you could not imagine.”
 
 ## S1 E2 — 2. Bang the Drum, Ashley
 URL: https://watchwiththekids.com/ep/fresh-prince/0102.html
@@ -18,7 +18,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Girls, you must remember to practice more, no? Violin is very jealous, much like the sexy Toscanini.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Another aspirin, sir? Perhaps a gun.”
+  - [Caution] “Another aspirin, sir? Perhaps a gun.”
 
 ## S1 E3 — 3. Clubba Hubba
 URL: https://watchwiththekids.com/ep/fresh-prince/0103.html
@@ -27,11 +27,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “I seem to be painfully shy with the fairer sex.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] “Baby! - The fish knife.”
-  - [Moderate] “You were saying? - Will, he picked out the fish knife.”
-  - [Moderate] “Remember, I'm wanted in five states I'm hiding out from the police for robbing a gun store - and what did I do before then? - You went to Penn State.”
+  - [Caution] “Baby! - The fish knife.”
+  - [Caution] “You were saying? - Will, he picked out the fish knife.”
+  - [Caution] “Remember, I'm wanted in five states I'm hiding out from the police for robbing a gun store - and what did I do before then? - You went to Penn State.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “That fat girl? Mimi is not fat.”
+  - [Caution] “That fat girl? Mimi is not fat.”
 
 ## S1 E4 — 4. Not with My Pig, You Don't
 URL: https://watchwiththekids.com/ep/fresh-prince/0104.html
@@ -61,7 +61,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0107.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] “"Panzer-man, panzer-man, O You "Every woman adores a Fascist "The boot in the face, the brute "Brute heart of a brute like you" Sylvia Plath killed herself shortly after writing this poem.”
+  - [Too much] “"Panzer-man, panzer-man, O You "Every woman adores a Fascist "The boot in the face, the brute "Brute heart of a brute like you" Sylvia Plath killed herself shortly after writing this poem.”
 
 ## S1 E8 — 8. Someday Your Prince Will Be in Effect (1)
 URL: https://watchwiththekids.com/ep/fresh-prince/0108.html
@@ -83,7 +83,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0111.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Boy, you're lucky that was just a starter's pistol.”
+  - [Caution] “Boy, you're lucky that was just a starter's pistol.”
 
 ## S1 E12 — 12. Talking Turkey
 URL: https://watchwiththekids.com/ep/fresh-prince/0112.html
@@ -102,7 +102,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0114.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Breathing just enough to keep the blood circulating.”
+  - [Caution] “Breathing just enough to keep the blood circulating.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “This calls for champagne.”
 
@@ -111,7 +111,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0115.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Five, six, five, six, seven, and Hold it! What the bloody hell kind of song is that? What do you mean? A little kid sees his mom tongue-wrestling with Santa Claus? Will, it's his father dressed up like Santa Claus.”
+  - [Caution] “Five, six, five, six, seven, and Hold it! What the bloody hell kind of song is that? What do you mean? A little kid sees his mom tongue-wrestling with Santa Claus? Will, it's his father dressed up like Santa Claus.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “And that Christmas beer commercial with the horses with the furry feet are pulling the sleigh through the snow.”
 
@@ -138,36 +138,36 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0119.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “" Philip, you better sleep with one eye open.”
+  - [Caution] “" Philip, you better sleep with one eye open.”
 
 ## S1 E20 — 20. Nice Lady
 URL: https://watchwiththekids.com/ep/fresh-prince/0120.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “She stole the car, she snuck out to the roughest bar in town and then she hooked up with a human Godzilla.”
+  - [Caution] “She stole the car, she snuck out to the roughest bar in town and then she hooked up with a human Godzilla.”
   - [Mild] “Uncle Phil, mon! You are generous, fair-minded, and very sexy.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “G, the Lady is a tramp.”
+  - [Caution] “G, the Lady is a tramp.”
 
 ## S1 E21 — 21. Love at First Fight
 URL: https://watchwiththekids.com/ep/fresh-prince/0121.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “What about my mama? Your mama's so fat, they showed her a picture of her feet and she couldn't identify them.”
+  - [Caution] “What about my mama? Your mama's so fat, they showed her a picture of her feet and she couldn't identify them.”
 
 ## S1 E22 — 22. Banks Shot
 URL: https://watchwiththekids.com/ep/fresh-prince/0122.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “$300? What for? Hey, young blood.”
+  - [Caution] “$300? What for? Hey, young blood.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I have my wine collection.”
   - [Mild] “Cocktails! Who the hell are you? My name is Fred Lomax, Jr.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Fred, get up! I can't get no sleep around here today to save my life.”
+  - [Caution] “Fred, get up! I can't get no sleep around here today to save my life.”
 
 ## S1 E23 — 23. 72 Hours
 URL: https://watchwiththekids.com/ep/fresh-prince/0123.html
@@ -192,7 +192,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0201.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Pardon me while I go get a knife.”
+  - [Caution] “Pardon me while I go get a knife.”
 
 ## S2 E2 — 2. The Mother of All Battles
 URL: https://watchwiththekids.com/ep/fresh-prince/0202.html
@@ -201,7 +201,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Like, picture Mike Tyson in a training bra.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “I have been stabbed in the back.”
+  - [Too much] “I have been stabbed in the back.”
   - [Mild] “But you don't beat up everybody.”
   - [Mild] “If I'd known, I never would have beat up his sister.”
   - [Mild] “Sure you don't want to get a couple sucker punches in there? Your daughter suffers from displaced aggression syndrome.”
@@ -222,9 +222,9 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0204.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “Carlton, I don't think they'll send you to prison for cheating on a test.”
+  - [Caution] “Carlton, I don't think they'll send you to prison for cheating on a test.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “See, what it was is we're gonna be sitting down for a lot of hours so I just thought I'd do something to get my blood flowing.”
+  - [Caution] “See, what it was is we're gonna be sitting down for a lot of hours so I just thought I'd do something to get my blood flowing.”
 
 ## S2 E5 — 5. Granny Gets Busy
 URL: https://watchwiththekids.com/ep/fresh-prince/0205.html
@@ -233,7 +233,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Just come out naked.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Bitchin'? Is he going surfing? I thought we were gonna have lunch.”
+  - [Caution] “Bitchin'? Is he going surfing? I thought we were gonna have lunch.”
   - [Mild] “Oh, hell, just let's never mention it again.”
 
 ## S2 E6 — 6. Guess Who's Coming to Marry?
@@ -241,19 +241,19 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0206.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “I want to sleep with Carlton.”
-  - [Moderate] “Well, I'm definitely getting married, and I want my wife to be a virgin.”
+  - [Caution] “I want to sleep with Carlton.”
+  - [Caution] “Well, I'm definitely getting married, and I want my wife to be a virgin.”
   - [Mild] “So you need any tips on sex? - No, not really.”
 - Nudity & bodies — 3 moment(s)
   - [Mild] “Do I have to do everything myself? Miss Hilary, the day you do everything for yourself will be the day I square-dance naked on the White-House lawn.”
   - [Mild] “She'll be an excellent homemaker and have the breasts the size of Australia.”
   - [Mild] “She breast-fed me.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “I will not be an accomplice to the murder of Mickey Mouse.”
+  - [Too much] “I will not be an accomplice to the murder of Mickey Mouse.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Put the champagne over there, then go out and help set up the tables.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “Have you thought about that? You thought about your children? Or the jobs or friends you may lose because some bigot fails to see the beauty in your marriage?”
+  - [Too much] “Have you thought about that? You thought about your children? Or the jobs or friends you may lose because some bigot fails to see the beauty in your marriage?”
 
 ## S2 E7 — 7. The Big Four-Oh
 URL: https://watchwiththekids.com/ep/fresh-prince/0207.html
@@ -269,7 +269,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0208.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “This is the episode of Star Trek where Captain Kirk sleeps with that green girl.”
+  - [Caution] “This is the episode of Star Trek where Captain Kirk sleeps with that green girl.”
 - Violence & injury — 1 moment(s)
   - [Mild] “I'm gonna go get us some punch.”
 
@@ -278,14 +278,14 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0209.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Dude's got a gun, next thing you know I got six warning shots in my back.”
+  - [Caution] “Dude's got a gun, next thing you know I got six warning shots in my back.”
 
 ## S2 E10 — 10. Hi-Ho Silver
 URL: https://watchwiththekids.com/ep/fresh-prince/0210.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] “We need that little white lady from Murder, She Wrote.”
+  - [Too much] “We need that little white lady from Murder, She Wrote.”
   - [Mild] “And he deserved to be slapped.”
 
 ## S2 E11 — 11. The Butler Did It
@@ -293,8 +293,8 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0211.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Well, we were, but there's some big shot in the suite next door and he's been tying up the hotel staff all weekend.”
-  - [Moderate] “Hey, Carlton, man, you got a lot of explaining to do and I hope it begins with the words, "They got a gun.”
+  - [Too much] “Well, we were, but there's some big shot in the suite next door and he's been tying up the hotel staff all weekend.”
+  - [Caution] “Hey, Carlton, man, you got a lot of explaining to do and I hope it begins with the words, "They got a gun.”
 
 ## S2 E12 — 12. Something for Nothing
 URL: https://watchwiththekids.com/ep/fresh-prince/0212.html
@@ -314,10 +314,10 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0213.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Unless he is on a mule with a pregnant virgin he ain't getting in here.”
-  - [Moderate] “There are only enough beds for seven of us, remember? Well, I'm not sleeping with anyone but Lester.”
+  - [Caution] “Unless he is on a mule with a pregnant virgin he ain't getting in here.”
+  - [Caution] “There are only enough beds for seven of us, remember? Well, I'm not sleeping with anyone but Lester.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Forget it, Ashley, I am not getting you a stun gun for Christmas.”
+  - [Caution] “Forget it, Ashley, I am not getting you a stun gun for Christmas.”
   - [Mild] “If Ashley hadn't slapped me, man, I might have screamed.”
 
 ## S2 E14 — 14. Hilary Gets a Life
@@ -325,21 +325,21 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0214.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “If you move the TV any closer to the bed I'll be sleeping with Jay Leno.”
+  - [Caution] “If you move the TV any closer to the bed I'll be sleeping with Jay Leno.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Well, what kind of woman you looking for? Someone with really, really big breasts.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “Well, girl, what are you, tripping? How many catered affairs have you been to? I don't know, 4 maybe 500.”
+  - [Caution] “Well, girl, what are you, tripping? How many catered affairs have you been to? I don't know, 4 maybe 500.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “Come on, this definitely ain't gonna do nothing for the misconception that all brothers look alike.”
+  - [Too much] “Come on, this definitely ain't gonna do nothing for the misconception that all brothers look alike.”
 
 ## S2 E15 — 15. My Brother's Keeper
 URL: https://watchwiththekids.com/ep/fresh-prince/0215.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “You back again for another pre-game haircut? How you doing, young blood? Just a poor black man trying to make it in Bel-Air, Mr.”
-  - [Moderate] “And Smith draws first blood for Bel-Air Prep.”
+  - [Caution] “You back again for another pre-game haircut? How you doing, young blood? Just a poor black man trying to make it in Bel-Air, Mr.”
+  - [Caution] “And Smith draws first blood for Bel-Air Prep.”
 
 ## S2 E16 — 16. Geoffrey Cleans Up
 URL: https://watchwiththekids.com/ep/fresh-prince/0216.html
@@ -355,21 +355,21 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I sleep naked with the window open.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “But it really reminds you of why you became a doctor when you crack open that rib cage slip your hands in all the way up to your elbows and pull out that bloody, pulsating heart.”
-  - [Moderate] “I really did think Eldridge Cleaver was a big chopping knife.”
+  - [Caution] “But it really reminds you of why you became a doctor when you crack open that rib cage slip your hands in all the way up to your elbows and pull out that bloody, pulsating heart.”
+  - [Caution] “I really did think Eldridge Cleaver was a big chopping knife.”
 
 ## S2 E18 — 18. Ill Will
 URL: https://watchwiththekids.com/ep/fresh-prince/0218.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Yeah, what if my friends find out I sleep with a hand puppet? Move over, Carlton.”
+  - [Caution] “Yeah, what if my friends find out I sleep with a hand puppet? Move over, Carlton.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “God please don't let me leave here with breasts.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “I'm scared of going under the knife.”
+  - [Caution] “I'm scared of going under the knife.”
 - Alcohol & drugs — 4 moment(s)
-  - [Moderate] “Hi, Will, how do you feel? Like I swallowed a weed whacker.”
+  - [Caution] “Hi, Will, how do you feel? Like I swallowed a weed whacker.”
   - [Mild] “And why do you think they knock you out? So you don't see them drinking margaritas over your open stomach.”
   - [Mild] “Two bottles of beer on the wall Two bottles of beer If one of them bottles should happen to fall How many bottles of beer on the wall?”
   - [Mild] “Yo, can we finish our song, please? One million bottles of beer on the wall One million bottles of beer Zowie.”
@@ -379,7 +379,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0219.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “They all look alike to me.”
+  - [Too much] “They all look alike to me.”
 
 ## S2 E20 — 20. Those Were the Days
 URL: https://watchwiththekids.com/ep/fresh-prince/0220.html
@@ -405,8 +405,8 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0222.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] “Do you know the French word for foreplay? Because there isn't one.”
-  - [Moderate] “No, not Lester the schizophrenic, Lester the impotent guy.”
+  - [Caution] “Do you know the French word for foreplay? Because there isn't one.”
+  - [Caution] “No, not Lester the schizophrenic, Lester the impotent guy.”
   - [Mild] “That means it's about sex.”
   - [Mild] “Beautiful, sexy, and she measures everything in centimeters.”
 - Nudity & bodies — 3 moment(s)
@@ -414,8 +414,8 @@ Watch for:
   - [Mild] “Yo! Somebody let me out! What's up? What's happening? What the hell is going on? "Gee, Will, where were you when you were supposed to be "with two luscious French girls?" "I was trapped in a bathroom with my naked aunt.”
   - [Mild] “Vivian, when's the last time we skinny-dipped in the Jacuzzi? I don't think it was the Fourth of July, but I do remember fireworks.”
 - Swearing — 5 moment(s)
-  - [Moderate] “If the rooster ain't crowing in the henhouse he must be cock-a-doodling in the barn.”
-  - [Moderate] “Helen, I wasn't cock-a-doodling anywhere.”
+  - [Caution] “If the rooster ain't crowing in the henhouse he must be cock-a-doodling in the barn.”
+  - [Caution] “Helen, I wasn't cock-a-doodling anywhere.”
   - [Mild] “Hell, I'll carry you there if I have to.”
   - [Mild] “I'm the one who signed his name to all your damn birthday cards.”
   - [Mild] “Ain't nobody gonna tell me nothing! Lester, don't make me get ethnic on you! Oh, damn.”
@@ -432,7 +432,7 @@ Watch for:
   - [Mild] “Will, I need to know everything you know about sex.”
   - [Mild] “Our baby's not a baby anymore, is she? You know, I knew it was time to have a talk with her and I tried to the other night but I just couldn't face the fact - that she was having sexual feelings.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Wrong, my hot-blooded cousin.”
+  - [Caution] “Wrong, my hot-blooded cousin.”
 
 ## S2 E24 — 24. Strip-Tease for Two
 URL: https://watchwiththekids.com/ep/fresh-prince/0224.html
@@ -441,14 +441,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Between King Thong and Rambro.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “What are you qualified to do besides flirt with women and dance to loud, primitive music? "Male strippers wanted.”
-  - [Explicit] “So, did you get the stripper job or not? Does David Duke shop white sales? They said I was a natural, man.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “What are you qualified to do besides flirt with women and dance to loud, primitive music? "Male strippers wanted.”
+  - [Too much] “So, did you get the stripper job or not? Does David Duke shop white sales? They said I was a natural, man.”
 - Violence & injury — 4 moment(s)
-  - [Moderate] “A corporate raider? What the bloody hell are you talking about? It's called inside information, and it's quite illegal.”
-  - [Moderate] “You know, the knife dripping blood really sets off your eyes.”
-  - [Moderate] “Who'd have thought they'd pay you so little for selling your blood? - How do you feel, Will? - I'm fine.”
-  - [Moderate] “You only have to give blood 50 more times to get Mom's bracelet back.”
+  - [Caution] “A corporate raider? What the bloody hell are you talking about? It's called inside information, and it's quite illegal.”
+  - [Caution] “You know, the knife dripping blood really sets off your eyes.”
+  - [Caution] “Who'd have thought they'd pay you so little for selling your blood? - How do you feel, Will? - I'm fine.”
+  - [Caution] “You only have to give blood 50 more times to get Mom's bracelet back.”
 
 ## S3 E1 — 1. How I Spent My Summer Vacation
 URL: https://watchwiththekids.com/ep/fresh-prince/0301.html
@@ -459,16 +459,16 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “What company? Company with breasts.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] “Come on, Uncle Phil, what's wrong? Do you think everybody's gonna think I'm a drug dealer? Why wouldn't they think I'm a doctor? 'Cause everyone knows Buckwheat never went to medical school.”
+  - [Caution] “Come on, Uncle Phil, what's wrong? Do you think everybody's gonna think I'm a drug dealer? Why wouldn't they think I'm a doctor? 'Cause everyone knows Buckwheat never went to medical school.”
 
 ## S3 E2 — 2. Will Gets Committed
 URL: https://watchwiththekids.com/ep/fresh-prince/0302.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Hook up with my man Noah, set up a schedule.”
+  - [Caution] “Hook up with my man Noah, set up a schedule.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “You're having an affair.”
+  - [Caution] “You're having an affair.”
 
 ## S3 E3 — 3. That's No Lady, That's My Cousin
 URL: https://watchwiththekids.com/ep/fresh-prince/0303.html
@@ -477,8 +477,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Am I as superficial as all those guys I warned Ashley about? I mean could it be that I'm more obsessed with breasts and thighs than Colonel Sanders ever was?”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “And my first assignment was to interview the town's most famous stripper Boom Boom LaSalle.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “And my first assignment was to interview the town's most famous stripper Boom Boom LaSalle.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What about all the boys in the hall yesterday? - See, Ashley - And all the guys in the beer commercials? - Look, Ashley - And all the guys who ask Hilary out.”
 
@@ -487,12 +487,12 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0304.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Hi, Carla, any calls? Just another Ionely white woman wanting to sleep with you.”
-  - [Moderate] “Could you get that for me, please? Look, if your horny friend wants to meet Trevor, he's down the hall to the right.”
+  - [Caution] “Hi, Carla, any calls? Just another Ionely white woman wanting to sleep with you.”
+  - [Caution] “Could you get that for me, please? Look, if your horny friend wants to meet Trevor, he's down the hall to the right.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “Oh, my God! She's gonna be a hooker! No, you idiot.”
+  - [Too much] “Oh, my God! She's gonna be a hooker! No, you idiot.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “With a big butcher knife.”
+  - [Caution] “With a big butcher knife.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I think I'm gonna go back to my little pool house and toast myself with a glass of champagne.”
 
@@ -501,11 +501,11 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0305.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “I'm a virgin.”
-  - [Moderate] “What? I'm a virgin! It's nice to know somebody still is.”
-  - [Moderate] “I mean, everybody talks about how much pressure there is on girls to have sex.”
+  - [Caution] “I'm a virgin.”
+  - [Caution] “What? I'm a virgin! It's nice to know somebody still is.”
+  - [Caution] “I mean, everybody talks about how much pressure there is on girls to have sex.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “How long has it been? Well, I'd take a shot in the dark and say around nine months.”
+  - [Too much] “How long has it been? Well, I'd take a shot in the dark and say around nine months.”
 
 ## S3 E6 — 6. P.S. I Love You
 URL: https://watchwiththekids.com/ep/fresh-prince/0306.html
@@ -519,20 +519,20 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0307.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “I was just wondering, I don't know, maybe you might be able to do a I thought he was selling condoms.”
+  - [Caution] “I was just wondering, I don't know, maybe you might be able to do a I thought he was selling condoms.”
   - [Mild] “Hey, have you been undressing my Teddy Ruxpin again? - Vivian, you look so sexy.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Huh? "Snuffy's Chicken Shack, Big Ben's Barbeque "Alice's All Nude Review.”
   - [Mild] “How could he go to Alice's All Nude Review without me? Well, hello, Philip, my boy.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “That's 'cause I didn't murder you yet.”
+  - [Too much] “That's 'cause I didn't murder you yet.”
 
 ## S3 E8 — 8. Boyz in the Woods
 URL: https://watchwiththekids.com/ep/fresh-prince/0308.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Man, I'm sleeping with the presidents.”
+  - [Caution] “Man, I'm sleeping with the presidents.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Do you all mind if I get butt naked and roll around in this for a little while? Will, we're going to have to turn that money over to the authorities.”
 - Alcohol & drugs — 1 moment(s)
@@ -564,7 +564,7 @@ Watch for:
   - [Mild] “Aunt Viv, you naked yet? - Will, would you calm down? No one is gonna get naked.”
   - [Mild] “I filled his thong with BenGay.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “What are you doing? Look, I'm not even playing that stupid murder game, so Look, don't aim that thing at me.”
+  - [Too much] “What are you doing? Look, I'm not even playing that stupid murder game, so Look, don't aim that thing at me.”
   - [Mild] “The Lakers win the game! The Lakers win the game! You know what the high point of the game was for me, huh? What? When you punched Jack Nicholson in the nose for touching your stomach? Indigestion.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] “You should have thought about that seven months ago - before that second bottle of wine, Philip.”
@@ -576,24 +576,24 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0312.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “And, Uncle Phil, you know you really shouldn't wear silk no more 'cause, like, when big folks wear silk Well, since we're all being honest with each other I'm bloody sick of the two of you going through my drawers.”
+  - [Caution] “And, Uncle Phil, you know you really shouldn't wear silk no more 'cause, like, when big folks wear silk Well, since we're all being honest with each other I'm bloody sick of the two of you going through my drawers.”
 
 ## S3 E13 — 13. Mommy Nearest
 URL: https://watchwiththekids.com/ep/fresh-prince/0313.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Now, what does Aunt Eleanor have that I don't? A horny husband.”
+  - [Caution] “Now, what does Aunt Eleanor have that I don't? A horny husband.”
   - [Mild] “What are you all doing up? - Eating and talking about sex.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “And I'll thank all of you to keep your noses out of my personal affairs.”
+  - [Caution] “And I'll thank all of you to keep your noses out of my personal affairs.”
 
 ## S3 E14 — 14. Winner Takes Off
 URL: https://watchwiththekids.com/ep/fresh-prince/0314.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “You did what? Are you out of your horny, little adolescent minds? I know I am, Dad.”
+  - [Caution] “You did what? Are you out of your horny, little adolescent minds? I know I am, Dad.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Geoffrey already cut out all the bra ads.”
 - Alcohol & drugs — 1 moment(s)
@@ -606,7 +606,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I am and it just that my future that involves sweet young thing in a thong.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “G can you please take me to the beach? So sorry Master Willam I'm on a break.”
+  - [Caution] “G can you please take me to the beach? So sorry Master Willam I'm on a break.”
 
 ## S3 E16 — 16. Bundle of Joy
 URL: https://watchwiththekids.com/ep/fresh-prince/0316.html
@@ -628,7 +628,7 @@ Watch for:
   - [Mild] “Don't you? Yeah, come on, baby, let's get naked.”
   - [Mild] “Will, a naked, willing female is in your room.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “You understand, don't you? Look, Monique, I'd love to talk, but there ain't no blood in my brain.”
+  - [Caution] “You understand, don't you? Look, Monique, I'd love to talk, but there ain't no blood in my brain.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Now, get a bottle of whiskey, liquor that girl up and take advantage of her.”
 
@@ -637,7 +637,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0318.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “See where Princeton comes in? Right after "lose virginity.”
+  - [Caution] “See where Princeton comes in? Right after "lose virginity.”
 - Violence & injury — 1 moment(s)
   - [Mild] “And the guy getting slapped by the girl? That's Clarence Thomas.”
 - Alcohol & drugs — 1 moment(s)
@@ -648,9 +648,9 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0319.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] “I never thought losing my virginity would be this painful.”
-  - [Moderate] “What could be worse than finding out I'm still a virgin? It was speed.”
-  - [Moderate] “I'm a drug addict and a virgin! Shut up.”
+  - [Caution] “I never thought losing my virginity would be this painful.”
+  - [Caution] “What could be worse than finding out I'm still a virgin? It was speed.”
+  - [Caution] “I'm a drug addict and a virgin! Shut up.”
   - [Mild] “Up? You don't mean This sex thing is even more complicated than I thought.”
 
 ## S3 E20 — 20. The Baby Comes Out
@@ -661,21 +661,21 @@ Watch for:
   - [Mild] “I mean, getting woke up in the middle of the night by a naked man running around the house.”
   - [Mild] “But Uncle Phil was naked, Aunt Viv.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] “So, while she's been stepping out on him he's been having an affair with her sister.”
-  - [Moderate] “Good, 'cause I'm going on a break.”
+  - [Caution] “So, while she's been stepping out on him he's been having an affair with her sister.”
+  - [Caution] “Good, 'cause I'm going on a break.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “How do you work this bloody thing? Thank God you're here.”
+  - [Caution] “How do you work this bloody thing? Thank God you're here.”
 
 ## S3 E21 — 21. You Bet Your Life
 URL: https://watchwiththekids.com/ep/fresh-prince/0321.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Did you by any chance see Murder, She Wrote last week? - No.”
+  - [Too much] “Did you by any chance see Murder, She Wrote last week? - No.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Yeah, well, you just wasted about 15 seconds, buddy.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Could luck be a lady tonight? Tramp.”
+  - [Caution] “Could luck be a lady tonight? Tramp.”
 
 ## S3 E22 — 22. Ain't No Business Like Show Business
 URL: https://watchwiththekids.com/ep/fresh-prince/0322.html
@@ -690,22 +690,22 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0323.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “I'm so fat! On second thought, I'll call her from the car.”
+  - [Caution] “I'm so fat! On second thought, I'll call her from the car.”
 
 ## S3 E24 — 24. Six Degrees of Graduation
 URL: https://watchwiththekids.com/ep/fresh-prince/0324.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] “Because if you're left back and I have to wash your gym socks for another year I shall take my own life.”
+  - [Too much] “Because if you're left back and I have to wash your gym socks for another year I shall take my own life.”
 
 ## S4 E1 — 1. Where There's a Will, There's a Way (1)
 URL: https://watchwiththekids.com/ep/fresh-prince/0401.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “He says it's time for me to leave the nest, become independent and have sex with girls.”
-  - [Moderate] “You'll be hooked up tomorrow.”
+  - [Caution] “He says it's time for me to leave the nest, become independent and have sex with girls.”
+  - [Caution] “You'll be hooked up tomorrow.”
   - [Mild] “Safe sex, mind you, but lots of it.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] “As far as I'm concerned, she's just a man with breasts.”
@@ -716,7 +716,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0402.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “He says it's time for me to leave the nest, become independent and have sex with girls.”
+  - [Caution] “He says it's time for me to leave the nest, become independent and have sex with girls.”
   - [Mild] “Then I have to nail you with a sexual-harassment suit like the Anita Hill thing in reverse.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “No skinny-dipping.”
@@ -729,11 +729,11 @@ Watch for:
   - [Mild] “We're running out of books for Psych 157 the study of human sexuality.”
   - [Mild] “Let's get some people who have a personal philosophy that is rooted in, oh, I don't know, sex.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “Western Pornography.”
+  - [Too much] “Western Pornography.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “Yeah, and I'm sure my wife has a really good reason for cheating on me.”
+  - [Caution] “Yeah, and I'm sure my wife has a really good reason for cheating on me.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Make it one of your demands when you climb the bell tower with a rifle.”
+  - [Caution] “Make it one of your demands when you climb the bell tower with a rifle.”
 
 ## S4 E4 — 4. Father of the Year
 URL: https://watchwiththekids.com/ep/fresh-prince/0404.html
@@ -747,13 +747,13 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0405.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] “Three kings and a virgin.”
-  - [Moderate] “What was that all about? - Carlton lost his virginity.”
-  - [Moderate] “Haven't you learned anything from your experience last night? You want me to sleep with him? Carlton, I'm saying when you want something, go for it.”
-  - [Moderate] “Of all the students in all the universities in all the world, she had to sleep with me.”
-  - [Moderate] “Maybe if I didn't play you so much about being a virgin maybe you would've took things a little slower.”
+  - [Caution] “Three kings and a virgin.”
+  - [Caution] “What was that all about? - Carlton lost his virginity.”
+  - [Caution] “Haven't you learned anything from your experience last night? You want me to sleep with him? Carlton, I'm saying when you want something, go for it.”
+  - [Caution] “Of all the students in all the universities in all the world, she had to sleep with me.”
+  - [Caution] “Maybe if I didn't play you so much about being a virgin maybe you would've took things a little slower.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “You did a porno movie? Montreal, site of the 1976 Olympics where some athletes become heroes to their countries and where one man became the shame of a nation.”
+  - [Too much] “You did a porno movie? Montreal, site of the 1976 Olympics where some athletes become heroes to their countries and where one man became the shame of a nation.”
 
 ## S4 E6 — 6. Will Goes a-Courtin'
 URL: https://watchwiththekids.com/ep/fresh-prince/0406.html
@@ -764,14 +764,14 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Yes! This will be a good one for the cocktail parties, Philip.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Hit the bricks, you little tramp!”
+  - [Caution] “Hit the bricks, you little tramp!”
 
 ## S4 E7 — 7. Hex and the Single Guy
 URL: https://watchwiththekids.com/ep/fresh-prince/0407.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “So if I hook up with some babe tonight, I promise to practice safe hex.”
+  - [Caution] “So if I hook up with some babe tonight, I promise to practice safe hex.”
 
 ## S4 E8 — 8. Blood is Thicker Than Mud
 URL: https://watchwiththekids.com/ep/fresh-prince/0408.html
@@ -780,7 +780,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “She really hasn't been the same since she had that sex change.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “We're Lambda Kappa Nu Our blood is very blue Our money's old Our cards are gold And who the heck are you? Where's, like, a big gong when you need one, you know? Make way for the brothers of Phi Beta Gamma.”
+  - [Caution] “We're Lambda Kappa Nu Our blood is very blue Our money's old Our cards are gold And who the heck are you? Where's, like, a big gong when you need one, you know? Make way for the brothers of Phi Beta Gamma.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “…tell you how We study, study, study For professional careers We drink a lot of Ovaltine But never any beers Revenge of the Nerds: Part Six.”
 
@@ -797,9 +797,9 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0410.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “I'm afraid he's gonna cheat on his diet.”
+  - [Caution] “I'm afraid he's gonna cheat on his diet.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Cholesterol is gathering in his arteries stopping the blood flow like rush-hour gridlock.”
+  - [Caution] “Cholesterol is gathering in his arteries stopping the blood flow like rush-hour gridlock.”
 - Fat-shaming — 3 moment(s)
   - [Mild] “I mean, hey, I'm getting tired of the fat jokes myself.”
   - [Mild] “Guess I'm not getting as tired of those fat jokes as I thought, huh? I'm worried about you, Daddy.”
@@ -825,17 +825,17 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0413.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Yo, me and this kid are definitely blood.”
+  - [Caution] “Yo, me and this kid are definitely blood.”
 
 ## S4 E14 — 14. Sleepless in Bel-Air
 URL: https://watchwiththekids.com/ep/fresh-prince/0414.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Like the murderous muggers and thugs that hang around movie theaters after hours.”
+  - [Too much] “Like the murderous muggers and thugs that hang around movie theaters after hours.”
   - [Mild] “The second definition of throttle is, "To strangle, choke.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] “Yes, perhaps the scent of sea breeze will recall some painful memory for him, and then he'll commit suicide.”
+  - [Too much] “Yes, perhaps the scent of sea breeze will recall some painful memory for him, and then he'll commit suicide.”
 
 ## S4 E15 — 15. Who's the Boss
 URL: https://watchwiththekids.com/ep/fresh-prince/0415.html
@@ -846,9 +846,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “"Dedicated to the premise that weathercaster Hilary Banks is a boob.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “Come back when I'm on a break, all right? Excuse me, may I cut in? Carlton, what are you doing? This is a sports bar, man.”
+  - [Caution] “Come back when I'm on a break, all right? Excuse me, may I cut in? Carlton, what are you doing? This is a sports bar, man.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Hey, give me back my gun.”
+  - [Caution] “Hey, give me back my gun.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Look, I particularly recommend the shrimpy cocktail.”
 
@@ -857,37 +857,37 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0416.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Let's just get guns.”
+  - [Caution] “Let's just get guns.”
 
 ## S4 E17 — 17. When You Hit Upon a Star
 URL: https://watchwiththekids.com/ep/fresh-prince/0417.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Hilary, don't you think you're overreacting just a tad? Sleep with one eye open.”
+  - [Caution] “Hilary, don't you think you're overreacting just a tad? Sleep with one eye open.”
 - Nudity & bodies — 3 moment(s)
   - [Mild] “Please, she put her bra on one cup at a time just like everybody else.”
   - [Mild] “Oh, no, You are not bringing a naked woman into my house.”
   - [Mild] “She don't come in naked.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “Now we have music for my stripper.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “Now we have music for my stripper.”
 
 ## S4 E18 — 18. Stop Will! In the Name of Love
 URL: https://watchwiththekids.com/ep/fresh-prince/0418.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “No, but if I wanna have sex, I do not need your approval.”
+  - [Caution] “No, but if I wanna have sex, I do not need your approval.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “That'll be cool unless the church group shut that place down, you know? - And afterwards? - Well, I was thinking we'd run some guns to Nicaragua but we'll probably just come home.”
+  - [Caution] “That'll be cool unless the church group shut that place down, you know? - And afterwards? - Well, I was thinking we'd run some guns to Nicaragua but we'll probably just come home.”
 
 ## S4 E19 — 19. You'd Better Shop Around
 URL: https://watchwiththekids.com/ep/fresh-prince/0419.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “" Yeah, right before they say, "And I'll never have sex with him.”
+  - [Caution] “" Yeah, right before they say, "And I'll never have sex with him.”
 - Violence & injury — 1 moment(s)
   - [Mild] “Oh, really? You ever been beat up by a woman? Not without having paid for it.”
 
@@ -910,8 +910,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Except there wasn't no naked honeys.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Oh, young blood.”
-  - [Moderate] “Yeah, young blood.”
+  - [Caution] “Oh, young blood.”
+  - [Caution] “Yeah, young blood.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] “We wasted four hours traveling around this stupid mountain.”
   - [Mild] “Kind of looked like the beer commercials.”
@@ -937,7 +937,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0424.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “I'll buy Will a plane ticket to Maine and that way you could hook up and have the summer together.”
+  - [Caution] “I'll buy Will a plane ticket to Maine and that way you could hook up and have the summer together.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I just wish I hadn't wasted my money buying this stupid present.”
 
@@ -946,7 +946,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0425.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “He says it's time for me to leave the nest, become independent and have sex with girls.”
+  - [Caution] “He says it's time for me to leave the nest, become independent and have sex with girls.”
   - [Mild] “Safe sex, mind you, but lots of it.”
 
 ## S4 E26 — 26. The Philadelphia Story
@@ -954,11 +954,11 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0426.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] “I do know one thing, Will a bad smell isn't worth a mouthful of bloody Chicklets.”
+  - [Caution] “I do know one thing, Will a bad smell isn't worth a mouthful of bloody Chicklets.”
   - [Mild] “We got beat up plenty of times protecting your rep.”
   - [Mild] “How about that? You so ugly, when you was born the doctor just slapped both your parents.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Not you too, Dick.”
+  - [Caution] “Not you too, Dick.”
   - [Mild] “What, just because you're not going to some fancy resort somewhere that means you can't have a good time? It is a damn shame when people are spoiled by money.”
 
 ## S5 E1 — 1. What's Will Got to Do with It? (1)
@@ -966,7 +966,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0501.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “I mean, Mother, you watch my show, am I too soft-spoken? Hilary - I got music in my blood.”
+  - [Caution] “I mean, Mother, you watch my show, am I too soft-spoken? Hilary - I got music in my blood.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm sorry you wasted your time, Mr.”
 - Fat-shaming — 1 moment(s)
@@ -1002,19 +1002,19 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0505.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] “And what were you doing in Alabama? I witnessed a murder.”
-  - [Explicit] “You ain't witnessed no murder.”
-  - [Explicit] JAZZ: “Your woman was murdered? WILL: Can I finish? JAZZ: My fault, go ahead.”
-  - [Moderate] “You bring the groom, I'll bring the shotgun.”
+  - [Too much] “And what were you doing in Alabama? I witnessed a murder.”
+  - [Too much] “You ain't witnessed no murder.”
+  - [Too much] JAZZ: “Your woman was murdered? WILL: Can I finish? JAZZ: My fault, go ahead.”
+  - [Caution] “You bring the groom, I'll bring the shotgun.”
 
 ## S5 E6 — 6. Will's Misery
 URL: https://watchwiththekids.com/ep/fresh-prince/0506.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “You're so desperate to get over, you gonna go out on your own blood.”
+  - [Caution] “You're so desperate to get over, you gonna go out on your own blood.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] “Oh, sweetheart Tell me, sir, do I wash that or take a weed whacker to it? CARLTON: So, what are you talking about? WILL: What is? Carlton, quick, get a bat, let's bust this piñata.”
+  - [Caution] “Oh, sweetheart Tell me, sir, do I wash that or take a weed whacker to it? CARLTON: So, what are you talking about? WILL: What is? Carlton, quick, get a bat, let's bust this piñata.”
 
 ## S5 E7 — 7. Father Knows Best
 URL: https://watchwiththekids.com/ep/fresh-prince/0507.html
@@ -1026,18 +1026,18 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0508.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “What is this? Uncle Phil was feeling a little gun-shy about his grooves.”
+  - [Caution] “What is this? Uncle Phil was feeling a little gun-shy about his grooves.”
 
 ## S5 E9 — 9. Love Hurts
 URL: https://watchwiththekids.com/ep/fresh-prince/0509.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Hey, so - We gonna hook up at the bowling alley? - Oh, yeah.”
+  - [Caution] “Hey, so - We gonna hook up at the bowling alley? - Oh, yeah.”
 - Violence & injury — 1 moment(s)
   - [Mild] “Wait a minute, this guy will let me punch him 10 times for 40 dollars? Mention this ad, and he'll throw in a head butt.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] IN CHINESE ACCENT.
+  - [Too much] IN CHINESE ACCENT.
 
 ## S5 E10 — 10. Will's Up a Dirt Road
 URL: https://watchwiththekids.com/ep/fresh-prince/0510.html
@@ -1070,7 +1070,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0513.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “First numbness, then the sensation of needles on skin finally, right before death, violent spasms as your blood freezes and your heart locks up.”
+  - [Caution] “First numbness, then the sensation of needles on skin finally, right before death, violent spasms as your blood freezes and your heart locks up.”
 
 ## S5 E14 — 14. It's a Wonderful Lie
 URL: https://watchwiththekids.com/ep/fresh-prince/0514.html
@@ -1082,8 +1082,8 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0515.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] “Then some maniac pulls a gun and all the rules change.”
-  - [Moderate] “What is that? It's a gun.”
+  - [Caution] “Then some maniac pulls a gun and all the rules change.”
+  - [Caution] “What is that? It's a gun.”
   - [Mild] “What's up, Nicky? [WILL MAKES PUNCHING NOISE.]”
   - [Mild] “Looks like somebody beat him to it.”
 
@@ -1097,14 +1097,14 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0517.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Yeah, yeah, Horny.”
+  - [Caution] “Yeah, yeah, Horny.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “It's that thong underwear you bought me for Christmas.”
 - Violence & injury — 2 moment(s)
   - [Mild] “A fistfight? No, we used bats.”
   - [Mild] “We beat up this old couple.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “Your daddy is so fat that when he went to school he sat next to everybody.”
+  - [Caution] “Your daddy is so fat that when he went to school he sat next to everybody.”
 
 ## S5 E18 — 18. The Wedding Show (Psyche!)
 URL: https://watchwiththekids.com/ep/fresh-prince/0518.html
@@ -1113,7 +1113,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “If you don't sign this form exonerating Hilary, I'll sue you for sexual harassment.”
 - Swearing — 6 moment(s)
-  - [Moderate] “Who's that? Who's the dick who's a sex machine to all the chicks? - Shaft? - You're damn right.”
+  - [Caution] “Who's that? Who's the dick who's a sex machine to all the chicks? - Shaft? - You're damn right.”
   - [Mild] “Wow, then you're gonna think ours sucks.”
   - [Mild] “Oh, what the hell was I thinking? [PHIL LAUGHS.]”
   - [Mild] “Moneybags? What do you mean by disturbing my family this early? You call 5:30 early? Hell, the day is half gone.”
@@ -1134,7 +1134,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0520.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “See, Joan was having an affair with Carlos right behind her husband's back.”
+  - [Caution] “See, Joan was having an affair with Carlos right behind her husband's back.”
 
 ## S5 E21 — 21. Save the Last Trance for Me
 URL: https://watchwiththekids.com/ep/fresh-prince/0521.html
@@ -1179,9 +1179,9 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0525.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “She had sex with all of them? She did? Man, it just gets worse and worse.”
+  - [Caution] “She had sex with all of them? She did? Man, it just gets worse and worse.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “But personally, I think the guy's a lowlife slug whose whole sexual identity is an extension of his big, stupid gun.”
+  - [Caution] “But personally, I think the guy's a lowlife slug whose whole sexual identity is an extension of his big, stupid gun.”
   - [Mild] “Can he take a punch? [WILL LAUGHS.]”
 
 ## S6 E1 — 1. Burnin' Down the House
@@ -1191,7 +1191,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Hey, G, imagine a dude so desperate that he'll pay for sex.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Because murderers, they're felons, and felons, they can't be judges.”
+  - [Too much] “Because murderers, they're felons, and felons, they can't be judges.”
 
 ## S6 E2 — 2. Get a Job
 URL: https://watchwiththekids.com/ep/fresh-prince/0602.html
@@ -1207,8 +1207,8 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0603.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “They gave me the wink and the gun.”
-  - [Moderate] “When they give you the wink and the gun that means: "Hey, you're our man.”
+  - [Caution] “They gave me the wink and the gun.”
+  - [Caution] “When they give you the wink and the gun that means: "Hey, you're our man.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What do you think? I think it's too good to be wasted on the hired help.”
 
@@ -1217,9 +1217,9 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0604.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Maybe I'll see you again? - Yeah, we should hook up.”
+  - [Caution] “Maybe I'll see you again? - Yeah, we should hook up.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “We gonna get some strippers or something.”
+  - [Too much] “We gonna get some strippers or something.”
 
 ## S6 E5 — 5. The Script Formerly Known As
 URL: https://watchwiththekids.com/ep/fresh-prince/0605.html
@@ -1228,9 +1228,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “" Thad? That's a pretty sexy-sounding name.”
 - Violence & injury — 4 moment(s)
-  - [Moderate] “My own flesh and blood.”
-  - [Moderate] “Um Technically, Uncle Phil, I'm not really your flesh and blood.”
-  - [Moderate] “I don't know if there's a knife that could cut as deeply.”
+  - [Caution] “My own flesh and blood.”
+  - [Caution] “Um Technically, Uncle Phil, I'm not really your flesh and blood.”
+  - [Caution] “I don't know if there's a knife that could cut as deeply.”
   - [Mild] YELPING AND MAKING SLAPPING SOUNDS.
 
 ## S6 E6 — 6. Not, I Barbecue
@@ -1241,30 +1241,30 @@ Watch for:
   - [Mild] “Naked women bumping and grinding on strangers' laps? And the way them guys just sat there and took it.”
   - [Mild] “All right, baby, you're the breast Best! Best! I said best! CARLTON: No.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “Stripper Gram.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “Stripper Gram.”
 
 ## S6 E7 — 7. Not With My Cousin You Don't
 URL: https://watchwiththekids.com/ep/fresh-prince/0607.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] “What did Daddy say when you told him? - Are you kidding? He still thinks I'm a virgin.”
-  - [Moderate] “: If you and Derek have sex you'll be the first one in our group to lose her virginity.”
-  - [Moderate] “Need I remind you there are demons out there that go by the name of: Sexually transmitted diseases, risk of pregnancy improper use of a condom? - You'd have us do nothing? - I didn't say we ain't gonna do nothing.”
-  - [Moderate] “You said that you needed to have a license to have sex and that I couldn't even take the test until I was 35.”
+  - [Caution] “What did Daddy say when you told him? - Are you kidding? He still thinks I'm a virgin.”
+  - [Caution] “: If you and Derek have sex you'll be the first one in our group to lose her virginity.”
+  - [Caution] “Need I remind you there are demons out there that go by the name of: Sexually transmitted diseases, risk of pregnancy improper use of a condom? - You'd have us do nothing? - I didn't say we ain't gonna do nothing.”
+  - [Caution] “You said that you needed to have a license to have sex and that I couldn't even take the test until I was 35.”
   - [Mild] “And last night, the subject came up about, um uh, sex.”
   - [Mild] “You remember the first time I asked you about sex? You panicked then too.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “"Whatever will be, will be"? What kind of devil-may-care message is that? - The slut.”
+  - [Caution] “"Whatever will be, will be"? What kind of devil-may-care message is that? - The slut.”
 
 ## S6 E8 — 8. Viva Lost Wages
 URL: https://watchwiththekids.com/ep/fresh-prince/0608.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Cheyenne Indians used to take a young brave and leave him in the desert and he'd have to fend for himself with nothing but a knife.”
-  - [Moderate] “I don't know where none of them at, you know, you know, but I'm gonna go ahead and get my knife.”
+  - [Caution] “Cheyenne Indians used to take a young brave and leave him in the desert and he'd have to fend for himself with nothing but a knife.”
+  - [Caution] “I don't know where none of them at, you know, you know, but I'm gonna go ahead and get my knife.”
 
 ## S6 E9 — 9. There's the Rub (1)
 URL: https://watchwiththekids.com/ep/fresh-prince/0609.html
@@ -1292,7 +1292,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0612.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Moderate] “Gore-Tex, breathable.”
+  - [Caution] “Gore-Tex, breathable.”
   - [Mild] “Sneaking punches at me.”
   - [Mild] “Well, at least I didn't get beat up by a girl.”
   - [Mild] “Oh, my God, you're here to beat up a girl? Oh.”
@@ -1303,7 +1303,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0613.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “He must be on a break, huh? Will, this is no time for tomfoolery.”
+  - [Caution] “He must be on a break, huh? Will, this is no time for tomfoolery.”
 
 ## S6 E14 — 14. Breaking Up is Hard to Do (1)
 URL: https://watchwiththekids.com/ep/fresh-prince/0614.html
@@ -1312,7 +1312,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Just invite them all over and we all just get butt-naked right here.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “I'm intelligent and competent and I can handle my own affairs.”
+  - [Caution] “I'm intelligent and competent and I can handle my own affairs.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Geoffrey, what do you know about wine? I know no one does it better than you, Miss Hilary.”
   - [Mild] “I'm going out with a wine connoisseur tonight and I really want to impress him.”
@@ -1334,7 +1334,7 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0617.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Will, just for my edification, what plant would that be now? Carlton, did you hear what I said? You just can't get over the fact that there's a couple new guns in town.”
+  - [Caution] “Will, just for my edification, what plant would that be now? Carlton, did you hear what I said? You just can't get over the fact that there's a couple new guns in town.”
 
 ## S6 E18 — 18. Hare Today...
 URL: https://watchwiththekids.com/ep/fresh-prince/0618.html
@@ -1348,12 +1348,12 @@ URL: https://watchwiththekids.com/ep/fresh-prince/0619.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “See? Now, we had all our dressing rooms hooked up to match our personalities, you know? And this here is James' personality.”
+  - [Caution] “See? Now, we had all our dressing rooms hooked up to match our personalities, you know? And this here is James' personality.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “You mean like naked-bikini-model bloopers.”
 - Swearing — 5 moment(s)
-  - [Moderate] DICK LAUGHING.
-  - [Moderate] “I'm sorry, Dick.”
+  - [Caution] DICK LAUGHING.
+  - [Caution] “I'm sorry, Dick.”
   - [Mild] “Look, I will not be publicly embarrassed by, um, um, a problem of me remembering my damn lines.”
   - [Mild] “It won't happen, damn it.”
   - [Mild] “Hey, Ta, listen, all right? - Now, I don't play that crap! TATYANA: No.”
@@ -1382,8 +1382,8 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “We're just pleased as punch to have you aboard, pretty lady.”
 - Swearing — 4 moment(s)
-  - [Moderate] “I'm Dick West.”
-  - [Moderate] “Bill, Bill, Bill, I'm Dick West.”
+  - [Caution] “I'm Dick West.”
+  - [Caution] “Bill, Bill, Bill, I'm Dick West.”
   - [Mild] “You broke my damn tooth.”
   - [Mild] “Damn it, Jim.”
 
@@ -1394,7 +1394,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “" Are you experiencing mood swings? Trouble sleeping? Do your breasts ache? I am not going through menopause.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] “Dude killed himself? - Quite.”
+  - [Too much] “Dude killed himself? - Quite.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Hey, are all the other munchkins as funny as you? - Champagne.”
   - [Mild] “Great, I love champagne.”

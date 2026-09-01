@@ -9,7 +9,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0101.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] (Fires the grappling hook up at the ceiling; it catches and pulls her up) Grappling hook!
+  - [Caution] (Fires the grappling hook up at the ceiling; it catches and pulls her up) Grappling hook!
 - Violence & injury — 2 moment(s)
   - [Mild] With Steve biting her sweater arm) Let go of me! (Punches Steve off
   - [Mild] Mabel elbow punches a gnome off. Shmebulock jumps up behind Dipper, who grabs him and slams him into the steering wheel out of annoyance.
@@ -27,13 +27,13 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0103.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 11 moment(s)
-  - [Explicit] (Starts quacking, the subtitles read:) Accident, constable? Or is it...Murder?!
-  - [Explicit] Wax Stan! He's been... m-murdered! (Clock bongs three times)
-  - [Explicit] There were a lot of unhappy customers at the unveiling. (Looks at the bulletin board with pictures of suspects) The murderer could have been anyone.
-  - [Explicit] Furious enough, for murder!
-  - [Explicit] We're heading into town right now to interrogate the murderer.
-  - [Explicit] Wait a minute, what has a hole on its shoes and no fingerprints? Mabel! The murderers are
-  - [Moderate] It's Mabel. (Takes microphone) Thank you for coming! I made this sculpture with my own two hands! (Throws up her arms) It's covered in my blood, sweat, tears, and other fluids!
+  - [Too much] (Starts quacking, the subtitles read:) Accident, constable? Or is it...Murder?!
+  - [Too much] Wax Stan! He's been... m-murdered! (Clock bongs three times)
+  - [Too much] There were a lot of unhappy customers at the unveiling. (Looks at the bulletin board with pictures of suspects) The murderer could have been anyone.
+  - [Too much] Furious enough, for murder!
+  - [Too much] We're heading into town right now to interrogate the murderer.
+  - [Too much] Wait a minute, what has a hole on its shoes and no fingerprints? Mabel! The murderers are
+  - [Caution] It's Mabel. (Takes microphone) Thank you for coming! I made this sculpture with my own two hands! (Throws up her arms) It's covered in my blood, sweat, tears, and other fluids!
   - [Mild] (Punches a pole) In your face!
   - [Mild] Jokingly punches Stan
   - [Mild] Flashback to Manly Dan punching the pole.
@@ -44,7 +44,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0104.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Oh hey man. Sorry for accusing you of murder last week.
+  - [Too much] Oh hey man. Sorry for accusing you of murder last week.
   - [Mild] Dipper, Mabel, and Soos start cheering and Dipper says that the tiger's a hero. On TV, the tiger punches itself.
   - [Mild] (Playfully punches and hugs Dipper) Oh, thank you thank you thank you!
   - [Mild] Dipper and Gideon scream. Gideon slaps Dipper and the two start slapping each other and then start screaming again. Mabel, who is holding the mystic amulet, levitates the two of them and then floats down.
@@ -54,8 +54,8 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0105.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
-  - [Explicit] No! (Screams as a stabbing sound is heard)
-  - [Moderate] Sorry kid, I'll ride shotgun alright?
+  - [Too much] No! (Screams as a stabbing sound is heard)
+  - [Caution] Sorry kid, I'll ride shotgun alright?
   - [Mild] Nate punches Lee; He laughs
   - [Mild] Okay just, before we go, my mom said you guys aren't allowed to punch the roof anymore, so...
   - [Mild] (Punches roof) Thompson! Thompson! Thompson!
@@ -66,7 +66,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0106.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] I have three Y chromosomes, six adam's apples, pecs on my abs and FISTS FOR NIPPLES!
+  - [Too much] I have three Y chromosomes, six adam's apples, pecs on my abs and FISTS FOR NIPPLES!
 - Violence & injury — 4 moment(s)
   - [Mild] The smell of jerky summoned me! JERKY! (Punches a tree down and smashes a rock against his head) YEAH!! Ha ha! Heh. (Starts sniffing the air and then smells Dipper) I smell... emotional issues!
   - [Mild] I DON'T LIKE YOUR FACE! (Punches other manotaur)
@@ -96,7 +96,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] (Gives Mabel fork and knife) And you'll be needin' these.
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Ooooooohhhhhhh! (picks him up) Your face is so fat!
+  - [Caution] Ooooooohhhhhhh! (picks him up) Your face is so fat!
 
 ## S1 E10 — Fight Fighters
 URL: https://watchwiththekids.com/ep/gravity-falls/0110.html
@@ -123,8 +123,8 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0112.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] (Picks up a big barrel of fake blood) Ha ha! When the children come to my door tonight, they're gonna run away screaming from Stan Pines, Master of Fright! (Turns, faces a baby) Boo.
-  - [Moderate] (Holding leaking container of fake blood) Uh-oh. Think this one's leaking!
+  - [Caution] (Picks up a big barrel of fake blood) Ha ha! When the children come to my door tonight, they're gonna run away screaming from Stan Pines, Master of Fright! (Turns, faces a baby) Boo.
+  - [Caution] (Holding leaking container of fake blood) Uh-oh. Think this one's leaking!
 
 ## S1 E13 — Boss Mabel
 URL: https://watchwiththekids.com/ep/gravity-falls/0113.html
@@ -141,7 +141,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Well, take this! (Hits a button but hits himself in the eye) Ow! And this! (Punches himself again) Ow! It hurts. I wish this was working better. And this! Aw, dude! (Knocks himself down)
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Oh, and I do. You see, I lied to you. In addition I've been parking in handicapped spaces, shoplifting fireworks and smuggling endangered animals across multiple state lines. Also, you're fat.
+  - [Caution] Oh, and I do. You see, I lied to you. In addition I've been parking in handicapped spaces, shoplifting fireworks and smuggling endangered animals across multiple state lines. Also, you're fat.
 
 ## S1 E15 — The Deep End
 URL: https://watchwiththekids.com/ep/gravity-falls/0115.html
@@ -163,7 +163,7 @@ Watch for:
   - [Mild] Free meal... (Pulls a knife and a fork out of his beard)
   - [Mild] (Comes up from behind Soos with fork and knife) I'll still eat ya.
 - Fat-shaming — 1 moment(s)
-  - [Moderate] I said, uh, shut up old man! You're fat and dumb and you're a dummy and, take that! (Lightly punches Stan on the arm)
+  - [Caution] I said, uh, shut up old man! You're fat and dumb and you're a dummy and, take that! (Lightly punches Stan on the arm)
 
 ## S1 E17 — Boyz Crazy
 URL: https://watchwiththekids.com/ep/gravity-falls/0117.html
@@ -179,14 +179,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] He's a fat, naked, jerk.
 - Violence & injury — 6 moment(s)
-  - [Explicit] From heck's heart I stab at thee!! (Stabs at the pterodactyl)
+  - [Too much] From heck's heart I stab at thee!! (Stabs at the pterodactyl)
   - [Mild] So I said, (imagining growing huge muscles and tearing off his shirt) "No dice, cowboy!" And I started punching him right in the face! But he played dirty...
   - [Mild] You punched the pterodactyl in the face? I thought you didn't even believe in the supernatural.
   - [Mild] C'mon, Grunkle Stan, you can handle it! You punched a pterodactyl in the face, remember?
   - [Mild] Looking up, the adult pterodactyl is flying around and a punching sound is heard.
   - [Mild] Ah, well. I can't have my favorite niece not talking to me. (Leans on a tree with sap on it) And if I gotta leap onto a pterodactyl and punch him in the face, then that's what I gotta do.
 - Swearing — 1 moment(s)
-  - [Moderate] snorts and cocks head
+  - [Caution] snorts and cocks head
 
 ## S1 E19 — Dreamscaperers
 URL: https://watchwiththekids.com/ep/gravity-falls/0119.html
@@ -223,7 +223,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0202.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] It's cool, it's cool. It's just blood, man; don't freak out.
+  - [Caution] It's cool, it's cool. It's just blood, man; don't freak out.
   - [Mild] Two! (Punches symbol)
 
 ## S2 E3 — The Golf War
@@ -231,7 +231,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0203.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Uh, I don't know, guys. I'm not sure I wanna get involved in your weird mini-blood feud.
+  - [Caution] Uh, I don't know, guys. I'm not sure I wanna get involved in your weird mini-blood feud.
   - [Mild] Guys, this is amazing! If Mabel gets a hole in one here, she'll beat her all-time high score!
   - [Mild] Soos, would it be wrong to punch a child?
   - [Mild] Yeah! If you beat her at this, she could never rag on you again. Imagine it!
@@ -262,7 +262,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0206.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Drives into the machine) The origin of life. The meaning of existence. Why dudes have nipples. (He presses a button, making the machine glow
+  - [Too much] Drives into the machine) The origin of life. The meaning of existence. Why dudes have nipples. (He presses a button, making the machine glow
 - Violence & injury — 4 moment(s)
   - [Mild] Punches several hands before one grabs his face
   - [Mild] Hands are slapping Stan.
@@ -274,7 +274,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0207.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] (A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous.
+  - [Caution] (A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous.
   - [Mild] There, there. (Pulls ray gun out of the box. The members pull down their hoods.) You won't be like "Bwaaa?" for much longer.
   - [Mild] What is that gizmo? It looks like a hair dryer. Are you guys barbers? (The Lead Member zaps her with the gun.) AAAAAH!
 
@@ -298,7 +298,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0209.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 6 moment(s)
-  - [Explicit] Cut to the inside of the house. There is a glass coffin with a corpse in it. On top of it is a tray of crackers and grapes. Mr. Valentino grabs the tray and approaches Mabel, who is sitting on the couch.
+  - [Too much] Cut to the inside of the house. There is a glass coffin with a corpse in it. On top of it is a tray of crackers and grapes. Mr. Valentino grabs the tray and approaches Mabel, who is sitting on the couch.
   - [Mild] In case you forgot, your stupid brother is the one who ruined my LIFE!!! (Robbie furiously tosses the spray can, shuriken, and combat army knife at the dartboard to unveil a picture of Dipper
   - [Mild] (Punches Thompson's mailbox and recoils) Ugh. Ow!
   - [Mild] Punches illusion of boy) Ugh. Ha! You really think we'd fall for that? (Looks at Mabel, who is surrounded by the remaining illusions
@@ -310,8 +310,8 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0210.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Aah! (Screams as blood dripping from above, gasps, looks up)
-  - [Moderate] Blood swells from the mouths of the stuffed animal heads on the walls. Dipper and Pacifica shout as the fire bursts out of the fireplace.
+  - [Caution] Aah! (Screams as blood dripping from above, gasps, looks up)
+  - [Caution] Blood swells from the mouths of the stuffed animal heads on the walls. Dipper and Pacifica shout as the fire bursts out of the fireplace.
   - [Mild] Ugh, it's like this collar is strangling me. Who do you guys think you're impressing with this stuff?
   - [Mild] Prepare the panic room. (Punches stuffed squirrel off of his shoulder)
 
@@ -320,14 +320,14 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0211.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Swearing — 1 moment(s)
-  - [Moderate] Several agents rappel out of a helicopter. Cut to the Mystery Shack attic, where agents crash in and cock their weapons.
+  - [Caution] Several agents rappel out of a helicopter. Cut to the Mystery Shack attic, where agents crash in and cock their weapons.
 
 ## S2 E12 — A Tale of Two Stans
 URL: https://watchwiththekids.com/ep/gravity-falls/0212.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 9 moment(s)
-  - [Explicit] And so the Murder Hut was born!
+  - [Too much] And so the Murder Hut was born!
   - [Mild] Punch each other and laugh
   - [Mild] Ha ha! Good thing you've got your smarts, Poindexter. I've got the other thing. What is it called? Oh, right, punching! (punches through a board; looks at his hand, which now has splinters all over it) Cool. Splinters!
   - [Mild] Punches him in the face
@@ -362,8 +362,8 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0215.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
-  - [Moderate] So can I go on a mission to get that hair? Please please please? I'LL GIVE YOU MY BLOOD!
-  - [Moderate] Montage: “Mabel donates three pints of blood, then faints.”
+  - [Caution] So can I go on a mission to get that hair? Please please please? I'LL GIVE YOU MY BLOOD!
+  - [Caution] Montage: “Mabel donates three pints of blood, then faints.”
   - [Mild] …so many good deeds, I'll have the purest heart in Gravity Falls! (Pumps fist in the air and accidentally punches a bird out of the air which opens Wendy's, Candy's, and Grenda's mouth as a form of minor shock for…
   - [Mild] (Wendy then punches and rubs her left fist against her right hand as a way of signaling a violent gesture)
   - [Mild] (Backing away) Why were you really scanning my thoughts? (Aims Memory Gun at Ford) Are you Bill right now?!
@@ -375,10 +375,10 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0216.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] You know, I'm going on a break. You wanna take the sky tram up to Widow's Peak?
+  - [Caution] You know, I'm going on a break. You wanna take the sky tram up to Widow's Peak?
 - Violence & injury — 5 moment(s)
-  - [Moderate] Maybe it's the blood pooling in my head, but Dipper seems different. (Groans as her forehead turns purple)
-  - [Moderate] runs to shotgun seat) Whooo! Change up! (yells as she pushes Dipper out of the seat and into the back seat
+  - [Caution] Maybe it's the blood pooling in my head, but Dipper seems different. (Groans as her forehead turns purple)
+  - [Caution] runs to shotgun seat) Whooo! Change up! (yells as she pushes Dipper out of the seat and into the back seat
   - [Mild] playfully:) You are the worst. (softly punches Dipper
   - [Mild] He-hey! (punches Dipper's shoulder) Look at this little champion!
   - [Mild] Truth is, I've been divorced once, and slapped more times than I can remember.
@@ -393,14 +393,14 @@ Watch for:
   - [Mild] Now come. Take this. (throws Dipper a magnet gun)
   - [Mild] When confirmation of extraterrestrials still had that punch.
 - Swearing — 1 moment(s)
-  - [Moderate] Also, if it touches you it will seal up all the orifices in your face, (cocks gun) so try to avoid that.
+  - [Caution] Also, if it touches you it will seal up all the orifices in your face, (cocks gun) so try to avoid that.
 
 ## S2 E18 — Weirdmageddon (1)
 URL: https://watchwiththekids.com/ep/gravity-falls/0218.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
-  - [Moderate] …which some are calling "Weirdmageddon," or the "Oddpocalypse." Weather today calls for black clouds, blood rain and frequent showers of Eyeball Bats turning people into stone.
+  - [Caution] …which some are calling "Weirdmageddon," or the "Oddpocalypse." Weather today calls for black clouds, blood rain and frequent showers of Eyeball Bats turning people into stone.
   - [Mild] We punch what we DON'T UNDERSTAND!! (Rips open mailbox)
   - [Mild] Ha! Freedom! Freedom to PUNCH! (Punches the air)
   - [Mild] (Gasps when he sees Gideon's painting, which is a torn paper with a knife in it and "Revenge" written on it and "Love" written next to a picture of Mabel; the man sighs) Gideon…
@@ -412,7 +412,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0219.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] (Slaps Soos' drink away as he is about to drink from it) That punch is probably blood!
+  - [Caution] (Slaps Soos' drink away as he is about to drink from it) That punch is probably blood!
   - [Mild] Oh, don't worry, man! I've got ya- (Screams as face is punched out by Wendy)
   - [Mild] Punch open the doors
 
@@ -421,7 +421,7 @@ URL: https://watchwiththekids.com/ep/gravity-falls/0220.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 10 moment(s)
-  - [Moderate] Robbie, would you be a dear and get us the sawed-off shotgun?
+  - [Caution] Robbie, would you be a dear and get us the sawed-off shotgun?
   - [Mild] Question, does it have any gun-swords? I watch a lot of anime and, uh, trust me, you're gonna want some gun-swords.
   - [Mild] Operate arms, punching away Paci-Fire and Kryptos
   - [Mild] Punches, causing the T-rex head to lunge at Bill. It bites Bill's eye and pulls back, ripping the eye out of its socket.

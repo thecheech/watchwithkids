@@ -10,8 +10,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Princess Bumblegum's latest experiment accidentally unleashes an undead horde upon the Candy Kingdom.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Finn picks up a serving platter and open the lid, revealing a Candy Person corpse.
-  - [Explicit] Mr. Cream Puff's corpse starts to glow and overflow with the fizzing serum.
+  - [Too much] Finn picks up a serving platter and open the lid, revealing a Candy Person corpse.
+  - [Too much] Mr. Cream Puff's corpse starts to glow and overflow with the fizzing serum.
 
 ## S1 E2 — Trouble in Lumpy Space
 URL: https://watchwiththekids.com/ep/adventure-time/0102.html
@@ -53,7 +53,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake go on a quest for the titular magical book that would prove them worthy of being righteous heroes. After passing through a series of trials and tribulations, Finn acquires the legendary book.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Finn punches the beast until it bursts, gushes blood, and its body falls to the ground
+  - [Caution] Finn punches the beast until it bursts, gushes blood, and its body falls to the ground
   - [Mild] Finn runs up and punches Key-per in the stomach
 
 ## S1 E6 — The Jiggler
@@ -62,7 +62,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: A strange creature attracted by Finn's auto-tuned singing voice follows the duo to their home and they keep him as a pet. Soon, however, the creature begins to show signs of sickness, and Finn and Jake realize the creature needs the love and attention of its mother. They then return it to its nest.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Finn: “We took this child away from its mama, Jake. We're kidnappers and murderers! I just wanted to have fun and jiggle!”
+  - [Too much] Finn: “We took this child away from its mama, Jake. We're kidnappers and murderers! I just wanted to have fun and jiggle!”
 
 ## S1 E7 — Ricardio the Heart Guy
 URL: https://watchwiththekids.com/ep/adventure-time/0107.html
@@ -72,7 +72,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Ricardio: “You were right all along, Finn! Now I'm going to cut out Princess Bubblegum's heart and make out with it!”
 - Violence & injury — 5 moment(s)
-  - [Explicit] Finn: “He's on the move! Let's roll! [The two swing onto a Guardian of the Royal Promise.] I see 'im. He's holding rope and going into the trash. He's smashing bottles—and pretending to stab someone!”
+  - [Too much] Finn: “He's on the move! Let's roll! [The two swing onto a Guardian of the Royal Promise.] I see 'im. He's holding rope and going into the trash. He's smashing bottles—and pretending to stab someone!”
   - [Mild] Finn punches Ricardio, knocking him down. Princess Bubblegum enters.
   - [Mild] Princess Bubblegum: “Finn... you shouldn't punch brainiacs. You know how fragile they are! You gotta stop this jealous business.”
   - [Mild] Finn: “[Slapping hand away] Agh! Come on, Jake! [They run to the Candy Castle.] Gotta save the princess!”
@@ -84,7 +84,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn and Jake fall victim to their own laziness when they delegate their adventuring responsibilities to a group of businessmen they thawed from an iceberg. Eventually, the businessmen's efficiency causes them to become hazards to others, and they are refrozen into an iceberg.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Jake: “Ahh. I'm so fat, dude; I don't know what to do.”
+  - [Caution] Jake: “Ahh. I'm so fat, dude; I don't know what to do.”
 
 ## S1 E9 — My Two Favorite People
 URL: https://watchwiththekids.com/ep/adventure-time/0109.html
@@ -118,8 +118,8 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake search the land of Ooo for a new home after a vampire queen named Marceline claims the duo's treehouse as her own. Eventually, Marceline relents, because she thinks Finn and Jake are "cool".
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Jake: “Yes way, it did. And also the vampire hunched over its victims and breathed their vaporized blood mist.”
-  - [Moderate] Finn: “[afraid] Are you gonna smash my skull and breathe my blood mist?!”
+  - [Caution] Jake: “Yes way, it did. And also the vampire hunched over its victims and breathed their vaporized blood mist.”
+  - [Caution] Finn: “[afraid] Are you gonna smash my skull and breathe my blood mist?!”
   - [Mild] Finn: “[Screams; runs up to her and punches her in the face]”
 
 ## S1 E13 — City of Thieves
@@ -128,11 +128,11 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake, in hopes of helping a little girl named Penny get back her stolen basket, enter into a city where everyone is a thief, and become slowly corrupted by their surroundings.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Finn: “This good deed we did has purified us once again. We're virgin islands! [Cherubs fly from off-screen, playing a trumpet and a harp. They steal the swords from Finn that he stole earlier.]”
+  - [Caution] Finn: “This good deed we did has purified us once again. We're virgin islands! [Cherubs fly from off-screen, playing a trumpet and a harp. They steal the swords from Finn that he stole earlier.]”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Jake: “Woah, dude. Why are you naked? [Finn is shown wearing nothing but his pack, underpants, shoes, and hat.]”
 - Violence & injury — 6 moment(s)
-  - [Explicit] Finn: “He sees the remains of the King of Thieves.] The King of Thieves! [to the corpse] Sorry to trespass, I just...”
+  - [Too much] Finn: “He sees the remains of the King of Thieves.] The King of Thieves! [to the corpse] Sorry to trespass, I just...”
   - [Mild] Jake: “And then I'm gonna beat your purity outta them. [lightly punches Finn] And then beat a sandwich into them! [grunts while throwing air punches] And then beat them to the punch! And then punch 'em!”
   - [Mild] Finn punches Mr. Turtle. When Crossbow Guy lands, Two-Headed Thief steals his crossbow.
   - [Mild] Penny puts the chest down. She pulls out a black crooked knife.
@@ -145,7 +145,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: After Jake steals one of the Witch's donuts, she steals Jake's powers and won't give them back unless he apologizes to her. During a series of events trying to find a way to get Jake's powers back, Finn's life is then held on the line, but will Jake's new laziness get the best of him?
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Jake: “And what gives? [Pointing to his nipple] I used to have like eight more of these things.”
+  - [Too much] Jake: “And what gives? [Pointing to his nipple] I used to have like eight more of these things.”
 - Violence & injury — 1 moment(s)
   - [Mild] Finn: “[Choking] You're... strangling me... a little, is all.”
 
@@ -155,7 +155,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn creates a Never-Ending Pie-Throwing Robot (Neptr) to prank Jake, but it unexpectedly comes to life! Yet when he decides to use some of the Ice King's power to further develop it, this ultimately leads to a moral dilemma for the new living machine.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Finn: “Thanks, guys. Your blood-oath is fulfilled.”
+  - [Caution] Finn: “Thanks, guys. Your blood-oath is fulfilled.”
 
 ## S1 E16 — Ocean of Fear
 URL: https://watchwiththekids.com/ep/adventure-time/0116.html
@@ -185,7 +185,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Jake: “Oh, my... [makes out with the sandwich]”
 - Violence & injury — 3 moment(s)
-  - [Moderate] Finn punches him, the Demon Cat's eyes fill up with blood
+  - [Caution] Finn punches him, the Demon Cat's eyes fill up with blood
   - [Mild] Finn: “…chests! [treasure chest is actually a mimic monster, Finn laughs, jumps away as the creature tries to punch him, then the creature vomits gold, coins, doubloons, and rings and rubies]”
   - [Mild] Finn: “…again, go flying] Come on! All aboard the knuckle train to fist planet! [jumps up, but Bucket Knight punches him far, bruising him really badly]”
 
@@ -215,8 +215,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Finn and Jake see a bullying ogre named Donny, they help him turn his life around, unaware of the ecological consequences of their action.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Why-wolf: “Creatures possessed by the spirit of inquiry..... [Growling voice] AND... BLOODLUST!!”
-  - [Moderate] Why-wolf: “[Growling voice] TONIGHT, WE FEAST ON THE BLOOD OF THE INNOCENTS!”
+  - [Caution] Why-wolf: “Creatures possessed by the spirit of inquiry..... [Growling voice] AND... BLOODLUST!!”
+  - [Caution] Why-wolf: “[Growling voice] TONIGHT, WE FEAST ON THE BLOOD OF THE INNOCENTS!”
   - [Mild] He and the Girl With Glasses House do so. The wolf growls at the Dog House, and Finn punches him.
 
 ## S1 E22 — Henchman
@@ -225,7 +225,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn takes the place of Marceline's henchman, and he finds out how hard it is to obey her strange ways.
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Explicit] Finn: “I'm gonna murder you.”
+  - [Too much] Finn: “I'm gonna murder you.”
   - [Mild] Marceline: “Hey, Finn, I need you to strangle some pixies.”
   - [Mild] Marceline: “Whoa, why are you being so casual about that? Strangling pixies is some hardcore evil.”
   - [Mild] Marceline: “Oh, just an old diving buddy. [Jake emerges from the bushes.] [Jokingly] So, you ready to go strangle some pixies?”
@@ -258,9 +258,9 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Finn summons the Lord of Evil to reconcile with his daughter, Marceline the Vampire Queen, but ends up unleashing him on the unsuspecting land.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Finn: “[Flying upwards] NO ONE FLICKS ME IN THE BUTT WITHOUT MY CONSENT!!! [Descends and stabs the Lord of Evil in the head.”
-  - [Explicit] Finn stabs the Lord of Evil's soul sack with two swords making him scream in pain; the souls are released. Finn drops down and repeats the summoning process.
-  - [Explicit] Marceline: “How could you embarrass me like that and then stab my dad?!”
+  - [Too much] Finn: “[Flying upwards] NO ONE FLICKS ME IN THE BUTT WITHOUT MY CONSENT!!! [Descends and stabs the Lord of Evil in the head.”
+  - [Too much] Finn stabs the Lord of Evil's soul sack with two swords making him scream in pain; the souls are released. Finn drops down and repeats the summoning process.
+  - [Too much] Marceline: “How could you embarrass me like that and then stab my dad?!”
   - [Mild] Marceline: “Huh? Finn, you messed the beat up!”
 
 ## S2 E2 — The Eyes
@@ -269,7 +269,7 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: One night, an exhausted Finn and Jake are creeped out by an odd-looking horse that mysteriously appears outside the treehouse and keeps them awake. They try everything they can think of to get rid of the freaky horse, but nothing seems to work.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Jake: “Not gonna be able to sleep with that horse watchin' me.”
+  - [Caution] Jake: “Not gonna be able to sleep with that horse watchin' me.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Jake: “[gasps] He was! Did you find out that I sleep "in the nude"?”
   - [Mild] Jake: “It's none of your business how nude I sleep, Ice King! Nnnnone of your business!”
@@ -297,7 +297,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Naked Old People”
 - Violence & injury — 4 moment(s)
-  - [Moderate] This article is a transcript of the Adventure Time episode "Blood Under the Skin" from season 2, which aired on November 1, 2010.
+  - [Caution] This article is a transcript of the Adventure Time episode "Blood Under the Skin" from season 2, which aired on November 1, 2010.
   - [Mild] Finn: “Hey guys! Check this out! Dude, hit me! [Jake punches Finn on the arm] Oww! [Holding his arm] On my armor!”
   - [Mild] Jake: “Oh. [Punches thimble]”
   - [Mild] Finn: “Never! Yaaaaaaah! [Finn runs up to the monster ghost, tries to punch him but goes through him]”
@@ -317,13 +317,13 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: A lonely snail lookin' for love literally crashes into the treehouse and asks Finn and Jake for help. Now our heroes must teach this snail how to get a girlfriend before he destroys their home!
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Finn: “Right! All right, man. We'll help you hook up as long as you”
+  - [Caution] Finn: “Right! All right, man. We'll help you hook up as long as you”
   - [Mild] Jake: “I don't know why they have to make out so close to our house.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Snail Lady #4: Oh, my gosh! He's naked!
   - [Mild] Snorlock: “What? I'm naked? But I've never had a shell.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Finn: “[Preforms stabbing motions and flips] Yah! yah! yah! yah! Yaaaah! hyah!”
+  - [Too much] Finn: “[Preforms stabbing motions and flips] Yah! yah! yah! yah! Yaaaah! hyah!”
 
 ## S2 E7 — Power Animal
 URL: https://watchwiththekids.com/ep/adventure-time/0207.html
@@ -359,7 +359,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake volunteer for a dangerous assignment: carrying rare tarts for a meeting of Ooo royalty.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Finn: “No, man, they are cold-blooded tart destroyers and we have to get them before they get us.”
+  - [Caution] Finn: “No, man, they are cold-blooded tart destroyers and we have to get them before they get us.”
   - [Mild] Bandit Butterfly: “Right the bazoobs now! [Pulls out his laser gun]”
   - [Mild] Jake: “Finn, he's got a laser gun!”
 
@@ -401,7 +401,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After Finn deposes the spank-happy king of Goblins, he becomes the king of goblins to prevent strife. But they and their strange rules prove not to his liking.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Jake: “[Immediately falls asleep. A lion and a goose sleep with him.]”
+  - [Caution] Jake: “[Immediately falls asleep. A lion and a goose sleep with him.]”
 - Violence & injury — 2 moment(s)
   - [Mild] Finn: “[Deflects a fireball with his sword] Wands are for wimps! [punches Xergiok outside]”
   - [Mild] Whisper Dan: “[Cranks a wheel, which in turn cuts the bed in half with a giant knife. Some hands spring out of the wall to hold the top half above the bottom half.]”
@@ -412,9 +412,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn, who has to give a speech at Princess Bubblegum's science barbecue, seeks a quick fix to make himself smarter. However, he does so by getting a pair of glasses with very strange effects.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Finn: “MEAT!! WAH!! [He knocks some steaks onto the fire then stabs a bunch of them so that they cling to his sword.] DIE, YOU FIRE!!! [He puts out the fire by piling the steaks on it.]”
-  - [Explicit] Finn stabs the device, turning his sword into a fourth-dimensional object.
-  - [Moderate] Professor Worm: “And when I finally meet the Werewolf Queen, she will take me on as her royal consort and we will rule in blood!”
+  - [Too much] Finn: “MEAT!! WAH!! [He knocks some steaks onto the fire then stabs a bunch of them so that they cling to his sword.] DIE, YOU FIRE!!! [He puts out the fire by piling the steaks on it.]”
+  - [Too much] Finn stabs the device, turning his sword into a fourth-dimensional object.
+  - [Caution] Professor Worm: “And when I finally meet the Werewolf Queen, she will take me on as her royal consort and we will rule in blood!”
 
 ## S2 E16 — Guardians of Sunshine
 URL: https://watchwiththekids.com/ep/adventure-time/0216.html
@@ -431,7 +431,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After accidentally killing Princess Bubblegum's beloved plant, Finn and Jake travel to the land of the dead to bring it back to life.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Camera pans out to reveal she is talking to a group of vegetables that are hooked up to electronic devices. Princess Bubblegum sighs.
+  - [Caution] Camera pans out to reveal she is talking to a group of vegetables that are hooked up to electronic devices. Princess Bubblegum sighs.
 - Violence & injury — 4 moment(s)
   - [Mild] Finn: “And then the monster got punched in the head and the princess was safe. And everyone was happy!”
   - [Mild] Jake stretches himself and Finn over to the escalator in front of a skeleton with a knife in it’s skull.
@@ -444,7 +444,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Having always believed he is the only human left in the Land of Ooo, Finn believes he has discovered a tribe to primitive humans living underground.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Finn: “Aw, Susan... You got grass blood all over your face. [Tries to wipe her with handkerchief]”
+  - [Caution] Finn: “Aw, Susan... You got grass blood all over your face. [Tries to wipe her with handkerchief]”
   - [Mild] Jake: “That's just a rock. [Punching it away] A low-level enemy.”
 
 ## S2 E19 — Mystery Train
@@ -453,13 +453,13 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: While traveling on a train, Finn and Jake find themselves in the middle of a murder mystery.
 Watch for:
 - Violence & injury — 8 moment(s)
-  - [Explicit] Finn: “Are you kidding? It's a murder mystery! On a train! [Squeezes his hat's ears] And we're gonna solve it.”
-  - [Explicit] Finn: “No, in murder mysteries it's never the first person you think of. Never ever.”
-  - [Explicit] Finn: “Anyway, it's still not him. [Turns and walks down the cabin hallway.]] No. The murderer is right here among us. [Walks to Doctor Donut]] Isn't that right, Doctor?”
-  - [Explicit] Finn: “When Candy Cane guy was murdered, you diverted suspicion to Colonel Candy Corn. [Crosses arms] Then killed him to protect your alibi.”
-  - [Explicit] Jake: “Me neither! [Raises arms quizzically and then crosses them.] Maybe the murderer is just too smart for us.”
-  - [Explicit] Jake: “You were so focused on the murders because you never even noticed!”
-  - [Explicit] Finn: “So nobody was murdered?”
+  - [Too much] Finn: “Are you kidding? It's a murder mystery! On a train! [Squeezes his hat's ears] And we're gonna solve it.”
+  - [Too much] Finn: “No, in murder mysteries it's never the first person you think of. Never ever.”
+  - [Too much] Finn: “Anyway, it's still not him. [Turns and walks down the cabin hallway.]] No. The murderer is right here among us. [Walks to Doctor Donut]] Isn't that right, Doctor?”
+  - [Too much] Finn: “When Candy Cane guy was murdered, you diverted suspicion to Colonel Candy Corn. [Crosses arms] Then killed him to protect your alibi.”
+  - [Too much] Jake: “Me neither! [Raises arms quizzically and then crosses them.] Maybe the murderer is just too smart for us.”
+  - [Too much] Jake: “You were so focused on the murders because you never even noticed!”
+  - [Too much] Finn: “So nobody was murdered?”
   - [Mild] Finn: “Hmm... We need hard [Punches fist] evidence!”
 
 ## S2 E20 — Go With Me
@@ -468,7 +468,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Jake and Marceline give Finn conflicting advise on how to ask out Princess Bubblegum.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Marceline: “The only thing women like more than fun is excitement! She needs to feel her blood pump, man! She needs to... be chased by wolves!”
+  - [Caution] Marceline: “The only thing women like more than fun is excitement! She needs to feel her blood pump, man! She needs to... be chased by wolves!”
 
 ## S2 E21 — Belly of the Beast
 URL: https://watchwiththekids.com/ep/adventure-time/0221.html
@@ -476,12 +476,12 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Finn and Jake must save a group of clueless, party-minded teddy bears living inside the belly of a monster.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Cubby: “Sure. He sleeps on the monster's heart. It's like a blood waterbed.”
+  - [Caution] Cubby: “Sure. He sleeps on the monster's heart. It's like a blood waterbed.”
   - [Mild] Finn and Jake get out of bed and walk to the window. They see the monster roar, punch the ground, and run into the forest.
   - [Mild] They run outside while cheering and run up to the monster, who starts punching the ground around them.
   - [Mild] Finn starts hacking at the monster with his sword while Jake punches it. The monster tries to grab and punch them but misses. They stop fighting when they hear a voice from inside the monster.
 - Swearing — 1 moment(s)
-  - [Moderate] Mark Banker Dick Grunert Patrick McHale Kent Osborne Pendleton Ward
+  - [Caution] Mark Banker Dick Grunert Patrick McHale Kent Osborne Pendleton Ward
 
 ## S2 E22 — The Limit
 URL: https://watchwiththekids.com/ep/adventure-time/0222.html
@@ -489,7 +489,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: An enormous maze tests the limit of Jake's stretching power.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Jake continues laughing as a sinister looking scorpion lands on his 'nerp' and viciously stabs him with its stinger.
+  - [Too much] Jake continues laughing as a sinister looking scorpion lands on his 'nerp' and viciously stabs him with its stinger.
   - [Mild] The golem punches at the adventurers. Jake dodges, flinging the Hot Dog Knights of his body, and Finn is knocked over.
   - [Mild] Jake punches the scorpion as many more fall out of three holes in the labyrinth wall. The scorpions start stinging the Hot Dog Knights.
 - Alcohol & drugs — 1 moment(s)
@@ -527,9 +527,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Finn and Jake ask Marceline the Vampire Queen to turn them into vampires. However, she isn't interested in transforming her friends and tricks them into thinking she has.
 Watch for:
 - Violence & injury — 7 moment(s)
-  - [Moderate] Booboo: “Don't you feel a little hungry...for blood?”
-  - [Moderate] Jake: “Yeah, I could go for some blood.”
-  - [Moderate] Marceline: “Relax, guys. You can satisfy your bloodlust without killing. Look. [She drains the red from the apple until it is pale.] You just eat the color. Here, Jake. You try. [She hands the other apple to Jake.]”
+  - [Caution] Booboo: “Don't you feel a little hungry...for blood?”
+  - [Caution] Jake: “Yeah, I could go for some blood.”
+  - [Caution] Marceline: “Relax, guys. You can satisfy your bloodlust without killing. Look. [She drains the red from the apple until it is pale.] You just eat the color. Here, Jake. You try. [She hands the other apple to Jake.]”
   - [Mild] Jake: “We're invisible! [He punches Finn in the stomach.]”
   - [Mild] Finn: “You're invisible! [He punches Jake in the stomach.]”
   - [Mild] Finn: “Uh... [He shrieks in horror as one of the ghosts puts a mouth on his head. Jake tries to punch the ghosts' mouths away, but one gets him from behind.] Georgy, what's wrong? Jake, what's happening?”
@@ -541,7 +541,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: The duo choose to partake in gladiatorial combat against the Fight King's ghost warriors, but Finn succumbs to blood-lust while Jake becomes obsessed in keeping a cool morale.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Fight King: “Then step forth beyond the Moonlight seal to bathe in blood and glory forever.”
+  - [Caution] Fight King: “Then step forth beyond the Moonlight seal to bathe in blood and glory forever.”
   - [Mild] Finn: “[chuckles] I'mma beat you with your own thing. Give it up! [Finn slaps Hyperion's hand] Hah-hah! [Hyperion punches Finn in the face.] Ooomph!”
   - [Mild] Jake: “Yeah. I lives. Finn, come with me, man. [Finn suddenly turns around and throws a punch at Jake. Jake stretches back.] Whoa! Dude?”
   - [Mild] Finn: “This next take-down is for you, my king! Rahhh... [gets punched by Triumphus] Heh-heh-heh.”
@@ -578,8 +578,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: The king and queen of Lumpy Space ask Finn and Jake to bring their daughter back home. At the same time, they attempt to stop a "monster" from destroying a village.
 Watch for:
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Lumpy Space Princess: “You guys! [floats over to the middle of the cave] TONY, JESSICA'S CHEATING ON YOU!”
-  - [Moderate] Lumpy Space Princess: “[slaps Jessica] No, Jessica! Don't cheat on Tony with me!”
+  - [Caution] Lumpy Space Princess: “You guys! [floats over to the middle of the cave] TONY, JESSICA'S CHEATING ON YOU!”
+  - [Caution] Lumpy Space Princess: “[slaps Jessica] No, Jessica! Don't cheat on Tony with me!”
 
 ## S3 E7 — Still
 URL: https://watchwiththekids.com/ep/adventure-time/0307.html
@@ -601,7 +601,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn, Jake, BMO, Marceline, and Princess Bubblegum must come together and play music as a genuine band in order to open the gate of the Door Lord and retrieve their stolen items.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Marceline: “...To bury you in the ground... and drink the blood from your... Ugh!”
+  - [Caution] Marceline: “...To bury you in the ground... and drink the blood from your... Ugh!”
   - [Mild] The scene changes, the Door Lord has been beaten up and tied up
 
 ## S3 E11 — Apple Thief
@@ -610,7 +610,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Tree Trunks' apples go missing, she, Finn and Jake descend into the dark side of the Candy Kingdom in order to find the thief.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] The three enter the tavern. A Candy Person at the bar repeatedly stabs his hand with a spoon, and an angry cookie shakes.
+  - [Too much] The three enter the tavern. A Candy Person at the bar repeatedly stabs his hand with a spoon, and an angry cookie shakes.
   - [Mild] Jaybird: “[punches Finn's forehead] Liars! Come on, Smudge [walks off] [mumbling] ...gonna take my apples.”
   - [Mild] Banana Guard: “She slapped my butt!”
 
@@ -620,9 +620,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn, Jake, and some friends attend a dinner with a mysterious host. However, the host then reveals himself as a murderous ghost that will possess the body of one guest to kill everyone else. The night turns from a masquerade party into a terrifying whodunit as the guests start to get murdered one by one.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Finn: “By the time you finish reading this, I will posses one of you and use your body to murder everyone in the house.”
-  - [Explicit] Finn: “One of us is possessed by a murderer. And if we want to stay alive, we have to figure out who's hiding a ghost inside their mortal body.”
-  - [Explicit] Jake: “Let's find some candles. If the lights go out again, we'll be able to catch the murderer!”
+  - [Too much] Finn: “By the time you finish reading this, I will posses one of you and use your body to murder everyone in the house.”
+  - [Too much] Finn: “One of us is possessed by a murderer. And if we want to stay alive, we have to figure out who's hiding a ghost inside their mortal body.”
+  - [Too much] Jake: “Let's find some candles. If the lights go out again, we'll be able to catch the murderer!”
   - [Mild] Jake: “It won't open! [He taps the door with his left hand, enlarges his right and punches the door. He then holds his hand in pain.]”
 
 ## S3 E13 — From Bad to Worse
@@ -654,9 +654,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Jake: “Are you naked?”
 - Violence & injury — 7 moment(s)
-  - [Explicit] Wildberry Princess: “I found this note stabbed to my door... man. [Lifts up a note from the Guild of Assassins with a knife pierced through it]”
-  - [Explicit] Me-Mow: “If you say anything, I'll stab you in the brain!”
-  - [Moderate] Wildberry Guard #1: We saw your crown next to a pile of dirtied meat, then we skipped on the meat and I thought I tasted your juice, but it was just blood from the meat. We're so glad it wasn't actually you!
+  - [Too much] Wildberry Princess: “I found this note stabbed to my door... man. [Lifts up a note from the Guild of Assassins with a knife pierced through it]”
+  - [Too much] Me-Mow: “If you say anything, I'll stab you in the brain!”
+  - [Caution] Wildberry Guard #1: We saw your crown next to a pile of dirtied meat, then we skipped on the meat and I thought I tasted your juice, but it was just blood from the meat. We're so glad it wasn't actually you!
   - [Mild] Jake: “[Punching the meatbag] Eat this! And that! Ooh, how do you like this, Princess! Duoo!”
   - [Mild] Me-mow spits a knife out of her throat, and climbs down a tree, same as previous style. She puts a small cut in Finn's leg
   - [Mild] Me-mow jumps at Finn's face, but he blows her away knocking her into a tree. Finn goes up to pin her to the tree, she puts her knife out and Finn puts his hand on it. He grunts but holds her
@@ -698,7 +698,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn and Jake play Cloud Hunt in Marceline's house, but they get trapped in her closet after she comes home.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jake: “Yeah. Just "Don't go in my house" in all caps... written in blood.”
+  - [Caution] Jake: “Yeah. Just "Don't go in my house" in all caps... written in blood.”
 
 ## S3 E22 — Paper Pete
 URL: https://watchwiththekids.com/ep/adventure-time/0322.html
@@ -714,7 +714,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Finn punches the Cyclops in the eye. The Cyclops starts crying as he screams in pain. Some of the tears fall onto Finn. His clothes are made anew.
 - Sexual insults — 1 moment(s)
-  - [Moderate] Bush: “Listen what I'm telling you. There's no way. ...Ugly tramp.”
+  - [Caution] Bush: “Listen what I'm telling you. There's no way. ...Ugly tramp.”
 
 ## S3 E24 — Ghost Princess
 URL: https://watchwiththekids.com/ep/adventure-time/0324.html
@@ -722,8 +722,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake head into Ghost Princess' Cemetery to find the cause of her death while she finds true love, ultimately revealing her tragic past.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Warrior Princess: “Never! Not even to you, my love!! [They run into each other - Clarence blocks Warrior Princess' spear attack and plunges his sword deep into her with a sickening stabbing sound.] Aaagh...”
-  - [Moderate] Clarence's soul leaves what's left of his body, with Softy Cheese splattered all over the place like blood.
+  - [Too much] Warrior Princess: “Never! Not even to you, my love!! [They run into each other - Clarence blocks Warrior Princess' spear attack and plunges his sword deep into her with a sickening stabbing sound.] Aaagh...”
+  - [Caution] Clarence's soul leaves what's left of his body, with Softy Cheese splattered all over the place like blood.
   - [Mild] Finn: “[Picks up broken dagger] What's this? A busted knife.”
   - [Mild] Finn [In flashback]: Is this your knife, bro?
 
@@ -733,9 +733,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Jake feels conflicted when his father forces him to try and hold Finn back in a dungeon meant to toughen Finn up.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Finn pulls the sword out of the ground and stabs the monster in its crystal eye.
-  - [Moderate] Joshua [On tape]: Alright, boys. Now to give you some incentive, at the end of the dungeon, I'm going to put the Family Sword. It's made out of Demon's Blood.
-  - [Moderate] Just then, the Blood Demon appears behind Joshua in a wall of flames.
+  - [Too much] Finn pulls the sword out of the ground and stabs the monster in its crystal eye.
+  - [Caution] Joshua [On tape]: Alright, boys. Now to give you some incentive, at the end of the dungeon, I'm going to put the Family Sword. It's made out of Demon's Blood.
+  - [Caution] Just then, the Blood Demon appears behind Joshua in a wall of flames.
 
 ## S3 E26 — Incendium
 URL: https://watchwiththekids.com/ep/adventure-time/0326.html
@@ -743,7 +743,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Trying to help Finn get over his hopeless feelings for Princess Bubblegum, Jake sets out to find a new princess for Finn to go out with.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Flambo: “[Whispers] Dude, you gotta pretend like you're of royal blood.”
+  - [Caution] Flambo: “[Whispers] Dude, you gotta pretend like you're of royal blood.”
   - [Mild] Finn [on BMO's camera]: Gold-darn you, tear ducts! Yah! Yah! [punches himself in the eyes.]
   - [Mild] Jake: “Ouw, Finn! [Fake Finn strangles Jake] Finn, Finn, Finn, Finn stop man....”
 
@@ -769,7 +769,7 @@ Watch for:
   - [Mild] Finn runs offscreen; scene shifts to Ed being beaten up by Barb
   - [Mild] Barb punches him a few times and hisses, then crawls over to his body and prepares to bite his head as he doesn't fight back. She is then hit by a tree and the scene shows it was Finn swinging it like a bat
 - Swearing — 2 moment(s)
-  - [Moderate] Dick Grunert Patrick McHale Kent Osborne Pendleton Ward
+  - [Caution] Dick Grunert Patrick McHale Kent Osborne Pendleton Ward
   - [Mild] Ed: “Ugh, yeah. It's not working. My way sucks.”
 
 ## S4 E4 — Dream of Love
@@ -786,11 +786,11 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake find themselves imprisoned in the dark realm of the Nightosphere with no memory of how they came to be there.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Abadeer tries to suck his soul, but Finn stabs him in the head. Black goo starts to squirt out.
-  - [Moderate] Jake: “I think it's like sentient blood mist.”
-  - [Moderate] Finn: “[takes out his sword and goes on top of a rock] Hey, bloodmist cloud! What happened to us? Why can't we remember any—? Oh, it's gone.”
+  - [Too much] Abadeer tries to suck his soul, but Finn stabs him in the head. Black goo starts to squirt out.
+  - [Caution] Jake: “I think it's like sentient blood mist.”
+  - [Caution] Finn: “[takes out his sword and goes on top of a rock] Hey, bloodmist cloud! What happened to us? Why can't we remember any—? Oh, it's gone.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Boat Demon: “Scooch over, fatty.”
+  - [Caution] Boat Demon: “Scooch over, fatty.”
 
 ## S4 E6 — Daddy's Little Monster
 URL: https://watchwiththekids.com/ep/adventure-time/0406.html
@@ -798,10 +798,10 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Continuing their mysterious quest in the Nightosphere, Finn and Jake must rescue their friend Marceline the Vampire Queen.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Hunson: “[Shrinks down and turns into his non-monster state] Now Finn, come on, there's no bad blood here! [Moves around awkwardly] Come here, let's bury the hatchet! [Hugs Finn] See how I'm not killing you?”
+  - [Caution] Hunson: “[Shrinks down and turns into his non-monster state] Now Finn, come on, there's no bad blood here! [Moves around awkwardly] Come here, let's bury the hatchet! [Hugs Finn] See how I'm not killing you?”
   - [Mild] Finn: “Jake, grab the amulet! [Marceline punches him into Jake]”
 - Swearing — 3 moment(s)
-  - [Moderate] Demon: “He starts to burp.] Aw, my stomach! [Cocks head to the side and bananas come out of both ears.]”
+  - [Caution] Demon: “He starts to burp.] Aw, my stomach! [Cocks head to the side and bananas come out of both ears.]”
   - [Mild] Hunson: “[Begins to walk away but remembers something] Oh! I almost forgot! [Takes off the Nightosphere amulet and it sucks his suit into it, he is now wearing underpants and an undershirt.]”
   - [Mild] Marceline: “Dad, you tricked me. [Hunson looks at her innocently] Dad, that sucks!”
 
@@ -819,12 +819,12 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: After an encounter with a Hug Wolf, Finn goes through a Jekyll and Hyde-like transformation, becoming a hug wolf himself.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] The Gumdrop Dad bursts in holding a Candy cane shotgun.
-  - [Moderate] Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
+  - [Caution] The Gumdrop Dad bursts in holding a Candy cane shotgun.
+  - [Caution] Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
   - [Mild] The Alpha Hug Wolf suddenly lunges out and Finn and Jake gasp. She lands next to the duo and punches Finn rather softly.
   - [Mild] Jake stretches his arms and repeatedly punches the ‎Alpha Hug Wolf
 - Swearing — 1 moment(s)
-  - [Moderate] Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
+  - [Caution] Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
 
 ## S4 E9 — Princess Monster Wife
 URL: https://watchwiththekids.com/ep/adventure-time/0409.html
@@ -847,7 +847,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Finn finds and touches a porcelain lamb, it transports him into the spirit world, and only the Ice King can help get him out
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jake: “Kompy's blood lust meter's goin' down.”
+  - [Caution] Jake: “Kompy's blood lust meter's goin' down.”
 
 ## S4 E12 — Gotcha!
 URL: https://watchwiththekids.com/ep/adventure-time/0412.html
@@ -867,8 +867,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake play an epic card game, where Jake becomes overly competitive.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Jake: “Pfff, you got really lame cards. Hmm. I'll take the Cerebral Bloodstorm, though.”
-  - [Moderate] Jake: “Okay, now it's the battle phase. I'm attackin' your schoolhouse with my Husker Knights. [Activates Husker Knights] And I'm castin' Cerebral Bloodstorm! [Does so] So, what'll you use to defend?”
+  - [Caution] Jake: “Pfff, you got really lame cards. Hmm. I'll take the Cerebral Bloodstorm, though.”
+  - [Caution] Jake: “Okay, now it's the battle phase. I'm attackin' your schoolhouse with my Husker Knights. [Activates Husker Knights] And I'm castin' Cerebral Bloodstorm! [Does so] So, what'll you use to defend?”
   - [Mild] BMO: “That's terrible! If Jake loses the game, he gets super depressed! When I beat him, he wouldn't talk to me for a month!”
 
 ## S4 E15 — Sons of Mars
@@ -920,7 +920,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Princess Bubblegum tries to find a way to help the weird and creepy Earl of Lemongrab after he begins to annoy and disturb her people with his disturbing ways.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Princess Bubblegum: “Nope. Only you can see it because you're hooked up to the aura visualizer. But actually I'm lying. We can see everything you see on this screen. Now I'm gonna send that image into Crunchy.”
+  - [Caution] Princess Bubblegum: “Nope. Only you can see it because you're hooked up to the aura visualizer. But actually I'm lying. We can see everything you see on this screen. Now I'm gonna send that image into Crunchy.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Princess Bubblegum: “Wait, Lemongrab, look! [Princess Bubblegum points to the door. A naked Lemongrab clone steps inside]”
 - Violence & injury — 1 moment(s)
@@ -951,7 +951,7 @@ Watch for:
   - [Mild] Finn: “NAKED BABIES! NAKED BABIES! NAKED BABIES!”
   - [Mild] Finn: “NAKED BABIES! NAKED BABIES! NAKED BABIES! [Clears throat] We found 'em! The executioners are the real king killers!”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Furnius: “And most of actual murdersss...”
+  - [Too much] Furnius: “And most of actual murdersss...”
 
 ## S4 E23 — The Hard Easy
 URL: https://watchwiththekids.com/ep/adventure-time/0423.html
@@ -987,7 +987,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn has an unclear premonition involving The Lich and sets out to stop the undead creature.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] The Lich then attacks Billy, stabbing him in his heart as Billy tries to run.
+  - [Too much] The Lich then attacks Billy, stabbing him in his heart as Billy tries to run.
 
 ## S5 E1 — Finn the Human
 URL: https://watchwiththekids.com/ep/adventure-time/0501.html
@@ -998,7 +998,7 @@ Watch for:
   - [Mild] Farmworld Marceline: “[She comes out from behind the missile and cocks her gun] Hold it right there!”
   - [Mild] Farmworld Marceline: “I'm sorry. You must DIEEEE! [A laser beam is fired from the gun]”
 - Swearing — 1 moment(s)
-  - [Moderate] Farmworld Marceline: “[She comes out from behind the missile and cocks her gun] Hold it right there!”
+  - [Caution] Farmworld Marceline: “[She comes out from behind the missile and cocks her gun] Hold it right there!”
 
 ## S5 E2 — Jake the Dog
 URL: https://watchwiththekids.com/ep/adventure-time/0502.html
@@ -1161,7 +1161,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Peppermint Butler thinks Princess Bubblegum is spending too much time in her lab and decides she needs a suitor.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Peppermint Butler and Braco proceed into her lab, where Princess Bubblegum is seen sleeping with a pizza box on her head.
+  - [Caution] Peppermint Butler and Braco proceed into her lab, where Princess Bubblegum is seen sleeping with a pizza box on her head.
 - Violence & injury — 1 moment(s)
   - [Mild] Princess Bubblegum: “[Fires an X-ray gun at Braco].”
 
@@ -1177,7 +1177,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Jake Jr. gets mixed up with some bad eggs and Jake has to reunite with his old gang for one last job to save him.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Tiffany: “[Holding a dynamite] Just like old times, right, Jake? When we were blood, we'd follow each other in the jaws of death on a pale horse.”
+  - [Caution] Tiffany: “[Holding a dynamite] Just like old times, right, Jake? When we were blood, we'd follow each other in the jaws of death on a pale horse.”
 
 ## S5 E25 — Candy Streets
 URL: https://watchwiththekids.com/ep/adventure-time/0525.html
@@ -1185,8 +1185,8 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: LSP is robbed and faints before she can tell Finn and Jake who robbed her.
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Moderate] Finn: “[Finn lifts a wooden log and finds a red substance.] Dude, check this! [Jake walks over.] Is this blood?”
-  - [Moderate] Jake turns into a magnifying glass and looks at the "blood."
+  - [Caution] Finn: “[Finn lifts a wooden log and finds a red substance.] Dude, check this! [Jake walks over.] Is this blood?”
+  - [Caution] Jake turns into a magnifying glass and looks at the "blood."
   - [Mild] He puts his hands in a gun-like position.
   - [Mild] Scene changes to inside of the train. Finn and Jake enter through the back door's window and run to the shady man they saw earlier. Finn has his hands in a gun-like position.
   - [Mild] Jake punches Pete as Finn shakes his head.
@@ -1199,8 +1199,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Finn: “Is PB straight-up naked right now?”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Jake: “[Jake stretches his arms into the cell to fight the criminal. The criminal stabs him with a fork.] Ouch! [The criminal starts laughing.]”
-  - [Explicit] Abracadaniel: “Bubblegum, I hereby challenge you to an honorable prison stabbing to the death!”
+  - [Too much] Jake: “[Jake stretches his arms into the cell to fight the criminal. The criminal stabs him with a fork.] Ouch! [The criminal starts laughing.]”
+  - [Too much] Abracadaniel: “Bubblegum, I hereby challenge you to an honorable prison stabbing to the death!”
 
 ## S5 E27 — Jake Suit
 URL: https://watchwiththekids.com/ep/adventure-time/0527.html
@@ -1310,9 +1310,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn, Jake and Marceline are trapped in an underground cavern with no red in sight. If Marceline doesn't feed, like ASAP, she will turn into a vampiric beast and suck out all of Jake's blood! So, Finn heads off to explore the cave and find something red to satiate her until they can be rescued. But time is running out!
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Jake: “Aah! [cowers] I'm sorry. Please don't eat my blood!”
-  - [Moderate] Jake: “And that will keep you from draining my bloods?”
-  - [Moderate] Marceline grabs Princess Bubblegum and bites her hair, sucking nearly all of her blood in the process due to the feeding frenzy.
+  - [Caution] Jake: “Aah! [cowers] I'm sorry. Please don't eat my blood!”
+  - [Caution] Jake: “And that will keep you from draining my bloods?”
+  - [Caution] Marceline grabs Princess Bubblegum and bites her hair, sucking nearly all of her blood in the process due to the feeding frenzy.
 
 ## S5 E39 — We Fixed a Truck
 URL: https://watchwiththekids.com/ep/adventure-time/0539.html
@@ -1330,11 +1330,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Jake: “A sexy wizard like you goes where he wants!”
 - Violence & injury — 5 moment(s)
-  - [Explicit] Jake: “Finn, I'm ready to murder the Ice King.”
-  - [Moderate] Ice King: “This is Joshua the Dog's Demon Blood Sword.”
-  - [Moderate] Ice King: “Yeah! It's a real demon blood sword.”
-  - [Moderate] ["Do it!!" echoes. Finn breaks the sword using his knee. The sword breaks in half. The bloods rise up.
-  - [Moderate] The bloods go to Kee Oth. He drops Ice King and Abracadaniel. He becomes red and much bigger.
+  - [Too much] Jake: “Finn, I'm ready to murder the Ice King.”
+  - [Caution] Ice King: “This is Joshua the Dog's Demon Blood Sword.”
+  - [Caution] Ice King: “Yeah! It's a real demon blood sword.”
+  - [Caution] ["Do it!!" echoes. Finn breaks the sword using his knee. The sword breaks in half. The bloods rise up.
+  - [Caution] The bloods go to Kee Oth. He drops Ice King and Abracadaniel. He becomes red and much bigger.
 
 ## S5 E41 — The Pit
 URL: https://watchwiththekids.com/ep/adventure-time/0541.html
@@ -1342,9 +1342,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Kee-Oth the Blood Demon has kidnapped Jake, taken him back to his dimension and thrown him in a pit. If Finn wants to rescue his friend, he's going to need Lady Rainicorn's help... and a videotape that will reveal how to open the portal to Kee-Oth's messed-up dimension.
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Explicit] Joshua: “In case I am overtaken by an enemy I need you to retrieve my corpse.”
-  - [Moderate] Kee-Oth: “Now I'm gonna gank your blood the way you ganked mine.”
-  - [Moderate] Kee-Oth steals Jake's blood, which turns into a hat
+  - [Too much] Joshua: “In case I am overtaken by an enemy I need you to retrieve my corpse.”
+  - [Caution] Kee-Oth: “Now I'm gonna gank your blood the way you ganked mine.”
+  - [Caution] Kee-Oth steals Jake's blood, which turns into a hat
   - [Mild] Jake: “You want to get beat up? That's weird. I'm not doin' your weird biz.”
   - [Mild] He dodges as Samantha punches him in the face.
 
@@ -1372,8 +1372,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake decide it's time for Finn to get a new sword. Finn reluctantly buys a grass sword from a mysterious old man, but the sword turns out to be cursed! And unfortunately for our hero, all sales are final.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Finn: “No, man. This sword doesn't seem to have any curse on it, as far as I can tell. [stabs at the air] Hyah!”
-  - [Moderate] The episode begins with Finn and Jake fighting a group of Slider Guys. Finn ineffectually swats at a couple with what is left of his Demon Blood Sword while Jake punches and kicks them away.
+  - [Too much] Finn: “No, man. This sword doesn't seem to have any curse on it, as far as I can tell. [stabs at the air] Hyah!”
+  - [Caution] The episode begins with Finn and Jake fighting a group of Slider Guys. Finn ineffectually swats at a couple with what is left of his Demon Blood Sword while Jake punches and kicks them away.
   - [Mild] Finn: “Stealing candles from old ladies is immoral! [punches them] [kicks another in the face]”
 
 ## S5 E46 — Rattleballs
@@ -1382,7 +1382,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn practices his sword fighting skills at the candy junkyard, where he meets an old gumball robot named Rattleballs. To Finn's shock, he finds out he's NOT the master swordsman he thinks he is. What the what?! Finn begs Rattleballs to train him, but he soon discovers his mentor's deep, dark secret... a secret that will ultimately test Finn's loyalty to Princess Bubblegum.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Rattleballs: “I no longer crave mindless violence. I have found peace in meditation, gardening, egg throwing. I also hope time has made you less bloodthirsty, princess, but do with me as you will. In my heart I still serve you, 100%.”
+  - [Caution] Rattleballs: “I no longer crave mindless violence. I have found peace in meditation, gardening, egg throwing. I also hope time has made you less bloodthirsty, princess, but do with me as you will. In my heart I still serve you, 100%.”
 
 ## S5 E47 — The Red Throne
 URL: https://watchwiththekids.com/ep/adventure-time/0547.html
@@ -1404,7 +1404,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: In Wizard City, a magic spell backfires and turns Ice King back into Simon. Now with Finn, Jake and Marceline's help, Simon finds a way to bring his beloved Betty back. Finally reunited with the love of his life, everything is great! There's just one catch...without his magic crown, Simon will die.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Forest Wizard: “What the blood?! Ice King!”
+  - [Caution] Forest Wizard: “What the blood?! Ice King!”
   - [Mild] Simon: “[punches Ash off his magic carpet] Sorry, man.”
   - [Mild] Betty: “Surprise! [punches, then kicks Bella Noche] Tranch.”
 
@@ -1431,7 +1431,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: In order to find Finn's father, Finn and Jame must commit a cosmic crime...unless the Lich beats them to it.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] The cosmic crime—murdering a Wishmaster—committed, a space hole materializes like a television flickering on in the Time room…
+  - [Too much] The cosmic crime—murdering a Wishmaster—committed, a space hole materializes like a television flickering on in the Time room…
 
 ## S6 E2 — Escape from the Citadel
 URL: https://watchwiththekids.com/ep/adventure-time/0602.html
@@ -1439,8 +1439,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake follow the Lich of the Citadel, where Finn meets his long lost dad. But just how far does the apple fall from the tree?
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Martin: “It's-- It's okay. It's okay. [Finn continues then stops.] You just gotta fetch me a gob of that guardian blood, son. It's got that good nooch that keeps us young in the crystal.”
-  - [Moderate] As the Lich talks, He walks over to Finn and Finn is trying to attack. Weakly, he gets his sword out and falls over while groaning. He falls in the guardian blood.
+  - [Caution] Martin: “It's-- It's okay. It's okay. [Finn continues then stops.] You just gotta fetch me a gob of that guardian blood, son. It's got that good nooch that keeps us young in the crystal.”
+  - [Caution] As the Lich talks, He walks over to Finn and Finn is trying to attack. Weakly, he gets his sword out and falls over while groaning. He falls in the guardian blood.
   - [Mild] Finn: “[He groans while slapping his head across his face, then gets up from the floor.] Jeez, man!”
 
 ## S6 E3 — James II
@@ -1449,7 +1449,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn and Jake discover that Clone James has been faking his own death to collect medals. But there are 25 Jameses running amok!
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Finn: “Heeyah![he attempts stabbing one of the goo monsters with a spear, but the spear melts on contact]Aww!”
+  - [Too much] Finn: “Heeyah![he attempts stabbing one of the goo monsters with a spear, but the spear melts on contact]Aww!”
 
 ## S6 E4 — The Tower
 URL: https://watchwiththekids.com/ep/adventure-time/0604.html
@@ -1476,7 +1476,7 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: With a friendly bee named "Breezy" as his wingman, Finn decides to get back into the dating game.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Breezy: “Get this—I'm actually a virgin queen bee.”
+  - [Caution] Breezy: “Get this—I'm actually a virgin queen bee.”
   - [Mild] Finn: “It's cool. Guess I'll go make out with Crab Princess.”
   - [Mild] Finn: “Ah, well, I came here to make out with Crab Princess, but I sort of lost steam on the walk over.”
 - Violence & injury — 2 moment(s)
@@ -1513,8 +1513,8 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Maja invades the Candy Kingdom with an ancient power in order to capture good emotion to power her magic.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Finn: “Oh, uh! [grunts] Aah! [stabs brain]”
-  - [Moderate] Darren: “I had a dream I was fighting an army that could birth new soldiers from their own blood. I was endless. Does that make sense?”
+  - [Too much] Finn: “Oh, uh! [grunts] Aah! [stabs brain]”
+  - [Caution] Darren: “I had a dream I was fighting an army that could birth new soldiers from their own blood. I was endless. Does that make sense?”
   - [Mild] The pink monsters continue to get blown up by cannonballs. One punches the force field generator and cracks it right before being hit.
 
 ## S6 E11 — Little Brother
@@ -1585,7 +1585,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: A memorial service for Prismo turns into a resurrecting adventure for Finn and Jake in another dimension.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jake: “Uh, because Kee-Oth was right there! A-and there were traps! I didn't have no blood this whole time, so I'm totally out of it. Uuuuuhhh... [faints]”
+  - [Caution] Jake: “Uh, because Kee-Oth was right there! A-and there were traps! I didn't have no blood this whole time, so I'm totally out of it. Uuuuuhhh... [faints]”
 
 ## S6 E20 — Jake The Brick
 URL: https://watchwiththekids.com/ep/adventure-time/0620.html
@@ -1599,9 +1599,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn's aching tooth leaves him with no othe roption but to go to the dentist.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Tiffany: “You will. Anyway, I just kinda wanted your sword 'cause it's pretty cool, I guess. Whatever. I'll get it soon enough... from off your dead corpse, you chump! [laughs]”
-  - [Explicit] Tiffany prepares to stab Finn in the back with a dagger. Finn turns around.
-  - [Explicit] The two reach their worm's head at the same time, and Finn stabs Tiffany's worm in the head.
+  - [Too much] Tiffany: “You will. Anyway, I just kinda wanted your sword 'cause it's pretty cool, I guess. Whatever. I'll get it soon enough... from off your dead corpse, you chump! [laughs]”
+  - [Too much] Tiffany prepares to stab Finn in the back with a dagger. Finn turns around.
+  - [Too much] The two reach their worm's head at the same time, and Finn stabs Tiffany's worm in the head.
   - [Mild] Finn slices off one worm's head, while Tiffany punches and kicks another. The third worm comes up behind Tiffany and prepares to lunge.
 
 ## S6 E22 — The Cooler
@@ -1637,7 +1637,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Lemongrab and Finn go on a journey of discovery through the Mountain of Matthew.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Lemongrab: “It is one option, to know the ecstasy of my ego death.”
+  - [Too much] Lemongrab: “It is one option, to know the ecstasy of my ego death.”
 
 ## S6 E29 — Dark Purple
 URL: https://watchwiththekids.com/ep/adventure-time/0629.html
@@ -1660,7 +1660,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Two different fates await Finn and Jake.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Finn: “[Reaches the top of the ladder and stops.] I'm not trying to escape anymore! [Runs down the shelf] I'm gonna murder your stupid clock, you psycho!”
+  - [Too much] Finn: “[Reaches the top of the ladder and stops.] I'm not trying to escape anymore! [Runs down the shelf] I'm gonna murder your stupid clock, you psycho!”
   - [Mild] He's cut off as Jake stretches his fist, making it gigantic and punching Huge King in the face. Finn laughs as he falls through the air, still in Huge King's hand.
 
 ## S6 E32 — Friends Forever
@@ -1677,7 +1677,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: After a chilling dream encounter, Finn & Jake are determined to reconnect with their reclusive brother.
 Watch for:
 - Violence & injury — 6 moment(s)
-  - [Explicit] Cut to the ceiling, where Ariel stabs an arm down at Jermaine.
+  - [Too much] Cut to the ceiling, where Ariel stabs an arm down at Jermaine.
   - [Mild] Jermaine punches Jake in the face. Jake falls, and Jermaine yells as he jumps on him.
   - [Mild] Jermaine: “[Uppercuts Jake on the chin.] Think I don't want a cushy tree-house life?! [Starts punching Jake repeatedly.] I don't even get salt!”
   - [Mild] Jermaine hangs by his teeth from Jake's butt, growling. Jake's butt extends suddenly, punching Jermaine across the room. Jermaine grunts as he hits the bookshelf, then stands.
@@ -1710,7 +1710,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Naked Wizard”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Magic Man: “Smooth and gray as far as you ​can see. No life grows in me. Nothing to weed. Nothing to seed. Pure and perfect. Like the marble floors of a bank. You slide with no obstacles, forever blank.”
+  - [Caution] Magic Man: “Smooth and gray as far as you ​can see. No life grows in me. Nothing to weed. Nothing to seed. Pure and perfect. Like the marble floors of a bank. You slide with no obstacles, forever blank.”
 
 ## S6 E39 — Be Sweet
 URL: https://watchwiththekids.com/ep/adventure-time/0639.html
@@ -1735,7 +1735,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] The three Koala rebels cock their guns. The other two guards drop their spears and raise their hands in surrender. The small Koala chained to Martin smiles.
 - Swearing — 1 moment(s)
-  - [Moderate] The three Koala rebels cock their guns. The other two guards drop their spears and raise their hands in surrender. The small Koala chained to Martin smiles.
+  - [Caution] The three Koala rebels cock their guns. The other two guards drop their spears and raise their hands in surrender. The small Koala chained to Martin smiles.
 
 ## S6 E42 — Hot Diggity Doom
 URL: https://watchwiththekids.com/ep/adventure-time/0642.html
@@ -1743,7 +1743,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: It's election day in the Candy Kingdom but Princess Bubblegum's attention is diverted by a mysterious presence in the sky.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] King of Ooo: “She says she's not a wild dog thirsty for blood.”
+  - [Caution] King of Ooo: “She says she's not a wild dog thirsty for blood.”
 
 ## S6 E43 — The Comet
 URL: https://watchwiththekids.com/ep/adventure-time/0643.html
@@ -1751,8 +1751,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Finn, Jake and Orgalorg converge with the comet and meet their destiny.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Finn opens his eyes and sees tendrils snaking out of the walls of Orgalorg's insides and stabbing the comet, sucking up its power.
-  - [Explicit] Two tendrils stab into Finn's right arm to absorb the power of the Grass Sword.
+  - [Too much] Finn opens his eyes and sees tendrils snaking out of the walls of Orgalorg's insides and stabbing the comet, sucking up its power.
+  - [Too much] Two tendrils stab into Finn's right arm to absorb the power of the Grass Sword.
 
 ## S7 E2 — Varmints
 URL: https://watchwiththekids.com/ep/adventure-time/0702.html
@@ -1760,12 +1760,12 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When something threatens her homestead's citizens, Bubblegum turns to Marceline for help.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Marceline: “Knock, knock. Yo, Peebs, you want to make a midnight Squeez-E-Mart run? I'm gonna drink the red from out the customers' bloodshot eyes. [chuckles] Psych. I'll probably just get a slushie.”
-  - [Moderate] Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
-  - [Moderate] Princess Bubblegum: “Long as it takes. [shotgun cocks]”
+  - [Caution] Marceline: “Knock, knock. Yo, Peebs, you want to make a midnight Squeez-E-Mart run? I'm gonna drink the red from out the customers' bloodshot eyes. [chuckles] Psych. I'll probably just get a slushie.”
+  - [Caution] Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
+  - [Caution] Princess Bubblegum: “Long as it takes. [shotgun cocks]”
 - Swearing — 2 moment(s)
-  - [Moderate] Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
-  - [Moderate] Princess Bubblegum: “Long as it takes. [shotgun cocks]”
+  - [Caution] Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
+  - [Caution] Princess Bubblegum: “Long as it takes. [shotgun cocks]”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Marceline: “They had these, like, shrimp cocktail dealies.”
 
@@ -1784,7 +1784,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn and Jake's loyalty is questioned when King of Ooo sends the duo on a mission to catch flying mushrooms.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] The episode begins with King of Ooo showing Finn and Jake a surveillance video (while they sit on tiny stools) of a flying mushroom shot in the Candy Kingdom
+  - [Too much] The episode begins with King of Ooo showing Finn and Jake a surveillance video (while they sit on tiny stools) of a flying mushroom shot in the Candy Kingdom
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Finn Jake Canyon King of Ooo Banana Guards Dirt Beer Guy
   - [Mild] King Of Ooo: “I wanna ride it around instead of walking. I think people will respect me more. [Dirt Beer Guy walks by in background] Hey. Hey, you, what's your name?”
@@ -1856,7 +1856,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Finn: “First off, I'm a great fighter. And especially agile when I'm nude, so good luck. Second, my flute improv ain't no secret. I let my grass hand do whatever it wants, which is usually sort of shreddy and busy.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jake: “What the blood are you talking about?”
+  - [Caution] Jake: “What the blood are you talking about?”
 
 ## S7 E25 — The Thin Yellow Line
 URL: https://watchwiththekids.com/ep/adventure-time/0725.html
@@ -1887,7 +1887,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Finn: “I don’t know. It kind of makes me feel… naked. [Finn sees the lard and gasps.]♫♪♪ La-la-la laaaard!♫♪♪”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Finn: “[embarrassed] Uhh.. I definitely knew that. [To Jake, whispering] I’m gonna murder Shelby.”
+  - [Too much] Finn: “[embarrassed] Uhh.. I definitely knew that. [To Jake, whispering] I’m gonna murder Shelby.”
 
 ## S7 E30 — I Am a Sword
 URL: https://watchwiththekids.com/ep/adventure-time/0730.html
@@ -1907,7 +1907,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Stripped of his magic powers, Normal Man enlists Finn and Jake's help to rescue his brother Glob.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Finn: “Come on. Let's bring him inside, you murderler.”
+  - [Too much] Finn: “Come on. Let's bring him inside, you murderler.”
 
 ## S7 E33 — Elemental
 URL: https://watchwiththekids.com/ep/adventure-time/0733.html
@@ -1943,8 +1943,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: During an excavation, Finn, Jake and Susan encounter a mysterious stranger who may hold the key to the past.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] the bloodthirsty killerinstincts of a sea lard.
-  - [Moderate] I've got a blood‐brotherconnection to Jake.
+  - [Caution] the bloodthirsty killerinstincts of a sea lard.
+  - [Caution] I've got a blood‐brotherconnection to Jake.
 
 ## S7 E38 — Reboot
 URL: https://watchwiththekids.com/ep/adventure-time/0738.html
@@ -1955,8 +1955,8 @@ Watch for:
   - [Mild] Net gun fires
   - [Mild] Sorry.[ Net gun fires ]
 - Swearing — 2 moment(s)
-  - [Moderate] Gun cocks, fires
-  - [Moderate] Gun cocks ][ Grunts
+  - [Caution] Gun cocks, fires
+  - [Caution] Gun cocks ][ Grunts
 
 ## S8 E1 — Two Swords
 URL: https://watchwiththekids.com/ep/adventure-time/0801.html
@@ -1992,7 +1992,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When disaster befalls James Baxter, it's up to Finn and Jake to help him pick up the pieces.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Oh.Stab him.
+  - [Too much] Oh.Stab him.
 
 ## S8 E6 — Jelly Beans Have Power
 URL: https://watchwiththekids.com/ep/adventure-time/0806.html
@@ -2000,7 +2000,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Princess Bubblegum's scientific mind must wrestle with her Elemental magic potential when she's faced with a Crystal Entity.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] You sleep with a plate?
+  - [Caution] You sleep with a plate?
 
 ## S9 E1 — Orb
 URL: https://watchwiththekids.com/ep/adventure-time/0901.html
@@ -2031,7 +2031,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Queen of Ooo: “Uhh... Do not look upon a naked mummy. It's bad luck.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] A ghoul emerges from the water and turns into a giant sandwich. Finn slices it with his sword and it evaporates into smoke. Another ghoul turns into an evil pretzel with chainsaw arms, which Finn stabs.
+  - [Too much] A ghoul emerges from the water and turns into a giant sandwich. Finn slices it with his sword and it evaporates into smoke. Another ghoul turns into an evil pretzel with chainsaw arms, which Finn stabs.
   - [Mild] Cake stretches her eye into the keyhole, forms fists and a face on her eye, and punches the pins to pieces.
 
 ## S9 E13 — Whispers
@@ -2049,8 +2049,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn and Fern's carefree visit to some old ruins turns disastrous.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] He scrolls some more and finds a "weed whacker".
-  - [Moderate] The two of them spar. Finn slices into Fern's back with the weed whacker.
+  - [Caution] He scrolls some more and finds a "weed whacker".
+  - [Caution] The two of them spar. Finn slices into Fern's back with the weed whacker.
 
 ## S10 E1 — The Wild Hunt
 URL: https://watchwiththekids.com/ep/adventure-time/1001.html
@@ -2060,8 +2060,8 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] The Grumbo punches Finn away and catapults Huntress Wizard into a wall. The vines binding its legs discorporate.
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] The sound of a weed whacker begins to grow in volume.
-  - [Moderate] The flashback ends. Finn is still poised to strike down the monster. The buzzing of the weed whacker continues.
+  - [Caution] The sound of a weed whacker begins to grow in volume.
+  - [Caution] The flashback ends. Finn is still poised to strike down the monster. The buzzing of the weed whacker continues.
 
 ## S10 E2 — Always BMO Closing
 URL: https://watchwiththekids.com/ep/adventure-time/1002.html
@@ -2115,7 +2115,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jake: “Scared? No way! I'm primitive! I'm real! Ghosts, you can't touch this dog! You've got ethereal hands! I'm alive! I'm filled with hot blood! You'll never see through me! [He bursts into the bathroom again.] Gotcha, ghoul!”
+  - [Caution] Jake: “Scared? No way! I'm primitive! I'm real! Ghosts, you can't touch this dog! You've got ethereal hands! I'm alive! I'm filled with hot blood! You'll never see through me! [He bursts into the bathroom again.] Gotcha, ghoul!”
 
 ## S10 E9 — Blenanas
 URL: https://watchwiththekids.com/ep/adventure-time/1009.html

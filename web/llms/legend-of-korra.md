@@ -32,10 +32,10 @@ Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Korra tries to gain access to the Equalist movement and its secretive leader.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Explicit] The protester squeals as Korra grabs the hem of his shirt and pulls him up. Cut to a side shot of the threesome.
-  - [Explicit] [Frontal shot of the threesome; screaming.] The Avatar's oppressing us. Help!
+  - [Too much] The protester squeals as Korra grabs the hem of his shirt and pulls him up. Cut to a side shot of the threesome.
+  - [Too much] [Frontal shot of the threesome; screaming.] The Avatar's oppressing us. Help!
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 4 moment(s)
   - [Mild] [Close side shot as Korra looks back at Mako.] The Triple Threat Triad? I beat up some of those yahoos when I got into town. Why would Bolin get tangled up wit
   - [Mild] The Avatar throws another fire punch with her left hand, but the chi-blocker leans back to dodge it, knocking Korra's hand to the side.
@@ -63,7 +63,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Korra and Bolin are drinking cocktails with straws.
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Work with me here, Pabu! You wanna look spic and span in your new uniform, don't you? [To Mako.] So, what do you think of Korra, in a "girlfriend" sort of way?
+  - [Too much] Work with me here, Pabu! You wanna look spic and span in your new uniform, don't you? [To Mako.] So, what do you think of Korra, in a "girlfriend" sort of way?
 
 ## S1 E6 — And the Winner is...
 URL: https://watchwiththekids.com/ep/legend-of-korra/0106.html
@@ -71,7 +71,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra prepares for the pro-bending championship while a sense of danger hovers over the arena.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] The Ferret brothers are backed up to zone three and the Wolfbats smell blood.
+  - [Caution] The Ferret brothers are backed up to zone three and the Wolfbats smell blood.
   - [Mild] The camera quickly pans to the left to show Mako throwing two fire punches and a flaming arc with his foot at the camera.
   - [Mild] [Punches his fist into the air.] Yeah!
 
@@ -81,7 +81,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra worries that a friend is secretly aligned with the Equalists.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] She breaks the glass by stabbing the front, missing the Equalist inside who dodges.
+  - [Too much] She breaks the glass by stabbing the front, missing the Equalist inside who dodges.
 
 ## S1 E8 — When Extremes Meet
 URL: https://watchwiththekids.com/ep/legend-of-korra/0108.html
@@ -89,10 +89,10 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Korra quarrels with Councilman Tarrlok in the midst of growing Equalist activity.
 Watch for:
 - Violence & injury — 7 moment(s)
-  - [Moderate] She runs toward him intending to vaporize him, but she is halted by Tarrlok as he begins to perform bloodbending.
-  - [Moderate] [Looks at her arms before looking at Tarrlok with shock, as he continues.] You're, you're a bloodbender?
-  - [Moderate] [Continues to struggle.] It's not a full moon! [He continues to bloodbend.] How- how are you doing this?!
-  - [Moderate] Tarrlok bloodbends her and flings her across the room into a pillar.
+  - [Caution] She runs toward him intending to vaporize him, but she is halted by Tarrlok as he begins to perform bloodbending.
+  - [Caution] [Looks at her arms before looking at Tarrlok with shock, as he continues.] You're, you're a bloodbender?
+  - [Caution] [Continues to struggle.] It's not a full moon! [He continues to bloodbend.] How- how are you doing this?!
+  - [Caution] Tarrlok bloodbends her and flings her across the room into a pillar.
   - [Mild] All right, [Punches palm.] Let's ride.
   - [Mild] She attempts to punch the ice darts away, but one catches her on her side, and she lifts her hands up to protect her head.
   - [Mild] She earthbends, causing Tarrlok to fall to the ground. She jumps off and punches the ground, causing a gigantic hole around her. She looks up at him with anger, breathing heavily.
@@ -103,15 +103,15 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Korra tries to analyze the mysterious visions she's been having. Meanwhile, Tenzin and Beifong look for Equalist hostages.
 Watch for:
 - Violence & injury — 9 moment(s)
-  - [Moderate] But the heated argument quickly turned into an all-out bending battle! Desperate to save himself, Tarrlok revealed his ability to bloodbend and took Korra far from Republic City.
-  - [Moderate] A door at the top of the stairs opens and Tarrlok steps in, using bloodbending to levitate Korra several inches off the ground in front of him.
-  - [Moderate] [Strained, while looking at Tarrlok.] What are you doing? [When Korra is entirely in the box, he releases his bloodbending grip on her, causing her to land, and slams the metal door shut; aggressively.] Tarrlok!
-  - [Moderate] The prosecution's entire case is built upon the make-believe notion that my client is able to bloodbend at will, at any time on any day.
-  - [Moderate] [Looking down.] I was terrified to tell because ... [Looks up.] Because Tarrlok is a bloodbender! [Everyone looks at Tarrlok in shock.] He bloodbent Avatar Korra!
-  - [Moderate] Everyone in the room cries out in pain as Tarrlok bloodbends them to their knees.
-  - [Moderate] [Looks around the chamber.] Ughh! Man! I had this awful dream that Korra was taken by this evil bloodbender. [Mako and Asami look at him.] So weird.
-  - [Moderate] Aang is being bloodbent by Yakone, who is grinning in relish at his own power.
-  - [Moderate] [With difficulty.] Yakone. [Yakone bloodbends his arms behind his back.] You won't get away with this!
+  - [Caution] But the heated argument quickly turned into an all-out bending battle! Desperate to save himself, Tarrlok revealed his ability to bloodbend and took Korra far from Republic City.
+  - [Caution] A door at the top of the stairs opens and Tarrlok steps in, using bloodbending to levitate Korra several inches off the ground in front of him.
+  - [Caution] [Strained, while looking at Tarrlok.] What are you doing? [When Korra is entirely in the box, he releases his bloodbending grip on her, causing her to land, and slams the metal door shut; aggressively.] Tarrlok!
+  - [Caution] The prosecution's entire case is built upon the make-believe notion that my client is able to bloodbend at will, at any time on any day.
+  - [Caution] [Looking down.] I was terrified to tell because ... [Looks up.] Because Tarrlok is a bloodbender! [Everyone looks at Tarrlok in shock.] He bloodbent Avatar Korra!
+  - [Caution] Everyone in the room cries out in pain as Tarrlok bloodbends them to their knees.
+  - [Caution] [Looks around the chamber.] Ughh! Man! I had this awful dream that Korra was taken by this evil bloodbender. [Mako and Asami look at him.] So weird.
+  - [Caution] Aang is being bloodbent by Yakone, who is grinning in relish at his own power.
+  - [Caution] [With difficulty.] Yakone. [Yakone bloodbends his arms behind his back.] You won't get away with this!
 
 ## S1 E10 — Turning the Tides
 URL: https://watchwiththekids.com/ep/legend-of-korra/0110.html
@@ -119,8 +119,8 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Republic City gets bombarded by the Equalists.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] It all makes sense now. That's how Tarrlok was able to bloodbend us without a full moon.
-  - [Moderate] [Defensively.] What? No! She was taken by a crazy bloodbender! How did you expect me to act?
+  - [Caution] It all makes sense now. That's how Tarrlok was able to bloodbend us without a full moon.
+  - [Caution] [Defensively.] What? No! She was taken by a crazy bloodbender! How did you expect me to act?
 
 ## S1 E11 — Skeletons in the Closet
 URL: https://watchwiththekids.com/ep/legend-of-korra/0111.html
@@ -128,16 +128,16 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Korra goes undercover and learns a secret while her teammates go after the enemies' stronghold.
 Watch for:
 - Violence & injury — 12 moment(s)
-  - [Moderate] [Cut to inside Tarrlok's cell looking outward at Mako and Korra.] He's a waterbender and a bloodbender, [Frontal shot of Tarrlok as he lifts his head up.] just like I was.
-  - [Moderate] [Cut to a campfire around which Yakone and his sons sit.] He told us his true identity was Yakone, Republic City's most notorious crime boss, and that he was once a bloodbender of rare skill.
-  - [Moderate] [Inside the flashback.] What's bloodbending?
-  - [Moderate] Our family has the strongest line of bloodbenders in history.
-  - [Moderate] You two will become bloodbenders of the highest order.
-  - [Moderate] [Cut to Yakone and his sons hiding from a herd of yaks.] Every full moon, our father took us on another supposed "hunting trip," where he secretly trained us in bloodbending.
-  - [Moderate] Noatak bloodbends the creature, making it stand up, and forces its head back. The yak groans in pain.
-  - [Moderate] [Voice-over.] A few years later, my father taught us to bloodbend anytime, without the need of the full moon.
-  - [Moderate] [Lightning and thunder strike in the distance.] Our father pushed us to extremes, and one day, he made us bloodbend each other.
-  - [Moderate] [Bloodbends Yakone onto his knees.] You always say bloodbending is the most powerful thing in the world, but it isn't.
+  - [Caution] [Cut to inside Tarrlok's cell looking outward at Mako and Korra.] He's a waterbender and a bloodbender, [Frontal shot of Tarrlok as he lifts his head up.] just like I was.
+  - [Caution] [Cut to a campfire around which Yakone and his sons sit.] He told us his true identity was Yakone, Republic City's most notorious crime boss, and that he was once a bloodbender of rare skill.
+  - [Caution] [Inside the flashback.] What's bloodbending?
+  - [Caution] Our family has the strongest line of bloodbenders in history.
+  - [Caution] You two will become bloodbenders of the highest order.
+  - [Caution] [Cut to Yakone and his sons hiding from a herd of yaks.] Every full moon, our father took us on another supposed "hunting trip," where he secretly trained us in bloodbending.
+  - [Caution] Noatak bloodbends the creature, making it stand up, and forces its head back. The yak groans in pain.
+  - [Caution] [Voice-over.] A few years later, my father taught us to bloodbend anytime, without the need of the full moon.
+  - [Caution] [Lightning and thunder strike in the distance.] Our father pushed us to extremes, and one day, he made us bloodbend each other.
+  - [Caution] [Bloodbends Yakone onto his knees.] You always say bloodbending is the most powerful thing in the world, but it isn't.
   - [Mild] How in the world do we beat him?
   - [Mild] [Pacing.] So much for our ambush. If we stay here, we're toast. But there's another way to beat him.
 
@@ -147,12 +147,12 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra confronts the enigmatic ruler of the Equalists.
 Watch for:
 - Violence & injury — 8 moment(s)
-  - [Moderate] He's a waterbender, a bloodbender, and brother to Tarrlok!
-  - [Moderate] Amon has been lying to you. The spirits didn't give him the power to take people's bending away. He uses bloodbending to do it. [Points to Amon.] Amon is a waterbender! [Crowd gasps in surprise.]
-  - [Moderate] Korra breathes a sigh of relief, but suddenly writhes in pain as Amon bloodbends her out from under the table and into the air.
-  - [Moderate] [Tries to stop Amon from bloodbending Korra by sending continued attacks of firebending.] Let her go!
-  - [Moderate] Amon dodges each attack and bloodbends Mako into submission by lifting him into the air.
-  - [Moderate] [Standing behind Amon.] Amon! Everything the Avatar said is true, isn't it? I just saw you bloodbend her.
+  - [Caution] He's a waterbender, a bloodbender, and brother to Tarrlok!
+  - [Caution] Amon has been lying to you. The spirits didn't give him the power to take people's bending away. He uses bloodbending to do it. [Points to Amon.] Amon is a waterbender! [Crowd gasps in surprise.]
+  - [Caution] Korra breathes a sigh of relief, but suddenly writhes in pain as Amon bloodbends her out from under the table and into the air.
+  - [Caution] [Tries to stop Amon from bloodbending Korra by sending continued attacks of firebending.] Let her go!
+  - [Caution] Amon dodges each attack and bloodbends Mako into submission by lifting him into the air.
+  - [Caution] [Standing behind Amon.] Amon! Everything the Avatar said is true, isn't it? I just saw you bloodbend her.
   - [Mild] Right after Mako throws a fire punch and fire kick, Tenzin runs in front of him fires two air blasts, which knocks an Equalist and the Lieutenant off the stage.
   - [Mild] Korra instinctively throws a punch at Amon, and it suddenly become a blast of air that shoots down the corridor and slams into Amon and Mako, sending them flying.
 
@@ -181,7 +181,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Part 1 of 2. Korra tries to be impartial as tension rises between the northern and southern tribes.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] [Holds Bolin's shoulder.] Ending a relationship is kind of like pulling off a blood-sucking leech. You just gotta rip it off and get it over with. You'll feel a lot better afterwards. Trust me.
+  - [Caution] [Holds Bolin's shoulder.] Ending a relationship is kind of like pulling off a blood-sucking leech. You just gotta rip it off and get it over with. You'll feel a lot better afterwards. Trust me.
   - [Mild] Korra punches a gap within her enclosure and pursues the rebels.
 
 ## S2 E4 — Civil Wars (2)
@@ -196,7 +196,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra reaches a dead end when she turns to the president for help, so she strikes out on her own.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Explain why my boyfriend stabbed me in the back?
+  - [Too much] Explain why my boyfriend stabbed me in the back?
 
 ## S2 E6 — The Sting
 URL: https://watchwiththekids.com/ep/legend-of-korra/0206.html
@@ -227,7 +227,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Tenzin's assistance is sought by Korra as she prepares to enter the Spirit World for the first time.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] [Blankly.] Yeah. Should've known you'd hook up with your old pals. Once a Triple Threat, always a Triple Threat.
+  - [Caution] [Blankly.] Yeah. Should've known you'd hook up with your old pals. Once a Triple Threat, always a Triple Threat.
 
 ## S2 E10 — A New Spiritual Age
 URL: https://watchwiththekids.com/ep/legend-of-korra/0210.html
@@ -249,7 +249,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra tries to seal the spirit portals prior to Harmonic Convergence.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Oh Mako, you know a wise man once told me that delivering bad news to a girlfriend was like ripping off a blood-sucking leech: you just have to do it fast and get it over with.
+  - [Caution] Oh Mako, you know a wise man once told me that delivering bad news to a girlfriend was like ripping off a blood-sucking leech: you just have to do it fast and get it over with.
   - [Mild] Bumi begins punching the spirit.
 
 ## S2 E13 — Darkness Falls
@@ -264,7 +264,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra learns of a method she can employ to attempt to destroy the dark spirit.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] [Walking toward Bolin.] But, you will always hold the special place in the organ that pumps my blood. I will remember you fondly. [Places her right hand to her heart, while smiling.] My turtle duck.
+  - [Caution] [Walking toward Bolin.] But, you will always hold the special place in the organ that pumps my blood. I will remember you fondly. [Places her right hand to her heart, while smiling.] My turtle duck.
   - [Mild] Korra runs forward and punches Unavaatu before reaching into his chest. As she touches the ball of light, she pulls out Raava. She subsequently prepares to purify Vaatu.
 
 ## S3 E1 — A Breath of Fresh Air
@@ -275,7 +275,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Okay, [Punches his fists.] Bum-Ju and I had a little fight.
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] I was alerted that you had a new plan to wipe out these noxious weed. So I thought you'd want everyone to be here to watch.
+  - [Caution] I was alerted that you had a new plan to wipe out these noxious weed. So I thought you'd want everyone to be here to watch.
 
 ## S3 E2 — Rebirth
 URL: https://watchwiththekids.com/ep/legend-of-korra/0302.html
@@ -289,8 +289,8 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: The team look for Airbenders on a trip to Ba Sing Se.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] [Bowing.] Avatar Korra, Master Tenzin, it is a pleasure to welcome you and your party to the Upper Ring of Ba Sing Se. I'm Grand Secretariat Gun.
-  - [Moderate] Bolin and Pabu walk off in a huff. Gun begins to exit the house, and Korra follows him.
+  - [Caution] [Bowing.] Avatar Korra, Master Tenzin, it is a pleasure to welcome you and your party to the Upper Ring of Ba Sing Se. I'm Grand Secretariat Gun.
+  - [Caution] Bolin and Pabu walk off in a huff. Gun begins to exit the house, and Korra follows him.
 
 ## S3 E4 — In Harm's Way
 URL: https://watchwiththekids.com/ep/legend-of-korra/0304.html
@@ -298,8 +298,8 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra wants to free Airbenders in Be Sing Se who are being forced to join the Earth Queen's army.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Good. You're here. Gun, tell them the news.
-  - [Moderate] So, I assume you and your [Pabu wiggles in Bolin's shirt.] friends here will be leaving immediately. [Sneezes repeated with unease. To Gun, struggling to breathe.] Is there an animal in my presence?
+  - [Caution] Good. You're here. Gun, tell them the news.
+  - [Caution] So, I assume you and your [Pabu wiggles in Bolin's shirt.] friends here will be leaving immediately. [Sneezes repeated with unease. To Gun, struggling to breathe.] Is there an animal in my presence?
   - [Mild] Tonraq waterbends a punch and an ice block at Zaheer, who dodges both attacks.
   - [Mild] Cut to Team Avatar's residence, where Korra punches a protective glove in anger. Far shot of Korra, which shows that she is attacking Asami in combat attire.
 
@@ -309,9 +309,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Korra and her pals arrive in the metal city of Zaofu.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] [Sarcastically.] Hey, everyone. My little sister is an expert on world affairs now.
+  - [Caution] [Sarcastically.] Hey, everyone. My little sister is an expert on world affairs now.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Same mom, different dads, so what? [Puts her hand over her heart.] We're blood, Lin, and after thirty years, the least you could do is say "hello".
+  - [Caution] Same mom, different dads, so what? [Puts her hand over her heart.] We're blood, Lin, and after thirty years, the least you could do is say "hello".
   - [Mild] The metalbender regards the polar bear dog for a moment before bending out her cable and slapping it against the ball, thereby puncturing it and causing it to deflate as she leaves.
 
 ## S3 E6 — Old Wounds
@@ -320,7 +320,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Beifong confronts her past.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Suyin breaks free with her knife and sends the cables back at Lin, and the cables slice her cheek, causing Lin to scream in pain.
+  - [Caution] Suyin breaks free with her knife and sends the cables back at Lin, and the cables slice her cheek, causing Lin to scream in pain.
 
 ## S3 E7 — Original Airbenders
 URL: https://watchwiththekids.com/ep/legend-of-korra/0307.html
@@ -342,7 +342,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Zaheer reveals the goals of the Red Lotus to Korra while his allies close in on her.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] [Alarmed. Furrows her brows.] What! You let Korra go?! I thought we were on the same page about this, and then you go and stab me in the back?
+  - [Too much] [Alarmed. Furrows her brows.] What! You let Korra go?! I thought we were on the same page about this, and then you go and stab me in the back?
 
 ## S3 E10 — Long Live the Queen
 URL: https://watchwiththekids.com/ep/legend-of-korra/0310.html
@@ -350,12 +350,12 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra and Asami escape and return to the oasis, so Zaheer takes his anger out on the Earth Queen as the Red Lotus destroy the city.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Gun, escort them to the antechamber until the Avatar's arrival.
-  - [Moderate] Gun, noticing the battle, runs away in fear.
-  - [Moderate] [Close-up of Hou-Ting with bloodshot eyes.] To your people ...
+  - [Caution] Gun, escort them to the antechamber until the Avatar's arrival.
+  - [Caution] Gun, noticing the battle, runs away in fear.
+  - [Caution] [Close-up of Hou-Ting with bloodshot eyes.] To your people ...
   - [Mild] Ghazan readies himself and punches the floor, melting it to lava.
 - Sexual insults — 1 moment(s)
-  - [Moderate] Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]
+  - [Caution] Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]
 
 ## S3 E11 — The Ultimatum
 URL: https://watchwiththekids.com/ep/legend-of-korra/0311.html
@@ -369,7 +369,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Zaheer removes the hostages from the temple as Korra prepares to sacrifice herself for the other airbenders.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] With his remaining water supply, Tonraq bends an ice spear on his forearm, and attempts to stab Zaheer, who dodges his attack and manages to ensnare Tonraq in a small tornado.
+  - [Too much] With his remaining water supply, Tonraq bends an ice spear on his forearm, and attempts to stab Zaheer, who dodges his attack and manages to ensnare Tonraq in a small tornado.
   - [Mild] Come on. [Punches the hairpin, freeing Tenzin before supporting him.] We have to get to the airship.
 
 ## S3 E13 — Venom of the Red Lotus
@@ -386,7 +386,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Kai and Opal try to assist a struggling community in Earth Kingdom three years after Team Avatar was poisoned by Zaheer.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] [Calmly and dryly.] That's not blood. It's strawberry pie.
+  - [Caution] [Calmly and dryly.] That's not blood. It's strawberry pie.
 
 ## S4 E2 — Korra Alone
 URL: https://watchwiththekids.com/ep/legend-of-korra/0402.html
@@ -394,7 +394,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Avatar Korra may have escaped Republic City, but she can't seem to escape her past.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Holding the bundle with her left hand, she takes up a knife laying on her right and puts it up against her hair.
+  - [Caution] Holding the bundle with her left hand, she takes up a knife laying on her right and puts it up against her hair.
 
 ## S4 E3 — The Coronation
 URL: https://watchwiththekids.com/ep/legend-of-korra/0403.html
@@ -402,10 +402,10 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: There's only one thing Prince Wu is looking forward to more than ruling the Earth Kingdom, his PARTY!
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] So now you're taking an interest in world affairs.
+  - [Caution] So now you're taking an interest in world affairs.
 - Violence & injury — 5 moment(s)
-  - [Moderate] Where have you been? My coronation is in ten minutes! [Gun and two other walk up to Wu.] Where's everyone else? Where are the Seven Sacred Chests of Exquisite Finery? Where are my grandfather's taffeta pantaloons?
-  - [Moderate] Cut to Wu's coronation in Republic City. Gun pins the earring on Wu.
+  - [Caution] Where have you been? My coronation is in ten minutes! [Gun and two other walk up to Wu.] Where's everyone else? Where are the Seven Sacred Chests of Exquisite Finery? Where are my grandfather's taffeta pantaloons?
+  - [Caution] Cut to Wu's coronation in Republic City. Gun pins the earring on Wu.
   - [Mild] Bolin! [Bolin turns around, and they trade some mock-punches before hugging each other.] Look at you! My little brother got all ... important.
   - [Mild] [As the leech pops off.] Gah! Hey! It seems like you're enjoying having someone around to beat up an awful lot.
   - [Mild] Yeah, the swampbenders out here really can't take a punch.
@@ -439,8 +439,8 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra returns to Republic City, but Kuvira'a actions spoil her homecoming.
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Moderate] You know who else has incisors sharp as a knife? Zhu Li ...
-  - [Moderate] Korra jumps in the car and Asami guns it. The van makes a sharp turn and the attendant bends up a wall to block them. Asami manages to steer clear of the wall just in the nick of time.
+  - [Caution] You know who else has incisors sharp as a knife? Zhu Li ...
+  - [Caution] Korra jumps in the car and Asami guns it. The van makes a sharp turn and the attendant bends up a wall to block them. Asami manages to steer clear of the wall just in the nick of time.
   - [Mild] Baraz is fighting a mecha tank as well, dodging its punches.
   - [Mild] Asami quickly defends herself by kicking an attacker's punch out of the way and shocking him with her glove, flinging him back.
   - [Mild] Next to a long dock is a beat up looking red and white, wooden boat with several escaped reeducation campers aboard.
@@ -451,9 +451,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Korra goes to Zaheer in order to face her inner fears and find balance within herself.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] [Cut to the bored refugees in a circle laying down and sleeping with Bolin with his head on his hands and Varrick lying casually.
+  - [Caution] [Cut to the bored refugees in a circle laying down and sleeping with Bolin with his head on his hands and Varrick lying casually.
 - Violence & injury — 3 moment(s)
-  - [Moderate] Amon! The reanimated [Cut to a close-up of Amon.] zombie body [Cut to Amon bloodbending Korra and Mako.] of the bloodbending leader of the Equalists!
+  - [Caution] Amon! The reanimated [Cut to a close-up of Amon.] zombie body [Cut to Amon bloodbending Korra and Mako.] of the bloodbending leader of the Equalists!
   - [Mild] Wu raises his hands in a defensive manner as Mako moves in closer; he throws a punch, which hits the prince in the chest. He falls to the ground immediately.
   - [Mild] Mako's first punch knocks Wu to the ground again.
 
@@ -473,7 +473,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] The beam punches a smoldering hole into a rock face directly behind Bolin, Opal, Juicy, and Zhu Li.
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] You can't go in there, kid. It's suicide. Kuvira's onto us.
+  - [Too much] You can't go in there, kid. It's suicide. Kuvira's onto us.
 
 ## S4 E11 — Kuvira's Gambit
 URL: https://watchwiththekids.com/ep/legend-of-korra/0411.html
@@ -481,10 +481,10 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Korra and the gang attempt to halt Kuvira's actions against Republic City. Meanwhile, Kuvira reveals a new lethal weapon in her arsenal.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Explicit] [Side-shot as they walk up to the threesome.] The four of us have been talking and ... we wanna take out Kuvira's spirit weapon before it gets too close to the city.
-  - [Explicit] [Frontal shot of the threesome.] That sounds like a risk we don't need to take. The evacuation is on schedule and General Iroh is getting his army in place.
+  - [Too much] [Side-shot as they walk up to the threesome.] The four of us have been talking and ... we wanna take out Kuvira's spirit weapon before it gets too close to the city.
+  - [Too much] [Frontal shot of the threesome.] That sounds like a risk we don't need to take. The evacuation is on schedule and General Iroh is getting his army in place.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 
 ## S4 E12 — Day of the Colossus
 URL: https://watchwiththekids.com/ep/legend-of-korra/0412.html

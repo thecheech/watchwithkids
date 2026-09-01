@@ -43,7 +43,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sprig wants Anne and Hop Pop to get along, so he tricks them into going on a stakeout.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Hop Pop: “[laughs] And what about you? I didn't even know you could turn that color. What, you got chameleon in your blood? [laughs]”
+  - [Caution] Hop Pop: “[laughs] And what about you? I didn't even know you could turn that color. What, you got chameleon in your blood? [laughs]”
   - [Mild] Hop Pop: “"Blam Berry Blitz. The drink that punches you in the face and doesn't stop." Hah! That silly drink won't keep you up! Now, this will keep you up.”
 
 ## S1 E7 — The Domino Effect
@@ -60,9 +60,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “♪ Like the nearly naked humans”
 - Violence & injury — 3 moment(s)
-  - [Explicit] Sprig: “Oh, yeah? Well, that's just what Chad Vanderblad said. Right before he was stabbed in the back by a backstabber on Suspicion Island!”
-  - [Explicit] Polly: “I would never stab Chad in the back, but one of you two would.”
-  - [Moderate] Smash to Anne and the Plantars watching the show into the night; Anne, Sprig and Polly are engrossed, eyes bloodshot and veiny, while Hop Pop isn't interested.
+  - [Too much] Sprig: “Oh, yeah? Well, that's just what Chad Vanderblad said. Right before he was stabbed in the back by a backstabber on Suspicion Island!”
+  - [Too much] Polly: “I would never stab Chad in the back, but one of you two would.”
+  - [Caution] Smash to Anne and the Plantars watching the show into the night; Anne, Sprig and Polly are engrossed, eyes bloodshot and veiny, while Hop Pop isn't interested.
 
 ## S1 E9 — Anne Theft Auto
 URL: https://watchwiththekids.com/ep/amphibia/0109.html
@@ -82,8 +82,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Angry with how the Plantar farm is being run, Sprig decides to overthrow Hop Pop.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Sprig sees two cowapillars grazing in front of him. He looks at the plucked weed in his right hand and immediately runs to Hop Pop.
-  - [Moderate] She moves aside in time for the cowapillar to eat a weed and smiles with success.
+  - [Caution] Sprig sees two cowapillars grazing in front of him. He looks at the plucked weed in his right hand and immediately runs to Hop Pop.
+  - [Caution] She moves aside in time for the cowapillar to eat a weed and smiles with success.
 
 ## S1 E12 — Girl Time
 URL: https://watchwiththekids.com/ep/amphibia/0112.html
@@ -99,7 +99,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Anne and Hop Pop learn Sprig may like Ivy Sundew, so they attempt to set them up.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] (gasps) Stay back. (Arms himself with a stick.) It could be a bloodsucking predator!
+  - [Caution] (gasps) Stay back. (Arms himself with a stick.) It could be a bloodsucking predator!
   - [Mild] (He throws a punch she blocks, then she kicks him in the face causing him to grunt.
 
 ## S1 E14 — Anne vs. Wild
@@ -120,7 +120,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sprig and Polly think their family history is boring until they uncover family secrets.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Hop Pop: “Don't have to be blood to be a Plantar, Anne. [Polly waves her glue & stick-covered flipper in the background.]”
+  - [Caution] Hop Pop: “Don't have to be blood to be a Plantar, Anne. [Polly waves her glue & stick-covered flipper in the background.]”
 
 ## S1 E17 — Lily Pad Thai
 URL: https://watchwiththekids.com/ep/amphibia/0117.html
@@ -128,9 +128,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Anne gets a job at Stumpy's diner and transforms the humble frog eatery into a flashy Thai fusion restaurant.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Anne: “[grunts] Pull yourself together, man. We can do this. It's time to bring out the big guns. My parents' squid and basil special. No critic in town could resist.”
+  - [Caution] Anne: “[grunts] Pull yourself together, man. We can do this. It's time to bring out the big guns. My parents' squid and basil special. No critic in town could resist.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Duckweed: “Bad...Bad? That was incredible! A food that tries to eat you? The irony, the ecstasy! I simply must tell everyone. To the message board!”
+  - [Too much] Duckweed: “Bad...Bad? That was incredible! A food that tries to eat you? The irony, the ecstasy! I simply must tell everyone. To the message board!”
 
 ## S1 E18 — Plantar's Last Stand
 URL: https://watchwiththekids.com/ep/amphibia/0118.html
@@ -150,7 +150,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Toad Tower finds itself under attack by a pair of horrifying herons.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Grime: “Quiet. It's not just a bird. It's a heron, a murderous predator that happens to love the taste of flesh.”
+  - [Too much] Grime: “Quiet. It's not just a bird. It's a heron, a murderous predator that happens to love the taste of flesh.”
 
 ## S1 E21 — Grubhog Day
 URL: https://watchwiththekids.com/ep/amphibia/0121.html
@@ -188,7 +188,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Sprig's rare and precious Blue Moon Shell is stolen, he and Anne investigate to find the thief.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Investigator 1: “One knife victim without pants. We've gotta catch this sicko.”
+  - [Caution] Investigator 1: “One knife victim without pants. We've gotta catch this sicko.”
 
 ## S1 E26 — Trip to the Archives
 URL: https://watchwiththekids.com/ep/amphibia/0126.html
@@ -202,7 +202,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When a winter cold snap freezes all the frogs in Wartwood, Anne must protect the townspeople.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Um, hello! I'm warm-blooded.
+  - [Caution] Um, hello! I'm warm-blooded.
 
 ## S1 E28 — Cracking Mrs. Croaker
 URL: https://watchwiththekids.com/ep/amphibia/0128.html
@@ -222,7 +222,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Everyone calls Anne crazy when she claims to have seen the mythical Moss Man.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Around morning in the forest, Wally is still playing his accordion in a somewhat jolly way while Anne is feeling sleep-depraved with bloodshot eyes following him.
+  - [Caution] Around morning in the forest, Wally is still playing his accordion in a somewhat jolly way while Anne is feeling sleep-depraved with bloodshot eyes following him.
 
 ## S1 E31 — Family Fishing Trip
 URL: https://watchwiththekids.com/ep/amphibia/0131.html
@@ -266,7 +266,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: A scary mushroom adventure!
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Whoo-hoo! Shotgun!
+  - [Caution] Whoo-hoo! Shotgun!
 
 ## S1 E38 — Anne of the Year
 URL: https://watchwiththekids.com/ep/amphibia/0138.html
@@ -280,7 +280,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: During a banquet hosted by the toads, Anne is reunited with a friend from home.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sasha: “Right? Let's get outta here. [heaving] Mrs. Virk, the sight of blood... I-- I'm gonna be sick...!”
+  - [Caution] Sasha: “Right? Let's get outta here. [heaving] Mrs. Virk, the sight of blood... I-- I'm gonna be sick...!”
 
 ## S2 E1 — Handy Anne
 URL: https://watchwiththekids.com/ep/amphibia/0201.html
@@ -308,7 +308,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Anne must put her self-consciousness aside in order to learn the true way of the hunter.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] ♪ When the hunt is on and the moon is high ♪ (it is seen Anne trying to hang herself from vines but she falls)
+  - [Too much] ♪ When the hunt is on and the moon is high ♪ (it is seen Anne trying to hang herself from vines but she falls)
 
 ## S2 E5 — Truck Stop Polly
 URL: https://watchwiththekids.com/ep/amphibia/0205.html
@@ -316,7 +316,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Feeling unappreciated, Polly hatches a plan to make the family pay attention to her.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] 'Ain't that a shame,' said Fergus as he drew his knife!" (a knife comes out)
+  - [Caution] 'Ain't that a shame,' said Fergus as he drew his knife!" (a knife comes out)
 
 ## S2 E6 — A Caravan Named Desire
 URL: https://watchwiththekids.com/ep/amphibia/0206.html
@@ -332,7 +332,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Hop Pop drops Sprig and Polly off at a trail designed to help them get along.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] It was fine, except for the bloodthirsty olms.
+  - [Caution] It was fine, except for the bloodthirsty olms.
   - [Mild] I saw a punch bug! Punch bug! (hits him again)
   - [Mild] For the last time, I'm not playing punch bu... (Polly hits him again.) Ow!
   - [Mild] Me? (hits her) You're the one who's punching everyone!
@@ -349,11 +349,11 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Anne discovers an old friend who has been living a double life, she becomes fixated on helping him be his true self.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Wally takes off his ribbon, rolls it up on a knife and spins it around the table.
-  - [Moderate] The knife hits a gong.
+  - [Caution] Wally takes off his ribbon, rolls it up on a knife and spins it around the table.
+  - [Caution] The knife hits a gong.
   - [Mild] The cops beat up Wally.
 - Sexual insults — 1 moment(s)
-  - [Moderate] Anne: “So... Walliam, what's going on here? I thought you were a fun-loving tramp, not some little rich boy.”
+  - [Caution] Anne: “So... Walliam, what's going on here? I thought you were a fun-loving tramp, not some little rich boy.”
 
 ## S2 E10 — Wax Museum
 URL: https://watchwiththekids.com/ep/amphibia/0210.html
@@ -369,7 +369,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: The family must defeat an entire ant army before they enter Newtopia.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Marcy: “They're designed to release pheromones that should drive the queen away instantly. But we will have to fight our way through a bloodthirsty hoard of ants.”
+  - [Caution] Marcy: “They're designed to release pheromones that should drive the queen away instantly. But we will have to fight our way through a bloodthirsty hoard of ants.”
   - [Mild] Marcy punching, grunting
 
 ## S2 E12 — Scavenger Hunt
@@ -404,7 +404,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Hop Pop investigates the disappearance of an old friend and the shadowy crime syndicate he suspects are behind it.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Hop Pop: “What's this? Blood?”
+  - [Caution] Hop Pop: “What's this? Blood?”
 
 ## S2 E17 — Hopping Mall
 URL: https://watchwiththekids.com/ep/amphibia/0217.html
@@ -412,7 +412,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Hop Pop takes the kids to a Newtopian shopping mall to buy souvenirs, and Anne will do anything to get the perfect gift for her mom back home.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] It's the only way to not murder that pollywog!
+  - [Too much] It's the only way to not murder that pollywog!
 
 ## S2 E18 — The Sleepover to End All Sleepovers
 URL: https://watchwiththekids.com/ep/amphibia/0218.html
@@ -437,7 +437,7 @@ URL: https://watchwiththekids.com/ep/amphibia/0221.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Vulture: “Murder! Murder!”
+  - [Too much] Vulture: “Murder! Murder!”
   - [Mild] [screaming] Punch it, Sprig!
 
 ## S2 E22 — Return to Wartwood
@@ -487,8 +487,8 @@ URL: https://watchwiththekids.com/ep/amphibia/0229.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Maddie: “A really rotted corpse.”
-  - [Explicit] Hop Pop: “Did you girls just mistake me for a corpse?!”
+  - [Too much] Maddie: “A really rotted corpse.”
+  - [Too much] Hop Pop: “Did you girls just mistake me for a corpse?!”
 
 ## S2 E30 — The Second Temple
 URL: https://watchwiththekids.com/ep/amphibia/0230.html
@@ -515,7 +515,7 @@ URL: https://watchwiththekids.com/ep/amphibia/0234.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] None. They prefer utter darkness and the smell of blood.
+  - [Caution] None. They prefer utter darkness and the smell of blood.
 
 ## S2 E35 — Battle of the Bands
 URL: https://watchwiththekids.com/ep/amphibia/0235.html
@@ -527,7 +527,7 @@ URL: https://watchwiththekids.com/ep/amphibia/0236.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] At the top of the castle, its spire is changed to the shape of a pistol. The pistol-shaped spire fires a beam at the North Tower, obliterating it.
+  - [Caution] At the top of the castle, its spire is changed to the shape of a pistol. The pistol-shaped spire fires a beam at the North Tower, obliterating it.
   - [Mild] Sasha manages to disarm Anne, but then Anne makes a close scrolling, entangles Sasha with her cloak and punches her, knocking her out.
   - [Mild] Hop Pop punches another, but suffers a cramp.
   - [Mild] King Andrias destroys Frobo with a punch.
@@ -537,7 +537,7 @@ URL: https://watchwiththekids.com/ep/amphibia/0301.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] The Plantars try to move to help Anne, they rush towards Cloak-Bot, but they just stand softly in front of him. Cloak-Bot sees them and gets ready to kill them with a laser gun.
+  - [Caution] The Plantars try to move to help Anne, they rush towards Cloak-Bot, but they just stand softly in front of him. Cloak-Bot sees them and gets ready to kill them with a laser gun.
   - [Mild] Anne, can you use your blue powers? Take it down (does a punching mime) easy like?
   - [Mild] Anne goes to the front of Cloak-Bot at lightning speed and delivers a massive left punch, causing him to miss everything. So, Cloak-Bot flees, causing two cars to break. Anne's power is deactivated.
   - [Mild] Yeah! Do the punch again! Anne?
@@ -554,9 +554,9 @@ URL: https://watchwiththekids.com/ep/amphibia/0303.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] The next day, Sasha is seen sleeping with Bessie and MicroAngelo, when suddenly someone opens the door for her.
+  - [Caution] The next day, Sasha is seen sleeping with Bessie and MicroAngelo, when suddenly someone opens the door for her.
 - Violence & injury — 3 moment(s)
-  - [Explicit] Sasha sees Marcy getting stabbed.
+  - [Too much] Sasha sees Marcy getting stabbed.
   - [Mild] Mrs. Croaker jumps while screaming and does a double downward punch straight at a green Frobot, causing the Frobot to become unconscious.
   - [Mild] Mayor Toadstool punches the last Frobot and then punches another Frobot.
 
@@ -570,16 +570,16 @@ URL: https://watchwiththekids.com/ep/amphibia/0305.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] But we were hosts, so we had to be nice. (Time passes and the Plantars' faces are shriveled with bloodshot eyes.) We just resented him a little more... each day.
-  - [Moderate] BLOOD!! THERE'S BLOOD EVERYWHERE!!!
+  - [Caution] But we were hosts, so we had to be nice. (Time passes and the Plantars' faces are shriveled with bloodshot eyes.) We just resented him a little more... each day.
+  - [Caution] BLOOD!! THERE'S BLOOD EVERYWHERE!!!
 
 ## S3 E6 — Fight at the Museum
 URL: https://watchwiththekids.com/ep/amphibia/0306.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Eat the rich! (dropped the guillotine knife, causing Cloak-Bot to cut into his arm. Anne and the Plantars go elsewhere.) How're we gonna stop this thing?
-  - [Moderate] Anne looks up at the skeleton, where Sprig cuts a rope with a knife and passes it to Polly, she grabs it in her teeth and cuts another rope, she passes it to Hop Pop, he takes it from his tongue and cuts another rope.
+  - [Caution] Eat the rich! (dropped the guillotine knife, causing Cloak-Bot to cut into his arm. Anne and the Plantars go elsewhere.) How're we gonna stop this thing?
+  - [Caution] Anne looks up at the skeleton, where Sprig cuts a rope with a knife and passes it to Polly, she grabs it in her teeth and cuts another rope, she passes it to Hop Pop, he takes it from his tongue and cuts another rope.
 
 ## S3 E7 — Temple Frogs
 URL: https://watchwiththekids.com/ep/amphibia/0307.html
@@ -591,7 +591,7 @@ URL: https://watchwiththekids.com/ep/amphibia/0308.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] It's time to call in the big guns.
+  - [Caution] It's time to call in the big guns.
   - [Mild] King Andrias destroys Frobo with a punch.
 
 ## S3 E9 — Anne-Sterminator
@@ -599,10 +599,10 @@ URL: https://watchwiththekids.com/ep/amphibia/0309.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Explicit] Mrs. Boonchuy hits Cloak-Bot with a sledgehammer three times as he lets go of Anne and stabs a sign at him. She hits his leg and Anne removes a few body parts with a pipe. Cloak-Bot was groaning.
-  - [Moderate] A bloodthirsty predator meets all-American engineering in Fumigator 4.
-  - [Moderate] Cloak-Bot grabs his nail-gun and shoots every variety but claims it's not her.
-  - [Moderate] Cloak-Bot grabs his nail-gun and aims it at Anne.
+  - [Too much] Mrs. Boonchuy hits Cloak-Bot with a sledgehammer three times as he lets go of Anne and stabs a sign at him. She hits his leg and Anne removes a few body parts with a pipe. Cloak-Bot was groaning.
+  - [Caution] A bloodthirsty predator meets all-American engineering in Fumigator 4.
+  - [Caution] Cloak-Bot grabs his nail-gun and shoots every variety but claims it's not her.
+  - [Caution] Cloak-Bot grabs his nail-gun and aims it at Anne.
   - [Mild] She punched him in the face. (Anne laughs nervously)
 
 ## S3 E10 — Mr. X
@@ -611,8 +611,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Anne takes the Plantars to the movies, while the Boonchuys try to stop a government agent from finding them.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] (leaves money to pay) Gotta go! (takes the order) Is your stun gun charged, Jenny? (pulls out his stun gun and lights it up) Tell me it's charged?
-  - [Moderate] Anne and the Plantars crouch at the box office and see Jenny checking people out with an infrared gun.
+  - [Caution] (leaves money to pay) Gotta go! (takes the order) Is your stun gun charged, Jenny? (pulls out his stun gun and lights it up) Tell me it's charged?
+  - [Caution] Anne and the Plantars crouch at the box office and see Jenny checking people out with an infrared gun.
 
 ## S3 E11 — Sprig's Birthday
 URL: https://watchwiththekids.com/ep/amphibia/0311.html
@@ -657,12 +657,12 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Anne attempts to surprise her mom with a Thai Go float for the city Christmas parade while the Plantars struggle to understand the holiday. Meanwhile, King Andrias prepares a deadly surprise.
 Watch for:
 - Violence & injury — 7 moment(s)
-  - [Explicit] The tree stabs the giant robotic Santa and from the top, stabs right through the drone, destroying it.
-  - [Explicit] A murderous Santa robot. Never thought I'd see that!
-  - [Explicit] It was the combo of jolly AND murderous that really made it feel special.
-  - [Moderate] …history of mistletoe? It's (the man feels uncomfortable) a not-so-jolly tale of monarchic betrayals and bloodshed originating in the early 13th century-- (looks Anne and the Plantars) Anne!
-  - [Moderate] through the giant robotic Santa after he turned around and sees them. they listen to it) Ho ho HO. Hello, Anne Boonchuy. (ready a laser gun
-  - [Moderate] Looks like this is the end of the road, Anne... literally! And you've (the giant robotic Santa readies a giant laser gun in his mouth) been a very bad girl this year.
+  - [Too much] The tree stabs the giant robotic Santa and from the top, stabs right through the drone, destroying it.
+  - [Too much] A murderous Santa robot. Never thought I'd see that!
+  - [Too much] It was the combo of jolly AND murderous that really made it feel special.
+  - [Caution] …history of mistletoe? It's (the man feels uncomfortable) a not-so-jolly tale of monarchic betrayals and bloodshed originating in the early 13th century-- (looks Anne and the Plantars) Anne!
+  - [Caution] through the giant robotic Santa after he turned around and sees them. they listen to it) Ho ho HO. Hello, Anne Boonchuy. (ready a laser gun
+  - [Caution] Looks like this is the end of the road, Anne... literally! And you've (the giant robotic Santa readies a giant laser gun in his mouth) been a very bad girl this year.
   - [Mild] ALLY! JESS! PUNCH IT!!!
 
 ## S3 E17 — Escape to Amphibia
@@ -673,8 +673,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] With his smart watch, Mr. X activates a red laser and launches it at Hop Pop. Making a few moves on it, all of his clothes are shredded, leaving only his underwear and shoes. He ribbits. The Boonchuys make a sign.
 - Violence & injury — 3 moment(s)
-  - [Explicit] (wears a big black hood) (mimes stabbing her with a larger toy lightsaber) Gotcha! (Anne screams) I was your mother the whole time.
-  - [Moderate] pulls out a folding knife) Go after them! I know! (unties Anne with the knife
+  - [Too much] (wears a big black hood) (mimes stabbing her with a larger toy lightsaber) Gotcha! (Anne screams) I was your mother the whole time.
+  - [Caution] pulls out a folding knife) Go after them! I know! (unties Anne with the knife
   - [Mild] (while forms a right punch) AHA! Now we're (shaking the punch) getting somewhere. (clasps his fingers in front) Tell me more.
 
 ## S3 E18 — Commander Anne
@@ -683,7 +683,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Anne is made leader of the Wartwood Resistance, even though she's not good at the job.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] The laser gun shot the giant centipede in its collar, breaking the collar.
+  - [Caution] The laser gun shot the giant centipede in its collar, breaking the collar.
   - [Mild] It roars at them. Anne screams. Polly jumps up from Frobo, yelling, and punches the centipede in the face. She then also kicks it in the face. It lands.
   - [Mild] Not yet. Wally! Croaker! Loggle! Mirror punch!
   - [Mild] Loggle throws both Mrs. Croaker and Wally into the air, who both punch the snake's mind-control collar from opposite sides. The collar breaks and the freed snake slithers away. Everyone cheers.
@@ -694,7 +694,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Sprig and Ivy devise a scheme to be together.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Sprig: “Oooh. A corpse-maker moth. [clears throat] You're supposed to kiss when you see one, otherwise your crops will be cursed for seven years. [pecks Ivy's cheek] Just to be safe.”
+  - [Too much] Sprig: “Oooh. A corpse-maker moth. [clears throat] You're supposed to kiss when you see one, otherwise your crops will be cursed for seven years. [pecks Ivy's cheek] Just to be safe.”
 
 ## S3 E20 — Sasha's Angels
 URL: https://watchwiththekids.com/ep/amphibia/0320.html
@@ -702,8 +702,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: A team of Resistance fighters gets captured by ruthless marauders.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] One side looks normal, the other is shown to be as edgy and holding a knife.
-  - [Moderate] Brian: “I used to be a tax accountant. Now I drink the blood of my enemies and eat dessert for breakfast.”
+  - [Caution] One side looks normal, the other is shown to be as edgy and holding a knife.
+  - [Caution] Brian: “I used to be a tax accountant. Now I drink the blood of my enemies and eat dessert for breakfast.”
   - [Mild] Enough with the slapping!
 
 ## S3 E21 — Olm Town Road
@@ -712,8 +712,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Anne and her friends search for the ancient city of Proteus.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Huh... Anyone know any friendlier, less murderous Olms?
-  - [Explicit] Murderous Olms, it is!
+  - [Too much] Huh... Anyone know any friendlier, less murderous Olms?
+  - [Too much] Murderous Olms, it is!
 
 ## S3 E22 — Mother of Olms
 URL: https://watchwiththekids.com/ep/amphibia/0322.html
@@ -721,7 +721,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Anne and the crew meet with Mother Olm, the keeper of ancient prophecies.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] (The withered hand belongs to the corpse of a newt, holding a bottle of the brain cream the kids are carrying.
+  - [Too much] (The withered hand belongs to the corpse of a newt, holding a bottle of the brain cream the kids are carrying.
 
 ## S3 E23 — Grime's Pupil
 URL: https://watchwiththekids.com/ep/amphibia/0323.html
@@ -741,7 +741,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Anne and the Plantars get stuck in a strange village of plant lovers.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Gary, wait! I know we've had some bad history. You tried to enslave my hometown, and I violently murdered you that one time.
+  - [Too much] Gary, wait! I know we've had some bad history. You tried to enslave my hometown, and I violently murdered you that one time.
 
 ## S3 E25 — The Core & The King
 URL: https://watchwiththekids.com/ep/amphibia/0325.html
@@ -749,7 +749,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: King Andrias confronts the demons of his past.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] (Andrias uses his laser sword to attack her, then Leif uses a hand gun to shoot him, dodges the bullets with his sword. She disappears suddenly.)'
+  - [Caution] (Andrias uses his laser sword to attack her, then Leif uses a hand gun to shoot him, dodges the bullets with his sword. She disappears suddenly.)'
 
 ## S3 E26 — Newts in Tights
 URL: https://watchwiththekids.com/ep/amphibia/0326.html
@@ -763,7 +763,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Anne tries to rescue an old friend from one of King Andrias' robot camps.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Well, bless my bowie knife. It's a coastal kill-a-moth!
+  - [Caution] Well, bless my bowie knife. It's a coastal kill-a-moth!
 
 ## S3 E28 — The Three Armies
 URL: https://watchwiththekids.com/ep/amphibia/0328.html
@@ -771,7 +771,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Anne and Sasha must convince the frogs, newts and toads to work together.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Beatrix (jumps off the spider steed on top): Enough pleasantries! I agree to fight alongside you frogs, but I draw the line at newts. They'll steal your sword and then stab me in the back with us.
+  - [Too much] Beatrix (jumps off the spider steed on top): Enough pleasantries! I agree to fight alongside you frogs, but I draw the line at newts. They'll steal your sword and then stab me in the back with us.
   - [Mild] Tritonio: “Let me guess. You want to bash in a front door, beat up anyone you see, and take the music box.”
 
 ## S3 E29 — The Beginning of the End
@@ -789,11 +789,11 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Anne and her friends fight for their lives as the fate of both worlds hangs in the balance.
 Watch for:
 - Violence & injury — 8 moment(s)
-  - [Moderate] With their blood-red eyes and razor-sharp teeth, those two have been terrorizing the valley for years! I arrive too late to save your parents, but not too late to fight back.
-  - [Moderate] They shoot the Frobots with their laser guns.
-  - [Moderate] (does boxing mime) Training. (takes out his laser gun and shows them) Gearing up.
-  - [Moderate] The vision zooms back to the physical world where Darcy and Andrias are watching the frobots and herons invading LA. Back in the classroom, Mr. X gives Yunan a laser gun.
-  - [Moderate] Darcy wipes away green blood from a cut from her face. She smirks and vanishes in a puff of green smoke. Sasha gasps. Green clouds begin to surround her. Suddenly, images of Anne and Marcy begin to form in the cloud.
+  - [Caution] With their blood-red eyes and razor-sharp teeth, those two have been terrorizing the valley for years! I arrive too late to save your parents, but not too late to fight back.
+  - [Caution] They shoot the Frobots with their laser guns.
+  - [Caution] (does boxing mime) Training. (takes out his laser gun and shows them) Gearing up.
+  - [Caution] The vision zooms back to the physical world where Darcy and Andrias are watching the frobots and herons invading LA. Back in the classroom, Mr. X gives Yunan a laser gun.
+  - [Caution] Darcy wipes away green blood from a cut from her face. She smirks and vanishes in a puff of green smoke. Sasha gasps. Green clouds begin to surround her. Suddenly, images of Anne and Marcy begin to form in the cloud.
   - [Mild] The four ready themselves for battle, but the cloak bots remain hidden, landing a few punches on the group.
   - [Mild] Before she's able to land a punch, Andrias lands a giant punch on her and also lands a tail whip, launching Anne backwards.
   - [Mild] The mech launches multiple rocket missiles towards Anne. She barely dodges each one as they explode, but the the explosions mask Andrias' position. It pulls back for a punch.

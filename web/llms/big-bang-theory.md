@@ -10,15 +10,15 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Is a comedy about brilliant physicists, Leonard and Sheldon, who are the kind of "beautiful minds" that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door. Sheldon, Leonard's roommate, is quite content spending his nights playing Klingon Boggle with their socially dysfunctional friends, fellow Cal Tech scientists Wolowitz and Koothrappali. However, Leonard sees in Penny a whole new universe of possibilities... including love.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Explicit] Sheldon: “Well, today we tried masturbating for money.”
-  - [Moderate] A corridor at a sperm bank.
-  - [Moderate] Leonard: “Yes. Um, is this the High IQ sperm bank?”
-  - [Moderate] Sheldon: “That woman in there’s not going to have sex with you.”
-  - [Moderate] Leonard: “Well I’m not trying to have sex with her.”
+  - [Too much] Sheldon: “Well, today we tried masturbating for money.”
+  - [Caution] A corridor at a sperm bank.
+  - [Caution] Leonard: “Yes. Um, is this the High IQ sperm bank?”
+  - [Caution] Sheldon: “That woman in there’s not going to have sex with you.”
+  - [Caution] Leonard: “Well I’m not trying to have sex with her.”
   - [Mild] Leonard: “And you were right about my motives, I was hoping to establish a relationship with Penny that might have some day led to sex.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Sheldon: “You think with your penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Sheldon: “You think with your penis.”
   - [Mild] Sheldon: “A beautiful woman stands naked in our shower.”
 
 ## S1 E2 — The Big Bran Hypothesis
@@ -27,14 +27,14 @@ Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Leonard volunteers to sign for a package, hoping to make a good impression on Penny. When he enlists the help of his obsessive-compulsive roommate, Sheldon, his attempt at chivalry goes horribly awry.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Sheldon: “Yeah, those are men who just had sex.”
+  - [Caution] Sheldon: “Yeah, those are men who just had sex.”
   - [Mild] Sheldon: “You do understand that our efforts here will in no way increase the odds of you having sexual congress with this woman?”
   - [Mild] Leonard: “Men do things for women without expecting sex.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Penny: “You know, where I come from, someone comes into your house at night, you shoot, okay? And you don’t shoot to wound. I mean, alright, my sister shot her husband, but it was an accident, they were drunk. What was I saying?”
+  - [Too much] Penny: “You know, where I come from, someone comes into your house at night, you shoot, okay? And you don’t shoot to wound. I mean, alright, my sister shot her husband, but it was an accident, they were drunk. What was I saying?”
 - Swearing — 6 moment(s)
-  - [Moderate] Sheldon: “Ah, gravity, thou art a heartless bitch.”
-  - [Moderate] Penny (voice off): Son of a Bitch!
+  - [Caution] Sheldon: “Ah, gravity, thou art a heartless bitch.”
+  - [Caution] Penny (voice off): Son of a Bitch!
   - [Mild] Sheldon: “(sucks in breath)”
   - [Mild] Leonard: “Oh, what the hell.”
   - [Mild] Penny (voice off): You sick, geeky bastards!
@@ -49,7 +49,7 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Leonard is bummed to learn that his crush, Penny, is seeing someone, so encouraged by his friends and fellow scientists, Leonard actually summons the nerve to ask a woman out on a date.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Leonard: “…and she’s biting my lower lip, you know, she wants me, this thing is going the distance, we’re going to have sex!”
+  - [Caution] Leonard: “…and she’s biting my lower lip, you know, she wants me, this thing is going the distance, we’re going to have sex!”
   - [Mild] Sheldon: “Well, I don’t think you have a shot there. I have noticed that Lesley Winkle recently started shaving her legs. Now, given that winter is coming one can only assume that she is signalling sexual availability.”
   - [Mild] Howard: “There are pitfalls, trust me, I know. When it comes to sexual harassment law I’m… a bit of a self-taught expert.”
   - [Mild] Sheldon: “Is the sex starting now?”
@@ -57,9 +57,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leonard: “Look, Howard, if I were to ask Lesley Winkle out it would just be for dinner, I’m not going to walk into the lab, ask her to strip naked and dance for me.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Raj: “I’ve got him Leonard. Tonight I spice my meat with goblin blood!”
+  - [Caution] Raj: “I’ve got him Leonard. Tonight I spice my meat with goblin blood!”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Sheldon: “If you’re compiling a mix CD for a double suicide. (Leonard is taking supplies out of a bag) Oh, I hope that scratching post is for you.”
+  - [Too much] Sheldon: “If you’re compiling a mix CD for a double suicide. (Leonard is taking supplies out of a bag) Oh, I hope that scratching post is for you.”
 
 ## S1 E4 — The Luminous Fish Effect
 URL: https://watchwiththekids.com/ep/big-bang-theory/0104.html
@@ -67,7 +67,7 @@ Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: When Sheldon gets fired, he explores life beyond physics, but his initial thrill of shopping with Penny devolves over time to him weaving ponchos as a shut-in, forcing Leonard to call on Sheldon's mother.
 Watch for:
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “Hey, what up, science bitches? May I introduce my special lady friend, Summer. (Puts arm around her.)”
+  - [Caution] Howard: “Hey, what up, science bitches? May I introduce my special lady friend, Summer. (Puts arm around her.)”
   - [Mild] Mrs Cooper: “Well, that’s what he called it, didn’t even slow down the neighbour kids. It pissed our dog off to no end. You know, you two make a cute couple.”
 
 ## S1 E5 — The Hamburger Postulate
@@ -76,22 +76,22 @@ Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After sensing his pursuit of Penny isn't going anywhere, Leonard agrees to an unexpected sexual encounter with fellow scientist Leslie Winkle.
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Explicit] Lesley: “You stick electrodes in a rat’s brain, give him an orgasm button, he’ll push that thing until he starves to death.”
-  - [Moderate] Leonard: “Oh. Okay. A little musical foreplay. Terrific.”
-  - [Moderate] Penny: “Well, a little bird told me that you and Lesley hooked up last night.”
+  - [Too much] Lesley: “You stick electrodes in a rat’s brain, give him an orgasm button, he’ll push that thing until he starves to death.”
+  - [Caution] Leonard: “Oh. Okay. A little musical foreplay. Terrific.”
+  - [Caution] Penny: “Well, a little bird told me that you and Lesley hooked up last night.”
   - [Mild] Lesley: “Just so we’re clear, you understand that me hanging back to practise with you is a pretext for letting you know that I’m sexually available.”
   - [Mild] Lesley: “So, you’re open to a sexual relationship?”
   - [Mild] Penny: “Wait, you had to leave the state because your roommate was having sex?”
   - [Mild] Sheldon: “Boy, you’re wound awfully tight for a man who just had sexual intercourse.”
   - [Mild] Lesley: “Well, I don’t know about your sex drive, but I’m probably good till New Years.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
   - [Mild] Lesley: “Yep, come for the breasts, stay for the brains. So, I’m glad I ran into you, the physics department string quartet needs a new cellist.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Lesley: “Because I’ve got a bowl of Cheerios and I couldn’t find a knife.”
+  - [Caution] Lesley: “Because I’ve got a bowl of Cheerios and I couldn’t find a knife.”
   - [Mild] Leonard: “Yeah, my parents felt that naming me Leonard and putting me in advanced placement classes wasn’t getting me beaten up enough.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Lesley: “Well, I thought I saw your pupils dilate when you looked at her, which, unless you’re a heroin addict, points to sexual attraction.”
+  - [Too much] Lesley: “Well, I thought I saw your pupils dilate when you looked at her, which, unless you’re a heroin addict, points to sexual attraction.”
 
 ## S1 E6 — The Middle-Earth Paradigm
 URL: https://watchwiththekids.com/ep/big-bang-theory/0106.html
@@ -99,7 +99,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Leonard, Sheldon, Wolowitz and Koothrappali undertake a challenging and risky experiment-attending the Halloween party being thrown by their hot neighbor, Penny.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Howard: “Just a heads up fellas, if anyone gets lucky I’ve got a dozen condoms in my quiver.”
+  - [Caution] Howard: “Just a heads up fellas, if anyone gets lucky I’ve got a dozen condoms in my quiver.”
   - [Mild] Howard: “Hey guys, check out the sexy nurse. I believe it’s time for me to turn my head and cough.”
 - Alcohol & drugs — 5 moment(s)
   - [Mild] Penny: “Well, there will be boys, and there will be girls, and it is a party. So, it’ll just be a bunch of my friends, we’ll have some beer, do a little dancing…”
@@ -108,10 +108,10 @@ Watch for:
   - [Mild] Penny: “…back to my party because he’s there, and I know you don’t want to hear this and I’m upset and I’m really drunk and I just want to… (bursts into tears and rests head on Leonard’s shoulder.)”
   - [Mild] Leonard: “Are you sure that your being drunk, and your being angry with Kurt doesn’t have something to do with what’s going on here?”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Raj: “That’s racism.”
+  - [Too much] Raj: “That’s racism.”
 - Homophobic jokes — 2 moment(s)
-  - [Explicit] Leonard: “A homo-habilus discovering his opposable thumbs says what?”
-  - [Explicit] Sheldon: “Happy Halloween. (They leave) If it’s any consolation, I thought that homo-habilus line really put him in his place.”
+  - [Too much] Leonard: “A homo-habilus discovering his opposable thumbs says what?”
+  - [Too much] Sheldon: “Happy Halloween. (They leave) If it’s any consolation, I thought that homo-habilus line really put him in his place.”
 
 ## S1 E7 — The Dumpling Paradox
 URL: https://watchwiththekids.com/ep/big-bang-theory/0107.html
@@ -119,27 +119,27 @@ Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: When Wolowitz seduces Penny's friend and takes over her apartment, Penny sleeps on Leonard and Sheldon's couch. With Wolowitz preoccupied, the guys discover they are without a fourth member of their group and in desperation, they ask Penny to join their Halo team.
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Explicit] Leonard: “You’re right, all sex has is nudity, orgasms and human contact.”
-  - [Moderate] Penny: “Well, she was engaged to my cousin while she was sleeping with my brother, so she’s kind of family.”
-  - [Moderate] Penny: “Um, well, Howard and Christie are… kind of… hooking up in my bedroom.”
-  - [Moderate] Penny: “Look, Howard, I know her, okay, she’ll have sex with anyone as long as they keep buying her things.”
-  - [Moderate] Penny (entering with three other sexy women): Hi guys, my friends and I got tired of dancing, so we came over to have sex with you.
+  - [Too much] Leonard: “You’re right, all sex has is nudity, orgasms and human contact.”
+  - [Caution] Penny: “Well, she was engaged to my cousin while she was sleeping with my brother, so she’s kind of family.”
+  - [Caution] Penny: “Um, well, Howard and Christie are… kind of… hooking up in my bedroom.”
+  - [Caution] Penny: “Look, Howard, I know her, okay, she’ll have sex with anyone as long as they keep buying her things.”
+  - [Caution] Penny (entering with three other sexy women): Hi guys, my friends and I got tired of dancing, so we came over to have sex with you.
   - [Mild] Penny: “Look, I grew up on a farm, okay, from what I heard they’re either having sex or Howard’s caught in a milking machine. Do you mind if I stay here tonight?”
   - [Mild] Howard (voice): We can’t get to the phone right now because we’re having sex.
 - Nudity & bodies — 2 moment(s)
   - [Mild] Penny: “…slept with in Omaha, which is basically every guy in Omaha, and washing the sluttiest collection of underwear you have ever seen in my bathroom sink.”
   - [Mild] Howard: “Well, is she doing it one thong at a time, or does she just throw it all in, like some sort of erotic bouillabaisse.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Howard: “Sheldon, you got him in your sights, fire, he’s charging his plasma rifle.”
+  - [Caution] Howard: “Sheldon, you got him in your sights, fire, he’s charging his plasma rifle.”
 - Swearing — 3 moment(s)
-  - [Moderate] Howard: “Son of a bitch, medpack, I need a medpack!”
+  - [Caution] Howard: “Son of a bitch, medpack, I need a medpack!”
   - [Mild] Sheldon: “Oh, what fresh hell is this?”
   - [Mild] Penny: “What the hell is your problem?”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Raj: “Oh, that’s very impressive. And a little racist.”
+  - [Too much] Raj: “Oh, that’s very impressive. And a little racist.”
 - Sexual insults — 2 moment(s)
-  - [Moderate] Sheldon: “You know, I apologise for my earlier outburst, who needs Halo when we can be regaled with the delightfully folksy tale of the whore of Omaha?”
-  - [Moderate] Leonard: “Oh, I don’t think she’s a whore.”
+  - [Caution] Sheldon: “You know, I apologise for my earlier outburst, who needs Halo when we can be regaled with the delightfully folksy tale of the whore of Omaha?”
+  - [Caution] Leonard: “Oh, I don’t think she’s a whore.”
 
 ## S1 E8 — The Grasshopper Experiment
 URL: https://watchwiththekids.com/ep/big-bang-theory/0108.html
@@ -147,28 +147,28 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Koothrappali is overwhelmed after his parents arrange a blind date, but he discovers he actually can talk to the opposite sex after a few drinks; however, complications set in when his beautiful date is more interested in Sheldon.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Sheldon: “Fine. I’ll have a virgin cuba libre.”
-  - [Moderate] Sheldon: “Nothing, I just really didn’t want to come. Virgin diet cuba libre please.”
-  - [Moderate] Raj: “You are my lady. Our parents said so. We are for all intents and purposes one hundred percent hooked up.”
-  - [Moderate] Sheldon: “How would I know, do you have a low sperm count?”
-  - [Moderate] Raj: “This has nothing to do with my sperm count.”
+  - [Caution] Sheldon: “Fine. I’ll have a virgin cuba libre.”
+  - [Caution] Sheldon: “Nothing, I just really didn’t want to come. Virgin diet cuba libre please.”
+  - [Caution] Raj: “You are my lady. Our parents said so. We are for all intents and purposes one hundred percent hooked up.”
+  - [Caution] Sheldon: “How would I know, do you have a low sperm count?”
+  - [Caution] Raj: “This has nothing to do with my sperm count.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Howard: “I’d like to try a slippery nipple.”
-  - [Explicit] Raj: “Is there another Penny here? I had such plans. I had dreams. I was going to be the Indira Gandhi of particle astro-physics. But with a penis, of course.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Howard: “I’d like to try a slippery nipple.”
+  - [Too much] Raj: “Is there another Penny here? I had such plans. I had dreams. I was going to be the Indira Gandhi of particle astro-physics. But with a penis, of course.”
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] Sheldon: “With certain obvious exceptions. Suicide, for example.”
-  - [Explicit] Raj: “So you’re a dental student? Hmm, are you aware that dentists have an extremely high suicide rate?”
+  - [Too much] Sheldon: “With certain obvious exceptions. Suicide, for example.”
+  - [Too much] Raj: “So you’re a dental student? Hmm, are you aware that dentists have an extremely high suicide rate?”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] Penny: “Okay, here you go, Leonard, one tequila sunrise.”
   - [Mild] Penny: “Okay, can you please order a cocktail, I need to practice mixing drinks.”
   - [Mild] Leonard: “Wait a minute, what’s the plan here? Let’s say he meets her and he likes her and they get married, what’s he going to do, stay drunk for the rest of his life?”
   - [Mild] Sheldon: “And may I point out she wouldn’t have asked me to go with her if you hadn’t been drunk and boring.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Dr Koothrappali: “Oh, sorry, you all look alike to us.”
+  - [Too much] Dr Koothrappali: “Oh, sorry, you all look alike to us.”
 - Fat-shaming — 2 moment(s)
-  - [Moderate] Raj: “The little fat girl that used to kick me in the samosas and call me untouchable.”
-  - [Moderate] Raj: “You have lost so much weight! That must have been difficult for you because you were so, so fat! Do you remember?”
+  - [Caution] Raj: “The little fat girl that used to kick me in the samosas and call me untouchable.”
+  - [Caution] Raj: “You have lost so much weight! That must have been difficult for you because you were so, so fat! Do you remember?”
 
 ## S1 E9 — The Cooper-Hofstadter Polarization
 URL: https://watchwiththekids.com/ep/big-bang-theory/0109.html
@@ -176,8 +176,8 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When Sheldon and Leonard are invited to present their joint findings at a physics conference, Sheldon refuses, and Penny steps in to mediate, only deepening the rift between the two best friends.
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Raj: “I suppose you could have your android penis circumcised. But that’s something your Rabbi would have to discuss with the manufacturers.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Raj: “I suppose you could have your android penis circumcised. But that’s something your Rabbi would have to discuss with the manufacturers.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Sheldon: “You know, in the future, when we’re disembodied brains in jars, we’re going to look back on this as eight hours well wasted.”
 
@@ -187,10 +187,10 @@ Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: After hearing Penny sing, Leonard lies to avoid seeing her perform, but Sheldon takes it one step further with a more elaborate lie that leads to the appearance of his non-existent cousin.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Toby: “Let me ask you something, Penny. Have you ever woken up in a fleabag motel, covered in your own vomit, next to a transsexual prostitute?”
+  - [Too much] Toby: “Let me ask you something, Penny. Have you ever woken up in a fleabag motel, covered in your own vomit, next to a transsexual prostitute?”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Sheldon: “It’s a very nice community. The Queen Mary is docked there, once the largest ocean liner in the world, it’s now a hotel and restaurant where they host a surprisingly gripping murder mystery dinner.”
-  - [Explicit] Leonard: “Let it go, Sheldon, the murderer was the first mate whether it makes sense to you or not.”
+  - [Too much] Sheldon: “It’s a very nice community. The Queen Mary is docked there, once the largest ocean liner in the world, it’s now a hotel and restaurant where they host a surprisingly gripping murder mystery dinner.”
+  - [Too much] Leonard: “Let it go, Sheldon, the murderer was the first mate whether it makes sense to you or not.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Toby: “This is amazing. Just sitting on a couch, watching TV with a woman. Not being drunk, or high, or… or… wondering if you’re a dude down there.”
 
@@ -200,7 +200,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: When Sheldon gets sick, Leonard and the boys know what's in store and avoid him like the plague, leaving an unsuspecting Penny to nurse the world's worst patient back to health.
 Watch for:
 - Homophobic jokes — 1 moment(s)
-  - [Explicit] Sheldon: “Somewhere between tool using and cave painting, homo habilus would have figured out to kill the guy with the runny nose.”
+  - [Too much] Sheldon: “Somewhere between tool using and cave painting, homo habilus would have figured out to kill the guy with the runny nose.”
 
 ## S1 E12 — The Jerusalem Duality
 URL: https://watchwiththekids.com/ep/big-bang-theory/0112.html
@@ -208,17 +208,17 @@ Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: When Leonard and Sheldon meet a 15-year-old physics prodigy, Sheldon is distraught that this boy genius is younger and smarter, so in an attempt to restore his sense of purpose, the boys come up with a solution to derail Dennis' research.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Raj: “She was sleeping with you?”
-  - [Moderate] Howard: “All he has to do now is hook up with one of them. (The look at Dennis, who is picking his ear.)”
+  - [Caution] Raj: “She was sleeping with you?”
+  - [Caution] Howard: “All he has to do now is hook up with one of them. (The look at Dennis, who is picking his ear.)”
   - [Mild] Howard: “I guess times have changed since we were young. Smart is the new sexy.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Leonard: “Hang on, are we talking about murdering Dennis Kim? I’m not saying no.”
+  - [Too much] Leonard: “Hang on, are we talking about murdering Dennis Kim? I’m not saying no.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Penny (to Raj): Mmm, this is really delicious, isn’t it? (Raj looks uncomfortable, then nods.) Still can’t talk to me unless you’re drunk, huh? (Shakes head) Oh, sweetie, you are so damaged.
   - [Mild] Howard: “No, I just wasted a lot of time thinking about what it would be like if she did.”
   - [Mild] Leonard: “Like what? We can’t get fifteen year-old girls drunk.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Leonard: “Howard, that’s racist, any fifteen year-old girl will do the trick. (Penny slams door.)”
+  - [Too much] Leonard: “Howard, that’s racist, any fifteen year-old girl will do the trick. (Penny slams door.)”
 
 ## S1 E13 — The Bat Jar Conjecture
 URL: https://watchwiththekids.com/ep/big-bang-theory/0113.html
@@ -230,7 +230,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leslie: “Leonard, there’s no reason to feel uncomfortable just because we’ve seen each other’s faces and naked bodies contorted in the sweet agony of coitus.”
 - Swearing — 2 moment(s)
-  - [Moderate] Sheldon: “It’s on, bitch.”
+  - [Caution] Sheldon: “It’s on, bitch.”
   - [Mild] Leonard: “What the hell is that.”
 
 ## S1 E14 — The Nerdvana Annihilation
@@ -239,11 +239,11 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: When Leonard and the guys buy a time machine prop from a classic 1960 movie, its arrival creates problems for Penny and she tells the boys that their obsession with comics and toys is "pathetic".
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sheldon: “In Back to the Future, Marty McFly got the opportunity to hook up with his extremely attractive young mother.”
+  - [Caution] Sheldon: “In Back to the Future, Marty McFly got the opportunity to hook up with his extremely attractive young mother.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Howard: “I guess that makes me large breasts.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “Well is that really necessary. If you need money you can always sell blood. And semen.”
+  - [Caution] Sheldon: “Well is that really necessary. If you need money you can always sell blood. And semen.”
 
 ## S1 E16 — The Peanut Reaction
 URL: https://watchwiththekids.com/ep/big-bang-theory/0116.html
@@ -251,18 +251,18 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When Penny learns that Leonard doesn't celebrate birthdays, she attempts to throw him a surprise party, but is sidetracked by Sheldon who unexpectedly gets to live out one of his greatest fantasies at an electronics store.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Explicit] Howard: “I suppose that’s possible, but for the record, I’ve never had a threesome and yet I still know I want one.”
-  - [Explicit] Howard: “Fine. If I do have a threesome, you can’t be part of it. I’m just kidding, yes you can. Can you bring a friend?”
-  - [Moderate] Woman: “Okay, I have my own wholesale flower business, and I want to hook up my computer in the front entrance with the one in my refrigerated warehouse.”
+  - [Too much] Howard: “I suppose that’s possible, but for the record, I’ve never had a threesome and yet I still know I want one.”
+  - [Too much] Howard: “Fine. If I do have a threesome, you can’t be part of it. I’m just kidding, yes you can. Can you bring a friend?”
+  - [Caution] Woman: “Okay, I have my own wholesale flower business, and I want to hook up my computer in the front entrance with the one in my refrigerated warehouse.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Leonard: “Well if I had a gun there, would you have shot yourself?”
+  - [Caution] Leonard: “Well if I had a gun there, would you have shot yourself?”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Raj is drunkenly singing True Colors very badly into a microphone with his shirt off and a bandana round his head while waving a beer bottle.
   - [Mild] Raj: “Everyone is very very drunk, and uh… (girl pours booze into his mouth) Oh look, there’s a girl taking her shirt off.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Penny: “I’ve got a hot former fat girl with no self-esteem, I’ve got a girl who punishes her father by sleeping around and an alcoholic who’s two tequila shots away from letting you wear her like a hat.”
+  - [Caution] Penny: “I’ve got a hot former fat girl with no self-esteem, I’ve got a girl who punishes her father by sleeping around and an alcoholic who’s two tequila shots away from letting you wear her like a hat.”
 
 ## S1 E17 — The Tangerine Factor
 URL: https://watchwiththekids.com/ep/big-bang-theory/0117.html
@@ -282,9 +282,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Sheldon: “Forget! You want me to forget? This mind does not forget. I haven’t forgotten a single thing since the day my mother stopped breast feeding me. It was a drizzly Tuesday.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Raj: “How dare you. Aishwarya Rai is a Goddess. By comparison Madhuri Dixit is a leprous prostitute.”
+  - [Too much] Raj: “How dare you. Aishwarya Rai is a Goddess. By comparison Madhuri Dixit is a leprous prostitute.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Sheldon: “It relies on the hominymic relationship between tick the blood-sucking arachnid, and tic the involuntary muscular contraction.”
+  - [Caution] Sheldon: “It relies on the hominymic relationship between tick the blood-sucking arachnid, and tic the involuntary muscular contraction.”
   - [Mild] Sheldon: “Oh, good Lord. Why don’t you just take your clothes down to the river and beat them with a rock?”
 
 ## S2 E2 — The Codpiece Topology
@@ -293,7 +293,7 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: When Leonard sees Penny with a handsome new guy, he enters into a rebound relationship with Sheldon's nemesis, Leslie Winkle.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Sheldon: “It’s not hard. It’s simple. You can either sit with me, your friend, colleague and roommate, or you can sit with an overrated scientist you might have sex with.”
+  - [Caution] Sheldon: “It’s not hard. It’s simple. You can either sit with me, your friend, colleague and roommate, or you can sit with an overrated scientist you might have sex with.”
   - [Mild] Leslie: “No, I’m all done with casual sex. From now on I’m fully committed to the traditional relationship paradigm.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Leonard: “Can we please just go in, my chain mail is stuck in my underwear.”
@@ -308,8 +308,8 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon creates a monster when he introduces Penny to the world of online gaming.
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Penny: “…got a single acting job, I have accomplished nothing, haven’t gotten a raise at work, haven’t even had sex in six months, and just now when I was walking up those stairs a fly flew in my mouth and I ate it.”
-  - [Moderate] Sheldon: “Well let’s see, uh, she attempted to open her apartment with her car key, because her face is overly Midwestern, um, she hasn’t had sex in six months, and she ate a fly.”
+  - [Caution] Penny: “…got a single acting job, I have accomplished nothing, haven’t gotten a raise at work, haven’t even had sex in six months, and just now when I was walking up those stairs a fly flew in my mouth and I ate it.”
+  - [Caution] Sheldon: “Well let’s see, uh, she attempted to open her apartment with her car key, because her face is overly Midwestern, um, she hasn’t had sex in six months, and she ate a fly.”
   - [Mild] Leslie: “Well, I would postulate that she’s escaping into the online world to compensate for her sexual frustration.”
   - [Mild] Leonard: “That’s not what she’s doing, Leslie, she’s just trying to shore up her self esteem, it has nothing to do with sex.”
   - [Mild] Leslie: “Everything has to do with sex.”
@@ -322,15 +322,15 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Raj, newly famous because of an article in a magazine, gets a big head and makes a disastrous play for Leonard's crush, Penny.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Sheldon: “Uh, for the record, it could kill us to meet new people. They could be murderers, or the carriers of unusual pathogens, and I’m not insane, my mother had me tested.”
+  - [Too much] Sheldon: “Uh, for the record, it could kill us to meet new people. They could be murderers, or the carriers of unusual pathogens, and I’m not insane, my mother had me tested.”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] Penny: “Gosh, Raj, do you think you’ll ever be able to talk in front of me without being drunk? (Shakes head.) Okay, well, I’ll just, um, go eat by myself.”
   - [Mild] Outside Penny’s door. Raj in a suit knocks on the door with his foot as he has a glass of champagne in both hands. He drinks one. Penny opens door, she is dressed up also.
   - [Mild] Penny: “Um, yeah, starting with the champagne a little early aren’t you?”
   - [Mild] Raj’s apartment. Raj is heard singing in a drunk voice through the door. He enters with his arm around Penny.
 - Racism & slurs — 2 moment(s)
-  - [Explicit] Leonard: “It’s not a date, and that’s racist.”
-  - [Explicit] Howard: “It can’t be racist, he’s a beloved character on the Simpsons.”
+  - [Too much] Leonard: “It’s not a date, and that’s racist.”
+  - [Too much] Howard: “It can’t be racist, he’s a beloved character on the Simpsons.”
 
 ## S2 E5 — The Euclid Alternative
 URL: https://watchwiththekids.com/ep/big-bang-theory/0205.html
@@ -338,8 +338,8 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Leonard and his friends stage an intervention to make Sheldon confront his longstanding refusal to drive.
 Watch for:
 - Homophobic jokes — 2 moment(s)
-  - [Explicit] Sheldon: “Well, no, no, I’m not going to go so far as to say that I represent a distinct new stage in humankind, you know, a Homo Novus, if you will, no, that’s for anthropologists to decide.”
-  - [Explicit] Leonard: “Fine. Assuming that everything you say is true, how does the biologically superior Homo Novus get to work tomorrow morning?”
+  - [Too much] Sheldon: “Well, no, no, I’m not going to go so far as to say that I represent a distinct new stage in humankind, you know, a Homo Novus, if you will, no, that’s for anthropologists to decide.”
+  - [Too much] Leonard: “Fine. Assuming that everything you say is true, how does the biologically superior Homo Novus get to work tomorrow morning?”
 
 ## S2 E6 — The Cooper-Nowitzki Theorem
 URL: https://watchwiththekids.com/ep/big-bang-theory/0206.html
@@ -353,7 +353,7 @@ Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Wolowitz thinks he's found the love of his life, until she meets Leonard.
 Watch for:
 - Swearing — 3 moment(s)
-  - [Moderate] Howard: “Son of a bitch.”
+  - [Caution] Howard: “Son of a bitch.”
   - [Mild] Howard (voice): Hey, Steph, it’s me again, Howard. Listen, if you’re free Friday, maybe we could have a little something to eat at my place. My mom cooks a hell of a brisket. Let me know. It’s Howard.
   - [Mild] Howard (voice): Really? Is that what you do when someone knocks? Thank you. I had no idea! (opening door) Hey, buddy. What brings you to my little slice of hell?
 
@@ -366,7 +366,7 @@ Watch for:
   - [Mild] Sheldon: “Oh, good, I used that right. Anyway, you’re aware that Leonard has entered into a new romantic relationship which includes a sexual component?”
   - [Mild] Sheldon: “Anyway, should you have any interaction with her, it would be most helpful that she not see you as a sexual rival.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Leonard: “The blunt instrument that will be the focus of my murder trial?”
+  - [Too much] Leonard: “The blunt instrument that will be the focus of my murder trial?”
   - [Mild] Leonard: “Huh? Would it work if I just punched you in the face?”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Leonard: “Want some more wine?”
@@ -377,10 +377,10 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon uses Dr. Stephanie to check all his hypochondriac symptoms. When Leonard's relationship with a new woman starts moving too fast for him, he goes to Penny for advice.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Penny: “You had sex, didn’t you?”
-  - [Moderate] Leonard’s bedroom. Leonard and Steph have just had sex.
-  - [Moderate] Leonard: “…pretty sure if I did I wouldn’t want one, but every time I talk to her about moving out she cries and we have sex.”
-  - [Moderate] Leonard: “Yeah, good for me. I’ll never have sex again. (Phone buzzes) I was wrong. See ya.”
+  - [Caution] Penny: “You had sex, didn’t you?”
+  - [Caution] Leonard’s bedroom. Leonard and Steph have just had sex.
+  - [Caution] Leonard: “…pretty sure if I did I wouldn’t want one, but every time I talk to her about moving out she cries and we have sex.”
+  - [Caution] Leonard: “Yeah, good for me. I’ll never have sex again. (Phone buzzes) I was wrong. See ya.”
   - [Mild] Sheldon: “Good morning, Dr. Stephanie. I trust Leonard satisfied you sexually last night.”
   - [Mild] Howard: “A veritable smorgasbord of potential sexual partners. See the blonde over there? I can hit on her and you can’t.”
 - Nudity & bodies — 1 moment(s)
@@ -395,12 +395,12 @@ Watch for:
   - [Mild] Penny: “Because a smart guy takes the nude photos of his wife off his cell phone before he tries to take nude photos of his girlfriend.”
   - [Mild] Leonard: “He tried to take nude photos of you?”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Porn / adult-channel plot is part of this episode.
-  - [Explicit] Leonard: “He does this hysterical impersonation of Stephen Hawking having phone sex.”
+  - [Too much] Porn / adult-channel plot is part of this episode.
+  - [Too much] Leonard: “He does this hysterical impersonation of Stephen Hawking having phone sex.”
 - Violence & injury — 1 moment(s)
   - [Mild] Leonard: “…Underhill is ten times smarter than me! You’d have to drive a railroad spike into his brain for me to beat him at checkers!”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Sheldon: “It’s no wonder suicide rates skyrocket this time of year.”
+  - [Too much] Sheldon: “It’s no wonder suicide rates skyrocket this time of year.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] David: “Uh-huh. We’re going to explore the effects of tequila shots on a gorgeous 22-year-old woman.”
 
@@ -434,11 +434,11 @@ Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon's "simple" solution to Penny's financial problem leads to a confrontation between Leonard and Penny's hulking ex-boyfriend, Kurt.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Leonard: “Penny’s hooking up with her jerk of an ex-boyfriend and I have indelible ink on my forehead!”
+  - [Caution] Leonard: “Penny’s hooking up with her jerk of an ex-boyfriend and I have indelible ink on my forehead!”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Penny: “What are you saying? That I’m using my body to get dinner? That I’m some kind of Chinese food prostitute?”
+  - [Too much] Penny: “What are you saying? That I’m using my body to get dinner? That I’m some kind of Chinese food prostitute?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Sheldon: “All right. Leonard fairly calls the question, who is in favour of abandoning our game and confronting Penny’s steroid-infused ex-boyfriend in a suicidal mission to extract money from him? Say hi to Kurt for us.”
+  - [Too much] Sheldon: “All right. Leonard fairly calls the question, who is in favour of abandoning our game and confronting Penny’s steroid-infused ex-boyfriend in a suicidal mission to extract money from him? Say hi to Kurt for us.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Penny: “He was drunk.”
   - [Mild] Leonard: “And that’s based on the inherent credit-worthiness of people who get drunk and urinate on police vehicles?”
@@ -449,14 +449,14 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Disastrous visit from Mrs. Hofstadter brings Leonard and Penny closer together.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Leonard: “I don’t know. Foreplay?”
-  - [Moderate] Leonard: “Come on, you’re trying to have sex with your father, and I’m okay with that.”
+  - [Caution] Leonard: “I don’t know. Foreplay?”
+  - [Caution] Leonard: “Come on, you’re trying to have sex with your father, and I’m okay with that.”
   - [Mild] Sheldon: “I have the same problem with him. My theory is that his lack of focus stems from an over-developed sex drive.”
   - [Mild] Sheldon: “Of course. I would very much like to read about your sex life.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Beverley: “An outmoded theory, of course, but the boy did spend most of his waking hours with a tight grasp on his penis.”
-  - [Explicit] Penny: “Yeah, you grabbed your penis and wouldn’t let go. Your mother told me.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Beverley: “An outmoded theory, of course, but the boy did spend most of his waking hours with a tight grasp on his penis.”
+  - [Too much] Penny: “Yeah, you grabbed your penis and wouldn’t let go. Your mother told me.”
   - [Mild] Penny: “Uh-huh, he called me Slugger until I got my first training bra, and then he just stopped playing catch with me. I wasn’t Slugger anymore. Your mother’s here!”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “Howard lives with his mother and Raj can’t speak to women unless he’s drunk. Go.”
@@ -468,16 +468,16 @@ Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Paintball game leads to a fight between Penny and Sheldon, and romance for Wolowitz and Leslie.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Howard: “Court-martial, schmort-martial, Leslie Winkle is the fifth girl I’ve ever had sex with. I mean, for free.”
-  - [Moderate] Howard (after his phone rings): Ooh, looks like I’m gonna have sex tonight. Hey, baby…
-  - [Moderate] Howard: “What am I supposed to do, Leonard? There’s a woman out there anxious to have sex with me. You understand, right?”
+  - [Caution] Howard: “Court-martial, schmort-martial, Leslie Winkle is the fifth girl I’ve ever had sex with. I mean, for free.”
+  - [Caution] Howard (after his phone rings): Ooh, looks like I’m gonna have sex tonight. Hey, baby…
+  - [Caution] Howard: “What am I supposed to do, Leonard? There’s a woman out there anxious to have sex with me. You understand, right?”
   - [Mild] Howard: “Okay, one way to look at this is that I’m getting new equipment, and you’re not, and that’s unfair. But a better way to look at this is that I’m getting sex and you’re not, and that’s delightful.”
   - [Mild] Leslie: Sexy.
   - [Mild] Howard: “So, bottom line, I’m just a bought-and-paid-for sex toy.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] Penny: “Yeah, you know the sad thing is, it’s really not. Ooh, is this one of those paintball guns?”
-  - [Moderate] Penny: “Oh, no, thanks. I’m from Nebraska. When we shoot things, it’s because we want to eat them or make them leave our boyfriends alone. (Gun goes off and shoots three paint pellets onto Sheldon’s spot.)”
-  - [Moderate] Leonard: “Just to shoot the couch with a paintball gun?”
+  - [Caution] Penny: “Yeah, you know the sad thing is, it’s really not. Ooh, is this one of those paintball guns?”
+  - [Caution] Penny: “Oh, no, thanks. I’m from Nebraska. When we shoot things, it’s because we want to eat them or make them leave our boyfriends alone. (Gun goes off and shoots three paint pellets onto Sheldon’s spot.)”
+  - [Caution] Leonard: “Just to shoot the couch with a paintball gun?”
 
 ## S2 E17 — The Terminator Decoupling
 URL: https://watchwiththekids.com/ep/big-bang-theory/0217.html
@@ -501,13 +501,13 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leonard: “Believe me, Howard, any girl who would be willing to play that, you don’t want to see naked.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Howard: “It’s a common stripper problem. They dance, they sweat, they clump.”
-  - [Explicit] Howard: “Actually, I’m thinking about this one stripper named Vega. But sure, calcium sulphate could work.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Howard: “It’s a common stripper problem. They dance, they sweat, they clump.”
+  - [Too much] Howard: “Actually, I’m thinking about this one stripper named Vega. But sure, calcium sulphate could work.”
 - Violence & injury — 1 moment(s)
   - [Mild] Sheldon: “So, Penny has a don’t knock on my door before eleven o’clock or I punch you in the throat rule.”
 - Swearing — 5 moment(s)
-  - [Moderate] Penny: “Yeah, it’s a bitch.”
+  - [Caution] Penny: “Yeah, it’s a bitch.”
   - [Mild] Leonard: “Damn it. I slipped.”
   - [Mild] Leonard: “Holy crap. Someone just ordered a thousand Penny Blossoms.”
   - [Mild] Penny: “Yeah, but they don’t have to glue the books together. How the hell are we going to make a thousand Penny Blossoms in one day?”
@@ -519,20 +519,20 @@ Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Penny develops a rivalry with a sexy female neighbor who threatens to become "The New Penny" in the building.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Penny: “Not with a thousand condoms, Howard.”
-  - [Moderate] Howard: “According to Alicia’s facebook page, she’s hooking up with one of the producers on CSI.”
+  - [Caution] Penny: “Not with a thousand condoms, Howard.”
+  - [Caution] Howard: “According to Alicia’s facebook page, she’s hooking up with one of the producers on CSI.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Alicia: “I just got a callback to audition for CSI to play a hooker who gets killed.”
-  - [Explicit] Penny: “Uh, no. No, no, no, you know, congratulations, I think you’ll make a great hooker.”
+  - [Too much] Alicia: “I just got a callback to audition for CSI to play a hooker who gets killed.”
+  - [Too much] Penny: “Uh, no. No, no, no, you know, congratulations, I think you’ll make a great hooker.”
 - Swearing — 3 moment(s)
-  - [Moderate] Alicia: “Well, what are you going to do about it, bitch?”
+  - [Caution] Alicia: “Well, what are you going to do about it, bitch?”
   - [Mild] Howard’s Mother (voice): The hell you will! What am I running here, a fancy restaurant? Does this look like Olive Garden?
   - [Mild] Howard (voice): Fine, I’ll stay! You happy, crazy lady? I sure as hell hope so, because you’re ruining my life!
 - Alcohol & drugs — 2 moment(s)
-  - [Explicit] Sheldon: “So? Do cocaine smugglers write cocaine on the box?”
+  - [Too much] Sheldon: “So? Do cocaine smugglers write cocaine on the box?”
   - [Mild] Raj (drinking some wine): Hello there
 - Sexual insults — 1 moment(s)
-  - [Moderate] Penny: “Well, dead whore on TV, live one in real life.”
+  - [Caution] Penny: “Well, dead whore on TV, live one in real life.”
 
 ## S2 E20 — The Hofstadter Isotope
 URL: https://watchwiththekids.com/ep/big-bang-theory/0220.html
@@ -540,18 +540,18 @@ Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: While a fellow comic book-loving pal of the guys romances Penny, Leonard and Wolowitz venture out into the world of "Ladies' Night" at a local bar.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Howard: “I’m a horny engineer, Leonard. I never joke about math or sex.”
+  - [Caution] Howard: “I’m a horny engineer, Leonard. I never joke about math or sex.”
   - [Mild] Howard: “You can modify it to calculate our chances of having sex by changing the formula to use the number of single women in Los Angeles, the number of those who might…”
   - [Mild] Howard: “Neediness times dress size squared. Crunching the numbers, I come up with a conservative 5,812 potential sex partners within a 40-mile radius.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Howard: “Okay! Let me just go inside and slip off my underwear.”
   - [Mild] Leonard (to Raj): Do you…? (Raj checks his underwear) Let’s go.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Howard: “Get it? I mean, they’re laughing, we’re laughing, and then we get them up to about a .15 blood alcohol level, and tell them we’re millionaires.”
+  - [Caution] Howard: “Get it? I mean, they’re laughing, we’re laughing, and then we get them up to about a .15 blood alcohol level, and tell them we’re millionaires.”
 - Swearing — 4 moment(s)
-  - [Moderate] Raj: “Well, what are we waiting for? Let’s bounce, bitches.”
-  - [Moderate] Sheldon: “I am asserting, in the event that Batman’s death proves permanent, that original Robin, Dick Grayson, is the logical successor to the Bat Cowl.”
-  - [Moderate] Stuart: “But returning to the original issue, Dick Grayson became Nightwing, a superhero in his own right.”
+  - [Caution] Raj: “Well, what are we waiting for? Let’s bounce, bitches.”
+  - [Caution] Sheldon: “I am asserting, in the event that Batman’s death proves permanent, that original Robin, Dick Grayson, is the logical successor to the Bat Cowl.”
+  - [Caution] Stuart: “But returning to the original issue, Dick Grayson became Nightwing, a superhero in his own right.”
   - [Mild] Howard: “(They turn to see Raj with his tongue down the throat of a “larger lady” by the bar.) Lucky bastard.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Howard: “Which means, as the evening progresses, we will get better looking courtesy of 99 cent margaritas and two-for-one Jell-O shots.”
@@ -562,10 +562,10 @@ Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for und
 Summary: Leonard and Koothrappali take a heartbroken Wolowitz to Las Vegas, leaving Sheldon locked out of his apartment and forced to bunk with Penny.
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Leonard: “No. Look, imagine you maintained a friendship with someone you had sex with, but you were free to date whoever you wanted.”
-  - [Moderate] Raj (finding a large quantity of condoms): That’s the spirit, Howard. Yes, we can.
-  - [Moderate] Raj (reading Howard’s twitter): “I’m so lonely and horny I may open this $20 jar of peanuts and end it all.”
-  - [Moderate] Sheldon: “Are you able to have sex with men without developing an emotional attachment?”
+  - [Caution] Leonard: “No. Look, imagine you maintained a friendship with someone you had sex with, but you were free to date whoever you wanted.”
+  - [Caution] Raj (finding a large quantity of condoms): That’s the spirit, Howard. Yes, we can.
+  - [Caution] Raj (reading Howard’s twitter): “I’m so lonely and horny I may open this $20 jar of peanuts and end it all.”
+  - [Caution] Sheldon: “Are you able to have sex with men without developing an emotional attachment?”
   - [Mild] Howard: “No, it was something else. Why does everything have to be about sex with you? Come on. Who’s turn is it?”
   - [Mild] Sheldon: “Where you can replace them with new problems such as alcoholism, gambling addiction and sexually transmitted diseases.”
   - [Mild] Sheldon: “On its face, the idea of satisfying ones sexual appetite, assuming one is afflicted with such, without emotional entanglement, that seems eminently practical.”
@@ -573,10 +573,10 @@ Watch for:
   - [Mild] Howard: “Of course I had feelings for her, I saw her naked for God’s sake!”
   - [Mild] Sheldon: “Sure, why not? And after the sun’s down we can all pile in my pick-up and go skinny-dipping down at the creek. ‘Cause today’s the day to stop making sense.”
 - Porn / strippers / sex work — 4 moment(s)
-  - [Explicit] Leonard: “Okay, I hate to break this to you and whatever your jammy is, but, I’m pretty sure she is a prostitute.”
-  - [Explicit] Raj: “It’s too bad he wasn’t here for that hooker. She’s exactly his type. A hooker. You know, I bet if we hired her, that would cheer him up.”
-  - [Explicit] Leonard: “We’re not going to get Wolowitz a hooker.”
-  - [Explicit] Raj: “If you’re really a prostitute.”
+  - [Too much] Leonard: “Okay, I hate to break this to you and whatever your jammy is, but, I’m pretty sure she is a prostitute.”
+  - [Too much] Raj: “It’s too bad he wasn’t here for that hooker. She’s exactly his type. A hooker. You know, I bet if we hired her, that would cheer him up.”
+  - [Too much] Leonard: “We’re not going to get Wolowitz a hooker.”
+  - [Too much] Raj: “If you’re really a prostitute.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Penny: “Really? Are you drunk?”
 
@@ -586,9 +586,9 @@ Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Things begin to look up for Leonard when Penny makes a surprising revelation on her second date with Stuart. Meanwhile, Wolowitz enlists his friends' help when he discovers a critical design flaw in his project for NASA.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Raj: “You’re paying? Have you been selling your sperm again?”
+  - [Caution] Raj: “You’re paying? Have you been selling your sperm again?”
 - Swearing — 6 moment(s)
-  - [Moderate] Raj: “Leonard pretends to be a friend and acts like a two-faced bitch, therefore, he is reborn as a banana slug.”
+  - [Caution] Raj: “Leonard pretends to be a friend and acts like a two-faced bitch, therefore, he is reborn as a banana slug.”
   - [Mild] Leonard: “Why the hell not?”
   - [Mild] Leonard: “It must be hell inside your head.”
   - [Mild] Howard: “No. Are you crazy?What am I gonna say? I screwed up your toilet and pretty soon there’s gonna be crap floating all over your nice shiny space station?”
@@ -606,12 +606,12 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leonard: “Oh, well, it all happened kind of fast, and we had to get physicals and buy thermal underwear and study up on, you know, snow and stuff. Sorry, I was gonna tell you.”
 - Swearing — 2 moment(s)
-  - [Moderate] Leonard: “I can’t press any of the buttons with my gloves. Oh, son of a bitch!”
+  - [Caution] Leonard: “I can’t press any of the buttons with my gloves. Oh, son of a bitch!”
   - [Mild] Howard: “Oh, damn it. Peer pressure. Fine.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Penny: “Wine, credit card and late night television are a bad combination.”
 - Homophobic jokes — 1 moment(s)
-  - [Explicit] Raj, you will be painting sideburns and a Van Dyke on a six-inch figurine of Legolas the elf.
+  - [Too much] Raj, you will be painting sideburns and a Van Dyke on a six-inch figurine of Legolas the elf.
 
 ## S3 E1 — The Electric Can Opener Fluctuation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0301.html
@@ -619,10 +619,10 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon flees back to Texas in disgrace when he learns the guys tampered with his arctic expedition data, forcing the guys to follow him and threatening Leonard's hopes for a romantic encounter with Penny.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Leonard: “You know how they say when friends have sex it can get weird?”
+  - [Caution] Leonard: “You know how they say when friends have sex it can get weird?”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Howard: “Personally, I don’t care, but my genitals wanted me to ask.”
-  - [Explicit] Leonard: “Well, tell your genitals what I do with Penny is none of their business.”
+  - [Too much] Howard: “Personally, I don’t care, but my genitals wanted me to ask.”
+  - [Too much] Leonard: “Well, tell your genitals what I do with Penny is none of their business.”
   - [Mild] Sheldon: “So we slept together naked. It was only to keep our core body temperatures from plummeting.”
   - [Mild] Leonard: “Yeah, but I already saw him naked. Just come here.”
 - Alcohol & drugs — 1 moment(s)
@@ -634,8 +634,8 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Leonard and Penny struggle to recover from an awkward first hookup while Sheldon and Howard stake their best comic books on a bet to determine the species of a cricket.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Raj: “Yeah, but since you and Penny finally hooked up, we thought you two would be having bouncy naked yum-yum night.”
-  - [Moderate] Leonard: “Nothing flamed out. We don’t have to have sex every night, you know.”
+  - [Caution] Raj: “Yeah, but since you and Penny finally hooked up, we thought you two would be having bouncy naked yum-yum night.”
+  - [Caution] Leonard: “Nothing flamed out. We don’t have to have sex every night, you know.”
   - [Mild] Leonard: “There’s more to life than sex, Raj.”
   - [Mild] Sheldon: “Perhaps what Leonard is obliquely referring to is the occurrence of some sort of sexual dysfunction.”
   - [Mild] Leonard: “Nothing like that happened, all right? The sex was just fine.”
@@ -643,15 +643,15 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Howard: “What’s there to learn? You get naked, do nasty things to each other, then somebody makes scrambled eggs and salami. Easy peasy.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “Oh, a clever, albeit obsolete, euphemism for insufficient blood flow to the male sex organ.”
+  - [Caution] Sheldon: “Oh, a clever, albeit obsolete, euphemism for insufficient blood flow to the male sex organ.”
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “Okay, I believe a chicken made you his bitch. But the cricket thing, I don’t buy. Bet me.”
+  - [Caution] Howard: “Okay, I believe a chicken made you his bitch. But the cricket thing, I don’t buy. Bet me.”
   - [Mild] Raj: “Holy crap. It’s like Silence of the Lambs down here. (Howard tickles the back of his neck. He screams) Don’t do that!”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “Yeah, it’s a perfectly good word. You put it in front of wine or dining, and you’ve really got something. Okay, well, let me ask you this, how was last night for you?”
   - [Mild] Penny: “You know, I think this is one of those things where talking about it is not going to make it better. Want a glass of wine?”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Prof Crawley: “That tramp took me for everything!”
+  - [Caution] Prof Crawley: “That tramp took me for everything!”
 
 ## S3 E3 — The Gothowitz Deviation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0303.html
@@ -659,15 +659,15 @@ Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Howard and Raj visit a Goth nightclub to pick up women while Sheldon attempts to build a better Penny using chocolate-based behavior modification.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Howard: “Did you bring the black condoms?”
+  - [Caution] Howard: “Did you bring the black condoms?”
   - [Mild] Howard: “Fantastic, right? Put them on, have hot sex with some freaky girl with her business pierced, take them off, and I can still be buried in a Jewish cemetery.”
   - [Mild] Raj: “Are you seriously going to deface your body just for the possibility you could have cheap sex with a strange girl you met in a bar?”
   - [Mild] Raj: “And then they held hands and did a sexy, demonic hokey-pokey for us.”
   - [Mild] Howard: “True. Okay, forget the hot tub. The point is, we each have a ménage with sexy goth girls.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Howard: “Well, In case I snag one on someone’s nipple ring.”
+  - [Too much] Howard: “Well, In case I snag one on someone’s nipple ring.”
 - Violence & injury — 4 moment(s)
-  - [Moderate] Howard: “Hello, it looks like blood. Did you even read the Wiki How link I sent you on being goth?”
+  - [Caution] Howard: “Hello, it looks like blood. Did you even read the Wiki How link I sent you on being goth?”
   - [Mild] Penny: “Ooh, Sheldon, it’s as if you don’t think I’ll punch you.”
   - [Mild] Leonard: “They’re gonna get beaten up at that club.”
   - [Mild] Penny: “They’re gonna get beaten up at Walgreens. Oh, sorry, Sheldon, I almost sat in your spot.”
@@ -683,13 +683,13 @@ Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Raj must find a new job or be sent back to India, but Sheldon has a solution, which leaves Leonard and Penny dealing with Howard as third wheel.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Penny: “Leonard, honey, you don’t have to say thank you every time we have sex.”
+  - [Caution] Penny: “Leonard, honey, you don’t have to say thank you every time we have sex.”
   - [Mild] Penny: “Let’s slide over to Sheldon’s spot a make out.”
   - [Mild] Howard: “Okay, I guess I can hang for a little while. So what are we watching? Sex and the city.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Raj: “Okay, uh, please don’t take this the wrong way, but I’d rather swim buck-naked across the Ganges with a paper cut on my nipple and die a slow, agonizing death from a viral infection than work with you.”
+  - [Too much] Raj: “Okay, uh, please don’t take this the wrong way, but I’d rather swim buck-naked across the Ganges with a paper cut on my nipple and die a slow, agonizing death from a viral infection than work with you.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Sheldon: “Forgive me, as you know, I’m no adept at reading facial cues, but I’m going to take a stab here, you’re either sad or nauseated.”
+  - [Too much] Sheldon: “Forgive me, as you know, I’m no adept at reading facial cues, but I’m going to take a stab here, you’re either sad or nauseated.”
 
 ## S3 E5 — The Creepy Candy Coating Corollary
 URL: https://watchwiththekids.com/ep/big-bang-theory/0305.html
@@ -697,12 +697,12 @@ Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: While Sheldon settles a score with his nemesis, Wil Wheaton, Wolowitz begs Leonard to get Penny to set him up with one of her friends.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Bernadette: “That’s nothing. I couldn’t ride a bicycle ’cause my mother was afraid I’d hit a bump and lose my virginity.”
+  - [Caution] Bernadette: “That’s nothing. I couldn’t ride a bicycle ’cause my mother was afraid I’d hit a bump and lose my virginity.”
   - [Mild] Penny: “And you thought a good time to bring this up be right after sex.”
   - [Mild] Leonard: “Well, I sure as hell wasn’t going to bring it up before sex, and during, I was trying to remember what I read on google, so…”
 - Violence & injury — 3 moment(s)
-  - [Explicit] Sheldon: “From hell’s heart, I stab at thee.”
-  - [Explicit] Raj: “What are you waiting for? Kill Wil Wheaton! From hell’s heart, stab at him!”
+  - [Too much] Sheldon: “From hell’s heart, I stab at thee.”
+  - [Too much] Raj: “What are you waiting for? Kill Wil Wheaton! From hell’s heart, stab at him!”
   - [Mild] Howard: “All right, Raj has played his phantom warlord card, and I am going to back him up with my strangling vines. Choke on that, sucka.”
 
 ## S3 E6 — The Cornhusker Vortex
@@ -711,7 +711,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon teaches Leonard how to understand football while a kite-fighting incident threatens Howard and Raj's friendship.
 Watch for:
 - Swearing — 3 moment(s)
-  - [Moderate] Raj: “Son of a bitch.”
+  - [Caution] Raj: “Son of a bitch.”
   - [Mild] Leonard: “Well, this sucks.”
   - [Mild] Leonard: “What the hell are you talking about?”
 - Alcohol & drugs — 5 moment(s)
@@ -737,8 +737,8 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: With Leonard, Howard and Raj away camping in the desert, an injured Penny has only Sheldon to rely on.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Raj: “Big deal. Every time I watch that show it’s old women putting condoms on cucumbers.”
-  - [Moderate] Howard: “I lost my virginity to my cousin Jeanie.”
+  - [Caution] Raj: “Big deal. Every time I watch that show it’s old women putting condoms on cucumbers.”
+  - [Caution] Howard: “I lost my virginity to my cousin Jeanie.”
   - [Mild] Howard: “Ooh, Real Sex.”
   - [Mild] Howard: “Oh, this sucks, I’m switching back to Real Sex.”
 - Nudity & bodies — 3 moment(s)
@@ -752,16 +752,16 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After he's humiliated on National Public Radio, Sheldon vows to destroy Kripke, while Wolowitz tries not to destroy his new relationship with Bernadette.
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Explicit] Katee Sackhoff: “Thanks, Howard. Always nice to be part of your masturbatory fantasies.”
-  - [Moderate] Bernadette: “But I need to know whether you’re looking for a relationship or a one-night stand.”
-  - [Moderate] Howard: “You know, it’s not unheard of for a one-night stand to turn into a relationship.”
-  - [Moderate] Howard: “Okay, well, before you and Penny hooked up, did she ask for any kind of commitment?”
-  - [Moderate] Leonard: “The cultural paradigm in which people have sex after three dates.”
-  - [Moderate] Bernadette: “Howard, we’ve only been on three dates. We haven’t even had sex yet.”
+  - [Too much] Katee Sackhoff: “Thanks, Howard. Always nice to be part of your masturbatory fantasies.”
+  - [Caution] Bernadette: “But I need to know whether you’re looking for a relationship or a one-night stand.”
+  - [Caution] Howard: “You know, it’s not unheard of for a one-night stand to turn into a relationship.”
+  - [Caution] Howard: “Okay, well, before you and Penny hooked up, did she ask for any kind of commitment?”
+  - [Caution] Leonard: “The cultural paradigm in which people have sex after three dates.”
+  - [Caution] Bernadette: “Howard, we’ve only been on three dates. We haven’t even had sex yet.”
   - [Mild] Bernadette: Sex.
   - [Mild] Howard: “Three dates means sex? Who knew?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Leonard: “You’d have a better shot with the three-breasted Martian hooker from Total Recall.”
+  - [Too much] Leonard: “You’d have a better shot with the three-breasted Martian hooker from Total Recall.”
 
 ## S3 E10 — The Gorilla Experiment
 URL: https://watchwiththekids.com/ep/big-bang-theory/0310.html
@@ -772,7 +772,7 @@ Watch for:
   - [Mild] Howard: “I didn’t say anything like that. I said Leonard has to ask my permission. (Bernadette storms out) Come on, I don’t want to eat lamb stew with my mother. Damn, I was this close on the bra.”
   - [Mild] Howard: “We were completely naked, about to devour each other when, you text her that I have a problem with her hanging out with you.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Bernadette: “Oh. You got me again. This isn’t non-fat yogurt, this is fatty fat fat. Excuse me.”
+  - [Caution] Bernadette: “Oh. You got me again. This isn’t non-fat yogurt, this is fatty fat fat. Excuse me.”
 
 ## S3 E11 — The Maternal Congruence
 URL: https://watchwiththekids.com/ep/big-bang-theory/0311.html
@@ -780,20 +780,20 @@ Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Visit from Leonard's mother delights Sheldon and horrifies Leonard.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Explicit] Beverley: “Although, I will point out, Leonard, that I am a trained psychiatrist and you are exhibiting the same secretive behavioural tics that accompanied your learning to masturbate.”
-  - [Explicit] Beverley: “Oh, that’s nothing. I’ve been responsible for my own orgasms since 1982.”
-  - [Explicit] Beverley: “That’s exactly what I say during orgasms. Yikes.”
-  - [Moderate] Penny: “I’m sleeping with your son.”
+  - [Too much] Beverley: “Although, I will point out, Leonard, that I am a trained psychiatrist and you are exhibiting the same secretive behavioural tics that accompanied your learning to masturbate.”
+  - [Too much] Beverley: “Oh, that’s nothing. I’ve been responsible for my own orgasms since 1982.”
+  - [Too much] Beverley: “That’s exactly what I say during orgasms. Yikes.”
+  - [Caution] Penny: “I’m sleeping with your son.”
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Beverley: “Well, that’s convenient. How did his penis turn out?”
-  - [Explicit] Penny: “Oh, Beverly, I can’t talk to my boyfriend’s mother about his penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Beverley: “Well, that’s convenient. How did his penis turn out?”
+  - [Too much] Penny: “Oh, Beverly, I can’t talk to my boyfriend’s mother about his penis.”
   - [Mild] Beverley: “Oh, yes, the waitress slash actress with the unresolved father issues. Has he finally come to terms with his little slugger growing breasts?”
   - [Mild] Howard: “If it helps, we’re all good with your breasts.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Beverley: “Yes. He was cheating on me.”
+  - [Caution] Beverley: “Yes. He was cheating on me.”
 - Swearing — 4 moment(s)
-  - [Moderate] Beverley: “Well, initially I felt something akin to grief and perhaps anger, but that’s the natural reaction of the limbic system to being betrayed by a loathsome son of a bitch.”
+  - [Caution] Beverley: “Well, initially I felt something akin to grief and perhaps anger, but that’s the natural reaction of the limbic system to being betrayed by a loathsome son of a bitch.”
   - [Mild] Penny: “Nothing. Not a damn thing.”
   - [Mild] Leonard: “What the hell is going on?”
   - [Mild] Penny: “What the hell happened to lovely and charming?”
@@ -808,8 +808,8 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: While Sheldon and Koothrappali attend a university mixer, Leonard is upset to discover that Penny believes in psychics.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Leonard: “Don’t worry. We’re planning to have sex right on the salad bar.”
-  - [Moderate] Howard: “These are the ones you want to sleep with.”
+  - [Caution] Leonard: “Don’t worry. We’re planning to have sex right on the salad bar.”
+  - [Caution] Howard: “These are the ones you want to sleep with.”
   - [Mild] Sheldon: “Well, you’re in luck, there’s a mixer here in Flatland. Oh, look, there’s a sexually attractive line segment, you should chat her up.”
   - [Mild] Howard: “Why don’t you kids go ahead and chat? We’re gonna make out back here.”
   - [Mild] Leonard: “What’s your point? In order to keep having a sexual relationship with Penny, I have to give up everything I believe in, my intellectual integrity, the very nature of who I am? I can’t do that, Howard.”
@@ -836,18 +836,18 @@ Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Leonard can only bring one guest on a trip to see CERN's Large Hadron Collider in Switzerland on Valentine's Day.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Raj: “Fine, tell us you’re going to have sex with Penny.”
+  - [Caution] Raj: “Fine, tell us you’re going to have sex with Penny.”
   - [Mild] Raj: “It’s okay. I don’t mind hearing about your sex life. It’s his that bugs me.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Raj: “Not much. Nuked a burrito. Prayed to the Hindu god Urvashi that your bowels would loosen and your penis would droop like a willow tree.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Raj: “Not much. Nuked a burrito. Prayed to the Hindu god Urvashi that your bowels would loosen and your penis would droop like a willow tree.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Sheldon: “Given that Saint Valentine was a third century Roman priest who was stoned and beheaded, wouldn’t a more appropriate celebration of the evening be taking one’s steady gal to witness a brutal murder?”
-  - [Moderate] Leonard: “No. But it does involve air travel. Okay, um, let me slice this Swiss cheese with my Swiss army knife, and then you can wash it down with a cup of Swiss Miss instant cocoa.”
+  - [Too much] Sheldon: “Given that Saint Valentine was a third century Roman priest who was stoned and beheaded, wouldn’t a more appropriate celebration of the evening be taking one’s steady gal to witness a brutal murder?”
+  - [Caution] Leonard: “No. But it does involve air travel. Okay, um, let me slice this Swiss cheese with my Swiss army knife, and then you can wash it down with a cup of Swiss Miss instant cocoa.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Sheldon: “You’re right. Judas had the decency to hang himself after what he did.”
+  - [Too much] Sheldon: “You’re right. Judas had the decency to hang himself after what he did.”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Sheldon: “Given that Saint Valentine was a third century Roman priest who was stoned and beheaded, wouldn’t a more appropriate celebration of the evening be taking one’s steady gal to witness a brutal murder?”
+  - [Caution] Sheldon: “Given that Saint Valentine was a third century Roman priest who was stoned and beheaded, wouldn’t a more appropriate celebration of the evening be taking one’s steady gal to witness a brutal murder?”
   - [Mild] Raj: “Oh, my goodness, look at this room! Champagne! Roses! Oh, and little chocolates! This is going to be the best Valentine’s Day ever.”
 
 ## S3 E16 — The Excelsior Acquisition
@@ -856,7 +856,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon winds up in traffic court when he gets a ticket because of Penny.
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Howard: “Yeah, right, there’s nothing more awesome and frightening than a man who’s got music blasting from between his nipples.”
+  - [Too much] Howard: “Yeah, right, there’s nothing more awesome and frightening than a man who’s got music blasting from between his nipples.”
 
 ## S3 E17 — The Precious Fragmentation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0317.html
@@ -864,19 +864,19 @@ Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When the guys find a ring from "The Lord of the Rings" at a garage sale, it threatens to tear them apart.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Raj: “Think about this. The only way your mother was born was your Meemaw had sex.”
-  - [Moderate] Howard: “All right. I’ll bet your Meemaw didn’t just have sex to have your mother. I bet she had sex because she liked it.”
+  - [Caution] Raj: “Think about this. The only way your mother was born was your Meemaw had sex.”
+  - [Caution] Howard: “All right. I’ll bet your Meemaw didn’t just have sex to have your mother. I bet she had sex because she liked it.”
   - [Mild] Leonard: “You want to talk about endless patience? Penny made me watch all five seasons of Sex and the City.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Howard: “Looks like someone drew a penis on him.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Howard: “Looks like someone drew a penis on him.”
   - [Mild] Howard: “You know, your black market phasers, your screen-worn Lieutenant Uhura panties, that kind of stuff.”
   - [Mild] Raj: “I think it’s lovely you call your mommy and let her know you’re going to be late for dinner. From what I know about these things, if a woman doesn’t breast-feed on time, it’s very uncomfortable for her boobies.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Raj: “Well, if you want privacy let go of the ring. I’m so glad we came to this gentile strip club! Howard, here’s more bacon to tuck into the shiksa’s G-string!”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Raj: “Well, if you want privacy let go of the ring. I’m so glad we came to this gentile strip club! Howard, here’s more bacon to tuck into the shiksa’s G-string!”
 - Violence & injury — 4 moment(s)
-  - [Moderate] Howard: “That’s not gonna Better pull out the big gun.”
+  - [Caution] Howard: “That’s not gonna Better pull out the big gun.”
   - [Mild] As he tries to remove it, she wakes up, screams, and punches him in the face.
   - [Mild] Penny: “Sheldon tried to take the ring and I punched him.”
   - [Mild] Howard: “So, Sheldon, how’s it feel to get beaten up by a girl?”
@@ -887,7 +887,7 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Sheldon's friends come to his aid when his fear of public speaking stands between him and a coveted award.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Raj: “Okay in Avatar when they have sex in Pandora they hook up their ponytails, so we know their ponytails are like their junk.”
+  - [Caution] Raj: “Okay in Avatar when they have sex in Pandora they hook up their ponytails, so we know their ponytails are like their junk.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leonard: “My mother is a highly regarded psychiatrist, and I’ve been in therapy ever since she accused me of breast-feeding co-dependently.”
 - Violence & injury — 2 moment(s)
@@ -900,9 +900,9 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Fight between Leonard and Penny threatens their relationship, while Sheldon battles Wil Wheaton in bowling.
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Sheldon: “Rabbits do have a respiratory system that would support great size. And on a side note, they are one of the few mammals whose scrotum is in front of the penis.”
-  - [Explicit] Raj: “Really? Because every time we’ve talked about unusual animal genitals, you’ve always had some pretty strong and controversial opinions.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Sheldon: “Rabbits do have a respiratory system that would support great size. And on a side note, they are one of the few mammals whose scrotum is in front of the penis.”
+  - [Too much] Raj: “Really? Because every time we’ve talked about unusual animal genitals, you’ve always had some pretty strong and controversial opinions.”
   - [Mild] Raj: “Did you think it would be funny to put on a pair of her panties and jump around, but it wound up just creeping her out?”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Raj: “Ah, beer. The magic elixir that can turn this poor, shy Indian boy into the life of the party. Oh, yeah.”
@@ -913,14 +913,14 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: When Leonard and Penny aren't speaking, Sheldon goes to extremes to keep them both happy.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Raj: “I haven’t had sex in a year.”
-  - [Moderate] Raj: “But we’ll have sex first, right?”
-  - [Moderate] Leonard: “Here’s an idea. I’m just throwing it out there, friends who have sex.”
+  - [Caution] Raj: “I haven’t had sex in a year.”
+  - [Caution] Raj: “But we’ll have sex first, right?”
+  - [Caution] Leonard: “Here’s an idea. I’m just throwing it out there, friends who have sex.”
   - [Mild] Leonard: “Yes, you will, and she’ll be beautiful, and kind and sexy and funny and everything you ever wanted in a woman.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leonard: “I’m pretty sure Martha Stewart never got naked with a room full of big, fat Japanese guys.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Raj: “All right. Would you mind if I went to your room and downloaded some Asian pornography?”
+  - [Too much] Raj: “All right. Would you mind if I went to your room and downloaded some Asian pornography?”
 
 ## S3 E21 — The Plimpton Stimulation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0321.html
@@ -928,7 +928,7 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Leonard and Sheldon compete for the attention of a famous female physicist.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Penny: “You know what? It’s, it’s none of my business. If you want to sleep with Sheldon’s doctor buddy right after we stopped seeing each other, go for it.”
+  - [Caution] Penny: “You know what? It’s, it’s none of my business. If you want to sleep with Sheldon’s doctor buddy right after we stopped seeing each other, go for it.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Elizabeth: “I wrote the section on the Wilson-Bappu Effect completely naked.”
   - [Mild] Leonard: “We’ll all be naked in front of each other.”
@@ -949,8 +949,8 @@ Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: While Penny worries that dating Leonard has ruined her for normal guys, Wolowitz and Koothrappali search for Sheldon's perfect match online.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Penny: “We’re gonna have sex.”
-  - [Moderate] Leonard: “Great. Maybe she can have sex with him, and then walk out on him the next morning without so much as a how do you do?”
+  - [Caution] Penny: “We’re gonna have sex.”
+  - [Caution] Leonard: “Great. Maybe she can have sex with him, and then walk out on him the next morning without so much as a how do you do?”
   - [Mild] Leonard: “How am I supposed to let it go? You used me for sex! Morning, Mrs. Gunderson.”
   - [Mild] Leonard: “Um, anyway, apparently, it’s okay to go back to people you’re no longer seeing and have recreational sex with them.”
 - Nudity & bodies — 4 moment(s)
@@ -959,18 +959,18 @@ Watch for:
   - [Mild] Raj: “Yeah, look. Breasts and everything.”
   - [Mild] Howard: “Trust me, breasts doesn’t necessarily mean woman.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Sheldon: “He didn’t date. It was pon farr. His blood boiled with mating lust.”
+  - [Caution] Sheldon: “He didn’t date. It was pon farr. His blood boiled with mating lust.”
   - [Mild] Sheldon: “When one gets beaten up every other day in school, one of necessity develops a keen sense of hearing.”
 - Swearing — 3 moment(s)
-  - [Moderate] Zack: “Whoa! Is that the laser? It’s bitchin’.”
-  - [Moderate] Sheldon: “Yes. In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper Zur Quantentheorie der Strahlung, his fondest hope was that the resultant device be bitchin’.”
+  - [Caution] Zack: “Whoa! Is that the laser? It’s bitchin’.”
+  - [Caution] Sheldon: “Yes. In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper Zur Quantentheorie der Strahlung, his fondest hope was that the resultant device be bitchin’.”
   - [Mild] Penny: “Damn you, you rat bastard.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “Are you drunk?”
   - [Mild] Penny: “Look, I’m sorry. I was drunk, I was lonely, I hated Zack. Can we just forget it ever happened?”
 - Sexual insults — 2 moment(s)
-  - [Moderate] Raj: “I’m telling you, dude, the only way to feel better about Penny going out with other guys is for you to get back on the whores.”
-  - [Moderate] Howard: “The phrase is get back on the horse, not whores.”
+  - [Caution] Raj: “I’m telling you, dude, the only way to feel better about Penny going out with other guys is for you to get back on the whores.”
+  - [Caution] Howard: “The phrase is get back on the horse, not whores.”
 
 ## S4 E1 — The Robotic Manipulation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0401.html
@@ -978,24 +978,24 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Penny finds herself along for the ride on Sheldon's first date ever; while Wolowitz finds a new use for a robotic arm.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Explicit] Amy: “Does volunteering for a scientific experiment in which orgasm was achieved by electronically stimulating the pleasure centres of the brain count?”
-  - [Moderate] Penny: “You don’t even like people touching you. How are you going to have sex?”
-  - [Moderate] Sheldon: “Why on Earth would we have sex?”
-  - [Moderate] Sheldon: “So we multiply 193, minus 21 men before the loss of virginity, so 172 times 0.18 gives us 30.96 sexual partners. Let’s round that up to 31.”
+  - [Too much] Amy: “Does volunteering for a scientific experiment in which orgasm was achieved by electronically stimulating the pleasure centres of the brain count?”
+  - [Caution] Penny: “You don’t even like people touching you. How are you going to have sex?”
+  - [Caution] Sheldon: “Why on Earth would we have sex?”
+  - [Caution] Sheldon: “So we multiply 193, minus 21 men before the loss of virginity, so 172 times 0.18 gives us 30.96 sexual partners. Let’s round that up to 31.”
   - [Mild] Amy: “Remarkable. Did you have sexual intercourse with all of these men?”
   - [Mild] Sheldon: “This is an interesting topic. How many sexual encounters have you had?”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Raj: “Penis first?”
-  - [Explicit] Nurse: “All right, all right. Hang on, stay calm. (Over PA system) I need an orderly with a wheelchair. I got a robot hand grasping a man’s penis out here.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Raj: “Penis first?”
+  - [Too much] Nurse: “All right, all right. Hang on, stay calm. (Over PA system) I need an orderly with a wheelchair. I got a robot hand grasping a man’s penis out here.”
 - Violence & injury — 2 moment(s)
   - [Mild] Mrs Wolowitz (off): I’ll bring them up with some Hawaiian Punch!
   - [Mild] Raj: “Right now, all I can think about is cookies and Hawaiian Punch.”
 - Alcohol & drugs — 2 moment(s)
-  - [Explicit] Penny: “I myself grew up in Nebraska. Small town outside of Omaha. You know, nice place, mostly family farms, a few meth labs.”
+  - [Too much] Penny: “I myself grew up in Nebraska. Small town outside of Omaha. You know, nice place, mostly family farms, a few meth labs.”
   - [Mild] Sheldon: “Don’t bother. I’ve wasted many an hour tilting at that particular windmill.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Amy: “This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?”
+  - [Caution] Amy: “This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?”
 
 ## S4 E2 — The Cruciferous Vegetable Amplification
 URL: https://watchwiththekids.com/ep/big-bang-theory/0402.html
@@ -1005,7 +1005,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny: “So, either one of you weirdos want to buy my underwear? Only fourteen hundred bucks.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon-bot: “Because I called shotgun. Remember?”
+  - [Caution] Sheldon-bot: “Because I called shotgun. Remember?”
 
 ## S4 E3 — The Zazzy Substitution
 URL: https://watchwiththekids.com/ep/big-bang-theory/0403.html
@@ -1013,7 +1013,7 @@ Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: The guys are concerned as Sheldon searches for an alternative to human companionship.
 Watch for:
 - Swearing — 3 moment(s)
-  - [Moderate] Raj: “Ooh, somebody’s been taking bitchy pills.”
+  - [Caution] Raj: “Ooh, somebody’s been taking bitchy pills.”
   - [Mild] Leonard: “What the hell are you guys playing?”
   - [Mild] Penny: “Well, breakups, or whatever the hell this is, can be tough.”
 - Alcohol & drugs — 2 moment(s)
@@ -1026,15 +1026,15 @@ Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: An embarrassing secret of Wolowitz's comes to light, while Sheldon and Raj have a small war at work.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Howard: “Well, did you know that the characters in the game can have sex with each other?”
-  - [Moderate] Penny: “Complimentary nachos! You enjoy. Never had sex? Wow.”
+  - [Caution] Howard: “Well, did you know that the characters in the game can have sex with each other?”
+  - [Caution] Penny: “Complimentary nachos! You enjoy. Never had sex? Wow.”
   - [Mild] Bernadette: “Well, we could’ve been having sex, but you never made the move.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Raj: “Oh, but there’s money for a drawer full of Red Vines, a marshmallow shooting rifle, and a super executive ant farm with glow-in-the-dark sand?”
+  - [Caution] Raj: “Oh, but there’s money for a drawer full of Red Vines, a marshmallow shooting rifle, and a super executive ant farm with glow-in-the-dark sand?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Howard: “Maybe it committed suicide! Leave me alone! Now, where were we?”
+  - [Too much] Howard: “Maybe it committed suicide! Leave me alone! Now, where were we?”
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “Son of a bitch.”
+  - [Caution] Howard: “Son of a bitch.”
   - [Mild] Raj: “Well, seeing as its purpose was to piss you off, I’d say it’s spot-on.”
 
 ## S4 E5 — The Desperation Emanation
@@ -1043,12 +1043,12 @@ Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Leonard realizes he's the only one without a girlfriend, while Sheldon wants to get rid of his.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Stuart: “Not really. She’s horrible. When she wants to have sex, she puts on her plus-size Wonder Woman costume and shouts who wants to take a ride in my invisible plane?”
+  - [Caution] Stuart: “Not really. She’s horrible. When she wants to have sex, she puts on her plus-size Wonder Woman costume and shouts who wants to take a ride in my invisible plane?”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Sheldon: “Oh, yes, it’s time for me to make love to your daughter’s vagina.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Sheldon: “Oh, yes, it’s time for me to make love to your daughter’s vagina.”
 - Swearing — 3 moment(s)
-  - [Moderate] Sheldon: “Oh, no worries, I explained my predicament to our letter carrier. He was sympathetic. His exact words were, Got your back, Jack. Bitches be crazy.”
+  - [Caution] Sheldon: “Oh, no worries, I explained my predicament to our letter carrier. He was sympathetic. His exact words were, Got your back, Jack. Bitches be crazy.”
   - [Mild] Leonard: “What the hell? How long has she been here?”
   - [Mild] Howard: “Why the hell would you cross Ebola with the common cold?”
 
@@ -1079,7 +1079,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: While the guys camp in line for a screening, Penny and Bernadette invite Amy to her first slumber party.
 Watch for:
 - Swearing — 2 moment(s)
-  - [Moderate] Theatre staff: “‘Cause I’m the petty functionary with the clipboard, bitch.”
+  - [Caution] Theatre staff: “‘Cause I’m the petty functionary with the clipboard, bitch.”
   - [Mild] Penny: “What the hell was that?”
 
 ## S4 E9 — The Boyfriend Complexity
@@ -1092,8 +1092,8 @@ Watch for:
   - [Mild] Howard: “What? Galileo did his best work while drinking wine.”
   - [Mild] Wyatt: “And Donnie was a rocket scientist compared to that boy who wanted to get beer pong into the Olympics. What was his name, sweetheart?”
 - Racism & slurs — 2 moment(s)
-  - [Explicit] Raj: “Is that racist? It feels racist.”
-  - [Explicit] Howard: “Actually, Indian Monopoly’s just like regular, except the money’s in Rupees, instead of hotels you build call centers, and when you pick a chance card, you might die of dysentery. Just FYI, that was racist.”
+  - [Too much] Raj: “Is that racist? It feels racist.”
+  - [Too much] Howard: “Actually, Indian Monopoly’s just like regular, except the money’s in Rupees, instead of hotels you build call centers, and when you pick a chance card, you might die of dysentery. Just FYI, that was racist.”
 
 ## S4 E10 — The Alien Parasite Hypothesis
 URL: https://watchwiththekids.com/ep/big-bang-theory/0410.html
@@ -1101,12 +1101,12 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Amy finds she has sexual feelings for Penny's ex, while Koothrappali and Wolowitz try to prove who would be the better superhero.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Sheldon: “Forget science. She’s horny.”
+  - [Caution] Sheldon: “Forget science. She’s horny.”
   - [Mild] Sheldon: “…hosting an alien parasite or, and I only include it for the sake of covering absolutely all bases, sexual arousal.”
   - [Mild] Amy: “I think we need to face the cold, hard truth, I was sexually aroused by Penny’s friend Zack.”
   - [Mild] Sheldon: “I’d like to know if you’d be interested in having sex with Amy Farrah Fowler.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Amy: “Let’s look at this logically. I have a stomach, I get hungry. I have genitals, I have the potential for sexual arousal.”
+  - [Too much] Amy: “Let’s look at this logically. I have a stomach, I get hungry. I have genitals, I have the potential for sexual arousal.”
   - [Mild] Raj: “Oh, yeah? What if the earth was in danger and the only way to save it was to take a shower in the locker room and let other guys see you naked?”
 
 ## S4 E11 — The Justice League Recombination
@@ -1115,10 +1115,10 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: The guys find a "super" use for Penny's new boyfriend, Zack, when they enter a costume contest as the Justice League.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Howard: “You got her to have sex with you. Obviously, your superpower is brainwashing.”
+  - [Caution] Howard: “You got her to have sex with you. Obviously, your superpower is brainwashing.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Raj: “And nobody drew a penis on his forehead.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Raj: “And nobody drew a penis on his forehead.”
 - Violence & injury — 1 moment(s)
   - [Mild] Leonard: “I got a better idea. We’re all responsible. I say we all go. Come on, who’s with me? Free comic books to anyone who comes with me. I might get punched. You really want to miss that?”
 - Alcohol & drugs — 1 moment(s)
@@ -1132,8 +1132,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Howard: “What’s that? Some weird sex thing?”
 - Racism & slurs — 2 moment(s)
-  - [Explicit] Raj: “Hey, why am I in charge of phone support? Seems a bit racist.”
-  - [Explicit] Raj: “Oh. Very clever. But still racist.”
+  - [Too much] Raj: “Hey, why am I in charge of phone support? Seems a bit racist.”
+  - [Too much] Raj: “Oh. Very clever. But still racist.”
 
 ## S4 E13 — The Love Car Displacement
 URL: https://watchwiththekids.com/ep/big-bang-theory/0413.html
@@ -1141,13 +1141,13 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Tension runs high when everyone is staying at the same hotel for a science event and Bernadette runs into her ex-boyfriend.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Penny: “Oh, don’t feel bad. I never read Leonard’s, and I used to sleep with him.”
-  - [Moderate] Howard: “I’m just thinking. If you had sex with that guy, I mean, there’s nothing I can do here that will make any kind of impact.”
+  - [Caution] Penny: “Oh, don’t feel bad. I never read Leonard’s, and I used to sleep with him.”
+  - [Caution] Howard: “I’m just thinking. If you had sex with that guy, I mean, there’s nothing I can do here that will make any kind of impact.”
   - [Mild] Leonard (voice): Yeah, hi. Listen, I just got a text from Raj. He wanted me to tell you that when Howard says nap, he means sex.
   - [Mild] Amy: “Not for sex, for convenience. You can’t deny that, by comparison, our internal plumbing is extremely high maintenance.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Amy: “Do you subscribe to the Freudian theory of penis envy?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Amy: “Do you subscribe to the Freudian theory of penis envy?”
   - [Mild] Amy: “Please don’t touch my breasts.”
 
 ## S4 E14 — The Thespian Catalyst
@@ -1156,13 +1156,13 @@ Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon hopes acting lessons from Penny will help him become a better teacher. Meanwhile, Koothrappali fantasizes about his best friend's girlfriend.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Penny: “Probably. I’m just enjoying the foreplay. Does this mean you are done mocking my acting career?”
+  - [Caution] Penny: “Probably. I’m just enjoying the foreplay. Does this mean you are done mocking my acting career?”
   - [Mild] Raj: “Thank you, but cute is for bunnies. I want to be something with sex appeal, like, like a labradoodle.”
   - [Mild] Bernadette: “Don’t you listen to them. You’ve got plenty of sex appeal.”
   - [Mild] Raj: “Well, thanks, Bernadette. And just for the record, labradoodles are hypo-allergenic, which is a very sexy quality to those troubled by animal dander.”
   - [Mild] Howard: “Sexual needs.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Sheldon: “Glory be to Heaven, some sort of creature just manifested out of thin air. George, put down that Pepsi can full of bourbon that ain’t foolin’ no one, and get your shotgun!”
+  - [Caution] Sheldon: “Glory be to Heaven, some sort of creature just manifested out of thin air. George, put down that Pepsi can full of bourbon that ain’t foolin’ no one, and get your shotgun!”
   - [Mild] Sheldon: “Yes, but he’s going to a better place where he won’t get beat up. So much.”
 
 ## S4 E15 — The Benefactor Factor
@@ -1171,19 +1171,19 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: A wealthy donor to the university makes Leonard consider how far he's willing to go for the sake of science.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Howard: “Wait-wait-wait. Are you telling us that old lady wanted to have sex with you in exchange for giving your department millions of dollars?”
-  - [Moderate] Sheldon: “Just a few things you may need tonight. There’s, uh, baby oil, condoms and, uh, a little something I procured from the school of pharmacology. They say it is to Viagra as Viagra is to a green M&M.”
-  - [Moderate] Leonard: “I am not going to have sex with her.”
+  - [Caution] Howard: “Wait-wait-wait. Are you telling us that old lady wanted to have sex with you in exchange for giving your department millions of dollars?”
+  - [Caution] Sheldon: “Just a few things you may need tonight. There’s, uh, baby oil, condoms and, uh, a little something I procured from the school of pharmacology. They say it is to Viagra as Viagra is to a green M&M.”
+  - [Caution] Leonard: “I am not going to have sex with her.”
   - [Mild] Sheldon: “Penny, you’re an expert on trading sexual favours for material gain, walk him through this.”
   - [Mild] Penny: “What was all that about me trading sexual favours for material gain?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny: “Oh, please, I recognize the walk of shame when I see it. All you’re missing is a little smeared mascara and a purse with panties wadded up in it.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Leonard: “Are you insane? I’m not going to prostitute myself just so we can get some new equipment.”
+  - [Too much] Leonard: “Are you insane? I’m not going to prostitute myself just so we can get some new equipment.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Sheldon: “No. But we have potatoes, I could make you vodka. It’ll take two weeks.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Penny: “Good morning, slut.”
+  - [Caution] Penny: “Good morning, slut.”
 
 ## S4 E16 — The Cohabitation Formulation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0416.html
@@ -1191,16 +1191,16 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: As Wolowitz contemplates taking things with Bernadette to the next level, Leonard rekindles his relationship with Raj's sister.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Mrs Wolowitz: “I know what that means, I watch Dr. Phil. I hope to God you used a condom!”
-  - [Moderate] Raj: “Yeah, but you were just sleeping, because I forboded you to have sex.”
-  - [Moderate] Amy: “But Priya is highly educated, she’s an accomplished professional, and she comes from the culture that literally wrote the book on neat ways to have sex.”
+  - [Caution] Mrs Wolowitz: “I know what that means, I watch Dr. Phil. I hope to God you used a condom!”
+  - [Caution] Raj: “Yeah, but you were just sleeping, because I forboded you to have sex.”
+  - [Caution] Amy: “But Priya is highly educated, she’s an accomplished professional, and she comes from the culture that literally wrote the book on neat ways to have sex.”
   - [Mild] Bernadette: “Nothing. Just thinking about the noises people make during sex.”
   - [Mild] Mrs Wolowitz (voice): Who’s there? Are you a sex criminal?
   - [Mild] Amy: “It seems like the appropriate thing to do when one’s best friend finds herself replaced by a smart, beautiful woman with the smouldering sexuality of a crouched Bengal tiger.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Penny: “Oh, yeah, yeah. It’s real great. Today I drove to Van Nuys for an audition I thought was going to be for a cat food commercial. Turned out to be porn.”
+  - [Too much] Penny: “Oh, yeah, yeah. It’s real great. Today I drove to Van Nuys for an audition I thought was going to be for a cat food commercial. Turned out to be porn.”
 - Swearing — 2 moment(s)
-  - [Moderate] Amy: “You don’t have to be strong for me. Now let’s talk about Priya, that man-stealing bitch.”
+  - [Caution] Amy: “You don’t have to be strong for me. Now let’s talk about Priya, that man-stealing bitch.”
   - [Mild] Raj: “But keep in mind I’ll be right out here monitoring the situation! (Dials phone) Oh, damn it.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Bernadette: “It’s cute. You sound a little like a drunken monkey. Ooh-ooh-ooh-ooh!”
@@ -1211,12 +1211,12 @@ Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Sheldon struggles to cope when he realizes it's actually Leonard who is the center of their social group.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Penny: “Okay, let’s go through this one more time. Just because Leonard has a new girlfriend does not mean I need to go out and hook up with some guy.”
+  - [Caution] Penny: “Okay, let’s go through this one more time. Just because Leonard has a new girlfriend does not mean I need to go out and hook up with some guy.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Barry: “Tewwific. Go ahead, Zack. Naked dwunk girl, fwee-balling, continue.”
 - Violence & injury — 6 moment(s)
-  - [Moderate] Sheldon: “I can’t do that. What if he serves haggis and blood pudding?”
-  - [Moderate] Sheldon: “But what if he does? I’ll be obliged to dine on liver and lungs stuffed in a sheep’s stomach. And frankly, blood pudding is essentially the same thing. I don’t know why he’s serving both.”
+  - [Caution] Sheldon: “I can’t do that. What if he serves haggis and blood pudding?”
+  - [Caution] Sheldon: “But what if he does? I’ll be obliged to dine on liver and lungs stuffed in a sheep’s stomach. And frankly, blood pudding is essentially the same thing. I don’t know why he’s serving both.”
   - [Mild] Amy: “She used to be much more fun, until Leonard punched her in the heart.”
   - [Mild] Howard: “Raj, did you ever tell your sister about the time Sheldon got punched by Bill Gates?”
   - [Mild] Leonard: “Oh, the ancient Romans put spiced toast in their punch bowls.”
@@ -1234,21 +1234,21 @@ Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Leonard must choose between new girlfriend Priya and his friendship with Penny. Meanwhile, Howard drives Sheldon crazy with a magic trick.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Penny: “I’m not going out with him. He can sleep with whoever he wants.”
+  - [Caution] Penny: “I’m not going out with him. He can sleep with whoever he wants.”
   - [Mild] Leonard: “Hey, if you can find a book called weird sex with white boys, I’d be okay with that.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny: “He was gonna throw it in the washing machine with his Spiderman underwear. That’s our Lenny, huh?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Sheldon: “I do. You just happen to have caught me on a break. Oh, let me see those cards.”
+  - [Caution] Sheldon: “I do. You just happen to have caught me on a break. Oh, let me see those cards.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Raj: “Son of a gun, you’re blowing my mind!”
+  - [Caution] Raj: “Son of a gun, you’re blowing my mind!”
 - Swearing — 4 moment(s)
-  - [Moderate] Penny: “She seems really sweet. Believe me, you do not want to take that for granted. There are a lot of bitches out there.”
-  - [Moderate] Leonard: “Yeah, bitches are the worst.”
+  - [Caution] Penny: “She seems really sweet. Believe me, you do not want to take that for granted. There are a lot of bitches out there.”
+  - [Caution] Leonard: “Yeah, bitches are the worst.”
   - [Mild] Leonard: “Holy crap, are you connected to the Oak Ridge National Laboratory?”
   - [Mild] Penny: “Okay, I’m not moving anywhere. What the hell is this all about?”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Leonard: “Is it racist that I took you to an Indian restaurant?”
+  - [Too much] Leonard: “Is it racist that I took you to an Indian restaurant?”
 
 ## S4 E19 — The Zarnecki Incursion
 URL: https://watchwiththekids.com/ep/big-bang-theory/0419.html
@@ -1256,17 +1256,17 @@ Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: When someone hacks Sheldon's online game account, the guys go on a quest to find the culprit.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Raj: “Okay, I see where this is going. Fine, I’ll have sex with him.”
+  - [Caution] Raj: “Okay, I see where this is going. Fine, I’ll have sex with him.”
   - [Mild] Priya: “No, no, I think it’s sexy to date a boy trapped in a man’s body.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny: “You know, for the first couple of months, whenever I would take off my bra, he would giggle and say, oh boy, my breast friends.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] Sheldon: “What choice did I have? The mighty Sheldor, level 85 blood elf, hero of the Eastern kingdoms, has been picked clean, like a carcass in the desert sun. Plus, the FBI hung up on me.”
-  - [Moderate] Sheldon: “That’s from Avatar, World of Warcraft takes place in Azeroth. Goodness gracious, how are you allowed to carry a gun? Can you at least refer me to a rogue ex-cop?”
-  - [Moderate] Sheldon: “So my blade shall not taste blood tonight?”
+  - [Caution] Sheldon: “What choice did I have? The mighty Sheldor, level 85 blood elf, hero of the Eastern kingdoms, has been picked clean, like a carcass in the desert sun. Plus, the FBI hung up on me.”
+  - [Caution] Sheldon: “That’s from Avatar, World of Warcraft takes place in Azeroth. Goodness gracious, how are you allowed to carry a gun? Can you at least refer me to a rogue ex-cop?”
+  - [Caution] Sheldon: “So my blade shall not taste blood tonight?”
 - Swearing — 4 moment(s)
-  - [Moderate] Bernadette: “I feel like I’m supposed to say that bitch, but I don’t have enough information.”
-  - [Moderate] Bernadette: “Oh. That bitch!”
+  - [Caution] Bernadette: “I feel like I’m supposed to say that bitch, but I don’t have enough information.”
+  - [Caution] Bernadette: “Oh. That bitch!”
   - [Mild] Penny: “Oh, hi! I was just dropping off a cheesecake to Sheldon. He was robbed of a bunch of imaginary crap that’s useful in a make-believe place.”
   - [Mild] Sheldon: “One moment. (Places a tissue on their hands before adding his own) I’m hell-bent on catching a cyber criminal, not the common cold.”
 - Alcohol & drugs — 1 moment(s)
@@ -1278,15 +1278,15 @@ Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Amy experiment on their friends by spreading gossip, while Howard takes a big step in his relationship with Bernadette.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Explicit] Amy: “Yes. He looks much cooler than the non-smoking monkeys. Although it’s not much of a contest. The other monkeys just sit around and masturbate.”
-  - [Moderate] Penny: “All right, try thinking about this. Sheldon and Amy had sex.”
+  - [Too much] Amy: “Yes. He looks much cooler than the non-smoking monkeys. Although it’s not much of a contest. The other monkeys just sit around and masturbate.”
+  - [Caution] Penny: “All right, try thinking about this. Sheldon and Amy had sex.”
   - [Mild] Leonard: “Do you think a sexually ambivalent Indian astrophysicist with selective mutism and alcohol issues is better than a hundred-pound Jewish guy who lives with his mom?”
   - [Mild] Amy: “Sheldon and I engaged in sexual intercourse. In other news, I’m thinking of starting an herb garden. Mum’s the word. Gotta go.”
   - [Mild] Amy: “Bernadette just asked about my sexual encounter with you. The meme has reached full penetration.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Sheldon: “(Leonard mimes drawing an arrow and stabbing Sheldon with it.) That was uncalled for, but I’ll play along.”
+  - [Too much] Sheldon: “(Leonard mimes drawing an arrow and stabbing Sheldon with it.) That was uncalled for, but I’ll play along.”
 - Swearing — 4 moment(s)
-  - [Moderate] Penny: “Oh, that gossipy bitch! No offense.”
+  - [Caution] Penny: “Oh, that gossipy bitch! No offense.”
   - [Mild] Penny: “Oh, damn it. I told Amy that in the strictest confidence. Boy, some people are such blabbermouths. Well, whatever, I’m sure Bernadette can do better.”
   - [Mild] Leonard: “Lucky bastard.”
   - [Mild] Penny: “What the hell are you doing? Howard is your best friend, and that is his girlfriend. You should be ashamed of yourself.”
@@ -1311,19 +1311,19 @@ Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Raj attempts to cure his social anxiety disorder while Penny uses Bernadette to spy on Leonard and his girlfriend.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Raj: “I have to feel sorry for myself. I’m the only one who cares. Just like I’m the only one who’ll have sex with me.”
+  - [Caution] Raj: “I have to feel sorry for myself. I’m the only one who cares. Just like I’m the only one who’ll have sex with me.”
   - [Mild] Leonard: “Excuse me, but Einstein had a pretty busy sex life.”
 - Nudity & bodies — 6 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Raj: “Wait, where are you going? We were doing so well. She never even got to see my penis. Ta-da!”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Raj: “Wait, where are you going? We were doing so well. She never even got to see my penis. Ta-da!”
   - [Mild] Bernadette: “Some women don’t like to get chummy when their panties are down.”
   - [Mild] Amy: “How do you feel about concealing a recording device in the cleavage of your ample bosom?”
   - [Mild] Amy: “Thank you. Did you know that women wear high heels to make the buttocks and breasts more prominent?”
   - [Mild] Raj (still naked): Hey, I’ve got winners.
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Sheldon: “The fun thing about Prince Joey is every time he moves, there’s a one-in-five chance he’ll kill himself.”
+  - [Too much] Sheldon: “The fun thing about Prince Joey is every time he moves, there’s a one-in-five chance he’ll kill himself.”
 - Swearing — 5 moment(s)
-  - [Moderate] Amy: “No, it’s not. It’s a strategic manoeuvre. Leonard’s new girlfriend is testing Bernadette’s loyalty to you and the group. That bitch is crafty.”
+  - [Caution] Amy: “No, it’s not. It’s a strategic manoeuvre. Leonard’s new girlfriend is testing Bernadette’s loyalty to you and the group. That bitch is crafty.”
   - [Mild] Sheldon: “Unless, it gets to the old woman in time, in which case she sucks out the poison, turning her into the Grand Empress, a piece combining the power of the knight, queen and serpent.”
   - [Mild] Penny: “Hey. Seriously? Didn’t you get enough of this cliquey crap in high school?”
   - [Mild] Penny: “Wh… What the hell did she say?”
@@ -1335,13 +1335,13 @@ Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: When Howard finally breaks the news to his mom that he's engaged to Bernadette, it lands her in the hospital.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Bernadette: “Howard’s mother had a heart attack because I have sex with him and she can’t.”
-  - [Moderate] Penny: “It makes him desperate to please women. That’s why the foreplay goes on and on.”
-  - [Moderate] Leonard: “It doesn’t matter. I’m the king of foreplay.”
+  - [Caution] Bernadette: “Howard’s mother had a heart attack because I have sex with him and she can’t.”
+  - [Caution] Penny: “It makes him desperate to please women. That’s why the foreplay goes on and on.”
+  - [Caution] Leonard: “It doesn’t matter. I’m the king of foreplay.”
   - [Mild] Bernadette: “You mean sexual intercourse?”
   - [Mild] Howard: “Is it just me, or does she sound sexy when she’s angry?”
 - Swearing — 3 moment(s)
-  - [Moderate] Howard: “Falls over.) Son of a bitch!”
+  - [Caution] Howard: “Falls over.) Son of a bitch!”
   - [Mild] Sheldon (exiting while the door is open): Finally. (Goes down corridor. Dodges into a door to avoid a coughing patient on a trolley. The room is full of doctors in hazmat suits.) Oh, what fresh hell is this?
   - [Mild] Leonard: “Hell Hounds.”
 - Alcohol & drugs — 1 moment(s)
@@ -1357,16 +1357,16 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny (entering room dishevelled, with a half naked Raj behind): Damn.
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Raj: “Well, uh, to paraphrase Shakespeare, It’s better to have loved and lost than to stay home every night and download increasingly shameful pornography.”
-  - [Explicit] Penny: “Nothing, nothing. You know, if we weren’t friends, and you hadn’t brought up that creepy pornography story, I’d be on you like the speed of light squared on matter to make energy.”
+  - [Too much] Raj: “Well, uh, to paraphrase Shakespeare, It’s better to have loved and lost than to stay home every night and download increasingly shameful pornography.”
+  - [Too much] Penny: “Nothing, nothing. You know, if we weren’t friends, and you hadn’t brought up that creepy pornography story, I’d be on you like the speed of light squared on matter to make energy.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Raj: “When did you take my blood?”
+  - [Caution] Raj: “When did you take my blood?”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Sheldon: “Man is not the only species that ferments fruit in order to become intoxicated. Can you guess what the other is? Hint, sometimes they pack the alcohol in their trunks.”
   - [Mild] Sheldon (off): Would you booze hounds please stop that infernal clinking? And the answer was elephant!
 - Homophobic jokes — 2 moment(s)
-  - [Explicit] Sheldon: “The same thing that happened to Homo Erectus. He was replaced by a superior species.”
-  - [Explicit] Raj: “I’m the new Homo in town. That came out wrong.”
+  - [Too much] Sheldon: “The same thing that happened to Homo Erectus. He was replaced by a superior species.”
+  - [Too much] Raj: “I’m the new Homo in town. That came out wrong.”
 
 ## S5 E1 — The Skank Reflex Analysis
 URL: https://watchwiththekids.com/ep/big-bang-theory/0501.html
@@ -1374,18 +1374,18 @@ Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Penny worries that she's screwed things up permanently with her friends, while Sheldon takes command of the paintball team.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Raj: “Well, uh, as your friend, you might like to know that, um, we didn’t have sex in the conventional sense.”
+  - [Caution] Raj: “Well, uh, as your friend, you might like to know that, um, we didn’t have sex in the conventional sense.”
   - [Mild] Sheldon: “Hey. Leonard, is it awkward for you knowing that one of your dear friends had sexual intercourse with a woman you used to love in the very place you lay your head?”
   - [Mild] Raj: “You can’t ruin a friendship with sex. That’s like trying to ruin ice cream with chocolate sprinkles.”
 - Nudity & bodies — 6 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Leonard: “Please. Sheldon would have been before you, and he might not even have genitals.”
-  - [Explicit] Sheldon: “For the record, I do have genitals. They’re functional and aesthetically pleasing.”
-  - [Explicit] Howard: “Maybe he was too busy writing clumsy penis metaphors about my fiancee.”
-  - [Explicit] Raj: “Screw you. That was a beautifully written penis metaphor.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Leonard: “Please. Sheldon would have been before you, and he might not even have genitals.”
+  - [Too much] Sheldon: “For the record, I do have genitals. They’re functional and aesthetically pleasing.”
+  - [Too much] Howard: “Maybe he was too busy writing clumsy penis metaphors about my fiancee.”
+  - [Too much] Raj: “Screw you. That was a beautifully written penis metaphor.”
   - [Mild] Penny: “Somewhere where no one’s seen me naked. We may have to drive awhile. (Opens door. Sees Leonard and Sheldon. Slams it shut again.)”
 - Swearing — 7 moment(s)
-  - [Moderate] Howard: “Damn those sons of bitches!”
+  - [Caution] Howard: “Damn those sons of bitches!”
   - [Mild] Leonard: “What the hell is wrong with you?”
   - [Mild] Bernadette: “Damn right, you’re sorry. And you tell Howard there’s never been anything between us.”
   - [Mild] Leonard: “Do we really have to wear this camouflage crap to play paintball?”
@@ -1397,8 +1397,8 @@ Watch for:
   - [Mild] Penny: “Coming. Yup, that’s good. Wine glasses should have handles.”
   - [Mild] Penny: “Look, honey, I was really drunk and made a huge mistake last night. We should’ve never slept together. It’s what ruins friendships.”
 - Sexual insults — 2 moment(s)
-  - [Moderate] Penny: “Oh, my God, I screwed up everything. I hurt Leonard, I hurt Raj, I mean, what is wrong with me? I feel like two totally different people, Dr. Jekyll and Mrs. Whore.”
-  - [Moderate] Amy: “You can’t blame yourself. When your prefrontal cortex fails to make you happy, promiscuity rewards you with the needed flood of dopamine. We neurobiologists refer to this as the skank reflex.”
+  - [Caution] Penny: “Oh, my God, I screwed up everything. I hurt Leonard, I hurt Raj, I mean, what is wrong with me? I feel like two totally different people, Dr. Jekyll and Mrs. Whore.”
+  - [Caution] Amy: “You can’t blame yourself. When your prefrontal cortex fails to make you happy, promiscuity rewards you with the needed flood of dopamine. We neurobiologists refer to this as the skank reflex.”
 
 ## S5 E2 — The Infestation Hypothesis
 URL: https://watchwiththekids.com/ep/big-bang-theory/0502.html
@@ -1408,16 +1408,16 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Howard: “Are you insane? With high-speed Internet, you have at your fingertips the greatest advancement in the field of sex since the invention of the washcloth.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Leonard: “All rightie. Shirt coming off. Ta-da! Man nipples.”
+  - [Too much] Leonard: “All rightie. Shirt coming off. Ta-da! Man nipples.”
   - [Mild] Leonard: “Taking shorts off. There we go. Naked, naked, naked!”
   - [Mild] Amy: “Everything except bra and panties. And they’re a leopard-spotted secret I share with Victoria.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Sheldon: “Oh, yes, Priya. Leonard, you know I make a point of never interfering in your personal affairs.”
-  - [Moderate] Howard: “Thank you. How’s it going with the long-distance love affair?”
+  - [Caution] Sheldon: “Oh, yes, Priya. Leonard, you know I make a point of never interfering in your personal affairs.”
+  - [Caution] Howard: “Thank you. How’s it going with the long-distance love affair?”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] The apartment. Leonard is laying out wine and napkins in front of his laptop.
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Raj: “How can you be so racist?”
+  - [Too much] Raj: “How can you be so racist?”
 
 ## S5 E3 — The Pulled Groin Extrapolation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0503.html
@@ -1425,19 +1425,19 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Leonard and Amy get to know each other better, while Howard and Bernadette spend the weekend with Mrs. Wolowitz.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Explicit] Amy: “Why shouldn’t they be? They have a feverish night of socially-approved copulation ahead of them. In some cultures, we’d stand outside of their bedroom cheering as they achieved orgasm.”
+  - [Too much] Amy: “Why shouldn’t they be? They have a feverish night of socially-approved copulation ahead of them. In some cultures, we’d stand outside of their bedroom cheering as they achieved orgasm.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Amy: “I excel at spatial reasoning, and I had a hunch that the graceful slope of its neck would cradle your genitals nicely.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Amy: “I excel at spatial reasoning, and I had a hunch that the graceful slope of its neck would cradle your genitals nicely.”
 - Swearing — 1 moment(s)
-  - [Moderate] Amy: “I have a kinda-sorta boyfriend who’s playing with a model train right now, you don’t hear me bitching about it.”
+  - [Caution] Amy: “I have a kinda-sorta boyfriend who’s playing with a model train right now, you don’t hear me bitching about it.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Penny: “Come in, let’s talk. Do you want a glass of wine?”
   - [Mild] Amy: “Wine is one of the reasons I’m in this fix. That and this dang pelvis.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Howard: “Only when it’s fatty. Well, don’t be jealous, babe. Someday you’ll get to cut it for me.”
+  - [Caution] Howard: “Only when it’s fatty. Well, don’t be jealous, babe. Someday you’ll get to cut it for me.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Amy: “The inevitable, he was lonely and vulnerable from missing his girlfriend, while I was charming, supportive and, let’s face it, in this dress, the perfect combination of Madonna and whore.”
+  - [Caution] Amy: “The inevitable, he was lonely and vulnerable from missing his girlfriend, while I was charming, supportive and, let’s face it, in this dress, the perfect combination of Madonna and whore.”
 
 ## S5 E4 — The Wiggly Finger Catalyst
 URL: https://watchwiththekids.com/ep/big-bang-theory/0504.html
@@ -1445,12 +1445,12 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Raj finally meets a girl he can communicate with.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Raj: “Mmm. Oh, cheesecake, you’re just as good as a woman, even though I can’t have sex with you.”
+  - [Caution] Raj: “Mmm. Oh, cheesecake, you’re just as good as a woman, even though I can’t have sex with you.”
   - [Mild] Raj: “Fine. Tell her I have a deep, sexy voice like James Earl Jones.”
   - [Mild] Howard: “Yeah, but I’m a make out king. (She kisses Raj and gets into car)”
   - [Mild] Penny: “Raj, come here. This girl is trouble. I mean, what kind of relationship is it where you buy her gifts and she gives you sex?”
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “What the hell? The last time we went to the zoo, that son of a bitch made me buy him a churro.”
+  - [Caution] Howard: “What the hell? The last time we went to the zoo, that son of a bitch made me buy him a churro.”
   - [Mild] Penny: “What? He paid off her credit cards? Damn it, I could’ve dated Raj for a couple months. But I, I wouldn’t have, because I’m not that kind of girl. We should really talk to Raj.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Sheldon: “Let’s see what I’ll be washing that succotash down with. A pitcher of margaritas.”
@@ -1461,11 +1461,11 @@ Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Leonard get invited to a party at Wil Wheaton's house, and Howard gets an out-of-this-world opportunity.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Explicit] Brent Spiner: “Oh, wow. I haven’t seen one of these in years. (Rips open action figure packaging) Remember how we used to make these things look like they were masturbating?”
+  - [Too much] Brent Spiner: “Oh, wow. I haven’t seen one of these in years. (Rips open action figure packaging) Remember how we used to make these things look like they were masturbating?”
   - [Mild] Howard: “Honestly? Sex.”
   - [Mild] Howard: “Change your mind about sex? I’m still mad, but I’ll do it.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Leonard: “No, it’s okay. I’m gonna stab my friend in the chest.”
+  - [Too much] Leonard: “No, it’s okay. I’m gonna stab my friend in the chest.”
 
 ## S5 E6 — The Rhinitis Revelation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0506.html
@@ -1473,18 +1473,18 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Sheldon competes with the gang for his mother's attention when she comes to visit.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mrs Cooper: “Oh, it is a hoot and a half. You write your sins on a clay pigeon, they fire ’em up in the air, and you pulverize them with a 12-gauge shotgun full of our Lord’s forgiveness.”
+  - [Caution] Mrs Cooper: “Oh, it is a hoot and a half. You write your sins on a clay pigeon, they fire ’em up in the air, and you pulverize them with a 12-gauge shotgun full of our Lord’s forgiveness.”
 - Swearing — 1 moment(s)
-  - [Moderate] Amy: “Sheldon, is it possible that your foul mood, or, to use the clinical term, bitchiness, is because your mother isn’t making you a priority?”
+  - [Caution] Amy: “Sheldon, is it possible that your foul mood, or, to use the clinical term, bitchiness, is because your mother isn’t making you a priority?”
 - Alcohol & drugs — 6 moment(s)
-  - [Explicit] Sheldon: “Well, there’s actually big news on the Amy front. She’s been studying the neurobiology of addiction in lower animals. She is this close to getting a starfish hooked on cocaine.”
-  - [Explicit] Penny: “Okay, um, hey, God. What’s up? Um, I’m good, but, uh, it would be a big help to my family if you could get my brother to stop cooking meth. But no cops. Be cool.”
+  - [Too much] Sheldon: “Well, there’s actually big news on the Amy front. She’s been studying the neurobiology of addiction in lower animals. She is this close to getting a starfish hooked on cocaine.”
+  - [Too much] Penny: “Okay, um, hey, God. What’s up? Um, I’m good, but, uh, it would be a big help to my family if you could get my brother to stop cooking meth. But no cops. Be cool.”
   - [Mild] Raj (Sitting against their front door, drinking a beer): Hey, look who decided to show up.
   - [Mild] Mrs Cooper: “And when they’re drunk as a skunk, what beverage do we offer?”
   - [Mild] Mrs Cooper: “Oh, not crazy at all. And don’t beat yourself up. When I was your age, you could have me for a car ride and a bottle of strawberry wine.”
   - [Mild] Penny: “Hey, they have wine here, don’t they?”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Mrs Cooper: “Oh, I thought the one we couldn’t say was ching chong.”
+  - [Too much] Mrs Cooper: “Oh, I thought the one we couldn’t say was ching chong.”
 
 ## S5 E7 — The Good Guy Fluctuation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0507.html
@@ -1492,20 +1492,20 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Cute comic book artist puts Leonard and Priya's relationship to the test, while Sheldon tries to scare the guys for Halloween.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Leonard: “Here’s the thing, I, I’m not one of those guys who sneaks around and sleeps with more than one woman.”
-  - [Moderate] Penny: “So sleep with the new girl and lie to Priya.”
-  - [Moderate] Penny: “Leonard, you’re looking for a way to sleep with both women and have everybody be happy about it.”
+  - [Caution] Leonard: “Here’s the thing, I, I’m not one of those guys who sneaks around and sleeps with more than one woman.”
+  - [Caution] Penny: “So sleep with the new girl and lie to Priya.”
+  - [Caution] Penny: “Leonard, you’re looking for a way to sleep with both women and have everybody be happy about it.”
   - [Mild] Leonard: “Cool. Oh, look. That’s you having sex with a guy in the top half of a Chewbacca costume. Comic Con?”
   - [Mild] Sheldon: “All right. So the topic at hand is sexual fidelity. Probably won’t be relying on Seuss here. Although One Fish, Two Fish, Red Fish, Blue Fish might be surprisingly applicable. Go on.”
   - [Mild] Leonard: “I stayed a good guy, so, I’m gonna pass on the sex.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Leonard: “Oh, right, your name. That makes more sense than penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Leonard: “Oh, right, your name. That makes more sense than penis.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Priya: “Leonard, I didn’t know if I should tell you, but I kind of cheated on you, too.”
+  - [Caution] Priya: “Leonard, I didn’t know if I should tell you, but I kind of cheated on you, too.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] Sheldon: “Oh, the walls are dripping blood, which looks nothing like a phenolphthalein indicator exposed to a sodium carbonate solution.”
-  - [Moderate] Sheldon: “Holy smoke, why didn’t I think of that? You’re a better man than I, Howard Wolowitz. You put ‘er there, you son of a gun!”
+  - [Caution] Sheldon: “Oh, the walls are dripping blood, which looks nothing like a phenolphthalein indicator exposed to a sodium carbonate solution.”
+  - [Caution] Sheldon: “Holy smoke, why didn’t I think of that? You’re a better man than I, Howard Wolowitz. You put ‘er there, you son of a gun!”
   - [Mild] Howard: “We can’t beat him. He’s just too smart.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Penny: “Glass of wine?”
@@ -1517,14 +1517,14 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Amy is crushed when Bernadette and Penny go shopping for wedding dresses without her.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Amy: “What? Wait, is this some kind of practical joke? Like in Norway, when my friends trapped me in a sauna with a horny otter?”
+  - [Caution] Amy: “What? Wait, is this some kind of practical joke? Like in Norway, when my friends trapped me in a sauna with a horny otter?”
   - [Mild] Bernadette: “Oh, Amy! Looking sexy!”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Bernadette: “She keeps on telling us stories about bridesmaid traditions in other cultures, and they’re all about getting naked and washing each other.”
   - [Mild] Amy: “What should we do for the bachelorette party? Oh, I know, we’ll go to a Native American sweat lodge, we’ll take peyote, roll around in the mud, and paint fertility symbols on Bernadette’s naked body.”
   - [Mild] Amy: “What is taking you so long? (Opens door. Penny is in her underwear)”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Amy: “I know how you feel. I got a knife slicing through my frontal lobe, too.”
+  - [Caution] Amy: “I know how you feel. I got a knife slicing through my frontal lobe, too.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Sheldon: “It would seem Amy is drunk in a liquor store parking lot.”
   - [Mild] Amy: “Well, I came here to get a bottle of wine like Penny taught me to do when you’re sad.”
@@ -1535,16 +1535,16 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Leonard and Penny try hanging out alone, and Sheldon must overcome his fear of birds.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Leonard: “Yes, I do. The only reason I went is because you wanted to see them, and I wanted to have sex. To this day, I can’t see a Sandra Bullock movie poster without getting both bored and aroused.”
-  - [Moderate] Penny: “Okay, so while we were going out, how often would you pretend to like things just to have sex with me?”
+  - [Caution] Leonard: “Yes, I do. The only reason I went is because you wanted to see them, and I wanted to have sex. To this day, I can’t see a Sandra Bullock movie poster without getting both bored and aroused.”
+  - [Caution] Penny: “Okay, so while we were going out, how often would you pretend to like things just to have sex with me?”
   - [Mild] Penny: “Oh, it’s not a date, Leonard. It’s just a man and a woman hanging out, and not having sex at the end of the night.”
   - [Mild] Penny: “Okay, we were going out. You were going to get sex anyway.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “Age seven, a blood-thirsty chicken chases me up a tree. Age twelve, a magpie tries to steal the retainer out of my mouth. Age sixteen, a parrot in a pet store called me fat ass. Need I go on?”
+  - [Caution] Sheldon: “Age seven, a blood-thirsty chicken chases me up a tree. Age twelve, a magpie tries to steal the retainer out of my mouth. Age sixteen, a parrot in a pet store called me fat ass. Need I go on?”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Sheldon: “For an evening of passing a bottle of fortified wine around a flaming trash can, you look great.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Sheldon: “Age seven, a blood-thirsty chicken chases me up a tree. Age twelve, a magpie tries to steal the retainer out of my mouth. Age sixteen, a parrot in a pet store called me fat ass. Need I go on?”
+  - [Caution] Sheldon: “Age seven, a blood-thirsty chicken chases me up a tree. Age twelve, a magpie tries to steal the retainer out of my mouth. Age sixteen, a parrot in a pet store called me fat ass. Need I go on?”
 
 ## S5 E10 — The Flaming Spittoon Acquisition
 URL: https://watchwiththekids.com/ep/big-bang-theory/0510.html
@@ -1558,7 +1558,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Howard: “A new one? Unbelievable. They just keep making up more cheesy monsters, slapping them on cards and selling them at 25 bucks a pop. It’s like a secret tax on guys who can’t get laid.”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] Penny: “Hey, you know, my mom smoked pot when she was pregnant with me, and I turned out just fine. Hey, look, I have peach schnapps. Thank God.”
+  - [Caution] Penny: “Hey, you know, my mom smoked pot when she was pregnant with me, and I turned out just fine. Hey, look, I have peach schnapps. Thank God.”
   - [Mild] Penny (picking up wine): Yeah, I heard you. I got red.
   - [Mild] Bernadette: “Looks like it’s just us playing. (Penny snores) Penny? (Penny snores louder) Penny, we’re out of wine!”
 
@@ -1568,19 +1568,19 @@ Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Leonard must face his fears after being contacted by his high school tormentor.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Leonard: “You know, pick on someone your own size, you did not have sex with my mother, and yes, I do know why I’m hitting myself.””
-  - [Moderate] Penny: “Ah, I feel just like Mother Teresa. Except for the virgin part. That ship sailed a long time ago.”
+  - [Caution] Leonard: “You know, pick on someone your own size, you did not have sex with my mother, and yes, I do know why I’m hitting myself.””
+  - [Caution] Penny: “Ah, I feel just like Mother Teresa. Except for the virgin part. That ship sailed a long time ago.”
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Sheldon: “A little bit? The man Super Glued Hershey’s Kisses to your nipples.”
-  - [Explicit] Raj: “That’s funny because those aren’t the kind of kisses you want on your nipples.”
+  - [Too much] Sheldon: “A little bit? The man Super Glued Hershey’s Kisses to your nipples.”
+  - [Too much] Raj: “That’s funny because those aren’t the kind of kisses you want on your nipples.”
   - [Mild] Leonard: “No, you’re not. You’re here to see if I get my underwear pulled over my head.”
   - [Mild] Howard: “You wore underwear? You fool.”
   - [Mild] Jimmy: “I want to apologize for stapling your balls and throwing you naked in the girls’ locker room, stuffing that parrot down your pants. What’s this word?”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Amy: “When Leonard gets back, I’d love to check his serotonin levels. Do you think he’d let me draw a syringe full of his blood?”
+  - [Caution] Amy: “When Leonard gets back, I’d love to check his serotonin levels. Do you think he’d let me draw a syringe full of his blood?”
   - [Mild] Sheldon: “Is this the fellow who peed in your Hawaiian Punch?”
 - Swearing — 4 moment(s)
-  - [Moderate] Penny: “That’s easy for you to say. You weren’t just called a b-b-b-b-bitch.”
+  - [Caution] Penny: “That’s easy for you to say. You weren’t just called a b-b-b-b-bitch.”
   - [Mild] Leonard: “You bet. I am going to make him apologize for all the crap he pulled on me in school.”
   - [Mild] Jimmy: “Holy crap, man, it’s good to see you.”
   - [Mild] Jimmy: “How the hell should I know? That’s why I need a nerd.”
@@ -1595,20 +1595,20 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Everything might change when Leonard offers Penny a spur of the moment invitation to a romantic dinner for two.
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Bernadette: “Do you think you’ll sleep with him tonight?”
-  - [Moderate] Amy: “If he were dying, would you sleep with him?”
+  - [Caution] Bernadette: “Do you think you’ll sleep with him tonight?”
+  - [Caution] Amy: “If he were dying, would you sleep with him?”
   - [Mild] Amy: “You just can’t handle her raw sexuality, can you?”
   - [Mild] Amy: “Assuming he were dying of something that couldn’t be sexually transmitted. You know, like a spear wound to the head.”
   - [Mild] Bernadette: “You can make-believe, though. Sometimes Howard and I pretend that his arrhythmia is acting up and I’m a sexy cardiologist. And the naughty part is I’m not in his HMO network.”
   - [Mild] Leonard: “Well, I want to go get my asthma inhaler, but it might ruin the moment. Just, just help me out here. How does a miserable date end in sex?”
   - [Mild] Leonard: “Isn’t sex after fighting kind of what we do now?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Penny: “You know what? I just realized I’m on a break. I’ll get someone else.”
+  - [Caution] Penny: “You know what? I just realized I’m on a break. I’ll get someone else.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] Sheldon: “Again, not enough evidence. For all we know, he’s being murdered. Now, back to our game.”
-  - [Moderate] Sheldon: “As you know, lizards, cold-blooded animals, lack the ability to sense temperature.”
-  - [Moderate] Leonard: “Well, I’m a pretty smart guy, and right now my brain has dibs on the blood supply, so give it a go.”
-  - [Moderate] Leonard: “We are next to a Suburu with a Gore/Lieberman bumper sticker.”
+  - [Too much] Sheldon: “Again, not enough evidence. For all we know, he’s being murdered. Now, back to our game.”
+  - [Caution] Sheldon: “As you know, lizards, cold-blooded animals, lack the ability to sense temperature.”
+  - [Caution] Leonard: “Well, I’m a pretty smart guy, and right now my brain has dibs on the blood supply, so give it a go.”
+  - [Caution] Leonard: “We are next to a Suburu with a Gore/Lieberman bumper sticker.”
 
 ## S5 E14 — The Beta Test Initiation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0514.html
@@ -1634,11 +1634,11 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny: “Because last month, I sent the electric company a Starbucks gift card, an apology note, and a few snapshots of me in a bra.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “The streets flow with blood and echo with the cries of the wounded.”
+  - [Caution] Sheldon: “The streets flow with blood and echo with the cries of the wounded.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Stuart: “Uh, not so good. My shrink just killed himself and blamed me in the note.”
+  - [Too much] Stuart: “Uh, not so good. My shrink just killed himself and blamed me in the note.”
 - Alcohol & drugs — 4 moment(s)
-  - [Explicit] Leonard: “Because the cafeteria doesn’t offer little packets of methamphetamine.”
+  - [Too much] Leonard: “Because the cafeteria doesn’t offer little packets of methamphetamine.”
   - [Mild] Sheldon: “Of course I can. It’s coming back under the residual effects of the anaesthesia, that’s the problem. Two years ago after a deep gum cleaning, I thought I got on a bus but somehow wound up on a booze cruise to Mexico.”
   - [Mild] Penny: “I’ve got wine at my place and some bubble wrap we could pop.”
   - [Mild] Sheldon: “Oh, he’ll be back. Wine and a girl in the dark, he’s gonna be bored out of his mind.”
@@ -1652,12 +1652,12 @@ Watch for:
   - [Mild] Bernadette: “I don’t know, I don’t want to manipulate him with sex.”
   - [Mild] Penny: “Oh, sweetie, that’s what sex is for.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Leonard: “Absolutely not. If I’m gonna be stuck at home with the kids while you’re on location cheating on me with Ryan Gosling, then Leonard gots to get paid. So, you think about us getting married?”
+  - [Caution] Leonard: “Absolutely not. If I’m gonna be stuck at home with the kids while you’re on location cheating on me with Ryan Gosling, then Leonard gots to get paid. So, you think about us getting married?”
 - Violence & injury — 4 moment(s)
-  - [Moderate] Penny: “And you, a grown man fainting at the sight of a little blood.”
-  - [Moderate] Sheldon: “I was not myself. I had lost a lot of thumb blood.”
-  - [Moderate] Bernadette: “I should probably give you a heads-up about a couple of things. Even though he’s retired from the police force, he still carries his gun. But don’t worry, he won’t shoot it. It’s more of a fashion statement.”
-  - [Moderate] Bernadette: “…talk to him, don’t bring up Jimmy Carter, gardeners, foreign people, homosexuals, Sean Penn, Vatican II, gun control, organic food, the designated hitter rule, recycling or the fact that you’re Jewish.”
+  - [Caution] Penny: “And you, a grown man fainting at the sight of a little blood.”
+  - [Caution] Sheldon: “I was not myself. I had lost a lot of thumb blood.”
+  - [Caution] Bernadette: “I should probably give you a heads-up about a couple of things. Even though he’s retired from the police force, he still carries his gun. But don’t worry, he won’t shoot it. It’s more of a fashion statement.”
+  - [Caution] Bernadette: “…talk to him, don’t bring up Jimmy Carter, gardeners, foreign people, homosexuals, Sean Penn, Vatican II, gun control, organic food, the designated hitter rule, recycling or the fact that you’re Jewish.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Penny: “Once in a while, I think about how I didn’t leave a note on that Mercedes I dinged in the parking lot last month, but then I have a glass of wine and it passes.”
 - Fat-shaming — 1 moment(s)
@@ -1669,9 +1669,9 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When an office at the University opens up, Sheldon must compete for it with his archenemy, Kripke. Meanwhile, a gift from Amy makes Penny uncomfortable.
 Watch for:
 - Nudity & bodies — 7 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Siebert: “Now? You realize I’m your boss, and I am holding my penis?”
-  - [Explicit] Sheldon: “I’m trying to raise the temperature in here before my nipples tear through my shirt.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Siebert: “Now? You realize I’m your boss, and I am holding my penis?”
+  - [Too much] Sheldon: “I’m trying to raise the temperature in here before my nipples tear through my shirt.”
   - [Mild] Rothman (entering, naked): Gentlemen.
   - [Mild] Amy: “With a posse, a boyfriend and a new lace bra that hooks in the front, of all things.”
   - [Mild] Sheldon: “Yeah. Call first. (Pushes him out. Closes door. Rothman is standing naked behind it.)”
@@ -1700,10 +1700,10 @@ Watch for:
   - [Mild] Penny: “Well, sickly is the new sexy.”
   - [Mild] Penny: “All right. Let me give you a little girlfriend 101. Usually the first move out of the gate is you withhold sex, but that will work better after Sheldon hits puberty. So, I’d say give him the silent treatment.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Leonard: “Well, we’re always the good guys. In D&D, we’re lawful good, in City Of Heroes, we’re the heroes, in Grand Theft Auto, we pay the prostitutes promptly and never hit them with a bat.”
-  - [Explicit] Sheldon: “Those women are prostitutes? You said they were raising money for stem cell research.”
+  - [Too much] Leonard: “Well, we’re always the good guys. In D&D, we’re lawful good, in City Of Heroes, we’re the heroes, in Grand Theft Auto, we pay the prostitutes promptly and never hit them with a bat.”
+  - [Too much] Sheldon: “Those women are prostitutes? You said they were raising money for stem cell research.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Penny: “Well, I know he didn’t cheat on you, so what happened?”
+  - [Caution] Penny: “Well, I know he didn’t cheat on you, so what happened?”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Raj: “Here you go. I’ve got everything we’ll need for the big game. Low fat turkey jerky, low-carb beer, 100-calorie snack packs.”
   - [Mild] Penny: “So, now I will drink this entire cup of beer, and you will go again and we can… uh… all right.”
@@ -1714,16 +1714,16 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Penny buys Leonard and Sheldon "Star Trek" collectibles as a thank-you, leading Sheldon to be haunted by Mr. Spock. Meanwhile, Raj decides he has met the "Future Mrs. Koothrappali" after his parents set him up on a date.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Explicit] Raj: “Oh, no, no, I get a say in it. But I’m sure whoever shows up will be better company than a threesome I’ve been having with Aunt Jemima and Mrs Butterworth.”
-  - [Moderate] Penny: “Yeah, yeah, my mom gave me the same lecture about my virginity. Gotta tell you, it was a lot more fun taking it out and playing with it.”
-  - [Moderate] Howard: “So you’re seriously thinking about marrying someone you’re never going to have sex with.”
+  - [Too much] Raj: “Oh, no, no, I get a say in it. But I’m sure whoever shows up will be better company than a threesome I’ve been having with Aunt Jemima and Mrs Butterworth.”
+  - [Caution] Penny: “Yeah, yeah, my mom gave me the same lecture about my virginity. Gotta tell you, it was a lot more fun taking it out and playing with it.”
+  - [Caution] Howard: “So you’re seriously thinking about marrying someone you’re never going to have sex with.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
   - [Mild] Sheldon: “It’s like looking at the universe naked. (Shivers)”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “You know what you are? Well, you’re a green blooded buzzkill. Perhaps it’s time you beam on out of here.”
+  - [Caution] Sheldon: “You know what you are? Well, you’re a green blooded buzzkill. Perhaps it’s time you beam on out of here.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Raj: “Listen, I love your charming racist humour, but any chance you could not knock my religion while she’s here.”
+  - [Too much] Raj: “Listen, I love your charming racist humour, but any chance you could not knock my religion while she’s here.”
 
 ## S5 E21 — The Hawking Excitation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0521.html
@@ -1731,7 +1731,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: When Wolowitz gets to work with Stephen Hawking, Sheldon is willing to do anything to meet his hero.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Howard: “It’s not her fault. She’s getting hormone replacement therapy. Makes her crazy horny. Check this out, I got Sheldon to wear the French maid’s costume.”
+  - [Caution] Howard: “It’s not her fault. She’s getting hormone replacement therapy. Makes her crazy horny. Check this out, I got Sheldon to wear the French maid’s costume.”
   - [Mild] Howard: “Oh, my dear boy, no. Okay. Next, this is a sexy French maid costume I bought for Bernadette. I thought it might spice things up and get her to dust my room at the same time, but I was wrong and really wrong.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny: “Ugh. Why are you washing Howard’s man panties?”
@@ -1742,27 +1742,27 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Bernadette reconsiders marrying Howard after learning about his sexual history.
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Explicit] Raj: “The only threesome I’ve ever had in my life, and I’m proud to say it was with this man right here.”
-  - [Moderate] Penny: “Really? What is the craziest thing you’ve ever done with a woman? And the time you and I had sex in the ocean does not count.”
-  - [Moderate] Leonard: “I totally had sex in the ocean.”
-  - [Moderate] Raj: “I told him I’m addicted to pedicures and he told me he lost his virginity to his cousin.”
-  - [Moderate] Leonard (taking it off): I’m gonna have sex with you right here, right now, on that washing machine.
+  - [Too much] Raj: “The only threesome I’ve ever had in my life, and I’m proud to say it was with this man right here.”
+  - [Caution] Penny: “Really? What is the craziest thing you’ve ever done with a woman? And the time you and I had sex in the ocean does not count.”
+  - [Caution] Leonard: “I totally had sex in the ocean.”
+  - [Caution] Raj: “I told him I’m addicted to pedicures and he told me he lost his virginity to his cousin.”
+  - [Caution] Leonard (taking it off): I’m gonna have sex with you right here, right now, on that washing machine.
   - [Mild] Leonard: “Hey, I am a young man in his sexual prime. Under the right conditions, I-I-I am capable of just, really crazy stuff.”
   - [Mild] Amy: “All right, pivoting to the big question. Bernadette, on your wedding night you’ll be consummating your marriage. What do you think your first sexual position will be as husband and wife?”
   - [Mild] Sheldon: “And the first woman you ever disappointed sexually. Ba-da-bazinga!”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Leonard: “Horse, but mostly just for the height. A little bit for the genital girth.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Leonard: “Horse, but mostly just for the height. A little bit for the genital girth.”
   - [Mild] Kripke: “Maybe not compwetewy nude, but at weast pasties and G-stwings.”
   - [Mild] Leonard: “Folding a sheet in my underwear, still pretty crazy.”
 - Porn / strippers / sex work — 7 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Raj: “I’ve been doing some research on strippers. One agency I spoke to, said I could get us a great price if we’re flexible on age range and number of limbs.”
-  - [Explicit] Howard: “Sounds like loads of fun, but I promised Bernadette no strippers.”
-  - [Explicit] Penny: “Oh, come on Leonard, it’s you. What’s going to happen? I mean, even if there was a stripper, all you’d do is avoid eye-contact and maybe offer to help her kid with his homework.”
-  - [Explicit] Raj: “Oh, oh, yeah, and then there was the time when Leonard and I took Howard to Las Vegas and paid a hooker to pretend she was Jewish and that she wanted his little kosher pickle.”
-  - [Explicit] Bernadette: “You lied to me. You said you told me about all the girls you’ve been with, but you never mentioned your cousin, the prostitute or Raj!”
-  - [Explicit] Howard: “Okay, just to set the record straight, I didn’t hire the prostitute, she was a gift from him. Shame on you, Raj. That is not how we treat women in this country.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Raj: “I’ve been doing some research on strippers. One agency I spoke to, said I could get us a great price if we’re flexible on age range and number of limbs.”
+  - [Too much] Howard: “Sounds like loads of fun, but I promised Bernadette no strippers.”
+  - [Too much] Penny: “Oh, come on Leonard, it’s you. What’s going to happen? I mean, even if there was a stripper, all you’d do is avoid eye-contact and maybe offer to help her kid with his homework.”
+  - [Too much] Raj: “Oh, oh, yeah, and then there was the time when Leonard and I took Howard to Las Vegas and paid a hooker to pretend she was Jewish and that she wanted his little kosher pickle.”
+  - [Too much] Bernadette: “You lied to me. You said you told me about all the girls you’ve been with, but you never mentioned your cousin, the prostitute or Raj!”
+  - [Too much] Howard: “Okay, just to set the record straight, I didn’t hire the prostitute, she was a gift from him. Shame on you, Raj. That is not how we treat women in this country.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Raj: “Maybe we can go up to Napa Valley. They’ve got that wine train.”
   - [Mild] Sheldon: “Boo, wine! But yay, trains. I’m in.”
@@ -1781,8 +1781,8 @@ Watch for:
   - [Mild] Leonard: “All right, let me rephrase the question. Why are you wearing long underwear?”
   - [Mild] Penny: “Okay. Oh, and just a heads-up, mm, since the last time you saw me naked, I got a Cookie Monster tattoo. The acceptable responses when you see it are awesome or nothing.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Mr. Rostenkowski: “Last murder case before I retired. How many bodies do you see there? Careful, it’s a trick question.”
-  - [Explicit] Mr. Rostenkowski: “Nah, his wife shot him. But she was nuts, so in a way.”
+  - [Too much] Mr. Rostenkowski: “Last murder case before I retired. How many bodies do you see there? Careful, it’s a trick question.”
+  - [Too much] Mr. Rostenkowski: “Nah, his wife shot him. But she was nuts, so in a way.”
 
 ## S5 E24 — The Countdown Reflection
 URL: https://watchwiththekids.com/ep/big-bang-theory/0524.html
@@ -1819,7 +1819,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Bernadette: “Oh, that’s not really a fair comparison. I’m basically married to a sexy Buzz Lightyear.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Leonard: “The guy who seems like an emotionless robot is you, but your relationship with Amy is causing you to transform into a red-blooded man with sexual desires.”
+  - [Caution] Leonard: “The guy who seems like an emotionless robot is you, but your relationship with Amy is causing you to transform into a red-blooded man with sexual desires.”
 
 ## S6 E3 — The Higgs Boson Observation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0603.html
@@ -1827,14 +1827,14 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Amy feels threatened when Sheldon hires a young female assistant, and the pressure of being in space takes its toll on Wolowitz.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Howard: “Okay, okay. What am I doing? I’m using up all the oxygen. If I die, promise you’ll never have sex with another man.”
+  - [Caution] Howard: “Okay, okay. What am I doing? I’m using up all the oxygen. If I die, promise you’ll never have sex with another man.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Porn / adult-channel plot is part of this episode.
-  - [Explicit] Amy: “I’m going to video-chat Sheldon. If my new look leads to phone sex, I’m going to have to ask you to leave the room.”
+  - [Too much] Porn / adult-channel plot is part of this episode.
+  - [Too much] Amy: “I’m going to video-chat Sheldon. If my new look leads to phone sex, I’m going to have to ask you to leave the room.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Sheldon: “All right, Ms. Jenson. Uh, before we begin, may I offer you a refreshment? Water, coffee, tea, a marijuana cigarette?”
+  - [Caution] Sheldon: “All right, Ms. Jenson. Uh, before we begin, may I offer you a refreshment? Water, coffee, tea, a marijuana cigarette?”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Amy (to Penny, on other side of room): You were right. I had nothing to worry about. That skank’s your problem, not mine.
+  - [Caution] Amy (to Penny, on other side of room): You were right. I had nothing to worry about. That skank’s your problem, not mine.
 
 ## S6 E4 — The Re-Entry Minimization
 URL: https://watchwiththekids.com/ep/big-bang-theory/0604.html
@@ -1842,9 +1842,9 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Wolowitz returns from space, he doesn't get the hero's welcome he expected. Meanwhile, Game Night turns into a battle of the sexes.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Raj: “Wait, your, your mother is sleeping with your dentist?”
+  - [Caution] Raj: “Wait, your, your mother is sleeping with your dentist?”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Amy: “Are you sure? I mean, the nose doesn’t light up, but if the corpse is fresh enough, sometimes you can get the leg to jerk.”
+  - [Too much] Amy: “Are you sure? I mean, the nose doesn’t light up, but if the corpse is fresh enough, sometimes you can get the leg to jerk.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Sheldon: “Well, regardless, she has a distinct advantage in all tavern-based competitions. Pool, beer pong, wet T-shirt contests, they’re all out.”
   - [Mild] Penny: “Okay. Just for the record, I have never entered a wet T-shirt contest. I’ve won a few, but that’s just because I spill when I’m drunk, so…”
@@ -1859,11 +1859,11 @@ Watch for:
   - [Mild] Penny: “No, sexy cop. Slutty cop only came with a skirt and two badges.”
   - [Mild] Penny (emerging from Tardis): Nothing to see here. Just sexy police business.
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Leonard: “A grad student forgot to take out one of his piercings. Now he’s on a transplant list waiting for a nipple his size. Now watch this.”
+  - [Too much] Leonard: “A grad student forgot to take out one of his piercings. Now he’s on a transplant list waiting for a nipple his size. Now watch this.”
   - [Mild] Leonard: “But what I really am is a very smart scientist who understands the mechanics of the universe and is wearing the sexy black underwear you bought him.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Porn / adult-channel plot is part of this episode.
-  - [Explicit] Howard: “But you know what wasn’t a party? That hotel in Kazakhstan they put you up in before the launch. I mean, it’s your last night on Earth. You’d think you’d get one porn channel.”
+  - [Too much] Porn / adult-channel plot is part of this episode.
+  - [Too much] Howard: “But you know what wasn’t a party? That hotel in Kazakhstan they put you up in before the launch. I mean, it’s your last night on Earth. You’d think you’d get one porn channel.”
 
 ## S6 E6 — The Extract Obliteration
 URL: https://watchwiththekids.com/ep/big-bang-theory/0606.html
@@ -1871,13 +1871,13 @@ Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Sheldon's relationship with Stephen Hawking is threatened over a game of "Words with Friends," and Penny secretly enrolls in a class at the local college.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Penny: “Thank you. Now behave yourself and eat your dinner. Maybe later, if you’re lucky, you get to sleep with a college girl.”
+  - [Caution] Penny: “Thank you. Now behave yourself and eat your dinner. Maybe later, if you’re lucky, you get to sleep with a college girl.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Bernadette: “So, I was taking a shower this morning, and when I got out, I started to dry off with what I thought was a towel but turned out to be Howard’s mom’s underwear.”
 - Violence & injury — 1 moment(s)
   - [Mild] Sheldon: “I was beating him so bad, he doesn’t want to be friends anymore. Why does everyone love me except Stephen Hawking?”
 - Swearing — 4 moment(s)
-  - [Moderate] Raj: “Dude! I was about to Bollywood this bitch.”
+  - [Caution] Raj: “Dude! I was about to Bollywood this bitch.”
   - [Mild] Howard: “That somewhere right now Stephen Hawking is saying, damn it, I meant to click no.””
   - [Mild] Sheldon: “It sucks to be you.”
   - [Mild] Penny: “Okay. An examination of the economic, cultural, and political roots of slavery in the Old South, 1619 to 1865. What the hell is this?”
@@ -1899,8 +1899,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Sheldon: “While unlikely, it’s still a statistical possibility. She might be performing sexual acts with him and not even know it.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Raj: “Ooh, this is exciting. Like one of my classic murder mystery dinner parties.”
-  - [Explicit] Leonard: “Right, the case of who murdered three Saturday nights of my life?”
+  - [Too much] Raj: “Ooh, this is exciting. Like one of my classic murder mystery dinner parties.”
+  - [Too much] Leonard: “Right, the case of who murdered three Saturday nights of my life?”
 
 ## S6 E9 — The Parking Spot Escalation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0609.html
@@ -1908,19 +1908,19 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When the University reassigns Sheldon's parking spot to Wolowitz, their fight affects the whole gang.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Bernadette: “I don’t have to take this. I’m gonna go home and have sex with my husband right now. Maybe I’ll let him do it to me in the parking spot. Which sounds dirty, but I didn’t mean it that way,”
+  - [Caution] Bernadette: “I don’t have to take this. I’m gonna go home and have sex with my husband right now. Maybe I’ll let him do it to me in the parking spot. Which sounds dirty, but I didn’t mean it that way,”
   - [Mild] Bernadette: “Gosh, Amy. I’m sensing a little hostility. Is it maybe because, like Sheldon’s work, your sex life is also theoretical?”
 - Nudity & bodies — 6 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Sheldon: “Well, I’m not using my nipples, either. Maybe they should reassign those.”
-  - [Explicit] Sheldon: “It’s only two years old, 16 gigabytes of RAM, Intel core i7 processor, and I can personally guarantee it has spent less than 20 minutes resting on an astronaut’s penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Sheldon: “Well, I’m not using my nipples, either. Maybe they should reassign those.”
+  - [Too much] Sheldon: “It’s only two years old, 16 gigabytes of RAM, Intel core i7 processor, and I can personally guarantee it has spent less than 20 minutes resting on an astronaut’s penis.”
   - [Mild] Sheldon: “Well, I’m not giving it away. (Enters apartment. Howard is sitting naked in his spot with a laptop on his lap)”
   - [Mild] Sheldon: “He’s in my spot. Leonard, make him stop being naked in my spot.”
   - [Mild] Sheldon: “You know what they say? Revenge is a dish best served nude.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “According to information I gleaned from Yelp, you had great success when a santeriasuzy37 brought you a pair of leather slacks stained with chicken blood.”
+  - [Caution] Sheldon: “According to information I gleaned from Yelp, you had great success when a santeriasuzy37 brought you a pair of leather slacks stained with chicken blood.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Sheldon: “A naked man sat on it. Now, here’s my concern, his diet is rich in fatty deli meats. What test do you have to detect lipid residue?”
+  - [Caution] Sheldon: “A naked man sat on it. Now, here’s my concern, his diet is rich in fatty deli meats. What test do you have to detect lipid residue?”
 
 ## S6 E10 — The Fish Guts Displacement
 URL: https://watchwiththekids.com/ep/big-bang-theory/0610.html
@@ -1928,10 +1928,10 @@ Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon tries to nurse a sick Amy back to health, while Wolowitz prepares for an upcoming fishing trip with his father-in-law.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sheldon: “I can think of many things Spider-Man can’t do that a spider can. One, crawl in your ear and die. Two, legally leave Guatemala without a passport. Three, have sex with a spider.”
+  - [Caution] Sheldon: “I can think of many things Spider-Man can’t do that a spider can. One, crawl in your ear and die. Two, legally leave Guatemala without a passport. Three, have sex with a spider.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Penny: “So, what you’re going to do is you’re going to take your knife, slice him right up the belly.”
-  - [Moderate] Penny: “All right. Now, you don’t want to cut too deep into its guts, or the blood will just squirt all over your face. (Howard, Leonard and Raj gag) Oh, my God. What is with you guys?”
+  - [Caution] Penny: “So, what you’re going to do is you’re going to take your knife, slice him right up the belly.”
+  - [Caution] Penny: “All right. Now, you don’t want to cut too deep into its guts, or the blood will just squirt all over your face. (Howard, Leonard and Raj gag) Oh, my God. What is with you guys?”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Mrs. Rostenkowski: “Here’s another beer, honey.”
   - [Mild] Sheldon: “You know, it’s a tad old-school, but my father was not one to spare the rod when my brother would sneak into his truck and drink his driving whiskey.”
@@ -1942,14 +1942,14 @@ Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Sheldon revisits some Christmas memories during a game of Dungeons and Dragons, while Penny, Bernadette and Amy try to find a girl for Koothrappali when he joins the girls for ladies' night.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Penny: “Okay, wait, are we talking one-night stand or do we want to get him into a relationship?”
+  - [Caution] Penny: “Okay, wait, are we talking one-night stand or do we want to get him into a relationship?”
   - [Mild] Penny: “Oh, you poor thing. Is having a real-life girlfriend who has sex with you getting in the way of your board games?”
   - [Mild] Leonard: “Okay. So Wolowitz and Stuart are paralyzed, Santa’s dead, and I picked this over having sex with my girlfriend.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Raj: “Well, uh, there was a time when I had a thing for Penny, and I thought she was into me, too, because she got drunk and naked and climbed into bed with me. But apparently I misread those signals.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Stuart: “I gotta tell you, this, this is the most holiday fun I’ve had since my therapist changed my anxiety medication and I stopped caring about the blood in my stool.”
-  - [Moderate] Leonard: “You did it. The drawbridge is down. You cross the chasm and find yourself in a small dungeon room. And in the corner, chained to the wall, you see a bloodied and beaten Santa Claus. He says, ho, ho, help me.”
+  - [Caution] Stuart: “I gotta tell you, this, this is the most holiday fun I’ve had since my therapist changed my anxiety medication and I stopped caring about the blood in my stool.”
+  - [Caution] Leonard: “You did it. The drawbridge is down. You cross the chasm and find yourself in a small dungeon room. And in the corner, chained to the wall, you see a bloodied and beaten Santa Claus. He says, ho, ho, help me.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Amy: “So, what’s the plan? Are we gonna teach our fellas a lesson by getting stinking drunk, luring strange men into the bathroom, and turning the toilet stall into a temple of the senses?”
   - [Mild] Raj: “Can we get another bottle of champagne for the table? Don’t worry. It’s my treat.”
@@ -1971,15 +1971,15 @@ Watch for:
   - [Mild] Janine: “Did it have six breasts?”
   - [Mild] Howard: “I’m sorry, I’m a feminist, I don’t notice things like how many breasts a robot has.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Bernadette: “I’m sure you’ve got nothing to worry about. Leonard would never cheat on you.”
+  - [Caution] Bernadette: “I’m sure you’ve got nothing to worry about. Leonard would never cheat on you.”
 - Swearing — 3 moment(s)
-  - [Moderate] Penny: “I don’t care about Alex. Fine, I care. Okay, I hate that bitch. But what really hurt is that you liked it so much. I mean, do I need to be worried?”
+  - [Caution] Penny: “I don’t care about Alex. Fine, I care. Okay, I hate that bitch. But what really hurt is that you liked it so much. I mean, do I need to be worried?”
   - [Mild] Penny: “Wait, what the hell’s going on with Leonard and Alex?”
   - [Mild] Penny: “Oh, damn it, you are.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Amy: “She’s right. But say the word, I got a lab full of cocaine-addicted monkeys with nothing to lose. One of them could end up in the backseat of her car. Or her shower.”
+  - [Too much] Amy: “She’s right. But say the word, I got a lab full of cocaine-addicted monkeys with nothing to lose. One of them could end up in the backseat of her car. Or her shower.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Sheldon: “Yes. No, yeah, but in his defense, that wasn’t racist. He’s also brown.”
+  - [Too much] Sheldon: “Yes. No, yeah, but in his defense, that wasn’t racist. He’s also brown.”
 
 ## S6 E13 — The Bakersfield Expedition
 URL: https://watchwiththekids.com/ep/big-bang-theory/0613.html
@@ -1989,7 +1989,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Raj: “Now let’s do some sexy glamour shots.”
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “Son of a bitch.”
+  - [Caution] Howard: “Son of a bitch.”
   - [Mild] Penny: “Damn, you’ve got more makeup than I do. You’ve got better makeup than I do. Yeah, I’m borrowing this.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Penny: “Oh, this is the best. You have booze with breakfast on a Tuesday, you got a problem. You do it on the weekend, you got brunch.”
@@ -2000,16 +2000,16 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Sheldon is forced to work with Barry Kripke and faces a crisis of confidence. Meanwhile, Howard and Raj spend $1,000 on action figures of themselves.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Bernadette: “No, here’s how love works. You’re gonna return the machine, or you can print out a working set of lady parts and sleep with those. Oh, my God! Are you actually thinking about it?”
+  - [Caution] Bernadette: “No, here’s how love works. You’re gonna return the machine, or you can print out a working set of lady parts and sleep with those. Oh, my God! Are you actually thinking about it?”
   - [Mild] Raj: “Of course you have. They’re an engineer’s dream. Anything you can design, a 3-D printer can make out of plastic.”
   - [Mild] Sheldon: “Well, word around the university is I’m giving her sex organs a proper jostling.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Sheldon: “What can I say, you know? She enjoys my genitals. I am giving them to her on a nightly basis.”
+  - [Too much] Sheldon: “What can I say, you know? She enjoys my genitals. I am giving them to her on a nightly basis.”
   - [Mild] Kripke: “Yeah, yeah, yeah. Was she naked, or was she weawing wingewie?”
 - Violence & injury — 1 moment(s)
   - [Mild] Sheldon: “I feel like I’m being strangled by a boa constrictor. Why’d you stop?”
 - Swearing — 2 moment(s)
-  - [Moderate] Raj: “Not to mention Malibu Koothrappali and his totally bitchin’ dream house.”
+  - [Caution] Raj: “Not to mention Malibu Koothrappali and his totally bitchin’ dream house.”
   - [Mild] Kripke: “You wucky bastard.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Howard: “I can’t believe I wasted all that money.”
@@ -2022,9 +2022,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Raj: “I’m trapped. My clothes have been in the laundry all day, and she hid my keys. I think they might be in her bra, because she jingles when she walks. What do I do?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Penny: “Um, well, um, all right. You, you know how in Harry Potter and the Half-Blood Prince, Ron didn’t abandon Harry just because Harry started dating Ron’s sister?”
+  - [Caution] Penny: “Um, well, um, all right. You, you know how in Harry Potter and the Half-Blood Prince, Ron didn’t abandon Harry just because Harry started dating Ron’s sister?”
 - Swearing — 4 moment(s)
-  - [Moderate] Leonard: “What is wrong with you? If I did that, you’d bitch about it for weeks.”
+  - [Caution] Leonard: “What is wrong with you? If I did that, you’d bitch about it for weeks.”
   - [Mild] Leonard: “To live with Penny and not you, you crazy bastard.”
   - [Mild] Sheldon: “Crazy bastard?”
   - [Mild] Amy: “Then what the hell, Sheldon?”
@@ -2038,13 +2038,13 @@ Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: While the guys try to give their significant others the perfect Valentine's Day, Raj and Stuart throw a "lonely people" party at the comic book store.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Leonard: “Sorry. Maybe next year. I’m just kidding. Romance ninja. Let’s have sex. Waugh!”
+  - [Caution] Leonard: “Sorry. Maybe next year. I’m just kidding. Romance ninja. Let’s have sex. Waugh!”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Penny: “Until he cheated on me with my friend Gretchen, who’s here with him now.”
-  - [Moderate] Penny: “Oh, I can’t believe he’s going to marry the girl he cheated on me with.”
+  - [Caution] Penny: “Until he cheated on me with my friend Gretchen, who’s here with him now.”
+  - [Caution] Penny: “Oh, I can’t believe he’s going to marry the girl he cheated on me with.”
 - Swearing — 5 moment(s)
-  - [Moderate] Penny: “Oh, son of a bitch.”
-  - [Moderate] Penny: “Yeah, I know. I’m a total bitch.”
+  - [Caution] Penny: “Oh, son of a bitch.”
+  - [Caution] Penny: “Yeah, I know. I’m a total bitch.”
   - [Mild] Penny: “And it looks like she lost a lot of weight, damn it.”
   - [Mild] Penny: “Yeah, well, whatever, okay? I told you, Valentine’s Day sucks.”
   - [Mild] Howard: “Damn it, it’s in the washing machine.”
@@ -2058,14 +2058,14 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After a terrible date, Koothrappali vows to never leave his apartment. Meanwhile, Penny actually impresses Sheldon with her acting skills.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Raj: “(Girl can be seen sneaking past window and leaving) I should have bought condoms.”
-  - [Moderate] Sheldon: “Now, Fun with Flags is not just for the flag aficionado, it’s also for the flag novice, so, to help me with that, please welcome my friend, neighbour, and flag virgin, yeah, not a real virgin.”
+  - [Caution] Raj: “(Girl can be seen sneaking past window and leaving) I should have bought condoms.”
+  - [Caution] Sheldon: “Now, Fun with Flags is not just for the flag aficionado, it’s also for the flag novice, so, to help me with that, please welcome my friend, neighbour, and flag virgin, yeah, not a real virgin.”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] Amy: “Fine. Just hold on. Mommy’s on the phone! Sorry. We’ve cut the monkeys down to one cigarette a day, so things are a little intense. Makes me miss my marijuana-abusing flatworms. Those guys were mellow.”
+  - [Caution] Amy: “Fine. Just hold on. Mommy’s on the phone! Sorry. We’ve cut the monkeys down to one cigarette a day, so things are a little intense. Makes me miss my marijuana-abusing flatworms. Those guys were mellow.”
   - [Mild] Raj (off): Of course not. Nothing good ever happens. (Opens door. He is wearing a stained vest, his hair is unkempt, and he is drinking wine from a bottle.)
   - [Mild] Raj: “If it wasn’t for this beer, I couldn’t even talk to you right now.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Sheldon: “I did shoot one last week, in honour of Black History Month, but I was informed by my roommate that my spot-on portrayal of George Washington Carver could be considered wildly racist.”
+  - [Too much] Sheldon: “I did shoot one last week, in honour of Black History Month, but I was informed by my roommate that my spot-on portrayal of George Washington Carver could be considered wildly racist.”
 
 ## S6 E18 — The Contractual Obligation Implementation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0618.html
@@ -2073,19 +2073,19 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Leonard, Sheldon and Wolowitz speak to junior high girls about careers in science. Meanwhile, Koothrappali plans a date with Lucy.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Raj: “I’m counting that as foreplay.”
+  - [Caution] Raj: “I’m counting that as foreplay.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Howard: “Well, they’re actually pretty excited. I’m their most famous alum. If you don’t count the serial killer who ate all those prostitutes.”
-  - [Explicit] Lucy (by text): I don’t know. You ever look at porn Web sites?
-  - [Explicit] Raj (by text): No, never. What is porn?
+  - [Too much] Howard: “Well, they’re actually pretty excited. I’m their most famous alum. If you don’t count the serial killer who ate all those prostitutes.”
+  - [Too much] Lucy (by text): I don’t know. You ever look at porn Web sites?
+  - [Too much] Raj (by text): No, never. What is porn?
 - Violence & injury — 2 moment(s)
-  - [Moderate] Sheldon: “Co-discoverer of radioactivity, she was a hero of science, until her hair fell out, her vomit and stool became filled with blood, and she was poisoned to death by her own discovery.”
+  - [Caution] Sheldon: “Co-discoverer of radioactivity, she was a hero of science, until her hair fell out, her vomit and stool became filled with blood, and she was poisoned to death by her own discovery.”
   - [Mild] Howard: “I mean, how many times in these hallways was I tripped, punched and spit on?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Leonard: “I never wanted to play the cello. How do you meet girls playing the cello? Hey, you want to come over to my house and listen to me play an instrument that sounds like a suicidal bumblebee?”
+  - [Too much] Leonard: “I never wanted to play the cello. How do you meet girls playing the cello? Hey, you want to come over to my house and listen to me play an instrument that sounds like a suicidal bumblebee?”
 - Swearing — 2 moment(s)
-  - [Moderate] Leonard: “Look, I know you guys don’t want to do this, but we have no choice. So, you can either bitch and whine or we can just get it over with.”
-  - [Moderate] Bernadette: “Well, it’s simple. This was my idea. I’m driving. I’m Cinderella. You bitches got a problem with that, we could stop the car right now.”
+  - [Caution] Leonard: “Look, I know you guys don’t want to do this, but we have no choice. So, you can either bitch and whine or we can just get it over with.”
+  - [Caution] Bernadette: “Well, it’s simple. This was my idea. I’m driving. I’m Cinderella. You bitches got a problem with that, we could stop the car right now.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Penny: “Are you kidding? You brought fancy wine and made fondue. I’ve slept with guys for less. It’s a joke. Based on real events.”
   - [Mild] Amy: “Seedy bar on the wrong side of the tracks, picnic near a lunatic asylum, a wine tasting on Skid Row.”
@@ -2097,7 +2097,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Howard struggles with whether or not he should open a letter from his father, and Leonard and Penny throw a "grown-up" cocktail party at the apartment.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Howard: “Oh, honey, I am in no mood to have sex tonight. I’ll lay there if you absolutely have to have it, but… Oh. What are you guys doing here?”
+  - [Caution] Howard: “Oh, honey, I am in no mood to have sex tonight. I’ll lay there if you absolutely have to have it, but… Oh. What are you guys doing here?”
   - [Mild] Howard: “Hey, you can tell me what to do or you can tell me how to do it, but you can’t do both. This isn’t sex.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Leonard: “I’m thinking you need a testosterone patch. Penny and I just want to do something low-key. You know, cocktails, light jazz music, hors d’oeuvres.”
@@ -2108,7 +2108,7 @@ Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Leonard, Sheldon and Raj fight for tenure at the University, and the competition heats up when the girls get involved.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Sheldon: “My primary concern with being granted tenure is living with an insanely jealous roommate after the fact. I might need to sleep with a gun under my pillow. Or a chainsaw.”
+  - [Caution] Sheldon: “My primary concern with being granted tenure is living with an insanely jealous roommate after the fact. I might need to sleep with a gun under my pillow. Or a chainsaw.”
   - [Mild] Raj: “You two should be ashamed of yourselves. Using women to advance your cause with sexuality, and whatever Amy plans on doing.”
   - [Mild] Sheldon: “Are you implying that my girlfriend has no sexuality to exploit?”
   - [Mild] Sheldon: “Well, yes, of course, he wouldn’t like that at all. Last night, I was feeling in need of sexual release when I happened to come across your mother.”
@@ -2116,7 +2116,7 @@ Watch for:
   - [Mild] Sheldon: “Well, that’s a fine how-do-you-do. Don’t just stand there. Take your breasts out.”
   - [Mild] Amy: “Should have taken my breasts out while I had the chance.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “My primary concern with being granted tenure is living with an insanely jealous roommate after the fact. I might need to sleep with a gun under my pillow. Or a chainsaw.”
+  - [Caution] Sheldon: “My primary concern with being granted tenure is living with an insanely jealous roommate after the fact. I might need to sleep with a gun under my pillow. Or a chainsaw.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Bernadette: “I think that’s enough wine for now.”
 
@@ -2126,13 +2126,13 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon feels lost after one of his favorite TV shows gets canceled too soon and Amy tries to help him get over his compulsive need for closure. Meanwhile, Raj discovers a secret about his new love interest, Lucy.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Howard: “However long you think the foreplay should be, triple it.”
+  - [Caution] Howard: “However long you think the foreplay should be, triple it.”
   - [Mild] Raj: “Yes, Mummy was right. American girls are sexually voracious devils.”
   - [Mild] Sheldon: “Yeah, you already sound nicer than the last Bruce Miller who suggested I have sexual relations with myself.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Howard: “Why can’t you just watch porn like a regular guy? I need your laptop so I can configure the software.”
+  - [Too much] Howard: “Why can’t you just watch porn like a regular guy? I need your laptop so I can configure the software.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Penny: “Yeah, it was fun. Kind of reminded me of my high school. But instead of vampires, we had meth heads. But both came out at night and had messed up teeth.”
+  - [Too much] Penny: “Yeah, it was fun. Kind of reminded me of my high school. But instead of vampires, we had meth heads. But both came out at night and had messed up teeth.”
 
 ## S6 E22 — The Proton Resurgence
 URL: https://watchwiththekids.com/ep/big-bang-theory/0622.html
@@ -2140,7 +2140,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon and Leonard hire Professor Proton, the host of their favorite childhood TV show, to perform. Also, Howard and Bernadette run into trouble babysitting Raj's dog.
 Watch for:
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “Of course we can. Especially if our baby’s as calm and quiet as little Cinna… Son of a bitch, she’s gone.”
+  - [Caution] Howard: “Of course we can. Especially if our baby’s as calm and quiet as little Cinna… Son of a bitch, she’s gone.”
   - [Mild] Arthur: “Sure, what the hell.”
 
 ## S6 E23 — The Love Spell Potential
@@ -2149,7 +2149,7 @@ Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: When the girls' trip to Vegas falls through, the guys invite them to play Dungeons & Dragons, causing Sheldon and Amy's relationship to take an unexpected turn. Meanwhile, Koothrappali and Lucy go on a very awkward date.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Howard: “Come on, are we gonna sit around chatting like a bunch of teenage girls, or are we gonna play D&D like a bunch of teenage boys who are never gonna have sex with those teenage girls?”
+  - [Caution] Howard: “Come on, are we gonna sit around chatting like a bunch of teenage girls, or are we gonna play D&D like a bunch of teenage boys who are never gonna have sex with those teenage girls?”
   - [Mild] Bernadette: “I got a sexy new tube top that says come hither, and a can of pepper spray that says close enough, Jack.”
   - [Mild] Raj: “Not that it’s up to you to make me happy. Uh, well, unless you find neediness sexy. In which case, you’re about to have dinner with the hottest man on the planet.”
   - [Mild] Amy: “Sheldon, they’re talking about sex.”
@@ -2157,12 +2157,12 @@ Watch for:
   - [Mild] Amy: “I got some old underwear I’m gonna throw on stage at the Garth Brooks concert.”
   - [Mild] Howard: “When Sheldon looks at Amy, she is the most beautiful half-orc he’s ever seen, and he’s overcome with a desire to rip her armour off and gaze fondly at her four hairy breasts.”
 - Violence & injury — 6 moment(s)
-  - [Explicit] Raj: “You’re right, I should finish the game. I take my plus-one long sword, stab myself in the face with it. I’m dead, I’ve got a date with a girl. Bye.”
-  - [Explicit] Howard: “Suddenly, a spectral shape rises from Koothrappali’s bloody corpse, and says, (Raj voice) don’t worry, buddies, ghost Raj will help guide you through the forest.”
-  - [Explicit] Sheldon: “I believe that, uh, we just killed a dragon. While the others pillage the corpse, I lead you to a secluded area where I attempt to remove your leather armour. (Rolls dice) It comes off.”
-  - [Moderate] Raj: “I got my new bloodthirsty savage warrior who will lay waste to all who stand before him. And I had a sensible salad for lunch, so I can eat all the pizza I want.”
-  - [Moderate] Lucy: “I know. I have a two-year subscription to Guns & Ammo.53”
-  - [Moderate] Leonard: “Hey, I always did sound effects. A-A swarm of bloodthirsty bats fly through the dungeon. (Clicking sounds) Uh, uh, they attack a nearby unicorn. (Strange howl)”
+  - [Too much] Raj: “You’re right, I should finish the game. I take my plus-one long sword, stab myself in the face with it. I’m dead, I’ve got a date with a girl. Bye.”
+  - [Too much] Howard: “Suddenly, a spectral shape rises from Koothrappali’s bloody corpse, and says, (Raj voice) don’t worry, buddies, ghost Raj will help guide you through the forest.”
+  - [Too much] Sheldon: “I believe that, uh, we just killed a dragon. While the others pillage the corpse, I lead you to a secluded area where I attempt to remove your leather armour. (Rolls dice) It comes off.”
+  - [Caution] Raj: “I got my new bloodthirsty savage warrior who will lay waste to all who stand before him. And I had a sensible salad for lunch, so I can eat all the pizza I want.”
+  - [Caution] Lucy: “I know. I have a two-year subscription to Guns & Ammo.53”
+  - [Caution] Leonard: “Hey, I always did sound effects. A-A swarm of bloodthirsty bats fly through the dungeon. (Clicking sounds) Uh, uh, they attack a nearby unicorn. (Strange howl)”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Amy: “No rules? We’re not gonna get drunk and have a six-way with the Blue Man Group, are we?”
 
@@ -2182,13 +2182,13 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: With Leonard away, Sheldon and Penny spend quality time together sharing intimate secrets. Also, Wolowitz helps Raj get over his ex-girlfriend.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Amy: “Your brainy virgin kind of sounds like Sheldon.”
+  - [Caution] Amy: “Your brainy virgin kind of sounds like Sheldon.”
   - [Mild] Howard: “Check it out. Mrs. Davis from Human Resources is here. She’s probably on the lookout for sexual harassment.”
   - [Mild] Raj: “Oh, great. There go my chances of being sexually harassed.”
   - [Mild] Sheldon: “Now I know how you felt getting mauled by that sex-crazed gorilla.”
   - [Mild] Bernadette: “Oh, good, ’cause I liked the tall thin one. He seemed intelligent, kind of a loner, maybe a little sexually inexperienced, like I’d have to teach him a thing or two.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Raj: “So if the fact that your husband left you makes you feel unattractive, just remember, penguins get cheated on, and they’re adorable.”
+  - [Caution] Raj: “So if the fact that your husband left you makes you feel unattractive, just remember, penguins get cheated on, and they’re adorable.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Sheldon: “That you’re having to process your emotional pain without vodka?”
   - [Mild] Sheldon: “Well, perhaps you’re obsessively picturing him engaged in drunken coitus with another woman. Is that it? Did I get it right?”
@@ -2202,20 +2202,20 @@ Watch for:
   - [Mild] Howard: “Sex? Really? I mean, that’s just your solution to everything.”
   - [Mild] Sheldon: “Oh, really? She and I once had a staring contest. She clapped really loud and made me blink. It’s a small leap from there to sexual infidelity.”
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Howard: “Hey, easy, my nipples are sensitive.”
+  - [Too much] Howard: “Hey, easy, my nipples are sensitive.”
   - [Mild] Howard: “Okay, well, I’ve been reading up on all the side effects you can get from oestrogen, and, I need you to be honest with me. Do my boobs look bigger to you?”
   - [Mild] Raj: “Hmm. Uh, let me see something. (Grabs his boob)”
   - [Mild] Raj: “Oh. Sorry, sorry, uh, okay. (Grabs boob again. Behind them, Bernadette walks in) I mean, yeah, maybe.”
   - [Mild] Howard: “This man held my breast the other day and I love him for it.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Sheldon: “I fear Penny is being unfaithful to Leonard.”
-  - [Moderate] Amy: “I don’t think Penny would cheat on Leonard.”
+  - [Caution] Sheldon: “I fear Penny is being unfaithful to Leonard.”
+  - [Caution] Amy: “I don’t think Penny would cheat on Leonard.”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] Penny: “Oh. Okay. Well, here’s, um, thirty something cents and a promise I won’t call your boss and tell him you reek of marijuana.”
+  - [Caution] Penny: “Oh. Okay. Well, here’s, um, thirty something cents and a promise I won’t call your boss and tell him you reek of marijuana.”
   - [Mild] Sheldon: “That’s curious. If there’s no one here, why are there two glasses of wine on the table?”
   - [Mild] Leonard: “Um, since when can Koothrappali talk in front of the girls without a beer?”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Howard: “You’re kidding, right? I mean, you know I’m trying to lose weight. God, I thought we were partners in this marriage.”
+  - [Caution] Howard: “You’re kidding, right? I mean, you know I’m trying to lose weight. God, I thought we were partners in this marriage.”
 
 ## S7 E3 — The Scavenger Vortex
 URL: https://watchwiththekids.com/ep/big-bang-theory/0703.html
@@ -2223,9 +2223,9 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: When the entire gang competes in a scavenger hunt designed by Raj, it brings out the best - and worst - in everyone.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Raj: “So, couldn’t help but notice none of you RSVP’d to my murder mystery dinner party.”
-  - [Explicit] Raj: “No, you weren’t because it was a week ago and nobody came. So, if you want to solve the mystery of who stabbed Koothrappali in the back with the weapon of indifference, it was all of you.”
-  - [Explicit] Raj: “Don’t worry, I can take a hint. No more murder mystery parties.”
+  - [Too much] Raj: “So, couldn’t help but notice none of you RSVP’d to my murder mystery dinner party.”
+  - [Too much] Raj: “No, you weren’t because it was a week ago and nobody came. So, if you want to solve the mystery of who stabbed Koothrappali in the back with the weapon of indifference, it was all of you.”
+  - [Too much] Raj: “Don’t worry, I can take a hint. No more murder mystery parties.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Penny: “Oh, in ours we would just run around town looking for a store that would sell us beer.”
   - [Mild] Penny: “Wow. I can drink a beer underwater.”
@@ -2236,10 +2236,10 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Sheldon seeks revenge after Amy ruins one of his favorite movies. Meanwhile, Leonard discovers a way to get Penny to do anything, and Raj and Stuart create online dating profiles.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Explicit] Leonard: “There, there’s chapters about potty training, and bed-wetting and masturbation. Basically, if something came out of me, she wrote about it. You know what? Do whatever you want, just don’t talk to me about it.”
-  - [Moderate] Amy: “I enjoyed it. When you told me I was going to be losing my virginity, I didn’t think you meant showing me Raiders of the Lost Ark for the first time.”
-  - [Moderate] Leonard: “Who just had sex with me at work.”
-  - [Moderate] Howard: “I’m copying Leonard. When he does this to Penny, they have sex and watch Monty Python.”
+  - [Too much] Leonard: “There, there’s chapters about potty training, and bed-wetting and masturbation. Basically, if something came out of me, she wrote about it. You know what? Do whatever you want, just don’t talk to me about it.”
+  - [Caution] Amy: “I enjoyed it. When you told me I was going to be losing my virginity, I didn’t think you meant showing me Raiders of the Lost Ark for the first time.”
+  - [Caution] Leonard: “Who just had sex with me at work.”
+  - [Caution] Howard: “I’m copying Leonard. When he does this to Penny, they have sex and watch Monty Python.”
   - [Mild] Howard: “Wow. Sex at work?”
   - [Mild] Mrs Hofstadter: “Let’s discuss why you continue to involve me in your sex life.”
 - Nudity & bodies — 4 moment(s)
@@ -2266,10 +2266,10 @@ Watch for:
   - [Mild] Penny: “Pants, but Leonard says sex doesn’t count.”
   - [Mild] Raj: “Well, I’ve always had this fantasy that involves dancing. The sexual chemistry between my partner and me is electric. But boy, oh, boy, does my father not approve until he sees us in the big dance competition.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Howard: “I’d be binary code without a one, a cathode ray tube without an electron gun.”
+  - [Caution] Howard: “I’d be binary code without a one, a cathode ray tube without an electron gun.”
 - Swearing — 5 moment(s)
-  - [Moderate] Raj: “It will be. I don’t call anyone a ho, and the only time I use the phrase my bitch, I’m referring to you.”
-  - [Moderate] Howard: “A candle without a wick, a Watson without a Crick, I’d be one of my outfits without a dick-ie.”
+  - [Caution] Raj: “It will be. I don’t call anyone a ho, and the only time I use the phrase my bitch, I’m referring to you.”
+  - [Caution] Howard: “A candle without a wick, a Watson without a Crick, I’d be one of my outfits without a dick-ie.”
   - [Mild] Leonard: “Holy crap, Sheldon, did you just figure out a method for synthesizing a new stable super-heavy element?”
   - [Mild] Penny: “Damn it, everyone’s better at this than me.”
   - [Mild] Penny: “I discovered a secret ingredient. The flavour packet. That sucker is well named. All right, lover boy, get ready, ’cause there is a crap storm of romance coming your way.”
@@ -2280,7 +2280,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon feels slighted when Professor Proton seeks advice from Leonard instead of him, and he seeks revenge by befriending a rival science TV host, Bill Nye. Meanwhile, Raj gets jealous when Howard crashes "girls' night".
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Amy: “They’re gonna have sex before Sheldon and I do, I know it.”
+  - [Caution] Amy: “They’re gonna have sex before Sheldon and I do, I know it.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Raj: “You think they came up with that? They were going to drink beer and play darts.”
 
@@ -2290,14 +2290,14 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Leonard tries to keep Sheldon from overreacting when a past mistake comes to light, but Sheldon punishes Leonard by making him walk a mile in his shoes. Meanwhile, Penny confronts Raj's ex-girlfriend, Lucy.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Howard: “…has so little self-respect and is so desperate for the smallest crumb of affection, she could literally sleep with his own father in his own bed and post the video to YouTube, and he’d still buy her flowers and ask her…”
+  - [Caution] Howard: “…has so little self-respect and is so desperate for the smallest crumb of affection, she could literally sleep with his own father in his own bed and post the video to YouTube, and he’d still buy her flowers and ask her…”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Sheldon: “How those nipples feeling, chief?”
+  - [Too much] Sheldon: “How those nipples feeling, chief?”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Leonard: “And I am happy to report that he died peacefully in his sleep, drunk at the bottom of a pool.”
 - Racism & slurs — 2 moment(s)
-  - [Explicit] Bernadette: “I think that reason’s called racism.”
-  - [Explicit] Penny: “I’m not gonna say anything. I just want to check her out. Because she hurt my friend. My Indian friend. Who’s racist now?”
+  - [Too much] Bernadette: “I think that reason’s called racism.”
+  - [Too much] Penny: “I’m not gonna say anything. I just want to check her out. Because she hurt my friend. My Indian friend. Who’s racist now?”
 
 ## S7 E9 — The Thanksgiving Decoupling
 URL: https://watchwiththekids.com/ep/big-bang-theory/0709.html
@@ -2305,11 +2305,11 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Sheldon protests when the gang drags him to Mrs. Wolowitz's house for Thanksgiving. Meanwhile, Penny and Leonard must deal with a mistake from her past.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Howard: “Sounds like Zack’s the victim. You’re sleeping with his wife.”
+  - [Caution] Howard: “Sounds like Zack’s the victim. You’re sleeping with his wife.”
   - [Mild] Howard: “He doesn’t want me in there. I’m the creepy little guy who has sex with his daughter.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Penny: “Which was surprising, since we were at a strip club.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Penny: “Which was surprising, since we were at a strip club.”
 - Alcohol & drugs — 5 moment(s)
   - [Mild] Leonard: “Were you drunk?”
   - [Mild] Bernadette: “Oh, you brought beer for everybody.”
@@ -2317,7 +2317,7 @@ Watch for:
   - [Mild] Sheldon: “Now, how’s about you get us a couple of beers?”
   - [Mild] Mike: “Well, I’m drunk.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Howard: “You know, my mom’s been to Arizona. She rode one of those mules down in the Grand Canyon. Long story short, they had to shoot it. ‘Cause she’s so fat. I’ll get the door while you finish laughing. Hey, guys.”
+  - [Caution] Howard: “You know, my mom’s been to Arizona. She rode one of those mules down in the Grand Canyon. Long story short, they had to shoot it. ‘Cause she’s so fat. I’ll get the door while you finish laughing. Hey, guys.”
 
 ## S7 E10 — The Discovery Dissipation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0710.html
@@ -2336,15 +2336,15 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: While Sheldon is away in Texas, everyone gathers to decorate the apartment Christmas tree, and they each realize how much he has changed their lives.
 Watch for:
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Sheldon: “Well, I never told you about my brother’s kidney stone. You want to hear about everything that comes out of my family’s genitals?”
-  - [Explicit] Howard: “I’m gonna squirt chocolate milk out of my nipples. Sorry, I thought we’re saying things that are never gonna happen.”
-  - [Explicit] Howard: “And chocolate milk is gonna squirt out of my nipples.”
+  - [Too much] Sheldon: “Well, I never told you about my brother’s kidney stone. You want to hear about everything that comes out of my family’s genitals?”
+  - [Too much] Howard: “I’m gonna squirt chocolate milk out of my nipples. Sorry, I thought we’re saying things that are never gonna happen.”
+  - [Too much] Howard: “And chocolate milk is gonna squirt out of my nipples.”
   - [Mild] Raj: “Yeah, you didn’t have to buy groceries ’cause you were breast-feeding.”
   - [Mild] Raj: “You’d have no girlfriend to see you naked, you’d try to fill the void with food, and I’m an enabler who once deep-fried a pancake.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mrs Cooper (off): Shelly, come on. Your sister’s fully dilated and she wants a nice family picture before there’s blood everywhere.
+  - [Caution] Mrs Cooper (off): Shelly, come on. Your sister’s fully dilated and she wants a nice family picture before there’s blood everywhere.
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Amy: “It’s great. It’s Christmastime and Jimmy Stewart’s really depressed and he’s gonna jump off a bridge and kill himself.”
+  - [Too much] Amy: “It’s great. It’s Christmastime and Jimmy Stewart’s really depressed and he’s gonna jump off a bridge and kill himself.”
 
 ## S7 E12 — The Hesitation Ramification
 URL: https://watchwiththekids.com/ep/big-bang-theory/0712.html
@@ -2352,11 +2352,11 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Penny's big acting break on NCIS is a bust, Leonard struggles to help her, which results in Penny asking Leonard a bold relationship question. Meanwhile, Sheldon tries to learn how to be funny and Raj tries to work on his "game" before talking to girls.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Explicit] Howard: “Please, I’ve made plenty of girls laugh, sometimes just by asking them out. (Bernadette laughs uncontrollably) Yeah? Well, I fake my orgasms.”
+  - [Too much] Howard: “Please, I’ve made plenty of girls laugh, sometimes just by asking them out. (Bernadette laughs uncontrollably) Yeah? Well, I fake my orgasms.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Leonard: “Look, you know I love you but, but you’re, you’re drunk and sad and feeling lost.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Sheldon: “For example, uh, Wolowitz’s mother is so fat that she decided to go on a diet, or exercise, or both.”
+  - [Caution] Sheldon: “For example, uh, Wolowitz’s mother is so fat that she decided to go on a diet, or exercise, or both.”
 
 ## S7 E13 — The Occupation Recalibration
 URL: https://watchwiththekids.com/ep/big-bang-theory/0713.html
@@ -2364,7 +2364,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon tries to relax after he is forced to take a vacation. Meanwhile, Leonard struggles to be supportive of Penny after she quits her job, and Bernadette seeks Stuart's help in replacing one of Howard's comic books.
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Sheldon: “I’ve read that there are great yogis who have such mastery over their bodies they can draw water in through their genitals.”
+  - [Too much] Sheldon: “I’ve read that there are great yogis who have such mastery over their bodies they can draw water in through their genitals.”
 
 ## S7 E14 — The Convention Conundrum
 URL: https://watchwiththekids.com/ep/big-bang-theory/0714.html
@@ -2374,8 +2374,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Penny: “Okay, sex is not what makes you a grown-up.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] James: “What were you trying to ask me at the strip club?”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] James: “What were you trying to ask me at the strip club?”
 - Violence & injury — 1 moment(s)
   - [Mild] Raj: “Maybe slapped with a fine.”
 - Alcohol & drugs — 1 moment(s)
@@ -2387,8 +2387,8 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Love is in the air when Sheldon and Amy join Howard and Bernadette for a trip to wine country. Meanwhile, Leonard and Penny must rush Raj's dog to the vet.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Raj: “Thank you. Oh, and I’d like for at least one of us to see some action, so if you guys happen to have sex, it’s cool if she stays in the room.”
-  - [Moderate] Vet: “It’s okay. I sleep with my dog, too. We’re not supposed to let people in back, but I think I can make an exception.”
+  - [Caution] Raj: “Thank you. Oh, and I’d like for at least one of us to see some action, so if you guys happen to have sex, it’s cool if she stays in the room.”
+  - [Caution] Vet: “It’s okay. I sleep with my dog, too. We’re not supposed to let people in back, but I think I can make an exception.”
   - [Mild] Penny: “That is the least sexy thing anyone’s ever said to me.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leonard: “Ooh, flowers and chocolates? Somebody’s trying to get me out of my panties.”
@@ -2409,9 +2409,9 @@ Watch for:
   - [Mild] Howard: “Seriously, I was talking to Bernadette last night and she made some great points. You and I have known each other a long time, and I didn’t hear the rest ’cause she took her bra off.”
   - [Mild] Howard: “How do I know what you said? Damn you and your noise-cancelling breasts.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Penny: “Okay, well, there are no shower scenes in this one. They just try to clone me from my corpse, but my DNA gets mixed with the ape’s DNA and I end up running around with giant gorilla hands and feet.”
+  - [Too much] Penny: “Okay, well, there are no shower scenes in this one. They just try to clone me from my corpse, but my DNA gets mixed with the ape’s DNA and I end up running around with giant gorilla hands and feet.”
 - Swearing — 2 moment(s)
-  - [Moderate] Penny: “Yeah. Why wouldn’t I want to get my old job back? It’ll be fun to see everyone. I haven’t talked to them since I said I quit, see you at the Oscars, bitches. Come on, let’s just get this over with.”
+  - [Caution] Penny: “Yeah. Why wouldn’t I want to get my old job back? It’ll be fun to see everyone. I haven’t talked to them since I said I quit, see you at the Oscars, bitches. Come on, let’s just get this over with.”
   - [Mild] Penny: “Because it was crap. It’s a sequel to that awful killer gorilla movie I was in.”
 
 ## S7 E18 — The Mommy Observation
@@ -2424,16 +2424,16 @@ Watch for:
   - [Mild] Sheldon: “And of those few months, how long have you been a demented sex pervert?”
   - [Mild] Raj: “I’m not pouting, I’m brooding. Which is how sexy men pout.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Sheldon: “I beg to differ. I used to live in those genitals. And if someone wants to move into my old room, I should at least get a vote.”
+  - [Too much] Sheldon: “I beg to differ. I used to live in those genitals. And if someone wants to move into my old room, I should at least get a vote.”
   - [Mild] Sheldon: “I saw my mommy with a naked man and she was trying to be a mommy again.”
   - [Mild] Sheldon: “I saw you having naked sex.”
 - Violence & injury — 6 moment(s)
-  - [Explicit] Raj: “He’s been murdered by someone in this room.”
-  - [Explicit] Raj: “Welcome to another classic Koothrappali murder mystery dinner.”
-  - [Explicit] Raj: “You can’t leave. You’re a suspect in the mysterious murder of Stuart Bloom.”
-  - [Explicit] Raj: “Great, everyone’s a Byomkesh Bakshi. Now, here are some secret facts about each of you, including whether you are the murderer. Throughout the game, feel free to ask each other questions to uncover clues.”
-  - [Explicit] Penny: “Got it. Hey, who’s the murderer?”
-  - [Explicit] Penny: “Aw, Stuart. Now I feel bad for murdering you.”
+  - [Too much] Raj: “He’s been murdered by someone in this room.”
+  - [Too much] Raj: “Welcome to another classic Koothrappali murder mystery dinner.”
+  - [Too much] Raj: “You can’t leave. You’re a suspect in the mysterious murder of Stuart Bloom.”
+  - [Too much] Raj: “Great, everyone’s a Byomkesh Bakshi. Now, here are some secret facts about each of you, including whether you are the murderer. Throughout the game, feel free to ask each other questions to uncover clues.”
+  - [Too much] Penny: “Got it. Hey, who’s the murderer?”
+  - [Too much] Penny: “Aw, Stuart. Now I feel bad for murdering you.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Penny: “Ooh, I’m gonna check the fridge, and see if there are any clues inside a beer.”
   - [Mild] Sheldon: “I’m not nearly drunk enough. Okay. Do you have any idea what it’s like to see your mother ravaging someone?”
@@ -2445,7 +2445,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: While Raj is wracked with guilt when he tries to date two women at once, Penny wrestles with whether to take a role in a cheesy movie and Sheldon is torn trying to choose between two gaming systems.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Penny: “Unless you’re sleeping with one of them, seeing other people isn’t a big deal.”
+  - [Caution] Penny: “Unless you’re sleeping with one of them, seeing other people isn’t a big deal.”
   - [Mild] Raj: “Well, to be honest, we only went on four dates, hugged twice, kissed once, and there was a handshake loaded with sexual innuendo.”
 
 ## S7 E20 — The Relationship Diremption
@@ -2457,7 +2457,7 @@ Watch for:
   - [Mild] Howard: “Only without the sex.”
   - [Mild] Amy: “Yeah, it’s cute. That’s the problem. I don’t need other girls to see him walking around like sex on a stick.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Sheldon: “Oh, please. If I wanted to take up a fad, I’d get a tramp stamp.”
+  - [Caution] Sheldon: “Oh, please. If I wanted to take up a fad, I’d get a tramp stamp.”
 
 ## S7 E21 — The Anything Can Happen Recurrence
 URL: https://watchwiththekids.com/ep/big-bang-theory/0721.html
@@ -2471,8 +2471,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Penny: “But I realize they’re gluing fur everywhere except my cleavage. So, I asked the director why and he says, it’s important to the story that my boobs be the last things to turn ape.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Raj: “Hey. Listen to this. Murder, cannibalism and satanic rituals are just a few of the thousand plus horrors that await.”
-  - [Moderate] Howard: “A straight-up gore-fest? You hate this stuff.”
+  - [Too much] Raj: “Hey. Listen to this. Murder, cannibalism and satanic rituals are just a few of the thousand plus horrors that await.”
+  - [Caution] Howard: “A straight-up gore-fest? You hate this stuff.”
 
 ## S7 E22 — The Proton Transmogrification
 URL: https://watchwiththekids.com/ep/big-bang-theory/0722.html
@@ -2482,10 +2482,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Sheldon: “If we were in a physical relationship, you just lost sex tonight.”
 - Swearing — 1 moment(s)
-  - [Moderate] Bernadette: “Son of a bitch.”
+  - [Caution] Bernadette: “Son of a bitch.”
 - Sexual insults — 2 moment(s)
-  - [Moderate] Amy: “My mom made it up as an alternative to the Girl Scouts. She didn’t want me selling cookies on some street corner like a whore.”
-  - [Moderate] Amy: “Oh, I went to the library and took out a book on biology to see what whores did.”
+  - [Caution] Amy: “My mom made it up as an alternative to the Girl Scouts. She didn’t want me selling cookies on some street corner like a whore.”
+  - [Caution] Amy: “Oh, I went to the library and took out a book on biology to see what whores did.”
 
 ## S7 E23 — The Gorilla Dissolution
 URL: https://watchwiththekids.com/ep/big-bang-theory/0723.html
@@ -2493,15 +2493,15 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Bad day causes Penny to reevaluate her life choices - including Leonard. Meanwhile, Howard and Bernadette struggle to care for Mrs. Wolowitz, and Raj gets relationship advice from Sheldon.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Explicit] Raj: “Eleven. Wait. Do I count the 200-pound Sailor Moon girl that Howard and I had a threesome with at Comic Con?”
-  - [Moderate] Sheldon: “Well, until they invent nose condoms, I’m not finding out.”
-  - [Moderate] Raj: “But you don’t have sex with her, either.”
+  - [Too much] Raj: “Eleven. Wait. Do I count the 200-pound Sailor Moon girl that Howard and I had a threesome with at Comic Con?”
+  - [Caution] Sheldon: “Well, until they invent nose condoms, I’m not finding out.”
+  - [Caution] Raj: “But you don’t have sex with her, either.”
   - [Mild] Sheldon: “Ah, very good. Because a gorilla go-go dancer of any sexual preference would be out of place in a film about the Holocaust.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Penny: “Life? What life? Look at me, I’m a monster. And now I have blood on my hands, or paws. I don’t know.”
-  - [Moderate] Sheldon: “Well, stick to your guns. There will be a lot of pressure.”
+  - [Caution] Penny: “Life? What life? Look at me, I’m a monster. And now I have blood on my hands, or paws. I don’t know.”
+  - [Caution] Sheldon: “Well, stick to your guns. There will be a lot of pressure.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Wil: “Penny, it’s not about being famous. It’s about the art. It’s about the passion we have for our craft. (Text message tone) I have an audition for Sharknado 2. If I book this, I am totally gonna pay you back for this beer.”
 
@@ -2511,12 +2511,12 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Sheldon is forced to confront an uncertain future and considers a major move. Meanwhile, Raj and Emily take it to the next level, and Mrs. Wolowitz's injury is a major headache for Howard and Bernadette.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Howard: “Because you had sex the other night?”
-  - [Moderate] Raj: “When I’m feeling low, I have sex with a girl. But that’s just me.”
-  - [Moderate] Sheldon: “Of course. She’s spent many nights here, and you’re worried about preserving the myth of her virginity before the wedding.”
+  - [Caution] Howard: “Because you had sex the other night?”
+  - [Caution] Raj: “When I’m feeling low, I have sex with a girl. But that’s just me.”
+  - [Caution] Sheldon: “Of course. She’s spent many nights here, and you’re worried about preserving the myth of her virginity before the wedding.”
   - [Mild] Raj: “And I thought me having sex with Emily was gonna be the big news.”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Sheldon: “Move across the hall? Did you take a marijuana?”
+  - [Caution] Sheldon: “Move across the hall? Did you take a marijuana?”
   - [Mild] Penny: “You want some wine?”
 
 ## S8 E1 — The Locomotion Interruption
@@ -2530,9 +2530,9 @@ Watch for:
   - [Mild] Sheldon: “Yeah, well, I understand that I’m half naked, but there is a reasonable explanation.”
   - [Mild] Howard: “Ma, I hope you’re decent. Raj is here. You just started seeing naked women again, and I don’t want you to be confused about where the boobs should be.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon (whispers): Shotgun.
+  - [Caution] Sheldon (whispers): Shotgun.
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Sheldon: “You know, Sherlock Holmes liked to use cocaine to sharpen his focus. But I’m sure those Cool Ranch Doritos are doing the trick.”
+  - [Too much] Sheldon: “You know, Sherlock Holmes liked to use cocaine to sharpen his focus. But I’m sure those Cool Ranch Doritos are doing the trick.”
 
 ## S8 E2 — The Junior Professor Solution
 URL: https://watchwiththekids.com/ep/big-bang-theory/0802.html
@@ -2540,11 +2540,11 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon is ordered to teach a class, and the gang is surprised when Howard signs up to take it; and tensions between Penny and Bernadette afford Amy an opportunity to play one against the other.
 Watch for:
 - Swearing — 1 moment(s)
-  - [Moderate] Amy: “Okay, good luck. And call me later, you know, if you decide she’s a bitch or something. Hey, girlfriend.”
+  - [Caution] Amy: “Okay, good luck. And call me later, you know, if you decide she’s a bitch or something. Hey, girlfriend.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Amy: “Tonight. You, me, Color Me Mine. Maybe we sneak in some Pinot, make it Color Me Wine.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Amy: “I’m saying, in the spirit of science, what is that little skank’s problem?”
+  - [Caution] Amy: “I’m saying, in the spirit of science, what is that little skank’s problem?”
 
 ## S8 E3 — The First Pitch Insufficiency
 URL: https://watchwiththekids.com/ep/big-bang-theory/0803.html
@@ -2554,7 +2554,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Amy: “It’s a good thing I’m not wearing flag underwear right now, ’cause there’s about to be a fire.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Sheldon: “And it may not be cool to say so, but I think that love affair is still pretty hot today.”
+  - [Caution] Sheldon: “And it may not be cool to say so, but I think that love affair is still pretty hot today.”
 
 ## S8 E6 — The Expedition Approximation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0806.html
@@ -2584,9 +2584,9 @@ Watch for:
   - [Mild] Bermadette: “Speaking of underwear, I have some interesting news.”
   - [Mild] Amy: “Well, I’m really sorry, but I think it’s for the best. You want people focusing on your achievements, not staring at your breasts in some magazine.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Howard: “Oh, I think I just cheated on my wife.”
+  - [Caution] Howard: “Oh, I think I just cheated on my wife.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Raj: “The gun from Hellboy?”
+  - [Caution] Raj: “The gun from Hellboy?”
 
 ## S8 E8 — The Prom Equivalency
 URL: https://watchwiththekids.com/ep/big-bang-theory/0808.html
@@ -2594,20 +2594,20 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When the gang recreates a high school prom on the roof the of the guys' apartment building, Sheldon feels pressure to participate in all the typical romantic traditions.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Explicit] Leonard: “Oh, it’s all right. We ended up having a threesome with her friend humiliation, so…”
-  - [Moderate] Leonard: “You know, ’cause, ’cause a lot of people lose their virginity on prom night.”
-  - [Moderate] Raj: “That’s Howard’s cousin that he had sex with.”
+  - [Too much] Leonard: “Oh, it’s all right. We ended up having a threesome with her friend humiliation, so…”
+  - [Caution] Leonard: “You know, ’cause, ’cause a lot of people lose their virginity on prom night.”
+  - [Caution] Raj: “That’s Howard’s cousin that he had sex with.”
   - [Mild] Leonard: “And while you’re at it, I know that at this age your hormones are raging, but just because all your friends are having sex doesn’t mean you have to.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Leonard: “Oh, it’s a scaly genital organ that grows between his shoulder blades. Try not to touch it when you’re dancing.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Leonard: “Oh, it’s a scaly genital organ that grows between his shoulder blades. Try not to touch it when you’re dancing.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Howard: “Oh, so now you’re cheating on my mother?”
+  - [Caution] Howard: “Oh, so now you’re cheating on my mother?”
 - Violence & injury — 2 moment(s)
   - [Mild] Sheldon: “Instead of spiked punch, I enjoyed the intoxicating flavour of knowledge.”
   - [Mild] Sheldon: “Yes. I’ve decided to embrace all of the traditions associated with prom, including spiking the punch.”
 - Swearing — 2 moment(s)
-  - [Moderate] Penny: “Well, now I can’t blow this thing off without being a bitch.”
+  - [Caution] Penny: “Well, now I can’t blow this thing off without being a bitch.”
   - [Mild] Howard: “Stuart, we have to talk. This thing with you and my mom, I hate it. It’s making me crazy. You and I were friends for years, and now you’re bringing my mother to a party I’m going to? What the hell?”
 
 ## S8 E9 — The Septum Deviation
@@ -2616,7 +2616,7 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: When Leonard gets minor surgery on his nose, Sheldon is the one in need of sympathy. Meanwhile, Raj's parents' impending divorce causes Howard and Bernadette to work on their own marriage.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “Oh, you’re hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose. The minute you sneeze web, I’m moving out.”
+  - [Caution] Sheldon: “Oh, you’re hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose. The minute you sneeze web, I’m moving out.”
 
 ## S8 E10 — The Champagne Reflection
 URL: https://watchwiththekids.com/ep/big-bang-theory/0810.html
@@ -2629,8 +2629,8 @@ Watch for:
   - [Mild] Leonard: “Well, but what if this was a potential breakthrough for him? What if, what if this is the thing that would’ve finally let him open that bottle of champagne?”
   - [Mild] Raj: “Maybe he didn’t know what to pair champagne with. Strawberries, caviar, oysters. All good choices. Yeah, that look right there is why people eat before they come to your parties.”
 - Racism & slurs — 2 moment(s)
-  - [Explicit] Sheldon: “In honour of Black History Month, I portrayed George Washington Carver in a loving tribute that my roommate called wildly racist.”
-  - [Explicit] Sheldon: “You heard him, Leonard. No, it’s not racist.”
+  - [Too much] Sheldon: “In honour of Black History Month, I portrayed George Washington Carver in a loving tribute that my roommate called wildly racist.”
+  - [Too much] Sheldon: “You heard him, Leonard. No, it’s not racist.”
 
 ## S8 E11 — The Clean Room Infiltration
 URL: https://watchwiththekids.com/ep/big-bang-theory/0811.html
@@ -2642,7 +2642,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Howard: “Again, it looked like my car, and the baby didn’t even cry until his mother punched me with her keys.”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Leonard: “Sure. If the pigeon’s stoned or a trucker.”
+  - [Caution] Leonard: “Sure. If the pigeon’s stoned or a trucker.”
   - [Mild] Sheldon: “Because in the last ten minutes, Santa came to town, kissed Mommy and ran Grandma over with a reindeer. I had a drunk uncle who did all those things. Nobody sings songs about him.”
 
 ## S8 E12 — The Space Probe Disintegration
@@ -2653,14 +2653,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Sheldon: “That’s easy for you to say. Your chair’s not facing the lingerie section. Boy, that’s a lot of panties.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] Raj: “Okay. If I make this shot in the trash can, the probe will have arrived in perfect working order.”
-  - [Moderate] Raj: “Dude, that movie’s an imperialist fantasy that makes the followers of a beautiful and peaceful religion look like a bunch of bloodthirsty barbarians.”
+  - [Too much] Raj: “Okay. If I make this shot in the trash can, the probe will have arrived in perfect working order.”
+  - [Caution] Raj: “Dude, that movie’s an imperialist fantasy that makes the followers of a beautiful and peaceful religion look like a bunch of bloodthirsty barbarians.”
   - [Mild] Penny: “You walked out of the house in a fez and bow tie. I went so you didn’t get beat up.”
   - [Mild] Leonard: “I wasn’t gonna get beat up.”
 - Swearing — 1 moment(s)
-  - [Moderate] Raj: “Whether you call it God or the universe or the self, we’re all interconnected, and that’s just a beautiful… Son of a bitch, that guy just dinged my car.”
+  - [Caution] Raj: “Whether you call it God or the universe or the self, we’re all interconnected, and that’s just a beautiful… Son of a bitch, that guy just dinged my car.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Penny: “Uh, not really a great outfit for work, unless something opens up in the hookers and whores division. Hey, can I ask you something?”
+  - [Caution] Penny: “Uh, not really a great outfit for work, unless something opens up in the hookers and whores division. Hey, can I ask you something?”
 
 ## S8 E14 — The Troll Manifestation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0814.html
@@ -2668,7 +2668,7 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After Leonard and Sheldon co-publish a physics paper, they must defend themselves against criticism from an online bully. Also, girls' night finds Penny, Amy and Bernadette confronting embarrassing moments from their past.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sheldon: “You mess with the bull, you get the horns. I’m about to show this guy just how horny I can be.”
+  - [Caution] Sheldon: “You mess with the bull, you get the horns. I’m about to show this guy just how horny I can be.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Cooper: “They’re not undergarments. They’re Underoos. Where I come from, they’re known as underwear that’s fun to wear.”
 - Violence & injury — 1 moment(s)
@@ -2682,7 +2682,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Sheldon: “I can’t. I’m naked.”
 - Swearing — 1 moment(s)
-  - [Moderate] Penny: “Son of a bitch.”
+  - [Caution] Penny: “Son of a bitch.”
 
 ## S8 E16 — The Intimacy Acceleration
 URL: https://watchwiththekids.com/ep/big-bang-theory/0816.html
@@ -2699,7 +2699,7 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Trouble arises when Amy learns Sheldon has applied for a one-way mission to colonize Mars. Also, a trip to the pet store ends in a fight for Sheldon and Amy, Leonard surprises Penny with a very "adult" purchase, and, Raj is caught snooping in Emily's apartment.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Raj: “But remember our agreement? You can joke about murdering people, but you have to say just kidding.”
+  - [Too much] Raj: “But remember our agreement? You can joke about murdering people, but you have to say just kidding.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Penny: “This is why I’ve been saying we should keep champagne on ice.”
   - [Mild] Howard: “Does she have any pillows or wine glasses?”
@@ -2710,9 +2710,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Friction ensues when a magazine fails to mention Leonard in an article about the paper he co-wrote with Sheldon. Also, a blackout at Mrs. Wolowitz's home leads to a final family dinner in her honor.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Raj: “It may not be Crips and Bloods, okay?”
+  - [Caution] Raj: “It may not be Crips and Bloods, okay?”
 - Swearing — 1 moment(s)
-  - [Moderate] Penny: “Guys, if I wanted to hear people be bitchy, I’d go to my real salon.”
+  - [Caution] Penny: “Guys, if I wanted to hear people be bitchy, I’d go to my real salon.”
 
 ## S8 E19 — The Skywalker Incursion
 URL: https://watchwiththekids.com/ep/big-bang-theory/0819.html
@@ -2725,9 +2725,9 @@ Watch for:
   - [Mild] Howard: “Yes, but I mostly used it as a battlefield in an ongoing war between the Transformers and the ThunderCats for control of a bra I had found in the woods.”
   - [Mild] Amy: “If you still have that bra, I’ll give you a nickel for it.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Sheldon: “All right, my plan is predicated on the assumption that they have a nurse’s office and your willingness to be lightly stabbed.”
+  - [Too much] Sheldon: “All right, my plan is predicated on the assumption that they have a nurse’s office and your willingness to be lightly stabbed.”
 - Swearing — 1 moment(s)
-  - [Moderate] Raj: “Okay, uh, I’m gonna own you, bitch.”
+  - [Caution] Raj: “Okay, uh, I’m gonna own you, bitch.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “If it’s half as much fun as One Times Ten to the Fourth Bottles of Beer on the Wall, I’m in.”
   - [Mild] Penny: “Oh, I meant beer pong.”
@@ -2738,7 +2738,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Sheldon and Amy build a blanket fort, they come to major crossroads in their relationship. Also, Wolowitz meets the half-brother he never knew he had, and when Penny is invited to appear on Wil Wheaton's podcast, she and Leonard have a huge, on-air argument.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Josh: “You had sex with a robot?”
+  - [Caution] Josh: “You had sex with a robot?”
   - [Mild] Josh: “So, I have to ask, was the robot sexy?”
 
 ## S8 E21 — The Communication Deterioration
@@ -2774,9 +2774,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Dr Hofstadter: “Seems odd to try and impress your mother with your sexual prowess. But then, you always did have that unresolved Oedipal complex.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Amy: “Sure, his mom gets roses. When I want them, they’re a bouquet of severed plant genitals.”
+  - [Too much] Amy: “Sure, his mom gets roses. When I want them, they’re a bouquet of severed plant genitals.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Mrs Cooper: “Doesn’t matter, a good Christian would’ve turned the other cheek. On the other hand, a good Texan would’ve shot her, so, I just kind of split the difference. Hey, who’s in the mood for spaghetti and hot dogs?”
+  - [Too much] Mrs Cooper: “Doesn’t matter, a good Christian would’ve turned the other cheek. On the other hand, a good Texan would’ve shot her, so, I just kind of split the difference. Hey, who’s in the mood for spaghetti and hot dogs?”
 
 ## S8 E24 — The Commitment Determination
 URL: https://watchwiththekids.com/ep/big-bang-theory/0824.html
@@ -2784,8 +2784,8 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: In the Season 8 finale, Leonard and Penny are pressured to set a wedding date by Sheldon, whose relationship with Amy has taken an interesting turn.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Raj: “No, because she wants to have sex with me in a graveyard.”
-  - [Moderate] Sheldon: “That’s right. It’s called foreplay. And I could make the case that you two aren’t moving forward in your relationship.”
+  - [Caution] Raj: “No, because she wants to have sex with me in a graveyard.”
+  - [Caution] Sheldon: “That’s right. It’s called foreplay. And I could make the case that you two aren’t moving forward in your relationship.”
   - [Mild] Howard: “Right. You’re gonna break up with a girl who has sex with you. Can you believe this guy?”
 
 ## S9 E1 — The Matrimonial Momentum
@@ -2794,18 +2794,18 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After driving to Vegas to get married, Penny struggles with Leonard's confession that he kissed another girl. Also, Sheldon doesn't know how to act after Amy pushes pause on their relationship.
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Sheldon: “You know what? She was kind of an honorary man. She had a penis made of science.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Sheldon: “You know what? She was kind of an honorary man. She had a penis made of science.”
   - [Mild] Leonard: “No, of course not. Okay, look, instead of fighting, why don’t we dim the lights, um, get naked and make a baby? I was trying to lighten the mood. It’s not easy. You try it.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Leonard: “Hey, if you’re hungry, there’s a breakfast buffet at the strip club next door.”
-  - [Explicit] Leonard: “I don’t think the strippers prepare the meal, but okay. Look, it’s not how I pictured it either, but I’m still glad we’re doing it.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Leonard: “Hey, if you’re hungry, there’s a breakfast buffet at the strip club next door.”
+  - [Too much] Leonard: “I don’t think the strippers prepare the meal, but okay. Look, it’s not how I pictured it either, but I’m still glad we’re doing it.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “Yeah. Okay, listen. If you’re imagining that it was sexy, it wasn’t. We, we were both drunk, and she smelled like an ashtray. The boat was moving a lot, so I chipped her tooth.”
   - [Mild] Sheldon: “And you know why? ‘Cause you’re a man. The champagne of genders.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Mrs Cooper: “Well, honey, don’t send it back yet. Your sister’s married, and I’m not letting your brother give my grandmother’s ring to that whore he’s dating.”
+  - [Caution] Mrs Cooper: “Well, honey, don’t send it back yet. Your sister’s married, and I’m not letting your brother give my grandmother’s ring to that whore he’s dating.”
 
 ## S9 E2 — The Separation Oscillation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0902.html
@@ -2813,7 +2813,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Leonard confronts the woman he kissed on the North Sea in an attempt to set Penny's mind at ease. Also, Sheldon films a special episode of "Fun with Flags" after his breakup with Amy, and Bernadette feels guilty about withholding a secret from Penny.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Mandy: “Oh, no, did I sleep with you, too?”
+  - [Caution] Mandy: “Oh, no, did I sleep with you, too?”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Amy: “Whose bra is this?”
   - [Mild] Sheldon: “Hey, you broke up with me. It is none of your business whose naked bosom I’m smooshing around like pizza dough.”
@@ -2827,7 +2827,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon learns of an impending change in his living arrangements and decides to revert back to 2003, a simpler time before he met Leonard and Penny. Also, Howard and Raj form a band to play at the Comic Book Store.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Howard: “Oh, please. Your brain belongs to whoever’s willing to sleep with you.”
+  - [Caution] Howard: “Oh, please. Your brain belongs to whoever’s willing to sleep with you.”
 
 ## S9 E5 — The Perspiration Implementation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0905.html
@@ -2839,8 +2839,8 @@ Watch for:
   - [Mild] Penny: “Well, he knew he was on the breast cam.”
   - [Mild] Penny: “All right, well, what happens if you imagine him naked?”
 - Violence & injury — 4 moment(s)
-  - [Explicit] Sheldon: “When can I stab one of my friends?”
-  - [Explicit] Barry: “In fencing, we don’t call it a stab. We call it a touch.”
+  - [Too much] Sheldon: “When can I stab one of my friends?”
+  - [Too much] Barry: “In fencing, we don’t call it a stab. We call it a touch.”
   - [Mild] Sheldon: “I’m looking forward to him teaching us glove-slapping.”
   - [Mild] Sheldon: “You know, when my honour is insulted, and I need to challenge someone to a duel by slapping them across the face with my glove.”
 - Alcohol & drugs — 2 moment(s)
@@ -2857,7 +2857,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Raj: “I have that same underwear.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Bernadette: “Doesn’t a teardrop tattoo mean he murdered someone?”
+  - [Too much] Bernadette: “Doesn’t a teardrop tattoo mean he murdered someone?”
   - [Mild] Leonard: “Listen, we can do the experiment as planned and beat the Swedish team to the punch, or we can kiss our dreams good-bye because we were to afraid to break a few rules.”
 
 ## S9 E7 — The Spock Resonance
@@ -2876,9 +2876,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Bernadette: “Yeah, it’s your third date, maybe you could go more sexy.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Sheldon: “She was late. And she found atomic spectroscopy boring. Well, I wouldn’t coitus her with your genitals.”
+  - [Too much] Sheldon: “She was late. And she found atomic spectroscopy boring. Well, I wouldn’t coitus her with your genitals.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Sheldon: “Off the top of my head? Uh, prospective women weed themselves out in a battle of wits until only one champion remains, and she shows up at my door flush with…”
+  - [Caution] Sheldon: “Off the top of my head? Uh, prospective women weed themselves out in a battle of wits until only one champion remains, and she shows up at my door flush with…”
 
 ## S9 E9 — The Platonic Permutation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0909.html
@@ -2886,12 +2886,12 @@ Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Amy try hanging out as friends when they spend Thanksgiving together at the aquarium. Also, Wolowitz reluctantly agrees to volunteer at the soup kitchen with Bernadette, Raj and Emily, and Penny discovers that Leonard knows more about her than she thought.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sheldon: “How many dates have you been on? Who were they with? Where’d you go? Where did you meet them? Did you sleep with them? And how much longer to the aquarium? I’m getting kind of hungry.”
+  - [Caution] Sheldon: “How many dates have you been on? Who were they with? Where’d you go? Where did you meet them? Did you sleep with them? And how much longer to the aquarium? I’m getting kind of hungry.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Howard: “So now anyone can control your phone? Hey, Siri, show me pictures of naked grandma butts.”
   - [Mild] Howard: “Oh. Cool. (In thick Indian accent) Hey, Siri, show me pictures of naked grandma butts.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “I don’t know if I’d call it discussing. You kind of sat back and let me do all the work. Let’s see, what’s next on the list. Oh, uh, do you whittle, and if so, what kind of knife do you use.”
+  - [Caution] Sheldon: “I don’t know if I’d call it discussing. You kind of sat back and let me do all the work. Let’s see, what’s next on the list. Oh, uh, do you whittle, and if so, what kind of knife do you use.”
 
 ## S9 E10 — The Earworm Reverberation
 URL: https://watchwiththekids.com/ep/big-bang-theory/0910.html
@@ -2902,8 +2902,8 @@ Watch for:
   - [Mild] Raj: “Dude, if I was wearing a bra, I’d throw it at your head right now.”
   - [Mild] Raj: “He is so cool. Hey, no hard feelings, but I’m throwing my hypothetical bra at him.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Raj: “Oh. Did you know, at the United Nations, there’s a Department for Outer Space Affairs?”
-  - [Moderate] Dave: “Not at first, no. But when she began cheating on me with a French chef, she became quite the wiz in the kitchen.”
+  - [Caution] Raj: “Oh. Did you know, at the United Nations, there’s a Department for Outer Space Affairs?”
+  - [Caution] Dave: “Not at first, no. But when she began cheating on me with a French chef, she became quite the wiz in the kitchen.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Raj: “Yeah. He’s 24. He’s a deejay. He brews his own beer. He’s got awesome tattoos. Dude, he’s got a hot girlfriend, too.”
 
@@ -2913,10 +2913,10 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Penny gets more than she bargained for when Leonard agrees to meet with a psychiatrist on her behalf. Also, Sheldon and Koothrappali collaborate on an astronomical discovery, and Wolowitz and Bernadette can't believe what they are feeling after Stuart moves out.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Penny: “How can I not sound like his mother when our entire bedroom is filled with Star Wars toys? I mean, have you ever had sex with a stuffed Wookiee watching you?”
+  - [Caution] Penny: “How can I not sound like his mother when our entire bedroom is filled with Star Wars toys? I mean, have you ever had sex with a stuffed Wookiee watching you?”
   - [Mild] Sheldon: “Sexual insecurity.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Howard: “I know. It’s not like he returns the favour when he watches his Japanese porn cartoons.”
+  - [Too much] Howard: “I know. It’s not like he returns the favour when he watches his Japanese porn cartoons.”
 
 ## S9 E15 — The Valentino Submergence
 URL: https://watchwiththekids.com/ep/big-bang-theory/0915.html
@@ -2924,20 +2924,20 @@ Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Amy host a live Valentine's Day episode of Fun with Flags, Leonard and Penny grapple with getting older, Howard and Bernadette find a surprise in their hot tub and Raj is torn between Emily and the cute girl he met at the Comic Bookstore.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Penny: “I’m still sleeping with you tonight.”
-  - [Moderate] Barry: “I have a fwag question. How many men did you have sex with?”
+  - [Caution] Penny: “I’m still sleeping with you tonight.”
+  - [Caution] Barry: “I have a fwag question. How many men did you have sex with?”
   - [Mild] Raj: “You mean the strong, sexy angel I can’t stop thinking about? Who can say?”
   - [Mild] Penny: “Now, is that a smart thing to say on a holiday that’s basically national sex night?”
   - [Mild] Sheldon: “I suppose that could be a legitimate concern in a relationship. Uh, perhaps even a, a red flag. And speaking of red flags, check out this sexy number from the former Soviet Union. Hubba, hubba.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Howard: “To make sure it’s not dehydrated, feed him an electrolyte solution. If it’s not responding, use a warm cloth to wash its face and genitals. Yeah.”
+  - [Too much] Howard: “To make sure it’s not dehydrated, feed him an electrolyte solution. If it’s not responding, use a warm cloth to wash its face and genitals. Yeah.”
   - [Mild] Penny: “Yeah. No one wants to see that. Hey, how about skinny dipping at the beach?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Sheldon: “You’re welcome to join us as we celebrate the timeless love affair between wind and flapping fabric.”
+  - [Caution] Sheldon: “You’re welcome to join us as we celebrate the timeless love affair between wind and flapping fabric.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Sheldon: “Speaking of ending relationships, when British Honduras became Belize, they designed a new flag with a tree on it, and I would like to hang myself from that tree.”
+  - [Too much] Sheldon: “Speaking of ending relationships, when British Honduras became Belize, they designed a new flag with a tree on it, and I would like to hang myself from that tree.”
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “Nice. A classic rabbit name. Peter Rabbit, Roger Rabbit. Valentino Wolowitz Rabbit. Oh, look at all that chest hair and overbite. Of course you’re a Wolowitz. Son of a bitch, he bit me.”
+  - [Caution] Howard: “Nice. A classic rabbit name. Peter Rabbit, Roger Rabbit. Valentino Wolowitz Rabbit. Oh, look at all that chest hair and overbite. Of course you’re a Wolowitz. Son of a bitch, he bit me.”
   - [Mild] Barry: “Thwee diffewent men? Damn, girl, way to give the milk away?”
 
 ## S9 E16 — The Positive Negative Reaction
@@ -2953,7 +2953,7 @@ Watch for:
   - [Mild] Sheldon: “Forget helium. The real superfluid is the fruit punch in this mug. Reminds me of my daddy’s secret don’t tell mama juice.”
   - [Mild] Sheldon: “And stronger. Who wants to see me beat up the bartender?”
 - Swearing — 2 moment(s)
-  - [Moderate] Bernadette: “Easy for you to say, skinny bitch. Sorry, hormones.”
+  - [Caution] Bernadette: “Easy for you to say, skinny bitch. Sorry, hormones.”
   - [Mild] Howard: “Damn. What is it?”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] Howard: “Okay, how about this for an invention, slightly bigger cocktail umbrellas.”
@@ -2975,9 +2975,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Penny: “Ooh. You’re gonna make out so hard tonight.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Raj: “You know, on Game of Thrones, Balon Greyjoy received his son’s genitals in a box.”
+  - [Too much] Raj: “You know, on Game of Thrones, Balon Greyjoy received his son’s genitals in a box.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Amy: “She’s pregnant, she’s not a bloodhound.”
+  - [Caution] Amy: “She’s pregnant, she’s not a bloodhound.”
 
 ## S9 E19 — The Solder Excursion Diversion
 URL: https://watchwiththekids.com/ep/big-bang-theory/0919.html
@@ -2988,12 +2988,12 @@ Watch for:
   - [Mild] Bernadette: “We heard there were some sexy scientists working hard all weekend.”
   - [Mild] Raj: “I love it, I’ll be all like, busted, and they’ll be like, what? And then we’ll all be like, oh yeah. Yeah, I get it. I wouldn’t make out with me, either.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Raj: “I need to rub my genitals on their prototype.”
+  - [Too much] Raj: “I need to rub my genitals on their prototype.”
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] Howard: “Wait. I bet it’s Suicide Squad. Let’s check it out.”
-  - [Explicit] Man: “Hey, guys, thank you for being a part of our test screening. You’re about to be one of the first audiences to see Suicide Squad.”
+  - [Too much] Howard: “Wait. I bet it’s Suicide Squad. Let’s check it out.”
+  - [Too much] Man: “Hey, guys, thank you for being a part of our test screening. You’re about to be one of the first audiences to see Suicide Squad.”
 - Swearing — 1 moment(s)
-  - [Moderate] Bernadette: “Son of a bitch.”
+  - [Caution] Bernadette: “Son of a bitch.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Bernadette: “Sometimes he solders at home with his shirt off. It’s like a beer commercial.”
 
@@ -3003,7 +3003,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon spills a secret of Leonard's when the two take a weekend cabin trip with Penny and Amy. Also, when Koothrappali goes overboard with pregnancy gifts, Wolowitz and Bernadette must draw the line.
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Penny: “Fine, is that how you want to play this? All right, never have I ever come up with a nickname for my own genitals.”
+  - [Too much] Penny: “Fine, is that how you want to play this? All right, never have I ever come up with a nickname for my own genitals.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Sheldon: “Oh, never have I ever drunk milk past its expiration date.”
 
@@ -3013,17 +3013,17 @@ Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Everyone must choose sides when a small argument between Leonard and Sheldon erupts into a heated fight during a group get-together.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Raj: “Okay. Oh, how about this? Stuart’s dressed like a brother of the Night’s Watch, and they don’t have sex.”
+  - [Caution] Raj: “Okay. Oh, how about this? Stuart’s dressed like a brother of the Night’s Watch, and they don’t have sex.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Sheldon: “Oh, I don’t know. Theon Greyjoy looks pretty good for a guy who had his genitals cut off.”
+  - [Too much] Sheldon: “Oh, I don’t know. Theon Greyjoy looks pretty good for a guy who had his genitals cut off.”
   - [Mild] Howard: “Oh, I wish could enjoy a cup of tea without a naked girl bouncing up and down on me.”
   - [Mild] Howard: “Don’t you hate it when you can’t remember whose bra it is you found wedged in your couch?”
   - [Mild] Raj: “Okay, that I said. But that’s a real problem. You give a girl another woman’s bra, and you will not be having sex with her that night. Maybe the other girl, but not her.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Penny: “Okay, well, that was murder, this was an accident.”
+  - [Too much] Penny: “Okay, well, that was murder, this was an accident.”
 - Swearing — 4 moment(s)
-  - [Moderate] Leonard: “Son of a bitch. Why is that funny?”
-  - [Moderate] Howard: “Son of a bitch.”
+  - [Caution] Leonard: “Son of a bitch. Why is that funny?”
+  - [Caution] Howard: “Son of a bitch.”
   - [Mild] Penny: “Well, why the hell did I memorize the Pledge?”
   - [Mild] Howard: “So what the hell happened?”
 
@@ -3033,11 +3033,11 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: The gang goes to a wine bar and runs into Penny's old boyfriend, Zack. Also, Bernadette gets stuck spending the evening with Sheldon when she can't go wine tasting with the group, and things don't go as planned when Koothrappali introduces his new girlfriend, Claire.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Howard: “Well, we’re out. Bernie can’t drink ’cause she’s pregnant. And she’s pregnant because we had sex. And we had sex because, well, come on.”
-  - [Moderate] Howard: “Okay. Everything’s hooked up. We’re ready.”
+  - [Caution] Howard: “Well, we’re out. Bernie can’t drink ’cause she’s pregnant. And she’s pregnant because we had sex. And we had sex because, well, come on.”
+  - [Caution] Howard: “Okay. Everything’s hooked up. We’re ready.”
   - [Mild] Penny: “Oh, Leonard mumbles it when he wants sex to last longer.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Bernadette: “I stab it in the middle eye.”
+  - [Too much] Bernadette: “I stab it in the middle eye.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Penny: “Oh, hey, if you guys are free this weekend, I won a night of wine tasting from work.”
   - [Mild] Sheldon: “Wine again? Yeah, no, thank you. I like my grapes the old-fashioned way, in a juice box.”
@@ -3050,7 +3050,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Penny: “Well, I’d actually like for us to be close, but maybe we start with our favourite books and work our way up to my husband’s sex organs.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Sheldon: “Well, what a sad state of affairs. That you’ve all been so ground down by life, you don’t even notice when someone disrespects you.”
+  - [Caution] Sheldon: “Well, what a sad state of affairs. That you’ve all been so ground down by life, you don’t even notice when someone disrespects you.”
 - Violence & injury — 1 moment(s)
   - [Mild] Howard: “I can’t believe we’re gonna get beat up, and it’s not because of your chair.”
 
@@ -3062,7 +3062,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Beverly: “Like you did before sex?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Beverly: “You do understand our marriage ended because he had an affair.”
+  - [Caution] Beverly: “You do understand our marriage ended because he had an affair.”
 
 ## S10 E1 — The Conjugal Conjecture
 URL: https://watchwiththekids.com/ep/big-bang-theory/1001.html
@@ -3072,10 +3072,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Sheldon: “What? But he’s a mediocre academic. And according to Beverley, his sexual prowess is sub-par. He’s basically Leonard with a bigger prostate.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Sheldon: “Did that conversation include the phrase your genitals are a joy to behold?”
-  - [Explicit] Sheldon: “Or what a joy it is to behold my genitals.”
+  - [Too much] Sheldon: “Did that conversation include the phrase your genitals are a joy to behold?”
+  - [Too much] Sheldon: “Or what a joy it is to behold my genitals.”
 - Alcohol & drugs — 2 moment(s)
-  - [Explicit] Wyatt: “He was cooking and selling crystal meth, Susan, I think we can let the cigarettes slide.”
+  - [Too much] Wyatt: “He was cooking and selling crystal meth, Susan, I think we can let the cigarettes slide.”
   - [Mild] Wyatt: “Well, I could use another beer.”
 
 ## S10 E3 — The Dependence Transcendence
@@ -3086,12 +3086,12 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Bernadette: “Once, I was supposed to babysit my brothers. Our neighbour found them naked in the backyard eating crickets.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Bernadette: “Well, it doubled as my dad’s office, and he was a cop, so I guess the theme was bloody homicide photos.”
+  - [Caution] Bernadette: “Well, it doubled as my dad’s office, and he was a cop, so I guess the theme was bloody homicide photos.”
 - Alcohol & drugs — 2 moment(s)
-  - [Explicit] Sheldon: “No, I know, but plenty of things are addictive after a single exposure. I mean, crack cocaine, nicotine, Pringles. You know once one pops one just can’t stop.”
+  - [Too much] Sheldon: “No, I know, but plenty of things are addictive after a single exposure. I mean, crack cocaine, nicotine, Pringles. You know once one pops one just can’t stop.”
   - [Mild] Penny: “Oh, I’ll have some wine and listen to people go on about crap I don’t understand. I mean, how is it any different than every single day of my life?”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Raj: “Oh, come on, we could share a pretzel and get sideways glances from racist old ladies.”
+  - [Too much] Raj: “Oh, come on, we could share a pretzel and get sideways glances from racist old ladies.”
 
 ## S10 E4 — The Cohabitation Experimentation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1004.html
@@ -3099,9 +3099,9 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When Amy's apartment floods, she proposes a "cohabitation experiment" with Sheldon. Also, Howard and Bernadette are upset when Koothrappali learns the gender of the baby before they do.
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Moderate] Penny: “Okay, you guys had sex one whole time. Nothing can put out a fire like that.”
-  - [Moderate] Sheldon: “Wow, no foreplay or anything, just right to it.”
-  - [Moderate] Penny: “Ugh. Can we just have sex?”
+  - [Caution] Penny: “Okay, you guys had sex one whole time. Nothing can put out a fire like that.”
+  - [Caution] Sheldon: “Wow, no foreplay or anything, just right to it.”
+  - [Caution] Penny: “Ugh. Can we just have sex?”
   - [Mild] Sheldon: “Don’t try luring me in with sexy talk.”
   - [Mild] Sheldon: “If you want to lure me in with sexy talk, that’s how you do it.”
   - [Mild] Bernadette: “Are we being silly not finding out the sex?”
@@ -3136,7 +3136,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After a successful experiment combining their genes, Sheldon will stop at nothing to convince Amy they should procreate. Also, Koothrappali is embarrassed to tell the gang what the new woman he's dating does for a living.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sheldon: “Okay, fine. Let’s just agree that both creations are special in their own way and it is foolish to try and compare them. Although, we didn’t need to have sex with Howard for ours, so we win.”
+  - [Caution] Sheldon: “Okay, fine. Let’s just agree that both creations are special in their own way and it is foolish to try and compare them. Although, we didn’t need to have sex with Howard for ours, so we win.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Howard: “No, she’s right. As long as I’ve known you, you’ve always been self-conscious about your cleavage.”
 
@@ -3146,7 +3146,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Bert, a Caltech geologist, wins the MacArthur Genius fellowship, Sheldon is overcome with jealousy. Also, Wolowitz finds an old remote control Stephen Hawking action figure he invented.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Leonard: “Oh, I laughed so hard, I burst a blood vessel in my nose. It’s fine.”
+  - [Caution] Leonard: “Oh, I laughed so hard, I burst a blood vessel in my nose. It’s fine.”
   - [Mild] Sheldon: “No, I went to punch the water fountain, slipped in water in front of the water fountain, and hit my head on the water fountain.”
   - [Mild] Penny: “I can’t believe you punched Bert.”
   - [Mild] Sheldon: “I didn’t punch him. He turned around, and I gave him a Captain Kirk karate chop. I’m not even sure he knows I did it.”
@@ -3157,14 +3157,14 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon and Leonard must divide up their possessions and remove Penny's things from 4B.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Penny: “Well, my go-to move is usually sleep with the person’s boyfriend, but I kind of feel like I’m already doing that.”
+  - [Caution] Penny: “Well, my go-to move is usually sleep with the person’s boyfriend, but I kind of feel like I’m already doing that.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Sheldon: “In fact, I want you to keep the apartment flag, and I’m not just saying that because it touched your genitals.”
-  - [Explicit] Sheldon: “I do. And to show you that there are no hard feelings, I am willing to rub my genitals on it as well.”
+  - [Too much] Sheldon: “In fact, I want you to keep the apartment flag, and I’m not just saying that because it touched your genitals.”
+  - [Too much] Sheldon: “I do. And to show you that there are no hard feelings, I am willing to rub my genitals on it as well.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Penny: “Yeah, I don’t need anything around that I can stab myself with.”
+  - [Too much] Penny: “Yeah, I don’t need anything around that I can stab myself with.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Amy: “It may have appreciated in value. The artist killed himself shortly after painting that.”
+  - [Too much] Amy: “It may have appreciated in value. The artist killed himself shortly after painting that.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Stuart: “You mean the one with the empty beer bottles in the sandbox? We’ll pass, thank you.”
 
@@ -3174,16 +3174,16 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Amy attempt to have an intimate moment together to celebrate Amy's birthday; Bernadette and Wolowitz welcome their newborn baby to the world.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Leonard: “Okay, I can breathe again. Babe, they want to have sex.”
-  - [Moderate] Leonard: “Found the backup inhaler, want to have sex?”
-  - [Moderate] Sheldon: “What, a Gryffindor sleeping with a Hufflepuff? How scandalous. You naughty girl, you went to the Wizarding World theme park without me.”
-  - [Moderate] Sheldon: “Amy, I just saw a magic train and reported somebody for cutting the line. If that’s not foreplay, I don’t know what is.”
+  - [Caution] Leonard: “Okay, I can breathe again. Babe, they want to have sex.”
+  - [Caution] Leonard: “Found the backup inhaler, want to have sex?”
+  - [Caution] Sheldon: “What, a Gryffindor sleeping with a Hufflepuff? How scandalous. You naughty girl, you went to the Wizarding World theme park without me.”
+  - [Caution] Sheldon: “Amy, I just saw a magic train and reported somebody for cutting the line. If that’s not foreplay, I don’t know what is.”
   - [Mild] Penny: “Oh, you sexy, wheezy little man.”
   - [Mild] baby was supposed to ruin their sex life, not mine.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Sheldon: “Yeah. I’m afraid so. Childbirth, looming coitus? This is a banner night for female genitals.”
+  - [Too much] Sheldon: “Yeah. I’m afraid so. Childbirth, looming coitus? This is a banner night for female genitals.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Raj: “For God’s sake, just drive in the knife, why don’t you.”
+  - [Caution] Raj: “For God’s sake, just drive in the knife, why don’t you.”
 
 ## S10 E12 — The Holiday Summation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1012.html
@@ -3191,13 +3191,13 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon and Amy visit Leonard and Penny for the first time since the holidays and share details about their terrible trip to Texas.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Howard: “It has been hard to sleep with all the crying.”
+  - [Caution] Howard: “It has been hard to sleep with all the crying.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Sheldon: “Oh. A small human wreaks havoc on his wife’s genitals and he gets time off.”
+  - [Too much] Sheldon: “Oh. A small human wreaks havoc on his wife’s genitals and he gets time off.”
   - [Mild] Penny: “Stop. Okay. They told Mary they were living together, there was a fight, he got his feelings hurt, then he put underwear on his head.”
   - [Mild] Bernadette: “Oh, please stop crying, I’m begging you. I don’t know what else to do. My boobs are empty. Do you want lasagna? Shh, shh, shh, it’s okay, it’s okay. Shh. What have we done?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sheldon: “All right. This is on you. Amy and I are living together in sin, like a couple of New Yorkers. Now, while you scold us, I’m going to get a knife and a fork. Joe may be sloppy, but Sheldon’s not.”
+  - [Caution] Sheldon: “All right. This is on you. Amy and I are living together in sin, like a couple of New Yorkers. Now, while you scold us, I’m going to get a knife and a fork. Joe may be sloppy, but Sheldon’s not.”
 
 ## S10 E13 — The Romance Recalibration
 URL: https://watchwiththekids.com/ep/big-bang-theory/1013.html
@@ -3220,10 +3220,10 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon beta tests an MIT invention after hearing it can help him read people's emotions. Also, Leonard can't hide his feelings when Penny announces her brother is coming to town and Raj invites his ex-girlfriends over to give him dating advice.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Sheldon: “Of course you’re fine. Not every member of a species finds a mate. Sir Isaac Newton died a virgin, look at the contributions he made.”
-  - [Moderate] Raj: “I’m not a virgin, Sheldon.”
+  - [Caution] Sheldon: “Of course you’re fine. Not every member of a species finds a mate. Sir Isaac Newton died a virgin, look at the contributions he made.”
+  - [Caution] Raj: “I’m not a virgin, Sheldon.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Leonard: “Fine. You invited your drug dealer brother to stay with us for God knows how long and didn’t bother to ask me first.”
+  - [Caution] Leonard: “Fine. You invited your drug dealer brother to stay with us for God knows how long and didn’t bother to ask me first.”
 
 ## S10 E15 — The Locomotion Reverberation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1015.html
@@ -3247,7 +3247,7 @@ Watch for:
   - [Mild] Bert: “Well, I really envy your relationship. Other than you two only having sex once a year, you’re the perfect couple.”
   - [Mild] Amy: “Sheldon, it’s humiliating. Thanks to you, my colleagues are gossiping about our sex life.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Sheldon: “Don’t Google that unless you want to see pictures of people’s genitals.”
+  - [Too much] Sheldon: “Don’t Google that unless you want to see pictures of people’s genitals.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Howard: “What, what are you doing? I, I, I schlepped the baby over, I brought imported beer. Why don’t you like me?”
 
@@ -3257,7 +3257,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Raj moves out of his apartment, Leonard and Penny offer him Sheldon's old room.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Howard: “He also never had sex in that room. That’s something else to look forward to.”
+  - [Caution] Howard: “He also never had sex in that room. That’s something else to look forward to.”
 
 ## S10 E19 — The Collaboration Fluctuation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1019.html
@@ -3267,12 +3267,12 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Sheldon: “All right, let’s start right now. Uh, rule number one, no using sexuality to get your way.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Sheldon: “Aw, someone drew a penis in it.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Sheldon: “Aw, someone drew a penis in it.”
   - [Mild] Sheldon: “Oh, of course. I’ll get that back. Like all my underwear, that notebook says Property of Sheldon Cooper.”
   - [Mild] Sheldon: “Thank you, you are a good citizen. Told you. Go ahead, throw my underwear out the window. Same thing’s gonna happen.”
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “You sure you don’t fit in? You sound like a catty bitch to me.”
+  - [Caution] Howard: “You sure you don’t fit in? You sound like a catty bitch to me.”
   - [Mild] Raj: “It didn’t work for Randy, it didn’t work for Tina, it sure as hell isn’t gonna work for Jennifer.”
 
 ## S10 E20 — The Recollection Dissipation
@@ -3285,7 +3285,7 @@ Watch for:
   - [Mild] Raj: “I don’t know where your pants are, but we did find your underwear in a pot on the stove.”
   - [Mild] Howard: “Come on, be honest. Did you tell her I tried her breast pump?”
 - Swearing — 2 moment(s)
-  - [Moderate] Howard: “Son of a bitch, it’s five and a half.”
+  - [Caution] Howard: “Son of a bitch, it’s five and a half.”
   - [Mild] Stuart: “Why don’t you think she’s fine? She sounds fine, she looks fine. If I saw her on the street I’d say, damn, that girl’s fine.”
 
 ## S10 E21 — The Separation Agitation
@@ -3302,8 +3302,8 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Leonard isn't thrilled when Penny considers taking a new job offered by her ex-boyfriend, Zack.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Raj: “Okay. Shall we? Oh, my God. It’s light, it’s flaky, it’s buttery. You don’t need to have sex with him, just eat one of these.”
-  - [Moderate] Leonard: “Yeah, but she also used to sleep with Zack.”
+  - [Caution] Raj: “Okay. Shall we? Oh, my God. It’s light, it’s flaky, it’s buttery. You don’t need to have sex with him, just eat one of these.”
+  - [Caution] Leonard: “Yeah, but she also used to sleep with Zack.”
   - [Mild] Bernadette: “I wouldn’t trust her. He’s thin and sexy like a Jewish greyhound.”
   - [Mild] Penny: “Look, we can have a reasonable conversation and I won’t get mad. I don’t like it after sex, and I don’t like it now.”
 - Alcohol & drugs — 1 moment(s)
@@ -3326,10 +3326,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Penny: “Yeah. Do you think living with Amy has somehow stirred up Sheldon’s sexual appetite?”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Sheldon: “Now, I’ve learned some fun facts about New Jersey to help you make small talk. Would you like to know the state bird or the murder rate? They’re both shocking.”
-  - [Explicit] Sheldon: “Well, I’m a lot less likely to see an Eastern Goldfinch or be murdered, I’ll tell you that.”
+  - [Too much] Sheldon: “Now, I’ve learned some fun facts about New Jersey to help you make small talk. Would you like to know the state bird or the murder rate? They’re both shocking.”
+  - [Too much] Sheldon: “Well, I’m a lot less likely to see an Eastern Goldfinch or be murdered, I’ll tell you that.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Sheldon: “Yeah. Raj made the funniest joke, he said, which is the best ladder to use to hang myself?”
+  - [Too much] Sheldon: “Yeah. Raj made the funniest joke, he said, which is the best ladder to use to hang myself?”
 
 ## S11 E1 — The Proposal Proposal
 URL: https://watchwiththekids.com/ep/big-bang-theory/1101.html
@@ -3345,7 +3345,7 @@ Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Leonard angers the university – and the entire physics community – after he gives an embarrassing interview. Also, Amy and Bernadette bond over having to hide their success from Sheldon and Howard.
 Watch for:
 - Swearing — 3 moment(s)
-  - [Moderate] “" He said that to your face? What a dick.”
+  - [Caution] “" He said that to your face? What a dick.”
   - [Mild] “The more I told him about my lab, the pissier he got.”
   - [Mild] “Damn right it is; I came up with it.”
 - Alcohol & drugs — 4 moment(s)
@@ -3368,10 +3368,10 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Howard and Sheldon bond when they drive to the desert to shoot off a model rocket. Also, when Leonard's mom, Beverly, finds a new best friend in Penny, it rubs Leonard the wrong way.
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] “Oh, hey, hey, what do you think? Just because it's a boy, I don't think you need to put a picture of genitals on his shirt.”
+  - [Too much] “Oh, hey, hey, what do you think? Just because it's a boy, I don't think you need to put a picture of genitals on his shirt.”
   - [Mild] “Is Halley hoping for a little brother or a little sister? Well, she's nine months old, so unless it jingles or is in my bra, she doesn't care.”
 - Swearing — 1 moment(s)
-  - [Moderate] “You're rough and tumble? You bet I am, bitch.”
+  - [Caution] “You're rough and tumble? You bet I am, bitch.”
 
 ## S11 E5 — The Collaboration Contamination
 URL: https://watchwiththekids.com/ep/big-bang-theory/1105.html
@@ -3396,13 +3396,13 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon and Bert collaborate on a research project, despite Sheldon's embarrassment. Also, Penny and Bernadette coach Koothrappali on how to navigate his relationship with Ruchi.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] “We ordered in some food, we had sex, I left.”
+  - [Caution] “We ordered in some food, we had sex, I left.”
   - [Mild] “Checkered past? It's a figure of speech referring to how sexually promiscuous you were.”
   - [Mild] “Really? Well, I've got a figure of speech about how sexually promiscuous you can go be with yourself.”
   - [Mild] “Why would I want to spend time with someone like that? Someone who is just interested in sex? Yeah.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Okay, put a rubber band around your wrist, and any time you start planning your wedding or naming your children, I want you to stab yourself in the hand with a fork.”
-  - [Moderate] “Oh, almost paradise We're knocking on heaven's door Almost paradise And then I had to catalog it by color, viscosity and percentage of blood.”
+  - [Too much] “Okay, put a rubber band around your wrist, and any time you start planning your wedding or naming your children, I want you to stab yourself in the hand with a fork.”
+  - [Caution] “Oh, almost paradise We're knocking on heaven's door Almost paradise And then I had to catalog it by color, viscosity and percentage of blood.”
 
 ## S11 E8 — The Tesla Recoil
 URL: https://watchwiththekids.com/ep/big-bang-theory/1108.html
@@ -3410,13 +3410,13 @@ Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Leonard and Wolowitz are furious after they learn Sheldon went to work with the military behind their backs. Also, while Bernadette is on bed rest, she asks Raj to do some digging when she suspects Ruchi is trying to steal her job.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] “You're just saying that 'cause she's sleeping with you.”
-  - [Moderate] “I am not fist bumping you after we have sex.”
-  - [Moderate] “So what did you do? What do you think I did? I made small talk for 20 minutes and had sex again.”
-  - [Moderate] “If I do that, she's gonna confront Ruchi, and then Ruchi's gonna stop sleeping with me.”
+  - [Caution] “You're just saying that 'cause she's sleeping with you.”
+  - [Caution] “I am not fist bumping you after we have sex.”
+  - [Caution] “So what did you do? What do you think I did? I made small talk for 20 minutes and had sex again.”
+  - [Caution] “If I do that, she's gonna confront Ruchi, and then Ruchi's gonna stop sleeping with me.”
   - [Mild] “Isn't he sexy all fired up? He really gets my current alternating, if you know what I mean.”
 - Swearing — 3 moment(s)
-  - [Moderate] “Thanks for coming! (door closes) That bitch.”
+  - [Caution] “Thanks for coming! (door closes) That bitch.”
   - [Mild] “But if someone else does it, I can double check the crap out of it.”
   - [Mild] “Damn it! Excuse us.”
 
@@ -3426,9 +3426,9 @@ Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon tries to teach the guys a lesson after they cut him out of a potentially valuable Bitcoin investment. Also, a seven-year-old video reveals a secret about Leonard and Penny's relationship.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “Wow, I-I knew you were single back then, but that is a lot of porn Science! A lot of science.”
+  - [Too much] “Wow, I-I knew you were single back then, but that is a lot of porn Science! A lot of science.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “You want to mine some Bitcoin with us? We'll write the program, you bring the snacks? Too rich for my blood.”
+  - [Caution] “You want to mine some Bitcoin with us? We'll write the program, you bring the snacks? Too rich for my blood.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I was gonna write you an e-mail, but I'm a little drunk, and spelling is a sober person's game, so I feel I owe you a 'splanation.”
 
@@ -3442,7 +3442,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Just remember, if you fall asleep first, they're gonna freeze your bra.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Please, confidence is like red blood cells-- it's nice if you got some, but you don't need 'em.”
+  - [Caution] “Please, confidence is like red blood cells-- it's nice if you got some, but you don't need 'em.”
 
 ## S11 E11 — The Celebration Reverberation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1111.html
@@ -3450,7 +3450,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sheldon and Wolowitz plan birthday celebrations for Amy and Halley, respectively. Also, Leonard receives a Christmas letter from his brother that causes him to spiral out about his own lack of accomplishments.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “Everyone knows the best foreplay is rigid adherence to a strict schedule.”
+  - [Caution] “Everyone knows the best foreplay is rigid adherence to a strict schedule.”
   - [Mild] “Hey, hey, save that sexy talk for the bedroom.”
   - [Mild] “Well should we make love now? How can you even think about sex? Hey, I'm a man; I have annual needs just like anyone.”
 
@@ -3472,7 +3472,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Otherwise, Justin would never have brought sexy back.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “…my idol, I'm homicidal Gonna roll over you till your brains come out And your bones will crunch and your blood will spout!”
+  - [Caution] “…my idol, I'm homicidal Gonna roll over you till your brains come out And your bones will crunch and your blood will spout!”
 
 ## S11 E14 — The Separation Triangulation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1114.html
@@ -3480,12 +3480,12 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Koothrappali finds himself in the middle of domestic drama when he learns the woman he's dating, Nell, has a very upset husband, Oliver. Also, when Sheldon rents his old room back for a quiet place to work, he drives Leonard crazy by being a model tenant.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] “How is it gonna be okay? You're sleeping with my wife.”
-  - [Moderate] “And she had sex with you? Nell tells me you're a fireman.”
-  - [Moderate] “Well, if you're uncomfortable with it, maybe stop sleeping with his wife.”
+  - [Caution] “How is it gonna be okay? You're sleeping with my wife.”
+  - [Caution] “And she had sex with you? Nell tells me you're a fireman.”
+  - [Caution] “Well, if you're uncomfortable with it, maybe stop sleeping with his wife.”
   - [Mild] “I don't think the sex is the problem.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “I was just trying not to be racist.”
+  - [Too much] “I was just trying not to be racist.”
 
 ## S11 E15 — The Novelization Correlation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1115.html
@@ -3493,12 +3493,12 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: When Sheldon petitions Wil Wheaton to appear on the new Professor Proton show, Wil offers a role to Amy instead. Also, Penny gets angry when she thinks the female protagonist in Leonard's novel is based on her.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] “Oh! I just thought of the murder weapon! Swiss army knife? (laughs) No.”
-  - [Explicit] “Logan Dean makes two important discoveries: a gluino (gruffly): and murder.”
-  - [Moderate] “I don't mean to interrupt, but somebody's tracking blood everywhere, so-- never mind, it's me.”
-  - [Moderate] “What makes you think you can solve a crime? He's losing a lot of blood.”
+  - [Too much] “Oh! I just thought of the murder weapon! Swiss army knife? (laughs) No.”
+  - [Too much] “Logan Dean makes two important discoveries: a gluino (gruffly): and murder.”
+  - [Caution] “I don't mean to interrupt, but somebody's tracking blood everywhere, so-- never mind, it's me.”
+  - [Caution] “What makes you think you can solve a crime? He's losing a lot of blood.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Son of a bitch.”
+  - [Caution] “Son of a bitch.”
   - [Mild] “Damn it, Logan.”
 
 ## S11 E16 — The Neonatal Nomenclature
@@ -3507,12 +3507,12 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: When Bernadette won't go into labor, all her friends try different tactics to get things started. Also, Wolowitz confronts Bernadette after Amy accidentally reveals she's already chosen their son's name.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] “Why are you smiling? I had sex twice last night.”
-  - [Moderate] “You only have sex once a year.”
-  - [Moderate] “I'll probably have sex tonight.”
+  - [Caution] “Why are you smiling? I had sex twice last night.”
+  - [Caution] “You only have sex once a year.”
+  - [Caution] “I'll probably have sex tonight.”
   - [Mild] “Ta-da! (snaps fingers) You know, I hear that sex can induce labor.”
 - Swearing — 3 moment(s)
-  - [Moderate] “Go put on some more clothes, you bitch.”
+  - [Caution] “Go put on some more clothes, you bitch.”
   - [Mild] “Today's my due date, and this crap needs to end now.”
   - [Mild] “Ooh! Who said war was hell? Yeah, that's a rhetorical question.”
 - Alcohol & drugs — 1 moment(s)
@@ -3526,7 +3526,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Is it too sexy? It's too something.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “The kids could've screamed bloody murder and you wouldn't have woken up.”
+  - [Too much] “The kids could've screamed bloody murder and you wouldn't have woken up.”
 
 ## S11 E18 — The Gates Excitation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1118.html
@@ -3534,7 +3534,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Penny gets the opportunity to host Bill Gates at work when his company wants to partner with her pharmaceutical company. Also, Leonard, Koothrappali and Wolowitz do everything in their power to meet him, while Sheldon thinks he is the victim of an April Fools prank.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “Plenty of people do that: businessmen, high-end prostitutes.”
+  - [Too much] “Plenty of people do that: businessmen, high-end prostitutes.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “And a whole bottle of wine.”
 
@@ -3544,7 +3544,7 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Leonard learns Sheldon is the president of the tenants association, he decides to run against him. Also, Bernadette encourages Wolowitz and Koothrappali to find the owner of a drone after they find it in the backyard.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “All hooked up.”
+  - [Caution] “All hooked up.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I mean, did you see how hot she was? I want to get all up on that and start making babies! I know exactly what underwear I'm gonna wear on our first date.”
 - Violence & injury — 2 moment(s)
@@ -3559,8 +3559,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Well, I wish I could say none of that is gonna happen, but Penny is planning it, and she is the reason I own those underwear with writing across the butt.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] “Welcome to your bachelorette party! Oh It's a quilting bee! My bachelorette party's a quilting bee! (forced chuckle) Isn't it perfect? Yeah, instead of oiled-up strippers and sex toys, we thought: what does Amy like?”
-  - [Explicit] “Yeah, what happened to the good old days where if someone wanted to steal your work, they had to hire a prostitute to seduce you? Who told you about that? Just making a joke.”
+  - [Too much] “Welcome to your bachelorette party! Oh It's a quilting bee! My bachelorette party's a quilting bee! (forced chuckle) Isn't it perfect? Yeah, instead of oiled-up strippers and sex toys, we thought: what does Amy like?”
+  - [Too much] “Yeah, what happened to the good old days where if someone wanted to steal your work, they had to hire a prostitute to seduce you? Who told you about that? Just making a joke.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Drinking wine, riding panthers Proof that girls have gone wild for over 2,500 years.”
   - [Mild] “All right, you know what, why don't we stay home, have a little wine What are you not getting about this?! Dr.”
@@ -3580,7 +3580,7 @@ Watch for:
   - [Mild] “Well, I've got a push-up bra I can loan you that always gets me free drinks.”
   - [Mild] “Then I'd go no bra.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “You're in a stolen cop car with a dead hooker in the trunk.”
+  - [Too much] “You're in a stolen cop car with a dead hooker in the trunk.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “" I can't wait to get drunk and pick a fight with her at your wedding.”
   - [Mild] “Would you like some champagne? Oh, thank you.”
@@ -3594,8 +3594,8 @@ Watch for:
   - [Mild] “Y-You wouldn't be paying for sex.”
   - [Mild] “I mean, obviously if things went well, it could lead to sex, but, but the money is for, like, you know, her time and companionship.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] “Wh-Wh-Why can't there be a service where you can just pay someone to be your date for the evening? Like an escort service? No, no, no.”
-  - [Explicit] “Oh, I get it an escort service.”
+  - [Too much] “Wh-Wh-Why can't there be a service where you can just pay someone to be your date for the evening? Like an escort service? No, no, no.”
+  - [Too much] “Oh, I get it an escort service.”
 - Violence & injury — 1 moment(s)
   - [Mild] “He was still gonna get beat up for wearing that dress.”
 - Alcohol & drugs — 1 moment(s)
@@ -3607,8 +3607,8 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Amy and Sheldon's wedding provides Sheldon with the information he needs to make a breakthrough in his symmetrical string theory. Meanwhile, their friends pick up Sheldon and Amy's families from the airport, and Mark Hamill agrees to officiate at the ceremony.
 Watch for:
 - Racism & slurs — 2 moment(s)
-  - [Explicit] “Mom Oh, so now it's racist to notice when somebody's Indian.”
-  - [Explicit] “I don't think it's racist.”
+  - [Too much] “Mom Oh, so now it's racist to notice when somebody's Indian.”
+  - [Too much] “I don't think it's racist.”
 
 ## S12 E1 — The Conjugal Configuration
 URL: https://watchwiththekids.com/ep/big-bang-theory/1201.html
@@ -3616,7 +3616,7 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Amy's honeymoon runs aground in New York, while Penny and Leonard discover they are uncomfortably similar to Amy's parents, Mr. and Mrs. Fowler. Also, Koothrappali insults physicist Neil deGrasse Tyson and starts a Twitter war.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] “You're gonna have to find some other way to not have sex with me tonight.”
+  - [Caution] “You're gonna have to find some other way to not have sex with me tonight.”
   - [Mild] “So, now that we're married, sex can occur at any time? Like, we can be brushing our teeth, and suddenly your minty-fresh tongue is in my mouth? No, thank you.”
   - [Mild] “Now that sex can happen at any time, I always have to be ready.”
   - [Mild] “Some guys think strong women are sexy.”
@@ -3680,8 +3680,8 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Leonard is caught between a rock and a hard place when he's responsible for distributing extra grant money. Also, Bernadette turns the backyard playhouse into a hideaway from her husband and kids.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “I'm gonna hook up the garden hose, so it has running water.”
-  - [Moderate] “That'd be a good slogan for a condom company.”
+  - [Caution] “I'm gonna hook up the garden hose, so it has running water.”
+  - [Caution] “That'd be a good slogan for a condom company.”
   - [Mild] “It was so sexy.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Really? You and Bernadette aren't doing stuff without me? What? No! Why would you even say that? You know how your talent is getting just drunk enough to have a good time without being hungover the next day? Thank you.”
@@ -3693,16 +3693,16 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sheldon tries to bond with Amy's father, but when Wolowitz lures Mr. Fowler away with magic tricks, Sheldon has no choice but to bond with Mrs. Fowler. Also, Koothrappali and Anu try to get physical for the first time.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] “(chuckles) I think we should have sex.”
-  - [Moderate] “What's up, pal? I I don't know how else to say this, but, um, Anu and I are going to have sex tonight.”
+  - [Caution] “(chuckles) I think we should have sex.”
+  - [Caution] “What's up, pal? I I don't know how else to say this, but, um, Anu and I are going to have sex tonight.”
   - [Mild] “I mean, this is the woman I'm marrying-- what if it's no good? Do we break up? Do we sign on for a lifetime of mediocre sex? Just don't put so much pressure on it.”
   - [Mild] “And by the way, Anu is Indian-- she's gonna know there's no sexual position called a "screeching lotus.”
   - [Mild] “Yeah, what if you're great and she's bad? How can she be bad? Raj, women can be bad at sex, too.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “You can do that but you still can't get my bra off.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “A perfectly ordinary table knife.”
-  - [Moderate] “Well, look, there's fake blood, too.”
+  - [Caution] “A perfectly ordinary table knife.”
+  - [Caution] “Well, look, there's fake blood, too.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] “Everything okay? Why are you acting so weird? Raj? What's going on? (champagne cork pops) Be right out! You look beautiful! Sorry, I had to use the facilities.”
   - [Mild] “With a bottle of champagne? Mm, I like to celebrate the little things in life.”
@@ -3714,11 +3714,11 @@ Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Amy are devastated after learning from a Russian paper that Super Asymmetry has already been discovered and disproven. Also, ultra-competitive Bernadette asks Stuart's girlfriend, Denise, to teach her how to beat Howard in a popular videogame.
 Watch for:
 - Affairs / cheating — 3 moment(s)
-  - [Moderate] “I'm having an affair.”
-  - [Moderate] “The truth is, I was never having an affair with the cafeteria lady.”
-  - [Moderate] “Maybe leave an anonymous note, you know, like in high school, when you want to let your best friend know that her boyfriend's cheating on her.”
+  - [Caution] “I'm having an affair.”
+  - [Caution] “The truth is, I was never having an affair with the cafeteria lady.”
+  - [Caution] “Maybe leave an anonymous note, you know, like in high school, when you want to let your best friend know that her boyfriend's cheating on her.”
 - Swearing — 5 moment(s)
-  - [Moderate] “(chuckles) Son of a bitch.”
+  - [Caution] “(chuckles) Son of a bitch.”
   - [Mild] “It's just a portal to hell.”
   - [Mild] “Ugh, damn it, why can't I hit anybody? Here, let me try.”
   - [Mild] “Hey, do you want to play the game, or do you want to crawl back up your mommy's shirt and chow down like a baby? Damn, what is wrong with you? I'm sorry, I thought you wanted to beat your husband.”
@@ -3730,12 +3730,12 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Sheldon and Amy are still down about their theory being disproven, but a VHS tape from Sheldon's past inspires him not to give up. Also, Bernadette turns into a pageant mom when she tries to help Wolowitz ace his Magic Castle audition.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Okay, all hooked up.”
+  - [Caution] “Okay, all hooked up.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I used to record a lot of Jeopardy! for my mom, but if I push play and you see some naked people Got it.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] “What is porn? Ooh, we were looking for "vintage '80s erotica," but I'll accept it.”
-  - [Explicit] “If you think about it, they're just the strippers of the emblem world.”
+  - [Too much] “What is porn? Ooh, we were looking for "vintage '80s erotica," but I'll accept it.”
+  - [Too much] “If you think about it, they're just the strippers of the emblem world.”
 
 ## S12 E11 — The Paintball Scattering
 URL: https://watchwiththekids.com/ep/big-bang-theory/1211.html
@@ -3754,8 +3754,8 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Penny's ex-boyfriend, Zack, and his wife want a baby, but when Zack is infertile, they ask Leonard for help. Also, Koothrappali attempts to mend things with his ex-fiancée, Anu.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Just because I slept with your wife doesn't mean you get to sleep with mine.”
-  - [Moderate] “Really? So you'd be okay if someone wanted to use Sheldon as their sperm donor? Oh, absolutely not.”
+  - [Caution] “Just because I slept with your wife doesn't mean you get to sleep with mine.”
+  - [Caution] “Really? So you'd be okay if someone wanted to use Sheldon as their sperm donor? Oh, absolutely not.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] “" I have a bottle of champagne for you.”
   - [Mild] “Amy got drunk and kept telling us that Sheldon's chest is smooth like a porpoise.”
@@ -3779,8 +3779,8 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Penny tries to seduce an abstaining Leonard to ruin his "donation" for her ex-boyfriend, Zack, and his wife, Marissa. Also, Wolowitz, Bernadette, Anu and Koothrappali turn Koothrappali's canceled bachelor party into a couple's trip aboard the "vomit comet".
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “And they say, for the best results, between now and then, you shouldn't have sex.”
-  - [Moderate] “My wife kept trying to have sex with me.”
+  - [Caution] “And they say, for the best results, between now and then, you shouldn't have sex.”
+  - [Caution] “My wife kept trying to have sex with me.”
   - [Mild] “Why are you trying to avoid having sex? Well, we just did it three weeks ago.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] “Can I get you something to drink? Maybe a beer? Sure, if you're having one.”
@@ -3793,10 +3793,10 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: When the gang finds out Wil Wheaton hosts a celebrity Dungeons and Dragons game involving William Shatner, Joe Manganiello, Kareem Abdul-Jabbar and Kevin Smith, deception and betrayal are the path to make it to the one open seat.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “(stammers) Wait, if you think I'm lying, why do you think I'm eating pies? Why don't you think I'm having an affair? Listen, i-it's fine, just next time, bring me a slice.”
+  - [Caution] “(stammers) Wait, if you think I'm lying, why do you think I'm eating pies? Why don't you think I'm having an affair? Listen, i-it's fine, just next time, bring me a slice.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “What-What's he doing there? Maybe he died in Wil's house and he can't leave until he solves his own murder.”
-  - [Moderate] “Oh, a-and that, uh, the guy that played the werewolf on-on True Blood, he was there.”
+  - [Too much] “What-What's he doing there? Maybe he died in Wil's house and he can't leave until he solves his own murder.”
+  - [Caution] “Oh, a-and that, uh, the guy that played the werewolf on-on True Blood, he was there.”
 
 ## S12 E17 — The Conference Valuation
 URL: https://watchwiththekids.com/ep/big-bang-theory/1217.html
@@ -3812,11 +3812,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Sometimes I forget you're smart because you're so sexy.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] PEMBERTON: “Yeah, I wasn't trying to prove that my wife was cheating on me when I came home early one Friday, but I'm still sleeping on his couch.”
+  - [Caution] PEMBERTON: “Yeah, I wasn't trying to prove that my wife was cheating on me when I came home early one Friday, but I'm still sleeping on his couch.”
 - Violence & injury — 1 moment(s)
   - [Mild] “What if, instead, I'm punching a meteor into the sun with my bare fists? So you have superpowers? I like the way you're thinking.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Why? Because I don't want the whole world to know I was the frightened little astronaut! Maybe you should've called it The Bitchy Little Astronaut.”
+  - [Caution] “Why? Because I don't want the whole world to know I was the frightened little astronaut! Maybe you should've called it The Bitchy Little Astronaut.”
   - [Mild] “We can also find out what's so damn funny about birds.”
 
 ## S12 E19 — The Inspiration Deprivation
@@ -3825,10 +3825,10 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: The concept of what it would mean for women everywhere if Amy were to win a Nobel Prize causes Amy to have a meltdown. Also, Koothrappali and Wolowitz try to relive the good old days after Wolowitz buys a scooter that looks like the one he had years ago.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Yeah, only condoms.”
+  - [Caution] “Yeah, only condoms.”
   - [Mild] Pro tip: “if you find strong women sexy, do not say it out loud.”
 - Swearing — 3 moment(s)
-  - [Moderate] “Emasculating? You were about to ride bitch on a moped with another man.”
+  - [Caution] “Emasculating? You were about to ride bitch on a moped with another man.”
   - [Mild] “I'm sorry, but you telling me what I can and can't do is pretty damn emasculating.”
   - [Mild] “Damn right, 'cause I'm a strong woman wearing a strong man's deodorant! Well, how about have a seat? Maybe you'd like a glass of water? You have anything with a little more kick? Seriously, Dr.”
 - Alcohol & drugs — 1 moment(s)
@@ -3840,7 +3840,7 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Koothrappali is worried people won't take him seriously in his own field after publishing a paper that suggests he may have discovered alien life. Also, Leonard wants to be the principal investigator on a plasma physics study.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “I want to have sex.”
+  - [Caution] “I want to have sex.”
   - [Mild] “Wow, sex with your wife.”
   - [Mild] “Don't take this the wrong way, but that was even more exciting than the sex.”
 
@@ -3850,15 +3850,15 @@ Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Kripke has proof that Dr. Pemberton plagiarized his thesis in college, and Sheldon and Amy aren't sure if they should turn him in or not. Also, Wolowitz is happily surprised to learn that Bernadette wasn't the only waitress at the Cheesecake Factory who had a crush on him back in the day.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “And someone is sleeping with his ex-wife and it's not me.”
+  - [Caution] “And someone is sleeping with his ex-wife and it's not me.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “We should hit up the buffet at the strip club while you're in town.”
-  - [Explicit] “Nothing beats a lap dance and a baked potato bar, huh? (chuckles) You can come, too.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “We should hit up the buffet at the strip club while you're in town.”
+  - [Too much] “Nothing beats a lap dance and a baked potato bar, huh? (chuckles) You can come, too.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Don't you think it's better to take the high road? Yeah, and instead of guns, armies should carry candy canes that shoot wishes.”
+  - [Caution] “Don't you think it's better to take the high road? Yeah, and instead of guns, armies should carry candy canes that shoot wishes.”
 - Swearing — 1 moment(s)
-  - [Moderate] “What is going on here? I'm in love with Linda! You son of a bitch! (both grunting) That was my iced tea.”
+  - [Caution] “What is going on here? I'm in love with Linda! You son of a bitch! (both grunting) That was my iced tea.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Are you drunk? I was, and then I still was.”
 

@@ -95,7 +95,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Phineas and Ferb visit an Egyptian-themed movie theater and attempt to get a mummy of their own, but they end up capturing Candace, who is wrapped in toilet paper, while Doofenshmirtz tries to raise the city's water level so his real estate will become beachfront property.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Major Monogram: “It appears that he's purchased a string of odd items: One pound of blood sausage- Ech, that's my grocery list.”
+  - [Caution] Major Monogram: “It appears that he's purchased a string of odd items: One pound of blood sausage- Ech, that's my grocery list.”
   - [Mild] Explorer: “(In movie) The incantation will make the mummy come to life and obey your commands. Well, beat me with a chicken. (The mummy starts beating him with a chicken) Ow! What?! Ooh! Hey! Stop! It's an--ow! Hey!”
   - [Mild] …her to stare at the camera bemusedly; she tries again, but she lands in the overhead duct and comes out beat up) Oh, give me a break!
 
@@ -137,7 +137,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Phineas and Ferb build a shrinking submarine so they can go inside Isabella's dog and retrieve a sash the pet ate, but they accidentally end up in Candace's stomach instead. Meanwhile, Perry must stop Doofenshmirtz from destroying people who can't make up their mind.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Phineas: “(another claw grabs another tendril, now the screen displays her eyes are hooked up.) Eyes...”
+  - [Caution] Phineas: “(another claw grabs another tendril, now the screen displays her eyes are hooked up.) Eyes...”
 
 ## S1 E21 — It's About Time!
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0121.html
@@ -153,7 +153,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: The boys locate their parents' favorite band, Love Handel, to perform a reunion concert in the backyard to make up Dad forgetting his wedding anniversary. Meanwhile, Doofenshmirtz plans a surprise birthday party for his daughter, Vanessa.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] A hair comb flies in and stabs the poster to the wall; Song: "Fabulous"
+  - [Too much] A hair comb flies in and stabs the poster to the wall; Song: "Fabulous"
   - [Mild] Doofenshmirtz: “(Perry cuts the ribbon with a laser from his watch) Hey, that's not fair! Well then, have a taste of my ray gun, Perry the Platypus!”
 
 ## S1 E23 — Tree to Get Ready
@@ -182,7 +182,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Candace uses a reality show to secretly film her brothers designing a white-water rafting ride. Meanwhile, Perry must crush Doofenshmirtz' dream of becoming a magician, as well as dominating the tri-state area.
 Watch for:
 - Swearing — 1 moment(s)
-  - [Moderate] Doofenshmirtz: “Perry the Platypus? (Perry shoots a rabbit out of the top hat) Bobo the rabbit! Do you know that I've been looking for you since the seventh grade? (top hat cocks as Perry starts shooting more rabbits) Aah!”
+  - [Caution] Doofenshmirtz: “Perry the Platypus? (Perry shoots a rabbit out of the top hat) Bobo the rabbit! Do you know that I've been looking for you since the seventh grade? (top hat cocks as Perry starts shooting more rabbits) Aah!”
 
 ## S1 E27 — Crack That Whip
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0127.html
@@ -570,8 +570,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Unsure of his own dancing skills when he agrees to go on a TV show with Candace, Phineas and Ferb develop a device to help Jeremy imitate the dance moves of a professional. Meanwhile, Dr. Doofenshmirtz and several other villains try to broadcast an evil message during the taping of the show.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Doofenshmirtz: “Patience, Dr. Bloodpudding, they'll be here. When have I ever let you guys down?”
-  - [Moderate] For Dr. Bloodpudding, a female scientist, and a male scientist, it was paint cans (two orange for the former two and one pink for the latter) and the platform the cans were on.
+  - [Caution] Doofenshmirtz: “Patience, Dr. Bloodpudding, they'll be here. When have I ever let you guys down?”
+  - [Caution] For Dr. Bloodpudding, a female scientist, and a male scientist, it was paint cans (two orange for the former two and one pink for the latter) and the platform the cans were on.
 
 ## S2 E35 — What Do It Do?
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0235.html
@@ -588,7 +588,7 @@ Watch for:
   - [Mild] Buford: “Forget that! Step aside! (He punches the door, revealing Atlantis)”
   - [Mild] Doofenshmirtz: “(Doofenshmirtz gets slapped by a vine)”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Perry comes in through the window, with weed-whackers, and proceeds to cut through the plants
+  - [Caution] Perry comes in through the window, with weed-whackers, and proceeds to cut through the plants
 
 ## S2 E37 — Phineas and Ferb Christmas Vacation!
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0237.html
@@ -641,8 +641,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Doofenshmirtz: “When I zap those streets there will be eight times the traffic, and Danville will come to a standstill! That's where I will make out like a bandit.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] Buford: “Adjacent! He didn't wanna be no part of no Tri-State unification, and neither do I! The blood of Otto H.”
-  - [Moderate] Baljeet: “Well, mango chutney is thicker than blood.”
+  - [Caution] Buford: “Adjacent! He didn't wanna be no part of no Tri-State unification, and neither do I! The blood of Otto H.”
+  - [Caution] Baljeet: “Well, mango chutney is thicker than blood.”
   - [Mild] Doofenshmirtz: “Oh excuse me Perry the Platypus, what can I do- (He opens the door, freeing Perry, who punches Doofenshmirtz into the Dupic-8-inator, setting it off) Oh see there, that's, that's the willy-nilly button.”
 
 ## S2 E44 — Invasion of the Ferb Snatchers
@@ -717,7 +717,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Phineas and Ferb head to the Tri-State area's annual sci-fi/comic book convention to meet their hero, special effects guru Clive Addison. Their plan gets sidetracked when they're swept into a duel between fantasy fans and sci-fi geeks. Meanwhile, Candace tries to keep secret that she's a fan of Ducky Mo-Mo, another convention staple. Across the convention hall, Dr. Doofenshmirtz has taken television executive Jeff McGarland hostage so he can pitch him a show he's developed, Doof ‘N' Puss.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] ♪ As red as the blood of all who enter! ♪
+  - [Caution] ♪ As red as the blood of all who enter! ♪
   - [Mild] Perry's top half punches a ninja vampire. Cut to a speedboat blowing up. More fighting. A bowl of fruit explodes. Doofenshmirtz and Perry the Platypus get backed up against a wall
 
 ## S2 E56 — Wizard of Odd
@@ -726,7 +726,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Phineas and Ferb spin the house in order to paint it more quickly, Candace, inside the house, gets dizzy and collapses. She wakes up in the magical land of Odd and heads down the yellow sidewalk to Bustopolis to meet the Wizard.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Nerdcrow (Baljeet): Oh, yes, I much prefer rotting vegetation and blood-sucking demons.
+  - [Caution] Nerdcrow (Baljeet): Oh, yes, I much prefer rotting vegetation and blood-sucking demons.
   - [Mild] Spider-Monkey: “(laughs, then grabs Agent P's fedora; only to get punched by a boxing glove) Owww!”
 
 ## S2 E57 — We Call it Maze
@@ -774,7 +774,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Candace switches places with a princess who looks exactly like her, while the real princess helps the boys build a giant jukebox filled with live bands.
 Watch for:
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Major Monogram: “We don't actually have a photo of her, but whatever, she's a 15-year-old girl, they all pretty much look alike...”
+  - [Too much] Major Monogram: “We don't actually have a photo of her, but whatever, she's a 15-year-old girl, they all pretty much look alike...”
 
 ## S2 E65 — Candace Gets Busted
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0265.html
@@ -825,9 +825,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: For Harbor Days Festival, Phineas and Ferb celebrate by creating a mechanical version of the historical elusive shark of Danville Harbor. Seeing what the boys are up to, Candace enlists some help to capture the mysterious shark. Meanwhile, Dr. Doofenshmirtz invents the 'Salt Water Taffy-inator' to give cavities to every kid in the Tri-State Area.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”
-  - [Explicit] At Danville Harbor; the gatherers are watching a puppet show of a man stabbing a harpoon at a shark
-  - [Moderate] Linda: “It never is, honey. (at the kids) Who wants blood pudding?”
+  - [Too much] Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”
+  - [Too much] At Danville Harbor; the gatherers are watching a puppet show of a man stabbing a harpoon at a shark
+  - [Caution] Linda: “It never is, honey. (at the kids) Who wants blood pudding?”
   - [Mild] Doofenshmirtz: “(prods the water with his spear gun) Okay, I'm good.”
 
 ## S3 E7 — Moon Farm
@@ -875,13 +875,13 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Candace gets a bad haircut and must rely on Phineas and Ferb's hair growing machine to correct it before she attends the Endangered Animal Benefit with Jeremy and his mom. However, when Candace turns up the power, her hair grows much more than expected and she is mistaken for a rare tangerine orangutan. Meanwhile, Dr. Doofenshmirtz is developing his Very, Very 'Bad-inator.'
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Doofenshmirtz: “Ow! Shot in the butt while covered in honey and hair? What do you know, my horoscope was right. (hugging pole) My beautiful, beautiful horoscope.”
-  - [Explicit] ♪ I've been shot in the butt with a dart ♪
+  - [Too much] Doofenshmirtz: “Ow! Shot in the butt while covered in honey and hair? What do you know, my horoscope was right. (hugging pole) My beautiful, beautiful horoscope.”
+  - [Too much] ♪ I've been shot in the butt with a dart ♪
   - [Mild] Animal Control Guy: “(loading the darts into the tranquilizer gun) Yeah, tomato potato. Just leave it to the professionals. (he cocks the tranquilizer gun and fires at Candace)”
   - [Mild] Mrs. Johnson: “(reading the instruction manual for the tranquilizer gun) Thank you for purchasing the Hanson 3000 Family Friendly Tranquidart Air-contrast delivery system.”
 - Swearing — 2 moment(s)
-  - [Moderate] Animal Control Guy: “(loading the darts into the tranquilizer gun) Yeah, tomato potato. Just leave it to the professionals. (he cocks the tranquilizer gun and fires at Candace)”
-  - [Moderate] Mrs. Johnson: “Fear not, helpless primate! Bright banquets of the Elysian vale will soon melt every care away, or my name isn't Hawk-eye Johnson! (aims; tranquilizer gun cocks; shoots)”
+  - [Caution] Animal Control Guy: “(loading the darts into the tranquilizer gun) Yeah, tomato potato. Just leave it to the professionals. (he cocks the tranquilizer gun and fires at Candace)”
+  - [Caution] Mrs. Johnson: “Fear not, helpless primate! Bright banquets of the Elysian vale will soon melt every care away, or my name isn't Hawk-eye Johnson! (aims; tranquilizer gun cocks; shoots)”
 
 ## S3 E13 — Meatloaf Surprise
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0313.html
@@ -960,8 +960,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Candace is bitten by a bat after watching a popular vampire movie with Stacy and worries that she is becoming a vampire. Phineas and Ferb's latest gadgets lead Candace to believe that she has indeed made the change from teenager to teen vampire. Meanwhile, Dr. Doofenshmirtz plans to change the Tri-State Area into a carbon copy of Gimmelshtump so that it will be easier to take over.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Candace: “Imagine if you had to choose between a blood-thirsty undead walking corpse and a slobbering hairy lupine man-beast for a boyfriend.”
-  - [Moderate] Michael: “You'll no longer drink the blood of those you love.”
+  - [Too much] Candace: “Imagine if you had to choose between a blood-thirsty undead walking corpse and a slobbering hairy lupine man-beast for a boyfriend.”
+  - [Caution] Michael: “You'll no longer drink the blood of those you love.”
   - [Mild] Doofenshmirtz: “(Perry punches him in the stomach.”
 
 ## S3 E24 — Escape from Phineas Tower
@@ -1012,7 +1012,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After locating and retrieving the Amulet of Juatchdoon, adventuring archeologist duo Ohio (Phineas) Flynn and Rhode Island (Ferb) Fletcher set off to South America to help Damsel in Distress Isabella find the Lost Temple of Juatchadoon and her missing mother. However, Dr. Doofenshmirtz has other plans for the amulet - to awaken the evil corn colossus to give him the power to destroy the world.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Major Monogram: “If he were to get hold of it, it would be blood-sucking-Chupacabra-brain-eating-zombie-ancient-Mayan-Gods-come-to-life-weird-voodoo-curses-with-goat-heads and what not bad.”
+  - [Caution] Major Monogram: “If he were to get hold of it, it would be blood-sucking-Chupacabra-brain-eating-zombie-ancient-Mayan-Gods-come-to-life-weird-voodoo-curses-with-goat-heads and what not bad.”
 
 ## S3 E32 — Monster from the Id
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0332.html
@@ -1055,7 +1055,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Inspired by Ferb's personal anti-gravity device, Phineas thinks it would be fun to suspend trampolines all over Danville.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] That's the cue for Doofenshmirtz's out of control platform to swoop down and stab up the anti-gravity Maximus, taking it away. Candace drags her mom to the backyard at just the right moment to not see anything.
+  - [Too much] That's the cue for Doofenshmirtz's out of control platform to swoop down and stab up the anti-gravity Maximus, taking it away. Candace drags her mom to the backyard at just the right moment to not see anything.
 
 ## S3 E38 — Bully Bromance Breakup
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0338.html
@@ -1218,7 +1218,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Candace is put in charge of Phineas and Ferb just before they seize the opportunity to make the most of Danville's electricity blackout while Dr. Doofenshmirtz tries to use pity to his advantage.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] On the end of this, Doofenshmirtz shows Roger his eyes, which are sticking out of his head, and bloodshot
+  - [Caution] On the end of this, Doofenshmirtz shows Roger his eyes, which are sticking out of his head, and bloodshot
 
 ## S4 E1 — For Your Ice Only
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0401.html
@@ -1234,11 +1234,11 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Phineas and Ferb plan their own New Year's Eve ball drop, complete with a customized multi-dimensional ball, while Candace makes it her resolution to refrain from busting her brothers before the clock hits midnight. Meanwhile, Doofenshmirtz uses a Resolution-Changer-inator in his tie as he continues the never-ending attempts to take over the Tri-State Area.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”
+  - [Caution] Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”
 - Violence & injury — 1 moment(s)
   - [Mild] Doofenshmirtz: “(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, "I-I'm gonna lose weight," or, "gain a limb," or whatever, to, "I'm going to make Heinz Doofenshmirtz my leader and obey his…”
+  - [Caution] Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, "I-I'm gonna lose weight," or, "gain a limb," or whatever, to, "I'm going to make Heinz Doofenshmirtz my leader and obey his…”
 
 ## S4 E3 — Fly On the Wall
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0403.html
@@ -1267,7 +1267,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: The boys create Rutabaga-themed vehicles when Candace is chosen to be Rutabaga princess and gets to start the "Running of the Chinchillas." Across town, Doofenshmirtz plans to turn himself into a real live Kinderlumper to scare Roger into relinquishing control of the Tri-State Area over to him.
 Watch for:
 - Sexual insults — 1 moment(s)
-  - [Moderate] Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes
+  - [Caution] Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes
 
 ## S4 E7 — Sidetracked
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0407.html
@@ -1307,7 +1307,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Isabella and the Fireside Girls turn themselves into bees. Poofenplotz tries to become Queen of the World by stealing and consuming massive amounts of royal jelly.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Holly: “(sneezes) Achoo! It was murder on my allergies.”
+  - [Too much] Holly: “(sneezes) Achoo! It was murder on my allergies.”
 
 ## S4 E13 — Great Balls Of Water
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0413.html
@@ -1367,7 +1367,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Linda becomes overwhelmed for organizing a block party, she asks Phineas and Ferb for help. Norm falls in love with Rodney's female robot.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Buford: “The lenses are good, but all the blood's rushed to my head.”
+  - [Caution] Buford: “The lenses are good, but all the blood's rushed to my head.”
 
 ## S4 E21 — One Good Turn
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0421.html
@@ -1389,9 +1389,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Inspired by Candace's book club selection, The Iliad, the boys reenact the Trojan War -- but with a Phineas and Ferb twist. Meanwhile, Perry discovers that Doofenshmirtz has a major problem with throwing things away so he helps him find his De-Clutter-Inator.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Buford: “Yeah, and Helen could launch a thousand ships with her face! My favorite character was Achilles, the greatest Greek warrior of all time. He had this big fight with Hector. He was all, 'Wham! Bam! Stab! Stab! Stab!'”
-  - [Explicit] Buford stabs Baljeet to prove his point
-  - [Explicit] Buford: “Then it was all; 'Wham! Zam! Stab! Stab! Stab!' (Buford stabs Baljeet again)”
+  - [Too much] Buford: “Yeah, and Helen could launch a thousand ships with her face! My favorite character was Achilles, the greatest Greek warrior of all time. He had this big fight with Hector. He was all, 'Wham! Bam! Stab! Stab! Stab!'”
+  - [Too much] Buford stabs Baljeet to prove his point
+  - [Too much] Buford: “Then it was all; 'Wham! Zam! Stab! Stab! Stab!' (Buford stabs Baljeet again)”
 
 ## S4 E25 — Druselsteinoween
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0425.html
@@ -1399,9 +1399,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Phineas and Ferb deejay at Vanessa's Halloween party. Doofenshmirtz hunts for hidden treasure in a castle.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Phineas: “Ferb, you go get the 4:40 junction box hooked up behind the riser, and I'll go check up on the pumpkin crudités.”
+  - [Caution] Phineas: “Ferb, you go get the 4:40 junction box hooked up behind the riser, and I'll go check up on the pumpkin crudités.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] ♪ It's like waving a blood-red cape in front of a vampire bull ♪
+  - [Caution] ♪ It's like waving a blood-red cape in front of a vampire bull ♪
   - [Mild] The "lost" slipper lands in the punch. Isabella angrily comes over and takes the shoe out with the scoop. Cut to Buford and Baljeet dressed as the front and back end, respectively, of a dragon.
   - [Mild] Baljeet: “Buford, it is so hot in here! Can I please have some punch?”
 
@@ -1411,7 +1411,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Candace brings her plush Ducky to life. Doofenshmirtz encounters a Giant Floating Baby Head. Phineas, Ferb, and their friends confront a horde of evil platypuses.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Mr. Macabre: “The first story in our (blood red title appears on screen) Terrifying Tri-State Trilogy of Terror...”
+  - [Caution] Mr. Macabre: “The first story in our (blood red title appears on screen) Terrifying Tri-State Trilogy of Terror...”
   - [Mild] He puts the toothpicks in the grinder and fires it like a machine gun.
   - [Mild] Doofenshmirtz: “Ah, so you beat up a bunch of snacks.”
 - Alcohol & drugs — 1 moment(s)
@@ -1423,7 +1423,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After studying hours of horror movies, Doofenshmirtz develops a theory that enlarging small, cute animals into giant beasts will help him take over the Tri-State area. But when he puts his plan into action, he soon realizes it might be too much for him to handle. Meanwhile, Phineas and Ferb make a giant revolving foam city so they can safely perform skateboarding tricks, and Candace's tour of the Danville Space Laboratory gives her an opportunity for a high-tech bust.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Major Monogram: “Normally, that wouldn't be of any interest to us, because this is the week of the Danville Hootenanny, but it is a rather large hat and, in spite of its name, the Danville Hootenanny is a dignified affair.”
+  - [Caution] Major Monogram: “Normally, that wouldn't be of any interest to us, because this is the week of the Danville Hootenanny, but it is a rather large hat and, in spite of its name, the Danville Hootenanny is a dignified affair.”
 - Violence & injury — 1 moment(s)
   - [Mild] Candace: “Just lemme punch in my address... (The backyard and Foamtown appears onscreen.) Omigosh, I knew it! Look at that thing!!”
 
@@ -1516,7 +1516,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Isabella unintentionally admits her feelings for Phineas in a letter. Meanwhile, Doof invents an inator to help change his misfortune.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Baljeet: “(revealing his eyes are red, teary and bloodshot) I wish I would have thoughtfully created an eyewash station. Sheesh!”
+  - [Caution] Baljeet: “(revealing his eyes are red, teary and bloodshot) I wish I would have thoughtfully created an eyewash station. Sheesh!”
   - [Mild] Doofenshmirtz: “No, no, don't do that! (Perry punches Doofenshmirtz.) You never let me finish my sentences.”
 
 ## S4 E40 — Mandace
@@ -1542,7 +1542,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Doofenshmirtz teaches an Inator Method seminar.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Candace: “I'm all hooked up and ready to multitask. First on the list, wash dishes. (She dusts the table while walking. Sidenote: Don't try this at home.) Now where did we leave off?”
+  - [Caution] Candace: “I'm all hooked up and ready to multitask. First on the list, wash dishes. (She dusts the table while walking. Sidenote: Don't try this at home.) Now where did we leave off?”
 
 ## S4 E44 — Night of the Living Pharmacists
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0444.html
@@ -1550,9 +1550,9 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Doofenshmirtz's latest "inator" turns Danville citizens into contagious zombies. Agent P. and the gang try to save the town and avoid becoming zombies themselves.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Stacy: “I'm trying to hook up this new super-high-def-intelligent-multi-format-home-entertainment-DVR system.”
-  - [Moderate] Stacy: “And so begins The Grievance movie marathon. Special edition box set. Oh, yeah. "Hey, Stacy, didja hook up that whole system by yourself?" "Yeah, no biggie. Do it all the time." Heh heh. I rule.”
-  - [Moderate] Stacy: “Great! Here we go! (A Doof zombie attempts to stalk behind her, but she pulls the chord and unintentionally punches the zombie unconscious.) Nice! Hooked up a video system and a generator! I am good!”
+  - [Caution] Stacy: “I'm trying to hook up this new super-high-def-intelligent-multi-format-home-entertainment-DVR system.”
+  - [Caution] Stacy: “And so begins The Grievance movie marathon. Special edition box set. Oh, yeah. "Hey, Stacy, didja hook up that whole system by yourself?" "Yeah, no biggie. Do it all the time." Heh heh. I rule.”
+  - [Caution] Stacy: “Great! Here we go! (A Doof zombie attempts to stalk behind her, but she pulls the chord and unintentionally punches the zombie unconscious.) Nice! Hooked up a video system and a generator! I am good!”
 - Violence & injury — 1 moment(s)
   - [Mild] Doofenshmirtz: “No, I'm a scientist. I'm gonna go with him on that. I might have a water pistol lying around. I-I can go get it.”
 
@@ -1588,7 +1588,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: The kids build a giant submarine sandwich submarine while Doof steals food.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”
+  - [Caution] Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”
   - [Mild] As Doof walks up to the inator, Perry kicks him in the head. The inator fires once again. Perry goes up to a time clock and punches his card.
 
 ## S5 E4 — License to Bust
@@ -1597,8 +1597,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Candace tries to bust the boys while taking her driving test, and Doof causes chaos in traffic.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.
-  - [Moderate] Wipe down back to Perry who catches up to Doof and gets in the shotgun window.
+  - [Caution] Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.
+  - [Caution] Wipe down back to Perry who catches up to Doof and gets in the shotgun window.
 
 ## S5 E5 — Dry Another Day
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0505.html
@@ -1626,7 +1626,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: The kids build a massive bookcase that gets attacked by an army of Doof-plants.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”
+  - [Caution] Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”
 
 ## S5 E9 — A Chip to the Vet
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0509.html
@@ -1685,7 +1685,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: After Doof turns into a Mothman and eats Perry's hat, they pay a visit to the OWCA Haberdasher.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Cut to Phineas on the phone riding shotgun in Mom's car.
+  - [Caution] Cut to Phineas on the phone riding shotgun in Mom's car.
 
 ## S5 E16 — Out of Character
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0516.html
@@ -1722,7 +1722,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Candace ignores her brothers for a day in order to help her Mom with a bust of her own.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Candace buckles up and starts the car with Mom riding shotgun.
+  - [Caution] Candace buckles up and starts the car with Mom riding shotgun.
 
 ## S5 E22 — The Bad Old Days
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0522.html
@@ -1808,7 +1808,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Buford goes on a whimsical adventure with a bread bowl hot tub.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Buford: “What? No! I'm not gonna eat my friend. You're the best thing that's ever happened to me! And the third best thing that's happened to Volley-Baljeet, right? (imitating Baljeet) "My face is blood."”
+  - [Caution] Buford: “What? No! I'm not gonna eat my friend. You're the best thing that's ever happened to me! And the third best thing that's happened to Volley-Baljeet, right? (imitating Baljeet) "My face is blood."”
   - [Mild] Perry punches Doof.
 
 ## S5 E34 — Entrance Exam
@@ -1843,6 +1843,6 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Doof's fear of a vending machine apocalypse comes true while the kids have fun skipping rocks; Doof works to save Norm from the machines while the kids save the people of Danville.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Cut to Mom's car. Phineas and the others are fast asleep, but Isabella is riding shotgun and looks back on them.
+  - [Caution] Cut to Mom's car. Phineas and the others are fast asleep, but Isabella is riding shotgun and looks back on them.
   - [Mild] Doofenshmirtz: “Punch it, Perry the Platypus!”
   - [Mild] Norm punches his button and does the ultimate sacrifice as all the other machines explode.

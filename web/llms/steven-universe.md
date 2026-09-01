@@ -71,7 +71,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Steven joins an underground wrestling league with Amethyst, who's tired of Garnet and Pearl bringing her down.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!
+  - [Caution] How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!
   - [Mild] Garnet summons her gauntlets and is locked in a fist fight with Purple Puma.
 
 ## S1 E10 — Steven's Lion
@@ -129,9 +129,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Pearl's attempt to teach Steven the art of sword-fighting using a holographic version of herself goes awry when she gets injured and has to retreat into her gem to heal.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Pearl then stabs Holo-Pearl and defeats it.
-  - [Explicit] Distracted, Pearl is suddenly stabbed by Holo-Pearl "thrust".
-  - [Explicit] Holo-Pearl thrusts forwards, which Steven quickly ducks under, and stabs the toy Steven was holding.
+  - [Too much] Pearl then stabs Holo-Pearl and defeats it.
+  - [Too much] Distracted, Pearl is suddenly stabbed by Holo-Pearl "thrust".
+  - [Too much] Holo-Pearl thrusts forwards, which Steven quickly ducks under, and stabs the toy Steven was holding.
 
 ## S1 E18 — Beach Party
 URL: https://watchwiththekids.com/ep/steven-universe/0118.html
@@ -193,7 +193,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Steven befriends a magical mirror that can mysteriously communicate with him, and ends up freeing its trapped captive: Lapis Lazuli, another mysterious Gem.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Pearl grunts angrily and tosses M.C. Bear-Bear into a pile of other stabbed items.
+  - [Too much] Pearl grunts angrily and tosses M.C. Bear-Bear into a pile of other stabbed items.
   - [Mild] (Garnet manages to break free of the water-arm and punches it away. She then charges towards Steven and Lapis.
 
 ## S1 E26 — Ocean Gem
@@ -231,9 +231,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Steven, Lars and Sadie visit a beach to mend their friendship.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Lars covers his ears, feigning ignorance. Sadie grunts and stabs her spear into the water in frustration, unintentionally spearing three fishes in one go.
-  - [Explicit] Sadie! *hurls the spear into the mud pit* Use your fish-murdering skills!
-  - [Explicit] Sadie puts up the spear and the Invisible Gem Monster charges towards her again, whacking her away. Sadie charges back towards it and stabs the spear into the monster, clinging to its back.
+  - [Too much] Lars covers his ears, feigning ignorance. Sadie grunts and stabs her spear into the water in frustration, unintentionally spearing three fishes in one go.
+  - [Too much] Sadie! *hurls the spear into the mud pit* Use your fish-murdering skills!
+  - [Too much] Sadie puts up the spear and the Invisible Gem Monster charges towards her again, whacking her away. Sadie charges back towards it and stabs the spear into the monster, clinging to its back.
   - [Mild] Sadie keeps slapping at Lars.
 
 ## S1 E31 — Keep Beach City Weird
@@ -259,7 +259,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Steven imagines what garnet does before she returns.
 Watch for:
 - Violence & injury — 7 moment(s)
-  - [Moderate] Hopper the morning to you, Garnet. Nothing like some morning training to get the blood pumping. Am I right?
+  - [Caution] Hopper the morning to you, Garnet. Nothing like some morning training to get the blood pumping. Am I right?
   - [Mild] Garnet grabs the figure and proceeds to revive him by spitting water in his face and slapping his face.
   - [Mild] Garnet and Foxman begin to spar off. However, Foxman is too strong and he punches Garnet away. She collides into the others and the group is knocked off the mountain, landing on the branches of a tree.
   - [Mild] Garnet begins to struggle under the weight of her giant gauntlets and throws a single punch in the air.
@@ -336,7 +336,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Steven and the Gems encounter another droid from space.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Garnet tries to push against the robonoid, Pearl sit atop it and is stabbing it with her spear, and Amethyst has her whip wrapped around it.
+  - [Too much] Garnet tries to push against the robonoid, Pearl sit atop it and is stabbing it with her spear, and Amethyst has her whip wrapped around it.
 
 ## S1 E45 — Rose's Scabbard
 URL: https://watchwiththekids.com/ep/steven-universe/0145.html
@@ -483,7 +483,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: The friends take a trip out of town.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Well, he wasn't an axe-murderer, so that was good. What are you doing outside in your bathing suit? And where's Garnet?
+  - [Too much] Well, he wasn't an axe-murderer, so that was good. What are you doing outside in your bathing suit? And where's Garnet?
 
 ## S2 E13 — Onion Friend
 URL: https://watchwiththekids.com/ep/steven-universe/0213.html
@@ -491,8 +491,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Steven and Amethyst pay a visit to the odd world of Onion's house.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] A lady with a bulb hairstyle then emerges from behind a curtain, wielding a shotgun.
-  - [Moderate] Vidalia sets her shotgun aside, and she and Amethyst run to hug each other, laughing.
+  - [Caution] A lady with a bulb hairstyle then emerges from behind a curtain, wielding a shotgun.
+  - [Caution] Vidalia sets her shotgun aside, and she and Amethyst run to hug each other, laughing.
 
 ## S2 E14 — Historical Friction
 URL: https://watchwiththekids.com/ep/steven-universe/0214.html
@@ -730,7 +730,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Steven and Amethyst compete against each other while training with Pearl.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Meanwhile, the other Holo-Pearls continuously stabs at Steven, as he cowers under his shield.
+  - [Too much] Meanwhile, the other Holo-Pearls continuously stabs at Steven, as he cowers under his shield.
   - [Mild] We beat her!
   - [Mild] Amethyst shapeshifts into Purple Puma and charges for Steven. She punches the ground as Steven floats away, dodging her punch.
   - [Mild] Steven and Amethyst charge at each other, attempting to punch each other, but they both miss and fall to the ground.
@@ -795,7 +795,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Steven and Connie learn to focus better.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear
+  - [Too much] Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear
 
 ## S4 E5 — Future Boy Zoltron
 URL: https://watchwiththekids.com/ep/steven-universe/0405.html
@@ -876,10 +876,10 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Ronaldo sets out to find all the rock people living in Beach City!
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Well, I care so much, I think it'd be, like, deep in my heart. Or like a million tiny gems, like one crushed-up gem coursing through my blood, like- like... Bloodstone!
-  - [Moderate] Uhh, I'm sorry, Bloodfry. You're going to have to sit this one out. It's a bit dangerous.
-  - [Moderate] Don't worry, Bloodstone. I didn't get to come along at first either. We can start your training soon. Be back in a bit!
-  - [Moderate] Um... hi, Bloodstone.
+  - [Caution] Well, I care so much, I think it'd be, like, deep in my heart. Or like a million tiny gems, like one crushed-up gem coursing through my blood, like- like... Bloodstone!
+  - [Caution] Uhh, I'm sorry, Bloodfry. You're going to have to sit this one out. It's a bit dangerous.
+  - [Caution] Don't worry, Bloodstone. I didn't get to come along at first either. We can start your training soon. Be back in a bit!
+  - [Caution] Um... hi, Bloodstone.
 
 ## S4 E18 — Tiger Philanthropist
 URL: https://watchwiththekids.com/ep/steven-universe/0418.html
@@ -896,7 +896,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Steven's gem family continues to grow.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] I don't know about this. She tried to stab you in space.
+  - [Too much] I don't know about this. She tried to stab you in space.
 
 ## S4 E21 — Doug Out
 URL: https://watchwiththekids.com/ep/steven-universe/0421.html
@@ -929,7 +929,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Steven struggles to fix his mistakes.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Very nice meeting you all, and your compliance is appreciated, but!- *dodges a stab from Pearl's spear* Our job here is done, so...
+  - [Too much] Very nice meeting you all, and your compliance is appreciated, but!- *dodges a stab from Pearl's spear* Our job here is done, so...
 
 ## S5 E1 — Stuck Together
 URL: https://watchwiththekids.com/ep/steven-universe/0501.html
@@ -987,7 +987,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Steven and the Cool Kids start a band, but they have trouble finding their sound.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.
+  - [Caution] Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.
 
 ## S5 E10 — Kevin Party
 URL: https://watchwiththekids.com/ep/steven-universe/0510.html
@@ -1010,7 +1010,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Stevonnie finds themself alone on an adventure.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Stevonnie walks up to the other half of the creature and stabs it with the sword, picking it up with a determined look.
+  - [Too much] Stevonnie walks up to the other half of the creature and stabs it with the sword, picking it up with a determined look.
   - [Mild] They then clench their fist, Pink Diamond is seen through their reflection on the windows, and they punch the windows, smashing it.
 
 ## S5 E13 — Your Mother and Mine
@@ -1045,7 +1045,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Ronaldo spots something mysterious on the moon, and Steven goes to investigate.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] I sleep with a teddy bear. No judgements.
+  - [Caution] I sleep with a teddy bear. No judgements.
 
 ## S5 E18 — A Single Pale Rose
 URL: https://watchwiththekids.com/ep/steven-universe/0518.html

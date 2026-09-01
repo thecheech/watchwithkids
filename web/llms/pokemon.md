@@ -42,7 +42,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: Ash and Misty have arrived in Pewter City. A rock-seller name Flint approaches them and attempts to sell them some rocks. At the pokemon center he learns of the pokemon league and decides to start collecting badges. He heads for the gym and is easily overpowered by Gym Leader Brock. Flint, who happens to be Brock's dad, helps Ash train Pikachu and Ash heads back for a rematch.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] I have another idea. Pikachu is all hooked up.
+  - [Caution] I have another idea. Pikachu is all hooked up.
 - Violence & injury — 2 moment(s)
   - [Mild] Of course I do. As soon as Pikachu and my other Pokémon are better, I'll have no problem. Take me to this Brock's Gym. I'll beat him!
   - [Mild] You'll beat him, heh.
@@ -97,9 +97,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: On the way to Vermilion City, Ash, Misty, and Brock become the "victims" of the Squirtle Squad's pranks. The end up falling down a hole, and are even eventually captured by them. It turns out that they are working together with Team Rocket. When Pikachu is severely injured, the Squirtle let him out to go get medicine from town, but will the Squirtle keep there promise and leave Pikachu, Misty, and Brock alone while he is gone, and what is Team Rocket really up too?
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] These are ice packs we're gunning, I mean ice guns we're packing!
-  - [Moderate] It's Team Rocket! I've got to get back before they get Pikachu! Super potion, please! Oh, no, I don't need a new gun! Don't shoot me, please. I'm not
-  - [Moderate] Listen, if you Squirtles work together, you can combine your water guns to put out the fire!
+  - [Caution] These are ice packs we're gunning, I mean ice guns we're packing!
+  - [Caution] It's Team Rocket! I've got to get back before they get Pikachu! Super potion, please! Oh, no, I don't need a new gun! Don't shoot me, please. I'm not
+  - [Caution] Listen, if you Squirtles work together, you can combine your water guns to put out the fire!
 
 ## S1 E13 — Mystery at the Lighthouse
 URL: https://watchwiththekids.com/ep/pokemon/0113.html
@@ -166,7 +166,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: As the group continue on their way, they notice a group of Butterfree out over the ocean. Brock informs Ash that it is the mating season for all of the Butterfree. Ash lets his Butterfree out to try and find a mate, but can he actually come to let his Butterfree go? Meanwhile, Team Rocket comes up with a plan to get all the Butterfree.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Don't butt into Pokémon love affairs.
+  - [Caution] Don't butt into Pokémon love affairs.
 - Violence & injury — 1 moment(s)
   - [Mild] Get in a quick punch and surprise them, then while they're still weak take the lead and you'll beat them hands down.
 
@@ -250,7 +250,7 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: On the way to the Fuchsia City, Ash and the others notice a giant mansion and decide to stop and get directions. When they enter the mansion, a Venonat begins to mislead them around the various traps in the mansion, including hidden Voltorbs, collapsible walls, and invisible walls. After falling through one to many traps, the wind up in a room with ninja Aya, who challenges Ash to a battle. Ash quickly defeats her, and her older brother comes out. It turns out that they did wind up at the Fuchsia Gym after all and Aya's older brother is Koga, the Gym Leader. Now Ash finally has his chance to win his sixth badge. Meanwhile, Team Rocket plans on attacking the mansion and stealing all of the poison pokemon inside.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Golbat. Attacking with its sharp fangs, this Pokémon can drain 300 cubic centimeters of blood per bite.
+  - [Caution] Golbat. Attacking with its sharp fangs, this Pokémon can drain 300 cubic centimeters of blood per bite.
   - [Mild] Aya responds by slapping away Brock's hand, much to Ash and Misty's shock and embarrassment.
 
 ## S1 E33 — The Flame Pokémon-athon!
@@ -328,7 +328,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Ash and friends arrive in Neon Town, a flashy town where the people are very cranky ad get little to no sleep. They decide to leave the town. In the forest they come across a wild Jigglypuff. Misty decides to capture it, but the pokemon is not feeling good, so she decides not to. They help the Jigglypuff to heal its throat, and then she sings to them, forcing them to fall asleep. After they wake up, they decide to have Jigglypuff sing to Neon Town, but Team Rocket may have other plans for the little pink pokemon, and a new motto to boot.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] What's wrong? Hmm? You stupid Pokémon, you're just sleeping with your eyes open!
+  - [Caution] What's wrong? Hmm? You stupid Pokémon, you're just sleeping with your eyes open!
 
 ## S1 E46 — Attack of the Prehistoric Pokémon
 URL: https://watchwiththekids.com/ep/pokemon/0146.html
@@ -360,7 +360,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Continuing onto the next gym, Ash and friends stop by a pokemon center where Nurse Joy gives Ash a message from Professor Oak. Ash calls him, and the Professor offers to give Ash's pokedex an upgrade, which he accepts. After they leave the center, they encounter Team Rocket, who disguise themselves as eggs thieves. They mix up all their fake eggs with the egg Ash found, and they grab it an run off. However, they leave a trail of eggs behind them and Ash and friends follow them to a cabin where an all out battle ensues for the egg. During the battle, the egg hatches, revealing the pokemon Togepi. However, no one can decide who gets to keep it. To solve the problem, Ash, Misty, Brock, and Meowth decide to hold a tournament to decide Togepi's owner.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] What? You mean you sleep with that egg?
+  - [Caution] What? You mean you sleep with that egg?
 
 ## S1 E51 — Bulbasaur's Mysterious Garden
 URL: https://watchwiththekids.com/ep/pokemon/0151.html

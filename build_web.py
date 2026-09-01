@@ -13,6 +13,7 @@ from pathlib import Path
 from urllib.parse import quote_plus
 
 from catalog import dedupe_codes
+from parents_guide import pnk_content
 from shows_meta import CANON_ONLY, MOVIE_SHOWS, meta_for
 from themes import SEVERITY_TIER_HINT, SEVERITY_TIER_LABEL, severity_score, severity_tier
 
@@ -795,6 +796,7 @@ def slim(ratings: dict, show_id: str, *, with_instances: bool = False) -> dict:
                     "sex": e["sex"],
                     "language": e["language"],
                     "overall": e["overall"],
+                    "age": e.get("age"),
                     "verdict": e["verdict"],
                     "why": e.get("why"),
                     "themes": {
@@ -941,6 +943,19 @@ def episode_prose(show_name: str, ep: dict) -> str:
           <strong>{ep["overall"]}/5 — {esc(ep.get("verdict") or "")}</strong>.{summary}</p>
         <p>{theme_line} Every moment below is either a direct quote from the episode transcript or a
           short description of what happens on screen, so you can decide before you press play.</p>"""
+
+
+def parents_need_to_know_html(show_name: str, show_id: str, ep: dict) -> str:
+    pnk = pnk_content(show_name, show_id, ep)
+    return f"""
+      <section class="ep-panel pnk-panel">
+        <div class="pnk-head">
+          <h2 class="ep-section-title">Parents need to know</h2>
+          <span class="pnk-age">Age {pnk["age"]}+</span>
+        </div>
+        <p class="pnk-tagline">{esc(pnk["tagline"])}</p>
+        <p class="pnk-body">{esc(pnk["body"])}</p>
+      </section>"""
 
 
 def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
@@ -1103,6 +1118,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
         <div class="ep-prose">{episode_prose(show_name, ep)}</div>
       </section>
 
+{parents_need_to_know_html(show_name, show_id, ep)}
       <section class="ep-panel">
         <h2 class="ep-section-title">Watch for — every moment, theme by theme</h2>
         {watch_blocks_html(ep, show_name)}

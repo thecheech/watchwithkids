@@ -74,7 +74,7 @@
   let bucket = "all";
   const selectedThemes = new Set();
   const PAGE_SIZE = 10;
-  const DEFAULT_NOTES_SHOWN = 5;
+  const DEFAULT_NOTES_SHOWN = 4;
   let listPage = 1;
   let pendingEpScroll = null;
   let suppressUrlUpdate = false;
@@ -263,19 +263,17 @@
     return watchThemesOf(ep).map((theme) => ({ theme, how: "" }));
   }
 
-  /** Rank notes by harmfulness: episode overall, then count, then alphabetically */
-  function rankNotes(details, ep) {
+  /** Worst theme first: Too much → Caution → Mild, then by flag count. */
+  function rankNotes(details) {
     return [...details].sort((a, b) => {
-      // Primary: episode overall score (descending - worst first)
-      // This is already the max of violence/sex/language
-      // (implicit - same for all notes in this episode)
-      
-      // Secondary: count (descending - more instances = worse)
+      const tierA = themeSeverity(a);
+      const tierB = themeSeverity(b);
+      if (tierB !== tierA) return tierB - tierA;
+
       const countA = Number(a.count) || instancesOf(a).length || 1;
       const countB = Number(b.count) || instancesOf(b).length || 1;
       if (countB !== countA) return countB - countA;
-      
-      // Tertiary: theme name (alphabetically for stability)
+
       return a.theme.localeCompare(b.theme);
     });
   }
@@ -321,19 +319,14 @@
     }
 
     const tier = themeSeverity(d);
-    const severityBadge =
-      tier >= 3
-        ? (() => {
-            const severityLabel = SEV().label[tier] || SEV().label[3];
-            const severityClass = severityRankClass(tier);
-            return `<span class="theme-stat theme-rank ${severityClass}" aria-label="${escapeHtml(severityLabel)}"><span class="theme-stat-label">${escapeHtml(severityLabel)}</span></span>`;
-          })()
-        : "";
+    const severityLabel = SEV().label[tier] || SEV().label[2];
+    const severityClass = severityRankClass(tier);
 
     return `<li class="theme-item">
       <a href="${href}" class="theme-item-link" aria-label="View ${escapeHtml(d.theme)} details in episode">
         <span class="theme-item-head">
-          <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}${severityBadge}
+          <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}
+          <span class="theme-stat theme-rank ${severityClass}" aria-label="${escapeHtml(severityLabel)}"><span class="theme-stat-label">${escapeHtml(severityLabel)}</span></span>
         </span>${headline ? `<span class="theme-how">${headline}</span>` : ""}
       </a>
     </li>`;
@@ -585,7 +578,7 @@
   function renderCard(ep, i) {
     const bKey = bucketOf(ep);
     const details = watchDetailsOf(ep);
-    const rankedDetails = rankNotes(details, ep);
+    const rankedDetails = rankNotes(details);
     const hasMore = rankedDetails.length > DEFAULT_NOTES_SHOWN;
     const visibleDetails = hasMore ? rankedDetails.slice(0, DEFAULT_NOTES_SHOWN) : rankedDetails;
     

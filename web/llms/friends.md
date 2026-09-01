@@ -9,17 +9,17 @@ URL: https://watchwiththekids.com/ep/friends/0101.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Opening banter: Monica says the dinner is 'not having sex.'
-  - [Moderate] Ross: “I honestly don't know if I'm hungry or horny.”
-  - [Moderate] Frannie: “You had sex, didn't you?”
+  - [Caution] Opening banter: Monica says the dinner is 'not having sex.'
+  - [Caution] Ross: “I honestly don't know if I'm hungry or horny.”
+  - [Caution] Frannie: “You had sex, didn't you?”
   - [Mild] Monica: “Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.”
   - [Mild] Paul: “Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform. (Monica takes a sip of her drink.) ...Sexually.”
   - [Mild] Frannie: “Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex! So? Who?”
 - Nudity & bodies — 2 moment(s)
-  - [Moderate] Chandler's naked cafeteria dream / phone-in-crotch joke.
+  - [Caution] Chandler's naked cafeteria dream / phone-in-crotch joke.
   - [Mild] Chandler: “Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody.”
+  - [Too much] Phoebe: “My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Ross: “(clutching a beer can and sniffing) This was Carol's favorite beer. She always drank it out of the can, I should have known.”
 - Homophobic jokes — 1 moment(s)
@@ -30,12 +30,12 @@ URL: https://watchwiththekids.com/ep/friends/0102.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Ross: “Oh, 's'funny, really? Um, I don't remember you making any sperm.”
+  - [Caution] Ross: “Oh, 's'funny, really? Um, I don't remember you making any sperm.”
   - [Mild] Joey: “(pause)....Are we still talking about sex?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “Ugly Naked Guy got a Thighmaster!”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Rachel and Barry's leftover wedding/affair context.
+  - [Caution] Rachel and Barry's leftover wedding/affair context.
 - Violence & injury — 1 moment(s)
   - [Mild] Ross: “'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?”
 - Alcohol & drugs — 1 moment(s)
@@ -54,9 +54,9 @@ URL: https://watchwiththekids.com/ep/friends/0104.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Chandler: “I mean, that guy with the toe thing? Who's he sleeping with?”
-  - [Moderate] Phoebe: “Oh! Oh! Oh! Okay, fine, fine. Now I don't feel so bad about sleeping with Jason Hurley.”
-  - [Moderate] Joey: “Man. Can you believe he's only had sex with one woman?”
+  - [Caution] Chandler: “I mean, that guy with the toe thing? Who's he sleeping with?”
+  - [Caution] Phoebe: “Oh! Oh! Oh! Okay, fine, fine. Now I don't feel so bad about sleeping with Jason Hurley.”
+  - [Caution] Joey: “Man. Can you believe he's only had sex with one woman?”
   - [Mild] Ross: “(Joey is puzzled.) Sex.”
   - [Mild] Monica: “White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?”
   - [Mild] Rachel: “Oh please, they're having sex.”
@@ -66,9 +66,9 @@ Watch for:
   - [Mild] Chandler: “(trying to stop Ross leaving) C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy, (Pretending to punch him in the stomach.) Huh? Huh? Huh?”
   - [Mild] Monica: “Hey, Rach. How was it with your friends? (She and Phoebe scream.) Okay! How would you like some Tiki Death Punch? (She pours the contents of the blender into some glasses.)”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Joey: “Probably kill myself!”
+  - [Too much] Joey: “Probably kill myself!”
 - Swearing — 2 moment(s)
-  - [Moderate] Phoebe: “Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- (Yelling) Hey, that's not for you, bitch! (Phoebe covers her mouth with her hand walks away from the window.)”
+  - [Caution] Phoebe: “Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- (Yelling) Hey, that's not for you, bitch! (Phoebe covers her mouth with her hand walks away from the window.)”
   - [Mild] Joey: “The hell with hockey, let's all do that!”
 
 ## S1 E5 — The One With the East German Laundry Detergent
@@ -76,9 +76,9 @@ URL: https://watchwiththekids.com/ep/friends/0105.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Explicit] Ross: “Multiple orgasms!”
-  - [Moderate] Rachel: “Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.”
-  - [Moderate] Monica: “Wow. My brother never even told me when he lost his virginity.”
+  - [Too much] Ross: “Multiple orgasms!”
+  - [Caution] Rachel: “Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.”
+  - [Caution] Monica: “Wow. My brother never even told me when he lost his virginity.”
   - [Mild] Joey: “Yeah, but it's not gonna last. She's too much for me in bed. Sexually.”
 - Nudity & bodies — 5 moment(s)
   - [Mild] Ross: “Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve.”
@@ -95,12 +95,12 @@ URL: https://watchwiththekids.com/ep/friends/0106.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Joey sleeps with an actress then discovers she's married.
+  - [Caution] Joey sleeps with an actress then discovers she's married.
   - [Mild] Aurora: “I suppose mainly sexual.”
   - [Mild] Chandler: “Well, y'know, I had some trouble with it at first too, but the way I look at it is, I get all the good stuff: all the fun, all the talking, all the sex; and none of the responsibility.”
   - [Mild] Ross: “Look at it this way: you dumped her. Right? I mean, this woman was unbelievably sexy, and beautiful, intelligent, unattainable... Tell me why you did this again?”
 - Nudity & bodies — 2 moment(s)
-  - [Moderate] Joey's underwear modeling / 'day of the butt' body-objectifying plot.
+  - [Caution] Joey's underwear modeling / 'day of the butt' body-objectifying plot.
   - [Mild] Joey: “Hard to tell, I was naked.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Chandler: “and I've just wasted about thirty-five of them talking to you people, so, uh..”
@@ -122,13 +122,13 @@ URL: https://watchwiththekids.com/ep/friends/0108.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Ross: “Yes, yes, fine, that is my penis. Can we be grown-ups now?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Ross: “Yes, yes, fine, that is my penis. Can we be grown-ups now?”
   - [Mild] Rachel: “Yeah, but then you spent Phoebe's entire birthday party talking to my breasts, so then I figured maybe not.”
   - [Mild] Rachel: “Hey, who's this little naked guy?”
   - [Mild] Ross: “That little naked guy would be me.”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] They shake hands. Cut to Ross emerging from a hallway, grinning inanely. He is obviously very stoned
+  - [Caution] They shake hands. Cut to Ross emerging from a hallway, grinning inanely. He is obviously very stoned
   - [Mild] Mrs. Geller: “More wine, dear?”
 
 ## S1 E9 — The One Where Underdog Gets Away
@@ -136,7 +136,7 @@ URL: https://watchwiththekids.com/ep/friends/0109.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Susan: “But um, we just refer to you as Bobo the Sperm Guy.”
+  - [Caution] Susan: “But um, we just refer to you as Bobo the Sperm Guy.”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Ross: “(singin) Hey, hey, I'm your daddy. I'm the one without any breasts.”
   - [Mild] Phoebe: “Ugly Naked Guy's taking his turkey out of the oven. Oh my god. He's not alone. Ugly Naked Guy's having Thanksgiving dinner with Ugly Naked Gal.”
@@ -147,14 +147,14 @@ URL: https://watchwiththekids.com/ep/friends/0110.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey: “I dunno. Some fat guy's sleeping with the store manager. He's not even jolly, it's all political.”
+  - [Caution] Joey: “I dunno. Some fat guy's sleeping with the store manager. He's not even jolly, it's all political.”
   - [Mild] Max: “Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!' (Storms out)”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.”
+  - [Too much] Phoebe: “So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.”
 - Swearing — 2 moment(s)
-  - [Moderate] Rachel: “...I think that bitch cracked my tooth.”
+  - [Caution] Rachel: “...I think that bitch cracked my tooth.”
   - [Mild] David: “Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?”
 
 ## S1 E11 — The One With Mrs. Bing
@@ -162,15 +162,15 @@ URL: https://watchwiththekids.com/ep/friends/0111.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Mrs. Bing: “(on TV) Oh no, I am a fabulous mom! I bought my son his first condoms.”
+  - [Caution] Mrs. Bing: “(on TV) Oh no, I am a fabulous mom! I bought my son his first condoms.”
   - [Mild] Mrs. Bing: “No, really, c'mon. You're smart, you're sexy...”
   - [Mild] Ross: “I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Ross: “The girl on the cover with her nipples showing?”
-  - [Explicit] Ross: “The guy on the cover with his nipples showing?”
+  - [Too much] Ross: “The girl on the cover with her nipples showing?”
+  - [Too much] Ross: “The guy on the cover with his nipples showing?”
   - [Mild] Phoebe: “Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.”
 - Swearing — 3 moment(s)
-  - [Moderate] Chandler: “Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'”
+  - [Caution] Chandler: “Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'”
   - [Mild] Chandler: “(To Ross) I can't believe this! What the hell were you thinking?”
   - [Mild] Chandler: “Y'know, of all my friends, no-one knows the crap I go through with my mom more than you.”
 - Alcohol & drugs — 3 moment(s)
@@ -183,7 +183,7 @@ URL: https://watchwiththekids.com/ep/friends/0112.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Heavy dating/sex-adjacent relationship comedy throughout.
+  - [Caution] Heavy dating/sex-adjacent relationship comedy throughout.
   - [Mild] Carol: “Don't you want to know about the sex?”
   - [Mild] Ross: “(chuckles nervously) The sex? (chuckles) Um, I'm having enough trouble with the image of you and Susan together, when you throw in Tanya (miming washing hair, that's the best I could think of), yaw...”
 - Nudity & bodies — 3 moment(s)
@@ -191,7 +191,7 @@ Watch for:
   - [Mild] Phoebe: “Um, that's really your decision, I mean, some people prefer, you know, to take off...oh whoops! You're being naked!”
   - [Mild] Monica: “…Rachel gesturing with hands in front of her chest), Ok, that is either, "How could you?" or, "Enormous breasts!" Here he comes!”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Rachel finds Barry and Mindy in her bed (affair reveal).
+  - [Caution] Rachel finds Barry and Mindy in her bed (affair reveal).
 - Violence & injury — 1 moment(s)
   - [Mild] Ross: “No problem, ok, mmmwa (kisses Carol) oh, mmmwa (kisses Carol's stomach, then punches Susan's shoulder) Susan... (Ross leaves.)”
 
@@ -200,29 +200,29 @@ URL: https://watchwiththekids.com/ep/friends/0113.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Joey: “That's right, mister, and I don't care how old you are, as long as you're under my roof you're gonna live by my rules. And that means no sleeping with your girlfriend.”
+  - [Caution] Joey: “That's right, mister, and I don't care how old you are, as long as you're under my roof you're gonna live by my rules. And that means no sleeping with your girlfriend.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Roger: “Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me!”
+  - [Too much] Roger: “Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me!”
   - [Mild] Phoebe: “Yeah, 'cause hello, these are not her boobies, these are her breasts.”
   - [Mild] Rachel: “(Notices Chandler) Why can't you stop staring at my breasts?”
   - [Mild] Joey: “Just trying to get comfortable. I can't sleep in my underwear.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Scene: Monica and Rachel's, Joey is lamenting to everyone about hid dad's affair.
-  - [Moderate] Joey: “He's gonna keep cheating on my ma like she wanted, she's gonna keep pretending she doesn't know even though she does, and my…”
+  - [Caution] Scene: Monica and Rachel's, Joey is lamenting to everyone about hid dad's affair.
+  - [Caution] Joey: “He's gonna keep cheating on my ma like she wanted, she's gonna keep pretending she doesn't know even though she does, and my…”
 
 ## S1 E14 — The One With the Candy Hearts
 URL: https://watchwiththekids.com/ep/friends/0114.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Rachel: “Pete the Weeper? Remember that guy who used to cry every time we had sex. (imitating) "Was it good for you?"”
+  - [Caution] Rachel: “Pete the Weeper? Remember that guy who used to cry every time we had sex. (imitating) "Was it good for you?"”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Phoebe: “Or...or we can chant and dance around naked, you know, with sticks.”
   - [Mild] Monica: “Look, here's a picture of Scotty Jared naked.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Joey: “(Looking at himself in the reflection on a knife) How do I look?”
+  - [Caution] Joey: “(Looking at himself in the reflection on a knife) How do I look?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Chandler: “No, it's suicide. The man's got an egg.”
+  - [Too much] Chandler: “No, it's suicide. The man's got an egg.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Monica: “There's more beer, right?”
   - [Mild] Chandler: “You got it. Good woman! (the waiter turns around, it's a man) Could we get a bottle of your most overpriced champagne?”
@@ -233,12 +233,12 @@ URL: https://watchwiththekids.com/ep/friends/0115.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Chandler: “Can you see my nipples through this shirt?”
-  - [Explicit] Rachel: “(comes up and rubs him on the chest) Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!”
+  - [Too much] Chandler: “Can you see my nipples through this shirt?”
+  - [Too much] Rachel: “(comes up and rubs him on the chest) Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!”
 - Alcohol & drugs — 4 moment(s)
-  - [Moderate] The One With the Stoned Guy
-  - [Moderate] Phoebe: “Smoked a joint? You know, lit a bone? Weed? Hemp? Ganja?”
-  - [Moderate] Rachel tries to get Monica's attention to tell her Steve is stoned.
+  - [Caution] The One With the Stoned Guy
+  - [Caution] Phoebe: “Smoked a joint? You know, lit a bone? Weed? Hemp? Ganja?”
+  - [Caution] Rachel tries to get Monica's attention to tell her Steve is stoned.
   - [Mild] Rachel: “Let me, let me get you some wine!”
 
 ## S1 E16 — The One With Two Parts, part 1
@@ -246,11 +246,11 @@ URL: https://watchwiththekids.com/ep/friends/0116.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Ross: “Okay, I’m gonna play my sperm card one more time.”
+  - [Caution] Ross: “Okay, I’m gonna play my sperm card one more time.”
   - [Mild] Joey: “You meant sex, right?”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Teacher: “Good. Now imagine your vagina is opening like a flower.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Teacher: “Good. Now imagine your vagina is opening like a flower.”
 - Violence & injury — 2 moment(s)
   - [Mild] People start getting up. Ross grabs Carol’s doll to hold it upside down like a football, slapping it with his other hand.
   - [Mild] Monica points the remote at her TV, and punches out a key combination from the book, but the dreaded SAP logo remains and Spanish still comes forth.
@@ -260,8 +260,8 @@ URL: https://watchwiththekids.com/ep/friends/0117.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Monica: “(as Rachel) Remember back in freshman year? (Talking fast before Rachel can catch her) Well, Billy Dreskin and I had sex on your bed.”
-  - [Moderate] Rachel: “Daddy, why whyyy would I sleep with Billy Dreskin?”
+  - [Caution] Monica: “(as Rachel) Remember back in freshman year? (Talking fast before Rachel can catch her) Well, Billy Dreskin and I had sex on your bed.”
+  - [Caution] Rachel: “Daddy, why whyyy would I sleep with Billy Dreskin?”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Rachel: “(as Monica) I use my breasts to get other people's attention.”
   - [Mild] Rachel: “�Mira, mira, el viejo desnudo est� haciendo el hula hoop! (Look, look, Ugly Naked Guy is doing the hula!)”
@@ -278,10 +278,10 @@ URL: https://watchwiththekids.com/ep/friends/0118.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Rachel: “Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women. (hands over her money)”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Rachel: “Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women. (hands over her money)”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. (the girls look at him, confused) Oh, I'm out.”
+  - [Too much] Joey: “Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. (the girls look at him, confused) Oh, I'm out.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Monica and Phoebe get up and start celebrating in the kitchen, pouring wine and singing. Rachel, shocked, goes to join them.
 
@@ -294,16 +294,16 @@ Watch for:
   - [Mild] Joey: “I dunno, I loved high school. Y'know? It was just four years of parties and dating and sex.”
   - [Mild] Chandler: “Yeah, well I went to boarding school with four hundred boys. Any sex I had would've involved a major lifestyle choice.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Ross: “Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Ross: “Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?”
 - Violence & injury — 4 moment(s)
-  - [Explicit] Ross: “Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you.”
-  - [Moderate] Phoebe: “I-I'm sorry it wasn't one of those movies with, like, y'know, guns and bombs and, like, buses going really fast...”
-  - [Moderate] Luisa: “Step aside, ladies! (She loads a gun)”
-  - [Moderate] In slow motion we see Phoebe look at Marcel, then at Luisa. She jumps toward Marcel just as Luisa fires the gun.
+  - [Too much] Ross: “Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you.”
+  - [Caution] Phoebe: “I-I'm sorry it wasn't one of those movies with, like, y'know, guns and bombs and, like, buses going really fast...”
+  - [Caution] Luisa: “Step aside, ladies! (She loads a gun)”
+  - [Caution] In slow motion we see Phoebe look at Marcel, then at Luisa. She jumps toward Marcel just as Luisa fires the gun.
 - Swearing — 2 moment(s)
-  - [Moderate] Luisa: “Ah, it's not so much you, you were fat, you had your own problems. (To Rachel) But you? What a bitch!”
-  - [Moderate] Ross: “(To Rachel) You had to be a bitch in high school, you couldn't've been fat.”
+  - [Caution] Luisa: “Ah, it's not so much you, you were fat, you had your own problems. (To Rachel) But you? What a bitch!”
+  - [Caution] Ross: “(To Rachel) You had to be a bitch in high school, you couldn't've been fat.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Ross: “Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.”
   - [Mild] Rachel: “Great! It went great. Really great. Hey, is that wine?”
@@ -313,7 +313,7 @@ URL: https://watchwiththekids.com/ep/friends/0120.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Monica: “You had sex in his chair?!... I said that a little too loudly, didn't I?”
+  - [Caution] Monica: “You had sex in his chair?!... I said that a little too loudly, didn't I?”
   - [Mild] Rachel: “(in a low voice) We ended up having sex in his chair.”
   - [Mild] Phoebe: “Sex in his chair.”
 - Nudity & bodies — 4 moment(s)
@@ -341,9 +341,9 @@ URL: https://watchwiththekids.com/ep/friends/0122.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Ross: “I can't belive you two had sex in her dream.”
-  - [Moderate] Monica: “Are you a virgin?”
-  - [Moderate] Monica: “What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial.”
+  - [Caution] Ross: “I can't belive you two had sex in her dream.”
+  - [Caution] Monica: “Are you a virgin?”
+  - [Caution] Monica: “What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial.”
   - [Mild] Young Ethan: “We can talk, we make each other laugh, and the sex.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “Well, my secretary is gonna be out for a couple of weeks. She is having one of her boobs redused. (Ross looks at her.) It's a whole big boob story.”
@@ -358,18 +358,18 @@ URL: https://watchwiththekids.com/ep/friends/0123.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Ross: “I got it! Hey, you get to sleep with her, I get the cramps.”
+  - [Caution] Ross: “I got it! Hey, you get to sleep with her, I get the cramps.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Chandler: “Somebody wanna help me, tryin' to rip out my heart. (they pull her hand off of him) Uh, that's great. (looking around) Anybody seen a nipple?”
+  - [Too much] Chandler: “Somebody wanna help me, tryin' to rip out my heart. (they pull her hand off of him) Uh, that's great. (looking around) Anybody seen a nipple?”
 
 ## S1 E24 — The One Where Rachel Finds Out
 URL: https://watchwiththekids.com/ep/friends/0124.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Joey: “Well, the tough thing is, she really wants to have sex with me.”
+  - [Caution] Joey: “Well, the tough thing is, she really wants to have sex with me.”
 - Swearing — 3 moment(s)
-  - [Moderate] Chandler: “Crazy bitch.”
+  - [Caution] Chandler: “Crazy bitch.”
   - [Mild] Monica: “Then why the hell are you dumping my brother?!?”
   - [Mild] Joey: “Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something.”
 - Alcohol & drugs — 1 moment(s)
@@ -380,7 +380,7 @@ URL: https://watchwiththekids.com/ep/friends/0201.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Phoebe: “Oh, ok. How, it's been so long since you've had sex, you're wondering if they've changed it?”
+  - [Caution] Phoebe: “Oh, ok. How, it's been so long since you've had sex, you're wondering if they've changed it?”
   - [Mild] Ross: “You deserve to be with someone who appreciates you, and who gets how funny and sweet and amazing, and adorable, and sexy you are, you know?”
 
 ## S2 E2 — The One With the Breast Milk
@@ -388,21 +388,21 @@ URL: https://watchwiththekids.com/ep/friends/0202.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 6 moment(s)
-  - [Moderate] Breastfeeding / milk jokes around Carol and Susan's baby.
+  - [Caution] Breastfeeding / milk jokes around Carol and Susan's baby.
   - [Mild] Carol: “I guess so. (Carol starts to breast feed Ben.)”
   - [Mild] Chandler: “Carol? I was just wondering if Joey could ask you a question about breast-feeding?”
   - [Mild] Phoebe: “Yes, and then I realized I'm against that, and uh, so then we bought some, (sees Monica pointing at her chest) uh, boobs.”
   - [Mild] Rachel: “You bought boobs?”
   - [Mild] Phoebe: “(Monica is yanking on her bra strap) Bras! We bought bras! We bought bras.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Chandler: “All right. Now go see Miss Kitty and she'll fix you up with a nice hooker.”
+  - [Too much] Chandler: “All right. Now go see Miss Kitty and she'll fix you up with a nice hooker.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Chandler: “Come on, you're going to Bloomingdale's with Julie? That's like cheating on Rachel in her house of worship.”
+  - [Caution] Chandler: “Come on, you're going to Bloomingdale's with Julie? That's like cheating on Rachel in her house of worship.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Rachel: “Oh, I'm sorry, did my back hurt your knife?”
+  - [Caution] Rachel: “Oh, I'm sorry, did my back hurt your knife?”
 - Swearing — 4 moment(s)
-  - [Moderate] Rachel: “(to Julie) Thank you. (under her breath to Chandler) What a bitch.”
-  - [Moderate] Rachel: “Bye. (After Julie exits.) What a manipulative bitch.”
+  - [Caution] Rachel: “(to Julie) Thank you. (under her breath to Chandler) What a bitch.”
+  - [Caution] Rachel: “Bye. (After Julie exits.) What a manipulative bitch.”
   - [Mild] Chandler: “You're damn right I'm right. I say you show this guy what you're made of. I say you stand your ground. I say you show him that you are the baddest hombre west of the lingerie.”
   - [Mild] Store Guy: “Oh my god, Todd! What the hell did you do?”
 
@@ -411,9 +411,9 @@ URL: https://watchwiththekids.com/ep/friends/0203.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] ROSS: “Is there blood coming out of my ears?”
+  - [Caution] ROSS: “Is there blood coming out of my ears?”
 - Swearing — 5 moment(s)
-  - [Moderate] CHANDLER: “Of course I am. I reject anyone who's crazy enough to actually go out with me, and then I bitch about the fact that there aren't any great women out there.”
+  - [Caution] CHANDLER: “Of course I am. I reject anyone who's crazy enough to actually go out with me, and then I bitch about the fact that there aren't any great women out there.”
   - [Mild] CHANDLER: “Uh-Oh. It's Isaac Newton, and he's pissed.”
   - [Mild] RACHEL: “Have you ever seen so much crap?”
   - [Mild] CHANDLER: “Actually, I think this apartment sullies the good name of crap”
@@ -424,23 +424,23 @@ URL: https://watchwiththekids.com/ep/friends/0204.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Dialogue includes porn-video and explicit sex references.
-  - [Moderate] MONICA: “Look honey, I wanted you to hook up with Ross as much as you did. But he's with her now and you're just gonna have to get over it.”
-  - [Moderate] RACHEL: “Let me tell you something. As a woman there is nothing sexier than a man who does not want to have sex.”
-  - [Moderate] RACHEL: “Oh yeah, I don't care how much she tells you she wants it, I don't care if begs, she pleads, she tells you she, she's gonna have sex with, with another man. That just means it's working.”
+  - [Caution] Dialogue includes porn-video and explicit sex references.
+  - [Caution] MONICA: “Look honey, I wanted you to hook up with Ross as much as you did. But he's with her now and you're just gonna have to get over it.”
+  - [Caution] RACHEL: “Let me tell you something. As a woman there is nothing sexier than a man who does not want to have sex.”
+  - [Caution] RACHEL: “Oh yeah, I don't care how much she tells you she wants it, I don't care if begs, she pleads, she tells you she, she's gonna have sex with, with another man. That just means it's working.”
   - [Mild] JOEY: “But at the last minute I couldn't go through with it so they let me be the guy who comes in to fix the copier but can't 'cause there's people havin' sex on it.”
   - [Mild] ROSS: “OK, what's the longest you've been in the relationship before ha, have, having the sex?”
   - [Mild] RACHEL: “I think it's sexy.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] MONICA: “Oh it's not big, not at all, you know, kinda the same lines as, say, oh I don't know, having a third nipple.”
-  - [Explicit] PHOEBE: “You have a third nipple?”
-  - [Explicit] RACHEL: “Oh as, as opposed to your other multi-functional nipples?”
+  - [Too much] MONICA: “Oh it's not big, not at all, you know, kinda the same lines as, say, oh I don't know, having a third nipple.”
+  - [Too much] PHOEBE: “You have a third nipple?”
+  - [Too much] RACHEL: “Oh as, as opposed to your other multi-functional nipples?”
   - [Mild] PHOEBE: “Oh, I don't know. Umm, how about the fact that the underwear out there on the telephone pole is yours from when you were having sex with Fun Bobby out on the terrace.”
 - Porn / strippers / sex work — 4 moment(s)
-  - [Moderate] Dialogue includes porn-video and explicit sex references.
-  - [Explicit] CHANDLER: “Joey was in a porno movie.”
-  - [Explicit] ROSS: “You were in a porno?”
-  - [Explicit] video starts with the cheesy porn disco music
+  - [Caution] Dialogue includes porn-video and explicit sex references.
+  - [Too much] CHANDLER: “Joey was in a porno movie.”
+  - [Too much] ROSS: “You were in a porno?”
+  - [Too much] video starts with the cheesy porn disco music
 - Alcohol & drugs — 1 moment(s)
   - [Mild] DUNCAN: “Well, I've never told you this but, there were one or two times, back in college, when I'd get really drunk, go to a straight bar and wake up with a woman next to me.”
 
@@ -449,10 +449,10 @@ URL: https://watchwiththekids.com/ep/friends/0205.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] JADE: “I don't know if you're still at this number, but I was just thinking about us, and how great it was, and, well, I know it's been three years, but, I was kinda hoping we could hook up again.”
-  - [Moderate] CHANDLER: “Ok, pure evil, horny and alone. I've done this.”
-  - [Moderate] CHANDLER: “Yeah. Just let me grab my jacket and tell you I had sex today.”
-  - [Moderate] ROSS: “Whoa! You had sex today?”
+  - [Caution] JADE: “I don't know if you're still at this number, but I was just thinking about us, and how great it was, and, well, I know it's been three years, but, I was kinda hoping we could hook up again.”
+  - [Caution] CHANDLER: “Ok, pure evil, horny and alone. I've done this.”
+  - [Caution] CHANDLER: “Yeah. Just let me grab my jacket and tell you I had sex today.”
+  - [Caution] ROSS: “Whoa! You had sex today?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] JADE: “I got a little drunk...and naked.”
 
@@ -461,22 +461,22 @@ URL: https://watchwiththekids.com/ep/friends/0206.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] PHOEBE: “But then, "Smelly Cat", I got 25 cents and a condom.”
-  - [Moderate] KID: “Hi. Uh, did I accidentally drop a condom in your case? It's kind of an emergency.”
+  - [Caution] PHOEBE: “But then, "Smelly Cat", I got 25 cents and a condom.”
+  - [Caution] KID: “Hi. Uh, did I accidentally drop a condom in your case? It's kind of an emergency.”
   - [Mild] CHANDLER: “That's a good plan, Joe. Next time we wanna pick up women, we should just go to the park and make out. Taxi, taxi!”
 - Violence & injury — 2 moment(s)
-  - [Moderate] ROSS: “Well, there's no way I'm gonna get a shot. Maybe they can take the needle and thquirt it into my mouth, you know, like a thquirt gun.”
-  - [Moderate] ROSS: “Did you tell him about my thquirt gun idea?”
+  - [Caution] ROSS: “Well, there's no way I'm gonna get a shot. Maybe they can take the needle and thquirt it into my mouth, you know, like a thquirt gun.”
+  - [Caution] ROSS: “Did you tell him about my thquirt gun idea?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] PHOEBE: “You know, I don't know, when I sang "Su-Su-Suicide", I got a dollar seventy-five.”
+  - [Too much] PHOEBE: “You know, I don't know, when I sang "Su-Su-Suicide", I got a dollar seventy-five.”
 
 ## S2 E7 — The One Where Ross Finds Out
 URL: https://watchwiththekids.com/ep/friends/0207.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] PHOE: “Why Scott doesn't want to sleep with me. It's 'cause I'm not sexy enough.”
-  - [Moderate] JOEY: “Let me get this straight. He got you to beg to sleep with him, he got you to say he never has to call you again, and he got you thinking this was a great idea.”
+  - [Caution] PHOE: “Why Scott doesn't want to sleep with me. It's 'cause I'm not sexy enough.”
+  - [Caution] JOEY: “Let me get this straight. He got you to beg to sleep with him, he got you to say he never has to call you again, and he got you thinking this was a great idea.”
   - [Mild] PHOE: “He said that, um, he understands how sex can be like, a very emotional thing for a woman and he was just afraid that I was gonna get all, y'know…”
   - [Mild] PHOE: “Yeah, so I said, "OK, relax please," y'know, I mean, sex can be just about two people right there in the moment, y'know, it's, if he wants to see me again he can call and if not, that's fine too.”
 - Nudity & bodies — 2 moment(s)
@@ -495,11 +495,11 @@ URL: https://watchwiththekids.com/ep/friends/0208.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Explicit] JOEY: “Ross, listen. I got two words for you. Threesome.”
+  - [Too much] JOEY: “Ross, listen. I got two words for you. Threesome.”
   - [Mild] PHOE: “Hey, oh, so, um...how'd you make out last night?”
   - [Mild] CHAN: “Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
   - [Mild] JOEY: “[reading over her shoulder] Wait, here's one. Uh, would you be willing to cook naked?”
   - [Mild] MNCA: “There's an ad for a naked chef?”
 - Alcohol & drugs — 2 moment(s)
@@ -511,9 +511,9 @@ URL: https://watchwiththekids.com/ep/friends/0209.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Chandler and Janice sex life jokes.
-  - [Moderate] JOEY: “So anyway, I'm trying to get my boss's ex-wife to sleep with me. . .”
-  - [Moderate] Chandler and Joey give Monica a pack of condoms.
+  - [Caution] Chandler and Janice sex life jokes.
+  - [Caution] JOEY: “So anyway, I'm trying to get my boss's ex-wife to sleep with me. . .”
+  - [Caution] Chandler and Joey give Monica a pack of condoms.
 - Nudity & bodies — 1 moment(s)
   - [Mild] PHOEBE: “Ooh, ooh, ooh, ooh, ooh. Ugly Naked Guy is decorating his tree. Oh my God, you should see the size of his Christmas Balls.”
 - Alcohol & drugs — 1 moment(s)
@@ -524,9 +524,9 @@ URL: https://watchwiththekids.com/ep/friends/0210.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] ESTL: “[hangs up] [to Joey] Yeah, you're gonna have to sleep with her.”
-  - [Moderate] JOEY: “Yeah, if I'm willing to sleep with the casting lady.”
-  - [Moderate] CHAN: “Y'know, maybe this isn't such a big deal. Y'know, I mean, the way that I see it is you get a great job and you get to have sex. Y'know, I mean, throw in a tree and a fat guy and you've got Christmas.”
+  - [Caution] ESTL: “[hangs up] [to Joey] Yeah, you're gonna have to sleep with her.”
+  - [Caution] JOEY: “Yeah, if I'm willing to sleep with the casting lady.”
+  - [Caution] CHAN: “Y'know, maybe this isn't such a big deal. Y'know, I mean, the way that I see it is you get a great job and you get to have sex. Y'know, I mean, throw in a tree and a fat guy and you've got Christmas.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] PHOE: “Although, you know what? You might want to consider wearing underwear next time. Yeah, cause when you sat down on your throne you could kind of see your... royal subject.”
 - Alcohol & drugs — 3 moment(s)
@@ -539,17 +539,17 @@ URL: https://watchwiththekids.com/ep/friends/0211.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] MR A: “Oh, wait, I remember, she also said she wanted to sleep with me one last time.”
+  - [Caution] MR A: “Oh, wait, I remember, she also said she wanted to sleep with me one last time.”
   - [Mild] MRS GREEN: “That's fine. I never did it. I just thought I might. So, what's new in sex?”
   - [Mild] RACHEL: “Oh! What's new in sex?”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] MONICA: “Why? It's not like I'm putting little nipples on them.”
-  - [Explicit] CHANDLER: “[to the woman who just rejected him] All right look. Penis schmenis. We're all people. [She walks away again.]”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] MONICA: “Why? It's not like I'm putting little nipples on them.”
+  - [Too much] CHANDLER: “[to the woman who just rejected him] All right look. Penis schmenis. We're all people. [She walks away again.]”
   - [Mild] MRS GREEN: “Oh my god, there's an unattractive nude man playing the cello.”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] MRS GREEN: “This is so much fun, just the girls. You know what we should do? Does anybody have any marijuana?”
-  - [Moderate] MONICA: “All right, look, nobody's smoking pot around all this food.”
+  - [Caution] MRS GREEN: “This is so much fun, just the girls. You know what we should do? Does anybody have any marijuana?”
+  - [Caution] MONICA: “All right, look, nobody's smoking pot around all this food.”
   - [Mild] ROSS: “Oh, I believe I had the half-drunk cappuccino with the lipstick on the rim.”
 
 ## S2 E12-13 — The One After the Superbowl
@@ -557,16 +557,16 @@ URL: https://watchwiththekids.com/ep/friends/0212-0213.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Explicit] SUSIE: “OK, well then who was the kid that got caught masturbating?”
-  - [Explicit] VAN DAMME: “'Cause Rachel told me uh, you were dying to have a threesome with me and uh, Drew Barrymore. By the way, Drew has some groundrules and...”
-  - [Moderate] when you'll want to sleep with people
-  - [Moderate] RACHEL: “Yes, yes it is true. And I know this because, because he pretended to be Drake to, to sleep with me. [throws water in his face]”
-  - [Moderate] JOEY: “Yeah, unless you hook up with a bunch of pigeons.”
+  - [Too much] SUSIE: “OK, well then who was the kid that got caught masturbating?”
+  - [Too much] VAN DAMME: “'Cause Rachel told me uh, you were dying to have a threesome with me and uh, Drew Barrymore. By the way, Drew has some groundrules and...”
+  - [Caution] when you'll want to sleep with people
+  - [Caution] RACHEL: “Yes, yes it is true. And I know this because, because he pretended to be Drake to, to sleep with me. [throws water in his face]”
+  - [Caution] JOEY: “Yeah, unless you hook up with a bunch of pigeons.”
   - [Mild] JOEY: “Uh, I get Leslie out of the coma and then we make out.”
   - [Mild] SUSIE: “Well I was thinking it would be um, kind of sexy if you wore mine tonight, at dinner.”
 - Nudity & bodies — 8 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] CHANDLER: “What, you never look down in the shower? Oh please. I'm not allowed to make one joke in the monkey-is-penis genre?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] CHANDLER: “What, you never look down in the shower? Oh please. I'm not allowed to make one joke in the monkey-is-penis genre?”
   - [Mild] PHOEBE: “No, uh-uh, I'm just, I'm nervous. So, you know what, maybe if I just, if I picture them all in their underwear.”
   - [Mild] SUSIE: “I'll be there, and who knows, if things go well, maybe this time I'll get to see your underwear.”
   - [Mild] CHANDLER: “You want me to wear your panties?”
@@ -577,10 +577,10 @@ Watch for:
   - [Mild] They keep flicking each other. This turns into slapping each other. This leads to wrestling on the floor. All the while Phoebe is saying "Happy thoughts". Eventually Phoebe gets fed up.
   - [Mild] MONICA: “I can't believe this, just like 2 weeks ago I was watching Sudden Death, now I'm on a date with Jean-Claude Van Damme. Can you beat up that guy? [he nods] Can you beat up that guy?”
 - Swearing — 2 moment(s)
-  - [Moderate] PHOEBE: “There we go.You know what, if we were in prison, you guys would be, like, my bitches.”
+  - [Caution] PHOEBE: “There we go.You know what, if we were in prison, you guys would be, like, my bitches.”
   - [Mild] CHANDLER: “And you left the toilet seat up, you bastard. [throws water in his face]”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] Romantic tension and adult party drinking.
+  - [Caution] Romantic tension and adult party drinking.
   - [Mild] A monkey jumps on the desk and hands the guy a beer. He opens the beer and is suddenly on the beach, in a hammock, with beautiful women all around.
   - [Mild] COMMERCIAL VOICEOVER: “...With MonkeyShine Beer. [MonkeyShine theme] MonkeyShine Beer, 'cause it's a jungle out there.]”
 
@@ -591,8 +591,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] JOEY: “You have any idea what this'll do for your sex life?”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] PHOEBE: “That was really good, I think I'm ready for my penis now.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] PHOEBE: “That was really good, I think I'm ready for my penis now.”
   - [Mild] MONICA: “I just told Rachel that Roy touched my boob.”
 
 ## S2 E15 — The One Where Rachel and Ross... You Know
@@ -607,9 +607,9 @@ Watch for:
   - [Mild] CHANDLER: “Could you get us a couple of beers?”
   - [Mild] DR. BURKE: “No no. Henry's almost two and he's talking and everyting. Here. You know, the other day he told me he liked me better than his other grandpa. Now in all fairness his other grandpa's a drunk but still. . .”
 - Homophobic jokes — 3 moment(s)
-  - [Explicit] ROSS: “This screen is amazing, I mean Dick Van Dyke is practically life-size.”
-  - [Explicit] ROSS: “[on the phone] Woah, woah, woah australopithicus isn't supposed to be in that display. No. No. No, n, homo-habilus was erect, australopithicus was never fully erect.”
-  - [Explicit] ROSS: “Look, homo-habilus hasn't even learned how to use tools yet and they've got him here wi, with clay pots.”
+  - [Too much] ROSS: “This screen is amazing, I mean Dick Van Dyke is practically life-size.”
+  - [Too much] ROSS: “[on the phone] Woah, woah, woah australopithicus isn't supposed to be in that display. No. No. No, n, homo-habilus was erect, australopithicus was never fully erect.”
+  - [Too much] ROSS: “Look, homo-habilus hasn't even learned how to use tools yet and they've got him here wi, with clay pots.”
 
 ## S2 E16 — The One Where Joey Moves Out
 URL: https://watchwiththekids.com/ep/friends/0216.html
@@ -631,11 +631,11 @@ URL: https://watchwiththekids.com/ep/friends/0218.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] EDDIE: “You had sex with her didn't you?”
-  - [Moderate] CHANDLER: “Eddie, I didn't sleep with your ex-girlfriend.”
-  - [Moderate] EDDIE: “Oh, this is, this is unbelievable. I mean, first you sleep with my ex-girlfriend then you insult my inteligenct by lying about it and then you kill my fish, my Buddy?”
-  - [Moderate] they pull out the box of condoms but there's only one left
-  - [Moderate] MONICA: “Fine, go have sex.”
+  - [Caution] EDDIE: “You had sex with her didn't you?”
+  - [Caution] CHANDLER: “Eddie, I didn't sleep with your ex-girlfriend.”
+  - [Caution] EDDIE: “Oh, this is, this is unbelievable. I mean, first you sleep with my ex-girlfriend then you insult my inteligenct by lying about it and then you kill my fish, my Buddy?”
+  - [Caution] they pull out the box of condoms but there's only one left
+  - [Caution] MONICA: “Fine, go have sex.”
   - [Mild] RACHEL: “Oh please. That Paolo thing was barely a relationship. All it really was was just, ya know, meaningless animal sex. Ok, ya know, that sounded soooo much better in my head.”
   - [Mild] ROSS: “Animal sex, animal sex? So what're you saying, I mean, you're saying that like, there's nothing between us animal at all. I mean there's not even like, uhm, a little animal, not even, not even like, like chipmunk sex?”
 - Alcohol & drugs — 1 moment(s)
@@ -657,10 +657,10 @@ Watch for:
   - [Mild] JOEY: “Ya know, one of these times you're gonna really be naked and we're not gonna come over.”
   - [Mild] MONICA: “Alright, I've got a leg, three breasts and a wing.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] PHOEBE: “Oh, ok, murder, cancer, soccer teams eating each other in the Andes.”
-  - [Moderate] PHOEBE: “Hey, Travis, watcha doin' with that gun?”
+  - [Too much] PHOEBE: “Oh, ok, murder, cancer, soccer teams eating each other in the Andes.”
+  - [Caution] PHOEBE: “Hey, Travis, watcha doin' with that gun?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] PHOEBE: “Yeah, I talked to my grandma about the Old Yeller incident, and she told me that my mom used to not show us the ends of sad movies to shield us from the pain and sadness. You know, before she killed herself.”
+  - [Too much] PHOEBE: “Yeah, I talked to my grandma about the Old Yeller incident, and she told me that my mom used to not show us the ends of sad movies to shield us from the pain and sadness. You know, before she killed herself.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] CHANDLER: “Yeah, Ross can't go so it's between my friend Eric Prower who has breath issues and Dan with the poking. [starts poking Monica in the shoulder] 'Did you see that play? Do you want some more beer? Is that Spike Lee?'”
 
@@ -687,10 +687,10 @@ Watch for:
   - [Mild] Joey is staring at Monica's breasts
   - [Mild] MONICA: “Joey they're not real. I start miles beneath the surface of these things, ok, they're fake. See [squeezes her breast] honk honk.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] CHANDLER: “Wow, it's, it's like porno for clowns.”
+  - [Too much] CHANDLER: “Wow, it's, it's like porno for clowns.”
 - Swearing — 5 moment(s)
-  - [Moderate] RACHEL: “Ya know, I just, so weird. I mean I was in there just listening to them bitch about each other and all I kept thinking about was the fourth of July.”
-  - [Moderate] CHANDLER: “Becasue it reminded you of the way our forefathers used to bitch at each other?”
+  - [Caution] RACHEL: “Ya know, I just, so weird. I mean I was in there just listening to them bitch about each other and all I kept thinking about was the fourth of July.”
+  - [Caution] CHANDLER: “Becasue it reminded you of the way our forefathers used to bitch at each other?”
   - [Mild] RACHEL: “Agh, it was the graduation from hell.”
   - [Mild] CHANDLER: “Ya know, my cousin went to hell on a football scholarship.”
   - [Mild] MONICA: “Ok, the first person's most embarassing memory is, 'Monica, your party sucks.' Very funny.”
@@ -703,19 +703,19 @@ URL: https://watchwiththekids.com/ep/friends/0223.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] CHANDLER: “Really? Wow. That's some pretty powerful imaginary sperm you must have there.”
-  - [Moderate] CHANDLER: “Alright, ok, alright. So I can't fire Joseph but uh, I can sleep with his wife.”
+  - [Caution] CHANDLER: “Really? Wow. That's some pretty powerful imaginary sperm you must have there.”
+  - [Caution] CHANDLER: “Alright, ok, alright. So I can't fire Joseph but uh, I can sleep with his wife.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] CHANDLER: “In fact, I have her panties right there in my drawer.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] CHANDLER: “Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.”
+  - [Caution] CHANDLER: “Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.”
 
 ## S2 E24 — The One With Barry and Mindy's Wedding
 URL: https://watchwiththekids.com/ep/friends/0224.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] CHANDLER: “All right. (reading her answer) "My husband is sleeping with his secretary." She's married!”
+  - [Caution] CHANDLER: “All right. (reading her answer) "My husband is sleeping with his secretary." She's married!”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Starts to walk down the aisle, unfortunately she doesn't realize that her dress is bunched up in her underwear and her butt is showing.
 
@@ -727,10 +727,10 @@ Watch for:
   - [Mild] Rachel: “You remember not having sex in high school, right?”
   - [Mild] Joey: “Oh yeah, I always picture your Mom when I'm having sex.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Ross: “That's different, okay. That's like, uh 'Who dated a stripper?' or 'Who did it on the back of the Staton Island Ferry?'.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Ross: “That's different, okay. That's like, uh 'Who dated a stripper?' or 'Who did it on the back of the Staton Island Ferry?'.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Ross sees Rachel kissing Mark — jealousy/affair anxiety drives the hour.
+  - [Caution] Ross sees Rachel kissing Mark — jealousy/affair anxiety drives the hour.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Monica: “Richard's living room, drinking wine.”
 
@@ -744,17 +744,17 @@ Watch for:
   - [Mild] Joey: “(entering) Where's my underwear?!”
   - [Mild] Ross: “Whoa, whoa, whoa. Come on, come on, what. You took his underwear?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Ross and Rachel officially break up; 'we were on a break' begins.
+  - [Caution] Ross and Rachel officially break up; 'we were on a break' begins.
 - Swearing — 1 moment(s)
-  - [Moderate] Monica: “What do you mean, you're not comfortable with this? Come on we're friends!! (Michelle hangs up) That bitch always hated me.”
+  - [Caution] Monica: “What do you mean, you're not comfortable with this? Come on we're friends!! (Michelle hangs up) That bitch always hated me.”
 
 ## S3 E3 — The One With the Jam
 URL: https://watchwiththekids.com/ep/friends/0303.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Monica: “(entering from her bedroom) Okay, sperm donor number 03815, come on down! Okay, he's 6'2", 170 pounds, and he describes himself as a male Geena Davis.”
-  - [Moderate] Rachel: “When did you go to a sperm bank?”
+  - [Caution] Monica: “(entering from her bedroom) Okay, sperm donor number 03815, come on down! Okay, he's 6'2", 170 pounds, and he describes himself as a male Geena Davis.”
+  - [Caution] Rachel: “When did you go to a sperm bank?”
   - [Mild] Joey: “Well, right after I did that sex study down at NYU. (to Chandler) Hey, Remember that sweater I gave you for your birthday?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “Hey, Joe, I gotta ask. The girl from the Xerox place buck naked (holds up one hand), or, or a big tub of jam. (holds up the other hand)”
@@ -764,31 +764,31 @@ URL: https://watchwiththekids.com/ep/friends/0304.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Phoebe finds out her mother killed herself (heavy emotional content; not sex/violence).
-  - [Moderate] Janice: “Ohhh, are you a puppy! (opens it) Contact paper! I never really know what to say when someone you're sleeping with gives you contact paper.”
-  - [Moderate] Rachel: “He's soo lucky, if Janice were a guy, she'd be sleeping with somebody else by now.”
+  - [Caution] Phoebe finds out her mother killed herself (heavy emotional content; not sex/violence).
+  - [Caution] Janice: “Ohhh, are you a puppy! (opens it) Contact paper! I never really know what to say when someone you're sleeping with gives you contact paper.”
+  - [Caution] Rachel: “He's soo lucky, if Janice were a guy, she'd be sleeping with somebody else by now.”
   - [Mild] Janice: “Well, let's go to a bad one and make out. (they start to kiss and lean back into Monica.)”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Monica: “(entering from her bedroom) I gotta go to work. Has anybody seen my left boob?”
 - Violence & injury — 3 moment(s)
-  - [Moderate] Phoebe finds out her mother killed herself (heavy emotional content; not sex/violence).
-  - [Moderate] Joey: “Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!”
-  - [Moderate] Chandler: “Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.”
+  - [Caution] Phoebe finds out her mother killed herself (heavy emotional content; not sex/violence).
+  - [Caution] Joey: “Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!”
+  - [Caution] Chandler: “Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.”
 
 ## S3 E5 — The One With Frank Jr.
 URL: https://watchwiththekids.com/ep/friends/0305.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Chandler: “Well, we have a deal, where we each get to pick five celebrities that we can sleep with, and the other one can’t get mad.”
-  - [Moderate] Ross: “Celebrities I’m allowed to sleep with.”
-  - [Moderate] Frank: “So wait, what’s the deal here, I can have sex with you, but I can’t touch you?”
-  - [Moderate] Phoebe: “You can’t have sex with her!”
+  - [Caution] Chandler: “Well, we have a deal, where we each get to pick five celebrities that we can sleep with, and the other one can’t get mad.”
+  - [Caution] Ross: “Celebrities I’m allowed to sleep with.”
+  - [Caution] Frank: “So wait, what’s the deal here, I can have sex with you, but I can’t touch you?”
+  - [Caution] Phoebe: “You can’t have sex with her!”
   - [Mild] Ross: “Ah, the heart of every healthy relationship. Honesty, respect, and sex with celebrities.”
   - [Mild] Chandler: “Ooh-hoo. Very hot, very sexy. But ah, y'know she’s too international, y'know she’s never gonna be around.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Frank: “Yeah, I was thinking that maybe we could go down to Time Square and pick up some ninja stars. And, oh, um, my friend Larry, he wants me to take a picture of a hooker.”
-  - [Explicit] Girl: “What’d you think I was, a hooker?”
+  - [Too much] Frank: “Yeah, I was thinking that maybe we could go down to Time Square and pick up some ninja stars. And, oh, um, my friend Larry, he wants me to take a picture of a hooker.”
+  - [Too much] Girl: “What’d you think I was, a hooker?”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Joey: “Well, you should’ve told me that before, I’m not a mind reader. Hey, we’re out of beer. I’m going to Monica’s.”
   - [Mild] Joey: “Relax. Here hold this (hands her his beer). This old stuff just comes right off. (he bends down to try and lift some tile right in the middle of the floor, in his tight pants.)”
@@ -798,16 +798,16 @@ URL: https://watchwiththekids.com/ep/friends/0306.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Main-cast women kissing is used as a sitcom gag.
-  - [Moderate] Janice: “Janice has a question. Who of the six of you has sleep with the six of you?”
-  - [Moderate] Monica: “I don’t believe this! When someone asks you in for lemonade, and to you that means they wanna have sex?”
+  - [Caution] Main-cast women kissing is used as a sitcom gag.
+  - [Caution] Janice: “Janice has a question. Who of the six of you has sleep with the six of you?”
+  - [Caution] Monica: “I don’t believe this! When someone asks you in for lemonade, and to you that means they wanna have sex?”
   - [Mild] Rachel: “I’m serious, I really, I think I need just to have some...meaningless, sex y'know, with the next guy that I see.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Monica: “(turning around) Okay, here’s your penis!”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Monica: “(turning around) Okay, here’s your penis!”
   - [Mild] Phoebe: “Cute naked guy is really starting to put on weight.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Eric: “Oh, yeah, during the summer, I spend most weekends at my sister’s beach house, which you are welcome to use by the way. Although, I should probably tell you, she’s a porn star. (Chandler breaks his pencil in half)”
+  - [Too much] Eric: “Oh, yeah, during the summer, I spend most weekends at my sister’s beach house, which you are welcome to use by the way. Although, I should probably tell you, she’s a porn star. (Chandler breaks his pencil in half)”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] Janice: “Come on over the years none of you ever y'know, got drunk and stupid.”
   - [Mild] Chandler: “(to bartender) Can I get a beer.”
@@ -819,9 +819,9 @@ URL: https://watchwiththekids.com/ep/friends/0307.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Ross: “Y’know your probably not allowed to sleep with any of your students.”
+  - [Caution] Ross: “Y’know your probably not allowed to sleep with any of your students.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Ross: “Okay! (picks up a knife and pretends to stab his heart.)”
+  - [Too much] Ross: “Okay! (picks up a knife and pretends to stab his heart.)”
   - [Mild] Joey throws a punch and just lightly taps her on the shoulder, Phoebe counters with a jab to the nose.
 
 ## S3 E8 — The One With The Giant Poking Device
@@ -829,30 +829,30 @@ URL: https://watchwiththekids.com/ep/friends/0308.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Chandler: “Y'know it serves me right for buying that twelve pack of condoms.”
+  - [Caution] Chandler: “Y'know it serves me right for buying that twelve pack of condoms.”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Joey: “(looking out the window) Ewww! Ugly Naked Guy is using his new hammock. It’s like a Play-Doo Fat Factory.”
   - [Mild] Joey: “Ugly Naked Guy looks awfully still. (Phoebe runs to the window and gasps.)”
   - [Mild] Joey: “Are you okay? Do you wanna ah, come poke a nude guy?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Rachel: “Oh, it’s just like a bloodbath in here today.”
+  - [Caution] Rachel: “Oh, it’s just like a bloodbath in here today.”
 - Homophobic jokes — 1 moment(s)
-  - [Explicit] Joey: “If the Homo Sapiens, were in fact ‘Homo-sapien’, is that why there extinct?”
+  - [Too much] Joey: “If the Homo Sapiens, were in fact ‘Homo-sapien’, is that why there extinct?”
 
 ## S3 E9 — The One With The Football
 URL: https://watchwiththekids.com/ep/friends/0309.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Ross sleeps with Chloe the copy-shop woman while 'on a break.'
+  - [Caution] Ross sleeps with Chloe the copy-shop woman while 'on a break.'
   - [Mild] Joey: “Nice going. You just saved yourself a couple months of sex.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Phoebe: “Oh I got it!! (catches the ball) Oh! Ew! Broken boob! Ow!”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Ross sleeps with Chloe the copy-shop woman while 'on a break.'
+  - [Caution] Ross sleeps with Chloe the copy-shop woman while 'on a break.'
 - Violence & injury — 2 moment(s)
-  - [Moderate] Chandler: “(coming up under center, just like a real quarterback does, and puts his hands between Ross’s legs.) Twenty-three!! Seventy-four!! (Ross stands up and looks at him) You wanna go shotgun?”
-  - [Moderate] Chandler: “(from the shotgun) Hike!”
+  - [Caution] Chandler: “(coming up under center, just like a real quarterback does, and puts his hands between Ross’s legs.) Twenty-three!! Seventy-four!! (Ross stands up and looks at him) You wanna go shotgun?”
+  - [Caution] Chandler: “(from the shotgun) Hike!”
 
 ## S3 E10 — The One Where Rachel Quits
 URL: https://watchwiththekids.com/ep/friends/0310.html
@@ -866,15 +866,15 @@ URL: https://watchwiththekids.com/ep/friends/0311.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Monica: “What?! Ross y'know this isn’t even about you! I mean this is about Rachel and something wonderful happening for her. I mean you know even if you’re right, what if he wants to sleep with her, does it mean he gets too?”
+  - [Caution] Monica: “What?! Ross y'know this isn’t even about you! I mean this is about Rachel and something wonderful happening for her. I mean you know even if you’re right, what if he wants to sleep with her, does it mean he gets too?”
   - [Mild] Chandler: “Yes, but you ended up having sex with both of them that afternoon.”
   - [Mild] Ross: “Huh. Sounds like Mark Something wants to have some sex.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “No-no-no-no, no, it’s a good thing. Why must we dial so speedily anyway? Why must we rush through life? Why can’t we savor the precious moments? (to one of Joey’s sisters) Those are some huge breasts you have.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Rachel learns about Chloe; confrontation after the affair.
+  - [Caution] Rachel learns about Chloe; confrontation after the affair.
 - Violence & injury — 4 moment(s)
-  - [Moderate] Chandler: “Look, I may have jumped the gun here. (she tries to kiss him, but he ducks it and moves away) Um, I just got out of a relationship and I’m not really in a, in a commitment kind of place.”
+  - [Caution] Chandler: “Look, I may have jumped the gun here. (she tries to kiss him, but he ducks it and moves away) Um, I just got out of a relationship and I’m not really in a, in a commitment kind of place.”
   - [Mild] Joey’s Sister: I say, punch him Joey.
   - [Mild] All: “Yeah! Punch him!!”
   - [Mild] Chandler: “What?! (Cookie punches him)”
@@ -894,11 +894,11 @@ Watch for:
   - [Mild] Scene: The Moondance diner, Monica is cleaning up with one of the waiters, with her back turned to him she removes her fake breasts and hides them under her wig.
   - [Mild] Chandler: “And then you click it and, uh-oh, she's naked.”
 - Porn / strippers / sex work — 5 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Chandler: “Well apparently Albert has no friends. He's very excited about the bachelor party though. I think actually the only reason he's getting married is so he can see a stripper.”
-  - [Explicit] Phoebe: “A stripper at a bachelor party, that is so clich�. Why don't you get a magician?!”
-  - [Explicit] Chandler: “Oh, okay Ross. Listen, this pen is kinda getting boring, so can you pick me up some porn?”
-  - [Explicit] Rachel: “I'm not jealous. All right this is about, umm, people feeling certain things y'know about strippers. And y'know, and um, I...”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Chandler: “Well apparently Albert has no friends. He's very excited about the bachelor party though. I think actually the only reason he's getting married is so he can see a stripper.”
+  - [Too much] Phoebe: “A stripper at a bachelor party, that is so clich�. Why don't you get a magician?!”
+  - [Too much] Chandler: “Oh, okay Ross. Listen, this pen is kinda getting boring, so can you pick me up some porn?”
+  - [Too much] Rachel: “I'm not jealous. All right this is about, umm, people feeling certain things y'know about strippers. And y'know, and um, I...”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Chandler: “Well, if the magician can open my beer with his but cheeks, then all right.”
 
@@ -907,14 +907,14 @@ URL: https://watchwiththekids.com/ep/friends/0313.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Monica: “We’re not gonna have sex! Okay, nothing’s changed here. He still doesn’t want children and I still do, so that’s why we’re just gonna be friends.”
+  - [Caution] Monica: “We’re not gonna have sex! Okay, nothing’s changed here. He still doesn’t want children and I still do, so that’s why we’re just gonna be friends.”
   - [Mild] Joey: “Well, you might wanna make a little extra, y'know you’ll probably be hungry after the sex.”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Richard: “You’ve got panties stuck to your leg.”
   - [Mild] Ross: “Naked friends.”
   - [Mild] Monica: “You would not believe my day! I had to work two shifts, and then to top it off, I lost one of my fake boobs, (opens her coat revealing a large burn mark over her left breast.) in a grill fire.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Monica: “You see that guy? He’s in classics now, but y'know as soon as we leave he’s going straight to the porn.”
+  - [Too much] Monica: “You see that guy? He’s in classics now, but y'know as soon as we leave he’s going straight to the porn.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] She goes into her bedroom, and sees Richard who has covered the room in roses and has two glasses of wine and a rose between his lips.
 
@@ -923,21 +923,21 @@ URL: https://watchwiththekids.com/ep/friends/0314.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Chandler: “It’s kinda a ah, a third nipple kinda thing.”
-  - [Explicit] Ginger: “You have three nipples?”
-  - [Explicit] Chandler: “Oh yes! Just had me a little nubbin-ectomy. Yep! Two nipples, no waiting.”
+  - [Too much] Chandler: “It’s kinda a ah, a third nipple kinda thing.”
+  - [Too much] Ginger: “You have three nipples?”
+  - [Too much] Chandler: “Oh yes! Just had me a little nubbin-ectomy. Yep! Two nipples, no waiting.”
 - Swearing — 2 moment(s)
-  - [Moderate] Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
+  - [Caution] Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
   - [Mild] Ginger: “Oh damn, I hate that.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
+  - [Caution] Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
 
 ## S3 E15 — The One Where Ross and Rachel Take A Break
 URL: https://watchwiththekids.com/ep/friends/0315.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Issac: “Yo, Chloe, do you have a quarter for the condom machine?”
+  - [Caution] Issac: “Yo, Chloe, do you have a quarter for the condom machine?”
 - Violence & injury — 2 moment(s)
   - [Mild] Ross starts to pack up the picnic in anger, and throws a three hole punch in the basket.
   - [Mild] Sophie: “Actually, that’s our three hole punch.”
@@ -950,15 +950,15 @@ URL: https://watchwiththekids.com/ep/friends/0316.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Main-cast women kissing is used as a sitcom gag.
-  - [Moderate] Rachel: “Ross, you had sex with another woman!”
+  - [Caution] Main-cast women kissing is used as a sitcom gag.
+  - [Caution] Rachel: “Ross, you had sex with another woman!”
   - [Mild] Chandler: “(to Joey) He has sex, and we get hit in our heads.”
   - [Mild] Ross: “Don’t you realise none of this would’ve ever happened if I didn’t think at that same moment you weren’t having sex with Mark?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “You’d be okay if you knew that Mark had kissed me, and been naked with me, and made love to me?”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Chandler: “Yeah, never cheat on Rachel.”
-  - [Moderate] Rachel: “We were on a break!”
+  - [Caution] Chandler: “Yeah, never cheat on Rachel.”
+  - [Caution] Rachel: “We were on a break!”
 - Violence & injury — 3 moment(s)
   - [Mild] Joey: “…position) The trail from the woman you did it with to the woman you hope never finds out who did it! (slapping his hands with each word) You always have to think about the trail!”
   - [Mild] Rachel picks up a newspaper and starts beating him with it.
@@ -971,9 +971,9 @@ URL: https://watchwiththekids.com/ep/friends/0317.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Rachel: “Oh, I’m sorry, were you speaking to me or sleeping with someone else?”
+  - [Caution] Rachel: “Oh, I’m sorry, were you speaking to me or sleeping with someone else?”
 - Nudity & bodies — 7 moment(s)
-  - [Explicit] Joey: “(obviously cold) Hey, can you close that window Chandler? My nipples can cut glass over here!”
+  - [Too much] Joey: “(obviously cold) Hey, can you close that window Chandler? My nipples can cut glass over here!”
   - [Mild] Joey: “Rach, it’s, it’s ah, it’s not that we don’t want to, really. (quietly) Are we talking models in their underwear?”
   - [Mild] Joey: “Look, I just need a wire something to jimmy it. Oh hey, one of you guys give me the underwire from your bra!”
   - [Mild] Joey: “Come on! Who has the biggest boobs?”
@@ -981,10 +981,10 @@ Watch for:
   - [Mild] The Girls: “No, not getting my bra!”
   - [Mild] Monica: “These tiny, little non-breasts?! Please, it’s gotta be Rachel.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Joey: “Well, I guess he says that because they were on a break when it happened, that she should of forgiven him by now.”
-  - [Moderate] Ross: “We were on a break!!! Okay!! (grabs the phone) We were, we were..., (calms down) yeah. Where are you? I’ll find you. (hangs up)”
+  - [Caution] Joey: “Well, I guess he says that because they were on a break when it happened, that she should of forgiven him by now.”
+  - [Caution] Ross: “We were on a break!!! Okay!! (grabs the phone) We were, we were..., (calms down) yeah. Where are you? I’ll find you. (hangs up)”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Scene: In Phoebe’s Grandmother’s cab, driving up to the cabin. Phoebe’s driving, Rachel’s sitting shotgun, Chandler, Monica, and Joey are in the back seat.
+  - [Caution] Scene: In Phoebe’s Grandmother’s cab, driving up to the cabin. Phoebe’s driving, Rachel’s sitting shotgun, Chandler, Monica, and Joey are in the back seat.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Ross: “Umm, candles, champagne, yeah anniversaries are great. ‘Cause you know love lasts forever, y'know. Nothing like it in this lifetime, money in the bank, so Rachel and I broke up.”
 
@@ -993,7 +993,7 @@ URL: https://watchwiththekids.com/ep/friends/0318.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Joey: “Look, the point is, there’s a lot of women out there you haven’t even had sex with yet!”
+  - [Caution] Joey: “Look, the point is, there’s a lot of women out there you haven’t even had sex with yet!”
   - [Mild] Frank: “Okay, but isn’t sex better when it’s with one person that you really, really care about.”
   - [Mild] Phoebe: “(They both lie down on the couch and start to make out.) Okay, no, the important thing is that you see what I’m saying, y'know, just y'know, this is clearly wrong.”
 - Nudity & bodies — 4 moment(s)
@@ -1002,7 +1002,7 @@ Watch for:
   - [Mild] Rachel: “(laughs) Well, I mean, are you sure you want to go out with her? I mean that ain’t a pretty picture in the morning, y’know what I mean. That wig all in disarray, and boobs flung over the night stand, y'know.”
   - [Mild] Joey: “So, we’re walking down the street and I turn to you and I say, “Hey, let’s go hang out at Totally Nude Nudes,” remember?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Yeah, or-or to get a hooker.”
+  - [Too much] Joey: “Yeah, or-or to get a hooker.”
 
 ## S3 E19 — The One With The Tiny T-shirt
 URL: https://watchwiththekids.com/ep/friends/0319.html
@@ -1011,12 +1011,12 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Joey: “Oh, yeah?! Then how come I keep thinking about her in all these sexual scenarios and stuff huh?!”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Rachel: “Y'know, like I’d be cheating on Ross or something.”
+  - [Caution] Rachel: “Y'know, like I’d be cheating on Ross or something.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Chandler: “You slept with somebody three hours after you thought you broke up. I mean bullets have left guns slower!”
-  - [Moderate] Phoebe: “Okay. All right you yellow-bellied-lilly-livered-DRAW!! (they both kick up the foot rests like an old fashioned gun fight.)”
+  - [Caution] Chandler: “You slept with somebody three hours after you thought you broke up. I mean bullets have left guns slower!”
+  - [Caution] Phoebe: “Okay. All right you yellow-bellied-lilly-livered-DRAW!! (they both kick up the foot rests like an old fashioned gun fight.)”
 - Swearing — 3 moment(s)
-  - [Moderate] Joey: “Oh, hey, how about this one. Ah, it’s says so in the script! Y'know ah, I-I don’t know why my character likes you either, I mean it says in the script here that you’re a bitch.”
+  - [Caution] Joey: “Oh, hey, how about this one. Ah, it’s says so in the script! Y'know ah, I-I don’t know why my character likes you either, I mean it says in the script here that you’re a bitch.”
   - [Mild] Ross: “Well, maybe the crazy fog has lifted and she realises that life without me.... a-sucks.”
   - [Mild] Joey: “Well, why don’t you tell me what you’re supposed to be! Huh? Because I sure as hell can’t figure it out! I talk to you and nothin’. You look at me, and it’s nothin’. (He kisses her) Nothing.”
 
@@ -1025,11 +1025,11 @@ URL: https://watchwiththekids.com/ep/friends/0320.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Kate: “Look umm, I, I was, I was just caught up in the moment. That’s all it was. Joey, I’m-I’m sorry you feel bad, but haven’t you ever sleep with a women where it meant more to her than it did to you?”
+  - [Caution] Kate: “Look umm, I, I was, I was just caught up in the moment. That’s all it was. Joey, I’m-I’m sorry you feel bad, but haven’t you ever sleep with a women where it meant more to her than it did to you?”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Rachel: “Okay, you are going to tell her and you’re going to tell her now. (She grabs his nipple and starts to twist it.)”
+  - [Too much] Rachel: “Okay, you are going to tell her and you’re going to tell her now. (She grabs his nipple and starts to twist it.)”
 - Swearing — 1 moment(s)
-  - [Moderate] Monica: “Oh, she was a cruel, cranky, old bitch! (Ross gives her a look) (to Ross) And I’m sorry she died. Did Dad say I get the dollhouse?”
+  - [Caution] Monica: “Oh, she was a cruel, cranky, old bitch! (Ross gives her a look) (to Ross) And I’m sorry she died. Did Dad say I get the dollhouse?”
 
 ## S3 E21 — The One With A Chick. And A Duck
 URL: https://watchwiththekids.com/ep/friends/0321.html
@@ -1042,14 +1042,14 @@ Watch for:
   - [Mild] Rachel: “I don’t want you to see me naked!”
   - [Mild] Ross: “Rachel, I’ve seen you naked a million times. I ate hot fudge off you naked. Remember, I-I sucked that mini-marshmallow out of your belly button?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Rachel: “Sophisticated like a hooker?”
+  - [Too much] Rachel: “Sophisticated like a hooker?”
 
 ## S3 E22 — The One With The Screamer
 URL: https://watchwiththekids.com/ep/friends/0322.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Joey: “I, I don’t get you. I mean first, you hate me. Then you sleep with me. Then you want nothing to do with me, now you want me again.”
+  - [Caution] Joey: “I, I don’t get you. I mean first, you hate me. Then you sleep with me. Then you want nothing to do with me, now you want me again.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “Almost as good as that play with the two naked girls on the see-saw.”
 - Alcohol & drugs — 2 moment(s)
@@ -1061,17 +1061,17 @@ URL: https://watchwiththekids.com/ep/friends/0323.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Monica: “Y'know when girls sleep with guys with weird things on their body, they tell their friends about it.”
+  - [Caution] Monica: “Y'know when girls sleep with guys with weird things on their body, they tell their friends about it.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Chandler: “Y'know what? You should go to my guy, because when I went in there with my third nipple. He just lopped it right off. Y'know? So I guess I'm lucky. I mean not as lucky as people who were born with two nipples.”
-  - [Explicit] Ross: “Th-th-that's all it is, a third nipple. Y'know? Just your run-of-the-mill third nipple. Y'know? You can take it off. Just slice that baby right off!”
+  - [Too much] Chandler: “Y'know what? You should go to my guy, because when I went in there with my third nipple. He just lopped it right off. Y'know? So I guess I'm lucky. I mean not as lucky as people who were born with two nipples.”
+  - [Too much] Ross: “Th-th-that's all it is, a third nipple. Y'know? Just your run-of-the-mill third nipple. Y'know? You can take it off. Just slice that baby right off!”
   - [Mild] Phoebe: “(singing) “Crazy underwear, creepin’ up my butt.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Joey: “Yeah, maybe he just cheated on you.”
+  - [Caution] Joey: “Yeah, maybe he just cheated on you.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Pete: “Yeah. Monica, I want you there in the front row when I win. I want you close enough to smell the blood. What do you think?”
+  - [Caution] Pete: “Yeah. Monica, I want you there in the front row when I win. I want you close enough to smell the blood. What do you think?”
 - Swearing — 2 moment(s)
-  - [Moderate] Chandler: “(comforting the duck) Everything’s gonna be all right. Okay, Dick?”
+  - [Caution] Chandler: “(comforting the duck) Everything’s gonna be all right. Okay, Dick?”
   - [Mild] Monica: “Joey, put that down! (the phone rings) Oh my God! It's Pete. Okay, get out!! How the hell do you answer a video-phone! (steps in front of it, and automatically answers it)”
 
 ## S3 E24 — The One With The Ultimate Fighting Champion
@@ -1079,8 +1079,8 @@ URL: https://watchwiththekids.com/ep/friends/0324.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Robin: “I have a feelin’... I, my wife is sleeping with her gynaecologist.”
-  - [Moderate] Billy: “It’s me, I’ve been sleeping with your wife.”
+  - [Caution] Robin: “I have a feelin’... I, my wife is sleeping with her gynaecologist.”
+  - [Caution] Billy: “It’s me, I’ve been sleeping with your wife.”
   - [Mild] Phoebe: “Oh no! That really is nothing, she is very sexually aggressive.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “Y'know I don’t, I don’t understand guys, I mean I-I would never congratulate Monica on a great stew by y'know, grabbin’ her boob.”
@@ -1095,7 +1095,7 @@ URL: https://watchwiththekids.com/ep/friends/0325.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Joey: “Hey, Bonnie had sex there!”
+  - [Caution] Joey: “Hey, Bonnie had sex there!”
   - [Mild] Scene: Central Perk, everyone except Phoebe is there. Bonnie is telling them of her sex-capades.
   - [Mild] Chandler: “(to Bonnie) So ah, your first sexual experience was with a woman?!”
   - [Mild] Rachel: “(to Monica) I mean is that woman capable of talking about anything else but sex?”
@@ -1117,44 +1117,44 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “We were playing Gin? Y'know if we were a couple, we could play this game naked.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Ross: “I mean she goes on for five pages about, about how I was unfaithful to her!”
-  - [Moderate] Ross: “(yelling from the bedroom) WE WERE ON A BREAK!!!!!!!”
+  - [Caution] Ross: “I mean she goes on for five pages about, about how I was unfaithful to her!”
+  - [Caution] Ross: “(yelling from the bedroom) WE WERE ON A BREAK!!!!!!!”
 - Suicide & self-harm — 3 moment(s)
-  - [Explicit] Phoebe: “Yeah. Let’s see, my had Mom killed herself, and my Dad had run off, and I was living in a Gremlin with a guy named Cindy who talked to his hand.”
-  - [Explicit] Ursula: “No, I umm, I read about her in Mom’s suicide note.”
-  - [Explicit] Phoebe: “There-there was a suicide note?! (Ursula nods ‘Yes.’) Well, do you still have it?”
+  - [Too much] Phoebe: “Yeah. Let’s see, my had Mom killed herself, and my Dad had run off, and I was living in a Gremlin with a guy named Cindy who talked to his hand.”
+  - [Too much] Ursula: “No, I umm, I read about her in Mom’s suicide note.”
+  - [Too much] Phoebe: “There-there was a suicide note?! (Ursula nods ‘Yes.’) Well, do you still have it?”
 
 ## S4 E2 — The One With The Cat
 URL: https://watchwiththekids.com/ep/friends/0402.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Rachel: “(interrupting) I bet he sensed that I was ready to have sex with another guy.”
-  - [Moderate] Rachel: “Yeah. Just, if it’s possible, could you leave him somewhere and go have sex with another guy?”
+  - [Caution] Rachel: “(interrupting) I bet he sensed that I was ready to have sex with another guy.”
+  - [Caution] Rachel: “Yeah. Just, if it’s possible, could you leave him somewhere and go have sex with another guy?”
   - [Mild] Rachel: “Monica! I couldn’t find him for two hours! He was having sex with Amy Welch!”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chip: “Yeah, they still wear underwear.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “No, no-no, she was a human lady. This is the spirit of my Mom Lily, the one who killed herself.”
+  - [Too much] Phoebe: “No, no-no, she was a human lady. This is the spirit of my Mom Lily, the one who killed herself.”
 - Swearing — 2 moment(s)
-  - [Moderate] Phoebe: “(screaming, angrily) ...DUMB, DRUNKEN, BITCH!!! (applause) (happily) Thank you, thanks.”
+  - [Caution] Phoebe: “(screaming, angrily) ...DUMB, DRUNKEN, BITCH!!! (applause) (happily) Thank you, thanks.”
   - [Mild] Chandler: “What the hell happened?!! How were you locked in?!! And where the hell is all of our stuff?!!”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Monica: “And the fat girl inside of me really wants to go.”
+  - [Caution] Monica: “And the fat girl inside of me really wants to go.”
 
 ## S4 E3 — The One With The ‘Cuffs
 URL: https://watchwiththekids.com/ep/friends/0403.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Mrs. Geller: “Oh, well Richard raved about the food at his party, of course you were sleeping with him.”
+  - [Caution] Mrs. Geller: “Oh, well Richard raved about the food at his party, of course you were sleeping with him.”
   - [Mild] Monica: “(in a sexy voice) Hello, Chandler. (Phoebe has a huge smile on her face.)”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Chandler: “When I walk outside naked people throw garbage at me.”
   - [Mild] Rachel unlocks and opens the door to reveal a half-naked Chandler handcuffed to the chair. They both gasp and Chandler stares at them in shock and surprise.
   - [Mild] Phoebe: “Wow! My breasts are really strong. (She goes and joins Monica.)”
 - Swearing — 3 moment(s)
-  - [Moderate] Mrs. Geller: “(interrupting) A bitch?”
+  - [Caution] Mrs. Geller: “(interrupting) A bitch?”
   - [Mild] Chandler: “Wow! Really?! We get all this rusty crap for free?!”
   - [Mild] Monica: “Oh! Did anybody see that-that documentary on the Korean War? (Joey is pissed)”
 
@@ -1163,7 +1163,7 @@ URL: https://watchwiththekids.com/ep/friends/0404.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Chandler: “Yeah, it was time. The old condom ring in the leather just doesn’t say ‘cool’ anymore.”
+  - [Caution] Chandler: “Yeah, it was time. The old condom ring in the leather just doesn’t say ‘cool’ anymore.”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Chandler: “No! I want a flabby gut and saggy man breasts!”
   - [Mild] Joey: “No, it’s okay, but if I’m Marge, my breasts are coming out my back.”
@@ -1171,8 +1171,8 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “Whoa-whoa, don’t we need to do some kinda preparation first? Like ahh, get really drunk?”
 - Sexual insults — 2 moment(s)
-  - [Moderate] Phoebe: “Hey! So I had a great day, Rick and I really hit it off, and we started making out, and then my boss walked in and fired me for being a whore.”
-  - [Moderate] Phoebe: “Then these policemen, thought I was a whore too.”
+  - [Caution] Phoebe: “Hey! So I had a great day, Rick and I really hit it off, and we started making out, and then my boss walked in and fired me for being a whore.”
+  - [Caution] Phoebe: “Then these policemen, thought I was a whore too.”
 
 ## S4 E5 — The One With Joey's New Girlfriend
 URL: https://watchwiththekids.com/ep/friends/0405.html
@@ -1200,23 +1200,23 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Joey: “Oh, uh... don't forget your coupon. (Tries to strike a sexy pose up against the doorway to his room. Then goes inside).”
 - Homophobic jokes — 1 moment(s)
-  - [Explicit] Ross: “Did homo-erectus hunt with wooden tools?”
+  - [Too much] Ross: “Did homo-erectus hunt with wooden tools?”
 
 ## S4 E7 — The One Where Chandler Crosses a Line
 URL: https://watchwiththekids.com/ep/friends/0407.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey: “And what?! Did you sleep with her?!”
+  - [Caution] Joey: “And what?! Did you sleep with her?!”
   - [Mild] Chandler: “Well, I’m upset—for you. I mean, having sex with an endless line of beautiful women must be very unfulfilling for you. (He can’t believe he just sad that.)”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Chandler: “(entering in a bathrobe) I just walked in the bathroom and saw Kathy naked! It was like torture!”
   - [Mild] Chandler: “And now I have seen her naked.”
   - [Mild] Chandler: “Yeah, I know what you’re thinkin’! Yes, yes, your breasts are just as firm and juicy.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] …barking dog, a mooing cow, a laser beam, someone coughing, a jackhammer, a doorbell, a police siren, a ray gun, breaking dishes, and for a closer he plays the sound of a loud crash.
+  - [Caution] …barking dog, a mooing cow, a laser beam, someone coughing, a jackhammer, a doorbell, a police siren, a ray gun, breaking dishes, and for a closer he plays the sound of a loud crash.
 - Swearing — 2 moment(s)
-  - [Moderate] Chandler: “Really, bitchin’!”
+  - [Caution] Chandler: “Really, bitchin’!”
   - [Mild] Monica: “Phoebe, Ross sucks!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “Hey! Samboucha Margarita?”
@@ -1226,7 +1226,7 @@ URL: https://watchwiththekids.com/ep/friends/0408.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sex talk, innuendo, hookups and dating-sex plots.
+  - [Caution] Sex talk, innuendo, hookups and dating-sex plots.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Tim: “Hi. (gives her a bottle of wine)”
   - [Mild] Rachel: “(pouring the wine) Sick-sick-sick-sick.”
@@ -1236,19 +1236,19 @@ URL: https://watchwiththekids.com/ep/friends/0409.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Chandler sleeps with Kathy after the triangle blows up.
-  - [Moderate] Joey: “No, I had sex in high school.”
-  - [Moderate] Joanna: “You know, Junior Miss is where I started. Oh, I had to sleep with the ugliest guy to get that job.”
-  - [Moderate] Joanna: “No-ho-ho! (pause) Yeah. (pause) I mean, no-no-no-no-no, don’t you worry, I’m sure with your qualifications you won’t need to sleep with some guy to get that job. Although, I might need some convincing.”
-  - [Moderate] Joey: “I have an audition, but I’ll definitely hook up with you later. Where are you gonna be around noon?”
+  - [Caution] Chandler sleeps with Kathy after the triangle blows up.
+  - [Caution] Joey: “No, I had sex in high school.”
+  - [Caution] Joanna: “You know, Junior Miss is where I started. Oh, I had to sleep with the ugliest guy to get that job.”
+  - [Caution] Joanna: “No-ho-ho! (pause) Yeah. (pause) I mean, no-no-no-no-no, don’t you worry, I’m sure with your qualifications you won’t need to sleep with some guy to get that job. Although, I might need some convincing.”
+  - [Caution] Joey: “I have an audition, but I’ll definitely hook up with you later. Where are you gonna be around noon?”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Phoebe: “And also, we don’t know what to do with this. (She turns on a switch and the girl’s nipples light up.)”
+  - [Too much] Phoebe: “And also, we don’t know what to do with this. (She turns on a switch and the girl’s nipples light up.)”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Really. And what do you mean you never have fun anymore? You have fun with me, remember that time we saw those strippers and you paid me 50 bucks to eat that book?”
+  - [Too much] Joey: “Really. And what do you mean you never have fun anymore? You have fun with me, remember that time we saw those strippers and you paid me 50 bucks to eat that book?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Phoebe: “Oh, okay! (reading) "Would I go back to Allesandro’s? Sure, but I’d have to order two meals, one for me and one for the guy pointing the gun to my head." (to Monica) Wow! You really laid into this place.”
+  - [Caution] Phoebe: “Oh, okay! (reading) "Would I go back to Allesandro’s? Sure, but I’d have to order two meals, one for me and one for the guy pointing the gun to my head." (to Monica) Wow! You really laid into this place.”
 - Swearing — 1 moment(s)
-  - [Moderate] Ross: “What did you want to show us? Because all I can see is this bitchin' van!”
+  - [Caution] Ross: “What did you want to show us? Because all I can see is this bitchin' van!”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Ross: “I don’t know, I could maybe go out for a couple of beers, but there’s this thing about bumblebees on The Discovery Channel that I was planning to watch.”
   - [Mild] Chandler: “Look you don’t understand, Gandolf is amazing. Y’know you’re never know what’s gonna end up happening, you go out for a couple of beers and end up on a fishing boat to Nova Scotia!”
@@ -1261,8 +1261,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Joey: “You got it! Oh-oh! (He starts patting the burned spot, which just happens to be over her breast.)”
 - Swearing — 7 moment(s)
-  - [Moderate] Monica: “I thought I was making headway, everyone was smiling at me all day, I get off work and I find out that they wrote this (puts on her chef hat) on my chef’s hat. (The hat says ‘Quit, bitch’)”
-  - [Moderate] Phoebe: “Hey, maybe they meant to write, ‘Quiet, bitch.’”
+  - [Caution] Monica: “I thought I was making headway, everyone was smiling at me all day, I get off work and I find out that they wrote this (puts on her chef hat) on my chef’s hat. (The hat says ‘Quit, bitch’)”
+  - [Caution] Phoebe: “Hey, maybe they meant to write, ‘Quiet, bitch.’”
   - [Mild] Rachel: “…you know it’ll be Valentine’s Day, then my birthday, then bang!—before you know it, they’re lighting that damn tree again.”
   - [Mild] Joey: “(checks his watch) Damn! (runs out to work)”
   - [Mild] Monica: “What the hell happened?!”
@@ -1274,13 +1274,13 @@ URL: https://watchwiththekids.com/ep/friends/0411.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Frank: “Yeah, and they-and they say that our-that our only chance to have a baby is that if they take my sperm, her egg and put it together in a dish and then put it into another girl.”
-  - [Moderate] Phoebe: “Ewww! And "Oh no!" It’s—they just want me to be the surrogate. It’s her-it’s her egg and her sperm, and I’m-I’m just the oven, it’s totally their bun.”
-  - [Moderate] Chandler: “All right, we haven’t had sex yet. Okay, what’s the big deal? Y’know? This is special, and I want our love to grow until we move on to the next level.”
+  - [Caution] Frank: “Yeah, and they-and they say that our-that our only chance to have a baby is that if they take my sperm, her egg and put it together in a dish and then put it into another girl.”
+  - [Caution] Phoebe: “Ewww! And "Oh no!" It’s—they just want me to be the surrogate. It’s her-it’s her egg and her sperm, and I’m-I’m just the oven, it’s totally their bun.”
+  - [Caution] Chandler: “All right, we haven’t had sex yet. Okay, what’s the big deal? Y’know? This is special, and I want our love to grow until we move on to the next level.”
   - [Mild] Joey: “You’re really thinking about having sex with your brother?!”
   - [Mild] Monica: “In the beginning where y’know it’s all sex and talking and sex and talking and…”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Phoebe Sr: “Oh, that’s okay, it gave me time to finish glazing my nipples.”
+  - [Too much] Phoebe Sr: “Oh, that’s okay, it gave me time to finish glazing my nipples.”
   - [Mild] Tour Guide: “I’m Rhonda, (motions to her breasts) and these aren’t real! (Joey and Ross look at each other, shocked)”
 
 ## S4 E12 — The One With The Embryos
@@ -1290,7 +1290,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Ross: “Correct. Chandler was how old when he first touched a girl’s breast?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Joey: “Sure I can, standard shotgun rules, I’m sight of the room and I called it.”
+  - [Caution] Joey: “Sure I can, standard shotgun rules, I’m sight of the room and I called it.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Frank: “I know! Why don’t you get drunk! That worked for a lot of girls in my high school.”
 
@@ -1299,18 +1299,18 @@ URL: https://watchwiththekids.com/ep/friends/0413.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 9 moment(s)
-  - [Moderate] Chandler spirals after thinking Kathy is sleeping with her co-star.
-  - [Moderate] Chandler: “Okay, she is the star of the play. And she is my girlfriend! I get to have sex with the star of the play!”
-  - [Moderate] Chandler: “Chandler wonders into the girl’s apartment.) You will all be very happy to hear that Kathy is sleeping with that guy!”
-  - [Moderate] Chandler: “Well y'know, what if she didn’t actually sleep with the guy?”
-  - [Moderate] Chandler: “Well, she wasn’t sleeping with him.”
+  - [Caution] Chandler spirals after thinking Kathy is sleeping with her co-star.
+  - [Caution] Chandler: “Okay, she is the star of the play. And she is my girlfriend! I get to have sex with the star of the play!”
+  - [Caution] Chandler: “Chandler wonders into the girl’s apartment.) You will all be very happy to hear that Kathy is sleeping with that guy!”
+  - [Caution] Chandler: “Well y'know, what if she didn’t actually sleep with the guy?”
+  - [Caution] Chandler: “Well, she wasn’t sleeping with him.”
   - [Mild] Joey: “The rule is when two actors are actually doing it off-stage all the sexual tension between them is gone.”
   - [Mild] Ross: “Y’know what, I don’t know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.”
   - [Mild] Ross: “All right, let’s not jump to any conclusions. All right? There was some sexual chemistry between them.”
   - [Mild] Chandler: “Come on, it was like cousins having sex up there!”
 - Nudity & bodies — 8 moment(s)
-  - [Explicit] Chandler: “I’m saying that she… is a devil woman! Y’know I mean you think you know someone and then they turn around and they sleep with Nick! Nick, with his rock hard pecs, and his giant man-nipples!”
-  - [Explicit] Chandler: “Because, I-I should’ve called! Y’know if I had just called her after our big, stupid fight, she never would’ve gone out with Nick, and they would’ve ended up in bed together. I threw her at his man nipples!”
+  - [Too much] Chandler: “I’m saying that she… is a devil woman! Y’know I mean you think you know someone and then they turn around and they sleep with Nick! Nick, with his rock hard pecs, and his giant man-nipples!”
+  - [Too much] Chandler: “Because, I-I should’ve called! Y’know if I had just called her after our big, stupid fight, she never would’ve gone out with Nick, and they would’ve ended up in bed together. I threw her at his man nipples!”
   - [Mild] Ross: “Well, Kathy gets half-naked and simulates sex with a real good lookin’ guy.”
   - [Mild] Rachel: “(on the phone) Monica, I’m quitting! I just helped an 81 year old woman put on a thong and she didn’t even buy it!”
   - [Mild] He walks over to look and some clothes and Rachel quickly turns around and adjusts her bra, trying to show off her assets.
@@ -1318,53 +1318,53 @@ Watch for:
   - [Mild] Rachel: “No-no, that wasn’t me! (To Joshua) Well, we should get started. Let me show you my underwear. (Joshua turns at that) The selection of underwear we carry.”
   - [Mild] Chandler: “Y’know, I-I could see how this could happen, y'know you’re up there every night, you’re naked, touching, kissing.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Moderate] Ross jokes about 'cookies and porn' while his mom visits.
-  - [Explicit] Ross: “Cookies and porn, you’re the best mom ever!!”
-  - [Explicit] Monica: “No, wait, please don’t go! I’ve got porn for you too!”
+  - [Caution] Ross jokes about 'cookies and porn' while his mom visits.
+  - [Too much] Ross: “Cookies and porn, you’re the best mom ever!!”
+  - [Too much] Monica: “No, wait, please don’t go! I’ve got porn for you too!”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Kathy: “Okay, so let me just get this straight. You’re accusing me of cheating on you, and insulting my performance?”
-  - [Moderate] Ross: “Well, if-if she thought they were on a break…”
+  - [Caution] Kathy: “Okay, so let me just get this straight. You’re accusing me of cheating on you, and insulting my performance?”
+  - [Caution] Ross: “Well, if-if she thought they were on a break…”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Chandler comes back, obviously drunk, and trips over the steps.
   - [Mild] Chandler: “Well, I may be drunk, but I know what she said! Then I went over to Beefsteak Julie’s…”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Chandler: “Steps! (He opens the door to his apartment to Ross and Joey looking at the new Playboy) Slut!”
+  - [Caution] Chandler: “Steps! (He opens the door to his apartment to Ross and Joey looking at the new Playboy) Slut!”
 
 ## S4 E14 — The One With Joey’s Dirty Day
 URL: https://watchwiththekids.com/ep/friends/0414.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Phoebe: “Remember, a virgin for me please.”
+  - [Caution] Phoebe: “Remember, a virgin for me please.”
 - Nudity & bodies — 4 moment(s)
   - [Mild] Ross: “Because there are naked ladies there.”
   - [Mild] Ross: “There are naked ladies there too.”
   - [Mild] Phoebe: “Oh no wait, oh no, the elastic on my underwear busted.”
   - [Mild] Monica: “(coming back to the stage and sitting next to Chandler) Okay, I’ve got some Ones, you wanna put them in her panties?”
 - Porn / strippers / sex work — 10 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Moderate] Multiple strippers; 'get drunk and go to a strip club' is the plot.
-  - [Moderate] Joey's bachelor-party / strip-club day after a dirty movie role.
-  - [Explicit] Joey: “Gettin’ drunk and going to a strip club.”
-  - [Explicit] Rachel: “How does going to a strip club help him better?”
-  - [Explicit] Chandler: “That’s right! Where are the guys? I’m ready to get drunk and see some strippers.”
-  - [Explicit] Monica: “I think somebody needs another lap dance. (Motions for one.)”
-  - [Explicit] Chandler: “Look, forget it. We tried, but Phase Three is a lost cause, Okay? Those strippers were insanely hot, and I couldn’t picture myself with any of them. (Sits back in disgust.)”
-  - [Explicit] Chandler: “(Points to a stripper.) You are gonna take off my clothes.”
-  - [Explicit] Phoebe: “I-I wanna be with her, (points to the stripper next to her) I like her.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Caution] Multiple strippers; 'get drunk and go to a strip club' is the plot.
+  - [Caution] Joey's bachelor-party / strip-club day after a dirty movie role.
+  - [Too much] Joey: “Gettin’ drunk and going to a strip club.”
+  - [Too much] Rachel: “How does going to a strip club help him better?”
+  - [Too much] Chandler: “That’s right! Where are the guys? I’m ready to get drunk and see some strippers.”
+  - [Too much] Monica: “I think somebody needs another lap dance. (Motions for one.)”
+  - [Too much] Chandler: “Look, forget it. We tried, but Phase Three is a lost cause, Okay? Those strippers were insanely hot, and I couldn’t picture myself with any of them. (Sits back in disgust.)”
+  - [Too much] Chandler: “(Points to a stripper.) You are gonna take off my clothes.”
+  - [Too much] Phoebe: “I-I wanna be with her, (points to the stripper next to her) I like her.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Chandler: “You don’t have to stop having fun just because I’m here. Kathy didn’t cheat on all of you. (To Joey) Well, except you. (They hug and Chandler goes into the bathroom with the chick and duck following him.)”
+  - [Caution] Chandler: “You don’t have to stop having fun just because I’m here. Kathy didn’t cheat on all of you. (To Joey) Well, except you. (They hug and Chandler goes into the bathroom with the chick and duck following him.)”
 - Violence & injury — 3 moment(s)
   - [Mild] Rachel: “Well, I didn’t see Joshua last night, but I did punch a girl in the face.”
   - [Mild] Rachel: “Oh, no problem. I’m so glad I could help. Happy for you. (She playfully punches him.)”
   - [Mild] Ross: “Happy for you. (He punches her back.)”
 - Swearing — 3 moment(s)
-  - [Moderate] Rachel: “No, she was already in, but then this big bitch behind me tried to steal my umbrella, so I clocked her.”
+  - [Caution] Rachel: “No, she was already in, but then this big bitch behind me tried to steal my umbrella, so I clocked her.”
   - [Mild] Rachel: “What? Who the hell is Emily—(realises) noooo!!”
   - [Mild] Joey: “(trying to act like he’s not the one that stinks.) Whoa! Yeah, what the hell is that? What smells so bad?”
 - Alcohol & drugs — 4 moment(s)
-  - [Moderate] Multiple strippers; 'get drunk and go to a strip club' is the plot.
-  - [Explicit] Emily: “Kennedy Airport, apparently to you people, I look like someone who’s got a balloon full of cocaine stuffed up their bum.”
+  - [Caution] Multiple strippers; 'get drunk and go to a strip club' is the plot.
+  - [Too much] Emily: “Kennedy Airport, apparently to you people, I look like someone who’s got a balloon full of cocaine stuffed up their bum.”
   - [Mild] Chandler: “No! That was a test! In a couple of hours I’m gonna get really drunk and wanna call Kathy and you guys are gonna have to stop me! And then after that, I’m gonna get so drunk, I’m gonna wanna call Janice”
   - [Mild] Chandler: “Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!”
 
@@ -1375,10 +1375,10 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Janice: “(leaning in from the bedroom) Chandler! Come on, I’m gonna show how to roll up your underwear and stuff it in your shoes. It’s a real space saver.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Moderate] Joey's porn-adjacent 'Days of Our Lives' storyline vibes; adult soap plots.
+  - [Caution] Joey's porn-adjacent 'Days of Our Lives' storyline vibes; adult soap plots.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Liam: “Ross, come on! Get in the bloody scrum! Ross, get in!”
-  - [Moderate] Ross: “Please! Are you kidding? I-I hurt three huge men, I gave a guy a bloody nose—I mean I-I’m not proud of it but, I really am. And it’s all because of you, wonderful, amazing you.”
+  - [Caution] Liam: “Ross, come on! Get in the bloody scrum! Ross, get in!”
+  - [Caution] Ross: “Please! Are you kidding? I-I hurt three huge men, I gave a guy a bloody nose—I mean I-I’m not proud of it but, I really am. And it’s all because of you, wonderful, amazing you.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Liam and Devon both take a swig of their beers, while Ross takes a swig of his coffee. The Brits both crush their cans, and not to be out done, Ross crushes his coffee cup, spilling its contents.
 
@@ -1395,9 +1395,9 @@ Watch for:
   - [Mild] (You thought I was going to say Ross, didn’t you?) Rachel squeals in delight and starts a slow sexy crawl over to Joshua, making sure he and everyone else watching gets a good look at her cleavage.
   - [Mild] Joey: “Okay, time to take off the bra. (She glares at him.)”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Joey: “All right look, y’know how-y’know how when you’re dating someone and you don’t want to cheat on them, unless it’s with someone really hot?”
+  - [Caution] Joey: “All right look, y’know how-y’know how when you’re dating someone and you don’t want to cheat on them, unless it’s with someone really hot?”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Phoebe: “Y’know it doesn’t matter how much I’m craving it. Y’know why I’m never gonna eat meat? Because it’s murder, cold blooded murder.”
+  - [Too much] Phoebe: “Y’know it doesn’t matter how much I’m craving it. Y’know why I’m never gonna eat meat? Because it’s murder, cold blooded murder.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Joey: “Absolutely! I could be a vegetarian. There’s no meat in beer, right?”
   - [Mild] Scene: The hallway, Ross is sitting on the step drinking a beer as Rachel comes out of the guys apartment.
@@ -1407,27 +1407,27 @@ URL: https://watchwiththekids.com/ep/friends/0417.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Phone-sex / porn-addiction comedy throughout.
+  - [Caution] Phone-sex / porn-addiction comedy throughout.
   - [Mild] Chandler: “Oh-oh, yeah, and did he also say that ah, some of the dialogue was corny and that he actually found it was funny and not sexy?”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Mr. Treeger: “(coming in from the bathroom) Whoa, hey, that lady’s all kinds of naked.”
   - [Mild] Chandler: “Like finding money with naked people on it!”
 - Porn / strippers / sex work — 6 moment(s)
-  - [Explicit] Porn / adult-channel plot is part of this episode.
-  - [Moderate] Phone-sex / porn-addiction comedy throughout.
-  - [Moderate] Central joke: free porn channel they can't (won't) turn off.
-  - [Explicit] The One With The Free Porn
-  - [Explicit] Joey: “Whoa! Is this porn? What did I do? I must’ve hit something on the remote.”
-  - [Explicit] Chandler: “Maybe we shouldn’t pay our phone bill—free phone sex.”
+  - [Too much] Porn / adult-channel plot is part of this episode.
+  - [Caution] Phone-sex / porn-addiction comedy throughout.
+  - [Caution] Central joke: free porn channel they can't (won't) turn off.
+  - [Too much] The One With The Free Porn
+  - [Too much] Joey: “Whoa! Is this porn? What did I do? I must’ve hit something on the remote.”
+  - [Too much] Chandler: “Maybe we shouldn’t pay our phone bill—free phone sex.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Phoebe: “(She opens the case and removes a knife and an soda can.) Now, don’t you hate it when you have to cut a tin can with an ordinary steak knife?”
+  - [Caution] Phoebe: “(She opens the case and removes a knife and an soda can.) Now, don’t you hate it when you have to cut a tin can with an ordinary steak knife?”
 
 ## S4 E18 — The One With Rachel’s New Dress
 URL: https://watchwiththekids.com/ep/friends/0418.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Rachel: “Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing. (She’s holding two frilly, lace nighties.)”
+  - [Caution] Rachel: “Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing. (She’s holding two frilly, lace nighties.)”
   - [Mild] Monica: “Y’know what? It really creeps me out choosing other people’s sex clothes.”
   - [Mild] Rachel: “Ohh, you should know, this place is a real babe magnet. Wanna make out?”
 - Nudity & bodies — 4 moment(s)
@@ -1436,9 +1436,9 @@ Watch for:
   - [Mild] Rachel: “Oh, yeah. And uh, the best part though, when the uh, waiter spilled water down my back, I jumped up, and my boob popped out.”
   - [Mild] Rachel: “No, it’s all right. I got nice boobs. (Phoebe and Monica nod there heads in agreement.)”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Monica: “Oh, sure it does! In high school, you weren’t jealous at all even though all your girlfriends were cheating on you!”
+  - [Caution] Monica: “Oh, sure it does! In high school, you weren’t jealous at all even though all your girlfriends were cheating on you!”
 - Swearing — 2 moment(s)
-  - [Moderate] Monica: “And then you realised if you (Points at Rachel) bitched about it, then you (Points to herself) would stop cooking, and you (Points at Rachel) would have to make your famous baked potato and Diet Coke.”
+  - [Caution] Monica: “And then you realised if you (Points at Rachel) bitched about it, then you (Points to herself) would stop cooking, and you (Points at Rachel) would have to make your famous baked potato and Diet Coke.”
   - [Mild] Mr. Burgin: “France sucks!”
 
 ## S4 E19 — The One With All The Haste
@@ -1446,8 +1446,8 @@ URL: https://watchwiththekids.com/ep/friends/0419.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] A kiss is used as a bribe or performance gag.
-  - [Moderate] Main-cast women kissing is used as a sitcom gag.
+  - [Caution] A kiss is used as a bribe or performance gag.
+  - [Caution] Main-cast women kissing is used as a sitcom gag.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “Hey, want a beer? (Hands him a beer and sits down in one of the chairs.) (Jumping up.) WHOA!!!!”
 
@@ -1456,10 +1456,10 @@ URL: https://watchwiththekids.com/ep/friends/0420.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey in a European art film with a nude actress — nudity/sex-work adjacent jokes.
-  - [Moderate] Scene: Chandler’s bedroom, he is sleeping with Marjorie.
+  - [Caution] Joey in a European art film with a nude actress — nudity/sex-work adjacent jokes.
+  - [Caution] Scene: Chandler’s bedroom, he is sleeping with Marjorie.
 - Nudity & bodies — 1 moment(s)
-  - [Moderate] Joey in a European art film with a nude actress — nudity/sex-work adjacent jokes.
+  - [Caution] Joey in a European art film with a nude actress — nudity/sex-work adjacent jokes.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Time lapse, all three girls are now wearing wedding dresses, eating popcorn, drinking beer, and watching TV.
 
@@ -1470,7 +1470,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Joey: “It’s better! You can’t go to a museum in your underwear!”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Ross: “WE WERE ON A BREAK!!!!!!!”
+  - [Caution] Ross: “WE WERE ON A BREAK!!!!!!!”
 - Violence & injury — 1 moment(s)
   - [Mild] Rachel picks up a newspaper and starts beating him with it.
 - Alcohol & drugs — 1 moment(s)
@@ -1483,15 +1483,15 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Monica: “I mean, you’re the one they’re gonna come to when they wanna run away from home, and the one they talk to about sex.”
 - Porn / strippers / sex work — 7 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Moderate] Stripper plot dominates the episode.
-  - [Moderate] Joey hires a stripper for Ross's bachelor party; stripper chaos.
-  - [Explicit] Joey: “Are you strippers?”
-  - [Explicit] Ross: “Look, I gotta go pick up Ben. Everything so far sounds great Joey, just remember to keep it on the mellow side, okay? Just a couple of guys hanging out playing poker, no-no strippers or anything okay?”
-  - [Explicit] Ross: “Hey listen man, about the stripper…”
-  - [Explicit] Chandler: “(banging on the bottle again) Okay, okay, a little announcement, I just want everyone to know that the position of my best man is still open! And uh, (to the stripper) so is the position of the bride.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Caution] Stripper plot dominates the episode.
+  - [Caution] Joey hires a stripper for Ross's bachelor party; stripper chaos.
+  - [Too much] Joey: “Are you strippers?”
+  - [Too much] Ross: “Look, I gotta go pick up Ben. Everything so far sounds great Joey, just remember to keep it on the mellow side, okay? Just a couple of guys hanging out playing poker, no-no strippers or anything okay?”
+  - [Too much] Ross: “Hey listen man, about the stripper…”
+  - [Too much] Chandler: “(banging on the bottle again) Okay, okay, a little announcement, I just want everyone to know that the position of my best man is still open! And uh, (to the stripper) so is the position of the bride.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Joey: “Oh, yeah, well I already did that! They said they’re gonna look into it right after they solved all the murders.”
+  - [Too much] Joey: “Oh, yeah, well I already did that! They said they’re gonna look into it right after they solved all the murders.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Monica: “Wait a minute! Unless, we give her all gifts she can use after she’s done being pregnant. Like-like umm, regular coffee, Tequila.”
   - [Mild] Chandler: “(banging a spoon against his beer bottle) Okay, a little announcement, a little announcement. I’ve decided that my best man is, my best friend Gunther!”
@@ -1502,23 +1502,23 @@ URL: https://watchwiththekids.com/ep/friends/0423.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] London wedding; Monica and Chandler hook up (secret affair starts).
-  - [Moderate] Scene: The Virgin Atlantic flight to London that Rachel is on.
-  - [Moderate] Joey: “Waltham takes her place.) I’m about to pass the bridesmaid I hooked up with last night.”
+  - [Caution] London wedding; Monica and Chandler hook up (secret affair starts).
+  - [Caution] Scene: The Virgin Atlantic flight to London that Rachel is on.
+  - [Caution] Joey: “Waltham takes her place.) I’m about to pass the bridesmaid I hooked up with last night.”
   - [Mild] “sexual feelings for him, but I do love him—Ohh! Oh my God! Oh my—why”
   - [Mild] Felicity: “(In a sexy voice.)Hello Joey.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] London wedding; Monica and Chandler hook up (secret affair starts).
-  - [Moderate] Passenger: “Oh-no.(He bites his fist at her.)And by the way, it seems to be perfectly clear that you were on a break. (Rachel gasps and doesn’t know what to say. He puts his headphones back on.)”
+  - [Caution] London wedding; Monica and Chandler hook up (secret affair starts).
+  - [Caution] Passenger: “Oh-no.(He bites his fist at her.)And by the way, it seems to be perfectly clear that you were on a break. (Rachel gasps and doesn’t know what to say. He puts his headphones back on.)”
 - Violence & injury — 1 moment(s)
   - [Mild] Mrs. Waltham: “(Slapping the phone into Joey’s chest.) Joey there’s a girl on the phone for you.”
 - Swearing — 4 moment(s)
-  - [Moderate] Mr. Geller: “(Pointing items out on the bill.) Flowers, liquor, recarpet first floor. New guest bath, landscaping. I’m paying to remodel this guys house. (Angrily gets up.) I’m going to give that son on a bitch, a piece of my mind.”
+  - [Caution] Mr. Geller: “(Pointing items out on the bill.) Flowers, liquor, recarpet first floor. New guest bath, landscaping. I’m paying to remodel this guys house. (Angrily gets up.) I’m going to give that son on a bitch, a piece of my mind.”
   - [Mild] Chandler: “Oh, what the hell is that?”
   - [Mild] Mr. Geller: “Ohh forget it. Too hell with tradition, we’re happy to do it.”
   - [Mild] Joey: “(Whispering.) Pisst, Monica. Alright, we really need to start looking out for Rachel. I’ll cover the front door. You watch that big hole at the back of the building and I got Chandler covering Ross.”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] Ross's wedding drunkenness and cold feet.
+  - [Caution] Ross's wedding drunkenness and cold feet.
   - [Mild] Monica: “(Looking nauseous from her parents kissing.) And I’m going to go get drunk. (Gets up to get a drink.)”
   - [Mild] Monica: “My mother’s driving me crazy, but Ross is getting married. I’m happy. (A drunken man approaches.) I’m not going to let anything spoil that.”
 
@@ -1527,14 +1527,14 @@ URL: https://watchwiththekids.com/ep/friends/0501.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Monica/Chandler continue secret sex relationship.
-  - [Moderate] Phoebe: “(To Joey) You ate meat! (Joey is shocked) (To Chandler and Monica) You had sex! (They’re shocked.)”
-  - [Moderate] Monica: “Phoebe, I did not have sex.”
+  - [Caution] Monica/Chandler continue secret sex relationship.
+  - [Caution] Phoebe: “(To Joey) You ate meat! (Joey is shocked) (To Chandler and Monica) You had sex! (They’re shocked.)”
+  - [Caution] Monica: “Phoebe, I did not have sex.”
   - [Mild] Joey: “Look, which one of us is gonna be having sex in there, me or you?”
   - [Mild] Chandler: “Oh Mon-Mon-Mon-Mon-look, this is the honeymoon suite. The room expects sex. The room would be disappointed if it didn’t get sex. All of the other honeymoon suites would think it was a loser.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Chandler: “It could’ve been worse, he could’ve shot her.”
-  - [Moderate] Mr. Waltham: “You spend half your life in the bathroom, why don’t you ever go out the bloody window!”
+  - [Too much] Chandler: “It could’ve been worse, he could’ve shot her.”
+  - [Caution] Mr. Waltham: “You spend half your life in the bathroom, why don’t you ever go out the bloody window!”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Mr. Waltham: “(drunkenly) The next tour of the wine cellar will plan in two in-in minutes…”
   - [Mild] Time lapse, Chandler is finishing his third little bottle of booze.
@@ -1548,9 +1548,9 @@ Watch for:
   - [Mild] Chandler: “Oh, Ross, when you make out card; be sure to make it out to, EM-I-LY.”
   - [Mild] Chandler: “Y'know what else I can't believe? I had to kiss Phoebe and Rachel every time I left a room, I mean it's too bad they didn't see us having sex.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Aftermath of the wedding; Monica/Chandler hide the affair.
+  - [Caution] Aftermath of the wedding; Monica/Chandler hide the affair.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Phoebe: “All right. Well, don't worry, I call shotgun! (She starts out the door.)”
+  - [Caution] Phoebe: “All right. Well, don't worry, I call shotgun! (She starts out the door.)”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Scene: Chandler and Joey's Bathroom, Chandler and Monica are sharing a candlelight bubble bath while drinking champagne and they clink their glasses.
   - [Mild] Joey: “Yeah-yeah-yeah, and they had that beer! That uh…”
@@ -1566,8 +1566,8 @@ Watch for:
   - [Mild] They hug. And quickly that hug turns into a heated make out session, right there on the waiting room couch. Chandler, Rachel, and Monica quickly make their exits.
   - [Mild] Chandler: “…I have, and the technical definition is, two friends who care a lot about each other and have amazing sex and just wanna spend more time together.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Phoebe: “That's easy for you to say, I don't see three kids coming out your vagina!”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Phoebe: “That's easy for you to say, I don't see three kids coming out your vagina!”
   - [Mild] Joey: “…reveal a copy of Playpen, which is the TV version of Playboy Magazine.) Check it out, huh?! This is what naked women looked like the month you were born.”
 
 ## S5 E4 — The One Where Phoebe Hates PBS
@@ -1575,12 +1575,12 @@ URL: https://watchwiththekids.com/ep/friends/0504.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Monica: “All right, let me see. (She grabs the 8 ball.) Will Chandler have sex tonight? (Reads the answer.) Don't count on it. Seems like it works to me.”
-  - [Moderate] Chandler: “Oh-aw my God! Now, I understand if you never want to sleep with me again, but that would be wrong. We're too good! We owe it, to sex!”
+  - [Caution] Monica: “All right, let me see. (She grabs the 8 ball.) Will Chandler have sex tonight? (Reads the answer.) Don't count on it. Seems like it works to me.”
+  - [Caution] Chandler: “Oh-aw my God! Now, I understand if you never want to sleep with me again, but that would be wrong. We're too good! We owe it, to sex!”
   - [Mild] Monica: “(In a sexy voice) Come in. I've been waiting for you.”
   - [Mild] Rachel: “I don’t care! I wanna meet this guy who's the best sex she ever had!”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “Okay, 'cause right after my mom killed herself, I was just in this really bad place, y'know personally.”
+  - [Too much] Phoebe: “Okay, 'cause right after my mom killed herself, I was just in this really bad place, y'know personally.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Chandler: “(entering, happily, with a bottle of champagne, thinking that Monica is the only one there) Ha-ha-ha-(sees everyone)-enh-enh. I'm so glad you guys are all here! My office finally got wrinkle free fax paper!”
 
@@ -1589,8 +1589,8 @@ URL: https://watchwiththekids.com/ep/friends/0505.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Chandler: “And condoms are the way to do that?”
-  - [Moderate] Joey: “'Cause I figured you'd hooked up with some girl and she'd left it there.”
+  - [Caution] Chandler: “And condoms are the way to do that?”
+  - [Caution] Joey: “'Cause I figured you'd hooked up with some girl and she'd left it there.”
   - [Mild] Scene: Atlantic City, New Jersey, Chandler and Monica are about to start their weekend of sex, sex, nothing but sex.
 - Nudity & bodies — 2 moment(s)
   - [Mild] Chandler: “I know, me too. Hey! Y'know what if we went away for a whole weekend? Y'know we'd have no interruptions and we could be naked the entire time.”
@@ -1603,8 +1603,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Ross: “Hey! Hey, look! Ugly Naked Guy's back!”
 - Violence & injury — 2 moment(s)
-  - [Moderate] She puts her leg up on the chair and removes this huge knife from her boot to open the box with. The guys are shocked at the knife's existence.
-  - [Moderate] Chandler: “Yeah, just some 9-year-old Filipino kids who worked their fingers bloody for 12 cents an hour. (Phoebe stares at him wide-eyed. Chandler sees her reaction.) That didn't happen, I made that up!”
+  - [Caution] She puts her leg up on the chair and removes this huge knife from her boot to open the box with. The guys are shocked at the knife's existence.
+  - [Caution] Chandler: “Yeah, just some 9-year-old Filipino kids who worked their fingers bloody for 12 cents an hour. (Phoebe stares at him wide-eyed. Chandler sees her reaction.) That didn't happen, I made that up!”
 
 ## S5 E7 — The One Where Ross Moves In
 URL: https://watchwiththekids.com/ep/friends/0507.html
@@ -1615,17 +1615,17 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “Are you looking at naked tribe's women?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Um-hmm! Look, I-I-I don't know how much more of this I can take! Did you know he taped over my Baywatch tape with some show about bugs! My God! What if that had been porn?”
+  - [Too much] Joey: “Um-hmm! Look, I-I-I don't know how much more of this I can take! Did you know he taped over my Baywatch tape with some show about bugs! My God! What if that had been porn?”
 
 ## S5 E8 — The One With The Thanksgiving Flashbacks
 URL: https://watchwiththekids.com/ep/friends/0508.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Thanksgiving flashbacks include Monica's fat suit and Chandler's insult that shapes her life — body image, not sex.
-  - [Moderate] Mrs. Bing: “Now Chandler dear, just because your father and I are getting a divorce it doesn't mean we don't love you. It just means he would rather sleep with the house-boy than me.”
-  - [Moderate] Rachel: “Well guys tend to get naked before they're gonna have sex.”
-  - [Moderate] Rachel: “Okay, first of all, if you keep calling it that, no one's gonna ever take it. Then, second of all you're not actually gonna have sex with him! You're just gonna make him think that you are.”
+  - [Caution] Thanksgiving flashbacks include Monica's fat suit and Chandler's insult that shapes her life — body image, not sex.
+  - [Caution] Mrs. Bing: “Now Chandler dear, just because your father and I are getting a divorce it doesn't mean we don't love you. It just means he would rather sleep with the house-boy than me.”
+  - [Caution] Rachel: “Well guys tend to get naked before they're gonna have sex.”
+  - [Caution] Rachel: “Okay, first of all, if you keep calling it that, no one's gonna ever take it. Then, second of all you're not actually gonna have sex with him! You're just gonna make him think that you are.”
   - [Mild] Big Nosed Rachel: “Okay, Monica, can you just call it sex?!”
   - [Mild] Rachel: “Well, like anything can be sexy.”
 - Nudity & bodies — 4 moment(s)
@@ -1634,15 +1634,15 @@ Watch for:
   - [Mild] Monica: “I wanna, I want him to be like naked and then I'm going to point at him and laugh!”
   - [Mild] Monica: “And when he's naked I can throw him out in the front yard and lock the door and all the neighbors will just humiliate him!”
 - Violence & injury — 4 moment(s)
-  - [Moderate] Past Life Phoebe: “When the smoke clears, she's missing an arm and the blood is pumping out like you'd see in a horror movie.”
-  - [Moderate] “and-and-and y'know if I get really hot umm, I-I like to pick up this knife (She picks up a”
-  - [Moderate] “knife without putting the box down. She's holding the box between her cheek and shoulder)”
-  - [Moderate] French Phoebe: “…and when the smoke clears, Phoebe still has her arm.) Whew! (Her arm falls off and starts pumping out blood.) This is getting ridiculous uh!”
+  - [Caution] Past Life Phoebe: “When the smoke clears, she's missing an arm and the blood is pumping out like you'd see in a horror movie.”
+  - [Caution] “and-and-and y'know if I get really hot umm, I-I like to pick up this knife (She picks up a”
+  - [Caution] “knife without putting the box down. She's holding the box between her cheek and shoulder)”
+  - [Caution] French Phoebe: “…and when the smoke clears, Phoebe still has her arm.) Whew! (Her arm falls off and starts pumping out blood.) This is getting ridiculous uh!”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Thanksgiving flashbacks include Monica's fat suit and Chandler's insult that shapes her life — body image, not sex.
+  - [Caution] Thanksgiving flashbacks include Monica's fat suit and Chandler's insult that shapes her life — body image, not sex.
 - Sexual insults — 2 moment(s)
-  - [Moderate] Big Nosed Rachel: “Ugh! I cannot believe Chip dumped me for that slut Nancy Branson. I am never going out with him again. I don't care how much he begs!”
-  - [Moderate] Big Nosed Rachel: “Guess what?! All that stuff about Nancy Branson being a slut was all a rumor so Chip dumped her and he wants to come over to my house tonight!”
+  - [Caution] Big Nosed Rachel: “Ugh! I cannot believe Chip dumped me for that slut Nancy Branson. I am never going out with him again. I don't care how much he begs!”
+  - [Caution] Big Nosed Rachel: “Guess what?! All that stuff about Nancy Branson being a slut was all a rumor so Chip dumped her and he wants to come over to my house tonight!”
 
 ## S5 E9 — The One With Ross's Sandwich
 URL: https://watchwiththekids.com/ep/friends/0509.html
@@ -1657,21 +1657,21 @@ Watch for:
   - [Mild] Chandler: “(gasps) You're naked in this picture!”
   - [Mild] Rachel: “Yes! He has a naked picture of Monica! He takes naked pictures of us! And then he eats chicken and looks at them!”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Chandler: “No-no, wait! There's got to be a better explanation. You can tell them you had to make an adult film for your (Thinks) adult film class.”
+  - [Too much] Chandler: “No-no, wait! There's got to be a better explanation. You can tell them you had to make an adult film for your (Thinks) adult film class.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Phoebe: “Someday I'll, tell you about the time I stabbed the cop.”
-  - [Explicit] Phoebe: “Well, he stabbed me first!!”
+  - [Too much] Phoebe: “Someday I'll, tell you about the time I stabbed the cop.”
+  - [Too much] Phoebe: “Well, he stabbed me first!!”
 
 ## S5 E10 — The One With The Inappropriate Sister
 URL: https://watchwiththekids.com/ep/friends/0510.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Estelle: “Well, you’re just going to say no again but...gay porn.”
+  - [Too much] Estelle: “Well, you’re just going to say no again but...gay porn.”
 - Violence & injury — 1 moment(s)
   - [Mild] Joey: “Uh yeah, right here. (He punches his fist through the wall next to the door.)”
 - Swearing — 4 moment(s)
-  - [Moderate] Phoebe: “Fine. (She hands her bell to Ginger and starts to take down her signs.) (The same old lady walks by again.) All right, I'll give you one pointer. Look out for that bitch. (The old lady.)”
+  - [Caution] Phoebe: “Fine. (She hands her bell to Ginger and starts to take down her signs.) (The same old lady walks by again.) All right, I'll give you one pointer. Look out for that bitch. (The old lady.)”
   - [Mild] Rachel: “(Somewhat angrily) Okay. What the hell was that? You know what? Don’t answer me. (Giggling) I have a date with Danny.”
   - [Mild] Phoebe: “Well, yeah! But I'm not gonna take anymore crap. Okay? No more Mrs. Nice Bucket!”
   - [Mild] Danny: “Oh, damn! I got it on my pants.”
@@ -1684,19 +1684,19 @@ Watch for:
   - [Mild] Monica: “Well if Ted Kopel talked about his coworkers botched boob jobs, I would.”
   - [Mild] She puts her hands over her breasts and indicates that the coworkers boob job resulted in one pointing up and one pointing down with her hands by pointing up with one hand and down with the other.
 - Alcohol & drugs — 2 moment(s)
-  - [Explicit] He exhales in sheer ecstasy as the coolness of the bathroom envelops his legs.
-  - [Explicit] Ross: “(in ecstasy) Ahhhhhhhhhhhhhh……….”
+  - [Too much] He exhales in sheer ecstasy as the coolness of the bathroom envelops his legs.
+  - [Too much] Ross: “(in ecstasy) Ahhhhhhhhhhhhhh……….”
 
 ## S5 E12 — The One With Chandler's Work Laugh
 URL: https://watchwiththekids.com/ep/friends/0512.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey: “(snaps his fingers) He hooked up! He hooked up with someone.”
-  - [Moderate] Joey: “He hooked up!! Tell us about her!”
+  - [Caution] Joey: “(snaps his fingers) He hooked up! He hooked up with someone.”
+  - [Caution] Joey: “He hooked up!! Tell us about her!”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Chandler: “Except for that time when we bumped into each other at that strip club.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Chandler: “Except for that time when we bumped into each other at that strip club.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Scene: Chandler, Joey, and Ross's, Chandler is reading a magazine as Ross hands him a beer.
 
@@ -1705,7 +1705,7 @@ URL: https://watchwiththekids.com/ep/friends/0513.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Joey: “Maybe you need sex. I had sex a couple days ago.”
+  - [Caution] Joey: “Maybe you need sex. I had sex a couple days ago.”
   - [Mild] Monica: “(entering, in a hurry) Guys! Guys! I just saw two people having sex in a car right outside.”
   - [Mild] Rachel: “No! No Joey! U-N-I-sex.”
   - [Mild] Rachel: “Hey, don't listen to them. I think it's sexy.”
@@ -1718,8 +1718,8 @@ URL: https://watchwiththekids.com/ep/friends/0514.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Monica: “All right, it'll be great! You just make her think you wanna have sex with her! It'll totally freak her out!”
-  - [Moderate] Chandler: “Okay! Okay! Okay! You win! You win!! I can't have sex with ya!”
+  - [Caution] Monica: “All right, it'll be great! You just make her think you wanna have sex with her! It'll totally freak her out!”
+  - [Caution] Chandler: “Okay! Okay! Okay! You win! You win!! I can't have sex with ya!”
   - [Mild] Phoebe: “And then. I would use y'know the strongest tool at my disposal. My sexuality.”
   - [Mild] Phoebe: “(in a sexy voice) Oh? (Takes the phone from Rachel.) Hello you.”
   - [Mild] Rachel: “All right. Be sexy.”
@@ -1742,9 +1742,9 @@ URL: https://watchwiththekids.com/ep/friends/0515.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Ross: “This is fun. Hey Rach, remember that whole "We were on a break thing?" Well, I'm sorry, will you marry me? (Laughs--whines as he sees that no one is laughing. They're just staring at him in shock.)”
+  - [Caution] Ross: “This is fun. Hey Rach, remember that whole "We were on a break thing?" Well, I'm sorry, will you marry me? (Laughs--whines as he sees that no one is laughing. They're just staring at him in shock.)”
 - Violence & injury — 6 moment(s)
-  - [Moderate] Joey: “Hey Ross, will you pass me that knife?”
+  - [Caution] Joey: “Hey Ross, will you pass me that knife?”
   - [Mild] Joey: “(shyly) She keeps punching me.”
   - [Mild] Chandler: “Hey listen, come on, Joey is having a problem! A little girl is beating him up.”
   - [Mild] Katie: “No, you make them funny. You're the funny one! (She punches him again and he retreats to the arm of the couch.)”
@@ -1762,21 +1762,21 @@ Watch for:
   - [Mild] Joey: “Don't worry, there wasn't any sex in it or anything. I haven't dreamt about her like that since I found out about you two--ish.”
   - [Mild] Joey: “(in a sexy voice) How you doin'?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Chandler: “(To Rachel) He has a gun!”
+  - [Caution] Chandler: “(To Rachel) He has a gun!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Phoebe: “You could get arrested, right now! (Flashes the badge and they glare at her.) All right, yeah, I gotta take it back. I'm totally drunk with power. (She heads for the door just as Joey enters.)”
 - Sexual insults — 2 moment(s)
-  - [Moderate] Phoebe: “I'm in vice. Yeah, in fact I'm undercover right now. I'm a whore.”
-  - [Moderate] Cop: “Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen.”
+  - [Caution] Phoebe: “I'm in vice. Yeah, in fact I'm undercover right now. I'm a whore.”
+  - [Caution] Cop: “Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen.”
 
 ## S5 E17 — The One With Rachel's Inadvertant Kiss
 URL: https://watchwiththekids.com/ep/friends/0517.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Joey: “Did you tell the guy you wanted to have sex with his wife and then fall right out of your chair?”
-  - [Moderate] Rachel: “Oh my God! What if he thinks I'm the kind of girl that-that would just sleep with him?”
-  - [Moderate] Chandler: “{Finally! The voice of reason.} I mean, just impress Gary and Phoebe we have to go upstairs and have sex over and over and I'm saying no to this, why?”
+  - [Caution] Joey: “Did you tell the guy you wanted to have sex with his wife and then fall right out of your chair?”
+  - [Caution] Rachel: “Oh my God! What if he thinks I'm the kind of girl that-that would just sleep with him?”
+  - [Caution] Chandler: “{Finally! The voice of reason.} I mean, just impress Gary and Phoebe we have to go upstairs and have sex over and over and I'm saying no to this, why?”
   - [Mild] Monica: “So! So we've got to go upstairs and have a lot of sex to prove them wrong!”
   - [Mild] “When I thought you wanted sex in exchange for this job, I said no. That shows integrity.”
   - [Mild] “gotta have courage. And umm, and finally when I thought you were making sexual advances in”
@@ -1785,10 +1785,10 @@ Watch for:
   - [Mild] Joey: “Boy, that guy's underwear sucks!”
   - [Mild] Gary's Radio: “Suspect has just emerged naked from the sewer.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Chandler: “(To Gary) So what do you say, maybe sometime I hold your gun?”
+  - [Caution] Chandler: “(To Gary) So what do you say, maybe sometime I hold your gun?”
   - [Mild] Monica: “Okay. (They walk away to get some privacy.) We have got to beat them! {Here we go yet again.}”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Rachel: “(stopping him) Wh-whoa! All right, okay-okay, I see, I see what's going on here! Now listen, look-look, I'm sorry if I gave you the wrong impression, but I am not some hussy who will just sleep around to get ahead!”
+  - [Caution] Rachel: “(stopping him) Wh-whoa! All right, okay-okay, I see, I see what's going on here! Now listen, look-look, I'm sorry if I gave you the wrong impression, but I am not some hussy who will just sleep around to get ahead!”
 
 ## S5 E18 — The One Where Rachel Smokes
 URL: https://watchwiththekids.com/ep/friends/0518.html
@@ -1797,7 +1797,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Chandler: “Weirder than watching his two moms make out? (Monica nods in agreement.)”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Rachel: “Oh, I thought you guys meant marijuana cigarettes, y'know? Y'know what I mean, like dubbies? And I actually, I thought to myself, "Wow, those guys are crazy!" But no, I actually smoke the regular ones all, all the time.”
+  - [Caution] Rachel: “Oh, I thought you guys meant marijuana cigarettes, y'know? Y'know what I mean, like dubbies? And I actually, I thought to myself, "Wow, those guys are crazy!" But no, I actually smoke the regular ones all, all the time.”
   - [Mild] Phoebe: “Oh wait, I change my mind! (She slams the door on them.) Okay, let's talk about the party! I have so many ideas! (Holds up a cocktail napkin.)”
 
 ## S5 E19 — The One Where Ross Can't Flirt
@@ -1805,13 +1805,13 @@ URL: https://watchwiththekids.com/ep/friends/0519.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Chandler: “Okay, I've already taught you so much already, but whatever. See when you flirt with a guy you think, "I'm just flirting, no big deal." But the guy is thinking, "Finally! Somebody who wants to sleep with me!"”
+  - [Caution] Chandler: “Okay, I've already taught you so much already, but whatever. See when you flirt with a guy you think, "I'm just flirting, no big deal." But the guy is thinking, "Finally! Somebody who wants to sleep with me!"”
   - [Mild] Ross: “And she's just so sexy and funny and has the cutest little…”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Joey has made a little home movie that's his big scene. He braces himself against the door to his apartment and while holding a plastic gun and wearing the same sweater says…
-  - [Moderate] Joey: “(on the tape) All right back off! I gotta gun! I'm not afraid to use it!”
+  - [Caution] Joey has made a little home movie that's his big scene. He braces himself against the door to his apartment and while holding a plastic gun and wearing the same sweater says…
+  - [Caution] Joey: “(on the tape) All right back off! I gotta gun! I'm not afraid to use it!”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Ross: “Meth-methane smells…”
+  - [Too much] Ross: “Meth-methane smells…”
 - Homophobic jokes — 1 moment(s)
   - [Mild] Not that there's anything wrong with that, it's just that I'm not.
 
@@ -1833,39 +1833,39 @@ URL: https://watchwiththekids.com/ep/friends/0521.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Phoebe: “Okay. (He grabs his gun and shoots the bird.) Oh! Oh no.”
+  - [Caution] Phoebe: “Okay. (He grabs his gun and shoots the bird.) Oh! Oh no.”
 
 ## S5 E22 — The One With Joey's Big Break
 URL: https://watchwiththekids.com/ep/friends/0522.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Phoebe: “Who would you rather sleep with Monica or Rachel?”
+  - [Caution] Phoebe: “Who would you rather sleep with Monica or Rachel?”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Chandler: “That's a good idea. I wonder where I could (Pause) get a basket of porn…”
-  - [Explicit] Phoebe: “No, don't-don't say I'm sorry with porn!”
+  - [Too much] Chandler: “That's a good idea. I wonder where I could (Pause) get a basket of porn…”
+  - [Too much] Phoebe: “No, don't-don't say I'm sorry with porn!”
 - Violence & injury — 1 moment(s)
   - [Mild] Rachel: “Oh, did you beat him at a board game? He turns into such a baby when he starts to lose.”
 - Fat-shaming — 2 moment(s)
-  - [Moderate] Phoebe: “(quietly) Bye, fat ass.”
-  - [Moderate] Phoebe: “Oh no, I am mad at you. I know that much. But, I am sorry about the fat ass thing. You actually have a very sweet little hiney.”
+  - [Caution] Phoebe: “(quietly) Bye, fat ass.”
+  - [Caution] Phoebe: “Oh no, I am mad at you. I know that much. But, I am sorry about the fat ass thing. You actually have a very sweet little hiney.”
 
 ## S5 E23 — The One In Vegas
 URL: https://watchwiththekids.com/ep/friends/0523.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Rachel: “Noo!! No! You thought, you actually thought I wanted to have sex with you?!”
-  - [Moderate] Chandler: “Love your condoms my man.”
-  - [Moderate] Ross: “(loudly so that everyone can hear) Hey lady! I don't care how much you want it! Okay?! I am not gonna to have sex with you in the bathroom! (Rachel sinks lower on her chair trying to hide.)”
-  - [Moderate] Chandler: “Ohh, great, I have condom in my wallet I've had since I was twelve.”
+  - [Caution] Rachel: “Noo!! No! You thought, you actually thought I wanted to have sex with you?!”
+  - [Caution] Chandler: “Love your condoms my man.”
+  - [Caution] Ross: “(loudly so that everyone can hear) Hey lady! I don't care how much you want it! Okay?! I am not gonna to have sex with you in the bathroom! (Rachel sinks lower on her chair trying to hide.)”
+  - [Caution] Chandler: “Ohh, great, I have condom in my wallet I've had since I was twelve.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Phoebe: “Oh yeah, so you can walk around naked.”
   - [Mild] Phoebe: “Naked alone time.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Moderate] Strip-club / casino adult party atmosphere.
+  - [Caution] Strip-club / casino adult party atmosphere.
 - Alcohol & drugs — 7 moment(s)
-  - [Moderate] Las Vegas: Ross and Rachel drunkenly marry.
+  - [Caution] Las Vegas: Ross and Rachel drunkenly marry.
   - [Mild] Ross: “(Rachel glares at him.) But who cares?! Because it's all on me! (Rachel reaches into the fridge and pulls out two handfuls of those mini booze bottles.) (Watching her.) That is, one big drink!”
   - [Mild] Scene: Ross and Rachel's room, Ross is drinking a beer while Rachel is examining herself in the mirror.
   - [Mild] Chandler: “Thank you, Mister Drunken Gambler! Okay, you get this and uh, we get the biggest suite in the place! (Everyone cheers) Wait-wait-wait-wait! We (motions to Monica and him.) get the biggest suite in the place.”
@@ -1878,8 +1878,8 @@ URL: https://watchwiththekids.com/ep/friends/0601.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Ross and Rachel wake up married in Vegas — sex/alcohol implication.
-  - [Moderate] Ross: “And we didn’t have sex.”
+  - [Caution] Ross and Rachel wake up married in Vegas — sex/alcohol implication.
+  - [Caution] Ross: “And we didn’t have sex.”
   - [Mild] Ross: “No! But we-we didn’t have…sex-uh, did we? I mean, I don’t remember much about last night, it was such a blur.”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] Scene: Rachel’s hotel room, she’s waking up with a horrendous hangover.
@@ -1892,10 +1892,10 @@ URL: https://watchwiththekids.com/ep/friends/0602.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey: “So, Ross and Rachel got married, Monica and Chandler almost got married, do you think you and I should hook up?”
+  - [Caution] Joey: “So, Ross and Rachel got married, Monica and Chandler almost got married, do you think you and I should hook up?”
   - [Mild] Ross: “First marriage, wife’s hidden sexuality, not my fault.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Ross: “(interrupting) No! No, I won’t! I’ll be at the bottom of the dating barrel now. The only guys below me will be Four Divorce Guy uh, Murderer Guy, and-and, Geologists.”
+  - [Too much] Ross: “(interrupting) No! No, I won’t! I’ll be at the bottom of the dating barrel now. The only guys below me will be Four Divorce Guy uh, Murderer Guy, and-and, Geologists.”
   - [Mild] Monica: “(slapping his hand) Hey!”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Ross: “We were drunk! I would’ve married uh, Joey with that amount of alcohol!”
@@ -1921,10 +1921,10 @@ Watch for:
   - [Mild] Joey: “(interrupting him) Uh Ross! Are there uh, are there naked chicks on that piece of paper?”
   - [Mild] Joey: “Well, I’ve just never seen a guy stare so hard at a piece of paper that didn’t have naked chicks on it.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Ross: “Imagine his consternation when—(sees Monica and Rachel.) Oh bloody hell.”
+  - [Caution] Ross: “Imagine his consternation when—(sees Monica and Rachel.) Oh bloody hell.”
   - [Mild] Scene: Chandler and Joey's, Joey is holding a football helmet; and apparently, in a rather disgusting scene, Joey wants Phoebe to beat him senseless.
 - Swearing — 6 moment(s)
-  - [Moderate] Rachel: “Yeah, we could. Oh hey look! There’s some Kappa Kappa Deltas! I was a Kappa. (to them) Hey sisters! (They ignore her.) (To Monica) Wow, we really are bitches.”
+  - [Caution] Rachel: “Yeah, we could. Oh hey look! There’s some Kappa Kappa Deltas! I was a Kappa. (to them) Hey sisters! (They ignore her.) (To Monica) Wow, we really are bitches.”
   - [Mild] Joey: “(reads it) Oh, I can’t believe this! This sucks! When I had insurance I could get hit by a bus or catch on fire, y’know? And it wouldn’t matter. Now I gotta be careful?!”
   - [Mild] Rachel: “Oh yeah, scared the hell out of me. I thought we’d lost you forever. Pheebs, you lie down?”
   - [Mild] Joey: “Why did I have to start working out again? (Looks at the weights he was using.) Damn you 15s!”
@@ -1938,13 +1938,13 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Judge: “Now it also says here that you lied about your sexual preference before marriage?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Ross: “What about the time I said we were on a break?”
+  - [Caution] Ross: “What about the time I said we were on a break?”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Chandler: “I swallowed the sonic blaster gun.”
-  - [Moderate] Phoebe: “Yeah, but only a genius would swallow a sonic blaster gun.”
+  - [Caution] Chandler: “I swallowed the sonic blaster gun.”
+  - [Caution] Phoebe: “Yeah, but only a genius would swallow a sonic blaster gun.”
 - Alcohol & drugs — 3 moment(s)
-  - [Explicit] Rachel: “Uh yes, heroin and crack.”
-  - [Explicit] Judge: “And finally that you were unable to consummate the marriage. Well, that makes sense since you’re gay and addicted to heroin.”
+  - [Too much] Rachel: “Uh yes, heroin and crack.”
+  - [Too much] Judge: “And finally that you were unable to consummate the marriage. Well, that makes sense since you’re gay and addicted to heroin.”
   - [Mild] Rachel: “Well, remember how we were too drunk to remember anything the night we were married?”
 
 ## S6 E6 — The One The Last Night
@@ -1952,7 +1952,7 @@ URL: https://watchwiththekids.com/ep/friends/0606.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Rachel: “"Oh my God, I can’t find a boyfriend! So I guess I’ll just stumble across the hall and sleep with the first guy I find in there!"”
+  - [Caution] Rachel: “"Oh my God, I can’t find a boyfriend! So I guess I’ll just stumble across the hall and sleep with the first guy I find in there!"”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Scene: Rachel’s bedroom, Rachel is entering carrying two glasses of wine. She gives one to Phoebe, keeps one, and completely ignores Monica.
 
@@ -1961,12 +1961,12 @@ URL: https://watchwiththekids.com/ep/friends/0607.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Chandler: “(not amused) And I just realized I can sleep with my eyes open.”
+  - [Caution] Chandler: “(not amused) And I just realized I can sleep with my eyes open.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Chandler: “(blocks the door) No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.”
   - [Mild] Chandler: “(to Ross) I couldn't say that I was naked because she's allowed too see me naked.”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Paul the wine guy / Rachel's dating; impotence jokes in related arcs nearby seasons.
+  - [Caution] Paul the wine guy / Rachel's dating; impotence jokes in related arcs nearby seasons.
   - [Mild] Janine: “Hey Joey, I got some beer for you.”
 
 ## S6 E8 — The One With Ross’s Teeth
@@ -1974,16 +1974,16 @@ URL: https://watchwiththekids.com/ep/friends/0608.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Kim: “Listen to me. If you think sleeping with Ralph is going to get you my job. You are sadly mistaken.”
-  - [Moderate] Phoebe: “Well, the only thing you can do. Sleep with Ralph Lauren.”
-  - [Moderate] Phoebe: “Ohh, sleep with Kenny.”
+  - [Caution] Kim: “Listen to me. If you think sleeping with Ralph is going to get you my job. You are sadly mistaken.”
+  - [Caution] Phoebe: “Well, the only thing you can do. Sleep with Ralph Lauren.”
+  - [Caution] Phoebe: “Ohh, sleep with Kenny.”
   - [Mild] Phoebe: “What am I supposed to do? Ask every guy I make out with if he’s married? (Rachel looks at her.) No, yeah, I should.”
   - [Mild] Rachel: “That-that is your make out buddy. Don’t you recognize him? (Holding up the magazine in front of her face.) Oh wait. Ohh, Phoebe I love you. Kiss me please.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Chandler: “Yes, God forbid we throw out old underwear. You-you know what? I’m going to go over to Joey’s.”
   - [Mild] Monica: “When girls hang out, we don’t have pillow fights in our underwear. (Chandler gets a hurt look on his face.) I’m sorry. We do. We do. I don’t know why I said that.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Kim: “Yeah, nothing happen. You could cut the sexual tension in here with a knife.”
+  - [Caution] Kim: “Yeah, nothing happen. You could cut the sexual tension in here with a knife.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Monica: “Yeah. Go over to Joey’s. Go over to Joey’s and drink some beer and hammer up some drywall.”
   - [Mild] Chandler: “You know when guys hang out they don’t just drink some beer and hammer up drywall?”
@@ -1996,13 +1996,13 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Joey: “Did-did it make you wanna walk around in your underwear?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Rachel: “(humoring Phoebe) Oh my God, he dream-cheated on you!”
+  - [Caution] Rachel: “(humoring Phoebe) Oh my God, he dream-cheated on you!”
 - Alcohol & drugs — 7 moment(s)
-  - [Moderate] Mrs. Geller: “(whispers to Jack a little loudly) I think he’s stoned again.”
-  - [Moderate] Ross: “Okay, remember, we were young. Hey, Spring break, sophomore year, I got high in my bedroom and my parents walked in and smelled it and so I told them that you had gotten stoned and jumped out the window.”
-  - [Moderate] Chandler: “Your parents caught Ross smoking pot in college and he blamed it on me!”
-  - [Moderate] Monica: “(out loud, to her parents) Mom! Dad! Ross smoked pot in college!”
-  - [Moderate] Ross: “(in a 5 year old’s tone) (To Monica) You are such a tattletale! Mom, Dad, you remember that-that time you walked in my room and smelled marijuana?”
+  - [Caution] Mrs. Geller: “(whispers to Jack a little loudly) I think he’s stoned again.”
+  - [Caution] Ross: “Okay, remember, we were young. Hey, Spring break, sophomore year, I got high in my bedroom and my parents walked in and smelled it and so I told them that you had gotten stoned and jumped out the window.”
+  - [Caution] Chandler: “Your parents caught Ross smoking pot in college and he blamed it on me!”
+  - [Caution] Monica: “(out loud, to her parents) Mom! Dad! Ross smoked pot in college!”
+  - [Caution] Ross: “(in a 5 year old’s tone) (To Monica) You are such a tattletale! Mom, Dad, you remember that-that time you walked in my room and smelled marijuana?”
   - [Mild] Monica: “(hugging Chandler) I don’t think you’ll ever get my parents that drunk!”
   - [Mild] Joey: “Rach, you’re killin’ us here, will ya serve the dessert already? Those drunken dancers are waiting!”
 
@@ -2011,14 +2011,14 @@ URL: https://watchwiththekids.com/ep/friends/0610.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
-  - [Moderate] Janine: “I just got a call to be a dancer on a television special for New Year’s Eve. It’s called some sort of Dick’n Rock’n Dickie Eve.”
+  - [Caution] Janine: “I just got a call to be a dancer on a television special for New Year’s Eve. It’s called some sort of Dick’n Rock’n Dickie Eve.”
   - [Mild] Joey: “And if she kisses me back, great! Y’know? But if she says ‘Dude, what the hell are you doing?’ I can say ‘It wasn’t me, it was New Years!’”
   - [Mild] Phoebe: “Yeah, and you have nothing to worry about 'cos they're all crap!”
   - [Mild] Monica: “Man, this sucks! Y’know if Mom and Dad don’t see us on TV after we made them so jealous, I mean, who’s gonna be the losers then?”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Ross: “Wow, Monica’s letting other people help decorate her tree! Did someone get her drunk again or?”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Chandler: “Ah, you’re still just a little fat girl inside aren’t you? (He kisses her on the cheek)”
+  - [Caution] Chandler: “Ah, you’re still just a little fat girl inside aren’t you? (He kisses her on the cheek)”
 
 ## S6 E11 — The One With The Apothecary Table
 URL: https://watchwiththekids.com/ep/friends/0611.html
@@ -2044,29 +2044,29 @@ URL: https://watchwiththekids.com/ep/friends/0613.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Chandler: “Don’t take this personally okay? It’s just that I just can’t have sex with a sick person.”
-  - [Moderate] Monica: “I’m with you Chandler! I mean I can’t have sex with a sick person either, that’s disgusting! But I’m not sick! Let me prove it to you. We are two healthy people in the pribe of libe.”
-  - [Moderate] Monica: “What happened to your rule about never sleeping with sick people?”
+  - [Caution] Chandler: “Don’t take this personally okay? It’s just that I just can’t have sex with a sick person.”
+  - [Caution] Monica: “I’m with you Chandler! I mean I can’t have sex with a sick person either, that’s disgusting! But I’m not sick! Let me prove it to you. We are two healthy people in the pribe of libe.”
+  - [Caution] Monica: “What happened to your rule about never sleeping with sick people?”
   - [Mild] Monica: “(wiping her nose) Are you saying that you don’t wanna get with this? (Tries to do a little sexy body rub, but it doesn’t work all that well with the big robe.)”
   - [Mild] Monica: “(in a sexy voice) Come on. (Coughs loudly.)”
 - Nudity & bodies — 1 moment(s)
   - [Mild] To start this task, she lowers the top of her robe to reveal that she is naked from the waist up, well at least her back is, and starts to rub on the gunk.
 - Sexual insults — 2 moment(s)
-  - [Moderate] Rachel: “Yeah well, I’m-I’m a slut.”
-  - [Moderate] Rachel: “Ugh, she is a slut!”
+  - [Caution] Rachel: “Yeah well, I’m-I’m a slut.”
+  - [Caution] Rachel: “Ugh, she is a slut!”
 
 ## S6 E14 — The One Where Chandler Can’t Cry
 URL: https://watchwiththekids.com/ep/friends/0614.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Adult sexuality jokes run through side plots (high sex-term density in dialogue).
+  - [Caution] Adult sexuality jokes run through side plots (high sex-term density in dialogue).
   - [Mild] The Fan: “No-no, it was! She was in Sex Toy Story 2, Lawrence of Alabia, and I got her autograph! The guys at the comic book store aren’t gonna believe this! (Exits.)”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] The Fan: “That was Phoebe Buffay, the porn star.”
-  - [Explicit] Joey: “Hey Gunther, don’t let that guy in here anymore! He just said Phoebe’s a porn star!”
+  - [Too much] The Fan: “That was Phoebe Buffay, the porn star.”
+  - [Too much] Joey: “Hey Gunther, don’t let that guy in here anymore! He just said Phoebe’s a porn star!”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “Oh y’know what’s sadder than this? Bambi. I cried for three days with that movie. No wait two! Because on the third day my mother killed herself so I was partly crying for that.”
+  - [Too much] Phoebe: “Oh y’know what’s sadder than this? Bambi. I cried for three days with that movie. No wait two! Because on the third day my mother killed herself so I was partly crying for that.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Ross: “Uh okay, well there’s-there’s wine in the kitchen.”
 
@@ -2075,50 +2075,50 @@ URL: https://watchwiththekids.com/ep/friends/0615-0616.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 11 moment(s)
-  - [Moderate] Main-cast women kissing is used as a sitcom gag.
-  - [Explicit] Ross: “(Carol doesn’t like that idea either.) Nah! Umm, y’know we-we could try dirty talk? (Carol still says no.) Umm, we could, we could have a threesome.”
-  - [Explicit] Ross: “So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find…”
-  - [Moderate] Phoebe: “How long has it been since you had sex?”
-  - [Moderate] Rachel: “Oh, it’s so easy for you I mean, you’re not married, you get to have sex with who ever you want!”
-  - [Moderate] Monica: “(giggles) Of course I have! What do you think, I’m some 30 year old virgin?”
-  - [Moderate] Rachel: “Oh my God! You’re a 30 year old virgin!”
-  - [Moderate] Rachel: “Yes!! I mean sex does not have to be a big deal! There shouldn’t be all this rules and restrictions! Y’know, people should be able to sleep with who ever they want, whenever…”
-  - [Moderate] Monica: “All right relax Mr. I’ve Had Sex Four Times!”
+  - [Caution] Main-cast women kissing is used as a sitcom gag.
+  - [Too much] Ross: “(Carol doesn’t like that idea either.) Nah! Umm, y’know we-we could try dirty talk? (Carol still says no.) Umm, we could, we could have a threesome.”
+  - [Too much] Ross: “So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find…”
+  - [Caution] Phoebe: “How long has it been since you had sex?”
+  - [Caution] Rachel: “Oh, it’s so easy for you I mean, you’re not married, you get to have sex with who ever you want!”
+  - [Caution] Monica: “(giggles) Of course I have! What do you think, I’m some 30 year old virgin?”
+  - [Caution] Rachel: “Oh my God! You’re a 30 year old virgin!”
+  - [Caution] Rachel: “Yes!! I mean sex does not have to be a big deal! There shouldn’t be all this rules and restrictions! Y’know, people should be able to sleep with who ever they want, whenever…”
+  - [Caution] Monica: “All right relax Mr. I’ve Had Sex Four Times!”
   - [Mild] Ross: “Carol our sex life is—it’s just not working…”
   - [Mild] Ross: “Yay! (To Carol) Seriously, our sex life… I was thinking, maybe I don’t know, we could try some-some new things. Y’know? For fun?”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
   - [Mild] Phoebe: “Yeah! Or too, you could be two stockbrokers and you’re-you’re-you’re rolling around naked on the trading floor and everybody’s watching! (Ross looks at her.) It never happened.”
   - [Mild] Phoebe: “Hmm, pulling in a salary in the high six figures or rubbing gross naked people for chump change—ooh, what do I do?! What will I do?!”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Ross: “Uh-huh. (Steps to a random kid nearby and hands him his money.) Hey, here you go buddy. Sorry, no porn for you. (To Rachel) Okay, let’s go see Monica!”
+  - [Too much] Ross: “Uh-huh. (Steps to a random kid nearby and hands him his money.) Hey, here you go buddy. Sorry, no porn for you. (To Rachel) Okay, let’s go see Monica!”
 - Affairs / cheating — 7 moment(s)
-  - [Moderate] Joey: “Ohh-oh, wasn’t he cheating on you with her?”
-  - [Moderate] Rachel: “Well, apparently she caught him cheating on her with someone else. Isn’t that sad? (Giggles.) God, could you imagine if I actually married him?! I mean how different would my life be?”
-  - [Moderate] Rachel: “Yeah. Oh I just wish we could not be married for a little bit! Y’know I just wish we could be like on a break!”
-  - [Moderate] Monica: “Rachel! I’m never gonna think it’s okay for you to cheat on your husband!”
-  - [Moderate] Rachel: “Because I’m married. That’s right, I am a married woman! And I came to a TV star’s apartment to have an affair! Uck!”
-  - [Moderate] Scene: Rachel and Barry’s bedroom, Rachel is returning from her disastrous attempt at an affair to find that Barry was much, much more successful with his.
-  - [Moderate] Ross: “I’m sorry your husband cheated on you.”
+  - [Caution] Joey: “Ohh-oh, wasn’t he cheating on you with her?”
+  - [Caution] Rachel: “Well, apparently she caught him cheating on her with someone else. Isn’t that sad? (Giggles.) God, could you imagine if I actually married him?! I mean how different would my life be?”
+  - [Caution] Rachel: “Yeah. Oh I just wish we could not be married for a little bit! Y’know I just wish we could be like on a break!”
+  - [Caution] Monica: “Rachel! I’m never gonna think it’s okay for you to cheat on your husband!”
+  - [Caution] Rachel: “Because I’m married. That’s right, I am a married woman! And I came to a TV star’s apartment to have an affair! Uck!”
+  - [Caution] Scene: Rachel and Barry’s bedroom, Rachel is returning from her disastrous attempt at an affair to find that Barry was much, much more successful with his.
+  - [Caution] Ross: “I’m sorry your husband cheated on you.”
 - Swearing — 3 moment(s)
-  - [Moderate] Monica: “You’re his bitch.”
+  - [Caution] Monica: “You’re his bitch.”
   - [Mild] Phoebe: “What the hell is this, herbal tea? I hate herbal tea!”
   - [Mild] And that is just what I will do, soon as those bastards I work for die!
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Scene: Monica and Phoebe's, Monica is pouring wine for her boyfriend, Dr. Roger.
 - Homophobic jokes — 1 moment(s)
-  - [Moderate] Ross: “She is not… (Realizes) She’s gay. Oh my God. She is so gay! I can’t believe this.”
+  - [Caution] Ross: “She is not… (Realizes) She’s gay. Oh my God. She is so gay! I can’t believe this.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Rachel: “Ohh, so do you! Did you lose weight? (She’s not quite sure of that one.)”
+  - [Caution] Rachel: “Ohh, so do you! Did you lose weight? (She’s not quite sure of that one.)”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Monica: “Hey, check me out, I’m a slut!”
+  - [Caution] Monica: “Hey, check me out, I’m a slut!”
 
 ## S6 E17 — The One With The Unagi
 URL: https://watchwiththekids.com/ep/friends/0617.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Joey: “No-no! I used to get paid for all kinds of medical stuff, remember? Let’s see uh, well I don’t want to donate sperm again.”
+  - [Caution] Joey: “No-no! I used to get paid for all kinds of medical stuff, remember? Let’s see uh, well I don’t want to donate sperm again.”
   - [Mild] Rachel: “What? You wanna see me self-defend myself?! Go over there (points) and pretend you’re a sexual predator! Go on! I dare ya!!”
   - [Mild] Scene: Monica and Chandler’s bedroom, they are relaxing in sexual bliss.
   - [Mild] Chandler: “Well, it’s like that old saying, have some sex, eat some cake.”
@@ -2126,24 +2126,24 @@ Watch for:
   - [Mild] Joey: “And of course, crotchless panties.”
   - [Mild] Joey: “You can’t make crotchless panties? You take, you take a pair of scissors and you just cut…”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Joey: “(To Ross) I really prefer doing that at the home office y’know? (Ross nods his head.) Ooh-ooh, maybe they want like some of my blood or-or spit or something, huh?”
+  - [Caution] Joey: “(To Ross) I really prefer doing that at the home office y’know? (Ross nods his head.) Ooh-ooh, maybe they want like some of my blood or-or spit or something, huh?”
 
 ## S6 E18 — The One Where Ross Dates A Student
 URL: https://watchwiththekids.com/ep/friends/0618.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Ralph Lauren underwear campaign; body/sex-appeal comedy.
+  - [Caution] Ralph Lauren underwear campaign; body/sex-appeal comedy.
 - Nudity & bodies — 1 moment(s)
-  - [Moderate] Ralph Lauren underwear campaign; body/sex-appeal comedy.
+  - [Caution] Ralph Lauren underwear campaign; body/sex-appeal comedy.
 
 ## S6 E19 — The One With Joey’s Fridge
 URL: https://watchwiththekids.com/ep/friends/0619.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Ross: “Well, what is she goes down and-and sleeps with a bunch of guys?”
-  - [Moderate] Elizabeth: “Ross, it’s going to be okay. I’m not going down there to hook up with a bunch of guys. I really like you. I like how things are going between us.”
+  - [Caution] Ross: “Well, what is she goes down and-and sleeps with a bunch of guys?”
+  - [Caution] Elizabeth: “Ross, it’s going to be okay. I’m not going down there to hook up with a bunch of guys. I really like you. I like how things are going between us.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “So what? I drove down, sold T-shirts, had a blast. And y’know who knows how to party? Drunk college chicks.”
 
@@ -2152,33 +2152,33 @@ URL: https://watchwiththekids.com/ep/friends/0620.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Joey: “And what?! Did you sleep with her?!”
+  - [Caution] Joey: “And what?! Did you sleep with her?!”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Rachel: “(on the phone) Monica, I’m quitting! I just helped an 81 year old woman put on a thong and she didn’t even buy it!”
   - [Mild] Chandler: “(looks down at his clothes) Am I naked again?!”
   - [Mild] The next flashback is from The One Where No One's Ready. Joey is retaliating against Chandler hiding his underwear by wearing a whole bunch of clothes.
 - Violence & injury — 3 moment(s)
-  - [Moderate] Suddenly Ross jumps up from behind the counter armed with a plastic gun. By the way, he’s overacting too.
+  - [Caution] Suddenly Ross jumps up from behind the counter armed with a plastic gun. By the way, he’s overacting too.
   - [Mild] They keep flicking each other. This turns into slapping each other.
   - [Mild] Monica removes Rachel's sock and starts beating her with it.)This leads to wrestling on the floor.
 - Swearing — 3 moment(s)
-  - [Moderate] Phoebe: “There we go.You know what, if we were in prison, you guys would be, like, my bitches.”
+  - [Caution] Phoebe: “There we go.You know what, if we were in prison, you guys would be, like, my bitches.”
   - [Mild] Chandler: “You know he coulda gotten me a VCR, he coulda gotten me a set of golf clubs, but no, he has to get me the woman repeller! The eyesore from the Liberace house of crap!”
   - [Mild] Chandler: “What the hell happened?!! How were you locked in?!! And where the hell is all of our stuff?!!”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Thus starts another series of flashbacks all dealing with the pressure the rest of the Friends have to deal with in their jobs. The first flashback is from The One With The Stoned Guy.
+  - [Caution] Thus starts another series of flashbacks all dealing with the pressure the rest of the Friends have to deal with in their jobs. The first flashback is from The One With The Stoned Guy.
 
 ## S6 E21 — The One Where Ross Meets Elizabeth’s Dad
 URL: https://watchwiththekids.com/ep/friends/0621.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Monica: “Yeah! That’s why I’m sleeping with him on the side.”
+  - [Caution] Monica: “Yeah! That’s why I’m sleeping with him on the side.”
   - [Mild] Phoebe: “(in a sexy voice to Chandler) I’ll be waiting.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “But I got to act with a robot Pheebs, and-and I don’t know anything about technology! I can’t even use Chandler’s computer except to find porn! And-and that’s only ‘cause it’s right there when you turn it on!”
+  - [Too much] Joey: “But I got to act with a robot Pheebs, and-and I don’t know anything about technology! I can’t even use Chandler’s computer except to find porn! And-and that’s only ‘cause it’s right there when you turn it on!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Everyone claps and cheers, Joey mimics looking about with a gun.
+  - [Caution] Everyone claps and cheers, Joey mimics looking about with a gun.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Rachel: “Oh we were, but that was just a (pause as the audience reacts), I mean that was just a big drunken mistake.”
 
@@ -2187,13 +2187,13 @@ URL: https://watchwiththekids.com/ep/friends/0622.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Joey: “(nodding knowingly) Now you’re thinking you gotta sleep with him.”
+  - [Caution] Joey: “(nodding knowingly) Now you’re thinking you gotta sleep with him.”
   - [Mild] Ross: “Wow! The only thing I got from my Grandmother was her eyes. I mean not-not her actual eyeballs, but, but people say that my eyes—Do-do you want to make out?”
   - [Mild] They fall to the couch and start to make out, but Ross stops suddenly.
   - [Mild] “it. Nice and sexy. You’re just a love machine. (Starts singing) I’m just a”
 - Swearing — 3 moment(s)
-  - [Moderate] Phoebe: “Oh! Here it is! (Noticing it next to the door.) Ooh, Joey! Why did you sign it, "Son of a bitch?" (Son of a bitch is written across the entire picture.)”
-  - [Moderate] The Dry Cleaner: “(entering) Son of a bitch!”
+  - [Caution] Phoebe: “Oh! Here it is! (Noticing it next to the door.) Ooh, Joey! Why did you sign it, "Son of a bitch?" (Son of a bitch is written across the entire picture.)”
+  - [Caution] The Dry Cleaner: “(entering) Son of a bitch!”
   - [Mild] Joey: “Look at him, that smug Belushi bastard, I’ll…”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Scene: Paul’s Cabin, Paul and Rachel are sitting on the couch drinking wine and talking.
@@ -2210,7 +2210,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “Okay, hold on real quick, hold on a second let me just uh, (sits on the counter and buttons her sweater to show some cleavage) get a little more comfortable here. Wait, now wait a second, this isn’t too revealing is it?”
 - Swearing — 1 moment(s)
-  - [Moderate] Rachel: “Well, you’re lucky you never met that bitch Sharon Majesky. Anyway, umm… The rest of you life, y’know? Any regrets?”
+  - [Caution] Rachel: “Well, you’re lucky you never met that bitch Sharon Majesky. Anyway, umm… The rest of you life, y’know? Any regrets?”
 
 ## S6 E24 — The One With The Proposal
 URL: https://watchwiththekids.com/ep/friends/0624.html
@@ -2220,9 +2220,9 @@ Watch for:
   - [Mild] Chandler: “I mean a pig can have like a hundred sexual partners in a lifetime, and that’s just an ordinary pig not even a pig that’s good at sports!”
   - [Mild] Monica: “…I do! I mean coming to my place of work and telling me that you love me, I want that! Talking about pig sex over lunch, I don’t want that!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Chandler: “Will you marry me? Will you marry me? (Makes like a gun with his fingers.) Hey, you marry me! (He gives up as Joey, Rachel, Phoebe, and Ross slink in all excited.) What’s going on little elves?”
+  - [Caution] Chandler: “Will you marry me? Will you marry me? (Makes like a gun with his fingers.) Hey, you marry me! (He gives up as Joey, Rachel, Phoebe, and Ross slink in all excited.) What’s going on little elves?”
 - Alcohol & drugs — 5 moment(s)
-  - [Moderate] Monica and Chandler's wedding plans; binge drinking at bachelor/ette setups later.
+  - [Caution] Monica and Chandler's wedding plans; binge drinking at bachelor/ette setups later.
   - [Mild] Chandler: “I’m going to get her a bottle of the champagne that she really loves; therefore knows how expensive it is.”
   - [Mild] Scene: The Charity Event, they’re holding a silent auction, Rachel is looking at one of the items and Phoebe walks up and hands her a glass of wine.
   - [Mild] Chandler: “(It’s a butchered version of the Pledge of Allegiance of the United States for our foreign friends.) The champagne is here.”
@@ -2233,9 +2233,9 @@ URL: https://watchwiththekids.com/ep/friends/0701.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Rachel: “Oh wow. That—y’know what? That is so unfair. Y’know what? Now I want to steal your thunder! Come on Ross, let’s go have sex!”
-  - [Moderate] Monica: “(yelling after them) I can’t believe you’re gonna have sex on my engagement night!!”
-  - [Moderate] Monica: “(starting to cry) I’m sorry I almost made you sleep with Ross. (They hug.)”
+  - [Caution] Rachel: “Oh wow. That—y’know what? That is so unfair. Y’know what? Now I want to steal your thunder! Come on Ross, let’s go have sex!”
+  - [Caution] Monica: “(yelling after them) I can’t believe you’re gonna have sex on my engagement night!!”
+  - [Caution] Monica: “(starting to cry) I’m sorry I almost made you sleep with Ross. (They hug.)”
   - [Mild] Ross: “One night, just-just sex. No strings attached?”
   - [Mild] Chandler: “Uhh, you’ve had a lot of sex right?”
 - Nudity & bodies — 1 moment(s)
@@ -2255,9 +2255,9 @@ Watch for:
   - [Mild] Scene: Ross’s apartment, Phoebe has moved in and has a massage client on her table she’s set up in the living room. Ross enters and is shocked to see a naked man lying on the table.
   - [Mild] Ross: “The big deal is I don’t want naked, greasy strangers in my apartment when I want to kick back with a puzzle—beer! Cold beer.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Joey: “Okay, look I’m sorry, I went in there to take a nap and I know I shouldn’t have, but you got porn!”
-  - [Explicit] Joey: “You got porn!”
-  - [Explicit] Ross: “(chases her) Oh yeah, yeah? Well uh, when we were going out, I read tons of porno magazines! (Realizes a table of women overheard him.) (To that table.) ‘Sup?”
+  - [Too much] Joey: “Okay, look I’m sorry, I went in there to take a nap and I know I shouldn’t have, but you got porn!”
+  - [Too much] Joey: “You got porn!”
+  - [Too much] Ross: “(chases her) Oh yeah, yeah? Well uh, when we were going out, I read tons of porno magazines! (Realizes a table of women overheard him.) (To that table.) ‘Sup?”
 - Violence & injury — 1 moment(s)
   - [Mild] “and pulls out a little beat up paperback book. He opens it and starts to read from it.)”
 - Alcohol & drugs — 1 moment(s)
@@ -2270,8 +2270,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Monica: “Sweetie, I think the glasses look great. They make you look really sexy.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Monica: “You gave my father a lap dance!”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Monica: “You gave my father a lap dance!”
 - Violence & injury — 1 moment(s)
   - [Mild] Rachel: “Am I getting through to you sailor?! (She punctuates each word by slapping him on the forehead.)”
 - Alcohol & drugs — 4 moment(s)
@@ -2299,29 +2299,29 @@ URL: https://watchwiththekids.com/ep/friends/0705.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Chandler: “Oh my God! Those are my bedroom eyes?! Why did you ever sleep with me?”
+  - [Caution] Chandler: “Oh my God! Those are my bedroom eyes?! Why did you ever sleep with me?”
   - [Mild] Monica: “Yeah! (They turn to the camera, and Chandler does The Face again.) All right, maybe you don’t have to smile. Let’s try something else. Let’s try umm, try looking sexy.”
   - [Mild] Phoebe: “And! She uses sex as a weapon!”
   - [Mild] Ross: “Fine! Thank you for warning me. At breakfast I’ll be on full alert for room painting and sex weapons.”
 - Swearing — 3 moment(s)
-  - [Moderate] Rachel: “Yeah Melissa, I don’t want to be known as the uh, office bitch, but I will call your supervisor.”
+  - [Caution] Rachel: “Yeah Melissa, I don’t want to be known as the uh, office bitch, but I will call your supervisor.”
   - [Mild] Rachel: “It’s-it’s not like I love him, it’s just physical! But—I mean I get crushes like this all the time! I mean hell, I had a crush on you when I first met ya!”
   - [Mild] Rachel: “Yes! Hell yes!”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Rachel: “Why? Is he? He is! Isn’t he? He’s dating that slut in marketing!”
+  - [Caution] Rachel: “Why? Is he? He is! Isn’t he? He’s dating that slut in marketing!”
 
 ## S7 E6 — The One With The Nap Partners
 URL: https://watchwiththekids.com/ep/friends/0706.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey: “No, one man for the rest of my life? I don’t know if I can do it! This means I’ll never get to sleep with Joey!”
+  - [Caution] Joey: “No, one man for the rest of my life? I don’t know if I can do it! This means I’ll never get to sleep with Joey!”
   - [Mild] Rachel: “Okay. Okay fine, y’know what? We will let Ross and Joey decide. (Ross enters.) (In a sexy voice.) Hiiiii, Ross! Sweetie.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Phoebe: “Okay, I can’t believe that Monica and Chandler are getting married. I remember talking about this day with Rachel while we were showering together, naked. (Raises her glass and drinks.)”
 - Swearing — 4 moment(s)
-  - [Moderate] Chandler: “No, see the thing is I want to get out of here before Joey gets all worked up and starts calling everybody bitch.”
-  - [Moderate] Joey: “What are you talking about? Bitch.”
+  - [Caution] Chandler: “No, see the thing is I want to get out of here before Joey gets all worked up and starts calling everybody bitch.”
+  - [Caution] Joey: “What are you talking about? Bitch.”
   - [Mild] Rachel: “Okay! Okay! Umm, Webster’s Dictionary defines marriage as… (Ross and Joey start writing.) Okay!! Forget that! That sucks!!”
   - [Mild] Joey: “(reacting first by jumping up) Dude! What the hell are you doing?! God! (Heads for his room leaving Ross.)”
 - Alcohol & drugs — 2 moment(s)
@@ -2335,8 +2335,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “Oh good. (She walks to the closed bathroom door, opens it, and finds a naked woman wrapped in a towel.) Ahhh! My God, sorry! (She closes the door and confronts Joey.)”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Joey: “Hey, don’t start judging me! (To Rachel) Huh? You’re the one who’s in love with her assistant! (To Phoebe) Huh? And you, you’re the one having the affair with the guy who keeps the pigeons on the roof!”
-  - [Moderate] Phoebe: “Secret affair!”
+  - [Caution] Joey: “Hey, don’t start judging me! (To Rachel) Huh? You’re the one who’s in love with her assistant! (To Phoebe) Huh? And you, you’re the one having the affair with the guy who keeps the pigeons on the roof!”
+  - [Caution] Phoebe: “Secret affair!”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Rachel: “Look Joey, come on she’s so perfect for you! I mean she’s sweet, she-she likes baseball, and she-she had two beers at lunch.”
   - [Mild] Joey: “My beers?! Look you guys, she’s a very nice girl. Okay? We had a good time, but I just—I don’t see it going anywhere.”
@@ -2346,34 +2346,34 @@ URL: https://watchwiththekids.com/ep/friends/0708.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Chandler: “Y’know, for you, and…(Clears his throat) I left the door open and she must have gotten out and I looked everywhere, all over the apartment, including the roof, which FYI Ross, one of your neighbors, growing weed.”
+  - [Caution] Chandler: “Y’know, for you, and…(Clears his throat) I left the door open and she must have gotten out and I looked everywhere, all over the apartment, including the roof, which FYI Ross, one of your neighbors, growing weed.”
 
 ## S7 E9 — The One With All The Candy
 URL: https://watchwiththekids.com/ep/friends/0709.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Rachel: “Oh Monica come on, y’know I don’t sleep with guys on the first date!”
+  - [Caution] Rachel: “Oh Monica come on, y’know I don’t sleep with guys on the first date!”
   - [Mild] Monica: “Where you can make out with your assistant.”
   - [Mild] Chandler: “Maybe, isn’t she the woman who lives below you and has sex really loud?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “When asked if you take initiative I wrote, "Yes, he was able to unhook my bra with minimal supervision," and under Problems with Performance I wrote, "Dear God, I hope not," and then…”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Boy I tell ya, this little talent came in handy before I could afford porn.”
+  - [Too much] Joey: “Boy I tell ya, this little talent came in handy before I could afford porn.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Monica: “See, this is why I told you never get involved with your assistant! And here is no such thing as keeping secrets when it comes to affairs. (To Chandler) Did you hear that Chandler? No such thing!”
+  - [Caution] Monica: “See, this is why I told you never get involved with your assistant! And here is no such thing as keeping secrets when it comes to affairs. (To Chandler) Did you hear that Chandler? No such thing!”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Ross: “Well let there—what if a man comes along and puts a gun to your head and says, "You ride this bike or I’ll sh…I’ll shoot you."”
-  - [Moderate] Phoebe: “Okay, I would ring the bell to distract him and then I would knock the gun out of his hand with a Chinese throwing star.”
+  - [Caution] Ross: “Well let there—what if a man comes along and puts a gun to your head and says, "You ride this bike or I’ll sh…I’ll shoot you."”
+  - [Caution] Phoebe: “Okay, I would ring the bell to distract him and then I would knock the gun out of his hand with a Chinese throwing star.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Chandler: “…Hey, and you can not smoke in here! (Takes the cigarette and takes a drag for himself.) (Exhaling in ecstasy) Merry Christmas.”
+  - [Too much] Chandler: “…Hey, and you can not smoke in here! (Takes the cigarette and takes a drag for himself.) (Exhaling in ecstasy) Merry Christmas.”
 
 ## S7 E10 — The One With the Holiday Armadillo
 URL: https://watchwiththekids.com/ep/friends/0710.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “Yeah, oh, "Your mom probably won't kill herself," y’know?”
+  - [Too much] Phoebe: “Yeah, oh, "Your mom probably won't kill herself," y’know?”
 
 ## S7 E11 — The One With All The Cheesecakes
 URL: https://watchwiththekids.com/ep/friends/0711.html
@@ -2382,10 +2382,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Joey: “Hey, you can cancel plans with friends if there is the possibility for sex!”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Ross: “(To Monica) Stop saying, "Blood" to strangers.”
-  - [Moderate] Rachel: “Okay! (Grabs a knife and cuts it in half.) All right, pick a half.”
+  - [Caution] Ross: “(To Monica) Stop saying, "Blood" to strangers.”
+  - [Caution] Rachel: “Okay! (Grabs a knife and cuts it in half.) All right, pick a half.”
 - Swearing — 1 moment(s)
-  - [Moderate] Ross: “That bitch! (He gets up and they go over to ambush Frannie. Monica taps on Frannie’s shoulder.)”
+  - [Caution] Ross: “That bitch! (He gets up and they go over to ambush Frannie. Monica taps on Frannie’s shoulder.)”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Ross: “Hey Joe, while you’re over there how about another beer for the Ross-A-Tron?”
 
@@ -2394,18 +2394,18 @@ URL: https://watchwiththekids.com/ep/friends/0712.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Monica: “Yeah. We-we had sex and then we fell asleep.”
+  - [Caution] Monica: “Yeah. We-we had sex and then we fell asleep.”
   - [Mild] Tag: “If this is your idea of sexy talk? (Shakes his head that it’s not working.)”
   - [Mild] Chandler: “No. We were in the middle of sex…and you fell asleep.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Rachel: “I don’t know Tag! How can your genitals make phone calls? Okay? It’s not a perfect world! Just go please.”
+  - [Too much] Rachel: “I don’t know Tag! How can your genitals make phone calls? Okay? It’s not a perfect world! Just go please.”
   - [Mild] Rachel: “Okay get your coat! (They get their coats and start to leave. Rachel suddenly stops and sticks the hand up the back of her shirt.) Oh! When did you unhook this? (Her bra.) Nice work!”
   - [Mild] Rachel: “Thank you. (He leaves and she proceeds to plant the folder in his bottom drawer. She then picks up the phone and holds it to her breasts.) Hello? (Hangs up the phone.) I still don’t get it.”
   - [Mild] Joey: “Ross, you should know that my pants are startin’ to come down and I’m not wearing any underwear!”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Moderate] Chandler's stripper bachelor surprise; strip-club energy.
+  - [Caution] Chandler's stripper bachelor surprise; strip-club energy.
 - Swearing — 3 moment(s)
-  - [Moderate] Phoebe: “Okay, this is where you and I part ways. (She drops the blanket into the chute.) Noisy bitch!”
+  - [Caution] Phoebe: “Okay, this is where you and I part ways. (She drops the blanket into the chute.) Noisy bitch!”
   - [Mild] Chandler: “It got interesting! Damn you Oprah!”
   - [Mild] Joey: “Man, I’m starving! What the hell was I thinking at dinner?! "Do you want soup or salad?" Both! Always order both!”
 
@@ -2414,12 +2414,12 @@ URL: https://watchwiththekids.com/ep/friends/0713.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “(Mimes putting a gun to his head, pulling the trigger, and splattering his brain on the”
+  - [Caution] “(Mimes putting a gun to his head, pulling the trigger, and splattering his brain on the”
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] Scene: The telemarketing office, Phoebe is still trying to talk Earl out of suicide.
-  - [Explicit] Phoebe: “My mom killed herself.”
+  - [Too much] Scene: The telemarketing office, Phoebe is still trying to talk Earl out of suicide.
+  - [Too much] Phoebe: “My mom killed herself.”
 - Swearing — 2 moment(s)
-  - [Moderate] Rachel: “…(She tries pulling on the back of the chair, until the hinge breaks and the back falls off.) You bitch!”
+  - [Caution] Rachel: “…(She tries pulling on the back of the chair, until the hinge breaks and the back falls off.) You bitch!”
   - [Mild] Ross: “(To Monica) Let’s grab our stuff and get the hell out of here.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Chandler: “(He picks up the beer.) Beer’s still cold.”
@@ -2432,7 +2432,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “Okay, but taking care of a drunk, naked woman seems like a job for Joey.”
 - Swearing — 4 moment(s)
-  - [Moderate] Rachel: “So what?! Y’know what? The way I see it—(Phoebe pulls out a hair from the back of her head)—Ow! Son of a bitch!!”
+  - [Caution] Rachel: “So what?! Y’know what? The way I see it—(Phoebe pulls out a hair from the back of her head)—Ow! Son of a bitch!!”
   - [Mild] Tag: “She would appreciate it if you don’t use the words old or downhill or (To Joey) they still look pretty damn good.”
   - [Mild] Mr. Geller: Crap.
   - [Mild] Rachel: “What’s-what’s going on? Phil’s really pissed!”
@@ -2446,19 +2446,19 @@ URL: https://watchwiththekids.com/ep/friends/0715.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Joey: “Well, I think it’s ridiculous that you haven’t had sex in three and a half months.”
+  - [Caution] Joey: “Well, I think it’s ridiculous that you haven’t had sex in three and a half months.”
   - [Mild] Phoebe: “That wasn’t a date! That was, that was just friends getting together…(quietly) having sex.”
   - [Mild] Rachel: “I wonder how I should be? Should I be uh (In a sexy voice) Hello?”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Phoebe: “(A woman with large breasts walks in the door) Ohh knockers will help us figure it out. (She walks by and he checks her out.)”
   - [Mild] Cecilia: “Oh that explains all the women’s underwear.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Dina: “Well, at least I’m not a murderer! (Jessica slaps her.)”
+  - [Too much] Dina: “Well, at least I’m not a murderer! (Jessica slaps her.)”
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] Phoebe: “Ohh, I lost my mom to suicide.”
-  - [Explicit] Phoebe: “Oh. Okay, well I-I was kinda hoping that I would just…be alone y’know to think about my mom and her suicide.”
+  - [Too much] Phoebe: “Ohh, I lost my mom to suicide.”
+  - [Too much] Phoebe: “Oh. Okay, well I-I was kinda hoping that I would just…be alone y’know to think about my mom and her suicide.”
 - Swearing — 1 moment(s)
-  - [Moderate] Monica: “(breaks away) Oh wait, just one more thing! One more minute! (To Cecilia) Umm, you’re a stupid bitch.”
+  - [Caution] Monica: “(breaks away) Oh wait, just one more thing! One more minute! (To Cecilia) Umm, you’re a stupid bitch.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Scene: Silvercup Studios, a scene is being shot where Dina and Fredrick are celebrating Jessica’s horrible accident by drinking champagne.
 
@@ -2467,32 +2467,32 @@ URL: https://watchwiththekids.com/ep/friends/0716.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 11 moment(s)
-  - [Moderate] Rachel: “Okay. Well that’s pretty much all that we have—Oh! Oh! Have you ever had a virgin margarita? (Holds up a bottle of margarita mix.)”
-  - [Moderate] Ben: “What’s a virgin?”
-  - [Moderate] Chandler: “No, but Horny for Monica Minister called, wanting to know if we were still together.”
-  - [Moderate] Joey: “All right!!! Okay!! All right! Okay-okay, I gotta get started on my speech! Oh, wait a minute, Internet ministers can still have sex right?”
-  - [Moderate] Joey: “Oh. Okay. Ooh! Ooh! Okay, maybe I’ll talk about London! Y’know when you two hooked up! Only, only I won’t say hooked up. I’ll say, "Began their beautiful journey…"”
-  - [Moderate] Joey: “Hey no-no-no-no! It’s cool! It’s cool! I-I’ll only be a second, I’m still with my bride’s maid, I just—Where are those condoms you brought?”
-  - [Moderate] Phoebe: “Yeah, it’s totally meant to be. (To Monica) Tell him who you originally wanted to hook up with that night.”
-  - [Moderate] Chandler: “Who did you originally want to hook up with?”
-  - [Moderate] Chandler: “It is to me. You wanted to sleep with Batman, and instead you had to settle for Robin. (Walks out and slams the door.)”
-  - [Moderate] Chandler: “Hey. Do you want this scone? (Holds up his plate) It came for me but it would probably rather sleep with you!”
-  - [Moderate] Phoebe: “I’m really glad you guys are okay but, I just keep thinking what would happen if-if you two (Points to Monica and Joey) actually had hooked up.”
+  - [Caution] Rachel: “Okay. Well that’s pretty much all that we have—Oh! Oh! Have you ever had a virgin margarita? (Holds up a bottle of margarita mix.)”
+  - [Caution] Ben: “What’s a virgin?”
+  - [Caution] Chandler: “No, but Horny for Monica Minister called, wanting to know if we were still together.”
+  - [Caution] Joey: “All right!!! Okay!! All right! Okay-okay, I gotta get started on my speech! Oh, wait a minute, Internet ministers can still have sex right?”
+  - [Caution] Joey: “Oh. Okay. Ooh! Ooh! Okay, maybe I’ll talk about London! Y’know when you two hooked up! Only, only I won’t say hooked up. I’ll say, "Began their beautiful journey…"”
+  - [Caution] Joey: “Hey no-no-no-no! It’s cool! It’s cool! I-I’ll only be a second, I’m still with my bride’s maid, I just—Where are those condoms you brought?”
+  - [Caution] Phoebe: “Yeah, it’s totally meant to be. (To Monica) Tell him who you originally wanted to hook up with that night.”
+  - [Caution] Chandler: “Who did you originally want to hook up with?”
+  - [Caution] Chandler: “It is to me. You wanted to sleep with Batman, and instead you had to settle for Robin. (Walks out and slams the door.)”
+  - [Caution] Chandler: “Hey. Do you want this scone? (Holds up his plate) It came for me but it would probably rather sleep with you!”
+  - [Caution] Phoebe: “I’m really glad you guys are okay but, I just keep thinking what would happen if-if you two (Points to Monica and Joey) actually had hooked up.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Joey: “No-no-no-no look no! I won’t spit, and I won’t stare at Monica’s breasts! Y’know? Everyone knows I’m an ass man!”
   - [Mild] Monica: “We’re gonna see each other naked.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Joey: “Yeah, I just got off the Internet! Man, there is a lot of porn out there!”
-  - [Explicit] Joey: “Ooh-ooh! Could you imagine if I sent that hooker up to the room like I was gonna?!”
+  - [Too much] Joey: “Yeah, I just got off the Internet! Man, there is a lot of porn out there!”
+  - [Too much] Joey: “Ooh-ooh! Could you imagine if I sent that hooker up to the room like I was gonna?!”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Ben: “‘Cause you guys were on a break.”
-  - [Moderate] Ben: “That you and daddy were not on a break.”
+  - [Caution] Ben: “‘Cause you guys were on a break.”
+  - [Caution] Ben: “That you and daddy were not on a break.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Rachel: “Hey! We were not on a—Okay. That’s fine! Fine. Y’know what Ben? One day when you are a lot older I am going to tell you that entire story over a pitcher of real margaritas, okay?”
   - [Mild] Chandler: “How drunk are you?”
   - [Mild] Monica: “Drunk enough to know that I want to do this. Not so drunk that you should feel guilty about taking advantage.”
 - Homophobic jokes — 1 moment(s)
-  - [Moderate] Phoebe: “I know! Robin is so gay!”
+  - [Caution] Phoebe: “I know! Robin is so gay!”
 
 ## S7 E17 — The One With The Cheap Wedding Dress
 URL: https://watchwiththekids.com/ep/friends/0717.html
@@ -2506,23 +2506,23 @@ URL: https://watchwiththekids.com/ep/friends/0718.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Monica: “No, a guy would be saying, "I’m never gonna get to sleep with anyone else." Oh my God!”
-  - [Moderate] Monica: “Okay, but all right you’re a guy, does it not freak you that you’re never gonna sleep with anybody else?”
-  - [Moderate] Chandler: “Sleeping with somebody new, anxiety, panic, and I’m afraid even more sweating.”
+  - [Caution] Monica: “No, a guy would be saying, "I’m never gonna get to sleep with anyone else." Oh my God!”
+  - [Caution] Monica: “Okay, but all right you’re a guy, does it not freak you that you’re never gonna sleep with anybody else?”
+  - [Caution] Chandler: “Sleeping with somebody new, anxiety, panic, and I’m afraid even more sweating.”
   - [Mild] Morse: “(In a sexy voice) You wear that tight little turtleneck sweater…”
   - [Mild] Phoebe: “I’m just saying, get his number just in case. But no Chandler is in an accident and can’t perform sexually and he would want you to take a lover to satisfy the needs that he can no longer fulfill.”
   - [Mild] Ross: “Yeah! I don’t know. I mean, last year Elizabeth now-now this kid. What-what-what-what is it?! Am I giving out some kind of…sexy professor vibe? (Rachel and Joey both look at him.)”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Monica: “The woman that got married a bunch of times and killed herself when you were 13?”
+  - [Too much] Monica: “The woman that got married a bunch of times and killed herself when you were 13?”
 
 ## S7 E19 — The One With Ross and Monica’s Cousin
 URL: https://watchwiththekids.com/ep/friends/0719.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Monica: “Yeah. But a part of me also can’t wait ‘til it’s over. Chandler and I have this pact not to have sex again until the wedding.”
-  - [Moderate] Chandler: “Technically we could have sex again. What do you think, bossy and domineering?!”
-  - [Moderate] Ross: “(Pause) Oh my God! This is the longest that anyone has not talked ever! (Pause) There is nothing you can say to make this worse!! So just say something!! (Pause.) (To her) I-I, I uh haven’t had sex in a very long time.”
+  - [Caution] Monica: “Yeah. But a part of me also can’t wait ‘til it’s over. Chandler and I have this pact not to have sex again until the wedding.”
+  - [Caution] Chandler: “Technically we could have sex again. What do you think, bossy and domineering?!”
+  - [Caution] Ross: “(Pause) Oh my God! This is the longest that anyone has not talked ever! (Pause) There is nothing you can say to make this worse!! So just say something!! (Pause.) (To her) I-I, I uh haven’t had sex in a very long time.”
   - [Mild] Ross: “A no sex pact huh? I actually have one of those going on with every woman in America.”
   - [Mild] The extremely beautiful and sexy Denise Richards is playing Cassie.
 - Nudity & bodies — 4 moment(s)
@@ -2531,9 +2531,9 @@ Watch for:
   - [Mild] Joey: “And I am only naked in one scene.”
   - [Mild] Cassie: “I’ll always remember that summer, because it’s when I got all of these freckles. (She pulls her blouse open to show him her shoulder and bra strap.)”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Moderate] Chandler's missing stripper 'party favor' confusion — stripper hired for party.
-  - [Explicit] Joey: “I don’t know! It’s not like it’s porn! This is a serious, legitimate movie. Y’know? And the nudity is really important to the story.”
-  - [Explicit] Monica: “That’s what you say about porn.”
+  - [Caution] Chandler's missing stripper 'party favor' confusion — stripper hired for party.
+  - [Too much] Joey: “I don’t know! It’s not like it’s porn! This is a serious, legitimate movie. Y’know? And the nudity is really important to the story.”
+  - [Too much] Monica: “That’s what you say about porn.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Scene: Ross's apartment, Cassie and Ross are watching a movie and Cassie is pouring Ross some more wine as Ross has his hands full with the glass and holding the bowl of popcorn in his lap.
   - [Mild] Ross: “She was the one who suggested opening a bottle of wine.”
@@ -2543,7 +2543,7 @@ URL: https://watchwiththekids.com/ep/friends/0720.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Main-cast women kissing is used as a sitcom gag.
+  - [Caution] Main-cast women kissing is used as a sitcom gag.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Rachel: “Yeah, it was senior year in college. It was after the Sigma Chi luau and Melissa and I got very drunk! And we ended up kissing! For several minutes!”
   - [Mild] Rachel: “I’m not vanilla! I’ve done lots of crazy things! I mean I got-I got drunk and married in Vegas!”
@@ -2553,11 +2553,11 @@ URL: https://watchwiththekids.com/ep/friends/0721.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Chandler: “Okay! Okay! Okay! You win! You win!! I can't have sex with ya!”
+  - [Caution] Chandler: “Okay! Okay! Okay! You win! You win!! I can't have sex with ya!”
   - [Mild] Chandler: “(swallowing hard) It's very, very nice. Well, come here. I'm very happy were gonna have all the sex.”
 - Nudity & bodies — 9 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Ross: “Yes, yes, fine, that is my penis. Can we be grown-ups now?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Ross: “Yes, yes, fine, that is my penis. Can we be grown-ups now?”
   - [Mild] Phoebe: “Yeah, except your breasts look kinda small. (Points.)”
   - [Mild] Monica: “Those are my eyes! Those are my breasts. (Points.)”
   - [Mild] Joey: “I like that! (To Phoebe) Oh, okay! Show him your bra! He's afraid of bras! Can't work 'em! (He swiftly rips open the front of Phoebe's dress revealing her bra.)”
@@ -2571,8 +2571,8 @@ URL: https://watchwiththekids.com/ep/friends/0722.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Chandler: “He had sex with Mr. Girabaldi!”
-  - [Moderate] Joey: “Yeah! Much! Listen uh, not that I’m y’know insecure about my manhood or anything y’know, but I think I need to hook up with a woman like right now.”
+  - [Caution] Chandler: “He had sex with Mr. Girabaldi!”
+  - [Caution] Joey: “Yeah! Much! Listen uh, not that I’m y’know insecure about my manhood or anything y’know, but I think I need to hook up with a woman like right now.”
 - Nudity & bodies — 5 moment(s)
   - [Mild] Joey: “Listen, you know how uh, when you’re wearing pants and you lean forward I check out your underwear?”
   - [Mild] Joey: “Well, when Jake did it I saw that…he was wearing women’s underwear!”
@@ -2580,23 +2580,23 @@ Watch for:
   - [Mild] Joey: “Check it out. (He turns around, pulls down his pants, and shows Phoebe that he’s got panties on.) How much of a man am I?!”
   - [Mild] Joey: “Bikini, French cut, thong! And-and the fabrics! You’ve got cotton, silk, lace! And y’know what I’ve always wondered about?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “You’ve seen my huge stack of porn right? (Phoebe nods.)”
+  - [Too much] Joey: “You’ve seen my huge stack of porn right? (Phoebe nods.)”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Chandler: “Yeah, I just ordered a beer! (Pounds the table.)”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
+  - [Caution] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S7 E23 — The One With Chandler and Monica’s Wedding
 URL: https://watchwiththekids.com/ep/friends/0723.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Wedding; Rachel learns she's pregnant (sex consequence becomes season arc).
+  - [Caution] Wedding; Rachel learns she's pregnant (sex consequence becomes season arc).
   - [Mild] Mrs. Geller: “The sexy blonde behind the counter. (She waves at Gunther who waves back.)”
   - [Mild] Chandler: “The Bings have horrible marriages! They yell. They fight. And they use the pool boy as a pawn in their sexual games!”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Mrs. Bing: “Don’t you have a little too much penis to be wearing a dress like that?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Mrs. Bing: “Don’t you have a little too much penis to be wearing a dress like that?”
   - [Mild] Chandler: “Mom. Thanks for wearing something. (They hug.) (She’s wearing a tight dress with a lot of cleavage showing.)”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Joey: “Are you drunk?”
@@ -2608,7 +2608,7 @@ URL: https://watchwiththekids.com/ep/friends/07outtakes.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Cut to Monica and Chandler's, Sick Monica is trying to entice Chandler to have sex with her.
+  - [Caution] Cut to Monica and Chandler's, Sick Monica is trying to entice Chandler to have sex with her.
 - Nudity & bodies — 2 moment(s)
   - [Mild] Cut to Monica’s restaurant kitchen, it’s the episode where Joey is working as a waiter at Monica’s restaurant. Joey is patting her breast from when she set it on fire.
   - [Mild] Matthew runs in and starts patting the other breast, then walks away. Matt slowly stops patting her breast.
@@ -2616,66 +2616,66 @@ Watch for:
   - [Mild] Cut to Monica and Chandler's, Monica is throwing a party. Joey is talking to Ross about the bad audition he just had while pouring booze onto a snow cone.
   - [Mild] Matt: “Okay, I’ll just put a little more booze on there. (Pours some more on.)”
 - Homophobic jokes — 1 moment(s)
-  - [Explicit] Cut to Central Perk, to the theme from The Dick Van Dyke show Joey runs into Central Perk carrying a stack of Soap Opera Digests and falls on the step. He does bounce right back up making it all that much funnier.
+  - [Too much] Cut to Central Perk, to the theme from The Dick Van Dyke show Joey runs into Central Perk carrying a stack of Soap Opera Digests and falls on the step. He does bounce right back up making it all that much funnier.
 - Fat-shaming — 2 moment(s)
-  - [Moderate] Conan: “(to Courtney) You-you’ve worn a fat suit on the show. And, a lot of people love you in the fat suit. Do you like wearing the fat suit? Is it fun?”
-  - [Moderate] Courtney: “They made me dance, in the fat suit.”
+  - [Caution] Conan: “(to Courtney) You-you’ve worn a fat suit on the show. And, a lot of people love you in the fat suit. Do you like wearing the fat suit? Is it fun?”
+  - [Caution] Courtney: “They made me dance, in the fat suit.”
 
 ## S8 E1 — The One After "I Do"
 URL: https://watchwiththekids.com/ep/friends/0801.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Who is the father? Rachel's pregnancy reveal — sex as central plot.
+  - [Caution] Who is the father? Rachel's pregnancy reveal — sex as central plot.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Photographer: “Now why don’t we get a shot of just Monica and the bloody soldier.”
+  - [Caution] Photographer: “Now why don’t we get a shot of just Monica and the bloody soldier.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Rachel: “She then tries to spit the champagne back into the glass without Monica noticing.”
   - [Mild] Rachel: “(Takes another sip of champagne and spits it back out) Somebody just take this away from me!!”
 - Fat-shaming — 2 moment(s)
-  - [Moderate] A large little fat girl walks over.
-  - [Moderate] Fat Girl: Gert!
+  - [Caution] A large little fat girl walks over.
+  - [Caution] Fat Girl: Gert!
 
 ## S8 E2 — The One With The Red Sweater
 URL: https://watchwiththekids.com/ep/friends/0802.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Phoebe: “Pretty big? It’s huge! God, this guy doesn’t have a clue! He’s just walking down the street thinking, ‘I had sex with Rachel Green. I rock!’ then bam! He’s a father and everything’s different.”
+  - [Caution] Phoebe: “Pretty big? It’s huge! God, this guy doesn’t have a clue! He’s just walking down the street thinking, ‘I had sex with Rachel Green. I rock!’ then bam! He’s a father and everything’s different.”
   - [Mild] Rachel: “Yeah, one time, when we were dating, uh we got a late checkout, he got so excited it was the best sex we ever had. Until y’know, he screamed out Radisson at the end.”
   - [Mild] Phoebe: “Yeah. You’re just gonna knock on his door and change his life forever. You’re like Ed McMahon except without the big check, or the raw sexual magnetism.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Rachel: “Oh wow, you didn’t even try to unhook my bra!”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Monica: “Oh thanks. (Reading the bill) Champagne, strawberries…Oh my God! I can’t believe Chandler ordered porn on our wedding night!”
+  - [Too much] Monica: “Oh thanks. (Reading the bill) Champagne, strawberries…Oh my God! I can’t believe Chandler ordered porn on our wedding night!”
 
 ## S8 E3 — The One Where Rachel Tells…
 URL: https://watchwiththekids.com/ep/friends/0803.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Ross: “Yeah, I need uh… I’m just—I don’t know—I don’t understand, umm, how this happened? We-we used a condom.”
-  - [Moderate] Rachel: “I know. I know, but y’know condoms only work like 97% of the time.”
-  - [Moderate] Ross: “No they don’t!!! (He runs to the bedroom to check and returns with his box of condoms.) Well they should put it in huge black letters!!!!”
-  - [Moderate] Ross: “No! No! I want to talk now! Okay? I—In fact, (picks up the phone) I am going to talk to the president of the condom company!”
+  - [Caution] Ross: “Yeah, I need uh… I’m just—I don’t know—I don’t understand, umm, how this happened? We-we used a condom.”
+  - [Caution] Rachel: “I know. I know, but y’know condoms only work like 97% of the time.”
+  - [Caution] Ross: “No they don’t!!! (He runs to the bedroom to check and returns with his box of condoms.) Well they should put it in huge black letters!!!!”
+  - [Caution] Ross: “No! No! I want to talk now! Okay? I—In fact, (picks up the phone) I am going to talk to the president of the condom company!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Monica: “Yeah, but I’m the only one related by blood.”
+  - [Caution] Monica: “Yeah, but I’m the only one related by blood.”
 
 ## S8 E4 — The One With The Videotape
 URL: https://watchwiththekids.com/ep/friends/0804.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Ross: “About…about sex? (Joey looks at him confused) That I hadn’t had sex in months?”
-  - [Moderate] Joey: “The sky’s blue Ross and I had sex yesterday!”
-  - [Moderate] Joey: “Okay. Now you’re gonna want to have sex with me when you hear it, but you have to remember it is just the story.”
-  - [Moderate] Chandler: “That’s the magic story you use when you wanna have sex!”
+  - [Caution] Ross: “About…about sex? (Joey looks at him confused) That I hadn’t had sex in months?”
+  - [Caution] Joey: “The sky’s blue Ross and I had sex yesterday!”
+  - [Caution] Joey: “Okay. Now you’re gonna want to have sex with me when you hear it, but you have to remember it is just the story.”
+  - [Caution] Chandler: “That’s the magic story you use when you wanna have sex!”
   - [Mild] Phoebe: “I can’t believe he taped the two of them having sex!”
   - [Mild] Ross: “I actually had a topic in mind! I’m, I’m kinda going through a dry spell, sex wise.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Joey: “How long since you’ve seen a girl naked?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Rachel: “Oh really? Well how would you like it if I had sex with you and I taped it? (Joey smiles luridly) Oh forget it! (Ross enters.) Oh there he is now, the father of my child, the porn king of the west village.”
+  - [Too much] Rachel: “Oh really? Well how would you like it if I had sex with you and I taped it? (Joey smiles luridly) Oh forget it! (Ross enters.) Oh there he is now, the father of my child, the porn king of the west village.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Rachel: “And so I had a lot of work to do so Ross, nice guy that he is, offered to help me out. And then we had a little wine, we got to talking, and the next thing you know out of nowhere Ross comes on to me.”
   - [Mild] Scene: Ross's Apartment, Ross is on his date with Kristen and they’re drinking wine.
@@ -2685,13 +2685,13 @@ URL: https://watchwiththekids.com/ep/friends/0805.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Chandler: “You know me sir. Oh ah, I do have a question for ya. Do you know how I get around the office computer network so I can access the really good Internet porn?”
+  - [Too much] Chandler: “You know me sir. Oh ah, I do have a question for ya. Do you know how I get around the office computer network so I can access the really good Internet porn?”
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] Phoebe: “You can’t fire him and dump him the same day, he’ll kill himself.”
-  - [Explicit] Phoebe: “Are you kidding?! Another week with that sip, I’ll kill myself!”
+  - [Too much] Phoebe: “You can’t fire him and dump him the same day, he’ll kill himself.”
+  - [Too much] Phoebe: “Are you kidding?! Another week with that sip, I’ll kill myself!”
 - Swearing — 5 moment(s)
-  - [Moderate] Phoebe: “Okay. But the question is who’s gonna go first. ‘Cause whoever goes second is the bitch.”
-  - [Moderate] Phoebe: “Come on! The boss that fires a guy that’s just been dumped, bitch! And the woman who dumps a guy that’s just been fired, blond bitch!”
+  - [Caution] Phoebe: “Okay. But the question is who’s gonna go first. ‘Cause whoever goes second is the bitch.”
+  - [Caution] Phoebe: “Come on! The boss that fires a guy that’s just been dumped, bitch! And the woman who dumps a guy that’s just been fired, blond bitch!”
   - [Mild] Bob: “I just had a meeting, I was actually hoping to get transferred up here, but I just found out its not gonna happen. Apparently somebody thinks I’m not eleventh floor material. Say uh, who the hell is this Chandler?”
   - [Mild] Bob: “I want to talk to that bastard, see what his problem is.”
   - [Mild] Chandler: “(entering) Bob. Bob! Bob!!! (He turns around) What the hell are you doing?!”
@@ -2710,7 +2710,7 @@ Watch for:
   - [Mild] Eric: “Okay, I just slapped my future sister-in-law’s ass.”
   - [Mild] Monica: “What?! Come on I am tough! Punch me right here! (Her stomach) As hard as you can!”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “My mother killed herself.”
+  - [Too much] Phoebe: “My mother killed herself.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Ursula: “Yeah. It wasn’t a town when I got there, but it was a town when I left. (To Eric) Shall we get me really drunk?”
 
@@ -2719,10 +2719,10 @@ URL: https://watchwiththekids.com/ep/friends/0807.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Couple may have had sex on a table Monica and Chandler buy — gross-out sex joke.
-  - [Moderate] Gunther: “Jij hebt seks met ezels. (Translation: You have sex with donkeys.)”
-  - [Moderate] Phoebe: “We didn’t have sex.”
-  - [Moderate] Phoebe: “You-you…you had sex with Ursula?!”
+  - [Caution] Couple may have had sex on a table Monica and Chandler buy — gross-out sex joke.
+  - [Caution] Gunther: “Jij hebt seks met ezels. (Translation: You have sex with donkeys.)”
+  - [Caution] Phoebe: “We didn’t have sex.”
+  - [Caution] Phoebe: “You-you…you had sex with Ursula?!”
   - [Mild] Phoebe: “(Motions for him to kiss her again which he does and they start to make out.)”
   - [Mild] Eric: “Uh, the sex.”
 - Nudity & bodies — 4 moment(s)
@@ -2731,38 +2731,38 @@ Watch for:
   - [Mild] Monica: “Do this for me! Come on, I catch you looking at woman’s breasts all the time!”
   - [Mild] Monica: “Do you see this? (Mimics him drooling over a woman’s breasts.)”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Ross: “That’s not really porn.”
+  - [Too much] Ross: “That’s not really porn.”
 
 ## S8 E8 — The One With The Stripper
 URL: https://watchwiththekids.com/ep/friends/0808.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Stripper stays in their lives; sex-work comedy is the A-plot.
+  - [Caution] Stripper stays in their lives; sex-work comedy is the A-plot.
   - [Mild] Phoebe: “Sure. Yeah, he’s kinda sexy.”
   - [Mild] Joey: “Maybe she wants you to learn something. Huh? Now is there anything you’re really bad at y’know, sexually?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Monica: “Please! I feel so bad! Just watch the hot woman get naked!”
 - Porn / strippers / sex work — 8 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Moderate] Stripper stays in their lives; sex-work comedy is the A-plot.
-  - [Moderate] Chandler's bachelor-party stripper (elderly stripper gag).
-  - [Explicit] The One With The Stripper
-  - [Explicit] Phoebe: “Oh my God!!! Monica!! He’s the stripper from your bachelorette party!!”
-  - [Explicit] Joey: “Yeah, that’s one naked hooker!”
-  - [Explicit] Scene: Monica and Chandler's, Chandler and Joey are discussing what to do about the now naked hooker in the guestroom.
-  - [Explicit] Monica: “Is that, is that what they call strippers sometimes?”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Caution] Stripper stays in their lives; sex-work comedy is the A-plot.
+  - [Caution] Chandler's bachelor-party stripper (elderly stripper gag).
+  - [Too much] The One With The Stripper
+  - [Too much] Phoebe: “Oh my God!!! Monica!! He’s the stripper from your bachelorette party!!”
+  - [Too much] Joey: “Yeah, that’s one naked hooker!”
+  - [Too much] Scene: Monica and Chandler's, Chandler and Joey are discussing what to do about the now naked hooker in the guestroom.
+  - [Too much] Monica: “Is that, is that what they call strippers sometimes?”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Phoebe: “That’s it?! You call that a fight? Come on! "We were on a break!" "No we weren’t!" What happened to you two?!”
+  - [Caution] Phoebe: “That’s it?! You call that a fight? Come on! "We were on a break!" "No we weren’t!" What happened to you two?!”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Chandler: “That is funny, maybe for my birthday she’ll murder someone.”
+  - [Too much] Chandler: “That is funny, maybe for my birthday she’ll murder someone.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Dr. Green: “’74?! I ordered the ’75! That’s a magnificent wine! The ’74 is sewage! Why would you bring me sewage?! (The waiter’s dumbfounded) Is that a hard question? Are you an idiot? Is that why you’re a waiter?”
   - [Mild] Dr. Green: “(on phone, not hearing her) …there’s gonna be a wedding! (Joey enters from his room and goes to get a beer from the fridge.) That’s unacceptable Rachel!”
 - Sexual insults — 3 moment(s)
-  - [Moderate] Dr. Green: “Well why not? So you can spend your time with this tramp?!”
-  - [Moderate] Mona: Tramp?!
-  - [Moderate] Chandler: “All right Rock, Paper, Scissors who has to tell the whore to leave! (Joey smirks.) What?”
+  - [Caution] Dr. Green: “Well why not? So you can spend your time with this tramp?!”
+  - [Caution] Mona: Tramp?!
+  - [Caution] Chandler: “All right Rock, Paper, Scissors who has to tell the whore to leave! (Joey smirks.) What?”
 
 ## S8 E9 — The One With The Rumor
 URL: https://watchwiththekids.com/ep/friends/0809.html
@@ -2771,41 +2771,41 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Rachel: “Oh! I do not remember him! Wow! He's really got that sexy, smoldering thing going on.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Will: “That’s right! We said your parents flipped a coin, decided to raise you as a girl, but you still had a hint of a penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Will: “That’s right! We said your parents flipped a coin, decided to raise you as a girl, but you still had a hint of a penis.”
   - [Mild] Rachel: “…Carter wouldn’t go out with me! This is why Billy Tratt would just stay in this region! (Motions to her breasts.) (Joey has turned around.)”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Joey: “(Monica moves the knife again.) What?!”
+  - [Caution] Joey: “(Monica moves the knife again.) What?!”
 
 ## S8 E10 — The One With Monica’s Boots
 URL: https://watchwiththekids.com/ep/friends/0810.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Joey: “Well obviously this is a mistake! You can’t be pregnant! Because you have to have sex to get pregnant!”
+  - [Caution] Joey: “Well obviously this is a mistake! You can’t be pregnant! Because you have to have sex to get pregnant!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Monica: “I can’t do that either! The soles’ are already a little scuffed up and the insides are filled with my blood.”
+  - [Caution] Monica: “I can’t do that either! The soles’ are already a little scuffed up and the insides are filled with my blood.”
 
 ## S8 E11 — The One With Ross’ Big Step Forward
 URL: https://watchwiththekids.com/ep/friends/0811.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Phoebe: “Umm, he’s here to have sex with you.”
-  - [Moderate] Phoebe: “It’s okay, he’s a virgin.”
-  - [Moderate] Joey: “Is that college talk for horny?”
+  - [Caution] Phoebe: “Umm, he’s here to have sex with you.”
+  - [Caution] Phoebe: “It’s okay, he’s a virgin.”
+  - [Caution] Joey: “Is that college talk for horny?”
   - [Mild] throwing these sexual harassment cases at me and I keep knocking them out of the park!
   - [Mild] sex with you.
   - [Mild] Just sex, y’know? No strings attached, no relationship, just with someone that I feel
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Rachel: “I think, if it was a little colder in here I could see your nipples”
+  - [Too much] Rachel: “I think, if it was a little colder in here I could see your nipples”
   - [Mild] pictures of my breasts!
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] grab your coat, we’re going to a strip club.
-  - [Explicit] Scene: A Strip Club, Doug and Chandler are there.
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] grab your coat, we’re going to a strip club.
+  - [Too much] Scene: A Strip Club, Doug and Chandler are there.
 - Violence & injury — 1 moment(s)
-  - [Moderate] who took my blood sample really cute? Y’know who I’m talking about, bald
+  - [Caution] who took my blood sample really cute? Y’know who I’m talking about, bald
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Monica: “From the tequila factory?”
 
@@ -2824,7 +2824,7 @@ Watch for:
   - [Mild] you had to, if you had to, who would you punch?
   - [Mild] Rachel: “No one! They are my friends, I wouldn’t punch any of them.”
 - Swearing — 4 moment(s)
-  - [Moderate] Well, you’re just a little bitch, aren’t you?
+  - [Caution] Well, you’re just a little bitch, aren’t you?
   - [Mild] Chandler: “I don’t suck. It’s sucks. You suck.”
   - [Mild] phrase, "Get the hell out of my way!"
   - [Mild] Phoebe: “Chandler sucks! He couldn’t have gotten this good!”
@@ -2842,14 +2842,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Chandler: “Honey, it’s not the bath I enjoy, it’s the wet, naked lady.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] greatest love affair of their lives! And they would have me to thank, and we could all
+  - [Caution] greatest love affair of their lives! And they would have me to thank, and we could all
 
 ## S8 E14 — The One With The Secret Closet
 URL: https://watchwiththekids.com/ep/friends/0814.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Monica and Chandler try to conceive — timed sex schedule comedy.
+  - [Caution] Monica and Chandler try to conceive — timed sex schedule comedy.
   - [Mild] Rachel: “And I hope it’s not an inappropriate time to say this but, you’re the best sex I ever had.”
   - [Mild] Monica: “(in a sexy voice) Oh. Oh yeah! Ohhhhh! Ohh! Oh yeah!”
   - [Mild] Phoebe: “Oh, you make sex noises when you get massaged!”
@@ -2860,9 +2860,9 @@ Watch for:
   - [Mild] Phoebe: “Monica! We lived together for years! I’ve seen you naked!”
   - [Mild] Rachel: “I-I forgot my underwear. (Ross lets her go.)”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Y’know? I can uh, I can watch porn in the living room.”
+  - [Too much] Joey: “Y’know? I can uh, I can watch porn in the living room.”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Joey: “Uh, really good. Really good. Yeah, I should be ready to kill myself any”
+  - [Too much] Joey: “Uh, really good. Really good. Yeah, I should be ready to kill myself any”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “Well uh, I wanted to have a few beers, but uh, I got rid of those because Rachel couldn’t stand the smell of them.”
 
@@ -2871,18 +2871,18 @@ URL: https://watchwiththekids.com/ep/friends/0815.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] More trying-to-get-pregnant sex scheduling.
-  - [Moderate] Joey: “No, I’m not sleeping with your friend Jane again.”
+  - [Caution] More trying-to-get-pregnant sex scheduling.
+  - [Caution] Joey: “No, I’m not sleeping with your friend Jane again.”
   - [Mild] Chandler: “Well, I’m not really in a sexy mood right now.”
   - [Mild] Ross: “Hey, whatever it is, I am sure it has happened to me. Y’know, actually once—once I got dumped during sex.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Chandler: “You know, it haunts me? Up ‘til now, the worst thing I ever saw, was my father doing tequila shots off the naked houseboy. After this, I would gladly make that my screensaver!”
   - [Mild] Chandler: “Oh, great. We have to watch him do yoga in his underwear, but for this he closes the drapes!”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Chandler: “‘Candy and Cookie?’ Monica got me porn?!”
-  - [Explicit] Chandler: “Worst porn ever! Worst porn ever! (Chandler starts to press buttons on the remote control, frantically.)”
+  - [Too much] Chandler: “‘Candy and Cookie?’ Monica got me porn?!”
+  - [Too much] Chandler: “Worst porn ever! Worst porn ever! (Chandler starts to press buttons on the remote control, frantically.)”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “Well, I think my mother was too busy planning her suicide to provide saltwater treats. (Ross hands her one) Thank you! So what, you’re just never going to tell her?”
+  - [Too much] Phoebe: “Well, I think my mother was too busy planning her suicide to provide saltwater treats. (Ross hands her one) Thank you! So what, you’re just never going to tell her?”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Phoebe: “Hey, buddy. How’s my favorite dog, huh? How’s my favorite dog? (the dog doesn’t move) You’re subdued. (to Joey) Did you give him a beer?”
   - [Mild] Ross: “And you thought she was going to be in our way! So, why don’t you, uh, open the champagne, and I’ll be right back. I’ve got a surprise for you.”
@@ -2892,7 +2892,7 @@ URL: https://watchwiththekids.com/ep/friends/0816.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Ross: “Sure, because women never like Joey. Y’know, I think he’s a virgin.”
+  - [Caution] Ross: “Sure, because women never like Joey. Y’know, I think he’s a virgin.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Joey: “Oh now—Hey Ross-Ross! Do you wanna-wanna come in for a beer or something?”
   - [Mild] Joey: “Do uh, do you got any beer? All-all I got is this melon stuff that Rachel left. I don’t…”
@@ -2915,7 +2915,7 @@ URL: https://watchwiththekids.com/ep/friends/0818.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Chandler: “Somewhere there is someone with a tranquilizer gun and a huge butterfly net looking for that man.”
+  - [Caution] Chandler: “Somewhere there is someone with a tranquilizer gun and a huge butterfly net looking for that man.”
   - [Mild] Parker: “Dahaaa! (Punches Chandler in the arm and he makes a face of pain.) I’m going to find the men’s room, be right back.”
   - [Mild] Chandler: “Ya know if you want to, I can just hold them down and you could (Punches the air).”
 
@@ -2924,36 +2924,36 @@ URL: https://watchwiththekids.com/ep/friends/0819.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey: “See I'm comin' to fix the copier, I can't get to the copier, I'm thinkin' what do I do, what do I do…so I just watch 'em have sex.”
+  - [Caution] Joey: “See I'm comin' to fix the copier, I can't get to the copier, I'm thinkin' what do I do, what do I do…so I just watch 'em have sex.”
   - [Mild] The final one is from Episode 607: The One Where Phoebe Runs, Joey has been trying to repel Janice and sees it’s not working to his liking so he’s confronting her about the sexual tension.
 - Nudity & bodies — 1 moment(s)
   - [Mild] Joey: “Check it out. (He turns around, pulls down his pants, and shows Phoebe that he’s got panties on.) How much of a man am I?!”
 - Porn / strippers / sex work — 4 moment(s)
-  - [Explicit] Porn / adult-channel plot is part of this episode.
-  - [Explicit] The next one is from Episode 204: The One With Phoebe’s Husband, when everyone including Julie is watching Joey in his porno.
-  - [Explicit] The next one is from Episode 417: The One With The Free Porn, Chandler and Joey are lamenting the fact that every beautiful woman they see doesn’t want to have sex right then and there like in porn.
-  - [Explicit] Chandler: “Y’know what, we have to turn off the porn.”
+  - [Too much] Porn / adult-channel plot is part of this episode.
+  - [Too much] The next one is from Episode 204: The One With Phoebe’s Husband, when everyone including Julie is watching Joey in his porno.
+  - [Too much] The next one is from Episode 417: The One With The Free Porn, Chandler and Joey are lamenting the fact that every beautiful woman they see doesn’t want to have sex right then and there like in porn.
+  - [Too much] Chandler: “Y’know what, we have to turn off the porn.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “(drinking a beer) Look at this clown! Just because he’s got a bigger boat he thinks he can take up the whole river. (Yelling) Get out of the way jackass! (To Rachel) Who names their boat Coast Guard anyway?”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
+  - [Caution] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S8 E20 — The One With The Baby Shower
 URL: https://watchwiththekids.com/ep/friends/0820.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Chandler: “Well Joey, I’m a headhunter. I hook up out of work Soviet scientists with rogue third-world nations. Hi Rasputin! (Waves.)”
+  - [Caution] Chandler: “Well Joey, I’m a headhunter. I hook up out of work Soviet scientists with rogue third-world nations. Hi Rasputin! (Waves.)”
   - [Mild] Joey: “Yeah-yeah, and if I get it by day I’ll (In a sexy voice) Dr. Drake Remoray, but by night I’ll be (In an announcer’s voice) Joey Trrrribbiani!”
   - [Mild] Ross: “I just Bamboozled Chandler! (Flexes in victory while everyone stares at him.) Which is not uh sexual thing. That was a quick shower.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Mrs. Green: “Darling, that’s a breast pump!”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Phoebe: “Oh, I told the stripper to be here at five. That’s good right?”
-  - [Explicit] Monica: “You ordered a stripper for the shower?! That is totally inappropriate!”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Phoebe: “Oh, I told the stripper to be here at five. That’s good right?”
+  - [Too much] Monica: “You ordered a stripper for the shower?! That is totally inappropriate!”
 - Swearing — 2 moment(s)
-  - [Moderate] Monica: “Son of a bitch! (Calls Mrs. Green again.)”
+  - [Caution] Monica: “Son of a bitch! (Calls Mrs. Green again.)”
   - [Mild] Rachel: “Hello?! I still don’t know what the hell I’m doing!”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Rachel: “What?! You mean they’re not coming to a social event where there’s no men and there’s no booze?! That’s shocking! I don’t care, as long as my mom’s here.”
@@ -2964,28 +2964,28 @@ URL: https://watchwiththekids.com/ep/friends/0821.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Rachel: “Horny bitch. (They both look at her, pretending that the dinosaurs she’s holding are arguing.) No! You’re a horny bitch! Noooo! You’re the horny bitch! No! You’re a horny bitch!”
-  - [Moderate] Joey: “Well I had a great time! Learned how to bake, ate great food, that’s the first A I’ve gotten since seventh grade, and I didn’t have to sleep with the teacher this time.”
+  - [Caution] Rachel: “Horny bitch. (They both look at her, pretending that the dinosaurs she’s holding are arguing.) No! You’re a horny bitch! Noooo! You’re the horny bitch! No! You’re a horny bitch!”
+  - [Caution] Joey: “Well I had a great time! Learned how to bake, ate great food, that’s the first A I’ve gotten since seventh grade, and I didn’t have to sleep with the teacher this time.”
   - [Mild] Ross: “Y’know? Just-just normal sex.”
 - Swearing — 2 moment(s)
-  - [Moderate] Rachel: “Horny bitch. (They both look at her, pretending that the dinosaurs she’s holding are arguing.) No! You’re a horny bitch! Noooo! You’re the horny bitch! No! You’re a horny bitch!”
+  - [Caution] Rachel: “Horny bitch. (They both look at her, pretending that the dinosaurs she’s holding are arguing.) No! You’re a horny bitch! Noooo! You’re the horny bitch! No! You’re a horny bitch!”
   - [Mild] Joey: “What the hell!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Ross: “And then there was one drunken night.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Chandler: “(entering) Hey Phoebe! (To Rachel) Fatty!”
+  - [Caution] Chandler: “(entering) Hey Phoebe! (To Rachel) Fatty!”
 - Sexual insults — 2 moment(s)
-  - [Moderate] Rachel: “Oh, it was great! We got everything that we needed! Oh and Ross, almost got something that wasn’t on the list. A whore.”
-  - [Moderate] Rachel: “No! I’m not! I-I-I just think it’s wrong! It’s-it’s that I’m—Here I am about to pop and he’s out picking up some shop girl at Sluts ‘R’ Us!”
+  - [Caution] Rachel: “Oh, it was great! We got everything that we needed! Oh and Ross, almost got something that wasn’t on the list. A whore.”
+  - [Caution] Rachel: “No! I’m not! I-I-I just think it’s wrong! It’s-it’s that I’m—Here I am about to pop and he’s out picking up some shop girl at Sluts ‘R’ Us!”
 
 ## S8 E22 — The One Where Rachel Is Late
 URL: https://watchwiththekids.com/ep/friends/0822.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Phoebe: “Oh I-I don’t know about that. No, I think that if the two of you had sex the-the-the repercussions would be catastrophic.”
-  - [Moderate] Monica: “All right, let’s be practical, if Ross isn’t willing to do it, he’s not the only guy in the world you can have sex with. You can borrow Chandler—Chandler is good!”
-  - [Moderate] Rachel: “I am feeling nothing. Speaking of hot, watching you do that really makes me want to have sex with you.”
+  - [Caution] Phoebe: “Oh I-I don’t know about that. No, I think that if the two of you had sex the-the-the repercussions would be catastrophic.”
+  - [Caution] Monica: “All right, let’s be practical, if Ross isn’t willing to do it, he’s not the only guy in the world you can have sex with. You can borrow Chandler—Chandler is good!”
+  - [Caution] Rachel: “I am feeling nothing. Speaking of hot, watching you do that really makes me want to have sex with you.”
   - [Mild] Dr. Long: “…taking a long walk, and then there’s the one that’s proved most effective: sex.”
   - [Mild] Rachel: “Oh, I know it. You’re right. That’s not sexy. Oh…Oh! (Drops a fork on the floor.) Whoops! Oh, I seem to have dropped my fork. Let me just bed over and get it. (Tries too, but can’t quite seem to make it.) Oh God!”
 - Nudity & bodies — 1 moment(s)
@@ -2996,10 +2996,10 @@ URL: https://watchwiththekids.com/ep/friends/0823.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Monica: “Okay. Let’s hurry—Oh wait! Do we have a condom? (He looks at her.) Oh right! (Laughs and they resume making out when a nurse catches them in the act.)”
-  - [Moderate] Joey: “Hmm. Do you sleep with women and never call them again?”
-  - [Moderate] Monica: “We could, or we can have sex in it.”
-  - [Moderate] Monica: “Oh my God! She’s amazing. Oh, oh I’m so glad you guys got drunk and had sex!”
+  - [Caution] Monica: “Okay. Let’s hurry—Oh wait! Do we have a condom? (He looks at her.) Oh right! (Laughs and they resume making out when a nurse catches them in the act.)”
+  - [Caution] Joey: “Hmm. Do you sleep with women and never call them again?”
+  - [Caution] Monica: “We could, or we can have sex in it.”
+  - [Caution] Monica: “Oh my God! She’s amazing. Oh, oh I’m so glad you guys got drunk and had sex!”
   - [Mild] Phoebe: “Well, it’s a long story. It’s kind of embarrassing. Let’s just say there was a typographical error with a sex manual. (The guy laughs.) How about you?”
   - [Mild] Joey: “Excellent! Excellent! And uh, finally, are you into any weird stuff y’know, sexually?”
   - [Mild] Joey: “He seemed like a stand up guy. Oh, and he’s not into anything weird sexually.”
@@ -3008,33 +3008,33 @@ Watch for:
   - [Mild] Joey: “Hey. I just saw a woman breast feeding both of her twins at the same time; it is like a freak show up here. (Notices she’s wiping her eyes.) What’s the matter?”
   - [Mild] Rachel: “Oh please, he’ll be with his real family, the twins and little miss new boobs.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Oh! Oh! Her-her twin sister used to do porn!”
+  - [Too much] Joey: “Oh! Oh! Her-her twin sister used to do porn!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Joey: “Damnit woman we’re losing precious time! Now do you want this man’s blood on your head?”
+  - [Caution] Joey: “Damnit woman we’re losing precious time! Now do you want this man’s blood on your head?”
 - Swearing — 6 moment(s)
-  - [Moderate] Rachel: “Well they have uh, some unusual pet names for each other. Including umm, evil bitch and uh, sick bastard. Oh God oh! Contraction!”
-  - [Moderate] Evil Bitch: “She’s in labor! You like that you sick son of a bitch!”
+  - [Caution] Rachel: “Well they have uh, some unusual pet names for each other. Including umm, evil bitch and uh, sick bastard. Oh God oh! Contraction!”
+  - [Caution] Evil Bitch: “She’s in labor! You like that you sick son of a bitch!”
   - [Mild] Ross: “Wait a minute! How-how the hell did you beat us here?”
   - [Mild] Sick Bastard: No!
   - [Mild] Evil Bitch: “Don’t you look at her you sick bastard!”
   - [Mild] Rachel: “Oh. Look at you making up crap for me. Oh God! (Starts another contraction as Dr. Long enters.)”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Rachel: “Oh great! Suddenly she sounds like a biblical whore.”
+  - [Caution] Rachel: “Oh great! Suddenly she sounds like a biblical whore.”
 
 ## S9 E1 — The One Where No One Proposes
 URL: https://watchwiththekids.com/ep/friends/0901.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Explicit] Mr. Geller: “But pleasure is important, (To Chandler) and it helps if the woman has an orgasm. You up to the task sailor?”
-  - [Moderate] Monica: “Come on! Come on, if we have sex again it’ll double our chances of getting pregnant. Do you think that closet’s still available?”
-  - [Moderate] Chandler: “I’m so tired. (She starts kissing him.) Yeah okay, but no foreplay.”
-  - [Moderate] Monica: “Daddy! I don’t think we need to hear about the specific positions you and mom had sex.”
+  - [Too much] Mr. Geller: “But pleasure is important, (To Chandler) and it helps if the woman has an orgasm. You up to the task sailor?”
+  - [Caution] Monica: “Come on! Come on, if we have sex again it’ll double our chances of getting pregnant. Do you think that closet’s still available?”
+  - [Caution] Chandler: “I’m so tired. (She starts kissing him.) Yeah okay, but no foreplay.”
+  - [Caution] Monica: “Daddy! I don’t think we need to hear about the specific positions you and mom had sex.”
   - [Mild] Mr. Geller: “I think there are people in there having sex.”
   - [Mild] Monica: “Oh, I still can’t believe my dad saw us having sex! He didn’t make it to one of piano recitals, but this he sees!”
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Rachel: “Oh look, she’s pulling away again! Do you think my nipples are too big for her mouth? (Joey gets embarrassed.) She looks scared. Doesn’t she look scared?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Rachel: “Oh look, she’s pulling away again! Do you think my nipples are too big for her mouth? (Joey gets embarrassed.) She looks scared. Doesn’t she look scared?”
   - [Mild] Rachel: “Yeah! Hi Emma. Hey, why do you think she won’t take my breast?”
   - [Mild] Nurse: “Why don’t we try massaging the breast to stimulate the flow. (Does so.)”
   - [Mild] Chandler: “This is okay. We’re all adults here; there’s nothing to be ashamed of. Now, let’s put our underwear in our pockets and walk out the door. (They do so and find Mr. Geller leaning against a wall stunned.)”
@@ -3044,10 +3044,10 @@ URL: https://watchwiththekids.com/ep/friends/0902.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Monica: “(looking at Chandler sleeping with a balloon in his mouth) So sexy. (Waking him up.) Honey.”
+  - [Caution] Monica: “(looking at Chandler sleeping with a balloon in his mouth) So sexy. (Waking him up.) Honey.”
   - [Mild] Phoebe: “Yeah, no kidding, this just proves no good can come from having sex with Ross!”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Phoebe: “I dunno, well he got over the "We were on a break" thing really quickly.”
+  - [Caution] Phoebe: “I dunno, well he got over the "We were on a break" thing really quickly.”
 - Violence & injury — 3 moment(s)
   - [Mild] Ross throws a punch, but Joey ducks and Ross punches the pole. Ross then screams from the pain and turns to Gunther, and Gunther has a huge smile on his face.
   - [Mild] Joey: “I couldn’t help it! When a fist comes at your face, you duck! Look! (He goes to punch Ross, expecting him to duck, but he doesn’t and Joey punches Ross. Gunther is amused.)”
@@ -3060,8 +3060,8 @@ URL: https://watchwiththekids.com/ep/friends/0903.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Rachel: “It's impossible to find a good doctor. I mean, how do you know the good ones from the ones who are gonna push their penis against your knee?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Rachel: “It's impossible to find a good doctor. I mean, how do you know the good ones from the ones who are gonna push their penis against your knee?”
 - Violence & injury — 1 moment(s)
   - [Mild] Joey: “(To Mike) Hey, remember the one where I punch you in the face for not being cool?!”
 - Alcohol & drugs — 1 moment(s)
@@ -3072,17 +3072,17 @@ URL: https://watchwiththekids.com/ep/friends/0904.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Moderate] “before yeah we had sex on this couch and then on that chair and no. no we”
-  - [Moderate] Joey: “well that's not even the weird part. I don't think she remembered sleeping with me.”
-  - [Moderate] Monica: “: But you don't remember sleeping with her.”
-  - [Moderate] Joey: “come on, come on, search your brain all right. it was (thinks) a certain amount of time ago, I was here you were here, we had sex (starts pointing out the places) here, here, here NOT there. Anything?”
-  - [Moderate] Joey: “(looks at a girl walk in) see ordinarily I would talk to her, but my confidence is shaken did I sleep with her? Did I not sleep with her?”
-  - [Moderate] Joey: “your right! I love my life! (He gets up to go and speak to the girl and he turns back and sits down) I actually did sleep with her.”
+  - [Caution] “before yeah we had sex on this couch and then on that chair and no. no we”
+  - [Caution] Joey: “well that's not even the weird part. I don't think she remembered sleeping with me.”
+  - [Caution] Monica: “: But you don't remember sleeping with her.”
+  - [Caution] Joey: “come on, come on, search your brain all right. it was (thinks) a certain amount of time ago, I was here you were here, we had sex (starts pointing out the places) here, here, here NOT there. Anything?”
+  - [Caution] Joey: “(looks at a girl walk in) see ordinarily I would talk to her, but my confidence is shaken did I sleep with her? Did I not sleep with her?”
+  - [Caution] Joey: “your right! I love my life! (He gets up to go and speak to the girl and he turns back and sits down) I actually did sleep with her.”
   - [Mild] Joey: “HEY! I never have an off night ok although sometimes when I'm a little bloated I don't feel very sexy BUT EVEN THEN I'M BETTER THEN MOST!”
   - [Mild] Monica: “: you don't think sharks are sexy do you?”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Chandler: “(enters singing) Oklahoma where the wind comes sweeping down the plane, STOP IT! Why couldn't they have sent me to Texas? 7 o clock maybe I'll hit the gym (sits down) who am I kidding pay-per-view porn.”
-  - [Explicit] Monica: “: Yes! Chandler Watches Shark Porn!”
+  - [Too much] Chandler: “(enters singing) Oklahoma where the wind comes sweeping down the plane, STOP IT! Why couldn't they have sent me to Texas? 7 o clock maybe I'll hit the gym (sits down) who am I kidding pay-per-view porn.”
+  - [Too much] Monica: “: Yes! Chandler Watches Shark Porn!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Monica: “: Im very, very drunk right now.”
 
@@ -3091,9 +3091,9 @@ URL: https://watchwiththekids.com/ep/friends/0905.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Monica: “Well, I�ll tell you what we�re gonna do: We are already late for Phoebe�s birthday dinner, so you point out put out that cigarette, we�re gonna put this fight on hold and go have sex.”
-  - [Moderate] Monica: “Oh sure, now you�re Mister Sensitivity. But when you wanted to have sex right after my uncle�s funeral”
-  - [Moderate] Chandler: “So you never had sex with a Kennedy, have you?”
+  - [Caution] Monica: “Well, I�ll tell you what we�re gonna do: We are already late for Phoebe�s birthday dinner, so you point out put out that cigarette, we�re gonna put this fight on hold and go have sex.”
+  - [Caution] Monica: “Oh sure, now you�re Mister Sensitivity. But when you wanted to have sex right after my uncle�s funeral”
+  - [Caution] Chandler: “So you never had sex with a Kennedy, have you?”
   - [Mild] Monica: “You said that was sexy!”
   - [Mild] Monica: “Sex! This is the last day I�m ovulating, and when we don�t do it now, we�ll have to wait till next month. (walks towards bedroom)”
   - [Mild] Chandler: “(to Joey) You not gonna believe this: She lied! She tricked me into having sex with her.”
@@ -3101,9 +3101,9 @@ Watch for:
   - [Mild] Phoebe: “Ooh, and treat it is. (Monica�s breasts.)”
   - [Mild] Phoebe: “Wow, so glad I changed. Almost wore my ??? outfit that can�t contain my breasts.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Phoebe: “Are you kidding? The woman has the nose of a bloodhound � and the breasts of a Greek goddess.”
+  - [Caution] Phoebe: “Are you kidding? The woman has the nose of a bloodhound � and the breasts of a Greek goddess.”
 - Swearing — 2 moment(s)
-  - [Moderate] Joey: “Son of a bitch!”
+  - [Caution] Joey: “Son of a bitch!”
   - [Mild] Joey: “(returns to their old table where elderly people are sitting now, sits) Finally you guys made it. (looks up, turns left to Phoebe�s chair) Pheebs, who the hell�uhuhh!”
 
 ## S9 E6 — The One With The Male Nanny
@@ -3113,8 +3113,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] David: “Yeah, I-I don't, I can't get away with stuff like that. I-I-It sounded sexy in my head, so I...”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Joey: “Uhm... A penis model. (Monica can't believe what's she's hearing and Ross pats Joey on the back.) Anyway, hey... Did you tell Chandler that some guy from work is the funniest guy you've ever met?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Joey: “Uhm... A penis model. (Monica can't believe what's she's hearing and Ross pats Joey on the back.) Anyway, hey... Did you tell Chandler that some guy from work is the funniest guy you've ever met?”
   - [Mild] Phoebe: “(Mike lets go of her hand) Well, how's this? (she takes Mike's hand and puts it on her breast, she tears open the sugar and puts it in her coffee.”
   - [Mild] Rachel: “(indignant) What, the blonde with no bra?”
 - Violence & injury — 1 moment(s)
@@ -3128,17 +3128,17 @@ URL: https://watchwiththekids.com/ep/friends/0907.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Rachel: “You WHAT? You sang... to our baby daughter... a song about a guy who likes to have sex with women with giant asses?”
+  - [Caution] Rachel: “You WHAT? You sang... to our baby daughter... a song about a guy who likes to have sex with women with giant asses?”
   - [Mild] Joey: “Ooh! A tape with a girls name on it. It's probably a sex tape... (realises) Wait a minute... This says Monica... (looks around) And this is Richard's apartment... (realises some more)”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Chandler: “Whoho ho... Listen to the judgement from the porn star!”
+  - [Too much] Chandler: “Whoho ho... Listen to the judgement from the porn star!”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “were on a break. (baby talk) Yes we were! Yes we were! (picks Emma up) Come”
+  - [Caution] “were on a break. (baby talk) Yes we were! Yes we were! (picks Emma up) Come”
 - Violence & injury — 2 moment(s)
   - [Mild] Phoebe: “Yeah I bet! Look out! (Phoebe punches Theodore right in the stomach)”
   - [Mild] Theodore: “How could you know. Why wouldn't you punch me in the stomach? (Theodore walks out... Mike walks towards Phoebe)”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] “I'm from upstate, but uhm... then my mom killed herself and my stepdad went”
+  - [Too much] “I'm from upstate, but uhm... then my mom killed herself and my stepdad went”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Chandler: “It may be customary to get a beer...”
 
@@ -3147,13 +3147,13 @@ URL: https://watchwiththekids.com/ep/friends/0908.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Rachel and Joey become a couple — sex implied as relationship starts.
-  - [Moderate] Monica: “Ross and Rachel don't know what they're talking about. I mean its not like their so responsible. Emma is a product of a bottle of Merlot and a five year old condom.”
+  - [Caution] Rachel and Joey become a couple — sex implied as relationship starts.
+  - [Caution] Monica: “Ross and Rachel don't know what they're talking about. I mean its not like their so responsible. Emma is a product of a bottle of Merlot and a five year old condom.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Rachel: “Oh.. yeah? Well unless you pushed a desk out of your vagina, <shakes head no> not the same thing.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Rachel: “Oh.. yeah? Well unless you pushed a desk out of your vagina, <shakes head no> not the same thing.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] <Monica holds a turkey leg up in the air over the plate trying to cut meat off with a knife>
+  - [Caution] <Monica holds a turkey leg up in the air over the plate trying to cut meat off with a knife>
   - [Mild] <Rachel and Amy 'fighting'.. They're really just trying to slap each other and just keep slapping their hands>
 
 ## S9 E9 — Rachel's Phone Number
@@ -3165,8 +3165,8 @@ Watch for:
   - [Mild] MONICA: “Oh I was just doing Chandler's side of the conversation.� You know, like, "Hi, How do I look?"� (As Chandler) "Really sexy.� Could I BE any more turned on?"”
   - [Mild] CHANDLER: “That's right.� You're husband's home.� So, now the sex can stop.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] CHANDLER: “Don't you think it's better for him to think that you're cheating on me, than for him to think that I'm cheating on him?� (Monica tips her head slightly as if asking "Did you hear yourself?")� I heard it.”
-  - [Moderate] MONICA: “I don't want him to think that I'm having an affair.”
+  - [Caution] CHANDLER: “Don't you think it's better for him to think that you're cheating on me, than for him to think that I'm cheating on him?� (Monica tips her head slightly as if asking "Did you hear yourself?")� I heard it.”
+  - [Caution] MONICA: “I don't want him to think that I'm having an affair.”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] MIKE: “(Holds up a six pack of Foster's Lager) I got beer.”
   - [Mild] MIKE: “Eh, why don't we start with the beer?”
@@ -3178,8 +3178,8 @@ URL: https://watchwiththekids.com/ep/friends/0910.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Chandler and Joey give Monica a pack of condoms.
-  - [Moderate] Chandler: “Oh, okay, I have condom in my wallet that I've had since I was twelve.”
+  - [Caution] Chandler and Joey give Monica a pack of condoms.
+  - [Caution] Chandler: “Oh, okay, I have condom in my wallet that I've had since I was twelve.”
   - [Mild] Chandler: “I don't know; I'm not used to girls making passes at me! ... (She lets go of his tie) Wait a minute... am I sexy in Oklahoma?”
   - [Mild] Chandler: “Well, I have, and the technical definition is, two friends who care a lot about each other and have amazing sex and just wanna spend more time together.”
   - [Mild] Monica: “Okay, fine. Let's talk about snow. -- Do you think it's snowing in Tulsa, where my husband is having sex on a copying machine?”
@@ -3189,22 +3189,22 @@ Watch for:
   - [Mild] Chandler: “How drunk are you?”
   - [Mild] Monica: “Drunk enough that I know I wanna do this. Not so drunk that you should feel guilty about taking advantage.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Monica: “"Wendy" is a fat girl name.”
+  - [Caution] Monica: “"Wendy" is a fat girl name.”
 
 ## S9 E11 — Rachel Goes Back To Work
 URL: https://watchwiththekids.com/ep/friends/0911.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Chandler: “We're supposed to have sex tonight.”
-  - [Moderate] Monica: “We're gonna have sex.”
+  - [Caution] Chandler: “We're supposed to have sex tonight.”
+  - [Caution] Monica: “We're gonna have sex.”
   - [Mild] Ross: “I don't feel like having sex. Maybe we can watch a movie or something.”
   - [Mild] Monica: “Let me put it this way. We're having sex whether you're here or not.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Rachel: “A vacation? My idea of a vacation does not involve something sucking on my nipples until they are raw.”
+  - [Too much] Rachel: “A vacation? My idea of a vacation does not involve something sucking on my nipples until they are raw.”
   - [Mild] Ross: “Absolutely. Just give me your breast and we'll be on our way.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Joey/Drake: I know you botched that operation on purpose. I can't prove it yet, but when I do, you'll be going to jail for murder. I don't care if you are my brother.
+  - [Too much] Joey/Drake: I know you botched that operation on purpose. I can't prove it yet, but when I do, you'll be going to jail for murder. I don't care if you are my brother.
   - [Mild] Ross: “Yeah, after you punched that one guy who got it wrong, word spread.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Monica: “You call eight hours alone with my label maker wasted time? Ooh, now I get to use my shredder!”
@@ -3214,14 +3214,14 @@ URL: https://watchwiththekids.com/ep/friends/0912.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Main-cast women kissing is used as a sitcom gag.
-  - [Moderate] Joey: “So, what, you think I'm just gonna sleep with her and never call her again and things are gonna get uncomfortable? (thinks about it) Yeah, sounds about right.”
-  - [Moderate] Chandler: “Allright, fine, but don't blame me if it doesn't work. Because you know as well as I do that once Joey sets his mind on something, more often than not, he's going to have sex with it.”
-  - [Moderate] Ross: “What do you think you're gonna do, have sex with her right here on my couch?”
-  - [Moderate] Joey: “What makes you think that I'm just gonna sleep with her and then blow her off?”
+  - [Caution] Main-cast women kissing is used as a sitcom gag.
+  - [Caution] Joey: “So, what, you think I'm just gonna sleep with her and never call her again and things are gonna get uncomfortable? (thinks about it) Yeah, sounds about right.”
+  - [Caution] Chandler: “Allright, fine, but don't blame me if it doesn't work. Because you know as well as I do that once Joey sets his mind on something, more often than not, he's going to have sex with it.”
+  - [Caution] Ross: “What do you think you're gonna do, have sex with her right here on my couch?”
+  - [Caution] Joey: “What makes you think that I'm just gonna sleep with her and then blow her off?”
   - [Mild] Ross: “Joey, come on now, for me! Please, just-just try to focus your sexual energy on someone else.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Fine ... mediocre porn”
+  - [Too much] Joey: “Fine ... mediocre porn”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Monica: “Wouldn't kick her out of bed. No more Vodka for me! (put her glass down)”
 
@@ -3233,14 +3233,14 @@ Watch for:
   - [Mild] Phoebe: “On how far along he's in the sex change process!”
   - [Mild] Ross: “…one and I swoop in with some interesting conversation, so they'll see that I'm the brilliant, brooding, sexy one...”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Chandler: “Are those my wife�s nipples?”
+  - [Too much] Chandler: “Are those my wife�s nipples?”
   - [Mild] Mike: “Like an X-Ray. Bad day not to wear a bra.”
   - [Mild] Mike: “Also a good gift? Underwear.”
 - Swearing — 2 moment(s)
-  - [Moderate] Joey: “Oh my God! I didn�t feel a thing ! Hey, are you still looking for a job because you can tweeze circles around that sadistic bitch at the saloon”
+  - [Caution] Joey: “Oh my God! I didn�t feel a thing ! Hey, are you still looking for a job because you can tweeze circles around that sadistic bitch at the saloon”
   - [Mild] Joey: “What the hell am I supposed to do!”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Monica's 'hot' pot dealer cousin? Actually massage/donor arcs nearby — check donor episode.
+  - [Caution] Monica's 'hot' pot dealer cousin? Actually massage/donor arcs nearby — check donor episode.
   - [Mild] Chandler: “�Jeremiah was a bullfrog. Was a good friend of mine, never understood a single word he said, but I helped him drink his wine.� So you just touch yourself for anything?”
 
 ## S9 E14 — The One With the Blind Dates
@@ -3248,18 +3248,18 @@ URL: https://watchwiththekids.com/ep/friends/0914.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Chandler: “You guess I'm right? When we stayed at that bed and breakfast, you wouldn't have sex with me because you thought a deer was staring through the window.”
-  - [Moderate] Ross: “Wow, free crab cakes. Well, that's nice. Although I was hoping to have sex tonight.”
+  - [Caution] Chandler: “You guess I'm right? When we stayed at that bed and breakfast, you wouldn't have sex with me because you thought a deer was staring through the window.”
+  - [Caution] Ross: “Wow, free crab cakes. Well, that's nice. Although I was hoping to have sex tonight.”
   - [Mild] Monica: “I don't know. I mean, I guess having sex in front of a baby isn't so...”
   - [Mild] Joey: “Because you two were having sex!”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Ross: “Hey, you're not naked! So hey, Rach, when will we expect to see you tonight?”
   - [Mild] Joey: “…before are totally over, okay? And even if they weren't, when you accidentally walk in on a woman using a breast pump...”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Rachel: “And oh, she's also in this phase where if you leave the room, she screams bloody murder, but ah...”
+  - [Too much] Rachel: “And oh, she's also in this phase where if you leave the room, she screams bloody murder, but ah...”
 - Alcohol & drugs — 6 moment(s)
-  - [Moderate] Scene: Another restaurant. Rachel is studying the menu together with her date, Steve. Steve is the stoned restaurateur from 115 TOW the Stoned Guy.
-  - [Moderate] Phoebe: “Oh, right, so he gets a little crazy when he's stoned.”
+  - [Caution] Scene: Another restaurant. Rachel is studying the menu together with her date, Steve. Steve is the stoned restaurateur from 115 TOW the Stoned Guy.
+  - [Caution] Phoebe: “Oh, right, so he gets a little crazy when he's stoned.”
   - [Mild] Waiter: “Uh, there's a drunk Chinese guy.”
   - [Mild] Waiter: “Can I get you another glass of wine?”
   - [Mild] Ross: “Nah, I don't know if I should. I don't wanna be drunk when I go home alone.”
@@ -3270,25 +3270,25 @@ URL: https://watchwiththekids.com/ep/friends/0915.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Lennart: “If you want to sleep with him, do it on your own time.”
-  - [Moderate] Joey: “(suggesting) Couldn't I just sleep with the producer?”
+  - [Caution] Lennart: “If you want to sleep with him, do it on your own time.”
+  - [Caution] Joey: “(suggesting) Couldn't I just sleep with the producer?”
   - [Mild] Chandler: “Right. So, it'll be the same except… less sex with you. (Joey nods)”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Monica: “Wow, that's a big cable bill! Huh, you don't have a job, but you have no problem ordering porn… on a Saturday afternoon?! (shocked) I was in the house!”
+  - [Too much] Monica: “Wow, that's a big cable bill! Huh, you don't have a job, but you have no problem ordering porn… on a Saturday afternoon?! (shocked) I was in the house!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mugger: “I have a gun (It looks like he has a gun under his coat)”
+  - [Caution] Mugger: “I have a gun (It looks like he has a gun under his coat)”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Monica: “You're mother killed herself!”
+  - [Too much] Monica: “You're mother killed herself!”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Phoebe: “Well, ok, I wasn't rich like you guys, ok, I didn't eat gold and have a flying pony… I had a hard life, my mother was killed by a drug dealer…”
-  - [Moderate] Phoebe: “She was a drug dealer!”
+  - [Caution] Phoebe: “Well, ok, I wasn't rich like you guys, ok, I didn't eat gold and have a flying pony… I had a hard life, my mother was killed by a drug dealer…”
+  - [Caution] Phoebe: “She was a drug dealer!”
 
 ## S9 E16 — The One With The Boob Job
 URL: https://watchwiththekids.com/ep/friends/0916.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Sperm donor / fertility clinic — explicit reproduction talk for Monica/Chandler.
+  - [Caution] Sperm donor / fertility clinic — explicit reproduction talk for Monica/Chandler.
   - [Mild] Chandler: “what can you make out of backing soda and beer?”
   - [Mild] Phoebe: “I've always wanted to live with a guy. "Pick up your socks!" "Put down the toilet seat!" "No! We're not having sex anymore!" It's gonna be fun!”
   - [Mild] Monica: “Ok, you're being wierd. Do you want sex or did you do something bad?”
@@ -3300,19 +3300,19 @@ Watch for:
   - [Mild] Chandler: “Alright look, if it means that much to you, a may be able to get on more with the big boobs. But the giant ass and the big clown feet?”
   - [Mild] Joey: “OK so I'm out four thousand dollars and nobody's boobs are getting any bigger?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Rachel: “Oh my god Chandler! If you can't handle this, what are you going to be like in the hospital? With the blood and the screaming and the little present that's shooting out of her!?”
+  - [Caution] Rachel: “Oh my god Chandler! If you can't handle this, what are you going to be like in the hospital? With the blood and the screaming and the little present that's shooting out of her!?”
 
 ## S9 E17 — The One With The Memorial Service
 URL: https://watchwiththekids.com/ep/friends/0917.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Chandler: “The tall girl who wouldn't sleep with you?”
-  - [Moderate] Chandler: “Bet she'd sleep with you now...”
-  - [Moderate] Ross: “(yelling at Chandler) I have sex with dinosaurs??”
+  - [Caution] Chandler: “The tall girl who wouldn't sleep with you?”
+  - [Caution] Chandler: “Bet she'd sleep with you now...”
+  - [Caution] Ross: “(yelling at Chandler) I have sex with dinosaurs??”
   - [Mild] Chandler: “It's the best sex I've ever had"...”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Ross: “You've really crossed the line here, but that's okay, it's ok 'cause I'm on my way to buy some Photoshop software and a stack of gay porn. That's right! Your coming out is about to get real graphic.”
+  - [Too much] Ross: “You've really crossed the line here, but that's okay, it's ok 'cause I'm on my way to buy some Photoshop software and a stack of gay porn. That's right! Your coming out is about to get real graphic.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Monica: “You know, on the way over here, I saw this drunk guy throw up. And then a pigeon ate it!”
 
@@ -3325,7 +3325,7 @@ Watch for:
   - [Mild] Phoebe: “(still in sexy tone) Oooh, is daddy getting angry? Is daddy gonna spank me?”
   - [Mild] Rachel shows Ross the definition on the dictionary, giving him a smug look; then she squints at the dictionary, as though unsure what to make out of it
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Rachel: “Ok, that's it! Just give'em to me! I'll split them up! (she tries to snatch the bowl from Joey's hands but she can't, so she pinches his nipple and she manages to take it)”
+  - [Too much] Rachel: “Ok, that's it! Just give'em to me! I'll split them up! (she tries to snatch the bowl from Joey's hands but she can't, so she pinches his nipple and she manages to take it)”
   - [Mild] Monica: “They're all in there! Even these five that I hid in my bra (takes some tickets out of her bra and gives them to Phoebe)...”
 
 ## S9 E19 — The one with Rachel's dream
@@ -3333,17 +3333,17 @@ URL: https://watchwiththekids.com/ep/friends/0919.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Rachel: “Hey Joey, is this the bed where Olivia lost her virginity?”
+  - [Caution] Rachel: “Hey Joey, is this the bed where Olivia lost her virginity?”
 - Homophobic jokes — 1 moment(s)
-  - [Moderate] Joey: “Also so gay!”
+  - [Caution] Joey: “Also so gay!”
 
 ## S9 E20 — The One With The Soap Opera Party
 URL: https://watchwiththekids.com/ep/friends/0920.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Joey and Rachel break up after realizing it doesn't work — sex/romance heavy.
-  - [Moderate] Monica: “No, you can't! Friends hooking up is a bad idea.”
+  - [Caution] Joey and Rachel break up after realizing it doesn't work — sex/romance heavy.
+  - [Caution] Monica: “No, you can't! Friends hooking up is a bad idea.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] (Cut to Monica holding up her shirt, revealing her bra. An actor stands beside her, holding a pen in his hand.)Monica: That's it, just sign right on the bra (the actor does so).
   - [Mild] Chandler: “Did somebody sign your bra?”
@@ -3358,17 +3358,17 @@ URL: https://watchwiththekids.com/ep/friends/0921.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Rachel: “(worried) Be-cause Ross is the father of my child! You know... and I... want him to hook up with lots of women! (pause) I just... All I'm saying is... I don't think that Joey and Charlie have anything in common.”
-  - [Moderate] Chandler: “Oh, well... Maybe we could... (he sweeps the stuff off the table and wordlessly invites Monica to have sex on it)”
-  - [Moderate] Chandler: “Apparently my sperm have low motility and you have an inhospitable environment.”
+  - [Caution] Rachel: “(worried) Be-cause Ross is the father of my child! You know... and I... want him to hook up with lots of women! (pause) I just... All I'm saying is... I don't think that Joey and Charlie have anything in common.”
+  - [Caution] Chandler: “Oh, well... Maybe we could... (he sweeps the stuff off the table and wordlessly invites Monica to have sex on it)”
+  - [Caution] Chandler: “Apparently my sperm have low motility and you have an inhospitable environment.”
   - [Mild] Phoebe: “Wow, Joey and a professor! Can you imagine if they had kids and if the kids got her intelligence and Joey's raw sexual magnetism... Oh, those nerds will get laaaaaid!”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Janice: “Oh! Sid is still in his room. I don't allow porn at home so this is like a vacation for him. So did you do it? Did you make your deposit?”
+  - [Too much] Janice: “Oh! Sid is still in his room. I don't allow porn at home so this is like a vacation for him. So did you do it? Did you make your deposit?”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Phoebe: “'Cause it's good money! But that doesn't change the fact that this is an evil blood sucking corporate machine!”
+  - [Caution] Phoebe: “'Cause it's good money! But that doesn't change the fact that this is an evil blood sucking corporate machine!”
   - [Mild] Phoebe: “Now I'm this Corporate stooge and punching a clock and Ugh!”
 - Swearing — 2 moment(s)
-  - [Moderate] Phoebe: “Rachel Green? (angrily) Son of a bitch, she came back?”
+  - [Caution] Phoebe: “Rachel Green? (angrily) Son of a bitch, she came back?”
   - [Mild] Rachel: “Damn! I wish I knew if that was right!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “(sipping red wine from a glass) Who says that wine has to cost more than milk!”
@@ -3378,20 +3378,20 @@ URL: https://watchwiththekids.com/ep/friends/0922.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Moderate] Chandler: “Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!!”
-  - [Moderate] Doctor Connelly: “Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.”
-  - [Moderate] Chandler: “Aside from adoption the only other choice is insemination, so... we're talking about sperm donors.”
-  - [Moderate] Chandler: “Well, we're talking about sperm donors and Zack may be the guy! I mean, look, he's intelligent, he's healthy, he's athletic, I mean, he is "spermtastic"!”
-  - [Moderate] Chandler: “Wait, if we're lucky, and we're really really really quiet, we may be able to hear the sound of a condom breaking!”
+  - [Caution] Chandler: “Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!!”
+  - [Caution] Doctor Connelly: “Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.”
+  - [Caution] Chandler: “Aside from adoption the only other choice is insemination, so... we're talking about sperm donors.”
+  - [Caution] Chandler: “Well, we're talking about sperm donors and Zack may be the guy! I mean, look, he's intelligent, he's healthy, he's athletic, I mean, he is "spermtastic"!”
+  - [Caution] Chandler: “Wait, if we're lucky, and we're really really really quiet, we may be able to hear the sound of a condom breaking!”
   - [Mild] Rachel: “(speaking to herself and reading Cosmopolitan) Oh, lucky me! Coffee and a live sex show!”
   - [Mild] Phoebe: “(after a short pause) I didn't even think about that! (pause) Aaargh, sexual politics!!”
   - [Mild] Doctor Connelly: “Above all, even though your chances of conceiving through natural means aren't great, you never know! So, keep having sex on a regular basis.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Joey: “…who taught me, you don't wear white after labour day and that you always, always, always have to put on underwear when you're trying on clothes.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Chandler: “Not as much fun as last time. Apparently you only get porn if you're giving a sperm sample.”
+  - [Too much] Chandler: “Not as much fun as last time. Apparently you only get porn if you're giving a sperm sample.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Monica: “Oh, friends first, drunk in London, you know the story. I've got a better question for you: Do you or any of your blood relatives have diabetes?”
+  - [Caution] Monica: “Oh, friends first, drunk in London, you know the story. I've got a better question for you: Do you or any of your blood relatives have diabetes?”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] Chandler: “You guys haven't actually met before, but, boy! You're both polite! (pause) Go to have a seat Zack, and I'll get you a beer.”
   - [Mild] Chandler: “(bringing the beer to Zack) Zack!”
@@ -3403,13 +3403,13 @@ URL: https://watchwiththekids.com/ep/friends/0923-0924.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Explicit] Ross: “And then, you try to make the best of a bad situation, so you float the idea of a threesome?”
-  - [Moderate] Phoebe: “(pointing at Mike and shouting) I sleep with him!”
+  - [Too much] Ross: “And then, you try to make the best of a bad situation, so you float the idea of a threesome?”
+  - [Caution] Phoebe: “(pointing at Mike and shouting) I sleep with him!”
   - [Mild] Rachel: “And... that's the most sex I'm gonna have this weekend.”
 - Nudity & bodies — 12 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Chandler: “Oh, because his penis was too big.”
-  - [Explicit] Chandler: “I did! A penis one! Look, just so I know, what was so wrong about what I said?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Chandler: “Oh, because his penis was too big.”
+  - [Too much] Chandler: “I did! A penis one! Look, just so I know, what was so wrong about what I said?”
   - [Mild] Joey: “Hey, hey! You said you're gonna wear a thong, where's the thong?”
   - [Mild] Charlie: “(laughing) I didn't mean a thong... I meant thongs...”
   - [Mild] Chandler: “Nude... (Ross looks at him)... pictures of Anna Kournikova. I'm so sorry.”
@@ -3420,15 +3420,15 @@ Watch for:
   - [Mild] Ross: “(joking) I'd better not found you naked in my hotel room!”
   - [Mild] Phoebe: “(picks up a coin from her bra) Monica, you call it.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Porn / adult-channel plot is part of this episode.
-  - [Explicit] Phoebe: “It's like watching porn!”
+  - [Too much] Porn / adult-channel plot is part of this episode.
+  - [Too much] Phoebe: “It's like watching porn!”
 - Violence & injury — 4 moment(s)
   - [Mild] Monica: “(hesitatingly) I punched you...?”
   - [Mild] He punches her on her shoulder mockingly, then goes and sits down on her bed
   - [Mild] Phoebe: “C'mon Mike, you can beat her! Knock that dog off her head!”
   - [Mild] Monica: “No, I have just to have two more points to beat him!”
 - Swearing — 5 moment(s)
-  - [Moderate] Rachel: “Oh! Weather bitch! (turns the TV off)”
+  - [Caution] Rachel: “Oh! Weather bitch! (turns the TV off)”
   - [Mild] Chandler: “This vacation sucks!!”
   - [Mild] Joey: “Oh, c'mon, I mean, there's you, then there's Charlie, and it's like... (sighs) What the hell is my problem? OH! (He falls back on the bed)”
   - [Mild] Joey: “(desperate) What the hell are you doin'???”
@@ -3438,32 +3438,32 @@ Watch for:
   - [Mild] Scene: the Pharmacist convention. Joey and Rachel are walking out of it, drinking cocktails
   - [Mild] Scene: Hotel's bar. Ross is running to Charlie trying not to be seen with two cocktails in his hands. She's hidden behind a huge plant
 - Homophobic jokes — 2 moment(s)
-  - [Explicit] Ross: “But all kidding aside, in much the same way that Homo ergaster [1] is now thought to be a separate species from Homo erectus...”
-  - [Explicit] Ross: “... and while there are certainly vast differences between these Mesozoic fossiles and the example of Homo erectus...”
+  - [Too much] Ross: “But all kidding aside, in much the same way that Homo ergaster [1] is now thought to be a separate species from Homo erectus...”
+  - [Too much] Ross: “... and while there are certainly vast differences between these Mesozoic fossiles and the example of Homo erectus...”
 
 ## S10 E1 — The One After Joey And Rachel Kiss
 URL: https://watchwiththekids.com/ep/friends/1001.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Phoebe: “You know what, we're gonna have sex. Let's just leave it there.”
+  - [Caution] Phoebe: “You know what, we're gonna have sex. Let's just leave it there.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Joey: “(he pushes his breasts together from the side)”
   - [Mild] Joey straightens his shirt, and Rachel says I'm so-oo sorry, and presses her breasts together, just like Joey did before.
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Phoebe: “You gotta hear this, it's great... It's like free porn! (Chandler eagerly rushes over)”
+  - [Too much] Phoebe: “You gotta hear this, it's great... It's like free porn! (Chandler eagerly rushes over)”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Chandler: “She's cheating on Joey with Ross!”
-  - [Moderate] Phoebe: “He was gonna break-up with you on your birthday? And, I don't like to kiss-and-tell, but he cheated on you a lot this weekend.”
+  - [Caution] Chandler: “She's cheating on Joey with Ross!”
+  - [Caution] Phoebe: “He was gonna break-up with you on your birthday? And, I don't like to kiss-and-tell, but he cheated on you a lot this weekend.”
 
 ## S10 E2 — The One Where Ross Is Fine
 URL: https://watchwiththekids.com/ep/friends/1002.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Explicit] Monica: “Thank you. (To Chandler.) I think I just had a tiny orgasm.”
+  - [Too much] Monica: “Thank you. (To Chandler.) I think I just had a tiny orgasm.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
   - [Mild] Ross: “Underwear, a toothbrush, and Van Halen CD. I can use all these things!!”
 - Alcohol & drugs — 5 moment(s)
   - [Mild] Joey: “I'd take you out for a romantic night. Some champagne, fancy dinner, feel you up on the carriage ride home...”
@@ -3477,10 +3477,10 @@ URL: https://watchwiththekids.com/ep/friends/1003.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Joey's agent / sex-comedy side plots typical late series.
-  - [Moderate] Amanda: “Well, it was 1992, and I remember because that was the year I had sex with Evil Knievel (She starts laughing very proudly).”
-  - [Moderate] Rachel: “Hi! Hey, listen, can we ask you a question? When you and Monica first hooked up, was it weird going from friends to... more than that?”
-  - [Moderate] Rachel: “Yeah, and if doesn't work, then we'll be just one of those couples that never have sex.”
+  - [Caution] Joey's agent / sex-comedy side plots typical late series.
+  - [Caution] Amanda: “Well, it was 1992, and I remember because that was the year I had sex with Evil Knievel (She starts laughing very proudly).”
+  - [Caution] Rachel: “Hi! Hey, listen, can we ask you a question? When you and Monica first hooked up, was it weird going from friends to... more than that?”
+  - [Caution] Rachel: “Yeah, and if doesn't work, then we'll be just one of those couples that never have sex.”
   - [Mild] Rachel: “Ok (starts to light some candles) Sexy, sexy, very sexy, sexy. (Claps her hands and jumps at Joey, clearly very excited) Alright! Lets do it!”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Rachel: “Ok, let’s work from the top down! (Joey nods, but then puzzled because he does not get it) Just work the bra, Joe!”
@@ -3489,8 +3489,8 @@ Watch for:
   - [Mild] Joey: “Then I blame you! Yeah! That's right! You threw me off with all your slapping!”
   - [Mild] Rachel: “Well, it was good.. until we got back to our apartment, and then we were fooling around and he started to put his hand up my leg and I kept slapping it away!”
 - Swearing — 2 moment(s)
-  - [Moderate] Ross: “OH! SON OF A BITCH!”
-  - [Moderate] Chandler: “That fake British woman is a real bitch, but she sure can dance... Hey!”
+  - [Caution] Ross: “OH! SON OF A BITCH!”
+  - [Caution] Chandler: “That fake British woman is a real bitch, but she sure can dance... Hey!”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Chandler: “...and beer!!”
   - [Mild] Rachel: “Hey! Got champagne?”
@@ -3504,30 +3504,30 @@ Watch for:
   - [Mild] Ross: “Yeah, we want everyone to be there. As much as I hate to delay your doing weird sex stuff to my little sister.”
   - [Mild] Phoebe: “No, of course not! I also, you know, prepared a reading (she picks up a book). “Sex and the single mother. (pause) Finding your G-spot.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Rachel: “Ross, what are you talking about? (she sees the cake) oh! Oh my God! They put my baby’s face on a penis!”
-  - [Explicit] Ross: “Ask them if it would be faster if we cut the baby’s face off the penis, so we can put it on the bunny. (pause). That is a weird sentence!”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Rachel: “Ross, what are you talking about? (she sees the cake) oh! Oh my God! They put my baby’s face on a penis!”
+  - [Too much] Ross: “Ask them if it would be faster if we cut the baby’s face off the penis, so we can put it on the bunny. (pause). That is a weird sentence!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Phoebe: “Oooh, I love family traditions like that. When uhm... when Ursula and I were kids, on our birthday, our stepdad would sell his blood to buy us food!”
+  - [Caution] Phoebe: “Oooh, I love family traditions like that. When uhm... when Ursula and I were kids, on our birthday, our stepdad would sell his blood to buy us food!”
 
 ## S10 E5 — The One Where Rachel's Sister Baby-sits
 URL: https://watchwiththekids.com/ep/friends/1005.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Rachel: “OH! What's it the anniversary of? Your first date, your first kiss, first time you had sex...”
-  - [Moderate] Phoebe: “Hey, you know what, I've never had a one-year anniversary before, so no matter where we go, I'm wearing something fancy pants, and... I'm gonna put on my finest jewelry and we're gonna have sex in a public rest room.”
-  - [Moderate] Monica: “You guys do that? Chandler won't even have sex in our bathroom!”
+  - [Caution] Rachel: “OH! What's it the anniversary of? Your first date, your first kiss, first time you had sex...”
+  - [Caution] Phoebe: “Hey, you know what, I've never had a one-year anniversary before, so no matter where we go, I'm wearing something fancy pants, and... I'm gonna put on my finest jewelry and we're gonna have sex in a public rest room.”
+  - [Caution] Monica: “You guys do that? Chandler won't even have sex in our bathroom!”
   - [Mild] Amy: “Humpf, remember him? How we used to make out all the time after you went to sleep.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Joey: “Hey, finished my recommendation. (he hands it over to Chandler) Here. And I think you’ll be very, very happy. It’s the longest I ever spent on a computer without looking at porn.”
+  - [Too much] Joey: “Hey, finished my recommendation. (he hands it over to Chandler) Here. And I think you’ll be very, very happy. It’s the longest I ever spent on a computer without looking at porn.”
 
 ## S10 E6 — The One With Ross' Grant
 URL: https://watchwiththekids.com/ep/friends/1006.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 5 moment(s)
-  - [Moderate] Chandler: “(sounds nervous) Yeah! I... I... I liked it! (Joey continues to look at him suspiciously) But, ehm... my bosses didn't go for it. Stupid sons of bitches!”
+  - [Caution] Chandler: “(sounds nervous) Yeah! I... I... I liked it! (Joey continues to look at him suspiciously) But, ehm... my bosses didn't go for it. Stupid sons of bitches!”
   - [Mild] Chandler: “Yeah, and I don't wanna brag but a lot of the ideas were mine! (silence) Hell, you weren't there? All the ideas were mine!!!”
   - [Mild] Monica: “Damn it, I did not think this through!”
   - [Mild] Joey: “What do you mean? Rach, don't I seem like a professor you'd buy some kind of e-crap from?”
@@ -3538,16 +3538,16 @@ URL: https://watchwiththekids.com/ep/friends/1007.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Joey: “No, no, hey, no! Too late for apologies... ok? You broke my heart. You know how many women I had to sleep with to get over you? (and he leaves the apartment, leaving her shocked)”
+  - [Caution] Joey: “No, no, hey, no! Too late for apologies... ok? You broke my heart. You know how many women I had to sleep with to get over you? (and he leaves the apartment, leaving her shocked)”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Monica: “I told you! I am not coming to a naked wedding!”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Monica: “Ok, so I think I'm just about done here, unless you have any bad stuff hidden somewhere, like... porn or cigarettes?”
-  - [Explicit] because, believe me, you won't find any porn or cigarettes under there!
+  - [Too much] Monica: “Ok, so I think I'm just about done here, unless you have any bad stuff hidden somewhere, like... porn or cigarettes?”
+  - [Too much] because, believe me, you won't find any porn or cigarettes under there!
 - Violence & injury — 1 moment(s)
-  - [Explicit] Phoebe: “(Lightly) Oh! It ended okay. One of my friends shot him.”
+  - [Too much] Phoebe: “(Lightly) Oh! It ended okay. One of my friends shot him.”
 - Swearing — 6 moment(s)
-  - [Moderate] Ross: “SON OF A BITCH! (turns to his right to see three kids staring at him) (To the”
+  - [Caution] Ross: “SON OF A BITCH! (turns to his right to see three kids staring at him) (To the”
   - [Mild] Chandler: “It was pretty simple actually, I came up with a couple of cost-cutting solutions, wrote out a list and Monica told me to go to hell.”
   - [Mild] Phoebe: “Well, I think you're gonna appreciate it the crap out of this one (she gives him a check)”
   - [Mild] Chandler: “RAT BASTARD!”
@@ -3561,16 +3561,16 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Ross: “Wha...? Oh sure, now they lock it, but when they're having sex on the couch, its like: "Come on in, my butt is surprisingly hairy".”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Phoebe: “Oh, yeah, happy needless-turkey-murder day.”
+  - [Too much] Phoebe: “Oh, yeah, happy needless-turkey-murder day.”
 
 ## S10 E9 — The One With The Birth Mother
 URL: https://watchwiththekids.com/ep/friends/1009.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Joey: “I'm gonna say someone I'm gonna have sex with. (the girl leaves and Phoebe goes toward the couch) (to Phoebe) Hey!”
-  - [Moderate] Phoebe: “Because you'll date her once, sleep with her and then forget she exists!”
-  - [Moderate] Rachel: “Well, believe it or not, it's true. When Joey and I were together, he was wonderful. He was thoughtful and mature. And for the one week that we went out, he didn't sleep with anybody else!”
+  - [Caution] Joey: “I'm gonna say someone I'm gonna have sex with. (the girl leaves and Phoebe goes toward the couch) (to Phoebe) Hey!”
+  - [Caution] Phoebe: “Because you'll date her once, sleep with her and then forget she exists!”
+  - [Caution] Rachel: “Well, believe it or not, it's true. When Joey and I were together, he was wonderful. He was thoughtful and mature. And for the one week that we went out, he didn't sleep with anybody else!”
   - [Mild] Rachel: “Yes! And I know what looks sexy on guys. Please, just wear what I suggest, and she’s gonna go nuts for you.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Joey: “Mandy, uh? Uh... really hot blonde, big boobs?”
@@ -3583,21 +3583,21 @@ URL: https://watchwiththekids.com/ep/friends/1010.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Joey: “And about this Nancy thing... If you're not sleeping with her, should I?”
+  - [Caution] Joey: “And about this Nancy thing... If you're not sleeping with her, should I?”
   - [Mild] Phoebe: “If you had to, what would you give up, food or sex?”
   - [Mild] Monica: “(with no hesitation) Sex!”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Phoebe: “[looking outside the window] Eww, look. Ugly Naked Guy lit a bunch of candles.”
   - [Mild] Ross: “(to the girls) Chandler was how old when he first touched a girl’s breast?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Phoebe: “Have you thought about what you would be giving up? You can't move out of the city, what if you want Chinese food at 5am? Or a fake Rolex that breaks as soon as it rains or an Asian hooker sent right to your door?”
+  - [Too much] Phoebe: “Have you thought about what you would be giving up? You can't move out of the city, what if you want Chinese food at 5am? Or a fake Rolex that breaks as soon as it rains or an Asian hooker sent right to your door?”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Phoebe: “OH! He's having an affair.”
-  - [Moderate] Rachel: “He's not having an affair!”
+  - [Caution] Phoebe: “OH! He's having an affair.”
+  - [Caution] Rachel: “He's not having an affair!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Rachel: “Oh, yeah, ok. Let me just grab my night vision goggles and my stun gun.”
+  - [Caution] Rachel: “Oh, yeah, ok. Let me just grab my night vision goggles and my stun gun.”
 - Swearing — 4 moment(s)
-  - [Moderate] Joey: “(to Chandler) You son of a bitch!”
+  - [Caution] Joey: “(to Chandler) You son of a bitch!”
   - [Mild] Joey: “What the hell are you doin'?”
   - [Mild] Ross: “What the hell are doing?!!”
   - [Mild] Chandler: “Not it! Damn it!”
@@ -3607,35 +3607,35 @@ URL: https://watchwiththekids.com/ep/friends/1011.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Chandler: “Totally. I had sex in High school...”
-  - [Moderate] Joey: “(the last word is "Football field" and there are 5 seconds left) In high school, I once had sex with a girl right in the middle of the...”
+  - [Caution] Chandler: “Totally. I had sex in High school...”
+  - [Caution] Joey: “(the last word is "Football field" and there are 5 seconds left) In high school, I once had sex with a girl right in the middle of the...”
   - [Mild] Missy: “Well, Chandler and I used to make out! A lot!”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Monica: “Oh my God, this man is gonna get naked in my apartment!”
 - Porn / strippers / sex work — 4 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] 1011 - The One Where The Stripper Cries
-  - [Explicit] Phoebe: “You know, the strippers, and the guys dancing, and you know, pee-pee's flying about.”
-  - [Explicit] Monica: “What's the matter, officer? Has someone been bad? (looks over to Phoebe and she opens the door, and to their dismay, the stripper is an old, short, fat guy who looks exhausted)”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] 1011 - The One Where The Stripper Cries
+  - [Too much] Phoebe: “You know, the strippers, and the guys dancing, and you know, pee-pee's flying about.”
+  - [Too much] Monica: “What's the matter, officer? Has someone been bad? (looks over to Phoebe and she opens the door, and to their dismay, the stripper is an old, short, fat guy who looks exhausted)”
 - Violence & injury — 1 moment(s)
   - [Mild] With his back towards the girls, he starts waving his hands, then backs towards the girls slapping his butt, then swings it around, and makes thrusting pelvic movements in front of Phoebe.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Rachel: “I am sooo drunk.”
   - [Mild] Monica: “That's weird. I've had the same number of beers as you and I don't feel anything at all. (Chandler approaches)”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Monica: “Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.”
+  - [Caution] Monica: “Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.”
 
 ## S10 E12 — The One With Phoebe's Wedding
 URL: https://watchwiththekids.com/ep/friends/1012.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Chandler: “I don't know. Maybe he hooked up with that hot girl he was talking to.”
+  - [Caution] Chandler: “I don't know. Maybe he hooked up with that hot girl he was talking to.”
   - [Mild] Chandler: “I'd love to, but it's 2300 hours and I'm about to have the most organized sex anyone's ever had.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Phoebe: “well, apparently stabbing Iceman in the exercise yard just couldn't wait till Monday.”
+  - [Too much] Phoebe: “well, apparently stabbing Iceman in the exercise yard just couldn't wait till Monday.”
 - Swearing — 4 moment(s)
-  - [Moderate] Phoebe: “I want you to be Crazy Bitch again.”
+  - [Caution] Phoebe: “I want you to be Crazy Bitch again.”
   - [Mild] Monica: “(coming) Are you still crying about your damn baby? Pheebs, you gotta keep the line moving, remember, 20 seconds per person. Your see these clowns all the time! (she takes off)”
   - [Mild] Phoebe: “Sven I don't understand what you're saying! What is wrong with the flowers? Lorkins? What the hell are lorkins?”
   - [Mild] Monica: “I love you. (Phoebe leans in to kiss her.) Oh, wait, wait, wait! No hugs. The dresses... Oh what the hell. (the girls hug)”
@@ -3645,8 +3645,8 @@ URL: https://watchwiththekids.com/ep/friends/1013.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Ross: “(outside her room, talking by himself) Haven't had sex in four months, I should get a medal for that!”
-  - [Moderate] Ross: “I gotta say, I have not had sex a lot of times before, this is the worst ever.”
+  - [Caution] Ross: “(outside her room, talking by himself) Haven't had sex in four months, I should get a medal for that!”
+  - [Caution] Ross: “I gotta say, I have not had sex a lot of times before, this is the worst ever.”
   - [Mild] Rachel: “Oh... you're so sexy!”
   - [Mild] Rachel: “In the future, when a girl asks for some ill-advised sympathy sex... just do it. (she smiles fakely at him)”
   - [Mild] Ross: “Hey you know what? You know what? To avoid this little thing in the future, let's just say, you and me, never having sex again.”
@@ -3658,16 +3658,16 @@ URL: https://watchwiththekids.com/ep/friends/1014.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Ross: “That guy Mark. From Bloomingdale's... She thinks he's just being nice to her. But I know he really wants to sleep with her.”
-  - [Moderate] Monica: “So what if he wants to sleep with her? I mean, she's single and he's cute.”
+  - [Caution] Ross: “That guy Mark. From Bloomingdale's... She thinks he's just being nice to her. But I know he really wants to sleep with her.”
+  - [Caution] Monica: “So what if he wants to sleep with her? I mean, she's single and he's cute.”
   - [Mild] Joey: “Oh my God! (they all hug) Oh! Hey, can I have an aquarium? And a sex swing?”
 - Nudity & bodies — 2 moment(s)
   - [Mild] Monica: “Oh please! Yesterday on the subway? You couldn't stop staring at that woman with the big breasts the whole time.”
   - [Mild] Chandler mimes "big breasts" to Ross and lip syncs "Wow".
 - Violence & injury — 1 moment(s)
-  - [Moderate] Joey: “You know what? You are my friends, I wanna be supportive, I will come with you. SHOTGUN!”
+  - [Caution] Joey: “You know what? You are my friends, I wanna be supportive, I will come with you. SHOTGUN!”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Phoebe: “(to the woman behind her) This place is so depressing. If I had to work here I'd kill myself. (she turns around and the clerk behind the counter heard her.) But you obviously haven't.”
+  - [Too much] Phoebe: “(to the woman behind her) This place is so depressing. If I had to work here I'd kill myself. (she turns around and the clerk behind the counter heard her.) But you obviously haven't.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Ross: “Hey! Wha-hoo! What's this? (showing the bottle) Well it's a, it's a bottle of champagne. Why is this here?”
   - [Mild] Chandler: “Ooh! Israeli champagne. And it's vanilla!”
@@ -3677,12 +3677,12 @@ URL: https://watchwiththekids.com/ep/friends/1015.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Chandler: “It feels like we’re cheating on our house. And if we’re gonna cheat, shouldn’t it be with like a hot, younger house, that does stuff that our house won’t do?”
+  - [Caution] Chandler: “It feels like we’re cheating on our house. And if we’re gonna cheat, shouldn’t it be with like a hot, younger house, that does stuff that our house won’t do?”
 - Violence & injury — 2 moment(s)
   - [Mild] Janice: “So? Are you guys thinking of getting this house too? Ooh! Are we gonna have a bidding war? I'd better warn you, I'm a toughie (playfully punches Chandler, who tries to get away from her)”
   - [Mild] Chandler: “(at Janice's punching) Don't, don't! (looks disgusted)”
 - Swearing — 1 moment(s)
-  - [Moderate] Chandler: “Or facing a bitch of a commute.”
+  - [Caution] Chandler: “Or facing a bitch of a commute.”
 
 ## S10 E16 — The One With Rachel's Going Away Party
 URL: https://watchwiththekids.com/ep/friends/1016.html
@@ -3695,11 +3695,11 @@ Watch for:
   - [Mild] Ross: “No, no, I knew (he stares at her breasts).”
   - [Mild] Chandler: “Why would she use them with Richard and not me? I can be kinky! I once did a naked dance for her... with scarves!”
 - Violence & injury — 3 moment(s)
-  - [Moderate] Monica: “All right, Rachel's party is in a couple of hours and there's a lot to do. Now, Ross, you got Geller blood, you're in charge of these yahoos!”
+  - [Caution] Monica: “All right, Rachel's party is in a couple of hours and there's a lot to do. Now, Ross, you got Geller blood, you're in charge of these yahoos!”
   - [Mild] Scene: Guest room. Joey has his head wrapped in bubbled wrap and Chandler is punching him. Ross enters the room.
   - [Mild] Joey: “Try it, I can't feel a thing! (Ross starts punching him too)”
 - Swearing — 5 moment(s)
-  - [Moderate] Phoebe: “I love you too. (they hug) Please don't... Don't turn into... you know... French bitch! (they hug again)”
+  - [Caution] Phoebe: “I love you too. (they hug) Please don't... Don't turn into... you know... French bitch! (they hug again)”
   - [Mild] Chandler: “(holding a pair of furry handcuffs) What the hell is this?”
   - [Mild] Joey: “(still very emotional) Lucky bastard!”
   - [Mild] Ross: “THE HELL I DO!”
@@ -3710,14 +3710,14 @@ URL: https://watchwiththekids.com/ep/friends/1017-1018.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Ross: “Hey, I'm not one to kiss and tell, but I'm also not one to have sex and shut up. We totally did it!”
+  - [Caution] Ross: “Hey, I'm not one to kiss and tell, but I'm also not one to have sex and shut up. We totally did it!”
   - [Mild] Ross: “Yeah, well, this guy at work gave me "Sex for Dummies" as a joke.”
   - [Mild] Phoebe: “How can you compare yourself to Gunther? I mean, sure, he's sexy in a more obvious way. You have a relationship with her, you slept together last night.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Chandler: “Maybe. Unless they're like two people who have lived in apartments next to each other for years, and then one day they're pushed through a vagina and they meet.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Chandler: “Maybe. Unless they're like two people who have lived in apartments next to each other for years, and then one day they're pushed through a vagina and they meet.”
   - [Mild] Rachel: “I have it, I have it, I have it. Oh, okay, I can't find it, but I remember that I was in seat 32C, because that's my bra-size.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Ross: “This is it. Unless we're on a break.”
+  - [Caution] Ross: “This is it. Unless we're on a break.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Monica: “Son of a gun, it is!”
+  - [Caution] Monica: “Son of a gun, it is!”

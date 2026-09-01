@@ -10,13 +10,13 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry is excited that a woman he met on the road is coming to visit him in New York. However, he has a tough time discerning whether her intentions are romantic or platonic.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”
+  - [Caution] GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”
 - Nudity & bodies — 2 moment(s)
   - [Mild] JERRY: “Ya know, it's dark, there's bubbles happening, they're all kind a dancing around in there...shirt grabs the underwear: "C'mon babe, let's gather".”
   - [Mild] “job-interviews is there a chance you'll end up naked at the end”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “for getting out blood-stains...Is this a violent image to anybody?”
-  - [Moderate] “Blood-stains? I mean, I, come on, you got a T-shirt with blood-stains”
+  - [Caution] “for getting out blood-stains...Is this a violent image to anybody?”
+  - [Caution] “Blood-stains? I mean, I, come on, you got a T-shirt with blood-stains”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] JERRY: “[hands George a beer] Look, it's a very awkward situation, I, I don't wanna be presumptuous.”
   - [Mild] LAURA: “[laughs] Actually uhm, do you have any wine?”
@@ -45,7 +45,7 @@ Watch for:
   - [Mild] GEORGE: “That, or "Who's bra is this?"”
   - [Mild] ELAINE: “No, no, no, no, no, these are good. Listen, listen: "You ran out of underwear, you can't leave the house."”
 - Violence & injury — 1 moment(s)
-  - [Moderate] GEORGE: “(pantomimes sticking an imaginary knife in his heart, and twists it) Oh geeeee.. Go, go!”
+  - [Caution] GEORGE: “(pantomimes sticking an imaginary knife in his heart, and twists it) Oh geeeee.. Go, go!”
 
 ## S1 E5 — The Stock Tip
 URL: https://watchwiththekids.com/ep/seinfeld/0105.html
@@ -57,7 +57,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] JERRY: “What do you want me to do? I have the guy the half-turn. Then I have him the full-turn with the eye roll! I mean, beyond that, I'm risking a punch in the”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] JERRY: “We cold play "Sorry!" We cold play "Steal the Old Man's Bundle." (To himself) Maybe I can get an extension cord and hang myself. (To Vanessa) What”
+  - [Too much] JERRY: “We cold play "Sorry!" We cold play "Steal the Old Man's Bundle." (To himself) Maybe I can get an extension cord and hang myself. (To Vanessa) What”
 
 ## S2 E1 — The Ex-Girlfriend
 URL: https://watchwiththekids.com/ep/seinfeld/0201.html
@@ -65,14 +65,14 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry begins to date George's ex - girlfriend before he discovers how clingy she is. Meanwhile George refuses to pay a physical therapist, convinced he did nothing and Elaine has a run - in with a friend who has stopped saying "hello" to her.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] KRAMER: “You're his friend. Better that she should sleep with someone else. Some jerk that he doesn't even know.”
+  - [Caution] KRAMER: “You're his friend. Better that she should sleep with someone else. Some jerk that he doesn't even know.”
   - [Mild] GEORGE: “Oh, no. No, I can't go back there. Jerry, it's so awkward and, you know, it could be dangerous - sexually. Something could happen, I'd be right back”
   - [Mild] GEORGE: “Just do it like a Band-Aid. One motion, right off! She is sexy though. Don't you think?”
   - [Mild] psycho-sexual hold over me. I just want her, I can't breathe. It's like a drug.
   - [Mild] KRAMER: “Woah, psycho-sexual.”
   - [Mild] GEORGE: “No, you're a fine person. You're a humanitarian. She's very sexy.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] JERRY: “You're flesh and blood.”
+  - [Caution] JERRY: “You're flesh and blood.”
 
 ## S2 E2 — The Pony Remark
 URL: https://watchwiththekids.com/ep/seinfeld/0202.html
@@ -80,7 +80,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry worries that he may have killed an old relative, after he offends her with an off-the-cuff comment about hating kids who had ponies growing up.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] GEORGE: “You know, I've been thinking.. I cannot envision any circumstances in which I'll ever have the opportunity to have sex again. How's it gonna happen? I”
+  - [Caution] GEORGE: “You know, I've been thinking.. I cannot envision any circumstances in which I'll ever have the opportunity to have sex again. How's it gonna happen? I”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] GEORGE: “They always make me take stock of my life and how I've pretty much wasted all of it, and how I plan to continue wasting it.”
 
@@ -115,7 +115,7 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Jerry finds a statue in a box of his grandfather's old things, that George wants to replace a similar one he broke as a child. When Jerry hires the boyfriend of an author Elaine is working with, to clean his apartment, the cleaning job is spectacular, but the statue goes missing.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] KRAMER: “Shut up. Spread 'em. I said spread 'em! (Looks around) You're in big trouble son. Burglary, grand larceny, possession of stolen goods.. and uh, uh.. murder.”
+  - [Too much] KRAMER: “Shut up. Spread 'em. I said spread 'em! (Looks around) You're in big trouble son. Burglary, grand larceny, possession of stolen goods.. and uh, uh.. murder.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] ELAINE: “Why don't we just throw a Molotov cocktail through their window?”
 
@@ -129,13 +129,13 @@ Watch for:
   - [Mild] ELAINE: “Oh, yeah. I usually work naked a...couple hours a day.”
   - [Mild] secret about my bra.
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] GEORGE: “I told her what a sexist he is. How he cheats on his wife.”
+  - [Caution] GEORGE: “I told her what a sexist he is. How he cheats on his wife.”
 - Violence & injury — 1 moment(s)
   - [Mild] ELAINE: “Wouldn't it be easier just to punch him in the mouth?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] roof to kill himself.
+  - [Too much] roof to kill himself.
 - Sexual insults — 1 moment(s)
-  - [Moderate] really don't have an apartment. I kinda sleep around.
+  - [Caution] really don't have an apartment. I kinda sleep around.
 
 ## S2 E8 — The Heart Attack
 URL: https://watchwiththekids.com/ep/seinfeld/0208.html
@@ -143,14 +143,14 @@ Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: George thinks he's had a heart attack. The doctor tells him otherwise, but he might want to get his tonsils and adenoids removed. Elaine is interested in the doctor and he is interested in her tongue. George not wanting to deal with the cost and the procedure decides to take Kramer's advice of going to see a naturalist, which only makes the situation worse.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Explicit] already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes
-  - [Explicit] in the time it takes me to have an orgasm. I've never had a normal, medium orgasm.
+  - [Too much] already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes
+  - [Too much] in the time it takes me to have an orgasm. I've never had a normal, medium orgasm.
   - [Mild] KRAMER: “The really bad thing about the heart is the sex thing. See, you gotta be careful about sex now. You get that heart pumping and suddenly, boom! Next”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 2 moment(s)
-  - [Moderate] GEORGE: “What? You mean with a knife?”
-  - [Moderate] DOCTOR: “Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice”
+  - [Caution] GEORGE: “What? You mean with a knife?”
+  - [Caution] DOCTOR: “Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice”
 
 ## S2 E9 — The Deal
 URL: https://watchwiththekids.com/ep/seinfeld/0209.html
@@ -158,7 +158,7 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Jerry and Elaine establish a new set of ground rules so they can remain friends but still sleep with each other often. With Jerry in a dilemma to find Elaine an "appropriate" birthday gift and with George's skepticism, their new deal is doomed from the start.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Jerry: “And then, somehow, we started talking about, what if we had sex.”
+  - [Caution] Jerry: “And then, somehow, we started talking about, what if we had sex.”
   - [Mild] George: “(To himself) So you're havin' the sex, next day you don't have to call. That's pretty good. (Back to Jerry) Go ahead.”
   - [Mild] George: “What is it about sex that just disrupts everything? Is it the touching? Is it the nudity?”
 - Nudity & bodies — 2 moment(s)
@@ -171,7 +171,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Jerry goes out of town, Elaine uses his apartment for the baby shower of a woman George once dated. However, the party goes awry when Kramer shows up to install illegal cable, Jerry's trip is cancelled, and George intends to confront the mother-to-be for mistreating him on their date years earlier.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] George is driving while wearing an unzipped coat, and a sweater with a bright red collar under it. Jerry's riding shotgun
+  - [Caution] George is driving while wearing an unzipped coat, and a sweater with a bright red collar under it. Jerry's riding shotgun
 - Alcohol & drugs — 1 moment(s)
   - [Mild] JERRY: “Well, I mean, does it ever erupt into a drunken orgy of violence?”
 
@@ -219,10 +219,10 @@ Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Jerry and Elaine travel to Florida to see Jerry's parents which they soon regret when Elaine injures her back on a fold - out couch and Jerry gets caught up in a scandal by just saying that he liked someone's pen.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] HELEN: “I mean nobody put a gun to his head.”
+  - [Caution] HELEN: “I mean nobody put a gun to his head.”
   - [Mild] JERRY: “I got in a fist fight with one of the ladies at the pool.”
 - Swearing — 5 moment(s)
-  - [Moderate] JACK: “You son-of-a-bitch!”
+  - [Caution] JACK: “You son-of-a-bitch!”
   - [Mild] MORTY: “What the hell are you looking for?”
   - [Mild] MORTY: “How the hell do you work this thing?”
   - [Mild] MORTY: “Where do you come off with this crap?”
@@ -242,13 +242,13 @@ Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry is investigated by the library for a book he checked out in 1971 and never returned. Elaine fears for her career when her boss hates her recommendations, and Kramer strikes up a relationship with the librarian. Meanwhile, George believes that a homeless man is his old gym teacher, whom he got fired.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Maybe a virgin. ... Maybe she got hurt a long time ago. She was a schoolgirl. There was
+  - [Caution] Maybe a virgin. ... Maybe she got hurt a long time ago. She was a schoolgirl. There was
   - [Mild] is sexual intercourse ."
 - Nudity & bodies — 2 moment(s)
   - [Mild] HEYMAN: “Your underwear was stick'n out of your shorts during gym class.”
   - [Mild] GEORGE: “Because the underwear is pulled up from the back and ... it wedges in..”
 - Violence & injury — 1 moment(s)
-  - [Explicit] JERRY: “I had him for Hygene. Remember his teeth. It was like from an exhumed corpse.”
+  - [Too much] JERRY: “I had him for Hygene. Remember his teeth. It was like from an exhumed corpse.”
 
 ## S3 E6 — The Parking Garage
 URL: https://watchwiththekids.com/ep/seinfeld/0306.html
@@ -258,7 +258,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] IN THE DISTANCE WE CAN MAKE OUT KRAMER STRUGGLING WITH THE AIR-CONDITIONER.
 - Swearing — 2 moment(s)
-  - [Moderate] GEORGE I should've hit the little son-of-a-bitch. I can't stand kids. Adults think it's so wonderful how honest kids are. I don't need that kind of honesty. I'll take a deceptive adult over an honest kid any day.
+  - [Caution] GEORGE I should've hit the little son-of-a-bitch. I can't stand kids. Adults think it's so wonderful how honest kids are. I don't need that kind of honesty. I'll take a deceptive adult over an honest kid any day.
   - [Mild] GEORGE Where the hell is this car, Kramer?
 - Alcohol & drugs — 1 moment(s)
   - [Mild] I'll just go up and say, "Hi, how ya' doing? Would you like a glass of white wine?" JERRY Before you got within twenty feet of this woman, she'd have her finger on the mace button.
@@ -269,7 +269,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Jerry tries helping the owner of a small restaurant attract customers by giving him a suggestion. George must take an IQ test for his latest girlfriend, so Elaine helps him in "a caper" where she takes the test for him. Kramer tries to keep his mother's ex-boyfriend's jacket, because it helps him meet women; however the ex-boyfriend comes looking for it.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Jerry: “Well, that would be something, cheating on a IQ test. Hey, remember in college when you passed Lettick the test out the window? You became a legend after that.”
+  - [Caution] Jerry: “Well, that would be something, cheating on a IQ test. Hey, remember in college when you passed Lettick the test out the window? You became a legend after that.”
 
 ## S3 E8 — The Tape
 URL: https://watchwiththekids.com/ep/seinfeld/0308.html
@@ -277,19 +277,19 @@ Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: While listening to a tape of his previous nights show, Jerry hears the voice of a mysterious woman who talks dirty into his tape recorder and everyone becomes excited by the voice. George tries a new cure for baldness. Kramer searches for the jacket.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Kramer: “'cos the other night , you know, I was sleeping with Marion I rolled over and I cut her ankle”
+  - [Caution] Kramer: “'cos the other night , you know, I was sleeping with Marion I rolled over and I cut her ankle”
   - [Mild] George: “This woman left this really sexy message on Jerry's tape recorder......”
   - [Mild] George: “She had this throaty , sexy kind of whisper.”
   - [Mild] George: “I had no Idea you were filled with such....sexuality..”
   - [Mild] Kramer: “So Elaine in your movies is the sex real or is it simulated?”
   - [Mild] George: “I thought the thing you said about the sex not being simulated . That was really funny.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Kramer: “Well we're talking with Elaine Benes; Adult film star on the set of her new picture "Elaine does the Upper”
-  - [Explicit] doing that porno thing....you're talented.
+  - [Too much] Kramer: “Well we're talking with Elaine Benes; Adult film star on the set of her new picture "Elaine does the Upper”
+  - [Too much] doing that porno thing....you're talented.
 - Violence & injury — 3 moment(s)
-  - [Moderate] Ping: “Gym a gun sen tokomo. Chin che .They say you grow hair, Look a like Stalin”
-  - [Moderate] erotic message on my tape and I was just gonna let it go. Not Bloody likely...
-  - [Moderate] Kramer: “Not bloody likely..”
+  - [Caution] Ping: “Gym a gun sen tokomo. Chin che .They say you grow hair, Look a like Stalin”
+  - [Caution] erotic message on my tape and I was just gonna let it go. Not Bloody likely...
+  - [Caution] Kramer: “Not bloody likely..”
 
 ## S3 E9 — The Nose Job
 URL: https://watchwiththekids.com/ep/seinfeld/0309.html
@@ -300,9 +300,9 @@ Watch for:
   - [Mild] scenes with her, and I do it because I'm so addicted to the sex, I'm helpless,
   - [Mild] Jerry: “I'll tell you, the sex... I mean, I was like an animal. I mean it was”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] penis in a chess game. And I'm letting him win.
-  - [Explicit] with a similarly visible Jerry's penis.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] penis in a chess game. And I'm letting him win.
+  - [Too much] with a similarly visible Jerry's penis.
   - [Mild] Landlord: “The woman used to walk around here half naked, sucking Colt 45 from a”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Kramer. Nasty woman, many a night I had to throw her out on the street, drunken
@@ -313,7 +313,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry & Elaine go to a party with George, while there they send signals to each other to get out of bad party conversations. Afterward, George abandons them there, when he leaves with a co-worker he has a chance with. Jerry & Elaine keeping the hosts up real late, while waiting for Kramer to come and pick them up. The host later takes Jerry up on his offer to drop by when he is in the city, just as Jerry is leaving. He stays in Jerry's apartment for the evening and parties with Kramer and a lady of the evening. Later George pays the price for his romance in the workplace (he must quit) and he tries to shoplift at the drug store where he says they still owe him ten dollars.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Cop: “You're under arrest for solicitation of prostitution.”
+  - [Too much] Cop: “You're under arrest for solicitation of prostitution.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Steve (drunk and slurring): Oh Jerry! Jerry! Look who's here, it's Jerry
 
@@ -325,13 +325,13 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] the limit. Unless, of course, there was no sex.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Jerry: “You raise the feet, get blood to the head.”
-  - [Moderate] Kramer: “You raise the head, you get blood to the feet.”
+  - [Caution] Jerry: “You raise the feet, get blood to the head.”
+  - [Caution] Kramer: “You raise the head, you get blood to the feet.”
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] Jerry: “No, no that's for a drug overdose.”
-  - [Explicit] Jerry: “An overdose of odor? Good question.”
+  - [Too much] Jerry: “No, no that's for a drug overdose.”
+  - [Too much] Jerry: “An overdose of odor? Good question.”
 - Swearing — 2 moment(s)
-  - [Moderate] well, I'm gonna be brutally honest with you now, Owen, it's a bitch to get here.
+  - [Caution] well, I'm gonna be brutally honest with you now, Owen, it's a bitch to get here.
   - [Mild] Jerry: “Yeah, you better give me the insurance, because I am gonna beat the hell”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] are making me thirsty' and I took a swig of beer, ya know, and I slammed the
@@ -342,20 +342,20 @@ Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Jerry is the unwitting cause of Elaine's boyfriend falling off the wagon. Elaine gets George a job, so he buys her a gift, an $85 cashmere sweater. The sweater has a little red dot on it; hence the price. Elaine gives it back, then George gives it to the cleaning woman, to keep her quiet about them having sex on his desk. George gets fired.
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] Jerry: “You had sex with the cleaning woman on your desk? Who are you, how did you do that?”
-  - [Moderate] Elaine: “You had sex on your desk with the cleaning woman.”
+  - [Caution] Jerry: “You had sex with the cleaning woman on your desk? Who are you, how did you do that?”
+  - [Caution] Elaine: “You had sex on your desk with the cleaning woman.”
   - [Mild] George: “Well the sex was okay, but I threw up from the Hennigans.”
   - [Mild] Boss: “I'm going to get right to the point. It has come to my attention that you and the cleaning woman have engaged in sexual intercourse on the desk in your office. Is that correct?”
   - [Mild] Elaine: “Well that's not sex.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Jerry: “I would say when the nipple makes its first appearance.”
+  - [Too much] Jerry: “I would say when the nipple makes its first appearance.”
   - [Mild] George: “So she starts vaccuming, back and forth, back and forth, her hips swivelling, her breasts, uh... (trying to think of a word)”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “knife, a big, long, sharp knife, that's what I'm in the market for.”
-  - [Moderate] “like blades and kind of serrated? That's the kind of knife I'm looking”
+  - [Caution] “knife, a big, long, sharp knife, that's what I'm in the market for.”
+  - [Caution] “like blades and kind of serrated? That's the kind of knife I'm looking”
 - Swearing — 3 moment(s)
-  - [Moderate] Elaine: “Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.”
-  - [Moderate] Elaine: “(softly to Dick) Dick.”
+  - [Caution] Elaine: “Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.”
+  - [Caution] Elaine: “(softly to Dick) Dick.”
   - [Mild] Dick: “What the hell do you know about wagons?”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Kramer: “Imagine, you can walk around drunk all day.”
@@ -370,9 +370,9 @@ Watch for:
   - [Mild] *Jerry wakes up and looks to guy opposite to him. The fat guy is naked and
   - [Mild] her bra and panties. She didn't look anything like you, she was really
 - Violence & injury — 1 moment(s)
-  - [Moderate] Blind violin player puts a gun to the thug's head and says: "Freeze,
+  - [Caution] Blind violin player puts a gun to the thug's head and says: "Freeze,
 - Swearing — 1 moment(s)
-  - [Moderate] trapped in a room with bib overalls and pigtails, been counseled by Dick
+  - [Caution] trapped in a room with bib overalls and pigtails, been counseled by Dick
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Women: “I wasted my whole morning with you for eight dollars?”
 
@@ -382,7 +382,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Kramer joins the "Polar Bear Club." Jerry gets one of Kramer's Pez dispensers which makes Elaine laugh during a piano recital of George's girlfriend, and that puts their relationship in jeopardy. Kramer has an idea for a cologne that smells like the beach and suggests that George make a preemptive breakup with his girlfriend, that will give him the "upper hand." The Pez dispenser has a remarkable effect during a drug confrontation.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] fish and sea weed? That's why people take showers when the come
+  - [Caution] fish and sea weed? That's why people take showers when the come
 
 ## S3 E15 — The Suicide
 URL: https://watchwiththekids.com/ep/seinfeld/0315.html
@@ -395,11 +395,11 @@ Watch for:
   - [Mild] KRAMER: “Not only that but at the hotel they opened up this area on the beach for nude bathing and all of the Sports Illustrated models went down there.”
   - [Mild] KRAMER: “We played Backgammon in the nude.”
 - Suicide & self-harm — 3 moment(s)
-  - [Explicit] “The thing I don’t understand about the suicide person is the people”
-  - [Explicit] “who try and commit suicide for some reason they don’t die and that’s”
-  - [Explicit] GEORGE: “It’s Martine. I think he’s dying. He tried to kill himself with pills.”
+  - [Too much] “The thing I don’t understand about the suicide person is the people”
+  - [Too much] “who try and commit suicide for some reason they don’t die and that’s”
+  - [Too much] GEORGE: “It’s Martine. I think he’s dying. He tried to kill himself with pills.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] ELAINE: “And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.”
+  - [Caution] ELAINE: “And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.”
 
 ## S3 E16 — The Fix-Up
 URL: https://watchwiththekids.com/ep/seinfeld/0316.html
@@ -407,15 +407,15 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After selling each other on the idea, Jerry and Elaine sell George and Elaine's friend on a blind date, then they await the results. They promise to keep each other updated with "full disclosure," though that doesn't happen. There also may be a problem with a defective condom.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Kramer: “Yeah. He just got a job at a condom factory in Edison. Look at this,”
-  - [Moderate] The problem with the condom is still buying them. I think we should have like a
-  - [Moderate] Jerry: “Oh my god, you had sex, how did that happen?”
-  - [Moderate] know those condoms I gave you? They're defective, don't use them.
-  - [Moderate] Elaine: “I knew those condoms were defective!”
+  - [Caution] Kramer: “Yeah. He just got a job at a condom factory in Edison. Look at this,”
+  - [Caution] The problem with the condom is still buying them. I think we should have like a
+  - [Caution] Jerry: “Oh my god, you had sex, how did that happen?”
+  - [Caution] know those condoms I gave you? They're defective, don't use them.
+  - [Caution] Elaine: “I knew those condoms were defective!”
   - [Mild] George: “I left three messages. I can't believe this woman. She has sex with”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] And prostitutes! No! No, I am not going down that road! What does she look
-  - [Explicit] Elaine: “Half a bag? What am I, a hooker? Anyway, they look kind of cheap.”
+  - [Too much] And prostitutes! No! No, I am not going down that road! What does she look
+  - [Too much] Elaine: “Half a bag? What am I, a hooker? Anyway, they look kind of cheap.”
 
 ## S3 E17 — The Boyfriend (1)
 URL: https://watchwiththekids.com/ep/seinfeld/0317.html
@@ -439,11 +439,11 @@ Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Jerry and George lie their way into a limo heading for Madison Square Garden to, or so they think, a Knicks/Bulls basketball game. Along the way they pick up Elaine and Kramer but soon become fearful of two Neo-Nazis and discover the event they're really headed to.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Jerry: “I know, why do they make that bed so tight? You gotta sleep with your”
+  - [Caution] Jerry: “I know, why do they make that bed so tight? You gotta sleep with your”
 - Violence & injury — 3 moment(s)
-  - [Explicit] Jerry: “Nah. No one's ever been shot in the city.”
-  - [Moderate] Tim (pulling out a gun): Alright, get down!
-  - [Moderate] Eva (gun drawn): Who are you?
+  - [Too much] Jerry: “Nah. No one's ever been shot in the city.”
+  - [Caution] Tim (pulling out a gun): Alright, get down!
+  - [Caution] Eva (gun drawn): Who are you?
 
 ## S3 E20 — The Good Samaritan
 URL: https://watchwiththekids.com/ep/seinfeld/0320.html
@@ -451,15 +451,15 @@ Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Jerry trails a hit-and-run driver but is attracted to her and begins dating her; he later learns her victim was a longtime quarry and dates the latter as well. Kramer begins having seizures whenever he hears Mary Hart's voice.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Elaine: “Well who told you to sleep with her George?!”
+  - [Caution] Elaine: “Well who told you to sleep with her George?!”
 - Affairs / cheating — 3 moment(s)
-  - [Moderate] Elaine: “Married women don't 'get together'. They have affairs.”
-  - [Moderate] George: “Oh my God, an affair. That's so adult. It's like with stockings and”
-  - [Moderate] George: “I can't have an affair with a married woman, that's despicable!”
+  - [Caution] Elaine: “Married women don't 'get together'. They have affairs.”
+  - [Caution] George: “Oh my God, an affair. That's so adult. It's like with stockings and”
+  - [Caution] George: “I can't have an affair with a married woman, that's despicable!”
 - Violence & injury — 1 moment(s)
   - [Mild] two punches)
 - Swearing — 3 moment(s)
-  - [Moderate] Jerry: “Don't sell yourself short saying 'God bless you' to every Tom, Dick”
+  - [Caution] Jerry: “Don't sell yourself short saying 'God bless you' to every Tom, Dick”
   - [Mild] Michael: “You think you're so damn special because you say 'God bless you'?”
   - [Mild] George: “Must be hell living in that house.”
 - Alcohol & drugs — 1 moment(s)
@@ -479,11 +479,11 @@ Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Coming from an outing to a flea market in New Jersey, Elaine and George damage Jerry's car when George drives over a large pothole. When they get to his apartment they end up spending the whole day arguing over a parking space. Elaine meanwhile has to come with a story about the damage to the car.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] like going to a prostitute. Why should I pay, when if I apply myself, maybe I
+  - [Too much] like going to a prostitute. Why should I pay, when if I apply myself, maybe I
 - Violence & injury — 3 moment(s)
-  - [Explicit] Elaine (after pouring the shot in the sink while Jerry was distracted and
-  - [Moderate] Elaine: “Oh, he is fantastic! And then they fired a gun right up in the air.”
-  - [Moderate] Jerry: A gun?!
+  - [Too much] Elaine (after pouring the shot in the sink while Jerry was distracted and
+  - [Caution] Elaine: “Oh, he is fantastic! And then they fired a gun right up in the air.”
+  - [Caution] Jerry: A gun?!
 
 ## S3 E23 — The Keys
 URL: https://watchwiththekids.com/ep/seinfeld/0323.html
@@ -491,12 +491,12 @@ Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Jerry is fed up with Kramer coming into his apartment any time he feels like it and asks him to return his spare set of keys. Kramer begrudgingly complies but then lets it be known that he's leaving for California. When Jerry forgets his keys, he gets George to let him into Elaine's apartment so her can get his spare set.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] JERRY: “Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?”
-  - [Explicit] JERRY: “Oh. I see. There he is! <Pretends the murderers are coming.>”
-  - [Explicit] HIPPIE #1: Lemme tell you something, Kramer. If that ogre dude pulled that crap on me <pulls out a knife> - I'D STAB HIM! I'D CUT HIM
-  - [Moderate] “right on my head. Cracked it wide open! Blood and stuff was just splattered”
+  - [Too much] JERRY: “Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?”
+  - [Too much] JERRY: “Oh. I see. There he is! <Pretends the murderers are coming.>”
+  - [Too much] HIPPIE #1: Lemme tell you something, Kramer. If that ogre dude pulled that crap on me <pulls out a knife> - I'D STAB HIM! I'D CUT HIM
+  - [Caution] “right on my head. Cracked it wide open! Blood and stuff was just splattered”
 - Swearing — 4 moment(s)
-  - [Moderate] ELAINE: “O.K., can I just watch the show? <mutters under her breath> God, what an asshole.”
+  - [Caution] ELAINE: “O.K., can I just watch the show? <mutters under her breath> God, what an asshole.”
   - [Mild] JERRY's brain: “What the hell...? Why is the door open?”
   - [Mild] JERRY: “Kramer! What the hell are you doing here?!”
   - [Mild] ELAINE: “Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!”
@@ -514,11 +514,11 @@ Watch for:
   - [Mild] George: “Did she show her breasts in that?”
   - [Mild] Jerry: “She's not really the naked type.”
 - Violence & injury — 7 moment(s)
-  - [Explicit] A murder scene. There's a body under a blanket and two Lieutenants are talking.
-  - [Explicit] Another murder scene. A police officer pulls a blanket over the body's head,
-  - [Moderate] George: “Kramer was on Murphy Brown? That son of a gun!”
-  - [Moderate] Other Security Guard: “Do you have a knife in the bag?”
-  - [Moderate] Jerry: “I must have iron rich blood.”
+  - [Too much] A murder scene. There's a body under a blanket and two Lieutenants are talking.
+  - [Too much] Another murder scene. A police officer pulls a blanket over the body's head,
+  - [Caution] George: “Kramer was on Murphy Brown? That son of a gun!”
+  - [Caution] Other Security Guard: “Do you have a knife in the bag?”
+  - [Caution] Jerry: “I must have iron rich blood.”
   - [Mild] 'Smog Stranglings'. Police have just released a photo of the suspect being
   - [Mild] Check the time?" You never see Magnum P.I. go, "Should I strangle this guy or
 
@@ -533,11 +533,11 @@ Watch for:
   - [Mild] George: “Did she show her breasts in that?”
   - [Mild] Jerry: “She's not really the naked type.”
 - Violence & injury — 7 moment(s)
-  - [Explicit] A murder scene. There's a body under a blanket and two Lieutenants are talking.
-  - [Explicit] Another murder scene. A police officer pulls a blanket over the body's head,
-  - [Moderate] George: “Kramer was on Murphy Brown? That son of a gun!”
-  - [Moderate] Other Security Guard: “Do you have a knife in the bag?”
-  - [Moderate] Jerry: “I must have iron rich blood.”
+  - [Too much] A murder scene. There's a body under a blanket and two Lieutenants are talking.
+  - [Too much] Another murder scene. A police officer pulls a blanket over the body's head,
+  - [Caution] George: “Kramer was on Murphy Brown? That son of a gun!”
+  - [Caution] Other Security Guard: “Do you have a knife in the bag?”
+  - [Caution] Jerry: “I must have iron rich blood.”
   - [Mild] 'Smog Stranglings'. Police have just released a photo of the suspect being
   - [Mild] Check the time?" You never see Magnum P.I. go, "Should I strangle this guy or
 
@@ -553,19 +553,19 @@ Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Newman uses Kramer as his witness when the former refuses to pay for a speeding ticket.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Explicit] George: “The story is the foundation of all entertainment. You must have a good story otherwise it's just masturbation.”
+  - [Too much] George: “The story is the foundation of all entertainment. You must have a good story otherwise it's just masturbation.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Leo: “The funny thing is: I can't wear 'em. I get too hot. I sleep in my underwear and a t-shirt. If it gets too hot, I just get the t-shirt off! Anyway, Danny says to me: 'You need any pajamas?'”
 - Violence & injury — 4 moment(s)
-  - [Explicit] [Mimmicks stabbing himself in stomach and jerking the knife around] to yourself! You were going to do something to yourself! Remember the banking? The banking, about the banking, about the banking!!!
-  - [Moderate] Stars: “…Eastin (as cop #1), David Graf (as cop #2), Al FAnn (as judge), Stephen McHattie (as psychiatrist), Peter Blood (as Jay) and Julie Bloom (as receptionist)”
-  - [Moderate] Leo: “Nobody got a gun to your head!”
+  - [Too much] [Mimmicks stabbing himself in stomach and jerking the knife around] to yourself! You were going to do something to yourself! Remember the banking? The banking, about the banking, about the banking!!!
+  - [Caution] Stars: “…Eastin (as cop #1), David Graf (as cop #2), Al FAnn (as judge), Stephen McHattie (as psychiatrist), Peter Blood (as Jay) and Julie Bloom (as receptionist)”
+  - [Caution] Leo: “Nobody got a gun to your head!”
   - [Mild] Newman (Strangling Kramer): What's the matter with you? We had it all worked out!
 - Suicide & self-harm — 4 moment(s)
-  - [Explicit] Newman: “When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.”
-  - [Explicit] Newman: “Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.”
-  - [Explicit] Judge: “So then he didn't kill himself.”
-  - [Explicit] Mimmicks hanging himself, growing hysterical as only Newman can
+  - [Too much] Newman: “When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.”
+  - [Too much] Newman: “Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.”
+  - [Too much] Judge: “So then he didn't kill himself.”
+  - [Too much] Mimmicks hanging himself, growing hysterical as only Newman can
 
 ## S4 E5 — The Wallet (1)
 URL: https://watchwiththekids.com/ep/seinfeld/0405.html
@@ -577,9 +577,9 @@ Watch for:
   - [Mild] DR. RESTON: “You mean sexually?”
   - [Mild] DR. RESTON: “Elaine, do you remember your dream where you have a sexual encounter with a Chinese woman?”
 - Violence & injury — 3 moment(s)
-  - [Explicit] MORTY: “George is right. Those people will try to get away with murder. Believe me. They're all crooks.”
-  - [Explicit] JERRY: “Where did I take it? Where Did I Take It? (stabbing with knife) Um, to that place on, uh Columbus and uh, 85th. Okay?”
-  - [Explicit] KRAMER: “Federal Express? Of course. It's the oldest trick in the book. You know it might not be a burglar it might be a murderer.”
+  - [Too much] MORTY: “George is right. Those people will try to get away with murder. Believe me. They're all crooks.”
+  - [Too much] JERRY: “Where did I take it? Where Did I Take It? (stabbing with knife) Um, to that place on, uh Columbus and uh, 85th. Okay?”
+  - [Too much] KRAMER: “Federal Express? Of course. It's the oldest trick in the book. You know it might not be a burglar it might be a murderer.”
 
 ## S4 E6 — The Watch (2)
 URL: https://watchwiththekids.com/ep/seinfeld/0406.html
@@ -597,8 +597,8 @@ Watch for:
   - [Mild] JERRY: “Well, um same bed and uh, underwear and a tee shirt.”
   - [Mild] JERRY: “You'll be naked of course.”
 - Violence & injury — 4 moment(s)
-  - [Moderate] gun is on. I've seen it. I
-  - [Moderate] the show with my son Donald. He's got this rare immune deficiency in his blood. Damnedest thing.
+  - [Caution] gun is on. I've seen it. I
+  - [Caution] the show with my son Donald. He's got this rare immune deficiency in his blood. Damnedest thing.
   - [Mild] GEORGE: “Help, someone. <BUBBLE BOY is strangling George>”
   - [Mild] <Waitress is strangling Jerry, cook is grabbing Jerry, Elaine is grabbing the cook>
 
@@ -608,9 +608,9 @@ Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Jerry offends Elaine's assistant. Kramer makes a contact for Cuban cigars. A box of letters from John Cheever is all that remains after Susan's father's cabin burns down.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Explicit] SUSAN: “(Chuckles as she opens up one of the letters. She reads it) "Dear Henry, last night with you was bliss. I fear my.. orgasm (She now has everyone's”
+  - [Too much] SUSAN: “(Chuckles as she opens up one of the letters. She reads it) "Dear Henry, last night with you was bliss. I fear my.. orgasm (She now has everyone's”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
   - [Mild] JERRY: “..And then she starts talking about her panties.”
   - [Mild] JERRY: “Okay? So, she's taking about her panties, so, uh.. So, I said, "You mean the panties your mother laid out for you?"”
 - Alcohol & drugs — 2 moment(s)
@@ -623,7 +623,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Elaine unknowingly is dating Crazy Joe Davola, who has just left a threatening message on Jerry's recorder.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] JOE DIVOLA: “He's a clown whose wife is unfaithful to him.”
+  - [Caution] JOE DIVOLA: “He's a clown whose wife is unfaithful to him.”
 
 ## S4 E10 — The Virgin
 URL: https://watchwiththekids.com/ep/seinfeld/0410.html
@@ -631,14 +631,14 @@ Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Not having come up for a script for their new sitcom, George and Jerry now have to face the music when they meet with NBC executives. George's lack of discretion however has repercussions. Jerry see Marla Penny in a bar and mentions to George that when he last saw her, she was a virgin. Jerry asks her out and finds out she still is. Elaine, on hearing the news, decides to give her a bit of coaching about men and what she can expect.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Marla: “Well because I'm a virgin. (Elaine enters)”
-  - [Moderate] Jerry: “She's a virgin, she just told me.”
-  - [Moderate] Marla: “Are you gonna leave after its over? You know, if we have sex.”
+  - [Caution] Marla: “Well because I'm a virgin. (Elaine enters)”
+  - [Caution] Jerry: “She's a virgin, she just told me.”
+  - [Caution] Marla: “Are you gonna leave after its over? You know, if we have sex.”
   - [Mild] Jerry: “I don't know. I'm very attracted to her. That accent, it's so sexy.”
   - [Mild] Elaine: “This whole sex thing is totally overrated.”
   - [Mild] Jerry: “What is that about leaving after sex? Did I ever leave with you?”
 - Violence & injury — 1 moment(s)
-  - [Explicit] George: “She was standing and then she was laughing and then they SHOT her!”
+  - [Too much] George: “She was standing and then she was laughing and then they SHOT her!”
 
 ## S4 E11 — The Contest
 URL: https://watchwiththekids.com/ep/seinfeld/0411.html
@@ -646,10 +646,10 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: After George is caught masturbating by his mother, the four main characters devise a contest to see who can go the longest without pleasuring him/herself. Marla, Jerry's girlfriend, with whom he has yet to have sex, learns of the contest and is disgusted.
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] GEORGE: “Oh, the virgin?”
-  - [Moderate] MARLA: “Well, (Reminding him of her virginity) You know..”
-  - [Moderate] JERRY: “I can't take it anymore! She's driving me crazy! I can't sleep, I can't leave the house, and I' here, I'm climbin' the walls. Meanwhile, I'm dating a virgin, I'm in”
-  - [Moderate] bedroom. She's sleeping with JFK Jr)
+  - [Caution] GEORGE: “Oh, the virgin?”
+  - [Caution] MARLA: “Well, (Reminding him of her virginity) You know..”
+  - [Caution] JERRY: “I can't take it anymore! She's driving me crazy! I can't sleep, I can't leave the house, and I' here, I'm climbin' the walls. Meanwhile, I'm dating a virgin, I'm in”
+  - [Caution] bedroom. She's sleeping with JFK Jr)
   - [Mild] JERRY: “Yeah, yeah.. of course. What, do you think I care about the sex? What kind of person do you think I am? That doesn't mean anything to me. (Faint) I don't”
   - [Mild] Jerry and George. They're bickering at each other due to the lack of sex
 - Nudity & bodies — 3 moment(s)
@@ -665,7 +665,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Tia: “So, he says, ``squeeze your breasts together'', and I say, ``I thought this was an ad for shoes''...”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] the radio doesn't work... and it smells like a cheap hooker...
+  - [Too much] the radio doesn't work... and it smells like a cheap hooker...
 - Violence & injury — 1 moment(s)
   - [Mild] *Finally*, a ZZ Top reject comes out of the bathroom and, to paraphrase Jerry in "The Smelly Car": ``I open the door, like a *punch* in the *face*, the stench hits me--''.
 - Alcohol & drugs — 1 moment(s)
@@ -679,8 +679,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] dress shoes, socks, and his briefs) My.. he's sexual, athletic.. an' without a trace of self-consciousness!
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] JERRY: “Because I'm not sure and and and correct me if I'm wrong but I think I see ... a nipple.”
-  - [Explicit] ELAINE: “(gasps) Oh my God! That's my nipple.”
+  - [Too much] JERRY: “Because I'm not sure and and and correct me if I'm wrong but I think I see ... a nipple.”
+  - [Too much] ELAINE: “(gasps) Oh my God! That's my nipple.”
   - [Mild] GEORGE: “Walking around with no underwear.”
   - [Mild] JERRY: “You walk around with no underwear?”
   - [Mild] ELAINE: “You want a Christmas card? You want a Christmas card? All right here. [rubs George's head on her breasts] Here's your Christmas card.”
@@ -697,7 +697,7 @@ Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: George meets an attractive lawyer, Cheryl, who is impressed by his sense of humor. George attempts to keep Elaine and Jerry from meeting Cheryl, believing that Jerry's sense of humor will eclipse him. Babu Bhatt, the former restaurant owner who Jerry helped drive out of business in "The Cafe" (Season 3), has trouble with the INS because Babu's visa renewal was accidentally delivered to Jerry.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Elaine: “Well, I ran out to apologize to a virgin and I crossed against the”
+  - [Caution] Elaine: “Well, I ran out to apologize to a virgin and I crossed against the”
   - [Mild] sex without dating; that's a fantasy camp.
 - Violence & injury — 2 moment(s)
   - [Mild] Kramer: “I punched Mickey Mantle in the mouth.”
@@ -725,17 +725,17 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: A prank by Elaine leads a newspaper journalist to think that Jerry and George are gay.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] George: “Look, you wanna have sex right now? Do want to have sex with me right”
+  - [Caution] George: “Look, you wanna have sex right now? Do want to have sex with me right”
   - [Mild] Jerry: “No, no, of course not! People's personal sexual preferences are”
   - [Mild] % his apartment, probably to confront his own sexuality. In Jerry's apartment,
 - Nudity & bodies — 2 moment(s)
   - [Mild] Jerry: “Oh yeah, what? "Buck Naked"?”
   - [Mild] Kramer: “Well I don't want to sit there naked all by myself!”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] George: “I just thought of a great name for myself, if I ever become a porno”
-  - [Explicit] knows *what* you're doing? Maybe you're making porno films.
+  - [Too much] George: “I just thought of a great name for myself, if I ever become a porno”
+  - [Too much] knows *what* you're doing? Maybe you're making porno films.
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] to kill herself.
+  - [Too much] to kill herself.
 - Homophobic jokes — 2 moment(s)
   - [Mild] Not that there's anything wrong with that...
   - [Mild] Mrs. S: “Not that there's anything wrong with that, Jerry.”
@@ -746,10 +746,10 @@ Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Elaine gets the gang to volunteer at an old folks' home. She gets freaked out by hers, George gets fired by his guy, and Jerry loses his. Kramer and Newman scheme to sell records to a vintage music store and steal the records from Jerry's old guy.
 Watch for:
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Mrs. O: “That's when I began my affair with Mohandas.”
-  - [Moderate] Elaine: “You had an affair with Ghandhi?”
+  - [Caution] Mrs. O: “That's when I began my affair with Mohandas.”
+  - [Caution] Elaine: “You had an affair with Ghandhi?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] gun and shoot everybody?
+  - [Caution] gun and shoot everybody?
 
 ## S4 E19 — The Implant
 URL: https://watchwiththekids.com/ep/seinfeld/0419.html
@@ -779,7 +779,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] George: “Now let's try "breast"... Celeste... Kest...”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Kramer: “We could be tried for murder...”
+  - [Too much] Kramer: “We could be tried for murder...”
 
 ## S4 E21 — The Smelly Car
 URL: https://watchwiththekids.com/ep/seinfeld/0421.html
@@ -789,13 +789,13 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] *always* trade sleep for sex.
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] date, you might as well have them just wrap up your genitals too.
+  - [Too much] date, you might as well have them just wrap up your genitals too.
   - [Mild] And then on a really special night, maybe a little underwear comin'
   - [Mild] out of your breast pocket. Just to let her know she's important.
 - Violence & injury — 1 moment(s)
   - [Mild] hours to de-smellify. I open the car door, like a *punch* in the
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Jerry: “Suicide, maybe, not lesbianism.”
+  - [Too much] Jerry: “Suicide, maybe, not lesbianism.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] % We shift to Champagne video where George is returning a movie with Kramer.
 
@@ -807,8 +807,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] a nude bar watching a table dancer wearing the same outfit. That is possible. But to me, the
 - Swearing — 4 moment(s)
-  - [Moderate] Jerry: “Son's of bitches! Good luck finding them... him... whatever. I'd like to stick around and”
-  - [Moderate] George: “Sons of bitches!”
+  - [Caution] Jerry: “Son's of bitches! Good luck finding them... him... whatever. I'd like to stick around and”
+  - [Caution] George: “Sons of bitches!”
   - [Mild] Kramer: “No chance in hell!”
   - [Mild] Frank: “Where the hell is my paper?”
 
@@ -826,7 +826,7 @@ Watch for:
   - [Mild] ELAINE: “Yeah? (we see that all the waitresses have big breasts)”
   - [Mild] ELAINE: “Oh, he's this guy who made these terrible movies in the 70's with these kinds of women. He's obsessed. He's obsessed with breasts. That's hard to say.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] JERRY: “All right she cuts her pasta with a knife.”
+  - [Caution] JERRY: “All right she cuts her pasta with a knife.”
 
 ## S4 E24 — The Pilot (2)
 URL: https://watchwiththekids.com/ep/seinfeld/0424.html
@@ -842,7 +842,7 @@ Watch for:
   - [Mild] ELAINE: “Yeah? (we see that all the waitresses have big breasts)”
   - [Mild] ELAINE: “Oh, he's this guy who made these terrible movies in the 70's with these kinds of women. He's obsessed. He's obsessed with breasts. That's hard to say.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] JERRY: “All right she cuts her pasta with a knife.”
+  - [Caution] JERRY: “All right she cuts her pasta with a knife.”
 
 ## S5 E1 — The Mango
 URL: https://watchwiththekids.com/ep/seinfeld/0501.html
@@ -850,16 +850,16 @@ Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for und
 Summary: Elaine makes a startling confession.
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Explicit] JERRY: “A female orgasm is kinda like the bat cave. A very few people know where it is and if you're lucky enough to see it you probably don't know how you got there and you can't find you way back after you left.”
-  - [Explicit] You know there are two types of female orgasm: the real and the fake.
-  - [Explicit] JERRY: “Hello... Oh hi Patty, thanks for calling me back. I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Okay, bye.”
-  - [Explicit] JERRY: “Hello Elaine? Patty Lorens had orgasms what do you think about that? And I got calls in to six other women and I bet you they confirm an orgasm too. So what do you have to say now Elaine?... Hello?”
-  - [Moderate] ELAINE: “Look, Jerry, we have to have sex to save the friendship.”
+  - [Too much] JERRY: “A female orgasm is kinda like the bat cave. A very few people know where it is and if you're lucky enough to see it you probably don't know how you got there and you can't find you way back after you left.”
+  - [Too much] You know there are two types of female orgasm: the real and the fake.
+  - [Too much] JERRY: “Hello... Oh hi Patty, thanks for calling me back. I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Okay, bye.”
+  - [Too much] JERRY: “Hello Elaine? Patty Lorens had orgasms what do you think about that? And I got calls in to six other women and I bet you they confirm an orgasm too. So what do you have to say now Elaine?... Hello?”
+  - [Caution] ELAINE: “Look, Jerry, we have to have sex to save the friendship.”
   - [Mild] JERRY: Sexual?
   - [Mild] ELAINE: “No Jerry, it is out of the question. You know what sex does to a friendship, it kills it.”
   - [Mild] George indicates that the sex went wrong
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] JERRY: “I guess after that many beers he's probably a little groggy anyway.”
 
@@ -877,9 +877,9 @@ Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: George loses his glasses at the health club.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] ELAINE: “Listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.”
+  - [Caution] ELAINE: “Listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.”
 - Swearing — 4 moment(s)
-  - [Moderate] GEORGE: “Yeah. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...”
+  - [Caution] GEORGE: “Yeah. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...”
   - [Mild] JERRY: “I don't know what to believe! You're eating unions, you're spotting dimes, I don't know what the hell is going on.”
   - [Mild] BLIND MAN: “Where the hell are we going?”
   - [Mild] GEORGE: “He's getting on a bus, damn! (To the blind man:) Those are nice glasses.”
@@ -908,7 +908,7 @@ Watch for:
   - [Mild] STAN FLICK AND THEIR BABY STEVEN. MYRA DISCREETLY BREAST FEEDS THE
   - [Mild] JERRY AND ELAINE EXCHANGE GLANCE. MYRA IS BREAST FEEDING. JERRY
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jerry, be careful. The Mohel's got a knife!
+  - [Caution] Jerry, be careful. The Mohel's got a knife!
 
 ## S5 E6 — The Lip Reader
 URL: https://watchwiththekids.com/ep/seinfeld/0506.html
@@ -916,7 +916,7 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: George decides to use Jerry's girlfriend to spy on his friends by having her read their lips. Kramer claims he can also read lips and tries to prove it.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Kramer: “"You want me to sleep with you?"”
+  - [Caution] Kramer: “"You want me to sleep with you?"”
   - [Mild] Jerry: “See I was saying "six" but she thought I was saying "sex". We straightened the whole thing out though.”
   - [Mild] George: “She confused "six" with "sex"?”
 
@@ -928,10 +928,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] You're ~ practically having sex with them.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Labbie Actually, this is Mr. Giuliani's blood. We're doing a
-  - [Moderate] some blood spilled into Mr. Giuliani's test tube causing his
+  - [Caution] Labbie Actually, this is Mr. Giuliani's blood. We're doing a
+  - [Caution] some blood spilled into Mr. Giuliani's test tube causing his
 - Swearing — 1 moment(s)
-  - [Moderate] Lloyd Wow, that's a bitch, huh?
+  - [Caution] Lloyd Wow, that's a bitch, huh?
 
 ## S5 E8 — The Barber
 URL: https://watchwiththekids.com/ep/seinfeld/0508.html
@@ -939,7 +939,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry regrets giving his longtime barber the heave-ho after he gets a ridiculous-looking haircut. George gets a job interview but the boss leaves him with a very cryptic ending. Kramer begs Elaine to let him take part in her charity bachelor auction.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] George is at his desk sleeping with a newspaper draped over him. Tuttle walks in. He bangs on the door.
+  - [Caution] George is at his desk sleeping with a newspaper draped over him. Tuttle walks in. He bangs on the door.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] woman so, we had a little party, with cake and champagne. I made a toast.
 
@@ -949,16 +949,16 @@ Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Jerry gets mad when he dates a masseuse. Kramer and George get massages while Jerry doesn't. Meanwhile, Elaine's new boyfriend is Joel Rifkin, an innocent man who shares the same name as one of New York's most notorious serial killers.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] JOANNE: “I wouldn't sleep with my back to him if I were you.”
-  - [Moderate] JERRY: “Yeah I know... She just wants to have sex.”
+  - [Caution] JOANNE: “I wouldn't sleep with my back to him if I were you.”
+  - [Caution] JERRY: “Yeah I know... She just wants to have sex.”
   - [Mild] JERRY: “Risotto. (we see a flashback from The Mango where Karen tells George that she feels full after a Risotto, as opposed to when she has sex with him)”
   - [Mild] GEORGE: “The sex wasn't so good?”
 - Nudity & bodies — 1 moment(s)
   - [Mild] JOEL: “Ned's a guy who buys irregular underwear. Next!”
 - Violence & injury — 6 moment(s)
-  - [Explicit] “by the sounds of murdering, just stereo. Chain saws, people screaming,”
-  - [Explicit] ELAINE: “(to the person in front of her) He's not the murderer.”
-  - [Moderate] “yourself, buddy. (Jerry slams down the knife and goes to the couch)”
+  - [Too much] “by the sounds of murdering, just stereo. Chain saws, people screaming,”
+  - [Too much] ELAINE: “(to the person in front of her) He's not the murderer.”
+  - [Caution] “yourself, buddy. (Jerry slams down the knife and goes to the couch)”
   - [Mild] ELAINE: “Hey, how many people did Rifkin strangle? Eighteen?”
   - [Mild] JERRY: “Yeah. Eighteen strangles.”
   - [Mild] ELAINE: “(she fakes a strangling) RRR...”
@@ -969,12 +969,12 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry is deemed a racist when he purchases a Native American statue for Elaine. Kramer tries to get Elaine's company to publish his coffee table book. Elaine runs into a really creepy man on the subway who steals Frank's TV Guide and follows her to the Costanza's house. Meanwhile, George gets grounded when he has sex with a woman in his parents' bed.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] ESTELLE: “Who told you you could have sex in our bed?”
+  - [Caution] ESTELLE: “Who told you you could have sex in our bed?”
   - [Mild] FRANK: “You were having sex on our bed?!”
 - Nudity & bodies — 1 moment(s)
   - [Mild] and you just walk around the store in your underwear. That would be the best
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Chinese restaurants are? (adopts hackneyed Chinese accent) Oh, ask honolable
+  - [Too much] Chinese restaurants are? (adopts hackneyed Chinese accent) Oh, ask honolable
 
 ## S5 E11 — The Conversion
 URL: https://watchwiththekids.com/ep/seinfeld/0511.html
@@ -982,7 +982,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: George decides to convert to Latvian Orthodox to impress a girl, against his angry parents' objections. Meanwhile, Kramer converts a nun at the church, and Jerry takes a peek in his girlfriend's medicine cabinet and is stunned by what he finds.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] you’re cheating on your conversion chest?
+  - [Caution] you’re cheating on your conversion chest?
 - Alcohol & drugs — 1 moment(s)
   - [Mild] George takes a drink of some wine. He spills some on his gown. He makes a
 
@@ -995,9 +995,9 @@ Watch for:
   - [Mild] you know, I think George has a non sexual crush on him
   - [Mild] selling sexual pleasure over the phone?
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Porn / adult-channel plot is part of this episode.
-  - [Explicit] Jerry, I'm telling you, this phone sex thing is hilarious, like this woman
-  - [Explicit] oh you think she's Erika, the phone sex woman
+  - [Too much] Porn / adult-channel plot is part of this episode.
+  - [Too much] Jerry, I'm telling you, this phone sex thing is hilarious, like this woman
+  - [Too much] oh you think she's Erika, the phone sex woman
 - Alcohol & drugs — 1 moment(s)
   - [Mild] yeah I sang 99 bottles of beer on the wall
 
@@ -1012,8 +1012,8 @@ Watch for:
   - [Mild] KRAMER: “"…well of course I noticed it too with those ample breasts and those pouty lips. I don't have to tell you she was a knock out…."”
   - [Mild] “skiing naked if you got a good hat. But there's no hat that makes a statement”
 - Violence & injury — 2 moment(s)
-  - [Moderate] George enters in Gore-Tex jacket
-  - [Moderate] GEORGE: “This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?”
+  - [Caution] George enters in Gore-Tex jacket
+  - [Caution] GEORGE: “This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] ELAINE: “Maybe we should stop off on the way and get a bottle of wine or something.”
   - [Mild] GEORGE: “I don't even drink wine. I drink Pepsi.”
@@ -1025,7 +1025,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: George starts dating a woman who (told by Jerry) thinks George is a marine biologist. Elaine's electronic organizer injures a person after being launched from a limo by a Russian novelist. Kramer decides to golf on the beach.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] George: “I'm such a Huge whale fan. These marine biologists were showing how”
+  - [Caution] George: “I'm such a Huge whale fan. These marine biologists were showing how”
 
 ## S5 E15 — The Pie
 URL: https://watchwiththekids.com/ep/seinfeld/0515.html
@@ -1046,7 +1046,7 @@ Watch for:
   - [Mild] Phil turns to see a woman breast feeding her baby down the hallway
   - [Mild] PHIL: “Oh, look at this, what she's got to breast feed in public.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] KRAMER: “Hey, nobody put a gun to your head.”
+  - [Caution] KRAMER: “Hey, nobody put a gun to your head.”
 
 ## S5 E17 — The Wife
 URL: https://watchwiththekids.com/ep/seinfeld/0517.html
@@ -1054,11 +1054,11 @@ Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: While Jerry keeps up the pretense of a pretend marriage with new girlfriend, Meryl, so she can share his dry cleaning discount, Elaine tries to decipher whether a guy at the gym likes her and simultaneously tries to keep him from reporting George to the manager for peeing in the shower; and Kramer prepares to meet his girlfriend, Anna's parents.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] JERRY: “C'mon, I was sleeping with one cheek off the bed!”
+  - [Caution] JERRY: “C'mon, I was sleeping with one cheek off the bed!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] JERRY: “No, gore-tex. It's new. <Checks his pockets.> Hey, look at this locket. What the hell is this? There's a picture in here, look at that.”
+  - [Caution] JERRY: “No, gore-tex. It's new. <Checks his pockets.> Hey, look at this locket. What the hell is this? There's a picture in here, look at that.”
 - Swearing — 4 moment(s)
-  - [Moderate] MERYL (throws Paula's clothes at Jerry): You son of a bitch!
+  - [Caution] MERYL (throws Paula's clothes at Jerry): You son of a bitch!
   - [Mild] “cigarette warnings - your very life is at stake! People go, 'Ah, the hell”
   - [Mild] MORTY: “Why the hell didn't you tell us?”
   - [Mild] GRANDPA (to Anna): I thought you said you was bringin' a white boy home! I don't see a white boy! I see a damn fool!
@@ -1074,7 +1074,7 @@ Watch for:
   - [Mild] “clean you know people wear underwear, ya well they don't wear iron underwear”
   - [Mild] “move into somebody's pants? There is no vintage underwear of course, but”
 - Swearing — 5 moment(s)
-  - [Moderate] FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”
+  - [Caution] FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”
   - [Mild] JACK: “Alright how the hell do I know?”
   - [Mild] JACK: “Get the hell outta here with your knob.”
   - [Mild] RUDY: “Lousy moth ridden crap.”
@@ -1095,7 +1095,7 @@ Watch for:
   - [Mild] “clean you know people wear underwear, ya well they don't wear iron underwear”
   - [Mild] “move into somebody's pants? There is no vintage underwear of course, but”
 - Swearing — 5 moment(s)
-  - [Moderate] FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”
+  - [Caution] FRANK: “That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back”
   - [Mild] JACK: “Alright how the hell do I know?”
   - [Mild] JACK: “Get the hell outta here with your knob.”
   - [Mild] RUDY: “Lousy moth ridden crap.”
@@ -1113,8 +1113,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “from the shower curtain naked with an ice bucket on your head. What happened”
 - Violence & injury — 2 moment(s)
-  - [Moderate] KRAMER: “Yeah, yeah, then all of a sudden, this guy pulls out a gun.”
-  - [Moderate] GEORGE (from backstage): He's got a gun! He's got a gun! <Tries to flee the bar in a mad panic. The audience in the club also goes nuts and heads for the exits. Jerry stands onstage, perplexed.>
+  - [Caution] KRAMER: “Yeah, yeah, then all of a sudden, this guy pulls out a gun.”
+  - [Caution] GEORGE (from backstage): He's got a gun! He's got a gun! <Tries to flee the bar in a mad panic. The audience in the club also goes nuts and heads for the exits. Jerry stands onstage, perplexed.>
 
 ## S5 E21 — The Hamptons
 URL: https://watchwiththekids.com/ep/seinfeld/0521.html
@@ -1122,7 +1122,7 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: The gang goes to the Hamptons for the weekend to visit Elaine's friend new baby.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Elaine: “Oh, isn't that weird that George and Jane haven't had sex yet, but”
+  - [Caution] Elaine: “Oh, isn't that weird that George and Jane haven't had sex yet, but”
   - [Mild] George: “Oh, very refreshing. (Thinking again) Sex is like joining a”
 - Nudity & bodies — 4 moment(s)
   - [Mild] Kramer: “Hey Jerry, you ever wear silk underwear?”
@@ -1140,7 +1140,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] source of pride here? We actually have it sticking out of the breast pocket of our
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Regis: “You know, when I'm skiing, Kramer, I'm trying not to kill myself, and you're writing books!”
+  - [Too much] Regis: “You know, when I'm skiing, Kramer, I'm trying not to kill myself, and you're writing books!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] * We see a sad-looking George staring out at the ocean. Then cut to the office of Mr.Lippman, where Elaine and Mr. Lippman are toasting in champagne.
 
@@ -1150,17 +1150,17 @@ Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Jerry dates a Miss America contestant.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] KRAMER: “was on the brink of a nuclear war, and the only way the conflict could be averted was if you agreed to sleep with the enemy's leader, what would you do?”
-  - [Moderate] JERRY (getting out of bed): Well, I can't sleep with that noise.
+  - [Caution] KRAMER: “was on the brink of a nuclear war, and the only way the conflict could be averted was if you agreed to sleep with the enemy's leader, what would you do?”
+  - [Caution] JERRY (getting out of bed): Well, I can't sleep with that noise.
   - [Mild] Jerry's stand-up: “Baseball is so associated with sex. "He's”
 - Nudity & bodies — 2 moment(s)
   - [Mild] JERRY: “Hey, maybe you can pick me up some underwear! <Kramer enters.>”
   - [Mild] KRAMER: “Tape her breasts together. <Jerry is shocked.>”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] ELAINE: “I attend to his personal affairs.”
+  - [Caution] ELAINE: “I attend to his personal affairs.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] KRAMER: “Accident? This was no accident. These doves were murdered.”
-  - [Explicit] KRAMER: “You know what I think, Jerry? I think somebody murdered those doves.”
+  - [Too much] KRAMER: “Accident? This was no accident. These doves were murdered.”
+  - [Too much] KRAMER: “You know what I think, Jerry? I think somebody murdered those doves.”
 
 ## S6 E2 — The Big Salad
 URL: https://watchwiththekids.com/ep/seinfeld/0602.html
@@ -1168,9 +1168,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Kramer thinks that a simple penalty stroke may have driven his golf partner, Steve Gennison, to murder a dry cleaner. Jerry is stunned to learn that his girlfriend not only went out with, but was dumped by Newman. George thinks Elaine gave his girlfriend an incorrect thank you when it was actually George who paid for Elaine's lunch. Elaine flirts with a stationery store employee and thinks that she may have sent him the wrong message.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] “for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners”
-  - [Explicit] Kramer: “Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.”
-  - [Explicit] Jerry: “Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.”
+  - [Too much] “for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners”
+  - [Too much] Kramer: “Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.”
+  - [Too much] Jerry: “Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.”
 
 ## S6 E3 — The Pledge Drive
 URL: https://watchwiththekids.com/ep/seinfeld/0603.html
@@ -1180,11 +1180,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] in knots. And Jerry is a very sexy man.
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] paper emotional prostitutes, isn't it? "I don't know what my feelings are, so
-  - [Explicit] I'll just pay some total stranger a buck to make up this little Hallmark hooker
+  - [Too much] paper emotional prostitutes, isn't it? "I don't know what my feelings are, so
+  - [Too much] I'll just pay some total stranger a buck to make up this little Hallmark hooker
 - Violence & injury — 2 moment(s)
-  - [Moderate] Noreen that she was-- (noticing Mr. Pitt eating the candy bar with knife and
-  - [Moderate] Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and
+  - [Caution] Noreen that she was-- (noticing Mr. Pitt eating the candy bar with knife and
+  - [Caution] Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Jerry: “Yeah, and one of those foam beer can holders.”
 
@@ -1194,18 +1194,18 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: George's telephone line crosses with that of a woman named Donna Chang, and everyone seeks her advice when she convinces them that she's Chinese. Jerry winds up dating her. Things get worse when Frank and Estelle announce a separation. Jerry and Elaine can't seem to figure out why Frank Costanza is having mysterious business dealings with a man in a cape.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] wear briefs. Boxers are much better for your sperm count.
-  - [Moderate] Sperm count?
+  - [Caution] wear briefs. Boxers are much better for your sperm count.
+  - [Caution] Sperm count?
 - Nudity & bodies — 3 moment(s)
   - [Mild] down his underwear in back, through his pants]
   - [Mild] I thought you wore silk underwear.
   - [Mild] still very happy, then:] I'm like a naked innocent boy rrroamin' the
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] was having an affair with Noreen?
-  - [Moderate] Believe it or not: “Paul was convinced I was having an affair because”
+  - [Caution] was having an affair with Noreen?
+  - [Caution] Believe it or not: “Paul was convinced I was having an affair because”
 - Racism & slurs — 2 moment(s)
-  - [Explicit] Isn't that a little racist?
-  - [Explicit] If I like their race, how can that be racist?..
+  - [Too much] Isn't that a little racist?
+  - [Too much] If I like their race, how can that be racist?..
 
 ## S6 E5 — The Couch
 URL: https://watchwiththekids.com/ep/seinfeld/0605.html
@@ -1213,7 +1213,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Elaine dates a moving guy, and things are going well for her until Jerry wants to know what his opinion on abortion is. Poppy returns and he and Kramer are going into business together to create a restaurant where you make your own pizza. Meanwhile, George goes out of his way to cheat on a book club test by renting "Breakfast At Tiffany's" instead of reading the book.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] REMY: “Cheating on his test. <George returns from the kitchen with a glass of grape juice.>”
+  - [Caution] REMY: “Cheating on his test. <George returns from the kitchen with a glass of grape juice.>”
 - Violence & injury — 1 moment(s)
   - [Mild] KRAMER: “I don't know! I'm gonna go and visit him later. <angrily> It would be nice if you got him something. <Punches the the table to accentuate this, and leaves.>”
 - Alcohol & drugs — 1 moment(s)
@@ -1225,11 +1225,11 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: George's girlfriend's mom thinks he is a bum when she catches George eating an éclair out of the trash can, among various other coincidences. Jerry dates a woman who is a former Olympic gymnast and ventures into the territory of sexual pleasures that most men dare not dream of. Elaine tries to pry Mr. Pitt away from looking at Kramer's new 3-D art poster. Meanwhile, Kramer gets a kidney stone.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] GEORGE: “Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.”
+  - [Caution] GEORGE: “Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.”
   - [Mild] KRAMER: “A gymnast, Jerry. Think of the flexibility. Mmm, that sex'll melt your face.”
   - [Mild] JERRY: “Yeah, you know, Kramer, there's always a price to pay for just a sexual dalliance.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “by the way. It's not bad enough Lincoln got shot in the head, we gotta”
+  - [Too much] “by the way. It's not bad enough Lincoln got shot in the head, we gotta”
 
 ## S6 E7 — The Soup
 URL: https://watchwiththekids.com/ep/seinfeld/0607.html
@@ -1239,7 +1239,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] In other words, if were having an argument and she's there, I may say I totally disagree with you, but what that really means is, I’d like to help you out, but I’d rather continue to see her naked.”
 - Swearing — 2 moment(s)
-  - [Moderate] The waitress cocks her head and looks at George as if she is glad he likes the sandwich
+  - [Caution] The waitress cocks her head and looks at George as if she is glad he likes the sandwich
   - [Mild] Jerry: “The omelet. Damn.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Jerry: “I love the day date. No wine, No shower.”
@@ -1252,7 +1252,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: George buys a convertible he thinks was once owned by Jon Voight. Kramer tries to save a small shoe-repair business. Elaine answers a radio quiz, enabling Mr. Pitt to participate in the Macy's Thanksgiving Day Parade. Meanwhile, Jerry tries to solve the mystery of whether or not he's invited to Tim Whatley's annual Pre-Thanksgiving party.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] POP: “48 years, Mom! And now we have to close! All because of that idiot and his bloody nose! <Kramer enters.>”
+  - [Caution] POP: “48 years, Mom! And now we have to close! All because of that idiot and his bloody nose! <Kramer enters.>”
 
 ## S6 E9 — The Secretary
 URL: https://watchwiththekids.com/ep/seinfeld/0609.html
@@ -1260,8 +1260,8 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: George gets a secretary, saying he will go for efficiency and smarts rather than beauty. He hires a librarian-esque woman, only to find himself falling in love with her.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Jerry: “So you're so grateful to have sex, that you'll just shout out”
-  - [Moderate] Jerry: “Maybe you could have sex with her again and then take it back.”
+  - [Caution] Jerry: “So you're so grateful to have sex, that you'll just shout out”
+  - [Caution] Jerry: “Maybe you could have sex with her again and then take it back.”
   - [Mild] “dish” and the sure fire sexual-harassment suit.
   - [Mild] Jerry: “So you're having sex and then all of a sudden, you just blurt out”
 - Nudity & bodies — 2 moment(s)
@@ -1278,9 +1278,9 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry dates a girl named Lois, though her boss is Duncan Meyer, an old high school rival of Jerry's, who Jerry once defeated in a track meet, though Duncan has protested the race ever since, and now wants a rematch. Elaine finds out her boyfriend is a communist, George contacts a personal ad from "The Daily Worker", and Kramer gets a job as a shopping center Santa.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] GEORGE: “Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.”
+  - [Caution] GEORGE: “Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mr. Bevilacqua raises gun
+  - [Caution] Mr. Bevilacqua raises gun
 - Alcohol & drugs — 1 moment(s)
   - [Mild] People snap out of that Christmas spirit like it was a drunken stupor, they just wake up one morning and go, "Oh my god, there's a tree inside the house!
 
@@ -1300,7 +1300,7 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Tim Whatley gives Jerry a label maker as a thank you for his Super Bowl tickets. George is uncomfortable with his girlfriend's male roommate. Kramer and Newman play a game of Risk.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] realize, 'Hey, we could have sex.'
+  - [Caution] realize, 'Hey, we could have sex.'
   - [Mild] George: “It's a huge problem, Jerry. The hardest part about having sex with a”
   - [Mild] and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.
 
@@ -1318,14 +1318,14 @@ Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Elaine attempts to convert a gay man to heterosexuality. Kramer sets George up with a woman and, not having a photograph, describes her to a police sketch artist. Jerry hooks up with a female officer who then has Jerry take a polygraph test on whether or not he's seen the show "Melrose Place."
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] Jerry is hooked up to the polygraph.
-  - [Moderate] Lou: “Did Billy sleep with Allison's best friend?”
-  - [Moderate] Lou: “Did Jane sleep with Michael again?”
-  - [Moderate] her into giving him half her business, and then she goes ahead and sleeps with him again. I mean she's
+  - [Caution] Jerry is hooked up to the polygraph.
+  - [Caution] Lou: “Did Billy sleep with Allison's best friend?”
+  - [Caution] Lou: “Did Jane sleep with Michael again?”
+  - [Caution] her into giving him half her business, and then she goes ahead and sleeps with him again. I mean she's
   - [Mild] no possibility of sex.
   - [Mild] The perfect man. Nothing but sex and shopping.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jerry: “So are you going to bring your gun?... All right, then it's settled. First date, no weapons... All right”
+  - [Caution] Jerry: “So are you going to bring your gun?... All right, then it's settled. First date, no weapons... All right”
 
 ## S6 E17 — The Kiss Hello
 URL: https://watchwiththekids.com/ep/seinfeld/0617.html
@@ -1337,7 +1337,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] you know you have to do this. I mean, if you could, say, touch a breast as part
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] RECEPTIONIST: “She had some personal affair she had to attend to. I left”
+  - [Caution] RECEPTIONIST: “She had some personal affair she had to attend to. I left”
 - Violence & injury — 1 moment(s)
   - [Mild] ELAINE: “(slapping George on the arm) What did you do that for?”
 - Alcohol & drugs — 1 moment(s)
@@ -1355,10 +1355,10 @@ Watch for:
   - [Mild] KRAMER: “A bra is for ladies. I'm talking about a support undergarment”
   - [Mild] my underwear. As soon as he leaves the house, he turns into J. Edgar Hoover!
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] DOORMAN: “I traded shifts with the night doorman. He had some personal affairs to”
+  - [Caution] DOORMAN: “I traded shifts with the night doorman. He had some personal affairs to”
 - Violence & injury — 2 moment(s)
-  - [Explicit] stab each other in the back, like people in your world.
-  - [Moderate] impression that he has a gun concealed beneath his coat.
+  - [Too much] stab each other in the back, like people in your world.
+  - [Caution] impression that he has a gun concealed beneath his coat.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] DOORMAN: “Yeah, I just wanna run and get a beer. I'll be back in a minute.”
 
@@ -1378,7 +1378,7 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: George dates a girl from Elaine's art class and wonders whether or not her humorous caricature of him is a sign that she likes him or not. Thanks to Newman's fleas, Jerry's visiting parents are forced to stay in Elaine's luxury hotel room. Elaine gets a potential job offer but accidentally leaves the manuscript in Jerry's flea-infested apartment.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] George: “That's right...We just had sex......You know Jerry I've been searching for someone a long time.”
+  - [Caution] George: “That's right...We just had sex......You know Jerry I've been searching for someone a long time.”
 - Nudity & bodies — 3 moment(s)
   - [Mild] Jerry: “(cuts in) A nude model.”
   - [Mild] Jerry: “You know I went out once with a nude model. Never let me see her naked. Hundreds of people see”
@@ -1396,7 +1396,7 @@ Watch for:
   - [Mild] were in the garage. You know how garages are. They're conducive to sex
   - [Mild] George: “I can't believe you're hoarding sex moves. I'm out there rubbing”
 - Violence & injury — 1 moment(s)
-  - [Moderate] George: “No, you're gonna sit down, you son of a gun...”
+  - [Caution] George: “No, you're gonna sit down, you son of a gun...”
 
 ## S6 E22 — The Diplomat's Club
 URL: https://watchwiththekids.com/ep/seinfeld/0622.html
@@ -1406,11 +1406,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Jerry: “Really? (They start to make out, Jerry sees the pilot on the plane) Oh my God, that's him! That's the pilot!”
 - Violence & injury — 1 moment(s)
-  - [Explicit] N: Son of Sam. The worst mass murderer the post office ever produced.
+  - [Too much] N: Son of Sam. The worst mass murderer the post office ever produced.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] decaf as well. Along with a selection of cocktails and soft...
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Morgan: “I suppose we all look alike to you, right Costanza?”
+  - [Too much] Morgan: “I suppose we all look alike to you, right Costanza?”
 
 ## S6 E23 — The Face Painter
 URL: https://watchwiththekids.com/ep/seinfeld/0623.html
@@ -1426,9 +1426,9 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry begins to date a girl who is an understudy for Bette Midler in her new Broadway musical, Rochelle, Rochelle. Jerry, George and Kramer all play on the Improv softball team and happen to be playing against the cast and crew of Rochelle, Rochelle. Kramer fawns over Bette and Jerry's girlfriend cries about her frankfurter falling on the ground but not about her grandmother dying.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Jerry: “He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.”
+  - [Caution] Jerry: “He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Frank: “I had an affair with a Korean woman.”
+  - [Caution] Frank: “I had an affair with a Korean woman.”
 
 ## S7 E1 — The Engagement
 URL: https://watchwiththekids.com/ep/seinfeld/0701.html
@@ -1438,7 +1438,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] George: “I don't see how I could perform sexually in a situation after something like that. I was completely emasculated. Anyway, it's not the only reason.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Kramer: “It's sad , Jerry. It's a sad state of affairs..”
+  - [Caution] Kramer: “It's sad , Jerry. It's a sad state of affairs..”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Jerry: “Hey, wait a second. Wait a second. ! How about some champagne?”
   - [Mild] Jerry: “You know what? No champagne. . . . I'll see you later.”
@@ -1452,9 +1452,9 @@ Watch for:
   - [Mild] Jerry: “Well, at least you probably had some, uh, pretty good make-up sex after.”
   - [Mild] George: “I didn't have any sex.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “to mention to me that her friend had wondered if going to a prostitute”
+  - [Too much] “to mention to me that her friend had wondered if going to a prostitute”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] George: “I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.”
+  - [Too much] George: “I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.”
 
 ## S7 E3 — The Maestro
 URL: https://watchwiththekids.com/ep/seinfeld/0703.html
@@ -1462,8 +1462,8 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Elaine dates the conductor of an orchestra who insists everyone calls him "Maestro."
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] JERRY: “Hey, no one's got a gun to your head.”
-  - [Moderate] [Setting: Ross' clothing store. The employees are being held up at gun point. The
+  - [Caution] JERRY: “Hey, no one's got a gun to your head.”
+  - [Caution] [Setting: Ross' clothing store. The employees are being held up at gun point. The
 - Alcohol & drugs — 1 moment(s)
   - [Mild] "Hello Maestro, how about a beer". O.K. So that's a fact.
 
@@ -1475,9 +1475,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] JAMES: “A woman with a sexy voice like yours its hard to believe your waking up alone.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] JERRY: “So what your genitals are still lined up.”
+  - [Too much] JERRY: “So what your genitals are still lined up.”
 - Swearing — 1 moment(s)
-  - [Moderate] STEINBRENNER: “Yogi Berra, Lou Pinella, Bucky Dent, Billy Martin, Dallas Green, Dick Houser, Bill Virdon, Billy Martin, Scott Marrow, Billy Martin, Bob Lemmon, Billy Martin, Gene Michael, Buck Showalter, … uh, tut!, .”
+  - [Caution] STEINBRENNER: “Yogi Berra, Lou Pinella, Bucky Dent, Billy Martin, Dallas Green, Dick Houser, Bill Virdon, Billy Martin, Scott Marrow, Billy Martin, Bob Lemmon, Billy Martin, Gene Michael, Buck Showalter, … uh, tut!, .”
 
 ## S7 E5 — The Hot Tub
 URL: https://watchwiththekids.com/ep/seinfeld/0705.html
@@ -1485,12 +1485,12 @@ Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: George picks up a bad habit from some visiting baseball officials. During the time of the New York City Marathon, Elaine has an out of country runner as her house guest. The runner had overslept and missed the big race at the last Olympics and Jerry obsesses with ensuring that it doesn't happen again. Kramer gets a hot tub from his friend Lomez, and Elaine has writer's block.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] George: “Eh...come oooon...(starts stabbing the paper with the pen. Mr. Wilhelm comes in)”
+  - [Too much] George: “Eh...come oooon...(starts stabbing the paper with the pen. Mr. Wilhelm comes in)”
 - Swearing — 11 moment(s)
-  - [Moderate] Clayton: “...'till this bastard over here says: "let's call the sons o'bitches and go visit 'em on”
-  - [Moderate] Gardner: “I like your organization, George. We've been talkin' to a really friendly son of a bitch”
-  - [Moderate] (the 3 men laugh again) I said: "that son of a bitch doesn't know what he's got in store
-  - [Moderate] George: “I really like those sons of bitches.”
+  - [Caution] Clayton: “...'till this bastard over here says: "let's call the sons o'bitches and go visit 'em on”
+  - [Caution] Gardner: “I like your organization, George. We've been talkin' to a really friendly son of a bitch”
+  - [Caution] (the 3 men laugh again) I said: "that son of a bitch doesn't know what he's got in store
+  - [Caution] George: “I really like those sons of bitches.”
   - [Mild] Elaine: “Yeah, I got enough to think about just tryin' to come up with some load o'crap for that”
   - [Mild] Jerry: “Kramer, I'm tellin' you, Elaine doesn't know whatta hell she's doin'! I gotta take over”
   - [Mild] Gardner: “He told us that George Costanza was gonna be takin' us bastards out on the town.”
@@ -1499,7 +1499,7 @@ Watch for:
   - [Mild] Jerry: “I'm saying "get the hell outta there"! Let me put you in a hotel. You'll be comfortable,”
   - [Mild] George: “Hey, you bastards.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] the air, in ecstasy, as she says...) Yes!
+  - [Too much] the air, in ecstasy, as she says...) Yes!
 
 ## S7 E6 — The Soup Nazi
 URL: https://watchwiththekids.com/ep/seinfeld/0706.html
@@ -1523,7 +1523,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] back to her place, strip down to bra and panties for a tickle fight?
 - Violence & injury — 2 moment(s)
-  - [Moderate] KRAMER: “Yeah, Cupid’s Rifle -- 8:30, Sony Lincoln Square. Yeah, no, no,”
+  - [Caution] KRAMER: “Yeah, Cupid’s Rifle -- 8:30, Sony Lincoln Square. Yeah, no, no,”
   - [Mild] know, and the punches started flying -- who do you think would win?
 
 ## S7 E9 — The Sponge
@@ -1532,11 +1532,11 @@ Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: After learning that her prophylactic of choice is being discontinued, Elaine buys a case of Today sponges and scrutinizes her dates for their sponge-worthiness.
 Watch for:
 - Sex & hookups — 8 moment(s)
-  - [Moderate] JERRY: “I mean, I admire the hell out of her. You can't have sex with someone you admire.”
-  - [Moderate] SUSAN: “Well, I don't see why you just can't use condoms.”
-  - [Moderate] GEORGE: “Oh, no, no...condoms are for single men. The day that we got engaged, I said goodbye to the condom forever.”
-  - [Moderate] GEORGE: “No, no...I hate the condom.”
-  - [Moderate] New scene - George and Susan in bed. We see George's hands struggling to open a condom wrapper.
+  - [Caution] JERRY: “I mean, I admire the hell out of her. You can't have sex with someone you admire.”
+  - [Caution] SUSAN: “Well, I don't see why you just can't use condoms.”
+  - [Caution] GEORGE: “Oh, no, no...condoms are for single men. The day that we got engaged, I said goodbye to the condom forever.”
+  - [Caution] GEORGE: “No, no...I hate the condom.”
+  - [Caution] New scene - George and Susan in bed. We see George's hands struggling to open a condom wrapper.
   - [Mild] JERRY: “How's the...sexual chemistry?”
   - [Mild] GEORGE: “Elaine...let me just explain something to you. See, this is not just a weekend routine...I'm on the verge of make-up sex here. You know about make-up sex?”
   - [Mild] ELAINE: “Oh yeah, I know all about make-up sex, and I'm really sorry. <Shoves George into the hallway and closes the door. George blocks the door with his foot.>”
@@ -1577,9 +1577,9 @@ Watch for:
   - [Mild] Elaine (thinking to herself): Oh, great. It's the bra-less wonder. Who
   - [Mild] ever, as long as I have known her, worn a bra.
 - Violence & injury — 3 moment(s)
-  - [Moderate] in, and there's blood in the car, and we can't find him anywhere.
-  - [Moderate] the blood, they couldn't find ya, and now that's why Steinbrenner thinks
-  - [Moderate] Elaine makes a gun with her fingers and points it to her head
+  - [Caution] in, and there's blood in the car, and we can't find him anywhere.
+  - [Caution] the blood, they couldn't find ya, and now that's why Steinbrenner thinks
+  - [Caution] Elaine makes a gun with her fingers and points it to her head
 
 ## S7 E13 — The Seven
 URL: https://watchwiththekids.com/ep/seinfeld/0713.html
@@ -1613,7 +1613,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Peterman wants Elaine to go to Africa, but when Elaine tests positive for Opium in her physical, that means no dice. George tries to convince his parents to move to Florida so that he finally gets his "buffer zone", but they have problems with Jerry's parents. Kramer and Newman scheme to buy black market shower heads when the building switches to low-flow ones.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Kramer, in the shower, he's got the Commando 450 shower head hooked up. He
+  - [Caution] Kramer, in the shower, he's got the Commando 450 shower head hooked up. He
   - [Mild] George: “Uncle Leo's having regular sex?”
   - [Mild] All kinds of microscopic parasites and organisms having sex all around me.
 - Alcohol & drugs — 1 moment(s)
@@ -1625,13 +1625,13 @@ Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: George freaks out when he discovers that Susan has a doll that looks exactly like his mother. Jerry decides to use that as a bit on the Charles Grodin show when his prop gets destroyed in his carry-on luggage, but fellow comedian Sally Weaver screws up his bit by bringing him the wrong doll.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] SUSAN: “Oh, I used to love to sleep with my dolls when I was a little girl..”
-  - [Moderate] GEORGE: “(Muttering) Susan has the doll collection.. one of the dolls looks exactly like my mother.. she likes to sleep with it.”
+  - [Caution] SUSAN: “Oh, I used to love to sleep with my dolls when I was a little girl..”
+  - [Caution] GEORGE: “(Muttering) Susan has the doll collection.. one of the dolls looks exactly like my mother.. she likes to sleep with it.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Estelle walks in with a tray of beverages and popcorn. Kramer and Frank continue the lesson in their underwear as she stares in disbelief
 - Violence & injury — 2 moment(s)
-  - [Moderate] JERRY: “He is scraping the BBQ sauce off Jerry's clothes with a knife, then dipping some bread into it) What the hell are you doing?”
-  - [Moderate] FRANK: “Doesn't that look like my flesh and blood?”
+  - [Caution] JERRY: “He is scraping the BBQ sauce off Jerry's clothes with a knife, then dipping some bread into it) What the hell are you doing?”
+  - [Caution] FRANK: “Doesn't that look like my flesh and blood?”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] ELAINE: “(Explaining) Because he hasn't called me since we got back.. I spilled wine on his 8 by 10 photo of one of his favorite Italian opera stars.”
   - [Mild] ELAINE: “Oh, ok! (Picking up the Ori-dent box, she knocks over a bottle of wine. It spills all over the poster)”
@@ -1647,14 +1647,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Jerry returns, wearing a blazer, with a crest on the breast pocket.
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] good fellow, to Bob Grossberg, who's joining us from Business Affairs.
+  - [Caution] good fellow, to Bob Grossberg, who's joining us from Business Affairs.
 - Violence & injury — 4 moment(s)
-  - [Explicit] in a SACK!! I think she drugged me, but she's a murderer and I'm calling the
-  - [Explicit] DETECTIVE: “You're under arrest for the attempted murder of Cosmo Kramer.”
-  - [Explicit] me for attempted murder.
+  - [Too much] in a SACK!! I think she drugged me, but she's a murderer and I'm calling the
+  - [Too much] DETECTIVE: “You're under arrest for the attempted murder of Cosmo Kramer.”
+  - [Too much] me for attempted murder.
   - [Mild] George pushes open the door and enters, still ebullient. He punches the air
 - Swearing — 4 moment(s)
-  - [Moderate] jacket and carefully slips it over her ear. Elaine cocks her head on one
+  - [Caution] jacket and carefully slips it over her ear. Elaine cocks her head on one
   - [Mild] ELAINE: “(whispers) Poor bastard.”
   - [Mild] (frustrated) Where the hell is that jacket?
   - [Mild] PAT: “Hey, Jerry. What the hell went wrong? What's the matter with you? Are”
@@ -1665,11 +1665,11 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: George gets Steinbrenner hooked on eggplant calzones from a local Italian restaurant. But George gets banned from the restaurant when he's accused of stealing from the tip jar. He then asks Kramer to pick up the calzones, but Kramer gets kicked out when he tries to pay with pennies. George's last resort in getting the calzones is Newman who wants a cut of every delivery. Meanwhile, Kramer will only wear clothing if it's straight from the dryer.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] George: “Beautiful women . You know they could get away with murder . You”
+  - [Too much] George: “Beautiful women . You know they could get away with murder . You”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] George: “Yeah . I am like a drug dealer . I got the guy hooked . I am having”
+  - [Caution] George: “Yeah . I am like a drug dealer . I got the guy hooked . I am having”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Mr. Steinbrenner: “Corn beef . I don't think so . It is a little fatty .”
+  - [Caution] Mr. Steinbrenner: “Corn beef . I don't think so . It is a little fatty .”
 
 ## S7 E21 — The Bottle Deposit (1)
 URL: https://watchwiththekids.com/ep/seinfeld/0721.html
@@ -1693,7 +1693,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: A comment from George ends up causing a married couple to get divorced and Jerry and Elaine to date the soon-to-be exes. Kramer tries wearing jeans.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] KRAMER: “Yeah, and I'm playing a business man accused of murder.”
+  - [Too much] KRAMER: “Yeah, and I'm playing a business man accused of murder.”
 
 ## S7 E24 — The Invitations
 URL: https://watchwiththekids.com/ep/seinfeld/0724.html
@@ -1717,8 +1717,8 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: George thinks the Board of Directors are talking behind his back. Kramer has a crush on Jerry's new girlfriend. Elaine doesn't see the big deal in having a baby.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] WYCK: “Does anyone think George might have murdered Susan?”
-  - [Explicit] MR. CROSS: “Oh, yeah. I just assumed he murdered her.”
+  - [Too much] WYCK: “Does anyone think George might have murdered Susan?”
+  - [Too much] MR. CROSS: “Oh, yeah. I just assumed he murdered her.”
 
 ## S8 E3 — The Bizarro Jerry
 URL: https://watchwiththekids.com/ep/seinfeld/0803.html
@@ -1736,10 +1736,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Jerry: “The little kid who needs bootlegs, because his parent or guardian won't let him see the excessive violence and strong sexual content you and I take for granted.”
 - Violence & injury — 4 moment(s)
-  - [Moderate] Elaine: “Don't you see? George is in the bloodstream! You stay away from him, too!”
-  - [Moderate] George: “No one's putting a gun to your head. Do I, uh, scare you?”
-  - [Moderate] Brody: “(pulls out a gun) What are you some kind of tough guy?”
-  - [Moderate] Jerry: “People with guns don't understand. That's why they get guns. Too many”
+  - [Caution] Elaine: “Don't you see? George is in the bloodstream! You stay away from him, too!”
+  - [Caution] George: “No one's putting a gun to your head. Do I, uh, scare you?”
+  - [Caution] Brody: “(pulls out a gun) What are you some kind of tough guy?”
+  - [Caution] Jerry: “People with guns don't understand. That's why they get guns. Too many”
 
 ## S8 E5 — The Package
 URL: https://watchwiththekids.com/ep/seinfeld/0805.html
@@ -1747,14 +1747,14 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: A mysterious package arrives for Jerry. Elaine is curious about what the doctors are writing in her records. George tries to hit on the cute girl at the "One Hour Photo" place.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Jerry: “Why because you dress casual and sleep with a lot of guys .”
+  - [Caution] Jerry: “Why because you dress casual and sleep with a lot of guys .”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] George: “Oh yeah the nipple . But besides that . How did you feel about”
-  - [Explicit] Elaine: “Oh yeah . In fact I like the picture so much I cropped out the nipple”
+  - [Too much] George: “Oh yeah the nipple . But besides that . How did you feel about”
+  - [Too much] Elaine: “Oh yeah . In fact I like the picture so much I cropped out the nipple”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] mail order pornography ring .As does this one found in the same disturbing
+  - [Too much] mail order pornography ring .As does this one found in the same disturbing
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Newman: “Not so fast pretty boy . There is more to this sordid little affair .”
+  - [Caution] Newman: “Not so fast pretty boy . There is more to this sordid little affair .”
 
 ## S8 E6 — The Fatigues
 URL: https://watchwiththekids.com/ep/seinfeld/0806.html
@@ -1762,9 +1762,9 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry's new girlfriend's mentor is dating Bania. Kramer volunteers to host a Jewish singles mixer. George tries to study up on risk management. Elaine promotes a man she is afraid to fire.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Jerry: “Oh, it was a lovely affair.”
+  - [Caution] Jerry: “Oh, it was a lovely affair.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] knife; the only friend who hasn't betrayed you, the only friend who won't be
+  - [Caution] knife; the only friend who hasn't betrayed you, the only friend who won't be
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Frank pours a shot of whiskey and drinks it.
 
@@ -1774,7 +1774,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry gets hundreds of royalty checks, worth 12 cents each, for appearing on a Japanese TV program and gets writer's cramp. George and Jerry pitch their pilot to Japanese TV executives.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] GEORGE: “How'd you hook up with these guys?”
+  - [Caution] GEORGE: “How'd you hook up with these guys?”
 
 ## S8 E8 — The Chicken Roaster
 URL: https://watchwiththekids.com/ep/seinfeld/0808.html
@@ -1782,9 +1782,9 @@ Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Kenny Rogers' Roasters sets up shop across the street from Jerry and Kramer's apartment. Elaine gets comfortable in her position as president of the catalog but is quickly accused of abusing her company credit card benefits. George purposefully leaves a hat at his girlfriend's apartment in hopes that it will score another date.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Kramer: “You should sleep with him.”
+  - [Caution] Kramer: “You should sleep with him.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jerry: “I guess we like to think we've progressed beyond a knife fight for a”
+  - [Caution] Jerry: “I guess we like to think we've progressed beyond a knife fight for a”
 
 ## S8 E9 — The Abstinence
 URL: https://watchwiththekids.com/ep/seinfeld/0809.html
@@ -1792,9 +1792,9 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Abstinence allows George to become a genius, but it turns Elaine into an idiot. Jerry gets bumped from career day at his old Jr. High School. Kramer turns his apartment into a smoking lounge and all the smoke disfigures his face.
 Watch for:
 - Sex & hookups — 7 moment(s)
-  - [Moderate] Louise: “George, I can't have sex.”
-  - [Moderate] Jerry: “So you're never gonna have sex again?”
-  - [Moderate] Jerry: “Oh my God. You had sex. You had sex with Louise!”
+  - [Caution] Louise: “George, I can't have sex.”
+  - [Caution] Jerry: “So you're never gonna have sex again?”
+  - [Caution] Jerry: “Oh my God. You had sex. You had sex with Louise!”
   - [Mild] George: “I can do six weeks standin' on my head. I'm a sexual camel. That's not the point. At least there was the possibility.”
   - [Mild] Jerry: “Louise! That's what's doin' it. You're no longer pre-occupied with sex, so your mind is able to focus.”
   - [Mild] “tiny piece of lettuce), and the part obsessed with sex. (Shows large”
@@ -1808,12 +1808,12 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] GEORGE: “I was handcuffed to the bed.. In my underwear, (Sighs) where I remained.. (Scene cuts to another story) She was attractive.. She was, also, infact, a”
 - Violence & injury — 7 moment(s)
-  - [Explicit] WAITER: “An Alan Mercer called for you. He said he's sorry, but he won't be able to make it tonight. (Pause) He's been stabbed.”
-  - [Explicit] ELAINE: “(Shocked) Stabbed?!”
-  - [Explicit] on by the stabbing) I mean, to be stab-worthy.. You know, it's.. kind of a compliment.
-  - [Explicit] ELAINE: “(Leans in close) Between you and me, what happened there with the stabbing?”
-  - [Moderate] ELAINE: “I love shrimp! (Waves her knife around as she's talking) I'm a shrimp eater. You put shrimp infront of me, (Waves her knife along with her hand gestures.”
-  - [Moderate] Alan is getting edgy about it, and even more so with every wave) and I will eat it until my stomach pops! (Notices Alan's unsettled) Oh.. (Puts the knife down)
+  - [Too much] WAITER: “An Alan Mercer called for you. He said he's sorry, but he won't be able to make it tonight. (Pause) He's been stabbed.”
+  - [Too much] ELAINE: “(Shocked) Stabbed?!”
+  - [Too much] on by the stabbing) I mean, to be stab-worthy.. You know, it's.. kind of a compliment.
+  - [Too much] ELAINE: “(Leans in close) Between you and me, what happened there with the stabbing?”
+  - [Caution] ELAINE: “I love shrimp! (Waves her knife around as she's talking) I'm a shrimp eater. You put shrimp infront of me, (Waves her knife along with her hand gestures.”
+  - [Caution] Alan is getting edgy about it, and even more so with every wave) and I will eat it until my stomach pops! (Notices Alan's unsettled) Oh.. (Puts the knife down)
   - [Mild] WOMAN: “Please! Get help! There's a crazy big-headed woman beating up some guy! Tell the police "The Old Mill Restaurant". Hurry!”
 
 ## S8 E11 — The Little Jerry
@@ -1833,11 +1833,11 @@ Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Jerry's parents believe he is financially unstable. Kramer has trouble sleeping with his girlfriend. Elaine enjoys her position as President of the J. Peterman catalog. George hopes to get his parents' money when they die.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] KRAMER: “(a little anxious) You know, after I have sex with Emily, uh, I”
+  - [Caution] KRAMER: “(a little anxious) You know, after I have sex with Emily, uh, I”
   - [Mild] KRAMER: “No, no, no. It's not the sex, Jerry. (noticing Morty and Helen)”
   - [Mild] ELAINE: “Tell her after sex, you just want her outta there?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] EMILY: “(not looking up from her book) No-one held a gun to your head.”
+  - [Caution] EMILY: “(not looking up from her book) No-one held a gun to your head.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Kramer is examining the label on a wine bottle, as George turns to look at
 
@@ -1847,9 +1847,9 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: George tries to come up with a good comeback after someone insults him. Elaine falls in love with a mysterious employee at the video store. Kramer wants to die a certain way. Jerry takes advice from a tennis player who stinks.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] KRAMER: “Look, just tell him you had sex with his wife. That'll kill him.”
-  - [Moderate] JERRY: “(walking away) Well, I didn't sleep with her.”
-  - [Moderate] GEORGE: “Yeah? Well, I had sex with your wife.”
+  - [Caution] KRAMER: “Look, just tell him you had sex with his wife. That'll kill him.”
+  - [Caution] JERRY: “(walking away) Well, I didn't sleep with her.”
+  - [Caution] GEORGE: “Yeah? Well, I had sex with your wife.”
   - [Mild] out, he chose to offer you his wife as some sort of mediaeval sexual payola?
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Champagne Video
@@ -1862,7 +1862,7 @@ Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Kramer gets mixed up with a gang when he is mugged by them and mistakenly shows their secret sign.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] GEORGE: “I was betrayed! That kid was like a son to me. And if there's one person you should be able to hold down, it's your own flesh and blood. Like my”
+  - [Caution] GEORGE: “I was betrayed! That kid was like a son to me. And if there's one person you should be able to hold down, it's your own flesh and blood. Like my”
   - [Mild] ELLEN: “So, they have this clock now, where you punch in your age, and all your risk factors. It actually counts down how much time you have left to live.”
   - [Mild] ELAINE: “You know, a friend of mine almost got beat up at that place by the Van Buren Boys?”
   - [Mild] GEORGE: “Now, fellas, fellas.. easy. You wouldn't want to beat up on one of your own.”
@@ -1875,14 +1875,14 @@ Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Kramer sets his watch an hour ahead. George tries to avoid a breakup with his girlfriend. A colleague keeps calling Elaine, Susie. Jerry gambles on a basketball game, but the bookie can't pay him.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] proud to PEGGY, under his breath] Yeah, but he didn't sleep with both of 'em. [winks
+  - [Caution] proud to PEGGY, under his breath] Yeah, but he didn't sleep with both of 'em. [winks
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Well I, well I, felt, pretty bad about everything an' uh, then the three of us, we went to a strip club. [leaves]
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Well I, well I, felt, pretty bad about everything an' uh, then the three of us, we went to a strip club. [leaves]
 - Violence & injury — 1 moment(s)
-  - [Explicit] [rushes up to podium!] She was Murdered, by Jerry, Sein-feld!
+  - [Too much] [rushes up to podium!] She was Murdered, by Jerry, Sein-feld!
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Susie didn't commit suicide!
+  - [Too much] Susie didn't commit suicide!
 
 ## S8 E16 — The Pothole
 URL: https://watchwiththekids.com/ep/seinfeld/0816.html
@@ -1890,9 +1890,9 @@ Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: Jerry accidentally drops his girlfriends toothbrush in the toilet. George loses his car keys in a newly paved pothole. Elaine orders food from a restaurant that refuses to deliver to her area. Kramer adopts a highway.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] JERRY: “Good. (pause) Steak knife?”
+  - [Caution] JERRY: “Good. (pause) Steak knife?”
 - Swearing — 4 moment(s)
-  - [Moderate] JERRY: “Poor son of a bitch.”
+  - [Caution] JERRY: “Poor son of a bitch.”
   - [Mild] JERRY: “What the hell are you talking about?”
   - [Mild] JERRY: “Toilet brush, oh (he pulls a 'Damn, shoulda guessed!' face). Alright, I”
   - [Mild] NEWMAN: “What the hell was that?”
@@ -1903,16 +1903,16 @@ Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Elaine is dragged to see the movie "The English Patient" on multiple occasions, even though she absolutely hates the film.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Explicit] GUILLERMO: “(indicating the threesome) We are the Cubans.”
+  - [Too much] GUILLERMO: “(indicating the threesome) We are the Cubans.”
   - [Mild] ELAINE: “Oh, come on. Good? What was good about it? (scoffs) Those sex scenes!”
   - [Mild] (irritated) You know, sex in a tub. That doesn't work!
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 2 moment(s)
-  - [Moderate] also pull out guns, which they point upwards and cock, loudly.
+  - [Caution] also pull out guns, which they point upwards and cock, loudly.
   - [Mild] IZZY/IZZY JR/IZZY IZZY SR.: (chanting and punching the air) Mandelbaum,
 - Swearing — 4 moment(s)
-  - [Moderate] also pull out guns, which they point upwards and cock, loudly.
+  - [Caution] also pull out guns, which they point upwards and cock, loudly.
   - [Mild] KRAMER: Damn!
   - [Mild] IZZY: “What the hell is that?”
   - [Mild] HAFFLER: “Get the hell outta my office.”
@@ -1934,9 +1934,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] George: “I was naked.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Beth: “He met with Elaine, and I asked him what happened, and he yada yada'd me. I mean, could he be having an affair?”
+  - [Caution] Beth: “He met with Elaine, and I asked him what happened, and he yada yada'd me. I mean, could he be having an affair?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Tim: “No, the dentists. You know, we have the highest suicide rate of any profession?”
+  - [Too much] Tim: “No, the dentists. You know, we have the highest suicide rate of any profession?”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Elaine: “So what? When someone turns twenty-one, they usually get drunk the first night.”
   - [Mild] Jerry: “Booze is not a religion.”
@@ -1950,8 +1950,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] George is further discomfited by the sight of Steinbrenner in his underwear.
 - Violence & injury — 2 moment(s)
-  - [Moderate] you still have that pricing-gun?
-  - [Moderate] JERRY: “What're you doing with a pricing-gun?”
+  - [Caution] you still have that pricing-gun?
+  - [Caution] JERRY: “What're you doing with a pricing-gun?”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] GLADYS: “(into phone) I know, the margaritas in that place are so strong.”
   - [Mild] couple of glasses of wine.
@@ -1965,7 +1965,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Kramer: “Comming up on the right, if you glance up you can just make out my bedroom window. It's the one that's covered in chicken wire.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Kramer: “(gets back on the bus, yelling) Well maybe I will take it up with Consumer Affairs.”
+  - [Caution] Kramer: “(gets back on the bus, yelling) Well maybe I will take it up with Consumer Affairs.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] John Tyler: “How about this. You give me Castanza, I convert your concessions to all chicken no charge. Instead of hot dogs, chicken dogs. Instead of pretzels, chicken twists. Instead of beer, alcoholic chicken.”
 
@@ -1975,9 +1975,9 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Unemployed again, George decides to have a "memorable" summer. Jerry's new girlfriend has another dude. Kramer wins a Tony Award. A new girl at work is hostile towards Elaine.
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Raquel: “Hello, Sidney! No, no I told you I don't want to do that! If you bring it up again I will feed your genitals to a wolf! [hangs up] Kids! You're still here.”
+  - [Too much] Raquel: “Hello, Sidney! No, no I told you I don't want to do that! If you bring it up again I will feed your genitals to a wolf! [hangs up] Kids! You're still here.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] George: “'Scarsdale surprise'. That's the musical about that Scarsdale diet doctor murder.”
+  - [Too much] George: “'Scarsdale surprise'. That's the musical about that Scarsdale diet doctor murder.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Kramer: “Jerry, it was a whirlwind. They whisked us backstage, the media is sworming, champagne is flowing...whooo! I can't describe how great it is to win.”
 
@@ -1990,7 +1990,7 @@ Watch for:
   - [Mild] mean the sex was good. I'm sure it was fine for her. I need more.
   - [Mild] Puddy: “Let's make out.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] George: “I know, I hate it too. I feel like an out of work porn star.”
+  - [Too much] George: “I know, I hate it too. I feel like an out of work porn star.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] sitting in the bar at the comedy club drinking a glass of champagne. Bania
 
@@ -2000,16 +2000,16 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: George's colleagues try to force him to leave. Jerry makes fun of his girlfriend's bellybutton. Kramer hires an intern. Elaine gets back together with David Puddy.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] Jerry: “Then what do you call it? People don’t just bump into each other and have sex. This isn’t cinemax.”
+  - [Caution] Jerry: “Then what do you call it? People don’t just bump into each other and have sex. This isn’t cinemax.”
   - [Mild] Elaine: “No! It’s an isolated, sexual incident. We are not back together!”
   - [Mild] Jerry: “Sex, that’s meaningless, I can understand that, but dinner; that’s heavy. That’s like an hour.”
   - [Mild] Puddy: “I mean I love just seeing you and having sex.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] George: “(Interrupts) And I still say he’s naked under there!”
 - Alcohol & drugs — 3 moment(s)
-  - [Explicit] Elaine: “It’s the new look. You know Heroin Cheek?”
-  - [Moderate] George: “Oh no! I’m vigilant. They’ll never get me out. I’m like a weed, Jerry.”
-  - [Moderate] George: “I’m a weed in Hitler’s bunker.”
+  - [Too much] Elaine: “It’s the new look. You know Heroin Cheek?”
+  - [Caution] George: “Oh no! I’m vigilant. They’ll never get me out. I’m like a weed, Jerry.”
+  - [Caution] George: “I’m a weed in Hitler’s bunker.”
 
 ## S9 E3 — The Serenity Now
 URL: https://watchwiththekids.com/ep/seinfeld/0903.html
@@ -2017,10 +2017,10 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Jerry opens up his feelings. Elaine is getting hit on by the Jews. Kramer gets a screen door. George helps his father sell computers.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Frank: “He's crazy. His phone wasn't even hooked up. He just liked ringing”
+  - [Caution] Frank: “He's crazy. His phone wasn't even hooked up. He just liked ringing”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Huh? We can check porn, and stock quotes.
-  - [Explicit] Jerry: “Porn quotes... I'm so lucky to have a friend like you, George. Ever”
+  - [Too much] Huh? We can check porn, and stock quotes.
+  - [Too much] Jerry: “Porn quotes... I'm so lucky to have a friend like you, George. Ever”
 
 ## S9 E4 — The Blood
 URL: https://watchwiththekids.com/ep/seinfeld/0904.html
@@ -2031,11 +2031,11 @@ Watch for:
   - [Mild] George: “She tolerated the strawberries and the chocolate sauce, but eh, it's not a meal, you know? Food and sex, those are my two passions. It's only natural to combine them.”
   - [Mild] Jerry: “Natural? Sex is about love between a man and a woman, not a man and a sandwich.”
 - Violence & injury — 6 moment(s)
-  - [Moderate] Jerry: “Did you give blood?”
-  - [Moderate] Kramer: “My service rates went up? You banks are all the same with your hidden fees and your service charges. Well, maybe I'll just take my blood elsewhere, yeah.”
-  - [Moderate] George: “Hey, speaking of which, I found a great way to separate the skin from the top of the pudding without leaving any around the edges; Exacto knife.”
-  - [Moderate] Jerry hits a spatula on the table and one Exacto knife flies through the air.
-  - [Moderate] Elaine is on the baby-sitting gig and Jimmy is shooting her with a toy gun.
+  - [Caution] Jerry: “Did you give blood?”
+  - [Caution] Kramer: “My service rates went up? You banks are all the same with your hidden fees and your service charges. Well, maybe I'll just take my blood elsewhere, yeah.”
+  - [Caution] George: “Hey, speaking of which, I found a great way to separate the skin from the top of the pudding without leaving any around the edges; Exacto knife.”
+  - [Caution] Jerry hits a spatula on the table and one Exacto knife flies through the air.
+  - [Caution] Elaine is on the baby-sitting gig and Jimmy is shooting her with a toy gun.
   - [Mild] Elaine: “All right, but I'm running out of purses here. [takes her purse from a punch ball.]”
 
 ## S9 E5 — The Junk Mail
@@ -2044,10 +2044,10 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Kramer is annoyed with the catalogs he keeps getting in the mail. Elaine falls in love with a guy because of his smile. George's parents are avoiding him. Jerry can't find it in his heart to reject a gift from an old school friend.
 Watch for:
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Frank: “"We have a catered affair."”
-  - [Moderate] George: “"Quick for a... catered affair."”
+  - [Caution] Frank: “"We have a catered affair."”
+  - [Caution] George: “"Quick for a... catered affair."”
 - Violence & injury — 3 moment(s)
-  - [Moderate] George: “"What about your old car? They couldn't get Kramer's blood out of it?"”
+  - [Caution] George: “"What about your old car? They couldn't get Kramer's blood out of it?"”
   - [Mild] Jerry: “"Yeah, nobody beats him. What kind of work does he do?"”
   - [Mild] Elaine: “"He's not idiotic. He's the Wiz. And nobody beats him. Nobody..."”
 
@@ -2075,8 +2075,8 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: The gang goes to a wedding in India in this special episode told in reverse. Meanwhile, Kramer uses his superstition to try to make sure he won't drop dead.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] GEORGE: “(Trying to whisper to Jerry) Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to”
-  - [Moderate] GEORGE: “Elaine, you have to sleep with me.”
+  - [Caution] GEORGE: “(Trying to whisper to Jerry) Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to”
+  - [Caution] GEORGE: “Elaine, you have to sleep with me.”
   - [Mild] JERRY: “Anyway, like I was saying, I couldn't make the trasition from conversation to sex. There were no awkward pauses.. I need an awkward pause.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] ELAIEN: “Come on, Sue Ellen. You don't wear a bra, you're tall.. we hate each other!”
@@ -2091,12 +2091,12 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Jerry dates a nudist, and George seeks an apology from an old friend.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] sleeping with over to talk to me, but I assure you, I don't have any problem
+  - [Caution] sleeping with over to talk to me, but I assure you, I don't have any problem
 - Nudity & bodies — 2 moment(s)
   - [Mild] Melissa, [appearing in the kitchen stark naked]: "Oh, fantastic! I'm
   - [Mild] George: “"She ate breakfast naked?"”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jerry: “"Insert a knife into the center and twist. Then, to make it bloom,”
+  - [Caution] Jerry: “"Insert a knife into the center and twist. Then, to make it bloom,”
 
 ## S9 E10 — The Strike
 URL: https://watchwiththekids.com/ep/seinfeld/0910.html
@@ -2113,7 +2113,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry looks to buy a new car from Elaine's boyfriend. George tries to find a snack. Kramer test drives a car.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] KRAMER: “Jerry, I don’t think this thing is hooked up right.”
+  - [Caution] KRAMER: “Jerry, I don’t think this thing is hooked up right.”
 - Violence & injury — 2 moment(s)
   - [Mild] JERRY: “Slapping hands is the lowest form of male primate ritual. In fact, even some of them have moved on - they’re using sign language now.”
   - [Mild] PUDDY: “(While punching up numbers on a calculator) That chick’s whacked. We’re history. (Back to the transaction) I just left out a couple of things:”
@@ -2124,8 +2124,8 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Elaine is embarrassed by Puddy's fur coat. Kramer tries to keep Newman from getting evicted. George carries everything in his wallet. Jerry is through with wallets.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Kramer: “So, you're sleeping with Silvio's wife?”
-  - [Moderate] Kramer: “That must be the man that's sleeping with your wife.”
+  - [Caution] Kramer: “So, you're sleeping with Silvio's wife?”
+  - [Caution] Kramer: “That must be the man that's sleeping with your wife.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Puddy: “(standing guard by the stereo as George walks by him) Hey! Cocktail off the speaker.”
 
@@ -2135,19 +2135,19 @@ Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: Sally Weaver makes fun of Jerry. George's new girlfriend looks just like Jerry. Kramer takes a vow of silence. Elaine gets a job drawing cartoons for the New Yorker.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] but because it's a woman I could also have sex with her....And that somehow that would be exactly
+  - [Caution] but because it's a woman I could also have sex with her....And that somehow that would be exactly
   - [Mild] friend or to tell everybody at the coffee shop ho George is all mixed up in a perverse sexual amalgam of
   - [Mild] Kramer does mimics but you can make out somebody angry saying "What are you talking about, twice and then some crying)
 - Nudity & bodies — 1 moment(s)
   - [Mild] Elaine: “It's better than your drawings of naked Lois Lane.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] traditional route; years of rejections and failures till she's spit out the bottom of the porn industry.
+  - [Too much] traditional route; years of rejections and failures till she's spit out the bottom of the porn industry.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Jerry: “(from the back of the club , leaving) That's it I'm calling in the big guns.”
+  - [Caution] Jerry: “(from the back of the club , leaving) That's it I'm calling in the big guns.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] at a cocktail party talking about the stock market. You think you're doing comedy.
 - Sexual insults — 1 moment(s)
-  - [Moderate] Elaine: “The pig says "my wife is a slut."”
+  - [Caution] Elaine: “The pig says "my wife is a slut."”
 
 ## S9 E15 — The Wizard
 URL: https://watchwiththekids.com/ep/seinfeld/0915.html
@@ -2155,9 +2155,9 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Jerry goes down to Florida for his father's birthday. George tries to avoid Susan's parents. Elaine can't figure out her new boyfriend's nationality. Kramer decides to retire.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Kramer: “"You remember that photo book on toy ray guns?"”
+  - [Caution] Kramer: “"You remember that photo book on toy ray guns?"”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] That is racism!"
+  - [Too much] That is racism!"
 
 ## S9 E16 — The Burning
 URL: https://watchwiththekids.com/ep/seinfeld/0916.html
@@ -2165,9 +2165,9 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Elaine finds out that Puddy is religious. Kramer pretends to have gonorrhea. Jerry's new girlfriend has a tractor story to tell him. George wants everyone at work to like him.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Jerry: “Did he overdose?”
+  - [Too much] Jerry: “Did he overdose?”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Jerry: “And a bit of a tramp if you ask me.”
+  - [Caution] Jerry: “And a bit of a tramp if you ask me.”
 
 ## S9 E17 — The Bookstore
 URL: https://watchwiththekids.com/ep/seinfeld/0917.html
@@ -2175,16 +2175,16 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: George is forced to buy a book he brought into the bathroom. Jerry finds out that his Uncle Leo is a shop lifter. Elaine doesn't want to be known as the office skank. Kramer and Newman start a Hong Kong rickshaw business.
 Watch for:
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] JERRY: “So, even though you're not really going out with this guy, he's cheating on you?”
-  - [Moderate] ELAINE: “Look, uh, Mr. Peterman, the fact is that I was planning on breaking up with Zach anyway. He was cheating on me!”
+  - [Caution] JERRY: “So, even though you're not really going out with this guy, he's cheating on you?”
+  - [Caution] ELAINE: “Look, uh, Mr. Peterman, the fact is that I was planning on breaking up with Zach anyway. He was cheating on me!”
 - Violence & injury — 1 moment(s)
   - [Mild] REBECCA: “Yeah, and here it is: You get your toilet book out of here, and I won't jump over this counter and punch you in the brain!”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] ELAINE: “Cocktail flu.”
   - [Mild] JERRY: “(Rubbing it in) Ah, the drunken make-out. An office classic. Did you end up xeroxing anything?”
 - Sexual insults — 2 moment(s)
-  - [Moderate] ELAINE: “Oh God. Why did I do this? Now I'm the office skank.”
-  - [Moderate] ELAINE: “(Talking to a co-worker) Of course Zach and I have been dating. What'd you think, I was the office skank?”
+  - [Caution] ELAINE: “Oh God. Why did I do this? Now I'm the office skank.”
+  - [Caution] ELAINE: “(Talking to a co-worker) Of course Zach and I have been dating. What'd you think, I was the office skank?”
 
 ## S9 E18 — The Frogger
 URL: https://watchwiththekids.com/ep/seinfeld/0918.html
@@ -2192,12 +2192,12 @@ Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: George tries to acquire an old Frogger machine on which he's held the top score since high school.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] GEORGE: “And you automatically sleep with her?”
-  - [Moderate] GEORGE (nudges Elaine with his elbow): So, uh are you sleeping with Peterman?
-  - [Moderate] JERRY: “Well, I think by sleeping with her, I may have sent her the wrong message.”
+  - [Caution] GEORGE: “And you automatically sleep with her?”
+  - [Caution] GEORGE (nudges Elaine with his elbow): So, uh are you sleeping with Peterman?
+  - [Caution] JERRY: “Well, I think by sleeping with her, I may have sent her the wrong message.”
   - [Mild] SLIPPERY PETE: “It doesn't give you the right to make out with her.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Surprised, he sees a shadowy figure walking towards him holding something resembling a head in one hand and a knife in the other.
+  - [Caution] Surprised, he sees a shadowy figure walking towards him holding something resembling a head in one hand and a knife in the other.
 
 ## S9 E19 — The Maid
 URL: https://watchwiththekids.com/ep/seinfeld/0919.html
@@ -2205,15 +2205,15 @@ Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — abou
 Summary: Jerry winds up dating the maid he hired, and she starts to slack off on her duties.
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] ELAINE: “You are paying a woman to come to your house and sleep with you.”
-  - [Moderate] KRAMER (from hallway): He's sleeping with his maid!
+  - [Caution] ELAINE: “You are paying a woman to come to your house and sleep with you.”
+  - [Caution] KRAMER (from hallway): He's sleeping with his maid!
   - [Mild] JERRY: “Well, everything's goin' great except, basically, I'm payin' for sex.”
   - [Mild] KRAMER: “Oh, yeah? So what am I supposed to do, be more like you? All sealed up in here, emotionally unavailable, paying scrubwomen for sexual favors! No! Jerry, I won't be like you! Never! I'll never be like you!”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] JERRY: “No, George. She's coming over and not cleaning. It's like I'm seein' a prostitute.”
-  - [Explicit] CINDY: “So, what are you saying? That I'm a bad maid or some kind of a prostitute?”
+  - [Too much] JERRY: “No, George. She's coming over and not cleaning. It's like I'm seein' a prostitute.”
+  - [Too much] CINDY: “So, what are you saying? That I'm a bad maid or some kind of a prostitute?”
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] JERRY: “Is this the suicide talk or the nickname talk?”
+  - [Too much] JERRY: “Is this the suicide talk or the nickname talk?”
 
 ## S9 E20 — The Puerto Rican Day
 URL: https://watchwiththekids.com/ep/seinfeld/0920.html
@@ -2226,7 +2226,7 @@ Watch for:
   - [Mild] A red laser moves around the movie screen. Everyone laughs as the dot rests on the breasts of the movie actress.
   - [Mild] GEORGE: “All right, stop it! Stay away from my breasts! Chest!”
 - Violence & injury — 1 moment(s)
-  - [Moderate] The gang drives along in Jerry's car with the top down. Elaine and Kramer sit in the back, George is shotgun, and Jerry behind the wheel.
+  - [Caution] The gang drives along in Jerry's car with the top down. Elaine and Kramer sit in the back, George is shotgun, and Jerry behind the wheel.
 
 ## S9 E21 — The Clip Show (1) (a.k.a. The Chronicle (1))
 URL: https://watchwiththekids.com/ep/seinfeld/0921.html
@@ -2246,28 +2246,28 @@ Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: After George and Jerry land a production deal with NBC, the four head out for Paris on NBC's private plane and are waylaid in a small Massachusetts town.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
+  - [Caution] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
   - [Mild] Chiles: “Oh, you looking good. You look strong. You one fine-looking sexy lady.”
   - [Mild] Pharmacist: “Sponges. I don't mean the kind you clean your tub with. They're for sex. Said she needed a whole case of”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Man: “She exposed her nipple.”
+  - [Too much] Man: “She exposed her nipple.”
   - [Mild] Hoyt: “So, she pretended to trip, and she fell into your breasts?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Detective: “We got a tip that a lot of prostitutes had been turning tricks in the parking lot.”
+  - [Too much] Detective: “We got a tip that a lot of prostitutes had been turning tricks in the parking lot.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Kramer: “Oh - geishas - they cater to your every whim. They're shy at first, but they're quite skilled at conversation. They can discuss anything from world affairs to the fine art of fishing - or baking.”
+  - [Caution] Kramer: “Oh - geishas - they cater to your every whim. They're shy at first, but they're quite skilled at conversation. They can discuss anything from world affairs to the fine art of fishing - or baking.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Jerry: “Murder one? Oooooo, watch out everybody. Better be nice to you. I'm only kidding sir - lighten up. How about”
-  - [Moderate] Witnesses waiting in pool hall, at restaurant, etc. Mr. Ross buys a gun.
+  - [Too much] Jerry: “Murder one? Oooooo, watch out everybody. Better be nice to you. I'm only kidding sir - lighten up. How about”
+  - [Caution] Witnesses waiting in pool hall, at restaurant, etc. Mr. Ross buys a gun.
 - Swearing — 6 moment(s)
-  - [Moderate] Hoyt: “Cock fighting?”
+  - [Caution] Hoyt: “Cock fighting?”
   - [Mild] George: “Anything, everything, something, nothing - Who the hell cares? Put me down. I'm down!”
   - [Mild] Morty: “They should have put that show on 5 years ago. Bunch of idiots at that network. Can I tell you something, Jerry? It's all crap on TV. The only thing I watch is Xena the Warrior Princess. She must be about six-six.”
   - [Mild] Captain: “Hey, get the hell out of here!”
   - [Mild] Chiles: “You damn right it isn't.”
   - [Mild] Jackie: “Hello? Damn. They're ready.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
+  - [Caution] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
 
 ## S9 E24 — The Finale (2)
 URL: https://watchwiththekids.com/ep/seinfeld/0924.html
@@ -2275,25 +2275,25 @@ Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — abou
 Summary: After George and Jerry land a production deal with NBC, the four head out for Paris on NBC's private plane and are waylaid in a small Massachusetts town.
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
+  - [Caution] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
   - [Mild] Chiles: “Oh, you looking good. You look strong. You one fine-looking sexy lady.”
   - [Mild] Pharmacist: “Sponges. I don't mean the kind you clean your tub with. They're for sex. Said she needed a whole case of”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Man: “She exposed her nipple.”
+  - [Too much] Man: “She exposed her nipple.”
   - [Mild] Hoyt: “So, she pretended to trip, and she fell into your breasts?”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Detective: “We got a tip that a lot of prostitutes had been turning tricks in the parking lot.”
+  - [Too much] Detective: “We got a tip that a lot of prostitutes had been turning tricks in the parking lot.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Kramer: “Oh - geishas - they cater to your every whim. They're shy at first, but they're quite skilled at conversation. They can discuss anything from world affairs to the fine art of fishing - or baking.”
+  - [Caution] Kramer: “Oh - geishas - they cater to your every whim. They're shy at first, but they're quite skilled at conversation. They can discuss anything from world affairs to the fine art of fishing - or baking.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] Jerry: “Murder one? Oooooo, watch out everybody. Better be nice to you. I'm only kidding sir - lighten up. How about”
-  - [Moderate] Witnesses waiting in pool hall, at restaurant, etc. Mr. Ross buys a gun.
+  - [Too much] Jerry: “Murder one? Oooooo, watch out everybody. Better be nice to you. I'm only kidding sir - lighten up. How about”
+  - [Caution] Witnesses waiting in pool hall, at restaurant, etc. Mr. Ross buys a gun.
 - Swearing — 6 moment(s)
-  - [Moderate] Hoyt: “Cock fighting?”
+  - [Caution] Hoyt: “Cock fighting?”
   - [Mild] George: “Anything, everything, something, nothing - Who the hell cares? Put me down. I'm down!”
   - [Mild] Morty: “They should have put that show on 5 years ago. Bunch of idiots at that network. Can I tell you something, Jerry? It's all crap on TV. The only thing I watch is Xena the Warrior Princess. She must be about six-six.”
   - [Mild] Captain: “Hey, get the hell out of here!”
   - [Mild] Chiles: “You damn right it isn't.”
   - [Mild] Jackie: “Hello? Damn. They're ready.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
+  - [Caution] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”

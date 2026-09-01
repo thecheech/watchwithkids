@@ -9,14 +9,14 @@ URL: https://watchwiththekids.com/ep/avatar/0101.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Explicit] The camera moves back again to show the threesome at the base of the iceberg.
+  - [Too much] The camera moves back again to show the threesome at the base of the iceberg.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 2 moment(s)
-  - [Explicit] [Annoyed.] What is this, a weapon? You can't stab anything with this!
-  - [Explicit] Aang uses a small air current to get his staff back.] It's not for stabbing! It's for airbending. [He opens his staff into a glider, making Sokka gasp in fright and cover his head with his hands.
+  - [Too much] [Annoyed.] What is this, a weapon? You can't stab anything with this!
+  - [Too much] Aang uses a small air current to get his staff back.] It's not for stabbing! It's for airbending. [He opens his staff into a glider, making Sokka gasp in fright and cover his head with his hands.
 - Racism & slurs — 1 moment(s)
-  - [Explicit] Katara hops across the short distance between her floe and the iceberg on five tiny chinks of ice; Sokka, close behind her, does the same.
+  - [Too much] Katara hops across the short distance between her floe and the iceberg on five tiny chinks of ice; Sokka, close behind her, does the same.
 
 ## S1 E2 — The Avatar Returns
 URL: https://watchwiththekids.com/ep/avatar/0102.html
@@ -28,18 +28,18 @@ URL: https://watchwiththekids.com/ep/avatar/0103.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Explicit] Cut to a closer shot of the threesome.
-  - [Explicit] Frontal view of the erect flying lemur, as it sits down and lowers his ears, blinking at the appeared threesome.
+  - [Too much] Cut to a closer shot of the threesome.
+  - [Too much] Frontal view of the erect flying lemur, as it sits down and lowers his ears, blinking at the appeared threesome.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 
 ## S1 E4 — The Warriors of Kyoshi
 URL: https://watchwiththekids.com/ep/avatar/0104.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] The rider stabs at her with his spear.
-  - [Moderate] [Closeup of Sokka, the camera pans down to reveal the entire uniform close by.] The silk threads symbolize the brave blood that flows through our veins.
+  - [Too much] The rider stabs at her with his spear.
+  - [Caution] [Closeup of Sokka, the camera pans down to reveal the entire uniform close by.] The silk threads symbolize the brave blood that flows through our veins.
   - [Mild] [Angrily grunting to himself.] I can't believe I got beat up by a bunch of girls.
   - [Mild] Sokka bends through his knees and attacks the female warrior by trying to punch her.
 
@@ -48,17 +48,17 @@ URL: https://watchwiththekids.com/ep/avatar/0105.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Explicit] …into a hug.] Love each other, [Cut to a dismayed looking king.] respect all life, [Cut to a shot of the threesome walking backward toward the exit.] and don't run with your spears.
-  - [Explicit] [Cut to the threesome. Sokka holds his hand for his mouth; whispering.] We're in serious trouble. This guy is nuts.
+  - [Too much] …into a hug.] Love each other, [Cut to a dismayed looking king.] respect all life, [Cut to a shot of the threesome walking backward toward the exit.] and don't run with your spears.
+  - [Too much] [Cut to the threesome. Sokka holds his hand for his mouth; whispering.] We're in serious trouble. This guy is nuts.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 
 ## S1 E6 — Imprisoned
 URL: https://watchwiththekids.com/ep/avatar/0106.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Every child in my Water Tribe village was rocked to sleep with stories of the brave Earth Kingdom, and the courageous earthbenders who guard its borders.
+  - [Caution] Every child in my Water Tribe village was rocked to sleep with stories of the brave Earth Kingdom, and the courageous earthbenders who guard its borders.
 - Violence & injury — 2 moment(s)
   - [Mild] Momo coos, and sniffs the rock-shaped nut, before taking it with one of his paws and slapping it against a stone twice.
   - [Mild] The three, joined by Momo, hide behind a fallen tree and spy on a young boy bending boulders into the air and punching them into the side of the ravine.
@@ -124,10 +124,10 @@ URL: https://watchwiththekids.com/ep/avatar/0115.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Explicit] Nyla soon finds Katara's purple scent on the necklace, and the threesome head off.
-  - [Explicit] The threesome leave on Nyla, and the scene cuts back to Bato's ship, which is now sailing close to shore.
+  - [Too much] Nyla soon finds Katara's purple scent on the necklace, and the threesome head off.
+  - [Too much] The threesome leave on Nyla, and the scene cuts back to Bato's ship, which is now sailing close to shore.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 1 moment(s)
   - [Mild] Zuko punches and kicks at Aang, sending fire blasts at him.
 
@@ -141,7 +141,7 @@ URL: https://watchwiththekids.com/ep/avatar/0117.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] How can I be proud of you when your inventions are being used for murder?
+  - [Too much] How can I be proud of you when your inventions are being used for murder?
   - [Mild] Cut to a frontal shot of the mechanist, pleased that Sokka is interested.] If you like that, wait till you see my finger-safe knife sharpener.
 
 ## S1 E18 — The Waterbending Master
@@ -161,7 +161,7 @@ URL: https://watchwiththekids.com/ep/avatar/0120.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] A moment later, a white face appears with gray patches around its eyes and luscious, blood-red lips.
+  - [Caution] A moment later, a white face appears with gray patches around its eyes and luscious, blood-red lips.
 
 ## S2 E1 — The Avatar State
 URL: https://watchwiththekids.com/ep/avatar/0201.html
@@ -179,7 +179,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Names? Of course we have names. [Song turns to see Iroh scratching and glares at him, before slapping his hand away.] I'm, uh ... Lee and this is my Uncle, uh ... Mushi?
 - Swearing — 1 moment(s)
-  - [Moderate] Cuts to a close-up of a badgermole who cocks its head curiously.
+  - [Caution] Cuts to a close-up of a badgermole who cocks its head curiously.
 
 ## S2 E3 — Return to Omashu
 URL: https://watchwiththekids.com/ep/avatar/0203.html
@@ -200,15 +200,15 @@ URL: https://watchwiththekids.com/ep/avatar/0205.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Explicit] The threesome is walking up a gentle slope.
+  - [Too much] The threesome is walking up a gentle slope.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 6 moment(s)
-  - [Explicit] [Calmly.] I find that hard to swallow, [Raising his voice.] considering what you did to us in your past life! It was Avatar Kyoshi; she murdered our glorious leader, Chin the Great.
-  - [Explicit] [Utterly shocked.] You think that I ... murdered someone?
-  - [Explicit] [Unhappy.] I can't do that with people thinking I'm a murderer either. I need you guys to help prove my innocence.
-  - [Explicit] [Walking over to Aang.] This is ridiculous! [Points at Aang while he addresses the audience.] For the murder of Chin the Great, this court finds the Avatar
-  - [Explicit] The overview shot in the flashback fades for the present day overview shot of that same cliff where now a temple is build.
+  - [Too much] [Calmly.] I find that hard to swallow, [Raising his voice.] considering what you did to us in your past life! It was Avatar Kyoshi; she murdered our glorious leader, Chin the Great.
+  - [Too much] [Utterly shocked.] You think that I ... murdered someone?
+  - [Too much] [Unhappy.] I can't do that with people thinking I'm a murderer either. I need you guys to help prove my innocence.
+  - [Too much] [Walking over to Aang.] This is ridiculous! [Points at Aang while he addresses the audience.] For the murder of Chin the Great, this court finds the Avatar
+  - [Too much] The overview shot in the flashback fades for the present day overview shot of that same cliff where now a temple is build.
   - [Mild] Sokka and Katara look very worried as the wheel starts to slow down. It passes by "strangled by a platypus bear" and "eaten by sharks." Aang anxiously awaits his punishment. The wheel comes to a halt.
 
 ## S2 E6 — The Blind Bandit
@@ -223,7 +223,7 @@ URL: https://watchwiththekids.com/ep/avatar/0207.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
-  - [Explicit] He starts stabbing a nearby dead tree trunk repeatedly, his tongue lolling out of his mouth and breathes heavily in effort as Zuko silently approaches behind him.
+  - [Too much] He starts stabbing a nearby dead tree trunk repeatedly, his tongue lolling out of his mouth and breathes heavily in effort as Zuko silently approaches behind him.
   - [Mild] Two of the other men turn around and punch him in the stomach once each.
   - [Mild] When they ordered us to give them food, Lee pulled a knife on them!
   - [Mild] He goes to attack Zuko, who pulls out his sword and punches the other man in the stomach with the hilt without fully unsheathing his sword.
@@ -235,9 +235,9 @@ URL: https://watchwiththekids.com/ep/avatar/0208.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] [Annoyed; pushes Katara off to the side.] Hey, how's a guy supposed to sleep with all this yelling [To Toph.] and earthquaking?
+  - [Caution] [Annoyed; pushes Katara off to the side.] Hey, how's a guy supposed to sleep with all this yelling [To Toph.] and earthquaking?
 - Violence & injury — 3 moment(s)
-  - [Moderate] "Both"?! [Rapidly turns to face Aang, her expression crazed and her eyes bloodshot.] I'M COMPLETELY CALM!!
+  - [Caution] "Both"?! [Rapidly turns to face Aang, her expression crazed and her eyes bloodshot.] I'M COMPLETELY CALM!!
   - [Mild] He throws his boomerang in Mai's direction, however, the knife thrower merely leaps off her lizard, avoiding the attack.
   - [Mild] She begins to draw a stream of water with which to attack Mai, however, the knife thrower hurls two shuriken knives her way.
 
@@ -246,7 +246,7 @@ URL: https://watchwiththekids.com/ep/avatar/0209.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Some call lightning the cold-blooded fire.
+  - [Caution] Some call lightning the cold-blooded fire.
 
 ## S2 E10 — The Library
 URL: https://watchwiththekids.com/ep/avatar/0210.html
@@ -284,12 +284,12 @@ URL: https://watchwiththekids.com/ep/avatar/0214.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Explicit] Cut to side-view of the threesome.
-  - [Explicit] We've been talking, [Cut to side-view of the threesome, tea shop in background.] and we think you're becoming obsessed with this. It's not healthy.
+  - [Too much] Cut to side-view of the threesome.
+  - [Too much] We've been talking, [Cut to side-view of the threesome, tea shop in background.] and we think you're becoming obsessed with this. It's not healthy.
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
 - Violence & injury — 1 moment(s)
-  - [Explicit] As Jet swings at Zuko's feet, Zuko stabs one of his broadswords through the hilt, pinning it to the ground. Jet looks at it with annoyance before focusing back on Zuko.
+  - [Too much] As Jet swings at Zuko's feet, Zuko stabs one of his broadswords through the hilt, pinning it to the ground. Jet looks at it with annoyance before focusing back on Zuko.
 
 ## S2 E15 — The Tales of Ba Sing Se
 URL: https://watchwiththekids.com/ep/avatar/0215.html
@@ -311,7 +311,7 @@ URL: https://watchwiththekids.com/ep/avatar/0217.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] She stabs her finger at Jet once more for emphasis, eyes narrowed. Cut to Jet entering a dimly lit warehouse, which sits empty except for a few sacks and a pile of canvas and rope.
+  - [Too much] She stabs her finger at Jet once more for emphasis, eyes narrowed. Cut to Jet entering a dimly lit warehouse, which sits empty except for a few sacks and a pile of canvas and rope.
 
 ## S2 E18 — The Earth King
 URL: https://watchwiththekids.com/ep/avatar/0218.html
@@ -332,7 +332,7 @@ URL: https://watchwiththekids.com/ep/avatar/0220.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Spreading war and violence and hatred is in your blood!
+  - [Caution] Spreading war and violence and hatred is in your blood!
 
 ## S3 E1 — The Awakening
 URL: https://watchwiththekids.com/ep/avatar/0301.html
@@ -357,9 +357,9 @@ URL: https://watchwiththekids.com/ep/avatar/0304.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Piandao moves his head out of the way and stabs at Sokka, who sways back and avoids the attack; Piandao sweeps his sword at Sokka's legs, but Sokka jumps over it and lunges at Piandao, thrusting his sword forward.
-  - [Explicit] The scene comes back to normal speed and cuts to a frontal view as Sokka stands back up and stumbles forward, stabbing his sword into the ground to stop his fall.
-  - [Explicit] Side-view of the fight as Sokka watches his sword fly into the air and stab into the ground several feet away.
+  - [Too much] Piandao moves his head out of the way and stabs at Sokka, who sways back and avoids the attack; Piandao sweeps his sword at Sokka's legs, but Sokka jumps over it and lunges at Piandao, thrusting his sword forward.
+  - [Too much] The scene comes back to normal speed and cuts to a frontal view as Sokka stands back up and stumbles forward, stabbing his sword into the ground to stop his fall.
+  - [Too much] Side-view of the fight as Sokka watches his sword fly into the air and stab into the ground several feet away.
 
 ## S3 E5 — The Beach
 URL: https://watchwiththekids.com/ep/avatar/0305.html
@@ -391,9 +391,9 @@ URL: https://watchwiththekids.com/ep/avatar/0308.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Ominously.] Bloodbending.
-  - [Moderate] Using bloodbending, Hama forces the guard to grab hold of his keys and unlock her cell, thus marking her escape.
-  - [Moderate] My work is done. [Turns to Katara.] Congratulations, Katara. You're a bloodbender.
+  - [Caution] Ominously.] Bloodbending.
+  - [Caution] Using bloodbending, Hama forces the guard to grab hold of his keys and unlock her cell, thus marking her escape.
+  - [Caution] My work is done. [Turns to Katara.] Congratulations, Katara. You're a bloodbender.
 
 ## S3 E9 — Nightmares and Daydreams
 URL: https://watchwiththekids.com/ep/avatar/0309.html
@@ -446,8 +446,8 @@ URL: https://watchwiththekids.com/ep/avatar/0316.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] The camera focuses on Katara using bloodbending on him. With swift motions, she forces him to the ground. Zuko looks on at her, momentarily stunned before turning his attention back to the commander.
-  - [Moderate] Katara bloodbends him, fixing him into a position where the Southern Raiders commander looks right into her eyes.
+  - [Caution] The camera focuses on Katara using bloodbending on him. With swift motions, she forces him to the ground. Zuko looks on at her, momentarily stunned before turning his attention back to the commander.
+  - [Caution] Katara bloodbends him, fixing him into a position where the Southern Raiders commander looks right into her eyes.
   - [Mild] Back on the airship. Azula and Zuko are evenly matched until they both hit each other with fire-packed punches, launching them both off the airship. Zuko is caught by Katara, but Azula is left falling.
   - [Mild] Everybody except Katara holds up their cups.] Hear! Hear! [Aang nudges him with his elbow, before Toph lightly punches him.
 

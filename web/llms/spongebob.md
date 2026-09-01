@@ -51,7 +51,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: SpongeBob falls victim to a scheme by the evil Plankton, Mr. Krabs' minuscule arch-rival with the Napoleon complex. Plankton hides out in SpongeBob's head and takes control of his brain. SpongeBob finds he must fight his own body to prevent himself from handing over the secret Krabby Patty recipe to Plankton.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Karen Plankton: “Seaweed: 50% Sea, 50% Weed. [a picture of the seaweed appears on the screen]”
+  - [Caution] Karen Plankton: “Seaweed: 50% Sea, 50% Weed. [a picture of the seaweed appears on the screen]”
 
 ## S1 E8 — Naughty Nautical Neighbors
 URL: https://watchwiththekids.com/ep/spongebob/0108.html
@@ -79,7 +79,7 @@ Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: SpongeBob and Patrick learn that their heroes, Mermaid Man and Barnacle Boy, are in fact living in the Shady Shoals underwater retirement home.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] SpongeBob: “[approaches Mermaid Man, who is sleeping with his eyes open] Ever alert, Mermaid Man has trained himself to sleep with his eyes open.”
+  - [Caution] SpongeBob: “[approaches Mermaid Man, who is sleeping with his eyes open] Ever alert, Mermaid Man has trained himself to sleep with his eyes open.”
 - Violence & injury — 1 moment(s)
   - [Mild] SpongeBob: “Do you remember the time the food supply in Atlantis was running low? So you invented a ray gun that make things grow six times their size to shoot at the kelp gardens.”
 
@@ -89,7 +89,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: SpongeBob loses his self-confidence when an arrogant customer claims SpongeBob forgot to put pickles on his Krabby Patty.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] SpongeBob: “[tries sleeping with a mattress over his head] Negative.”
+  - [Caution] SpongeBob: “[tries sleeping with a mattress over his head] Negative.”
 
 ## S1 E14 — Hall Monitor
 URL: https://watchwiththekids.com/ep/spongebob/0114.html
@@ -116,10 +116,10 @@ URL: https://watchwiththekids.com/ep/spongebob/0117.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] As SpongeBob is sleeping with his boots on, Mr.
+  - [Caution] As SpongeBob is sleeping with his boots on, Mr.
 - Violence & injury — 2 moment(s)
-  - [Moderate] He can do nothing but lie there with bloodshot eyes as the window makes squeaky noises all night, as if it is clapping at him.
-  - [Moderate] Mr. Krabs: “[his eyes go bloodshot] I, uh... uh...”
+  - [Caution] He can do nothing but lie there with bloodshot eyes as the window makes squeaky noises all night, as if it is clapping at him.
+  - [Caution] Mr. Krabs: “[his eyes go bloodshot] I, uh... uh...”
 
 ## S1 E18 — Nature Pants
 URL: https://watchwiththekids.com/ep/spongebob/0118.html
@@ -168,7 +168,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0125.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “Squidward manages to climb out of the hole, he also grunts from exhaustion; SpongeBob wakes up with bloodshot eyes to hear some hammering] Squidward!”
+  - [Caution] SpongeBob: “Squidward manages to climb out of the hole, he also grunts from exhaustion; SpongeBob wakes up with bloodshot eyes to hear some hammering] Squidward!”
 
 ## S1 E26 — Scaredy Pants
 URL: https://watchwiththekids.com/ep/spongebob/0126.html
@@ -232,7 +232,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0135.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Patrick: “[has bloodshot eyes, starts to sweat] I still can't read the sign! [shaking in fear] I wanna go home!”
+  - [Caution] Patrick: “[has bloodshot eyes, starts to sweat] I still can't read the sign! [shaking in fear] I wanna go home!”
 
 ## S1 E36 — Texas
 URL: https://watchwiththekids.com/ep/spongebob/0136.html
@@ -280,7 +280,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0202.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mr. Krabs: “[regaining consciousness] Oh, Pearly... [sniffs] Is that a $20? [pockets the bill] Oh, SpongeBob, how could we have done such a thing to me own flesh and blood? [cries]”
+  - [Caution] Mr. Krabs: “[regaining consciousness] Oh, Pearly... [sniffs] Is that a $20? [pockets the bill] Oh, SpongeBob, how could we have done such a thing to me own flesh and blood? [cries]”
 
 ## S2 E3 — Your Shoe's Untied
 URL: https://watchwiththekids.com/ep/spongebob/0203.html
@@ -321,14 +321,14 @@ URL: https://watchwiththekids.com/ep/spongebob/0209.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “Who's the doctor here? [Squidward's heart squirts blood. SpongeBob checks his operation off the list as well as some other items while he laughs] The last thing on the list is...”
+  - [Caution] SpongeBob: “Who's the doctor here? [Squidward's heart squirts blood. SpongeBob checks his operation off the list as well as some other items while he laughs] The last thing on the list is...”
 
 ## S2 E10 — Imitation Krabs
 URL: https://watchwiththekids.com/ep/spongebob/0210.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “[unable to handle the pressure, explodes in frustration] Quiet! [SpongeBob is holding a giant hose in his hands and his eyes bloodshot] Until I know who the real Mr.”
+  - [Caution] SpongeBob: “[unable to handle the pressure, explodes in frustration] Quiet! [SpongeBob is holding a giant hose in his hands and his eyes bloodshot] Until I know who the real Mr.”
 
 ## S2 E11 — Wormy
 URL: https://watchwiththekids.com/ep/spongebob/0211.html
@@ -395,7 +395,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0222.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sexual insults — 1 moment(s)
-  - [Moderate] Joe: “Easy, girl! It's me, Joe! Remember?”
+  - [Caution] Joe: “Easy, girl! It's me, Joe! Remember?”
 
 ## S2 E24 — Life of Crime
 URL: https://watchwiththekids.com/ep/spongebob/0224.html
@@ -407,7 +407,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0225.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] SpongeBob: “I love my job at the Krusty Krab, I sleep with my shoes on, I like jelly on both sides of my toast, I've got an overdue library book, I think jellyfishing and bubble-blowing are the sea bee's knees...”
+  - [Caution] SpongeBob: “I love my job at the Krusty Krab, I sleep with my shoes on, I like jelly on both sides of my toast, I've got an overdue library book, I think jellyfishing and bubble-blowing are the sea bee's knees...”
 - Violence & injury — 2 moment(s)
   - [Mild] Patrick: “He then steps again, making a loud machine gun noise.”
   - [Mild] Patrick: “…Box Bandit, and prepare for the most unpleasant pillow fight of your life! [readies his pillow like a gun, ready to attack him]”
@@ -439,7 +439,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0230.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Mr. Krabs: “He's gonna stab you in the back.”
+  - [Too much] Mr. Krabs: “He's gonna stab you in the back.”
 
 ## S2 E31 — Just One Bite
 URL: https://watchwiththekids.com/ep/spongebob/0231.html
@@ -464,29 +464,29 @@ URL: https://watchwiththekids.com/ep/spongebob/0234.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Squidward: “…He can't treat us like this anymore! [SpongeBob goes back to the door and Squidward's eyes become bloodshot.] He owes us for all the precious, irretrievable moments we've wasted in this trash heap.”
-  - [Moderate] Squidward's eyes become bloodshot.
+  - [Caution] Squidward: “…He can't treat us like this anymore! [SpongeBob goes back to the door and Squidward's eyes become bloodshot.] He owes us for all the precious, irretrievable moments we've wasted in this trash heap.”
+  - [Caution] Squidward's eyes become bloodshot.
 
 ## S2 E35 — Procrastination
 URL: https://watchwiththekids.com/ep/spongebob/0235.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “[struggles to write] I know! I just need to get a little blood pumpin' in the old noodle.”
+  - [Caution] SpongeBob: “[struggles to write] I know! I just need to get a little blood pumpin' in the old noodle.”
 
 ## S2 E36 — I'm with Stupid
 URL: https://watchwiththekids.com/ep/spongebob/0236.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] SpongeBob: “No, they don't, Patrick. Parents just like to push your buttons. Like this! [pushes Patrick's nipples and his eyes elongate] Nee!”
+  - [Too much] SpongeBob: “No, they don't, Patrick. Parents just like to push your buttons. Like this! [pushes Patrick's nipples and his eyes elongate] Nee!”
 
 ## S3 E1 — Mermaid Man and Barnacle Boy IV
 URL: https://watchwiththekids.com/ep/spongebob/0301.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Moderate] Squidward uses a saw to tear a blood vein in half and Incidental 42 tries to break a bone, but everyone stops when SpongeBob shrinks the city
+  - [Caution] Squidward uses a saw to tear a blood vein in half and Incidental 42 tries to break a bone, but everyone stops when SpongeBob shrinks the city
   - [Mild] Squidward: “The guy punches Squidward in the face and storms out.”
   - [Mild] Patrick: “[about to punch Squidward] And then comes a giant fist!”
   - [Mild] Patrick: “Oh... [about to punch Squidward anyway] And then comes a giant-- [Squidward screams]”
@@ -505,7 +505,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0303.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] His eyes are now bloodshot.
+  - [Caution] His eyes are now bloodshot.
 
 ## S3 E4 — Frankendoodle
 URL: https://watchwiththekids.com/ep/spongebob/0304.html
@@ -519,9 +519,9 @@ URL: https://watchwiththekids.com/ep/spongebob/0307.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] SpongeBob: “[disgusted] Eww, gross, germs, it's all icky and corpse-y! [gagging and shrieking while constantly spraying it with disinfectant] Eww... eww... [drags the body with a tissue]”
-  - [Explicit] Officer Nancy: “Step aside. You people act like you've committed a murder.”
-  - [Moderate] Mr. Krabs: “[enraged, with bloodshot eyes and the background turns red] Free.. food?!”
+  - [Too much] SpongeBob: “[disgusted] Eww, gross, germs, it's all icky and corpse-y! [gagging and shrieking while constantly spraying it with disinfectant] Eww... eww... [drags the body with a tissue]”
+  - [Too much] Officer Nancy: “Step aside. You people act like you've committed a murder.”
+  - [Caution] Mr. Krabs: “[enraged, with bloodshot eyes and the background turns red] Free.. food?!”
 
 ## S3 E9 — As Seen on TV
 URL: https://watchwiththekids.com/ep/spongebob/0309.html
@@ -535,7 +535,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0310.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “…Squidward's been living at my house, drivin' me crazy! [shakes him violently with wide open and bloodshot eyes, screaming furiously while cowbells can be heard in the background] And you're not gonna hire him…”
+  - [Caution] SpongeBob: “…Squidward's been living at my house, drivin' me crazy! [shakes him violently with wide open and bloodshot eyes, screaming furiously while cowbells can be heard in the background] And you're not gonna hire him…”
 
 ## S3 E11 — No Weenies Allowed
 URL: https://watchwiththekids.com/ep/spongebob/0311.html
@@ -591,9 +591,9 @@ URL: https://watchwiththekids.com/ep/spongebob/0318.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Squidward's work station is covered in ketchup and mustard. The octopus is sprawled out sleeping with a dance magazine on his face and a "Do not disturb" sign hanging on his left feet. He wakes up.
+  - [Caution] Squidward's work station is covered in ketchup and mustard. The octopus is sprawled out sleeping with a dance magazine on his face and a "Do not disturb" sign hanging on his left feet. He wakes up.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Narrator: “Like precious, precious blood in an animal, customers are what keeps The Krusty Krab strong and alive.”
+  - [Caution] Narrator: “Like precious, precious blood in an animal, customers are what keeps The Krusty Krab strong and alive.”
 
 ## S3 E19 — Chocolate with Nuts
 URL: https://watchwiththekids.com/ep/spongebob/0319.html
@@ -655,8 +655,8 @@ URL: https://watchwiththekids.com/ep/spongebob/0328.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Mr. Krabs: “You know, I love staring at delicates as much as the next guy, but it's just that I thought we'd see more of the nightlife. Something that'll give you that wild and crazy hot-blooded feeling, if you know what I mean.”
-  - [Moderate] Mr. Krabs: “Debauchery? I never thought of picking up trash under the highway as hot-blooded, but if it's what the kids are into...”
+  - [Caution] Mr. Krabs: “You know, I love staring at delicates as much as the next guy, but it's just that I thought we'd see more of the nightlife. Something that'll give you that wild and crazy hot-blooded feeling, if you know what I mean.”
+  - [Caution] Mr. Krabs: “Debauchery? I never thought of picking up trash under the highway as hot-blooded, but if it's what the kids are into...”
   - [Mild] Mr. Krabs: “…swings the screaming kids around and around then off his hat] You think this is cool?! How about this?! [punches an animatronic bunny's head off, and then jumps on top of the decapitated bunny as he speaks] And this?”
 
 ## S3 E29 — The Sponge Who Could Fly (AKA The Lost Episode)
@@ -776,7 +776,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0407.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Mr. Krabs: “You know, I may not make as much as your fancy-schmancy-migger restaurant chain, but it's the blood, sweat and tears of a hard day's work.”
+  - [Caution] Mr. Krabs: “You know, I may not make as much as your fancy-schmancy-migger restaurant chain, but it's the blood, sweat and tears of a hard day's work.”
   - [Mild] Carl: “A big strong guy slowly slides out of the Human Resources doorway, punching his fist in his open hand, menacingly] ...would you?”
 
 ## S4 E8 — Funny Pants
@@ -796,7 +796,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0411.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Bubble transition to Patrick looking at X-rays of him and SpongeBob's head. He then meditates on top of his rock, studies Squidward, and reads a book. He puts the book down and shows his bloodshot eyes.
+  - [Caution] Bubble transition to Patrick looking at X-rays of him and SpongeBob's head. He then meditates on top of his rock, studies Squidward, and reads a book. He puts the book down and shows his bloodshot eyes.
 
 ## S4 E12 — SquidBob TentaclePants
 URL: https://watchwiththekids.com/ep/spongebob/0412.html
@@ -815,7 +815,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0414.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sergeant Roderick: “Your spine will break, your teeth will ache, your eyes will be bloodshot.”
+  - [Caution] Sergeant Roderick: “Your spine will break, your teeth will ache, your eyes will be bloodshot.”
 
 ## S4 E15 — Ghost Host
 URL: https://watchwiththekids.com/ep/spongebob/0415.html
@@ -866,7 +866,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0421.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Mr. Krabs: “What is this? [takes the flag and looks at it for any secret material] Ha-ha! Very funny, Plankton! But you're gonna have to do a lot better than taking a stab at my illiteracy to offend me.”
+  - [Too much] Mr. Krabs: “What is this? [takes the flag and looks at it for any secret material] Ha-ha! Very funny, Plankton! But you're gonna have to do a lot better than taking a stab at my illiteracy to offend me.”
   - [Mild] Mr. Krabs: “Huh? Oh, [scoffs] I get it. Stick to your guns, and eventually we'll all believe it. Soften us up and when our backs are turned, you'll make your move. [drops the formula] Oops...”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Plankton: “You forgot something. [throws the formula back at Mr. Krabs] Can't you understand I've wasted so much time chasing after you? And now I have something that's mine. And it makes me happy. [walks off]”
@@ -876,7 +876,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0422.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Patrick: “This disease will ravage your body with bloodshot eyes, loss of balance, messy pants, ticklish rib cage, severely untrimmed toenails, and finally, the bite from that infected snail will turn you into...a zombie.”
+  - [Caution] Patrick: “This disease will ravage your body with bloodshot eyes, loss of balance, messy pants, ticklish rib cage, severely untrimmed toenails, and finally, the bite from that infected snail will turn you into...a zombie.”
 
 ## S4 E23 — Squidtastic Voyage
 URL: https://watchwiththekids.com/ep/spongebob/0423.html
@@ -971,10 +971,10 @@ URL: https://watchwiththekids.com/ep/spongebob/0504.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Moderate] Fish: “Why, they're the most ferocious, bloodthirsty biker gang under the sea. They've destroyed entire cities in an afternoon! [laughs maniacally and then jumps back into the hole he was digging]”
-  - [Moderate] SpongeBob: “Bloodthirsty bikers? And they're headed straight for Bikini Bottom! I've got to warn everybody! I better take the shortcut!”
-  - [Moderate] Mr. Krabs: “With the special biker parking and authentic biker decor, with real bloodstains.”
-  - [Moderate] SpongeBob: “Oh, no thank you, Patrick. I'm drinking diet blood. [both take sips of their drinks] See, Squidward? We walk the walk, but can we talk the talk? Do you want to join our biker gang?”
+  - [Caution] Fish: “Why, they're the most ferocious, bloodthirsty biker gang under the sea. They've destroyed entire cities in an afternoon! [laughs maniacally and then jumps back into the hole he was digging]”
+  - [Caution] SpongeBob: “Bloodthirsty bikers? And they're headed straight for Bikini Bottom! I've got to warn everybody! I better take the shortcut!”
+  - [Caution] Mr. Krabs: “With the special biker parking and authentic biker decor, with real bloodstains.”
+  - [Caution] SpongeBob: “Oh, no thank you, Patrick. I'm drinking diet blood. [both take sips of their drinks] See, Squidward? We walk the walk, but can we talk the talk? Do you want to join our biker gang?”
   - [Mild] Mr. Krabs: “You're not running off any of me paying customers. You can stay and get beat up in the parking lot if you wish.”
 
 ## S5 E5 — Best Frenemies
@@ -984,7 +984,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] SpongeBob: “Krabs and Plankton gasp in shock when they see SpongeBob covered in green fur and he's naked] They've shut down the Kelpshakes restaurants!”
 - Violence & injury — 2 moment(s)
-  - [Moderate] Mr. Krabs: “[Pearl walks by while drinking a Kelpshake] Me own flesh and blood.”
+  - [Caution] Mr. Krabs: “[Pearl walks by while drinking a Kelpshake] Me own flesh and blood.”
   - [Mild] Speaker: “You have three seconds until spontaneous combustion! [a laser gun comes out]”
 
 ## S5 E6 — Spy Buddies
@@ -1038,7 +1038,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0514.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “…Squidward is pogo-dancing with your best friend? [gasps loudly as his eyes get exaggeratedly wide and bloodshot] Pogo-dancing with your best friend?!”
+  - [Caution] SpongeBob: “…Squidward is pogo-dancing with your best friend? [gasps loudly as his eyes get exaggeratedly wide and bloodshot] Pogo-dancing with your best friend?!”
 
 ## S5 E15 — Roller Cowards
 URL: https://watchwiththekids.com/ep/spongebob/0515.html
@@ -1064,14 +1064,14 @@ URL: https://watchwiththekids.com/ep/spongebob/0518.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mr. Krabs: “Hey, Squidward, have you seen SpongeBob? [at that moment, a very drowsy and tired SpongeBob walks in. We see a close-up of his 5 o'clock shadow, bloodshot eyes, and droopy nose]”
+  - [Caution] Mr. Krabs: “Hey, Squidward, have you seen SpongeBob? [at that moment, a very drowsy and tired SpongeBob walks in. We see a close-up of his 5 o'clock shadow, bloodshot eyes, and droopy nose]”
 
 ## S5 E19 — Money Talks
 URL: https://watchwiththekids.com/ep/spongebob/0519.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mr. Krabs: “[chuckles as he has bloodshot eyes] Take this bag as far away as possible and bury it.”
+  - [Caution] Mr. Krabs: “[chuckles as he has bloodshot eyes] Take this bag as far away as possible and bury it.”
 
 ## S5 E20 — SpongeBob vs. The Patty Gadget
 URL: https://watchwiththekids.com/ep/spongebob/0520.html
@@ -1090,7 +1090,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0522.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Sandy: “'Cause he's hungry. When a flea bites ya, it's 'cause he's sucking up your blood for nutrition.”
+  - [Caution] Sandy: “'Cause he's hungry. When a flea bites ya, it's 'cause he's sucking up your blood for nutrition.”
   - [Mild] Patrick: “Yeah, good to see ya. [They run toward the door, but a flea tornado beats them there. The tornado then chases after them]”
 
 ## S5 E23 — The Donut of Shame
@@ -1098,7 +1098,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0523.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Patrick: “SpongeBob? Sponge- [notices SpongeBob sleeping with a donut in his hand] That's a good lookin' donut...”
+  - [Caution] Patrick: “SpongeBob? Sponge- [notices SpongeBob sleeping with a donut in his hand] That's a good lookin' donut...”
 
 ## S5 E24 — The Krusty Plate
 URL: https://watchwiththekids.com/ep/spongebob/0524.html
@@ -1143,14 +1143,14 @@ URL: https://watchwiththekids.com/ep/spongebob/0531.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Le Schnook: “It is the bill for my services. [Mr. Krabs unfolds the bill. His eyes become bloodshot, and he is unable to move]”
+  - [Caution] Le Schnook: “It is the bill for my services. [Mr. Krabs unfolds the bill. His eyes become bloodshot, and he is unable to move]”
 
 ## S5 E32 — The Inmates of Summer
 URL: https://watchwiththekids.com/ep/spongebob/0532.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Warden: “We see SpongeBob laying on a corpse]”
+  - [Too much] Warden: “We see SpongeBob laying on a corpse]”
 
 ## S5 E33 — The Two Faces of Squidward
 URL: https://watchwiththekids.com/ep/spongebob/0533.html
@@ -1181,7 +1181,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0537.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Plankton: “I think it's time for you to lose some weight, fatty! That's what it is!”
+  - [Caution] Plankton: “I think it's time for you to lose some weight, fatty! That's what it is!”
 
 ## S5 E38 — Stanley S. SquarePants
 URL: https://watchwiththekids.com/ep/spongebob/0538.html
@@ -1193,7 +1193,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0539.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] SpongeBob: “SpongeBob's eyes are bloodshot, his clothes are ragged, and he has a 5 o'clock shadow.”
+  - [Caution] SpongeBob: “SpongeBob's eyes are bloodshot, his clothes are ragged, and he has a 5 o'clock shadow.”
   - [Mild] Patrick: “Oops, I forgot the bath beads! [takes out a carrot and knife, then cuts up the carrot, which is placed into the water]”
 
 ## S6 E1 — Krabby Road
@@ -1229,15 +1229,15 @@ URL: https://watchwiththekids.com/ep/spongebob/0606.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “[the camera focuses on a closeup of his bloodshot eyes with boogers, and he closes his eyes, but then his alarm rings.”
+  - [Caution] SpongeBob: “[the camera focuses on a closeup of his bloodshot eyes with boogers, and he closes his eyes, but then his alarm rings.”
 
 ## S6 E7 — Spongicus
 URL: https://watchwiththekids.com/ep/spongebob/0607.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Squidward: “They've all taken their grand-guppies to see the guts and gore across the street.”
-  - [Moderate] Plankton: “Enough dilly-dallying. Send out the blood sausages! [two muscular fish put a necklace of sausages on Patrick]”
+  - [Caution] Squidward: “They've all taken their grand-guppies to see the guts and gore across the street.”
+  - [Caution] Plankton: “Enough dilly-dallying. Send out the blood sausages! [two muscular fish put a necklace of sausages on Patrick]”
   - [Mild] SpongeBob: “Huh? [the lion eats the sausage that SpongeBob slapped out of Patrick's hand, then resumes to chase them again] That's it, Patrick!”
 
 ## S6 E8 — The Splinter
@@ -1378,7 +1378,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0630.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] SpongeBob: “Oh, I suppose I should just tend to the affairs of my own realm. [to the little man in his sand castle] And I'll start by making a queen to rule by your side.”
+  - [Caution] SpongeBob: “Oh, I suppose I should just tend to the affairs of my own realm. [to the little man in his sand castle] And I'll start by making a queen to rule by your side.”
 - Violence & injury — 1 moment(s)
   - [Mild] Patrick: “[has a robot already built that punches through his own castle] I like you this much! [picks up SpongeBob's tank with SpongeBob screaming inside]”
 
@@ -1448,8 +1448,8 @@ URL: https://watchwiththekids.com/ep/spongebob/0710.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] SpongeBob: “Patrick had a bloody nose, so I was going to walk him home.”
-  - [Moderate] Mr. Krabs: “Oh, a bloody nose, eh?”
+  - [Caution] SpongeBob: “Patrick had a bloody nose, so I was going to walk him home.”
+  - [Caution] Mr. Krabs: “Oh, a bloody nose, eh?”
 
 ## S7 E11 — Chum Bucket Supreme
 URL: https://watchwiththekids.com/ep/spongebob/0711.html
@@ -1474,7 +1474,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0713.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Mr. Krabs: “[sees Patrick, sleeping with his head on a bowl of Kelpo] Surely Patrick could spare a few morsels.”
+  - [Caution] Mr. Krabs: “[sees Patrick, sleeping with his head on a bowl of Kelpo] Surely Patrick could spare a few morsels.”
 
 ## S7 E14 — Tentacle-Vision
 URL: https://watchwiththekids.com/ep/spongebob/0714.html
@@ -1610,21 +1610,21 @@ URL: https://watchwiththekids.com/ep/spongebob/0734.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Plankton: “It was certainly interesting, but I'd like to hear about your more recent affairs, like where you work, for instance.”
+  - [Caution] Plankton: “It was certainly interesting, but I'd like to hear about your more recent affairs, like where you work, for instance.”
 
 ## S7 E35 — The Cent of Money
 URL: https://watchwiththekids.com/ep/spongebob/0735.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] SpongeBob: “I'm not making up anything! [As Gary's bloodshot eyes go up and down in order] I know all about your little scheme! You're the one making up stories!”
+  - [Caution] SpongeBob: “I'm not making up anything! [As Gary's bloodshot eyes go up and down in order] I know all about your little scheme! You're the one making up stories!”
 
 ## S8 E1 — That Sinking Feeling
 URL: https://watchwiththekids.com/ep/spongebob/0801.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Squidward: “[Having bloodshot eyes as he shrieks in rage.] Thank you?!”
+  - [Caution] Squidward: “[Having bloodshot eyes as he shrieks in rage.] Thank you?!”
 
 ## S8 E2 — Karate Star
 URL: https://watchwiththekids.com/ep/spongebob/0802.html
@@ -1679,7 +1679,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Squidward sculpts a statue of Mr. Krabs for The Krusty Krab.
 Watch for:
 - Swearing — 1 moment(s)
-  - [Moderate] Sea Chicken: “[on TV] Cock-a-doodle-yum! [squawks] Rise and shine! We're the best restaurant in the sea!”
+  - [Caution] Sea Chicken: “[on TV] Cock-a-doodle-yum! [squawks] Rise and shine! We're the best restaurant in the sea!”
 
 ## S8 E10 — Whelk Attack
 URL: https://watchwiththekids.com/ep/spongebob/0810.html
@@ -1754,9 +1754,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Sandy and Plankton bond over their shared love.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sandy: “So where do I hook up my teleporter?”
+  - [Caution] Sandy: “So where do I hook up my teleporter?”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sandy: “SpongeBob! [screams at him with bloodshot eyes]”
+  - [Caution] Sandy: “SpongeBob! [screams at him with bloodshot eyes]”
 
 ## S9 E1 — A Friendly Game
 URL: https://watchwiththekids.com/ep/spongebob/0901.html
@@ -1776,7 +1776,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Patrick suddenly grows a very grown-up beard, he decides it's time to act like a grown-up and perhaps Squiward is the perfect squid to help him. But can it be done without leaving SpongeBob heartbroken?
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sea Urchin: “Hey! How's a sea urchin supposed to get any sleep with all these salty tears falling on him!?”
+  - [Caution] Sea Urchin: “Hey! How's a sea urchin supposed to get any sleep with all these salty tears falling on him!?”
 
 ## S9 E4 — Oral Report
 URL: https://watchwiththekids.com/ep/spongebob/0904.html
@@ -1805,7 +1805,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: All of Bikini Bottom enters a sleigh race to win $1 million. While racing, they are attacked by the abominable snow mollusk. Plankton takes advantage of everyone being gone to steal the Krabby Patty secret formula.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sandy: “[holds up an empty nut bag] I'm getting to the point where I can eat just about anything! [her eyes get bloodshot and drools, then thinks SpongeBob is cooked and on a stick] Mmmm...”
+  - [Caution] Sandy: “[holds up an empty nut bag] I'm getting to the point where I can eat just about anything! [her eyes get bloodshot and drools, then thinks SpongeBob is cooked and on a stick] Mmmm...”
 
 ## S9 E8 — Accidents Will Happen
 URL: https://watchwiththekids.com/ep/spongebob/0908.html
@@ -1837,7 +1837,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: The night before the big school dance, Mr. Krabs asks SpongeBob to help Pearl get rid of a barnacle on her face.
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] A teen bully fish does a wedgie to a teenage nerdy fish who screams but the nerdy fish twists his nipple really hard causing him to run off crying.
+  - [Too much] A teen bully fish does a wedgie to a teenage nerdy fish who screams but the nerdy fish twists his nipple really hard causing him to run off crying.
 
 ## S9 E13 — Pet Sitter Pat
 URL: https://watchwiththekids.com/ep/spongebob/0913.html
@@ -1861,7 +1861,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Plankton grows himself a second eye using SpongeBob's DNA, and becomes nice.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Plankton: “Tears, huh? I guess if I have to. [Stabs his foot broken with a crutch] Ow! [Starts crying] Will these do?”
+  - [Too much] Plankton: “Tears, huh? I guess if I have to. [Stabs his foot broken with a crutch] Ow! [Starts crying] Will these do?”
 
 ## S9 E16 — House Sittin' for Sandy
 URL: https://watchwiththekids.com/ep/spongebob/0916.html
@@ -1884,7 +1884,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: SpongeBob and Patrick find a houseboat haunted by a crew of ghost pirates--and get caught in the feud between them and the Flying Dutchman.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Sandy: “Hey, corpse breath! You better let my friends out of there if you know what's good for ya!”
+  - [Too much] Sandy: “Hey, corpse breath! You better let my friends out of there if you know what's good for ya!”
   - [Mild] Mr. Krabs: “Hey, you thieving bilge rat! I stole this gold fair and square! [Mr. Krabs and Poltergeist beat up each other trying to get possession of treasure chest, which flies into the air]”
 
 ## S9 E19 — Walking the Plankton
@@ -1913,7 +1913,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: SpongeBob accidentally stows away on Sandy's vacation to the Moon.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] SpongeBob: “Oh, Sandy. I'm sorry I activated it! How was I to know it was hooked up to your doorbell?”
+  - [Caution] SpongeBob: “Oh, Sandy. I'm sorry I activated it! How was I to know it was hooked up to your doorbell?”
 
 ## S9 E23 — A SquarePants Family Vacation
 URL: https://watchwiththekids.com/ep/spongebob/0923.html
@@ -1921,8 +1921,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: While on a family road trip to the Great Barrier Reef, SpongeBob and Patrick get lost and end up on the adventure of a lifetime.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Patrick: “[Sweating] Well, I'd probably be really enjoying the view if I still had some blood flowing in my arms. Ow!”
-  - [Moderate] SpongeBob: “Don't worry, Patrick, your blood flows not the only thing that's wearing thin! [Vine breaks, both screaming and swinging on a vine. SpongeBob sees different vine] Grab it, Patrick!”
+  - [Caution] Patrick: “[Sweating] Well, I'd probably be really enjoying the view if I still had some blood flowing in my arms. Ow!”
+  - [Caution] SpongeBob: “Don't worry, Patrick, your blood flows not the only thing that's wearing thin! [Vine breaks, both screaming and swinging on a vine. SpongeBob sees different vine] Grab it, Patrick!”
 
 ## S9 E24 — The Krabby Patty That Ate Bikini Bottom
 URL: https://watchwiththekids.com/ep/spongebob/0924.html
@@ -1948,7 +1948,7 @@ URL: https://watchwiththekids.com/ep/spongebob/0928.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] SpongeBob: “[to Jellien] Tonight, you'll sleep with me little jelly.”
+  - [Caution] SpongeBob: “[to Jellien] Tonight, you'll sleep with me little jelly.”
 
 ## S9 E29 — Are You Happy Now?
 URL: https://watchwiththekids.com/ep/spongebob/0929.html
@@ -1963,7 +1963,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Squidward has had enough of SpongeBob's annoying antics and issues a restraining order against him.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Dave: “Yes, I would like two Double Fried Kelp Fritters, three Krusty Krab Cream Filled Corals, and four Triple Fatty Krabby Patties. Is that too much?”
+  - [Caution] Dave: “Yes, I would like two Double Fried Kelp Fritters, three Krusty Krab Cream Filled Corals, and four Triple Fatty Krabby Patties. Is that too much?”
 
 ## S9 E31 — Glove World R.I.P.
 URL: https://watchwiththekids.com/ep/spongebob/0931.html
@@ -2064,7 +2064,7 @@ URL: https://watchwiththekids.com/ep/spongebob/1005.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Captain Frostymug: “…purpose is to transform you from mere guppies into cool, cold-drafted, chilled to the bone, ice cream blooded, licensed milkshake makin' guppies!”
+  - [Caution] Captain Frostymug: “…purpose is to transform you from mere guppies into cool, cold-drafted, chilled to the bone, ice cream blooded, licensed milkshake makin' guppies!”
 
 ## S10 E6 — Hello Bikini Bottom!
 URL: https://watchwiththekids.com/ep/spongebob/1006.html
@@ -2157,7 +2157,7 @@ URL: https://watchwiththekids.com/ep/spongebob/1023.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] Plankton: “The pod activates a giant plug] I hope you brought your dancing shoes! [the plug stabs on the bubble cornering SpongeBob, Patrick, and Sandy] 'Cause it's time to do the electric goo-boogaloo!”
+  - [Too much] Plankton: “The pod activates a giant plug] I hope you brought your dancing shoes! [the plug stabs on the bubble cornering SpongeBob, Patrick, and Sandy] 'Cause it's time to do the electric goo-boogaloo!”
   - [Mild] Patrick: “Help, help! Help! [punches through the door] I'm out of toilet paper in here! [the outhouse begins to slide off]”
 
 ## S10 E24 — Kenny the Cat
@@ -2165,8 +2165,8 @@ URL: https://watchwiththekids.com/ep/spongebob/1024.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Sandy: “Hiya, Kenny. Mind if I get your signature? [Kenny writes the signature] Gee, it sure is nice to meet another air-breathing, warm-blooded varmint down here.”
-  - [Moderate] Sandy: “…heighten the capillaries in the lungs, causing a dangerous level of carbon monoxide to rise in the bloodstream, which in turn leads to a ghostly blue color to the skin, [Kenny's skin turns blue] followed by…”
+  - [Caution] Sandy: “Hiya, Kenny. Mind if I get your signature? [Kenny writes the signature] Gee, it sure is nice to meet another air-breathing, warm-blooded varmint down here.”
+  - [Caution] Sandy: “…heighten the capillaries in the lungs, causing a dangerous level of carbon monoxide to rise in the bloodstream, which in turn leads to a ghostly blue color to the skin, [Kenny's skin turns blue] followed by…”
   - [Mild] Kenny: “[screaming] I can't take it! I need oxygen! [punches his body for his oxygen tank which falls to the ground causing the crowd to gasp as he uses the tank and signs in relief]”
 
 ## S10 E25 — Yeti Krabs
@@ -2208,7 +2208,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Squidward runs past Mr. Krabs, which makes him spin around until his shell falls off. Seeing that he is naked, Mr. Krabs is embarrassed. Squidward gobbles up the cotton candy and roasted peanuts in a crazy frenzy.
 - Violence & injury — 1 moment(s)
-  - [Explicit] The projector reveals that the world's most exciting roller coaster was actually the rotting corpse of a sea monster.
+  - [Too much] The projector reveals that the world's most exciting roller coaster was actually the rotting corpse of a sea monster.
 
 ## S10 E31 — Pull Up a Barrel
 URL: https://watchwiththekids.com/ep/spongebob/1031.html
@@ -2246,7 +2246,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When SpongeBob gets a pair of long pants, they change his life in unexpected ways.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Driving instructor: “I was gonna fail you, and send you to jail, but because of those longpants, and all the blood rushing to my head, you passed! [hands SpongeBob his license]”
+  - [Caution] Driving instructor: “I was gonna fail you, and send you to jail, but because of those longpants, and all the blood rushing to my head, you passed! [hands SpongeBob his license]”
 
 ## S10 E37 — Larry's Gym
 URL: https://watchwiththekids.com/ep/spongebob/1037.html
@@ -2262,7 +2262,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pearl gets a job to be cool like her friends, but the only store that's hiring is the lamest store at the mall! Guest Voices: Betty White, Aubrey Plaza
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Her phone rings with a blood-curdling scream and she picks up.
+  - [Caution] Her phone rings with a blood-curdling scream and she picks up.
 
 ## S10 E39 — Two Thumbs Down
 URL: https://watchwiththekids.com/ep/spongebob/1039.html
@@ -2291,8 +2291,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: The Sharks are the toughest guys in town, but their next confrontation might be too much for SpongeBob to handle
 Watch for:
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] Gary starts playing bongos and the officers rip their clothes off and are in grass skirts, and start dancing, but internal affairs arrive.
-  - [Moderate] Incidental 118 (Orange): [while spinning around torches.] Oh no, it's internal affairs!
+  - [Caution] Gary starts playing bongos and the officers rip their clothes off and are in grass skirts, and start dancing, but internal affairs arrive.
+  - [Caution] Incidental 118 (Orange): [while spinning around torches.] Oh no, it's internal affairs!
 
 ## S10 E43 — CopyBob DittoPants
 URL: https://watchwiththekids.com/ep/spongebob/1043.html
@@ -2319,14 +2319,14 @@ URL: https://watchwiththekids.com/ep/spongebob/1046.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Sandy: “…solution to plant, causing a tree branch to form into a human hand, which grabs Sandy by the neck] [stabs it with broom, gasps, and pants, she takes out a bottle of growth pills] Ah, growth pills.”
+  - [Too much] Sandy: “…solution to plant, causing a tree branch to form into a human hand, which grabs Sandy by the neck] [stabs it with broom, gasps, and pants, she takes out a bottle of growth pills] Ah, growth pills.”
 
 ## S10 E47 — Food Con Castaways
 URL: https://watchwiththekids.com/ep/spongebob/1047.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Squidward: “I'll lure him to sleep with a lovely lullaby.”
+  - [Caution] Squidward: “I'll lure him to sleep with a lovely lullaby.”
 - Violence & injury — 1 moment(s)
   - [Mild] SpongeBob punches Patrick's foot and pushes his mouth back up to his head.
 
@@ -2388,7 +2388,7 @@ Watch for:
   - [Mild] Squidward punches SpongeBob with his eyes.
   - [Mild] SpongeBob and Patrick fight Squidward inside his body. SpongeBob pulls Squidward's nose and bites his brain. Patrick punches Squidward inside. Squidward inhales and vomits SpongeBob and Patrick out of his body.
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] Maestro Mackerel: “Yes, yes! Oh, bring us to [throws his clipboard away] ecstasy, maestro!”
+  - [Too much] Maestro Mackerel: “Yes, yes! Oh, bring us to [throws his clipboard away] ecstasy, maestro!”
 
 ## S10 E59 — Krusty Katering
 URL: https://watchwiththekids.com/ep/spongebob/1059.html
@@ -2447,8 +2447,8 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Squidward gets a nose job at the local hospital and SpongeBob tags along as moral support.
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Bubble transitions to Squidward hooked up to the IV.
-  - [Moderate] Bubble transitions to the doctors talking to Mrs. Puff hooked up to the iron lung.
+  - [Caution] Bubble transitions to Squidward hooked up to the IV.
+  - [Caution] Bubble transitions to the doctors talking to Mrs. Puff hooked up to the iron lung.
 - Violence & injury — 1 moment(s)
   - [Mild] SpongeBob: “Just make an incision here, and— [operates with the spatula and ink sprays up] no! Shoot! [the heart flips] Son of a gun!”
 
@@ -2482,7 +2482,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Mr. Krabs buys Squidward's art, but to make a profit on his purchase he will have to get the artist out of the picture.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] Art Appraiser: “Well, paintings can become much more valuable when the artist is no longer with us. You know. Out of the picture. [pretends to hang himself]”
+  - [Too much] Art Appraiser: “Well, paintings can become much more valuable when the artist is no longer with us. You know. Out of the picture. [pretends to hang himself]”
 
 ## S11 E1 — Spot Returns
 URL: https://watchwiththekids.com/ep/spongebob/1101.html
@@ -2498,7 +2498,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Plankton poses as a wish-granting genie in his latest scheme to get the secret formula.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] SpongeBob snatches the bottle as Mr. Krabs picks up the penny and puts it in his coin slot on his back. He turns around and is now in a bloodthirsty rage.
+  - [Caution] SpongeBob snatches the bottle as Mr. Krabs picks up the penny and puts it in his coin slot on his back. He turns around and is now in a bloodthirsty rage.
   - [Mild] Mr. Krabs punches Patrick and grabs the bottle.
 
 ## S11 E4 — Sportz?
@@ -2514,8 +2514,8 @@ URL: https://watchwiththekids.com/ep/spongebob/1105.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Explicit] Spongy Spongy: “Agh! [stabs the ketchup bottle with his spear and gets ketchup on his face; he grunts]”
-  - [Explicit] He jumps on the boat stabs it with his spear, rips open the hood, pulls out the motor, and drinks the oil.
+  - [Too much] Spongy Spongy: “Agh! [stabs the ketchup bottle with his spear and gets ketchup on his face; he grunts]”
+  - [Too much] He jumps on the boat stabs it with his spear, rips open the hood, pulls out the motor, and drinks the oil.
   - [Mild] Squidward: “It was. [gets punched in the face by Spongy Spongy] Agh! [falls backwards]”
   - [Mild] SpongeBob: “Ooh? [giggles and sniffs] SpongeBob. SpongeBob! [gives Spongy Spongy a light punch on the chest]”
   - [Mild] Spongy Spongy: “Unh. Spongy Spongy. [punches SpongeBob in the face]”
@@ -2537,9 +2537,9 @@ URL: https://watchwiththekids.com/ep/spongebob/1108.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Mr. Krabs: “Oh! [SpongeBob shouts as he crashes into Larry as well. Mr. Krabs, with SpongeBob on his back, and Squidward climb around Larry] I'll murder-lize him!”
+  - [Too much] Mr. Krabs: “Oh! [SpongeBob shouts as he crashes into Larry as well. Mr. Krabs, with SpongeBob on his back, and Squidward climb around Larry] I'll murder-lize him!”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Larry: “…it; SpongeBob blows on his slingshot and Larry eventually gives in as he swallows the patty] Oh! Greasy, fatty, sticky, and gummy!”
+  - [Caution] Larry: “…it; SpongeBob blows on his slingshot and Larry eventually gives in as he swallows the patty] Oh! Greasy, fatty, sticky, and gummy!”
 
 ## S11 E9 — Feral Friends
 URL: https://watchwiththekids.com/ep/spongebob/1109.html
@@ -2575,7 +2575,7 @@ URL: https://watchwiththekids.com/ep/spongebob/1113.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Mr. Krabs: “[sits comfortably at a desk when he suddenly jumps up from a pin stabbed into his butt.] Ohh!”
+  - [Too much] Mr. Krabs: “[sits comfortably at a desk when he suddenly jumps up from a pin stabbed into his butt.] Ohh!”
 
 ## S11 E14 — No Pictures, Please
 URL: https://watchwiththekids.com/ep/spongebob/1114.html
@@ -2649,7 +2649,7 @@ URL: https://watchwiththekids.com/ep/spongebob/1124.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Moments later while sleeping with Gary, SpongeBob hears a rumbling sound coming up the stairs.
+  - [Caution] Moments later while sleeping with Gary, SpongeBob hears a rumbling sound coming up the stairs.
 
 ## S11 E25 — Old Man Patrick
 URL: https://watchwiththekids.com/ep/spongebob/1125.html
@@ -2725,12 +2725,12 @@ URL: https://watchwiththekids.com/ep/spongebob/1136.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Patrick: “I struck blood! [grabs some of the ketchup and tastes it] Oh, no, it's ketchup. [slurps some more]”
+  - [Caution] Patrick: “I struck blood! [grabs some of the ketchup and tastes it] Oh, no, it's ketchup. [slurps some more]”
   - [Mild] Patrick goes into frantic panic and runs up and down the mine walls. He curls in a fetal position and acts crazy. He punches his chest and passes out.
   - [Mild] Walter Haddock: “Hyah! [punches Squidward in the face]”
   - [Mild] Squidward: “[gets up and is really angry] Why you— [gets punched in the face again] Ow! [gets punched again] I'm gonna— [gets punched and his head spins; then he gets punched again]”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] SpongeBob, Patrick, Squidward: [dancing around in circles while twisting SpongeBob's body] ♪Look at all the mustard flow! Look at all the mustard flow! That golden yellow fatty acid treat!♪
+  - [Caution] SpongeBob, Patrick, Squidward: [dancing around in circles while twisting SpongeBob's body] ♪Look at all the mustard flow! Look at all the mustard flow! That golden yellow fatty acid treat!♪
 
 ## S11 E37 — Whale Watching
 URL: https://watchwiththekids.com/ep/spongebob/1137.html
@@ -2797,8 +2797,8 @@ URL: https://watchwiththekids.com/ep/spongebob/1145.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Hat kid: “How's about... it's on? See you tomorrow morning at the top of Murder Hill. [leaves with the other kids]”
-  - [Explicit] Thunder claps around the sign that reads, "Murder Hill." SpongeBob pulls the racing cart he and Mr.
+  - [Too much] Hat kid: “How's about... it's on? See you tomorrow morning at the top of Murder Hill. [leaves with the other kids]”
+  - [Too much] Thunder claps around the sign that reads, "Murder Hill." SpongeBob pulls the racing cart he and Mr.
   - [Mild] The twins throw more marbles at Mr. Krabs. Mr. Krabs attempts to smash into the kids, but ends up getting his eyestalks grabbed and strangled by them.
 
 ## S11 E46 — The Night Patty
@@ -2826,7 +2826,7 @@ URL: https://watchwiththekids.com/ep/spongebob/1150.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Plankton absorbs SpongeBob into the injector and pokes it into medical liter bag. SpongeBob then flows through the bag and into the Karen's computerized blood stream.
+  - [Caution] Plankton absorbs SpongeBob into the injector and pokes it into medical liter bag. SpongeBob then flows through the bag and into the Karen's computerized blood stream.
   - [Mild] Ideal Plankton pulls out a laser gun and blasts the lasers with it.
   - [Mild] He punches a hole through the wall and climbs through it.
 
@@ -2930,7 +2930,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Old Man Jenkins disrupts business as usual at the Krusty Krab, but Mr. Krabs can't find a way to kick him out.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Old Man Jenkins: “[shivering] Ehh...ehh.... It's too cold in here for my old blood! [takes his beard off his face and uses it as a sweater] Show a little respect for your elders and turn up the heat!”
+  - [Caution] Old Man Jenkins: “[shivering] Ehh...ehh.... It's too cold in here for my old blood! [takes his beard off his face and uses it as a sweater] Show a little respect for your elders and turn up the heat!”
 
 ## S12 E10 — Gary's Got Legs
 URL: https://watchwiththekids.com/ep/spongebob/1210.html
@@ -2948,7 +2948,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Sandy narrates the nocturnal adventures of Gary and his secret pal – Spot.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] SpongeBob: “Oh, well, maybe a few more minutes wouldn't hurt. [goes back to sleep with Gary]”
+  - [Caution] SpongeBob: “Oh, well, maybe a few more minutes wouldn't hurt. [goes back to sleep with Gary]”
 - Violence & injury — 1 moment(s)
   - [Mild] Farmer fish: “[punches the hay stack and forms into a bed] Whoo-hoo! [jumps on the hay bed and goes to sleep]”
 
@@ -2998,7 +2998,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Summary: Patrick takes a job at the Goofy Goober when he finds out the employees get free ice cream.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] The manager is shocked at what Patrick did and his eyes become bloodshot.
+  - [Caution] The manager is shocked at what Patrick did and his eyes become bloodshot.
 
 ## S12 E19 — Squid's on a Bus
 URL: https://watchwiththekids.com/ep/spongebob/1219.html
@@ -3062,7 +3062,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: SpongeBob and Patrick are sent to jail in the underground tunnels of Glove World, leading to a daring escape.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] Helen: “[breaks the leg off of a doll she's holding] Murder one! [bites the doll's leg and growls. The other kids take a step back] I'm kidding, I'm just here 'cause I bit the lemonade guy.”
+  - [Too much] Helen: “[breaks the leg off of a doll she's holding] Murder one! [bites the doll's leg and growls. The other kids take a step back] I'm kidding, I'm just here 'cause I bit the lemonade guy.”
   - [Mild] SpongeBob and Patrick: “A ray gun and a flamethrower appear; the guy chuckles and gives a thumbs-up, and they zap him.”
   - [Mild] Patrick: “I don't know what a pink plonker is, but I don't like it! [punches Animatronic Hieronymus with his tongue, knocking his head off.]”
 
@@ -3100,7 +3100,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bubble Bass finds himself stranded with Patrick in a mysterious swamp, looking for a lost action figure.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Bubble Bass: “Ha, [taunting with his butt] too slow, you cold-blooded clowns. [he gasps as he sees that the crocodiles are now in a boat heading towards them. He quickly pedals the log forward] Those crocs are catching up with us!”
+  - [Caution] Bubble Bass: “Ha, [taunting with his butt] too slow, you cold-blooded clowns. [he gasps as he sees that the crocodiles are now in a boat heading towards them. He quickly pedals the log forward] Those crocs are catching up with us!”
 
 ## S12 E32 — One Trick Sponge
 URL: https://watchwiththekids.com/ep/spongebob/1232.html
@@ -3118,7 +3118,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Krabs' wheelchair around, until Patrick, fully naked, opens the door.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Mr. Krabs: “[muffled] What?! No! No! No, no, no, no, no, no, no, no! [his eyes turns bloodshot while shaking]”
+  - [Caution] Mr. Krabs: “[muffled] What?! No! No! No, no, no, no, no, no, no, no! [his eyes turns bloodshot while shaking]”
   - [Mild] SpongeBob: “Woo! Everything is under control now, Mr. K. [punches Mr. Krabs with a fist] I guarantee it.”
 
 ## S12 E34 — Pineapple RV
@@ -3189,7 +3189,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: After a disaster at a fancy restaurant, Mrs. Puff thinks Mr. Krabs is too cheap, so he hires SpongeBob and Squidward as waiters to impress her.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Mrs. Puff tries to stab SpongeBob, who keeps dodging
+  - [Too much] Mrs. Puff tries to stab SpongeBob, who keeps dodging
 
 ## S13 E9 — Under the Small Top
 URL: https://watchwiththekids.com/ep/spongebob/1309.html
@@ -3360,9 +3360,9 @@ URL: https://watchwiththekids.com/ep/spongebob/1332.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] SpongeBob: “[emerges reading something, gasps] Squidward, look! [holding up magazines] "Bleeder's Digest." "Bat Fancy." [holds up locked crate with shoe] "Blood of the Month Club." [blood squelches]”
-  - [Moderate] Innkeeper: “[grabbing onto Squidward] Please, I beg you, [points to Nosferatu's castle] do not go to the castle! The master is a vampire! He means to suck your blood! [sobs on ground]”
-  - [Moderate] Nosferatu rips open the mail bag SpongeBob is holding, revealing the bloody crate, which he picks up and swallows. He rubs his belly, burps, and gets red with embarrassment.
+  - [Caution] SpongeBob: “[emerges reading something, gasps] Squidward, look! [holding up magazines] "Bleeder's Digest." "Bat Fancy." [holds up locked crate with shoe] "Blood of the Month Club." [blood squelches]”
+  - [Caution] Innkeeper: “[grabbing onto Squidward] Please, I beg you, [points to Nosferatu's castle] do not go to the castle! The master is a vampire! He means to suck your blood! [sobs on ground]”
+  - [Caution] Nosferatu rips open the mail bag SpongeBob is holding, revealing the bloody crate, which he picks up and swallows. He rubs his belly, burps, and gets red with embarrassment.
   - [Mild] SpongeBob: “[clapping] Yay! [gets slapped by Squidward] Ow.”
 
 ## S13 E33 — Slappy Daze
@@ -3370,8 +3370,8 @@ URL: https://watchwiththekids.com/ep/spongebob/1333.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Slappy then emerges from the web dressed up, exiting the bathroom and heading towards Nosferatu's coffin, holding a plate with blood in a glass and eggs.
-  - [Moderate] Slappy: “[knocks on the coffin] Wakey-wakes, Master. The first blood of the day is the most important. [no one answers] Huh? Master?”
+  - [Caution] Slappy then emerges from the web dressed up, exiting the bathroom and heading towards Nosferatu's coffin, holding a plate with blood in a glass and eggs.
+  - [Caution] Slappy: “[knocks on the coffin] Wakey-wakes, Master. The first blood of the day is the most important. [no one answers] Huh? Master?”
 
 ## S13 E34 — Abandon Twits
 URL: https://watchwiththekids.com/ep/spongebob/1334.html
@@ -3405,7 +3405,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Getting a boating license.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Squidward now has his arm and head in a cast, with a blood drip hooked to his arm. His feet are bandaged. SpongeBob sits in the passenger seat.
+  - [Caution] Squidward now has his arm and head in a cast, with a blood drip hooked to his arm. His feet are bandaged. SpongeBob sits in the passenger seat.
   - [Mild] A large trucker steps out of his truck and grabs Squidward, then winds up to punch him.
 
 ## S13 E40 — The Flower Plot
@@ -3474,7 +3474,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: SpongeBob and Patrick mistake a burglar for the tooth fairy.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] SpongeBob: “[flinching] Ahh! [opens bloodshot eyes] Ooh!”
+  - [Caution] SpongeBob: “[flinching] Ahh! [opens bloodshot eyes] Ooh!”
   - [Mild] Patrick: “[punches Dorsal Dan in his sleep] Sleep punch! [snores]”
 
 ## S13 E50 — Dopey Dick
@@ -3492,7 +3492,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Plankton finds a magic bean that takes him to a land of giants.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Giant Krabs: “[stomping] Fee, fi, fo, fite! I smell the blood of a Bottomite! [smells around]”
+  - [Caution] Giant Krabs: “[stomping] Fee, fi, fo, fite! I smell the blood of a Bottomite! [smells around]”
 
 ## S13 E52 — My Friend Patty
 URL: https://watchwiththekids.com/ep/spongebob/1352.html
@@ -3534,7 +3534,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Mr. Krabs must reckon with the Goobfather after he adds Patty Whips to the menu at the Krusty Krab.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Goobfather: “That's just my day job. The Goobfather is my true identity. I control all the ice cream trade in this town, and I heard about your little [pulls down menu] fatty flips.”
+  - [Caution] Goobfather: “That's just my day job. The Goobfather is my true identity. I control all the ice cream trade in this town, and I heard about your little [pulls down menu] fatty flips.”
 
 ## S13 E58 — SquidBird
 URL: https://watchwiththekids.com/ep/spongebob/1358.html
@@ -3563,7 +3563,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Sandy spends the day solving everyone's issues, only to return home to her own monster of a problem.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Inside her head, a smaller Sandy is in an exercise wheel hooked up to Sandy's brain.
+  - [Caution] Inside her head, a smaller Sandy is in an exercise wheel hooked up to Sandy's brain.
 
 ## S14 E1 — Single-Celled Defense
 URL: https://watchwiththekids.com/ep/spongebob/1401.html
@@ -3608,7 +3608,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Squidward: “[naked, covering himself in the jungle] Imagine, huh? All right. [straining, safari clothes appear on him] Oh, not bad. [stretches pants waist] A jungle [pulls out and twirls binoculars] safari could be fun.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] "Blood is Thicker Than Grease"
+  - [Caution] "Blood is Thicker Than Grease"
   - [Mild] Box repairman: “They don't make those anymore! But I could give you a [points ahead] great deal on a [camera pans over to a beat up fort of cushions] cushion fort.”
 
 ## S14 E7 — Blood Is Thicker Than Grease
@@ -3617,8 +3617,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Plankton's parents come to town and start up the potato-based Spud Bucket restaurant right next to the Chum Bucket, overtaking it and the Krusty Krab. While Plankton attempts to sabotage the Spud Bucket, Mr. Krabs and SpongeBob watch and have a laugh as everything will eventually return to the status quo.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Blood is Thicker Than Grease
-  - [Moderate] This article is a transcript of the SpongeBob SquarePants episode "Blood is Thicker Than Grease" from season 14, which aired on July 15, 2024.
+  - [Caution] Blood is Thicker Than Grease
+  - [Caution] This article is a transcript of the SpongeBob SquarePants episode "Blood is Thicker Than Grease" from season 14, which aired on July 15, 2024.
   - [Mild] SpongeBob steps in, Mr. Krabs punches his eyes like using a keypad, and SpongeBob spits out the formula bottle.
   - [Mild] Plankton: “[beaten up] Ugh. So, you want customers, eh? I'll give you a customer!”
 
@@ -3628,8 +3628,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: SpongeBob suddenly finds everything funny, much to everyone's annoyance.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] SpongeBob: “[tries to run off, then trips on a rock, bounces off of a clown, and lands on Sparklenose] Whoa! [Sparklenose's nose lands on his, then he laughs] Holy herring, I'm squatting on a corpse!”
-  - [Moderate] "Blood is Thicker Than Grease"
+  - [Too much] SpongeBob: “[tries to run off, then trips on a rock, bounces off of a clown, and lands on Sparklenose] Whoa! [Sparklenose's nose lands on his, then he laughs] Holy herring, I'm squatting on a corpse!”
+  - [Caution] "Blood is Thicker Than Grease"
   - [Mild] SpongeBob: “…off the seat cushion and stuffs it in his mouth, which inflates, then he begins laughing again and slapping the seat as people begin to leave]”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] SpongeBob drunkenly walks downtown while hugging himself.
@@ -3684,7 +3684,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: SpongeBob wants to catch an ultra-rare jellyfish and enlists the help of former jellyfishing champion, Kevin.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] SpongeBob pushes Kevin in a robe and covered in pieces of bloody tissue paper near a ragged curtain.
+  - [Caution] SpongeBob pushes Kevin in a robe and covered in pieces of bloody tissue paper near a ragged curtain.
   - [Mild] Moon jelly: “[passes by, then looks in an alley to see a piece of cheese] Hmm? [licks lips, grabs a knife, puts on a napkin, then approaches the cheese]”
 
 ## S14 E16 — Hysterical History
@@ -3727,9 +3727,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Harvey: “[turns around and makes out with himself] Oh, my pumpkin.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] Plankton: “I'm not afraid of any creature or axe murderer or whatever.”
-  - [Explicit] Patrick: “Ooh, tell the part [mimes swinging an axe] with all the bloody axe-murdering!”
-  - [Moderate] Karen comes out of the kelp with her monitor showing a face with black eye sockets, a bloody mouth, and green zombie hands.
+  - [Too much] Plankton: “I'm not afraid of any creature or axe murderer or whatever.”
+  - [Too much] Patrick: “Ooh, tell the part [mimes swinging an axe] with all the bloody axe-murdering!”
+  - [Caution] Karen comes out of the kelp with her monitor showing a face with black eye sockets, a bloody mouth, and green zombie hands.
   - [Mild] Patrick: “[chews] Oh, boy, breakfast. [the clam fights back, grunting] Hey! Bad breakfast! [puts hand in mouth and punches it down] You go in my tummy!”
 
 ## S15 E2 — Snow Yellow
@@ -3806,7 +3806,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Squidward gets trapped in an elevator with SpongeBob and Patrick on his way to return a nearly overdue library book.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Squidward: “[runs to jail bars, his eyes become bloodshot, laughs insanely] Going up!”
+  - [Caution] Squidward: “[runs to jail bars, his eyes become bloodshot, laughs insanely] Going up!”
 
 ## S15 E12 — Squidness Protection
 URL: https://watchwiththekids.com/ep/spongebob/1512.html
@@ -3826,7 +3826,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: SpongeBob goes to extreme lengths to trick Gary into going to the vet.
 Watch for:
 - Swearing — 1 moment(s)
-  - [Moderate] SpongeBob: “Time for a snail hunt! [cocks his jellyfish net, then happily skips off singing]”
+  - [Caution] SpongeBob: “Time for a snail hunt! [cocks his jellyfish net, then happily skips off singing]”
 
 ## S15 E15 — Pinned
 URL: https://watchwiththekids.com/ep/spongebob/1515.html
@@ -3840,7 +3840,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Squidward's prankster dad visits and brings all sorts of gags with him, much to Squidward's annoyance.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Bubble transition to Jeffy sleeping with his bag on Squidward's couch.
+  - [Caution] Bubble transition to Jeffy sleeping with his bag on Squidward's couch.
 - Violence & injury — 1 moment(s)
   - [Mild] Jeffy: “[opens the box, and a boxing glove comes out to punch his face] Whoa!”
 
@@ -3945,7 +3945,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Mrs. Puff sends SpongeBob far away to a driving school in Klopnod.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mrs. Puff: “Yesterday... [her eyes turn bloodshot as a fiery background appears behind her and crashing sounds are heard]”
+  - [Caution] Mrs. Puff: “Yesterday... [her eyes turn bloodshot as a fiery background appears behind her and crashing sounds are heard]”
 
 ## S16 E6 — The Kreepy Krab
 URL: https://watchwiththekids.com/ep/spongebob/1606.html
@@ -3953,8 +3953,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Slappy brings his macabre sensibilities to the Krusty Krab when he's hired there as a server.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Slappy: “[rolls over a table with two cups and a blood bag] Time for Master to sleep tight and bite the bedbugs goodnight! [laughs] I brought your favorite bedtime tea, [pours him a cup of blood] blood orange! Hold the orange.”
-  - [Moderate] Slappy and Nosferatu both laugh. Slappy loses his head, and it bounces into the table, knocking it over and creating a puddle of blood. Slappy's head reattaches, and Slappy slips into blood and slides down the hall.
+  - [Caution] Slappy: “[rolls over a table with two cups and a blood bag] Time for Master to sleep tight and bite the bedbugs goodnight! [laughs] I brought your favorite bedtime tea, [pours him a cup of blood] blood orange! Hold the orange.”
+  - [Caution] Slappy and Nosferatu both laugh. Slappy loses his head, and it bounces into the table, knocking it over and creating a puddle of blood. Slappy's head reattaches, and Slappy slips into blood and slides down the hall.
 
 ## S16 E7 — The Haunted Bucket
 URL: https://watchwiththekids.com/ep/spongebob/1607.html
@@ -3985,10 +3985,10 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: SpongeBob and Patrick must track down Old Man Jenkins' prized worm hog.
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Old Man Jenkins: “Off my porch, stupid man! [tries to stab SpongeBob] I'll poke ya full of holes!”
-  - [Explicit] Old Man Jenkins: “…a-peepin' in my barn! [as SpongeBob closes the pen] You keep your hands off my beautiful Beulah! [tries to stab SpongeBob with his pitchfork]”
-  - [Explicit] Old Man Jenkins: “[stabs the cushion with his pitchfork] Enough! You two lost her, and you two are gonna help me find her!”
-  - [Explicit] Old Man Jenkins: “What? [looks down to see him on Patrick's trap, which stabs him in the torso; weakly] Pillow didn't help. [growls loudly, exhaling heavily]”
+  - [Too much] Old Man Jenkins: “Off my porch, stupid man! [tries to stab SpongeBob] I'll poke ya full of holes!”
+  - [Too much] Old Man Jenkins: “…a-peepin' in my barn! [as SpongeBob closes the pen] You keep your hands off my beautiful Beulah! [tries to stab SpongeBob with his pitchfork]”
+  - [Too much] Old Man Jenkins: “[stabs the cushion with his pitchfork] Enough! You two lost her, and you two are gonna help me find her!”
+  - [Too much] Old Man Jenkins: “What? [looks down to see him on Patrick's trap, which stabs him in the torso; weakly] Pillow didn't help. [growls loudly, exhaling heavily]”
 
 ## S16 E11 — SpongeBob TrashPants
 URL: https://watchwiththekids.com/ep/spongebob/1611.html
@@ -3996,9 +3996,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: SpongeBob decides to clean up Bikini Bottom.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] SpongeBob: “[stabs a wrapper, gasps as he sees several more flying wrappers coming from Bubble Bass] A litterbugging Bubble Bass.”
-  - [Explicit] SpongeBob: “[jabs the air] Yah! [twirls his stick again, which makes him spin in the air like a helicopter; whistles, then quickly tries to stab the trash again, which moves] Wha-cha!”
-  - [Explicit] SpongeBob: “[normal voice] Okay, time to stab you!”
+  - [Too much] SpongeBob: “[stabs a wrapper, gasps as he sees several more flying wrappers coming from Bubble Bass] A litterbugging Bubble Bass.”
+  - [Too much] SpongeBob: “[jabs the air] Yah! [twirls his stick again, which makes him spin in the air like a helicopter; whistles, then quickly tries to stab the trash again, which moves] Wha-cha!”
+  - [Too much] SpongeBob: “[normal voice] Okay, time to stab you!”
 
 ## S16 E12 — Krusty Kafeteria
 URL: https://watchwiththekids.com/ep/spongebob/1612.html
@@ -4020,8 +4020,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: In his latest secret formula scheme, Plankton disguises himself as a collectible figurine and winds up trapped in Bubble Bass' basement.
 Watch for:
 - Fat-shaming — 2 moment(s)
-  - [Moderate] Bubble Bass: “…little patty? [Plankton removes himself from Bubble Bass's butt] Mmm! I'll place it next to my Chatty, Fatty, and Bratty Patties.”
-  - [Moderate] Plankton: “…Patty, thanks to that goofy geek! [goes up to the shelf, attempts to open the container containing the Fatty Patty, but he falls off and knocks over a container containing a toy representing the Sinister Slug]”
+  - [Caution] Bubble Bass: “…little patty? [Plankton removes himself from Bubble Bass's butt] Mmm! I'll place it next to my Chatty, Fatty, and Bratty Patties.”
+  - [Caution] Plankton: “…Patty, thanks to that goofy geek! [goes up to the shelf, attempts to open the container containing the Fatty Patty, but he falls off and knocks over a container containing a toy representing the Sinister Slug]”
 
 ## S16 E15 — Pardon My Wand
 URL: https://watchwiththekids.com/ep/spongebob/1615.html
@@ -4110,8 +4110,8 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Squidward: “While he laughs, he witnesses the effect actually working with his own garden as the rotten flowers beat up the flowers around] That does it!”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] Squidward: “[throws a bunch of items from a shack as he finds a bag of vermin] Let's see your garden grow when it's choked with weed seeds.”
-  - [Moderate] Squidward goes to SpongeBob's garden. SpongeBob hums while walking and Squidward throws the weed seeds at the flowers nearby
+  - [Caution] Squidward: “[throws a bunch of items from a shack as he finds a bag of vermin] Let's see your garden grow when it's choked with weed seeds.”
+  - [Caution] Squidward goes to SpongeBob's garden. SpongeBob hums while walking and Squidward throws the weed seeds at the flowers nearby
 
 ## S17 E7 — Plankton's Squeeze Play
 URL: https://watchwiththekids.com/ep/spongebob/1707.html
@@ -4119,7 +4119,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: To get closer to the secret formula, Plankton swaps bodies with Squidward and learns to adapt to his new lanky form.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Plankton: “[pointing angrily at Mr. Krabs] You better sleep with one eye stalk open, Krabs! [Mr. Krabs yawns and walks away] I'll get your formula! I will!”
+  - [Caution] Plankton: “[pointing angrily at Mr. Krabs] You better sleep with one eye stalk open, Krabs! [Mr. Krabs yawns and walks away] I'll get your formula! I will!”
 - Violence & injury — 1 moment(s)
   - [Mild] Karen uses a screwdriver to punch a hole into the jar. Squidward inhales deeply, sighing in relief.
 
@@ -4129,8 +4129,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Sandy teaches SpongeBob cowboy skills while they pan for bubbles, unaware that Krabs trails them in the hunt.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Gary's eyes turn blood-red with anger.
-  - [Moderate] Mr. Krabs: “[winks with his large eyes and screams in pain as his eyeballs swell up into massive, bloodshot pink bubbles] Ahhhhh! Ahhhhh! [screams as the bubbles fly out of his mouth and his eyes shrink in pain as he faints]”
+  - [Caution] Gary's eyes turn blood-red with anger.
+  - [Caution] Mr. Krabs: “[winks with his large eyes and screams in pain as his eyeballs swell up into massive, bloodshot pink bubbles] Ahhhhh! Ahhhhh! [screams as the bubbles fly out of his mouth and his eyes shrink in pain as he faints]”
 
 ## S17 E9 — The Nerds
 URL: https://watchwiththekids.com/ep/spongebob/1709.html
@@ -4190,7 +4190,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: At night school, SpongeBob and Patrick dive into a series of classes on wildly different subjects.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] Lonnie: “When they reopen them, they have bloodshots around the circle in the middle; hands Patrick the bubble bottle and wand] Now you blow.”
+  - [Caution] Lonnie: “When they reopen them, they have bloodshots around the circle in the middle; hands Patrick the bubble bottle and wand] Now you blow.”
   - [Mild] Lonnie: “Yeah, that's right. We're bad boys. [he, Ronnie and Donnie head over to SpongeBob; punches fist] You got a problem with that?”
 
 ## S17 E16 — Painfully Employed

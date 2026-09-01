@@ -119,7 +119,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Bluey and Bingo are unable to grab a prize on a Magic Claw machine, Mum and Dad create their own version at home. But Dad isn't about to make winning easy.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Bluey and Bingo laugh, and Bluey turns to Chilli, who is watching the whole affair.
+  - [Caution] Bluey and Bingo laugh, and Bluey turns to Chilli, who is watching the whole affair.
 
 ## S1 E20 — Markets
 URL: https://watchwiththekids.com/ep/bluey/0120.html
@@ -171,7 +171,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: It's an adventure on the high seas as Bluey, Bingo and Missy play Pirates on the hammock swing, but they'll need to find their courage to withstand storms and whale attacks.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Chilli: “"Suddenly, the huge whale swallowed their boat whole!"”
+  - [Caution] Chilli: “"Suddenly, the huge whale swallowed their boat whole!"”
 
 ## S1 E28 — Grannies
 URL: https://watchwiththekids.com/ep/bluey/0128.html
@@ -185,7 +185,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bored of the local playground, Dad and the kids go through the bush on a journey to their local creek. Cast out of her comfort zone, Bluey's eyes are opened to the beauty of the natural world.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Mackenzie: “Yeah, don't worry. He just wants to eat your blood.”
+  - [Caution] Mackenzie: “Yeah, don't worry. He just wants to eat your blood.”
 
 ## S1 E30 — Fairies
 URL: https://watchwiththekids.com/ep/bluey/0130.html
@@ -211,7 +211,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Dad has to stop having fun with the girls and go to work, Bluey and Bingo scramble to keep him playing games with them on the trampoline!
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Bluey wiggles her hips cheekily. Chilli looks at the weed she is holding and throws it aside.
+  - [Caution] Bluey wiggles her hips cheekily. Chilli looks at the weed she is holding and throws it aside.
 
 ## S1 E34 — The Dump
 URL: https://watchwiththekids.com/ep/bluey/0134.html
@@ -501,7 +501,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: At school, Bluey and her friends turn a tree stump into a thrilling game of Helicopter. But as the pilot, Bluey has to learn to give up some control so they can all have fun.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - [Moderate] Chloe: “"Chickee-chickee! Look at that big whale!"”
+  - [Caution] Chloe: “"Chickee-chickee! Look at that big whale!"”
 
 ## S2 E26 — Sleepytime
 URL: https://watchwiththekids.com/ep/bluey/0226.html
@@ -585,7 +585,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Dad thinks the kids have too many toys and suggests a chuck out. To save their beloved Mr Monkey jocks from getting the chop, Bluey and Bingo must prove he is special.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] The scene cuts to Bandit, sitting on the floor, stabbing at a sausage.
+  - [Too much] The scene cuts to Bandit, sitting on the floor, stabbing at a sausage.
 
 ## S2 E39 — Double Babysitter
 URL: https://watchwiththekids.com/ep/bluey/0239.html
@@ -871,7 +871,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey and Bingo teach Unicorse good manners so he can ask Mum on a date, but things go sideways when Unicorse eats a tick.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] Unicorse turns around and tries to stab Bluey with his soft fabric horn.
+  - [Too much] Unicorse turns around and tries to stab Bluey with his soft fabric horn.
 
 ## S3 E30 — Turtleboy
 URL: https://watchwiththekids.com/ep/bluey/0330.html
@@ -911,7 +911,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey and Bingo want Dad all to themselves until they discover he has some gross habits.
 Watch for:
 - Swearing — 1 moment(s)
-  - [Moderate] Bandit cocks a leg and grunts.
+  - [Caution] Bandit cocks a leg and grunts.
 
 ## S3 E36 — Dirt
 URL: https://watchwiththekids.com/ep/bluey/0336.html
@@ -949,7 +949,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: On a trip to the beach, Mum teaches Bluey to throw, while Bingo and Dad get creative with a funny shaped stick.
 Watch for:
 - Swearing — 1 moment(s)
-  - [Moderate] Bingo cocks her arm to throw.
+  - [Caution] Bingo cocks her arm to throw.
 
 ## S3 E42 — Show and Tell
 URL: https://watchwiththekids.com/ep/bluey/0342.html

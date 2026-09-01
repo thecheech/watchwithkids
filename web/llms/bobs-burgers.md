@@ -9,23 +9,23 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0101.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] “But once that body's dead, It's, "hey, don't mistreat the dead body! "hey, don't eat the dead body!" That's the ultimate crime, right? Murder, no big deal.”
+  - [Too much] “But once that body's dead, It's, "hey, don't mistreat the dead body! "hey, don't eat the dead body!" That's the ultimate crime, right? Murder, no big deal.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “And you're fat.”
+  - [Caution] “And you're fat.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “You're a couple of sluts! I think it's nice.”
+  - [Caution] “You're a couple of sluts! I think it's nice.”
 
 ## S1 E2 — 2. Crawl Space
 URL: https://watchwiththekids.com/ep/bobs-burgers/0102.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] “Gene can sleep with me in my room As long as he doesn't mind my night terrors.”
-  - [Moderate] “So this is what it sounds like When they have sex in the room next to mine.”
+  - [Caution] “Gene can sleep with me in my room As long as he doesn't mind my night terrors.”
+  - [Caution] “So this is what it sounds like When they have sex in the room next to mine.”
   - [Mild] “I think my subconscious fears and my budding sexuality Are getting all mixed up.”
   - [Mild] “So I think I'm being attacked by zombies, And I start screaming, "do you wanna make out?" And I make out with it.”
 - Swearing — 1 moment(s)
-  - [Moderate] “ow! Son of a bitch! Where did he go? I can I can hear him.”
+  - [Caution] “ow! Son of a bitch! Where did he go? I can I can hear him.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You ever hear of a cocktail called the swanky-panky? No.”
 
@@ -36,24 +36,24 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Like a sex tape.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Don't forget about that penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Don't forget about that penis.”
   - [Mild] “My bra is chafing me.”
 - Violence & injury — 7 moment(s)
-  - [Explicit] “There's no blood on our hands! What's all the yelling about? Turns out dad's been putting murdered cows in our hamburgers.”
-  - [Explicit] “Murderer! Oh.”
-  - [Explicit] “Murderer! Oh, come on, Bob.”
-  - [Explicit] “Louise, you're defending me? This so-called "Man" stands accused Of murdering nearly 100,000 hamburgers worth of cows.”
-  - [Moderate] “There! I said it! And I'm going to get my gun license, Finally.”
-  - [Moderate] “Um Because you, sir, have blood on your hands.”
-  - [Moderate] “Is this ketchup? It's the blood of 100,000 slaughtered cows.”
+  - [Too much] “There's no blood on our hands! What's all the yelling about? Turns out dad's been putting murdered cows in our hamburgers.”
+  - [Too much] “Murderer! Oh.”
+  - [Too much] “Murderer! Oh, come on, Bob.”
+  - [Too much] “Louise, you're defending me? This so-called "Man" stands accused Of murdering nearly 100,000 hamburgers worth of cows.”
+  - [Caution] “There! I said it! And I'm going to get my gun license, Finally.”
+  - [Caution] “Um Because you, sir, have blood on your hands.”
+  - [Caution] “Is this ketchup? It's the blood of 100,000 slaughtered cows.”
 
 ## S1 E4 — 4. Sexy Dance Fighting
 URL: https://watchwiththekids.com/ep/bobs-burgers/0104.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “Jairo sleeps with his eyes open.”
+  - [Caution] “Jairo sleeps with his eyes open.”
   - [Mild] “You can't abandon the things you love just because of sexy dance fighting.”
   - [Mild] “Jairo is just a jerk a sexy, sensual, creepy, sexy jerk.”
 - Violence & injury — 1 moment(s)
@@ -64,39 +64,39 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0105.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Like all their clothes? Well, maybe just a condom and a hat.”
+  - [Caution] “Like all their clothes? Well, maybe just a condom and a hat.”
   - [Mild] “Enough with Canada! In a ketchup factory, a sexy ketchup factory? I got it! In a morgue! I have props.”
 - Nudity & bodies — 2 moment(s)
   - [Mild] “You know, a good way to beat the stage fright imagine the audience naked.”
   - [Mild] “I imagine everyone naked.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “Bachelorette party! All right! Going to the strip club.”
-  - [Explicit] “You know what? I'd rather you go to a strip club.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “Bachelorette party! All right! Going to the strip club.”
+  - [Too much] “You know what? I'd rather you go to a strip club.”
 - Violence & injury — 12 moment(s)
-  - [Explicit] “What's the show gonna be? Ah, murder.”
-  - [Explicit] “Murder mystery.”
-  - [Explicit] “This is the story of love, but there will be a murderer, and it's up to you to guess who that murderer is.”
-  - [Explicit] “Corpse delivery for a lonely morgue owner.”
-  - [Explicit] “That would be me I've been murdered to death.”
-  - [Explicit] “The tree, it's been murdered.”
-  - [Explicit] “Oh, Butler, who is committing all these murders? Beats me.”
-  - [Moderate] “Fake blood Or is it? Now, script.”
-  - [Moderate] “We might have overdone it a little on the Gore.”
-  - [Moderate] “This tastes nothing like real blood.”
-  - [Moderate] “That's me Oh, God! That feels like a sharp knife in my belly.”
-  - [Moderate] “Oh, there's my knife.”
+  - [Too much] “What's the show gonna be? Ah, murder.”
+  - [Too much] “Murder mystery.”
+  - [Too much] “This is the story of love, but there will be a murderer, and it's up to you to guess who that murderer is.”
+  - [Too much] “Corpse delivery for a lonely morgue owner.”
+  - [Too much] “That would be me I've been murdered to death.”
+  - [Too much] “The tree, it's been murdered.”
+  - [Too much] “Oh, Butler, who is committing all these murders? Beats me.”
+  - [Caution] “Fake blood Or is it? Now, script.”
+  - [Caution] “We might have overdone it a little on the Gore.”
+  - [Caution] “This tastes nothing like real blood.”
+  - [Caution] “That's me Oh, God! That feels like a sharp knife in my belly.”
+  - [Caution] “Oh, there's my knife.”
 
 ## S1 E6 — 6. Sheesh! Cab, Bob?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0106.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Not a party, not a boy, and not a town full of doctors who refuse to remove your penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Not a party, not a boy, and not a town full of doctors who refuse to remove your penis.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] “What's a transvestite hooker? Bob, I'm not sure this is appropriate breakfast conversation.”
-  - [Explicit] “Bob? You invited transvestite prostitutes to our daughter's birthday party? No.”
+  - [Too much] “What's a transvestite hooker? Bob, I'm not sure this is appropriate breakfast conversation.”
+  - [Too much] “Bob? You invited transvestite prostitutes to our daughter's birthday party? No.”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] “Why don't you join us for a beer? Yeah.”
   - [Mild] “We'll throw back a few beers and smoke some crack.”
@@ -108,21 +108,21 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0107.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “You mean you're gonna watch beetles have sex with each other? Mm-hmm.”
+  - [Caution] “You mean you're gonna watch beetles have sex with each other? Mm-hmm.”
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] “My nipples are so pointy! Ding-dong! It's for you.”
+  - [Too much] “My nipples are so pointy! Ding-dong! It's for you.”
   - [Mild] “One time I coughed at communion, and the wafer flew right out of my mouth and it landed on my boob! Who wants to go next? Javed? I'll take a pass.”
   - [Mild] “…jogging? Oh, come on! What about when dad cried at the end of about Schmidt? Gene, why are you in your underwear?”
   - [Mild] “Fine! Gene, gene, your foot is down the back of my underwear.”
   - [Mild] “Sit down, enjoy the cookies, unpack your pointy bra and your whip and whip him.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Really? You're the one I'm looking for? Do you have any vacancies? Yes! Louise's room! Whoa, whoa, whoa, Linda, Louise's room? She'd murder us.”
+  - [Too much] “Really? You're the one I'm looking for? Do you have any vacancies? Yes! Louise's room! Whoa, whoa, whoa, Linda, Louise's room? She'd murder us.”
   - [Mild] “Teddy beat up a bunch of giant animals.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I'd sit in the parlor, and maybe I'd have a little wine, play some board games Yes! Wine! Games! Teddy, you should stay here.”
   - [Mild] “See you in a little bit at the wine-and- cheese mixer, Teddy.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “Don't be racist! I decorated it myself.”
+  - [Too much] “Don't be racist! I decorated it myself.”
 
 ## S1 E8 — 8. Art Crawl
 URL: https://watchwiththekids.com/ep/bobs-burgers/0108.html
@@ -134,11 +134,11 @@ Watch for:
   - [Mild] “She's in the basement trying to get the underwear off her paintings.”
   - [Mild] “I did it! I did it! I fixed all the paintings! I added pants and huge, pendulous breasts.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “It sounds like a strip club, the way you say it.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “It sounds like a strip club, the way you say it.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “What are you kids doing? What knife?! What do you mean, what knife? Why are you holding a knife? Why am I holding a knife? She's turning me into a real artist.”
-  - [Moderate] “Put the knife down, Louise.”
+  - [Caution] “What are you kids doing? What knife?! What do you mean, what knife? Why are you holding a knife? Why am I holding a knife? She's turning me into a real artist.”
+  - [Caution] “Put the knife down, Louise.”
 
 ## S1 E9 — 9. Spaghetti Western and Meatballs
 URL: https://watchwiththekids.com/ep/bobs-burgers/0109.html
@@ -147,9 +147,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “You're dead! Quiet! Sexual, sexual Okay, well, I'm gonna go get Gene and Louise from detention.”
 - Violence & injury — 7 moment(s)
-  - [Explicit] “Your fingerprints were all over the murder weapon.”
-  - [Moderate] “We're raising money to buy a bulletproof trash can so gang members can finally throw out their guns.”
-  - [Moderate] “A vampire walks into a bar and says I'll have a I'll have a blood lite.”
+  - [Too much] “Your fingerprints were all over the murder weapon.”
+  - [Caution] “We're raising money to buy a bulletproof trash can so gang members can finally throw out their guns.”
+  - [Caution] “A vampire walks into a bar and says I'll have a I'll have a blood lite.”
   - [Mild] “You don't say the punch lines to other people's jokes anymore.”
   - [Mild] “If you ever gossip about me to Jimmy junior outside of a conflict resolution skit, I'll punch you in the face.”
   - [Mild] “Eh, I beat up a lot of kids like Gene when I was his age.”
@@ -157,8 +157,8 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “There's only gonna be two shots, me shooting you, and then me drinking this shot of whiskey.”
 - Sexual insults — 2 moment(s)
-  - [Moderate] “Jocelyn, you skank.”
-  - [Moderate] “I warned you, skank! Whoa, whoa, whoa, whoa, whoa, whoa, whoa! Girls, please.”
+  - [Caution] “Jocelyn, you skank.”
+  - [Caution] “I warned you, skank! Whoa, whoa, whoa, whoa, whoa, whoa, whoa! Girls, please.”
 
 ## S1 E10 — 10. Burger War
 URL: https://watchwiththekids.com/ep/bobs-burgers/0110.html
@@ -168,12 +168,12 @@ Watch for:
   - [Mild] “fancy face take a trip to the sexy store? No.”
   - [Mild] “I'm a God! Am I doing this right? Mort, do I look sexy? My pants aren't falling down, are they, Mort? When I dance, sometimes my pants fall down.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] “Let's cut our hands and press them together - and become blood brothers! - Okay! No, spit brothers! Spit in your hand and then shake.”
-  - [Moderate] “Let's do both! - Sorry, I'm saving my spit and blood for my honeymoon.”
+  - [Caution] “Let's cut our hands and press them together - and become blood brothers! - Okay! No, spit brothers! Spit in your hand and then shake.”
+  - [Caution] “Let's do both! - Sorry, I'm saving my spit and blood for my honeymoon.”
   - [Mild] “No, I'm saying it with anger, like, "you handsome face!" So he's He's so handsome you wanna-you wanna punch him.”
 - Alcohol & drugs — 2 moment(s)
-  - [Explicit] “More! They'll be craving these burgers, itching to get their fix! Like heroin.”
-  - [Explicit] “That's right son, like heroin! - Yes! But this family's gonna have to execute perfectly to pull this off where's Louise? This one shall have his first gig.”
+  - [Too much] “More! They'll be craving these burgers, itching to get their fix! Like heroin.”
+  - [Too much] “That's right son, like heroin! - Yes! But this family's gonna have to execute perfectly to pull this off where's Louise? This one shall have his first gig.”
 
 ## S1 E11 — 11. Weekend at Mort's
 URL: https://watchwiththekids.com/ep/bobs-burgers/0111.html
@@ -183,11 +183,11 @@ Watch for:
   - [Mild] “My boob? Yes.”
   - [Mild] “What's your boob telling you, Tina? I don't know.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “Not because of porn.”
+  - [Too much] “Not because of porn.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “Is it spooky? You mean, do I have a medicine cabinet full of corpse moisturizers? Ooh! Yes.”
-  - [Explicit] “Do you think he's gonna have skulls? What do you think he eats soup out of? Hey, do you think he's gonna have a drawer full of gum that he takes out of corpse pockets? 'Cause if he does, I want some.”
-  - [Explicit] “No, I'm I am also a murderer! You go girl! You go, girl! Yeah, mon! Hey, I gotcha.”
+  - [Too much] “Is it spooky? You mean, do I have a medicine cabinet full of corpse moisturizers? Ooh! Yes.”
+  - [Too much] “Do you think he's gonna have skulls? What do you think he eats soup out of? Hey, do you think he's gonna have a drawer full of gum that he takes out of corpse pockets? 'Cause if he does, I want some.”
+  - [Too much] “No, I'm I am also a murderer! You go girl! You go, girl! Yeah, mon! Hey, I gotcha.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Come on! You drunk enough to be any fun yet? Yeah, I guess.”
   - [Mild] “Cremate?! No! No cremating dad! It was a drunk nap! It's trying to sweet-talk us.”
@@ -197,13 +197,13 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0112.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] “I rub my genitals on the couch.”
+  - [Too much] “I rub my genitals on the couch.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “That's not porn.”
+  - [Too much] “That's not porn.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “Ow! You stabbed me! That's just epinephrine.”
-  - [Moderate] “You got a gun? Uh, no.”
-  - [Moderate] “I'm authorizing myself to use my brand-new beanbag gun to subdue you.”
+  - [Too much] “Ow! You stabbed me! That's just epinephrine.”
+  - [Caution] “You got a gun? Uh, no.”
+  - [Caution] “I'm authorizing myself to use my brand-new beanbag gun to subdue you.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Hot coffee coming up! I'd really rather get my lips around that beer tap.”
   - [Mild] “Beer? Absolutely! Atmosphere? Yeah nnnn eh Ah, good enough.”
@@ -215,11 +215,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “" That game, I had a pat of butter in my nostril, sex jelly in my armpit Hell, I was on prescription drugs to stimulate production of earwax.”
 - Violence & injury — 5 moment(s)
-  - [Explicit] “Stab! Stab! Stab! Sting, sting, sting! "What are you doing?" "I'm squeezing lemon into your wound!" Sweet baby blade foot.”
-  - [Moderate] “I have a gun! So, get set Where has this sport been all my life? You know, I wear the burger costume all the time.”
-  - [Moderate] “And I have my gun.”
-  - [Moderate] “Well, I'm still gluing a knife to my foot.”
-  - [Moderate] “What are you doing? It's a starter's pistol.”
+  - [Too much] “Stab! Stab! Stab! Sting, sting, sting! "What are you doing?" "I'm squeezing lemon into your wound!" Sweet baby blade foot.”
+  - [Caution] “I have a gun! So, get set Where has this sport been all my life? You know, I wear the burger costume all the time.”
+  - [Caution] “And I have my gun.”
+  - [Caution] “Well, I'm still gluing a knife to my foot.”
+  - [Caution] “What are you doing? It's a starter's pistol.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Aw How about another beer? Man, you kids got a great dad, you know that? One wife.”
   - [Mild] “See me? Boy, this microphone smells like beer.”
@@ -229,21 +229,21 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0201.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
-  - [Moderate] “A horny baby.”
+  - [Caution] “A horny baby.”
   - [Mild] “Oh! Scheduled sex.”
   - [Mild] “Not Teddy's Sade tape Dice? Sexy dice.”
   - [Mild] “Um, sounds sexy.”
   - [Mild] “Pill-popping sex freaks.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “I don't understand why is it still here? Well I may have slipped a penis pill into your casserole.”
-  - [Explicit] “You okay? How's your penis? It's okay.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “I don't understand why is it still here? Well I may have slipped a penis pill into your casserole.”
+  - [Too much] “You okay? How's your penis? It's okay.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “I got more blood in my head than a skeeter on a peter.”
+  - [Caution] “I got more blood in my head than a skeeter on a peter.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “There are tunnels under the factory where they brought the booze in with boats at high tide.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “Stick to noodles, right? - Is that racist? - Yes.”
+  - [Too much] “Stick to noodles, right? - Is that racist? - Yes.”
 
 ## S2 E2 — 2. Bob Day Afternoon
 URL: https://watchwiththekids.com/ep/bobs-burgers/0202.html
@@ -253,20 +253,20 @@ Watch for:
   - [Mild] “Shake 'em loose, Bob! Let's Go! I'm trying! They're not letting me go! I have too many unanswered questions! What is sex?! Gene, just let go! I don't know what sex is! I said, I'm coming! Bob! Come back safe, Bobby.”
   - [Mild] “Ow, man, not my Sex-U-V! All right, now's my chance.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “It looks like a huge, misshapen penis.”
-  - [Explicit] “It's supposed to be a fish, not a rocket, or a penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “It looks like a huge, misshapen penis.”
+  - [Too much] “It's supposed to be a fish, not a rocket, or a penis.”
   - [Mild] “Are you sure you guys are naked?! Totally.”
 - Violence & injury — 5 moment(s)
-  - [Moderate] “Not yet! Shots fired! Shots fired! Finally, some gun play.”
-  - [Moderate] “You know, I had a gun, I needed some money.”
+  - [Caution] “Not yet! Shots fired! Shots fired! Finally, some gun play.”
+  - [Caution] “You know, I had a gun, I needed some money.”
   - [Mild] “I just punched a cardboard cutout guy.”
   - [Mild] “I didn't even punch it, I just flicked it.”
   - [Mild] “I will punch you.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Burger in one hand, beer in the other-- living life.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “Bobby! How did you miss that?! Fatty got in the way.”
+  - [Caution] “Bobby! How did you miss that?! Fatty got in the way.”
 
 ## S2 E3 — 3. Synchronized Swimming
 URL: https://watchwiththekids.com/ep/bobs-burgers/0203.html
@@ -281,10 +281,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0204.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “He had sex, then we happened! Deal with it! I was wrong about you.”
+  - [Caution] “He had sex, then we happened! Deal with it! I was wrong about you.”
   - [Mild] “Sounds like a sex thing.”
 - Violence & injury — 7 moment(s)
-  - [Moderate] “…do, you cannot win That's how rules work Crawl up the mountain on hands and knees It's stained with the blood of your enemies Groping for glory I've eaten nine birthday cakes, and I still feel empty.”
+  - [Caution] “…do, you cannot win That's how rules work Crawl up the mountain on hands and knees It's stained with the blood of your enemies Groping for glory I've eaten nine birthday cakes, and I still feel empty.”
   - [Mild] “I'll teach you, if you beat up Tyler.”
   - [Mild] “You're not too zonked to beat up Tyler, are you? No.”
   - [Mild] “Say something like "punch-thirty," then attack them all.”
@@ -297,31 +297,31 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0205.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “I don't want to die a virgin.”
+  - [Caution] “I don't want to die a virgin.”
   - [Mild] “Tabitha who? - The sexy pianist.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “She sings that song about oil spills, but you know she's talking about her vagina.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “She sings that song about oil spills, but you know she's talking about her vagina.”
 - Violence & injury — 2 moment(s)
   - [Mild] “Okay, punch yourself in the face, you idiot.”
   - [Mild] “I just was punched in the face by your harsh words! Look, let's just lock the doors, hunker down and wait this out.”
 - Swearing — 3 moment(s)
-  - [Moderate] “He's a nasty bitch.”
+  - [Caution] “He's a nasty bitch.”
   - [Mild] “I don't know if I should drive it Hey, Jennifer Slow-pez! Get the hell out of the road! My God, Lin.”
   - [Mild] “How we doing out there? What the hell, @BobsBurgersFoodTruck? "More like Boo-ritos"?! Trying to spread rumors, huh? You ruined my business today.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Anyway Everyone gets drunk and spends lots of money.”
   - [Mild] “Wow, this is going great, huh, Lin? Drunk people like hamburgers.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Makeover, ooh! We're gonna turn this whore into a Pretty Woman! Big mistake! Big! I love that part.”
+  - [Caution] “Makeover, ooh! We're gonna turn this whore into a Pretty Woman! Big mistake! Big! I love that part.”
 
 ## S2 E6 — 6. Dr. Yap
 URL: https://watchwiththekids.com/ep/bobs-burgers/0206.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
-  - [Moderate] “Whatever she needs?! What if, what if she wants to have sex with me? Whatever she needs.”
-  - [Moderate] “Oh, Linda, I am so sorry you had to witness our foreplay.”
+  - [Caution] “Whatever she needs?! What if, what if she wants to have sex with me? Whatever she needs.”
+  - [Caution] “Oh, Linda, I am so sorry you had to witness our foreplay.”
   - [Mild] “All right! Aunt Gayle got her groove back sexy.”
   - [Mild] “Sex?! Gayle's always wanted whatever I had.”
   - [Mild] “It's biologically proven that children lead to sexual intercourse and vice versa.”
@@ -330,10 +330,10 @@ Watch for:
   - [Mild] “Except my breasts are more even now.”
   - [Mild] “Oh, my God! Except for my long underwear.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Make up a story about how you single-handedly murdered a wild animal.”
+  - [Too much] “Make up a story about how you single-handedly murdered a wild animal.”
   - [Mild] “It all worked out?! You slapped me.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “I can't believe this! You're a hurtful slut, Bob! I can't take this anymore, Lin.”
+  - [Caution] “I can't believe this! You're a hurtful slut, Bob! I can't take this anymore, Lin.”
 
 ## S2 E7 — 7. Moody Foodie
 URL: https://watchwiththekids.com/ep/bobs-burgers/0207.html
@@ -343,9 +343,9 @@ Watch for:
   - [Mild] “Like my underwear.”
   - [Mild] “Our Bad Boy Robot Package comes with a boob job.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “I've seen some murders in my line of work, but what a hit job.”
-  - [Moderate] “This should catch any blood or bodily fluids.”
-  - [Moderate] “No blood, no jumper cables.”
+  - [Too much] “I've seen some murders in my line of work, but what a hit job.”
+  - [Caution] “This should catch any blood or bodily fluids.”
+  - [Caution] “No blood, no jumper cables.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “No, period! I'm gonna walk over to the Moody Foody's house and cook him dinner! Wine him, dine him, That's right, Gene! Thank you, Tina.”
 
@@ -365,7 +365,7 @@ Watch for:
   - [Mild] “Mommy doesn't get drunk.”
   - [Mild] “I told Zeke and Jimmy Junior that we'd hang out at the park tonight, and you'd bring margaritas.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Temp tramp stamps! Where's Tina? She should be doing this.”
+  - [Caution] “Temp tramp stamps! Where's Tina? She should be doing this.”
 
 ## S2 E9 — 9. Beefsquatch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0209.html
@@ -377,25 +377,25 @@ Watch for:
   - [Mild] “FCC, here comes Linda! Dagnabbit, pee popper, nuts to poppa, stinka boob taka, momma kaga, poopa daddy! What was that? I'm cursing on live TV! Uh, those aren't curse words.”
   - [Mild] “What can't breasts do? Milking the cow! Milking the cow! Listen, I'm sorry, Gene, about everything.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Spatula Knife Hands! Oh, hi, Beefsquatch.”
+  - [Caution] “Spatula Knife Hands! Oh, hi, Beefsquatch.”
 
 ## S3 E1 — 1. Ear-sy Rider
 URL: https://watchwiththekids.com/ep/bobs-burgers/0301.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] “This was Horny Dave's favorite jam.”
-  - [Moderate] “Horny Dave's favorite jam? This is my favorite jam.”
-  - [Moderate] “Critter, we had sex and you knocked me up Slow down! Slow down! This baby is your spawn.”
+  - [Caution] “This was Horny Dave's favorite jam.”
+  - [Caution] “Horny Dave's favorite jam? This is my favorite jam.”
+  - [Caution] “Critter, we had sex and you knocked me up Slow down! Slow down! This baby is your spawn.”
   - [Mild] “You can't buy me like a cheap sex lady! Too slow, down low.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “She can open a beer with her boobs.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Sorry there's blood on some of it.”
-  - [Moderate] “Everyone who's got a knife, grab it! It's a fight to the death! Hey, hey, you can't fight these people, Critter.”
+  - [Caution] “Sorry there's blood on some of it.”
+  - [Caution] “Everyone who's got a knife, grab it! It's a fight to the death! Hey, hey, you can't fight these people, Critter.”
 - Alcohol & drugs — 8 moment(s)
-  - [Explicit] “If we were fighting, he'd come out and he'd say, "Let's go cook some meth!" And we would, and we'd forget all our troubles.”
-  - [Explicit] “Maybe we should cook meth.”
+  - [Too much] “If we were fighting, he'd come out and he'd say, "Let's go cook some meth!" And we would, and we'd forget all our troubles.”
+  - [Too much] “Maybe we should cook meth.”
   - [Mild] “Welcome! You serve beer? We do not.”
   - [Mild] “What's that? That is beer.”
   - [Mild] “They might throw a Molotov cocktail in here.”
@@ -403,7 +403,7 @@ Watch for:
   - [Mild] “Um, I'm not sure whiskey is I have a flask in my golf bag.”
   - [Mild] “Dad, two beers.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Yeah, calm it, hussy! Do not call my wife a whore.”
+  - [Caution] “Yeah, calm it, hussy! Do not call my wife a whore.”
 
 ## S3 E2 — 2. Full Bars
 URL: https://watchwiththekids.com/ep/bobs-burgers/0302.html
@@ -417,14 +417,14 @@ Watch for:
   - [Mild] “Yes! That's it! Let's put hot sauce in their underwear! Does that even do anything? Yeah, if there's one thing a wiener hates, it's hot sauce.”
   - [Mild] “What the? Hey! Bye! I should have just taken one! Those full bars are weighing me down! No! Louise? How many pairs of underwear did you hot sauce? Only one of them wore underwear! Huh.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “Every man is capable of murder if he's pushed far enough.”
-  - [Explicit] “Passion of m-m-murder passion.”
-  - [Explicit] “Sorry I called you all murderers.”
+  - [Too much] “Every man is capable of murder if he's pushed far enough.”
+  - [Too much] “Passion of m-m-murder passion.”
+  - [Too much] “Sorry I called you all murderers.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Every Halloween, after all the parents get drunk, the teenagers come out and they go freaking crazy.”
   - [Mild] “Lin, she's just drunk.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “What?! I- I didn't even know I did it! I couldn't feel her underneath this stupid fat suit that you made me wear! Oh.”
+  - [Caution] “What?! I- I didn't even know I did it! I couldn't feel her underneath this stupid fat suit that you made me wear! Oh.”
 
 ## S3 E3 — 3. Bob Fires the Kids
 URL: https://watchwiththekids.com/ep/bobs-burgers/0303.html
@@ -433,18 +433,18 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “It's not a sex thing, though, so Okay, I guess I'll keep these resumés on file.”
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Tell that to my vagina! You got other jobs? What do you mean, you got other jobs? What about the restaurant? Oh, that's adorable, Dad.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Tell that to my vagina! You got other jobs? What do you mean, you got other jobs? What about the restaurant? Oh, that's adorable, Dad.”
   - [Mild] “and then I woke up nude on horseback in the forest, and there she was, my Beverly.”
   - [Mild] “You're not wearing any underwear.”
   - [Mild] “Do not wear underwear in prison.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “That's the only time in my whole life I ever want to have SWAT guys pointing guns at my face.”
-  - [Moderate] “No SWAT teams! No guns! Code red, Mother! Code red! B- Bob, what do I do? I've never been an innocent bystander before.”
+  - [Caution] “That's the only time in my whole life I ever want to have SWAT guys pointing guns at my face.”
+  - [Caution] “No SWAT teams! No guns! Code red, Mother! Code red! B- Bob, what do I do? I've never been an innocent bystander before.”
 - Alcohol & drugs — 4 moment(s)
-  - [Explicit] “You didn't escape, did you? It turned out the prosecutor was on meth for the entire trial! And he drove his car into a peacock sanctuary.”
-  - [Moderate] “Yes, they could pick the weed s.”
-  - [Moderate] “We have a terrible weed problem.”
+  - [Too much] “You didn't escape, did you? It turned out the prosecutor was on meth for the entire trial! And he drove his car into a peacock sanctuary.”
+  - [Caution] “Yes, they could pick the weed s.”
+  - [Caution] “We have a terrible weed problem.”
   - [Mild] “I'll get you a beer A beer'd be nice.”
 
 ## S3 E4 — 4. Mutiny on the Windbreaker
@@ -452,7 +452,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0304.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “Whoo, throw a ripped wedding dress on this daiquiri 'cause it is not a virgin! Go ahead and give yourself a big tip on goldie.”
+  - [Caution] “Whoo, throw a ripped wedding dress on this daiquiri 'cause it is not a virgin! Go ahead and give yourself a big tip on goldie.”
   - [Mild] “And VIPs! Everyone, listen! This ship is! Fancy? Was he gonna say fancy? Sexy? Pregnant? A grand old dame? Don't tell us! Let it be a surprise! What's so funny? Oh, just, uh funny fish I saw.”
   - [Mild] “Ooh-ooh-ooh, sexy lady, ocean lady.”
 
@@ -461,17 +461,17 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0305.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “Calvin, your sperm did wonderfully.”
-  - [Moderate] “She took my sperm and ran with it.”
+  - [Caution] “Calvin, your sperm did wonderfully.”
+  - [Caution] “She took my sperm and ran with it.”
   - [Mild] “Got to get my sex face on.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Which are the lady parts? The vagina and the heart.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Which are the lady parts? The vagina and the heart.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Wow! Calvin, you kept my old rifle.”
-  - [Moderate] “Keep your blood money, Fischoeder! Bobby, come back! Not the gravy! Save me some dark meat! Lance, take care of my father! Get back here with that turkey! I'll get it back.”
+  - [Caution] “Wow! Calvin, you kept my old rifle.”
+  - [Caution] “Keep your blood money, Fischoeder! Bobby, come back! Not the gravy! Save me some dark meat! Lance, take care of my father! Get back here with that turkey! I'll get it back.”
 - Swearing — 3 moment(s)
-  - [Moderate] “You don't mind if I cock this thing in here, do you? Cock away.”
+  - [Caution] “You don't mind if I cock this thing in here, do you? Cock away.”
   - [Mild] “There's my girl! Okay, time to break the wishbone, right? Oh, crap, it's still in the turkey.”
   - [Mild] “So gosh damn married! Hello, it's me, the cook, Bob Or Burt.”
 - Alcohol & drugs — 5 moment(s)
@@ -490,7 +490,7 @@ Watch for:
   - [Mild] “Nude hot tub-- no.”
   - [Mild] “Why is the shark attacking that submarine? The CIA is training sharks to attack Soviet subs, and they're holding the shark's baby hostage in the nude hot tub.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Where do you shop? I really thought being block captain would be more fun, like I'd have a gun or a Taser or something.”
+  - [Caution] “Where do you shop? I really thought being block captain would be more fun, like I'd have a gun or a Taser or something.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “If a spike strip can stop those drunk Shriners, it should be able to stop a shark.”
 
@@ -499,11 +499,11 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0307.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] “His last wish was to be buried at the house he was murdered in.”
-  - [Explicit] “Yeah, with the shovel he was murdered with.”
-  - [Moderate] “I call shotgun.”
+  - [Too much] “His last wish was to be buried at the house he was murdered in.”
+  - [Too much] “Yeah, with the shovel he was murdered with.”
+  - [Caution] “I call shotgun.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Huh! Huh! We gotta take that son of a bitch down! Language.”
+  - [Caution] “Huh! Huh! We gotta take that son of a bitch down! Language.”
   - [Mild] “Or hell jail.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Wait, how'd you manage to hit a parked car? Are you drunk? No.”
@@ -514,13 +514,13 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0308.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Don't blame us, fatty! Lookin' good! Aw! Horny little grandpa.”
-  - [Moderate] “Thanks, horny little grandpa! Well, I learned my lesson.”
+  - [Caution] “Don't blame us, fatty! Lookin' good! Aw! Horny little grandpa.”
+  - [Caution] “Thanks, horny little grandpa! Well, I learned my lesson.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “If you got yourself a stiff Don't dump it in a ditch Take your corpse to Mort! That's me! That was really good.”
+  - [Too much] “If you got yourself a stiff Don't dump it in a ditch Take your corpse to Mort! That's me! That was really good.”
 - Fat-shaming — 2 moment(s)
-  - [Moderate] “Did you lose weight? Little bit.”
-  - [Moderate] “Don't blame us, fatty! Lookin' good! Aw! Horny little grandpa.”
+  - [Caution] “Did you lose weight? Little bit.”
+  - [Caution] “Don't blame us, fatty! Lookin' good! Aw! Horny little grandpa.”
 
 ## S3 E9 — 9. God Rest Ye Merry Gentle-Mannequins
 URL: https://watchwiththekids.com/ep/bobs-burgers/0309.html
@@ -530,14 +530,14 @@ Watch for:
   - [Mild] “And there's only one sex shopping day till Christmas.”
   - [Mild] “Every sex shop owner has his price.”
 - Nudity & bodies — 5 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “If you want to give Sal something, he needs a penis.”
-  - [Explicit] “She didn't have nipples, and, brother, she didn't need them.”
-  - [Explicit] “Wait, why didn't she need nipples? I was so heartbroken.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “If you want to give Sal something, he needs a penis.”
+  - [Too much] “She didn't have nipples, and, brother, she didn't need them.”
+  - [Too much] “Wait, why didn't she need nipples? I was so heartbroken.”
   - [Mild] “And wooden boobs.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “I'm not one of those murder mannequins or satanic mannequins.”
-  - [Explicit] “He said he's not a murder mannequin.”
+  - [Too much] “I'm not one of those murder mannequins or satanic mannequins.”
+  - [Too much] “He said he's not a murder mannequin.”
   - [Mild] “I'll make punch.”
   - [Mild] “You always want to make punch.”
 
@@ -550,11 +550,11 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “My shoulder and Cynthia's left boob.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] “Only strippers shave above the knee.”
-  - [Explicit] “Unless you become a hooker.”
+  - [Too much] “Only strippers shave above the knee.”
+  - [Too much] “Unless you become a hooker.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] “Now, how do we get down there? No one goes in without a vest and a laser gun.”
-  - [Moderate] “Where's mommy's gun?! So, welcome to the war.”
+  - [Caution] “Now, how do we get down there? No one goes in without a vest and a laser gun.”
+  - [Caution] “Where's mommy's gun?! So, welcome to the war.”
   - [Mild] “Logan, come on! We got to think! Walk a mile in each other's shoes Oh, I swear to God, if you keep talking, I'm gonna gut-punch you! It's a beautiful story of love and acceptance.”
 
 ## S3 E11 — 11. Nude Beach
@@ -565,7 +565,7 @@ Watch for:
   - [Mild] “…with a master plan And the ladies call me Tex And the one thing all the ladies know is I'm good at having Sex, sex, sex, sex, sex, sex, sex I leave my shirt on, that's okay Don't make me feel self-conscious, babe…”
   - [Mild] “…And the ladies call me Tex And the one thing all the ladies know is I'm good at having Uh-uh-uh-uh-uh, sex-sex-sex-sex-sex I'm good at sex, I'm good at sex I'm very, very, very, very good at sex I am good, you are…”
 - Nudity & bodies — 9 moment(s)
-  - [Explicit] “What is that? Is that a liver spot? Is that a birthmark? Is that a third nipple? Who knows? You can't write this crap! Hold up, hold up, hold up.”
+  - [Too much] “What is that? Is that a liver spot? Is that a birthmark? Is that a third nipple? Who knows? You can't write this crap! Hold up, hold up, hold up.”
   - [Mild] “Who're you going to harass next, guys? Well, Bob, if you must know, perhaps you've heard our town is now home to a disgusting nude beach? There've been reports of vendors there serving food while n-n naked.”
   - [Mild] “One two three four Bobby, when are you and me gonna go to that nude beach that Hugo was talking about? Ugh.”
   - [Mild] “Guess my boobs didn't get the memo.”
@@ -575,17 +575,17 @@ Watch for:
   - [Mild] “What's going on here, anyway? - Naked field day! Fun! - Ugh.”
   - [Mild] “Listen to you, Bob! It's all about things with you! Restaurants! Rat feces! Underwear! Oh, God.”
 - Porn / strippers / sex work — 4 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “What about that song, "Elderly Prostitute"? Da, da, da, da, da, elderly prostitute Da, da, da, boo, ba, elderly prostitute All right, I'll say something.”
-  - [Explicit] “It's no "Elderly Prostitute.”
-  - [Explicit] “You, you, you! The Itsy-Bitsy Stripper climbed up the brassy pole Down came her legs and wrapped around my soul Weave your web of your sexy web…”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “What about that song, "Elderly Prostitute"? Da, da, da, da, da, elderly prostitute Da, da, da, boo, ba, elderly prostitute All right, I'll say something.”
+  - [Too much] “It's no "Elderly Prostitute.”
+  - [Too much] “You, you, you! The Itsy-Bitsy Stripper climbed up the brassy pole Down came her legs and wrapped around my soul Weave your web of your sexy web…”
 - Violence & injury — 4 moment(s)
-  - [Moderate] “You know, I play almost every night over at Pistol McSwish's Basketball and Brew.”
-  - [Moderate] “Whatcha doin', Pops? Hitting the streets for some hooch? No, he's off to Pistol McSwish's to see the new health inspector play his rock.”
+  - [Caution] “You know, I play almost every night over at Pistol McSwish's Basketball and Brew.”
+  - [Caution] “Whatcha doin', Pops? Hitting the streets for some hooch? No, he's off to Pistol McSwish's to see the new health inspector play his rock.”
   - [Mild] “What, you punching me? I'm punching you back.”
   - [Mild] “Daddy! You abandoned me! Daddy! You sold drugs to me! Punches are not hugs to me! Eh.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “Nothing's ever gonna keep you down Big fatty wins the tug! Bad luck, little fatty! Three legs, four thighs and two ding-dongs.”
+  - [Caution] “Nothing's ever gonna keep you down Big fatty wins the tug! Bad luck, little fatty! Three legs, four thighs and two ding-dongs.”
 
 ## S3 E12 — 12. Broadcast Wagstaff School News
 URL: https://watchwiththekids.com/ep/bobs-burgers/0312.html
@@ -594,7 +594,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “It was like two babies climbin' on the same boob.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Um, skank? That's much better! Uh, I hate your new hair color.”
+  - [Caution] “Um, skank? That's much better! Uh, I hate your new hair color.”
 
 ## S3 E13 — 13. My Fuzzy Valentine
 URL: https://watchwiththekids.com/ep/bobs-burgers/0313.html
@@ -605,24 +605,24 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Clean-up, aisle my panties.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “"From"? No! My heart was murdered by the word "from.”
-  - [Moderate] “And one of these; it's called a gun.”
-  - [Moderate] “Uh, Lin, I don't think you can take a police officer's gun.”
+  - [Too much] “"From"? No! My heart was murdered by the word "from.”
+  - [Caution] “And one of these; it's called a gun.”
+  - [Caution] “Uh, Lin, I don't think you can take a police officer's gun.”
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] “Two people Together forever Security in life And someone to love ya Instead of being all alone Such a lonely existence I'd kill myself.”
-  - [Explicit] “…forever Security in life And someone to love ya Instead of being all alone Such a lonely existence I'd kill myself.”
+  - [Too much] “Two people Together forever Security in life And someone to love ya Instead of being all alone Such a lonely existence I'd kill myself.”
+  - [Too much] “…forever Security in life And someone to love ya Instead of being all alone Such a lonely existence I'd kill myself.”
 
 ## S3 E14 — 14. Lindapendant Woman
 URL: https://watchwiththekids.com/ep/bobs-burgers/0314.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “Oh, hey, nobody ever said I rock at my old job, and I was sleeping with the boss.”
+  - [Caution] “Oh, hey, nobody ever said I rock at my old job, and I was sleeping with the boss.”
   - [Mild] “Oh, no, you must be bad at sex.”
   - [Mild] “If there's one thing I know, it's that sex sells.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “If you don't want to be here, then don't be here! We'll be fine without you! Okay, I will! I'm a full-time Fresh Feeder! And here's a review for you! Uh, Dad's gonna need your gun and your badge, too, Mom.”
-  - [Moderate] “Louise, uh grab that pricing gun and-and price those tuna cans.”
+  - [Caution] “If you don't want to be here, then don't be here! We'll be fine without you! Okay, I will! I'm a full-time Fresh Feeder! And here's a review for you! Uh, Dad's gonna need your gun and your badge, too, Mom.”
+  - [Caution] “Louise, uh grab that pricing gun and-and price those tuna cans.”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] “Yeah, can you tell me where the wine is? Ah, the grown-up grape juice.”
   - [Mild] “Ooh, wine in a squeeze bottle.”
@@ -644,7 +644,7 @@ Watch for:
   - [Mild] “May I bring you a cocktail? Ooh, appletinis.”
   - [Mild] “Pull over! I'm drunk.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “You dining alone? How does that happen? Whoa, whoa, ladies! Bring it down a notch, huh? Why don't I get you a nice booth in the back, right? We were all single once, but you don't got to be a slut about it, you know?”
+  - [Caution] “You dining alone? How does that happen? Whoa, whoa, ladies! Bring it down a notch, huh? Why don't I get you a nice booth in the back, right? We were all single once, but you don't got to be a slut about it, you know?”
 
 ## S3 E16 — 16. Topsy
 URL: https://watchwiththekids.com/ep/bobs-burgers/0316.html
@@ -664,9 +664,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “What's that dancing for? Just your skirt's stuck in your underwear.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Wow, he looks like a lion murdering a cloud.”
+  - [Too much] “Wow, he looks like a lion murdering a cloud.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Now let's finish what we started! - No, Zeke! Ow! You little son of a bitch! Hey, guys has, um Tina been talking about me at all? Um, no.”
+  - [Caution] “Now let's finish what we started! - No, Zeke! Ow! You little son of a bitch! Hey, guys has, um Tina been talking about me at all? Um, no.”
   - [Mild] “What the hell? Cut the fog, man! Cut the fog! Yeah! Douglas, what do you think? Take it slow or go rough? Josh, you be as nasty as you need to be.”
 
 ## S3 E18 — 18. It Snakes a Village
@@ -674,15 +674,15 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0318.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “I don't want all these old horny toads anywhere near my parents.”
+  - [Caution] “I don't want all these old horny toads anywhere near my parents.”
   - [Mild] “Guess who's been talking to Al about sex parties? - Who? - This guy.”
   - [Mild] “Oh, you're a hero 'cause you got my parents to go to a sex party?! Well, maybe not a hero, but, uh, eh.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Florida's our most penis-shaped state.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Florida's our most penis-shaped state.”
   - [Mild] “A bunch of naked old people all in a yuck, naked.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “Cheating on his wife.”
+  - [Caution] “Cheating on his wife.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Wine tasting.”
   - [Mild] “As - Ooh, yay, wine.”
@@ -692,10 +692,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0319.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “I hate to agree with the defense, and also, I hate the defense and his smug face, and his misshapen penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “I hate to agree with the defense, and also, I hate the defense and his smug face, and his misshapen penis.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “I call shotgun! I call optional third row.”
+  - [Caution] “I call shotgun! I call optional third row.”
 
 ## S3 E20 — 20. The Kids Run the Restaurant
 URL: https://watchwiththekids.com/ep/bobs-burgers/0320.html
@@ -705,11 +705,11 @@ Watch for:
   - [Mild] “Winner, winner, burger dinner! Louise, why are we in our underwear? So you don't steal any of that money you're counting.”
   - [Mild] “Saw a tomato and you were like, "Hey, I know where this goes in my underwear.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “Bobby, your finger crotch looks like a '70s porno.”
+  - [Too much] “Bobby, your finger crotch looks like a '70s porno.”
 - Violence & injury — 4 moment(s)
-  - [Moderate] “Blood is your teeth's way of saying, "Mind your own business!" - I only floss on my birthday - Guys.”
-  - [Moderate] “Seems like blood shouldn't be able to get through all this.”
-  - [Moderate] “Kids! Come look at my bloody face.”
+  - [Caution] “Blood is your teeth's way of saying, "Mind your own business!" - I only floss on my birthday - Guys.”
+  - [Caution] “Seems like blood shouldn't be able to get through all this.”
+  - [Caution] “Kids! Come look at my bloody face.”
   - [Mild] “Dad, I can't beat him, but you can.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Who needs that? Any minute now, sailors will be pouring through that door, wanting burgers and beer.”
@@ -724,8 +724,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I put my bra on one boob at a time like everyone else.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Why would you waste a scream on a stupid boy band? Screams are for roller coasters or axe murderers or Dad's morning breath.”
-  - [Explicit] “There's been a murder backstage.”
+  - [Too much] “Why would you waste a scream on a stupid boy band? Screams are for roller coasters or axe murderers or Dad's morning breath.”
+  - [Too much] “There's been a murder backstage.”
 
 ## S3 E22 — 22. Carpe Museum
 URL: https://watchwiththekids.com/ep/bobs-burgers/0322.html
@@ -734,9 +734,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Oh, like how my stepmom's on a sex strike till my dad fixes the VCR.”
 - Nudity & bodies — 6 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “I've got a yum-yum, you've got a penis.”
-  - [Explicit] “…weina, weina, weina, wang Boys are from Mars, girls are from Venus I've got a yum-yum, you've got a penis Boys are from Mars Girls are from Venus I've got a yum-yum, you've got a penis Boom, chaka, boom, chaka…”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “I've got a yum-yum, you've got a penis.”
+  - [Too much] “…weina, weina, weina, wang Boys are from Mars, girls are from Venus I've got a yum-yum, you've got a penis Boys are from Mars Girls are from Venus I've got a yum-yum, you've got a penis Boom, chaka, boom, chaka…”
   - [Mild] “He wrote down where to find all the boobs in the museum.”
   - [Mild] “They all have hair covering their boobs.”
   - [Mild] “I never heard of anyone having a boob fetish.”
@@ -748,10 +748,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0323.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “It'll shrink your penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “It'll shrink your penis.”
 - Swearing — 5 moment(s)
-  - [Moderate] “Throw to first base! Ah, you're such a dick, Bob.”
+  - [Caution] “Throw to first base! Ah, you're such a dick, Bob.”
   - [Mild] “You're its boss and you are pissed off.”
   - [Mild] “Where are you, you big, beautiful silver bastard? Who would do this? Hi, Tina.”
   - [Mild] “Manoogian! - Oh, crap.”
@@ -762,7 +762,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0401.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Your father and I are being held hostage by the horny hermits.”
+  - [Caution] “Your father and I are being held hostage by the horny hermits.”
   - [Mild] “Very sexual.”
 - Nudity & bodies — 5 moment(s)
   - [Mild] “Some people skinny-dip there.”
@@ -783,18 +783,18 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0403.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “Something about Quippiquisset just makes people horny as hell.”
-  - [Moderate] “…island! We're gonna starve out here, all because you thought I was so bored of my marriage that I would have sex with some slimy seaplane pilot.”
+  - [Caution] “Something about Quippiquisset just makes people horny as hell.”
+  - [Caution] “…island! We're gonna starve out here, all because you thought I was so bored of my marriage that I would have sex with some slimy seaplane pilot.”
   - [Mild] “Women do not want to be tricked into having sex.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “What the? And flair mama! Shoshana, Shoshana, oh, oh, oh, oh, God, God, God, oh! Looks like Kurt's trying to land with his penis again.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “What the? And flair mama! Shoshana, Shoshana, oh, oh, oh, oh, God, God, God, oh! Looks like Kurt's trying to land with his penis again.”
   - [Mild] “Rub my breasts.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] “The bored wife cheats death, then cheats on her husband.”
-  - [Moderate] “" She's not cheating on me! Okay Well, what do we do now? The radio's dead.”
+  - [Caution] “The bored wife cheats death, then cheats on her husband.”
+  - [Caution] “" She's not cheating on me! Okay Well, what do we do now? The radio's dead.”
 - Violence & injury — 4 moment(s)
-  - [Moderate] “How about now, Dad? No! I'm trying to do it! How much progress have you made? It's not a real knife, - And I'm on the wing of a plane! - Pontoon! Just a percent, a percent.”
+  - [Caution] “How about now, Dad? No! I'm trying to do it! How much progress have you made? It's not a real knife, - And I'm on the wing of a plane! - Pontoon! Just a percent, a percent.”
   - [Mild] “Dad, what's gonna happen when you see Upskirt Kurt? Are you gonna punch him? I'm not punching anyone, Louise.”
   - [Mild] “Why would you head-butt me? I was gonna punch you, but I'm holding wine.”
   - [Mild] “Ah Ow! You punched my butt! What is it with you people? What were you even aiming for? I don't know.”
@@ -828,11 +828,11 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0405.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “You want to mess around? What? I don't know, all these turkeys it makes me horny.”
-  - [Moderate] “No, let's just have sex! Ah, God, this feels so great! I should just sorry, I got to go cook this.”
+  - [Caution] “You want to mess around? What? I don't know, all these turkeys it makes me horny.”
+  - [Caution] “No, let's just have sex! Ah, God, this feels so great! I should just sorry, I got to go cook this.”
   - [Mild] “Take one of the allergy pills I got you! Well, Dad, I hope you're not allergic to melody and rhythm and sexy lyrics, 'cause our guests are gonna love my Thanksgiving song! Ugh.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Yeah, because I was up all night trying to stop a turkey murderer.”
+  - [Too much] “Yeah, because I was up all night trying to stop a turkey murderer.”
 
 ## S4 E6 — 6. Purple Rain-Union
 URL: https://watchwiththekids.com/ep/bobs-burgers/0406.html
@@ -843,42 +843,42 @@ Watch for:
   - [Mild] “…from the heart I still got two out of five, I still got two out of five I still got two out of five sexy parts!”
   - [Mild] “Oh, come on! Why not? Because you never let me sing any of my songs! That's because your songs were all so, uh Sexual.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] “I wrote a song about it called "Ge-Ge-Ge-Ge, Ge-Ge-Ge-Ge, Ge-Ge-Ge-Ge, Genitals.”
-  - [Explicit] “Dad's nose got a nipple! It's a pimple, and it's hideous.”
+  - [Too much] “I wrote a song about it called "Ge-Ge-Ge-Ge, Ge-Ge-Ge-Ge, Ge-Ge-Ge-Ge, Genitals.”
+  - [Too much] “Dad's nose got a nipple! It's a pimple, and it's hideous.”
   - [Mild] “This Ta-Ta has been a real boob.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “Is it a babysitter who stabbed a fellow babysitter in the back? Huh? Huh? Is it? Uh, no.”
-  - [Moderate] “I mean, I think I will, but 'Cause we're here to rock! I'm gonna be like Carrie up on the stage! But hopefully less blood.”
+  - [Too much] “Is it a babysitter who stabbed a fellow babysitter in the back? Huh? Huh? Is it? Uh, no.”
+  - [Caution] “I mean, I think I will, but 'Cause we're here to rock! I'm gonna be like Carrie up on the stage! But hopefully less blood.”
   - [Mild] “Well, then it's time for some punch! Thank you, little people! We're not gonna stay and mingle! Good night! Whoo! Good luck, Tay-tas.”
   - [Mild] “What? Where are you going and, and what happened to you? We all got punched, no one knows how, life's funny that way.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Yeah, Ta-Ta's, whoo! Oh drunk.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “We'll start with "We're the Ta-Ta's" and then we'll go right into "You Were All Wrong About Us" and then "Oh, Boy, You All Got So Fat.”
+  - [Caution] “We'll start with "We're the Ta-Ta's" and then we'll go right into "You Were All Wrong About Us" and then "Oh, Boy, You All Got So Fat.”
 
 ## S4 E7 — 7. Bob and Deliver
 URL: https://watchwiththekids.com/ep/bobs-burgers/0407.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “You're not a virgin.”
+  - [Caution] “You're not a virgin.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Holland's Old Penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Holland's Old Penis.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Hildy, let's go get drunk.”
   - [Mild] “What do you mean, "Get drunk"? Yay! We did it, Mr.”
 - Fat-shaming — 2 moment(s)
-  - [Moderate] “Fart! Alphonso Poo Poo Fatty III.”
-  - [Moderate] “Play the movie! Movie! Movie! Movie! Movie! Movie! Movie! Alphonso Poo Poo Fatty III! Dr.”
+  - [Caution] “Fart! Alphonso Poo Poo Fatty III.”
+  - [Caution] “Play the movie! Movie! Movie! Movie! Movie! Movie! Movie! Alphonso Poo Poo Fatty III! Dr.”
 
 ## S4 E8 — 8. Christmas In The Car
 URL: https://watchwiththekids.com/ep/bobs-burgers/0408.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Dad? What? Where do babies come from? You all come from my vagina.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Dad? What? Where do babies come from? You all come from my vagina.”
 - Violence & injury — 4 moment(s)
   - [Mild] “Hey, Tina, thanks for helping Louise beat up Santa.”
   - [Mild] “I'll tell you what, if you pull our car out of the snow, I-I'll-I'll let you punch me in the stomach.”
@@ -890,7 +890,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0409.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “I think he just gave me the double guns.”
+  - [Caution] “I think he just gave me the double guns.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Get him some wine.”
   - [Mild] “"Get him some wine"? He likes red.”
@@ -900,8 +900,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0410.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “And while you're doing that, Linda's going to get me your biggest knife.”
-  - [Moderate] “Butcher knife, check! Whoa, why do you have that? Me and Gene were playing pirates.”
+  - [Caution] “And while you're doing that, Linda's going to get me your biggest knife.”
+  - [Caution] “Butcher knife, check! Whoa, why do you have that? Me and Gene were playing pirates.”
 
 ## S4 E12 — 12. The Frond Files
 URL: https://watchwiththekids.com/ep/bobs-burgers/0412.html
@@ -919,7 +919,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Spots are for underwear, Tina.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Get all the blood to your head.”
+  - [Caution] “Get all the blood to your head.”
 
 ## S4 E14 — 14. Uncle Teddy
 URL: https://watchwiththekids.com/ep/bobs-burgers/0414.html
@@ -952,8 +952,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0416.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Just do whatever you did for the knife! Ticktock! I'm still figuring out how this works! I don't know when it comes and goes.”
-  - [Moderate] “And his friend, my other gun.”
+  - [Caution] “Just do whatever you did for the knife! Ticktock! I'm still figuring out how this works! I don't know when it comes and goes.”
+  - [Caution] “And his friend, my other gun.”
 
 ## S4 E17 — 17. The Equestranauts
 URL: https://watchwiththekids.com/ep/bobs-burgers/0417.html
@@ -964,11 +964,11 @@ Watch for:
   - [Mild] “And I don't mean the sexually-charged, awkward, confusing vibe at this party.”
   - [Mild] “I like sexually-charged, awkward, confusing things, too.”
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] “" Or give him some more nipples! You can never have enough! Ask a cat.”
+  - [Too much] “" Or give him some more nipples! You can never have enough! Ask a cat.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Ugh! What is in this? It's a cocktail, designed by and for Equestranaut lovers.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “A tattoo! They're tramp-stamping our tramp! How's my best buddy doing? Um, very excited, but I'd sure love to check out those dolls again real quick, and, um, I think I have to pee.”
+  - [Caution] “A tattoo! They're tramp-stamping our tramp! How's my best buddy doing? Um, very excited, but I'd sure love to check out those dolls again real quick, and, um, I think I have to pee.”
 
 ## S4 E18 — 18. Ambergris
 URL: https://watchwiththekids.com/ep/bobs-burgers/0418.html
@@ -987,15 +987,15 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “All right, sex time! Oh, my God, right.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Louise, what a surprise! I'm so glad it's you and not a murderer.”
+  - [Too much] “Louise, what a surprise! I'm so glad it's you and not a murderer.”
 
 ## S4 E20 — 20. Gene It On
 URL: https://watchwiththekids.com/ep/bobs-burgers/0420.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Hwah! Oh, no! That's my funny bone! Which is what I call my penis! Eh, you're hurting it! We're number one! Also I have to go number one.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Hwah! Oh, no! That's my funny bone! Which is what I call my penis! Eh, you're hurting it! We're number one! Also I have to go number one.”
 
 ## S4 E21 — 21. Wharf Horse
 URL: https://watchwiththekids.com/ep/bobs-burgers/0421.html
@@ -1004,28 +1004,28 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “And not the kind you give to decrepit old businesses, but the kind you give to hot, sexy, successful businesses.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “Beginning of a lifelong love affair.”
+  - [Caution] “Beginning of a lifelong love affair.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “I, uh I realized what you were trying to do was horribly wrong and is that a gun? Yup.”
+  - [Caution] “I, uh I realized what you were trying to do was horribly wrong and is that a gun? Yup.”
 
 ## S4 E22 — 22. World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town -- Part II)
 URL: https://watchwiththekids.com/ep/bobs-burgers/0422.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Like that time I texted mom that I was super horny when I was really super hungry.”
-  - [Moderate] “Why would I be horny? I'm not an antelope.”
+  - [Caution] “Like that time I texted mom that I was super horny when I was really super hungry.”
+  - [Caution] “Why would I be horny? I'm not an antelope.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Hey, what are you looking at? My boobs are up here.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “" Sure, if you want to look like a prostitute.”
+  - [Too much] “" Sure, if you want to look like a prostitute.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “…it's not a burger but I'll just pretend it is And maybe cry I did what I had to, I have no regrets I murdered my brother for power and sex What's this weird feeling inside of my chest?”
-  - [Explicit] “I didn't say What a crazy day! God, I had cereal in the morning, and by nighttime I'm getting murdered.”
+  - [Too much] “…it's not a burger but I'll just pretend it is And maybe cry I did what I had to, I have no regrets I murdered my brother for power and sex What's this weird feeling inside of my chest?”
+  - [Too much] “I didn't say What a crazy day! God, I had cereal in the morning, and by nighttime I'm getting murdered.”
   - [Mild] “Stop slapping me.”
   - [Mild] “Felix, I get one free punch.”
 - Swearing — 4 moment(s)
-  - [Moderate] “Hmm? Oh, God, swim away! Swim away! Everyone dive! Dive! Tina! Thank God, you beautiful four-eyed son of a bitch.”
+  - [Caution] “Hmm? Oh, God, swim away! Swim away! Everyone dive! Dive! Tina! Thank God, you beautiful four-eyed son of a bitch.”
   - [Mild] “So, I'm getting my recording studio and my nightclub? Yes! Damn it! I took care of it! Don't yell at me.”
   - [Mild] “What the hell was that? I think I took a picture, and I think I sent it.”
   - [Mild] “Ugh! Where the hell is he? He didn't just disappear.”
@@ -1041,14 +1041,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Gene, it's 9:30, and I have a lot of sweat in my underwear.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “…Wheeler! In a way that I can't tell you about right now! So never mind! Bye! Why did you throw that corpse on my car?”
+  - [Too much] “…Wheeler! In a way that I can't tell you about right now! So never mind! Bye! Why did you throw that corpse on my car?”
 
 ## S5 E2 — 2. Tina and the Real Ghost
 URL: https://watchwiththekids.com/ep/bobs-burgers/0502.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “It's like so You could cut the tension with a knife.”
+  - [Caution] “It's like so You could cut the tension with a knife.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I just need one more sip of my sÃ©ance wine.”
 
@@ -1059,25 +1059,25 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Longest I've been naked in three years.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “You stay the hell out of this, Mort! Bob, if you take your burgers from me, I will murder you and your mouthy wife.”
-  - [Moderate] “He crashes on your couch when he loses his job A guy pulls a knife, and you jump in front What?! You take the blade right in the gut! Oh, my God.”
-  - [Moderate] “You might have beaten me, Louise, but blood is thicker than ice.”
-  - [Moderate] “He crashes on your couch when he loses his job Guy pulls a knife and you jump in front You take the blade right in the gut Ow!”
+  - [Too much] “You stay the hell out of this, Mort! Bob, if you take your burgers from me, I will murder you and your mouthy wife.”
+  - [Caution] “He crashes on your couch when he loses his job A guy pulls a knife, and you jump in front What?! You take the blade right in the gut! Oh, my God.”
+  - [Caution] “You might have beaten me, Louise, but blood is thicker than ice.”
+  - [Caution] “He crashes on your couch when he loses his job Guy pulls a knife and you jump in front You take the blade right in the gut Ow!”
 - Swearing — 3 moment(s)
-  - [Moderate] “You son of a bitch.”
+  - [Caution] “You son of a bitch.”
   - [Mild] “Get the hell out of here! Yeah, go for it, Dad.”
   - [Mild] “I just Damn it, I don't remember hiring a fat Burt Reynolds.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] “Really? We're doing this? You're a mid-level drug dealer in an apartment stairwell.”
+  - [Caution] “Really? We're doing this? You're a mid-level drug dealer in an apartment stairwell.”
 
 ## S5 E4 — 4. Dawn Of The Peck
 URL: https://watchwiththekids.com/ep/bobs-burgers/0504.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “…ho! I've got my finger on the trigger I ain't lettin' go Mama used to tell me Girl, you better load your gun up right She said, "You, you gotta come out smokin' Hit it with your best shot every time”
+  - [Caution] “…ho! I've got my finger on the trigger I ain't lettin' go Mama used to tell me Girl, you better load your gun up right She said, "You, you gotta come out smokin' Hit it with your best shot every time”
 - Swearing — 5 moment(s)
-  - [Moderate] “Son of a bitch.”
+  - [Caution] “Son of a bitch.”
   - [Mild] “Those are the birds? W-why they making that noise? Hell if I know.”
   - [Mild] “(Tina moans nervously) (Bob screaming) - Dad! - Run! Run! Oh, my God, it's Cyclops! (Teddy shuddering) What the hell is happening?!”
   - [Mild] “Ow! He pecked me! Holy crap, that hurts.”
@@ -1095,7 +1095,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Go to your mom's bra drawer and find the cash she thinks is secret.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “I want to apologize for murdering its brother.”
+  - [Too much] “I want to apologize for murdering its brother.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] “This is why we made a "no signing up for things while drunk" rule.”
   - [Mild] “Make a lot of money hauling around lazies and drunks.”
@@ -1106,13 +1106,13 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0506.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] “Talking about your heart, Bob, not your nipple.”
+  - [Too much] “Talking about your heart, Bob, not your nipple.”
   - [Mild] “I was still breast-feeding.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “This is a great opportunity for you two to turn your bad blood to glad blood.”
+  - [Caution] “This is a great opportunity for you two to turn your bad blood to glad blood.”
 - Swearing — 6 moment(s)
-  - [Moderate] “He's slow, he can only do about a letter a day, but he can spell like a son of a bitch.”
-  - [Moderate] “Like a son of a bitch.”
+  - [Caution] “He's slow, he can only do about a letter a day, but he can spell like a son of a bitch.”
+  - [Caution] “Like a son of a bitch.”
   - [Mild] “Crap, this happens every year.”
   - [Mild] “But I've got a bunch of crap down in the basement if you kids want to take a look.”
   - [Mild] “I'd give you this big, beautiful bow, but then what would I wear? I threw away your garnish! Damn it! Order up! Order up! Lin, take this to Henry! No, Linda.”
@@ -1131,12 +1131,12 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I thought your underwear did that.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “You got shot in the eye.”
-  - [Explicit] “Why? I-I feel like if I got shot in the eye, I would want you to help my eye.”
-  - [Explicit] “But if there's a murder or a drug sting, call me.”
+  - [Too much] “You got shot in the eye.”
+  - [Too much] “Why? I-I feel like if I got shot in the eye, I would want you to help my eye.”
+  - [Too much] “But if there's a murder or a drug sting, call me.”
   - [Mild] “But when we showed up, guess who beat us to the punch.”
 - Swearing — 3 moment(s)
-  - [Moderate] “I'm just a washed-up old Thunderhag! Son of a bitch.”
+  - [Caution] “I'm just a washed-up old Thunderhag! Son of a bitch.”
   - [Mild] “Yeah! Yeah! Yeah! Yeah! What the hell? Can I get a menu, please? Whoa! Oh, my God.”
   - [Mild] “What the hell was that? Our handshake.”
 
@@ -1152,22 +1152,22 @@ Watch for:
   - [Mild] “It's naked Edith! It's good.”
   - [Mild] “Kids, look it's naked Edith.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Wow, that was cold-blooded.”
-  - [Moderate] “She's having surgery today, and I just wanted to mascot around for her before she went under the knife.”
+  - [Caution] “Wow, that was cold-blooded.”
+  - [Caution] “She's having surgery today, and I just wanted to mascot around for her before she went under the knife.”
 
 ## S5 E9 — 9. Speakeasy Rider
 URL: https://watchwiththekids.com/ep/bobs-burgers/0509.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “I know it's like we both won, but maybe we both don't need to sleep with the trophy, huh? Okay, one more night.”
+  - [Caution] “I know it's like we both won, but maybe we both don't need to sleep with the trophy, huh? Okay, one more night.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I'll be like Al Capone with breasts.”
 - Violence & injury — 2 moment(s)
   - [Mild] “But I don't want to beat her this way.”
   - [Mild] “Today, you beat her this way.”
 - Swearing — 4 moment(s)
-  - [Moderate] “Here they come! Son of a bitch! Yes! The Grand Prix is ours! Go Team K.”
+  - [Caution] “Here they come! Son of a bitch! Yes! The Grand Prix is ours! Go Team K.”
   - [Mild] “Uh You rot in hell, Bob! Hmm.”
   - [Mild] “And snap it off! Hell of a snap-off, Gene.”
   - [Mild] “Dibs on not telling him! Dibs on not Damn it! How do you talk so fast? Vroom.”
@@ -1181,14 +1181,14 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0510.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “If you have to sleep with her to get in, it's okay.”
+  - [Caution] “If you have to sleep with her to get in, it's okay.”
 - Violence & injury — 3 moment(s)
   - [Mild] “It's out of the way, we won't have to smell or hear you, and when it's time to punch out, there's the door.”
   - [Mild] “Start slapping faces, got it.”
   - [Mild] “No! No slapping.”
 - Swearing — 6 moment(s)
-  - [Moderate] “You did it, you old son of a bitch! And say hello to our newest employee! Logan? No! Dad! Uh-huh.”
-  - [Moderate] “(burps, blows air) Stink-a-cane! Son of a bitch!”
+  - [Caution] “You did it, you old son of a bitch! And say hello to our newest employee! Logan? No! Dad! Uh-huh.”
+  - [Caution] “(burps, blows air) Stink-a-cane! Son of a bitch!”
   - [Mild] “Belcher, we regret to inform youâ Damn it! Aw! Oh, they sent a packet of seeds.”
   - [Mild] “…her own tea I'm the world's greatest farmer Things are growing so well We're living in our own personal hell The restaurant's now a crappy place I think I found my happy The restaurant's now a crappy, crappy…”
   - [Mild] “I thought you were gonna keep taking that doofus's side, then I saw you out there, and damn it if you didn't make me proud.”
@@ -1207,8 +1207,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0512.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “What? A kitchen knife for $300.”
-  - [Moderate] “Not three inches! Three tables! Little bunny Lou-Lou Hopping through the forest I don't even know why we're talking, because I am not getting a $300 knife.”
+  - [Caution] “What? A kitchen knife for $300.”
+  - [Caution] “Not three inches! Three tables! Little bunny Lou-Lou Hopping through the forest I don't even know why we're talking, because I am not getting a $300 knife.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You're going to be president! Whew, head rush! I'm already a little drunk with power! Louise is disqualified for breaking into my office.”
 
@@ -1222,11 +1222,11 @@ Watch for:
   - [Mild] “I will return with our dragons! And then I shall breast-feed all of you! Oh.”
   - [Mild] “I'll breast-feed you first when we get back to Catsteros.”
 - Swearing — 3 moment(s)
-  - [Moderate] “No! No! Son of a bitch! Mom, come on.”
+  - [Caution] “No! No! Son of a bitch! Mom, come on.”
   - [Mild] “They had the glitz and glam to make you say, "Hot damn!" La, la, la, la, la, la, la Lana loves a llama, but the llama loves pajamas.”
   - [Mild] “Ow! Ow! Ow! Ow! Oh, crap.”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] “What do you say? We say yes! No, not you, fumble weed.”
+  - [Caution] “What do you say? We say yes! No, not you, fumble weed.”
   - [Mild] “I'll Trade you these tears for a couple of beers And this snot for a shot of whiskey Oh, she's good.”
   - [Mild] “And Lindette ended up married to the old drunk from the bar because she was a mean person who liked grounding people and going solo.”
 
@@ -1235,9 +1235,9 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0514.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] “Dad! You're shooting BBs at me! Ow! That one hit me in the nipple!”
-  - [Explicit] “No! We're not done! We're not? No! Two can play the game of having a helicopter that shoots stuff, Gene! Two can play! Wow, you sound really tough, even though you're holding your nipples.”
-  - [Explicit] “…look like the piece of crap True Lies one you sold me! But first, can I shoot you with a missile in your nipple?”
+  - [Too much] “Dad! You're shooting BBs at me! Ow! That one hit me in the nipple!”
+  - [Too much] “No! We're not done! We're not? No! Two can play the game of having a helicopter that shoots stuff, Gene! Two can play! Wow, you sound really tough, even though you're holding your nipples.”
+  - [Too much] “…look like the piece of crap True Lies one you sold me! But first, can I shoot you with a missile in your nipple?”
   - [Mild] “…I'm gonna have to stand up there with the whole class staring at me and my armpits are gonna sweat and my boobs are gonna sweat and all the sweat's gonna meet in the middle and everyone's gonna know I didn't read the…”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Were you drunk shopping? No.”
@@ -1252,23 +1252,23 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “He has testicles for God's sake! I know! I told them, "Guys, those are testicles!" No one believed me! Everyone thought they were butt boobs! (grunts) I can't believe that worked.”
 - Swearing — 4 moment(s)
-  - [Moderate] “What? Okay, if you were a chinchilla, and you were a rascally little son of a bitch that wouldn't stay in a box, where would you be? No! Damn it! Here, Shinobu.”
+  - [Caution] “What? Okay, if you were a chinchilla, and you were a rascally little son of a bitch that wouldn't stay in a box, where would you be? No! Damn it! Here, Shinobu.”
   - [Mild] “All right, now that we got the easy one out of the way Oh, crap.”
   - [Mild] “Aw, crap! Reggie's is closed.”
   - [Mild] “But my wife found a way to make this date night fun, and, damn it, I'm not sorry about that.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] “You guys smoke weed? No, the chinchilla you paid $40 for.”
+  - [Caution] “You guys smoke weed? No, the chinchilla you paid $40 for.”
 
 ## S5 E16 — 16. The Runaway Club
 URL: https://watchwiththekids.com/ep/bobs-burgers/0516.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “And I'm gonna sleep with my eyes open.”
+  - [Caution] “And I'm gonna sleep with my eyes open.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Uh, I just came in today to pull up these old wrestling mats because they're full of, uh, blood and spit.”
+  - [Caution] “Uh, I just came in today to pull up these old wrestling mats because they're full of, uh, blood and spit.”
 - Swearing — 5 moment(s)
-  - [Moderate] “I give back like a son of a bitch.”
+  - [Caution] “I give back like a son of a bitch.”
   - [Mild] “She's a horrible person who caused all of this, and everyone should be released from this hell pit except her.”
   - [Mild] “Bastard! We got to help her.”
   - [Mild] “Still think this is a bunch of crap.”
@@ -1279,10 +1279,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0517.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “That one where you pretend the banana is your penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “That one where you pretend the banana is your penis.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “…I'll be a potter Or a teacher like Welcome Back, Kotter Maybe I'll juggle or maybe I'll juice Be a Top Gun and be friends with Goose One thing I know for sure I don't need music I don't need you anymore I don't…”
+  - [Caution] “…I'll be a potter Or a teacher like Welcome Back, Kotter Maybe I'll juggle or maybe I'll juice Be a Top Gun and be friends with Goose One thing I know for sure I don't need music I don't need you anymore I don't…”
 
 ## S5 E18 — 18. Eat, Spray, Linda
 URL: https://watchwiththekids.com/ep/bobs-burgers/0518.html
@@ -1291,26 +1291,26 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “We're coming in! Put your boobs away.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Deal! Now let's Bloody Mary up this tub! It's Mommy's birthday! - Gene, grab the vodka! - All right.”
+  - [Caution] “Deal! Now let's Bloody Mary up this tub! It's Mommy's birthday! - Gene, grab the vodka! - All right.”
 - Swearing — 4 moment(s)
-  - [Moderate] “Yes! I win! Son of a bitch.”
+  - [Caution] “Yes! I win! Son of a bitch.”
   - [Mild] “Pretty decent birthday? More like best birthday! Best birthday? Best day of her life! Oh, mm Oh, come on! Aw, gum? Ew! Damn it! Wha oh! No, no, no, no, no, no! I hate my birthday! Hi.”
   - [Mild] “…stepping all over everything! Sorry, sorry! Ooh, good manhole! Ooh, space! Hi, aliens! Whoa! Whoa! Whoa! Damn it!”
   - [Mild] “Bobby, does this parrot make me look cool? Oh, crap.”
 - Racism & slurs — 1 moment(s)
-  - [Explicit] “What did he do? He's really racist.”
+  - [Too much] “What did he do? He's really racist.”
 
 ## S5 E19 — 19. Housetrap
 URL: https://watchwiththekids.com/ep/bobs-burgers/0519.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] “Come on! Helen's not a murderer.”
-  - [Explicit] “Ye, well, murder's a pretty big crime.”
-  - [Explicit] “Yeah, if you take away her warm smile, she's got the ice-cold stare of an ice-cold murderer.”
-  - [Explicit] “Anyone except someone who's gonna murder him.”
+  - [Too much] “Come on! Helen's not a murderer.”
+  - [Too much] “Ye, well, murder's a pretty big crime.”
+  - [Too much] “Yeah, if you take away her warm smile, she's got the ice-cold stare of an ice-cold murderer.”
+  - [Too much] “Anyone except someone who's gonna murder him.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] “He's-he's stoned out of his mind.”
+  - [Caution] “He's-he's stoned out of his mind.”
 
 ## S5 E20 — 20. Hawk & Chick
 URL: https://watchwiththekids.com/ep/bobs-burgers/0520.html
@@ -1321,9 +1321,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Eh, what's 30 years? I got underwear older than that.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Aah, I'm getting stabbed.”
+  - [Too much] “Aah, I'm getting stabbed.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] “We are going to weed you out! Crap, we need the villagers! Lin! Lin! Psst! We need you guys up here.”
+  - [Caution] “We are going to weed you out! Crap, we need the villagers! Lin! Lin! Psst! We need you guys up here.”
 
 ## S5 E21 — 21. The Oeder Games
 URL: https://watchwiththekids.com/ep/bobs-burgers/0521.html
@@ -1338,12 +1338,12 @@ Watch for:
   - [Mild] “Then let's tie my underwear to a bird.”
   - [Mild] “I guess Mom's never really had to launch her boobs very far.”
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “Start with the porno guy, that's what they always say.”
+  - [Too much] “Start with the porno guy, that's what they always say.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “You grab as many balloons as you can, find cover, and at the sound of my pistol, start ballooning.”
-  - [Moderate] “Rent hike means rent No! Oh, but the gun says yes.”
+  - [Caution] “You grab as many balloons as you can, find cover, and at the sound of my pistol, start ballooning.”
+  - [Caution] “Rent hike means rent No! Oh, but the gun says yes.”
 - Swearing — 6 moment(s)
-  - [Moderate] “Son of a bitch! Sorry, Dad.”
+  - [Caution] “Son of a bitch! Sorry, Dad.”
   - [Mild] “So do we have an alliance? Hell yeah.”
   - [Mild] “Hell, J-Ju takes you for granted.”
   - [Mild] “Damn Internet.”
@@ -1358,17 +1358,17 @@ Watch for:
   - [Mild] “Or it's sexy.”
   - [Mild] “We have a son? How could you do this to me? Have you met you? The only thing that you ever cared about was your career and your sex life.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] “Can you hang bricks from your nipples? I I-I don't think I can.”
+  - [Too much] “Can you hang bricks from your nipples? I I-I don't think I can.”
   - [Mild] “This is how you throw a shrimp!" Dad's naked lip is no match For a small karat, visibly occluded, rose-cut diamond.”
   - [Mild] “Who is bob belcher? His name is written in my underwear.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] “Oh! I mean prostitutes.”
-  - [Explicit] “Of all the women who are not supermodel-prostitutes, You are the most attractive.”
+  - [Too much] “Oh! I mean prostitutes.”
+  - [Too much] “Of all the women who are not supermodel-prostitutes, You are the most attractive.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Uh-oh! Got a little blood.”
-  - [Moderate] “Oh, god! Oh, god Doctor: I don't really like the sight of blood, either.”
+  - [Caution] “Uh-oh! Got a little blood.”
+  - [Caution] “Oh, god! Oh, god Doctor: I don't really like the sight of blood, either.”
 - Alcohol & drugs — 3 moment(s)
-  - [Explicit] “Cocaine? No I'm talking about a mustache.”
+  - [Too much] “Cocaine? No I'm talking about a mustache.”
   - [Mild] “So, one night, I was having a quiet cocktail With my friend ginger.”
   - [Mild] “I'm sorry I wasted your time.”
 
@@ -1383,7 +1383,7 @@ Watch for:
   - [Mild] “You can! - You make me want to punch the air.”
   - [Mild] “Punch it! You make me feel like I can jump over this parking meter.”
 - Swearing — 4 moment(s)
-  - [Moderate] “"See you soon, bitch.”
+  - [Caution] “"See you soon, bitch.”
   - [Mild] “" Take you to the gates of Hell? Right? - "American Girl.”
   - [Mild] “Jor-jo? I'm gonna call you "Damn Jam.”
   - [Mild] “What the hell?! - Uh, yeah.”
@@ -1393,8 +1393,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0603.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] “What do you think it is? It's probably just a murderer.”
-  - [Explicit] “What? No, it's not a murderer, Tina.”
+  - [Too much] “What do you think it is? It's probably just a murderer.”
+  - [Too much] “What? No, it's not a murderer, Tina.”
 
 ## S6 E4 — 4. Gayle Makin' Bob Sled
 URL: https://watchwiththekids.com/ep/bobs-burgers/0604.html
@@ -1406,18 +1406,18 @@ Watch for:
   - [Mild] “Oh You need to check it in at least three places: the breast, the outer thigh, Uh uh and then the inner thigh.”
   - [Mild] “Breast, 125.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “I'm not a murderer.”
-  - [Explicit] “And if there's a murderer in here, uh, don't murder me.”
-  - [Moderate] “Time to eat, my little low-blood-sugar booger.”
+  - [Too much] “I'm not a murderer.”
+  - [Too much] “And if there's a murderer in here, uh, don't murder me.”
+  - [Caution] “Time to eat, my little low-blood-sugar booger.”
 
 ## S6 E5 — 5. Nice-Capades
 URL: https://watchwiththekids.com/ep/bobs-burgers/0605.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “…why you watch that, Bob, she's bored When we were walking to school, you told me I should put away my penis before we got to school, and I did.”
-  - [Explicit] “You told him to put away his penis And that was pretty cool.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “…why you watch that, Bob, she's bored When we were walking to school, you told me I should put away my penis before we got to school, and I did.”
+  - [Too much] “You told him to put away his penis And that was pretty cool.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “…outside's gettin' thicker So let's open that bottle of liquor Hey, bourbon, take me home On bourbon, on vodka, on scotch and on gin Take me back Let the North Pole dancing begin It's my party (humming) Felix?”
 
@@ -1428,13 +1428,13 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Frond make out?! Oh, yeah.”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] “I'm sorry, but that movie is to archeology what Pretty Woman is to prostitution.”
-  - [Explicit] “Who was a prostitute in Pretty Woman? They all were, honey! Oh.”
+  - [Too much] “I'm sorry, but that movie is to archeology what Pretty Woman is to prostitution.”
+  - [Too much] “Who was a prostitute in Pretty Woman? They all were, honey! Oh.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Oh Me llamo Tina But it can also be dangerous, like a tiger with a gun.”
-  - [Moderate] “Me llamo Tina But it can also be dangerous, like a tiger with a gun.”
+  - [Caution] “Oh Me llamo Tina But it can also be dangerous, like a tiger with a gun.”
+  - [Caution] “Me llamo Tina But it can also be dangerous, like a tiger with a gun.”
 - Swearing — 2 moment(s)
-  - [Moderate] “What? You think I should want Aunt Gayle to be happy because she's our aunt and we love her? You're saying I'm being selfish?! A selfish brat?! Is that what you're saying?! Oh, gosh darn it! Son of a bitch!”
+  - [Caution] “What? You think I should want Aunt Gayle to be happy because she's our aunt and we love her? You're saying I'm being selfish?! A selfish brat?! Is that what you're saying?! Oh, gosh darn it! Son of a bitch!”
   - [Mild] “Frond? She took my dead grandma shawl doll! Dead grandma shawl doll? What the hell is that? It sounds weird when you say it.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “So, uh, Steve, do you want you want something to drink? Do you want wine? We have wine.”
@@ -1448,7 +1448,7 @@ Watch for:
   - [Mild] “1 Ooh, whatcha doing? Making a sexy piggy bank? No, it's the collection box for the Donations 4 Carnations fund-raiser.”
   - [Mild] “You want to go make out? Yeah.”
 - Swearing — 6 moment(s)
-  - [Moderate] “Then pick that son of a bitch! Voila.”
+  - [Caution] “Then pick that son of a bitch! Voila.”
   - [Mild] “Damn it, Labonz, you're not playing fair! Screw fair.”
   - [Mild] “Oh, damn it.”
   - [Mild] “Jocelyn got four?! Who the hell is sending Jocelyn so many flowers?! Well, I can steam them open and we could find out.”
@@ -1467,7 +1467,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “Put a burger on that board! (bell tinkles) Uh, why is Teddy walking in the street trying to punch cars?”
 - Swearing — 2 moment(s)
-  - [Moderate] “That son of a bitch.”
+  - [Caution] “That son of a bitch.”
   - [Mild] “" What is this crap? Hildy, do you want this to get tied up in the courts for years? Or do you want to just give me the extra fillings and send me on my way? Ugh.”
 
 ## S6 E9 — 9. Sacred Couch
@@ -1475,7 +1475,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0609.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 2 moment(s)
-  - [Moderate] “Son of a bitch.”
+  - [Caution] “Son of a bitch.”
   - [Mild] “Damn it, Dad! Do you want the old couch back or don't you?! Okay, fine.”
 
 ## S6 E10 — 10. Lice Things Are Lice
@@ -1485,8 +1485,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “When the Amish wanted to build a barn, did they do it themselves? No, Kelly McGillis took a sexy sponge bath and she got Harrison Ford to pitch in.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Mediterranean blood, you know? I'm not Mediterranean.”
-  - [Moderate] “They live on your hair and chew your head and and then drink the blood out of your scalp - by sucking it out - Shut up! Using their little louse bodies as straws.”
+  - [Caution] “Mediterranean blood, you know? I'm not Mediterranean.”
+  - [Caution] “They live on your hair and chew your head and and then drink the blood out of your scalp - by sucking it out - Shut up! Using their little louse bodies as straws.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “'Cause that would be medicine and I can't dispense I know, Tina! You're drunk with lack of power.”
   - [Mild] “How do we get the word out? Did someone say "free beer"? Where? Where's free beer? Ohh Yes! I'll make a sign! After a couple of beers, this stuff pretty much delivers itself.”
@@ -1496,9 +1496,9 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0611.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] “DAINKO (high-pitched): Oh, yeah? Well, now I'm a hooker.”
+  - [Too much] “DAINKO (high-pitched): Oh, yeah? Well, now I'm a hooker.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Did you know there's vodka in a bloody Mary? Bob, what are you doing? Uh, I'm moving away from the pigeon that's inside of the restaurant.”
+  - [Caution] “Did you know there's vodka in a bloody Mary? Bob, what are you doing? Uh, I'm moving away from the pigeon that's inside of the restaurant.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I got pretty drunk this morning at brunch at the lodge.”
 
@@ -1518,25 +1518,25 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0613.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “I heard your penis gets stretched out, and it's never the same.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “I heard your penis gets stretched out, and it's never the same.”
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] “Why don't you just ask the One Eyed Snakes? The biker gang that you're the leader of? (muffled): I'm kind of on a break from the One Eyed Snakes.”
-  - [Moderate] “(muffled): I'm on a break from the One Eyed Snakes.”
+  - [Caution] “Why don't you just ask the One Eyed Snakes? The biker gang that you're the leader of? (muffled): I'm kind of on a break from the One Eyed Snakes.”
+  - [Caution] “(muffled): I'm on a break from the One Eyed Snakes.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “Maybe something in the stabbing department.”
-  - [Explicit] “Ever stab anybody? No.”
-  - [Explicit] “Please tell me he told you we had to stab somebody.”
+  - [Too much] “Maybe something in the stabbing department.”
+  - [Too much] “Ever stab anybody? No.”
+  - [Too much] “Please tell me he told you we had to stab somebody.”
 - Swearing — 5 moment(s)
-  - [Moderate] “That no-socks son of a bitch must've been pissed off enough to steal it.”
+  - [Caution] “That no-socks son of a bitch must've been pissed off enough to steal it.”
   - [Mild] “No? Damn it! I don't know why I gave you that option.”
   - [Mild] “This stinks! This sucks! Language! Oh, God, I have to tell Critter that someone stole his bike.”
   - [Mild] “You know what? I'll bet he misses raising hell with all of you, uh Lovable scamps?”
   - [Mild] “Damn, where were you yesterday when I was in training? And I brought you this from my Women of the Wild Weekend.”
 - Alcohol & drugs — 3 moment(s)
-  - [Explicit] “Coming up with more and more interesting ways to sell crystal methamphetamine.”
-  - [Explicit] “Nothing like the sound of a 1,200-cc engine in the body of an outlaw hog, uh? (laughs) Hey, we gotta split, man! The meth house is gonna blow! I'm just kidding.”
-  - [Explicit] “Yeah, he hardly wants any meth.”
+  - [Too much] “Coming up with more and more interesting ways to sell crystal methamphetamine.”
+  - [Too much] “Nothing like the sound of a 1,200-cc engine in the body of an outlaw hog, uh? (laughs) Hey, we gotta split, man! The meth house is gonna blow! I'm just kidding.”
+  - [Too much] “Yeah, he hardly wants any meth.”
 
 ## S6 E14 — 14. The Hormone-iums
 URL: https://watchwiththekids.com/ep/bobs-burgers/0614.html
@@ -1545,10 +1545,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “15! 15 cents from the sexy stylist on the stool.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Do you swear not to tell? I think so as long as it's not murder.”
-  - [Moderate] “Twenty-five! Whoa, too rich for my blood.”
+  - [Too much] “Do you swear not to tell? I think so as long as it's not murder.”
+  - [Caution] “Twenty-five! Whoa, too rich for my blood.”
 - Swearing — 1 moment(s)
-  - [Moderate] “Dad, you son of a bitch.”
+  - [Caution] “Dad, you son of a bitch.”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] “It's not just a giant shoe, it's a, it's a it's a uh, it's a Wine Shoe.”
   - [Mild] “Yeah, it's an elegant way to display your wine.”
@@ -1562,9 +1562,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Ooh, our counter's gonna look like a sexy hula dancer! Should I start wearing a coconut bra? No.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “…some space!" (strained): But I want to touch the rich guy! You got skills, Louise, but I had all of my blood and organs replaced with steel a lot of rich people are doing it now so I'm immortal and I can't be hurt…”
+  - [Caution] “…some space!" (strained): But I want to touch the rich guy! You got skills, Louise, but I had all of my blood and organs replaced with steel a lot of rich people are doing it now so I'm immortal and I can't be hurt…”
 - Swearing — 3 moment(s)
-  - [Moderate] “Son of a bitch! Damn it! I told you, Bob, I won't cash it.”
+  - [Caution] “Son of a bitch! Damn it! I told you, Bob, I won't cash it.”
   - [Mild] “â­Oh, crap! I'm sorry! Oh, my God.”
   - [Mild] PINEAPPLE: “Aloha! Damn.”
 - Alcohol & drugs — 1 moment(s)
@@ -1575,19 +1575,19 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0616.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
-  - [Explicit] “Whoever shot him was good at shooting someone a lot.”
-  - [Explicit] “Do we really want to be the murder restaurant? If it comes with a plaque like this, sure.”
-  - [Moderate] “" What we need are a couple of cold-blooded mercenaries who will do anything for the right price.”
-  - [Moderate] “Now? Or And he's all (screams) and the blood's going wow! It was like, zoom! (laughs) (distorted): It's the best thing that's ever happened to me! Rat-a-tat-a-tat- a-tat-a-tat-a-tat.”
+  - [Too much] “Whoever shot him was good at shooting someone a lot.”
+  - [Too much] “Do we really want to be the murder restaurant? If it comes with a plaque like this, sure.”
+  - [Caution] “" What we need are a couple of cold-blooded mercenaries who will do anything for the right price.”
+  - [Caution] “Now? Or And he's all (screams) and the blood's going wow! It was like, zoom! (laughs) (distorted): It's the best thing that's ever happened to me! Rat-a-tat-a-tat- a-tat-a-tat-a-tat.”
   - [Mild] “But remember when we went to the concert and you kind of lost your mind? Listen, some freak thing happened to me at that concert but then I slapped Boo Boo's face and now I'm cured.”
   - [Mild] “I slapped him out of my system! I slapped him out! Okay, but at the concert you were not I don't even remember that concert and I do not have dreams about it ever.”
 - Swearing — 4 moment(s)
-  - [Moderate] “Son of a bitch! It's true.”
+  - [Caution] “Son of a bitch! It's true.”
   - [Mild] “Who's The Grunt? What the hell's a grunt? Dominic "The Grunt" Gruntanno, one of the biggest bootleggers on this stretch of coast, and he was gunned down right here in 1931.”
   - [Mild] “First I'd like to say, what the fudge, right?! (all yelling) Who the hell does Boo Boo think he is?! Honey â­(groans) No, sorry.”
   - [Mild] “It's crap! Awful, pandering crap.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “…dance during the Boyz 4 Now cover of "Maniac," which appeared on their covers album We Got You Covered! Easy, girl, easy.”
+  - [Caution] “…dance during the Boyz 4 Now cover of "Maniac," which appeared on their covers album We Got You Covered! Easy, girl, easy.”
 
 ## S6 E17 — 17. The Horse Rider-Er
 URL: https://watchwiththekids.com/ep/bobs-burgers/0617.html
@@ -1596,15 +1596,15 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I mean, I am happy with how my god's eye straw bra came out.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “(grunts) Uh-oh, looks like there was a murder! We need CSI: Napkin Swamp.”
+  - [Too much] “(grunts) Uh-oh, looks like there was a murder! We need CSI: Napkin Swamp.”
 
 ## S6 E18 — 18. Secret Admiral-irer
 URL: https://watchwiththekids.com/ep/bobs-burgers/0618.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “This hat was once a Tom Skerritt in Top Gun Halloween costume and now look at it.”
-  - [Moderate] “That's not romantic, that's cold-blooded.”
+  - [Caution] “This hat was once a Tom Skerritt in Top Gun Halloween costume and now look at it.”
+  - [Caution] “That's not romantic, that's cold-blooded.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Bubble bath, glass of wine, cookie dough Paint just one fingernail, see what it looks like Can we come by around midnight? Uh, w-we close at 7:00.”
   - [Mild] “Then we drank a lot of wine, and then Taj brought a whole goat, and then we drank some grain alcohol from Iceland.”
@@ -1614,7 +1614,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0619.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “And you're waving a knife in my face, which is making me nervous, Lin.”
+  - [Caution] “And you're waving a knife in my face, which is making me nervous, Lin.”
   - [Mild] “What, are they writing an article on guys with mustaches you wanna punch? Zoom! (chuckles) I say "zoom" now.”
 
 ## S7 E1 — 1. Flu-ouise
@@ -1626,11 +1626,11 @@ Watch for:
   - [Mild] “You gave him boobs.”
   - [Mild] “Boobs? Those are his arms.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] “Well, why don't I bring over my heat gun and we try to fix it? You have a heat gun? Yeah, I use it to weld PVC pipe for plumbing.”
-  - [Moderate] “Also, maybe if you see the heat gun, you'll remember it the next time I bring it up in conversation.”
+  - [Caution] “Well, why don't I bring over my heat gun and we try to fix it? You have a heat gun? Yeah, I use it to weld PVC pipe for plumbing.”
+  - [Caution] “Also, maybe if you see the heat gun, you'll remember it the next time I bring it up in conversation.”
   - [Mild] “He's our Dad-ador! Aye, buddy? (slapping) Oops.”
 - Swearing — 5 moment(s)
-  - [Moderate] “We're a bunch of sorry sons of bitches.”
+  - [Caution] “We're a bunch of sorry sons of bitches.”
   - [Mild] “Does anyone else feel kind of freezing and, like, floaty? (breathes deeply) Just me? Ugh, where the hell is Kuchi Kopi? (air horn blares) Just a second.”
   - [Mild] “You are! What the hell is going on here?! BOB: Wow, I had no idea how great Kuchi Kopi is.”
   - [Mild] “Louise, no! Don't push the button! Oh, crap.”
@@ -1643,21 +1643,21 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0702.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] “And didn't she cheat on you, like, a lot? Yes, but I was working seven, eight hours a day, five days a week sometimes.”
-  - [Moderate] “O-Of course she cheated on me all over the place.”
+  - [Caution] “And didn't she cheat on you, like, a lot? Yes, but I was working seven, eight hours a day, five days a week sometimes.”
+  - [Caution] “O-Of course she cheated on me all over the place.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] “Wait, so we can't call for help? Well, there is a flare gun.”
+  - [Caution] “Wait, so we can't call for help? Well, there is a flare gun.”
   - [Mild] “I'll give you a tour and I'll see if I have any of my trespasser's punch.”
   - [Mild] “Ooh, punch! And this is the parlor.”
 - Swearing — 6 moment(s)
-  - [Moderate] “Oh, land! You sweet son of a bitch, get over here.”
-  - [Moderate] “I played that no-good son of a bitch boyfriend of hers.”
+  - [Caution] “Oh, land! You sweet son of a bitch, get over here.”
+  - [Caution] “I played that no-good son of a bitch boyfriend of hers.”
   - [Mild] “Teddy, you really want to try again? Damn right I do.”
   - [Mild] “Crap, we're still stuck.”
   - [Mild] “(engine revving) (Teddy growling) (cracking) We're free! (grunting) â­Crap.”
   - [Mild] “Hell, he bought this island for her.”
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] “Also, please don't weed-whack us.”
+  - [Caution] “Also, please don't weed-whack us.”
 
 ## S7 E3 — 3. Teen-a Witch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0703.html
@@ -1666,21 +1666,21 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Wait, I thought we were gonna be sexy Judge Judys? No, Jocelyn, I'm gonna be a hot mess.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “(screams) Did you guys see that? The knife almost stabbed my foot! You could've lost a toe.”
-  - [Moderate] “And then one year my dad sat in the bushes with a BB gun and he waited for the squirrels to come.”
+  - [Too much] “(screams) Did you guys see that? The knife almost stabbed my foot! You could've lost a toe.”
+  - [Caution] “And then one year my dad sat in the bushes with a BB gun and he waited for the squirrels to come.”
 
 ## S7 E4 — 4. They Serve Horses, Dont They
 URL: https://watchwiththekids.com/ep/bobs-burgers/0704.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] “'Cause, uh, you're gonna scratch your nipples off.”
-  - [Explicit] “(stammering) The nipple will come off.”
-  - [Explicit] “Good luck with your nipples, Bob! Did we get anything at all? We got something, Dad.”
+  - [Too much] “'Cause, uh, you're gonna scratch your nipples off.”
+  - [Too much] “(stammering) The nipple will come off.”
+  - [Too much] “Good luck with your nipples, Bob! Did we get anything at all? We got something, Dad.”
 - Violence & injury — 1 moment(s)
   - [Mild] “And three me punching Jack over and over - and over and over - Okay, Tina, okay.”
 - Swearing — 6 moment(s)
-  - [Moderate] “(both grunting) BOB (grunting): Uh uh That crazy son of a bitch.”
+  - [Caution] “(both grunting) BOB (grunting): Uh uh That crazy son of a bitch.”
   - [Mild] “Whew! We got nothing! We're doing another sting! Bob, you're ordering more horse meat! Crap.”
   - [Mild] “We got crap! I was really itchy.”
   - [Mild] “…from cake! Okay, I don't think there's any hair on this one, so I'm just gonna eat it, okay? (grunts) â­Damn it, Tina!”
@@ -1689,7 +1689,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm going to get a new hot dog! (grunting) No! Look at the size of this glass of wine! It's like a fishbowl! I love it here! â­Great.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Well, what do you want now? Are you gonna sell us napkins that are really trees?! Easy, girl, easy.”
+  - [Caution] “Well, what do you want now? Are you gonna sell us napkins that are really trees?! Easy, girl, easy.”
 
 ## S7 E5 — 5. Large Brother, Where Fart Thou?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0705.html
@@ -1698,28 +1698,28 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Remember when Mom put it under her shirt at the grocery store and pretended she had another boob, and then they made her buy it? (gasps) That was three years ago! We got to throw it.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “What if it's a guy with a gun and he really needs to pee? No.”
-  - [Moderate] “Well, then how are we gonna have a hot knife bath? And if anyone calls for us, say that we're home, but we're pooping.”
+  - [Caution] “What if it's a guy with a gun and he really needs to pee? No.”
+  - [Caution] “Well, then how are we gonna have a hot knife bath? And if anyone calls for us, say that we're home, but we're pooping.”
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] “Gerald, what's happening? What's going on? Uh, it turns out the cookies I gave you have marijuana in them a lot of it.”
-  - [Moderate] “We can't get stoned in the middle of the day.”
-  - [Moderate] “He totally knew I was stoned.”
+  - [Caution] “Gerald, what's happening? What's going on? Uh, it turns out the cookies I gave you have marijuana in them a lot of it.”
+  - [Caution] “We can't get stoned in the middle of the day.”
+  - [Caution] “He totally knew I was stoned.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Whoa, whoa, easy, Tina girl.”
+  - [Caution] “Whoa, whoa, easy, Tina girl.”
 
 ## S7 E6 — 6. The Quirkducers
 URL: https://watchwiththekids.com/ep/bobs-burgers/0706.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Hit it! I don't have a vagina But I won't stop try'na Come on, girls! Help women with their issues Okay, okay, okay.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Hit it! I don't have a vagina But I won't stop try'na Come on, girls! Help women with their issues Okay, okay, okay.”
   - [Mild] “…not just going to dinner, I think we are the dinner! I thought I was a guest But they just want me for my breast Much to my surprise They're all staring at my thighs They all look starving And ready for the carving Why…”
   - [Mild] “…pig What a rush Yeah! Man, oh, man, I dig that pig I thought I was a guest, but they just want me For my breast Much to my surprise They're all staring at my thighs They all look starving And ready for the carving Why…”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “It makes you want to leave your blood, sweat, tears and pee out on the stage.”
+  - [Caution] “It makes you want to leave your blood, sweat, tears and pee out on the stage.”
 - Swearing — 3 moment(s)
-  - [Moderate] “(soft grunt) I got the guts! That's our Tina! You've got the guts, and you! (grunts) And you and you! And you and you and you! Tina, you son of a bitch.”
+  - [Caution] “(soft grunt) I got the guts! That's our Tina! You've got the guts, and you! (grunts) And you and you! And you and you and you! Tina, you son of a bitch.”
   - [Mild] “Gene, when you said, "Tina, your play's got the goods," and you said "goods" like it had a "Z" at the end, that was just a bunch of crap? I never should have put that "Z" on the end.”
   - [Mild] “Hell yeah! I wouldn't mind getting home early, too.”
 
@@ -1728,21 +1728,21 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0707.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “I'm going to treat myself to a new penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “I'm going to treat myself to a new penis.”
   - [Mild] “Dad, you need a Venetian mask and a thong, stat! Stop it.”
 - Violence & injury — 9 moment(s)
-  - [Explicit] “Bathroom stuff? â­Murder! Huh.”
-  - [Explicit] “But where are they now? â­Florida? Murdered! A delivery man went in there once, never came out.”
-  - [Explicit] “What happened to him? They got married? Murdered! Aah They say he buried them all in the backyard, and then he just went right on murdering.”
-  - [Explicit] “Murder, murder, murder, murder, murder hello, sir murder! All right, Teddy, you convinced me, let's go there.”
-  - [Explicit] “â­What? Well, Oscar, anyone with a voice like yours can't be a murderer.”
-  - [Moderate] “(laughs) Isn't that nice? So, Bob, just put your guns on the gun table, and we can begin.”
-  - [Moderate] “Oh, I, I didn't bring any guns.”
-  - [Moderate] “Sorry about the knife.”
-  - [Moderate] “Aah! Felix, don't you grab a gun.”
+  - [Too much] “Bathroom stuff? â­Murder! Huh.”
+  - [Too much] “But where are they now? â­Florida? Murdered! A delivery man went in there once, never came out.”
+  - [Too much] “What happened to him? They got married? Murdered! Aah They say he buried them all in the backyard, and then he just went right on murdering.”
+  - [Too much] “Murder, murder, murder, murder, murder hello, sir murder! All right, Teddy, you convinced me, let's go there.”
+  - [Too much] “â­What? Well, Oscar, anyone with a voice like yours can't be a murderer.”
+  - [Caution] “(laughs) Isn't that nice? So, Bob, just put your guns on the gun table, and we can begin.”
+  - [Caution] “Oh, I, I didn't bring any guns.”
+  - [Caution] “Sorry about the knife.”
+  - [Caution] “Aah! Felix, don't you grab a gun.”
 - Swearing — 6 moment(s)
-  - [Moderate] “You son of a bitch! (alarm chiming) Aah! Time's up.”
+  - [Caution] “You son of a bitch! (alarm chiming) Aah! Time's up.”
   - [Mild] “Oh! Amity the albino polar bear cub! He's on the news again! Turn it up, damn it! OLSEN BENNER: Amity, the albino polar bear cub born at the Bog Harbor Zoo only a few days ago, is being called a Christmas bear-icle.”
   - [Mild] “What? Why? Because every year, every damn year, I lose.”
   - [Mild] “You wouldn't think it by the looks of them, but those men out there (stuttering): those, there are, so Well, they are some creative bastards.”
@@ -1758,7 +1758,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Mom, I have a relationship now! A-And, yes, I've stopped changing socks and underwear, and, yes, it smells funny in here.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Ow! Damn it! Son of a bitch! Oh, sorry! It's fine.”
+  - [Caution] “Ow! Damn it! Son of a bitch! Oh, sorry! It's fine.”
   - [Mild] “Whoa, what the hell is the robot doing here? Did anyone approve this? I was told to do everything a normal student would do.”
 
 ## S7 E9 — 9. Bob Actually
@@ -1771,20 +1771,20 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “" Ugh, what's taking so long? What's Tina even doing? Combing her boobs? (both laugh) (sighs) TINA: Hello.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “You can't stab him, though, okay? - You're so sweet to me.”
+  - [Too much] “You can't stab him, though, okay? - You're so sweet to me.”
 - Alcohol & drugs — 2 moment(s)
-  - [Moderate] “What flower what weeds? A weed is just the right plant growing in the wrong place.”
-  - [Moderate] “Louise, I wanted to ask you to give this Love Weed and this card to Chloe Barbash for me, in Science.”
+  - [Caution] “What flower what weeds? A weed is just the right plant growing in the wrong place.”
+  - [Caution] “Louise, I wanted to ask you to give this Love Weed and this card to Chloe Barbash for me, in Science.”
 
 ## S7 E10 — 10. There's No Business Like Mr. Business Business
 URL: https://watchwiththekids.com/ep/bobs-burgers/0710.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] “You can see his nipples.”
-  - [Explicit] “"A little stressed out," Bob? I've never seen his nipples like this.”
+  - [Too much] “You can see his nipples.”
+  - [Too much] “"A little stressed out," Bob? I've never seen his nipples like this.”
 - Swearing — 3 moment(s)
-  - [Moderate] “What?! - Son of a bitch! Oh, well.”
+  - [Caution] “What?! - Son of a bitch! Oh, well.”
   - [Mild] “(grunts) Damn it.”
   - [Mild] “Everybody ready to go to the cat food audition today? - Oh, damn it! - Attagirl! - (doorbell rings) - Uh, uh, there's Gayle.”
 
@@ -1800,10 +1800,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0712.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “I mean, he had a suit on, he had a penis, he looked familiar.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “I mean, he had a suit on, he had a penis, he looked familiar.”
 - Swearing — 1 moment(s)
-  - [Moderate] “You started this crazy candy ride, now finish it, you son of a bitch! Wow! I love motivational speeches.”
+  - [Caution] “You started this crazy candy ride, now finish it, you son of a bitch! Wow! I love motivational speeches.”
 
 ## S7 E13 — 13. The Grand Mama-Pest Hotel
 URL: https://watchwiththekids.com/ep/bobs-burgers/0713.html
@@ -1815,18 +1815,18 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “And, uh, what are we gonna do while they're gone? Enjoy all that extra room without their boobs in the way? Mm Maybe something easy that costs nothing? - Tickle party? - Eh.”
 - Swearing — 2 moment(s)
-  - [Moderate] “Gene? Yeah! Speeches! Speeches! Let me tell you something about this son of a bitch.”
+  - [Caution] “Gene? Yeah! Speeches! Speeches! Let me tell you something about this son of a bitch.”
   - [Mild] “Okay, that's a damn good disguise, but the jig is up.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] “Heroin Conference? What do you mean, like a jazz concert? That really isn't the best name.”
+  - [Too much] “Heroin Conference? What do you mean, like a jazz concert? That really isn't the best name.”
 
 ## S7 E14 — 14. Aquaticism
 URL: https://watchwiththekids.com/ep/bobs-burgers/0714.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “It's awful! It's like circumcision for your whole body, except your penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “It's awful! It's like circumcision for your whole body, except your penis.”
 - Violence & injury — 1 moment(s)
   - [Mild] “I got to say, this place looks pretty much like an aquarium with a couple of religious signs slapped up.”
 
@@ -1837,7 +1837,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I want a president with both those things, with feelings, and lips and a butt and boobs if it's a woman.”
 - Swearing — 6 moment(s)
-  - [Moderate] “" Son of a bitch.”
+  - [Caution] “" Son of a bitch.”
   - [Mild] “This is America, damn it, and we're the leader of the free world, not the liter.”
   - [Mild] “Damn, I even convinced myself.”
   - [Mild] “Should a robot be president? Hell yes.”
@@ -1852,9 +1852,9 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0716.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “Oh, I don't think I could sleep with this smell.”
+  - [Caution] “Oh, I don't think I could sleep with this smell.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “That's blood.”
+  - [Caution] “That's blood.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Am I drunk alrea (Bob groaning) Oh, my God.”
   - [Mild] “I-I think I might have still been drunk earlier.”
@@ -1864,9 +1864,9 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0717.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] “(sighs) I'm guessing you haven't been sleeping with a pillow between your knees, like we talked about? Dr.”
+  - [Caution] “(sighs) I'm guessing you haven't been sleeping with a pillow between your knees, like we talked about? Dr.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “I hope the guns are okay.”
+  - [Caution] “I hope the guns are okay.”
 - Alcohol & drugs — 4 moment(s)
   - [Mild] “It is now cocktail hour in the drawing room.”
   - [Mild] “Ooh, cocktail hour in the drawing room.”
@@ -1878,7 +1878,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0718.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
-  - [Moderate] “What are you mad about? Tickets, socks or marijuana? No.”
+  - [Caution] “What are you mad about? Tickets, socks or marijuana? No.”
   - [Mild] “Can I get some bread sticks? Is that going back to the kitchen? Aren't these seats great? Wine me, dine me and recline me.”
   - [Mild] “Just sipping my wine.”
 
@@ -1897,8 +1897,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0720.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “It's got acid for blood, so it can hurt you even after you've killed it.”
-  - [Moderate] “And you're a badass protective queen bee alien with acid for blood, right? Kinda, yeah, maybe.”
+  - [Caution] “It's got acid for blood, so it can hurt you even after you've killed it.”
+  - [Caution] “And you're a badass protective queen bee alien with acid for blood, right? Kinda, yeah, maybe.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'd live on a diet of wine and cheese You'd teach me to say thank you and also please Manners are important.”
 
@@ -1911,7 +1911,7 @@ Watch for:
   - [Mild] “Oh, you're not wearing any underwear.”
   - [Mild] “Is that Bob? (gasps) He's playing "Hot Pants Rain Dance"! It's like a fun, wet, almost naked version of Dad.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Ha! Kids, arm your T-shirt guns.”
+  - [Caution] “Ha! Kids, arm your T-shirt guns.”
 
 ## S7 E22 — 22. Into the Mild
 URL: https://watchwiththekids.com/ep/bobs-burgers/0722.html
@@ -1920,10 +1920,10 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “What's it called? It's called "My Boobs Are Down Here: Laughing and Aging and Raging and Laughing.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “You're not having an affair at all.”
+  - [Caution] “You're not having an affair at all.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “In another part, I violently stab a few pillows and rip 'em open.”
-  - [Moderate] “I looked up, she looked at me, and she gave me a wink and the finger guns.”
+  - [Too much] “In another part, I violently stab a few pillows and rip 'em open.”
+  - [Caution] “I looked up, she looked at me, and she gave me a wink and the finger guns.”
 
 ## S8 E1 — 1. Brunchsquatch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0801.html
@@ -1933,13 +1933,13 @@ Watch for:
   - [Mild] “I'm a sexy little tiger.”
   - [Mild] GENE: “I'm a sexy little tiger Roar! - BOB: Please, no.”
 - Violence & injury — 7 moment(s)
-  - [Explicit] “LINDA: What am I holding? - TINA: You've got a knife and you're gonna stab Dad.”
-  - [Explicit] “Now I'm afraid I'm gonna stab you.”
-  - [Explicit] “Okay, what are you guys doing to me there? Oh, we're stabbing you so we can keep your dog.”
-  - [Explicit] LOUISE: “Okay, everybody, start stabbing on the count of three! - GENE: I'm a little tiger - BOB: No, no, no, don't do that.”
-  - [Moderate] “"Now serving brunch and all you can drink Bloody Mary-naras.”
-  - [Moderate] “You don't understand! He's like a bloodhound.”
-  - [Moderate] “I had 16 Bloody Marys and I wasn't even buzzed.”
+  - [Too much] “LINDA: What am I holding? - TINA: You've got a knife and you're gonna stab Dad.”
+  - [Too much] “Now I'm afraid I'm gonna stab you.”
+  - [Too much] “Okay, what are you guys doing to me there? Oh, we're stabbing you so we can keep your dog.”
+  - [Too much] LOUISE: “Okay, everybody, start stabbing on the count of three! - GENE: I'm a little tiger - BOB: No, no, no, don't do that.”
+  - [Caution] “"Now serving brunch and all you can drink Bloody Mary-naras.”
+  - [Caution] “You don't understand! He's like a bloodhound.”
+  - [Caution] “I had 16 Bloody Marys and I wasn't even buzzed.”
 - Alcohol & drugs — 5 moment(s)
   - [Mild] “(hums) Is it great or what? I even drew a - little champagne glass, you see? - Good morning, sleepy-beepies! Oh, hey, Mom and Dad.”
   - [Mild] “Um, okay, of course, this is your first brunch day, so how could you? My real name is Dalton, but I write a blog, Brunch Drunk Love, - under the name Dame Judi Brunch.”
@@ -1952,12 +1952,12 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0802.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “You sure we can't just do some graffiti? Draw a penis on something? No, it's got to be extreme.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “You sure we can't just do some graffiti? Draw a penis on something? No, it's got to be extreme.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] MILLIE: “My love There's Only you in my life The only thing that's bright (singing flat): My first love Your every breath (both rapping): Wooriga gatchee itnun gun, baby baby!”
+  - [Caution] MILLIE: “My love There's Only you in my life The only thing that's bright (singing flat): My first love Your every breath (both rapping): Wooriga gatchee itnun gun, baby baby!”
 - Swearing — 5 moment(s)
-  - [Moderate] “The son of a bitch is still out there.”
+  - [Caution] “The son of a bitch is still out there.”
   - [Mild] “I don't think that's what happ Ah! Holy crap! - Yeah, sorry.”
   - [Mild] “Why are you still here? Buy some pipe cleaners or get the hell out! Okay.”
   - [Mild] “Damn! Hi, Mr.”
@@ -1965,8 +1965,8 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You could have drunk less coffee.”
 - Sexual insults — 2 moment(s)
-  - [Moderate] “No, no, no, no, no, no Sorry, toots, we got to go talk to tramp named O-line.”
-  - [Moderate] “Oh, a tramp named O-line.”
+  - [Caution] “No, no, no, no, no, no Sorry, toots, we got to go talk to tramp named O-line.”
+  - [Caution] “Oh, a tramp named O-line.”
 
 ## S8 E3 — 3. The Wolf of Wharf Street
 URL: https://watchwiththekids.com/ep/bobs-burgers/0803.html
@@ -1975,13 +1975,13 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Doesn't Teddy look hot? I thought I ordered a scary nurse, but I guess I clicked on sexy nurse instead.”
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “I'll even hold your penis if you need me to, Bob.”
-  - [Explicit] “I don't need you to hold my penis, Teddy.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “I'll even hold your penis if you need me to, Bob.”
+  - [Too much] “I don't need you to hold my penis, Teddy.”
 - Violence & injury — 3 moment(s)
-  - [Moderate] “But whatever you call it, it's allegedly extremely dangerous and allegedly out for blood, wreaking alleged havoc on our quiet little community, allegedly.”
-  - [Moderate] ANNOUNCER: “And now, our Halloween feature, Bosom Bloodies.”
-  - [Moderate] “Ooh, Bosom Bloodies.”
+  - [Caution] “But whatever you call it, it's allegedly extremely dangerous and allegedly out for blood, wreaking alleged havoc on our quiet little community, allegedly.”
+  - [Caution] ANNOUNCER: “And now, our Halloween feature, Bosom Bloodies.”
+  - [Caution] “Ooh, Bosom Bloodies.”
 
 ## S8 E4 — 4. Sit Me Baby One More Time
 URL: https://watchwiththekids.com/ep/bobs-burgers/0804.html
@@ -1991,9 +1991,9 @@ Watch for:
   - [Mild] “I understand that you're being a boob pube.”
   - [Mild] “We should put leaves in our underwear.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “(gasps): Oh, my God, Bob, we should have checked to make sure these people aren't murderers.”
-  - [Explicit] “Look, if you start getting murdered, just call us.”
-  - [Explicit] “And if we don't answer, we're getting murdered.”
+  - [Too much] “(gasps): Oh, my God, Bob, we should have checked to make sure these people aren't murderers.”
+  - [Too much] “Look, if you start getting murdered, just call us.”
+  - [Too much] “And if we don't answer, we're getting murdered.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “But I'm still drinking a lot of wine.”
 
@@ -2002,10 +2002,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0805.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Time to take back Thanksgiving! Get ready for Turkey 2: Judgment Day! All right, let me get you a new shirt and, uh, maybe wipe the blood off your face.”
+  - [Caution] “Time to take back Thanksgiving! Get ready for Turkey 2: Judgment Day! All right, let me get you a new shirt and, uh, maybe wipe the blood off your face.”
   - [Mild] “You look like you just got beat up by an Edward Scissorhand.”
 - Swearing — 1 moment(s)
-  - [Moderate] “If we find that son of a bitch cuckoo, I call it for best thing.”
+  - [Caution] “If we find that son of a bitch cuckoo, I call it for best thing.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “That's Ugh, give me some wine.”
   - [Mild] “Give me some wine.”
@@ -2015,7 +2015,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0806.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] GENE: “Dad's about to get horny! Where's the god-dang door? - BOB: Hey! (whoops) - What the? Over here! I'm the Christmas thief! The Bleaken is real.”
+  - [Caution] GENE: “Dad's about to get horny! Where's the god-dang door? - BOB: Hey! (whoops) - What the? Over here! I'm the Christmas thief! The Bleaken is real.”
 - Nudity & bodies — 7 moment(s)
   - [Mild] “Lin, can I please have the blanket? Are those new underwear? Those are nice.”
   - [Mild] “Bob, look at naked Santa.”
@@ -2025,8 +2025,8 @@ Watch for:
   - [Mild] “(laughs) Most of the year, you know me as Cleavage To Beaver.”
   - [Mild] “(gasps) Art, the naked artist guy? I confess.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “Key chain, for stabbing.”
-  - [Moderate] “Wha-What else you got? - Uh, you know, Mace, knife.”
+  - [Too much] “Key chain, for stabbing.”
+  - [Caution] “Wha-What else you got? - Uh, you know, Mace, knife.”
   - [Mild] “Ruler, for slapping or poking.”
 - Alcohol & drugs — 3 moment(s)
   - [Mild] “Nana used to give us wine.”
@@ -2041,9 +2041,9 @@ Watch for:
   - [Mild] “(yells) My bra unhooked.”
   - [Mild] “Also, you have some guacamole on your boob.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Oh! A night of romantic murder.”
+  - [Too much] “Oh! A night of romantic murder.”
 - Swearing — 4 moment(s)
-  - [Moderate] “It's it's He I made him a special picture frame for Valentine's Day with a picture of us in it, but then he hung it in his locker with a picture of Becky in it! - He what?! - He what?! That son of a bitch!”
+  - [Caution] “It's it's He I made him a special picture frame for Valentine's Day with a picture of us in it, but then he hung it in his locker with a picture of Becky in it! - He what?! - He what?! That son of a bitch!”
   - [Mild] “Yay! I'm swinging with my dad! Damn, one year off.”
   - [Mild] “Damn it! That's okay.”
   - [Mild] “(sniffs) Ew! - I'll smell you in hell.”
@@ -2061,7 +2061,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “To celebrate the success of my groundbreaking Ga-Ga ball program, we are having a ball-slapping, anything-can-happen, winner-take-all tournament.”
 - Swearing — 4 moment(s)
-  - [Moderate] “Go, Gene, you stout little son of a bitch! Knock him into sixth period! Hope you had fun, Gene.”
+  - [Caution] “Go, Gene, you stout little son of a bitch! Knock him into sixth period! Hope you had fun, Gene.”
   - [Mild] “KIDS (chanting): Ga-Ga ball! What the hell? Everyone's playing Ga-Ga ball.”
   - [Mild] “Damn right, she would.”
   - [Mild] “Oh oh, crap! (slow-motion growl) (cheering) A stunning upset! Gene Belcher, the big winner.”
@@ -2075,10 +2075,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “GENE: More like sexy-tary.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Besides being scared the drain in the bathtub will eat your penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Besides being scared the drain in the bathtub will eat your penis.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] “What's all this cocaine doing at school? Throw it away.”
+  - [Too much] “What's all this cocaine doing at school? Throw it away.”
 
 ## S8 E11 — 11. Sleeping with the Frenemy
 URL: https://watchwiththekids.com/ep/bobs-burgers/0811.html
@@ -2087,14 +2087,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Some kind of smarty-boobs speech that gets him over the hump.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Do places deliver here, or is the neighborhood too dangerous? Oh, it's super safe except for that huge unsolved murder that's gonna happen.”
+  - [Too much] “Do places deliver here, or is the neighborhood too dangerous? Oh, it's super safe except for that huge unsolved murder that's gonna happen.”
 
 ## S8 E12 — 12. The Hurt Soccer
 URL: https://watchwiththekids.com/ep/bobs-burgers/0812.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 7 moment(s)
-  - [Moderate] “…you of what you did! What what do I do now? It, uh throw it somewhere? - Kick it! Drop-kick that son of a bitch!”
+  - [Caution] “…you of what you did! What what do I do now? It, uh throw it somewhere? - Kick it! Drop-kick that son of a bitch!”
   - [Mild] “(muttering) Wow, you're remembering the crap out of that song.”
   - [Mild] “(gasps) What?! - What?! But then the damn lead actress said I was missing cues and playing off-tempo.”
   - [Mild] “And their dumb CD player won't complain if they treat it like crap.”
@@ -2109,7 +2109,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0813.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 3 moment(s)
-  - [Moderate] “That son of a bitch is really leaving.”
+  - [Caution] “That son of a bitch is really leaving.”
   - [Mild] “G-Great! Damn it.”
   - [Mild] “This is a living hell.”
 
@@ -2118,24 +2118,24 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0814.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] “Gene, check the VCR and make sure it's hooked up.”
-  - [Moderate] “I'm just gonna need to sleep with a kitchen knife.”
+  - [Caution] “Gene, check the VCR and make sure it's hooked up.”
+  - [Caution] “I'm just gonna need to sleep with a kitchen knife.”
   - [Mild] “I mean, zombies are more sexy than scary, right? I think everyone would agree with that.”
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] “Oops, "gelato" auto-typed to "genital.”
-  - [Explicit] “She signed it "genitals genitals.”
+  - [Too much] “Oops, "gelato" auto-typed to "genital.”
+  - [Too much] “She signed it "genitals genitals.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “Like when you think a guy is gonna murder you and then he proposes.”
-  - [Moderate] “Lars calls shotgun.”
-  - [Moderate] “I'm just gonna need to sleep with a kitchen knife.”
-  - [Moderate] “But maybe I'll sleep in your bed, too, you know, just to keep the knife company.”
+  - [Too much] “Like when you think a guy is gonna murder you and then he proposes.”
+  - [Caution] “Lars calls shotgun.”
+  - [Caution] “I'm just gonna need to sleep with a kitchen knife.”
+  - [Caution] “But maybe I'll sleep in your bed, too, you know, just to keep the knife company.”
 
 ## S8 E15 — 15. Go Tina on the Mountain
 URL: https://watchwiththekids.com/ep/bobs-burgers/0815.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 6 moment(s)
-  - [Moderate] “Son of a bitch.”
+  - [Caution] “Son of a bitch.”
   - [Mild] “What the hell is this place? Can't even see all this from just back there.”
   - [Mild] “Damn right you will.”
   - [Mild] “Our sister! Remember? There was three of us? One was hanging on your every lying word? Crap.”
@@ -2152,7 +2152,7 @@ Watch for:
   - [Mild] “Your boobs? I know what we need to do.”
   - [Mild] “Is it something with your boobs? No.”
 - Swearing — 5 moment(s)
-  - [Moderate] “Son of a bitch! Why didn't somebody stop me? Just kidding, I'm just kidding.”
+  - [Caution] “Son of a bitch! Why didn't somebody stop me? Just kidding, I'm just kidding.”
   - [Mild] “The people who did this to me will be prosecuted to the fullest extent of the law! Damn it.”
   - [Mild] “Hopefully no one outbids me on this Crap.”
   - [Mild] “I'll eat the crap out of a wrap.”
@@ -2181,14 +2181,14 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I'm also not sleeping, my boobs hurt, - and I'm up to my neck in poop.”
 - Violence & injury — 5 moment(s)
-  - [Explicit] “What if you snap and ask us to murder somebody? You'd have to do it, 'cause it's Mother's Day.”
-  - [Explicit] “It's so murder-y up here.”
-  - [Moderate] “And I've been saving buckets of squirrel blood for the right moment.”
-  - [Moderate] “Seems sad if you've been saving all that squirrel blood for nothing.”
-  - [Moderate] “This house has, like, 600 freaking steps, and you're scared she's gonna fall and end up looking like how she looks right now, all bloody and gross.”
+  - [Too much] “What if you snap and ask us to murder somebody? You'd have to do it, 'cause it's Mother's Day.”
+  - [Too much] “It's so murder-y up here.”
+  - [Caution] “And I've been saving buckets of squirrel blood for the right moment.”
+  - [Caution] “Seems sad if you've been saving all that squirrel blood for nothing.”
+  - [Caution] “This house has, like, 600 freaking steps, and you're scared she's gonna fall and end up looking like how she looks right now, all bloody and gross.”
 - Swearing — 6 moment(s)
-  - [Moderate] “Cock it? Pull it? - Cock it and pull it.”
-  - [Moderate] “Kyle high club? - Claire-atin? Un-cock it, un-pull it.”
+  - [Caution] “Cock it? Pull it? - Cock it and pull it.”
+  - [Caution] “Kyle high club? - Claire-atin? Un-cock it, un-pull it.”
   - [Mild] “I call dibs on the biggest one! - Hell no!”
   - [Mild] “Shall we go inside? What the hell is going on? You sound weird.”
   - [Mild] “I smoked you fools! - (panting) Damn it.”
@@ -2210,22 +2210,22 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0821.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “…this isn't on you That ceremony was upsetting The way those two rushed into this You'd think it was a shotgun wedding But do I take these buns to have and hold, I do All you can do is do your best-est Toast them…”
+  - [Caution] “…this isn't on you That ceremony was upsetting The way those two rushed into this You'd think it was a shotgun wedding But do I take these buns to have and hold, I do All you can do is do your best-est Toast them…”
 
 ## S9 E1 — 1. Just One of the Boyz 4 Now for Now
 URL: https://watchwiththekids.com/ep/bobs-burgers/0901.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 7 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Your nipples must be a mess.”
-  - [Explicit] “It does look like she has a little penis, though.”
-  - [Explicit] “All right, new thing: Teddy says we got to rub the rat's butt and genitals to make it pee and poop after we feed it.”
-  - [Explicit] “(harmonizing): There's no pants in space Uranus can't see your anus And Venus can't see your penis - Pants on Jupiter - There's nothing stupider Oh, you moon the Moon, it moons you back It moons me back…”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Your nipples must be a mess.”
+  - [Too much] “It does look like she has a little penis, though.”
+  - [Too much] “All right, new thing: Teddy says we got to rub the rat's butt and genitals to make it pee and poop after we feed it.”
+  - [Too much] “(harmonizing): There's no pants in space Uranus can't see your anus And Venus can't see your penis - Pants on Jupiter - There's nothing stupider Oh, you moon the Moon, it moons you back It moons me back…”
   - [Mild] “(rat squeaking) - There it is again! Bob, is that rat in your underwear? Well, Hugo, I'm pretty sure you're not allowed to look at my privates, so I guess (straining): we'll never know.”
   - [Mild] “But I'll be back with a warrant for your underwear.”
 - Swearing — 3 moment(s)
-  - [Moderate] “You're a thirsty bitch.”
+  - [Caution] “You're a thirsty bitch.”
   - [Mild] “(sighs) Damn it.”
   - [Mild] “Crap, crap, crap, crap! (gulping) (exhales) Thank you.”
 
@@ -2234,8 +2234,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0902.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] “Teddy, I'm just holding a knife.”
-  - [Moderate] “Yeah, ha, ha! Son of a gun, look at him go.”
+  - [Caution] “Teddy, I'm just holding a knife.”
+  - [Caution] “Yeah, ha, ha! Son of a gun, look at him go.”
   - [Mild] “Great punch.”
 
 ## S9 E3 — 3. Tweentrepreneurs
@@ -2243,17 +2243,17 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0903.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “That's a knife, Louise.”
+  - [Caution] “That's a knife, Louise.”
 
 ## S9 E4 — 4. Nightmare on Ocean Avenue Street
 URL: https://watchwiththekids.com/ep/bobs-burgers/0904.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] “It was a hockey goalie with a knife.”
-  - [Moderate] “Got a couple of legs that have nail guns.”
-  - [Moderate] “There! He's going into the "Ballroom of Blood.”
-  - [Moderate] “As long as we don't see any blood.”
+  - [Caution] “It was a hockey goalie with a knife.”
+  - [Caution] “Got a couple of legs that have nail guns.”
+  - [Caution] “There! He's going into the "Ballroom of Blood.”
+  - [Caution] “As long as we don't see any blood.”
 
 ## S9 E5 — 5. Live and Let Fly
 URL: https://watchwiththekids.com/ep/bobs-burgers/0905.html
@@ -2263,42 +2263,42 @@ Watch for:
   - [Mild] “You once tried to make out with our mom, but she kicked your butt.”
   - [Mild] “…you here? Aren't you a seaplane pilot? I took the pontoons off Shoshana so I can fly banner ads, since my sexy flight lesson business kinda dried up.”
 - Porn / strippers / sex work — 3 moment(s)
-  - [Explicit] “You're a hooker, like my cousin Marie.”
-  - [Explicit] “Your cousin Marie's a prostitute? No, she throws paper airplanes like you.”
-  - [Explicit] “You might be a hooker, but you're a hooker with a heart of gold.”
+  - [Too much] “You're a hooker, like my cousin Marie.”
+  - [Too much] “Your cousin Marie's a prostitute? No, she throws paper airplanes like you.”
+  - [Too much] “You might be a hooker, but you're a hooker with a heart of gold.”
 - Violence & injury — 1 moment(s)
   - [Mild] “Why don't you just beat her in the stunt flying competition at the air show? Wouldn't that be the sweetest revenge? Yeah, do the Dice N' Slice, and ideally without pooping the pit.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Tonight we drink wine out of a bottle.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “Process-ily Cecily can process her ass! - (gasps) - You promised that no one at school would see us singing and dancing in your dumb video! Hold his arms! We're gonna make it look like an accident! Easy, girl!”
+  - [Caution] “Process-ily Cecily can process her ass! - (gasps) - You promised that no one at school would see us singing and dancing in your dumb video! Hold his arms! We're gonna make it look like an accident! Easy, girl!”
 
 ## S9 E6 — 6. Bobby Driver
 URL: https://watchwiththekids.com/ep/bobs-burgers/0906.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] “Just 'cause their nipples are three times as long as ours.”
-  - [Explicit] “Wonderful detail on the nipples.”
+  - [Too much] “Just 'cause their nipples are three times as long as ours.”
+  - [Too much] “Wonderful detail on the nipples.”
   - [Mild] “Ooh, or my sports bra.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “Gas pills? You mean these? Hey, how come fatty's got your fart meds? - Has he got the toots, too? - Harold! (farts) So you don't really get fits? I get farts.”
+  - [Caution] “Gas pills? You mean these? Hey, how come fatty's got your fart meds? - Has he got the toots, too? - Harold! (farts) So you don't really get fits? I get farts.”
 
 ## S9 E7 — 7. I Bob Your Pardon
 URL: https://watchwiththekids.com/ep/bobs-burgers/0907.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] “Get him! - That is my nipple.”
+  - [Too much] “Get him! - That is my nipple.”
 - Violence & injury — 6 moment(s)
-  - [Explicit] “So you actually have to report - on this crap show? - I know, right? Why can't I be covering a pre-Thanksgiving armed robbery? Or maybe, like, one little stabbing.”
-  - [Explicit] “If you give me your pen, I could stab you in the bottom.”
-  - [Explicit] “No, I'm not just gonna murder it and bury it in the woods.”
-  - [Explicit] LOUISE: “Deputy Mayor Cunningham? Okay, now we're gonna get murdered.”
-  - [Explicit] “Just want to say, not gonna murder you, 'cause not in this suit.”
+  - [Too much] “So you actually have to report - on this crap show? - I know, right? Why can't I be covering a pre-Thanksgiving armed robbery? Or maybe, like, one little stabbing.”
+  - [Too much] “If you give me your pen, I could stab you in the bottom.”
+  - [Too much] “No, I'm not just gonna murder it and bury it in the woods.”
+  - [Too much] LOUISE: “Deputy Mayor Cunningham? Okay, now we're gonna get murdered.”
+  - [Too much] “Just want to say, not gonna murder you, 'cause not in this suit.”
   - [Mild] “Please don't strangle us.”
 - Swearing — 7 moment(s)
-  - [Moderate] “Neck, you sons of bitches! - (screaming) - No, Louise! (panting) Whoa.”
+  - [Caution] “Neck, you sons of bitches! - (screaming) - No, Louise! (panting) Whoa.”
   - [Mild] “This is a fresh cranberry sauce house, damn it.”
   - [Mild] “You know we're gonna eat a turkey tomorrow, right? Eat the hell out of it.”
   - [Mild] “Damn it, Bob! Drive! TINA: Also, this is our turkey.”
@@ -2311,16 +2311,16 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0908.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] “The blood on the wood My dad was Junior Partners champion in 1983.”
-  - [Moderate] “Aah, she got me, she got me! TEDDY: Ooh, gun glasses.”
-  - [Moderate] “She's not here to kill you with gun glasses, Lin.”
+  - [Caution] “The blood on the wood My dad was Junior Partners champion in 1983.”
+  - [Caution] “Aah, she got me, she got me! TEDDY: Ooh, gun glasses.”
+  - [Caution] “She's not here to kill you with gun glasses, Lin.”
 
 ## S9 E9 — 9. UFO No You Didn't
 URL: https://watchwiththekids.com/ep/bobs-burgers/0909.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Swearing — 7 moment(s)
-  - [Moderate] “Yeah That sneaky alien faker son of a bitch! And you guys, too! I-I can't believe you helped him! Ugh! I know! We're sorry! And that's why we bought you this gift card.”
+  - [Caution] “Yeah That sneaky alien faker son of a bitch! And you guys, too! I-I can't believe you helped him! Ugh! I know! We're sorry! And that's why we bought you this gift card.”
   - [Mild] JACOBSON: “Who's ready to find out who their Science Fair partner is? TINA: Hell, yeah.”
   - [Mild] “So how about since you know how to do all that, why don't I take care of making us the best damn Science Fair board you've ever seen? My bubble letters are amazing.”
   - [Mild] “(sighs) Damn it.”
@@ -2333,7 +2333,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0910.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 6 moment(s)
-  - [Moderate] “We're plowing that son of a bitch! - Yeah, we are.”
+  - [Caution] “We're plowing that son of a bitch! - Yeah, we are.”
   - [Mild] “Oh, maybe you should try checking out the hill by the I don't give a crap.”
   - [Mild] “(laughs) Well, your face gives a crap, because your face is crap, Logan.”
   - [Mild] “Is that a giant white round bird? - (both scream) - It's not! What the hell? RUDY: The teenage boys are back.”
@@ -2348,9 +2348,9 @@ Watch for:
   - [Mild] “First of all, are silk bathrobes still sexy? - I'm thinking yes, but let's see it.”
   - [Mild] “And the robe is sexy.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “We have to get your mom home before they bring out the big guns The credit card swipers.”
+  - [Caution] “We have to get your mom home before they bring out the big guns The credit card swipers.”
 - Swearing — 5 moment(s)
-  - [Moderate] “Ronnie, you son of a bitch, if I was just five years younger.”
+  - [Caution] “Ronnie, you son of a bitch, if I was just five years younger.”
   - [Mild] “Crap! That's tonight? - Yeah.”
   - [Mild] “Mom! We forgot about Mom! Damn it, Tina and your stupid English cottage! - Easy there, puppy-hag.”
   - [Mild] “I just plug it into my phone, and you can pay with your credit card! - Oh crap! - The swiper! God, e-commerce has come so far.”
@@ -2365,10 +2365,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0912.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Hmm, they're kind of bloodshot.”
+  - [Caution] “Hmm, they're kind of bloodshot.”
 - Swearing — 9 moment(s)
-  - [Moderate] “That son of a bitch had a secret man cave.”
-  - [Moderate] “It's - (cat screeches) - (screams) Ah, son of a bitch! It broke! (groans) Stupid cat.”
+  - [Caution] “That son of a bitch had a secret man cave.”
+  - [Caution] “It's - (cat screeches) - (screams) Ah, son of a bitch! It broke! (groans) Stupid cat.”
   - [Mild] “(whispering): Why are we looking at his pipes? (whispering): Oh, crap.”
   - [Mild] “I want to say Pennsylvania? (Kathleen and Teddy laughing) Too bad Kathleen's bonding up a storm with Teddy, and Helen's not even here - Damn.”
   - [Mild] “Losing a husband really sucks.”
@@ -2385,10 +2385,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0913.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “And yes, he may be loaded with diseases like rotten legs, pub penis, ordinary skin syndrome - Uh, um - Sorry, sorry.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “And yes, he may be loaded with diseases like rotten legs, pub penis, ordinary skin syndrome - Uh, um - Sorry, sorry.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “Scottjon, why don't you come as my date to this silly affair? Uh, I-I'd love to.”
+  - [Caution] “Scottjon, why don't you come as my date to this silly affair? Uh, I-I'd love to.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Scottjon Dansteve decides to call his best mate for some help, a soccer hooligan named Johnny Nottinghill! - Johnny's like - I'm watching footie on the telly in the pubby where the beer is.”
 
@@ -2397,11 +2397,11 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0914.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] “How about this one? Is he in a tank top with the nipples cut out? Yeah.”
+  - [Too much] “How about this one? Is he in a tank top with the nipples cut out? Yeah.”
   - [Mild] “Aw, Gretchen, why so droopy? I'm not wearing a bra.”
   - [Mild] “Gretchen's pretending to spill mustard on her boobs.”
 - Alcohol & drugs — 1 moment(s)
-  - [Explicit] “Eatin' brains and doin' cocaine! - Gene.”
+  - [Too much] “Eatin' brains and doin' cocaine! - Gene.”
 
 ## S9 E15 — 15. The Fresh Princ-ipal
 URL: https://watchwiththekids.com/ep/bobs-burgers/0915.html
@@ -2419,12 +2419,12 @@ Watch for:
   - [Mild] “Nothing, nothing, nothing makes me happy, happy, happy Nothing brings me nothing but joy So if you haven't tried nada I really think you oughta 'Cause all play and no work Makes me A big, sexy boy Big old sexy boy.”
   - [Mild] “I mean, I guess you are a big, sexy boy, but - Well, of course I am.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “You got a tiny stranger coming out of your vagina who's going to annoy you for the rest of your life.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “You got a tiny stranger coming out of your vagina who's going to annoy you for the rest of your life.”
   - [Mild] “I'm gonna call her Two Boobs.”
   - [Mild] “Copy that, Two Boobs.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Did you guys use buns to clean up the blood? They're fine.”
+  - [Caution] “Did you guys use buns to clean up the blood? They're fine.”
 
 ## S9 E17 — 17. What About Blob?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0917.html
@@ -2434,7 +2434,7 @@ Watch for:
   - [Mild] “It's a majestic life-giving plankton blob and it's damn sexy at night.”
   - [Mild] “You brought me back something? From Kokomo? A sexy lady bottle opener.”
 - Violence & injury — 2 moment(s)
-  - [Explicit] “Guys, wh-where'd you go? Stop, you murderous Hench-jerks! You! In the blouse! It's a swimsuit cover-up, you rube! I don't care what it is.”
+  - [Too much] “Guys, wh-where'd you go? Stop, you murderous Hench-jerks! You! In the blouse! It's a swimsuit cover-up, you rube! I don't care what it is.”
   - [Mild] “You could do that, or we can beat them - at their own game.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “That oceanographer is bringing champagne to his oceanography friends? Yeah, he is not an oceanographer.”
@@ -2454,8 +2454,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/0919.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] “The universe sent him to that bowling alley, and then it sent me to that bowling alley so he could remind me to stick to my guns about fries.”
-  - [Moderate] “Lot of blood, sweat and farts in that chair.”
+  - [Caution] “The universe sent him to that bowling alley, and then it sent me to that bowling alley so he could remind me to stick to my guns about fries.”
+  - [Caution] “Lot of blood, sweat and farts in that chair.”
 
 ## S9 E20 — 20. The Gene Mile
 URL: https://watchwiththekids.com/ep/bobs-burgers/0920.html
@@ -2465,32 +2465,32 @@ Watch for:
   - [Mild] “Is that an eight or a boob? That's an eight, Lin.”
   - [Mild] “Why would it be a boob? Ju-Just dial.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “It's like your bones turn into nails and your blood turns into pain.”
+  - [Caution] “It's like your bones turn into nails and your blood turns into pain.”
 
 ## S9 E21 — 21. P.T.A It Ain't So
 URL: https://watchwiththekids.com/ep/bobs-burgers/0921.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] “Oh, just use your blood.”
+  - [Caution] “Oh, just use your blood.”
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Dad, do we look like people who make bad decisions? The ketchup is arriving! (gulping) WINE SHOP MANAGER: Hey, Joanne.”
   - [Mild] “And I'll throw in this magnet that says "Wine Time.”
 - Fat-shaming — 1 moment(s)
-  - [Moderate] “Also, did you lose weight? - In a day? Maybe.”
+  - [Caution] “Also, did you lose weight? - In a day? Maybe.”
 
 ## S9 E22 — 22. Yes Without My Zeke
 URL: https://watchwiththekids.com/ep/bobs-burgers/0922.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Zeke! Ow! My penis! - (shouts) That does it, Zeke.”
-  - [Explicit] “Go ask the lunch lady for some ice for your penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Zeke! Ow! My penis! - (shouts) That does it, Zeke.”
+  - [Too much] “Go ask the lunch lady for some ice for your penis.”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “Meat is murder.”
+  - [Too much] “Meat is murder.”
 - Swearing — 6 moment(s)
-  - [Moderate] GENE: “Is it a corporate ladder? 'Cause I'm gonna climb that son of a bitch.”
+  - [Caution] GENE: “Is it a corporate ladder? 'Cause I'm gonna climb that son of a bitch.”
   - [Mild] “Zeke! - Damn it.”
   - [Mild] “Hell yeah! -I'm in.”
   - [Mild] “Damn it! (humming) - (Gene grunts) - Ugh.”
@@ -2504,16 +2504,16 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “You're not wearing any underwear.”
 - Violence & injury — 3 moment(s)
-  - [Explicit] “Okay, so, we, uh, we, we stage a burglary and in the struggle we stab Dad.”
-  - [Explicit] “Huh? (screaming) Help! Murder! Murder! LINDA (whispering): Bob.”
-  - [Moderate] “A knife! A bagel.”
+  - [Too much] “Okay, so, we, uh, we, we stage a burglary and in the struggle we stab Dad.”
+  - [Too much] “Huh? (screaming) Help! Murder! Murder! LINDA (whispering): Bob.”
+  - [Caution] “A knife! A bagel.”
 - Alcohol & drugs — 4 moment(s)
-  - [Moderate] “I wasn't Wetty for this! Josie, you want to explain why there are a bunch of kids and a marijuana bus and a man in his underwear here in the middle of the night? Well, uh, you see, uh, Eddie, uh, Mr.”
+  - [Caution] “I wasn't Wetty for this! Josie, you want to explain why there are a bunch of kids and a marijuana bus and a man in his underwear here in the middle of the night? Well, uh, you see, uh, Eddie, uh, Mr.”
   - [Mild] “(sighs) Where do you keep your wine? Where's your wine, hon? - I don't have any.”
   - [Mild] “What? Beer? - No.”
   - [Mild] “Well, how about this? Why don't we just go to the grocery store and we can get some wine to calm you down.”
 - Sexual insults — 1 moment(s)
-  - [Moderate] “We have to save Mom and Dad's marriage, so Dad won't end up as a single skank.”
+  - [Caution] “We have to save Mom and Dad's marriage, so Dad won't end up as a single skank.”
 
 ## S10 E2 — 2. Boys Just Wanna Have Fungus
 URL: https://watchwiththekids.com/ep/bobs-burgers/1002.html
@@ -2525,17 +2525,17 @@ Watch for:
   - [Mild] “Wait, are those underwear lines? Can I really see Tighty-whities right now? Oh, man, I can.”
   - [Mild] “Remember when you went up a bra size? - Oh, yeah.”
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] “(grunts) I feel like we're cheating on our other log.”
+  - [Caution] “(grunts) I feel like we're cheating on our other log.”
 - Alcohol & drugs — 2 moment(s)
-  - [Explicit] “Is nature a drug? - Is cocaine a drug? - Uh, yes, it-it is.”
-  - [Explicit] “Which one? - Cocaine.”
+  - [Too much] “Is nature a drug? - Is cocaine a drug? - Uh, yes, it-it is.”
+  - [Too much] “Which one? - Cocaine.”
 
 ## S10 E3 — 3. Motor, She Boat
 URL: https://watchwiththekids.com/ep/bobs-burgers/1003.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] “…them punished, so, uh (chuckles) let's wait, okay? - Um - Now, if you'll excuse me, I scraped both my nipples on the way down the tree and I'm gonna go put some lip balm on them in my car.”
+  - [Too much] “…them punished, so, uh (chuckles) let's wait, okay? - Um - Now, if you'll excuse me, I scraped both my nipples on the way down the tree and I'm gonna go put some lip balm on them in my car.”
   - [Mild] “Was my underwear showing when I was climbing down the tree? I wore my Thursdays 'cause my Saturdays had a case of the Mondays, if you know what I mean.”
 
 ## S10 E4 — 4. Pig Trouble in Little Tina
@@ -2546,18 +2546,18 @@ Watch for:
   - [Mild] “So who should I make out with on the hayride Jason Kozlowski or Davey Russo? Well, "Davey" rhymes with "gravy," so maybe Jason? - Oh, my God, good point.”
   - [Mild] “Let's all make out.”
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] “What? Tina, what? - Tina, what is it? - Oh, nipple.”
+  - [Too much] “What? Tina, what? - Tina, what is it? - Oh, nipple.”
   - [Mild] “Your boobs are taking up all the room.”
   - [Mild] “It'll be just like at the doctor, but we've both seen each other naked.”
   - [Mild] “Has your ear doctor seen you naked? Shh.”
 - Violence & injury — 2 moment(s)
-  - [Moderate] “Then you got to put a drop of your blood inside the animal as an offering for your wrongdoing.”
-  - [Moderate] “Gonna prick your finger get some blood out.”
+  - [Caution] “Then you got to put a drop of your blood inside the animal as an offering for your wrongdoing.”
+  - [Caution] “Gonna prick your finger get some blood out.”
 - Swearing — 8 moment(s)
-  - [Moderate] “Yes! Let's get that son of a bitch.”
-  - [Moderate] “Okay, Tina, let's prick that finger, 'cause it's getting to be trick or treat o'clock.”
-  - [Moderate] “Gonna prick your finger get some blood out.”
-  - [Moderate] “This is my white wax whale, Moby Ear Dick, Bob.”
+  - [Caution] “Yes! Let's get that son of a bitch.”
+  - [Caution] “Okay, Tina, let's prick that finger, 'cause it's getting to be trick or treat o'clock.”
+  - [Caution] “Gonna prick your finger get some blood out.”
+  - [Caution] “This is my white wax whale, Moby Ear Dick, Bob.”
   - [Mild] “Get out of there! Get out of my friend and go back to hell! All right, I I want to see it.”
   - [Mild] “And more nostrils than usual? - (screaming) - (laughs maniacally, snorts) Is the formaldehyde smell me or you? (gasping) What the hell? You're supposed to be gone.”
   - [Mild] “I'm coming for you, you wax bastard! - Don't you laugh at me.”
@@ -2568,21 +2568,21 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1005.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Like my penis.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Like my penis.”
   - [Mild] “Underwear stays on.”
 - Affairs / cheating — 3 moment(s)
-  - [Moderate] “Being two-timed! - What? - Brian's cheating on you, and that's not okay.”
-  - [Moderate] “Mm Yes, Brian is obviously cheating on me.”
-  - [Moderate] “Or a revenge affair? I kiss someone else? You up for this, Noah? Any interest? Shaking your head from side to side does that mean yes? Tina, wake and confront.”
+  - [Caution] “Being two-timed! - What? - Brian's cheating on you, and that's not okay.”
+  - [Caution] “Mm Yes, Brian is obviously cheating on me.”
+  - [Caution] “Or a revenge affair? I kiss someone else? You up for this, Noah? Any interest? Shaking your head from side to side does that mean yes? Tina, wake and confront.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “"The magnum of Riesling exploded " I-I think the murder part's coming up.”
-  - [Explicit] “That's scary, murdery.”
-  - [Moderate] “Uh, I think I can read the serial number on your gun.”
-  - [Moderate] “Oh, damn food court knife.”
+  - [Too much] “"The magnum of Riesling exploded " I-I think the murder part's coming up.”
+  - [Too much] “That's scary, murdery.”
+  - [Caution] “Uh, I think I can read the serial number on your gun.”
+  - [Caution] “Oh, damn food court knife.”
 - Swearing — 8 moment(s)
-  - [Moderate] “I-I think I may hate myself in them? Unless that's good? Get over my thighs, son of a bitch! Uh, are you all right in there? - I'm fine.”
-  - [Moderate] “Son of a bitch.”
+  - [Caution] “I-I think I may hate myself in them? Unless that's good? Get over my thighs, son of a bitch! Uh, are you all right in there? - I'm fine.”
+  - [Caution] “Son of a bitch.”
   - [Mild] “He's started, I got to go! Damn.”
   - [Mild] “So what if they are? - Go to hell.”
   - [Mild] “Crap, I am good at this.”
@@ -2606,12 +2606,12 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1007.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] “Your kids drove an ice cream truck to a strip club, - and now we're all here together.”
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] “Your kids drove an ice cream truck to a strip club, - and now we're all here together.”
 - Violence & injury — 4 moment(s)
-  - [Explicit] “We were gonna watch The Earl Grey Murders.”
-  - [Explicit] “Well, should we put on The Earl Grey Murders? Yeah.”
-  - [Explicit] “And then - The murder? HERBERT: Exactly, so that's why we came back today.”
+  - [Too much] “We were gonna watch The Earl Grey Murders.”
+  - [Too much] “Well, should we put on The Earl Grey Murders? Yeah.”
+  - [Too much] “And then - The murder? HERBERT: Exactly, so that's why we came back today.”
   - [Mild] “So I guess we just have to see if the roads get better and try to beat them home somehow.”
 - Alcohol & drugs — 5 moment(s)
   - [Mild] “No! - Oh, my God! - You spilled my TV-watching wine! That was the end of our last bottle! God! Kids, go get ready for bed! I'm pretty much ready.”
@@ -2627,7 +2627,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Your meaty breasts are reminding us what we're missing out on.”
 - Swearing — 7 moment(s)
-  - [Moderate] “(Tina and Gene grunt) We're gonna have to roll this son of a bitch.”
+  - [Caution] “(Tina and Gene grunt) We're gonna have to roll this son of a bitch.”
   - [Mild] “Or we get a time machine and order takeout an hour ago? - (Bob grunting loudly) - You guys hear that? - What is that? - Is it coming from the alley? -(grunting) -Dad's recycling the crap out of that box.”
   - [Mild] “Do what, Bob? What the hell are you talking about? Cook the turkey, Lin! I just watched a bunch of videos online.”
   - [Mild] “See? Damn it.”
@@ -2642,10 +2642,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1009.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “She's semi-hooking up with Eric, who's not not straight.”
-  - [Moderate] “I'm sorry all your actors gave each other the flu or the horny flu or whatever they call it.”
+  - [Caution] “She's semi-hooking up with Eric, who's not not straight.”
+  - [Caution] “I'm sorry all your actors gave each other the flu or the horny flu or whatever they call it.”
 - Swearing — 3 moment(s)
-  - [Moderate] “Oh, okay! Give me those beans, you son of a bitch! - (mimics electric guitar) - Ha! Stop, stop, stop.”
+  - [Caution] “Oh, okay! Give me those beans, you son of a bitch! - (mimics electric guitar) - Ha! Stop, stop, stop.”
   - [Mild] “What about this? Damn, girl, that pad Thai smells yum-my! - What? - What? - Why did you say that? - Why did I say what? Why did you say "pad Thai"? I thought I'd switch it up.”
   - [Mild] “Wanted to see if you Damn it! Aah! Stupid! Mr.”
 
@@ -2654,8 +2654,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1010.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Nice, sweaty and weird: if my penis could talk.”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Nice, sweaty and weird: if my penis could talk.”
 
 ## S10 E11 — 11. Drumforgiven
 URL: https://watchwiththekids.com/ep/bobs-burgers/1011.html
@@ -2672,7 +2672,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Which has nothing to do with having meat and beans all over her boobs - Left and right.”
 - Violence & injury — 1 moment(s)
-  - [Moderate] “My blood is pumping, my en-dolphins are flowin'.”
+  - [Caution] “My blood is pumping, my en-dolphins are flowin'.”
 
 ## S10 E13 — 13. Three Girls and a Little Wharfy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1013.html
@@ -2693,12 +2693,12 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1014.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “Gene, do you think you could come up with a really idiotic melody to go with dumb words? Have you not heard my song "Diaper Day Penis Parade"?”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “Gene, do you think you could come up with a really idiotic melody to go with dumb words? Have you not heard my song "Diaper Day Penis Parade"?”
 - Violence & injury — 1 moment(s)
-  - [Explicit] “We're the Whalers, we hunt in our whale boats We row across the water, and then begin the slaughter With our harpoons, we stab them in the throats We hack them into pieces, and then we go to recess.”
+  - [Too much] “We're the Whalers, we hunt in our whale boats We row across the water, and then begin the slaughter With our harpoons, we stab them in the throats We hack them into pieces, and then we go to recess.”
 - Swearing — 6 moment(s)
-  - [Moderate] “You sons of bitches.”
+  - [Caution] “You sons of bitches.”
   - [Mild] “Damn, J-Ju, are those glossy, or are you just glowing? Thanks, Zeke.”
   - [Mild] “Damn flu season.”
   - [Mild] “Hey, Bob, you want my old piece of crap one for your dump? Bob, free awning.”
@@ -2710,10 +2710,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1015.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Moderate] Well, I thought we were gonna call it "Blood Fart. " Okay, guys, no more spa day with the ketchup.
-  - [Moderate] I still get bloody noses when I laugh too hard.
-  - [Moderate] First we use blood! Everyone hold out your arm.
-  - [Moderate] I think that cat might have a knife.
+  - [Caution] Well, I thought we were gonna call it "Blood Fart. " Okay, guys, no more spa day with the ketchup.
+  - [Caution] I still get bloody noses when I laugh too hard.
+  - [Caution] First we use blood! Everyone hold out your arm.
+  - [Caution] I think that cat might have a knife.
 
 ## S10 E16 — 16. Flat-Top O' the Morning to Ya
 URL: https://watchwiththekids.com/ep/bobs-burgers/1016.html
@@ -2722,9 +2722,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Ah, you pinched my boob.
 - Violence & injury — 1 moment(s)
-  - [Moderate] All the history, all the blood, sweat and pork butt my family poured out onto this grill.
+  - [Caution] All the history, all the blood, sweat and pork butt my family poured out onto this grill.
 - Suicide & self-harm — 1 moment(s)
-  - [Explicit] No. This isn't a suicide pact.
+  - [Too much] No. This isn't a suicide pact.
 - Alcohol & drugs — 5 moment(s)
   - [Mild] W-Wait-wait, there's whiskey in this? What? No.
   - [Mild] “Just the beer.”
@@ -2751,9 +2751,9 @@ Watch for:
   - [Mild] Like when Gayle wanted to know which was better, her boobs or her butt.
   - [Mild] You want me to pick between you guys now? Oh, God, this is like Gayle with her boobs and her butt.
 - Violence & injury — 1 moment(s)
-  - [Moderate] “gun at the audience”
+  - [Caution] “gun at the audience”
 - Swearing — 9 moment(s)
-  - [Moderate] Let's go. We're gonna find this son of a bitch.
+  - [Caution] Let's go. We're gonna find this son of a bitch.
   - [Mild] “What the hell is going on?”
   - [Mild] What? Gene doesn't have to work? He doesn't have to marry ketchups and wipe menus and whatever godforsaken crap you're gonna make us do out here? Yeah, I guess not.
   - [Mild] TINA: “Oh, crap, I got to stop doing this.”
@@ -2774,15 +2774,15 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] You want a little more shrimp cocktail? Fire! Aah! No, thank you! Oh, no, how are we gonna get on board to get the booty, which is Rudy? Teddy, what do we do now? You're so smart and capable.
 - Sexual insults — 2 moment(s)
-  - [Moderate] Tramp socks! Yeah, well, we had a pretty good month, and I kinda want to go, too.
-  - [Moderate] Back off, Logan. You're not taking Rudy and his tramp stamp anywhere.
+  - [Caution] Tramp socks! Yeah, well, we had a pretty good month, and I kinda want to go, too.
+  - [Caution] Back off, Logan. You're not taking Rudy and his tramp stamp anywhere.
 
 ## S10 E20 — 20. Poops!... I Didn't Do It Again
 URL: https://watchwiththekids.com/ep/bobs-burgers/1020.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
-  - [Moderate] Son of a bitch.
+  - [Caution] Son of a bitch.
   - [Mild] Damn union rules, always slowing down production, making us eat cookies.
   - [Mild] Give it hell, girl.
   - [Mild] Damn it, I wasn't recording.
@@ -2792,14 +2792,14 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1021.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] It's my ex-wife's sock. I sleep with it on my hand.
+  - [Caution] It's my ex-wife's sock. I sleep with it on my hand.
 
 ## S10 E22 — 22. Prank You for Being a Friend
 URL: https://watchwiththekids.com/ep/bobs-burgers/1022.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Ow! All the blood is rushing to my head.
+  - [Caution] Ow! All the blood is rushing to my head.
 
 ## S11 E1 — 1. Dream a Little Bob of Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/1101.html
@@ -2818,19 +2818,19 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1102.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] “the vagina-cologist,”
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] “the vagina-cologist,”
   - [Mild] Or the dress fits great and it's just that your arm fell off and your boobs got weird.
   - [Mild] And I think I pulled my boob muscle.
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Boy, I am growing like a weed.
+  - [Caution] Boy, I am growing like a weed.
 
 ## S11 E3 — 3. Copa-bob-bana
 URL: https://watchwiththekids.com/ep/bobs-burgers/1103.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] I'm sorry I cheated on you with that really nice kitchen.
+  - [Caution] I'm sorry I cheated on you with that really nice kitchen.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Oh. Oh, what is it? Beer, wine, milk, pretzel sticks and protein powder.
   - [Mild] He seems drunk but okay, I think.
@@ -2840,19 +2840,19 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1104.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] There was no sign of foul play, but I bet there was some foreplay, the creep.
+  - [Caution] There was no sign of foul play, but I bet there was some foreplay, the creep.
 - Nudity & bodies — 2 moment(s)
   - [Mild] There's a lot of Tina's boobs in my face.
   - [Mild] “Dry underwear?”
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Candy Justice sounds like a show about a stripper who's also a judge.
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Candy Justice sounds like a show about a stripper who's also a judge.
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] He didn't cheat on me.
+  - [Caution] He didn't cheat on me.
 - Violence & injury — 3 moment(s)
-  - [Explicit] He was murdered? No, it was cardiac arrest.
-  - [Moderate] So, Teddy, you gonna go home and hand out candy? Uh, no, I'm gonna go donate blood, the candy of the veins.
-  - [Moderate] You're gonna donate blood? At night? On Halloween? Yeah, it's fun. They turn the bloodmobile into a vampire mobile.
+  - [Too much] He was murdered? No, it was cardiac arrest.
+  - [Caution] So, Teddy, you gonna go home and hand out candy? Uh, no, I'm gonna go donate blood, the candy of the veins.
+  - [Caution] You're gonna donate blood? At night? On Halloween? Yeah, it's fun. They turn the bloodmobile into a vampire mobile.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] So why did you take the photo and the letters, Dolores? Oh, I was having a cocktail at the bar.
 
@@ -2863,9 +2863,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] You sound like a sexy teakettle.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Tina, I'm your sister. Flesh and blood, here right now.
+  - [Caution] Tina, I'm your sister. Flesh and blood, here right now.
 - Swearing — 5 moment(s)
-  - [Moderate] Son of a bitch.
+  - [Caution] Son of a bitch.
   - [Mild] Good. I mean, how could you? It's putting crap in a box.
   - [Mild] Hey, we've got the last pair of Boyz 4 Now tickets to give away to the fourth caller! Great! This stupid contest is almost over, right? Crap, it's busy! Redial, redial.
   - [Mild] Damn it. Give them to me.
@@ -2878,7 +2878,7 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] You're there, you're looking sexy selling burgers, - you have a cool tattoo.
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] What? I don't know, it's like having an affair with another woman on top of my wife.
+  - [Caution] What? I don't know, it's like having an affair with another woman on top of my wife.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Were you asleep? - No. I maybe had some wine.
   - [Mild] I don't know, rocks, croquet balls, drunk birds.
@@ -2894,7 +2894,7 @@ Watch for:
   - [Mild] Wait, so fruits are naked under their peels? - Yeah, their peels are like their clothes.
   - [Mild] Ah, now I'm nude, too! Don't look at my little Bartlett butt-let! - Tina! - Yep, yep, moving on.
 - Violence & injury — 1 moment(s)
-  - [Explicit] Great story and it kind of made me hate pears, but I would still murder both of you for a single bite of that Brie, I swear to God I would.
+  - [Too much] Great story and it kind of made me hate pears, but I would still murder both of you for a single bite of that Brie, I swear to God I would.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Just gonna grab the wine and, oh, I forgot to throw this old chicken Parmesan out.
 
@@ -2916,11 +2916,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] The sex has never been better.
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] And his nipples are out right now.
+  - [Too much] And his nipples are out right now.
   - [Mild] Including that first training bra you had.
 - Violence & injury — 8 moment(s)
-  - [Moderate] Hmm. I mean - Just do yourself a favor, watch it tonight Love, loss, blood, revenge.
-  - [Moderate] You had me at blood and revenge, Teddy.
+  - [Caution] Hmm. I mean - Just do yourself a favor, watch it tonight Love, loss, blood, revenge.
+  - [Caution] You had me at blood and revenge, Teddy.
   - [Mild] Hey, string, want to tangle? Oh. What? What'd I tell you about punching the string? - Sorry, boss.
   - [Mild] So he punches string? He's training, he works in a string factory.
   - [Mild] Well, Dad came in to check on me, and I accidentally punched him in my sleep and he screamed and maybe cried a little even though he said he didn't.
@@ -2933,12 +2933,12 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1110.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Oh, you and Jimmy and your stupid penis fights.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Oh, you and Jimmy and your stupid penis fights.
   - [Mild] (groans) PRESIDENT: Inside the clubhouse is supposed to be for members only, but we're always happy to accommodate two shivering naked people who fell in the ocean.
   - [Mild] Sorry to be naked.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Merry Christmas, Uncle Father Santa Teddy. " That thoughtful son of a gun. I get it first.
+  - [Caution] Merry Christmas, Uncle Father Santa Teddy. " That thoughtful son of a gun. I get it first.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] I'm having craft beers and chicken satay and craft beers.
 
@@ -2950,9 +2950,9 @@ Watch for:
   - [Mild] I'm here as a sexy Valentine's diner, not a sexy health inspector.
   - [Mild] It's more of a sex toy shop with a theater in the back.
 - Violence & injury — 1 moment(s)
-  - [Explicit] Trip him. Stab him.
+  - [Too much] Trip him. Stab him.
 - Swearing — 7 moment(s)
-  - [Moderate] Those romantic sons of bitches. Play something nice.
+  - [Caution] Those romantic sons of bitches. Play something nice.
   - [Mild] So we just need to find a quiet minute and crap 'em out.
   - [Mild] Oh, crap. Here comes Jimmy.
   - [Mild] Ooh, an oath. Hell yeah.
@@ -2960,8 +2960,8 @@ Watch for:
   - [Mild] Hell yeah, it was worth it.
   - [Mild] Damn, I love Valentine's Day.
 - Alcohol & drugs — 5 moment(s)
-  - [Explicit] And maybe better-looking than I was earlier today? - Oh, you're on cocaine.
-  - [Explicit] Is that what cocaine does? Are there any downsides? So, how's our Valentine's? - Good. Good.
+  - [Too much] And maybe better-looking than I was earlier today? - Oh, you're on cocaine.
+  - [Too much] Is that what cocaine does? Are there any downsides? So, how's our Valentine's? - Good. Good.
   - [Mild] And then we're gonna share 'em over a bottle of wine.
   - [Mild] Ooh, and wine.
   - [Mild] They look a little drunk and bloated.
@@ -2982,25 +2982,25 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Let's talk about sex, baby Let's talk about you and me.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Um, maybe we should stay in the pocket knife family.
+  - [Caution] Um, maybe we should stay in the pocket knife family.
 
 ## S11 E14 — 14. Mr. Lonely Farts
 URL: https://watchwiththekids.com/ep/bobs-burgers/1114.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 10 moment(s)
-  - [Explicit] “know, psycho murderers?”
-  - [Explicit] 'Cause we'll be getting murdered in the dungeon.
-  - [Explicit] “blueprint of his murder plan?”
-  - [Explicit] Taking a while for him to write that receipt, huh? Maybe he's doing a pre-murder pep talk? - Psyching himself up? - Louise.
-  - [Explicit] He's not a murderer, Louise.
-  - [Explicit] Because he might be a murderer.
-  - [Moderate] One time, I found a bloody Band-Aid in one of the shoes.
-  - [Moderate] The Band-Aid wasn't that bloody.
-  - [Moderate] I bet he's in there right now sharpening his gun.
-  - [Moderate] That stuff is great for getting out bloodstains, right? Blood, sweat and tears.
+  - [Too much] “know, psycho murderers?”
+  - [Too much] 'Cause we'll be getting murdered in the dungeon.
+  - [Too much] “blueprint of his murder plan?”
+  - [Too much] Taking a while for him to write that receipt, huh? Maybe he's doing a pre-murder pep talk? - Psyching himself up? - Louise.
+  - [Too much] He's not a murderer, Louise.
+  - [Too much] Because he might be a murderer.
+  - [Caution] One time, I found a bloody Band-Aid in one of the shoes.
+  - [Caution] The Band-Aid wasn't that bloody.
+  - [Caution] I bet he's in there right now sharpening his gun.
+  - [Caution] That stuff is great for getting out bloodstains, right? Blood, sweat and tears.
 - Swearing — 3 moment(s)
-  - [Moderate] “Ken, you brilliant son of a bitch!”
+  - [Caution] “Ken, you brilliant son of a bitch!”
   - [Mild] (Tina whistles) The full-price section. Hot damn.
   - [Mild] “Aah! What the hell?!”
 
@@ -3015,14 +3015,14 @@ Watch for:
   - [Mild] “Did her boob fall out again?”
   - [Mild] “Wait, her boob fell out?”
 - Violence & injury — 1 moment(s)
-  - [Explicit] Well, what about murderers? Well, murder is bad, too, but at least it's not pooping outside like some kind of psycho.
+  - [Too much] Well, what about murderers? Well, murder is bad, too, but at least it's not pooping outside like some kind of psycho.
 
 ## S11 E16 — 16. Y Tu Tina Tambien
 URL: https://watchwiththekids.com/ep/bobs-burgers/1116.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Let's go see if Tina's having a librar-affair.
+  - [Caution] Let's go see if Tina's having a librar-affair.
 - Violence & injury — 1 moment(s)
   - [Mild] Let's just hope our totally slapped-together plan does the trick.
 - Alcohol & drugs — 1 moment(s)
@@ -3037,7 +3037,7 @@ Watch for:
   - [Mild] You-you need to buy bigger underwear.
   - [Mild] What about crotch, butt crack? Folded under one's boobs? Ooh, good idea.
 - Swearing — 2 moment(s)
-  - [Moderate] Tina, you son of a bitch.
+  - [Caution] Tina, you son of a bitch.
   - [Mild] Damn it. Damn it. Damn it! I took a little break for a sloppy joe, and stumbled sideways into a mess of my own.
 
 ## S11 E18 — 18. Some Kind of Fender Benderful
@@ -3062,10 +3062,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1120.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] “Just stop yelling, hook up your”
+  - [Caution] “Just stop yelling, hook up your”
   - [Mild] (gasps) - Sexy fox scientist.
 - Violence & injury — 1 moment(s)
-  - [Moderate] And dirt. And blood? Oh, it's probably ketchup.
+  - [Caution] And dirt. And blood? Oh, it's probably ketchup.
 
 ## S11 E21 — 21. Tell Me Dumb Thing Good
 URL: https://watchwiththekids.com/ep/bobs-burgers/1121.html
@@ -3077,33 +3077,33 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1122.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] There's not even any blood in it.
-  - [Moderate] No blood? Oh. Now I don't want to go.
+  - [Caution] There's not even any blood in it.
+  - [Caution] No blood? Oh. Now I don't want to go.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] What, for violence? Well, there's a couple swears, and a character gets drunk, and there's a lot of innuendo.
 - Sexual insults — 1 moment(s)
-  - [Moderate] Yeah. Oh. That guy's dressed up as Vamp von Tramp, the vampire gigolo.
+  - [Caution] Yeah. Oh. That guy's dressed up as Vamp von Tramp, the vampire gigolo.
 
 ## S12 E1 — 1. Manic Pixie Crap Show
 URL: https://watchwiththekids.com/ep/bobs-burgers/1201.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
-  - [Explicit] Whoa. Is that a magical flying sex worker convention? - Oh, it's the Pixie Princess Promenade.
+  - [Too much] Whoa. Is that a magical flying sex worker convention? - Oh, it's the Pixie Princess Promenade.
 - Violence & injury — 1 moment(s)
-  - [Explicit] His back-story is he was framed for his wife's murder.
+  - [Too much] His back-story is he was framed for his wife's murder.
 
 ## S12 E2 — 2. Crystal Mess
 URL: https://watchwiththekids.com/ep/bobs-burgers/1202.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] So I don't hit my penis like last time.
-  - [Explicit] Maybe if she's just there, you won't hit your poor penis.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] So I don't hit my penis like last time.
+  - [Too much] Maybe if she's just there, you won't hit your poor penis.
 - Violence & injury — 2 moment(s)
-  - [Explicit] And this thing only stabbed me once.
-  - [Explicit] “Only stab you a little”
+  - [Too much] And this thing only stabbed me once.
+  - [Too much] “Only stab you a little”
 
 ## S12 E3 — 3. The Pumpkinening
 URL: https://watchwiththekids.com/ep/bobs-burgers/1203.html
@@ -3112,8 +3112,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Are Mom and Aunt Gayle getting new boobs together? Or switching boobs? - Like Face/Off but Boob/Off? - Mm no.
 - Violence & injury — 2 moment(s)
-  - [Explicit] Because he murdered her? No. She moved to Florida.
-  - [Explicit] Because she murdered someone? No. Not everyone murders someone, Gayle.
+  - [Too much] Because he murdered her? No. She moved to Florida.
+  - [Too much] Because she murdered someone? No. Not everyone murders someone, Gayle.
 
 ## S12 E4 — 4. Driving Big Dummy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1204.html
@@ -3125,10 +3125,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1205.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Why do you have glitter on your chin and feathers sticking out of your backpack? - I got a job at Pickles? - The strip club? - It's a gentlemen's revue.
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Why do you have glitter on your chin and feathers sticking out of your backpack? - I got a job at Pickles? - The strip club? - It's a gentlemen's revue.
 - Violence & injury — 1 moment(s)
-  - [Explicit] Well, you won't make it far, because Gretchen will hunt you down and then she'll murder you.
+  - [Too much] Well, you won't make it far, because Gretchen will hunt you down and then she'll murder you.
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Can I get you a sparkling water or espresso? - Or a glass of wine? - Oh, um, I don't know.
   - [Mild] Are you drunk? - I'm gorgeous.
@@ -3147,8 +3147,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1207.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] Can I sleep with the drill? - Maybe no drill? Fine. Saw.
-  - [Moderate] “Up there, sleeping with the gods”
+  - [Caution] Can I sleep with the drill? - Maybe no drill? Fine. Saw.
+  - [Caution] “Up there, sleeping with the gods”
 
 ## S12 E8 — 8. Stuck in the Kitchen with You
 URL: https://watchwiththekids.com/ep/bobs-burgers/1208.html
@@ -3159,8 +3159,8 @@ Watch for:
   - [Mild] Put a bra on those.
   - [Mild] Ha! - Okay, time to Shrine, Gene! Feel that tiny car energy! Okay, time to baste the breasts.
 - Violence & injury — 2 moment(s)
-  - [Moderate] So, can I help? - My son has a gun.
-  - [Moderate] Whoa, what's that? Some kind of kitchen gun? Sort of. It's a torch used for finishing crÃ¨me brÃ»lÃ©e.
+  - [Caution] So, can I help? - My son has a gun.
+  - [Caution] Whoa, what's that? Some kind of kitchen gun? Sort of. It's a torch used for finishing crÃ¨me brÃ»lÃ©e.
 
 ## S12 E9 — 9. FOMO You Didn't
 URL: https://watchwiththekids.com/ep/bobs-burgers/1209.html
@@ -3183,7 +3183,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1211.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Glad I've got my affairs in order.
+  - [Caution] Glad I've got my affairs in order.
 - Violence & injury — 3 moment(s)
   - [Mild] Punching in for another day of unpaid child labor before we go home and do more unpaid child labor.
   - [Mild] And you called it "slapped-together," I believe? I can be blunt.
@@ -3201,8 +3201,8 @@ Watch for:
   - [Mild] Ow! But aren't air hockey pucks pretty light? It stung, Bob. Also, you don't have boobs, so you don't know.
   - [Mild] Anyway, I got hit in the boob, and all of a sudden, I wasn't Hockey Queen anymore.
 - Violence & injury — 3 moment(s)
-  - [Moderate] Come on, I think I see - blood seeping out of your shoe.
-  - [Moderate] Linda, everything that's happened tonight, from the sheep poop, to all the blood in my shoes, to more sheep poop, is happening because we don't belong here.
+  - [Caution] Come on, I think I see - blood seeping out of your shoe.
+  - [Caution] Linda, everything that's happened tonight, from the sheep poop, to all the blood in my shoes, to more sheep poop, is happening because we don't belong here.
   - [Mild] Then I beat her again, and then I beat my other friend, and then I beat some guy who was annoyed that I'd been playing so long, and then I beat his dumb friend.
 
 ## S12 E13 — 13. Frigate Me Knot
@@ -3210,10 +3210,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1213.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] “Otherwise, your nipples”
-  - [Explicit] “my nipples chafed”
+  - [Too much] “Otherwise, your nipples”
+  - [Too much] “my nipples chafed”
 - Violence & injury — 1 moment(s)
-  - [Moderate] Have you considered challenging them to a navy duel, which I assume involves water guns? Let's hope it doesn't come to that.
+  - [Caution] Have you considered challenging them to a navy duel, which I assume involves water guns? Let's hope it doesn't come to that.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Beers for my friends and, uh, have you ever heard of a Twisted Monkey? - I have not.
   - [Mild] Where have you been? I stress-ate all the crab cakes, and now I'm starting in on the cocktail weenies, and everyone keeps giving me the evil eye.
@@ -3227,20 +3227,20 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Like Dad's boobs in that one sweater.
 - Violence & injury — 1 moment(s)
-  - [Moderate] But there's no blood.
+  - [Caution] But there's no blood.
 
 ## S12 E15 — 15. Ancient Misbehavin'
 URL: https://watchwiththekids.com/ep/bobs-burgers/1215.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
-  - [Moderate] And the blood of a virgin.
-  - [Moderate] What's a virgin? I think it's someone who gives a lot of blood.
-  - [Moderate] I've been sleeping with all the blankets I could find and three towels.
+  - [Caution] And the blood of a virgin.
+  - [Caution] What's a virgin? I think it's someone who gives a lot of blood.
+  - [Caution] I've been sleeping with all the blankets I could find and three towels.
   - [Mild] Like a sexy senior citizen. " Yup. I-I need glasses.
 - Violence & injury — 3 moment(s)
-  - [Moderate] And the blood of a virgin.
-  - [Moderate] What's a virgin? I think it's someone who gives a lot of blood.
+  - [Caution] And the blood of a virgin.
+  - [Caution] What's a virgin? I think it's someone who gives a lot of blood.
   - [Mild] Hey, does punching a locker hurt your hand? - Probably. Eh, forget it.
 - Alcohol & drugs — 4 moment(s)
   - [Mild] Would you like a drink? I'm making myself a beer in a glass.
@@ -3253,13 +3253,13 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1217.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Any chance you guys enjoy sleeping with spiders over your head? No? Okay. Phoebe, Charlotte's Web time.
+  - [Caution] Any chance you guys enjoy sleeping with spiders over your head? No? Okay. Phoebe, Charlotte's Web time.
 - Nudity & bodies — 1 moment(s)
   - [Mild] I don't know about you, but I'm about to start wearing my bathing suit bottoms for underwear.
 - Violence & injury — 3 moment(s)
-  - [Explicit] Does this make us accomplices to murder? Now I'll never be able to run for Congress! You've been getting so many text messages your little phone's gonna be sore.
-  - [Explicit] “of bugs for you to murder.”
-  - [Moderate] He says, "I'm sorry. The sandwich was a disaster. " There was blood everywhere.
+  - [Too much] Does this make us accomplices to murder? Now I'll never be able to run for Congress! You've been getting so many text messages your little phone's gonna be sore.
+  - [Too much] “of bugs for you to murder.”
+  - [Caution] He says, "I'm sorry. The sandwich was a disaster. " There was blood everywhere.
 - Alcohol & drugs — 3 moment(s)
   - [Mild] Hi. I'll take a beer.
   - [Mild] Louise, no. We-we don't give her beer.
@@ -3270,13 +3270,13 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1218.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] If you spill, it's gonna burn your penis, Bob.
-  - [Explicit] Hang in there, penis.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] If you spill, it's gonna burn your penis, Bob.
+  - [Too much] Hang in there, penis.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Passengers, you're gonna have to pop out the moon roof and use the provided squirt guns to try to mow down the most undead Freds.
+  - [Caution] Passengers, you're gonna have to pop out the moon roof and use the provided squirt guns to try to mow down the most undead Freds.
 - Alcohol & drugs — 6 moment(s)
-  - [Explicit] Is "fancy businessman" code for "mid-level cocaine dealer?" Gene and Louise, you'll be my old ladies.
+  - [Too much] Is "fancy businessman" code for "mid-level cocaine dealer?" Gene and Louise, you'll be my old ladies.
   - [Mild] I even got us a very expensive bottle of wine.
   - [Mild] Where are you, Ginger? Hurry up and get here before I drink all the cheap wine and have to start drinking the less cheap wine.
   - [Mild] I'm gonna get really drunk and win them over.
@@ -3295,11 +3295,11 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1220.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 8 moment(s)
-  - [Explicit] “and accidentally stabs Joey in the hand!”
-  - [Explicit] All right, I'll have some chicken! - Ow! - (GASPS) Did you just stab my sweet baby boy Nico? - It was an accident.
-  - [Explicit] Oh, I dropped my fork that I didn't stab you on purpose with.
-  - [Moderate] Then there was the recipe theft, of course, but the bad blood's been passed down from generation to generation.
-  - [Moderate] You've invited the blood of Tonys - into this house of the blood of Joeys! - Ah! So, we know there's some history in our family, but we swear, we come in peace.
+  - [Too much] “and accidentally stabs Joey in the hand!”
+  - [Too much] All right, I'll have some chicken! - Ow! - (GASPS) Did you just stab my sweet baby boy Nico? - It was an accident.
+  - [Too much] Oh, I dropped my fork that I didn't stab you on purpose with.
+  - [Caution] Then there was the recipe theft, of course, but the bad blood's been passed down from generation to generation.
+  - [Caution] You've invited the blood of Tonys - into this house of the blood of Joeys! - Ah! So, we know there's some history in our family, but we swear, we come in peace.
   - [Mild] Literally. She poured punch down her back, and then she punched her in the back.
   - [Mild] “when she poured punch down my back”
   - [Mild] “at her wedding and then punched me?”
@@ -3312,7 +3312,7 @@ Watch for:
   - [Mild] You're supposed to retrieve deviant bots so they can be wiped, not make out with them while you play the piano, using your strange scales.
   - [Mild] Yeah, it's the sexy fiction.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Like blood. Let's check their fingers.
+  - [Caution] Like blood. Let's check their fingers.
   - [Mild] 'Cause that means more punches for this guy.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Nice bottle of wine.
@@ -3330,15 +3330,15 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1301.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - [Moderate] Sleep with one hand open.
+  - [Caution] Sleep with one hand open.
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] Oh, penis basketball?
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] Oh, penis basketball?
 - Violence & injury — 4 moment(s)
-  - [Explicit] from earlier? Did someone murder you?
-  - [Explicit] who's been murdering your business.
-  - [Moderate] you can get your knife
-  - [Moderate] with your big, knife-sharpening mitts.
+  - [Too much] from earlier? Did someone murder you?
+  - [Too much] who's been murdering your business.
+  - [Caution] you can get your knife
+  - [Caution] with your big, knife-sharpening mitts.
 
 ## S13 E2 — 2. The Reeky Lake Show
 URL: https://watchwiththekids.com/ep/bobs-burgers/1302.html
@@ -3353,7 +3353,7 @@ Watch for:
   - [Mild] not to wear underwear.
   - [Mild] And some underwear.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Sometimes I sleepwalk holding a knife.
+  - [Caution] Sometimes I sleepwalk holding a knife.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Oh, Zeke captains a booze cruise
 
@@ -3362,27 +3362,27 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1304.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
-  - [Moderate] you son of a bitch! Aah!
+  - [Caution] you son of a bitch! Aah!
   - [Mild] and our hands are empty as hell.
   - [Mild] Damn. I kind of wanted spicy.
   - [Mild] Ho-Holy crap that's cold.
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] Sea-weed. Like, see, like, look.
+  - [Caution] Sea-weed. Like, see, like, look.
 
 ## S13 E5 — 5. So You Stink You Can Dance
 URL: https://watchwiththekids.com/ep/bobs-burgers/1305.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] "Irregular penis face"? Mother.
-  - [Explicit] him an irregular penis face.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] "Irregular penis face"? Mother.
+  - [Too much] him an irregular penis face.
 - Violence & injury — 2 moment(s)
-  - [Moderate] so it'll probably be a bloodbath.
+  - [Caution] so it'll probably be a bloodbath.
   - [Mild] Teddy, go! Beat them! Use motor!
 - Swearing — 6 moment(s)
-  - [Moderate] out of the sea, my little Moby Dicks.
-  - [Moderate] Moby Dicks, Li Never mind.
+  - [Caution] out of the sea, my little Moby Dicks.
+  - [Caution] Moby Dicks, Li Never mind.
   - [Mild] Oh, hell yeah.
   - [Mild] Damn. Pepper.
   - [Mild] have no chance in hell.
@@ -3398,7 +3398,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1307.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] can be murdered in cold blood.
+  - [Too much] can be murdered in cold blood.
   - [Mild] punch. Asteroid punch.
 
 ## S13 E8 — 8. Putts-giving
@@ -3433,8 +3433,8 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] I should go put on a bra.
 - Violence & injury — 2 moment(s)
-  - [Explicit] Uh, did you murder Tina? W-Where's Tina?
-  - [Explicit] Should we go murder the puppet?
+  - [Too much] Uh, did you murder Tina? W-Where's Tina?
+  - [Too much] Should we go murder the puppet?
 
 ## S13 E12 — 12. Oh Row You Didn't
 URL: https://watchwiththekids.com/ep/bobs-burgers/1312.html
@@ -3446,7 +3446,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1313.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] They wanted to murder it.
+  - [Too much] They wanted to murder it.
 
 ## S13 E14 — 14. These Boots Are Made for Stalking
 URL: https://watchwiththekids.com/ep/bobs-burgers/1314.html
@@ -3460,8 +3460,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1315.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Moderate] I could put some fake blood on it.
-  - [Moderate] would have blood on it,
+  - [Caution] I could put some fake blood on it.
+  - [Caution] would have blood on it,
 - Alcohol & drugs — 1 moment(s)
   - [Mild] And three beers, thanks.
 
@@ -3470,11 +3470,11 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1316.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Explicit] Fool's as a cover for murder.
-  - [Explicit] Murderer. You're
-  - [Explicit] Bob tried to murder Mr. Fischoeder.
-  - [Moderate] Perfect fake bloody phlegm combo.
-  - [Moderate] You, down there, catch this knife.
+  - [Too much] Fool's as a cover for murder.
+  - [Too much] Murderer. You're
+  - [Too much] Bob tried to murder Mr. Fischoeder.
+  - [Caution] Perfect fake bloody phlegm combo.
+  - [Caution] You, down there, catch this knife.
 - Alcohol & drugs — 4 moment(s)
   - [Mild] play the song Tequila.
   - [Mild] over here with cocktails.
@@ -3509,25 +3509,25 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1320.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] but all she had were nipples
-  - [Explicit] GENE: “Nipple him! Then take”
+  - [Too much] but all she had were nipples
+  - [Too much] GENE: “Nipple him! Then take”
 
 ## S13 E21 — 21. Mother Author Laser Pointer
 URL: https://watchwiththekids.com/ep/bobs-burgers/1321.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] tour with Guns N' Roses.
+  - [Caution] tour with Guns N' Roses.
 - Suicide & self-harm — 2 moment(s)
-  - [Explicit] Oh, was it a murder-suicide?
-  - [Explicit] Don't do a murder-suicide.
+  - [Too much] Oh, was it a murder-suicide?
+  - [Too much] Don't do a murder-suicide.
 
 ## S13 E22 — 22. Amelia
 URL: https://watchwiththekids.com/ep/bobs-burgers/1322.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Explicit] we think you're gonna murder our mom?
+  - [Too much] we think you're gonna murder our mom?
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Uh, hey, Lin. Uh, nice wine.
 
@@ -3556,21 +3556,21 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1403.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
-  - [Moderate] to sleep with my husband.
+  - [Caution] to sleep with my husband.
   - [Mild] Is that, like, a sex
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] What if penis sweat gets everywhere?
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] What if penis sweat gets everywhere?
   - [Mild] some naked men for us?"
 - Porn / strippers / sex work — 6 moment(s)
-  - [Explicit] Stripper or strip-club material shows up in the plot.
-  - [Explicit] Who makes a reservation at a strip club?
-  - [Explicit] strip club nearby?
-  - [Explicit] talking to male strippers?
-  - [Explicit] excited for strippers anymore?
-  - [Explicit] and watch the stripper party
+  - [Too much] Stripper or strip-club material shows up in the plot.
+  - [Too much] Who makes a reservation at a strip club?
+  - [Too much] strip club nearby?
+  - [Too much] talking to male strippers?
+  - [Too much] excited for strippers anymore?
+  - [Too much] and watch the stripper party
 - Violence & injury — 1 moment(s)
-  - [Moderate] for a blood transfusion
+  - [Caution] for a blood transfusion
 - Alcohol & drugs — 2 moment(s)
   - [Mild] that used vodka and tartar sauce
   - [Mild] Good wine at this place, huh?
@@ -3592,20 +3592,20 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1406.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
-  - [Moderate] Now Hubert sounds horny?
+  - [Caution] Now Hubert sounds horny?
   - [Mild] station at your last sex party?
   - [Mild] And a hell of a sex party.
 - Nudity & bodies — 2 moment(s)
   - [Mild] How much cleavage is too much cleavage?
   - [Mild] Oh, here he comes. And now he's nude.
 - Violence & injury — 4 moment(s)
-  - [Moderate] The blood oath was fun, but messy.
-  - [Moderate] Is that blood? Oh, my god.
-  - [Moderate] God, I wish we had our guns.
-  - [Moderate] Yeah, why don't you have your guns?
+  - [Caution] The blood oath was fun, but messy.
+  - [Caution] Is that blood? Oh, my god.
+  - [Caution] God, I wish we had our guns.
+  - [Caution] Yeah, why don't you have your guns?
 - Alcohol & drugs — 7 moment(s)
-  - [Moderate] You are all very stoned.
-  - [Moderate] You're all so stoned.
+  - [Caution] You are all very stoned.
+  - [Caution] You're all so stoned.
   - [Mild] over s'mores and cocktails
   - [Mild] custom cocktail, will you?
   - [Mild] Uh, a cocktail. Uh, okay.
@@ -3627,9 +3627,9 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] you want to tell us about sex.
 - Violence & injury — 3 moment(s)
-  - [Explicit] I look like a murderer.
-  - [Explicit] Murder eyes. It's just sorry.
-  - [Explicit] murder out of people's eyes.
+  - [Too much] I look like a murderer.
+  - [Too much] Murder eyes. It's just sorry.
+  - [Too much] murder out of people's eyes.
 
 ## S14 E9 — 9. Fraud of the Dead: Docu-pocalypse
 URL: https://watchwiththekids.com/ep/bobs-burgers/1409.html
@@ -3643,11 +3643,11 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] and in my underwear.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Is this dried blood?
-  - [Moderate] Dang it, I wish I gave you a flare gun.
+  - [Caution] Is this dried blood?
+  - [Caution] Dang it, I wish I gave you a flare gun.
 - Alcohol & drugs — 3 moment(s)
-  - [Explicit] Or cocaine. Also, Louise,
-  - [Explicit] No flour, no cocaine, but how about rum?
+  - [Too much] Or cocaine. Also, Louise,
+  - [Too much] No flour, no cocaine, but how about rum?
   - [Mild] wine reindeer glasses
 
 ## S14 E11 — 11. Mission Impossi-Bob
@@ -3660,10 +3660,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1412.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] The statue where you pinch his nipples?
+  - [Too much] The statue where you pinch his nipples?
   - [Mild] Oop, oof. Ooh, it's squishing my boob.
 - Violence & injury — 1 moment(s)
-  - [Explicit] and trying to murder you.
+  - [Too much] and trying to murder you.
 - Alcohol & drugs — 3 moment(s)
   - [Mild] goods and illegal booze.
   - [Mild] to sneak booze and other
@@ -3678,8 +3678,8 @@ Watch for:
   - [Mild] Who wears this much underwear?!
   - [Mild] And not fall boobs-first
 - Violence & injury — 2 moment(s)
-  - [Explicit] and might make Chelsea murder me?
-  - [Moderate] That one got my blood pumping.
+  - [Too much] and might make Chelsea murder me?
+  - [Caution] That one got my blood pumping.
 
 ## S14 E14 — 14. The Big Stieblitzki
 URL: https://watchwiththekids.com/ep/bobs-burgers/1414.html
@@ -3691,8 +3691,8 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1415.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] That's right! Uh, I didn't see a nipple.
-  - [Explicit] You thought you could see your nipple?
+  - [Too much] That's right! Uh, I didn't see a nipple.
+  - [Too much] You thought you could see your nipple?
   - [Mild] Maybe with a little less of my underwear
 
 ## S14 E16 — 16. To Catch a Beef
@@ -3700,28 +3700,28 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1416.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
-  - [Explicit] Oh, my God, we're gonna get murdered.
-  - [Explicit] stabbed, planted a ton of drugs,
-  - [Moderate] his gun up in the air?
-  - [Moderate] But we don't have a smoking gun.
-  - [Moderate] um, "Burn one, bloody,
+  - [Too much] Oh, my God, we're gonna get murdered.
+  - [Too much] stabbed, planted a ton of drugs,
+  - [Caution] his gun up in the air?
+  - [Caution] But we don't have a smoking gun.
+  - [Caution] um, "Burn one, bloody,
 
 ## S15 E1 — 1. The Tina Table: The Tables Have Tina-Ed
 URL: https://watchwiththekids.com/ep/bobs-burgers/1501.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Explicit] the movie to come murder me.
-  - [Explicit] And then he stabs
-  - [Moderate] Like, the blood dripping off the machete
+  - [Too much] the movie to come murder me.
+  - [Too much] And then he stabs
+  - [Caution] Like, the blood dripping off the machete
 
 ## S15 E2 — 2. Saving Favorite Drive-In
 URL: https://watchwiththekids.com/ep/bobs-burgers/1502.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] He's a murderer.
-  - [Explicit] I'm not a murderer.
+  - [Too much] He's a murderer.
+  - [Too much] I'm not a murderer.
 
 ## S15 E3 — 3. Colon-ly the Dronely
 URL: https://watchwiththekids.com/ep/bobs-burgers/1503.html
@@ -3730,30 +3730,30 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Who's got naked eyes?
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] an affair. With that guy.
-  - [Moderate] to cheat on my husband.
+  - [Caution] an affair. With that guy.
+  - [Caution] to cheat on my husband.
 - Violence & injury — 1 moment(s)
-  - [Moderate] Is our school Top Gun?
+  - [Caution] Is our school Top Gun?
 
 ## S15 E4 — 4. For Whom the Doll Toes
 URL: https://watchwiththekids.com/ep/bobs-burgers/1504.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
-  - [Explicit] It's a dollhouse murder mystery.
-  - [Explicit] I want to do a dollhouse murder mystery.
-  - [Explicit] doll-murdered. [WEAK CHUCKLE]
-  - [Explicit] You can't predict the murderer
-  - [Explicit] Louise murdered a bunch of Miss
-  - [Moderate] with his blood all over it.
-  - [Moderate] in his own blood.
+  - [Too much] It's a dollhouse murder mystery.
+  - [Too much] I want to do a dollhouse murder mystery.
+  - [Too much] doll-murdered. [WEAK CHUCKLE]
+  - [Too much] You can't predict the murderer
+  - [Too much] Louise murdered a bunch of Miss
+  - [Caution] with his blood all over it.
+  - [Caution] in his own blood.
 
 ## S15 E5 — 5. Don't Stop Be-Cheesin
 URL: https://watchwiththekids.com/ep/bobs-burgers/1505.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
-  - [Explicit] He looks like a sad corpse, right?
+  - [Too much] He looks like a sad corpse, right?
   - [Mild] can totally beat them.
 
 ## S15 E6 — 6. Hope N' Mic Night
@@ -3763,8 +3763,8 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] I don't think sex workers give
 - Porn / strippers / sex work — 2 moment(s)
-  - [Explicit] like a sex worker?
-  - [Explicit] A sex worker?
+  - [Too much] like a sex worker?
+  - [Too much] A sex worker?
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Couldn't it be a wine bar?
 
@@ -3775,11 +3775,11 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] after you guys had the sex talk?
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] It's a penis.
-  - [Explicit] And a lot of chances to show your penis?
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] It's a penis.
+  - [Too much] And a lot of chances to show your penis?
 - Violence & injury — 1 moment(s)
-  - [Moderate] Lot of blood here. Oh. [SHOUTS]
+  - [Caution] Lot of blood here. Oh. [SHOUTS]
 - Alcohol & drugs — 2 moment(s)
   - [Mild] a beer and talk about Vernon.
   - [Mild] Some beer for your tears.
@@ -3789,10 +3789,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1508.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] different murder blades,
-  - [Explicit] Murder saw, tweezer.
-  - [Moderate] Like Slug Army Knife here.
-  - [Moderate] archnemesis Slug Army Knife,
+  - [Too much] different murder blades,
+  - [Too much] Murder saw, tweezer.
+  - [Caution] Like Slug Army Knife here.
+  - [Caution] archnemesis Slug Army Knife,
 - Alcohol & drugs — 1 moment(s)
   - [Mild] and plastic champagne flutes.
 
@@ -3818,7 +3818,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1511.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] Maybe it's like Guns N' Roses
+  - [Caution] Maybe it's like Guns N' Roses
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Superior Cocktails.
 
@@ -3827,9 +3827,9 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1512.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
-  - [Moderate] Is that blood on your sock?
-  - [Moderate] bit of new shoe blood.
-  - [Moderate] Yes, they are. Yucky, bloody feet.
+  - [Caution] Is that blood on your sock?
+  - [Caution] bit of new shoe blood.
+  - [Caution] Yes, they are. Yucky, bloody feet.
 
 ## S15 E13 — 13. Snackface
 URL: https://watchwiththekids.com/ep/bobs-burgers/1513.html
@@ -3843,9 +3843,9 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1514.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
-  - [Explicit] Just don't get murdered by them
-  - [Explicit] But if you do get murdered,
-  - [Moderate] and the blood will block out
+  - [Too much] Just don't get murdered by them
+  - [Too much] But if you do get murdered,
+  - [Caution] and the blood will block out
   - [Mild] I could beat up a wolf.
 
 ## S15 E15 — 15. The Lost City of Atlantic
@@ -3859,13 +3859,13 @@ Watch for:
   - [Mild] Just stuff it in your bra, right?
   - [Mild] but that's not gonna fit in your bra.
 - Affairs / cheating — 2 moment(s)
-  - [Moderate] had an affair with?
-  - [Moderate] grandpa you had an affair.
+  - [Caution] had an affair with?
+  - [Caution] grandpa you had an affair.
 - Violence & injury — 1 moment(s)
-  - [Moderate] [BOB] Shotgun!
+  - [Caution] [BOB] Shotgun!
 - Sexual insults — 2 moment(s)
-  - [Moderate] I shush you, you skank.
-  - [Moderate] A lot mad, you gramp tramp.
+  - [Caution] I shush you, you skank.
+  - [Caution] A lot mad, you gramp tramp.
 
 ## S15 E16 — 16. The Shell Game
 URL: https://watchwiththekids.com/ep/bobs-burgers/1516.html
@@ -3877,10 +3877,10 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] You should see her naked,
 - Violence & injury — 2 moment(s)
-  - [Explicit] But it's also a murder mystery.
-  - [Explicit] and tell the client they shot them.
+  - [Too much] But it's also a murder mystery.
+  - [Too much] and tell the client they shot them.
 - Alcohol & drugs — 3 moment(s)
-  - [Explicit] In box marked 'cocaine.'"
+  - [Too much] In box marked 'cocaine.'"
   - [Mild] special sleepy-time cocktail.
   - [Mild] drink lingonberry wine,
 
@@ -3896,7 +3896,7 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1518.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sexual insults — 1 moment(s)
-  - [Moderate] "a skanky skank
+  - [Caution] "a skanky skank
 
 ## S15 E19 — 19. The Dead Bo-ats Society
 URL: https://watchwiththekids.com/ep/bobs-burgers/1519.html
@@ -3907,8 +3907,8 @@ Watch for:
   - [Mild] your boobs overboard?
   - [Mild] Are you trying to say cleavage?
 - Violence & injury — 2 moment(s)
-  - [Moderate] Oh, my God! Oh, my God! So much blood!
-  - [Moderate] bloodthirsty dog there.
+  - [Caution] Oh, my God! Oh, my God! So much blood!
+  - [Caution] bloodthirsty dog there.
 
 ## S15 E20 — 20. Dad-urday Kite Fever
 URL: https://watchwiththekids.com/ep/bobs-burgers/1520.html
@@ -3917,10 +3917,10 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] weird 'cause my underwear's wet.
 - Violence & injury — 2 moment(s)
-  - [Explicit] No. No, no, no. Critter, no stabbing.
-  - [Explicit] Sorry, pal, I'm gonna stab your kite.
+  - [Too much] No. No, no, no. Critter, no stabbing.
+  - [Too much] Sorry, pal, I'm gonna stab your kite.
 - Alcohol & drugs — 1 moment(s)
-  - [Moderate] I want to get high as a kite.
+  - [Caution] I want to get high as a kite.
 
 ## S15 E21 — 21. Mr. Safebody
 URL: https://watchwiththekids.com/ep/bobs-burgers/1521.html
@@ -3953,23 +3953,23 @@ Watch for:
   - [Mild] In the sex car!
   - [Mild] You're sexy and swell ♪
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] too hard on his penis
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] too hard on his penis
   - [Mild] Who's got two forks and meatball boobs?
 - Violence & injury — 1 moment(s)
-  - [Moderate] In blood, I assume, right?
+  - [Caution] In blood, I assume, right?
 
 ## S16 E3 — 3. The Twinnening
 URL: https://watchwiththekids.com/ep/bobs-burgers/1603.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
-  - [Explicit] "murder mask," "haunted mask,"
-  - [Explicit] sensational murders in London
-  - [Explicit] when worn during ritualistic murders.
-  - [Explicit] And there are no crazy murderers in
-  - [Moderate] I've got a lot of blood, like
-  - [Moderate] Oh, bloody hell.
+  - [Too much] "murder mask," "haunted mask,"
+  - [Too much] sensational murders in London
+  - [Too much] when worn during ritualistic murders.
+  - [Too much] And there are no crazy murderers in
+  - [Caution] I've got a lot of blood, like
+  - [Caution] Oh, bloody hell.
   - [Mild] Punch in 0000, and then the pound sign.
 
 ## S16 E4 — 4. The Skids in the Hall
@@ -3989,7 +3989,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] jumping up and slapping me,
 - Swearing — 5 moment(s)
-  - [Moderate] Son of a bitch!
+  - [Caution] Son of a bitch!
   - [Mild] Oh, crap. Oh, crap. Oh, crap.
   - [Mild] Oh, crap. Oh, crap.
   - [Mild] Damn it. Back in the stupid restaurant.
@@ -4000,14 +4000,14 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1606.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - [Moderate] He had a little gun.
+  - [Caution] He had a little gun.
 
 ## S16 E7 — 7. Tube for Tina
 URL: https://watchwiththekids.com/ep/bobs-burgers/1607.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] her nipple sticking out?
+  - [Too much] her nipple sticking out?
   - [Mild] And underwear for everybody.
   - [Mild] around the house naked,
 
@@ -4019,29 +4019,29 @@ Watch for:
   - [Mild] Is that code for sex stuff?
   - [Mild] It's not a sex massage. I don't think.
 - Nudity & bodies — 3 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] your nipples and work up?
-  - [Explicit] It's the size of your penis.
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] your nipples and work up?
+  - [Too much] It's the size of your penis.
 - Violence & injury — 2 moment(s)
-  - [Explicit] have to stab you, Gayle.
-  - [Moderate] Oh, you're cold-blooded ♪
+  - [Too much] have to stab you, Gayle.
+  - [Caution] Oh, you're cold-blooded ♪
 - Swearing — 4 moment(s)
-  - [Moderate] little son of a bitch.
+  - [Caution] little son of a bitch.
   - [Mild] heads, make people go, "Damn!"
   - [Mild] And that smell is a big old hell no.
   - [Mild] Well, crap. That was
 - Sexual insults — 1 moment(s)
-  - [Moderate] Are you trying to say "skank"?
+  - [Caution] Are you trying to say "skank"?
 
 ## S16 E9 — 9. It's a Stunterful Life
 URL: https://watchwiththekids.com/ep/bobs-burgers/1609.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
-  - [Explicit] Explicit body / sex-act language appears in dialogue.
-  - [Explicit] has big scary nipples.
-  - [Explicit] and not next to each other like nipples.
-  - [Explicit] of not feeling my penis?
+  - [Too much] Explicit body / sex-act language appears in dialogue.
+  - [Too much] has big scary nipples.
+  - [Too much] and not next to each other like nipples.
+  - [Too much] of not feeling my penis?
 
 ## S16 E10 — 10. Heist Things Are Heist
 URL: https://watchwiththekids.com/ep/bobs-burgers/1610.html
@@ -4054,7 +4054,7 @@ Watch for:
   - [Mild] I'm taking off my bra!
   - [Mild] Come on, Bob, look at my boobs.
 - Violence & injury — 2 moment(s)
-  - [Moderate] It would be a bloodbath.
+  - [Caution] It would be a bloodbath.
   - [Mild] I wish I could beat up kids.
 - Alcohol & drugs — 2 moment(s)
   - [Mild] wine patio and a fun pin.
@@ -4065,10 +4065,10 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1611.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] they were the keyboard's nipples,
+  - [Too much] they were the keyboard's nipples,
   - [Mild] about your underwear, Dad?
 - Violence & injury — 2 moment(s)
-  - [Moderate] of their own blood.
+  - [Caution] of their own blood.
   - [Mild] Come on, Tina. You can beat him.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] And wine. And the perfect pineapple
@@ -4080,12 +4080,12 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Have I told you about the sex stuff
 - Nudity & bodies — 1 moment(s)
-  - [Explicit] Ow, ow, Zeke, ow! My nipple.
+  - [Too much] Ow, ow, Zeke, ow! My nipple.
 - Violence & injury — 1 moment(s)
-  - [Explicit] 'Cause they'll murder us?
+  - [Too much] 'Cause they'll murder us?
 - Swearing — 10 moment(s)
-  - [Moderate] That son of a bitch!
-  - [Moderate] The sons of bitches cold spaghetti-ed me.
+  - [Caution] That son of a bitch!
+  - [Caution] The sons of bitches cold spaghetti-ed me.
   - [Mild] Hot damn! Look at J.Ju
   - [Mild] Oh, crap! Go, go, go!
   - [Mild] You good for nothing, lowlife bastard!
@@ -4107,7 +4107,7 @@ Watch for:
   - [Mild] Car butts. Car boobs. Car wieners.
   - [Mild] Play with dad's boobs.
 - Swearing — 6 moment(s)
-  - [Moderate] Son of a bitch.
+  - [Caution] Son of a bitch.
   - [Mild] I sunburn easy. I have a hell of a
   - [Mild] What the hell is everyone
   - [Mild] Damn it. Stupid light.
@@ -4119,12 +4119,12 @@ URL: https://watchwiththekids.com/ep/bobs-burgers/1614.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - [Explicit] Not my nipple!
+  - [Too much] Not my nipple!
   - [Mild] with boobs and we love ya!
 - Affairs / cheating — 1 moment(s)
-  - [Moderate] Department of Community Affairs.
+  - [Caution] Department of Community Affairs.
 - Swearing — 5 moment(s)
-  - [Moderate] You son of a bitch!
+  - [Caution] You son of a bitch!
   - [Mild] Crap, is it already 4:30? I'd better go.
   - [Mild] Hugo? Oh crap.
   - [Mild] the hell out of them.
@@ -4137,10 +4137,10 @@ Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Harold's sex night, Bob.
 - Violence & injury — 2 moment(s)
-  - [Moderate] Get in here, J-Ju. You son of a gun.
+  - [Caution] Get in here, J-Ju. You son of a gun.
   - [Mild] punched Edith and walked out.
 - Swearing — 6 moment(s)
-  - [Moderate] Son of a bitch.
+  - [Caution] Son of a bitch.
   - [Mild] Damn it, Bob, I gotta get home.
   - [Mild] Damn, that's cold.
   - [Mild] any permits for this crap show.

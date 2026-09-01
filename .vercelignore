@@ -1,0 +1,11 @@
+# Source + local-only — not part of the deployed site (web/ is the output).
+transcripts/
+ratings/
+node_modules/
+.git/
+**/__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example

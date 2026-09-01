@@ -18,12 +18,23 @@ Open http://localhost:8765
 
 ## Deploy
 
-Only the `web/` folder is deployed (no transcripts):
+Production is on Vercel. **A git push alone does not update the live site** unless the GitHub Action runs (see below).
 
 ```bash
-python3 build_web.py
-cd web && vercel --prod --yes
+python3 build_web.py          # regenerate web/ from ratings (required when scores change)
+vercel deploy --prod --yes --archive=tgz   # from repo root
 ```
+
+### Auto-deploy on push
+
+Every push to `master` runs `.github/workflows/deploy.yml`, which rebuilds the site and deploys to Vercel.
+
+**One-time setup:** add a `VERCEL_TOKEN` secret in GitHub repo settings  
+(Settings → Secrets → Actions). Create the token at https://vercel.com/account/tokens (scope: deploy).
+
+Also connect the repo in [Vercel project settings](https://vercel.com/kobys-projects-04cfac10/watchwithkids/settings/git) so dashboard deploys stay in sync (optional if Actions handles deploys).
+
+Only the `web/` folder ships to Vercel (transcripts stay local).
 
 ## Score scale
 
