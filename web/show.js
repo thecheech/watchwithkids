@@ -60,7 +60,7 @@
   let bucket = "all";
   const selectedThemes = new Set();
   const PAGE_SIZE = 10;
-  const THEMES_PER_PAGE = 3;
+  const DEFAULT_NOTES_SHOWN = 5;
   let listPage = 1;
 
   els.disclaimer.textContent =
@@ -92,6 +92,23 @@
     return watchThemesOf(ep).map((theme) => ({ theme, how: "" }));
   }
 
+  /** Rank notes by harmfulness: episode overall, then count, then alphabetically */
+  function rankNotes(details, ep) {
+    return [...details].sort((a, b) => {
+      // Primary: episode overall score (descending - worst first)
+      // This is already the max of violence/sex/language
+      // (implicit - same for all notes in this episode)
+      
+      // Secondary: count (descending - more instances = worse)
+      const countA = Number(a.count) || instancesOf(a).length || 1;
+      const countB = Number(b.count) || instancesOf(b).length || 1;
+      if (countB !== countA) return countB - countA;
+      
+      // Tertiary: theme name (alphabetically for stability)
+      return a.theme.localeCompare(b.theme);
+    });
+  }
+
   /** Cards stay scannable — the full wording lives on the episode page. */
   function clamp(text, max = 110) {
     if (text.length <= max) return text;
@@ -120,40 +137,25 @@
     return text ? [{ kind: d.kind, speaker: d.speaker, text }] : [];
   }
 
-  function wrapIndex(i, n) {
-    if (n <= 0) return 0;
-    return ((i % n) + n) % n;
-  }
-
-  function themeItemHtml(d, { hidden } = {}) {
+  function themeItemHtml(d, ep) {
     const instances = instancesOf(d);
     const inst = instances[0] || d;
     const headline = headlineOf(inst);
     const count = Number(d.count) || instances.length || 1;
-    const n = instances.length;
+    const href = epHref(ep);
+    
     let extra = "";
-    if (n > 1) {
-      extra = `<span class="theme-pager">
-        <button type="button" class="theme-page-btn" data-watch-step="-1" aria-label="Previous ${escapeHtml(d.theme)} moment">‹</button>
-        <span class="theme-page-n" data-watch-n>1/${n}</span>
-        <button type="button" class="theme-page-btn" data-watch-step="1" aria-label="Next ${escapeHtml(d.theme)} moment">›</button>
-      </span>`;
-    } else if (count > 1) {
+    if (count > 1) {
       extra = `<span class="theme-more" title="${count} moments in this episode">+${count - 1}</span>`;
     }
-    const payload = escapeHtml(
-      JSON.stringify(
-        instances.map((x) => ({
-          kind: x.kind || "",
-          speaker: x.speaker || "",
-          text: x.text || x.how || "",
-        }))
-      )
-    );
-    return `<li class="theme-item"${hidden ? " hidden" : ""} data-instances="${payload}" data-idx="0">
-      <span class="theme-item-head">
-        <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}
-      </span>${headline ? `<span class="theme-how" data-watch-how>${headline}</span>` : ""}
+    
+    return `<li class="theme-item">
+      <a href="${href}" class="theme-item-link" aria-label="View ${escapeHtml(d.theme)} details in episode">
+        <span class="theme-item-head">
+          <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}
+          <span class="theme-rank" aria-label="Episode overall ${ep.overall}/5">${ep.overall}/5</span>
+        </span>${headline ? `<span class="theme-how">${headline}</span>` : ""}
+      </a>
     </li>`;
   }
 
@@ -384,20 +386,23 @@
   function renderCard(ep, i) {
     const bKey = bucketOf(ep);
     const details = watchDetailsOf(ep);
-    const themePages = Math.max(1, Math.ceil(details.length / THEMES_PER_PAGE));
-    const watchLis = details
-      .map((d, di) => themeItemHtml(d, { hidden: di >= THEMES_PER_PAGE }))
+    const rankedDetails = rankNotes(details, ep);
+    const hasMore = rankedDetails.length > DEFAULT_NOTES_SHOWN;
+    const visibleDetails = hasMore ? rankedDetails.slice(0, DEFAULT_NOTES_SHOWN) : rankedDetails;
+    
+    const watchLis = visibleDetails
+      .map((d) => themeItemHtml(d, ep))
       .join("");
-    const listPager =
-      themePages > 1
-        ? `<div class="watch-list-pager" data-watch-list-pager data-page="0">
-            <button type="button" class="theme-page-btn" data-watch-list-step="-1" aria-label="Previous watch-for themes">‹</button>
-            <span class="theme-page-n" data-watch-list-n>1/${themePages}</span>
-            <button type="button" class="theme-page-btn" data-watch-list-step="1" aria-label="Next watch-for themes">›</button>
-          </div>`
-        : "";
+    
+    const href = epHref(ep);
+    const expandLink = hasMore
+      ? `<a href="${href}" class="watch-expand-link">
+          Show all ${rankedDetails.length} watch-fors <span aria-hidden="true">→</span>
+        </a>`
+      : "";
+    
     const themeHtml = details.length
-      ? `<ul class="examples theme-watch-list">${watchLis}</ul>`
+      ? `<ul class="examples theme-watch-list">${watchLis}</ul>${expandLink}`
       : `<ul class="examples theme-watch-list"><li>No watch-for themes flagged.</li></ul>`;
     const notes = ep.notes
       ? `<p class="notes">📝 ${escapeHtml(ep.notes)}</p>`
@@ -406,7 +411,6 @@
     const summary = ep.summary
       ? `<p class="summary">${escapeHtml(ep.summary)}</p>`
       : "";
-    const href = epHref(ep);
     // Prefer medium still for list thumbs — full stills are for episode pages.
     const stillSrc = ep.still || ep.stillFull;
     const still = stillSrc
@@ -442,7 +446,6 @@
         <div class="notes-block">
           <div class="examples-head">
             <p class="examples-title">${NOTES_TITLE[bKey]}</p>
-            ${listPager}
           </div>
           ${themeHtml}
         </div>
@@ -609,57 +612,6 @@
       </div>
     `;
   }
-
-  function applyInstance(li, nextIdx) {
-    let instances = [];
-    try {
-      instances = JSON.parse(li.dataset.instances || "[]");
-    } catch (_) {
-      return;
-    }
-    if (!instances.length) return;
-    const idx = wrapIndex(nextIdx, instances.length);
-    li.dataset.idx = String(idx);
-    const how = li.querySelector("[data-watch-how]");
-    const nEl = li.querySelector("[data-watch-n]");
-    if (how) how.innerHTML = headlineOf(instances[idx]);
-    if (nEl) nEl.textContent = `${idx + 1}/${instances.length}`;
-  }
-
-  function applyThemePage(block, nextPage) {
-    const ul = block.querySelector(".theme-watch-list");
-    const pager = block.querySelector("[data-watch-list-pager]");
-    if (!ul) return;
-    const items = [...ul.querySelectorAll(":scope > li")];
-    const pages = Math.max(1, Math.ceil(items.length / THEMES_PER_PAGE));
-    const page = wrapIndex(nextPage, pages);
-    items.forEach((li, i) => {
-      li.hidden = i < page * THEMES_PER_PAGE || i >= (page + 1) * THEMES_PER_PAGE;
-    });
-    if (pager) {
-      pager.dataset.page = String(page);
-      const nEl = pager.querySelector("[data-watch-list-n]");
-      if (nEl) nEl.textContent = `${page + 1}/${pages}`;
-    }
-  }
-
-  els.list.addEventListener("click", (e) => {
-    const stepBtn = e.target.closest("[data-watch-step]");
-    if (stepBtn) {
-      e.preventDefault();
-      const li = stepBtn.closest("li");
-      if (li) applyInstance(li, Number(li.dataset.idx || 0) + Number(stepBtn.dataset.watchStep));
-      return;
-    }
-    const listBtn = e.target.closest("[data-watch-list-step]");
-    if (!listBtn) return;
-    e.preventDefault();
-    const pager = listBtn.closest("[data-watch-list-pager]");
-    const block = listBtn.closest(".notes-block");
-    if (pager && block) {
-      applyThemePage(block, Number(pager.dataset.page || 0) + Number(listBtn.dataset.watchListStep));
-    }
-  });
 
   els.vibeBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
