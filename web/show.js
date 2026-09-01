@@ -306,14 +306,16 @@
     
     let extra = "";
     if (count > 1) {
-      extra = `<span class="theme-more" title="${count} moments in this episode">+${count - 1}</span>`;
+      extra = `<span class="theme-stat theme-more" aria-label="${count} flagged in this episode"><span class="theme-stat-val">${count}</span><span class="theme-stat-label">flags</span></span>`;
     }
-    
+
+    const level = Number(d.intensity) || Number(ep.overall) || 1;
+
     return `<li class="theme-item">
       <a href="${href}" class="theme-item-link" aria-label="View ${escapeHtml(d.theme)} details in episode">
         <span class="theme-item-head">
           <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}
-          <span class="theme-rank" aria-label="Episode overall ${ep.overall}/5">${ep.overall}/5</span>
+          <span class="theme-stat theme-rank" aria-label="Level ${level} out of 5"><span class="theme-stat-label">level</span><span class="theme-stat-val">${level}</span></span>
         </span>${headline ? `<span class="theme-how">${headline}</span>` : ""}
       </a>
     </li>`;

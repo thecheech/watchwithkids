@@ -1003,16 +1003,40 @@ h1 {
   flex: 1;
 }
 
-.theme-rank {
+.theme-stat {
   flex-shrink: 0;
-  font-size: 0.68rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  border-radius: 999px;
+  padding: 0.15rem 0.5rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.theme-stat-label {
+  font-size: 0.58rem;
   font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  opacity: 0.72;
+}
+
+.theme-stat-val {
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.theme-rank {
+  margin-left: auto;
   color: var(--ink);
   background: rgba(255, 255, 255, 0.9);
   border: 1.5px solid rgba(31, 22, 48, 0.15);
-  border-radius: 999px;
-  padding: 0.15rem 0.5rem;
-  margin-left: auto;
+}
+
+.theme-more {
+  color: var(--muted);
+  background: rgba(31, 22, 48, 0.08);
 }
 
 .theme-how {
@@ -1200,15 +1224,6 @@ h1 {
   letter-spacing: -0.01em;
 }
 
-.theme-more {
-  flex-shrink: 0;
-  font-size: 0.68rem;
-  font-weight: 800;
-  color: var(--muted);
-  background: rgba(31, 22, 48, 0.08);
-  border-radius: 999px;
-  padding: 0.05rem 0.38rem;
-}
 
 .theme-sep {
   color: rgba(91, 79, 114, 0.35);
