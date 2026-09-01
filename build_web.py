@@ -335,6 +335,8 @@ def season_label(season, show_id: str | None = None) -> str:
 
 def extra_head(image_url: str, *, preload_cover: str | None = None) -> str:
     preload = f'  <link rel="preload" as="image" href="{esc(preload_cover)}" fetchpriority="high" />\n' if preload_cover else ""
+    gsc_token = os.environ.get("GSC_VERIFICATION") or os.environ.get("NEXT_PUBLIC_GSC")
+    gsc_meta = f'  <meta name="google-site-verification" content="{esc(gsc_token)}" />\n' if gsc_token else ""
     return (
         f'  <meta property="og:image:width" content="1920" />\n'
         f'  <meta property="og:image:height" content="1080" />\n'
@@ -344,7 +346,7 @@ def extra_head(image_url: str, *, preload_cover: str | None = None) -> str:
         f'  <link rel="icon" href="/favicon.ico" sizes="any" />\n'
         f'  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />\n'
         f'  <meta name="theme-color" content="#14101c" />\n'
-        f'{preload}'
+        f'{gsc_meta}{preload}'
     )
 
 
@@ -1445,6 +1447,8 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
         return
     live = [s for s in shows if s["id"] in mixes]
     total_eps = sum(mixes[s["id"]]["total"] for s in live)
+    
+    gsc_token = os.environ.get("GSC_VERIFICATION") or os.environ.get("NEXT_PUBLIC_GSC")
 
     rows = []
     for s in live:
@@ -1525,6 +1529,20 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
     text = path.read_text()
     # Hand-written head tags carry absolute URLs — keep them on the current origin.
     text = re.sub(r"https://(?:watchwiththekids\.com|watchwithkids\.vercel\.app)", SITE, text)
+    
+    # Remove any existing GSC meta tags first
+    text = re.sub(r'  <meta name="google-site-verification"[^>]+/>\n?', '', text)
+    
+    # Insert new GSC meta tag if token is provided
+    if gsc_token:
+        gsc_meta = f'  <meta name="google-site-verification" content="{esc(gsc_token)}" />\n'
+        # Insert after theme-color meta tag
+        text = re.sub(
+            r'(<meta name="theme-color"[^>]+/>)\n',
+            r'\1\n' + gsc_meta,
+            text
+        )
+    
     text = _replace_block(text, "SHOWS", shows_block)
     text = _replace_block(text, "JSONLD", script)
     path.write_text(text)
