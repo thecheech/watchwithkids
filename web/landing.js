@@ -13,8 +13,8 @@
     "gravity-falls",
     "adventure-time",
     "steven-universe",
-    "kpop-demon-hunters",
     "full-house",
+    "fresh-prince",
     "young-sheldon",
     "friends",
     "seinfeld",
@@ -24,18 +24,15 @@
     "malcolm-in-the-middle",
     "modern-family",
     "parks-and-recreation",
-    "wednesday",
+    "brooklyn-nine-nine",
+    "bobs-burgers",
+    "simpsons",
     "futurama",
     "rick-and-morty",
     "family-guy",
     "south-park",
   ];
-  const SOON_ORDER = [
-    "fresh-prince",
-    "brooklyn-nine-nine",
-    "simpsons",
-    "bobs-burgers",
-  ];
+  const SOON_ORDER = [];
 
   const BLURBS = {
     friends: "Six friends, one couch — rated episode by episode.",
@@ -59,8 +56,10 @@
     futurama: "31st-century delivery crew — lots of adult sci-fi comedy.",
     "parks-and-recreation": "Pawnee parks dept. — workplace sitcom with adult edges.",
     "modern-family": "Three families, one mockumentary — lots of grown-up plots.",
-    wednesday: "Macabre Nevermore mystery — murder, monsters and deadpan dark humor.",
-    "kpop-demon-hunters": "Pop stars by day, demon hunters by night — one animated movie, rated.",
+    "fresh-prince": "West Philly to Bel-Air — family sitcom with occasional adult edges.",
+    "brooklyn-nine-nine": "Precinct comedy — mostly workplace laughs, some crime and innuendo.",
+    simpsons: "Springfield forever — long-running satire with plenty of adult jokes.",
+    "bobs-burgers": "Belcher family burgers — mostly kid-friendly with occasional adult bits.",
   };
 
   const SLIDE_MS = 4000;
@@ -106,8 +105,12 @@
     liveGrid.innerHTML = ready.map((s, i) => cardHtml(s, i, false)).join("");
   }
 
-  if (shelfCount) shelfCount.textContent = `${soon.length} coming soon`;
-  grid.innerHTML = soon.map((s, i) => cardHtml(s, i, true)).join("");
+  if (soon.length) {
+    if (shelfCount) shelfCount.textContent = `${soon.length} coming soon`;
+    grid.innerHTML = soon.map((s, i) => cardHtml(s, i, true)).join("");
+  } else {
+    document.querySelector(".shelf")?.remove();
+  }
 
   const cards = [...document.querySelectorAll(".show-card")];
   const io = new IntersectionObserver(

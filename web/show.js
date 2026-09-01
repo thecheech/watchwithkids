@@ -378,15 +378,16 @@
       ? `<p class="summary">${escapeHtml(ep.summary)}</p>`
       : "";
     const href = epHref(ep);
-    const stillSrc = ep.stillFull || ep.still;
+    // Prefer medium still for list thumbs — full stills are for episode pages.
+    const stillSrc = ep.still || ep.stillFull;
     const still = stillSrc
-      ? `<div class="card-still" aria-hidden="true"><img src="${escapeHtml(stillSrc)}" alt="" width="1280" height="720" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></div>`
+      ? `<div class="card-still" aria-hidden="true"><img src="${escapeHtml(stillSrc)}" alt="" width="250" height="140" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></div>`
       : "";
     return `
       <article class="card card-${bKey}${stillSrc ? " has-still" : ""}" style="animation-delay:${Math.min(i, 12) * 25}ms">
         <a class="card-hit" href="${href}" aria-label="Open ${escapeHtml(cleanTitle(ep.title))}">
-          ${still}
           <div class="card-top">
+            ${still}
             <div class="card-copy">
               <div class="ep-meta">
                 <span class="badge">🎞️ ${escapeHtml(epLabel(ep))}</span>

@@ -47,8 +47,10 @@ READY = [
     "futurama",
     "parks-and-recreation",
     "modern-family",
-    "wednesday",
-    "kpop-demon-hunters",
+    "fresh-prince",
+    "brooklyn-nine-nine",
+    "bobs-burgers",
+    "simpsons",
 ]
 
 SHOW_PAGE = {
@@ -110,6 +112,22 @@ SHOW_PAGE = {
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "h1": 'KPop Demon Hunters <span class="pop">🎤</span>',
+    },
+    "fresh-prince": {
+        "name": "The Fresh Prince of Bel-Air",
+        "h1": 'Fresh Prince <span class="pop">👑</span>',
+    },
+    "brooklyn-nine-nine": {
+        "name": "Brooklyn Nine-Nine",
+        "h1": 'Brooklyn Nine-Nine <span class="pop">🚓</span>',
+    },
+    "bobs-burgers": {
+        "name": "Bob's Burgers",
+        "h1": "Bob's Burgers <span class=\"pop\">🍔</span>",
+    },
+    "simpsons": {
+        "name": "The Simpsons",
+        "h1": 'The Simpsons <span class="pop">🍩</span>',
     },
 }
 
@@ -439,8 +457,11 @@ def stream_links_for(show_id: str, show_name: str) -> dict | None:
     return {"watch": watch, "buy": buy}
 
 
+LOGO_ONLY_PROVIDERS = frozenset({"netflix", "hbo", "disney", "amazon", "apple", "google"})
+
+
 def stream_icon_html(provider: str, *, prefix: str = "") -> str:
-    """Brand mark as <img> so large logos (Disney+) aren't inlined on every page."""
+    """Brand wordmark as <img> — sized in CSS per provider."""
     icons = {
         "netflix": "netflix.svg",
         "hbo": "hbo.svg",
@@ -451,10 +472,9 @@ def stream_icon_html(provider: str, *, prefix: str = "") -> str:
         "official": "official.svg",
     }
     file = icons.get(provider) or icons["official"]
-    wide = " watch-logo-wide" if provider == "disney" else ""
     return (
-        f'<img class="watch-logo{wide}" src="{prefix}icons/{file}" alt="" '
-        f'width="{"52" if provider == "disney" else "18"}" height="18" loading="lazy" decoding="async" />'
+        f'<img class="watch-logo" src="{prefix}icons/{file}" alt="" '
+        f'loading="lazy" decoding="async" />'
     )
 
 
@@ -467,10 +487,9 @@ def stream_chip_html(link: dict, *, prefix: str = "") -> str:
         aria = f"{link['name']} — {link['note']}"
     aria += " (opens in a new tab)"
     icon = stream_icon_html(link["id"], prefix=prefix)
-    # Disney+ SVG is the full wordmark — skip duplicate text label.
     name_html = (
         ""
-        if link["id"] == "disney"
+        if link["id"] in LOGO_ONLY_PROVIDERS
         else f'<span class="watch-chip-name">{esc(link["name"])}</span>'
     )
     return (
@@ -1779,10 +1798,18 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
             stat = f'{mix["safe"]} of {mix["total"]} episodes are all clear'
         elif mix["skip"] / total >= 0.7:
             badge = '<span class="guide-badge skip">Mostly skip</span>'
-            stat = f'Only {mix["safe"]} of {mix["total"]} episodes are all clear'
+            stat = (
+                f'Only {mix["safe"]} of {mix["total"]} episodes are all clear'
+                if mix["safe"]
+                else "No all-clear episodes — after-bedtime territory"
+            )
         else:
             badge = '<span class="guide-badge maybe">Preview first</span>'
-            stat = f'{mix["safe"]} of {mix["total"]} episodes are all clear'
+            stat = (
+                f'{mix["safe"]} of {mix["total"]} episodes are all clear'
+                if mix["safe"]
+                else "No all-clear episodes — preview every one"
+            )
         return (
             f'<li><a class="guide-card" href="{esc(sid)}.html">'
             f'<span class="guide-cover">'

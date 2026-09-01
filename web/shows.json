@@ -89,12 +89,18 @@
     "premiered": "2013",
     "runtime": 30,
     "summary": "Brooklyn Nine-Nine is an ensemble comedy about a talented-but-carefree detective, a by-the-book police captain and their precinct colleagues. While based in the workplace, Brooklyn Nine-Nine is not really about the job – it's about the men and women behind the badge.",
-    "ready": false,
+    "ready": true,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/brooklyn-nine-nine.jpg",
     "blurb": "Brooklyn Nine-Nine is an ensemble comedy about a talented-but-carefree detective, a by-the-book police captain and their precinct…",
-    "href": null
+    "href": "brooklyn-nine-nine.html",
+    "mix": {
+      "safe": 9,
+      "maybe": 70,
+      "skip": 56,
+      "total": 135
+    }
   },
   {
     "id": "how-i-met-your-mother",
@@ -212,12 +218,18 @@
     "premiered": "1989",
     "runtime": 30,
     "summary": "The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.",
-    "ready": false,
+    "ready": true,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/simpsons.jpg",
     "blurb": "The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and…",
-    "href": null
+    "href": "simpsons.html",
+    "mix": {
+      "safe": 300,
+      "maybe": 221,
+      "skip": 43,
+      "total": 564
+    }
   },
   {
     "id": "futurama",
@@ -284,12 +296,18 @@
     "premiered": "2011",
     "runtime": 30,
     "summary": "The series follows Bob who runs Bob's Burgers, with the help of his wife and their three kids. Bob has big ideas about burgers, but the rest of the clan falls short on service. Despite the greasy counters and lousy location, the Belchers are determined to make every \"Grand Re-Re-Re-opening\" a success. Bob's wife, Linda, stands by her man and often does so by bursting into song. Their eldest daughter, 13-year-old Tina has a slight obsession with boys and zombies. Middle child Gene is an aspiring musician with a thirst for life. Louise is the bunny ears-wearing youngest daughter with an off-kilter sense of humor that makes her somewhat of a liability in the kitchen – and with the public.",
-    "ready": false,
+    "ready": true,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/bobs-burgers.jpg",
     "blurb": "The series follows Bob who runs Bob's Burgers, with the help of his wife and their three kids. Bob has big ideas about burgers, but the…",
-    "href": null
+    "href": "bobs-burgers.html",
+    "mix": {
+      "safe": 135,
+      "maybe": 121,
+      "skip": 56,
+      "total": 312
+    }
   },
   {
     "id": "phineas-and-ferb",
@@ -517,12 +535,18 @@
     "premiered": "1990",
     "runtime": 30,
     "summary": "Will Smith plays a young man transplanted from the tough streets of Philadelphia to live with his wealthy Bel-Air relatives, causing everyone to adjust how they live and think.",
-    "ready": false,
+    "ready": true,
     "coverW": 1920,
     "coverH": 1080,
     "coverLocal": "covers/fresh-prince.jpg",
     "blurb": "Will Smith plays a young man transplanted from the tough streets of Philadelphia to live with his wealthy Bel-Air relatives, causing…",
-    "href": null
+    "href": "fresh-prince.html",
+    "mix": {
+      "safe": 115,
+      "maybe": 28,
+      "skip": 5,
+      "total": 148
+    }
   },
   {
     "id": "young-sheldon",
@@ -642,18 +666,12 @@
     "premiered": "2022",
     "runtime": 50,
     "summary": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore Academy.",
-    "ready": true,
+    "ready": false,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/wednesday.jpg",
     "blurb": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore…",
-    "href": "wednesday.html",
-    "mix": {
-      "safe": 0,
-      "maybe": 15,
-      "skip": 1,
-      "total": 16
-    }
+    "href": null
   },
   {
     "id": "kpop-demon-hunters",
@@ -668,17 +686,11 @@
     "premiered": "2025",
     "runtime": 96,
     "summary": "K-pop superstars Rumi, Mira and Zoey sell out stadiums by day and secretly defend their fans from demons by night — until a rival boy band turns out to be demons in disguise.",
-    "ready": true,
+    "ready": false,
     "coverW": 3840,
     "coverH": 2160,
     "coverLocal": "covers/kpop-demon-hunters.jpg",
     "blurb": "K-pop superstars Rumi, Mira and Zoey sell out stadiums by day and secretly defend their fans from demons by night — until a rival boy band…",
-    "href": "kpop-demon-hunters.html",
-    "mix": {
-      "safe": 0,
-      "maybe": 1,
-      "skip": 0,
-      "total": 1
-    }
+    "href": null
   }
 ]
