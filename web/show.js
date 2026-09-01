@@ -66,13 +66,45 @@
   const DEFAULT_NOTES_SHOWN = 5;
   let listPage = 1;
   let pendingEpScroll = null;
+  let suppressUrlUpdate = false;
 
   els.disclaimer.textContent =
     "👋 Fun family guide, not an official rating. Your kids — your rules!";
 
-  els.vibeBtns.forEach((btn) => {
-    btn.classList.toggle("is-active", btn.dataset.bucket === bucket);
-  });
+  function readStateFromUrl() {
+    const params = new URLSearchParams(location.search);
+    return {
+      season: params.get("season") || "all",
+      bucket: params.get("vibe") || "all",
+      themes: params.get("themes") ? params.get("themes").split(",").filter(Boolean) : [],
+      q: params.get("q") || "",
+      sort: params.get("sort") || "air",
+    };
+  }
+
+  function writeStateToUrl() {
+    if (suppressUrlUpdate) return;
+    const params = new URLSearchParams();
+    if (els.season.value !== "all") params.set("season", els.season.value);
+    if (bucket !== "all") params.set("vibe", bucket);
+    if (selectedThemes.size > 0) params.set("themes", [...selectedThemes].sort().join(","));
+    if (els.q.value.trim()) params.set("q", els.q.value.trim());
+    if (els.sort.value !== "air") params.set("sort", els.sort.value);
+    
+    const query = params.toString();
+    const url = query ? `?${query}${location.hash}` : location.pathname + location.hash;
+    history.replaceState(null, "", url);
+  }
+
+  function syncVibeButtons() {
+    els.vibeBtns.forEach((btn) => {
+      const isActive = btn.dataset.bucket === bucket;
+      btn.classList.toggle("is-active", isActive);
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+    });
+  }
+
+  syncVibeButtons();
 
   const seasons = [...new Set(data.episodes.map((e) => e.season))].sort((a, b) => Number(a) - Number(b));
   for (const s of seasons) {
@@ -146,15 +178,39 @@
     const q = els.q.value.trim().toLowerCase();
     let sortMode = selectedThemes.size && els.sort.value === "air" ? "themes" : els.sort.value;
     let list = filteredList({ season, q, sortMode });
+    
     if (!list.some((e) => epAnchorId(e) === code)) {
+      const clearedFilters = [];
+      if (bucket !== "all") clearedFilters.push("vibe");
+      if (selectedThemes.size > 0) clearedFilters.push("themes");
+      if (q) clearedFilters.push("search");
+      
       bucket = "all";
       selectedThemes.clear();
       els.q.value = "";
-      els.vibeBtns.forEach((b) => b.classList.toggle("is-active", b.dataset.bucket === "all"));
+      syncVibeButtons();
       renderThemeChips();
+      writeStateToUrl();
       sortMode = els.sort.value;
       list = filteredList({ season, q: "", sortMode });
+      
+      if (clearedFilters.length > 0 && list.some((e) => epAnchorId(e) === code)) {
+        const msg = `Cleared ${clearedFilters.join(", ")} filter${clearedFilters.length > 1 ? "s" : ""} to show this episode.`;
+        setTimeout(() => {
+          const hint = document.getElementById("bucket-hint");
+          if (hint) {
+            const original = hint.textContent;
+            hint.textContent = msg;
+            hint.style.fontStyle = "italic";
+            setTimeout(() => {
+              hint.textContent = original;
+              hint.style.fontStyle = "";
+            }, 4000);
+          }
+        }, 100);
+      }
     }
+    
     if (!list.some((e) => epAnchorId(e) === code)) return null;
     const index = list.findIndex((e) => epAnchorId(e) === code);
     listPage = Math.floor(index / PAGE_SIZE) + 1;
@@ -289,9 +345,9 @@
     if (!selectedThemes.size) return true;
     const watch = watchThemesOf(ep);
     for (const t of selectedThemes) {
-      if (watch.includes(t)) return true;
+      if (!watch.includes(t)) return false;
     }
-    return false;
+    return true;
   }
 
   function seasonKey(value) {
@@ -305,9 +361,11 @@
   function themeIndex() {
     const season = els.season.value;
     const q = els.q.value.trim().toLowerCase();
+    const conf = BUCKETS[bucket];
     const counts = new Map();
     for (const ep of data.episodes) {
       if (!inSelectedSeason(ep, season)) continue;
+      if (!conf.match(ep)) continue;
       if (!matchesQuery(ep, q)) continue;
       for (const t of watchThemesOf(ep)) {
         counts.set(t, (counts.get(t) || 0) + 1);
@@ -382,18 +440,29 @@
     const hasSearch = Boolean(q);
     const hasThemes = selectedThemes.size > 0;
     const seasonNarrow = season !== "all";
+    const bucketNarrow = bucket !== "all";
+    
     if (hasSearch) return "Nothing matched that search. Try another word, or clear the box.";
+    
     if (bucket === "safe" && !hasThemes && !seasonNarrow) {
       const anySafe = data.episodes.some((ep) => ep.overall <= 2);
       if (!anySafe) {
         return "No all-clear episodes in this show — try Gray area, or Show all.";
       }
     }
-    if (bucket === "safe") {
-      return "No all-clear episodes in this slice — try Gray area, or Show all.";
+    
+    const parts = [];
+    if (bucketNarrow) parts.push(bucket === "safe" ? "all-clear" : bucket === "maybe" ? "gray-area" : "hard-pass");
+    if (hasThemes) {
+      const themeList = [...selectedThemes].map(t => `"${t}"`).join(" + ");
+      parts.push(`with ${themeList}`);
     }
-    if (hasThemes) return "Nothing matched those themes. Clear a chip or pick Show all.";
-    if (seasonNarrow) return "Nothing in this season for the current filters.";
+    if (seasonNarrow) parts.push(`in season ${season}`);
+    
+    if (parts.length > 0) {
+      return `No episodes matched: ${parts.join(", ")}. Try clearing a filter or pick Show all.`;
+    }
+    
     return "Nothing matched. Loosen the filters and try again!";
   }
 
@@ -733,9 +802,16 @@
   els.vibeBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
       bucket = btn.dataset.bucket;
-      els.vibeBtns.forEach((b) => b.classList.toggle("is-active", b === btn));
+      syncVibeButtons();
+      writeStateToUrl();
       apply({ resetPage: true });
       window.scrollTo({ top: els.list.offsetTop - 24, behavior: "smooth" });
+    });
+    btn.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        btn.click();
+      }
     });
   });
 
@@ -747,13 +823,23 @@
       if (selectedThemes.has(theme)) selectedThemes.delete(theme);
       else selectedThemes.add(theme);
       renderThemeChips();
+      writeStateToUrl();
       apply({ resetPage: true });
+    });
+    els.themeChips.addEventListener("keydown", (e) => {
+      const btn = e.target.closest(".theme-chip");
+      if (!btn) return;
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        btn.click();
+      }
     });
   }
   if (els.themeClear) {
     els.themeClear.addEventListener("click", () => {
       selectedThemes.clear();
       renderThemeChips();
+      writeStateToUrl();
       apply({ resetPage: true });
     });
   }
@@ -762,11 +848,13 @@
     el.addEventListener("input", () => {
       if (el === els.season || el === els.q) renderThemeChips();
       if (el === els.season) renderEpisodeSelect();
+      writeStateToUrl();
       apply({ resetPage: true });
     });
     el.addEventListener("change", () => {
       if (el === els.season || el === els.q) renderThemeChips();
       if (el === els.season) renderEpisodeSelect();
+      writeStateToUrl();
       apply({ resetPage: true });
     });
   }
@@ -784,7 +872,74 @@
     if (hash.startsWith("ep-")) jumpToEpisode(hash);
   });
 
+  window.addEventListener("popstate", () => {
+    const urlState = readStateFromUrl();
+    suppressUrlUpdate = true;
+    
+    const validSeasons = seasons.map(s => String(s));
+    if (validSeasons.includes(urlState.season) || urlState.season === "all") {
+      els.season.value = urlState.season;
+    } else {
+      els.season.value = "all";
+    }
+    
+    if (BUCKETS[urlState.bucket]) {
+      bucket = urlState.bucket;
+      syncVibeButtons();
+    } else {
+      bucket = "all";
+      syncVibeButtons();
+    }
+    
+    selectedThemes.clear();
+    for (const theme of urlState.themes) {
+      selectedThemes.add(theme);
+    }
+    
+    els.q.value = urlState.q;
+    
+    if (urlState.sort && els.sort.querySelector(`option[value="${urlState.sort}"]`)) {
+      els.sort.value = urlState.sort;
+    } else {
+      els.sort.value = "air";
+    }
+    
+    suppressUrlUpdate = false;
+    
+    renderThemeChips();
+    renderEpisodeSelect();
+    apply({ resetPage: true });
+  });
+
   setupReportFlow();
+  
+  const urlState = readStateFromUrl();
+  suppressUrlUpdate = true;
+  
+  const validSeasons = seasons.map(s => String(s));
+  if (validSeasons.includes(urlState.season) || urlState.season === "all") {
+    els.season.value = urlState.season;
+  }
+  
+  if (BUCKETS[urlState.bucket]) {
+    bucket = urlState.bucket;
+    syncVibeButtons();
+  }
+  
+  for (const theme of urlState.themes) {
+    selectedThemes.add(theme);
+  }
+  
+  if (urlState.q) {
+    els.q.value = urlState.q;
+  }
+  
+  if (urlState.sort) {
+    els.sort.value = urlState.sort;
+  }
+  
+  suppressUrlUpdate = false;
+  
   renderThemeChips();
   renderEpisodeSelect();
 
@@ -792,9 +947,12 @@
   if (initialHash.startsWith("ep-")) {
     const ep = data.episodes.find((e) => epAnchorId(e) === initialHash);
     if (ep) {
-      els.season.value = seasonKey(ep.season);
-      renderEpisodeSelect();
-      renderThemeChips();
+      const needSeasonChange = els.season.value === "all" || seasonKey(ep.season) !== els.season.value;
+      if (needSeasonChange && !urlState.season) {
+        els.season.value = seasonKey(ep.season);
+        renderEpisodeSelect();
+        renderThemeChips();
+      }
       pendingEpScroll = initialHash;
     }
   }
