@@ -2010,6 +2010,49 @@ body.report-open {
   line-height: 1.45;
 }
 
+.instance-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 0.35rem;
+}
+
+.instance-severity,
+.instance-at {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+}
+
+.instance-severity.severity-1 {
+  background: rgba(46, 160, 67, 0.14);
+  color: #1f6b34;
+  border: 1px solid rgba(46, 160, 67, 0.25);
+}
+
+.instance-severity.severity-2 {
+  background: rgba(255, 193, 7, 0.18);
+  color: #8a6200;
+  border: 1px solid rgba(255, 193, 7, 0.35);
+}
+
+.instance-severity.severity-3 {
+  background: rgba(229, 57, 53, 0.12);
+  color: #9f1d1d;
+  border: 1px solid rgba(229, 57, 53, 0.28);
+}
+
+.instance-at {
+  background: rgba(31, 22, 48, 0.06);
+  color: rgba(91, 79, 114, 0.95);
+  border: 1px solid rgba(31, 22, 48, 0.1);
+}
+
 .instance-speaker {
   font-weight: 850;
   color: rgba(31, 22, 48, 0.8);

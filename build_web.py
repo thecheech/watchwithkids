@@ -275,25 +275,74 @@ def render_instance(inst: dict) -> str:
     text = (inst.get("text") or "").strip()
     if not text:
         return ""
+    prefix = instance_meta_plain(inst)
+    body = ""
     if inst.get("kind") == "quote":
         speaker = (inst.get("speaker") or "").strip()
         quoted = f"\u201c{text}\u201d"
-        return f"{speaker}: {quoted}" if speaker else quoted
-    return text
+        body = f"{speaker}: {quoted}" if speaker else quoted
+    else:
+        body = text
+    return f"{prefix}{body}" if prefix else body
+
+
+INTENSITY_SHORT = {1: "Mild", 2: "Moderate", 3: "Explicit"}
+INTENSITY_HINT = {
+    1: "Joke or passing mention",
+    2: "Moderate — worth a preview",
+    3: "Explicit — likely to bother parents",
+}
+AT_LABEL = {
+    "early": "Early in episode",
+    "mid": "Mid episode",
+    "late": "Late in episode",
+}
+
+
+def instance_meta_plain(inst: dict) -> str:
+    parts = []
+    intensity = inst.get("intensity")
+    if intensity is not None:
+        label = INTENSITY_SHORT.get(int(intensity), f"Level {intensity}")
+        parts.append(label)
+    at = (inst.get("at") or "").strip()
+    if at:
+        parts.append(AT_LABEL.get(at, at.replace("-", " ").capitalize()))
+    return f"[{' · '.join(parts)}] " if parts else ""
+
+
+def instance_meta_html(inst: dict) -> str:
+    chips = []
+    intensity = inst.get("intensity")
+    if intensity is not None:
+        level = int(intensity)
+        label = INTENSITY_SHORT.get(level, f"Level {level}")
+        hint = INTENSITY_HINT.get(level, label)
+        chips.append(
+            f'<span class="instance-severity severity-{level}" title="{esc(hint)}">{esc(label)}</span>'
+        )
+    at = (inst.get("at") or "").strip()
+    if at:
+        label = AT_LABEL.get(at, at.replace("-", " ").capitalize())
+        chips.append(f'<span class="instance-at">{esc(label)}</span>')
+    if not chips:
+        return ""
+    return f'<div class="instance-meta">{"".join(chips)}</div>'
 
 
 def instance_html(inst: dict) -> str:
     text = (inst.get("text") or "").strip()
     if not text:
         return ""
+    meta = instance_meta_html(inst)
     if inst.get("kind") == "quote":
         speaker = (inst.get("speaker") or "").strip()
         who = f'<span class="instance-speaker">{esc(speaker)}</span> ' if speaker else ""
         return (
-            f'<li class="instance instance-quote">{who}'
+            f'<li class="instance instance-quote">{meta}{who}'
             f"<q>{esc(text)}</q></li>"
         )
-    return f'<li class="instance instance-note">{esc(text)}</li>'
+    return f'<li class="instance instance-note">{meta}{esc(text)}</li>'
 
 
 def theme_sentence(ep: dict) -> str:
@@ -638,6 +687,15 @@ def slim_detail(detail: dict, *, with_instances: bool) -> dict:
                 "kind": inst.get("kind"),
                 "speaker": inst.get("speaker"),
                 "text": inst.get("text"),
+                **(
+                    {
+                        "mode": inst.get("mode"),
+                        "intensity": inst.get("intensity"),
+                        "at": inst.get("at"),
+                    }
+                    if with_instances
+                    else {}
+                ),
             }
             for inst in shown
         ]

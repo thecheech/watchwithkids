@@ -9,10 +9,10 @@ URL: https://watchwiththekids.com/ep/pokemon/0101.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
-  - (opens bag of stuff for Ash and handing it to him) I've packed your sneakers and jeans, nice clean shirts and some underwear, and your favourite snacks, hot chocolate in case you want something hot.
-  - Don't forget to change your underwear... every single day.
+  - [Mild · Early in episode] (opens bag of stuff for Ash and handing it to him) I've packed your sneakers and jeans, nice clean shirts and some underwear, and your favourite snacks, hot chocolate in case you want something hot.
+  - [Mild · Mid episode] Don't forget to change your underwear... every single day.
 - Violence & injury — 1 moment(s)
-  - The Spearows fly toward Ash, who is seemingly letting them beat him up. To prevent his trainer from getting hurt, Pikachu regains consciousness and runs up Ash's back and jumps off his shoulder to his shock.
+  - [Mild · Late in episode] The Spearows fly toward Ash, who is seemingly letting them beat him up. To prevent his trainer from getting hurt, Pikachu regains consciousness and runs up Ash's back and jumps off his shoulder to his shock.
 
 ## S1 E2 — Pokémon Emergency!
 URL: https://watchwiththekids.com/ep/pokemon/0102.html
@@ -20,9 +20,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: Finally arriving in Viridian City, Ash is cornered by Officer Jenny who asks why he is carrying Pikachu instead of having it in a Pokeball. He explains that Pikachu doesn't like Pokeballs and shows her his Pokedex proving that he is one of the Pallet Town Trainers. Jenny takes Ash to the Pokemon Center where Nurse Joy begins treatment on the injured Pikachu. Before Pikachu's treatment finishes, however, the Center is attacked by two members of Team Rocket.
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - And are you changing your underwear every day?
+  - [Mild · Early in episode] And are you changing your underwear every day?
 - Violence & injury — 1 moment(s)
-  - We're never going to beat them that way.
+  - [Mild · Mid episode] We're never going to beat them that way.
 
 ## S1 E3 — Ash Catches a Pokémon
 URL: https://watchwiththekids.com/ep/pokemon/0103.html
@@ -42,10 +42,10 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: Ash and Misty have arrived in Pewter City. A rock-seller name Flint approaches them and attempts to sell them some rocks. At the pokemon center he learns of the pokemon league and decides to start collecting badges. He heads for the gym and is easily overpowered by Gym Leader Brock. Flint, who happens to be Brock's dad, helps Ash train Pikachu and Ash heads back for a rematch.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - I have another idea. Pikachu is all hooked up.
+  - [Moderate · Mid episode] I have another idea. Pikachu is all hooked up.
 - Violence & injury — 2 moment(s)
-  - Of course I do. As soon as Pikachu and my other Pokémon are better, I'll have no problem. Take me to this Brock's Gym. I'll beat him!
-  - You'll beat him, heh.
+  - [Mild · Early in episode] Of course I do. As soon as Pikachu and my other Pokémon are better, I'll have no problem. Take me to this Brock's Gym. I'll beat him!
+  - [Mild · Early in episode] You'll beat him, heh.
 
 ## S1 E6 — Clefairy and the Moon Stone
 URL: https://watchwiththekids.com/ep/pokemon/0106.html
@@ -65,7 +65,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: After receiving his second badge, Ash sets off triumphantly for Vermilion City. Along the way, they hear of a trainer named A.J. - a fierce pokemon trainer who has never lost a match. Full of self-confidence from his own record of ten victories in a row, Ash heads directly for the gym to find his new opponent. When they arrive, a huge bulletin is in front of the gym with a neon sign declaring "98 Consecutive Victories" appeal to Ash's over-confidence. A.J. is on the brink of achieving his goal of 100 straight victories, after which he will embark on a journey to gather badges. Will victory fall on the side of Ash and his 10 straight victories or with A.J. and his string of 98? In the process, will Ash learn some important lessons about the bonds between pokemon and trainer?
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Look at that! This Gym isn't even licensed by the Pokémon League. Undefeated? Big deal! I can beat him.
+  - [Mild · Early in episode] Look at that! This Gym isn't even licensed by the Pokémon League. Undefeated? Big deal! I can beat him.
 
 ## S1 E9 — The School of Hard Knocks
 URL: https://watchwiththekids.com/ep/pokemon/0109.html
@@ -73,10 +73,10 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Pokemon: Our three heroes have lost their way in the depths of a dense wood, shrouded in thick, white mist. Momentarily giving up, they decide to break for a brief rest. As Ash wanders deeper into the wood, searching for firewood, he happens across a young boy being bullied by five classmates gathered around him. Eavesdropping on their conversation, Ash learns that the boys are attending a preparatory school for Pokemon trainers. Graduates from the school are automatically qualified to participate in the Pokemon League without undergoing any actual test of skill. Ash, Misty, and Brock head to the school and don't agree with some of their ideas of training, something their "leader" doesn't take well.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Giselle always practices here by herself. Even if you beat her in a fight, it won't matter to her. At the Tech, it's your skill as a Pokémon trainer... that counts more than winning in any one battle.
-  - I always beat them on the simulator. See?
+  - [Mild · Early in episode] Giselle always practices here by herself. Even if you beat her in a fight, it won't matter to her. At the Tech, it's your skill as a Pokémon trainer... that counts more than winning in any one battle.
+  - [Mild · Mid episode] I always beat them on the simulator. See?
 - Alcohol & drugs — 1 moment(s)
-  - And if we wasted our time having a fight with a little insect like you, it'd just make Pokémon Tech look really bad.
+  - [Mild · Early in episode] And if we wasted our time having a fight with a little insect like you, it'd just make Pokémon Tech look really bad.
 
 ## S1 E10 — Bulbasaur and the Hidden Village
 URL: https://watchwiththekids.com/ep/pokemon/0110.html
@@ -89,7 +89,7 @@ URL: https://watchwiththekids.com/ep/pokemon/0111.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Charmander beat them?
+  - [Mild · Mid episode] Charmander beat them?
 
 ## S1 E12 — Here Comes the Squirtle Squad
 URL: https://watchwiththekids.com/ep/pokemon/0112.html
@@ -97,9 +97,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: On the way to Vermilion City, Ash, Misty, and Brock become the "victims" of the Squirtle Squad's pranks. The end up falling down a hole, and are even eventually captured by them. It turns out that they are working together with Team Rocket. When Pikachu is severely injured, the Squirtle let him out to go get medicine from town, but will the Squirtle keep there promise and leave Pikachu, Misty, and Brock alone while he is gone, and what is Team Rocket really up too?
 Watch for:
 - Violence & injury — 3 moment(s)
-  - These are ice packs we're gunning, I mean ice guns we're packing!
-  - It's Team Rocket! I've got to get back before they get Pikachu! Super potion, please! Oh, no, I don't need a new gun! Don't shoot me, please. I'm not
-  - Listen, if you Squirtles work together, you can combine your water guns to put out the fire!
+  - [Moderate · Mid episode] These are ice packs we're gunning, I mean ice guns we're packing!
+  - [Moderate · Mid episode] It's Team Rocket! I've got to get back before they get Pikachu! Super potion, please! Oh, no, I don't need a new gun! Don't shoot me, please. I'm not
+  - [Moderate · Mid episode] Listen, if you Squirtles work together, you can combine your water guns to put out the fire!
 
 ## S1 E13 — Mystery at the Lighthouse
 URL: https://watchwiththekids.com/ep/pokemon/0113.html
@@ -113,10 +113,10 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Pokemon: Our heroes finally reach Vermilion City. They make their way to the Pokemon Center to refill their empty stomachs, but once there, they witness dozens of injured Pokemon being treated. Pikachu and Ash are alarmed to learn that all of these Pokemon were injured in battles with the Vermilion Gym Leader, Lt. Surge. Nonetheless, eager to earn a badge, Ash challenges Lt. Surge. Pikachu reluctantly enters the battle only to discover its opponent to be a Raichu, its evolved form. After a short battle Pikachu is overwhelmingly defeated. At the pokemon center Ash wonders what he can do to win. Nurse Joy presents him with a Thunder Stone which would evolve Pikachu into Raichu and make it more powerful. Now he must choose whether or not to evolve Pikachu just to beat one trainer.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - I enjoy playing with toys, but playtime's over. Raichu, mega punch!
+  - [Mild · Early in episode] I enjoy playing with toys, but playtime's over. Raichu, mega punch!
 - Alcohol & drugs — 2 moment(s)
-  - You're right. The it's not worth stealing after all. We've wasted all this time.
-  - Drat! We wasted this episode cheering the good guys.
+  - [Mild · Early in episode] You're right. The it's not worth stealing after all. We've wasted all this time.
+  - [Mild · Late in episode] Drat! We wasted this episode cheering the good guys.
 
 ## S1 E15 — Battle Aboard the St. Anne
 URL: https://watchwiththekids.com/ep/pokemon/0115.html
@@ -142,7 +142,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: Ash and the others arrive in beautiful Porta Vista, a beach town that has everything you could think of. They decide to rent a boat and they end up colliding with Team Rocket's submarine, destroying a nearby dock. They end up working in the owner's restaurant to pay off the debt, while Team Rocket wind up working in the neighboring restaurant. The two restaurants are rivals and Brutella's is threatening Moe's business. Ash and the others try to help Moe, but Team Rocket try to ruin Moe's business and jack up his debt to Brutella. When Professor Oak and Delia show up, they reveal there is going to be a beauty contest which has a large amount of money as the prize. Misty and Delia decide to enter to try and win the money for Moe
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Champagne wishes and catnip dreams. Here we come.
+  - [Mild · Early in episode] Champagne wishes and catnip dreams. Here we come.
 
 ## S1 E19 — Tentacool & Tentacruel
 URL: https://watchwiththekids.com/ep/pokemon/0119.html
@@ -150,7 +150,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Pokemon: Still in Porta Vista, Ash, Misty, and Brock must wait for another boat to take them to their next destination. After witnessing a boat explosion, they use their pokemon to save the crew. They are thanked by the boat's owner, Nastina, who then asks them to exterminate all of the Tentacool who are harming the construction of her new underwater hotel. Misty refuses saying Nastina is doing all the harm and brags Ash and Brock out of there. Team Rocket then takes up Nastina's offer and once again they ultimately fail, and in the process cause a Tentacruel to grow to a enormous size. The water pokemon then invade the city with the goal of destroying all the humans, and it is up to Ash, Misty, Brock, and their new Horsea friend to save the residents.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - I'm sorry, Horsea. You got beaten up, and you did it all for us humans. Thank you.
+  - [Mild · Mid episode] I'm sorry, Horsea. You got beaten up, and you did it all for us humans. Thank you.
 
 ## S1 E20 — The Ghost of Maiden's Peak
 URL: https://watchwiththekids.com/ep/pokemon/0120.html
@@ -158,7 +158,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pokemon: Ash, Misty, and Brock arrive in the port city of Maiden's Peak. They join in the summer festival where they learn the Legend of the Maiden. Brock decides to visit Maiden's Rock to look at the Maiden while Team Rocket decides to camp outside the shrine so they can steal the paintings inside. That night Brock doesn't return to the pokemon center and James goes missing. In the morning everyone heads to the temple to find them.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Ah, it wouldn't matter to me if I never saw land again. I just wasted another summer.
+  - [Mild · Early in episode] Ah, it wouldn't matter to me if I never saw land again. I just wasted another summer.
 
 ## S1 E21 — Bye Bye Butterfree
 URL: https://watchwiththekids.com/ep/pokemon/0121.html
@@ -166,9 +166,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: As the group continue on their way, they notice a group of Butterfree out over the ocean. Brock informs Ash that it is the mating season for all of the Butterfree. Ash lets his Butterfree out to try and find a mate, but can he actually come to let his Butterfree go? Meanwhile, Team Rocket comes up with a plan to get all the Butterfree.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - Don't butt into Pokémon love affairs.
+  - [Moderate · Early in episode] Don't butt into Pokémon love affairs.
 - Violence & injury — 1 moment(s)
-  - Get in a quick punch and surprise them, then while they're still weak take the lead and you'll beat them hands down.
+  - [Mild · Early in episode] Get in a quick punch and surprise them, then while they're still weak take the lead and you'll beat them hands down.
 
 ## S1 E22 — Abra and the Psychic Showdown
 URL: https://watchwiththekids.com/ep/pokemon/0122.html
@@ -176,7 +176,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Continuing on their way to Saffron City, a mysterious girl appears in front of the group. They ask her for directions to Saffron City, but she runs away. Ash gives chase and runs straight off a cliff. After using Bulbasaur to rescue him, they discover that the little girl has lead them to Saffron City. After entering the city, they are greeted by two people as the millionth visitors to the city. The grand prize turns out to a trap by Team Rocket who have left them in a room with no exit, and are ready to leave with Pikachu. Before they can leave the little girl returns and saves them, and even brings them to the Saffron Gym. Ash heads inside, where he is ready to fight Sabrina for his fourth badge.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Please. I need your help. I've got to defeat Sabrina for the Marsh Badge. I have to. You've got to help me beat her. Please show me how. Ugh.
+  - [Mild · Mid episode] Please. I need your help. I've got to defeat Sabrina for the Marsh Badge. I have to. You've got to help me beat her. Please show me how. Ugh.
 
 ## S1 E23 — The Tower of Terror
 URL: https://watchwiththekids.com/ep/pokemon/0123.html
@@ -190,9 +190,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: After befriending Haunter in Lavender Town, Ash, Misty, and Brock return to Saffron City for his rematch with Sabrina. When they head to the gym, Haunter disappears and Ash tries to run away. Sabrina locks down the gym and turns Misty and Brock into dolls. Then the man that had helped them before returns to save Ash and his pokemon by teleporting them outside. He tell Ash about Sabrina's life, and how her personality is split in two. After Sabrina first developed her psychic powers, her childish side disappeared and turned into the doll she now holds. Now Ash must somehow defeat Sabrina, with or without Haunter. Meanwhile, the doll versions of Brock and Misty have a run in with Sabrina's mom!
 Watch for:
 - Violence & injury — 3 moment(s)
-  - Another battle? Even after my Kadabra beat up your Pikachu during the last match? You don't have a choice.
-  - Way to go. Now let's get back to Sabrina's gym. But you promised you'd help me battle Sabrina. I can't beat her psychic Pokémon without you. Please, you can't let her make a fool out of me.
-  - Pikachu! You don't stand a chance against Kadabra. You'll get beat up again. Come back!
+  - [Mild · Early in episode] Another battle? Even after my Kadabra beat up your Pikachu during the last match? You don't have a choice.
+  - [Mild · Mid episode] Way to go. Now let's get back to Sabrina's gym. But you promised you'd help me battle Sabrina. I can't beat her psychic Pokémon without you. Please, you can't let her make a fool out of me.
+  - [Mild · Mid episode] Pikachu! You don't stand a chance against Kadabra. You'll get beat up again. Come back!
 
 ## S1 E25 — Primeape Goes Bananas
 URL: https://watchwiththekids.com/ep/pokemon/0125.html
@@ -200,10 +200,10 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Ash calls Professor Oak to tell him of his victory at the Saffron Gym. Much to his dismay, Professor Oak tells him that the other trainers from Pallet all have five badges and are well ahead of him, including how many pokemon they have. This angers Ash, and they decide to eat lunch before heading to Celadon City. While eating, a wild Mankey comes neat them. Brock gives it a rice ball to eat, and Ash decides to capture it. Ironically, Ash ends up capturing the rice ball instead of Mankey. This angers Mankey, and he begins to chase them. Soon they encounter Team Rocket who, after kicking it, angers it, causing it to evolve into Primeape. Primeape then disposes of Team Rocket and attacks Ash, chasing him. Now Ash needs to somehow stop Primeape from catching him.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Mankey, a pig-monkey Pokémon of the fighting type. Known for its superior footwork, it packs a powerful punch.
-  - Hold it! You're just going to get beat up again.
+  - [Mild · Early in episode] Mankey, a pig-monkey Pokémon of the fighting type. Known for its superior footwork, it packs a powerful punch.
+  - [Mild · Early in episode] Hold it! You're just going to get beat up again.
 - Alcohol & drugs — 1 moment(s)
-  - Ah! I wasted a donut.
+  - [Mild · Early in episode] Ah! I wasted a donut.
 
 ## S1 E26 — Pokémon Scent-sation!
 URL: https://watchwiththekids.com/ep/pokemon/0126.html
@@ -229,8 +229,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: On the way to the next town, Ash sees a Hitmonchan nearby. Ash starts battling it with Pikachu, but then the trainer, Anthony, comes and Hitmonchan easily beats Pikachu. The two of them leave and head to a gym to train. Anthony's daughter shows up and begs for them to enter the P-1 Grand Prix so that they can beat her father. She tells them that he is more concerned with training then his family and his daughter really misses him. Ash and Brock agree to enter with Primeape and Geodude. Meanwhile, Team Rocket decide to enter the tournament for the prize, and steal a trainer's Hitmonlee to enter.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Hitmonchan, a skilled fighting Pokémon that packs an incredibly fast punch.
-  - You don't have to be afraid. I'll teach you my secret punch, and nobody'll be able to beat you.
+  - [Mild · Early in episode] Hitmonchan, a skilled fighting Pokémon that packs an incredibly fast punch.
+  - [Mild · Early in episode] You don't have to be afraid. I'll teach you my secret punch, and nobody'll be able to beat you.
 
 ## S1 E30 — Sparks Fly for Magnemite
 URL: https://watchwiththekids.com/ep/pokemon/0130.html
@@ -250,8 +250,8 @@ Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — abou
 Summary: On the way to the Fuchsia City, Ash and the others notice a giant mansion and decide to stop and get directions. When they enter the mansion, a Venonat begins to mislead them around the various traps in the mansion, including hidden Voltorbs, collapsible walls, and invisible walls. After falling through one to many traps, the wind up in a room with ninja Aya, who challenges Ash to a battle. Ash quickly defeats her, and her older brother comes out. It turns out that they did wind up at the Fuchsia Gym after all and Aya's older brother is Koga, the Gym Leader. Now Ash finally has his chance to win his sixth badge. Meanwhile, Team Rocket plans on attacking the mansion and stealing all of the poison pokemon inside.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Golbat. Attacking with its sharp fangs, this Pokémon can drain 300 cubic centimeters of blood per bite.
-  - Aya responds by slapping away Brock's hand, much to Ash and Misty's shock and embarrassment.
+  - [Moderate · Late in episode] Golbat. Attacking with its sharp fangs, this Pokémon can drain 300 cubic centimeters of blood per bite.
+  - [Mild · Early in episode] Aya responds by slapping away Brock's hand, much to Ash and Misty's shock and embarrassment.
 
 ## S1 E33 — The Flame Pokémon-athon!
 URL: https://watchwiththekids.com/ep/pokemon/0133.html
@@ -259,8 +259,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: After winning his sixth badge in Fuchsia City, Ash and the others head to the world famous Safari Zone. When Ash tries to catch a pokemon, a Growlithe attacks him. Then a girl named Lara comes by and tells them that this is actually her family's pokemon ranch. After apologizing, Ash, Misty, and Brock follow her to her home where they learn of a festival going on in town. They also learn about the race the following day, which Lara will enter with her Ponyta. It also turns out that her family's rival will be entering the race and she needs to beat him. That night, he hires Team Rocket to make sure Lara does not compete, and they wind up breaking her arm. She then picks Ash as her replacement for the race, who must win it or else.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - You can beat him, Ash.
-  - Okay, Ponyta, let's beat him.
+  - [Mild · Mid episode] You can beat him, Ash.
+  - [Mild · Mid episode] Okay, Ponyta, let's beat him.
 
 ## S1 E34 — The Kangaskhan Kid
 URL: https://watchwiththekids.com/ep/pokemon/0134.html
@@ -268,8 +268,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Ash and the others arrive in the real Safari Zone, and try to catch some of the many pokemon that live there. However, Officer Jenny shows up and stops them, before taking them to her tent. It turns out that in this part of the Safari Zone, you cannot catch any of the pokemon. They apologize to Jenny, and in reparation, as to help her when poachers enter the reserve. The poachers turn out to be Team Rocket, who are rounding up all the Kangaskhan. Ash and others don't even get the chance to help, due to a little boy freeing all of the pokemon, who send Team Rocket flying. After the boy and Kangaskhan leave, two people come in a helicopter and say they are looking for their lost son Tommy. When they show the picture to Jenny, it turns out to be the same boy who lives with the Kangaskhan! Meanwhile, Team Rocket come up with another plan to get the Kangaskhan.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Rocket punch.
-  - Let's give them a taster of our super punch.
+  - [Mild · Mid episode] Rocket punch.
+  - [Mild · Mid episode] Let's give them a taster of our super punch.
 
 ## S1 E36 — The Bridge Bike Gang
 URL: https://watchwiththekids.com/ep/pokemon/0136.html
@@ -307,8 +307,8 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: The group arrives in Dark City, a seemingly dull town where they are attacked just because they are pokemon trainers. A restaurant owner tells them that the reason why people in the town hate pokemon trainers is because in Dark City there are two unofficial gyms that are trying to best each other so that they can be the official gym of the city. There battles are slowly destroying the town, so Ash, Misty, and Brock decide to help the townspeople stop the pointless fighting.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Huh? If we work together, we might just be able to beat them.
-  - Electabuzz, send them flying with a thunder punch!
+  - [Mild · Mid episode] Huh? If we work together, we might just be able to beat them.
+  - [Mild · Mid episode] Electabuzz, send them flying with a thunder punch!
 
 ## S1 E43 — The March of the Exeggutor Squad
 URL: https://watchwiththekids.com/ep/pokemon/0143.html
@@ -328,7 +328,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Ash and friends arrive in Neon Town, a flashy town where the people are very cranky ad get little to no sleep. They decide to leave the town. In the forest they come across a wild Jigglypuff. Misty decides to capture it, but the pokemon is not feeling good, so she decides not to. They help the Jigglypuff to heal its throat, and then she sings to them, forcing them to fall asleep. After they wake up, they decide to have Jigglypuff sing to Neon Town, but Team Rocket may have other plans for the little pink pokemon, and a new motto to boot.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - What's wrong? Hmm? You stupid Pokémon, you're just sleeping with your eyes open!
+  - [Moderate · Mid episode] What's wrong? Hmm? You stupid Pokémon, you're just sleeping with your eyes open!
 
 ## S1 E46 — Attack of the Prehistoric Pokémon
 URL: https://watchwiththekids.com/ep/pokemon/0146.html
@@ -360,7 +360,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Continuing onto the next gym, Ash and friends stop by a pokemon center where Nurse Joy gives Ash a message from Professor Oak. Ash calls him, and the Professor offers to give Ash's pokedex an upgrade, which he accepts. After they leave the center, they encounter Team Rocket, who disguise themselves as eggs thieves. They mix up all their fake eggs with the egg Ash found, and they grab it an run off. However, they leave a trail of eggs behind them and Ash and friends follow them to a cabin where an all out battle ensues for the egg. During the battle, the egg hatches, revealing the pokemon Togepi. However, no one can decide who gets to keep it. To solve the problem, Ash, Misty, Brock, and Meowth decide to hold a tournament to decide Togepi's owner.
 Watch for:
 - Sex & hookups — 1 moment(s)
-  - What? You mean you sleep with that egg?
+  - [Moderate · Early in episode] What? You mean you sleep with that egg?
 
 ## S1 E51 — Bulbasaur's Mysterious Garden
 URL: https://watchwiththekids.com/ep/pokemon/0151.html
@@ -410,7 +410,7 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Ash and friends finally make it to Cinnabar Island, but are saddened to see that the gym has been closed because the island is now a tourist destination. They try to find a place to stay, but every place is packed. They finally find a room at a hotel run by a man who loves riddles. While in the hot spring, they end up discovering an entrance into the volcano, which leads them to a battlefield. The old man appears and reveals himself to be Blaine, the leader of the Cinnabar Gym. Ash challenges him and he accepts, but this match will be way more then Ash expected.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Magmar, Fire Punch, now!
+  - [Mild · Mid episode] Magmar, Fire Punch, now!
 
 ## S1 E59 — Vocanic Panic
 URL: https://watchwiththekids.com/ep/pokemon/0159.html

@@ -40,8 +40,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: It's lunchtime on Bluey's back deck! But every BBQ needs a side salad, so Bingo's relaxing sit-down will have to wait until she finds every colour of capsicum her cousins asked for!
 Watch for:
 - Alcohol & drugs — 2 moment(s)
-  - Bandit is cooking sausages while Stripe stands nearby with a beer.
-  - Bingo runs over to Bandit, who just picked up his beer from a bench to take a sip.
+  - [Mild · Early in episode] Bandit is cooking sausages while Stripe stands nearby with a beer.
+  - [Mild · Early in episode] Bingo runs over to Bandit, who just picked up his beer from a bench to take a sip.
 
 ## S1 E8 — Fruitbat
 URL: https://watchwiththekids.com/ep/bluey/0108.html
@@ -55,7 +55,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Bluey forgets to put her favourite toy away, cousin Socks grabs it and won't let go! The kids stage a horsey wedding to distract her, with Dad and Uncle Stripe as the horses!
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Stripe playfully points finger guns at Bluey and Bingo.
+  - [Mild · Early in episode] Stripe playfully points finger guns at Bluey and Bingo.
 
 ## S1 E10 — Hotel
 URL: https://watchwiththekids.com/ep/bluey/0110.html
@@ -81,7 +81,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Bingo stops playing Bluey's spy game in the park, their device to control the grown-ups stops working properly! Bluey now sees how important Bingo is and needs to win her back!
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Chilli pours a bottle of wine on the fire, dousing it.
+  - [Mild · Late in episode] Chilli pours a bottle of wine on the fire, dousing it.
 
 ## S1 E14 — Takeaway
 URL: https://watchwiththekids.com/ep/bluey/0114.html
@@ -119,7 +119,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Bluey and Bingo are unable to grab a prize on a Magic Claw machine, Mum and Dad create their own version at home. But Dad isn't about to make winning easy.
 Watch for:
 - Affairs / cheating — 1 moment(s)
-  - Bluey and Bingo laugh, and Bluey turns to Chilli, who is watching the whole affair.
+  - [Moderate · Early in episode] Bluey and Bingo laugh, and Bluey turns to Chilli, who is watching the whole affair.
 
 ## S1 E20 — Markets
 URL: https://watchwiththekids.com/ep/bluey/0120.html
@@ -139,7 +139,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Packing for the pool, Bluey and Dad tease Mum about being so fussy with what to take. But when they arrive underprepared, they realise a little planning goes a long way.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Bandit enters, carrying some pool noodles and a water pistol.
+  - [Mild · Early in episode] Bandit enters, carrying some pool noodles and a water pistol.
 
 ## S1 E23 — Shops
 URL: https://watchwiththekids.com/ep/bluey/0123.html
@@ -171,7 +171,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: It's an adventure on the high seas as Bluey, Bingo and Missy play Pirates on the hammock swing, but they'll need to find their courage to withstand storms and whale attacks.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - Chilli: “"Suddenly, the huge whale swallowed their boat whole!"”
+  - [Moderate · Mid episode] Chilli: “"Suddenly, the huge whale swallowed their boat whole!"”
 
 ## S1 E28 — Grannies
 URL: https://watchwiththekids.com/ep/bluey/0128.html
@@ -185,7 +185,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bored of the local playground, Dad and the kids go through the bush on a journey to their local creek. Cast out of her comfort zone, Bluey's eyes are opened to the beauty of the natural world.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Mackenzie: “Yeah, don't worry. He just wants to eat your blood.”
+  - [Moderate · Early in episode] Mackenzie: “Yeah, don't worry. He just wants to eat your blood.”
 
 ## S1 E30 — Fairies
 URL: https://watchwiththekids.com/ep/bluey/0130.html
@@ -211,7 +211,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Dad has to stop having fun with the girls and go to work, Bluey and Bingo scramble to keep him playing games with them on the trampoline!
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Bluey wiggles her hips cheekily. Chilli looks at the weed she is holding and throws it aside.
+  - [Moderate · Late in episode] Bluey wiggles her hips cheekily. Chilli looks at the weed she is holding and throws it aside.
 
 ## S1 E34 — The Dump
 URL: https://watchwiththekids.com/ep/bluey/0134.html
@@ -231,9 +231,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Mum and Dad are going on an adventure wearing the kids as their cheeky backpacks! Seeing the sights and buying street food, backpacking is a blast - until they lose their passports.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - Bingo punches Bandit in the stomach, and he screams and drops his "croissants".
-  - Bingo delivers another gut punch to Bandit, causing him to groan in pain.
-  - Bingo gives Bandit another punch to the belly, making Bandit groan loud.
+  - [Mild · Mid episode] Bingo punches Bandit in the stomach, and he screams and drops his "croissants".
+  - [Mild · Mid episode] Bingo delivers another gut punch to Bandit, causing him to groan in pain.
+  - [Mild · Mid episode] Bingo gives Bandit another punch to the belly, making Bandit groan loud.
 
 ## S1 E37 — The Adventure
 URL: https://watchwiththekids.com/ep/bluey/0137.html
@@ -289,7 +289,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: A quick trip to the shops proves tricky for Dad, when Bingo and Bluey want to play a game of Kids. Now Bluey is Mum, Bingo's her baby and Dad is a very naughty boy!
 Watch for:
 - Violence & injury — 1 moment(s)
-  - A docket boy is going down the aisle with a pricing gun.
+  - [Mild · Late in episode] A docket boy is going down the aisle with a pricing gun.
 
 ## S1 E46 — Chickenrat
 URL: https://watchwiththekids.com/ep/bluey/0146.html
@@ -315,7 +315,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Dad tells Bluey to mind her manners at the table - they're not animals! But when Bluey gets her hands on a stick of magic asparagus, she shows them everyone's got a wild side!
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Bandit: “Bingo! For the last time, use a knife and”
+  - [Mild · Late in episode] Bandit: “Bingo! For the last time, use a knife and”
 
 ## S1 E50 — Shaun
 URL: https://watchwiththekids.com/ep/bluey/0150.html
@@ -335,7 +335,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: It's Christmas Eve and Dad and the kids are taking turns pretending to be Santa! But when Socks nips Bluey and Bluey refuses to leave her a present, they must all learn the true meaning of being good for Christmas.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - Chilli and Trixie are chatting and sipping wine.
+  - [Mild · Early in episode] Chilli and Trixie are chatting and sipping wine.
 
 ## S2 E1 — Dance Mode
 URL: https://watchwiththekids.com/ep/bluey/0201.html
@@ -343,7 +343,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: After Dad eats her last chip, Bingo is given three chances to put Mum and Dad in 'Dance Mode' as payback. But the others can't resist taking Bingo's turns for her.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Cut to the Busker, who is playing on a Thongophone - an instrument consisting of a tangle of PVC pipes, played by slapping the pipe openings with thongs.
+  - [Mild · Mid episode] Cut to the Busker, who is playing on a Thongophone - an instrument consisting of a tangle of PVC pipes, played by slapping the pipe openings with thongs.
 
 ## S2 E2 — Hammerbarn
 URL: https://watchwiththekids.com/ep/bluey/0202.html
@@ -351,7 +351,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Checkout Lady: “Hey, would you kids like to try my beeper gun?”
+  - [Mild · Late in episode] Checkout Lady: “Hey, would you kids like to try my beeper gun?”
 
 ## S2 E3 — Featherwand
 URL: https://watchwiththekids.com/ep/bluey/0203.html
@@ -377,7 +377,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Stripe throws a punch, but Pat grabs him and throws him over.
+  - [Mild · Late in episode] Stripe throws a punch, but Pat grabs him and throws him over.
 
 ## S2 E7 — Favourite Thing
 URL: https://watchwiththekids.com/ep/bluey/0207.html
@@ -427,9 +427,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey plays mum to a brood of bouncy balloons, including an irrepressible floater named Greenie. But she soon discovers that mothering is much harder than she imagined.
 Watch for:
 - Nudity & bodies — 1 moment(s)
-  - The camera cuts to the hallway. Bingo is still running at full speed, completely naked under her trailing pink towel, giggling wildly as Bandit bounds after her
+  - [Mild · Early in episode] The camera cuts to the hallway. Bingo is still running at full speed, completely naked under her trailing pink towel, giggling wildly as Bandit bounds after her
 - Violence & injury — 1 moment(s)
-  - Bandit: “Time to bring out the big guns! (He digs his fingers into her sides) Tickle, tickle, tickle, tickle, tickle, tickle, tickle, tickle!”
+  - [Mild · Mid episode] Bandit: “Time to bring out the big guns! (He digs his fingers into her sides) Tickle, tickle, tickle, tickle, tickle, tickle, tickle, tickle!”
 
 ## S2 E15 — Trains
 URL: https://watchwiththekids.com/ep/bluey/0215.html
@@ -473,9 +473,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Mum and Dad describe a made-up world where they can relax without the girls, Bluey and Bingo decide to burst into their fantasy and chase them down. How will Mum and Dad escape?
 Watch for:
 - Violence & injury — 3 moment(s)
-  - Bandit: “"Butlers?! Oh no, punch it mum!"”
-  - Chilli: “"Punching it!"”
-  - Chilli: “"That's it, we're punching out!"”
+  - [Mild · Mid episode] Bandit: “"Butlers?! Oh no, punch it mum!"”
+  - [Mild · Mid episode] Chilli: “"Punching it!"”
+  - [Mild · Mid episode] Chilli: “"That's it, we're punching out!"”
 
 ## S2 E22 — Bus
 URL: https://watchwiththekids.com/ep/bluey/0222.html
@@ -501,7 +501,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: At school, Bluey and her friends turn a tree stump into a thrilling game of Helicopter. But as the pilot, Bluey has to learn to give up some control so they can all have fun.
 Watch for:
 - Fat-shaming — 1 moment(s)
-  - Chloe: “"Chickee-chickee! Look at that big whale!"”
+  - [Moderate · Mid episode] Chloe: “"Chickee-chickee! Look at that big whale!"”
 
 ## S2 E26 — Sleepytime
 URL: https://watchwiththekids.com/ep/bluey/0226.html
@@ -509,9 +509,9 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Inside Bingo's dream, Bingo and Floppy have an intergalactic adventure, while the rest of her sleep-deprived family try to navigate Bingo's non-stop night-time bedhopping.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Real life; Bingo is slapping Bandit in the face and muzzle, who yaps every time he's slapped.
+  - [Mild · Mid episode] Real life; Bingo is slapping Bandit in the face and muzzle, who yaps every time he's slapped.
 - Alcohol & drugs — 1 moment(s)
-  - Bandit sits on the bathroom floor and starts to sing a version of "99 Bottles of Beer" with altered lyrics.
+  - [Mild · Mid episode] Bandit sits on the bathroom floor and starts to sing a version of "99 Bottles of Beer" with altered lyrics.
 
 ## S2 E27 — Grandad
 URL: https://watchwiththekids.com/ep/bluey/0227.html
@@ -585,7 +585,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Dad thinks the kids have too many toys and suggests a chuck out. To save their beloved Mr Monkey jocks from getting the chop, Bluey and Bingo must prove he is special.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - The scene cuts to Bandit, sitting on the floor, stabbing at a sausage.
+  - [Explicit · Early in episode] The scene cuts to Bandit, sitting on the floor, stabbing at a sausage.
 
 ## S2 E39 — Double Babysitter
 URL: https://watchwiththekids.com/ep/bluey/0239.html
@@ -593,9 +593,9 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: When Uncle Rad and Frisky accidently turn up to babysit Bluey and Bingo on the same night, they have to work together to make Bluey feel better about babysitter putdowns.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - Radley: “And then the prince knocked the dragon with a big prince punch!”
-  - A wide shot shows Radley standing on Bluey's bed just before he jumps down to punch the dragon on the floor. He jumps down and punches on the pile of books where the dragon plushie is sitting. And then, it flies off.
-  - Frisky: “Only because he like prince-punching dragons! Tomorrow he'll be off in search of another princess.”
+  - [Mild · Mid episode] Radley: “And then the prince knocked the dragon with a big prince punch!”
+  - [Mild · Mid episode] A wide shot shows Radley standing on Bluey's bed just before he jumps down to punch the dragon on the floor. He jumps down and punches on the pile of books where the dragon plushie is sitting. And then, it flies off.
+  - [Mild · Late in episode] Frisky: “Only because he like prince-punching dragons! Tomorrow he'll be off in search of another princess.”
 
 ## S2 E40 — Bad Mood
 URL: https://watchwiththekids.com/ep/bluey/0240.html
@@ -615,7 +615,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey, Bingo and Dad always take out the bins. Over a few weeks, Bingo tells Dad about a new kid at kindy who is mean to her and Mum offers some good advice.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Bluey throws a few punches, showing off her karate moves.
+  - [Mild · Early in episode] Bluey throws a few punches, showing off her karate moves.
 
 ## S2 E43 — Muffin Cone
 URL: https://watchwiththekids.com/ep/bluey/0243.html
@@ -623,8 +623,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Muffin can't stop sucking her thumb, she has to wear a cone of shame. But the cone gets in her way and she can no longer play 'sandwich shop' with Bluey and Bingo.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Muffin: “Now I'll cut it into twiangles.. (knocks around the shop once more as she searches it) where's the knife?”
-  - Muffin: “Here's the knife. (she ends up picking up a toy carrot)”
+  - [Mild · Early in episode] Muffin: “Now I'll cut it into twiangles.. (knocks around the shop once more as she searches it) where's the knife?”
+  - [Mild · Early in episode] Muffin: “Here's the knife. (she ends up picking up a toy carrot)”
 
 ## S2 E44 — Duck Cake
 URL: https://watchwiththekids.com/ep/bluey/0244.html
@@ -632,8 +632,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey wants to help Dad make Bingo's birthday cake, but first she must put away her toys. But nothing can tempt her to clean up, until Dad drops the cake.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Bandit walks back to the kitchen, only to trip over a block. Bluey giggles, and the shot cuts to the kitchen, with Bandit just now starting on the cake. He reads over the book while hovering a knife above the cake base.
-  - Bandit cuts down a little too rough, causing the knife to slice the head in half.
+  - [Mild · Early in episode] Bandit walks back to the kitchen, only to trip over a block. Bluey giggles, and the shot cuts to the kitchen, with Bandit just now starting on the cake. He reads over the book while hovering a knife above the cake base.
+  - [Mild · Mid episode] Bandit cuts down a little too rough, causing the knife to slice the head in half.
 
 ## S2 E45 — Handstand
 URL: https://watchwiththekids.com/ep/bluey/0245.html
@@ -689,8 +689,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey's Father's Day card has to be perfect but she can't decide what to draw! So Mum reminds her about all the fun times she's had with Dad and how he's not so perfect either.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - Bingo pretends to get a ticket out of her pocket and hands it to Bandit. She giggles. Bandit pretends to take and punch it.
-  - She pretends to hand over a ticket, which Bandit punches.
+  - [Mild · Early in episode] Bingo pretends to get a ticket out of her pocket and hands it to Bandit. She giggles. Bandit pretends to take and punch it.
+  - [Mild · Early in episode] She pretends to hand over a ticket, which Bandit punches.
 
 ## S3 E2 — Bedroom
 URL: https://watchwiththekids.com/ep/bluey/0302.html
@@ -734,7 +734,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey can't get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Unicorse charges into The Lawyer and a tussle akin to "Punch and Judy"-show ensues behind the couch.
+  - [Mild · Late in episode] Unicorse charges into The Lawyer and a tussle akin to "Punch and Judy"-show ensues behind the couch.
 
 ## S3 E9 — Curry Quest
 URL: https://watchwiththekids.com/ep/bluey/0309.html
@@ -754,7 +754,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Dad tries to teach Bluey how to play chess, but Mum thinks she is still too young. When Bingo joins in, the kids make up their own rules, but they still can't beat Dad.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Chilli: “"I can beat him in 4 moves." Giving a bowl to Bingo, and taking the queen piece”
+  - [Mild · Late in episode] Chilli: “"I can beat him in 4 moves." Giving a bowl to Bingo, and taking the queen piece”
 
 ## S3 E12 — Sheepdog
 URL: https://watchwiththekids.com/ep/bluey/0312.html
@@ -774,8 +774,8 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer and changes the rules back to only having one prize in the middle, but Bingo is forever losing.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - The song ends with the parcel in Jasper's hands. He opens it, revealing an octopus-themed water pistol. He holds it aloft, tail wagging furiously!
-  - In the dining room, Jasper's Mum is wrapping Pass the Parcel. Jasper walks up, carrying his water pistol.
+  - [Mild · Mid episode] The song ends with the parcel in Jasper's hands. He opens it, revealing an octopus-themed water pistol. He holds it aloft, tail wagging furiously!
+  - [Mild · Mid episode] In the dining room, Jasper's Mum is wrapping Pass the Parcel. Jasper walks up, carrying his water pistol.
 
 ## S3 E15 — Explorers
 URL: https://watchwiththekids.com/ep/bluey/0315.html
@@ -807,7 +807,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey and Bingo are making mud pizzas and delivering them to the grownups, but their pedal car's wheel keeps falling off!
 Watch for:
 - Violence & injury — 1 moment(s)
-  - It shows the tap dripping water. Muffin is seen putting the wheel back on the car, which she starts punching the wheel into place. Bingo and Socks are finishing up the “no mushrooms” pizza.
+  - [Mild · Late in episode] It shows the tap dripping water. Muffin is seen putting the wheel back on the car, which she starts punching the wheel into place. Bingo and Socks are finishing up the “no mushrooms” pizza.
 
 ## S3 E20 — Driving
 URL: https://watchwiththekids.com/ep/bluey/0320.html
@@ -863,7 +863,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Indy thinks she's no good because her model horse looks like a cow, but Calypso encourages her not to give up.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Winton grabs some red beeswax and starts punching it, while Indy takes her horse and sadly walks away.
+  - [Mild · Early in episode] Winton grabs some red beeswax and starts punching it, while Indy takes her horse and sadly walks away.
 
 ## S3 E29 — Puppets
 URL: https://watchwiththekids.com/ep/bluey/0329.html
@@ -871,7 +871,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey and Bingo teach Unicorse good manners so he can ask Mum on a date, but things go sideways when Unicorse eats a tick.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Unicorse turns around and tries to stab Bluey with his soft fabric horn.
+  - [Explicit · Mid episode] Unicorse turns around and tries to stab Bluey with his soft fabric horn.
 
 ## S3 E30 — Turtleboy
 URL: https://watchwiththekids.com/ep/bluey/0330.html
@@ -891,7 +891,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
-  - …microphone, a bottle of chocolate milk, a fish with a hook, a shark fin, two small dogs shouting, a keg of beer, a cricket paddle with a ball and a tiger were added to it.
+  - [Mild · Late in episode] …microphone, a bottle of chocolate milk, a fish with a hook, a shark fin, two small dogs shouting, a keg of beer, a cricket paddle with a ball and a tiger were added to it.
 
 ## S3 E33 — Granny Mobile
 URL: https://watchwiththekids.com/ep/bluey/0333.html
@@ -911,7 +911,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey and Bingo want Dad all to themselves until they discover he has some gross habits.
 Watch for:
 - Swearing — 1 moment(s)
-  - Bandit cocks a leg and grunts.
+  - [Moderate · Late in episode] Bandit cocks a leg and grunts.
 
 ## S3 E36 — Dirt
 URL: https://watchwiththekids.com/ep/bluey/0336.html
@@ -949,7 +949,7 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: On a trip to the beach, Mum teaches Bluey to throw, while Bingo and Dad get creative with a funny shaped stick.
 Watch for:
 - Swearing — 1 moment(s)
-  - Bingo cocks her arm to throw.
+  - [Moderate · Late in episode] Bingo cocks her arm to throw.
 
 ## S3 E42 — Show and Tell
 URL: https://watchwiththekids.com/ep/bluey/0342.html
@@ -999,5 +999,5 @@ Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from abo
 Summary: Bluey and Bingo want Dad to play two different games, so Dad plays both at the same time.
 Watch for:
 - Violence & injury — 2 moment(s)
-  - We see her gun at the bottom of the screen Bandit runs across the screen from right to left.
-  - Cut to a wider shot. Bluey lurks beside the door, a mischeivous grin on her face. Her toy gun makes a charging-up noise.
+  - [Mild · Early in episode] We see her gun at the bottom of the screen Bandit runs across the screen from right to left.
+  - [Mild · Mid episode] Cut to a wider shot. Bluey lurks beside the door, a mischeivous grin on her face. Her toy gun makes a charging-up noise.
