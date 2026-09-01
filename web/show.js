@@ -1010,6 +1010,7 @@
               Details <span class="opt">(optional)</span>
             </label>
             <textarea id="report-details" name="details" rows="3" maxlength="600" placeholder="A sentence is enough — e.g. “kiss scene around minute 12”"></textarea>
+            <input type="text" name="website" autocomplete="off" tabindex="-1" style="position:absolute;left:-9999px;width:1px;height:1px" aria-hidden="true" />
             <p class="report-hint">No account needed. We read every report.</p>
             <div class="report-actions">
               <button type="button" class="report-btn-ghost" data-report-close>Cancel</button>
@@ -1165,6 +1166,25 @@
     form.addEventListener("submit", async (e) => {
       e.preventDefault();
       if (!activeEp || !reason) return;
+      
+      const honeypot = form.querySelector('input[name="website"]');
+      if (honeypot && honeypot.value) {
+        errEl.textContent = "Spam detected.";
+        errEl.hidden = false;
+        return;
+      }
+      
+      const rateLimitKey = "wwtk-report-last";
+      const now = Date.now();
+      try {
+        const last = Number(localStorage.getItem(rateLimitKey) || "0");
+        if (last && now - last < 30000) {
+          errEl.textContent = "Please wait 30 seconds between reports.";
+          errEl.hidden = false;
+          return;
+        }
+      } catch (_) {}
+      
       errEl.hidden = true;
       submitBtn.disabled = true;
       submitBtn.textContent = "Sending…";
@@ -1194,18 +1214,31 @@
       }
 
       try {
-        await fetch("/api/report", {
+        const res = await fetch("/api/report", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(payload),
         });
-      } catch (_) {
-        /* best-effort — local queue still kept */
+        
+        if (!res.ok) {
+          const data = await res.json().catch(() => ({ error: "Failed to send" }));
+          throw new Error(data.error || `Server error: ${res.status}`);
+        }
+        
+        try {
+          localStorage.setItem(rateLimitKey, String(now));
+        } catch (_) {}
+        
+        formView.hidden = true;
+        doneView.hidden = false;
+        doneView.querySelector("button")?.focus();
+      } catch (err) {
+        submitBtn.disabled = false;
+        submitBtn.textContent = "Send report";
+        errEl.textContent = err.message || "Failed to send. Please try again.";
+        errEl.hidden = false;
+        console.error("[report]", err);
       }
-
-      formView.hidden = true;
-      doneView.hidden = false;
-      doneView.querySelector("button")?.focus();
     });
   }
 })();
