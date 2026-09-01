@@ -71,6 +71,7 @@
   els.disclaimer.textContent =
     "👋 Fun family guide, not an official rating. Your kids — your rules!";
 
+<<<<<<< HEAD
   function readStateFromUrl() {
     const params = new URLSearchParams(location.search);
     return {
@@ -105,6 +106,13 @@
   }
 
   syncVibeButtons();
+=======
+  els.vibeBtns.forEach((btn) => {
+    const active = btn.dataset.bucket === bucket;
+    btn.classList.toggle("is-active", active);
+    btn.setAttribute("aria-pressed", active ? "true" : "false");
+  });
+>>>>>>> 46692c9ac (accessibility: Add comprehensive a11y improvements)
 
   const seasons = [...new Set(data.episodes.map((e) => e.season))].sort((a, b) => Number(a) - Number(b));
   for (const s of seasons) {
@@ -802,8 +810,16 @@
   els.vibeBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
       bucket = btn.dataset.bucket;
+<<<<<<< HEAD
       syncVibeButtons();
       writeStateToUrl();
+=======
+      els.vibeBtns.forEach((b) => {
+        const active = b === btn;
+        b.classList.toggle("is-active", active);
+        b.setAttribute("aria-pressed", active ? "true" : "false");
+      });
+>>>>>>> 46692c9ac (accessibility: Add comprehensive a11y improvements)
       apply({ resetPage: true });
       window.scrollTo({ top: els.list.offsetTop - 24, behavior: "smooth" });
     });
@@ -1028,6 +1044,33 @@
     let reason = "";
     let lastFocus = null;
     let closeTimer = null;
+    let focusTrapCleanup = null;
+
+    function trapFocus(element) {
+      const focusableSelector = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+      const focusableElements = element.querySelectorAll(focusableSelector);
+      const firstFocusable = focusableElements[0];
+      const lastFocusable = focusableElements[focusableElements.length - 1];
+
+      function handleKeyDown(e) {
+        if (e.key !== 'Tab') return;
+
+        if (e.shiftKey) {
+          if (document.activeElement === firstFocusable) {
+            e.preventDefault();
+            lastFocusable.focus();
+          }
+        } else {
+          if (document.activeElement === lastFocusable) {
+            e.preventDefault();
+            firstFocusable.focus();
+          }
+        }
+      }
+
+      element.addEventListener('keydown', handleKeyDown);
+      return () => element.removeEventListener('keydown', handleKeyDown);
+    }
 
     reasonsEl.innerHTML = REASONS.map(
       (r) => `
@@ -1041,6 +1084,10 @@
       if (closeTimer) {
         window.clearTimeout(closeTimer);
         closeTimer = null;
+      }
+      if (focusTrapCleanup) {
+        focusTrapCleanup();
+        focusTrapCleanup = null;
       }
       activeEp = ep;
       reason = "";
@@ -1063,10 +1110,15 @@
       void sheet.offsetWidth;
       scrim.classList.add("is-on");
       sheet.classList.add("is-on");
+      focusTrapCleanup = trapFocus(sheet);
       reasonsEl.querySelector("input")?.focus();
     }
 
     function closeReport() {
+      if (focusTrapCleanup) {
+        focusTrapCleanup();
+        focusTrapCleanup = null;
+      }
       scrim.classList.remove("is-on");
       sheet.classList.remove("is-on");
       document.body.classList.remove("report-open");
