@@ -22,6 +22,14 @@ module.exports = async function handler(req, res) {
     return res.status(400).json({ error: "Missing body" });
   }
 
+  if (body.website || body.url || body.homepage) {
+    return res.status(400).json({ error: "Invalid submission" });
+  }
+
+  if (!body.reason || !body.show) {
+    return res.status(400).json({ error: "Missing required fields" });
+  }
+
   const report = {
     show: String(body.show || "").slice(0, 80),
     show_id: body.show_id ? String(body.show_id).slice(0, 40) : null,
@@ -41,9 +49,11 @@ module.exports = async function handler(req, res) {
 
   const key = process.env.RESEND_API_KEY;
   const to = process.env.REPORT_TO_EMAIL || "kobykarp@gmail.com";
+  
+  let emailSent = false;
   if (key) {
     try {
-      await fetch("https://api.resend.com/emails", {
+      const emailRes = await fetch("https://api.resend.com/emails", {
         method: "POST",
         headers: {
           Authorization: `Bearer ${key}`,
@@ -66,9 +76,30 @@ module.exports = async function handler(req, res) {
             .join("\n"),
         }),
       });
+      
+      if (emailRes.ok) {
+        emailSent = true;
+      } else {
+        const errData = await emailRes.json().catch(() => ({}));
+        console.error("[report] email API error", emailRes.status, errData);
+      }
     } catch (err) {
       console.error("[report] email failed", err);
     }
+  } else {
+    console.warn("[report] RESEND_API_KEY not configured");
+  }
+
+  if (!emailSent && !key) {
+    return res.status(500).json({ 
+      error: "Email service not configured. Report saved locally." 
+    });
+  }
+  
+  if (!emailSent) {
+    return res.status(500).json({ 
+      error: "Failed to send report. Please try again." 
+    });
   }
 
   return res.status(200).json({ ok: true });

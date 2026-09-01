@@ -53,11 +53,13 @@
             Details <span class="opt">(optional)</span>
           </label>
           <textarea id="report-details" name="details" rows="3" maxlength="600" placeholder="A sentence is enough"></textarea>
+          <input type="text" name="website" autocomplete="off" tabindex="-1" style="position:absolute;left:-9999px;width:1px;height:1px" aria-hidden="true" />
           <p class="report-hint">No account needed. We read every report.</p>
           <div class="report-actions">
             <button type="button" class="report-btn-ghost" data-report-close>Cancel</button>
             <button type="submit" class="report-btn-solid" id="report-submit" disabled>Send report</button>
           </div>
+          <p class="report-error" id="report-error" hidden></p>
         </form>
       </div>
       <div class="report-panel report-done" data-report-view="done" hidden>
@@ -81,6 +83,7 @@
   const form = host.querySelector("#report-form");
   const detailsEl = host.querySelector("#report-details");
   const submitBtn = host.querySelector("#report-submit");
+  const errEl = host.querySelector("#report-error");
   let activeEp = null;
   let reason = "";
   let lastFocus = null;
@@ -102,6 +105,7 @@
     activeEp = target;
     reason = "";
     detailsEl.value = "";
+    errEl.hidden = true;
     submitBtn.disabled = true;
     submitBtn.textContent = "Send report";
     form.querySelectorAll('input[name="reason"]').forEach((el) => {
@@ -167,8 +171,29 @@
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
     if (!activeEp || !reason) return;
+    
+    const honeypot = form.querySelector('input[name="website"]');
+    if (honeypot && honeypot.value) {
+      errEl.textContent = "Spam detected.";
+      errEl.hidden = false;
+      return;
+    }
+    
+    const rateLimitKey = "wwtk-report-last";
+    const now = Date.now();
+    try {
+      const last = Number(localStorage.getItem(rateLimitKey) || "0");
+      if (last && now - last < 30000) {
+        errEl.textContent = "Please wait 30 seconds between reports.";
+        errEl.hidden = false;
+        return;
+      }
+    } catch (_) {}
+    
+    errEl.hidden = true;
     submitBtn.disabled = true;
     submitBtn.textContent = "Sending…";
+    
     const payload = {
       show: boot.show,
       show_id: boot.show_id,
@@ -183,20 +208,38 @@
       page: location.href,
       at: new Date().toISOString(),
     };
+    
     try {
       const key = "wwtk-reports";
       const prev = JSON.parse(localStorage.getItem(key) || "[]");
       prev.push(payload);
       localStorage.setItem(key, JSON.stringify(prev.slice(-80)));
     } catch (_) {}
+    
     try {
-      await fetch("/api/report", {
+      const res = await fetch("/api/report", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
       });
-    } catch (_) {}
-    formView.hidden = true;
-    doneView.hidden = false;
+      
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({ error: "Failed to send" }));
+        throw new Error(data.error || `Server error: ${res.status}`);
+      }
+      
+      try {
+        localStorage.setItem(rateLimitKey, String(now));
+      } catch (_) {}
+      
+      formView.hidden = true;
+      doneView.hidden = false;
+    } catch (err) {
+      submitBtn.disabled = false;
+      submitBtn.textContent = "Send report";
+      errEl.textContent = err.message || "Failed to send. Please try again.";
+      errEl.hidden = false;
+      console.error("[report]", err);
+    }
   });
 })();
