@@ -6,21 +6,12 @@
   const sparkles = document.getElementById("sparkles");
 
   const READY_ORDER = [
-    "bluey",
-    "spongebob",
-    "phineas-and-ferb",
-    "avatar",
-    "gravity-falls",
-    "adventure-time",
-    "steven-universe",
-    "full-house",
-    "fresh-prince",
-    "young-sheldon",
     "friends",
     "seinfeld",
     "the-office",
     "how-i-met-your-mother",
     "big-bang-theory",
+    "young-sheldon",
     "malcolm-in-the-middle",
     "modern-family",
     "parks-and-recreation",
@@ -28,39 +19,30 @@
     "bobs-burgers",
     "simpsons",
     "futurama",
-    "rick-and-morty",
-    "family-guy",
-    "south-park",
+    "fresh-prince",
+    "full-house",
+    "wednesday",
+    "stranger-things",
   ];
+  /** Made-for-kids — separate shelf so Bluey isn't next to South Park. */
+  const KIDS_ORDER = [
+    "bluey",
+    "spongebob",
+    "phineas-and-ferb",
+    "avatar",
+    "gravity-falls",
+    "adventure-time",
+    "steven-universe",
+    "legend-of-korra",
+    "clone-wars",
+    "owl-house",
+    "amphibia",
+    "pokemon",
+    "kpop-demon-hunters",
+  ];
+  /** TV-MA / adult animation — rated so you know which episodes are roughest. */
+  const ADULT_ORDER = ["rick-and-morty", "family-guy", "south-park"];
   const SOON_ORDER = [];
-
-  const BLURBS = {
-    friends: "Six friends, one couch — rated episode by episode.",
-    seinfeld: "A show about nothing — with plenty of adult sitcom edges.",
-    spongebob: "Bikini Bottom chaos. Mostly kid-safe; we flagged the exceptions.",
-    bluey: "Blue Heeler family play — almost always all clear for little kids.",
-    "phineas-and-ferb": "Summer inventions and Perry the Platypus — made for kids.",
-    avatar: "Four nations, one Avatar — adventure with some wartime weight.",
-    "gravity-falls": "Weird Oregon summer — spooky mystery, still a kids show.",
-    "adventure-time": "Land of Ooo — silly on the surface, a few darker beats.",
-    "steven-universe": "Crystal Gems and feelings — gentle, with heavy themes later.",
-    "full-house": "Tanner family sitcom — mostly mild, occasional grown-up bits.",
-    "the-office": "Scranton paper-company cringe — preview before little kids.",
-    "how-i-met-your-mother": "Yellow umbrella, blue French horn — lots of adult dating plots.",
-    "big-bang-theory": "Nerd sitcom with more innuendo than the science jokes suggest.",
-    "young-sheldon": "Kid genius, Texas family — mostly mild, a few adult edges.",
-    "malcolm-in-the-middle": "Dysfunctional family chaos — gray area more often than not.",
-    "rick-and-morty": "Multiverse mayhem — almost always a hard pass for little kids.",
-    "family-guy": "Cutaway gags and crude jokes — skip for the little ones.",
-    "south-park": "Mountain-town satire — nearly every episode is a hard pass.",
-    futurama: "31st-century delivery crew — lots of adult sci-fi comedy.",
-    "parks-and-recreation": "Pawnee parks dept. — workplace sitcom with adult edges.",
-    "modern-family": "Three families, one mockumentary — lots of grown-up plots.",
-    "fresh-prince": "West Philly to Bel-Air — family sitcom with occasional adult edges.",
-    "brooklyn-nine-nine": "Precinct comedy — mostly workplace laughs, some crime and innuendo.",
-    simpsons: "Springfield forever — long-running satire with plenty of adult jokes.",
-    "bobs-burgers": "Belcher family burgers — mostly kid-friendly with occasional adult bits.",
-  };
 
   const SLIDE_MS = 4000;
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -85,24 +67,41 @@
     const maybe = mix.maybe || 0;
     return [maybe, total ? maybe / total : 0];
   }
-  const ready = READY_ORDER.map((id) => byId[id])
-    .filter(Boolean)
-    .sort((a, b) => {
+  function ordered(ids) {
+    return ids.map((id) => byId[id]).filter(Boolean);
+  }
+  function byBorderline(list) {
+    return [...list].sort((a, b) => {
       const [aN, aPct] = borderlineKey(a);
       const [bN, bPct] = borderlineKey(b);
       if (bN !== aN) return bN - aN;
       if (bPct !== aPct) return bPct - aPct;
       return String(a.name || "").localeCompare(String(b.name || ""));
     });
+  }
+  const ready = byBorderline(ordered(READY_ORDER));
+  const kids = ordered(KIDS_ORDER);
+  const adult = ordered(ADULT_ORDER);
   const soon = SOON_ORDER.map((id) => byId[id]).filter(Boolean);
+  const heroSlides = [...ready, ...kids, ...adult];
 
-  if (featured && ready.length) {
-    setupHeroSlideshow(featured, ready);
+  if (featured && heroSlides.length) {
+    setupHeroTv(featured, heroSlides);
   }
 
   const liveGrid = document.getElementById("live-grid");
   if (liveGrid) {
     liveGrid.innerHTML = ready.map((s, i) => cardHtml(s, i, false)).join("");
+  }
+
+  const kidsGrid = document.getElementById("kids-grid");
+  if (kidsGrid) {
+    kidsGrid.innerHTML = kids.map((s, i) => cardHtml(s, i, false)).join("");
+  }
+
+  const adultGrid = document.getElementById("adult-grid");
+  if (adultGrid) {
+    adultGrid.innerHTML = adult.map((s, i) => cardHtml(s, i, false)).join("");
   }
 
   if (soon.length) {
@@ -128,193 +127,63 @@
   );
   cards.forEach((c) => io.observe(c));
 
-  function setupHeroSlideshow(root, slides) {
-    const usePager = slides.length > 8;
+  function setupHeroTv(root, slides) {
     root.innerHTML = `
-      <div class="feature-stage" aria-roledescription="carousel" aria-label="Rated shows">
-        <div class="feature-slides"></div>
-        <div class="feature-chrome">
-          <div class="feature-copy">
-            <h2 class="feature-title" id="feature-title"></h2>
-            <p class="feature-blurb" id="feature-blurb"></p>
-            <a class="cta" id="feature-cta" href="#">Browse episodes <span class="cta-arrow">→</span></a>
+      <div class="hero-tv">
+        <div class="hero-tv-bezel">
+          <div class="hero-tv-screen">
+            <div class="feature-slides"></div>
           </div>
-          ${
-            usePager
-              ? `<div class="feature-pager" aria-label="Choose show">
-                  <button type="button" class="feature-pager-btn" data-dir="-1" aria-label="Previous show">‹</button>
-                  <span class="feature-pager-n" id="feature-pager-n"></span>
-                  <button type="button" class="feature-pager-btn" data-dir="1" aria-label="Next show">›</button>
-                </div>`
-              : `<div class="feature-dots" role="tablist" aria-label="Choose show"></div>`
-          }
+          <div class="hero-tv-chin" aria-hidden="true"><span class="hero-tv-led"></span></div>
         </div>
-        <div class="feature-progress" aria-hidden="true"><i></i></div>
+        <div class="hero-tv-neck" aria-hidden="true"></div>
+        <div class="hero-tv-base" aria-hidden="true"></div>
       </div>
     `;
 
-    const stage = root.querySelector(".feature-stage");
     const slidesEl = root.querySelector(".feature-slides");
-    const titleEl = root.querySelector("#feature-title");
-    const blurbEl = root.querySelector("#feature-blurb");
-    const ctaEl = root.querySelector("#feature-cta");
-    const dotsEl = root.querySelector(".feature-dots");
-    const pagerEl = root.querySelector(".feature-pager");
-    const pagerN = root.querySelector("#feature-pager-n");
-    const progress = root.querySelector(".feature-progress > i");
-
     slidesEl.innerHTML = slides
       .map(
         (s, i) => `
-        <div class="feature-slide${i === 0 ? " is-active" : ""}" data-i="${i}" aria-hidden="${i === 0 ? "false" : "true"}">
-          <img src="${s.coverLocal}" alt="" ${i === 0 ? 'loading="eager"' : 'loading="lazy"'} />
-        </div>`
+        <a class="feature-slide${i === 0 ? " is-active" : ""}" href="${s.id}.html" data-i="${i}" aria-label="${escapeHtml(s.name)}" aria-hidden="${i === 0 ? "false" : "true"}"${i === 0 ? "" : ' tabindex="-1"'}>
+          <img src="${s.coverLocal}" alt="" width="${s.coverW || 1920}" height="${s.coverH || 1080}" ${i === 0 ? 'loading="eager"' : 'loading="lazy"'} />
+        </a>`
       )
       .join("");
 
-    if (dotsEl) {
-      dotsEl.innerHTML = slides
-        .map(
-          (s, i) => `
-          <button type="button" class="feature-dot${i === 0 ? " is-active" : ""}" role="tab" aria-selected="${i === 0 ? "true" : "false"}" aria-label="${escapeHtml(s.name)}" data-i="${i}"></button>`
-        )
-        .join("");
-    }
-
     let index = 0;
     let timer = null;
-    let paused = false;
-    let startedAt = 0;
-    let remaining = SLIDE_MS;
 
-    function paint(i, { resetProgress = true } = {}) {
+    function paint(i) {
       index = ((i % slides.length) + slides.length) % slides.length;
-      const s = slides[index];
       slidesEl.querySelectorAll(".feature-slide").forEach((el, n) => {
         const on = n === index;
         el.classList.toggle("is-active", on);
         el.setAttribute("aria-hidden", on ? "false" : "true");
+        if (on) el.removeAttribute("tabindex");
+        else el.setAttribute("tabindex", "-1");
       });
-      if (dotsEl) {
-        dotsEl.querySelectorAll(".feature-dot").forEach((el, n) => {
-          const on = n === index;
-          el.classList.toggle("is-active", on);
-          el.setAttribute("aria-selected", on ? "true" : "false");
-        });
-        const activeDot = dotsEl.querySelector(".feature-dot.is-active");
-        if (activeDot && typeof activeDot.scrollIntoView === "function") {
-          activeDot.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
-        }
-      }
-      if (pagerN) pagerN.textContent = `${index + 1} / ${slides.length}`;
-      titleEl.textContent = s.name;
-      blurbEl.textContent = BLURBS[s.id] || "";
-      ctaEl.href = `${s.id}.html`;
-      stage.dataset.show = s.id;
-      if (resetProgress && progress) {
-        progress.style.transition = "none";
-        progress.style.transform = "scaleX(0)";
-        // force reflow then animate
-        void progress.offsetWidth;
-        if (!reduceMotion && !paused) {
-          progress.style.transition = `transform ${SLIDE_MS}ms linear`;
-          progress.style.transform = "scaleX(1)";
-        }
-      }
     }
 
-    function clearTimer() {
-      if (timer) {
-        window.clearTimeout(timer);
-        timer = null;
-      }
-    }
-
-    function schedule(delay = SLIDE_MS) {
-      clearTimer();
-      if (reduceMotion || slides.length < 2 || paused) return;
-      remaining = delay;
-      startedAt = performance.now();
-      if (progress) {
-        progress.style.transition = "none";
-        const done = 1 - delay / SLIDE_MS;
-        progress.style.transform = `scaleX(${Math.max(0, done)})`;
-        void progress.offsetWidth;
-        progress.style.transition = `transform ${delay}ms linear`;
-        progress.style.transform = "scaleX(1)";
-      }
+    function schedule() {
+      if (timer) window.clearTimeout(timer);
+      if (reduceMotion || slides.length < 2) return;
       timer = window.setTimeout(() => {
         paint(index + 1);
-        schedule(SLIDE_MS);
-      }, delay);
-    }
-
-    function pause() {
-      if (paused || reduceMotion) return;
-      paused = true;
-      clearTimer();
-      if (startedAt) {
-        const elapsed = performance.now() - startedAt;
-        remaining = Math.max(400, remaining - elapsed);
-      }
-      if (progress) progress.style.transition = "none";
-    }
-
-    function resume() {
-      if (!paused || reduceMotion) return;
-      paused = false;
-      schedule(remaining);
+        schedule();
+      }, SLIDE_MS);
     }
 
     paint(0);
-    schedule(SLIDE_MS);
+    schedule();
 
-    if (dotsEl) {
-      dotsEl.addEventListener("click", (e) => {
-        const btn = e.target.closest(".feature-dot");
-        if (!btn) return;
-        paint(Number(btn.dataset.i));
-        schedule(SLIDE_MS);
-      });
-    }
-    if (pagerEl) {
-      pagerEl.addEventListener("click", (e) => {
-        const btn = e.target.closest("[data-dir]");
-        if (!btn) return;
-        paint(index + Number(btn.dataset.dir));
-        schedule(SLIDE_MS);
-      });
-    }
-
-    stage.addEventListener("pointerenter", pause);
-    stage.addEventListener("pointerleave", resume);
     document.addEventListener("visibilitychange", () => {
-      if (document.hidden) pause();
-      else resume();
-    });
-
-    const finePointer = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
-    if (!reduceMotion && finePointer) {
-      stage.addEventListener("pointermove", (e) => {
-        const r = stage.getBoundingClientRect();
-        const x = (e.clientX - r.left) / r.width - 0.5;
-        const y = (e.clientY - r.top) / r.height - 0.5;
-        stage.style.transform = `translateY(-4px) rotateX(${(-y * 3.5).toFixed(2)}deg) rotateY(${(x * 4.5).toFixed(2)}deg)`;
-      });
-      stage.addEventListener("pointerleave", () => {
-        stage.style.transform = "";
-      });
-    }
-
-    let swipeX = 0;
-    stage.addEventListener("pointerdown", (e) => {
-      swipeX = e.clientX;
-    });
-    stage.addEventListener("pointerup", (e) => {
-      const dx = e.clientX - swipeX;
-      if (Math.abs(dx) < 48) return;
-      paint(index + (dx < 0 ? 1 : -1));
-      schedule(SLIDE_MS);
+      if (document.hidden) {
+        if (timer) window.clearTimeout(timer);
+        timer = null;
+      } else {
+        schedule();
+      }
     });
   }
 

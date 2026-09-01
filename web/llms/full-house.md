@@ -21,7 +21,7 @@ Watch for: nothing flagged.
 
 ## S1 E4 — 4. The Return of Grandma
 URL: https://watchwiththekids.com/ep/full-house/0104.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S1 E5 — 5. Sea Cruise
@@ -130,7 +130,7 @@ Watch for:
 
 ## S1 E20 — 20. The Seven-Month Itch (2)
 URL: https://watchwiththekids.com/ep/full-house/0120.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S1 E21 — 21. Mad Money

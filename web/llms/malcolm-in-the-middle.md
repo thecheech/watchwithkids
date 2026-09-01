@@ -442,7 +442,7 @@ Watch for:
 
 ## S3 E2 — 2. Emancipation (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0302.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E3 — 3. Book Club
@@ -624,7 +624,7 @@ Watch for:
 
 ## S3 E19 — 19. Clip Show
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0319.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E20 — 20. Jury Duty
@@ -651,7 +651,7 @@ Watch for:
 
 ## S3 E22 — 22. Monkey
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0322.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E1 — 1. Zoo
@@ -733,7 +733,7 @@ Watch for:
 
 ## S4 E7 — 7. Malcolm Holds His Tongue
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0407.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E8 — 8. Boys at the Ranch
@@ -1131,7 +1131,7 @@ Watch for:
 
 ## S5 E22 — 22. Reese Joins The Army (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0522.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S6 E1 — 1. Reese Comes Home (3)

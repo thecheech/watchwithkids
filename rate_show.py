@@ -366,6 +366,13 @@ def rate_show(show_id: str) -> dict:
             "flags": [],
         }
         o = max(h["violence"], h["sex"], h["language"])
+        # Pattern hits without a watch-for theme are classifier noise — don't
+        # publish Overall >1 with an empty "nothing adult stood out" why-line.
+        if not (h.get("themes") or {}).get("watch"):
+            h["violence"] = min(int(h["violence"]), 1)
+            h["sex"] = min(int(h["sex"]), 1)
+            h["language"] = min(int(h["language"]), 1)
+            o = 1
         age = episode_age(show_id, o)
         scores = {"violence": h["violence"], "sex": h["sex"], "language": h["language"], "overall": o}
         ratings.append({

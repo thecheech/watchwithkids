@@ -358,7 +358,7 @@ Watch for: nothing flagged.
 
 ## S2 E16 — Squidville
 URL: https://watchwiththekids.com/ep/spongebob/0216.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for: nothing flagged.
 
 ## S2 E17 — No Free Rides
@@ -2049,7 +2049,7 @@ Watch for:
 
 ## S10 E3 — Squid Baby
 URL: https://watchwiththekids.com/ep/spongebob/1003.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for: nothing flagged.
 
 ## S10 E4 — The Good Krabby Name
@@ -2803,7 +2803,7 @@ Watch for:
 
 ## S11 E46 — The Night Patty
 URL: https://watchwiththekids.com/ep/spongebob/1146.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for: nothing flagged.
 
 ## S11 E48 — Appointment TV
@@ -2902,7 +2902,7 @@ Watch for:
 
 ## S12 E5 — Stormy Weather
 URL: https://watchwiththekids.com/ep/spongebob/1205.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: SpongeBob befriends a small storm cloud, but has to protect it from a crazed weather man.
 Watch for: nothing flagged.
 
@@ -3689,7 +3689,7 @@ Watch for:
 
 ## S14 E16 — Hysterical History
 URL: https://watchwiththekids.com/ep/spongebob/1416.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: On a trip to the museum, SpongeBob and Patrick teach Sandy all about Bikini Bottom's fascinating, yet questionable, history.
 Watch for: nothing flagged.
 

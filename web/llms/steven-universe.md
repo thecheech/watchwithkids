@@ -933,7 +933,7 @@ Watch for: nothing flagged.
 
 ## S5 E1 — Stuck Together
 URL: https://watchwiththekids.com/ep/steven-universe/0501.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Steven and Lars are stuck inside Topaz and try to look for a way to escape.
 Watch for: nothing flagged.
 

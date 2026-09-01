@@ -161,7 +161,7 @@ Watch for:
 
 ## S2 E2 — Simpson and Delilah
 URL: https://watchwiththekids.com/ep/simpsons/0202.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S2 E3 — Treehouse of Horror
@@ -418,7 +418,7 @@ Watch for:
 
 ## S3 E2 — Mr. Lisa Goes to Washington
 URL: https://watchwiththekids.com/ep/simpsons/0302.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E3 — When Flanders Failed
@@ -2191,7 +2191,7 @@ Watch for:
 
 ## S9 E2 — The Principal and the Pauper
 URL: https://watchwiththekids.com/ep/simpsons/0902.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S9 E3 — Lisa's Sax
@@ -2716,7 +2716,7 @@ Watch for:
 
 ## S10 E16 — Make Room for Lisa
 URL: https://watchwiththekids.com/ep/simpsons/1016.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S10 E17 — Maximum Homerdrive
@@ -5445,7 +5445,7 @@ Watch for:
 
 ## S18 E19 — Crook and Ladder
 URL: https://watchwiththekids.com/ep/simpsons/1819.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S18 E20 — Stop! Or My Dog Will Shoot

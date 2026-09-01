@@ -775,7 +775,7 @@ Watch for:
 
 ## S4 E2 — 2. Fort Night
 URL: https://watchwiththekids.com/ep/bobs-burgers/0402.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E3 — 3. Seaplane!
@@ -2162,7 +2162,7 @@ Watch for:
 
 ## S8 E17 — 17. Boywatch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0817.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S8 E18 — 18. As I Walk Through the Alley of the Shadow of Ramps
@@ -3069,7 +3069,7 @@ Watch for:
 
 ## S11 E21 — 21. Tell Me Dumb Thing Good
 URL: https://watchwiththekids.com/ep/bobs-burgers/1121.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S11 E22 — 22. Vampire Disco Death Dance
@@ -3117,7 +3117,7 @@ Watch for:
 
 ## S12 E4 — 4. Driving Big Dummy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1204.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S12 E5 — 5. Seven-tween Again
@@ -3342,7 +3342,7 @@ Watch for:
 
 ## S13 E2 — 2. The Reeky Lake Show
 URL: https://watchwiththekids.com/ep/bobs-burgers/1302.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S13 E3 — 3. What About Job?
@@ -3390,7 +3390,7 @@ Watch for:
 
 ## S13 E6 — 6. Apple Gore-chard!
 URL: https://watchwiththekids.com/ep/bobs-burgers/1306.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S13 E7 — 7. Ready Player Gene
@@ -3584,7 +3584,7 @@ Watch for:
 
 ## S14 E5 — 5. Bully-ieve It or Not
 URL: https://watchwiththekids.com/ep/bobs-burgers/1405.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E6 — 6. Escape from Which Island?
@@ -3633,7 +3633,7 @@ Watch for:
 
 ## S14 E9 — 9. Fraud of the Dead: Docu-pocalypse
 URL: https://watchwiththekids.com/ep/bobs-burgers/1409.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E10 — 10. The Nightmare 2 Days Before Christmas
@@ -3652,7 +3652,7 @@ Watch for:
 
 ## S14 E11 — 11. Mission Impossi-Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/1411.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E12 — 12. Jade in the Shade
@@ -3683,7 +3683,7 @@ Watch for:
 
 ## S14 E14 — 14. The Big Stieblitzki
 URL: https://watchwiththekids.com/ep/bobs-burgers/1414.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E15 — 15. The Right Tough Stuff

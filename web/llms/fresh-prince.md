@@ -171,7 +171,7 @@ Watch for:
 
 ## S1 E23 — 23. 72 Hours
 URL: https://watchwiththekids.com/ep/fresh-prince/0123.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E24 — 24. Just Infatuation
@@ -929,7 +929,7 @@ Watch for:
 
 ## S4 E23 — 23. Mother's Day
 URL: https://watchwiththekids.com/ep/fresh-prince/0423.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E24 — 24. Papa's Got a Brand-New Excuse
@@ -1018,7 +1018,7 @@ Watch for:
 
 ## S5 E7 — 7. Father Knows Best
 URL: https://watchwiththekids.com/ep/fresh-prince/0507.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E8 — 8. Sooooooooul Train
@@ -1074,7 +1074,7 @@ Watch for:
 
 ## S5 E14 — 14. It's a Wonderful Lie
 URL: https://watchwiththekids.com/ep/fresh-prince/0514.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E15 — 15. Bullets Over Bel-Air
@@ -1089,7 +1089,7 @@ Watch for:
 
 ## S5 E16 — 16. A Decent Proposal
 URL: https://watchwiththekids.com/ep/fresh-prince/0516.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E17 — 17. Will is from Mars...
@@ -1126,7 +1126,7 @@ Watch for:
 
 ## S5 E19 — 19. Slum Like It ... Not!
 URL: https://watchwiththekids.com/ep/fresh-prince/0519.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E20 — 20. As the Will Turns
@@ -1326,7 +1326,7 @@ Watch for:
 
 ## S6 E16 — 16. I, Bowl Buster
 URL: https://watchwiththekids.com/ep/fresh-prince/0616.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S6 E17 — 17. The Butler's Son Did It

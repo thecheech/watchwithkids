@@ -748,7 +748,7 @@ Watch for:
 
 ## S3 E12 — 12. Eagleton
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0312.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for: nothing flagged.
 
 ## S3 E13 — 13. The Fight

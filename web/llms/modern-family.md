@@ -1037,7 +1037,7 @@ Watch for:
 
 ## S4 E10 — 10. Diamond in the Rough
 URL: https://watchwiththekids.com/ep/modern-family/0410.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E11 — 11. New Year's Eve
@@ -1367,7 +1367,7 @@ Watch for: nothing flagged.
 
 ## S5 E10 — 10. The Old Man & the Tree
 URL: https://watchwiththekids.com/ep/modern-family/0510.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E11 — 11. And One to Grow On

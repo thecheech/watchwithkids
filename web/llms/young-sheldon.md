@@ -18,7 +18,7 @@ Watch for:
 
 ## S1 E2 — 2. Rockets, Communists, and the Dewey Decimal System
 URL: https://watchwiththekids.com/ep/young-sheldon/0102.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E3 — 3. Poker, Faith, and Eggs
@@ -57,7 +57,7 @@ Watch for:
 
 ## S1 E6 — 6. A Patch, a Modem, and a Zantac
 URL: https://watchwiththekids.com/ep/young-sheldon/0106.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E7 — 7. A Brisket, Voodoo and Cannonball Run
@@ -188,7 +188,7 @@ Watch for:
 
 ## S1 E19 — 19. Gluons, Guacamole, and the Color Purple
 URL: https://watchwiththekids.com/ep/young-sheldon/0119.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E20 — 20. A Dog, a Squirrel, and a Fish Named Fish
@@ -220,7 +220,7 @@ Watch for: nothing flagged.
 
 ## S1 E22 — 22. Vanilla Ice Cream, Gentleman Callers, and a Dinette Set
 URL: https://watchwiththekids.com/ep/young-sheldon/0122.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S2 E1 — 1. A High-Pitched Buzz and Training Wheels
@@ -460,7 +460,7 @@ Watch for:
 
 ## S3 E3 — 3. An Entrepreneurialist and a Swat on the Bottom
 URL: https://watchwiththekids.com/ep/young-sheldon/0303.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E4 — 4. Hobbitses, Physicses and a Ball with Zip
@@ -550,7 +550,7 @@ Watch for:
 
 ## S3 E12 — 12. Body Glitter and a Mall Safety Kit
 URL: https://watchwiththekids.com/ep/young-sheldon/0312.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E13 — 13. Contracts, Rules and a Little Bit of Pig Brains
@@ -717,7 +717,7 @@ Watch for:
 
 ## S4 E8 — 8. An Existential Crisis and a Bear That Makes Bubbles
 URL: https://watchwiththekids.com/ep/young-sheldon/0408.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S4 E9 — 9. Crappy Frozen Ice Cream and an Organ Grinder's Monkey
@@ -755,7 +755,7 @@ Watch for:
 
 ## S4 E12 — 12. A Box of Treasure and the Meemaw of Science
 URL: https://watchwiththekids.com/ep/young-sheldon/0412.html
-Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S4 E13 — 13. The Geezer Bus and a New Model for Education
