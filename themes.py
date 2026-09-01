@@ -836,6 +836,7 @@ def _detail_from_moments(theme: str, moments: list[dict]) -> dict:
         for m in ordered
     ]
     top = max(m["intensity"] for m in moments)
+    top_sev = max(int(m.get("sev") or 0) or {1: 1, 2: 3, 3: 4}[top] for m in moments)
     modes = {m["mode"] for m in moments}
     return {
         "theme": theme,
@@ -843,6 +844,7 @@ def _detail_from_moments(theme: str, moments: list[dict]) -> dict:
         "how": render_instance(instances[0]),
         "count": len(instances),
         "intensity": top,
+        "severity": top_sev,
         "mode": "on-screen" if "on-screen" in modes else ("dialogue" if "dialogue" in modes else "implied"),
         "instances": instances,
     }

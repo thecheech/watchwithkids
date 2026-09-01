@@ -661,6 +661,7 @@ def slim_detail(detail: dict, *, with_instances: bool) -> dict:
         "how": detail.get("how") or (render_instance(head) if head else ""),
         "count": int(detail.get("count") or len(instances) or 1),
         "intensity": int(detail.get("intensity") or 1),
+        "severity": int(detail.get("severity") or 1),
     }
     if head:
         out["kind"] = head.get("kind")

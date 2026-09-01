@@ -1034,6 +1034,37 @@ h1 {
   border: 1.5px solid rgba(31, 22, 48, 0.15);
 }
 
+.theme-rank.severity-mild {
+  color: #1f5d3a;
+  background: rgba(72, 187, 120, 0.14);
+  border-color: rgba(39, 103, 73, 0.22);
+}
+
+.theme-rank.severity-preview {
+  color: #7a5a00;
+  background: rgba(255, 214, 102, 0.28);
+  border-color: rgba(122, 90, 0, 0.22);
+}
+
+.theme-rank.severity-spicy {
+  color: #9a3412;
+  background: rgba(251, 146, 60, 0.2);
+  border-color: rgba(154, 52, 18, 0.24);
+}
+
+.theme-rank.severity-adult {
+  color: #7f1d1d;
+  background: rgba(248, 113, 113, 0.22);
+  border-color: rgba(127, 29, 29, 0.28);
+}
+
+.theme-rank .theme-stat-label {
+  font-size: 0.62rem;
+  opacity: 1;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
 .theme-more {
   color: var(--muted);
   background: rgba(31, 22, 48, 0.08);
