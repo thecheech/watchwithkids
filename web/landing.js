@@ -1,8 +1,6 @@
 (() => {
   const shows = window.SHOWS || [];
   const featured = document.getElementById("featured");
-  const grid = document.getElementById("grid");
-  const shelfCount = document.getElementById("shelf-count");
   const sparkles = document.getElementById("sparkles");
 
   const READY_ORDER = [
@@ -106,27 +104,70 @@
   }
 
   if (soon.length) {
-    if (shelfCount) shelfCount.textContent = `${soon.length} coming soon`;
-    grid.innerHTML = soon.map((s, i) => cardHtml(s, i, true)).join("");
-  } else {
-    document.querySelector(".shelf")?.remove();
+    const shelf = document.createElement("section");
+    shelf.className = "shelf";
+    shelf.innerHTML = `
+      <div class="shelf-head reveal">
+        <div>
+          <h2>More shows on the shelf</h2>
+          <p>Covers up. Ratings rolling out show by show.</p>
+        </div>
+        <div class="count-chip" id="shelf-count">${soon.length} coming soon</div>
+      </div>
+      <div class="grid" id="grid"></div>
+    `;
+    document.querySelector("main.wrap, main")?.appendChild(shelf);
+    shelf.querySelector("#grid").innerHTML = soon.map((s, i) => cardHtml(s, i, true)).join("");
   }
 
   const cards = [...document.querySelectorAll(".show-card")];
-  const io = new IntersectionObserver(
-    (entries) => {
-      for (const entry of entries) {
-        if (!entry.isIntersecting) continue;
-        const el = entry.target;
-        const i = Number(el.dataset.i || 0);
-        el.style.animationDelay = `${(i % 6) * 55}ms`;
-        el.classList.add("in-view");
-        io.unobserve(el);
-      }
-    },
-    { rootMargin: "0px 0px -8% 0px", threshold: 0.12 }
-  );
-  cards.forEach((c) => io.observe(c));
+
+  function revealCard(el) {
+    if (el.classList.contains("in-view")) return;
+    el.classList.add("in-view");
+    io?.unobserve(el);
+  }
+
+  function revealVisibleCards() {
+    const vh = window.innerHeight || document.documentElement.clientHeight || 0;
+    for (const el of cards) {
+      if (el.classList.contains("in-view")) continue;
+      const r = el.getBoundingClientRect();
+      if (r.width <= 0 && r.height <= 0) continue;
+      if (r.bottom > 0 && r.top < vh) revealCard(el);
+    }
+  }
+
+  let io = null;
+  if (!reduceMotion && cards.length) {
+    document.documentElement.classList.add("js-scroll-reveal");
+    io = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) revealCard(entry.target);
+        }
+      },
+      { rootMargin: "64px 0px 64px 0px", threshold: 0 }
+    );
+    cards.forEach((c) => io.observe(c));
+    revealVisibleCards();
+    requestAnimationFrame(revealVisibleCards);
+    window.addEventListener("load", revealVisibleCards, { once: true });
+    window.addEventListener(
+      "scroll",
+      () => {
+        if (revealVisibleCards._t) return;
+        revealVisibleCards._t = window.setTimeout(() => {
+          revealVisibleCards._t = 0;
+          revealVisibleCards();
+        }, 120);
+      },
+      { passive: true }
+    );
+    window.setTimeout(revealVisibleCards, 1500);
+  } else {
+    cards.forEach((c) => c.classList.add("in-view"));
+  }
 
   function setupHeroTv(root, slides) {
     root.innerHTML = `

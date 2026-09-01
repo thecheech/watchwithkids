@@ -155,7 +155,7 @@
       ? `<p class="summary">${escapeHtml(ep.summary)}</p>`
       : "";
     return `
-      <article class="card card-${bKey}" style="animation-delay:${Math.min(i, 12) * 25}ms">
+      <article class="card card-${bKey}">
         <div class="card-top">
           <div class="card-copy">
             <div class="ep-meta">

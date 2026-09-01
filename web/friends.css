@@ -464,7 +464,8 @@ h1 {
   padding: 0.75rem 0.9rem 0.7rem;
   display: grid;
   gap: 0.55rem;
-  animation: pop-in 0.4s cubic-bezier(.2,1.4,.4,1) both;
+  opacity: 1;
+  transform: none;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
