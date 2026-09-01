@@ -4,6 +4,8 @@ Plain-text episode transcripts. Each show lives in `transcripts/<show>/` with it
 `episodes.csv` / `episodes.json` index (Friends is at `transcripts/season-XX/` with the
 index at the project root for compatibility with the web app).
 
+**For the full pipeline to add a new show, see [ADD_SHOW.md](ADD_SHOW.md).**
+
 | Show | Seasons | Transcript files | Words | Source |
 |------|---------|------------------|-------|--------|
 | [Adventure Time](transcripts/adventure-time/) | 10 | 236 | 494,853 | adventuretime.fandom.com |

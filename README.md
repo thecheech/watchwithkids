@@ -1,20 +1,29 @@
 # watchwithkids 🍿
 
-Parental screening guide for *Friends*: every episode scored **1–5** on
-**violence**, **sex**, and **language**, with short examples — plus a fun
-webpage to browse and filter.
+Parental screening guide for TV shows: every episode scored **1–5** on
+**violence**, **sex**, and **language**, with exact moments quoted — so you can decide before you press play.
 
-**Live:** https://watchwithkids.vercel.app
+**Live:** https://watchwiththekids.com/
 
 ## Quick start (local)
 
 ```bash
-python3 rate_episodes.py   # rebuild ratings.json / ratings.csv
-python3 build_web.py       # embed scores into web/data.js
+python3 build_web.py       # rebuild all show pages
 python3 -m http.server 8765 --directory web
 ```
 
 Open http://localhost:8765
+
+## Adding a new show
+
+See **[ADD_SHOW.md](ADD_SHOW.md)** for the complete guide.
+
+**TL;DR:** Once you have transcripts and metadata:
+
+```bash
+python3 rate_show.py <show-id>    # generate ratings
+python3 build_web.py              # build web pages
+```
 
 ## Deploy
 
