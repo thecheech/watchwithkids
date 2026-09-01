@@ -278,6 +278,13 @@ THEME_EXCLUSIONS = {
     ],
     "Racism & slurs": [
         r"\bracist\b(?=\s+(?:is|are)\s+wrong)",
+        # Transcript typo: "gook luck" = "good luck" (Friends S2 E4).
+        r"\bgook\s+luck\b",
+        # Meta-discussion — calling someone racist or talking about racist jokes, not slurs.
+        r"\bkind of a racist\b",
+        r"\bracist jokes?\b",
+        r"\bracial slur\b",
+        r"\bMr\. Bigot\b",
     ],
 }
 
