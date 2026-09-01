@@ -1039,7 +1039,7 @@ def episode_index_html(show_id: str, payload: dict) -> str:
         code = safe_code(ep["code"])
         themes = theme_sentence(ep) or "no adult themes flagged"
         rows.append(
-            f'<li class="ep-index-row"><a href="ep/{esc(show_id)}/{esc(code)}.html">'
+            f'<li class="ep-index-row" id="ep-{esc(code)}"><a href="ep/{esc(show_id)}/{esc(code)}.html">'
             f'<span class="ep-index-code">{esc(ep_label(ep))}</span> '
             f'<span class="ep-index-title">{esc(display_title(ep["title"]))}</span></a> '
             f'<span class="ep-index-meta">Overall {ep["overall"]}/5 · {esc(ep.get("verdict") or "")} · '
@@ -1197,6 +1197,12 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
       <span>🎬 Season</span>
       <select id="season">
         <option value="all">All seasons ✨</option>
+      </select>
+    </label>
+    <label class="field field-episode" id="episode-field" hidden>
+      <span>🎞️ Episode</span>
+      <select id="episode">
+        <option value="">Jump to episode…</option>
       </select>
     </label>
     <label class="field grow">
