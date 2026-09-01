@@ -83,7 +83,7 @@
   const kids = ordered(KIDS_ORDER);
   const adult = ordered(ADULT_ORDER);
   const soon = SOON_ORDER.map((id) => byId[id]).filter(Boolean);
-  const heroSlides = [...ready, ...kids, ...adult];
+  const heroSlides = ready;
 
   if (featured && heroSlides.length) {
     setupHeroTv(featured, heroSlides);
