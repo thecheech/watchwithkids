@@ -64,7 +64,7 @@
   let listPage = 1;
 
   els.disclaimer.textContent =
-    "👋 Fun family guide, not an official rating. You kids — your rules!";
+    "👋 Fun family guide, not an official rating. Your kids — your rules!";
 
   els.vibeBtns.forEach((btn) => {
     btn.classList.toggle("is-active", btn.dataset.bucket === bucket);

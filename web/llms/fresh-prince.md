@@ -1,4 +1,4 @@
-# fresh-prince — parent guide (148 episodes)
+# The Fresh Prince of Bel-Air — parent guide (148 episodes)
 
 Source: https://watchwiththekids.com/fresh-prince.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.

@@ -1,4 +1,4 @@
-# Pokémon — parent guide (79 episodes)
+# Pokémon: Indigo League — parent guide (79 episodes)
 
 Source: https://watchwiththekids.com/pokemon.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
