@@ -22,7 +22,7 @@
     }
   },
   "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
-  "count": 564,
+  "count": 570,
   "episodes": [
     {
       "season": 1,
@@ -68676,6 +68676,174 @@
       "notes": null,
       "flags": [],
       "source": "heuristic"
+    },
+    {
+      "season": 26,
+      "episode": 17,
+      "code": "2617",
+      "title": "Waiting for Duffman",
+      "index_title": "Waiting for Duffman",
+      "url": null,
+      "file": null,
+      "summary": "When Duffman undergoes hip replacement surgery and retires, the company sets up a reality show competition to find his replacement. Homer wins the competition, and because the job requires him to stay sober, he learns that beer isn't as necessary as he thought to have a good time.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 26,
+      "episode": 18,
+      "code": "2618",
+      "title": "Peeping Mom",
+      "index_title": "Peeping Mom",
+      "url": null,
+      "file": null,
+      "summary": "Bart lies about being involved in a bulldozer crash, so Marge decides to follow him everywhere until he confesses. Meanwhile, Homer ignores Santa's Little Helper when Flanders gets a new dog.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 26,
+      "episode": 19,
+      "code": "2619",
+      "title": "The Kids Are All Fight",
+      "index_title": "The Kids Are All Fight",
+      "url": null,
+      "file": null,
+      "summary": "When Homer gets an old film roll developed, the family takes a trip down memory lane to see the origins of how Bart and Lisa first started fighting with each other. <b>Blackboard: </b>'I will not pay my sister to do my punishment'.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 26,
+      "episode": 20,
+      "code": "2620",
+      "title": "Let's Go Fly a Coot",
+      "index_title": "Let's Go Fly a Coot",
+      "url": null,
+      "file": null,
+      "summary": "The Simpsons learn about Grampa's days in the Air Force, and Bart takes up smoking to impress Milhouse's Dutch cousin, Annika,.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 26,
+      "episode": 21,
+      "code": "2621",
+      "title": "Bull-E",
+      "index_title": "Bull-E",
+      "url": null,
+      "file": null,
+      "summary": "After Bart gets bullied at the school dance, Marge convinces the town to pass anti-bullying legislation. Homer then gets arrested and sent to rehab for bullying Ned Flanders, only to subsequently leave rehab as a hero.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 26,
+      "episode": 22,
+      "code": "2622",
+      "title": "Mathlete's Feat",
+      "index_title": "Mathlete's Feat",
+      "url": null,
+      "file": null,
+      "summary": "When a modernized Springfield Elementary has a technical meltdown, Lisa transforms it into a Waldorf school. Meanwhile, Groundskeeper Willie becomes the coach of the mathletes.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
     }
   ]
 }

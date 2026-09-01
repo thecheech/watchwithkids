@@ -22,7 +22,7 @@
     }
   },
   "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
-  "count": 82,
+  "count": 91,
   "episodes": [
     {
       "season": 1,
@@ -16558,6 +16558,258 @@
         "explicit_body"
       ],
       "source": "heuristic"
+    },
+    {
+      "season": 8,
+      "episode": 2,
+      "code": "0802",
+      "title": "Valkyrick",
+      "index_title": "Valkyrick",
+      "url": null,
+      "file": null,
+      "summary": "Space Beth calls her dad for a ride, broh.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 3,
+      "code": "0803",
+      "title": "The Rick, The Mort & The Ugly",
+      "index_title": "The Rick, The Mort & The Ugly",
+      "url": null,
+      "file": null,
+      "summary": "Some guys wanna rebuild the citadel, broh. Seems like a bad idea, broh. Yeehaw stuff, broh.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 4,
+      "code": "0804",
+      "title": "The Last Temptation of Jerry",
+      "index_title": "The Last Temptation of Jerry",
+      "url": null,
+      "file": null,
+      "summary": "Broh is risen. The Smiths learn the true meaning of Easter. Kind of. Broh.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 5,
+      "code": "0805",
+      "title": "Cryo Mort a Rickver",
+      "index_title": "Cryo Mort a Rickver",
+      "url": null,
+      "file": null,
+      "summary": "Broh! Rick and Morty wanna rob a ship in cryosleep. But people are light sleepers, broh.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "code": "0806",
+      "title": "The Curicksous Case of Bethjamin Button",
+      "index_title": "The Curicksous Case of Bethjamin Button",
+      "url": null,
+      "file": null,
+      "summary": "The brohs goes to a theme park Rick loves. Beth and Space Beth stay behind and regress or something.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "code": "0807",
+      "title": "Ricker than Fiction",
+      "index_title": "Ricker than Fiction",
+      "url": null,
+      "file": null,
+      "summary": "Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "code": "0808",
+      "title": "Nomortland",
+      "index_title": "Nomortland",
+      "url": null,
+      "file": null,
+      "summary": "That funemployed life, broh. Jerry makes a friend just as jobless as he is.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 9,
+      "code": "0809",
+      "title": "Morty Daddy",
+      "index_title": "Morty Daddy",
+      "url": null,
+      "file": null,
+      "summary": "Summer and Rick dine OUT, broh. Fancy restaurant stuff. Morty reconnects with someone from his past.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 10,
+      "code": "0810",
+      "title": "Hot Rick",
+      "index_title": "Hot Rick",
+      "url": null,
+      "file": null,
+      "summary": "Brohhhhh. Broh. Sometimes we try weird stuff to let go of the past, broh.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 14,
+      "verdict": "Mild — okay from about 14+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
     },
     {
       "season": 9,

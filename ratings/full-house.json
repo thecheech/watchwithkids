@@ -22,7 +22,7 @@
     }
   },
   "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
-  "count": 119,
+  "count": 191,
   "episodes": [
     {
       "season": 1,
@@ -6257,6 +6257,2022 @@
       "notes": null,
       "flags": [],
       "source": "heuristic"
+    },
+    {
+      "season": 6,
+      "episode": 1,
+      "code": "0601",
+      "title": "Come Fly with Me",
+      "index_title": "Come Fly with Me",
+      "url": null,
+      "file": null,
+      "summary": "D.J. comes home from Spain and announces she's got a surprise for the family.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 2,
+      "code": "0602",
+      "title": "The Long Goodbye",
+      "index_title": "The Long Goodbye",
+      "url": null,
+      "file": null,
+      "summary": "Michelle and Danny both mourn their long-distance relationships.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 3,
+      "code": "0603",
+      "title": "Road to Tokyo",
+      "index_title": "Road to Tokyo",
+      "url": null,
+      "file": null,
+      "summary": "Jesse's music career takes off in Toyko but he has a change of heart about touring.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 4,
+      "code": "0604",
+      "title": "Radio Days",
+      "index_title": "Radio Days",
+      "url": null,
+      "file": null,
+      "summary": "Jesse and Joey get a job on a radio show.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 5,
+      "code": "0605",
+      "title": "Lovers and Other Tanners",
+      "index_title": "Lovers and Other Tanners",
+      "url": null,
+      "file": null,
+      "summary": "DJ's responsibilities take a back seat as her relationship with Steve escalates.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 6,
+      "code": "0606",
+      "title": "Educating Jesse",
+      "index_title": "Educating Jesse",
+      "url": null,
+      "file": null,
+      "summary": "When DJ's high school plans to do a stay in school campaign and she turns to her family for help in making it a success, Jesse tries to keep the fact that he's a high school dropout a secret.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 7,
+      "code": "0607",
+      "title": "Trouble in Twin Town",
+      "index_title": "Trouble in Twin Town",
+      "url": null,
+      "file": null,
+      "summary": "Becky's snobby cousins come to town to enter their daughters in a twin contest; Jesse is determined to show up Dick Donaldson and enters Nicky and Alex as well. Meanwhile, at the contest, Stephanie meets twin boys and pretends she's a twin to be with them.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 8,
+      "code": "0608",
+      "title": "The Play's the Thing",
+      "index_title": "The Play's the Thing",
+      "url": null,
+      "file": null,
+      "summary": "Michelle thinks she's got the lead role of her first grade play in the bag when Jesse and Joey volunteer as directors and Stephanie signs on as choreographer. But when a more talented classmate auditions and the guys give the role to him, Michelle turns bitter. Meanwhile, Steve gets ticked off with DJ, who has gotten in the habit of speaking on his behalf.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 9,
+      "code": "0609",
+      "title": "Nice Guys Finish First",
+      "index_title": "Nice Guys Finish First",
+      "url": null,
+      "file": null,
+      "summary": "Joey in a charity hockey game.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 10,
+      "code": "0610",
+      "title": "I'm Not D.J.",
+      "index_title": "I'm Not D.J.",
+      "url": null,
+      "file": null,
+      "summary": "Stephanie wants to her own life choices and not the times when D.J. first got them.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 11,
+      "code": "0611",
+      "title": "Desiging Mothers",
+      "index_title": "Desiging Mothers",
+      "url": null,
+      "file": null,
+      "summary": "Danny meets Vicky's mom and things don't go well...",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 12,
+      "code": "0612",
+      "title": "A Very Tanner Christmas",
+      "index_title": "A Very Tanner Christmas",
+      "url": null,
+      "file": null,
+      "summary": "Jesse has a surprise for Rebecca, D.J. and Steve argue, Vicky surprises Danny.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 13,
+      "code": "0613",
+      "title": "The Dating Game",
+      "index_title": "The Dating Game",
+      "url": null,
+      "file": null,
+      "summary": "Both Joey and Stephanie try to turn friendly dinners into romantic first dates: Josh takes Stephanie out for pizza, and Joey invites his boss, Alison, to the house for dinner.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 14,
+      "code": "0614",
+      "title": "Birthday Blues",
+      "index_title": "Birthday Blues",
+      "url": null,
+      "file": null,
+      "summary": "DJ has spent so much time getting ready to celebrate her six month anniversary with Steve that she completely forgets about Kimmy's 16th birthday. As a result, she rushes through planning a sweet sixteen party for her, where the only guests are the Tanner family and Gail.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 15,
+      "code": "0615",
+      "title": "Be True to Your Pre-School",
+      "index_title": "Be True to Your Pre-School",
+      "url": null,
+      "file": null,
+      "summary": "When a friend and his family comes over to help Jesse fix his motorcycle, he starts driving Becky crazy by focusing on getting the twins prepared for getting accepted to an elite pre-school. Meanwhile, Danny panics when Kimmy arrives with news that she just go her license and would like DJ to go with her on a celebratory joy ride.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 16,
+      "code": "0616",
+      "title": "The Heartbreak Kid",
+      "index_title": "The Heartbreak Kid",
+      "url": null,
+      "file": null,
+      "summary": "Michelle mistakes Steve's friendliness for romantic love. Jesse has trouble with his new computer.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 17,
+      "code": "0617",
+      "title": "Silence is Not Golden",
+      "index_title": "Silence is Not Golden",
+      "url": null,
+      "file": null,
+      "summary": "A classmate of Stephanie has a secret.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 18,
+      "code": "0618",
+      "title": "Please Don't Touch the Dinosaur",
+      "index_title": "Please Don't Touch the Dinosaur",
+      "url": null,
+      "file": null,
+      "summary": "Jesse and Danny both get volunteered to take Michelle's class on a field trip to the museum. Jesse's rowdier bunch of kids cause trouble and end up destroying a dinosaur skeleton. Meanwhile, Stephanie and D.J. get into an argument over who owns a baseball card worth $2,000.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 19,
+      "code": "0619",
+      "title": "Subterranean Graduation Blues",
+      "index_title": "Subterranean Graduation Blues",
+      "url": null,
+      "file": null,
+      "summary": "Jesse graduates high school in a subway.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 20,
+      "code": "0620",
+      "title": "Grand Gift Auto",
+      "index_title": "Grand Gift Auto",
+      "url": null,
+      "file": null,
+      "summary": "Joey gave D.J. a car for her birthday but didn't know it was a stolen car.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 21,
+      "code": "0621",
+      "title": "Room for One More",
+      "index_title": "Room for One More",
+      "url": null,
+      "file": null,
+      "summary": "Jesse and Rebecca talk about maybe have more kids.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 22,
+      "code": "0622",
+      "title": "Prom Night",
+      "index_title": "Prom Night",
+      "url": null,
+      "file": null,
+      "summary": "Prom Night brings some trouble for D.J. and Steve.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 23,
+      "code": "0623",
+      "title": "The House Meets the Mouse (1)",
+      "index_title": "The House Meets the Mouse (1)",
+      "url": null,
+      "file": null,
+      "summary": "The Tanners go to Disney World! Michelle becomes princess for the day.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 6,
+      "episode": 24,
+      "code": "0624",
+      "title": "The House Meets the Mouse (2)",
+      "index_title": "The House Meets the Mouse (2)",
+      "url": null,
+      "file": null,
+      "summary": "Vicky and Steve join the Tanners at Disney World. Danny has a question to ask Vicky.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 1,
+      "code": "0701",
+      "title": "It Was a Dark and Stormy Night",
+      "index_title": "It Was a Dark and Stormy Night",
+      "url": null,
+      "file": null,
+      "summary": "Steve tells a scary story to the kids at camp. Nicky and Alex don't want to sleep in their beds.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 2,
+      "code": "0702",
+      "title": "The Apartment",
+      "index_title": "The Apartment",
+      "url": null,
+      "file": null,
+      "summary": "After hearing surprising news that a classmate of DJ and Kimmy is married and having a baby, Danny jumps to the wrong conclusion after DJ accidentally breaks curfew and spends the night at Steve's new apartment.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 3,
+      "code": "0703",
+      "title": "Wrong-Way Tanner",
+      "index_title": "Wrong-Way Tanner",
+      "url": null,
+      "file": null,
+      "summary": "Joey is the new coach of Michelle's soccer team. While not being very good, Michelle was having fun until she accidentally scored a goal for the opposing team and several teammates gave her hard time for it. Just when she was going to give playing another chance, Stephanie shows the family a video she made of her family in their not so shining moments, and Michelle does her best to not let the jokes her team made get to her.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 4,
+      "code": "0704",
+      "title": "Tough Love",
+      "index_title": "Tough Love",
+      "url": null,
+      "file": null,
+      "summary": "Jesse and Rebecca have to get tough with the boys when they realise the boys' behaviour is getting out of hand.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 5,
+      "code": "0705",
+      "title": "Fast Friends",
+      "index_title": "Fast Friends",
+      "url": null,
+      "file": null,
+      "summary": "Stephanie meets new friends, but soon feels pressured to smoke. Jesse and Joey host a radio show called Teen Talk; or is it Yakkin' With Youth?",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "code": "0706",
+      "title": "Smash Club: The Next Generation",
+      "index_title": "Smash Club: The Next Generation",
+      "url": null,
+      "file": null,
+      "summary": "Jesse is surprised to learn that he has inherited an old night club where his band used to play. But he soon learns that reopening the run-down building for a new generation takes more than just good ideas.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "code": "0707",
+      "title": "High Anxiety",
+      "index_title": "High Anxiety",
+      "url": null,
+      "file": null,
+      "summary": "Michelle wants to be treated like a grown-up.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 8,
+      "code": "0708",
+      "title": "Another Opening, Another No Show",
+      "index_title": "Another Opening, Another No Show",
+      "url": null,
+      "file": null,
+      "summary": "Jesse opens the Smash Club and then he goes missing.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 9,
+      "code": "0709",
+      "title": "The Day of the Rhino",
+      "index_title": "The Day of the Rhino",
+      "url": null,
+      "file": null,
+      "summary": "Michelle and Denise confront Rigby the Rhino. Vicky, Rebecca, D.J. put a test on the guys.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 10,
+      "code": "0710",
+      "title": "The Prying Game",
+      "index_title": "The Prying Game",
+      "url": null,
+      "file": null,
+      "summary": "Stephanie and Kimmy resort to snooping around Steve's apartment when they suspect that he's cheating on DJ with another girl. Meanwhile, Jesse, Joey, and Danny tape an infomercial to sell a hair care accessory that Jesse invented, which ends in chaos.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 11,
+      "code": "0711",
+      "title": "The Bicycle Thief",
+      "index_title": "The Bicycle Thief",
+      "url": null,
+      "file": null,
+      "summary": "Michelle believes her bike was stolen.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 12,
+      "code": "0712",
+      "title": "Support Your Local Parents",
+      "index_title": "Support Your Local Parents",
+      "url": null,
+      "file": null,
+      "summary": "Jesse and Becky are concerned that Nicky and Alex won't socialize with other kids, and attend a parent support group. In the meantime, Stephanie and Michelle learn D.J. has received a traffic ticket and request full access to her wardrobe or they'll tell Danny.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 13,
+      "code": "0713",
+      "title": "The Perfect Couple",
+      "index_title": "The Perfect Couple",
+      "url": null,
+      "file": null,
+      "summary": "Danny, Jesse, Rebecca, D.J. and Steve go on at dating show and Joey's the host.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 14,
+      "code": "0714",
+      "title": "Is It True About Stephanie?",
+      "index_title": "Is It True About Stephanie?",
+      "url": null,
+      "file": null,
+      "summary": "After Stephanie makes a date with Gia's crush, Gia spreads a nasty rumor, prompting Stephanie to fight back with a prank of her own. Meanwhile, Danny's behavior after his breakup with Vicky makes the rest of the family wonder if he's cracking up.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 15,
+      "code": "0715",
+      "title": "The Test",
+      "index_title": "The Test",
+      "url": null,
+      "file": null,
+      "summary": "D.J. is nervous about her SAT test.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 16,
+      "code": "0716",
+      "title": "Joey's Funny Valentine",
+      "index_title": "Joey's Funny Valentine",
+      "url": null,
+      "file": null,
+      "summary": "Joey thinks he has found his dream girl, comic Roxy Mardin, But she turns out to be a nightmare.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "code": "0717",
+      "title": "The Last Dance",
+      "index_title": "The Last Dance",
+      "url": null,
+      "file": null,
+      "summary": "During his visit to San Francisco, Jesse's beloved grandfather, Papouli, dies in his sleep. Jesse and Michelle are both devastated as they try to come to terms with his death.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "code": "0718",
+      "title": "Kissing Cousins",
+      "index_title": "Kissing Cousins",
+      "url": null,
+      "file": null,
+      "summary": "Jesse's greek cousin comes to visit and scams everyone.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 19,
+      "code": "0719",
+      "title": "Love on the Rocks",
+      "index_title": "Love on the Rocks",
+      "url": null,
+      "file": null,
+      "summary": "D.J. and Steve break up.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "code": "0720",
+      "title": "Michelle a la Cart",
+      "index_title": "Michelle a la Cart",
+      "url": null,
+      "file": null,
+      "summary": "Michelle joins a kiddie car race.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 21,
+      "code": "0721",
+      "title": "Be Your Own Best Friend",
+      "index_title": "Be Your Own Best Friend",
+      "url": null,
+      "file": null,
+      "summary": "Michelle's friend Teddy returns and Michelle doesn't know who to choose when she has to do a project about her best friend; Denise or Teddy. A disagreement leads her to choose Comet to be her best friend.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 22,
+      "code": "0722",
+      "title": "A Date with Fate",
+      "index_title": "A Date with Fate",
+      "url": null,
+      "file": null,
+      "summary": "Danny's date and D.J.'s date meet and become attracted to each other. Nicky and Alex learn a Mother's Day song.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 23,
+      "code": "0723",
+      "title": "Too Little Richard Too Late",
+      "index_title": "Too Little Richard Too Late",
+      "url": null,
+      "file": null,
+      "summary": "To help try and save the art program at Michelle's school, Joey runs for president of the PTA. Little Richard guest stars as Denise's uncle and performs at Joey's pre-election rally.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 24,
+      "code": "0724",
+      "title": "A House Divided",
+      "index_title": "A House Divided",
+      "url": null,
+      "file": null,
+      "summary": "The family wants their own space.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 1,
+      "code": "0801",
+      "title": "Comet's Excellent Adventure",
+      "index_title": "Comet's Excellent Adventure",
+      "url": null,
+      "file": null,
+      "summary": "Comet, the dog, runs away. The Rippers no longer want Jesse in their band. D.J. ends a relationship with a rich boyfriend.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 2,
+      "code": "0802",
+      "title": "Breaking Away",
+      "index_title": "Breaking Away",
+      "url": null,
+      "file": null,
+      "summary": "Nicky and Alex have their first day at Preschool. Jesse and Rebecca have a hard time letting go.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 3,
+      "code": "0803",
+      "title": "Making Out is Hard to Do",
+      "index_title": "Making Out is Hard to Do",
+      "url": null,
+      "file": null,
+      "summary": "Stephanie friend Gia has a party at her house.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 4,
+      "code": "0804",
+      "title": "I've Got a Secret",
+      "index_title": "I've Got a Secret",
+      "url": null,
+      "file": null,
+      "summary": "Michelle gets in trouble with her friends when she accidentally tells Danny about their secret club. Feeling bad, he tries to get her back in their good graces. When DJ finds out that Kimmy starts dating Nelson, she gets jealous and tries to break them up. Jesse and Rebecca agree to tell one another about their past loves.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 5,
+      "code": "0805",
+      "title": "To Joey, with Love",
+      "index_title": "To Joey, with Love",
+      "url": null,
+      "file": null,
+      "summary": "Joey takes a job as a substitute teacher for Michelle's class. Jesse auditions new band members.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "code": "0806",
+      "title": "You Pet It, You Bought It",
+      "index_title": "You Pet It, You Bought It",
+      "url": null,
+      "file": null,
+      "summary": "Michelle buys a donkey.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "code": "0807",
+      "title": "On the Road Again",
+      "index_title": "On the Road Again",
+      "url": null,
+      "file": null,
+      "summary": "Jesse goes on the road with his new band. Danny is not happy about D.J. new romance.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "code": "0808",
+      "title": "Claire and Present Danger",
+      "index_title": "Claire and Present Danger",
+      "url": null,
+      "file": null,
+      "summary": "Danny asks Gia's mother out on a date--causing Michelle to rebel. Joey is surprised when the French woman he asked out on a date arrives with her husband. Jesse is nervous about his first appearance with his new band.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 9,
+      "code": "0809",
+      "title": "Stephanie's Wild Ride",
+      "index_title": "Stephanie's Wild Ride",
+      "url": null,
+      "file": null,
+      "summary": "Stephanie and Gia get in a car with two boys that they have just met.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 10,
+      "code": "0810",
+      "title": "Under the Influence",
+      "index_title": "Under the Influence",
+      "url": null,
+      "file": null,
+      "summary": "D.J and Kimmy go to a college party. Joey and Jesse teach Nicky and Alex about forgiveness.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 11,
+      "code": "0811",
+      "title": "Arrest Ye Merry Gentlemen",
+      "index_title": "Arrest Ye Merry Gentlemen",
+      "url": null,
+      "file": null,
+      "summary": "Michelle wants to return the present that everyone hates.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 12,
+      "code": "0812",
+      "title": "D.J.'s Choice",
+      "index_title": "D.J.'s Choice",
+      "url": null,
+      "file": null,
+      "summary": "D.J. has to make a choice between Nelson and Viper.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 13,
+      "code": "0813",
+      "title": "The Producer",
+      "index_title": "The Producer",
+      "url": null,
+      "file": null,
+      "summary": "Rebecca is name the new producer at Wake Up San Franscisco. D.J. and Stephanie bet on each other on sweets.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 14,
+      "code": "0814",
+      "title": "Super Bowl Fun Day",
+      "index_title": "Super Bowl Fun Day",
+      "url": null,
+      "file": null,
+      "summary": "Michelle's class has a field trip but Joey wants to watch the Super Bowl.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 15,
+      "code": "0815",
+      "title": "My Left and Right Foot",
+      "index_title": "My Left and Right Foot",
+      "url": null,
+      "file": null,
+      "summary": "Michelle's afraid her feet will grow larger.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 16,
+      "code": "0816",
+      "title": "Air Jesse",
+      "index_title": "Air Jesse",
+      "url": null,
+      "file": null,
+      "summary": "Jesse learns to play basketball with Kareem Abdul-Jabbar.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 17,
+      "code": "0817",
+      "title": "Dateless in San Francisco",
+      "index_title": "Dateless in San Francisco",
+      "url": null,
+      "file": null,
+      "summary": "A valentine episode.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 18,
+      "code": "0818",
+      "title": "We Got the Beat",
+      "index_title": "We Got the Beat",
+      "url": null,
+      "file": null,
+      "summary": "Stephanie and friends form a girl group band.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 19,
+      "code": "0819",
+      "title": "Taking the Plunge",
+      "index_title": "Taking the Plunge",
+      "url": null,
+      "file": null,
+      "summary": "Kimmy wants to marry her plumber boyfriend.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 20,
+      "code": "0820",
+      "title": "Up on the Roof",
+      "index_title": "Up on the Roof",
+      "url": null,
+      "file": null,
+      "summary": "Kimmy and D.J. pull a prank on their high school principal.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 21,
+      "code": "0821",
+      "title": "Leap of Faith",
+      "index_title": "Leap of Faith",
+      "url": null,
+      "file": null,
+      "summary": "Rebecca wants to go bungee jumping and Jesse is not happy.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "code": "0822",
+      "title": "All Stood Up",
+      "index_title": "All Stood Up",
+      "url": null,
+      "file": null,
+      "summary": "Stephanie gets stood up by a classmate.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "code": "0823",
+      "title": "Michelle Rides Again (1)",
+      "index_title": "Michelle Rides Again (1)",
+      "url": null,
+      "file": null,
+      "summary": "Michelle falls off her horse after riding.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 24,
+      "code": "0824",
+      "title": "Michelle Rides Again (2)",
+      "index_title": "Michelle Rides Again (2)",
+      "url": null,
+      "file": null,
+      "summary": "Michelle regains her memory. Kimmy has a surprise for D.J.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
     }
   ]
 }

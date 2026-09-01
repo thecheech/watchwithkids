@@ -1,8 +1,8 @@
-# Brooklyn Nine-Nine — parent guide (135 episodes)
+# Brooklyn Nine-Nine — parent guide (152 episodes)
 
 Source: https://watchwiththekids.com/brooklyn-nine-nine.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 10 all clear (1–2), 69 gray area (3), 56 hard pass (4–5).
+Buckets: 27 all clear (1–2), 69 gray area (3), 56 hard pass (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0101.html
@@ -2966,3 +2966,122 @@ Watch for:
   - “" Yeah, pretty hungover.”
 - Slut-shaming — 1 moment(s)
   - “They're just very sexual creatures, and we didn't want to slut-shame them.”
+
+## S7 E7 — Ding Dong
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0707.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Captain Holt deals with a personal loss. Jake must decide whether to take Terry or Charles to an exclusive event.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E8 — The Takeback
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0708.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Doug Judy is back and this time things between him and Jake are personal. Amy and Charles try to find the perfect new vending machine for the Nine-Nine.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E9 — Dillman
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0709.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: When a prank goes disastrously awry, things at the Nine-Nine take a distinctly Agatha Christie turn.<br />
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E10 — Admiral Peralta
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0710.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Jake and his father deal with unsettled family business. Amy and Rosa work a high-profile case. Terry wants to join the NYPD band.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E11 — Valloweaster
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0711.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The squad competes in an effort to determine who is the greatest human/genius.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E12 — Ransom
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0712.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Holt asks for Jake's help in a case that is exceptionally meaningful to him. Charles and Terry work together on a side business.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E13 — Lights Out
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0713.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The entire squad is on high alert when a massive blackout hits Brooklyn.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E1 — The Good Ones
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0801.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Amy returns from maternity leave. Jake and Rosa work a difficult case.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E2 — The Lake House
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0802.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The squad takes up Holt on an offer for a weekend getaway.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E3 — Blue Flu
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0803.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Capt. Holt and Amy manage an understaffed precinct. Jake and Charles investigate.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E4 — Balancing
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0804.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Jake and Amy create a system to balance work and childcare. Rosa gets a new houseguest.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E5 — PB & J
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0805.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Jake takes an old friend for a ride.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E6 — The Set Up
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0806.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: When the FBI takes over a high-profile case, Jake keeps digging. Amy and Rosa negotiate with O'Sullivan and the police union.<br />
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E7 — Game of Boyles
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0807.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Terry, Jake and Charles visit the Boyle Family Farm. Amy and Rosa help out Capt. Holt.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E8 — Renewal
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0808.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The squad comes together to work an important high-stakes case.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E9 — The Last Day (1)
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0809.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The squad take stock of their eight years together and look toward their future.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E10 — The Last Day (2)
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0810.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The squad take stock of their eight years together and look toward their future.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
