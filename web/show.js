@@ -315,7 +315,8 @@
     
     let extra = "";
     if (count > 1) {
-      extra = `<span class="theme-stat theme-more" aria-label="${count} flagged in this episode"><span class="theme-stat-val">+${count}</span><span class="theme-stat-label">flags</span></span>`;
+      const more = count - 1;
+      extra = `<span class="theme-stat theme-more" aria-label="${count} flagged in this episode"><span class="theme-stat-val">+${more}</span><span class="theme-stat-label">flags</span></span>`;
     }
 
     const tier = themeSeverity(d);
