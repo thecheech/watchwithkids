@@ -78,7 +78,9 @@
   for (const s of seasons) {
     const opt = document.createElement("option");
     opt.value = String(s);
-    opt.textContent = (s === 0 || s === '0') ? 'Other / specials 🎬' : `Season ${s} 🎬`;
+    const episodeCount = data.episodes.filter((e) => e.season === s).length;
+    const epLabel = episodeCount === 1 ? '1 ep' : `${episodeCount} eps`;
+    opt.textContent = (s === 0 || s === '0') ? `Other / specials (${epLabel}) 🎬` : `Season ${s} (${epLabel}) 🎬`;
     els.season.appendChild(opt);
   }
 
