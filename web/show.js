@@ -11,7 +11,7 @@
   const BUCKETS = {
     all: {
       match: () => true,
-      hint: "✨ Everything in the catalog — tap a vibe to narrow it.",
+      hint: "",
       stats: "episodes",
     },
     safe: {
@@ -719,6 +719,7 @@
     const visible = filtered.slice(start, start + PAGE_SIZE);
 
     els.hint.textContent = conf.hint;
+    els.hint.hidden = !conf.hint;
     const noun = conf.stats === "episodes" && filtered.length === 1 ? "episode" : conf.stats;
     const seasonNote = season !== "all" ? ` · season ${season}` : "";
     els.stats.textContent = `🎉 ${filtered.length} ${noun}${themeNote}${seasonNote}`;

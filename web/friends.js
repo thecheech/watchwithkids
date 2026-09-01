@@ -11,7 +11,7 @@
   const BUCKETS = {
     all: {
       match: () => true,
-      hint: "✨ Everything in the catalog — tap a vibe to narrow it.",
+      hint: "",
       stats: "episodes",
     },
     safe: {
