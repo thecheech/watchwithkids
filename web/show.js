@@ -263,6 +263,12 @@
       document.querySelectorAll(`[data-count-for="${key}"]`).forEach((node) => {
         node.textContent = String(n);
       });
+      // Disable bucket buttons when count is zero (except "all")
+      const btn = document.getElementById(`bucket-${key}`);
+      if (btn && key !== "all") {
+        btn.disabled = n === 0;
+        btn.setAttribute("aria-disabled", n === 0 ? "true" : "false");
+      }
     }
   }
 
@@ -526,6 +532,7 @@
       selectedThemes.size && els.sort.value === "air" ? "themes" : els.sort.value;
     filtered = sortEpisodes(filtered, sortMode);
     refreshCounts();
+    renderThemeChips();  // Update theme chip counts when filters change
 
     const themeNote = selectedThemes.size
       ? ` · ${selectedThemes.size} theme${selectedThemes.size > 1 ? "s" : ""}`
@@ -586,7 +593,7 @@
         window.scrollTo({ top, behavior: "smooth" });
       });
     }
-    if (pages <= 1) {
+    if (pages <= 1 || total === 0) {
       nav.hidden = true;
       nav.innerHTML = "";
       return;

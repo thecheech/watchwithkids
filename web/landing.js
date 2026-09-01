@@ -42,6 +42,7 @@
   ];
   /** TV-MA / adult animation — rated so you know which episodes are roughest. */
   const ADULT_ORDER = ["rick-and-morty", "family-guy", "south-park"];
+  // Empty - all shows with ratings are now in one of the shelves above
   const SOON_ORDER = [];
 
   const SLIDE_MS = 4000;
