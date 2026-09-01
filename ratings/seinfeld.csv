@@ -1,5 +1,5 @@
 season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
-1,1,0101,The Seinfeld Chronicles,3,2,1,3,10,Preview first — about 10+,"Sex & hookups — GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”"
+1,1,0101,The Seinfeld Chronicles,2,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”"
 1,2,0102,The Stakeout,1,1,2,2,10,Mild — okay from about 10+,
 1,3,0103,The Robbery,1,1,2,2,10,Mild — okay from about 10+,"Sex & hookups — JERRY: “One more thing, Benes, regarding sexual activity:”"
 1,4,0104,Male Unbonding,1,1,1,1,10,Usually fine — about 10+,"Nudity & bodies — GEORGE: “That, or ""Who's bra is this?""”"
@@ -56,7 +56,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 4,55,0455,The Visa,2,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — Elaine: “Well, I ran out to apologize to a virgin and I crossed against the”"
 4,56,0456,The Shoes,1,1,1,1,10,Usually fine — about 10+,"Sex & hookups — “relationship, I think, is that each person has their own sexual time-table”"
 4,57,0457,The Outing,2,3,2,3,10,Preview first — about 10+,"Sex & hookups — George: “Look, you wanna have sex right now? Do want to have sex with me right”"
-4,58,0458,The Old Man,3,2,2,3,10,Preview first — about 10+,Sex & hookups — % You can make out the albums pretty clearly. One is an apparent K-Tel
+4,58,0458,The Old Man,3,2,2,3,10,Preview first — about 10+,Affairs / cheating — Mrs. O: “That's when I began my affair with Mohandas.”
 4,59,0459,The Implant,2,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — JERRY (mimics smoking an ""after sex cigarette""): Tremendous workout."
 4,60,0460,The Junior Mint,2,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — you make out with a woman, you can't ask her her name."
 4,61,0461,The Smelly Car,2,2,1,2,10,Mild — okay from about 10+,Sex & hookups — *always* trade sleep for sex.
@@ -91,7 +91,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 6,90,0690,The Chinese Woman,1,3,1,3,10,Preview first — about 10+,Sex & hookups — wear briefs. Boxers are much better for your sperm count.
 6,91,0691,The Couch,2,1,1,2,10,Mild — okay from about 10+,Affairs / cheating — REMY: “Cheating on his test. <George returns from the kitchen with a glass of grape juice.>”
 6,92,0692,The Gymnast,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — GEORGE: “Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.”"
-6,93,0693,The Soup,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — Kramer turns & goes over to the intercom to push the speaker button. He says something like “ya go,” but it's difficult to make out what he says"
+6,93,0693,The Soup,1,1,1,1,10,Usually fine — about 10+,"Nudity & bodies — In other words, if were having an argument and she's there, I may say I totally disagree with you, but what that really means is, I’d like to help you out, but I’d rather continue to see her naked.”"
 6,94,0694,The Mom &amp; Pop Store,1,1,1,1,10,Usually fine — about 10+,"Violence & injury — POP: “48 years, Mom! And now we have to close! All because of that idiot and his bloody nose! <Kramer enters.>”"
 6,95,0695,The Secretary,1,3,1,3,10,Preview first — about 10+,"Sex & hookups — Jerry: “So you're so grateful to have sex, that you'll just shout out”"
 6,96,0696,The Race,2,1,2,2,10,Mild — okay from about 10+,"Sex & hookups — GEORGE: “Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.”"
@@ -124,11 +124,11 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 7,125,07125,The Cadillac (Part 2),2,3,1,3,10,Preview first — about 10+,Affairs / cheating — SUSAN: “Are you having an affair with Elaine?”
 7,126,07126,The Shower Head,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — Kramer, in the shower, he's got the Commando 450 shower head hooked up. He"
 7,127,07127,The Doll,2,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — SUSAN: “Oh, I used to love to sleep with my dolls when I was a little girl..”"
-7,128,07128,The Friars Club,3,3,3,3,10,Preview first — about 10+,Sex & hookups — KRAMER: “(animated) What? Sleeping with the fishes? I guess I woke up!”
+7,128,07128,The Friars Club,3,2,3,3,10,Preview first — about 10+,Sex & hookups — ELAINE: “...so much. You're so damn...sexy.”
 7,129,07129,The Wigmaster,1,4,1,4,13,Skip for under 13,"Sex & hookups — Kramer: “""That's a....ca.....ca..........Condom!!""”"
 7,130,07130,The Calzone,1,1,2,2,10,Mild — okay from about 10+,Violence & injury — George: “Beautiful women . You know they could get away with murder . You”
 7,131,07131,The Bottle Deposit (Part 1),1,1,2,2,10,Mild — okay from about 10+,Nudity & bodies — business. (nostalgic) Clothing the naked natives of Bantu Besh.
-7,132,07132,The Bottle Deposit (Part 2),3,1,2,3,10,Preview first — about 10+,Sex & hookups — straining to make out the plate.
+7,132,07132,The Bottle Deposit (Part 2),3,1,2,3,10,Preview first — about 10+,Violence & injury — this engine's running on my sweat and my blood.
 7,133,07133,The Wait Out,2,1,1,2,10,Mild — okay from about 10+,"Violence & injury — KRAMER: “Yeah, and I'm playing a business man accused of murder.”"
 7,134,07134,The Invitations,1,1,1,1,10,Usually fine — about 10+,"Alcohol & drugs — Jerry: “Hey look , Champagne..”"
 8,135,08135,The Foundation,2,1,2,2,10,Mild — okay from about 10+,Violence & injury — Jerry: “...But with punching and kicking.”
@@ -160,7 +160,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 9,161,09161,The Junk Mail,1,2,2,2,10,Mild — okay from about 10+,"Affairs / cheating — Frank: “""We have a catered affair.""”"
 9,162,09162,The Merv Griffin Show,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — JERRY: “Oh, the sex is wild but she's got this incredible toy collection and she won't let me near it!”"
 9,163,09163,The Slicer,1,1,2,2,10,Mild — okay from about 10+,
-9,164,09164,The Betrayal,1,3,2,3,10,Preview first — about 10+,"Sex & hookups — GEORGE: “So, Elaine, are you going to sleep with me or what?!”"
+9,164,09164,The Betrayal,1,3,2,3,10,Preview first — about 10+,"Sex & hookups — GEORGE: “(Trying to whisper to Jerry) Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to”"
 9,165,09165,The Apology,1,3,1,3,10,Preview first — about 10+,"Sex & hookups — sleeping with over to talk to me, but I assure you, I don't have any problem"
 9,166,09166,The Strike,1,1,2,2,10,Mild — okay from about 10+,Alcohol & drugs — GEORGE: “I'm gonna get some more of these kosher cocktail franks.. (leaves)”
 9,167,09167,The Dealership,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — KRAMER: “Jerry, I don’t think this thing is hooked up right.”"

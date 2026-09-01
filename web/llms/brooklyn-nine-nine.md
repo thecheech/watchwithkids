@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/brooklyn-nine-nine.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 9 all clear (1–2), 70 gray area (3), 56 hard pass (4–5).
+Buckets: 10 all clear (1–2), 69 gray area (3), 56 hard pass (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0101.html
@@ -229,7 +229,7 @@ Watch for:
   - “Found my gun.”
   - “There's blood, wounds, Scully's feet.”
 
-## S1 E10 — Thanksgiving
+## S1 E10 — 10. Thanksgiving
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0110.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -245,7 +245,7 @@ Watch for:
   - “Cocaine! Thanks, Lucius.”
   - “" It's tequila with a nicotine patch.”
 
-## S1 E11 — Christmas
+## S1 E11 — 11. Christmas
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0111.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -259,7 +259,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “How about "grass"? Marijuana, drugs.”
 
-## S1 E12 — Pontiac Bandit
+## S1 E12 — 12. Pontiac Bandit
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0112.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -280,7 +280,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “That's racist.”
 
-## S1 E13 — The Bet
+## S1 E13 — 13. The Bet
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0113.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -299,7 +299,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “So what else don't I know? You cooking meth? You breaking bad? How many phones do you have? I'm sorry, I need to clarify something I said earlier.”
 
-## S1 E14 — The Ebony Falcon
+## S1 E14 — 14. The Ebony Falcon
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0114.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -318,7 +318,7 @@ Watch for:
   - “Do I still have my knife? Nunchucks? Axe? It was a hypothetical question.”
   - “And you'll be happy to know that he punched me in the face several times.”
 
-## S1 E15 — Operation: Broken Feather
+## S1 E15 — 15. Operation: Broken Feather
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0115.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -338,7 +338,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “You're not very bright, are you, bill? Now I know you'd all prefer to go to a bar, drink beer, and eat chips of various textures.”
 
-## S1 E16 — The Party
+## S1 E16 — 16. The Party
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0116.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -351,7 +351,7 @@ Watch for:
   - “Yikes! But I had to stop and get some wine.”
   - “Terry chose the champagne.”
 
-## S1 E17 — Full Boyle
+## S1 E17 — 17. Full Boyle
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0117.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -370,7 +370,7 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Later, sluts.”
 
-## S1 E18 — The Apartment
+## S1 E18 — 18. The Apartment
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0118.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -388,7 +388,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Cinnamon got hit by a drunk driver.”
 
-## S1 E19 — Tactical Village
+## S1 E19 — 19. Tactical Village
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0119.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -419,7 +419,7 @@ Watch for:
   - “I'm pissed at you.”
   - “Slowly put 'em Oh! Damn it! Terry, time! You broke the record! Yes! Nice! Well done.”
 
-## S1 E20 — Fancy Brudgom
+## S1 E20 — 20. Fancy Brudgom
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0120.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -446,7 +446,7 @@ Watch for:
   - “I put up with all his dumb ideas, his spicy cake, his champagne made out of olives, reading his vows as a recipe.”
   - “What? Whiskey and cigars! Mm-hmm.”
 
-## S1 E21 — Unsolvable
+## S1 E21 — 21. Unsolvable
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0121.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -470,7 +470,7 @@ Watch for:
   - “Charles! What the hell is wrong with you? You told Hitchcock and Scully? No! What? Yep, this is happening.”
   - “And his life is crap right now.”
 
-## S1 E22 — Charges and Specs
+## S1 E22 — 22. Charges and Specs
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0122.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -676,7 +676,7 @@ Watch for:
   - “It's a drug dealer on state street.”
   - “I only wish in return I could get back all the time I just wasted on this futile project.”
 
-## S2 E10 — The Pontiac Bandit Returns
+## S2 E10 — 10. The Pontiac Bandit Returns
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0210.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -698,7 +698,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Why are you so fat? NYPD.”
 
-## S2 E11 — Stakeout
+## S2 E11 — 11. Stakeout
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0211.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -717,7 +717,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Freeze! NYPD! Fatty had it made Like a blade in the sun, like a push in the bush Hey! When you got none Ping pong Alexei Bisko, you're under arrest.”
 
-## S2 E12 — Beach House
+## S2 E12 — 12. Beach House
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0212.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -742,7 +742,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “All right, you know what? You guys are being a bunch of racist, homophobic golf cops, and I for one think this weekend's gonna be even more fun because Holt is here.”
 
-## S2 E13 — Payback
+## S2 E13 — 13. Payback
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0213.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -767,7 +767,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Smart, loyal, homophobic but not racist.”
 
-## S2 E14 — Defense Rests
+## S2 E14 — 14. Defense Rests
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0214.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -785,7 +785,7 @@ Watch for:
   - “He was snorting cocaine in the bathroom.”
   - “Someone messed with the champagne tower.”
 
-## S2 E15 — Windbreaker City
+## S2 E15 — 15. Windbreaker City
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0215.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -812,7 +812,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Sophia text you? No, it's just a lightly racist email forward from my Grandma.”
 
-## S2 E16 — The Wednesday Incident
+## S2 E16 — 16. The Wednesday Incident
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0216.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -836,7 +836,7 @@ Watch for:
   - “Gina, I know you like champagne with a drop of pomegranate juice.”
   - “I'm sorry you wasted your chit, Jake.”
 
-## S2 E17 — Boyle-Linetti Wedding
+## S2 E17 — 17. Boyle-Linetti Wedding
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0217.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -860,7 +860,7 @@ Watch for:
   - “Try to stay off heroin.”
   - “Uh, what would you say is your mom's favorite move at the gym? My mom likes champagne, baked ziti, the Bahamas.”
 
-## S2 E18 — Captain Peralta
+## S2 E18 — 18. Captain Peralta
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0218.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -886,7 +886,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “You use the seesaw to press down on their necks until fatty confesses.”
 
-## S2 E19 — Sabotage
+## S2 E19 — 19. Sabotage
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0219.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -912,7 +912,7 @@ Watch for:
   - “But I basically got your cocaine charges dropped.”
   - “Just go home, have a beer, and smash something.”
 
-## S2 E20 — Ac/dc
+## S2 E20 — 20. Ac/dc
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0220.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -930,7 +930,7 @@ Watch for:
   - “While I was gone, the dude resurfaced and got into a shootout with another drug dealer.”
   - “Ooh! I am so hungover.”
 
-## S2 E21 — Det. Dave Majors
+## S2 E21 — 21. Det. Dave Majors
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0221.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
@@ -946,7 +946,7 @@ Watch for:
   - “Well, well, well, what do we have here? Oh, Majors isn't here yet? I wasted all that coolness on a bunch of nobodies.”
   - “Yeah, that's a sippin' whiskey.”
 
-## S2 E22 — The Chopper
+## S2 E22 — 22. The Chopper
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0222.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -971,7 +971,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I signed out that drug dealer's Lamborghini from the impound.”
 
-## S2 E23 — Johnny and Dora
+## S2 E23 — 23. Johnny and Dora
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0223.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
@@ -1153,7 +1153,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Boyle, the champagne? - Oh, well, technically it's a Hungarian Pezsgo from the Tarnok Valley.”
 
-## S3 E10 — Yippie Kayak
+## S3 E10 — 10. Yippie Kayak
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0310.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1172,7 +1172,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Tell him Tila Tequila's doing a free show in Central Park.”
 
-## S3 E11 — Hostage Situation
+## S3 E11 — 11. Hostage Situation
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0311.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1190,7 +1190,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I'm done with that playboy lifestyle out till 11:00, drunk on sangria.”
 
-## S3 E12 — 9 Days
+## S3 E12 — 12. 9 Days
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0312.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1204,7 +1204,7 @@ Watch for:
   - “Walk? - Are you insane? Fine, cut the damn sandwich in half.”
   - “You're gonna eat this ziti, and you're gonna appreciate it, and you're gonna grow the hell up.”
 
-## S3 E13 — The Cruise
+## S3 E13 — 13. The Cruise
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0313.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1228,7 +1228,7 @@ Watch for:
   - “We're in international waters, which is also why I can smoke as much weed as I want.”
   - “But the all-ages piano lounge has bottomless margaritas.”
 
-## S3 E14 — Karen Peralta
+## S3 E14 — 14. Karen Peralta
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0314.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1265,7 +1265,7 @@ Watch for:
   - “A bag of cocaine that's gonna get us a conviction and prove the value of body cams.”
   - “What is my mother's favorite drink? Red wine over ice.”
 
-## S3 E15 — The 98
+## S3 E15 — 15. The 98
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0315.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1286,7 +1286,7 @@ Watch for:
   - “But mirror top coffee table, iguana cage, samurai swords on the wall either this guy is a drug dealer or he uses Nick Cage's interior designer.”
   - “We wasted those cool lines on nothing.”
 
-## S3 E16 — House Mouses
+## S3 E16 — 16. House Mouses
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0316.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1303,7 +1303,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Where would I have found French fries in a weed farm? Oh, man, look at him.”
 
-## S3 E17 — Adrian Pimento
+## S3 E17 — 17. Adrian Pimento
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0317.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1325,7 +1325,7 @@ Watch for:
   - “We're gonna catch these bastards, - or my name isn't Paul Sneed.”
   - “He was fat once, you know? What the hell, Boyle? Speaking of Jeffords, maybe your daughters would like to know that their daddy throws away all their drawings? They just draw so many, and they're all so bad.”
 
-## S3 E18 — Cheddar
+## S3 E18 — 18. Cheddar
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0318.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1346,7 +1346,7 @@ Watch for:
   - “Damn it, Charles, it's a possum.”
   - “I've had a hell of a day.”
 
-## S3 E19 — Terry Kitties
+## S3 E19 — 19. Terry Kitties
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0319.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1369,7 +1369,7 @@ Watch for:
   - “I don't understand why you wasted another night on a case no one's ever gonna solve.”
   - “So basically, you wasted a whole night.”
 
-## S3 E20 — Paranoia
+## S3 E20 — 20. Paranoia
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0320.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1389,7 +1389,7 @@ Watch for:
   - “I'm surprised he didn't want us all to get drunk and slash each other with machetes.”
   - “Some of us have a hangover.”
 
-## S3 E21 — Maximum Security
+## S3 E21 — 21. Maximum Security
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0321.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1425,7 +1425,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “And if you ever need to talk, or get drunk, or throw stuff off a roof, I mean, I don't know your process.”
 
-## S3 E22 — The Bureau
+## S3 E22 — 22. The Bureau
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0322.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1452,7 +1452,7 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “The best episode that year was episode six, entitled "Are We Sluts?" You know the one.”
 
-## S3 E23 — Greg and Larry
+## S3 E23 — 23. Greg and Larry
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0323.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1639,9 +1639,8 @@ Watch for:
   - “Enjoy having sex with three gorgeous women in cosplay.”
 - Nudity & bodies — 1 moment(s)
   - “I would think teen boys would love a lady dragon, Did you give her big, scaly boobs, or I don't know, you're the writer.”
-- Violence & injury — 4 moment(s)
+- Violence & injury — 3 moment(s)
   - “After Wendivil betrayed Prince Clevang, murdered him, and used his blood to write letters to his children.”
-  - “For she is the ender of bloodlines.”
   - “This is a start, but if you really want Parlov to hear you, you're gonna have to send a message in blood.”
   - “"A message in blood" is a reference to book one.”
 - Swearing — 6 moment(s)
@@ -1670,7 +1669,7 @@ Watch for:
   - “Do you guys know - a drug dealer named Flaco? - Oh, yeah, he's a big-time supplier, consolidated half the territory in Brooklyn.”
   - “Any questions? Will taking down one drug dealer make a big difference in the overall level of drugs - moving into the city?”
 
-## S4 E10 — Captain Latvia
+## S4 E10 — 10. Captain Latvia
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0410.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
@@ -1694,7 +1693,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Oh! What were you guys talking about? Did he think the shirt was racist? - [TIRES SQUEALING.]”
 
-## S4 E11 — The Fugitive
+## S4 E11 — 11. The Fugitive
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0411.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1736,7 +1735,7 @@ Watch for:
   - “So, he just walks over to my place, bottle of wine in hand, and we just talk it out.”
   - “We wasted a day, and if anyone has egg on their faces, it's you two.”
 
-## S4 E13 — The Audit
+## S4 E13 — 13. The Audit
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0413.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1757,7 +1756,7 @@ Watch for:
   - “Shouldn't have wasted my speech on this moment.”
   - “Jake's chronic tardiness, his slobbiness, and the fact that he wasted half the morning deciding what sneakers to wear those are just some of the reasons we're late.”
 
-## S4 E14 — Serve & Protect
+## S4 E14 — 14. Serve & Protect
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0414.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
@@ -1771,7 +1770,7 @@ Watch for:
   - “And if I know Cole Tracker, the next thing you're going to say is (TOGETHER) So what's it gonna be: rock, paper, scissors or gun? You watch the show.”
   - “And that's how I would lift up a bloody finger with my pen.”
 
-## S4 E15 — The Last Ride
+## S4 E15 — 15. The Last Ride
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0415.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1789,7 +1788,7 @@ Watch for:
   - “Now come on, we still have a drug dealer to bust, right? You know what that means.”
   - “So I guess what I'm trying to say is let's go get drunk.”
 
-## S4 E16 — Moo Moo
+## S4 E16 — 16. Moo Moo
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0416.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1807,7 +1806,7 @@ Watch for:
   - “Just explain the deep-rooted institutionalized racism that remains pervasive in this country to this day.”
   - “Racism, racism - I'm hanging up.”
 
-## S4 E17 — Cop-Con
+## S4 E17 — 17. Cop-Con
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0417.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
@@ -1824,7 +1823,7 @@ Watch for:
   - “Now when people think of the Nine-Nine, they'll think of, um oh, Detective Diaz filling an iron with tequila.”
   - “So I could make tequila steam.”
 
-## S4 E18 — Chasing Amy
+## S4 E18 — 18. Chasing Amy
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0418.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1833,9 +1832,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “You're a murderer! Listen, you gotta get over it.”
 
-## S4 E19 — Your Honor
+## S4 E19 — 19. Your Honor
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0419.html
-Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
+Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “both: What? I know you're sleeping with George.”
@@ -1849,7 +1848,7 @@ Watch for:
   - “Is there anyone who knew you'd be out? The people who were with me at wine club.”
   - “Oh my, I just remembered, Carol Spitzheim's house was broken into several months ago, also during wine club.”
 
-## S4 E20 — The Slaughterhouse
+## S4 E20 — 20. The Slaughterhouse
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0420.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1869,7 +1868,7 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Every Sunday after church, Scully and I have dinner together at Wing Sluts.”
 
-## S4 E21 — The Bank Job
+## S4 E21 — 21. The Bank Job
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0421.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -1895,7 +1894,7 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Why do you even own that? I was banned from Wing Sluts for using too much sauce, so I got it to sneak past the hostess.”
 
-## S4 E22 — Crime & Punishment
+## S4 E22 — 22. Crime & Punishment
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0422.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2113,9 +2112,8 @@ Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
   - “He was talking about his penis.”
-- Violence & injury — 3 moment(s)
+- Violence & injury — 2 moment(s)
   - “The man can tell how long a corpse had been decomposing just by studying the maggots inside.”
-  - “Who betrays his bloodline - How could he? - To marry a Cloud Princess - He did it for love.”
   - “Cousins, right? Okay, before we get technical, let's talk a bit about the history of blood.”
 - Swearing — 5 moment(s)
   - “" Let's go take this son of a bitch down! Mr.”
@@ -2147,7 +2145,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “I thought it was just racism.”
 
-## S5 E10 — Game Night
+## S5 E10 — 10. Game Night
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0510.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2166,7 +2164,7 @@ Watch for:
   - “Hey, do you seriously only have two wine glasses? - Yeah.”
   - “Rosa, I broke both your wine glasses and your fridge door and your bathroom.”
 
-## S5 E11 — The Favor
+## S5 E11 — 11. The Favor
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0511.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2189,7 +2187,7 @@ Watch for:
   - “Rap is here And he will drink three beers I wish he would turn the radio down.”
   - “Now, how do we expect Kyle to transfer the bug to Seamus? I got him a very expensive bottle of whiskey to give to his uncle as a gift.”
 
-## S5 E12 — Safe House
+## S5 E12 — 12. Safe House
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0512.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2216,7 +2214,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Can I tell you the craziest story? One time I was like so drunk And this meathead comes up to me.”
 
-## S5 E13 — The Negotiation
+## S5 E13 — 13. The Negotiation
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0513.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2232,7 +2230,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Two years ago before I went straight, I stole a car from a drug dealer.”
 
-## S5 E14 — The Box
+## S5 E14 — 14. The Box
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0514.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2262,7 +2260,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I didn't want to drive drunk, so I took a cab.”
 
-## S5 E15 — The Puzzle Master
+## S5 E15 — 15. The Puzzle Master
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0515.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2273,7 +2271,7 @@ Watch for:
   - “Yeah, we all solve murders, but you, you let Hitchcock borrow a pair of your socks, because his somehow disintegrated.”
   - “We found a smoking gun.”
 
-## S5 E16 — NutriBoom
+## S5 E16 — 16. NutriBoom
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0516.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2285,7 +2283,7 @@ Watch for:
   - “This just became a murder case.”
   - “Look, we have reason to believe David Stovelman murdered his wife, Debbie.”
 
-## S5 E17 — Dfw
+## S5 E17 — 17. Dfw
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0517.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2316,7 +2314,7 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “What's that now? - One more time? You think I'm gonna let my skank parole officer stand in the way of true love? Kurt! He seems like a cool guy.”
 
-## S5 E18 — Gray Star Mutual
+## S5 E18 — 18. Gray Star Mutual
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0518.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2345,7 +2343,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “1 Hey, Charles, want to grab a beer before you go home? - Ooh, a yeast feast.”
 
-## S5 E19 — Bachelor/ette Party
+## S5 E19 — 19. Bachelor/ette Party
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0519.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2366,7 +2364,7 @@ Watch for:
   - “I'm very intoxicated.”
   - “…hired him to play at my wedding, stolen a legally binding contract from him, jumped on a bar and dumped booze on everyone, fallen off the bar, probably given myself a concussion [SLAMS TABLE.]”
 
-## S5 E20 — Show Me Going
+## S5 E20 — 20. Show Me Going
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0520.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2396,7 +2394,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I just want to get a beer.”
 
-## S5 E21 — White Whale
+## S5 E21 — 21. White Whale
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0521.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2420,7 +2418,7 @@ Watch for:
   - “I got my groom gut to agree to a more basic wine package.”
   - “We're drinking the wine with the foot on the label, but it's a huge savings and we can make up the rest if we just assemble the gift bags ourselves.”
 
-## S5 E22 — Jake & Amy
+## S5 E22 — 22. Jake & Amy
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0522.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2494,7 +2492,7 @@ Watch for:
 
 ## S6 E3 — 3. The Tattler
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0603.html
-Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
+Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “He lost his virginity when he was 12 years old.”
@@ -2640,7 +2638,7 @@ Watch for:
   - “Sorry, folks, we've discovered a large quantity of cocaine in Lieutenant Santiago's desk.”
   - “So what you're saying is, you're not addicted to cocaine? Amy, it's me.”
 
-## S6 E10 — Gintars
+## S6 E10 — 10. Gintars
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0610.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2664,7 +2662,7 @@ Watch for:
   - “They can detect trace amounts of blood, even if it's been cleaned with bleach.”
   - “So I understand you have a potential crime scene, and you'd like to find some blood.”
 
-## S6 E11 — The Therapist
+## S6 E11 — 11. The Therapist
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0611.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2696,7 +2694,7 @@ Watch for:
   - “Or when you were falsely accused of bank robbery - and went to prison? - Was that a big deal? You joined a gang and tried meth! I didn't want to be anyone's bitch.”
   - “Was he drunk? - One can only assume.”
 
-## S6 E12 — Casecation
+## S6 E12 — 12. Casecation
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0612.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2711,7 +2709,7 @@ Watch for:
 - Swearing — 1 moment(s)
   - “I'm gonna eat you alive, you dumb son of a bitch.”
 
-## S6 E13 — The Bimbo
+## S6 E13 — 13. The Bimbo
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0613.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2725,7 +2723,7 @@ Watch for:
   - “People are pissed.”
   - “What the hell? We rented a party limo, drove to Coney Island for hot dogs, and then did karaoke the entire time.”
 
-## S6 E14 — Ticking Clocks
+## S6 E14 — 14. Ticking Clocks
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0614.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2752,7 +2750,7 @@ Watch for:
   - “How is she running so fast in those shoes? She's too drunk to feel any pain.”
   - “You guys, I used to have this boyfriend, Jason, then we broke up 'cause I got drunk at Spring Fling and passed out in a bush, and he took too long to find me, and now he's gone and it's…”
 
-## S6 E15 — Return of the King
+## S6 E15 — 15. Return of the King
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0615.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2775,7 +2773,7 @@ Watch for:
   - “Champagne's in the fridge.”
   - “I'm gonna take a rain check on the champagne, but it was wonderful seeing you.”
 
-## S6 E16 — Cinco De Mayo
+## S6 E16 — 16. Cinco De Mayo
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0616.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
@@ -2797,7 +2795,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Stop, stop! No trumpets! Not today! My head is killing me! Hit the tequila a little early, huh? I'm not hung over, Hitchcock.”
 
-## S6 E17 — Sicko
+## S6 E17 — 17. Sicko
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0617.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2833,7 +2831,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “101 years old, and immediately racist on the phone.”
 
-## S6 E18 — Suicide Squad
+## S6 E18 — 18. Suicide Squad
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0618.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:

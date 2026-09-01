@@ -28,8 +28,8 @@
       "season": 1,
       "episode": 1,
       "code": "0101",
-      "title": "Wednesday's Child is Full of Woe",
-      "index_title": "Wednesday's Child is Full of Woe",
+      "title": "Chapter I: Wednesday's Child Is Full of Woe",
+      "index_title": "Chapter I: Wednesday's Child Is Full of Woe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e01",
       "file": "transcripts/wednesday/s01e01-wednesday-s-child-is-full-of-woe.txt",
       "summary": "When a deliciously wicked prank gets Wednesday expelled, her parents ship her off to Nevermore Academy, the boarding school where they fell in love.",
@@ -186,8 +186,8 @@
       "season": 1,
       "episode": 2,
       "code": "0102",
-      "title": "Woe is the Loneliest Number",
-      "index_title": "Woe is the Loneliest Number",
+      "title": "Chapter II: Woe Is the Loneliest Number",
+      "index_title": "Chapter II: Woe Is the Loneliest Number",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e02",
       "file": "transcripts/wednesday/s01e02-woe-is-the-loneliest-number.txt",
       "summary": "The sheriff questions Wednesday about the night's strange happenings. Later, Wednesday faces off against a fierce rival in the cutthroat Poe Cup race.",
@@ -408,8 +408,8 @@
       "season": 1,
       "episode": 3,
       "code": "0103",
-      "title": "Friend or Woe",
-      "index_title": "Friend or Woe",
+      "title": "Chapter III: Friend or Woe",
+      "index_title": "Chapter III: Friend or Woe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e03",
       "file": "transcripts/wednesday/s01e03-friend-or-woe.txt",
       "summary": "Wednesday stumbles on a secret society. During Outreach Day, Nevermore's outcasts mingle with Jericho's normies in Pilgrim World. Fudge, anyone?",
@@ -606,8 +606,8 @@
       "season": 1,
       "episode": 4,
       "code": "0104",
-      "title": "Woe What a Night",
-      "index_title": "Woe What a Night",
+      "title": "Chapter IV: Woe What a Night",
+      "index_title": "Chapter IV: Woe What a Night",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e04",
       "file": "transcripts/wednesday/s01e04-woe-what-a-night.txt",
       "summary": "Wednesday asks Xavier to the Rave'N dance, sparking Tyler's jealousy — but Thing's got something up his sleeve. Meanwhile, Eugene stakes out the cave.",
@@ -659,7 +659,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "These murders aren't mindless.",
-            "count": 7,
+            "count": 6,
             "intensity": 3,
             "mode": "implied",
             "instances": [
@@ -667,14 +667,6 @@
                 "kind": "note",
                 "speaker": null,
                 "text": "These murders aren't mindless.",
-                "mode": "implied",
-                "intensity": 3,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "about an ongoing murder investigation",
                 "mode": "implied",
                 "intensity": 3,
                 "at": "early"
@@ -800,8 +792,8 @@
       "season": 1,
       "episode": 5,
       "code": "0105",
-      "title": "You Reap What You Woe",
-      "index_title": "You Reap What You Woe",
+      "title": "Chapter V: You Reap What You Woe",
+      "index_title": "Chapter V: You Reap What You Woe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e05",
       "file": "transcripts/wednesday/s01e05-you-reap-what-you-woe.txt",
       "summary": "During Parents Weekend, Wednesday digs into her family's past — and accidentally gets her dad arrested. Enid feels the pressure to \"wolf out.\"",
@@ -1070,8 +1062,8 @@
       "season": 1,
       "episode": 6,
       "code": "0106",
-      "title": "Quid Pro Woe",
-      "index_title": "Quid Pro Woe",
+      "title": "Chapter VI: Quid Pro Woe",
+      "index_title": "Chapter VI: Quid Pro Woe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e06",
       "file": "transcripts/wednesday/s01e06-quid-pro-woe.txt",
       "summary": "Wednesday's friends throw her a surprise birthday party. They mean well... but she'd much rather mark the miserable occasion by solving the murders.",
@@ -1095,7 +1087,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "was accused of murdering.",
-            "count": 3,
+            "count": 2,
             "intensity": 3,
             "mode": "implied",
             "instances": [
@@ -1106,14 +1098,6 @@
                 "mode": "implied",
                 "intensity": 3,
                 "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "You're the Raven in my bloodline.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
               },
               {
                 "kind": "note",
@@ -1221,8 +1205,8 @@
       "season": 1,
       "episode": 7,
       "code": "0107",
-      "title": "If You Don't Woe Me By Now",
-      "index_title": "If You Don't Woe Me By Now",
+      "title": "Chapter VII: If You Don't Woe Me by Now",
+      "index_title": "Chapter VII: If You Don't Woe Me by Now",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e07",
       "file": "transcripts/wednesday/s01e07-if-you-don-t-woe-me-by-now.txt",
       "summary": "Kooky Uncle Fester pays a visit and shares his theory about the monster. Wednesday begrudgingly agrees to a date with Tyler at Crackstone's crypt.",
@@ -1343,8 +1327,8 @@
       "season": 1,
       "episode": 8,
       "code": "0108",
-      "title": "A Murder of Woes",
-      "index_title": "A Murder of Woes",
+      "title": "Chapter VIII: A Murder of Woes",
+      "index_title": "Chapter VIII: A Murder of Woes",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s01e08",
       "file": "transcripts/wednesday/s01e08-a-murder-of-woes.txt",
       "summary": "Wednesday lands in trouble with Principal Weems, but that's just the start of her problems. To fight an ancient evil, she'll need all her friends' help.",
@@ -1501,8 +1485,8 @@
       "season": 2,
       "episode": 1,
       "code": "0201",
-      "title": "Here We Woe Again",
-      "index_title": "Here We Woe Again",
+      "title": "Chapter I: Here We Woe Again",
+      "index_title": "Chapter I: Here We Woe Again",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e01",
       "file": "transcripts/wednesday/s02e01-here-we-woe-again.txt",
       "summary": "After a productive summer break, Wednesday returns to Nevermore as a grudging campus celebrity — and the target of a dangerous stalker.",
@@ -1512,7 +1496,7 @@
       "overall": 3,
       "age": 11,
       "verdict": "Preview first — about 11+",
-      "why": "Sits in the gray area mainly on violence & injury (explicit, shown on screen).",
+      "why": "Sits in the gray area mainly on violence & injury (explicit, implied).",
       "themes": {
         "fine": [
           "Light comedy tone"
@@ -1524,19 +1508,11 @@
           {
             "theme": "Violence & injury",
             "group": "violence",
-            "how": "murder of crows caw persistently",
-            "count": 6,
+            "how": "falsely accused of murder,",
+            "count": 4,
             "intensity": 3,
-            "mode": "on-screen",
+            "mode": "implied",
             "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "murder of crows caw persistently",
-                "mode": "on-screen",
-                "intensity": 3,
-                "at": "early"
-              },
               {
                 "kind": "note",
                 "speaker": null,
@@ -1564,14 +1540,6 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "and no one from our bloodline",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
                 "text": "the easiest punching bags.",
                 "mode": "implied",
                 "intensity": 1,
@@ -1585,7 +1553,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Violence & injury — murder of crows caw persistently"
+        "Violence & injury — falsely accused of murder,"
       ],
       "notes": null,
       "flags": [],
@@ -1595,8 +1563,8 @@
       "season": 2,
       "episode": 2,
       "code": "0202",
-      "title": "The Devil You Woe",
-      "index_title": "The Devil You Woe",
+      "title": "Chapter II: The Devil You Woe",
+      "index_title": "Chapter II: The Devil You Woe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e02",
       "file": "transcripts/wednesday/s02e02-the-devil-you-woe.txt",
       "summary": "Chaos reigns on campus as Nevermore celebrates its annual Prank Day. Wednesday confronts an old enemy and gains an unwanted ally.",
@@ -1635,14 +1603,6 @@
               {
                 "kind": "note",
                 "speaker": null,
-                "text": "Murdered by a murder of crows.",
-                "mode": "implied",
-                "intensity": 3,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
                 "text": "This isn't Galpin. He was murdered.",
                 "mode": "implied",
                 "intensity": 3,
@@ -1655,6 +1615,14 @@
                 "mode": "implied",
                 "intensity": 3,
                 "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "He was murdered last night.",
+                "mode": "implied",
+                "intensity": 3,
+                "at": "mid"
               },
               {
                 "kind": "note",
@@ -1749,13 +1717,13 @@
       "season": 2,
       "episode": 3,
       "code": "0203",
-      "title": "Call of the Woe",
-      "index_title": "Call of the Woe",
+      "title": "Chapter III: Call of the Woe",
+      "index_title": "Chapter III: Call of the Woe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e03",
       "file": "transcripts/wednesday/s02e03-call-of-the-woe.txt",
       "summary": "Stripped of both her ability and Goody's book, Wednesday is forced to do some old-fashioned detective work on a school camping trip.",
       "violence": 3,
-      "sex": 3,
+      "sex": 2,
       "language": 1,
       "overall": 3,
       "age": 11,
@@ -1767,7 +1735,6 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Affairs / cheating",
           "Violence & injury"
         ],
         "watch_detail": [
@@ -1798,28 +1765,10 @@
             ]
           },
           {
-            "theme": "Affairs / cheating",
-            "group": "sex",
-            "how": "a family affair.",
-            "count": 1,
-            "intensity": 2,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "a family affair.",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          },
-          {
             "theme": "Violence & injury",
             "group": "violence",
             "how": "Galpin was murdered",
-            "count": 7,
+            "count": 6,
             "intensity": 3,
             "mode": "implied",
             "instances": [
@@ -1846,14 +1795,6 @@
                 "mode": "implied",
                 "intensity": 3,
                 "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "for my ongoing murder investigation.",
-                "mode": "implied",
-                "intensity": 3,
-                "at": "mid"
               },
               {
                 "kind": "note",
@@ -1888,7 +1829,6 @@
       },
       "examples": [
         "Sex & hookups — I'll be sleeping with one eye open.",
-        "Affairs / cheating — a family affair.",
         "Violence & injury — Galpin was murdered"
       ],
       "notes": null,
@@ -1899,8 +1839,8 @@
       "season": 2,
       "episode": 4,
       "code": "0204",
-      "title": "If These Woes Could Talk",
-      "index_title": "If These Woes Could Talk",
+      "title": "Chapter IV: If These Woes Could Talk",
+      "index_title": "Chapter IV: If These Woes Could Talk",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e04",
       "file": "transcripts/wednesday/s02e04-if-these-woes-could-talk.txt",
       "summary": "It's an Addams family investigation as Fester and Thing commit themselves to Wednesday's case. Trying to conceal one secret, Bianca stumbles on another.",
@@ -2021,8 +1961,8 @@
       "season": 2,
       "episode": 5,
       "code": "0205",
-      "title": "Hyde and Woe Seek",
-      "index_title": "Hyde and Woe Seek",
+      "title": "Chapter V: Hyde and Woe Seek",
+      "index_title": "Chapter V: Hyde and Woe Seek",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e05",
       "file": "transcripts/wednesday/s02e05-hyde-and-woe-seek.txt",
       "summary": "With Tyler on the loose, Wednesday readies for a risky Día de los Muertos showdown. Slurp's growing hunger poses problems for Pugsley.",
@@ -2107,8 +2047,8 @@
       "season": 2,
       "episode": 6,
       "code": "0206",
-      "title": "Woe Thyself",
-      "index_title": "Woe Thyself",
+      "title": "Chapter VI: Woe Thyself",
+      "index_title": "Chapter VI: Woe Thyself",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e06",
       "file": "transcripts/wednesday/s02e06-woe-thyself.txt",
       "summary": "An encounter with a spirit from Nevermore's past gives Wednesday and Enid a new perspective on one another — and puts one of their classmates in danger.",
@@ -2241,8 +2181,8 @@
       "season": 2,
       "episode": 7,
       "code": "0207",
-      "title": "Woe Me the Money",
-      "index_title": "Woe Me the Money",
+      "title": "Chapter VII: Woe Me the Money",
+      "index_title": "Chapter VII: Woe Me the Money",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e07",
       "file": "transcripts/wednesday/s02e07-woe-me-the-money.txt",
       "summary": "As the school gala looms, Wednesday digs up dirt on Dort, Enid tries not to wolf out and Morticia engages in a battle of wills with Grandmama.",
@@ -2331,8 +2271,8 @@
       "season": 2,
       "episode": 8,
       "code": "0208",
-      "title": "This Means Woe",
-      "index_title": "This Means Woe",
+      "title": "Chapter VIII: This Means Woe",
+      "index_title": "Chapter VIII: This Means Woe",
       "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=wednesday-2022&episode=s02e08",
       "file": "transcripts/wednesday/s02e08-this-means-woe.txt",
       "summary": "When buried family secrets are unearthed, Wednesday must race against time to prevent a dark prophecy from being realized.",

@@ -9,8 +9,9 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from catalog import clean_episode_title, dedupe_codes, is_real_episode
-from shows_meta import episode_age, meta_for
+from catalog import clean_episode_title, dedupe_codes, episode_code, is_real_episode
+from shows_meta import MOVIE_SHOWS, episode_age, meta_for
+from tvmaze_catalog import filter_transcript_index, load_maze_map
 from themes import (
     build_themes,
     collect_moments,
@@ -121,7 +122,11 @@ TROPE_RULES = [
 ]
 
 # Milder cartoon violence for kids animation
-KIDS_SHOW_IDS = {"spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar", "gravity-falls", "steven-universe", "kpop-demon-hunters"}
+KIDS_SHOW_IDS = {
+    "spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar",
+    "gravity-falls", "steven-universe", "kpop-demon-hunters", "legend-of-korra",
+    "clone-wars", "owl-house", "amphibia", "pokemon",
+}
 
 SHOW_META = {
     "seinfeld": {"name": "Seinfeld", "maze": "Seinfeld"},
@@ -159,6 +164,12 @@ SHOW_META = {
     "full-house": {"name": "Full House", "maze": "Full House"},
     "wednesday": {"name": "Wednesday", "maze": "Wednesday"},
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
+    "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
+    "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},
+    "clone-wars": {"name": "Star Wars: The Clone Wars", "maze": "Star Wars: The Clone Wars"},
+    "owl-house": {"name": "The Owl House", "maze": "The Owl House"},
+    "amphibia": {"name": "Amphibia", "maze": "Amphibia"},
+    "pokemon": {"name": "Pokémon", "maze": "Pokémon"},
 }
 
 
@@ -292,6 +303,17 @@ def normalize_ep(show_id: str, raw: dict, idx: int) -> dict:
             "file": raw["file"],
         }
 
+    if show_id in MOVIE_SHOWS:
+        return {
+            "season": 0,
+            "episode": 1,
+            "code": raw.get("code") or "0001",
+            "title": title,
+            "index_title": title,
+            "url": raw.get("url"),
+            "file": file_rel,
+        }
+
     # SpongeBob / wiki dumps often lack season numbers — parse from transcript header if possible
     if season is None and file_rel:
         text = (ROOT / file_rel).read_text(errors="replace")[:2500]
@@ -307,7 +329,7 @@ def normalize_ep(show_id: str, raw: dict, idx: int) -> dict:
     if episode is None:
         episode = idx + 1
 
-    code = f"{int(season):02d}{str(episode).zfill(2) if str(episode).isdigit() else episode}"
+    code = raw.get("code") or episode_code(season, episode)
     return {
         "season": int(season) if str(season).isdigit() else season,
         "episode": episode,
@@ -323,6 +345,9 @@ def rate_show(show_id: str) -> dict:
     meta = SHOW_META.get(show_id, {"name": show_id})
     show_meta = meta_for(show_id)
     raw_eps = load_episodes(show_id)
+    maze_ids = load_maze_map()
+    if show_id in maze_ids and show_id not in MOVIE_SHOWS:
+        raw_eps = filter_transcript_index(show_id, maze_ids[show_id], raw_eps)
     ratings = []
     dropped = 0
     for i, raw in enumerate(raw_eps):

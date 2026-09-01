@@ -7,7 +7,6 @@ Buckets: 34 all clear (1–2), 123 gray area (3), 299 hard pass (4–5).
 ## S1 E1 — 1. Death Has a Shadow
 URL: https://watchwiththekids.com/ep/family-guy/0101.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter ignores his wife's warning about a bachelor party. Voices include Seth MacFarlane, Alex Borstein, Seth Green and Phil LaMarr.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “"It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?”
@@ -45,7 +44,6 @@ Watch for:
 ## S1 E2 — 2. I Never Met the Dead Man
 URL: https://watchwiththekids.com/ep/family-guy/0102.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter (voice of Seth MacFarlane) learns to live without TV when he crashes his car into a satellite dish. Meanwhile, Stewie devises a climate-control machine.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?”
@@ -70,7 +68,6 @@ Watch for:
 ## S1 E3 — 3. Chitty Chitty Death Bang
 URL: https://watchwiththekids.com/ep/family-guy/0103.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: The Griffins prepare for Stewie's first birthday party, but the precocious lad hatches a plan of his own.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “"It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?”
@@ -87,7 +84,6 @@ Watch for:
 ## S1 E4 — 4. Mind Over Murder
 URL: https://watchwiththekids.com/ep/family-guy/0104.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Under house arrest, Peter builds a bar in the basement to have his friends over. And the joint is jumpin', much to Lois' dismay.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?”
@@ -121,7 +117,6 @@ Watch for:
 ## S1 E5 — 5. A Hero Sits Next Door
 URL: https://watchwiththekids.com/ep/family-guy/0105.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter's neighbor---an award-winning ballplayer and cop---makes him feel inadequate, Peter tries to become a hero.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I was a virgin when we met.”
@@ -147,7 +142,6 @@ Watch for:
 ## S1 E6 — 6. The Son Also Draws
 URL: https://watchwiththekids.com/ep/family-guy/0106.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: On their way to New York, the Griffins take a wrong turn and end up at a Native American gambling casino, where luck proves to be no lady for Lois (voice of Alex Borstein). Comic Bobby Slayton provides the voice of a pit boss named Lenny.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “And by that I mean I'II have sex with you.”
@@ -171,7 +165,6 @@ Watch for:
 ## S1 E7 — 7. Brian: Portrait of a Dog
 URL: https://watchwiththekids.com/ep/family-guy/0107.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian leaves home after his refusal to perform during a dog show prompts a rift with Peter, who later sees Brian whisked away to the pound, where he's marked for death.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?”
@@ -198,7 +191,6 @@ Watch for:
 ## S2 E1 — 1. Peter, Peter, Caviar Eater
 URL: https://watchwiththekids.com/ep/family-guy/0201.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The Griffins are movin' on up (to a Newport mansion, specifically), when Lois inherits a "weekend house" from a rich aunt. Robin Leach provides his own voice in a "Lifestyles of the Rich and Famous" spoof.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “"It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?”
@@ -229,7 +221,6 @@ Watch for:
 ## S2 E2 — 2. Holy Crap
 URL: https://watchwiththekids.com/ep/family-guy/0202.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter's dour and devout 80-year-old father (voice of Charles Durning) moves in with the Griffins after he retires from the mill where he has worked for 50 years. He's a hellfire-and-damnation man, and he thinks family is heading south.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “What are you doing with all them bathtubs, you heathen dummy? Pop, why you gotta be like that? We cut 'em in half, stick a Virgin Mary in them and sell them as shrines.”
@@ -257,7 +248,6 @@ Watch for:
 ## S2 E3 — 3. DaBoom
 URL: https://watchwiththekids.com/ep/family-guy/0203.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The Griffins usher in the Millennium with a bang----a nuclear one. Victoria Principal and Patrick Duffy have cameos (as their "Dallas" characters Pam and Bobby Ewing) in a live-action coda to the program, in which every Y2K bug that can bite Quahog (and the rest of the world) does. But the Griffins survive and head off, "Mad Max"-like, on a sardonic odyssey through post-apocalyptic New England, where Griffin's Law prevails---until Peter shoots himself in the foot.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -284,7 +274,6 @@ Watch for:
 ## S2 E4 — 4. Brian in Love
 URL: https://watchwiththekids.com/ep/family-guy/0204.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Brian is having "accidents" (on rugs and other places) and seeks out a therapist (voice of Sam Waterston) to find out why. The therapist's conclusion: Brian's in love. The object of his yearning: Lois.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Watch as I have sex with this potentially dangerous man, as we take you in-depth and undercover.”
@@ -303,7 +292,6 @@ Watch for:
 ## S2 E5 — 5. Love Thy Trophy
 URL: https://watchwiththekids.com/ep/family-guy/0205.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter and his neighbors enter a float in Quahog's annual Harvest Festival Parade. They win, but then the trophy turns up missing and the winners all suspect each other of stealing it. Meanwhile, Meg (voice of Lacey Chabert) needs $1100 for a purse, so she takes a waitress job, and takes Stewie with her---pretending that she's an unwed mother and Stewie is her crack baby.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “" It's great they picked your theme, but isn't it a little esoteric? Esoteric? - Could it mean "sexy"? - I think it's a science term.”
@@ -325,7 +313,6 @@ Watch for:
 ## S2 E6 — 6. Death Is a Bitch
 URL: https://watchwiththekids.com/ep/family-guy/0206.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter survives a health scare but gets a killer bill. So he writes "deceased" next to his name on a form---and is visited by the Grim Reaper himself. How, Peter wonders, did Death get the form? "It was e-mailed to me by your HMO." But Death must take a forced holiday when he sprains his ankle chasing Peter, who has no desire to go gently into that good night.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I'm gonna be a virgin forever.”
@@ -349,7 +336,6 @@ Watch for:
 ## S2 E7 — 7. The King Is Dead
 URL: https://watchwiththekids.com/ep/family-guy/0207.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois is named artistic director of the Quahog Players and makes Peter the producer of the troupe's upcoming show, "The King and I." She had to find something for him to do---Peter was complaining about a lack of outlets for his "creativity" (and he certainly can't act).
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “MAN #3: I haven't had sex in ages.”
@@ -379,7 +365,6 @@ Watch for:
 ## S2 E8 — 8. I Am Peter, Hear Me Roar
 URL: https://watchwiththekids.com/ep/family-guy/0208.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter's sense of humor is no laughing matter to the woman who sues him for sexual harassment. He can escape the lawsuit, though---by attending a training session on workplace sensitivity. It's a chance for him to get in touch with his feminine side. Candice Bergen provides the voice of feminist lawyer Gloria Ironbachs.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “If you buy it, hot women will have sex in your back yard.”
@@ -409,7 +394,6 @@ Watch for:
 ## S2 E9 — 9. If I'm Dyin' I'm Lyin'
 URL: https://watchwiththekids.com/ep/family-guy/0209.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter and Chris's favorite TV show, "Gumbel 2 Gumbel," is canceled, Peter concocts a plan to get it uncanceled. He goes to the Grant-a-Dream Foundation and says that Chris is dying. His dream: bring back the Gumbels. It's granted, but Peter's "white lie" comes back to plague him.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “"It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely?”
@@ -437,10 +421,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Tonight, Katie Couric guest stars as a very perky crack whore.”
 
-## S2 E10 — Running Mates
+## S2 E10 — 10. Running Mates
 URL: https://watchwiththekids.com/ep/family-guy/0210.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter and school-board candidate Lois have divergent views on an education issue, so Peter decides to run against her. The issue: a wacky old science teacher of Peter's is fired after the school's annual "egg drop" experiment because he had the kids drop California-condor eggs. Meanwhile, Chris gets into trouble at school for peeking into the girls' locker room.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “|"It seems today that all you see "is violence in movies and sex on TV "But where are those good,|old-fashioned values "on which we used to rely?”
@@ -463,10 +446,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - PETER: “Lois Griffin is a slut.”
 
-## S2 E11 — A Picture Is Worth 1,000 Bucks
+## S2 E11 — 11. A Picture Is Worth 1,000 Bucks
 URL: https://watchwiththekids.com/ep/family-guy/0211.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: A New York art dealer sees a painting of Chris's and immediately christens "Christobel" as the next big thing in art. So the Griffins head for the Big Apple for the launch of his career. Candice Bergen, Faith Ford, Joe Regalbuto and Charles Kimbrough have cameos as their "Murphy Brown" characters.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “All right, you're sleeping with which producer?”
@@ -485,10 +467,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Mr Monatti invited us to a cocktail party so Chris can meet some artists.”
 
-## S2 E12 — Fifteen Minutes of Shame
+## S2 E12 — 12. Fifteen Minutes of Shame
 URL: https://watchwiththekids.com/ep/family-guy/0212.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Everything Lois and Peter do seems to embarrass Meg, and now the Griffins are to be featured on a reality TV show. Not surprisingly, Meg is appalled. To make matters worse for her, the audience-research report comes in and she's the "least popular."
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -512,10 +493,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “But, Dad - Upstairs! You're a McDonald, not a whore.”
 
-## S2 E13 — Road to Rhode Island
+## S2 E13 — 13. Road to Rhode Island
 URL: https://watchwiththekids.com/ep/family-guy/0213.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Hope and Crosby they're not, but Brian and Stewie do have some odd adventures when they bum their way across the country together after losing their plane tickets. In another plotline, Lois makes Peter watch a video designed to help couples communicate more effectively. Sam Waterston has a cameo as Brian's analyst. The topic: Brian's loss of his mother.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Yes, and I bet you lost your virginity to a mechanical bull.”
@@ -537,10 +517,9 @@ Watch for:
   - “Public drunkenness, grand theft auto.”
   - “We're off on the road to Rhode Island We're not gonna stop till we're there Maybe for a beer.”
 
-## S2 E14 — Let's Go to the Hop
+## S2 E14 — 14. Let's Go to the Hop
 URL: https://watchwiththekids.com/ep/family-guy/0214.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: A psychedelic drug craze (licking Colombian toads) hits Quahog's teens, so Peter goes undercover at the high school to stop it, and ends up being the most popular guy in school. Scenes send up John Hughes movies and "Grease."
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -551,10 +530,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “If you want to be a Supreme Court justice, you gotta pick up that cherry with your butt cheeks and drop it in that beer.”
 
-## S2 E15 — Dammit Janet
+## S2 E15 — 15. Dammit Janet
 URL: https://watchwiththekids.com/ep/family-guy/0215.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Lacking excitement in her life, Lois decides to get a job, and Peter steers her toward being a flight attendant (because husbands fly free). Elsewhere, Stewie is dispatched to a day-care center, where he promptly falls in love with a girl named Janet (voice of Tara Charendoff). This rattles him. "I want absolutely nothing to do with the wretched enterprise," he declares, to no avail.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Oh, yeah, if you like runnin' through a gauntlet of drunk, horny businessmen.”
@@ -568,10 +546,9 @@ Watch for:
   - “Hey, throw me a beer, would ya? Stewardess, the plane just made my beer spill.”
   - “Sir, all your beers have been free.”
 
-## S2 E16 — There's Something About Paulie
+## S2 E16 — 16. There's Something About Paulie
 URL: https://watchwiththekids.com/ep/family-guy/0216.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter finds himself tied to the mob after he buys a car that turns out to be a lemon, and a wiseguy (voice of Jon Cryer) offers lemon aid. Other guest voices include Michael Chiklis (Big Fat Paulie) and Alan King (the Don).
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -585,10 +562,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “This is my friend, Big Fat Paulie, and, uh this is his big fat ass.”
 
-## S2 E17 — He's Too Sexy for His Fat
+## S2 E17 — 17. He's Too Sexy for His Fat
 URL: https://watchwiththekids.com/ep/family-guy/0217.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Tired of being overweight, Chris (voice of Seth Green) decides to diet and exercise. That doesn't work, but there's always liposuction and plastic surgery---if not for Chris, then for another Griffin man (Peter---the one with the fat head).
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It's too bad you can't have some - it's practically orgasmic! Oh, yes! Yes! Oh! Oh! - Yes! Yes! - I'll have what he's having.”
@@ -616,10 +592,9 @@ Watch for:
   - “Honey, if you wanna lose weight, I'll put you on a diet and your father can help you exercise.”
   - “Go away! Wow, Chris, did you lose weight? Maybe.”
 
-## S2 E18 — E. Peterbus Unum
+## S2 E18 — 18. E. Peterbus Unum
 URL: https://watchwiththekids.com/ep/family-guy/0218.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When Peter goes to City Hall for a pool permit, he discovers that the Griffin house is not located in Quahog---or even in the U.S. And so a new nation---Petoria---is born. Not surprisingly, Peter (voice of series creator Seth MacFarlane) proves to be a saber-rattler, and that leads to a cooling in U.S.-Petorian relations.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -633,10 +608,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “That's Petorian for "More beer, you slappy-wag.”
 
-## S2 E19 — The Story on Page One
+## S2 E19 — 19. The Story on Page One
 URL: https://watchwiththekids.com/ep/family-guy/0219.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Luke Perry (who provides his own voice) is the subject of Meg's journalistic excess. Actually, it's Peter's: he writes an article "outing" Perry (with no evidence whatsoever), puts Meg's name on it and submits it to her school newspaper.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -652,10 +626,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Behind the fat chick! - Nope? - (Stewie) D'oh! OK.”
 
-## S2 E20 — Wasted Talent
+## S2 E20 — 20. Wasted Talent
 URL: https://watchwiththekids.com/ep/family-guy/0220.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The men of Quahog drink themselves into stupors trying to win a contest sponsored by the mysterious brewer Pawtucket Pete. The prize: a tour of his near-mystical brewery (and a lifetime supply of beer). Meanwhile, Lois (voice of Alex Bornstein), a frustrated pianist who competes vicariously through the students she teaches, finds one with real promise just before a big competition.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -681,10 +654,9 @@ Watch for:
   - “You can only play the piano when you're drunk! That's not true.”
   - “I can't do it without booze.”
 
-## S2 E21 — Fore, Father
+## S2 E21 — 21. Fore, Father
 URL: https://watchwiththekids.com/ep/family-guy/0221.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Chris takes up with Quagmire when he feels neglected by Peter, who coaches Cleveland Jr. to play with him in a golf tournament.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -697,7 +669,6 @@ Watch for:
 ## S3 E1 — 1. The Thin White Line (1)
 URL: https://watchwiththekids.com/ep/family-guy/0301.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Family dog Brian is "in a rut" so he tries volunteerism, then takes a job as a dope-sniffing narc for the Quahog P.D. Trouble is, he likes what he sniffs a bit too much.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -711,7 +682,6 @@ Watch for:
 ## S3 E2 — 2. Brian Does Hollywood (2)
 URL: https://watchwiththekids.com/ep/family-guy/0302.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian heads to Hollywood to be screenwriter and the others follow when Stewie is chosen to be on "Kids Say the Darndest Things." Stewie doesn't exactly hit it off with host Bill Cosby but Brian does make his mark in show business, if not in the way he had intended (as a porn "auteur").
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “|- Last night I had sex with a black chick.”
@@ -742,7 +712,6 @@ Watch for:
 ## S3 E3 — 3. Mr. Griffin Goes to Washington
 URL: https://watchwiththekids.com/ep/family-guy/0303.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: A conglomerate buys Happy Go Lucky Toys and installs Peter (voice of series creator Seth McFarlane) as president. The conglomerate also owns a tobacco company, and before long Peter is on his way to Washington to testify before Congress on the benefits of smoking.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -774,7 +743,6 @@ Watch for:
 ## S3 E4 — 4. One If By Clam, Two If By Sea
 URL: https://watchwiththekids.com/ep/family-guy/0304.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Peter and his pals catch a beer-besotted version of the "Spirit of '76" when a Brit buys the Drunken Clam and turns it into an English pub. As it happens, pub owner Nigel Pinchley (voice of series creator Seth MacFarlane) and his family move in next door to the Griffins, and Stewie (also voiced by MacFarlane) plays 'Enry 'Iggins to Nigel's Cockney-accented 3-year-old daughter.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -801,7 +769,6 @@ Watch for:
 ## S3 E5 — 5. And the Wiener is...
 URL: https://watchwiththekids.com/ep/family-guy/0305.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Meg makes the flag-girl squad at James Woods High. That's "almost a cheerleader," she boasts, but it doesn't impress the cool kids. Meanwhile, Peter (voice of series creator Seth MacFarlane) develops a severe case of Chris-envy.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -825,7 +792,6 @@ Watch for:
 ## S3 E6 — 6. Death Lives
 URL: https://watchwiththekids.com/ep/family-guy/0306.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter pays a price when he plays golf on his anniversary---he's struck by lightning. Adam Carolla provides the voice of the Grim Reaper, who guides Peter through his "near death experience," which leads to a "revelation" concerning Lois. Also, Peter offers the Reaper dating tips.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -843,7 +809,6 @@ Watch for:
 ## S3 E7 — 7. Lethal Weapons
 URL: https://watchwiththekids.com/ep/family-guy/0307.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: With a few tae-jitsu lessons under her black belt, Lois (voice of Alex Borstein) turns herself into Quahog's answer to Xena, cutting a wide swath through the hordes of obnoxious leaf-peeping tourists from New York. But soon her violent ways begin to hit home.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You're in my seat,|and I had sex with your mother last night.”
@@ -874,7 +839,6 @@ Watch for:
 ## S3 E8 — 8. The Kiss Seen Around the World
 URL: https://watchwiththekids.com/ep/family-guy/0308.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Meg (voice of Mila Kunis) gets an internship at a TV station. It's a dream job...because she thinks the station's male anchor is dreamy. But it turns nightmarish when the station's other intern, "the biggest dork on the planet," gets a crush on her. Meanwhile, a bully steals Stewie's tricycle.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -895,7 +859,6 @@ Watch for:
 ## S3 E9 — 9. Mr. Saturday Knight
 URL: https://watchwiththekids.com/ep/family-guy/0309.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter's boss, Mr. Weed, dies suddenly (at the Griffins' house, as it happens), and the toy factory dies with him. Not surprisingly, Peter's "career transition" is less than smooth. Then he decides to follow his 25-year-old dream and become a jouster at Quahog's Renaissance Faire.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -919,10 +882,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Hey, what's your fat ass doing here? He's my only means of conveyance.”
 
-## S3 E10 — Fish Out of Water
+## S3 E10 — 10. Fish Out of Water
 URL: https://watchwiththekids.com/ep/family-guy/0310.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: A jobless Peter decides on a line of work fit for "a real New England man": He becomes a fisherman. But there's something fishy about the bank that finances his boat. Meanwhile, Meg and Lois do some serious spring-break partying (Lois does, anyway) at Rhode Island's Narragansett Beach.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -944,10 +906,9 @@ Watch for:
   - “How am I gonna come up with 50 grand? You could whore yourself out to|a thousand fat chicks for 50 bucks apiece.”
   - “You can whore yourself out|to a thousand fat chicks for 50 bucks.”
 
-## S3 E11 — Emission Impossible
+## S3 E11 — 11. Emission Impossible
 URL: https://watchwiththekids.com/ep/family-guy/0311.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: After Peter helps deliver Lois's sister's baby, he and Lois decide to try to have another kid, but Stewie will attempt to foil their new plan.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “I found my baby book! Hey, here's the broken condom|that led to my birth.”
@@ -969,10 +930,9 @@ Watch for:
   - “|I'll feel like a fatty.”
   - “Like I could! He's so fat.”
 
-## S3 E12 — To Live and Die in Dixie
+## S3 E12 — 12. To Live and Die in Dixie
 URL: https://watchwiththekids.com/ep/family-guy/0312.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Waylon Jennings has a voice cameo in an episode in which the Griffins discover Southern hospitality---courtesy of the Witness Protection Program. They're in hiding because the convenience-store thief Chris fingers escapes from jail and vows revenge. But should he track Chris (voice of Seth Green) down, he'll have to contend with Sheriff Peter Griffin (series creator Seth MacFarlane).
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -1001,10 +961,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Get your fat ass back here.”
 
-## S3 E13 — Screwed the Pooch
+## S3 E13 — 13. Screwed the Pooch
 URL: https://watchwiththekids.com/ep/family-guy/0313.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter can't stop trying to impress Lois's father, Mr. Pewterschmidt, and Brian can't take his eye off Pewterschmidt's racing grayhound. Bob Barker has a voice cameo as himself. Series creator Seth MacFarlane provides the voices of Peter, Brian, Pewterschmidt, Bill Gates, an ape and a cockroach.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “But first I want you to testify|against that horny mutt of yours.”
@@ -1020,10 +979,9 @@ Watch for:
   - “Oh, so I should treat him|like a high-class whore.”
   - “Stop! Brian, come quick! - Oh, my God! Those aren't my puppies!|- Then whose are they? (barking) You! You're a whore! A filthy, filthy whore! You must be so relieved.”
 
-## S3 E14 — Peter Griffin: Husband, Father...Brother?
+## S3 E14 — 14. Peter Griffin: Husband, Father...Brother?
 URL: https://watchwiththekids.com/ep/family-guy/0314.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Chris adopts hip-hop speech, Peter (who can't understand a word he's saying) decides to teach his son about his roots. He makes a startling discovery. Meanwhile, Stewie becomes enchanted with the Buddy Cianci Junior High cheerleaders.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I gotta tell Bonnie|I'm sleeping with a black man! Oh, my God! Update! Exclam!|Scott Martin just asked me out again! Oh, my God.”
@@ -1045,10 +1003,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Yo, did y'all check me when|that hottie was all up in my Kool-Aid? I was lookin' to break off somethin', but my crew gave me the 411 on that skank|and she's all about the bling-bling.”
 
-## S3 E15 — Ready, Willing, and Disabled
+## S3 E15 — 15. Ready, Willing, and Disabled
 URL: https://watchwiththekids.com/ep/family-guy/0315.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Joe, Quahog's disabled cop, is depressed after failing to nab a perp, so Peter suggests he compete in the Special People's Games as a confidence booster. His event: the decathlon. His competition: "a trash-talking quadriplegic" (voice of series creator Seth MacFarlane). Tony Danza and Valerie Bertinelli have voice cameos as actors playing Joe and his wife, Bonnie, in a movie.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -1070,10 +1027,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Oh, my God!|- Get your fat ass over to Joe's.”
 
-## S3 E16 — A Very Special Family Guy Freakin' Christmas
+## S3 E16 — 16. A Very Special Family Guy Freakin' Christmas
 URL: https://watchwiththekids.com/ep/family-guy/0316.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: It may be the season, but Peter's anything but merry when holiday preparations prevent him from watching his favorite Christmas special, "KISS Saves Santa." And soon the family experiences the same lack of spirit when they're compelled to do last-minute shopping. Members of KISS provide their own voices.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I am the Virgin Mary.”
@@ -1085,10 +1041,9 @@ Watch for:
   - “I don't have a hangover.”
   - “So I can drink beer and watch TV?|Because Kiss Saves Santa is on.”
 
-## S3 E17 — Brian Wallows and Peter's Swallows
+## S3 E17 — 17. Brian Wallows and Peter's Swallows
 URL: https://watchwiththekids.com/ep/family-guy/0317.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Brian, depressed over bad luck in love, is convicted of DUI and sentenced to care for an ornery old woman whose past comes to the attention of celebrity watcher A.J. Benza. Meanwhile, Peter grows a beard, which displeases Lois (who isn't alone in thinking that it's for the birds).
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -1108,10 +1063,9 @@ Watch for:
   - “(" "One" by Three Dog Night) You are a filthy whore.”
   - “…a family place with lots to do "Where in the '50s, a man could mingle|with scores of all the seediest whores "Now his children can, too "You heard it from the canine's mouth "The country's changed -|that is, except…”
 
-## S3 E18 — From Method to Madness
+## S3 E18 — 18. From Method to Madness
 URL: https://watchwiththekids.com/ep/family-guy/0318.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stewie displays some show-business talent---as long as he's paired with a girl he despises; Meg develops a crush on a teenage nudist. Fred Willard has a voice cameo as the boy's father (who's also a nudist).
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -1132,10 +1086,9 @@ Watch for:
   - “But it was wasted.”
   - “Wasted on all of you! Well, it looks like we have to|reconsider.”
 
-## S3 E19 — Stuck Together, Torn Apart
+## S3 E19 — 19. Stuck Together, Torn Apart
 URL: https://watchwiththekids.com/ep/family-guy/0319.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Lois runs into an old male friend from school and they renew their friendship. When Peter finds out, he gets jealous, to say the least. Meanwhile, Brian and Stewie get themselves stuck together with industrial-strength glue. Jennifer Love Hewitt has a voice cameo as herself.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “"It seems today that all you see "Is violence in movies and sex on TV "But where are those|good old-fashioned values "On which we used to rely?”
@@ -1163,10 +1116,9 @@ Watch for:
   - “Please! Where my eyes are half-closed?|- God, just take the damn compliment! - What is Lois doing with another man?|- Is it possible she's a whore?”
   - “Probably that skank who needed a ride.”
 
-## S3 E20 — Road to Europe
+## S3 E20 — 20. Road to Europe
 URL: https://watchwiththekids.com/ep/family-guy/0320.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian and Stewie stow away on a plane they think is bound for England. They're wrong, and soon they're in Saudi Arabia, at the beginning of a long, strange trip back home. Meanwhile, back in the U.S., Peter and Lois have an odd encounter with KISS.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “(drilling) - We can go to KISS-Stock!|- (pained yell) (" theme music) - (Peter) Yo, Lois!|- What? I'm packing and can't find|my favourite underwear.”
@@ -1187,10 +1139,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “"There's not a whole lot|that we've got to agree on "Cos I love the strains of a classical score "And I like that singer|who looks like a whore - Ricky Martin?|- Love him!”
 
-## S3 E21 — Family Guy Viewer Mail (1)
+## S3 E21 — 21. Family Guy Viewer Mail (1)
 URL: https://watchwiththekids.com/ep/family-guy/0321.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Three mini-episodes. In the first, a genie grants Peter three wishes and he ends up being propositioned by Catherine Zeta-Jones (voice of Alex Borstein). Then, exposure to toxic waste gives the Griffins super powers (one per Griffin). Finally, in flashbacks, L'il Peter braves a haunted house (for awhile) to impress L'il Lois.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “|Will you sleep with me? I'll have to pass.”
@@ -1206,10 +1157,9 @@ Watch for:
   - “|- Britney? What are you doing here? I was in the neighbourhood -|I'm gonna steal one of your beers - and I figured I'd stop by and say hi.”
   - “|They can be stopped! You can't stop us, Mayor West!|We are all-powerful! Clearly you've let yourselves|become drunk with power.”
 
-## S3 E22 — When You Wish Upon a Weinstein
+## S3 E22 — 22. When You Wish Upon a Weinstein
 URL: https://watchwiththekids.com/ep/family-guy/0322.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: The day that Peter buys volcano insurance is the day that Lois becomes fed up with their constant money problems. When Peter wishes for a Jewish "money guy" to help them, Max Weinstein comes to the rescue. After meeting Max, Peter decides Chris could be successful if he converted to Judaism as soon as possible, but the plans for a "quickie" bar mitzvah in Las Vegas are quickly foiled by Lois.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Enough foreplay.”
@@ -1218,7 +1168,6 @@ Watch for:
 ## S4 E1 — 1. North by North Quahog
 URL: https://watchwiththekids.com/ep/family-guy/0401.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter decides to take Lois on a second honeymoon. But when things go awry, they end up posing as a famous actor/director to stay in his fancy hotel suite, where they inadvertently discover a copy of "The Passion of the Christ 2: Crucify This." Peter and Lois attempt to destroy the film and end up in a high-speed chase with two Catholic priests hell-bent on saving the movie.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -1240,7 +1189,6 @@ Watch for:
 ## S4 E2 — 2. Fast Times at Buddy Cianci Jr. High
 URL: https://watchwiththekids.com/ep/family-guy/0402.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Chris' teacher wins the lotto and quits, Brian fills in as the substitute. All's well until Brian is moved to another class where he must teach troubled kids to aim low. Meanwhile, Chris is instantly smitten with his new teacher, Mrs. Lockhart, who promises to be with him if he kills her husband. But when Lois finds the teacher's written instructions in Chris' laundry, she and Stewie conspire together to find answers and teach Chris a lesson.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “So, I brought you a condom.”
@@ -1281,7 +1229,6 @@ Watch for:
 ## S4 E3 — 3. Blind Ambition
 URL: https://watchwiththekids.com/ep/family-guy/0403.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter becomes jealous of his friends' achievements - Mort bowls a perfect game, Joe gets a guilty Quagmire off on unsavory charges and Quagmire accidentally saves a woman's life - so he decides to break a Guinness record to achieve something that he will be remembered for after he dies. After accidentally blinding himself, Peter wanders into the Drunken Clam while it's on fire and unknowingly saves Horace from the flames, becoming a local hero.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -1296,7 +1243,6 @@ Watch for:
 ## S4 E4 — 4. Don't Make Me Over
 URL: https://watchwiththekids.com/ep/family-guy/0404.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Meg asks a cute boy at school on a date and he turns her down, she looks to her family for support. In an effort to cheer her up, Lois takes Meg to the mall, where she gets the ultimate makeover. Meanwhile, Peter tries to start a band with the guys, but it's Meg's new look that has the record producers singing their praises. So the Griffins form a traveling family band that takes them all the way to New York to perform on "Saturday Night Live".
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Give me "Sperm Dumpster.”
@@ -1316,7 +1262,6 @@ Watch for:
 ## S4 E5 — 5. The Cleveland-Loretta Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/0405.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Peter hears screams coming from Cleveland and Loretta's house, he tries to help but discovers Loretta in a compromising position. Peter identifies the other man as Quagmire and decides to tell Cleveland of his wife's extracurricular activities. But when Loretta walks out on Cleveland he doesn't take it lying down.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Peter, he's the one we saw sleeping with Loretta!”
@@ -1346,7 +1291,6 @@ Watch for:
 ## S4 E6 — 6. Petarded
 URL: https://watchwiththekids.com/ep/family-guy/0406.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: At a game night among friends, Lois lets Peter win at Trivial Pursuit, which leads Peter to gloat and think he's a genius. Brian knows the truth and challenges Peter to prove his intelligence by getting an IQ test. But when the test results determine Peter is legally mentally challenged, everyone ends up looking stupid.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -1367,7 +1311,6 @@ Watch for:
 ## S4 E7 — 7. Brian the Bachelor
 URL: https://watchwiththekids.com/ep/family-guy/0407.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When "The Bachelorette" comes to Quahog, they recruit Brian to be a contestant. He signs up for the free martinis and food, but ends up falling in love with the reality starlet, Brooke. Brian wins her heart - and the final rose - but when the cameras are turned off, this romance made in TV heaven takes a turn for the worse. Meanwhile, Chris gets a horrible case of acne.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Glenn, will you accept this rose? Really? After I drugged you and tried to have sex with your unconscious body? - What? - Yes.”
@@ -1394,7 +1337,6 @@ Watch for:
 ## S4 E8 — 8. 8 Simple Rules for Buying My Teenage Daughter
 URL: https://watchwiththekids.com/ep/family-guy/0408.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter runs up a tab at the local pharmacy, the only way out of paying the bill is to sell Meg to the owner's son, Neil, who has been stalking her for months. But when Neil starts dating another girl, Meg becomes jealous and goes on the hunt to find a boyfriend of her own. Meanwhile, Stewie goes gaga over his hot new babysitter, Liddane.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Why don't you give me some condoms? And some Excedrin.”
@@ -1419,7 +1361,6 @@ Watch for:
 ## S4 E9 — 9. Breaking Out Is Hard to Do
 URL: https://watchwiththekids.com/ep/family-guy/0409.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Lois is short on cash and can't pay her grocery store bill, she resorts to stealing. The adrenaline rush from shoplifting sends her on a stealing spree that spirals out of control and leaves her behind bars. Back at home, the family is a mess without Lois, so Peter and the kids decide to break her out of the clinker to get things back to normal.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “So I finally tried Viagra and- We got a joker in the audience there.”
@@ -1428,10 +1369,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “This sucks worse than that time I did cocaine with KarI Malden.”
 
-## S4 E10 — Model Misbehavior
+## S4 E10 — 10. Model Misbehavior
 URL: https://watchwiththekids.com/ep/family-guy/0410.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When the Griffins visit Lois' parents, Lois realizes that her father prevented her from fulfilling her lifelong dream of becoming a model, so she returns to Quahog and hits the catwalk. Lois is an instant hit, but the glamorous world goes to her head and Peter has to step in to get her back on track. Meanwhile, Stewie starts a pyramid scheme business and hires Brian as his assistant.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Sorry, you have to sleep with Rob Schneider tonight.”
@@ -1453,10 +1393,9 @@ Watch for:
   - “So, which of the Latin countries are you from? The one with the civiI war, the one with the cocaine or the one with the fancy hats? Isn't this fun, Peter? You and I get to stay in my old high-schooI room.”
   - “I mean, she's acting crazier than I did that time I tried Ecstasy.”
 
-## S4 E11 — Peter's Got Woods
+## S4 E11 — 11. Peter's Got Woods
 URL: https://watchwiththekids.com/ep/family-guy/0411.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Brian attends a PTA meeting, he meets Meg's high school teacher and starts to date her. This new relationship puts a strain on Peter and Brian's friendship, so Peter finds solace in new best friend, James Woods. Meanwhile, -The Da Vinci Code- leaves Stewie unable to sleep .
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Some flowery, 300-page, menopausaI masturbatory aid.”
@@ -1480,10 +1419,9 @@ Watch for:
   - “I'm not going to avoid Peter like the drunk chick at a party.”
   - “What do you say you and me go get a couple of beers, maybe we could Fine.”
 
-## S4 E12 — Perfect Castaway
+## S4 E12 — 12. Perfect Castaway
 URL: https://watchwiththekids.com/ep/family-guy/0412.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter and the guys go on a fishing trip, they end up in choppy waters that leave them stranded on a desert island. Months later, the guys are rescued from the island and Peter returns home to discover the new man of the house has a bark that's worse than his bite.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -1509,10 +1447,9 @@ Watch for:
   - “How'd you get the wine coolers? Oh, it's I just did some stuff for a guy in the parking lot.”
   - “I'll have a triple cheeseburger and a large fries and Do you sell pants? Hey, Meg, what's with all the beer cans? My dad got a job at the brewery and he gets lots of free beer.”
 
-## S4 E13 — Jungle Love
+## S4 E13 — 13. Jungle Love
 URL: https://watchwiththekids.com/ep/family-guy/0413.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Chris discovers he'll be hazed as part of a high school ritual, he runs away to South America, where he assimilates to the uncivilized, tribal culture. Meanwhile, Peter is forced to look for a job, but after several failed attempts he decides he's tired of starting at the bottom of the ladder. While Peter visits Chris in the South American jungle, tribal members treat him like a god, but both Peter and Chris learn that they can't run away from their problems forever.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “Don't you mean a condom? Meg, hefty, hefty, hefty.”
@@ -1545,10 +1482,9 @@ Watch for:
   - “Especially when you provide the free beer.”
   - “Yeah, like we could get her drunk and take turns having sex with her.”
 
-## S4 E14 — Ptv
+## S4 E14 — 14. Ptv
 URL: https://watchwiththekids.com/ep/family-guy/0414.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After a controversial mishap occurs during a live broadcast, the FCC begins to censor all of Peter's favorite television shows. Peter retaliates by creating his own TV station - PTV - which he operates out of the Griffin home. Peter and Brian create some edgy hits for the station, until the FCC shows up and starts to regulate their everyday life.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “John Boy? - Can't a guy masturbate? Peter, look at these numbers.”
@@ -1576,10 +1512,9 @@ Watch for:
   - “We'll spend the day crapping off things that others have dared us to crap off.”
   - “Damn! And the motion carries.”
 
-## S4 E15 — Brian Goes Back to College
+## S4 E15 — 15. Brian Goes Back to College
 URL: https://watchwiththekids.com/ep/family-guy/0415.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: After writing a story for a local magazine, Brian lands a job with the prestigious New Yorker. However, his college dropout status haunts him so he decides to go back to Brown University to get his degree. As Brian struggles to pass his class, Stewie enjoys the college lifestyle. Meanwhile, Peter and his friends combine forces to help the city.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “If this is Mom, send money because we're college students and we need money for books and highlighters and ramen noodles and condoms for sexual relations with our classmates.”
@@ -1607,10 +1542,9 @@ Watch for:
   - “Hey, what's up B-Ri? - Stewie, just give me a beer.”
   - “Ah, Brian, I am glad you could come to my faculty cocktail party.”
 
-## S4 E16 — The Courtship of Stewie's Father
+## S4 E16 — 16. The Courtship of Stewie's Father
 URL: https://watchwiththekids.com/ep/family-guy/0416.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Stewie intensifies his efforts to kill Lois, she thinks he is acting out and orders Peter to spend more time with him. They begin to do some bonding until a theme park outing ends disastrously. Meanwhile, Chris does some bonding of his own when he develops a friendship with Herbert after breaking his window.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Big women are sexy.”
@@ -1625,10 +1559,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “That's good old-fashioned family racism.”
 
-## S4 E17 — The Fat Guy Strangler
+## S4 E17 — 17. The Fat Guy Strangler
 URL: https://watchwiththekids.com/ep/family-guy/0417.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Lois drags Peter to the doctor for a physical, his prognosis is clear: he's too fat. This news drives Peter to form the NAAFP, an advocacy group for the advancement of fat people. Meanwhile, Lois discovers her long-lost brother, Patrick, and fights to get him released from an insane asylum. But a string of fat guys go missing soon after, and Peter and the NAAFP ban together to get to the bottom of it.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “It's great to eat with my family instead of a bunch of chronic masturbators.”
@@ -1665,10 +1598,9 @@ Watch for:
   - “Whore, slut, bitch.”
   - “I'm gonna eat the whore out of you.”
 
-## S4 E18 — The Father, The Son and the Holy Fonz
+## S4 E18 — 18. The Father, The Son and the Holy Fonz
 URL: https://watchwiththekids.com/ep/family-guy/0418.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter's dad visits the Griffins, he tries to impose his religious beliefs on the family. But after a mishap leaves Stewie stuck living in a bubble, Peter searches for a new religion finding faith in his television hero the Fonz. But -Happy Days- are not quite here as the newly established Church of the Fonz struggles to retain its members.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I haven't been this disappointed since I lost my virginity.”
@@ -1704,10 +1636,9 @@ Watch for:
   - “Your wife's a Protestant whore and your baby isn't even baptised! All right, Dad.”
   - “And she's a whore.”
 
-## S4 E19 — Brian Sings and Swings
+## S4 E19 — 19. Brian Sings and Swings
 URL: https://watchwiththekids.com/ep/family-guy/0419.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: After an accident lands Brian in the hospital, he has a near-death experience that leads him to take a new lease on life. He finds a passion for singing and develops a new nightly gig with Frank Sinatra Jr., but his "live in the moment" lifestyle only goes so far. Meanwhile, Meg's sexuality swings the other way.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “How come I rich and you not? How come you not sell real estate like I do? How come I sleep with your wife while you at work then pee in your toilet and don't flush?”
@@ -1721,10 +1652,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Like the time Peter pretended to be racist to get out ofjury duty.”
 
-## S4 E20 — Patriot Games
+## S4 E20 — 20. Patriot Games
 URL: https://watchwiththekids.com/ep/family-guy/0420.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: At his high school reunion, Peter pretends to be a big-shot millionaire to impress his classmates, but the truth comes out when he meets Tom Brady and loses all self-control. Peter makes a drunken run for the bathroom that impresses Brady and lands Peter a spot on the New England Patriots football team. Life is great for the Griffins until Peter's new high profile goes to his head. Meanwhile, Stewie becomes a sports bookie .
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Besides, Sunday's my Internet porn night.”
@@ -1741,10 +1671,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Peter, I know you're humiliated, but getting drunk is not the answer.”
 
-## S4 E21 — I Take Thee, Quagmire
+## S4 E21 — 21. I Take Thee, Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/0421.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When Peter goes on a television game show and wins a maid for a week, Quagmire becomes smitten with her and ends up popping the question. But when Quagmire's bachelor tendencies resurface, he takes some serious steps to get out of the marriage. Meanwhile, Stewie fights against breast-feeding withdrawals when Lois tries to wean him.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - “Ow, damn, that hurts! What happened? I was breast-feeding Stewie and he bit me again.”
@@ -1763,10 +1692,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “We brought you guys a bottle of wine.”
 
-## S4 E22 — Sibling Rivalry
+## S4 E22 — 22. Sibling Rivalry
 URL: https://watchwiththekids.com/ep/family-guy/0422.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: After a pregnancy scare, Peter reluctantly agrees to get a vasectomy. But after the operation, Peter's sex drive becomes nonexistent. When Lois packs on some extra pounds, Peter's interest is renewed and things heat back up in the bedroom until her unhealthy eating habits get the best of her. Meanwhile, Stewie's half-brother and archrival Beltram confronts him and they declare an all-out war for control over the playground.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “…Then you snip the fibrous tissue - Then you snip the fibrous tissue Hey, but, you'll never have to wear a condom When you do it with your wife Or anyone else you do it with We promise not to tell Like that new hot…”
@@ -1788,10 +1716,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Easy, easy, girl.”
 
-## S4 E23 — Deep Throats
+## S4 E23 — 23. Deep Throats
 URL: https://watchwiththekids.com/ep/family-guy/0423.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Meg lands an internship with Mayor West, Brian argues that he's corrupt. Determined to expose his shady ways, Brian and Stewie go undercover and discover that Meg is in deeper than they thought. Meanwhile, a local talent show brings Peter and Lois back to their folk singing days. Unfortunately, they also revert back to their hippie ways and Chris must stage an intervention.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “He wants to have sex with me so bad.”
@@ -1819,10 +1746,9 @@ Watch for:
   - “Well, that's a popular misconception, Mom and Dad, but the fact is, the chief ingredient in marijuana is THC, a mild form of acid, prolonged usage of which can cause adverse effects to your sexual potency…”
   - “Oh, my God, Peter, I am so wasted.”
 
-## S4 E24 — Peterotica
+## S4 E24 — 24. Peterotica
 URL: https://watchwiththekids.com/ep/family-guy/0424.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After reading an erotic novel, Peter decides to write one of his own and gets Carter to publish it. But when Carter gets sued for Peter's book on tape, he loses all his money and is forced to become a middle-class citizen, much to his chagrin. Meanwhile, with the flick of a switch, Chris becomes a genius and competes with Stewie to take over the world.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Dawson, I'm just not ready to give up my virginity.”
@@ -1847,10 +1773,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “And even if they were, who cares? They're whores.”
 
-## S4 E25 — You May Kiss The...Uh...Guy Who Receives
+## S4 E25 — 25. You May Kiss The...Uh...Guy Who Receives
 URL: https://watchwiththekids.com/ep/family-guy/0425.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: While visiting the Griffins, Brian's gay cousin Jasper announces he's engaged to his partner and wants to be married in their home. But when Mayor West bans gay marriage in Quahog to cover up an unrelated scandal, Brian becomes a crazed activist and resorts to hostile ways to change the mayor's decision. Meanwhile, Lois questions her view toward gay marriage and Chris joins the extremist "Young Republicans" group to win a girl's heart.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It's not like we're gonna have a gay sex orgy in the living room.”
@@ -1865,10 +1790,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Go smoke a fatty.”
 
-## S4 E26 — Petergeist
+## S4 E26 — 26. Petergeist
 URL: https://watchwiththekids.com/ep/family-guy/0426.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: After Joe builds a new home theater system, Peter tries to top it by building a multiplex in his backyard and discovers an Indian burial ground. But when he takes an Indian chief's skull, the house becomes haunted and Stewie pulls a "Carol Anne" and gets sucked into the television. Unfortunately for the Griffins, getting Stewie back from the poltergeist is just the beginning.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We're playing sex.”
@@ -1885,10 +1809,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Yeah, I've heard they all look alike.”
 
-## S4 E27 — Untitled Griffin Family History
+## S4 E27 — 27. Untitled Griffin Family History
 URL: https://watchwiththekids.com/ep/family-guy/0427.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When the Griffins get robbed, the family runs into Peter's panic room to escape the trespassers. Now isolated and trapped, Peter insists the family know about their ancestry and narrates a chain of events in world history that explain the Griffin name. Meanwhile, after Meg is chosen to go back into the house, she scares off the robbers in an unexpected way.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “As a poet might say, she was the kind of woman you just want to have sex with over and over.”
@@ -1911,7 +1834,6 @@ Watch for:
 ## S5 E1 — 1. Stewie Loves Lois
 URL: https://watchwiththekids.com/ep/family-guy/0501.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Lois saves Stewie's beloved teddy bear, Rupert, he starts to think that maybe he shouldn't kill his dear old mom and clings to her like a baby blanket. However, Stewie's change in demeanor doesn't go over well with Lois and she gets sick of all of his loving attention. Meanwhile, Peter undergoes a prostate exam and thinks his doctor is molesting him.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -1936,8 +1858,7 @@ Watch for:
 
 ## S5 E2 — 2. Mother Tucker
 URL: https://watchwiththekids.com/ep/family-guy/0502.html
-Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Peter's mother announces that she is getting a divorce, Peter feels abandoned until he finds a father figure in his mom's new boyfriend, Quahog's resident anchor man, Tom Tucker. Peter takes such an interest in Tom that he reverts to being a child again, but things aren't all fun and games for long. Meanwhile, Brian gets his own NPR-style radio show, but when Stewie hears the news, he can't help but stir things up.
+Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “We now return to the Sunday afternoon movie: Masturbator and Commander.”
@@ -1971,7 +1892,6 @@ Watch for:
 ## S5 E3 — 3. Hell Comes to Quahog
 URL: https://watchwiththekids.com/ep/family-guy/0503.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Peter buys a military tank with Meg's money, her car fund goes out the window and she's forced to get a job at the newly built Superstore in town. However, the town's economy begins to suffer when Superstore puts all the mom-and-pop shops out of business and sucks up the city's power supply. Brian and Stewie decide to take matters into their own hands in order to save the town from the corporate giant.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And we're gonna keep on drinking until we each uncover repressed memories of sexual abuse by a trusted religious official.”
@@ -2001,7 +1921,6 @@ Watch for:
 ## S5 E4 — 4. Saving Private Brian
 URL: https://watchwiththekids.com/ep/family-guy/0504.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Chris is approached by an Army recruiter, Brian goes to the headquarters to give him a piece of his mind, but Stewie tags along and gets them both enlisted in boot camp. The two make it through training with no help from Sergeant Angryman and end up in Iraq, where they try everything possible to get an honorable discharge. Meanwhile, at home base, Chris joins a Goth rock band and their hit track is -Evil, Evil Monkey-.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You know, it's really hard to masturbate with you guys talking.”
@@ -2040,7 +1959,6 @@ Watch for:
 ## S5 E5 — 5. Whistle While Your Wife Works
 URL: https://watchwiththekids.com/ep/family-guy/0505.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter hurts his hand and his boss Angela tells him he needs to pick up the pace, Lois goes to the brewery and helps him play catch-up. Meanwhile, when Stewie discovers that Brian is dating a very attractive but intellectually challenged girl named Jillian, he tries to convince Brian to break up with her, but Brian can't close the deal because she is so hot.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “I think it would be so hot for you and me to have sex in my office.”
@@ -2071,7 +1989,6 @@ Watch for:
 ## S5 E6 — 6. Prick Up Your Ears
 URL: https://watchwiththekids.com/ep/family-guy/0506.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Lois discovers that Chris has some bad information about sex, she volunteers to teach a sex-ed class at the high school. After Lois upsets the other parents with her honest approach, Principal Shepherd is forced to replace her with Reverend Jerry Kirkwood. Meanwhile, Meg and her new guy take an abstinence pledge, but still manage to find a loophole. And a terrified Stewie sets a series of traps for the Tooth Fairy, hell-bent on destroying him.
 Watch for:
 - Sex & hookups — 10 moment(s)
   - “Now, you've probably heard all those rumors that condoms make sex less pleasurable.”
@@ -2103,7 +2020,6 @@ Watch for:
 ## S5 E7 — 7. Chick Cancer
 URL: https://watchwiththekids.com/ep/family-guy/0507.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stewie ties the knot with his old friend and fading child actress Olivia, but their relationship quickly turns into a traditional marriage filled with resentment and bickering, which comes to an ugly head when they join Brian and Jillian on a double date. Meanwhile, Lois introduces Peter to chick flicks, and he decides to make his own movie based on the plots of every girly movie ever made.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You're the underachiever every woman wants to sleep with.”
@@ -2138,7 +2054,6 @@ Watch for:
 ## S5 E8 — 8. Barely Legal
 URL: https://watchwiththekids.com/ep/family-guy/0508.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Meg can't find a date to her junior prom, Brian gets suckered into going with her, even though he is dating Jillian. When Brian arrives at the dance he gets drunk to ease his pain, but after he makes out with Meg he really hurts. The next morning Meg starts to think of Brian as her boyfriend and becomes obsessed with spending every waking moment with him. Meanwhile, Peter, Cleveland and Quagmire join the police force and have to come to Brian's aid.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Masturbate? That's it.”
@@ -2172,7 +2087,6 @@ Watch for:
 ## S5 E9 — 9. Road to Rupert
 URL: https://watchwiththekids.com/ep/family-guy/0509.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When the family has a garage sale, Brian accidentally sells Stewie's beloved teddy bear Rupert. Stewie is so distraught that Brian takes him on a cross-country road trip to Aspen, CO. When they find the culprit, Stanford, Stewie challenges him to a ski-off to get Rupert back. Meanwhile, Peter loses his license, so Meg has to drive him around.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “What? Why? We got reckless driving, disturbing the peace, plus the driver of one of those other cars was a virgin whose hymen was busted by the airbag, so rape.”
@@ -2197,10 +2111,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Quit stealing my punch lines, you fat drunk.”
 
-## S5 E10 — Peter's Two Dads
+## S5 E10 — 10. Peter's Two Dads
 URL: https://watchwiththekids.com/ep/family-guy/0510.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Peter's dad, Francis, dies, he finds out from Thelma that his real father lives in Ireland. So Peter and Brian head there in search of his father, who ends up being the town drunk, which is a great honor, and he challenges him to a drinking game to prove his paternity. Meanwhile, Stewie acts out and Lois spanks him, but he quickly realizes that he likes it and does whatever he can to get into trouble.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “So he says to the grasshopper: "Hey, you know there's a drink named after you?" The grasshopper says: "You mean there's a drink named Irving?" So which one of you wants to lose your virginity?”
@@ -2230,10 +2143,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I'm an adorable tramp who wears found clothing and eats out of your garbage can.”
 
-## S5 E11 — The Tan Aquatic with Steve Zissou
+## S5 E11 — 11. The Tan Aquatic with Steve Zissou
 URL: https://watchwiththekids.com/ep/family-guy/0511.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When a bully begins to harass Chris, Peter goes to his defense, but the kid is so annoying that Peter beats him up. This is so satisfying that Peter realizes bullying is fun and begins to bully everyone in the house. Finally, Chris stands up to Peter and beats him senseless. Meanwhile, Stewie goes out without sunscreen and becomes obsessed with getting a tan. After Brian accidentally leaves him in the tanning booth for six hours, Stewie gets sunburned and fears he has cancer. While waiting for the results of his cancer screening, Stewie begins to live his life as if he had only days to live and drives Brian crazy with his demands.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -2260,10 +2172,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Well, if it isn't King Lard Ass.”
 
-## S5 E12 — Airport '07
+## S5 E12 — 12. Airport '07
 URL: https://watchwiththekids.com/ep/family-guy/0512.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter takes Quagmire to the airport for work and messes things up, causing Quagmire to lose his job as a pilot. Quagmire can't find another gig, so Peter and Cleveland devise a plan to help him get his old job back. When the plan flops, Quagmire receives advice from his idol, Hugh Hefner, which leads him to save the day.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “I could have sex with you or I could just stand over there and drink from the lake.”
@@ -2295,10 +2206,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “Yeah, and there's an annoying little homo screaming in my kitchen.”
 
-## S5 E13 — Bill and Peter's Bogus Adventure
+## S5 E13 — 13. Bill and Peter's Bogus Adventure
 URL: https://watchwiththekids.com/ep/family-guy/0513.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: After Peter helps Bill Clinton out with a flat tire, they become fast friends. They begin spending a lot of time together and Lois starts to think Bill is a bad influence. But when she confronts Bill, they end up having sex. Peter is devastated and tries to get back at Lois but finds he loves her too much to go through with having an affair. Meanwhile, Lois and Stewie try to potty-train Brian.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Well the way I figure it, the only way to even things out between us is if you have sex with someone else, too.”
@@ -2328,10 +2238,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “We're a little overloaded 'cause I'm having a fat chick party back here.”
 
-## S5 E14 — No Meals on Wheels
+## S5 E14 — 14. No Meals on Wheels
 URL: https://watchwiththekids.com/ep/family-guy/0514.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When the Griffin family decides to start a restaurant, they have a hard time attracting customers. But after Joe promises to help, Peter is excited that it might become a cop hangout. However, things don't really turn out as Peter had hoped and it begins to be popular with handicapped patrons. Although Peter attempts to change the atmosphere of his new place, a sudden twist of irony quickly changes his mind.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Peter, you've been sleeping with that money for the past week.”
@@ -2344,10 +2253,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “It's water weight, you bastard! Get off me! I'm not your whore.”
 
-## S5 E15 — Boys Do Cry
+## S5 E15 — 15. Boys Do Cry
 URL: https://watchwiththekids.com/ep/family-guy/0515.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: The family heads to church when Lois gets a gig as the organist, but after Stewie gets sick the congregation is convinced he's possessed by the devil. So, the family goes on the run and ends up in Texas. Peter fits right in with the cowboys, Stewie enters the "Little Miss Texas" pageant and Chris and Meg sneak into George W. Bush's house.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2364,10 +2272,9 @@ Watch for:
   - “Ever since she started smoking pot, she just kind of lays there.”
   - “What? - Nevermind Hey, you guys want to see something? Grab a beer and follow me.”
 
-## S5 E16 — No Chris Left Behind
+## S5 E16 — 16. No Chris Left Behind
 URL: https://watchwiththekids.com/ep/family-guy/0516.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: After Chris is expelled from public school, he's sent to the same snooty boarding school that Lois' dad attended. Meanwhile, a chicken picks a fight with Peter.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -2375,10 +2282,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Look, I'm sorry, I can't have you in here punching the meat.”
 
-## S5 E17 — It Takes a Village Idiot, and I Married One
+## S5 E17 — 17. It Takes a Village Idiot, and I Married One
 URL: https://watchwiththekids.com/ep/family-guy/0517.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Incensed by Mayor West's complicity in oil-company pollution at Quahog Lake, Lois decides to challenge him in the upcoming election.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “My God, if I tried to masturbate right now, you know what'd come out? A little flag with the word "bang" on it.”
@@ -2404,10 +2310,9 @@ Watch for:
   - “I could do cocaine if I wanted to.”
   - “Oh, I like him! He looks me in the eye! I'd like to have a beer with him.”
 
-## S5 E18 — Meet the Quagmires
+## S5 E18 — 18. Meet the Quagmires
 URL: https://watchwiththekids.com/ep/family-guy/0518.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Death grants Peter's wish of going back in time to be 18 again just for one night so that he can sow his wild oats. In 1984, he bails on a date with Lois to go to a bar and make out with a movie actress, but when he returns to the present, he discovers that he is now married to the former starlet and Lois is with Quagmire. Meanwhile, Stewie, Chris and Meg have all inherited Quagmire's charming characteristics.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “What are you doing here? Oh, I like to hook up with random bar guys.”
@@ -2431,7 +2336,6 @@ Watch for:
 ## S6 E1 — 1. Blue Harvest
 URL: https://watchwiththekids.com/ep/family-guy/0601.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When the power goes out in the Griffin home, Peter decides to educate his family and pass along the greatest story ever told- the story of Star Wars! After Princess Leia comes under siege by Darth Vader and his evil Storm Troopers, C-3PO and R2-D2 escape to find the only person who can help the Rebel Alliance. On their quest thorough the desert planet of Tatooine, C-3PO and R-2D2 find extra help in Obi-Wan Kenobi, Luke Skywalker, Han Solo and Chewbacca and head back to battle the Death Star in an epic intergalactic fight to the death.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Droids! - Look! A penny! Hey, thanks for the sex, early '90s printer.”
@@ -2458,7 +2362,6 @@ Watch for:
 ## S6 E2 — 2. Movin' Out
 URL: https://watchwiththekids.com/ep/family-guy/0602.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter convinces Brian to move in with his dense girlfriend Jillian, she ends up smothering him, but he keeps her around for the lovin'. Stewie moves in with them to help pay the rent, but he tries to get Brian back on the playing field by throwing him a drunken party and interfering with their relationship. Meanwhile, Meg gets a job at the local convenience store, as does Chris, who gets chummy with the manager, Carl. While Chris and Carl talk about their favorite movies, Meg is saddled with all the hard work. She eventually stands up for herself and as a result gets fired.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “" And then he meets a whore and pays her a bunch of money to stay with him, uh, and have sex with him while he murders himself slowly.”
@@ -2488,7 +2391,6 @@ Watch for:
 ## S6 E3 — 3. Believe It or Not, Joe's Walking on Air
 URL: https://watchwiththekids.com/ep/family-guy/0603.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Bonnie tells Joe that she is tired of being married to a handicapped person, Joe decides to get a leg transplant. Excited about his new ability to walk, Joe dives head first into extreme sports and begins to hang around more active friends. Meanwhile, Peter and the guys are upset at how Joe is acting and decide to teach him a lesson. In doing so, they re cripple him and he is back to normal.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And we're gonna keep on drinking until we each uncover repressed memories of sexual abuse by a trusted religious official.”
@@ -2518,7 +2420,6 @@ Watch for:
 ## S6 E4 — 4. Stewie Kills Lois (1)
 URL: https://watchwiththekids.com/ep/family-guy/0604.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In the 100th episode, Lois and Peter go on a cruise, leaving Stewie and the family behind. Upset with Lois for leaving him at home, Stewie vows to carry out a diabolical plan. When Brian challenges him to actually do it, Stewie stows away on the ship, finds Lois and - well - the title of the episode says it all.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You know, it's really hard to masturbate with you guys talking.”
@@ -2555,7 +2456,6 @@ Watch for:
 ## S6 E5 — 5. Lois Kills Stewie (2)
 URL: https://watchwiththekids.com/ep/family-guy/0605.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: While all of Quahog assumes she's dead, Lois returns from the wilderness and names Stewie as her killer, but he goes on the run while Joe leads a manhunt around Quahog. Then, Stewie tries to take over the world and in the interim auditions for the AMERICAN IDOL judges Simon Cowell, Randy Jackson and Paula Abdul. Meanwhile, Lois realizes that she must stop Stewie.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “I think it would be so hot for you and me to have sex in my office.”
@@ -2585,7 +2485,6 @@ Watch for:
 ## S6 E6 — 6. Padre de Familia
 URL: https://watchwiththekids.com/ep/family-guy/0606.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Peter starts an anti-immigration group after being caught up in the pro-American sentiment at a Veterans' Day parade, but his tune quickly changes when he finds out he was born in Mexico. Unable to prove his citizenship, pass the naturalization test or convince investigators that his marriage to Lois is for real, he ends up working as a groundskeeper on his father-in-law's estate and leading the fight for immigrant rights .
 Watch for:
 - Sex & hookups — 10 moment(s)
   - “Now, you've probably heard all those rumors that condoms make sex less pleasurable.”
@@ -2618,7 +2517,6 @@ Watch for:
 ## S6 E7 — 7. Peter's Daughter
 URL: https://watchwiththekids.com/ep/family-guy/0607.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When a flood hits Quahog, Meg winds up in the hospital in a coma, but she wakes up to a cute med student and they immediately hit it off. After Meg recovers, Peter is very protective of her, so he drives "McCutie" away. But when Meg reveals to the family that she is pregnant, Peter forces them to get married.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You're the underachiever every woman wants to sleep with.”
@@ -2651,7 +2549,6 @@ Watch for:
 ## S6 E8 — 8. McStroke
 URL: https://watchwiththekids.com/ep/family-guy/0608.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter decides to grow a moustache, but then he's mistaken for a fireman, so he lends a hand when a fire breaks out at a local fast food restaurant. The owner gives him unlimited burgers as a "thank you" but he eats so many that he eventually has a stroke. When Peter recovers, he vows to expose the fast-food company and becomes friends with a genetically engineered cow he meets after infiltrating the McBurgertown warehouse.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “be, I'm gonna make you somehash browns for breakfast, and then, later, I'm gonna takeyou down to the whoreh to lose your virginity.”
@@ -2673,7 +2570,6 @@ Watch for:
 ## S6 E9 — 9. Back to the Woods
 URL: https://watchwiththekids.com/ep/family-guy/0609.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: James Woods returns after being locked in a crate to seek revenge against Peter. First, James steals Peter's identity and moves in as head of the Griffin household. Then, Peter goes out and ruins James career and image.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “" "The hooker took it.”
@@ -2690,10 +2586,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I say, this is moreuncomfortable than having James Bradyat a cocktail party.”
 
-## S6 E10 — Play it Again, Brian
+## S6 E10 — 10. Play it Again, Brian
 URL: https://watchwiththekids.com/ep/family-guy/0610.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter and Lois's marriage is on the rocks, but when Brian wins the New England Rising Writer's award, the three of them head to Martha's Vineyard for a relaxing vacation. As Peter's drinking spirals out of control, so does Brian's self restraint as he professes his undying love for Lois. Peter and Brian test their friendship over the woman of their dreams.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “So he says to the grasshopper : "Hey, you know there's a drink named after you?" The grasshopper says : "You mean there's a drink named Irving?" So which one of you wants to lose your virginity?”
@@ -2723,10 +2618,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I'm an adorable tramp who wears found clothing and eats out of your garbage can.”
 
-## S6 E11 — The Former Life of Brian
+## S6 E11 — 11. The Former Life of Brian
 URL: https://watchwiththekids.com/ep/family-guy/0611.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Brian is afraid that he has lost his chance at love, he goes in search of a former flame Tracy only to discover he is the father of her unruly son, Dylan. After Brian's surprise visit, Tracy drops Dylan off at the Griffin's so Brian can raise him. Subsequently, his new little angel begins terrorizing the Griffin household and Brian's self-important attitude toward parenting infuriates Peter and Lois.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I don't know why, but I've always found magic very sexy.”
@@ -2750,10 +2644,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I myself drank, like, five liters of beer.”
 
-## S6 E12 — Long John Peter
+## S6 E12 — 12. Long John Peter
 URL: https://watchwiththekids.com/ep/family-guy/0612.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Yo ho ho! It's a pirate's life for Peter when he gets a pet parrot. But after raising hell in Quahog and terrorizing the neighbors, Peter accidentally kills his beloved pet. Meanwhile, Chris goes with Brian to the vet and falls for the lovely intern Anna.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -2774,7 +2667,6 @@ Watch for:
 ## S7 E1 — 1. Love Blactually
 URL: https://watchwiththekids.com/ep/family-guy/0701.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Brian meets Carolyn, the girl of his dreams, he decides to follow Stewie's advice to take things slow. This drives Carolyn crazy, and she soon moves on to another man. When Brian discovers Cleveland is the new man, he does whatever it takes to win Carolyn back.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “You ever had sex that was voluntary? - No, I have not.”
@@ -2805,7 +2697,6 @@ Watch for:
 ## S7 E2 — 2. I Dream of Jesus
 URL: https://watchwiththekids.com/ep/family-guy/0702.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Peter re-discovers his love for the painfully annoying yet seductively catchy tune "The Bird's the Word," Brian and Stewie decide to take matters into their own hands to ensure that the song will never be heard again! On the verge of tears, Peter goes to every record store in Quahog to track down his beloved jingle, when he runs into a familiar face. Realizing that it is the one and only Jesus Christ, Peter wants the world to know that he and J.C. are BFFs.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “The perfect hand for masturbating.”
@@ -2829,7 +2720,6 @@ Watch for:
 ## S7 E3 — 3. Road to Germany
 URL: https://watchwiththekids.com/ep/family-guy/0703.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Mort accidentally steps into a time machine, Brian and Stewie follow him in order to bring him back. But when they discover they're in Poland on the day of the Nazi invasion, things go from bad to worse and the trio has to find a way back to Quahog safely.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “If they catch me, they'll beat me unmerciful and rub dirt in my ass, neck, and all over my antsy nipples.”
@@ -2848,7 +2738,6 @@ Watch for:
 ## S7 E4 — 4. Baby Not on Board
 URL: https://watchwiththekids.com/ep/family-guy/0704.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter wins a year of unlimited gas, and Brian suggests that the family use the funds to take a road trip to the Grand Canyon. So the Griffins pack up the car and hit the road, but leave some very precious cargo at home. When the family finally realizes that they have left behind one of their own, it's a mad, explosive, hilarious dash back to Quahog.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I had lots of time to masturbate, which in space, is great.”
@@ -2873,7 +2762,6 @@ Watch for:
 ## S7 E5 — 5. The Man with Two Brians
 URL: https://watchwiththekids.com/ep/family-guy/0705.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After watching Johnny Knoxville on "Jackass," Peter and the guys film their own shenanigans. When Brian gets hurt, the family worries that he's getting too old, so Peter brings home a new dog. Everything is great until the "new Brian" crosses the line and humps Stewie's favorite toy.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You were masturbating when I came in.”
@@ -2902,7 +2790,6 @@ Watch for:
 ## S7 E6 — 6. Tales of a Third Grade Nothing
 URL: https://watchwiththekids.com/ep/family-guy/0706.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter's boss Angela sends him back to the third grade so that he can qualify for a work promotion. Meanwhile, Brian, Frank Sinatra Jr. and Stewie open the coolest club in Quahog.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Can you use it in a dirty sentence? I like to bring transient hookers to the oak tree where I asphyxiate myself at the same time I'm watching them have sex.”
@@ -2925,7 +2812,6 @@ Watch for:
 ## S7 E7 — 7. Ocean's Three and a Half
 URL: https://watchwiththekids.com/ep/family-guy/0707.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After being pregnant for seven years, Bonnie finally gives birth to a beautiful baby girl named Susie! Stewie quickly falls for the little tyke and vows to do anything to win her heart and get in her diaper. Meanwhile, Joe borrows $20,000 from a bookie to pay for Bonnie's medical bills, but then plans to steal the money from Mr. Pewterschmidt to pay his debt.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “That's why I always use a condom.”
@@ -2955,7 +2841,6 @@ Watch for:
 ## S7 E8 — 8. Family Gay
 URL: https://watchwiththekids.com/ep/family-guy/0708.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: To help pay off his incredible debt, Peter participates in medical experiments to make some extra cash. First, he is injected with the "Seth Rogen" gene that "gives you the appearance of being funny even though you haven't actually done anything funny." Then he is injected with a gene that leads him to a new mate, leaving a broken-hearted Lois behind. Although the family is crushed, they quickly realize the most important thing is that Peter is happy.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Some of the milk in the fridge is not milk it's horse sperm.”
@@ -2987,7 +2872,6 @@ Watch for:
 ## S7 E9 — 9. The Juice Is Loose!
 URL: https://watchwiththekids.com/ep/family-guy/0709.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter cashes in a raffle ticket from 1989 and wins a golf outing with O.J. Simpson. When Peter befriends the infamous former running back and brings him home to meet the family, the residents of Quahog aren't so welcoming to the new houseguest and tell him to take a hike.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I dare you to make out with Joe for 15 seconds.”
@@ -3012,10 +2896,9 @@ Watch for:
   - “So, Lois, you still pissed at me about Stewie being on the roof? - Yes, Peter, I am.”
   - “Where's my screwdriver? Holy crap.”
 
-## S7 E10 — FOX-y Lady
+## S7 E10 — 10. FOX-y Lady
 URL: https://watchwiththekids.com/ep/family-guy/0710.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Lois lands a job as a news reporter where her first assignment is to shoot an investigative expose on a liberal filmmaker, but when her story implicates a conservative radio host she gets canned.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Lois, if it makes you feel any better, I'm thinking about her every time I masturbate to her.”
@@ -3041,10 +2924,9 @@ Watch for:
   - “What's wrong with your picture? Well, see, I got drunk and then got my picture taken.”
   - “So that way when I get pulled over for drunk driving, I look the same as on my license.”
 
-## S7 E11 — Not All Dogs Go to Heaven
+## S7 E11 — 11. Not All Dogs Go to Heaven
 URL: https://watchwiththekids.com/ep/family-guy/0711.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The Griffin family heads to the annual Quahog "Star Trek" convention, but Stewie blows a fuse when he doesn't get a chance to ask his favorite "Star Trek: The Next Generation" cast members any questions. He devises a plan, builds a transporter and beams the entire cast to his bedroom so they can spend a fun-filled day together.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Hey, did you hook up - with Whoopi Goldberg on the show? - All the time.”
@@ -3079,10 +2961,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “If there were a God, would he have put you here on Earth with a flat chest and a fat ass? - I'm made in his image.”
 
-## S7 E12 — 420
+## S7 E12 — 12. 420
 URL: https://watchwiththekids.com/ep/family-guy/0712.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: After Brian gets thrown in the slammer for drug possession, he launches a campaign to legalize marijuana. Mayor West passes the law, and the whole town goes to pot.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -3114,10 +2995,9 @@ Watch for:
   - “…said But try and use your heads and don't buy into all the fear Hey! Because all we need is a bag o' weed to make us want to cheer And one, two A bag o' weed, a bag o' weed Oh, everything is better with a bag o'…”
   - “You know, Peter, it's sort of adding insult to injury raiding Quagmire's fridge for beer after you killed his cat.”
 
-## S7 E13 — Stew-Roids
+## S7 E13 — 13. Stew-Roids
 URL: https://watchwiththekids.com/ep/family-guy/0713.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After Stewie gets his baby butt kicked by Joe's infant daughter, he starts hitting the gym with Peter. It seems like all of Stewie's hard work is paying off until Peter drops a bombshell when he reveals just how Stewie got those six-pack abs. Meanwhile, Chris starts to date a popular girl at school and quickly realizes that popularity is like physics - as in what goes up must come down -.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -3156,10 +3036,9 @@ Watch for:
   - “Well, will you look at me? I have the power! He-Man We now return to Lady and the Tramp and Michael Vick.”
   - “Hey, Chris, after school today, we're gonna go to the pizza place and make that single mother who works there feel like a slut.”
 
-## S7 E14 — We Love You Conrad
+## S7 E14 — 14. We Love You Conrad
 URL: https://watchwiththekids.com/ep/family-guy/0714.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Brian discovers that his beloved Jillian is getting married, he hits the sauce to drown his sorrows. The next morning, he wakes up with more than a hangover. After realizing he has hooked up with "The Hills" star Lauren Conrad, he wants to run and hide. When Brian discovers Lauren is nothing like how she's portrayed on TV, he thinks he may have found his perfect match - if only he can let Jillian go.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -3183,10 +3062,9 @@ Watch for:
   - “Apparently, she gave that dog a bone and he gave it right back! Look, I was drunk out of my mind.”
   - “So, Lauren, do you and Paris Hilton and Lindsay Lohan all hang out and go drunk-driving together? I heard that Lindsay Lohan wasn't driving that night.”
 
-## S7 E15 — Three Kings
+## S7 E15 — 15. Three Kings
 URL: https://watchwiththekids.com/ep/family-guy/0715.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Peter discovers the writing of Stephen King, he imagines his family and friends in three of King's most famous works. First, Peter, Quagmire, Cleveland and Joe - as 12-year-olds - travel along a railroad track on a journey of self-discovery narrated by Richard Dreyfuss. Second, Brian is injured in a bad car crash only to be "rescued" by his "number one fan," Stewie. Finally, Cleveland and Peter become fast friends in prison.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “He had sex when he was five and committed his first rape when he was 10, rape, of course, being legal in the '50s.”
@@ -3212,10 +3090,9 @@ Watch for:
   - “Where the hell is that jack-off? There's, like, 1,200 bucks in that box.”
   - “If he ran off with that, oh, I am gonna be so pissed.”
 
-## S7 E16 — Peter's Progress
+## S7 E16 — 16. Peter's Progress
 URL: https://watchwiththekids.com/ep/family-guy/0716.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter has his palm read by a psychic who reveals that he had a fascinating past life as Griffin Peterson, a dignified gentleman who vied for the love of Lady Redbush in 17th century England and in the newly founded American colony of Quahog. It was a time of great love and adventure where King Stewart reigned supreme, the smartest dog in the room was the court jester, army lieutenants were merely boys and even old England loved "How I Met Your Mother".
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “I'm so horny.”
@@ -3242,7 +3119,6 @@ Watch for:
 ## S8 E1 — 1. Road to the Multiverse
 URL: https://watchwiththekids.com/ep/family-guy/0801.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: With the help of an out-of-this-world remote control, Stewie and Brian travel through alternate universes, including a post-apocalyptic world, a parallel world run by dogs where humans are pets and a "Robot Chicken"-like existence.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Yabba dabba - Rock-Peter? - Yes, Rock-Lois? That was wonderful rock-sex we had last rock-night.”
@@ -3264,7 +3140,6 @@ Watch for:
 ## S8 E2 — 2. Family Goy
 URL: https://watchwiththekids.com/ep/family-guy/0802.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Lois finds a lump on her breast, she goes to the doctor to test for cancer. The tests come back benign, but the doctor looks at her family medical history and reveals some news about Lois' heritage. Peter takes to the family's newfound faith eagerly, but when he is visited by the ghost of his father, he changes his tune. After a visit from an old friend sets him straight, Peter and Lois agree to go back to the way things were. Meanwhile, Quagmire finds out about internet porn.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You don't think I know where you've been? How dare you make a fool of me? Did you have sex with that fat kid? Did you? Answer me! Oh, my God.”
@@ -3294,7 +3169,6 @@ Watch for:
 ## S8 E3 — 3. Spies Reminiscent of Us
 URL: https://watchwiththekids.com/ep/family-guy/0803.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Stewie and Brian are suspicious when two guys move into Cleveland's old house, and when they find out Dan and Chevy are spies and they have dossiers of all the people in Quahog they follow them on a mission to Russia and end up in hot water .
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Tap me, Quagmire, tap me! Quagmire went to the bank to donate sperm because it's a sperm bank.”
@@ -3313,7 +3187,6 @@ Watch for:
 ## S8 E4 — 4. Brian's Got a Brand New Bag
 URL: https://watchwiththekids.com/ep/family-guy/0804.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Brian snags an older woman, he becomes the laughingstock of the family, but things go from bad to worse when she breaks her hip and Brian has to be her errand-boy.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Is that your condom? - No! I mean I mean, I wasn't gonna use that on your daughter.”
@@ -3347,7 +3220,6 @@ Watch for:
 ## S8 E5 — 5. Hannah Banana
 URL: https://watchwiththekids.com/ep/family-guy/0805.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Stewie scores tickets to a famous teen pop singer's concert, he ends up meeting and becoming great friends with her, but things get weird when he discovers one of her darkest secrets. Meanwhile, Chris tries to prove to the family that the Evil Monkey is real.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -3378,7 +3250,6 @@ Watch for:
 ## S8 E6 — 6. Quagmire's Baby
 URL: https://watchwiththekids.com/ep/family-guy/0806.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Quagmire assumes responsibility for a baby who looks just like him, he quickly realizes he may be in over his head. Meanwhile, Stewie clones himself in order to have a personal assistant.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I've never had sex before, and I probably wouldn't have been much good at it.”
@@ -3410,7 +3281,6 @@ Watch for:
 ## S8 E7 — 7. Jerome Is the New Black
 URL: https://watchwiththekids.com/ep/family-guy/0807.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Feeling blue, Peter and the guys interview potential friends to fill the vacancy left by Cleveland. The interview process leads them to Jerome but things don't look so good when it's discovered that Quagmire hates him.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Damn it! That son of a bitch! Thinks he can sleep with my wife.”
@@ -3439,7 +3309,6 @@ Watch for:
 ## S8 E8 — 8. Dog Gone
 URL: https://watchwiththekids.com/ep/family-guy/0808.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Brian accidentally kills another dog he is surprised to see that no one cares so he tries to convince everyone that the life of a dog should have the same value as a human one. Meanwhile, Lois hires a maid who doesn't listen to Peter.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -3462,7 +3331,6 @@ Watch for:
 ## S8 E9 — 9. Business Guy
 URL: https://watchwiththekids.com/ep/family-guy/0809.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter gives Lois' father the bachelor party he never had, Mr. Pewterschmidt slips into a coma and not even Dr. House can bring him out of it. With her father incapacitated, Lois is given control ofPewterschmidt Industries. Peter convinces Lois to let him run the operation, but he gets power-hungry and fires the board. Mr. Pewterschmidt soon bounces back and tries to regain control of what he's built - even though it may be more difficult than Christmas shopping for Peter -.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “When was the last time you were raped, murdered and stuffed in a lobster pot? Well, what you waiting for, hm? Come to the Virgin Dutch French Saint Port Croix Lucia Antilles.”
@@ -3489,10 +3357,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “I was blowing chinks like crazy.”
 
-## S8 E10 — Big Man on Hippocampus
+## S8 E10 — 10. Big Man on Hippocampus
 URL: https://watchwiththekids.com/ep/family-guy/0810.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After Peter hits his head and develops amnesia, he forgets everything, including his family and his friends. Lois takes extra care of Peter and tries everything to jog his memory and until he starts hitting on other women. Fed up with his antics, Lois takes the kids and leaves, giving Quagmire his opportunity to swoop in and score.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “So, what are your hobbies, Chris? - Masturbating.”
@@ -3519,10 +3386,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Boy, you know, I don't know how a half a glass of wine got me so lightheaded.”
 
-## S8 E11 — Dial Meg for Murder
+## S8 E11 — 11. Dial Meg for Murder
 URL: https://watchwiththekids.com/ep/family-guy/0811.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Brian gets a gig writing for a teen magazine about the average American girl, but when he starts trailing Meg for research he discovers that her desperate attempts at dating have led her to a guy in the slammer. When Brian tries to expose Meg's secret to the family, he finds that her boyfriend, Luke, has broken out of jail and has been hiding in the Griffin's house.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?”
@@ -3556,10 +3422,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Meg, you gonna take those soda cans to the Shaw-skank Redemption Center? Peter, Meg's been suspended from school.”
 
-## S8 E12 — Extra Large Medium
+## S8 E12 — 12. Extra Large Medium
 URL: https://watchwiththekids.com/ep/family-guy/0812.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Chris and Stewie go missing for several days, Lois is at her wit's end until she sees a psychic who assures her they are safe. Even after the boys return home, Lois and Peter's psychic obsession continues, and Peter takes it a step too far when he starts charging neighbors for his extrasensory perception. Meanwhile, Chris develops a crush on a girl at school.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?”
@@ -3577,10 +3442,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “…because The only smell that she'll be smellin' Won't be coming from your bum You wanna take that little whore And spin her on the dancing floor But, boy, before you do a single twirl You must impress that…”
 
-## S8 E13 — Go, Stewie, Go!
+## S8 E13 — 13. Go, Stewie, Go!
 URL: https://watchwiththekids.com/ep/family-guy/0813.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stewie wants to audition for his favorite show, "Jolly Farm," but when he finds out they are only auditioning little girls, he creates and alter ego by dressing up a la "Tootsie." Meanwhile, Meg finds herself a normal guy to date and shocks the entire city of Quahog.
 Watch for:
 - Sex & hookups — 8 moment(s)
   - “We'll have sex.”
@@ -3601,10 +3465,9 @@ Watch for:
   - “Damn right, you don't.”
   - “Me? What the hell did I do? - You've made me feel so unattractive that I went and did something disgusting and I'm ashamed of myself.”
 
-## S8 E14 — Peter-assment
+## S8 E14 — 14. Peter-assment
 URL: https://watchwiththekids.com/ep/family-guy/0814.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After Peter has some luck selling footage of a celebrity he caught off-guard, he decides to become a full-time paparazzo. To make matters worse, his new boss, Angela, finds him irresistible and plagues him with unwanted advances. When Peter rebuffs her, he winds up getting the ax. Meanwhile, Stewie makes his theatrical debut in a school play, only to be overcome with stage fright.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - “I know she's gonna make me have sex with her.”
@@ -3644,10 +3507,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Do it! - Now get out of here, you slut.”
 
-## S8 E15 — Brian Griffin's House of Payne
+## S8 E15 — 15. Brian Griffin's House of Payne
 URL: https://watchwiththekids.com/ep/family-guy/0815.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Lois reads Brian's pilot script, she falls in love with it and insists that he meet with network executives to pitch it. The execs respond positively, and the initial casting session goes well with Elijah Wood auditioning for the lead role. But when the suits insist that Brian hire James Woods and change the entire concept, Brian finds himself caught between a rock and a hard place. Meanwhile, Chris and Meg seriously injure Stewie and try to cover it up.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You have to sleep with the next guy that walks through that door.”
@@ -3670,10 +3532,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “I just banged into some homo's Prius.”
 
-## S8 E16 — April in Quahog
+## S8 E16 — 16. April in Quahog
 URL: https://watchwiththekids.com/ep/family-guy/0816.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When the local news announces that the Earth will be destroyed by a black hole in 24 hours, everyone in Quahog goes nuts trying to live out their last day.
 Watch for:
 - Sex & hookups — 8 moment(s)
   - “I've never had sex.”
@@ -3709,10 +3570,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “See you, ching chong.”
 
-## S8 E17 — Brian & Stewie
+## S8 E17 — 17. Brian & Stewie
 URL: https://watchwiththekids.com/ep/family-guy/0817.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In a Special 150th Episode Event, Brian and Stewie get locked in a bank vault where they are forced to deal with each other on a whole new level.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?”
@@ -3745,10 +3605,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “You look like a fag.”
 
-## S8 E18 — Quagmire's Dad
+## S8 E18 — 18. Quagmire's Dad
 URL: https://watchwiththekids.com/ep/family-guy/0818.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Quagmire gets the surprise of his life on Mother's Day, when his father starts to go through the change of his life.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “What? What the hell? What's wrong with you? - I had sex with her! - What? - I had sex with her at the Marriott! - Aah! Why?! - I didn't know.”
@@ -3773,10 +3632,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “We should all be so gay.”
 
-## S8 E19 — The Splendid Source
+## S8 E19 — 19. The Splendid Source
 URL: https://watchwiththekids.com/ep/family-guy/0819.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Peter, Quagmire and Joe search to find the source of all dirty jokes leads them to Virginia, where they reunite with Cleveland and meet his new family,.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?”
@@ -3806,10 +3664,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Permission to go to the bride-is-a-whore file.”
 
-## S8 E20 — Something, Something, Something, Dark Side
+## S8 E20 — 20. Something, Something, Something, Dark Side
 URL: https://watchwiththekids.com/ep/family-guy/0820.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In a special one-hour episode, Family Guy's homage to the "Star Wars" saga continues with a retelling of "The Empire Strikes Back".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Look, how about this? You buy the condenser, and I'll make out with you.”
@@ -3838,16 +3695,14 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Last time I was in a dago bar I was drinking a beer in Little Italy.”
 
-## S8 E21 — Partial Terms of Endearment
+## S8 E21 — 21. Partial Terms of Endearment
 URL: https://watchwiththekids.com/ep/family-guy/0821.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 14+)
-Summary: Lois agrees to become a surrogate mother for a friend who is unable to conceive a child of her own. But when the friend and her husband are killed in a car accident, Lois and Peter consider whether to terminate the pregnancy.
 Watch for: nothing flagged.
 
 ## S9 E1 — 1. And Then There Were Fewer
 URL: https://watchwiththekids.com/ep/family-guy/0901.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When the Griffins and other residents of Quahog are invited to visit the mansion of James Woods, the evening turns into a real murder mystery when guests end up dead and everyone scrambles to figure out who done it.
 Watch for:
 - Nudity & bodies — 6 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3891,7 +3746,6 @@ Watch for:
 ## S9 E2 — 2. Excellence in Broadcasting
 URL: https://watchwiththekids.com/ep/family-guy/0902.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Brian learns that Rush Limbaugh is going to be at the Quahog Mall for a book-signing, he decides to go down there and give him a piece of his left-wing mind. But when Rush unexpectedly comes to Brian's rescue, Brian has a political change of heart.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those Good old-fashioned values On which we used to rely?”
@@ -3922,7 +3776,6 @@ Watch for:
 ## S9 E3 — 3. Welcome Back, Carter
 URL: https://watchwiththekids.com/ep/family-guy/0903.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Peter catches Lois' dad, Carter, having an affair, he is strong-armed into keeping a secret. But when Peter accidentally spills the beans, Lois' mom demands a divorce, and Peter is in charge of Carter's return to bachelorhood.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “And your sirens sound like gay guys having a threesome.”
@@ -3959,7 +3812,6 @@ Watch for:
 ## S9 E4 — 4. Halloween on Spooner Street
 URL: https://watchwiththekids.com/ep/family-guy/0904.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter and Joe team up to execute a series of painful and humiliating Halloween pranks on unsuspecting family, friends and neighbors. While Brian shows Stewie the ropes of trick-or-treating, Meg sets out to attend her first high school Halloween party with high hopes for the evening.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - “Don't you get it? If we wear our masks and we don't take them off for the whole party, the boys won't know who we are, and we'II have a better chance of hooking up.”
@@ -4000,7 +3852,6 @@ Watch for:
 ## S9 E5 — 5. Baby, You Knock Me Out
 URL: https://watchwiththekids.com/ep/family-guy/0905.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter receives tickets to a boxing match as a birthday gift, he volunteers Lois to compete. To everyone's surprise, Lois dominates in the ring, and Peter decides to become her fight promoter. Her frustration with Peter turns into motivation in the ring as the housewife turns champion.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4029,7 +3880,6 @@ Watch for:
 ## S9 E6 — 6. Brian Writes a Bestseller
 URL: https://watchwiththekids.com/ep/family-guy/0906.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Feeling discouraged with the progress of his writing career, Brian decides to throw in the towel until Stewie becomes his manager and one of his books hits the bestseller list. But when the fame goes to his head, Brian gets a wake-up call from Bill Maher (appearing in a live-action scene as himself).
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I've injected him with the Viagra.”
@@ -4051,7 +3901,6 @@ Watch for:
 ## S9 E7 — 7. Road to the North Pole
 URL: https://watchwiththekids.com/ep/family-guy/0907.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stewie's favorite thing after his teddy bear, Rupert, is Christmas. So when he hears that Santa is making an appearance at the mall, he begs Brian to take him so that he can tell Santa in person what he wants for Christmas. Brian begrudgingly takes Stewie to the mall, only to get the brush-off from Santa. As a result, Stewie and Brian travel to the North Pole to find Santa and teach him a lesson in holiday cheer.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Let's get those reindeer hooked up and get out of here.”
@@ -4089,7 +3938,6 @@ Watch for:
 ## S9 E8 — 8. New Kidney in Town
 URL: https://watchwiththekids.com/ep/family-guy/0908.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After years of drinking with the guys, Peter's love of the sauce has finally caught up with him and he needs a kidney transplant. Brian offers him one of his, but will a canine kidney be compatible? Meanwhile, Meg and Chris collaborate on a poem to celebrate a very important visitor.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Let's get you hooked up.”
@@ -4109,7 +3957,6 @@ Watch for:
 ## S9 E9 — 9. And I'm Joyce Kinney
 URL: https://watchwiththekids.com/ep/family-guy/0909.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Lois becomes friends with Joyce Kinney, the new local news anchor, and Joyce convinces Lois to let her do a story on her as the model American housewife. The television story makes Lois look terrible, and Joyce is unapologetic, leaving Lois no choice but to right a wrong.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And that's why whenever I have sex without protection, I call it, "Taking a John Chancellor.”
@@ -4144,10 +3991,9 @@ Watch for:
   - “Your mom's in a porno! I saw her boobs! -Shut up! -Hey, Griffin, your mom's a whore! Come on, guys, knock it off! Yeah, Griffin, your mom's gross and nasty! -Hey! -Not cool! That's a dude's mom! Well, she's also my mom.”
   - “Your mom's a whore! -Yeah! Suck it! -You're a whore-daughter! -Yeah, Griffin gets it! Boy, I'm really Iooking forward to this.”
 
-## S9 E10 — Friends of Peter G
+## S9 E10 — 10. Friends of Peter G
 URL: https://watchwiththekids.com/ep/family-guy/0910.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After a public disturbance, Peter and Brian are forced to attend a 12-step meeting to help kick their drinking problems. Unable to recognize his issue, Peter gets a visit from Death, who gives him a glimpse of what life would be like with and without "Mr. Booze" in his bloodstream.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Oh, my God! I wouldn't have sex with Angela! -She's disgusting! - Not when you're drunk, she's not.”
@@ -4177,10 +4023,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Is it? Hey, hey, fatty, wake up.”
 
-## S9 E11 — German Guy
+## S9 E11 — 11. German Guy
 URL: https://watchwiththekids.com/ep/family-guy/0911.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: On the search to find a new hobby, Chris meets a puppeteer named Franz, an old friend of Herbert's. Despite Herbert's warnings, Chris and Franz remain friends until Franz's checkered past is suddenly revealed.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You paid her to have sex.”
@@ -4200,10 +4045,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Remember, kids, she's not a whore if she's an actress.”
 
-## S9 E12 — The Hand That Rocks the Wheelchair
+## S9 E12 — 12. The Hand That Rocks the Wheelchair
 URL: https://watchwiththekids.com/ep/family-guy/0912.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Bonnie goes out of town, Meg offers to check in on Joe, but she soon becomes a little too involved and starts freaking everyone out - especially Joe. Meanwhile, Stewie thinks he's losing his edge as the toughest baby on the block, so he hooks himself up to a machine that is supposed to make him more evil than ever before.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “And go have sex with Quagmire.”
@@ -4226,10 +4070,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Ma'am, is this your bag? I don't know how that cocaine got in there.”
 
-## S9 E13 — Trading Places
+## S9 E13 — 13. Trading Places
 URL: https://watchwiththekids.com/ep/family-guy/0913.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Chris and Meg think their parents have it easy, and Peter and Lois beg to differ, so in order to teach them a lesson, they all trade roles. Chris goes to work at the brewery while Meg runs the house. While things start off well, it's not long until the stress of running a household and being the sole breadwinner break down Chris and Meg.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4257,10 +4100,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Hey, fat ass, you Iike You Iike this bus bench? I It's okay.”
 
-## S9 E14 — Tiegs for Two
+## S9 E14 — 14. Tiegs for Two
 URL: https://watchwiththekids.com/ep/family-guy/0914.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When the local dry cleaner loses Peter's favorite white shirt, he goes ballistic. Meanwhile, Brian tries to score on a date with a new friend, Denise, but ends up striking out. Instead of calling it quits on love, he decides to enlist Quagmire's help, but things get nasty when they start to compete for the affections of each other's old flames, Cheryl Tiegs and Jillian .
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4288,10 +4130,9 @@ Watch for:
   - “Hey, who was that fat chick sneaking out of here this morning? Oh, that was someone I met from class.”
   - “Hey, Cheryl, get your fat ass over here before I dump you.”
 
-## S9 E15 — Brothers & Sisters
+## S9 E15 — 15. Brothers & Sisters
 URL: https://watchwiththekids.com/ep/family-guy/0915.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Mayor West marries Lois' sister, Carol, they move into the Griffin's house to be one big "happy" family. To make room for everyone, Stewie is bumped out of his room and takes over Chris' room, but not everyone is annoyed by the change. Peter and Mayor West bond and become best friends.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Like deciding whether or not you're going to have time to masturbate.”
@@ -4313,10 +4154,9 @@ Watch for:
   - “Aunt Carol, Mom says you'd make a great FIorida whore.”
   - “You know, I always thought I'd be a good FIorida whore.”
 
-## S9 E16 — The Big Bang Theory
+## S9 E16 — 16. The Big Bang Theory
 URL: https://watchwiththekids.com/ep/family-guy/0916.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stewie and Brian go back in time to stop Bertram from killing Leonardo da Vinci.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “…Bertram go back this far to get rid of you? Ah, you're forgetting I initially encountered Bertram as a sperm in one of the fat man's balls, so he couldn't get rid of the fat man or any recent ancestor on my…”
@@ -4335,10 +4175,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Hey, slut, get me out of this.”
 
-## S9 E17 — Foreign Affairs
+## S9 E17 — 17. Foreign Affairs
 URL: https://watchwiththekids.com/ep/family-guy/0917.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Bonnie and Lois take a trip to Paris, Bonnie crosses the line while in the City of Love. Meanwhile, Peter homeschools Chris and Meg using some unorthodox teaching methods.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “An old Con Ed bill I mean, a new testament of Jesus Christ! Everyone has to sleep with me! -What? -And no dancing! But recent years have also seen many important historical events.”
@@ -4357,10 +4196,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “And could you bring me a beer? Oh! I feel so elegant.”
 
-## S9 E18 — It's a Trap!
+## S9 E18 — 18. It's a Trap!
 URL: https://watchwiththekids.com/ep/family-guy/0918.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Return to the Griffins' version of that galaxy far, far away as their freakin' sweet saga continues with the final installment of the hilarious three-part "Star Wars" satire. Following 2005's "Family Guy: Blue Harvest" and last year's "Family Guy: Something, Something, Something Dark Side," the Griffins reprise their intergalactic roles in an outrageous retelling of "Star Wars, Episode VI: Return of the Jedi" .
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Now, excuse me, I have to make out with my girlfriend.”
@@ -4388,7 +4226,6 @@ Watch for:
 ## S10 E1 — 1. Lottery Fever
 URL: https://watchwiththekids.com/ep/family-guy/1001.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter blows his savings on lottery tickets and the family writes it off as one of his usual shenanigans until they end up millionaires. In true Griffin fashion, they can't handle the good fortune and struggle to stay grounded.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4417,7 +4254,6 @@ Watch for:
 ## S10 E2 — 2. Seahorse Seashell Party (2)
 URL: https://watchwiththekids.com/ep/family-guy/1002.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When a storm hits in Quahog, to help pass the time and calm his nerves, Brian consumes some questionable substances and has trouble sobering up. Meanwhile, Meg goes off the deep end after the family takes one too many jabs at her.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Peter? You come back here! I faked all my orgasms! Hey.”
@@ -4446,7 +4282,6 @@ Watch for:
 ## S10 E3 — 3. Screams of Silence: The Story of Brenda Q
 URL: https://watchwiththekids.com/ep/family-guy/1003.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Quagmire lands in the hospital and his sister, Brenda, and her boyfriend, Jeff, rush to Quahog to nurse him back to health. As Glenn recovers he quickly realizes that Brenda is the one who needs help.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4483,7 +4318,6 @@ Watch for:
 ## S10 E4 — 4. Stewie Goes for a Drive
 URL: https://watchwiththekids.com/ep/family-guy/1004.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Ryan Reynolds pays a visit to Quahog and becomes obsessed with Peter Griffin. Meanwhile, Stewie tries to be a big boy and steals the family car for a joy ride but lands in a bit of trouble.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Why would any man dress well, groom himself and lift weights just to sleep with other men? He's not gay.”
@@ -4505,7 +4339,6 @@ Watch for:
 ## S10 E5 — 5. Back to the Pilot
 URL: https://watchwiththekids.com/ep/family-guy/1005.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Brian and Stewie travel back in time to the pilot episode of FAMILY GUY to change history, and then to change history again.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4524,7 +4357,6 @@ Watch for:
 ## S10 E6 — 6. Thanksgiving
 URL: https://watchwiththekids.com/ep/family-guy/1006.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Lois cooks a big Thanksgiving meal and invites the whole crew over for dinner, and Joe is shocked when his formerly M.I.A. son, Kevin Swanson, returns from Iraq.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “How could you do that?! Coward! Traitor! If you think that I'm gonna masturbate after this tonight, you're right.”
@@ -4544,7 +4376,6 @@ Watch for:
 ## S10 E7 — 7. Amish Guy
 URL: https://watchwiththekids.com/ep/family-guy/1007.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: On the return from an adventurous day at an amusement park, the Griffins' car breaks down in Amish country and they are stranded with no way out. When Meg falls for an Amish boy, the Griffins then find themselves in a crusade against the conservative locals.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Uh, preferably one where I have to sleep with my bag taped to my body.”
@@ -4564,7 +4395,6 @@ Watch for:
 ## S10 E8 — 8. Cool Hand Peter
 URL: https://watchwiththekids.com/ep/family-guy/1008.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter and the guys take a stand against their wives and flee to the Deep South on a road trip. On the way there, the men earn a one-way ticket to jail. But when they decide to make a run for it, Joe's quick planning and Peter's seductive ways help them escape. Meanwhile, Lois spends some quality time with the girls and they engage in childish antics.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4587,7 +4417,6 @@ Watch for:
 ## S10 E9 — 9. Grumpy Old Man
 URL: https://watchwiththekids.com/ep/family-guy/1009.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: It's winter in Quahog, and Lois' parents, Carter and Babs, take Stewie for a trip. But when Carter falls asleep at the wheel, the family decides it might be time for him to retire. Peter and Lois take the clan to Florida to check out some fine retirement communities, but Carter refuses to go down without a fight.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I can't even get any sleep with him here.”
@@ -4614,16 +4443,14 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Aw, that sounds like the sad little fat girl who lives in all of us and is struggling to get out.”
 
-## S10 E10 — Quagmire & Meg
+## S10 E10 — 10. Quagmire & Meg
 URL: https://watchwiththekids.com/ep/family-guy/1010.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Meg finally turns 18, Quagmire seizes the opportunity to pursue his next romantic conquest. As the new couple's relationship blossoms, Peter stops at nothing to come in between his innocent - well, somewhat innocent - daughter and his creepy friend.
 Watch for:
-- Sex & hookups — 6 moment(s)
+- Sex & hookups — 5 moment(s)
   - “Well, she may not plan on sleeping with him, but you don't know how smooth Quagmire is, Lois.”
   - “Did you have sex with my daughter? What? Come on, Peter.”
   - “Did you have sex with my daughter?! Peter, trust me, it's not happening.”
-  - “Oh, is that right? Oh, don't worry, Peter, he's not going to sleep with her.”
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
   - “He calls it his sex cabin.”
 - Nudity & bodies — 2 moment(s)
@@ -4644,10 +4471,9 @@ Watch for:
   - “Look at Quagmire hitting on that skank.”
   - “Peter, that skank is your daughter.”
 
-## S10 E11 — The Blind Side
+## S10 E11 — 11. The Blind Side
 URL: https://watchwiththekids.com/ep/family-guy/1011.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian starts dating a blind girl and things get a little dicey when she divulges that she hates dogs. Meanwhile, the Griffin family installs a new staircase in their home when Peter keeps falling on the old one and decides to live upstairs full-time.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Orgasm eyes, orgasm eyes.”
@@ -4675,10 +4501,9 @@ Watch for:
   - “Coming! Damn it! Oh, my God, Peter.”
   - “This is stressing the crap out of me.”
 
-## S10 E12 — Livin' on a Prayer
+## S10 E12 — 12. Livin' on a Prayer
 URL: https://watchwiththekids.com/ep/family-guy/1012.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Stewie's new best friend falls ill, Lois takes him to the hospital where she finds out he has a critical, but treatable, disease. However, the boy's parents refuse treatment due to their religious beliefs, leaving Lois no choice but to take drastic measures to seek treatment for the boy herself. Meanwhile, Peter has a religious experience of his own.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Come up and have sex with me some time.”
@@ -4696,10 +4521,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “You know, Lois, this couch would be perfect for one of your red wine pass-outs.”
 
-## S10 E13 — Tom Tucker: The Man and His Dream
+## S10 E13 — 13. Tom Tucker: The Man and His Dream
 URL: https://watchwiththekids.com/ep/family-guy/1013.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter decides to be a famous actor, he becomes Tom Tucker's agent as his first step toward stardom. Meanwhile, Chris dates a girl who looks disturbingly like a member of the Griffin household.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “My body was immediately taken to a Hollywood hospital, where I was hooked up to a 17-year-old ingenue.”
@@ -4715,10 +4539,9 @@ Watch for:
   - “What the hell is going on here? Is it is itAm I having a stroke? Wait, Peter! Don't go! So, you changed your mind, huh, buddy? We going to Hollywood? You betcha.”
   - “But you put me and my family through a lot of crap over the years.”
 
-## S10 E14 — Be Careful What You Fish For
+## S10 E14 — 14. Be Careful What You Fish For
 URL: https://watchwiththekids.com/ep/family-guy/1014.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When Peter and the guys try to salvage a sunken Mercedes-Benz, Peter half-heartedly promises a favor to a helpful dolphin. Soon the dolphin moves to Quahog, outstays his welcome at Peter's and moves into Cleveland's house across the street. Peter tries to reunite the dolphin with his ex-wife in hopes that he'll return to the ocean, but his plan backfires and the whole dolphin family moves into Cleveland's.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4733,10 +4556,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Things ain't so good in America right now, which is why we're all so fat.”
 
-## S10 E15 — Burning Down the Bayit
+## S10 E15 — 15. Burning Down the Bayit
 URL: https://watchwiththekids.com/ep/family-guy/1015.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Overwhelmed with financial troubles, Mort asks Peter and Quagmire to help him save his pharmacy. However, things take a turn for the worse when the trio decides to burn it down to collect insurance money.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4756,10 +4578,9 @@ Watch for:
   - “You're damn right it was.”
   - “Oh, my God, he's so pissed, he's calling.”
 
-## S10 E16 — Killer Queen
+## S10 E16 — 16. Killer Queen
 URL: https://watchwiththekids.com/ep/family-guy/1016.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter and Chris go away to fat camp, they cross paths with a serial killer who targets overweight kids. Meanwhile, Stewie is traumatized by the frightening cover of a Queen album.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4793,10 +4614,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “In fact, I once caught him trying to pick up a quack whore.”
 
-## S10 E17 — Forget-Me-Not
+## S10 E17 — 17. Forget-Me-Not
 URL: https://watchwiththekids.com/ep/family-guy/1017.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When a seemingly innocent guy's night out takes a sudden turn, Peter, Joe, Brian and Quagmire wake up in a hospital and discover that their memories have been erased and Quahog has been deserted.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4812,10 +4632,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Well, Peter isn't here, is he?! Because you were supposed to be watching him, but you were smoking marijuana and he drowned! What? No, he's at a PTA meeting.”
 
-## S10 E18 — You Can't Do That on Television, Peter
+## S10 E18 — 18. You Can't Do That on Television, Peter
 URL: https://watchwiththekids.com/ep/family-guy/1018.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: After Peter's favorite children's television show gets cancelled, he takes matters into his own hands by creating and starring in his own show for kids. Meanwhile, Meg begins an internship at the hospital with Dr. Hartman.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4832,10 +4651,9 @@ Watch for:
   - “Peter, what the hell are you doing? Being a good dad like you asked.”
   - “Hey, hey, hey, what the hell is all the commotion in here? We're not doing anything.”
 
-## S10 E19 — Mr. and Mrs. Stewie
+## S10 E19 — 19. Mr. and Mrs. Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1019.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Stewie becomes smitten when he meets a girl who happens to be the female version of himself. Meanwhile, Peter and Quagmire take their friendship to a new level.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Lois, if God wanted me to not sleep with my wife, he would have made me John Travolta.”
@@ -4856,10 +4674,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “What the hell were you doing talking to him? You know who I think is an ugly slut? Miss Sharon.”
 
-## S10 E20 — Leggo My Meg-O
+## S10 E20 — 20. Leggo My Meg-O
 URL: https://watchwiththekids.com/ep/family-guy/1020.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Meg travels abroad to Europe, her exciting adventure comes to a halt when she gets kidnapped. Brian and Stewie embark on an action-packed mission to find her before it's too late.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4874,10 +4691,9 @@ Watch for:
   - “See? Aw, crap, they're taking her onto that yacht.”
   - “That's for shooting one of our guys! We got you! In your face! Our boat! Our boat! This boat! Let me go, you fat bastard! I will never be your sex slave! You misunderstand.”
 
-## S10 E21 — Tea Peter
+## S10 E21 — 21. Tea Peter
 URL: https://watchwiththekids.com/ep/family-guy/1021.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After Quahog City Hall threatens to shut down Peter's illegally-run business, Peter joins the Tea Party and successfully campaigns to shut down the government. As a result of all the chaos in Quahog, Peter's father-in-law, Carter, reaps the benefits.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “One two three! Yeah! Oh Hey, you ever accidentally masturbate to young pictures of your mom? Who the starts a conversation like that? I just sat down.”
@@ -4895,10 +4711,9 @@ Watch for:
   - “Damn it, this is what I was afraid was going to happen.”
   - “Some of our representatives may end up being bastards.”
 
-## S10 E22 — Family Guy Viewer Mail (2)
+## S10 E22 — 22. Family Guy Viewer Mail (2)
 URL: https://watchwiththekids.com/ep/family-guy/1022.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Continuing a popular show tradition, Brian and Stewie respond to viewer mail. We meet a British version of the Griffins, Quahog is taken over by a famous comedian and we get to see the world from Stewie's POV. Then, Peter encourages Joe to have a one-night stand with his attractive new partner in order to even the score with Bonnie for her own indiscretions. But when Bonnie finds out and threatens divorce, Lois insists that Peter get them back together. Meanwhile, Peter has another run-in with the angry chicken which makes for yet another epic fight.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4928,10 +4743,9 @@ Watch for:
   - “What a two-bit Wichita whore.”
   - “I'm swimming at night 'cause I'm a slut and now I'm paying the price for it.”
 
-## S10 E23 — Internal Affairs
+## S10 E23 — 23. Internal Affairs
 URL: https://watchwiththekids.com/ep/family-guy/1023.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Joe cheats on the cheating Bonnie; and it's Peter vs. the angry chicken (again).
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Sleeping with this girl wi even things up.”
@@ -4967,7 +4781,6 @@ Watch for:
 ## S11 E1 — 1. Into Fat Air
 URL: https://watchwiththekids.com/ep/family-guy/1101.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: In the season premiere, the Griffins decide to climb Mount Everest after their competitive family friends announce their ambitious plans to hike the legendary mountain. However, things go awry when the Griffins get stuck on the mountainside in the middle of a massive storm.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -4988,7 +4801,6 @@ Watch for:
 ## S11 E2 — 2. Ratings Guy
 URL: https://watchwiththekids.com/ep/family-guy/1102.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: On a Halloween-themed night, the Griffins are selected to have their television viewing habits monitored. But Peter takes his participation too far when he tries to control the airwaves.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And, uh, here's Paul to play you to sleep with a lullaby.”
@@ -5015,7 +4827,6 @@ Watch for:
 ## S11 E3 — 3. The Old Man & the Big 'C'
 URL: https://watchwiththekids.com/ep/family-guy/1103.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Brian discovers that Carter Pewterschmidt's pharmaceutical company is withholding the cure for cancer from the public in order to gain more profit, he and Stewie plot to expose the big secret that could change the world. Meanwhile, Quagmire reveals a hair-raising secret of his own.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Our research shows the primary use of our product is sperm.”
@@ -5048,7 +4859,6 @@ Watch for:
 ## S11 E4 — 4. Yug Ylimaf
 URL: https://watchwiththekids.com/ep/family-guy/1104.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Brian uses Stewie's time machine to impress women whom he meets at bars, he accidentally causes time to run in reverse. So he and Stewie must figure out how to restore the forward progress of time before Stewie is unborn. Then, in the FAMILY GUY 200th Episode retrospective, fans will get a behind-the-scenes look at this irreverent comedy's most outrageous moments, through fascinating interviews with creator Seth MacFarlane and voice actors Mila Kunis, Alex Borstein and Seth Green. Additionally, the special will give fans an exclusive glimpse into the cast and crew's 200th episode party in Los Angeles.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “The only way I believe I'm pretty is if strangers have sex with me.”
@@ -5078,7 +4888,6 @@ Watch for:
 ## S11 E5 — 5. Joe's Revenge
 URL: https://watchwiththekids.com/ep/family-guy/1105.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The criminal who, years ago, shot Joe and left him in a wheelchair, becomes a fugitive. So, Quagmire, Joe and Peter team up to hunt the bad guy down.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -5113,7 +4922,6 @@ Watch for:
 ## S11 E6 — 6. Lois Comes Out of Her Shell
 URL: https://watchwiththekids.com/ep/family-guy/1106.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Lois experiences a mid-life crisis, and Peter tries to keep up with her new, wild lifestyle. Meanwhile, Stewie finds a turtle at the park and brings him home as his new pet, unaware that the turtle is evil and determined to destroy Stewie's life.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Let's have sex on all the clean, folded laundry.”
@@ -5142,7 +4950,6 @@ Watch for:
 ## S11 E7 — 7. Friends Without Benefits
 URL: https://watchwiththekids.com/ep/family-guy/1107.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When Meg finally gathers the courage to ask out her crush, Kent, she is devastated to learn he's gay. But when Meg discovers that Kent has feelings for Chris, she uses her brother in the worst way to get closer to Kent.
 Watch for:
 - Sex & hookups — 10 moment(s)
   - “Are you sure we don't need a condom? No, it's okay, I'm a lawyer.”
@@ -5167,7 +4974,6 @@ Watch for:
 ## S11 E8 — 8. Jesus, Mary & Joseph
 URL: https://watchwiththekids.com/ep/family-guy/1108.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter tells his own version of the Nativity story.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Not just because Mary was a virgin, but because baseball would not be invented for 1,800 years and nobody knew what the hell he was talking about.”
@@ -5197,7 +5003,6 @@ Watch for:
 ## S11 E9 — 9. Space Cadet
 URL: https://watchwiththekids.com/ep/family-guy/1109.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: To boost Chris' self-esteem, Peter and Lois send him to space camp. When camp ends and the Griffins come to pick Chris up, they accidentally are launched into outer space, and it's up to Chris to land the clan safely back on earth.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Stop making fun of me! I just wanted to listen to you guys have sex, but you were saying mean things about me.”
@@ -5217,10 +5022,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Hello? Hey, is fat ass home yet? Put him on, I want to talk to him.”
 
-## S11 E10 — Brian's Play
+## S11 E10 — 10. Brian's Play
 URL: https://watchwiththekids.com/ep/family-guy/1110.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Brian writes a play that's a hit in Quahog, but his confidence is shaken when he reads a play Stewie wrote that's much better than his. Soon, Stewie's work is Broadway-bound, causing a rift between the two.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -5233,10 +5037,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “We both know those are the ingredients used to make crystal meth.”
 
-## S11 E11 — The Giggity Wife
+## S11 E11 — 11. The Giggity Wife
 URL: https://watchwiththekids.com/ep/family-guy/1111.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Peter, Quagmire and Joe visit the Harvard University campus, Quagmire accidentally marries a prostitute. In order to get out of his marriage, Quagmire pretends to be lovers with Peter.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Let me watch you have sex with a man.”
@@ -5269,10 +5072,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You heard her, the crazy skank wants to be a wife.”
 
-## S11 E12 — Valentine's Day in Quahog
+## S11 E12 — 12. Valentine's Day in Quahog
 URL: https://watchwiththekids.com/ep/family-guy/1112.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Love is in the air on Valentine's Day. Meg dates a guy from the internet, Stewie uses his time machine and falls for a girl in the '60s and Peter and Lois decide to stay in bed all day. Meanwhile, Brian's ex-girlfriends pay him a visit and Quagmire gets in touch with his feminine side.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “What are you talking about? Bombay is sperm city.”
@@ -5302,10 +5104,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Yeah, you slut.”
 
-## S11 E13 — Chris Cross
+## S11 E13 — 13. Chris Cross
 URL: https://watchwiththekids.com/ep/family-guy/1113.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: To buy new sneakers, Chris steals money from Lois' purse. When Meg catches him in the act, she forces him to do all of her chores in exchange for keeping mum. But Chris finally tires of the pact, and runs away to live with Herbert. Meanwhile, Stewie and Brian become obsessed with singer Anne Murray, and visit her to find out the true meaning of "Snowbird".
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “This portion of the Channel 5 News at 6:00 is brought to you buy condoms.”
@@ -5322,10 +5123,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I'll pour some wine, rub in some feces, and, to top it off, some mustard mixed with feces.”
 
-## S11 E14 — Call Girl
+## S11 E14 — 14. Call Girl
 URL: https://watchwiththekids.com/ep/family-guy/1114.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When the Griffins find themselves in a financial bind, Lois is forced to find a job of her own. She gets discovered by a "voiceover" talent agent named Randy, who actually runs an adult-only phone line and pays his employees generously. As Lois settles into her new gig, she hears Peter's voice on the other end of the line. Peter introduces his pet falcon Xerces that has been trained to retrieve items for him to everyone.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Hey, Joe, how often do you have sex with Bonnie? Well, my HMO only pays for the equipment once a year.”
@@ -5350,10 +5150,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You must be a phone whore.”
 
-## S11 E15 — Turban Cowboy
+## S11 E15 — 15. Turban Cowboy
 URL: https://watchwiththekids.com/ep/family-guy/1115.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter, Quagmire and Joe need a jolt in their mundane lives, they decide to go skydiving. But after an unfortunate accident, Peter ends up in the hospital, where he befriends Mahmoud, who convinces Peter to convert to Islam. Quagmire and Joe are suspicious of Mahmoud's intentions and try to stop the friendship from progressing.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It's like ear-bloodening sounds had sex with nose-bloodening smells and this is their baby.”
@@ -5366,10 +5165,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “What? What are you talking about? This is your post-9/11 racism talking.”
 
-## S11 E16 — 12 and a Half Angry Men
+## S11 E16 — 16. 12 and a Half Angry Men
 URL: https://watchwiththekids.com/ep/family-guy/1116.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Bloody murder occurs at Mayor West's mansion, and he is the prime suspect. The mayor is put on trial, and it is up to the citizens of Quahog to determine if he is guilty or not.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “rex trying to masturbate.”
@@ -5401,10 +5199,9 @@ Watch for:
   - “Do you guys mind if I struggle to open these blinds? Damn it, come on, stay up there.”
   - “I mean, doesn't that mean anything? No, not to West, that ungrateful bastard.”
 
-## S11 E17 — Bigfat
+## S11 E17 — 17. Bigfat
 URL: https://watchwiththekids.com/ep/family-guy/1117.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When Peter, Quagmire and Joe fly on a private plane to Canada, they crash in the middle of the wilderness, far from civilization. Peter is chosen to find help, but ends up going missing for two months, only to be found as a feral creature with no ability to communicate intelligently. The Griffins must find a way to bring back Peter to his old self.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Just like Inspector Gadget forgot about that one-night stand.”
@@ -5418,10 +5215,9 @@ Watch for:
   - “What is the atomic weight of nitrogen? Get him, guys! Stab him in the butt! Okay, bye, you guys.”
   - “Honey, don't you think it's weird that our three-year-old son is murdering animals? Nonsense.”
 
-## S11 E18 — Total Recall
+## S11 E18 — 18. Total Recall
 URL: https://watchwiththekids.com/ep/family-guy/1118.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After teddy bear Rupert gets recalled, Stewie stops at nothing to get back his beloved best friend. Meanwhile, Peter falls ill and can't compete in his bowling tournament. So Lois fills in for him. But when she gets a little too close to Peter's teammates, he gets jealous.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “It was the first time I had an orgasm out the front and back.”
@@ -5457,10 +5253,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “My white blood cells attacked the pathogens and created antibodies, and then the pathogens were filtered out by my kidneys into my urine and then expelled from my body, you slut.”
 
-## S11 E19 — Save the Clam
+## S11 E19 — 19. Save the Clam
 URL: https://watchwiththekids.com/ep/family-guy/1119.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When the owner of the Clam is killed, the bar closes and Peter, Quagmire and Joe must find a way to save their beloved watering hole. Meanwhile, Meg gets an after-school job at a funeral home.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “If we don't lose our virginity tonight, we're never gonna make it in college! Hey, where's Peter? Only talking to Amanda Small, the hottest girl in school.”
@@ -5487,10 +5282,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Uh, yes, I'd like to mail this to a whore.”
 
-## S11 E20 — Farmer Guy
+## S11 E20 — 20. Farmer Guy
 URL: https://watchwiththekids.com/ep/family-guy/1120.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When the Griffins move to a farm, Peter gets into the illicit drug business, a la "Breaking Bad,".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -5510,10 +5304,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You sick whore.”
 
-## S11 E21 — Road to Vegas
+## S11 E21 — 21. Road to Vegas
 URL: https://watchwiththekids.com/ep/family-guy/1121.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stewie and Brian use Stewie's time machine to go to Las Vegas for a Bette Midler concert, but chaos ensues when the machine malfunctions and creates alt-versions of the pair: a "lucky" version and an "unlucky" one. Then, the Griffins are invited to join the prestigious Barrington Country Club and, of course, get thrown out.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They were promised a single millionaire, but it's really just a bunch of horny squirrels in a rich-guy suit.”
@@ -5537,10 +5330,9 @@ Watch for:
   - “I see-- is there a less heavy person that could check again for me? I'm sorry, we're all booked up because the Slut Convention's in town.”
   - “Slut Convention? Yeah.”
 
-## S11 E22 — No Country Club for Old Men
+## S11 E22 — 22. No Country Club for Old Men
 URL: https://watchwiththekids.com/ep/family-guy/1122.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The Griffins receive an invite to join a posh country club, the Barringtons. Peters father in-law gets jealous because he has been trying to join for years.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “We never even got a chance to have sex.”
@@ -5564,7 +5356,6 @@ Watch for:
 ## S12 E1 — 1. Finders Keepers
 URL: https://watchwiththekids.com/ep/family-guy/1201.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter is convinced that a restaurant placemat is a treasure map. Word quickly spreads about the alleged cache, sparking a city-wide search and turning the citizens of Quahog against each other.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -5599,7 +5390,6 @@ Watch for:
 ## S12 E2 — 2. Vestigial Peter
 URL: https://watchwiththekids.com/ep/family-guy/1202.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter discovers that he has a vestigial twin, whom he names Chip, growing out of his neck. It's not long before Peter resents the fact that everyone seems to love Chip more than him, so he decides to amputate his twin. However, when Peter gets into trouble, he realizes he needs Chip more than ever.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…And have them come get me I want to swim in the pool but only with my shirt on I want to lose my virginity at 24 But tell everyone I was 16 Ah, crap, I'm out of beer.”
@@ -5620,7 +5410,6 @@ Watch for:
 ## S12 E3 — 3. Quagmire's Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/1203.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Quagmire meets a woman named Sonja who is as sexually insatiable as he is, he is thrilled to finally be with someone who won't judge him. However, things take a turn for the worse when Sonja abducts Quagmire, intending to make him her sex slave. It is up to Peter, Joe and Quagmire's dad to explore the seedy underbelly of Quahog to find and rescue Quagmire. Meanwhile, a love triangle emerges between Stewie, Brian and Stewie's teddy bear, Rupert,.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “I'm still weirded out from when I walked in on that masturbating Eskimo.”
@@ -5653,7 +5442,6 @@ Watch for:
 ## S12 E4 — 4. A Fistful of Meg
 URL: https://watchwiththekids.com/ep/family-guy/1204.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Meg spills her lunch on the new kid, Michael, who is appropriately nicknamed "Mental Mike." When he sets the date for her end on Friday, Meg tries to get out of it. Meanwhile, Peter continually harasses Brian in the nude until it escalates to the breaking point.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -5688,7 +5476,6 @@ Watch for:
 ## S12 E5 — 5. Boopa-dee Bappa-dee
 URL: https://watchwiththekids.com/ep/family-guy/1205.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The Griffins take a trip to Italy and are forced to deal with annoying immigration laws after Peter destroys the family's passports.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “We haven't done it like that since we were engaged but allowed to sleep with other people.”
@@ -5710,7 +5497,6 @@ Watch for:
 ## S12 E6 — 6. Life of Brian
 URL: https://watchwiththekids.com/ep/family-guy/1206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Stewie and Brian travel back to 17th century Jamestown, via Stewie's time machine, they encounter too many close calls with altering the course of mankind. Stewie decides to destroy his time machine, but immediately regrets his decision when an unthinkable event happens and he is unable to go back in time.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I sleep with a fork.”
@@ -5735,7 +5521,6 @@ Watch for:
 ## S12 E7 — 7. Into Harmony's Way
 URL: https://watchwiththekids.com/ep/family-guy/1207.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Peter and Quagmire discover that their singing voices create beautiful harmony together, they form a singing/songwriting team, in the vein of Simon and Garfunkel. However, tensions run high when fame gets to Peter's head.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Don't store your condoms in your billfold Those things don't work if they get dry and old Broken rubber Broken rubber!”
@@ -5760,7 +5545,6 @@ Watch for:
 ## S12 E8 — 8. Christmas Guy
 URL: https://watchwiththekids.com/ep/family-guy/1208.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Carter Pewterschmidt cancels the annual Quahog Christmas carnival, because he hates the holiday, Peter must transform his father-in-law from a Scrooge into a hometown hero in order to salvage the event. Meanwhile, Stewie devises a master plan to get the one and only thing he wants for Christmas.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Okay, Carter, a big part of Christmas is masturbating like you would any other day but feeling guilty about it because it's Christmas.”
@@ -5787,7 +5571,6 @@ Watch for:
 ## S12 E9 — 9. Peter Problems
 URL: https://watchwiththekids.com/ep/family-guy/1209.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Peter finds he can't perform his, um, er, uh, manly duties, he enlists Quagmire and Joe to help him get his mojo back.
 Watch for:
 - Sex & hookups — 8 moment(s)
   - “Don't you want to have sex? I don't think we've done it since I started working.”
@@ -5811,10 +5594,9 @@ Watch for:
   - “I've only had, like, four beers this morning.”
   - “Then that means And that also means You know what, Peter? You tried hard, and you still earned that wine.”
 
-## S12 E10 — Grimm Job
+## S12 E10 — 10. Grimm Job
 URL: https://watchwiththekids.com/ep/family-guy/1210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: From Grimm to Griffin, three classic fairy tales get a new Quahog spin, including "Jack and the Beanstalk," "Little Red Riding Hood," and "Cinderella".
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “And a box of condoms.”
@@ -5840,10 +5622,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “About what? Well, she was my ex-girlfriend, and I believed I was due an explanation about why she was such a whore.”
 
-## S12 E11 — Brian's a Bad Father
+## S12 E11 — 11. Brian's a Bad Father
 URL: https://watchwiththekids.com/ep/family-guy/1211.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Brian's neglected son Dylan shows up in town as a teen TV star, Brian jumps at the opportunity to be hired on the show's writing staff - instead of being a good father. Meanwhile, after Peter accidentally shoots Quagmire on a hunting trip, the two friends clash and Joe must choose a side.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Get out! He was masturbating with a knife.”
@@ -5873,10 +5654,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Lois, why did you buy this?! It was on sale! A writer who inherits a magic typewriter that writes for him, but then it turns out the typewriter is racist? Totally makes sense.”
 
-## S12 E12 — Mom's the Word
+## S12 E12 — 12. Mom's the Word
 URL: https://watchwiththekids.com/ep/family-guy/1212.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After Peter's mother passes away, he forms a special friendship with her longtime pal, Evelyn, who attempts to seduce Peter. Meanwhile, Stewie is distraught when he understands the reality of death for the first time.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Now the red one is sleeping with the green one.”
@@ -5891,10 +5671,9 @@ Watch for:
   - “Yeah, I just remembered, I gotta get the hell out of here.”
   - “Oh, damn, I wanted to die, not turn into Toaster Man.”
 
-## S12 E13 — 3 Acts of God
+## S12 E13 — 13. 3 Acts of God
 URL: https://watchwiththekids.com/ep/family-guy/1213.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter grows frustrated when players on opposing teams continue to thank God after defeating his beloved New England Patriots football team, so he and the guys embark on a global quest to find God and ask Him to stop interfering with the outcome of professional football games.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -5918,10 +5697,9 @@ Watch for:
   - “Uh, yes, telegram for hungover.”
   - “…tips at each meal, right? Look, look, God, why why you got to hurt Patriots fans? These are good, drunk people who work hard to get absolutely nowhere in life.”
 
-## S12 E14 — Fresh Heir
+## S12 E14 — 14. Fresh Heir
 URL: https://watchwiththekids.com/ep/family-guy/1214.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Chris learns that he is the heir to Carter's fortune - but refuses to take the money - Peter takes drastic measures to keep the wealth in the family.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “And the worst part about it, is I can't have sex.”
@@ -5937,10 +5715,9 @@ Watch for:
   - “You don't want to jump the gun.”
   - “Last time I was at Grandpa's, I beat him at checkers and he punched one of my hogans.”
 
-## S12 E15 — Secondhand Spoke
+## S12 E15 — 15. Secondhand Spoke
 URL: https://watchwiththekids.com/ep/family-guy/1215.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter takes up smoking cigarettes, and is approached by Mr. Stone, an advertising executive who wants Peter to be the face of his anti-smoking campaign under the caveat that Peter continues to smoke. Meanwhile, Stewie helps Chris battle bullies at school.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Eh, what do you care? It's not like you have to look at my face when we have sex.”
@@ -5957,10 +5734,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Hey, fat ass.”
 
-## S12 E16 — Herpe the Love Sore
+## S12 E16 — 16. Herpe the Love Sore
 URL: https://watchwiththekids.com/ep/family-guy/1216.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian gives Stewie an STD. Meanwhile, Peter and the guys fight back when another group claims their booth at The Drunken Clam.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -5991,10 +5767,9 @@ Watch for:
   - “You're a gross slut.”
   - “You know, my uncle was in the Army, and he got genital boppo from a Saigon whore Shut up! Just shut up! You should be ashamed of yourself.”
 
-## S12 E17 — The Most Interesting Man in the World
+## S12 E17 — 17. The Most Interesting Man in the World
 URL: https://watchwiththekids.com/ep/family-guy/1217.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Peter takes Stewie to the park for some quality father-son time, he mistakenly takes the wrong baby home, prompting Lois to call him an idiot. Determined to prove to her that he's a responsible adult, Peter goes on a business trip to Chicago and returns as an intelligent, classy person.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6019,10 +5794,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “Homo erectus.”
 
-## S12 E18 — Baby Got Black
+## S12 E18 — 18. Baby Got Black
 URL: https://watchwiththekids.com/ep/family-guy/1218.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Chris begins to date Jerome's daughter, Pam, Jerome forbids it. But when Chris and Pam run away together, Jerome and Peter must work together to find their kids.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Did you walk around naked after you had sex? What? No.”
@@ -6055,10 +5829,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Now, do you prefer "Fatty" or "Miss Boom-Bi-Latty?" So, you don't mind that Pam is black? Chris, it's 1998.”
 
-## S12 E19 — Meg Stinks!
+## S12 E19 — 19. Meg Stinks!
 URL: https://watchwiththekids.com/ep/family-guy/1219.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Meg has fun partying with Peter when he takes her to a college for an interview. Brian must learn how to live in the wild when he gets sprayed by a skunk and is prohibited from entering the house.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You really think Meg is college material, Principal Shepherd? Yeah, she's a solid B student and that's quite an accomplishment, considering none of her teachers are willing to sleep with her.”
@@ -6085,10 +5858,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I'm Drunky! The Dakota University mascot! Look how drunk I am! This is important for sports! Oh, look, you can go to Oral Roberts.”
 
-## S12 E20 — He's Bla-ack!
+## S12 E20 — 20. He's Bla-ack!
 URL: https://watchwiththekids.com/ep/family-guy/1220.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cleveland returns to town, but is instantly banned from spending time with Peter when Lois and Donna get into a big fight over parenting.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Ladies and gentlemen, I give you The Great Quagini! Hey-ey, everybody! There's the birthday girl! Oh, oh, what's that behind your ear? Oh, it's a condom! Quagmire, please stop touching my baby with a condom.”
@@ -6118,10 +5890,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “That sounds even more racist than it is.”
 
-## S12 E21 — Chap Stewie
+## S12 E21 — 21. Chap Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1221.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter and Chris interrupt Stewie's TV time, the angry baby goes back in time to break up Peter and Lois, so he's never conceived. But instead, he is reborn into a "Downton Abbey"-esque British household.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6150,7 +5921,6 @@ Watch for:
 ## S13 E1 — 1. The Simpsons Guy
 URL: https://watchwiththekids.com/ep/family-guy/1301.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: In "The Simpsons Guy" episode of FAMILY GUY, Peter and the Griffins get out of dodge and end up in Springfield, where they are greeted by a friendly stranger named Homer Simpson, who welcomes his new "albino" friends with open arms. The families get along famously: Stewie and Bart make out like bandits when Stewie trades in his mind control device for a good old-fashioned slingshot; Lisa takes Meg under her wing and teaches her the saxophone; and Peter and Homer fight over the best beer in town - Pawtucket vs Duff
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You strangle your son? That's insane! No wonder he's fat and stupid and masturbates all the time.”
@@ -6186,7 +5956,6 @@ Watch for:
 ## S13 E2 — 2. The Book of Joe
 URL: https://watchwiththekids.com/ep/family-guy/1302.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter helps Joe realize his dream of publishing a book, but things get out of hand when Peter takes over as the author. Meanwhile, Brian starts exercising to the extreme after experiencing a euphoric runner's high for the first time.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6217,7 +5986,6 @@ Watch for:
 ## S13 E3 — 3. Baking Bad
 URL: https://watchwiththekids.com/ep/family-guy/1303.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois and Peter go into business together and open a cookie store, but things get messy when Peter comes up with his own way to get more customers.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “We're doing a masturbation intervention.”
@@ -6246,7 +6014,6 @@ Watch for:
 ## S13 E4 — 4. Brian the Closer
 URL: https://watchwiththekids.com/ep/family-guy/1304.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After Brian undergoes cosmetic surgery he is faced with a new career---real-estate agent---which leads to trouble with Quagmire.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “But now that you mention it, your face looks like a used condom.”
@@ -6271,7 +6038,6 @@ Watch for:
 ## S13 E5 — 5. Turkey Guys
 URL: https://watchwiththekids.com/ep/family-guy/1305.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: On Thanksgiving eve, a drunken and ravenous Peter and Brian wolf down the holiday turkey, and then must go on hunt to find a replacement bird. With Peter gone, Chris decides to step up and take over as man of the house.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6293,7 +6059,6 @@ Watch for:
 ## S13 E6 — 6. The 2000-Year-Old Virgin
 URL: https://watchwiththekids.com/ep/family-guy/1306.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter is stunned to run into Jesus at the mall, and even more stunned to discover that he is still a virgin, so Peter recruits Quagmire and Cleveland to celebrate Jesus' birthday by finding a way to end his celibacy.
 Watch for:
 - Sex & hookups — 12 moment(s)
   - “Horny ones who sex on you.”
@@ -6335,7 +6100,6 @@ Watch for:
 ## S13 E7 — 7. Stewie, Chris & Brian's Excellent Adventure
 URL: https://watchwiththekids.com/ep/family-guy/1307.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: To help Chris ace his ninth grade history class, Stewie and Brian employ the time travel machine for educational purposes. Not surprisingly, all three get stuck in the past.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6362,7 +6126,6 @@ Watch for:
 ## S13 E8 — 8. Our Idiot Brian
 URL: https://watchwiththekids.com/ep/family-guy/1308.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Meg convinces Brian to take the SAT's for her, but when he tests poorly, they start to suspect that Brian might not that smart after all. Peter decides to spend the day showing Brian the joys of being stupid and the benefits of having a low IQ.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6383,7 +6146,6 @@ Watch for:
 ## S13 E9 — 9. This Little Piggy
 URL: https://watchwiththekids.com/ep/family-guy/1309.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Meg is thrilled to be recruited as a model, but it turns out to be for a very specific type of modeling: the foot-fetish industry. Meanwhile, Brian accompanies Stewie on an open-road adventure when Stewie decides he wants to experience life outside of preschool.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “And it's made me incredibly horny.”
@@ -6409,10 +6171,9 @@ Watch for:
   - “And cocaine.”
   - “And as for you, Tin Man, a 19-year-old kid in Cincinnati was struck by a drunk driver last night.”
 
-## S13 E10 — Quagmire's Mom
+## S13 E10 — 10. Quagmire's Mom
 URL: https://watchwiththekids.com/ep/family-guy/1310.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Lois takes Peter to open a checking account, and they discover that his first name is actually Justin, which Peter adopts as the name of his younger "bro"-style alter-ego. Then, Peter/Justin throws a party, during which Quagmire unknowingly gets into some trouble with his mother .
 Watch for:
 - Sex & hookups — 8 moment(s)
   - “Did you have sex with this underage girl? I don't want to go to jail, but I really want to take credit.”
@@ -6434,10 +6195,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “That "little bastard" knows how to smoke pot out of an apple.”
 
-## S13 E11 — Encyclopedia Griffin
+## S13 E11 — 11. Encyclopedia Griffin
 URL: https://watchwiththekids.com/ep/family-guy/1311.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter, Quagmire, Joe and Cleveland form a neighborhood detective agency, and are stunned to discover that Chris is a thief. Meanwhile, Lois is worried about Chris' delusional relationship with his new girlfriend, but also sees it as an opportunity for Peter to copy Chris' romantic gestures.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “It's a Katherine Heigl mask for you to wear while we have sex.”
@@ -6459,10 +6219,9 @@ Watch for:
   - “I'll just have four to five beers to stop the shaking, and then I'll go outside.”
   - “Will you hold this beer bottle while I try to kick the top off it? Ow! Damn it! You moved it.”
 
-## S13 E12 — Stewie Is Enceinte
+## S13 E12 — 12. Stewie Is Enceinte
 URL: https://watchwiththekids.com/ep/family-guy/1312.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Brian decides he doesn't want to hang out with Stewie anymore, so Stewie tries to save their relationship by having a baby... or seven... by using Brian's DNA to impregnate himself. Meanwhile, Peter, Joe, Quagmire and Cleveland attempt to make a viral video.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Oh, my God, you're serious! People are gonna think I had sex with a male baby and then got him pregnant! Oh, thank you for finding a way to make it sound horrible.”
@@ -6481,10 +6240,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I will not! Our child is growing inside me! Stop talking like that! A-And how do you even know it's mine? How dare you! So I'm just some slut?!”
 
-## S13 E13 — Dr. C and the Women
+## S13 E13 — 13. Dr. C and the Women
 URL: https://watchwiththekids.com/ep/family-guy/1313.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Meg gets a new job at the airport, where she's instantly popular for being the hottest employee there. Meanwhile, Cleveland becomes a therapist and starts giving Peter and Lois relationship advice, but Peter quickly becomes frustrated and threatens to tell Donna a big secret about what went down at Cleveland's bachelor party.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “" Wow, look at the new girl! She's so hot! Yeah, her breasts and her stomach are different parts of her body! I think she looks weird.”
@@ -6508,10 +6266,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Son of a whore! Give me some milk! Okay, that helped.”
 
-## S13 E14 — #jolo
+## S13 E14 — 14. #jolo
 URL: https://watchwiththekids.com/ep/family-guy/1314.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter becomes a town hero for accidentally finding a missing boy. Meanwhile, Joe decides to live life to the fullest by quitting his job and taking a road trip to Niagara Falls with Peter, Quagmire and Cleveland.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Well, that is the last time I drink and masturbate on top of a high wall.”
@@ -6533,10 +6290,9 @@ Watch for:
   - “Oh, crap, I'm losing my grip! You buy your jeans at Wal-Mart? No, somebody who lost theirs at the church did.”
   - “I'm a Barbie girl in a Barbie world Come on, Barbie, let's go party! Peter, damn it, no! Wait, wait, we got to remember the other one.”
 
-## S13 E15 — Once Bitten
+## S13 E15 — 15. Once Bitten
 URL: https://watchwiththekids.com/ep/family-guy/1315.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After attending obedience school, Brian becomes much more submissive, and Peter realizes he misses his old, feistier pal. Meanwhile, Chris makes a new friend at school, but feels betrayed when he discovers it was all a ploy to get closer to Meg.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Horny on a big boat Horny on a big boat! I'm very sick from lobster.”
@@ -6554,10 +6310,9 @@ Watch for:
   - “I know I like a cold beer after I mow the lawn.”
   - “This is 'cause I'm drunk!”
 
-## S13 E16 — Roasted Guy
+## S13 E16 — 16. Roasted Guy
 URL: https://watchwiththekids.com/ep/family-guy/1316.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter befriends a group of mean girls after his feelings are hurt when his so-called friends decide to "roast" him. Lois, all too familiar with the gossipy nature of women, tells Peter they are probably talking about him behind his back, and Peter soon discovers that Lois may be right.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “We were just debating if Jamie should hook up with this guy she met a few nights ago.”
@@ -6590,10 +6345,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “" Peter's so fat and stupid, Lamar Odom tried to bang him.”
 
-## S13 E17 — Fighting Irish
+## S13 E17 — 17. Fighting Irish
 URL: https://watchwiththekids.com/ep/family-guy/1317.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter claims he would beat Liam Neeson in a fight, but when he is put to the test, he learns that winning is tougher than it seems. Meanwhile, Stewie becomes jealous when Lois decides to be a class mom and starts paying more attention to the other kids over him.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Oh, look, here's a simulation of what it's like to have sex with Quagmire.”
@@ -6622,10 +6376,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Eat my button, you whore.”
 
-## S13 E18 — Take My Wife
+## S13 E18 — 18. Take My Wife
 URL: https://watchwiththekids.com/ep/family-guy/1318.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Lois books a fun couple's vacation in the Bahamas, but much to Peter's surprise, it turns out to be a marriage counseling program instead. Meanwhile, Carter watches the kids at home and becomes frustrated that they're too into their electronics to play games the old-fashioned way. So he tries to fix it himself.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Well, that's a lot of my money, but I used to have sex with you, so that's the trade-off.”
@@ -6647,7 +6400,6 @@ Watch for:
 ## S14 E1 — 1. Pilling Them Softly
 URL: https://watchwiththekids.com/ep/family-guy/1401.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stewie is diagnosed with ADD and prescribed Adderall, which Brian takes to write a 2000-page proposal to pitch to author George R.R. Martin at a book convention. Meanwhile, Quagmire and Peter compete, Iron Chef-style, to determine which of them gets to keep his new cooking show.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6670,7 +6422,6 @@ Watch for:
 ## S14 E2 — 2. Papa Has a Rollin' Son
 URL: https://watchwiththekids.com/ep/family-guy/1402.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: For Father's Day, the guys track down Joe's estranged father. But when Joe explains that his dad is intolerant of people with disabilities, Peter steps in and pretends to be Joe. Meanwhile, Stewie's doctor tells him that he'll only grow to be 5'1", so he hangs out with Tiny Tom Cruise to understand what it's like to be short.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I've been sleeping with your sister.”
@@ -6695,7 +6446,6 @@ Watch for:
 ## S14 E3 — 3. Guy, Robot
 URL: https://watchwiththekids.com/ep/family-guy/1403.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Stewie doesn't like Brian's stand-up comedy jokes, so the two of them fight. To get back at Brian and make him jealous, Stewie builds a robot friend. But when the robot outsmarts Stewie and dumps him, Brian and Stewie reunite. Meanwhile, Lois forces Peter to get a new mattress.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “If Lois won't sleep with you on the new mattress, we just got to get your old mattress back.”
@@ -6720,7 +6470,6 @@ Watch for:
 ## S14 E4 — 4. Peternormal Activity
 URL: https://watchwiththekids.com/ep/family-guy/1404.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The guys go to an abandoned asylum seeking inspiration for a new horror movie idea, but end up accidentally killing a man they think is keeping them hostage. Wracked with guilt, they each try to pin the murder on someone else. Meanwhile, Stewie is on a mission to destroy Brian's glasses because he's annoyed by how pretentious Brian's been acting when he wears them.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6748,7 +6497,6 @@ Watch for:
 ## S14 E5 — 5. Peter, Chris, & Brian
 URL: https://watchwiththekids.com/ep/family-guy/1405.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter gets a check in the mail from the sale of his mother's home and he remembers that all of his old porn is still in there. When he returns to retrieve his stash, he finds a "to Peter from Peter" tape and realizes that his life has amounted to nothing. Reeling from his own failures, Peter then attempts to fix Chris before it's too late, and forces his son to spend time with Brian.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Leather bracelets! Nipple ring!”
@@ -6770,7 +6518,6 @@ Watch for:
 ## S14 E6 — 6. Peter's Sister
 URL: https://watchwiththekids.com/ep/family-guy/1406.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter's sister, Karen, visits for Thanksgiving and bullies Peter the same way he treats Meg. At first, Meg is amused, but she soon helps Peter train to defeat his sister in a wrestling match.Meanwhile, to avoid overeating on Thanksgiving, Stewie and Brian go on a cleanse, which Stewie takes one step too far
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6795,7 +6542,6 @@ Watch for:
 ## S14 E7 — 7. Hot Pocket-Dial
 URL: https://watchwiththekids.com/ep/family-guy/1407.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Quagmire admits that he is in love with Lois. Unfortunately, he proclaims his love while he has accidentally pocket-dialed Peter. Peter is furious and Brian takes it upon himself to fix the situation.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6817,7 +6563,6 @@ Watch for:
 ## S14 E8 — 8. Brokeback Swanson
 URL: https://watchwiththekids.com/ep/family-guy/1408.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Joe is trampled in a local running of the bulls and becomes a quadriplegic, the guys find it too difficult to hang around him. Meanwhile, Brian sleeps with a married woman, and when the husband returns home, he pretends to be the family's new dog.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You want to have sex? Sure, I've almost finished my sandwich, anyway.”
@@ -6849,7 +6594,6 @@ Watch for:
 ## S14 E9 — 9. A Shot in the Dark
 URL: https://watchwiththekids.com/ep/family-guy/1409.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter's couch is stolen from his front lawn, the guys form a neighborhood watch group. While on duty, Peter sees someone trying to climb into Cleveland's house and he shoots him. Peter is then arrested and charged with a hate crime.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6879,10 +6623,9 @@ Watch for:
   - “I'm not a racist.”
   - “Cleveland, why did you do that? Peter, since this is about racism, why don't we take a slow, hands-clasped-behind- the-back walk together? Listen, I know you wouldn't have shot Cleveland Jr.”
 
-## S14 E10 — Candy, Quahog Marshmallow
+## S14 E10 — 10. Candy, Quahog Marshmallow
 URL: https://watchwiththekids.com/ep/family-guy/1410.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter, Cleveland and Joe come across an old VHS tape called "Winter/Summer," an Asian soap that Quagmire starred in when he was living in Korea. Unable to find the final tape of the series, the guys travel to Korea to find it and Quagmire is reunited with his old lover. Meanwhile, Stewie worries he might become a redhead.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I can get drunk whenever, sleep with anyone, and just hide in my house and avoid the world if I feel like it.”
@@ -6896,10 +6639,9 @@ Watch for:
   - “Have you ever killed a dog while driving drunk, and then been upset that there was no way for your car engine to cook it for you on the rest of the drive home? Well, those days are over, thanks to Dr.”
   - “…Quahog So, Quagmire, please tell 'em see ya Come on, come on, come on home, Quahog is your home Boy Whiskey, steaks and giant bongs Ricki Lake and Howie Long Giant boobies, firm and strong Not here, only in the U.”
 
-## S14 E11 — The Peanut Butter Kid
+## S14 E11 — 11. The Peanut Butter Kid
 URL: https://watchwiththekids.com/ep/family-guy/1411.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When their bank accounts begin to run dry, the Griffins look for ways to make money. Stewie gets cast in a peanut butter commercial and becomes the money maker for the family. Meanwhile, Lois and Peter become crazy show business parents and Brian helps Stewie realize that he does not want to be a child actor.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6927,10 +6669,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Are you guys talking about your kids? My daughter is the American Apparel slut baby.”
 
-## S14 E12 — Scammed Yankees
+## S14 E12 — 12. Scammed Yankees
 URL: https://watchwiththekids.com/ep/family-guy/1412.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Lois and her mom, Babs, have a relaxing spa day, leaving Peter to entertain Lois' father, Carter. The boys fall for an email scam, and have to go to Africa to get their money back. Meanwhile, Brian pursues Meg's friend, Patty.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6946,10 +6687,9 @@ Watch for:
   - “Uh, I'll take one terrible beer, filled up way too high, so I spill most of it, and a too-long hot dog on a too-short bun.”
   - “Good-bye, being honest about how many beers I've had.”
 
-## S14 E13 — An App a Day
+## S14 E13 — 13. An App a Day
 URL: https://watchwiththekids.com/ep/family-guy/1413.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Peter learns about phone apps and overloads his phone with them. He buys a new phone with more memory and gives his old phone to Chris, which causes a series of horrible events. Meanwhile, Stewie joins a tennis club and invites Brian to be his tennis partner.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -6980,10 +6720,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Okay, so this place has hot women, morning booze and free vomit? Maybe I'll join you.”
 
-## S14 E14 — Underage Peter
+## S14 E14 — 14. Underage Peter
 URL: https://watchwiththekids.com/ep/family-guy/1414.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Mayor West raises the drinking age to 50. Because of dog years, Brian is the only one old enough to buy alcohol, so Peter makes him buy all of his booze.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “…Man, I haven't made money this easy since I invented the Yanket! Peter, what's wrong? Well, I want to masturbate, but I'm just so darn cold.”
@@ -7019,10 +6758,9 @@ Watch for:
   - “Oh, my God! Are you drunk again? Yeah, I was, I was just hanging out with my main man, Peter.”
   - “Is that, is that wine? Yeah, Adam just poured me a little before dinner.”
 
-## S14 E15 — A Lot Going on Upstairs
+## S14 E15 — 15. A Lot Going on Upstairs
 URL: https://watchwiththekids.com/ep/family-guy/1415.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Stewie refuses to sleep in his own bed because of nightmares, Peter can't stand it, so he goes to sleep in the attic. Peter turns the attic into a man cave and all of the guys begin hanging out there, which makes Lois incredibly angry. Meanwhile, Brian helps Stewie overcome his fears by building a device to go into his nightmares and defeat his demons.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Scooch over so he can sleep with us.”
@@ -7036,10 +6774,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Now, if you look closely, she's clearly drunk.”
 
-## S14 E16 — The Heartbreak Dog
+## S14 E16 — 16. The Heartbreak Dog
 URL: https://watchwiththekids.com/ep/family-guy/1416.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Meg begins working at a retirement community and starts stealing from the residents. Then Chris finds out and wants in on the heist. When the residents catch them, they blackmail them and force the thieves to listen to all of their boring stories.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “At least I've had an orgasm.”
@@ -7065,10 +6802,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Oh, Brian's a complete dick, we all know that, but I think we're losing sight of the point that Bonnie's a weird slut who's always letting you know she's open for business.”
 
-## S14 E17 — Take a Letter
+## S14 E17 — 17. Take a Letter
 URL: https://watchwiththekids.com/ep/family-guy/1417.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: To pay for Stewie's private school, Lois becomes a postal worker. She finds a letter from Peter that was never sent to his old fling, Gretchen (guest voice Kathryn Hahn), dated a week before their marriage. When Gretchen tries to come between Lois and Peter, Lois has a plan of her own.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7081,10 +6817,9 @@ Watch for:
   - “What the hell? This is from Peter.”
   - “Who the hell is Gretchen Mercer? And this is postmarked a week before our wedding! Aw, there was a time when the president of the Jonathan Taylor Thomas Fan Club got a lot of mail.”
 
-## S14 E18 — The New Adventures of Old Tom
+## S14 E18 — 18. The New Adventures of Old Tom
 URL: https://watchwiththekids.com/ep/family-guy/1418.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter gets lost in the mall overnight after his family abandons him. Meanwhile, Brian pretends to be a millionaire to win over a girl.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7102,10 +6837,9 @@ Watch for:
   - “We had a bottle of wine and a joint at Bonnie's house, and we want to watch Dallas Portland before the buzz wears off.”
   - “Today on CBS This Morning, we'll be talking about how much sleep you need to not be drunk from the night before.”
 
-## S14 E19 — Run, Chris, Run
+## S14 E19 — 19. Run, Chris, Run
 URL: https://watchwiththekids.com/ep/family-guy/1419.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: To everyone's surprise, Chris wins homecoming king. However, Meg finds out that the cool kids plan to prank him during the homecoming ceremony, so they go to the school to investigate. Meanwhile, Cleveland starts hanging out with Jerome, the bartender. So Peter and the guys try to replace him.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7132,10 +6866,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “I just see him walking around with his hands down his pants all day, and he's just so fat and weird, so we feel bad.”
 
-## S14 E20 — Road to India
+## S14 E20 — 20. Road to India
 URL: https://watchwiththekids.com/ep/family-guy/1420.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Brian falls in love with a tech support worker in India, so he and Stewie travel there to find her. Meanwhile, Joe invites Peter to his bingo night, but when Peter becomes the new center of attention, Lois helps Joe reclaim the group.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “I'm gonna shoot you with my six-gun.”
@@ -7143,7 +6876,6 @@ Watch for:
 ## S15 E1 — 1. The Boys in the Band
 URL: https://watchwiththekids.com/ep/family-guy/1501.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stewie and Brian form a children's band that quickly rises to fame until they let a girl get between them and drive the band apart. Meanwhile, Peter and Lois insist that Chris gets a job so he takes a job managing Quagmire's sex life as his personal assistant.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7168,7 +6900,6 @@ Watch for:
 ## S15 E2 — 2. Bookie of the Year
 URL: https://watchwiththekids.com/ep/family-guy/1502.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian and Lois decide it's time for Chris to work out his anger management issues by taking up a sport. Chris surprises everyone and becomes a star baseball pitcher, which turns Peter into a gambling father, as he bets on his son's baseball games. Meanwhile, Stewie, Brian and Frank Sinatra Jr. attempt to open an Italian restaurant.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “He what?! Peter, get in here right now! Wow, someone's day-horny! Oh, hey, Chris.”
@@ -7198,7 +6929,6 @@ Watch for:
 ## S15 E3 — 3. American Gigg-olo
 URL: https://watchwiththekids.com/ep/family-guy/1503.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After the local airline pilots go on strike, Quagmire looks for new work and becomes a gigolo. When his clients begin to avoid paying for his services, he asks Peter for help getting his money. Meanwhile, Brian is kicked off Peter's health insurance, so he gets a job at a hardware store, until Stewie gets him fired and things get medical.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “I am a dancer, not a gigolo! Captain Cockpit, my friend is about to get married, and we were wondering if you'd have sex with her for $500.”
@@ -7241,7 +6971,6 @@ Watch for:
 ## S15 E4 — 4. Inside Family Guy
 URL: https://watchwiththekids.com/ep/family-guy/1504.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: FAMILY GUY takes viewers behind the scenes of a regular FAMILY GUY production week, with James Woods as the guide. See the ins-and-outs of what goes into the making of a FAMILY GUY episode and watch the drama unfold as Peter is replaced and ends up in the office of Fox Television Group Chairmen and CEOs Dana Walden and Gary Newman to pitch his very own new series.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Look, don't get me wrong, guys, I-I think it's hilarious, and-and I totally get that the sex thing is what made me popular, but would it kill us to just once tell a joke that brings glory to God?”
@@ -7269,7 +6998,6 @@ Watch for:
 ## S15 E5 — 5. Chris Has Got a Date, Date, Date, Date, Date
 URL: https://watchwiththekids.com/ep/family-guy/1505.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Taylor Swift agrees to go to a homecoming dance with Chris after he asks her via online video. However, when she starts to fall for him, her music takes a hit. Meanwhile, Peter decides to try a new profession and sees firsthand what it's like to be an Uber driver.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7289,7 +7017,6 @@ Watch for:
 ## S15 E6 — 6. Hot Shots
 URL: https://watchwiththekids.com/ep/family-guy/1506.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: In order to "save" Stewie from autism, Peter and Lois decide not to vaccinate him and then proceed to convince the rest of Quahog to follow suit. Stewie runs away to save himself from diseases until Sean Penn (guest-voicing as himself) swoops in to save the day and brings vaccines to the whole town.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Fact: “"vaccinate" rhymes with "masturbate.”
@@ -7311,7 +7038,6 @@ Watch for:
 ## S15 E7 — 7. High School English
 URL: https://watchwiththekids.com/ep/family-guy/1507.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: In an anthology episode, the cast reenacts three classic pieces of literature commonly taught in high school: "The Great Gatsby," "The Adventures of Huckleberry Finn" and "Of Mice and Men".
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I got to talk to this random mechanic's horny wife about some business.”
@@ -7341,7 +7067,6 @@ Watch for:
 ## S15 E8 — 8. Carter and Tricia
 URL: https://watchwiththekids.com/ep/family-guy/1508.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Carter buys the Pawtucket Patriot brewery and decides to cut some corners to save a few bucks. Peter overhears the plan and runs and tells investigative journalist Tricia Takanawa about Carter's plan to use toxic chemicals in the beer cans. Meanwhile, Brian's drivers' license has expired and he enlists Stewie as an instructor.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Tripling is when you vomit, defecate, and orgasm, all at the same time.”
@@ -7376,7 +7101,6 @@ Watch for:
 ## S15 E9 — 9. How the Griffin Stole Christmas
 URL: https://watchwiththekids.com/ep/family-guy/1509.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter is asked to fill in for the mall Santa, until he gets drunk on the power when he realizes that Santa can get away with anything. Meanwhile, Stewie and Brian crash holiday office parties for the free food, drama and women.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “(SYMPHONIC MUSIC BEGINS PLAYING) 1-877-Kars-4-Kids K-A-R-S Kars-4-Kids 1-877-Kars-4-Kids Donate your car today I lost my virginity to this song.”
@@ -7407,10 +7131,9 @@ Watch for:
   - “How wasted are you? Don't judge me.”
   - “Until I went home and had, like, 50 beers, and did forget.”
 
-## S15 E10 — Passenger Fatty-Seven
+## S15 E10 — 10. Passenger Fatty-Seven
 URL: https://watchwiththekids.com/ep/family-guy/1510.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Quagmire scores free friends-and-family plane tickets for a guys' trip to San Francisco. However, after seeing the auto-pilot function, the boys doubt Quagmire's flying skills. Then, unforeseen events in the air put Quagmire's abilities to the test.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7428,10 +7151,9 @@ Watch for:
   - “I know I crap on you a lot, but sometimes, when I'm driving, I think about stuff you say and I laugh.”
   - “Yeah, you're the best damn pilot in the world.”
 
-## S15 E11 — Gronkowsbees
+## S15 E11 — 11. Gronkowsbees
 URL: https://watchwiththekids.com/ep/family-guy/1511.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rob Gronkowski, of the New England Patriots, moves into the house behind the Griffins, and the guys enjoy partying with him until his antics become overwhelming. Meanwhile, Stewie begins beekeeping and gives his bees steroids to produce more honey, but instead they become aggressive.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “I can't believe Gisele gets to sleep with him.”
@@ -7456,10 +7178,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Also, I'm (bleep) insane! (laughing) Eat a butt, fatty!”
 
-## S15 E12 — Peter's Def Jam
+## S15 E12 — 12. Peter's Def Jam
 URL: https://watchwiththekids.com/ep/family-guy/1512.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The guys try to start a podcast, but Peter goes solo and branches out as a DJ. Meanwhile, back at the Griffin home, Lois' allergy forces Brian to move into Stewie's bedroom and the two have roommate difficulties.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Hey, what are we gonna do tonight? Ooh, maybe we should watch that movie about Freud where Michael Fassbender repeatedly spanks Keira Knightley to orgasm? - You saw that movie? - I saw that scene.”
@@ -7489,10 +7210,9 @@ Watch for:
   - “Yeah, I'd drink vodka and Gatorade to that.”
   - “NARRATOR (OVER COMPUTER): Audible dot com presents, "Are You There, Vodka? It's Me, Chelsea," as read by Chelsea Handler.”
 
-## S15 E13 — The Finer Strings
+## S15 E13 — 13. The Finer Strings
 URL: https://watchwiththekids.com/ep/family-guy/1513.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The guys decide to form a string quartet, but Peter doesn't make the cut. Meanwhile, Brian is forced to be Carter's seeing eye dog and enjoys the life of luxury a little too much.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7517,10 +7237,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “…You don't want it You're cuckoo Funny, funny, funny what money can do You guys, I got great news! Some skank I used to bang is getting married, and they need someone to play at the ceremony.”
 
-## S15 E14 — The Dating Game
+## S15 E14 — 14. The Dating Game
 URL: https://watchwiththekids.com/ep/family-guy/1514.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Quagmire discovers the "dating" app Tinder, forcing Peter, Joe and Cleveland to intervene and save him from his soul-sucking hedonism. Meanwhile, Stewie finds out that he has scoliosis and learns the perks of his latest diagnosis.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “What's "Tinder"? It's an app for your phone where two strangers can hook up for a dirty liaison.”
@@ -7551,10 +7270,9 @@ Watch for:
   - “Should we do it with careful planning, or have another couple beers and then just go for it? Well, let's make that decision after another couple beers.”
   - “I wrote several long paragraphs describing my interests, some pet peeves, choice of wine, a couple of inspirational quotes, things I've learned from my cats No, no, no, no.”
 
-## S15 E15 — Cop and a Half-wit
+## S15 E15 — 15. Cop and a Half-wit
 URL: https://watchwiththekids.com/ep/family-guy/1515.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter helps Joe out with several crime cases, but when Joe tries to take all the credit, Peter gets extremely angry. Meanwhile, Brian convinces Stewie to join a football team and panics when he gets a concussion.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I have to have sex with your housekeeper to save humanity.”
@@ -7582,10 +7300,9 @@ Watch for:
   - “Your stuff sucks.”
   - “Crap, Chris, he's worse off than I thought.”
 
-## S15 E16 — Saturated Fat Guy
+## S15 E16 — 16. Saturated Fat Guy
 URL: https://watchwiththekids.com/ep/family-guy/1516.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: In an attempt to avoid eating the healthy food that Lois forces him to eat, Peter opens up his own food truck with fattening foods. Meanwhile, Meg joins a roller derby team, despite Chris thinking it's too dangerous.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “And just sign by dragging your bare finger across this thing I use to masturbate.”
@@ -7609,10 +7326,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I stopped thinking about the truck and started thinking about Amazon woman Brigitte Nielsen drunk in a Burbank park.”
 
-## S15 E17 — Peter's Lost Youth
+## S15 E17 — 17. Peter's Lost Youth
 URL: https://watchwiththekids.com/ep/family-guy/1517.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter gets jealous of Lois when she upstages him at a Red Sox fantasy baseball camp. Meanwhile, Stewie runs away from home when Meg is left to babysit him.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7634,10 +7350,9 @@ Watch for:
   - “(GROANING) Yeah! Now, that's a big-league slide, huh, coach? (GROANING): Damn it! I think it's broken.”
   - “Crap! Now we got to find Stewie and write a puppet show.”
 
-## S15 E18 — The Peter Principal
+## S15 E18 — 18. The Peter Principal
 URL: https://watchwiththekids.com/ep/family-guy/1518.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter becomes the temporary principal at the high school, and Meg uses his new power to get even with her bullies. Meanwhile, Brian and Stewie open a bed & breakfast that quickly turns into a brothel.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7658,10 +7373,9 @@ Watch for:
   - “Don't take any crap from anyone.”
   - “This is a hell of a lot easier than when I delivered pizza in New Orleans.”
 
-## S15 E19 — Dearly Deported
+## S15 E19 — 19. Dearly Deported
 URL: https://watchwiththekids.com/ep/family-guy/1519.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Chris' Mexican girlfriend, Isabella, gets deported, he volunteers to take care of her twin babies. After learning that Isabella can't come back to the U.S., the Griffins go to Mexico to return her children. Then, Peter's past as a sperm donor catches up to him when many of his children show up unannounced to his house.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - ALL: “Yay! (SLURPING) I saw Lady and the Tramp, so I asked if we could eat spaghetti in the alley, but they said no, because of all the homeless masturbation.”
@@ -7678,10 +7392,9 @@ Watch for:
   - ALL: “Yay! (SLURPING) I saw Lady and the Tramp, so I asked if we could eat spaghetti in the alley, but they said no, because of all the homeless masturbation.”
   - “Well, maybe he should have thought of that before he opened his slut legs.”
 
-## S15 E20 — A House Full of Peters
+## S15 E20 — 20. A House Full of Peters
 URL: https://watchwiththekids.com/ep/family-guy/1520.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter's past as a sperm donor catches up to him when many of his children show up unannounced to his house
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “They have sex parties in the Hollywood Hills.”
@@ -7706,7 +7419,6 @@ Watch for:
 ## S16 E1 — 1. Emmy-Winning Episode
 URL: https://watchwiththekids.com/ep/family-guy/1601.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Tired of not winning an Emmy, Peter embarks on his own For Your Consideration campaign for Family Guy by making the show more like Emmy-winning shows - and no category is off limits.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7726,7 +7438,6 @@ Watch for:
 ## S16 E2 — 2. Foxx in the Men House
 URL: https://watchwiththekids.com/ep/family-guy/1602.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter becomes friends with a cool, handsome paramedic named Stryker Foxx. Wrapped up in his newfound "coolness," he soon dumps Quagmire, Joe and Cleveland.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7751,7 +7462,6 @@ Watch for:
 ## S16 E3 — 3. Nanny Goats
 URL: https://watchwiththekids.com/ep/family-guy/1603.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: The Griffins get a nanny for the kids, courtesy of Lois' parents, which gives Peter and Lois the opportunity to reconnect.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “You know, Donna told me in the bathroom she and Cleveland haven't had sex in over three months.”
@@ -7773,7 +7483,6 @@ Watch for:
 ## S16 E4 — 4. Follow the Money
 URL: https://watchwiththekids.com/ep/family-guy/1604.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After Chris gets a special one-dollar bill for his birthday and quickly loses it, the dollar gets passed from character to character throughout Quahog.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I'm gonna go have sweaty day-sex with my wife.”
@@ -7800,7 +7509,6 @@ Watch for:
 ## S16 E5 — 5. Three Directors
 URL: https://watchwiththekids.com/ep/family-guy/1605.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: In a special anthology-style episode, Peter gets fired from his job at the brewery in the signature styles of three famous Hollywood film directors.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7820,7 +7528,6 @@ Watch for:
 ## S16 E6 — 6. The D in Apartment 23
 URL: https://watchwiththekids.com/ep/family-guy/1606.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Brian posts an offensive tweet that goes viral and the rest of the Griffins are also treated as outcasts, he's forced to move out of the Griffin house.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7847,7 +7554,6 @@ Watch for:
 ## S16 E7 — 7. Petey IV
 URL: https://watchwiththekids.com/ep/family-guy/1607.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: On Thanksgiving weekend, Peter discovers an alternate ending in the Russian version of one of his favorite films and writes to Vladimir Putin, who comes to Quahog. Meanwhile, a strapped-for-cash Brian gets a job at a suicide hotline center and attempts to strike up a romance with a co-worker.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7883,7 +7589,6 @@ Watch for:
 ## S16 E8 — 8. Crimes and Meg's Demeanor
 URL: https://watchwiththekids.com/ep/family-guy/1608.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter encourages Meg to attend a high school party, where she takes up drinking, which both concerns and delights her father. Meanwhile, Brian begins spying on his neighbors and suspects Principal Shepherd of a crime.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -7910,7 +7615,6 @@ Watch for:
 ## S16 E9 — 9. Don't Be a Dickens at Christmas
 URL: https://watchwiththekids.com/ep/family-guy/1609.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 14)
-Summary: In this special holiday episode, a selfish Peter loses his Christmas spirit and is visited by ghosts of Christmas past, present and future who take him on a journey around Quahog in the style of Charles Dickens' "A Christmas Carol".
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “…head out the back! How he came from heaven and was born in a manger bed - To the windows! - Mary was his virgin mother Pure and mild Oh, my God, they got Quagmire!”
@@ -7929,10 +7633,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “You guys talking 'bout Durd? More champagne, miss? (CHUCKLES): Miss? Oh, my! It's been a long time since anybody's called me miss.”
 
-## S16 E10 — Boy (Dog) Meets Girl (Dog)
+## S16 E10 — 10. Boy (Dog) Meets Girl (Dog)
 URL: https://watchwiththekids.com/ep/family-guy/1610.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: At the vet's office, Brian meets a female show dog named Ellie. Smitten with her, he enters a show dog competition, in which the winner gets to breed with her. Meanwhile, Peter and Lois go to extreme measures to try to convince Chris that "Arthur Valentine" doesn't exist.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I have to have sex with whichever male dog wins, whoever that ends up being.”
@@ -7951,10 +7654,9 @@ Watch for:
   - “I love chewing the crap out of my foot.”
   - “Damn it! Arthur Valentine? Chris! You're okay! But I saw him die.”
 
-## S16 E11 — Dog Bites Bear
+## S16 E11 — 11. Dog Bites Bear
 URL: https://watchwiththekids.com/ep/family-guy/1611.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Milestone 300th episodeStewie and Brian get into a friendship-ending fight after Brian commits a terrible act to one of Stewie's beloved toys. Meanwhile, Peter refuses to wash his hand after meeting his favorite breakfast cereal mascot, Boo Berry.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Like Africa and Asia had sex while Europe sat on a chair in the corner of the hotel room and watched.”
@@ -7979,10 +7681,9 @@ Watch for:
   - “I-I was drunk.”
   - “So? If you were driving drunk and ran him over, would you still go to jail? Yes! You killed him.”
 
-## S16 E12 — Send in Stewie, Please
+## S16 E12 — 12. Send in Stewie, Please
 URL: https://watchwiththekids.com/ep/family-guy/1612.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stewie gets sent to see his school's child psychologist, Dr. Cecil Pritchfield, for a surprising session, which causes Stewie to reveal major, never-before-told secrets about himself.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Go sleep on the floor where you belong, whore! - All right, well - Hey hey, Bri? Yeah? Would you mind maybe sleeping with me tonight? - Sure.”
@@ -7998,10 +7699,9 @@ Watch for:
   - “She's just a useless old slut.”
   - “Go sleep on the floor where you belong, whore! - All right, well - Hey hey, Bri? Yeah? Would you mind maybe sleeping with me tonight? - Sure.”
 
-## S16 E13 — V Is For Mystery
+## S16 E13 — 13. V Is For Mystery
 URL: https://watchwiththekids.com/ep/family-guy/1613.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: In a special Dickensian-themed episode, Stewie and Brian are detectives who embark on solving a string of mysterious murders set in Victorian-era London.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “(WHIRRING) It's cutting-edge technology, Watson! ROBOTIC FEMALE VOICE: Exchange money for sexual services, guv'nor.”
@@ -8022,10 +7722,9 @@ Watch for:
   - “He's got a gun.”
   - “From the angle you were aiming the gun, I extrapolated the path of the bullet, and triangulated the deflection point Uh, is this is this speech for me? Because he's dead.”
 
-## S16 E14 — Veteran Guy
+## S16 E14 — 14. Veteran Guy
 URL: https://watchwiththekids.com/ep/family-guy/1614.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: After Peter and the guys get caught pretending to be military veterans and are found guilty of the Stolen Valor Act, a judge sentences them to join the U.S. Coast Guard.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8043,10 +7742,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “): Final boarding call for the "Are We Ready To Attack, We Are, And Many People Will Die" booze cruise.”
 
-## S16 E15 — The Woof of Wall Street
+## S16 E15 — 15. The Woof of Wall Street
 URL: https://watchwiththekids.com/ep/family-guy/1615.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Brian convinces Stewie to teach him how to invest in the stock market after learning Stewie has a knack for making money from it. Meanwhile, Peter, Quagmire, Cleveland, and Joe look after the Drunken Clam while Jerome is away.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8062,10 +7760,9 @@ Watch for:
   - “What?! - Stewie, adults are allowed to say racist things because of traffic.”
   - “QuÃ©? - I allowed to say racist things because of traffic.”
 
-## S16 E16 — Family Guy' Through the Years
+## S16 E16 — 16. Family Guy' Through the Years
 URL: https://watchwiththekids.com/ep/family-guy/1616.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Family Guy is reimagined as a series that's been on the air for 60 years and, in a special retrospective, it looks back at the cultural events and issues that were tackled on the show in the 1950s, '60s and '70s.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Help! Someone! Tim Conway was sleeping with half the Apple Dumpling Gang.”
@@ -8080,10 +7777,9 @@ Watch for:
   - “Why not, Dad? Is it any worse than your "three X's drawn on the jug" corn whiskey moonshine? What?! No son of mine drink anything but rice wine.”
   - “("A FIFTH OF BEETHOVEN" BY WALTER MURPHY PLAYING) (PEOPLE GRUNTING) Yeah, we'll have a round of beers for the table.”
 
-## S16 E17 — Switch the Flip
+## S16 E17 — 17. Switch the Flip
 URL: https://watchwiththekids.com/ep/family-guy/1617.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: To help get Brian's life in order, Stewie and Brian swap bodies using a machine that Stewie invents, but chaos quickly ensues around Quahog when the machine goes haywire.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “It's the couples' sex seminar where the husband learns how to give his wife an orgasm.”
@@ -8111,10 +7807,9 @@ Watch for:
   - “The Hangover Part III available for instant download.”
   - “(EXHALES) I realize I've wasted most of my life being a pathetic jerk.”
 
-## S16 E18 — HTTPete
+## S16 E18 — 18. HTTPete
 URL: https://watchwiththekids.com/ep/family-guy/1618.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: To help promote the brewery to millennials, Peter adopts the millennial lifestyle, and his methods soon attract the attention of a high-powered Silicon Valley executive.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What about public masturbators? Especially public masturbators.”
@@ -8133,10 +7828,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “Or, as they say in Italian, molto homo.”
 
-## S16 E19 — The Unkindest Cut
+## S16 E19 — 19. The Unkindest Cut
 URL: https://watchwiththekids.com/ep/family-guy/1619.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Quagmire's most treasured body part gets cut off in a freak accident and he is forced to learn how to live without it. Meanwhile, Stewie and Brian search for Mort after learning there is a $10,000 reward for turning him into the police for his involvement in a drug scam.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You call this fun? You're talking to a wooden doll to make up for the fact that you can't have sex anymore.”
@@ -8163,10 +7857,9 @@ Watch for:
   - “…a Fam ily Guy! Is it me, or does David Ortiz look just like the mom on Good Times? - Oh, Peter, that's racist.”
   - “That's not racist.”
 
-## S16 E20 — Are You There God? It's Me, Peter
+## S16 E20 — 20. Are You There God? It's Me, Peter
 URL: https://watchwiththekids.com/ep/family-guy/1620.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: After Peter falls into a coma, Peter meets God face-to-face, which leads him to ask some of life's tough questions.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “Okay, well if you don't get up, I won't have sex with you.”
@@ -8199,7 +7892,6 @@ Watch for:
 ## S17 E1 — 1. Married... With Cancer
 URL: https://watchwiththekids.com/ep/family-guy/1701.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Brian meets and quickly falls in love with a woman named Jess, who reveals she has cancer. After she receives devastating news regarding her diagnosis, Brian proposes marriage to her.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8215,7 +7907,6 @@ Watch for:
 ## S17 E2 — 2. Dead Dog Walking
 URL: https://watchwiththekids.com/ep/family-guy/1702.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian's marriage to Jess is not what he envisioned. At the suggestion of Peter, Brian lets himself go, causing Jess to make a surprising decision.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8243,7 +7934,6 @@ Watch for:
 ## S17 E3 — 3. Pal Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1703.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: To Stewie's surprise, he quickly befriends a boy his age, but is devastated when he realizes he isn't invited to his birthday party. Meanwhile, Peter and Lois attend a self-empowerment seminar.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8263,7 +7953,6 @@ Watch for:
 ## S17 E4 — 4. Big Trouble in Little Quahog
 URL: https://watchwiththekids.com/ep/family-guy/1704.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: After Brian teases Stewie for being small, Stewie invents a shrinking machine that results in both of them shrinking to a microscopic size.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8275,7 +7964,6 @@ Watch for:
 ## S17 E5 — 5. Regarding Carter
 URL: https://watchwiththekids.com/ep/family-guy/1705.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Lois receives a surprising birthday present from her father, Carter Pewterschmidt, that leads to an unfortunate accident leaving him dependent on Lois and the Griffin's care.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8301,7 +7989,6 @@ Watch for:
 ## S17 E6 — 6. Stand by Meg
 URL: https://watchwiththekids.com/ep/family-guy/1706.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After Meg saves Stewie from a choking incident, Stewie makes it his personal mission to create a better life for Meg. Meanwhile, Chris is sent to a vocational school.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8323,7 +8010,6 @@ Watch for:
 ## S17 E7 — 7. The Griffin Winter Games
 URL: https://watchwiththekids.com/ep/family-guy/1707.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: To the surprise of all the Griffins, Meg makes the U.S. Olympic team as a biathlete and competes in the Winter Olympics.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8342,7 +8028,6 @@ Watch for:
 ## S17 E8 — 8. Con Heiress
 URL: https://watchwiththekids.com/ep/family-guy/1708.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Stewie and Brian compete for the inheritance of a wealthy, older heiress. Meanwhile, Peter and Chris battle for Mr. Herbert's affection.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8354,7 +8039,6 @@ Watch for:
 ## S17 E9 — 9. Pawtucket Pete
 URL: https://watchwiththekids.com/ep/family-guy/1709.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: The Pawtucket Brewery hires new bosses, who decide to change the company's mascot. In an attempt to be crowned the new face of Pawtucket Ale, Peter and Brian go head-to-head.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8368,10 +8052,9 @@ Watch for:
   - “(BEER CAN OPENS, SLURPING) Griffin? PETER: No.”
   - “But first, hey, hungover dads, want to go to a parade? Does that sound like fun on a Sunday morning? Not just being worried about your kids, but everyone else's kids around you, too? For more, here's Tricia Takanawa.”
 
-## S17 E10 — Hefty Shades of Gray
+## S17 E10 — 10. Hefty Shades of Gray
 URL: https://watchwiththekids.com/ep/family-guy/1710.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: After Peter's hair turns white from a ghost-hunting adventure in his house with the guys, his new look grabs the attention of local news anchor Tom Tucker. Under Tucker's guidance, he learns the ways of reporting fake news, and soon becomes a senior crime analyst on Quahog's Channel 5 News. Meanwhile, Brian and Stewie attempt to help Chris improve his dating game.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8395,10 +8078,9 @@ Watch for:
   - “Well, now, I have to warn you fellas The only spirits I'm used to chasing are whiskey and tequila.”
   - “Farewell, and thank you for feeding me champagne and shrimp all day.”
 
-## S17 E11 — Trump Guy
+## S17 E11 — 11. Trump Guy
 URL: https://watchwiththekids.com/ep/family-guy/1711.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: The Griffins move to Washington D.C. where Peter is hired as the new White House Press Secretary.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8418,10 +8100,9 @@ Watch for:
   - “Folks, to drink this evening, we've got red wine, white wine, and a fifth of bourbon.”
   - “What?! - I said - (JANGLING CONTINUES) - I've spent $65 million on vacation homes and daytime wine.”
 
-## S17 E12 — Bri, Robot
+## S17 E12 — 12. Bri, Robot
 URL: https://watchwiththekids.com/ep/family-guy/1712.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Brian worries about the legacy he's leaving behind, so Stewie makes a robot duplicate as a living biography.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8438,10 +8119,9 @@ Watch for:
   - “Hey, can robots do cocaine? - What? Nothing, I was just, you know.”
   - “Can they get cocaine? Hello, The Girls Aren't the Girls in the Ad Massage.”
 
-## S17 E13 — Trans-Fat
+## S17 E13 — 13. Trans-Fat
 URL: https://watchwiththekids.com/ep/family-guy/1713.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter is mistakenly identified as transgender, which leads to an unexpected event and an important learning lesson.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8458,10 +8138,9 @@ Watch for:
   - “Anything else, fellas? PETER: Uh, yeah, I'll have a beer.”
   - “…press "lobby"! Now, Peter, one of the perks of being a woman is that you get to go out and have a white wine, squeak-fart lunch with your friends.”
 
-## S17 E14 — Family Guy Lite
+## S17 E14 — 14. Family Guy Lite
 URL: https://watchwiththekids.com/ep/family-guy/1714.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: After a mishap at work, Peter decides to take his health more seriously and diet with the help of Quagmire, Joe, and Cleveland. When Lois takes a stab at writing a romantic fantasy novel, a curious Brian and Stewie investigate to find out who she might have a crush.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Yes, I'd like to enroll in a couple of classes so I can have sex with girls not old enough to get into bars.”
@@ -8485,10 +8164,9 @@ Watch for:
   - “Peter, you got to lose weight.”
   - “All right, Peter, today we start helping you lose weight.”
 
-## S17 E15 — No Giggity, No Doubt
+## S17 E15 — 15. No Giggity, No Doubt
 URL: https://watchwiththekids.com/ep/family-guy/1715.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: When the guys volunteer to chaperone the high school prom, Quagmire hits it off with Courtney only to discover that she is his daughter. To his and the gang's surprise, Quagmire makes a serious effort to embrace parenting Courtney, joining Peter and Meg on an ill-fated father-daughter camping trip.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Hey, how many of you kids are on the horny drugs? I'm a cop.”
@@ -8501,10 +8179,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I'm beginning to think those vodka cranberries may have had alcohol in them.”
 
-## S17 E16 — You Can't Handle the Booth
+## S17 E16 — 16. You Can't Handle the Booth
 URL: https://watchwiththekids.com/ep/family-guy/1716.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: In a special episode, the Griffins provide DVD commentary on a recent episode and reveal never-before-told drama between Peter and Lois.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And, Brian, you've had sex with more hot women than a real dog could ever reasonably expect.”
@@ -8516,10 +8193,9 @@ Watch for:
   - “"Getting new phones was a worse idea than a skank robbery.”
   - “PETER: Right, skank robbery.”
 
-## S17 E17 — Island Adventure
+## S17 E17 — 17. Island Adventure
 URL: https://watchwiththekids.com/ep/family-guy/1717.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: In search of Stewie's cherished big wheel tricycle, that Peter threw out, Stewie and Brian embark on an adventure to "Garbage Island," a giant floating mass of trash out in the sea. Meanwhile, Lois tries to help Quagmire elevate his dating game, as he courts a middle-aged woman.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8535,10 +8211,9 @@ Watch for:
   - “My plan is to attach six Jimmy Buffett margarita machines to it, which should be able to propel us home.”
   - “From the moment we arrived, I've either been drunk or ejaculating.”
 
-## S17 E18 — Throw It Away
+## S17 E18 — 18. Throw It Away
 URL: https://watchwiththekids.com/ep/family-guy/1718.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: After Lois reads a new book on the joys of decluttering, she challenges the rest of the Griffins to throw anything out of the house that does not spark joy. While all starts out well, Lois soon takes the decluttering to a surprising extreme.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Everybody thinks they can kick me out? Well, who gets the last laugh now? I get to sleep with all my stuff in a storage unit on the highway access road.”
@@ -8556,10 +8231,9 @@ Watch for:
   - “You drunk already, bro? What's your next fake writing project, a rap opera about Grover Cleveland? (CHUCKLES): No, Lois, that would be ridiculous.”
   - “I'm making wine.”
 
-## S17 E19 — Girl, Internetted
+## S17 E19 — 19. Girl, Internetted
 URL: https://watchwiththekids.com/ep/family-guy/1719.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 14+)
-Summary: When Meg suddenly becomes internet famous, she and an excited Peter work together to build her following and create content for her new image that revolves around unhealthy eating. Meanwhile, Brian and Stewie revel in a new ride while Brian's car gets repaired.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8571,10 +8245,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “If you have a problem with addiction, do not take Pancresta, as smoking Pancresta may mimic the otherworldly high of heroin.”
 
-## S17 E20 — Adam West High
+## S17 E20 — 20. Adam West High
 URL: https://watchwiththekids.com/ep/family-guy/1720.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Brian's proposition to rename Quahog's high school "Adam West High," to honor the late Mayor West, is successful, he feels encouraged to run for office as Quahog's new mayor. The race takes a turn when Quagmire campaigns against Brian for the open seat.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8597,7 +8270,6 @@ Watch for:
 ## S18 E1 — 1. Yacht Rocky
 URL: https://watchwiththekids.com/ep/family-guy/1801.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When the brewery announces it will be firing one employee, Peter is nervous he will be the one let go. In order to calm his nerves, the family departs on a Yacht Rock cruise that doesn't go as expected.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8621,7 +8293,6 @@ Watch for:
 ## S18 E2 — 2. Bri-Da
 URL: https://watchwiththekids.com/ep/family-guy/1802.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter and his friends are sick of forgetting the million-dollar business ideas they come up with while drinking, so they strap on Joe's police body cams to record their every move. Meanwhile, Quagmire is trying to come to terms with an unexpected family development.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “What do you say? PETER: Does anyone other than Robert have an offer? Wait, why are only three of us on Shark Tank? Yeah, where's Quagmire? Oh, my God, is that Quagmire, you hooked up.”
@@ -8655,7 +8326,6 @@ Watch for:
 ## S18 E3 — 3. Absolutely Babulous
 URL: https://watchwiththekids.com/ep/family-guy/1803.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Stewie receives a participation medal in his school's toddler games, he begins to question everything he has ever won. Meanwhile, Peter causes a fight between Lois' parents and must repair the damage he caused.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Can I have sex? - No.”
@@ -8680,7 +8350,6 @@ Watch for:
 ## S18 E4 — 4. Disney's The Reboot
 URL: https://watchwiththekids.com/ep/family-guy/1804.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The network decides that it's time to explore some unique ways to reboot the series. When three versions of the reboots are shown to a focus group, the feedback takes some surprising turns.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “(LAUGHTER) Masturbating, yes.”
@@ -8709,7 +8378,6 @@ Watch for:
 ## S18 E5 — 5. Cat Fight
 URL: https://watchwiththekids.com/ep/family-guy/1805.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Quagmire opens a cat café in town, Brian decides to take a stand to get the café shut down. Meanwhile, when Meg and Brian get in trouble at school, Lois becomes nervous and decides they need to go to church camp in order to find their way.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8732,7 +8400,6 @@ Watch for:
 ## S18 E6 — 6. Peter & Lois' Wedding
 URL: https://watchwiththekids.com/ep/family-guy/1806.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: The Wi-Fi goes out in the Griffin house, leaving the family with nothing to do for the evening. In order to keep the family entertained, Peter and Lois decide to tell the kids the story of how they met and fell in love in the '90s.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Well, it was the 1990s, the decade of Viagra but also Lorena Bobbitt, so it was kind of a yay-boo period for penises.”
@@ -8756,7 +8423,6 @@ Watch for:
 ## S18 E7 — 7. Heart Burn
 URL: https://watchwiththekids.com/ep/family-guy/1807.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: In celebration of Peter and Lois' anniversary, the Griffins recount their own versions of three well-known love stories.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Our next love story is Romeo and Juliet, a 500-year-old tale about horny preteens that society somehow decided is classy and not perverted, even though two middle schoolers bang in it.”
@@ -8775,7 +8441,6 @@ Watch for:
 ## S18 E8 — 8. Shanksgiving
 URL: https://watchwiththekids.com/ep/family-guy/1808.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Lois hosts a special Thanksgiving dinner for her family, Peter decides the best way to avoid it is to get arrested. Meanwhile, a secret that Stewie has been keeping from everyone is revealed.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8794,7 +8459,6 @@ Watch for:
 ## S18 E9 — 9. Christmas is Coming
 URL: https://watchwiththekids.com/ep/family-guy/1809.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Meg takes Stewie to the mall to meet Santa, she has a surprising response. Meanwhile, Stewie is entirely scarred from the same experience and Brian tries to help him process.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Meg is entering probably the most horny part of her life.”
@@ -8804,10 +8468,9 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - “H-Hey, have you guys seen that mom who wears a swimsuit for a bra? She can't come to these.”
 
-## S18 E10 — Connie's Celica
+## S18 E10 — 10. Connie's Celica
 URL: https://watchwiththekids.com/ep/family-guy/1810.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Lois gets a job as the music teacher at Chris and Meg's school, a mean student, Connie, decides to make Lois the target of her antics.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Lois, I'll take my dessert upstairs in the masturbation bathroom.”
@@ -8835,10 +8498,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “She's a classic, entitled, mean-girl slut.”
 
-## S18 E11 — Short Cuts
+## S18 E11 — 11. Short Cuts
 URL: https://watchwiththekids.com/ep/family-guy/1811.html
-Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Brian accidentally becomes a local hero, an old street pal - and now a successful millionaire dog - reaches out and tries to convince him to get neutered. Meanwhile, Lois gets a pixie cut against Peter's wishes, so Peter retaliates by trying to out-embarrass her.
+Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Yes, I need a price check on extra-small condoms.”
@@ -8860,10 +8522,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Why don't you take her name out of your filthy whore mouth.”
 
-## S18 E12 — Undergrounded
+## S18 E12 — 12. Undergrounded
 URL: https://watchwiththekids.com/ep/family-guy/1812.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter secretly gets a credit card and overspends the family money, so Lois grounds him. To plan the perfect escape, he builds a tunnel leading directly to The Drunken Clam.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Meaning I had sex with - CHRIS: I know.”
@@ -8877,10 +8538,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I want to get one more beer.”
 
-## S18 E13 — Rich Old Stewie
+## S18 E13 — 13. Rich Old Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1813.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Stewie's future life could not be going any better, living as a wealthy, old Mr. Burns-type man, until his retirement is interrupted by Brian, who brings news that Peter is dying.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “1 It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
@@ -8895,10 +8555,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “"Coughing up blood, pain in abdomen, Winnie the Pooh casket.”
 
-## S18 E14 — The Movement
+## S18 E14 — 14. The Movement
 URL: https://watchwiththekids.com/ep/family-guy/1814.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter starts coaching for Quahog's minor league baseball team, he gets constipated during the national anthem and must kneel, unintentionally becoming the face of racial justice.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -8918,10 +8577,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - I remember after that we Lady-and-the-Tramp'd a croissant together and said this O-line needs to get healthy.
 
-## S18 E15 — Baby Stewie
+## S18 E15 — 15. Baby Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1815.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stewie builds a DNA-altering machine that will allow him to remain smart forever, but the invention has the adverse effect and he instead transforms into what he should have always been - an actual baby -.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Is violence in movies and sex on TV”
@@ -8943,10 +8601,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - Where the hell is my white wine with Sprite in it?! Hi again. That man over there reading a book by himself has offered to pay for your meal if you move to a table outside.
 
-## S18 E16 — Start Me Up
+## S18 E16 — 16. Start Me Up
 URL: https://watchwiththekids.com/ep/family-guy/1816.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter's non-stop sweating becomes a liability at his company, so his boss tells him to work from home. Meanwhile, after Stewie and Chris cause thousands of dollars in damage to an electronics store, the two create a fake Kickstarter campaign with Brian to pay back the money.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - 'Cause I use office petty cash to have sex with high-end escorts? No. But your perspiration has become a serious problem.
@@ -8972,10 +8629,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - 'Cause of the cocaine? - No.
 
-## S18 E17 — Coma Guy
+## S18 E17 — 17. Coma Guy
 URL: https://watchwiththekids.com/ep/family-guy/1817.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: With a newfound love for rocking out to Van Halen, Peter gets in a car accident and falls into a coma.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Is violence in movies and sex on TV”
@@ -8991,10 +8647,9 @@ Watch for:
   - Well, since this is a nice cocktail party, let's talk about books.
   - Excuse me, could I get dos margaritas, por favor? Yoo-hoo! Hello? Senor? Excuse me? Could I get towels? We need more towels.
 
-## S18 E18 — Better Off Meg
+## S18 E18 — 18. Better Off Meg
 URL: https://watchwiththekids.com/ep/family-guy/1818.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: When Meg is erroneously reported to have died in a car crash, she goes along with the story to start a new life elsewhere. Meanwhile, the Griffins experience a life without Meg.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - You faked your death, I fake orgasms and being impressed by my husband's accomplishments at work.
@@ -9004,10 +8659,9 @@ Watch for:
   - Now let's see, if I whap my forehead against this cement floor enough times, I think I can create a blood luge to slide myself out on.
   - What's the holdup? - What? I slapped the van twice.
 
-## S18 E19 — Holly Bibble
+## S18 E19 — 19. Holly Bibble
 URL: https://watchwiththekids.com/ep/family-guy/1819.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cooped up in a hotel room due to a big storm, the Griffins pass the time by reimagining three stories from the Bible.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - Hair gel, condom.
@@ -9036,10 +8690,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - I don't know, maybe throw it in the dryer at least? Don't take this the wrong way, but I'm not taking advice about germs from a whore.
 
-## S18 E20 — Movin' In (Principal Shepherd's Song)
+## S18 E20 — 20. Movin' In (Principal Shepherd's Song)
 URL: https://watchwiththekids.com/ep/family-guy/1820.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Principal Shepherd moves in with the Griffins after he is fired for fat-shaming Chris at school. Meanwhile, Brian sues Stewie for writing a series of children's books which portray him as an idiot.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Now, I believe you have some masturbating to do, young man? I already did it.
@@ -9061,7 +8714,6 @@ Watch for:
 ## S19 E1 — 1. Stewie's First Word
 URL: https://watchwiththekids.com/ep/family-guy/1901.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Stewie finally says his first word, and it's a swear. When Lois is shunned by the other moms, she tries to figure out where Stewie could have possibly learned it.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - (UPBEAT MUSIC PLAYING) Because they want to masturbate, you see.
@@ -9079,7 +8731,6 @@ Watch for:
 ## S19 E2 — 2. The Talented Mr. Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1902.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Stewie "breaks up with" Rupert after learning that he used to belong to Chris. Unable to get over his feelings of betrayal, Stewie decides to take action.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - Used to sleep with him, too.
@@ -9099,7 +8750,6 @@ Watch for:
 ## S19 E3 — 3. Boys & Squirrels
 URL: https://watchwiththekids.com/ep/family-guy/1903.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter injures himself and a family of squirrels in a chainsaw accident, Chris and Stewie take in one of the injured rodents to nurse it back to health. Meanwhile, a chiropractor fixes Peter's injury by realigning his spine - and restoring him to his "true height" of 6'5".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9120,7 +8770,6 @@ Watch for:
 ## S19 E4 — 4. CutawayLand
 URL: https://watchwiththekids.com/ep/family-guy/1904.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter and Lois accidentally set up a cutaway gag together, which somehow transports them into the cutaway itself.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9144,7 +8793,6 @@ Watch for:
 ## S19 E5 — 5. La Famiglia Guy
 URL: https://watchwiththekids.com/ep/family-guy/1905.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Joe asks Peter to be the godfather to his daughter, Peter commits to his mistaken interpretation of the role so much that he becomes a real gangster.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - He wants me to have sex with Bonnie.
@@ -9177,7 +8825,6 @@ Watch for:
 ## S19 E6 — 6. Meg's Wedding
 URL: https://watchwiththekids.com/ep/family-guy/1906.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Meg plans her wedding to an unexpected Quahog resident. Meanwhile, Peter finds a new vest and on one of many adventures fitting for his new attire, his arms are torn off and he is left with tiny hands that have yet to grow back.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - You're gonna have sex? I'm talking about our suicide pact.
@@ -9197,7 +8844,6 @@ Watch for:
 ## S19 E7 — 7. Wild Wild West
 URL: https://watchwiththekids.com/ep/family-guy/1907.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Lois and Peter are divided by differing views on who the next Mayor of Quahog should be. Upset at Lois' first choice, Peter seeks out the late Mayor Adam West's cousin, Wild Wild West.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9210,7 +8856,6 @@ Watch for:
 ## S19 E8 — 8. Pawtucket Pat
 URL: https://watchwiththekids.com/ep/family-guy/1908.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Brian's new job as a journalist leads him to uncover that Pawtucket Pat, Quahog's hero and brewery founder, took part in racist actions against Native Americans. The town becomes divided on whether or not to remove the statue that commemorates him.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “We heard you had sex with a horse!”
@@ -9239,7 +8884,6 @@ Watch for:
 ## S19 E9 — 9. The First No L
 URL: https://watchwiththekids.com/ep/family-guy/1909.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When the family fails to help Lois with the Christmas shopping, she walks out on the family and the Griffins must try to save Christmas on their own.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9254,10 +8898,9 @@ Watch for:
   - What the hell? They've never had a front yard family snowball fight when I was there.
   - Oh, no, Klunt, that was Stewie's aquarium with the fish you have to feed so damn much and they basically always die anyway.
 
-## S19 E10 — Fecal Matters
+## S19 E10 — 10. Fecal Matters
 URL: https://watchwiththekids.com/ep/family-guy/1910.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Peter makes it through a bad flu season without getting sick, the hospital asks him to volunteer as a nurse, but he finds himself at a crossroads when his mortal enemy, The Giant Chicken, is admitted to the ER. Meanwhile, Brian receives his genetic test results and learns he is part cat, causing him to have an identity crisis.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9281,10 +8924,9 @@ Watch for:
   - Champagne? Maybe open that facing Ah, (BLEEP). My eye! What are we celebrating? Is our IRS audit finally over? Oh, we wish.
   - Anyway, this champagne is to celebrate my victory over the Giant Chicken.
 
-## S19 E11 — Boy's Best Friend
+## S19 E11 — 11. Boy's Best Friend
 URL: https://watchwiththekids.com/ep/family-guy/1911.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: While Brian bonds with the son of his new girlfriend. Meanwhile, Peter, Quagmire and Cleveland take a joy ride in Joe's new classic corvette.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Oh, cool, and a jukebox! Yeah, but since the songs are from the '50s they're all about men in their 40s wanting to have sex with teenagers.
@@ -9299,20 +8941,18 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Holly into paroxysms of ecstasy.”
 
-## S19 E12 — And Then There's Fraud
+## S19 E12 — 12. And Then There's Fraud
 URL: https://watchwiththekids.com/ep/family-guy/1912.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: After attending a baseball game, Peter and Chris are inspired to start a memorabilia business. Meanwhile, Stewie tries to combat aging by getting plastic surgery, but ends up taking it too far.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - It's for masturbating.
   - “Is violence in movies and sex on TV”
   - Little better sex character who doesn't play as well in the Me Too era.
 
-## S19 E13 — PeTerminator
+## S19 E13 — 13. PeTerminator
 URL: https://watchwiththekids.com/ep/family-guy/1913.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Stewie designs a "Terminator" Peter robot to destroy Lois for trying to feed him broccoli, but when things don't go according to plan, Stewie and Brian must go on a Terminator-esque mission to save Stewie's life.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Why'd you make two versions Naked or all in leather? Brian, I don't expect you to be able to understand all the science stuff.
@@ -9325,10 +8965,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - (KNOCK ON DOOR) Champagne and chocolate-covered strawberries? Yes, put it over there near the candles.
 
-## S19 E14 — The Marrying Kind
+## S19 E14 — 14. The Marrying Kind
 URL: https://watchwiththekids.com/ep/family-guy/1914.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Stewie gets a mail order bride from Ukraine and experiences domestic life. Meanwhile, Peter and Chris become addicted to free hotel breakfast buffets.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - What's Kate up to this week? Losing weight with Toby maybe? Why you not have sex with me? No, I know. I totally want to.
@@ -9343,10 +8982,9 @@ Watch for:
   - I vow to keep you nourished by filling our home with the worst wine in the world and preparing potatoes and applesauce.
   - I have Dasani water bottle full of Rite Aid vodka.
 
-## S19 E15 — Customer of the Week
+## S19 E15 — 15. Customer of the Week
 URL: https://watchwiththekids.com/ep/family-guy/1915.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: After feeling unappreciated by her family, Lois taps into her villainous side and attempts to win "Best Customer" at her favorite coffee shop.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9358,10 +8996,9 @@ Watch for:
   - Now, there are two ways we can go from here: you can give me your absolute trust, or I can get you hooked on heroin.
   - Heroin's not bad.
 
-## S19 E16 — Who's Brian Now?
+## S19 E16 — 16. Who's Brian Now?
 URL: https://watchwiththekids.com/ep/family-guy/1916.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Brian has a microchip that reveals he had a family before the Griffins, when he then seeks out. After meeting the richer, smarter Hendersons, Brian struggles to enjoy his life with the Griffins as much as he once did.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - I feel like I'm sleeping with Mo'Nique.
@@ -9381,20 +9018,18 @@ Watch for:
   - I'm lost in the woods, drunk on moonshine.
   - Okay, that's it! How are you all actually this dumb? I can't even believe I've wasted my intellect living here.
 
-## S19 E17 — Young Parent Trap
+## S19 E17 — 17. Young Parent Trap
 URL: https://watchwiththekids.com/ep/family-guy/1917.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Lois and Peter are mistaken for "young parents" by another couple at Stewie's school and invited to live in a millennial apartment complex, leaving Meg and Chris home alone.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Chris had sex with that.
   - Run home with these expired military condoms, Ndugu.
   - “Is violence in movies and sex on TV”
 
-## S19 E18 — Meg Goes to College
+## S19 E18 — 18. Meg Goes to College
 URL: https://watchwiththekids.com/ep/family-guy/1918.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Meg deals with a college admissions scandal, while Brian embarks on a fitness journey.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - He didn't mean you have to sleep with him.
@@ -9404,10 +9039,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - And then I can get back to hustling drunk women upstairs with Tobin and Squee.
 
-## S19 E19 — Family Cat
+## S19 E19 — 19. Family Cat
 URL: https://watchwiththekids.com/ep/family-guy/1919.html
-Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Brian tries to convince The Griffins that their new adopted cat, Pouncy, is evil.
+Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9424,10 +9058,9 @@ Watch for:
   - Hello? What the hell does this say? - Oh, my God.
   - So what you're saying is that everyone who likes cats only likes them because they literally have crap in their brain? - That's correct.
 
-## S19 E20 — Tales of Former Sports Glory
+## S19 E20 — 20. Tales of Former Sports Glory
 URL: https://watchwiththekids.com/ep/family-guy/1920.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The guys regale each other with stories of youthful athletic accomplishments. Cleveland was a teenage baseball player from Cuba, Quagmire was a bad boy tennis superstar from New York and Peter was an underdog boxer from Philadelphia.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9449,7 +9082,6 @@ Watch for:
 ## S20 E1 — 1. LASIK Instinct
 URL: https://watchwiththekids.com/ep/family-guy/2001.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: With her vision waning, Lois elects to get LASIK surgery, but exploits her new disability for monetary gain. Meanwhile, Peter, Chris and Stewie must partake in all the activities with Doug that his father neglects.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “and sex on TV”
@@ -9465,7 +9097,6 @@ Watch for:
 ## S20 E2 — 2. Rock Hard
 URL: https://watchwiththekids.com/ep/family-guy/2002.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: While at an old record store, Peter and the guys recount tales of three rock legends: Jim Morrison, Muddy Waters and Elton John.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - So, how'd you like to have sex with my kite-sized woman weave? Mm, it'll mesh perfectly with my giant nest of tight ringlets.
@@ -9500,7 +9131,6 @@ Watch for:
 ## S20 E3 — 3. Must Love Dogs
 URL: https://watchwiththekids.com/ep/family-guy/2003.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Quagmire meets an avid dog lover, and pretends Brian is his dog in an attempt to win her over. Meanwhile, Chris helps Stewie track down the culprit who stole his Halloween candy in the "Must Love Dogs" Halloween-themed episode of FAMILY GUY.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9520,7 +9150,6 @@ Watch for:
 ## S20 E4 — 4. 80's Guy
 URL: https://watchwiththekids.com/ep/family-guy/2004.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Impelled by nostalgia, Peter recreates movie scenes from his favorite decade. Meanwhile, Stewie and Doug compete to retrieve a frisbee stuck at the top of the jungle gym.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “or have sex?”
@@ -9541,7 +9170,6 @@ Watch for:
 ## S20 E5 — 5. Brief Encounter
 URL: https://watchwiththekids.com/ep/family-guy/2005.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Peter and Quagmire accidentally switch underwear, they begin to mimic the other's behavior. Meanwhile, Stewie and Doug agree to commit each other's murders.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - You constantly want to sleep with my wife, who is an angel.
@@ -9570,7 +9198,6 @@ Watch for:
 ## S20 E6 — 6. Cootie & The Blowhard
 URL: https://watchwiththekids.com/ep/family-guy/2006.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Stewie takes drastic measures when he thinks he is diagnosed with terminal "cooties." Meanwhile, Peter becomes infatuated with Bonnie's cooking.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - No, I got it! Aw, they sure do grow up fast, don't they? Chris, have you masturbated today? - No, ma'am.
@@ -9596,7 +9223,6 @@ Watch for:
 ## S20 E7 — 7. Peterschmidt Manor
 URL: https://watchwiththekids.com/ep/family-guy/2007.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois and her father attend the funeral of Lois' childhood nanny. Meanwhile, Peter and the rest of the family turn Pewterschmidt mansion into a hotel.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9619,7 +9245,6 @@ Watch for:
 ## S20 E8 — 8. The Birthday Bootlegger
 URL: https://watchwiththekids.com/ep/family-guy/2008.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: A new boss (Preston Lloyd) quells Peter's favorite part about work: office birthdays. Meanwhile, Stewie is put in detention and comes out a ruffian.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Way off, pal. This is the only place I can masturbate.
@@ -9635,7 +9260,6 @@ Watch for:
 ## S20 E9 — 9. The Fatman Always Rings Twice
 URL: https://watchwiththekids.com/ep/family-guy/2009.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: In noir-style, Peter/Mac investigates the disappearance of Meg/Sister Megan.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Sorry, pal, she's having an affair.
@@ -9658,10 +9282,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - And of course, there was racism.
 
-## S20 E10 — Christmas Crime
+## S20 E10 — 10. Christmas Crime
 URL: https://watchwiththekids.com/ep/family-guy/2010.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Mayor West's nativity scene is ruined, Brian is seen as the prime suspect.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - The printing of the restricted times was also faded, and as to the investigation? Whoever took that nativity scene best sleep with one eye open, 'cause I'm on your trail.
@@ -9683,10 +9306,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - He's not Australian! He name-checks Vancouver in the song! A guy from Australia can't know where Vancouver is? Feels kind of racist.
 
-## S20 E11 — Mister Act
+## S20 E11 — 11. Mister Act
 URL: https://watchwiththekids.com/ep/family-guy/2011.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: An accident leaves Peter with a high-pitched voice, and Jesus coaches him into fending off the other choir boys; meanwhile, Stewie is attracted to Lois' new masculine physique.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You can sleep with Mommy in”
@@ -9700,10 +9322,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - How's that cheap wine headache? Go roll in dirt, you pig.
 
-## S20 E12 — The Lois Quagmire
+## S20 E12 — 12. The Lois Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/2012.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: At odds with Peter, Lois takes Quagmire to her high school reunion. Meanwhile, the rest of the family must cover up the death of a pizza delivery man.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - Yeah, I know he's gonna try and sleep with me, but I'm a big girl, and I can handle Quagmire.
@@ -9726,10 +9347,9 @@ Watch for:
   - What is this, Mutters Against Drunk Driving? Lois, have a drink.
   - Lois, where did you find him? Oh, you think he's so wonderful? Last night he screwed the cocktail waitress.
 
-## S20 E13 — Lawyer Guy
+## S20 E13 — 13. Lawyer Guy
 URL: https://watchwiththekids.com/ep/family-guy/2013.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter hires the town's new lawyer, Brick Baker, to represent him in litigation against his new neighbor.. who turns out to be Brick. Meanwhile, Brian and Stewie become lobstermen and save Rupert from the perils of the deep.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9746,10 +9366,9 @@ Watch for:
   - “for the Corona beer company,”
   - Quagmire, you like a beer from time to time.
 
-## S20 E14 — HBO-No
+## S20 E14 — 14. HBO-No
 URL: https://watchwiththekids.com/ep/family-guy/2014.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: The Griffins tell their own versions of three HBO shows: "Game of Thrones," "Succession" and "Big Little Lies."
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9762,10 +9381,9 @@ Watch for:
   - Hey, whose leg do you have to hump to get a Dornish wine around here? What's Uncle Doggian doing here? - I don't like him.
   - It's not just outdoor fireplace wine shops and the opening credits bridge that's actually in Big Sur.
 
-## S20 E15 — Hard Boiled Meg
+## S20 E15 — 15. Hard Boiled Meg
 URL: https://watchwiththekids.com/ep/family-guy/2015.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Meg is invigorated by her new role as a getaway driver, Meanwhile, Quagmire can't rid himself of the hiccups and implores Peter to kill him.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - There's a condom in the pocket.
@@ -9777,10 +9395,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - Uh, hey, Kel, how's that cocktail coming along? Listen, Meg, I've got a big job I've been thinking about.
 
-## S20 E16 — Prescription Heroine
+## S20 E16 — 16. Prescription Heroine
 URL: https://watchwiththekids.com/ep/family-guy/2016.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After Brian sustains an injury, Lois gets hooked on his painkillers. Meanwhile, Cleveland refurbishes Peter's ping pong table, which becomes the hot spot in the neighborhood.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Is violence in movies and sex on TV”
@@ -9795,10 +9412,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - You know, if it's good with water, it'd be even better with wine, huh? Just like Jesus says.
 
-## S20 E17 — All About Alana
+## S20 E17 — 17. All About Alana
 URL: https://watchwiththekids.com/ep/family-guy/2017.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: When Lois' piano student, Alana, comes to work for the Griffins, Lois is initially glad for the help, until she realizes Alana's intentions are more sinister than she thought.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Is violence in movies and sex on TV ♪”
@@ -9809,10 +9425,9 @@ Watch for:
   - Boy, my morning jog was murder.
   - This woman tried to take over my life and murder me and Oh, my God, you're the guitar priest.
 
-## S20 E18 — Girlfriend, Eh?
+## S20 E18 — 18. Girlfriend, Eh?
 URL: https://watchwiththekids.com/ep/family-guy/2018.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter and Chris take a road trip to Canada to prove the existence of Chris' girlfriend. Meanwhile, Lois and Meg compete for the attention of a handsome handyman.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Is violence in movies and sex on TV ♪”
@@ -9835,10 +9450,9 @@ Watch for:
   - Less filling! The Great American Beer Conflict.
   - A nation divided over which was the least trashy quality of a crappy, domestic river beer.
 
-## S20 E19 — First Blood
+## S20 E19 — 19. First Blood
 URL: https://watchwiththekids.com/ep/family-guy/2019.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The guys' physical prowess is tested at Mayor West's dude ranch. Meanwhile, Stewie thinks he's gotten his first period.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - (ROARING) (GRUNTS) - Yeah! - All right! And I lassoed his neck so he can masturbate.
@@ -9863,10 +9477,9 @@ Watch for:
   - Once upon a time, Frasier and Niles were invited to a dinner party and both brought the same wine.
   - “a morning-after cocktail”
 
-## S20 E20 — Jersey Bore
+## S20 E20 — 20. Jersey Bore
 URL: https://watchwiththekids.com/ep/family-guy/2020.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter attends a business conference in Atlantic City with Preston. Meanwhile, Stewie helps Chris prepare for his role in Adam West High's rendition of "Romeo and Juliet".
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Is violence in movies and sex on TV ♪”
@@ -9896,7 +9509,6 @@ Watch for:
 ## S21 E1 — 1. Oscars Guy
 URL: https://watchwiththekids.com/ep/family-guy/2101.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: "Family Guy" retells three Oscar-winning stories: "Silence of the Lambs," "American Beauty" and "Forrest Gump,".
 Watch for:
 - Sex & hookups — 5 moment(s)
   - and I want to have sex with you.
@@ -9919,7 +9531,6 @@ Watch for:
 ## S21 E2 — 2. Bend or Blockbuster
 URL: https://watchwiththekids.com/ep/family-guy/2102.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Resolved to enjoy a family movie night, the Griffins take a road trip to Bend, Oregon, to rent a VHS from the last Blockbuster in existence.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - I'll hook up the VCR.
@@ -9940,7 +9551,6 @@ Watch for:
 ## S21 E3 — 3. A Wife-Changing Experience
 URL: https://watchwiththekids.com/ep/family-guy/2103.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Joe accidentally sees Lois naked, leading to a reinvigoration of his sex life with Bonnie. Meanwhile, Stewie is gifted an electric SUV and quickly embodies the "Range Rover" lifestyle.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -9963,7 +9573,6 @@ Watch for:
 ## S21 E4 — 4. The Munchurian Candidate
 URL: https://watchwiththekids.com/ep/family-guy/2104.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Lois hypnotizes Peter into satisfying her sexual proclivities. Meanwhile, Stewie renovates his treehouse in an attempt to win over Brian and Chris.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -9988,7 +9597,6 @@ Watch for:
 ## S21 E5 — 5. Unzipped Code
 URL: https://watchwiththekids.com/ep/family-guy/2105.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Cleveland is fired as a mailman after an ignominious mishap, but flourishes in his new job at the brewery.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10016,7 +9624,6 @@ Watch for:
 ## S21 E6 — 6. Happy Holo-ween
 URL: https://watchwiththekids.com/ep/family-guy/2106.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter makes a hologram of himself in order to get out of menial household duties.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10036,7 +9643,6 @@ Watch for:
 ## S21 E7 — 7. The Stewaway
 URL: https://watchwiththekids.com/ep/family-guy/2107.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: During a game of "hide and seek," Stewie takes refuge in Quagmire's suitcase, only to wind up in Paris. Meanwhile, Peter and Lois take a getaway to Vermont, where Lois is intent on breaking Bonnie's Instagram "like" record.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - in my horny plans.
@@ -10050,7 +9656,6 @@ Watch for:
 ## S21 E8 — 8. Get Stewie
 URL: https://watchwiththekids.com/ep/family-guy/2108.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Stewie finds himself in public disgrace after a popstar unleashes her fan base on him for a benign comment. Meanwhile, Peter gets lap band surgery and enjoys the merriment of excess skin.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10064,7 +9669,6 @@ Watch for:
 ## S21 E9 — 9. Carny Knowledge
 URL: https://watchwiththekids.com/ep/family-guy/2109.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter and Chris finish last in a "Generation Gap" game at a carnival, forcing them to try to reconnect. Meanwhile, Brian starts to date a carny, whom he can't break up with even after witnessing some of her crude habits.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10081,10 +9685,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - Taking a whore bath
 
-## S21 E10 — The Candidate
+## S21 E10 — 10. The Candidate
 URL: https://watchwiththekids.com/ep/family-guy/2110.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Stewie and Doug compete for the honor of class "snack captain".
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10109,10 +9712,9 @@ Watch for:
   - What do you mean "wine doesn't count"?
   - Yes, rosé is wine.
 
-## S21 E11 — Love Story Guy
+## S21 E11 — 11. Love Story Guy
 URL: https://watchwiththekids.com/ep/family-guy/2111.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The guys recount their first true love stories, leading to parodies of Castaway, Dirty Dancing, and various Meg Ryan rom-coms.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - song about female masturbation
@@ -10131,10 +9733,9 @@ Watch for:
   - Why don't you sit down and drink beer
   - We had booze, sexy music,
 
-## S21 E12 — Old West
+## S21 E12 — 12. Old West
 URL: https://watchwiththekids.com/ep/family-guy/2112.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The guys try to help Mayor Wild West reconnect with his estranged father, Old West.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - the jean shorts say you're impotent,
@@ -10161,10 +9762,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - handsy when you're drunk,
 
-## S21 E13 — Single White Dad
+## S21 E13 — 13. Single White Dad
 URL: https://watchwiththekids.com/ep/family-guy/2113.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter is mistaken for being a single parent, and relishes in the perks that come with it.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10188,10 +9788,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - Or the children slinging racist
 
-## S21 E14 — White Meg Can't Jump
+## S21 E14 — 14. White Meg Can't Jump
 URL: https://watchwiththekids.com/ep/family-guy/2114.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Meg joins the Adam West High School basketball team, and her play is fueled by Peter's lambasting from the crowd. Meanwhile, Stewie goes down a rabbit hole of conspiracies, which ultimately ends with him developing multiple personalities.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10215,10 +9814,9 @@ Watch for:
   - Ow! What the hell, Stewie?
   - you tubby piece of crap.
 
-## S21 E15 — Adoptation
+## S21 E15 — 15. Adoptation
 URL: https://watchwiththekids.com/ep/family-guy/2115.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: To restore his public image, Carter adopts a young girl from an orphanage, drawing jealousy from Lois.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10236,10 +9834,9 @@ Watch for:
   - Damn it, Chris! Now that's
   - Lois, what the hell are you doing?
 
-## S21 E16 — The Bird Reich
+## S21 E16 — 16. The Bird Reich
 URL: https://watchwiththekids.com/ep/family-guy/2116.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: To take advantage of a work policy granting leave in the event of a pet's death, Peter adopts the oldest bird he can find... and realizes it used to belong to Hitler. Meanwhile, after giving Stewie a signed copy of his book, Brian finds it in a free library, causing Brian to give up writing.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - "and I lost my virginity
@@ -10265,10 +9862,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - and a bottle of wine today,
 
-## S21 E17 — A Bottle Episode
+## S21 E17 — 17. A Bottle Episode
 URL: https://watchwiththekids.com/ep/family-guy/2117.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois is blocked from a vacation rental app and accused of stealing after the family's trip to Nantucket. Meanwhile, Stewie and Brian buy saltwater taffy in bulk, and try their hands at door-to-door sales in the community.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Yeah, that or a threesome, yeah.
@@ -10284,10 +9880,9 @@ Watch for:
   - You're damn right I did!
   - You think I give a crap
 
-## S21 E18 — Vat Man and Rob 'Em
+## S21 E18 — 18. Vat Man and Rob 'Em
 URL: https://watchwiththekids.com/ep/family-guy/2118.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: When Peter gets a job as the new night watchman, he and the guys turn Pawtucket Brewery into an after-hours bar. Meanwhile, Stewie and Brian's plan to collect "lost dog" return money backfires when Brian is used for a dangerous TikTok stunt.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10298,10 +9893,9 @@ Watch for:
   - that hold all of the brewery's beer.
   - $20 per beer?
 
-## S21 E19 — From Russia With Love
+## S21 E19 — 19. From Russia With Love
 URL: https://watchwiththekids.com/ep/family-guy/2119.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After Brian's Instagram is hacked, Meg takes Stewie and Brian to Russia, only to realize she'd rather stay there. Meanwhile, Lois reverts to her tormented teenage self when Quagmire starts dating her high school bully.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10324,10 +9918,9 @@ Watch for:
   - that says, "Eto vodka-chas gde-to."
   - it's "wine o'clock,"
 
-## S21 E20 — Adult Education
+## S21 E20 — 20. Adult Education
 URL: https://watchwiththekids.com/ep/family-guy/2120.html
 Scores: violence 2/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Meg gets married in Russia but returns home after discovering she was used for a green card marriage. Meanwhile, Chris, in need of an extracurricular activity, joins Principal Shepherd in shooting pornos at the high school.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10345,7 +9938,6 @@ Watch for:
 ## S22 E1 — 1. Fertilized Megg
 URL: https://watchwiththekids.com/ep/family-guy/2201.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Meg agrees to be Bruce and Jeffery's surrogate causing a pregnant Meg to annoy her family. But, when the couple fails to pick up the baby, the Griffin's must take care of their new family member.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10367,7 +9959,6 @@ Watch for:
 ## S22 E2 — 2. Supermarket Pete
 URL: https://watchwiththekids.com/ep/family-guy/2202.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: With the brewery under construction, Lois implores Peter to take a new job, but grows irate when he begins work at the grocery store. Meanwhile, armed with his police stories, Joe and Brian team up to write their own true crime novel.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10396,7 +9987,6 @@ Watch for:
 ## S22 E3 — 3. A Stache From the Past
 URL: https://watchwiththekids.com/ep/family-guy/2203.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Peter loses the Griffins' home in a reverse mortgage, he and Mayor West travel to confront the man advertising the scheme, Tom Selleck. Meanwhile, Stewie and Brian open a booth at the flea market, leading to a rivalry with Bruce.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10415,7 +10005,6 @@ Watch for:
 ## S22 E4 — 4. Old World Harm
 URL: https://watchwiththekids.com/ep/family-guy/2204.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter and Lois vacation in Florida, only to discover they've rented a condo in a retirement community. Back at home, Brian helps Stewie take his first shower.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10447,7 +10036,6 @@ Watch for:
 ## S22 E5 — 5. Baby, It's Cold Inside
 URL: https://watchwiththekids.com/ep/family-guy/2205.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter is emasculated when, on their anniversary, he abandons Lois amidst a shark attack. Meanwhile, Stewie finds a mini fridge and lives the dorm lifestyle.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - I'm horny. Hornier than
@@ -10466,7 +10054,6 @@ Watch for:
 ## S22 E6 — 6. Boston Stewie
 URL: https://watchwiththekids.com/ep/family-guy/2206.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Stewie tries to civilize his half-brother, Boston Stewie, so that he may be adopted. Meanwhile, Meg and Chris start a venture in which people online pay Chris to sit on and smash cupcakes.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Uh, flat, dry condom in
@@ -10489,7 +10076,6 @@ Watch for:
 ## S22 E7 — 7. Snap(ple) Decision
 URL: https://watchwiththekids.com/ep/family-guy/2207.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Winner of a Snapple contest, Lois uses her winnings to take Meg on a tropical vacation. Flaunting their wealth, the two are kidnapped. Meanwhile, Stewie and Brian undergo "friendship therapy".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10498,13 +10084,10 @@ Watch for:
   - you're not blood relatives.
 - Alcohol & drugs — 1 moment(s)
   - You were too drunk to remember?
-- Racism & slurs — 1 moment(s)
-  - before telling a racist joke.
 
 ## S22 E8 — 8. Baking Sad
 URL: https://watchwiththekids.com/ep/family-guy/2208.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Meg discovers her tears produce delicious cookies, and her, along with her siblings, enjoy a profit until the success makes her too happy to cry. Meanwhile, Peter and the guys launch a "male talk show".
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Sorry, I already masturbated.
@@ -10525,7 +10108,6 @@ Watch for:
 ## S22 E9 — 9. The Return of the King (of Queens)
 URL: https://watchwiththekids.com/ep/family-guy/2209.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Lois decides to sell the family's TV to help pay for Christmas presents; Kevin James gets upset over losing Peter as a viewer.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - play as the virgin Mary.
@@ -10538,10 +10120,9 @@ Watch for:
   - aftermath of a murder.
   - And last week, there was blood.
 
-## S22 E10 — Cabin Pressure
+## S22 E10 — 10. Cabin Pressure
 URL: https://watchwiththekids.com/ep/family-guy/2210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When the Griffins win a trip to Maine at Peter's company picnic, they decide to invite their friends on the vacation; tensions run high and things soon spiral out of control when the cabin burns down.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10557,10 +10138,9 @@ Watch for:
   - What the hell is happening?!
   - Damn it, Peter, focus.
 
-## S22 E11 — Teacher's Heavy Pet
+## S22 E11 — 11. Teacher's Heavy Pet
 URL: https://watchwiththekids.com/ep/family-guy/2211.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Lois joins Chris' school as a substitute teacher.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - We're teens. We're horny for everything.
@@ -10585,10 +10165,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - The corpse of the truth.
 
-## S22 E12 — Take This Job and Love It
+## S22 E12 — 12. Take This Job and Love It
 URL: https://watchwiththekids.com/ep/family-guy/2212.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter and his friends wonder about what their dream jobs would be; Peter enters a sequence featuring himself as a James Bond-type; Quagmire reflects on his job as an aerobics instructor; Cleveland and Joe take part in a "Lethal Weapon" sequence.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10611,10 +10190,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - racist uncle hates you.
 
-## S22 E13 — Lifeguard Meg
+## S22 E13 — 13. Lifeguard Meg
 URL: https://watchwiththekids.com/ep/family-guy/2213.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Stewie and Brian become overwhelmed after winning a coffee shop; Peter and his friends annoy Meg at her new lifeguard job when they don't follow the pool rules.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10624,10 +10202,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - beers to get there, Meg.
 
-## S22 E14 — Fat Actor
+## S22 E14 — 14. Fat Actor
 URL: https://watchwiththekids.com/ep/family-guy/2214.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter tries to protest Hollywood after learning that Brad Pitt was cast in a biopic about a politician. After Pitt injures himself on set, Peter must act out the role himself.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10639,10 +10216,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - my horrific cocaine habit
 
-## S22 E15 — Faith No More
+## S22 E15 — 15. Faith No More
 URL: https://watchwiththekids.com/ep/family-guy/2215.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Brian becomes romantically interested in someone and it inspires him to use Stewie's time machine. Strange consequences result from their journey.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - Uh, okay, and, and then we'll have sex?
@@ -10666,7 +10242,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - I turn this water into wine.
 
-## S22 E90 — Peter, Peter, Pumpkin Cheater
+## S22 E90 — 90. Peter, Peter, Pumpkin Cheater
 URL: https://watchwiththekids.com/ep/family-guy/2290.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10699,7 +10275,6 @@ Watch for:
 ## S23 E1 — 1. Fat Gun
 URL: https://watchwiththekids.com/ep/family-guy/2301.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter and his family and friends star in a parody of "Top Gun."
 Watch for:
 - Sex & hookups — 5 moment(s)
   - can sleep with her tonight?
@@ -10726,7 +10301,6 @@ Watch for:
 ## S23 E2 — 2. Live, Laugh, Love
 URL: https://watchwiththekids.com/ep/family-guy/2302.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Peter tries to make Joe laugh when he realizes Joe has never found him funny. Lois chaperones Chris and Meg's school trip, where she hopes to reunite Principal Shepherd with his long-lost love.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - is violence in movies and sex on TV ♪
@@ -10747,7 +10321,6 @@ Watch for:
 ## S23 E3 — 3. Drunk With Power
 URL: https://watchwiththekids.com/ep/family-guy/2303.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Peter runs into Supreme Court Justice Brett Kavanaugh at a brewery tour.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - is violence in movies and sex on TV ♪
@@ -10773,7 +10346,6 @@ Watch for:
 ## S23 E4 — 4. Lois C.K.
 URL: https://watchwiththekids.com/ep/family-guy/2304.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois becomes a stand-up comedian.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - ever faked an orgasm?
@@ -10804,7 +10376,6 @@ Watch for:
 ## S23 E5 — 5. The Chicken or the Meg
 URL: https://watchwiththekids.com/ep/family-guy/2305.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Meg starts dating a chicken she meets on a reality dating show "Sex Farm" and moves out when Peter disapproves of their relationship.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - camera, so don't masturbate.
@@ -10826,7 +10397,6 @@ Watch for:
 ## S23 E6 — 6. Dog Is My Co-Pilot
 URL: https://watchwiththekids.com/ep/family-guy/2306.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Brian and Quagmire successfully land the plane and go on a press tour.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - is violence in movies and sex on TV ♪
@@ -10846,7 +10416,6 @@ Watch for:
 ## S23 E7 — 7. Pitch Imperfect
 URL: https://watchwiththekids.com/ep/family-guy/2307.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter must gain his family's respect back after he makes a humiliating throw. Brian and Stewie become chiropractors.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - is violence in movies and sex on TV ♪
@@ -10868,7 +10437,6 @@ Watch for:
 ## S23 E8 — 8. Hard Times at Adam West High
 URL: https://watchwiththekids.com/ep/family-guy/2308.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Chris uses Stewie's time machine to stop himself from having an erection during a book report. Peter becomes jealous when he sits out of a lottery pool and the guys win $123.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - just masturbated I, too, masturbated.
@@ -10894,7 +10462,6 @@ Watch for:
 ## S23 E9 — 9. The Elle Word
 URL: https://watchwiththekids.com/ep/family-guy/2309.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Quagmire starts dating a mystery woman, Peter, Joe, and Cleveland go on a stakeout and discover her to be The Librarian.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - closet just masturbated
@@ -10918,10 +10485,9 @@ Watch for:
   - Holy crap! What happened?
   - What the hell are you doing?
 
-## S23 E10 — A Real Who's Hulu
+## S23 E10 — 10. A Real Who's Hulu
 URL: https://watchwiththekids.com/ep/family-guy/2310.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 14)
-Summary: This episode will feature three Hulu parodies such as Only Murders in the Building, The Dropout and The Bear.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - It says I'm the horny priest
@@ -10944,10 +10510,9 @@ Watch for:
   - about how to get blood stains
   - Didn't you see the blood on his shirt?
 
-## S23 E11 — China Doll
+## S23 E11 — 11. China Doll
 URL: https://watchwiththekids.com/ep/family-guy/2311.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Stewie finds out his stuffed bear Rupert was made in China and makes it his mission to take him back there to meet his family.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - is violence in movies and sex on TV ♪
@@ -10960,10 +10525,9 @@ Watch for:
   - it's racist, so how could
   - of an obscure regional racism.
 
-## S23 E12 — One Foot in Front of the Mother
+## S23 E12 — 12. One Foot in Front of the Mother
 URL: https://watchwiththekids.com/ep/family-guy/2312.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Brian wears a shock collar while Chris discovers a talent for speed walking.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -10982,10 +10546,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - Well, he needs to lose weight.
 
-## S23 E13 — The Fat Lotus
+## S23 E13 — 13. The Fat Lotus
 URL: https://watchwiththekids.com/ep/family-guy/2313.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Peter suspects an affair between Lois and Quagmire.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - and had sex with his best friend,
@@ -10998,10 +10561,9 @@ Watch for:
   - Caught shoplifting booze and a T-shirt?
   - wasted when we hang out.
 
-## S23 E14 — Cool Hand Lois
+## S23 E14 — 14. Cool Hand Lois
 URL: https://watchwiththekids.com/ep/family-guy/2314.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois abandons her responsibilities as a mother and dates Bonnie when she masturbates for the first time, so Peter and Joe crash their wives' couples' trip to win them back.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - masturbation ed class.
@@ -11024,10 +10586,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - glass of wine or something?
 
-## S23 E15 — Martian Meg
+## S23 E15 — 15. Martian Meg
 URL: https://watchwiththekids.com/ep/family-guy/2315.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 14+)
-Summary: Meg enlists in a training program for a mission to Mars when she gets fed up with feeling like she doesn't belong.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11040,10 +10601,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - and they're a home-wrecking slut.
 
-## S23 E16 — Row v. Wade
+## S23 E16 — 16. Row v. Wade
 URL: https://watchwiththekids.com/ep/family-guy/2316.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Brian wins a boat on "The Price is Right" and decides to sail to Texas to help women seeking legal abortions.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - All right, guys, no more orgasm
@@ -11057,10 +10617,9 @@ Watch for:
   - Since the beer's expired,
   - dust-covered can of beer.
 
-## S23 E17 — Karenheit 451
+## S23 E17 — 17. Karenheit 451
 URL: https://watchwiththekids.com/ep/family-guy/2317.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois becomes the leader of a group of mothers who want to ban books from schools.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11091,10 +10650,9 @@ Watch for:
   - We don't want to hear your racist book!
   - Let him read his racist book!
 
-## S23 E18 — Twain's World
+## S23 E18 — 18. Twain's World
 URL: https://watchwiththekids.com/ep/family-guy/2318.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Brian plans to improve his writing by convincing Stewie to go back in time and bring Mark Twain to the present-day.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - write a great novel, not masturbate.
@@ -11131,7 +10689,6 @@ Watch for:
 ## S24 E1 — 1. The Edible Arrangement
 URL: https://watchwiththekids.com/ep/family-guy/2401.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: For the first time in the show's history, Lois and Stewie finally understand each other -- thanks to Brian's edibles -- and explore and try to explain their complicated relationship.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11142,7 +10699,6 @@ Watch for:
 ## S24 E2 — 2. Pumpkin Spice Girls
 URL: https://watchwiththekids.com/ep/family-guy/2402.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Lois and Meg take their love for pumpkin spice lattes to criminal extremes.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11165,7 +10721,6 @@ Watch for:
 ## S24 E3 — 3. Man-Fest Destiny
 URL: https://watchwiththekids.com/ep/family-guy/2403.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Peter and the guys become shipwrecked at Fire Island; Chris and Brian perform a lobotomy on a social-media-crazed Stewie.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11185,7 +10740,6 @@ Watch for:
 ## S24 E4 — 4. Bringing Up Brady
 URL: https://watchwiththekids.com/ep/family-guy/2404.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Meg pursues an unlikely friendship with an NFL great; Stewie and Brian host a dinner party at a home furnishing store.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11209,8 +10763,7 @@ Watch for:
 
 ## S24 E5 — 5. Dear Francis
 URL: https://watchwiththekids.com/ep/family-guy/2405.html
-Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Peter calls out the name "Francis" while making love with Lois, but she believes he meant his deceased father, leading to a round of therapy. Things worsen when Lois discovers "Frances" is the name of the Clam's new, pretty waitress.
+Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11229,7 +10782,6 @@ Watch for:
 ## S24 E6 — 6. Viewer DMs
 URL: https://watchwiththekids.com/ep/family-guy/2406.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: In this follow up to the "Viewer Mail" episodes, the Griffin family retells The Lord of the Rings,? explains how the Griffins' ancestors arrived in Quahog, and looks back at Quagmire's 1960s variety show.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11244,7 +10796,6 @@ Watch for:
 ## S24 E7 — 7. Scent of a Woman
 URL: https://watchwiththekids.com/ep/family-guy/2407.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Brian discovers his nose can detect diseases and smells that someone in the Griffin house has cancer.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - many guys she's had sex with,
@@ -11275,7 +10826,6 @@ Watch for:
 ## S24 E8 — 8. Play Time
 URL: https://watchwiththekids.com/ep/family-guy/2408.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In this three-act parody, the Griffins spoof the stage by putting up To Kill a Mockingbird, The Odd Couple and Hamlet.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - He he. Classy masturbation joke, son.
@@ -11311,7 +10861,6 @@ Watch for:
 ## S24 E9 — 9. Phony Montana
 URL: https://watchwiththekids.com/ep/family-guy/2409.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After going on a date with a Cuban-American woman named Carmen, Brian inexplicably develops a Cuban accent- which he worries will hurt his chances with her.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11332,10 +10881,9 @@ Watch for:
   - Oh, crap, man. It's Carmen.
   - wait! What the hell was that?
 
-## S24 E10 — A Few More Ways to Die in the West
+## S24 E10 — 10. A Few More Ways to Die in the West
 URL: https://watchwiththekids.com/ep/family-guy/2410.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: In this Griffin family spoof of the Old West, Peter, known as Quiet Burp, and his gang of outlaws agree to escort a wealthy businessman on a train journey.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Which scene does he get nude in?
@@ -11355,10 +10903,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - drunk driving desks.
 
-## S24 E11 — Tall Stewie
+## S24 E11 — 11. Tall Stewie
 URL: https://watchwiththekids.com/ep/family-guy/2411.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: When Stewie puts on a pair of boots that make him slightly taller, his newfound confidence changes the power dynamic in the Griffin family.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - We get to have sex!
@@ -11384,10 +10931,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - Big, fat ass.
 
-## S24 E12 — Lower G.I. Joe
+## S24 E12 — 12. Lower G.I. Joe
 URL: https://watchwiththekids.com/ep/family-guy/2412.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: A colonoscopy reveals Peter has a rare collectible toy action figure lodged in his intestine, but the reward for selling it causes a rift between him and the guys.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - and sex on TV ♪
@@ -11412,10 +10958,9 @@ Watch for:
   - some tasty colonoscopy prep cocktails.
   - colonoscopy prep cocktails.
 
-## S24 E13 — Friend's Best Man
+## S24 E13 — 13. Friend's Best Man
 URL: https://watchwiththekids.com/ep/family-guy/2413.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Stewie becomes engaged to Rupert, but Brian is upset when he is not chosen as the best man.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - Is violence in movies and sex on TV ♪
@@ -11441,10 +10986,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - I feel like a cheap whore.
 
-## S24 E14 — Let the Goodtimes Walk
+## S24 E14 — 14. Let the Goodtimes Walk
 URL: https://watchwiththekids.com/ep/family-guy/2414.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: A powerful sleeping aid medication gives Joe the ability to walk while he is asleep, but Joe grows concerned when it becomes clear that the guys prefer his sleepwalking self.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Not masturbating gets a month!
@@ -11462,10 +11006,9 @@ Watch for:
   - [BOTH] Beer!
   - or is it like champagne and
 
-## S24 E15 — High School History
+## S24 E15 — 15. High School History
 URL: https://watchwiththekids.com/ep/family-guy/2415.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: In this three-act parody of prominent historical eras, the Griffins take a humorous look at The French Revolution, the American Civil War, and World War II.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - only do masturbation stuff.

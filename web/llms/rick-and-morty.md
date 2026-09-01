@@ -7,7 +7,6 @@ Buckets: 0 all clear (1–2), 6 gray area (3), 76 hard pass (4–5).
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/rick-and-morty/0101.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Rick takes Morty to another dimension to get some seeds for him but Morty's parents are considering to put Rick in a retirement home for keeping Morty away from school to help him in his lab.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -20,7 +19,6 @@ Watch for:
 ## S1 E2 — 2. Lawnmower Dog
 URL: https://watchwiththekids.com/ep/rick-and-morty/0102.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Morty's small, white dog Snuffles gets on the nerves of the family, so Rick quickly builds a knowledge enhancing helmet for the dog. In the meantime, Rick and Morty decide to incept the dreams of Morty's math teacher, Mr. Goldenfold in order to convince him to give Morty A's in math. While the duo are sent on an epic dream world journey, Snuffles slowly gains sentience, which leads to a slew of even more problems.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh, my God! Put some clothes on, for Pete's sake! This is disgusting! - I'm gonna puke! - I can't take it, Rick! Sexual hang-ups in the pleasure chamber are punishable by death!”
@@ -39,7 +37,6 @@ Watch for:
 ## S1 E3 — 3. Anatomy Park
 URL: https://watchwiththekids.com/ep/rick-and-morty/0103.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: It's around Christmas time and Jerry's parents are coming to visit so he wants everybody to have a normal holiday without technology and without Rick. Fortunately for him, Rick has other plans, involving building a molecular theme park inside of a friend of his named Ruben, and he shrinks down Morty and sends him in there to test it out.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -67,7 +64,6 @@ Watch for:
 ## S1 E4 — 4. M. Night Shaym-Aliens!
 URL: https://watchwiththekids.com/ep/rick-and-morty/0104.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Aliens send Rick, Morty and Jerry into an alternate reality, and Rick tries to get them out as oblivious Jerry pitches a marketing slogan for apples.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Man, how does a guy like that go home and have sex with his wife? Hey, Morty.”
@@ -86,7 +82,6 @@ Watch for:
 ## S1 E5 — 5. Meeseeks and Destroy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0105.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Morty has grown weary of Rick's shenanigans, so he leads a supposedly safer adventure. Jerry conjures weird creatures to help him with his golf game.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Countries known for their sexually aggressive men.”
@@ -114,7 +109,6 @@ Watch for:
 ## S1 E6 — 6. Rick Potion #9
 URL: https://watchwiththekids.com/ep/rick-and-morty/0106.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Rick provides Morty with a love potion to get Jessica. The serum backfires & Rick's attempt to fix things creates Cronenberg inspired monsters. Rick is okay with it but Morty feels partly responsible for creating a living nightmare.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I had sex with Billy.”
@@ -144,7 +138,6 @@ Watch for:
 ## S1 E7 — 7. Raising Gazorpazorp
 URL: https://watchwiththekids.com/ep/rick-and-morty/0107.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: After Morty fathers a child with a sex robot, Rick and Summer visit the robot's planet, where the kid grows into an adult within days.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You could play guitar, you could masturbate I don't wanna masturbate, I wanna conquer the planet! Oh, here we go again! Who do you think is gonna love you if you conquer the planet Morty Jr.”
@@ -173,7 +166,6 @@ Watch for:
 ## S1 E8 — 8. Rixty Minutes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0108.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Rick hooks up the family's tv receiver with reality-tv shows from alternate dimensions, and allows them to see themselves in different versions of their lives, they begin to wonder what they have, and more importantly - what could have been.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “And now trunk men? We know science has created men that have a trunk that allows them to have sex with both male and female partners.”
@@ -202,7 +194,6 @@ Watch for:
 ## S1 E9 — 9. Something Ricked This Way Comes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0109.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick is skeptical of Summer's new job at a shop run by the devil. Jerry and Morty argue about Pluto's status as a planet and end up traveling there.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “This aftershave made women want me, but it also made me impotent! A price for everything, mr.”
@@ -226,10 +217,9 @@ Watch for:
   - “Seriously? Holy crap.”
   - “…go hard, getting busy with it but I got such a good heart that I'll make the mother wonder if he did it damn right, and I'll do it again, 'cause I am right so I gots to win break bread with the enemy but no matter…”
 
-## S1 E10 — Close Rick-Counters of the Rick Kind
+## S1 E10 — 10. Close Rick-Counters of the Rick Kind
 URL: https://watchwiththekids.com/ep/rick-and-morty/0110.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick's just trying to enjoy a nice breakfast, but he's kidnapped by a group of alternate Ricks and taken to stand trial for crimes against Ricks.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Yes, but it appears you alone have been going to the exact timelines and locations in which the murders occurred.”
@@ -245,10 +235,9 @@ Watch for:
   - “Do your worst, you little bastards! Kill me! Do it! Do I-I-I-I-it! Morty! Thank God! Get me out of this.”
   - “Poor little rickless bastards.”
 
-## S1 E11 — Ricksy Business
+## S1 E11 — 11. Ricksy Business
 URL: https://watchwiththekids.com/ep/rick-and-morty/0111.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Jerry and Beth go away to take part in a re-creation of the sinking of the Titanic, Rick and Summer throw a party that gets out of control.
 Watch for:
 - Swearing — 8 moment(s)
   - “We'll be fine! Let's party! Just shake that ass, bitch, and let me see whatcha got I swear to God, Morty, if it weren't for the fact that everyone's still…”
@@ -269,7 +258,6 @@ Watch for:
 ## S2 E1 — 1. A Rickle In Time
 URL: https://watchwiththekids.com/ep/rick-and-morty/0201.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick unfreezes time, but since he, Morty and Summer have been living for so long on frozen time, a parallel dimension develops.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “I mean it's been shot with a gun.”
@@ -294,10 +282,7 @@ Watch for:
 ## S2 E2 — 2. Mortynight Run
 URL: https://watchwiththekids.com/ep/rick-and-morty/0202.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Morty tries to save a life.
 Watch for:
-- Sex & hookups — 1 moment(s)
-  - “So, did you guys make out a little bit? Is he gonna send you a postcard? Man, that guy hit the lottery when he crossed paths with you.”
 - Violence & injury — 5 moment(s)
   - “Listen, if you ever need anybody murdered, please give me a call.”
   - “You sold a gun to a murderer so you could play video games?! Yeah, sure, I mean, if you spend all day shuffling words around, you can make anything sound bad, Morty.”
@@ -320,7 +305,6 @@ Watch for:
 ## S2 E3 — 3. Auto Erotic Assimilation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0203.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick becomes emotional; Beth and Jerry are hard on each other.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Listen, if this is an invasion, I got to sit this one out, but I'll be back to have sex with the survivors.”
@@ -360,7 +344,6 @@ Watch for:
 ## S2 E4 — 4. Total Rickall
 URL: https://watchwiththekids.com/ep/rick-and-morty/0204.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Meeting new friends; Morty goes ballistic.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Why couldn't I bring my portal gun? Why did all the drinks have to be extra large? Oh, the hulk.”
@@ -382,7 +365,6 @@ Watch for:
 ## S2 E5 — 5. Get Schwifty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0205.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick and Morty must step up and save things; a new religion starts up.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -407,7 +389,6 @@ Watch for:
 ## S2 E6 — 6. The Ricks Must Be Crazy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick forgets to check his oil, and must repair his car.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I masturbated to an extra-curvy piece of driftwood the other day! Look, I don't care what it takes.”
@@ -433,7 +414,6 @@ Watch for:
 ## S2 E7 — 7. Big Trouble In Little Sanchez
 URL: https://watchwiththekids.com/ep/rick-and-morty/0207.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick joins in on hijinks, Beth and Jerry sort out relationship issues.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “They could save the marriage of a porn star and a porn star.”
@@ -456,7 +436,6 @@ Watch for:
 ## S2 E8 — 8. Interdimensional Cable 2: Tempting Fate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0208.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Jerry gets sick and Rick sparks up the TV.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Smith? Uh, yeah, just masturbating! I forgot to mention, there are extensive medical records open on my desktop, and I trust you to confine your activities - to the purely pornographic.”
@@ -487,7 +466,6 @@ Watch for:
 ## S2 E9 — 9. Look Who's Purging Now
 URL: https://watchwiththekids.com/ep/rick-and-morty/0209.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick and Morty land on a planet where all the citizens are allowed to commit crimes -- including murder -- without punishment for one night.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “Oh, I know what this is! You've been able to sustain world peace because you have one night a year where you all run around robbing and murdering each other without consequence.”
@@ -508,10 +486,9 @@ Watch for:
   - “What the hell?! I don't care.”
   - “Screw you, Rick! I'll purge you, too, you old, rickety piece of crap! This has been a long time coming! I'm gonna rip your [Bleep.]”
 
-## S2 E10 — The Wedding Squanchers
+## S2 E10 — 10. The Wedding Squanchers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Jerry accidentally gets transported to the planet hosting Birdperson and Tammy's wedding, the whole family attends the ill-fated ceremony.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I'll have sex with that.”
@@ -532,7 +509,6 @@ Watch for:
 ## S3 E1 — 1. The Rickshank Redemption
 URL: https://watchwiththekids.com/ep/rick-and-morty/0301.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Rick, still in galactic prison, puts an intricate escape plan into action. Back on Earth, which is now under federation control, Morty and Summer have an argument about their grandpa.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Yes, I'd like very much to visit the memory of you inventing your portal gun.”
@@ -553,7 +529,6 @@ Watch for:
 ## S3 E2 — 2. Rickmancing the Stone
 URL: https://watchwiththekids.com/ep/rick-and-morty/0302.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: With the kids dealing with their parents' divorce, Rick takes them to a Mad Max-style universe where he tries to steal a green crystal from a group of scavengers.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Graze my genitals again, Taint Washer, and you'll be shipped to the wasteland.”
@@ -580,7 +555,6 @@ Watch for:
 ## S3 E3 — 3. Pickle Rick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0303.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Rick turns himself into a pickle while the rest of the family goes to therapy. Now Rick has to figure out how to stop being a pickle.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “You are the master of your universe, and yet you are dripping with rat blood and feces.”
@@ -601,7 +575,6 @@ Watch for:
 ## S3 E4 — 4. Vindicators 3: The Return of Worldender
 URL: https://watchwiththekids.com/ep/rick-and-morty/0304.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: While ostensibly helping a group of superheroes called the Vindicators, Rick instead drunkenly sets up a "Saw"-like scenario for them to navigate.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Uh, Morty, you might want to freeze some sperm.”
@@ -634,7 +607,6 @@ Watch for:
 ## S3 E5 — 5. The Whirly Dirly Conspiracy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0305.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick takes Jerry on a sympathy adventure to a resort where everyone is immortal when there, and Jerry meets some old acquaintances of Rick's who want payback.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -664,7 +636,6 @@ Watch for:
 ## S3 E6 — 6. Rest and Ricklaxation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0306.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After another exhausting adventure, Rick and Morty decide they need a vacation. But things go a little haywire when they try a special detox machine.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Uh, is this like a sex dungeon? I guess I should've been paying attention.”
@@ -690,7 +661,6 @@ Watch for:
 ## S3 E7 — 7. The Ricklantis Mixup
 URL: https://watchwiththekids.com/ep/rick-and-morty/0307.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick and Morty encounter a visiting Rick and Morty from the Citadel of Ricks before heading off on an amazing adventure to Atlantis.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I-I wanna to go to school and throw balls around and masturbate.”
@@ -719,7 +689,6 @@ Watch for:
 ## S3 E8 — 8. Morty's Mind Blowers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0308.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick shows Morty a room filled with memories Morty begged him to remove from his mind, and things go off the rails when Rick starts restoring them.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “The Floop Floopians achieve an eternal orgasmic afterlife, so long as they're killed by a great warrior.”
@@ -750,7 +719,6 @@ Watch for:
 ## S3 E9 — 9. The ABCs of Beth
 URL: https://watchwiththekids.com/ep/rick-and-morty/0309.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick and Beth sort out issues from her childhood by visiting a world called Froopyland. Morty and Summer are a little wary of Jerry's new girlfriend.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Dad, are you -- In love with a badass, sexy alien lady? Ha, ha, I don't know, Summer.”
@@ -782,10 +750,9 @@ Watch for:
   - “Now help me! First, I want you to admit that you're a closet racist, a beta-male sexist, and you dragged everyone into a horrible situation by only thinking of yourself.”
   - “Dad! -Come on! Just rip the Band-Aid off! Okay! Kiara, when I told you my kids were bigoted racists who were demanding I break up with you, I lied.”
 
-## S3 E10 — The Rickchurian Mortydate
+## S3 E10 — 10. The Rickchurian Mortydate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0310.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The president needs help from Rick and Morty, prompting a bit of a confrontation. Beth begins to suspect that she may be a clone.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Some kind of alien googa has infested the Kennedy Sex Tunnels.”
@@ -815,7 +782,6 @@ Watch for:
 ## S4 E1 — 1. Edge of Tomorty: Rick, Die, Rickpeat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0401.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick brings Morty to a planet containing crystals that show whoever is touching them all the ways they may die depending on their choices.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Will you just go up? - Stop! - You're gonna make me die wrong! - Wait a minute, what? Morty, do you have a death crystal - in your pocket? - No! Maybe! You little monster! I thought you were masturbating!”
@@ -846,7 +812,6 @@ Watch for:
 ## S4 E2 — 2. The Old Man and the Seat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0402.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Jerry develops an app at the request of a persistent alien with a "Do Not Develop My App" forehead tattoo. A determined Rick tracks a mystery pooper.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Then you know that a few years ago - I started getting into - Strap-on porn? Yes.”
@@ -871,7 +836,6 @@ Watch for:
 ## S4 E3 — 3. One Crew Over the Crewcoo's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0403.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick assembles a crew to break into a heist convention, then needs another crew to stop a heist-planning robot. And Morty writes a heist script.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Let's loop this corpse.”
@@ -891,7 +855,6 @@ Watch for:
 ## S4 E4 — 4. Claw and Hoarder: Special Ricktim's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0404.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Rick reluctantly gives in to Morty's wishes to get a pet dragon, then things get weird. Jerry befriends a talking cat and they go to Florida.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “Who's this mysterious character? Shadow Jacker, you haven't come out of your masturbation cave in eons.”
@@ -920,7 +883,6 @@ Watch for:
 ## S4 E5 — 5. Rattlestar Ricklactica
 URL: https://watchwiththekids.com/ep/rick-and-morty/0405.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick and Morty get caught up in a full-on snake war after a space snake bites Morty. Jerry tries to prove he can hang Christmas lights without dying.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Aw, man, I-I wanted to go to Boob World.”
@@ -950,7 +912,6 @@ Watch for:
 ## S4 E6 — 6. Never Ricking Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0406.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick and Morty get caught in a continuity-creating anthology device full of people telling stories about Rick.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - You're staying a virgin
@@ -979,7 +940,6 @@ Watch for:
 ## S4 E7 — 7. Promortyus
 URL: https://watchwiththekids.com/ep/rick-and-morty/0407.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick and Morty find themselves in a fight against face-hugging aliens who just happen to have an M&M's store.
 Watch for:
 - Swearing — 11 moment(s)
   - you don't chop your dick off.
@@ -997,7 +957,6 @@ Watch for:
 ## S4 E8 — 8. The Vat of Acid Episode
 URL: https://watchwiththekids.com/ep/rick-and-morty/0408.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Morty challenges Rick to build him the real-life equivalent of a "save game" function to live without consequence. Also, there's a giant vat of acid.
 Watch for:
 - Violence & injury — 2 moment(s)
   - You brought fake crystals and a gun?
@@ -1025,7 +984,6 @@ Watch for:
 ## S4 E9 — 9. Childrick of Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0409.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Jerry's plan to take the whole family on a camping trip is sidetracked when Rick gets news that he may have impregnated a planet.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Sex with a living planet?
@@ -1055,10 +1013,9 @@ Watch for:
   - Getting high and playing
   - from her drunk father!
 
-## S4 E10 — Star Mort Rickturn of the Jerri
+## S4 E10 — 10. Star Mort Rickturn of the Jerri
 URL: https://watchwiththekids.com/ep/rick-and-morty/0410.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Two Beths, a corporate-sponsored planet incinerator and some faces from the past force Rick and family to "do a Star Wars" to save Earth.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - God damn it. Morty, fix your underwear.
@@ -1083,7 +1040,6 @@ Watch for:
 ## S5 E1 — 1. Mort Dinner Rick Andre
 URL: https://watchwiththekids.com/ep/rick-and-morty/0501.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: It's a busy night at the Smith house as Rick's nemesis pays a visit and Morty invites a girl over. Then some stuff happens with a portal in the garage.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - to have a threesome with us?
@@ -1126,7 +1082,6 @@ Watch for:
 ## S5 E2 — 2. Mortyplicity
 URL: https://watchwiththekids.com/ep/rick-and-morty/0502.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Killer squids are after the Smiths, but luckily Rick created a decoy family. Or are they real? Can the decoys make decoys? Who's real? Are you real?
 Watch for:
 - Sex & hookups — 1 moment(s)
   - I had sex with their queen.
@@ -1155,7 +1110,6 @@ Watch for:
 ## S5 E3 — 3. A Rickconvenient Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0503.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Morty falls head-over-heels in love with an ecological superhero, leaving Summer to join Rick on a bender of interplanetary apocalyptic hedonism.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - I'd rather have sex with.
@@ -1186,7 +1140,6 @@ Watch for:
 ## S5 E4 — 4. Rickdependence Spray
 URL: https://watchwiththekids.com/ep/rick-and-morty/0504.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The Smiths band together to fight an army of giant mutant sperm, and let's just say everyone would be better off if Morty stays away from Beth's work.
 Watch for:
 - Sex & hookups — 8 moment(s)
   - The sperm, Morty!
@@ -1221,7 +1174,6 @@ Watch for:
 ## S5 E5 — 5. Amortycan Grickfitti
 URL: https://watchwiththekids.com/ep/rick-and-morty/0505.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Beth crashes Rick and Jerry's hellish guys night out, while Morty and Summer attempt to use a spaceship to impress a cool new kid at school.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - lose my virginity.
@@ -1255,7 +1207,6 @@ Watch for:
 ## S5 E6 — 6. Rick & Morty's Thanksploitation Spectacular
 URL: https://watchwiththekids.com/ep/rick-and-morty/0506.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick turns himself into a turkey after he ruffles the President's feathers on Thanksgiving, and the situation soon spirals into total clucking carnage.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - put a buckshot in its panties.
@@ -1282,7 +1233,6 @@ Watch for:
 ## S5 E7 — 7. Gotron Jerrysis Rickvangelion
 URL: https://watchwiththekids.com/ep/rick-and-morty/0507.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The Smiths get a lesson on the meaning of family after Rick cancels a trip to Boob World to acquire the fifth and final GoTron ferret.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - ALL SINGING: “Boob World, Boob World ♪”
@@ -1306,7 +1256,6 @@ Watch for:
 ## S5 E8 — 8. Rickternal Friendshine of the Spotless Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0508.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: With the rest of the family out of town on a cruise, Rick is left to his own devices at home and decides it's time to reconnect with an old friend.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - I thought for sure I'd have to be naked
@@ -1329,7 +1278,6 @@ Watch for:
 ## S5 E9 — 9. Forgetting Sarick Mortshall
 URL: https://watchwiththekids.com/ep/rick-and-morty/0509.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Rick starts using birds as sidekicks, Morty finds a new partner in a portal. Is Rick and Morty's interdimensional partnership done forever?
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - eat my porno magazines?
@@ -1351,10 +1299,9 @@ Watch for:
   - Damn. Just like Jackie Chan!
   - Oh, crap, we better skedaddle!
 
-## S5 E10 — Rickmurai Jack
+## S5 E10 — 10. Rickmurai Jack
 URL: https://watchwiththekids.com/ep/rick-and-morty/0510.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick's still doing the weird crows thing, but a middle-aged Morty hopes to reconnect with Rick, leading them down an emotional path in a familiar location.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - See ya later, masturbators.
@@ -1378,7 +1325,6 @@ Watch for:
 ## S6 E1 — 1. Solaricks
 URL: https://watchwiththekids.com/ep/rick-and-morty/0601.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: They're back, baby! The Smiths deal with last season's fallout, and Rick and Morty are stranded in space floating in the remnants of the citadel.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Or maybe it's me, all naked!
@@ -1403,7 +1349,6 @@ Watch for:
 ## S6 E2 — 2. Rick: A Mort Well Lived
 URL: https://watchwiththekids.com/ep/rick-and-morty/0602.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Morty is trapped and Rick needs to save him, but to do so, Summer must do a Die Hard. This won't be easy because she's never seen it.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - and masturbation,
@@ -1436,7 +1381,6 @@ Watch for:
 ## S6 E3 — 3. Bethic Twinstinct
 URL: https://watchwiththekids.com/ep/rick-and-morty/0603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The Smiths celebrate one of their favourite holidays while Summer and Morty lock into their new ultra-realistic video game console.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - Oh, my God, Beth, there's masturbating
@@ -1479,7 +1423,6 @@ Watch for:
 ## S6 E4 — 4. Night Family
 URL: https://watchwiththekids.com/ep/rick-and-morty/0604.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The family discover Rick has been using some new technology that they want to try too. After obliging, classic Rick and Morty chaos ensues.
 Watch for:
 - Violence & injury — 4 moment(s)
   - It needs a blood sample.
@@ -1507,7 +1450,6 @@ Watch for:
 ## S6 E5 — 5. Final DeSmithation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0605.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The Smiths dine at their favourite Chinese restaurant and read their fortune cookies aloud. Pretty normal stuff, until Jerry reads his.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - "You will have sex with your mother."
@@ -1541,7 +1483,6 @@ Watch for:
 ## S6 E6 — 6. JuRicksic Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0606.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Seemingly out of the blue, Earth's old rulers return. They make a great case for changing the way society does business, but Rick isn't going to put up with it.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - A rear naked choke hold. I'll show you.
@@ -1567,7 +1508,6 @@ Watch for:
 ## S6 E7 — 7. Full Meta Jackrick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0607.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick and Morty remember some of their old adventures together, which leads them to a stand-off with an old enemy.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Jerry, I had sex with your wife.
@@ -1597,7 +1537,6 @@ Watch for:
 ## S6 E8 — 8. Analyze Piss
 URL: https://watchwiththekids.com/ep/rick-and-morty/0608.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Tired of being attacked by goofball supervillains, Rick decides to seek advice about why he's always a target, leading to a breakthrough - for Jerry.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - I'm sorry I sexualized you!
@@ -1635,7 +1574,6 @@ Watch for:
 ## S6 E9 — 9. A Rick in King Mortur's Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0609.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Morty starts a war on worlds after debunking the entire existence of the Knights of the Sun and is forced to take extreme measures in order to put an end to it all.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1661,10 +1599,9 @@ Watch for:
   - They're talking about heroin,
   - drunk, I'm a psychopath,
 
-## S6 E10 — Ricktional Mortpoon's Rickmas Mortcation
+## S6 E10 — 10. Ricktional Mortpoon's Rickmas Mortcation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0610.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: What starts as a merry Christmas in the Smith household takes an ugly turn when Morty uncovers a betrayal thanks to a gift from a galaxy far, far away.
 Watch for:
 - Violence & injury — 3 moment(s)
   - wasn't murdered as a child.
@@ -1689,7 +1626,6 @@ Watch for:
 ## S7 E1 — 1. How Poopy Got His Poop Back
 URL: https://watchwiththekids.com/ep/rick-and-morty/0701.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Mr. Poopybutthole overstays his welcome at the Smith household, the rest of the family get Rick to deal with the problem. However what starts out as a hang out of friends quickly turns into an out of control bar crawl, especially when a special guest joins the group.
 Watch for:
 - Violence & injury — 2 moment(s)
   - The best bloody day of my life.
@@ -1714,7 +1650,6 @@ Watch for:
 ## S7 E2 — 2. The Jerrick Trap
 URL: https://watchwiththekids.com/ep/rick-and-morty/0702.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick and Jerry's minds are accidentally scrambled; they have to learn to set aside their differences to save their family.
 Watch for:
 - Violence & injury — 2 moment(s)
   - I'm not going to murder Gene.
@@ -1739,7 +1674,6 @@ Watch for:
 ## S7 E3 — 3. Air Force Wong
 URL: https://watchwiththekids.com/ep/rick-and-morty/0703.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick, along with the president and Dr. Wong, deal with a situation when an ex-lover of Rick takes over Virginia.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - of hippie sex cult.
@@ -1767,7 +1701,6 @@ Watch for:
 ## S7 E4 — 4. That's Amorte
 URL: https://watchwiththekids.com/ep/rick-and-morty/0704.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The Smith family is enjoying delicious spaghetti for family dinner but Morty uncovers the truth about the dish leading to a horrifying discovery and the collapse of a society.
 Watch for:
 - Violence & injury — 6 moment(s)
   - Check it out. Murdered.
@@ -1801,7 +1734,6 @@ Watch for:
 ## S7 E5 — 5. Unmortricken
 URL: https://watchwiththekids.com/ep/rick-and-morty/0705.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The search for Rick Prime takes Rick and Morty to the vast reaches of the multiverse where they have to team up with an old enemy to bring him down for good.
 Watch for:
 - Violence & injury — 2 moment(s)
   - A monkey humping a shotgun has
@@ -1827,7 +1759,6 @@ Watch for:
 ## S7 E6 — 6. Rickfending Your Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0706.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: As the mind-bending animated adventures continue, Morty gets audited.
 Watch for:
 - Violence & injury — 7 moment(s)
   - We don't just murder for fun.
@@ -1857,7 +1788,6 @@ Watch for:
 ## S7 E7 — 7. Wet Kuat Amortican Summer
 URL: https://watchwiththekids.com/ep/rick-and-morty/0707.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick gives Summer an Attribute Slider as payment for helping clean up his messes. When Morty wants it for himself, the siblings are thrown into an adventure where the term "sibling bond" is given a whole new meaning for them.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - girl to hook up with on Tuesdays?
@@ -1886,7 +1816,6 @@ Watch for:
 ## S7 E8 — 8. Rise of the Numbericons: The Movie
 URL: https://watchwiththekids.com/ep/rick-and-morty/0708.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Morty's math class takes a surprising new turn when he and his math teacher Mr. Goldenfield go on an adventure with Goldenfield's old student, Water-T to battle the Numbericons.
 Watch for:
 - Violence & injury — 1 moment(s)
   - Kill! Murder! Death!
@@ -1907,7 +1836,6 @@ Watch for:
 ## S7 E9 — 9. Mort: Ragnarick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0709.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: In an attempt to answer the age old question if there is an afterlife, Rick has Bigfoot kill him in order to enter Valhalla for a robbery. Things get pretty hectic when the pope gets involved in the situation.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - You will have your naked imbecile.
@@ -1935,10 +1863,9 @@ Watch for:
   - kill for a beer and a sandwich.
   - gonna give him a beer?
 
-## S7 E10 — Fear No Mort
+## S7 E10 — 10. Fear No Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0710.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Rick and Morty enter into a mysterious new realm called the Fear Hole, the two must learn to overcome their greatest fears and know what it's like to live with themselves.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - My greatest fear is you hooking up?
@@ -1967,7 +1894,6 @@ Watch for:
 ## S8 E1 — 1. Summer of All Fears
 URL: https://watchwiththekids.com/ep/rick-and-morty/0801.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Rick left the kids in a matrix. Not chill, broh.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1996,7 +1922,6 @@ Watch for:
 ## S9 E1 — 1. Theres Something About Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0901.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick's been lonely, broh. Morty's worried bout side pieces.
 Watch for:
 - Violence & injury — 2 moment(s)
   - He'll want to murder
@@ -2020,7 +1945,6 @@ Watch for:
 ## S9 E2 — 2. Ricks Days, Seven Nights
 URL: https://watchwiththekids.com/ep/rick-and-morty/0902.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: You try being Rick all the time, broh.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - to hook up with locals.
@@ -2050,7 +1974,6 @@ Watch for:
 ## S9 E3 — 3. Rick Fu Hustle
 URL: https://watchwiththekids.com/ep/rick-and-morty/0903.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: You haven't lived till you've chested up at Trader Joe's, broh.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - to hook up the flat screen.
@@ -2092,7 +2015,6 @@ Watch for:
 ## S9 E4 — 4. A Ricker Runs Through It
 URL: https://watchwiththekids.com/ep/rick-and-morty/0904.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Remembering passwords is hard, broh. Special characters, broh.
 Watch for:
 - Violence & injury — 2 moment(s)
   - a lot of blood.
@@ -2119,7 +2041,6 @@ Watch for:
 ## S9 E5 — 5. Jer Bud
 URL: https://watchwiththekids.com/ep/rick-and-morty/0905.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Man's best friend, broh.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - about the way I look naked.
@@ -2152,7 +2073,6 @@ Watch for:
 ## S9 E6 — 6. Erickerhead
 URL: https://watchwiththekids.com/ep/rick-and-morty/0906.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick's stomach is mad, broh. But it's all-you-can-eat-and-drink here, broh!
 Watch for:
 - Sex & hookups — 2 moment(s)
   - I had an orgasm.
@@ -2184,7 +2104,6 @@ Watch for:
 ## S9 E7 — 7. Mortgully: The Last Rickforest
 URL: https://watchwiththekids.com/ep/rick-and-morty/0907.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rick and Morty gotta evolve, broh.
 Watch for:
 - Swearing — 12 moment(s)
   - What the fuck's going on.
@@ -2203,7 +2122,6 @@ Watch for:
 ## S9 E8 — 8. Rickuiem Mort a Dream
 URL: https://watchwiththekids.com/ep/rick-and-morty/0908.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Hold still, broh. It'll make you nice, broh.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2232,7 +2150,6 @@ Watch for:
 ## S9 E9 — 9. Salute Your Morts
 URL: https://watchwiththekids.com/ep/rick-and-morty/0909.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Morty and Summer go to camp, broh. Beth and Jerry home alone, broh.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2261,10 +2178,9 @@ Watch for:
   - Get that fart baby a beer!
   - I wish we hadn't given beer
 
-## S9 E10 — Field Of Dreams
+## S9 E10 — 10. Field Of Dreams
 URL: https://watchwiththekids.com/ep/rick-and-morty/0910.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Tom Sawyer, broh.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - buried with your porn magazines?

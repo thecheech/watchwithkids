@@ -1,10 +1,10 @@
-# South Park — parent guide (335 episodes)
+# South Park — parent guide (334 episodes)
 
 Source: https://watchwiththekids.com/south-park.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 6 all clear (1–2), 41 gray area (3), 288 hard pass (4–5).
+Buckets: 6 all clear (1–2), 41 gray area (3), 287 hard pass (4–5).
 
-## Ep 47 — Joining the Panderverse
+## Ep 47 — 47. Joining the Panderverse
 URL: https://watchwiththekids.com/ep/south-park/0047.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -33,7 +33,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - huh, fat ass?
 
-## Ep 48 — Not Suitable for Children
+## Ep 48 — 48. Not Suitable for Children
 URL: https://watchwiththekids.com/ep/south-park/0048.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -70,7 +70,7 @@ Watch for:
   - their art teacher is a slut?
   - She is not a slut.
 
-## Ep 49 — The End of Obesity
+## Ep 49 — 49. The End of Obesity
 URL: https://watchwiththekids.com/ep/south-park/0049.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -103,7 +103,6 @@ Watch for:
 ## S1 E1 — 1. Cartman Gets an Anal Probe
 URL: https://watchwiththekids.com/ep/south-park/0101.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Aliens wreak havoc in the Rockies, first by subjecting Cartman to an anal probe, and then by abducting Kyle's baby brother.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “No, Kitty, this is my potpie! Mom! Kitty's being a dildo! Then I know a certain kitty-kitty who's sleeping with Mommy tonight.”
@@ -125,7 +124,6 @@ Watch for:
 ## S1 E2 — 2. Weight Gain 4000
 URL: https://watchwiththekids.com/ep/south-park/0102.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman tries to slim down when he learns a TV talk-show host is coming to town to give him an award, but he bulks up instead. Meanwhile, Mr. Garrison hatches a plan to murder the visiting celeb.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Kathie Lee is a beautiful, sultry queen of sexual fantasy.”
@@ -149,7 +147,6 @@ Watch for:
 ## S1 E3 — 3. Volcano
 URL: https://watchwiththekids.com/ep/south-park/0103.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: A volcanic eruption interrupts the boys' camping trip.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “Don't ever walk with your gun unless the safety's on.”
@@ -165,7 +162,6 @@ Watch for:
 ## S1 E4 — 4. Big Gay Al's Big Gay Boat Ride
 URL: https://watchwiththekids.com/ep/south-park/0104.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: When his pup explores his sexuality, Stan gets so upset that he inadvertently threatens to blow the school's homecoming-game victory.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Evil down to their black hearts, which pump not blood but a vomitous oil that oozes through their veins clots in their brains, which causes their Nazi-esque violent behavior.”
@@ -177,7 +173,6 @@ Watch for:
 ## S1 E5 — 5. An Elephant Makes Love to a Pig
 URL: https://watchwiththekids.com/ep/south-park/0105.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After a botched genetic experiment, Stan's clone is let loose in the town. Voices include Trey Parker and Matt Stone.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Lf a girl tried to kick my ass, I'd be: "Why don't you stop dressing me like a mailman and making me dance for you while you smoke crack in your bedroom and have sex with some guy I don't even know on my dad's bed.”
@@ -207,7 +202,6 @@ Watch for:
 ## S1 E6 — 6. Death
 URL: https://watchwiththekids.com/ep/south-park/0106.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys summon the Grim Reaper.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Why don't we go watch those porno movie thingies? - What are you doing, Grandpa? - I'm going to Africa.”
@@ -239,7 +233,6 @@ Watch for:
 ## S1 E7 — 7. Pinkeye
 URL: https://watchwiththekids.com/ep/south-park/0107.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: A pinkeye epidemic interrupts the boys' plans to win a Halloween-costume contest; and Kenny has a run-in with a Russian space station when it falls to Earth.
 Watch for:
 - Swearing — 12 moment(s)
   - “You owe me a Sweetie Pop, asshole.”
@@ -262,7 +255,6 @@ Watch for:
 ## S1 E8 — 8. Starvin' Marvin
 URL: https://watchwiththekids.com/ep/south-park/0108.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After the boys contact an agency that helps starving children, Government authorities send Cartman to Ethiopia. Meanwhile, the town holds a drive for canned goods; and turkeys revolt against a genetic engineer.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “No punches below the belt, holding or miracles.”
@@ -284,17 +276,15 @@ Watch for:
 ## S1 E9 — 9. Mr. Hankey, the Christmas Poo
 URL: https://watchwiththekids.com/ep/south-park/0109.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Because he's Jewish, Kyle is denied involvement in the Nativity play and excluded from trips to see Santa. Meanwhile, South Park residents try to plan a politically correct celebration; and Mr. Hankey visits Kyle.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Look at the way they foam at the mouth like beautiful suds of beer.”
 - Fat-shaming — 1 moment(s)
   - “Who's that fat chick? - Sally Struthers.”
 
-## S1 E10 — Damien
+## S1 E10 — 10. Damien
 URL: https://watchwiththekids.com/ep/south-park/0110.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: As Cartman celebrates his birthday, Jesus Christ and Satan duke it out on a pay-per-view TV special. Meanwhile, Satan's son Damien tries to fit in with the crowd after making a violent first impression.
 Watch for:
 - Swearing — 11 moment(s)
   - “Super-bitch is at it again.”
@@ -309,10 +299,9 @@ Watch for:
   - “This is the most God-awful piece of crap I've ever seen.”
   - “All you bastards ruined Christmas.”
 
-## S1 E11 — Tom's Rhinoplasty
+## S1 E11 — 11. Tom's Rhinoplasty
 URL: https://watchwiththekids.com/ep/south-park/0111.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Mr. Garrison takes a leave of absence to have a nose job and is replaced by Miss Ellen, a substitute who threatens Stan and Wendy's relationship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hat, being hot and sexy is fun for a while, but it does get boring.”
@@ -327,10 +316,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I'm not kissing ass, you slut! - Miss Ellen, can I talk to you? Of course, Wendy.”
 
-## S1 E12 — Mecha-Streisand
+## S1 E12 — 12. Mecha-Streisand
 URL: https://watchwiththekids.com/ep/south-park/0112.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The future of the world is at stake after the boys unearth a prehistoric relic that spawns a monster.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Robert Smith, hit her nose! Use robot punch.”
@@ -349,10 +337,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “I'll teach you to meddle with my triangle! - It's not my triangle, it's Kyle's! - Don't pass it back on me, fat ass! Screw you, hippie! - Where is the Triangle of Zinthar? - I don't remember.”
 
-## S1 E13 — Cartman's Mom is a Dirty Slut
+## S1 E13 — 13. Cartman's Mom is a Dirty Slut
 URL: https://watchwiththekids.com/ep/south-park/0113.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Cartman begins to exhibit odd behavior, a counselor suggests that finding his father may solve his problems.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I might have made love to your mother at the dance, but who here didn't? Now come on, honestly, who here has never had sex with Mrs.”
@@ -386,7 +373,6 @@ Watch for:
 ## S2 E1 — 1. Terrance & Phillip in "Not Without My Anus"
 URL: https://watchwiththekids.com/ep/south-park/0201.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: An episode featuring Terrance and Phillip, who must save Canada from Saddam Hussein.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “If they can't see how horribly disfigured you are, they'll want to sleep with you.”
@@ -412,7 +398,6 @@ Watch for:
 ## S2 E2 — 2. Cartman's Mom is Still a Dirty Slut
 URL: https://watchwiththekids.com/ep/south-park/0202.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Chef and the boys rush to the hospital to check on Mephesto, who's gunned down just as he's set to reveal the identity of Cartman's father. Meanwhile, the townspeople search for the gunman and battle a snowstorm.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “No, don't! Set an open course for the virgin sea.”
@@ -446,7 +431,6 @@ Watch for:
 ## S2 E3 — 3. Chickenlover
 URL: https://watchwiththekids.com/ep/south-park/0203.html
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Chaos ensues on the streets of South Park as the town is overcome by a crime wave that leaves scores of chickens assaulted. And Officer Barbrady's no help...because he's resigned.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Who'd have sex with a chicken? Uh boys you move along, this isn't for young eyes to see.”
@@ -472,7 +456,6 @@ Watch for:
 ## S2 E4 — 4. Ike's Wee Wee
 URL: https://watchwiththekids.com/ep/south-park/0204.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys try to circumvent a delicate surgical procedure set to be performed on Kyle's brother as part of a tradition begun by their Jewish ancestors. Meanwhile, Mr. Mackey is cut from his job after he botches a lecture on drugs.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -500,7 +483,6 @@ Watch for:
 ## S2 E5 — 5. Conjoined Fetus Lady
 URL: https://watchwiththekids.com/ep/south-park/0205.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle's terrified after an injury sustained during a dodgeball game sends him to the nurse---a conjoined twin with an unusual medical condition. Meanwhile, Pip leads the dodgeball team to the world championships in China.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Yeah good thing they have those big eyes so they don't have to rely on that amazing American intellect Pray bra! Holy crap.”
@@ -524,7 +506,6 @@ Watch for:
 ## S2 E6 — 6. The Mexican Staring Frog of Southern Sri Lanka
 URL: https://watchwiththekids.com/ep/south-park/0206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Jimbo and Ned launch a TV hunting show, which goes head-to-head with "Jesus and Pals," the popular cable-access series.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “I'll just take him home and show him some good hard core porn, he'll snap right out of it, won't you Ned? I want to appologize to all of you for what happened in there.”
@@ -550,7 +531,6 @@ Watch for:
 ## S2 E7 — 7. City on the Edge of Forever (a.k.a. Flashbacks)
 URL: https://watchwiththekids.com/ep/south-park/0207.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys put twists on events such as the attempted assassination of a talk-show host and a fight with Death as their bus hangs off a cliff. Meanwhile, Ms. Crabtree finds fame when she goes to look for help.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -577,7 +557,6 @@ Watch for:
 ## S2 E8 — 8. Summer Sucks
 URL: https://watchwiththekids.com/ep/south-park/0208.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The mayor devises a plan to make the town's Fourth of July celebration memorable, despite a ban on fireworks; and Mr. Hat vanishes, causing Mr. Garrison to visit a therapist.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hat was gay? Sometimes he fanatsizes about same sexualations.”
@@ -605,7 +584,6 @@ Watch for:
 ## S2 E9 — 9. Chef's Chocolate Salty Balls
 URL: https://watchwiththekids.com/ep/south-park/0209.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Hollywood pooh-bahs in town for a film festival try to sign Mr. Hankey to a movie deal after their upscale cuisine disrupts the sewage system and nearly destroys him. Meanwhile, locals are up in arms over the movie-industry event.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And is a sexual exploration piece about 2 women in love.”
@@ -624,10 +602,9 @@ Watch for:
   - “Oh my god! I found a penny! You bastard! Ok Mr.”
   - “He's back, he's back! That was delicious! My salty chocolate balls must've rejuvinated him! You got the best balls in the whole world Chef! You damn right.”
 
-## S2 E10 — Chickenpox
+## S2 E10 — 10. Chickenpox
 URL: https://watchwiththekids.com/ep/south-park/0210.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The town faces an outbreak of chicken pox.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I don't think it's very healthy to sleep with rats.”
@@ -652,10 +629,9 @@ Watch for:
   - “Has 6 different beers from local breweries.”
   - “I wanted to be somebody! I wanted to be somebody to! I just wasn't born with a silver enima up my ass! You're just jealous! You're a bitter old drunk just like your father! Now, don't make me do that again.”
 
-## S2 E11 — Roger Ebert Should Lay Off the Fatty Foods
+## S2 E11 — 11. Roger Ebert Should Lay Off the Fatty Foods
 URL: https://watchwiththekids.com/ep/south-park/0211.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan, Kyle and Kenny gravitate toward a new planetarium; and Cartman auditions to be the star of "Les Miserables."
 Watch for:
 - Swearing — 9 moment(s)
   - “Kenny, can you give us another example? When I get blowjobs that I cum through discharging that's the way to fuck.”
@@ -670,10 +646,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “No no no pain killer! I'll be ok! Oh um ok, Van Galder, I'm counselor Mackey, have you been smoking marijuna? Marijuana's bad, mmkay? Must tell the machine the machine is eee Well I've never seen anything like this.”
 
-## S2 E12 — Clubhouses
+## S2 E12 — 12. Clubhouses
 URL: https://watchwiththekids.com/ep/south-park/0212.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys each build a clubhouse---and Stan is eager to have Wendy over for a game of "truth or dare." However, his parents' separation interferes with his plans.
 Watch for:
 - Swearing — 12 moment(s)
   - “That's not it you idiot! - Hey back off cunt! - You just said the C-word! - Did I? This is a sweet spot for a clubhouse.”
@@ -696,10 +671,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Hat is a two-timin whore! - And now we all learn from Mr.”
 
-## S2 E13 — Cow Days
+## S2 E13 — 13. Cow Days
 URL: https://watchwiththekids.com/ep/south-park/0213.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: During South Park's annual rodeo, the boys compete in a bull-riding contest. Meanwhile, the cows find religion.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Cool! Hora hora plee sojuboy! Hora sojuboy me so horny.”
@@ -728,10 +702,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Go help him Kenny! Uh uh! I know what's gonna happen alright! - Oh my god they killed Kenny! - You bastards! And this brave little whore from the East, has really put on a show for us today!”
 
-## S2 E14 — Chef Aid
+## S2 E14 — 14. Chef Aid
 URL: https://watchwiththekids.com/ep/south-park/0214.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Chef invites some of his well-known musician friends to participate in a benefit concert after he loses all of his money in a lawsuit. Meanwhile, the boys join the workforce to help him get out of debt.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “How would you like to use some sex toys Sex toys Like what Like this very special device.”
@@ -752,10 +725,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “My only hope is to whore myself to every woman in town.”
 
-## S2 E15 — Spooky Fish
+## S2 E15 — 15. Spooky Fish
 URL: https://watchwiththekids.com/ep/south-park/0215.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan fears his pet fish may be involved with a rash of unsolved murders that occur on Halloween. Meanwhile, Cartman starts killing people---with kindness, even going so far as to appreciate Wendy's liberal views.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “C'mon Shelly let's hook up your home theater.”
@@ -785,10 +757,9 @@ Watch for:
   - “Why do you keep saying hella fat ass? - Cause I'm hella-cool that's why.”
   - “Shut your goddamn mouth, fat ass.”
 
-## S2 E16 — Merry Christmas Charlie Manson!
+## S2 E16 — 16. Merry Christmas Charlie Manson!
 URL: https://watchwiththekids.com/ep/south-park/0216.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys go to Cartman's grandmother's house for a holiday feast that's also attended by Cartman's uncle (an escaped con) and the police.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “Mass murderer and extremely nasty person, Charles Manson has escaped from prison.”
@@ -811,10 +782,9 @@ Watch for:
   - “My family sucks ass.”
   - “Hankey ever found out he would be so pissed.”
 
-## S2 E17 — Gnomes (a.k.a. Underpants Gnomes)
+## S2 E17 — 17. Gnomes (a.k.a. Underpants Gnomes)
 URL: https://watchwiththekids.com/ep/south-park/0217.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys work on a project with a high-strung kid whose parents' coffee shop faces strong competition from a conglomerate that hopes to set up in South Park.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Soon they'll want my blood.”
@@ -837,10 +807,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You hear that you're not gonna get away with this you whore! Excuse me! Boys, we've talked it over and we want you to take your case to the mayor.”
 
-## S2 E18 — Prehistoric Ice Man
+## S2 E18 — 18. Prehistoric Ice Man
 URL: https://watchwiththekids.com/ep/south-park/0218.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys unearth a prehistoric man frozen in ice, but the discovery jeopardizes Stan and Kyle's friendship when they argue over what to name him.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -865,7 +834,6 @@ Watch for:
 ## S3 E1 — 1. Rainforest Schmainforest
 URL: https://watchwiththekids.com/ep/south-park/0301.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys accompany a teacher and her singing-and-dancing group to Central America to raise awareness of the rain forest. Also: Kenny falls for a choir member; and Kyle has trouble mastering the choreography.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We're ready to head to the Latin American nation of Costa Rica, a country filled with virgin rainforests.”
@@ -888,7 +856,6 @@ Watch for:
 ## S3 E2 — 2. Spontaneous Combustion
 URL: https://watchwiththekids.com/ep/south-park/0302.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Residents start to spontaneously combust, prompting Stan's geologist father to investigate.
 Watch for:
 - Swearing — 12 moment(s)
   - “Really? Yeah! So hurry up and die you piece of crap! When I get my super powers, I'm gonna use them to smote you two assholes right off the planet! Super powers is sweet.”
@@ -909,7 +876,6 @@ Watch for:
 ## S3 E3 — 3. The Succubus (a.k.a. Chef's Mama)
 URL: https://watchwiththekids.com/ep/south-park/0303.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Chef gets a visit from his mother when the boys feel his bride-to-be has taken their place in his heart.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “and how men have been oppressing women for years and viewing them as sexual objects, and I realized that I had done that myself.”
@@ -936,7 +902,6 @@ Watch for:
 ## S3 E4 — 4. Jakovasaurs
 URL: https://watchwiththekids.com/ep/south-park/0304.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys discover two nearly extinct animals while camping on the banks of Stark's Pond.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “…quick! Hit him again while he's down! Good! Now, kick his balls! There! See?! You got him coughing up blood!”
@@ -954,7 +919,6 @@ Watch for:
 ## S3 E5 — 5. Tweek vs. Craig
 URL: https://watchwiththekids.com/ep/south-park/0305.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys take a shop class taught by an eccentric, and urge a schoolyard fight between classmates Tweek and Craig.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “…quick! Hit him again while he's down! Good! Now, kick his balls! There! See?! You got him coughing up blood!”
@@ -972,7 +936,6 @@ Watch for:
 ## S3 E6 — 6. Sexual Harassment Panda
 URL: https://watchwiththekids.com/ep/south-park/0306.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Cartman sues Stan for sexual harassment.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Due to recent events around the country, I've been instructed to teach you all about sexual harrassment in school.”
@@ -990,7 +953,6 @@ Watch for:
 ## S3 E7 — 7. Cat Orgy (1)
 URL: https://watchwiththekids.com/ep/south-park/0307.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Shelly baby-sits Cartman.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “The male lion is inticed by the females subtle breasts and firm back side.”
@@ -1004,7 +966,6 @@ Watch for:
 ## S3 E8 — 8. Two Guys Naked in a Hot Tub (2) (a.k.a. Melvins)
 URL: https://watchwiththekids.com/ep/south-park/0308.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: A meteor shower hits town, and Stan's sister Shelly babysits Cartman while Mrs. Cartman goes to a "meteor party."
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “…your wife would love that! I wish! That's the one thing I've always thought of experimenting with! A threesome!”
@@ -1022,7 +983,6 @@ Watch for:
 ## S3 E9 — 9. Jewbilee (3)
 URL: https://watchwiththekids.com/ep/south-park/0309.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle and Ike go on a camping trip while South Park residents wait for a meteor shower to begin.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “…how we'll be making tonight's craft! And so you see, Scouts, all you need is a bar of soap and a dull knife!”
@@ -1035,10 +995,9 @@ Watch for:
   - “…get a Heh! Hold! Look over there! It's one of the Squirts the bear took! Maybe he's okay! IT'S A TRAP! Damn!”
   - “…people from your ways, only because of their race, you become separatist! And being a separatist sucks ass!”
 
-## S3 E10 — Korn's Groovy Pirate Ghost Mystery
+## S3 E10 — 10. Korn's Groovy Pirate Ghost Mystery
 URL: https://watchwiththekids.com/ep/south-park/0310.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: On Halloween, the boys are plagued by fifth graders and the town is overrun by pirate ghosts. Music group Korn assists, and sings "Falling Away from Me."
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “somebody wanted to have sex with her dead body.”
@@ -1057,10 +1016,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Aw, nuts! Come on, Ned, this ain't no whore house, it's a hor-ROR house.”
 
-## S3 E11 — Chinpokomon
+## S3 E11 — 11. Chinpokomon
 URL: https://watchwiththekids.com/ep/south-park/0311.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Adults try to counter when the town's children become obsessed with a fad from Japan, whose government reveals their master plan behind the craze.
 Watch for:
 - Swearing — 5 moment(s)
   - “…contestant is Mark Coxwalds from homeschool! Alright, Mark! Your word is "Conscientious"! What?! What the fuck does that mean?”
@@ -1071,10 +1029,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “…out of control! You did this to my sister! Uh, all I did was show her how to You made my sister into a slut!”
 
-## S3 E12 — Hooked on Monkey Fonics
+## S3 E12 — 12. Hooked on Monkey Fonics
 URL: https://watchwiththekids.com/ep/south-park/0312.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle tries to teach his new rival about love; the boys compete against home-schooled kids in the annual spelling bee; and Cartman's mom agrees to teach him at home.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “…of Australia, I welcome you to our fine planet of Australia! Chipie chip! Charah! Look out! He's got a gun!”
@@ -1084,10 +1041,9 @@ Watch for:
   - “…What?! Eh, oh! I had some bad bleeters today! Alright, boys! Time to get back to your quarters! Son of a bitch!”
   - “…it looks like he's tried everywhere in the world! Well, he hasn't been here yet! Where's this?! What the hell did you hit, Cartman?!”
 
-## S3 E13 — Starvin' Marvin in Space!
+## S3 E13 — 13. Starvin' Marvin in Space!
 URL: https://watchwiththekids.com/ep/south-park/0313.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Starvin Marvin returns in a stolen U.S. spaceship, and enlists the boys to help feed his Ethiopian village. The CIA is among their pursuers.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1100,20 +1056,18 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “…just use the action button and Alabama Man busts her lip open! Shut up, bitch! Needs to fight a sick sick whore!”
 
-## S3 E14 — The Red Badge of Gayness (a.k.a. War)
+## S3 E14 — 14. The Red Badge of Gayness (a.k.a. War)
 URL: https://watchwiththekids.com/ep/south-park/0314.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The town holds its annual reenactment of a Civil War battle, and Cartman suits up for the Confederacy with visions of glory.
 Watch for:
 - Violence & injury — 1 moment(s)
   - …in 1862! The Union army had to get the bell on Aplomaticstown from Temrock Hill! What ensued was a bloody battle, but after many hours, the Union army prevailed!
 - Swearing — 1 moment(s)
   - …can't just hit a drum! You have to beat the shit out of it! Shut your pot hole! I'll take you out, you fuckin' drum!
 
-## S3 E15 — Mr. Hankey's Christmas Classics
+## S3 E15 — 15. Mr. Hankey's Christmas Classics
 URL: https://watchwiththekids.com/ep/south-park/0315.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Mr. Hankey and South Park citizens celebrate the holidays with musical numbers from his Christmas Classics Album.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…day! And what Shut up, turds! was in those ships all three, on Christmas day in the morning! The virgin Mary and Christ were there, on Christmas day, on Christmas day!”
@@ -1126,10 +1080,9 @@ Watch for:
   - “…not a Christmas song! But I I know, but there's like three hundred Jesus Christmas songs and only four fucking Santa ones!”
   - “…is well! It's Christmas time in hell! Gather close together and make it quick! We gotta make room for Andy Dick!”
 
-## S3 E16 — Are You There God, It's Me Jesus
+## S3 E16 — 16. Are You There God, It's Me Jesus
 URL: https://watchwiththekids.com/ep/south-park/0316.html
-Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: "Are You There, God? It's Me, Jesus" purports to "answer age-old questions about who we are and what we're all about."
+Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “ROD "DO YA THINK I'M SEXY" STEWART! Uh, pooped 'em.”
@@ -1145,10 +1098,9 @@ Watch for:
   - “I believe that the goddess in me is more spirituality because Quiet, Kenny! The goddess lives in all of us and has Goddammit, Kenny! Shut the hell up! Whoa, dude! - Mr.”
   - “This sucks balls!”
 
-## S3 E17 — Worldwide Recorder Concert (a.k.a. The Brown Noise)
+## S3 E17 — 17. Worldwide Recorder Concert (a.k.a. The Brown Noise)
 URL: https://watchwiththekids.com/ep/south-park/0317.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys and their class travel to the first "Worldwide Recorder Concert" in Arkansas, where Mr. Garrison confronts the demons of his childhood while visiting his parents.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Garrison's mental state! I worried that if you don't do something, well, it could kill 'im! Hold on a second! Are you actually suggesting that I have sex with my 41-year-old son?”
@@ -1170,7 +1122,6 @@ Watch for:
 ## S4 E1 — 1. The Tooth Fairy's TATS 2000
 URL: https://watchwiththekids.com/ep/south-park/0401.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman impersonates the Tooth Fairy when he learns there's money to be made from harvesting the teeth of underprivileged kids. However, the leader of a dentists' organization sets out to stop him.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1193,7 +1144,6 @@ Watch for:
 ## S4 E2 — 2. Cartman's Silly Hate Crime 2000
 URL: https://watchwiththekids.com/ep/south-park/0402.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman is sentenced to juvenile hall and his friends plan to get him out. Meanwhile, he begins to adjust to life on the inside.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “If a man beats another man because that man was sleeping with his wife, is that not a hate crime?”
@@ -1223,7 +1173,6 @@ Watch for:
 ## S4 E3 — 3. Timmy! 2000
 URL: https://watchwiththekids.com/ep/south-park/0403.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Mr. Mackey excuses Timmy from homework when he mistakenly thinks the boy is suffering from Attention Deficit Disorder; then Cartman and his friends try to develop the same affliction.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “All right, children, today we're going to learn about Human reproduction! What do you think about that? Vaginas and penises Butt sex.”
@@ -1243,7 +1192,6 @@ Watch for:
 ## S4 E4 — 4. Quintuplets 2000
 URL: https://watchwiththekids.com/ep/south-park/0404.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The South Park media showers attention on a family with quintuplets that moves into the area, and Cartman befriends one of the new residents. Meanwhile, Kenny's mom tries to cash in on the excitement by planning a multiple birth of her own.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Let the quints stay! Romania is gay! Let the quints stay! Romania is gay! Fur is murder, fur is murder! Oh, what are we protesting here? Romania sucks.”
@@ -1266,7 +1214,6 @@ Watch for:
 ## S4 E5 — 5. Cartman Joins NAMBLA
 URL: https://watchwiththekids.com/ep/south-park/0405.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Cartman seeks online companionship from older users after deciding that Stan, Kenny and Kyle aren't mature enough.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “You mean you expect me to go out there and let all those horny old men Have their way with my fragile person? Just what team is this anyway? Just go, butters, we're running out of time.”
@@ -1282,7 +1229,6 @@ Watch for:
 ## S4 E6 — 6. Cherokee Hair Tampons
 URL: https://watchwiththekids.com/ep/south-park/0406.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle suffers from a rare kidney disease and Cartman may be the only one who can save him, but at a high price.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Garrison, last week's charges of attempting to solicit sex from a minor That was not me, that was mr.”
@@ -1312,7 +1258,6 @@ Watch for:
 ## S4 E7 — 7. Chef Goes Nanners
 URL: https://watchwiththekids.com/ep/south-park/0407.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Chef protests against the South Park flag and ignites a town debate that even divides the kids. Meanwhile, Wendy becomes attracted to Cartman.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Alright, look, When two people work closely for a long time, Sometimes they feel what's called "sexual tension".”
@@ -1332,7 +1277,6 @@ Watch for:
 ## S4 E8 — 8. Something You Can Do with Your Finger (a.k.a. Fingerbang)
 URL: https://watchwiththekids.com/ep/south-park/0408.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan, Kyle, Kenny and Cartman form their own band and hold tryouts for a fifth member.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Huh? Attention, shoppers, There are naked people at the orange smoothie machine, There are naked people at the orange- Oh! God damn it.”
@@ -1360,7 +1304,6 @@ Watch for:
 ## S4 E9 — 9. Do the Handicapped Go to Hell? (1)
 URL: https://watchwiththekids.com/ep/south-park/0409.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The boys, scared by Priest Maxi's threats of eternal damnation, scramble to take part in Holy Communion and their first Confession in order to "save" themselves.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I know that's what you liked about sex with saddam, I'm just showing you that i can be that way too.”
@@ -1377,10 +1320,9 @@ Watch for:
   - “And then you will drink a very small amount of wine.”
   - “I am not! You are too! Dude, this lady told us that if you don't confess your sins And you don't eat crackers and drink wine, then you go to hell, period!”
 
-## S4 E10 — Probably (2)
+## S4 E10 — 10. Probably (2)
 URL: https://watchwiththekids.com/ep/south-park/0410.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Satan can't decide between his new boyfriend and his former beau, Saddam Hussein. Meanwhile, Cartman has discovered his evangelical side and tries to ensure the gang a passage to heaven.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…the lord! Praise the lord! And now it's like there's one guy who's horrible to me, But i'm totally sexually attracted to, And then one guy who's really nice to me, But i'm not sexually attracted to at all!”
@@ -1402,10 +1344,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “The only thing of yours that's larger in size is your big fat ass! Suck my balls.”
 
-## S4 E11 — Fourth Grade
+## S4 E11 — 11. Fourth Grade
 URL: https://watchwiththekids.com/ep/south-park/0411.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The fearful boys speculate on the identity of their teacher as they begin the fourth grade, leading them to build a time machine to take them back to the safety of third grade.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…the men's locker room? I was just comparing size! For seven minutes? Ah! And what about the time you masturbated To the men's 100-Meter swimming relay at the olympics?”
@@ -1424,10 +1365,9 @@ Watch for:
   - “What lives inside? Hell if i know, i wouldn't go in there.”
   - “Hey, hurry up in there! Jesus, you're taking too long in the damn tree of insight! You in there? Hey, where the hell did she go? What the? Ahh! Who-Who are you? I am you, i am your gay side.”
 
-## S4 E12 — Trapper Keeper
+## S4 E12 — 12. Trapper Keeper
 URL: https://watchwiththekids.com/ep/south-park/0412.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Mr. Garrison orders a recount when the race for kindergarten president is too close to call. Meanwhile, a life form from the future appears in the school yard at South Park Elementary.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh sweet, what's it gonna hybrid with now? Cartman, you might as well open up, We're just gonna have bill cosby bust the door down After he finishes having sex with your mom!”
@@ -1445,10 +1385,9 @@ Watch for:
   - “Don't you get it? You can't haveany trapper keepers, fat ass!”
   - “Screw you, fat ass! Hey, screw you.”
 
-## S4 E13 — Helen Keller! The Musical
+## S4 E13 — 13. Helen Keller! The Musical
 URL: https://watchwiththekids.com/ep/south-park/0413.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys work on a Thanksgiving pageant about Helen Keller and decide to use a turkey instead of a dog.
 Watch for:
 - Swearing — 11 moment(s)
   - “Come on, you blind bitch, channel your spirit through me! Tonight, we present the story of a courageous girl And her fight against depression.”
@@ -1466,10 +1405,9 @@ Watch for:
   - “But luckily i got really stoned before i came.”
   - “I've wasted it.”
 
-## S4 E14 — Pip (a.k.a. Great Expectations)
+## S4 E14 — 14. Pip (a.k.a. Great Expectations)
 URL: https://watchwiththekids.com/ep/south-park/0414.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The boys' British classmate, Pip, stars in this spoof of Dickens' classic "Great Expectations," set in London.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I tried to tell you, pip, she's a vengeful, spiteful woman Who wanted nothing more than to see you hurt Along with the rest of the male sex.”
@@ -1491,10 +1429,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Oh, why would she have wasted all that time Sending me to school and turning me into a gentleman? Well, about that, pip, There's another person who wants to see you.”
 
-## S4 E15 — Fat Camp
+## S4 E15 — 15. Fat Camp
 URL: https://watchwiththekids.com/ep/south-park/0415.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman is sent to a camp for obese youngsters by concerned family and friends. Meanwhile, Kenny has his own hit TV show, "Krazy Kenny." Also, Chef talks to the boys about prostitution.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I told you i was a tight virgin flower.”
@@ -1513,10 +1450,9 @@ Watch for:
   - “I guess he is the biggest whore.”
   - “Now he's in jail for being a whore.”
 
-## S4 E16 — The Wacky Molestation Adventure
+## S4 E16 — 16. The Wacky Molestation Adventure
 URL: https://watchwiththekids.com/ep/south-park/0416.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Cartman becomes South Park's mayor when the kids take over the town.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What i want you to do, is learn to control those sick, sexual urges you have.”
@@ -1530,10 +1466,9 @@ Watch for:
   - “The bastards Oh, mark, let's get out of here! Nya-Nya, nya-Nya-Nya! Aah! Oh, no.”
   - “Do you think they're gonna be pissed at us for lying that they molested us And sending them all to jail for 10 days? Well, they can't be too pissed off, I mean, we made them a banner.”
 
-## S4 E17 — A Very Crappy Christmas
+## S4 E17 — 17. A Very Crappy Christmas
 URL: https://watchwiththekids.com/ep/south-park/0417.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys make a video Christmas card when Mr. Hankey's visit is delayed.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1562,7 +1497,6 @@ Watch for:
 ## S5 E1 — 1. It Hits the Fan
 URL: https://watchwiththekids.com/ep/south-park/0501.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys realize they may have made history of some sort when Cartman utters an expletive.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1593,7 +1527,6 @@ Watch for:
 ## S5 E2 — 2. Cripple Fight
 URL: https://watchwiththekids.com/ep/south-park/0502.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The boys join the Mountain Scouts with Timmy, who winds up in a fight with Jimmy in a supermarket parking lot.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “That's what you said about peterson, And then you ended up having sex with him.”
@@ -1610,7 +1543,6 @@ Watch for:
 ## S5 E3 — 3. Super Best Friends
 URL: https://watchwiththekids.com/ep/south-park/0503.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: A magician persuades Kenny, Cartman and Kyle to join his cult, and their journey lands them in Washington, D.C.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You want to go get a room so you can make out for a while? Heh-Heh.”
@@ -1635,7 +1567,6 @@ Watch for:
 ## S5 E4 — 4. Scott Tenorman Must Die
 URL: https://watchwiththekids.com/ep/south-park/0504.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Radiohead plays a role in Cartman's plan for revenge against an eighth-grader who wronged him.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1661,7 +1592,6 @@ Watch for:
 ## S5 E5 — 5. Terrance and Phillip: Behind the Blow
 URL: https://watchwiththekids.com/ep/south-park/0505.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys are devastated to learn that their heroes Terrence and Phillip have broken up.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Could i just have you sign my breasts? What do i get in return? Whatever you want.”
@@ -1688,7 +1618,6 @@ Watch for:
 ## S5 E6 — 6. Cartmanland
 URL: https://watchwiththekids.com/ep/south-park/0506.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman uses his $1 million inheritance to open his own amusement park.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “" And so, god had a bunch of barbarians come in And slaughter job's ox and donkeys And murder all his workers.”
@@ -1712,7 +1641,6 @@ Watch for:
 ## S5 E7 — 7. Proper Condom Use
 URL: https://watchwiththekids.com/ep/south-park/0507.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The impulsive implementation of sex-education classes at school leads to an all-out battle between the boys and the girls.
 Watch for:
 - Sex & hookups — 12 moment(s)
   - “The only way we can combat that Is by educating children before they have sex.”
@@ -1747,7 +1675,6 @@ Watch for:
 ## S5 E8 — 8. Towelie
 URL: https://watchwiththekids.com/ep/south-park/0508.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The gang tries to protect a new resident in South Park from the government.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “Truth or no, your alien murdering group is over.”
@@ -1773,7 +1700,6 @@ Watch for:
 ## S5 E9 — 9. Osama Bin Laden Has Farty Pants
 URL: https://watchwiththekids.com/ep/south-park/0509.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys decide to get into the patriotic spirit by heeding the President's advice to send money to the children of Afghanistan. But their spirits sour when they receive a package back and their mail becomes the focus of Government investigators.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “The americans are attacking! Where do we go? Get down! You, murdering american! Hey, shut up, kid, america didn't start this war.”
@@ -1792,10 +1718,9 @@ Watch for:
   - “They took stevie nicks? Bastards.”
   - “Heartless, gutless bastards! All right, men.”
 
-## S5 E10 — How to Eat with Your Butt
+## S5 E10 — 10. How to Eat with Your Butt
 URL: https://watchwiththekids.com/ep/south-park/0510.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: As a prank, Cartman somehow gets Kenny's picture pasted on milk cartons as a missing child, which soon backfires on him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Why did the pigeon cross the road? Okay, why? Because he was having sex with the chick Because he was having sex with the ch-Chick Because he was having sex with the ch-Ch-Ch He was having sex with the chicken.”
@@ -1805,10 +1730,9 @@ Watch for:
   - “And please buy me more chocolate guns.”
   - “I'm gonna go home and eat another chocolate gun.”
 
-## S5 E11 — The Entity (a.k.a. The Ginger Device)
+## S5 E11 — 11. The Entity (a.k.a. The Ginger Device)
 URL: https://watchwiththekids.com/ep/south-park/0511.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle is embarrassed by his cousin, Kyle, and tries to think of ways to avoid him in front of his friends.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “So we have the same blood! Now, kyle two, listen to me.”
@@ -1820,10 +1744,9 @@ Watch for:
   - “Oh you see i didn't realize that But i understand now how you might've thought What i said in the classroom Was a racial slur, but see, i had no idea! You did too! You are so full of crap.”
   - “Damn! Just have to face facts that i'm gonna live with My crappy cousin forever.”
 
-## S5 E12 — Here Comes the Neighborhood
+## S5 E12 — 12. Here Comes the Neighborhood
 URL: https://watchwiththekids.com/ep/south-park/0512.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Kyle, Stan, Kenny and Cartman have a run-in with Token, the town's only rich kid. In retaliation, Token encourages other wealthy people to move into the neighborhood.
 Watch for:
 - Swearing — 5 moment(s)
   - “And cartman for being a sadistic asshole.”
@@ -1840,10 +1763,9 @@ Watch for:
   - “For instance, your mother is a chemist For a pharmaceutical company, Whereas your friend eric cartman's mother Is a crack whore.”
   - “And cartman for having a whore for a mom.”
 
-## S5 E13 — Kenny Dies
+## S5 E13 — 13. Kenny Dies
 URL: https://watchwiththekids.com/ep/south-park/0513.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman discovers the benefits of stem-cell research.
 Watch for:
 - Swearing — 6 moment(s)
   - “Fine, i don't need you assholes! I can sell these fetuses all on my own! Hello, is this university of colorado biology department? Great, i understand you're currently doing research On stem cells.”
@@ -1855,10 +1777,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Okay, and what if you could have two wishes? What would the second one be? I know, i bet you'd like to meet madonna, huh? What was that? He said madonna's an old anorexic whore Who wore out her welcome years ago.”
 
-## S5 E14 — Butters' Very Own Episode
+## S5 E14 — 14. Butters' Very Own Episode
 URL: https://watchwiththekids.com/ep/south-park/0514.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Butters looks forward to his parents' anniversary dinner despite his mother's reaction to his father's secret extracurricular activities.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I was going to gay movie and bath houses And having sex with random men who were complete strangers.”
@@ -1878,7 +1799,6 @@ Watch for:
 ## S6 E1 — 1. Jared Has Aides
 URL: https://watchwiththekids.com/ep/south-park/0601.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The gang seizes upon an opportunity to make money with a weight-loss program that's sweeping the country.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -1904,7 +1824,6 @@ Watch for:
 ## S6 E2 — 2. Asspen
 URL: https://watchwiththekids.com/ep/south-park/0602.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The boys head to Aspen, where the slopes are superb and Stan gets into a showdown with the lodge's expert skier.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “I'm gonna beat him! The race is half over and tad is still out in the lead.”
@@ -1919,7 +1838,6 @@ Watch for:
 ## S6 E3 — 3. Freak Strike
 URL: https://watchwiththekids.com/ep/south-park/0603.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The gang decides to put Butters up as a guest on a talk show thinking that they will get special favors.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “…man? Could you go on the maury povich show with me And say that i'm out of control and do drugs and have sex So that i can go to the largest Putt-Putt golf course in the world?”
@@ -1953,7 +1871,6 @@ Watch for:
 ## S6 E4 — 4. Fun with Veal
 URL: https://watchwiththekids.com/ep/south-park/0604.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: After learning how veal is made, the boys try to save some calves from the slaughterhouse.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “There you go, you're free! Run away! Go, they're gonna murder you! Stan, could you hurry it up? I'm freezing my ass off.”
@@ -1969,28 +1886,9 @@ Watch for:
   - “Man, these calves smell like crap.”
   - “Really? Yup, damn things ain't worth spit now.”
 
-## S6 E5 — 5. The New Terrance and Phillip Movie Trailer
-URL: https://watchwiththekids.com/ep/south-park/0605.html
-Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The boys look forward to the newest Terrance and Phillip movie.
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Explicit body / sex-act language appears in dialogue.
-  - “Ya gotta save him, doc! Tugga! He's me best friend! The only friend in the world who- He's going to live, but- Oy! Don't ya interrupt me, ya vagina!”
-- Violence & injury — 2 moment(s)
-  - “It sprouted laser guns and started walking around shooting people.”
-  - “But be sure not to go anywhere, Because there's lots more people to beat up!”
-- Suicide & self-harm — 1 moment(s)
-  - “But you know, tugga's attempted suicide Has made me realize that i should take up a cause.”
-- Swearing — 3 moment(s)
-  - “How's that? That's worse! Okay, how about that- Dude! Goddammit, cartman, you broke it! It was just- I just- Butters, you asshole! Dude, the commercials could start any time! I don't think we're watching them on this tv.”
-  - “We're gonna have lots of fun today, As we travel all around and look for some good- Hey! What the hell do you think you're doin'?!”
-  - “Who the hell do you think you are?! I'm the editor.”
-
 ## S6 E6 — 6. Professor Chaos
 URL: https://watchwiththekids.com/ep/south-park/0606.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: When Butters is rejected by the kids, his alter ego Professor Chaos is unleashed.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “TOWELIE'S COOL, BUT HE GETS STONED ALL THE TIME.”
@@ -1998,7 +1896,6 @@ Watch for:
 ## S6 E7 — 7. The Simpsons Already Did It
 URL: https://watchwiththekids.com/ep/south-park/0607.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Cartman and the gang fear that they may have accidentally caused a death.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Alright, let's just leave the semen sample next to the corpse.”
@@ -2018,7 +1915,6 @@ Watch for:
 ## S6 E8 — 8. Red Hot Catholic Love
 URL: https://watchwiththekids.com/ep/south-park/0608.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: A priest visits South Park to find out why church attendance is down; the boys protest the tinkering of their favorite movies.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “If things continue this way We'll never be able to have sex with young boys again! Yeah!Uh-Huh! That's right! That's right- Wait, what?! In france as well, we are finding it harder and harder To make love to our boys.”
@@ -2039,7 +1935,6 @@ Watch for:
 ## S6 E9 — 9. Free Hat
 URL: https://watchwiththekids.com/ep/south-park/0609.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The boys try to prevent filmmakers from remaking their movies, but their efforts are mistaken for a campaign for the release of an infamous criminal.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “…Hat! Hat! Hat! Thank you, everyone- Kill the innocent! Uh, i'm so thankful for all your support- Rape the virgin!”
@@ -2059,10 +1954,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “The one with the cocaine problem escaped, mein director! Leave him! Let him run back to his mommy.”
 
-## S6 E10 — Bebe's Boobs Destroy Society
+## S6 E10 — 10. Bebe's Boobs Destroy Society
 URL: https://watchwiththekids.com/ep/south-park/0610.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Bebe starts to mature physically, the boys behave so boorishly that their friendships are almost ruined.
 Watch for:
 - Nudity & bodies — 9 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2085,10 +1979,9 @@ Watch for:
   - “Yeah! Yeah! Can you believe bebe? She thinks she so cool all of a sudden! I can't stand her anymore, she's such a slut.”
   - “She's a total slut! You know what i heard? I heard that she made out With eight different boys in one minute! I heard that she lifted her shirt To the boys at the bus stop.”
 
-## S6 E11 — Child Abduction is Not Funny
+## S6 E11 — 11. Child Abduction is Not Funny
 URL: https://watchwiththekids.com/ep/south-park/0611.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Media stories about kidnappings drive South Park parents to extreme measures, such as building a wall around the town to keep out predators.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “You mean that even though all the news Is about murderers and abductors, Those kind of people only make up A very small part of the world.”
@@ -2103,10 +1996,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “You're such a fat ass, cartman.”
 
-## S6 E12 — A Ladder to Heaven
+## S6 E12 — 12. A Ladder to Heaven
 URL: https://watchwiththekids.com/ep/south-park/0612.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Trying to find Kenny in Heaven, the boys discover that Saddam Hussein may have hidden weapons there.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2130,10 +2022,9 @@ Watch for:
   - “* where were you * * when they decided heaven was a more intangible idea * * and couldn't, couldn't really get there * You little bastards ruined my latest song! Well, i'm sure glad this is all over with.”
   - “I'm not sharing my body with that poor piece of crap.”
 
-## S6 E13 — The Return of the Fellowship of the Ring to the Two Towers
+## S6 E13 — 13. The Return of the Fellowship of the Ring to the Two Towers
 URL: https://watchwiththekids.com/ep/south-park/0613.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: While returning "The Lord of the Rings" to the video store, the boys accidentally get a hold of a steamy porno tape.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It shows adult men and adult women Having sexual intercourse.”
@@ -2166,10 +2057,9 @@ Watch for:
   - “Now just how bad of a porno tape are we talking, here? I mean, was it like, "crotch capers 3"? I'm afraid it was "backdoor sluts 9".”
   - “Backdoor sluts 9! Backdoor sluts 9! Is that bad? Backdoor sluts 9 makes crotch capers 3 Look like "naughty nurses 2"! It is the single most vile, twisted, Dark piece of porn ever made.”
 
-## S6 E14 — Death Camp of Tolerance
+## S6 E14 — 14. Death Camp of Tolerance
 URL: https://watchwiththekids.com/ep/south-park/0614.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys are sent to a camp where cultural sensitivity is taught.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I want to come clean with you and tell you that back then Some of us were uncomfortable with your sexual preferences.”
@@ -2193,10 +2083,9 @@ Watch for:
   - “If he chooses to eat fatty foods, That's his life choice.”
   - “You don't need three lunches, eric, You're fat enough as it is.”
 
-## S6 E15 — The Biggest Douche in the Universe
+## S6 E15 — 15. The Biggest Douche in the Universe
 URL: https://watchwiththekids.com/ep/south-park/0615.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Cartman takes desperate measures to try to rid himself of Kenny's spirit, including traveling to Scotland.
 Watch for:
 - Swearing — 5 moment(s)
   - “What the hell are you assholes doing here? That's cartman.”
@@ -2207,10 +2096,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “…for biggest douche in the universe award, Ya douche! Son of a bitch! Kenny! Shut up, kenny! You shut up, fat ass!”
 
-## S6 E16 — My Future Self 'n' Me
+## S6 E16 — 16. My Future Self 'n' Me
 URL: https://watchwiththekids.com/ep/south-park/0616.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan is forced to look at his life 30 years in the future; Cartman tries to launch a new business.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Of your own time travel company! Oh wow, really? That's so awesome! Now i'll really work to be successful! Right on! Go have sex with yourself, asshole!”
@@ -2241,10 +2129,9 @@ Watch for:
   - “Could i get another beer? You must be exhausted.”
   - “I thought the "hangover black" went really nice in the lobby.”
 
-## S6 E17 — Red Sleigh Down
+## S6 E17 — 17. Red Sleigh Down
 URL: https://watchwiththekids.com/ep/south-park/0617.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Cartman tries to score some points with Santa Claus by asking him to deliver presents to the needy children in Iraq.
 Watch for:
 - Swearing — 7 moment(s)
   - “God dammit, i have to get that haibo robot doll, You son of a bitch! Hey, i'm just your naughty or nice accountant, Don't blame me for the numbers! Haven't you seen the haibo doll? It's like a pet, a robot pet.”
@@ -2258,7 +2145,6 @@ Watch for:
 ## S7 E1 — 1. Cancelled
 URL: https://watchwiththekids.com/ep/south-park/0701.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys are abducted by aliens, who inform them that Earth is actually a reality show that is about to be canceled by intergalactic media moguls.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “They took the children, Jeff! I have to know what those aliens are up to! Wait a minute! Butt sex! Butt sex? Butt sex requires a lot of lubrication, right? Lubrication.”
@@ -2281,7 +2167,6 @@ Watch for:
 ## S7 E2 — 2. Krazy Kripples
 URL: https://watchwiththekids.com/ep/south-park/0702.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The kids become embroiled in the life of a disabled celebrity who breezes through town and gets all the attention.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “So can we join your g group? All right, you wanna thug with the Five Point Crips? Bitches, all you gotta do is pop some punk-ass Bloods.”
@@ -2298,7 +2183,6 @@ Watch for:
 ## S7 E3 — 3. Toilet Paper
 URL: https://watchwiththekids.com/ep/south-park/0703.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys are under investigation for covering their teacher's house with toilet paper.
 Watch for:
 - Swearing — 8 moment(s)
   - “Dreible thinks she's so cool! How dare she talk to us like that?! Yeah, who the fuck is that?! We can't let her get away with this! I think tonight we need to do something drastic.”
@@ -2315,7 +2199,6 @@ Watch for:
 ## S7 E4 — 4. I'm a Little Bit Country
 URL: https://watchwiththekids.com/ep/south-park/0704.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The foul-mouthed youngsters return for a seventh season.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “What about the war? Ih--It's g-gay? Uh huh, and what aspect of it do you think is most gay? Uuuh, n-no blood for oil.”
@@ -2337,7 +2220,6 @@ Watch for:
 ## S7 E5 — 5. Fat Butt and Pancake Head
 URL: https://watchwiththekids.com/ep/south-park/0705.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Jennifer Lopez and Ben Affleck come to town.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I'm gonna fulfill all your sexy wishes, give you lots of taco-flavored kisses.”
@@ -2364,7 +2246,6 @@ Watch for:
 ## S7 E6 — 6. Lil' Crime Stoppers
 URL: https://watchwiththekids.com/ep/south-park/0706.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The guys start their own detective agency.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2393,7 +2274,6 @@ Watch for:
 ## S7 E7 — 7. Red Man's Greed
 URL: https://watchwiththekids.com/ep/south-park/0707.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys try to save the town from developers.
 Watch for:
 - Swearing — 6 moment(s)
   - “…interest Kyle anymore! Well I'm calling the moving company right now! Well, you shouldn't be such a dick, dude.”
@@ -2408,7 +2288,6 @@ Watch for:
 ## S7 E8 — 8. South Park is Gay!
 URL: https://watchwiththekids.com/ep/south-park/0708.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: The whole town suddenly discovers it's all the rage to be gay.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “I think they learned murder is wrong.”
@@ -2424,7 +2303,6 @@ Watch for:
 ## S7 E9 — 9. Christian Rock Hard
 URL: https://watchwiththekids.com/ep/south-park/0709.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman puts together a band; Stan, Kyle and Kenny get into trouble for downloading music from the Internet.
 Watch for:
 - Swearing — 9 moment(s)
   - “How's it going? We're not letting you back in the band, Cartman! Fuck off! I don't wanna be in your crappy band, guys.”
@@ -2437,10 +2315,9 @@ Watch for:
   - “Wow! Downloading music for free is awesome! What the hell is that? I don't know.”
   - “Why the hell did you tell us to dress nice to take us out here? Because, Token, we have to take pictures for our album cover.”
 
-## S7 E10 — Grey Dawn
+## S7 E10 — 10. Grey Dawn
 URL: https://watchwiththekids.com/ep/south-park/0710.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys try to have South Park's senior citizens stripped of their driver's licenses after they go on a dangerous rampage.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Would you like a gun? Oh, I suppose so.”
@@ -2454,10 +2331,9 @@ Watch for:
   - “How the hell did we get up here? I told you this was the wrong way! Tom, I'm standing outside of the Department of Motor Vehicles, where senior citizens have until 3 PM to hand over their driver's licenses.”
   - “Can I help you? Help this! The revolution is on, brother! We're taking control of the town! Well, alright, well it's about damn time! Hey everyone, we're taking the town.”
 
-## S7 E11 — Casa Bonita
+## S7 E11 — 11. Casa Bonita
 URL: https://watchwiththekids.com/ep/south-park/0711.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman seeks revenge for not being invited to Kyle's birthday outing.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Now you say, "Ingmar Bergman who?" Take that, Jimmy! And that! And don't you ever talk bad about Kyle again! Kyle is my friend! And if you say you had sex with his mom one more time, I'm gonna really let you have it!”
@@ -2473,10 +2349,9 @@ Watch for:
   - “I know we argue all the time and I give you tons of crap, but we've also been through a, a lot together, and maybe that alone doesn't make us friends, but it makes us something.”
   - “Man, that sucks about Butters.”
 
-## S7 E12 — All About the Mormons?
+## S7 E12 — 12. All About the Mormons?
 URL: https://watchwiththekids.com/ep/south-park/0712.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Mormon neighbors move into town, causing the citizens of South Park to become Mormons themselves.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Did you make out with him, too? What's the big deal? Can't I have other friends? You guys should give Gary a chance.”
@@ -2489,10 +2364,9 @@ Watch for:
   - “" If he thinks he can fill my son's head with wacko religious crap, he's wrong! Randy, don't cause trouble.”
   - “Damn, that kid is cool, huh?”
 
-## S7 E13 — Butt Out
+## S7 E13 — 13. Butt Out
 URL: https://watchwiththekids.com/ep/south-park/0713.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The guys rebel after an anti-smoking campaign begins at their school.
 Watch for:
 - Swearing — 10 moment(s)
   - “…lot of horrible things in your life, but smoking? You're grounded for three weeks! Three weeks?! Are you fucking kidding me?”
@@ -2506,10 +2380,9 @@ Watch for:
   - “What?! God-damnit, what the hell is wrong with people in this state? Apparently, several people here still believe there's no proof second-hand smoke can kill you.”
   - “You guys, I am seriously gettin' pissed off now! Now come on, we're goin' to the tobacco company.”
 
-## S7 E14 — Raisins
+## S7 E14 — 14. Raisins
 URL: https://watchwiththekids.com/ep/south-park/0714.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Stan's girlfriend breaks up with him, his friends try to cheer him up by bringing him to a local restaurant where lovely ladies hang out.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “We have things like hoola-hoops, silly string and water guns to play with the other girls.”
@@ -2531,10 +2404,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Just get outta our football game, you stupid skank! Fuck you, fat ass! You guys are assholes! Oh yeah, well, at least we have assholes, you dumb girl! Yeah, that's right! God, you're so stupid! What a whore.”
 
-## S7 E15 — It's Christmas in Canada
+## S7 E15 — 15. It's Christmas in Canada
 URL: https://watchwiththekids.com/ep/south-park/0715.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Ike's Canadian birth parents come back to claim him, prompting the residents of South Park to collect money to get him back.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “My little brother was-- - Not so fast! - Ike! - Kyle! Prime Minister, these are the child's Canadian parents! Their Canadian blood pumps through his veins!”
@@ -2557,7 +2429,6 @@ Watch for:
 ## S8 E1 — 1. Good Times with Weapons
 URL: https://watchwiththekids.com/ep/south-park/0801.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After buying some martial arts objects at a market, the boys turn into Japanese warriors to take on their enemy, Prof. Chaos.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I guess parents don't give a crap about violence if there's sex things to worry about.”
@@ -2586,7 +2457,6 @@ Watch for:
 ## S8 E2 — 2. Up the Down Steroid
 URL: https://watchwiththekids.com/ep/south-park/0802.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Steroids become an issue as Timmy, Jimmy and Cartman train for a sporting event.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Jim, it's your father! I said I'm coming! Give me a Goddamned s-second! Jimmy, were you masturbating? Nn-no, Dad.”
@@ -2607,7 +2477,6 @@ Watch for:
 ## S8 E3 — 3. The Passion of the Jew
 URL: https://watchwiththekids.com/ep/south-park/0803.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: "The Passion of the Christ" has an unusual effect on Stan, Cartman, Kyle and Kenny.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Gibson?! So! You boys have led me here to your secret base, huh? I guess now you're gonna start torturing me! Well! Oh, my nipples are so tender!”
@@ -2627,7 +2496,6 @@ Watch for:
 ## S8 E4 — 4. You Got F**ked in the Ass
 URL: https://watchwiththekids.com/ep/south-park/0804.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
-Summary: Stan tries to put together a group of competitive dancers to challenge some rivals from Orange County.
 Watch for:
 - Homophobic jokes — 1 moment(s)
   - “People will think we're fags.”
@@ -2635,7 +2503,6 @@ Watch for:
 ## S8 E5 — 5. Awesom-o
 URL: https://watchwiththekids.com/ep/south-park/0805.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman disguises himself as a robot so he can learn secrets about Butters to use against him.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “I would like to see what he looks like so I can beat him up for you.”
@@ -2656,7 +2523,6 @@ Watch for:
 ## S8 E6 — 6. The Jeffersons
 URL: https://watchwiththekids.com/ep/south-park/0806.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: A mysterious gentleman and his son create controversy in South Park.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2682,7 +2548,6 @@ Watch for:
 ## S8 E7 — 7. Goobacks
 URL: https://watchwiththekids.com/ep/south-park/0807.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: South Park becomes flooded with time travelers from the future.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Hundreds of men who have lost their jobs to time immigrants are here having sex with one another.”
@@ -2704,7 +2569,6 @@ Watch for:
 ## S8 E8 — 8. Douche and Turd
 URL: https://watchwiththekids.com/ep/south-park/0808.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The kids have to choose a new mascot after an animal-rights group protests.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “But now that you know where our compound is, you'll either have to live with us, or be murdered.”
@@ -2724,7 +2588,6 @@ Watch for:
 ## S8 E9 — 9. Something Wall-Mart This Way Comes
 URL: https://watchwiththekids.com/ep/south-park/0809.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: South Park is invaded by a giant shopping center that threatens the quiet little town.
 Watch for:
 - Swearing — 6 moment(s)
   - “That is fucking stupid, Cartman! Oh yeah?! I'll bet you five bucks that when you die you crap your pants, asshole! Hey everybody, it's time! It's time! It's time.”
@@ -2734,10 +2597,9 @@ Watch for:
   - “See? That sucks, dude! That's called progress, Kyle.”
   - “What the hell? Butters? Butters? Uh what the hell are you doing? Wull ah I'm just playin' Monster.”
 
-## S8 E10 — Pre-School
+## S8 E10 — 10. Pre-School
 URL: https://watchwiththekids.com/ep/south-park/0810.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman, Butters, Kenny, Stan and Kyle fear that a secret may get out when an old adversary turns up in town.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “How the hell are condoms gonna help us?! Sorry, heh.”
@@ -2763,10 +2625,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “And while I wasted away my time in prison you've been enjoying nice, normal lives!”
 
-## S8 E11 — Quest for Ratings
+## S8 E11 — 11. Quest for Ratings
 URL: https://watchwiththekids.com/ep/south-park/0811.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman becomes a network honcho when he and the boys launch a morning news show on the school's closed-circuit TV station.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It should be Sexy News.”
@@ -2783,10 +2644,9 @@ Watch for:
   - “But that's that's crap! That's not even TV! It's what the students want, and it's cheaper to make than your show.”
   - “Get to it! Nobody has any ideas? This sucks.”
 
-## S8 E12 — Stupid Spoiled Whore Video Playset
+## S8 E12 — 12. Stupid Spoiled Whore Video Playset
 URL: https://watchwiththekids.com/ep/south-park/0812.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: South Park is abuzz over a visit from a famous socialite.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They're having a huge sex party right now and I'm not invited.”
@@ -2811,10 +2671,9 @@ Watch for:
   - “Slave, you're the most perverted, lewd, depraved slut I know.”
   - “Girls, what on earth are you doing? We're being stupid spoiled whores.”
 
-## S8 E13 — Cartman's Incredible Gift
+## S8 E13 — 13. Cartman's Incredible Gift
 URL: https://watchwiththekids.com/ep/south-park/0813.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman is imbued with the power to see into the future after he's hit on the head.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"You come home rigtht now and have sex with me!”
@@ -2837,10 +2696,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “It appears we've wasted your time.”
 
-## S8 E14 — Woodland Critter Christmas
+## S8 E14 — 14. Woodland Critter Christmas
 URL: https://watchwiththekids.com/ep/south-park/0814.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Woodland creatures ask Stan to help them build a manger.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Porcupiney is a virgin, Stanny.”
@@ -2856,7 +2714,6 @@ Watch for:
 ## S9 E1 — 1. Mr. Garrison's Fancy New Vagina
 URL: https://watchwiththekids.com/ep/south-park/0901.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: In the season 9 premiere, Mr. Garrison looks to become a woman, and Kyle works in improving his basketball skills.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “A sex-change operation is my last chance at happiness.”
@@ -2880,7 +2737,6 @@ Watch for:
 ## S9 E2 — 2. Die Hippie, Die
 URL: https://watchwiththekids.com/ep/south-park/0902.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: Hippies, the bane of Cartman's existence, threaten to overrun South Park when they plan a weeklong music festival in town.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “…a geologist! We don't have time to argue! They're gonna nuke us! Put them in my laptop! Slayer - "Raining Blood" Oh man, not cool.”
@@ -2892,7 +2748,6 @@ Watch for:
 ## S9 E3 — 3. Wing
 URL: https://watchwiththekids.com/ep/south-park/0903.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Cartman, Kenny, Stan and Kyle become talent agents with one client.
 Watch for:
 - Swearing — 10 moment(s)
   - “Shitty Wok, take your order prease.”
@@ -2909,7 +2764,6 @@ Watch for:
 ## S9 E4 — 4. Best Friends Forever
 URL: https://watchwiththekids.com/ep/south-park/0904.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Kenny is able to purchase a gaming device that's been sold out, straining his friendship with Cartman.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Removing the feeding tube is murder, Removing the feeding tube is murder!”
@@ -2925,7 +2779,6 @@ Watch for:
 ## S9 E5 — 5. The Losing Edge
 URL: https://watchwiththekids.com/ep/south-park/0905.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys become bored with baseball after a long winning streak.
 Watch for:
 - Swearing — 9 moment(s)
   - “That was no strike! What the hell is wrong with you, ref? Good call, ref! Good call! Come on, Alan! This pitcher throws like a girl! What'd you say?! You heard me, asshole!”
@@ -2943,7 +2796,6 @@ Watch for:
 ## S9 E6 — 6. The Death of Eric Cartman
 URL: https://watchwiththekids.com/ep/south-park/0906.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Butters believes he can talk to the dead.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Mom! - She's here! She's got Colonel! - I want some! - I want a breast! Some extra-crispy thighs, extra crispy? Uuh uh uh, not so fast.”
@@ -2964,7 +2816,6 @@ Watch for:
 ## S9 E7 — 7. Erection Day
 URL: https://watchwiththekids.com/ep/south-park/0907.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Jimmy has trouble controlling his hormones right before the big talent show.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “No room at the inn, Virgin Mary.”
@@ -2996,7 +2847,6 @@ Watch for:
 ## S9 E8 — 8. Two Days Before the Day After Tomorrow
 URL: https://watchwiththekids.com/ep/south-park/0908.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
-Summary: The town of Beaverton is flooded when a mammoth beaver dam breaks. Is global warming to blame? Only Stan and Cartman know for sure.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “My leg is broken, and my left boob is leaking.”
@@ -3015,7 +2865,6 @@ Watch for:
 ## S9 E9 — 9. Marjorine
 URL: https://watchwiththekids.com/ep/south-park/0909.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys decide to fake Butters' death and resurrect him as a girl.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Your son is at the Bowery Building threatening to kill himself.”
@@ -3028,10 +2877,9 @@ Watch for:
   - “No! That darn device is nothin' but trouble! Ah I'm done, and I'm goin' home to tell my Mom and Dad I'm not dead! What the hell?”
   - “Hit it, Kenny Damn, Ken! Here.”
 
-## S9 E10 — Follow That Egg
+## S9 E10 — 10. Follow That Egg
 URL: https://watchwiththekids.com/ep/south-park/0910.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Townsfolk rally against gay marriage, especially Mr. Garrison, whose ex Mr. Slave plans to wed Big Gay Al.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I've forgiven you for walking out on me after I had my sex change, and uh And I'm ready to take you back, Mr.”
@@ -3059,10 +2907,9 @@ Watch for:
   - “Yeah ! Eh fah, fag drag? Governor, we have collected over one thousand signatures requesting that you veto this gay-marriage bill! Oh jeez, I knew this would happen.”
   - “And everyone is happy! Well what about lesbians?! Well like anyone cares about fuckin' dykes.”
 
-## S9 E11 — Ginger Kids
+## S9 E11 — 11. Ginger Kids
 URL: https://watchwiththekids.com/ep/south-park/0911.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Ostracized for his appearance because of a case of "gingervitus," Cartman goes on a campaign against discrimination.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “My fellow gingers! The day of reckoning is finally upon us! Cartman ? Oh Jesus, I should have known! What we begin here, we will take worldwide, until the blood of every non-ginger child has been spilled!”
@@ -3076,10 +2923,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “…he isn't really ginger, it'll be hysterical! Are you in? totally You know, Cartman is an uncaring, bigoted intolerant asshole, but I have to admit, I had my own prejudice about gingers.”
 
-## S9 E12 — Trapped in the Closet
+## S9 E12 — 12. Trapped in the Closet
 URL: https://watchwiththekids.com/ep/south-park/0912.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Religious leaders think Stan is the "Golden Child," prompting believers to camp in front of his house.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “I asked myself why won't Tom Cruise just come out the closet? Nobody has no answers and so I pull out my gun!”
@@ -3094,10 +2940,9 @@ Watch for:
   - “It is a great honor to meet you! All right, what the hell is going on here?! We've been looking for your son for a long time, Mr.”
   - “What are you, stupid?! Then how do we make money from those people?! Well, it's not about the money, it's about the message, right? Waait a minute, whoa, whoa! You don't actually believe this crap, do you?”
 
-## S9 E13 — Free Willzyx
+## S9 E13 — 13. Free Willzyx
 URL: https://watchwiththekids.com/ep/south-park/0913.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle bonds with a marine-park whale and gets the boys to help try to return the creature to its family.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “He said my dad was gonna sneak into my room naked one night and beat me up.”
@@ -3114,10 +2959,9 @@ Watch for:
   - “What's goin' on here? Aw crap.”
   - “Oh crap! There's more of them! Get him in the water! Goodbye, Willzyx! Swim, mighty whale! You're free! Okay, Manuel, hit it.”
 
-## S9 E14 — Bloody Mary
+## S9 E14 — 14. Bloody Mary
 URL: https://watchwiththekids.com/ep/south-park/0914.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: After his drunken-driving arrest, Stan's dad believes a visit to a bleeding statue of the Virgin Mary will cure his drinking problem.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “The statue of the Virgin Mary has started to bleed.”
@@ -3143,7 +2987,6 @@ Watch for:
 ## S10 E1 — 1. The Return of Chef
 URL: https://watchwiththekids.com/ep/south-park/1001.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Chef Jerome McElroy returns, though the kids notice he's not quite the same.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Like what? I think I think he wants to have sex with me.”
@@ -3174,7 +3017,6 @@ Watch for:
 ## S10 E2 — 2. Smug Alert!
 URL: https://watchwiththekids.com/ep/south-park/1002.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan leads a campaign to purchase hybrid cars, but it stalls when an environmental disaster threatens the town.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “I'm sorry, Stan, but unfortunately you live in a small-minded town filled with ignorant boobs.”
@@ -3197,7 +3039,6 @@ Watch for:
 ## S10 E3 — 3. Cartoon Wars (1)
 URL: https://watchwiththekids.com/ep/south-park/1003.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle and Cartman race to Hollywood, with the fate of Kyle's favorite cartoon, "Family Guy," at stake.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And what do we know about the places Muslims live ? They live in Good, sand ! Now put yourself in the shoes of a Muslim, it's friday night but you can't have sex and you can't jack off.”
@@ -3218,7 +3059,6 @@ Watch for:
 ## S10 E4 — 4. Cartoon Wars (2)
 URL: https://watchwiththekids.com/ep/south-park/1004.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle is injured and Cartman must forge on alone, determined to stop the makers of "Family Guy."
 Watch for:
 - Violence & injury — 2 moment(s)
   - “I'm hear to investigate a murder.”
@@ -3243,7 +3083,6 @@ Watch for:
 ## S10 E5 — 5. A Million Little Fibers
 URL: https://watchwiththekids.com/ep/south-park/1005.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Oprah picks Towelie's memoir for her book club, but his account is found to be less than truthful. Soon, the public derision lures Towelie off the wagon.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3273,7 +3112,6 @@ Watch for:
 ## S10 E6 — 6. ManBearPig
 URL: https://watchwiththekids.com/ep/south-park/1006.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman finds treasure when the boys get stuck in a cave.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Please welcome Al Gore.”
@@ -3295,7 +3133,6 @@ Watch for:
 ## S10 E7 — 7. Tsst
 URL: https://watchwiththekids.com/ep/south-park/1007.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman's mom employs the Dog Whisperer to help curb her son's behavioral problems.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Where am I supposed to get a gun? - Well I don't know.”
@@ -3312,7 +3149,6 @@ Watch for:
 ## S10 E8 — 8. Make Love, Not Warcraft
 URL: https://watchwiththekids.com/ep/south-park/1008.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The gang attempts to save the online game World of Warcraft after it is taken over by a renegade gamer.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “Butters, go buy World of Warcraft, install it on your computer and join the online sensation before we all murder you.”
@@ -3330,7 +3166,6 @@ Watch for:
 ## S10 E9 — 9. Mystery of the Urinal Deuce
 URL: https://watchwiththekids.com/ep/south-park/1009.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The gang discovers who's responsible for the 9/11 attacks and realizes South Park may be in danger.
 Watch for:
 - Swearing — 5 moment(s)
   - “Follow me! Who the fuck are you?! - There's no time! come on! Do you mind telling us what the hell is going on? Who are you? - I'm a detective.”
@@ -3339,10 +3174,9 @@ Watch for:
   - “Pleeease! Dude! What the hell is going on?! Don't kill me! I, I just do what they say! What who said? - I have an family.”
   - “So then, who was responsible for 9/11? Whattaya mean? A bunch of pissed-off Muslims.”
 
-## S10 E10 — Miss Teacher Bangs a Boy
+## S10 E10 — 10. Miss Teacher Bangs a Boy
 URL: https://watchwiththekids.com/ep/south-park/1010.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman is tapped to be the new hallway monitor and takes offense when Kyle discovers a teacher is having an affair with a student in his jurisdiction.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “You sure they had sex? Y es.”
@@ -3368,10 +3202,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I'm gonna get that hallway-defilng slut no matter what it takes! Are you in?! I got some badass guys to help me.”
 
-## S10 E11 — Hell On Earth 2006
+## S10 E11 — 11. Hell On Earth 2006
 URL: https://watchwiththekids.com/ep/south-park/1011.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Satan tries to plan a Halloween party while dealing with a religious group, an ex-lover and mischievous serial killers.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Every costume party there's like fourteen guys come dressed like the Crow 'cause they wanna look hot and hook up.”
@@ -3393,10 +3226,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “You don't understand, fool! I ain't missin' the party! W-what party? - I already got my wristband, see? You've got to get me to Los Angeles! Well can't you just take a plane? How, punk?! We don't use money in her, nigga!”
 
-## S10 E12 — Go God Go (1)
+## S10 E12 — 12. Go God Go (1)
 URL: https://watchwiththekids.com/ep/south-park/1012.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: South Park residents clash over the teaching of evolution. Meanwhile, Cartman attempts time travel so he can play a soon-to-be-released video-game system.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I've got a date! I've got a date! My first real date with a real man since my sex-change operation! Oh boy, what'll I wear?! Hey everybody! Close the door, I'm trying to freeze! Eric, get out of there.”
@@ -3418,10 +3250,9 @@ Watch for:
   - “Ms Shut up, faggot! Principal Victoria, I can teach my own class! You are to sit in class and help Mr.”
   - “Well, you're a faggot! Continue.”
 
-## S10 E13 — Go God Go XII (2)
+## S10 E13 — 13. Go God Go XII (2)
 URL: https://watchwiththekids.com/ep/south-park/1013.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman tries to escape a dystopian future plagued by militant otters and a lack of video games.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I want this Nintendo hooked up to my float screen NOW! Come on! Come on! Dude, what is taling so long! I wanna play! Uhh, what kind of output does this have? This is some ancient Super-VHS output or somethin'.”
@@ -3442,10 +3273,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “Explain?? How can I be so stupid?? Richard, come back, please! Well go ahead and leave, you atheist faggot! Have fun mocking God in hell! You queer! Mr.”
 
-## S10 E14 — Stanley's Cup
+## S10 E14 — 14. Stanley's Cup
 URL: https://watchwiththekids.com/ep/south-park/1014.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stan Marsh has hit rock bottom. He's got no job, no bicycle and his only way out of a bad situation is to coach the local pee wee hockey team. Once a hotshot pee wee hockey player himself, Marsh has tried to put those days behind him. But he's still living with the memory of how he let his team down when he missed the winning shot in the big game. Now, he's about to find out that being a coach means facing your past. He's determined to show his kids what it's like to be winners!
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Sooo, if we lose we're gonna kill Nelson? Oh Jesus, no! I don't wanna be a murderer! Relax! If we lose we're not gonna be murderers.”
@@ -3458,7 +3288,6 @@ Watch for:
 ## S11 E1 — 1. With Apologies to Jesse Jackson
 URL: https://watchwiththekids.com/ep/south-park/1101.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy Marsh is publicly chastised for using the N-word on national television. Meanwhile, Cartman clashes with a little person.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “And if you take away the gun powder- - Yeah, yeah, we get it, Mr.”
@@ -3482,7 +3311,6 @@ Watch for:
 ## S11 E2 — 2. Cartman Sucks
 URL: https://watchwiththekids.com/ep/south-park/1102.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Butters is sent to a religious camp that promotes a heterosexual lifestyle.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3503,7 +3331,6 @@ Watch for:
 ## S11 E3 — 3. Lice Capades
 URL: https://watchwiththekids.com/ep/south-park/1103.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: th Park Elementary deals with a head-lice scare, and Cartman looks to expose the kids with infected scalps.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Sorry to cut the honeymoon short! Why you murdering bastard! Your little fantasy of another world ends here! Walk! - What the hell do you want, Vice President?! Walk! Clyde, dude, get down to the park.”
@@ -3522,7 +3349,6 @@ Watch for:
 ## S11 E4 — 4. The Snuke
 URL: https://watchwiththekids.com/ep/south-park/1104.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: lary Clinton makes a campaign stop in South Park. Meanwhile, Cartman believes he's uncovered a terrorist plot.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3534,7 +3360,6 @@ Watch for:
 ## S11 E5 — 5. Fantastic Easter Special
 URL: https://watchwiththekids.com/ep/south-park/1105.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stan searches for the origins of egg decorating, and falls in with a strange society guarding an infamous secret.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “What? - Stab me with this.”
@@ -3552,7 +3377,6 @@ Watch for:
 ## S11 E6 — 6. D-Yikes
 URL: https://watchwiththekids.com/ep/south-park/1106.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Ms. Garrison gets dumped again, so the boys decide to hire someone to remedy the situation.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3578,7 +3402,6 @@ Watch for:
 ## S11 E7 — 7. Night of the Living Homeless
 URL: https://watchwiththekids.com/ep/south-park/1107.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The homeless population is on the rise in South Park. Both the adults and children go to work looking for solutions to the problem.
 Watch for:
 - Swearing — 8 moment(s)
   - “Spare any change, sir? - No! Fuck off! I don't get it.”
@@ -3593,7 +3416,6 @@ Watch for:
 ## S11 E8 — 8. Le Petit Tourette
 URL: https://watchwiththekids.com/ep/south-park/1108.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman pretends to have Tourette's syndrome in order to say whatever he wants.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Kyle? - Surprise, fatass! Kyle, what are you doing? - I went online posing as a boy who would have sex with older men and told them to meet me here.”
@@ -3625,7 +3447,6 @@ Watch for:
 ## S11 E9 — 9. More Crap
 URL: https://watchwiththekids.com/ep/south-park/1109.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy Marsh becomes a local hero after passing a sizable bowel movement. Later, he contacts a record-keeping society to find out if he has surpassed the world record.
 Watch for:
 - Swearing — 4 moment(s)
   - “I mean, at some point, can't you just kind of fuck off? I want people to know that I'm worth something.”
@@ -3633,10 +3454,9 @@ Watch for:
   - “…really big fat titties So come on out to south park and meet some friends of mine Episode 11x09 "More Crap" Well, there's no doubt in my mind, Mr.”
   - “Thanks for the news flash! I haven't taken a crap in over three weeks! The question is why?! Well, what food have you been eating? - P.”
 
-## S11 E10 — Imaginationland (1)
+## S11 E10 — 10. Imaginationland (1)
 URL: https://watchwiththekids.com/ep/south-park/1110.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys enter a dimension containing the world's imagination. Before long, the government taps them for intelligence.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “What did they say? - We don't wanna jump to conclusions, but we're worried that maybe somebody kidnapped Butters, sodomized him over and over again and then fed his genitals to wild animals.”
@@ -3652,10 +3472,9 @@ Watch for:
   - “Yeah, and if you couldn't prove there was a leprechaun, you have to give me ten dollars! Now just pay up and stop being stupid! Goddamnit, why hasn't it shown up yet? Dragon Wind to Faggot!”
   - “Faggot I need you to keep surveillance North to North East.”
 
-## S11 E11 — Imaginationland (2)
+## S11 E11 — 11. Imaginationland (2)
 URL: https://watchwiththekids.com/ep/south-park/1111.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Pentagon officials pressure Kyle and Stan to reveal how they gained access to Imaginationland. Meanwhile, Cartman searches for Kyle in order to make him fulfill his side of the leprechaun bet.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “And then rape their bodies so we can use their blood as lubricant? Say, that's a great idea, Beary Bear.”
@@ -3665,10 +3484,9 @@ Watch for:
   - “…Two! Sector Two? Cartman? Hello Kyle! Thought you could get out of your responsibilities, huh?! Who the hell are you?!”
   - “And instead I got Snarf and Popeye and Luke Skywalker all pissed off.”
 
-## S11 E12 — Imaginationland (3)
+## S11 E12 — 12. Imaginationland (3)
 URL: https://watchwiththekids.com/ep/south-park/1112.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan and Butters attempt to escape Imaginationland before the government detonates a nuclear device in the alternate dimension. Meanwhile, Cartman takes his bet with Kyle to the Supreme Court.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Al Gore brought this video to the public's attention, sparking demands by everyone who wants to know exactly what's going on.”
@@ -3680,10 +3498,9 @@ Watch for:
   - “It's coming from Sector Two! Sector 2? What the hell do you think you're doing declaring leprechauns aren't real?!”
   - “You'd better not say that! You'll go to hell! It's possible that hell is also imaginary.”
 
-## S11 E13 — Guitar Queer-o
+## S11 E13 — 13. Guitar Queer-o
 URL: https://watchwiththekids.com/ep/south-park/1113.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stan and Kyle become a successful Guitar Hero duo. After they part ways, Stan succumbs to the pitfalls of rock stardom.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Please enjoy yourselves, there's lots more coke and sex in the house.”
@@ -3700,10 +3517,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “You want me to teach you boys how? That's gay, Mr.”
 
-## S11 E14 — The List
+## S11 E14 — 14. The List
 URL: https://watchwiththekids.com/ep/south-park/1114.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys discover a secret list compiled by their female classmates that rates them according to looks.
 Watch for:
 - Swearing — 6 moment(s)
   - “They probably put you at the bottom of the list because you have fucked up teeth! Or Kenny's because he's poor.”
@@ -3716,7 +3532,6 @@ Watch for:
 ## S12 E1 — 1. Tonsil Trouble
 URL: https://watchwiththekids.com/ep/south-park/1201.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: In the 12th-season premiere, Cartman faces an uncertain future after a routine tonsillectomy reveals a more serious condition.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I sleep with all my money.”
@@ -3743,7 +3558,6 @@ Watch for:
 ## S12 E2 — 2. Britney's New Look
 URL: https://watchwiththekids.com/ep/south-park/1202.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys meet Britney Spears while she's on a search for seclusion in the Colorado mountains, and Stan and Kyle eventually take on the responsibility of getting her to the North Pole.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Corn harvest! We haven't told you about it, Stanley, because we, we like to wait until kids are a little older to talk to them about things like condoms and ritualistic human sacrifice for harvest.”
@@ -3769,7 +3583,6 @@ Watch for:
 ## S12 E3 — 3. Major Boobage
 URL: https://watchwiththekids.com/ep/south-park/1203.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Suspicions by friends and family of Kenny's drug use play out in an homage to the 1981 animated fantasy "Heavy Metal."
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - “Appease the gods by lathering her boobs with soapy suds.”
@@ -3795,7 +3608,6 @@ Watch for:
 ## S12 E4 — 4. Canada on Strike
 URL: https://watchwiththekids.com/ep/south-park/1204.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Canada goes on strike, the boys find themselves in the thick of negotiations for a settlement, and the void in U.S. jobs is filled by replacements from Denmark. Meanwhile, Terrance and Phillip are on the fence about joining the strike, but are shocked by its fiscal consequences.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “The blood will be on your hand.”
@@ -3813,7 +3625,6 @@ Watch for:
 ## S12 E5 — 5. Eek, A Penis!
 URL: https://watchwiththekids.com/ep/south-park/1205.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman takes over Ms. Garrison's class when the teacher's personal crisis causes her to be removed from the classroom.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “She was a woman but then she got a sex change, became a man, but then she got pregnant and is having a baby, which means she's still a woman all along.”
@@ -3836,7 +3647,6 @@ Watch for:
 ## S12 E6 — 6. Over Logging
 URL: https://watchwiththekids.com/ep/south-park/1206.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: When a lack of Internet access in South Park sparks panic in the community, Randy takes his family to California in search of a signal.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - “Aw, how am I supposed to see Internet porn that way? - What did you say? - Uh, you go ahead, Sharon.”
@@ -3851,7 +3661,6 @@ Watch for:
 ## S12 E7 — 7. Super Fun Time
 URL: https://watchwiththekids.com/ep/south-park/1207.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: A class trip to a living museum that recreates 1800s Colorado leads to a hostage situation for some of the boys.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “You let out Murderin' Murphy? Y'are all gettin' it for puttin' me in that there jail! Stop it! Stop your bad historical acting right now! Tarnation.”
@@ -3869,7 +3678,6 @@ Watch for:
 ## S12 E8 — 8. The China Probrem
 URL: https://watchwiththekids.com/ep/south-park/1208.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Butters stands with Cartman as he confronts the Chinese after a tragic event.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Them panties, take 'em off.”
@@ -3894,7 +3702,6 @@ Watch for:
 ## S12 E9 — 9. Breast Cancer Show Ever
 URL: https://watchwiththekids.com/ep/south-park/1209.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Wendy courts trouble when she vows to beat up Cartman after school.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - “Me, you're the one talking about killer titties, watch out wendy,guys, went day says boobs can kill you.”
@@ -3921,10 +3728,9 @@ Watch for:
   - “If you got beat by a girl everyone would say you're a faggot.”
   - “Now you all think i'm a fag.”
 
-## S12 E10 — Pandemic (1)
+## S12 E10 — 10. Pandemic (1)
 URL: https://watchwiththekids.com/ep/south-park/1210.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman enlists the help of rival Craig when the boys spot an easy opportunity for financial gain from a global crisis.
 Watch for:
 - Swearing — 10 moment(s)
   - “Craig, don't be an asshole.”
@@ -3938,10 +3744,9 @@ Watch for:
   - “We actually respect a -- I said I'm not buying any god damn cds today! You got that? I'm sick of it! Senior! Comprar cd la musica? Jesus christ, , , , Hey, craig.”
   - “That's enough! You don't have to videotape every single -- What the hell was that? Oh, my god! Something's going on outside.”
 
-## S12 E11 — Pandemic (2): The Startling
+## S12 E11 — 11. Pandemic (2): The Startling
 URL: https://watchwiththekids.com/ep/south-park/1211.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The boys discover the reason for the global attacks by oversize guinea pigs, but first they have to find their way out of the Andes.
 Watch for:
 - Swearing — 5 moment(s)
   - “Craig! No! How did you get here? Hey, it's that asshole who sent us to the jungle with nobody to pick us up.”
@@ -3950,10 +3755,9 @@ Watch for:
   - “Randy! What the hell are you doing? I've got really good shot of it, Sharon.”
   - “Damn you, Craig.”
 
-## S12 E12 — About Last Night...
+## S12 E12 — 12. About Last Night...
 URL: https://watchwiththekids.com/ep/south-park/1212.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: South Park residents join the rest of the country in celebrating the election of a U.S. president, who moves a new administration into the White House ahead of schedule.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Bloody idiots.”
@@ -3975,10 +3779,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “He seems wasted.”
 
-## S12 E13 — Elementary School Musical
+## S12 E13 — 13. Elementary School Musical
 URL: https://watchwiththekids.com/ep/south-park/1213.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys are startled to learn that their popularity at school is waning when they fail to submit to the latest fad, which actually makes Butters cooler than they are.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “What's High School Musical one and two? This-- This is not even condom its only's baloney sandwitch.”
@@ -4006,10 +3809,9 @@ Watch for:
   - “Together we stay and every kid in school is special in their own way Dude, girls are such fags.”
   - “We said, we won't be a part of this fag and look at you.”
 
-## S12 E14 — The Ungroundable
+## S12 E14 — 14. The Ungroundable
 URL: https://watchwiththekids.com/ep/south-park/1214.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: In the 12th-season finale, vampire sightings at school anger the Goth kids, who are upset when they become indistinguishable from the bloodsucking interlopers in the eyes of their peers.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It makes me want to - Dude! - Are you all right, sweetie? What's going on? Well, Mom, apparently Butters is gay, finds me very attractive and confused about his sexual identity.”
@@ -4029,7 +3831,6 @@ Watch for:
 ## S13 E1 — 1. The Ring
 URL: https://watchwiththekids.com/ep/south-park/1301.html
 Scores: violence 1/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: In the 13th-season premiere, Kenny gets less than he bargained for when he takes his new girlfriend to a Jonas Brothers concert.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “What kind of protection? Can I have a box of condoms, please? Box of condoms.”
@@ -4065,7 +3866,6 @@ Watch for:
 ## S13 E2 — 2. The Coon
 URL: https://watchwiththekids.com/ep/south-park/1302.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Rival vigilantes battle for supremacy as crime-fighting icons of the town.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “What do we know about the Mayor's sexual preferences? All right, listen, you have five seconds to leave or I'm gonna put you in the jail and call your parents.”
@@ -4091,7 +3891,6 @@ Watch for:
 ## S13 E3 — 3. Margaritaville
 URL: https://watchwiththekids.com/ep/south-park/1303.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy's solution to fix the economy finds enthusiastic support in the community and revolutionizes the way people live their lives.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “If somebody's thinking of stabbing him in the back, you're being a dick.”
@@ -4109,7 +3908,6 @@ Watch for:
 ## S13 E4 — 4. Eat, Pray, Queef
 URL: https://watchwiththekids.com/ep/south-park/1304.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: An April Fools' joke goes bad, inspiring fear and fury among the boys.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…we're having sex! Fuck you, you don't fucking slap me! Could you please keep it down? We're trying to have sex over here.”
@@ -4131,7 +3929,6 @@ Watch for:
 ## S13 E5 — 5. Fishsticks
 URL: https://watchwiththekids.com/ep/south-park/1305.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman helps Jimmy with a comedy routine that becomes the sensation of the year until it's time to take credit for the joke.
 Watch for:
 - Swearing — 12 moment(s)
   - “Dude, fuck that! Maybe you were writing jokes for people's amusement but I don't work for free.”
@@ -4152,7 +3949,6 @@ Watch for:
 ## S13 E6 — 6. Pinewood Derby
 URL: https://watchwiththekids.com/ep/south-park/1306.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy pulls out all the stops to make sure that Stan wins first place in the annual Pinewood Derby
 Watch for:
 - Affairs / cheating — 2 moment(s)
   - “What? Stan! The truth is I don't deserve this trophy, because I cheated on my Pinewood Derby car.”
@@ -4173,7 +3969,6 @@ Watch for:
 ## S13 E7 — 7. Fatbeard
 URL: https://watchwiththekids.com/ep/south-park/1307.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Buoyed by news of pirates in Somalia, Cartman hatches a plan to run away to live the life of a buccaneer.
 Watch for:
 - Swearing — 8 moment(s)
   - “You should go there right away! I'll even help pay for your ticket! Wow, cool! Wait a minute-- the fuck? Why would you do that? Unless, you're trying to trick me somehow No, no, you're right.”
@@ -4192,7 +3987,6 @@ Watch for:
 ## S13 E8 — 8. Dead Celebrities
 URL: https://watchwiththekids.com/ep/south-park/1308.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle seeks help from paranormal experts when his little brother is haunted by ghosts.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Stop buying new underwear every time you eat Chipotle.”
@@ -4215,7 +4009,6 @@ Watch for:
 ## S13 E9 — 9. Butters' Bottom Bitch
 URL: https://watchwiththekids.com/ep/south-park/1309.html
 Scores: violence 1/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Butters hopes his first kiss will put an end to his friends' ridicule.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Soyou are agreeing to have sex with me for $100, correct? - Sure.”
@@ -4255,10 +4048,9 @@ Watch for:
   - “Yeah, come on, harder! Deeper! - Oh, yeah! Oh, yeah! - Yeah, teach me a lesson, daddy! Teach this little whore a lesson! - Yeah! Yeah! - Yeah, that's right! - Oh! Aggh! Ohhh! Oh! Oh.”
   - “…what - Give it to me! Come on, you sissies, I can fit more of you! Yeah, you like your little stripper whore?”
 
-## S13 E10 — W.t.f.
+## S13 E10 — 10. W.t.f.
 URL: https://watchwiththekids.com/ep/south-park/1310.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys aspire to be professional wrestlers after seeing their first match live.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Number 24 You're wrestling for the right to marry Mackenzie Phillips but just learned that she had sex with her father.”
@@ -4289,10 +4081,9 @@ Watch for:
   - “Okeydoke! - So is that when I t-tell you that your girlfriend is a whore? - No.”
   - “Let's save the girlfriend-is-a-whore line until after Stan head-butts Butters for trying to stop the fight again.”
 
-## S13 E11 — Whale Whores
+## S13 E11 — 11. Whale Whores
 URL: https://watchwiththekids.com/ep/south-park/1311.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Stan vows to save the dolphins after a family visit to an aquarium in Denver on his birthday is marred by a mass slaughter of aquatic mammals.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “It's time to bring out the big guns.”
@@ -4311,10 +4102,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “…whaling problem for a second? - But their old captain, Paul Watson, was an unorganized, incompetent media whore who thought lying to everyone was okay as long as it served his cause.”
 
-## S13 E12 — The F Word
+## S13 E12 — 12. The F Word
 URL: https://watchwiththekids.com/ep/south-park/1312.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys take action when a motorcycle festival takes over the town.
 Watch for:
 - Swearing — 9 moment(s)
   - “Just wanted to let you know you're fucking fags.”
@@ -4336,10 +4126,9 @@ Watch for:
   - “There's got to be more! - Shh! - What's that part say there? - "Later, the term 'fag' was defined "as any awkward bundle to be carried, "and was often used as an insult to the elderly, as in calling them 'baggage.”
   - “They really are faggots.”
 
-## S13 E13 — Dances with Smurfs
+## S13 E13 — 13. Dances with Smurfs
 URL: https://watchwiththekids.com/ep/south-park/1313.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman is selected to read the morning announcements at school, but he turns the forum into a bully pulpit to unleash criticism of the student-body president.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4367,10 +4156,9 @@ Watch for:
   - “This school has finally transformed into the Socialist whore land where a student isn't free.”
   - “Can you see why many students think you're an ineffective slut? Are you denying that the Smurf holocaust ever happened? Is that what you're suggesting? - Look, Eric.”
 
-## S13 E14 — Pee
+## S13 E14 — 14. Pee
 URL: https://watchwiththekids.com/ep/south-park/1314.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In the 13th-season finale, the boys' trip to a local water park comes with apocalyptic overtones.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Aghgh Ahghg! Ahghggh! - He's losin' it! Stevens, your gun! - No! Wait! Wait.”
@@ -4389,7 +4177,6 @@ Watch for:
 ## S14 E1 — 1. Sexual Healing
 URL: https://watchwiththekids.com/ep/south-park/1401.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: In the 14th-season premiere, scientific testing reveals that some of the fourth-grade boys are sex addicts.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - “Autoerotic asphyxiation? What's that? I don't want to go into too much detail, but You choke yourself with a belt around your neck, While masturbating, dressed up like batman or something.”
@@ -4421,7 +4208,6 @@ Watch for:
 ## S14 E2 — 2. The Tale of Scrotie McBoogerballs
 URL: https://watchwiththekids.com/ep/south-park/1402.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After being assigned to read a book that was once banned, the boys are inspired to collaborate on one of their own.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It's gonna blow! Kim kardashian is soo sexy.”
@@ -4446,7 +4232,6 @@ Watch for:
 ## S14 E3 — 3. Medicinal Fried Chicken
 URL: https://watchwiththekids.com/ep/south-park/1403.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When a store selling medical marijuana opens on the site of Cartman's favorite fried-chicken joint, Randy is first in line to buy some weed. But he can't because he's completely healthy. Meanwhile, Cartman will stop at nothing to get the restaurant back.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You get the chicken for me and I'll make sure you are hooked up for life.”
@@ -4471,7 +4256,6 @@ Watch for:
 ## S14 E4 — 4. You Have 0 Friends
 URL: https://watchwiththekids.com/ep/south-park/1404.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle turns to Stan for help with a Facebook crisis.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4491,7 +4275,6 @@ Watch for:
 ## S14 E5 — 5. 200
 URL: https://watchwiththekids.com/ep/south-park/1405.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: South Park is the target of a class-action lawsuit on behalf of all the vengeful celebrities who have been mocked by the town.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “…and the same crappy music in every film and that if you're that in love with Johnny depp you should just have sex with him already.”
@@ -4518,7 +4301,6 @@ Watch for:
 ## S14 E6 — 6. 201
 URL: https://watchwiththekids.com/ep/south-park/1406.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The identity of Cartman's dad is on everyone's mind despite threats from the ginger kids about Muhammad and enraged celebrities who have harnessed the power of Mecha Streisand.
 Watch for:
 - Porn / strippers / sex work — 3 moment(s)
   - Porn / adult-channel plot is part of this episode.
@@ -4550,7 +4332,6 @@ Watch for:
 ## S14 E7 — 7. Crippled Summer
 URL: https://watchwiththekids.com/ep/south-park/1407.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Jimmy and Timmy go to summer camp with a winner-take-all attitude in a variety of contests, including Jimmy's participation in a surfing competition. Towelie faces an intervention for his addictions.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We got a bunch of wet campers down there! What's going on? Towelie makes extra money for drugs by offering oral sex to older men.”
@@ -4582,7 +4363,6 @@ Watch for:
 ## S14 E8 — 8. Poor and Stupid
 URL: https://watchwiththekids.com/ep/south-park/1408.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman's dream to become a NASCAR driver comes true, with Butters as his pit boss.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4611,7 +4391,6 @@ Watch for:
 ## S14 E9 — 9. It's a Jersey Thing
 URL: https://watchwiththekids.com/ep/south-park/1409.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Randy spearheads the town's defense when "Jersey Shore"-inspired Garden State residents are threatening to take over the entire country.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They're either screaming at each other or making disgusting sex sounds.”
@@ -4639,10 +4418,9 @@ Watch for:
   - “You don't ever, ever, you rat dog, prostitution whore! You probably sell your muff for $6.”
   - “Who the fuck are you to tell me what to do? You trashy whores get out of here and leave her alone.”
 
-## S14 E10 — Insheeption
+## S14 E10 — 10. Insheeption
 URL: https://watchwiththekids.com/ep/south-park/1410.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
-Summary: Stan talks to Mr. Mackey about his hoarding disorder, but learns the guidance counselor has problems with the same compulsion.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4650,10 +4428,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “" Eh, when a chick says, "we need to talk" you might as well start punching yourself in the balls, dude.”
 
-## S14 E11 — Coon 2: Hindsight
+## S14 E11 — 11. Coon 2: Hindsight
 URL: https://watchwiththekids.com/ep/south-park/1411.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 14+)
-Summary: The Coon leads a group of crimefighters who spring into action to help victims of another drilling catastrophe in the Gulf.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “All we need to do is get pictures of Captain Hindsight naked with Courtney Love.”
@@ -4665,10 +4442,9 @@ Watch for:
   - “Do you remember last week when I got really, really drunk? Yes, sir.”
   - “I get drunk and I don't remember things.”
 
-## S14 E12 — Mysterion Rises
+## S14 E12 — 12. Mysterion Rises
 URL: https://watchwiththekids.com/ep/south-park/1412.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The identity of Mysterion is revealed when the Coon, abandoned by his crime-fighting cohorts, seeks revenge in the Gulf.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Um, dude, are you okay? Where are the pictures? Give every copy of the pictures to me now! P-please, sir, we don't know what you mean! You got pictures of me having sex with Courtney Love!”
@@ -4698,10 +4474,9 @@ Watch for:
   - “They just use to offer free beer at their meetings, so we would go.”
   - “I know it sounds hard to believe, but we were actually really drunk the entire time.”
 
-## S14 E13 — Coon Vs. Coon & Friends
+## S14 E13 — 13. Coon Vs. Coon & Friends
 URL: https://watchwiththekids.com/ep/south-park/1413.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cthulhu does Cartman's bidding, leaving Coon & Friends at his mercy; Kenny's curse presents a dilemma.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4727,10 +4502,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “You might not wanna go Hey, can I see the double rainbow fellas? Fellas? Isn't it beautiful, you guys? There's no double rainbow, fat ass.”
 
-## S14 E14 — CrÃ¨me Fraiche
+## S14 E14 — 14. CrÃ¨me Fraiche
 URL: https://watchwiththekids.com/ep/south-park/1414.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: In the 14th-season finale, Randy's addiction to the Food Network has a detrimental effect on his family.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Alright, now for my baked ziti we are gonna start off by getting some extra virgin olive oil into the pan.”
@@ -4753,7 +4527,6 @@ Watch for:
 ## S15 E1 — 1. HUMANCENTiPAD
 URL: https://watchwiththekids.com/ep/south-park/1501.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The 15th season begins with the launch of a revolutionary tablet computer, though Cartman is feeling left out of the technology craze.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh, I've got a better idea! Why don't you go across the street and buy some condoms?”
@@ -4777,7 +4550,6 @@ Watch for:
 ## S15 E2 — 2. Funnybot
 URL: https://watchwiththekids.com/ep/south-park/1502.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Jimmy hosts the Special Ed department's inaugural Comedy Awards, but a comment about the Germans' sense of humor gets the school in hot water.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4802,7 +4574,6 @@ Watch for:
 ## S15 E3 — 3. Royal Pudding
 URL: https://watchwiththekids.com/ep/south-park/1503.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Canadian-born Ike shares his country's obsession with a royal wedding and offers his services when the princess-to-be is abducted.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4832,7 +4603,6 @@ Watch for:
 ## S15 E4 — 4. T.m.i.
 URL: https://watchwiththekids.com/ep/south-park/1504.html
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman is sent to anger-management therapy when he's upset after personal information about the boys is posted on the school bulletin board.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They have sex.”
@@ -4865,7 +4635,6 @@ Watch for:
 ## S15 E5 — 5. Crack Baby Athletic Association
 URL: https://watchwiththekids.com/ep/south-park/1505.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman hatches a plan to help babies who are born addicted to drugs
 Watch for:
 - Violence & injury — 1 moment(s)
   - “But then, who was the guitar player for guns and roses? One of our parents! Are you serious? You guys are ten years old and you just figured out that Slash isn't real? Oh, my God.”
@@ -4885,7 +4654,6 @@ Watch for:
 ## S15 E6 — 6. City Sushi
 URL: https://watchwiththekids.com/ep/south-park/1506.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Butters gets diagnosed with multiple personality disorder, and he's prescribed medication.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You don't even know what sex is Mr.”
@@ -4919,7 +4687,6 @@ Watch for:
 ## S15 E7 — 7. You're Getting Old
 URL: https://watchwiththekids.com/ep/south-park/1507.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan's outlook on life begins to change after his 10th birthday, but it also affects his friendships with the other kids, who find they have little in common with him anymore.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Oh, that shitty game? Who plays video games to listen to a bunch of characters talk and press the X button? Ask him about the murder now, Kyle!”
@@ -4940,7 +4707,6 @@ Watch for:
 ## S15 E8 — 8. Ass Burgers
 URL: https://watchwiththekids.com/ep/south-park/1508.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Stan's stuck in an abnormal rut; Cartman suspects he has Asperger's syndrome.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4968,7 +4734,6 @@ Watch for:
 ## S15 E9 — 9. The Last of the Meheecans
 URL: https://watchwiththekids.com/ep/south-park/1509.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman fancies himself an agent of the U.S. Border Patrol when the boys play Texans vs. Mexicans.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Alright y'all, keep yer eyes peeled and yer guns ready.”
@@ -4986,10 +4751,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “You're gonna have to do better than that, Mexican! Better than being a fat ass Texan! Just because I'm Texan doesn't mean I'm fat! No, you're fat to begin with, chubby.”
 
-## S15 E10 — Bass to Mouth
+## S15 E10 — 10. Bass to Mouth
 URL: https://watchwiththekids.com/ep/south-park/1510.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: A hacker wreaks havoc with gossipy Web posts on a site called "The South Park Elementary Eavesdropper."
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “He posted on his website that I had sex with an underage fish, and that she performed bass to mouth.”
@@ -5016,10 +4780,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Don't take the I'm sorry I wasted your time.”
 
-## S15 E11 — Broadway Bro Down
+## S15 E11 — 11. Broadway Bro Down
 URL: https://watchwiththekids.com/ep/south-park/1511.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy turns into a huge fan of Broadway shows after he takes Sharon to see a hit musical in Denver.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “From what I heard I figured this show must be really sexy and hot but - I just don't see it happening.”
@@ -5040,10 +4803,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Anything goes - Blowjob - Anything goes - Blowjob Man time! Hear things more clearly I'm about to get drunk and loud have me a rowdy good time All I need is my girl and my truck and some Rogers Hammerstein.”
 
-## S15 E12 — 1%
+## S15 E12 — 12. 1%
 URL: https://watchwiththekids.com/ep/south-park/1512.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman's lack of physical fitness makes him a target for the other kids' scorn.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “And now, we live in a world where one of you has decided to become a murderer.”
@@ -5069,10 +4831,9 @@ Watch for:
   - “The same dirty slut who's been fucking with us our whole lives! Sweetie, is everything OK? Does everything look OK? Sit down, you fucking bitch! Sit down, mother.”
   - “You're a little disturbed right now, but maybe you can Shut your fat piehole, bitch! You know what you did, skank! You let Clyde Frog get murdered! No, Rumper Tumpskin, I didn't.”
 
-## S15 E13 — A History Channel Thanksgiving
+## S15 E13 — 13. A History Channel Thanksgiving
 URL: https://watchwiththekids.com/ep/south-park/1513.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys learn what really happened at the first Thanksgiving—including an extraterrestrial presence—from a TV documentary.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Was Thanksgiving about turkey and peace, or was it the beginning of the genocide of an entire race? Thanksgiving is about murder? This is bullcrap.”
@@ -5085,10 +4846,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Fat ass, why don't you come and help? You're really being grumpy today.”
 
-## S15 E14 — The Poor Kid
+## S15 E14 — 14. The Poor Kid
 URL: https://watchwiththekids.com/ep/south-park/1514.html
-Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: In the 15th-season finale, the arrest of Kenny's parents sends him and his two siblings into the foster-care system, but the situation creates a dilemma for Cartman, who is left without a target to mock for being the poorest kid in school.
+Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “All right, how much do you make? Like gross yearly income after taxes? This is where you'll sleep with your foster brothers.”
@@ -5113,7 +4873,6 @@ Watch for:
 ## S16 E1 — 1. Reverse Cowgirl
 URL: https://watchwiththekids.com/ep/south-park/1601.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Tragedy strikes when one of the boys repeatedly ignores reminders about leaving the toilet seat up in the Season 16 premiere.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5140,7 +4899,6 @@ Watch for:
 ## S16 E2 — 2. Cash for Gold
 URL: https://watchwiththekids.com/ep/south-park/1602.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman targets a specific—and vulnerable—clientele when he starts his own shopping channel for gems, while Stan researches the value of a piece of jewelry that was a gift from his grandfather.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “I have a gun right here.”
@@ -5165,7 +4923,6 @@ Watch for:
 ## S16 E3 — 3. Faith Hilling
 URL: https://watchwiththekids.com/ep/south-park/1603.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: An evolutionary development poses a grave threat to humanity.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “The newest meme is pulling the shirt out to look like boobs.”
@@ -5182,7 +4939,6 @@ Watch for:
 ## S16 E4 — 4. Jewpacabra
 URL: https://watchwiththekids.com/ep/south-park/1604.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The town's Easter-egg hunt may be canceled due to rumors of a vicious beast that Cartman claims to have caught on film.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “We believe in a just Lord who would never murder innocent children.”
@@ -5198,7 +4954,6 @@ Watch for:
 ## S16 E5 — 5. Butterballs
 URL: https://watchwiththekids.com/ep/south-park/1605.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Stan organizes an antibullying video when Butters is tormented by an unlikely predator.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5226,7 +4981,6 @@ Watch for:
 ## S16 E6 — 6. I Should Have Never Gone Ziplining
 URL: https://watchwiththekids.com/ep/south-park/1606.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys try zip-lining in the Colorado mountains on the last day of spring break, but their adventure takes a dangerous, life-threatening turn.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “So when I call out "shaka bra" look up and give the camera a nice shaka bra.”
@@ -5254,7 +5008,6 @@ Watch for:
 ## S16 E7 — 7. Cartman Finds Love
 URL: https://watchwiththekids.com/ep/south-park/1607.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: A romance for Cartman may finally become a reality when there's a new girl at school.
 Watch for:
 - Swearing — 6 moment(s)
   - “Anyway, thanks a lot, and you know, stay away from my man, bitch.”
@@ -5270,7 +5023,6 @@ Watch for:
 ## S16 E8 — 8. Sarcastaball
 URL: https://watchwiththekids.com/ep/south-park/1608.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Randy's campaign to prevent head injuries in football radically changes the way the game is played, but the new rules become a national sensation and even make a South Park student a star athlete.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Stan, hook up my bra.”
@@ -5282,7 +5034,6 @@ Watch for:
 ## S16 E9 — 9. Raising the Bar
 URL: https://watchwiththekids.com/ep/south-park/1609.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman finally comes to the realization that he's overweight, but declares that the solution is to ride around on a mobility scooter. Also: Cartman learns he has a rival in a young reality-TV star.
 Watch for:
 - Swearing — 10 moment(s)
   - “I don't drive around on a mobility scooter like that bitch.”
@@ -5302,10 +5053,9 @@ Watch for:
   - “Heeere he is, America's new sweetheart, Fatty Doo Doo! Fatty Doo Doo? Who's that scootin' on a scooter Fatty Doo Doo.”
   - “Who's got doo doo like a fatty scoot-dee doo.”
 
-## S16 E10 — Insecurity
+## S16 E10 — 10. Insecurity
 URL: https://watchwiththekids.com/ep/south-park/1610.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle suspects that his mother is having an affair with a deliveryman; Cartman installs a home-security system.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “But are you sure they had sex, like sex, sex, like they actually had sex? Yeah, dude, full on, I saw everything.”
@@ -5338,10 +5088,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “The Jewish population isn't dying out, fat ass, it's growing.”
 
-## S16 E11 — Going Native
+## S16 E11 — 11. Going Native
 URL: https://watchwiththekids.com/ep/south-park/1611.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: When Butters starts acting out at school, his parents realize it's time to tell him why he's not like all of the other kids. He must travel to a foreign place to learn the ways of his people. It will be a difficult trip for a young boy to make alone, so Butters chooses Kenny to travel with him to the distant and secluded island of Hawaii.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You guys gonna make out, Kenny?”
@@ -5364,10 +5113,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Then a little boy called me a skank.”
 
-## S16 E12 — A Nightmare on Face Time
+## S16 E12 — 12. A Nightmare on Face Time
 URL: https://watchwiththekids.com/ep/south-park/1612.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys' plans to go trick-or-treating as their comic-book heroes, the Avengers, hit a snag when Stan's dad needs his son's help with a new business venture.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Renting DVDs is more ancient than Madonna's boobs! That's enough, Stanley! Ew! Gross! I can't go trick or treating.”
@@ -5385,10 +5133,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Hello family!!! Who wants champagne?!?!!? Randy, what is all this? It's finally happened Sharon.”
 
-## S16 E13 — A Scause for Applause
+## S16 E13 — 13. A Scause for Applause
 URL: https://watchwiththekids.com/ep/south-park/1613.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: An icon is implicated in a doping scandal, so supporters start cutting off their symbolic wristbands.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Dark times, bra, dark times.”
@@ -5407,10 +5154,9 @@ Watch for:
   - “I'm off to go sell these in your little town! Dude, the hell just happened? Kids.”
   - “Dude, I don't give a crap about using recycled plastic.”
 
-## S16 E14 — Obama Wins!
+## S16 E14 — 14. Obama Wins!
 URL: https://watchwiththekids.com/ep/south-park/1614.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In the series 16 finale, Cartman believes he can affect the outcome of the 2012 presidential election.
 Watch for:
 - Swearing — 9 moment(s)
   - “What the fuck is this? Alright! Where are the missing ballots?! President Obama? Oh, God dammit, Kyle, I was just about to get what I wanted! Mr.”
@@ -5429,7 +5175,6 @@ Watch for:
 ## S17 E1 — 1. Let Go, Let Gov
 URL: https://watchwiththekids.com/ep/south-park/1701.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In the Season 17 premiere, Cartman infiltrates the National Security Agency and is upset by what he finds in his personal file. Meanwhile, Butters finds a new audience for his prayers.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “We need to change Eric Cartman's status and that's when I masturbated to game of thrones.”
@@ -5461,7 +5206,6 @@ Watch for:
 ## S17 E2 — 2. Informative Murder Porn
 URL: https://watchwiththekids.com/ep/south-park/1702.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The boys try to keep their parents from hurting one another by using a distraction in the form of the game "Minecraft."
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “We don't have to have sex for our relationship to be good.”
@@ -5497,7 +5241,6 @@ Watch for:
 ## S17 E3 — 3. World War Zimmerman
 URL: https://watchwiththekids.com/ep/south-park/1703.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Token is deemed a threat to all humanity by Cartman.
 Watch for:
 - Violence & injury — 6 moment(s)
   - “So bad! - That's what's bothering you? - Not the fact that you're a murderer.”
@@ -5519,7 +5262,6 @@ Watch for:
 ## S17 E4 — 4. Goth Kids 3: Dawn of the Posers
 URL: https://watchwiththekids.com/ep/south-park/1704.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: A goth kid is sent to a camp for troubled youth, but upon her return her friends find her changed in disturbing ways, so they turn to an unlikely group for help.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “I like spiders, loss and rain! I'm only happy when I'm in pain! I'm goin' down to South Park to die! So I cast my body into the trails of blood.”
@@ -5553,7 +5295,6 @@ Watch for:
 ## S17 E5 — 5. Taming Strange
 URL: https://watchwiththekids.com/ep/south-park/1705.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Ike just isn't himself lately and he and Kyle are growing apart. Kyle goes to the guidance counselor for advice, but Mr. Mackey is too busy dealing with the bugs in the school's new integrated technology system to help. Kyle decides to take Ike to a live performance of his favorite show, "Yo Gabba Gabba!" He hopes it'll make his little brother like him again.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Maybe we need to be edgier, have sex appeal.”
@@ -5584,7 +5325,6 @@ Watch for:
 ## S17 E6 — 6. Ginger Cow
 URL: https://watchwiththekids.com/ep/south-park/1706.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman facilitates world peace with his latest prank, which brings religious leaders to South Park to witness the fulfillment of a Biblical prophecy.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5607,7 +5347,6 @@ Watch for:
 ## S17 E7 — 7. Black Friday
 URL: https://watchwiththekids.com/ep/south-park/1707.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: It's the biggest Black Friday sale in history. The boys are divided over which gaming device to buy and a bloody battle will determine whether Xbox or Sony will be the winner.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5630,7 +5369,6 @@ Watch for:
 ## S17 E8 — 8. A Song of Ass and Fire
 URL: https://watchwiththekids.com/ep/south-park/1708.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Console wars escalate as throngs of shoppers push toward the mall in anticipation of Black Friday. Meanwhile, Cartman seeks revenge against Princess Kenny.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “What Ha ha! How's it feel Now who's walking who through the betrayal garden Why don't you stay the out of my business Why don't you stay the out of my yard Ish, ish, ish, oh-ish! Hi-sooooo! - That was amazing sex.”
@@ -5655,7 +5393,6 @@ Watch for:
 ## S17 E9 — 9. Titties and Dragons
 URL: https://watchwiththekids.com/ep/south-park/1709.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The war over gaming devices begins as the malls open for the holiday-shopping craze.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5679,10 +5416,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You can't die! Everybody really likes you! We are not going to be beat by that traitor whore Kenny! Seems a shame that the fight will be so one-sided.”
 
-## S17 E10 — The Hobbit
+## S17 E10 — 10. The Hobbit
 URL: https://watchwiththekids.com/ep/south-park/1710.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Wendy plays matchmaker by trying to pair one of her gal pals with Butters, only to end up in the counselor's office.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “So, you can She-she is sexy and womanly and she smokes a pipe, she can blow them rings over her head and Hold up.”
@@ -5708,7 +5444,6 @@ Watch for:
 ## S18 E1 — 1. Go Fund Yourself
 URL: https://watchwiththekids.com/ep/south-park/1801.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The group attempt to make a kickstarter company to raise money instead of going to school. The episode focuses on kickstarter and how people can make money before producing a product.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Bloody Butt Cough.”
@@ -5727,7 +5462,6 @@ Watch for:
 ## S18 E2 — 2. Gluten Free Ebola
 URL: https://watchwiththekids.com/ep/south-park/1802.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After the group attempted a kickstarter company in a previous episode they are hated by everyone else at school so attempt to throw a party whilst the town is thrown into chaos over the threat of gluten.
 Watch for:
 - Swearing — 12 moment(s)
   - “But you told us all to go fuck ourselves.”
@@ -5749,7 +5483,6 @@ Watch for:
 ## S18 E3 — 3. The Cissy
 URL: https://watchwiththekids.com/ep/south-park/1803.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Stan is searching for answers about how a person who he's always known to be one thing could suddenly identify with another. In the meantime, the pressure of holding on to a giant secret is starting to get to Randy.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What? - Did you notice the bow? I'm not comfortable with the sex I was assigned at birth, so I'm exercising my right to identify with the gender of my choice.”
@@ -5772,7 +5505,6 @@ Watch for:
 ## S18 E4 — 4. Handicar
 URL: https://watchwiththekids.com/ep/south-park/1804.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Handicapped driven vehicles compete with taxi's and other vehicles. The company entitled "Handicar" with the lead driver being Timmy.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I'm gonna take down handicar by being an employee who sexually harasses the passengers.”
@@ -5793,7 +5525,6 @@ Watch for:
 ## S18 E5 — 5. The Magic Bush
 URL: https://watchwiththekids.com/ep/south-park/1805.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: A scandalous invasion of privacy makes the South Park denizens edgy as Cartman and Butters get in possession of a drone.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5813,7 +5544,6 @@ Watch for:
 ## S18 E6 — 6. Freemium Isn't Free
 URL: https://watchwiththekids.com/ep/south-park/1806.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan's addicted to a new app marketed by Terrance and Phillip, but the duo find that all the money they're making can't buy happiness.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “So, you've got dopamine, right? That's the chemical that gets released in your brain whenever you do something pleasurable like eating, sex.”
@@ -5836,7 +5566,6 @@ Watch for:
 ## S18 E7 — 7. Grounded Vindaloop
 URL: https://watchwiththekids.com/ep/south-park/1807.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Butters is convinced that he's living in a virtual reality. When he suddenly goes rogue and wreaks havoc at home and all over South Park, everyone struggles to figure out what's real.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “How do you feel? Do you feel okay? I touched Wendy's boob.”
@@ -5867,7 +5596,6 @@ Watch for:
 ## S18 E8 — 8. Cock Magic
 URL: https://watchwiththekids.com/ep/south-park/1808.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kenny excels at playing the game, Magic: The Gathering. He has the boys' full attention until a new, hard-core activity gets in the way. When Wendy tries to get Stan to pay attention to what she's doing, she realizes that what he does with his guy friends always comes first.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -5886,7 +5614,6 @@ Watch for:
 ## S18 E9 — 9. #rehash
 URL: https://watchwiththekids.com/ep/south-park/1809.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy's forced to perform again after Stan spends all the Marsh's money on freemium games; Kyle gets upset when Ike doesn't want to play with him anymore.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Oh, I'm so horny.”
@@ -5904,10 +5631,9 @@ Watch for:
   - “I don't know what the hell to do.”
   - “What the hell is that? It's Cartman's stupid online persona.”
 
-## S18 E10 — #HappyHolograms
+## S18 E10 — 10. #HappyHolograms
 URL: https://watchwiththekids.com/ep/south-park/1810.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle plans a holiday special for TV in hopes of bringing families together again with help from some of the biggest names in entertainment. Meanwhile, Cartmaaan Bra is still trending as holograms continue to run rampant in South Park.
 Watch for:
 - Swearing — 12 moment(s)
   - “It's "the Washington Redskins' Go Fuck Yourself Holiday Special.”
@@ -5929,7 +5655,6 @@ Watch for:
 ## S19 E1 — 1. Stunning and Brave
 URL: https://watchwiththekids.com/ep/south-park/1901.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: There is a new principal at the helm of South Park Elementary. He forces the boys to confront the damage they've done through their history of racism and unconscious bias.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Butters, I'm going to need your underwear.”
@@ -5963,7 +5688,6 @@ Watch for:
 ## S19 E2 — 2. Where My Country Gone?
 URL: https://watchwiththekids.com/ep/south-park/1902.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Tired of illegal immigrants continuously crossing over the border into the United States without any repercussions, Mr. Garrison wants a wall to be built to keep them out of the country.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “" I mean, if we can get one of us to go out with one of them, probably have sex, then it could be a symbol of us all getting along.”
@@ -5986,7 +5710,6 @@ Watch for:
 ## S19 E3 — 3. The City Part of Town
 URL: https://watchwiththekids.com/ep/south-park/1903.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kenny tries to land a job when the town of South Park begins gentrifying.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “With modern styling, these lofts are sleek, sexy, and, oh, so SodoSopa.”
@@ -6008,7 +5731,6 @@ Watch for:
 ## S19 E4 — 4. You're Not Yelping
 URL: https://watchwiththekids.com/ep/south-park/1904.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman considers himself the top on-line restaurant reviewer in South Park.
 Watch for:
 - Swearing — 12 moment(s)
   - “Get the fuck out of here.”
@@ -6029,7 +5751,6 @@ Watch for:
 ## S19 E5 — 5. Safe Space
 URL: https://watchwiththekids.com/ep/south-park/1905.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman is the latest victim of Body Shaming.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6054,7 +5775,6 @@ Watch for:
 ## S19 E6 — 6. Tweek x Craig
 URL: https://watchwiththekids.com/ep/south-park/1906.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The news of a romantic relationship between Tweek and Craig hits South Park Elementary.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “âÂ You guys! Hurry! âÂ What? Itâs Tweek and Craig, dude! Theyâre about to have sex!”
@@ -6083,7 +5803,6 @@ Watch for:
 ## S19 E7 — 7. Naughty Ninjas
 URL: https://watchwiththekids.com/ep/south-park/1907.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: A game of Ninja Warriors is led by Kenny and attracts attention from foreign terrorists. Meanwhile, the citizens of South Park decide they don't need a police department anymore.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “…A shocking report shows that some kids in the town of South Park Are swearing loyalty to a murderous regime.”
@@ -6116,7 +5835,6 @@ Watch for:
 ## S19 E8 — 8. Sponsored Content
 URL: https://watchwiththekids.com/ep/south-park/1908.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Jimmy challenges PC Principal when the budding newsman is flagged for inappropriate language in the school paper.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “I donât cheat on you, Sharon.”
@@ -6140,7 +5858,6 @@ Watch for:
 ## S19 E9 — 9. Truth and Advertising
 URL: https://watchwiththekids.com/ep/south-park/1909.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: PC Principal disappears along with 2 fourth grade students. The latest news in the school paper sets the boys on a search to find their two missing classmates. Being the crack reporter that he is, Jimmy sets out to learn everything he can about what makes Leslie tick. Meanwhile, Principal Victoria and Mr. Garrison return to a South Park that has become unrecognizable
 Watch for:
 - Violence & injury — 1 moment(s)
   - “The man who came to your house with a gun was one of them.”
@@ -6160,10 +5877,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Knock it off! Is there a problem, guys? Go get my pen, fat ass! I'm am not your slave, Kyle.”
 
-## S19 E10 — PC Principal Final Justice
+## S19 E10 — 10. PC Principal Final Justice
 URL: https://watchwiththekids.com/ep/south-park/1910.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle has chosen a dangerous alliance over his friendship with Stan.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “I like good food, organic pressed juices, and Iâve got a thing for high-class prostitutes.”
@@ -6194,7 +5910,6 @@ Watch for:
 ## S20 E1 — 1. Member Berries
 URL: https://watchwiththekids.com/ep/south-park/2001.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: An American icon gives the National Anthem a reboot.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6218,7 +5933,6 @@ Watch for:
 ## S20 E2 — 2. Skank Hunt
 URL: https://watchwiththekids.com/ep/south-park/2002.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: An online troll threatens to have global implications as Cartman professes his innocence.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6235,7 +5949,6 @@ Watch for:
 ## S20 E3 — 3. The Damned
 URL: https://watchwiththekids.com/ep/south-park/2003.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Gerald basks in the thrill of media attention as he continues to troll everyone.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Whoo-hoo! I have scissored with another woman when I had a sex change! [Cheers and applause.]”
@@ -6261,7 +5974,6 @@ Watch for:
 ## S20 E4 — 4. Wieners Out
 URL: https://watchwiththekids.com/ep/south-park/2004.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle feels guilty for the tension between the boys and the girls, but Butters brings his gender together to stand up for their rights. Meanwhile, Gerald is worried that his cover may be blown.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6292,7 +6004,6 @@ Watch for:
 ## S20 E5 — 5. Douche and a Danish
 URL: https://watchwiththekids.com/ep/south-park/2005.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Garrison finally goes too far at a rally and reconsiders his future in politics. Meanwhile, the kids begin searching for an infamous Internet troll; and Gerald joins the opposition to a Danish campaign tracking nefarious characters on the Web.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6321,7 +6032,6 @@ Watch for:
 ## S20 E6 — 6. Fort Collins
 URL: https://watchwiththekids.com/ep/south-park/2006.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: An entire city in Colorado gets hacked. Gerald and Cartman may lose everything when their complete history of internet activity becomes public.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6354,7 +6064,6 @@ Watch for:
 ## S20 E7 — 7. Oh, Jeez
 URL: https://watchwiththekids.com/ep/south-park/2007.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: PC Principal plays peacemaker between the girls and the boys one more time. Meanwhile, the election results are in, and Gerald is confronted by the Troll Hunter.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6385,7 +6094,6 @@ Watch for:
 ## S20 E8 — 8. Members Only
 URL: https://watchwiththekids.com/ep/south-park/2008.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The new President-elect visits his hometown.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6414,7 +6122,6 @@ Watch for:
 ## S20 E9 — 9. Not Funny
 URL: https://watchwiththekids.com/ep/south-park/2009.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman becomes convinced that Butters wants to steal his girlfriend.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6444,10 +6151,9 @@ Watch for:
   - “Will somebody shut him up? Skank.”
   - “Skank, get ahold of yourself.”
 
-## S20 E10 — The End of Serialization As We Know It
+## S20 E10 — 10. The End of Serialization As We Know It
 URL: https://watchwiththekids.com/ep/south-park/2010.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman finally understands why Heidi wants him to get to Mars.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - “You fat hooker.”
@@ -6474,7 +6180,6 @@ Watch for:
 ## S21 E1 — 1. White People Renovating Houses
 URL: https://watchwiththekids.com/ep/south-park/2101.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Protestors armed with tiki torches and confederate flags take to the streets of South Park; Randy comes to grips with what it means to be white in today's society.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6497,7 +6202,6 @@ Watch for:
 ## S21 E2 — 2. Put It Down
 URL: https://watchwiththekids.com/ep/south-park/2102.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: North Korea takes aim at South Park. While Craig and Tweek have problems trying to find a place to hide.
 Watch for:
 - Suicide & self-harm — 5 moment(s)
   - “I'll kill myself, and then you'll be sorry! You'll wish you could have me back, but I'll be dead! [Laughter.]”
@@ -6518,7 +6222,6 @@ Watch for:
 ## S21 E3 — 3. Holiday Special
 URL: https://watchwiththekids.com/ep/south-park/2103.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Everyone is going crazy as Columbus Day gets canceled and the kids try to bring it back as they would have a free day.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6551,7 +6254,6 @@ Watch for:
 ## S21 E4 — 4. Franchise Prequel
 URL: https://watchwiththekids.com/ep/south-park/2104.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Facebook is the ultimate weapon for Professor Chaos.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “That's why we now have young kids dressing up in costumes, eating poop, and having sex with antelopes in our town.”
@@ -6578,7 +6280,6 @@ Watch for:
 ## S21 E5 — 5. Hummels & Heroin
 URL: https://watchwiththekids.com/ep/south-park/2105.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Beloved entertainers are being cut down in their prime due to massive overdoses of opiates. Stan is about to be exposed as the source of the illegal drugs.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6606,7 +6307,6 @@ Watch for:
 ## S21 E6 — 6. Sons A Witches
 URL: https://watchwiththekids.com/ep/south-park/2106.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: This year at the traditional Halloween get together, a witch casts a spell that terrorizes the town and ruins Halloween for the boys. Cartman sees a way to use the witch's power to his advantage.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6626,7 +6326,6 @@ Watch for:
 ## S21 E7 — 7. Doubling Down
 URL: https://watchwiththekids.com/ep/south-park/2107.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Kyle is playing with fire when he gets in the middle of Cartman and Heidi's relationship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hope you brought some condoms.”
@@ -6656,7 +6355,6 @@ Watch for:
 ## S21 E8 — 8. Moss Piglets
 URL: https://watchwiththekids.com/ep/south-park/2108.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Timmy and Jimmy's science project has caught the attention of some very important people who think it can save the world.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And then every chick in this school is gonna want to have sex with us.”
@@ -6680,7 +6378,6 @@ Watch for:
 ## S21 E9 — 9. SUPER HARD PCness
 URL: https://watchwiththekids.com/ep/south-park/2109.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: It's never been more challenging to be a PC Principal.Witness the return of Terrance and Philip via the power of Netflix! Kyle isn't impressed. Meanwhile, PC Principal falls in love with the new Vice-Principal...
 Watch for:
 - Swearing — 9 moment(s)
   - “Welcome to Netflix, you sons a bitches! Yeah! Hooray.”
@@ -6696,10 +6393,9 @@ Watch for:
   - “Now, I resent that! I find that racist.”
   - “Canadians should care about the rest of the world! You are a racist, fwiend!”
 
-## S21 E10 — Splatty Tomato
+## S21 E10 — 10. Splatty Tomato
 URL: https://watchwiththekids.com/ep/south-park/2110.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The children of South Park claim to have seen Mr. Garrison lurking around town, and the townspeople are angry that the president is scaring their kids.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6722,7 +6418,6 @@ Watch for:
 ## S22 E1 — 1. Dead Kids
 URL: https://watchwiththekids.com/ep/south-park/2201.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: With several shooting occurring at South Park Elementary School, Randy attempts to get Sharon to get her emotions in check. Meanwhile, Cartman is mad after realizing he flunked his math quiz, despite copying his answers off Token's quiz.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And I'm supposed to believe that Token and his little sex kitten never even talked about it.”
@@ -6744,7 +6439,6 @@ Watch for:
 ## S22 E2 — 2. A Boy and a Priest
 URL: https://watchwiththekids.com/ep/south-park/2202.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: A very special relationship has developed between Butters and the Parish Priest. When the town finds the church doors locked and no sign of the pair, they call in the Catholic Church.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Father Maxi thinks they've been taken by the other priests! Taken by priests? Should we call the police or buy some condoms? [LAUGHS.]”
@@ -6764,7 +6458,6 @@ Watch for:
 ## S22 E3 — 3. The Problem with a Poo
 URL: https://watchwiththekids.com/ep/south-park/2203.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Mr. Hankey's offensive behavior puts him in jeopardy of being fired as the Director of the Annual Christmas Pageant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They can have their eggs fertilized by an unknown person's sperm in a lab.”
@@ -6794,7 +6487,6 @@ Watch for:
 ## S22 E4 — 4. Tegridy Farms
 URL: https://watchwiththekids.com/ep/south-park/2204.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The Vaping epidemic hits South Park Elementary
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -6822,7 +6514,6 @@ Watch for:
 ## S22 E5 — 5. The Scoots
 URL: https://watchwiththekids.com/ep/south-park/2205.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The kids plan to use the latest revolution in mobility to get more candy on Halloween than they have ever gotten before.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “[SHOTGUN COCKS.]”
@@ -6839,7 +6530,6 @@ Watch for:
 ## S22 E6 — 6. Time to Get Cereal
 URL: https://watchwiththekids.com/ep/south-park/2206.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys realize they need Al Gore's help when dead citizens start popping up all over town.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “We know that! What the hell are we gonna do?! Who was that ex-president guy? The one who showed up and tried to convince everyone of a ManBearPig? Mrph rmhmhm rm? Al Gore.”
@@ -6863,7 +6553,6 @@ Watch for:
 ## S22 E7 — 7. Nobody Got Cereal?
 URL: https://watchwiththekids.com/ep/south-park/2207.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys break out of jail and are on the run from the police and ManBearPig.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “But then, one night, I'm having sex with your grandma, and she sticks her finger in my ass.”
@@ -6888,7 +6577,6 @@ Watch for:
 ## S22 E8 — 8. Buddah Box
 URL: https://watchwiththekids.com/ep/south-park/2208.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: In "Buddha Box," Cartman discovered a foolproof way to tune out the rest of the world and enjoy some quality time on his phone.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “…advantage of my position?! - I'm not some two bit floozy - I'm not Harvey Weinstein, who goes around sleeping with the boss!”
@@ -6906,7 +6594,6 @@ Watch for:
 ## S22 E9 — 9. Unfulfilled
 URL: https://watchwiththekids.com/ep/south-park/2209.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: The citizens of South Park are enjoying all the perks of being a company town when the Amazon Fulfillment Center moves in. Everything is just swell until the contradictions inherent in capitalism threaten to bring the entire system down.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Some people say a man is made outta mud A poor man's made outta muscle and blood Muscle and blood and skin and bones A mind that's a-weak and a back that's strong You load 16 tons, what do you get?”
@@ -6922,10 +6609,9 @@ Watch for:
   - “I have a weed business to run! I need my shit from Amazon to make it all work! At what cost, sir?! Do you care that personal worth is being reduced by capitalists to exchange value?! Oh, yeah.”
   - IRISH SINGER: “Working me fingers to the bone I needs me a drink before goin' home Be back in the morning, pack boxes at dawn Workin' for Amazon Can I get a beer, please? Whatcha got on tap? Amazon, Amazon light, and Amazon IPA.”
 
-## S22 E10 — Bike Parade
+## S22 E10 — 10. Bike Parade
 URL: https://watchwiththekids.com/ep/south-park/2210.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The Bike Parade is still on, but the boys' chance of winning is in jeopardy when Kenny resists commercialism in solidarity with the Amazon Fulfillment Center's striking workers.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Who would use a bike parade like some $20 hooker? Kenny was right about you.”
@@ -6950,7 +6636,6 @@ Watch for:
 ## S23 E1 — 1. Mexican Joker
 URL: https://watchwiththekids.com/ep/south-park/2301.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy fights against home-grown. Meanwhile, Kyle goes to camp.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “What do you want? Do you remember last week you called me a butthole in front of Suzie Tobler? Yeah, 'cause you were gonna snap her bra.”
@@ -6982,7 +6667,6 @@ Watch for:
 ## S23 E2 — 2. Band in China
 URL: https://watchwiththekids.com/ep/south-park/2302.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Randy sees an opportunity for Tegridy in China.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Dad, why are you covered in honey and blood? Dad, did you kill Winnie the Pooh? Winnie the Pooh, Winnie the Pooh Oh, yeah, I did kill Winnie the Pooh.”
@@ -7002,7 +6686,6 @@ Watch for:
 ## S23 E3 — 3. Shots!!!
 URL: https://watchwiththekids.com/ep/south-park/2303.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Randy celebrates the success of Tegridy Farms; Cartman refuses to get a shot.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “That is for genital warts.”
@@ -7027,7 +6710,6 @@ Watch for:
 ## S23 E4 — 4. Let Them Eat Goo
 URL: https://watchwiththekids.com/ep/south-park/2304.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The citizens of South Park are moving toward a completely plant-based diet. Cartman is pretty sure the new food in the cafeteria gave him a heart attack.
 Watch for:
 - Swearing — 12 moment(s)
   - “The girls! - The girls? The fucking girls.”
@@ -7050,7 +6732,6 @@ Watch for:
 ## S23 E5 — 5. Tegridy Farms Halloween Special
 URL: https://watchwiththekids.com/ep/south-park/2305.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: It's Halloween and Randy is dealing with his daughter's marijuana problem. Butters gets an unexpected surprise when he visits the Egyptian Artifact exhibit at the Denver Museum.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hey, at least I didn't really have butt sex with Harvey Weinstein, huh? Huh? Or did I? Whoo! Happy Halloween, everybody!”
@@ -7077,7 +6758,6 @@ Watch for:
 ## S23 E6 — 6. Danger Close: The Battle of Long Tan
 URL: https://watchwiththekids.com/ep/south-park/2306.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The Mayor has evidence that Randy blew up his neighbor's yards in protest over homegrown weed and then blamed it on a Mexican Joker. Now the citizens of South Park have had enough of Randy and Tegridy Farms and they just want to lock him up.
 Watch for:
 - Swearing — 6 moment(s)
   - “No, fuck you, Rudy.”
@@ -7095,7 +6775,6 @@ Watch for:
 ## S23 E7 — 7. Board Girls
 URL: https://watchwiththekids.com/ep/south-park/2307.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The annual Strong Woman competition pushes everyone to their limits.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7125,7 +6804,6 @@ Watch for:
 ## S23 E8 — 8. Turd Burglars
 URL: https://watchwiththekids.com/ep/south-park/2308.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle's mom has a fecal transplant and the boys are on a quest for the best microbiome.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7146,7 +6824,6 @@ Watch for:
 ## S23 E9 — 9. Basic Cable
 URL: https://watchwiththekids.com/ep/south-park/2309.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Scott Malkinson's future with the new girl in his class depends on him getting the latest and greatest streaming platform. Scott's dad works for the local cable company and refuses to move beyond basic cable.
 Watch for:
 - Swearing — 12 moment(s)
   - “We don't need Disney fucking +, Scott! We've got cable, and that's enough.”
@@ -7162,10 +6839,9 @@ Watch for:
   - “" "PC Babies"? What the hell is this? Put it back to "Mandalorian," Jimmy.”
   - “Still sucks.”
 
-## S23 E10 — Christmas Snow
+## S23 E10 — 10. Christmas Snow
 URL: https://watchwiththekids.com/ep/south-park/2310.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: It's a bleak Christmas Season in South Park this year and it's all Santa's fault. He is single handedly stealing the joy from the holiday. The town just wants their Christmas Spirit back but that will take a Christmas miracle.
 Watch for:
 - Swearing — 12 moment(s)
   - “The fuck is this? JIMBO: There's like a chain blocking the liquor aisle.”
@@ -7191,10 +6867,9 @@ Watch for:
   - “The The most drunk-driving accidents than ever be We're trying to have fun here, Santa! - Okay, okay.”
   - “Come on! What the hell? I dunno, there's some kind of blockage in front of the booze section.”
 
-## S24 E97 — The Pandemic Special
+## S24 E97 — 97. The Pandemic Special
 URL: https://watchwiththekids.com/ep/south-park/2497.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Randy comes to terms with his role in the COVID-19 outbreak as the on-going pandemic presents continued challenges to the citizens of South Park. The kids happily head back to school but nothing resembles the normal that they once knew; not their teachers, not their homeroom, not even Eric Cartman.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - I mean, if you can handle a bat, then Then what? You ever have sex with a pangolin? What the fuck is a pangolin? [SPEAKS NATIVE LANGUAGE.]
@@ -7224,10 +6899,9 @@ Watch for:
   - “You guys are being racist!”
   - “This is This is racist television,”
 
-## S24 E98 — South ParQ Vaccination Special
+## S24 E98 — 98. South ParQ Vaccination Special
 URL: https://watchwiththekids.com/ep/south-park/2498.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: As the citizens of South Park are clamoring for the COVID-19 vaccine, a militant group tries to stop the boys from getting their teacher vaccinated.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “was found guilty of sex trafficking,”
@@ -7260,7 +6934,7 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - Oh, you fucking slut! This is why we keep old people in the back of the line! Cartman, just stick to the fucking plan! Oh, great, Kyle.
 
-## S24 E99 — Post COVID
+## S24 E99 — 99. Post COVID
 URL: https://watchwiththekids.com/ep/south-park/2499.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -7304,7 +6978,6 @@ Watch for:
 ## S25 E1 — 1. Pajama Day
 URL: https://watchwiththekids.com/ep/south-park/2501.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: After failing to show respect for their teacher, PC Principal revokes Pajama Day privileges for the entire 4th grade class. Cartman is distraught. The kids aren't going to stand for it but PC Principal refuses to back down.
 Watch for:
 - Violence & injury — 1 moment(s)
   - You redneck, gun toting piece of shit.
@@ -7320,7 +6993,6 @@ Watch for:
 ## S25 E2 — 2. The Big Fix
 URL: https://watchwiththekids.com/ep/south-park/2502.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Stan's horrified to realize he's misinterpreted some of the greatest writing of all time.
 Watch for:
 - Swearing — 7 moment(s)
   - Holy shit, that's what his name means? What did you think his name meant? Would you like to see how we grow and process our weed? You see, it's all about refinement.
@@ -7344,7 +7016,6 @@ Watch for:
 ## S25 E3 — 3. City People
 URL: https://watchwiththekids.com/ep/south-park/2503.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Cartman is furious with his mom when she tells him about her new job.
 Watch for:
 - Violence & injury — 1 moment(s)
   - We have to show them who's really in charge of this town Jimbo go to your gun store and get the necessary supplies.
@@ -7359,7 +7030,6 @@ Watch for:
 ## S25 E4 — 4. Back to the Cold War
 URL: https://watchwiththekids.com/ep/south-park/2504.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: A lot is riding on Butter's ability to crush the competition in the all-important dressage championship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - We're not gonna get a boner, and we're certainly not gonna have unwarranted sex with the ladies.
@@ -7380,7 +7050,6 @@ Watch for:
 ## S25 E5 — 5. Help, My Teenager Hates Me
 URL: https://watchwiththekids.com/ep/south-park/2505.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: The boys find out that the joys of playing Airsoft come with the challenges of dealing with teenagers.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - I wasn't talking anything about sexual orientation.
@@ -7412,7 +7081,6 @@ Watch for:
 ## S25 E6 — 6. Credigree Weed St. Patrick's Day Special
 URL: https://watchwiththekids.com/ep/south-park/2506.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Butters is shocked to learn that people in South Park don't understand what St. Patrick's Day is really about.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Do you know what sexual assault is?”
@@ -7440,7 +7108,6 @@ Watch for:
 ## S26 E1 — 1. Cupid Ye
 URL: https://watchwiththekids.com/ep/south-park/2601.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Cartman is jealous of the friendship that's developed between Kyle and Tolkien and decides to do something about it.
 Watch for:
 - Violence & injury — 2 moment(s)
   - about a dude who has guns for hands
@@ -7460,7 +7127,6 @@ Watch for:
 ## S26 E2 — 2. The World-Wide Privacy Tour
 URL: https://watchwiththekids.com/ep/south-park/2602.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: The prince of Canada and his wife try to find privacy and seclusion in a small mountain town.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7483,7 +7149,6 @@ Watch for:
 ## S26 E3 — 3. Japanese Toilet
 URL: https://watchwiththekids.com/ep/south-park/2603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: South Park learns about the wonders of Japanese toilets.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7512,7 +7177,6 @@ Watch for:
 ## S26 E4 — 4. Deep Learning
 URL: https://watchwiththekids.com/ep/south-park/2604.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
-Summary: Stan is reeling when a cheating scandal hits the school.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - cheating on her essay.
@@ -7526,7 +7190,6 @@ Watch for:
 ## S26 E5 — 5. DikinBaus Hot Dogs
 URL: https://watchwiththekids.com/ep/south-park/2605.html
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The South Park boys renovate and open an historic restaurant in Colorado.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - she's got droopy boobs.
@@ -7551,7 +7214,6 @@ Watch for:
 ## S26 E6 — 6. Spring Break
 URL: https://watchwiththekids.com/ep/south-park/2606.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
-Summary: Spring Break is an excuse for Garrison to jump back into his former depraved lifestyle.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - the Romanian sex trafficker!
@@ -7577,7 +7239,6 @@ Watch for:
 ## S27 E1 — 1. Sermon on the 'Mount
 URL: https://watchwiththekids.com/ep/south-park/2701.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When the residents of South Park face their possible demise, Jesus returns to give them an important message.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -7607,7 +7268,6 @@ Watch for:
 ## S27 E2 — 2. Got a Nut
 URL: https://watchwiththekids.com/ep/south-park/2702.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: When Mr. Mackey loses his job, he desperately tries to find a new way to make a living.
 Watch for:
 - Violence & injury — 2 moment(s)
   - good at is murdering babies.
@@ -7627,7 +7287,6 @@ Watch for:
 ## S27 E3 — 3. Sickofancy
 URL: https://watchwiththekids.com/ep/south-park/2703.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Towelie goes to Washington, D.C.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - sex with yourself again,
@@ -7652,7 +7311,6 @@ Watch for:
 ## S27 E4 — 4. Wok is Dead
 URL: https://watchwiththekids.com/ep/south-park/2704.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Butters experiences the reality of tariffs when he has to buy a Labubu doll for his girlfriend's birthday.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - You can just make out
@@ -7680,7 +7338,6 @@ Watch for:
 ## S27 E5 — 5. Conflict of Interest
 URL: https://watchwiththekids.com/ep/south-park/2705.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Kyle and Cartman are at odds when a prediction markets app gets popular with their fellow students.
 Watch for:
 - Swearing — 12 moment(s)
   - that was a fucking dude.
@@ -7701,7 +7358,6 @@ Watch for:
 ## S28 E1 — 1. Twisted Christian
 URL: https://watchwiththekids.com/ep/south-park/2801.html
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Cartman is possessed and may be the key to stopping the Antichrist.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - We haven't had sex in forever.
@@ -7729,7 +7385,6 @@ Watch for:
 ## S28 E2 — 2. The Woman in the Hat
 URL: https://watchwiththekids.com/ep/south-park/2802.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The White House deals with a disruptive spirit from the east wing; Stan worries that South Park has become too political.
 Watch for:
 - Swearing — 12 moment(s)
   - Yeah, it fucking sucks, doesn't it?
@@ -7748,7 +7403,6 @@ Watch for:
 ## S28 E3 — 3. Sora Not Sorry
 URL: https://watchwiththekids.com/ep/south-park/2803.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
-Summary: Butters' AI revenge plan backfires, igniting an epidemic of fake videos at school that leaves Detective Harris struggling to tell fantasy from reality.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - and I'm gonna have sex
@@ -7776,7 +7430,6 @@ Watch for:
 ## S28 E4 — 4. Turkey Trot
 URL: https://watchwiththekids.com/ep/south-park/2804.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The town's annual Turkey Trot turns chaotic when Cartman uses questionable "science" to win the race.
 Watch for:
 - Violence & injury — 2 moment(s)
   - We're racing with the Kiwanis Gun Club.
@@ -7801,7 +7454,6 @@ Watch for:
 ## S28 E5 — 5. The Crap Out
 URL: https://watchwiththekids.com/ep/south-park/2805.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - The President Vance So much sex.

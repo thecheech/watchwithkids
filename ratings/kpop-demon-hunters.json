@@ -25,63 +25,33 @@
   "count": 1,
   "episodes": [
     {
-      "season": 1,
+      "season": 0,
       "episode": 1,
-      "code": "0101",
+      "code": "0001",
       "title": "KPop Demon Hunters",
       "index_title": "KPop Demon Hunters",
       "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kpop-demon-hunters",
       "file": "transcripts/kpop-demon-hunters/0101-kpop-demon-hunters.txt",
-      "summary": "K-pop superstars Rumi, Mira and Zoey sell out stadiums by day and secretly defend their fans from demons by night — until a rival boy band, the Saja Boys, turns out to be demons stealing souls for their king, Gwi-Ma.",
-      "violence": 3,
+      "summary": null,
+      "violence": 1,
       "sex": 1,
       "language": 1,
-      "overall": 3,
-      "age": 10,
-      "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on violence & injury (moderate, implied).",
+      "overall": 1,
+      "age": 8,
+      "verdict": "Usually fine — about 8+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
       "themes": {
         "fine": [
-          "Light comedy tone"
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
         ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "“Bleeding isn't in my blood!”",
-            "count": 2,
-            "intensity": 2,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": null,
-                "text": "Bleeding isn't in my blood!",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "quote",
-                "speaker": null,
-                "text": "Took blood and tears to look natural!",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "early"
-              }
-            ]
-          }
-        ],
+        "watch": [],
+        "watch_detail": [],
         "optional": [],
         "optional_detail": [],
         "notes_extra": []
       },
-      "examples": [
-        "Violence & injury — “Bleeding isn't in my blood!”"
-      ],
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"

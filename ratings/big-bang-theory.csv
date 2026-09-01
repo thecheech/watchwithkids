@@ -14,7 +14,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 1,12,0112,The Jerusalem Duality,3,2,2,3,10,Preview first — about 10+,Sex & hookups — Raj: “She was sleeping with you?”
 1,13,0113,The Bat Jar Conjecture,1,1,3,3,10,Preview first — about 10+,"Sex & hookups — Leslie: “Rest assured that any aspects of our sexual relationship regarding your preferences, your idiosyncrasies, your performance, are still protected by the inherent confidentiality of the bedroom.”"
 1,14,0114,The Nerdvana Annihilation,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — Sheldon: “In Back to the Future, Marty McFly got the opportunity to hook up with his extremely attractive young mother.”"
-1,15,0115,The Porkchop Indeterminacy,1,4,3,4,13,Skip for under 13,Sex & hookups — Sheldon: “Am I? Here. Eat this cheese without farting and you can sleep with my sister.”
+1,15,0115,The Porkchop Indeterminacy,1,3,3,3,10,Preview first — about 10+,Sex & hookups — Sheldon: “Am I? Here. Eat this cheese without farting and you can sleep with my sister.”
 1,16,0116,The Peanut Reaction,2,4,2,4,13,Skip for under 13,"Sex & hookups — Howard: “I suppose that’s possible, but for the record, I’ve never had a threesome and yet I still know I want one.”"
 1,17,0117,The Tangerine Factor,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — Leonard: “Okay, well, what exactly did this guy write, not that I need to know the details of your sex life, I just thought…. never mind.”"
 2,1,0201,The Bad Fish Paradigm,1,2,1,2,10,Mild — okay from about 10+,Nudity & bodies — Sheldon: “Forget! You want me to forget? This mind does not forget. I haven’t forgotten a single thing since the day my mother stopped breast feeding me. It was a drizzly Tuesday.”
@@ -192,7 +192,6 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 9,8,0908,The Mystery Date Observation,1,1,2,2,10,Mild — okay from about 10+,"Sex & hookups — Bernadette: “Yeah, it’s your third date, maybe you could go more sexy.”"
 9,9,0909,The Platonic Permutation,2,3,1,3,10,Preview first — about 10+,Sex & hookups — Sheldon: “How many dates have you been on? Who were they with? Where’d you go? Where did you meet them? Did you sleep with them? And how much longer to the aquarium? I’m getting kind of hungry.”
 9,10,0910,The Earworm Reverberation,1,1,1,1,10,Usually fine — about 10+,"Nudity & bodies — Raj: “Dude, if I was wearing a bra, I’d throw it at your head right now.”"
-9,11,0911,The Opening Night Excitation,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — Arthur: “Uh, beats me. I, I just hope this isn’t a, a sex dream.”"
 9,12,0912,The Sales Call Sublimation,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — Penny: “How can I not sound like his mother when our entire bedroom is filled with Star Wars toys? I mean, have you ever had sex with a stuffed Wookiee watching you?”"
 9,13,0913,The Empathy Optimisation,1,4,1,4,13,Skip for under 13,"Nudity & bodies — Sheldon: “Well, I’ve been on a little trip myself recently. Not to Sin City but to Sincere City. Where instead of genital warts, the only growth you’ll come back with is personal growth.”"
 9,14,0914,The Meemaw Materialisation,1,4,2,4,13,Skip for under 13,"Sex & hookups — Howard: “And made up my mind, I’ll ask for a threesome and if they say no, play it off as a joke.”"
@@ -222,7 +221,6 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 10,14,1014,The Emotion Detection Automation,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — Sheldon: “Of course you’re fine. Not every member of a species finds a mate. Sir Isaac Newton died a virgin, look at the contributions he made.”"
 10,15,1015,The Locomotion Reverberation,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — Howard: “Well, my wife is four-foot-ten and sexually satisfied, so clearly I know my way around tiny things.”"
 10,16,1016,The Allowance Evaporation,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — Bert: “Well, I really envy your relationship. Other than you two only having sex once a year, you’re the perfect couple.”"
-10,17,1017,The Comic-Con Conundrum,2,1,1,2,10,Mild — okay from about 10+,"Sex & hookups — Raj: “Yeah, you’d think. Ooh, maybe I could sell my blood and sperm.”"
 10,18,1018,The Escape Hatch Identification,1,2,1,2,10,Mild — okay from about 10+,Sex & hookups — Howard: “He also never had sex in that room. That’s something else to look forward to.”
 10,19,1019,The Collaboration Fluctuation,1,4,2,4,13,Skip for under 13,"Sex & hookups — Sheldon: “All right, let’s start right now. Uh, rule number one, no using sexuality to get your way.”"
 10,20,1020,The Recollection Dissipation,1,2,2,2,10,Mild — okay from about 10+,"Nudity & bodies — Sheldon: “At, at the lab? Why am I naked from the waist down?”"
@@ -233,27 +231,27 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 11,1,1101,1. The Proposal Proposal,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — “Some suggestion of make-up sex that did not go over well, even though it's not like we can get more pregnant.”"
 11,2,1102,2. The Retraction Reaction,1,1,3,3,10,Preview first — about 10+,"Swearing — “"" He said that to your face? What a dick.”"
 11,3,1103,3. The Relaxation Integration,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — “Mm, it's true-- Freud thought dreams were about sex, Adler thought they were about dominance Then again, mine are just about being married to this little guy.”"
-11,4,1104,4. The Explosion Implosion,1,2,2,2,10,Mild — okay from about 10+,"Nudity & bodies — “Oh, hey, hey, what do you think? Just because it's a boy, I don't think you need to put a picture of genitals on his shirt.”"
+11,4,1104,4. The Explosion Implosion,1,1,2,2,10,Mild — okay from about 10+,"Nudity & bodies — “Oh, hey, hey, what do you think? Just because it's a boy, I don't think you need to put a picture of genitals on his shirt.”"
 11,5,1105,5. The Collaboration Contamination,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — “Yeah, no more stories about sex, so, Amy, that brings us to you.”"
 11,6,1106,6. The Proton Regeneration,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — “So was having sex, and look where that got us.”"
 11,7,1107,7. The Geology Methodology,2,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — “We ordered in some food, we had sex, I left.”"
 11,8,1108,8. The Tesla Recoil,1,3,3,3,10,Preview first — about 10+,Sex & hookups — “You're just saying that 'cause she's sleeping with you.”
 11,9,1109,9. The Bitcoin Entanglement,2,2,2,2,10,Mild — okay from about 10+,"Porn / strippers / sex work — “Wow, I-I knew you were single back then, but that is a lot of porn Science! A lot of science.”"
-11,10,1110,The Confidence Erosion,2,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — “You're gonna make me forget I've been stuck in bed while a baby uses my bladder as a kickball? (knocking) Hey, you had unprotected sex with Howard.”"
-11,11,1111,The Celebration Reverberation,1,2,1,2,10,Mild — okay from about 10+,Sex & hookups — “Everyone knows the best foreplay is rigid adherence to a strict schedule.”
-11,12,1112,The Matrimonial Metric,1,2,2,2,10,Mild — okay from about 10+,Nudity & bodies — “Is it about his special underwear? Because I already know.”
-11,13,1113,The Solo Oscillation,2,1,1,2,10,Mild — okay from about 10+,"Sex & hookups — “Otherwise, Justin would never have brought sexy back.”"
-11,14,1114,The Separation Triangulation,1,3,2,3,10,Preview first — about 10+,Sex & hookups — “How is it gonna be okay? You're sleeping with my wife.”
-11,15,1115,The Novelization Correlation,3,1,2,3,10,Preview first — about 10+,Violence & injury — “Oh! I just thought of the murder weapon! Swiss army knife? (laughs) No.”
-11,16,1116,The Neonatal Nomenclature,1,3,2,3,10,Preview first — about 10+,Sex & hookups — “Why are you smiling? I had sex twice last night.”
-11,17,1117,The Athenaeum Allocation,2,1,2,2,10,Mild — okay from about 10+,Sex & hookups — “Is it too sexy? It's too something.”
-11,18,1118,The Gates Excitation,1,2,1,2,10,Mild — okay from about 10+,"Porn / strippers / sex work — “Plenty of people do that: businessmen, high-end prostitutes.”"
-11,19,1119,The Tenant Disassociation,2,2,1,2,10,Mild — okay from about 10+,Sex & hookups — “All hooked up.”
-11,20,1120,The Reclusive Potential,1,3,1,3,10,Preview first — about 10+,"Nudity & bodies — “Well, I wish I could say none of that is gonna happen, but Penny is planning it, and she is the reason I own those underwear with writing across the butt.”"
-11,21,1121,The Comet Polarization,1,1,2,2,10,Mild — okay from about 10+,
-11,22,1122,The Monetary Insufficiency,1,1,1,1,10,Usually fine — about 10+,"Nudity & bodies — “Well, I've got a push-up bra I can loan you that always gets me free drinks.”"
-11,23,1123,The Sibling Realignment,2,2,2,2,10,Mild — okay from about 10+,Sex & hookups — “Y-You wouldn't be paying for sex.”
-11,24,1124,The Bow Tie Asymmetry,1,1,2,2,10,Mild — okay from about 10+,"Racism & slurs — “Mom Oh, so now it's racist to notice when somebody's Indian.”"
+11,10,1110,10. The Confidence Erosion,2,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — “You're gonna make me forget I've been stuck in bed while a baby uses my bladder as a kickball? (knocking) Hey, you had unprotected sex with Howard.”"
+11,11,1111,11. The Celebration Reverberation,1,2,1,2,10,Mild — okay from about 10+,Sex & hookups — “Everyone knows the best foreplay is rigid adherence to a strict schedule.”
+11,12,1112,12. The Matrimonial Metric,1,2,2,2,10,Mild — okay from about 10+,Nudity & bodies — “Is it about his special underwear? Because I already know.”
+11,13,1113,13. The Solo Oscillation,2,1,1,2,10,Mild — okay from about 10+,"Sex & hookups — “Otherwise, Justin would never have brought sexy back.”"
+11,14,1114,14. The Separation Triangulation,1,3,2,3,10,Preview first — about 10+,Sex & hookups — “How is it gonna be okay? You're sleeping with my wife.”
+11,15,1115,15. The Novelization Correlation,3,1,2,3,10,Preview first — about 10+,Violence & injury — “Oh! I just thought of the murder weapon! Swiss army knife? (laughs) No.”
+11,16,1116,16. The Neonatal Nomenclature,1,3,2,3,10,Preview first — about 10+,Sex & hookups — “Why are you smiling? I had sex twice last night.”
+11,17,1117,17. The Athenaeum Allocation,2,1,2,2,10,Mild — okay from about 10+,Sex & hookups — “Is it too sexy? It's too something.”
+11,18,1118,18. The Gates Excitation,1,2,1,2,10,Mild — okay from about 10+,"Porn / strippers / sex work — “Plenty of people do that: businessmen, high-end prostitutes.”"
+11,19,1119,19. The Tenant Disassociation,2,2,1,2,10,Mild — okay from about 10+,Sex & hookups — “All hooked up.”
+11,20,1120,20. The Reclusive Potential,1,3,1,3,10,Preview first — about 10+,"Nudity & bodies — “Well, I wish I could say none of that is gonna happen, but Penny is planning it, and she is the reason I own those underwear with writing across the butt.”"
+11,21,1121,21. The Comet Polarization,1,1,2,2,10,Mild — okay from about 10+,
+11,22,1122,22. The Monetary Insufficiency,1,1,1,1,10,Usually fine — about 10+,"Nudity & bodies — “Well, I've got a push-up bra I can loan you that always gets me free drinks.”"
+11,23,1123,23. The Sibling Realignment,2,2,2,2,10,Mild — okay from about 10+,Sex & hookups — “Y-You wouldn't be paying for sex.”
+11,24,1124,24. The Bow Tie Asymmetry,1,1,2,2,10,Mild — okay from about 10+,"Racism & slurs — “Mom Oh, so now it's racist to notice when somebody's Indian.”"
 12,1,1201,1. The Conjugal Configuration,1,3,1,3,10,Preview first — about 10+,Sex & hookups — “You're gonna have to find some other way to not have sex with me tonight.”
 12,2,1202,2. The Wedding Gift Wormhole,1,2,1,2,10,Mild — okay from about 10+,"Nudity & bodies — “A flute, a letter opener, one of those pens where you put the bikini back on the naked lady.”"
 12,3,1203,3. The Procreation Calculation,1,2,2,2,10,Mild — okay from about 10+,Nudity & bodies — “I'd have to change all the tags in my underwear.”
@@ -263,18 +261,18 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 12,7,1207,7. The Grant Allocation Derivation,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — “I'm gonna hook up the garden hose, so it has running water.”"
 12,8,1208,8. The Consummation Deviation,1,3,1,3,10,Preview first — about 10+,Sex & hookups — “(chuckles) I think we should have sex.”
 12,9,1209,9. The Citation Negation,1,2,3,3,10,Preview first — about 10+,Affairs / cheating — “I'm having an affair.”
-12,10,1210,The VCR Illumination,1,3,2,3,10,Preview first — about 10+,"Sex & hookups — “Okay, all hooked up.”"
-12,11,1211,The Paintball Scattering,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — “And did you give it to him? Did you give him his stuff? If ""stuff"" means sex, then no.”"
-12,12,1212,The Propagation Proposition,1,2,2,2,10,Mild — okay from about 10+,Sex & hookups — “Just because I slept with your wife doesn't mean you get to sleep with mine.”
-12,13,1213,The Confirmation Polarization,1,1,2,2,10,Mild — okay from about 10+,
-12,14,1214,The Meteorite Manifestation,1,1,1,1,10,Usually fine — about 10+,
-12,15,1215,The Donation Oscillation,1,3,1,3,10,Preview first — about 10+,"Sex & hookups — “And they say, for the best results, between now and then, you shouldn't have sex.”"
-12,16,1216,The D & D Vortex,2,1,2,2,10,Mild — okay from about 10+,"Affairs / cheating — “(stammers) Wait, if you think I'm lying, why do you think I'm eating pies? Why don't you think I'm having an affair? Listen, i-it's fine, just next time, bring me a slice.”"
-12,17,1217,The Conference Valuation,1,1,2,2,10,Mild — okay from about 10+,
-12,18,1218,The Laureate Accumulation,2,1,2,2,10,Mild — okay from about 10+,Sex & hookups — “Sometimes I forget you're smart because you're so sexy.”
-12,19,1219,The Inspiration Deprivation,1,1,2,2,10,Mild — okay from about 10+,"Sex & hookups — “Yeah, only condoms.”"
-12,20,1220,The Decision Reverberation,1,3,1,3,10,Preview first — about 10+,Sex & hookups — “I want to have sex.”
-12,21,1221,The Plagiarism Schism,2,4,2,4,13,Skip for under 13,Sex & hookups — “And someone is sleeping with his ex-wife and it's not me.”
-12,22,1222,The Maternal Conclusion,1,2,1,2,10,Mild — okay from about 10+,"Nudity & bodies — “Fruit or naked dudes? Actually, it doesn't matter, I'm jealous of both.”"
-12,23,1223,The Change Constant; The Stockholm Syndrome,2,3,2,3,10,Preview first — about 10+,"Sex & hookups — “Heck, you've had sex almost as many times as I have fingers.”"
-12,90,1290,Unraveling The Mystery: A Big Bang Farewell,2,4,2,4,13,Skip for under 13,Nudity & bodies — Explicit body / sex-act language appears in dialogue.
+12,10,1210,10. The VCR Illumination,1,3,2,3,10,Preview first — about 10+,"Sex & hookups — “Okay, all hooked up.”"
+12,11,1211,11. The Paintball Scattering,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — “And did you give it to him? Did you give him his stuff? If ""stuff"" means sex, then no.”"
+12,12,1212,12. The Propagation Proposition,1,2,2,2,10,Mild — okay from about 10+,Sex & hookups — “Just because I slept with your wife doesn't mean you get to sleep with mine.”
+12,13,1213,13. The Confirmation Polarization,1,1,2,2,10,Mild — okay from about 10+,
+12,14,1214,14. The Meteorite Manifestation,1,1,1,1,10,Usually fine — about 10+,
+12,15,1215,15. The Donation Oscillation,1,3,1,3,10,Preview first — about 10+,"Sex & hookups — “And they say, for the best results, between now and then, you shouldn't have sex.”"
+12,16,1216,16. The D & D Vortex,2,1,2,2,10,Mild — okay from about 10+,"Affairs / cheating — “(stammers) Wait, if you think I'm lying, why do you think I'm eating pies? Why don't you think I'm having an affair? Listen, i-it's fine, just next time, bring me a slice.”"
+12,17,1217,17. The Conference Valuation,1,1,2,2,10,Mild — okay from about 10+,
+12,18,1218,18. The Laureate Accumulation,2,1,2,2,10,Mild — okay from about 10+,Sex & hookups — “Sometimes I forget you're smart because you're so sexy.”
+12,19,1219,19. The Inspiration Deprivation,1,1,2,2,10,Mild — okay from about 10+,"Sex & hookups — “Yeah, only condoms.”"
+12,20,1220,20. The Decision Reverberation,1,3,1,3,10,Preview first — about 10+,Sex & hookups — “I want to have sex.”
+12,21,1221,21. The Plagiarism Schism,2,4,2,4,13,Skip for under 13,Sex & hookups — “And someone is sleeping with his ex-wife and it's not me.”
+12,22,1222,22. The Maternal Conclusion,1,2,1,2,10,Mild — okay from about 10+,"Nudity & bodies — “Fruit or naked dudes? Actually, it doesn't matter, I'm jealous of both.”"
+12,23,1223,23. The Change Constant; The Stockholm Syndrome,2,3,2,3,10,Preview first — about 10+,"Sex & hookups — “Heck, you've had sex almost as many times as I have fingers.”"
+12,90,1290,90. Unraveling The Mystery: A Big Bang Farewell,2,4,2,4,13,Skip for under 13,Nudity & bodies — Explicit body / sex-act language appears in dialogue.

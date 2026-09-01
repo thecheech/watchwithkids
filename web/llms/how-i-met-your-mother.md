@@ -2,12 +2,11 @@
 
 Source: https://watchwiththekids.com/how-i-met-your-mother.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 28 all clear (1–2), 83 gray area (3), 97 hard pass (4–5).
+Buckets: 29 all clear (1–2), 82 gray area (3), 97 hard pass (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0101.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Ted meets Robin in a neighborhood bar, immediately becomes smitten and even scores a first date. But, when Robin must leave in the middle of the date, Ted can hardly wait to see her again, and his eagerness threatens to scare her away. Ted realizes Robin may not be as easy to catch as he had hoped, and it becomes apparent that he may have to meet a few more women before he finds his true love.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “And then you're engaged, you pop the champagne, you drink a toast, you have sex on the kitchen floor.”
@@ -35,7 +34,6 @@ Watch for:
 ## S1 E2 — 2. Purple Giraffe
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0102.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: Ted hosts a series of parties at his apartment in an attempt to spend some time with Robin in a more casual setting.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “But may I suggest one little modification? BARNEY: That foxy young thing you were chatting up? Take her up to the roof and have sex with her.”
@@ -53,7 +51,6 @@ Watch for:
 ## S1 E3 — 3. Sweet Taste of Liberty
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0103.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: Barney is willing to go to any heights -- including 35,000 feet -- to spice up Ted's love life.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It's just a whole bunch of condoms.”
@@ -64,7 +61,6 @@ Watch for:
 ## S1 E4 — 4. Return of the Shirt
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0104.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Ted's whole outlook on his continuing search for love is altered when he rediscovers a shirt that has not seen daylight in years.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Did you sleep with her sister? - No.”
@@ -88,7 +84,6 @@ Watch for:
 ## S1 E5 — 5. Okay Awesome
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0105.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Ted and Barney hit the club scene with Robin, as Lily and Marshall try to partake in some more mature adult activities.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Not exactly a VIP room virgin.”
@@ -114,7 +109,6 @@ Watch for:
 ## S1 E6 — 6. Slutty Pumpkin
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0106.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Ted makes his yearly pilgrimage to the rooftop Halloween party in search of a girl dressed as a pumpkin who he met years ago.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I'm also a horny devil.”
@@ -142,7 +136,6 @@ Watch for:
 ## S1 E7 — 7. Matchmaker
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0107.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted turns to a matchmaker to find love, he is sent away matchless.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Shake well, then sleep with.”
@@ -158,7 +151,6 @@ Watch for:
 ## S1 E8 — 8. The Duel
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0108.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: Ted and Marshall decide to settle the battle over who will get to keep their apartment like "mature" men -- with a good old-fashioned sword fight.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Hi there, sexy.”
@@ -174,7 +166,6 @@ Watch for:
 ## S1 E9 — 9. Belly Full of Turkey
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0109.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
-Summary: When Ted and Robin give thanks by volunteering at a homeless shelter on Thanksgiving Day, they are shocked when they see the last person they would ever expect doing good for others.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I used to be, but I just wasn't enough woman for Ted, emotionally, or sexually.”
@@ -187,10 +178,9 @@ Watch for:
   - “Cranberry juice, potato vodka, and a bouillon cube.”
   - “You peed on a church? I peed in an alley, which happened to have a church, which I did not see, because I was drunk.”
 
-## S1 E10 — The Pineapple Incident
+## S1 E10 — 10. The Pineapple Incident
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0110.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: After Ted overdoes it during a night out on the town, his friends help him to put together the pieces of his antics the next morning.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “She's like half boob.”
@@ -211,10 +201,9 @@ Watch for:
   - “We're drunk.”
   - “You turn off your brain for a night, and all you're left with the next day is a bad hangover, a sprained ankle and a pineapple.”
 
-## S1 E11 — The Limo
+## S1 E11 — 11. The Limo
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0111.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: Ted surprises his friends with a styling and well-planned out New Year's Eve excursion around the Big Apple.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Thank God I got through! - Hey, sexy.”
@@ -224,10 +213,9 @@ Watch for:
   - “So, where are you from, Natalya? - She Who knows? The former Soviet Republic of Drunk-off-her-ass-istan? Super drunk fantastic, huh? (MUMBLING) Isn't she awesome? - How are your feet doing, baby? - Oh, okay.”
   - “Laugh for the sad clown trapped on his whirling carousel of suits, and cigars, and bimbos, and booze.”
 
-## S1 E12 — The Wedding
+## S1 E12 — 12. The Wedding
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0112.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: Robin accepts Ted's invite to a friend's wedding, but thanks to Ted, the couple may never make it down the aisle.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Claudia and Stuart? I mean, I've hooked up with the odd lass who was beneath my level of attractiveness.”
@@ -242,10 +230,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “This morning at the rehearsal, Claudia called our 7-year-old flower girl a whore.”
 
-## S1 E13 — Drumroll, Please
+## S1 E13 — 13. Drumroll, Please
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0113.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Smitten with a woman he meets at the wedding, Ted decides to play it cool for a change and his all night romantic adventure with her doesn't even lead to a kiss or a phone number.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I never hook up at weddings.”
@@ -264,10 +251,9 @@ Watch for:
   - “Let's drink many beers.”
   - “My new husband and vodka cranberry, which cost $10.”
 
-## S1 E14 — Zip, Zip, Zip
+## S1 E14 — 14. Zip, Zip, Zip
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0114.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Marshall and Lily decide to go away for their anniversary, Ted and Victoria decide to take things to the next level.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - “You've only had sex with one girl in your whole life.”
@@ -289,10 +275,9 @@ Watch for:
   - “I was this close to being a huge slut.”
   - “Slut would have been better.”
 
-## S1 E15 — Game Night
+## S1 E15 — 15. Game Night
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0115.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When a tape from Barney's ex-girlfriend is viewed by the gang, everyone must share their most embarrassing moment in order to get the full story from Barney on how she broke his heart and how their breakup changed him into the suit wearing bachelor he is today.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I'm thinking floor sex.”
@@ -310,10 +295,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Oh, slut-alert! Oh, great, there it is.”
 
-## S1 E16 — Cupcake
+## S1 E16 — 16. Cupcake
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0116.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Victoria is offered a fellowship at a culinary institute in Germany, she and Ted are faced with some tough relationship decisions.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It's all taIking and no sex.”
@@ -326,10 +310,9 @@ Watch for:
   - “Well, at least we get free champagne.”
   - “Dollar beer night.”
 
-## S1 E17 — Life Among the Gorillas
+## S1 E17 — 17. Life Among the Gorillas
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0117.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Marshall takes an internship at Barney's company, he changes his entire personality in order to fit in.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “But will you be happy, knowing you could have made her a lot happier? And all four are totally naked.”
@@ -340,10 +323,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “But if those guys try to pressure you to smoke, what do you say? - Only when I'm drunk.”
 
-## S1 E18 — Nothing Good Happens After 2 A.M.
+## S1 E18 — 18. Nothing Good Happens After 2 A.M.
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0118.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Ted accepts a late night invitation to Robin's place, the consequences prove to be disastrous.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “We should have sex.”
@@ -360,10 +342,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Or we could just drink wine.”
 
-## S1 E19 — Mary the Paralegal
+## S1 E19 — 19. Mary the Paralegal
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0119.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When the gang is invited to a banquet to support Robin for a local news nomination, Barney secures a hot "date" for Ted.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “To bring to the banquet and hang out with ironically - or to actually have sex with? - Yes.”
@@ -388,10 +369,9 @@ Watch for:
   - “Moron in my face? Oh, and Paralegally Blonde isn't here in her low-cut dress to make me jealous? Oh, so now she's a whore? - What? - You know something? Mary the paralegal is awesome.”
   - “So the message is, I should treat every woman like a whore? Come on, dude.”
 
-## S1 E20 — Best Prom Ever
+## S1 E20 — 20. Best Prom Ever
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0120.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Lily's wedding date is pushed up, she crashes a high school prom with Barney and Robin in order to hear a potential band for the big day.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “At the wedding, do not sleep with anyone even remotely related to me.”
@@ -409,20 +389,18 @@ Watch for:
   - “Now, ladies, slut up.”
   - “They grow up into skanks so fast, don't they, Ted? - So, what, we ready for tonight? - Yeah.”
 
-## S1 E21 — Milk
+## S1 E21 — 21. Milk
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0121.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When a matchmaking company calls Ted claiming they have found his soul mate, he is forced to postpone his date when Lily asks for his help.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “You're going to show me your hair? Actually, I was going to show you my breasts, but, sure, we can do hair.”
 - Violence & injury — 1 moment(s)
   - “Are you guys planning on punching some holes in that box? Of course we are.”
 
-## S1 E22 — Come On
+## S1 E22 — 22. Come On
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0122.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: While Ted makes one last attempt to win Robin's heart, Marshall and Lily are at odds.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I was hoping to finally have sex with you this weekend, Scherbatsky.”
@@ -445,7 +423,6 @@ Watch for:
 ## S2 E1 — 1. Where Were We?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0201.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: While Marshall begins his summer forlorn over his break-up with Lily, Ted and Robin couldn't be happier with their budding romance.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I got to hand it to you, when he got home, Marshall was smiling-- did you sleep with him? 'Cause I was actually, like, three days away from suggesting that.”
@@ -477,7 +454,6 @@ Watch for:
 ## S2 E2 — 2. The Scorpion and the Toad
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0202.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Lily returns from San Francisco claiming that she had the summer of her life, but her friends soon see through the veneer.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Well, I guess we're just a threesome tonight.”
@@ -493,7 +469,6 @@ Watch for:
 ## S2 E3 — 3. Brunch
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0203.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Ted's parents come to New York for a visit, their weekend ends up being far from the ordinary when a colossal family secret is unveiled.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I hooked up with a waitress.”
@@ -508,7 +483,6 @@ Watch for:
 ## S2 E4 — 4. Ted Mosby: Architect
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0204.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Barney tries to prove to Ted that his job as an architect is anything but boring by showing him that it is a great way to pick up women, a jealous Robin tracks down her man after hearing of his antics.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “And thus ended this chapter of, "Let's pour our hearts out in the bedroom of Barney's one-night stand.”
@@ -538,7 +512,6 @@ Watch for:
 ## S2 E5 — 5. World's Greatest Couple
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0205.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Lily moves in with Barney, the trials and tribulations of their relationship may prove too much for Barney to handle.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “How would you like to extend your stay here? All you'd have to do is pretend to be my wife, and scare off the occasional one-night stand.”
@@ -561,7 +534,6 @@ Watch for:
 ## S2 E6 — 6. Aldrin Justice
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0206.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
-Summary: While Barney makes it his job to satisfy Marshall's disgruntled law professor, Lily goes to work for Ted's architecture company and tries to teach Ted's big boss a big lesson.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I didn't challenge you to have sex - Tomorrow, the cougar hunt begins.”
@@ -581,7 +553,6 @@ Watch for:
 ## S2 E7 — 7. Swarley
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0207.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Marshall goes on his first real date post-Lily, Ted and Barney try to convince him the girl is crazy.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Would you like to have a threesome? Of course.”
@@ -599,7 +570,6 @@ Watch for:
 ## S2 E8 — 8. Atlantic City
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0208.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: It's no day at the beach for Lily and Marshall when complications alter their Atlantic City wedding plans.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Lily totally ran off to San Francisco and these two just had sex in the closet.”
@@ -618,7 +588,6 @@ Watch for:
 ## S2 E9 — 9. Slap Bet
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0209.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Barney uncovers Robin's secret past and the real reason behind her strong aversion to malls.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “She does have the fake orgasm noises down.”
@@ -636,10 +605,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I need another beer.”
 
-## S2 E10 — Single Stamina
+## S2 E10 — 10. Single Stamina
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0210.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: While Barney struggles with the fact that all of his friends have settled into the boring state of "coupledom," his number one wingman, his gay, black brother James, arrives on the scene.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I'm a pretty girl and everybody everywhere wants to buy me drinks and have sex with me.”
@@ -656,10 +624,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Damn baby, nice tramp stamp! - Get off me, you pig! - Hey! Hey! Her body art is not an invitation to grope her, it's an expression of her inner self.”
 
-## S2 E11 — How Lily Stole Christmas
+## S2 E11 — 11. How Lily Stole Christmas
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0211.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: Nobody likes a "grinch," so the Christmas-stealing Lily must be stopped after she threatens to ruin the gang's plans of a joyous holiday together due to a brawl with Ted.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Are you sick? Is it sick to find maturity and experience sexy? No, I meant do you have a cold? I'm fine.”
@@ -672,10 +639,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I'm telling you, she's a laugh slut.”
 
-## S2 E12 — First Time in New York
+## S2 E12 — 12. First Time in New York
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0212.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Robin tries to talk her younger sister out of losing her virginity, Barney recalls his "dirty" first time as the gang shares stories with each other about their first experiences.
 Watch for:
 - Sex & hookups — 8 moment(s)
   - “You meet, you talk, you have sex, you exit when she's in the shower.”
@@ -694,10 +660,9 @@ Watch for:
   - “No, it shows that you're an I-love-you slut.”
   - “But, you know, I'm such a slut, I'm just gonna give it away.”
 
-## S2 E13 — Columns
+## S2 E13 — 13. Columns
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0213.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Marshall is tormented by his pals after they discover a nude painting of him by Lily, but then in a twist of fate she and Marshall figure out a way to capitalize on her painting expertise.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - “Did you see what he was wearing today? It was like his pants were being held up by his nipples.”
@@ -710,10 +675,9 @@ Watch for:
   - “Come on, Ted, listen, why don't we get back and finish drawing the plans for a building which, in my opinion, is never going to get built, so you and I can get out of here and grab a couple of beers.”
   - “Margarita Fridays-- great idea, boss.”
 
-## S2 E14 — Monday Night Football
+## S2 E14 — 14. Monday Night Football
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0214.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When a funeral prevents the gang from watching the Super Bowl live, the group makes a pact not to find out who won before watching the game together the following night.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - “Remember last year? Who wants to watch a monkey in a coconut bra order a pizza? Oh, my God.”
@@ -723,10 +687,9 @@ Watch for:
   - “Marshall, you're on beer detail.”
   - “Beer still works.”
 
-## S2 E15 — Lucky Penny
+## S2 E15 — 15. Lucky Penny
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0215.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
-Summary: When Ted picks up a "lucky" penny, a maelstrom of bad luck ensues, but picking up the penny may be the best thing that Ted has ever done.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -735,10 +698,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “That way, no energy is wasted, and it's all about the run.”
 
-## S2 E16 — Stuff
+## S2 E16 — 16. Stuff
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0216.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: After taking heat from Robin for holding on to all of his stuff from ex-girlfriends, Ted gives in and parts ways with all of the items -- only to discover something that puts Robin in the dog house.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Okay, so you have to have sex with one.”
@@ -752,10 +714,9 @@ Watch for:
   - “Why is this such a big deal? Because I don't want to use some whore's moisturizer! Whoa, she wasn't a whore.”
   - “It sounds like a whore to me.”
 
-## S2 E17 — Arrivederci, Fiero
+## S2 E17 — 17. Arrivederci, Fiero
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0217.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Marshall's beloved Fiero gives out just shy of 200,000 miles, the gang recalls all of their great memories in the car.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I'm not going to get tied down by the first chick I hook up with.”
@@ -764,10 +725,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “The suicidal cat.”
 
-## S2 E18 — Moving Day
+## S2 E18 — 18. Moving Day
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0218.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: As Ted and Robin reach a new milestone in their relationship, Barney does everything in his power to hijack their happiness.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “So, you get to have sex and we get to wake some skanky girl up in the morning and kick her out? God, Lily.”
@@ -787,10 +747,9 @@ Watch for:
   - “I did it, baby! I got beer.”
   - “We're drinking champagne in the back of a moving van.”
 
-## S2 E19 — Bachelor Party
+## S2 E19 — 19. Bachelor Party
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0219.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: After Barney ruins Marshall's bachelor party plans, Lily reveals a shocking secret about Barney that causes Marshall to rethink who his best man should be.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Marriage is like jail! Right, fellas?! But at least in jail, you get to have sex! But we're not lighting these babies up, till we get to the A.”
@@ -810,10 +769,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Would you pass the wine, please? - No.”
 
-## S2 E20 — Showdown
+## S2 E20 — 20. Showdown
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0220.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Barney is ecstatic about his appearance on the "The Price Is Right" because he has wanted to meet Bob Barker his entire life.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Why don't you kiss? I love it when two chicks make out.”
@@ -825,10 +783,9 @@ Watch for:
   - “I'm gonna go grab a beer.”
   - “Back when we were all freshman and Marshall and Lily were just a few short weeks into their relationship It was 4:00 in the morning, and I'm not gonna lie, we were a wee bit wasted.”
 
-## S2 E21 — Something Borrowed
+## S2 E21 — 21. Something Borrowed
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0221.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: By the time their wedding day arrives, nothing seems to be the way Marshall and Lily had envisioned, but surprisingly Barney jumps in to try to save their special day.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - “I have hairy nipples.”
@@ -841,10 +798,9 @@ Watch for:
   - “Oh, I need a glass of wine.”
   - “I want I want Scooter! I need a glass of wine.”
 
-## S2 E22 — Something Blue
+## S2 E22 — 22. Something Blue
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0222.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Barney overhears that Ted and Robin have a secret at the wedding reception, he begins to speculate about what it might be, but what they are hiding even stuns the unflappable Barney.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I hooked up with an Argentinean exchange student in a Porta-John outside Yankee Stadium.”
@@ -861,7 +817,6 @@ Watch for:
 ## S3 E1 — 1. Wait for It
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0301.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Robin shows up with an Argentinean Adonis by her side, Ted decides he is ready to hit the town with Barney and his performance is legen.wait for it.dary!
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “You cannot have sex on a windsurfing board.”
@@ -881,7 +836,6 @@ Watch for:
 ## S3 E2 — 2. We're Not from Here
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0302.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: After seeing girls get weak in the knees over Robin's man, Gael, who's from Argentina, Barney and Ted decide to pose as out-of-towners, in order to meet chicks.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “We pretended to be from out of town so we could sleep with you and leave in the morning.”
@@ -899,7 +853,6 @@ Watch for:
 ## S3 E3 — 3. Third Wheel
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0303.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When two beautiful women show that they are both very attracted to Ted, they take the party to his place, where the gang helps Ted realize that bad luck doesn't always come in threes.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Sleep with your nurses.”
@@ -929,7 +882,6 @@ Watch for:
 ## S3 E4 — 4. Little Boys
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0304.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When "kid unfriendly" Robin surprisingly forms a bond with the young son of the guy she is dating, she decides it is too serious and must figure out a way to let the little guy down.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “But I can't sleep with her again.”
@@ -955,7 +907,6 @@ Watch for:
 ## S3 E5 — 5. How I Met Everyone Else
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0305.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Ted's new girl becomes jealous that the story of how he and his pals met is better than the story of how she and Ted met, her ranking on Barney's "crazy scale" skyrockets.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “By the end, it was mostly about sex.”
@@ -975,7 +926,6 @@ Watch for:
 ## S3 E6 — 6. I'm Not That Guy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0306.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When a corporate law firm courts Marshall, lawyer Jeff Coatsworth wins him over, forcing him to let go of his dream of saving the earth in favor of the almighty dollar.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “So you took my name and starred in Welcome To The Sex Truck? Yeah.”
@@ -999,7 +949,6 @@ Watch for:
 ## S3 E7 — 7. Dowisetrepla
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0307.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Lily and Marshall decide to buy an apartment, not only do they make every mistake in the book, but Marshall also discovers Lily's dirty little financial secret when they apply for a loan.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “So is that a yes? You can't sleep with other women though.”
@@ -1014,7 +963,6 @@ Watch for:
 ## S3 E8 — 8. Spoiler Alert
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0308.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Ted thinks he has met a wonderful girl, the gang can't help but point out a deal-breaking flaw, eventually leading to a heated exchange of barbs among the group.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “One time, in the tenth grade, as a joke, I told everyone that my English teacher had sex with me.”
@@ -1029,7 +977,6 @@ Watch for:
 ## S3 E9 — 9. Slapsgiving
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0309.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: As Lily and Marshall host their first Thanksgiving as a married couple, Barney is tortured by the tick-tock of the slap bet countdown clock and the uncertainty of the exact moment the slap is going to be delivered.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Hey, did you know that the first pies in recorded history came from ancient Egypt? Remember last year's Thanksgiving, when we had sex seven times? - Ooh.”
@@ -1048,10 +995,9 @@ Watch for:
   - “So we're in the kitchen, starting on the pies, and we realize, we don't have a damn thing to say to each other.”
   - “Relapse five! That's where we high-five, then it's awkward for a little bit and then we high-five again! What the hell were you doing?”
 
-## S3 E10 — The Yips
+## S3 E10 — 10. The Yips
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0310.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Barney loses his "mojo," he attends the Victoria's Secret Fall Fashion Show after-party to get himself back on track, but his smooth operating skills are put to the test when he meets supermodel Heidi Klum.
 Watch for:
 - Sex & hookups — 11 moment(s)
   - “I lost my virginity to her.”
@@ -1084,10 +1030,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Or we could just stop drinking beer.”
 
-## S3 E11 — The Platinum Rule
+## S3 E11 — 11. The Platinum Rule
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0311.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When the gang finds out that Ted is taking his doctor on a date, they try to convince him, through examples of their own toxic experiences, why it's never a good idea to get into a relationship with someone you see on a regular basis.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - Stripper or strip-club material shows up in the plot.
@@ -1102,10 +1047,9 @@ Watch for:
   - “That, dear boy, is a tramp stamp.”
   - “A tramp stamp.”
 
-## S3 E12 — No Tomorrow
+## S3 E12 — 12. No Tomorrow
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0312.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted takes a page from Barney's book and lives like there's no tomorrow, he gets a post St. Patty's Day reality check from Marshall.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I really just want to hook up with you, leave before breakfast, and never see you again.”
@@ -1124,13 +1068,11 @@ Watch for:
   - “I don't want some Confederate general ghost teaching them his racism.”
   - “How is "racist ghost" better than "crooked"? Seriously, somebody tell me how that's better.”
 
-## S3 E13 — Ten Sessions
+## S3 E13 — 13. Ten Sessions
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0313.html
-Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: Continuing his passionate quest to find the woman who will one day be his wife, Ted pursues his beautiful dermatologist, Stella. While Stella turns down his repeated efforts for a date, her office receptionist, Abby, becomes smitten with Ted.
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
-- Sex & hookups — 2 moment(s)
-  - “Ted, do you know how long it takes a woman to decide whether or not she's going to sleep with a guy? After that, her decision is made.”
+- Sex & hookups — 1 moment(s)
   - “Well, then if it's fixed, can we have sex on it and then go shopping.”
 - Nudity & bodies — 1 moment(s)
   - “It can't be easy to woo someone while you're sticking your naked butt in their face.”
@@ -1140,10 +1082,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Ah, the butterfly tramp stamp.”
 
-## S3 E14 — The Bracket
+## S3 E14 — 14. The Bracket
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0314.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Barney's love life is sabotaged by a mystery woman, he turns to tournament bracketology to narrow down the field of 64 women with the most cause to hate his guts.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - “Sleeping with Barney was the biggest mistake of my life.”
@@ -1156,10 +1097,9 @@ Watch for:
   - “I'm going to go to the bathroom now, but, uh, when I come back we'll go to my place and have sex.”
   - “I'm the guy who keeps a scrapbook of all of the women I have slept with, but I never thought I was the guy who would sleep with a girl and not even remember her.”
 
-## S3 E15 — The Chain of Screaming
+## S3 E15 — 15. The Chain of Screaming
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0315.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: After Marshall is verbally emasculated by his boss, he struggles with the fact that taking a job with a "big bad" corporate law firm may have been a major mistake.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Screaming is a motivational tool, like christmas bonuses or sexual harassment.”
@@ -1173,10 +1113,9 @@ Watch for:
   - “Your mom's a slut! Yes.”
   - “Your mom's a slut, and I'm sorry, Barney, but you and your brother clearly have different fathers, And you know why? It's probably because your mom is a slutty slut! - Keep going.”
 
-## S3 E16 — Sandcastles in the Sand
+## S3 E16 — 16. Sandcastles in the Sand
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0316.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Robin rekindles things with an old flame, he crushes her again, but Barney, in his own inimitable style, helps her realize that she is awesome.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I'd even consider not trying to sleep with her if that's what it takes.”
@@ -1197,10 +1136,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Louise Marsh?! That's a whore's name if I ever heard one.”
 
-## S3 E17 — The Goat
+## S3 E17 — 17. The Goat
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0317.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When a guilt-ridden Barney breaks the "Bro Code," he struggles with the ramifications of his misstep.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Is he all smooth down there? Three billion women on the planet! Three billion! And you have to sleep with the one that I dated for a year!”
@@ -1216,10 +1154,9 @@ Watch for:
   - “I wish we had some wine, too.”
   - “They want you to spend your 30th standing around drinking flat beer ten feet above your living room.”
 
-## S3 E18 — Rebound Bro
+## S3 E18 — 18. Rebound Bro
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0318.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
-Summary: When Ted tells the gang Stella's intimate secret, he must face the consequences of breaking her trust.
 Watch for:
 - Sex & hookups — 8 moment(s)
   - “You guys haven't had sex yet?! When Marshall and I were two months in, we were doing it 24/7.”
@@ -1235,10 +1172,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Haley, you are a fat ugly whore.”
 
-## S3 E19 — Everything Must Go
+## S3 E19 — 19. Everything Must Go
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0319.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Barney and Abby realize that they have one thing in common - their mutual hatred of Ted - the "couple" decides to go to the bar to flaunt their new relationship in Ted's face.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Did I sleep with you and then totally screw you over? No.”
@@ -1258,10 +1194,9 @@ Watch for:
   - “Are you kidding? We're popping the champagne right now.”
   - “Champagne for everyone, on me, the happiest guy in the world.”
 
-## S3 E20 — Miracles
+## S3 E20 — 20. Miracles
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0320.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted is in an accident, he re-evaluates his life and relationship with Stella.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - “I know what he saw: boobs.”
@@ -1282,7 +1217,6 @@ Watch for:
 ## S4 E1 — 1. Do I Know You?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0401.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: As Stella responds to Ted's proposal, Barney realizes that he's in love with Robin.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “We did it, you masturbating little bastard.”
@@ -1305,7 +1239,6 @@ Watch for:
 ## S4 E2 — 2. The Best Burger in New York
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0402.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: Television personality Regis Philbin meets a burger-mad Marshall while on his quest to find the restaurant where he had his very first New York burger.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “The bun, like a sesame freckled, breast of an angel, resting gently on the ketchup and mustard below.”
@@ -1313,7 +1246,6 @@ Watch for:
 ## S4 E3 — 3. I Heart NJ
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0403.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: After inviting the gang to Stella's apartment in New Jersey, Ted tries to sell them on the perks of living in the suburbs until he learns that she expects him to move there after they're married.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And sometimes they'd pick up the phone and they'd call me and then we'd hook up again.”
@@ -1334,7 +1266,6 @@ Watch for:
 ## S4 E4 — 4. Intervention
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0404.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted discovers that the gang ditched their plans to stage an intervention for his engagement to Stella, he is adamant that they go through with it anyway.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Now, Cindy, I know this sounds insane, but in order to save the planet, You need to sleep with him tonight.”
@@ -1350,7 +1281,6 @@ Watch for:
 ## S4 E5 — 5. Shelter Island
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0405.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: After Stella and Ted make the spontaneous decision to get married in three days, the presence of their exes destroys what was to be the "happiest day of their lives".
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “HOW CAN I HAVE SEX WITH ROBIN AGAIN ? VULNERABLE NOSTALGIC BOOZE Then, at last I cracked the code.”
@@ -1375,7 +1305,6 @@ Watch for:
 ## S4 E6 — 6. Happily Ever After
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0406.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: While out for dinner with the gang, Ted runs into someone from his past that prompts each of them to think about how they would handle bumping into someone they'd rather forget.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “you know how when you're a kid, you put everything into hockey terms? The blue line is kissing, the red line is getting naked, and I think "in the crease" speaks for itself.”
@@ -1391,7 +1320,6 @@ Watch for:
 ## S4 E7 — 7. Not a Father's Day
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0407.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Lily and Marshall contemplate making the life-changing decision to have a baby, Lily turns to Ted and Robin for advice and their very different points of view on the issue.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “What do you mean you're gonna be a dad? How did, how did this happen? It was just some girl I hook up with a few weeks back.”
@@ -1413,7 +1341,6 @@ Watch for:
 ## S4 E8 — 8. Woooo!
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0408.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Robin rediscovers the "Woo Girls," a group of single girls who like to go out and party. Meanwhile, Ted pitches Barney a design for his company's new headquarters.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “Oh, my god, you guys, My boob just fell out of my top at the bar.”
@@ -1443,7 +1370,6 @@ Watch for:
 ## S4 E9 — 9. The Naked Man
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0409.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: After Ted walks into the apartment to find Robin's date sitting on the couch in the buff, the gang realizes this method might be the easiest way to get their dates into bed with them.
 Watch for:
 - Sex & hookups — 12 moment(s)
   - “She's so charmed by your confidence and bravado, she sleeps with you.”
@@ -1473,13 +1399,11 @@ Watch for:
   - “I call "slut!" Slut?! Oh?! Oh! Excuse me? I'm sorry,Robin,but you hooking up with this guy makes it seem like the only thing standing between you and sex is clothes.”
   - “" : Slut! I dot do it.”
 
-## S4 E10 — The Fight
+## S4 E10 — 10. The Fight
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0410.html
-Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Ted tries to prove he's not pathetic for getting left at the altar, and Barney tries to impress Robin, who thinks fighting is sexy, by fighting with patrons who are sitting in their favorite booth.
+Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
-- Sex & hookups — 4 moment(s)
-  - “And everyone is going to think it's great and everyone is going to sleep with me again.”
+- Sex & hookups — 3 moment(s)
   - “There's only three things you'll ever see me fight the stubborn clasp of a bra, Sexual harassment charges-- nine for nine-- And the urge to vomit when I see someone wearing brown shoes with a black suit.”
   - “she thinks fighting's sexy.”
   - “I was doing Your best not to cry when Big came back for Carrie at the end of the Sex and the City movie? No.”
@@ -1500,10 +1424,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Vodka cranberry.”
 
-## S4 E11 — Little Minnesota
+## S4 E11 — 11. Little Minnesota
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0411.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Ted turns into an overprotective, older brother by going out of his way to keep his sister out of trouble when she comes to visit him in New York. Meanwhile, Marshall and Robin bond when he introduces her to a Minnesota themed bar.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “See? She didn't get the briefcase! That's responsible! And there's almost no way she had sex with anyone in there.”
@@ -1519,12 +1442,11 @@ Watch for:
   - “I just poured some beer on it.”
   - “And I was hoping you'd have A little more wine in you before I asked you this, but I need you to co-sign the lease.”
 
-## S4 E12 — Benefits
+## S4 E12 — 12. Benefits
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0412.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Ted and Robin become "friends with benefits" to deal with conflicts they're having around the apartment, Barney tries to resolve the issues so they'll stop hooking up. Meanwhile, "reality" stars get too real for Marshall when they taunt him from the pages of his magazine.
 Watch for:
-- Sex & hookups — 12 moment(s)
+- Sex & hookups — 11 moment(s)
   - “So why be ashamed about it? Wait,"reading a magazine" means masturbating,right? I can't believe it.”
   - “You two hooked up? thanks a lot,lily So,wow.”
   - “And now that we're hooking up, we're not fighting anymore.”
@@ -1533,7 +1455,6 @@ Watch for:
   - “Look,Lily,maybe yourindergartners are upset that their friends are sleeping with each other, but not me.”
   - “So last night,Robin left a pizza box out on the floor, -so we had sex three times.”
   - “It bothers you that Robin and I a hooking up,doesn't it? No.”
-  - “Now,if you'll excuse me, I'm gonna go sleep with other girls.”
   - “What happened? You know what it is? We were having sex.”
   - “Men and women need sex to live together.”
   - “I said,Madeline,every single international conflict essentially boils down to sexual tension.”
@@ -1544,10 +1465,9 @@ Watch for:
   - “You have one when you're drunk and you think it's fine.”
   - “Hey,uh,you want a beer? Okay.”
 
-## S4 E13 — Three Days of Snow
+## S4 E13 — 13. Three Days of Snow
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0413.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When A blizzard shuts down the city, Marshall and Lily try to continue their longstanding airport reunion tradition while Ted and Barney volunteer to keep MacLaren's open so they can meet up with some college girls.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Yeah, but don't those girls get to have sex with Van Halen after the show? If you want to have sex with Van Halen, do it on your own time, Ted.”
@@ -1564,10 +1484,9 @@ Watch for:
   - “We were hoping to get drunk.”
   - “I mean really drunk.”
 
-## S4 E14 — The Possimpible
+## S4 E14 — 14. The Possimpible
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0414.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Robin realizes that she only has four days to get a job or she will be deported back to Canada, she agrees to let Barney produce a video resume for her.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Wear a condom.”
@@ -1586,10 +1505,9 @@ Watch for:
   - “I've been getting a lot of letters about myegment on how racist the school's meal plan is.”
   - “And time! What's the count? Thirty-three! ****** MEAL PLAN=RACISM Why is no one coming to my Happenings? sync:ÃÃÃÃ¢ÃÃ¢”
 
-## S4 E15 — The Stinsons
+## S4 E15 — 15. The Stinsons
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0415.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When the gang suspects that Barney has a girlfriend after he mysteriously leaves MacLaren's, they decide to follow him.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Asian with some boob.”
@@ -1599,10 +1517,9 @@ Watch for:
   - “Yeah, I was a bit of a whore.”
   - “Excuse me? A whore, dear.”
 
-## S4 E16 — Sorry, Bro
+## S4 E16 — 16. Sorry, Bro
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0416.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Lily and Marshall hear that Ted's college girlfriend, Karen, has moved to New York City, they finally reveal how much they hated her back then.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “I used deceitful means to hook up with a less-than-intelligent girl.”
@@ -1632,10 +1549,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “It's like,let's all eat baloney sandwiches and be racist.”
 
-## S4 E17 — The Front Porch
+## S4 E17 — 17. The Front Porch
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0417.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Karen finds another woman's earring in Ted's bed, he discovers that Lily planted it there on purpose, and that she secretly meddled in some of his previous relationships as well.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Have you been sleeping with Robin? What? No,of course not! It,it probably got mixed in with the laundry or something.”
@@ -1658,10 +1574,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “And if it did,and I didn't look my absolute best for those greasy sluts, I'd regret it forever.”
 
-## S4 E18 — Old King Clancy
+## S4 E18 — 18. Old King Clancy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0418.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Goliath National Bank cancels plans to build their new headquarters that Ted was hired to design, Barney and Marshall concoct an elaborate lie to keep Ted from knowing he is out of a job.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You know, I don't know, celebrities, they're into some really weird sex stuff.”
@@ -1671,10 +1586,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “This is completely different! I just wasted a month of my life working on a dead project.”
 
-## S4 E19 — Murtaugh
+## S4 E19 — 19. Murtaugh
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0419.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Barney hears that Ted has made a list of things he feels the gang is too old to do, he attempts to complete every task on the list within 24 hours to prove Ted wrong.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Remove "colonoscopy" and "Have sex with an old lady," and this is a cakewalk.”
@@ -1692,10 +1606,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “You've had your fat ass stuck behind that desk for too long.”
 
-## S4 E20 — Mosbius Designs
+## S4 E20 — 20. Mosbius Designs
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0420.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted loses his job and decides to form his own architectural firm out of his apartment, he hires an intern to help get his company off the ground, but the intern gets too close for comfort with some of Ted's friends.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Robin, you cannot sleep with my assistant.”
@@ -1704,10 +1617,9 @@ Watch for:
   - “Having sex with women.”
   - “When PJ had a job, he was sexy.”
 
-## S4 E21 — The Three Days Rule
+## S4 E21 — 21. The Three Days Rule
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0421.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Ted breaks Barney and Marshall's "three days rule" by having a "text" relationship with a girl he just met, they play a cruel joke on him by pretending to be her.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Now he's only wearing the cowboy boots! - It is on! - It is so on! Tell him that we're we're slowing slipping out of our What are we doing? I think that we're about to have sex with Ted.”
@@ -1727,10 +1639,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “"I like beer, too.”
 
-## S4 E22 — Right Place, Right Time
+## S4 E22 — 22. Right Place, Right Time
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0422.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: After Ted runs into an old flame, he talks to his future kids about how being in the right place at the right time can impact a person's life. Meanwhile, Barney celebrates his 200th female conquest.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “What are you gonna do? It's not like you're gonna find someone new to have sex with in the next two hours.”
@@ -1744,10 +1655,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “"What your paintball gun says about your personality"? Below that.”
 
-## S4 E23 — As Fast as She Can
+## S4 E23 — 23. As Fast as She Can
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0423.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: In his attempt to assuage his guilt for "ruining Ted's life," Tony, Stella's fiancé, insists on helping Ted find a job, but only manages to prove that no good deed goes unpunished. Meanwhile, Barney tries to prove he can get out of a speeding ticket.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “A check so big, if you had sex with it, you wouldn't tell your buddies.”
@@ -1765,10 +1675,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “My mom marinates them in Belgian beer for two days.”
 
-## S4 E24 — The Leap
+## S4 E24 — 24. The Leap
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0424.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Ted pulls an all-nighter working on a pitch in an attempt to bring business to his fledgling architecture firm, Marshall tries to lure him to the roof for a surprise 31st birthday party.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “You got beat up by a girl.”
@@ -1781,7 +1690,6 @@ Watch for:
 ## S5 E1 — 1. Definitions
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0501.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When the gang finds out that Barney and Robin are hesitant to define their relationship, Lily forces them to confront their biggest fear...becoming boyfriend/girlfriend. Meanwhile, Ted is anxious about teaching his first lecture at Columbia.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “I hooked up with this Chinese girl last night, and I don't know, it's weird.”
@@ -1801,7 +1709,6 @@ Watch for:
 ## S5 E2 — 2. Double Date
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0502.html
 Scores: violence 3/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
-Summary: While on a blind date, Ted realizes this is actually his second first date with the same girl, and seven years later they still have nothing in common. Meanwhile, Barney takes Marshall out on the town, much to the dismay of Robin.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Well, it is a lot cheaper than buying a condom.”
@@ -1825,7 +1732,6 @@ Watch for:
 ## S5 E3 — 3. Robin 101
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0503.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Robin fears that Barney is cheating on her, she soon discovers that he is spending his evenings with Ted learning everything there is to know on how to date her.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “This is not a one-night stand.”
@@ -1858,7 +1764,6 @@ Watch for:
 ## S5 E4 — 4. The Sexless Innkeeper
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0504.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Lily and Marshall realize that Robin and Barney are the perfect double-date friends, they try too hard to impress and come on too strong, forcing Barney and Robin to try to break up with them.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Ted, that girl had no intention of ever hooking up with you.”
@@ -1875,7 +1780,6 @@ Watch for:
 ## S5 E5 — 5. Duel Citizenship
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0505.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: While Barney tries to convince Robin to become an American citizen, Ted and Marshall's fabled road trip takes a wrong turn when Marshall invites Lily.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “You didn't even let me put on underwear! We never used to put on underwear! That was the fun of a bros' trip to Gazzola's! We left everything and everyone behind.”
@@ -1897,7 +1801,6 @@ Watch for:
 ## S5 E6 — 6. Bagpipes
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0506.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: To prove that he and Robin are the perfect couple, Barney arrogantly gives relationship advice to Marshall, which results in a huge fight between Marshall and Lily.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Then I don't care if you have an orgasm.”
@@ -1919,7 +1822,6 @@ Watch for:
 ## S5 E7 — 7. The Rough Patch
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0507.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After Barney and Robin hit a rough patch in their relationship, Lily devises the perfect plan to break them up, calling in help from Robin's famous friend, Alan Thicke.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Horny Co-Ed Surprise Party 23.”
@@ -1937,7 +1839,6 @@ Watch for:
 ## S5 E8 — 8. The Playbook
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0508.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Robin and Barney break up, Barney pulls out all of his greatest tricks to get himself back into the dating scene.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “"Mothers I'd Like to Sleep With and Never Call Again.”
@@ -1960,7 +1861,6 @@ Watch for:
 ## S5 E9 — 9. Slapsgiving 2: Revenge of the Slap
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0509.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Barney freaks out when Marshall bequeaths a "slap bet" slap to Ted and Robin. Meanwhile, Lily's estranged father shows up for Thanksgiving.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Three, we're going to tie Barney to this chair, which shall henceforth be referred to as the slapping throne.”
@@ -1975,10 +1875,9 @@ Watch for:
   - “Hell, I haven't even seen a wedding photo.”
   - “This is basically hell on Earth.”
 
-## S5 E10 — The Window
+## S5 E10 — 10. The Window
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0510.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: The gang tries to help Ted when the perfect girl is finally available, and Marshall takes action when he finds a letter written by his younger self.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “God, you really were a virgin before you met Lily, weren't you? (LILY CHUCKLING) - Well, that's unnecessary.”
@@ -1995,10 +1894,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “No! Let's have a glass of wine first.”
 
-## S5 E11 — Last Cigarette Ever
+## S5 E11 — 11. Last Cigarette Ever
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0511.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: The gang struggles to quit smoking while Robin clashes with her new jaded co-worker.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You can sleep with Marshall.”
@@ -2009,10 +1907,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Well, that half-drunk slob appreciates it.”
 
-## S5 E12 — Girls vs. Suits
+## S5 E12 — 12. Girls vs. Suits
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0512.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Barney debates giving up wearing suits in order to land a hot bartender, his conflicted feelings lead to an amazingly awesome musical number. Meanwhile, Ted gets one step closer to meeting the future mother of his kids.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “…boys and girls Are impeccably well-dressed That delivery guy in a jacket and tie That puppy in a double-breast That '80s dude with muttonchops That baby with a lollipop That lady cop who's kind of cute Nothing suits…”
@@ -2022,10 +1919,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “She's a whore.”
 
-## S5 E13 — Jenkins
+## S5 E13 — 13. Jenkins
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0513.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Lily refuses to believe that Jenkins, Marshall's attractive female colleague, kissed him, Marshall insists Jenkins tell Lily what really happened. Meanwhile, Robin finds out that a drinking game has been made up about her.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You want to have sex with Jenkins? With Jenkins, on Jenkins, near Jenkins.”
@@ -2047,10 +1943,9 @@ Watch for:
   - “I was really drunk.”
   - “You were drunk at 8:00 in the morning? - Yeah, I don't know how that happened.”
 
-## S5 E14 — Perfect Week
+## S5 E14 — 14. Perfect Week
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0514.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Barney is about to complete the perfect week - landing seven different girls in seven days - the gang roots him on in order to forget about their own miserable week.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Boxing had Ali, basketball had Jordan, and the sport of sleeping with random hotties has my next guest, Mr.”
@@ -2068,10 +1963,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Over 200 women, spanning six continents, and not a single fatty.”
 
-## S5 E15 — Rabbit or Duck
+## S5 E15 — 15. Rabbit or Duck
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0515.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Lily and Marshall forget to fix up Ted on a blind date for Valentine's Day, they use one of Barney's many discarded girls to see if they may become Ted's future wife. Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I've enlisted Ranjit's services as my personal driver because for the next week, I'll be sleeping with hundreds of women, and I don't wanna take the subway, 'cause, you know, germs.”
@@ -2085,10 +1979,9 @@ Watch for:
   - “That beer looks a little flat.”
   - “What? Getting drunk and cleaning the apartment was a plan? I did not say it was a good plan.”
 
-## S5 E16 — Hooked
+## S5 E16 — 16. Hooked
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0516.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When the gang tries to convince Ted that he is being strung along by Tiffany, they reflect about relationships where each of them has been in the same situation.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “(BARNEY LAUGHS) Ain't no party like a pharma girl party 'Cause a pharma girl party don't stop Dude, I've already hooked up with three of them.”
@@ -2103,10 +1996,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You want to see my rap poster? Poster whore! Anyway, Lisa Walker strung me along for months until, one night, I went to go tell her how much I loved her, (ALL EX CLAIMING IN ADMIRATION) In song.”
 
-## S5 E17 — Of Course
+## S5 E17 — 17. Of Course
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0517.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Robin confesses that she is still angry with Barney for the way he handled their break-up, she enlists the help of Anita, a self-help author who plans to beat Barney at his own game.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “I get her back to my place, and she just bolts? I mean, at least, when I run out on a girl, I have the common courtesy to sleep with her first.”
@@ -2127,10 +2019,9 @@ Watch for:
   - “Take a Look at Yourself, You Dumb Slut.”
   - “Take a Look at Yourself, You Dumb Slut crap on me! It's not crap! Of Course You're Still Single.”
 
-## S5 E18 — Say Cheese
+## S5 E18 — 18. Say Cheese
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0518.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted ruins Lily's birthday dinner celebration by bringing a date, Lily goes to great lengths to keep her out of the traditional photo she takes every year of the gang.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I'm so excited to have sex again.”
@@ -2153,10 +2044,9 @@ Watch for:
   - “Do I get a vote? Skank Lane.”
   - “How about no more random skanks at my birthday? Hey, sweetie.”
 
-## S5 E19 — Zoo or False
+## S5 E19 — 19. Zoo or False
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0519.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Marshall gets mugged, Lily decides she wants to get a gun for protection, so Marshall comes up with a convoluted story about the mugging to deter Lily from following through.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I'm gonna pretend this happened to me later to try and get some sympathy sex.”
@@ -2169,10 +2059,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Strange, 'cause you look like you just had two vodka tonics thrown in your face.”
 
-## S5 E20 — Home Wreckers
+## S5 E20 — 20. Home Wreckers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0520.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Ted attends his mother's wedding, he is extremely disturbed by her overly affectionate relationship with her fiancé, which forces him to think about his own life and make an impulsive decision.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “As a painter /songwriter / volunteer fear fighter, I find her incredibly sexual.”
@@ -2187,10 +2076,9 @@ Watch for:
   - “You must've been drunk off your ass.”
   - “"Drunk or Kid?" Which one was I? Lock in your guesses.”
 
-## S5 E21 — Twin Beds
+## S5 E21 — 21. Twin Beds
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0521.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted and Barney jeopardize Robin's new relationship by professing their love for her, Robin realizes that she is finally over them. Meanwhile, after spending a weekend sleeping in twin beds, Marshall and Lily decide to get twin beds at home.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “See, I wanna have sex with her at least one more time! She is mine! She's not yours! And she's not mine, either.”
@@ -2213,10 +2101,9 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - “Ted and Robin? Not seeming so gay now, am I, Donny? - Appletini for the gentleman.”
 
-## S5 E22 — Robots vs. Wrestlers
+## S5 E22 — 22. Robots vs. Wrestlers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0522.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Ted, Marshall, Lily and Barney crash a highfalutin party at a swanky New York apartment, Ted gets the chance to mingle with the snooty guests and show off his intellectual side.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - “Face, boobs, describe.”
@@ -2239,10 +2126,9 @@ Watch for:
   - “You don't decant white wine.”
   - “(DRUNKENLY) Rule number 83, if anything that comes out of that baby gets on one of my suits, I get to touch Lily's boobs.”
 
-## S5 E23 — The Wedding Bride
+## S5 E23 — 23. The Wedding Bride
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0523.html
 Scores: violence 2/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Ted takes a date to see a new hit movie, "The Wedding Bride," he is shocked to learn the story is loosely based on his life, and that it was written by Tony, the man Stella left him for at the altar.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Angry sex on the first date, and then as soon as you mention breakfast, she's gone.”
@@ -2255,10 +2141,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Oh! What about when he got beat up by the goat? - (ALL LAUGHING) - So funny.”
 
-## S5 E24 — Doppelgangers
+## S5 E24 — 24. Doppelgangers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0524.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Marshall and Lily make a secret pact to start trying to have a baby if they ever finally see Barney's doppelganger. Meanwhile, Robin finally gets an offer for her dream job.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You know how it's my dream to have sex with at least one woman - from every country on the planet? - Sure.”
@@ -2273,7 +2158,6 @@ Watch for:
 ## S6 E1 — 1. Big Days
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0601.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted and Barney argue about who has "dibs" on a hot girl, Ted realizes that she is there with Cindy, a girl he previously dated who is also the roommate of his future wife. Meanwhile, Robin is heartbroken over Don, and Marshall can't keep quiet about his desire to start a family.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “That book might as well be called, are you there, Barney? It's Me, Horny.”
@@ -2287,7 +2171,6 @@ Watch for:
 ## S6 E2 — 2. Cleaning House
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0602.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Barney convinces the gang to help his mom move out of her home, they quickly learn that she has been very protective of Barney and lied to him about events throughout his life. Meanwhile, Ted gets upset when Robin oversells him to a blind date.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “"Orgasms so intense that you just black out.”
@@ -2298,7 +2181,6 @@ Watch for:
 ## S6 E3 — 3. Unfinished
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0603.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted declines Barney's offer to design the new GNB building, Barney ties to woo him by using all of his best womanizing tactics. Meanwhile, Robin is still not over her relationship with Don and drunk dials him.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Call me old-fashioned, but I need to have sex with a girl at least three times before I'll even consider having dinner with her.”
@@ -2318,7 +2200,6 @@ Watch for:
 ## S6 E4 — 4. Subway Wars
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0604.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When the gang teases Robin about not being a "real" New Yorker, she sets out to prove them wrong by racing them to a downtown restaurant to catch a glimpse of Woody Allen, the ultimate New Yorker.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Anyone have a condom? Oh! Oh, God! No, no, no! That's it! You know what? Five-minute time-out! Corner booth! Now.”
@@ -2328,7 +2209,6 @@ Watch for:
 ## S6 E5 — 5. Architect of Destruction
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0605.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Ted becomes conflicted about pursuing his dream job of designing the new GNB headquarters after meeting a hot girl who's passionate about saving the landmark building that is being torn down to make room for it.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I guess she and Max hooked up last night.”
@@ -2359,7 +2239,6 @@ Watch for:
 ## S6 E6 — 6. Baby Talk
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0606.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Marshall and Lily research how to conceive a baby with the gender of their choice. Meanwhile, Robin is growing more and more irritated by her perky new co-anchor, Becky.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Who's your daddy? You are, 'cause of all the sex we have.”
@@ -2381,7 +2260,6 @@ Watch for:
 ## S6 E7 — 7. Canning Randy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0607.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Zoey enrolls in Ted's class, she manipulates his students into taking her side in the fight to save the building being torn down to make room for his project. Meanwhile, Marshall and Lily spot Robin marching in the Halloween parade of shame.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Please tell me you're not hooking up with one of your co-anchors again.”
@@ -2401,7 +2279,6 @@ Watch for:
 ## S6 E8 — 8. Natural History
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0608.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When the gang attends a black tie fundraiser at the Natural History Museum, Ted runs into Zoey and sees a whole different side of her when she introduces him to her husband, The Captain.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “College Lily thinks those are orgasms.”
@@ -2411,7 +2288,6 @@ Watch for:
 ## S6 E9 — 9. Glitter
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0609.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Barney finds a copy of the Canadian kids show "Space Teens" starring Robin's alter-ego "Robin Sparkles," the gang learns more about Robin's past as a performer than they expected.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “It's like we're on a desert island, and this video is a really hot, naked chick, and she's got, like, seaweed on her and a seashell bra.”
@@ -2427,10 +2303,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “I even thought she might try to kill herself.”
 
-## S6 E10 — Blitzgiving
+## S6 E10 — 10. Blitzgiving
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0610.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted leaves the bar early to prepare a Thanksgiving feast for his friends, the gang winds up partying all night with The Blitz, an old friend from college who has bad luck. As a result Ted is forced to spend Thanksgiving with Zoey.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “(all agreeing, whooping) ALL (chanting): Make out with Zoey! Make out with Zoey! Make out Did they tell you about the skateboarding dog? It was awesome! Great.”
@@ -2448,10 +2323,9 @@ Watch for:
   - “And they're about to walk through that door, where we will be waiting with some light beer and some rock hard approval.”
   - “See you later! Bye-bye! All right, bye-bye! Okay, later! Good-bye! Bye-Bye! (pop) Tap's broke! Can't turn 'em off! Free beer for everyone!”
 
-## S6 E11 — The Mermaid Theory
+## S6 E11 — 11. The Mermaid Theory
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0611.html
-Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted's new friendship with Zoey tests the theory that men and married women can't be friends, he invites her husband, "The Captain," to hang out with them. Meanwhile, Marshall and Robin decide to spend alone time together.
+Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Rule number one Don't use the husband's condoms.”
@@ -2464,10 +2338,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Marshall's beer goggles kicked in and his very drunk mind started to see No No, no! No! No, don't turn! Uh-oh.”
 
-## S6 E12 — False Positive
+## S6 E12 — 12. False Positive
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0612.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Marshall and Lily receive shocking news, it has a profound effect on the gang and forces them to reexamine their own lives. Meanwhile, Robin gets a new job, Barney discovers the joy of giving on Christmas and Ted begins his duties as Best Man for his old friend Punchy's wedding.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I frequently sleep with sixes, chubsters, over-thirties I am the bill and Melinda gates of the sympathy bang.”
@@ -2487,10 +2360,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I want to be cool aunt Robin, the respected journalist Who gives her beer.”
 
-## S6 E13 — Bad News
+## S6 E13 — 13. Bad News
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0613.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Marshall and Lily fear they will never get pregnant, they see a specialist who can hopefully help move the process along. Meanwhile, Robin starts her new job.
 Watch for:
 - Sex & hookups — 11 moment(s)
   - “He's going to masturbate.”
@@ -2514,10 +2386,9 @@ Watch for:
   - “So, second day of work? (blows raspberry) What's wrong? Oh, you didn't hear? She's the office slut.”
   - “I wish I was the office slut.”
 
-## S6 E14 — Last Words
+## S6 E14 — 14. Last Words
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0614.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: The gang travels home to Minnesota with Marshall where Ted and Barney will stop at nothing to make Marshall laugh. Meanwhile, Marshall has an unfortunate meeting with an old high school bully that terrorized him throughout his youth.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I hooked up with a younger woman the other week Donna Bromstead.”
@@ -2533,10 +2404,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “That dress makes you look like a Kansas City whore.”
 
-## S6 E15 — Oh Honey
+## S6 E15 — 15. Oh Honey
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0615.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Zoey fixes Ted up on a date with her cousin, the gang resorts to calling her "Honey" after learning how naive she is. Meanwhile, Ted calls an intervention on himself after having an epiphany about his feelings for Zoey, and Barney gets acquainted with Honey in Ted's place.
 Watch for:
 - Swearing — 2 moment(s)
   - “Ted's a son of a bitch! Oh, nice.”
@@ -2546,10 +2416,9 @@ Watch for:
   - “I was in the neighborhood and I thought I'd take you up on that beer you're about to offer me.”
   - “Can I get you a beer? Oh, Ted, I'm so busy.”
 
-## S6 E16 — Desperation Day
+## S6 E16 — 16. Desperation Day
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0616.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: Barney declares February 13th "Desperation Day," a holiday for desperate women. Meanwhile, Lily surprises Marshall for Valentine's Day, Ted and Zoey continue to figure out their relationship and Robin bonds with her single girlfriends.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We said you were going to have sex.”
@@ -2558,10 +2427,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “with a drunkenly slurred, "What ya doing?" But when a lady booty-calls a guy, she invents a respectable excuse to mask the fact that she wants to get stuck real good.”
 
-## S6 E17 — Garbage Island
+## S6 E17 — 17. Garbage Island
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0617.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: After Marshall sees a documentary about garbage, he becomes fixated on saving the environment. Meanwhile, Ted runs into Zoey's ex-husband, The Captain, and Robin forces Barney to admit he has feelings for Nora, the girl who made history as his first Valentine's Day date ever.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “And now you're trying to hook up with your ex-girlfriend to prove to yourself that you don't care.”
@@ -2578,10 +2446,9 @@ Watch for:
   - “Damn it! Oh, baby, why aren't you in bed? I can't sleep.”
   - “I mean, yes, divorce sucks, but sometimes things need to fall apart to make way for better things.”
 
-## S6 E18 — A Change of Heart
+## S6 E18 — 18. A Change of Heart
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0618.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Barney starts to have real feelings for Nora, he worries that there is something wrong with his heart. Meanwhile, Robyn starts dating a guy who acts a lot like a dog.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I drink every day, I sleep three hours every night, and I have multiple sex partners.”
@@ -2602,10 +2469,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Cocktails on the patio.”
 
-## S6 E19 — Legendaddy
+## S6 E19 — 19. Legendaddy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0619.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Barney finally meets his father, he's surprised to learn how his life turned out. Meanwhile, the gang points out each other's "gaps," something they should know by adulthood but never learned.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Sex swing there, vibrating Jell-O pit right there, rotating Vietnamese Shame Wheel right here.”
@@ -2625,10 +2491,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Hey, Lily, can you toss me a beer? Sure, honey.”
 
-## S6 E20 — The Exploding Meatball Sub
+## S6 E20 — 20. The Exploding Meatball Sub
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0620.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: Lily and Barney react badly when Marshall finally quits his job at Goliath National Bank to take a volunteer position at an environmental organization. Meanwhile, Ted and Zoey's opposing positions on the future of the Arcadia come between them.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Coyote wasn't trying to sleep with the Roadrunner.”
@@ -2646,10 +2511,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “All that work wasted.”
 
-## S6 E21 — Hopeless
+## S6 E21 — 21. Hopeless
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0621.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Barney tries to bond with his father, he asks the gang to help make his life seem more exciting by lying about their own lives. Meanwhile, Robin runs into a guy she has a crush on.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “If I can score five numbers before you can, then we have sex in the bathroom.”
@@ -2670,10 +2534,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “My goodness! I sleep around, too.”
 
-## S6 E22 — The Perfect Cocktail
+## S6 E22 — 22. The Perfect Cocktail
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0622.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: When Marshall and Barney argue over the destruction of the Arcadian Hotel, Robin and Lily try to mix the right combination of cocktails that will force them to make up. Meanwhile, Ted plans a romantic weekend away with Zoey.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I'm torn between training an actual coyote to use an ACME dynamite plunger, or hooking up a fuse to Eddie Van Halen's guitar that goes off the second he hits the last note to "Hot For Teacher.”
@@ -2707,10 +2570,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “He's just an awful, flatulent racist.”
 
-## S6 E23 — Landmarks
+## S6 E23 — 23. Landmarks
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0623.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted is faced with an important decision that might affect his future with Zoey, the gang expresses their true feelings about her.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Barney, there's condoms in the drawer.”
@@ -2728,10 +2590,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Ho! You're judged by a jury of your beers.”
 
-## S6 E24 — Challenge Accepted
+## S6 E24 — 24. Challenge Accepted
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0624.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Robin and Barney bond when they intervene in Ted's relationship, and Marshall and Lily watch a ticking clock as he fears that he soon will be the victim of food poisoning. Meanwhile, Ted performs his Best Man duties at a very important wedding
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Bingo! Yes, a bloated seal corpse rotting in industrial waste.”
@@ -2752,7 +2613,6 @@ Watch for:
 ## S7 E1 — 1. The Best Man
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0701.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: While Barney prepares for his wedding to a mystery bride, he and Ted reminisce about Punchy's wedding, including when Marshall and Lily announced they are having a baby. Meanwhile, Robin considers telling Barney she has feelings for him.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Are escaped manslaughterers sexy? Not even remotely.”
@@ -2774,7 +2634,6 @@ Watch for:
 ## S7 E2 — 2. The Naked Truth
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0702.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Marshall gets the job of his dreams, he worries that, once the company discovers videos he made in the past, they may rescind the offer. Meanwhile, Ted can't decide who to bring to the Architects Ball.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “What were the lies? You want me to tell you every lie I've ever told a woman to get her into bed? A bed or any other place you had sex with her.”
@@ -2798,7 +2657,6 @@ Watch for:
 ## S7 E3 — 3. Ducky Tie
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0703.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: After Ted runs into an old girlfriend, he tries to make amends with her since he cheated during their relationship. Meanwhile, Marshall and Lily make a bet with Barney that could force him to wear Marshall's ducky tie.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - “…true love God, Lily! What on Earth is going on with your cans? Oh, these old things? I got my pregnancy boobs!”
@@ -2829,7 +2687,6 @@ Watch for:
 ## S7 E4 — 4. The Stinson Missile Crisis
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0704.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: After Robin assaults a girl who is out to ruin Barney's relationship, she is forced to begin court-mandated therapy sessions. Meanwhile, Ted gets too involved in Lily's pregnancy.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I want to have sex with her.”
@@ -2858,7 +2715,6 @@ Watch for:
 ## S7 E5 — 5. Field Trip
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0705.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Marshall witnesses his boss's soft approach in settling with a million dollar company, he takes matters into his own hands. Meanwhile, Ted takes his architecture class on a field trip and things don't go as planned.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Would you rather have sex with a dead human being or a live an? Dude.”
@@ -2870,7 +2726,6 @@ Watch for:
 ## S7 E6 — 6. Mystery vs. History
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0706.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Ted goes on a date without researching the girl on the Internet, the gang interferes, showing Kevin that they are too into each other's business. Meanwhile, Lily and Marshall come to terms with finding out the sex of their baby.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2898,7 +2753,6 @@ Watch for:
 ## S7 E7 — 7. Noretta
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0707.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: The gang begins to realize their romantic partner reminds them of one of their parents. Meanwhile, Barney and Nora's planned romantic evening is ruined by a string of bad events.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “You're finally going to Bootytown? Look, we just don't want to rush anything, okay? So we decided to wait until she decides to let me have sex with her.”
@@ -2913,7 +2767,6 @@ Watch for:
 ## S7 E8 — 8. The Slutty Pumpkin Returns
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0708.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 12+)
-Summary: Ted finally meets his mystery girl in the Slutty Pumpkin costume. Meanwhile, Barney learns he is part Canadian, and Lily has pregnancy brain.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I have to break up with her, don't I? All: Yes! After you sleep with her, yes! Marshall, I've been thinking about what you said.”
@@ -2929,7 +2782,6 @@ Watch for:
 ## S7 E9 — 9. Disaster Averted
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0709.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 12+)
-Summary: The gang reminisces about what happened during Hurricane Irene and Barney tries desperately to get out of wearing the ducky tie.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Prepared to spend lunch in his locker? Prepared to die a virgin?”
@@ -2940,10 +2792,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Drinking beer in front of Barney's giant TV beats sitting in the car listening to Memoires of a Geisha.”
 
-## S7 E10 — Tick Tick Tick...
+## S7 E10 — 10. Tick Tick Tick...
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0710.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Barney and Robin find themselves in an uncomfortable situation when they hide a secret from their significant others. Meanwhile, Marshall, Lily and Ted attend a concert.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Excuse me, I should really try to have sex with that new intern.”
@@ -2963,10 +2814,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “…scum round the edge of a toilet bowl Flush What the hell is in the place where you should have a soul? Slut You did these two wrong Don't wait too long In fact, you know what?”
 
-## S7 E11 — The Rebound Girl
+## S7 E11 — 11. The Rebound Girl
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0711.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: Ted and Barney discuss making a life-changing decision together, and Robin tries to discourage Marshall and Lily from moving to Long Island.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I've moved on to weird pregnancy sex dreams.”
@@ -2976,10 +2826,9 @@ Watch for:
   - “Let's get some champagne.”
   - “You and I are drunk.”
 
-## S7 E12 — Symphony of Illumination
+## S7 E12 — 12. Symphony of Illumination
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0712.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: When Robin receives bad news, she decides to lie about it to the gang. Meanwhile, Marshall hangs Christmas decorations on the house in the 'burbs with help from his neighbor.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Kevin and I haven't had sex yet.”
@@ -3006,10 +2855,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Hey, while I'm at it, can I get you a beer? He wants to bring the old man a beer.”
 
-## S7 E13 — Tailgate
+## S7 E13 — 13. Tailgate
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0713.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: After celebrating New Year's Eve, Marshall visits his father's graveside to carry on their tradition of tailgating. Meanwhile, Barney and Ted open a bar called "Puzzles," and Robin is forced to fill in for an inebriated news anchor.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You know, since we'll here, and we're all horny I don't know what went wrong.”
@@ -3028,10 +2876,9 @@ Watch for:
   - “Puzzles is a place where people go To feel like they belong Gonna take advantage of dumb drunk girls No, we're not.”
   - “That's why today was so important because I just I needed to Did you just open a beer on my father's headstone? Actually, it's a hard cider.”
 
-## S7 E14 — 46 Minutes
+## S7 E14 — 14. 46 Minutes
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0714.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Lily and Marshall officially move to the suburbs and realize that Lily's bossy father refuses to move out of their house. Meanwhile, the gang adjusts to them moving by going to a strip club.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Mickey, since you got here, you've been nothing but judgmental and pushy and strangely obsessed with your adolescent sex life.”
@@ -3056,10 +2903,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Look, I know I've been a little drunk and naive tonight, but here's what's gonna happen.”
 
-## S7 E15 — The Burning Beekeeper
+## S7 E15 — 15. The Burning Beekeeper
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0715.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Lily and Marshall throw a housewarming party, where Ted nearly comes to blows with Marshall's boss, and Barney hits on a crazy divorcee.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Why does that make it impressive? You know what else you can find on the Internet? Zoo animals masturbating.”
@@ -3087,10 +2933,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You called her a whore.”
 
-## S7 E16 — The Drunk Train
+## S7 E16 — 16. The Drunk Train
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0716.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: For Valentine's Day, Lily and Marshall invite Robin and Kevin on a weekend getaway to Vermont, where Kevin and Robin discussing taking their relationship to the next level. Meanwhile, Barney realizes he has finally met his match.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - LILY: “Just a bunch of drunk, sloppy idiots, fresh off a night of partying in the city, just desperate to hook up with anything that moves.”
@@ -3116,10 +2961,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “It's-it's The Little Engine with Wood, The Whore-ient Express.”
 
-## S7 E17 — No Pressure
+## S7 E17 — 17. No Pressure
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0717.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Robin breaks up with Kevin, Ted confesses his feelings to her. Meanwhile, Barney is on a mission to find something private of Marshall and Lily's.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “How he and Robin hooked up.”
@@ -3137,10 +2981,9 @@ Watch for:
   - “(gasps) (both scream) Why are you in our bed? I took the drunk train and got stuck out here.”
   - “Oh, God, I am so hungover.”
 
-## S7 E18 — Karma
+## S7 E18 — 18. Karma
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0718.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Barney tries to pursue Quinn, even after learning she is a stripper. Meanwhile, Marshall and Lily introduce Robin to life in the suburbs and Ted tries to figure out what to do with Robin's old room.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “So, mind-blowing sex? Mind-blowing sex! For an hour afterwards, I couldn't uncross my eyes.”
@@ -3157,10 +3000,9 @@ Watch for:
   - “Ugh! Hey! Brainstorm! What if we just have our date here, maybe in the Champagne Room? That was our spot.”
   - “He's looking at me like, "Karma, why aren't you booking more time in the Champagne Room?" Well, we'll show him.”
 
-## S7 E19 — The Broath
+## S7 E19 — 19. The Broath
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0719.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: The gang tries to break up Barney and Quinn after learning they plan on moving in together, leaving Robin and Ted to fight over who deserves to sublet her apartment.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Well, apparently, the sex is mind-blowing.”
@@ -3184,10 +3026,9 @@ Watch for:
   - “Okay, so anyway, last August, I go bareback with this same slut.”
   - “Don't say that whore's name in front of our baby.”
 
-## S7 E20 — Trilogy Time
+## S7 E20 — 20. Trilogy Time
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0720.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: Ted, Marshall and Barney embark on another "trilogy time," where they get together every three years to watch the "Star Wars" trilogy and envision what their lives will be like in another three years. Meanwhile Barney and Quinn move in together.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Oh, baby, how do you feel after spending all day working on your art, since I make enough to support us both financially? Horny.”
@@ -3204,10 +3045,9 @@ Watch for:
   - “Whassaaaa! Okay, seriously, at least tell me you're gonna change the what will by then be nine-year-old beer commercial reference.”
   - “Do you think instead of making a beer fly out of the fridge, I made that lamp break? Either that or the stormtrooper did.”
 
-## S7 E21 — Now We're Even
+## S7 E21 — 21. Now We're Even
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0721.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Just as Ted starts to settle into his new apartment alone, Barney tries to entice him into going out every single night. Meanwhile, Lily has a naughty dream about someone other then Marshall, and Robin finally becomes a famous news anchor.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Man, this kid better be real freakin' cute! What was that all about? Lily had a sex dream last night.”
@@ -3225,10 +3065,9 @@ Watch for:
   - “I'll grant you that if you include the 12 points for designing the skyscraper, the 83 points for slapping five with Tommy Lee and the 9,000 points for banging Robin before me, our point totals would be about…”
   - “Last year, I slapped on a dress, took a few laps around this very bar, and I got this: the phone number of one Stephanie McColgan.”
 
-## S7 E22 — Good Crazy
+## S7 E22 — 22. Good Crazy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0722.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Lily and Marshall have a baby shower, Marshall starts to panic after realizing the baby is coming soon. Meanwhile, Ted and Robin come to terms with their relationship and Barney takes Marshall on a road trip.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Laying low as in sleeping with a really short chick? You guys doing 39? I mean, I'm not seeing anyone.”
@@ -3257,10 +3096,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You people are whores.”
 
-## S7 E23 — The Magician's Code (1)
+## S7 E23 — 23. The Magician's Code (1)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0723.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: While Marshall is in Atlantic City with Barney, Lily goes into labor, leaving him desperate to make it back to New York before the baby is born. Meanwhile, Ted and Robin try to distract Lily during her painful contractions.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You can't have sex with Lily.”
@@ -3270,10 +3108,9 @@ Watch for:
   - “1 Kids, when Aunt Lily went into labor, Marshall was somewhere slightly inconvenient, in Atlantic City with Uncle Barney, and drunk to the point of talking like Yoda.”
   - “But he still considers getting up these two steps when he was this drunk to be the hardest one of all.”
 
-## S7 E24 — The Magician's Code (2)
+## S7 E24 — 24. The Magician's Code (2)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0724.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: On Barney's future wedding day, when his wife is finally revealed, the gang reminisces about the time they encouraged Ted to follow his heart and go after the one that got away.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3303,7 +3140,6 @@ Watch for:
 ## S8 E1 — 1. Farhampton
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0801.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Robin's anxiety on her wedding day to Barney prompts Ted to recount the time he insisted on leaving Victoria's jilted fiancé a note before they drove off into the sunset together.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “We're totally not gonna go have sex in the kitchen, if that's what you're thinking.”
@@ -3331,7 +3167,6 @@ Watch for:
 ## S8 E2 — 2. The Pre-Nup
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0802.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Barney designs an extensive pre-nup, the guys take note and propose their own relationship amendments to their significant others. Meanwhile, Quinn is outraged and draws up a pre-nup of her own, which causes friction between the sexes.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “"Miss Garvey must invent 12 new sexual positions per year, "at least ten of which involve her doing all or most of the work.”
@@ -3359,7 +3194,6 @@ Watch for:
 ## S8 E3 — 3. Nannies
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0803.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Lily and Marshall have trouble finding a nanny, they learn it's because of an elaborate scheme Barney came up with to meet girls. Meanwhile, Robin and Ted butt heads over who has a more serious relationship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And in the end, the coroner's report confirmed what I already feared: the female body cannot withstand that many consecutive orgasms.”
@@ -3376,7 +3210,6 @@ Watch for:
 ## S8 E4 — 4. Who Wants to Be a Godparent?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0804.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Lily and Marshall can't decide on godparents for Marvin, they put the gang to the test to see who would make the best one.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…themselves in the ladies' ova! Break it down! (beatboxing) I'm sorry, don't you need to actually have had sex in order to explain it?”
@@ -3396,7 +3229,6 @@ Watch for:
 ## S8 E5 — 5. The Autumn of Break-Ups
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0805.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: As the season of break-ups continues, Ted and Victoria must choose the next step in their long and complicated relationship. Meanwhile, Robin worries about Barney when he chooses a dog to be his wingman.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “All right, we-we're cosigning birthday cards, w-we got toothbrushes at each other's places, foreplay's out the window.”
@@ -3412,7 +3244,6 @@ Watch for:
 ## S8 E6 — 6. Splitsville
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0806.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Robin is hesitant to break up with Nick, Barney takes matters into his own hands. Meanwhile, Lily and Marshall are desperate for some private time.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Why? Who can say? Nick and I haven't had sex in three days.”
@@ -3429,7 +3260,6 @@ Watch for:
 ## S8 E7 — 7. The Stamp Tramp
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0807.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Marshall recommends his old law school classmate Brad for a job at his firm, but the interview goes awry, leaving Marshall to do damage control with his boss. Meanwhile, Robin helps negotiate Barney's return to the strip club circuit.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3459,7 +3289,6 @@ Watch for:
 ## S8 E8 — 8. Twelve Horny Women
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0808.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Marshall takes on his old friend/new nemesis Brad in the biggest case of his career. Meanwhile, the gang reminisces about their own run-ins with the law, leading to a debate over who was the biggest delinquent as a teenager.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “That guy wasn't masturbating.”
@@ -3476,7 +3305,6 @@ Watch for:
 ## S8 E9 — 9. Lobster Crawl
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0809.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Robin is determined to get Barney back no matter what it takes. Meanwhile, Ted fills in as Marvin's Nanny, leading Marshall and Lily to realize that Ted is using baby Marvin to replace his other baby - the GNB building.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Just remember, you can never hook up with Barney again.”
@@ -3500,10 +3328,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “You looked like you were gonna chase Barney down with a sixer of watermelon wine coolers.”
 
-## S8 E10 — The Over-Correction
+## S8 E10 — 10. The Over-Correction
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0810.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Robin becomes increasingly suspicious of Barney's relationship with Patrice. Meanwhile, Marshall discovers his mother is moving on in her romantic life... with a very disturbing partner.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Um, Robin, after you rejected Barney, didn't he reject you? And didn't you go over to his place and try to sleep with him in your purple-and- black underwear?”
@@ -3522,10 +3349,9 @@ Watch for:
   - “(beeps, hisses) (sighs) (hissing) (choir singing) David Lee Roth's autobiography? Crap.”
   - “(cell phone buzzes) (knocking at door) Damn it, Ted! You get those ornaments all year.”
 
-## S8 E11 — The Final Page (1)
+## S8 E11 — 11. The Final Page (1)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0811.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: With Christmas fast approaching, Barney tells Ted that he plans on proposing to Patrice, which leads Ted to debate whether or not to tell Robin.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It just means that you're horny and you're easy.”
@@ -3550,10 +3376,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Lily, are you drunk? What? I I'm on vacation.”
 
-## S8 E12 — The Final Page (2)
+## S8 E12 — 12. The Final Page (2)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0812.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Marshall and Lily run into an acquaintance from college
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “It just means that you're horny and you're easy.”
@@ -3578,10 +3403,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Lily, are you drunk? What? I I'm on vacation.”
 
-## S8 E13 — Band or DJ?
+## S8 E13 — 13. Band or DJ?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0813.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Robin learns that Barney never asked her father's permission before proposing, she insists that he seek his approval before announcing their engagement. Meanwhile, Ted keeps his feelings concealed by throwing himself into planning their wedding.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “He always looks like he just came from slapping some guy tied to a chair in a back room.”
@@ -3595,10 +3419,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “You're gonna stick me with that baby so that you guys can spend five minutes sorting out his love life, followed by an hour of you getting drunk and pretending to be in The Departed.”
 
-## S8 E14 — Ring Up!
+## S8 E14 — 14. Ring Up!
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0814.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Barney begs Ted to continue seeing his much younger, much wilder girlfriend, even though Ted has nothing in common with her. Meanwhile, Robin must adjust to the power of the bling.
 Watch for:
 - Sex & hookups — 11 moment(s)
   - “Yeah, I don't speak virgin either.”
@@ -3622,10 +3445,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “That slut just got here.”
 
-## S8 E15 — P.S. I Love You
+## S8 E15 — 15. P.S. I Love You
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0815.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Barney uncovers the lost episode of Robin's "Underneath the Tunes" as Robin Sparkles. Meanwhile, Marshall and Lily are concerned that Ted's new girlfriend is a stalker.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “I'm bloody good on the pommel 'orse.”
@@ -3635,10 +3457,9 @@ Watch for:
   - “Wait, no, damn it, come back!”
   - “Oh, no - Damn, I always forget the little one.”
 
-## S8 E16 — Bad Crazy
+## S8 E16 — 16. Bad Crazy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0816.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Ted is reluctant to break up with his crazy girlfriend Jeanette. Meanwhile, Robin becomes attached to Marvin after finally holding him for the first time.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “That's it, isn't it? What? No, I Like I should be surprised with her fancy medical degree and her sexy Southern drawl.”
@@ -3657,10 +3478,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “She broke your TV with a beer bottle? In her defense, she was aiming for the window.”
 
-## S8 E17 — The Ashtray
+## S8 E17 — 17. The Ashtray
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0817.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: When Ted receives an unexpected call from The Captain, the gang reminisced about their last awkward encounter with him.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Should I give it to him? Is he trying to hook up with my fiancÃ©e? No, uh-uh.”
@@ -3671,10 +3491,9 @@ Watch for:
   - “And then you know what? I'm gonna find Shelly, and I'm gonna punch her in the face.”
   - “I am-- I'm gonna punch a girl and run away.”
 
-## S8 E18 — Weekend at Barney's
+## S8 E18 — 18. Weekend at Barney's
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0818.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: When Ted and Jeanette break up, Barney tries to help him land a new girl by using the infamous playbook Robin thought he had destroyed. Meanwhile, at a gallery opening where Lily hopes to make a good impression, Marshall ends up unintentionally getting noticed.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “And I found one from a woman with the subject line, "big penis orgasms," so naturally, I smashed your plates, knifed your mattress, peed in your drawers, the whole nine, but…”
@@ -3697,10 +3516,9 @@ Watch for:
   - “I found two wine glasses you didn't smash.”
   - “Would anyone like some wine? It's a nice CÃ´tes du RhÃ´ne.”
 
-## S8 E19 — The Fortress
+## S8 E19 — 19. The Fortress
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0819.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: After Robin asks Barney to sell his bachelor pad so they can build a home together, Barney is reluctant and drives away potential buyers. Meanwhile, Lily's commitment to her job as The Captain's art consultant strains her relationship with Marshall.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “(chuckles) Well, you don't get to be a state-certified orgasmologist without learning how to please a woman.”
@@ -3719,10 +3537,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Not so I could live in a disease-riddled bang pad haunted by the ghosts of your ex-skanks.”
 
-## S8 E20 — The Time Travelers
+## S8 E20 — 20. The Time Travelers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0820.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Future versions of Ted and Barney try to convince Ted to go see Robots Versus Wrestlers. Meanwhile, Marshall challenges Robin to a dance-off.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Lily, I know that I have the sexual charisma of a bad boy, but I certainly don't have the manners of one.”
@@ -3742,20 +3559,18 @@ Watch for:
   - “But in this case, yeah, you kind of have to be wasted.”
   - “(all agreeing, overlapping chatter) You drink beers in cans still.”
 
-## S8 E21 — Romeward Bound
+## S8 E21 — 21. Romeward Bound
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0821.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When The Captain asks Lily to move to Rome for a year to be his art consultant, she fears that Marshall will resent her. Meanwhile, Ted and Barney become obsessed with a girl who is hiding her amazing body under a puffy coat.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Weapons of bra destruction.”
 - Alcohol & drugs — 1 moment(s)
   - “Yeah, but he also loves Italy! He took a week of Italian in college, and the only reason he dropped it was 'cause he had a conflict with being not stoned.”
 
-## S8 E22 — The Bro Mitzvah
+## S8 E22 — 22. The Bro Mitzvah
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0822.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: The gang works together to plan a legendary bachelor party for Barney.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Did you tell your mother I'm a virgin? What? Why would you think that? Save yourself room for dessert.”
@@ -3783,10 +3598,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Four cosmos, pronto! Now she's drunk, holding up a napkin ring and three breadsticks, and talking about her night with Crosby, Stills and Nash.”
 
-## S8 E23 — Something Old
+## S8 E23 — 23. Something Old
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0823.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Robin is desperate to find her "something old" she buried in Central Park years earlier for the wedding. Meanwhile, Marshall and Lily ask for Ted's help packing for Italy, and Barney bonds with Robin, Sr..
 Watch for:
 - Violence & injury — 2 moment(s)
   - “And yet, my future husband-- who I sometimes fear is troublingly similar to my emotionally unavailable father-- is off shooting laser guns with, oh, yeah, you guessed it: my emotionally unavailable father.”
@@ -3799,10 +3613,9 @@ Watch for:
   - “A leaky, ten-year-old beanbag chair covered in beer, bong water and fossilized Cool Ranch Dorito fingerprints.”
   - “Ted Italy doesn't need something that is wrinkled, red and leaky, and smells like booze and narcotics.”
 
-## S8 E24 — Something New
+## S8 E24 — 24. Something New
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0824.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: As the gang prepares to head out to Robin and Barney's wedding, Ted invites Lily to see the house he's finally finished fixing up. Meanwhile, Robin and Barney's night of relaxation is ruined by an obnoxious couple, and Marshall takes the baby on a last-minute trip to Minnesota to see his family.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Now that we've broken up a seven-year relationship just 'cause they stole our table, I feel kind of Awesome? I was going to say horny, but yeah, awesome, too.”
@@ -3818,7 +3631,6 @@ Watch for:
 ## S9 E1 — 1. The Locket
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0901.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: On their way to Long Island for their wedding weekend, Robin and Barney come across a startling family discovery. Meanwhile, Marshall sees something online that changes the course of his entire journey back east, and Lily confronts Ted about letting go of Robin.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “The day they got married, they lifted the curse forever, freeing me from the shackles of having sex with lots of different women.”
@@ -3855,7 +3667,6 @@ Watch for:
 ## S9 E2 — 2. Coming Back
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0902.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: When James reveals that he is getting divorced, Robin worries about how Barney will take the news. Meanwhile, Marshall races to find a way to get to New York in time for the wedding, and Ted deals with being alone at a romantic hotel.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “The day they got married, they lifted the curse forever, freeing me from the shackles of having sex with lots of different women.”
@@ -3892,7 +3703,6 @@ Watch for:
 ## S9 E3 — 3. Last Time in New York
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0903.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Lily discovers Ted's list of things he wants to do in New York before he moves for Chicago, she becomes frustrated that she is the only person who knows about his plans. Meanwhile, Robin and Barney realize they have very little time together before their relatives arrive for their wedding.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Man, when was the last time you think they had sex? Probably not since the Maple Leafs won the cup.”
@@ -3918,7 +3728,6 @@ Watch for:
 ## S9 E4 — 4. The Broken Code
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0904.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: While Barney works through his anger at Ted after finding out he still has feelings for Robin, Marshall Skypes in to act as a judge and help settle their dispute. Meanwhile, Lily realizes she is Robin's only girlfriend.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “(laughs) (both laughing) Hey, this might sound a little nutty, but how about we inject a sexual edge into our abiding friendship that BOTH: in no way jeopardizes our emotional connection, or respective marriages?!”
@@ -3940,7 +3749,6 @@ Watch for:
 ## S9 E5 — 5. The Poker Game
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0905.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Barney is forced to pick sides in a fight between Robin and his mother, Lily coaches him on how not to ruin his relationship. Meanwhile, Ted and Marshall get into a dispute over wedding gifts and thank-you.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I'm gonna tell you what I told frampton's guitar tech When he couldn't find a condom: Let's gamble.”
@@ -3959,7 +3767,6 @@ Watch for:
 ## S9 E6 — 6. Knight Vision
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0906.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Ted finds himself with three prospects to be his date for the wedding weekend, he chooses poorly. Meanwhile, Barney and Robin have a confrontation with their minister, and Marshall learns more about his driving companion, Daphne..
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “I needed help hooking up my stereo, So I walked down the hall, and I just knew I should knock on this one door.”
@@ -3979,7 +3786,6 @@ Watch for:
 ## S9 E7 — 7. No Questions Asked
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0907.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Daphne sends a troubling text message to Lily, Marshall enlists the gang's help to remove the message while enforcing the "No Questions Asked" rule.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Just because you didn't know better than to take a naked selfie while you were in the coldest part of the country First, I'm an Eriksen.”
@@ -4002,7 +3808,6 @@ Watch for:
 ## S9 E8 — 8. The Lighthouse
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0908.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: When Robin and Loretta's conflict escalates, Barney is caught in the middle. Meanwhile, Marshall and Daphne deal with a stowaway on their road trip, and Ted and Cassie try to enjoy a trip to a lighthouse.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “(whistles, blows raspberry) I don't want your blood on my hands, and I mean that literally, because it would be my job to to hose down the rocks.”
@@ -4023,7 +3828,6 @@ Watch for:
 ## S9 E9 — 9. Platonish
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0909.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: In a flashback episode, the gang ponders the future of the Ted, Robin and Barney love triangle. Meanwhile, Barney accepts a series of challenges from Lily and Robin.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Symposium: “two people are only platonic if in the next 20 minutes there is no chance of them hooking up.”
@@ -4033,10 +3837,9 @@ Watch for:
   - “(chittering) Wow, was that three glasses of wine? Where does the time go (chitters) (chuckles) Look, I know that you need to get back to your studies.”
   - “(cell phone ringing) I'm gonna go grab us some beers.”
 
-## S9 E10 — Mom and Dad
+## S9 E10 — 10. Mom and Dad
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0910.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: When Barney's father arrives at the hotel, Barney devises a plan that makes Robin very nervous. Meanwhile, Ted is convinced someone framed him by messing up a wedding-related.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “No, Barney lowered in a TV showing some pretty graphic 1970s pornography.”
@@ -4054,10 +3857,9 @@ Watch for:
   - “(R&B music playing) I said, bang Well, we don't need wine.”
   - “Bang Bangity bang We don't need champagne, either.”
 
-## S9 E11 — Bedtime Stories
+## S9 E11 — 11. Bedtime Stories
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0911.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: Marshall tries to get Marvin to sleep by reciting three rhyming bedtime tales about his friends as they wind down their epic cross-country journey.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “So many great things 'bout this girl: her boobs, her rack, her chest.”
@@ -4074,10 +3876,9 @@ Watch for:
   - “She's sipping Chardonnay, not pounding cherry-flavored booze.”
   - “Carlotta, some champagne.”
 
-## S9 E12 — The Rehearsal Dinner
+## S9 E12 — 12. The Rehearsal Dinner
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0912.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Barney becomes fixated on having his rehearsal dinner at a laser tag arena, much to Robin's dismay. Meanwhile, Ted doesn't come through on a promise, which aggravates Lily.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Inflatable sex toy life raft.”
@@ -4104,10 +3905,9 @@ Watch for:
   - “Yes, Barney, the booze is real.”
   - “We're gonna have a nice dinner, some drinks, and then, according to Robin, if her Aunt Edith gets drunk enough, she'll take off her wig and they'll play hockey with it.”
 
-## S9 E13 — Bass Player Wanted
+## S9 E13 — 13. Bass Player Wanted
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0913.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: The gang encounters a guy at the wedding who intentionally stirs up trouble among them, and Marshall finally arrives at the Farhampton Inn.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I have not! You have been sleeping with a doll made of cushions that you named after him.”
@@ -4123,10 +3923,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “And you don't need to lose weight, Louise, no matter what he told me.”
 
-## S9 E14 — Slapsgiving 3: Slappointment in Slapmarra
+## S9 E14 — 14. Slapsgiving 3: Slappointment in Slapmarra
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0914.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 12+)
-Summary: In an attempt to deliver a devastating final slap to Barney, Marshall explains how he mastered the Slap of A Million Exploding Suns.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “Oh, my God, you had a tree-way? And, Lily, you were okay with Marshall having an affair? What happens in the magical Gongqing Forest stays in the magical Gongqing Forest.”
@@ -4138,10 +3937,9 @@ Watch for:
   - “(sighs) The point is, you need to go get slapped in the face by a bunch of gullible chicks Barney banged.”
   - “Why Cleveland? It's the city equivalent of being slapped in the face.”
 
-## S9 E15 — Unpause
+## S9 E15 — 15. Unpause
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0915.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Barney drinks too much, Ted and Robin take advantage of him and get him to reveal secrets he's been hiding for years. Meanwhile, Marshall does everything he can to avoid fighting with Lily.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I've had sex in Ted's bed 14 times.”
@@ -4164,10 +3962,9 @@ Watch for:
   - “How you doin'? NARRATOR: "Richard Dawson drunk" Ah, is this your sister?”
   - “" So drunk that his speech bore an uncanny resemblance to that of Jabba the Hutt from Return of the Jedi.”
 
-## S9 E16 — How Your Mother Met Me
+## S9 E16 — 16. How Your Mother Met Me
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0916.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: On the 200th episode, The Mother recounts how she met Ted and what she's been up to for the past eight years.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -4177,10 +3974,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “…geez, what is this knucklehead doing? Excuse me! Hey! You guys need a lift? DARREN: The best man just punched me in the face for no reason.”
 
-## S9 E17 — Sunrise
+## S9 E17 — 17. Sunrise
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0917.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: While out looking for an inebriated Barney on the day of the wedding, Robin and Ted reminisce about past relationships. Meanwhile, Marshall and Lily finally resolve their issues and Barney befriends two young guys eager to meet women.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And my condom expired.”
@@ -4197,10 +3993,9 @@ Watch for:
   - “If I have to hold the shotgun myself, it's happening.”
   - “I thought you don't like guns.”
 
-## S9 E18 — Rally
+## S9 E18 — 18. Rally
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0918.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: When Barney suffers from the world's worst hangover the morning of his wedding, the gang tries to figure out the far-fetched ingredients to concoct the Stinson Hangover Fixer Elixir.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Lily Aldrin? Let's make out.”
@@ -4223,19 +4018,17 @@ Watch for:
   - “Also, uh, we need it to help a friend recover from a hangover.”
   - “Remember? Marshall thought he botched day two of the bar exam, so he freaked out that night and got wasted?”
 
-## S9 E19 — Vesuvius
+## S9 E19 — 19. Vesuvius
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0919.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: On the morning of the wedding, Lily and Robin have a fight and Barney freaks out about which suit to wear. Meanwhile, the gang watches a movie Ted has forbidden them to see.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - Stripper or strip-club material shows up in the plot.
   - “Like the one where my college roommates and I went to this male strip club And your friend Dongnose got smacked on the nose with a dong? I know that one.”
 
-## S9 E20 — Daisy
+## S9 E20 — 20. Daisy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0920.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
-Summary: Marshall enlists Ted and Barney to help him figure out where Lily went when she left in the middle of their fight.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “When Lily and Marshall are apart for an extended period of time, what is the one thing Lily always does? Cry? Masturbate? Karate? Go sailing? No.”
@@ -4245,10 +4038,9 @@ Watch for:
   - “Drink the blood of your vanquished enemy and move on.”
   - “Marshall do you want to go over to the Captain's house right now, punch him in the face really fast and then come back and do this wedding? Would that be okay? Ranjit, get the car.”
 
-## S9 E21 — Gary Blauman
+## S9 E21 — 21. Gary Blauman
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0921.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
-Summary: When Gary Blauman shows up at the wedding, it sends the gang into a frenzy as they each recall an encounter with him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “When he was Assistant Secretary of the Navy Will you just pick one of us already so I can either have sex or go to sleep! Smooth, bro.”
@@ -4258,10 +4050,9 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - “Gary's the guy that I had an affair with.”
 
-## S9 E22 — The End of the Aisle
+## S9 E22 — 22. The End of the Aisle
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0922.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
-Summary: With only a half-hour to go, both Barney and Robin have panic attacks about their upcoming nuptials. Meanwhile, Marshall and Lily rewrite their old wedding vows.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “What do you think I'm writing? Suicide note? Hey-yo! (laughs) Oh, God, is it a suicide note? Oh, my God, how many pills did you take? Quick.”
@@ -4271,10 +4062,9 @@ Watch for:
   - “Hell, Ted even cried.”
   - “So I'm just gonna run away alone! (panting) Damn it.”
 
-## S9 E23 — Last Forever (1)
+## S9 E23 — 23. Last Forever (1)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0923.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Ted finally finishes telling his kids the story of how he met their mother.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “There's only one way I'd let either of you have sex with her.”
@@ -4298,10 +4088,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Barney, if you start brewing your own beer now and nail my prom date, so help me Years too late on one of those, Teddy.”
 
-## S9 E24 — Last Forever (2)
+## S9 E24 — 24. Last Forever (2)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0924.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Ted finally finishes telling his kids the story of how he met their mother.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “There's only one way I'd let either of you have sex with her.”

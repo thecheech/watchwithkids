@@ -2,12 +2,11 @@
 
 Source: https://watchwiththekids.com/malcolm-in-the-middle.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 97 all clear (1–2), 48 gray area (3), 6 hard pass (4–5).
+Buckets: 99 all clear (1–2), 46 gray area (3), 6 hard pass (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0101.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm finds his life as the middle brother in an eccentric family made even more difficult by his being placed in a class for "gifted" students at school.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “( Screaming ) Who's the baby now? I'm here because I think that there is a tremendous opportunity for Could you, you know, maybe put a top on? They're just boobs, lady.”
@@ -17,7 +16,6 @@ Watch for:
 ## S1 E2 — 2. Red Dress
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0102.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois must take drastic steps to discover which of her sons ruined the special dress she bought for an anniversary dinner with Hal.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Think! All I can think about is how hard he's twisting my nipple.”
@@ -29,7 +27,6 @@ Watch for:
 ## S1 E3 — 3. Home Alone 4
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0103.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois and Hal leave the boys alone for the weekend with Francis, promising that if all goes well, Francis may not have to go back to military school.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Yep, that underwear is going to wrinkle.”
@@ -41,7 +38,6 @@ Watch for:
 ## S1 E4 — 4. Shame
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0104.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm feels guilty after beating up a seven year old; Hal takes heat after cutting down a tree; Francis tries to sabotage Spangler's sex education lecture.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Now he has to ruin sex? Now, remember every one of these diseases can easily be transmitted to you.”
@@ -62,7 +58,6 @@ Watch for:
 ## S1 E5 — 5. Malcolm Babysits
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0105.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: While his family is reduced to living in a trailer in their driveway while their house is fumigated, Malcolm luxuriates while babysitting for what seems like the ideal family.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You have got to call the exterminator! What, and miss out on watching you hunt? You're like a sexy, bug-killing panther.”
@@ -79,7 +74,6 @@ Watch for:
 ## S1 E6 — 6. Sleepover
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0106.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: During a sleepover, Malcolm sneaks Stevie out of the Kenarin house and loses his wheelchair; Francis deals with hazing at military school; and Reese tries to prove he's man enough to watch a scary movie
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “What's that? A naked man arguing with a wall.”
@@ -92,7 +86,6 @@ Watch for:
 ## S1 E7 — 7. Francis Escapes
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0107.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm's brother, Francis, runs away from military school and comes home to see his girlfriend.
 Watch for:
 - Slut-shaming — 2 moment(s)
   - “She's a tramp.”
@@ -101,7 +94,6 @@ Watch for:
 ## S1 E8 — 8. Krelboyne Picnic
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0108.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: The whole family attend a Krelboyne family picnic, and Malcom dreads his performance in the event's "Academic Circus" will make him look like a freak.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “You better be naked when I get back.”
@@ -111,15 +103,13 @@ Watch for:
 ## S1 E9 — 9. Lois vs. Evil
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0109.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: The family suffers in poverty after Lois gets fired from the grocery store; Francis loves his new assignment as part of an honor guard at a beauty pageant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Not to mention the most talented sweet and sexy What? Francis are are you sure you're really how you are? Tanya, I'm so confused.”
 
-## S1 E10 — Stock Car Races
+## S1 E10 — 10. Stock Car Races
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0110.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: While Hal secretly takes the boys to the stock car races, Lois desperately searches for her missing paycheck.
 Watch for:
 - Swearing — 6 moment(s)
   - “'' And they wouldn't bother making it ''forbidden'' if it wasn't something totally bitchin' on the other side.”
@@ -131,28 +121,25 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Get your dad a beer.”
 
-## S1 E11 — Funeral
+## S1 E11 — 11. Funeral
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0111.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm talks the family out of going to a relative's funeral, so he can go on his first date instead.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “I don't want to go anymore! Just leave me alone! ( music continues ) ( music stops ) How could you let her see me in my underwear? Mom, this has gone too far.”
 
-## S1 E12 — Cheerleader
+## S1 E12 — 12. Cheerleader
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0112.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm helps Reese become a male cheerleader to attract a girl; Francis has a heart-to-heart conversation with headmaster Spangler; Dewey is enticed by a new toy.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And if they love each other and take the proper precautions, they'll have sex.”
 - Slut-shaming — 1 moment(s)
   - Spangler: “My mother was neither a madonna or a whore! She was a damn fine woman.”
 
-## S1 E13 — Rollerskates
+## S1 E13 — 13. Rollerskates
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0113.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm suffers under his father's roller skating tutelage, while Lois is sidelined with a nasty back injury.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “All I'm taking is a canteen a knife, my bedroll and some emergency rations.”
@@ -160,10 +147,9 @@ Watch for:
 - Swearing — 1 moment(s)
   - “They paraded every Tom, Dick and Harry through that room to look at me.”
 
-## S1 E14 — The Bots and the Bees
+## S1 E14 — 14. The Bots and the Bees
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0114.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: While Lois is out of town visiting Francis after his appendectomy, Malcolm and his friends build a robot, but Hal reverts to his pre-marriage wild-man persona and takes over the project.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “He's smoking, he's dancing around in his underwear.”
@@ -178,18 +164,16 @@ Watch for:
   - “Well, how about this? I didn't come to work because somehow I felt that eight hours of joyless, mind-numbing crap just didn't seem like fun.”
   - “( gears growl ) What the hell is that thing? That thing is a little project we have been working on around here.”
 
-## S1 E15 — Smunday
+## S1 E15 — 15. Smunday
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0115.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Lois gets sick, Malcolm and his brothers convince her it's Sunday so they can stay home from school...while Hal heeds the Siren song of a Porsche dealership.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Did Grandpa really punch Jimmy Carter in the face? No, he just threw a rock at the motorcade and ran off.”
 
-## S1 E16 — Water Park (1)
+## S1 E16 — 16. Water Park (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0116.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and Reese spend the day fighting at a water park; Francis gets into a different kind of pool match with Spangler; and Dewey stays home with an odd babysitter.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Let me adjust your bra strap.”
@@ -202,7 +186,6 @@ Watch for:
 ## S2 E1 — 1. Traffic Jam (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0201.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Stranded in a traffic jam, Malcolm meets his match in an intriguing young girl; Reese attempts to break into an ice cream truck; and Lois tries to control the uncontrollable chaos.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Hal, stop to look back That car has been pursuing Just cum and let it go Oh that making signs with lights Want it that way eh For God's Hal! He could have a gun! Just let it go Oh agreement ended.”
@@ -218,19 +201,16 @@ Watch for:
 ## S2 E2 — 2. Halloween Approximately
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0202.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: Malcolm and his brothers build the ultimate stealth weapon, while Hal and Lois battle a speeding car that terrorizes their neighborhood.
 Watch for: nothing flagged.
 
 ## S2 E3 — 3. Lois's Birthday
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0203.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: When the boys demolish Lois' meager hopes for a happy birthday, she runs away from home.
 Watch for: nothing flagged.
 
 ## S2 E4 — 4. Dinner Out
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0204.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm's family goes out to dinner with the straight-laced Kenarbans, while Francis makes the mistake of inviting local girls to a party at Marlin Academy.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Listen girls Save my underwear! Good blow.”
@@ -249,13 +229,11 @@ Watch for:
 ## S2 E5 — 5. Casino
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0205.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: When the family takes a vacation to a casino, Hal gets banned from gambling and takes Malcolm and Reese on an ill-fated trek into the desert; Lois and Dewey win a free day of spa pampering.
 Watch for: nothing flagged.
 
 ## S2 E6 — 6. Convention
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0206.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and Reese compete with Dewey for a cute babysitter's attention, while Hal and Lois attend a convention where Hal can't resist fighting with an old rival.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Would you sleep with me? Okay, let's go.”
@@ -270,7 +248,6 @@ Watch for:
 ## S2 E7 — 7. Robbery
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0207.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: While Hal and the boys are besieged by bats after Hal brings home an antique armoire; Lois gets robbed at work.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “…here -No -Si, if you want $ 50 Look, I have only 20 so agree! Hey, watch out! idiot, is the mainstay of breast What?”
@@ -283,7 +260,6 @@ Watch for:
 ## S2 E8 — 8. Therapy
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0208.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm gets into therapy to get out of class; Francis cleans up on laundry duty; Dewey turns out to be a skittles prodigy; and Hal and Lois attempt to clean out an over-stuffed closet.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “My brother went last year and had so much blood false fainted.”
@@ -295,25 +271,22 @@ Watch for:
 ## S2 E9 — 9. High School Play
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0209.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm's friendships suffer when he becomes the suddenly popular star of a high school play; Hal and Dewey build their very own Utopia from plastic blocks.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “…or navel Julie will know, camp with fua while her boyfriend was away Josh lead all camp and tries to swim naked with But I do not think Josh naked is stimulating You know, throw a party Deveria -swimming pool at my…”
 - Slut-shaming — 1 moment(s)
   - “know that our grief spirit and it never will Not worth it! seems I'm again the only man around here - I can not believe that Nicole is thus seen if you want to look like whore is well .”
 
-## S2 E10 — The Bully
+## S2 E10 — 10. The Bully
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0210.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Reese gives up his position as school bully, Malcolm suffers at the hands of his successors; Francis dreads his upcoming birthday at Marlin Academy.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “We can take the beating, but we should not use underwear in case we split our ups and half.”
 
-## S2 E11 — Old Mrs. Old
+## S2 E11 — 11. Old Mrs. Old
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0211.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm gets in trouble with an elderly neighbor; Francis' slacker friend enrolls at Marlin Academy; Dewey trades his backpack for a purse.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “…pills are working I keep taking them and I feel nothing Do not be stingy with the cream You'll need a knife when you get calluses If you did not know him well say that that new doctor was Hungarian Dr.”
@@ -322,19 +295,17 @@ Watch for:
 - Swearing — 1 moment(s)
   - “…a major problem Very well, thank you I have to go Well, it was not her I need another bag Again? How the fuck up so much?”
 
-## S2 E12 — Krelboyne Girl
+## S2 E12 — 12. Krelboyne Girl
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0212.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm experiences his first crush as a confusing mix of love and hate; Francis tries to avoid discipline for his latest prank; Dewey overreacts to Lois' lecture about the hazards of dirty teddy bears.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “No, I mean I thought in your bra.”
   - “No, I was thinking about what's in your bra! Well I mean .”
 
-## S2 E13 — New Neighbors
+## S2 E13 — 13. New Neighbors
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0213.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: New neighbors, who turn out to be even more awful than Malcolm's family, move in next door; the Marlin Academy cadets prepare for a visit from Oliver North.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “…spit on your hamburger? Do not worry Do you want to see something funny? Stop looking at him my mother's breasts!”
@@ -347,10 +318,9 @@ Watch for:
   - “…Oh, little monsters! Is teaching me to swim I can not believe after all what made us go Spangler was intoxicated and let Colonel planted if it was frightening how crawling on the floor Calling his mother .”
   - “…to call him "Oly" - Really? Do not you remember? They were joking and laughing like old friends drinking whiskey Much, much whiskey Clearly, if, right?”
 
-## S2 E14 — Hal Quits
+## S2 E14 — 14. Hal Quits
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0214.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Hal quits his job to become an artist; Francis suffers though a week of inventory work at Lucky Aide; and Malcolm begins to wonder about his own career future.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Look at the sexy teacher! Dad, are you going to carry all that crap to the class of Dewey? If Malcolm, this is my first presentation I want to surprise them.”
@@ -359,10 +329,9 @@ Watch for:
   - “Wait a minute, "Go home? Did not you hear? We lost! Spring wasted counting slippers and candy They say that all this was for nothing? Yes.”
   - “Do you know how many parties I missed this week? In many moves could have been how many girls could have known that drunk would have taken it off if I had been at his side to encourage them .”
 
-## S2 E15 — The Grandparents
+## S2 E15 — 15. The Grandparents
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0215.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois' disapproving parents visit; Francis goes to Mardi Gras but gets stopped by food poisoning.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “…- I know, is a junk Just 5 years How does it break so much? Bring the garage fridge maybe that works That breast decide!”
@@ -372,27 +341,24 @@ Watch for:
   - “Guaranteed! You do not know what is out there! There is free beer, and girls remove your shirt if you give them endorse it!”
   - “oh, I'm so full, I should not ask for another Are you all right Grandma? if you want I can take the bag or whiskey.”
 
-## S2 E16 — Traffic Ticket
+## S2 E16 — 16. Traffic Ticket
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0216.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois disputes a cop's claim she was driving recklessly, and orders Francis to pay off $750 in parking tickets he racked up under her name.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Are you kidding? "It's brilliant From now on what she says something it we take in the face! Francis, I can not! If I show this video mom go crazy! And then kill the messenger, that's me! You're asking me to suicide!”
 
-## S2 E17 — Surgery
+## S2 E17 — 17. Surgery
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0217.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm is hospitalized for an appendectomy; Francis stages a hunger strike at Marlin Academy.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “White blood cells are at 12.”
   - “This is what we call "a hysterical patient" I'm not hysterical, I just think it would be a good idea I have another test decirdir blood before the body open up! Well that's a great idea, really great.”
 
-## S2 E18 — Reese Cooks
+## S2 E18 — 18. Reese Cooks
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0218.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Reese discovers a talent for cooking; Malcolm tries to convince a Krelboyne classmate not to have a party; Francis is forced to write a term paper.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “None of breast Cordon Blue and no cake.”
@@ -400,10 +366,9 @@ Watch for:
   - “What was your dream? I dreamed I was a man out the door with a large knife I wanted to be tied to all and kill eat your eyes everyone.”
   - “What a surprise! The trick is to support rapid cutting knife on the knuckles and lifting Who cut it? I did.”
 
-## S2 E19 — Tutoring Reese
+## S2 E19 — 19. Tutoring Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0219.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm tries to help Reese bring his grades up; Francis is exiled to a friend's house after defying Lois' order to patch the roof.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Sorry, but the honor compels me to report this conversation with the deputy Then the honor to report that requires us to sleep with a sheet of elmo.”
@@ -411,35 +376,31 @@ Watch for:
   - “And could remove pornography for 5 minutes? Yes, it is over.”
   - “I will put "the girls at the conference" No, no, no more porn! Brother, that's a documentary Au!, God! My eye! Try to find that one Francis, walk disgusting stuff.”
 
-## S2 E20 — Bowling
+## S2 E20 — 20. Bowling
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0220.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and Reese's trip to a bowling alley is seen in two versions; one with Hal chaperoning and one with Lois doing the honors.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Mom did not do this I mean it, you play bowling Oh, the hormones can be cut here with a knife What kind of parent leaves those children alone just like that.”
 
-## S2 E21 — Malcolm vs. Reese
+## S2 E21 — 21. Malcolm vs. Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0221.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Francis forces Malcolm and Reese compete to "earn a coveted ticket to a wrestling match; Dewey loses Craig's cat while Craig is away at a comic book convention.
 Watch for:
 - Swearing — 2 moment(s)
   - “Keep pushing asshole.”
   - “Totally sucks, Is not there anything fun to do here?”
 
-## S2 E22 — Mini-Bike
+## S2 E22 — 22. Mini-Bike
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0222.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: The younger boys try to convince Lois to let them have a mini-bike; Hal attends a father-son weekend at Marlin Academy.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “But do not ever wash my things, I am only touches my underwear.”
 
-## S2 E23 — Carnival
+## S2 E23 — 23. Carnival
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0223.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm, Reese, Dewey, and Stevie sneak out to a county fair, then get locked inside after hours with a drunk, belligerent guard.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Hal brings my bra.”
@@ -453,10 +414,9 @@ Watch for:
   - “Where the hell is the exit? We were hanging around here for 20 minutes.”
   - “Dedicated to show us hell and send to an early grave These guys just do not know how much we suffer.”
 
-## S2 E24 — Evacuation
+## S2 E24 — 24. Evacuation
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0224.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Hal is inadvertently responsible for a toxic chemical spill that forces a neighborhood evacuation; Malcolm deals with being grounded even in the emergency shelter; Francis suffers though a date with a geeky 12-year-old.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “And we can be in place bathe naked girls! So tell us! Malcolm! No visitors.”
@@ -464,16 +424,14 @@ Watch for:
   - “You're a bloody and vicious brat.”
   - “blood does not circulate well.”
 
-## S2 E25 — Flashback
+## S2 E25 — 25. Flashback
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0225.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: When Lois thinks she might be pregnant again, she and Hal argue...and remember how their lives changed with the births of each of their sons.
 Watch for: nothing flagged.
 
 ## S3 E1 — 1. Houseboat (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0301.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and Stevie's families vacation together on a houseboat; Francis decides to quit school and move to Alaska.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Do you realise how close your father came to being a registered sex offender?! A registered sex offender! And for what? For some trampy girl? Mom, please! I feel terrible.”
@@ -485,13 +443,11 @@ Watch for:
 ## S3 E2 — 2. Emancipation (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0302.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and the Krelboynes do battle with a tough new teacher; Francis tries to get Lois to talk to him after his self-emancipation.
 Watch for: nothing flagged.
 
 ## S3 E3 — 3. Book Club
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0303.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois joins a book club; Hal worries about getting the boys to behave while Lois is out; Francis hitchhikes through Canada with a trucker who vows to test Francis' limits.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “A housewife, a career woman, sex slave.”
@@ -506,7 +462,6 @@ Watch for:
 ## S3 E4 — 4. Malcolm's Girlfriend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0304.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm gets his first official girlfriend; Dewey makes a non-imaginary friend; Francis takes refuge with a mad bomber in a remote Canadian cabin.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Are you blaming Francis on me? No! That's what you said! No, I meant that Lois, let's not have this veer off into us somehow not having sex tonight.”
@@ -526,7 +481,6 @@ Watch for:
 ## S3 E5 — 5. Charity
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0305.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and his brothers mine personal profit from some church charity work; Francis gets a taste of life in a logging camp.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Everyone hates her so much, they'll never pin it on us! God, look at this next to my name - emotionally dependent on pornography, loves nut clusters.”
@@ -540,7 +494,6 @@ Watch for:
 ## S3 E6 — 6. Health Scare
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0306.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Hal sweats out a biopsy on a lump found during a medical checkup; Dewey babysits the class hamster; Lavernia challenges Francis to a fight at the logging camp.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “It's gonna be a blood bath! You're right, Dewey.”
@@ -551,7 +504,6 @@ Watch for:
 ## S3 E7 — 7. Christmas
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0307.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois tries to get the boys to behave until Christmas by holding their presents hostage; Francis spends Christmas with his mean-spirited grandmother.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Had to sleep with the pigs.”
@@ -559,7 +511,6 @@ Watch for:
 ## S3 E8 — 8. Poker
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0308.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Hal accuses Abe of cheating him at poker; Francis weathers a storm at the logging camp; Reese and Lois attend a dance class. While Hal gets into a variety of one-up contests with his poker buddies, Reese sets Stevie up with the daughter of one player, while Malcolm discovers the daughter of another player has a gun in her purse.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “No way! You be a gentleman! It's just like touching a corpse It's just like touching a corpse How many lessons have you had? What? None! Really? I'm impressed! You have very good instincts.”
@@ -567,7 +518,6 @@ Watch for:
 ## S3 E9 — 9. Reese's Job
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0309.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Reese is accused of stealing at his new job; Dewey tries to convince his parents he can keep a goldfish alive; Malcolm chafes when a super-genius joins his class.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I get to make out with your girlfriend.”
@@ -580,39 +530,35 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “OK, ready! That is so cool! I wish you had a gun so we can really test this out.”
 
-## S3 E10 — Lois's Makeover
+## S3 E10 — 10. Lois's Makeover
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0310.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: Lois gets dolled up after a scathing customer review; the boys take on Hal at basketball; Francis becomes a rat catcher.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - “What'll it cost me? What? Is it cheaper if we use my car, or do we have to get a room? You think I'm a hooker? No! You do! You think I'm a hooker! Thank you! Come with me! A prostitute.”
   - “This guy was convinced I was a prostitute.”
 
-## S3 E11 — Company Picnic (1)
+## S3 E11 — 11. Company Picnic (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0311.html
-Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: As the picnic continues, Hal can't bring himself to admit his real identity to his boss, Malcolm further humiliates himself, and Reese bonds with his scavenger hunt partner.
+Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - “So nice to Oh, my God! There's a toothpick in my eye! She's gushing blood! Put a tourniquet on her neck! I'm outside of my body.”
 - Alcohol & drugs — 1 moment(s)
   - “I drank an entire bottle of champagne then I passed out.”
 
-## S3 E12 — Company Picnic (2)
+## S3 E12 — 12. Company Picnic (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0312.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: As the picnic continues, Hal can't bring himself to admit his real identity to his boss, Malcolm further humiliates himself, and Reese bonds with his scavenger hunt partner.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “I never said anything about your mother! By the way, I don't have a porn problem! She introduced it into our home! I don't have any interest - It was her idea and now I'm the pervert! I don't know what it is about porn.”
 - Violence & injury — 1 moment(s)
   - “Where's Amis? He ran out yelling about government helicopters and murderous clones.”
 
-## S3 E13 — Reese Drives
+## S3 E13 — 13. Reese Drives
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0313.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Reese gets into trouble during his very first driving lesson; Malcolm helps Craig install a new stereo system; Francis barters a chain of favors to pay off a debt.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You got me here to hook up your stereo? Can't you get one of your friends to help you? And tick off the other friends I didn't ask? Malcolm, this goes far beyond just a stereo.”
@@ -621,10 +567,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Reese surrounded by and 20 gallons of explosive fuel?! It's like giving a shark a sub-machine gun! (PHONE RINGS) Hello? Hey, Dad.”
 
-## S3 E14 — Cynthia's Back
+## S3 E14 — 14. Cynthia's Back
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0314.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm reveals Cynthia's big secret to Reese; Dewey helps Hal overcome his fear of kites; a neighbor makes amends to Lois; Francis becomes enchanted with a totem pole.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - “Brilliant! Maybe my third nipple can get me out of wrestling.”
@@ -644,24 +589,21 @@ Watch for:
   - “Can we please go out and get hammered? Is getting drunk all you think about? We work like dogs all day, drink, then work like hungover dogs.”
   - “There's more to life than falling down drunk and acting like a jackass.”
 
-## S3 E15 — Hal's Birthday
+## S3 E15 — 15. Hal's Birthday
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0315.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: After Francis shows up with his new wife, Malcolm, Reese, and Dewey get so fed up with Lois' constant yelling, they run away from home.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “He got a new back shaver, we got to eat cake cut by a knife and Mom has promised not to yell at us any more.”
 
-## S3 E16 — Hal Coaches
+## S3 E16 — 16. Hal Coaches
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0316.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: Hal begins coaching Dewey's soccer team...much to Dewey's horror; Malcolm gets unexpected results when he programs his new computer to act out the lives of his family; Reese blackmails neighbor Ed.
 Watch for: nothing flagged.
 
-## S3 E17 — Dewey's Dog
+## S3 E17 — 17. Dewey's Dog
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0317.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Dewey hides a dog from his parents; Hal and Lois try to keep a romantic date, even though both of them are sick; Commandant Spangler finds Francis at the logging camp.
 Watch for:
 - Alcohol & drugs — 5 moment(s)
   - “We'll lock the boys in the garage, open a bottle of wine (WHIMPERING) Oh, I know, honey.”
@@ -670,10 +612,9 @@ Watch for:
   - “Go and buy me some medicine, some cold medicine, and serve it to me in a champagne glass.”
   - “(CRASH!) I don't believe it, he's drunk again! Face it, Francis, there's no hope for this guy.”
 
-## S3 E18 — Poker #2
+## S3 E18 — 18. Poker #2
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0318.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: While Hal gets into a variety of one-up contests with his poker buddies, Reese sets Stevie up with the daughter of one player, while Malcolm discovers the daughter of another player has a gun in her purse.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Did you hear the one about the astronaut and the hooker? Yeah, I didn't get it.”
@@ -681,16 +622,14 @@ Watch for:
   - “# "I'll Never Break Your Heart" - Backstreet Boys Missing something? What did you do with it? What are you doing with a gun? Give it back.”
   - “No! You don't bring a gun into this house.”
 
-## S3 E19 — Clip Show
+## S3 E19 — 19. Clip Show
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0319.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: After the family car gets damaged and the boys won't own up to causing the incident, Hal takes them to see a psychiatrist. As Lois and Hal write their wills in preparation for the baby's birth, they recall various colorful incidents with their four current children.
 Watch for: nothing flagged.
 
-## S3 E20 — Jury Duty
+## S3 E20 — 20. Jury Duty
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0320.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: While Lois is on jury duty, she pushes the other jurors to take their jobs seriously; Hal tries to solve a murder case he thinks Lois is assigned to; Malcolm, Reese, and Dewey get lost in a sewer.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - “…Agh! (SCREAMING CONTINUES) I may be fat, stupid, colour-blind and dyslexic, but I don't have three nipples!”
@@ -702,25 +641,22 @@ Watch for:
   - “She'd have had to ask him to pick her up so she could stab him!”
   - “…and rubbed it all over Moynihan! Impossible! You just don't wanna be proven wrong! I am not wrong! The knife entered at a downward angle.”
 
-## S3 E21 — Cliques
+## S3 E21 — 21. Cliques
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0321.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and the Krelboynes are forced to join the regular student body; Hal itches to knock down Dewey's elaborate domino setup; Francis itches to know what Piama did to get Lavernia to be nice to him.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “You haven't heard the last of this! Sucker! Um, Kevin, you're supposed to wear underwear with those.”
   - “(ALL SOB) Thanks for the heads-up on the underwear.”
 
-## S3 E22 — Monkey
+## S3 E22 — 22. Monkey
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0322.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Craig's new helper monkey turns vicious; Reese lets the power of authority go to his head; Francis' and his wife face eviction..
 Watch for: nothing flagged.
 
 ## S4 E1 — 1. Zoo
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0401.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: During a trip to the zoo, Hal gets jealous of Lois' former boyfriend; Dewey and Malcolm fall into a tiger pen, and Reese butts heads with a goat...while Francis gets stranded on a cross-country car trip and takes a new job at a dude ranch.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “No, I gave you back the key to the rifle closet.”
@@ -732,7 +668,6 @@ Watch for:
 ## S4 E2 — 2. Humilithon
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0402.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
-Summary: Malcolm suffers extreme humiliation during his first week as a high school freshman; Dewey loves his first week as a latchkey kid; Francis discovers the trials of working for a too-permissive boss.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I don't care! - (revving engine) - (screams) Malcolm! If you do this, I will never have sex with you again.”
@@ -750,7 +685,6 @@ Watch for:
 ## S4 E3 — 3. Family Reunion
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0403.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: When Lois is repeatedly insulted at Hal's family reunion, the boys take revenge and Hal is prompted to finally stand up to his avoidant father.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Meanwhile, the grandma who goes shopping in her bra visits five times a year.”
@@ -764,7 +698,6 @@ Watch for:
 ## S4 E4 — 4. Stupid Girl
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0404.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm tries to "dumb down" to attract a cute, non-intellectual girl; Hal rents a steamroller and becomes addicted to crushing things.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You want to make out? Do you? Sure.”
@@ -778,7 +711,6 @@ Watch for:
 ## S4 E5 — 5. Forwards Backwards
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0405.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: As Malcolm and Reese fight an escalating battle of revenge, they flash back to the chain of events that led to the war; Dewey prepares for a school play; Francis and Otto fear a Devil Cow.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “(cheering) - You know, Daniela - could do that, too, - If your affair - hadn't scarred her for life.”
@@ -791,7 +723,6 @@ Watch for:
 ## S4 E6 — 6. Forbidden Girlfriend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0406.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm sneaks around to date a girl whose father hates him; Hal and Lois become more productive when they can't have sex for a week; Dewey discovers he's an "evil twin"; Francis mediates a dispute.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And we can't have sex for a week.”
@@ -803,13 +734,11 @@ Watch for:
 ## S4 E7 — 7. Malcolm Holds His Tongue
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0407.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm tries not speaking his mind; Hal takes up race-walking; Reese goes on a date with his girlfriend...and Craig.
 Watch for: nothing flagged.
 
 ## S4 E8 — 8. Boys at the Ranch
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0408.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: On a visit to Francis' dude ranch Hal can't help being disappointed in Francis' success; Reese and Malcolm fear Francis has turned into an overly responsible grownup, and Gretchen punishes Dewey for breaking a valuable doll.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We had the best sex we had had in years.”
@@ -819,7 +748,6 @@ Watch for:
 ## S4 E9 — 9. Grandma Sues
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0409.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: When Lois' mother visits, she trips on a leaf and decides to sue Hal and Lois..just as Lois finds out she's pregnant again.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And I could sleep with the baby.”
@@ -829,10 +757,9 @@ Watch for:
   - “Take as much blood as you need.”
   - “Punch yourself - in the face.”
 
-## S4 E10 — If Boys Were Girls
+## S4 E10 — 10. If Boys Were Girls
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0410.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Wondering about the sex of her new baby, Lois imagines what life would be like if her boys were girls.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Diet pills? - I have a slow - metabolism, okay? - And I don't burn up calories - having sex with a different boy Every night down by the creek.”
@@ -844,10 +771,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “With tips, I can pay rent on the trailer - and still keep - my husband in beer.”
 
-## S4 E11 — Long Drive
+## S4 E11 — 11. Long Drive
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0411.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Lois uses a long drive with Malcolm to further his sex education; Reese spends a day in prison; Dewey plants seeds of discontent in Hal's vocal group.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “What are you going to do, stretch out your arms to my house? (laughter) - And if the sperm - doesn't take, - The uterine wall - sloughs off cells, - And that's what - creates a period.”
@@ -858,10 +784,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Which is just medical jargon for the simple fact that every time you boys misbehave, - you might as well - be taking a knife - And putting it in that baby's - tiny little heart.”
 
-## S4 E12 — Kicked Out
+## S4 E12 — 12. Kicked Out
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0412.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Hal kicks Malcolm out of the house for misbehaving, Reese tries to take advantage of Hal's distraction to come up with a truly bad stunt of his own.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “My brothers are seeing who can go the longest - without changing - their underwear.”
@@ -871,10 +796,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “So that makes it okay that Malcolm spent the night - sleeping on a booze- - soaked mattress - In some dark alley? - Craig - Oh, my God! He's - probably dead by now! - Malcolm can take care - of himself.”
 
-## S4 E13 — Stereo Store
+## S4 E13 — 13. Stereo Store
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0413.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Hal takes a second job at a stereo store, but has a hard time fitting in with the younger employees; the boys chafe under the sly rule of a new babysitter.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You know what would have helped? Some sex.”
@@ -887,10 +811,9 @@ Watch for:
   - “Guys! Hey, hey, you want to go get a beer? I'm buying.”
   - “(echoing): Can I get you a beer? I'm good.”
 
-## S4 E14 — Hal's Friend
+## S4 E14 — 14. Hal's Friend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0414.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Hal spends a wild night with an old high school buddy; Malcolm tries to liberate Dabney from his mother's control; Francis spends the night with Otto when their wives are out of town.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “The XJ 7000! Cool! What is it? It's a paintball gun.”
@@ -901,18 +824,16 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Sweet! - First beer, 7:04.”
 
-## S4 E15 — Garage Sale
+## S4 E15 — 15. Garage Sale
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0415.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois puts Reese in charge of the family's garage sale; Hal restarts his old pirate radio station.
 Watch for:
 - Fat-shaming — 1 moment(s)
   - “(whinnies) (laughs) Boy, I don't remember that he was so fat.”
 
-## S4 E16 — Academic Octathalon
+## S4 E16 — 16. Academic Octathalon
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0416.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm competes in an academic octathlon but hates the intensity of the other competitors; Hal fights to regain Dewey's love; Reese tries to get out of going to a formal dance.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “…you're out - throwing our money away! - Oh, here we go! - By the way, - Are we actually going to - have sex on this vacation, - Or is it going to be - St.”
@@ -925,10 +846,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Isn't it amazing? Are you sure this is going to fit because you're so fat.”
 
-## S4 E17 — Clip Show #2
+## S4 E17 — 17. Clip Show #2
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0417.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: As Lois and Hal write their wills in preparation for the baby's birth, they recall various colorful incidents with their four current children.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Listen, when the kids at school ask you about this tell them I got under your bra.”
@@ -936,10 +856,9 @@ Watch for:
   - “What? - And then I'll commit suicide - a few days later.”
   - “No, I You're wishing me dead? Why would you say such a thing? Oh, and there is no reaction at all to my suicide.”
 
-## S4 E18 — Reese's Party
+## S4 E18 — 18. Reese's Party
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0418.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Hal and Lois go on a less-than-romantic getaway, Reese throws a party at home, which is crashed by delinquent friends of Fracis, who take over teh garage and hold the boys hostage.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We've got our - rhythm method child, Our diaphragm child, our condom child.”
@@ -948,10 +867,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “You boys aren't even - supposed to be here - And you're - throwing A coed slumber party? Who's the fat chick? Okay, that's it.”
 
-## S4 E19 — Future Malcolm
+## S4 E19 — 19. Future Malcolm
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0419.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm meets a chess-playing bum who could be him in 30 years; Lois can't figure out why she's gaining weight; Dewey attributes his bizarre behavior to obeying requests from the fetus Lois is carrying.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - “What color - are your nipples? - It's all - very tasteful, - Which is beside - the point, - Because, guess what, - it's my body, - So you can't tell me - what to do with it.”
@@ -961,10 +879,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “What? There's no Camembert? You expect me to have my wine without any Camembert? - That ruins - my entire aesthetic! - Francis - Forget it.”
 
-## S4 E20 — Baby (1)
+## S4 E20 — 20. Baby (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0420.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Hal takes the boys to a bridal shower; Lois' mother wants to move in with the family; Malcolm gets an offer to enroll in a prestigious private school.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “I'm the third person - to wear this underwear.”
@@ -973,10 +890,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “You see, she's a horrible bigot.”
 
-## S4 E21 — Baby (2)
+## S4 E21 — 21. Baby (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0421.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: While Lois goes into hard labor at home, Hal winds up unconscious and hallucinating in an emergency room, and the boys wander into a hospital parenting class.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “It's important - that you let your baby Suck the obstruction out of the breast, and don't be alarmed if the baby then vomits up a cottage cheese-type substance.”
@@ -987,10 +903,9 @@ Watch for:
   - “(all talking at once) Oh, Hal, where are you? Well, let's go! Your mother's in labor! We just wasted 45 minutes in the security office.”
   - “What?! This slutty cocktail waitress in Manitoba.”
 
-## S4 E22 — Day Care
+## S4 E22 — 22. Day Care
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0422.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: The family joins a church to get free day care for baby Jamie; Francis tries to help the dude ranch cash-in on a local UFO craze.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “They think our hands are sex organs.”
@@ -1006,7 +921,6 @@ Watch for:
 ## S5 E1 — 1. Vegas
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0501.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: The family travels to Las Vegas when Hal experiences a dream about hitting the jackpot; Dewey and Reese enter an enormously obese rabbit in a contest. Lois gets to meet her favorite singer.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “My best friend shot in the restaurant.”
@@ -1017,7 +931,6 @@ Watch for:
 ## S5 E2 — 2. Watching The Baby
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0502.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: When an exhausted Lois falls asleep, Hal goes out for diapers, only to be branded a shoplifter; three beautiful girls use Malcolm, Reese, and Stevie to embarrass their prom dates.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We can not simply jedziæ amazing car Three incredibly sexy girls.”
@@ -1030,7 +943,6 @@ Watch for:
 ## S5 E3 — 3. Goodbye Kitty
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0503.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Stevie goes into shock when he's told Kitty divorced Abe; Reese gets caught up in the hot-and-heavy entries in a diary, unaware it belongs to Lois.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “That, and completely mechanical nature our sex life.”
@@ -1041,7 +953,6 @@ Watch for:
 ## S5 E4 — 4. Thanksgiving
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0504.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: As Thanksgiving approaches, Malcolm has a shot at getting lucky with a sexy friend from school; Reese prepares a fabulous Thanksgiving meal; and Francis and Piama want a divorce.
 Watch for:
 - Swearing — 4 moment(s)
   - “Shit at dinner tonight! Do not take it as the meal to.”
@@ -1060,7 +971,6 @@ Watch for:
 ## S5 E5 — 5. Malcolm Films Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0505.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm's teacher forces him to secretly record Reese as he divulges his innermost secrets; Francis strikes back after a critic writes a scathing review about the hotel.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - of her cleavage
@@ -1070,15 +980,13 @@ Watch for:
 ## S5 E6 — 6. Malcolm's Job
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0506.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois gets Malcolm a job at the store, exposing Lois' well-kept secret; Hal and some other fathers start betting on babies.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.”
 
 ## S5 E7 — 7. Christmas Trees
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0507.html
-Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: As Christmas approaches...a layoff at work prompts Hal to make money selling Christmas trees.
+Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
   - “Watch out, he's got murder in his eyes and a cute fluffy tail! Checkmate, chipmunk! And three makes ten.”
@@ -1087,7 +995,6 @@ Watch for:
 ## S5 E8 — 8. Block Party
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0508.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm realizes the entire neighborhood has been throwing a block party when the family leaves town for an annual vacation; Hal and Lois participate in a kielbasa-eating contest.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “If I wanted to you solicitation, is already on your wisielibycie my underwear.”
@@ -1095,7 +1002,6 @@ Watch for:
 ## S5 E9 — 9. Dirty Magazine
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0509.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Malcolm becomes editor of the high school literary magazine, the principal instructs him to censor a well-written story; Lois encourages Hal to flirt with a new supervisor so he can keep his job.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Touches of a me exactly that! Practically the saliva and up over my sexy long-oñmi.”
@@ -1105,16 +1011,14 @@ Watch for:
   - “You're good for nothing! EOE wasted the completely four days learning the cylinder.”
   - “Otto, it's so wonderful that the party! Everything is perfect the e Quiet, please! Is everyone could briefly interrupt getting drunk?”
 
-## S5 E10 — Hot Tub
+## S5 E10 — 10. Hot Tub
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0510.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: Lois and Hal clash after Hal purchases a hot tub; Malcolm gets his driver's permit, only to get mixed up in a dispute between Polly and her ex-boyfriend; and Reese steals Dewey's friend.
 Watch for: nothing flagged.
 
-## S5 E11 — Ida's Boyfriend
+## S5 E11 — 11. Ida's Boyfriend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0511.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Ida announces she's getting married to man who lives in Hong Kong; Malcolm gets his tongue pierced; Dewey pretends Reese doesn't exist.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “This is not anything different differs from spraying perfume or stuffing bra tomatoes.”
@@ -1122,19 +1026,17 @@ Watch for:
   - “I employ the corpse actors, that played a mysterious weekend crime.”
   - “My specjalnoæ - murder.”
 
-## S5 E12 — Softball
+## S5 E12 — 12. Softball
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0512.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm volunteers for the company's softball team, only to realize that Lois is the coach; Francis sets out to prove he's not lazy.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - “Ch the boys! I have found the beer, which schowalicie in the garage u!”
   - “I love you so much, the boys ch Przytuliæ you? The busiest him a little to find the beer.”
 
-## S5 E13 — Lois' Sister
+## S5 E13 — 13. Lois' Sister
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0513.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois' sister Susan comes for a visit and begins lavishing the kids with expensive gifts, including a classic Mustang convertible; and Francis and a scout troop get lost in a remote area of the ranch.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “…a victim of the at my prom! When the louse am in the garage and nakry am the boyfriend of her boyfriend in sex with my sister are the on the hood of my car!”
@@ -1149,18 +1051,16 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Get in the car! What you have reached the æ car without an engine? Than than a party with beer.”
 
-## S5 E14 — Malcolm Dates A Family
+## S5 E14 — 14. Malcolm Dates A Family
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0514.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois has a dispute with Hal and the boys' favorite restaurant; Malcolm clicks with his girlfriend's family...to the point where he forgets about his girlfriend.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “My mom is horrible! My mom call of a drunk on my birthday ¿¿So that I yczyæ money.”
 
-## S5 E15 — Reese's Apartment
+## S5 E15 — 15. Reese's Apartment
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0515.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Hal and Lois kick Reese out of the house, he ends up renting an apartment; and Malcolm helps a dumb jock write a personal essay so he can get into college.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “Usually I'm so confident, but by t the wonder Affairs over each time the aspect of This is good.”
@@ -1170,18 +1070,16 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Do not worry, essay will not wasted the.”
 
-## S5 E16 — Malcolm Visits College
+## S5 E16 — 16. Malcolm Visits College
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0516.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Lois accompanies Malcolm to his first college visit, where she clashes with a resident advisor; Reese pretends he's a drug user to woo a pretty narcotics officer.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.”
 
-## S5 E17 — Polly In The Middle
+## S5 E17 — 17. Polly In The Middle
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0517.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Polly begins dating Abe and Craig; Malcolm refuses to believe in the power of Dewey's lucky shirt; the ranch hands make fun of Francis; and Lois takes the kids to a baseball convention.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Oh, my God also? This woman has fallen from the tree "sex" and hit the ball and the time you declining c Abe, you stud.”
@@ -1191,20 +1089,18 @@ Watch for:
   - “No, it is very important At any culture! But me hanging, because these guys keep the how assholes.”
   - “(Spanish for "you") You speak the crap I have zrobiæ.”
 
-## S5 E18 — Dewey's Special Class
+## S5 E18 — 18. Dewey's Special Class
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0518.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm tries to keep Dewey from scoring high on an IQ test so he doesn't end up with the Krelboyne's, but scheme backfires and Dewey is diagnosed as mentally disturbed.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “…finally understandable, I should also AEOI to the library! And you know what? You can instantly watch the porn Daae the Internet and the librarian can not zabroniæ.”
 - Alcohol & drugs — 1 moment(s)
   - “I wasted no of the 150 bucks.”
 
-## S5 E19 — Experiment
+## S5 E19 — 19. Experiment
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0519.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Reese inadvertently perfects Malcolm and Stevie's science experiment, but can't remember how he did it.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “And we will end the blood.”
@@ -1212,10 +1108,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “But I want to know ¿ebycie that the if y jaka the bniêta pair steal me and later brought up girl it will be on your wine.”
 
-## S5 E20 — Victor's Other Family
+## S5 E20 — 20. Victor's Other Family
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0520.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Lois drives to Canada to meet with her sister, Roberta, and her family; Ida vows to spend all her money to get Victor's pension; and a temporarily blinded Hal participates in a 5K race with Dewey.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Is not it going to explode out of the grave and strangle you.”
@@ -1225,28 +1120,23 @@ Watch for:
   - “And the pain as hell! Not Suffering dotrzymywaæ promises, Dewey.”
   - “What the hell are you talking about?! - I'm trying to help you.”
 
-## S5 E21 — Reese Joins The Army (1)
+## S5 E21 — 21. Reese Joins The Army (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0521.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: Reese joins the army after Malcolm causes his girlfriend to break up with him; and Hal is placed under house arrest when he refuses to cooperate with agents investigating his company.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Are you afraid of your mother's underwear? What problem do you see in bielinie mother? - Stop speak "beautiful mother".”
 - Violence & injury — 1 moment(s)
   - “…the EOE your backpack and semi-repellent coat? Backpack as domylam up Pulling off was achieved with the corpse, and semi-coat Is going to rain?”
 
-## S5 E22 — Reese Joins The Army (2)
+## S5 E22 — 22. Reese Joins The Army (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0522.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: During a simulated battle, Reese's team of soldiers ends up getting captured because Reese has trained himself not to think; and in court, the evidence against Hal continues to mount.
-Watch for:
-- Racism & slurs — 1 moment(s)
-  - racist joke.
+Watch for: nothing flagged.
 
 ## S6 E1 — 1. Reese Comes Home (3)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0601.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: While guilt-ridden Malcolm and Dewey try to do penance for driving Reese into the Army, Lois goes on a mission to find Reese and bring him home...and Reese himself goes AWOL.
 Watch for:
 - Violence & injury — 2 moment(s)
   - “What do you expect of people who would give Reese a gun? Oh, that's right.”
@@ -1257,7 +1147,6 @@ Watch for:
 ## S6 E2 — 2. Busey's Run Away
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0602.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Reclassified as "normal" at school, Dewey basks in Lois' approval but is sorely missed by his former special-needs classmates; and Hal becomes a genius hero to a group of dimwitted bodybuilders.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “A week of freedom out in the desert, naked women, getting back to your primal nature, naked women, people doing art, naked women.”
@@ -1266,7 +1155,6 @@ Watch for:
 ## S6 E3 — 3. Standee
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0603.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and Lois clash over an offensive advertising standee at the drug store; and Hal battles a garbage man who refuses to pick up a large item from the family's trash.
 Watch for:
 - Alcohol & drugs — 3 moment(s)
   - “Where's the beer? Oh, he took that.”
@@ -1280,7 +1168,6 @@ Watch for:
 ## S6 E4 — 4. Pearl Harbor
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0604.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Neighbor Jessica convinces Malcolm that Reese is gay and Reese that Malcolm is gay; Dewey write an essay on Hal as his hero.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “She's sexually active and I'm pretty sure she's into drugs, and the only reason why he's interested in her is because he's so insecure about himself.”
@@ -1295,7 +1182,6 @@ Watch for:
 ## S6 E5 — 5. Kitty's Back
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0605.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Stevie's wayward mother Kitty returns, everyone except Lois forgives her; after an intense sunburn, Reese attempts to peel a whole, intact coat of skin from his body.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You mean sex? I'm afraid so.”
@@ -1307,7 +1193,6 @@ Watch for:
 ## S6 E6 — 6. Hal's Christmas Gift
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0606.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: With Money too tight for Christmas gifts, Lois declares a "handmade" Christmas; Hal panics when his gifts don't measure up to those made by his sons.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “What?! Oh, for God's sakes! Can you think of a Christmas reason for stopping somewhere I can sell blood? Oh, Hal, don't worry about it.”
@@ -1315,7 +1200,6 @@ Watch for:
 ## S6 E7 — 7. Hal Sleepwalks
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0607.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Hal gets stressed out over buying Lois an anniversary gift, he starts sleepwalking, which Reese discovers is a highly suggestible state; Malcolm tries to learn to play the guitar.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Why don't you just do something simple? You know, get a bottle of champagne, watch a sunset, recite a poem to her.”
@@ -1323,7 +1207,6 @@ Watch for:
 ## S6 E8 — 8. Lois Battles Jamie
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0608.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Trying to win a battle of wills with young Jamie, Lois brings Francis home to help her remember how she conquered him when he was a baby.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Did you know that the Newmans put a statue of a naked guy on their front lawn a week ago? We should be ashamed of ourselves.”
@@ -1334,7 +1217,6 @@ Watch for:
 ## S6 E9 — 9. Malcolm's Car
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0609.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm uses his illegal gambling profits to buy a junk car, which quickly takes over is life; Hal discovers a talent for hair styling; and Lois discovers Craig is having an affair with the boss' wife.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “A car bra! What? You had $200.”
@@ -1347,10 +1229,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Today was totally wasted.”
 
-## S6 E10 — Billboard
+## S6 E10 — 10. Billboard
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0610.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: After Malcolm, Reese, and Dewey get caught defacing a billboard advertising a strip club, they try to escape Lois' wrath by staging an improptu protest for women's rights.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You just dreamed me up as a super-sexy way to face the fact that you're going to live the rest of your life alone.”
@@ -1366,10 +1247,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “One night he got me drunk and borrowed $400 from me! What? He bought a velour suit and faked his own death to get out of paying me back.”
 
-## S6 E11 — Dewey's Opera
+## S6 E11 — 11. Dewey's Opera
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0611.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: When his parents fight over a new bed, Dewey writes an opera based on their arguments; Malcolm gets into "street luging."
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “That's your secret? I know it's stupid and embarrassing and I want to be sexy for you, but after 20 years, I just have to have a break from clamping down and gritting my teeth all night.”
@@ -1378,30 +1258,27 @@ Watch for:
   - “…is the worst case of emotional blackmail, she's ever seen! And I've seen plenty! Call 911! Tell them a blood vessel just burst in my brain, Just halfway between my neck and my nose.”
   - “What if Don Argento solves his romantic problems with a machete in a tragic, yet comedic, big bloody mess? Yes, I want to return a mattress I bought last week in accord with your 30-day return policy.”
 
-## S6 E12 — Living Will
+## S6 E12 — 12. Living Will
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0612.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Indecisive Hal is chosen to make a life-or-death decision for a neighbor he hardly knows; and Malcolm, Reese, and Dewey coach Craig on fighting his arch-enemy.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You've learned to do so many things, and the sex has been interesting, but you can't go on living like this.”
 - Alcohol & drugs — 1 moment(s)
   - “You want to go through the arrest reports? I'll pour some more wine.”
 
-## S6 E13 — Tiki Lounge
+## S6 E13 — 13. Tiki Lounge
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0613.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Hal and Lois carve out some time for deep personal discussions, Hal is upset to learn Lois doesn't believe in an afterlife; Malcolm is roped into emceeing a silly charity auction at school.
 Watch for:
 - Alcohol & drugs — 3 moment(s)
   - “We've got really cool-looking plastic champagne glasses, and we've also got six-channel walkie-talkies so we can be in constant audio contact in all sectors of the gymnasium.”
   - “And now I find that there's a wine tasting booth with an incredibly underpriced Riesling, just 25 cents a glass.”
   - “So, if you'll excuse me, I think I saw a slightly drunk Ms.”
 
-## S6 E14 — Ida Loses A Leg
+## S6 E14 — 14. Ida Loses A Leg
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0614.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: After Ida loses a leg saving Dewey from being hit by a truck, Francis is forced to stay with her, Dewey holds a funeral for the severed limb.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “It's like, "La-la, I'm old, so here's a stupid cartoon with boobs on it.”
@@ -1413,10 +1290,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “Oh, my God, this sucks! That was, like, the one thing I was living for and it's just not working at all! - Can you take the soap opera outside? I want to watch the whore that gives the weather.”
 
-## S6 E15 — Chad's Sleepover
+## S6 E15 — 15. Chad's Sleepover
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0615.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Dewey defies his father and invites an oddball school chum for a sleepover; Malcolm and Reese discover just how unpopular they are with their peers.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - “Last night, I covered for Bernice so she could leave early, and when she got home, she found Charlie standing in their living room wearing her red cocktail dress!”
@@ -1424,10 +1300,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “You know what? Sometimes if you're just being bigoted and unreasonable, maybe I don't have to listen to you.”
 
-## S6 E16 — No Motorcycles
+## S6 E16 — 16. No Motorcycles
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0616.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: On Francis' 21st birthday, Hal fulfills an old promise to take Francis on a motorcycle trip; and Malcolm, Reese, and Dewey hide from a bully who wants to give one of them a beating.
 Watch for:
 - Violence & injury — 5 moment(s)
   - “Wait, wasn't there? This is sealed in blood.”
@@ -1438,10 +1313,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “And meanwhile, I plan this whole trip, and now I find out you're sober, and I'm standing here with a bottle of booze like some kind of jackass.”
 
-## S6 E17 — Butterflies
+## S6 E17 — 17. Butterflies
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0617.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: While working the night shift at the Lucky Aide, Malcolm finds a man living in the store; and Reese befriends a crop of caterpillars he acquired during his spring break job.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - “Skinny-dipping starts at midnight.”
@@ -1450,10 +1324,9 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - “Where's the toothpaste? -I'm on a break.”
 
-## S6 E18 — Ida's Dance
+## S6 E18 — 18. Ida's Dance
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0618.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Ida forces Lois to bake a special tart for an old world saint's holiday; Malcolm meets his match with music appreciation; and Hal tries to bod with Reese by watching gory horror movies.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “That's why the goat refused to breast-feed her.”
@@ -1468,10 +1341,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “And not on her back like your slut daughter.”
 
-## S6 E19 — Motivational Seminar
+## S6 E19 — 19. Motivational Seminar
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0619.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Hal takes over for a motivational speaker at a seminar and discovers a talent for the job; Reese joins a dog pack; and Lois catches Dewey "seeing another mom."
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “…president in two years! Hey, come on, he knows! I'm gonna get out of debt! Hey, she knows! I'm gonna have sex with a member of every race!”
@@ -1480,10 +1352,9 @@ Watch for:
   - “I've got a gun! You make one step, and you're all getting it.”
   - “Hey, you need a gun?”
 
-## S6 E20 — Stilts
+## S6 E20 — 20. Stilts
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0620.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Malcolm gets promoted to a position promoting the Lucky Aide from atop a pair of stilts; Hal tries to make up for accidentally blowing the household budget on a phone-sex line.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “I'm the only one snacking out of birdfeeders! Look at this! $18 for a three-minute What the?! Welcome to the Hot Fantasy Sex Line.”
@@ -1501,20 +1372,18 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Bad? He's been coming to work drunk for 20 years.”
 
-## S6 E21 — Buseys Takes A Hostage
+## S6 E21 — 21. Buseys Takes A Hostage
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0621.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: While Dewey helps Francis research games for job interview; the Buseys take their teacher hostage; Malcolm talks Hal into becoming head of the local homeowners' association.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “What I can't believe is Jessica is having an affair with the judge.”
 - Violence & injury — 1 moment(s)
   - “So, if Rex Huntington is the finest doctor in Spring Valley, why is he defending Jessica in the murder trial.”
 
-## S6 E22 — Mrs. Tri-County
+## S6 E22 — 22. Mrs. Tri-County
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0622.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When the boys enter Lois in a beauty pageant as a joke, she takes it seriously and competes to win; Malcolm becomes a slave to Mr. Herkabe; and Reese discovers he's beautiful.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “If you want to, have a sex change, come back in 20 years and we'll talk.”
@@ -1522,7 +1391,6 @@ Watch for:
 ## S7 E1 — 1. Burning Man
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0701.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When the family goes to the Burning Man Festival Malcolm falls in love with a healer; Reese falls in love with the festival; and festival goers mistake Hal's suburban attitudes as a performance.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “A week of freedom out in the desert, naked women, getting back to your primal nature, naked women, people doing art, naked women.”
@@ -1531,13 +1399,11 @@ Watch for:
 ## S7 E2 — 2. Health Insurance
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0702.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
-Summary: When Hal's health insurance lapses for a weekend, he tries hard to keep everyone safe without letting them know why; and Lois thinks Craig is the anti-union snitch at the Lucky Aide.
 Watch for: nothing flagged.
 
 ## S7 E3 — 3. Reese vs. Stevie
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0703.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Reese's simmering dislike for Stevie finally comes to head; Hal tries to get Dewey to quit smoking by kicking his own addiction to coffee; and Lois tries to get Jamie to talk.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “And so like an idiot, I started stuffing my bra with toilet paper.”
@@ -1551,7 +1417,6 @@ Watch for:
 ## S7 E4 — 4. Halloween
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0704.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: On Halloween Hal freaks out when he learns the family's house was once the site of a murder-suicide; Reese and Dewey run from an old man in a walker after egging him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Keyes giving birth are not as sexy as I thought.”
@@ -1573,7 +1438,6 @@ Watch for:
 ## S7 E5 — 5. Jessica Stays Over
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0705.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Jessica stays with the family for few days, she shows Malcolm how to use emotional intimacy to manipulate Lois; Reese tries to mail himself to China; and Hal battles an angry bee.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You can't hook up in my house.”
@@ -1587,7 +1451,6 @@ Watch for:
 ## S7 E6 — 6. Secret Boyfriend
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0706.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm dates a popular girl who refuses to be seen in public with him; Lois tries to force Reese to get a job; and Hal gets upset when Dewey doesn't get upset after being denied a free game.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “The experiment's going to be hard enough as it is without my lab partner trying to honk my boobs every five minutes.”
@@ -1598,7 +1461,6 @@ Watch for:
 ## S7 E7 — 7. Blackout
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0707.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: During a blackout, events are seen from three different perspectives; Reese cooks steaks for Hal; Malcolm tries to sneak three Dutch girls into the house; and Francis tries to steal a stuffed marlin.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “They don't even have a word for virginity there.”
@@ -1615,7 +1477,6 @@ Watch for:
 ## S7 E8 — 8. Army Buddy
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0708.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: When Reese's female army buddy comes to visit, Reese struggles to understand his attraction to someone he considers his best friend; Hal becomes jealous of Lois' orthotic shoe inserts.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “So when are you guys going to hook up and get it over with? What? What are you talking about? Oh, come on.”
@@ -1631,15 +1492,13 @@ Watch for:
 ## S7 E9 — 9. Malcolm Defends Reese
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0709.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: To preserve an academic title he once won, Herkabe tries to get Malcolm to sabotage his grade point average; a clingy neighbor attaches herself to Lois.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “It feels like someone's stabbing you all over with tiny, razor-sharp knives.”
 
-## S7 E10 — Malcolm's Money
+## S7 E10 — 10. Malcolm's Money
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0710.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: While Malcolm battles a yearbook photographer to get a good photo, Hal,Lois, and Dewey intercept a scholarship check addressed to Malcolm and try to rationalize spending the money.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Fine! Code blue! Code blue! I think some of these are Viagra.”
@@ -1654,10 +1513,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I mean, who does it hurt to let two old people be happy? You whore! You stole my husband! No, I just used him without your permission and gave him back to you Just like someone did with my sewing machine.”
 
-## S7 E11 — Bride of Ida (1)
+## S7 E11 — 11. Bride of Ida (1)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0711.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: While Lois and Hal accompany Dewey on a mishap-plagued trip to a piano competition, Ida brings a girl from her home country to stay with Malcolm and Reese.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “If I get a wife, does that mean I get to have sex? So much sex you won't believe it.”
@@ -1680,10 +1538,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “I shave! Hide your shame, whore! You can't talk to my wife that way.”
 
-## S7 E12 — College Recruiters (2)
+## S7 E12 — 12. College Recruiters (2)
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0712.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: When Malcolm dodges advances from college recruiters, Hal is happy to be wooed instead; Reese flourishes in his new marriage, but misses a big warning sign.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Anyway, you know we can't have sex until after the waiting period.”
@@ -1697,27 +1554,24 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “If I was a woman, I'd be a slut.”
 
-## S7 E13 — Mono
+## S7 E13 — 13. Mono
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0713.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: When Lois and Malcolm are sidelines with mono, they're forced to share a bedroom; Hal gets to know his neighbors.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Chaffley? The one who's always on my ass about the lawn? Well, she can stand on her head and drink a pitcher of beer in seven seconds.”
 
-## S7 E14 — Hal Grieves
+## S7 E14 — 14. Hal Grieves
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0714.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: After Hal's father dies, he refuses to grieve but indulges his sons, hoping they'll remember him more fondly than he does his father.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Lois There's this wonderful service where they hook up ordinary people with celebrities.”
   - “So you think a weekend of nurturing and sex is going to get him through this? Do you even know this man?! What the hell's all this? Turns out Dad still has some grieving left to do.”
 
-## S7 E15 — A.a.
+## S7 E15 — 15. A.a.
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0715.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Hal and Lois accompany Francis to his 1-year AA "birthday" party; left home alone, Malcolm, Reese, and Dewey argue about where to go when Dewey finds the spare key to Hal's car.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “And you can see everything on this nude fairy.”
@@ -1730,28 +1584,25 @@ Watch for:
   - “Of course! I got to tell you, son, I am drunk as a skunk with pride right now.”
   - “I mean, maybe I have a glass of champagne on my birthday -Every birthday? -What does that have to do with anything? -I think we should get going -Come on, Mom, you have the classic signs.”
 
-## S7 E16 — Lois Strikes Back
+## S7 E16 — 16. Lois Strikes Back
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0716.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: After Reese is severely humiliated by four girls at school, Lois exacts revenge on them; and Hal builds a pitching machine while hiding out from Lois in the garage.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “She also requested a bottle of champagne and the romance package.”
 
-## S7 E17 — Hal's Dentist
+## S7 E17 — 17. Hal's Dentist
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0717.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Hal feels betrayed when he friend Trey charges $2,000 to fix Hal's teeth; Malcolm and Dewey find a new mattress; and Reese teaches Lois how to ride a bike.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “Sleep makes you feel like you've been beaten up.”
 - Alcohol & drugs — 1 moment(s)
   - “You want a beer? Malcolm in the Middle Forom.”
 
-## S7 E18 — Bomb Shelter
+## S7 E18 — 18. Bomb Shelter
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0718.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: A dance competition teaches Malcolm that beauty is in the eye of the beholder; Lois is determined to outlast her competition for a new truck.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Well, if we can do it with our dancing, maybe you could stop sleeping with the judges.”
@@ -1760,10 +1611,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Turns out, I'm naturally talented at science and dancing two things that are guaranteed to get you beat up.”
 
-## S7 E19 — Stevie in the Hospital
+## S7 E19 — 19. Stevie in the Hospital
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0719.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm's afraid to visit his best friend Stevie in the hospital; Reese becomes a master telemarketer; and someone secretly tries to drive Lois crazy.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “If I had to see him lying in his hospital bed, hooked up to God knows what, it's kind of hard to pretend like nothing's wrong.”
@@ -1773,10 +1623,9 @@ Watch for:
   - “What did you always teach me about standing up for myself? I can't beat up a ten-year-old.”
   - “Let's beat him on the water.”
 
-## S7 E20 — Cattle Court
+## S7 E20 — 20. Cattle Court
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0720.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Reese pretends to be a vegetarian; Hal decides to teach Dewey a lesson about the game of "Life;" and Malcolm talks Craig into standing up to Lois...and then regrets it.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “No, it's just that I couldn't sit and watch kids eating the flesh of murdered animals.”
@@ -1786,10 +1635,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “Unless, of course, you pull the "Suicide" card.”
 
-## S7 E21 — Morp
+## S7 E21 — 21. Morp
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0721.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Malcolm organizes the outcast kids at school for an anti-prom; Reese is transformed into the perfect prom date...for a price; and Dewey holds Hal's wallet hostage for the attention he was denied.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “And I'd like to think I'm big enough to be able to admit I'd like to have sex with one of them.”
@@ -1805,10 +1653,9 @@ Watch for:
   - “You did a really nice job with her whiskey bottle.”
   - “You know I wasn't planning on the night ending this way, but why don't we get out of here, grab a blanket and a bottle of wine and go to the beach.”
 
-## S7 E22 — Graduation
+## S7 E22 — 22. Graduation
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0722.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
-Summary: Malcolm and his folks realize his scholarships will still leave them five-thousand dollars short for his Harvard tuition. Hal promises he'll find the extra money somehow.
 Watch for:
 - Racism & slurs — 1 moment(s)
   - “Harlem who? What are you talking about? I'm not saying there was definitely some unconscious racism going on, but I do think someone could benefit from a little self-examination in a quiet moment.”

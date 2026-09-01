@@ -7,7 +7,6 @@ Buckets: 0 all clear (1–2), 111 gray area (3), 30 hard pass (4–5).
 ## S1 E1 — Space Pilot 3000
 URL: https://watchwiththekids.com/ep/futurama/0101.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: A delivery boy frozen in the year 1999 awakens in the year 3000. Phillip J. Fry delivers a pizza to a Cryogenics lab on New Years eve, only to discover that it is a prank delivery and then accidentally falls into a open cryogenics chamber, is put to sleep and wakes up in the far future.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Scene: Planet Express, Lounge. Farnsworth and Fry are hooked up to a machine. It dings and a red light flashes.
@@ -44,7 +43,6 @@ Watch for:
 ## S1 E2 — The Series Has Landed
 URL: https://watchwiththekids.com/ep/futurama/0102.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew takes a mission to an amusement park on the moon.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - (15:46) ⨂Farmer: I'll learn ye to sleep with my robot daughters!
@@ -71,7 +69,6 @@ Watch for:
 ## S1 E3 — I, Roommate
 URL: https://watchwiththekids.com/ep/futurama/0103.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender offers to let Fry move in with him when Fry is forced to move out of the Planet Express because of his slob style of living.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - (06:49) ⨂Bender: [sleep-talking] Hey, sexy mama, wanna kill all the humans?
@@ -99,7 +96,6 @@ Watch for:
 ## S1 E4 — Love's Labours Lost in Space
 URL: https://watchwiththekids.com/ep/futurama/0104.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew encounters infamous space captain Zapp Brannigan.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - (01:33) ⨂Hermes: The Federal Sex Bureau.
@@ -118,7 +114,6 @@ Watch for:
 ## S1 E5 — Fear of a Bot Planet
 URL: https://watchwiththekids.com/ep/futurama/0105.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew makes a delivery to a planet of human-hating robots.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - (10:42) ⨂Announcer: [on radio in movie] : We interrupt this sound file to bring you a terrifying announcement. A non-metallic being has been sighted in the vicinity of Make Out Point.
@@ -144,7 +139,6 @@ Watch for:
 ## S1 E6 — A Fishful of Dollars
 URL: https://watchwiththekids.com/ep/futurama/0106.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Fry becomes a billionaire and buys the world's last can of anchovies.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - (08:50) ⨂Amy: That's true. On a TV like this I bet you couldn't even make out my obscene tattoo.
@@ -170,8 +164,7 @@ Watch for:
 
 ## S1 E7 — My Three Suns
 URL: https://watchwiththekids.com/ep/futurama/0107.html
-Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry accidentally swallows another planet's emperor and gains his title.
+Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - (01:54) ⨂Bender: No, of course not! It was ... uh ... porno! Yeah, that's it!
@@ -195,7 +188,6 @@ Watch for:
 ## S1 E8 — A Big Piece of Garbage
 URL: https://watchwiththekids.com/ep/futurama/0108.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: A giant garbage ball from space threatens to destroy New New York.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Female Scientist: “[in movie] Now that the garbage is in space, doctor, perhaps you can help me with my sexual inhibitions.”
@@ -223,7 +215,6 @@ Watch for:
 ## S1 E9 — Hell Is Other Robots
 URL: https://watchwiththekids.com/ep/futurama/0109.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender is sent to Robot Hell for all of his sins.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Scene: Room. Fender presses a button, a door slides open and in the room are three robots hooked up to a machine which discharges electricity. It shocks them and they groan.
@@ -252,7 +243,6 @@ Watch for:
 ## S2 E1 — A Flight to Remember
 URL: https://watchwiththekids.com/ep/futurama/0201.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew takes a vacation on the maiden voyage of the spaceship Titanic.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “Well, now you know. I'm not actually rich. I'm a fraud. A poor, lazy, sexy fraud. This isn't even a real bow-tie, it's magnetic.”
@@ -275,7 +265,6 @@ Watch for:
 ## S2 E2 — Mars University
 URL: https://watchwiththekids.com/ep/futurama/0202.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The Professor introduces the crew to his newest experiment at Mars University.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Sexy blondes pillow fight in their slinky underwear, another takes her towel off and steps into the shower and another takes a haiband out of her hair and starts typing on a Mac.
@@ -300,7 +289,6 @@ Watch for:
 ## S2 E3 — When Aliens Attack
 URL: https://watchwiththekids.com/ep/futurama/0203.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Aliens invade Earth in search of a TV star from 1999.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - Judge: “[on TV] Counselor, I remind you that it's unethical to sleep with your client. If you really care about the outcome of the case, you should sleep with me.”
@@ -335,7 +323,6 @@ Watch for:
 ## S2 E4 — Fry and the Slurm Factory
 URL: https://watchwiththekids.com/ep/futurama/0204.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Fry wins a trip to the Slurm Factory and discovers the secret behind the addictive soda.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Fry: “I 'unno. Try it on me. [Bender turns it on and points it at Fry's crotch. Fry doubles over in pain.] Ow! My sperm!”
@@ -360,7 +347,6 @@ Watch for:
 ## S2 E5 — I Second that Emotion
 URL: https://watchwiththekids.com/ep/futurama/0205.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Leela, Fry and Bender search the mutant-filled sewers for Nibbler.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Raoul: “Yes. An unspoiled virgin.”
@@ -389,7 +375,6 @@ Watch for:
 ## S2 E6 — Brannigan, Begin Again
 URL: https://watchwiththekids.com/ep/futurama/0206.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Stripped of his title, space captain Zapp Brannigan begs for a job at Planet Express.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Zapp: “And on that occasion, did you have sex with someone? May I remind you you are still under oath.”
@@ -419,7 +404,6 @@ Watch for:
 ## S2 E7 — A Head in the Polls
 URL: https://watchwiththekids.com/ep/futurama/0207.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: When the value of titanium skyrockets, Bender sells his body for a large sum of money.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Clinton: “[to Leela] Hey, sugar cookie. You know, legally, nothing I can do counts as sex anymore.”
@@ -447,7 +431,6 @@ Watch for:
 ## S2 E8 — Xmas Story
 URL: https://watchwiththekids.com/ep/futurama/0208.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: An evil robotic Santa Claus attack shows Fry how Christmas has changed in the last 1,000 years.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Farnsworth: “Pine trees have been extinct for 800 years, Fry. Gone the way of the poodle and your primitive notions of modesty. [He takes his coat off, exposing his naked body to all.] Ah! Brisk!”
@@ -474,7 +457,6 @@ Watch for:
 ## S2 E9 — Why Must I Be a Crustacean in Love?
 URL: https://watchwiththekids.com/ep/futurama/0209.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Zoidberg gets caught up in his species' mating frenzy.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Farnsworth: “We, by which I mean you, will have to rush him to his ancient homeworld which will shortly erupt in an orgy of invertebrate sex.”
@@ -498,7 +480,6 @@ Watch for:
 ## S2 E10 — Put Your Head on My Shoulders
 URL: https://watchwiththekids.com/ep/futurama/0210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry's head is conjoined with Amy's body after a car crash. Meanwhile, Bender receives a robot recall and faces the risk of catastrophic butt failure.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Fry: “I'm doing my job, there's Amy; I spend a few hours selecting a candy from the machine, there's Amy; I wake up the morning after sleeping with Amy, there's Amy!”
@@ -525,7 +506,6 @@ Watch for:
 ## S2 E11 — The Lesser of Two Evils
 URL: https://watchwiththekids.com/ep/futurama/0211.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Fry suspects Bender's robotic duplicate has stolen a valuable item from the Miss Universe pageant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - A woman from the same species as the creature Zoidberg hooked up with in A Flight To Remember is in the middle of her rap.
@@ -554,7 +534,6 @@ Watch for:
 ## S2 E12 — Raging Bender
 URL: https://watchwiththekids.com/ep/futurama/0212.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender inadvertently beats up the Ultimate Robot Fighting champion. Leela reminisces about when she wanted to become a fighting champion.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Announcer: “[voice-over; on TV] You loved him as Bender the Offender! Now get ready to hate him as he threatens your sexuality in his new persona ... The Gender Bender!”
@@ -579,7 +558,6 @@ Watch for:
 ## S2 E13 — A Bicyclops Built for Two
 URL: https://watchwiththekids.com/ep/futurama/0213.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leela meets a man named Alkazar and finds out she is not the only Cyclops. He takes her to his planet and proposes marriage to her, however Fry is suspicious of his motives.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Scene: Filthy Filthy Chat Room. Bender looks around and chuckles. He pulls down a menu and selects a sexy nurse disguise. He taps a man on the shoulder.
@@ -605,7 +583,6 @@ Watch for:
 ## S2 E14 — How Hermes Requisitioned His Groove Back
 URL: https://watchwiththekids.com/ep/futurama/0214.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Hermes is forced to take a vacation while a female bureaucrat replaces him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “Oh, you didn't understand? Well let me explain. You ... [He points at Fry.] ... were having sex with you.”
@@ -627,7 +604,6 @@ Watch for:
 ## S2 E15 — A Clone of My Own
 URL: https://watchwiththekids.com/ep/futurama/0215.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Professor Farnsworth names his teenage clone to be the successor of his research.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Leela: “He's hooked up to a life-support system. [She pulls a tube off.] We have to disconnect him very, very carefully, or the shock could kill him.”
@@ -651,7 +627,6 @@ Watch for:
 ## S2 E16 — The Deep South
 URL: https://watchwiththekids.com/ep/futurama/0216.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew discovers the lost city of Atlanta, where Fry falls in love with a mermaid.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Fry sleeps in a chair with his rod next to him, Amy sleeps, Hermes sleeps with sign hanging around him saying he will be awake at 7pm.
@@ -671,7 +646,6 @@ Watch for:
 ## S2 E17 — Bender Gets Made
 URL: https://watchwiththekids.com/ep/futurama/0217.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender impresses the robot mafia with his thievery and joins them as a hired goon. Title sequence tagline 'Simulcast on crazy people's fillings'.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Cut to: Fry's and Bender's Quarters. Bender isn't inside. Instead, he has hooked up a tape-reel machine to play over and over.
@@ -696,7 +670,6 @@ Watch for:
 ## S2 E18 — The Problem with Popplers
 URL: https://watchwiththekids.com/ep/futurama/0218.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Aliens threaten to devour mankind after the crew unknowingly sells their young as fast food.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Fry: “Well? How are they? [Leela swallows, her eye widens, and she falls to the ground and starts cramming her mouth with the things. Fry eats one and gasps.] Oh, they're great! They're like sex, except I'm having them!”
@@ -722,7 +695,6 @@ Watch for:
 ## S2 E19 — Mother's Day
 URL: https://watchwiththekids.com/ep/futurama/0219.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Mom's broken heart leads her to organize a robot rebellion.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Mom: “Plan? What plan? I thought this was a spontaneous whirlwind of hot, dry sex.”
@@ -759,7 +731,6 @@ Watch for:
 ## S2 E20 — Anthology of Interest I
 URL: https://watchwiththekids.com/ep/futurama/0220.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The Professor creates a What-If machine that answers every question.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Amy: “Wow! Sporty go-cart, Leela! So hip and sexy. Not like you at all.”
@@ -792,7 +763,6 @@ Watch for:
 ## S3 E1 — The Honking
 URL: https://watchwiththekids.com/ep/futurama/0301.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: When the inheritance Bender claims in the Old Country isn't quite what he expected, the Planet Express crew has to find the source of an age-old curse.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Hermes: “Mail call! Amy, here's your designer lingerie catalogue. Fry, Sadie's Bra Parade and, Leela, Bulk Underpants Outlet.”
@@ -823,7 +793,6 @@ Watch for:
 ## S3 E2 — War Is the H-Word
 URL: https://watchwiththekids.com/ep/futurama/0302.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: When Bender and Fry volunteer for military duty, Leela also joins the all-male ranks, as Lee Lemon.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Zapp: “If it's a lesson in love, watch out; I suffer from a very sexy learning disability. What do I call it, Kif?”
@@ -861,7 +830,6 @@ Watch for:
 ## S3 E3 — The Cryonic Woman
 URL: https://watchwiththekids.com/ep/futurama/0303.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry is reunited with his girlfriend from the 20th century.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Scene: Applied Cryogenics: Probulator Room. The man lies naked on the table. Sharp instruments hover above him.
@@ -885,7 +853,6 @@ Watch for:
 ## S3 E4 — Parasites Lost
 URL: https://watchwiththekids.com/ep/futurama/0304.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew takes a trip inside Fry's body to save him from parasitic worms.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Enter Zoidberg riding one of Fry's sperm.
@@ -913,7 +880,6 @@ Watch for:
 ## S3 E5 — Amazon Women in the Mood
 URL: https://watchwiththekids.com/ep/futurama/0305.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew gets stranded on a planet of Amazonian women.
 Watch for:
 - Violence & injury — 6 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -935,7 +901,6 @@ Watch for:
 ## S3 E6 — Bendless Love
 URL: https://watchwiththekids.com/ep/futurama/0306.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender gets jealous when he thinks his new fembot love might still love her ex.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Leela: “So Flexo and Angle-ine had sex right there on the factory floor? Well, at least you got bending out of your system.”
@@ -960,7 +925,6 @@ Watch for:
 ## S3 E7 — The Day the Earth Stood Stupid
 URL: https://watchwiththekids.com/ep/futurama/0307.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Only Fry's superior inferior brain can save the day when knowledge-sucking alien brains invade.
 Watch for:
 - Violence & injury — 2 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -976,7 +940,6 @@ Watch for:
 ## S3 E8 — That's Lobstertainment!
 URL: https://watchwiththekids.com/ep/futurama/0308.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Dr. Zoidberg heads to Hollywood to help his washed-up uncle revive his film career.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Zoid: “Hooray, I won't be murdered. I'll live another day. Another day of ... pathetic, forgotten misery.”
@@ -994,7 +957,6 @@ Watch for:
 ## S3 E9 — The Birdbot of Ice-Catraz
 URL: https://watchwiththekids.com/ep/futurama/0309.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Leela fights to save the penguins of Pluto after an oil spill.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Waterfall Sr.: “Folks, it's worse than we thought. Seems dark matter is nature's sex drug. It's like a perverted trail mix of penguin oestrogen, penguin Viagra and Spanish penguin fly. Why, it's making them ultra-fertile.”
@@ -1020,7 +982,6 @@ Watch for:
 ## S3 E10 — The Luck of the Fryrish
 URL: https://watchwiththekids.com/ep/futurama/0310.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry travels to Old New York to retrieve his lucky clover.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Bender: “Pay dirt! I got the clover! Plus his wedding ring. [He puts it on and flashes it around.] Sorry, ladies, I'm taken! Hey, Fry, you want me to smack the corpse up a little?”
@@ -1037,7 +998,6 @@ Watch for:
 ## S3 E11 — The Cyber House Rules
 URL: https://watchwiththekids.com/ep/futurama/0311.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: A trip to the orphanarium leads Leela to get cosmetic surgery and Bender to adopt 12 orphans.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Vogel: “Well keep adoption in mind. It's a great way to have a kid without having sex.”
@@ -1060,7 +1020,6 @@ Watch for:
 ## S3 E12 — Insane in the Mainframe
 URL: https://watchwiththekids.com/ep/futurama/0312.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry thinks he's a robot after being brainwashed at an insane robot asylum.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Robot: “Gee, I've seen lines move faster in a sperm bank.”
@@ -1093,7 +1052,6 @@ Watch for:
 ## S3 E13 — Bendin' in the Wind
 URL: https://watchwiththekids.com/ep/futurama/0313.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: A paralyzed Bender joins rock star Beck on the concert road.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Scene: Velma Sue's Laundromat. Zoidberg, Amy, Leela and Fry do their laundry. Zoidberg dumps the basket of washing on a table in front of the others who sit around in their underwear.
@@ -1116,7 +1074,6 @@ Watch for:
 ## S3 E14 — Time Keeps on Slippin'
 URL: https://watchwiththekids.com/ep/futurama/0314.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew is responsible for a rift in the time/space continuum.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Time skips. Hermes wears a funky shirt and plays a steel drum while the others have formed a nude conga line.
@@ -1137,7 +1094,6 @@ Watch for:
 ## S3 E15 — I Dated a Robot
 URL: https://watchwiththekids.com/ep/futurama/0315.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry falls in love with a Lucy Liu robot.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Liubot: “You're one sexy man, [mechanical voice] Philip J. Fry.”
@@ -1160,7 +1116,6 @@ Watch for:
 ## S4 E1 — Roswell that Ends Well
 URL: https://watchwiththekids.com/ep/futurama/0401.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry must make sure his grandfather survives in Roswell, NM, or he himself will cease to exist.
 Watch for:
 - Violence & injury — 4 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1180,7 +1135,6 @@ Watch for:
 ## S4 E2 — A Tale of Two Santas
 URL: https://watchwiththekids.com/ep/futurama/0402.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender takes over as Santa Claus to bring back Xmas spirit.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Neptunians: “Hooray! [They throw their clothes in the air.] Hooray! [They throw their underwear in the air.] Hooray!”
@@ -1211,7 +1165,6 @@ Watch for:
 ## S4 E3 — Anthology of Interest II
 URL: https://watchwiththekids.com/ep/futurama/0403.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The What-If machine projects a human Bender, the world as a video game and Leela in her real home.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Time Lapse. The drunken scientists are asleep and sitting around in their underwear.
@@ -1237,7 +1190,6 @@ Watch for:
 ## S4 E4 — Love and Rocket
 URL: https://watchwiththekids.com/ep/futurama/0404.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender and the Planet Express ship fall in love resulting in a mishap adventure when Bender jilts her.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Ship: “We're gonna love being each other, you sexy ion!”
@@ -1258,7 +1210,6 @@ Watch for:
 ## S4 E5 — Leela's Homeworld
 URL: https://watchwiththekids.com/ep/futurama/0405.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Leela learns the truth about her parents and her identity when Bender angers a group of people with his toxic waste dumping.
 Watch for:
 - Violence & injury — 6 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1276,7 +1227,6 @@ Watch for:
 ## S4 E6 — Where the Buggalo Roam
 URL: https://watchwiththekids.com/ep/futurama/0406.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Kif does everything possible to win Amy's parents' approval.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Zapp: “Now remember, Kif, the quickest way to a girl's bed is through her parents. Have sex with them and you're in.”
@@ -1299,7 +1249,6 @@ Watch for:
 ## S4 E7 — A Pharaoh to Remember
 URL: https://watchwiththekids.com/ep/futurama/0407.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender becomes a tyrannical leader of a planet that resembles ancient Egypt.
 Watch for:
 - Violence & injury — 3 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1322,7 +1271,6 @@ Watch for:
 ## S4 E8 — Godfellas
 URL: https://watchwiththekids.com/ep/futurama/0408.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender gets lost in space and becomes a god to a race of tiny aliens.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - (04:45) ⨂Shrimpkin Priest: Fellow Shrimpkins, behold him who hath taken us unto his breast.
@@ -1351,7 +1299,6 @@ Watch for:
 ## S4 E9 — Future Stock
 URL: https://watchwiththekids.com/ep/futurama/0409.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: A 1980s businessman takes over Planet Express and threatens to sell it to a larger corporation.
 Watch for:
 - Violence & injury — 2 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1370,7 +1317,6 @@ Watch for:
 ## S4 E10 — A Leela of Her Own
 URL: https://watchwiththekids.com/ep/futurama/0410.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leela becomes the first -- and worst -- female blernsball player. Title sequence tagline 'Scratch here to reveal prize'.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Hermes: “Like a sexy Yogi Berra!”
@@ -1398,7 +1344,6 @@ Watch for:
 ## S4 E11 — The 30% Iron Chef
 URL: https://watchwiththekids.com/ep/futurama/0411.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender challenges a famous chef to a cooking contest.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - Aki: “Well, Hiroki-san, when I asked him, he asked what business it was of mine and conjectured that my mother was a prostitute.”
@@ -1423,7 +1368,6 @@ Watch for:
 ## S4 E12 — Where No Fan Has Gone Before
 URL: https://watchwiththekids.com/ep/futurama/0412.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry is placed on trial for his life because he traveled to the forbidden planet of Omega 3 to rescue all 79 episodes of "Star Trek".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Zapp: “Quiet, you! This court martial is now in session. The honourably sexy Zapp Brannigan residing. Bring in the accused.”
@@ -1444,8 +1388,7 @@ Watch for:
 
 ## S5 E1 — Crimes of the Hot
 URL: https://watchwiththekids.com/ep/futurama/0501.html
-Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Earth's robots are sentenced to death when they are identified as the cause of global warming.
+Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - He climbs onto the table, yawns and they make out. The robot carries on drinking.
@@ -1476,7 +1419,6 @@ Watch for:
 ## S5 E2 — Jurassic Bark
 URL: https://watchwiththekids.com/ep/futurama/0502.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry discovers the intact fossilized remains of his pet dog from his old life. The Professor reveals he can clone the animal.
 Watch for:
 - Violence & injury — 4 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1496,7 +1438,6 @@ Watch for:
 ## S5 E3 — The Route of All Evil
 URL: https://watchwiththekids.com/ep/futurama/0503.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Prof. Farnsworth's and Hermes' 12 year old sons combine forces to take over Planet Express, but their ambition is more than their ability and they need their fathers' help to save the day.
 Watch for:
 - Violence & injury — 5 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1521,7 +1462,6 @@ Watch for:
 ## S5 E4 — A Taste of Freedom
 URL: https://watchwiththekids.com/ep/futurama/0504.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Zoidberg is sentenced to death for eating Earth's flag on Freedom Day.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Nixon: “We're free to choose which hand our sex-monitoring chip is implanted in.”
@@ -1541,7 +1481,6 @@ Watch for:
 ## S5 E5 — Kif Gets Knocked Up a Notch
 URL: https://watchwiththekids.com/ep/futurama/0505.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Amy's romance with Kif takes an unexpected twist when he becomes pregnant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Scene: Leela's Quarters. She sleeps with Nibbler on her.
@@ -1561,7 +1500,6 @@ Watch for:
 ## S5 E6 — Less than Hero
 URL: https://watchwiththekids.com/ep/futurama/0506.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry and Leela form a superhero team after a miracle cream gives them super powers.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Woman: “[sexfully] Captain Yesterday, I find your skintight high-waters incredibly sexy. Let's get together sometime.”
@@ -1586,7 +1524,6 @@ Watch for:
 ## S5 E7 — Teenage Mutant Leela's Hurdles
 URL: https://watchwiththekids.com/ep/futurama/0507.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The Planet Express crew revert into teenagers after falling into aging tar.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - Farnsworth: “Let's get this gargoyle hunt on the road. Driving gloves, driving goggles, driving thong. There!”
@@ -1620,7 +1557,6 @@ Watch for:
 ## S5 E8 — The Why of Fry
 URL: https://watchwiththekids.com/ep/futurama/0508.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry learns his accidental freezing 1,004 years earlier wasn't an accident. He is given a choice that could prevent its happening, but at a cost.
 Watch for:
 - Violence & injury — 3 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1640,7 +1576,6 @@ Watch for:
 ## S5 E9 — The Sting
 URL: https://watchwiththekids.com/ep/futurama/0509.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Sent on the same mission which caused the deaths of the previous Planet Express crew, Leela mourns the apparent death of Fry.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Fry: “Why am I sticky and naked? Did I miss something fun?”
@@ -1664,7 +1599,6 @@ Watch for:
 ## S5 E10 — The Farnsworth Parabox
 URL: https://watchwiththekids.com/ep/futurama/0510.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew ventures into a parallel universe accidentally created by the Professor.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Cut to: Planet Express: Meeting Room. Bender sleeps with his feet on the table and snores as the room shakes. Parts of the ceiling fall. Farnsworth screams.
@@ -1685,7 +1619,6 @@ Watch for:
 ## S5 E11 — Three Hundred Big Boys
 URL: https://watchwiththekids.com/ep/futurama/0511.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: A $300 tax rebate from the government prompts everyone to live out their aspirations.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Holo-Roseanne: “Ambergris. Noun. A grease-like product of the sperm whales digestive tract that is used as a base in the finest perfumes. This has been Roseanne, your guide to the world of facts.”
@@ -1706,7 +1639,6 @@ Watch for:
 ## S5 E12 — Spanish Fry
 URL: https://watchwiththekids.com/ep/futurama/0512.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry goes in search of his nose after poachers sell it on the black market as an aphrodisiac.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - He grates a horn onto her shoulder and licks it off. They make out. Fry turns the TV off.
@@ -1734,7 +1666,6 @@ Watch for:
 ## S5 E13 — Bend Her
 URL: https://watchwiththekids.com/ep/futurama/0513.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender becomes an Olympic fembot and wins the love of a famous robot.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Leela: “You actually thought they'd let you walk away without an engine oil sex check?”
@@ -1765,7 +1696,6 @@ Watch for:
 ## S5 E14 — Obsoletely Fabulous
 URL: https://watchwiththekids.com/ep/futurama/0514.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Bender needs an upgrade when a new robot makes him feel obsolete.
 Watch for:
 - Violence & injury — 8 moment(s)
   - Roberto: “Man, I hate those new 1-X robots. I'd like to stab 'em! Give 'em some of these!”
@@ -1794,7 +1724,6 @@ Watch for:
 ## S5 E15 — Bender Should Not Be Allowed on Television
 URL: https://watchwiththekids.com/ep/futurama/0515.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender becomes a star on his favorite soap opera by forgetting his lines and reverting to character, but becomes concerned about the effect he is having on the audience.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Monique: “[on TV] Nude rocks bands, big piles of what I assume is talcum powder. It's quite a birthday party, Calculon.”
@@ -1823,7 +1752,6 @@ Watch for:
 ## S5 E16 — The Devil's Hands Are Idle Playthings
 URL: https://watchwiththekids.com/ep/futurama/0516.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry makes a deal with the Robot Devil in order to master the holophone and show his love for Leela.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Leela: “Ooh! Was it jazz noodling? My ex-boyfriend Sean played the sax. I used to listen for hours while he sat naked on my couch and improvised.”
@@ -1844,7 +1772,6 @@ Watch for:
 ## S6 E1 — Rebirth
 URL: https://watchwiththekids.com/ep/futurama/0601.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: After a devastating crash, the Professor attempts to resuscitate the crew with his birth machine.
 Watch for:
 - Violence & injury — 5 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1865,7 +1792,6 @@ Watch for:
 ## S6 E2 — In-A-Gadda-Da-Leela
 URL: https://watchwiththekids.com/ep/futurama/0602.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Leela and Zapp Brannigan find themselves stranded on an Eden-like planet.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Zapp: “My motives were pure! I just wanted you think we had to save humanity so you'd be willing to have sex. Please say you believe me.”
@@ -1894,7 +1820,6 @@ Watch for:
 ## S6 E3 — Attack of the Killer App
 URL: https://watchwiththekids.com/ep/futurama/0603.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Fry posts an embarrassing video of Leela online.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - Announcer: “WIth the new eyePhone, you can watch, listen, ignore your friends, stalk your ex, download porno on a crowded bus, even check your E-mail while getting hit by a train. All with the new eyePhone.”
@@ -1922,7 +1847,6 @@ Watch for:
 ## S6 E4 — Proposition Infinity
 URL: https://watchwiththekids.com/ep/futurama/0604.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender leads a campaign to legalize robosexual marriage between humans and robots.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “[He chuckles maliciously and spreads grout onto a wall. He then makes a tile version of his head] That is one sexy bridge abutment.”
@@ -1951,7 +1875,6 @@ Watch for:
 ## S6 E5 — The Duh-Vinci Code
 URL: https://watchwiththekids.com/ep/futurama/0605.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew races to future Rome to unearth the shocking secret of Leonardo da Vinci.
 Watch for:
 - Violence & injury — 4 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -1967,7 +1890,6 @@ Watch for:
 ## S6 E6 — Lethal Inspection
 URL: https://watchwiththekids.com/ep/futurama/0606.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Bender learns that he suffers from a mortal manufacturing defect.
 Watch for:
 - Violence & injury — 7 moment(s)
   - Bender: “[Chuckles] You humans and your fragile organs. One little stab to the goo and [He blows a raspberry]”
@@ -1998,7 +1920,6 @@ Watch for:
 ## S6 E7 — The Late Philip J. Fry
 URL: https://watchwiththekids.com/ep/futurama/0607.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: The Professor's one-way time machine takes the crew further into the future, with no hope of return.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Farnsworth: “Ah, but this time machine only goes forward in time. That way you can't accidentally change history. Or do something disgusting like sleep with your own grandmother.”
@@ -2028,7 +1949,6 @@ Watch for:
 ## S6 E8 — That Darn Katz!
 URL: https://watchwiththekids.com/ep/futurama/0608.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Earth is invaded by a race of intelligent cats.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Alarm Clock: “Sorry, I hooked up with Bender last night. Dude was all over my snooze button.”
@@ -2050,7 +1970,6 @@ Watch for:
 ## S6 E9 — A Clockwork Origin
 URL: https://watchwiththekids.com/ep/futurama/0609.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The theory of evolution is put to the test on a planet inhabited by robots.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Cubert: “Why don't you ask your mom? She's coming over for a sex visit.”
@@ -2071,7 +1990,6 @@ Watch for:
 ## S6 E10 — The Prisoner of Benda
 URL: https://watchwiththekids.com/ep/futurama/0610.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: A revolutionary invention allows the crew members to exchange minds.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “I'll need accomplices. A sexy vamp to distract and tie up the guard.”
@@ -2105,7 +2023,6 @@ Watch for:
 ## S6 E11 — Lrrreconcilable Ndndifferences
 URL: https://watchwiththekids.com/ep/futurama/0611.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Bender: “Wooh, I've got fruit boobs!”
@@ -2132,7 +2049,6 @@ Watch for:
 ## S6 E12 — The Mutants Are Revolting
 URL: https://watchwiththekids.com/ep/futurama/0612.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Leela leads an army of underground mutants in a rebellion against the surface people.
 Watch for:
 - Violence & injury — 4 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -2148,7 +2064,6 @@ Watch for:
 ## S6 E13 — The Futurama Holiday Spectacular
 URL: https://watchwiththekids.com/ep/futurama/0613.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The Planet Express crew learns the true meaning of Xmas, Robanukah and Kwanzaa.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Barbados: “Like the ever-changing nature of my sexual proclivities.”
@@ -2177,7 +2092,6 @@ Watch for:
 ## S6 E14 — Neutopia
 URL: https://watchwiththekids.com/ep/futurama/0614.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: The crew members encounter a bizarre alien with the power to change their sexual characteristics.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - Amy: “Do you mind if we sleep with you?”
@@ -2209,7 +2123,6 @@ Watch for:
 ## S6 E15 — Benderama
 URL: https://watchwiththekids.com/ep/futurama/0615.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of himself.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Amy: “Colossal tooth whitener, mega deodorant, humongous acne cream... Aw, and one regular-sized condom.”
@@ -2243,7 +2156,6 @@ Watch for:
 ## S6 E16 — Ghost in the Machines
 URL: https://watchwiththekids.com/ep/futurama/0616.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: When Bender dies, his disembodied software haunts the Planet Express building.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Fry: “It sure was nice of the Mayor's wife to have sex with me. [Fry sees something before him, stops, and blinks.] Huh?”
@@ -2274,11 +2186,8 @@ Watch for:
 
 ## S6 E17 — Law and Oracle
 URL: https://watchwiththekids.com/ep/futurama/0617.html
-Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry quits his job and becomes a police officer assigned to the Future Crimes Division.
+Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
-- Sex & hookups — 1 moment(s)
-  - Leela: “I can't make out a thing!”
 - Nudity & bodies — 2 moment(s)
   - Chief O'Mannahan: “You're gonna get your boobs scuffed.”
   - Chief O'Mannahan's bra is hanging from the door of one of the lockers.
@@ -2308,7 +2217,6 @@ Watch for:
 ## S6 E18 — The Silence of the Clamps
 URL: https://watchwiththekids.com/ep/futurama/0618.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - Bender: “An affair, huh? Sounds like me. [Bender shrugs.] [to himself] Jeez, I'd better be a little more careful. I don't wanna hit on anybody I already had sex with.”
@@ -2340,7 +2248,6 @@ Watch for:
 ## S6 E19 — Yo Leela Leela
 URL: https://watchwiththekids.com/ep/futurama/0619.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leela becomes a Hollywood big shot after creating a hit children's television series.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -2362,7 +2269,6 @@ Watch for:
 ## S6 E20 — All the Presidents' Heads
 URL: https://watchwiththekids.com/ep/futurama/0620.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew members alter history when they travel back in time to the American Revolution.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - …head, Zoidberg is dancing with his coat on, Leela is dancing with Martin Van Buren's head against her breasts, Hermes is holding a bottle of beer with his right hand and dancing, and Fry is holding a bottle of beer…
@@ -2387,11 +2293,7 @@ Watch for:
 ## S6 E21 — Möbius Dick
 URL: https://watchwiththekids.com/ep/futurama/0621.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Leela becomes obsessed with hunting down a mysterious four-dimensional space whale.
 Watch for:
-- Sex & hookups — 2 moment(s)
-  - Cut to: Space. The first Planet Express ship and the current Planet Express ship are seen. The camera zooms out, revealing a black hole. A gigantic sperm whale emerges out of the black hole and whistles.
-  - Cut to: The first Planet Express ship kitchen. Amy, Bender, Fry, Hermes, and Leela gasp. The sperm whale passes by the window.
 - Porn / strippers / sex work — 1 moment(s)
   - Bender: “Fry's right! Let's kill the Captain and order some strippers!”
 - Violence & injury — 6 moment(s)
@@ -2417,7 +2319,6 @@ Watch for:
 ## S6 E22 — Fry Am the Egg Man
 URL: https://watchwiththekids.com/ep/futurama/0622.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry nurtures an alien egg that hatches into a horrific monster.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Hermes: “Stop it, Fry! That's sexual harassment!”
@@ -2441,7 +2342,6 @@ Watch for:
 ## S6 E23 — The Tip of the Zoidberg
 URL: https://watchwiththekids.com/ep/futurama/0623.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew uncovers a covert mission undertaken by the Professor and Dr. Zoidberg many years ago.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Professor Farnsworth: “The Yeti grunts.] I lost my virginity...”
@@ -2474,7 +2374,6 @@ Watch for:
 ## S6 E24 — Cold Warriors
 URL: https://watchwiththekids.com/ep/futurama/0624.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry's sneezing reintroduces the common cold to the world of the future.
 Watch for:
 - Violence & injury — 6 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -2498,7 +2397,6 @@ Watch for:
 ## S6 E25 — Overclockwise
 URL: https://watchwiththekids.com/ep/futurama/0625.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender evolves into a godlike being after vastly increasing his processing power. Meanwhile, Fry also worries about his relationship and future with Leela.
 Watch for:
 - Violence & injury — 2 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -2519,7 +2417,6 @@ Watch for:
 ## S6 E26 — Reincarnation
 URL: https://watchwiththekids.com/ep/futurama/0626.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The gang turns into 8-bit, anime and classic black-and-white versions of itself.
 Watch for:
 - Violence & injury — 3 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -2536,7 +2433,6 @@ Watch for:
 ## S7 E1 — The Bots and the Bees
 URL: https://watchwiththekids.com/ep/futurama/0701.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Bender fathers a child with the office soda machine
 Watch for:
 - Sex & hookups — 4 moment(s)
   - Narrator: “Except masturbation! That's...just...wrong!!!”
@@ -2571,7 +2467,6 @@ Watch for:
 ## S7 E2 — A Farewell to Arms
 URL: https://watchwiththekids.com/ep/futurama/0702.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: An ancient prophecy predicts the world will end in the year 3012.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Leela: “Well, the mausoleum held ten horny teenagers, so...maybe thirty-thousand.”
@@ -2600,7 +2495,6 @@ Watch for:
 ## S7 E3 — Decision 3012
 URL: https://watchwiththekids.com/ep/futurama/0703.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leela becomes campaign manager for a presidential candidate with a missing birth certificate.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Calculon: “And the first runner-up, who will take over if the nominee is caught with a dead girl, a live boy or any kind of sexy ghost...Mr.”
@@ -2630,7 +2524,6 @@ Watch for:
 ## S7 E9 — Free Will Hunting
 URL: https://watchwiththekids.com/ep/futurama/0709.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender embarks on a quest for the meaning of life after discovering that robots lack free will.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Bender: “It's been quite a journey. I dropped out of school, joined a gang, took money from a loan shark, and fell into a spiral of despair, addiction, and discount prostitution.”
@@ -2656,7 +2549,6 @@ Watch for:
 ## S7 E24 — Murder on the Planet Express
 URL: https://watchwiththekids.com/ep/futurama/0724.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew becomes trapped aboard ship with a horrific alien creature.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Professor: “No wonder my urine smells like a meal. Enough, you babbling boobs! How can this company function when no one trusts each other? Something must be done.But first I have to see a man about some ground beef.”
@@ -2669,7 +2561,6 @@ Watch for:
 ## S7 E25 — Stench and Stenchibility
 URL: https://watchwiththekids.com/ep/futurama/0725.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Dr. Zoidberg meets the love of his life while Bender squares off in a deadly tap-dancing competition.
 Watch for:
 - Violence & injury — 7 moment(s)
   - Bender: “Woohoo! In your dead face, little girl! I'm not even gonna wait to dance on your grave. I'm gonna dance on your corpse, right now.”
@@ -2690,7 +2581,6 @@ Watch for:
 ## S7 E26 — Meanwhile
 URL: https://watchwiththekids.com/ep/futurama/0726.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry enters an infinite loop when he proposes to Leela using a time travel button.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - At Paris, they kiss on the Eiffel Tower and Leela crosses it off a list, implied to be the list of locations they want to have sex in.
@@ -2716,7 +2606,6 @@ Watch for:
 ## S11 E1 — The Impossible Stream
 URL: https://watchwiththekids.com/ep/futurama/1101.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Fry risks permanent insanity when he attempts to binge-watch every TV show ever made.
 Watch for:
 - Affairs / cheating — 2 moment(s)
   - Monique: “Oh, how I love the illicit thrill of cheating on my husband with an actual flesh-and-blood human. A filthy, filthy human. So squishy and gooey. You're like a sexy water balloon. [she resumes kissing him]”
@@ -2747,7 +2636,6 @@ Watch for:
 ## S11 E2 — Children of a Lesser Bog
 URL: https://watchwiththekids.com/ep/futurama/1102.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Amy and Kif's children emerge from an alien swamp.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - Farnsworth: “Leela, you bone brain, you didn't hav sex!”
@@ -2780,7 +2668,6 @@ Watch for:
 ## S11 E3 — How the West Was 1010001
 URL: https://watchwiththekids.com/ep/futurama/1103.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender and the crew head west to join the bitcoin mining rush.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - Delilah: “Say, you're new in town and low on cash. You interested in a job as a barmaid and/or a prostitute?”
@@ -2807,7 +2694,6 @@ Watch for:
 ## S11 E4 — Parasites Regained
 URL: https://watchwiththekids.com/ep/futurama/1104.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: After Nibbler falls ill, the crew shrinks down for a dangerous mission into a desert world contained within his litter box.
 Watch for:
 - Violence & injury — 6 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -2826,7 +2712,6 @@ Watch for:
 ## S11 E5 — Related to Items You've Viewed
 URL: https://watchwiththekids.com/ep/futurama/1105.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender uncovers the mysteries of the vast Momazon corporation.
 Watch for:
 - Violence & injury — 5 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -2853,7 +2738,6 @@ Watch for:
 ## S11 E6 — I Know What You Did Next Xmas
 URL: https://watchwiththekids.com/ep/futurama/1106.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender and Zoidberg travel through time to attack Robot Santa.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Hermes: “Yeah, but back then, it was some kinda meat market, where butchers would hook up and grind their sausages.”
@@ -2887,7 +2771,6 @@ Watch for:
 ## S11 E7 — Rage Against the Vaccine
 URL: https://watchwiththekids.com/ep/futurama/1107.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The Planet Express crew contends with the EXPLOVID-23 pandemic, and it ultimately may be up to Hermes to set things right.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - LaBarbara: “Afraid she might be too sexually attracted to you to t'ink straight? [chuckles and emerges from the shadows] Well, you're mostly right.”
@@ -2913,7 +2796,6 @@ Watch for:
 ## S11 E9 — The Prince and the Product
 URL: https://watchwiththekids.com/ep/futurama/1109.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew members are reborn as toys.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Eggulon Bender: “Oh, yeah? Well, in our culture, we believe a woman's sexuality is her own decision!”
@@ -2935,7 +2817,6 @@ Watch for:
 ## S11 E10 — All the Way Down
 URL: https://watchwiththekids.com/ep/futurama/1110.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: The crew investigates whether the universe is a simulation.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - A fembot waitress approaches them with a bottle of Lobrau. She uncaps it with her metal boobs.
@@ -2960,7 +2841,6 @@ Watch for:
 ## S12 E1 — The One Amigo
 URL: https://watchwiththekids.com/ep/futurama/1201.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: After Bender sells an NFT representing the "Concept of Bender", he feels lost and returns to his ancestral village in Mexico to rediscover himself.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Smitty: “I guess my parents never showed much affection, so in my own sex life…”
@@ -2983,7 +2863,6 @@ Watch for:
 ## S12 E2 — Quids Game
 URL: https://watchwiththekids.com/ep/futurama/1202.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bizarre aliens force the crew to reenact all the classic children's games Fry played at his 8th birthday party... except this time, they are played TO THE DEATH!
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Slim: “I'm rich! Finally, I can give up limbo and start a professional sex league.”
@@ -3007,7 +2886,6 @@ Watch for:
 ## S12 E3 — The Temp
 URL: https://watchwiththekids.com/ep/futurama/1203.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: A mysterious temp worker takes over Fry's job - as well as his entire life.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Ndnd: “[reading cards] "You took me in your arms and ate the morsel of B'dnkian entrail lodged in my cleavage."”
@@ -3034,7 +2912,6 @@ Watch for:
 ## S12 E4 — Beauty and the Bug
 URL: https://watchwiththekids.com/ep/futurama/1204.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender becomes a matador in the sport of "Bug Fighting".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “Well, remember when I said I spent a whole night sleeping with the buggalo? I-It was actually only part of a night. And I didn't do much sleepin'.”
@@ -3064,7 +2941,6 @@ Watch for:
 ## S12 E5 — One is Silicon and the Other Gold
 URL: https://watchwiththekids.com/ep/futurama/1205.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Leela becomes friends with a jealous chatbot.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “I bet it was one of those disgusting party sex lines! Oh, no, wait. Those are only $5.98 a minute.”
@@ -3095,7 +2971,6 @@ Watch for:
 ## S12 E6 — Attack of the Clothes
 URL: https://watchwiththekids.com/ep/futurama/1206.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The Professor's fast-fashion clothes are a smash hit, but an environmental disaster.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Scientist 2: “But that gown brings sexy back to science.”
@@ -3121,7 +2996,6 @@ Watch for:
 ## S12 E7 — Planet Espresso
 URL: https://watchwiththekids.com/ep/futurama/1207.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Hermes inherits a Jamaican coffee farm that holds the ruins of an ancient spaceship.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Farnsworth: “Get out! And take your dirty, sexy money with you!”
@@ -3145,7 +3019,6 @@ Watch for:
 ## S12 E8 — Cuteness Overlord
 URL: https://watchwiththekids.com/ep/futurama/1208.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Amy sets out to collect the cutest toys in the universe - but they are not as harmless as they appear.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -3172,7 +3045,6 @@ Watch for:
 ## S12 E9 — The Futurama Mystery Liberry
 URL: https://watchwiththekids.com/ep/futurama/1209.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Futurama is reimagined in the form of classic children's mystery books.
 Watch for:
 - Violence & injury — 9 moment(s)
   - Mr. Brown: “Smooth, baby. I sent three perps to the electric chair. Two murderers and one unlicensed hotdog vendor.”
@@ -3202,7 +3074,6 @@ Watch for:
 ## S12 E10 — Otherwise
 URL: https://watchwiththekids.com/ep/futurama/1210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: When Fry proposes to Leela, he is overcome by a near-fatal attack of déjà vu.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Farnsworth: “Why didn't you come out sooner, you boob?”
@@ -3232,7 +3103,6 @@ Watch for:
 ## S13 E1 — Destroy Tall Monsters
 URL: https://watchwiththekids.com/ep/futurama/1301.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Bender undergoes a risky treatment to make himself gigantic.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Farnsworth: “[reading] "Hot plus tall equals sexy"? [to Amy] Well, you can't argue with the math.”
@@ -3258,7 +3128,6 @@ Watch for:
 ## S13 E2 — The World is Hot Enough
 URL: https://watchwiththekids.com/ep/futurama/1302.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew ignites a volcano in a desperate attempt to slow global warming.
 Watch for:
 - Violence & injury — 6 moment(s)
   - During this bit, a tourist waves to the camera behind them using a stone corpse.
@@ -3279,7 +3148,6 @@ Watch for:
 ## S13 E3 — Fifty Shades of Green
 URL: https://watchwiththekids.com/ep/futurama/1303.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Fry is heartbroken to learn Leela's soulmate is someone other than him.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - They walk into the Beast with Two Bucks $1.99 Sex Shoppe.
@@ -3319,7 +3187,6 @@ Watch for:
 ## S13 E4 — The Numberland Gap
 URL: https://watchwiththekids.com/ep/futurama/1304.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew journeys into a mysterious world inhabited by numbers.
 Watch for:
 - Violence & injury — 4 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -3338,7 +3205,6 @@ Watch for:
 ## S13 E5 — Scared Screenless
 URL: https://watchwiththekids.com/ep/futurama/1305.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Bender is sent off to Zapp Brannigan's camp for screen addicts.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Scene: The kids sneak past Zapp's yurt, and Dwight checks behind the yurt door to see Zapp sleeping with his Q.T. McWhiskers doll.
@@ -3373,7 +3239,6 @@ Watch for:
 ## S13 E6 — Wicked Human
 URL: https://watchwiththekids.com/ep/futurama/1306.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Pandemonium erupts when people around the world start floating up into the sky.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - He strips off the robe revealing he was naked underneath. The group groans. The Professor puts his regular lab coat back on.
@@ -3397,7 +3262,6 @@ Watch for:
 ## S13 E7 — Murderoni
 URL: https://watchwiththekids.com/ep/futurama/1307.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: A conspiracy theory makes shocking claims about the basement of the local pizzeria.
 Watch for:
 - Violence & injury — 4 moment(s)
   - Murderoni Written byCody Ziglar Transcribed byJasonbres
@@ -3417,7 +3281,6 @@ Watch for:
 ## S13 E8 — Crab Splatter
 URL: https://watchwiththekids.com/ep/futurama/1308.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Leela's parents adopt Dr. Zoidberg.
 Watch for:
 - Violence & injury — 3 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -3434,7 +3297,6 @@ Watch for:
 ## S13 E9 — The Trouble with Truffles
 URL: https://watchwiththekids.com/ep/futurama/1309.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Bender and his trusty pig set off to hunt space truffles in the truffle belt.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Leela and Fry take some of Bender's truffles. They taste them and have some orgasmic reactions.
@@ -3464,7 +3326,6 @@ Watch for:
 ## S13 E10 — The White Hole
 URL: https://watchwiththekids.com/ep/futurama/1310.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew embarks on an epic ten-million-year journey to witness the birth of a new universe.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - The crew clones open their mission kits. Fry #330 opens his, a bottle of Extra Virgin Massage Oil.
@@ -3492,7 +3353,6 @@ Watch for:
 ## S14 E1 — Beef
 URL: https://watchwiththekids.com/ep/futurama/1401.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The Professor attempts to create lab-grown meat so Fry can compete in the world hotdog-eating championship.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Leela throws her bra at Fry.
@@ -3519,7 +3379,6 @@ Watch for:
 ## S14 E2 — Catfish Hunter
 URL: https://watchwiththekids.com/ep/futurama/1402.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Bender travels to Mississippi in search of a sexy scammer who ripped off his grandmother.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “Wai-wai-wai-wai-wait. What are you doing with a sexy butlerbot? You're supposed to be penniless thanks to me!”
@@ -3548,7 +3407,6 @@ Watch for:
 ## S14 E3 — Our Flag Means Medical Coverage
 URL: https://watchwiththekids.com/ep/futurama/1403.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Vicious Space Pirates steal a priceless cargo entrusted to Fry and Bender.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Zapp: “My favorite pursuit temperature. Perhaps it's a sex-ay she-alien. [He sprays cologne on himself.]”
@@ -3572,7 +3430,6 @@ Watch for:
 ## S14 E4 — Lords of the Ring
 URL: https://watchwiththekids.com/ep/futurama/1404.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: The crew crash-lands on a mysterious world inhabited by intelligent rats.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Bender: “It's not what it looks like! It's just sexual!”
@@ -3598,7 +3455,6 @@ Watch for:
 ## S14 E5 — The Charm Offensive
 URL: https://watchwiththekids.com/ep/futurama/1405.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Earth's biggest pop star uses musical brain programming to command her army of fans.
 Watch for:
 - Violence & injury — 4 moment(s)
   - …Morning Fun Pit" • "Calculon 2.0" • "Assie Come Home" • "Leela and the Genestalk" • "Game of Tones" • "Murder on the Planet Express" • "Stench and Stenchibility" • "Meanwhile"
@@ -3615,7 +3471,6 @@ Watch for:
 ## S14 E6 — Late Bloomers
 URL: https://watchwiththekids.com/ep/futurama/1406.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
-Summary: Hermes attempts to save his dying father, as Zoidberg reunites with an old flame.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - Marianne: “We could. But I'd rather make out.”

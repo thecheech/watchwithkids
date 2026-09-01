@@ -1,64 +1,41 @@
 season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
-0,1,0001,6-18,1,1,1,1,8,Usually fine — about 8+,
-0,2,0002,A Tale of Two Stans,3,1,1,3,10,Preview first — about 10+,Violence & injury — And so the Murder Hut was born!
-0,3,0003,Between the Pines,3,1,1,3,10,Preview first — about 10+,Sex & hookups — …is circled; a frame of The Legend of the Gobblewonker which is zoomed into Stan's license plate; Stan sleeping with The Plot Twist highlighted; Dipper and Mabel standing outside of the kitchen and the camera zooming…
-0,4,0004,Blendin's Game,3,1,1,3,10,Preview first — about 10+,"Violence & injury — You're right, Dipper! It's time for us to bring out the big guns!"
-0,5,0005,Boss Mabel,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Money starts falling down on the man in the middle. When the other two contestants try to take some money, he slaps and punches them away."
-0,6,0006,Bottomless Pit!,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Well, take this! (Hits a button but hits himself in the eye) Ow! And this! (Punches himself again) Ow! It hurts. I wish this was working better. And this! Aw, dude! (Knocks himself down)"
-0,7,0007,Boyz Crazy,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Finally, a good reason to punch a teenager in the face. Let's roll!"
-0,8,0008,Candy Monster,1,1,1,1,8,Usually fine — about 8+,"Nudity & bodies — Ew, it's like a... naked little man."
-0,9,0009,Carpet Diem,3,1,2,3,10,Preview first — about 10+,"Nudity & bodies — Waddles, you got it good, bro. You got no worries. I mean, nobody thinks it's cute when I lie naked on the living room floor. I wish I could be a pig. (Rubs Waddles' head, the electrons are swapped, and they swap bodies)"
-0,10,0010,Cryptograms (short),1,1,1,1,8,Usually fine — about 8+,"Violence & injury — (Cut to a clip of Manotaurs cheering, with one holding another in a headlock and punching him in the face."
-0,11,0011,Dipper and Mabel vs. the Future,3,1,1,3,10,Preview first — about 10+,Violence & injury — My hormones are like a sweaty cage! (Punches bulletin board)
-0,12,0012,Dipper vs. Manliness,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — I have three Y chromosomes, six adam's apples, pecs on my abs and FISTS FOR NIPPLES!"
-0,13,0013,Double Dipper,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Robbie, you're a stupid, arrogant fraud; but kiss me anyway because you can play guitar. Oh wait, I forgot something. (Walks over and punches Dipper; to Robbie:) LET'S GET MARRIED TONIGHT!"
-0,14,0014,Dreamscaperers,3,1,1,3,10,Preview first — about 10+,"Violence & injury — Dipper, Mabel, Stan, and Wendy are watching television. Dipper and Wendy are shooting each other with Nyarf brand dart guns."
-0,15,0015,"Dungeons, Dungeons, and More Dungeons",3,1,1,3,10,Preview first — about 10+,"Violence & injury — Everyone, get down! Don't let it taste human flesh! (Punches it and it drops off his hand crawls around the room)"
-0,16,0016,Eyes,1,1,1,1,8,Usually fine — about 8+,
-0,17,0017,Fight Fighters,3,1,1,3,10,Preview first — about 10+,Violence & injury — I'm gonna punch the ref.
-0,18,0018,Gideon Rises,3,1,1,3,10,Preview first — about 10+,"Violence & injury — Sighs) You're a good man... child, Soos, but it's not lookin' good. This whole town loves Gideon and hates me. If only they knew how evil he really was! (punches the table in anger"
-0,19,0019,Government Agency,1,1,1,1,8,Usually fine — about 8+,
-0,20,0020,Headhunters,3,1,1,3,10,Preview first — about 10+,"Violence & injury — (Starts quacking, the subtitles read:) Accident, constable? Or is it...Murder?!"
-0,21,0021,Into the Bunker,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — It's cool, it's cool. It's just blood, man; don't freak out."
-0,22,0022,Irrational Treasure,1,1,1,1,8,Usually fine — about 8+,
-0,23,0023,Land Before Swine,3,1,1,3,10,Preview first — about 10+,"Nudity & bodies — He's a fat, naked, jerk."
-0,24,0024,Laptop Code,1,1,1,1,8,Usually fine — about 8+,
-0,25,0025,Lefty,1,1,1,1,8,Usually fine — about 8+,Suicide & self-harm — (Takes suicide pills) The time has come!
-0,26,0026,Little Dipper,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — (Sees a butterfly pass through the pink light and shrink, then the blue light and grow; it knocks over a tree) What the heck? (Cuts a crystal off with a Swiss army knife)"
-0,27,0027,Little Gift Shop of Horrors,3,1,1,3,10,Preview first — about 10+,"Nudity & bodies — Drives into the machine) The origin of life. The meaning of existence. Why dudes have nipples. (He presses a button, making the machine glow"
-0,28,0028,Mabel's Guide to Art,1,1,1,1,8,Usually fine — about 8+,
-0,29,0029,Mabel's Guide to Color,1,1,1,1,8,Usually fine — about 8+,
-0,30,0030,Mabel's Guide to Dating,1,1,1,1,8,Usually fine — about 8+,
-0,31,0031,Mabel's Guide to Fashion,1,1,1,1,8,Usually fine — about 8+,
-0,32,0032,Mabel's Guide to Stickers,1,1,1,1,8,Usually fine — about 8+,
-0,33,0033,Mailbox,1,1,1,1,8,Usually fine — about 8+,
-0,34,0034,Medalions,1,1,1,1,8,Usually fine — about 8+,
-0,35,0035,Northwest Mansion Mystery,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Aah! (Screams as blood dripping from above, gasps, looks up)"
-0,36,0036,Not What He Seems,2,1,2,2,8,Mild — okay from about 8+,"Swearing — Several agents rappel out of a helicopter. Cut to the Mystery Shack attic, where agents crash in and cock their weapons."
-0,37,0037,Relation Shipping,1,1,1,1,8,Usually fine — about 8+,
-0,38,0038,Roadside Attraction,2,1,1,2,8,Mild — okay from about 8+,"Affairs / cheating — You know, I'm going on a break. You wanna take the sky tram up to Widow's Peak?"
-0,39,0039,Scary-oke,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Eat it, no eyes! (A zombie growls and bites the baseball bat in half, only be punched by Stan's brass-knuckle-wearing fists) ANYONE ELSE WANNA PIECE?!"
-0,40,0040,Society of the Blind Eye,3,1,1,3,10,Preview first — about 10+,"Violence & injury — (A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous."
-0,41,0041,Sock Opera,2,1,1,2,8,Mild — okay from about 8+,Sex & hookups — Did he just make out with his puppets?
-0,42,0042,Soos and the Real Girl,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — (Playing a video game entitled ""First Person Puncher"") Punch!"
-0,43,0043,Stan's Brother,1,1,1,1,8,Usually fine — about 8+,
-0,44,0044,Stan's Tattoo,1,1,1,1,8,Usually fine — about 8+,
-0,45,0045,Summerween,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — (Picks up a big barrel of fake blood) Ha ha! When the children come to my door tonight, they're gonna run away screaming from Stan Pines, Master of Fright! (Turns, faces a baby) Boo."
-0,46,0046,The Deep End,1,1,1,1,8,Usually fine — about 8+,"Violence & injury — Well, thanks, I— (Mr. Poolcheck strangles him in a hug.) Yep. Oh, this is happening."
-0,47,0047,The Golf War,3,1,1,3,10,Preview first — about 10+,"Violence & injury — Uh, I don't know, guys. I'm not sure I wanna get involved in your weird mini-blood feud."
-0,48,0048,The Hand That Rocks the Mabel,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Oh hey man. Sorry for accusing you of murder last week.
-0,49,0049,The Hide-Behind,1,1,1,1,8,Usually fine — about 8+,
-0,50,0050,The Ice Man,1,1,1,1,8,Usually fine — about 8+,
-0,51,0051,The Inconveniencing,3,1,1,3,10,Preview first — about 10+,Violence & injury — No! (Screams as a stabbing sound is heard)
-0,52,0052,The Last Mabelcorn,3,1,1,3,10,Preview first — about 10+,Violence & injury — So can I go on a mission to get that hair? Please please please? I'LL GIVE YOU MY BLOOD!
-0,53,0053,The Legend of the Gobblewonker,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — NO! (Takes the pole and breaks it in half) I'll show you how a real man fishes! (Grabs a fish straight out of water) Ha ha ha ha ha! (Throws fish on the floor of their boat and jumps on it, he punches it repeatedly)"
-0,54,0054,The Love God,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Cut to the inside of the house. There is a glass coffin with a corpse in it. On top of it is a tray of crackers and grapes. Mr. Valentino grabs the tray and approaches Mabel, who is sitting on the couch."
-0,55,0055,The Stanchurian Candidate,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Come on, have you seen the polls? I could debate naked and I'd still win! Huh, come to think of it..."
-0,56,0056,The Time Traveler's Pig,1,1,1,1,8,Usually fine — about 8+,Sex & hookups — Let's go get two dodos and force them to make out!
-0,57,0057,Tooth,1,1,1,1,8,Usually fine — about 8+,
-0,58,0058,Tourist Trapped,2,2,1,2,8,Mild — okay from about 8+,Sex & hookups — (Fires the grappling hook up at the ceiling; it catches and pulls her up) Grappling hook!
-1,59,0159,Transcripts,1,1,1,1,8,Usually fine — about 8+,
-0,60,0060,Triangles,1,1,1,1,8,Usually fine — about 8+,
-0,61,0061,TV Shorts 1,1,1,1,1,8,Usually fine — about 8+,"Violence & injury — Cuts to scene where Gideon is holding a pillow with a page taped on it saying ""MY ISSUES"", a second prisoner is sitting next to him punching the pillow."
-0,62,0062,TV Shorts 2,1,1,1,1,8,Usually fine — about 8+,
-0,63,0063,Unaired pilot,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — How's about corpse melon.
+1,1,0101,Tourist Trapped,2,1,1,2,8,Mild — okay from about 8+,Sex & hookups — (Fires the grappling hook up at the ceiling; it catches and pulls her up) Grappling hook!
+1,2,0102,The Legend of the Gobblewonker,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — NO! (Takes the pole and breaks it in half) I'll show you how a real man fishes! (Grabs a fish straight out of water) Ha ha ha ha ha! (Throws fish on the floor of their boat and jumps on it, he punches it repeatedly)"
+1,3,0103,Headhunters,3,1,1,3,10,Preview first — about 10+,"Violence & injury — (Starts quacking, the subtitles read:) Accident, constable? Or is it...Murder?!"
+1,4,0104,The Hand That Rocks the Mabel,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — Oh hey man. Sorry for accusing you of murder last week.
+1,5,0105,The Inconveniencing,3,1,1,3,10,Preview first — about 10+,Violence & injury — No! (Screams as a stabbing sound is heard)
+1,6,0106,Dipper vs. Manliness,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — I have three Y chromosomes, six adam's apples, pecs on my abs and FISTS FOR NIPPLES!"
+1,7,0107,Double Dipper,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Robbie, you're a stupid, arrogant fraud; but kiss me anyway because you can play guitar. Oh wait, I forgot something. (Walks over and punches Dipper; to Robbie:) LET'S GET MARRIED TONIGHT!"
+1,8,0108,Irrational Treasure,1,1,1,1,8,Usually fine — about 8+,
+1,9,0109,The Time Traveler's Pig,1,1,1,1,8,Usually fine — about 8+,Sex & hookups — Let's go get two dodos and force them to make out!
+1,10,0110,Fight Fighters,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — I'm gonna punch the ref.
+1,11,0111,Little Dipper,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — (Sees a butterfly pass through the pink light and shrink, then the blue light and grow; it knocks over a tree) What the heck? (Cuts a crystal off with a Swiss army knife)"
+1,12,0112,Summerween,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — (Picks up a big barrel of fake blood) Ha ha! When the children come to my door tonight, they're gonna run away screaming from Stan Pines, Master of Fright! (Turns, faces a baby) Boo."
+1,13,0113,Boss Mabel,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Money starts falling down on the man in the middle. When the other two contestants try to take some money, he slaps and punches them away."
+1,14,0114,Bottomless Pit!,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Well, take this! (Hits a button but hits himself in the eye) Ow! And this! (Punches himself again) Ow! It hurts. I wish this was working better. And this! Aw, dude! (Knocks himself down)"
+1,15,0115,The Deep End,1,1,1,1,8,Usually fine — about 8+,"Violence & injury — Well, thanks, I— (Mr. Poolcheck strangles him in a hug.) Yep. Oh, this is happening."
+1,16,0116,Carpet Diem,2,1,2,2,8,Mild — okay from about 8+,"Nudity & bodies — Waddles, you got it good, bro. You got no worries. I mean, nobody thinks it's cute when I lie naked on the living room floor. I wish I could be a pig. (Rubs Waddles' head, the electrons are swapped, and they swap bodies)"
+1,17,0117,Boyz Crazy,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Finally, a good reason to punch a teenager in the face. Let's roll!"
+1,18,0118,Land Before Swine,3,1,1,3,10,Preview first — about 10+,"Nudity & bodies — He's a fat, naked, jerk."
+1,19,0119,Dreamscaperers,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Dipper, Mabel, Stan, and Wendy are watching television. Dipper and Wendy are shooting each other with Nyarf brand dart guns."
+1,20,0120,Gideon Rises,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Sighs) You're a good man... child, Soos, but it's not lookin' good. This whole town loves Gideon and hates me. If only they knew how evil he really was! (punches the table in anger"
+2,1,0201,Scary-Oke,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Eat it, no eyes! (A zombie growls and bites the baseball bat in half, only be punched by Stan's brass-knuckle-wearing fists) ANYONE ELSE WANNA PIECE?!"
+2,2,0202,Into the Bunker,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — It's cool, it's cool. It's just blood, man; don't freak out."
+2,3,0203,The Golf War,3,1,1,3,10,Preview first — about 10+,"Violence & injury — Uh, I don't know, guys. I'm not sure I wanna get involved in your weird mini-blood feud."
+2,4,0204,Sock Opera,2,1,1,2,8,Mild — okay from about 8+,Sex & hookups — Did he just make out with his puppets?
+2,5,0205,Soos and the Real Girl,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — (Playing a video game entitled ""First Person Puncher"") Punch!"
+2,6,0206,Little Gift Shop of Horrors,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Drives into the machine) The origin of life. The meaning of existence. Why dudes have nipples. (He presses a button, making the machine glow"
+2,7,0207,Society of the Blind Eye,3,1,1,3,10,Preview first — about 10+,"Violence & injury — (A gust of wind grabs his notebook and mug and sucks them into the portal.) Haha, yes! (A flying pipe hits his hand.) Ah! (Bandaging the bloody wound) I don't care if it's dangerous."
+2,8,0208,Blendin's Game,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — You're right, Dipper! It's time for us to bring out the big guns!"
+2,9,0209,The Love God,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Cut to the inside of the house. There is a glass coffin with a corpse in it. On top of it is a tray of crackers and grapes. Mr. Valentino grabs the tray and approaches Mabel, who is sitting on the couch."
+2,10,0210,Northwest Mansion Noir,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Aah! (Screams as blood dripping from above, gasps, looks up)"
+2,11,0211,Not What He Seems,1,1,2,2,8,Mild — okay from about 8+,"Swearing — Several agents rappel out of a helicopter. Cut to the Mystery Shack attic, where agents crash in and cock their weapons."
+2,12,0212,A Tale of Two Stans,3,1,1,3,10,Preview first — about 10+,Violence & injury — And so the Murder Hut was born!
+2,13,0213,"Dungeons, Dungeons, & More Dungeons",2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — Everyone, get down! Don't let it taste human flesh! (Punches it and it drops off his hand crawls around the room)"
+2,14,0214,The Stanchurian Candidate,2,1,1,2,8,Mild — okay from about 8+,"Nudity & bodies — Come on, have you seen the polls? I could debate naked and I'd still win! Huh, come to think of it..."
+2,15,0215,The Last Mabelcorn,3,1,1,3,10,Preview first — about 10+,Violence & injury — So can I go on a mission to get that hair? Please please please? I'LL GIVE YOU MY BLOOD!
+2,16,0216,Roadside Attraction,2,1,1,2,8,Mild — okay from about 8+,"Affairs / cheating — You know, I'm going on a break. You wanna take the sky tram up to Widow's Peak?"
+2,17,0217,Dipper and Mabel vs. the Future,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — My hormones are like a sweaty cage! (Punches bulletin board)
+2,18,0218,Weirdmageddon (1),3,1,1,3,10,Preview first — about 10+,"Violence & injury — …which some are calling ""Weirdmageddon,"" or the ""Oddpocalypse."" Weather today calls for black clouds, blood rain and frequent showers of Eyeball Bats turning people into stone."
+2,19,0219,Weirdmageddon (2): Escape from Reality,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — (Slaps Soos' drink away as he is about to drink from it) That punch is probably blood!
+2,20,0220,Weirdmageddon (3): Take Back the Falls,3,1,1,3,10,Preview first — about 10+,"Violence & injury — Robbie, would you be a dear and get us the sawed-off shotgun?"

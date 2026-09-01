@@ -162,6 +162,37 @@ SHOWS = {
     "avatar": {
         "name": "Avatar: The Last Airbender", "shelf": "kids", "age": 8, "floor": 8,
         "format": "kids animation",
+        "note": "2005 animation — episode-to-episode violence and scary bits vary a lot.",
+    },
+    "stranger-things": {
+        "name": "Stranger Things", "shelf": "rewatch", "age": 14, "floor": 11,
+        "format": "live-action sci-fi",
+        "note": "Horror and violence swing hard by episode — the query parents actually search.",
+    },
+    "legend-of-korra": {
+        "name": "The Legend of Korra", "shelf": "kids", "age": 10, "floor": 9,
+        "format": "kids animation",
+        "note": "Darker follow-up to ATLA — politics, romance and fight intensity vary by episode.",
+    },
+    "clone-wars": {
+        "name": "Star Wars: The Clone Wars", "shelf": "kids", "age": 10, "floor": 9,
+        "format": "kids animation",
+        "note": "Violence jumps by arc — some episodes are fine, others are war-movie intense.",
+    },
+    "owl-house": {
+        "name": "The Owl House", "shelf": "kids", "age": 9, "floor": 8,
+        "format": "kids animation",
+        "note": "Identity and scary imagery ramp up in later seasons.",
+    },
+    "amphibia": {
+        "name": "Amphibia", "shelf": "kids", "age": 8, "floor": 7,
+        "format": "kids animation",
+        "note": "Mostly adventure-comedy; a few episodes get genuinely scary.",
+    },
+    "pokemon": {
+        "name": "Pokémon: Indigo League", "shelf": "kids", "age": 7, "floor": 6,
+        "format": "kids animation",
+        "note": "Season 1 (Kanto) only — not every spin-off.",
     },
     "full-house": {
         "name": "Full House", "shelf": "kids", "age": 7, "floor": 7,
@@ -272,7 +303,52 @@ NON_EPISODE_PATTERNS = [
     r"\bstage show\b",
     r"\bthe patrick star show\b",
     r"\bkamp koral\b",
+    # Fandom wiki filler — commentaries, podcasts, BTS featurettes
+    r"\bcharacter commentary\b",
+    r"\bcreator commentary\b",
+    r"\bbraving the elements\b",
+    r"\bbreaks down this\b",
+    r"\b(?:feat\.|featuring)\b",
+    r"\bwith (?:creators|writer|composer|director)\b",
+    r"\borigin stories with\b",
+    r"\bpodcast\b",
+    r"\bfeaturette\b",
+    r"\bpuppetbender\b",
+    r"\bscoring tlok\b",
+    r"\binside avatar studios\b",
+    r"\bseven havens\b",
+    r"\bmemorable quotes\b",
+    # Gravity Falls shorts / extras
+    r"\bcryptogram\b",
+    r"\bbetween the pines\b",
+    r"\bunaired pilot\b",
+    r"\bgovernment agency\b",
+    r"\blaptop code\b",
+    r"\banimated short\b",
+    # Steven Universe extras
+    r"\battack the light\b",
+    r"\bappearance related teasing\b",
+    r"\bcompeting and comparing looks\b",
+    r"\ba very special episode\b",
+    r"\bbismuth casual\b",
+    r"\bcrossover nexus\b",
 ]
 
-# Shows where season 0 / unnumbered entries are wiki noise rather than real specials.
-CANON_ONLY = {"spongebob"}
+# Shows whose transcript source is a fandom wiki dump. Season 0 / unnumbered
+# entries and NON_EPISODE titles are dropped before rating.
+CANON_ONLY = {
+    "spongebob",
+    "bluey",
+    "gravity-falls",
+    "phineas-and-ferb",
+    "adventure-time",
+    "steven-universe",
+    "avatar",
+    "legend-of-korra",
+    "owl-house",
+    "amphibia",
+    "pokemon",
+}
+
+# Single-entry movies — not "Season 1 Episode 1".
+MOVIE_SHOWS = {"kpop-demon-hunters"}

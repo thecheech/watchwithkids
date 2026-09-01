@@ -4,7 +4,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 1,3,0103,Homer's Odyssey,2,1,2,2,9,Mild — okay from about 9+,"Nudity & bodies — Homer Simpson: “Many of them, incompetent boobs.”"
 1,4,0104,There's No Disgrace Like Home,3,1,1,3,10,Preview first — about 10+,"Nudity & bodies — Bart Simpson: “Hear that, Dad? You can lie around in your underwear and scratch yourself.”"
 1,5,0105,Bart the General,3,2,1,3,10,Preview first — about 10+,Sex & hookups — Grampa Simpson: “Number two: Horny.”
-1,6,0106,Moaning Lisa,3,1,1,3,10,Preview first — about 10+,"Nudity & bodies — Homer Simpson: “Oh, so that's it. This is some kind of underwear thing.”"
+1,6,0106,Moaning Lisa,2,1,1,2,9,Mild — okay from about 9+,"Nudity & bodies — Homer Simpson: “Oh, so that's it. This is some kind of underwear thing.”"
 1,7,0107,The Call of the Simpsons,2,1,2,2,9,Mild — okay from about 9+,Violence & injury — Homer Simpson: “(SADLY TO HIMSELF) What am I going to do? I've murdered us all.”
 1,8,0108,The Telltale Head,3,1,2,3,10,Preview first — about 10+,Violence & injury — Bart Simpson: “Murderous mob. I beg you to spare our lives. At least until you've heard the story of how we ended up with the head of our beloved town founder.”
 1,9,0109,Life on the Fast Lane,1,1,2,2,9,Mild — okay from about 9+,Alcohol & drugs — Jacques: “Which frame is the beer frame.”
@@ -34,7 +34,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 2,20,0220,The War of the Simpsons,3,1,2,3,10,Preview first — about 10+,Violence & injury — Homer Simpson: “Lucky you don't keep guns in the house.”
 2,21,0221,Three Men and a Comic Book,2,1,2,2,9,Mild — okay from about 9+,"Violence & injury — Bart Simpson: “(TO LISA, HOLDING UP COMIC) Now, Radioactive Man: He rules! Never punches a bad guy without saying something cool.”"
 2,22,0222,Blood Feud,3,1,2,3,10,Preview first — about 10+,Violence & injury — Dr. Julius Hibbert: “Mmmm. Mr. Burns is suffering from what we medical men call hypohemia. In layman's terms it's quite simply a lack of blood.”
-3,1,0301,Stark Raving Dad,3,1,2,3,10,Preview first — about 10+,"Nudity & bodies — Waylon Smithers: “Oh, that's Homer Simpson, sir. He's one of your boobs from Sector 7-G.”"
+3,1,0301,Stark Raving Dad,2,1,2,2,9,Mild — okay from about 9+,"Nudity & bodies — Waylon Smithers: “Oh, that's Homer Simpson, sir. He's one of your boobs from Sector 7-G.”"
 3,2,0302,Mr. Lisa Goes to Washington,1,1,2,2,9,Mild — okay from about 9+,
 3,3,0303,When Flanders Failed,1,1,2,2,9,Mild — okay from about 9+,"Alcohol & drugs — Ned Flanders: “(CHUCKLING) Why Homer, you silly goose! The weed whacker's just for the edges! You're gonna be out here all day!”"
 3,4,0304,Bart the Murderer,3,2,2,3,10,Preview first — about 10+,"Porn / strippers / sex work — Legs: “Prostitution, loan sharking, numbers. The kid liked to wet his beak in everything.”"
@@ -72,7 +72,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 4,12,0412,Marge vs. the Monorail,2,1,2,2,9,Mild — okay from about 9+,"Sex & hookups — Kent Brockman: “Here's one of those loveable high-schoolers from TV's Springfield Heights, 90210. He's cool, he's sexy, he's thirty-four years old, let's hear it for Kyle Darren!”"
 4,13,0413,Selma's Choice,2,2,1,2,9,Mild — okay from about 9+,"Sex & hookups — Lisa Simpson: “Aunt Selma, this may be presumptuous, but have you ever considered artificial insemination?”"
 4,14,0414,Brother from the Same Planet,2,1,2,2,9,Mild — okay from about 9+,"Violence & injury — Kent Brockman: “This just in, a fist fight is in progress in downtown Springfield. Early reports indicate -- and these are very preliminary -- that one of the fighters is a giant lizard.”"
-4,15,0415,I Love Lisa,3,1,1,3,10,Preview first — about 10+,Porn / strippers / sex work — Adult Movie Theater
+4,15,0415,I Love Lisa,2,1,1,2,9,Mild — okay from about 9+,Porn / strippers / sex work — Adult Movie Theater
 4,16,0416,Duffless,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — Homer Simpson: “Roll in at nine, punch out at five. That's the plan.”"
 4,17,0417,Last Exit to Springfield,3,1,3,3,10,Preview first — about 10+,"Violence & injury — C. Montgomery Burns: “(EVILLY) Goodbye, Springfield. From hell's heart I stab at thee!”"
 4,18,0418,So It's Come to This: A Simpsons Clip Show,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — Pagan Simpsons: “(CHANTING) Blood for Baal! Blood for Baal!”
@@ -122,7 +122,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 6,18,0618,A Star Is Burns,1,3,2,3,10,Preview first — about 10+,"Sex & hookups — McBain: “Now, my Woody Allen impression: I'm a neurotic nerd who likes to sleep with little girls.”"
 6,19,0619,Lisa's Wedding,2,4,1,4,13,Skip for under 13,"Sex & hookups — Marge Simpson: “You know, Fox turned into a hard-core sex channel so gradually, I didn't even notice.”"
 6,20,0620,Two Dozen and One Greyhounds,2,2,2,2,9,Mild — okay from about 9+,"Sex & hookups — Homer Simpson: “(SWEETLY) Aw, so that's what's been wrong with the little fella. He misses casual sex.”"
-6,21,0621,The PTA Disbands,2,1,2,2,9,Mild — okay from about 9+,Sex & hookups — Bart Simpson: “It's hard to see what's going on. I can only make out the fat soldiers.”
+6,21,0621,The PTA Disbands,2,1,2,2,9,Mild — okay from about 9+,"Violence & injury — Edna Krabappel-Flanders: “It's all right, children. Just ignore the murderer.”"
 6,22,0622,'Round Springfield,3,1,2,3,10,Preview first — about 10+,Sex & hookups — Krusty the Clown: “His sexual harassment suit.”
 6,23,0623,The Springfield Connection,3,1,1,3,10,Preview first — about 10+,"Nudity & bodies — Homer Simpson: “Marge, you being a cop makes you the man, which makes me the woman. And I have no interest in that, besides occasionally wearing the underwear, which, as we discussed, is strictly a comfort thing.”"
 6,24,0624,Lemon of Troy,2,1,2,2,9,Mild — okay from about 9+,"Nudity & bodies — Homer Simpson: “Now, Marge, you can't blame all of Bart's problems on your one little speech. If anything turned him bad, it's that time you let him wear a bathing suit instead of underwear. And let's not forget your little speech...”"
@@ -147,7 +147,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 7,18,0718,The Day the Violence Died,3,2,2,3,10,Preview first — about 10+,"Sex & hookups — Comic Book Guy: “This is a bootleg copy of ""Itchy and Scratchy Meet Fritz The Cat."" Because of its frank depiction of sex and narcotic consumption, it is not for infantile intellects such as yours.”"
 7,19,0719,A Fish Called Selma,1,1,2,2,9,Mild — okay from about 9+,"Alcohol & drugs — TROY: “(DRUNK BUT SMOOTH) C'mere, Homer.”"
 7,20,0720,Bart on the Road,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — Homer Simpson: “All right, I have thought this through. I will send Bart the money to fly home, and then I will murder him.”"
-7,21,0721,Short Films About Springfield,1,1,1,1,9,Usually fine — about 9+,"Alcohol & drugs — Lisa Simpson: “Mom, Dad threw his beer can at the Miracle Gro guy on TV. Can I recycle it?”"
+7,21,0721,22 Short Films About Springfield,1,1,1,1,9,Usually fine — about 9+,"Alcohol & drugs — Lisa Simpson: “Mom, Dad threw his beer can at the Miracle Gro guy on TV. Can I recycle it?”"
 7,22,0722,"Raging Abe Simpson and His Grumbling Grandson in ""The Curse of the Flying Hellfish""",3,1,1,3,10,Preview first — about 10+,Violence & injury — Nurse: “(BUILDING) Our residents... (FIRES SHOTGUN) are trying... (FIRES SHOTGUN) to nap!”
 7,23,0723,Much Apu About Nothing,2,1,1,2,9,Mild — okay from about 9+,"Violence & injury — Apu Nahasapeemapetilon: “200,000 precisely-ordered punch cards comprising the world's very first tic-tac-toe program. Only the top human players could beat it.”"
 7,24,0724,Homerpalooza,3,1,2,3,10,Preview first — about 10+,"Nudity & bodies — Veterinarian: “(AGHAST) My God. Those cannonballs have practically demolished your stomach. From now on, no cannonballs, no spicy foods, and when you lie in a hammock, please -- rest your beer on your head or your genitals.”"
@@ -319,7 +319,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 15,5,1505,The Fat and the Furriest,3,1,2,3,10,Preview first — about 10+,"Violence & injury — Kent Brockman: “(CHUCKLE) That hilarious footage was shot by local hunter, Grant Connor -- not with a gun, but with a camera!”"
 15,6,1506,Today I Am a Clown,1,4,2,4,13,Skip for under 13,"Sex & hookups — Marge Simpson: “How about Jon Stewart? He's a son, a lover and a pundit rolled into one sexy package. (BOB HOPE GROWL)”"
 15,7,1507,'Tis the Fifteenth Season,3,1,1,3,10,Preview first — about 10+,Violence & injury — C. Montgomery Burns: “Why don't you just take my blood?”
-15,8,1508,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",2,2,1,2,9,Mild — okay from about 9+,"Sex & hookups — Roofi: “(TO TUNE OF ""TWINKLE TWINKLE LITTLE STAR"") TICKETS TICKETS BUY THEM NOW / ROOFI HE WILL SHOW YOU HOW / VISA, AMEX, OR MC / OR MAKE OUT A CHECK TO”"
+15,8,1508,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",2,2,1,2,9,Mild — okay from about 9+,Sex & hookups — Lindsay Naegle: “I'm gonna tell an anecdote about oral sex... without having to look around.”
 15,9,1509,"I, (Annoyed Grunt)-bot",3,1,3,3,10,Preview first — about 10+,Nudity & bodies — Kearney Zzyzwicz: “Thanks for the tassels. My mom can wear these on her boobs at work.”
 15,10,1510,Diatribe of a Mad Housewife,3,1,3,3,10,Preview first — about 10+,"Sex & hookups — Captain Mordecai: “(HEARTY LAUGH) Now that your boyfriend's dead, I'm free to be selfish, drunk, emotionally distant, sexually ungenerous, pissy...”"
 15,11,1511,Margical History Tour,3,4,2,4,13,Skip for under 13,"Sex & hookups — Margarine: “Sweetie, sometimes a daddy and a mommy decide to live apart. It's not your fault, it's just that you came out the wrong sex and ruined everything.”"
@@ -397,7 +397,7 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 18,18,1818,The Boys of Bummer,2,4,2,4,13,Skip for under 13,"Sex & hookups — Homer Simpson: “(A LITTLE LOUD) Sex problem, eh?”"
 18,19,1819,Crook and Ladder,1,1,2,2,9,Mild — okay from about 9+,
 18,20,1820,Stop! Or My Dog Will Shoot,3,1,2,3,10,Preview first — about 10+,Nudity & bodies — Lisa Simpson: “A sports bra?”
-18,21,1821,Minutes,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — Groundskeeper Willie: “Teens? In Willie's hidey hole?! I'll mop up your blood from the inside!”
+18,21,1821,24 Minutes,2,1,1,2,9,Mild — okay from about 9+,Violence & injury — Groundskeeper Willie: “Teens? In Willie's hidey hole?! I'll mop up your blood from the inside!”
 18,22,1822,You Kent Always Say What You Want,1,4,2,4,13,Skip for under 13,Porn / strippers / sex work — Stripper or strip-club material shows up in the plot.
 19,1,1901,He Loves to Fly and He D'ohs,2,2,2,2,9,Mild — okay from about 9+,"Sex & hookups — C. Montgomery Burns: “And just so you know, she'll do anything for you. (WINKS, THEN:) Anything except sex. And I do mean anything. (WINKS)”"
 19,2,1902,The Homer of Seville,3,2,1,3,10,Preview first — about 10+,Sex & hookups — Older Woman: “I really want to hook up with Homer.”

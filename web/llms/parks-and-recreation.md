@@ -7,10 +7,8 @@ Buckets: 46 all clear (1–2), 42 gray area (3), 34 hard pass (4–5).
 ## S1 E1 — 1. CHE01 - Pilot
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0101.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
-Summary: From Emmy Award-winning executive producers of "The Office" comes a new mockumentary that looks at the exciting world of local government. The documentary cameras follow Leslie Knope a mid-level bureaucrat in the Parks and Recreation Department of Pawnee, Indiana. In an attempt to beautify her town Leslie takes on what should be a fairly simple project: help local nurse Ann Perkins turn an abandoned construction pit into a community park. Leslie is alternately helped and undermined by her colleague, Tom Haverford, who cheerfully exploits his government position for personal gain. She is also thwarted by her boss Ron Swanson who is philosophically opposed to government in any form. Helping Leslie and Ann navigate the Pawnee bureaucracy is charismatic city planner Mark Brendanawicz, whose outlook has been soured by 15 years of public service. If they can pull it off, Leslie hopes that she also will have inspired her uninterested college intern April and April's whole generation - all the while moving one step closer to her ultimate goal: becoming the first female president of the United States.
 Watch for:
-- Violence & injury — 3 moment(s)
-  - “I need bigger guns.”
+- Violence & injury — 2 moment(s)
   - “Um "Committees cover our democracy with blood.”
   - “This sawed-off shotgun belonged to a local bootlegger.”
 - Alcohol & drugs — 1 moment(s)
@@ -19,7 +17,6 @@ Watch for:
 ## S1 E2 — 2. CHE03 - Canvassing
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0102.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie and her committee go door-to-door to build support for her park project and recruit members for an upcoming town hall meeting, but their mission doesn't go as smoothly as Leslie hopes. Meanwhile, Tom strays from the group and uses more questionable recruiting tactics.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And I'm sleeping with my clothes on I came in through the window last night It can be tricky dealing Don't LESLIE Why do I want to build this park so bad?”
@@ -37,7 +34,6 @@ Watch for:
 ## S1 E3 — 3. 102 - The Reporter
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0103.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Leslie invites a reporter to do a story on her park project, she and her committee have trouble staying on message. Leslie calls in Mark to help save the story, but he only makes the situation worse. Meanwhile, Tom kisses up to his boss.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “She and Mark had sex with each other.”
@@ -63,7 +59,6 @@ Watch for:
 ## S1 E4 — 4. CHE04 - Boys' Club
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0104.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
-Summary: Leslie tries to make her way into the old boys club of politics by going to a casual get-together, but she quickly faces a tough ethical choice. Meanwhile, Andy has a secret plan to surprise Ann.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “How many sexual partners have you had in the last year? Are they gonna ask that? This is a deposition-style hearing, Miss Knope.”
@@ -89,7 +84,6 @@ Watch for:
 ## S1 E5 — 5. CHE05 - The Banquet
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0105.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie attends a banquet honoring her mother and discovers what it takes to get what you want in the political arena. Meanwhile, Tom and Mark bail on the banquet to go to a bar and pick up some women.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I've seen you hook up with more trashy chicks in the last year than I can count, all right? If there was a Tellenson Award for hooking up with trashy chicks all the time, you'd have several of those awards.”
@@ -108,7 +102,6 @@ Watch for:
 ## S1 E6 — 6. Rock Show
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0106.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie attends an important meeting with a local bigwig while her sub-committee members go to Andy's first concert since breaking his legs.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You don't have to have sex with him if you don't want to.”
@@ -133,7 +126,6 @@ Watch for:
 ## S2 E1 — 1. 201 - Pawnee Zoo
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0201.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: When Leslie decides to marry two penguins to promote the local zoo, she inadvertently causes an uproar when both penguins turn out to be male. Meanwhile, Mark puts Ann in an awkward situation when he asks her to go see a movie.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “And we are gonna find out my actual bra size.”
@@ -151,7 +143,6 @@ Watch for:
 ## S2 E2 — 2. 202 - The Stakeout
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0202.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: While tending to the new community garden, Leslie and Tom discover someone has planted marijuana among the vegetables. In an effort to catch the people responsible, they pull an all-night stakeout. With Leslie's permission, Ann decides to go on a date with Mark.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Who is this person? Who is this kingpin? It's a 13-year-old kid named Stevie, who likes to get high, and make his Transformers look like they're having sex together.”
@@ -166,7 +157,6 @@ Watch for:
 ## S2 E3 — 3. 203 - Beauty Pageant
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0203.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
-Summary: Leslie looks forward to picking a new Miss Pawnee, but has to battle the other judges, who have a very different standard of "the ideal woman." While on a date with Mark, Ann learns that Andy has been living in the pit.
 Watch for:
 - Porn / strippers / sex work — 3 moment(s)
   - Stripper or strip-club material shows up in the plot.
@@ -178,7 +168,6 @@ Watch for:
 ## S2 E4 — 4. Practice Date
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0204.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leslie is nervous about her first date with Dave, so Ann takes her on a practice date to help her prepare. Meanwhile, after a local councilman is caught up in a sex scandal, Tom, Ron, April and Mark decide to see who can uncover the worst dirt on each other.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “When I was 16, I had sex with a married woman.”
@@ -212,7 +201,6 @@ Watch for:
 ## S2 E5 — 5. Sister City
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0205.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie plays host to the Parks and Recreation department from Pawnee's sister city, Boraqua, Venezuela, and is shocked at the cultural differences. Tom becomes an errand boy, and April plays hard to get.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What? Do you have some kind of book with photos of the women available to us? If not, I will also take the sexy black one.”
@@ -229,7 +217,6 @@ Watch for:
 ## S2 E6 — 6. KaBOOM!
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0206.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie, Ann and the rest of the Parks Department volunteer to help the organization KaBOOM! build a playground for a neighboring town. After building an entire playground in one day, Leslie gets frustrated at the progress with the pit, and takes some advice from Mark to cut through the red tape.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “That's what I call condoms.”
@@ -249,7 +236,6 @@ Watch for:
 ## S2 E7 — 7. Greg Pikitis
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0207.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie enlists the help of Dave and Andy in order to catch a local teen vandal. Meanwhile, Ann struggles to make her Halloween party fun, and gets help from an unlikely source.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Hey, slutty teenage girls dressed as sexy kittens, pump your own stomachs this year.”
@@ -264,7 +250,6 @@ Watch for:
 ## S2 E8 — 8. Ron and Tammy
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0208.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leslie is upset when she learns the library department wants to take over her lot. Making matters worse, the library is run by Ron's ex-wife Tammy, who still has a powerful emotional hold on him. Meanwhile, Andy gets a job in hopes of winning Ann back.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Ron wears the same thing after he's had sex.”
@@ -296,7 +281,6 @@ Watch for:
 ## S2 E9 — 9. The Camel
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0209.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: After one of the murals in City Hall is defaced, Leslie and the Parks Department compete to come up with a new design. Meanwhile, Andy and Ron share an uncomfortable moment at the shoeshine stand.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “I have no interest in non-nude images.”
@@ -307,10 +291,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “This one's racist.”
 
-## S2 E10 — Hunting Trip
+## S2 E10 — 10. Hunting Trip
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0210.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leslie tries to prove she can hang with the guys so she invites herself on Ron's annual hunting trip, but things don't go as planned. Meanwhile, April and Andy bond in the office while everyone is away.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -337,10 +320,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “So, grab a beer.”
 
-## S2 E11 — Tom's Divorce
+## S2 E11 — 11. Tom's Divorce
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0211.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Ron sends Leslie up to the DMV department and she happens to see Tom and Wendy at divorce court. Leslie enlists the help of everyone in the department to take Tom out on the town so he can forget his sadness. Meanwhile, Tom has an epiphany about his marriage.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Oh! Uh, also, Mark, again, we don't have those extra-small condoms you ordered.”
@@ -364,10 +346,9 @@ Watch for:
   - “I'm gonna need a lot of wine, so keep it flowing.”
   - “So, where do you want this? So, how you feeling? Rough morning? You know those hangover pills you can order on TV? Mmm.”
 
-## S2 E12 — Christmas Scandal
+## S2 E12 — 12. Christmas Scandal
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0212.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie designs the Pawnee Winter Wonderland Festival, but has to hide from the press when a meeting with a disgraced Councilman lands her in the middle of a sex scandal. Meanwhile, Ron offers to cover for Leslie for the day, and quickly discovers how much work she really does.
 Watch for:
 - Sex & hookups — 7 moment(s)
   - “I got the babysitter pregnant, then when she was in the delivery room, I had sex with not one, but four nurses in a supply closet, as well as a woman whose husband was getting a liver transplant.”
@@ -392,10 +373,9 @@ Watch for:
   - “"Bring a case of beer to Sanitation.”
   - “They can buy their own beer.”
 
-## S2 E13 — 213 - The Set-Up
+## S2 E13 — 13. 213 - The Set-Up
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0213.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Ann sets Leslie up on a blind date with a co-worker, which does not go as well as Leslie hoped. An old friend of Ann's makes Mark feel insecure.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Taking messages, wake-up calls, Muscle Milk runs, condom runs, bottle service at the Snakehole Lounge.”
@@ -403,10 +383,9 @@ Watch for:
   - “Is that his blood? What? Oh, damn, now I have to go back.”
   - “So what do you think of your new assistant? I want to punch you in the face so bad right now.”
 
-## S2 E14 — 214 - Leslie's House
+## S2 E14 — 14. 214 - Leslie's House
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0214.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: After an amazing date with Justin in Indianapolis, Leslie tries to impress him with a dinner party at her house.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “When was Mark here before? Oh! Sex.”
@@ -416,10 +395,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Last time, we had a private tour and cocktails at the Indianapolis Aquarium.”
 
-## S2 E15 — 215 - Sweetums
+## S2 E15 — 15. 215 - Sweetums
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0215.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: The Parks Department forms a partnership with a local company to sell energy bars at the parks in Pawnee, but Leslie tries to stop the deal when she discovers how unhealthy the snacks are. Mark reluctantly agrees to help Tom move out of his house.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You seem to have a $40 late fee on a book called Mysteries of the Female Orgasm.”
@@ -440,10 +418,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “What NutriYums energy bars are just absolutely loaded with high-fructose corn syrup and fatty oils.”
 
-## S2 E16 — 216 - Galentine's Day
+## S2 E16 — 16. 216 - Galentine's Day
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0216.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: When Leslie hears her mom's story about an old flame, she and her boyfriend Justin track him down and reunite them on Valentine's Day. Meanwhile, Andy and his band are nervous about playing a gig at the Senior Center.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “It's about how you can tell when someone's just had sex 'cause of how their hair gets matted up in the back.”
@@ -458,10 +435,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Some champagne? Uh, no, thanks.”
 
-## S2 E17 — 217 - Woman of the Year
+## S2 E17 — 17. 217 - Woman of the Year
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0217.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie is outraged when Ron wins a "Woman of the Year" award for a project she started. Meanwhile, Tom is desperate to find some money to invest in a local Pawnee club.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You'd never have to beg for sex again.”
@@ -477,10 +453,9 @@ Watch for:
   - “I don't want the damn thing.”
   - “Just take the damn thing.”
 
-## S2 E18 — 218 - The Possum
+## S2 E18 — 18. 218 - The Possum
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0218.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: When a possum bites the mayor's dog on a golf course, Leslie is asked to form a task force to catch the pesky animal. Meanwhile, Ron is upset when Mark refuses to bend the rules for him.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “And then afterwards, had sex with Mark and everyone talked about it.”
@@ -495,10 +470,9 @@ Watch for:
   - “Not because I'm pissed at Andy, which I'm not.”
   - “No, please don't, okay? He's gonna be pissed at me.”
 
-## S2 E19 — 219 - Park Safety
+## S2 E19 — 19. 219 - Park Safety
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0219.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: After Jerry gets mugged by a bunch of kids, Leslie meets with the head park ranger in hopes of improving park safety. Meanwhile, everyone tries to be nicer to Jerry once he returns to the office.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “So, when you say that you want me to check in with the police liaison, you mean hook up with him, right? No.”
@@ -513,10 +487,9 @@ Watch for:
   - “What is the first move in any fight? Punch to the balls.”
   - “Damn, Jerry! You jumped in a creek for a burrito? What would you do for a Klondike Bar? Kill your wife? Block the opponent's punch and counter-punch to the jaw.”
 
-## S2 E20 — 220 - Summer Catalog
+## S2 E20 — 20. 220 - Summer Catalog
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0220.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Preparing the Summer Events Catalog, Leslie decides to take Ron and the past directors of the Parks Department out for a picnic lunch. Tom enlists the help of Ann and Mark to pose for the cover photo.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Step three, have sex with a model.”
@@ -536,10 +509,9 @@ Watch for:
   - “He made a bong out of a taxidermied raccoon? I caught him smoking pot out of it not three feet from where we're standing.”
   - “Three picnic baskets, assorted cheeses, grapes, wine.”
 
-## S2 E21 — 221 - 94 Meetings
+## S2 E21 — 21. 221 - 94 Meetings
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0221.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Ron is furious when April mistakenly schedules a ton of meetings for him. Meanwhile, Leslie fights to preserve a historical landmark.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - Explicit body / sex-act language appears in dialogue.
@@ -550,10 +522,9 @@ Watch for:
   - “But then word got out, and the reception was a bloodbath.”
   - “Newport meet? I was doing a ribbon-cutting at the hospital, and he was there because his blood doesn't work.”
 
-## S2 E22 — 222 - Telethon
+## S2 E22 — 22. 222 - Telethon
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0222.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie hosts a late-night shift for a local telethon, and lands former Indiana Pacer Detlef Schrempf as a celebrity guest. Meanwhile, Mark has big plans for his relationship with Ann.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “You know, all my kids are away, and Gross! No! It's Jerry's sex night.”
@@ -563,10 +534,9 @@ Watch for:
   - “Light beers.”
   - “By the way, I'm drunk.”
 
-## S2 E23 — 223 - The Master Plan
+## S2 E23 — 23. 223 - The Master Plan
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0223.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie is disappointed when her new park plans are put on hold by a visit from two state auditors. April has plans for Andy at her birthday party, and Ann tries to piece together a romantic mystery.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “This is going to be so fun letting you dangle until I finally reveal that we did not make out.”
@@ -582,10 +552,9 @@ Watch for:
   - “You want to get a beer? It's like 10:30 in the morning.”
   - “And you seem like you could use a beer.”
 
-## S2 E24 — Freddy Spaghetti
+## S2 E24 — 24. Freddy Spaghetti
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0224.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: When Ben prevents Leslie from holding a children's concert, she takes matters into her own hands. Mark makes some big decisions about his life, and Andy gets some unexpected romantic attention.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You're about to have sex.”
@@ -598,7 +567,6 @@ Watch for:
 ## S3 E1 — 1. Go Big or Go Home
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0301.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie tries to convince Chris and Ben to give the parks department more money, and when she fails to persuade them, she enlists Ann's help. Meanwhile, Ron and Andy coach youth basketball, and April returns with surprising news.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “What will Leslie do next? Will April and Andy make up and make out? Find out this season on Parks and Recreation.”
@@ -619,7 +587,6 @@ Watch for:
 ## S3 E2 — 2. The Flu
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0302.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: While planning for the local Harvest Festival, Leslie is struck with the flu and is forced to go to the hospital. Ron and Andy have a day of male bonding, and Tom hits the spa.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “The less I know about other people's affairs, the happier I am.”
@@ -631,7 +598,6 @@ Watch for:
 ## S3 E3 — 3. Time Capsule
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0303.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie wants to bury a time capsule that encapsulates life in Pawnee, but an odd suggestion from a local man causes unforeseen consequences. Andy seeks help from Chris about how to win back April.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “This book contains pagan creatures and strong sexual overtones.”
@@ -639,7 +605,6 @@ Watch for:
 ## S3 E4 — 4. Ron and Tammy Part 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0304.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Tom tries to get back at Ron by going out on a date with Ron's ex-wife Tammy, while Leslie tries to protect Ron from falling prey to her charms. Meanwhile, April is assigned to work with Chris.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “But really, she's just a manipulative, psychotic, library-book-peddling, sex-crazed she-demon.”
@@ -662,7 +627,6 @@ Watch for:
 ## S3 E5 — 5. Media Blitz
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0305.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Trying to get the word out about the Harvest Festival, Leslie, Ben, and Tom do radio, TV and newspaper interviews. A media storm hits when Ben has to answer tricky questions about his past as a teen mayor. Meanwhile, Andy struggles to win back April's heart, and Ann summons the courage to discuss her relationship with Chris.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You lost your virginity in a corn maze, didn't you, Douche? That's right.”
@@ -675,7 +639,6 @@ Watch for:
 ## S3 E6 — 6. Indianapolis
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0306.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ron drive to Indianapolis to receive commendation for the upcoming Pawnee Harvest Festival. Tom hosts a launch party for a local cologne maker in hopes of pitching him his fragrance "Tommy Fresh." Meanwhile, Andy and April discover how to have fun without spending any money.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “His ether-based perfume, Blackout, was named one of Maxim's top hundred ways to trick someone into sex.”
@@ -706,7 +669,6 @@ Watch for:
 ## S3 E7 — 7. Harvest Festival
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0307.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: With the fate of her entire department hinging on the success of the Harvest Festival, Leslie deals with last-minute problems with a Wamapoke tribal leader, who threatens to put a curse on the event. Meanwhile, April is upset with Andy, while Ann gets romantic advice from an unlikely source.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Or you could stay here and make out with me until the lights come back on.”
@@ -718,7 +680,6 @@ Watch for:
 ## S3 E8 — 8. Camping
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0308.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie takes the whole department camping in order to brainstorm new ideas. Meanwhile, Andy attempts a romantic gesture for April, while Ann gets nervous when Chris returns to Pawnee as the new city manager.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “You know, I was 24 when Gayle took my virginity.”
@@ -735,7 +696,6 @@ Watch for:
 ## S3 E9 — 9. Andy and April's Fancy Party
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0309.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Andy and April host a dinner party for all their friends. Ben asks Leslie for some career advice, while Ann tries her luck at a singles party.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - “Excuse me! Are there any strippers here? Former strippers? Non-dancers but you're feeling a little bit drunk? What are you doing? I'm throwing Andy an impromptu bachelor party.”
@@ -747,10 +707,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “You get drunk.”
 
-## S3 E10 — Soulmates
+## S3 E10 — 10. Soulmates
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0310.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Ann convinces Leslie to sign up for an online dating service, only to be matched with someone she already knows. Chris decides to start a health initiative and challenges Ron to a burger cook-off.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Sexy, well-read blonde.”
@@ -762,10 +721,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “And I would just stand out there and survey my empire, like a drug dealer in a Michael Bay movie.”
 
-## S3 E11 — Jerry's Painting
+## S3 E11 — 11. Jerry's Painting
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0311.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Jerry's contribution to Leslie's community art show causes a stir. Ben moves in with April and Andy and attempts to teach them how to be adults. Meanwhile, Leslie is frustrated by Chris and his interoffice dating rules.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “And how did it get like that? Who had sex with what and gave birth to which? Ms.”
@@ -788,16 +746,14 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “That's racist.”
 
-## S3 E12 — Eagleton
+## S3 E12 — 12. Eagleton
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0312.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: When the neighboring city of Eagleton puts up a fence around one of their parks, Leslie must get her former best friend to take it down. Meanwhile, Ron tries to stop Leslie from planning a birthday party for him.
 Watch for: nothing flagged.
 
-## S3 E13 — The Fight
+## S3 E13 — 13. The Fight
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0313.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: When Leslie tries to get Ann a job at city hall, her lukewarm reaction causes their first-ever fight. Tom invites the entire department to the Snakehole Lounge to help him promote his new alcohol, "Snake Juice."
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Me so horny.”
@@ -824,10 +780,9 @@ Watch for:
   - “You're stupid, and you're drunk and you're stupid.”
   - “Everybody's wasted.”
 
-## S3 E14 — Road Trip
+## S3 E14 — 14. Road Trip
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0314.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Chris sends Leslie and Ben on a trip to Indianapolis, Leslie is afraid she won't be able to deny her feelings for him. Ron teaches a young student about his views on government. Meanwhile, Andy gets his feelings hurt by April after playing Tom's new game.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Wow! That was the most sexual tension I have ever seen in a conversation about documents.”
@@ -843,10 +798,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I'm gonna go see a man about some porcelain, you know what I mean? I'm not buying cocaine.”
 
-## S3 E15 — The Bubble
+## S3 E15 — 15. The Bubble
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0315.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Everyone in the office is unhappy when Chris decides to make some big changes in the parks department -- especially Tom who starts to question his career choices. Leslie is caught off guard when Ben has a meeting with her mom.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I think at some point, you and I should probably make out with each other.”
@@ -858,10 +812,9 @@ Watch for:
   - “Just white wine, cuddling, and crazy amounts of History Channel documentaries.”
   - “Starting now, when life gives me lemons, I'm gonna slice them up into wedges and throw them into vodka tonics, which I will then sip in a burlesque nightclub that I co-own with actor Taye Diggs and two of the…”
 
-## S3 E16 — Li'l Sebastian
+## S3 E16 — 16. Li'l Sebastian
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0316.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie and the parks team put together a memorial service for a dearly departed friend. Meanwhile, Tom makes a big life decision, while Chris reacts badly to a health problem.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “How long have you been sleeping with Ben? What? How long have you been sleeping with Ben? That's disgusting and wrong.”
@@ -877,7 +830,6 @@ Watch for:
 ## S4 E1 — 1. I'm Leslie Knope
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0401.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
-Summary: Leslie has to either break-up with Ben or follow her dream of running for office. Ann is forced to dispense medical advice after making an unexpected diagnosis. Meanwhile, Ron prepares for the return of his first ex-wife, Tammy One.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I don't want anyone to think that you got where you are today by sleeping with your boss.”
@@ -902,7 +854,6 @@ Watch for:
 ## S4 E2 — 2. Ron and Tammys
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0402.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie is forced to intervene when Tammy One re-enters Ron's life and begins controlling his every move. Ben tries to help Tom balance the books at his new company, while Ann makes a PSA starring Chris.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Sunday school, sex.”
@@ -922,7 +873,6 @@ Watch for:
 ## S4 E3 — 3. Born and Raised
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0403.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: While promoting her new book about Pawnee, Leslie falls prey to some "gotcha" journalism. Meanwhile, Ann is determined to bond with Ron and April.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I'm a woman with a strong sexual appetite.”
@@ -939,7 +889,6 @@ Watch for:
 ## S4 E4 — 4. Pawnee Rangers
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0404.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
-Summary: In an effort to fight the inequality of Ron's boys-only wilderness group, Leslie takes her girls-only troop, the Pawnee Goddesses, on an adventure weekend. Meanwhile, Tom and Donna force Ben to join them for a day of relaxation, and Chris finds a reason to spend time with Jerry.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “This right here's all the blood coming out her face.”
@@ -947,7 +896,6 @@ Watch for:
 ## S4 E5 — 5. Meet 'n' Greet
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0405.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Ben is mad when Andy and April decide to throw a Halloween party at their house without asking him. Tom emcees an event for Leslie's campaign but manages to also promote his company. Meanwhile, Ron and Ann give Andy and April an unusual wedding present.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Ugh, what are we gonna have sex on? The year was 1975.”
@@ -975,7 +923,6 @@ Watch for:
 ## S4 E6 — 6. End of the World
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0406.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Local Pawnee group predicts that the end of the world is coming, causing Leslie and others to contemplate their lives. Tom decides to throw the best party ever before he loses his office space, while April helps Andy complete his "bucket list" before the world ends.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “They're gonna have sex in five minutes.”
@@ -990,7 +937,6 @@ Watch for:
 ## S4 E7 — 7. The Treaty
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0407.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie enlists the help Ben, Andy and April to host a Model U.N. for Pawnee Central High School. Chris asks Ann for her advice on love when a date cancels on him. Meanwhile, Ron struggles to find a replacement for Tom.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Under sex, you wrote "Yes.”
@@ -1005,7 +951,6 @@ Watch for:
 ## S4 E8 — 8. Smallest Park
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0408.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie uses her new tourist attraction as a way to spend more time with Ben. Meanwhile, Ron and April encourage Andy to go to college, and Chris tasks Tom and Jerry with revamping the Parks and Rec logo.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “A whole, new, sexy vibe.”
@@ -1020,7 +965,6 @@ Watch for:
 ## S4 E9 — 9. Trial of Leslie Knope
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0409.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Things come to a head for Leslie, Ben and Chris.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Ann! Ben and I hooked up last night! Aah! And I learned how to use iMovie.”
@@ -1031,10 +975,9 @@ Watch for:
 - Slut-shaming — 1 moment(s)
   - “You go down in history as a frozen whore.”
 
-## S4 E10 — Citizen Knope
+## S4 E10 — 10. Citizen Knope
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0410.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Unable to get work done from inside the Parks Department, Leslie forms a citizen action group and fights from the outside. Meanwhile, everyone in the office brainstorms ideas for what to get Leslie for Christmas.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “You know, a sex scandal with your boss.”
@@ -1043,10 +986,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Strawberry margaritas! Another use for sal-gar! Financial analysis, automated general ledger accounting systems, audit management.”
 
-## S4 E11 — The Comeback Kid
+## S4 E11 — 11. The Comeback Kid
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0411.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie enlists everyone's help in staging an attention-getting event. Ben explores a new hobby, while April and Andy adopt a pet.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You know, anything short of sexual favors.”
@@ -1061,10 +1003,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Do you want one? - No, I find calzone fatty, and unnecessary.”
 
-## S4 E12 — Campaign Ad
+## S4 E12 — 12. Campaign Ad
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0412.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Faced with a tough new opponent, Leslie and Ben disagree on the content of her first campaign ad. Ron is very uncomfortable when Chris tries to befriend him, while Andy and April make a trip to the doctor.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And those are the kind of sexy qualifications that win elections.”
@@ -1073,10 +1014,9 @@ Watch for:
   - “They took my blood away to use for science.”
   - “Well, we have to find a way to beat him.”
 
-## S4 E13 — Bowling for Votes
+## S4 E13 — 13. Bowling for Votes
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0413.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ben decide to hold a casual bowling party after hearing feedback from a focus group. April, Chris, Donna and Jerry have a contest to see who can raise the most money for Leslie's campaign by cold calling.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “And he called me by my second least favorite term for a woman, and my campaign manager punched him.”
@@ -1095,20 +1035,18 @@ Watch for:
   - “These beers are as cold as the Tuktoyaktuk Winter Road.”
   - “This guy was drunk, and he was aggressive.”
 
-## S4 E14 — Operation Ann
+## S4 E14 — 14. Operation Ann
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0414.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: It's Valentine's Day and Leslie decides she needs to find Ann a new man. Ben must enlist Ron's help when he is stumped by Leslie's elaborate Valentine's Day scavenger hunt, and Chris is depressed about the status of his love life.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “All right, the ones from the other hallway are "Cornfield Slaughter," "Lament of the Buffalo," "Needless Slaughter," "Slaughter Gone Wrong," "Eating the Reverend," "It's Raining Blood," - and "Death Everywhere.”
 - Suicide & self-harm — 1 moment(s)
   - “Hey, Kriss Kross, can we change up the music? It kind of sounds like the end of a movie about a monk who killed himself.”
 
-## S4 E15 — Dave Returns
+## S4 E15 — 15. Dave Returns
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0415.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: While trying to get an endorsement from the Chief of Police, Leslie and Ben awkwardly run into Leslie's old flame, Dave. Meanwhile, Andy and the rest of the office work on a theme song for Leslie's campaign.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “He's in love with you, and he has a gun? - Can you just not freak out? - I'm not freaking out! - Okay.”
@@ -1124,20 +1062,18 @@ Watch for:
   - “Now, if you'll excuse me, I'm about endorse ten beers into my mouth, 'cause this has been an incredibly stressful evening.”
   - “Hey, a little tradition after Mouse Rat records, someone buys me booze-- who's it gonna be? All right, look, I know I messed up, but there's something I got to say to you.”
 
-## S4 E16 — Sweet Sixteen
+## S4 E16 — 16. Sweet Sixteen
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0416.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie realizes that the department has forgotten Jerry's birthday and decides to throw a party for him at a special location. Meanwhile, Tom is flabbergasted when he finds out Ann doesn't share his taste in music.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “I feel naked without it, okay.”
 - Alcohol & drugs — 1 moment(s)
   - “You made me drunk, you made me drunk, and you-- - No, no.”
 
-## S4 E17 — Campaign Shake-Up
+## S4 E17 — 17. Campaign Shake-Up
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0417.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie and Ben are caught off guard when her opponent Bobby Newport hires a powerful campaign manager from Washington. Chris forces Ron to start interviewing replacements for Leslie when work starts falling through the cracks, and an unlikely officemate solves a challenging problem.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “He's like a brilliant, sexy, little hummingbird.”
@@ -1149,10 +1085,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I am going to get drunk, and then I'm going to order a three-course meal where each course is made of dessert.”
 
-## S4 E18 — Lucky
+## S4 E18 — 18. Lucky
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0418.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ben are thrilled when Buddy Wood wants to interview Leslie for his Indianapolis talkshow. April and Ron prep Andy for his final exam in his Women's Studies course.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “It contains extra-virgin olive oil, a little bit of lemon, and hint of turmeric.”
@@ -1173,10 +1108,9 @@ Watch for:
   - “I am not drunk.”
   - “Yes, when you have a jumbo Margarita and some flaming Tequila shots, you can get drunk.”
 
-## S4 E19 — Live Ammo
+## S4 E19 — 19. Live Ammo
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0419.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: When Leslie finds out that Parks Department budget is about to be cut, she convinces Councilman Pillner to make the cuts elsewhere, which causes unexpected problems for her campaign. Meanwhile, Chris takes Ron to his favorite meditation center.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It's just a regular beer, but we put it in a sexy-ass mug.”
@@ -1197,10 +1131,9 @@ Watch for:
   - “Bye, pups! Bye, little piggies! I don't usually poison my body with dark alcohol, but this whiskey is excellent! Nectar of the gods.”
   - “What do you say, after work, you, me, whiskey, wheatgrass, Cranium? - Ron? - Chris? Sorry, he's meditating.”
 
-## S4 E20 — The Debate
+## S4 E20 — 20. The Debate
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0420.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie goes toe-to-toe with Bobby Newport in their big televised debate. Ann, Tom, and Chris work in the media spin room, while Ron goes the extra mile to save a party for Leslie's donors.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Me so horny.”
@@ -1223,10 +1156,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “She's smoooooth like a blended whiskey.”
 
-## S4 E21 — Bus Tour
+## S4 E21 — 21. Bus Tour
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0421.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leslie goes on a bus tour for the final day of her campaign, and is caught off guard when an important person in Pawnee passes
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “It's just sex.”
@@ -1243,10 +1175,9 @@ Watch for:
   - “It was a hell of a day.”
   - “I know he didn't just hit my baby! Hey! What the hell, guys? Move! All right.”
 
-## S4 E22 — Win, Lose, or Draw
+## S4 E22 — 22. Win, Lose, or Draw
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0422.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: It's election day in Pawnee, and Leslie and Bobby Newport are separated by a razor-thin margin. While everyone waits with Leslie for the race to be called, they ponder their futures, and their new opportunities.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Recently in a moment of weakness, I had sex with Bobby Newport's campaign manager Jennifer Barkley.”
@@ -1267,7 +1198,6 @@ Watch for:
 ## S5 E1 — 1. Ms. Knope Goes To Washington
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0501.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie and Andy visit Ben and April at their new jobs in Washington D.C., and Leslie feels overwhelmed by the city -- especially after meeting two of her idols. Meanwhile, Ron throws a "thank you" barbeque for the entire Parks and Recreation staff.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “We were thinking about maybe just-- uh, we-- maybe we were gonna go back to-- We're gonna have sex.”
@@ -1288,7 +1218,6 @@ Watch for:
 ## S5 E2 — 2. Soda Tax
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0502.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Passing a city-wide tax on giant sodas. Chris helps Andy get in shape to prepare for his police entrance exam. Meanwhile, Ben struggles to connect with the interns in his office.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Consequently, we haven't had sex in ten years.”
@@ -1304,7 +1233,6 @@ Watch for:
 ## S5 E3 — 3. How a Bill Becomes a Law
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0503.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie negotiates with her fellow councilmen to pass a new law extending the community pool hours. When Chris comes up with a new idea to solve people's problems around the city, Ron finds himself filling a pothole for a local mom. Meanwhile, Ben and April decide to take a road trip to visit Leslie and Andy.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “It's because the two leading industries here are corn syrup and rubber nipples.”
@@ -1316,7 +1244,6 @@ Watch for:
 ## S5 E4 — 4. Sex Education
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0504.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: An STD outbreak amongst Pawnee seniors prompts Leslie to conduct a sex education class. Meanwhile, Ron helps Tom adjust to life without technology after his gadgets are taken away, and Ben and April meet Congressman Murray for the first time.
 Watch for:
 - Sex & hookups — 9 moment(s)
   - “Uh, actually, I think it's pronounced "horny.”
@@ -1342,7 +1269,6 @@ Watch for:
 ## S5 E5 — 5. Halloween Surprise
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0505.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: New job offer for Ben causes Leslie to contemplates their future. Meanwhile, Ron and Andy take Diane's girls out trick-or-treating, and Tom searches for a new business idea.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “An evening with sexy nurse Ann Perkins.”
@@ -1365,7 +1291,6 @@ Watch for:
 ## S5 E6 — 6. Ben's Parents
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0506.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: After being warned about Ben's divorced parents, Leslie gets nervous as she prepares to meet them. With the help of Jean-Ralphio, Tom prepares to pitch his new business to Ron. Meanwhile, Chris rides an emotional rollercoaster.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “But usually, we forgot what we were arguing about and just had sex.”
@@ -1385,7 +1310,6 @@ Watch for:
 ## S5 E7 — 7. Leslie vs April
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0507.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie gets upset when April tries to get Lot 48 made into a dog park. Meanwhile, Tom enlists Ben's help as he tries to launch his new business venture, and Andy hones his crime scene investigation skills.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Have sex with Jerry.”
@@ -1402,7 +1326,6 @@ Watch for:
 ## S5 E8 — 8. Pawnee Commons
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0508.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie makes a public appeal for park design suggestions, but becomes suspicious when the best design comes from an architect in Eagleton. Tom enlists the help of the office as he sets up his new "Rent a-Swag" business, while Andy finds a way to make his new security guard job exciting.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “If you ever need me, you know where to find me-- In bed next to you, probably having sex with you.”
@@ -1419,7 +1342,6 @@ Watch for:
 ## S5 E9 — 9. Ron and Diane
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0509.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Ron, Diane, and Leslie attend a wood working awards dinner, after one of Ron's handcrafted chairs is nominated, but the happy occasion is threatened by the arrival of Tammy II. Meanwhile, Jerry hosts a holiday party at his home with his wife, and some of his friends are shocked to find they were not invited.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Smart, funny, independent, and sexy? Diane Lewis? More like Diane Sawyer.”
@@ -1431,10 +1353,9 @@ Watch for:
   - “It's the time we celebrate our most sacred and special event: Jerry Dinner Jerry Dinner - Jerry Dinner - Jerry Dinner what the hell is Jerry Dinner?”
   - “Oh, wow! Whoo! This award is the only one I'd ever give a damn about.”
 
-## S5 E10 — Two Parties
+## S5 E10 — 10. Two Parties
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0510.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Ann throws a bachelorette party for Leslie but her plans are derailed when Councilman Jamm interferes. Chris throws a game night at Ben's but things take a turn when he realizes none of the guys ever had their own bachelor parties.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “I want to see the Colts beat the Patriots 49 to nothing, then I yell at Tom Brady and make him cry, then I hook up with Dave Matthews, and we play golden tee for ten hours.”
@@ -1464,10 +1385,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Would you like some water? Water? Like fire water? That's racist, and I do not appreciate it.”
 
-## S5 E11 — Women In Garbage
+## S5 E11 — 11. Women In Garbage
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0511.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: In order to get more women hired in government, Leslie and April handle a garbage route. Meanwhile, to help his growing business, Tom enlists the help of Andy and Ben to teach him about basketball, and Ron is left to watch Diane's kids while their babysitter is out of town.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - “They smoked their cigars, they snapped my bra, wore mirrors on their shoes to look up my skirt.”
@@ -1475,10 +1395,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Tommy for the dunk! My screen! But it was actually a blood-hungry witch who was wearing their mom's face like a mask! What is wrong with you, woman? Sorry.”
 
-## S5 E12 — Ann's Decision
+## S5 E12 — 12. Ann's Decision
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0512.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: After several unsuccessful relationships Ann makes a dramatic life decision. Ben enlists the help of Chris, Tom and Ron to choose a caterer for the wedding, while April has to handle one of Leslie's usual tasks.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “I'm going to the sperm bank today.”
@@ -1502,10 +1421,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Also If you're looking to buy some weed, I'm looking as well.”
 
-## S5 E13 — Emergency Response
+## S5 E13 — 13. Emergency Response
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0513.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ben organize a black tie gala to raise money for their park, but their plans are derailed when a city-wide emergency response drill is called. Meanwhile, Andy prepares to take his Police Academy Exam and Ron fills in for Leslie on Pawnee Today.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Have you ever thought of being a sperm donor? I'm impotent.”
@@ -1520,10 +1438,9 @@ Watch for:
   - “Is she gonna be okay? Wouldn't know-- never been hungover.”
   - “After I've had too much whiskey, I cook myself a large flank steak, pan-fried in salted butter.”
 
-## S5 E14 — Leslie and Ben
+## S5 E14 — 14. Leslie and Ben
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0514.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ben have two hours to complete a years-long project. Meanwhile, Ron gets in trouble when his temper gets the best of him.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “And they were nipple rings, at one point.”
@@ -1539,10 +1456,9 @@ Watch for:
   - “You know what? I have some champagne, back at the office.”
   - “Even though they really can't handle their booze.”
 
-## S5 E15 — Correspondents' Lunch
+## S5 E15 — 15. Correspondents' Lunch
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0515.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie is literally left speechless when her planned address at a big media event is stolen. Ben starts his new job working at the Sweetums Charity Foundation, and Ann works up the courage to ask someone an important question.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Will you be the sperm donor? The story of this situation is it's extremely personal.”
@@ -1554,10 +1470,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Midi-chlorians are a fictional substance found in the blood of Jedi knights from the movie Star Wars Episode 1: The Phantom Menace.”
 
-## S5 E16 — Bailout
+## S5 E16 — 16. Bailout
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0516.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leslie tries to help a local video store stay in business after the owner is hit by the bad economy. Chris tries to give Tom some fatherly advice in dealing with a difficult employee, while Ann blackmails April into being her friend.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - “Ann Perkins asked me if I would like to donate sperm, so she can have a baby.”
@@ -1581,10 +1496,9 @@ Watch for:
   - “I'm throwing a huge cocktail party tomorrow for all my best clients.”
   - “Mona-Lisa! Did you order the champagne for the client party tonight? Did I order the what for the what-what what, what? What are you even talking about right now? Okay, we need to discuss your work habits.”
 
-## S5 E17 — Partridge
+## S5 E17 — 17. Partridge
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0517.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie and Ben travel back to his hometown of Partridge, MN to accept the key to the city. Ron gets served a lawsuit from councilman Jamm, while Ann and Chris take a compatible parenting quiz.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “The nurse still won't have sex with me, and she's not even queer.”
@@ -1600,10 +1514,9 @@ Watch for:
   - “What's up, Ron? Just daydreaming about punching Jamm in the face.”
   - “It is now quite clear that on innumerable occasions Ron Swanson said he intended to punch councilman Jamm in the face, and then he did.”
 
-## S5 E18 — Animal Control
+## S5 E18 — 18. Animal Control
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0518.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie decides to give the Animal Control Department a much-needed makeover. Ann tries to get Ron the medical attention he needs, while Ben, Tom and Andy recruit donors for their charity foundation.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Sexual history.”
@@ -1620,10 +1533,9 @@ Watch for:
   - “They're great at ingesting and selling marijuana.”
   - “Yeah, so our new director needs to be competent, effective, and not completely stoned all the time.”
 
-## S5 E19 — Article Two
+## S5 E19 — 19. Article Two
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0519.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie works to get rid of outdated laws from the original town charter that no longer make sense. Chris gives April and Ron management training, while Ann and Ben get in a bidding war over a present for Leslie.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Andy! - Yeah! He's naked, everybody! Put that away! - We're all Ted! Yeah! - No, Andy! Whoo! Thank God.”
@@ -1640,10 +1552,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “That is an outdated and racist law.”
 
-## S5 E20 — Jerry's Retirement
+## S5 E20 — 20. Jerry's Retirement
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0520.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
-Summary: When Leslie finds out Jerry is retiring, she struggles with the proper way to commemorate the occasion. Chris and Ann prepare to have a baby together, while Tom worries he will become the office punching bag once Jerry leaves.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “I didn't find the article about you teaching sex-ed to seniors, but I did find this folder labeled - "Senior sex-ed thank you notes.”
@@ -1655,10 +1566,9 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - “He resigned because of corruption and racketeering, and then he died from an overdose of pills.”
 
-## S5 E21 — Swing Vote
+## S5 E21 — 21. Swing Vote
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0521.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
-Summary: Leslie gets upset when Ron submits budget cut proposals getting rid of the local mini golf course. Andy and Ben celebrate a big donation made to their charity, while, Ann helps Tom with his girlfriend troubles.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “You guys want a threesome.”
@@ -1687,10 +1597,9 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “Okay, before we start, anybody want a hot dog? Hot dogs? You know I have irritable bowel syndrome, you racist.”
 
-## S5 E22 — Are You Better Off?
+## S5 E22 — 22. Are You Better Off?
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0522.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Leslie celebrates her first year as a city councilor. A surprise discovery leads Andy to call the only man he knows who can help with the investigation: retired Special Agent Burt Macklin. Meanwhile, April gets some life-changing news, and Tom debates a big business opportunity.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - “Let's go have sex in a tree.”
@@ -1719,7 +1628,6 @@ Watch for:
 ## S6 E1 — 1. London Part 1 & 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0601.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Ron and Diane take a big step forward in their relationship. Leslie goes to London. Ben and Andy try to get a grant, and Tom discovers the identity of his new rival.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “First, you screwed my son out of your business, and then you stole my daughter's virginity.”
@@ -1741,7 +1649,6 @@ Watch for:
 ## S6 E3 — 3. The Pawnee-Eagleton Tip Off Classic
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0603.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie, Ben and Chris visit Eagleton to discuss financial matters with city councilor Ingrid de Forest. Meanwhile, Ann takes April to vet school orientation and Ron works to "get off the grid."
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “But when you tell 'em it's time to change their oil, they ask, "Extra virgin or white truffle?" Thanks, guys.”
@@ -1751,7 +1658,6 @@ Watch for:
 ## S6 E4 — 4. Doppelgangers
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0604.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie pairs up the Pawnee Parks employees with their Eagleton counterparts. Meanwhile Ben and Chris reunite for an accounting project, and Ann reveals her plans for the future.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “You don't know Meat Is Murder? It's one of the best songs ever written about industrialized beef consumption.”
@@ -1766,7 +1672,6 @@ Watch for:
 ## S6 E5 — 5. Gin It Up!
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0605.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
-Summary: Leslie tries to calm a minor scandal that gets blown out of proportion. Tom tries to impress a new love interest, while Ben convinces Ron to prepare his last will and testament.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “A tweet has been tweeted from the Parks and Rec Twitter, and I'm afraid it is quite sexually graphic.”
@@ -1784,7 +1689,6 @@ Watch for:
 ## S6 E6 — 6. Filibuster
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0606.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie throws Ben a birthday bash but is forced to leave early for an emergency late-night filibuster. Tom tries to make some memories with his new girlfriend, Ron and Donna go hunting, and April reconnects with Andy.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I know this is a dire situation, but I swear to God, this is like a crazy sex fantasy for me.”
@@ -1803,7 +1707,6 @@ Watch for:
 ## S6 E7 — 7. Recall Vote
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0607.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
-Summary: Leslie prepares a haunted house with Ben, Ann and Chris for Halloween on the day of the recall vote. Meanwhile, Tom fears the end of Rent-A-Swag and persuades Ron to help save his business.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Ann, it was very hard to capture your beauty, and, Ben, you make a sexy pumpkin No surprise.”
@@ -1815,7 +1718,6 @@ Watch for:
 ## S6 E8 — 8. Fluoride
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0608.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie tries to complete some of her biggest city council goals, like hosting an NFL Play 60 event with the Indianapolis Colts, and trying to add fluoride to Pawnee's drinking water. Meanwhile, Chris and Ron attempt to bond while building cribs for their future children.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What's he gonna be in ten years--Snoop Laser Snake? Who knows? What are you saying-- we need to sex up fluoride? I don't know, Tom.”
@@ -1832,7 +1734,6 @@ Watch for:
 ## S6 E9 — 9. The Cones of Dunshire
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0609.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie goes toe-to-toe with Councilman Jamm in a marathon negotiating session. Ben is in between jobs and takes up an interesting hobby to pass the time. Meanwhile, Ron employs Tom, April and Donna to help sell his cabin in the woods.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Who's that, Michelle Wie? - It's not sexual.”
@@ -1843,10 +1744,9 @@ Watch for:
   - “" It's a little wordy, don't you think? "Current owner will not clean up shotgun shells or animal carcasses.”
   - “" The hell is wrong with you, Swanson? Fine, I'll clean up the shotgun shells, but the carcasses remain to fertilize my berry patch.”
 
-## S6 E10 — Second Chunce
+## S6 E10 — 10. Second Chunce
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0610.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Leslie comes to terms with her last day in office and plans for the future with Ben. Chris and Ann find out the sex of their child, Andy comes home from London, and Tom looks to the future.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - “Those terrible people have paid me so much money, I have a condo in every virgin island.”
@@ -1867,10 +1767,9 @@ Watch for:
   - “Stay away from wine.”
   - “Wine is crying juice.”
 
-## S6 E11 — New Beginnings
+## S6 E11 — 11. New Beginnings
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0611.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ben both face new challenges on the first day of new jobs. Donna, April and Andy play a prank on Ben, while Tom prepares for a big presentation. Meanwhile Ann and Chris contemplate taking a big leap together.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “This isn't a shotgun wedding, although, yes, she is pregnant, and, yes, we did just decide to get married today.”
@@ -1880,10 +1779,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “Plus, I downloaded this dope app that pops champagne whenever I say something awesome.”
 
-## S6 E12 — Farmers Market
+## S6 E12 — 12. Farmers Market
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0612.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
-Summary: Leslie fights with Ben over questionable sales techniques at the local farmers market. Ann searches for a way to vent about the annoying aspects of pregnancy, while April supports Andy in a new creative venture.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Super fun it feels super good I wanna do it all the time sex is cool Okay, Sex Is Cool.”
@@ -1912,10 +1810,9 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - “Oh, hey, Donna, what the hell? You know I can't be around smoke or fatty tuna.”
 
-## S6 E13 — Ann and Chris
+## S6 E13 — 13. Ann and Chris
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0613.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: On Ann and Chris's last night in Pawnee, Leslie throws a grand farewell party and attempts to fulfill one last promise. Meanwhile, Tom, Ben, Ron and Andy struggle to find the perfect going away gift for Chris.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “Tell Ann about the groundbreaking, frame Ann for murder, release a deadly virus into the water supply.”
@@ -1923,18 +1820,16 @@ Watch for:
   - “Shotgun! I called shotgun! - You're all nailed.”
   - “You can't--I--double shotgun! We call double shotgun! How come people don't do that more often? It's illegal.”
 
-## S6 E14 — Anniversaries
+## S6 E14 — 14. Anniversaries
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0614.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Ben attempts to surprise Leslie with a special anniversary gift. Tom and Adam try to help Leslie bring positive light to the Pawnee-Eagleton merger, while April asserts her new authority as Donna's boss.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “Got about 20 minutes before I either get really tired or really horny, so let's roll.”
 
-## S6 E15 — The Wall
+## S6 E15 — 15. The Wall
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0615.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: After Leslie tries to take down the wall separating Pawnee and Eagleton, her life takes several unexpected turns. Tom and Ben meet with potential corporate sponsors for the concert, while Ron brings a surprise to the office and finds a new office hobby.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “But I have to warn you, it's not super sexy.”
@@ -1943,10 +1838,9 @@ Watch for:
   - “Thank you for coming by and plunging a dagger into my already-bleeding corpse.”
   - “They literally punch me in the face.”
 
-## S6 E16 — New Slogan
+## S6 E16 — 16. New Slogan
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0616.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie aims to create a new town slogan, but runs afoul of local shock jocks. Andy scouts bands to play the Unity Concert and discovers an interesting secret about Ron, while Tom looks for a restaurant locale with Donna and April.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “Me so horny! I knew it.”
@@ -1959,10 +1853,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “I once threw beer at a swan, and then it attacked my niece Rebecca.”
 
-## S6 E17 — Galentine's Day
+## S6 E17 — 17. Galentine's Day
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0617.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: When Leslie hears her mom's story about an old flame, she and her boyfriend Justin track him down and reunite them on Valentine's Day. Meanwhile, Andy and his band are nervous about playing a gig at the Senior Center.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “So do I strip down to my underwear, or all the way naked? Hello, Diane.”
@@ -1974,10 +1867,9 @@ Watch for:
   - “Uh, Andy, why don't you go with Ron and help him? - I really don't need-- - Shotgun! I call shotgun.”
   - “Shotgun on all rides for the rest of the day.”
 
-## S6 E18 — Prom
+## S6 E18 — 18. Prom
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0618.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie helps organize the high school's Senior Prom, and battles with Ron over the future employment of a bright high school senior. Andy takes an unwilling April as his date, and Tom is tasked with DJ'ing and agrees to let Ben help.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And if this is the evening you decide to have sex, use protection, please! Dude, if you're not gonna play anything, I'm stepping in.”
@@ -1986,10 +1878,9 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - “, so I think he can get us all free beer.”
 
-## S6 E19 — Flu Season 2
+## S6 E19 — 19. Flu Season 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0619.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: In the midst of flu season, a sick Leslie and Andy struggle to book performers for the Unity Concert. Meanwhile, Tom heads to a wine competition in search of a sommelier for his new restaurant, and Ben seeks drunken help from Ron with a personal problem.
 Watch for:
 - Violence & injury — 4 moment(s)
   - “My stomach is trying to murder me.”
@@ -2003,10 +1894,9 @@ Watch for:
   - “(SINGING) I'll bring the girls You bring the beer And the troops will bring the freedom We're sorry to interrupt, Chipp.”
   - “You still drunk from last night? I've been there.”
 
-## S6 E20 — One in 8,000
+## S6 E20 — 20. One in 8,000
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0620.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie and Ben run a charity auction to raise funds for the unity concert. April steps in to manage Andy's schedule, while Donna asks Ron for help with her ex-boyfriend.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “When we're together, all we do is have sex, sit on the couch, eat homemade pasta, - have sex again.”
@@ -2016,10 +1906,9 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - “Oh, my God, there's blood everywhere.”
 
-## S6 E21 — Moving Up Part 1 & 2
+## S6 E21 — 21. Moving Up Part 1 & 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0621.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie debates whether to take the job with the National Parks Service during a convention in San Francisco. Ben tries to get free wi-fi for Pawnee. Tom decides to open his bistro early.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - “Every time someone in Pawnee clicks through a slideshow of American music award red-carpet side-boob fails, they'll say, "Thank you, Ben Wyatt.”
@@ -2030,7 +1919,6 @@ Watch for:
 ## S7 E1 — 1. 2017
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0701.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie launches a competition with tech company Gryzzl for a large parcel of land, which she wants to turn into a National Park. April and Andy try to regain their spontaneity. Ben is recognized at a Bicentennial gala, where Tom delivers a speech in his honor.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “And that tuxedo makes you look like a sexy orchestra conductor.”
@@ -2046,7 +1934,6 @@ Watch for:
 ## S7 E2 — 2. Ron & Jammy
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0702.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ron briefly put aside their feud to help old foe Jeremy Jamm escape the clutches of the diabolical Tammy 2. Ben vows to help April discover her true passion in life, while Andy and Tom travel to Chicago.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “Did it work, baby? Are you horny with gratitude? You two more than deserve each other.”
@@ -2069,7 +1956,6 @@ Watch for:
 ## S7 E3 — 3. William Henry Harrison
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0703.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie's team tries to strengthen her case that the Newport land should be turned into a National Park. Ron's team, fighting back, brings on a celebrity as a minority owner.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “An amusement park with rides and food and sexy cartoon characters.”
@@ -2086,7 +1972,6 @@ Watch for:
 ## S7 E4 — 4. Leslie & Ron
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0704.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie and Ron attempt to work out their differences.
 Watch for:
 - Violence & injury — 3 moment(s)
   - “"If we were to work together, she would undoubtedly drive me insane, "and it is possible that we would murder each other.”
@@ -2098,7 +1983,6 @@ Watch for:
 ## S7 E5 — 5. Gryzzlbox
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0705.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Leslie and Ben suspect that Gryzzl is invading the privacy of Pawnee residents. April addresses the new Parks and Rec interns, while Tom helps Andy renegotiate a contract.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “So I'm just trying to distract myself with work so I don't think about the marathon bone sex they're probably having.”
@@ -2116,7 +2000,6 @@ Watch for:
 ## S7 E6 — 6. Save JJ's
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0706.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
-Summary: Leslie holds a rally in an attempt to keep JJ's Diner from closing. Tom surprises Donna with the ultimate pre-wedding gift.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “What? Let me repeat that because it makes me very horny.”
@@ -2129,8 +2012,7 @@ Watch for:
 
 ## S7 E7 — 7. Donna & Joe
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0707.html
-Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Donna and Joe tie the knot, while April attempts to keep the wedding running smoothly. Ron creates an awkward situation between Tom and Lucy. Jen Barkley arrives at Ben and Leslie's house with an interesting opportunity.
+Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - “"You're my sexy roommate.”
@@ -2146,7 +2028,6 @@ Watch for:
 ## S7 E8 — 8. Ms. Ludgate-Dwyer Goes to Washington
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0708.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
-Summary: While Leslie and April take a business trip to Washington, April wrestles with her future. Back in Pawnee, Andy tries to find April the perfect job.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - “She had an affair with his best friend.”
@@ -2156,7 +2037,6 @@ Watch for:
 ## S7 E9 — 9. Pie-Mary
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0709.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
-Summary: Leslie and Ben come under fire for participating in an old Pawnee tradition. April and Ron go on a scavenger hunt. Donna and Garry stroll down memory lane.
 Watch for:
 - Swearing — 3 moment(s)
   - “Son of a bitch.”
@@ -2167,29 +2047,26 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - “So we're looking for a racist ghost with black hair who likes shoeshines.”
 
-## S7 E10 — The Johnny Karate Super Awesome Musical Explosion Show
+## S7 E10 — 10. The Johnny Karate Super Awesome Musical Explosion Show
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0710.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: On the last episode of Andy's TV show, his friends wish him luck with whatever comes next.
 Watch for:
 - Violence & injury — 1 moment(s)
   - “…Dunk Tank! All that and more on the Johnny Karate Super Awesome Musical Explosion Show! It's time to punch boredom in its stupid face Jump, kick, punch and drop And drop-kick sadness into outer space Punch, yeah…”
 - Alcohol & drugs — 1 moment(s)
   - “I was super wasted.”
 
-## S7 E11 — Two Funerals
+## S7 E11 — 11. Two Funerals
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0711.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
-Summary: Ben and April conduct a series of interviews, while Andy and Donna help Ron adjust to a life change.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - “I didn't ask for flavored condoms.”
   - “See, girls get mad horny when you propose.”
 
-## S7 E12 — One Last Ride, Part 1 & 2
+## S7 E12 — 12. One Last Ride, Part 1 & 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0712.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
-Summary: The Parks gang complete one last task together before saying so long to Pawnee when the series comes to an end after seven seasons.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - “You had sex one time and you had three kids and they're all, like, smart and great and healthy.”

@@ -8,6 +8,7 @@ Exit code is non-zero if any rule regressed.
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -136,7 +137,90 @@ if rm:
             str(list(shared.values())[:2]),
         )
 
-# ── cross-show invariants ─────────────────────────────────────────────────────
+# ── classifier false positives ────────────────────────────────────────────────
+
+def instance_texts(ep: dict | None) -> list[str]:
+    if not ep:
+        return []
+    out: list[str] = []
+    for detail in ep["themes"].get("watch_detail") or []:
+        for inst in detail.get("instances") or []:
+            out.append(inst.get("text") or "")
+    return out
+
+
+def no_phrase(ep: dict | None, phrase: str) -> bool:
+    needle = phrase.lower()
+    return not any(needle in t.lower() for t in instance_texts(ep))
+
+
+phineas = load("phineas-and-ferb")
+if phineas:
+    chip = next((e for e in phineas["episodes"] if "chip to the vet" in e["title"].lower()), None)
+    check("Phineas chipping gun is not Violence", no_phrase(chip, "chipping gun"))
+
+seinfeld = load("seinfeld")
+if seinfeld:
+    pilot = episode(seinfeld, "0101")
+    check("Seinfeld pilot murder investigation is not Violence", no_phrase(pilot, "murder investigation"))
+
+parks = load("parks-and-recreation")
+if parks:
+    pilot = episode(parks, "0101")
+    check("Parks pilot bigger guns is not Violence", no_phrase(pilot, "bigger gun"))
+
+kpop = load("kpop-demon-hunters")
+if kpop:
+    movie = kpop["episodes"][0] if kpop["episodes"] else None
+    check("KPop blood idiom is not Violence", no_phrase(movie, "blood and tears"))
+    check("KPop bleeding lyric is not Violence", no_phrase(movie, "bleeding isn't in my blood"))
+    if movie:
+        check("KPop is season 0 movie slot", str(movie.get("season")) == "0", str(movie.get("season")))
+
+full_house = load("full-house")
+if full_house:
+    pilot = episode(full_house, "0101")
+    if pilot:
+        check(
+            "Full House pilot score has evidence or stays at 1",
+            pilot["overall"] <= 1 or bool(pilot["themes"].get("watch_detail")),
+            f"overall={pilot['overall']}",
+        )
+
+# ── kids catalog air order ────────────────────────────────────────────────────
+
+bluey = load("bluey")
+if bluey:
+    army = next((e for e in bluey["episodes"] if e["title"] == "Army"), None)
+    if army:
+        check("Bluey Army is S2E16 not wiki-alpha Ep 1", army["season"] == 2 and army["episode"] == 16, str(army))
+    first = min(
+        bluey["episodes"],
+        key=lambda e: (int(e["season"]), int(e["episode"]) if str(e["episode"]).isdigit() else e["episode"]),
+    )
+    check("Bluey air order starts at S1E2 Hospital", first["title"] == "Hospital", first["title"])
+
+gravity = load("gravity-falls")
+if gravity:
+    first = min(
+        gravity["episodes"],
+        key=lambda e: (int(e["season"]), int(e["episode"]) if str(e["episode"]).isdigit() else e["episode"]),
+    )
+    check(
+        "Gravity Falls S1E1 is Tourist Trapped",
+        "tourist trapped" in first["title"].lower(),
+        first["title"],
+    )
+    junk = [e["title"] for e in gravity["episodes"] if re.match(r"^\d{1,2}-\d{1,2}$", e["title"])]
+    check("Gravity Falls has no date-code cryptogram junk", not junk, str(junk[:3]))
+
+if spongebob:
+    first = min(
+        spongebob["episodes"],
+        key=lambda e: (int(e["season"]), int(e["episode"]) if str(e["episode"]).isdigit() else e["episode"]),
+    )
+    check("SpongeBob S1E1 is Help Wanted", first["title"] == "Help Wanted", first["title"])
+
 
 for show_id in [
     "friends", "seinfeld", "spongebob", "the-office", "how-i-met-your-mother",

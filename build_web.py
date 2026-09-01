@@ -51,6 +51,8 @@ READY = [
     "brooklyn-nine-nine",
     "bobs-burgers",
     "simpsons",
+    "wednesday",
+    "kpop-demon-hunters",
 ]
 
 SHOW_PAGE = {
@@ -128,6 +130,30 @@ SHOW_PAGE = {
     "simpsons": {
         "name": "The Simpsons",
         "h1": 'The Simpsons <span class="pop">🍩</span>',
+    },
+    "stranger-things": {
+        "name": "Stranger Things",
+        "h1": 'Stranger Things <span class="pop">🔦</span>',
+    },
+    "legend-of-korra": {
+        "name": "The Legend of Korra",
+        "h1": 'Legend of Korra <span class="pop">🌊</span>',
+    },
+    "clone-wars": {
+        "name": "Star Wars: The Clone Wars",
+        "h1": 'The Clone Wars <span class="pop">⚔️</span>',
+    },
+    "owl-house": {
+        "name": "The Owl House",
+        "h1": 'The Owl House <span class="pop">🦉</span>',
+    },
+    "amphibia": {
+        "name": "Amphibia",
+        "h1": 'Amphibia <span class="pop">🐸</span>',
+    },
+    "pokemon": {
+        "name": "Pokémon: Indigo League",
+        "h1": 'Pokémon <span class="pop">⚡</span>',
     },
 }
 
@@ -257,8 +283,10 @@ def display_title(title: str) -> str:
     return t.strip() or clean_title(title)
 
 
-def season_label(season) -> str:
+def season_label(season, show_id: str | None = None) -> str:
     raw = str(season)
+    if raw == "0" and show_id in {"kpop-demon-hunters"}:
+        return "Movie"
     if raw == "0":
         return "Specials"
     return f"Season {raw.lstrip('0') or raw}"
@@ -977,7 +1005,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
 
       <p class="ep-related">
         <a href="../../guides/{esc(show_id)}.html">What to watch in {esc(show_name)}</a>
-        · <a href="../../guides/{esc(show_id)}-season-{esc(ep.get("season"))}.html">{esc(season_label(ep.get("season")))} guide</a>
+        · <a href="../../guides/{esc(show_id)}-season-{esc(ep.get("season"))}.html">{esc(season_label(ep.get("season"), show_id))} guide</a>
       </p>
       <p class="ep-foot-note">{esc(BRAND)} · {esc(TAGLINE)} · Informal parent guidance, not an official rating.</p>
     </main>
@@ -1041,7 +1069,7 @@ def show_jsonld(show_id: str, payload: dict, mix: dict) -> str:
                     "@type": "ListItem",
                     "position": i + 1,
                     "url": f"{SITE}/guides/{show_id}-season-{season}.html",
-                    "name": f"Is {payload['show']} {season_label(season)} OK for kids?",
+                    "name": f"Is {payload['show']} {season_label(season, show_id)} OK for kids?",
                 }
                 for i, season in enumerate(
                     sorted(
@@ -1961,7 +1989,7 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
         key=lambda s: int(s) if s.isdigit() else 99,
     )
     season_links = " · ".join(
-        f'<a href="{esc(show_id)}-season-{esc(season)}.html">{esc(season_label(season))}</a>'
+        f'<a href="{esc(show_id)}-season-{esc(season)}.html">{esc(season_label(season, show_id))}</a>'
         for season in seasons
     )
     if mix["safe"] == 0:
@@ -2116,7 +2144,7 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
     (WEB / "guides").mkdir(exist_ok=True)
     for season, eps in grouped.items():
         smix = episode_mix(eps)
-        label = season_label(season)
+        label = season_label(season, show_id)
         url = f"{SITE}/guides/{show_id}-season-{season}.html"
         title = f"Is {name} {label} OK for Kids?"
         total = smix["total"] or 1

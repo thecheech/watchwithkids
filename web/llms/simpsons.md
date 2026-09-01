@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/simpsons.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 300 all clear (1–2), 221 gray area (3), 43 hard pass (4–5).
+Buckets: 303 all clear (1–2), 218 gray area (3), 43 hard pass (4–5).
 
 ## S1 E1 — Simpsons Roasting on an Open Fire
 URL: https://watchwiththekids.com/ep/simpsons/0101.html
@@ -66,7 +66,7 @@ Watch for:
 
 ## S1 E6 — Moaning Lisa
 URL: https://watchwiththekids.com/ep/simpsons/0106.html
-Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Homer Simpson: “Oh, so that's it. This is some kind of underwear thing.”
@@ -405,7 +405,7 @@ Watch for:
 
 ## S3 E1 — Stark Raving Dad
 URL: https://watchwiththekids.com/ep/simpsons/0301.html
-Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - Waylon Smithers: “Oh, that's Homer Simpson, sir. He's one of your boobs from Sector 7-G.”
@@ -879,7 +879,7 @@ Watch for:
 
 ## S4 E15 — I Love Lisa
 URL: https://watchwiththekids.com/ep/simpsons/0415.html
-Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 3 moment(s)
   - Adult Movie Theater
@@ -1498,8 +1498,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/simpsons/0621.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
-- Sex & hookups — 1 moment(s)
-  - Bart Simpson: “It's hard to see what's going on. I can only make out the fat soldiers.”
 - Violence & injury — 2 moment(s)
   - Edna Krabappel-Flanders: “It's all right, children. Just ignore the murderer.”
   - “Soldier #4: Use your phony guns as clubs!”
@@ -1561,7 +1559,7 @@ Watch for:
 URL: https://watchwiththekids.com/ep/simpsons/0701.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
-- Violence & injury — 8 moment(s)
+- Violence & injury — 7 moment(s)
   - Homer Simpson: “Kids! Kids! Kids! As far as Daddy's concerned, you're both potential murderers.”
   - Kent Brockman: “Oh, do your research, Shutton! (TO SMITHERS) Ah, Kent Brockman, Channel Six News. How does it feel to be accused of the attempted murder of your boss and mentor?”
   - Lisa Simpson: “Well, I don't think anyone in this family is capable of attempted murder.”
@@ -1569,7 +1567,6 @@ Watch for:
   - Kent Brockman: “And with the prime suspect cleared and found completely innocent, we must now ask ourselves: "Who could possibly be as bloodthirsty as Waylon Smithers?"”
   - Eddie: “(BRANDISHING HIS GUN) This is your last warning about that.”
   - Groundskeeper Willie: “It's impossible for me to fire a pistol. If you'll check me medical records, you'll see I have a cripplin' arthritis in me index fingers! Look at 'em!”
-  - Technician: “Scan's finished. Now it's gonna narrow it down to the family bloodline.”
 - Alcohol & drugs — 3 moment(s)
   - Waylon Smithers: “Wait, that was all a dream. (BRIGHTENING) Hey, then maybe I haven't become a hideous, drunken wreck! (LOOKS AROUND)”
   - Waylon Smithers: “Could I have shot Mr. Burns in a drunken rage? No. No, not me. I know in my heart I...”
@@ -1817,7 +1814,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - Bart Simpson: “(JOVIAL) Are you kidding? I take it as a compliment! (CHUCKLE) Three beers, please!”
 
-## S7 E21 — Short Films About Springfield
+## S7 E21 — 22 Short Films About Springfield
 URL: https://watchwiththekids.com/ep/simpsons/0721.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
@@ -4234,8 +4231,7 @@ Watch for:
 URL: https://watchwiththekids.com/ep/simpsons/1508.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
-- Sex & hookups — 2 moment(s)
-  - Roofi: “(TO TUNE OF "TWINKLE TWINKLE LITTLE STAR") TICKETS TICKETS BUY THEM NOW / ROOFI HE WILL SHOW YOU HOW / VISA, AMEX, OR MC / OR MAKE OUT A CHECK TO”
+- Sex & hookups — 1 moment(s)
   - Lindsay Naegle: “I'm gonna tell an anecdote about oral sex... without having to look around.”
 - Violence & injury — 2 moment(s)
   - Crowd: “(BLOODTHIRSTY CHEERS)”
@@ -5469,7 +5465,7 @@ Watch for:
   - Homer Simpson: “(EXTREME STRANGLING/GETTING STRANGLED NOISES)”
   - Bart Simpson: “(CALLING) Here, Strangles! Strangles?”
 
-## S18 E21 — Minutes
+## S18 E21 — 24 Minutes
 URL: https://watchwiththekids.com/ep/simpsons/1821.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:

@@ -1,48 +1,47 @@
 season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
-1,1,0101,1. Our Very First Show,2,1,1,2,8,Mild — okay from about 8+,
+1,1,0101,1. Our Very First Show,1,1,1,1,7,Usually fine — about 7+,
 1,2,0102,2. Our Very First Night,1,1,1,1,7,Usually fine — about 7+,
 1,3,0103,3. The First Day of School,1,1,1,1,7,Usually fine — about 7+,
-1,4,0104,4. The Return of Grandma,2,1,2,2,8,Mild — okay from about 8+,
+1,4,0104,4. The Return of Grandma,1,1,2,2,8,Mild — okay from about 8+,
 1,5,0105,5. Sea Cruise,1,1,1,1,7,Usually fine — about 7+,"Sex & hookups — “You gotta admit, it is kind of sexy out here.”"
 1,6,0106,6. Daddy's Home,1,1,2,2,8,Mild — okay from about 8+,"Violence & injury — “My sweet little baby, my own flesh and blood thinks that you two are her father.”"
 1,7,0107,7. Knock Yourself Out,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “Yeah, girls, nobody can take a punch like your father.”"
 1,8,0108,8. Jesse's Girl,3,1,1,3,10,Preview first — about 10+,Sex & hookups — “I think that a sense of humor is a very sexy quality in a man.”
 1,9,0109,9. The Miracle of Thanksgiving,1,1,1,1,7,Usually fine — about 7+,Alcohol & drugs — “I'll get us some traditional pumpkin margaritas.”
-1,10,0110,Joey's Place,2,1,1,2,8,Mild — okay from about 8+,
-1,11,0111,The Big Three-O,1,1,1,1,7,Usually fine — about 7+,
-1,12,0112,Our Very First Promo,2,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “"" Steph, did you make that noise? Why would I make a noise that's scaring me to death? Could I sleep with you in your bed? All right.”"
-1,13,0113,Sisterly Love,1,1,1,1,7,Usually fine — about 7+,Fat-shaming — “You don't want a corned-beef sandwich on rye? It's extra fatty.”
-1,14,0114,Half A Love Story,2,1,1,2,8,Mild — okay from about 8+,Sex & hookups — “There's something about a man with a baby that's so sexy and so hard to resist.”
-1,15,0115,A Pox in Our House,2,1,1,2,8,Mild — okay from about 8+,
-1,16,0116,"But Seriously, Folks",3,1,1,3,10,Preview first — about 10+,Violence & injury — “This is comedy murder.”
-1,17,0117,Danny's Very First Date,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “This sweet, young child is your own flesh and blood.”"
-1,18,0118,Just One of the Guys,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “You see, it's in our blood.”"
-1,19,0119,The Seven-Month Itch (1),1,1,1,1,7,Usually fine — about 7+,"Alcohol & drugs — “Sammy, brought you some champagne.”"
-1,20,0120,The Seven-Month Itch (2),1,1,2,2,8,Mild — okay from about 8+,
-1,21,0121,Mad Money,1,1,1,1,7,Usually fine — about 7+,Violence & injury — “I need a knife.”
-1,22,0122,D.J. Tanners's Day Off,1,1,1,1,7,Usually fine — about 7+,
-2,1,0201,1. Cutting It Close,2,1,1,2,8,Mild — okay from about 8+,Alcohol & drugs — “You're gonna need a weed whacker for that bush.”
+1,10,0110,10. Joey's Place,1,1,1,1,7,Usually fine — about 7+,
+1,11,0111,11. The Big Three-O,1,1,1,1,7,Usually fine — about 7+,
+1,13,0113,13. Sisterly Love,1,1,1,1,7,Usually fine — about 7+,Fat-shaming — “You don't want a corned-beef sandwich on rye? It's extra fatty.”
+1,14,0114,14. Half A Love Story,2,1,1,2,8,Mild — okay from about 8+,Sex & hookups — “There's something about a man with a baby that's so sexy and so hard to resist.”
+1,15,0115,15. A Pox in Our House,1,1,1,1,7,Usually fine — about 7+,
+1,16,0116,"16. But Seriously, Folks",2,1,1,2,8,Mild — okay from about 8+,Violence & injury — “This is comedy murder.”
+1,17,0117,17. Danny's Very First Date,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “This sweet, young child is your own flesh and blood.”"
+1,18,0118,18. Just One of the Guys,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “You see, it's in our blood.”"
+1,19,0119,19. The Seven-Month Itch (1),1,1,1,1,7,Usually fine — about 7+,"Alcohol & drugs — “Sammy, brought you some champagne.”"
+1,20,0120,20. The Seven-Month Itch (2),1,1,2,2,8,Mild — okay from about 8+,
+1,21,0121,21. Mad Money,1,1,1,1,7,Usually fine — about 7+,Violence & injury — “I need a knife.”
+1,22,0122,22. D.J. Tanners's Day Off,1,1,1,1,7,Usually fine — about 7+,
+2,1,0201,1. Cutting It Close,1,1,1,1,7,Usually fine — about 7+,Alcohol & drugs — “You're gonna need a weed whacker for that bush.”
 2,2,0202,2. Tanner vs. Gibbler,1,1,1,1,7,Usually fine — about 7+,Nudity & bodies — “Nobody was in their underwear.”
-2,3,0203,3. It's Not My Job,2,1,1,2,8,Mild — okay from about 8+,
-2,4,0204,4. D.J.'s Very First Horse,2,1,1,2,8,Mild — okay from about 8+,
+2,3,0203,3. It's Not My Job,1,1,1,1,7,Usually fine — about 7+,
+2,4,0204,4. D.J.'s Very First Horse,1,1,1,1,7,Usually fine — about 7+,
 2,5,0205,5. Jingle Hell,3,1,1,3,10,Preview first — about 10+,Violence & injury — “And you stabbed me in the back with it.”
 2,6,0206,6. Beach Boy Bingo,1,1,1,1,7,Usually fine — about 7+,
 2,7,0207,7. Joey Gets Tough,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — “Stick to your guns.”
 2,8,0208,8. Triple Date,1,1,1,1,7,Usually fine — about 7+,
 2,9,0209,9. Our Very First Christmas Show,1,1,1,1,7,Usually fine — about 7+,Alcohol & drugs — “It's a magic land where people sit in seats as big as sofas and eat shrimp cocktail.”
-2,10,0210,Middle Age Crazy,1,1,1,1,7,Usually fine — about 7+,
-2,11,0211,A Little Romance,1,2,1,2,8,Mild — okay from about 8+,Sex & hookups — “Go sleep with Michelle.”
-2,12,0212,Fogged In,1,1,1,1,7,Usually fine — about 7+,
-2,13,0213,Working Mothers,1,1,1,1,7,Usually fine — about 7+,Alcohol & drugs — “This is the last time I buy champagne in a can.”
-2,14,0214,Little Shop of Sweaters,1,1,1,1,7,Usually fine — about 7+,Alcohol & drugs — “…are you doing eating with your hands? Someday you're gonna be invited to the White House to eat fruit cocktail with the president and if you eat with your fingers there's a chance you'll gross out the commander in…”
-2,15,0215,Pal Joey,2,1,1,2,8,Mild — okay from about 8+,
-2,16,0216,Baby Love,1,1,1,1,7,Usually fine — about 7+,"Alcohol & drugs — “Chill that champagne, pal.”"
-2,17,0217,El Problema Grande de D.J.,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “We're gonna take a field trip to the cafeteria to learn the Spanish words for knife, fork and mystery meat.”"
-2,18,0218,"Goodbye, Mr. Bear",2,1,1,2,8,Mild — okay from about 8+,
-2,19,0219,Blast from the Past,1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — “Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.”
-2,20,0220,"I'm There for You, Babe",1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “There's no way to beat her, is there? No, not really.”"
-2,21,0221,Luck Be a Lady (1),1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “Right before she punched me admit it, you were jealous.”"
-2,22,0222,Luck Be a Lady (2),2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “Yeah, well, if you call a fractured rib beat up.”"
+2,10,0210,10. Middle Age Crazy,1,1,1,1,7,Usually fine — about 7+,
+2,11,0211,11. A Little Romance,1,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “So, Nick, how are the kids? Well, Steph had to sleep with Michelle because D.”"
+2,12,0212,12. Fogged In,1,1,1,1,7,Usually fine — about 7+,
+2,13,0213,13. Working Mothers,1,1,1,1,7,Usually fine — about 7+,Alcohol & drugs — “This is the last time I buy champagne in a can.”
+2,14,0214,14. Little Shop of Sweaters,1,1,1,1,7,Usually fine — about 7+,Alcohol & drugs — “…are you doing eating with your hands? Someday you're gonna be invited to the White House to eat fruit cocktail with the president and if you eat with your fingers there's a chance you'll gross out the commander in…”
+2,15,0215,15. Pal Joey,1,1,1,1,7,Usually fine — about 7+,
+2,16,0216,16. Baby Love,1,1,1,1,7,Usually fine — about 7+,"Alcohol & drugs — “Chill that champagne, pal.”"
+2,17,0217,17. El Problema Grande de D.J.,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “We're gonna take a field trip to the cafeteria to learn the Spanish words for knife, fork and mystery meat.”"
+2,18,0218,"18. Goodbye, Mr. Bear",1,1,1,1,7,Usually fine — about 7+,
+2,19,0219,19. Blast from the Past,1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — “Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.”
+2,20,0220,"20. I'm There for You, Babe",1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “There's no way to beat her, is there? No, not really.”"
+2,21,0221,21. Luck Be a Lady (1),1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “Right before she punched me admit it, you were jealous.”"
+2,22,0222,22. Luck Be a Lady (2),2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “Yeah, well, if you call a fractured rib beat up.”"
 3,1,0301,1. Tanner's Island,1,1,1,1,7,Usually fine — about 7+,Violence & injury — “Yeah! -All righy! Hawaii? I love their punch.”
 3,2,0302,2. Back to School Blues,1,1,1,1,7,Usually fine — about 7+,Nudity & bodies — “My dad eats his breakfast in his underwear.”
 3,3,0303,3. Breaking up is Hard to Do (in 22 Minutes),1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “Ed play in front of 50,000 screaming fans? And did Guns N' Roses ever win yhe Kenyucky Derby? All righy.”"
@@ -52,70 +51,70 @@ season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
 3,7,0307,7. And They Call It Puppy Love,1,1,1,1,7,Usually fine — about 7+,Nudity & bodies — “My leopard underwear! That's why we don't.”
 3,8,0308,8. Divorce Court,1,1,1,1,7,Usually fine — about 7+,"Nudity & bodies — “Underwear a little tight, boys? We were playing fooyball wiyh Michelle.”"
 3,9,0309,9. Dr. Dare Rides Again,1,1,1,1,7,Usually fine — about 7+,
-3,10,0310,The Greatest Birthday on Earth,1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — “She goy my underwear.”
-3,11,0311,Aftershocks,1,1,1,1,7,Usually fine — about 7+,Suicide & self-harm — “I kill myself.”
-3,12,0312,"Joey & Stacy and ... Oh, Yeah, Jesse",2,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “You know, ever since you've hooked up wiyh Yoko over here you've changed, and noy for yhe beyyer.”"
-3,13,0313,No More Mr. Dumb Guy,1,1,1,1,7,Usually fine — about 7+,Violence & injury — “It's Jesse! You see that? I beat him! Congrayulayions.”
-3,14,0314,Misadventures in Baby-Sitting,1,1,1,1,7,Usually fine — about 7+,
-3,15,0315,Lust in the Dust,1,1,1,1,7,Usually fine — about 7+,
-3,16,0316,"Bye, Bye Birdie",1,1,1,1,7,Usually fine — about 7+,
-3,17,0317,13 Candles,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “Well, I'm gonna go get some punch.”"
-3,18,0318,Mr. Egghead,2,1,1,2,8,Mild — okay from about 8+,
-3,19,0319,Those Better Not be the Days,1,1,1,1,7,Usually fine — about 7+,
-3,20,0320,"Honey, I Broke the House",1,1,1,1,7,Usually fine — about 7+,
-3,21,0321,Just Say No Way,2,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “Abouy-- Abouy drugs, and abouy sex and who knows whay.”"
-3,22,0322,Three Men and Another Baby,1,1,1,1,7,Usually fine — about 7+,
-3,23,0323,Fraternity Reunion,1,1,1,1,7,Usually fine — about 7+,
-3,24,0324,Our Very First Telethon,1,1,2,2,8,Mild — okay from about 8+,
+3,10,0310,10. The Greatest Birthday on Earth,1,2,1,2,8,Mild — okay from about 8+,Nudity & bodies — “She goy my underwear.”
+3,11,0311,11. Aftershocks,1,1,1,1,7,Usually fine — about 7+,Suicide & self-harm — “I kill myself.”
+3,12,0312,"12. Joey & Stacy and ... Oh, Yeah, Jesse",2,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “You know, ever since you've hooked up wiyh Yoko over here you've changed, and noy for yhe beyyer.”"
+3,13,0313,13. No More Mr. Dumb Guy,1,1,1,1,7,Usually fine — about 7+,Violence & injury — “It's Jesse! You see that? I beat him! Congrayulayions.”
+3,14,0314,14. Misadventures in Baby-Sitting,1,1,1,1,7,Usually fine — about 7+,
+3,15,0315,15. Lust in the Dust,1,1,1,1,7,Usually fine — about 7+,
+3,16,0316,"16. Bye, Bye Birdie",1,1,1,1,7,Usually fine — about 7+,
+3,17,0317,17. 13 Candles,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “Well, I'm gonna go get some punch.”"
+3,18,0318,18. Mr. Egghead,1,1,1,1,7,Usually fine — about 7+,
+3,19,0319,19. Those Better Not be the Days,1,1,1,1,7,Usually fine — about 7+,
+3,20,0320,"20. Honey, I Broke the House",1,1,1,1,7,Usually fine — about 7+,
+3,21,0321,21. Just Say No Way,2,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “Abouy-- Abouy drugs, and abouy sex and who knows whay.”"
+3,22,0322,22. Three Men and Another Baby,1,1,1,1,7,Usually fine — about 7+,
+3,23,0323,23. Fraternity Reunion,1,1,1,1,7,Usually fine — about 7+,
+3,24,0324,24. Our Very First Telethon,1,1,1,1,7,Usually fine — about 7+,
 4,1,0401,1. Greek Week,1,1,1,1,7,Usually fine — about 7+,"Nudity & bodies — “THANK YOU VERY MUCH, BUT WE BROUGHT OUR OWN UNDERWEAR.”"
 4,2,0402,2. Crimes and Michelle's Demeanor,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — “I'LL BET YOU FIVE MARSHMALLOWS AT LEAST ONE GUY FROM GUNS 'N ROSES FALLS OFF THE STAGE.”
 4,3,0403,3. The I.Q. Man,1,1,1,1,7,Usually fine — about 7+,Sex & hookups — “YOU'RE SEXY.”
-4,4,0404,4. Slumber Party,2,1,1,2,8,Mild — okay from about 8+,
+4,4,0404,4. Slumber Party,1,1,1,1,7,Usually fine — about 7+,
 4,5,0405,"5. Good News, Bad News",3,1,1,3,10,Preview first — about 10+,"Violence & injury — “""POWER-HUNGRY EDITOR DONNA JO TANNER ""STABS BEST FRIEND IN BACK.”"
-4,6,0406,6. A Pinch for a Pinch,2,2,1,2,8,Mild — okay from about 8+,Sex & hookups — “THAT'S WHY I'M SLEEPING WITH MICHELLE'S NIGHT LIGHT.”
+4,6,0406,6. A Pinch for a Pinch,1,2,1,2,8,Mild — okay from about 8+,Sex & hookups — “THAT'S WHY I'M SLEEPING WITH MICHELLE'S NIGHT LIGHT.”
 4,7,0407,7. Viva Las Joey,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “YOU KNOW, WHENEVER THEY RECOGNIZE SOMEBODY, THEY ALWAYS DO THAT PHONY GUN-POINT THING.”"
 4,8,0408,8. Shape Up,1,2,1,2,8,Mild — okay from about 8+,Sex & hookups — “NOW HOOK UP.”
-4,9,0409,9. One Last Kiss,2,1,1,2,8,Mild — okay from about 8+,"Sex & hookups — “SOMEBODY INTELLIGENT, SEXY, EXTREMELY ATTRACTIVE YOU'RE RIGHT, JOEY.”"
-4,10,0410,Terror in Tanner Town,1,1,1,1,7,Usually fine — about 7+,
-4,11,0411,Secret Admirer,3,1,1,3,10,Preview first — about 10+,Violence & injury — “GUYS! DOES JESSE KNOW DANNY GAVE ME THAT LOVE LETTER? GENTLEMEN I'M GONNA FIND OUT RIGHT NOW WHICH OF MY BEST FRIENDS IS A BACK-STABBING WEASEL.”
-4,12,0412,Danny in Charge,2,1,1,2,8,Mild — okay from about 8+,Sex & hookups — “ENJOY THE VIRGIN FOREST.”
-4,13,0413,Happy New Year,1,1,1,1,7,Usually fine — about 7+,
-4,14,0414,Working Girl,1,1,1,1,7,Usually fine — about 7+,"Alcohol & drugs — “FIND A CHURCH, HIRE A HALL, BUY A DRESS, PICK OUT INVITATIONS, A BAND, A CATERER, COCKTAIL NAPKINS-- BECKY, WHY DON'T WE ELOPE? OH, I DON'T KNOW.”"
-4,15,0415,Ol' Brown Eyes,2,1,1,2,8,Mild — okay from about 8+,Racism & slurs — “YOU'RE SPIC AND SPAN.”
-4,16,0416,Stephanie Gets Framed,2,1,1,2,8,Mild — okay from about 8+,"Violence & injury — “YOU KNOW, I DO FEEL THE BLOOD FLOWING.”"
-4,17,0417,A Fish Called Martin,2,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “MARTIN, YOU CAN SLEEP WITH MY PIG TONIGHT.”"
-4,18,0418,The Wedding (1),1,1,1,1,7,Usually fine — about 7+,
-4,19,0419,The Wedding (2),1,1,1,1,7,Usually fine — about 7+,
-4,20,0420,Fuller House,1,1,1,1,7,Usually fine — about 7+,
-4,21,0421,The Hole-in-the-Wall Gang,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “LET'S NOT PUNCH ANY MORE HOLES, OK? DEAL.”"
-4,22,0422,Stephanie Plays the Field,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — “YOU CAN CUT THE TENSION WITH A KNIFE.”
-4,23,0423,Joey Goes Hollywood,2,1,1,2,8,Mild — okay from about 8+,Suicide & self-harm — “I KILL MYSELF.”
-4,24,0424,Girls Just Wanna Have Fun,1,1,1,1,7,Usually fine — about 7+,
-4,25,0425,The Graduates,1,1,1,1,7,Usually fine — about 7+,Nudity & bodies — “I JUST PRETEND EVERYBODY IS IN THEIR UNDERWEAR.”
-4,26,0426,Rock the Cradle,1,3,1,3,10,Preview first — about 10+,"Affairs / cheating — “…HEAVEN * * BUT I DON'T THINK * * REAL LOVE IS IN THE AIR * * WHAT WE HAVE HERE * * IS A FLESH TONE LOVE AFFAIR * * YEAH, YEAH * * WELL, I FEEL LIKE I'M IN HEAVEN * * BUT I DON'T THINK THIS UNION HAS A PRAYER * * WHAT…”"
-5,1,0501,1. Double Trouble,1,2,2,2,8,Mild — okay from about 8+,Sex & hookups — “You look very sexy.”
+4,9,0409,9. One Last Kiss,1,1,1,1,7,Usually fine — about 7+,"Sex & hookups — “SOMEBODY INTELLIGENT, SEXY, EXTREMELY ATTRACTIVE YOU'RE RIGHT, JOEY.”"
+4,10,0410,10. Terror in Tanner Town,1,1,1,1,7,Usually fine — about 7+,
+4,11,0411,11. Secret Admirer,3,1,1,3,10,Preview first — about 10+,Violence & injury — “GUYS! DOES JESSE KNOW DANNY GAVE ME THAT LOVE LETTER? GENTLEMEN I'M GONNA FIND OUT RIGHT NOW WHICH OF MY BEST FRIENDS IS A BACK-STABBING WEASEL.”
+4,12,0412,12. Danny in Charge,1,1,1,1,7,Usually fine — about 7+,Sex & hookups — “ENJOY THE VIRGIN FOREST.”
+4,13,0413,13. Happy New Year,1,1,1,1,7,Usually fine — about 7+,
+4,14,0414,14. Working Girl,1,1,1,1,7,Usually fine — about 7+,"Alcohol & drugs — “FIND A CHURCH, HIRE A HALL, BUY A DRESS, PICK OUT INVITATIONS, A BAND, A CATERER, COCKTAIL NAPKINS-- BECKY, WHY DON'T WE ELOPE? OH, I DON'T KNOW.”"
+4,15,0415,15. Ol' Brown Eyes,1,1,1,1,7,Usually fine — about 7+,Racism & slurs — “YOU'RE SPIC AND SPAN.”
+4,16,0416,16. Stephanie Gets Framed,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “YOU KNOW, I DO FEEL THE BLOOD FLOWING.”"
+4,17,0417,17. A Fish Called Martin,1,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “MARTIN, YOU CAN SLEEP WITH MY PIG TONIGHT.”"
+4,18,0418,18. The Wedding (1),1,1,1,1,7,Usually fine — about 7+,
+4,19,0419,19. The Wedding (2),1,1,1,1,7,Usually fine — about 7+,
+4,20,0420,20. Fuller House,1,1,1,1,7,Usually fine — about 7+,
+4,21,0421,21. The Hole-in-the-Wall Gang,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “LET'S NOT PUNCH ANY MORE HOLES, OK? DEAL.”"
+4,22,0422,22. Stephanie Plays the Field,2,1,1,2,8,Mild — okay from about 8+,Violence & injury — “YOU CAN CUT THE TENSION WITH A KNIFE.”
+4,23,0423,23. Joey Goes Hollywood,2,1,1,2,8,Mild — okay from about 8+,Suicide & self-harm — “I KILL MYSELF.”
+4,24,0424,24. Girls Just Wanna Have Fun,1,1,1,1,7,Usually fine — about 7+,
+4,25,0425,25. The Graduates,1,1,1,1,7,Usually fine — about 7+,Nudity & bodies — “I JUST PRETEND EVERYBODY IS IN THEIR UNDERWEAR.”
+4,26,0426,26. Rock the Cradle,1,3,1,3,10,Preview first — about 10+,"Affairs / cheating — “…HEAVEN * * BUT I DON'T THINK * * REAL LOVE IS IN THE AIR * * WHAT WE HAVE HERE * * IS A FLESH TONE LOVE AFFAIR * * YEAH, YEAH * * WELL, I FEEL LIKE I'M IN HEAVEN * * BUT I DON'T THINK THIS UNION HAS A PRAYER * * WHAT…”"
+5,1,0501,1. Double Trouble,1,2,1,2,8,Mild — okay from about 8+,Sex & hookups — “You look very sexy.”
 5,2,0502,2. Matchmaker Michelle,1,1,1,1,7,Usually fine — about 7+,
 5,3,0503,"3. Take My Sister, Please",1,1,1,1,7,Usually fine — about 7+,
-5,4,0504,"4. Oh Where, Oh Where Has My Little Girl Gone?",2,1,2,2,8,Mild — okay from about 8+,Sex & hookups — “Just make out with every guy in school until they change their mind.”
+5,4,0504,"4. Oh Where, Oh Where Has My Little Girl Gone?",2,1,1,2,8,Mild — okay from about 8+,Sex & hookups — “Just make out with every guy in school until they change their mind.”
 5,5,0505,5. The King and I,1,1,1,1,7,Usually fine — about 7+,
 5,6,0506,6. The Legend of Ranger Joe,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “Without his gun and badge, Deputy Dawg weighs exactly 43 pounds.”"
-5,7,0507,7. The Volunteer,2,3,1,3,10,Preview first — about 10+,"Sex & hookups — “Did you guys ever try to sleep with a watermelon in your pajamas? Yeah, once.”"
+5,7,0507,7. The Volunteer,1,3,1,3,10,Preview first — about 10+,"Sex & hookups — “Did you guys ever try to sleep with a watermelon in your pajamas? Yeah, once.”"
 5,8,0508,8. Gotta Dance,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “Tiny, Brain Dead, if you are gonna fight, please, no blood on the carpet.”"
 5,9,0509,"9. Happy Birthday, Babies (1)",1,1,1,1,7,Usually fine — about 7+,
-5,10,0510,"Happy Birthday, Babies (2)",1,1,1,1,7,Usually fine — about 7+,Violence & injury — “Is anybody allowed to use a knife? ALL: No.”
-5,11,0511,Nicky and/or Alexander,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “No, I-- I love those boot-- Any good red-blooded American boy would love to wear those booties.”"
-5,12,0512,Bachelor of the Month,1,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “I got you an Elvis mobile, huh? Watch this, they're all shook up, see? I just hope they can sleep with the glare from those sequined jump suits.”"
-5,13,0513,Easy Rider,1,1,1,1,7,Usually fine — about 7+,"Sex & hookups — “Whoa! Make Out, San Francisco! Steph! Go to your room.”"
-5,14,0514,Sisters in Crime,1,1,1,1,7,Usually fine — about 7+,
-5,15,0515,"Play It Again, Jess",1,1,1,1,7,Usually fine — about 7+,
-5,16,0516,Crushed,1,1,1,1,7,Usually fine — about 7+,
-5,17,0517,Spellbound,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “What? Totally wrong? What--? What was the guns and the thing and the spinning? Jess, it just doesn't have that childlike quality I'm looking for.”"
-5,18,0518,Too Much Monkey Business,1,1,1,1,7,Usually fine — about 7+,"Sex & hookups — “Why won't that monkey give me a break? I don't know, but if you talk sexy to her, she'll nibble on your ear.”"
-5,19,0519,The Devil Made Me Do It,1,2,1,2,8,Mild — okay from about 8+,Sex & hookups — “I was gonna sleep with the dog.”
-5,20,0520,Driving Miss D.J.,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “Fine, you can have shotgun.”"
-5,21,0521,"Yours, Mine and Ours",1,1,1,1,7,Usually fine — about 7+,
-5,22,0522,Trouble with Danny,1,1,1,1,7,Usually fine — about 7+,"Nudity & bodies — “Naked? Oh, great, potato chips.”"
-5,23,0523,Five's a Crowd,2,1,1,2,8,Mild — okay from about 8+,
-5,24,0524,Girls Will Be Boys,3,1,1,3,10,Preview first — about 10+,Nudity & bodies — “And there's this rumor going around that Roxanne is stuffing her bra with two-ply paper towels.”
-5,25,0525,Captain Video (1),1,1,1,1,7,Usually fine — about 7+,
-5,26,0526,Captain Video (2),1,1,1,1,7,Usually fine — about 7+,
+5,10,0510,"10. Happy Birthday, Babies (2)",1,1,1,1,7,Usually fine — about 7+,Violence & injury — “Is anybody allowed to use a knife? ALL: No.”
+5,11,0511,11. Nicky and/or Alexander,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “No, I-- I love those boot-- Any good red-blooded American boy would love to wear those booties.”"
+5,12,0512,12. Bachelor of the Month,1,2,1,2,8,Mild — okay from about 8+,"Sex & hookups — “I got you an Elvis mobile, huh? Watch this, they're all shook up, see? I just hope they can sleep with the glare from those sequined jump suits.”"
+5,13,0513,13. Easy Rider,1,1,1,1,7,Usually fine — about 7+,"Sex & hookups — “Whoa! Make Out, San Francisco! Steph! Go to your room.”"
+5,14,0514,14. Sisters in Crime,1,1,1,1,7,Usually fine — about 7+,
+5,15,0515,"15. Play It Again, Jess",1,1,1,1,7,Usually fine — about 7+,
+5,16,0516,16. Crushed,1,1,1,1,7,Usually fine — about 7+,
+5,17,0517,17. Spellbound,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “What? Totally wrong? What--? What was the guns and the thing and the spinning? Jess, it just doesn't have that childlike quality I'm looking for.”"
+5,18,0518,18. Too Much Monkey Business,1,1,1,1,7,Usually fine — about 7+,"Sex & hookups — “Why won't that monkey give me a break? I don't know, but if you talk sexy to her, she'll nibble on your ear.”"
+5,19,0519,19. The Devil Made Me Do It,1,2,1,2,8,Mild — okay from about 8+,Sex & hookups — “I was gonna sleep with the dog.”
+5,20,0520,20. Driving Miss D.J.,1,1,1,1,7,Usually fine — about 7+,"Violence & injury — “Fine, you can have shotgun.”"
+5,21,0521,"21. Yours, Mine and Ours",1,1,1,1,7,Usually fine — about 7+,
+5,22,0522,22. Trouble with Danny,1,1,1,1,7,Usually fine — about 7+,"Nudity & bodies — “Naked? Oh, great, potato chips.”"
+5,23,0523,23. Five's a Crowd,1,1,1,1,7,Usually fine — about 7+,
+5,24,0524,24. Girls Will Be Boys,3,1,1,3,10,Preview first — about 10+,Nudity & bodies — “And there's this rumor going around that Roxanne is stuffing her bra with two-ply paper towels.”
+5,25,0525,25. Captain Video (1),1,1,1,1,7,Usually fine — about 7+,
+5,26,0526,26. Captain Video (2),1,1,1,1,7,Usually fine — about 7+,

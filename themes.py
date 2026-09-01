@@ -227,6 +227,8 @@ THEME_EXCLUSIONS = {
         r"\b(?:go(?:es|ing)?|went|fall(?:s|en|ing)?|fallen)\s+(?:to\s+)?sleep\s+with\b",
         r"\bsleep(?:ing|s)?\s+with\s+(?:everyone|everybody|the\s+(?:fishes|lights|door))\b",
         r"\bput(?:s|ting)?\s+(?:\w+\s+){0,3}to\s+sleep\b",
+        # "make out what swam into our casting nets" — figure out, not hook up.
+        r"\bmake\s+out\s+(?:what|the|a|an|how|if|whether|who|where|when|why)\b",
     ],
     "Nudity & bodies": [
         r"\bnaked eye\b",
@@ -253,16 +255,26 @@ THEME_EXCLUSIONS = {
         r"\bdick\s+cheney\b",
         r"\b(?:mr|mrs|ms|mister|captain|dr)\.?\s+dick\b",
     ],
+    "Affairs / cheating": [
+        r"\bfamily\s+affair\b",
+    ],
     "Violence & injury": [
         r"\bkill(?:ing)? (?:time|the lights|it)\b",
-        r"\bblood (?:orange|relative|brother|sister)\b",
+        r"\bblood (?:orange|relative|brother|sister|line|lines)\b",
+        r"\bbloodlines?\b",
         r"\bgun (?:show|shy|it)\b",
         r"\bstab (?:at it|in the dark)\b",
         r"\bpunch(?:ed|ing)? (?:line|card|bowl|bag)\b",
         # Props, not weapons.
-        r"\b(?:finger|tattoo|glue|nail|staple|water|squirt|pop|potato|grease|spray|t[- ]?shirt)\s+gun\b",
+        r"\b(?:finger|tattoo|glue|nail|staple|water|squirt|pop|potato|grease|spray|t[- ]?shirt|chipping)\s+gun\b",
         r"\bgun\s+(?:it|for it)\b",
         r"\bjumping the gun\b",
+        r"\bbigger\s+guns?\b",
+        r"\bchipping\s+gun\b",
+        r"\bmurder\s+of\s+crows\b",
+        r"\bmurder\s+investigation\b",
+        r"\bbleeding\s+isn'?t\s+in\s+my\s+blood\b",
+        r"\bblood and tears\b",
         r"\bknife (?:and fork|through butter|pleat)\b",
         r"\bbutter knife\b",
     ],
@@ -302,6 +314,14 @@ FALSE_SEX_PHRASE_RES = [
     re.compile(p, re.I) for p in THEME_EXCLUSIONS.get("Sex & hookups", [])
 ]
 
+FALSE_VIOL_PHRASE_RES = [
+    re.compile(p, re.I) for p in THEME_EXCLUSIONS.get("Violence & injury", [])
+]
+
+FALSE_AFFAIR_PHRASE_RES = [
+    re.compile(p, re.I) for p in THEME_EXCLUSIONS.get("Affairs / cheating", [])
+]
+
 # On kids animation, bare clothing words are costume gags unless undress language is nearby.
 MILD_BODY_TRIGGERS = {"underwear", "bra", "panties", "thong", "breasts", "boobs", "cleavage"}
 REAL_UNDRESS_RE = re.compile(
@@ -325,9 +345,19 @@ def scrub_false_sex_phrases(text: str) -> str:
     return out
 
 
+def scrub_false_viol_phrases(text: str) -> str:
+    """Neutralize idioms and prop names before VIOL_PATTERNS weight counting."""
+    out = text
+    for pattern in FALSE_VIOL_PHRASE_RES:
+        out = pattern.sub(" ", out)
+    for pattern in FALSE_AFFAIR_PHRASE_RES:
+        out = pattern.sub(" ", out)
+    return out
+
+
 def scrub_rating_false_positives(text: str) -> str:
     """Apply all keyword-score scrubs used by the raters."""
-    return scrub_false_sex_phrases(scrub_false_swear_names(text))
+    return scrub_false_viol_phrases(scrub_false_sex_phrases(scrub_false_swear_names(text)))
 
 # Curated plot flags raise a floor even when the transcript is thin.
 FLAG_THEMES = {

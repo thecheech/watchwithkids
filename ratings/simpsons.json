@@ -534,16 +534,17 @@
       "url": "https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-02-04",
       "file": "transcripts/simpsons/s01e06-moaning-lisa.txt",
       "summary": null,
-      "violence": 3,
+      "violence": 2,
       "sex": 1,
       "language": 1,
-      "overall": 3,
-      "age": 10,
-      "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on violence & injury (moderate, in dialogue).",
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
-          "Light comedy tone"
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
           "Nudity & bodies",
@@ -3413,16 +3414,17 @@
       "url": "https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-02-04",
       "file": "transcripts/simpsons/s03e01-stark-raving-dad.txt",
       "summary": null,
-      "violence": 3,
+      "violence": 2,
       "sex": 1,
       "language": 2,
-      "overall": 3,
-      "age": 10,
-      "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on violence & injury (moderate, in dialogue).",
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
       "themes": {
         "fine": [
-          "Light comedy tone"
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
           "Nudity & bodies",
@@ -7504,16 +7506,17 @@
       "url": "https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-02-04",
       "file": "transcripts/simpsons/s04e15-i-love-lisa.txt",
       "summary": null,
-      "violence": 3,
+      "violence": 2,
       "sex": 1,
       "language": 1,
-      "overall": 3,
-      "age": 10,
-      "verdict": "Preview first — about 10+",
-      "why": "Sits in the gray area mainly on porn / strippers / sex work (explicit, shown on screen).",
+      "overall": 2,
+      "age": 9,
+      "verdict": "Mild — okay from about 9+",
+      "why": "Scores low: the strongest thing we found is porn / strippers / sex work (explicit, shown on screen).",
       "themes": {
         "fine": [
-          "Light comedy tone"
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
           "Porn / strippers / sex work",
@@ -12967,28 +12970,9 @@
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Sex & hookups",
           "Violence & injury"
         ],
         "watch_detail": [
-          {
-            "theme": "Sex & hookups",
-            "group": "sex",
-            "how": "Bart Simpson: “It's hard to see what's going on. I can only make out the fat soldiers.”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Bart Simpson",
-                "text": "It's hard to see what's going on. I can only make out the fat soldiers.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          },
           {
             "theme": "Violence & injury",
             "group": "violence",
@@ -13042,7 +13026,6 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Bart Simpson: “It's hard to see what's going on. I can only make out the fat soldiers.”",
         "Violence & injury — Edna Krabappel-Flanders: “It's all right, children. Just ignore the murderer.”"
       ],
       "notes": null,
@@ -13523,7 +13506,7 @@
             "theme": "Violence & injury",
             "group": "violence",
             "how": "Homer Simpson: “Kids! Kids! Kids! As far as Daddy's concerned, you're both potential murderers.”",
-            "count": 8,
+            "count": 7,
             "intensity": 3,
             "mode": "dialogue",
             "instances": [
@@ -13582,14 +13565,6 @@
                 "mode": "dialogue",
                 "intensity": 2,
                 "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Technician",
-                "text": "Scan's finished. Now it's gonna narrow it down to the family bloodline.",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "late"
               }
             ]
           },
@@ -15797,8 +15772,8 @@
       "season": 7,
       "episode": 21,
       "code": "0721",
-      "title": "Short Films About Springfield",
-      "index_title": "Short Films About Springfield",
+      "title": "22 Short Films About Springfield",
+      "index_title": "22 Short Films About Springfield",
       "url": "https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-02-04",
       "file": "transcripts/simpsons/s07e21-22-short-films-about-springfield.txt",
       "summary": null,
@@ -37249,19 +37224,11 @@
           {
             "theme": "Sex & hookups",
             "group": "sex",
-            "how": "Roofi: “(TO TUNE OF \"TWINKLE TWINKLE LITTLE STAR\") TICKETS TICKETS BUY THEM NOW / ROOFI HE WILL SHOW YOU HOW / VISA, AMEX, OR MC / OR MAKE OUT A CHECK TO”",
-            "count": 2,
+            "how": "Lindsay Naegle: “I'm gonna tell an anecdote about oral sex... without having to look around.”",
+            "count": 1,
             "intensity": 1,
             "mode": "dialogue",
             "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Roofi",
-                "text": "(TO TUNE OF \"TWINKLE TWINKLE LITTLE STAR\") TICKETS TICKETS BUY THEM NOW / ROOFI HE WILL SHOW YOU HOW / VISA, AMEX, OR MC / OR MAKE OUT A CHECK TO",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              },
               {
                 "kind": "quote",
                 "speaker": "Lindsay Naegle",
@@ -37325,7 +37292,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Sex & hookups — Roofi: “(TO TUNE OF \"TWINKLE TWINKLE LITTLE STAR\") TICKETS TICKETS BUY THEM NOW / ROOFI HE WILL SHOW YOU HOW / VISA, AMEX, OR MC / OR MAKE OUT A CHECK TO”",
+        "Sex & hookups — Lindsay Naegle: “I'm gonna tell an anecdote about oral sex... without having to look around.”",
         "Violence & injury — Crowd: “(BLOODTHIRSTY CHEERS)”"
       ],
       "notes": null,
@@ -48485,8 +48452,8 @@
       "season": 18,
       "episode": 21,
       "code": "1821",
-      "title": "Minutes",
-      "index_title": "Minutes",
+      "title": "24 Minutes",
+      "index_title": "24 Minutes",
       "url": "https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-02-04",
       "file": "transcripts/simpsons/s18e21-24-minutes.txt",
       "summary": null,
