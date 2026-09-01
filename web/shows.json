@@ -96,10 +96,10 @@
     "blurb": "Brooklyn Nine-Nine is an ensemble comedy about a talented-but-carefree detective, a by-the-book police captain and their precinct…",
     "href": "brooklyn-nine-nine.html",
     "mix": {
-      "safe": 10,
+      "safe": 27,
       "maybe": 69,
       "skip": 56,
-      "total": 135
+      "total": 152
     }
   },
   {
@@ -225,10 +225,10 @@
     "blurb": "The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and…",
     "href": "simpsons.html",
     "mix": {
-      "safe": 303,
+      "safe": 309,
       "maybe": 218,
       "skip": 43,
-      "total": 564
+      "total": 570
     }
   },
   {
@@ -252,10 +252,10 @@
     "blurb": "Futurama follows pizza guy Philip J. Fry, who reawakens in 31st century New New York after a cryonics lab accident. Now part of the Planet…",
     "href": "futurama.html",
     "mix": {
-      "safe": 0,
+      "safe": 19,
       "maybe": 111,
       "skip": 30,
-      "total": 141
+      "total": 160
     }
   },
   {
@@ -489,10 +489,10 @@
     "blurb": "Full House follows Danny Tanner, widowed father of three young and rambunctious girls recruits his two buddies--his rock 'n' roller…",
     "href": "full-house.html",
     "mix": {
-      "safe": 112,
+      "safe": 184,
       "maybe": 7,
       "skip": 0,
-      "total": 119
+      "total": 191
     }
   },
   {
@@ -595,10 +595,10 @@
     "blurb": "Rick is a mentally gifted, but sociopathic and alcoholic scientist and a grandfather to Morty; an aw…",
     "href": "rick-and-morty.html",
     "mix": {
-      "safe": 0,
+      "safe": 9,
       "maybe": 6,
       "skip": 76,
-      "total": 82
+      "total": 91
     }
   },
   {

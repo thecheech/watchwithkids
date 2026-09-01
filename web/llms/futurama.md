@@ -1,8 +1,8 @@
-# Futurama — parent guide (141 episodes)
+# Futurama — parent guide (160 episodes)
 
 Source: https://watchwiththekids.com/futurama.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 0 all clear (1–2), 111 gray area (3), 30 hard pass (4–5).
+Buckets: 19 all clear (1–2), 111 gray area (3), 30 hard pass (4–5).
 
 ## S1 E1 — Space Pilot 3000
 URL: https://watchwiththekids.com/ep/futurama/0101.html
@@ -2521,6 +2521,41 @@ Watch for:
   - Leela: “[groans] What a bunch of xenophobes. It's time to find Senator Travers' earth certificate and put an end to this nonsense. Who wants to help me break into the hospital in Kenya?”
   - Fry: “I'll come. As long as there's no xenophobes there.”
 
+## S7 E4 — The Thief of Baghead
+URL: https://watchwiththekids.com/ep/futurama/0704.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Bender joins the paparazzi and attempts to photograph a famous actor whose face has never been seen.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E5 — Zapp Dingbat
+URL: https://watchwiththekids.com/ep/futurama/0705.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Leela is horrified when her mother begins dating Zapp Brannigan.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E6 — The Butterjunk Effect
+URL: https://watchwiththekids.com/ep/futurama/0706.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Amy and Leela join the Butterfly Derby and become addicted to the nutritional supplement Nectar.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E7 — The Six Million Dollar Mon
+URL: https://watchwiththekids.com/ep/futurama/0707.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Fed up with his inferiority to machines, Hermes replaces his body parts with mechanical upgrades.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E8 — Fun on a Bun
+URL: https://watchwiththekids.com/ep/futurama/0708.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Fry is the victim of a horrific sausage-making accident.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
 ## S7 E9 — Free Will Hunting
 URL: https://watchwiththekids.com/ep/futurama/0709.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
@@ -2545,6 +2580,104 @@ Watch for:
   - Bender: “Damn it. I should have paid more attention in kindergarten.”
   - Farnsworth: “I should have destroyed it, but I was too damn proud of myself.”
   - Bender: “Okay, I will. By shooting you, you bastard!”
+
+## S7 E10 — Near-Death Wish
+URL: https://watchwiththekids.com/ep/futurama/0710.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: His parents' return from virtual retirement aboard the Near-Death Star disturbs the Professor.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E11 — Viva Mars Vegas
+URL: https://watchwiththekids.com/ep/futurama/0711.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The crew stages a casino heist to recover stolen property from the Robot Mafia.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E12 — 31st Century Fox
+URL: https://watchwiththekids.com/ep/futurama/0712.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: After saving a robotic fox from hunters, Bender becomes the hunted.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E13 — Naturama
+URL: https://watchwiththekids.com/ep/futurama/0713.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: A nature documentary series focuses on groups of animals that strongly resemble the crew.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E14 — 2-D Blacktop
+URL: https://watchwiththekids.com/ep/futurama/0714.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Professor Farnsworth joins a gang of street-racing punks.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E15 — Fry and Leela's Big Fling
+URL: https://watchwiththekids.com/ep/futurama/0715.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Fry and Leela's romantic vacation goes disturbingly wrong. Title sequence tagline 'Watch it or die trying'.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E16 — T.: The Terrestrial
+URL: https://watchwiththekids.com/ep/futurama/0716.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: After being marooned on a distant planet, Fry befriends a young monster.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E17 — Forty Percent Leadbelly
+URL: https://watchwiththekids.com/ep/futurama/0717.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E18 — The Inhuman Torch
+URL: https://watchwiththekids.com/ep/futurama/0718.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Bender becomes a famous firefighter, but the crew suspects him of arson.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E19 — Saturday Morning Fun Pit
+URL: https://watchwiththekids.com/ep/futurama/0719.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: The Futurama gang stars in a trio of craptastic morning cartoons.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E20 — Calculon 2.0
+URL: https://watchwiththekids.com/ep/futurama/0720.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Bender goes grave robbing to bring his favorite actor back to life.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E21 — Assie Come Home
+URL: https://watchwiththekids.com/ep/futurama/0721.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: Bender searches the universe for his missing shiny, metal rear end.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E22 — Leela and the Genestalk
+URL: https://watchwiththekids.com/ep/futurama/0722.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: A rare condition causes Leela to grow tentacles and she discovers a secret genetic engineering facility because of it.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S7 E23 — Game of Tones
+URL: https://watchwiththekids.com/ep/futurama/0723.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
+Summary: A strange alien melody is threatening to destroy the Earth and the meaning of it is hidden in Fry's dreams.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
 
 ## S7 E24 — Murder on the Planet Express
 URL: https://watchwiththekids.com/ep/futurama/0724.html

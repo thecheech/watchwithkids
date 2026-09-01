@@ -22,7 +22,7 @@
     }
   },
   "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
-  "count": 141,
+  "count": 160,
   "episodes": [
     {
       "season": 1,
@@ -21911,6 +21911,146 @@
     },
     {
       "season": 7,
+      "episode": 4,
+      "code": "0704",
+      "title": "The Thief of Baghead",
+      "index_title": "The Thief of Baghead",
+      "url": null,
+      "file": null,
+      "summary": "Bender joins the paparazzi and attempts to photograph a famous actor whose face has never been seen.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 5,
+      "code": "0705",
+      "title": "Zapp Dingbat",
+      "index_title": "Zapp Dingbat",
+      "url": null,
+      "file": null,
+      "summary": "Leela is horrified when her mother begins dating Zapp Brannigan.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 6,
+      "code": "0706",
+      "title": "The Butterjunk Effect",
+      "index_title": "The Butterjunk Effect",
+      "url": null,
+      "file": null,
+      "summary": "Amy and Leela join the Butterfly Derby and become addicted to the nutritional supplement Nectar.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "code": "0707",
+      "title": "The Six Million Dollar Mon",
+      "index_title": "The Six Million Dollar Mon",
+      "url": null,
+      "file": null,
+      "summary": "Fed up with his inferiority to machines, Hermes replaces his body parts with mechanical upgrades.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 8,
+      "code": "0708",
+      "title": "Fun on a Bun",
+      "index_title": "Fun on a Bun",
+      "url": null,
+      "file": null,
+      "summary": "Fry is the victim of a horrific sausage-making accident.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
       "episode": 9,
       "code": "0709",
       "title": "Free Will Hunting",
@@ -22115,6 +22255,398 @@
       "notes": null,
       "flags": [],
       "source": "heuristic"
+    },
+    {
+      "season": 7,
+      "episode": 10,
+      "code": "0710",
+      "title": "Near-Death Wish",
+      "index_title": "Near-Death Wish",
+      "url": null,
+      "file": null,
+      "summary": "His parents' return from virtual retirement aboard the Near-Death Star disturbs the Professor.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 11,
+      "code": "0711",
+      "title": "Viva Mars Vegas",
+      "index_title": "Viva Mars Vegas",
+      "url": null,
+      "file": null,
+      "summary": "The crew stages a casino heist to recover stolen property from the Robot Mafia.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 12,
+      "code": "0712",
+      "title": "31st Century Fox",
+      "index_title": "31st Century Fox",
+      "url": null,
+      "file": null,
+      "summary": "After saving a robotic fox from hunters, Bender becomes the hunted.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 13,
+      "code": "0713",
+      "title": "Naturama",
+      "index_title": "Naturama",
+      "url": null,
+      "file": null,
+      "summary": "A nature documentary series focuses on groups of animals that strongly resemble the crew.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 14,
+      "code": "0714",
+      "title": "2-D Blacktop",
+      "index_title": "2-D Blacktop",
+      "url": null,
+      "file": null,
+      "summary": "Professor Farnsworth joins a gang of street-racing punks.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 15,
+      "code": "0715",
+      "title": "Fry and Leela's Big Fling",
+      "index_title": "Fry and Leela's Big Fling",
+      "url": null,
+      "file": null,
+      "summary": "Fry and Leela's romantic vacation goes disturbingly wrong. Title sequence tagline 'Watch it or die trying'.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 16,
+      "code": "0716",
+      "title": "T.: The Terrestrial",
+      "index_title": "T.: The Terrestrial",
+      "url": null,
+      "file": null,
+      "summary": "After being marooned on a distant planet, Fry befriends a young monster.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 17,
+      "code": "0717",
+      "title": "Forty Percent Leadbelly",
+      "index_title": "Forty Percent Leadbelly",
+      "url": null,
+      "file": null,
+      "summary": "At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 18,
+      "code": "0718",
+      "title": "The Inhuman Torch",
+      "index_title": "The Inhuman Torch",
+      "url": null,
+      "file": null,
+      "summary": "Bender becomes a famous firefighter, but the crew suspects him of arson.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 19,
+      "code": "0719",
+      "title": "Saturday Morning Fun Pit",
+      "index_title": "Saturday Morning Fun Pit",
+      "url": null,
+      "file": null,
+      "summary": "The Futurama gang stars in a trio of craptastic morning cartoons.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 20,
+      "code": "0720",
+      "title": "Calculon 2.0",
+      "index_title": "Calculon 2.0",
+      "url": null,
+      "file": null,
+      "summary": "Bender goes grave robbing to bring his favorite actor back to life.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 21,
+      "code": "0721",
+      "title": "Assie Come Home",
+      "index_title": "Assie Come Home",
+      "url": null,
+      "file": null,
+      "summary": "Bender searches the universe for his missing shiny, metal rear end.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 22,
+      "code": "0722",
+      "title": "Leela and the Genestalk",
+      "index_title": "Leela and the Genestalk",
+      "url": null,
+      "file": null,
+      "summary": "A rare condition causes Leela to grow tentacles and she discovers a secret genetic engineering facility because of it.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 23,
+      "code": "0723",
+      "title": "Game of Tones",
+      "index_title": "Game of Tones",
+      "url": null,
+      "file": null,
+      "summary": "A strange alien melody is threatening to destroy the Earth and the meaning of it is hidden in Fry's dreams.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
     },
     {
       "season": 7,

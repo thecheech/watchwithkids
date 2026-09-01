@@ -1,8 +1,8 @@
-# Rick and Morty — parent guide (82 episodes)
+# Rick and Morty — parent guide (91 episodes)
 
 Source: https://watchwiththekids.com/rick-and-morty.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 0 all clear (1–2), 6 gray area (3), 76 hard pass (4–5).
+Buckets: 9 all clear (1–2), 6 gray area (3), 76 hard pass (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/rick-and-morty/0101.html
@@ -1918,6 +1918,69 @@ Watch for:
   - bedtime wine. [SLURPS]
   - Toss me a beer.
   - If this is about the beers,
+
+## S8 E2 — Valkyrick
+URL: https://watchwiththekids.com/ep/rick-and-morty/0802.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Space Beth calls her dad for a ride, broh.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E3 — The Rick, The Mort & The Ugly
+URL: https://watchwiththekids.com/ep/rick-and-morty/0803.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Some guys wanna rebuild the citadel, broh. Seems like a bad idea, broh. Yeehaw stuff, broh.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E4 — The Last Temptation of Jerry
+URL: https://watchwiththekids.com/ep/rick-and-morty/0804.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Broh is risen. The Smiths learn the true meaning of Easter. Kind of. Broh.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E5 — Cryo Mort a Rickver
+URL: https://watchwiththekids.com/ep/rick-and-morty/0805.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Broh! Rick and Morty wanna rob a ship in cryosleep. But people are light sleepers, broh.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E6 — The Curicksous Case of Bethjamin Button
+URL: https://watchwiththekids.com/ep/rick-and-morty/0806.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: The brohs goes to a theme park Rick loves. Beth and Space Beth stay behind and regress or something.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E7 — Ricker than Fiction
+URL: https://watchwiththekids.com/ep/rick-and-morty/0807.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E8 — Nomortland
+URL: https://watchwiththekids.com/ep/rick-and-morty/0808.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: That funemployed life, broh. Jerry makes a friend just as jobless as he is.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E9 — Morty Daddy
+URL: https://watchwiththekids.com/ep/rick-and-morty/0809.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Summer and Rick dine OUT, broh. Fancy restaurant stuff. Morty reconnects with someone from his past.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S8 E10 — Hot Rick
+URL: https://watchwiththekids.com/ep/rick-and-morty/0810.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
+Summary: Brohhhhh. Broh. Sometimes we try weird stuff to let go of the past, broh.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
 
 ## S9 E1 — 1. Theres Something About Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0901.html

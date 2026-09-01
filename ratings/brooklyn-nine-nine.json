@@ -22,7 +22,7 @@
     }
   },
   "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
-  "count": 135,
+  "count": 152,
   "episodes": [
     {
       "season": 1,
@@ -26186,6 +26186,482 @@
       "notes": null,
       "flags": [],
       "source": "heuristic"
+    },
+    {
+      "season": 7,
+      "episode": 7,
+      "code": "0707",
+      "title": "Ding Dong",
+      "index_title": "Ding Dong",
+      "url": null,
+      "file": null,
+      "summary": "Captain Holt deals with a personal loss. Jake must decide whether to take Terry or Charles to an exclusive event.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 8,
+      "code": "0708",
+      "title": "The Takeback",
+      "index_title": "The Takeback",
+      "url": null,
+      "file": null,
+      "summary": "Doug Judy is back and this time things between him and Jake are personal. Amy and Charles try to find the perfect new vending machine for the Nine-Nine.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 9,
+      "code": "0709",
+      "title": "Dillman",
+      "index_title": "Dillman",
+      "url": null,
+      "file": null,
+      "summary": "When a prank goes disastrously awry, things at the Nine-Nine take a distinctly Agatha Christie turn.<br />",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 10,
+      "code": "0710",
+      "title": "Admiral Peralta",
+      "index_title": "Admiral Peralta",
+      "url": null,
+      "file": null,
+      "summary": "Jake and his father deal with unsettled family business. Amy and Rosa work a high-profile case. Terry wants to join the NYPD band.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 11,
+      "code": "0711",
+      "title": "Valloweaster",
+      "index_title": "Valloweaster",
+      "url": null,
+      "file": null,
+      "summary": "The squad competes in an effort to determine who is the greatest human/genius.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 12,
+      "code": "0712",
+      "title": "Ransom",
+      "index_title": "Ransom",
+      "url": null,
+      "file": null,
+      "summary": "Holt asks for Jake's help in a case that is exceptionally meaningful to him. Charles and Terry work together on a side business.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 7,
+      "episode": 13,
+      "code": "0713",
+      "title": "Lights Out",
+      "index_title": "Lights Out",
+      "url": null,
+      "file": null,
+      "summary": "The entire squad is on high alert when a massive blackout hits Brooklyn.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 1,
+      "code": "0801",
+      "title": "The Good Ones",
+      "index_title": "The Good Ones",
+      "url": null,
+      "file": null,
+      "summary": "Amy returns from maternity leave. Jake and Rosa work a difficult case.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 2,
+      "code": "0802",
+      "title": "The Lake House",
+      "index_title": "The Lake House",
+      "url": null,
+      "file": null,
+      "summary": "The squad takes up Holt on an offer for a weekend getaway.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 3,
+      "code": "0803",
+      "title": "Blue Flu",
+      "index_title": "Blue Flu",
+      "url": null,
+      "file": null,
+      "summary": "Capt. Holt and Amy manage an understaffed precinct. Jake and Charles investigate.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 4,
+      "code": "0804",
+      "title": "Balancing",
+      "index_title": "Balancing",
+      "url": null,
+      "file": null,
+      "summary": "Jake and Amy create a system to balance work and childcare. Rosa gets a new houseguest.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 5,
+      "code": "0805",
+      "title": "PB & J",
+      "index_title": "PB & J",
+      "url": null,
+      "file": null,
+      "summary": "Jake takes an old friend for a ride.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "code": "0806",
+      "title": "The Set Up",
+      "index_title": "The Set Up",
+      "url": null,
+      "file": null,
+      "summary": "When the FBI takes over a high-profile case, Jake keeps digging. Amy and Rosa negotiate with O'Sullivan and the police union.<br />",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 7,
+      "code": "0807",
+      "title": "Game of Boyles",
+      "index_title": "Game of Boyles",
+      "url": null,
+      "file": null,
+      "summary": "Terry, Jake and Charles visit the Boyle Family Farm. Amy and Rosa help out Capt. Holt.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "code": "0808",
+      "title": "Renewal",
+      "index_title": "Renewal",
+      "url": null,
+      "file": null,
+      "summary": "The squad comes together to work an important high-stakes case.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 9,
+      "code": "0809",
+      "title": "The Last Day (1)",
+      "index_title": "The Last Day (1)",
+      "url": null,
+      "file": null,
+      "summary": "The squad take stock of their eight years together and look toward their future.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
+    },
+    {
+      "season": 8,
+      "episode": 10,
+      "code": "0810",
+      "title": "The Last Day (2)",
+      "index_title": "The Last Day (2)",
+      "url": null,
+      "file": null,
+      "summary": "The squad take stock of their eight years together and look toward their future.",
+      "violence": 1,
+      "sex": 2,
+      "language": 2,
+      "overall": 2,
+      "age": 11,
+      "verdict": "Mild — okay from about 11+",
+      "why": "No transcript available — default moderate rating applied.",
+      "themes": {
+        "fine": [],
+        "watch": [
+          "Default rating (no transcript)"
+        ],
+        "watch_detail": []
+      },
+      "examples": [],
+      "notes": "No transcript available",
+      "flags": [],
+      "source": "tvmaze-only"
     }
   ]
 }

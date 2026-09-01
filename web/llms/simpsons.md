@@ -1,8 +1,8 @@
-# The Simpsons — parent guide (564 episodes)
+# The Simpsons — parent guide (570 episodes)
 
 Source: https://watchwiththekids.com/simpsons.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 303 all clear (1–2), 218 gray area (3), 43 hard pass (4–5).
+Buckets: 309 all clear (1–2), 218 gray area (3), 43 hard pass (4–5).
 
 ## S1 E1 — Simpsons Roasting on an Open Fire
 URL: https://watchwiththekids.com/ep/simpsons/0101.html
@@ -7745,3 +7745,45 @@ Watch for:
   - Ned Flanders: “Why, I bet the Lord is pleased as punch that we're using that dirty casino money to rebuild his temple. Our mission is one hundred percent pure.”
 - Alcohol & drugs — 1 moment(s)
   - COCKTAIL WAITRESSES: “Freshen your drink, hon? / Who had the scotch and soda? / Cocktails! Cocktails! / Another one hon?”
+
+## S26 E17 — Waiting for Duffman
+URL: https://watchwiththekids.com/ep/simpsons/2617.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Duffman undergoes hip replacement surgery and retires, the company sets up a reality show competition to find his replacement. Homer wins the competition, and because the job requires him to stay sober, he learns that beer isn't as necessary as he thought to have a good time.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S26 E18 — Peeping Mom
+URL: https://watchwiththekids.com/ep/simpsons/2618.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bart lies about being involved in a bulldozer crash, so Marge decides to follow him everywhere until he confesses. Meanwhile, Homer ignores Santa's Little Helper when Flanders gets a new dog.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S26 E19 — The Kids Are All Fight
+URL: https://watchwiththekids.com/ep/simpsons/2619.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Homer gets an old film roll developed, the family takes a trip down memory lane to see the origins of how Bart and Lisa first started fighting with each other. <b>Blackboard: </b>'I will not pay my sister to do my punishment'.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S26 E20 — Let's Go Fly a Coot
+URL: https://watchwiththekids.com/ep/simpsons/2620.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The Simpsons learn about Grampa's days in the Air Force, and Bart takes up smoking to impress Milhouse's Dutch cousin, Annika,.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S26 E21 — Bull-E
+URL: https://watchwiththekids.com/ep/simpsons/2621.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After Bart gets bullied at the school dance, Marge convinces the town to pass anti-bullying legislation. Homer then gets arrested and sent to rehab for bullying Ned Flanders, only to subsequently leave rehab as a hero.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
+
+## S26 E22 — Mathlete's Feat
+URL: https://watchwiththekids.com/ep/simpsons/2622.html
+Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When a modernized Springfield Elementary has a technical meltdown, Lisa transforms it into a Waldorf school. Meanwhile, Groundskeeper Willie becomes the coach of the mathletes.
+Watch for:
+- Default rating (no transcript) — 1 moment(s)
