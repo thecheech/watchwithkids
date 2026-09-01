@@ -71,7 +71,6 @@
   els.disclaimer.textContent =
     "👋 Fun family guide, not an official rating. Your kids — your rules!";
 
-<<<<<<< HEAD
   function readStateFromUrl() {
     const params = new URLSearchParams(location.search);
     return {
@@ -106,13 +105,6 @@
   }
 
   syncVibeButtons();
-=======
-  els.vibeBtns.forEach((btn) => {
-    const active = btn.dataset.bucket === bucket;
-    btn.classList.toggle("is-active", active);
-    btn.setAttribute("aria-pressed", active ? "true" : "false");
-  });
->>>>>>> 46692c9ac (accessibility: Add comprehensive a11y improvements)
 
   const seasons = [...new Set(data.episodes.map((e) => e.season))].sort((a, b) => Number(a) - Number(b));
   for (const s of seasons) {
@@ -735,11 +727,13 @@
     els.list.innerHTML = visible.map((ep, i) => renderCard(ep, i)).join("");
     renderListPager(filtered.length, pages, start);
 
-    // The crawlable full index under the live list never respects filters —
-    // hide it whenever the interactive list is narrowed so it doesn't look broken.
+    // Crawlable episode index stays in HTML for no-JS/bots; hide it once the card list runs.
+    document.querySelectorAll(".ep-index").forEach((el) => {
+      el.hidden = true;
+    });
     const narrowed =
       season !== "all" || Boolean(q) || bucket !== "all" || selectedThemes.size > 0;
-    document.querySelectorAll(".ep-index, .seo-copy").forEach((el) => {
+    document.querySelectorAll(".seo-copy").forEach((el) => {
       el.hidden = narrowed;
     });
 
@@ -810,16 +804,8 @@
   els.vibeBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
       bucket = btn.dataset.bucket;
-<<<<<<< HEAD
       syncVibeButtons();
       writeStateToUrl();
-=======
-      els.vibeBtns.forEach((b) => {
-        const active = b === btn;
-        b.classList.toggle("is-active", active);
-        b.setAttribute("aria-pressed", active ? "true" : "false");
-      });
->>>>>>> 46692c9ac (accessibility: Add comprehensive a11y improvements)
       apply({ resetPage: true });
       window.scrollTo({ top: els.list.offsetTop - 24, behavior: "smooth" });
     });
