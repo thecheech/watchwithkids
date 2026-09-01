@@ -367,7 +367,7 @@ Watch for:
   - [Mild] “, But we should feed each other falafel In our underwear-- okay.”
 - Violence & injury — 1 moment(s)
   - [Moderate] “They have a combined This morning I found scully's gun In the freezer, in the frozen yogurt.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Later, sluts.”
 
 ## S1 E18 — 18. The Apartment
@@ -513,7 +513,7 @@ Watch for:
   - [Mild] “What the hell, Boyle? What the hell happened? I-I-I was stressed about hitting you, and my mind disassociate from my body.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What is this? It's champagne mixed with and top-shelf Tequila.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I don't wanna be known as the office slut.”
 
 ## S2 E2 — 2. Chocolate Milk
@@ -1069,7 +1069,7 @@ Watch for:
   - [Mild] “You're a detective! Get out of here! Go! Sir, Jake really pissed me off, and I want to help you take him down.”
   - [Mild] “Damn, Rosa! Where'd you get that? The scorpion has left the nest.”
   - [Mild] “Damn it, nothing but a surprisingly toned set of abs.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Bye-bye, whore.”
 
 ## S3 E6 — 6. Into The Woods
@@ -1449,7 +1449,7 @@ Watch for:
   - [Mild] “Look: a body! - We got a body! - Damn it! He's dead.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “We'll head to the bar, get super drunk, and then head home and get some sleep.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “The best episode that year was episode six, entitled "Are We Sluts?" You know the one.”
 
 ## S3 E23 — 23. Greg and Larry
@@ -1524,7 +1524,7 @@ Watch for:
   - [Moderate] “Put that gun down, or he dies.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “I do a lot of meth.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Terry feels like a whore.”
 
 ## S4 E4 — 4. The Night Shift
@@ -1574,7 +1574,7 @@ Watch for:
   - [Mild] “Show your face to the world! What the hell? Amy! [gasps.]”
   - [Mild] “Damn it! You know what? Forget Terry.”
   - [Mild] “You read the plans, addenda and all! Damn right, I did.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Whore, I'm great on skates.”
 
 ## S4 E6 — 6. Monster in the Closet
@@ -1865,7 +1865,7 @@ Watch for:
   - [Mild] “Golden Gang? Damn.”
   - [Mild] “I hate that crap.”
   - [Mild] “Look, I know it sucks there's only one spot, but working for Hawkins is my dream.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Every Sunday after church, Scully and I have dinner together at Wing Sluts.”
 
 ## S4 E21 — 21. The Bank Job
@@ -1891,7 +1891,7 @@ Watch for:
   - [Explicit] “We can make fake cocaine for ourselves - out of vitamin B powder.”
   - [Mild] “If she gets wasted, maybe she'll get sloppy and start talking.”
   - [Mild] “It's called a bottle of whiskey.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Why do you even own that? I was banned from Wing Sluts for using too much sauce, so I got it to sneak past the hostess.”
 
 ## S4 E22 — 22. Crime & Punishment
@@ -1961,7 +1961,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Explicit] “I was worried you were still a cop, but what kind of cop does that much meth? Well, no, no, not meth.”
   - [Explicit] “Yeah, that's meth.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I was cheating on her with a waitress from Wing Sluts named Jamie-Lynn.”
 
 ## S5 E3 — 3. Kicks
@@ -2010,7 +2010,7 @@ Watch for:
   - [Mild] “You're all so damn smug.”
   - [Mild] “Damn it, you know me so well.”
   - [Mild] “I guess my response is, - rot in hell, crap-face! - [GASPS.]”
-- Slut-shaming — 4 moment(s)
+- Sexual insults — 4 moment(s)
   - [Moderate] “Yeah, you guys may be champs, but this year this year belongs to The Tramps.”
   - [Moderate] “Let's go, Tramps.”
   - [Moderate] “Oh, nothing can stop this Tramp train.”
@@ -2067,7 +2067,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I designed you a signature cocktail.”
   - [Mild] “You're Valerie? Ah, I can't believe I actually wasted my sweet dong snaps on you bozos.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Let's go talk to that spineless skank.”
 
 ## S5 E7 — 7. Two Turkeys
@@ -2098,7 +2098,7 @@ Watch for:
   - [Mild] “The wine is in the fridge.”
   - [Mild] “Who wants more wine? No, no, no, no, no more for me.”
   - [Mild] “Do you think if I got my parents drunk every day when I was a kid they would have stayed together and we would have had a happy family? - Probably.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “My dad's a selfish drunken slut - and my mom's a flighty weirdo.”
 
 ## S5 E8 — 8. Return to Skyfire
@@ -2311,7 +2311,7 @@ Watch for:
   - [Mild] “So, what are you drinking? I'll have a margarita.”
   - [Mild] “But, like, a skinny margarita.”
   - [Mild] “So, like, tequila, lime, and a tiny splash of agave.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “What's that now? - One more time? You think I'm gonna let my skank parole officer stand in the way of true love? Kurt! He seems like a cool guy.”
 
 ## S5 E18 — 18. Gray Star Mutual
@@ -2464,7 +2464,7 @@ Watch for:
   - [Explicit] “Okay, so you know that meth case I've been working on for the last two months? The Department of Sanitation police want to poach it from me, because the drugs were found in a dumpster.”
   - [Mild] “Margarita? - Yes, I would love one.”
   - [Mild] “How dare you call Jake selfish? He just wasted his entire honeymoon trying to take care of you while you wallowed in your misery like a little baby.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Is the pineapple the slut, or is it calling someone else a slut? Clearly the pineapple is the slut.”
 
 ## S6 E2 — 2. Hitchcock & Scully
@@ -2486,7 +2486,7 @@ Watch for:
   - [Moderate] “But my gut tells me there's a smoking gun in here.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “We were working organized crime, and we took down a mafia boss, Gio Costa, for running cocaine.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “You guys go all the way down to Marine Park for wings? There's a waitress there who always gives us an extra drumstick - in our slut bucket.”
   - [Moderate] “Yeah, we never spoke, but if she put an extra wing in our slut bucket, it meant everything was okay.”
 
@@ -2584,7 +2584,7 @@ Watch for:
   - [Explicit] “You can either have them murdered - Not an option.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Cocktail napkin from my first date with Genevieve, joy.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] So looks like Operation: “Nasty is a full-on success, huh? You mean Operation: Nasty Sex Slut.”
 
 ## S6 E8 — 8. He Said, She Said
@@ -2964,5 +2964,5 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I might as well fill it with booze.”
   - [Mild] “" Yeah, pretty hungover.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Explicit] “They're just very sexual creatures, and we didn't want to slut-shame them.”

@@ -2230,7 +2230,7 @@
       "overall": 2,
       "age": 10,
       "verdict": "Mild — okay from about 10+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Workplace comedy",
@@ -2239,7 +2239,7 @@
         ],
         "watch": [
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -2261,7 +2261,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Kelly: “[to Jim] Oh, long-term, definitely. Fall in love, have babies, spend every second together... but don't tell him that, okay? Just tell him I'm, like, up for anything. I mean, I'm not a slut, but who knows?”",
             "count": 1,
@@ -2314,7 +2314,7 @@
       },
       "examples": [
         "Violence & injury — Creed: “[after Michael punches him in the arm] What did you hit me for? Michael: Charley horse! Creed: What? Michael: Charley horse! Creed: You shouldn't have hit me, Michael. Michael: Oh, okay. Gah.”",
-        "Slut-shaming — Kelly: “[to Jim] Oh, long-term, definitely. Fall in love, have babies, spend every second together... but don't tell him that, okay? Just tell him I'm, like, up for anything. I mean, I'm not a slut, but who knows?”"
+        "Sexual insults — Kelly: “[to Jim] Oh, long-term, definitely. Fall in love, have babies, spend every second together... but don't tell him that, okay? Just tell him I'm, like, up for anything. I mean, I'm not a slut, but who knows?”"
       ],
       "notes": null,
       "flags": [],
@@ -2345,7 +2345,7 @@
           "Sex & hookups",
           "Violence & injury",
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -2427,7 +2427,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Angela: “And, apparently, judging from her outfit, Jan aspires to be a whore.”",
             "count": 1,
@@ -2453,7 +2453,7 @@
         "Sex & hookups — Michael: “Is it good to be back. Yeah. I mean I love the guy stuff but to run an office you need men and women. You know why? Because you need to have that crazy sexual tension to keep things interesting.”",
         "Violence & injury — “Dwight & Roy: [at the same time] Guns.”",
         "Swearing — Michael: “Hey. Um... look guys, I'm sorry. Sometimes Jan can be such a bitch. All the Men: Generalized mumbling agreement. Yeah. Michael: Hey, watch it, watch it. We have a relationship.”",
-        "Slut-shaming — Angela: “And, apparently, judging from her outfit, Jan aspires to be a whore.”"
+        "Sexual insults — Angela: “And, apparently, judging from her outfit, Jan aspires to be a whore.”"
       ],
       "notes": null,
       "flags": [],
@@ -3402,7 +3402,7 @@
           "Violence & injury",
           "Swearing",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -3528,7 +3528,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Angela: “In the Martin family, we like to say, \"Looks like someone took the slow train from Philly.\" That's code for \"check out the slut.\" What is... why are there flies in here?”",
             "count": 1,
@@ -3556,7 +3556,7 @@
         "Violence & injury — Michael: “What are those stains? Dwight: Blood, urine, or semen.”",
         "Swearing — Creed: “Angela: That town is full of history! Creed: Andrea's the office bitch.”",
         "Alcohol & drugs — Michael: “It is a booze-fueled sex romp, where anything goes.”",
-        "Slut-shaming — Angela: “In the Martin family, we like to say, \"Looks like someone took the slow train from Philly.\" That's code for \"check out the slut.\" What is... why are there flies in here?”"
+        "Sexual insults — Angela: “In the Martin family, we like to say, \"Looks like someone took the slow train from Philly.\" That's code for \"check out the slut.\" What is... why are there flies in here?”"
       ],
       "notes": null,
       "flags": [],
@@ -5433,7 +5433,7 @@
           "Violence & injury",
           "Suicide & self-harm",
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -5557,7 +5557,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Michael: “Dwight, you ignorant slut. Depression is a very serious illness. Over 32 thousand people commit suicide every year! According to a 2004 study!”",
             "count": 2,
@@ -5592,7 +5592,7 @@
         "Violence & injury — Andy: “[cut to shot of Andy punching a hole in the wall] But after five weeks in Anger Management, I'm back.”",
         "Suicide & self-harm — Michael: “Working in an office can lead to depression. Which can lead to suicide. I mean this is really serious stuff.”",
         "Swearing — Lonny: “Yeah, that dim light is a bitch, ain't it?”",
-        "Slut-shaming — Michael: “Dwight, you ignorant slut. Depression is a very serious illness. Over 32 thousand people commit suicide every year! According to a 2004 study!”"
+        "Sexual insults — Michael: “Dwight, you ignorant slut. Depression is a very serious illness. Over 32 thousand people commit suicide every year! According to a 2004 study!”"
       ],
       "notes": null,
       "flags": [],
@@ -8358,7 +8358,7 @@
         "watch": [
           "Sex & hookups",
           "Nudity & bodies",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -8422,7 +8422,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Michael: “Meredith, why don't you tell Holly... it's not what she thinks. Nothing unethical happened... and that you just like to sleep around.”",
             "count": 1,
@@ -8447,7 +8447,7 @@
       "examples": [
         "Sex & hookups — Dwight: “[raises hand] She's not a virgin, you know.”",
         "Nudity & bodies — Michael: “No, it's more of a underwear garment that has little spikes like made of, sometimes they are made of metal.”",
-        "Slut-shaming — Michael: “Meredith, why don't you tell Holly... it's not what she thinks. Nothing unethical happened... and that you just like to sleep around.”"
+        "Sexual insults — Michael: “Meredith, why don't you tell Holly... it's not what she thinks. Nothing unethical happened... and that you just like to sleep around.”"
       ],
       "notes": null,
       "flags": [],
@@ -11434,7 +11434,7 @@
           "Suicide & self-harm",
           "Alcohol & drugs",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -11526,7 +11526,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Rolph: “I don't hear cheaters, tramps, or women who break my friend's heart. Let's go!”",
             "count": 2,
@@ -11561,7 +11561,7 @@
         "Suicide & self-harm — Holly: “For two hundred and fifty dollars, how did he kill himself?”",
         "Alcohol & drugs — Jim: “Oh, right, some drunk guy hit on Pam last year. Said he was grabbing her for balance.”",
         "Fat-shaming — Michael: “All right, fatty. I will do it. You know what, we should actually rehearse.”",
-        "Slut-shaming — Rolph: “I don't hear cheaters, tramps, or women who break my friend's heart. Let's go!”"
+        "Sexual insults — Rolph: “I don't hear cheaters, tramps, or women who break my friend's heart. Let's go!”"
       ],
       "notes": null,
       "flags": [],
@@ -12039,7 +12039,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -12195,7 +12195,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Michael: “And I know in your day she would be considered a whore but, now, women go out and they have sex and they get wild and they take their tops off and they have pictures taken of them and we need to encouage them.”",
             "count": 1,
@@ -12243,7 +12243,7 @@
         "Nudity & bodies — Explicit body / sex-act language appears in dialogue.",
         "Violence & injury — Jim: “Michael, I thought we discussed that we would rather you not speak, like, at all. Because it's just going to be blood relatives, I think.”",
         "Alcohol & drugs — Andy: “Except $40 for beer and any hot chicks you know.”",
-        "Slut-shaming — Michael: “And I know in your day she would be considered a whore but, now, women go out and they have sex and they get wild and they take their tops off and they have pictures taken of them and we need to encouage them.”"
+        "Sexual insults — Michael: “And I know in your day she would be considered a whore but, now, women go out and they have sex and they get wild and they take their tops off and they have pictures taken of them and we need to encouage them.”"
       ],
       "notes": null,
       "flags": [
@@ -17651,7 +17651,7 @@
         "watch": [
           "Nudity & bodies",
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -17739,7 +17739,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Jordan: “Dwight? Deangelo wanted me to ask you if there's anything I can help you with. Dwight: Really? Anything. Jordan: Do you need anything? Dwight: Deangelo, tell your whore to leave me alone.”",
             "count": 1,
@@ -17764,7 +17764,7 @@
       "examples": [
         "Nudity & bodies — Explicit body / sex-act language appears in dialogue.",
         "Swearing — Kevin: “That sounds like Pam. You know how she gets. Deangelo, she can get really bitchy. [begins bad imitation of Pam] Kevin...”",
-        "Slut-shaming — Jordan: “Dwight? Deangelo wanted me to ask you if there's anything I can help you with. Dwight: Really? Anything. Jordan: Do you need anything? Dwight: Deangelo, tell your whore to leave me alone.”"
+        "Sexual insults — Jordan: “Dwight? Deangelo wanted me to ask you if there's anything I can help you with. Dwight: Really? Anything. Jordan: Do you need anything? Dwight: Deangelo, tell your whore to leave me alone.”"
       ],
       "notes": null,
       "flags": [
@@ -20836,7 +20836,7 @@
           "Sex & hookups",
           "Violence & injury",
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -20910,7 +20910,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Dwight: “you people should be ashamed of yourselves! How many courses did we have tonight, two? Three maybe, if you choose the pudding? I mean what waste! these tables tarted up like Victorian whores!”",
             "count": 1,
@@ -20965,7 +20965,7 @@
         "Sex & hookups — Angela: “Andy: Hello! Did anyone order a blast from the past, with a side order of sexy?”",
         "Violence & injury — Nellie: “I knew this would happen! Everybody told me if I moved to America, I'd be murdered.”",
         "Swearing — Andy: “Hello everyone, I am Andy Bernard and I am going to take that bitch home!”",
-        "Slut-shaming — Dwight: “you people should be ashamed of yourselves! How many courses did we have tonight, two? Three maybe, if you choose the pudding? I mean what waste! these tables tarted up like Victorian whores!”"
+        "Sexual insults — Dwight: “you people should be ashamed of yourselves! How many courses did we have tonight, two? Three maybe, if you choose the pudding? I mean what waste! these tables tarted up like Victorian whores!”"
       ],
       "notes": null,
       "flags": [],
@@ -23956,7 +23956,7 @@
       "overall": 2,
       "age": 10,
       "verdict": "Mild — okay from about 10+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Workplace comedy",
@@ -23965,7 +23965,7 @@
         ],
         "watch": [
           "Nudity & bodies",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -23995,7 +23995,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Angela: “I had a chance with Dwight, but I didn't take it. And if I went back now, when I'm broke and he just inherited a farm, I'd be one of those gold-digging tramps you read about that try to bag a farmer.”",
             "count": 1,
@@ -24019,7 +24019,7 @@
       },
       "examples": [
         "Nudity & bodies — Andy: “I'm not comfortable doing my own stunts. I'll get nude if you want me to, I'll go full Lena Dunham but I”",
-        "Slut-shaming — Angela: “I had a chance with Dwight, but I didn't take it. And if I went back now, when I'm broke and he just inherited a farm, I'd be one of those gold-digging tramps you read about that try to bag a farmer.”"
+        "Sexual insults — Angela: “I had a chance with Dwight, but I didn't take it. And if I went back now, when I'm broke and he just inherited a farm, I'd be one of those gold-digging tramps you read about that try to bag a farmer.”"
       ],
       "notes": null,
       "flags": [],

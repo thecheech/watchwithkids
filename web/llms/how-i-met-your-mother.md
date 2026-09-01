@@ -227,7 +227,7 @@ Watch for:
   - [Mild] “And come Saturday, little music, little dancing, a lot of champagne.”
   - [Mild] “That's just That's Two vodka cranberries, please.”
   - [Mild] “You remembered I drink vodka cranberries.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “This morning at the rehearsal, Claudia called our 7-year-old flower girl a whore.”
 
 ## S1 E13 — 13. Drumroll, Please
@@ -271,7 +271,7 @@ Watch for:
   - [Moderate] “Mother! (GUNS FIRING) Damn.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “How about a little more wine? - I'll get another bottle.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I was this close to being a huge slut.”
   - [Moderate] “Slut would have been better.”
 
@@ -292,7 +292,7 @@ Watch for:
   - [Mild] OLDER TED: “Kids, I tell you a lot of inappropriate stories, but there's no way in hell I'm telling you this one.”
   - [Mild] “Oh, crap! My mom sent cookies? Yeah.”
   - [Mild] “To one hell of a night! (ALL LAUGHING) TED: And I drank.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Oh, slut-alert! Oh, great, there it is.”
 
 ## S1 E16 — 16. Cupcake
@@ -365,7 +365,7 @@ Watch for:
   - [Mild] “Look, a beer.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “You wanna judge a fellow human being based solely on one external characteristic? That's racism.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Moron in my face? Oh, and Paralegally Blonde isn't here in her low-cut dress to make me jealous? Oh, so now she's a whore? - What? - You know something? Mary the paralegal is awesome.”
   - [Moderate] “So the message is, I should treat every woman like a whore? Come on, dude.”
 
@@ -384,7 +384,7 @@ Watch for:
   - [Mild] “Once you're married, if we go out, and you get so drunk you throw up, it'll be sad, but if we do it tonight, it'll be less sad.”
   - [Mild] “…and what kind of wedding band would you be if you couldn't play our song, right? Right? Look, I'm kind of wasted right now, so I didn't understand any of that.”
   - [Mild] “I hated my dress, my date got wasted and puked on me, there was a huge fight, and I kissed a girl.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “…(SHUSHING) Sweetie, just focus on one thing at a time, okay? Right now, you just have to dress like a whore and that's it.”
   - [Moderate] “Now, ladies, slut up.”
   - [Moderate] “They grow up into skanks so fast, don't they, Ted? - So, what, we ready for tonight? - Yeah.”
@@ -448,7 +448,7 @@ Watch for:
   - [Mild] “And I will punch you in the face.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Are we still talking about her pancakes? Come on, you got to eat something; what can I get you? - Beer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “What a perfect place to whore around.”
 
 ## S2 E2 — 2. The Scorpion and the Toad
@@ -506,7 +506,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “By night, however Damn, these are some drunk almost-lawyers.”
   - [Mild] “Then freakin' rage! Yeah! Hey, drunk legal dude, um have you seen Marshall Ericksen? He was with a guy named Ted.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Now where does the rodeo slut live? The building with the green light, apartment 3-C.”
 
 ## S2 E5 — 5. World's Greatest Couple
@@ -621,7 +621,7 @@ Watch for:
   - [Mild] “Last time James was in town, Barney got slapped once, lucky twice, and whose penthouse hot tub did you end up in? Ah, public figure, confidentiality agreement.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Two beers, one shot.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Damn baby, nice tramp stamp! - Get off me, you pig! - Hey! Hey! Her body art is not an invitation to grope her, it's an expression of her inner self.”
 
 ## S2 E11 — 11. How Lily Stole Christmas
@@ -636,7 +636,7 @@ Watch for:
   - [Moderate] “Yeah, and after all that weed.”
   - [Mild] “In college, whenever I wanted to make up with her, I'd buy her a beer.”
   - [Mild] “Actually the beer helped a little.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I'm telling you, she's a laugh slut.”
 
 ## S2 E12 — 12. First Time in New York
@@ -656,7 +656,7 @@ Watch for:
   - [Moderate] “He could've cheated on me with my lab partner Gretchen Gwynn, but he didn't.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “He's 23, kind of a wad, but he buys me beer, so That's cool.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “No, it shows that you're an I-love-you slut.”
   - [Moderate] “But, you know, I'm such a slut, I'm just gonna give it away.”
 
@@ -710,7 +710,7 @@ Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - [Explicit] Stripper or strip-club material shows up in the plot.
   - [Explicit] “It was for a strip club.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Why is this such a big deal? Because I don't want to use some whore's moisturizer! Whoa, she wasn't a whore.”
   - [Moderate] “It sounds like a whore to me.”
 
@@ -829,7 +829,7 @@ Watch for:
   - [Explicit] “Do you ask your tailor to leave extra room in the crotch for your huge vagina? You your vagina Ted, this chick is crazy.”
   - [Mild] “Right boob bigger than the left boob, which some choose to look at as bra half empty, I choose to look at as bra half full.”
   - [Mild] “Weren't you wearing a bra? The night was going great.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “That, dear boy, is a tramp stamp.”
   - [Moderate] “A tramp stamp.”
 
@@ -875,7 +875,7 @@ Watch for:
   - [Mild] “I'm talking to beer.”
   - [Mild] “I was super-wasted That night These are not all for me.”
   - [Mild] “I couldn't find your coats, but I did find tequila.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Are they Betas? Because they're all sluts, and you can tell them right now I didn't want to be in their sorority anyway.”
   - [Moderate] “All sorority girls are sluts.”
 
@@ -943,7 +943,7 @@ Watch for:
   - [Mild] “Who do you think bought us this wine.”
   - [Mild] “I was drunk, and it was a haze of cigars and scotch and Swayze, and they offered me, like, like, like, like, a lot of money.”
   - [Mild] “Okay, two beers, and Ted, here's that yellow legal pad you asked for.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Yeah, and I'm sure complete accuracy in all those details was very important to the directors "Dirt and Skank, The Raunch Brothers.”
 
 ## S3 E7 — 7. Dowisetrepla
@@ -1043,7 +1043,7 @@ Watch for:
   - [Mild] “And say we want to have a dinner party exploring the wine and cuisine of France's Loire Valley? We just go across the hall.”
   - [Mild] “Hey, Wendy, uh, do me a favor and send a glass of champagne to that pretty young thing over there.”
   - [Mild] “Champagne? Would you? On me.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “That, dear boy, is a tramp stamp.”
   - [Moderate] “A tramp stamp.”
 
@@ -1079,7 +1079,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “So I'm guessing that the real story involves a bad breakup and some booze.”
   - [Mild] “Who knows what she'll want then? Do you know what you're going to want for lunch ten weeks from now? Sloppy Joe, shrimp cocktail and a milk shake.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Ah, the butterfly tramp stamp.”
 
 ## S3 E14 — 14. The Bracket
@@ -1109,7 +1109,7 @@ Watch for:
   - [Moderate] “Then why are you still in my office? Okay, gun violence might be the answer to everything up in Canada, Robin, but here in America, we solve our problems with words.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Are you okay? Beer.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Your mom's a slut! Yes.”
   - [Moderate] “Your mom's a slut, and I'm sorry, Barney, but you and your brother clearly have different fathers, And you know why? It's probably because your mom is a slutty slut! - Keep going.”
 
@@ -1133,7 +1133,7 @@ Watch for:
   - [Mild] “I've wasted three days tr What's the matter? Simon dumped me in his van after the show.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “I'm hoping my fat ass can hustle me up a vodka-Gatorade.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Louise Marsh?! That's a whore's name if I ever heard one.”
 
 ## S3 E17 — 17. The Goat
@@ -1169,7 +1169,7 @@ Watch for:
   - [Mild] “Look, I realize it's weird, okay? Not many people go five years without having sex.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Ted, you're staring at my boobs.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Haley, you are a fat ugly whore.”
 
 ## S3 E19 — 19. Everything Must Go
@@ -1299,7 +1299,7 @@ Watch for:
   - [Mild] “GET HER DRUNK AT TED'S WEDDING - So you're back on Robin.”
   - [Mild] “The first drunk bridesmaid you see, you'll have your head under her dress like an old-time photographer.”
   - [Mild] “I wasted years trying to get Lucy's dad to decide if he was ready for this.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I hear you're a real man whore, so listen up.”
 
 ## S4 E6 — 6. Happily Ever After
@@ -1361,7 +1361,7 @@ Watch for:
   - [Mild] “What show? And then, we throw crumpled up beer cans at pigeons.”
   - [Mild] “Let's get a nice daytime drunk going, And throw empties at pigeons.”
   - [Mild] “get it? In america, When we work late, We lie about a conference call, And we come up here and we drink a few beers.”
-- Slut-shaming — 4 moment(s)
+- Sexual insults — 4 moment(s)
   - [Moderate] “I love this song! Come on, you lazy skanks, let's dance! You, too, you dumb whores.”
   - [Moderate] “push-ups! Misty, you are such a slut.”
   - [Moderate] “You're the slut, you skank.”
@@ -1395,7 +1395,7 @@ Watch for:
   - [Moderate] “The tie alone Get out of here right now! Get out,you sick son of a bitch! Call me.”
   - [Mild] “Man,ts whole "one-partner" thing sucks sometimes.”
   - [Mild] “Crap! Here we go.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I call "slut!" Slut?! Oh?! Oh! Excuse me? I'm sorry,Robin,but you hooking up with this guy makes it seem like the only thing standing between you and sex is clothes.”
   - [Moderate] “" : Slut! I dot do it.”
 
@@ -1513,7 +1513,7 @@ Watch for:
   - [Mild] “Asian with some boob.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Seriously? But they're blonde and drunk.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Yeah, I was a bit of a whore.”
   - [Moderate] “Excuse me? A whore, dear.”
 
@@ -1571,7 +1571,7 @@ Watch for:
   - [Mild] “We're totally awesome! So whoever you marry, whoever joins Team Awesome, the bar is set pretty damn high.”
   - [Mild] “Did you break me and Robin up? - You're damn right I did! Marshall, your grandpa Olaf was a wise man.”
   - [Mild] “And I realized, maybe it shouldn't matter what my friends think of my girlfriend, but it sure as hell matters what my girlfriend thinks of my friends.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And if it did,and I didn't look my absolute best for those greasy sluts, I'd regret it forever.”
 
 ## S4 E18 — 18. Old King Clancy
@@ -1726,7 +1726,7 @@ Watch for:
   - [Explicit] “You kill me off? I mean, fantasize about other girls all you want, but could you maybe not murder me? Murder? No! I Baby, no.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “So, if you need me, I'll be getting grinded like some pepper in the champagne room.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Did one of your whores tell you that? And, Lil, Marshall shouldn't have to go to so much trouble just to have an innocent fantasy.”
 
 ## S5 E3 — 3. Robin 101
@@ -1758,7 +1758,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Sorry to have wasted your time.”
   - [Mild] “Designed by Chicago's Daniel Burnham in the Beaux-Arts style, this architectural gem was the first of its kind - Professor Mosby? - Yes, Susan? That's a woman drinking beer on the toilet.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I knew there was a skank, but I thought she'd at least be dumb.”
 
 ## S5 E4 — 4. The Sexless Innkeeper
@@ -1916,7 +1916,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “" Is that equal parts vodka and get-the-hell-out-of-my-face? Hey, Bobby! OLDER TED: Later that night, I embarked upon a very important first date.”
   - [Mild] “But it also says, "Don't teach drunk," and I do that all the time.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “She's a whore.”
 
 ## S5 E13 — 13. Jenkins
@@ -1993,7 +1993,7 @@ Watch for:
   - [Mild] “Champagne? - Ted! Oh, my gosh.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Homo erectus, indeed.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You want to see my rap poster? Poster whore! Anyway, Lisa Walker strung me along for months until, one night, I went to go tell her how much I loved her, (ALL EX CLAIMING IN ADMIRATION) In song.”
 
 ## S5 E17 — 17. Of Course
@@ -2015,7 +2015,7 @@ Watch for:
   - [Explicit] “Robin Scherbatsky, you look like the classiest, most expensive prostitute ever.”
 - Violence & injury — 1 moment(s)
   - [Moderate] “It just warms my freaking heart! (EX CLAIMS) (GUN CLICKING) (GRUNTS) (EXHALING) - So, are you sure you're not upset?”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Take a Look at Yourself, You Dumb Slut.”
   - [Moderate] “Take a Look at Yourself, You Dumb Slut crap on me! It's not crap! Of Course You're Still Single.”
 
@@ -2038,7 +2038,7 @@ Watch for:
   - [Mild] “But, damn it, Ted, over the years, you've made me cynical.”
 - Alcohol & drugs — 1 moment(s)
   - [Moderate] “Unlike Marshall, who just looks dead, stoned, and cold.”
-- Slut-shaming — 4 moment(s)
+- Sexual insults — 4 moment(s)
   - [Moderate] “Look, I'm a bird! - Let's all be birds! - Lily! Tell me the truth! No, of course not! I'm not gonna let another one of your dumb skanks ruin my precious memories!”
   - [Moderate] “Well, let's just take a little walk down Random Skank Lane.”
   - [Moderate] “Do I get a vote? Skank Lane.”
@@ -2175,7 +2175,7 @@ Watch for:
 - Sex & hookups — 2 moment(s)
   - [Explicit] “"Orgasms so intense that you just black out.”
   - [Mild] “The comfort of home is a little ruined when someone turns your old room into what I'm pretty sure is a Tantric sex temple.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Also, Janey Masterson's mother is a whore, and with gin on her breath at 10:00 in the morning, she's got some nerve kicking us out of the carpool.”
 
 ## S6 E3 — 3. Unfinished
@@ -2194,7 +2194,7 @@ Watch for:
   - [Mild] “Oh, that sucks.”
   - [Mild] “It sucks! Man, the courtside Knicks seats that are available to all upper level GNB employees are too close to the action.”
   - [Mild] “…the end of it all, have the rug pulled out from under me? I love being a Professor, okay? All that stupid crap they tell you about how fulfilling teaching is?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And that asian slut on your Facebook page.”
 
 ## S6 E4 — 4. Subway Wars
@@ -2254,7 +2254,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Let's call her "Vodka.”
   - [Mild] “" Then at least we know you'd hold her tight and never let her go! Don't knock the vodka.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “" And I don't want my daughter to have a whore's name.”
 
 ## S6 E7 — 7. Canning Randy
@@ -2382,7 +2382,7 @@ Watch for:
   - [Mild] “If people found out Sandy wears a toupee Really? That's your take-away? Nothing on the bear in the bra? Oh, no.”
 - Violence & injury — 1 moment(s)
   - [Moderate] “You just strap on the vinyl holster and race into that abandoned JCPenney guns a-blazin'.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “So, second day of work? (blows raspberry) What's wrong? Oh, you didn't hear? She's the office slut.”
   - [Moderate] “I wish I was the office slut.”
 
@@ -2401,7 +2401,7 @@ Watch for:
   - [Mild] “We think getting minors drunk is funny.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “All that stuff was really nice! Yeah! It's positive racism! This is worse than the pork chop.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “That dress makes you look like a Kansas City whore.”
 
 ## S6 E15 — 15. Oh Honey
@@ -2531,7 +2531,7 @@ Watch for:
   - [Mild] ROBIN: “Two, three, four! Ba, ba, ba, ba Ba, ba, ba Ba, ba, ba, da, da, da, da, da, da! Ow! Yeah! So, Saturday night time to cut loose, right? Who wants to split a beer? BARNEY: Oh, we're not drinking here.”
   - [Mild] “Oh Oh (others talking at once) Hey, sugar! Five beers for the table, a Seven-and-Seven for me, and your ten digits for this guy here!”
   - [Mild] “The Lusty Leopard has a special Oh, for corn's sake, Barney, I'm not drunk! - What? - I told you, I don't party anymore, and you wouldn't take no for an answer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “My goodness! I sleep around, too.”
 
 ## S6 E22 — 22. The Perfect Cocktail
@@ -2708,7 +2708,7 @@ Watch for:
   - [Mild] “The wine looks good.”
   - [Mild] “No, my doctor says it's okay to have a sip of wine every now and then.”
   - [Mild] “How about I put on a smokin' hot dress, you slap a vest over that crime scene of a tie and we paint the town? I mean, when was the last time we got rip-roaring drunk in clothing that highlights our genders?”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “And that's assuming the mother of my children is just a huge slut.”
   - [Moderate] “That slut is out there.”
 
@@ -2811,7 +2811,7 @@ Watch for:
   - [Mild] “You want real record-breaking heat? Try Kristoff's JalapeÃ±o Coconut Vodka martini.”
   - [Mild] “I got a tiny spot of wine on my sleeve.”
   - [Mild] “…amazed by the things you say, entranced by the things you do, and unlike a certain JalapeÃ±o Coconut Vodka martini, you're easy on the eye And if we're together long enough, I hope that one day you see yourself…”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…scum round the edge of a toilet bowl Flush What the hell is in the place where you should have a soul? Slut You did these two wrong Don't wait too long In fact, you know what?”
 
 ## S7 E11 — 11. The Rebound Girl
@@ -2930,7 +2930,7 @@ Watch for:
   - [Mild] “I'll, uh, I'll bring out the Gouda, we'll open a couple bottles of wine that are in the basement.”
   - [Mild] “Have a beer, find a hobby.”
   - [Mild] “Eat your heart out, Gail! (laughs) God, I feel so alive! I want to drink a beer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You called her a whore.”
 
 ## S7 E16 — 16. The Drunk Train
@@ -2958,7 +2958,7 @@ Watch for:
   - [Mild] “The Drunk Train? It's the last train of the night back to Long Island.”
   - [Mild] “How do I usually say it? I hate this Quinn girl! Well, I propose we order a bottle of wine.”
   - [Mild] “"Get drunk"" Yeah.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “It's-it's The Little Engine with Wood, The Whore-ient Express.”
 
 ## S7 E17 — 17. No Pressure
@@ -3022,7 +3022,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “(all laughing) (snaps fingers) (chuckles) Uh, ah More red wine, beauty-swan? She drinks a lot.”
   - [Mild] “" (chuckles) So, unrelated, how's the search for a sub-letter going? This is such a weird coincidence! Robin also "just happened" to be in the neighborhood with a bottle of wine and her credit scores.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Okay, so anyway, last August, I go bareback with this same slut.”
   - [Moderate] “Don't say that whore's name in front of our baby.”
 
@@ -3093,7 +3093,7 @@ Watch for:
   - [Mild] “you give me one hour of phone-free bro time, during which we, and by we I mean you, get magnificently, mythologically drunk.”
   - [Mild] “when-you-speak drunk.”
   - [Mild] “Um, when you get a chance, could you bring over a hundred shots of tequila, please? I'll have the same.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You people are whores.”
 
 ## S7 E23 — 23. The Magician's Code (1)
@@ -3161,7 +3161,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Oh! Hey, are you guys sure you can handle champagne? You haven't slept in like a week.”
   - [Mild] “Barney's engaged?! Heck, this calls for some champagne.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…Robin, Ted and Robin broke up, Robin moved to Brazil, came back with a Latin stud, Ted got jealous, got a tramp stamp, not really relevant to the story I just like mentioning that as much as possible, I hooked up with…”
 
 ## S8 E2 — 2. The Pre-Nup
@@ -3188,7 +3188,7 @@ Watch for:
   - [Mild] “My God! What the hell does Barney think marriage is going to be like, anyway? Just a healthy, modern-day marriage, based on mutual respect between two equals.”
   - [Mild] “Hey, hey Hey, guys, what's up? Oh, Quinn's pissed because Barney wants her to sign a crazy prenup.”
   - [Mild] “Hell, I don't care if it's crazy, I-I'm doing it.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “If I could just take a quick whore's bath in your kitchen sink, then I will skedaddle.”
 
 ## S8 E3 — 3. Nannies
@@ -3223,7 +3223,7 @@ Watch for:
   - [Moderate] “But not that bitch's window.”
   - [Mild] “I packed up all my crap; I said, "See ya" to Sarah and the kids; and I finally got my dream job as a mixologist down here at Carnalism 2.”
   - [Mild] “Hey, look, as the only one of us packing a vag, I got a natural instinct for nurturing and crap like that.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…With a hot chick here and a dumb chick there Huh? Huh? Bro, bro, bro your broat Gently to the bar Hit on sluts, then do ten shots and Huh?”
 
 ## S8 E5 — 5. The Autumn of Break-Ups
@@ -3254,7 +3254,7 @@ Watch for:
   - [Mild] “You want to start turning off the lights during sex? No.”
 - Nudity & bodies — 1 moment(s)
   - [Explicit] “…this seriously was when Lily had mono freshman year and I caught you doing one-armed push-ups with your genitals over a bowl of ice.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And then that Danish slut Nadia bursts in You can't wait.”
 
 ## S8 E7 — 7. The Stamp Tramp
@@ -3281,7 +3281,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “(bell dings) I'm drinking this beer because she recommended it.”
   - [Mild] “They're sending me T-shirts, beer cozies.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “Why shouldn't I give him the old Marshall Eriksen Stamp of Approval? Marshall, you're a stamp tramp.”
   - [Moderate] “Stamp tramp.”
   - [Moderate] “Oh (voice breaks): I have nothing but the utmost respect for you skanks.”
@@ -3442,7 +3442,7 @@ Watch for:
   - [Mild] “How'd she get beer already? Do you see a ring on that finger? Whoa.”
   - [Mild] “Are you saying that this invisibility thing means I might not be able to get beer? I was just getting used to the idea of having to pay for coffee and bagels and rent.”
   - [Mild] “(chuckles) Three beers, please.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “That slut just got here.”
 
 ## S8 E15 — 15. P.S. I Love You
@@ -3534,7 +3534,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I'm willing to go as high as six cartons of cigarettes and a jug of toilet wine.”
   - [Mild] “I ate a ton of caviar, but it soaked up none of the champagne.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Not so I could live in a disease-riddled bang pad haunted by the ghosts of your ex-skanks.”
 
 ## S8 E20 — 20. The Time Travelers
@@ -3779,7 +3779,7 @@ Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - [Explicit] Stripper or strip-club material shows up in the plot.
   - [Explicit] “And I love that your marriage proposal Involved a strip club, lying to me, And pretending to bang the woman I hate for two months.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “You're dressed like a whore.”
   - [Moderate] “…married! But what can I say? My husband's a sociopath Who's slept with over a hundred women, And I'm a slut who once let my boss feel me up.”
 
@@ -3802,7 +3802,7 @@ Watch for:
   - [Moderate] “(coughing) Wh-Why do you have a gun? Why do you always have a gun? (quietly): Where's Lily? She went up 20 minutes ago.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Lobster, caviar, champagne.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “So you're saying you didn't order room service and you didn't order Prison Sluts Nine? I am saying I did not order room service.”
 
 ## S9 E8 — 8. The Lighthouse

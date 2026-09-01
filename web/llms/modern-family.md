@@ -124,7 +124,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “He's- He's the least sexual being on earth.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “There are four types of clowns- a tramp, an Auguste, a whiteface and a character.”
   - [Moderate] “Sad clown is a tramp.”
 
@@ -199,7 +199,7 @@ Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “The next time you picture me, leave the underwear out of it.”
   - [Mild] “…want to impress, and what do I find? A bunch of booze-drenched hill people just sitting around in their underwear and-and chasing rats and fornicating in the stairwell.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Well, you should have thought about that before you took that skank Sharon Nicolini to an Anne Hathaway movie.”
 
 ## S1 E15 — 15. My Funky Valentine
@@ -445,7 +445,7 @@ Watch for:
   - [Explicit] “It's like I'm being stabbed.”
   - [Explicit] “But also like I ate a bad scallop that's stabbing me from the inside.”
   - [Mild] “One time I added salt to her casserole and he went into the garage and punched the car.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Oh, is that the skank? - No.”
   - [Moderate] “No, there's there's no skank.”
 
@@ -594,7 +594,7 @@ Watch for:
   - [Explicit] “I think I hear future Lily sending us a message from her stripper pole.”
 - Violence & injury — 1 moment(s)
   - [Moderate] “Have I ever told you about her? Total gun nut, lives completely off the grid.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “When you and Dylan were broken up Rachel told him you were a skank and got all up on him.”
   - [Moderate] “This will teach that skank a lesson.”
 
@@ -955,7 +955,7 @@ Watch for:
   - [Mild] “Yeah, it's what makes me want to punch you in the neck right now.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Don't drink too much beer and shots of Tequila.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Don't slut up your college.”
 
 ## S4 E3 — 3. Snip
@@ -1192,7 +1192,7 @@ Watch for:
   - [Mild] “I've never bought beer before.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “It's like he leapt off the canvas of a 16th century portrait by Gainsborough or van Dyke.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “That skank Zoey broke his heart.”
 
 ## S4 E21 — 21. Career Day
@@ -1321,7 +1321,7 @@ Watch for:
   - [Mild] “And I'm pleased as punch to be the one -- Okay, this is tough enough without all the yammering! Sorry.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Ronaldo, wait! French bistro stemless wine glasses.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Trust me, if I wanted to stab her, that skank be stabbed.”
 
 ## S5 E7 — 7. A Fair to Remember
@@ -1627,7 +1627,7 @@ Watch for:
   - [Moderate] “You gonna put some blood on it, maybe dangle an eyeball? Who hurt you? I'm kidding.”
 - Alcohol & drugs — 1 moment(s)
   - [Moderate] “Our new neighbors, medical-marijuana retailer Ronnie and his wife, Amber, moved in two months ago, and -- it's been a week and a half.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “You lied just to make me feel bad? No, no -- we lied so that we could win with our zombie house o' whores! That is so messed up.”
   - [Moderate] “Did you say "whores," or -- No, no.”
 
@@ -1742,7 +1742,7 @@ Watch for:
   - [Explicit] “Who is that? Denise? Put that dirty hooker on the phone.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “We're just stopping by a bar after work, have some beer, some hot wings.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “You're such a slut.”
   - [Moderate] “You know it, slut.”
 
@@ -1789,7 +1789,7 @@ Watch for:
   - [Mild] “The drunkest guy at the party.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “I'm sitting next to a cheese-eating racist.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I don't wanna sound like a sentimental softy but does anyone miss the drunken whore she used to be? Oh, I like the new Sal.”
   - [Moderate] “What did this skank Sarah say to you? Huh.”
 
@@ -1822,7 +1822,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Is there vodka in here? - If there is it's not doing anybody any good until I get it in there.”
   - [Mild] “What do you mean, you didn't pour it down her throat? Did you get her drunk? Hey, you hacked her computer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You don't have the foot sensitivity of a tramp champ.”
 
 ## S6 E19 — 19. Grill, Interrupted
@@ -1951,7 +1951,7 @@ Watch for:
   - [Moderate] “There was so much blood.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Jay: “How often do you break in here? Does that explain the white wine? We fired a cleaning lady.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “After we tramp.”
 
 ## S7 E3 — 3. The Closet Case
@@ -1994,7 +1994,7 @@ Watch for:
   - [Mild] “Jay? In here with the booze.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “I spy with my little eye a first-time volunteer! Gloria had jury duty, so no chance I could get out of this by pretending to be racist? [ Chuckles .]”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Maybe he'll bring one of those shirtless ab sluts I've seen on his Facebook page.”
 
 ## S7 E6 — 6. The More You Ignore Me
@@ -2050,7 +2050,7 @@ Watch for:
   - [Mild] “These guys didn't do that crap.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I might need booze for this.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I'm sorry! But I have to go pick up my son because my idiot ex-husband loaned his car to his latest Tinder whore.”
 
 ## S7 E9 — 9. White Christmas
@@ -2403,7 +2403,7 @@ Watch for:
   - [Mild] “I just want a wine bath and to go to sleep.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “For God's sake, there's the club chair Fatty Arbuckle anxiously awaited his verdict.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You trampoline? I'm on my tramp like three nights a week! [Chuckles.]”
 
 ## S8 E7 — 7. Thanksgiving Jamboree
@@ -2433,7 +2433,7 @@ Watch for:
   - [Mild] “I wouldn't salt those margarita glasses just yet.”
   - [Mild] “Oh, I saw some champagne back there.”
   - [Mild] “Phil, get me a beer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Oh, well, Clark's head of the math club, and Tina's turned into a bit of a slut.”
 
 ## S8 E8 — 8. The Alliance
@@ -2537,7 +2537,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Oh, yay, champagne.”
   - [Mild] “A day when you've been sipping champagne while we've gone over an hour without snacks.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Do you know what I went through in that well on October 14, 1987, while the whole world was focused on that media whore Jessica? - She was a baby, but yeah.”
 
 ## S8 E15 — 15. Finding Fizbo
@@ -2702,7 +2702,7 @@ Watch for:
   - [Mild] “Bo is Pam's baby daddy currently incarcerated back in Grasshopper, Missouri, for punching a police horse.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Fine, but you are driving home, because today, I'm reelin' in the wine.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “He really shot up, huh? - (CELLPHONE DINGING, CHIMING) Anyway, in the weeks to come, - try and remember that, uh - (CELLPHONE DINGING, CHIMING) Wh That skank No way!”
 
 ## S9 E4 — 4. Sex Lies Kickball
@@ -3098,7 +3098,7 @@ Watch for:
   - [Moderate] “You son of a bitch.”
   - [Mild] “Damn cozy is what they are.”
   - [Mild] “Damn it, the power's out! Then so am I! No! You just leveled the playing field.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…behind the one from our old babysitter? Mm, I believe he spoke the charming phrase, "And who is this whore?" Well, Christmas is at Grandpa's this year, so Cam will never see it.”
 
 ## S10 E11 — 11. A Moving Day
@@ -3233,7 +3233,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Oh, it's such an honor to - Vodka! - Oh.”
   - [Mild] “You're gonna taste some wine today! Hey, hey, hey.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “If we said yes to everything, then we're no better than that whore Grumpy Cat.”
 
 ## S10 E21 — 21. Commencement
@@ -3306,7 +3306,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Then she asked if I'd buy wine for dinner tonight.”
   - [Mild] “It's not the greatest quality, but Wait, you took my babies to a liquor store?! No, it's the it's the wine museum.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Oh, my God, you guys, let's hurry! Hurrying where? Uh, there's a retrospective "Cher in the '70s: Gypsies, Tramps and Thieves.”
 
 ## S11 E4 — 4. Pool Party
@@ -3417,7 +3417,7 @@ Watch for:
   - [Mild] “Bring the wine.”
   - [Mild] “What would he do for work? Prosecute Otis, the town drunk? Excuse me.”
   - [Mild] “I'm just drunk and upset.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And why are you digging through my suitcase? - Uh - CLAIRE: Hey, Dad? Are you just gonna stand there while your wife calls me a tramp? I feel this is a risky time to weigh in.”
 
 ## S11 E10 — 10. The Prescott
@@ -3464,7 +3464,7 @@ Watch for:
   - [Mild] “We could invite him for a glass of wine.”
   - [Mild] “Shall we have some champagne? Uh, no, thank you.”
   - [Mild] “I'm not really in the mood for champagne.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You're an Auguste clown, not a tramp.”
 
 ## S11 E14 — 14. Spuds

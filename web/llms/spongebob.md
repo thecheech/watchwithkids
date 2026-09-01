@@ -394,7 +394,7 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/spongebob/0222.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Watch for:
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Joe: “Easy, girl! It's me, Joe! Remember?”
 
 ## S2 E24 — Life of Crime

@@ -1164,7 +1164,7 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -1194,7 +1194,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“G, the Lady is a tramp.”",
             "count": 1,
@@ -1218,7 +1218,7 @@
       },
       "examples": [
         "Sex & hookups — “She stole the car, she snuck out to the roughest bar in town and then she hooked up with a human Godzilla.”",
-        "Slut-shaming — “G, the Lady is a tramp.”"
+        "Sexual insults — “G, the Lady is a tramp.”"
       ],
       "notes": null,
       "flags": [],
@@ -1303,7 +1303,7 @@
         "watch": [
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -1351,7 +1351,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Fred, get up! I can't get no sleep around here today to save my life.”",
             "count": 1,
@@ -1376,7 +1376,7 @@
       "examples": [
         "Violence & injury — “$300? What for? Hey, young blood.”",
         "Alcohol & drugs — “I have my wine collection.”",
-        "Slut-shaming — “Fred, get up! I can't get no sleep around here today to save my life.”"
+        "Sexual insults — “Fred, get up! I can't get no sleep around here today to save my life.”"
       ],
       "notes": null,
       "flags": [],
@@ -5599,7 +5599,7 @@
         "watch": [
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -5639,7 +5639,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Could luck be a lady tonight? Tramp.”",
             "count": 1,
@@ -5664,7 +5664,7 @@
       "examples": [
         "Violence & injury — “Did you by any chance see Murder, She Wrote last week? - No.”",
         "Alcohol & drugs — “Yeah, well, you just wasted about 15 seconds, buddy.”",
-        "Slut-shaming — “Could luck be a lady tonight? Tramp.”"
+        "Sexual insults — “Could luck be a lady tonight? Tramp.”"
       ],
       "notes": null,
       "flags": [],
@@ -6352,7 +6352,7 @@
       "overall": 1,
       "age": 9,
       "verdict": "Usually fine — about 9+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Light comedy tone",
@@ -6361,7 +6361,7 @@
         "watch": [
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -6401,7 +6401,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Hit the bricks, you little tramp!”",
             "count": 1,
@@ -6426,7 +6426,7 @@
       "examples": [
         "Violence & injury — “And then he slapped me with a subpoena.”",
         "Alcohol & drugs — “Yes! This will be a good one for the cocktail parties, Philip.”",
-        "Slut-shaming — “Hit the bricks, you little tramp!”"
+        "Sexual insults — “Hit the bricks, you little tramp!”"
       ],
       "notes": null,
       "flags": [],
@@ -10454,14 +10454,14 @@
       "overall": 4,
       "age": 13,
       "verdict": "Skip for under 13",
-      "why": "Driven by sex & hookups (moderate, in dialogue), with slut-shaming alongside it.",
+      "why": "Driven by sex & hookups (moderate, in dialogue), with sexual insults alongside it.",
       "themes": {
         "fine": [
           "Light comedy tone"
         ],
         "watch": [
           "Sex & hookups",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -10523,7 +10523,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“\"Whatever will be, will be\"? What kind of devil-may-care message is that? - The slut.”",
             "count": 1,
@@ -10547,7 +10547,7 @@
       },
       "examples": [
         "Sex & hookups — “What did Daddy say when you told him? - Are you kidding? He still thinks I'm a virgin.”",
-        "Slut-shaming — “\"Whatever will be, will be\"? What kind of devil-may-care message is that? - The slut.”"
+        "Sexual insults — “\"Whatever will be, will be\"? What kind of devil-may-care message is that? - The slut.”"
       ],
       "notes": null,
       "flags": [],

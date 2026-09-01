@@ -48,7 +48,7 @@
           "Violence & injury",
           "Swearing",
           "Homophobic jokes",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -210,7 +210,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“You mean, you're not a slut.”",
             "count": 1,
@@ -257,7 +257,7 @@
         "Violence & injury — “[Mike] Something is coming. Something hungry for blood.”",
         "Swearing — “We're in deep shit. -Will, your action!”",
         "Homophobic jokes — “[softy] Called him a fag.”",
-        "Slut-shaming — “You mean, you're not a slut.”"
+        "Sexual insults — “You mean, you're not a slut.”"
       ],
       "notes": null,
       "flags": [],
@@ -1037,7 +1037,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -1191,7 +1191,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“You don't want to be known as the lying slut now, do you?”",
             "count": 1,
@@ -1238,7 +1238,7 @@
         "Nudity & bodies — “And then they'd strip her naked and put her in these isolation tanks.”",
         "Violence & injury — “Sharks can detect blood in one part per million.”",
         "Swearing — “All three of you were being a bunch of little assholes!”",
-        "Slut-shaming — “You don't want to be known as the lying slut now, do you?”"
+        "Sexual insults — “You don't want to be known as the lying slut now, do you?”"
       ],
       "notes": null,
       "flags": [],
@@ -1267,7 +1267,7 @@
         "watch": [
           "Violence & injury",
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -1387,7 +1387,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“The slut with a heart of gold.”",
             "count": 1,
@@ -1412,7 +1412,7 @@
       "examples": [
         "Violence & injury — “You say blood draws this thing?”",
         "Swearing — “[Lucas] ...son of a bitch!”",
-        "Slut-shaming — “The slut with a heart of gold.”"
+        "Sexual insults — “The slut with a heart of gold.”"
       ],
       "notes": null,
       "flags": [],
@@ -2714,7 +2714,7 @@
           "Violence & injury",
           "Swearing",
           "Homophobic jokes",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -2820,7 +2820,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“He's gonna call whatever whore he's seeing tonight”",
             "count": 1,
@@ -2846,7 +2846,7 @@
         "Violence & injury — “You can't just shoot this with guns.”",
         "Swearing — “Son of a bitch! You know what...”",
         "Homophobic jokes — “like some faggot instead of watching your sister?”",
-        "Slut-shaming — “He's gonna call whatever whore he's seeing tonight”"
+        "Sexual insults — “He's gonna call whatever whore he's seeing tonight”"
       ],
       "notes": null,
       "flags": [],
@@ -3925,7 +3925,7 @@
           "Violence & injury",
           "Swearing",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -4087,7 +4087,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“I said, get away! -You-- You whore!”",
             "count": 1,
@@ -4113,7 +4113,7 @@
         "Violence & injury — guns cocking",
         "Swearing — “Go, go, go, go, go! -[Dustin] Shit.”",
         "Alcohol & drugs — “Can I help you with something? -Whiskey.”",
-        "Slut-shaming — “I said, get away! -You-- You whore!”"
+        "Sexual insults — “I said, get away! -You-- You whore!”"
       ],
       "notes": null,
       "flags": [],

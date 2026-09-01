@@ -713,7 +713,7 @@ Summary: When Clown Nurses make Finn uncomfortable, Finn ignores all options exc
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Finn punches the Cyclops in the eye. The Cyclops starts crying as he screams in pain. Some of the tears fall onto Finn. His clothes are made anew.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Bush: “Listen what I'm telling you. There's no way. ...Ugly tramp.”
 
 ## S3 E24 — Ghost Princess

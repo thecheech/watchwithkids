@@ -2228,7 +2228,7 @@
         ],
         "watch": [
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -2266,7 +2266,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Anne: “So... Walliam, what's going on here? I thought you were a fun-loving tramp, not some little rich boy.”",
             "count": 1,
@@ -2290,7 +2290,7 @@
       },
       "examples": [
         "Violence & injury — Wally takes off his ribbon, rolls it up on a knife and spins it around the table.",
-        "Slut-shaming — Anne: “So... Walliam, what's going on here? I thought you were a fun-loving tramp, not some little rich boy.”"
+        "Sexual insults — Anne: “So... Walliam, what's going on here? I thought you were a fun-loving tramp, not some little rich boy.”"
       ],
       "notes": null,
       "flags": [],

@@ -352,7 +352,7 @@ Watch for:
   - [Moderate] Wally takes off his ribbon, rolls it up on a knife and spins it around the table.
   - [Moderate] The knife hits a gong.
   - [Mild] The cops beat up Wally.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Anne: “So... Walliam, what's going on here? I thought you were a fun-loving tramp, not some little rich boy.”
 
 ## S2 E10 — Wax Museum

@@ -134,7 +134,7 @@ Watch for:
   - [Mild] ELAINE: “Wouldn't it be easier just to punch him in the mouth?”
 - Suicide & self-harm — 1 moment(s)
   - [Explicit] roof to kill himself.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] really don't have an apartment. I kinda sleep around.
 
 ## S2 E8 — The Heart Attack
@@ -2146,7 +2146,7 @@ Watch for:
   - [Moderate] Jerry: “(from the back of the club , leaving) That's it I'm calling in the big guns.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] at a cocktail party talking about the stock market. You think you're doing comedy.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Elaine: “The pig says "my wife is a slut."”
 
 ## S9 E15 — The Wizard
@@ -2166,7 +2166,7 @@ Summary: Elaine finds out that Puddy is religious. Kramer pretends to have gonor
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Explicit] Jerry: “Did he overdose?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Jerry: “And a bit of a tramp if you ask me.”
 
 ## S9 E17 — The Bookstore
@@ -2182,7 +2182,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] ELAINE: “Cocktail flu.”
   - [Mild] JERRY: “(Rubbing it in) Ah, the drunken make-out. An office classic. Did you end up xeroxing anything?”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] ELAINE: “Oh God. Why did I do this? Now I'm the office skank.”
   - [Moderate] ELAINE: “(Talking to a co-worker) Of course Zach and I have been dating. What'd you think, I was the office skank?”
 
@@ -2266,7 +2266,7 @@ Watch for:
   - [Mild] Captain: “Hey, get the hell out of here!”
   - [Mild] Chiles: “You damn right it isn't.”
   - [Mild] Jackie: “Hello? Damn. They're ready.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
 
 ## S9 E24 — The Finale (2)
@@ -2295,5 +2295,5 @@ Watch for:
   - [Mild] Captain: “Hey, get the hell out of here!”
   - [Mild] Chiles: “You damn right it isn't.”
   - [Mild] Jackie: “Hello? Damn. They're ready.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”

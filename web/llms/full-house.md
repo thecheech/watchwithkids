@@ -270,7 +270,7 @@ Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.”
   - [Mild] “I was not buck-naked.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Well, Lady and The Tramp was the most romantic cartoon ever made.”
 
 ## S2 E20 — 20. I'm There for You, Babe

@@ -5176,7 +5176,7 @@
       "overall": 1,
       "age": 7,
       "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Light comedy tone",
@@ -5184,7 +5184,7 @@
         ],
         "watch": [
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -5206,7 +5206,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Bush: “Listen what I'm telling you. There's no way. ...Ugly tramp.”",
             "count": 1,
@@ -5230,7 +5230,7 @@
       },
       "examples": [
         "Violence & injury — Finn punches the Cyclops in the eye. The Cyclops starts crying as he screams in pain. Some of the tears fall onto Finn. His clothes are made anew.",
-        "Slut-shaming — Bush: “Listen what I'm telling you. There's no way. ...Ugly tramp.”"
+        "Sexual insults — Bush: “Listen what I'm telling you. There's no way. ...Ugly tramp.”"
       ],
       "notes": null,
       "flags": [],

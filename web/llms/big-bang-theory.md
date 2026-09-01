@@ -137,7 +137,7 @@ Watch for:
   - [Mild] Penny: “What the hell is your problem?”
 - Racism & slurs — 1 moment(s)
   - [Explicit] Raj: “Oh, that’s very impressive. And a little racist.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Sheldon: “You know, I apologise for my earlier outburst, who needs Halo when we can be regaled with the delightfully folksy tale of the whore of Omaha?”
   - [Moderate] Leonard: “Oh, I don’t think she’s a whore.”
 
@@ -531,7 +531,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Explicit] Sheldon: “So? Do cocaine smugglers write cocaine on the box?”
   - [Mild] Raj (drinking some wine): Hello there
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Penny: “Well, dead whore on TV, live one in real life.”
 
 ## S2 E20 — The Hofstadter Isotope
@@ -650,7 +650,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “Yeah, it’s a perfectly good word. You put it in front of wine or dining, and you’ve really got something. Okay, well, let me ask you this, how was last night for you?”
   - [Mild] Penny: “You know, I think this is one of those things where talking about it is not going to make it better. Want a glass of wine?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Prof Crawley: “That tramp took me for everything!”
 
 ## S3 E3 — The Gothowitz Deviation
@@ -968,7 +968,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “Are you drunk?”
   - [Mild] Penny: “Look, I’m sorry. I was drunk, I was lonely, I hated Zack. Can we just forget it ever happened?”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Raj: “I’m telling you, dude, the only way to feel better about Penny going out with other guys is for you to get back on the whores.”
   - [Moderate] Howard: “The phrase is get back on the horse, not whores.”
 
@@ -994,7 +994,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Explicit] Penny: “I myself grew up in Nebraska. Small town outside of Omaha. You know, nice place, mostly family farms, a few meth labs.”
   - [Mild] Sheldon: “Don’t bother. I’ve wasted many an hour tilting at that particular windmill.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Amy: “This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?”
 
 ## S4 E2 — The Cruciferous Vegetable Amplification
@@ -1182,7 +1182,7 @@ Watch for:
   - [Explicit] Leonard: “Are you insane? I’m not going to prostitute myself just so we can get some new equipment.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Sheldon: “No. But we have potatoes, I could make you vodka. It’ll take two weeks.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Penny: “Good morning, slut.”
 
 ## S4 E16 — The Cohabitation Formulation
@@ -1396,7 +1396,7 @@ Watch for:
   - [Mild] Penny’s apartment. Penny has a bottle of wine. She can’t find a glass. Finds a measuring jug and uses that instead. There is a knock on the door.
   - [Mild] Penny: “Coming. Yup, that’s good. Wine glasses should have handles.”
   - [Mild] Penny: “Look, honey, I was really drunk and made a huge mistake last night. We should’ve never slept together. It’s what ruins friendships.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Penny: “Oh, my God, I screwed up everything. I hurt Leonard, I hurt Raj, I mean, what is wrong with me? I feel like two totally different people, Dr. Jekyll and Mrs. Whore.”
   - [Moderate] Amy: “You can’t blame yourself. When your prefrontal cortex fails to make you happy, promiscuity rewards you with the needed flood of dopamine. We neurobiologists refer to this as the skank reflex.”
 
@@ -1436,7 +1436,7 @@ Watch for:
   - [Mild] Amy: “Wine is one of the reasons I’m in this fix. That and this dang pelvis.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Howard: “Only when it’s fatty. Well, don’t be jealous, babe. Someday you’ll get to cut it for me.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Amy: “The inevitable, he was lonely and vulnerable from missing his girlfriend, while I was charming, supportive and, let’s face it, in this dress, the perfect combination of Madonna and whore.”
 
 ## S5 E4 — The Wiggly Finger Catalyst
@@ -1833,7 +1833,7 @@ Watch for:
   - [Explicit] Amy: “I’m going to video-chat Sheldon. If my new look leads to phone sex, I’m going to have to ask you to leave the room.”
 - Alcohol & drugs — 1 moment(s)
   - [Moderate] Sheldon: “All right, Ms. Jenson. Uh, before we begin, may I offer you a refreshment? Water, coffee, tea, a marijuana cigarette?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Amy (to Penny, on other side of room): You were right. I had nothing to worry about. That skank’s your problem, not mine.
 
 ## S6 E4 — The Re-Entry Minimization
@@ -2456,7 +2456,7 @@ Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] Howard: “Only without the sex.”
   - [Mild] Amy: “Yeah, it’s cute. That’s the problem. I don’t need other girls to see him walking around like sex on a stick.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Sheldon: “Oh, please. If I wanted to take up a fad, I’d get a tramp stamp.”
 
 ## S7 E21 — The Anything Can Happen Recurrence
@@ -2483,7 +2483,7 @@ Watch for:
   - [Mild] Sheldon: “If we were in a physical relationship, you just lost sex tonight.”
 - Swearing — 1 moment(s)
   - [Moderate] Bernadette: “Son of a bitch.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Amy: “My mom made it up as an alternative to the Girl Scouts. She didn’t want me selling cookies on some street corner like a whore.”
   - [Moderate] Amy: “Oh, I went to the library and took out a book on biology to see what whores did.”
 
@@ -2543,7 +2543,7 @@ Watch for:
   - [Moderate] Amy: “Okay, good luck. And call me later, you know, if you decide she’s a bitch or something. Hey, girlfriend.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Amy: “Tonight. You, me, Color Me Mine. Maybe we sneak in some Pinot, make it Color Me Wine.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Amy: “I’m saying, in the spirit of science, what is that little skank’s problem?”
 
 ## S8 E3 — The First Pitch Insufficiency
@@ -2659,7 +2659,7 @@ Watch for:
   - [Mild] Leonard: “I wasn’t gonna get beat up.”
 - Swearing — 1 moment(s)
   - [Moderate] Raj: “Whether you call it God or the universe or the self, we’re all interconnected, and that’s just a beautiful… Son of a bitch, that guy just dinged my car.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Penny: “Uh, not really a great outfit for work, unless something opens up in the hookers and whores division. Hey, can I ask you something?”
 
 ## S8 E14 — The Troll Manifestation
@@ -2804,7 +2804,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leonard: “Yeah. Okay, listen. If you’re imagining that it was sexy, it wasn’t. We, we were both drunk, and she smelled like an ashtray. The boat was moving a lot, so I chipped her tooth.”
   - [Mild] Sheldon: “And you know why? ‘Cause you’re a man. The champagne of genders.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Mrs Cooper: “Well, honey, don’t send it back yet. Your sister’s married, and I’m not letting your brother give my grandmother’s ring to that whore he’s dating.”
 
 ## S9 E2 — The Separation Oscillation

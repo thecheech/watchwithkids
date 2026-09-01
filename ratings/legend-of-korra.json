@@ -2488,7 +2488,7 @@
         ],
         "watch": [
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -2534,7 +2534,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]",
             "count": 1,
@@ -2558,7 +2558,7 @@
       },
       "examples": [
         "Violence & injury — Gun, escort them to the antechamber until the Avatar's arrival.",
-        "Slut-shaming — Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]"
+        "Sexual insults — Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]"
       ],
       "notes": null,
       "flags": [],

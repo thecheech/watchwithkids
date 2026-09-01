@@ -8257,18 +8257,18 @@
       "overall": 1,
       "age": 6,
       "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, shown on screen).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, shown on screen).",
       "themes": {
         "fine": [
           "Light comedy tone",
           "Mostly kid-ok if you skip past the mild bits below"
         ],
         "watch": [
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes",
             "count": 1,
@@ -8291,7 +8291,7 @@
         "notes_extra": []
       },
       "examples": [
-        "Slut-shaming — Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes"
+        "Sexual insults — Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes"
       ],
       "notes": null,
       "flags": [],

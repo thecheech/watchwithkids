@@ -44,7 +44,7 @@ THEME_GROUP = {
     "Racism & slurs": "bias",
     "Homophobic jokes": "bias",
     "Fat-shaming": "bias",
-    "Slut-shaming": "bias",
+    "Sexual insults": "bias",
     "LGBTQ themes": "optin",
 }
 
@@ -68,7 +68,7 @@ THEME_BLURB = {
     "Racism & slurs": "Racist language, stereotypes or racial mockery.",
     "Homophobic jokes": "Someone's orientation is used as the punchline or an insult.",
     "Fat-shaming": "Weight used as an insult or a running joke.",
-    "Slut-shaming": "Shaming someone as ‘promiscuous’.",
+    "Sexual insults": "Shaming someone as ‘promiscuous’.",
     "LGBTQ themes": "A gay, lesbian, bi or trans character or storyline appears. "
     "Representation, not a content warning — shown only because you asked for it.",
 }
@@ -157,9 +157,9 @@ HARM_THEMES = [
     (r"\bfat (?:girl|chick|ass|pig|suit)\b|\bfatty\b|\byou'?re fat\b|\bso fat\b|\blose weight\b|\blard[- ]?ass\b", "Fat-shaming", 3),
     (r"\bfat\b.{0,20}\b(?:joke|laugh|mock|tease|insult)\w*\b", "Fat-shaming", 2),
     (r"\b(?:big|huge) (?:cow|pig|whale)\b", "Fat-shaming", 3),
-    (r"\bslut[- ]?sham\w*\b", "Slut-shaming", 4),
-    (r"\bwhores?\b|\bsluts?\b|\bskanks?\b|\btramps?\b", "Slut-shaming", 3),
-    (r"\bsleeps? around\b|\beasy\b.{0,12}(?:girl|woman)\b", "Slut-shaming", 3),
+    (r"\bslut[- ]?sham\w*\b", "Sexual insults", 4),
+    (r"\bwhores?\b|\bsluts?\b|\bskanks?\b|\btramps?\b", "Sexual insults", 3),
+    (r"\bsleeps? around\b|\beasy\b.{0,12}(?:girl|woman)\b", "Sexual insults", 3),
     (r"\bnigg(?:er|a)s?\b|\bchinks?\b|\bspics?\b|\bkikes?\b|\bwett?backs?\b|\bgooks?\b", "Racism & slurs", 5),
     (r"\bblackface\b|\byellowface\b|\bbrownface\b", "Racism & slurs", 5),
     (r"\bracis(?:t|m)\b|\bbigot(?:ed|ry)?\b|\bxenophob\w*\b", "Racism & slurs", 4),
@@ -395,7 +395,7 @@ BLURB_HINTS = [
         "Alcohol & drugs",
     ),
     (r"fat monica|fat suit|fat joke|you'?re fat|fatty", "Fat-shaming"),
-    (r"slut|whore|skank|tramp|sleeps? around", "Slut-shaming"),
+    (r"slut|whore|skank|tramp|sleeps? around", "Sexual insults"),
     (r"racis|bigot|blackface|racial slur|xenophob", "Racism & slurs"),
     (r"affair|cheat(?:s|ing|ed)? on|on a break", "Affairs / cheating"),
     (

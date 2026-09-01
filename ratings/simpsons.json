@@ -1754,7 +1754,7 @@
         ],
         "watch": [
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -1776,7 +1776,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Kent Brockman: “(THRU TV) ...No, you won't find Freddie the Freeloader, or Emmett Kelly, or even Charlie Chaplin's beloved Little Tramp down here.”",
             "count": 1,
@@ -1800,7 +1800,7 @@
       },
       "examples": [
         "Violence & injury — Nurse: “Hey, you gotta be eighteen to sell your blood. Let's see some I.D.”",
-        "Slut-shaming — Kent Brockman: “(THRU TV) ...No, you won't find Freddie the Freeloader, or Emmett Kelly, or even Charlie Chaplin's beloved Little Tramp down here.”"
+        "Sexual insults — Kent Brockman: “(THRU TV) ...No, you won't find Freddie the Freeloader, or Emmett Kelly, or even Charlie Chaplin's beloved Little Tramp down here.”"
       ],
       "notes": null,
       "flags": [],
@@ -2252,7 +2252,7 @@
         "watch": [
           "Affairs / cheating",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -2300,7 +2300,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Jacqueline Bouvier: “Ladies pinch. Whores use rouge.”",
             "count": 1,
@@ -2325,7 +2325,7 @@
       "examples": [
         "Affairs / cheating — Artie Ziff: “I can think of a dozen highly cogent arguments. Now the first is from Time Magazine... dated January 8, 1974, \"America's Love Affair with The Prom... Even wallflowers can look forward to one date a year...\"”",
         "Alcohol & drugs — Grampa Simpson: “Uh-oh. Why don't you grab yourself a beer, boy.”",
-        "Slut-shaming — Jacqueline Bouvier: “Ladies pinch. Whores use rouge.”"
+        "Sexual insults — Jacqueline Bouvier: “Ladies pinch. Whores use rouge.”"
       ],
       "notes": null,
       "flags": [],
@@ -6148,7 +6148,7 @@
         ],
         "watch": [
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -6178,7 +6178,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Company: “NEW ORLEANS! HOME OF PIRATES, DRUNKS AND WHORES / NEW ORLEANS! TACKY OVER-PRICED SOUVENIR STORES / IF YOU WANT TO GO TO HELL YOU SHOULD TAKE A TRIP / TO THE SODOM AND GOMORRAH”",
             "count": 1,
@@ -6202,7 +6202,7 @@
       },
       "examples": [
         "Swearing — Bart Simpson: “(CHUCKLES) He's such a bitch.”",
-        "Slut-shaming — Company: “NEW ORLEANS! HOME OF PIRATES, DRUNKS AND WHORES / NEW ORLEANS! TACKY OVER-PRICED SOUVENIR STORES / IF YOU WANT TO GO TO HELL YOU SHOULD TAKE A TRIP / TO THE SODOM AND GOMORRAH”"
+        "Sexual insults — Company: “NEW ORLEANS! HOME OF PIRATES, DRUNKS AND WHORES / NEW ORLEANS! TACKY OVER-PRICED SOUVENIR STORES / IF YOU WANT TO GO TO HELL YOU SHOULD TAKE A TRIP / TO THE SODOM AND GOMORRAH”"
       ],
       "notes": null,
       "flags": [],
@@ -16482,7 +16482,7 @@
           "Porn / strippers / sex work",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -16580,7 +16580,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Lenny Leonard: “Man, that tramp's got the energy of a hobo!”",
             "count": 1,
@@ -16606,7 +16606,7 @@
         "Porn / strippers / sex work — Marge Simpson: “Celebrities at ringside tonight: star of the \"McBain\" action films and featured player in the Hollywood prostitution scandal, Rainier Wolfcastle; TV anchorman and Springfield institution, Mr. Kent Brockman.”",
         "Violence & injury — Dolph's Dad: “This is for the crummy life I've had to live! (THROWS ANOTHER PUNCH)”",
         "Alcohol & drugs — LUCIUS: “Well, the fans are weary of fights that are over before they have an opportunity to even get drunk. I just need a body who can sustain verticality for three rounds.”",
-        "Slut-shaming — Lenny Leonard: “Man, that tramp's got the energy of a hobo!”"
+        "Sexual insults — Lenny Leonard: “Man, that tramp's got the energy of a hobo!”"
       ],
       "notes": null,
       "flags": [],
@@ -19522,7 +19522,7 @@
         "watch": [
           "Alcohol & drugs",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -19562,7 +19562,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Female Voices: “(COMPUTERIZED) I'll scratch you. The hair. The hair. Slut. Loser. Skag. Skag. Skag.”",
             "count": 1,
@@ -19587,7 +19587,7 @@
       "examples": [
         "Alcohol & drugs — Homer Simpson: “I'm feelin' kinda low, Apu. You got any of that beer that has candy floatin' in it? You know, \"Skittlebrau\"?”",
         "Fat-shaming — Rainier Wolfcastle: “Quit stalling, fatty.”",
-        "Slut-shaming — Female Voices: “(COMPUTERIZED) I'll scratch you. The hair. The hair. Slut. Loser. Skag. Skag. Skag.”"
+        "Sexual insults — Female Voices: “(COMPUTERIZED) I'll scratch you. The hair. The hair. Slut. Loser. Skag. Skag. Skag.”"
       ],
       "notes": null,
       "flags": [],
@@ -21694,7 +21694,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -21776,7 +21776,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Marge Simpson: “Homer, you've got it set on \"Whore.\"”",
             "count": 1,
@@ -21802,7 +21802,7 @@
         "Nudity & bodies — Bart Simpson: “Hey, Dad, heard you swearing. Mind if I join in? (QUICKLY) Crap. Boobs. Crap.”",
         "Violence & injury — Lisa Simpson: “Dad, women won't like being shot in the face.”",
         "Alcohol & drugs — Homer Simpson: “Seventy-six point two?! But I'm already thirty-eight point one! I've wasted half my life!”",
-        "Slut-shaming — Marge Simpson: “Homer, you've got it set on \"Whore.\"”"
+        "Sexual insults — Marge Simpson: “Homer, you've got it set on \"Whore.\"”"
       ],
       "notes": null,
       "flags": [],
@@ -22508,7 +22508,7 @@
           "Affairs / cheating",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -22650,7 +22650,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Homer Simpson: “A tramp steamer! That's perfect!”",
             "count": 2,
@@ -22686,7 +22686,7 @@
         "Affairs / cheating — Homer Simpson: “(WISTFUL) I owe Dad so much. Those bedtime stories began my lifelong love affair with the printed word.”",
         "Violence & injury — Bloodbath Gulch",
         "Alcohol & drugs — Marge Simpson: “(TO HOMER) You can get drunk when we get home.”",
-        "Slut-shaming — Homer Simpson: “A tramp steamer! That's perfect!”"
+        "Sexual insults — Homer Simpson: “A tramp steamer! That's perfect!”"
       ],
       "notes": null,
       "flags": [],
@@ -22715,7 +22715,7 @@
         "watch": [
           "Nudity & bodies",
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -22779,7 +22779,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "C-3PO: “Ow! Ow! Stop! Please, save me, R2! (AS R2D2 RUNS AWAY BEEPING) Oh, you stupid little tramp! You're so boring! I hate you! Ow! Ow! Ow!”",
             "count": 1,
@@ -22825,7 +22825,7 @@
       "examples": [
         "Nudity & bodies — Big Tom: “Or have his genitals hooked up to a car battery?”",
         "Violence & injury — Homer Simpson: “(HORRIFIED GASP) His corpse is climbing the building!”",
-        "Slut-shaming — C-3PO: “Ow! Ow! Stop! Please, save me, R2! (AS R2D2 RUNS AWAY BEEPING) Oh, you stupid little tramp! You're so boring! I hate you! Ow! Ow! Ow!”"
+        "Sexual insults — C-3PO: “Ow! Ow! Stop! Please, save me, R2! (AS R2D2 RUNS AWAY BEEPING) Oh, you stupid little tramp! You're so boring! I hate you! Ow! Ow! Ow!”"
       ],
       "notes": null,
       "flags": [],
@@ -25457,7 +25457,7 @@
           "Sex & hookups",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -25523,7 +25523,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Marge Simpson: “And when you get a job interview, try not to call your employer a \"punk\" or a \"skank.\"”",
             "count": 2,
@@ -25557,7 +25557,7 @@
         "Sex & hookups — Meathook: “Oh, don't worry. You're completely safe. None of us finds ya sexually attractive.”",
         "Violence & injury — Fretful Mother: “Oh, I don't know what's come over Jimmy. He won't do his homework, he only salutes the flag with one finger, and he comes home every night with other people's blood on his shirt.”",
         "Alcohol & drugs — Edna Krabappel-Flanders: “All right, class. Today we'll be sitting quietly in the dark, because teacher has a hangover.”",
-        "Slut-shaming — Marge Simpson: “And when you get a job interview, try not to call your employer a \"punk\" or a \"skank.\"”"
+        "Sexual insults — Marge Simpson: “And when you get a job interview, try not to call your employer a \"punk\" or a \"skank.\"”"
       ],
       "notes": null,
       "flags": [],
@@ -30173,7 +30173,7 @@
           "Violence & injury",
           "Alcohol & drugs",
           "Homophobic jokes",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -30357,7 +30357,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Kent Brockman: “Well, according to our Audience Insta-poll, forty-six percent say \"You're Too Old\", and thirty-seven percent say \"She's A Skank\".”",
             "count": 1,
@@ -30542,7 +30542,7 @@
       "overall": 2,
       "age": 9,
       "verdict": "Mild — okay from about 9+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Light comedy tone",
@@ -30551,7 +30551,7 @@
         "watch": [
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -30591,7 +30591,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Lisa Simpson: “Like the whore of Babylon?”",
             "count": 1,
@@ -30616,7 +30616,7 @@
       "examples": [
         "Violence & injury — Homer Simpson: “(SOLEMN) Son, we are about to break the surly bonds of gravity and punch the face of God.”",
         "Alcohol & drugs — Jimbo Jones: “His name's Gunnar and he's datin' my Mom. Sometimes he buys us beer.”",
-        "Slut-shaming — Lisa Simpson: “Like the whore of Babylon?”"
+        "Sexual insults — Lisa Simpson: “Like the whore of Babylon?”"
       ],
       "notes": null,
       "flags": [],
@@ -31462,7 +31462,7 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -31492,7 +31492,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Jasper Beardly: Tramp.”",
             "count": 1,
@@ -31516,7 +31516,7 @@
       },
       "examples": [
         "Sex & hookups — Grampa Simpson: “Well, I gotta do something before the Viagra kicks in. I know, I'll suck my teeth. (SUCKS TEETH, THEN LOOKS DOWN) Whoa, here we go.”",
-        "Slut-shaming — “Jasper Beardly: Tramp.”"
+        "Sexual insults — “Jasper Beardly: Tramp.”"
       ],
       "notes": null,
       "flags": [],
@@ -32257,7 +32257,7 @@
           "Violence & injury",
           "Alcohol & drugs",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -32427,7 +32427,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Manjula Nahasapeemapetilon: (ICE COLD) Is it my husband's whore?”",
             "count": 1,
@@ -33212,7 +33212,7 @@
         "watch": [
           "Violence & injury",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -33268,7 +33268,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Mrs. McConnell: “Lisa comes to us from Miss Hoover (\"GLUG-GLUG\" NOISE)...While Bart was taught by Mrs. Krabappel (COUGHS \"SLUT\").”",
             "count": 1,
@@ -33293,7 +33293,7 @@
       "examples": [
         "Violence & injury — Bart Simpson: “Punch buggy red!”",
         "Fat-shaming — Tom Brokaw: “Oh Lord, I'm so fat.”",
-        "Slut-shaming — Mrs. McConnell: “Lisa comes to us from Miss Hoover (\"GLUG-GLUG\" NOISE)...While Bart was taught by Mrs. Krabappel (COUGHS \"SLUT\").”"
+        "Sexual insults — Mrs. McConnell: “Lisa comes to us from Miss Hoover (\"GLUG-GLUG\" NOISE)...While Bart was taught by Mrs. Krabappel (COUGHS \"SLUT\").”"
       ],
       "notes": null,
       "flags": [],
@@ -38332,7 +38332,7 @@
         "watch": [
           "Porn / strippers / sex work",
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -38412,7 +38412,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Bart Simpson: “Future skank!”",
             "count": 1,
@@ -38437,7 +38437,7 @@
       "examples": [
         "Porn / strippers / sex work — Saleswoman: “This is our \"Li'l Hooker\" line. All the girls your age are wearing it... except the freakishly unpopular.”",
         "Violence & injury — Salesman: “(SLIGHTLY ANNOYED) No, not bull-honky. A couple uses the gun to select gifts they want for their wedding.”",
-        "Slut-shaming — Bart Simpson: “Future skank!”"
+        "Sexual insults — Bart Simpson: “Future skank!”"
       ],
       "notes": null,
       "flags": [],
@@ -38780,7 +38780,7 @@
         "watch": [
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -38884,7 +38884,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Marge Simpson: “Get ready, skanks -- here comes the truth train!”",
             "count": 1,
@@ -38909,7 +38909,7 @@
       "examples": [
         "Violence & injury — Homer Simpson: “Pie Man is not your father, little girl. (COVERING) I... murdered your father.”",
         "Alcohol & drugs — Krusty the Clown: “(CHUCKLES) And finally, the breakaway wine bottle...”",
-        "Slut-shaming — Marge Simpson: “Get ready, skanks -- here comes the truth train!”"
+        "Sexual insults — Marge Simpson: “Get ready, skanks -- here comes the truth train!”"
       ],
       "notes": null,
       "flags": [],
@@ -39354,7 +39354,7 @@
           "Sex & hookups",
           "Nudity & bodies",
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -39468,7 +39468,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Lord Mayor Quimby: “This week in our Summer Hanging Series, we're pleased to present the Muttonchop Murderer. At last God-fearing Londoners are free to walk Whore Alley.”",
             "count": 1,
@@ -39494,7 +39494,7 @@
         "Sex & hookups — Ned Flanders: “I just told the natives they were havin' sex the wrong way!”",
         "Nudity & bodies — Homer Simpson: “So, what'd I die of? Too much happiness? Naked girl avalanche?”",
         "Violence & injury — Inspector Wiggum: “(SIGH) Looks like the muttonchop murderer has struck again.”",
-        "Slut-shaming — Lord Mayor Quimby: “This week in our Summer Hanging Series, we're pleased to present the Muttonchop Murderer. At last God-fearing Londoners are free to walk Whore Alley.”"
+        "Sexual insults — Lord Mayor Quimby: “This week in our Summer Hanging Series, we're pleased to present the Muttonchop Murderer. At last God-fearing Londoners are free to walk Whore Alley.”"
       ],
       "notes": null,
       "flags": [],
@@ -40121,7 +40121,7 @@
           "Violence & injury",
           "Alcohol & drugs",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -40223,7 +40223,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Ned Flanders: “Careful, it's hotter than a Fox News weather skank.”",
             "count": 1,
@@ -40251,7 +40251,7 @@
         "Violence & injury — Chief Wiggum: “(TO GRAMPA) Get in the car -- and don't touch those guns, I just loaded 'em.”",
         "Alcohol & drugs — Homer Simpson: “Dad, you tried your best. For the first time in my life I can say, without being drunk, that I truly admire you.”",
         "Fat-shaming — Homer Simpson: “Don't dump me out! I can lose weight! Just give me a chance.”",
-        "Slut-shaming — Ned Flanders: “Careful, it's hotter than a Fox News weather skank.”"
+        "Sexual insults — Ned Flanders: “Careful, it's hotter than a Fox News weather skank.”"
       ],
       "notes": null,
       "flags": [],
@@ -40820,7 +40820,7 @@
       "overall": 1,
       "age": 9,
       "verdict": "Usually fine — about 9+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Light comedy tone",
@@ -40828,7 +40828,7 @@
         ],
         "watch": [
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -40858,7 +40858,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Woman: “You've reached Fox. If you're pitching a show where gold-digging skanks get what's coming to them, press one. If you're pitching a rip-off of another network's reality show, press two.”",
             "count": 1,
@@ -40951,7 +40951,7 @@
       },
       "examples": [
         "Alcohol & drugs — Bart Simpson: “(CHUCKLES) Some sucker will think he's getting beer, but he's really gonna get a face full of melon!”",
-        "Slut-shaming — Woman: “You've reached Fox. If you're pitching a show where gold-digging skanks get what's coming to them, press one. If you're pitching a rip-off of another network's reality show, press two.”"
+        "Sexual insults — Woman: “You've reached Fox. If you're pitching a show where gold-digging skanks get what's coming to them, press one. If you're pitching a rip-off of another network's reality show, press two.”"
       ],
       "notes": null,
       "flags": [],
@@ -42771,7 +42771,7 @@
           "Affairs / cheating",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -42937,7 +42937,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Bart Simpson: “Skanks for nothing, Lamerella. (LAME-ER-ELLA)”",
             "count": 1,
@@ -42986,7 +42986,7 @@
         "Affairs / cheating — Amer-asian Girl: “You cheated on me! Our mixed-race fling is so over!”",
         "Violence & injury — Chief Wiggum: “I'm fine. Watch, I can even touch my gun to my nose.”",
         "Alcohol & drugs — Milhouse Van Houten: “Mom, I don't wanna get Dad in trouble... but he just let me drink a beer. (HOLDS UP EMPTY BEER BOTTLE)”",
-        "Slut-shaming — Bart Simpson: “Skanks for nothing, Lamerella. (LAME-ER-ELLA)”"
+        "Sexual insults — Bart Simpson: “Skanks for nothing, Lamerella. (LAME-ER-ELLA)”"
       ],
       "notes": null,
       "flags": [],
@@ -43466,7 +43466,7 @@
           "Violence & injury",
           "Alcohol & drugs",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -43644,7 +43644,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Goat Woman: “Kentucky?! In Italian, this mean whore!”",
             "count": 1,
@@ -43670,7 +43670,7 @@
         "Violence & injury — Sideshow Bob: “My tale begins after I had once again attempted to murder Bart...”",
         "Alcohol & drugs — Homer Simpson: “A McDonald's where you can get booze!”",
         "Fat-shaming — Homer Simpson: “It says that we should turn left at a fat chick in a tu-tu being fed by a midget.”",
-        "Slut-shaming — Goat Woman: “Kentucky?! In Italian, this mean whore!”"
+        "Sexual insults — Goat Woman: “Kentucky?! In Italian, this mean whore!”"
       ],
       "notes": null,
       "flags": [],
@@ -44724,7 +44724,7 @@
           "Violence & injury",
           "Suicide & self-harm",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -44824,7 +44824,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Sideshow Mel: “(SPUTTERS) Isn't your mother a well-known whore?”",
             "count": 1,
@@ -44880,7 +44880,7 @@
         "Violence & injury — Dr. Egoyan: “I am so honored that you've chosen me to murder you. You'll be following in the footsteps of Socrates, Virginia Woolf, Ernest Hemingway, Hunter S. Thompson, and Fred Kanickee.”",
         "Suicide & self-harm — Dr. Egoyan: “Mr. Simpson, you are a good candidate for assisted suicide.”",
         "Alcohol & drugs — Homer Simpson: “Plus I designed a state-of-the-art stadium. We'll fund it with corporate naming rights. It's the Duff Beer-Krustyburger-Buzz Cola-Costington's Department Store-Kwik-E-Mart-Stupid Flanders Park!”",
-        "Slut-shaming — Sideshow Mel: “(SPUTTERS) Isn't your mother a well-known whore?”"
+        "Sexual insults — Sideshow Mel: “(SPUTTERS) Isn't your mother a well-known whore?”"
       ],
       "notes": null,
       "flags": [],
@@ -45358,7 +45358,7 @@
           "Violence & injury",
           "Swearing",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -45480,7 +45480,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Ned Flanders: “(UPBEAT) Only ten dollars to paint my curb like a common whore? Well I'm happy to pay for a three-digit spray! (PAYS THEM) Tell you what, I'll give you another hundred if you paint my garage!”",
             "count": 1,
@@ -45527,7 +45527,7 @@
         "Violence & injury — Marge Simpson: “(WEAK) My head feels like it was punched by a boxing man.”",
         "Swearing — Marge Simpson: “That's her! Don't answer it yet! I don't want that judgmental bitch in my house!”",
         "Alcohol & drugs — Homer Simpson: “(LYING) On second thought, I am Brenda Wine cooler. (SNEAKY CHUCKLE)”",
-        "Slut-shaming — Ned Flanders: “(UPBEAT) Only ten dollars to paint my curb like a common whore? Well I'm happy to pay for a three-digit spray! (PAYS THEM) Tell you what, I'll give you another hundred if you paint my garage!”"
+        "Sexual insults — Ned Flanders: “(UPBEAT) Only ten dollars to paint my curb like a common whore? Well I'm happy to pay for a three-digit spray! (PAYS THEM) Tell you what, I'll give you another hundred if you paint my garage!”"
       ],
       "notes": null,
       "flags": [],
@@ -47249,7 +47249,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -47341,7 +47341,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Homer Simpson: “(GRAVE) It's a tragedy, a real tragedy. I mean, what kind of tramp gets knocked up before she's even married?”",
             "count": 1,
@@ -47389,7 +47389,7 @@
         "Nudity & bodies — Bart Simpson: “Hey Lis, check it out! With some clever scissor work, I can make the \"LakeLand Butter\" Indian maiden show me her boobs.”",
         "Violence & injury — Teen Boy: “Lighten up, baby. There hasn't been a murder here in ten years. Ten years tonight.”",
         "Alcohol & drugs — Homer Simpson: “(DRUNK) Bart... buddy! It's your dad! I need a ride! I think I'm in Chinatown. (BEAT) Not our Chinatown.”",
-        "Slut-shaming — Homer Simpson: “(GRAVE) It's a tragedy, a real tragedy. I mean, what kind of tramp gets knocked up before she's even married?”"
+        "Sexual insults — Homer Simpson: “(GRAVE) It's a tragedy, a real tragedy. I mean, what kind of tramp gets knocked up before she's even married?”"
       ],
       "notes": null,
       "flags": [],
@@ -48897,7 +48897,7 @@
           "Violence & injury",
           "Suicide & self-harm",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -48973,7 +48973,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Bart Simpson: “Shut the Hell up, you damn ass whore.”",
             "count": 1,
@@ -49021,7 +49021,7 @@
         "Violence & injury — Homer Simpson: “(SMELLING BLOOD) Outside? That's a one-hour parking zone -- and you've been here a good eighty-one minutes.”",
         "Suicide & self-harm — Louie: “You know... if you're interested... we could use another hook jockey. The Springfield territory's wide open, since Flatbed Fred got killed in that murder-murder-murder-suicide.”",
         "Fat-shaming — Mayor Joe Quimby: “If I'd wanted the laws of this town enforced to the letter, I wouldn't have hired fatty here as police chief.”",
-        "Slut-shaming — Bart Simpson: “Shut the Hell up, you damn ass whore.”"
+        "Sexual insults — Bart Simpson: “Shut the Hell up, you damn ass whore.”"
       ],
       "notes": null,
       "flags": [],
@@ -49157,7 +49157,7 @@
           "Sex & hookups",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -49231,7 +49231,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Homer Simpson: “(MAD) Out of my way, mystery skank!”",
             "count": 1,
@@ -49257,7 +49257,7 @@
         "Sex & hookups — Homer Simpson: “(SEXY) That can be arranged.”",
         "Violence & injury — Marge Simpson: “You just can't get Russian gangster blood out. Must be something they eat.”",
         "Alcohol & drugs — Marge Simpson: “All those nights I thought you were out getting drunk, you were out killing people?!”",
-        "Slut-shaming — Homer Simpson: “(MAD) Out of my way, mystery skank!”"
+        "Sexual insults — Homer Simpson: “(MAD) Out of my way, mystery skank!”"
       ],
       "notes": null,
       "flags": [],
@@ -50151,7 +50151,7 @@
           "Violence & injury",
           "Alcohol & drugs",
           "Homophobic jokes",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -50303,7 +50303,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Zack: “(SHARPLY) Yeah, yeah we're all whores. Just get in there!”",
             "count": 1,
@@ -51790,7 +51790,7 @@
           "Sex & hookups",
           "Nudity & bodies",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -51848,7 +51848,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Homer Simpson: “(SNORTS) Flowers -- the painted whores of the plant world.”",
             "count": 1,
@@ -51874,7 +51874,7 @@
         "Sex & hookups — Homer Simpson: “And she's ready for a night of anonymous sex with multiple partners. (CHUCKLES)”",
         "Nudity & bodies — C. Montgomery Burns: “(CALLING TO CAMPERS) Skinny dip!”",
         "Alcohol & drugs — The Rich Texan: “Take good care of 'em, Burnsie. Don't let the forwards mix with the guards. And if they're actin' sluggish, slip some steroids into their cocaine.”",
-        "Slut-shaming — Homer Simpson: “(SNORTS) Flowers -- the painted whores of the plant world.”"
+        "Sexual insults — Homer Simpson: “(SNORTS) Flowers -- the painted whores of the plant world.”"
       ],
       "notes": null,
       "flags": [],
@@ -56183,7 +56183,7 @@
         "watch": [
           "Sex & hookups",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -56223,7 +56223,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Chris Hansen: “I'm Chris Hansen from \"To Catch A Credit-Whore\". We know you've been returning used items all over town.”",
             "count": 1,
@@ -56248,7 +56248,7 @@
       "examples": [
         "Sex & hookups — Mark Zuckerberg: “Bill Gates -- dropout. Virgin Airlines' Richard Branson -- dropout.”",
         "Alcohol & drugs — Nelson Muntz: “(SADLY) Sorry I wasted your time. No fool would take a chance on a loser like me.”",
-        "Slut-shaming — Chris Hansen: “I'm Chris Hansen from \"To Catch A Credit-Whore\". We know you've been returning used items all over town.”"
+        "Sexual insults — Chris Hansen: “I'm Chris Hansen from \"To Catch A Credit-Whore\". We know you've been returning used items all over town.”"
       ],
       "notes": null,
       "flags": [],
@@ -56781,7 +56781,7 @@
         ],
         "watch": [
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -56827,7 +56827,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Homer Simpson: “Even my tramp stamp?”",
             "count": 1,
@@ -56851,7 +56851,7 @@
       },
       "examples": [
         "Violence & injury — Homer Simpson: “And so The Bloody Hangman, his hair sticky with blood, skittered along the cobblestones, gunk dripping from his one good eye, singing his evil land chantey.”",
-        "Slut-shaming — Homer Simpson: “Even my tramp stamp?”"
+        "Sexual insults — Homer Simpson: “Even my tramp stamp?”"
       ],
       "notes": null,
       "flags": [],
@@ -58230,7 +58230,7 @@
         "watch": [
           "Sex & hookups",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -58278,7 +58278,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Cregg Demon: “Okay, for my first chillusion, I'm gonna descend into Hell and pull up a skank.”",
             "count": 1,
@@ -58303,7 +58303,7 @@
       "examples": [
         "Sex & hookups — David Copperfield: “(SEXY PREENING NOISES) Oh yeah, it's magical.”",
         "Alcohol & drugs — Raymondo: “The lady in question is my late wife, Esther. (HEARTFELT) She was the only other soul who knew the secret of my greatest trick. Now I'm alone with my memories and my medical marijuana.”",
-        "Slut-shaming — Cregg Demon: “Okay, for my first chillusion, I'm gonna descend into Hell and pull up a skank.”"
+        "Sexual insults — Cregg Demon: “Okay, for my first chillusion, I'm gonna descend into Hell and pull up a skank.”"
       ],
       "notes": null,
       "flags": [],
@@ -60120,7 +60120,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Racism & slurs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -60220,7 +60220,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Lisa Simpson: “(SADLY) Looks like we're back to traveling on tramp steamers and produce trucks.”",
             "count": 1,
@@ -60268,7 +60268,7 @@
         "Nudity & bodies — Marge Simpson: “Now I have to change the nipple!”",
         "Violence & injury — Bart Simpson: “I call shotgun!”",
         "Racism & slurs — Homer Simpson: “Audio book read by Lenny. I'm not just another loudmouth. I'm a loudmouth who says things you're afraid to say (BOOMING) BUT NOT RACIST THINGS!”",
-        "Slut-shaming — Lisa Simpson: “(SADLY) Looks like we're back to traveling on tramp steamers and produce trucks.”"
+        "Sexual insults — Lisa Simpson: “(SADLY) Looks like we're back to traveling on tramp steamers and produce trucks.”"
       ],
       "notes": null,
       "flags": [],
@@ -65230,7 +65230,7 @@
           "Violence & injury",
           "Suicide & self-harm",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -65348,7 +65348,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Announcer: “Also available in \"Arctic Slut,\" \"Morning After Melon,\" and \"Elon Musk.\"”",
             "count": 1,
@@ -65376,7 +65376,7 @@
         "Violence & injury — Deputy Director Gratman: “Men, set your guns on \"kill.\" We're going after Homer Simpson.”",
         "Suicide & self-harm — Deputy Director Gratman: “I'm here to arrest and hopefully stage the prison suicide of the mastermind of this operation -- Homer Simpson!”",
         "Alcohol & drugs — Homer Simpson: “Yeah, and why don't they make a sequel to \"Taken\" where the \"Hangover\" guys get taken and the only ones that can rescue them is \"Fast and Furious.\"”",
-        "Slut-shaming — Announcer: “Also available in \"Arctic Slut,\" \"Morning After Melon,\" and \"Elon Musk.\"”"
+        "Sexual insults — Announcer: “Also available in \"Arctic Slut,\" \"Morning After Melon,\" and \"Elon Musk.\"”"
       ],
       "notes": null,
       "flags": [],
@@ -66885,7 +66885,7 @@
           "Porn / strippers / sex work",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -66969,7 +66969,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "Krusty the Clown: “I say this with love, you disrespectful skank. You've... had more... (SAD) suddenly, I don't feel like doin' this.”",
             "count": 1,
@@ -66996,7 +66996,7 @@
         "Porn / strippers / sex work — Bart Simpson: “Who's a hooker?”",
         "Violence & injury — RODNEY DANGERFIELD: “Just this once, you think you could turn water into a Bloody Mary?”",
         "Alcohol & drugs — Krusty the Clown: “Where's my whiskey funnel!”",
-        "Slut-shaming — Krusty the Clown: “I say this with love, you disrespectful skank. You've... had more... (SAD) suddenly, I don't feel like doin' this.”"
+        "Sexual insults — Krusty the Clown: “I say this with love, you disrespectful skank. You've... had more... (SAD) suddenly, I don't feel like doin' this.”"
       ],
       "notes": null,
       "flags": [],

@@ -147,7 +147,7 @@ Watch for:
 - Sex & hookups — 2 moment(s)
   - [Moderate] “She stole the car, she snuck out to the roughest bar in town and then she hooked up with a human Godzilla.”
   - [Mild] “Uncle Phil, mon! You are generous, fair-minded, and very sexy.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “G, the Lady is a tramp.”
 
 ## S1 E21 — 21. Love at First Fight
@@ -166,7 +166,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I have my wine collection.”
   - [Mild] “Cocktails! Who the hell are you? My name is Fred Lomax, Jr.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Fred, get up! I can't get no sleep around here today to save my life.”
 
 ## S1 E23 — 23. 72 Hours
@@ -674,7 +674,7 @@ Watch for:
   - [Explicit] “Did you by any chance see Murder, She Wrote last week? - No.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Yeah, well, you just wasted about 15 seconds, buddy.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Could luck be a lady tonight? Tramp.”
 
 ## S3 E22 — 22. Ain't No Business Like Show Business
@@ -763,7 +763,7 @@ Watch for:
   - [Mild] “And then he slapped me with a subpoena.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Yes! This will be a good one for the cocktail parties, Philip.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Hit the bricks, you little tramp!”
 
 ## S4 E7 — 7. Hex and the Single Guy
@@ -1255,7 +1255,7 @@ Watch for:
   - [Moderate] “You said that you needed to have a license to have sex and that I couldn't even take the test until I was 35.”
   - [Mild] “And last night, the subject came up about, um uh, sex.”
   - [Mild] “You remember the first time I asked you about sex? You panicked then too.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “"Whatever will be, will be"? What kind of devil-may-care message is that? - The slut.”
 
 ## S6 E8 — 8. Viva Lost Wages

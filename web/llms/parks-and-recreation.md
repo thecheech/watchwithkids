@@ -96,7 +96,7 @@ Watch for:
   - [Explicit] “This wooded area is the site of, um, the murder, actually, of Nathaniel Bixby Mark.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Does he drive much out of state? I know that your husband is a drunk driver.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “How about this? "Marlene Griggs-Knope is definitely not a whore.”
 
 ## S1 E6 — 6. Rock Show
@@ -230,7 +230,7 @@ Watch for:
   - [Explicit] “What are we doing? Is it dangerous? We're not gonna murder anyone.”
 - Suicide & self-harm — 1 moment(s)
   - [Explicit] “Suicide Hotline, surprisingly lame spread.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Yeah, but just think of all the kids that'll swing on this swing, fat kids, skinny kids, brainiacs, sluts, the gay drama kids, goths, jocks, the alternative crowd.”
 
 ## S2 E7 — 7. Greg Pikitis
@@ -275,7 +275,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Explicit] “They're like a biker gang, but instead of shotguns and crystal meth, they use political savvy and shushing.”
   - [Mild] “You know, a day like this makes a man reflect upon his life, and I've come to the conclusion that I've completely wasted mine.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “If I'd had a park like that when I was growing up, I probably wouldn't have gone through such a prolonged mall-slut phase.”
 
 ## S2 E9 — 9. The Camel
@@ -592,7 +592,7 @@ Watch for:
   - [Moderate] “The less I know about other people's affairs, the happier I am.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “Forgot to mention, the tiny kangaroo is a racist.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Stay back, slut! I know what she's trying to do.”
 
 ## S3 E3 — 3. Time Capsule
@@ -621,7 +621,7 @@ Watch for:
   - [Mild] “Can I have two beers, please? Hey, you okay? Wendy and I are over.”
   - [Mild] “I would like a glass of white wine.”
   - [Mild] “Appears to be slightly intoxicated.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Sounds like a real whore.”
 
 ## S3 E5 — 5. Media Blitz
@@ -663,7 +663,7 @@ Watch for:
   - [Mild] “Could you get us a cold compress or something? Hey, six beers for table 12.”
   - [Mild] “Another time, a guy invited me to a beautiful picnic with wine and flowers, and then, when I tried to sit down, he said, "Don't eat anything.”
   - [Mild] “It's just vodka and a bunch of cinnamon.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “That guy just pitched me a cologne called Sluts.”
 
 ## S3 E7 — 7. Harvest Festival
@@ -917,7 +917,7 @@ Watch for:
   - [Mild] “You his friend? Him? Hell, no.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Candy, dancing, Tequila.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Food and Stuff, JJ's Diner, Glenmore Discount Cemetery, uh, Tramp Stamp Tattoos, Enormous Kenny's Fried Dough Stand and Mobile Phone Emporium.”
 
 ## S4 E6 — 6. End of the World
@@ -972,7 +972,7 @@ Watch for:
   - [Mild] “Does anyone have anything? Did anybody find anything good? In 1856, the city council banned all sexual positions except for missionary.”
 - Affairs / cheating — 1 moment(s)
   - [Moderate] “Now, in order to cover up their illicit affair, Ben Wyatt and Leslie Knope bribed a city employee.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You go down in history as a frozen whore.”
 
 ## S4 E10 — 10. Citizen Knope
@@ -1263,7 +1263,7 @@ Watch for:
   - [Explicit] “It's political suicide.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “" There's even a little Indian guy, but he has a turban on, which I think is racist, but the Asian guy also has a racist hat on, and it's like, "Hold up, didn't Japanese people invent this?" Podcasts.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Well, maybe not where you come from in "Tramp-sylvania.”
 
 ## S5 E5 — 5. Halloween Surprise
@@ -1666,7 +1666,7 @@ Watch for:
   - [Moderate] “I've got Tynnyfer now, and Craig, and Eric, the racist drug dealer who I've yet to meet.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “I've got Tynnyfer now, and Craig, and Eric, the racist drug dealer who I've yet to meet.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Slut and Skank.”
 
 ## S6 E5 — 5. Gin It Up!

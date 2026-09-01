@@ -136,7 +136,7 @@ Watch for:
   - [Explicit] “What do you mean? Now you're addicted to heroin.”
   - [Moderate] “Weed, I got a great idea for a new line of TV action figures.”
   - [Mild] “Cocktail parties, school functions, that time we planted trees in Jerusalem.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “If that slut wants full custody of the kids, she's got it.”
 
 ## S1 E6 — 6. The Son Also Draws
@@ -159,7 +159,7 @@ Watch for:
   - [Mild] “Damn it, JuIie.”
   - [Mild] “…son You know we'll have a--'' Oh, my God! TREES: Fire! Let's get out of here! TREE: Run, you stupid bastards!”
   - [Mild] “Canada sucks.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Patty, did you know that your mother is a whore? l think it's great that you and Chris've been spending so much time together.”
 
 ## S1 E7 — 7. Brian: Portrait of a Dog
@@ -215,7 +215,7 @@ Watch for:
   - [Mild] “Your Aunt Marguerite is laughing at me while she's burning in Hell may she rest in peace.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Vodka stinger with a whiskey back.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “No, because your ancestors were nothing but a bunch of pimps and whores.”
 
 ## S2 E2 — 2. Holy Crap
@@ -307,7 +307,7 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - [Moderate] Gun loading.
   - [Moderate] STEWIE: “Damn it! I want pancakes! You people understand every language except English! Yo quiero pancakes! Donnez-moi pancakes! Click-click-bloody-click pancakes! Poor little guy.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Henry, give the little skank a nice tip.”
 
 ## S2 E6 — 6. Death Is a Bitch
@@ -418,7 +418,7 @@ Watch for:
   - [Mild] “Make them stop worshipping you before it starts hailing in my house! There's gotta be an explanation for all this! You want an explanation? God is pissed! Let's get out of here! [Eerie instrumental music.]”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “What kind of man devalues the life of his child for a TV show? Anyone who wouldn't pretend their own son is dying to get the Gumbels back on TV is a racist.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Tonight, Katie Couric guest stars as a very perky crack whore.”
 
 ## S2 E10 — 10. Running Mates
@@ -443,7 +443,7 @@ Watch for:
   - [Mild] “But I'm warning you, I'm not gonna|pull any punches on the issues.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What a great day! I just want to say I am so freaking wasted! [All gasping.]”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] PETER: “Lois Griffin is a slut.”
 
 ## S2 E11 — 11. A Picture Is Worth 1,000 Bucks
@@ -490,7 +490,7 @@ Watch for:
   - [Moderate] “What the hell is this? I said egg whites only! Are you trying to give me a bloody heart attack? Make it again! Ah, the breakfast thing.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Man! That guy must've been wasted 24 hours a day, huh? We have a caller on the line.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “But, Dad - Upstairs! You're a McDonald, not a whore.”
 
 ## S2 E13 — 13. Road to Rhode Island
@@ -663,7 +663,7 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - [Moderate] “I was pink as a pistol.”
   - [Moderate] “Pink as a pistol?! Good Lord! I can't even form a cogent simile any more.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Whoa! Whoa-ho! - How old are you? - Old enough to know you're a whore.”
 
 ## S3 E1 — 1. The Thin White Line (1)
@@ -706,7 +706,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Explicit] “My director quit and I need somebody who's|smart, ambitious and not addicted to meth.”
   - [Mild] “I'm already drunk.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “|All the studs and sluts are arriving.”
 
 ## S3 E3 — 3. Mr. Griffin Goes to Washington
@@ -853,7 +853,7 @@ Watch for:
   - [Moderate] “(beep) Mr Tucker, Miss Simmons, there's a nut on|top of Town Hall with a high-powered rifle.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “…my God, we're gonna die! There's|so much of life I haven't experienced! I never got the chance to be some|drunk college guy's last resort!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Meg, I strongly suggest you hold|my hand, lest you look like a slut.”
 
 ## S3 E9 — 9. Mr. Saturday Knight
@@ -902,7 +902,7 @@ Watch for:
   - [Mild] “|- Way to go on that beer bong.”
   - [Mild] “Give me another beer.”
   - [Mild] “Getting drunk and ditching you at the bar, and letting those boys take pictures|of you sleeping.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “How am I gonna come up with 50 grand? You could whore yourself out to|a thousand fat chicks for 50 bucks apiece.”
   - [Moderate] “You can whore yourself out|to a thousand fat chicks for 50 bucks.”
 
@@ -975,7 +975,7 @@ Watch for:
   - [Mild] “|- Oh, I don't think I can You can beat him, Mr Pewterschmidt.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Carter, did you tell your son-in-law|he's not supposed to swallow the wine? Hey, where the hell is that Peter Griffin? He said he'd give me a hundred dollars|if I took off all my clothes off.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Oh, so I should treat him|like a high-class whore.”
   - [Moderate] “Stop! Brian, come quick! - Oh, my God! Those aren't my puppies!|- Then whose are they? (barking) You! You're a whore! A filthy, filthy whore! You must be so relieved.”
 
@@ -1000,7 +1000,7 @@ Watch for:
   - [Mild] “…anything can happen "There's a chair that freakin' talks "There's some fish that give advice|Holy crap!”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Oink, oink, fatty.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Yo, did y'all check me when|that hottie was all up in my Kool-Aid? I was lookin' to break off somethin', but my crew gave me the 411 on that skank|and she's all about the bling-bling.”
 
 ## S3 E15 — 15. Ready, Willing, and Disabled
@@ -1059,7 +1059,7 @@ Watch for:
   - [Moderate] “…brought the hippie breed "And decades later|things have changed indeed "We lost the values but we kept the weed "You've got a lot to see "The Reagan years have laid the frame "For movie stars to play|the White House…”
   - [Mild] “(cans rattle) I'll meet you at The Drunken Clam.”
   - [Mild] “Remember when I gave|you apple juice and told you it was wine? - (drunkenly) You are a special person.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “(" "One" by Three Dog Night) You are a filthy whore.”
   - [Moderate] “…a family place with lots to do "Where in the '50s, a man could mingle|with scores of all the seediest whores "Now his children can, too "You heard it from the canine's mouth "The country's changed -|that is, except…”
 
@@ -1112,7 +1112,7 @@ Watch for:
   - [Mild] “Hey, Lois, can you grab me a beer? - Lois?|- Dad, I think she went out.”
   - [Mild] “Lois, can you grab me a beer?|Oh, my God!”
   - [Mild] “I wouldn't bring|A glass of wine.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Please! Where my eyes are half-closed?|- God, just take the damn compliment! - What is Lois doing with another man?|- Is it possible she's a whore?”
   - [Moderate] “Probably that skank who needed a ride.”
 
@@ -1136,7 +1136,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I vill hear no more insinuations|about Germans! Nothing bad happened! (yelling in German) - Uh, is that a beer hall?|- Oh, yes.”
   - [Mild] “Munich is renowned|for its historic beer halls.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “"There's not a whole lot|that we've got to agree on "Cos I love the strains of a classical score "And I like that singer|who looks like a whore - Ricky Martin?|- Love him!”
 
 ## S3 E21 — 21. Family Guy Viewer Mail (1)
@@ -1183,7 +1183,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “It's just vodka.”
   - [Mild] “Tucker, it seems your son Jake had some vodka at the schooI dance and Chris got blamed for it.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You fouI, venereaI-disease-carrying, streetwalking whore.”
 
 ## S4 E2 — 2. Fast Times at Buddy Cianci Jr. High
@@ -1256,7 +1256,7 @@ Watch for:
   - [Mild] “Who is she? God, I could strangle her all night long.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You know, Peter, just because you guys entertained a bunch of drunken idiots at a karaoke bar, doesn't mean you have what it takes to form a band.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “What about this, Meg? A pink baby tee that says "Little Slut?" - That seems pretty hip.”
 
 ## S4 E5 — 5. The Cleveland-Loretta Quagmire
@@ -1355,7 +1355,7 @@ Watch for:
   - [Mild] “Well, how about no more job? You hear that, Miss Fussy Britches? I shall see you fired, damn you! I thought we were going to go all the way and die together like Hitler and Eva Braun.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “They were doing marijuana and heroin.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “The guy who just whiffed his way down the bar-skank ladder.”
 
 ## S4 E9 — 9. Breaking Out Is Hard to Do
@@ -1594,7 +1594,7 @@ Watch for:
   - [Mild] “My God, look at you fat bastards.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Yeah? Marian just called you a homo.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Whore, slut, bitch.”
   - [Moderate] “I'm gonna eat the whore out of you.”
 
@@ -1632,7 +1632,7 @@ Watch for:
   - [Mild] “Nancy, get me a beer.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “His folksy racism, his "I don't care where I am" flatulence.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Your wife's a Protestant whore and your baby isn't even baptised! All right, Dad.”
   - [Moderate] “And she's a whore.”
 
@@ -1713,7 +1713,7 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - [Moderate] “That guy on the grassy knoll's got a gun.”
   - [Moderate] “What the deuce is all the commotion? All right! Out of my way! Move aside! What the hell is so bloody fascinating? You! Well, well, well.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Easy, easy, girl.”
 
 ## S4 E23 — 23. Deep Throats
@@ -1770,7 +1770,7 @@ Watch for:
   - [Mild] “The bus smells like crap, the movie theater is sticky, and Renee Zellweger should only be the cute friend at best.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “What do you want, homo? - Listen, uh, Mr.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And even if they were, who cares? They're whores.”
 
 ## S4 E25 — 25. You May Kiss The...Uh...Guy Who Receives
@@ -1852,7 +1852,7 @@ Watch for:
   - [Mild] “So, how's this work, you just feel my pulse or - What the hell was that? - Mr.”
   - [Mild] “And so am I! Oh, God, it was horrible! I scrubbed, and I scrubbed, but damn it, they don't make water hot enough! My God, we've all been victims of Dr.”
   - [Mild] “I am going to sue that bastard and make him pay out the ass.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Who's that? Who are you? Where's Peter? Where is he? You're a whore.”
   - [Moderate] “Wear your whore makeup, you whore.”
 
@@ -1886,7 +1886,7 @@ Watch for:
   - [Mild] “You got to call dad and get back together with Holy crap! We'll have more on these new developments after this.”
   - [Mild] “1 Quahog! Oh, baby! What the hell are you doing? Wha-What the hell does that have to do with anything? They're just wacky sounds, you know to liven things up.”
   - [Mild] “Ow, Peter, don't pinch me! Ow! Ow stop it! Knock it off, damn it! Cut it out.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And now he's dead! They're both dead! I don't give a crap about Woodstock, but Snoopy Get off me, you skank! I can't believe you left Dad.”
 
 ## S5 E3 — 3. Hell Comes to Quahog
@@ -2014,7 +2014,7 @@ Watch for:
   - [Mild] “All right, getting a tooth to lure that damn fairy back shouldn't be too difficult.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “Meth is a hell of a drug.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “All right, Tooth Whore, do your worst.”
 
 ## S5 E7 — 7. Chick Cancer
@@ -2047,7 +2047,7 @@ Watch for:
   - [Mild] “So, what happened? Well, you want to know what I learned this week? Being a grown-up sucks.”
 - Alcohol & drugs — 1 moment(s)
   - [Moderate] “Would Howard Hesseman lie for weed? We don't think so.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I don't want my neighbors seeing a fat, old, dirty whore screaming at me on my front lawn.”
   - [Moderate] “"Whore"? - Well, maybe I should come inside.”
 
@@ -2079,7 +2079,7 @@ Watch for:
   - [Mild] “Sorry, that was the booze, not you.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “I'm so fat and gross.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “But now you can't stand to look at yourself in the mirror because all you see is a whore.”
   - [Moderate] “She's a she's a skank.”
   - [Moderate] “Get naked, you strange whore! Peter, I haven't seen Meg or Brian since last night.”
@@ -2140,7 +2140,7 @@ Watch for:
   - [Mild] “You know, Ireland has more drunks per capita than people.”
   - [Mild] “Get me a beer, Brian.”
   - [Mild] “From our drunken Irish dad!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I'm an adorable tramp who wears found clothing and eats out of your garbage can.”
 
 ## S5 E11 — 11. The Tan Aquatic with Steve Zissou
@@ -2250,7 +2250,7 @@ Watch for:
   - [Mild] “Connect the dots? Ha! More like set the book down and have a beer.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “It's racist, and for God's sake, you ruined your best suit.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “It's water weight, you bastard! Get off me! I'm not your whore.”
 
 ## S5 E15 — 15. Boys Do Cry
@@ -2511,7 +2511,7 @@ Watch for:
   - [Mild] “All right, getting a tooth to lure that damn fairy back shouldn't be too difficult.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “Meth is a hell of a drug.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “All right, Tooth Whore, do your worst.”
 
 ## S6 E7 — 7. Peter's Daughter
@@ -2542,7 +2542,7 @@ Watch for:
   - [Mild] “So what happened? Well, you wanna know what I learned this week? Being a grown-up sucks.”
 - Alcohol & drugs — 1 moment(s)
   - [Moderate] “Would Howard Hesseman lie for weed? We don't think so.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I don't want my neighbors seeing a fat, old, dirty whore screaming at me on my front lawn.”
   - [Moderate] “Whore? - Well, maybe I should come inside.”
 
@@ -2615,7 +2615,7 @@ Watch for:
   - [Mild] “You know, Ireland has more drunks per capita than people.”
   - [Mild] “Get me a beer, Brian.”
   - [Mild] “From our drunken Irish dad!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I'm an adorable tramp who wears found clothing and eats out of your garbage can.”
 
 ## S6 E11 — 11. The Former Life of Brian
@@ -2714,7 +2714,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “You're gonna turn it into wine.”
   - [Mild] “Hey, I just drank a beer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Last time I was down here on Earth, I only hung around with one whore.”
 
 ## S7 E3 — 3. Road to Germany
@@ -2806,7 +2806,7 @@ Watch for:
   - [Mild] “Who the hell cares? Peter, I would like to remind you that you are in a classroom.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “And whoever collects the most is gonna win a free weekend here with international foods and wine tasting.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…Take me out to pLace tonight Where a dude can pick a fight Over who takes home That smoking Chinese bar skank On the right There's a throng of trendy people And they're stretched Around the block And there's one…”
 
 ## S7 E7 — 7. Ocean's Three and a Half
@@ -3032,7 +3032,7 @@ Watch for:
   - [Mild] “Ahh Of course you're probably not really into tibia Trivia! Ahh Boy! That global warming, huh? They say we lost a foot of snow last winter Ahh Hey, how about another beer?”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Doesn't he? Let's see that little dyke, Susie Swanson, beat him up now.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Well, will you look at me? I have the power! He-Man We now return to Lady and the Tramp and Michael Vick.”
   - [Moderate] “Hey, Chris, after school today, we're gonna go to the pizza place and make that single mother who works there feel like a slut.”
 
@@ -3163,7 +3163,7 @@ Watch for:
   - [Moderate] “'" Allen Iverson, picked up for marijuana possession and carrying a concealed weapon.”
   - [Mild] “You know, Horace still has one of those old beer promotion cutouts of her from, like, 1994, in the back room.”
   - [Mild] “And, you know, tricking some bigger, more athletic people? Lois, not that I'm rushing you, but when do we get to the wine drinking? Hang on.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “What? That whore! She's betrayed me worse than Lady Macbeth betrayed Duncan.”
 
 ## S8 E3 — 3. Spies Reminiscent of Us
@@ -3419,7 +3419,7 @@ Watch for:
   - [Mild] “There better be beer in the fridge.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Where are you going, fatty? We're gonna have a party.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Meg, you gonna take those soda cans to the Shaw-skank Redemption Center? Peter, Meg's been suspended from school.”
 
 ## S8 E12 — 12. Extra Large Medium
@@ -3439,7 +3439,7 @@ Watch for:
   - [Moderate] “You're just a bunch of assholes like everyone else.”
   - [Mild] “What the hell you think you're doing? - Sitting down.”
   - [Mild] “Yes! You're damn right! Hell, yeah! You can suck it.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…because The only smell that she'll be smellin' Won't be coming from your bum You wanna take that little whore And spin her on the dancing floor But, boy, before you do a single twirl You must impress that…”
 
 ## S8 E13 — 13. Go, Stewie, Go!
@@ -3504,7 +3504,7 @@ Watch for:
   - [Mild] “But, Peter, you're drunk.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “…Murphy, what was that thing with that transvestite? Bernie Mac, how come you died? Oprah, why are you so fat?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Do it! - Now get out of here, you slut.”
 
 ## S8 E15 — 15. Brian Griffin's House of Payne
@@ -3661,7 +3661,7 @@ Watch for:
 - Fat-shaming — 2 moment(s)
   - [Moderate] “Somebody colored in your ass with too much ass, fat ass.”
   - [Moderate] “And I'll get Fatty McLoudmouth.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Permission to go to the bride-is-a-whore file.”
 
 ## S8 E20 — 20. Something, Something, Something, Dark Side
@@ -3846,7 +3846,7 @@ Watch for:
 - Racism & slurs — 2 moment(s)
   - [Explicit] “Well, come on, Mom, don't I Iook Iike him? Well, yes, but, Chris, you can't just walk around in blackface.”
   - [Explicit] “It's racist.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “The whore gets her stubby fingers -He puts cigars in his mouth -in my wallet! Larceny! -and he becomes a different person! No freakin' way.”
 
 ## S9 E5 — 5. Baby, You Knock Me Out
@@ -3874,7 +3874,7 @@ Watch for:
   - [Mild] “What the hell kind of talk is that? Now, I'm gonna win this thing.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “…are you gonna do about it? You gonna fight me? Look, I already said Get down on your hands and knees, fatty!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I'm just out here for fun Yeah, punch each other, you whores! Okay, you Iittle bitch, that's it! You want to fuck with me? Let's go! No matter what you do for the rest of your Iife, you'II always be garbage.”
 
 ## S9 E6 — 6. Brian Writes a Bestseller
@@ -3987,7 +3987,7 @@ Watch for:
   - [Explicit] “I feel Iike I'm horking all your cocaine.”
   - [Mild] “Hey, you, go easy on the communion wine today.”
   - [Mild] “Don't want another one of your drunken mishaps.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Your mom's in a porno! I saw her boobs! -Shut up! -Hey, Griffin, your mom's a whore! Come on, guys, knock it off! Yeah, Griffin, your mom's gross and nasty! -Hey! -Not cool! That's a dude's mom! Well, she's also my mom.”
   - [Moderate] “Your mom's a whore! -Yeah! Suck it! -You're a whore-daughter! -Yeah, Griffin gets it! Boy, I'm really Iooking forward to this.”
 
@@ -4042,7 +4042,7 @@ Watch for:
   - [Mild] “We don't even Iook the same! -AII right, when's my birthday? -Aw, crap.”
   - [Mild] “What the hell? Oh, for God's sake, where's that white-noise machine? Help! Oh, my God, help! Somebody help me! Oh, man, the battery's dead.”
   - [Mild] “Franz, grab my hand! Say good night, you Nazi bastard.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Remember, kids, she's not a whore if she's an actress.”
 
 ## S9 E12 — 12. The Hand That Rocks the Wheelchair
@@ -4150,7 +4150,7 @@ Watch for:
   - [Mild] “Who the hell do you think you are? Stop it this instant! We're not gonna fit through there.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You are to gather grapes for wine and prepare victuals for my return.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Aunt Carol, Mom says you'd make a great FIorida whore.”
   - [Moderate] “You know, I always thought I'd be a good FIorida whore.”
 
@@ -4172,7 +4172,7 @@ Watch for:
   - [Mild] “Come on, Stewie, can you fix that damn thing or not? Well, it's not broken, Brian.”
   - [Mild] “Y eah, that's why it sucks that we're alone here.”
   - [Mild] “What? What's the joke? Oh, yes! What? What is it? You can't say that! But it got said! What? What? By who? AII right, fine, fine! I'II try it, you bastard! Now step onto the return pad.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Hey, slut, get me out of this.”
 
 ## S9 E17 — 17. Foreign Affairs
@@ -4248,7 +4248,7 @@ Watch for:
   - [Mild] “'Cause what I want to do is stay here, get drunk and watch TV.”
 - Homophobic jokes — 1 moment(s)
   - [Moderate] “Action! (piano playing) Another bride She looks so gay Another June Oh, what a day Another sunny honeymoon Hip hip hoor (screams) Another seas (screams) Another…”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Look at yourself, you filthy whore.”
 
 ## S10 E2 — 2. Seahorse Seashell Party (2)
@@ -4276,7 +4276,7 @@ Watch for:
   - [Mild] “Have either of you guys been listening to me? Do you both just have your heads up your asses? Dad did! Look, he's got crap on his ears! That's unrelated.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Oh, you think that's funny, fat ass? Well, I don't know if it's funny.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Is this coming from my role model mother? The shoplifter, the drug addict, the porn star, the whore who let Gene Simmons and Bill Clinton go to town on her? Oh, so what? All those things are behind me now.”
 
 ## S10 E3 — 3. Screams of Silence: The Story of Brenda Q
@@ -4312,7 +4312,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “(loud slap, Brenda screams) JEFF: What the hell?! Did you change the channel while I was going to get a beer?! Oh, yeah, I-I'm sorry, honey, I just wanted to see who was on Letterman.”
   - [Mild] “Get your lazy ass up and get my neighbors some beers! Actually, we don't have time, Jeff.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Shut up and limp! We're in a handicapped spot, you slut! Well, Miss Quagmire, your brother Glenn is lucky to be alive.”
 
 ## S10 E4 — 4. Stewie Goes for a Drive
@@ -4332,7 +4332,7 @@ Watch for:
   - [Mild] “Oh, my God, Rupert! We've got to get out of here! Aah! Damn it! Oh, no, no.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You got booze in here? Is it me, or did she just make that weird? Please.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Doing it with the lights on now, whore? Don't mind looking at his body? I love you so much, though.”
   - [Moderate] “I want to thank you Dirty whores, all of you.”
 
@@ -4370,7 +4370,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I'm I'm drunk, and I'm gonna throw the football too hard at my kids.”
   - [Mild] “Maybe it's time to ease off, huh? What are you talking about, Lois? Dads getting drunk on Thanksgiving is a holiday tradition.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Nice try, skank.”
 
 ## S10 E7 — 7. Amish Guy
@@ -4389,7 +4389,7 @@ Watch for:
   - [Mild] “You bastard.”
   - [Mild] “Apples fire! Ah! Damn it! Ow! God! Quilters advance! Oh! Oh! Ooh! Ooh! Ooh! Ooh! Oh! Ooh! Oh! I bet this hurts so much! Ow! Damn it! I'm bleeding! Uhp, now it's an AIDS quilt.”
   - [Mild] “Suck on this, you furry little weirdoes! Enough of this crap.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Introducing rock 'n' roll! Whoo! I'm on a highway to hell! Highway to hell! I'm on the high You are banished from our community at once! And take your whore daughter with you! How did it go, Dad? Very well, Meg.”
 
 ## S10 E8 — 8. Cool Hand Peter
@@ -4467,7 +4467,7 @@ Watch for:
   - [Mild] “Pewterschmidt, we pumped your daughter's stomach and we found vodka, Rohypnol, a fair amount of DNA that is not her own and a class ring.”
   - [Mild] “I'm so going to brush my teeth with tequila.”
   - [Mild] “Mexico! Mexico! Hey, is this beach topless? No, but my margarita's bottomless.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Look at Quagmire hitting on that skank.”
   - [Moderate] “Peter, that skank is your daughter.”
 
@@ -4611,7 +4611,7 @@ Watch for:
   - [Moderate] “Where's your bag, fatty? You're welcome to search my "beef case.”
   - [Moderate] “Hey, fat ass, give me your wallet! I could give you my wallet, but what I think you really want is love.”
   - [Moderate] “Now you must die! Hey, fat ass! I got news for you.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “In fact, I once caught him trying to pick up a quack whore.”
 
 ## S10 E17 — 17. Forget-Me-Not
@@ -4671,7 +4671,7 @@ Watch for:
   - [Mild] AXE Body Spray: “Spray it on after gym class instead of getting beat up in the shower.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh, do you have one of those white wine zombie moms? No, she died.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “What the hell were you doing talking to him? You know who I think is an ugly slut? Miss Sharon.”
 
 ## S10 E20 — 20. Leggo My Meg-O
@@ -4739,7 +4739,7 @@ Watch for:
   - [Explicit] “I found him with another fag in his mouth this morning.”
   - [Explicit] “Oh, is that right? So you fancy fags, do you? Well, here.”
   - [Explicit] “Have a whole carton of fags! I just want a comely lass to look upon me with favour.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “What a two-bit Wichita whore.”
   - [Moderate] “I'm swimming at night 'cause I'm a slut and now I'm paying the price for it.”
 
@@ -4882,7 +4882,7 @@ Watch for:
   - [Mild] “Damn it, I hate these new stairs! What are you watching? Meet the Press; it's really weird.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hey, look, what's wrong with Peter? Oh, you smell that? He's passed out drunk.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You bastard! You've been using my time machine to nail your bar skanks! Oh, come on, they're not all bad.”
 
 ## S11 E5 — 5. Joe's Revenge
@@ -4944,7 +4944,7 @@ Watch for:
   - [Mild] “And I have a lovely gift of the batchslapping variety waiting for you when I'm just the right amount of drunk.”
   - [Mild] “And you're noticing this at 8:20 in the morning? What has happened to your life? Do you need to talk? Just stay away from my booze! It wasn't me, Brian.”
   - [Mild] “Brian, keys! Chris, beer! Meg, ugly! Mm-hmm.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “What the hell? Hey, sluts! OMG, stop staring at me, please-'kay-thanks.”
 
 ## S11 E7 — 7. Friends Without Benefits
@@ -4968,7 +4968,7 @@ Watch for:
   - [Explicit] “Uh And math class? And bio? And the Facebook campaign to get me to kill myself? Oh, Meg! Hey, what's up? Hey! Um, nothing much.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “All it takes is one guy making one mistake, one drunken night.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You're a whore, Sheila, and I'm gonna make sure everybody knows it! Here! I can't read.”
 
 ## S11 E8 — 8. Jesus, Mary & Joseph
@@ -4996,7 +4996,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “No no That's the name of a champagne.”
   - [Mild] “You want me to get y'all some wine and cheeses? Wait, what'd you just say? Cheeses.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Yeah, I know that girl-- that's Donna Magdalene, and her sister's a bigger slut than she is.”
   - [Moderate] “…gotta help us! You're lucky it's Christmas or I'd call the cops on you dirty grifters! Now you and your whore wife get out of here!”
 
@@ -5069,7 +5069,7 @@ Watch for:
   - [Mild] “Hey, sometimes when daddies drive home drunk, they come from far away places, but it's okay because they didn't get arrested and they're still kind of drunk so they-they think it's okay.”
   - [Mild] “Listen, Charmese, I was obviously very, very drunk.”
   - [Mild] “God, who are the pigs who just throw their empty beer cans down here? Hey, Charmese.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You heard her, the crazy skank wants to be a wife.”
 
 ## S11 E12 — 12. Valentine's Day in Quahog
@@ -5101,7 +5101,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Okay, now who wants more wine? This is great.”
   - [Mild] “She calls me drunk every Valentine's Day.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Yeah, you slut.”
 
 ## S11 E13 — 13. Chris Cross
@@ -5147,7 +5147,7 @@ Watch for:
   - [Mild] “Peter, what the hell? For Xerxes, every meal is a pageant.”
   - [Mild] “Now if you'll excuse me What the hell?! Peter, make him stop! Hey, what do you got going on down there, Quagmire? You got a, you got a rodent situation? Uh, no! Well, Xerxes seems to think there is.”
   - [Mild] “Damn it, Peter, I'm probably gonna have to get a job.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You must be a phone whore.”
 
 ## S11 E15 — 15. Turban Cowboy
@@ -5250,7 +5250,7 @@ Watch for:
   - [Mild] “Hey, Horace, why don't you take that wiener out of your hand and get me a beer.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “I wish you could hear how racist you sound right now.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “My white blood cells attacked the pathogens and created antibodies, and then the pathogens were filtered out by my kidneys into my urine and then expelled from my body, you slut.”
 
 ## S11 E19 — 19. Save the Clam
@@ -5279,7 +5279,7 @@ Watch for:
   - [Mild] “I'm sorry but The Drunken Clam is permanently closed.”
   - [Mild] “Peter, what's going on down here? Why are there beer bottles all over the floor? Well, we needed a new spot to drink, Lois.”
   - [Mild] “And all the booze is still in there.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Uh, yes, I'd like to mail this to a whore.”
 
 ## S11 E20 — 20. Farmer Guy
@@ -5301,7 +5301,7 @@ Watch for:
   - [Explicit] “cold medicine? You guys I think this is a meth lab.”
   - [Explicit] “Oh, my God! You guys, there's a fully functional meth lab in our basement.”
   - [Explicit] Our top story: “Methamphetamine is flooding into Quahog in epidemic amounts, and is believed to be originating from the nearby rural community of Farmton.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You sick whore.”
 
 ## S11 E21 — 21. Road to Vegas
@@ -5326,7 +5326,7 @@ Watch for:
   - [Mild] “You bastards think you can just borrow a bunch of money from a loan shark and then waste it on tacky suits? Tacky? Sir, I'll have you know I bought this in the lobby of a casino.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Laura gets home at 7: “00, so I figure we can stare at our wine glasses till then.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I see-- is there a less heavy person that could check again for me? I'm sorry, we're all booked up because the Slut Convention's in town.”
   - [Moderate] “Slut Convention? Yeah.”
 
@@ -5539,7 +5539,7 @@ Watch for:
   - [Mild] “Everyone from Florida is stupid Everyone from Florida is dumb I might not be the brightest guy But next to them, my IQ's high If they had guitars, here's how they'd strum Why the hell do you brush your teeth at work?”
   - [Mild] “Hell, yeah, the Winklevoss twins.”
   - [Mild] “Aah! Damn it, Peter, that was my eyebrow! Let's not make a scene.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “All right, backstage whore, here's the key to my hotel room.”
 
 ## S12 E8 — 8. Christmas Guy
@@ -5619,7 +5619,7 @@ Watch for:
   - [Mild] “Aah, damn it! Thank you! I say, who the devil are you? Go away! Aw, I-I'm sorry.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “You know, if you could spin straw into gold or-or maybe meth, I wouldn't need a job.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “About what? Well, she was my ex-girlfriend, and I believed I was due an explanation about why she was such a whore.”
 
 ## S12 E11 — 11. Brian's a Bad Father
@@ -5763,7 +5763,7 @@ Watch for:
   - [Mild] “Oh, man, I could use a cold beer.”
   - [Mild] “I heard what happened to you at The Drunken Clam.”
   - [Mild] “Hey, let's go grab some good beer even though we brought the bad beer.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “You're a gross slut.”
   - [Moderate] “You know, my uncle was in the Army, and he got genital boppo from a Saigon whore Shut up! Just shut up! You should be ashamed of yourself.”
 
@@ -5950,7 +5950,7 @@ Watch for:
   - [Mild] “If you ask me, neither of these beers is wholly original.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “But you're different from them, aren't you? Because they're rail-thin, and you're fat.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Love is like a bomb, baby, come on, get it on Livin' like a lover with a radar phone Lookin' like a tramp, like a video vamp Demolition woman, can I be your man?”
 
 ## S13 E2 — 2. The Book of Joe
@@ -6092,7 +6092,7 @@ Watch for:
   - [Mild] “Why don't you come over to my place for a beer or something? Aw, that sounds great! Hey, you want me to pick anything up on the way over or no, you're good? Oh, uh I-I guess we could maybe just order something.”
   - [Mild] “How's the wine? It's terrific.”
   - [Mild] “He put actual strawberries in a glass of champagne, which was about the classiest, sexiest thing I'd ever seen.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “Oh, and I'm gonna dress like a slut and be rude to everyone for no reason.”
   - [Moderate] “Just some random slut to maul in a bar back where the payphones used to be.”
   - [Moderate] “Aw, crap! I just pulled a thousand muscles! Ow! That was a loud crack! Ah, yeah, that was all bone! Oh! Aw! Son of a whore! Oh, this is bad.”
@@ -6120,7 +6120,7 @@ Watch for:
   - [Explicit] “For example, did you know that Jesus didn't really die on the cross? So, what was the cause of death? Cocaine and severe trauma to the colon.”
   - [Mild] “Hemingway, can I have a beer with you? Sure! I love life and all the people in it! Thanks.”
   - [Mild] “Bunch of drunk, fat, pie-faced Irish fools.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And who are we? I don't know, you're just two sluts with me.”
 
 ## S13 E8 — 8. Our Idiot Brian
@@ -6237,7 +6237,7 @@ Watch for:
   - [Moderate] “I like Dick.”
   - [Mild] “So I guess we're both klutzes, huh? Why don't you spin another tale, crap-tooth? No? My turn again? Okay.”
   - [Mild] “What the hell are you doing? I saw a scary boy doing this, and I thought I'd try it.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I will not! Our child is growing inside me! Stop talking like that! A-And how do you even know it's mine? How dare you! So I'm just some slut?!”
 
 ## S13 E13 — 13. Dr. C and the Women
@@ -6263,7 +6263,7 @@ Watch for:
   - [Moderate] “But what we could really use is some weed.”
   - [Moderate] “Griffin, did you or did you not distribute alcohol and marijuana to minors? No, Your Honor, I did not.”
   - [Mild] “Hey, can you buy us some beer? I don't know, I don't think it'd be right.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Son of a whore! Give me some milk! Okay, that helped.”
 
 ## S13 E14 — 14. #jolo
@@ -6373,7 +6373,7 @@ Watch for:
   - [Mild] “What the hell?! You're out of jail! How'd you get out? With my smooth talki ta My I used I My word My I words I used words.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Are you kidding? You took on the star of Kinsey! Yeah, and more importantly, you followed through on your drunken ravings.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Eat my button, you whore.”
 
 ## S13 E18 — 18. Take My Wife
@@ -6416,7 +6416,7 @@ Watch for:
   - [Mild] “I like to drizzle these with a fig balsamic Damn it.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Like inviting a turtle to a cocktail party.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “What a skank.”
 
 ## S14 E2 — 2. Papa Has a Rollin' Son
@@ -6511,7 +6511,7 @@ Watch for:
   - [Mild] “Honey, I'm so proud of you, cutting down to one beer a night.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “Aw, did I just do a racism? (knocking on window) Hello? Can I help you gentlemen? Hi.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Lactating sluts on box springs.”
   - [Moderate] “Now, which movie should I start with? "Back-Door Sluts 4.”
 
@@ -6587,7 +6587,7 @@ Watch for:
   - [Mild] “(phone ringing) What's that ringing? Joe, that ringing-- it's coming from your back! It is? Holy crap! Dr.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'll wheel over to the bar and bring back your beers one by one in my lap.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Hey, uh, uh, just to be clear, I don't really think you're a whore.”
   - [Moderate] “Your mother's a whore! I told you that in confidence, Gary.”
 
@@ -6666,7 +6666,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Explicit] “" It's one part 5-Hour Energy, and the other three hours are espresso, Scotts Turf Builder, and a tiny, tiny super-small amount of cocaine.”
   - [Explicit] “You know, Brian, that acting stuff was a bit much for me, but I did quite enjoy the dancing and the cocaine.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Are you guys talking about your kids? My daughter is the American Apparel slut baby.”
 
 ## S14 E12 — 12. Scammed Yankees
@@ -6799,7 +6799,7 @@ Watch for:
   - [Mild] “Ow! Damn it! (groaning) Hey, Bri, came to try that apple pie you were texting about.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm going to go get more wine.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Oh, Brian's a complete dick, we all know that, but I think we're losing sight of the point that Bonnie's a weird slut who's always letting you know she's open for business.”
 
 ## S14 E17 — 17. Take a Letter
@@ -6965,7 +6965,7 @@ Watch for:
   - [Mild] “Get your hands off me! I'll go floppy dead weight on you! (GROANS) Ah, crap! My stomach! I think my hernia ruptured! Oh, my God! Damn it, it's bad.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Nobody's gonna want you if you're fat! You want to eat? Get up to that bar and earn your keep.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You know I hit you and whore you out because I love you, right? Hi, there.”
 
 ## S15 E4 — 4. Inside Family Guy
@@ -7234,7 +7234,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “This is an away game? - (LAUGHTER) - It's true! Remember that happened? (CHUCKLES) Those are the kids I bought beer for.”
   - [Mild] “I hate life, and I'm never doing this again! All right, guys, let's go drink a bunch of free booze and be a huge presence in the wedding photos.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…You don't want it You're cuckoo Funny, funny, funny what money can do You guys, I got great news! Some skank I used to bang is getting married, and they need someone to play at the ceremony.”
 
 ## S15 E14 — 14. The Dating Game
@@ -7388,7 +7388,7 @@ Watch for:
   - [Explicit] “So we have no corporate identity? We secondary e-mail people use to sign up for porn sites.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Bring your girlfriend with the fat ass in here.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] ALL: “Yay! (SLURPING) I saw Lady and the Tramp, so I asked if we could eat spaghetti in the alley, but they said no, because of all the homeless masturbation.”
   - [Moderate] “Well, maybe he should have thought of that before he opened his slut legs.”
 
@@ -7694,7 +7694,7 @@ Watch for:
   - [Mild] “" - Damn it! - But, again, how would you know? - It's not as if you're - Okay, okay, we got it.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “…know how that one works To at least give the impression, in your Ralph Lauren shirts, holding your $20 cocktails, that you're both way more successful than you are.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “(TAKES DEEP BREATH) (RAPPING): How does a bastard orphan Son of (HICCUPS) a whore And a Scotsman dropped in the middle Of a forgotten spot in the Caribbean By providence impoverished in…”
   - [Moderate] “She's just a useless old slut.”
   - [Moderate] “Go sleep on the floor where you belong, whore! - All right, well - Hey hey, Bri? Yeah? Would you mind maybe sleeping with me tonight? - Sure.”
@@ -8188,7 +8188,7 @@ Watch for:
   - [Mild] STEWIE: “Is is that a euphemism for lesbian sex? SARAH: I don't think I've met everyone.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Then I find out you were married before? I mean, what else don't I know? PETER (SIGHS): Well, if we're being honest, Lois, you're really bad at having sex when I'm drunk.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “They're all skanks.”
   - [Moderate] “"Getting new phones was a worse idea than a skank robbery.”
   - [Moderate] “PETER: Right, skank robbery.”
@@ -8495,7 +8495,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “What are we doing here? Connie never went to the Drunken Clam.”
   - [Mild] “Oh, and here's a nickel for the watered-down beer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “She's a classic, entitled, mean-girl slut.”
 
 ## S18 E11 — 11. Short Cuts
@@ -8519,7 +8519,7 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - [Moderate] “Or you could watch Blue Bloods and have a pudding cup.”
   - [Moderate] “Go get 'em, Blue Bloods.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Why don't you take her name out of your filthy whore mouth.”
 
 ## S18 E12 — 12. Undergrounded
@@ -8574,7 +8574,7 @@ Watch for:
   - [Mild] Dad gave me a sip of beer.
 - Racism & slurs — 1 moment(s)
   - [Explicit] “the Quahog Whooping Scalpers are racist!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] I remember after that we Lady-and-the-Tramp'd a croissant together and said this O-line needs to get healthy.
 
 ## S18 E15 — 15. Baby Stewie
@@ -8687,7 +8687,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] There's nothing in here to eat but crackers and screw-top wine.
   - [Mild] Who buys a comb out of a mini-fridge? - Guys? - Crackers and wine? You know, that actually reminds me of another Bible story: The Last Supper.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] I don't know, maybe throw it in the dryer at least? Don't take this the wrong way, but I'm not taking advice about germs from a whore.
 
 ## S18 E20 — 20. Movin' In (Principal Shepherd's Song)
@@ -8708,7 +8708,7 @@ Watch for:
   - [Moderate] That's right, I lawyered up, you little bitch.
   - [Moderate] Thank you, Your Ho Ah! Son of a dick! Ah! Ah, crap.
   - [Mild] “Sucks being in detention.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] At least I'm not a withered old slut like you are.
 
 ## S19 E1 — 1. Stewie's First Word
@@ -8787,7 +8787,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] And with any luck, we'll get home by wine o'clock.
   - [Mild] What was that? - Hilarious mom wine joke.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Hey, Lois, you remember that time you and me made it under the boardwalk? When I go back to school, my greaser friends are gonna say, "Tell me more, tell me more," and I'm gonna say you were a slut.
 
 ## S19 E5 — 5. La Famiglia Guy
@@ -9125,7 +9125,7 @@ Watch for:
   - [Explicit] Now, since he was a Black performer, naturally, he went on tour in the part of the country that's so racist it's known as the Boston of the South.
 - Fat-shaming — 1 moment(s)
   - [Moderate] "Dearest Margerie, "I can't wait to get home "and back that big fat ass up.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] [QUIETLY.] : That's my fun little way of sayin' I'm a slut.
 
 ## S20 E3 — 3. Must Love Dogs
@@ -9254,7 +9254,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Beer is supposed to be fun.
   - [Mild] A brewery is not about getting drunk.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] What have you learned from this experience? That your mother's a whore.
 
 ## S20 E9 — 9. The Fatman Always Rings Twice
@@ -9545,7 +9545,7 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - [Explicit] and might get murdered
   - [Moderate] All guns all the time.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] No, your mom's a whore.
 
 ## S21 E3 — 3. A Wife-Changing Experience
@@ -9682,7 +9682,7 @@ Watch for:
   - [Mild] Huh? Where the hell
   - [Mild] Ah, damn it. Look what you guys did.
   - [Mild] Fine, you're right, okay? I'm pissed.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Taking a whore bath
 
 ## S21 E10 — 10. The Candidate
@@ -10070,7 +10070,7 @@ Watch for:
   - [Mild] you have to buy adoption fair beers.
 - Racism & slurs — 1 moment(s)
   - [Explicit] I survive on racist bleacher farts.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] He'll sit on anything. He's a sit slut.
 
 ## S22 E7 — 7. Snap(ple) Decision
@@ -10598,7 +10598,7 @@ Watch for:
   - [Moderate] It's a god-awful small affair ♪
 - Violence & injury — 1 moment(s)
   - [Mild] beating up the wrong guy ♪
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] and they're a home-wrecking slut.
 
 ## S23 E16 — 16. Row v. Wade
@@ -10683,7 +10683,7 @@ Watch for:
   - [Mild] Feels like a wine mom apron
 - Racism & slurs — 1 moment(s)
   - [Explicit] a racist, sexist screed
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] mom's a whore, friends betray him,
 
 ## S24 E1 — 1. The Edible Arrangement
@@ -10758,7 +10758,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] We're just drunk men who get
   - [Mild] Wanna come get blackout drunk with me
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] word "whore" on my chest.
 
 ## S24 E5 — 5. Dear Francis
@@ -10983,7 +10983,7 @@ Watch for:
   - [Mild] wine that's mostly chemicals,
   - [Mild] the signature cocktail.
   - [Mild] He dressed for "tropical cocktail".
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] I feel like a cheap whore.
 
 ## S24 E14 — 14. Let the Goodtimes Walk

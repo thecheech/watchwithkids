@@ -369,7 +369,7 @@ Watch for:
   - [Mild] Bender: “Hey, what the hell are you doing with my head?”
   - [Mild] Bender: “Hell, no! It's Leela's stupid feelings. [He picks up a bottle of Olde Fortran.] Why can't she just drink herself happy like a normal person?”
   - [Mild] Bender: “[He flushes the toilet but doesn't go anywhere.] Damn, it's too small.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Bender: “The only reason you get all the guys is because you dress like a tramp!”
 
 ## S2 E6 — Brannigan, Begin Again
@@ -1184,7 +1184,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] What-If Scene: O'Zorgnax's Pub. Bender drinks a beer and lights and smokes a cigar.
   - [Mild] He stands up and dances, still holding his beer, cigar and nachos.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Mom: “I'll tell you why I brought you here, you twice-baked barf bags: Because I've always wanted a daughter to love. You want to get adopted, you little skank?”
 
 ## S4 E4 — Love and Rocket
@@ -1413,7 +1413,7 @@ Watch for:
   - [Moderate] Bender: “Fry, as you know, there are lots of things I'm willing to kill for. Jewels, vengeance, Father O'Mally's weed whacker. But, at long last, I've found something I'm willing to die for: This mindless turtle.”
   - [Mild] The robot wakes up, drinks beer and belches fire.
   - [Mild] Leela: “Come on. You've got to come out of your chest sometime. [She holds up a bottle of beer.] Would you do it for a Bender snack?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Leela: “You're both alcoholic, whore-mongering, chain-smoking gamblers?”
 
 ## S5 E2 — Jurassic Bark
@@ -1690,7 +1690,7 @@ Watch for:
 - Fat-shaming — 2 moment(s)
   - [Moderate] Farnsworth: “Don't worry. The fat pig will do fine thanks to this flabbo-dynamic spandex bodysuit I've designed. [Hermes wriggles into the bodysuit.] It redistributes his weight, shifting his centre of gravity closer to his knees.”
   - [Moderate] Hermes: “Your body may be as perfectly-sculpted as it was 20 years ago when you whupped my fat ass every time we met. [He pulls the bodysuit hood over his hair.] But today, I feel lucky.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Coilette: “Oh, please! Every man wants a tramp. No wonder you girls aren't married. [She giggles.] I tell you, men are so much better at being women.”
 
 ## S5 E14 — Obsoletely Fabulous
@@ -1745,7 +1745,7 @@ Watch for:
   - [Mild] Bender: “Cram a ham in it, you twerps! [He throws his beer bottle at them, it misses and hits Fry, who squeals.] Sorry!”
   - [Mild] Calculon: “[on TV] Oh, Monique, why did we wait so many years to bathe in champagne?”
   - [Mild] Bender: “[He stands up on the bed and starts dancing.] C'mon, baby! [He hums and takes a cigar out of his chest cabinet and takes a few puffs then follows with a gulp of beer.] Come on!”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Scene: Planet Express: Meeting Room. A "Happy Growth-Scraping Day" banner has been hung up along the back wall. LaBarbara and Amy fly up to the ceiling on rocket packs and hang streamers. Enter Zoidberg in tramp garb.
   - [Moderate] Zoidberg: “Look who's here, everyone! It's Zoidberg, the lovable tramp!”
 
@@ -1786,7 +1786,7 @@ Watch for:
   - [Mild] Fry comes in with his hair looking like an afro just like in "Hell is Other Robots".
   - [Mild] Fry: “Poke harder, damn it!”
   - [Mild] Leela: “Bender, shut the hell up!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Robot Leela: “I'll kill you, you slut-clops! Hee-ya! [karate kicks her duplicate in the face] He's mine!”
 
 ## S6 E2 — In-A-Gadda-Da-Leela
@@ -2117,7 +2117,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Leela: “We are not packing lunches, you walking beer commercials. It was you men who drove this company into the ground. Remember Fry's idea to offer free delivery?”
   - [Mild] Cut to: The Planet Express plane hall. The passengers are seated, Leela is serving beer, and Amy collects a napkin.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Leela: “What a skank. Anyway, Planet Express is still facing foreclosure. There's no way we can raise enough money to save this company.”
 
 ## S6 E15 — Benderama
@@ -2262,7 +2262,7 @@ Watch for:
   - [Mild] Abner Doubledeal: “…Like it's not hard enough to make a freakin' TV show for under fifty bucks! [The spaceship arrives.] Damn it, I'll call you back, grandma.”
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Cut to: The elementary school. Shots of a little boy and a little girl swing-riding, the bell, a little girl floor-sliding, and a turning hopscotch court are shown. The title card POPULAR SLUT CLUB appears on the screen.
   - [Moderate] Male voice #1: Popular Slut Club.
 
@@ -2461,7 +2461,7 @@ Watch for:
   - [Mild] Narrator: “After beer and hot wings at a local gas station, the two enjoy intimate time behind a dumpster. It's all perfectly natural. Let's watch, aroused, as Gerald's antenna uploads a binary file to Francine's internal drive.”
   - [Mild] Bender: “That doesn't prove I'm an unfit parent! I was drunk and violent when I signed that!”
   - [Mild] Bev: “Well, I'm drunk and violent now! He's comin' with me!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Bender: “[turning on a lamp] Fry, it's two a.m.! What're ya doin' here glowin' on my skanks?”
 
 ## S7 E2 — A Farewell to Arms
@@ -2935,7 +2935,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] He does so. While Bender is smoothing, the buggalo prepares to charge. Cut to the crowd. Fry is drinking from his beer hat, but when everyone stands up from the excitement, the hat falls off.
   - [Mild] Fry: “It's okay! Five-second rule! [He puts his beer hat back on.]”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Bender: “You lousy tramp! I oughta kick you!”
 
 ## S12 E5 — One is Silicon and the Other Gold

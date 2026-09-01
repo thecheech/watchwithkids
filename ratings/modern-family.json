@@ -1195,7 +1195,7 @@
       "overall": 2,
       "age": 9,
       "verdict": "Mild — okay from about 9+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1204,7 +1204,7 @@
         ],
         "watch": [
           "Sex & hookups",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -1226,7 +1226,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“There are four types of clowns- a tramp, an Auguste, a whiteface and a character.”",
             "count": 2,
@@ -1279,7 +1279,7 @@
       },
       "examples": [
         "Sex & hookups — “He's- He's the least sexual being on earth.”",
-        "Slut-shaming — “There are four types of clowns- a tramp, an Auguste, a whiteface and a character.”"
+        "Sexual insults — “There are four types of clowns- a tramp, an Auguste, a whiteface and a character.”"
       ],
       "notes": null,
       "flags": [],
@@ -1928,7 +1928,7 @@
       "overall": 2,
       "age": 9,
       "verdict": "Mild — okay from about 9+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -1937,7 +1937,7 @@
         ],
         "watch": [
           "Nudity & bodies",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -1967,7 +1967,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Well, you should have thought about that before you took that skank Sharon Nicolini to an Anne Hathaway movie.”",
             "count": 1,
@@ -2020,7 +2020,7 @@
       },
       "examples": [
         "Nudity & bodies — “The next time you picture me, leave the underwear out of it.”",
-        "Slut-shaming — “Well, you should have thought about that before you took that skank Sharon Nicolini to an Anne Hathaway movie.”"
+        "Sexual insults — “Well, you should have thought about that before you took that skank Sharon Nicolini to an Anne Hathaway movie.”"
       ],
       "notes": null,
       "flags": [],
@@ -4393,7 +4393,7 @@
         "watch": [
           "Sex & hookups",
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -4465,7 +4465,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Oh, is that the skank? - No.”",
             "count": 2,
@@ -4498,7 +4498,7 @@
       "examples": [
         "Sex & hookups — “So, Haley, how long have I been paying this guy to make out with you? Uh, about a week.”",
         "Violence & injury — “Let me show you where you stabbed my mama.”",
-        "Slut-shaming — “Oh, is that the skank? - No.”"
+        "Sexual insults — “Oh, is that the skank? - No.”"
       ],
       "notes": null,
       "flags": [],
@@ -5824,7 +5824,7 @@
           "Nudity & bodies",
           "Porn / strippers / sex work",
           "Violence & injury",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -5890,7 +5890,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“When you and Dylan were broken up Rachel told him you were a skank and got all up on him.”",
             "count": 2,
@@ -5953,7 +5953,7 @@
         "Nudity & bodies — “I mean, if Reuben can go with that extra nipple I'm proud of you, Manny.”",
         "Porn / strippers / sex work — Stripper or strip-club material shows up in the plot.",
         "Violence & injury — “Have I ever told you about her? Total gun nut, lives completely off the grid.”",
-        "Slut-shaming — “When you and Dylan were broken up Rachel told him you were a skank and got all up on him.”"
+        "Sexual insults — “When you and Dylan were broken up Rachel told him you were a skank and got all up on him.”"
       ],
       "notes": null,
       "flags": [
@@ -9197,7 +9197,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -9313,7 +9313,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Don't slut up your college.”",
             "count": 1,
@@ -9377,7 +9377,7 @@
         "Nudity & bodies — “Stop twisting my nipple.”",
         "Violence & injury — “That was a knife to the heart.”",
         "Alcohol & drugs — “Don't drink too much beer and shots of Tequila.”",
-        "Slut-shaming — “Don't slut up your college.”"
+        "Sexual insults — “Don't slut up your college.”"
       ],
       "notes": null,
       "flags": [],
@@ -11414,7 +11414,7 @@
           "Violence & injury",
           "Alcohol & drugs",
           "Homophobic jokes",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -11548,7 +11548,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“That skank Zoey broke his heart.”",
             "count": 1,
@@ -11576,7 +11576,7 @@
         "Violence & injury — “You see that I am holding a knife.”",
         "Alcohol & drugs — “Privacy is dead? Likes-- Chicago Blackhawks, kickboxing, the movie \"Die hard,\" and beer.”",
         "Homophobic jokes — “It's like he leapt off the canvas of a 16th century portrait by Gainsborough or van Dyke.”",
-        "Slut-shaming — “That skank Zoey broke his heart.”"
+        "Sexual insults — “That skank Zoey broke his heart.”"
       ],
       "notes": null,
       "flags": [
@@ -12667,7 +12667,7 @@
           "Porn / strippers / sex work",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -12783,7 +12783,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Trust me, if I wanted to stab her, that skank be stabbed.”",
             "count": 1,
@@ -12839,7 +12839,7 @@
         "Porn / strippers / sex work — “No, turns out she's a hooker.”",
         "Violence & injury — “She would accuse me of trying to stab her.”",
         "Alcohol & drugs — “Ronaldo, wait! French bistro stemless wine glasses.”",
-        "Slut-shaming — “Trust me, if I wanted to stab her, that skank be stabbed.”"
+        "Sexual insults — “Trust me, if I wanted to stab her, that skank be stabbed.”"
       ],
       "notes": null,
       "flags": [],
@@ -15696,7 +15696,7 @@
           "Sex & hookups",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -15778,7 +15778,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“You lied just to make me feel bad? No, no -- we lied so that we could win with our zombie house o' whores! That is so messed up.”",
             "count": 2,
@@ -15833,7 +15833,7 @@
         "Sex & hookups — “Okay, what do you think -- handsome Hawaiian or sexy scotsman? I can't do this right now.”",
         "Violence & injury — “What'd you use to make the blood? A knife.”",
         "Alcohol & drugs — “Our new neighbors, medical-marijuana retailer Ronnie and his wife, Amber, moved in two months ago, and -- it's been a week and a half.”",
-        "Slut-shaming — “You lied just to make me feel bad? No, no -- we lied so that we could win with our zombie house o' whores! That is so messed up.”"
+        "Sexual insults — “You lied just to make me feel bad? No, no -- we lied so that we could win with our zombie house o' whores! That is so messed up.”"
       ],
       "notes": null,
       "flags": [],
@@ -16810,7 +16810,7 @@
           "Sex & hookups",
           "Porn / strippers / sex work",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -16876,7 +16876,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“You're such a slut.”",
             "count": 2,
@@ -16939,7 +16939,7 @@
         "Sex & hookups — “She's even sleeping with her now.”",
         "Porn / strippers / sex work — “Who is that? Denise? Put that dirty hooker on the phone.”",
         "Alcohol & drugs — “We're just stopping by a bar after work, have some beer, some hot wings.”",
-        "Slut-shaming — “You're such a slut.”"
+        "Sexual insults — “You're such a slut.”"
       ],
       "notes": null,
       "flags": [],
@@ -17121,7 +17121,7 @@
           "Swearing",
           "Alcohol & drugs",
           "Racism & slurs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -17313,7 +17313,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“I don't wanna sound like a sentimental softy but does anyone miss the drunken whore she used to be? Oh, I like the new Sal.”",
             "count": 2,
@@ -17491,7 +17491,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -17589,7 +17589,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“You don't have the foot sensitivity of a tramp champ.”",
             "count": 1,
@@ -17636,7 +17636,7 @@
         "Nudity & bodies — “Based off the walk I just took side-boob is the new butt crack.”",
         "Violence & injury — “And stab it with our marshmallow sticks.”",
         "Alcohol & drugs — “Is there vodka in here? - If there is it's not doing anybody any good until I get it in there.”",
-        "Slut-shaming — “You don't have the foot sensitivity of a tramp champ.”"
+        "Sexual insults — “You don't have the foot sensitivity of a tramp champ.”"
       ],
       "notes": null,
       "flags": [],
@@ -18734,7 +18734,7 @@
           "Sex & hookups",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -18824,7 +18824,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“After we tramp.”",
             "count": 1,
@@ -18850,7 +18850,7 @@
         "Sex & hookups — “Ow! That stings! This is so not sexy.”",
         "Violence & injury — “Unless Jay really gets shot in the foot.”",
         "Alcohol & drugs — Jay: “How often do you break in here? Does that explain the white wine? We fired a cleaning lady.”",
-        "Slut-shaming — “After we tramp.”"
+        "Sexual insults — “After we tramp.”"
       ],
       "notes": null,
       "flags": [],
@@ -19072,7 +19072,7 @@
           "Swearing",
           "Alcohol & drugs",
           "Racism & slurs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -19214,7 +19214,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Maybe he'll bring one of those shirtless ab sluts I've seen on his Facebook page.”",
             "count": 1,
@@ -19242,7 +19242,7 @@
         "Swearing — “It's melting like a son of a bitch.”",
         "Alcohol & drugs — “Jay? In here with the booze.”",
         "Racism & slurs — “I spy with my little eye a first-time volunteer! Gloria had jury duty, so no chance I could get out of this by pretending to be racist? [ Chuckles .]”",
-        "Slut-shaming — “Maybe he'll bring one of those shirtless ab sluts I've seen on his Facebook page.”"
+        "Sexual insults — “Maybe he'll bring one of those shirtless ab sluts I've seen on his Facebook page.”"
       ],
       "notes": null,
       "flags": [],
@@ -19584,7 +19584,7 @@
           "Nudity & bodies",
           "Swearing",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -19708,7 +19708,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“I'm sorry! But I have to go pick up my son because my idiot ex-husband loaned his car to his latest Tinder whore.”",
             "count": 1,
@@ -19756,7 +19756,7 @@
         "Nudity & bodies — “\"Bam\" as in sex or \"bam\" as in what Reuben shouted when he unhooked my bra? Let's just leave it at \"bam.”",
         "Swearing — “Son of a bitch, that felt good getting that out.”",
         "Alcohol & drugs — “I might need booze for this.”",
-        "Slut-shaming — “I'm sorry! But I have to go pick up my son because my idiot ex-husband loaned his car to his latest Tinder whore.”"
+        "Sexual insults — “I'm sorry! But I have to go pick up my son because my idiot ex-husband loaned his car to his latest Tinder whore.”"
       ],
       "notes": null,
       "flags": [],
@@ -22952,7 +22952,7 @@
           "Swearing",
           "Alcohol & drugs",
           "Fat-shaming",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -23078,7 +23078,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“You trampoline? I'm on my tramp like three nights a week! [Chuckles.]”",
             "count": 1,
@@ -23135,7 +23135,7 @@
         "Swearing — “It's interactive? You son of a bitch.”",
         "Alcohol & drugs — “I just want a wine bath and to go to sleep.”",
         "Fat-shaming — “For God's sake, there's the club chair Fatty Arbuckle anxiously awaited his verdict.”",
-        "Slut-shaming — “You trampoline? I'm on my tramp like three nights a week! [Chuckles.]”"
+        "Sexual insults — “You trampoline? I'm on my tramp like three nights a week! [Chuckles.]”"
       ],
       "notes": null,
       "flags": [
@@ -23171,7 +23171,7 @@
           "Violence & injury",
           "Swearing",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -23371,7 +23371,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Oh, well, Clark's head of the math club, and Tina's turned into a bit of a slut.”",
             "count": 1,
@@ -24267,7 +24267,7 @@
       "overall": 2,
       "age": 9,
       "verdict": "Mild — okay from about 9+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -24279,7 +24279,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -24363,7 +24363,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Do you know what I went through in that well on October 14, 1987, while the whole world was focused on that media whore Jessica? - She was a baby, but yeah.”",
             "count": 1,
@@ -24419,7 +24419,7 @@
         "Nudity & bodies — “Well, I know this guy dies, there's lots of boobs, and I want to say a spaceship? This will go a lot faster if you don't talk.”",
         "Violence & injury — “This woman never punches out.”",
         "Alcohol & drugs — “Oh, yay, champagne.”",
-        "Slut-shaming — “Do you know what I went through in that well on October 14, 1987, while the whole world was focused on that media whore Jessica? - She was a baby, but yeah.”"
+        "Sexual insults — “Do you know what I went through in that well on October 14, 1987, while the whole world was focused on that media whore Jessica? - She was a baby, but yeah.”"
       ],
       "notes": null,
       "flags": [],
@@ -25859,7 +25859,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -25975,7 +25975,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“He really shot up, huh? - (CELLPHONE DINGING, CHIMING) Anyway, in the weeks to come, - try and remember that, uh - (CELLPHONE DINGING, CHIMING) Wh That skank No way!”",
             "count": 1,
@@ -26023,7 +26023,7 @@
         "Nudity & bodies — “Every morning, before I shower, I kick off my underwear.”",
         "Violence & injury — “Phil, would you cut and toast those bagels? With the knife? Sweetie, here are the spare keys.”",
         "Alcohol & drugs — “Fine, but you are driving home, because today, I'm reelin' in the wine.”",
-        "Slut-shaming — “He really shot up, huh? - (CELLPHONE DINGING, CHIMING) Anyway, in the weeks to come, - try and remember that, uh - (CELLPHONE DINGING, CHIMING) Wh That skank No way!”"
+        "Sexual insults — “He really shot up, huh? - (CELLPHONE DINGING, CHIMING) Anyway, in the weeks to come, - try and remember that, uh - (CELLPHONE DINGING, CHIMING) Wh That skank No way!”"
       ],
       "notes": null,
       "flags": [],
@@ -29646,7 +29646,7 @@
         ],
         "watch": [
           "Swearing",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -29684,7 +29684,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“…behind the one from our old babysitter? Mm, I believe he spoke the charming phrase, \"And who is this whore?\" Well, Christmas is at Grandpa's this year, so Cam will never see it.”",
             "count": 1,
@@ -29729,7 +29729,7 @@
       },
       "examples": [
         "Swearing — “You son of a bitch.”",
-        "Slut-shaming — “…behind the one from our old babysitter? Mm, I believe he spoke the charming phrase, \"And who is this whore?\" Well, Christmas is at Grandpa's this year, so Cam will never see it.”"
+        "Sexual insults — “…behind the one from our old babysitter? Mm, I believe he spoke the charming phrase, \"And who is this whore?\" Well, Christmas is at Grandpa's this year, so Cam will never see it.”"
       ],
       "notes": null,
       "flags": [],
@@ -30882,7 +30882,7 @@
           "Sex & hookups",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -30956,7 +30956,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“If we said yes to everything, then we're no better than that whore Grumpy Cat.”",
             "count": 1,
@@ -30982,7 +30982,7 @@
         "Sex & hookups — “And the only thing less sexy than a dog bed is a quitter, and I didn't marry a quitter.”",
         "Violence & injury — “I would murder my entire family and all of their friends to see that musical.”",
         "Alcohol & drugs — “Oh, it's such an honor to - Vodka! - Oh.”",
-        "Slut-shaming — “If we said yes to everything, then we're no better than that whore Grumpy Cat.”"
+        "Sexual insults — “If we said yes to everything, then we're no better than that whore Grumpy Cat.”"
       ],
       "notes": null,
       "flags": [],
@@ -31526,7 +31526,7 @@
           "Nudity & bodies",
           "Violence & injury",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -31592,7 +31592,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Oh, my God, you guys, let's hurry! Hurrying where? Uh, there's a retrospective \"Cher in the '70s: Gypsies, Tramps and Thieves.”",
             "count": 1,
@@ -31639,7 +31639,7 @@
         "Nudity & bodies — “Once an underwear model A couple International Male covers to pay for medical school, he'll never let me forget it! Okay, we should go.”",
         "Violence & injury — “Who was your favorite artist in the postimpressionist show? - Uh - Uh, w I mean, gun to my head? I would say Gauguin, perhaps? - To the exhibit? - Yes.”",
         "Alcohol & drugs — “Then she asked if I'd buy wine for dinner tonight.”",
-        "Slut-shaming — “Oh, my God, you guys, let's hurry! Hurrying where? Uh, there's a retrospective \"Cher in the '70s: Gypsies, Tramps and Thieves.”"
+        "Sexual insults — “Oh, my God, you guys, let's hurry! Hurrying where? Uh, there's a retrospective \"Cher in the '70s: Gypsies, Tramps and Thieves.”"
       ],
       "notes": null,
       "flags": [],
@@ -32617,7 +32617,7 @@
         "watch": [
           "Nudity & bodies",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -32713,7 +32713,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“And why are you digging through my suitcase? - Uh - CLAIRE: Hey, Dad? Are you just gonna stand there while your wife calls me a tramp? I feel this is a risky time to weigh in.”",
             "count": 1,
@@ -32738,7 +32738,7 @@
       "examples": [
         "Nudity & bodies — “So, who's going to get me a drink? Mama's done breast-feeding.”",
         "Alcohol & drugs — “It's my grandma's 100-year-old recipe, except I use cayenne pepper instead of cocaine.”",
-        "Slut-shaming — “And why are you digging through my suitcase? - Uh - CLAIRE: Hey, Dad? Are you just gonna stand there while your wife calls me a tramp? I feel this is a risky time to weigh in.”"
+        "Sexual insults — “And why are you digging through my suitcase? - Uh - CLAIRE: Hey, Dad? Are you just gonna stand there while your wife calls me a tramp? I feel this is a risky time to weigh in.”"
       ],
       "notes": null,
       "flags": [],
@@ -33017,7 +33017,7 @@
           "Sex & hookups",
           "Affairs / cheating",
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -33107,7 +33107,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“You're an Auguste clown, not a tramp.”",
             "count": 1,
@@ -33162,7 +33162,7 @@
         "Sex & hookups — “Fizbo's more than just a-a pair of big shoes and an un-sexy jacket.”",
         "Affairs / cheating — “We had a brief but passionate affair, spending our days exploring Paris and our nights exploring each other.”",
         "Alcohol & drugs — “Well, I hope to see you both at the cocktail reception in an hour.”",
-        "Slut-shaming — “You're an Auguste clown, not a tramp.”"
+        "Sexual insults — “You're an Auguste clown, not a tramp.”"
       ],
       "notes": null,
       "flags": [],

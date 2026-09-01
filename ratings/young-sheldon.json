@@ -6360,7 +6360,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, implied).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, implied).",
       "themes": {
         "fine": [
           "Family sitcom",
@@ -6369,7 +6369,7 @@
         ],
         "watch": [
           "Alcohol & drugs",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -6399,7 +6399,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "What happened? If there's another woman, she's a tramp and you're way prettier.",
             "count": 1,
@@ -6423,7 +6423,7 @@
       },
       "examples": [
         "Alcohol & drugs — Is that three beers I see? It's girls' night out and I said I was going to show you a good time.",
-        "Slut-shaming — What happened? If there's another woman, she's a tramp and you're way prettier."
+        "Sexual insults — What happened? If there's another woman, she's a tramp and you're way prettier."
       ],
       "notes": null,
       "flags": [],

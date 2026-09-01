@@ -1343,7 +1343,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     <p>
       Each episode page lists every watch-for theme — Sex &amp; hookups, Nudity &amp; bodies,
       Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating, Suicide / self-harm,
-      Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Slut-shaming and Racism — with a count of how
+      Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Sexual insults and Racism — with a count of how
       many times it comes up and the exact quote or scene description behind each mention.
       Start with the <a href="guides/{esc(show_id)}.html">safest {esc(name)} episodes</a> if you
       want something tonight.
@@ -1433,7 +1433,7 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         "- Buckets: 1–2 = all clear, 3 = gray area, 4–5 = hard pass for little kids.",
         "- Watch-for themes: Sex & hookups, Nudity & bodies, Porn / strippers, Swearing, "
         "Violence & death, Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, "
-        "Gay / Lesbian, Fat-shaming, Slut-shaming, Racism.",
+        "Gay / Lesbian, Fat-shaming, Sexual insults, Racism.",
         "- Each theme on an episode page shows every occurrence: quotes appear in quote marks, "
         "everything else is a short description of what happens.",
         "",
@@ -1511,7 +1511,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
       <strong>language</strong>. The overall score is the highest of the three: 1–2 is all clear,
       3 is a gray area, 4–5 is a hard pass for little kids. Every flagged theme — Sex &amp; hookups,
       Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating,
-      Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Slut-shaming and Racism —
+      Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Sexual insults and Racism —
       is listed with how many times it comes up and the exact quote or scene behind it.
       Start with <a href="guides/index.html">what to watch tonight</a> if you want the safest
       episodes first.
@@ -1721,7 +1721,7 @@ def write_about_page() -> None:
         "Alcohol / Drugs",
         "Gay / Lesbian",
         "Fat-shaming",
-        "Slut-shaming",
+        "Sexual insults",
         "Racism",
     ]
     theme_chips = "".join(f'<li><span class="about-theme">{esc(t)}</span></li>' for t in themes)

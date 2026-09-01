@@ -12,7 +12,7 @@ Watch for:
   - [Explicit] “But once that body's dead, It's, "hey, don't mistreat the dead body! "hey, don't eat the dead body!" That's the ultimate crime, right? Murder, no big deal.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “And you're fat.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You're a couple of sluts! I think it's nice.”
 
 ## S1 E2 — 2. Crawl Space
@@ -156,7 +156,7 @@ Watch for:
   - [Mild] “Not that I was a bully just kids like Gene, you know? That get beat up.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “There's only gonna be two shots, me shooting you, and then me drinking this shot of whiskey.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Jocelyn, you skank.”
   - [Moderate] “I warned you, skank! Whoa, whoa, whoa, whoa, whoa, whoa, whoa! Girls, please.”
 
@@ -312,7 +312,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Anyway Everyone gets drunk and spends lots of money.”
   - [Mild] “Wow, this is going great, huh, Lin? Drunk people like hamburgers.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Makeover, ooh! We're gonna turn this whore into a Pretty Woman! Big mistake! Big! I love that part.”
 
 ## S2 E6 — 6. Dr. Yap
@@ -332,7 +332,7 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - [Explicit] “Make up a story about how you single-handedly murdered a wild animal.”
   - [Mild] “It all worked out?! You slapped me.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I can't believe this! You're a hurtful slut, Bob! I can't take this anymore, Lin.”
 
 ## S2 E7 — 7. Moody Foodie
@@ -364,7 +364,7 @@ Watch for:
   - [Mild] “Hey! If they didn't want you to pound 'em down, they'd give you more than ten minutes, right? Oh, you are drunk, Mom.”
   - [Mild] “Mommy doesn't get drunk.”
   - [Mild] “I told Zeke and Jimmy Junior that we'd hang out at the park tonight, and you'd bring margaritas.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Temp tramp stamps! Where's Tina? She should be doing this.”
 
 ## S2 E9 — 9. Beefsquatch
@@ -402,7 +402,7 @@ Watch for:
   - [Mild] “Get me whiskey.”
   - [Mild] “Um, I'm not sure whiskey is I have a flask in my golf bag.”
   - [Mild] “Dad, two beers.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Yeah, calm it, hussy! Do not call my wife a whore.”
 
 ## S3 E2 — 2. Full Bars
@@ -593,7 +593,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “It was like two babies climbin' on the same boob.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Um, skank? That's much better! Uh, I hate your new hair color.”
 
 ## S3 E13 — 13. My Fuzzy Valentine
@@ -643,7 +643,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “May I bring you a cocktail? Ooh, appletinis.”
   - [Mild] “Pull over! I'm drunk.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You dining alone? How does that happen? Whoa, whoa, ladies! Bring it down a notch, huh? Why don't I get you a nice booth in the back, right? We were all single once, but you don't got to be a slut about it, you know?”
 
 ## S3 E16 — 16. Topsy
@@ -967,7 +967,7 @@ Watch for:
   - [Explicit] “" Or give him some more nipples! You can never have enough! Ask a cat.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Ugh! What is in this? It's a cocktail, designed by and for Equestranaut lovers.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “A tattoo! They're tramp-stamping our tramp! How's my best buddy doing? Um, very excited, but I'd sure love to check out those dolls again real quick, and, um, I think I have to pee.”
 
 ## S4 E18 — 18. Ambergris
@@ -1586,7 +1586,7 @@ Watch for:
   - [Mild] “Who's The Grunt? What the hell's a grunt? Dominic "The Grunt" Gruntanno, one of the biggest bootleggers on this stretch of coast, and he was gunned down right here in 1931.”
   - [Mild] “First I'd like to say, what the fudge, right?! (all yelling) Who the hell does Boo Boo think he is?! Honey â­(groans) No, sorry.”
   - [Mild] “It's crap! Awful, pandering crap.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…dance during the Boyz 4 Now cover of "Maniac," which appeared on their covers album We Got You Covered! Easy, girl, easy.”
 
 ## S6 E17 — 17. The Horse Rider-Er
@@ -1688,7 +1688,7 @@ Watch for:
   - [Mild] “Aw, damn it.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm going to get a new hot dog! (grunting) No! Look at the size of this glass of wine! It's like a fishbowl! I love it here! â­Great.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Well, what do you want now? Are you gonna sell us napkins that are really trees?! Easy, girl, easy.”
 
 ## S7 E5 — 5. Large Brother, Where Fart Thou?
@@ -1704,7 +1704,7 @@ Watch for:
   - [Moderate] “Gerald, what's happening? What's going on? Uh, it turns out the cookies I gave you have marijuana in them a lot of it.”
   - [Moderate] “We can't get stoned in the middle of the day.”
   - [Moderate] “He totally knew I was stoned.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Whoa, whoa, easy, Tina girl.”
 
 ## S7 E6 — 6. The Quirkducers
@@ -1964,7 +1964,7 @@ Watch for:
   - [Mild] “We are in so much crap if that happens.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You could have drunk less coffee.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “No, no, no, no, no, no Sorry, toots, we got to go talk to tramp named O-line.”
   - [Moderate] “Oh, a tramp named O-line.”
 
@@ -2270,7 +2270,7 @@ Watch for:
   - [Mild] “Why don't you just beat her in the stunt flying competition at the air show? Wouldn't that be the sweetest revenge? Yeah, do the Dice N' Slice, and ideally without pooping the pit.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Tonight we drink wine out of a bottle.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Process-ily Cecily can process her ass! - (gasps) - You promised that no one at school would see us singing and dancing in your dumb video! Hold his arms! We're gonna make it look like an accident! Easy, girl!”
 
 ## S9 E6 — 6. Bobby Driver
@@ -2512,7 +2512,7 @@ Watch for:
   - [Mild] “(sighs) Where do you keep your wine? Where's your wine, hon? - I don't have any.”
   - [Mild] “What? Beer? - No.”
   - [Mild] “Well, how about this? Why don't we just go to the grocery store and we can get some wine to calm you down.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “We have to save Mom and Dad's marriage, so Dad won't end up as a single skank.”
 
 ## S10 E2 — 2. Boys Just Wanna Have Fungus
@@ -2773,7 +2773,7 @@ Watch for:
   - [Mild] Oh, my knees. Oh, my boobs. Oh, my back.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] You want a little more shrimp cocktail? Fire! Aah! No, thank you! Oh, no, how are we gonna get on board to get the booty, which is Rudy? Teddy, what do we do now? You're so smart and capable.
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Tramp socks! Yeah, well, we had a pretty good month, and I kinda want to go, too.
   - [Moderate] Back off, Logan. You're not taking Rudy and his tramp stamp anywhere.
 
@@ -3081,7 +3081,7 @@ Watch for:
   - [Moderate] No blood? Oh. Now I don't want to go.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] What, for violence? Well, there's a couple swears, and a character gets drunk, and there's a lot of innuendo.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Yeah. Oh. That guy's dressed up as Vamp von Tramp, the vampire gigolo.
 
 ## S12 E1 — 1. Manic Pixie Crap Show
@@ -3863,7 +3863,7 @@ Watch for:
   - [Moderate] grandpa you had an affair.
 - Violence & injury — 1 moment(s)
   - [Moderate] [BOB] Shotgun!
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] I shush you, you skank.
   - [Moderate] A lot mad, you gramp tramp.
 
@@ -3895,7 +3895,7 @@ Watch for:
 URL: https://watchwiththekids.com/ep/bobs-burgers/1518.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] "a skanky skank
 
 ## S15 E19 — 19. The Dead Bo-ats Society
@@ -4030,7 +4030,7 @@ Watch for:
   - [Mild] heads, make people go, "Damn!"
   - [Mild] And that smell is a big old hell no.
   - [Mild] Well, crap. That was
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Are you trying to say "skank"?
 
 ## S16 E9 — 9. It's a Stunterful Life

@@ -338,7 +338,7 @@ Watch for:
   - [Mild] “Um, should we maybe stop somewhere and get you a coffee? Maybe splash a little water on your face, or No, no, if I wanted to be sober, I wouldn't have gotten drunk.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “Cops are racist.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Where did you learn to talk, you grandpa-stealing slut? I'm feeling Ugh.”
 
 ## S2 E4 — 4. Total Rickall
@@ -874,7 +874,7 @@ Watch for:
   - [Mild] “Ha! Ha! Oh, crap.”
   - [Mild] “What the hell else are you hoarding down here? Cha-ching.”
   - [Mild] “What the hell? Taylor Swift pumping her hands in the air? - What does it mean when - It means you're lame.”
-- Slut-shaming — 4 moment(s)
+- Sexual insults — 4 moment(s)
   - [Moderate] “You slut dragon! - What the [BLEEP.]”
   - [Moderate] “! - You slut.”
   - [Moderate] “All dragons are sluts deep down, even the ones up above, but we would have to kill the wizard to be free.”
@@ -906,7 +906,7 @@ Watch for:
   - [Mild] “Geez, your dad sucks.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “How funny is that? Imagine being a racist snake.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Yeah, it's fun until it's you, - huh, shit nog? - Yeah, have fun sewing those snake costumes together, - you little tramp.”
 
 ## S4 E6 — 6. Never Ricking Morty
@@ -1200,7 +1200,7 @@ Watch for:
   - [Mild] Essence of Hell.
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Want some sofa wine?
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] to be offline, skank.
   - [Moderate] blackmail you, skank.
 
@@ -1227,7 +1227,7 @@ Watch for:
   - [Mild] who the hell have we been
 - Racism & slurs — 1 moment(s)
   - [Explicit] Well, I'm racist.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] in a whore's lunchbox.
 
 ## S5 E7 — 7. Gotron Jerrysis Rickvangelion
@@ -1444,7 +1444,7 @@ Watch for:
   - [Mild] God damn it! Are you happy now, Summer?
 - Alcohol & drugs — 1 moment(s)
   - [Mild] A cocktail of Mountain Dew and DayQuil.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Screw that. We're not whores.
 
 ## S6 E5 — 5. Final DeSmithation
@@ -1888,7 +1888,7 @@ Watch for:
   - [Mild] God damn it. Is this going
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Same. Okay. I'm gonna go get drunk.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Uh, okay, sluts.
 
 ## S8 E1 — 1. Summer of All Fears
@@ -2008,7 +2008,7 @@ Watch for:
   - [Mild] the most efficient booze absorber
 - Racism & slurs — 1 moment(s)
   - [Explicit] Is it racist to say I adore
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] In my day, we called them sluts.
   - [Moderate] Whore! Whore!
 

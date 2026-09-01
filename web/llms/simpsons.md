@@ -211,7 +211,7 @@ Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Moderate] Nurse: “Hey, you gotta be eighteen to sell your blood. Let's see some I.D.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Kent Brockman: “(THRU TV) ...No, you won't find Freddie the Freeloader, or Emmett Kelly, or even Charlie Chaplin's beloved Little Tramp down here.”
 
 ## S2 E8 — Bart the Daredevil
@@ -274,7 +274,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Grampa Simpson: “Uh-oh. Why don't you grab yourself a beer, boy.”
   - [Mild] Grampa Simpson: “Cut the crap. (MIMICKING HOMER) "I just collect the cans, Daddy." Now grab yourself a beer and get me one, too.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Jacqueline Bouvier: “Ladies pinch. Whores use rouge.”
 
 ## S2 E13 — Homer vs. Lisa and the 8th Commandment
@@ -724,7 +724,7 @@ Watch for:
 - Swearing — 2 moment(s)
   - [Moderate] Bart Simpson: “(CHUCKLES) He's such a bitch.”
   - [Mild] Ned Flanders: “(YELLING) STELLA! STELLLA! (SINGING) CAN'T YOU HEAR ME YELL-A? / YOU'RE PUTTIN' ME THROUGH HELL-A / (YELLING) STELLA! STELLA!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Company: “NEW ORLEANS! HOME OF PIRATES, DRUNKS AND WHORES / NEW ORLEANS! TACKY OVER-PRICED SOUVENIR STORES / IF YOU WANT TO GO TO HELL YOU SHOULD TAKE A TRIP / TO THE SODOM AND GOMORRAH”
 
 ## S4 E3 — Homer the Heretic
@@ -1906,7 +1906,7 @@ Watch for:
   - [Mild] Carl Carlson: “Yeah, he never stops punching... 'cept to check on his bindle.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] LUCIUS: “Well, the fans are weary of fights that are over before they have an opportunity to even get drunk. I just need a body who can sustain verticality for three rounds.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Lenny Leonard: “Man, that tramp's got the energy of a hobo!”
 
 ## S8 E4 — Burns, Baby Burns
@@ -2246,7 +2246,7 @@ Watch for:
   - [Mild] Homer Simpson: “I'm feelin' kinda low, Apu. You got any of that beer that has candy floatin' in it? You know, "Skittlebrau"?”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Rainier Wolfcastle: “Quit stalling, fatty.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Female Voices: “(COMPUTERIZED) I'll scratch you. The hair. The hair. Slut. Loser. Skag. Skag. Skag.”
 
 ## S9 E7 — The Two Mrs. Nahasapeemapetilons
@@ -2503,7 +2503,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Homer Simpson: “Seventy-six point two?! But I'm already thirty-eight point one! I've wasted half my life!”
   - [Mild] Homer Simpson: “(INTO PHONE) Marge! I've wasted half my life.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Marge Simpson: “Homer, you've got it set on "Whore."”
 
 ## S10 E3 — Bart the Mother
@@ -2603,7 +2603,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Marge Simpson: “(TO HOMER) You can get drunk when we get home.”
   - [Mild] Marge Simpson: “Oh, Homer, that was just a beer can with a whistle glued to it.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Homer Simpson: “A tramp steamer! That's perfect!”
   - [Moderate] Tramp Steamer
 
@@ -2618,7 +2618,7 @@ Watch for:
   - [Moderate] Leavelle: “Okay, listen up! My goal is to assassinate that watermelon. Your job is to take the bullet. Go! Go! Go! Go! (AIMING GUN) Pow!”
   - [Moderate] Homer Simpson: “(TO QUIMBY) That guy with the knife sure can dance, huh?”
   - [Moderate] Homer Simpson: “(STRUGGLING GRUNTS) Gimme that knife!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] C-3PO: “Ow! Ow! Stop! Please, save me, R2! (AS R2D2 RUNS AWAY BEEPING) Oh, you stupid little tramp! You're so boring! I hate you! Ow! Ow! Ow!”
 
 ## S10 E10 — Viva Ned Flanders
@@ -2924,7 +2924,7 @@ Watch for:
   - [Moderate] Meathook: “Marge, how did you get my jacket so clean? I've tried everything to get those blood and puke stains out. I've tried hitting 'em. I've tried yelling at 'em...”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Edna Krabappel-Flanders: “All right, class. Today we'll be sitting quietly in the dark, because teacher has a hangover.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Marge Simpson: “And when you get a job interview, try not to call your employer a "punk" or a "skank."”
   - [Moderate] Bikers: “(MEATHOOK) Makes sense. / (RAMROD) Oh, don't call them skanks.”
 
@@ -3470,7 +3470,7 @@ Watch for:
 - Homophobic jokes — 2 moment(s)
   - [Explicit] Homer Simpson: “You mean a Van Dyke?”
   - [Explicit] C. Montgomery Burns: “No, a Van Dyke has a mustache, doesn't it?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Kent Brockman: “Well, according to our Audience Insta-poll, forty-six percent say "You're Too Old", and thirty-seven percent say "She's A Skank".”
 
 ## S13 E5 — The Blunder Years
@@ -3497,7 +3497,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SOLEMN) Son, we are about to break the surly bonds of gravity and punch the face of God.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Jimbo Jones: “His name's Gunnar and he's datin' my Mom. Sometimes he buys us beer.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Lisa Simpson: “Like the whore of Babylon?”
 
 ## S13 E7 — Brawl in the Family
@@ -3597,7 +3597,7 @@ Watch for:
 - Sex & hookups — 2 moment(s)
   - [Moderate] Grampa Simpson: “Well, I gotta do something before the Viagra kicks in. I know, I'll suck my teeth. (SUCKS TEETH, THEN LOOKS DOWN) Whoa, here we go.”
   - [Mild] Grampa Simpson: “Sexy daughter...”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Jasper Beardly: Tramp.”
 
 ## S13 E14 — Tales from the Public Domain
@@ -3701,7 +3701,7 @@ Watch for:
 - Fat-shaming — 2 moment(s)
   - [Moderate] “Manjula Nahasapeemapetilon: Some special time. I get to stand around, watching you sell fatty poisons to overfed Americans.”
   - [Moderate] Apu Nahasapeemapetilon: “(READING) "#1) Break up with squishee girl." Well, that's a no-brainer. "#2) Lose weight. #3) Get cartoon published in New Yorker. #4) Legally change name to 'Slime Q. Slimedog.' #5) Wear nametag that says same."”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Manjula Nahasapeemapetilon: (ICE COLD) Is it my husband's whore?”
 
 ## S13 E20 — Little Girl in the Big Ten
@@ -3798,7 +3798,7 @@ Watch for:
   - [Mild] Bart Simpson: “(BEING-STRANGLED NOISES)”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Tom Brokaw: “Oh Lord, I'm so fat.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Mrs. McConnell: “Lisa comes to us from Miss Hoover ("GLUG-GLUG" NOISE)...While Bart was taught by Mrs. Krabappel (COUGHS "SLUT").”
 
 ## S14 E4 — Large Marge
@@ -4364,7 +4364,7 @@ Watch for:
   - [Mild] Homer Simpson: “Oh, I get it. Blame the strangler.”
   - [Mild] Warden: “(STERNLY) You two will dance, and you'll like it. Then you'll have punch and you'll drink it. Then your eyes will meet, and it will be awkward. So help me God.”
   - [Mild] Chief Wiggum: “Well, well, well, if it isn't Punch N' Juvie.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Bart Simpson: “Future skank!”
 
 ## S15 E17 — My Big Fat Geek Wedding
@@ -4420,7 +4420,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Krusty the Clown: “(CHUCKLES) And finally, the breakaway wine bottle...”
   - [Mild] Lisa Simpson: “My theme is "If Music Be The Food of Love." The setting features tuning forks, champagne flutes and of course, chopsticks. And for dessert, Ella Fitz Jell-O.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Marge Simpson: “Get ready, skanks -- here comes the truth train!”
 
 ## S15 E20 — The Way We Weren't
@@ -4488,7 +4488,7 @@ Watch for:
   - [Moderate] Harlot: “(COCKNEY) You gave me quite a fright, you did. (FLIRTY) Say, you don't need no fancy knife to get me attention, not with those handsome muttonchops. C'mon, give us a snog.”
   - [Moderate] C. Montgomery Burns: “Stop that! The felt is slicing through me like a knife!”
   - [Moderate] Marge Simpson: “And white blood cells are attacking my clothes!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Lord Mayor Quimby: “This week in our Summer Hanging Series, we're pleased to present the Muttonchop Murderer. At last God-fearing Londoners are free to walk Whore Alley.”
 
 ## S16 E2 — All's Fair in Oven War
@@ -4570,7 +4570,7 @@ Watch for:
   - [Mild] Homer Simpson: “Dad, you tried your best. For the first time in my life I can say, without being drunk, that I truly admire you.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Homer Simpson: “Don't dump me out! I can lose weight! Just give me a chance.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Ned Flanders: “Careful, it's hotter than a Fox News weather skank.”
 
 ## S16 E7 — Mommie Beerest
@@ -4642,7 +4642,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Bart Simpson: “(CHUCKLES) Some sucker will think he's getting beer, but he's really gonna get a face full of melon!”
   - [Mild] Barney Gumble: “Oh boy, free beer!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Woman: “You've reached Fox. If you're pitching a show where gold-digging skanks get what's coming to them, press one. If you're pitching a rip-off of another network's reality show, press two.”
 
 ## S16 E11 — On a Clear Day I Can't See My Sister
@@ -4863,7 +4863,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Milhouse Van Houten: “Mom, I don't wanna get Dad in trouble... but he just let me drink a beer. (HOLDS UP EMPTY BEER BOTTLE)”
   - [Mild] Milhouse Van Houten: “I am drunk -- I'll prove it! Watch me... kiss this picture of Nana.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Bart Simpson: “Skanks for nothing, Lamerella. (LAME-ER-ELLA)”
 
 ## S17 E4 — Treehouse of Horror XVI
@@ -4942,7 +4942,7 @@ Watch for:
 - Fat-shaming — 2 moment(s)
   - [Moderate] Homer Simpson: “It says that we should turn left at a fat chick in a tu-tu being fed by a midget.”
   - [Moderate] Gondola Driver: “(SINGS) WHEN A WIFE LOOKS LIKE THAT / AND HER HUSBAND'S SO FAT, THAT'S AMORE! / WHEN SHE KISSES THAT JERK / WHILE I DO ALL THE WORK / THAT'S A...”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Goat Woman: “Kentucky?! In Italian, this mean whore!”
 
 ## S17 E9 — Simpsons Christmas Stories
@@ -5073,7 +5073,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Homer Simpson: “Plus I designed a state-of-the-art stadium. We'll fund it with corporate naming rights. It's the Duff Beer-Krustyburger-Buzz Cola-Costington's Department Store-Kwik-E-Mart-Stupid Flanders Park!”
   - [Mild] Kent Brockman: “This is Kent Brockman live at Duff Beer-Krustyburger-Buzz Cola-Costington's Department Store-Kwik-E-Mart-Stupid Flanders Park.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Sideshow Mel: “(SPUTTERS) Isn't your mother a well-known whore?”
 
 ## S17 E17 — Kiss Kiss, Bang Bangalore
@@ -5144,7 +5144,7 @@ Watch for:
   - [Mild] “Twin Guy #1: (ROMANTIC) Would you lovely ladies care to join us for some champagne?”
   - [Mild] Homer Simpson: “Uh, yeah. I started when you were in the hospital. I was so worried. Recently I tried this thing called "beer." And...”
   - [Mild] Marge Simpson: “(GASP) I remember everything -- you get drunk all the time!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Ned Flanders: “(UPBEAT) Only ten dollars to paint my curb like a common whore? Well I'm happy to pay for a three-digit spray! (PAYS THEM) Tell you what, I'll give you another hundred if you paint my garage!”
 
 ## S17 E21 — The Monkey Suit
@@ -5346,7 +5346,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Homer Simpson: “(DRUNK) Bart... buddy! It's your dad! I need a ride! I think I'm in Chinatown. (BEAT) Not our Chinatown.”
   - [Mild] Homer Simpson: “Why would I go to Utah? I love booze, caffeine, and monogamy.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Homer Simpson: “(GRAVE) It's a tragedy, a real tragedy. I mean, what kind of tramp gets knocked up before she's even married?”
 
 ## S18 E13 — Springfield Up
@@ -5527,7 +5527,7 @@ Watch for:
   - [Explicit] Louie: “You know... if you're interested... we could use another hook jockey. The Springfield territory's wide open, since Flatbed Fred got killed in that murder-murder-murder-suicide.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Mayor Joe Quimby: “If I'd wanted the laws of this town enforced to the letter, I wouldn't have hired fatty here as police chief.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Bart Simpson: “Shut the Hell up, you damn ass whore.”
 
 ## S19 E4 — I Don't Wanna Know Why the Caged Bird Sings
@@ -5555,7 +5555,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Marge Simpson: “All those nights I thought you were out getting drunk, you were out killing people?!”
   - [Mild] Homer Simpson: “I was out getting drunk, then killing people!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Homer Simpson: “(MAD) Out of my way, mystery skank!”
 
 ## S19 E6 — Little Orphan Millie
@@ -5679,7 +5679,7 @@ Watch for:
   - [Mild] Betsy: “Want a beer?”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] Martin Prince: “A bone?! (GASP) It could be one of the major homo's!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Zack: “(SHARPLY) Yeah, yeah we're all whores. Just get in there!”
 
 ## S19 E15 — Smoke on the Daughter
@@ -5848,7 +5848,7 @@ Watch for:
   - [Mild] C. Montgomery Burns: “(CALLING TO CAMPERS) Skinny dip!”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] The Rich Texan: “Take good care of 'em, Burnsie. Don't let the forwards mix with the guards. And if they're actin' sluggish, slip some steroids into their cocaine.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Homer Simpson: “(SNORTS) Flowers -- the painted whores of the plant world.”
 
 ## S20 E9 — Lisa the Drama Queen
@@ -6333,7 +6333,7 @@ Watch for:
   - [Moderate] Mark Zuckerberg: “Bill Gates -- dropout. Virgin Airlines' Richard Branson -- dropout.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Nelson Muntz: “(SADLY) Sorry I wasted your time. No fool would take a chance on a loser like me.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Chris Hansen: “I'm Chris Hansen from "To Catch A Credit-Whore". We know you've been returning used items all over town.”
 
 ## S22 E3 — MoneyBart
@@ -6404,7 +6404,7 @@ Watch for:
   - [Moderate] Homer Simpson: “(BLOODY HANGMAN VOICE) KER-SHAW, KER-SHEW / I'M AFTER YOU / WITH MY BLOODY NOOSE / STRONG ENOUGH TO HANG TEN MOOSE / KER-SHAW, KER-SHEW / IT'S JUST A STORY, BUT IT'S REALLY TRUE!”
   - [Moderate] W.C. FIELDS: “Ah, yes. A little hair of the dog that bit me. (DRINKS BLOOD)”
   - [Mild] Ostrich: “(VIGOROUS STRANGLING NOISES) / (DYING NOISES)”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Homer Simpson: “Even my tramp stamp?”
 
 ## S22 E8 — The Fight Before Christmas
@@ -6563,7 +6563,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Moderate] Raymondo: “The lady in question is my late wife, Esther. (HEARTFELT) She was the only other soul who knew the secret of my greatest trick. Now I'm alone with my memories and my medical marijuana.”
   - [Mild] Raymondo: “Now, the first thing you must do is make me a vodka tonic...”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Cregg Demon: “Okay, for my first chillusion, I'm gonna descend into Hell and pull up a skank.”
 
 ## S22 E19 — The Real Housewives of Fat Tony
@@ -6787,7 +6787,7 @@ Watch for:
   - [Mild] Marge Simpson: “No strangling on school days!”
 - Racism & slurs — 1 moment(s)
   - [Explicit] Homer Simpson: “Audio book read by Lenny. I'm not just another loudmouth. I'm a loudmouth who says things you're afraid to say (BOOMING) BUT NOT RACIST THINGS!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Lisa Simpson: “(SADLY) Looks like we're back to traveling on tramp steamers and produce trucks.”
 
 ## S23 E11 — The D'oh-cial Network
@@ -7368,7 +7368,7 @@ Watch for:
   - [Explicit] Deputy Director Gratman: “I'm here to arrest and hopefully stage the prison suicide of the mastermind of this operation -- Homer Simpson!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Homer Simpson: “Yeah, and why don't they make a sequel to "Taken" where the "Hangover" guys get taken and the only ones that can rescue them is "Fast and Furious."”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Announcer: “Also available in "Arctic Slut," "Morning After Melon," and "Elon Musk."”
 
 ## S25 E10 — Married to the Blob
@@ -7547,7 +7547,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Krusty the Clown: “Where's my whiskey funnel!”
   - [Mild] Krusty the Clown: “Kid, there's no way you can cheer me up. Not when whiskey, good deeds and hookers failed.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Krusty the Clown: “I say this with love, you disrespectful skank. You've... had more... (SAD) suddenly, I don't feel like doin' this.”
 
 ## S26 E2 — The Wreck of the Relationship

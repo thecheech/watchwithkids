@@ -66,7 +66,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Stoli Vodka at 150.
   - [Mild] 150, the current bid from Stoli Vodka.
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] their art teacher is a slut?
   - [Moderate] She is not a slut.
 
@@ -97,7 +97,7 @@ Watch for:
   - [Mild] drink beer. That's it.
   - [Mild] Are you drunk?
   - [Mild] And I get whiskey
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] like a cum whore.
 
 ## S1 E1 — 1. Cartman Gets an Anal Probe
@@ -226,7 +226,7 @@ Watch for:
   - [Mild] “Piece of crap, I'll kill you! - That's the spirit, tubby.”
   - [Mild] “What the hell are you doing? We're not watching Terrance and Phillip, I swear.”
   - [Mild] “No, I mean what the hell are you doing to Grandpa? Tug a little harder, Billy.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “You son of a whore! What was that for? Your stupid mother made me miss Terrance and Phillip.”
   - [Moderate] “It's about time, you lazy-ass son of a whore! Come on, let's go! What the? - Hey, he's coming towards us.”
 
@@ -247,7 +247,7 @@ Watch for:
   - [Mild] “Damn it, don't you see? These people have been zombiefied.”
   - [Mild] “I don't give a crap.”
   - [Mild] “You bastard! What happened? Stan? - Babe, everything's gonna be okay.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “Come on, we're running late! - We always run late, you skank.”
   - [Moderate] “Go to Endor, wookiee! - Wookiees don't live on Endor! My mom's not on the cover of Crack Whore magazine.”
   - [Moderate] “I'm not the one who looks like Pippi Longstocking! My mom's not on the cover of Crack Whore magazine.”
@@ -313,7 +313,7 @@ Watch for:
   - [Mild] “Damn it to hell! We have to get the surgery again, Mr.”
   - [Mild] “Down! Down! Everybody down! - What the hell? - So we meet again, Miss Ellen.”
   - [Mild] “Take her away! - No, get away from me! - Oh, my God, she killed Kenny! - You bastard! Wow, what incredible irony.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I'm not kissing ass, you slut! - Miss Ellen, can I talk to you? Of course, Wendy.”
 
 ## S1 E12 — 12. Mecha-Streisand
@@ -365,7 +365,7 @@ Watch for:
   - [Mild] “Are we late for the party? - What town is this? - Damn, woman, what's gotten into you? - Whoopee! - Garrison, what are you doing? - You're drunk, Mr.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “We were wondering why fat ass - I mean Cartman, isn't at school.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “Cartman's Mom is a Dirty Slut Cartman's not showing up for school.”
   - [Moderate] “" - Your mom's a slut.”
   - [Moderate] “Wow, we're sorry your mom's a whore.”
@@ -550,7 +550,7 @@ Watch for:
   - [Mild] “You're a natural! You're the funniest comic I've seen in years! Why don't you just shut the hell up! I've got to get some assistance for my broken down bus! Broken down bus that's great, great angle.”
   - [Mild] “Holy crap dude! Gross!! Well, I guess nobody else will be getting off the bus.”
   - [Mild] “bastard? Now that's what I call a sticky situation.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “mmmmfmfmmfmfmmhmmm Come back here you pompouse son of a pansy! Don't let him touch you! You die if he touches you! Come over here you son of a whore! Oh my god! Kenny.”
   - [Moderate] “Hey you guys, can we order a pizza? What the hell are you all staring at!?!?!? Stop laughing you whores!!!! I SAID SHUT UP!!!!!!!!!!!!! Let's hear it for Ms.”
 
@@ -578,7 +578,7 @@ Watch for:
   - [Moderate] “You see it's you that's gay, but you're in denial, so you act out your gay persona with a homosexual puppet.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Your fat ass isn't on the sled.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “He's a two-timing whore.”
 
 ## S2 E9 — 9. Chef's Chocolate Salty Balls
@@ -668,7 +668,7 @@ Watch for:
   - [Explicit] “School in summertime? Yeah bitch! School in summer time! Open your fucking ass nigga hole or I'll pop your bitch ass! - I'll a poppa yo a bitcha assa tuba.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Cartman! We shot your Bosnian fat ass! - Yeah you're dead! - I have class 4 armor on, that uh uh it it - No, you don't! Special armor that's imperitable to American bulets.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Hat is a two-timin whore! - And now we all learn from Mr.”
 
 ## S2 E13 — 13. Cow Days
@@ -699,7 +699,7 @@ Watch for:
   - [Mild] “Hey, where's Cartman? - Oh hell.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I need a cold beer and a burger.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Go help him Kenny! Uh uh! I know what's gonna happen alright! - Oh my god they killed Kenny! - You bastards! And this brave little whore from the East, has really put on a show for us today!”
 
 ## S2 E14 — 14. Chef Aid
@@ -722,7 +722,7 @@ Watch for:
   - [Mild] “Oh oh, you're my cheddar cheese girl You're soft but firm, and you go well with wine Oh oh, cheddar cheese girl Cheddar, cheddar cheese girl Hey, Elton.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Anyways, here's our song! Many colors in my homo rainbow Don't be afraid to let your colors shine Don't worry, Mr.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “My only hope is to whore myself to every woman in town.”
 
 ## S2 E15 — 15. Spooky Fish
@@ -804,7 +804,7 @@ Watch for:
   - [Mild] “You bastards.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “No you don't fat ass.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You hear that you're not gonna get away with this you whore! Excuse me! Boys, we've talked it over and we want you to take your case to the mayor.”
 
 ## S2 E18 — 18. Prehistoric Ice Man
@@ -947,7 +947,7 @@ Watch for:
   - [Mild] “Harrassment Panda! Hi, boys and girls! Say hi to Sexual Harrassment Panda! Hi Sexual Harrassment Panda! Did you know that when one little panda pulls on another little panda's underwear, that's sexual harrassment?”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “" Kids, are you tired of being harrassed at school? Sick of being called a homo?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…So whatever the outcome, things look very bright for Kyle's Dad! Personally, I think Kyle's dad is just a whore taking advantage of everyone in town and This just in!”
 
 ## S3 E7 — 7. Cat Orgy (1)
@@ -1013,7 +1013,7 @@ Watch for:
   - [Mild] “Noo! Don't go to the docks! I'm Captain Bly! You land-lubbers had better stay away from the docks! Or else, there'll be hell to pay!”
 - Fat-shaming — 1 moment(s)
   - [Mild] “That's only 72 shopping days left for you! - Come on, fatass, we have to go! - Ey! Don't call me fat! - Mom, don't laugh.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Aw, nuts! Come on, Ned, this ain't no whore house, it's a hor-ROR house.”
 
 ## S3 E11 — 11. Chinpokomon
@@ -1026,7 +1026,7 @@ Watch for:
   - [Moderate] “…bastard! You cost me fifty bucks! Why don't you run away and join the circus, you stupid little son of a bitch!?”
   - [Moderate] “…this to my sister! Uh, all I did was show her how to You made my sister into a slut! I'll kill you! You bitch!”
   - [Mild] “…bee! I never do! This year's gonna be different! Look! I got you Hooked on Monkey Fonics! What the hell is Hooked on Monkey Fonics?!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…out of control! You did this to my sister! Uh, all I did was show her how to You made my sister into a slut!”
 
 ## S3 E12 — 12. Hooked on Monkey Fonics
@@ -1053,7 +1053,7 @@ Watch for:
   - [Explicit] “…is the United States Government! United States Government is an Evil Power! It has commited Japaneese murder crime!”
 - Swearing — 1 moment(s)
   - [Moderate] “Garrison! Spread the word! Get on the wire to every parent around the country and tell 'em how to bring those sons of bitches down!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…just use the action button and Alabama Man busts her lip open! Shut up, bitch! Needs to fight a sick sick whore!”
 
 ## S3 E14 — 14. The Red Badge of Gayness (a.k.a. War)
@@ -1116,7 +1116,7 @@ Watch for:
   - [Mild] “Garrison, I think when we get to Arkansas, you need to see your father! You need to face this demon in your closet, m'kay! Don't look at me! I'll go on your bastard trip and just don't look at me!”
   - [Mild] “…Lookit this kid's coat! Hey, kid, what'sa matter?! You a freakin' burn victim or something?! What? Who the hell are these guys?!”
   - [Mild] “…'Tis of Thee" on their recorders! Dude, I can't wait 'til those New Yorker kids play the Brown Noise and crap their pants!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…my God! I wasn't good enough for you! Was that it, dad?! - Well NO! Sure! You could go off and screw any whore on Ryland Street, but when it came to your own son, you were just too busy!”
 
 ## S4 E1 — 1. The Tooth Fairy's TATS 2000
@@ -1445,7 +1445,7 @@ Watch for:
 - Fat-shaming — 2 moment(s)
   - [Moderate] “My mom says i ain't to eat no candy here, I'm supposed to lose weight.”
   - [Mild] “Y'know, kyle, there was a time when your fat jokes would have gotten to me, But now i'm totally slim and totally happy.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “Now, some people think that all you guys do Is perform sick and disgusting acts for shock value and money, Which makes you whores.”
   - [Moderate] “I guess he is the biggest whore.”
   - [Moderate] “Now he's in jail for being a whore.”
@@ -1611,7 +1611,7 @@ Watch for:
   - [Mild] “But the guy that replaced him sucks.”
   - [Mild] “Ahh! Oh, my god! Excuse me, is this where the earth day crap is happening? He's here.”
   - [Mild] “Do i need to remind you what will happen if you don't? Karl! Owww! You bastards.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I don't think we're female groupies or random sluts.”
   - [Moderate] “Kenny's a random slut.”
 
@@ -1759,7 +1759,7 @@ Watch for:
   - [Mild] “That's all right, we just want some nice cheap beer tonight.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “Yeah! Yeah! And i want to assure the nation that is watching That south park is not a town of prejudice or bigotry.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “For instance, your mother is a chemist For a pharmaceutical company, Whereas your friend eric cartman's mother Is a crack whore.”
   - [Moderate] “And cartman for having a whore for a mom.”
 
@@ -1774,7 +1774,7 @@ Watch for:
   - [Mild] “And what the hell does that have to do with anything? Stem cells, numb nuts.”
   - [Mild] “Damn, i'm good.”
   - [Mild] “He's all pissed off about something we did Thousands of years ago.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Okay, and what if you could have two wishes? What would the second one be? I know, i bet you'd like to meet madonna, huh? What was that? He said madonna's an old anorexic whore Who wore out her welcome years ago.”
 
 ## S5 E14 — 14. Butters' Very Own Episode
@@ -1818,7 +1818,7 @@ Watch for:
 - Fat-shaming — 2 moment(s)
   - [Moderate] “That penis-Butt didn't lose weight eating sub sandwiches.”
   - [Moderate] “Then city wok could say their food makes you lose weight.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Oh, you just wait until i get home, mister! I'll be waiting with bells on, You old horse-Banging skank.”
 
 ## S6 E2 — 2. Asspen
@@ -1863,7 +1863,7 @@ Watch for:
   - [Mild] “Those damn freaks! I gave you shoes! And groceries! And this is how you repay me? Very well, come upstairs and We'll negotiate.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “I ditch class and go shoot heroin in the school bathroom.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “Why can't you just listen to me and love me? Shut up! Shut the up, you dried up skank! I'm glad you're not like that, poopsy-Kins.”
   - [Moderate] “Why won't you kids behave? Shut up, skank!”
   - [Moderate] “You god damn whore! Attention, maury viewers.”
@@ -1975,7 +1975,7 @@ Watch for:
   - [Mild] “It's all about the timing You damn kids!”
   - [Mild] “Here comes a suv! You damn kids! Hi, bebe! Hey, everybody! Oh for christ's sake! M'kay, kids, yesterday i asked you to write a paper To read aloud for the class.”
   - [Mild] “But that sucks.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Yeah! Yeah! Can you believe bebe? She thinks she so cool all of a sudden! I can't stand her anymore, she's such a slut.”
   - [Moderate] “She's a total slut! You know what i heard? I heard that she made out With eight different boys in one minute! I heard that she lifted her shirt To the boys at the bus stop.”
 
@@ -2053,7 +2053,7 @@ Watch for:
   - [Mild] “Well, well, well! If it isn't robin hood and his merry men! Oh crap, the 6th graders! What you got there? Nothing.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “…on you! I have blocked your spell, wizard! Hey, what are you guys doing? We're playing "harry potter"! Ha! Fags!”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Now just how bad of a porno tape are we talking, here? I mean, was it like, "crotch capers 3"? I'm afraid it was "backdoor sluts 9".”
   - [Moderate] “Backdoor sluts 9! Backdoor sluts 9! Is that bad? Backdoor sluts 9 makes crotch capers 3 Look like "naughty nurses 2"! It is the single most vile, twisted, Dark piece of porn ever made.”
 
@@ -2193,7 +2193,7 @@ Watch for:
   - [Mild] “Damn! Oh God! How the hell did they find out it was us that TP'ed that house? Will you relax, Kyle?! They've got nothing on us! As long as we all stick to our story, we'll be fine.”
   - [Mild] “What the hell are you doing, Cartman?! I'm killing you.”
   - [Mild] “What fibs have you been telling this policeman, Butters? You know damn well you didn't toilet-paper that house! Huh? Butters was with us all night, Officer Barbrady.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “This isn't playtime, you're being punished! Fine! But we'll have the last laugh tonight, artwhore! Yeah! Payback time, you ugly skank! D'you think that's enough? Should be fine.”
 
 ## S7 E4 — 4. I'm a Little Bit Country
@@ -2240,7 +2240,7 @@ Watch for:
   - [Mild] “Lopez? What's she doing? Come here! You're not actually buying this crap, are you? I don't know, meh, maybe he can't help it.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “No, you didn't, asshole! What you did was totally stupid and racist! And you only did it to screw me over! Awww, I don't think Kyle likes you, Ms.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Hoohh, I love you too, Ben! But But what? But what if you still have feelings for the slut with the large ass? I still care for her.”
 
 ## S7 E6 — 6. Lil' Crime Stoppers
@@ -2268,7 +2268,7 @@ Watch for:
 - Homophobic jokes — 2 moment(s)
   - [Moderate] “Yeah, that's gay.”
   - [Moderate] “We were playing gynecologists and now we're playing criminals That's gay.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Oh well, then maybe you can tell me who was in charge of the feminist movement of the early sixties! A bunch of fat old skanks on their periods?”
 
 ## S7 E7 — 7. Red Man's Greed
@@ -2490,7 +2490,7 @@ Watch for:
   - [Mild] “Oh, we will! This is America! And in America, if something sucks, you're supposed to be able to get your money back!”
   - [Mild] “Mel Gibson is right behind you and he's gonna- What the hell? - Hey! That's Mel Gibson! - Yeah.”
   - [Mild] “I told you that! Well, what the hell does he want?! He wouldn't give us our money back for The Passion, so we kinda took it.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…and Phillip" Hey Terrance, I think I have a- Mom! Doorbell! Mom! Answer the door! Goddamnit, lazy-ass whore.”
 
 ## S8 E4 — 4. You Got F**ked in the Ass
@@ -2662,7 +2662,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “I need to get wasted.”
   - [Mild] “Oh my God, I'm so wasted! The room's all spinny.”
-- Slut-shaming — 7 moment(s)
+- Sexual insults — 7 moment(s)
   - [Moderate] “South Park 812 dsr-lol 512x384 Xvid 140MB Stupid Spoiled Whore Video Playset.”
   - [Moderate] “What does she do?! She's a whore.”
   - [Moderate] “Why do you want to be like Paris Hilton? It's not just Paris: Britney Spears, Christina Aguilera, Tara Reid they're all stupid spoiled whores!”
@@ -2859,7 +2859,7 @@ Watch for:
   - [Mild] “What, Frank? Oh, oh God damn it! Hello? Anybody? We'd like to be rescued, please.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “and warm our bodies next to each other? Don't be a fag! Come on, we can make it.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “He has his Jew ethics, while he whores his greedy Jew gold, and he will Jew you out if you tell him about this! Hey dudes.”
 
 ## S9 E9 — 9. Marjorine
@@ -3199,7 +3199,7 @@ Watch for:
   - [Mild] “If the accusations are true, then damn! Looks like the defendant and her lawyer are about to give a statement, Tom.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Hallpass! Show me your hallpass! What?! You know what this is? This is the mace they use on bears, faggot! Now let me see your hallpass.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I'm gonna get that hallway-defilng slut no matter what it takes! Are you in?! I got some badass guys to help me.”
 
 ## S10 E11 — 11. Hell On Earth 2006
@@ -3371,7 +3371,7 @@ Watch for:
   - [Mild] “Peter was a rabbit is blasphemy! You must admit you are wrong or burn in hell! It's saying stupid things like that that made Jesus wanna put a rabbit in charge.”
   - [Mild] “You asked for the help of the American Catholic League, let us do our job! Take him! No! No, you bunny-hating bastards! Don't do this! I don't get it.”
   - [Mild] “" No! That is not the way we're remembering it! Take them into custody! Hey, what the hell! Bill, we have the rabbit, it's all we need.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Don't be soft, Your Holiness! These "whores" must be punished in front of everyone! You swore on the cross, fatso! Yeah.”
 
 ## S11 E6 — 6. D-Yikes
@@ -3857,7 +3857,7 @@ Watch for:
   - [Mild] “Tom, the Disney Jonas Brothers has failed, costing the Disney company millions, and once again, Mickey is pissed off and throwing a fit.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “You three faggots are going onstage and you three faggots aren't gonna stop me!”
-- Slut-shaming — 4 moment(s)
+- Sexual insults — 4 moment(s)
   - [Moderate] “All the fifth graders call her a slut on a count of she gave this kid, Dave Darski, a BJ in the parking lot of T.”
   - [Moderate] “What? It's true! Ask anybody in fifth grade! Tammy Warner is a total slut! That bitch! Kenny gave his heart to her and she's just gonna throw it in his face! Well, Kenny deserves to know, fellas.”
   - [Moderate] “If you guys found out my girlfriend was a raging whore, I'd want you to tell me.”
@@ -3885,7 +3885,7 @@ Watch for:
   - [Explicit] “You're a fag, Kyle! Fuck you! Dude, what? He's not a fag! Why do you care? Oh, I, uh Well, I'm just mad 'cause you shouldn't ever use the term "fag," Kyle.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “Yeah, well, you can't know my true identity either! I assume you must be Cartman, because you're fat.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “The city is a dying whore.”
 
 ## S13 E3 — 3. Margaritaville
@@ -3943,7 +3943,7 @@ Watch for:
   - [Moderate] “S-s-suck it, bitch.”
   - [Mild] “Yeah well, you wanna do something? I wanted to hang out with Stan and Kyle but they're all pissed off at me for something so I have to hang out with you.”
   - [Mild] “And I sure as hell ain't no fish, alright? You really don't get it? Hey man, I'm a genius, alright.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…to other gay fish All those lonely nights at the grocery store In the frozen fish aisle feelin' like a whore 'Cause I wasn't bein' true y'know everyone said That I have to make a switch Now I know that I'm a gay…”
 
 ## S13 E6 — 6. Pinewood Derby
@@ -4044,7 +4044,7 @@ Watch for:
   - [Mild] “Sally Darson? - Aw, hell, Dad, I got lots of girlfriends.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “After the way you treated me! I need a pimp that doesn't beat me every time he gets drunk! - Yolanda, I love you! I need you.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Yeah, come on, harder! Deeper! - Oh, yeah! Oh, yeah! - Yeah, teach me a lesson, daddy! Teach this little whore a lesson! - Yeah! Yeah! - Yeah, that's right! - Oh! Aggh! Ohhh! Oh! Oh.”
   - [Moderate] “…what - Give it to me! Come on, you sissies, I can fit more of you! Yeah, you like your little stripper whore?”
 
@@ -4077,7 +4077,7 @@ Watch for:
   - [Mild] “Holy crap, dude.”
   - [Mild] “You dirty Muslim bastard! I don't trust you, and I never will! Do you know how it feels to lose your parents? No, you wouldn't, you smelly, brown Middle Eastern piece of-- - Thank you.”
   - [Mild] “…that belt And so I dreamed every night that I was The Undertaker Smashing skulls in Breaking arms - Damn, dude, that is some bad-ass wrestling.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Okeydoke! - So is that when I t-tell you that your girlfriend is a whore? - No.”
   - [Moderate] “Let's save the girlfriend-is-a-whore line until after Stan head-butts Butters for trying to stop the fight again.”
 
@@ -4099,7 +4099,7 @@ Watch for:
   - [Mild] “What the hell is that? - Oh, no.”
   - [Mild] “Sweet! - Are we ready to do this? - Yeah! - Yeah! - Yeah! Hell yeah! Let's do it! - Are we badasses? Yeah! - Are we badasses? Yeah! - All right, so What do we do? Wait.”
   - [Mild] “I just want people to know that you can stop the Japanese if you have some real god damn balls.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…whaling problem for a second? - But their old captain, Paul Watson, was an unorganized, incompetent media whore who thought lying to everyone was okay as long as it served his cause.”
 
 ## S13 E12 — 12. The F Word
@@ -4151,7 +4151,7 @@ Watch for:
   - [Mild] “What the hell do you think you're doing? - A book signing.”
 - Alcohol & drugs — 1 moment(s)
   - [Explicit] “Is Wendy using your lunch money to buy heroin? Probably not.”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “It's 540 pages of ripping on Wendy and calling her a slut! - I do not directly say she's a slut.”
   - [Moderate] “This school has finally transformed into the Socialist whore land where a student isn't free.”
   - [Moderate] “Can you see why many students think you're an ineffective slut? Are you denying that the Smurf holocaust ever happened? Is that what you're suggesting? - Look, Eric.”
@@ -4202,7 +4202,7 @@ Watch for:
   - [Mild] “The poor bastards.”
   - [Mild] “Everyone to the stairwell! The bastard has gotta be upstairs! What bastard? The alien wizard hiding out here! Come on, we've got to -- What the hell was that? I got a bad feeling about this.”
   - [Mild] “So i officially announce my return to golf! What the hell? This game'albori now.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “…pills?! Oh, yeah, take more vicodin, Tiger! That'll help! Will you just listen to me? Listen to this! You whore!”
 
 ## S14 E2 — 2. The Tale of Scrotie McBoogerballs
@@ -4325,7 +4325,7 @@ Watch for:
   - [Explicit] “We understand you just Sounded like a freaking racist! We don't live in the We have a black president! Alright, alright.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Watching porn isn't like doing coke, fag!”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “There was a right tackle, See, who had an illegitimate Child with your slut of a mom!”
   - [Moderate] “He got a little bored one week And had an affair with a slut named Liane Cartman.”
 
@@ -4414,7 +4414,7 @@ Watch for:
   - [Moderate] “Because his mom's a Jersey asshole doesn't mean he is.”
   - [Mild] “You know what you do to make them move away? Every night, you take a crap on their doorstep.”
   - [Mild] “Is that why there's crap on my doorstep every morning? Busted.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “You don't ever, ever, you rat dog, prostitution whore! You probably sell your muff for $6.”
   - [Moderate] “Who the fuck are you to tell me what to do? You trashy whores get out of here and leave her alone.”
 
@@ -4827,7 +4827,7 @@ Watch for:
   - [Mild] “What the hell? We told him to grow up.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “The problem is with this area blocked by napping tents, we have no place to serve the officers' beer.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “The same dirty slut who's been fucking with us our whole lives! Sweetie, is everything OK? Does everything look OK? Sit down, you fucking bitch! Sit down, mother.”
   - [Moderate] “You're a little disturbed right now, but maybe you can Shut your fat piehole, bitch! You know what you did, skank! You let Clyde Frog get murdered! No, Rumper Tumpskin, I didn't.”
 
@@ -4867,7 +4867,7 @@ Watch for:
   - [Explicit] “And if you look closely in the backyard, you can even make out what appears to be a meth lab.”
   - [Explicit] “We got another meth lab in town.”
   - [Mild] “What is it? It's like beer but different.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You done spilled that on my titties, skank! They're white trash.”
 
 ## S16 E1 — 1. Reverse Cowgirl
@@ -5110,7 +5110,7 @@ Watch for:
   - [Mild] “I'm not intoxicated.”
   - [Mild] “Their diet is mostly an odd mixture of coconut milk, pineapple juice and vodka which they call 'the chi chi'.”
   - [Mild] “But they're still letting vodka through, right? They can't cut off our chichis Oh my God.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Then a little boy called me a skank.”
 
 ## S16 E12 — 12. A Nightmare on Face Time
@@ -5200,7 +5200,7 @@ Watch for:
   - [Explicit] “I'm about to sit down and eat a sandwich at this amazing deli run by two faggots in Chelsea.”
   - [Explicit] “She can make a pussy sandwich that will give those faggots in Chelsea a run for their money.”
   - [Explicit] “what is that voice? Some little faggot in my head.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Blabbing, prissy little skank! Why do people talk on the phone like that? I can't even get a minute of peace before that bitch walks in holding the cell phone out like this and talking on speakerphone.”
 
 ## S17 E2 — 2. Informative Murder Porn
@@ -5340,7 +5340,7 @@ Watch for:
   - [Moderate] “See? You sound like a dick.”
   - [Mild] “Dude, go to hell! You're right.”
   - [Mild] “Dude, what the hell are you talking about? Yummy, yummy, yummy, can I please have Cartman's farts in my tummy? Okay, okay! Jesus.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I don't think I can unless Unless, I don't know, maybe you called your mom a fat skank.”
   - [Moderate] “What is it, Kyle? You're a fat skank, Mom.”
 
@@ -5387,7 +5387,7 @@ Watch for:
   - [Mild] “We're not fans! - Yeah! We don't like it! We don't like it, and I'm pretty pissed off, if you want to know the truth.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “The princess bids your fat ass welcome to her kingdom and suggests you state your purpose.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Ah, god - There's another army out there who thinks they're better than us, and we are not going to be beat by the traitor whore kenny.”
 
 ## S17 E9 — 9. Titties and Dragons
@@ -5413,7 +5413,7 @@ Watch for:
   - [Mild] “Dude, I know you're pissed at me right now.”
   - [Mild] “Kyle, the PlayStation controller sucks, and you know it! The fight is over, Cartman.”
   - [Mild] “They don't give a crap what kind of friendships it costs.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You can't die! Everybody really likes you! We are not going to be beat by that traitor whore Kenny! Seems a shame that the fight will be so one-sided.”
 
 ## S17 E10 — 10. The Hobbit
@@ -5438,7 +5438,7 @@ Watch for:
   - [Mild] “Oh, she sucks! - Oh, God! - Can we try this without Wendy? - I agree.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] “See you, Lisa! Ha-ha, Butters got asked out by a fat girl.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Look at those thighs Come on, you gotta push harder! You better work out, whore! Whoa She looks sweet.”
 
 ## S18 E1 — 1. Go Fund Yourself
@@ -5927,7 +5927,7 @@ Watch for:
   - [Mild] “God damn it! Do you guys even care how this makes the girls feel? - We didn't do it.”
   - [Mild] “Well, I hear you, but, you know, sometimes in life, you just got to suck a turd, you know? Hello? Damn it!”
   - [Mild] “Every time I do something awful, people just get more stoked on me! It's impossible to piss people off anymore! MAN: This is breaking news! The moment has arrived.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Are you or are you not the Internet troll skankhunt42? It's skank-hunt42, and no, I am not.”
 
 ## S20 E2 — 2. Skank Hunt
@@ -5943,7 +5943,7 @@ Watch for:
   - [Mild] “The girls are really pissed off at us.”
   - [Mild] “Oh, God damn it.”
   - [Mild] “God damn it.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Game on, whore.”
 
 ## S20 E3 — 3. The Damned
@@ -5996,7 +5996,7 @@ Watch for:
   - [Mild] “Damn it! Get out of here! Stop that! - You don't have to work tonight? - Nope! Nothing! Wow.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] Butters: “…Yeah! - That's right! What makes us different makes us beautiful! No more shame! No more doubt! No more bigotry!”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] “Screw you, skank.”
   - [Moderate] “You fat, little bitch! Go Go kill yourself, whore! Yeah [bleep.]”
   - [Moderate] “This is why we all have to come together, Skank.”
@@ -6025,7 +6025,7 @@ Watch for:
   - [Mild] “It's like the fission reaction that sets off the fusion explosion! The Internet does it all, and you just sit back with your glass of wine and laugh! Wow.”
 - Racism & slurs — 1 moment(s)
   - [Explicit] “Are you tired of hate speech? Are you sick of sexism and the bigotry? Then please help the Danish put an end to trolls.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “I'm gonna kick your ass! Anytime, anywhere, skank.”
   - [Moderate] “It's not mean if it's hilarious! If we all worked with you, Skank, could we do it? Could we troll an entire country? If we all work together? Maybe.”
 
@@ -6057,7 +6057,7 @@ Watch for:
   - [Explicit] “Ching Chong ching loo is Die Ching Chong ching loo is Die We have it! We think we have it! The emoji analysis worked.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Don't you remember being a kid and just calling someone a fag for no reason? I remember being called a fag for no reason.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Ha-ha, suck it, skank.”
   - [Moderate] “Nobody cares about your fat sister with Lyme disease, skank.”
 
@@ -6088,7 +6088,7 @@ Watch for:
   - [Mild] “What the hell is going on? Don't you get it? The government made some kind of deal with the Danish.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “me, Andy, the drunk sheriff? Hic! [Irish accent.]”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You and I need each other, Skank.”
 
 ## S20 E8 — 8. Members Only
@@ -6147,7 +6147,7 @@ Watch for:
   - [Mild] “damn it! Hold up! Hold up on the [bleep.]”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “That's not funny?! Don't be a fag, dude.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Will somebody shut him up? Skank.”
   - [Moderate] “Skank, get ahold of yourself.”
 
@@ -6173,7 +6173,7 @@ Watch for:
   - [Mild] “(KEYBOARD CLACKING) (BEEPING) What the hell am I gonna do, Butters? I can't live without Heidi.”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Winger? I showed him my dick, called him a fag.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “…gonna give Give you up Never gonna give, never gonna give Give you up We've known each other (STATIC) Skank?”
   - [Moderate] “Skank, whoever's doing it is doing it from your account.”
 
@@ -6248,7 +6248,7 @@ Watch for:
   - [Explicit] “We have to come to school on Monday! They what?! They can't do this! We made plans! Some asshole went and convinced the school board that Columbus Day is racist and should be eliminated.”
   - [Explicit] “Is that correct? Yeah? You racist piece of shit.”
   - [Explicit] “'Sup, nigga.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Your wife's a whore.”
 
 ## S21 E4 — 4. Franchise Prequel
@@ -6348,7 +6348,7 @@ Watch for:
   - [Explicit] “Uhh, yeah, like what? Racism? Or the sociopath part? [LAUGHTER.]”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “Yeah, I understand that, faggot.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Okay? Please! You called me a whore and pushed me in front of a car.”
   - [Moderate] “That dirty whore! Who does that bitch think she is?! Packing my lunch for me? [BLEEP.]”
 
@@ -6480,7 +6480,7 @@ Watch for:
 - Homophobic jokes — 2 moment(s)
   - [Explicit] “Did you tweet, "The kids of South Park" are retarded homos who can't play music"? Eeeeeyeeaaahhhhh.”
   - [Explicit] “I took Ambien two nights ago, and I called the schoolkids homos.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “What did you mean last night when you tweeted, "The Mayor of South Park is a titless whore"? Oh, come on! It was a joke! That's it! That's it.”
   - [Moderate] “You decided to call the mayor a titless whore.”
 
@@ -6571,7 +6571,7 @@ Watch for:
   - [Mild] “Wait, what? Oh, God damn it! You see my point? Things aren't always as they appear.”
   - [Mild] “God damn it!”
   - [Mild] “What the hell are we supposed to do against it? - We have to try.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You (BLEEP)ing slut! That's right, Harrison Yates.”
 
 ## S22 E8 — 8. Buddah Box
@@ -6818,7 +6818,7 @@ Watch for:
   - [Moderate] “What's goin' on? You are not stealing my mom's shit! Kyle, this is the world we are living in, okay? People are finding new and exciting ways to get healthy, and who are we to stand in their way? [TOILET FLUSHES.]”
   - [Moderate] “Come on Just admit it! I can't stop puking and shitting because of what you did to me! [MOANS.]”
   - [Mild] “Oh! God damn it! - You had a what? A fecal transplant.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “There you are, you Goddamn bitch! I will take you to court, fat whore!”
 
 ## S23 E9 — 9. Basic Cable
@@ -6931,7 +6931,7 @@ Watch for:
   - [Mild] Wow, people are really pissed at us for doing the period joke, you guys.
   - [Mild] “and listen to this crap?!”
   - [Mild] Let's just see how your god damn school functions without a god damn counselor! Oh, god dammit.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Oh, you fucking slut! This is why we keep old people in the back of the line! Cartman, just stick to the fucking plan! Oh, great, Kyle.
 
 ## S24 E99 — 99. Post COVID
@@ -6987,7 +6987,7 @@ Watch for:
   - [Moderate] Yeah but she was caught shitting on the car of a guy who wasn't wearing pajamas.
   - [Moderate] You can all wear whatever you want as long as it covers your dick and tits.
   - [Moderate] You can't make me cover my dick and tits!
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Hey, don't put that pajama wearing slut in here with us! Chief, they're asking for your assistance - down on Brighton Street.
 
 ## S25 E2 — 2. The Big Fix
@@ -7143,7 +7143,7 @@ Watch for:
   - [Mild] To hell with Canada.
   - [Mild] What the hell?
   - [Mild] Oh, God damn it.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] this, you dumb slut?
 
 ## S26 E3 — 3. Japanese Toilet
@@ -7281,7 +7281,7 @@ Watch for:
   - [Mild] What the hell do you
 - Fat-shaming — 1 moment(s)
   - [Moderate] Yeah, screw you, fat ass.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] all women are whores,
 
 ## S27 E3 — 3. Sickofancy
@@ -7330,7 +7330,7 @@ Watch for:
   - [Mild] I don't know, Jesus sucks, dude.
   - [Mild] What the hell was that?
   - [Mild] Hey, what the hell you talking about?
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] Suck it, skank!
   - [Moderate] Stupid slut!
   - [Moderate] Labubus every day, whore.

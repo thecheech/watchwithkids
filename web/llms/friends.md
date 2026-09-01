@@ -929,7 +929,7 @@ Watch for:
 - Swearing — 2 moment(s)
   - [Moderate] Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
   - [Mild] Ginger: “Oh damn, I hate that.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
 
 ## S3 E15 — The One Where Ross and Rachel Take A Break
@@ -1170,7 +1170,7 @@ Watch for:
   - [Mild] Rick: “Suddenly, I very aware that I’m naked.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “Whoa-whoa, don’t we need to do some kinda preparation first? Like ahh, get really drunk?”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Phoebe: “Hey! So I had a great day, Rick and I really hit it off, and we started making out, and then my boss walked in and fired me for being a whore.”
   - [Moderate] Phoebe: “Then these policemen, thought I was a whore too.”
 
@@ -1327,7 +1327,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Chandler comes back, obviously drunk, and trips over the steps.
   - [Mild] Chandler: “Well, I may be drunk, but I know what she said! Then I went over to Beefsteak Julie’s…”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Chandler: “Steps! (He opens the door to his apartment to Ross and Joey looking at the new Playboy) Slut!”
 
 ## S4 E14 — The One With Joey’s Dirty Day
@@ -1640,7 +1640,7 @@ Watch for:
   - [Moderate] French Phoebe: “…and when the smoke clears, Phoebe still has her arm.) Whew! (Her arm falls off and starts pumping out blood.) This is getting ridiculous uh!”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Thanksgiving flashbacks include Monica's fat suit and Chandler's insult that shapes her life — body image, not sex.
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Big Nosed Rachel: “Ugh! I cannot believe Chip dumped me for that slut Nancy Branson. I am never going out with him again. I don't care how much he begs!”
   - [Moderate] Big Nosed Rachel: “Guess what?! All that stuff about Nancy Branson being a slut was all a rumor so Chip dumped her and he wants to come over to my house tonight!”
 
@@ -1765,7 +1765,7 @@ Watch for:
   - [Moderate] Chandler: “(To Rachel) He has a gun!”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Phoebe: “You could get arrested, right now! (Flashes the badge and they glare at her.) All right, yeah, I gotta take it back. I'm totally drunk with power. (She heads for the door just as Joey enters.)”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Phoebe: “I'm in vice. Yeah, in fact I'm undercover right now. I'm a whore.”
   - [Moderate] Cop: “Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen.”
 
@@ -1787,7 +1787,7 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - [Moderate] Chandler: “(To Gary) So what do you say, maybe sometime I hold your gun?”
   - [Mild] Monica: “Okay. (They walk away to get some privacy.) We have got to beat them! {Here we go yet again.}”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Rachel: “(stopping him) Wh-whoa! All right, okay-okay, I see, I see what's going on here! Now listen, look-look, I'm sorry if I gave you the wrong impression, but I am not some hussy who will just sleep around to get ahead!”
 
 ## S5 E18 — The One Where Rachel Smokes
@@ -2051,7 +2051,7 @@ Watch for:
   - [Mild] Monica: “(in a sexy voice) Come on. (Coughs loudly.)”
 - Nudity & bodies — 1 moment(s)
   - [Mild] To start this task, she lowers the top of her robe to reveal that she is naked from the waist up, well at least her back is, and starts to rub on the gunk.
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Rachel: “Yeah well, I’m-I’m a slut.”
   - [Moderate] Rachel: “Ugh, she is a slut!”
 
@@ -2110,7 +2110,7 @@ Watch for:
   - [Moderate] Ross: “She is not… (Realizes) She’s gay. Oh my God. She is so gay! I can’t believe this.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Rachel: “Ohh, so do you! Did you lose weight? (She’s not quite sure of that one.)”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Monica: “Hey, check me out, I’m a slut!”
 
 ## S6 E17 — The One With The Unagi
@@ -2307,7 +2307,7 @@ Watch for:
   - [Moderate] Rachel: “Yeah Melissa, I don’t want to be known as the uh, office bitch, but I will call your supervisor.”
   - [Mild] Rachel: “It’s-it’s not like I love him, it’s just physical! But—I mean I get crushes like this all the time! I mean hell, I had a crush on you when I first met ya!”
   - [Mild] Rachel: “Yes! Hell yes!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Rachel: “Why? Is he? He is! Isn’t he? He’s dating that slut in marketing!”
 
 ## S7 E6 — The One With The Nap Partners
@@ -2583,7 +2583,7 @@ Watch for:
   - [Explicit] Joey: “You’ve seen my huge stack of porn right? (Phoebe nods.)”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Chandler: “Yeah, I just ordered a beer! (Pounds the table.)”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S7 E23 — The One With Chandler and Monica’s Wedding
@@ -2759,7 +2759,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Dr. Green: “’74?! I ordered the ’75! That’s a magnificent wine! The ’74 is sewage! Why would you bring me sewage?! (The waiter’s dumbfounded) Is that a hard question? Are you an idiot? Is that why you’re a waiter?”
   - [Mild] Dr. Green: “(on phone, not hearing her) …there’s gonna be a wedding! (Joey enters from his room and goes to get a beer from the fridge.) That’s unacceptable Rachel!”
-- Slut-shaming — 3 moment(s)
+- Sexual insults — 3 moment(s)
   - [Moderate] Dr. Green: “Well why not? So you can spend your time with this tramp?!”
   - [Moderate] Mona: Tramp?!
   - [Moderate] Chandler: “All right Rock, Paper, Scissors who has to tell the whore to leave! (Joey smirks.) What?”
@@ -2935,7 +2935,7 @@ Watch for:
   - [Explicit] Chandler: “Y’know what, we have to turn off the porn.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Joey: “(drinking a beer) Look at this clown! Just because he’s got a bigger boat he thinks he can take up the whole river. (Yelling) Get out of the way jackass! (To Rachel) Who names their boat Coast Guard anyway?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S8 E20 — The One With The Baby Shower
@@ -2974,7 +2974,7 @@ Watch for:
   - [Mild] Ross: “And then there was one drunken night.”
 - Fat-shaming — 1 moment(s)
   - [Moderate] Chandler: “(entering) Hey Phoebe! (To Rachel) Fatty!”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Rachel: “Oh, it was great! We got everything that we needed! Oh and Ross, almost got something that wasn’t on the list. A whore.”
   - [Moderate] Rachel: “No! I’m not! I-I-I just think it’s wrong! It’s-it’s that I’m—Here I am about to pop and he’s out picking up some shop girl at Sluts ‘R’ Us!”
 
@@ -3018,7 +3018,7 @@ Watch for:
   - [Mild] Sick Bastard: No!
   - [Mild] Evil Bitch: “Don’t you look at her you sick bastard!”
   - [Mild] Rachel: “Oh. Look at you making up crap for me. Oh God! (Starts another contraction as Dr. Long enters.)”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Rachel: “Oh great! Suddenly she sounds like a biblical whore.”
 
 ## S9 E1 — The One Where No One Proposes
@@ -3622,7 +3622,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Rachel: “I am sooo drunk.”
   - [Mild] Monica: “That's weird. I've had the same number of beers as you and I don't feel anything at all. (Chandler approaches)”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Monica: “Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.”
 
 ## S10 E12 — The One With Phoebe's Wedding

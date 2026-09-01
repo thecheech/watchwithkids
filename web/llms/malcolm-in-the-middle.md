@@ -87,7 +87,7 @@ Watch for:
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0107.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “She's a tramp.”
   - [Moderate] “No one's saying she's not a tramp.”
 
@@ -134,7 +134,7 @@ Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Moderate] “And if they love each other and take the proper precautions, they'll have sex.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Spangler: “My mother was neither a madonna or a whore! She was a damn fine woman.”
 
 ## S1 E13 — 13. Rollerskates
@@ -274,7 +274,7 @@ Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “…or navel Julie will know, camp with fua while her boyfriend was away Josh lead all camp and tries to swim naked with But I do not think Josh naked is stimulating You know, throw a party Deveria -swimming pool at my…”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “know that our grief spirit and it never will Not worth it! seems I'm again the only man around here - I can not believe that Nicole is thus seen if you want to look like whore is well .”
 
 ## S2 E10 — 10. The Bully
@@ -475,7 +475,7 @@ Watch for:
   - [Mild] “…who you wanna be? You wanna be a lap dog who ruins his life for some girl? For God's sake, Malcolm, you beat up a foreign exchange student!”
   - [Mild] “All because of some stupid girl! I'm on probation! I beat up a kid who doesn't even speak English!”
   - [Mild] “I'll go get us some punch, how's that sound? You know, son, this is all part of growing up.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Don't you wanna go to college? Don't you care about your future? You are not old enough to prioritise between homework and some tramp! Your mother's right.”
 
 ## S3 E5 — 5. Charity
@@ -662,7 +662,7 @@ Watch for:
   - [Moderate] “No, I gave you back the key to the rifle closet.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You've wasted your entire summer - lying in bed feeling - sorry for yourself.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And third, you were the one dating that slut manicurist! Here is where we put the houses for the horses.”
 
 ## S4 E2 — 2. Humilithon
@@ -678,7 +678,7 @@ Watch for:
   - [Explicit] “No! Tomorrow I may be leading aerobics again or faking my way through a wine-tasting seminar or-or playing the prostitute in the Old West stunt show.”
 - Homophobic jokes — 1 moment(s)
   - [Moderate] “(mambo music playing) Papa loves mambo Mama loves mambo Look good and sway with it Gettin' so gay with it Shoutin' olÃ© with it.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] “Again? - They had sex? - He had sex with her? GIRL: That kid had sex? - GIRL: - She's a slut.”
   - [Moderate] “BOY: - She's a big slut.”
 
@@ -1287,7 +1287,7 @@ Watch for:
   - [Mild] “If you think I'm above punching you, you are totally wrong.”
   - [Mild] “…- You stupid Nancy boy! - You dried up old hag! If I had been driving that truck myself - You ought to strangle yourself Well, I wonder which nightmare I'm going to have tonight.”
   - [Mild] “I fell asleep beating up a kid.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “Oh, my God, this sucks! That was, like, the one thing I was living for and it's just not working at all! - Can you take the soap opera outside? I want to watch the whore that gives the weather.”
 
 ## S6 E15 — 15. Chad's Sleepover
@@ -1338,7 +1338,7 @@ Watch for:
   - [Mild] “You're not around fancy big-shots with all their teeth, sipping wine.”
 - Homophobic jokes — 1 moment(s)
   - [Moderate] “Really? I wasn't going to say anything 'cause it's so gay to talk about feelings, but I used to feel bad that we don't spend any time together.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “And not on her back like your slut daughter.”
 
 ## S6 E19 — 19. Motivational Seminar
@@ -1510,7 +1510,7 @@ Watch for:
   - [Mild] “It sounds to me like he was asking to be beaten up.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Man, it's true what they say old age is wasted on the old.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I mean, who does it hurt to let two old people be happy? You whore! You stole my husband! No, I just used him without your permission and gave him back to you Just like someone did with my sewing machine.”
 
 ## S7 E11 — 11. Bride of Ida (1)
@@ -1535,7 +1535,7 @@ Watch for:
   - [Mild] “Ha! I beat him! It's over! proski, verontut The marriage is off.”
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “These are the ripe, inviting pleasure domes of the virgins of the village, presented dripping with wine.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I shave! Hide your shame, whore! You can't talk to my wife that way.”
 
 ## S7 E12 — 12. College Recruiters (2)
@@ -1551,7 +1551,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Here, why don't you take one of my key chains? It lights up! What else you got in there? I like that beer cozy.”
   - [Mild] “Really? Yeah, man! You were always there for us, borrowing our money so we couldn't get wasted on beer, taking our car so we'd be stuck here and have to practice all the time, and it totally paid off.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “If I was a woman, I'd be a slut.”
 
 ## S7 E13 — 13. Mono

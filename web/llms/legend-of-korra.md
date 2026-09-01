@@ -354,7 +354,7 @@ Watch for:
   - [Moderate] Gun, noticing the battle, runs away in fear.
   - [Moderate] [Close-up of Hou-Ting with bloodshot eyes.] To your people ...
   - [Mild] Ghazan readies himself and punches the floor, melting it to lava.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]
 
 ## S3 E11 — The Ultimatum

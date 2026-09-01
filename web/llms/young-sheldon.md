@@ -772,7 +772,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Is that three beers I see? It's girls' night out and I said I was going to show you a good time.
   - [Mild] Oh, um Well, uh, bless these beers and the bartender who poured 'em.
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] What happened? If there's another woman, she's a tramp and you're way prettier.
 
 ## S4 E16 — 16. A Second Prodigy and the Hottest Tips for Pouty Lips

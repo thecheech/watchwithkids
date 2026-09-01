@@ -2038,7 +2038,7 @@
       "overall": 2,
       "age": 8,
       "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, in dialogue).",
+      "why": "Scores low: the strongest thing we found is sexual insults (moderate, in dialogue).",
       "themes": {
         "fine": [
           "Light comedy tone",
@@ -2046,7 +2046,7 @@
         ],
         "watch": [
           "Nudity & bodies",
-          "Slut-shaming"
+          "Sexual insults"
         ],
         "watch_detail": [
           {
@@ -2076,7 +2076,7 @@
             ]
           },
           {
-            "theme": "Slut-shaming",
+            "theme": "Sexual insults",
             "group": "bias",
             "how": "“Well, Lady and The Tramp was the most romantic cartoon ever made.”",
             "count": 1,
@@ -2100,7 +2100,7 @@
       },
       "examples": [
         "Nudity & bodies — “Fifty-six thousand people waiting to see the crowning of the homecoming queen and there's this maniac streaking the full length of the football field buck-naked.”",
-        "Slut-shaming — “Well, Lady and The Tramp was the most romantic cartoon ever made.”"
+        "Sexual insults — “Well, Lady and The Tramp was the most romantic cartoon ever made.”"
       ],
       "notes": null,
       "flags": [],

@@ -7,7 +7,7 @@
 - Scores: violence, sex and language, each 1 (none) to 5 (heavy).
 - Overall = the highest of the three scores.
 - Buckets: 1–2 = all clear, 3 = gray area, 4–5 = hard pass for little kids.
-- Watch-for themes: Sex & hookups, Nudity & bodies, Porn / strippers, Swearing, Violence & death, Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Slut-shaming, Racism.
+- Watch-for themes: Sex & hookups, Nudity & bodies, Porn / strippers, Swearing, Violence & death, Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Sexual insults, Racism.
 - Each theme on an episode page shows every occurrence: quotes appear in quote marks, everything else is a short description of what happens.
 
 ## Shows rated

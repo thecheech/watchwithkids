@@ -249,7 +249,7 @@ Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from abo
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Creed: “[after Michael punches him in the arm] What did you hit me for? Michael: Charley horse! Creed: What? Michael: Charley horse! Creed: You shouldn't have hit me, Michael. Michael: Oh, okay. Gah.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Kelly: “[to Jim] Oh, long-term, definitely. Fall in love, have babies, spend every second together... but don't tell him that, okay? Just tell him I'm, like, up for anything. I mean, I'm not a slut, but who knows?”
 
 ## S2 E15 — Boys and Girls
@@ -265,7 +265,7 @@ Watch for:
   - [Mild] Darryl: “My job sucks compared to this.”
   - [Mild] Kevin: “That sucks so much.”
   - [Mild] Dwight: “What the hell was that movie called?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Angela: “And, apparently, judging from her outfit, Jan aspires to be a whore.”
 
 ## S2 E16 — Valentine's Day
@@ -385,7 +385,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Michael: “It is a booze-fueled sex romp, where anything goes.”
   - [Mild] Michael: “Hey, first guest! You are going to have some tequila, my friend.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Angela: “In the Martin family, we like to say, "Looks like someone took the slow train from Philly." That's code for "check out the slut." What is... why are there flies in here?”
 
 ## S3 E3 — The Coup
@@ -611,7 +611,7 @@ Watch for:
   - [Mild] Lonny: “What the hell is wrong with this man?”
   - [Mild] Michael: “BINGO! WHOA WHOA WHOA! Oh... crap. Deactivate the car alarm. Clean up the mess.”
   - [Mild] Creed: “Michael: Damn it.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Michael: “Dwight, you ignorant slut. Depression is a very serious illness. Over 32 thousand people commit suicide every year! According to a 2004 study!”
   - [Moderate] Dwight: “Dwight: Depressed? Isn't that just a fancy word for feeling bummed out? Michael: Dwight, you ignorant slut.”
 
@@ -929,7 +929,7 @@ Watch for:
   - [Moderate] Michael: “Mmhmm, tell her she can't have sex for six months.”
 - Nudity & bodies — 1 moment(s)
   - [Mild] Michael: “No, it's more of a underwear garment that has little spikes like made of, sometimes they are made of metal.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Michael: “Meredith, why don't you tell Holly... it's not what she thinks. Nothing unethical happened... and that you just like to sleep around.”
 
 ## S5 E3 — Baby Shower
@@ -1264,7 +1264,7 @@ Watch for:
 - Fat-shaming — 2 moment(s)
   - [Moderate] Michael: “All right, fatty. I will do it. You know what, we should actually rehearse.”
   - [Moderate] Michael: “You bet your fat ass we are.”
-- Slut-shaming — 2 moment(s)
+- Sexual insults — 2 moment(s)
   - [Moderate] Rolph: “I don't hear cheaters, tramps, or women who break my friend's heart. Let's go!”
   - [Moderate] Rolph: “Here's an accounting question for you: what does one fiance plus one lover equal? Answer: one whore.”
 
@@ -1338,7 +1338,7 @@ Watch for:
   - [Mild] Andy: “Except $40 for beer and any hot chicks you know.”
   - [Mild] Andy: “Everyone else is too drunk. Just don't let me die here.”
   - [Mild] Jim: “Look, I would so take him in any other circumstance, but I'm pretty certain I'm completely wasted.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Michael: “And I know in your day she would be considered a whore but, now, women go out and they have sex and they get wild and they take their tops off and they have pictures taken of them and we need to encouage them.”
 
 ## S6 E5 — Mafia
@@ -1945,7 +1945,7 @@ Watch for:
   - [Mild] “Darryl: Damn!”
   - [Mild] Dwight: “Pass. If I wanted to see a pissing contest, I'd lock Mose in the chicken coop.”
   - [Mild] Deangelo: “Damn it, Dwight! Enough! Get your ass downstairs or find a new place to sell paper! [Dwight immediately gets up and walks out]”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Jordan: “Dwight? Deangelo wanted me to ask you if there's anything I can help you with. Dwight: Really? Anything. Jordan: Do you need anything? Dwight: Deangelo, tell your whore to leave me alone.”
 
 ## S7 E23 — Dwight K. Schrute, (Acting) Manager
@@ -2291,7 +2291,7 @@ Watch for:
   - [Mild] Darryl: “Looking good, RC! Robert California: Ugh, I hate ties! I feel like I'm being strangled like I'm at some erotic asphyxiation sex club over on I-84.”
 - Swearing — 1 moment(s)
   - [Moderate] Andy: “Hello everyone, I am Andy Bernard and I am going to take that bitch home!”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Dwight: “you people should be ashamed of yourselves! How many courses did we have tonight, two? Three maybe, if you choose the pudding? I mean what waste! these tables tarted up like Victorian whores!”
 
 ## S8 E23 — Turf War
@@ -2618,7 +2618,7 @@ Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] Andy: “I'm not comfortable doing my own stunts. I'll get nude if you want me to, I'll go full Lena Dunham but I”
   - [Mild] Director: “Dude, we don't need you to go nude, OK? So just do the eyewash, Ok? That's all we're asking.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Angela: “I had a chance with Dwight, but I didn't take it. And if I went back now, when I'm broke and he just inherited a farm, I'd be one of those gold-digging tramps you read about that try to bag a farmer.”
 
 ## S9 E21 — Livin' The Dream

@@ -28,7 +28,7 @@ Watch for:
   - [Mild] “Her new boyfriend. -You are such a douchebag, Mike!”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “[softy] Called him a fag.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You mean, you're not a slut.”
 
 ## S1 E2 — The Weirdo on Maple Street
@@ -142,7 +142,7 @@ Watch for:
   - [Mild] “[Carol] Oh! [Tommy] Damn!”
   - [Mild] “[scoffs] Go to hell, Nancy.”
   - [Mild] “You mean piss your pants?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “You don't want to be known as the lying slut now, do you?”
 
 ## S1 E7 — The Bathtub
@@ -164,7 +164,7 @@ Watch for:
   - [Mild] “What the hell is going on here? -[Powell] Chief...”
   - [Mild] “And piss yourself.”
   - [Mild] “What the hell, Steve? -[Steve] You know,”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “The slut with a heart of gold.”
 
 ## S1 E8 — The Upside Down
@@ -347,7 +347,7 @@ Watch for:
   - [Mild] “What the hell's he doing?”
 - Homophobic jokes — 1 moment(s)
   - [Explicit] “like some faggot instead of watching your sister?”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “He's gonna call whatever whore he's seeing tonight”
 
 ## S2 E9 — The Gate
@@ -506,7 +506,7 @@ Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Can I help you with something? -Whiskey.”
   - [Mild] “You have whiskey? -No, but I do have vodka.”
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] “I said, get away! -You-- You whore!”
 
 ## S3 E7 — The Bite

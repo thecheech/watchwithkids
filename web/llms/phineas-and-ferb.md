@@ -1266,7 +1266,7 @@ URL: https://watchwiththekids.com/ep/phineas-and-ferb/0406.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: The boys create Rutabaga-themed vehicles when Candace is chosen to be Rutabaga princess and gets to start the "Running of the Chinchillas." Across town, Doofenshmirtz plans to turn himself into a real live Kinderlumper to scare Roger into relinquishing control of the Tri-State Area over to him.
 Watch for:
-- Slut-shaming — 1 moment(s)
+- Sexual insults — 1 moment(s)
   - [Moderate] Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes
 
 ## S4 E7 — Sidetracked
