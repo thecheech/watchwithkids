@@ -28,9 +28,5 @@
       "destination": "https://watchwiththekids.com/:path*",
       "permanent": true
     }
-  ],
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "status": 404, "dest": "/404" }
   ]
 }
