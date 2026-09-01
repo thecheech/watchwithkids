@@ -1,4 +1,4 @@
-# brooklyn-nine-nine — parent guide (135 episodes)
+# Brooklyn Nine-Nine — parent guide (135 episodes)
 
 Source: https://watchwiththekids.com/brooklyn-nine-nine.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.

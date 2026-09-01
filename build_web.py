@@ -13,6 +13,7 @@ from pathlib import Path
 from urllib.parse import quote_plus
 
 from catalog import dedupe_codes
+from shows_meta import CANON_ONLY, MOVIE_SHOWS, meta_for
 
 ROOT = Path(__file__).resolve().parent
 WEB = ROOT / "web"
@@ -188,6 +189,36 @@ WATCH_LINKS = json.loads((ROOT / "watch_links.json").read_text()) if (ROOT / "wa
 
 def esc(value) -> str:
     return html.escape(str(value if value is not None else ""), quote=True)
+
+
+def show_display_name(show_id: str, fallback: str) -> str:
+    """Human title for schema, meta and stream search — not the URL slug."""
+    if show_id in SHOW_PAGE:
+        return SHOW_PAGE[show_id]["name"]
+    meta = meta_for(show_id)
+    name = meta.get("name") or fallback
+    return name if name != show_id else fallback
+
+
+def filter_catalog_episodes(show_id: str, episodes: list[dict]) -> list[dict]:
+    """Wiki-sourced kid shows drop season-0 filler; movies keep season 0."""
+    if show_id in MOVIE_SHOWS:
+        return episodes
+    if show_id not in CANON_ONLY:
+        return episodes
+    return [ep for ep in episodes if str(ep.get("season")) not in ("0", "None", "")]
+
+
+def schema_season_number(show_id: str, season) -> str | None:
+    """Season for JSON-LD — omit bogus season 0 on canon-only kid catalogs."""
+    if season is None:
+        return None
+    raw = str(season)
+    if raw in ("", "None"):
+        return None
+    if raw == "0" and show_id in CANON_ONLY and show_id not in MOVIE_SHOWS:
+        return None
+    return raw
 
 
 def ep_count(n: int) -> str:
@@ -680,7 +711,7 @@ def slim(ratings: dict, show_id: str, *, with_instances: bool = False) -> dict:
             )
         )
     return {
-        "show": ratings["show"],
+        "show": show_display_name(show_id, ratings["show"]),
         "show_id": ratings.get("show_id") or show_id,
         "scale": ratings["scale"],
         "disclaimer": ratings["disclaimer"],
@@ -812,8 +843,7 @@ def episode_prose(show_name: str, ep: dict) -> str:
 
 def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
     title = display_title(ep["title"])
-    graph = [
-        {
+    episode_node: dict = {
             "@type": "TVEpisode",
             "@id": f"{url}#episode",
             "url": url,
@@ -824,10 +854,6 @@ def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
                 "name": show_name,
                 "url": f"{SITE}/{show_id}.html",
             },
-            "partOfSeason": {
-                "@type": "TVSeason",
-                "seasonNumber": str(ep.get("season")),
-            },
             "description": meta_description(show_name, ep),
             "contentRating": ep.get("verdict") or "",
             "keywords": ", ".join(d["theme"] for d in details_of(ep)),
@@ -836,7 +862,15 @@ def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
                 if watch_action(show_id, show_name)
                 else {}
             ),
-        },
+        }
+    season_num = schema_season_number(show_id, ep.get("season"))
+    if season_num is not None:
+        episode_node["partOfSeason"] = {
+            "@type": "TVSeason",
+            "seasonNumber": season_num,
+        }
+    graph = [
+        episode_node,
         {
             "@type": "BreadcrumbList",
             "itemListElement": [
@@ -2276,6 +2310,23 @@ def write_robots() -> None:
     )
 
 
+SITEMAP_EP_CHUNK = 2000
+
+
+def _write_urlset(path: Path, entries: list[tuple[str, str]], today: str) -> None:
+    body = "\n".join(
+        f"  <url><loc>{esc(loc)}</loc><lastmod>{today}</lastmod>"
+        f"<changefreq>monthly</changefreq><priority>{prio}</priority></url>"
+        for loc, prio in entries
+    )
+    path.write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{body}\n"
+        "</urlset>\n"
+    )
+
+
 def write_sitemap(urls: list[tuple[str, str]]) -> None:
     today = date.today().isoformat()
     seen: set[str] = set()
@@ -2285,16 +2336,41 @@ def write_sitemap(urls: list[tuple[str, str]]) -> None:
             continue
         seen.add(loc)
         unique.append((loc, prio))
-    body = "\n".join(
-        f"  <url><loc>{esc(loc)}</loc><lastmod>{today}</lastmod>"
-        f"<changefreq>monthly</changefreq><priority>{prio}</priority></url>"
-        for loc, prio in unique
+
+    pages: list[tuple[str, str]] = []
+    guides: list[tuple[str, str]] = []
+    episodes: list[tuple[str, str]] = []
+    for loc, prio in unique:
+        if "/ep/" in loc:
+            episodes.append((loc, prio))
+        elif "/guides/" in loc:
+            guides.append((loc, prio))
+        else:
+            pages.append((loc, prio))
+
+    child_maps: list[str] = []
+    if pages:
+        _write_urlset(WEB / "sitemap-pages.xml", pages, today)
+        child_maps.append(f"{SITE}/sitemap-pages.xml")
+    if guides:
+        _write_urlset(WEB / "sitemap-guides.xml", guides, today)
+        child_maps.append(f"{SITE}/sitemap-guides.xml")
+    for i in range(0, len(episodes), SITEMAP_EP_CHUNK):
+        chunk = episodes[i : i + SITEMAP_EP_CHUNK]
+        n = i // SITEMAP_EP_CHUNK + 1
+        name = f"sitemap-episodes-{n}.xml"
+        _write_urlset(WEB / name, chunk, today)
+        child_maps.append(f"{SITE}/{name}")
+
+    index_body = "\n".join(
+        f"  <sitemap><loc>{esc(loc)}</loc><lastmod>{today}</lastmod></sitemap>"
+        for loc in child_maps
     )
     (WEB / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        f"{body}\n"
-        "</urlset>\n"
+        '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{index_body}\n"
+        "</sitemapindex>\n"
     )
 
 
@@ -2319,8 +2395,10 @@ def build_show(show_id: str, src: Path, sitemap: list[tuple[str, str]]) -> tuple
     listing = slim(ratings, show_id, with_instances=False)
     full = slim(ratings, show_id, with_instances=True)
     # Guarantee unique episode page codes even if a ratings JSON still has collisions.
-    listing["episodes"] = dedupe_codes(listing["episodes"])
-    full["episodes"] = dedupe_codes(full["episodes"])
+    listing["episodes"] = filter_catalog_episodes(
+        show_id, dedupe_codes(listing["episodes"])
+    )
+    full["episodes"] = filter_catalog_episodes(show_id, dedupe_codes(full["episodes"]))
     listing["count"] = len(listing["episodes"])
     full["count"] = len(full["episodes"])
     mix = episode_mix(listing["episodes"])

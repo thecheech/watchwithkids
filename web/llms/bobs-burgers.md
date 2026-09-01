@@ -1,4 +1,4 @@
-# bobs-burgers — parent guide (309 episodes)
+# Bob's Burgers — parent guide (309 episodes)
 
 Source: https://watchwiththekids.com/bobs-burgers.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.

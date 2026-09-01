@@ -1,4 +1,4 @@
-# simpsons — parent guide (564 episodes)
+# The Simpsons — parent guide (564 episodes)
 
 Source: https://watchwiththekids.com/simpsons.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
