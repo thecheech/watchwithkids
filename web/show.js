@@ -876,7 +876,8 @@
     const urlState = readStateFromUrl();
     suppressUrlUpdate = true;
     
-    if (seasons.includes(urlState.season)) {
+    const validSeasons = seasons.map(s => String(s));
+    if (validSeasons.includes(urlState.season) || urlState.season === "all") {
       els.season.value = urlState.season;
     } else {
       els.season.value = "all";
@@ -915,7 +916,8 @@
   const urlState = readStateFromUrl();
   suppressUrlUpdate = true;
   
-  if (seasons.includes(urlState.season)) {
+  const validSeasons = seasons.map(s => String(s));
+  if (validSeasons.includes(urlState.season) || urlState.season === "all") {
     els.season.value = urlState.season;
   }
   
