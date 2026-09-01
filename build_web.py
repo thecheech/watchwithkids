@@ -14,6 +14,7 @@ from urllib.parse import quote_plus
 
 from catalog import dedupe_codes
 from shows_meta import CANON_ONLY, MOVIE_SHOWS, meta_for
+from themes import SEVERITY_HINT, SEVERITY_LABEL, severity_score
 
 ROOT = Path(__file__).resolve().parent
 WEB = ROOT / "web"
@@ -286,33 +287,66 @@ def render_instance(inst: dict) -> str:
     return f"{prefix}{body}" if prefix else body
 
 
-INTENSITY_SHORT = {1: "Mild", 2: "Moderate", 3: "Explicit"}
-INTENSITY_HINT = {
-    1: "Joke or passing mention",
-    2: "Moderate — worth a preview",
-    3: "Explicit — likely to bother parents",
-}
+INTENSITY_SHORT = SEVERITY_LABEL
+INTENSITY_HINT = SEVERITY_HINT
+
+
+def instance_severity(inst: dict) -> int:
+    stored = int(inst.get("severity") or 0)
+    if 1 <= stored <= 5:
+        return stored
+    return severity_score(
+        intensity=int(inst.get("intensity") or 1),
+        pattern_sev=int(inst.get("sev") or 0),
+    )
 
 
 def instance_meta_plain(inst: dict) -> str:
-    intensity = inst.get("intensity")
-    if intensity is None:
-        return ""
-    label = INTENSITY_SHORT.get(int(intensity), f"Level {int(intensity)}")
+    level = instance_severity(inst)
+    label = SEVERITY_LABEL.get(level, f"Level {level}")
     return f"[{label}] "
 
 
 def instance_meta_html(inst: dict) -> str:
-    intensity = inst.get("intensity")
-    if intensity is None:
-        return ""
-    level = int(intensity)
-    label = INTENSITY_SHORT.get(level, f"Level {level}")
-    hint = INTENSITY_HINT.get(level, label)
+    level = instance_severity(inst)
+    label = SEVERITY_LABEL.get(level, f"Level {level}")
+    hint = SEVERITY_HINT.get(level, label)
     chip = (
         f'<span class="instance-severity severity-{level}" title="{esc(hint)}">{esc(label)}</span>'
     )
     return f'<div class="instance-meta">{chip}</div>'
+
+
+def write_severity_js() -> None:
+    js = f"""(() => {{
+  const LABEL = {json.dumps(SEVERITY_LABEL, ensure_ascii=False)};
+  const HINT = {json.dumps(SEVERITY_HINT, ensure_ascii=False)};
+  const FROM_INTENSITY = {{1: 2, 2: 3, 3: 4}};
+
+  function score(d) {{
+    const stored = Number(d?.severity);
+    if (stored >= 1 && stored <= 5) return stored;
+    const sev = Number(d?.sev);
+    if (sev >= 5) return 5;
+    if (sev >= 4) return 4;
+    if (sev === 3) return 3;
+    if (sev === 1 || sev === 2) return 2;
+    return FROM_INTENSITY[Number(d?.intensity) || 1] || 2;
+  }}
+
+  function rankClass(n) {{
+    if (n >= 5) return "severity-adult";
+    if (n >= 4) return "severity-spicy";
+    if (n === 3) return "severity-gray";
+    if (n <= 1) return "severity-clear";
+    return "severity-mild";
+  }}
+
+  window.WWTK_SEVERITY = {{ label: LABEL, hint: HINT, score, rankClass }};
+}})();
+"""
+    (WEB / "severity.js").write_text(js)
+    print("Wrote severity.js")
 
 
 def instance_html(inst: dict) -> str:
@@ -661,7 +695,10 @@ def slim_detail(detail: dict, *, with_instances: bool) -> dict:
         "how": detail.get("how") or (render_instance(head) if head else ""),
         "count": int(detail.get("count") or len(instances) or 1),
         "intensity": int(detail.get("intensity") or 1),
-        "severity": int(detail.get("severity") or 1),
+        "severity": int(
+            detail.get("severity")
+            or (instance_severity(head) if head else severity_score(intensity=int(detail.get("intensity") or 1)))
+        ),
     }
     if head:
         out["kind"] = head.get("kind")
@@ -674,6 +711,7 @@ def slim_detail(detail: dict, *, with_instances: bool) -> dict:
                 "kind": inst.get("kind"),
                 "speaker": inst.get("speaker"),
                 "text": inst.get("text"),
+                "severity": instance_severity(inst),
                 **(
                     {
                         "mode": inst.get("mode"),
@@ -1090,6 +1128,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
 {site_footer("../../")}
   </div>
   <script>window.EP_PAGE = {json.dumps(boot, ensure_ascii=False)};</script>
+  <script src="../../severity.js"></script>
   <script src="../../skip-link.js"></script>
   <script src="../../episode.js"></script>
 </body>
@@ -1367,6 +1406,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
 {site_footer()}
 
   <script src="data/{show_id}.js"></script>
+  <script src="severity.js"></script>
   <script src="skip-link.js"></script>
   <script src="show.js"></script>
 </body>
@@ -2498,6 +2538,7 @@ def build_show(show_id: str, src: Path, sitemap: list[tuple[str, str]]) -> tuple
 
 
 def main() -> None:
+    write_severity_js()
     mixes: dict[str, dict] = {}
     payloads: dict[str, dict] = {}
     sitemap: list[tuple[str, str]] = [(f"{SITE}/", "1.0")]

@@ -591,6 +591,36 @@ def intensity_of(sev: int) -> int:
 
 INTENSITY_LABEL = {1: "joke or passing mention", 2: "moderate", 3: "explicit"}
 
+# Parent-facing 1–5 labels (show cards, episode quotes — keep in sync with web/severity.js).
+SEVERITY_LABEL = {
+    1: "Clear",
+    2: "Mild",
+    3: "Gray area",
+    4: "Spicy",
+    5: "Adults only",
+}
+
+SEVERITY_HINT = {
+    1: "All clear — nothing to worry about",
+    2: "Mild — passing mention or joke",
+    3: "Gray area — preview or stay in the room",
+    4: "Spicy — skip for younger kids",
+    5: "Adults only — hard pass for kids",
+}
+
+
+def severity_score(*, intensity: int = 1, pattern_sev: int = 0) -> int:
+    """Map moment evidence (1–3 intensity and/or 1–5 pattern severity) to parent 1–5 scale."""
+    sev = int(pattern_sev or 0)
+    if sev >= 5:
+        return 5
+    if sev >= 4:
+        return 4
+    if sev == 3:
+        return 3
+    if sev in (1, 2):
+        return 2
+    return {1: 2, 2: 3, 3: 4}.get(int(intensity or 1), 2)
 
 def _position(index: int, total: int) -> str:
     if total <= 1:
@@ -824,19 +854,23 @@ def _detail_from_moments(theme: str, moments: list[dict]) -> dict:
     # Strongest moment leads so the headline is the thing a parent would object to;
     # ties stay in transcript order.
     ordered = sorted(moments, key=lambda m: (not m.get("curated"), -m["intensity"]))
-    instances = [
-        {
-            "kind": m["kind"],
-            "speaker": m.get("speaker"),
-            "text": m["text"],
-            "mode": m["mode"],
-            "intensity": m["intensity"],
-            "at": m["at"],
-        }
-        for m in ordered
-    ]
+    instances = []
+    for m in ordered:
+        instances.append(
+            {
+                "kind": m["kind"],
+                "speaker": m.get("speaker"),
+                "text": m["text"],
+                "mode": m["mode"],
+                "intensity": m["intensity"],
+                "severity": severity_score(
+                    intensity=m["intensity"], pattern_sev=int(m.get("sev") or 0)
+                ),
+                "at": m["at"],
+            }
+        )
     top = max(m["intensity"] for m in moments)
-    top_sev = max(int(m.get("sev") or 0) or {1: 1, 2: 3, 3: 4}[top] for m in moments)
+    top_severity = max(i["severity"] for i in instances)
     modes = {m["mode"] for m in moments}
     return {
         "theme": theme,
@@ -844,7 +878,7 @@ def _detail_from_moments(theme: str, moments: list[dict]) -> dict:
         "how": render_instance(instances[0]),
         "count": len(instances),
         "intensity": top,
-        "severity": top_sev,
+        "severity": top_severity,
         "mode": "on-screen" if "on-screen" in modes else ("dialogue" if "dialogue" in modes else "implied"),
         "instances": instances,
     }

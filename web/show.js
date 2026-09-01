@@ -37,22 +37,15 @@
     skip: { className: "bucket-pill skip", text: "Hard pass" },
   };
 
-  /** Parent-facing 1–5 labels (matches episode overall scale). */
-  const SEVERITY_LABEL = {
-    1: "Clear",
-    2: "Mild",
-    3: "Preview",
-    4: "Spicy",
-    5: "Adults only",
-  };
+  /** Unified 1–5 severity labels (see severity.js / themes.py). */
+  const SEV = () => window.WWTK_SEVERITY;
 
-  function themeSeverity(d, ep) {
-    const stored = Number(d.severity);
-    if (stored >= 1 && stored <= 5) return stored;
-    const overall = Number(ep.overall) || 1;
-    const intensity = Number(d.intensity) || 1;
-    const fromTheme = { 1: 2, 2: 3, 3: 4 }[intensity] || 2;
-    return Math.min(5, Math.max(fromTheme, overall));
+  function themeSeverity(d) {
+    return SEV().score(d);
+  }
+
+  function severityRankClass(n) {
+    return SEV().rankClass(n);
   }
 
   const NOTES_TITLE = {
@@ -327,10 +320,9 @@
       extra = `<span class="theme-stat theme-more" aria-label="${count} flagged in this episode"><span class="theme-stat-val">${count}</span><span class="theme-stat-label">flags</span></span>`;
     }
 
-    const severity = themeSeverity(d, ep);
-    const severityLabel = SEVERITY_LABEL[severity] || SEVERITY_LABEL[3];
-    const severityClass =
-      severity >= 5 ? "severity-adult" : severity >= 4 ? "severity-spicy" : severity === 3 ? "severity-preview" : "severity-mild";
+    const severity = themeSeverity(d);
+    const severityLabel = SEV().label[severity] || SEV().label[3];
+    const severityClass = severityRankClass(severity);
 
     return `<li class="theme-item">
       <a href="${href}" class="theme-item-link" aria-label="View ${escapeHtml(d.theme)} details in episode">
