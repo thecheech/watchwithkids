@@ -321,14 +321,19 @@
     }
 
     const tier = themeSeverity(d);
-    const severityLabel = SEV().label[tier] || SEV().label[2];
-    const severityClass = severityRankClass(tier);
+    const severityBadge =
+      tier >= 3
+        ? (() => {
+            const severityLabel = SEV().label[tier] || SEV().label[3];
+            const severityClass = severityRankClass(tier);
+            return `<span class="theme-stat theme-rank ${severityClass}" aria-label="${escapeHtml(severityLabel)}"><span class="theme-stat-label">${escapeHtml(severityLabel)}</span></span>`;
+          })()
+        : "";
 
     return `<li class="theme-item">
       <a href="${href}" class="theme-item-link" aria-label="View ${escapeHtml(d.theme)} details in episode">
         <span class="theme-item-head">
-          <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}
-          <span class="theme-stat theme-rank ${severityClass}" aria-label="${escapeHtml(severityLabel)}"><span class="theme-stat-label">${escapeHtml(severityLabel)}</span></span>
+          <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}${severityBadge}
         </span>${headline ? `<span class="theme-how">${headline}</span>` : ""}
       </a>
     </li>`;
