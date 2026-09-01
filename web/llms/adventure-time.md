@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/adventure-time.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 225 all clear (1–2), 11 gray area (3), 0 hard pass (4–5).
+Buckets: 225 mild (1–2), 11 caution (3), 0 too much (4–5).
 
 ## S1 E1 — Slumber Party Panic
 URL: https://watchwiththekids.com/ep/adventure-time/0101.html

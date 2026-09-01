@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/steven-universe.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 146 all clear (1–2), 3 gray area (3), 0 hard pass (4–5).
+Buckets: 146 mild (1–2), 3 caution (3), 0 too much (4–5).
 
 ## S1 E1 — Gem Glow
 URL: https://watchwiththekids.com/ep/steven-universe/0101.html

@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/kpop-demon-hunters.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 1 all clear (1–2), 0 gray area (3), 0 hard pass (4–5).
+Buckets: 1 mild (1–2), 0 caution (3), 0 too much (4–5).
 
 ## Ep 1 — KPop Demon Hunters
 URL: https://watchwiththekids.com/ep/kpop-demon-hunters/0001.html

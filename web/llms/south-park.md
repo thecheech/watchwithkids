@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/south-park.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 6 all clear (1–2), 41 gray area (3), 287 hard pass (4–5).
+Buckets: 6 mild (1–2), 41 caution (3), 287 too much (4–5).
 
 ## Ep 47 — 47. Joining the Panderverse
 URL: https://watchwiththekids.com/ep/south-park/0047.html

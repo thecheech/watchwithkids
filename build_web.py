@@ -166,11 +166,85 @@ SHOW_PAGE = {
     },
 }
 
-BUCKET_BADGE = {
-    "safe": ("bucket-pill safe", "✅ All clear"),
-    "maybe": ("bucket-pill maybe", "🤔 Gray area"),
-    "skip": ("bucket-pill skip", "🚫 Hard pass"),
+BUCKET_UI = {
+    "safe": {
+        "label": "Mild",
+        "emoji": "✅",
+        "sub": "Light enough for most nights",
+        "lower": "mild",
+    },
+    "maybe": {
+        "label": "Caution",
+        "emoji": "🤔",
+        "sub": "Preview or stay in the room",
+        "lower": "caution",
+    },
+    "skip": {
+        "label": "Too much",
+        "emoji": "🚫",
+        "sub": "Skip for younger kids",
+        "lower": "too much",
+    },
 }
+
+BUCKET_BADGE = {
+    key: (f"bucket-pill {key}", f'{BUCKET_UI[key]["emoji"]} {BUCKET_UI[key]["label"]}')
+    for key in BUCKET_UI
+}
+
+GUIDE_SCORE_PILL = {
+    key: (f"ep-card-score {key}", f'{BUCKET_UI[key]["emoji"]} {BUCKET_UI[key]["label"]}')
+    for key in BUCKET_UI
+}
+
+
+def bucket_scale_line(*, preview: bool = False) -> str:
+    s, m, k = BUCKET_UI["safe"], BUCKET_UI["maybe"], BUCKET_UI["skip"]
+    mid = f" worth previewing" if preview else ""
+    return (
+        f"1–2 is {s['lower']}, 3 is {m['lower']}{mid}, "
+        f"and 4–5 is {k['lower']} for younger kids"
+    )
+
+
+def bucket_mix_pct(mix: dict) -> str:
+    total = mix["total"] or 1
+    return ", ".join(
+        f"{round(100 * mix[key] / total)}% {BUCKET_UI[key]['lower']}"
+        for key in ("safe", "maybe", "skip")
+    )
+
+
+def bucket_mix_counts_html(mix: dict) -> str:
+    s, m, k = BUCKET_UI["safe"], BUCKET_UI["maybe"], BUCKET_UI["skip"]
+    return (
+        f"<strong>{mix['safe']}</strong> {s['lower']} (overall 1–2/5), "
+        f"<strong>{mix['maybe']}</strong> {m['lower']} (3/5) and "
+        f"<strong>{mix['skip']}</strong> {k['lower']} (4–5/5)"
+    )
+
+
+def bucket_hero_pills_static() -> str:
+    return "\n          ".join(
+        f'<span>{b["emoji"]} {b["lower"]}</span>' for b in BUCKET_UI.values()
+    )
+
+
+def bucket_hero_pills_counts(mix: dict) -> str:
+    return "\n          ".join(
+        f'<span>{BUCKET_UI[key]["emoji"]} {mix[key]} {BUCKET_UI[key]["lower"]}</span>'
+        for key in ("safe", "maybe", "skip")
+    )
+
+
+def bucket_vibe_button(key: str) -> str:
+    b = BUCKET_UI[key]
+    return f"""    <button type="button" class="vibe-btn vibe-{key}" data-bucket="{key}" id="bucket-{key}">
+      <span class="vibe-emoji">{b["emoji"]}</span>
+      <span class="vibe-label">{b["label"]}</span>
+      <span class="vibe-sub">{b["sub"]}</span>
+      <span class="vibe-count" data-count-for="{key}">—</span>
+    </button>"""
 
 FONTS = (
     '<link rel="preconnect" href="https://fonts.googleapis.com" />\n'
@@ -478,8 +552,7 @@ def home_faqs() -> list[tuple[str, str]]:
             "How do you decide if an episode is OK for kids?",
             "Each episode is scored 1–5 for <strong>violence</strong>, <strong>sex</strong> and "
             "<strong>language</strong> from its transcript. The overall score is the highest of "
-            "the three. 1–2 is all clear, 3 is a gray area worth previewing, and 4–5 is a hard "
-            "pass for little kids.",
+            f"the three. {bucket_scale_line(preview=True)}.",
         ),
         (
             "Do you show what actually happens in the episode?",
@@ -499,10 +572,8 @@ def show_faqs(show_id: str, name: str, mix: dict) -> list[tuple[str, str]]:
     return [
         (
             f"Is {name} OK for kids?",
-            f"We rated {ep_count(mix['total'])} of {esc(name)}: <strong>{mix['safe']}</strong> "
-            f"all clear (overall 1–2/5), <strong>{mix['maybe']}</strong> gray area (3/5) and "
-            f"<strong>{mix['skip']}</strong> a hard pass (4–5/5). Every episode page lists "
-            "the exact moments behind the score.",
+            f"We rated {ep_count(mix['total'])} of {esc(name)}: {bucket_mix_counts_html(mix)}. "
+            "Every episode page lists the exact moments behind the score.",
         ),
         (
             f"How is each {name} episode rated?",
@@ -513,7 +584,7 @@ def show_faqs(show_id: str, name: str, mix: dict) -> list[tuple[str, str]]:
         (
             f"Which {name} episodes are safest to watch with kids?",
             f'See the <a href="guides/{esc(show_id)}.html">What to watch in {esc(name)}</a> list — '
-            "safest episodes first, then the hard-pass list so you can skip them.",
+            f"mildest episodes first, then the {BUCKET_UI['skip']['lower']} list so you can skip them.",
         ),
         (
             f"Where can I watch {name}?",
@@ -1243,9 +1314,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     total = mix["total"] or 1
     desc = clip_meta(
         f"Is {name} OK for kids? {'All ' if mix['total'] != 1 else ''}{ep_count(mix['total'])} rated 1–5 for violence, sex and "
-        f"language — {round(100 * mix['safe'] / total)}% all clear, "
-        f"{round(100 * mix['maybe'] / total)}% gray area, "
-        f"{round(100 * mix['skip'] / total)}% hard pass, with the exact moments quoted."
+        f"language — {bucket_mix_pct(mix)}, with the exact moments quoted."
     )
     page_title = f"Is {name} OK for Kids? Episode Parents Guide"
 
@@ -1288,9 +1357,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
           <strong>before you press play</strong>.
         </p>
         <div class="hero-pills" aria-hidden="true">
-          <span>✅ all clear</span>
-          <span>🤔 gray area</span>
-          <span>🚫 hard pass</span>
+          {bucket_hero_pills_static()}
         </div>
       </div>
       <aside class="hero-card">
@@ -1309,21 +1376,21 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
       <span class="vibe-count" data-count-for="all">—</span>
     </button>
     <button type="button" class="vibe-btn vibe-safe" data-bucket="safe" id="bucket-safe">
-      <span class="vibe-emoji">✅</span>
-      <span class="vibe-label">All clear</span>
-      <span class="vibe-sub">Pretty safe with kids</span>
+      <span class="vibe-emoji">{BUCKET_UI["safe"]["emoji"]}</span>
+      <span class="vibe-label">{BUCKET_UI["safe"]["label"]}</span>
+      <span class="vibe-sub">{BUCKET_UI["safe"]["sub"]}</span>
       <span class="vibe-count" data-count-for="safe">—</span>
     </button>
     <button type="button" class="vibe-btn vibe-maybe" data-bucket="maybe" id="bucket-maybe">
-      <span class="vibe-emoji">🤔</span>
-      <span class="vibe-label">Gray area</span>
-      <span class="vibe-sub">Your call — preview first</span>
+      <span class="vibe-emoji">{BUCKET_UI["maybe"]["emoji"]}</span>
+      <span class="vibe-label">{BUCKET_UI["maybe"]["label"]}</span>
+      <span class="vibe-sub">{BUCKET_UI["maybe"]["sub"]}</span>
       <span class="vibe-count" data-count-for="maybe">—</span>
     </button>
     <button type="button" class="vibe-btn vibe-skip" data-bucket="skip" id="bucket-skip">
-      <span class="vibe-emoji">🚫</span>
-      <span class="vibe-label">Hard pass</span>
-      <span class="vibe-sub">Skip for little ones</span>
+      <span class="vibe-emoji">{BUCKET_UI["skip"]["emoji"]}</span>
+      <span class="vibe-label">{BUCKET_UI["skip"]["label"]}</span>
+      <span class="vibe-sub">{BUCKET_UI["skip"]["sub"]}</span>
       <span class="vibe-count" data-count-for="skip">—</span>
     </button>
   </section>
@@ -1404,9 +1471,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     <h2>Is {esc(name)} OK to watch with the kids?</h2>
     <p>
       We rated {"all " if mix["total"] != 1 else ""}<strong>{ep_count(mix["total"])}</strong> of {esc(name)} for violence, sex and
-      language on a 1–5 scale: <strong>{mix["safe"]}</strong> all clear (overall
-      1–2/5), <strong>{mix["maybe"]}</strong> in the gray area (3/5) and
-      <strong>{mix["skip"]}</strong> a hard pass for little kids (4–5/5).
+      language on a 1–5 scale: {bucket_mix_counts_html(mix)}.
     </p>
     <p>
       Each episode page lists every watch-for theme — Sex &amp; hookups, Nudity &amp; bodies,
@@ -1455,8 +1520,9 @@ def write_agent_index(show_id: str, payload: dict, mix: dict) -> Path:
         "",
         f"Source: {SITE}/{show_id}.html",
         f"Scoring: violence, sex and language each 1–5; overall = the highest of the three.",
-        f"Buckets: {mix['safe']} all clear (1–2), {mix['maybe']} gray area (3), "
-        f"{mix['skip']} hard pass (4–5).",
+        f"Buckets: {mix['safe']} {BUCKET_UI['safe']['lower']} (1–2), "
+        f"{mix['maybe']} {BUCKET_UI['maybe']['lower']} (3), "
+        f"{mix['skip']} {BUCKET_UI['skip']['lower']} (4–5).",
         "",
     ]
     for ep in payload["episodes"]:
@@ -1499,7 +1565,7 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         "",
         "- Scores: violence, sex and language, each 1 (none) to 5 (heavy).",
         "- Overall = the highest of the three scores.",
-        "- Buckets: 1–2 = all clear, 3 = gray area, 4–5 = hard pass for little kids.",
+        f"- Buckets: {bucket_scale_line()}.",
         "- Watch-for themes: Sex & hookups, Nudity & bodies, Porn / strippers, Swearing, "
         "Violence & death, Affairs / cheating, Suicide / self-harm, Alcohol / Drugs, "
         "Gay / Lesbian, Fat-shaming, Sexual insults, Racism.",
@@ -1517,9 +1583,7 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         total = mix["total"] or 1
         lines.append(
             f"- [{s['name']}]({SITE}/{sid}.html): {ep_count(mix['total'])} — "
-            f"{round(100 * mix['safe'] / total)}% all clear, "
-            f"{round(100 * mix['maybe'] / total)}% gray area, "
-            f"{round(100 * mix['skip'] / total)}% hard pass. "
+            f"{bucket_mix_pct(mix)}. "
             f"Full text index: [{sid}.md]({SITE}/llms/{sid}.md)"
         )
     lines += [
@@ -1568,17 +1632,15 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
         total = mix["total"] or 1
         rows.append(
             f'<li><a href="{esc(s["id"])}.html"><strong>{esc(s["name"])}</strong></a> — '
-            f'{ep_count(mix["total"])} rated: {round(100 * mix["safe"] / total)}% all clear, '
-            f'{round(100 * mix["maybe"] / total)}% gray area, '
-            f'{round(100 * mix["skip"] / total)}% hard pass.</li>'
+            f'{ep_count(mix["total"])} rated: {bucket_mix_pct(mix)}.</li>'
         )
     shows_block = f"""
   <section class="wrap seo-copy" aria-label="Shows rated">
     <h2>Every show we've rated</h2>
     <p>
       {esc(BRAND)} scores each episode 1–5 for <strong>violence</strong>, <strong>sex</strong> and
-      <strong>language</strong>. The overall score is the highest of the three: 1–2 is all clear,
-      3 is a gray area, 4–5 is a hard pass for little kids. Every flagged theme — Sex &amp; hookups,
+      <strong>language</strong>. The overall score is the highest of the three: {bucket_scale_line()}.
+      Every flagged theme — Sex &amp; hookups,
       Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating,
       Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Sexual insults and Racism —
       is listed with how many times it comes up and the exact quote or scene behind it.
@@ -1678,13 +1740,6 @@ def _pick_episodes(episodes: list[dict], bucket: str, limit: int) -> list[dict]:
         pool = [e for e in episodes if int(e.get("overall") or 1) == 3]
         pool.sort(key=lambda e: (str(e.get("season")), str(e.get("episode"))))
     return pool[:limit]
-
-
-GUIDE_SCORE_PILL = {
-    "safe": ("ep-card-score safe", "✅ All clear"),
-    "maybe": ("ep-card-score maybe", "🤔 Gray area"),
-    "skip": ("ep-card-score skip", "🚫 Hard pass"),
-}
 
 
 def _ep_card_html(show_id: str, ep: dict) -> str:
@@ -1815,9 +1870,9 @@ def write_about_page() -> None:
           Informal parent guidance — not an official ratings board. {esc(TAGLINE)}
         </p>
         <div class="hero-pills">
-          <span>✅ 1–2 all clear</span>
-          <span>🤔 3 gray area</span>
-          <span>🚫 4–5 hard pass</span>
+          <span>✅ 1–2 {BUCKET_UI["safe"]["lower"]}</span>
+          <span>🤔 3 {BUCKET_UI["maybe"]["lower"]}</span>
+          <span>🚫 4–5 {BUCKET_UI["skip"]["lower"]}</span>
         </div>
       </div>
       <aside class="hero-card about-demo" aria-hidden="true">
@@ -1840,7 +1895,7 @@ def write_about_page() -> None:
         <div class="about-demo-overall">
           <span>Overall = the highest</span>
           <strong>4</strong>
-          <span class="bucket-pill skip">🚫 Hard pass</span>
+          <span class="bucket-pill skip">{BUCKET_UI["skip"]["emoji"]} {BUCKET_UI["skip"]["label"]}</span>
         </div>
       </aside>
     </div>
@@ -1855,20 +1910,20 @@ def write_about_page() -> None:
       <article class="about-bucket safe">
         <span class="about-bucket-emoji" aria-hidden="true">✅</span>
         <p class="about-bucket-range">1–2</p>
-        <h2>All clear</h2>
+        <h2>{BUCKET_UI["safe"]["label"]}</h2>
         <p>Fine for most family couches.</p>
       </article>
       <article class="about-bucket maybe">
         <span class="about-bucket-emoji" aria-hidden="true">🤔</span>
         <p class="about-bucket-range">3</p>
-        <h2>Gray area</h2>
+        <h2>{BUCKET_UI["maybe"]["label"]}</h2>
         <p>Preview first — fine for older kids depending on your rules.</p>
       </article>
       <article class="about-bucket skip">
         <span class="about-bucket-emoji" aria-hidden="true">🚫</span>
         <p class="about-bucket-range">4–5</p>
-        <h2>Hard pass</h2>
-        <p>Too spicy for little kids.</p>
+        <h2>{BUCKET_UI["skip"]["label"]}</h2>
+        <p>Too spicy for younger kids.</p>
       </article>
     </section>
     <section class="about-section">
@@ -1992,20 +2047,20 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
         total = mix["total"] or 1
         if mix["safe"] / total >= 0.5:
             badge = '<span class="guide-badge safe">Kid-friendlier</span>'
-            stat = f'{mix["safe"]} of {mix["total"]} episodes are all clear'
+            stat = f'{mix["safe"]} of {mix["total"]} episodes are {BUCKET_UI["safe"]["lower"]}'
         elif mix["skip"] / total >= 0.7:
             badge = '<span class="guide-badge skip">Mostly skip</span>'
             stat = (
-                f'Only {mix["safe"]} of {mix["total"]} episodes are all clear'
+                f'Only {mix["safe"]} of {mix["total"]} episodes are {BUCKET_UI["safe"]["lower"]}'
                 if mix["safe"]
-                else "No all-clear episodes — after-bedtime territory"
+                else f'No {BUCKET_UI["safe"]["lower"]} episodes — after-bedtime territory'
             )
         else:
             badge = '<span class="guide-badge maybe">Preview first</span>'
             stat = (
-                f'{mix["safe"]} of {mix["total"]} episodes are all clear'
+                f'{mix["safe"]} of {mix["total"]} episodes are {BUCKET_UI["safe"]["lower"]}'
                 if mix["safe"]
-                else "No all-clear episodes — preview every one"
+                else f'No {BUCKET_UI["safe"]["lower"]} episodes — preview every one'
             )
         return (
             f'<li><a class="guide-card" href="{esc(sid)}.html">'
@@ -2021,8 +2076,8 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
             f'<span class="guide-seg maybe" style="flex-grow:{maybe_pct}"></span>'
             f'<span class="guide-seg skip" style="flex-grow:{skip_pct}"></span>'
             f"</span>"
-            f'<p class="guide-legend"><strong>{safe_pct}%</strong> all clear · '
-            f"{maybe_pct}% gray · {skip_pct}% skip</p>"
+            f'<p class="guide-legend"><strong>{safe_pct}%</strong> {BUCKET_UI["safe"]["lower"]} · '
+            f"{maybe_pct}% {BUCKET_UI['maybe']['lower']} · {skip_pct}% {BUCKET_UI['skip']['lower']}</p>"
             f'<span class="guide-cta">See the safest episodes →</span>'
             f"</span></a></li>"
         )
@@ -2032,7 +2087,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
             "safe",
             "🛋️",
             "Easy wins",
-            "Most episodes are all clear — pick almost anything and relax.",
+            "Most episodes are mild — pick almost anything and relax.",
         ),
         (
             "maybe",
@@ -2088,8 +2143,8 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
         <p class="tagline">Every episode scored 1–5 for violence, sex and language. Pick a show — the safest episodes are listed first.</p>
         <div class="hero-pills">
           <span>✅ Safest first</span>
-          <span>🤔 Gray area</span>
-          <span>🚫 Hard pass</span>
+          <span>🤔 {BUCKET_UI["maybe"]["label"]}</span>
+          <span>🚫 {BUCKET_UI["skip"]["label"]}</span>
         </div>
       </div>
       <aside class="hero-card" aria-hidden="true">
@@ -2147,8 +2202,9 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
     url = f"{SITE}/guides/{show_id}.html"
     title = f"What to Watch in {name} With Kids"
     desc = clip_meta(
-        f"Safest {name} episodes for kids, plus the hard-pass list. "
-        f"{mix['safe']} all clear, {mix['maybe']} gray area, {mix['skip']} skip — scored 1–5."
+        f"Safest {name} episodes for kids, plus the {BUCKET_UI['skip']['lower']} list. "
+        f"{mix['safe']} {BUCKET_UI['safe']['lower']}, {mix['maybe']} {BUCKET_UI['maybe']['lower']}, "
+        f"{mix['skip']} {BUCKET_UI['skip']['lower']} — scored 1–5."
     )
     safe = _pick_episodes(eps, "safe", 25)
     skip = _pick_episodes(eps, "skip", 15)
@@ -2163,19 +2219,20 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
     )
     if mix["safe"] == 0:
         safe_intro = (
-            f"None of the {mix['total']} {esc(name)} episodes we rated land in the all-clear "
-            "bucket (overall 1–2/5). If you still want to try, preview a gray-area episode first."
+            f"None of the {mix['total']} {esc(name)} episodes we rated land in the "
+            f"{BUCKET_UI['safe']['lower']} bucket (overall 1–2/5). If you still want to try, "
+            f"preview a {BUCKET_UI['maybe']['lower']} episode first."
         )
     else:
         safe_intro = (
-            f"{mix['safe']} of {mix['total']} {esc(name)} episodes score all-clear. "
+            f"{mix['safe']} of {mix['total']} {esc(name)} episodes score {BUCKET_UI['safe']['lower']}. "
             "These are the gentlest to start with."
         )
     skip_intro = (
-        f"{mix['skip']} episodes are a hard pass for little kids (overall 4–5/5). "
-        "The spiciest are listed below."
+        f"{mix['skip']} episodes are {BUCKET_UI['skip']['lower']} for younger kids (overall 4–5/5). "
+        "The roughest are listed below."
         if mix["skip"]
-        else f"No {esc(name)} episodes scored a hard pass."
+        else f"No {esc(name)} episodes scored {BUCKET_UI['skip']['lower']}."
     )
     body = f"""  <nav class="topnav wrap">
     <a class="back-home" href="../{esc(show_id)}.html">← {esc(name)}</a>
@@ -2187,12 +2244,10 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
         <p class="eyebrow">{mix["total"]} episodes rated 1–5</p>
         <h1>What to watch in {esc(name)} with kids</h1>
         <p class="tagline">
-          Start with an all-clear episode, or check the skip list before movie night.
+          Start with a {BUCKET_UI["safe"]["lower"]} episode, or check the skip list before movie night.
         </p>
         <div class="hero-pills" aria-hidden="true">
-          <span>✅ {mix["safe"]} all clear</span>
-          <span>🤔 {mix["maybe"]} gray area</span>
-          <span>🚫 {mix["skip"]} hard pass</span>
+          {bucket_hero_pills_counts(mix)}
         </div>
         <p class="season-jump">By season: {season_links}</p>
       </div>
@@ -2216,11 +2271,11 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
       </header>
       {_ep_rows_html(show_id, safe)}
     </section>
-    <section class="guide-section" aria-label="Gray-area {esc(name)} episodes">
+    <section class="guide-section" aria-label="{BUCKET_UI['maybe']['label']} {esc(name)} episodes">
       <header class="guide-section-head maybe">
         <span class="guide-section-emoji" aria-hidden="true">🤔</span>
         <div class="guide-section-copy">
-          <h2>Gray area — preview first</h2>
+          <h2>{BUCKET_UI["maybe"]["label"]} — preview first</h2>
           <p>Overall 3/5. Fine for some families, not for others — read the flags before play.</p>
         </div>
         <span class="guide-section-count">{mix["maybe"]}</span>
@@ -2275,13 +2330,13 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
                 [
                     (
                         f"Which {name} episodes are OK for kids?",
-                        f"{mix['safe']} of {mix['total']} score all-clear (1–2/5). "
-                        f"{mix['skip']} are a hard pass (4–5/5).",
+                        f"{mix['safe']} of {mix['total']} score {BUCKET_UI['safe']['lower']} (1–2/5). "
+                        f"{mix['skip']} are {BUCKET_UI['skip']['lower']} (4–5/5).",
                     ),
                     (
                         f"Is {name} OK for kids overall?",
                         f"It depends on the episode. {round(100 * mix['safe'] / (mix['total'] or 1))}% "
-                        "are all clear; check the lists on this page before you press play.",
+                        f"are {BUCKET_UI['safe']['lower']}; check the lists on this page before you press play.",
                     ),
                 ]
             ),
@@ -2319,7 +2374,7 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
         total = smix["total"] or 1
         desc = clip_meta(
             f"Is {name} {label} OK for kids? {smix['total']} episodes rated: "
-            f"{smix['safe']} all clear, {smix['maybe']} gray area, {smix['skip']} hard pass."
+            f"{bucket_mix_pct(smix)}."
         )
         body = f"""  <nav class="topnav wrap">
     <a class="back-home" href="{esc(show_id)}.html">← What to watch in {esc(name)}</a>
@@ -2330,7 +2385,7 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
       <div class="hero-copy">
         <h1>Is {esc(name)} {esc(label)} OK for kids?</h1>
         <p class="tagline">
-          {smix["safe"]} all clear · {smix["maybe"]} gray area · {smix["skip"]} hard pass
+          {smix["safe"]} {BUCKET_UI["safe"]["lower"]} · {smix["maybe"]} {BUCKET_UI["maybe"]["lower"]} · {smix["skip"]} {BUCKET_UI["skip"]["lower"]}
           across {smix["total"]} episodes.
         </p>
       </div>
@@ -2340,9 +2395,9 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
     <section class="wrap seo-copy">
       <p>
         {esc(label)} of {esc(name)} is
-        {round(100 * smix["safe"] / total)}% all clear,
-        {round(100 * smix["maybe"] / total)}% gray area and
-        {round(100 * smix["skip"] / total)}% a hard pass for little kids.
+        {round(100 * smix["safe"] / total)}% {BUCKET_UI["safe"]["lower"]},
+        {round(100 * smix["maybe"] / total)}% {BUCKET_UI["maybe"]["lower"]} and
+        {round(100 * smix["skip"] / total)}% {BUCKET_UI["skip"]["lower"]} for younger kids.
         Open an episode for the quoted moments.
       </p>
     </section>

@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/pokemon.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 78 all clear (1–2), 1 gray area (3), 0 hard pass (4–5).
+Buckets: 78 mild (1–2), 1 caution (3), 0 too much (4–5).
 
 ## S1 E1 — I Choose You!
 URL: https://watchwiththekids.com/ep/pokemon/0101.html

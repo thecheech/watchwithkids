@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/legend-of-korra.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 36 all clear (1–2), 14 gray area (3), 2 hard pass (4–5).
+Buckets: 36 mild (1–2), 14 caution (3), 2 too much (4–5).
 
 ## S1 E1 — Welcome to Republic City
 URL: https://watchwiththekids.com/ep/legend-of-korra/0101.html

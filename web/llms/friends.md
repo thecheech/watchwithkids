@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/friends.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 33 all clear (1–2), 129 gray area (3), 66 hard pass (4–5).
+Buckets: 33 mild (1–2), 129 caution (3), 66 too much (4–5).
 
 ## S1 E1 — The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)
 URL: https://watchwiththekids.com/ep/friends/0101.html

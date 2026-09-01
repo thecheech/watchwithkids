@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/full-house.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 112 all clear (1–2), 7 gray area (3), 0 hard pass (4–5).
+Buckets: 112 mild (1–2), 7 caution (3), 0 too much (4–5).
 
 ## S1 E1 — 1. Our Very First Show
 URL: https://watchwiththekids.com/ep/full-house/0101.html

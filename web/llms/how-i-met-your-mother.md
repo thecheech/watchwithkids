@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/how-i-met-your-mother.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 29 all clear (1–2), 82 gray area (3), 97 hard pass (4–5).
+Buckets: 29 mild (1–2), 82 caution (3), 97 too much (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0101.html

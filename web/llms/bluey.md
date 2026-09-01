@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/bluey.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 152 all clear (1–2), 0 gray area (3), 0 hard pass (4–5).
+Buckets: 152 mild (1–2), 0 caution (3), 0 too much (4–5).
 
 ## S1 E2 — Hospital
 URL: https://watchwiththekids.com/ep/bluey/0102.html

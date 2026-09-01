@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/wednesday.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 0 all clear (1–2), 15 gray area (3), 1 hard pass (4–5).
+Buckets: 0 mild (1–2), 15 caution (3), 1 too much (4–5).
 
 ## S1 E1 — Chapter I: Wednesday's Child Is Full of Woe
 URL: https://watchwiththekids.com/ep/wednesday/0101.html

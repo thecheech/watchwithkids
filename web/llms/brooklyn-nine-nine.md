@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/brooklyn-nine-nine.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 10 all clear (1–2), 69 gray area (3), 56 hard pass (4–5).
+Buckets: 10 mild (1–2), 69 caution (3), 56 too much (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0101.html

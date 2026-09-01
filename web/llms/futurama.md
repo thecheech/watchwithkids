@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/futurama.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 0 all clear (1–2), 111 gray area (3), 30 hard pass (4–5).
+Buckets: 0 mild (1–2), 111 caution (3), 30 too much (4–5).
 
 ## S1 E1 — Space Pilot 3000
 URL: https://watchwiththekids.com/ep/futurama/0101.html

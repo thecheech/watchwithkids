@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/simpsons.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 303 all clear (1–2), 218 gray area (3), 43 hard pass (4–5).
+Buckets: 303 mild (1–2), 218 caution (3), 43 too much (4–5).
 
 ## S1 E1 — Simpsons Roasting on an Open Fire
 URL: https://watchwiththekids.com/ep/simpsons/0101.html

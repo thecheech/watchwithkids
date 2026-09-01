@@ -16,25 +16,25 @@
     },
     safe: {
       match: (ep) => ep.overall <= 2,
-      hint: "✅ All clear — mild enough for most kid couch nights.",
-      stats: "all-clear picks",
+      hint: "✅ Mild — light enough for most kid couch nights.",
+      stats: "mild picks",
     },
     maybe: {
       match: (ep) => ep.overall === 3,
-      hint: "🤔 Gray area — sitcom adult stuff; preview or stay in the room.",
-      stats: "gray-area picks",
+      hint: "🤔 Caution — sitcom adult stuff; preview or stay in the room.",
+      stats: "caution picks",
     },
     skip: {
       match: (ep) => ep.overall >= 4,
-      hint: "🚫 Hard pass — strippers, affairs, heavy sex jokes… skip with little kids.",
-      stats: "hard-pass episodes",
+      hint: "🚫 Too much — strippers, affairs, heavy sex jokes… skip with younger kids.",
+      stats: "too-much episodes",
     },
   };
 
   const BUCKET_BADGE = {
-    safe: { className: "bucket-pill safe", text: "All clear" },
-    maybe: { className: "bucket-pill maybe", text: "Gray area" },
-    skip: { className: "bucket-pill skip", text: "Hard pass" },
+    safe: { className: "bucket-pill safe", text: "Mild" },
+    maybe: { className: "bucket-pill maybe", text: "Caution" },
+    skip: { className: "bucket-pill skip", text: "Too much" },
   };
 
   /** Unified 1–5 severity labels (see severity.js / themes.py). */
@@ -315,7 +315,7 @@
     
     let extra = "";
     if (count > 1) {
-      extra = `<span class="theme-stat theme-more" aria-label="${count} flagged in this episode"><span class="theme-stat-val">${count}</span><span class="theme-stat-label">flags</span></span>`;
+      extra = `<span class="theme-stat theme-more" aria-label="${count} flagged in this episode"><span class="theme-stat-val">+${count}</span><span class="theme-stat-label">flags</span></span>`;
     }
 
     const tier = themeSeverity(d);
@@ -460,12 +460,12 @@
     if (bucket === "safe" && !hasThemes && !seasonNarrow) {
       const anySafe = data.episodes.some((ep) => ep.overall <= 2);
       if (!anySafe) {
-        return "No all-clear episodes in this show — try Gray area, or Show all.";
+        return "No mild episodes in this show — try Caution, or Show all.";
       }
     }
     
     const parts = [];
-    if (bucketNarrow) parts.push(bucket === "safe" ? "all-clear" : bucket === "maybe" ? "gray-area" : "hard-pass");
+    if (bucketNarrow) parts.push(bucket === "safe" ? "mild" : bucket === "maybe" ? "caution" : "too much");
     if (hasThemes) {
       const themeList = [...selectedThemes].map(t => `"${t}"`).join(" + ");
       parts.push(`with ${themeList}`);
@@ -589,7 +589,7 @@
     const href = epHref(ep);
     const expandLink = hasMore
       ? `<a href="${href}" class="watch-expand-link">
-          Show all ${rankedDetails.length} watch-fors <span aria-hidden="true">→</span>
+          Show all ${rankedDetails.length} flags <span aria-hidden="true">→</span>
         </a>`
       : "";
     

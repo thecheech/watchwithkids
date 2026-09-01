@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/fresh-prince.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 115 all clear (1–2), 28 gray area (3), 5 hard pass (4–5).
+Buckets: 115 mild (1–2), 28 caution (3), 5 too much (4–5).
 
 ## S1 E1 — 1. The Fresh Prince Project
 URL: https://watchwiththekids.com/ep/fresh-prince/0101.html

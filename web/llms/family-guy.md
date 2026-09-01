@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/family-guy.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 34 all clear (1–2), 123 gray area (3), 299 hard pass (4–5).
+Buckets: 34 mild (1–2), 123 caution (3), 299 too much (4–5).
 
 ## S1 E1 — 1. Death Has a Shadow
 URL: https://watchwiththekids.com/ep/family-guy/0101.html

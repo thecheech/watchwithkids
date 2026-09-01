@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/malcolm-in-the-middle.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 99 all clear (1–2), 46 gray area (3), 6 hard pass (4–5).
+Buckets: 99 mild (1–2), 46 caution (3), 6 too much (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0101.html

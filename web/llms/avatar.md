@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/avatar.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 50 all clear (1–2), 5 gray area (3), 6 hard pass (4–5).
+Buckets: 50 mild (1–2), 5 caution (3), 6 too much (4–5).
 
 ## S1 E1 — The Boy in the Iceberg
 URL: https://watchwiththekids.com/ep/avatar/0101.html

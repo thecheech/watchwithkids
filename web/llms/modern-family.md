@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/modern-family.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 129 all clear (1–2), 94 gray area (3), 23 hard pass (4–5).
+Buckets: 129 mild (1–2), 94 caution (3), 23 too much (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/modern-family/0101.html

@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/phineas-and-ferb.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 247 all clear (1–2), 2 gray area (3), 0 hard pass (4–5).
+Buckets: 247 mild (1–2), 2 caution (3), 0 too much (4–5).
 
 ## S1 E1 — Rollercoaster
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0101.html

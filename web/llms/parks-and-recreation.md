@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/parks-and-recreation.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 46 all clear (1–2), 42 gray area (3), 34 hard pass (4–5).
+Buckets: 46 mild (1–2), 42 caution (3), 34 too much (4–5).
 
 ## S1 E1 — 1. CHE01 - Pilot
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0101.html

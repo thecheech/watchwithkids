@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/big-bang-theory.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 136 all clear (1–2), 85 gray area (3), 42 hard pass (4–5).
+Buckets: 136 mild (1–2), 85 caution (3), 42 too much (4–5).
 
 ## S1 E1 — Pilot
 URL: https://watchwiththekids.com/ep/big-bang-theory/0101.html

@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/seinfeld.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 97 all clear (1–2), 65 gray area (3), 14 hard pass (4–5).
+Buckets: 97 mild (1–2), 65 caution (3), 14 too much (4–5).
 
 ## S1 E1 — Good News, Bad News
 URL: https://watchwiththekids.com/ep/seinfeld/0101.html

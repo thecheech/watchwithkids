@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/young-sheldon.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 111 all clear (1–2), 24 gray area (3), 5 hard pass (4–5).
+Buckets: 111 mild (1–2), 24 caution (3), 5 too much (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/young-sheldon/0101.html

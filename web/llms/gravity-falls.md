@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/gravity-falls.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 31 all clear (1–2), 9 gray area (3), 0 hard pass (4–5).
+Buckets: 31 mild (1–2), 9 caution (3), 0 too much (4–5).
 
 ## S1 E1 — Tourist Trapped
 URL: https://watchwiththekids.com/ep/gravity-falls/0101.html

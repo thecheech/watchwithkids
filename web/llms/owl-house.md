@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/owl-house.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 31 all clear (1–2), 12 gray area (3), 0 hard pass (4–5).
+Buckets: 31 mild (1–2), 12 caution (3), 0 too much (4–5).
 
 ## S1 E1 — A Lying Witch and a Warden
 URL: https://watchwiththekids.com/ep/owl-house/0101.html

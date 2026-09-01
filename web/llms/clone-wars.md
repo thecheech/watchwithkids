@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/clone-wars.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 120 all clear (1–2), 13 gray area (3), 0 hard pass (4–5).
+Buckets: 120 mild (1–2), 13 caution (3), 0 too much (4–5).
 
 ## S1 E1 — Ambush
 URL: https://watchwiththekids.com/ep/clone-wars/0101.html

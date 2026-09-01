@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/rick-and-morty.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 0 all clear (1–2), 6 gray area (3), 76 hard pass (4–5).
+Buckets: 0 mild (1–2), 6 caution (3), 76 too much (4–5).
 
 ## S1 E1 — 1. Pilot
 URL: https://watchwiththekids.com/ep/rick-and-morty/0101.html

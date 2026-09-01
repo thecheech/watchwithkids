@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/bobs-burgers.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 136 all clear (1–2), 117 gray area (3), 56 hard pass (4–5).
+Buckets: 136 mild (1–2), 117 caution (3), 56 too much (4–5).
 
 ## S1 E1 — 1. Human Flesh
 URL: https://watchwiththekids.com/ep/bobs-burgers/0101.html

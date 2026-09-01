@@ -2,7 +2,7 @@
 
 Source: https://watchwiththekids.com/the-office.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 67 all clear (1–2), 71 gray area (3), 48 hard pass (4–5).
+Buckets: 67 mild (1–2), 71 caution (3), 48 too much (4–5).
 
 ## S1 E1 — Pilot
 URL: https://watchwiththekids.com/ep/the-office/0101.html
