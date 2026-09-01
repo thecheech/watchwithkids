@@ -2047,12 +2047,6 @@ body.report-open {
   border: 1px solid rgba(229, 57, 53, 0.28);
 }
 
-.instance-at {
-  background: rgba(31, 22, 48, 0.06);
-  color: rgba(91, 79, 114, 0.95);
-  border: 1px solid rgba(31, 22, 48, 0.1);
-}
-
 .instance-speaker {
   font-weight: 850;
   color: rgba(31, 22, 48, 0.8);

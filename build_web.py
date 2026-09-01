@@ -292,42 +292,27 @@ INTENSITY_HINT = {
     2: "Moderate — worth a preview",
     3: "Explicit — likely to bother parents",
 }
-AT_LABEL = {
-    "early": "Early in episode",
-    "mid": "Mid episode",
-    "late": "Late in episode",
-}
 
 
 def instance_meta_plain(inst: dict) -> str:
-    parts = []
     intensity = inst.get("intensity")
-    if intensity is not None:
-        label = INTENSITY_SHORT.get(int(intensity), f"Level {intensity}")
-        parts.append(label)
-    at = (inst.get("at") or "").strip()
-    if at:
-        parts.append(AT_LABEL.get(at, at.replace("-", " ").capitalize()))
-    return f"[{' · '.join(parts)}] " if parts else ""
+    if intensity is None:
+        return ""
+    label = INTENSITY_SHORT.get(int(intensity), f"Level {int(intensity)}")
+    return f"[{label}] "
 
 
 def instance_meta_html(inst: dict) -> str:
-    chips = []
     intensity = inst.get("intensity")
-    if intensity is not None:
-        level = int(intensity)
-        label = INTENSITY_SHORT.get(level, f"Level {level}")
-        hint = INTENSITY_HINT.get(level, label)
-        chips.append(
-            f'<span class="instance-severity severity-{level}" title="{esc(hint)}">{esc(label)}</span>'
-        )
-    at = (inst.get("at") or "").strip()
-    if at:
-        label = AT_LABEL.get(at, at.replace("-", " ").capitalize())
-        chips.append(f'<span class="instance-at">{esc(label)}</span>')
-    if not chips:
+    if intensity is None:
         return ""
-    return f'<div class="instance-meta">{"".join(chips)}</div>'
+    level = int(intensity)
+    label = INTENSITY_SHORT.get(level, f"Level {level}")
+    hint = INTENSITY_HINT.get(level, label)
+    chip = (
+        f'<span class="instance-severity severity-{level}" title="{esc(hint)}">{esc(label)}</span>'
+    )
+    return f'<div class="instance-meta">{chip}</div>'
 
 
 def instance_html(inst: dict) -> str:
