@@ -335,6 +335,14 @@ h1 {
   overflow: hidden;
 }
 
+.controls-bar.has-episode {
+  grid-template-columns: minmax(0, 9.5rem) minmax(0, 13rem) minmax(0, 1fr) minmax(0, 10.5rem);
+}
+
+.field-episode select {
+  text-overflow: ellipsis;
+}
+
 .field {
   display: grid;
   gap: 0.3rem;
@@ -345,6 +353,10 @@ h1 {
 }
 
 .field.grow { min-width: 0; }
+
+.field-episode[hidden] {
+  display: none !important;
+}
 
 .field input,
 .field select {
@@ -444,6 +456,7 @@ h1 {
 }
 
 .card {
+  scroll-margin-top: 1.5rem;
   background: var(--card);
   border: 3px solid var(--ink);
   border-radius: var(--radius);
@@ -1877,8 +1890,14 @@ body.report-open {
   .controls-bar {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   }
+  .controls-bar.has-episode {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
   .controls-bar .field.grow {
     grid-column: 1 / -1;
+  }
+  .controls-bar.has-episode .field-episode {
+    grid-column: auto;
   }
   .hero-copy,
   .hero-card {
@@ -2029,12 +2048,30 @@ body.report-open {
 }
 
 .ep-index-row {
+  scroll-margin-top: 1.5rem;
   padding: 0.4rem 0.6rem;
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.65);
   border: 1px solid rgba(31, 22, 48, 0.07);
   font-size: 0.85rem;
   line-height: 1.4;
+  transition: background 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card.ep-highlight,
+.ep-index-row.ep-highlight {
+  animation: ep-flash 1.4s ease;
+}
+
+@keyframes ep-flash {
+  0%, 100% {
+    box-shadow: var(--shadow);
+    background: var(--card);
+  }
+  18% {
+    box-shadow: 0 0 0 3px #5eb3ff, 0 8px 0 var(--ink);
+    background: #eef7ff;
+  }
 }
 
 .ep-index-row a {

@@ -45,6 +45,9 @@
 
   const els = {
     season: document.getElementById("season"),
+    episode: document.getElementById("episode"),
+    episodeField: document.getElementById("episode-field"),
+    controlsBar: document.querySelector(".controls-bar"),
     q: document.getElementById("q"),
     sort: document.getElementById("sort"),
     list: document.getElementById("list"),
@@ -62,6 +65,7 @@
   const PAGE_SIZE = 10;
   const THEMES_PER_PAGE = 3;
   let listPage = 1;
+  let pendingEpScroll = null;
 
   els.disclaimer.textContent =
     "👋 Fun family guide, not an official rating. Your kids — your rules!";
@@ -76,6 +80,104 @@
     opt.value = String(s);
     opt.textContent = (s === 0 || s === '0') ? 'Other / specials 🎬' : `Season ${s} 🎬`;
     els.season.appendChild(opt);
+  }
+
+  function epAnchorId(ep) {
+    const code = String(ep.code).replace(/[^A-Za-z0-9._-]+/g, "-");
+    return `ep-${code}`;
+  }
+
+  function episodesInSeason(season) {
+    return data.episodes
+      .filter((ep) => inSelectedSeason(ep, season))
+      .sort(
+        (a, b) =>
+          String(a.episode).localeCompare(String(b.episode), undefined, { numeric: true })
+      );
+  }
+
+  function episodeOptionLabel(ep) {
+    const epNum = String(ep.episode).replace(/^0+/, "") || ep.episode;
+    const title = cleanTitle(ep.title);
+    const short = title.length > 42 ? title.slice(0, 42).replace(/[ ,;:—-]+$/, "") + "…" : title;
+    return `E${epNum} · ${short}`;
+  }
+
+  function renderEpisodeSelect() {
+    if (!els.episode || !els.episodeField) return;
+    const season = els.season.value;
+    const showPicker = season !== "all";
+    els.episodeField.hidden = !showPicker;
+    els.controlsBar?.classList.toggle("has-episode", showPicker);
+    if (!showPicker) {
+      els.episode.innerHTML = '<option value="">Jump to episode…</option>';
+      els.episode.value = "";
+      return;
+    }
+    const eps = episodesInSeason(season);
+    els.episode.innerHTML =
+      '<option value="">Jump to episode…</option>' +
+      eps
+        .map(
+          (ep) =>
+            `<option value="${escapeHtml(epAnchorId(ep))}">${escapeHtml(episodeOptionLabel(ep))}</option>`
+        )
+        .join("");
+    els.episode.value = "";
+  }
+
+  function filteredList({ season, q, sortMode }) {
+    const conf = BUCKETS[bucket];
+    let filtered = data.episodes.filter((ep) => {
+      if (!inSelectedSeason(ep, season)) return false;
+      if (!conf.match(ep)) return false;
+      if (!matchesThemes(ep)) return false;
+      return matchesQuery(ep, q);
+    });
+    return sortEpisodes(filtered, sortMode);
+  }
+
+  function ensureEpisodeVisible(code) {
+    const ep = data.episodes.find((e) => epAnchorId(e) === code);
+    if (!ep) return null;
+    const season = els.season.value;
+    const q = els.q.value.trim().toLowerCase();
+    let sortMode = selectedThemes.size && els.sort.value === "air" ? "themes" : els.sort.value;
+    let list = filteredList({ season, q, sortMode });
+    if (!list.some((e) => epAnchorId(e) === code)) {
+      bucket = "all";
+      selectedThemes.clear();
+      els.q.value = "";
+      els.vibeBtns.forEach((b) => b.classList.toggle("is-active", b.dataset.bucket === "all"));
+      renderThemeChips();
+      sortMode = els.sort.value;
+      list = filteredList({ season, q: "", sortMode });
+    }
+    if (!list.some((e) => epAnchorId(e) === code)) return null;
+    const index = list.findIndex((e) => epAnchorId(e) === code);
+    listPage = Math.floor(index / PAGE_SIZE) + 1;
+    pendingEpScroll = code;
+    apply();
+    return ep;
+  }
+
+  function scrollToEpisodeAnchor(code) {
+    const target =
+      document.getElementById(code) ||
+      document.querySelector(`.ep-index-row#${CSS.escape(code)}`);
+    if (!target) return;
+    if (location.hash !== `#${code}`) {
+      history.replaceState(null, "", `#${code}`);
+    }
+    const top = target.getBoundingClientRect().top + window.scrollY - 24;
+    window.scrollTo({ top, behavior: "smooth" });
+    target.classList.add("ep-highlight");
+    window.setTimeout(() => target.classList.remove("ep-highlight"), 1400);
+  }
+
+  function jumpToEpisode(code) {
+    if (!code) return;
+    ensureEpisodeVisible(code);
   }
 
   function watchThemesOf(ep) {
@@ -419,7 +521,7 @@
       ? `<div class="card-still" aria-hidden="true"><img src="${escapeHtml(stillSrc)}" alt="" width="250" height="140" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></div>`
       : "";
     return `
-      <article class="card card-${bKey}${stillSrc ? " has-still" : ""}" style="animation-delay:${Math.min(i, 12) * 25}ms">
+      <article class="card card-${bKey}${stillSrc ? " has-still" : ""}" id="${escapeHtml(epAnchorId(ep))}" style="animation-delay:${Math.min(i, 12) * 25}ms">
         <a class="card-hit" href="${href}" aria-label="Open ${escapeHtml(cleanTitle(ep.title))}">
           <div class="card-top">
             ${still}
@@ -558,6 +660,12 @@
     document.querySelectorAll(".ep-index, .seo-copy").forEach((el) => {
       el.hidden = narrowed;
     });
+
+    if (pendingEpScroll) {
+      const code = pendingEpScroll;
+      pendingEpScroll = null;
+      requestAnimationFrame(() => scrollToEpisodeAnchor(code));
+    }
   }
 
   function pageWindow(current, pages) {
@@ -699,16 +807,44 @@
   for (const el of [els.season, els.q, els.sort]) {
     el.addEventListener("input", () => {
       if (el === els.season || el === els.q) renderThemeChips();
+      if (el === els.season) renderEpisodeSelect();
       apply({ resetPage: true });
     });
     el.addEventListener("change", () => {
       if (el === els.season || el === els.q) renderThemeChips();
+      if (el === els.season) renderEpisodeSelect();
       apply({ resetPage: true });
     });
   }
 
+  if (els.episode) {
+    els.episode.addEventListener("change", () => {
+      const code = els.episode.value;
+      if (code) jumpToEpisode(code);
+      els.episode.value = "";
+    });
+  }
+
+  window.addEventListener("hashchange", () => {
+    const hash = location.hash.replace(/^#/, "");
+    if (hash.startsWith("ep-")) jumpToEpisode(hash);
+  });
+
   setupReportFlow();
   renderThemeChips();
+  renderEpisodeSelect();
+
+  const initialHash = location.hash.replace(/^#/, "");
+  if (initialHash.startsWith("ep-")) {
+    const ep = data.episodes.find((e) => epAnchorId(e) === initialHash);
+    if (ep) {
+      els.season.value = seasonKey(ep.season);
+      renderEpisodeSelect();
+      renderThemeChips();
+      pendingEpScroll = initialHash;
+    }
+  }
+
   apply();
 
   function setupReportFlow() {
