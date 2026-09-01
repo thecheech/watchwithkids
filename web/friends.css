@@ -25,9 +25,45 @@
   --radius: 22px;
   --font: "Nunito", system-ui, sans-serif;
   --display: "Fredoka", "Nunito", sans-serif;
+  --focus-ring: 3px solid #6ec8ff;
+  --focus-ring-offset: 2px;
 }
 
 * { box-sizing: border-box; }
+
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  padding: 0.75rem 1.5rem;
+  background: var(--ink);
+  color: var(--paper);
+  text-decoration: none;
+  font-weight: 800;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: top 0.2s ease;
+}
+
+.skip-link:focus {
+  top: 0;
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-ring-offset);
+}
+
+*:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-ring-offset);
+  border-radius: 3px;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-ring-offset);
+}
 
 html {
   -webkit-text-size-adjust: 100%;
