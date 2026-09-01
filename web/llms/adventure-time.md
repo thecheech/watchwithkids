@@ -13,6 +13,91 @@ Watch for:
   - Finn picks up a serving platter and open the lid, revealing a Candy Person corpse.
   - Mr. Cream Puff's corpse starts to glow and overflow with the fizzing serum.
 
+## S1 E2 — Trouble in Lumpy Space
+URL: https://watchwiththekids.com/ep/adventure-time/0102.html
+Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Jake is bitten by Lumpy Space Princess and begins to transform into a Lumpy being. In order to find a cure, Finn is travels to Lumpy Space.
+Watch for:
+- Sex & hookups — 2 moment(s)
+  - Lumpy Space Princess: “It's up there at Makeout Point.”
+  - Finn: “That's so close! We can run there in no... [Camera pans up, revealing that Makeout Point is across an abyss.] ...time. Aww, what?!! It's, like, a million-mile fall into space!”
+- Violence & injury — 1 moment(s)
+  - Finn: “JAKE! IT'S ALMOST SUNSET!! [to himself:] Jake... I didn't save him... I... [Yells wildly and angrily and then punches the ground repeatedly.] I'LL KILL YOU, LUMPY SPAAAAAACE!!”
+- Alcohol & drugs — 1 moment(s)
+  - Princess Bubblegum: “[Intestines grumble] I should not have drunk that much tea! [Runs off]”
+
+## S1 E3 — Prisoners of Love
+URL: https://watchwiththekids.com/ep/adventure-time/0103.html
+Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: After the Ice King kidnaps a large group of princesses, its up to Finn and Jake to free them.
+Watch for:
+- Sex & hookups — 2 moment(s)
+  - Finn: “Wait, wait, no, I take it back. I mean, not like "sexy" hot.”
+  - Jake: “No, no, you do mean "sexy" hot.”
+- Nudity & bodies — 1 moment(s)
+  - In a dream Ice King is having, he is flying through space, naked and covered by his beard
+- Violence & injury — 3 moment(s)
+  - Ice King: “[Flips out] What?! I am the king! I am the king of c-cool c-co ca... That's it! Rise, monsters of snow, and go beat up Finn and Jake! [Uses magic to bring out snow monsters]”
+  - Ice King: “Wait, no! [Shoots ice lighting at Emerald Princess, but she avoids it] Don't leave! I'll kill you all! [Finn punches him and Ice King tries to push him away] Why are you doing this? Everyone was finally warming up to me.”
+  - Ice King: “[Finn punches him in the beard] Ohh!”
+
+## S1 E4 — Tree Trunks
+URL: https://watchwiththekids.com/ep/adventure-time/0104.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Tree Trunks joins Finn and Jake on an quest, but finds her talents for adventuring leave something to be desired.
+Watch for: nothing flagged.
+
+## S1 E5 — The Enchiridion!
+URL: https://watchwiththekids.com/ep/adventure-time/0105.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake go on a quest for the titular magical book that would prove them worthy of being righteous heroes. After passing through a series of trials and tribulations, Finn acquires the legendary book.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Finn punches the beast until it bursts, gushes blood, and its body falls to the ground
+  - Finn runs up and punches Key-per in the stomach
+
+## S1 E6 — The Jiggler
+URL: https://watchwiththekids.com/ep/adventure-time/0106.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: A strange creature attracted by Finn's auto-tuned singing voice follows the duo to their home and they keep him as a pet. Soon, however, the creature begins to show signs of sickness, and Finn and Jake realize the creature needs the love and attention of its mother. They then return it to its nest.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Finn: “We took this child away from its mama, Jake. We're kidnappers and murderers! I just wanted to have fun and jiggle!”
+
+## S1 E7 — Ricardio the Heart Guy
+URL: https://watchwiththekids.com/ep/adventure-time/0107.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn believes that Princess Bubblegum's new friend, a literal heart named Ricardio is evil and is proven right after learning that Ricardio is the heart of the Ice King. Ricardio reveals that he wants to "make out" with Bubblegum's heart, but he is defeated by Finn and Jake.
+Watch for:
+- Sex & hookups — 1 moment(s)
+  - Ricardio: “You were right all along, Finn! Now I'm going to cut out Princess Bubblegum's heart and make out with it!”
+- Violence & injury — 5 moment(s)
+  - Finn: “He's on the move! Let's roll! [The two swing onto a Guardian of the Royal Promise.] I see 'im. He's holding rope and going into the trash. He's smashing bottles—and pretending to stab someone!”
+  - Finn punches Ricardio, knocking him down. Princess Bubblegum enters.
+  - Princess Bubblegum: “Finn... you shouldn't punch brainiacs. You know how fragile they are! You gotta stop this jealous business.”
+  - Finn: “[Slapping hand away] Agh! Come on, Jake! [They run to the Candy Castle.] Gotta save the princess!”
+  - Finn punches him twice.
+
+## S1 E8 — Business Time
+URL: https://watchwiththekids.com/ep/adventure-time/0108.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Finn and Jake fall victim to their own laziness when they delegate their adventuring responsibilities to a group of businessmen they thawed from an iceberg. Eventually, the businessmen's efficiency causes them to become hazards to others, and they are refrozen into an iceberg.
+Watch for:
+- Fat-shaming — 1 moment(s)
+  - Jake: “Ahh. I'm so fat, dude; I don't know what to do.”
+
+## S1 E9 — My Two Favorite People
+URL: https://watchwiththekids.com/ep/adventure-time/0109.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Jake feels overwhelmed at not having enough time for Finn and his girlfriend, Lady Rainicorn, so he tries to get them to hang out more. Eventually, Finn and Lady Raincorn become closer than Jake is comfortable with, and he starts feeling jealous.
+Watch for:
+- Nudity & bodies — 1 moment(s)
+  - Lady Rainicorn: “What could it have been? Ah! Do you remember when we got completely naked, and frantically ran around in the farmer's cabbage patch?”
+- Violence & injury — 3 moment(s)
+  - Finn fends off a few and Jake grabs a bunch and punches them.
+  - Finn: “[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!”
+  - Finn: “[Finn punches Tiffany in the face while on top of him] Get out of my life Tiffany! And never come back [Punches him again]”
+
 ## S1 E10 — Memories of Boom Boom Mountain
 URL: https://watchwiththekids.com/ep/adventure-time/0110.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -114,19 +199,6 @@ Watch for:
   - They still pretend to fight until Jake actually punches Finn into a nearby rock.
   - Jake: “But wait, surely this cannot be the fair Princess Bubblegum! Where are her pink, flush cheeks? The long gooey hair? [Princess Bubblegum punches Jake to the ground.] Clearly, the princess travels elsewhere.”
 
-## S1 E2 — Trouble in Lumpy Space
-URL: https://watchwiththekids.com/ep/adventure-time/0102.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Jake is bitten by Lumpy Space Princess and begins to transform into a Lumpy being. In order to find a cure, Finn is travels to Lumpy Space.
-Watch for:
-- Sex & hookups — 2 moment(s)
-  - Lumpy Space Princess: “It's up there at Makeout Point.”
-  - Finn: “That's so close! We can run there in no... [Camera pans up, revealing that Makeout Point is across an abyss.] ...time. Aww, what?!! It's, like, a million-mile fall into space!”
-- Violence & injury — 1 moment(s)
-  - Finn: “JAKE! IT'S ALMOST SUNSET!! [to himself:] Jake... I didn't save him... I... [Yells wildly and angrily and then punches the ground repeatedly.] I'LL KILL YOU, LUMPY SPAAAAAACE!!”
-- Alcohol & drugs — 1 moment(s)
-  - Princess Bubblegum: “[Intestines grumble] I should not have drunk that much tea! [Runs off]”
-
 ## S1 E20 — Freak City
 URL: https://watchwiththekids.com/ep/adventure-time/0120.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
@@ -180,78 +252,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Finn: “I can't just beat up the Ice King for nothing. That's against my alignment.”
 
-## S1 E3 — Prisoners of Love
-URL: https://watchwiththekids.com/ep/adventure-time/0103.html
-Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: After the Ice King kidnaps a large group of princesses, its up to Finn and Jake to free them.
-Watch for:
-- Sex & hookups — 2 moment(s)
-  - Finn: “Wait, wait, no, I take it back. I mean, not like "sexy" hot.”
-  - Jake: “No, no, you do mean "sexy" hot.”
-- Nudity & bodies — 1 moment(s)
-  - In a dream Ice King is having, he is flying through space, naked and covered by his beard
-- Violence & injury — 3 moment(s)
-  - Ice King: “[Flips out] What?! I am the king! I am the king of c-cool c-co ca... That's it! Rise, monsters of snow, and go beat up Finn and Jake! [Uses magic to bring out snow monsters]”
-  - Ice King: “Wait, no! [Shoots ice lighting at Emerald Princess, but she avoids it] Don't leave! I'll kill you all! [Finn punches him and Ice King tries to push him away] Why are you doing this? Everyone was finally warming up to me.”
-  - Ice King: “[Finn punches him in the beard] Ohh!”
-
-## S1 E4 — Tree Trunks
-URL: https://watchwiththekids.com/ep/adventure-time/0104.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Tree Trunks joins Finn and Jake on an quest, but finds her talents for adventuring leave something to be desired.
-Watch for: nothing flagged.
-
-## S1 E5 — The Enchiridion!
-URL: https://watchwiththekids.com/ep/adventure-time/0105.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake go on a quest for the titular magical book that would prove them worthy of being righteous heroes. After passing through a series of trials and tribulations, Finn acquires the legendary book.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Finn punches the beast until it bursts, gushes blood, and its body falls to the ground
-  - Finn runs up and punches Key-per in the stomach
-
-## S1 E6 — The Jiggler
-URL: https://watchwiththekids.com/ep/adventure-time/0106.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: A strange creature attracted by Finn's auto-tuned singing voice follows the duo to their home and they keep him as a pet. Soon, however, the creature begins to show signs of sickness, and Finn and Jake realize the creature needs the love and attention of its mother. They then return it to its nest.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Finn: “We took this child away from its mama, Jake. We're kidnappers and murderers! I just wanted to have fun and jiggle!”
-
-## S1 E7 — Ricardio the Heart Guy
-URL: https://watchwiththekids.com/ep/adventure-time/0107.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn believes that Princess Bubblegum's new friend, a literal heart named Ricardio is evil and is proven right after learning that Ricardio is the heart of the Ice King. Ricardio reveals that he wants to "make out" with Bubblegum's heart, but he is defeated by Finn and Jake.
-Watch for:
-- Sex & hookups — 1 moment(s)
-  - Ricardio: “You were right all along, Finn! Now I'm going to cut out Princess Bubblegum's heart and make out with it!”
-- Violence & injury — 5 moment(s)
-  - Finn: “He's on the move! Let's roll! [The two swing onto a Guardian of the Royal Promise.] I see 'im. He's holding rope and going into the trash. He's smashing bottles—and pretending to stab someone!”
-  - Finn punches Ricardio, knocking him down. Princess Bubblegum enters.
-  - Princess Bubblegum: “Finn... you shouldn't punch brainiacs. You know how fragile they are! You gotta stop this jealous business.”
-  - Finn: “[Slapping hand away] Agh! Come on, Jake! [They run to the Candy Castle.] Gotta save the princess!”
-  - Finn punches him twice.
-
-## S1 E8 — Business Time
-URL: https://watchwiththekids.com/ep/adventure-time/0108.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Finn and Jake fall victim to their own laziness when they delegate their adventuring responsibilities to a group of businessmen they thawed from an iceberg. Eventually, the businessmen's efficiency causes them to become hazards to others, and they are refrozen into an iceberg.
-Watch for:
-- Fat-shaming — 1 moment(s)
-  - Jake: “Ahh. I'm so fat, dude; I don't know what to do.”
-
-## S1 E9 — My Two Favorite People
-URL: https://watchwiththekids.com/ep/adventure-time/0109.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Jake feels overwhelmed at not having enough time for Finn and his girlfriend, Lady Rainicorn, so he tries to get them to hang out more. Eventually, Finn and Lady Raincorn become closer than Jake is comfortable with, and he starts feeling jealous.
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - Lady Rainicorn: “What could it have been? Ah! Do you remember when we got completely naked, and frantically ran around in the farmer's cabbage patch?”
-- Violence & injury — 3 moment(s)
-  - Finn fends off a few and Jake grabs a bunch and punches them.
-  - Finn: “[Looks extremely startled] [gasps] [Finn growls and leaps towards Tiffany] Yaaaaaaahhh! [Tackles Tiffany out of view][They fight and Tiffany pulls out a knife, but Finn kicks it away] Home wrecker!”
-  - Finn: “[Finn punches Tiffany in the face while on top of him] Get out of my life Tiffany! And never come back [Punches him again]”
-
 ## S2 E1 — It Came from the Nightosphere
 URL: https://watchwiththekids.com/ep/adventure-time/0201.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
@@ -262,6 +262,106 @@ Watch for:
   - Finn stabs the Lord of Evil's soul sack with two swords making him scream in pain; the souls are released. Finn drops down and repeats the summoning process.
   - Marceline: “How could you embarrass me like that and then stab my dad?!”
   - Marceline: “Huh? Finn, you messed the beat up!”
+
+## S2 E2 — The Eyes
+URL: https://watchwiththekids.com/ep/adventure-time/0202.html
+Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: One night, an exhausted Finn and Jake are creeped out by an odd-looking horse that mysteriously appears outside the treehouse and keeps them awake. They try everything they can think of to get rid of the freaky horse, but nothing seems to work.
+Watch for:
+- Sex & hookups — 1 moment(s)
+  - Jake: “Not gonna be able to sleep with that horse watchin' me.”
+- Nudity & bodies — 2 moment(s)
+  - Jake: “[gasps] He was! Did you find out that I sleep "in the nude"?”
+  - Jake: “It's none of your business how nude I sleep, Ice King! Nnnnone of your business!”
+- Violence & injury — 1 moment(s)
+  - Jake punches Ice King and joins Wildberry Princess for a ride with Finn on Jake.
+
+## S2 E3 — Loyalty to the King
+URL: https://watchwiththekids.com/ep/adventure-time/0203.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: There's a new "Nice King" in Ooo, and he looks kinda like someone else we know.
+Watch for:
+- Violence & injury — 6 moment(s)
+  - Jake: “Tah ha, but we punch monsters.”
+  - Ice King: “After I choose my bride, then you can go punch the monsters.”
+  - Finn: “King, I'm sorry, I just can't do this anymore: punching princesses, breaking hearts, eh- it just doesn't seem nice at all.”
+  - Lumpy Space Princess: “Stop! We're not gonna let you beat up the Nice King.”
+  - Finn: “[Cringes] Jake, we can't beat up princesses!”
+  - Ice King: “They beat him up together.]”
+
+## S2 E4 — Blood Under the Skin
+URL: https://watchwiththekids.com/ep/adventure-time/0204.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn goes on an embarrassing quest to get armor to fit in with some really cool knights.
+Watch for:
+- Nudity & bodies — 1 moment(s)
+  - “Naked Old People”
+- Violence & injury — 4 moment(s)
+  - This article is a transcript of the Adventure Time episode "Blood Under the Skin" from season 2, which aired on November 1, 2010.
+  - Finn: “Hey guys! Check this out! Dude, hit me! [Jake punches Finn on the arm] Oww! [Holding his arm] On my armor!”
+  - Jake: “Oh. [Punches thimble]”
+  - Finn: “Never! Yaaaaaaah! [Finn runs up to the monster ghost, tries to punch him but goes through him]”
+
+## S2 E5 — Storytelling
+URL: https://watchwiththekids.com/ep/adventure-time/0205.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Jake becomes sick, the only thing that can cure him is a good story, so he asks Finn to go out and find one. The story must have excitement, romance, suspense and, of course, a happy ending. But when nothing interesting happens, Finn tries to make the story happen, accidentally turning the forest animals against each other... and him!
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Teenage Bear: “You never let me do anything! Grr! [he tries to smack his mom, then jumps at Finn, who Finn punches him to the ground]”
+  - Finn: “He kicks the rock] Awwwwww, I can't do it! I keep messing with folks, aaaaaaaahh!!! [punches a tree] Jake needs me, but I can't keep messing with folks, but Jake's really sick, but I can't but, but, but, but...uhhh!!!”
+
+## S2 E6 — Slow Love
+URL: https://watchwiththekids.com/ep/adventure-time/0206.html
+Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: A lonely snail lookin' for love literally crashes into the treehouse and asks Finn and Jake for help. Now our heroes must teach this snail how to get a girlfriend before he destroys their home!
+Watch for:
+- Sex & hookups — 2 moment(s)
+  - Finn: “Right! All right, man. We'll help you hook up as long as you”
+  - Jake: “I don't know why they have to make out so close to our house.”
+- Nudity & bodies — 2 moment(s)
+  - Snail Lady #4: Oh, my gosh! He's naked!
+  - Snorlock: “What? I'm naked? But I've never had a shell.”
+- Violence & injury — 1 moment(s)
+  - Finn: “[Preforms stabbing motions and flips] Yah! yah! yah! yah! Yaaaah! hyah!”
+
+## S2 E7 — Power Animal
+URL: https://watchwiththekids.com/ep/adventure-time/0207.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn is kidnapped by a group of gnomes, who want to harness his energy to take over the world. Only Jake can save his best friend... if he can just focus long enough to follow the obvious clues and rescue Finn.
+Watch for:
+- Sex & hookups — 1 moment(s)
+  - Gnome Ruler: “Congratulations. You fully charged the Alternator! Now it's time to power up the Plasma Ball... with sexy, fun dancing!”
+- Violence & injury — 4 moment(s)
+  - The stranger is shown outside of the treehouse. Finn is shown sleeping and then is kidnapped by the stranger. Scene shifts to the next morning; a rooster crows. Jake is sleeping and his gut punches him awake.
+  - Finn drops down and charges towards the Gnomes and punches them in another direction when just then Jake busts in and catches the Gnomes.
+  - Gnome Ruler: “Fire the shootey gun-ray!!”
+  - Jake: “HIGH-FIVE!! [Smashes gun]”
+
+## S2 E8 — Crystals Have Power
+URL: https://watchwiththekids.com/ep/adventure-time/0208.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Jake takes a vow of non-violence which is inconvenient when they're attacked by marauders from the crystal dimension.
+Watch for:
+- Sex & hookups — 2 moment(s)
+  - Tree Trunks: “[Her eyes glow and from her trunk, a beam zaps the guardians into dust, Finn and Jake gasp.] I wanted you, Finn, so you could be transformed into my sexy crystal king.”
+  - Tree Trunks: “Finn, it's not sexy for a king to call his queen bananas! [she unleashes a beam of light that turns the surroundings into dust, but Jake grabs Finn and runs for cover.]”
+- Violence & injury — 5 moment(s)
+  - Joshua: “[Appears to Jake again as a vision] Jake, Jake, come on punch them, Jake, punch everybody. Why not? Come on! Why not?!”
+  - Jake: “[Punches a crystal and puts his head against it] Stupid-ghost-dad! I'll show him! [calmly] Okay, intimidate them with controlled attack.”
+  - Jake: “[Morphed his body into a tall wall like appearance] [speaking a deep voice very slowly] open up! Feel my controlled attack! Whoooomp psssh [lightly punches guardian's face] Whoooomp psssh, Oooo oooh psssh.”
+  - Cue screen "4 minutes later."] [Jake is still lightly punching the guardian.
+  - Crystal Guardian #3: No, [slapping hand away] you freak!
+
+## S2 E9 — The Other Tarts
+URL: https://watchwiththekids.com/ep/adventure-time/0209.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake volunteer for a dangerous assignment: carrying rare tarts for a meeting of Ooo royalty.
+Watch for:
+- Violence & injury — 3 moment(s)
+  - Finn: “No, man, they are cold-blooded tart destroyers and we have to get them before they get us.”
+  - Bandit Butterfly: “Right the bazoobs now! [Pulls out his laser gun]”
+  - Jake: “Finn, he's got a laser gun!”
 
 ## S2 E10 — To Cut a Woman's Hair
 URL: https://watchwiththekids.com/ep/adventure-time/0210.html
@@ -362,19 +462,6 @@ Watch for:
   - Finn: “So nobody was murdered?”
   - Finn: “Hmm... We need hard [Punches fist] evidence!”
 
-## S2 E2 — The Eyes
-URL: https://watchwiththekids.com/ep/adventure-time/0202.html
-Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: One night, an exhausted Finn and Jake are creeped out by an odd-looking horse that mysteriously appears outside the treehouse and keeps them awake. They try everything they can think of to get rid of the freaky horse, but nothing seems to work.
-Watch for:
-- Sex & hookups — 1 moment(s)
-  - Jake: “Not gonna be able to sleep with that horse watchin' me.”
-- Nudity & bodies — 2 moment(s)
-  - Jake: “[gasps] He was! Did you find out that I sleep "in the nude"?”
-  - Jake: “It's none of your business how nude I sleep, Ice King! Nnnnone of your business!”
-- Violence & injury — 1 moment(s)
-  - Jake punches Ice King and joins Wildberry Princess for a ride with Finn on Jake.
-
 ## S2 E20 — Go With Me
 URL: https://watchwiththekids.com/ep/adventure-time/0220.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -448,92 +535,65 @@ Watch for:
   - Finn: “Uh... [He shrieks in horror as one of the ghosts puts a mouth on his head. Jake tries to punch the ghosts' mouths away, but one gets him from behind.] Georgy, what's wrong? Jake, what's happening?”
   - Finn: “It's okay. You're here now to beat up those ghosts and save us.”
 
-## S2 E3 — Loyalty to the King
-URL: https://watchwiththekids.com/ep/adventure-time/0203.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: There's a new "Nice King" in Ooo, and he looks kinda like someone else we know.
+## S3 E2 — Morituri Te Salutamus
+URL: https://watchwiththekids.com/ep/adventure-time/0302.html
+Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: The duo choose to partake in gladiatorial combat against the Fight King's ghost warriors, but Finn succumbs to blood-lust while Jake becomes obsessed in keeping a cool morale.
 Watch for:
-- Violence & injury — 6 moment(s)
-  - Jake: “Tah ha, but we punch monsters.”
-  - Ice King: “After I choose my bride, then you can go punch the monsters.”
-  - Finn: “King, I'm sorry, I just can't do this anymore: punching princesses, breaking hearts, eh- it just doesn't seem nice at all.”
-  - Lumpy Space Princess: “Stop! We're not gonna let you beat up the Nice King.”
-  - Finn: “[Cringes] Jake, we can't beat up princesses!”
-  - Ice King: “They beat him up together.]”
-
-## S2 E4 — Blood Under the Skin
-URL: https://watchwiththekids.com/ep/adventure-time/0204.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn goes on an embarrassing quest to get armor to fit in with some really cool knights.
-Watch for:
-- Nudity & bodies — 1 moment(s)
-  - “Naked Old People”
 - Violence & injury — 4 moment(s)
-  - This article is a transcript of the Adventure Time episode "Blood Under the Skin" from season 2, which aired on November 1, 2010.
-  - Finn: “Hey guys! Check this out! Dude, hit me! [Jake punches Finn on the arm] Oww! [Holding his arm] On my armor!”
-  - Jake: “Oh. [Punches thimble]”
-  - Finn: “Never! Yaaaaaaah! [Finn runs up to the monster ghost, tries to punch him but goes through him]”
+  - Fight King: “Then step forth beyond the Moonlight seal to bathe in blood and glory forever.”
+  - Finn: “[chuckles] I'mma beat you with your own thing. Give it up! [Finn slaps Hyperion's hand] Hah-hah! [Hyperion punches Finn in the face.] Ooomph!”
+  - Jake: “Yeah. I lives. Finn, come with me, man. [Finn suddenly turns around and throws a punch at Jake. Jake stretches back.] Whoa! Dude?”
+  - Finn: “This next take-down is for you, my king! Rahhh... [gets punched by Triumphus] Heh-heh-heh.”
 
-## S2 E5 — Storytelling
-URL: https://watchwiththekids.com/ep/adventure-time/0205.html
+## S3 E3 — Memory of a Memory
+URL: https://watchwiththekids.com/ep/adventure-time/0303.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Finn and Jake enter Marceline's mind to awaken her from a sleep spell she had cast on herself, without knowing that they are being tricked by a person from her past.
+Watch for: nothing flagged.
+
+## S3 E4 — Hitman
+URL: https://watchwiththekids.com/ep/adventure-time/0304.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: When Jake becomes sick, the only thing that can cure him is a good story, so he asks Finn to go out and find one. The story must have excitement, romance, suspense and, of course, a happy ending. But when nothing interesting happens, Finn tries to make the story happen, accidentally turning the forest animals against each other... and him!
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Teenage Bear: “You never let me do anything! Grr! [he tries to smack his mom, then jumps at Finn, who Finn punches him to the ground]”
-  - Finn: “He kicks the rock] Awwwwww, I can't do it! I keep messing with folks, aaaaaaaahh!!! [punches a tree] Jake needs me, but I can't keep messing with folks, but Jake's really sick, but I can't but, but, but, but...uhhh!!!”
-
-## S2 E6 — Slow Love
-URL: https://watchwiththekids.com/ep/adventure-time/0206.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: A lonely snail lookin' for love literally crashes into the treehouse and asks Finn and Jake for help. Now our heroes must teach this snail how to get a girlfriend before he destroys their home!
-Watch for:
-- Sex & hookups — 2 moment(s)
-  - Finn: “Right! All right, man. We'll help you hook up as long as you”
-  - Jake: “I don't know why they have to make out so close to our house.”
-- Nudity & bodies — 2 moment(s)
-  - Snail Lady #4: Oh, my gosh! He's naked!
-  - Snorlock: “What? I'm naked? But I've never had a shell.”
-- Violence & injury — 1 moment(s)
-  - Finn: “[Preforms stabbing motions and flips] Yah! yah! yah! yah! Yaaaah! hyah!”
-
-## S2 E7 — Power Animal
-URL: https://watchwiththekids.com/ep/adventure-time/0207.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn is kidnapped by a group of gnomes, who want to harness his energy to take over the world. Only Jake can save his best friend... if he can just focus long enough to follow the obvious clues and rescue Finn.
-Watch for:
-- Sex & hookups — 1 moment(s)
-  - Gnome Ruler: “Congratulations. You fully charged the Alternator! Now it's time to power up the Plasma Ball... with sexy, fun dancing!”
-- Violence & injury — 4 moment(s)
-  - The stranger is shown outside of the treehouse. Finn is shown sleeping and then is kidnapped by the stranger. Scene shifts to the next morning; a rooster crows. Jake is sleeping and his gut punches him awake.
-  - Finn drops down and charges towards the Gnomes and punches them in another direction when just then Jake busts in and catches the Gnomes.
-  - Gnome Ruler: “Fire the shootey gun-ray!!”
-  - Jake: “HIGH-FIVE!! [Smashes gun]”
-
-## S2 E8 — Crystals Have Power
-URL: https://watchwiththekids.com/ep/adventure-time/0208.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Jake takes a vow of non-violence which is inconvenient when they're attacked by marauders from the crystal dimension.
-Watch for:
-- Sex & hookups — 2 moment(s)
-  - Tree Trunks: “[Her eyes glow and from her trunk, a beam zaps the guardians into dust, Finn and Jake gasp.] I wanted you, Finn, so you could be transformed into my sexy crystal king.”
-  - Tree Trunks: “Finn, it's not sexy for a king to call his queen bananas! [she unleashes a beam of light that turns the surroundings into dust, but Jake grabs Finn and runs for cover.]”
-- Violence & injury — 5 moment(s)
-  - Joshua: “[Appears to Jake again as a vision] Jake, Jake, come on punch them, Jake, punch everybody. Why not? Come on! Why not?!”
-  - Jake: “[Punches a crystal and puts his head against it] Stupid-ghost-dad! I'll show him! [calmly] Okay, intimidate them with controlled attack.”
-  - Jake: “[Morphed his body into a tall wall like appearance] [speaking a deep voice very slowly] open up! Feel my controlled attack! Whoooomp psssh [lightly punches guardian's face] Whoooomp psssh, Oooo oooh psssh.”
-  - Cue screen "4 minutes later."] [Jake is still lightly punching the guardian.
-  - Crystal Guardian #3: No, [slapping hand away] you freak!
-
-## S2 E9 — The Other Tarts
-URL: https://watchwiththekids.com/ep/adventure-time/0209.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake volunteer for a dangerous assignment: carrying rare tarts for a meeting of Ooo royalty.
+Summary: The grounded Ice King hires a fire-manipulating hitman to hit Finn and Jake, without realizing the potentially deadly consequences.
 Watch for:
 - Violence & injury — 3 moment(s)
-  - Finn: “No, man, they are cold-blooded tart destroyers and we have to get them before they get us.”
-  - Bandit Butterfly: “Right the bazoobs now! [Pulls out his laser gun]”
-  - Jake: “Finn, he's got a laser gun!”
+  - Jake: “Awesome. [Finn and Jake knuckle-punch.]”
+  - Finn: “[while dreaming:] Punch, punch, punch!”
+  - Ice King: “[Ice King shows the Scorcher by punching him on the shoulder.] Are you even listening?”
+- Alcohol & drugs — 1 moment(s)
+  - Jake: “It's wasted, man.”
+
+## S3 E5 — Too Young
+URL: https://watchwiththekids.com/ep/adventure-time/0305.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: The Earl of Lemongrab takes over the Candy Kingdom due to Princess Bubblegum's age regression, forcing her and Finn to try and get rid of him even if it means a life-altering decision.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Instead of scaring him, Finn suddenly delivers a hard little punch to Lemongrab's tummy
+
+## S3 E6 — The Monster
+URL: https://watchwiththekids.com/ep/adventure-time/0306.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: The king and queen of Lumpy Space ask Finn and Jake to bring their daughter back home. At the same time, they attempt to stop a "monster" from destroying a village.
+Watch for:
+- Affairs / cheating — 2 moment(s)
+  - Lumpy Space Princess: “You guys! [floats over to the middle of the cave] TONY, JESSICA'S CHEATING ON YOU!”
+  - Lumpy Space Princess: “[slaps Jessica] No, Jessica! Don't cheat on Tony with me!”
+
+## S3 E7 — Still
+URL: https://watchwiththekids.com/ep/adventure-time/0307.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Ice King freezes Finn and Jake with a potion so he can force them to befriend him.
+Watch for: nothing flagged.
+
+## S3 E8 — Wizard Battle
+URL: https://watchwiththekids.com/ep/adventure-time/0308.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake enter a competition for wizards in disguise so they can prevent Ice King from winning the grand prize: a kiss from Princess Bubblegum.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Jake punches Cyclo and knocks him out and he lands on top of another knocked out wizard
 
 ## S3 E10 — What Was Missing
 URL: https://watchwiththekids.com/ep/adventure-time/0310.html
@@ -624,17 +684,6 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - BMO: “My alarm says it's time for Finn's bath. Finn, get naked.”
 
-## S3 E2 — Morituri Te Salutamus
-URL: https://watchwiththekids.com/ep/adventure-time/0302.html
-Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
-Summary: The duo choose to partake in gladiatorial combat against the Fight King's ghost warriors, but Finn succumbs to blood-lust while Jake becomes obsessed in keeping a cool morale.
-Watch for:
-- Violence & injury — 4 moment(s)
-  - Fight King: “Then step forth beyond the Moonlight seal to bathe in blood and glory forever.”
-  - Finn: “[chuckles] I'mma beat you with your own thing. Give it up! [Finn slaps Hyperion's hand] Hah-hah! [Hyperion punches Finn in the face.] Ooomph!”
-  - Jake: “Yeah. I lives. Finn, come with me, man. [Finn suddenly turns around and throws a punch at Jake. Jake stretches back.] Whoa! Dude?”
-  - Finn: “This next take-down is for you, my king! Rahhh... [gets punched by Triumphus] Heh-heh-heh.”
-
 ## S3 E20 — Holly Jolly Secrets Part II
 URL: https://watchwiththekids.com/ep/adventure-time/0320.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -698,59 +747,89 @@ Watch for:
   - Finn [on BMO's camera]: Gold-darn you, tear ducts! Yah! Yah! [punches himself in the eyes.]
   - Jake: “Ouw, Finn! [Fake Finn strangles Jake] Finn, Finn, Finn, Finn stop man....”
 
-## S3 E3 — Memory of a Memory
-URL: https://watchwiththekids.com/ep/adventure-time/0303.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Finn and Jake enter Marceline's mind to awaken her from a sleep spell she had cast on herself, without knowing that they are being tricked by a person from her past.
-Watch for: nothing flagged.
-
-## S3 E4 — Hitman
-URL: https://watchwiththekids.com/ep/adventure-time/0304.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: The grounded Ice King hires a fire-manipulating hitman to hit Finn and Jake, without realizing the potentially deadly consequences.
-Watch for:
-- Violence & injury — 3 moment(s)
-  - Jake: “Awesome. [Finn and Jake knuckle-punch.]”
-  - Finn: “[while dreaming:] Punch, punch, punch!”
-  - Ice King: “[Ice King shows the Scorcher by punching him on the shoulder.] Are you even listening?”
-- Alcohol & drugs — 1 moment(s)
-  - Jake: “It's wasted, man.”
-
-## S3 E5 — Too Young
-URL: https://watchwiththekids.com/ep/adventure-time/0305.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: The Earl of Lemongrab takes over the Candy Kingdom due to Princess Bubblegum's age regression, forcing her and Finn to try and get rid of him even if it means a life-altering decision.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Instead of scaring him, Finn suddenly delivers a hard little punch to Lemongrab's tummy
-
-## S3 E6 — The Monster
-URL: https://watchwiththekids.com/ep/adventure-time/0306.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: The king and queen of Lumpy Space ask Finn and Jake to bring their daughter back home. At the same time, they attempt to stop a "monster" from destroying a village.
-Watch for:
-- Affairs / cheating — 2 moment(s)
-  - Lumpy Space Princess: “You guys! [floats over to the middle of the cave] TONY, JESSICA'S CHEATING ON YOU!”
-  - Lumpy Space Princess: “[slaps Jessica] No, Jessica! Don't cheat on Tony with me!”
-
-## S3 E7 — Still
-URL: https://watchwiththekids.com/ep/adventure-time/0307.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Ice King freezes Finn and Jake with a potion so he can force them to befriend him.
-Watch for: nothing flagged.
-
-## S3 E8 — Wizard Battle
-URL: https://watchwiththekids.com/ep/adventure-time/0308.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake enter a competition for wizards in disguise so they can prevent Ice King from winning the grand prize: a kiss from Princess Bubblegum.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Jake punches Cyclo and knocks him out and he lands on top of another knocked out wizard
-
 ## S4 E1 — Hot to the Touch
 URL: https://watchwiththekids.com/ep/adventure-time/0401.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Refusing to believe that she is evil, Finn tries to win over his new crush, Flame Princess.
+Watch for: nothing flagged.
+
+## S4 E2 — Five Short Graybles
+URL: https://watchwiththekids.com/ep/adventure-time/0402.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Five short stories centered around a common theme: The five senses.
+Watch for: nothing flagged.
+
+## S4 E3 — Web Weirdos
+URL: https://watchwiththekids.com/ep/adventure-time/0403.html
+Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
+Summary: When Finn gets trapped in a giant spider web, he ends up playing marriage counselor to a couple of grumpy arachnids.
+Watch for:
+- Violence & injury — 3 moment(s)
+  - Ed is screaming as Barb beats him up in the background, Finn stops running
+  - Finn runs offscreen; scene shifts to Ed being beaten up by Barb
+  - Barb punches him a few times and hisses, then crawls over to his body and prepares to bite his head as he doesn't fight back. She is then hit by a tree and the scene shows it was Finn swinging it like a bat
+- Swearing — 2 moment(s)
+  - Dick Grunert Patrick McHale Kent Osborne Pendleton Ward
+  - Ed: “Ugh, yeah. It's not working. My way sucks.”
+
+## S4 E4 — Dream of Love
+URL: https://watchwiththekids.com/ep/adventure-time/0404.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Tree Trunks is courted by an oinking suitor, but much to everyone's dismay, their public displays of affection interfere with everyone's normal lives.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Tree Trunks walks over and begins to punch the dough and begins to sing "Dream of Love."
+
+## S4 E5 — Return to the Nightosphere
+URL: https://watchwiththekids.com/ep/adventure-time/0405.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake find themselves imprisoned in the dark realm of the Nightosphere with no memory of how they came to be there.
+Watch for:
+- Violence & injury — 3 moment(s)
+  - Abadeer tries to suck his soul, but Finn stabs him in the head. Black goo starts to squirt out.
+  - Jake: “I think it's like sentient blood mist.”
+  - Finn: “[takes out his sword and goes on top of a rock] Hey, bloodmist cloud! What happened to us? Why can't we remember any—? Oh, it's gone.”
+- Fat-shaming — 1 moment(s)
+  - Boat Demon: “Scooch over, fatty.”
+
+## S4 E6 — Daddy's Little Monster
+URL: https://watchwiththekids.com/ep/adventure-time/0406.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Continuing their mysterious quest in the Nightosphere, Finn and Jake must rescue their friend Marceline the Vampire Queen.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Hunson: “[Shrinks down and turns into his non-monster state] Now Finn, come on, there's no bad blood here! [Moves around awkwardly] Come here, let's bury the hatchet! [Hugs Finn] See how I'm not killing you?”
+  - Finn: “Jake, grab the amulet! [Marceline punches him into Jake]”
+- Swearing — 3 moment(s)
+  - Demon: “He starts to burp.] Aw, my stomach! [Cocks head to the side and bananas come out of both ears.]”
+  - Hunson: “[Begins to walk away but remembers something] Oh! I almost forgot! [Takes off the Nightosphere amulet and it sucks his suit into it, he is now wearing underpants and an undershirt.]”
+  - Marceline: “Dad, you tricked me. [Hunson looks at her innocently] Dad, that sucks!”
+
+## S4 E7 — In Your Footsteps
+URL: https://watchwiththekids.com/ep/adventure-time/0407.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: A bear befriends Finn and Jake, but what are his true intentions?
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Finn: “Check it out, Jake! I got us some peanuts. And punch! [Throws a punch while saying "punch"]”
+
+## S4 E8 — Hug Wolf
+URL: https://watchwiththekids.com/ep/adventure-time/0408.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: After an encounter with a Hug Wolf, Finn goes through a Jekyll and Hyde-like transformation, becoming a hug wolf himself.
+Watch for:
+- Violence & injury — 4 moment(s)
+  - The Gumdrop Dad bursts in holding a Candy cane shotgun.
+  - Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
+  - The Alpha Hug Wolf suddenly lunges out and Finn and Jake gasp. She lands next to the duo and punches Finn rather softly.
+  - Jake stretches his arms and repeatedly punches the ‎Alpha Hug Wolf
+- Swearing — 1 moment(s)
+  - Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
+
+## S4 E9 — Princess Monster Wife
+URL: https://watchwiththekids.com/ep/adventure-time/0409.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: When Ooo's princesses start losing body parts, Finn and Jake investigate.
 Watch for: nothing flagged.
 
 ## S4 E10 — Goliad
@@ -835,12 +914,6 @@ Watch for:
   - Princess Bubblegum: “Don't worry, Lady! [Prepares gun] Ball Blam Burglerber-ber!”
   - Ricardio: “Oh, my... How Valkyrian. Princess, you are absolu— [Princess Bubblegum punches him, while sweating and panting heavily.]”
 
-## S4 E2 — Five Short Graybles
-URL: https://watchwiththekids.com/ep/adventure-time/0402.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Five short stories centered around a common theme: The five senses.
-Watch for: nothing flagged.
-
 ## S4 E20 — You Made Me
 URL: https://watchwiththekids.com/ep/adventure-time/0420.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -916,79 +989,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - The Lich then attacks Billy, stabbing him in his heart as Billy tries to run.
 
-## S4 E3 — Web Weirdos
-URL: https://watchwiththekids.com/ep/adventure-time/0403.html
-Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
-Summary: When Finn gets trapped in a giant spider web, he ends up playing marriage counselor to a couple of grumpy arachnids.
-Watch for:
-- Violence & injury — 3 moment(s)
-  - Ed is screaming as Barb beats him up in the background, Finn stops running
-  - Finn runs offscreen; scene shifts to Ed being beaten up by Barb
-  - Barb punches him a few times and hisses, then crawls over to his body and prepares to bite his head as he doesn't fight back. She is then hit by a tree and the scene shows it was Finn swinging it like a bat
-- Swearing — 2 moment(s)
-  - Dick Grunert Patrick McHale Kent Osborne Pendleton Ward
-  - Ed: “Ugh, yeah. It's not working. My way sucks.”
-
-## S4 E4 — Dream of Love
-URL: https://watchwiththekids.com/ep/adventure-time/0404.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Tree Trunks is courted by an oinking suitor, but much to everyone's dismay, their public displays of affection interfere with everyone's normal lives.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Tree Trunks walks over and begins to punch the dough and begins to sing "Dream of Love."
-
-## S4 E5 — Return to the Nightosphere
-URL: https://watchwiththekids.com/ep/adventure-time/0405.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake find themselves imprisoned in the dark realm of the Nightosphere with no memory of how they came to be there.
-Watch for:
-- Violence & injury — 3 moment(s)
-  - Abadeer tries to suck his soul, but Finn stabs him in the head. Black goo starts to squirt out.
-  - Jake: “I think it's like sentient blood mist.”
-  - Finn: “[takes out his sword and goes on top of a rock] Hey, bloodmist cloud! What happened to us? Why can't we remember any—? Oh, it's gone.”
-- Fat-shaming — 1 moment(s)
-  - Boat Demon: “Scooch over, fatty.”
-
-## S4 E6 — Daddy's Little Monster
-URL: https://watchwiththekids.com/ep/adventure-time/0406.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Continuing their mysterious quest in the Nightosphere, Finn and Jake must rescue their friend Marceline the Vampire Queen.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Hunson: “[Shrinks down and turns into his non-monster state] Now Finn, come on, there's no bad blood here! [Moves around awkwardly] Come here, let's bury the hatchet! [Hugs Finn] See how I'm not killing you?”
-  - Finn: “Jake, grab the amulet! [Marceline punches him into Jake]”
-- Swearing — 3 moment(s)
-  - Demon: “He starts to burp.] Aw, my stomach! [Cocks head to the side and bananas come out of both ears.]”
-  - Hunson: “[Begins to walk away but remembers something] Oh! I almost forgot! [Takes off the Nightosphere amulet and it sucks his suit into it, he is now wearing underpants and an undershirt.]”
-  - Marceline: “Dad, you tricked me. [Hunson looks at her innocently] Dad, that sucks!”
-
-## S4 E7 — In Your Footsteps
-URL: https://watchwiththekids.com/ep/adventure-time/0407.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: A bear befriends Finn and Jake, but what are his true intentions?
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Finn: “Check it out, Jake! I got us some peanuts. And punch! [Throws a punch while saying "punch"]”
-
-## S4 E8 — Hug Wolf
-URL: https://watchwiththekids.com/ep/adventure-time/0408.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: After an encounter with a Hug Wolf, Finn goes through a Jekyll and Hyde-like transformation, becoming a hug wolf himself.
-Watch for:
-- Violence & injury — 4 moment(s)
-  - The Gumdrop Dad bursts in holding a Candy cane shotgun.
-  - Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
-  - The Alpha Hug Wolf suddenly lunges out and Finn and Jake gasp. She lands next to the duo and punches Finn rather softly.
-  - Jake stretches his arms and repeatedly punches the ‎Alpha Hug Wolf
-- Swearing — 1 moment(s)
-  - Gumdrop dad: “Get away from my daughter, ya hairy teenager! [Mimicking the sound a shotgun makes when one cocks it] Ch-ch... [Mimics a gunshot noise and shoots the teenager's mirror.]”
-
-## S4 E9 — Princess Monster Wife
-URL: https://watchwiththekids.com/ep/adventure-time/0409.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: When Ooo's princesses start losing body parts, Finn and Jake investigate.
-Watch for: nothing flagged.
-
 ## S5 E1 — Finn the Human
 URL: https://watchwiththekids.com/ep/adventure-time/0501.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -999,6 +999,65 @@ Watch for:
   - Farmworld Marceline: “I'm sorry. You must DIEEEE! [A laser beam is fired from the gun]”
 - Swearing — 1 moment(s)
   - Farmworld Marceline: “[She comes out from behind the missile and cocks her gun] Hold it right there!”
+
+## S5 E2 — Jake the Dog
+URL: https://watchwiththekids.com/ep/adventure-time/0502.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Jake continues to watch the consequences of Finn's wish within the Time Room with Prismo. As the situation gets worse in the world of Finn's wish, Prismo tries to help Jake make the right wish to save both Finn and the entire world.
+Watch for: nothing flagged.
+
+## S5 E3 — Five More Short Graybles
+URL: https://watchwiththekids.com/ep/adventure-time/0503.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Finn and Jake stick their thumbs in everything; Marceline tries to find her way to Wizard Bill's Music Shop; Ice King gets a new bride.
+Watch for: nothing flagged.
+
+## S5 E4 — Up a Tree
+URL: https://watchwiththekids.com/ep/adventure-time/0504.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Finn and Jake are playing catch when Finn accidentally tosses their throwing disc into a gigantic tree.
+Watch for: nothing flagged.
+
+## S5 E5 — All the Little People
+URL: https://watchwiththekids.com/ep/adventure-time/0505.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Magic Man secretly slips Finn a bag filled with miniature versions of Finn and all his friends.
+Watch for:
+- Alcohol & drugs — 1 moment(s)
+  - Jake: “[stirring the noodles] Who’s in the C-list? [Adds something, possibly wine, from a bottle, then dumps some spaghetti onto each plate]”
+
+## S5 E6 — Jake the Dad
+URL: https://watchwiththekids.com/ep/adventure-time/0506.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Jake's a daddy, but being a father and keeping his rainicorn pups from killing themselves or each other is a lot harder than he imagined.
+Watch for: nothing flagged.
+
+## S5 E7 — Davey
+URL: https://watchwiththekids.com/ep/adventure-time/0507.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Finn can't go anywhere without folks stopping to thank him for being a hero.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Candy Person #1: [Punches Randy in the face] BOOM!
+
+## S5 E8 — Mystery Dungeon
+URL: https://watchwiththekids.com/ep/adventure-time/0508.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Ice King, NEPTR, Tree Trunks, Shelby and Lemongrab are trapped inside a mysterious dungeon and must work together to free themselves.
+Watch for:
+- Violence & injury — 3 moment(s)
+  - The scene cuts to Tree Trunks holding a knife in her mouth, being tied around her stomach with the bottom half of Ice King's robe.
+  - A knife pokes through from the inside, creates a line and Tree Trunks pops her head out of the fish's body.
+  - They all exit the room, a wall closing the door from the top of the frame. The Ice King looks around in the room they entered, and is slapped by a maroon tentacle.
+
+## S5 E9 — All Your Fault
+URL: https://watchwiththekids.com/ep/adventure-time/0509.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Princess Bubblegum sends Finn and Jake to investigate a message of distress from the Earls of Lemongrab.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Jake: “Ah, stop, man! You're just makin' it worse! [makes fist huge] Let's just get this over with. [punches down door]”
+  - Finn: “[grunting and punching the heart]”
 
 ## S5 E10 — Little Dude
 URL: https://watchwiththekids.com/ep/adventure-time/0510.html
@@ -1088,12 +1147,6 @@ Watch for:
   - Jake: “[Carrying Finn he runs and dodges another dragging arm attack.] Dang, this is real! [He stops as he sees another attack, but both are pounded into the ground with one punch.]”
   - Finn: “[Sees the ghost getting ready to punch them again and puts his arms up.] Don't worry, Jake, I'll block this one!”
 
-## S5 E2 — Jake the Dog
-URL: https://watchwiththekids.com/ep/adventure-time/0502.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Jake continues to watch the consequences of Finn's wish within the Time Room with Prismo. As the situation gets worse in the world of Finn's wish, Prismo tries to help Jake make the right wish to save both Finn and the entire world.
-Watch for: nothing flagged.
-
 ## S5 E20 — Shh!
 URL: https://watchwiththekids.com/ep/adventure-time/0520.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -1178,12 +1231,6 @@ Watch for:
   - Finn: “[Punches his palm]”
   - Princess Bubblegum: “Now make a fist with your brain and punch against sleepy times, saying, "No! NOOO! NOOOOO! Don't go on gentle into that good night."”
   - Scene cuts to Marceline still fighting the Crabbit. She punches it and it falls to the ground.
-
-## S5 E3 — Five More Short Graybles
-URL: https://watchwiththekids.com/ep/adventure-time/0503.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Finn and Jake stick their thumbs in everything; Marceline tries to find her way to Wizard Bill's Music Shop; Ice King gets a new bride.
-Watch for: nothing flagged.
 
 ## S5 E30 — Frost & Fire
 URL: https://watchwiththekids.com/ep/adventure-time/0530.html
@@ -1274,12 +1321,6 @@ Summary: Finn finds an old truck, and Jake calls Banana Man to help with the rep
 Watch for:
 - Violence & injury — 1 moment(s)
   - Finn: “[turns the car around] Punch it, 'Nana Man!”
-
-## S5 E4 — Up a Tree
-URL: https://watchwiththekids.com/ep/adventure-time/0504.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Finn and Jake are playing catch when Finn accidentally tosses their throwing disc into a gigantic tree.
-Watch for: nothing flagged.
 
 ## S5 E40 — Play Date
 URL: https://watchwiththekids.com/ep/adventure-time/0540.html
@@ -1375,14 +1416,6 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - Lumpy Space Princess: “[lights Molotov cocktail and throws it through a window] Rah!”
 
-## S5 E5 — All the Little People
-URL: https://watchwiththekids.com/ep/adventure-time/0505.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Magic Man secretly slips Finn a bag filled with miniature versions of Finn and all his friends.
-Watch for:
-- Alcohol & drugs — 1 moment(s)
-  - Jake: “[stirring the noodles] Who’s in the C-list? [Adds something, possibly wine, from a bottle, then dumps some spaghetti onto each plate]”
-
 ## S5 E52 — Billy's Bucket List
 URL: https://watchwiththekids.com/ep/adventure-time/0552.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -1392,39 +1425,6 @@ Watch for:
   - Billy grabs the monster by the face and throws him upward. He jumps up after it, punches it away, then lands with a thud.
   - A giant reptilian monster snaps its teeth at them as they ride past. It chases them, brandishing short swords. It lunges at Canyon, but she ducks under it and punches it away.
 
-## S5 E6 — Jake the Dad
-URL: https://watchwiththekids.com/ep/adventure-time/0506.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Jake's a daddy, but being a father and keeping his rainicorn pups from killing themselves or each other is a lot harder than he imagined.
-Watch for: nothing flagged.
-
-## S5 E7 — Davey
-URL: https://watchwiththekids.com/ep/adventure-time/0507.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Finn can't go anywhere without folks stopping to thank him for being a hero.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Candy Person #1: [Punches Randy in the face] BOOM!
-
-## S5 E8 — Mystery Dungeon
-URL: https://watchwiththekids.com/ep/adventure-time/0508.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Ice King, NEPTR, Tree Trunks, Shelby and Lemongrab are trapped inside a mysterious dungeon and must work together to free themselves.
-Watch for:
-- Violence & injury — 3 moment(s)
-  - The scene cuts to Tree Trunks holding a knife in her mouth, being tied around her stomach with the bottom half of Ice King's robe.
-  - A knife pokes through from the inside, creates a line and Tree Trunks pops her head out of the fish's body.
-  - They all exit the room, a wall closing the door from the top of the frame. The Ice King looks around in the room they entered, and is slapped by a maroon tentacle.
-
-## S5 E9 — All Your Fault
-URL: https://watchwiththekids.com/ep/adventure-time/0509.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Princess Bubblegum sends Finn and Jake to investigate a message of distress from the Earls of Lemongrab.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Jake: “Ah, stop, man! You're just makin' it worse! [makes fist huge] Let's just get this over with. [punches down door]”
-  - Finn: “[grunting and punching the heart]”
-
 ## S6 E1 — Wake Up
 URL: https://watchwiththekids.com/ep/adventure-time/0601.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -1432,6 +1432,80 @@ Summary: In order to find Finn's father, Finn and Jame must commit a cosmic crim
 Watch for:
 - Violence & injury — 1 moment(s)
   - The cosmic crime—murdering a Wishmaster—committed, a space hole materializes like a television flickering on in the Time room…
+
+## S6 E2 — Escape from the Citadel
+URL: https://watchwiththekids.com/ep/adventure-time/0602.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake follow the Lich of the Citadel, where Finn meets his long lost dad. But just how far does the apple fall from the tree?
+Watch for:
+- Violence & injury — 3 moment(s)
+  - Martin: “It's-- It's okay. It's okay. [Finn continues then stops.] You just gotta fetch me a gob of that guardian blood, son. It's got that good nooch that keeps us young in the crystal.”
+  - As the Lich talks, He walks over to Finn and Finn is trying to attack. Weakly, he gets his sword out and falls over while groaning. He falls in the guardian blood.
+  - Finn: “[He groans while slapping his head across his face, then gets up from the floor.] Jeez, man!”
+
+## S6 E3 — James II
+URL: https://watchwiththekids.com/ep/adventure-time/0603.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake discover that Clone James has been faking his own death to collect medals. But there are 25 Jameses running amok!
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Finn: “Heeyah![he attempts stabbing one of the goo monsters with a spear, but the spear melts on contact]Aww!”
+
+## S6 E4 — The Tower
+URL: https://watchwiththekids.com/ep/adventure-time/0604.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn doesn't like any of the new arms the princesses give him, so he builts a tower into space to find his dad and get his old arm back.
+Watch for:
+- Violence & injury — 4 moment(s)
+  - Finn: “[starts thinking] My melon wants to punch my dad in the face and steal his arm.”
+  - Jake: “[Jake reads the note] Jake, I'm going to space to punch my dad and steal his arm. Back Soon -Finn [End of note] Wow, what the he?”
+  - Carroll: “[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.”
+  - Finn: “[Finn punches Martin with his telekinetic arm and it grows huge and spiked.] Gotcha! Ha, ha, hee, hee, hee, hee. [He starts to tug at Martin's arm.] Give, give it. Give me the... give me give it. Give me the...”
+
+## S6 E5 — Sad Face
+URL: https://watchwiththekids.com/ep/adventure-time/0605.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Once a month, while Jake's asleep, his tail stretches out of the treehouse to go work as a clown in a travelling bug circus.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Ringmaster: “Oho! You were great, kid! That's what I'm talking about. With you and the chipmunk in the show, we're gonna have a real one-two punch!”
+
+## S6 E6 — Breezy
+URL: https://watchwiththekids.com/ep/adventure-time/0606.html
+Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: With a friendly bee named "Breezy" as his wingman, Finn decides to get back into the dating game.
+Watch for:
+- Sex & hookups — 3 moment(s)
+  - Breezy: “Get this—I'm actually a virgin queen bee.”
+  - Finn: “It's cool. Guess I'll go make out with Crab Princess.”
+  - Finn: “Ah, well, I came here to make out with Crab Princess, but I sort of lost steam on the walk over.”
+- Violence & injury — 2 moment(s)
+  - Bee Person: “You're about to get waggle-danced, you chicken! [Finn punches the Bee Person.] Unh!”
+  - Finn punches the other bees. Some of the bees sting Finn.
+
+## S6 E7 — Food Chain
+URL: https://watchwiththekids.com/ep/adventure-time/0607.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: On a field trip to the Candy Kingdom Museum of Natural History, Finn and Jake learn about the Food chain by becoming the food chain!
+Watch for: nothing flagged.
+
+## S6 E8 — Furniture & Meat
+URL: https://watchwiththekids.com/ep/adventure-time/0608.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake cause problems in the Wildberry Kingdom when they decide to spend all their collected treasure and get themselves into more and more problems.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Hobo: “Give us that money! [punches Finn]”
+  - Finn: “I-I-I don't want any trouble. [punches a hobo] I'm trying to help you.”
+
+## S6 E9 — The Prince Who Wanted Everything
+URL: https://watchwiththekids.com/ep/adventure-time/0609.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: The beautiful and sensitive Lumpy Space Prince flees his cruel parents to start a new life.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Fionna punches in an incoming squirrel and a bird as she runs. She summons her sword, does a front flip, and strikes the chains linking Turtle Prince and Marshall Lee together.
+  - The next scene shows Fionna and Cake practicing their combat skills outside the Tree Fort; Fionna swaying her sword, and Cake punching and kicking in the air. Lumpy Space Prince observes closely
 
 ## S6 E10 — Something Big
 URL: https://watchwiththekids.com/ep/adventure-time/0610.html
@@ -1513,16 +1587,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Jake: “Uh, because Kee-Oth was right there! A-and there were traps! I didn't have no blood this whole time, so I'm totally out of it. Uuuuuhhh... [faints]”
 
-## S6 E2 — Escape from the Citadel
-URL: https://watchwiththekids.com/ep/adventure-time/0602.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake follow the Lich of the Citadel, where Finn meets his long lost dad. But just how far does the apple fall from the tree?
-Watch for:
-- Violence & injury — 3 moment(s)
-  - Martin: “It's-- It's okay. It's okay. [Finn continues then stops.] You just gotta fetch me a gob of that guardian blood, son. It's got that good nooch that keeps us young in the crystal.”
-  - As the Lich talks, He walks over to Finn and Finn is trying to attack. Weakly, he gets his sword out and falls over while groaning. He falls in the guardian blood.
-  - Finn: “[He groans while slapping his head across his face, then gets up from the floor.] Jeez, man!”
-
 ## S6 E20 — Jake The Brick
 URL: https://watchwiththekids.com/ep/adventure-time/0620.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -1583,14 +1647,6 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - Susan punches her drone, and the three set foot in the tunnel.
   - Susan: “Susan will find other way. Hmm? [taps foot on rug] Hmm... [punches through the floor and drops down, finding workers preparing Super Porp]”
-
-## S6 E3 — James II
-URL: https://watchwiththekids.com/ep/adventure-time/0603.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake discover that Clone James has been faking his own death to collect medals. But there are 25 Jameses running amok!
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Finn: “Heeyah![he attempts stabbing one of the goo monsters with a spear, but the spear melts on contact]Aww!”
 
 ## S6 E30 — The Diary
 URL: https://watchwiththekids.com/ep/adventure-time/0630.html
@@ -1662,17 +1718,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: A fed up Lumpy Space Princess leaves the woods for a glamorous career in babysitting.
 Watch for: nothing flagged.
 
-## S6 E4 — The Tower
-URL: https://watchwiththekids.com/ep/adventure-time/0604.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn doesn't like any of the new arms the princesses give him, so he builts a tower into space to find his dad and get his old arm back.
-Watch for:
-- Violence & injury — 4 moment(s)
-  - Finn: “[starts thinking] My melon wants to punch my dad in the face and steal his arm.”
-  - Jake: “[Jake reads the note] Jake, I'm going to space to punch my dad and steal his arm. Back Soon -Finn [End of note] Wow, what the he?”
-  - Carroll: “[She is a cloud person who's home Finn has invaded. She holds a cloud gun at Finn.] Get out of my house or I'm going to face blaaaast you.”
-  - Finn: “[Finn punches Martin with his telekinetic arm and it grows huge and spiked.] Gotcha! Ha, ha, hee, hee, hee, hee. [He starts to tug at Martin's arm.] Give, give it. Give me the... give me give it. Give me the...”
-
 ## S6 E40 — Orgalorg
 URL: https://watchwiththekids.com/ep/adventure-time/0640.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -1709,50 +1754,46 @@ Watch for:
   - Finn opens his eyes and sees tendrils snaking out of the walls of Orgalorg's insides and stabbing the comet, sucking up its power.
   - Two tendrils stab into Finn's right arm to absorb the power of the Grass Sword.
 
-## S6 E5 — Sad Face
-URL: https://watchwiththekids.com/ep/adventure-time/0605.html
+## S7 E2 — Varmints
+URL: https://watchwiththekids.com/ep/adventure-time/0702.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Once a month, while Jake's asleep, his tail stretches out of the treehouse to go work as a clown in a travelling bug circus.
+Summary: When something threatens her homestead's citizens, Bubblegum turns to Marceline for help.
+Watch for:
+- Violence & injury — 3 moment(s)
+  - Marceline: “Knock, knock. Yo, Peebs, you want to make a midnight Squeez-E-Mart run? I'm gonna drink the red from out the customers' bloodshot eyes. [chuckles] Psych. I'll probably just get a slushie.”
+  - Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
+  - Princess Bubblegum: “Long as it takes. [shotgun cocks]”
+- Swearing — 2 moment(s)
+  - Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
+  - Princess Bubblegum: “Long as it takes. [shotgun cocks]”
+- Alcohol & drugs — 1 moment(s)
+  - Marceline: “They had these, like, shrimp cocktail dealies.”
+
+## S7 E3 — Cherry Cream Soda
+URL: https://watchwiththekids.com/ep/adventure-time/0703.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Cherry Cream Soda's life falls flat with the arrival of a visitor.
+Watch for:
+- Alcohol & drugs — 2 moment(s)
+  - “Dirt Beer Guy”
+  - Cherry Cream Soda seeing Dirt Beer Guy, who had disappeared by the window. He then walk to the door.
+
+## S7 E4 — Mama Said
+URL: https://watchwiththekids.com/ep/adventure-time/0704.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Finn and Jake's loyalty is questioned when King of Ooo sends the duo on a mission to catch flying mushrooms.
 Watch for:
 - Violence & injury — 1 moment(s)
-  - Ringmaster: “Oho! You were great, kid! That's what I'm talking about. With you and the chipmunk in the show, we're gonna have a real one-two punch!”
+  - The episode begins with King of Ooo showing Finn and Jake a surveillance video (while they sit on tiny stools) of a flying mushroom shot in the Candy Kingdom
+- Alcohol & drugs — 2 moment(s)
+  - Finn Jake Canyon King of Ooo Banana Guards Dirt Beer Guy
+  - King Of Ooo: “I wanna ride it around instead of walking. I think people will respect me more. [Dirt Beer Guy walks by in background] Hey. Hey, you, what's your name?”
 
-## S6 E6 — Breezy
-URL: https://watchwiththekids.com/ep/adventure-time/0606.html
-Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: With a friendly bee named "Breezy" as his wingman, Finn decides to get back into the dating game.
-Watch for:
-- Sex & hookups — 3 moment(s)
-  - Breezy: “Get this—I'm actually a virgin queen bee.”
-  - Finn: “It's cool. Guess I'll go make out with Crab Princess.”
-  - Finn: “Ah, well, I came here to make out with Crab Princess, but I sort of lost steam on the walk over.”
-- Violence & injury — 2 moment(s)
-  - Bee Person: “You're about to get waggle-danced, you chicken! [Finn punches the Bee Person.] Unh!”
-  - Finn punches the other bees. Some of the bees sting Finn.
-
-## S6 E7 — Food Chain
-URL: https://watchwiththekids.com/ep/adventure-time/0607.html
+## S7 E5 — Football
+URL: https://watchwiththekids.com/ep/adventure-time/0705.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: On a field trip to the Candy Kingdom Museum of Natural History, Finn and Jake learn about the Food chain by becoming the food chain!
+Summary: BMO and Football make a deal but one them can't hold their end of the bargain.
 Watch for: nothing flagged.
-
-## S6 E8 — Furniture & Meat
-URL: https://watchwiththekids.com/ep/adventure-time/0608.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake cause problems in the Wildberry Kingdom when they decide to spend all their collected treasure and get themselves into more and more problems.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Hobo: “Give us that money! [punches Finn]”
-  - Finn: “I-I-I don't want any trouble. [punches a hobo] I'm trying to help you.”
-
-## S6 E9 — The Prince Who Wanted Everything
-URL: https://watchwiththekids.com/ep/adventure-time/0609.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: The beautiful and sensitive Lumpy Space Prince flees his cruel parents to start a new life.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Fionna punches in an incoming squirrel and a bird as she runs. She summons her sword, does a front flip, and strikes the chains linking Turtle Prince and Marshall Lee together.
-  - The next scene shows Fionna and Cake practicing their combat skills outside the Tree Fort; Fionna swaying her sword, and Cake punching and kicking in the air. Lumpy Space Prince observes closely
 
 ## S7 E15 — Summer Showers
 URL: https://watchwiththekids.com/ep/adventure-time/0715.html
@@ -1790,21 +1831,6 @@ Summary: Finn, LSP and BMO build a bunk to protect themselves from a storm; Jake
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - BMO: “…into BMO screen face is messed up.] Whoops! [He laughs as well.] I will never know the pleasures of skinny dipping.”
-
-## S7 E2 — Varmints
-URL: https://watchwiththekids.com/ep/adventure-time/0702.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: When something threatens her homestead's citizens, Bubblegum turns to Marceline for help.
-Watch for:
-- Violence & injury — 3 moment(s)
-  - Marceline: “Knock, knock. Yo, Peebs, you want to make a midnight Squeez-E-Mart run? I'm gonna drink the red from out the customers' bloodshot eyes. [chuckles] Psych. I'll probably just get a slushie.”
-  - Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
-  - Princess Bubblegum: “Long as it takes. [shotgun cocks]”
-- Swearing — 2 moment(s)
-  - Peppermint Butler: “[shotgun cocks] Be cool, Marceline. Let's all be real cool.”
-  - Princess Bubblegum: “Long as it takes. [shotgun cocks]”
-- Alcohol & drugs — 1 moment(s)
-  - Marceline: “They had these, like, shrimp cocktail dealies.”
 
 ## S7 E21 — Scamps
 URL: https://watchwiththekids.com/ep/adventure-time/0721.html
@@ -1862,15 +1888,6 @@ Watch for:
   - Finn: “I don’t know. It kind of makes me feel… naked. [Finn sees the lard and gasps.]♫♪♪ La-la-la laaaard!♫♪♪”
 - Violence & injury — 1 moment(s)
   - Finn: “[embarrassed] Uhh.. I definitely knew that. [To Jake, whispering] I’m gonna murder Shelby.”
-
-## S7 E3 — Cherry Cream Soda
-URL: https://watchwiththekids.com/ep/adventure-time/0703.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Cherry Cream Soda's life falls flat with the arrival of a visitor.
-Watch for:
-- Alcohol & drugs — 2 moment(s)
-  - “Dirt Beer Guy”
-  - Cherry Cream Soda seeing Dirt Beer Guy, who had disappeared by the window. He then walk to the door.
 
 ## S7 E30 — I Am a Sword
 URL: https://watchwiththekids.com/ep/adventure-time/0730.html
@@ -1940,23 +1957,6 @@ Watch for:
 - Swearing — 2 moment(s)
   - Gun cocks, fires
   - Gun cocks ][ Grunts
-
-## S7 E4 — Mama Said
-URL: https://watchwiththekids.com/ep/adventure-time/0704.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Finn and Jake's loyalty is questioned when King of Ooo sends the duo on a mission to catch flying mushrooms.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - The episode begins with King of Ooo showing Finn and Jake a surveillance video (while they sit on tiny stools) of a flying mushroom shot in the Candy Kingdom
-- Alcohol & drugs — 2 moment(s)
-  - Finn Jake Canyon King of Ooo Banana Guards Dirt Beer Guy
-  - King Of Ooo: “I wanna ride it around instead of walking. I think people will respect me more. [Dirt Beer Guy walks by in background] Hey. Hey, you, what's your name?”
-
-## S7 E5 — Football
-URL: https://watchwiththekids.com/ep/adventure-time/0705.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: BMO and Football make a deal but one them can't hold their end of the bargain.
-Watch for: nothing flagged.
 
 ## S8 E1 — Two Swords
 URL: https://watchwiththekids.com/ep/adventure-time/0801.html
@@ -2063,45 +2063,6 @@ Watch for:
   - The sound of a weed whacker begins to grow in volume.
   - The flashback ends. Finn is still poised to strike down the monster. The buzzing of the weed whacker continues.
 
-## S10 E10 — Jake the Starchild
-URL: https://watchwiththekids.com/ep/adventure-time/1010.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: In order to fulfill his grand destiny, Jake is spirited away by a strangely familiar shape-shifting alien.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Warren Ampersand: “Tomorrow, you are prophesied to battle Ixcano, a monster with tentacles stretching across the galaxy to strangle everything.”
-- Alcohol & drugs — 2 moment(s)
-  - Warren Ampersand: “[Removing lid from the lap tray] It's another clown cake, with a side of cocktail hot dogs.”
-  - Warren boards a tiny rocket ship. The whole of Nerraw is sucked up into the ship, leaving behind only a barren asteroid, the clown cake, and some cocktail sausages.
-
-## S10 E11 — Temple of Mars
-URL: https://watchwiththekids.com/ep/adventure-time/1011.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Searching for answers on Mars, Finn and Jermaine discover that they must first survive a cunning Martian mental trap.
-Watch for:
-- Alcohol & drugs — 1 moment(s)
-  - Jermaine: “I think he's all alone in outer space. I don't think he can come home, and he's running out of birthday cake and cocktail hot dogs.”
-
-## S10 E12 — Gumbaldia
-URL: https://watchwiththekids.com/ep/adventure-time/1012.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Finn and Jake, as ambassadors of the Candy Kingdom, travel to a powerful new city-state in a last ditch effort to stave off war.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Gunter draws a knife.
-
-## S10 E13 — Come Along With Me
-URL: https://watchwiththekids.com/ep/adventure-time/1013.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: BMO narrates "The Great Gum War" in which Finn, Jake, Marceline, PB and the Candy Kingdom go to war against Gumbald and his army that will determine the fate of Ooo once and for all.
-Watch for:
-- Violence & injury — 5 moment(s)
-  - Duke of Nuts: “Um, excuse me? Excuse me. Princess, if I may. I think I have a plan that'll put an end to all this tonight. I just need a Bowie knife, a snowmobile, a parachute, rubber gloves, and, uh... [interrupted by Lemongrab]”
-  - Flame Princess: “[Attacks the Gumball Guardian with flames] Burn, burn, burn! PB, get me some backup! Ugh! [Slapped away; screams and thrown to a cliff] Ugh!”
-  - Simon: “It's not working! Yah! [throws the crown to the ground] Finn, it's hopeless. You can't punch your way out of his guts.”
-  - Jake: “[punches and tangles the demon] Finn!”
-  - The Tree Fort is punched by the demon, collapsing. Jake stares this, gasping in a complete horror.
-
 ## S10 E2 — Always BMO Closing
 URL: https://watchwiththekids.com/ep/adventure-time/1002.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -2165,3 +2126,42 @@ Watch for:
   - The scene changes to the Candy Kingdom, where Princess Bubblegum is riding through the streets on a hoverboard wearing a siren hat and carrying a laser gun and a megaphone.
   - Princess Bubblegum: “Bwee-woo-bwee-woo! This is a drill! [She shoots a house with her laser gun and the wall explodes.] I repeat, this is a drill! [She shoots another house.]”
   - Ice King: “It's about time us young guns took the reins.”
+
+## S10 E10 — Jake the Starchild
+URL: https://watchwiththekids.com/ep/adventure-time/1010.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: In order to fulfill his grand destiny, Jake is spirited away by a strangely familiar shape-shifting alien.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Warren Ampersand: “Tomorrow, you are prophesied to battle Ixcano, a monster with tentacles stretching across the galaxy to strangle everything.”
+- Alcohol & drugs — 2 moment(s)
+  - Warren Ampersand: “[Removing lid from the lap tray] It's another clown cake, with a side of cocktail hot dogs.”
+  - Warren boards a tiny rocket ship. The whole of Nerraw is sucked up into the ship, leaving behind only a barren asteroid, the clown cake, and some cocktail sausages.
+
+## S10 E11 — Temple of Mars
+URL: https://watchwiththekids.com/ep/adventure-time/1011.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Searching for answers on Mars, Finn and Jermaine discover that they must first survive a cunning Martian mental trap.
+Watch for:
+- Alcohol & drugs — 1 moment(s)
+  - Jermaine: “I think he's all alone in outer space. I don't think he can come home, and he's running out of birthday cake and cocktail hot dogs.”
+
+## S10 E12 — Gumbaldia
+URL: https://watchwiththekids.com/ep/adventure-time/1012.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Finn and Jake, as ambassadors of the Candy Kingdom, travel to a powerful new city-state in a last ditch effort to stave off war.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Gunter draws a knife.
+
+## S10 E13 — Come Along With Me
+URL: https://watchwiththekids.com/ep/adventure-time/1013.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: BMO narrates "The Great Gum War" in which Finn, Jake, Marceline, PB and the Candy Kingdom go to war against Gumbald and his army that will determine the fate of Ooo once and for all.
+Watch for:
+- Violence & injury — 5 moment(s)
+  - Duke of Nuts: “Um, excuse me? Excuse me. Princess, if I may. I think I have a plan that'll put an end to all this tonight. I just need a Bowie knife, a snowmobile, a parachute, rubber gloves, and, uh... [interrupted by Lemongrab]”
+  - Flame Princess: “[Attacks the Gumball Guardian with flames] Burn, burn, burn! PB, get me some backup! Ugh! [Slapped away; screams and thrown to a cliff] Ugh!”
+  - Simon: “It's not working! Yah! [throws the crown to the ground] Finn, it's hopeless. You can't punch your way out of his guts.”
+  - Jake: “[punches and tangles the demon] Finn!”
+  - The Tree Fort is punched by the demon, collapsing. Jake stares this, gasping in a complete horror.

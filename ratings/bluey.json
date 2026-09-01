@@ -26,6 +26,316 @@
   "episodes": [
     {
       "season": 1,
+      "episode": 2,
+      "code": "0102",
+      "title": "Hospital",
+      "index_title": "Hospital",
+      "url": "https://blueypedia.fandom.com/wiki/Hospital/Script",
+      "file": "transcripts/bluey/hospital.txt",
+      "summary": "Doctor Bluey is needed when Dad gets a very curious x-ray from Nurse Bingo. It seems he has a cat in his tummy, leaving Bluey no choice but to operate immediately!",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "code": "0103",
+      "title": "Keepy Uppy",
+      "index_title": "Keepy Uppy",
+      "url": "https://blueypedia.fandom.com/wiki/Keepy_Uppy/Script",
+      "file": "transcripts/bluey/keepy-uppy.txt",
+      "summary": "Bluey, Bingo and Mum are enjoying playing Keepy-Uppy around the house with their last balloon, when Dad joins in and the game becomes the ultimate test of skill.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "code": "0104",
+      "title": "Daddy Robot",
+      "index_title": "Daddy Robot",
+      "url": "https://blueypedia.fandom.com/wiki/Daddy_Robot/Script",
+      "file": "transcripts/bluey/daddy-robot.txt",
+      "summary": "Bluey and Bingo don't want to tidy the playroom, so they get Daddy Robot to do it for them. But when Bluey takes things too far, Daddy Robot malfunctions with disastrous results.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "code": "0105",
+      "title": "Shadowlands",
+      "index_title": "Shadowlands",
+      "url": "https://blueypedia.fandom.com/wiki/Shadowlands/Script",
+      "file": "transcripts/bluey/shadowlands.txt",
+      "summary": "On a picnic in the park, Bluey and her friends play Shadowlands. But when Coco keeps taking shortcuts, Bluey has to show her that following the rules can make the game more fun.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "code": "0106",
+      "title": "The Weekend",
+      "index_title": "The Weekend",
+      "url": "https://blueypedia.fandom.com/wiki/The_Weekend/Script",
+      "file": "transcripts/bluey/the-weekend.txt",
+      "summary": "At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset when she discovers a walking leaf insect and Dad is too caught up in the game to notice.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "code": "0107",
+      "title": "Bbq",
+      "index_title": "Bbq",
+      "url": "https://blueypedia.fandom.com/wiki/BBQ/Script",
+      "file": "transcripts/bluey/bbq.txt",
+      "summary": "It's lunchtime on Bluey's back deck! But every BBQ needs a side salad, so Bingo's relaxing sit-down will have to wait until she finds every colour of capsicum her cousins asked for!",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "Bandit is cooking sausages while Stripe stands nearby with a beer.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bandit is cooking sausages while Stripe stands nearby with a beer.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Bingo runs over to Bandit, who just picked up his beer from a bench to take a sip.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Alcohol & drugs — Bandit is cooking sausages while Stripe stands nearby with a beer."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "code": "0108",
+      "title": "Fruitbat",
+      "index_title": "Fruitbat",
+      "url": "https://blueypedia.fandom.com/wiki/Fruitbat/Script",
+      "file": "transcripts/bluey/fruitbat.txt",
+      "summary": "Not wanting to go to bed, Bluey tries to dream about being a nocturnal fruit bat so she can stay up all night long and soon finds herself flying through the night sky.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "code": "0109",
+      "title": "Horsey Ride",
+      "index_title": "Horsey Ride",
+      "url": "https://blueypedia.fandom.com/wiki/Horsey_Ride/Script",
+      "file": "transcripts/bluey/horsey-ride.txt",
+      "summary": "When Bluey forgets to put her favourite toy away, cousin Socks grabs it and won't let go! The kids stage a horsey wedding to distract her, with Dad and Uncle Stripe as the horses!",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Stripe playfully points finger guns at Bluey and Bingo.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Stripe playfully points finger guns at Bluey and Bingo.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Stripe playfully points finger guns at Bluey and Bingo."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
       "episode": 10,
       "code": "0110",
       "title": "Hotel",
@@ -407,38 +717,6 @@
       "examples": [
         "Affairs / cheating — Bluey and Bingo laugh, and Bluey turns to Chilli, who is watching the whole affair."
       ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 2,
-      "code": "0102",
-      "title": "Hospital",
-      "index_title": "Hospital",
-      "url": "https://blueypedia.fandom.com/wiki/Hospital/Script",
-      "file": "transcripts/bluey/hospital.txt",
-      "summary": "Doctor Bluey is needed when Dad gets a very curious x-ray from Nurse Bingo. It seems he has a cat in his tummy, leaving Bluey no choice but to operate immediately!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -834,38 +1112,6 @@
     },
     {
       "season": 1,
-      "episode": 3,
-      "code": "0103",
-      "title": "Keepy Uppy",
-      "index_title": "Keepy Uppy",
-      "url": "https://blueypedia.fandom.com/wiki/Keepy_Uppy/Script",
-      "file": "transcripts/bluey/keepy-uppy.txt",
-      "summary": "Bluey, Bingo and Mum are enjoying playing Keepy-Uppy around the house with their last balloon, when Dad joins in and the game becomes the ultimate test of skill.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
       "episode": 30,
       "code": "0130",
       "title": "Fairies",
@@ -1223,38 +1469,6 @@
       "url": "https://blueypedia.fandom.com/wiki/The_Sleepover/Script",
       "file": "transcripts/bluey/the-sleepover.txt",
       "summary": "A sleepover with their cousin means Bluey and Bingo get to stay up late! But when Muffin shows up exhausted after missing her nap, the girls get more fun than they bargained for.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 4,
-      "code": "0104",
-      "title": "Daddy Robot",
-      "index_title": "Daddy Robot",
-      "url": "https://blueypedia.fandom.com/wiki/Daddy_Robot/Script",
-      "file": "transcripts/bluey/daddy-robot.txt",
-      "summary": "Bluey and Bingo don't want to tidy the playroom, so they get Daddy Robot to do it for them. But when Bluey takes things too far, Daddy Robot malfunctions with disastrous results.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1646,38 +1860,6 @@
     },
     {
       "season": 1,
-      "episode": 5,
-      "code": "0105",
-      "title": "Shadowlands",
-      "index_title": "Shadowlands",
-      "url": "https://blueypedia.fandom.com/wiki/Shadowlands/Script",
-      "file": "transcripts/bluey/shadowlands.txt",
-      "summary": "On a picnic in the park, Bluey and her friends play Shadowlands. But when Coco keeps taking shortcuts, Bluey has to show her that following the rules can make the game more fun.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
       "episode": 50,
       "code": "0150",
       "title": "Shaun",
@@ -1796,188 +1978,6 @@
       "source": "heuristic"
     },
     {
-      "season": 1,
-      "episode": 6,
-      "code": "0106",
-      "title": "The Weekend",
-      "index_title": "The Weekend",
-      "url": "https://blueypedia.fandom.com/wiki/The_Weekend/Script",
-      "file": "transcripts/bluey/the-weekend.txt",
-      "summary": "At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset when she discovers a walking leaf insect and Dad is too caught up in the game to notice.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 7,
-      "code": "0107",
-      "title": "Bbq",
-      "index_title": "Bbq",
-      "url": "https://blueypedia.fandom.com/wiki/BBQ/Script",
-      "file": "transcripts/bluey/bbq.txt",
-      "summary": "It's lunchtime on Bluey's back deck! But every BBQ needs a side salad, so Bingo's relaxing sit-down will have to wait until she finds every colour of capsicum her cousins asked for!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Alcohol & drugs"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Alcohol & drugs",
-            "group": "substances",
-            "how": "Bandit is cooking sausages while Stripe stands nearby with a beer.",
-            "count": 2,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Bandit is cooking sausages while Stripe stands nearby with a beer.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Bingo runs over to Bandit, who just picked up his beer from a bench to take a sip.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Alcohol & drugs — Bandit is cooking sausages while Stripe stands nearby with a beer."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 8,
-      "code": "0108",
-      "title": "Fruitbat",
-      "index_title": "Fruitbat",
-      "url": "https://blueypedia.fandom.com/wiki/Fruitbat/Script",
-      "file": "transcripts/bluey/fruitbat.txt",
-      "summary": "Not wanting to go to bed, Bluey tries to dream about being a nocturnal fruit bat so she can stay up all night long and soon finds herself flying through the night sky.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 9,
-      "code": "0109",
-      "title": "Horsey Ride",
-      "index_title": "Horsey Ride",
-      "url": "https://blueypedia.fandom.com/wiki/Horsey_Ride/Script",
-      "file": "transcripts/bluey/horsey-ride.txt",
-      "summary": "When Bluey forgets to put her favourite toy away, cousin Socks grabs it and won't let go! The kids stage a horsey wedding to distract her, with Dad and Uncle Stripe as the horses!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Stripe playfully points finger guns at Bluey and Bingo.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Stripe playfully points finger guns at Bluey and Bingo.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Stripe playfully points finger guns at Bluey and Bingo."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 2,
       "episode": 1,
       "code": "0201",
@@ -2028,6 +2028,308 @@
       "examples": [
         "Violence & injury — Cut to the Busker, who is playing on a Thongophone - an instrument consisting of a tangle of PVC pipes, played by slapping the pipe openings with thongs."
       ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "code": "0202",
+      "title": "Hammerbarn",
+      "index_title": "Hammerbarn",
+      "url": "https://blueypedia.fandom.com/wiki/Hammerbarn/Script",
+      "file": "transcripts/bluey/hammerbarn.txt",
+      "summary": "On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Checkout Lady: “Hey, would you kids like to try my beeper gun?”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Checkout Lady",
+                "text": "Hey, would you kids like to try my beeper gun?",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Checkout Lady: “Hey, would you kids like to try my beeper gun?”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 3,
+      "code": "0203",
+      "title": "Featherwand",
+      "index_title": "Featherwand",
+      "url": "https://blueypedia.fandom.com/wiki/Featherwand/Script",
+      "file": "transcripts/bluey/featherwand.txt",
+      "summary": "Bluey and Mum are off to Chloe's party and Bingo isn't invited. But armed with a magic featherwand that makes things incredibly heavy, Bingo can now stop them leaving the house.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 4,
+      "code": "0204",
+      "title": "Squash",
+      "index_title": "Squash",
+      "url": "https://blueypedia.fandom.com/wiki/Squash/Script",
+      "file": "transcripts/bluey/squash.txt",
+      "summary": "When Dad and Uncle Stripe play a game of squash, Bluey and Bingo are in control of their every move, and Bingo proves that big siblings don't always beat little siblings.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 5,
+      "code": "0205",
+      "title": "Hairdressers",
+      "index_title": "Hairdressers",
+      "url": "https://blueypedia.fandom.com/wiki/Hairdressers/Script",
+      "file": "transcripts/bluey/hairdressers.txt",
+      "summary": "During a game of hairdressers, Bluey discovers that big-headed customer Dad has nits! To help treat them Bingo has to find her voice, while Bluey has to find her ears.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 6,
+      "code": "0206",
+      "title": "Stumpfest",
+      "index_title": "Stumpfest",
+      "url": "https://blueypedia.fandom.com/wiki/Stumpfest/Script",
+      "file": "transcripts/bluey/stumpfest.txt",
+      "summary": "Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Stripe throws a punch, but Pat grabs him and throws him over.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Stripe throws a punch, but Pat grabs him and throws him over.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Stripe throws a punch, but Pat grabs him and throws him over."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 7,
+      "code": "0207",
+      "title": "Favourite Thing",
+      "index_title": "Favourite Thing",
+      "url": "https://blueypedia.fandom.com/wiki/Favourite_Thing/Script",
+      "file": "transcripts/bluey/favourite-thing.txt",
+      "summary": "When Bluey accidentally makes Bingo upset playing a game at dinner, she will do anything to make her happy again - even changing the rules of the game. But nothing seems to work.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "code": "0208",
+      "title": "Daddy Dropoff",
+      "index_title": "Daddy Dropoff",
+      "url": "https://blueypedia.fandom.com/wiki/Daddy_Dropoff/Script",
+      "file": "transcripts/bluey/daddy-dropoff.txt",
+      "summary": "Dad refuses to be late dropping off Bluey and Bingo at kindy and school, but the girls make Dad play so many games, they quickly derail his plan.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 9,
+      "code": "0209",
+      "title": "Bingo",
+      "index_title": "Bingo",
+      "url": "https://blueypedia.fandom.com/wiki/Bingo_%28Episode%29/Script",
+      "file": "transcripts/bluey/bingo-episode.txt",
+      "summary": "When Bluey has a playdate at Chloe's, Bingo must learn how to play by herself. But all the games she knows need more than one person! Luckily Dad has a problem that needs solving.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -2391,61 +2693,6 @@
         "notes_extra": []
       },
       "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 2,
-      "code": "0202",
-      "title": "Hammerbarn",
-      "index_title": "Hammerbarn",
-      "url": "https://blueypedia.fandom.com/wiki/Hammerbarn/Script",
-      "file": "transcripts/bluey/hammerbarn.txt",
-      "summary": "On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Checkout Lady: “Hey, would you kids like to try my beeper gun?”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Checkout Lady",
-                "text": "Hey, would you kids like to try my beeper gun?",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Checkout Lady: “Hey, would you kids like to try my beeper gun?”"
-      ],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -2877,38 +3124,6 @@
     },
     {
       "season": 2,
-      "episode": 3,
-      "code": "0203",
-      "title": "Featherwand",
-      "index_title": "Featherwand",
-      "url": "https://blueypedia.fandom.com/wiki/Featherwand/Script",
-      "file": "transcripts/bluey/featherwand.txt",
-      "summary": "Bluey and Mum are off to Chloe's party and Bingo isn't invited. But armed with a magic featherwand that makes things incredibly heavy, Bingo can now stop them leaving the house.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
       "episode": 30,
       "code": "0230",
       "title": "Library",
@@ -3285,38 +3500,6 @@
       "examples": [
         "Violence & injury — Radley: “And then the prince knocked the dragon with a big prince punch!”"
       ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 4,
-      "code": "0204",
-      "title": "Squash",
-      "index_title": "Squash",
-      "url": "https://blueypedia.fandom.com/wiki/Squash/Script",
-      "file": "transcripts/bluey/squash.txt",
-      "summary": "When Dad and Uncle Stripe play a game of squash, Bluey and Bingo are in control of their every move, and Bingo proves that big siblings don't always beat little siblings.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -3728,38 +3911,6 @@
     },
     {
       "season": 2,
-      "episode": 5,
-      "code": "0205",
-      "title": "Hairdressers",
-      "index_title": "Hairdressers",
-      "url": "https://blueypedia.fandom.com/wiki/Hairdressers/Script",
-      "file": "transcripts/bluey/hairdressers.txt",
-      "summary": "During a game of hairdressers, Bluey discovers that big-headed customer Dad has nits! To help treat them Bingo has to find her voice, while Bluey has to find her ears.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
       "episode": 50,
       "code": "0250",
       "title": "Baby Race",
@@ -3855,157 +4006,6 @@
       "source": "heuristic"
     },
     {
-      "season": 2,
-      "episode": 6,
-      "code": "0206",
-      "title": "Stumpfest",
-      "index_title": "Stumpfest",
-      "url": "https://blueypedia.fandom.com/wiki/Stumpfest/Script",
-      "file": "transcripts/bluey/stumpfest.txt",
-      "summary": "Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Stripe throws a punch, but Pat grabs him and throws him over.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Stripe throws a punch, but Pat grabs him and throws him over.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Stripe throws a punch, but Pat grabs him and throws him over."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 7,
-      "code": "0207",
-      "title": "Favourite Thing",
-      "index_title": "Favourite Thing",
-      "url": "https://blueypedia.fandom.com/wiki/Favourite_Thing/Script",
-      "file": "transcripts/bluey/favourite-thing.txt",
-      "summary": "When Bluey accidentally makes Bingo upset playing a game at dinner, she will do anything to make her happy again - even changing the rules of the game. But nothing seems to work.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 8,
-      "code": "0208",
-      "title": "Daddy Dropoff",
-      "index_title": "Daddy Dropoff",
-      "url": "https://blueypedia.fandom.com/wiki/Daddy_Dropoff/Script",
-      "file": "transcripts/bluey/daddy-dropoff.txt",
-      "summary": "Dad refuses to be late dropping off Bluey and Bingo at kindy and school, but the girls make Dad play so many games, they quickly derail his plan.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 9,
-      "code": "0209",
-      "title": "Bingo",
-      "index_title": "Bingo",
-      "url": "https://blueypedia.fandom.com/wiki/Bingo_%28Episode%29/Script",
-      "file": "transcripts/bluey/bingo-episode.txt",
-      "summary": "When Bluey has a playdate at Chloe's, Bingo must learn how to play by herself. But all the games she knows need more than one person! Luckily Dad has a problem that needs solving.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 3,
       "episode": 1,
       "code": "0301",
@@ -4064,6 +4064,285 @@
       "examples": [
         "Violence & injury — Bingo pretends to get a ticket out of her pocket and hands it to Bandit. She giggles. Bandit pretends to take and punch it."
       ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "code": "0302",
+      "title": "Bedroom",
+      "index_title": "Bedroom",
+      "url": "https://blueypedia.fandom.com/wiki/Bedroom/Script",
+      "file": "transcripts/bluey/bedroom.txt",
+      "summary": "Bluey is excited to get her own room. But when bed time comes, she misses Bingo more than she expected and must find a way to stay in touch with her sister.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "code": "0303",
+      "title": "Obstacle Course",
+      "index_title": "Obstacle Course",
+      "url": "https://blueypedia.fandom.com/wiki/Obstacle_Course/Script",
+      "file": "transcripts/bluey/obstacle-course.txt",
+      "summary": "Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 4,
+      "code": "0304",
+      "title": "Promises",
+      "index_title": "Promises",
+      "url": "https://blueypedia.fandom.com/wiki/Promises/Script",
+      "file": "transcripts/bluey/promises.txt",
+      "summary": "Bluey keeps breaking her promises! But after seeing how much Bingo trusts Mum's word, Bluey learns the power of promises and why it's important not to break them.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 5,
+      "code": "0305",
+      "title": "Omelette",
+      "index_title": "Omelette",
+      "url": "https://blueypedia.fandom.com/wiki/Omelette/Script",
+      "file": "transcripts/bluey/omelette.txt",
+      "summary": "Bingo is helping Mum make an omelette for Dad's birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 6,
+      "code": "0306",
+      "title": "Born Yesterday",
+      "index_title": "Born Yesterday",
+      "url": "https://blueypedia.fandom.com/wiki/Born_Yesterday/Script",
+      "file": "transcripts/bluey/born-yesterday.txt",
+      "summary": "Dad pretends he was born yesterday. Bluey and Bingo have to guide him through his second day on Earth, especially when he discovers food is delicious and steals Lucky's Dad's pie.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 7,
+      "code": "0307",
+      "title": "Mini Bluey",
+      "index_title": "Mini Bluey",
+      "url": "https://blueypedia.fandom.com/wiki/Mini_Bluey/Script",
+      "file": "transcripts/bluey/mini-bluey.txt",
+      "summary": "When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini-Bluey!",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 8,
+      "code": "0308",
+      "title": "Unicorse",
+      "index_title": "Unicorse",
+      "url": "https://blueypedia.fandom.com/wiki/Unicorse/Script",
+      "file": "transcripts/bluey/unicorse.txt",
+      "summary": "Bluey can't get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Unicorse charges into The Lawyer and a tussle akin to \"Punch and Judy\"-show ensues behind the couch.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Unicorse charges into The Lawyer and a tussle akin to \"Punch and Judy\"-show ensues behind the couch.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Unicorse charges into The Lawyer and a tussle akin to \"Punch and Judy\"-show ensues behind the couch."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 9,
+      "code": "0309",
+      "title": "Curry Quest",
+      "index_title": "Curry Quest",
+      "url": "https://blueypedia.fandom.com/wiki/Curry_Quest/Script",
+      "file": "transcripts/bluey/curry-quest.txt",
+      "summary": "Bingo and Dad must brave a swooping magpie protecting its nest, when they go on a curry swap to Mackenzie's house through the park.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -4467,38 +4746,6 @@
     },
     {
       "season": 3,
-      "episode": 2,
-      "code": "0302",
-      "title": "Bedroom",
-      "index_title": "Bedroom",
-      "url": "https://blueypedia.fandom.com/wiki/Bedroom/Script",
-      "file": "transcripts/bluey/bedroom.txt",
-      "summary": "Bluey is excited to get her own room. But when bed time comes, she misses Bingo more than she expected and must find a way to stay in touch with her sister.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
       "episode": 20,
       "code": "0320",
       "title": "Driving",
@@ -4865,38 +5112,6 @@
     },
     {
       "season": 3,
-      "episode": 3,
-      "code": "0303",
-      "title": "Obstacle Course",
-      "index_title": "Obstacle Course",
-      "url": "https://blueypedia.fandom.com/wiki/Obstacle_Course/Script",
-      "file": "transcripts/bluey/obstacle-course.txt",
-      "summary": "Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
       "episode": 30,
       "code": "0330",
       "title": "Turtleboy",
@@ -5238,38 +5453,6 @@
       "url": "https://blueypedia.fandom.com/wiki/Exercise/Script",
       "file": "transcripts/bluey/exercise.txt",
       "summary": "Bingo pretends to be Boss Bluey's new employee in the middle of Dad's backyard workout.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 4,
-      "code": "0304",
-      "title": "Promises",
-      "index_title": "Promises",
-      "url": "https://blueypedia.fandom.com/wiki/Promises/Script",
-      "file": "transcripts/bluey/promises.txt",
-      "summary": "Bluey keeps breaking her promises! But after seeing how much Bingo trusts Mum's word, Bluey learns the power of promises and why it's important not to break them.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5663,189 +5846,6 @@
       "examples": [
         "Violence & injury — We see her gun at the bottom of the screen Bandit runs across the screen from right to left."
       ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 5,
-      "code": "0305",
-      "title": "Omelette",
-      "index_title": "Omelette",
-      "url": "https://blueypedia.fandom.com/wiki/Omelette/Script",
-      "file": "transcripts/bluey/omelette.txt",
-      "summary": "Bingo is helping Mum make an omelette for Dad's birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 6,
-      "code": "0306",
-      "title": "Born Yesterday",
-      "index_title": "Born Yesterday",
-      "url": "https://blueypedia.fandom.com/wiki/Born_Yesterday/Script",
-      "file": "transcripts/bluey/born-yesterday.txt",
-      "summary": "Dad pretends he was born yesterday. Bluey and Bingo have to guide him through his second day on Earth, especially when he discovers food is delicious and steals Lucky's Dad's pie.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 7,
-      "code": "0307",
-      "title": "Mini Bluey",
-      "index_title": "Mini Bluey",
-      "url": "https://blueypedia.fandom.com/wiki/Mini_Bluey/Script",
-      "file": "transcripts/bluey/mini-bluey.txt",
-      "summary": "When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini-Bluey!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 8,
-      "code": "0308",
-      "title": "Unicorse",
-      "index_title": "Unicorse",
-      "url": "https://blueypedia.fandom.com/wiki/Unicorse/Script",
-      "file": "transcripts/bluey/unicorse.txt",
-      "summary": "Bluey can't get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Unicorse charges into The Lawyer and a tussle akin to \"Punch and Judy\"-show ensues behind the couch.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Unicorse charges into The Lawyer and a tussle akin to \"Punch and Judy\"-show ensues behind the couch.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Unicorse charges into The Lawyer and a tussle akin to \"Punch and Judy\"-show ensues behind the couch."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 9,
-      "code": "0309",
-      "title": "Curry Quest",
-      "index_title": "Curry Quest",
-      "url": "https://blueypedia.fandom.com/wiki/Curry_Quest/Script",
-      "file": "transcripts/bluey/curry-quest.txt",
-      "summary": "Bingo and Dad must brave a swooping magpie protecting its nest, when they go on a curry swap to Mackenzie's house through the park.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"

@@ -12,6 +12,65 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Doofenshmirtz: “…at his foot.) Oowwww! Ow, ow, ow, owwww! (He jumps around and accidentally releases Agent P, who quickly punches him.”
 
+## S1 E2 — Lawn Gnome Beach Party of Terror
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0102.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Phineas and Ferb's newest backyard project is to create a tropical beach paradise. Meanwhile, Perry tries to stop Dr. Doofenshmirtz's plan to steal all the garden lawn gnomes.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Doofenshmirtz: “(The lawn gnome punches Doof in the face) Wait, who are you?”
+  - Stanky Dog: “…traffic stomp! And now he's got him in a Half-Nelson, now a Full-Nelson, oh! And now he's actually beating him with Bobby Nelson!”
+- Alcohol & drugs — 1 moment(s)
+  - In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace.
+
+## S1 E3 — Flop Starz
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0103.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb decide to become a one hit wonder, Phineas and the Ferb-Tones and Candace wins the chance to sing with them. Meanwhile, Perry must stop Doofinshmirtz's giant robot - disguised as a temp.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Stacy: “Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)”
+
+## S1 E4 — The Fast and the Phineas
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0104.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb enter the family car in an auto race, while Candace has to bust them and impress Jeremy. Meanwhile, Perry must stop Dr. Doofenshmirtz from deflating every inflatable object in the tri-state area.
+Watch for: nothing flagged.
+
+## S1 E5 — Lights, Candace, Action!
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0105.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Upon hearing that her favorite play is being made a movie, Candace rushes to try for the lead, only to see that Phineas and Ferb have become the directors and changed the script to include a little more insanity. Meanwhile, Perry goes to Doofinshmirtz Evil Inc. to find out why Heinz has been so quiet lately.
+Watch for: nothing flagged.
+
+## S1 E6 — Raging Bully
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0106.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas enters a thumb-wrestling competition with a local bully, while Doofenshmirtz creates a hypnotic device to control people's minds so they will sing him Happy Birthday.
+Watch for: nothing flagged.
+
+## S1 E7 — Candace Loses Her Head
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0107.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb decide to carve Candace's face into Mount Rushmore for her birthday present, while Perry attempts to stop Doofenshmirtz from making a tunnel to China.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Doofenshmirtz: “…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)”
+
+## S1 E8 — I, Brobot
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0108.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb clone themselves so they can complete more projects while Doofenschmirtz hovers over his girlfriend's house with a huge magnet to erase crazy messages on her answering machine, for the sake of recording new ones.
+Watch for: nothing flagged.
+
+## S1 E9 — Run Away Runway
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0109.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Candace becomes a model, and is forced to wear outfits designed by Phineas and Ferb while Doofenshmirtz designs a machine to create clones of himself, to avoid having to wait in line.
+Watch for:
+- Alcohol & drugs — 1 moment(s)
+  - Doofenshmirtz: “All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!”
+
 ## S1 E10 — The Magnificent Few
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0110.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -71,17 +130,6 @@ URL: https://watchwiththekids.com/ep/phineas-and-ferb/0119.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: Candace plans a special birthday for Mom, and even a song, but Phineas and Ferb are always getting in her way of what she planned, unintentionally topping everything. Meanwhile, Doofenshmirtz creates a shrinking machine that will make whatever he hates implode.
 Watch for: nothing flagged.
-
-## S1 E2 — Lawn Gnome Beach Party of Terror
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0102.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Phineas and Ferb's newest backyard project is to create a tropical beach paradise. Meanwhile, Perry tries to stop Dr. Doofenshmirtz's plan to steal all the garden lawn gnomes.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Doofenshmirtz: “(The lawn gnome punches Doof in the face) Wait, who are you?”
-  - Stanky Dog: “…traffic stomp! And now he's got him in a Half-Nelson, now a Full-Nelson, oh! And now he's actually beating him with Bobby Nelson!”
-- Alcohol & drugs — 1 moment(s)
-  - In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace.
 
 ## S1 E20 — Journey to the Center of Candace
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0120.html
@@ -159,14 +207,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Boy dressed as a robot: “Jeremy, dude! Sweet costume, bro! (Conk punches him) Okay, you're not my bro!”
 
-## S1 E3 — Flop Starz
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0103.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb decide to become a one hit wonder, Phineas and the Ferb-Tones and Candace wins the chance to sing with them. Meanwhile, Perry must stop Doofinshmirtz's giant robot - disguised as a temp.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Stacy: “Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)”
-
 ## S1 E30 — Voyage to the Bottom of Buford
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0130.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -235,12 +275,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Isabella falls prey to hiccups, Phineas and Ferb gather the kids together to help scare them out of her, using a remote controlled haunted house. Meanwhile, Doofenshmirtz sets out to destroy his mentor's hideout, so that no one could discover his secrets, but not if Perry has something to say about it!
 Watch for: nothing flagged.
 
-## S1 E4 — The Fast and the Phineas
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0104.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb enter the family car in an auto race, while Candace has to bust them and impress Jeremy. Meanwhile, Perry must stop Dr. Doofenshmirtz from deflating every inflatable object in the tri-state area.
-Watch for: nothing flagged.
-
 ## S1 E40 — The Monster of Phineas-n-Ferbenstein
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0140.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -300,40 +334,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Candace believes that no one wants to be around her anymore, she quickly steps through Baljeet's portal to Mars, where she is quickly heralded among the martians. Meanwhile, Perry accompanies Dr. Doofenshmirtz to help build his evil contraption for him to stop faster, with slightly less than pleasing results.
 Watch for: nothing flagged.
 
-## S1 E5 — Lights, Candace, Action!
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0105.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Upon hearing that her favorite play is being made a movie, Candace rushes to try for the lead, only to see that Phineas and Ferb have become the directors and changed the script to include a little more insanity. Meanwhile, Perry goes to Doofinshmirtz Evil Inc. to find out why Heinz has been so quiet lately.
-Watch for: nothing flagged.
-
-## S1 E6 — Raging Bully
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0106.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas enters a thumb-wrestling competition with a local bully, while Doofenshmirtz creates a hypnotic device to control people's minds so they will sing him Happy Birthday.
-Watch for: nothing flagged.
-
-## S1 E7 — Candace Loses Her Head
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0107.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb decide to carve Candace's face into Mount Rushmore for her birthday present, while Perry attempts to stop Doofenshmirtz from making a tunnel to China.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Doofenshmirtz: “…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)”
-
-## S1 E8 — I, Brobot
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0108.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb clone themselves so they can complete more projects while Doofenschmirtz hovers over his girlfriend's house with a huge magnet to erase crazy messages on her answering machine, for the sake of recording new ones.
-Watch for: nothing flagged.
-
-## S1 E9 — Run Away Runway
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0109.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Candace becomes a model, and is forced to wear outfits designed by Phineas and Ferb while Doofenshmirtz designs a machine to create clones of himself, to avoid having to wait in line.
-Watch for:
-- Alcohol & drugs — 1 moment(s)
-  - Doofenshmirtz: “All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!”
-
 ## S2 E1 — The Lake Nose Monster
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0201.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -341,6 +341,56 @@ Summary: After taunting the boys for going to search for the "Lake Nose Monster"
 Watch for:
 - Violence & injury — 1 moment(s)
   - Doofenshmirtz: “Wait, w-what was that? (Perry jumps out of the scuba mask and the bars drop off.) Huh? You were trying to escape?! After I shared my wings with you! Well, granted, I did trap you like a monkey— (Perry punches him.)”
+
+## S2 E3 — Tip of the Day
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0203.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When the daily crossword puzzle brings one of the worlds most useful, yet under-appreciated inventions to Phineas and Ferb's attention, the boys set out to bring the plight of the shoelace tip, the "aglet", to the worlds attention, with their only obstacle being Candace, who relentlessly wishes to convince everyone that it doesn't matter, even when she tries to use their campaign to become an insta-star. Meanwhile, Perry's new mission is to erase Doofenshmirtz' viral video, however this time, it seems both he and Heinz have the same goal, even if Doofenshmirtz wants to take it to a slight extreme.
+Watch for: nothing flagged.
+
+## S2 E4 — Attack of the 50 Foot Sister
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0204.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb create a slow reacting growth potion to help Baljeet with his "giant" watermelon, but Candace decides to use it for herself, when she finds that she's a little too short to be a flawless girl. Meanwhile, Perry must stop Doofenshmirtz from his most disgusting plan ever!
+Watch for: nothing flagged.
+
+## S2 E5 — Backyard Aquarium
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0205.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Phineas and Ferb have a new pet, Goldy the goldfish, and to help make Goldy feel less lonely, Phineas and Ferb have built an aquarium with many other creatures. Meanwhile, Perry must stop Doofenshmirtz from a food related childhood revenge story.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Candace: “Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)”
+  - Candace: “Messages? (Gets slapped by another orca tail and looks at her phone, while riding the dolphin.) Eleven messages? (Rides the dolphin, which goes through a hoop held up by Ferb.) He called me!”
+
+## S2 E6 — Day of the Living Gelatin
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0206.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When Phineas and Ferb get inspired by Candace's dessert club to create the biggest piece of gelatin ever, even Jenny and Stacy want to join in. Meanwhile, Doofenshmirtz has a horrific plan, to turn Perry evil!
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Phineas: “We'll beat him the same way we created him: with water.”
+
+## S2 E7 — Elementary My Dear Stacy
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0207.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: While in London, Candace and Stacy decide to take a page out of Sherlock Holmes'…entire collection, to figure out what Phineas and Ferb have planned for the London Eye. Meanwhile, Perry must team up with British agent 00 Zero in order to stop Dr. Doofenshmirtz from moving Big Ben to the Tri-State Area.
+Watch for: nothing flagged.
+
+## S2 E8 — Don't Even Blink
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0208.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Fed up with her brother's inventions always disappearing, Candace enlists the help of everyone in the neighborhood to build and watch a big and obvious invention, that they might finally see exactly what happens to everything. Meanwhile, is it mime? No, it's Doofenshmirtz' new Invisibility Ray.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Doofenshmirtz: “I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!”
+  - Scene switches to Doofenshmirtz Evil Inc.. Perry is still fighting Doofenshmirtz. Doofenshmirtz punches him, causing Perry to slide to the Invis-inator's ray, but half of his body is visible
+
+## S2 E9 — Chez Platypus
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0209.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb open Chez Platypus, which becomes the trendiest restaurant in town. Jeremy asks Candace out on a date to the restaurant. Meanwhile Doofenshmirtz goes on another date from his online dating service, and vows to destroy all love in the tri-state area if the date doesn't go well.
+Watch for: nothing flagged.
 
 ## S2 E10 — Perry Lays an Egg
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0210.html
@@ -488,12 +538,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Candace: “(She then looks in mirror and starts screaming loudly again, birds fly, dogs bark, seals jump in water, monkeys beat up Tarzan look-alike.)”
 
-## S2 E3 — Tip of the Day
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0203.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When the daily crossword puzzle brings one of the worlds most useful, yet under-appreciated inventions to Phineas and Ferb's attention, the boys set out to bring the plight of the shoelace tip, the "aglet", to the worlds attention, with their only obstacle being Candace, who relentlessly wishes to convince everyone that it doesn't matter, even when she tries to use their campaign to become an insta-star. Meanwhile, Perry's new mission is to erase Doofenshmirtz' viral video, however this time, it seems both he and Heinz have the same goal, even if Doofenshmirtz wants to take it to a slight extreme.
-Watch for: nothing flagged.
-
 ## S2 E30 — Fireside Girl Jamboree
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0230.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -569,12 +613,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Aunt Tiana and Uncle Bob's wedding is moved to the Flynn-Fletcher's backyard, Candace hopes that her brothers do not upstage her role as maid of honor. Meanwhile, Dr. Doofenshmirtz tries to transform food into junk food
 Watch for: nothing flagged.
 
-## S2 E4 — Attack of the 50 Foot Sister
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0204.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb create a slow reacting growth potion to help Baljeet with his "giant" watermelon, but Candace decides to use it for herself, when she finds that she's a little too short to be a flawless girl. Meanwhile, Perry must stop Doofenshmirtz from his most disgusting plan ever!
-Watch for: nothing flagged.
-
 ## S2 E40 — I Was a Middle Aged Robot
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0240.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -645,15 +683,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Phineas and Ferb build a robotic rodeo in the backyard. Candace tries to prove she can focus so she can go to a concert with Stacy. Doofenshmirtz stalls to finish his entry into the Inator Creator competition.
 Watch for: nothing flagged.
 
-## S2 E5 — Backyard Aquarium
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0205.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Phineas and Ferb have a new pet, Goldy the goldfish, and to help make Goldy feel less lonely, Phineas and Ferb have built an aquarium with many other creatures. Meanwhile, Perry must stop Doofenshmirtz from a food related childhood revenge story.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Candace: “Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)”
-  - Candace: “Messages? (Gets slapped by another orca tail and looks at her phone, while riding the dolphin.) Eleven messages? (Rides the dolphin, which goes through a hoop held up by Ferb.) He called me!”
-
 ## S2 E50 — The Beak
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0250.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -718,14 +747,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Phineas and Ferb are building an ATV powerful enough to handle extreme terrains and even buildings. Meanwhile, Candace and Stacy go to a leadership seminar where Candace learns the steps needed to achieve her ultimate goal of busting her brothers. Dr. Doofenshmirtz is hosting a Telethon of Evil.
 Watch for: nothing flagged.
 
-## S2 E6 — Day of the Living Gelatin
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0206.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When Phineas and Ferb get inspired by Candace's dessert club to create the biggest piece of gelatin ever, even Jenny and Stacy want to join in. Meanwhile, Doofenshmirtz has a horrific plan, to turn Perry evil!
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Phineas: “We'll beat him the same way we created him: with water.”
-
 ## S2 E60 — The Doof Side of the Moon
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0260.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -761,31 +782,74 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: When Linda and Lawrence go on a trip, Candace decides to have an Intimate Get Together with Stacy and Jenny. But, then more people come and makes it into a party. Later, when her parents get home, Candace gets busted.
 Watch for: nothing flagged.
 
-## S2 E7 — Elementary My Dear Stacy
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0207.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: While in London, Candace and Stacy decide to take a page out of Sherlock Holmes'…entire collection, to figure out what Phineas and Ferb have planned for the London Eye. Meanwhile, Perry must team up with British agent 00 Zero in order to stop Dr. Doofenshmirtz from moving Big Ben to the Tri-State Area.
-Watch for: nothing flagged.
-
-## S2 E8 — Don't Even Blink
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0208.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Fed up with her brother's inventions always disappearing, Candace enlists the help of everyone in the neighborhood to build and watch a big and obvious invention, that they might finally see exactly what happens to everything. Meanwhile, is it mime? No, it's Doofenshmirtz' new Invisibility Ray.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Doofenshmirtz: “I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!”
-  - Scene switches to Doofenshmirtz Evil Inc.. Perry is still fighting Doofenshmirtz. Doofenshmirtz punches him, causing Perry to slide to the Invis-inator's ray, but half of his body is visible
-
-## S2 E9 — Chez Platypus
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0209.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb open Chez Platypus, which becomes the trendiest restaurant in town. Jeremy asks Candace out on a date to the restaurant. Meanwhile Doofenshmirtz goes on another date from his online dating service, and vows to destroy all love in the tri-state area if the date doesn't go well.
-Watch for: nothing flagged.
-
 ## S3 E1 — The Great Indoors
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0301.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: The third season begins with Phineas and Ferb building a gigantic biome during a bit of bad weather to help Isabella earn a Fireside Girl patch.
+Watch for: nothing flagged.
+
+## S3 E2 — Canderemy
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0302.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Candace realizes that she needs to spend more time with Stacy, so she vows to spend the whole day with her only. But while visiting Jeremy and his mom, Mrs. Johnson, Dr. Doofenshmirtz's "combine-inator" zaps her and Jeremy, literally joining them at the hip. Meanwhile, Phineas and Ferb build a giant robot dog that causes a lot of mischief.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen
+
+## S3 E3 — Run, Candace, Run
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0303.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb's newest invention is a pair of boots that make the wearer extraordinarily fast. Candace decides to wear them so that she can be in two places at once; at Jeremy's family picnic, where she runs into Mrs. Johnson, and also at the library where she promised Mom she would read to the kids. Meanwhile, Dr. Doofenshmirtz's building is put up for sale so he tries to convince a prospective buyer, Annabelle, who turns out to be a long lost relative of the Johnson family, that it is not worth buying.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - The gun goes off and Candace and Jeremy speed right down to the finish line into the mud.
+
+## S3 E4 — Last Train to Bustville
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0304.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: While visiting their grandparents, the kids decide to create and race a giant hot air balloon. Meanwhile, Candace is inspired by train engineer Glenda's can-do attitude and decides to "give up" on busting her brothers. On the other side of town, Dr. Doofenshmirtz finds a Dodo bird egg and is convinced that it is a fierce bird-monster that can help him take over the Tri-state area, but discovers the exact opposite when the egg hatches.
+Watch for: nothing flagged.
+
+## S3 E5 — Phineas' Birthday Clip-O-Rama!
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0305.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: It's Phineas' birthday and for the special occasion, Ferb puts together a clip show of the gang's favorite moments. Meanwhile, Agent P has to stop Dr. Doofenshmirtz from using his 'non-inator' to pre-empt his brother's biography from appearing on television.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Doofenshmirtz: “Now I can't make up my mind- (Perry punches Doof repeatedly in the face)”
+  - Doofenshmirtz: “Perry the Platypus, how did you escape? (Perry beckons Doofenshmirtz to come closer, then punches him in the face) What's that? Oh!”
+
+## S3 E6 — The Belly of the Beast
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0306.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: For Harbor Days Festival, Phineas and Ferb celebrate by creating a mechanical version of the historical elusive shark of Danville Harbor. Seeing what the boys are up to, Candace enlists some help to capture the mysterious shark. Meanwhile, Dr. Doofenshmirtz invents the 'Salt Water Taffy-inator' to give cavities to every kid in the Tri-State Area.
+Watch for:
+- Violence & injury — 4 moment(s)
+  - Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”
+  - At Danville Harbor; the gatherers are watching a puppet show of a man stabbing a harpoon at a shark
+  - Linda: “It never is, honey. (at the kids) Who wants blood pudding?”
+  - Doofenshmirtz: “(prods the water with his spear gun) Okay, I'm good.”
+
+## S3 E7 — Moon Farm
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0307.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Inspired by the lost verse from the nursery rhyme, "Hey, Diddle Diddle", the boys decide to take some cows to the moon to see if its low gravitational pull actually does produce the best tasting ice cream ever. Back at home, Candace decides to take advantage of the boys being gone and attempts to make a fancy dinner for Jeremy, but her lack of cooking skills don't add anything to the plate. Meanwhile, Dr. Doofenshmirtz attempts to use his 'Moisture Suck-inator' to turn his neighbor's plants brown, so that his plants will be greener by comparison.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Stacy: “Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?”
+- Alcohol & drugs — 1 moment(s)
+  - Doofenshmirtz: “And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.”
+
+## S3 E8 — Ask a Foolish Question
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0308.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When Candace discovers that Phineas and Ferb have invented a computer that can answer anything, she asks it how she can finally bust her brothers once and for all. Meanwhile, Dr. Doofenshmirtz loses the key to his latest invention, the "All Purpose-inator," and Agent P must find it before he does.
+Watch for: nothing flagged.
+
+## S3 E9 — Misperceived Monotreme
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0309.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Perry misses his 100th battle against Dr. Doofenshmirtz when Candace takes him to the Charity Pet Wash with her. Perry's absence goes unnoticed when the zookeeper's typical platypus at the Danville Zoo stops Dr. Doofenshmirtz's plan to zap his brother with his "Least Likely-inator." Meanwhile, the boys build a fun house Phineas and Ferb style.
 Watch for: nothing flagged.
 
 ## S3 E10 — Candace Disconnected
@@ -868,14 +932,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Phineas and Ferb build a giant version of a favorite childhood game, with Danville as the central location. Meanwhile, Doofenshmirtz takes Vanessa on a camping trip.
 Watch for: nothing flagged.
 
-## S3 E2 — Canderemy
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0302.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Candace realizes that she needs to spend more time with Stacy, so she vows to spend the whole day with her only. But while visiting Jeremy and his mom, Mrs. Johnson, Dr. Doofenshmirtz's "combine-inator" zaps her and Jeremy, literally joining them at the hip. Meanwhile, Phineas and Ferb build a giant robot dog that causes a lot of mischief.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen
-
 ## S3 E20 — My Fair Goalie
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0320.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -943,14 +999,6 @@ URL: https://watchwiththekids.com/ep/phineas-and-ferb/0329.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: In ancient feudal China, Princess Isabella is part ruler and Master Perry has given up the way of the warrior. After Phineas and Ferb witness Doofus Khan capture the Princess and take her as a prisoner, they track down Master Perry and convince him to teach them his warrior ways so they can rescue Princess Isabella and save China.
 Watch for: nothing flagged.
-
-## S3 E3 — Run, Candace, Run
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0303.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb's newest invention is a pair of boots that make the wearer extraordinarily fast. Candace decides to wear them so that she can be in two places at once; at Jeremy's family picnic, where she runs into Mrs. Johnson, and also at the library where she promised Mom she would read to the kids. Meanwhile, Dr. Doofenshmirtz's building is put up for sale so he tries to convince a prospective buyer, Annabelle, who turns out to be a long lost relative of the Johnson family, that it is not worth buying.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - The gun goes off and Candace and Jeremy speed right down to the finish line into the mud.
 
 ## S3 E30 — Excaliferb
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0330.html
@@ -1026,12 +1074,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Doofenshmirtz: “Their perfect hair, their perfect skin, I hate it! And this, is why I created...the De-Handsome-inator! Soon, all these good looking faces will be hideous! (Perry, free, punches him) Ow!”
 
-## S3 E4 — Last Train to Bustville
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0304.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: While visiting their grandparents, the kids decide to create and race a giant hot air balloon. Meanwhile, Candace is inspired by train engineer Glenda's can-do attitude and decides to "give up" on busting her brothers. On the other side of town, Dr. Doofenshmirtz finds a Dodo bird egg and is convinced that it is a fierce bird-monster that can help him take over the Tri-state area, but discovers the exact opposite when the egg hatches.
-Watch for: nothing flagged.
-
 ## S3 E40 — The Doonkelberry Imperative
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0340.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -1098,15 +1140,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Candace's plans to hang out with Jeremy are derailed after he becomes interested in playing Phineas and Ferb's newest game, jet pack volleyball. Meanwhile, when Dr. Doofenshmirtz discovers he invents "-inators" in his sleep, he decides to go back into his dreams to find out what is happening.
 Watch for: nothing flagged.
 
-## S3 E5 — Phineas' Birthday Clip-O-Rama!
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0305.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: It's Phineas' birthday and for the special occasion, Ferb puts together a clip show of the gang's favorite moments. Meanwhile, Agent P has to stop Dr. Doofenshmirtz from using his 'non-inator' to pre-empt his brother's biography from appearing on television.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Doofenshmirtz: “Now I can't make up my mind- (Perry punches Doof repeatedly in the face)”
-  - Doofenshmirtz: “Perry the Platypus, how did you escape? (Perry beckons Doofenshmirtz to come closer, then punches him in the face) What's that? Oh!”
-
 ## S3 E50 — Sci-Fi Pie Fly
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0350.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -1165,17 +1198,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Agent R accidentally "punches" a hole through the rocket skiff
 
-## S3 E6 — The Belly of the Beast
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0306.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: For Harbor Days Festival, Phineas and Ferb celebrate by creating a mechanical version of the historical elusive shark of Danville Harbor. Seeing what the boys are up to, Candace enlists some help to capture the mysterious shark. Meanwhile, Dr. Doofenshmirtz invents the 'Salt Water Taffy-inator' to give cavities to every kid in the Tri-State Area.
-Watch for:
-- Violence & injury — 4 moment(s)
-  - Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”
-  - At Danville Harbor; the gatherers are watching a puppet show of a man stabbing a harpoon at a shark
-  - Linda: “It never is, honey. (at the kids) Who wants blood pudding?”
-  - Doofenshmirtz: “(prods the water with his spear gun) Okay, I'm good.”
-
 ## S3 E60 — Road to Danville
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0360.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -1198,28 +1220,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - On the end of this, Doofenshmirtz shows Roger his eyes, which are sticking out of his head, and bloodshot
 
-## S3 E7 — Moon Farm
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0307.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Inspired by the lost verse from the nursery rhyme, "Hey, Diddle Diddle", the boys decide to take some cows to the moon to see if its low gravitational pull actually does produce the best tasting ice cream ever. Back at home, Candace decides to take advantage of the boys being gone and attempts to make a fancy dinner for Jeremy, but her lack of cooking skills don't add anything to the plate. Meanwhile, Dr. Doofenshmirtz attempts to use his 'Moisture Suck-inator' to turn his neighbor's plants brown, so that his plants will be greener by comparison.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Stacy: “Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?”
-- Alcohol & drugs — 1 moment(s)
-  - Doofenshmirtz: “And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.”
-
-## S3 E8 — Ask a Foolish Question
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0308.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When Candace discovers that Phineas and Ferb have invented a computer that can answer anything, she asks it how she can finally bust her brothers once and for all. Meanwhile, Dr. Doofenshmirtz loses the key to his latest invention, the "All Purpose-inator," and Agent P must find it before he does.
-Watch for: nothing flagged.
-
-## S3 E9 — Misperceived Monotreme
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0309.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Perry misses his 100th battle against Dr. Doofenshmirtz when Candace takes him to the Charity Pet Wash with her. Perry's absence goes unnoticed when the zookeeper's typical platypus at the Danville Zoo stops Dr. Doofenshmirtz's plan to zap his brother with his "Least Likely-inator." Meanwhile, the boys build a fun house Phineas and Ferb style.
-Watch for: nothing flagged.
-
 ## S4 E1 — For Your Ice Only
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0401.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -1227,6 +1227,63 @@ Summary: National Hockey League star Luc Robitaille offers his assistance when P
 Watch for:
 - Violence & injury — 1 moment(s)
   - Doofenshmirtz: “(Perry beckons Doof to come closer) Yes? (Perry punches Doof, whose head causes the Abominable-inator to point upwards) Ow!”
+
+## S4 E2 — Happy New Year!
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0402.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Phineas and Ferb plan their own New Year's Eve ball drop, complete with a customized multi-dimensional ball, while Candace makes it her resolution to refrain from busting her brothers before the clock hits midnight. Meanwhile, Doofenshmirtz uses a Resolution-Changer-inator in his tie as he continues the never-ending attempts to take over the Tri-State Area.
+Watch for:
+- Affairs / cheating — 1 moment(s)
+  - Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”
+- Violence & injury — 1 moment(s)
+  - Doofenshmirtz: “(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.”
+- Fat-shaming — 1 moment(s)
+  - Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, "I-I'm gonna lose weight," or, "gain a limb," or whatever, to, "I'm going to make Heinz Doofenshmirtz my leader and obey his…”
+
+## S4 E3 — Fly On the Wall
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0403.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Buford removes a part from a tire swing the boys are building and it accidentally shoots a ray that turns Candace into a fly. Meanwhile, Doofenshmirtz is suffering from evil scientist's block.
+Watch for: nothing flagged.
+
+## S4 E4 — Bully Bust
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0404.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Candace challenges Buford to keep Phineas and Ferb's invention from disappearing so that she can sweep in and casually bust her brothers. Across town, Doofenshmirtz has had one too many lattes and is experiencing an extra burst of evil energy.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Buford: “Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.”
+  - Doofenshmirtz: “(Perry punches him, and Doofenshmirtz falls down the stairs, and slides across the ramp of the trap) Hey, whe-where'd ya' go?”
+
+## S4 E5 — My Sweet Ride
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0405.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: It's time for Danville's Doo Wop Hop and car show and the whole town is getting prepped for it. Doofenshmirtz is set on winning the show even if it means using his Rust-inator to turn all the other cars into red dust. Meanwhile, Candace's hope for a car of her own has come true, but it's not quite all she imagined.
+Watch for: nothing flagged.
+
+## S4 E6 — Der Kinderlumper
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0406.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: The boys create Rutabaga-themed vehicles when Candace is chosen to be Rutabaga princess and gets to start the "Running of the Chinchillas." Across town, Doofenshmirtz plans to turn himself into a real live Kinderlumper to scare Roger into relinquishing control of the Tri-State Area over to him.
+Watch for:
+- Slut-shaming — 1 moment(s)
+  - Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes
+
+## S4 E7 — Sidetracked
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0407.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Agent P teams up with an estranged former human partner named Lyla to stop a hijacked train to save the train's passengers and Canada's national treasure - a moose named Albert.
+Watch for:
+- Violence & injury — 3 moment(s)
+  - Doofenshmirtz: “Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!”
+  - Perry drags Doofenshmirtz over a bit to the American side of the train, then punches him
+  - Doofenshmirtz: “Oh no you don't, I'm on the American side now, you can't touch me. (Perry throws a punch) O! Canada. (Lyla does the same) Uh! 'Merica. (Perry hits him) Ow! Oh, it's on now.”
+
+## S4 E9 — Mind Share
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0409.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: The gang switches bodies with alien tourists for a free intergalactic vacation.
+Watch for: nothing flagged.
 
 ## S4 E10 — Backyard Hodge Podge
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0410.html
@@ -1304,18 +1361,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Doofenshmirtz: “…Get it off! Get it off! (Doofenshmirtz open the bubble to let the bugs out) Wait I'm not ready! (Perry punches him, causing him to spin around his bubble) Whoa, whoa, whoa.”
 
-## S4 E2 — Happy New Year!
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0402.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Phineas and Ferb plan their own New Year's Eve ball drop, complete with a customized multi-dimensional ball, while Candace makes it her resolution to refrain from busting her brothers before the clock hits midnight. Meanwhile, Doofenshmirtz uses a Resolution-Changer-inator in his tie as he continues the never-ending attempts to take over the Tri-State Area.
-Watch for:
-- Affairs / cheating — 1 moment(s)
-  - Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”
-- Violence & injury — 1 moment(s)
-  - Doofenshmirtz: “(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.”
-- Fat-shaming — 1 moment(s)
-  - Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, "I-I'm gonna lose weight," or, "gain a limb," or whatever, to, "I'm going to make Heinz Doofenshmirtz my leader and obey his…”
-
 ## S4 E20 — Love at First Byte
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0420.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -1392,12 +1437,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0429.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: When Phineas and Ferb discover a commemorative coin from the 1903 Danville World's Fair, Lawrence recounts the events of the festival to them, in which steam-driven devices were introduced and a set of kids, who were very much like them, were preparing for the highly anticipated event.
-Watch for: nothing flagged.
-
-## S4 E3 — Fly On the Wall
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0403.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Buford removes a part from a tire swing the boys are building and it accidentally shoots a ray that turns Candace into a fly. Meanwhile, Doofenshmirtz is suffering from evil scientist's block.
 Watch for: nothing flagged.
 
 ## S4 E30 — Just Our Luck
@@ -1480,15 +1519,6 @@ Watch for:
   - Baljeet: “(revealing his eyes are red, teary and bloodshot) I wish I would have thoughtfully created an eyewash station. Sheesh!”
   - Doofenshmirtz: “No, no, don't do that! (Perry punches Doofenshmirtz.) You never let me finish my sentences.”
 
-## S4 E4 — Bully Bust
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0404.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Candace challenges Buford to keep Phineas and Ferb's invention from disappearing so that she can sweep in and casually bust her brothers. Across town, Doofenshmirtz has had one too many lattes and is experiencing an extra burst of evil energy.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Buford: “Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.”
-  - Doofenshmirtz: “(Perry punches him, and Doofenshmirtz falls down the stairs, and slides across the ramp of the trap) Hey, whe-where'd ya' go?”
-
 ## S4 E40 — Mandace
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0440.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -1538,41 +1568,74 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: It's been 10 years after the events of the present, and Phineas must decide what university to go to. After discovering that Isabella had a crush on him for years, Phineas must reach her before she leaves for college and express his true feelings for her. Meanwhile, Doofenshmirtz has a mid-life crisis.
 Watch for: nothing flagged.
 
-## S4 E5 — My Sweet Ride
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0405.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: It's time for Danville's Doo Wop Hop and car show and the whole town is getting prepped for it. Doofenshmirtz is set on winning the show even if it means using his Rust-inator to turn all the other cars into red dust. Meanwhile, Candace's hope for a car of her own has come true, but it's not quite all she imagined.
-Watch for: nothing flagged.
-
-## S4 E6 — Der Kinderlumper
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0406.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: The boys create Rutabaga-themed vehicles when Candace is chosen to be Rutabaga princess and gets to start the "Running of the Chinchillas." Across town, Doofenshmirtz plans to turn himself into a real live Kinderlumper to scare Roger into relinquishing control of the Tri-State Area over to him.
-Watch for:
-- Slut-shaming — 1 moment(s)
-  - Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes
-
-## S4 E7 — Sidetracked
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0407.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Agent P teams up with an estranged former human partner named Lyla to stop a hijacked train to save the train's passengers and Canada's national treasure - a moose named Albert.
-Watch for:
-- Violence & injury — 3 moment(s)
-  - Doofenshmirtz: “Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!”
-  - Perry drags Doofenshmirtz over a bit to the American side of the train, then punches him
-  - Doofenshmirtz: “Oh no you don't, I'm on the American side now, you can't touch me. (Perry throws a punch) O! Canada. (Lyla does the same) Uh! 'Merica. (Perry hits him) Ow! Oh, it's on now.”
-
-## S4 E9 — Mind Share
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0409.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: The gang switches bodies with alien tourists for a free intergalactic vacation.
-Watch for: nothing flagged.
-
 ## S5 E1 — Summer Block Buster
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0501.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: The boys decide to ramp up their local summer block party with supersized attractions.
 Watch for: nothing flagged.
+
+## S5 E2 — Cloudy With a Chance of Mom
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0502.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: The kids work to save Mom after she is hit by Doof's inator.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy.
+
+## S5 E3 — Submarine Sandwich Submarine
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0503.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: The kids build a giant submarine sandwich submarine while Doof steals food.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”
+  - As Doof walks up to the inator, Perry kicks him in the head. The inator fires once again. Perry goes up to a time clock and punches his card.
+
+## S5 E4 — License to Bust
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0504.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Candace tries to bust the boys while taking her driving test, and Doof causes chaos in traffic.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.
+  - Wipe down back to Perry who catches up to Doof and gets in the shotgun window.
+
+## S5 E5 — Dry Another Day
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0505.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: The boys build an endless ice luge to beat the heat while Doof brings oil to a waterpark.
+Watch for: nothing flagged.
+
+## S5 E6 — Deconstructing Doof
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0506.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Candace and Doof see the same psychologist, who thinks their experiences may be connected.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Doofenshmirtz: “One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!”
+
+## S5 E7 — Tropey McTropeFace
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0507.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: The boys build a giant zoetrope that goes on an adventure of its own.
+Watch for: nothing flagged.
+
+## S5 E8 — Biblio-Blast!
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0508.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: The kids build a massive bookcase that gets attacked by an army of Doof-plants.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”
+
+## S5 E9 — A Chip to the Vet
+URL: https://watchwiththekids.com/ep/phineas-and-ferb/0509.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: The boys bring Perry to the vet for a checkup and build a pet wash while they wait.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Doofenshmirtz: “(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!”
+  - Doofenshmirtz: “Hold still! Hold still—Argh! (he shoots the gun at the platypus, but misses) It's a good thing I have this practice platypus, 'cause this is much harder than I thought.”
 
 ## S5 E10 — More Than an Intern
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0510.html
@@ -1645,14 +1708,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: The kids build a western town while Agent P is captured by Doofenshmirtz's swamp-dwelling cousin, Bubba Doof.
 Watch for: nothing flagged.
 
-## S5 E2 — Cloudy With a Chance of Mom
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0502.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: The kids work to save Mom after she is hit by Doof's inator.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy.
-
 ## S5 E20 — Attack of the Candace Suit
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0520.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -1720,15 +1775,6 @@ Summary: Isabella is eager to impress foreign emissaries at Droogenfest, but Doo
 Watch for:
 - Violence & injury — 1 moment(s)
   - Isabella and Holly get ride of a beat up oven.
-
-## S5 E3 — Submarine Sandwich Submarine
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0503.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: The kids build a giant submarine sandwich submarine while Doof steals food.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”
-  - As Doof walks up to the inator, Perry kicks him in the head. The inator fires once again. Perry goes up to a time clock and punches his card.
 
 ## S5 E30 — Doofercise
 URL: https://watchwiththekids.com/ep/phineas-and-ferb/0530.html
@@ -1800,49 +1846,3 @@ Watch for:
   - Cut to Mom's car. Phineas and the others are fast asleep, but Isabella is riding shotgun and looks back on them.
   - Doofenshmirtz: “Punch it, Perry the Platypus!”
   - Norm punches his button and does the ultimate sacrifice as all the other machines explode.
-
-## S5 E4 — License to Bust
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0504.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Candace tries to bust the boys while taking her driving test, and Doof causes chaos in traffic.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.
-  - Wipe down back to Perry who catches up to Doof and gets in the shotgun window.
-
-## S5 E5 — Dry Another Day
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0505.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: The boys build an endless ice luge to beat the heat while Doof brings oil to a waterpark.
-Watch for: nothing flagged.
-
-## S5 E6 — Deconstructing Doof
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0506.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Candace and Doof see the same psychologist, who thinks their experiences may be connected.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Doofenshmirtz: “One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!”
-
-## S5 E7 — Tropey McTropeFace
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0507.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: The boys build a giant zoetrope that goes on an adventure of its own.
-Watch for: nothing flagged.
-
-## S5 E8 — Biblio-Blast!
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0508.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: The kids build a massive bookcase that gets attacked by an army of Doof-plants.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”
-
-## S5 E9 — A Chip to the Vet
-URL: https://watchwiththekids.com/ep/phineas-and-ferb/0509.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: The boys bring Perry to the vet for a checkup and build a pet wash while they wait.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Doofenshmirtz: “(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!”
-  - Doofenshmirtz: “Hold still! Hold still—Argh! (he shoots the gun at the platypus, but misses) It's a good thing I have this practice platypus, 'cause this is much harder than I thought.”
