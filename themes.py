@@ -257,6 +257,13 @@ THEME_EXCLUSIONS = {
     ],
     "Affairs / cheating": [
         r"\bfamily\s+affair\b",
+        # Governmental/bureaucratic titles and organizations with "affairs"
+        r"\b(?:indian|foreign|veterans?|public|internal|external|state|domestic|military|naval|home|colonial|civil)\s+affairs?\b",
+        r"\baffairs?\s+(?:committee|commission|commissioner|department|bureau|office|division|agency|board|council|ministry|minister)\b",
+        r"\b(?:department|bureau|office|division|ministry)\s+of\s+\w+\s+affairs?\b",
+        r"\b(?:secretary|minister|director|head)\s+of\s+\w+\s+affairs?\b",
+        # Corporate/organizational affairs (not romantic)
+        r"\b(?:current|world|global|corporate|business|legal|financial|student)\s+affairs?\b",
     ],
     "Violence & injury": [
         r"\bkill(?:ing)? (?:time|the lights|it)\b",
@@ -272,7 +279,7 @@ THEME_EXCLUSIONS = {
         r"\bbigger\s+guns?\b",
         r"\bchipping\s+gun\b",
         r"\bmurder\s+of\s+crows\b",
-        r"\bmurder\s+investigation\b",
+        r"\bmurder\s+(?:investigation|mystery|case|trial|suspect|detective|scene)\b",
         r"\bbleeding\s+isn'?t\s+in\s+my\s+blood\b",
         r"\bblood and tears\b",
         r"\bknife (?:and fork|through butter|pleat)\b",
