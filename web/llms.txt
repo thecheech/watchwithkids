@@ -19,7 +19,7 @@
 - [How I Met Your Mother](https://watchwiththekids.com/how-i-met-your-mother.html): 208 episodes — 14% all clear, 39% gray area, 47% hard pass. Full text index: [how-i-met-your-mother.md](https://watchwiththekids.com/llms/how-i-met-your-mother.md)
 - [The Big Bang Theory](https://watchwiththekids.com/big-bang-theory.html): 263 episodes — 52% all clear, 32% gray area, 16% hard pass. Full text index: [big-bang-theory.md](https://watchwiththekids.com/llms/big-bang-theory.md)
 - [Modern Family](https://watchwiththekids.com/modern-family.html): 246 episodes — 52% all clear, 38% gray area, 9% hard pass. Full text index: [modern-family.md](https://watchwiththekids.com/llms/modern-family.md)
-- [Seinfeld](https://watchwiththekids.com/seinfeld.html): 175 episodes — 55% all clear, 37% gray area, 8% hard pass. Full text index: [seinfeld.md](https://watchwiththekids.com/llms/seinfeld.md)
+- [Seinfeld](https://watchwiththekids.com/seinfeld.html): 176 episodes — 55% all clear, 37% gray area, 8% hard pass. Full text index: [seinfeld.md](https://watchwiththekids.com/llms/seinfeld.md)
 - [The Simpsons](https://watchwiththekids.com/simpsons.html): 564 episodes — 54% all clear, 39% gray area, 8% hard pass. Full text index: [simpsons.md](https://watchwiththekids.com/llms/simpsons.md)
 - [Futurama](https://watchwiththekids.com/futurama.html): 141 episodes — 0% all clear, 79% gray area, 21% hard pass. Full text index: [futurama.md](https://watchwiththekids.com/llms/futurama.md)
 - [Malcolm in the Middle](https://watchwiththekids.com/malcolm-in-the-middle.html): 151 episodes — 66% all clear, 30% gray area, 4% hard pass. Full text index: [malcolm-in-the-middle.md](https://watchwiththekids.com/llms/malcolm-in-the-middle.md)

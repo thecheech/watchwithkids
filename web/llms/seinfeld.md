@@ -1,8 +1,26 @@
-# Seinfeld — parent guide (175 episodes)
+# Seinfeld — parent guide (176 episodes)
 
 Source: https://watchwiththekids.com/seinfeld.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
-Buckets: 96 all clear (1–2), 65 gray area (3), 14 hard pass (4–5).
+Buckets: 97 all clear (1–2), 65 gray area (3), 14 hard pass (4–5).
+
+## S1 E1 — Good News, Bad News
+URL: https://watchwiththekids.com/ep/seinfeld/0101.html
+Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
+Summary: Jerry is excited that a woman he met on the road is coming to visit him in New York. However, he has a tough time discerning whether her intentions are romantic or platonic.
+Watch for:
+- Sex & hookups — 1 moment(s)
+  - GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”
+- Nudity & bodies — 2 moment(s)
+  - JERRY: “Ya know, it's dark, there's bubbles happening, they're all kind a dancing around in there...shirt grabs the underwear: "C'mon babe, let's gather".”
+  - “job-interviews is there a chance you'll end up naked at the end”
+- Violence & injury — 2 moment(s)
+  - “for getting out blood-stains...Is this a violent image to anybody?”
+  - “Blood-stains? I mean, I, come on, you got a T-shirt with blood-stains”
+- Alcohol & drugs — 3 moment(s)
+  - JERRY: “[hands George a beer] Look, it's a very awkward situation, I, I don't wanna be presumptuous.”
+  - LAURA: “[laughs] Actually uhm, do you have any wine?”
+  - JERRY: “[doubtfully] Yeah, we could do that...why not, why not. [pours the wine] I'm just, I'm really glad you're here. [the phone rings; he picks it up] Yeah, hello...yes...yes, she is, hold on. [to Laura] Uhm, it's for you.”
 
 ## S1 E2 — The Stakeout
 URL: https://watchwiththekids.com/ep/seinfeld/0102.html

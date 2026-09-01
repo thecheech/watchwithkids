@@ -22,8 +22,156 @@
     }
   },
   "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
-  "count": 175,
+  "count": 176,
   "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "code": "0101",
+      "title": "Good News, Bad News",
+      "index_title": "Good News, Bad News",
+      "url": "https://www.seinfeldscripts.com/TheSeinfeldChronicles.htm",
+      "file": "transcripts/seinfeld/s01e01-the-seinfeld-chronicles.txt",
+      "summary": "Jerry is excited that a woman he met on the road is coming to visit him in New York. However, he has a tough time discerning whether her intentions are romantic or platonic.",
+      "violence": 2,
+      "sex": 2,
+      "language": 1,
+      "overall": 2,
+      "age": 10,
+      "verdict": "Mild — okay from about 10+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
+      "themes": {
+        "fine": [
+          "Observational New York comedy",
+          "Friend-group hangouts",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Sex & hookups",
+          "Nudity & bodies",
+          "Violence & injury",
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Sex & hookups",
+            "group": "sex",
+            "how": "GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”",
+            "count": 1,
+            "intensity": 2,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "GEORGE",
+                "text": "Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Nudity & bodies",
+            "group": "sex",
+            "how": "JERRY: “Ya know, it's dark, there's bubbles happening, they're all kind a dancing around in there...shirt grabs the underwear: \"C'mon babe, let's gather\".”",
+            "count": 2,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "JERRY",
+                "text": "Ya know, it's dark, there's bubbles happening, they're all kind a dancing around in there...shirt grabs the underwear: \"C'mon babe, let's gather\".",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "quote",
+                "speaker": null,
+                "text": "job-interviews is there a chance you'll end up naked at the end",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "“for getting out blood-stains...Is this a violent image to anybody?”",
+            "count": 2,
+            "intensity": 2,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": null,
+                "text": "for getting out blood-stains...Is this a violent image to anybody?",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": null,
+                "text": "Blood-stains? I mean, I, come on, you got a T-shirt with blood-stains",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "JERRY: “[hands George a beer] Look, it's a very awkward situation, I, I don't wanna be presumptuous.”",
+            "count": 3,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "JERRY",
+                "text": "[hands George a beer] Look, it's a very awkward situation, I, I don't wanna be presumptuous.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "LAURA",
+                "text": "[laughs] Actually uhm, do you have any wine?",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "quote",
+                "speaker": "JERRY",
+                "text": "[doubtfully] Yeah, we could do that...why not, why not. [pours the wine] I'm just, I'm really glad you're here. [the phone rings; he picks it up] Yeah, hello...yes...yes, she is, hold on. [to Laura] Uhm, it's for you.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Sex & hookups — GEORGE: “Ya know, I can't believe you're bringin' in an extra bed for woman, that wants to sleep with you. Why don't you bring in an extra guy too? [sits down]”",
+        "Nudity & bodies — JERRY: “Ya know, it's dark, there's bubbles happening, they're all kind a dancing around in there...shirt grabs the underwear: \"C'mon babe, let's gather\".”",
+        "Violence & injury — “for getting out blood-stains...Is this a violent image to anybody?”",
+        "Alcohol & drugs — JERRY: “[hands George a beer] Look, it's a very awkward situation, I, I don't wanna be presumptuous.”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
     {
       "season": 1,
       "episode": 2,

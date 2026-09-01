@@ -45,6 +45,11 @@ TITLE_ALIASES: dict[str, dict[str, str]] = {
         "pilot episode": "pilot",
         "the middle earth paradigm": "the middle earth paradigm",
     },
+    "seinfeld": {
+        # Transcript index uses the working title; TVMaze uses the broadcast name.
+        "the seinfeld chronicles": "good news bad news",
+        "seinfeld chronicles": "good news bad news",
+    },
 }
 
 # Drop these TVmaze rows even when they have season/episode numbers.
