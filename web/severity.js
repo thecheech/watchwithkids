@@ -1,6 +1,6 @@
 (() => {
-  const LABEL = {"1": "Clear", "2": "Mild", "3": "Gray area", "4": "Spicy", "5": "Adults only"};
-  const HINT = {"1": "All clear — nothing to worry about", "2": "Mild — passing mention or joke", "3": "Gray area — preview or stay in the room", "4": "Spicy — skip for younger kids", "5": "Adults only — hard pass for kids"};
+  const LABEL = {"2": "Mild", "3": "Caution", "4": "Too much"};
+  const HINT = {"2": "Mild — passing mention or joke", "3": "Caution — preview or stay in the room", "4": "Too much — skip for younger kids"};
   const FROM_INTENSITY = {1: 2, 2: 3, 3: 4};
 
   function score(d) {
@@ -14,13 +14,24 @@
     return FROM_INTENSITY[Number(d?.intensity) || 1] || 2;
   }
 
+  function tier(score) {
+    const s = Number(score) || 2;
+    if (s <= 2) return 2;
+    if (s === 3) return 3;
+    return 4;
+  }
+
   function rankClass(n) {
-    if (n >= 5) return "severity-adult";
-    if (n >= 4) return "severity-spicy";
-    if (n === 3) return "severity-gray";
-    if (n <= 1) return "severity-clear";
+    if (n >= 4) return "severity-too-much";
+    if (n === 3) return "severity-caution";
     return "severity-mild";
   }
 
-  window.WWTK_SEVERITY = { label: LABEL, hint: HINT, score, rankClass };
+  window.WWTK_SEVERITY = {
+    label: LABEL,
+    hint: HINT,
+    score,
+    tier(d) { return tier(score(d)); },
+    rankClass,
+  };
 })();

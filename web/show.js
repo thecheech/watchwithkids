@@ -41,11 +41,11 @@
   const SEV = () => window.WWTK_SEVERITY;
 
   function themeSeverity(d) {
-    return SEV().score(d);
+    return SEV().tier(d);
   }
 
-  function severityRankClass(n) {
-    return SEV().rankClass(n);
+  function severityRankClass(tier) {
+    return SEV().rankClass(tier);
   }
 
   const NOTES_TITLE = {
@@ -320,15 +320,15 @@
       extra = `<span class="theme-stat theme-more" aria-label="${count} flagged in this episode"><span class="theme-stat-val">${count}</span><span class="theme-stat-label">flags</span></span>`;
     }
 
-    const severity = themeSeverity(d);
-    const severityLabel = SEV().label[severity] || SEV().label[3];
-    const severityClass = severityRankClass(severity);
+    const tier = themeSeverity(d);
+    const severityLabel = SEV().label[tier] || SEV().label[2];
+    const severityClass = severityRankClass(tier);
 
     return `<li class="theme-item">
       <a href="${href}" class="theme-item-link" aria-label="View ${escapeHtml(d.theme)} details in episode">
         <span class="theme-item-head">
           <span class="theme-name">${escapeHtml(d.theme)}</span>${extra}
-          <span class="theme-stat theme-rank ${severityClass}" aria-label="${escapeHtml(severityLabel)} — ${severity} out of 5"><span class="theme-stat-label">${escapeHtml(severityLabel)}</span></span>
+          <span class="theme-stat theme-rank ${severityClass}" aria-label="${escapeHtml(severityLabel)}"><span class="theme-stat-label">${escapeHtml(severityLabel)}</span></span>
         </span>${headline ? `<span class="theme-how">${headline}</span>` : ""}
       </a>
     </li>`;

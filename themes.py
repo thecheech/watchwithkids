@@ -591,22 +591,22 @@ def intensity_of(sev: int) -> int:
 
 INTENSITY_LABEL = {1: "joke or passing mention", 2: "moderate", 3: "explicit"}
 
-# Parent-facing 1–5 labels (show cards, episode quotes — keep in sync with web/severity.js).
-SEVERITY_LABEL = {
-    1: "Clear",
+# Parent-facing theme/moment tiers (2–4 only — keep in sync with web/severity.js).
+SEVERITY_TIER_LABEL = {
     2: "Mild",
-    3: "Gray area",
-    4: "Spicy",
-    5: "Adults only",
+    3: "Caution",
+    4: "Too much",
 }
 
-SEVERITY_HINT = {
-    1: "All clear — nothing to worry about",
+SEVERITY_TIER_HINT = {
     2: "Mild — passing mention or joke",
-    3: "Gray area — preview or stay in the room",
-    4: "Spicy — skip for younger kids",
-    5: "Adults only — hard pass for kids",
+    3: "Caution — preview or stay in the room",
+    4: "Too much — skip for younger kids",
 }
+
+# Legacy aliases for internal prose
+SEVERITY_LABEL = SEVERITY_TIER_LABEL
+SEVERITY_HINT = SEVERITY_TIER_HINT
 
 
 def severity_score(*, intensity: int = 1, pattern_sev: int = 0) -> int:
@@ -621,6 +621,16 @@ def severity_score(*, intensity: int = 1, pattern_sev: int = 0) -> int:
     if sev in (1, 2):
         return 2
     return {1: 2, 2: 3, 3: 4}.get(int(intensity or 1), 2)
+
+
+def severity_tier(score: int) -> int:
+    """Collapse internal 1–5 score to display tier 2 (Mild), 3 (Caution), or 4 (Too much)."""
+    s = int(score or 2)
+    if s <= 2:
+        return 2
+    if s == 3:
+        return 3
+    return 4
 
 def _position(index: int, total: int) -> str:
     if total <= 1:

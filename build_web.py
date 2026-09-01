@@ -14,7 +14,7 @@ from urllib.parse import quote_plus
 
 from catalog import dedupe_codes
 from shows_meta import CANON_ONLY, MOVIE_SHOWS, meta_for
-from themes import SEVERITY_HINT, SEVERITY_LABEL, severity_score
+from themes import SEVERITY_TIER_HINT, SEVERITY_TIER_LABEL, severity_score, severity_tier
 
 ROOT = Path(__file__).resolve().parent
 WEB = ROOT / "web"
@@ -287,8 +287,8 @@ def render_instance(inst: dict) -> str:
     return f"{prefix}{body}" if prefix else body
 
 
-INTENSITY_SHORT = SEVERITY_LABEL
-INTENSITY_HINT = SEVERITY_HINT
+INTENSITY_SHORT = SEVERITY_TIER_LABEL
+INTENSITY_HINT = SEVERITY_TIER_HINT
 
 
 def instance_severity(inst: dict) -> int:
@@ -302,25 +302,25 @@ def instance_severity(inst: dict) -> int:
 
 
 def instance_meta_plain(inst: dict) -> str:
-    level = instance_severity(inst)
-    label = SEVERITY_LABEL.get(level, f"Level {level}")
+    tier = severity_tier(instance_severity(inst))
+    label = SEVERITY_TIER_LABEL.get(tier, "Mild")
     return f"[{label}] "
 
 
 def instance_meta_html(inst: dict) -> str:
-    level = instance_severity(inst)
-    label = SEVERITY_LABEL.get(level, f"Level {level}")
-    hint = SEVERITY_HINT.get(level, label)
+    tier = severity_tier(instance_severity(inst))
+    label = SEVERITY_TIER_LABEL.get(tier, "Mild")
+    hint = SEVERITY_TIER_HINT.get(tier, label)
     chip = (
-        f'<span class="instance-severity severity-{level}" title="{esc(hint)}">{esc(label)}</span>'
+        f'<span class="instance-severity severity-{tier}" title="{esc(hint)}">{esc(label)}</span>'
     )
     return f'<div class="instance-meta">{chip}</div>'
 
 
 def write_severity_js() -> None:
     js = f"""(() => {{
-  const LABEL = {json.dumps(SEVERITY_LABEL, ensure_ascii=False)};
-  const HINT = {json.dumps(SEVERITY_HINT, ensure_ascii=False)};
+  const LABEL = {json.dumps(SEVERITY_TIER_LABEL, ensure_ascii=False)};
+  const HINT = {json.dumps(SEVERITY_TIER_HINT, ensure_ascii=False)};
   const FROM_INTENSITY = {{1: 2, 2: 3, 3: 4}};
 
   function score(d) {{
@@ -334,15 +334,26 @@ def write_severity_js() -> None:
     return FROM_INTENSITY[Number(d?.intensity) || 1] || 2;
   }}
 
+  function tier(score) {{
+    const s = Number(score) || 2;
+    if (s <= 2) return 2;
+    if (s === 3) return 3;
+    return 4;
+  }}
+
   function rankClass(n) {{
-    if (n >= 5) return "severity-adult";
-    if (n >= 4) return "severity-spicy";
-    if (n === 3) return "severity-gray";
-    if (n <= 1) return "severity-clear";
+    if (n >= 4) return "severity-too-much";
+    if (n === 3) return "severity-caution";
     return "severity-mild";
   }}
 
-  window.WWTK_SEVERITY = {{ label: LABEL, hint: HINT, score, rankClass }};
+  window.WWTK_SEVERITY = {{
+    label: LABEL,
+    hint: HINT,
+    score,
+    tier(d) {{ return tier(score(d)); }},
+    rankClass,
+  }};
 }})();
 """
     (WEB / "severity.js").write_text(js)
