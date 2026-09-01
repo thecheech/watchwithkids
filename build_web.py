@@ -1043,6 +1043,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
 {site_footer("../../")}
   </div>
   <script>window.EP_PAGE = {json.dumps(boot, ensure_ascii=False)};</script>
+  <script src="../../skip-link.js"></script>
   <script src="../../episode.js"></script>
 </body>
 </html>
@@ -1319,6 +1320,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
 {site_footer()}
 
   <script src="data/{show_id}.js"></script>
+  <script src="skip-link.js"></script>
   <script src="show.js"></script>
 </body>
 </html>

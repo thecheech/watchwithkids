@@ -85,6 +85,33 @@
   let reason = "";
   let lastFocus = null;
   let closeTimer = null;
+  let focusTrapCleanup = null;
+
+  function trapFocus(element) {
+    const focusableSelector = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+    const focusableElements = element.querySelectorAll(focusableSelector);
+    const firstFocusable = focusableElements[0];
+    const lastFocusable = focusableElements[focusableElements.length - 1];
+
+    function handleKeyDown(e) {
+      if (e.key !== 'Tab') return;
+
+      if (e.shiftKey) {
+        if (document.activeElement === firstFocusable) {
+          e.preventDefault();
+          lastFocusable.focus();
+        }
+      } else {
+        if (document.activeElement === lastFocusable) {
+          e.preventDefault();
+          firstFocusable.focus();
+        }
+      }
+    }
+
+    element.addEventListener('keydown', handleKeyDown);
+    return () => element.removeEventListener('keydown', handleKeyDown);
+  }
 
   reasonsEl.innerHTML = REASONS.map(
     (r) => `
@@ -98,6 +125,10 @@
     if (closeTimer) {
       window.clearTimeout(closeTimer);
       closeTimer = null;
+    }
+    if (focusTrapCleanup) {
+      focusTrapCleanup();
+      focusTrapCleanup = null;
     }
     activeEp = target;
     reason = "";
@@ -116,14 +147,18 @@
     sheet.hidden = false;
     document.body.classList.add("report-open");
     lastFocus = document.activeElement;
-    // Force a layout pass after un-hiding so opacity/pointer-events
-    // transition from the resting state instead of staying ghosted.
     void sheet.offsetWidth;
     scrim.classList.add("is-on");
     sheet.classList.add("is-on");
+    focusTrapCleanup = trapFocus(sheet);
+    reasonsEl.querySelector("input")?.focus();
   }
 
   function closeReport() {
+    if (focusTrapCleanup) {
+      focusTrapCleanup();
+      focusTrapCleanup = null;
+    }
     scrim.classList.remove("is-on");
     sheet.classList.remove("is-on");
     document.body.classList.remove("report-open");
