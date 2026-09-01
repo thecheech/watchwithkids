@@ -13,6 +13,67 @@ Watch for:
   - A Centipeetle sneaks up from beside Garnet, which she quickly punches away.
   - Garnet punches and poofs it. Steven then notices that the fridge is full of Cookie Cats.
 
+## S1 E2 — Laser Light Cannon
+URL: https://watchwiththekids.com/ep/steven-universe/0102.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: When a menacing red eye is about to hit Beach City, the only thing that can destroy it is a Laser Light Cannon which once belonged to Steven's mother, Rose Quartz. Thus, Steven enlists the help of his father, Greg, and they search through his storage for the cannon.
+Watch for: nothing flagged.
+
+## S1 E3 — Cheeseburger Backpack
+URL: https://watchwiththekids.com/ep/steven-universe/0103.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: The Crystal Gems go on a mission to place a Moon Goddess statue on top of the ruined Lunar Sea Spire, and Steven tries to prove he can be useful with the help of his new novelty Cheeseburger Backpack.
+Watch for: nothing flagged.
+
+## S1 E4 — Together Breakfast
+URL: https://watchwiththekids.com/ep/steven-universe/0104.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Steven's attempt to get the Gems to share his special breakfast tradition lands him on a journey through their ancient Gem temple.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away.
+
+## S1 E5 — Frybo
+URL: https://watchwiththekids.com/ep/steven-universe/0105.html
+Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Steven brings a mascot costume to life with a magical gem shard in order help his friend Peedee, but it backfires when the mascot goes rogue.
+Watch for:
+- Nudity & bodies — 2 moment(s)
+  - Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.
+  - Steven’s garments carry the Frybo costume and prepare to send it out to sea on a makeshift raft while Steven, still naked, and others look on.
+
+## S1 E6 — Cat Fingers
+URL: https://watchwiththekids.com/ep/steven-universe/0106.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven tries to master his shapeshifting abilities with Amethyst, but turns his fingers into cats, making it harder to do things.
+Watch for: nothing flagged.
+
+## S1 E7 — Bubble Buddies
+URL: https://watchwiththekids.com/ep/steven-universe/0107.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Steven forms a magic bubble around himself and a girl named Connie to save her from a falling rock, but he has no idea how to make it disappear.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!
+  - It's okay, I'm a Gem. Onion, we need a harpoon gun! *slowly* HAR-POON-GUUUN!
+
+## S1 E8 — Serious Steven
+URL: https://watchwiththekids.com/ep/steven-universe/0108.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: While navigating out of an ancient Gem maze, Steven tries to prove himself to the Gems by being serious.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Alright, but be careful. You might trigger a trap with that gun-show.
+
+## S1 E9 — Tiger Millionaire
+URL: https://watchwiththekids.com/ep/steven-universe/0109.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Steven joins an underground wrestling league with Amethyst, who's tired of Garnet and Pearl bringing her down.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!
+  - Garnet summons her gauntlets and is locked in a fist fight with Purple Puma.
+
 ## S1 E10 — Steven's Lion
 URL: https://watchwiththekids.com/ep/steven-universe/0110.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -84,12 +145,6 @@ Watch for:
 URL: https://watchwiththekids.com/ep/steven-universe/0119.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Steven's desire for some alone time unlocks a new room in the temple that answers his every wish.
-Watch for: nothing flagged.
-
-## S1 E2 — Laser Light Cannon
-URL: https://watchwiththekids.com/ep/steven-universe/0102.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: When a menacing red eye is about to hit Beach City, the only thing that can destroy it is a Laser Light Cannon which once belonged to Steven's mother, Rose Quartz. Thus, Steven enlists the help of his father, Greg, and they search through his storage for the cannon.
 Watch for: nothing flagged.
 
 ## S1 E20 — Coach Steven
@@ -170,12 +225,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Amethyst, caught off-guard, gets punched by the black hand, flinging her onto another waterfall.
 
-## S1 E3 — Cheeseburger Backpack
-URL: https://watchwiththekids.com/ep/steven-universe/0103.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: The Crystal Gems go on a mission to place a Moon Goddess statue on top of the ruined Lunar Sea Spire, and Steven tries to prove he can be useful with the help of his new novelty Cheeseburger Backpack.
-Watch for: nothing flagged.
-
 ## S1 E30 — Island Adventure
 URL: https://watchwiththekids.com/ep/steven-universe/0130.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -255,14 +304,6 @@ Watch for:
   - pick up the knife...
   - What's happening to me? I'm supposed to be... a Crystal Gem. I'm supposed to be a Crystal Gem! (Thunder crashes.) AAAAAHHH! *punches the table off him and gets up* Ugh!
 
-## S1 E4 — Together Breakfast
-URL: https://watchwiththekids.com/ep/steven-universe/0104.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Steven's attempt to get the Gems to share his special breakfast tradition lands him on a journey through their ancient Gem temple.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away.
-
 ## S1 E40 — On the Run
 URL: https://watchwiththekids.com/ep/steven-universe/0140.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -335,15 +376,6 @@ Watch for:
   - Future vision...! Wait, are you gonna be able to beat her on your own?
   - Garnet lands a few punches on Jasper's face, but Jasper grabs her and flails her onto the ground, sending her crashing on the floor and cracking it.
 
-## S1 E5 — Frybo
-URL: https://watchwiththekids.com/ep/steven-universe/0105.html
-Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Steven brings a mascot costume to life with a magical gem shard in order help his friend Peedee, but it backfires when the mascot goes rogue.
-Watch for:
-- Nudity & bodies — 2 moment(s)
-  - Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.
-  - Steven’s garments carry the Frybo costume and prepare to send it out to sea on a makeshift raft while Steven, still naked, and others look on.
-
 ## S1 E50 — Full Disclosure
 URL: https://watchwiththekids.com/ep/steven-universe/0150.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -367,38 +399,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - And if you think you're safe here, well I got news for you. You lost! Now! *summons her gauntlets and prepares to punch the pod*
 
-## S1 E6 — Cat Fingers
-URL: https://watchwiththekids.com/ep/steven-universe/0106.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven tries to master his shapeshifting abilities with Amethyst, but turns his fingers into cats, making it harder to do things.
-Watch for: nothing flagged.
-
-## S1 E7 — Bubble Buddies
-URL: https://watchwiththekids.com/ep/steven-universe/0107.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Steven forms a magic bubble around himself and a girl named Connie to save her from a falling rock, but he has no idea how to make it disappear.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!
-  - It's okay, I'm a Gem. Onion, we need a harpoon gun! *slowly* HAR-POON-GUUUN!
-
-## S1 E8 — Serious Steven
-URL: https://watchwiththekids.com/ep/steven-universe/0108.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: While navigating out of an ancient Gem maze, Steven tries to prove himself to the Gems by being serious.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Alright, but be careful. You might trigger a trap with that gun-show.
-
-## S1 E9 — Tiger Millionaire
-URL: https://watchwiththekids.com/ep/steven-universe/0109.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Steven joins an underground wrestling league with Amethyst, who's tired of Garnet and Pearl bringing her down.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!
-  - Garnet summons her gauntlets and is locked in a fist fight with Purple Puma.
-
 ## S2 E1 — Say Uncle
 URL: https://watchwiththekids.com/ep/steven-universe/0201.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -406,6 +406,62 @@ Summary: Steven meets Uncle Grandpa
 Watch for:
 - Violence & injury — 1 moment(s)
   - Amethyst pulls Uncle Grandpa in and the Gems start beating him up. They then leap into the sky, leaving a beaten-up Uncle Grandpa on the ground.
+
+## S2 E2 — Story for Steven
+URL: https://watchwiththekids.com/ep/steven-universe/0202.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Greg reveals how he met Rose-Quartz.
+Watch for: nothing flagged.
+
+## S2 E3 — Shirt Club
+URL: https://watchwiththekids.com/ep/steven-universe/0203.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Steven makes T-shirts with Buck Dewey.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - It's not something we can punch. *punches her own palm*
+
+## S2 E4 — Love Letters
+URL: https://watchwiththekids.com/ep/steven-universe/0204.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven and Connie help Jamie the mailman with love.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean.
+
+## S2 E5 — Reformed
+URL: https://watchwiththekids.com/ep/steven-universe/0205.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven, Amethyst and Garnet chase a corrupted gem monster through the Temple.
+Watch for:
+- Violence & injury — 3 moment(s)
+  - Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem.
+  - Amethyst runs toward a crystal pillar and punches it out of her way, shattering it. Steven and Garnet shield themselves from the debris and follow after her.
+  - The Slinker eats the distracted Amethyst and poofs her. Garnet leaps in and punches the Slinker, causing it to spit out Amethyst's gem, and Steven catches it. Steven sighs as he holds it against his chest.
+
+## S2 E6 — Sworn to the Sword
+URL: https://watchwiththekids.com/ep/steven-universe/0206.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Connie wants to learn sword fighting.
+Watch for: nothing flagged.
+
+## S2 E7 — Rising Tides, Crashing Skies
+URL: https://watchwiththekids.com/ep/steven-universe/0207.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Ronaldo does some investigative reporting on whether Steven and the Crystal Gems are safe for Beach City.
+Watch for: nothing flagged.
+
+## S2 E8 — Keeping It Together
+URL: https://watchwiththekids.com/ep/steven-universe/0208.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven and the Crystal Gems revisit the Kindergarten and find a dark secret.
+Watch for: nothing flagged.
+
+## S2 E9 — We Need to Talk
+URL: https://watchwiththekids.com/ep/steven-universe/0209.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Greg tells Steven and Connie the story of how he learned about Gem fusion.
+Watch for: nothing flagged.
 
 ## S2 E10 — Chille Tid
 URL: https://watchwiththekids.com/ep/steven-universe/0210.html
@@ -485,12 +541,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Steven helps a friend who is afraid of thunderstorms.
 Watch for: nothing flagged.
 
-## S2 E2 — Story for Steven
-URL: https://watchwiththekids.com/ep/steven-universe/0202.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Greg reveals how he met Rose-Quartz.
-Watch for: nothing flagged.
-
 ## S2 E20 — Back to the Barn
 URL: https://watchwiththekids.com/ep/steven-universe/0220.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -543,56 +593,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Steven listens to a friend's audio diary.
 Watch for: nothing flagged.
 
-## S2 E3 — Shirt Club
-URL: https://watchwiththekids.com/ep/steven-universe/0203.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Steven makes T-shirts with Buck Dewey.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - It's not something we can punch. *punches her own palm*
-
-## S2 E4 — Love Letters
-URL: https://watchwiththekids.com/ep/steven-universe/0204.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven and Connie help Jamie the mailman with love.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean.
-
-## S2 E5 — Reformed
-URL: https://watchwiththekids.com/ep/steven-universe/0205.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven, Amethyst and Garnet chase a corrupted gem monster through the Temple.
-Watch for:
-- Violence & injury — 3 moment(s)
-  - Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem.
-  - Amethyst runs toward a crystal pillar and punches it out of her way, shattering it. Steven and Garnet shield themselves from the debris and follow after her.
-  - The Slinker eats the distracted Amethyst and poofs her. Garnet leaps in and punches the Slinker, causing it to spit out Amethyst's gem, and Steven catches it. Steven sighs as he holds it against his chest.
-
-## S2 E6 — Sworn to the Sword
-URL: https://watchwiththekids.com/ep/steven-universe/0206.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Connie wants to learn sword fighting.
-Watch for: nothing flagged.
-
-## S2 E7 — Rising Tides, Crashing Skies
-URL: https://watchwiththekids.com/ep/steven-universe/0207.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Ronaldo does some investigative reporting on whether Steven and the Crystal Gems are safe for Beach City.
-Watch for: nothing flagged.
-
-## S2 E8 — Keeping It Together
-URL: https://watchwiththekids.com/ep/steven-universe/0208.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven and the Crystal Gems revisit the Kindergarten and find a dark secret.
-Watch for: nothing flagged.
-
-## S2 E9 — We Need to Talk
-URL: https://watchwiththekids.com/ep/steven-universe/0209.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Greg tells Steven and Connie the story of how he learned about Gem fusion.
-Watch for: nothing flagged.
-
 ## S3 E1 — Super Watermelon Island
 URL: https://watchwiththekids.com/ep/steven-universe/0301.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -602,6 +602,59 @@ Watch for:
   - Alexandrite attempts to breath fire, but Malachite punches Alexandrite in her cheek.
   - The four Watermelon Stevens begin punching Malachite's eyes, causing her to grunt in pain and stumble backwards.
   - Alexandrite pulls Malachite in and delivers a powerful punch to her stomach.
+
+## S3 E2 — Gem Drill
+URL: https://watchwiththekids.com/ep/steven-universe/0302.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven and Peridot take on the Cluster.
+Watch for: nothing flagged.
+
+## S3 E3 — Same Old World
+URL: https://watchwiththekids.com/ep/steven-universe/0303.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven flies around the world with Lapis Lazuli.
+Watch for: nothing flagged.
+
+## S3 E4 — Barn Mates
+URL: https://watchwiththekids.com/ep/steven-universe/0304.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven helps two of his friends get along at the barn.
+Watch for: nothing flagged.
+
+## S3 E5 — Hit the Diamond
+URL: https://watchwiththekids.com/ep/steven-universe/0305.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven and the Gems engage in an old-fashioned game of baseball.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Sapphire waves at Ruby and she blushes. "Army" then leaps in and punches Ruby in the back.
+
+## S3 E6 — Steven Floats
+URL: https://watchwiththekids.com/ep/steven-universe/0306.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven aquires a new gem power.
+Watch for: nothing flagged.
+
+## S3 E7 — Drop Beat Dad
+URL: https://watchwiththekids.com/ep/steven-universe/0307.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven tries to help Sour Cream reconnect with his estranged father.
+Watch for:
+- Violence & injury — 2 moment(s)
+  - That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*
+  - Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.
+
+## S3 E8 — Mr. Greg
+URL: https://watchwiththekids.com/ep/steven-universe/0308.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven visits Empire City with Greg and Pearl.
+Watch for: nothing flagged.
+
+## S3 E9 — Too Short to Ride
+URL: https://watchwiththekids.com/ep/steven-universe/0309.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven visits Funland with Amethyst but runs into trouble when their friend is too short to ride the rollercoasters.
+Watch for: nothing flagged.
 
 ## S3 E10 — The New Lars
 URL: https://watchwiththekids.com/ep/steven-universe/0310.html
@@ -682,12 +735,6 @@ Watch for:
   - Amethyst shapeshifts into Purple Puma and charges for Steven. She punches the ground as Steven floats away, dodging her punch.
   - Steven and Amethyst charge at each other, attempting to punch each other, but they both miss and fall to the ground.
 
-## S3 E2 — Gem Drill
-URL: https://watchwiththekids.com/ep/steven-universe/0302.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven and Peridot take on the Cluster.
-Watch for: nothing flagged.
-
 ## S3 E21 — Beta
 URL: https://watchwiththekids.com/ep/steven-universe/0321.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -720,53 +767,6 @@ Watch for:
   - "Eyeball" snickers as her gem shimmers, and she pulls a chisel knife out of her gem.
   - Steven stops running to think, and "Eyeball" bumps into him. "Eyeball" has Steven pinned down, with her chisel knife floating right above them.
 
-## S3 E3 — Same Old World
-URL: https://watchwiththekids.com/ep/steven-universe/0303.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven flies around the world with Lapis Lazuli.
-Watch for: nothing flagged.
-
-## S3 E4 — Barn Mates
-URL: https://watchwiththekids.com/ep/steven-universe/0304.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven helps two of his friends get along at the barn.
-Watch for: nothing flagged.
-
-## S3 E5 — Hit the Diamond
-URL: https://watchwiththekids.com/ep/steven-universe/0305.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven and the Gems engage in an old-fashioned game of baseball.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Sapphire waves at Ruby and she blushes. "Army" then leaps in and punches Ruby in the back.
-
-## S3 E6 — Steven Floats
-URL: https://watchwiththekids.com/ep/steven-universe/0306.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven aquires a new gem power.
-Watch for: nothing flagged.
-
-## S3 E7 — Drop Beat Dad
-URL: https://watchwiththekids.com/ep/steven-universe/0307.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven tries to help Sour Cream reconnect with his estranged father.
-Watch for:
-- Violence & injury — 2 moment(s)
-  - That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*
-  - Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.
-
-## S3 E8 — Mr. Greg
-URL: https://watchwiththekids.com/ep/steven-universe/0308.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven visits Empire City with Greg and Pearl.
-Watch for: nothing flagged.
-
-## S3 E9 — Too Short to Ride
-URL: https://watchwiththekids.com/ep/steven-universe/0309.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven visits Funland with Amethyst but runs into trouble when their friend is too short to ride the rollercoasters.
-Watch for: nothing flagged.
-
 ## S4 E1 — Kindergarten Kid
 URL: https://watchwiththekids.com/ep/steven-universe/0401.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
@@ -774,6 +774,52 @@ Summary: A monster problem surfaces.
 Watch for:
 - Violence & injury — 1 moment(s)
   - The other Gems are in front of another cage, ready to beat up a Corrupted Gem inside.
+
+## S4 E2 — Know Your Fusion
+URL: https://watchwiththekids.com/ep/steven-universe/0402.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven and the Gems examine fusions.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - *thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!
+
+## S4 E3 — Buddy's Book
+URL: https://watchwiththekids.com/ep/steven-universe/0403.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven visits the library with Connie and uncovers a long lost book.
+Watch for: nothing flagged.
+
+## S4 E4 — Mindful Education
+URL: https://watchwiththekids.com/ep/steven-universe/0404.html
+Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
+Summary: Steven and Connie learn to focus better.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear
+
+## S4 E5 — Future Boy Zoltron
+URL: https://watchwiththekids.com/ep/steven-universe/0405.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven tells people's fortunes at Funland.
+Watch for: nothing flagged.
+
+## S4 E6 — Last One Out of Beach City
+URL: https://watchwiththekids.com/ep/steven-universe/0406.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Pearl, Steven and Amethyst go to a rock show.
+Watch for: nothing flagged.
+
+## S4 E7 — Onion Gang
+URL: https://watchwiththekids.com/ep/steven-universe/0407.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven learns about Onion's secret group of friends.
+Watch for: nothing flagged.
+
+## S4 E9 — Three Gems and a Baby
+URL: https://watchwiththekids.com/ep/steven-universe/0409.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Greg tells Steven the story of his first winter with Steven.
+Watch for: nothing flagged.
 
 ## S4 E10 — Steven's Dream
 URL: https://watchwiththekids.com/ep/steven-universe/0410.html
@@ -852,14 +898,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - I don't know about this. She tried to stab you in space.
 
-## S4 E2 — Know Your Fusion
-URL: https://watchwiththekids.com/ep/steven-universe/0402.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven and the Gems examine fusions.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - *thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!
-
 ## S4 E21 — Doug Out
 URL: https://watchwiththekids.com/ep/steven-universe/0421.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -893,49 +931,63 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Very nice meeting you all, and your compliance is appreciated, but!- *dodges a stab from Pearl's spear* Our job here is done, so...
 
-## S4 E3 — Buddy's Book
-URL: https://watchwiththekids.com/ep/steven-universe/0403.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven visits the library with Connie and uncovers a long lost book.
-Watch for: nothing flagged.
-
-## S4 E4 — Mindful Education
-URL: https://watchwiththekids.com/ep/steven-universe/0404.html
-Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
-Summary: Steven and Connie learn to focus better.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear
-
-## S4 E5 — Future Boy Zoltron
-URL: https://watchwiththekids.com/ep/steven-universe/0405.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven tells people's fortunes at Funland.
-Watch for: nothing flagged.
-
-## S4 E6 — Last One Out of Beach City
-URL: https://watchwiththekids.com/ep/steven-universe/0406.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Pearl, Steven and Amethyst go to a rock show.
-Watch for: nothing flagged.
-
-## S4 E7 — Onion Gang
-URL: https://watchwiththekids.com/ep/steven-universe/0407.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven learns about Onion's secret group of friends.
-Watch for: nothing flagged.
-
-## S4 E9 — Three Gems and a Baby
-URL: https://watchwiththekids.com/ep/steven-universe/0409.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Greg tells Steven the story of his first winter with Steven.
-Watch for: nothing flagged.
-
 ## S5 E1 — Stuck Together
 URL: https://watchwiththekids.com/ep/steven-universe/0501.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Steven and Lars are stuck inside Topaz and try to look for a way to escape.
 Watch for: nothing flagged.
+
+## S5 E2 — The Trial
+URL: https://watchwiththekids.com/ep/steven-universe/0502.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven goes to court against Blue and Yellow Diamond to determine his (or rather Rose Quartz's) fate.
+Watch for: nothing flagged.
+
+## S5 E3 — Off Colors
+URL: https://watchwiththekids.com/ep/steven-universe/0503.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven gains new allies.
+Watch for: nothing flagged.
+
+## S5 E4 — Lars' Head
+URL: https://watchwiththekids.com/ep/steven-universe/0504.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven finally gets to know the real Lars.
+Watch for: nothing flagged.
+
+## S5 E5 — Dewey Wins
+URL: https://watchwiththekids.com/ep/steven-universe/0505.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven helps Mayor Dewey run a difficult campaign.
+Watch for: nothing flagged.
+
+## S5 E6 — Gemcation
+URL: https://watchwiththekids.com/ep/steven-universe/0506.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Greg and the Gems take Steven on vacation to help him relax.
+Watch for: nothing flagged.
+
+## S5 E7 — Raising the Barn
+URL: https://watchwiththekids.com/ep/steven-universe/0507.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Pumpkin goes missing!
+Watch for: nothing flagged.
+
+## S5 E8 — Back to the Kindergarten
+URL: https://watchwiththekids.com/ep/steven-universe/0508.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven, Amethyst and Peridot try to spruce up the Kindergarten.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Steven and Amethyst begins watering the sunflowers by blasting them with water guns.
+
+## S5 E9 — Sadie Killer
+URL: https://watchwiththekids.com/ep/steven-universe/0509.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
+Summary: Steven and the Cool Kids start a band, but they have trouble finding their sound.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.
 
 ## S5 E10 — Kevin Party
 URL: https://watchwiththekids.com/ep/steven-universe/0510.html
@@ -1009,12 +1061,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Pearl tells a story.
 Watch for: nothing flagged.
 
-## S5 E2 — The Trial
-URL: https://watchwiththekids.com/ep/steven-universe/0502.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven goes to court against Blue and Yellow Diamond to determine his (or rather Rose Quartz's) fate.
-Watch for: nothing flagged.
-
 ## S5 E20 — What's Your Problem
 URL: https://watchwiththekids.com/ep/steven-universe/0520.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
@@ -1077,49 +1123,3 @@ URL: https://watchwiththekids.com/ep/steven-universe/0528.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Steven faces his biggest challenge yet.
 Watch for: nothing flagged.
-
-## S5 E3 — Off Colors
-URL: https://watchwiththekids.com/ep/steven-universe/0503.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven gains new allies.
-Watch for: nothing flagged.
-
-## S5 E4 — Lars' Head
-URL: https://watchwiththekids.com/ep/steven-universe/0504.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven finally gets to know the real Lars.
-Watch for: nothing flagged.
-
-## S5 E5 — Dewey Wins
-URL: https://watchwiththekids.com/ep/steven-universe/0505.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven helps Mayor Dewey run a difficult campaign.
-Watch for: nothing flagged.
-
-## S5 E6 — Gemcation
-URL: https://watchwiththekids.com/ep/steven-universe/0506.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Greg and the Gems take Steven on vacation to help him relax.
-Watch for: nothing flagged.
-
-## S5 E7 — Raising the Barn
-URL: https://watchwiththekids.com/ep/steven-universe/0507.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Pumpkin goes missing!
-Watch for: nothing flagged.
-
-## S5 E8 — Back to the Kindergarten
-URL: https://watchwiththekids.com/ep/steven-universe/0508.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven, Amethyst and Peridot try to spruce up the Kindergarten.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Steven and Amethyst begins watering the sunflowers by blasting them with water guns.
-
-## S5 E9 — Sadie Killer
-URL: https://watchwiththekids.com/ep/steven-universe/0509.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
-Summary: Steven and the Cool Kids start a band, but they have trouble finding their sound.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.

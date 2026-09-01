@@ -81,6 +81,382 @@
     },
     {
       "season": 1,
+      "episode": 2,
+      "code": "0102",
+      "title": "Lawn Gnome Beach Party of Terror",
+      "index_title": "Lawn Gnome Beach Party of Terror",
+      "url": "https://phineasandferb.fandom.com/wiki/Lawn_Gnome_Beach_Party_of_Terror/Transcript",
+      "file": "transcripts/phineas-and-ferb/lawn-gnome-beach-party-of-terror.txt",
+      "summary": "Phineas and Ferb's newest backyard project is to create a tropical beach paradise. Meanwhile, Perry tries to stop Dr. Doofenshmirtz's plan to steal all the garden lawn gnomes.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “(The lawn gnome punches Doof in the face) Wait, who are you?”",
+            "count": 2,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "(The lawn gnome punches Doof in the face) Wait, who are you?",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Stanky Dog",
+                "text": "…traffic stomp! And now he's got him in a Half-Nelson, now a Full-Nelson, oh! And now he's actually beating him with Bobby Nelson!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Doofenshmirtz: “(The lawn gnome punches Doof in the face) Wait, who are you?”",
+        "Alcohol & drugs — In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "code": "0103",
+      "title": "Flop Starz",
+      "index_title": "Flop Starz",
+      "url": "https://phineasandferb.fandom.com/wiki/Flop_Starz/Transcript",
+      "file": "transcripts/phineas-and-ferb/flop-starz.txt",
+      "summary": "Phineas and Ferb decide to become a one hit wonder, Phineas and the Ferb-Tones and Candace wins the chance to sing with them. Meanwhile, Perry must stop Doofinshmirtz's giant robot - disguised as a temp.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Stacy: “Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Stacy",
+                "text": "Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Stacy: “Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "code": "0104",
+      "title": "The Fast and the Phineas",
+      "index_title": "The Fast and the Phineas",
+      "url": "https://phineasandferb.fandom.com/wiki/The_Fast_and_the_Phineas/Transcript",
+      "file": "transcripts/phineas-and-ferb/the-fast-and-the-phineas.txt",
+      "summary": "Phineas and Ferb enter the family car in an auto race, while Candace has to bust them and impress Jeremy. Meanwhile, Perry must stop Dr. Doofenshmirtz from deflating every inflatable object in the tri-state area.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "code": "0105",
+      "title": "Lights, Candace, Action!",
+      "index_title": "Lights, Candace, Action!",
+      "url": "https://phineasandferb.fandom.com/wiki/Lights%2C_Candace%2C_Action%21/Transcript",
+      "file": "transcripts/phineas-and-ferb/lights-candace-action.txt",
+      "summary": "Upon hearing that her favorite play is being made a movie, Candace rushes to try for the lead, only to see that Phineas and Ferb have become the directors and changed the script to include a little more insanity. Meanwhile, Perry goes to Doofinshmirtz Evil Inc. to find out why Heinz has been so quiet lately.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "code": "0106",
+      "title": "Raging Bully",
+      "index_title": "Raging Bully",
+      "url": "https://phineasandferb.fandom.com/wiki/Raging_Bully/Transcript",
+      "file": "transcripts/phineas-and-ferb/raging-bully.txt",
+      "summary": "Phineas enters a thumb-wrestling competition with a local bully, while Doofenshmirtz creates a hypnotic device to control people's minds so they will sing him Happy Birthday.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "code": "0107",
+      "title": "Candace Loses Her Head",
+      "index_title": "Candace Loses Her Head",
+      "url": "https://phineasandferb.fandom.com/wiki/Candace_Loses_Her_Head/Transcript",
+      "file": "transcripts/phineas-and-ferb/candace-loses-her-head.txt",
+      "summary": "Phineas and Ferb decide to carve Candace's face into Mount Rushmore for her birthday present, while Perry attempts to stop Doofenshmirtz from making a tunnel to China.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Doofenshmirtz: “…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "code": "0108",
+      "title": "I, Brobot",
+      "index_title": "I, Brobot",
+      "url": "https://phineasandferb.fandom.com/wiki/I%2C_Brobot/Transcript",
+      "file": "transcripts/phineas-and-ferb/i-brobot.txt",
+      "summary": "Phineas and Ferb clone themselves so they can complete more projects while Doofenschmirtz hovers over his girlfriend's house with a huge magnet to erase crazy messages on her answering machine, for the sake of recording new ones.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "code": "0109",
+      "title": "Run Away Runway",
+      "index_title": "Run Away Runway",
+      "url": "https://phineasandferb.fandom.com/wiki/Run_Away_Runway/Transcript",
+      "file": "transcripts/phineas-and-ferb/run-away-runway.txt",
+      "summary": "Candace becomes a model, and is forced to wear outfits designed by Phineas and Ferb while Doofenshmirtz designs a machine to create clones of himself, to avoid having to wait in line.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "Doofenshmirtz: “All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Alcohol & drugs — Doofenshmirtz: “All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
       "episode": 10,
       "code": "0110",
       "title": "The Magnificent Few",
@@ -425,89 +801,6 @@
         "notes_extra": []
       },
       "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 2,
-      "code": "0102",
-      "title": "Lawn Gnome Beach Party of Terror",
-      "index_title": "Lawn Gnome Beach Party of Terror",
-      "url": "https://phineasandferb.fandom.com/wiki/Lawn_Gnome_Beach_Party_of_Terror/Transcript",
-      "file": "transcripts/phineas-and-ferb/lawn-gnome-beach-party-of-terror.txt",
-      "summary": "Phineas and Ferb's newest backyard project is to create a tropical beach paradise. Meanwhile, Perry tries to stop Dr. Doofenshmirtz's plan to steal all the garden lawn gnomes.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury",
-          "Alcohol & drugs"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “(The lawn gnome punches Doof in the face) Wait, who are you?”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "(The lawn gnome punches Doof in the face) Wait, who are you?",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Stanky Dog",
-                "text": "…traffic stomp! And now he's got him in a Half-Nelson, now a Full-Nelson, oh! And now he's actually beating him with Bobby Nelson!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
-          {
-            "theme": "Alcohol & drugs",
-            "group": "substances",
-            "how": "In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Doofenshmirtz: “(The lawn gnome punches Doof in the face) Wait, who are you?”",
-        "Alcohol & drugs — In another section of the beach, we see Candace holding two coconut cocktails. At that moment, a coconut falls and hits Candace."
-      ],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -1053,61 +1346,6 @@
     },
     {
       "season": 1,
-      "episode": 3,
-      "code": "0103",
-      "title": "Flop Starz",
-      "index_title": "Flop Starz",
-      "url": "https://phineasandferb.fandom.com/wiki/Flop_Starz/Transcript",
-      "file": "transcripts/phineas-and-ferb/flop-starz.txt",
-      "summary": "Phineas and Ferb decide to become a one hit wonder, Phineas and the Ferb-Tones and Candace wins the chance to sing with them. Meanwhile, Perry must stop Doofinshmirtz's giant robot - disguised as a temp.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Stacy: “Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Stacy",
-                "text": "Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Stacy: “Sure you are! You're a lean, mean, singing machine! (Candace growls and punches the purse as in boxing.) That's it, yeah! Now you're looking like a winner! (Candace looks like a worn out tiger and drools.)”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
       "episode": 30,
       "code": "0130",
       "title": "Voyage to the Bottom of Buford",
@@ -1488,38 +1726,6 @@
       "url": "https://phineasandferb.fandom.com/wiki/One_Good_Scare_Ought_to_Do_It%21/Transcript",
       "file": "transcripts/phineas-and-ferb/one-good-scare-ought-to-do-it.txt",
       "summary": "When Isabella falls prey to hiccups, Phineas and Ferb gather the kids together to help scare them out of her, using a remote controlled haunted house. Meanwhile, Doofenshmirtz sets out to destroy his mentor's hideout, so that no one could discover his secrets, but not if Perry has something to say about it!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 4,
-      "code": "0104",
-      "title": "The Fast and the Phineas",
-      "index_title": "The Fast and the Phineas",
-      "url": "https://phineasandferb.fandom.com/wiki/The_Fast_and_the_Phineas/Transcript",
-      "file": "transcripts/phineas-and-ferb/the-fast-and-the-phineas.txt",
-      "summary": "Phineas and Ferb enter the family car in an auto race, while Candace has to bust them and impress Jeremy. Meanwhile, Perry must stop Dr. Doofenshmirtz from deflating every inflatable object in the tri-state area.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -1944,212 +2150,6 @@
       "source": "heuristic"
     },
     {
-      "season": 1,
-      "episode": 5,
-      "code": "0105",
-      "title": "Lights, Candace, Action!",
-      "index_title": "Lights, Candace, Action!",
-      "url": "https://phineasandferb.fandom.com/wiki/Lights%2C_Candace%2C_Action%21/Transcript",
-      "file": "transcripts/phineas-and-ferb/lights-candace-action.txt",
-      "summary": "Upon hearing that her favorite play is being made a movie, Candace rushes to try for the lead, only to see that Phineas and Ferb have become the directors and changed the script to include a little more insanity. Meanwhile, Perry goes to Doofinshmirtz Evil Inc. to find out why Heinz has been so quiet lately.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 6,
-      "code": "0106",
-      "title": "Raging Bully",
-      "index_title": "Raging Bully",
-      "url": "https://phineasandferb.fandom.com/wiki/Raging_Bully/Transcript",
-      "file": "transcripts/phineas-and-ferb/raging-bully.txt",
-      "summary": "Phineas enters a thumb-wrestling competition with a local bully, while Doofenshmirtz creates a hypnotic device to control people's minds so they will sing him Happy Birthday.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 7,
-      "code": "0107",
-      "title": "Candace Loses Her Head",
-      "index_title": "Candace Loses Her Head",
-      "url": "https://phineasandferb.fandom.com/wiki/Candace_Loses_Her_Head/Transcript",
-      "file": "transcripts/phineas-and-ferb/candace-loses-her-head.txt",
-      "summary": "Phineas and Ferb decide to carve Candace's face into Mount Rushmore for her birthday present, while Perry attempts to stop Doofenshmirtz from making a tunnel to China.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Doofenshmirtz: “…Arrivederci! (Perry uses his own drill machine to drill into Doof's Drill-inator and begins delivering punches)”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 8,
-      "code": "0108",
-      "title": "I, Brobot",
-      "index_title": "I, Brobot",
-      "url": "https://phineasandferb.fandom.com/wiki/I%2C_Brobot/Transcript",
-      "file": "transcripts/phineas-and-ferb/i-brobot.txt",
-      "summary": "Phineas and Ferb clone themselves so they can complete more projects while Doofenschmirtz hovers over his girlfriend's house with a huge magnet to erase crazy messages on her answering machine, for the sake of recording new ones.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 9,
-      "code": "0109",
-      "title": "Run Away Runway",
-      "index_title": "Run Away Runway",
-      "url": "https://phineasandferb.fandom.com/wiki/Run_Away_Runway/Transcript",
-      "file": "transcripts/phineas-and-ferb/run-away-runway.txt",
-      "summary": "Candace becomes a model, and is forced to wear outfits designed by Phineas and Ferb while Doofenshmirtz designs a machine to create clones of himself, to avoid having to wait in line.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is alcohol & drugs (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Alcohol & drugs"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Alcohol & drugs",
-            "group": "substances",
-            "how": "Doofenshmirtz: “All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Alcohol & drugs — Doofenshmirtz: “All the time wasted in stores, and amusement parks, where I could be spreading more evil in the Tri-State Area!”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 2,
       "episode": 1,
       "code": "0201",
@@ -2200,6 +2200,315 @@
       "examples": [
         "Violence & injury — Doofenshmirtz: “Wait, w-what was that? (Perry jumps out of the scuba mask and the bars drop off.) Huh? You were trying to escape?! After I shared my wings with you! Well, granted, I did trap you like a monkey— (Perry punches him.)”"
       ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 3,
+      "code": "0203",
+      "title": "Tip of the Day",
+      "index_title": "Tip of the Day",
+      "url": "https://phineasandferb.fandom.com/wiki/Tip_of_the_Day/Transcript",
+      "file": "transcripts/phineas-and-ferb/tip-of-the-day.txt",
+      "summary": "When the daily crossword puzzle brings one of the worlds most useful, yet under-appreciated inventions to Phineas and Ferb's attention, the boys set out to bring the plight of the shoelace tip, the \"aglet\", to the worlds attention, with their only obstacle being Candace, who relentlessly wishes to convince everyone that it doesn't matter, even when she tries to use their campaign to become an insta-star. Meanwhile, Perry's new mission is to erase Doofenshmirtz' viral video, however this time, it seems both he and Heinz have the same goal, even if Doofenshmirtz wants to take it to a slight extreme.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 4,
+      "code": "0204",
+      "title": "Attack of the 50 Foot Sister",
+      "index_title": "Attack of the 50 Foot Sister",
+      "url": "https://phineasandferb.fandom.com/wiki/Attack_of_the_50_Foot_Sister/Transcript",
+      "file": "transcripts/phineas-and-ferb/attack-of-the-50-foot-sister.txt",
+      "summary": "Phineas and Ferb create a slow reacting growth potion to help Baljeet with his \"giant\" watermelon, but Candace decides to use it for herself, when she finds that she's a little too short to be a flawless girl. Meanwhile, Perry must stop Doofenshmirtz from his most disgusting plan ever!",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 5,
+      "code": "0205",
+      "title": "Backyard Aquarium",
+      "index_title": "Backyard Aquarium",
+      "url": "https://phineasandferb.fandom.com/wiki/Backyard_Aquarium/Transcript",
+      "file": "transcripts/phineas-and-ferb/backyard-aquarium.txt",
+      "summary": "Phineas and Ferb have a new pet, Goldy the goldfish, and to help make Goldy feel less lonely, Phineas and Ferb have built an aquarium with many other creatures. Meanwhile, Perry must stop Doofenshmirtz from a food related childhood revenge story.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Candace: “Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)”",
+            "count": 2,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Candace",
+                "text": "Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Candace",
+                "text": "Messages? (Gets slapped by another orca tail and looks at her phone, while riding the dolphin.) Eleven messages? (Rides the dolphin, which goes through a hoop held up by Ferb.) He called me!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Candace: “Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 6,
+      "code": "0206",
+      "title": "Day of the Living Gelatin",
+      "index_title": "Day of the Living Gelatin",
+      "url": "https://phineasandferb.fandom.com/wiki/Day_of_the_Living_Gelatin/Transcript",
+      "file": "transcripts/phineas-and-ferb/day-of-the-living-gelatin.txt",
+      "summary": "When Phineas and Ferb get inspired by Candace's dessert club to create the biggest piece of gelatin ever, even Jenny and Stacy want to join in. Meanwhile, Doofenshmirtz has a horrific plan, to turn Perry evil!",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Phineas: “We'll beat him the same way we created him: with water.”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Phineas",
+                "text": "We'll beat him the same way we created him: with water.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Phineas: “We'll beat him the same way we created him: with water.”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 7,
+      "code": "0207",
+      "title": "Elementary My Dear Stacy",
+      "index_title": "Elementary My Dear Stacy",
+      "url": "https://phineasandferb.fandom.com/wiki/Elementary_My_Dear_Stacy/Transcript",
+      "file": "transcripts/phineas-and-ferb/elementary-my-dear-stacy.txt",
+      "summary": "While in London, Candace and Stacy decide to take a page out of Sherlock Holmes'…entire collection, to figure out what Phineas and Ferb have planned for the London Eye. Meanwhile, Perry must team up with British agent 00 Zero in order to stop Dr. Doofenshmirtz from moving Big Ben to the Tri-State Area.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "code": "0208",
+      "title": "Don't Even Blink",
+      "index_title": "Don't Even Blink",
+      "url": "https://phineasandferb.fandom.com/wiki/Don%27t_Even_Blink/Transcript",
+      "file": "transcripts/phineas-and-ferb/don-t-even-blink.txt",
+      "summary": "Fed up with her brother's inventions always disappearing, Candace enlists the help of everyone in the neighborhood to build and watch a big and obvious invention, that they might finally see exactly what happens to everything. Meanwhile, is it mime? No, it's Doofenshmirtz' new Invisibility Ray.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!”",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Scene switches to Doofenshmirtz Evil Inc.. Perry is still fighting Doofenshmirtz. Doofenshmirtz punches him, causing Perry to slide to the Invis-inator's ray, but half of his body is visible",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Doofenshmirtz: “I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 9,
+      "code": "0209",
+      "title": "Chez Platypus",
+      "index_title": "Chez Platypus",
+      "url": "https://phineasandferb.fandom.com/wiki/Chez_Platypus/Transcript",
+      "file": "transcripts/phineas-and-ferb/chez-platypus.txt",
+      "summary": "Phineas and Ferb open Chez Platypus, which becomes the trendiest restaurant in town. Jeremy asks Candace out on a date to the restaurant. Meanwhile Doofenshmirtz goes on another date from his online dating service, and vows to destroy all love in the tri-state area if the date doesn't go well.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -3149,38 +3458,6 @@
     },
     {
       "season": 2,
-      "episode": 3,
-      "code": "0203",
-      "title": "Tip of the Day",
-      "index_title": "Tip of the Day",
-      "url": "https://phineasandferb.fandom.com/wiki/Tip_of_the_Day/Transcript",
-      "file": "transcripts/phineas-and-ferb/tip-of-the-day.txt",
-      "summary": "When the daily crossword puzzle brings one of the worlds most useful, yet under-appreciated inventions to Phineas and Ferb's attention, the boys set out to bring the plight of the shoelace tip, the \"aglet\", to the worlds attention, with their only obstacle being Candace, who relentlessly wishes to convince everyone that it doesn't matter, even when she tries to use their campaign to become an insta-star. Meanwhile, Perry's new mission is to erase Doofenshmirtz' viral video, however this time, it seems both he and Heinz have the same goal, even if Doofenshmirtz wants to take it to a slight extreme.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
       "episode": 30,
       "code": "0230",
       "title": "Fireside Girl Jamboree",
@@ -3710,38 +3987,6 @@
     },
     {
       "season": 2,
-      "episode": 4,
-      "code": "0204",
-      "title": "Attack of the 50 Foot Sister",
-      "index_title": "Attack of the 50 Foot Sister",
-      "url": "https://phineasandferb.fandom.com/wiki/Attack_of_the_50_Foot_Sister/Transcript",
-      "file": "transcripts/phineas-and-ferb/attack-of-the-50-foot-sister.txt",
-      "summary": "Phineas and Ferb create a slow reacting growth potion to help Baljeet with his \"giant\" watermelon, but Candace decides to use it for herself, when she finds that she's a little too short to be a flawless girl. Meanwhile, Perry must stop Doofenshmirtz from his most disgusting plan ever!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
       "episode": 40,
       "code": "0240",
       "title": "I Was a Middle Aged Robot",
@@ -4196,69 +4441,6 @@
     },
     {
       "season": 2,
-      "episode": 5,
-      "code": "0205",
-      "title": "Backyard Aquarium",
-      "index_title": "Backyard Aquarium",
-      "url": "https://phineasandferb.fandom.com/wiki/Backyard_Aquarium/Transcript",
-      "file": "transcripts/phineas-and-ferb/backyard-aquarium.txt",
-      "summary": "Phineas and Ferb have a new pet, Goldy the goldfish, and to help make Goldy feel less lonely, Phineas and Ferb have built an aquarium with many other creatures. Meanwhile, Perry must stop Doofenshmirtz from a food related childhood revenge story.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Candace: “Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Candace",
-                "text": "Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Candace",
-                "text": "Messages? (Gets slapped by another orca tail and looks at her phone, while riding the dolphin.) Eleven messages? (Rides the dolphin, which goes through a hoop held up by Ferb.) He called me!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Candace: “Wait a minute, is that Jeremy? What's he doing here? (Gets slapped by an orca tail.)”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
       "episode": 50,
       "code": "0250",
       "title": "The Beak",
@@ -4697,61 +4879,6 @@
     },
     {
       "season": 2,
-      "episode": 6,
-      "code": "0206",
-      "title": "Day of the Living Gelatin",
-      "index_title": "Day of the Living Gelatin",
-      "url": "https://phineasandferb.fandom.com/wiki/Day_of_the_Living_Gelatin/Transcript",
-      "file": "transcripts/phineas-and-ferb/day-of-the-living-gelatin.txt",
-      "summary": "When Phineas and Ferb get inspired by Candace's dessert club to create the biggest piece of gelatin ever, even Jenny and Stacy want to join in. Meanwhile, Doofenshmirtz has a horrific plan, to turn Perry evil!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Phineas: “We'll beat him the same way we created him: with water.”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Phineas",
-                "text": "We'll beat him the same way we created him: with water.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Phineas: “We'll beat him the same way we created him: with water.”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
       "episode": 60,
       "code": "0260",
       "title": "The Doof Side of the Moon",
@@ -4986,109 +5113,14 @@
       "source": "heuristic"
     },
     {
-      "season": 2,
-      "episode": 7,
-      "code": "0207",
-      "title": "Elementary My Dear Stacy",
-      "index_title": "Elementary My Dear Stacy",
-      "url": "https://phineasandferb.fandom.com/wiki/Elementary_My_Dear_Stacy/Transcript",
-      "file": "transcripts/phineas-and-ferb/elementary-my-dear-stacy.txt",
-      "summary": "While in London, Candace and Stacy decide to take a page out of Sherlock Holmes'…entire collection, to figure out what Phineas and Ferb have planned for the London Eye. Meanwhile, Perry must team up with British agent 00 Zero in order to stop Dr. Doofenshmirtz from moving Big Ben to the Tri-State Area.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 8,
-      "code": "0208",
-      "title": "Don't Even Blink",
-      "index_title": "Don't Even Blink",
-      "url": "https://phineasandferb.fandom.com/wiki/Don%27t_Even_Blink/Transcript",
-      "file": "transcripts/phineas-and-ferb/don-t-even-blink.txt",
-      "summary": "Fed up with her brother's inventions always disappearing, Candace enlists the help of everyone in the neighborhood to build and watch a big and obvious invention, that they might finally see exactly what happens to everything. Meanwhile, is it mime? No, it's Doofenshmirtz' new Invisibility Ray.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Scene switches to Doofenshmirtz Evil Inc.. Perry is still fighting Doofenshmirtz. Doofenshmirtz punches him, causing Perry to slide to the Invis-inator's ray, but half of his body is visible",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Doofenshmirtz: “I move in silence-- (Perry kicks him) Ow! Oh you followed the sound of my voice, maybe I should stop talk-- (Perry punches and kicks him) Ow, ow, ow!”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 9,
-      "code": "0209",
-      "title": "Chez Platypus",
-      "index_title": "Chez Platypus",
-      "url": "https://phineasandferb.fandom.com/wiki/Chez_Platypus/Transcript",
-      "file": "transcripts/phineas-and-ferb/chez-platypus.txt",
-      "summary": "Phineas and Ferb open Chez Platypus, which becomes the trendiest restaurant in town. Jeremy asks Candace out on a date to the restaurant. Meanwhile Doofenshmirtz goes on another date from his online dating service, and vows to destroy all love in the tri-state area if the date doesn't go well.",
+      "season": 3,
+      "episode": 1,
+      "code": "0301",
+      "title": "The Great Indoors",
+      "index_title": "The Great Indoors",
+      "url": "https://phineasandferb.fandom.com/wiki/The_Great_Indoors/Transcript",
+      "file": "transcripts/phineas-and-ferb/the-great-indoors.txt",
+      "summary": "The third season begins with Phineas and Ferb building a gigantic biome during a bit of bad weather to help Isabella earn a Fireside Girl patch.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5114,13 +5146,404 @@
     },
     {
       "season": 3,
-      "episode": 1,
-      "code": "0301",
-      "title": "The Great Indoors",
-      "index_title": "The Great Indoors",
-      "url": "https://phineasandferb.fandom.com/wiki/The_Great_Indoors/Transcript",
-      "file": "transcripts/phineas-and-ferb/the-great-indoors.txt",
-      "summary": "The third season begins with Phineas and Ferb building a gigantic biome during a bit of bad weather to help Isabella earn a Fireside Girl patch.",
+      "episode": 2,
+      "code": "0302",
+      "title": "Canderemy",
+      "index_title": "Canderemy",
+      "url": "https://phineasandferb.fandom.com/wiki/Canderemy/Transcript",
+      "file": "transcripts/phineas-and-ferb/canderemy.txt",
+      "summary": "Candace realizes that she needs to spend more time with Stacy, so she vows to spend the whole day with her only. But while visiting Jeremy and his mom, Mrs. Johnson, Dr. Doofenshmirtz's \"combine-inator\" zaps her and Jeremy, literally joining them at the hip. Meanwhile, Phineas and Ferb build a giant robot dog that causes a lot of mischief.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "code": "0303",
+      "title": "Run, Candace, Run",
+      "index_title": "Run, Candace, Run",
+      "url": "https://phineasandferb.fandom.com/wiki/Run%2C_Candace%2C_Run/Transcript",
+      "file": "transcripts/phineas-and-ferb/run-candace-run.txt",
+      "summary": "Phineas and Ferb's newest invention is a pair of boots that make the wearer extraordinarily fast. Candace decides to wear them so that she can be in two places at once; at Jeremy's family picnic, where she runs into Mrs. Johnson, and also at the library where she promised Mom she would read to the kids. Meanwhile, Dr. Doofenshmirtz's building is put up for sale so he tries to convince a prospective buyer, Annabelle, who turns out to be a long lost relative of the Johnson family, that it is not worth buying.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "The gun goes off and Candace and Jeremy speed right down to the finish line into the mud.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The gun goes off and Candace and Jeremy speed right down to the finish line into the mud.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — The gun goes off and Candace and Jeremy speed right down to the finish line into the mud."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 4,
+      "code": "0304",
+      "title": "Last Train to Bustville",
+      "index_title": "Last Train to Bustville",
+      "url": "https://phineasandferb.fandom.com/wiki/Last_Train_to_Bustville/Transcript",
+      "file": "transcripts/phineas-and-ferb/last-train-to-bustville.txt",
+      "summary": "While visiting their grandparents, the kids decide to create and race a giant hot air balloon. Meanwhile, Candace is inspired by train engineer Glenda's can-do attitude and decides to \"give up\" on busting her brothers. On the other side of town, Dr. Doofenshmirtz finds a Dodo bird egg and is convinced that it is a fierce bird-monster that can help him take over the Tri-state area, but discovers the exact opposite when the egg hatches.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 5,
+      "code": "0305",
+      "title": "Phineas' Birthday Clip-O-Rama!",
+      "index_title": "Phineas' Birthday Clip-O-Rama!",
+      "url": "https://phineasandferb.fandom.com/wiki/Phineas%27_Birthday_Clip-O-Rama%21/Transcript",
+      "file": "transcripts/phineas-and-ferb/phineas-birthday-clip-o-rama.txt",
+      "summary": "It's Phineas' birthday and for the special occasion, Ferb puts together a clip show of the gang's favorite moments. Meanwhile, Agent P has to stop Dr. Doofenshmirtz from using his 'non-inator' to pre-empt his brother's biography from appearing on television.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “Now I can't make up my mind- (Perry punches Doof repeatedly in the face)”",
+            "count": 2,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "Now I can't make up my mind- (Perry punches Doof repeatedly in the face)",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "Perry the Platypus, how did you escape? (Perry beckons Doofenshmirtz to come closer, then punches him in the face) What's that? Oh!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Doofenshmirtz: “Now I can't make up my mind- (Perry punches Doof repeatedly in the face)”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 6,
+      "code": "0306",
+      "title": "The Belly of the Beast",
+      "index_title": "The Belly of the Beast",
+      "url": "https://phineasandferb.fandom.com/wiki/The_Belly_of_the_Beast/Transcript",
+      "file": "transcripts/phineas-and-ferb/the-belly-of-the-beast.txt",
+      "summary": "For Harbor Days Festival, Phineas and Ferb celebrate by creating a mechanical version of the historical elusive shark of Danville Harbor. Seeing what the boys are up to, Candace enlists some help to capture the mysterious shark. Meanwhile, Dr. Doofenshmirtz invents the 'Salt Water Taffy-inator' to give cavities to every kid in the Tri-State Area.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”",
+            "count": 4,
+            "intensity": 3,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Candace",
+                "text": "From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!",
+                "mode": "dialogue",
+                "intensity": 3,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "At Danville Harbor; the gatherers are watching a puppet show of a man stabbing a harpoon at a shark",
+                "mode": "on-screen",
+                "intensity": 3,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Linda",
+                "text": "It never is, honey. (at the kids) Who wants blood pudding?",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "(prods the water with his spear gun) Okay, I'm good.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 7,
+      "code": "0307",
+      "title": "Moon Farm",
+      "index_title": "Moon Farm",
+      "url": "https://phineasandferb.fandom.com/wiki/Moon_Farm/Transcript",
+      "file": "transcripts/phineas-and-ferb/moon-farm.txt",
+      "summary": "Inspired by the lost verse from the nursery rhyme, \"Hey, Diddle Diddle\", the boys decide to take some cows to the moon to see if its low gravitational pull actually does produce the best tasting ice cream ever. Back at home, Candace decides to take advantage of the boys being gone and attempts to make a fancy dinner for Jeremy, but her lack of cooking skills don't add anything to the plate. Meanwhile, Dr. Doofenshmirtz attempts to use his 'Moisture Suck-inator' to turn his neighbor's plants brown, so that his plants will be greener by comparison.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Alcohol & drugs"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Stacy: “Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Stacy",
+                "text": "Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Alcohol & drugs",
+            "group": "substances",
+            "how": "Doofenshmirtz: “And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Stacy: “Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?”",
+        "Alcohol & drugs — Doofenshmirtz: “And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 8,
+      "code": "0308",
+      "title": "Ask a Foolish Question",
+      "index_title": "Ask a Foolish Question",
+      "url": "https://phineasandferb.fandom.com/wiki/Ask_a_Foolish_Question/Transcript",
+      "file": "transcripts/phineas-and-ferb/ask-a-foolish-question.txt",
+      "summary": "When Candace discovers that Phineas and Ferb have invented a computer that can answer anything, she asks it how she can finally bust her brothers once and for all. Meanwhile, Dr. Doofenshmirtz loses the key to his latest invention, the \"All Purpose-inator,\" and Agent P must find it before he does.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 9,
+      "code": "0309",
+      "title": "Misperceived Monotreme",
+      "index_title": "Misperceived Monotreme",
+      "url": "https://phineasandferb.fandom.com/wiki/Misperceived_Monotreme/Transcript",
+      "file": "transcripts/phineas-and-ferb/misperceived-monotreme.txt",
+      "summary": "Perry misses his 100th battle against Dr. Doofenshmirtz when Candace takes him to the Charity Pet Wash with her. Perry's absence goes unnoticed when the zookeeper's typical platypus at the Danville Zoo stops Dr. Doofenshmirtz's plan to zap his brother with his \"Least Likely-inator.\" Meanwhile, the boys build a fun house Phineas and Ferb style.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -5669,61 +6092,6 @@
     },
     {
       "season": 3,
-      "episode": 2,
-      "code": "0302",
-      "title": "Canderemy",
-      "index_title": "Canderemy",
-      "url": "https://phineasandferb.fandom.com/wiki/Canderemy/Transcript",
-      "file": "transcripts/phineas-and-ferb/canderemy.txt",
-      "summary": "Candace realizes that she needs to spend more time with Stacy, so she vows to spend the whole day with her only. But while visiting Jeremy and his mom, Mrs. Johnson, Dr. Doofenshmirtz's \"combine-inator\" zaps her and Jeremy, literally joining them at the hip. Meanwhile, Phineas and Ferb build a giant robot dog that causes a lot of mischief.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Perry turns the hairs on his head into the shape of a key and unlocks his trap, while Doofenshmirtz is still talking. Afterwards, the former punches the latter, sending the two offscreen"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
       "episode": 20,
       "code": "0320",
       "title": "My Fair Goalie",
@@ -6120,61 +6488,6 @@
         "notes_extra": []
       },
       "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 3,
-      "code": "0303",
-      "title": "Run, Candace, Run",
-      "index_title": "Run, Candace, Run",
-      "url": "https://phineasandferb.fandom.com/wiki/Run%2C_Candace%2C_Run/Transcript",
-      "file": "transcripts/phineas-and-ferb/run-candace-run.txt",
-      "summary": "Phineas and Ferb's newest invention is a pair of boots that make the wearer extraordinarily fast. Candace decides to wear them so that she can be in two places at once; at Jeremy's family picnic, where she runs into Mrs. Johnson, and also at the library where she promised Mom she would read to the kids. Meanwhile, Dr. Doofenshmirtz's building is put up for sale so he tries to convince a prospective buyer, Annabelle, who turns out to be a long lost relative of the Johnson family, that it is not worth buying.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "The gun goes off and Candace and Jeremy speed right down to the finish line into the mud.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The gun goes off and Candace and Jeremy speed right down to the finish line into the mud.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — The gun goes off and Candace and Jeremy speed right down to the finish line into the mud."
-      ],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -6676,38 +6989,6 @@
     },
     {
       "season": 3,
-      "episode": 4,
-      "code": "0304",
-      "title": "Last Train to Bustville",
-      "index_title": "Last Train to Bustville",
-      "url": "https://phineasandferb.fandom.com/wiki/Last_Train_to_Bustville/Transcript",
-      "file": "transcripts/phineas-and-ferb/last-train-to-bustville.txt",
-      "summary": "While visiting their grandparents, the kids decide to create and race a giant hot air balloon. Meanwhile, Candace is inspired by train engineer Glenda's can-do attitude and decides to \"give up\" on busting her brothers. On the other side of town, Dr. Doofenshmirtz finds a Dodo bird egg and is convinced that it is a fierce bird-monster that can help him take over the Tri-state area, but discovers the exact opposite when the egg hatches.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
       "episode": 40,
       "code": "0340",
       "title": "The Doonkelberry Imperative",
@@ -7160,69 +7441,6 @@
     },
     {
       "season": 3,
-      "episode": 5,
-      "code": "0305",
-      "title": "Phineas' Birthday Clip-O-Rama!",
-      "index_title": "Phineas' Birthday Clip-O-Rama!",
-      "url": "https://phineasandferb.fandom.com/wiki/Phineas%27_Birthday_Clip-O-Rama%21/Transcript",
-      "file": "transcripts/phineas-and-ferb/phineas-birthday-clip-o-rama.txt",
-      "summary": "It's Phineas' birthday and for the special occasion, Ferb puts together a clip show of the gang's favorite moments. Meanwhile, Agent P has to stop Dr. Doofenshmirtz from using his 'non-inator' to pre-empt his brother's biography from appearing on television.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “Now I can't make up my mind- (Perry punches Doof repeatedly in the face)”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "Now I can't make up my mind- (Perry punches Doof repeatedly in the face)",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "Perry the Platypus, how did you escape? (Perry beckons Doofenshmirtz to come closer, then punches him in the face) What's that? Oh!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Doofenshmirtz: “Now I can't make up my mind- (Perry punches Doof repeatedly in the face)”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
       "episode": 50,
       "code": "0350",
       "title": "Sci-Fi Pie Fly",
@@ -7578,85 +7796,6 @@
     },
     {
       "season": 3,
-      "episode": 6,
-      "code": "0306",
-      "title": "The Belly of the Beast",
-      "index_title": "The Belly of the Beast",
-      "url": "https://phineasandferb.fandom.com/wiki/The_Belly_of_the_Beast/Transcript",
-      "file": "transcripts/phineas-and-ferb/the-belly-of-the-beast.txt",
-      "summary": "For Harbor Days Festival, Phineas and Ferb celebrate by creating a mechanical version of the historical elusive shark of Danville Harbor. Seeing what the boys are up to, Candace enlists some help to capture the mysterious shark. Meanwhile, Dr. Doofenshmirtz invents the 'Salt Water Taffy-inator' to give cavities to every kid in the Tri-State Area.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (explicit, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”",
-            "count": 4,
-            "intensity": 3,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Candace",
-                "text": "From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!",
-                "mode": "dialogue",
-                "intensity": 3,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "At Danville Harbor; the gatherers are watching a puppet show of a man stabbing a harpoon at a shark",
-                "mode": "on-screen",
-                "intensity": 3,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Linda",
-                "text": "It never is, honey. (at the kids) Who wants blood pudding?",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "(prods the water with his spear gun) Okay, I'm good.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Candace: “From Danville Harbor I stab at thee; for busting's sake I spit my last spit at thee!”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
       "episode": 60,
       "code": "0360",
       "title": "Road to Danville",
@@ -7827,145 +7966,6 @@
       "source": "heuristic"
     },
     {
-      "season": 3,
-      "episode": 7,
-      "code": "0307",
-      "title": "Moon Farm",
-      "index_title": "Moon Farm",
-      "url": "https://phineasandferb.fandom.com/wiki/Moon_Farm/Transcript",
-      "file": "transcripts/phineas-and-ferb/moon-farm.txt",
-      "summary": "Inspired by the lost verse from the nursery rhyme, \"Hey, Diddle Diddle\", the boys decide to take some cows to the moon to see if its low gravitational pull actually does produce the best tasting ice cream ever. Back at home, Candace decides to take advantage of the boys being gone and attempts to make a fancy dinner for Jeremy, but her lack of cooking skills don't add anything to the plate. Meanwhile, Dr. Doofenshmirtz attempts to use his 'Moisture Suck-inator' to turn his neighbor's plants brown, so that his plants will be greener by comparison.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury",
-          "Alcohol & drugs"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Stacy: “Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Stacy",
-                "text": "Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
-          {
-            "theme": "Alcohol & drugs",
-            "group": "substances",
-            "how": "Doofenshmirtz: “And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Stacy: “Relax Candace, it's simple math. Instead of 350 for one hour, we'll just cook this for five minutes at… (punches buttons on a calculator) 9000 degrees. (Pause) What could go wrong?”",
-        "Alcohol & drugs — Doofenshmirtz: “And I will finally have a green thumb! You know not actually—metaphorically! I'll have a gre- (Pause) Oh! (Smacks his head) It's a metaphor! (Sighs) And I wasted all that money on green paint.”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 8,
-      "code": "0308",
-      "title": "Ask a Foolish Question",
-      "index_title": "Ask a Foolish Question",
-      "url": "https://phineasandferb.fandom.com/wiki/Ask_a_Foolish_Question/Transcript",
-      "file": "transcripts/phineas-and-ferb/ask-a-foolish-question.txt",
-      "summary": "When Candace discovers that Phineas and Ferb have invented a computer that can answer anything, she asks it how she can finally bust her brothers once and for all. Meanwhile, Dr. Doofenshmirtz loses the key to his latest invention, the \"All Purpose-inator,\" and Agent P must find it before he does.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 9,
-      "code": "0309",
-      "title": "Misperceived Monotreme",
-      "index_title": "Misperceived Monotreme",
-      "url": "https://phineasandferb.fandom.com/wiki/Misperceived_Monotreme/Transcript",
-      "file": "transcripts/phineas-and-ferb/misperceived-monotreme.txt",
-      "summary": "Perry misses his 100th battle against Dr. Doofenshmirtz when Candace takes him to the Charity Pet Wash with her. Perry's absence goes unnoticed when the zookeeper's typical platypus at the Danville Zoo stops Dr. Doofenshmirtz's plan to zap his brother with his \"Least Likely-inator.\" Meanwhile, the boys build a fun house Phineas and Ferb style.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 4,
       "episode": 1,
       "code": "0401",
@@ -8016,6 +8016,386 @@
       "examples": [
         "Violence & injury — Doofenshmirtz: “(Perry beckons Doof to come closer) Yes? (Perry punches Doof, whose head causes the Abominable-inator to point upwards) Ow!”"
       ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "code": "0402",
+      "title": "Happy New Year!",
+      "index_title": "Happy New Year!",
+      "url": "https://phineasandferb.fandom.com/wiki/Happy_New_Year%21/Transcript",
+      "file": "transcripts/phineas-and-ferb/happy-new-year.txt",
+      "summary": "Phineas and Ferb plan their own New Year's Eve ball drop, complete with a customized multi-dimensional ball, while Candace makes it her resolution to refrain from busting her brothers before the clock hits midnight. Meanwhile, Doofenshmirtz uses a Resolution-Changer-inator in his tie as he continues the never-ending attempts to take over the Tri-State Area.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is affairs / cheating (moderate, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Affairs / cheating",
+          "Violence & injury",
+          "Fat-shaming"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Affairs / cheating",
+            "group": "sex",
+            "how": "Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”",
+            "count": 1,
+            "intensity": 2,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          },
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Fat-shaming",
+            "group": "bias",
+            "how": "Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, \"I-I'm gonna lose weight,\" or, \"gain a limb,\" or whatever, to, \"I'm going to make Heinz Doofenshmirtz my leader and obey his…”",
+            "count": 1,
+            "intensity": 2,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "…it will make everyone change their resolution from whatever it was, like, I don't know, \"I-I'm gonna lose weight,\" or, \"gain a limb,\" or whatever, to, \"I'm going to make Heinz Doofenshmirtz my leader and obey his…",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Affairs / cheating — Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”",
+        "Violence & injury — Doofenshmirtz: “(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.”",
+        "Fat-shaming — Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, \"I-I'm gonna lose weight,\" or, \"gain a limb,\" or whatever, to, \"I'm going to make Heinz Doofenshmirtz my leader and obey his…”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "code": "0403",
+      "title": "Fly On the Wall",
+      "index_title": "Fly On the Wall",
+      "url": "https://phineasandferb.fandom.com/wiki/Fly_On_the_Wall/Transcript",
+      "file": "transcripts/phineas-and-ferb/fly-on-the-wall.txt",
+      "summary": "Buford removes a part from a tire swing the boys are building and it accidentally shoots a ray that turns Candace into a fly. Meanwhile, Doofenshmirtz is suffering from evil scientist's block.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "code": "0404",
+      "title": "Bully Bust",
+      "index_title": "Bully Bust",
+      "url": "https://phineasandferb.fandom.com/wiki/Bully_Bust/Transcript",
+      "file": "transcripts/phineas-and-ferb/bully-bust.txt",
+      "summary": "Candace challenges Buford to keep Phineas and Ferb's invention from disappearing so that she can sweep in and casually bust her brothers. Across town, Doofenshmirtz has had one too many lattes and is experiencing an extra burst of evil energy.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Buford: “Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.”",
+            "count": 2,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Buford",
+                "text": "Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "(Perry punches him, and Doofenshmirtz falls down the stairs, and slides across the ramp of the trap) Hey, whe-where'd ya' go?",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Buford: “Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 5,
+      "code": "0405",
+      "title": "My Sweet Ride",
+      "index_title": "My Sweet Ride",
+      "url": "https://phineasandferb.fandom.com/wiki/My_Sweet_Ride/Transcript",
+      "file": "transcripts/phineas-and-ferb/my-sweet-ride.txt",
+      "summary": "It's time for Danville's Doo Wop Hop and car show and the whole town is getting prepped for it. Doofenshmirtz is set on winning the show even if it means using his Rust-inator to turn all the other cars into red dust. Meanwhile, Candace's hope for a car of her own has come true, but it's not quite all she imagined.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 6,
+      "code": "0406",
+      "title": "Der Kinderlumper",
+      "index_title": "Der Kinderlumper",
+      "url": "https://phineasandferb.fandom.com/wiki/Der_Kinderlumper/Transcript",
+      "file": "transcripts/phineas-and-ferb/der-kinderlumper.txt",
+      "summary": "The boys create Rutabaga-themed vehicles when Candace is chosen to be Rutabaga princess and gets to start the \"Running of the Chinchillas.\" Across town, Doofenshmirtz plans to turn himself into a real live Kinderlumper to scare Roger into relinquishing control of the Tri-State Area over to him.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Slut-shaming"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Slut-shaming",
+            "group": "bias",
+            "how": "Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes",
+            "count": 1,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Slut-shaming — Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 7,
+      "code": "0407",
+      "title": "Sidetracked",
+      "index_title": "Sidetracked",
+      "url": "https://phineasandferb.fandom.com/wiki/Sidetracked/Transcript",
+      "file": "transcripts/phineas-and-ferb/sidetracked.txt",
+      "summary": "Agent P teams up with an estranged former human partner named Lyla to stop a hijacked train to save the train's passengers and Canada's national treasure - a moose named Albert.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!”",
+            "count": 3,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Perry drags Doofenshmirtz over a bit to the American side of the train, then punches him",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "Oh no you don't, I'm on the American side now, you can't touch me. (Perry throws a punch) O! Canada. (Lyla does the same) Uh! 'Merica. (Perry hits him) Ow! Oh, it's on now.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Doofenshmirtz: “Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 9,
+      "code": "0409",
+      "title": "Mind Share",
+      "index_title": "Mind Share",
+      "url": "https://phineasandferb.fandom.com/wiki/Mind_Share/Transcript",
+      "file": "transcripts/phineas-and-ferb/mind-share.txt",
+      "summary": "The gang switches bodies with alien tourists for a free intergalactic vacation.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -8561,101 +8941,6 @@
     },
     {
       "season": 4,
-      "episode": 2,
-      "code": "0402",
-      "title": "Happy New Year!",
-      "index_title": "Happy New Year!",
-      "url": "https://phineasandferb.fandom.com/wiki/Happy_New_Year%21/Transcript",
-      "file": "transcripts/phineas-and-ferb/happy-new-year.txt",
-      "summary": "Phineas and Ferb plan their own New Year's Eve ball drop, complete with a customized multi-dimensional ball, while Candace makes it her resolution to refrain from busting her brothers before the clock hits midnight. Meanwhile, Doofenshmirtz uses a Resolution-Changer-inator in his tie as he continues the never-ending attempts to take over the Tri-State Area.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is affairs / cheating (moderate, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Affairs / cheating",
-          "Violence & injury",
-          "Fat-shaming"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Affairs / cheating",
-            "group": "sex",
-            "how": "Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”",
-            "count": 1,
-            "intensity": 2,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "early"
-              }
-            ]
-          },
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          },
-          {
-            "theme": "Fat-shaming",
-            "group": "bias",
-            "how": "Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, \"I-I'm gonna lose weight,\" or, \"gain a limb,\" or whatever, to, \"I'm going to make Heinz Doofenshmirtz my leader and obey his…”",
-            "count": 1,
-            "intensity": 2,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "…it will make everyone change their resolution from whatever it was, like, I don't know, \"I-I'm gonna lose weight,\" or, \"gain a limb,\" or whatever, to, \"I'm going to make Heinz Doofenshmirtz my leader and obey his…",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Affairs / cheating — Doofenshmirtz: “Perry the Platypus? You can't come in here; this is a black-tie affair. (Perry closes the door, then reenters wearing a half of a tux)”",
-        "Violence & injury — Doofenshmirtz: “(to Perry) Did you know about this? You did! You knew about this and you still punched and kicked and pinched me.”",
-        "Fat-shaming — Doofenshmirtz: “…it will make everyone change their resolution from whatever it was, like, I don't know, \"I-I'm gonna lose weight,\" or, \"gain a limb,\" or whatever, to, \"I'm going to make Heinz Doofenshmirtz my leader and obey his…”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
       "episode": 20,
       "code": "0420",
       "title": "Love at First Byte",
@@ -9163,38 +9448,6 @@
       "url": "https://phineasandferb.fandom.com/wiki/Steampunx/Transcript",
       "file": "transcripts/phineas-and-ferb/steampunx.txt",
       "summary": "When Phineas and Ferb discover a commemorative coin from the 1903 Danville World's Fair, Lawrence recounts the events of the festival to them, in which steam-driven devices were introduced and a set of kids, who were very much like them, were preparing for the highly anticipated event.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 3,
-      "code": "0403",
-      "title": "Fly On the Wall",
-      "index_title": "Fly On the Wall",
-      "url": "https://phineasandferb.fandom.com/wiki/Fly_On_the_Wall/Transcript",
-      "file": "transcripts/phineas-and-ferb/fly-on-the-wall.txt",
-      "summary": "Buford removes a part from a tire swing the boys are building and it accidentally shoots a ray that turns Candace into a fly. Meanwhile, Doofenshmirtz is suffering from evil scientist's block.",
       "violence": 1,
       "sex": 1,
       "language": 1,
@@ -9746,69 +9999,6 @@
     },
     {
       "season": 4,
-      "episode": 4,
-      "code": "0404",
-      "title": "Bully Bust",
-      "index_title": "Bully Bust",
-      "url": "https://phineasandferb.fandom.com/wiki/Bully_Bust/Transcript",
-      "file": "transcripts/phineas-and-ferb/bully-bust.txt",
-      "summary": "Candace challenges Buford to keep Phineas and Ferb's invention from disappearing so that she can sweep in and casually bust her brothers. Across town, Doofenshmirtz has had one too many lattes and is experiencing an extra burst of evil energy.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Buford: “Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Buford",
-                "text": "Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "(Perry punches him, and Doofenshmirtz falls down the stairs, and slides across the ramp of the trap) Hey, whe-where'd ya' go?",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Buford: “Not hardly. I swiped this bad-boy (His rivet gun) from the orthodontist's section, to cut off stuff sticking out of the ride that could snag a passing plane as they go along.”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
       "episode": 40,
       "code": "0440",
       "title": "Mandace",
@@ -10136,196 +10326,6 @@
       "source": "heuristic"
     },
     {
-      "season": 4,
-      "episode": 5,
-      "code": "0405",
-      "title": "My Sweet Ride",
-      "index_title": "My Sweet Ride",
-      "url": "https://phineasandferb.fandom.com/wiki/My_Sweet_Ride/Transcript",
-      "file": "transcripts/phineas-and-ferb/my-sweet-ride.txt",
-      "summary": "It's time for Danville's Doo Wop Hop and car show and the whole town is getting prepped for it. Doofenshmirtz is set on winning the show even if it means using his Rust-inator to turn all the other cars into red dust. Meanwhile, Candace's hope for a car of her own has come true, but it's not quite all she imagined.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 6,
-      "code": "0406",
-      "title": "Der Kinderlumper",
-      "index_title": "Der Kinderlumper",
-      "url": "https://phineasandferb.fandom.com/wiki/Der_Kinderlumper/Transcript",
-      "file": "transcripts/phineas-and-ferb/der-kinderlumper.txt",
-      "summary": "The boys create Rutabaga-themed vehicles when Candace is chosen to be Rutabaga princess and gets to start the \"Running of the Chinchillas.\" Across town, Doofenshmirtz plans to turn himself into a real live Kinderlumper to scare Roger into relinquishing control of the Tri-State Area over to him.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is slut-shaming (moderate, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Slut-shaming"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Slut-shaming",
-            "group": "bias",
-            "how": "Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes",
-            "count": 1,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Slut-shaming — Buford and Baljeet yell as the beasts tramp past them. Cut to Isabella on her shoes"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 7,
-      "code": "0407",
-      "title": "Sidetracked",
-      "index_title": "Sidetracked",
-      "url": "https://phineasandferb.fandom.com/wiki/Sidetracked/Transcript",
-      "file": "transcripts/phineas-and-ferb/sidetracked.txt",
-      "summary": "Agent P teams up with an estranged former human partner named Lyla to stop a hijacked train to save the train's passengers and Canada's national treasure - a moose named Albert.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!”",
-            "count": 3,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Perry drags Doofenshmirtz over a bit to the American side of the train, then punches him",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "Oh no you don't, I'm on the American side now, you can't touch me. (Perry throws a punch) O! Canada. (Lyla does the same) Uh! 'Merica. (Perry hits him) Ow! Oh, it's on now.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Doofenshmirtz: “Ah, Perry the Platypus, what an unexpected sur- (Perry moves to punch Doofenshmirtz) Oh, whoa, wait, wait, wait!”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 9,
-      "code": "0409",
-      "title": "Mind Share",
-      "index_title": "Mind Share",
-      "url": "https://phineasandferb.fandom.com/wiki/Mind_Share/Transcript",
-      "file": "transcripts/phineas-and-ferb/mind-share.txt",
-      "summary": "The gang switches bodies with alien tourists for a free intergalactic vacation.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 5,
       "episode": 1,
       "code": "0501",
@@ -10353,6 +10353,424 @@
         "notes_extra": []
       },
       "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 2,
+      "code": "0502",
+      "title": "Cloudy With a Chance of Mom",
+      "index_title": "Cloudy With a Chance of Mom",
+      "url": "https://phineasandferb.fandom.com/wiki/Cloudy_With_a_Chance_of_Mom/Transcript",
+      "file": "transcripts/phineas-and-ferb/cloudy-with-a-chance-of-mom.txt",
+      "summary": "The kids work to save Mom after she is hit by Doof's inator.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 3,
+      "code": "0503",
+      "title": "Submarine Sandwich Submarine",
+      "index_title": "Submarine Sandwich Submarine",
+      "url": "https://phineasandferb.fandom.com/wiki/Submarine_Sandwich_Submarine/Transcript",
+      "file": "transcripts/phineas-and-ferb/submarine-sandwich-submarine.txt",
+      "summary": "The kids build a giant submarine sandwich submarine while Doof steals food.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”",
+            "count": 2,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Candace",
+                "text": "(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "As Doof walks up to the inator, Perry kicks him in the head. The inator fires once again. Perry goes up to a time clock and punches his card.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "code": "0504",
+      "title": "License to Bust",
+      "index_title": "License to Bust",
+      "url": "https://phineasandferb.fandom.com/wiki/License_to_Bust/Transcript",
+      "file": "transcripts/phineas-and-ferb/license-to-bust.txt",
+      "summary": "Candace tries to bust the boys while taking her driving test, and Doof causes chaos in traffic.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.",
+            "count": 2,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Wipe down back to Perry who catches up to Doof and gets in the shotgun window.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "code": "0505",
+      "title": "Dry Another Day",
+      "index_title": "Dry Another Day",
+      "url": "https://phineasandferb.fandom.com/wiki/Dry_Another_Day/Transcript",
+      "file": "transcripts/phineas-and-ferb/dry-another-day.txt",
+      "summary": "The boys build an endless ice luge to beat the heat while Doof brings oil to a waterpark.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 6,
+      "code": "0506",
+      "title": "Deconstructing Doof",
+      "index_title": "Deconstructing Doof",
+      "url": "https://phineasandferb.fandom.com/wiki/Deconstructing_Doof/Transcript",
+      "file": "transcripts/phineas-and-ferb/deconstructing-doof.txt",
+      "summary": "Candace and Doof see the same psychologist, who thinks their experiences may be connected.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!”",
+            "count": 1,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Doofenshmirtz: “One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 7,
+      "code": "0507",
+      "title": "Tropey McTropeFace",
+      "index_title": "Tropey McTropeFace",
+      "url": "https://phineasandferb.fandom.com/wiki/Tropey_McTropeFace/Transcript",
+      "file": "transcripts/phineas-and-ferb/tropey-mctropeface.txt",
+      "summary": "The boys build a giant zoetrope that goes on an adventure of its own.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 6,
+      "verdict": "Usually fine — about 6+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 8,
+      "code": "0508",
+      "title": "Biblio-Blast!",
+      "index_title": "Biblio-Blast!",
+      "url": "https://phineasandferb.fandom.com/wiki/Biblio-Blast%21/Transcript",
+      "file": "transcripts/phineas-and-ferb/biblio-blast.txt",
+      "summary": "The kids build a massive bookcase that gets attacked by an army of Doof-plants.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”",
+            "count": 1,
+            "intensity": 2,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Isabella",
+                "text": "A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?",
+                "mode": "dialogue",
+                "intensity": 2,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 9,
+      "code": "0509",
+      "title": "A Chip to the Vet",
+      "index_title": "A Chip to the Vet",
+      "url": "https://phineasandferb.fandom.com/wiki/A_Chip_to_the_Vet/Transcript",
+      "file": "transcripts/phineas-and-ferb/a-chip-to-the-vet.txt",
+      "summary": "The boys bring Perry to the vet for a checkup and build a pet wash while they wait.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Doofenshmirtz: “(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!”",
+            "count": 2,
+            "intensity": 1,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": "Doofenshmirtz",
+                "text": "Hold still! Hold still—Argh! (he shoots the gun at the platypus, but misses) It's a good thing I have this practice platypus, 'cause this is much harder than I thought.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Doofenshmirtz: “(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!”"
+      ],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -10820,61 +11238,6 @@
         "notes_extra": []
       },
       "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 2,
-      "code": "0502",
-      "title": "Cloudy With a Chance of Mom",
-      "index_title": "Cloudy With a Chance of Mom",
-      "url": "https://phineasandferb.fandom.com/wiki/Cloudy_With_a_Chance_of_Mom/Transcript",
-      "file": "transcripts/phineas-and-ferb/cloudy-with-a-chance-of-mom.txt",
-      "summary": "The kids work to save Mom after she is hit by Doof's inator.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Buford punches the button on the cotton candy machine and the Mom Cloud spins in the machine and gets covered in cotton candy."
-      ],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -11349,69 +11712,6 @@
       },
       "examples": [
         "Violence & injury — Isabella and Holly get ride of a beat up oven."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 3,
-      "code": "0503",
-      "title": "Submarine Sandwich Submarine",
-      "index_title": "Submarine Sandwich Submarine",
-      "url": "https://phineasandferb.fandom.com/wiki/Submarine_Sandwich_Submarine/Transcript",
-      "file": "transcripts/phineas-and-ferb/submarine-sandwich-submarine.txt",
-      "summary": "The kids build a giant submarine sandwich submarine while Doof steals food.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”",
-            "count": 2,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Candace",
-                "text": "(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "As Doof walks up to the inator, Perry kicks him in the head. The inator fires once again. Perry goes up to a time clock and punches his card.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Candace: “(putting down her phone) Um, is the Mariana Trench supposed to have two gross, bloodshot eyes?”"
       ],
       "notes": null,
       "flags": [],
@@ -11945,306 +12245,6 @@
       },
       "examples": [
         "Violence & injury — Cut to Mom's car. Phineas and the others are fast asleep, but Isabella is riding shotgun and looks back on them."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 4,
-      "code": "0504",
-      "title": "License to Bust",
-      "index_title": "License to Bust",
-      "url": "https://phineasandferb.fandom.com/wiki/License_to_Bust/Transcript",
-      "file": "transcripts/phineas-and-ferb/license-to-bust.txt",
-      "summary": "Candace tries to bust the boys while taking her driving test, and Doof causes chaos in traffic.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.",
-            "count": 2,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Wipe down back to Perry who catches up to Doof and gets in the shotgun window.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Mom leaves as she leaves the car's keys with Candace. The instructor gets in the shotgun position."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 5,
-      "code": "0505",
-      "title": "Dry Another Day",
-      "index_title": "Dry Another Day",
-      "url": "https://phineasandferb.fandom.com/wiki/Dry_Another_Day/Transcript",
-      "file": "transcripts/phineas-and-ferb/dry-another-day.txt",
-      "summary": "The boys build an endless ice luge to beat the heat while Doof brings oil to a waterpark.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 6,
-      "code": "0506",
-      "title": "Deconstructing Doof",
-      "index_title": "Deconstructing Doof",
-      "url": "https://phineasandferb.fandom.com/wiki/Deconstructing_Doof/Transcript",
-      "file": "transcripts/phineas-and-ferb/deconstructing-doof.txt",
-      "summary": "Candace and Doof see the same psychologist, who thinks their experiences may be connected.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!”",
-            "count": 1,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Doofenshmirtz: “One small note, sweetie. You don't have to read the stage direction. Anyway, you get the idea. Kick here, punch here, bada boom, bada bing. Oh, no! Look out! He body-slammed me into my self-destruct-inator!”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 7,
-      "code": "0507",
-      "title": "Tropey McTropeFace",
-      "index_title": "Tropey McTropeFace",
-      "url": "https://phineasandferb.fandom.com/wiki/Tropey_McTropeFace/Transcript",
-      "file": "transcripts/phineas-and-ferb/tropey-mctropeface.txt",
-      "summary": "The boys build a giant zoetrope that goes on an adventure of its own.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 6,
-      "verdict": "Usually fine — about 6+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 8,
-      "code": "0508",
-      "title": "Biblio-Blast!",
-      "index_title": "Biblio-Blast!",
-      "url": "https://phineasandferb.fandom.com/wiki/Biblio-Blast%21/Transcript",
-      "file": "transcripts/phineas-and-ferb/biblio-blast.txt",
-      "summary": "The kids build a massive bookcase that gets attacked by an army of Doof-plants.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”",
-            "count": 1,
-            "intensity": 2,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Isabella",
-                "text": "A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?",
-                "mode": "dialogue",
-                "intensity": 2,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Isabella: “A parasitic arachnid that attaches itself to larger, warm-blooded vertebrates?”"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 9,
-      "code": "0509",
-      "title": "A Chip to the Vet",
-      "index_title": "A Chip to the Vet",
-      "url": "https://phineasandferb.fandom.com/wiki/A_Chip_to_the_Vet/Transcript",
-      "file": "transcripts/phineas-and-ferb/a-chip-to-the-vet.txt",
-      "summary": "The boys bring Perry to the vet for a checkup and build a pet wash while they wait.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, in dialogue).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Doofenshmirtz: “(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!”",
-            "count": 2,
-            "intensity": 1,
-            "mode": "dialogue",
-            "instances": [
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "quote",
-                "speaker": "Doofenshmirtz",
-                "text": "Hold still! Hold still—Argh! (he shoots the gun at the platypus, but misses) It's a good thing I have this practice platypus, 'cause this is much harder than I thought.",
-                "mode": "dialogue",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Doofenshmirtz: “(sighs) Well, I guess I could warm up with this platypus. (He sticks the gun into Perry.) Here you go. (Perry gets away.) Hey, no—Hold still!”"
       ],
       "notes": null,
       "flags": [],

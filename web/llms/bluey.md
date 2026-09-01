@@ -4,6 +4,59 @@ Source: https://watchwiththekids.com/bluey.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 152 all clear (1–2), 0 gray area (3), 0 hard pass (4–5).
 
+## S1 E2 — Hospital
+URL: https://watchwiththekids.com/ep/bluey/0102.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Doctor Bluey is needed when Dad gets a very curious x-ray from Nurse Bingo. It seems he has a cat in his tummy, leaving Bluey no choice but to operate immediately!
+Watch for: nothing flagged.
+
+## S1 E3 — Keepy Uppy
+URL: https://watchwiththekids.com/ep/bluey/0103.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bluey, Bingo and Mum are enjoying playing Keepy-Uppy around the house with their last balloon, when Dad joins in and the game becomes the ultimate test of skill.
+Watch for: nothing flagged.
+
+## S1 E4 — Daddy Robot
+URL: https://watchwiththekids.com/ep/bluey/0104.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bluey and Bingo don't want to tidy the playroom, so they get Daddy Robot to do it for them. But when Bluey takes things too far, Daddy Robot malfunctions with disastrous results.
+Watch for: nothing flagged.
+
+## S1 E5 — Shadowlands
+URL: https://watchwiththekids.com/ep/bluey/0105.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: On a picnic in the park, Bluey and her friends play Shadowlands. But when Coco keeps taking shortcuts, Bluey has to show her that following the rules can make the game more fun.
+Watch for: nothing flagged.
+
+## S1 E6 — The Weekend
+URL: https://watchwiththekids.com/ep/bluey/0106.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset when she discovers a walking leaf insect and Dad is too caught up in the game to notice.
+Watch for: nothing flagged.
+
+## S1 E7 — Bbq
+URL: https://watchwiththekids.com/ep/bluey/0107.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: It's lunchtime on Bluey's back deck! But every BBQ needs a side salad, so Bingo's relaxing sit-down will have to wait until she finds every colour of capsicum her cousins asked for!
+Watch for:
+- Alcohol & drugs — 2 moment(s)
+  - Bandit is cooking sausages while Stripe stands nearby with a beer.
+  - Bingo runs over to Bandit, who just picked up his beer from a bench to take a sip.
+
+## S1 E8 — Fruitbat
+URL: https://watchwiththekids.com/ep/bluey/0108.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Not wanting to go to bed, Bluey tries to dream about being a nocturnal fruit bat so she can stay up all night long and soon finds herself flying through the night sky.
+Watch for: nothing flagged.
+
+## S1 E9 — Horsey Ride
+URL: https://watchwiththekids.com/ep/bluey/0109.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When Bluey forgets to put her favourite toy away, cousin Socks grabs it and won't let go! The kids stage a horsey wedding to distract her, with Dad and Uncle Stripe as the horses!
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Stripe playfully points finger guns at Bluey and Bingo.
+
 ## S1 E10 — Hotel
 URL: https://watchwiththekids.com/ep/bluey/0110.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -67,12 +120,6 @@ Summary: When Bluey and Bingo are unable to grab a prize on a Magic Claw machine
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - Bluey and Bingo laugh, and Bluey turns to Chilli, who is watching the whole affair.
-
-## S1 E2 — Hospital
-URL: https://watchwiththekids.com/ep/bluey/0102.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Doctor Bluey is needed when Dad gets a very curious x-ray from Nurse Bingo. It seems he has a cat in his tummy, leaving Bluey no choice but to operate immediately!
-Watch for: nothing flagged.
 
 ## S1 E20 — Markets
 URL: https://watchwiththekids.com/ep/bluey/0120.html
@@ -140,12 +187,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Mackenzie: “Yeah, don't worry. He just wants to eat your blood.”
 
-## S1 E3 — Keepy Uppy
-URL: https://watchwiththekids.com/ep/bluey/0103.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bluey, Bingo and Mum are enjoying playing Keepy-Uppy around the house with their last balloon, when Dad joins in and the game becomes the ultimate test of skill.
-Watch for: nothing flagged.
-
 ## S1 E30 — Fairies
 URL: https://watchwiththekids.com/ep/bluey/0130.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -212,12 +253,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: A sleepover with their cousin means Bluey and Bingo get to stay up late! But when Muffin shows up exhausted after missing her nap, the girls get more fun than they bargained for.
 Watch for: nothing flagged.
 
-## S1 E4 — Daddy Robot
-URL: https://watchwiththekids.com/ep/bluey/0104.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bluey and Bingo don't want to tidy the playroom, so they get Daddy Robot to do it for them. But when Bluey takes things too far, Daddy Robot malfunctions with disastrous results.
-Watch for: nothing flagged.
-
 ## S1 E40 — Early Baby
 URL: https://watchwiththekids.com/ep/bluey/0140.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -282,12 +317,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Bandit: “Bingo! For the last time, use a knife and”
 
-## S1 E5 — Shadowlands
-URL: https://watchwiththekids.com/ep/bluey/0105.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: On a picnic in the park, Bluey and her friends play Shadowlands. But when Coco keeps taking shortcuts, Bluey has to show her that following the rules can make the game more fun.
-Watch for: nothing flagged.
-
 ## S1 E50 — Shaun
 URL: https://watchwiththekids.com/ep/bluey/0150.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -308,35 +337,6 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - Chilli and Trixie are chatting and sipping wine.
 
-## S1 E6 — The Weekend
-URL: https://watchwiththekids.com/ep/bluey/0106.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset when she discovers a walking leaf insect and Dad is too caught up in the game to notice.
-Watch for: nothing flagged.
-
-## S1 E7 — Bbq
-URL: https://watchwiththekids.com/ep/bluey/0107.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: It's lunchtime on Bluey's back deck! But every BBQ needs a side salad, so Bingo's relaxing sit-down will have to wait until she finds every colour of capsicum her cousins asked for!
-Watch for:
-- Alcohol & drugs — 2 moment(s)
-  - Bandit is cooking sausages while Stripe stands nearby with a beer.
-  - Bingo runs over to Bandit, who just picked up his beer from a bench to take a sip.
-
-## S1 E8 — Fruitbat
-URL: https://watchwiththekids.com/ep/bluey/0108.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Not wanting to go to bed, Bluey tries to dream about being a nocturnal fruit bat so she can stay up all night long and soon finds herself flying through the night sky.
-Watch for: nothing flagged.
-
-## S1 E9 — Horsey Ride
-URL: https://watchwiththekids.com/ep/bluey/0109.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When Bluey forgets to put her favourite toy away, cousin Socks grabs it and won't let go! The kids stage a horsey wedding to distract her, with Dad and Uncle Stripe as the horses!
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Stripe playfully points finger guns at Bluey and Bingo.
-
 ## S2 E1 — Dance Mode
 URL: https://watchwiththekids.com/ep/bluey/0201.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -344,6 +344,58 @@ Summary: After Dad eats her last chip, Bingo is given three chances to put Mum a
 Watch for:
 - Violence & injury — 1 moment(s)
   - Cut to the Busker, who is playing on a Thongophone - an instrument consisting of a tangle of PVC pipes, played by slapping the pipe openings with thongs.
+
+## S2 E2 — Hammerbarn
+URL: https://watchwiththekids.com/ep/bluey/0202.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Checkout Lady: “Hey, would you kids like to try my beeper gun?”
+
+## S2 E3 — Featherwand
+URL: https://watchwiththekids.com/ep/bluey/0203.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bluey and Mum are off to Chloe's party and Bingo isn't invited. But armed with a magic featherwand that makes things incredibly heavy, Bingo can now stop them leaving the house.
+Watch for: nothing flagged.
+
+## S2 E4 — Squash
+URL: https://watchwiththekids.com/ep/bluey/0204.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When Dad and Uncle Stripe play a game of squash, Bluey and Bingo are in control of their every move, and Bingo proves that big siblings don't always beat little siblings.
+Watch for: nothing flagged.
+
+## S2 E5 — Hairdressers
+URL: https://watchwiththekids.com/ep/bluey/0205.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: During a game of hairdressers, Bluey discovers that big-headed customer Dad has nits! To help treat them Bingo has to find her voice, while Bluey has to find her ears.
+Watch for: nothing flagged.
+
+## S2 E6 — Stumpfest
+URL: https://watchwiththekids.com/ep/bluey/0206.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Stripe throws a punch, but Pat grabs him and throws him over.
+
+## S2 E7 — Favourite Thing
+URL: https://watchwiththekids.com/ep/bluey/0207.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When Bluey accidentally makes Bingo upset playing a game at dinner, she will do anything to make her happy again - even changing the rules of the game. But nothing seems to work.
+Watch for: nothing flagged.
+
+## S2 E8 — Daddy Dropoff
+URL: https://watchwiththekids.com/ep/bluey/0208.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Dad refuses to be late dropping off Bluey and Bingo at kindy and school, but the girls make Dad play so many games, they quickly derail his plan.
+Watch for: nothing flagged.
+
+## S2 E9 — Bingo
+URL: https://watchwiththekids.com/ep/bluey/0209.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When Bluey has a playdate at Chloe's, Bingo must learn how to play by herself. But all the games she knows need more than one person! Luckily Dad has a problem that needs solving.
+Watch for: nothing flagged.
 
 ## S2 E10 — Rug Island
 URL: https://watchwiththekids.com/ep/bluey/0210.html
@@ -408,14 +460,6 @@ URL: https://watchwiththekids.com/ep/bluey/0219.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: When Bingo drops Mum's breakfast-in-bed on the floor, she's convinced she's ruined her big day. But Bluey helps make amends by putting on a play of how Mum and Dad first met.
 Watch for: nothing flagged.
-
-## S2 E2 — Hammerbarn
-URL: https://watchwiththekids.com/ep/bluey/0202.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Checkout Lady: “Hey, would you kids like to try my beeper gun?”
 
 ## S2 E20 — Ticklecrabs
 URL: https://watchwiththekids.com/ep/bluey/0220.html
@@ -487,12 +531,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: It is Bluey's first trip to the cinema, but she's worried that the movie will be too scary. When Bingo starts running amok in the theatre, she must conquer her fear and help Dad out.
 Watch for: nothing flagged.
 
-## S2 E3 — Featherwand
-URL: https://watchwiththekids.com/ep/bluey/0203.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bluey and Mum are off to Chloe's party and Bingo isn't invited. But armed with a magic featherwand that makes things incredibly heavy, Bingo can now stop them leaving the house.
-Watch for: nothing flagged.
-
 ## S2 E30 — Library
 URL: https://watchwiththekids.com/ep/bluey/0230.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -558,12 +596,6 @@ Watch for:
   - Radley: “And then the prince knocked the dragon with a big prince punch!”
   - A wide shot shows Radley standing on Bluey's bed just before he jumps down to punch the dragon on the floor. He jumps down and punches on the pile of books where the dragon plushie is sitting. And then, it flies off.
   - Frisky: “Only because he like prince-punching dragons! Tomorrow he'll be off in search of another princess.”
-
-## S2 E4 — Squash
-URL: https://watchwiththekids.com/ep/bluey/0204.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When Dad and Uncle Stripe play a game of squash, Bluey and Bingo are in control of their every move, and Bingo proves that big siblings don't always beat little siblings.
-Watch for: nothing flagged.
 
 ## S2 E40 — Bad Mood
 URL: https://watchwiththekids.com/ep/bluey/0240.html
@@ -633,12 +665,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bluey, Snickers and Winton are on their way to ask Calypso for help with their problems, when they are ambushed by the Terriers and use their unique talents to get past.
 Watch for: nothing flagged.
 
-## S2 E5 — Hairdressers
-URL: https://watchwiththekids.com/ep/bluey/0205.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: During a game of hairdressers, Bluey discovers that big-headed customer Dad has nits! To help treat them Bingo has to find her voice, while Bluey has to find her ears.
-Watch for: nothing flagged.
-
 ## S2 E50 — Baby Race
 URL: https://watchwiththekids.com/ep/bluey/0250.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -657,32 +683,6 @@ Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about
 Summary: Bingo is convinced the Easter Bunny has forgotten them like last year, until Bluey finds a series of clues that leads them on an Easter egg treasure hunt.
 Watch for: nothing flagged.
 
-## S2 E6 — Stumpfest
-URL: https://watchwiththekids.com/ep/bluey/0206.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Stripe throws a punch, but Pat grabs him and throws him over.
-
-## S2 E7 — Favourite Thing
-URL: https://watchwiththekids.com/ep/bluey/0207.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When Bluey accidentally makes Bingo upset playing a game at dinner, she will do anything to make her happy again - even changing the rules of the game. But nothing seems to work.
-Watch for: nothing flagged.
-
-## S2 E8 — Daddy Dropoff
-URL: https://watchwiththekids.com/ep/bluey/0208.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Dad refuses to be late dropping off Bluey and Bingo at kindy and school, but the girls make Dad play so many games, they quickly derail his plan.
-Watch for: nothing flagged.
-
-## S2 E9 — Bingo
-URL: https://watchwiththekids.com/ep/bluey/0209.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When Bluey has a playdate at Chloe's, Bingo must learn how to play by herself. But all the games she knows need more than one person! Luckily Dad has a problem that needs solving.
-Watch for: nothing flagged.
-
 ## S3 E1 — Perfect
 URL: https://watchwiththekids.com/ep/bluey/0301.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -691,6 +691,56 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - Bingo pretends to get a ticket out of her pocket and hands it to Bandit. She giggles. Bandit pretends to take and punch it.
   - She pretends to hand over a ticket, which Bandit punches.
+
+## S3 E2 — Bedroom
+URL: https://watchwiththekids.com/ep/bluey/0302.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bluey is excited to get her own room. But when bed time comes, she misses Bingo more than she expected and must find a way to stay in touch with her sister.
+Watch for: nothing flagged.
+
+## S3 E3 — Obstacle Course
+URL: https://watchwiththekids.com/ep/bluey/0303.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary.
+Watch for: nothing flagged.
+
+## S3 E4 — Promises
+URL: https://watchwiththekids.com/ep/bluey/0304.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bluey keeps breaking her promises! But after seeing how much Bingo trusts Mum's word, Bluey learns the power of promises and why it's important not to break them.
+Watch for: nothing flagged.
+
+## S3 E5 — Omelette
+URL: https://watchwiththekids.com/ep/bluey/0305.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bingo is helping Mum make an omelette for Dad's birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute.
+Watch for: nothing flagged.
+
+## S3 E6 — Born Yesterday
+URL: https://watchwiththekids.com/ep/bluey/0306.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Dad pretends he was born yesterday. Bluey and Bingo have to guide him through his second day on Earth, especially when he discovers food is delicious and steals Lucky's Dad's pie.
+Watch for: nothing flagged.
+
+## S3 E7 — Mini Bluey
+URL: https://watchwiththekids.com/ep/bluey/0307.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini-Bluey!
+Watch for: nothing flagged.
+
+## S3 E8 — Unicorse
+URL: https://watchwiththekids.com/ep/bluey/0308.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bluey can't get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform.
+Watch for:
+- Violence & injury — 1 moment(s)
+  - Unicorse charges into The Lawyer and a tussle akin to "Punch and Judy"-show ensues behind the couch.
+
+## S3 E9 — Curry Quest
+URL: https://watchwiththekids.com/ep/bluey/0309.html
+Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
+Summary: Bingo and Dad must brave a swooping magpie protecting its nest, when they go on a curry swap to Mackenzie's house through the park.
+Watch for: nothing flagged.
 
 ## S3 E10 — Magic
 URL: https://watchwiththekids.com/ep/bluey/0310.html
@@ -759,12 +809,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - It shows the tap dripping water. Muffin is seen putting the wheel back on the car, which she starts punching the wheel into place. Bingo and Socks are finishing up the “no mushrooms” pizza.
 
-## S3 E2 — Bedroom
-URL: https://watchwiththekids.com/ep/bluey/0302.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bluey is excited to get her own room. But when bed time comes, she misses Bingo more than she expected and must find a way to stay in touch with her sister.
-Watch for: nothing flagged.
-
 ## S3 E20 — Driving
 URL: https://watchwiththekids.com/ep/bluey/0320.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -829,12 +873,6 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - Unicorse turns around and tries to stab Bluey with his soft fabric horn.
 
-## S3 E3 — Obstacle Course
-URL: https://watchwiththekids.com/ep/bluey/0303.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary.
-Watch for: nothing flagged.
-
 ## S3 E30 — Turtleboy
 URL: https://watchwiththekids.com/ep/bluey/0330.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
@@ -897,12 +935,6 @@ Watch for: nothing flagged.
 URL: https://watchwiththekids.com/ep/bluey/0339.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
 Summary: Bingo pretends to be Boss Bluey's new employee in the middle of Dad's backyard workout.
-Watch for: nothing flagged.
-
-## S3 E4 — Promises
-URL: https://watchwiththekids.com/ep/bluey/0304.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bluey keeps breaking her promises! But after seeing how much Bingo trusts Mum's word, Bluey learns the power of promises and why it's important not to break them.
 Watch for: nothing flagged.
 
 ## S3 E40 — Relax
@@ -969,35 +1001,3 @@ Watch for:
 - Violence & injury — 2 moment(s)
   - We see her gun at the bottom of the screen Bandit runs across the screen from right to left.
   - Cut to a wider shot. Bluey lurks beside the door, a mischeivous grin on her face. Her toy gun makes a charging-up noise.
-
-## S3 E5 — Omelette
-URL: https://watchwiththekids.com/ep/bluey/0305.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bingo is helping Mum make an omelette for Dad's birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute.
-Watch for: nothing flagged.
-
-## S3 E6 — Born Yesterday
-URL: https://watchwiththekids.com/ep/bluey/0306.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Dad pretends he was born yesterday. Bluey and Bingo have to guide him through his second day on Earth, especially when he discovers food is delicious and steals Lucky's Dad's pie.
-Watch for: nothing flagged.
-
-## S3 E7 — Mini Bluey
-URL: https://watchwiththekids.com/ep/bluey/0307.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini-Bluey!
-Watch for: nothing flagged.
-
-## S3 E8 — Unicorse
-URL: https://watchwiththekids.com/ep/bluey/0308.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bluey can't get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform.
-Watch for:
-- Violence & injury — 1 moment(s)
-  - Unicorse charges into The Lawyer and a tussle akin to "Punch and Judy"-show ensues behind the couch.
-
-## S3 E9 — Curry Quest
-URL: https://watchwiththekids.com/ep/bluey/0309.html
-Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 6+)
-Summary: Bingo and Dad must brave a swooping magpie protecting its nest, when they go on a curry swap to Mackenzie's house through the park.
-Watch for: nothing flagged.

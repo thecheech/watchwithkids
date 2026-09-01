@@ -118,6 +118,633 @@
     },
     {
       "season": 1,
+      "episode": 2,
+      "code": "0102",
+      "title": "Laser Light Cannon",
+      "index_title": "Laser Light Cannon",
+      "url": "https://steven-universe.fandom.com/wiki/Laser_Light_Cannon_%28episode%29/Transcript",
+      "file": "transcripts/steven-universe/laser-light-cannon-episode.txt",
+      "summary": "When a menacing red eye is about to hit Beach City, the only thing that can destroy it is a Laser Light Cannon which once belonged to Steven's mother, Rose Quartz. Thus, Steven enlists the help of his father, Greg, and they search through his storage for the cannon.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. beach near Crystal Temple",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. beach near Crystal Temple",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Beach",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "code": "0103",
+      "title": "Cheeseburger Backpack",
+      "index_title": "Cheeseburger Backpack",
+      "url": "https://steven-universe.fandom.com/wiki/Cheeseburger_Backpack_%28episode%29/Transcript",
+      "file": "transcripts/steven-universe/cheeseburger-backpack-episode.txt",
+      "summary": "The Crystal Gems go on a mission to place a Moon Goddess statue on top of the ruined Lunar Sea Spire, and Steven tries to prove he can be useful with the help of his new novelty Cheeseburger Backpack.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Beach House",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Warp Pad",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "code": "0104",
+      "title": "Together Breakfast",
+      "index_title": "Together Breakfast",
+      "url": "https://steven-universe.fandom.com/wiki/Together_Breakfast_%28episode%29/Transcript",
+      "file": "transcripts/steven-universe/together-breakfast-episode.txt",
+      "summary": "Steven's attempt to get the Gems to share his special breakfast tradition lands him on a journey through their ancient Gem temple.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Pearl's Room",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Pearl's Room",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Amethyst's Room",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "code": "0105",
+      "title": "Frybo",
+      "index_title": "Frybo",
+      "url": "https://steven-universe.fandom.com/wiki/Frybo_%28episode%29/Transcript",
+      "file": "transcripts/steven-universe/frybo-episode.txt",
+      "summary": "Steven brings a mascot costume to life with a magical gem shard in order help his friend Peedee, but it backfires when the mascot goes rogue.",
+      "violence": 1,
+      "sex": 2,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Nudity & bodies"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Nudity & bodies",
+            "group": "sex",
+            "how": "Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Steven’s garments carry the Frybo costume and prepare to send it out to sea on a makeshift raft while Steven, still naked, and others look on.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Beach Citywalk Fries",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Beach Citywalk Fries",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Funland Arcade",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Nudity & bodies — Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "code": "0106",
+      "title": "Cat Fingers",
+      "index_title": "Cat Fingers",
+      "url": "https://steven-universe.fandom.com/wiki/Cat_Fingers/Transcript",
+      "file": "transcripts/steven-universe/cat-fingers.txt",
+      "summary": "Steven tries to master his shapeshifting abilities with Amethyst, but turns his fingers into cats, making it harder to do things.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Beach House",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. It's a Wash",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "code": "0107",
+      "title": "Bubble Buddies",
+      "index_title": "Bubble Buddies",
+      "url": "https://steven-universe.fandom.com/wiki/Bubble_Buddies/Transcript",
+      "file": "transcripts/steven-universe/bubble-buddies.txt",
+      "summary": "Steven forms a magic bubble around himself and a girl named Connie to save her from a falling rock, but he has no idea how to make it disappear.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!",
+            "count": 2,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's okay, I'm a Gem. Onion, we need a harpoon gun! *slowly* HAR-POON-GUUUN!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Beach House",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "code": "0108",
+      "title": "Serious Steven",
+      "index_title": "Serious Steven",
+      "url": "https://steven-universe.fandom.com/wiki/Serious_Steven/Transcript",
+      "file": "transcripts/steven-universe/serious-steven.txt",
+      "summary": "While navigating out of an ancient Gem maze, Steven tries to prove himself to the Gems by being serious.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Alright, but be careful. You might trigger a trap with that gun-show.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Alright, but be careful. You might trigger a trap with that gun-show.",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Gem Battlefield",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Gem Battlefield",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Pyramid Temple-Outer Chamber",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Alright, but be careful. You might trigger a trap with that gun-show."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "code": "0109",
+      "title": "Tiger Millionaire",
+      "index_title": "Tiger Millionaire",
+      "url": "https://steven-universe.fandom.com/wiki/Tiger_Millionaire_%28episode%29/Transcript",
+      "file": "transcripts/steven-universe/tiger-millionaire-episode.txt",
+      "summary": "Steven joins an underground wrestling league with Amethyst, who's tired of Garnet and Pearl bringing her down.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!",
+            "count": 2,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!",
+                "mode": "implied",
+                "intensity": 2,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Garnet summons her gauntlets and is locked in a fist fight with Purple Puma.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Abandoned Warehouse",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Abandoned Warehouse",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Abandoned Warehouse",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 1,
       "episode": 10,
       "code": "0110",
       "title": "Steven's Lion",
@@ -851,67 +1478,6 @@
                 "kind": "note",
                 "speaker": null,
                 "text": "Trans. Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 2,
-      "code": "0102",
-      "title": "Laser Light Cannon",
-      "index_title": "Laser Light Cannon",
-      "url": "https://steven-universe.fandom.com/wiki/Laser_Light_Cannon_%28episode%29/Transcript",
-      "file": "transcripts/steven-universe/laser-light-cannon-episode.txt",
-      "summary": "When a menacing red eye is about to hit Beach City, the only thing that can destroy it is a Laser Light Cannon which once belonged to Steven's mother, Rose Quartz. Thus, Steven enlists the help of his father, Greg, and they search through his storage for the cannon.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. beach near Crystal Temple",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. beach near Crystal Temple",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Beach",
                 "mode": "on-screen",
                 "intensity": 1,
                 "at": "late"
@@ -1724,67 +2290,6 @@
     },
     {
       "season": 1,
-      "episode": 3,
-      "code": "0103",
-      "title": "Cheeseburger Backpack",
-      "index_title": "Cheeseburger Backpack",
-      "url": "https://steven-universe.fandom.com/wiki/Cheeseburger_Backpack_%28episode%29/Transcript",
-      "file": "transcripts/steven-universe/cheeseburger-backpack-episode.txt",
-      "summary": "The Crystal Gems go on a mission to place a Moon Goddess statue on top of the ruined Lunar Sea Spire, and Steven tries to prove he can be useful with the help of his new novelty Cheeseburger Backpack.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Beach House",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Warp Pad",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
       "episode": 30,
       "code": "0130",
       "title": "Island Adventure",
@@ -2537,90 +3042,6 @@
     },
     {
       "season": 1,
-      "episode": 4,
-      "code": "0104",
-      "title": "Together Breakfast",
-      "index_title": "Together Breakfast",
-      "url": "https://steven-universe.fandom.com/wiki/Together_Breakfast_%28episode%29/Transcript",
-      "file": "transcripts/steven-universe/together-breakfast-episode.txt",
-      "summary": "Steven's attempt to get the Gems to share his special breakfast tradition lands him on a journey through their ancient Gem temple.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Pearl's Room",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Pearl's Room",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Amethyst's Room",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — The monster snaps Pearl's spear in two. Garnet tries to punch the monster, but her gauntlet gets stuck in whipped cream. Amethyst tries to pull Garnet away."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
       "episode": 40,
       "code": "0140",
       "title": "On the Run",
@@ -3339,98 +3760,6 @@
     },
     {
       "season": 1,
-      "episode": 5,
-      "code": "0105",
-      "title": "Frybo",
-      "index_title": "Frybo",
-      "url": "https://steven-universe.fandom.com/wiki/Frybo_%28episode%29/Transcript",
-      "file": "transcripts/steven-universe/frybo-episode.txt",
-      "summary": "Steven brings a mascot costume to life with a magical gem shard in order help his friend Peedee, but it backfires when the mascot goes rogue.",
-      "violence": 1,
-      "sex": 2,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is nudity & bodies (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Nudity & bodies"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Nudity & bodies",
-            "group": "sex",
-            "how": "Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven’s garments carry the Frybo costume and prepare to send it out to sea on a makeshift raft while Steven, still naked, and others look on.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Beach Citywalk Fries",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Beach Citywalk Fries",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Funland Arcade",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Nudity & bodies — Steven's underwear flies off of him and onto Frybo's other eye. Steven's pants kicks Frybo's leg, tripping it over. A naked Steven then runs up to Frybo and rips the Gem shard out of Frybo's cheese-filled mouth."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
       "episode": 50,
       "code": "0150",
       "title": "Full Disclosure",
@@ -3622,335 +3951,6 @@
       "source": "heuristic"
     },
     {
-      "season": 1,
-      "episode": 6,
-      "code": "0106",
-      "title": "Cat Fingers",
-      "index_title": "Cat Fingers",
-      "url": "https://steven-universe.fandom.com/wiki/Cat_Fingers/Transcript",
-      "file": "transcripts/steven-universe/cat-fingers.txt",
-      "summary": "Steven tries to master his shapeshifting abilities with Amethyst, but turns his fingers into cats, making it harder to do things.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Beach House",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. It's a Wash",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 7,
-      "code": "0107",
-      "title": "Bubble Buddies",
-      "index_title": "Bubble Buddies",
-      "url": "https://steven-universe.fandom.com/wiki/Bubble_Buddies/Transcript",
-      "file": "transcripts/steven-universe/bubble-buddies.txt",
-      "summary": "Steven forms a magic bubble around himself and a girl named Connie to save her from a falling rock, but he has no idea how to make it disappear.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!",
-            "count": 2,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "It's okay, I'm a Gem. Onion, we need a harpoon gun! *slowly* HAR-POON-GUUUN!",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Beach House",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Heh, uh... *notices a boy holding a bag of popcorns* Oh hey, Onion, Onion! (Onion waves.) We need a Harpoon Gun!"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 8,
-      "code": "0108",
-      "title": "Serious Steven",
-      "index_title": "Serious Steven",
-      "url": "https://steven-universe.fandom.com/wiki/Serious_Steven/Transcript",
-      "file": "transcripts/steven-universe/serious-steven.txt",
-      "summary": "While navigating out of an ancient Gem maze, Steven tries to prove himself to the Gems by being serious.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Alright, but be careful. You might trigger a trap with that gun-show.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Alright, but be careful. You might trigger a trap with that gun-show.",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Gem Battlefield",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Gem Battlefield",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Pyramid Temple-Outer Chamber",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Alright, but be careful. You might trigger a trap with that gun-show."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 1,
-      "episode": 9,
-      "code": "0109",
-      "title": "Tiger Millionaire",
-      "index_title": "Tiger Millionaire",
-      "url": "https://steven-universe.fandom.com/wiki/Tiger_Millionaire_%28episode%29/Transcript",
-      "file": "transcripts/steven-universe/tiger-millionaire-episode.txt",
-      "summary": "Steven joins an underground wrestling league with Amethyst, who's tired of Garnet and Pearl bringing her down.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!",
-            "count": 2,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!",
-                "mode": "implied",
-                "intensity": 2,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Garnet summons her gauntlets and is locked in a fist fight with Purple Puma.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Abandoned Warehouse",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Abandoned Warehouse",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Abandoned Warehouse",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — How could you possibly think punching a blood polyp was a good idea? Look at all the gunk you got on me! *flicks away a small piece of gunk on her arm* And look at Steven!"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 2,
       "episode": 1,
       "code": "0201",
@@ -4001,6 +4001,542 @@
       "examples": [
         "Violence & injury — Amethyst pulls Uncle Grandpa in and the Gems start beating him up. They then leap into the sky, leaving a beaten-up Uncle Grandpa on the ground."
       ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "code": "0202",
+      "title": "Story for Steven",
+      "index_title": "Story for Steven",
+      "url": "https://steven-universe.fandom.com/wiki/Story_for_Steven/Transcript",
+      "file": "transcripts/steven-universe/story-for-steven.txt",
+      "summary": "Greg reveals how he met Rose-Quartz.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 3,
+      "code": "0203",
+      "title": "Shirt Club",
+      "index_title": "Shirt Club",
+      "url": "https://steven-universe.fandom.com/wiki/Shirt_Club/Transcript",
+      "file": "transcripts/steven-universe/shirt-club.txt",
+      "summary": "Steven makes T-shirts with Buck Dewey.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "It's not something we can punch. *punches her own palm*",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "It's not something we can punch. *punches her own palm*",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Big Donut",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Big Donut",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Abandoned Warehouse",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — It's not something we can punch. *punches her own palm*"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 4,
+      "code": "0204",
+      "title": "Love Letters",
+      "index_title": "Love Letters",
+      "url": "https://steven-universe.fandom.com/wiki/Love_Letters/Transcript",
+      "file": "transcripts/steven-universe/love-letters.txt",
+      "summary": "Steven and Connie help Jamie the mailman with love.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Beach City Boardwalk",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Beach City Boardwalk",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. In. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 5,
+      "code": "0205",
+      "title": "Reformed",
+      "index_title": "Reformed",
+      "url": "https://steven-universe.fandom.com/wiki/Reformed/Transcript",
+      "file": "transcripts/steven-universe/reformed.txt",
+      "summary": "Steven, Amethyst and Garnet chase a corrupted gem monster through the Temple.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem.",
+            "count": 3,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Amethyst runs toward a crystal pillar and punches it out of her way, shattering it. Steven and Garnet shield themselves from the debris and follow after her.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "The Slinker eats the distracted Amethyst and poofs her. Garnet leaps in and punches the Slinker, causing it to spit out Amethyst's gem, and Steven catches it. Steven sighs as he holds it against his chest.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans Int. Beach House",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans Int. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 6,
+      "code": "0206",
+      "title": "Sworn to the Sword",
+      "index_title": "Sworn to the Sword",
+      "url": "https://steven-universe.fandom.com/wiki/Sworn_to_the_Sword/Transcript",
+      "file": "transcripts/steven-universe/sworn-to-the-sword.txt",
+      "summary": "Connie wants to learn sword fighting.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Beach House",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Ancient Sky Arena",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 7,
+      "code": "0207",
+      "title": "Rising Tides, Crashing Skies",
+      "index_title": "Rising Tides, Crashing Skies",
+      "url": "https://steven-universe.fandom.com/wiki/Rising_Tides%2C_Crashing_Skies/Transcript",
+      "file": "transcripts/steven-universe/rising-tides-crashing-skies.txt",
+      "summary": "Ronaldo does some investigative reporting on whether Steven and the Crystal Gems are safe for Beach City.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Lighthouse Lantern Room",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Lighthouse Lantern Room",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Fish Stew Pizza",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "code": "0208",
+      "title": "Keeping It Together",
+      "index_title": "Keeping It Together",
+      "url": "https://steven-universe.fandom.com/wiki/Keeping_It_Together/Transcript",
+      "file": "transcripts/steven-universe/keeping-it-together.txt",
+      "summary": "Steven and the Crystal Gems revisit the Kindergarten and find a dark secret.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Prime Kindergarten",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Prime Kindergarten",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Crystal Temple",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 2,
+      "episode": 9,
+      "code": "0209",
+      "title": "We Need to Talk",
+      "index_title": "We Need to Talk",
+      "url": "https://steven-universe.fandom.com/wiki/We_Need_to_Talk/Transcript",
+      "file": "transcripts/steven-universe/we-need-to-talk.txt",
+      "summary": "Greg tells Steven and Connie the story of how he learned about Gem fusion.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Crystal Temple, Evening",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Crystal Temple, Evening",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. It's A Wash",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -4802,38 +5338,6 @@
     },
     {
       "season": 2,
-      "episode": 2,
-      "code": "0202",
-      "title": "Story for Steven",
-      "index_title": "Story for Steven",
-      "url": "https://steven-universe.fandom.com/wiki/Story_for_Steven/Transcript",
-      "file": "transcripts/steven-universe/story-for-steven.txt",
-      "summary": "Greg reveals how he met Rose-Quartz.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
       "episode": 20,
       "code": "0220",
       "title": "Back to the Barn",
@@ -5353,510 +5857,6 @@
       "source": "heuristic"
     },
     {
-      "season": 2,
-      "episode": 3,
-      "code": "0203",
-      "title": "Shirt Club",
-      "index_title": "Shirt Club",
-      "url": "https://steven-universe.fandom.com/wiki/Shirt_Club/Transcript",
-      "file": "transcripts/steven-universe/shirt-club.txt",
-      "summary": "Steven makes T-shirts with Buck Dewey.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "It's not something we can punch. *punches her own palm*",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "It's not something we can punch. *punches her own palm*",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Big Donut",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Big Donut",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Abandoned Warehouse",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — It's not something we can punch. *punches her own palm*"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 4,
-      "code": "0204",
-      "title": "Love Letters",
-      "index_title": "Love Letters",
-      "url": "https://steven-universe.fandom.com/wiki/Love_Letters/Transcript",
-      "file": "transcripts/steven-universe/love-letters.txt",
-      "summary": "Steven and Connie help Jamie the mailman with love.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Beach City Boardwalk",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Beach City Boardwalk",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. In. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Steven and Connie watch in amazement as Garnet lands onto the beach, slams the gem monster on the sand and punches its gem, then throws it back into the ocean."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 5,
-      "code": "0205",
-      "title": "Reformed",
-      "index_title": "Reformed",
-      "url": "https://steven-universe.fandom.com/wiki/Reformed/Transcript",
-      "file": "transcripts/steven-universe/reformed.txt",
-      "summary": "Steven, Amethyst and Garnet chase a corrupted gem monster through the Temple.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem.",
-            "count": 3,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Amethyst runs toward a crystal pillar and punches it out of her way, shattering it. Steven and Garnet shield themselves from the debris and follow after her.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "The Slinker eats the distracted Amethyst and poofs her. Garnet leaps in and punches the Slinker, causing it to spit out Amethyst's gem, and Steven catches it. Steven sighs as he holds it against his chest.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans Int. Beach House",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Amethyst keeps kicking her junk, when the tentacle emerges from the junk pile and strangles her. Steven watches in shock as Amethyst gets pulled under and poofed, leaving behind her gem."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 6,
-      "code": "0206",
-      "title": "Sworn to the Sword",
-      "index_title": "Sworn to the Sword",
-      "url": "https://steven-universe.fandom.com/wiki/Sworn_to_the_Sword/Transcript",
-      "file": "transcripts/steven-universe/sworn-to-the-sword.txt",
-      "summary": "Connie wants to learn sword fighting.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Beach House",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Ancient Sky Arena",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 7,
-      "code": "0207",
-      "title": "Rising Tides, Crashing Skies",
-      "index_title": "Rising Tides, Crashing Skies",
-      "url": "https://steven-universe.fandom.com/wiki/Rising_Tides%2C_Crashing_Skies/Transcript",
-      "file": "transcripts/steven-universe/rising-tides-crashing-skies.txt",
-      "summary": "Ronaldo does some investigative reporting on whether Steven and the Crystal Gems are safe for Beach City.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Lighthouse Lantern Room",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Lighthouse Lantern Room",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Fish Stew Pizza",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 8,
-      "code": "0208",
-      "title": "Keeping It Together",
-      "index_title": "Keeping It Together",
-      "url": "https://steven-universe.fandom.com/wiki/Keeping_It_Together/Transcript",
-      "file": "transcripts/steven-universe/keeping-it-together.txt",
-      "summary": "Steven and the Crystal Gems revisit the Kindergarten and find a dark secret.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Prime Kindergarten",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Prime Kindergarten",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Crystal Temple",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 2,
-      "episode": 9,
-      "code": "0209",
-      "title": "We Need to Talk",
-      "index_title": "We Need to Talk",
-      "url": "https://steven-universe.fandom.com/wiki/We_Need_to_Talk/Transcript",
-      "file": "transcripts/steven-universe/we-need-to-talk.txt",
-      "summary": "Greg tells Steven and Connie the story of how he learned about Gem fusion.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Crystal Temple, Evening",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Crystal Temple, Evening",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. It's A Wash",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 3,
       "episode": 1,
       "code": "0301",
@@ -5952,6 +5952,540 @@
       "examples": [
         "Violence & injury — Alexandrite attempts to breath fire, but Malachite punches Alexandrite in her cheek."
       ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "code": "0302",
+      "title": "Gem Drill",
+      "index_title": "Gem Drill",
+      "url": "https://steven-universe.fandom.com/wiki/Gem_Drill/Transcript",
+      "file": "transcripts/steven-universe/gem-drill.txt",
+      "summary": "Steven and Peridot take on the Cluster.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. The Barn",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. The Barn",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "code": "0303",
+      "title": "Same Old World",
+      "index_title": "Same Old World",
+      "url": "https://steven-universe.fandom.com/wiki/Same_Old_World/Transcript",
+      "file": "transcripts/steven-universe/same-old-world.txt",
+      "summary": "Steven flies around the world with Lapis Lazuli.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Empire City, Night-time",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Empire City, Night-time",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. the Barn, Dawn",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 4,
+      "code": "0304",
+      "title": "Barn Mates",
+      "index_title": "Barn Mates",
+      "url": "https://steven-universe.fandom.com/wiki/Barn_Mates/Transcript",
+      "file": "transcripts/steven-universe/barn-mates.txt",
+      "summary": "Steven helps two of his friends get along at the barn.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. the Barn",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. the Barn",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. the Barn",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 5,
+      "code": "0305",
+      "title": "Hit the Diamond",
+      "index_title": "Hit the Diamond",
+      "url": "https://steven-universe.fandom.com/wiki/Hit_the_Diamond/Transcript",
+      "file": "transcripts/steven-universe/hit-the-diamond.txt",
+      "summary": "Steven and the Gems engage in an old-fashioned game of baseball.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Sapphire waves at Ruby and she blushes. \"Army\" then leaps in and punches Ruby in the back.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Sapphire waves at Ruby and she blushes. \"Army\" then leaps in and punches Ruby in the back.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. the Barn",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. the Barn",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. the Barn",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Sapphire waves at Ruby and she blushes. \"Army\" then leaps in and punches Ruby in the back."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 6,
+      "code": "0306",
+      "title": "Steven Floats",
+      "index_title": "Steven Floats",
+      "url": "https://steven-universe.fandom.com/wiki/Steven_Floats/Transcript",
+      "file": "transcripts/steven-universe/steven-floats.txt",
+      "summary": "Steven aquires a new gem power.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Crystal Temple",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Crystal Temple",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 7,
+      "code": "0307",
+      "title": "Drop Beat Dad",
+      "index_title": "Drop Beat Dad",
+      "url": "https://steven-universe.fandom.com/wiki/Drop_Beat_Dad/Transcript",
+      "file": "transcripts/steven-universe/drop-beat-dad.txt",
+      "summary": "Steven tries to help Sour Cream reconnect with his estranged father.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Abandoned Warehouse",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Abandoned Warehouse",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Beach",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 8,
+      "code": "0308",
+      "title": "Mr. Greg",
+      "index_title": "Mr. Greg",
+      "url": "https://steven-universe.fandom.com/wiki/Mr._Greg/Transcript",
+      "file": "transcripts/steven-universe/mr-greg.txt",
+      "summary": "Steven visits Empire City with Greg and Pearl.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Empire City",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Empire City",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Hotel Lobby",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 3,
+      "episode": 9,
+      "code": "0309",
+      "title": "Too Short to Ride",
+      "index_title": "Too Short to Ride",
+      "url": "https://steven-universe.fandom.com/wiki/Too_Short_to_Ride/Transcript",
+      "file": "transcripts/steven-universe/too-short-to-ride.txt",
+      "summary": "Steven visits Funland with Amethyst but runs into trouble when their friend is too short to ride the rollercoasters.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Beach City Funland",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Beach City Funland",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Beach.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -6715,59 +7249,6 @@
     },
     {
       "season": 3,
-      "episode": 2,
-      "code": "0302",
-      "title": "Gem Drill",
-      "index_title": "Gem Drill",
-      "url": "https://steven-universe.fandom.com/wiki/Gem_Drill/Transcript",
-      "file": "transcripts/steven-universe/gem-drill.txt",
-      "summary": "Steven and Peridot take on the Cluster.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. The Barn",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. The Barn",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
       "episode": 21,
       "code": "0321",
       "title": "Beta",
@@ -7059,487 +7540,6 @@
       "source": "heuristic"
     },
     {
-      "season": 3,
-      "episode": 3,
-      "code": "0303",
-      "title": "Same Old World",
-      "index_title": "Same Old World",
-      "url": "https://steven-universe.fandom.com/wiki/Same_Old_World/Transcript",
-      "file": "transcripts/steven-universe/same-old-world.txt",
-      "summary": "Steven flies around the world with Lapis Lazuli.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Empire City, Night-time",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Empire City, Night-time",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. the Barn, Dawn",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 4,
-      "code": "0304",
-      "title": "Barn Mates",
-      "index_title": "Barn Mates",
-      "url": "https://steven-universe.fandom.com/wiki/Barn_Mates/Transcript",
-      "file": "transcripts/steven-universe/barn-mates.txt",
-      "summary": "Steven helps two of his friends get along at the barn.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. the Barn",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. the Barn",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. the Barn",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 5,
-      "code": "0305",
-      "title": "Hit the Diamond",
-      "index_title": "Hit the Diamond",
-      "url": "https://steven-universe.fandom.com/wiki/Hit_the_Diamond/Transcript",
-      "file": "transcripts/steven-universe/hit-the-diamond.txt",
-      "summary": "Steven and the Gems engage in an old-fashioned game of baseball.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Sapphire waves at Ruby and she blushes. \"Army\" then leaps in and punches Ruby in the back.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Sapphire waves at Ruby and she blushes. \"Army\" then leaps in and punches Ruby in the back.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. the Barn",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. the Barn",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. the Barn",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Sapphire waves at Ruby and she blushes. \"Army\" then leaps in and punches Ruby in the back."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 6,
-      "code": "0306",
-      "title": "Steven Floats",
-      "index_title": "Steven Floats",
-      "url": "https://steven-universe.fandom.com/wiki/Steven_Floats/Transcript",
-      "file": "transcripts/steven-universe/steven-floats.txt",
-      "summary": "Steven aquires a new gem power.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Crystal Temple",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Crystal Temple",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 7,
-      "code": "0307",
-      "title": "Drop Beat Dad",
-      "index_title": "Drop Beat Dad",
-      "url": "https://steven-universe.fandom.com/wiki/Drop_Beat_Dad/Transcript",
-      "file": "transcripts/steven-universe/drop-beat-dad.txt",
-      "summary": "Steven tries to help Sour Cream reconnect with his estranged father.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Marty does a backward moonwalk and finger-gun gesture at Sour Cream. The crowd begins to cheer as Marty walks up to the microphone.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Abandoned Warehouse",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Abandoned Warehouse",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Beach",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — That's right. nothing less for my talented, soon-to-be-famous DJ. *lightly punches Sour Cream in his chest*"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 8,
-      "code": "0308",
-      "title": "Mr. Greg",
-      "index_title": "Mr. Greg",
-      "url": "https://steven-universe.fandom.com/wiki/Mr._Greg/Transcript",
-      "file": "transcripts/steven-universe/mr-greg.txt",
-      "summary": "Steven visits Empire City with Greg and Pearl.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Empire City",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Empire City",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Hotel Lobby",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 3,
-      "episode": 9,
-      "code": "0309",
-      "title": "Too Short to Ride",
-      "index_title": "Too Short to Ride",
-      "url": "https://steven-universe.fandom.com/wiki/Too_Short_to_Ride/Transcript",
-      "file": "transcripts/steven-universe/too-short-to-ride.txt",
-      "summary": "Steven visits Funland with Amethyst but runs into trouble when their friend is too short to ride the rollercoasters.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Beach City Funland",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Beach City Funland",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Beach.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 4,
       "episode": 1,
       "code": "0401",
@@ -7611,6 +7611,434 @@
       "examples": [
         "Violence & injury — The other Gems are in front of another cage, ready to beat up a Corrupted Gem inside."
       ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 2,
+      "code": "0402",
+      "title": "Know Your Fusion",
+      "index_title": "Know Your Fusion",
+      "url": "https://steven-universe.fandom.com/wiki/Know_Your_Fusion/Transcript",
+      "file": "transcripts/steven-universe/know-your-fusion.txt",
+      "summary": "Steven and the Gems examine fusions.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "*thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!",
+            "count": 1,
+            "intensity": 1,
+            "mode": "implied",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "*thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!",
+                "mode": "implied",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Sardonyx's Room",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Sardonyx's Room",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — *thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 3,
+      "code": "0403",
+      "title": "Buddy's Book",
+      "index_title": "Buddy's Book",
+      "url": "https://steven-universe.fandom.com/wiki/Buddy%27s_Book/Transcript",
+      "file": "transcripts/steven-universe/buddy-s-book.txt",
+      "summary": "Steven visits the library with Connie and uncovers a long lost book.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Buddwick Public Library",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Buddwick Public Library",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. The Desert",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 4,
+      "code": "0404",
+      "title": "Mindful Education",
+      "index_title": "Mindful Education",
+      "url": "https://steven-universe.fandom.com/wiki/Mindful_Education/Transcript",
+      "file": "transcripts/steven-universe/mindful-education.txt",
+      "summary": "Steven and Connie learn to focus better.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear",
+            "count": 1,
+            "intensity": 3,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear",
+                "mode": "on-screen",
+                "intensity": 3,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Ancient Sky Arena",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Ancient Sky Arena",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Beach, Dusk",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 5,
+      "code": "0405",
+      "title": "Future Boy Zoltron",
+      "index_title": "Future Boy Zoltron",
+      "url": "https://steven-universe.fandom.com/wiki/Future_Boy_Zoltron/Transcript",
+      "file": "transcripts/steven-universe/future-boy-zoltron.txt",
+      "summary": "Steven tells people's fortunes at Funland.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 6,
+      "code": "0406",
+      "title": "Last One Out of Beach City",
+      "index_title": "Last One Out of Beach City",
+      "url": "https://steven-universe.fandom.com/wiki/Last_One_Out_of_Beach_City/Transcript",
+      "file": "transcripts/steven-universe/last-one-out-of-beach-city.txt",
+      "summary": "Pearl, Steven and Amethyst go to a rock show.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. the Big Donut, Dusk",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. the Big Donut, Dusk",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Greg's Dondai, Night-time",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 7,
+      "code": "0407",
+      "title": "Onion Gang",
+      "index_title": "Onion Gang",
+      "url": "https://steven-universe.fandom.com/wiki/Onion_Gang/Transcript",
+      "file": "transcripts/steven-universe/onion-gang.txt",
+      "summary": "Steven learns about Onion's secret group of friends.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Forest",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Forest",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "late"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 4,
+      "episode": 9,
+      "code": "0409",
+      "title": "Three Gems and a Baby",
+      "index_title": "Three Gems and a Baby",
+      "url": "https://steven-universe.fandom.com/wiki/Three_Gems_and_a_Baby/Transcript",
+      "file": "transcripts/steven-universe/three-gems-and-a-baby.txt",
+      "summary": "Greg tells Steven the story of his first winter with Steven.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Flashback; Trans. Int. Vidalia's house",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Flashback; Trans. Int. Vidalia's house",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -8339,82 +8767,6 @@
     },
     {
       "season": 4,
-      "episode": 2,
-      "code": "0402",
-      "title": "Know Your Fusion",
-      "index_title": "Know Your Fusion",
-      "url": "https://steven-universe.fandom.com/wiki/Know_Your_Fusion/Transcript",
-      "file": "transcripts/steven-universe/know-your-fusion.txt",
-      "summary": "Steven and the Gems examine fusions.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, implied).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "*thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!",
-            "count": 1,
-            "intensity": 1,
-            "mode": "implied",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "*thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!",
-                "mode": "implied",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Sardonyx's Room",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Sardonyx's Room",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — *thinks for a bit* Now it's no secret that us fine fusions pack an extra punch, but Sugilite is a standout for being a heavy-hitting powerhouse!"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
       "episode": 21,
       "code": "0421",
       "title": "Doug Out",
@@ -8747,358 +9099,6 @@
       "source": "heuristic"
     },
     {
-      "season": 4,
-      "episode": 3,
-      "code": "0403",
-      "title": "Buddy's Book",
-      "index_title": "Buddy's Book",
-      "url": "https://steven-universe.fandom.com/wiki/Buddy%27s_Book/Transcript",
-      "file": "transcripts/steven-universe/buddy-s-book.txt",
-      "summary": "Steven visits the library with Connie and uncovers a long lost book.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Buddwick Public Library",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Buddwick Public Library",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. The Desert",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 4,
-      "code": "0404",
-      "title": "Mindful Education",
-      "index_title": "Mindful Education",
-      "url": "https://steven-universe.fandom.com/wiki/Mindful_Education/Transcript",
-      "file": "transcripts/steven-universe/mindful-education.txt",
-      "summary": "Steven and Connie learn to focus better.",
-      "violence": 2,
-      "sex": 1,
-      "language": 1,
-      "overall": 2,
-      "age": 8,
-      "verdict": "Mild — okay from about 8+",
-      "why": "Scores low: the strongest thing we found is violence & injury (explicit, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear",
-            "count": 1,
-            "intensity": 3,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear",
-                "mode": "on-screen",
-                "intensity": 3,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Ancient Sky Arena",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Ancient Sky Arena",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Beach, Dusk",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Suddenly, Stevonnie begins to hallucinate again, seeing Bismuth getting stabbed by their sword and then poofing into a swarm of butterflies. Stevonnie starts backing off in fear"
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 5,
-      "code": "0405",
-      "title": "Future Boy Zoltron",
-      "index_title": "Future Boy Zoltron",
-      "url": "https://steven-universe.fandom.com/wiki/Future_Boy_Zoltron/Transcript",
-      "file": "transcripts/steven-universe/future-boy-zoltron.txt",
-      "summary": "Steven tells people's fortunes at Funland.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [],
-        "optional_detail": [],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 6,
-      "code": "0406",
-      "title": "Last One Out of Beach City",
-      "index_title": "Last One Out of Beach City",
-      "url": "https://steven-universe.fandom.com/wiki/Last_One_Out_of_Beach_City/Transcript",
-      "file": "transcripts/steven-universe/last-one-out-of-beach-city.txt",
-      "summary": "Pearl, Steven and Amethyst go to a rock show.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. the Big Donut, Dusk",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. the Big Donut, Dusk",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Greg's Dondai, Night-time",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 7,
-      "code": "0407",
-      "title": "Onion Gang",
-      "index_title": "Onion Gang",
-      "url": "https://steven-universe.fandom.com/wiki/Onion_Gang/Transcript",
-      "file": "transcripts/steven-universe/onion-gang.txt",
-      "summary": "Steven learns about Onion's secret group of friends.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Forest",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Forest",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "late"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 4,
-      "episode": 9,
-      "code": "0409",
-      "title": "Three Gems and a Baby",
-      "index_title": "Three Gems and a Baby",
-      "url": "https://steven-universe.fandom.com/wiki/Three_Gems_and_a_Baby/Transcript",
-      "file": "transcripts/steven-universe/three-gems-and-a-baby.txt",
-      "summary": "Greg tells Steven the story of his first winter with Steven.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Flashback; Trans. Int. Vidalia's house",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Flashback; Trans. Int. Vidalia's house",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
       "season": 5,
       "episode": 1,
       "code": "0501",
@@ -9126,6 +9126,532 @@
         "notes_extra": []
       },
       "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 2,
+      "code": "0502",
+      "title": "The Trial",
+      "index_title": "The Trial",
+      "url": "https://steven-universe.fandom.com/wiki/The_Trial/Transcript",
+      "file": "transcripts/steven-universe/the-trial.txt",
+      "summary": "Steven goes to court against Blue and Yellow Diamond to determine his (or rather Rose Quartz's) fate.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Trial Room",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Trial Room",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Waiting Room",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 3,
+      "code": "0503",
+      "title": "Off Colors",
+      "index_title": "Off Colors",
+      "url": "https://steven-universe.fandom.com/wiki/Off_Colors_%28episode%29/Transcript",
+      "file": "transcripts/steven-universe/off-colors-episode.txt",
+      "summary": "Steven gains new allies.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Homeworld Kindergarten",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Homeworld Kindergarten",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 4,
+      "code": "0504",
+      "title": "Lars' Head",
+      "index_title": "Lars' Head",
+      "url": "https://steven-universe.fandom.com/wiki/Lars%27_Head/Transcript",
+      "file": "transcripts/steven-universe/lars-head.txt",
+      "summary": "Steven finally gets to know the real Lars.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Pink Dimension",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Pink Dimension",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 5,
+      "code": "0505",
+      "title": "Dewey Wins",
+      "index_title": "Dewey Wins",
+      "url": "https://steven-universe.fandom.com/wiki/Dewey_Wins/Transcript",
+      "file": "transcripts/steven-universe/dewey-wins.txt",
+      "summary": "Steven helps Mayor Dewey run a difficult campaign.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. The Big Donut, The Next Day",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. The Big Donut, The Next Day",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Mayor's Office",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 6,
+      "code": "0506",
+      "title": "Gemcation",
+      "index_title": "Gemcation",
+      "url": "https://steven-universe.fandom.com/wiki/Gemcation/Transcript",
+      "file": "transcripts/steven-universe/gemcation.txt",
+      "summary": "Greg and the Gems take Steven on vacation to help him relax.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Beach House",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Beach House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Cool Ranch",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 7,
+      "code": "0507",
+      "title": "Raising the Barn",
+      "index_title": "Raising the Barn",
+      "url": "https://steven-universe.fandom.com/wiki/Raising_the_Barn/Transcript",
+      "file": "transcripts/steven-universe/raising-the-barn.txt",
+      "summary": "Pumpkin goes missing!",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Nothing standout adult — fine for many kid couch nights"
+        ],
+        "watch": [],
+        "watch_detail": [],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Crystal Temple",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Crystal Temple",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. The Barn",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 8,
+      "code": "0508",
+      "title": "Back to the Kindergarten",
+      "index_title": "Back to the Kindergarten",
+      "url": "https://steven-universe.fandom.com/wiki/Back_to_the_Kindergarten/Transcript",
+      "file": "transcripts/steven-universe/back-to-the-kindergarten.txt",
+      "summary": "Steven, Amethyst and Peridot try to spruce up the Kindergarten.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Steven and Amethyst begins watering the sunflowers by blasting them with water guns.",
+            "count": 1,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Steven and Amethyst begins watering the sunflowers by blasting them with water guns.",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Int. Steven's Bedroom",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Steven's Bedroom",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Int. Train Carriage",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Steven and Amethyst begins watering the sunflowers by blasting them with water guns."
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    },
+    {
+      "season": 5,
+      "episode": 9,
+      "code": "0509",
+      "title": "Sadie Killer",
+      "index_title": "Sadie Killer",
+      "url": "https://steven-universe.fandom.com/wiki/Sadie_Killer/Transcript",
+      "file": "transcripts/steven-universe/sadie-killer.txt",
+      "summary": "Steven and the Cool Kids start a band, but they have trouble finding their sound.",
+      "violence": 1,
+      "sex": 1,
+      "language": 1,
+      "overall": 1,
+      "age": 7,
+      "verdict": "Usually fine — about 7+",
+      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
+      "themes": {
+        "fine": [
+          "Light comedy tone",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.",
+            "count": 1,
+            "intensity": 2,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.",
+                "mode": "on-screen",
+                "intensity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [
+          "LGBTQ themes"
+        ],
+        "optional_detail": [
+          {
+            "theme": "LGBTQ themes",
+            "group": "optin",
+            "how": "Trans. Ext. Sour Cream's House",
+            "count": 2,
+            "intensity": 1,
+            "mode": "on-screen",
+            "instances": [
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Sour Cream's House",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              },
+              {
+                "kind": "note",
+                "speaker": null,
+                "text": "Trans. Ext. Miller Residence, The Next Afternoon",
+                "mode": "on-screen",
+                "intensity": 1,
+                "at": "early"
+              }
+            ]
+          }
+        ],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror."
+      ],
       "notes": null,
       "flags": [],
       "source": "heuristic"
@@ -9852,67 +10378,6 @@
     },
     {
       "season": 5,
-      "episode": 2,
-      "code": "0502",
-      "title": "The Trial",
-      "index_title": "The Trial",
-      "url": "https://steven-universe.fandom.com/wiki/The_Trial/Transcript",
-      "file": "transcripts/steven-universe/the-trial.txt",
-      "summary": "Steven goes to court against Blue and Yellow Diamond to determine his (or rather Rose Quartz's) fate.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Trial Room",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Trial Room",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Waiting Room",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
       "episode": 20,
       "code": "0520",
       "title": "What's Your Problem",
@@ -10542,471 +11007,6 @@
         "notes_extra": []
       },
       "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 3,
-      "code": "0503",
-      "title": "Off Colors",
-      "index_title": "Off Colors",
-      "url": "https://steven-universe.fandom.com/wiki/Off_Colors_%28episode%29/Transcript",
-      "file": "transcripts/steven-universe/off-colors-episode.txt",
-      "summary": "Steven gains new allies.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Homeworld Kindergarten",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Homeworld Kindergarten",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 4,
-      "code": "0504",
-      "title": "Lars' Head",
-      "index_title": "Lars' Head",
-      "url": "https://steven-universe.fandom.com/wiki/Lars%27_Head/Transcript",
-      "file": "transcripts/steven-universe/lars-head.txt",
-      "summary": "Steven finally gets to know the real Lars.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Pink Dimension",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Pink Dimension",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 5,
-      "code": "0505",
-      "title": "Dewey Wins",
-      "index_title": "Dewey Wins",
-      "url": "https://steven-universe.fandom.com/wiki/Dewey_Wins/Transcript",
-      "file": "transcripts/steven-universe/dewey-wins.txt",
-      "summary": "Steven helps Mayor Dewey run a difficult campaign.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. The Big Donut, The Next Day",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. The Big Donut, The Next Day",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Mayor's Office",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 6,
-      "code": "0506",
-      "title": "Gemcation",
-      "index_title": "Gemcation",
-      "url": "https://steven-universe.fandom.com/wiki/Gemcation/Transcript",
-      "file": "transcripts/steven-universe/gemcation.txt",
-      "summary": "Greg and the Gems take Steven on vacation to help him relax.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Beach House",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Beach House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Cool Ranch",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 7,
-      "code": "0507",
-      "title": "Raising the Barn",
-      "index_title": "Raising the Barn",
-      "url": "https://steven-universe.fandom.com/wiki/Raising_the_Barn/Transcript",
-      "file": "transcripts/steven-universe/raising-the-barn.txt",
-      "summary": "Pumpkin goes missing!",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Nothing adult stood out in the transcript, so this scores at the bottom of the scale.",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Nothing standout adult — fine for many kid couch nights"
-        ],
-        "watch": [],
-        "watch_detail": [],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Crystal Temple",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Crystal Temple",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. The Barn",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 8,
-      "code": "0508",
-      "title": "Back to the Kindergarten",
-      "index_title": "Back to the Kindergarten",
-      "url": "https://steven-universe.fandom.com/wiki/Back_to_the_Kindergarten/Transcript",
-      "file": "transcripts/steven-universe/back-to-the-kindergarten.txt",
-      "summary": "Steven, Amethyst and Peridot try to spruce up the Kindergarten.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (joke or passing mention, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Steven and Amethyst begins watering the sunflowers by blasting them with water guns.",
-            "count": 1,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Steven and Amethyst begins watering the sunflowers by blasting them with water guns.",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Int. Steven's Bedroom",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Steven's Bedroom",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Int. Train Carriage",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Steven and Amethyst begins watering the sunflowers by blasting them with water guns."
-      ],
-      "notes": null,
-      "flags": [],
-      "source": "heuristic"
-    },
-    {
-      "season": 5,
-      "episode": 9,
-      "code": "0509",
-      "title": "Sadie Killer",
-      "index_title": "Sadie Killer",
-      "url": "https://steven-universe.fandom.com/wiki/Sadie_Killer/Transcript",
-      "file": "transcripts/steven-universe/sadie-killer.txt",
-      "summary": "Steven and the Cool Kids start a band, but they have trouble finding their sound.",
-      "violence": 1,
-      "sex": 1,
-      "language": 1,
-      "overall": 1,
-      "age": 7,
-      "verdict": "Usually fine — about 7+",
-      "why": "Scores low: the strongest thing we found is violence & injury (moderate, shown on screen).",
-      "themes": {
-        "fine": [
-          "Light comedy tone",
-          "Mostly kid-ok if you skip past the mild bits below"
-        ],
-        "watch": [
-          "Violence & injury"
-        ],
-        "watch_detail": [
-          {
-            "theme": "Violence & injury",
-            "group": "violence",
-            "how": "Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.",
-            "count": 1,
-            "intensity": 2,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.",
-                "mode": "on-screen",
-                "intensity": 2,
-                "at": "mid"
-              }
-            ]
-          }
-        ],
-        "optional": [
-          "LGBTQ themes"
-        ],
-        "optional_detail": [
-          {
-            "theme": "LGBTQ themes",
-            "group": "optin",
-            "how": "Trans. Ext. Sour Cream's House",
-            "count": 2,
-            "intensity": 1,
-            "mode": "on-screen",
-            "instances": [
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Sour Cream's House",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              },
-              {
-                "kind": "note",
-                "speaker": null,
-                "text": "Trans. Ext. Miller Residence, The Next Afternoon",
-                "mode": "on-screen",
-                "intensity": 1,
-                "at": "early"
-              }
-            ]
-          }
-        ],
-        "notes_extra": []
-      },
-      "examples": [
-        "Violence & injury — Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror."
-      ],
       "notes": null,
       "flags": [],
       "source": "heuristic"

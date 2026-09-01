@@ -57,6 +57,23 @@ def match_maze_ep(raw: dict, by_title: dict[str, dict]) -> dict | None:
     return None
 
 
+def episode_sort_key(ep: dict) -> tuple:
+    """Sort key for proper episode ordering (numeric with optional letter suffix)."""
+    season = int(ep["season"])
+    episode = ep.get("episode")
+    
+    if isinstance(episode, int):
+        return (season, episode, "")
+    
+    ep_str = str(episode)
+    match = re.match(r"^(\d+)([a-z]*)$", ep_str, re.I)
+    if match:
+        num, letter = match.groups()
+        return (season, int(num), letter.lower())
+    
+    return (season, 999999, ep_str)
+
+
 def sync_show(show_id: str, maze_id: int, *, dry_run: bool) -> dict:
     path = episodes_path(show_id)
     if not path.exists():
@@ -98,7 +115,7 @@ def sync_show(show_id: str, maze_id: int, *, dry_run: bool) -> dict:
             continue
         dropped += 1
 
-    kept.sort(key=lambda e: (int(e["season"]), str(e.get("episode", ""))))
+    kept.sort(key=episode_sort_key)
 
     if not dry_run:
         path.write_text(json.dumps(kept, indent=2, ensure_ascii=False) + "\n")
