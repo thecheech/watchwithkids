@@ -189,7 +189,7 @@
       .map(
         (s, i) => `
         <a class="feature-slide${i === 0 ? " is-active" : ""}" href="${s.id}.html" data-i="${i}" aria-label="${escapeHtml(s.name)}" aria-hidden="${i === 0 ? "false" : "true"}"${i === 0 ? "" : ' tabindex="-1"'}>
-          <img src="${s.coverLocal}" alt="" width="${s.coverW || 1920}" height="${s.coverH || 1080}" ${i === 0 ? 'loading="eager"' : 'loading="lazy"'} />
+          <img src="${s.coverLocal}" alt="" width="${s.coverW || 1920}" height="${s.coverH || 1080}" ${i === 0 ? 'fetchpriority="high" loading="eager"' : 'loading="lazy"'} />
         </a>`
       )
       .join("");
@@ -241,7 +241,7 @@
       !soon && mix && mix.total ? safeScoreHtml(mix) : "";
     return `
       <${tagName} class="${cls}" data-i="${i}" ${soon ? "" : `href="${href}"`}>
-        <img src="${s.coverLocal}" alt="${escapeHtml(s.name)}" loading="lazy" />
+        <img src="${s.coverLocal}" alt="${escapeHtml(s.name)}" width="${s.coverW || 1920}" height="${s.coverH || 1080}" loading="lazy" />
         <div class="shade"></div>
         ${tag}
         <div class="meta">

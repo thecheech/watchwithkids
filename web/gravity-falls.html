@@ -24,10 +24,13 @@
   <link rel="icon" href="/favicon.ico" sizes="any" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <meta name="theme-color" content="#14101c" />
+  <link rel="preload" as="image" href="covers/gravity-falls.jpg" fetchpriority="high" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="preconnect" href="https://static.tvmaze.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700&family=Nunito:wght@500;700;800&display=swap" />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" /></noscript>
   <link rel="stylesheet" href="friends.css" />
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "TVSeries", "@id": "https://watchwiththekids.com/gravity-falls.html#series", "name": "Gravity Falls", "url": "https://watchwiththekids.com/gravity-falls.html", "numberOfEpisodes": 40, "image": "https://watchwiththekids.com/covers/gravity-falls.jpg", "description": "Parent guide to every Gravity Falls episode: violence, sex and language scored 1–5 with the exact moments quoted.", "potentialAction": {"@type": "WatchAction", "target": "https://www.netflix.com/search?q=Gravity+Falls"}}, {"@type": "ItemList", "name": "Gravity Falls seasons rated for kids", "numberOfItems": 2, "itemListElement": [{"@type": "ListItem", "position": 1, "url": "https://watchwiththekids.com/guides/gravity-falls-season-1.html", "name": "Is Gravity Falls Season 1 OK for kids?"}, {"@type": "ListItem", "position": 2, "url": "https://watchwiththekids.com/guides/gravity-falls-season-2.html", "name": "Is Gravity Falls Season 2 OK for kids?"}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Shows", "item": "https://watchwiththekids.com/"}, {"@type": "ListItem", "position": 2, "name": "Gravity Falls", "item": "https://watchwiththekids.com/gravity-falls.html"}]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is Gravity Falls OK for kids?", "acceptedAnswer": {"@type": "Answer", "text": "We rated 40 episodes of Gravity Falls: 31 all clear (overall 1–2/5), 9 gray area (3/5) and 0 a hard pass (4–5/5). Every episode page lists the exact moments behind the score."}}, {"@type": "Question", "name": "How is each Gravity Falls episode rated?", "acceptedAnswer": {"@type": "Answer", "text": "Each episode is scored 1–5 for violence, sex and language. The overall score is the highest of the three. Themes such as Sex &amp; hookups, Swearing, Alcohol / Drugs or Racism are listed with a count and the quotes or scene descriptions behind them."}}, {"@type": "Question", "name": "Which Gravity Falls episodes are safest to watch with kids?", "acceptedAnswer": {"@type": "Answer", "text": "See the What to watch in Gravity Falls list — safest episodes first, then the hard-pass list so you can skip them."}}, {"@type": "Question", "name": "Where can I watch Gravity Falls?", "acceptedAnswer": {"@type": "Answer", "text": "Try streaming Gravity Falls on Netflix, HBO or Disney+ — catalogs differ by country. To buy a season or box set, use Amazon, Apple TV or Google Play."}}]}]}</script>
 </head>
@@ -55,7 +58,7 @@
       </div>
       <aside class="hero-card">
         <div class="hero-cover">
-          <img src="covers/gravity-falls.jpg" alt="Gravity Falls" width="1920" height="1080" />
+          <img src="covers/gravity-falls.jpg" alt="Gravity Falls" width="1920" height="1080" fetchpriority="high" />
         </div>
         <p class="disclaimer" id="disclaimer"></p>
       </aside>

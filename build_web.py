@@ -174,8 +174,12 @@ FONTS = (
     '<link rel="preconnect" href="https://fonts.googleapis.com" />\n'
     '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />\n'
     '  <link rel="preconnect" href="https://static.tvmaze.com" />\n'
+    '  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700'
+    '&family=Nunito:wght@500;700;800&display=swap" />\n'
     '  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700'
-    '&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />'
+    '&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" media="print" onload="this.media=\'all\'" />\n'
+    '  <noscript><link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@450;600;700'
+    '&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" /></noscript>'
 )
 
 STILLS_PATH = ROOT / "stills.json"
@@ -329,7 +333,8 @@ def season_label(season, show_id: str | None = None) -> str:
     return f"Season {raw.lstrip('0') or raw}"
 
 
-def extra_head(image_url: str) -> str:
+def extra_head(image_url: str, *, preload_cover: str | None = None) -> str:
+    preload = f'  <link rel="preload" as="image" href="{esc(preload_cover)}" fetchpriority="high" />\n' if preload_cover else ""
     return (
         f'  <meta property="og:image:width" content="1920" />\n'
         f'  <meta property="og:image:height" content="1080" />\n'
@@ -339,6 +344,7 @@ def extra_head(image_url: str) -> str:
         f'  <link rel="icon" href="/favicon.ico" sizes="any" />\n'
         f'  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />\n'
         f'  <meta name="theme-color" content="#14101c" />\n'
+        f'{preload}'
     )
 
 
@@ -1147,7 +1153,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{esc(page_title)}" />
   <meta name="twitter:description" content="{esc(desc)}" />
-{extra_head(f"{SITE}/covers/{show_id}.jpg")}  {FONTS}
+{extra_head(f"{SITE}/covers/{show_id}.jpg", preload_cover=f"covers/{show_id}.jpg")}  {FONTS}
   <link rel="stylesheet" href="friends.css" />
   <script type="application/ld+json">{show_jsonld(show_id, payload, mix)}</script>
 </head>
@@ -1175,7 +1181,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
       </div>
       <aside class="hero-card">
         <div class="hero-cover">
-          <img src="covers/{show_id}.jpg" alt="{esc(name)}" width="1920" height="1080" />
+          <img src="covers/{show_id}.jpg" alt="{esc(name)}" width="1920" height="1080" fetchpriority="high" />
         </div>
         <p class="disclaimer" id="disclaimer"></p>
       </aside>
