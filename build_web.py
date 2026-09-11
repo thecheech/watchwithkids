@@ -258,6 +258,16 @@ FONTS = (
     '&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" /></noscript>'
 )
 
+# Google Analytics 4 tracking (G-JGH8B9KVW6)
+GTAG = """<!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JGH8B9KVW6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JGH8B9KVW6');
+  </script>"""
+
 STILLS_PATH = ROOT / "stills.json"
 _STILLS: dict | None = None
 
@@ -1148,6 +1158,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
 {extra_head(hero_og)}  {FONTS}
   <link rel="stylesheet" href="../../friends.css" />
   <script type="application/ld+json">{episode_jsonld(show_id, show_name, ep, url)}</script>
+{GTAG}
 </head>
 <body class="ep-page">
   <div class="confetti" aria-hidden="true"></div>
@@ -1339,6 +1350,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
 {extra_head(f"{SITE}/covers/{show_id}.jpg", preload_cover=f"covers/{show_id}.jpg")}  {FONTS}
   <link rel="stylesheet" href="friends.css" />
   <script type="application/ld+json">{show_jsonld(show_id, payload, mix)}</script>
+{GTAG}
 </head>
 <body>
   <div class="confetti" aria-hidden="true"></div>
@@ -1817,6 +1829,7 @@ def _static_page(
 {extra_head(image)}  {FONTS}
   <link rel="stylesheet" href="{css_href}" />
   <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
+{GTAG}
 </head>
 <body>
   <div class="confetti" aria-hidden="true"></div>
