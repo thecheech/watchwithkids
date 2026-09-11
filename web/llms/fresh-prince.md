@@ -1,18 +1,18 @@
 # The Fresh Prince of Bel-Air — parent guide (148 episodes)
 
-Source: https://watchwiththekids.com/fresh-prince.html
+Source: https://watchwiththekids.com/fresh-prince
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 115 mild (1–2), 28 caution (3), 5 too much (4–5).
 
 ## S1 E1 — The Fresh Prince Project
-URL: https://watchwiththekids.com/ep/fresh-prince/0101.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0101
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “I encountered bigotry you could not imagine.”
 
 ## S1 E2 — Bang the Drum, Ashley
-URL: https://watchwiththekids.com/ep/fresh-prince/0102.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0102
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -21,7 +21,7 @@ Watch for:
   - [Caution] “Another aspirin, sir? Perhaps a gun.”
 
 ## S1 E3 — Clubba Hubba
-URL: https://watchwiththekids.com/ep/fresh-prince/0103.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0103
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -34,7 +34,7 @@ Watch for:
   - [Caution] “That fat girl? Mimi is not fat.”
 
 ## S1 E4 — Not with My Pig, You Don't
-URL: https://watchwiththekids.com/ep/fresh-prince/0104.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0104
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -42,7 +42,7 @@ Watch for:
   - [Mild] “Breast or wing? - I think I'll have a wing, thank you.”
 
 ## S1 E5 — Homeboy, Sweet Homeboy
-URL: https://watchwiththekids.com/ep/fresh-prince/0105.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0105
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -50,55 +50,55 @@ Watch for:
   - [Mild] “If he hadn't been there to throw those punches and help me jump fences then maybe I wouldn't be here.”
 
 ## S1 E6 — Mistaken Identity
-URL: https://watchwiththekids.com/ep/fresh-prince/0106.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0106
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “Is that the police? - Punch it, man.”
 
 ## S1 E7 — Def Poet's Society
-URL: https://watchwiththekids.com/ep/fresh-prince/0107.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0107
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “"Panzer-man, panzer-man, O You "Every woman adores a Fascist "The boot in the face, the brute "Brute heart of a brute like you" Sylvia Plath killed herself shortly after writing this poem.”
 
 ## S1 E8 — Someday Your Prince Will Be in Effect (1)
-URL: https://watchwiththekids.com/ep/fresh-prince/0108.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0108
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E9 — Someday Your Prince Will Be in Effect (2)
-URL: https://watchwiththekids.com/ep/fresh-prince/0109.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0109
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E10 — Kiss My Butler
-URL: https://watchwiththekids.com/ep/fresh-prince/0110.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0110
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E11 — Courting Disaster
-URL: https://watchwiththekids.com/ep/fresh-prince/0111.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0111
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Boy, you're lucky that was just a starter's pistol.”
 
 ## S1 E12 — Talking Turkey
-URL: https://watchwiththekids.com/ep/fresh-prince/0112.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0112
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E13 — Knowledge is Power
-URL: https://watchwiththekids.com/ep/fresh-prince/0113.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0113
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “We can punch holes in her credibility.”
 
 ## S1 E14 — Day Damn One
-URL: https://watchwiththekids.com/ep/fresh-prince/0114.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0114
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -107,7 +107,7 @@ Watch for:
   - [Mild] “This calls for champagne.”
 
 ## S1 E15 — Deck the Halls
-URL: https://watchwiththekids.com/ep/fresh-prince/0115.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0115
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -116,17 +116,17 @@ Watch for:
   - [Mild] “And that Christmas beer commercial with the horses with the furry feet are pulling the sleigh through the snow.”
 
 ## S1 E16 — The Lucky Charm
-URL: https://watchwiththekids.com/ep/fresh-prince/0116.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0116
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E17 — The Ethnic Tip
-URL: https://watchwiththekids.com/ep/fresh-prince/0117.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0117
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E18 — The Young and the Restless
-URL: https://watchwiththekids.com/ep/fresh-prince/0118.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0118
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -134,14 +134,14 @@ Watch for:
   - [Mild] “Sneaking out? You? Honey, you are looking at a woman who has snuck out to more barn dances hayrides, and midnight skinny-dips than a chicken has pecks.”
 
 ## S1 E19 — It Had to Be You
-URL: https://watchwiththekids.com/ep/fresh-prince/0119.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0119
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “" Philip, you better sleep with one eye open.”
 
 ## S1 E20 — Nice Lady
-URL: https://watchwiththekids.com/ep/fresh-prince/0120.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0120
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -151,14 +151,14 @@ Watch for:
   - [Caution] “G, the Lady is a tramp.”
 
 ## S1 E21 — Love at First Fight
-URL: https://watchwiththekids.com/ep/fresh-prince/0121.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0121
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “What about my mama? Your mama's so fat, they showed her a picture of her feet and she couldn't identify them.”
 
 ## S1 E22 — Banks Shot
-URL: https://watchwiththekids.com/ep/fresh-prince/0122.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0122
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -170,17 +170,17 @@ Watch for:
   - [Caution] “Fred, get up! I can't get no sleep around here today to save my life.”
 
 ## S1 E23 — 72 Hours
-URL: https://watchwiththekids.com/ep/fresh-prince/0123.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0123
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E24 — Just Infatuation
-URL: https://watchwiththekids.com/ep/fresh-prince/0124.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0124
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S1 E25 — Working It Out
-URL: https://watchwiththekids.com/ep/fresh-prince/0125.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0125
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -188,14 +188,14 @@ Watch for:
   - [Mild] “Champagne would obviously be the perfect choice, Einstein.”
 
 ## S2 E1 — Did the Earth Move for You?
-URL: https://watchwiththekids.com/ep/fresh-prince/0201.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0201
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Pardon me while I go get a knife.”
 
 ## S2 E2 — The Mother of All Battles
-URL: https://watchwiththekids.com/ep/fresh-prince/0202.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0202
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -209,7 +209,7 @@ Watch for:
   - [Mild] “Now, young ladies, I have some wine to serve.”
 
 ## S2 E3 — Will Gets a Job
-URL: https://watchwiththekids.com/ep/fresh-prince/0203.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0203
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -218,7 +218,7 @@ Watch for:
   - [Mild] “Complimentary champagne for the lovely young lady.”
 
 ## S2 E4 — PSAT Pstory
-URL: https://watchwiththekids.com/ep/fresh-prince/0204.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0204
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -227,7 +227,7 @@ Watch for:
   - [Caution] “See, what it was is we're gonna be sitting down for a lot of hours so I just thought I'd do something to get my blood flowing.”
 
 ## S2 E5 — Granny Gets Busy
-URL: https://watchwiththekids.com/ep/fresh-prince/0205.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0205
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -237,7 +237,7 @@ Watch for:
   - [Mild] “Oh, hell, just let's never mention it again.”
 
 ## S2 E6 — Guess Who's Coming to Marry?
-URL: https://watchwiththekids.com/ep/fresh-prince/0206.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0206
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -256,7 +256,7 @@ Watch for:
   - [Too much] “Have you thought about that? You thought about your children? Or the jobs or friends you may lose because some bigot fails to see the beauty in your marriage?”
 
 ## S2 E7 — The Big Four-Oh
-URL: https://watchwiththekids.com/ep/fresh-prince/0207.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0207
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -265,7 +265,7 @@ Watch for:
   - [Mild] “They used to, like: "We beat them, we dissed them, we kicked they butt good.”
 
 ## S2 E8 — She Ain't Heavy
-URL: https://watchwiththekids.com/ep/fresh-prince/0208.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0208
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -274,14 +274,14 @@ Watch for:
   - [Mild] “I'm gonna go get us some punch.”
 
 ## S2 E9 — Cased Up
-URL: https://watchwiththekids.com/ep/fresh-prince/0209.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0209
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Dude's got a gun, next thing you know I got six warning shots in my back.”
 
 ## S2 E10 — Hi-Ho Silver
-URL: https://watchwiththekids.com/ep/fresh-prince/0210.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0210
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -289,7 +289,7 @@ Watch for:
   - [Mild] “And he deserved to be slapped.”
 
 ## S2 E11 — The Butler Did It
-URL: https://watchwiththekids.com/ep/fresh-prince/0211.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0211
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -297,7 +297,7 @@ Watch for:
   - [Caution] “Hey, Carlton, man, you got a lot of explaining to do and I hope it begins with the words, "They got a gun.”
 
 ## S2 E12 — Something for Nothing
-URL: https://watchwiththekids.com/ep/fresh-prince/0212.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0212
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -310,7 +310,7 @@ Watch for:
   - [Mild] “Miss Ashley! I'm sorry, Geoffrey, but I'm sick and tired of men acting like pouty babies just because you beat them at something.”
 
 ## S2 E13 — Christmas Show
-URL: https://watchwiththekids.com/ep/fresh-prince/0213.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0213
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -321,7 +321,7 @@ Watch for:
   - [Mild] “If Ashley hadn't slapped me, man, I might have screamed.”
 
 ## S2 E14 — Hilary Gets a Life
-URL: https://watchwiththekids.com/ep/fresh-prince/0214.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0214
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -334,7 +334,7 @@ Watch for:
   - [Too much] “Come on, this definitely ain't gonna do nothing for the misconception that all brothers look alike.”
 
 ## S2 E15 — My Brother's Keeper
-URL: https://watchwiththekids.com/ep/fresh-prince/0215.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0215
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -342,14 +342,14 @@ Watch for:
   - [Caution] “And Smith draws first blood for Bel-Air Prep.”
 
 ## S2 E16 — Geoffrey Cleans Up
-URL: https://watchwiththekids.com/ep/fresh-prince/0216.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0216
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Would anyone care for a cocktail weenie? I guess I forgot to go to the grocery store.”
 
 ## S2 E17 — Community Action
-URL: https://watchwiththekids.com/ep/fresh-prince/0217.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0217
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -359,7 +359,7 @@ Watch for:
   - [Caution] “I really did think Eldridge Cleaver was a big chopping knife.”
 
 ## S2 E18 — Ill Will
-URL: https://watchwiththekids.com/ep/fresh-prince/0218.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0218
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -375,14 +375,14 @@ Watch for:
   - [Mild] “Yo, can we finish our song, please? One million bottles of beer on the wall One million bottles of beer Zowie.”
 
 ## S2 E19 — Eyes on the Prize
-URL: https://watchwiththekids.com/ep/fresh-prince/0219.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0219
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “They all look alike to me.”
 
 ## S2 E20 — Those Were the Days
-URL: https://watchwiththekids.com/ep/fresh-prince/0220.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0220
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -391,7 +391,7 @@ Watch for:
   - [Mild] “By the time you were 17, you burned your first bra.”
 
 ## S2 E21 — Vying for Attention
-URL: https://watchwiththekids.com/ep/fresh-prince/0221.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0221
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -401,7 +401,7 @@ Watch for:
   - [Mild] “I was looking for some beer nuts.”
 
 ## S2 E22 — The Aunt Who Came to Dinner
-URL: https://watchwiththekids.com/ep/fresh-prince/0222.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0222
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -424,7 +424,7 @@ Watch for:
   - [Mild] “Hey, what's up Uncle Phil? Uncle Phil? - Will! - Father! - Carlton! - Mother! Lester, don't make me have to get ethnic on Don't make me have to get ethnic on you! You get the champagne.”
 
 ## S2 E23 — Be My Baby Tonight
-URL: https://watchwiththekids.com/ep/fresh-prince/0223.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0223
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -435,7 +435,7 @@ Watch for:
   - [Caution] “Wrong, my hot-blooded cousin.”
 
 ## S2 E24 — Strip-Tease for Two
-URL: https://watchwiththekids.com/ep/fresh-prince/0224.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0224
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -451,7 +451,7 @@ Watch for:
   - [Caution] “You only have to give blood 50 more times to get Mom's bracelet back.”
 
 ## S3 E1 — How I Spent My Summer Vacation
-URL: https://watchwiththekids.com/ep/fresh-prince/0301.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0301
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -462,7 +462,7 @@ Watch for:
   - [Caution] “Come on, Uncle Phil, what's wrong? Do you think everybody's gonna think I'm a drug dealer? Why wouldn't they think I'm a doctor? 'Cause everyone knows Buckwheat never went to medical school.”
 
 ## S3 E2 — Will Gets Committed
-URL: https://watchwiththekids.com/ep/fresh-prince/0302.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0302
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -471,7 +471,7 @@ Watch for:
   - [Caution] “You're having an affair.”
 
 ## S3 E3 — That's No Lady, That's My Cousin
-URL: https://watchwiththekids.com/ep/fresh-prince/0303.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0303
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -483,7 +483,7 @@ Watch for:
   - [Mild] “What about all the boys in the hall yesterday? - See, Ashley - And all the guys in the beer commercials? - Look, Ashley - And all the guys who ask Hilary out.”
 
 ## S3 E4 — Hilary Gets a Job
-URL: https://watchwiththekids.com/ep/fresh-prince/0304.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0304
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -497,7 +497,7 @@ Watch for:
   - [Mild] “I think I'm gonna go back to my little pool house and toast myself with a glass of champagne.”
 
 ## S3 E5 — Mama's Baby, Carlton's Maybe
-URL: https://watchwiththekids.com/ep/fresh-prince/0305.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0305
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -508,14 +508,14 @@ Watch for:
   - [Too much] “How long has it been? Well, I'd take a shot in the dark and say around nine months.”
 
 ## S3 E6 — P.S. I Love You
-URL: https://watchwiththekids.com/ep/fresh-prince/0306.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0306
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Then she should lay off the beer.”
 
 ## S3 E7 — Here Comes the Judge
-URL: https://watchwiththekids.com/ep/fresh-prince/0307.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0307
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -528,7 +528,7 @@ Watch for:
   - [Too much] “That's 'cause I didn't murder you yet.”
 
 ## S3 E8 — Boyz in the Woods
-URL: https://watchwiththekids.com/ep/fresh-prince/0308.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0308
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -539,14 +539,14 @@ Watch for:
   - [Mild] “Why don't you put this on ice? - Champagne? - Yeah.”
 
 ## S3 E9 — A Night at the Oprah
-URL: https://watchwiththekids.com/ep/fresh-prince/0309.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0309
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Has being in politics ruined your sex life? No, mine's great, how's yours, honey? Oprah, I have a question.”
 
 ## S3 E10 — Asses to Ashes
-URL: https://watchwiththekids.com/ep/fresh-prince/0310.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0310
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -557,7 +557,7 @@ Watch for:
   - [Mild] “This calls for champagne.”
 
 ## S3 E11 — A Funny Thing Happened on the Way to the Forum
-URL: https://watchwiththekids.com/ep/fresh-prince/0311.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0311
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -572,14 +572,14 @@ Watch for:
   - [Mild] “Where's that champagne bottle? Yo, guess who? Not now, man.”
 
 ## S3 E12 — The Cold War
-URL: https://watchwiththekids.com/ep/fresh-prince/0312.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0312
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “And, Uncle Phil, you know you really shouldn't wear silk no more 'cause, like, when big folks wear silk Well, since we're all being honest with each other I'm bloody sick of the two of you going through my drawers.”
 
 ## S3 E13 — Mommy Nearest
-URL: https://watchwiththekids.com/ep/fresh-prince/0313.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0313
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -589,7 +589,7 @@ Watch for:
   - [Caution] “And I'll thank all of you to keep your noses out of my personal affairs.”
 
 ## S3 E14 — Winner Takes Off
-URL: https://watchwiththekids.com/ep/fresh-prince/0314.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0314
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -600,7 +600,7 @@ Watch for:
   - [Mild] “Geoffrey, now, that's a $500 bottle of champagne.”
 
 ## S3 E15 — Robbing the Banks
-URL: https://watchwiththekids.com/ep/fresh-prince/0315.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0315
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -609,7 +609,7 @@ Watch for:
   - [Caution] “G can you please take me to the beach? So sorry Master Willam I'm on a break.”
 
 ## S3 E16 — Bundle of Joy
-URL: https://watchwiththekids.com/ep/fresh-prince/0316.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0316
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -618,7 +618,7 @@ Watch for:
   - [Mild] “I want kids that pick their noses sometimes and roll me when I'm drunk.”
 
 ## S3 E17 — The Best Laid Plans
-URL: https://watchwiththekids.com/ep/fresh-prince/0317.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0317
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -633,7 +633,7 @@ Watch for:
   - [Mild] “Now, get a bottle of whiskey, liquor that girl up and take advantage of her.”
 
 ## S3 E18 — The Alma Matter
-URL: https://watchwiththekids.com/ep/fresh-prince/0318.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0318
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -644,7 +644,7 @@ Watch for:
   - [Mild] “But he'd like to take Hilary out for cocktails.”
 
 ## S3 E19 — Just Say Yo
-URL: https://watchwiththekids.com/ep/fresh-prince/0319.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0319
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -654,7 +654,7 @@ Watch for:
   - [Mild] “Up? You don't mean This sex thing is even more complicated than I thought.”
 
 ## S3 E20 — The Baby Comes Out
-URL: https://watchwiththekids.com/ep/fresh-prince/0320.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0320
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -667,7 +667,7 @@ Watch for:
   - [Caution] “How do you work this bloody thing? Thank God you're here.”
 
 ## S3 E21 — You Bet Your Life
-URL: https://watchwiththekids.com/ep/fresh-prince/0321.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0321
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -678,7 +678,7 @@ Watch for:
   - [Caution] “Could luck be a lady tonight? Tramp.”
 
 ## S3 E22 — Ain't No Business Like Show Business
-URL: https://watchwiththekids.com/ep/fresh-prince/0322.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0322
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -686,21 +686,21 @@ Watch for:
   - [Mild] “First of all, Uncle Lou is not a drunk, okay? He has an inner ear problem.”
 
 ## S3 E23 — The Way We Were
-URL: https://watchwiththekids.com/ep/fresh-prince/0323.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0323
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “I'm so fat! On second thought, I'll call her from the car.”
 
 ## S3 E24 — Six Degrees of Graduation
-URL: https://watchwiththekids.com/ep/fresh-prince/0324.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0324
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “Because if you're left back and I have to wash your gym socks for another year I shall take my own life.”
 
 ## S4 E1 — Where There's a Will, There's a Way (1)
-URL: https://watchwiththekids.com/ep/fresh-prince/0401.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0401
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -712,7 +712,7 @@ Watch for:
   - [Mild] “She does have breasts, doesn't she? Well, all right.”
 
 ## S4 E2 — Where There's a Will, There's a Way (2)
-URL: https://watchwiththekids.com/ep/fresh-prince/0402.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0402
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -722,7 +722,7 @@ Watch for:
   - [Mild] “No skinny-dipping.”
 
 ## S4 E3 — All Guts, No Glory
-URL: https://watchwiththekids.com/ep/fresh-prince/0403.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0403
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -736,14 +736,14 @@ Watch for:
   - [Caution] “Make it one of your demands when you climb the bell tower with a rifle.”
 
 ## S4 E4 — Father of the Year
-URL: https://watchwiththekids.com/ep/fresh-prince/0404.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0404
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I've seen you both naked anyway.”
 
 ## S4 E5 — It's Better to Have Loved and Lost It...
-URL: https://watchwiththekids.com/ep/fresh-prince/0405.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0405
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -756,7 +756,7 @@ Watch for:
   - [Too much] “You did a porno movie? Montreal, site of the 1976 Olympics where some athletes become heroes to their countries and where one man became the shame of a nation.”
 
 ## S4 E6 — Will Goes a-Courtin'
-URL: https://watchwiththekids.com/ep/fresh-prince/0406.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0406
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -767,14 +767,14 @@ Watch for:
   - [Caution] “Hit the bricks, you little tramp!”
 
 ## S4 E7 — Hex and the Single Guy
-URL: https://watchwiththekids.com/ep/fresh-prince/0407.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0407
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “So if I hook up with some babe tonight, I promise to practice safe hex.”
 
 ## S4 E8 — Blood is Thicker Than Mud
-URL: https://watchwiththekids.com/ep/fresh-prince/0408.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0408
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -785,7 +785,7 @@ Watch for:
   - [Mild] “…tell you how We study, study, study For professional careers We drink a lot of Ovaltine But never any beers Revenge of the Nerds: Part Six.”
 
 ## S4 E9 — Fresh Prince After Dark
-URL: https://watchwiththekids.com/ep/fresh-prince/0409.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0409
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -793,7 +793,7 @@ Watch for:
   - [Mild] “I look great naked.”
 
 ## S4 E10 — Home is Where the Heart Attack Is
-URL: https://watchwiththekids.com/ep/fresh-prince/0410.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0410
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -806,12 +806,12 @@ Watch for:
   - [Mild] “You was probably worried about just seeing this kitchen again, right? I'm sorry, that's a leftover fat joke.”
 
 ## S4 E11 — Take My Cousin -- Please
-URL: https://watchwiththekids.com/ep/fresh-prince/0411.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0411
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E12 — You've Got to Be a Football Hero
-URL: https://watchwiththekids.com/ep/fresh-prince/0412.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0412
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -821,14 +821,14 @@ Watch for:
   - [Mild] “The driver was drunk.”
 
 ## S4 E13 — 'Twas the Night Before Christening
-URL: https://watchwiththekids.com/ep/fresh-prince/0413.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0413
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Yo, me and this kid are definitely blood.”
 
 ## S4 E14 — Sleepless in Bel-Air
-URL: https://watchwiththekids.com/ep/fresh-prince/0414.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0414
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -838,7 +838,7 @@ Watch for:
   - [Too much] “Yes, perhaps the scent of sea breeze will recall some painful memory for him, and then he'll commit suicide.”
 
 ## S4 E15 — Who's the Boss
-URL: https://watchwiththekids.com/ep/fresh-prince/0415.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0415
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -853,14 +853,14 @@ Watch for:
   - [Mild] “Look, I particularly recommend the shrimpy cocktail.”
 
 ## S4 E16 — I Know Why the Caged Bird Screams
-URL: https://watchwiththekids.com/ep/fresh-prince/0416.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0416
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Let's just get guns.”
 
 ## S4 E17 — When You Hit Upon a Star
-URL: https://watchwiththekids.com/ep/fresh-prince/0417.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0417
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -874,7 +874,7 @@ Watch for:
   - [Too much] “Now we have music for my stripper.”
 
 ## S4 E18 — Stop Will! In the Name of Love
-URL: https://watchwiththekids.com/ep/fresh-prince/0418.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0418
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -883,7 +883,7 @@ Watch for:
   - [Caution] “That'll be cool unless the church group shut that place down, you know? - And afterwards? - Well, I was thinking we'd run some guns to Nicaragua but we'll probably just come home.”
 
 ## S4 E19 — You'd Better Shop Around
-URL: https://watchwiththekids.com/ep/fresh-prince/0419.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0419
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -892,7 +892,7 @@ Watch for:
   - [Mild] “Oh, really? You ever been beat up by a woman? Not without having paid for it.”
 
 ## S4 E20 — The Ol' Ball and Chain
-URL: https://watchwiththekids.com/ep/fresh-prince/0420.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0420
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -904,7 +904,7 @@ Watch for:
   - [Mild] “So we went out for a beer and I told him everything.”
 
 ## S4 E21 — The Harder They Fall
-URL: https://watchwiththekids.com/ep/fresh-prince/0421.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0421
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -918,7 +918,7 @@ Watch for:
   - [Mild] “There wasn't no beer.”
 
 ## S4 E22 — M is for the Many Things She Gave Me
-URL: https://watchwiththekids.com/ep/fresh-prince/0422.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0422
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -928,12 +928,12 @@ Watch for:
   - [Mild] “Now I was I was just I was Earthquake and, you know, and then we And And then Have you ever seen your mother naked? Will, you are just really a class act.”
 
 ## S4 E23 — Mother's Day
-URL: https://watchwiththekids.com/ep/fresh-prince/0423.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0423
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E24 — Papa's Got a Brand-New Excuse
-URL: https://watchwiththekids.com/ep/fresh-prince/0424.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0424
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -942,7 +942,7 @@ Watch for:
   - [Mild] “I just wish I hadn't wasted my money buying this stupid present.”
 
 ## S4 E25 — For Sale by Owner
-URL: https://watchwiththekids.com/ep/fresh-prince/0425.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0425
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -950,7 +950,7 @@ Watch for:
   - [Mild] “Safe sex, mind you, but lots of it.”
 
 ## S4 E26 — The Philadelphia Story
-URL: https://watchwiththekids.com/ep/fresh-prince/0426.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0426
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -962,7 +962,7 @@ Watch for:
   - [Mild] “What, just because you're not going to some fancy resort somewhere that means you can't have a good time? It is a damn shame when people are spoiled by money.”
 
 ## S5 E1 — What's Will Got to Do with It? (1)
-URL: https://watchwiththekids.com/ep/fresh-prince/0501.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0501
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -973,21 +973,21 @@ Watch for:
   - [Mild] “One fat joke too many.”
 
 ## S5 E2 — The Client (2)
-URL: https://watchwiththekids.com/ep/fresh-prince/0502.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0502
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Although I'm crazy about ya I can live without ya And you wasted my time [LAUGHS.]”
 
 ## S5 E3 — Reality Bites
-URL: https://watchwiththekids.com/ep/fresh-prince/0503.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0503
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “I do not want my little boy exposed to that much sex.”
 
 ## S5 E4 — Grumpy Young Men
-URL: https://watchwiththekids.com/ep/fresh-prince/0504.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0504
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -998,7 +998,7 @@ Watch for:
   - [Mild] “Look, the important thing is that we get beyond that lucky punch.”
 
 ## S5 E5 — Fresh Prince: The Movie
-URL: https://watchwiththekids.com/ep/fresh-prince/0505.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0505
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1008,7 +1008,7 @@ Watch for:
   - [Caution] “You bring the groom, I'll bring the shotgun.”
 
 ## S5 E6 — Will's Misery
-URL: https://watchwiththekids.com/ep/fresh-prince/0506.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0506
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1017,19 +1017,19 @@ Watch for:
   - [Caution] “Oh, sweetheart Tell me, sir, do I wash that or take a weed whacker to it? CARLTON: So, what are you talking about? WILL: What is? Carlton, quick, get a bat, let's bust this piñata.”
 
 ## S5 E7 — Father Knows Best
-URL: https://watchwiththekids.com/ep/fresh-prince/0507.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0507
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E8 — Sooooooooul Train
-URL: https://watchwiththekids.com/ep/fresh-prince/0508.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0508
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “What is this? Uncle Phil was feeling a little gun-shy about his grooves.”
 
 ## S5 E9 — Love Hurts
-URL: https://watchwiththekids.com/ep/fresh-prince/0509.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0509
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1040,7 +1040,7 @@ Watch for:
   - [Too much] IN CHINESE ACCENT.
 
 ## S5 E10 — Will's Up a Dirt Road
-URL: https://watchwiththekids.com/ep/fresh-prince/0510.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0510
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1050,7 +1050,7 @@ Watch for:
   - [Mild] “Say I'm having a small garden party for 50 of my closest friends and someone spills cocktail sauce on their Armani suit.”
 
 ## S5 E11 — Will Steps Out
-URL: https://watchwiththekids.com/ep/fresh-prince/0511.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0511
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1059,26 +1059,26 @@ Watch for:
   - [Mild] “Let's just call this part of your family education kit because you know why? In every group, there's always an insensitive boob.”
 
 ## S5 E12 — Same Game, Next Season
-URL: https://watchwiththekids.com/ep/fresh-prince/0512.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0512
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Last thing I ever waan to do again is see a naked middle-aged man in the shower.”
 
 ## S5 E13 — Three's a Crowd
-URL: https://watchwiththekids.com/ep/fresh-prince/0513.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0513
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “First numbness, then the sensation of needles on skin finally, right before death, violent spasms as your blood freezes and your heart locks up.”
 
 ## S5 E14 — It's a Wonderful Lie
-URL: https://watchwiththekids.com/ep/fresh-prince/0514.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0514
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E15 — Bullets Over Bel-Air
-URL: https://watchwiththekids.com/ep/fresh-prince/0515.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0515
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1088,12 +1088,12 @@ Watch for:
   - [Mild] “Looks like somebody beat him to it.”
 
 ## S5 E16 — A Decent Proposal
-URL: https://watchwiththekids.com/ep/fresh-prince/0516.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0516
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E17 — Will is from Mars...
-URL: https://watchwiththekids.com/ep/fresh-prince/0517.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0517
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1107,7 +1107,7 @@ Watch for:
   - [Caution] “Your daddy is so fat that when he went to school he sat next to everybody.”
 
 ## S5 E18 — The Wedding Show (Psyche!)
-URL: https://watchwiththekids.com/ep/fresh-prince/0518.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0518
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1125,19 +1125,19 @@ Watch for:
   - [Mild] “You want a beer? Actually, I'd prefer a white wine spritzer.”
 
 ## S5 E19 — Slum Like It ... Not!
-URL: https://watchwiththekids.com/ep/fresh-prince/0519.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0519
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E20 — As the Will Turns
-URL: https://watchwiththekids.com/ep/fresh-prince/0520.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0520
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “See, Joan was having an affair with Carlos right behind her husband's back.”
 
 ## S5 E21 — Save the Last Trance for Me
-URL: https://watchwiththekids.com/ep/fresh-prince/0521.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0521
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1150,14 +1150,14 @@ Watch for:
   - [Mild] “Tippy The Drunken Penguin is his opening act.”
 
 ## S5 E22 — To Thine Own Self Be Blue ... and Gold
-URL: https://watchwiththekids.com/ep/fresh-prince/0522.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0522
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Dead drunk probably.”
 
 ## S5 E23 — Cold Feet, Hot Body
-URL: https://watchwiththekids.com/ep/fresh-prince/0523.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0523
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1168,14 +1168,14 @@ Watch for:
   - [Mild] “I don't care if Toni girl goes galloping by on a white horse buck-naked, you know? [MIMICS HORSE NEIGHING.]”
 
 ## S5 E24 — Love in an Elevator
-URL: https://watchwiththekids.com/ep/fresh-prince/0524.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0524
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “The Strip 'N Trip wanna know if the hotel will furnish extension cords? And tell Naughty Nelvina and The Naked Drill Team to wear coats or they'll never get past hotel security.”
 
 ## S5 E25 — For Whom the Wedding Bells Toll
-URL: https://watchwiththekids.com/ep/fresh-prince/0525.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0525
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1185,7 +1185,7 @@ Watch for:
   - [Mild] “Can he take a punch? [WILL LAUGHS.]”
 
 ## S6 E1 — Burnin' Down the House
-URL: https://watchwiththekids.com/ep/fresh-prince/0601.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0601
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1194,7 +1194,7 @@ Watch for:
   - [Too much] “Because murderers, they're felons, and felons, they can't be judges.”
 
 ## S6 E2 — Get a Job
-URL: https://watchwiththekids.com/ep/fresh-prince/0602.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0602
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1203,7 +1203,7 @@ Watch for:
   - [Mild] “That's even worse than getting beat up by a girl.”
 
 ## S6 E3 — Stress Related
-URL: https://watchwiththekids.com/ep/fresh-prince/0603.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0603
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1213,7 +1213,7 @@ Watch for:
   - [Mild] “What do you think? I think it's too good to be wasted on the hired help.”
 
 ## S6 E4 — Bourgie Sings the Blues
-URL: https://watchwiththekids.com/ep/fresh-prince/0604.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0604
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1222,7 +1222,7 @@ Watch for:
   - [Too much] “We gonna get some strippers or something.”
 
 ## S6 E5 — The Script Formerly Known As
-URL: https://watchwiththekids.com/ep/fresh-prince/0605.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0605
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1234,7 +1234,7 @@ Watch for:
   - [Mild] YELPING AND MAKING SLAPPING SOUNDS.
 
 ## S6 E6 — Not, I Barbecue
-URL: https://watchwiththekids.com/ep/fresh-prince/0606.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0606
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1245,7 +1245,7 @@ Watch for:
   - [Too much] “Stripper Gram.”
 
 ## S6 E7 — Not With My Cousin You Don't
-URL: https://watchwiththekids.com/ep/fresh-prince/0607.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0607
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1259,7 +1259,7 @@ Watch for:
   - [Caution] “"Whatever will be, will be"? What kind of devil-may-care message is that? - The slut.”
 
 ## S6 E8 — Viva Lost Wages
-URL: https://watchwiththekids.com/ep/fresh-prince/0608.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0608
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1267,7 +1267,7 @@ Watch for:
   - [Caution] “I don't know where none of them at, you know, you know, but I'm gonna go ahead and get my knife.”
 
 ## S6 E9 — There's the Rub (1)
-URL: https://watchwiththekids.com/ep/fresh-prince/0609.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0609
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1276,19 +1276,19 @@ Watch for:
   - [Mild] “Well, I guess somebody burned their training bra.”
 
 ## S6 E10 — There's the Rub (2)
-URL: https://watchwiththekids.com/ep/fresh-prince/0610.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0610
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “You know, there was a couple of butt-naked honeys scattered around that place.”
 
 ## S6 E11 — I, Ooh, Baby, Baby
-URL: https://watchwiththekids.com/ep/fresh-prince/0611.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0611
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S6 E12 — Boxing Helena
-URL: https://watchwiththekids.com/ep/fresh-prince/0612.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0612
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1299,14 +1299,14 @@ Watch for:
   - [Mild] “You mean when you sucker-punched me.”
 
 ## S6 E13 — I, Clownius
-URL: https://watchwiththekids.com/ep/fresh-prince/0613.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0613
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “He must be on a break, huh? Will, this is no time for tomfoolery.”
 
 ## S6 E14 — Breaking Up is Hard to Do (1)
-URL: https://watchwiththekids.com/ep/fresh-prince/0614.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0614
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1318,33 +1318,33 @@ Watch for:
   - [Mild] “I'm going out with a wine connoisseur tonight and I really want to impress him.”
 
 ## S6 E15 — Breaking Up is Hard to Do (2)
-URL: https://watchwiththekids.com/ep/fresh-prince/0615.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0615
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - [Mild] “Was that a fat joke? - Would you care for something to drink? - Yes, please.”
 
 ## S6 E16 — I, Bowl Buster
-URL: https://watchwiththekids.com/ep/fresh-prince/0616.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0616
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S6 E17 — The Butler's Son Did It
-URL: https://watchwiththekids.com/ep/fresh-prince/0617.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0617
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Will, just for my edification, what plant would that be now? Carlton, did you hear what I said? You just can't get over the fact that there's a couple new guns in town.”
 
 ## S6 E18 — Hare Today...
-URL: https://watchwiththekids.com/ep/fresh-prince/0618.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0618
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Would you prefer a breast or thigh? Uh! He'll take a wing.”
 
 ## S6 E19 — I, Whoops, There It Is
-URL: https://watchwiththekids.com/ep/fresh-prince/0619.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0619
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1359,7 +1359,7 @@ Watch for:
   - [Mild] “Hey, Ta, listen, all right? - Now, I don't play that crap! TATYANA: No.”
 
 ## S6 E20 — I, Stank Horse
-URL: https://watchwiththekids.com/ep/fresh-prince/0620.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0620
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1367,14 +1367,14 @@ Watch for:
   - [Mild] “Uh Simon says, get naked.”
 
 ## S6 E21 — I, Stank Hole in One
-URL: https://watchwiththekids.com/ep/fresh-prince/0621.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0621
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “but if you help me beat them, you'll never have to work another day in your life.”
 
 ## S6 E22 — Eye, Tooth
-URL: https://watchwiththekids.com/ep/fresh-prince/0622.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0622
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1388,7 +1388,7 @@ Watch for:
   - [Mild] “Damn it, Jim.”
 
 ## S6 E23 — I, Done (1)
-URL: https://watchwiththekids.com/ep/fresh-prince/0623.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0623
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1400,7 +1400,7 @@ Watch for:
   - [Mild] “Great, I love champagne.”
 
 ## S6 E24 — I, Done (2)
-URL: https://watchwiththekids.com/ep/fresh-prince/0624.html
+URL: https://watchwiththekids.com/ep/fresh-prince/0624
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)

@@ -1,18 +1,18 @@
 # The Simpsons — parent guide (564 episodes)
 
-Source: https://watchwiththekids.com/simpsons.html
+Source: https://watchwiththekids.com/simpsons
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 303 mild (1–2), 218 caution (3), 43 too much (4–5).
 
 ## S1 E1 — Simpsons Roasting on an Open Fire
-URL: https://watchwiththekids.com/ep/simpsons/0101.html
+URL: https://watchwiththekids.com/ep/simpsons/0101
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Moe Szyslak: “What's the matter, Homer? Somebody leave a lumpa coal in your stocking? You've been sitting there sucking on a beer all day long.”
 
 ## S1 E2 — Bart the Genius
-URL: https://watchwiththekids.com/ep/simpsons/0102.html
+URL: https://watchwiththekids.com/ep/simpsons/0102
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -22,7 +22,7 @@ Watch for:
   - [Mild] Homer Simpson: “Jeez. No beer... no opera dogs...”
 
 ## S1 E3 — Homer's Odyssey
-URL: https://watchwiththekids.com/ep/simpsons/0103.html
+URL: https://watchwiththekids.com/ep/simpsons/0103
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -34,7 +34,7 @@ Watch for:
   - [Mild] Jingle Chorus: “(SINGS FROM TV) YOU CAN'T GET ENOUGH OF THAT WONDERFUL DUFF / DUFF BEER.”
 
 ## S1 E4 — There's No Disgrace Like Home
-URL: https://watchwiththekids.com/ep/simpsons/0104.html
+URL: https://watchwiththekids.com/ep/simpsons/0104
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -52,7 +52,7 @@ Watch for:
   - [Mild] Lou: “(TO DOG) Quiet, boy. Let the nice people enjoy their beers. Uh, don't worry. This dog has the scent.”
 
 ## S1 E5 — Bart the General
-URL: https://watchwiththekids.com/ep/simpsons/0105.html
+URL: https://watchwiththekids.com/ep/simpsons/0105
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -65,7 +65,7 @@ Watch for:
   - [Mild] Homer Simpson: “So the next time this bully thinks you're gonna throw a punch, you throw a glob of mud in his eyes, and then you sock him when he's staggering around, blinded...”
 
 ## S1 E6 — Moaning Lisa
-URL: https://watchwiththekids.com/ep/simpsons/0106.html
+URL: https://watchwiththekids.com/ep/simpsons/0106
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -75,7 +75,7 @@ Watch for:
   - [Caution] Homer Simpson: “Bart-the-bloody-pulp Simpson is on the ropes. He's hoping I'll put him out of his misery. Well, you're in luck, Bart, here comes my right.”
 
 ## S1 E7 — The Call of the Simpsons
-URL: https://watchwiththekids.com/ep/simpsons/0107.html
+URL: https://watchwiththekids.com/ep/simpsons/0107
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -84,7 +84,7 @@ Watch for:
   - [Caution] “Man #2: We've got to take him alive. Johnson, you got that tranquilizer gun ready?”
 
 ## S1 E8 — The Telltale Head
-URL: https://watchwiththekids.com/ep/simpsons/0108.html
+URL: https://watchwiththekids.com/ep/simpsons/0108
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -95,7 +95,7 @@ Watch for:
   - [Mild] Barney Gumble: “You're right, Moe. A beer, please, and make sure there's a head on it.”
 
 ## S1 E9 — Life on the Fast Lane
-URL: https://watchwiththekids.com/ep/simpsons/0109.html
+URL: https://watchwiththekids.com/ep/simpsons/0109
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -106,7 +106,7 @@ Watch for:
   - [Caution] Jacques: “Let it out, Marge. Laugh loud. Laugh out loud. You'll lose weight.”
 
 ## S1 E10 — Homer's Night Out
-URL: https://watchwiththekids.com/ep/simpsons/0110.html
+URL: https://watchwiththekids.com/ep/simpsons/0110
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -119,7 +119,7 @@ Watch for:
   - [Mild] Homer Simpson: “Well... Uh... Wine 'em, dine 'em, bring 'em flowers, write 'em love poetry, sir.”
 
 ## S1 E11 — The Crepes of Wrath
-URL: https://watchwiththekids.com/ep/simpsons/0111.html
+URL: https://watchwiththekids.com/ep/simpsons/0111
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -130,7 +130,7 @@ Watch for:
   - [Mild] Cesar: “(POURING SOME IN) But the right amount gives wine just the right kick.”
 
 ## S1 E12 — Krusty Gets Busted
-URL: https://watchwiththekids.com/ep/simpsons/0112.html
+URL: https://watchwiththekids.com/ep/simpsons/0112
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -141,7 +141,7 @@ Watch for:
   - [Caution] Sideshow Bob: “Review of Books. Just look at these amusing caricatures of Gore Vidal and Susan Sontag.”
 
 ## S1 E13 — Some Enchanted Evening
-URL: https://watchwiththekids.com/ep/simpsons/0113.html
+URL: https://watchwiththekids.com/ep/simpsons/0113
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -150,7 +150,7 @@ Watch for:
   - [Mild] Homer Simpson: “Ooops. Time for a fill-up. (CALLS) Garçon! Another bottle of your second-least-expensive champagne.”
 
 ## S2 E1 — Bart Gets an "F"
-URL: https://watchwiththekids.com/ep/simpsons/0201.html
+URL: https://watchwiththekids.com/ep/simpsons/0201
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -160,12 +160,12 @@ Watch for:
   - [Mild] Homer Simpson: “Sure I do. I just want to have a beer while I'm caring. Marge...”
 
 ## S2 E2 — Simpson and Delilah
-URL: https://watchwiththekids.com/ep/simpsons/0202.html
+URL: https://watchwiththekids.com/ep/simpsons/0202
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S2 E3 — Treehouse of Horror
-URL: https://watchwiththekids.com/ep/simpsons/0203.html
+URL: https://watchwiththekids.com/ep/simpsons/0203
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -175,7 +175,7 @@ Watch for:
   - [Caution] Bart Simpson: “Come on man, do it! Do the blood thing! Come on, do it! Do it! Do it! Do it! Do it! Do it! Do it!”
 
 ## S2 E4 — Two Cars in Every Garage and Three Eyes on Every Fish
-URL: https://watchwiththekids.com/ep/simpsons/0204.html
+URL: https://watchwiththekids.com/ep/simpsons/0204
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -183,7 +183,7 @@ Watch for:
   - [Mild] Homer Simpson: “So... Someone will punch in for me.”
 
 ## S2 E5 — Dancin' Homer
-URL: https://watchwiththekids.com/ep/simpsons/0205.html
+URL: https://watchwiththekids.com/ep/simpsons/0205
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -194,7 +194,7 @@ Watch for:
   - [Mild] Capital City Goofball: “The fifth inning will be yours. Everyone is settled in, they've had a coupla beers; the game is official. It's a pretty important inning.”
 
 ## S2 E6 — Dead Putting Society
-URL: https://watchwiththekids.com/ep/simpsons/0206.html
+URL: https://watchwiththekids.com/ep/simpsons/0206
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -206,7 +206,7 @@ Watch for:
   - [Mild] British Commentator: “He will drink naught but champagne, while his opponent tastes bitter defeat in this oft cruel game.”
 
 ## S2 E7 — Bart vs. Thanksgiving
-URL: https://watchwiththekids.com/ep/simpsons/0207.html
+URL: https://watchwiththekids.com/ep/simpsons/0207
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -215,7 +215,7 @@ Watch for:
   - [Caution] Kent Brockman: “(THRU TV) ...No, you won't find Freddie the Freeloader, or Emmett Kelly, or even Charlie Chaplin's beloved Little Tramp down here.”
 
 ## S2 E8 — Bart the Daredevil
-URL: https://watchwiththekids.com/ep/simpsons/0208.html
+URL: https://watchwiththekids.com/ep/simpsons/0208
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -226,14 +226,14 @@ Watch for:
   - [Mild] Marge Simpson: “Hmmm, well, thank you. Gee, everyone's so nice here at the Monster Truck Rally. (TURNING) Look, Homer, champagne!”
 
 ## S2 E9 — Itchy & Scratchy & Marge
-URL: https://watchwiththekids.com/ep/simpsons/0209.html
+URL: https://watchwiththekids.com/ep/simpsons/0209
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Dr. Marvin Monroe: “Hold it, hold it, hold it... how can you be for one form of freedom of expression, like (INDICATES STATUE) our big naked friend over there, and be against another form, like Itchy and Scratchy?”
 
 ## S2 E10 — Bart Gets Hit by a Car
-URL: https://watchwiththekids.com/ep/simpsons/0210.html
+URL: https://watchwiththekids.com/ep/simpsons/0210
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -250,7 +250,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Okay, everybody! For the next fifteen minutes, one third off on every pitcher... one per customer... domestic beer only... hey, no sharing!”
 
 ## S2 E11 — One Fish, Two Fish, Blowfish, Blue Fish
-URL: https://watchwiththekids.com/ep/simpsons/0211.html
+URL: https://watchwiththekids.com/ep/simpsons/0211
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -266,7 +266,7 @@ Watch for:
   - [Mild] Barney Gumble: “Ah, Homer. Come on. You got time for one last beer. Please.”
 
 ## S2 E12 — The Way We Was
-URL: https://watchwiththekids.com/ep/simpsons/0212.html
+URL: https://watchwiththekids.com/ep/simpsons/0212
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -278,7 +278,7 @@ Watch for:
   - [Caution] Jacqueline Bouvier: “Ladies pinch. Whores use rouge.”
 
 ## S2 E13 — Homer vs. Lisa and the 8th Commandment
-URL: https://watchwiththekids.com/ep/simpsons/0213.html
+URL: https://watchwiththekids.com/ep/simpsons/0213
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -290,7 +290,7 @@ Watch for:
   - [Mild] Barney Gumble: “Here, I brought some imported generic beer.”
 
 ## S2 E14 — Principal Charming
-URL: https://watchwiththekids.com/ep/simpsons/0214.html
+URL: https://watchwiththekids.com/ep/simpsons/0214
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -301,7 +301,7 @@ Watch for:
   - [Mild] Selma Bouvier: “It's time to give away my love like so much cheap wine.”
 
 ## S2 E15 — Oh Brother, Where Art Thou?
-URL: https://watchwiththekids.com/ep/simpsons/0215.html
+URL: https://watchwiththekids.com/ep/simpsons/0215
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -312,7 +312,7 @@ Watch for:
   - [Mild] HERB: “To think I've wasted my life in board rooms and stockholders meetings when I could have been watching cartoons. (SADLY) This old fool has wasted his life.”
 
 ## S2 E16 — Bart's Dog Gets an "F"
-URL: https://watchwiththekids.com/ep/simpsons/0216.html
+URL: https://watchwiththekids.com/ep/simpsons/0216
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -325,7 +325,7 @@ Watch for:
   - [Mild] Bart Simpson: “Homework? Lisa, you wasted chicken pox. Don't waste the mumps.”
 
 ## S2 E17 — Old Money
-URL: https://watchwiththekids.com/ep/simpsons/0217.html
+URL: https://watchwiththekids.com/ep/simpsons/0217
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -338,7 +338,7 @@ Watch for:
   - [Mild] Jasper Beardly: “Plus, they've got a ninety-nine cent shrimp cocktail.”
 
 ## S2 E18 — Brush with Greatness
-URL: https://watchwiththekids.com/ep/simpsons/0218.html
+URL: https://watchwiththekids.com/ep/simpsons/0218
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -354,7 +354,7 @@ Watch for:
   - [Caution] Homer Simpson: “Four Hundred and thirty-seven. (CONFUSED) Fifty-five. Oh my God, three hundred and... Hey, a hundred and fifty. (SHORT SCREAMS) Oh God, it's two hundred and sixty pounds! I'm a big fat pig.”
 
 ## S2 E19 — Lisa's Substitute
-URL: https://watchwiththekids.com/ep/simpsons/0219.html
+URL: https://watchwiththekids.com/ep/simpsons/0219
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -365,7 +365,7 @@ Watch for:
   - [Mild] Lisa Simpson: “Can I have wine?”
 
 ## S2 E20 — The War of the Simpsons
-URL: https://watchwiththekids.com/ep/simpsons/0220.html
+URL: https://watchwiththekids.com/ep/simpsons/0220
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -380,7 +380,7 @@ Watch for:
   - [Mild] Homer Simpson: “(INTO HIS CHEST) Ohhh, because I got drunk and looked down her dress. (POINTS HIS HEAD TOWARDS MAUDE)”
 
 ## S2 E21 — Three Men and a Comic Book
-URL: https://watchwiththekids.com/ep/simpsons/0221.html
+URL: https://watchwiththekids.com/ep/simpsons/0221
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -390,7 +390,7 @@ Watch for:
   - [Mild] Lou: “(WRITING TICKET) Gotta have a license to sell beer.”
 
 ## S2 E22 — Blood Feud
-URL: https://watchwiththekids.com/ep/simpsons/0222.html
+URL: https://watchwiththekids.com/ep/simpsons/0222
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 8 moment(s)
@@ -404,7 +404,7 @@ Watch for:
   - [Mild] Waylon Smithers: “Hmmm huh. We uh, need him beaten up.”
 
 ## S3 E1 — Stark Raving Dad
-URL: https://watchwiththekids.com/ep/simpsons/0301.html
+URL: https://watchwiththekids.com/ep/simpsons/0301
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -417,19 +417,19 @@ Watch for:
   - [Caution] Homer Simpson: “Oh great! And uh, try to put a good face on this. Tell them this is one of those places where rich women lose weight.”
 
 ## S3 E2 — Mr. Lisa Goes to Washington
-URL: https://watchwiththekids.com/ep/simpsons/0302.html
+URL: https://watchwiththekids.com/ep/simpsons/0302
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E3 — When Flanders Failed
-URL: https://watchwiththekids.com/ep/simpsons/0303.html
+URL: https://watchwiththekids.com/ep/simpsons/0303
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] Ned Flanders: “(CHUCKLING) Why Homer, you silly goose! The weed whacker's just for the edges! You're gonna be out here all day!”
 
 ## S3 E4 — Bart the Murderer
-URL: https://watchwiththekids.com/ep/simpsons/0304.html
+URL: https://watchwiththekids.com/ep/simpsons/0304
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -443,7 +443,7 @@ Watch for:
   - [Mild] Louie: “But I only know how to make wine spritzers.”
 
 ## S3 E5 — Homer Defined
-URL: https://watchwiththekids.com/ep/simpsons/0305.html
+URL: https://watchwiththekids.com/ep/simpsons/0305
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -461,7 +461,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Here you go. One beer, one chocolate milk.”
 
 ## S3 E6 — Like Father, Like Clown
-URL: https://watchwiththekids.com/ep/simpsons/0306.html
+URL: https://watchwiththekids.com/ep/simpsons/0306
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -472,7 +472,7 @@ Watch for:
   - [Caution] Rabbi Hyman Krustofsky: “I want a nice sandwich, but the Joey Bishop, ugh, too fatty...”
 
 ## S3 E7 — Treehouse of Horror II
-URL: https://watchwiththekids.com/ep/simpsons/0307.html
+URL: https://watchwiththekids.com/ep/simpsons/0307
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -482,7 +482,7 @@ Watch for:
   - [Too much] C. Montgomery Burns: “Oh... bad corpse. Bad corpse. Stop scaring Smithers. (TO SMITHERS) Satisfied?”
 
 ## S3 E8 — Lisa's Pony
-URL: https://watchwiththekids.com/ep/simpsons/0308.html
+URL: https://watchwiththekids.com/ep/simpsons/0308
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -493,7 +493,7 @@ Watch for:
   - [Mild] Marge Simpson: “Actually, I was thinking we could cut down on your beer.”
 
 ## S3 E9 — Saturdays of Thunder
-URL: https://watchwiththekids.com/ep/simpsons/0309.html
+URL: https://watchwiththekids.com/ep/simpsons/0309
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -502,7 +502,7 @@ Watch for:
   - [Mild] Bart Simpson: “It's my dad. Lying there on the couch drinking a beer, staring at the TV. I've never seen him like that.”
 
 ## S3 E10 — Flaming Moe's
-URL: https://watchwiththekids.com/ep/simpsons/0310.html
+URL: https://watchwiththekids.com/ep/simpsons/0310
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -520,7 +520,7 @@ Watch for:
   - [Caution] Homer Simpson: “He's not so fat.”
 
 ## S3 E11 — Burns Verkaufen der Kraftwerk
-URL: https://watchwiththekids.com/ep/simpsons/0311.html
+URL: https://watchwiththekids.com/ep/simpsons/0311
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -531,7 +531,7 @@ Watch for:
   - [Mild] Homer Simpson: “(TO SELF) Lucky drunks.”
 
 ## S3 E12 — I Married Marge
-URL: https://watchwiththekids.com/ep/simpsons/0312.html
+URL: https://watchwiththekids.com/ep/simpsons/0312
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -542,7 +542,7 @@ Watch for:
   - [Mild] Lunchlady Doris: “Be sure to get this punched every time. The tenth wedding is on the house.”
 
 ## S3 E13 — Radio Bart
-URL: https://watchwiththekids.com/ep/simpsons/0313.html
+URL: https://watchwiththekids.com/ep/simpsons/0313
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -552,7 +552,7 @@ Watch for:
   - [Mild] Homer Simpson: “(MOANS) There's only one can of beer left and it's Bart's.”
 
 ## S3 E14 — Lisa the Greek
-URL: https://watchwiththekids.com/ep/simpsons/0314.html
+URL: https://watchwiththekids.com/ep/simpsons/0314
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -569,7 +569,7 @@ Watch for:
   - [Caution] Marge Simpson: “Homer, all those fatty, deep-fried, heavily salted snacks can't be good for your heart.”
 
 ## S3 E15 — Homer Alone
-URL: https://watchwiththekids.com/ep/simpsons/0315.html
+URL: https://watchwiththekids.com/ep/simpsons/0315
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -586,7 +586,7 @@ Watch for:
   - [Too much] Homer Simpson: “(homo neanderthal'us)”
 
 ## S3 E16 — Bart the Lover
-URL: https://watchwiththekids.com/ep/simpsons/0316.html
+URL: https://watchwiththekids.com/ep/simpsons/0316
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -598,7 +598,7 @@ Watch for:
   - [Mild] Homer Simpson: “(GASPS) Beer! How did you know?”
 
 ## S3 E17 — Homer at the Bat
-URL: https://watchwiththekids.com/ep/simpsons/0317.html
+URL: https://watchwiththekids.com/ep/simpsons/0317
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -610,7 +610,7 @@ Watch for:
   - [Mild] Bart Simpson: “Homer, can I get you a beer?”
 
 ## S3 E18 — Separate Vocations
-URL: https://watchwiththekids.com/ep/simpsons/0318.html
+URL: https://watchwiththekids.com/ep/simpsons/0318
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -619,7 +619,7 @@ Watch for:
   - [Caution] Lisa Simpson: “I'll avoid the horrors of drug abuse, but I do plan to have several torrid love affairs.”
 
 ## S3 E19 — Dog of Death
-URL: https://watchwiththekids.com/ep/simpsons/0319.html
+URL: https://watchwiththekids.com/ep/simpsons/0319
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -629,7 +629,7 @@ Watch for:
   - [Mild] Marge Simpson: “No. I'm afraid we're just going to have to make a few sacrifices. Homer, you're going to have to give up beer for a while.”
 
 ## S3 E20 — Colonel Homer
-URL: https://watchwiththekids.com/ep/simpsons/0320.html
+URL: https://watchwiththekids.com/ep/simpsons/0320
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -645,7 +645,7 @@ Watch for:
   - [Mild] Marge Simpson: “I don't like you hanging around with some cocktail waitress!”
 
 ## S3 E21 — Black Widower
-URL: https://watchwiththekids.com/ep/simpsons/0321.html
+URL: https://watchwiththekids.com/ep/simpsons/0321
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -658,7 +658,7 @@ Watch for:
   - [Mild] Marge Simpson: “Okay, we've got cocktail wienies and Swedish meatballs.”
 
 ## S3 E22 — The Otto Show
-URL: https://watchwiththekids.com/ep/simpsons/0322.html
+URL: https://watchwiththekids.com/ep/simpsons/0322
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -672,7 +672,7 @@ Watch for:
   - [Mild] Patty Bouvier: “It doesn't matter. Let's get some Margaritas. I'm buyin'!”
 
 ## S3 E23 — Bart's Friend Falls in Love
-URL: https://watchwiththekids.com/ep/simpsons/0323.html
+URL: https://watchwiththekids.com/ep/simpsons/0323
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -689,7 +689,7 @@ Watch for:
   - [Caution] Lisa Simpson: “According to Eternity Magazine you can lose weight through subliminal learning. That's where an idea is subtly implanted in your head without you even knowing it.”
 
 ## S3 E24 — Brother, Can You Spare Two Dimes?
-URL: https://watchwiththekids.com/ep/simpsons/0324.html
+URL: https://watchwiththekids.com/ep/simpsons/0324
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -706,7 +706,7 @@ Watch for:
   - [Mild] Homer Simpson: “(FINISHING BEER) I think I'm gonna take a walk.”
 
 ## S4 E1 — Kamp Krusty
-URL: https://watchwiththekids.com/ep/simpsons/0401.html
+URL: https://watchwiththekids.com/ep/simpsons/0401
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -718,7 +718,7 @@ Watch for:
   - [Too much] Campers: “(SINGING) FROM YOUR GLEAMING MESS-HALL / TO YOUR HOLLOW BASEBALL FIELD / YOUR SPIC AND SPAN INFIRMARY / WHERE ALL OUR WOUNDS ARE HEALED... / HAIL TO THEE CAMP KRUSTY / BELOW MT. AVALANCHE...”
 
 ## S4 E2 — A Streetcar Named Marge
-URL: https://watchwiththekids.com/ep/simpsons/0402.html
+URL: https://watchwiththekids.com/ep/simpsons/0402
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 2 moment(s)
@@ -728,7 +728,7 @@ Watch for:
   - [Caution] Company: “NEW ORLEANS! HOME OF PIRATES, DRUNKS AND WHORES / NEW ORLEANS! TACKY OVER-PRICED SOUVENIR STORES / IF YOU WANT TO GO TO HELL YOU SHOULD TAKE A TRIP / TO THE SODOM AND GOMORRAH”
 
 ## S4 E3 — Homer the Heretic
-URL: https://watchwiththekids.com/ep/simpsons/0403.html
+URL: https://watchwiththekids.com/ep/simpsons/0403
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -738,7 +738,7 @@ Watch for:
   - [Caution] Announcer: “We interrupt this public affairs program to bring you a football game.”
 
 ## S4 E4 — Lisa the Beauty Queen
-URL: https://watchwiththekids.com/ep/simpsons/0404.html
+URL: https://watchwiththekids.com/ep/simpsons/0404
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -750,7 +750,7 @@ Watch for:
   - [Mild] Homer Simpson: “I don't know. Was I drunk?”
 
 ## S4 E5 — Treehouse of Horror III
-URL: https://watchwiththekids.com/ep/simpsons/0405.html
+URL: https://watchwiththekids.com/ep/simpsons/0405
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -759,7 +759,7 @@ Watch for:
   - [Mild] Lisa Simpson: “Bart, please. Don't you remember that Snowball I died four years ago tonight? Run over by the Mayor's beer swilling brother, Clovis.”
 
 ## S4 E6 — Itchy & Scratchy: The Movie
-URL: https://watchwiththekids.com/ep/simpsons/0406.html
+URL: https://watchwiththekids.com/ep/simpsons/0406
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 3 moment(s)
@@ -771,7 +771,7 @@ Watch for:
   - [Caution] Homer Simpson: “If I stick to my guns, the boy could wind up Chief Justice of the Supreme Court.”
 
 ## S4 E7 — Marge Gets a Job
-URL: https://watchwiththekids.com/ep/simpsons/0407.html
+URL: https://watchwiththekids.com/ep/simpsons/0407
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -780,7 +780,7 @@ Watch for:
   - [Caution] Homer Simpson: “Marge, get my gun.”
 
 ## S4 E8 — New Kid on the Block
-URL: https://watchwiththekids.com/ep/simpsons/0408.html
+URL: https://watchwiththekids.com/ep/simpsons/0408
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -794,7 +794,7 @@ Watch for:
   - [Mild] Barney Gumble: “(SHAKING HIS HEAD) What kind of pathetic drunk do you take me for? (GASP) Somebody spilled beer in this ashtray. (SLURPS IT, THEN SIGHS)”
 
 ## S4 E9 — Mr. Plow
-URL: https://watchwiththekids.com/ep/simpsons/0409.html
+URL: https://watchwiththekids.com/ep/simpsons/0409
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -808,7 +808,7 @@ Watch for:
   - [Mild] Barney Gumble: “Wow, Moe, you didn't even give a beer to those freed Iranian hostages.”
 
 ## S4 E10 — Lisa's First Word
-URL: https://watchwiththekids.com/ep/simpsons/0410.html
+URL: https://watchwiththekids.com/ep/simpsons/0410
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -817,7 +817,7 @@ Watch for:
   - [Mild] Homer Simpson: “Here, Bart, you can hold my beer.”
 
 ## S4 E11 — Homer's Triple Bypass
-URL: https://watchwiththekids.com/ep/simpsons/0411.html
+URL: https://watchwiththekids.com/ep/simpsons/0411
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -834,7 +834,7 @@ Watch for:
   - [Mild] Apu Nahasapeemapetilon: “Would you like some vodka with that?”
 
 ## S4 E12 — Marge vs. the Monorail
-URL: https://watchwiththekids.com/ep/simpsons/0412.html
+URL: https://watchwiththekids.com/ep/simpsons/0412
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -847,7 +847,7 @@ Watch for:
   - [Mild] Homer Simpson: “Does whiskey count as beer?”
 
 ## S4 E13 — Selma's Choice
-URL: https://watchwiththekids.com/ep/simpsons/0413.html
+URL: https://watchwiththekids.com/ep/simpsons/0413
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -867,7 +867,7 @@ Watch for:
   - [Mild] Bart Simpson: “(READING SIGN) "Beer Goggles - See the World Through the Eyes of a Drunk."”
 
 ## S4 E14 — Brother from the Same Planet
-URL: https://watchwiththekids.com/ep/simpsons/0414.html
+URL: https://watchwiththekids.com/ep/simpsons/0414
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -878,7 +878,7 @@ Watch for:
   - [Mild] Bart Simpson: “Another beer, Dad?”
 
 ## S4 E15 — I Love Lisa
-URL: https://watchwiththekids.com/ep/simpsons/0415.html
+URL: https://watchwiththekids.com/ep/simpsons/0415
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 3 moment(s)
@@ -890,7 +890,7 @@ Watch for:
   - [Caution] Lisa Simpson: “Dear, dear George Washington. Can this liberty you dream of be worth all this bloodshed?”
 
 ## S4 E16 — Duffless
-URL: https://watchwiththekids.com/ep/simpsons/0416.html
+URL: https://watchwiththekids.com/ep/simpsons/0416
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -901,7 +901,7 @@ Watch for:
   - [Mild] Homer Simpson: “Barney, give me your keys. You're too drunk to drive.”
 
 ## S4 E17 — Last Exit to Springfield
-URL: https://watchwiththekids.com/ep/simpsons/0417.html
+URL: https://watchwiththekids.com/ep/simpsons/0417
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -916,7 +916,7 @@ Watch for:
   - [Mild] Lenny Leonard: “(RAISING BEER GLASS) So long dental plan!”
 
 ## S4 E18 — So It's Come to This: A Simpsons Clip Show
-URL: https://watchwiththekids.com/ep/simpsons/0418.html
+URL: https://watchwiththekids.com/ep/simpsons/0418
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -927,7 +927,7 @@ Watch for:
   - [Mild] Bart Simpson: “(TO SELF) Beer! Beer is the cheese. But how to use it...”
 
 ## S4 E19 — The Front
-URL: https://watchwiththekids.com/ep/simpsons/0419.html
+URL: https://watchwiththekids.com/ep/simpsons/0419
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -940,7 +940,7 @@ Watch for:
   - [Mild] Homer Simpson: “All right, brain, you don't like me and I don't like you. But let's just do this and I can get back to killing you with beer.”
 
 ## S4 E20 — Whacking Day
-URL: https://watchwiththekids.com/ep/simpsons/0420.html
+URL: https://watchwiththekids.com/ep/simpsons/0420
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -955,7 +955,7 @@ Watch for:
   - [Mild] Marge Simpson: “Hello, Barney. Are you playing the town drunk?”
 
 ## S4 E21 — Marge in Chains
-URL: https://watchwiththekids.com/ep/simpsons/0421.html
+URL: https://watchwiththekids.com/ep/simpsons/0421
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -972,7 +972,7 @@ Watch for:
   - [Caution] Homer Simpson: “Gotta get a juicer. Gonna drink juice, lose weight. Won't get chest pain from answering the phone anymore.”
 
 ## S4 E22 — Krusty Gets Kancelled
-URL: https://watchwiththekids.com/ep/simpsons/0422.html
+URL: https://watchwiththekids.com/ep/simpsons/0422
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -986,7 +986,7 @@ Watch for:
   - [Caution] Krusty the Clown: “Oh, you got it. (HITTING NOISE) Ow. (HITTING NOISE) Ow. (REALIZING) Ew, blood.”
 
 ## S5 E1 — Homer's Barbershop Quartet
-URL: https://watchwiththekids.com/ep/simpsons/0501.html
+URL: https://watchwiththekids.com/ep/simpsons/0501
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -999,7 +999,7 @@ Watch for:
   - [Mild] Barney Gumble: “I'd like a beer Moe.”
 
 ## S5 E2 — Cape Feare
-URL: https://watchwiththekids.com/ep/simpsons/0502.html
+URL: https://watchwiththekids.com/ep/simpsons/0502
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1010,7 +1010,7 @@ Watch for:
   - [Caution] Schoolyard Girls: “(LAUGH, THEN SING-SONG) Fatty fat fat fat! Fatty fatty fat fat!”
 
 ## S5 E3 — Homer Goes to College
-URL: https://watchwiththekids.com/ep/simpsons/0503.html
+URL: https://watchwiththekids.com/ep/simpsons/0503
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1022,7 +1022,7 @@ Watch for:
   - [Mild] Homer Simpson: “Aah, the college road trip. What better way to spread beer-fueled mayhem?”
 
 ## S5 E4 — Rosebud
-URL: https://watchwiththekids.com/ep/simpsons/0504.html
+URL: https://watchwiththekids.com/ep/simpsons/0504
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1035,7 +1035,7 @@ Watch for:
   - [Mild] C. Montgomery Burns: “All beer trucks heading towards Springfield have been diverted.”
 
 ## S5 E5 — Treehouse of Horror IV
-URL: https://watchwiththekids.com/ep/simpsons/0505.html
+URL: https://watchwiththekids.com/ep/simpsons/0505
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -1048,7 +1048,7 @@ Watch for:
   - [Mild] Homer Simpson: “Oh, Lisa, you and your stories. Bart is a vampire, beer kills brain cells. Now let's go back to that... building... thingee... where our beds and TV... is.”
 
 ## S5 E6 — Marge on the Lam
-URL: https://watchwiththekids.com/ep/simpsons/0506.html
+URL: https://watchwiththekids.com/ep/simpsons/0506
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1061,7 +1061,7 @@ Watch for:
   - [Mild] Otto Mann: “(SHATTERING REALIZATION) Oh, wow... I've wasted my life.”
 
 ## S5 E7 — Bart's Inner Child
-URL: https://watchwiththekids.com/ep/simpsons/0507.html
+URL: https://watchwiththekids.com/ep/simpsons/0507
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1077,7 +1077,7 @@ Watch for:
   - [Mild] TROY: “A few weeks ago I was a washed up actor with a drinking problem. Then Brad Goodman came along and gave me this job and a can of fortified wine.”
 
 ## S5 E8 — Boy-Scoutz 'n the Hood
-URL: https://watchwiththekids.com/ep/simpsons/0508.html
+URL: https://watchwiththekids.com/ep/simpsons/0508
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1091,7 +1091,7 @@ Watch for:
   - [Mild] Lou: “Nothing, Captain. Somebody took all the beer and coldcuts.”
 
 ## S5 E9 — The Last Temptation of Homer
-URL: https://watchwiththekids.com/ep/simpsons/0509.html
+URL: https://watchwiththekids.com/ep/simpsons/0509
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1105,7 +1105,7 @@ Watch for:
   - [Mild] Homer Simpson: “(MOANS) Okay, so we have one thing in common. (SLYLY) But you know what I hate? Drinking beer and watching TV.”
 
 ## S5 E10 — $pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)
-URL: https://watchwiththekids.com/ep/simpsons/0510.html
+URL: https://watchwiththekids.com/ep/simpsons/0510
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1119,7 +1119,7 @@ Watch for:
   - [Mild] Barney Gumble: “Wow, free beer.”
 
 ## S5 E11 — Homer the Vigilante
-URL: https://watchwiththekids.com/ep/simpsons/0511.html
+URL: https://watchwiththekids.com/ep/simpsons/0511
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1133,7 +1133,7 @@ Watch for:
   - [Mild] Homer Simpson: “Asleep at the switch! I wasn't asleep! I was drunk!”
 
 ## S5 E12 — Bart Gets Famous
-URL: https://watchwiththekids.com/ep/simpsons/0512.html
+URL: https://watchwiththekids.com/ep/simpsons/0512
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1143,7 +1143,7 @@ Watch for:
   - [Mild] Martin Prince: “(SINGING TOGETHER) FIFTY-SIX BOXES OF BOTTLES OF BEER ON THE WALL / FIFTY-SIX BOXES OF BOTTLES OF BEER / YOU TAKE ONE DOWN AND PASS IT A-ROUND/ FIFTY-FIVE BOXES OF BOTTLES OF BEER ON THE WALL!”
 
 ## S5 E13 — Homer and Apu
-URL: https://watchwiththekids.com/ep/simpsons/0513.html
+URL: https://watchwiththekids.com/ep/simpsons/0513
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1151,7 +1151,7 @@ Watch for:
   - [Caution] James Woods: “(STRUGGLING WITH KNIFE) ...no good motha... (BLEEP BLEEP BLEEP) cheese. Not you... just talkin' to my oven.”
 
 ## S5 E14 — Lisa vs. Malibu Stacy
-URL: https://watchwiththekids.com/ep/simpsons/0514.html
+URL: https://watchwiththekids.com/ep/simpsons/0514
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1160,7 +1160,7 @@ Watch for:
   - [Mild] Stacy Lovell: “Not now, I'm too drunk.”
 
 ## S5 E15 — Deep Space Homer
-URL: https://watchwiththekids.com/ep/simpsons/0515.html
+URL: https://watchwiththekids.com/ep/simpsons/0515
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1173,7 +1173,7 @@ Watch for:
   - [Mild] Dr. Babcock: “I don't understand it. That was non-alcoholic champagne.”
 
 ## S5 E16 — Homer Loves Flanders
-URL: https://watchwiththekids.com/ep/simpsons/0516.html
+URL: https://watchwiththekids.com/ep/simpsons/0516
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1186,7 +1186,7 @@ Watch for:
   - [Caution] Chief Wiggum: “(WAVING AND POINTING) High as a kite, everybody! Goofballs”
 
 ## S5 E17 — Bart Gets an Elephant
-URL: https://watchwiththekids.com/ep/simpsons/0517.html
+URL: https://watchwiththekids.com/ep/simpsons/0517
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1198,14 +1198,14 @@ Watch for:
   - [Mild] Homer Simpson: “Son, when you participate in sporting events, it's not whether you win or lose. It's how drunk you get.”
 
 ## S5 E18 — Burns' Heir
-URL: https://watchwiththekids.com/ep/simpsons/0518.html
+URL: https://watchwiththekids.com/ep/simpsons/0518
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] C. Montgomery Burns: “(PENSIVE) Smithers, do you realize, if I had died there would be no one to carry on my legacy? Due to my hectic schedule and lethargic sperm, I never fathered an heir.”
 
 ## S5 E19 — Sweet Seymour Skinner's Baadasssss Song
-URL: https://watchwiththekids.com/ep/simpsons/0519.html
+URL: https://watchwiththekids.com/ep/simpsons/0519
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1220,7 +1220,7 @@ Watch for:
   - [Mild] Seymour Skinner: “Bum-ba-bum-bum! Ba-ba-ba-bum! (SEES BART) Now a little more allegro than last time. Bart! Welcome! Can I offer you a Diet Caffeine-Free Dr. Pepper or an individual fruit cocktail cup?”
 
 ## S5 E20 — The Boy Who Knew Too Much
-URL: https://watchwiththekids.com/ep/simpsons/0520.html
+URL: https://watchwiththekids.com/ep/simpsons/0520
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1228,7 +1228,7 @@ Watch for:
   - [Mild] Kent Brockman: “"Beat Up Waiter." (MAKES A DISGUSTED FACE) This reporter suggested "Waiter Gate" but was shouted down at the press club.”
 
 ## S5 E21 — Lady Bouvier's Lover
-URL: https://watchwiththekids.com/ep/simpsons/0521.html
+URL: https://watchwiththekids.com/ep/simpsons/0521
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1243,7 +1243,7 @@ Watch for:
   - [Mild] C. Montgomery Burns: “Now, my dear, if you look in your champagne, I think you'll find a little surprise...”
 
 ## S5 E22 — Secrets of a Successful Marriage
-URL: https://watchwiththekids.com/ep/simpsons/0522.html
+URL: https://watchwiththekids.com/ep/simpsons/0522
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -1251,7 +1251,7 @@ Watch for:
   - [Mild] Marge Simpson: “(OUTRAGED) That's because you were drunk!”
 
 ## S6 E1 — Bart of Darkness
-URL: https://watchwiththekids.com/ep/simpsons/0601.html
+URL: https://watchwiththekids.com/ep/simpsons/0601
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1266,7 +1266,7 @@ Watch for:
   - [Caution] Ned Flanders: “(WOMAN'S BLOOD-CURDLING SCREAM)”
 
 ## S6 E2 — Lisa's Rival
-URL: https://watchwiththekids.com/ep/simpsons/0602.html
+URL: https://watchwiththekids.com/ep/simpsons/0602
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1275,7 +1275,7 @@ Watch for:
   - [Too much] Allison: “See, this is the bedroom where the old man was murdered.”
 
 ## S6 E3 — Another Simpsons Clip Show
-URL: https://watchwiththekids.com/ep/simpsons/0603.html
+URL: https://watchwiththekids.com/ep/simpsons/0603
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1288,7 +1288,7 @@ Watch for:
   - [Mild] Marge Simpson: “It's nine thirty p.m. and you spent your whole Saturday drinking beer in Maggie's kiddy pool.”
 
 ## S6 E4 — Itchy & Scratchy Land
-URL: https://watchwiththekids.com/ep/simpsons/0604.html
+URL: https://watchwiththekids.com/ep/simpsons/0604
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1297,7 +1297,7 @@ Watch for:
   - [Mild] French Ticket Taker: “Hello! Itchy and Scratchy land open for business. Who are you to resist it, huh? C'mon! My last paycheck bounced. My children need wine! (FRENCH RANTING)”
 
 ## S6 E5 — Sideshow Bob Roberts
-URL: https://watchwiththekids.com/ep/simpsons/0605.html
+URL: https://watchwiththekids.com/ep/simpsons/0605
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1309,7 +1309,7 @@ Watch for:
   - [Mild] Birch Barlow: “Now why are we doomed to this Quimby quagmire, you ask, o reasonable listener? Because this town is under the stranglehold of a few tie-dyed tree huggers who would rather play hackey-sack than lock up the homeless.”
 
 ## S6 E6 — Treehouse of Horror V
-URL: https://watchwiththekids.com/ep/simpsons/0606.html
+URL: https://watchwiththekids.com/ep/simpsons/0606
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1327,7 +1327,7 @@ Watch for:
   - [Mild] Homer Simpson: “(PLEASANTLY) Hm, cable's out... Think I'll have a beer.”
 
 ## S6 E7 — Bart's Girlfriend
-URL: https://watchwiththekids.com/ep/simpsons/0607.html
+URL: https://watchwiththekids.com/ep/simpsons/0607
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1336,7 +1336,7 @@ Watch for:
   - [Caution] Seymour Skinner: “I smelled some marijuana smoke in Vietnam.”
 
 ## S6 E8 — Lisa on Ice
-URL: https://watchwiththekids.com/ep/simpsons/0608.html
+URL: https://watchwiththekids.com/ep/simpsons/0608
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1348,7 +1348,7 @@ Watch for:
   - [Mild] Homer Simpson: “Beer. Oh, Marge, I love you!”
 
 ## S6 E9 — Homer Badman
-URL: https://watchwiththekids.com/ep/simpsons/0609.html
+URL: https://watchwiththekids.com/ep/simpsons/0609
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1359,7 +1359,7 @@ Watch for:
   - [Mild] Young Babysitter: “No, Mr. Simpson. That's sexual harassment. If you keep it up, I'll yell so loud the whole country'll hear.”
 
 ## S6 E10 — Grampa vs. Sexual Inadequacy
-URL: https://watchwiththekids.com/ep/simpsons/0610.html
+URL: https://watchwiththekids.com/ep/simpsons/0610
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1374,7 +1374,7 @@ Watch for:
   - [Caution] Grampa Simpson: “(FAST) And just feast your ears on this tantalizing testimonial from my own flesh and blood, the son who puts the fun in "Simpson & Son" -- my son, Barney!”
 
 ## S6 E11 — Fear of Flying
-URL: https://watchwiththekids.com/ep/simpsons/0611.html
+URL: https://watchwiththekids.com/ep/simpsons/0611
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -1383,7 +1383,7 @@ Watch for:
   - [Mild] Norm: “Just give me another beer, you brain dead hick.”
 
 ## S6 E12 — Homer the Great
-URL: https://watchwiththekids.com/ep/simpsons/0612.html
+URL: https://watchwiththekids.com/ep/simpsons/0612
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1397,7 +1397,7 @@ Watch for:
   - [Mild] Homer Simpson: “So instead of just shooting pool and drinking beer, let us Stonecutters use what we have to help the less fortunate.”
 
 ## S6 E13 — And Maggie Makes Three
-URL: https://watchwiththekids.com/ep/simpsons/0613.html
+URL: https://watchwiththekids.com/ep/simpsons/0613
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1405,12 +1405,12 @@ Watch for:
   - [Caution] “Sperm #2: (ANNOYED GRUNT)”
 
 ## S6 E14 — Bart's Comet
-URL: https://watchwiththekids.com/ep/simpsons/0614.html
+URL: https://watchwiththekids.com/ep/simpsons/0614
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S6 E15 — Homie the Clown
-URL: https://watchwiththekids.com/ep/simpsons/0615.html
+URL: https://watchwiththekids.com/ep/simpsons/0615
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1427,7 +1427,7 @@ Watch for:
   - [Mild] Marge Simpson: “I think I'll have some wine.”
 
 ## S6 E16 — Bart vs. Australia
-URL: https://watchwiththekids.com/ep/simpsons/0616.html
+URL: https://watchwiththekids.com/ep/simpsons/0616
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1440,7 +1440,7 @@ Watch for:
   - [Mild] “Bartender: Beer?”
 
 ## S6 E17 — Homer vs. Patty and Selma
-URL: https://watchwiththekids.com/ep/simpsons/0617.html
+URL: https://watchwiththekids.com/ep/simpsons/0617
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1452,7 +1452,7 @@ Watch for:
   - [Mild] Carl Carlson: “Homer, quit wallowing in self-pity. Pull yourself together and come get drunk with us.”
 
 ## S6 E18 — A Star Is Burns
-URL: https://watchwiththekids.com/ep/simpsons/0618.html
+URL: https://watchwiththekids.com/ep/simpsons/0618
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1465,7 +1465,7 @@ Watch for:
   - [Mild] Mayor Joe Quimby: “Congratulations, Barney. And enjoy your grand prize: a lifetime supply of Duff Beer.”
 
 ## S6 E19 — Lisa's Wedding
-URL: https://watchwiththekids.com/ep/simpsons/0619.html
+URL: https://watchwiththekids.com/ep/simpsons/0619
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1480,7 +1480,7 @@ Watch for:
   - [Mild] Homer Simpson: “Will that girl ever shut up? Okay, Marge. I'll plan everything. We can have the reception at Moe's. Wait, why not have the whole wedding there? We'll do it on a Monday morning -- there'll be fewer drunks.”
 
 ## S6 E20 — Two Dozen and One Greyhounds
-URL: https://watchwiththekids.com/ep/simpsons/0620.html
+URL: https://watchwiththekids.com/ep/simpsons/0620
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1495,7 +1495,7 @@ Watch for:
   - [Mild] Rev. Timothy Lovejoy: “See you in hell! (EXITS; THEN STICKS HIS HEAD BACK IN THE DOOR) From heaven. (EXITS SLAMMING DOOR)”
 
 ## S6 E21 — The PTA Disbands
-URL: https://watchwiththekids.com/ep/simpsons/0621.html
+URL: https://watchwiththekids.com/ep/simpsons/0621
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1503,7 +1503,7 @@ Watch for:
   - [Caution] “Soldier #4: Use your phony guns as clubs!”
 
 ## S6 E22 — 'Round Springfield
-URL: https://watchwiththekids.com/ep/simpsons/0622.html
+URL: https://watchwiththekids.com/ep/simpsons/0622
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1515,7 +1515,7 @@ Watch for:
   - [Caution] Rev. Timothy Lovejoy: “(REPULSED NOISE) Anyway, Bloody Gums Murphy was quite the sousaphone player.”
 
 ## S6 E23 — The Springfield Connection
-URL: https://watchwiththekids.com/ep/simpsons/0623.html
+URL: https://watchwiththekids.com/ep/simpsons/0623
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1531,7 +1531,7 @@ Watch for:
   - [Mild] Barney Gumble: “Hey, Homer, I'm worried about the beer supply. After this case and the other case, there's only one case left.”
 
 ## S6 E24 — Lemon of Troy
-URL: https://watchwiththekids.com/ep/simpsons/0624.html
+URL: https://watchwiththekids.com/ep/simpsons/0624
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1540,7 +1540,7 @@ Watch for:
   - [Mild] Backpack Kid: “What is it boy? Is there something behind that wall we should beat up?”
 
 ## S6 E25 — Who Shot Mr. Burns? (Part One)
-URL: https://watchwiththekids.com/ep/simpsons/0625.html
+URL: https://watchwiththekids.com/ep/simpsons/0625
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1556,7 +1556,7 @@ Watch for:
   - [Mild] Larry: “(DRUNK SOUND, COLLAPSES, BODY FALL)”
 
 ## S7 E1 — Who Shot Mr. Burns? (Part Two)
-URL: https://watchwiththekids.com/ep/simpsons/0701.html
+URL: https://watchwiththekids.com/ep/simpsons/0701
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -1573,7 +1573,7 @@ Watch for:
   - [Mild] Waylon Smithers: “(STRUGGLING SOUNDS) (DRUNK) Out of my way. I'm in a hurry.”
 
 ## S7 E2 — Radioactive Man
-URL: https://watchwiththekids.com/ep/simpsons/0702.html
+URL: https://watchwiththekids.com/ep/simpsons/0702
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 3 moment(s)
@@ -1585,7 +1585,7 @@ Watch for:
   - [Mild] Lisa Simpson: “Cheer up, Bart. Milhouse is still gonna need a true friend. Someone to tell him he's great, someone to rub lotion on him, someone to hurl whiskey bottles at when he's feeling low.”
 
 ## S7 E3 — Home Sweet Homediddly-Dum-Doodily
-URL: https://watchwiththekids.com/ep/simpsons/0703.html
+URL: https://watchwiththekids.com/ep/simpsons/0703
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1601,7 +1601,7 @@ Watch for:
   - [Mild] Rev. Timothy Lovejoy: “Damn Flanders.”
 
 ## S7 E4 — Bart Sells His Soul
-URL: https://watchwiththekids.com/ep/simpsons/0704.html
+URL: https://watchwiththekids.com/ep/simpsons/0704
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1617,7 +1617,7 @@ Watch for:
   - [Mild] Bart Simpson: “(GROANS) I wasted five bucks on these.”
 
 ## S7 E5 — Lisa the Vegetarian
-URL: https://watchwiththekids.com/ep/simpsons/0705.html
+URL: https://watchwiththekids.com/ep/simpsons/0705
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -1627,7 +1627,7 @@ Watch for:
   - [Mild] Lisa Simpson: “Wow, a secret staircase? But what do you do if somebody wants a non-alcoholic beer?”
 
 ## S7 E6 — Treehouse of Horror VI
-URL: https://watchwiththekids.com/ep/simpsons/0706.html
+URL: https://watchwiththekids.com/ep/simpsons/0706
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1638,7 +1638,7 @@ Watch for:
   - [Mild] College Students: “Beer me, dude! / Party on, Tex! / Yeah, let's party, baby! (AD LIB, ETC.)”
 
 ## S7 E7 — King-Size Homer
-URL: https://watchwiththekids.com/ep/simpsons/0707.html
+URL: https://watchwiththekids.com/ep/simpsons/0707
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1653,7 +1653,7 @@ Watch for:
   - [Caution] Moviegoer: “Hey, Fatty! I got a movie for ya -- "A Fridge Too Far."”
 
 ## S7 E8 — Mother Simpson
-URL: https://watchwiththekids.com/ep/simpsons/0708.html
+URL: https://watchwiththekids.com/ep/simpsons/0708
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1662,7 +1662,7 @@ Watch for:
   - [Too much] C. Montgomery Burns: “Smithers, who was that corpse?”
 
 ## S7 E9 — Sideshow Bob's Last Gleaming
-URL: https://watchwiththekids.com/ep/simpsons/0709.html
+URL: https://watchwiththekids.com/ep/simpsons/0709
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1680,7 +1680,7 @@ Watch for:
   - [Mild] Chief Wiggum: “(WORRIED) Oh, great. Well... if anyone asks, uh, I beat him to death, okay?”
 
 ## S7 E10 — The Simpsons 138th Episode Spectacular
-URL: https://watchwiththekids.com/ep/simpsons/0710.html
+URL: https://watchwiththekids.com/ep/simpsons/0710
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1693,7 +1693,7 @@ Watch for:
   - [Mild] Troy McClure: “Yes, the Simpsons have come a long way since an old drunk made humans out of his rabbit characters to pay off his gambling debts.”
 
 ## S7 E11 — Marge Be Not Proud
-URL: https://watchwiththekids.com/ep/simpsons/0711.html
+URL: https://watchwiththekids.com/ep/simpsons/0711
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1703,7 +1703,7 @@ Watch for:
   - [Mild] Homer Simpson: “(MAKES A SERIES OF SOUND EFFECTS THAT DON'T SOUND LIKE ANYTHING) (CHUCKLES) Where was I? Oh yeah, stay out of my booze!”
 
 ## S7 E12 — Team Homer
-URL: https://watchwiththekids.com/ep/simpsons/0712.html
+URL: https://watchwiththekids.com/ep/simpsons/0712
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1715,7 +1715,7 @@ Watch for:
   - [Mild] Al: “Those beers are five dollars apiece.”
 
 ## S7 E13 — Two Bad Neighbors
-URL: https://watchwiththekids.com/ep/simpsons/0713.html
+URL: https://watchwiththekids.com/ep/simpsons/0713
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1727,7 +1727,7 @@ Watch for:
   - [Mild] Gerald Ford: “Well, why don't you come over and watch the game and we'll have nachos. And then some beer.”
 
 ## S7 E14 — Scenes from the Class Struggle in Springfield
-URL: https://watchwiththekids.com/ep/simpsons/0714.html
+URL: https://watchwiththekids.com/ep/simpsons/0714
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1740,7 +1740,7 @@ Watch for:
   - [Mild] “Dorothy Parker-ish Socialite: I hope she didn't take my attempt to destroy her too seriously. (SWIGS A GLASS OF CHAMPAGNE)”
 
 ## S7 E15 — Bart the Fink
-URL: https://watchwiththekids.com/ep/simpsons/0715.html
+URL: https://watchwiththekids.com/ep/simpsons/0715
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1755,7 +1755,7 @@ Watch for:
   - [Mild] Krusty the Clown: “Respect?! (SPITS RUDELY) What good is respect without the moolah to back it up? (SADLY) Everywhere I go I see teachers in Ferraris, research scientists drinking champagne.”
 
 ## S7 E16 — Lisa the Iconoclast
-URL: https://watchwiththekids.com/ep/simpsons/0716.html
+URL: https://watchwiththekids.com/ep/simpsons/0716
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -1768,7 +1768,7 @@ Watch for:
   - [Caution] Moe Szyslak: “(UNDER HIS BREATH) "Evil blood-thirsty pirate"... Hello, Town Jubilation Committee? I got something that's going to make you a lot less jubilant.”
 
 ## S7 E17 — Homer the Smithers
-URL: https://watchwiththekids.com/ep/simpsons/0717.html
+URL: https://watchwiththekids.com/ep/simpsons/0717
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1785,7 +1785,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Uh, yeah, I need someone to help me with the midnight beer delivery. Your job is to distract Barney until it's safely off the truck.”
 
 ## S7 E18 — The Day the Violence Died
-URL: https://watchwiththekids.com/ep/simpsons/0718.html
+URL: https://watchwiththekids.com/ep/simpsons/0718
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1796,7 +1796,7 @@ Watch for:
   - [Mild] Homer Simpson: “Bye, kids. On your way back, pick up a six pack of beer.”
 
 ## S7 E19 — A Fish Called Selma
-URL: https://watchwiththekids.com/ep/simpsons/0719.html
+URL: https://watchwiththekids.com/ep/simpsons/0719
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -1805,7 +1805,7 @@ Watch for:
   - [Mild] Selma Bouvier: “(HELPFUL) Would you like some wine?”
 
 ## S7 E20 — Bart on the Road
-URL: https://watchwiththekids.com/ep/simpsons/0720.html
+URL: https://watchwiththekids.com/ep/simpsons/0720
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1815,7 +1815,7 @@ Watch for:
   - [Mild] Bart Simpson: “(JOVIAL) Are you kidding? I take it as a compliment! (CHUCKLE) Three beers, please!”
 
 ## S7 E21 — 22 Short Films About Springfield
-URL: https://watchwiththekids.com/ep/simpsons/0721.html
+URL: https://watchwiththekids.com/ep/simpsons/0721
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -1824,7 +1824,7 @@ Watch for:
   - [Mild] Bumblebee Man: “(SADLY) Donde esta mi tequila?”
 
 ## S7 E22 — Raging Abe Simpson and His Grumbling Grandson in "The Curse of the Flying Hellfish"
-URL: https://watchwiththekids.com/ep/simpsons/0722.html
+URL: https://watchwiththekids.com/ep/simpsons/0722
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1834,7 +1834,7 @@ Watch for:
   - [Caution] Grampa Simpson: “What're you cackling at, Fatty? Too much pie, that's your problem!”
 
 ## S7 E23 — Much Apu About Nothing
-URL: https://watchwiththekids.com/ep/simpsons/0723.html
+URL: https://watchwiththekids.com/ep/simpsons/0723
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1844,7 +1844,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SCREAMS, THEN DETERMINED) All right, that does it. If I'm gonna be trapped inside the house I gotta go out and buy some beer.”
 
 ## S7 E24 — Homerpalooza
-URL: https://watchwiththekids.com/ep/simpsons/0724.html
+URL: https://watchwiththekids.com/ep/simpsons/0724
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1854,7 +1854,7 @@ Watch for:
   - [Too much] Suicide Notes: Ext. "SUICIDE NOTES" RECORD STORE
 
 ## S7 E25 — Summer of 4 Ft. 2
-URL: https://watchwiththekids.com/ep/simpsons/0725.html
+URL: https://watchwiththekids.com/ep/simpsons/0725
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1869,7 +1869,7 @@ Watch for:
   - [Mild] Homer Simpson: “(BEAT, THEN GASP) The beer!”
 
 ## S8 E1 — Treehouse of Horror VII
-URL: https://watchwiththekids.com/ep/simpsons/0801.html
+URL: https://watchwiththekids.com/ep/simpsons/0801
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1885,14 +1885,14 @@ Watch for:
   - [Caution] Fat Man: “Why am I so fat?”
 
 ## S8 E2 — You Only Move Twice
-URL: https://watchwiththekids.com/ep/simpsons/0802.html
+URL: https://watchwiththekids.com/ep/simpsons/0802
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Marge Simpson: “I've been so bored since we moved here, I've found myself drinking a glass of wine every day. I know doctors say you should drink a glass and a half, but I just can't drink that much.”
 
 ## S8 E3 — The Homer They Fall
-URL: https://watchwiththekids.com/ep/simpsons/0803.html
+URL: https://watchwiththekids.com/ep/simpsons/0803
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1910,7 +1910,7 @@ Watch for:
   - [Caution] Lenny Leonard: “Man, that tramp's got the energy of a hobo!”
 
 ## S8 E4 — Burns, Baby Burns
-URL: https://watchwiththekids.com/ep/simpsons/0804.html
+URL: https://watchwiththekids.com/ep/simpsons/0804
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1924,7 +1924,7 @@ Watch for:
   - [Mild] Larry: “(BUILDING) I gotta clean up my act: no more jokin' around all the time, no more slackin' off at work, and most important, no more booze. I know I can do it.”
 
 ## S8 E5 — Bart After Dark
-URL: https://watchwiththekids.com/ep/simpsons/0805.html
+URL: https://watchwiththekids.com/ep/simpsons/0805
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1935,7 +1935,7 @@ Watch for:
   - [Mild] Grampa Simpson: “In that case, I'll have a whiskey sour.”
 
 ## S8 E6 — A Milhouse Divided
-URL: https://watchwiththekids.com/ep/simpsons/0806.html
+URL: https://watchwiththekids.com/ep/simpsons/0806
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1951,7 +1951,7 @@ Watch for:
   - [Mild] Kirk Van Houten: “Uh, singles life is great, Homer. I can do whatever I want. (BEAT) Today I drank a beer in the bathroom.”
 
 ## S8 E7 — Lisa's Date with Density
-URL: https://watchwiththekids.com/ep/simpsons/0807.html
+URL: https://watchwiththekids.com/ep/simpsons/0807
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
@@ -1960,7 +1960,7 @@ Watch for:
   - [Caution] Jimbo Jones: “That is so gay!”
 
 ## S8 E8 — Hurricane Neddy
-URL: https://watchwiththekids.com/ep/simpsons/0808.html
+URL: https://watchwiththekids.com/ep/simpsons/0808
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1971,7 +1971,7 @@ Watch for:
   - [Mild] Ned Flanders: “hostility-ilitity-bility-dility -- (SNAPPING) Aw, hell, diddly-ding-dong-crap!”
 
 ## S8 E9 — El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)
-URL: https://watchwiththekids.com/ep/simpsons/0809.html
+URL: https://watchwiththekids.com/ep/simpsons/0809
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 7 moment(s)
@@ -1984,7 +1984,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SWEETLY) Oh, honey, I didn't get drunk. I just went to a strange fantasy world. (BEAT, NO RESPONSE) C'mon, you gotta believe me. You're my soul mate.”
 
 ## S8 E10 — The Springfield Files
-URL: https://watchwiththekids.com/ep/simpsons/0810.html
+URL: https://watchwiththekids.com/ep/simpsons/0810
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1997,7 +1997,7 @@ Watch for:
   - [Mild] Bart Simpson: “Yo, Dad, can I have a sip of your beer?”
 
 ## S8 E11 — The Twisted World of Marge Simpson
-URL: https://watchwiththekids.com/ep/simpsons/0811.html
+URL: https://watchwiththekids.com/ep/simpsons/0811
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2006,7 +2006,7 @@ Watch for:
   - [Caution] Agnes Skinner: “(DISGUSTED) Children are so fat today. Isn't there some way we could make money off that?”
 
 ## S8 E12 — Mountain of Madness
-URL: https://watchwiththekids.com/ep/simpsons/0812.html
+URL: https://watchwiththekids.com/ep/simpsons/0812
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2019,7 +2019,7 @@ Watch for:
   - [Mild] Ranger: “Quiet, you drunk. Where's Ranger McFadden?”
 
 ## S8 E13 — Simpsoncalifragilisticexpiala(Annoyed Grunt)cious
-URL: https://watchwiththekids.com/ep/simpsons/0813.html
+URL: https://watchwiththekids.com/ep/simpsons/0813
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -2037,7 +2037,7 @@ Watch for:
   - [Mild] SHARY: “(SINGING, DRUNKENLY) WASTED AWAY AGAIN IN MARGARITAVILLE...”
 
 ## S8 E14 — The Itchy & Scratchy & Poochie Show
-URL: https://watchwiththekids.com/ep/simpsons/0814.html
+URL: https://watchwiththekids.com/ep/simpsons/0814
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2045,7 +2045,7 @@ Watch for:
   - [Mild] Roy: “Good news, everybody! I'm moving into my own apartment with two sexy ladies.”
 
 ## S8 E15 — Homer's Phobia
-URL: https://watchwiththekids.com/ep/simpsons/0815.html
+URL: https://watchwiththekids.com/ep/simpsons/0815
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2057,7 +2057,7 @@ Watch for:
   - [Mild] John: “(EYEING IT) Hmm. Well, see... he--here's the thing on this. It's a Johnny Reb bottle, early 1970's. One of the J&R Whiskey "Liquor Lads." Two books of Green Stamps, if I'm not mistaken.”
 
 ## S8 E16 — Brother from Another Series
-URL: https://watchwiththekids.com/ep/simpsons/0816.html
+URL: https://watchwiththekids.com/ep/simpsons/0816
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -2071,7 +2071,7 @@ Watch for:
   - [Too much] Sideshow Bob: “(TURNING ON THE CHARM) I did once try to kill the world's greatest lover, but then I realized there are laws against suicide.”
 
 ## S8 E17 — My Sister, My Sitter
-URL: https://watchwiththekids.com/ep/simpsons/0817.html
+URL: https://watchwiththekids.com/ep/simpsons/0817
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2079,7 +2079,7 @@ Watch for:
   - [Mild] Chief Wiggum: “Uh, near as we can tell, the boy was studying quietly when the girl, drunk on her own sense of power, beat him silly with a block of frozen lima beans.”
 
 ## S8 E18 — Homer vs. the Eighteenth Amendment
-URL: https://watchwiththekids.com/ep/simpsons/0818.html
+URL: https://watchwiththekids.com/ep/simpsons/0818
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2102,7 +2102,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Look, find it, buy it, make it, I don't care. Just get me some booze, and fast!”
 
 ## S8 E19 — Grade School Confidential
-URL: https://watchwiththekids.com/ep/simpsons/0819.html
+URL: https://watchwiththekids.com/ep/simpsons/0819
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2119,14 +2119,14 @@ Watch for:
   - [Mild] Edna Krabappel-Flanders: “That's okay, I don't entertain much. Usually it's just soup for one, salad for one, wine for three...”
 
 ## S8 E20 — The Canine Mutiny
-URL: https://watchwiththekids.com/ep/simpsons/0820.html
+URL: https://watchwiththekids.com/ep/simpsons/0820
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] Lou: “(SNIFFS BAG) Marijuana!”
 
 ## S8 E21 — The Old Man and the Lisa
-URL: https://watchwiththekids.com/ep/simpsons/0821.html
+URL: https://watchwiththekids.com/ep/simpsons/0821
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2136,21 +2136,21 @@ Watch for:
   - [Mild] C. Montgomery Burns: “(SINCERE) I don't understand. Pigs need food, engines need coolant, dynamiters need dynamite. I'm supplying it to them, at a tidy profit, and not a single sea creature was wasted. You inspired it all, Li'l Lisa.”
 
 ## S8 E22 — In Marge We Trust
-URL: https://watchwiththekids.com/ep/simpsons/0822.html
+URL: https://watchwiththekids.com/ep/simpsons/0822
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Swearing — 1 moment(s)
   - [Caution] Mr. Sparkle: “Doke - Mina doke! Burabura shitero tokoro ja nai! Ore to issho ni nasu ka shinu ki ka?”
 
 ## S8 E23 — Homer's Enemy
-URL: https://watchwiththekids.com/ep/simpsons/0823.html
+URL: https://watchwiththekids.com/ep/simpsons/0823
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Lenny Leonard: “(SMALL CHUCKLE) He had three beers at lunch. That would make anybody sleepy.”
 
 ## S8 E24 — The Simpsons Spin-Off Showcase
-URL: https://watchwiththekids.com/ep/simpsons/0824.html
+URL: https://watchwiththekids.com/ep/simpsons/0824
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2169,14 +2169,14 @@ Watch for:
   - [Caution] Big Daddy: “De Chief! Ooh. I suppose I best to run. Lord o' mercy, I wish I weren't so fat.”
 
 ## S8 E25 — The Secret War of Lisa Simpson
-URL: https://watchwiththekids.com/ep/simpsons/0825.html
+URL: https://watchwiththekids.com/ep/simpsons/0825
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Homer Simpson: “(HESITANT) Well, Bart, uh, did you make sure to return all the guns?”
 
 ## S9 E1 — The City of New York vs. Homer Simpson
-URL: https://watchwiththekids.com/ep/simpsons/0901.html
+URL: https://watchwiththekids.com/ep/simpsons/0901
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2190,12 +2190,12 @@ Watch for:
   - [Too much] Fireworks Vendor: “Oh, no!! (CALLING UPSTAIRS) Chinese Fire Drill! Serious this time!!”
 
 ## S9 E2 — The Principal and the Pauper
-URL: https://watchwiththekids.com/ep/simpsons/0902.html
+URL: https://watchwiththekids.com/ep/simpsons/0902
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S9 E3 — Lisa's Sax
-URL: https://watchwiththekids.com/ep/simpsons/0903.html
+URL: https://watchwiththekids.com/ep/simpsons/0903
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2211,7 +2211,7 @@ Watch for:
   - [Too much] Homer Simpson: “(CHINESE ACCENT) Ah so.”
 
 ## S9 E4 — Treehouse of Horror VIII
-URL: https://watchwiththekids.com/ep/simpsons/0904.html
+URL: https://watchwiththekids.com/ep/simpsons/0904
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2222,7 +2222,7 @@ Watch for:
   - [Mild] Comic Book Guy: “(QUICKLY) Oh, I've wasted my life.”
 
 ## S9 E5 — The Cartridge Family
-URL: https://watchwiththekids.com/ep/simpsons/0905.html
+URL: https://watchwiththekids.com/ep/simpsons/0905
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2239,7 +2239,7 @@ Watch for:
   - [Mild] Homer Simpson: “Anyone else want a beer?”
 
 ## S9 E6 — Bart Star
-URL: https://watchwiththekids.com/ep/simpsons/0906.html
+URL: https://watchwiththekids.com/ep/simpsons/0906
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
@@ -2250,7 +2250,7 @@ Watch for:
   - [Caution] Female Voices: “(COMPUTERIZED) I'll scratch you. The hair. The hair. Slut. Loser. Skag. Skag. Skag.”
 
 ## S9 E7 — The Two Mrs. Nahasapeemapetilons
-URL: https://watchwiththekids.com/ep/simpsons/0907.html
+URL: https://watchwiththekids.com/ep/simpsons/0907
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2264,7 +2264,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Booze, booze and more booze.”
 
 ## S9 E8 — Lisa the Skeptic
-URL: https://watchwiththekids.com/ep/simpsons/0908.html
+URL: https://watchwiththekids.com/ep/simpsons/0908
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2273,7 +2273,7 @@ Watch for:
   - [Mild] Homer Simpson: “Pfft. That's what they said about this Billy Beer, smartypants.”
 
 ## S9 E9 — Realty Bites
-URL: https://watchwiththekids.com/ep/simpsons/0909.html
+URL: https://watchwiththekids.com/ep/simpsons/0909
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -2289,7 +2289,7 @@ Watch for:
   - [Caution] Snake Jailbird: “Gimme my car, fatty.”
 
 ## S9 E10 — Miracle on Evergreen Terrace
-URL: https://watchwiththekids.com/ep/simpsons/0910.html
+URL: https://watchwiththekids.com/ep/simpsons/0910
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2299,7 +2299,7 @@ Watch for:
   - [Mild] Homer Simpson: “(INTOXICATED SMILE) Aw, that's my girl. I love you, Marjorie.”
 
 ## S9 E11 — All Singing, All Dancing
-URL: https://watchwiththekids.com/ep/simpsons/0911.html
+URL: https://watchwiththekids.com/ep/simpsons/0911
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2310,7 +2310,7 @@ Watch for:
   - [Mild] Homer Simpson: “Wait, wait, wait. Here comes Lee Marvin. Thank God. He's always drunk and violent.”
 
 ## S9 E12 — Bart Carny
-URL: https://watchwiththekids.com/ep/simpsons/0912.html
+URL: https://watchwiththekids.com/ep/simpsons/0912
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2321,7 +2321,7 @@ Watch for:
   - [Caution] Carny: “(MOTIONING TO RIDE) Okay, let's go, fatty.”
 
 ## S9 E13 — The Joy of Sect
-URL: https://watchwiththekids.com/ep/simpsons/0913.html
+URL: https://watchwiththekids.com/ep/simpsons/0913
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2338,7 +2338,7 @@ Watch for:
   - [Caution] Movementarians: “Yeah, lose some weight! / Amen you're fat / moron-type (ETC.)”
 
 ## S9 E14 — Das Bus
-URL: https://watchwiththekids.com/ep/simpsons/0914.html
+URL: https://watchwiththekids.com/ep/simpsons/0914
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2349,7 +2349,7 @@ Watch for:
   - [Mild] Nelson Muntz: “Delicious wine?”
 
 ## S9 E15 — The Last Temptation of Krust
-URL: https://watchwiththekids.com/ep/simpsons/0915.html
+URL: https://watchwiththekids.com/ep/simpsons/0915
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2359,7 +2359,7 @@ Watch for:
   - [Caution] Krusty the Clown: “(INDIFFERENT SOUND) I learned something about myself tonight, kid. (THOUGHTFULLY) It ain't comedy that's in my blood. It's selling out.”
 
 ## S9 E16 — Dumbbell Indemnity
-URL: https://watchwiththekids.com/ep/simpsons/0916.html
+URL: https://watchwiththekids.com/ep/simpsons/0916
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2376,14 +2376,14 @@ Watch for:
   - [Mild] Lenny Leonard: “Moe, another beer down here!”
 
 ## S9 E17 — Lisa the Simpson
-URL: https://watchwiththekids.com/ep/simpsons/0917.html
+URL: https://watchwiththekids.com/ep/simpsons/0917
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Homer Simpson: “Marge, get me your address book, four beers, and my conversation hat.”
 
 ## S9 E18 — This Little Wiggy
-URL: https://watchwiththekids.com/ep/simpsons/0918.html
+URL: https://watchwiththekids.com/ep/simpsons/0918
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2398,7 +2398,7 @@ Watch for:
   - [Mild] Ralph Wiggum: “I know you. My Daddy took your beer.”
 
 ## S9 E19 — Simpson Tide
-URL: https://watchwiththekids.com/ep/simpsons/0919.html
+URL: https://watchwiththekids.com/ep/simpsons/0919
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2414,7 +2414,7 @@ Watch for:
   - [Mild] Captain Tenille: “I'll take care of it. (SIPS WINE) Oh, what the Hell -- Simpson, while I'm gone, you're in command.”
 
 ## S9 E20 — The Trouble with Trillions
-URL: https://watchwiththekids.com/ep/simpsons/0920.html
+URL: https://watchwiththekids.com/ep/simpsons/0920
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2425,7 +2425,7 @@ Watch for:
   - [Mild] Homer Simpson: “We'll hide out at my place. I've got beer.”
 
 ## S9 E21 — Girly Edition
-URL: https://watchwiththekids.com/ep/simpsons/0921.html
+URL: https://watchwiththekids.com/ep/simpsons/0921
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2433,7 +2433,7 @@ Watch for:
   - [Mild] Bart Simpson: “(STRANGLED NOISE)”
 
 ## S9 E22 — Trash of the Titans
-URL: https://watchwiththekids.com/ep/simpsons/0922.html
+URL: https://watchwiththekids.com/ep/simpsons/0922
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2446,7 +2446,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Whoa, whoa, hey, you didn't pay for the beer.”
 
 ## S9 E23 — King of the Hill
-URL: https://watchwiththekids.com/ep/simpsons/0923.html
+URL: https://watchwiththekids.com/ep/simpsons/0923
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2457,7 +2457,7 @@ Watch for:
   - [Too much] Rainier Wolfcastle: “Are you crazy? That's suicide.”
 
 ## S9 E24 — Lost Our Lisa
-URL: https://watchwiththekids.com/ep/simpsons/0924.html
+URL: https://watchwiththekids.com/ep/simpsons/0924
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -2465,7 +2465,7 @@ Watch for:
   - [Mild] Bart Simpson: “Ah. No day would be completely wasted without a visit to the old joke shop.”
 
 ## S9 E25 — Natural Born Kissers
-URL: https://watchwiththekids.com/ep/simpsons/0925.html
+URL: https://watchwiththekids.com/ep/simpsons/0925
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2479,7 +2479,7 @@ Watch for:
   - [Caution] Grampa Simpson: “... And that's why today, bananas are called "yellow fatty beans." Questions?”
 
 ## S10 E1 — Lard of the Dance
-URL: https://watchwiththekids.com/ep/simpsons/1001.html
+URL: https://watchwiththekids.com/ep/simpsons/1001
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2491,7 +2491,7 @@ Watch for:
   - [Mild] Lisa Simpson: “I don't want a date! And I don't want to wear perfume and cocktail dresses! Am I the only one who just wants to play hopscotch, and bake cookies, and watch "The McLaughlin Group?"”
 
 ## S10 E2 — The Wizard of Evergreen Terrace
-URL: https://watchwiththekids.com/ep/simpsons/1002.html
+URL: https://watchwiththekids.com/ep/simpsons/1002
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2507,7 +2507,7 @@ Watch for:
   - [Caution] Marge Simpson: “Homer, you've got it set on "Whore."”
 
 ## S10 E3 — Bart the Mother
-URL: https://watchwiththekids.com/ep/simpsons/1003.html
+URL: https://watchwiththekids.com/ep/simpsons/1003
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2524,7 +2524,7 @@ Watch for:
   - [Mild] Homer Simpson: “(STERN) All right, young lady. I want you to march yourself directly to the Kwik-E-Mart and get me some chips and a beer.”
 
 ## S10 E4 — Treehouse of Horror IX
-URL: https://watchwiththekids.com/ep/simpsons/1004.html
+URL: https://watchwiththekids.com/ep/simpsons/1004
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2550,7 +2550,7 @@ Watch for:
   - [Mild] Homer Simpson: “Shut your squeal hole, booze jockey. I'm gonna, like, totally waste you.”
 
 ## S10 E5 — When You Dish Upon a Star
-URL: https://watchwiththekids.com/ep/simpsons/1005.html
+URL: https://watchwiththekids.com/ep/simpsons/1005
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 4 moment(s)
@@ -2560,7 +2560,7 @@ Watch for:
   - [Mild] Ron Howard: “Homer, we're out of vodka.”
 
 ## S10 E6 — D'oh-in' in the Wind
-URL: https://watchwiththekids.com/ep/simpsons/1006.html
+URL: https://watchwiththekids.com/ep/simpsons/1006
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2575,7 +2575,7 @@ Watch for:
   - [Mild] Marge Simpson: “(ANNOYED) Hmf. I think you've had too much strawberry wine.”
 
 ## S10 E7 — Lisa Gets an "A"
-URL: https://watchwiththekids.com/ep/simpsons/1007.html
+URL: https://watchwiththekids.com/ep/simpsons/1007
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -2584,7 +2584,7 @@ Watch for:
   - [Mild] Bart Simpson: “I'm starving. Mom, can we go Catholic so we get communion wafers and booze?”
 
 ## S10 E8 — Homer Simpson in: "Kidney Trouble"
-URL: https://watchwiththekids.com/ep/simpsons/1008.html
+URL: https://watchwiththekids.com/ep/simpsons/1008
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2608,7 +2608,7 @@ Watch for:
   - [Caution] Tramp Steamer
 
 ## S10 E9 — Mayored to the Mob
-URL: https://watchwiththekids.com/ep/simpsons/1009.html
+URL: https://watchwiththekids.com/ep/simpsons/1009
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2622,7 +2622,7 @@ Watch for:
   - [Caution] C-3PO: “Ow! Ow! Stop! Please, save me, R2! (AS R2D2 RUNS AWAY BEEPING) Oh, you stupid little tramp! You're so boring! I hate you! Ow! Ow! Ow!”
 
 ## S10 E10 — Viva Ned Flanders
-URL: https://watchwiththekids.com/ep/simpsons/1010.html
+URL: https://watchwiththekids.com/ep/simpsons/1010
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2640,7 +2640,7 @@ Watch for:
   - [Caution] Ray Thomas: “(DRAWS SWORD-CANE, THEN ADVANCING) I want fatty.”
 
 ## S10 E11 — Wild Barts Can't Be Broken
-URL: https://watchwiththekids.com/ep/simpsons/1011.html
+URL: https://watchwiththekids.com/ep/simpsons/1011
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2657,7 +2657,7 @@ Watch for:
   - [Mild] Lisa Simpson: “Wow, you look really hungover, Dad. What did you do last night?”
 
 ## S10 E12 — Sunday, Cruddy Sunday
-URL: https://watchwiththekids.com/ep/simpsons/1012.html
+URL: https://watchwiththekids.com/ep/simpsons/1012
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2674,7 +2674,7 @@ Watch for:
   - [Caution] Krusty the Clown: “(INDIGNANT) "Legends of Comedy," my tuchis! What has Fatty Arbuckle done that I haven't done?”
 
 ## S10 E13 — Homer to the Max
-URL: https://watchwiththekids.com/ep/simpsons/1013.html
+URL: https://watchwiththekids.com/ep/simpsons/1013
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -2684,7 +2684,7 @@ Watch for:
   - [Mild] “4th Producer: But it scared the hell out of us. So we slapped together a cop show instead.”
 
 ## S10 E14 — I'm with Cupid
-URL: https://watchwiththekids.com/ep/simpsons/1014.html
+URL: https://watchwiththekids.com/ep/simpsons/1014
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2700,7 +2700,7 @@ Watch for:
   - [Mild] Apu Nahasapeemapetilon: “Well, you and the health inspector. (CHUCKLE) Champagne Squishee?”
 
 ## S10 E15 — Marge Simpson in: "Screaming Yellow Honkers"
-URL: https://watchwiththekids.com/ep/simpsons/1015.html
+URL: https://watchwiththekids.com/ep/simpsons/1015
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2715,12 +2715,12 @@ Watch for:
   - [Mild] Homer Simpson: “Aw, crap! It's a girl's car. I can't drive this.”
 
 ## S10 E16 — Make Room for Lisa
-URL: https://watchwiththekids.com/ep/simpsons/1016.html
+URL: https://watchwiththekids.com/ep/simpsons/1016
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S10 E17 — Maximum Homerdrive
-URL: https://watchwiththekids.com/ep/simpsons/1017.html
+URL: https://watchwiththekids.com/ep/simpsons/1017
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2732,7 +2732,7 @@ Watch for:
   - [Mild] “Trucker #3: Drunk?”
 
 ## S10 E18 — Simpsons Bible Stories
-URL: https://watchwiththekids.com/ep/simpsons/1018.html
+URL: https://watchwiththekids.com/ep/simpsons/1018
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2741,7 +2741,7 @@ Watch for:
   - [Too much] Homer Simpson: “(EMBRACING HER) Ohhh, my dear, sweet Eve. I love you even more than the butterscotch pond or the porno bush.”
 
 ## S10 E19 — Mom and Pop Art
-URL: https://watchwiththekids.com/ep/simpsons/1019.html
+URL: https://watchwiththekids.com/ep/simpsons/1019
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2754,7 +2754,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SPOKEN) Marge, I'm out of beer.”
 
 ## S10 E20 — The Old Man and the "C" Student
-URL: https://watchwiththekids.com/ep/simpsons/1020.html
+URL: https://watchwiththekids.com/ep/simpsons/1020
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2770,7 +2770,7 @@ Watch for:
   - [Mild] Bart Simpson: “They're not babies, Lisa. Give 'em something fun, like cigars or booze.”
 
 ## S10 E21 — Monty Can't Buy Me Love
-URL: https://watchwiththekids.com/ep/simpsons/1021.html
+URL: https://watchwiththekids.com/ep/simpsons/1021
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2787,7 +2787,7 @@ Watch for:
   - [Caution] C. Montgomery Burns: “Tell me more, fatty.”
 
 ## S10 E22 — They Saved Lisa's Brain
-URL: https://watchwiththekids.com/ep/simpsons/1022.html
+URL: https://watchwiththekids.com/ep/simpsons/1022
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2807,7 +2807,7 @@ Watch for:
   - [Mild] Marge Simpson: “(COVERING) Who's up for some beers?”
 
 ## S10 E23 — Thirty Minutes over Tokyo
-URL: https://watchwiththekids.com/ep/simpsons/1023.html
+URL: https://watchwiththekids.com/ep/simpsons/1023
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2820,7 +2820,7 @@ Watch for:
   - [Mild] Moe Szyslak: “If that's Homer then... who the hell's been putting beers on his tab?”
 
 ## S11 E1 — Beyond Blunderdome
-URL: https://watchwiththekids.com/ep/simpsons/1101.html
+URL: https://watchwiththekids.com/ep/simpsons/1101
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2835,7 +2835,7 @@ Watch for:
   - [Too much] Homer Simpson: “(UPSET) Movies aren't stupid! They fill us with romance and hatred and revenge fantasies. "Lethal Weapon" showed us that suicide is funny.”
 
 ## S11 E2 — Brother's Little Helper
-URL: https://watchwiththekids.com/ep/simpsons/1102.html
+URL: https://watchwiththekids.com/ep/simpsons/1102
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2848,7 +2848,7 @@ Watch for:
   - [Caution] Homer Simpson: “Andy Dick...”
 
 ## S11 E3 — Guess Who's Coming to Criticize Dinner?
-URL: https://watchwiththekids.com/ep/simpsons/1103.html
+URL: https://watchwiththekids.com/ep/simpsons/1103
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2864,7 +2864,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SINGS) I LIKE PIZZA / I LIKE BAGELS / I LIKE HOT DOGS, WITH MUSTARD AND BEER...”
 
 ## S11 E4 — Treehouse of Horror X
-URL: https://watchwiththekids.com/ep/simpsons/1104.html
+URL: https://watchwiththekids.com/ep/simpsons/1104
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2875,7 +2875,7 @@ Watch for:
   - [Too much] Homer Simpson: “(SWEETLY) Good-bye Lisa, remember me as I am... (BITTER) filled with murderous rage.”
 
 ## S11 E5 — E-I-E-I-(Annoyed Grunt)
-URL: https://watchwiththekids.com/ep/simpsons/1105.html
+URL: https://watchwiththekids.com/ep/simpsons/1105
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2895,7 +2895,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SURPRISED) Really? But you've never given anyone a free beer.”
 
 ## S11 E6 — Hello Gutter, Hello Fadder
-URL: https://watchwiththekids.com/ep/simpsons/1106.html
+URL: https://watchwiththekids.com/ep/simpsons/1106
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -2905,7 +2905,7 @@ Watch for:
   - [Caution] Burns Ball: “Simpson! (DISGUSTED SOUND) Even for a bowler, you're fat!”
 
 ## S11 E7 — Eight Misbehavin'
-URL: https://watchwiththekids.com/ep/simpsons/1107.html
+URL: https://watchwiththekids.com/ep/simpsons/1107
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2914,7 +2914,7 @@ Watch for:
   - [Too much] Apu Nahasapeemapetilon: “(THOUGHTFULLY) You know... I do. I mean, there comes a time in a man's life when he asks himself, "Who will float my corpse down the Ganges?"”
 
 ## S11 E8 — Take My Wife, Sleaze
-URL: https://watchwiththekids.com/ep/simpsons/1108.html
+URL: https://watchwiththekids.com/ep/simpsons/1108
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2929,7 +2929,7 @@ Watch for:
   - [Caution] Bikers: “(MEATHOOK) Makes sense. / (RAMROD) Oh, don't call them skanks.”
 
 ## S11 E9 — Grift of the Magi
-URL: https://watchwiththekids.com/ep/simpsons/1109.html
+URL: https://watchwiththekids.com/ep/simpsons/1109
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -2940,14 +2940,14 @@ Watch for:
   - [Mild] Milhouse Van Houten: “(COVERING) Uh, we're drunk. Really drunk!”
 
 ## S11 E10 — Little Big Mom
-URL: https://watchwiththekids.com/ep/simpsons/1110.html
+URL: https://watchwiththekids.com/ep/simpsons/1110
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Homer Simpson: “(PANICKY SOUND) Stupid sexy Flanders!”
 
 ## S11 E11 — Faith Off
-URL: https://watchwiththekids.com/ep/simpsons/1111.html
+URL: https://watchwiththekids.com/ep/simpsons/1111
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2965,7 +2965,7 @@ Watch for:
   - [Mild] Dr. Julius Hibbert: “No, no, no. The fans will whoop it up with that leg tonight. You know, drink beer out of it and so on. But, uh, it'll turn up in the morning. And I'll sew it back on.”
 
 ## S11 E12 — The Mansion Family
-URL: https://watchwiththekids.com/ep/simpsons/1112.html
+URL: https://watchwiththekids.com/ep/simpsons/1112
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -2979,7 +2979,7 @@ Watch for:
   - [Mild] Homer Simpson: “(LAUGHS) They were so drunk. Gentlemen, get off your knees. Your rich uncle Homer is throwing the wildest box social the high seas have ever seen!”
 
 ## S11 E13 — Saddlesore Galactica
-URL: https://watchwiththekids.com/ep/simpsons/1113.html
+URL: https://watchwiththekids.com/ep/simpsons/1113
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2992,7 +2992,7 @@ Watch for:
   - [Mild] “Jockey #1: You're quite a trainer, Mr. Simpson. Care to join us for a beer in the Jockey's Lounge?”
 
 ## S11 E14 — Alone Again, Natura-diddily
-URL: https://watchwiththekids.com/ep/simpsons/1114.html
+URL: https://watchwiththekids.com/ep/simpsons/1114
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3004,7 +3004,7 @@ Watch for:
   - [Mild] Homer Simpson: “Now, we'll just send this to the dating service, the chicks'll fall for you, and (PUNCHES PALM) bam! (DIGNIFIED) The healing begins.”
 
 ## S11 E15 — Missionary: Impossible
-URL: https://watchwiththekids.com/ep/simpsons/1115.html
+URL: https://watchwiththekids.com/ep/simpsons/1115
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3019,7 +3019,7 @@ Watch for:
   - [Mild] Ak: “(DRUNK) How can ace be one and eleven? Huh? (POKING HOMER) What kind of God would allow that?”
 
 ## S11 E16 — Pygmoelian
-URL: https://watchwiththekids.com/ep/simpsons/1116.html
+URL: https://watchwiththekids.com/ep/simpsons/1116
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3040,7 +3040,7 @@ Watch for:
   - [Mild] Homer Simpson: “...and only then do we find out that Professor Gallaway's half-sister is plotting to take over International Perfume and Wine.”
 
 ## S11 E17 — Bart to the Future
-URL: https://watchwiththekids.com/ep/simpsons/1117.html
+URL: https://watchwiththekids.com/ep/simpsons/1117
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3056,7 +3056,7 @@ Watch for:
   - [Mild] Carl Carlson: “(RAISING BEER) We love you, President Simpson.”
 
 ## S11 E18 — Days of Wine and D'oh'ses
-URL: https://watchwiththekids.com/ep/simpsons/1118.html
+URL: https://watchwiththekids.com/ep/simpsons/1118
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3073,7 +3073,7 @@ Watch for:
   - [Mild] Homer Simpson: “Wasted? What about our staring contests? And the way we always knew what football coaches should've done? Remember the day we jumped that Census guy and stole his clicker?”
 
 ## S11 E19 — Kill the Alligator and Run
-URL: https://watchwiththekids.com/ep/simpsons/1119.html
+URL: https://watchwiththekids.com/ep/simpsons/1119
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3088,7 +3088,7 @@ Watch for:
   - [Mild] Homer Simpson: “Champagne, madame?”
 
 ## S11 E20 — Last Tap Dance in Springfield
-URL: https://watchwiththekids.com/ep/simpsons/1120.html
+URL: https://watchwiththekids.com/ep/simpsons/1120
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3100,7 +3100,7 @@ Watch for:
   - [Mild] Little Vicki: “Self-tapping shoes?! I'm ever so pissed!”
 
 ## S11 E21 — It's a Mad, Mad, Mad, Mad Marge
-URL: https://watchwiththekids.com/ep/simpsons/1121.html
+URL: https://watchwiththekids.com/ep/simpsons/1121
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3112,7 +3112,7 @@ Watch for:
   - [Caution] Bart Simpson: “The kids are saying if you say Bloody Margie five times, she'll appear. But then she gouges your eyes out.”
 
 ## S11 E22 — Behind the Laughter
-URL: https://watchwiththekids.com/ep/simpsons/1122.html
+URL: https://watchwiththekids.com/ep/simpsons/1122
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -3130,7 +3130,7 @@ Watch for:
   - [Caution] Huckleberry Hound: “I was so gay, but I couldn't tell anyone.”
 
 ## S12 E1 — Treehouse of Horror XI
-URL: https://watchwiththekids.com/ep/simpsons/1201.html
+URL: https://watchwiththekids.com/ep/simpsons/1201
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3139,7 +3139,7 @@ Watch for:
   - [Too much] Kent Brockman: “The recent "wave" of murders...”
 
 ## S12 E2 — A Tale of Two Springfields
-URL: https://watchwiththekids.com/ep/simpsons/1202.html
+URL: https://watchwiththekids.com/ep/simpsons/1202
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3149,7 +3149,7 @@ Watch for:
   - [Mild] Kent Brockman: “In retaliation for the power outage, Olde Springfield patriots have intercepted a beer truck bound for New Springfield and dumped all the beer in the river.”
 
 ## S12 E3 — Insane Clown Poppy
-URL: https://watchwiththekids.com/ep/simpsons/1203.html
+URL: https://watchwiththekids.com/ep/simpsons/1203
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3163,7 +3163,7 @@ Watch for:
   - [Caution] Marge Simpson: “And you'll lose weight?”
 
 ## S12 E4 — Lisa the Tree Hugger
-URL: https://watchwiththekids.com/ep/simpsons/1204.html
+URL: https://watchwiththekids.com/ep/simpsons/1204
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 5 moment(s)
@@ -3174,7 +3174,7 @@ Watch for:
   - [Mild] Lisa Simpson: “(ON TAPE, RESIGNED) ... pour cocktail onions down your pants.”
 
 ## S12 E5 — Homer vs. Dignity
-URL: https://watchwiththekids.com/ep/simpsons/1205.html
+URL: https://watchwiththekids.com/ep/simpsons/1205
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3185,7 +3185,7 @@ Watch for:
   - [Mild] Lenny Leonard: “Wow, I never seen you have so many lunch beers before, Homer.”
 
 ## S12 E6 — The Computer Wore Menace Shoes
-URL: https://watchwiththekids.com/ep/simpsons/1206.html
+URL: https://watchwiththekids.com/ep/simpsons/1206
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3200,7 +3200,7 @@ Watch for:
   - [Mild] Homer Simpson: “Oh, don't worry about the Mr. X thing. (SITTING DOWN) I'm just here for a beer.”
 
 ## S12 E7 — The Great Money Caper
-URL: https://watchwiththekids.com/ep/simpsons/1207.html
+URL: https://watchwiththekids.com/ep/simpsons/1207
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -3213,7 +3213,7 @@ Watch for:
   - [Mild] Homer Simpson: “Beer! Yes! How did you know?”
 
 ## S12 E8 — Skinner's Sense of Snow
-URL: https://watchwiththekids.com/ep/simpsons/1208.html
+URL: https://watchwiththekids.com/ep/simpsons/1208
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3223,7 +3223,7 @@ Watch for:
   - [Too much] Explicit body / sex-act language appears in dialogue.
 
 ## S12 E9 — Homr
-URL: https://watchwiththekids.com/ep/simpsons/1209.html
+URL: https://watchwiththekids.com/ep/simpsons/1209
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3234,7 +3234,7 @@ Watch for:
   - [Mild] Super-criminal: “(STRANGLED CRY)”
 
 ## S12 E10 — Pokey Mom
-URL: https://watchwiththekids.com/ep/simpsons/1210.html
+URL: https://watchwiththekids.com/ep/simpsons/1210
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3249,7 +3249,7 @@ Watch for:
   - [Mild] Jack: “Thanks, Marge. Listen, if you're done with that washing machine, can I make some booze in it?”
 
 ## S12 E11 — Worst Episode Ever
-URL: https://watchwiththekids.com/ep/simpsons/1211.html
+URL: https://watchwiththekids.com/ep/simpsons/1211
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3267,7 +3267,7 @@ Watch for:
   - [Mild] Mr. Rodgers: “(DRUNK) Well, whaddaya mean I can't take off my sweater? I'm hot!”
 
 ## S12 E12 — Tennis the Menace
-URL: https://watchwiththekids.com/ep/simpsons/1212.html
+URL: https://watchwiththekids.com/ep/simpsons/1212
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3277,7 +3277,7 @@ Watch for:
   - [Mild] Marge Simpson: “Oh, that's okay. Bart's doing fine. You just have another beer.”
 
 ## S12 E13 — Day of the Jackanapes
-URL: https://watchwiththekids.com/ep/simpsons/1213.html
+URL: https://watchwiththekids.com/ep/simpsons/1213
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3289,7 +3289,7 @@ Watch for:
   - [Mild] Homer Simpson: “Oh, yeah, uh, I was at the flower shop today, too. Yup, gettin' drunk at the ol' flower shop.”
 
 ## S12 E14 — New Kids on the Blecch
-URL: https://watchwiththekids.com/ep/simpsons/1214.html
+URL: https://watchwiththekids.com/ep/simpsons/1214
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3299,7 +3299,7 @@ Watch for:
   - [Caution] Chief Wiggum: “Attention, runners. (RAISES GUN) On your mark, get set, now get outta here before I change my mind.”
 
 ## S12 E15 — Hungry, Hungry Homer
-URL: https://watchwiththekids.com/ep/simpsons/1215.html
+URL: https://watchwiththekids.com/ep/simpsons/1215
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -3307,7 +3307,7 @@ Watch for:
   - [Mild] Howard K. Duff VIII: “Now, Homer, we've developed this additive that makes beer super, super malty. Care to try it?”
 
 ## S12 E16 — Bye, Bye, Nerdie
-URL: https://watchwiththekids.com/ep/simpsons/1216.html
+URL: https://watchwiththekids.com/ep/simpsons/1216
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3317,7 +3317,7 @@ Watch for:
   - [Mild] Francine's Mom: “Don't worry. She'll punch herself out.”
 
 ## S12 E17 — Simpson Safari
-URL: https://watchwiththekids.com/ep/simpsons/1217.html
+URL: https://watchwiththekids.com/ep/simpsons/1217
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3328,7 +3328,7 @@ Watch for:
   - [Mild] Homer Simpson: “I mean I knew scientists wasted their lives, but geez.”
 
 ## S12 E18 — Trilogy of Error
-URL: https://watchwiththekids.com/ep/simpsons/1218.html
+URL: https://watchwiththekids.com/ep/simpsons/1218
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -3342,7 +3342,7 @@ Watch for:
   - [Mild] Linguo: “"I love beer."”
 
 ## S12 E19 — I'm Goin' to Praiseland
-URL: https://watchwiththekids.com/ep/simpsons/1219.html
+URL: https://watchwiththekids.com/ep/simpsons/1219
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3356,7 +3356,7 @@ Watch for:
   - [Mild] Lenny Leonard: “A Bible park without beer? (ANNOYED SOUND) Now I've seen everything.”
 
 ## S12 E20 — Children of a Lesser Clod
-URL: https://watchwiththekids.com/ep/simpsons/1220.html
+URL: https://watchwiththekids.com/ep/simpsons/1220
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3374,7 +3374,7 @@ Watch for:
   - [Caution] Chief Wiggum: “All right, fatty, out of the pipe!”
 
 ## S12 E21 — Simpsons Tall Tales
-URL: https://watchwiththekids.com/ep/simpsons/1221.html
+URL: https://watchwiththekids.com/ep/simpsons/1221
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -3391,7 +3391,7 @@ Watch for:
   - [Mild] Apu Nahasapeemapetilon: “One jug of whiskey... three plugs of tobacky... and some extra-strength opium. That will be two cents, boys.”
 
 ## S13 E1 — Treehouse of Horror XII
-URL: https://watchwiththekids.com/ep/simpsons/1301.html
+URL: https://watchwiththekids.com/ep/simpsons/1301
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3409,7 +3409,7 @@ Watch for:
   - [Caution] Leprechaun: “(HORRIBLE HIGH-PITCHED JABBERING) ...ya big fat ass! (MORE JABBERING)”
 
 ## S13 E2 — The Parent Rap
-URL: https://watchwiththekids.com/ep/simpsons/1302.html
+URL: https://watchwiththekids.com/ep/simpsons/1302
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3428,7 +3428,7 @@ Watch for:
   - [Mild] Moe Szyslak: “One beer, comin' up.”
 
 ## S13 E3 — Homer the Moe
-URL: https://watchwiththekids.com/ep/simpsons/1303.html
+URL: https://watchwiththekids.com/ep/simpsons/1303
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3446,7 +3446,7 @@ Watch for:
   - [Mild] Moe Szyslak: “We don't serve Duff no more. We got a Malaysian beer that's better than Duff... It's made outta soy sauce.”
 
 ## S13 E4 — A Hunka Hunka Burns in Love
-URL: https://watchwiththekids.com/ep/simpsons/1304.html
+URL: https://watchwiththekids.com/ep/simpsons/1304
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3474,7 +3474,7 @@ Watch for:
   - [Caution] Kent Brockman: “Well, according to our Audience Insta-poll, forty-six percent say "You're Too Old", and thirty-seven percent say "She's A Skank".”
 
 ## S13 E5 — The Blunder Years
-URL: https://watchwiththekids.com/ep/simpsons/1305.html
+URL: https://watchwiththekids.com/ep/simpsons/1305
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -3490,7 +3490,7 @@ Watch for:
   - [Mild] Young Louie: “Check it out, Fat Tony. Those jokers think they're the Cowsills.”
 
 ## S13 E6 — She of Little Faith
-URL: https://watchwiththekids.com/ep/simpsons/1306.html
+URL: https://watchwiththekids.com/ep/simpsons/1306
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3501,7 +3501,7 @@ Watch for:
   - [Caution] Lisa Simpson: “Like the whore of Babylon?”
 
 ## S13 E7 — Brawl in the Family
-URL: https://watchwiththekids.com/ep/simpsons/1307.html
+URL: https://watchwiththekids.com/ep/simpsons/1307
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3517,7 +3517,7 @@ Watch for:
   - [Mild] Grampa Simpson: “Yeah, but this time you woke up with more than a hangover. You're married to me. Meee. (EVIL LAUGH)”
 
 ## S13 E8 — Sweets and Sour Marge
-URL: https://watchwiththekids.com/ep/simpsons/1308.html
+URL: https://watchwiththekids.com/ep/simpsons/1308
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -3532,7 +3532,7 @@ Watch for:
   - [Caution] Marge Simpson: “I don't know how this town got so fat.”
 
 ## S13 E9 — Jaws Wired Shut
-URL: https://watchwiththekids.com/ep/simpsons/1309.html
+URL: https://watchwiththekids.com/ep/simpsons/1309
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3548,7 +3548,7 @@ Watch for:
   - [Mild] Bart Simpson: “Wait, I know. Beer here!”
 
 ## S13 E10 — Half-Decent Proposal
-URL: https://watchwiththekids.com/ep/simpsons/1310.html
+URL: https://watchwiththekids.com/ep/simpsons/1310
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3562,7 +3562,7 @@ Watch for:
   - [Mild] Marge Simpson: “Artie Ziff? (REALIZING) Ohh, oh, that e-mail. Look, I got a little drunk and we...”
 
 ## S13 E11 — The Bart Wants What It Wants
-URL: https://watchwiththekids.com/ep/simpsons/1311.html
+URL: https://watchwiththekids.com/ep/simpsons/1311
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3573,7 +3573,7 @@ Watch for:
   - [Mild] Tram Driver: “No, ma'am. I'm drunk.”
 
 ## S13 E12 — The Lastest Gun in the West
-URL: https://watchwiththekids.com/ep/simpsons/1312.html
+URL: https://watchwiththekids.com/ep/simpsons/1312
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3591,7 +3591,7 @@ Watch for:
   - [Caution] Milhouse Van Houten: “(REALIZING) Hey, you're not fun, you're fat.”
 
 ## S13 E13 — The Old Man and the Key
-URL: https://watchwiththekids.com/ep/simpsons/1313.html
+URL: https://watchwiththekids.com/ep/simpsons/1313
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3601,7 +3601,7 @@ Watch for:
   - [Caution] “Jasper Beardly: Tramp.”
 
 ## S13 E14 — Tales from the Public Domain
-URL: https://watchwiththekids.com/ep/simpsons/1314.html
+URL: https://watchwiththekids.com/ep/simpsons/1314
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3621,7 +3621,7 @@ Watch for:
   - [Mild] Homer Simpson: “Gentlemen, I must be wasted, 'cause it looks like that cloud is mad at me. (POINTS)”
 
 ## S13 E15 — Blame It on Lisa
-URL: https://watchwiththekids.com/ep/simpsons/1315.html
+URL: https://watchwiththekids.com/ep/simpsons/1315
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3634,7 +3634,7 @@ Watch for:
   - [Mild] Homer Simpson: “Get me tools and beer.”
 
 ## S13 E16 — Weekend at Burnsie's
-URL: https://watchwiththekids.com/ep/simpsons/1316.html
+URL: https://watchwiththekids.com/ep/simpsons/1316
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3651,7 +3651,7 @@ Watch for:
   - [Mild] Moe Szyslak: “What's the matter, Homer? You're drunk but you're not like sloppy drunk.”
 
 ## S13 E17 — Gump Roast
-URL: https://watchwiththekids.com/ep/simpsons/1317.html
+URL: https://watchwiththekids.com/ep/simpsons/1317
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3662,7 +3662,7 @@ Watch for:
   - [Mild] Homer Simpson: “(DRUNK) I'm sick of your lies. Secrets and lies. It's always secrets and lies.”
 
 ## S13 E18 — I Am Furious (Yellow)
-URL: https://watchwiththekids.com/ep/simpsons/1318.html
+URL: https://watchwiththekids.com/ep/simpsons/1318
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -3679,7 +3679,7 @@ Watch for:
   - [Caution] Marge Simpson: “If you ask me, you should give up fatty foods.”
 
 ## S13 E19 — The Sweetest Apu
-URL: https://watchwiththekids.com/ep/simpsons/1319.html
+URL: https://watchwiththekids.com/ep/simpsons/1319
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3705,7 +3705,7 @@ Watch for:
   - [Caution] “Manjula Nahasapeemapetilon: (ICE COLD) Is it my husband's whore?”
 
 ## S13 E20 — Little Girl in the Big Ten
-URL: https://watchwiththekids.com/ep/simpsons/1320.html
+URL: https://watchwiththekids.com/ep/simpsons/1320
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3715,7 +3715,7 @@ Watch for:
   - [Mild] Ralph Wiggum: “You're like my Mommy after her box of wine.”
 
 ## S13 E21 — The Frying Game
-URL: https://watchwiththekids.com/ep/simpsons/1321.html
+URL: https://watchwiththekids.com/ep/simpsons/1321
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3734,7 +3734,7 @@ Watch for:
   - [Mild] Homer Simpson: “(WEARY) Oh man, what a day. I'd kill for a beer.”
 
 ## S13 E22 — Poppa's Got a Brand New Badge
-URL: https://watchwiththekids.com/ep/simpsons/1322.html
+URL: https://watchwiththekids.com/ep/simpsons/1322
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3747,7 +3747,7 @@ Watch for:
   - [Mild] Homer Simpson: “Now that I am the law, I'm gonna make a lot of changes around here. First, I'm gonna cut overhead by freeing Otis, the lovable town drunk.”
 
 ## S14 E1 — Treehouse of Horror XIII
-URL: https://watchwiththekids.com/ep/simpsons/1401.html
+URL: https://watchwiththekids.com/ep/simpsons/1401
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3767,7 +3767,7 @@ Watch for:
   - [Mild] HOMER DOUBLES: “(DRONE-LIKE) Beer-beer-beer-beer-beer-beer-beer-beer-beer-beer!”
 
 ## S14 E2 — How I Spent My Strummer Vacation
-URL: https://watchwiththekids.com/ep/simpsons/1402.html
+URL: https://watchwiththekids.com/ep/simpsons/1402
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3789,7 +3789,7 @@ Watch for:
   - [Mild] Homer Simpson: “But rock stars are supposed to be about drinking and getting drunk and boozing it up.”
 
 ## S14 E3 — Bart vs. Lisa vs. the Third Grade
-URL: https://watchwiththekids.com/ep/simpsons/1403.html
+URL: https://watchwiththekids.com/ep/simpsons/1403
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3802,7 +3802,7 @@ Watch for:
   - [Caution] Mrs. McConnell: “Lisa comes to us from Miss Hoover ("GLUG-GLUG" NOISE)...While Bart was taught by Mrs. Krabappel (COUGHS "SLUT").”
 
 ## S14 E4 — Large Marge
-URL: https://watchwiththekids.com/ep/simpsons/1404.html
+URL: https://watchwiththekids.com/ep/simpsons/1404
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3821,7 +3821,7 @@ Watch for:
   - [Mild] Marge Simpson: “Don't make a fuss over me, boys. Just pour me a beer in a clean glass.”
 
 ## S14 E5 — Helter Shelter
-URL: https://watchwiththekids.com/ep/simpsons/1405.html
+URL: https://watchwiththekids.com/ep/simpsons/1405
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -3842,7 +3842,7 @@ Watch for:
   - [Mild] Mitch: “(DISGUSTED NOISE) Is it so gosh darn hard to get cocktail sauce in the middle of the Amazon?”
 
 ## S14 E6 — The Great Louse Detective
-URL: https://watchwiththekids.com/ep/simpsons/1406.html
+URL: https://watchwiththekids.com/ep/simpsons/1406
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3862,7 +3862,7 @@ Watch for:
   - [Mild] Duffman: “Everything going dark... like Duff Stout, the beer that made Ireland famous. I love you, Doris! I...”
 
 ## S14 E7 — Special Edna
-URL: https://watchwiththekids.com/ep/simpsons/1407.html
+URL: https://watchwiththekids.com/ep/simpsons/1407
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3872,7 +3872,7 @@ Watch for:
   - [Caution] Bart Simpson: “(WRITING) "... and so on November 11, 1918, the guns fell silent and peace returned. The End."”
 
 ## S14 E8 — The Dad Who Knew Too Little
-URL: https://watchwiththekids.com/ep/simpsons/1408.html
+URL: https://watchwiththekids.com/ep/simpsons/1408
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3885,7 +3885,7 @@ Watch for:
   - [Mild] Homer Simpson: “Well, all the childless drunks at Moe's thought it was a great idea.”
 
 ## S14 E9 — The Strong Arms of the Ma
-URL: https://watchwiththekids.com/ep/simpsons/1409.html
+URL: https://watchwiththekids.com/ep/simpsons/1409
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -3897,7 +3897,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Uh, listen Marge, how can I put this delicately? I don't got enough booze in this place to make you look good.”
 
 ## S14 E10 — Pray Anything
-URL: https://watchwiththekids.com/ep/simpsons/1410.html
+URL: https://watchwiththekids.com/ep/simpsons/1410
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3912,7 +3912,7 @@ Watch for:
   - [Mild] Homer Simpson: “Everybody, look at the much-needed rain. Thank you, God. Now turn the rainwater into wine.”
 
 ## S14 E11 — Barting Over
-URL: https://watchwiththekids.com/ep/simpsons/1411.html
+URL: https://watchwiththekids.com/ep/simpsons/1411
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3928,7 +3928,7 @@ Watch for:
   - [Mild] Bart Simpson: “Dad, how drunk are you?”
 
 ## S14 E12 — I'm Spelling As Fast As I Can
-URL: https://watchwiththekids.com/ep/simpsons/1412.html
+URL: https://watchwiththekids.com/ep/simpsons/1412
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3943,7 +3943,7 @@ Watch for:
   - [Caution] Bart Simpson: “Dude, take it easy on the fatty foods. You're running out of leg veins to transplant into your heart.”
 
 ## S14 E13 — A Star Is Born-Again
-URL: https://watchwiththekids.com/ep/simpsons/1413.html
+URL: https://watchwiththekids.com/ep/simpsons/1413
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3962,7 +3962,7 @@ Watch for:
   - [Mild] Sara Sloane: “I knew you'd say that. I need a glass of wine.”
 
 ## S14 E14 — Mr. Spritz Goes to Washington
-URL: https://watchwiththekids.com/ep/simpsons/1414.html
+URL: https://watchwiththekids.com/ep/simpsons/1414
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3984,7 +3984,7 @@ Watch for:
   - [Mild] Homer Simpson: “(VERY DRUNK) You call this a bicameral legislature?”
 
 ## S14 E15 — C.E.D'oh
-URL: https://watchwiththekids.com/ep/simpsons/1415.html
+URL: https://watchwiththekids.com/ep/simpsons/1415
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -4004,7 +4004,7 @@ Watch for:
   - [Too much] Homer Simpson: “(INTRIGUED) Suicide, eh?”
 
 ## S14 E16 — 'Scuse Me While I Miss the Sky
-URL: https://watchwiththekids.com/ep/simpsons/1416.html
+URL: https://watchwiththekids.com/ep/simpsons/1416
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -4016,7 +4016,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Okay you filthy booze-bags, it's two a.m. So uh, who's the designated driver?”
 
 ## S14 E17 — Three Gays of the Condo
-URL: https://watchwiththekids.com/ep/simpsons/1417.html
+URL: https://watchwiththekids.com/ep/simpsons/1417
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4038,7 +4038,7 @@ Watch for:
   - [Mild] Marge Simpson: “Goodbye, Homer! I try to save our marriage, and you just get drunk and spend the whole night with your homosexual boyfriends!”
 
 ## S14 E18 — Dude, Where's My Ranch?
-URL: https://watchwiththekids.com/ep/simpsons/1418.html
+URL: https://watchwiththekids.com/ep/simpsons/1418
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -4046,7 +4046,7 @@ Watch for:
   - [Mild] Lisa Simpson: “I'm sick of this horse slapping and cow taunting! I'm going to my room!”
 
 ## S14 E19 — Old Yeller-Belly
-URL: https://watchwiththekids.com/ep/simpsons/1419.html
+URL: https://watchwiththekids.com/ep/simpsons/1419
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4065,7 +4065,7 @@ Watch for:
   - [Mild] Otto Mann: “Check it out! That shark's wasted!”
 
 ## S14 E20 — Brake My Wife, Please
-URL: https://watchwiththekids.com/ep/simpsons/1420.html
+URL: https://watchwiththekids.com/ep/simpsons/1420
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4084,7 +4084,7 @@ Watch for:
   - [Mild] Homer Simpson: “(GENIAL) Now, let's all raise our wine boxes... to Marge!”
 
 ## S14 E21 — The Bart of War
-URL: https://watchwiththekids.com/ep/simpsons/1421.html
+URL: https://watchwiththekids.com/ep/simpsons/1421
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4104,7 +4104,7 @@ Watch for:
   - [Caution] Bart Simpson: “(LAUGHING) That is so gay.”
 
 ## S14 E22 — Moe Baby Blues
-URL: https://watchwiththekids.com/ep/simpsons/1422.html
+URL: https://watchwiththekids.com/ep/simpsons/1422
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -4119,7 +4119,7 @@ Watch for:
   - [Mild] Homer Doll: “(DRUNK) I peed my pants.”
 
 ## S15 E1 — Treehouse of Horror XIV
-URL: https://watchwiththekids.com/ep/simpsons/1501.html
+URL: https://watchwiththekids.com/ep/simpsons/1501
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4133,7 +4133,7 @@ Watch for:
   - [Mild] Milhouse Van Houten: “Can I punch Oscar de la Hoya for a while?”
 
 ## S15 E2 — My Mother the Carjacker
-URL: https://watchwiththekids.com/ep/simpsons/1502.html
+URL: https://watchwiththekids.com/ep/simpsons/1502
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4146,7 +4146,7 @@ Watch for:
   - [Caution] Judge Snyder: “(BITTERLY) Yes. She used to call me Fatty-boomalatty. (THEN) I'll allow an Indian burn.”
 
 ## S15 E3 — The President Wore Pearls
-URL: https://watchwiththekids.com/ep/simpsons/1503.html
+URL: https://watchwiththekids.com/ep/simpsons/1503
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -4158,7 +4158,7 @@ Watch for:
   - [Mild] Groundskeeper Willie: “(SINGS) I'M SO DRUNK I CAN BARELY SEE...”
 
 ## S15 E4 — The Regina Monologues
-URL: https://watchwiththekids.com/ep/simpsons/1504.html
+URL: https://watchwiththekids.com/ep/simpsons/1504
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4176,7 +4176,7 @@ Watch for:
   - [Mild] Snake Jailbird: “(POLITE) I'm sorry I wasted your time.”
 
 ## S15 E5 — The Fat and the Furriest
-URL: https://watchwiththekids.com/ep/simpsons/1505.html
+URL: https://watchwiththekids.com/ep/simpsons/1505
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -4195,7 +4195,7 @@ Watch for:
   - [Caution] Homer Simpson: “Well, well, if it isn't Fatty and Smell-ma.”
 
 ## S15 E6 — Today I Am a Clown
-URL: https://watchwiththekids.com/ep/simpsons/1506.html
+URL: https://watchwiththekids.com/ep/simpsons/1506
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4214,7 +4214,7 @@ Watch for:
   - [Mild] Krusty the Clown: “Let's see... champagne or Slim Fast?”
 
 ## S15 E7 — 'Tis the Fifteenth Season
-URL: https://watchwiththekids.com/ep/simpsons/1507.html
+URL: https://watchwiththekids.com/ep/simpsons/1507
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -4228,7 +4228,7 @@ Watch for:
   - [Caution] “"Mr. Scott": It's no use, Captain! He's showin' visions of me future... God, I'm so fat!”
 
 ## S15 E8 — Marge vs. Singles, Seniors, Childless Couples and Teens and Gays
-URL: https://watchwiththekids.com/ep/simpsons/1508.html
+URL: https://watchwiththekids.com/ep/simpsons/1508
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4238,7 +4238,7 @@ Watch for:
   - [Caution] Actress In Blue Wig: “(HALF-BAKED IMITATION) I'm Marge Simpson, and even I'm against "Families Come First." Now it's time to do some coke off the blade of a knife.”
 
 ## S15 E9 — I, (Annoyed Grunt)-bot
-URL: https://watchwiththekids.com/ep/simpsons/1509.html
+URL: https://watchwiththekids.com/ep/simpsons/1509
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4254,7 +4254,7 @@ Watch for:
   - [Mild] Bart Simpson: “...then Knockahomer did three victory laps and pretended to drink a beer!”
 
 ## S15 E10 — Diatribe of a Mad Housewife
-URL: https://watchwiththekids.com/ep/simpsons/1510.html
+URL: https://watchwiththekids.com/ep/simpsons/1510
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4274,7 +4274,7 @@ Watch for:
   - [Mild] CYRUS MANLEY: “Did you promise to be miserable, to be taken for granted by a drunken lout?”
 
 ## S15 E11 — Margical History Tour
-URL: https://watchwiththekids.com/ep/simpsons/1511.html
+URL: https://watchwiththekids.com/ep/simpsons/1511
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4290,7 +4290,7 @@ Watch for:
   - [Mild] Salieri: “Wine here! Get your wine! Claret, Port, Riesling! Emperors drink free!”
 
 ## S15 E12 — Milhouse Doesn't Live Here Anymore
-URL: https://watchwiththekids.com/ep/simpsons/1512.html
+URL: https://watchwiththekids.com/ep/simpsons/1512
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4306,7 +4306,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SLIGHTLY DRUNK) Yeah, you heard your mother.”
 
 ## S15 E13 — Smart & Smarter
-URL: https://watchwiththekids.com/ep/simpsons/1513.html
+URL: https://watchwiththekids.com/ep/simpsons/1513
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -4316,7 +4316,7 @@ Watch for:
   - [Mild] Homer Simpson: “I'm sorry we wasted your time, your Lordship.”
 
 ## S15 E14 — The Ziff Who Came to Dinner
-URL: https://watchwiththekids.com/ep/simpsons/1514.html
+URL: https://watchwiththekids.com/ep/simpsons/1514
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -4329,7 +4329,7 @@ Watch for:
   - [Mild] Lisa Simpson: “And it would be nice to have someone here I can beat up.”
 
 ## S15 E15 — Co-Dependents' Day
-URL: https://watchwiththekids.com/ep/simpsons/1515.html
+URL: https://watchwiththekids.com/ep/simpsons/1515
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4352,7 +4352,7 @@ Watch for:
   - [Mild] Homer Simpson: “Okay, Marge. For you I'll give up rum-based cocktails. Except mojitos and rum and coke.”
 
 ## S15 E16 — The Wandering Juvie
-URL: https://watchwiththekids.com/ep/simpsons/1516.html
+URL: https://watchwiththekids.com/ep/simpsons/1516
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -4368,7 +4368,7 @@ Watch for:
   - [Caution] Bart Simpson: “Future skank!”
 
 ## S15 E17 — My Big Fat Geek Wedding
-URL: https://watchwiththekids.com/ep/simpsons/1517.html
+URL: https://watchwiththekids.com/ep/simpsons/1517
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -4384,7 +4384,7 @@ Watch for:
   - [Mild] Seymour Skinner: “(BOISTEROUS DRUNK) You know I wish I had an exciting life... like that class picture photographer. Ho, how many women has he had in that van? Two, that I know of.”
 
 ## S15 E18 — Catch 'Em If You Can
-URL: https://watchwiththekids.com/ep/simpsons/1518.html
+URL: https://watchwiththekids.com/ep/simpsons/1518
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -4405,7 +4405,7 @@ Watch for:
   - [Mild] American Skipper: “Beat it, you puck-slapping maple-suckers!”
 
 ## S15 E19 — Simple Simpson
-URL: https://watchwiththekids.com/ep/simpsons/1519.html
+URL: https://watchwiththekids.com/ep/simpsons/1519
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 8 moment(s)
@@ -4424,7 +4424,7 @@ Watch for:
   - [Caution] Marge Simpson: “Get ready, skanks -- here comes the truth train!”
 
 ## S15 E20 — The Way We Weren't
-URL: https://watchwiththekids.com/ep/simpsons/1520.html
+URL: https://watchwiththekids.com/ep/simpsons/1520
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -4437,7 +4437,7 @@ Watch for:
   - [Mild] Bart Simpson: “Homer, I'll bet when you were ten you were stealing beers, kissin' girls and tippin' dinosaurs.”
 
 ## S15 E21 — Bart-Mangled Banner
-URL: https://watchwiththekids.com/ep/simpsons/1521.html
+URL: https://watchwiththekids.com/ep/simpsons/1521
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -4453,7 +4453,7 @@ Watch for:
   - [Mild] Bill O' Rights: “(DRUNK) What I do? What I do?”
 
 ## S15 E22 — Fraudcast News
-URL: https://watchwiththekids.com/ep/simpsons/1522.html
+URL: https://watchwiththekids.com/ep/simpsons/1522
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4472,7 +4472,7 @@ Watch for:
   - [Mild] Homer Simpson: “(DRAINS BEER) Well, that loser Milhouse has always had a thing for her. Don't you love it when nerds don't know they're nerds?”
 
 ## S16 E1 — Treehouse of Horror XV
-URL: https://watchwiththekids.com/ep/simpsons/1601.html
+URL: https://watchwiththekids.com/ep/simpsons/1601
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4492,7 +4492,7 @@ Watch for:
   - [Caution] Lord Mayor Quimby: “This week in our Summer Hanging Series, we're pleased to present the Muttonchop Murderer. At last God-fearing Londoners are free to walk Whore Alley.”
 
 ## S16 E2 — All's Fair in Oven War
-URL: https://watchwiththekids.com/ep/simpsons/1602.html
+URL: https://watchwiththekids.com/ep/simpsons/1602
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4510,7 +4510,7 @@ Watch for:
   - [Mild] Marge Simpson: “(UNIMPRESSED) B.F.D. I've had your scrambled eggs, Homer. The secret ingredient is whiskey.”
 
 ## S16 E3 — Sleeping with the Enemy
-URL: https://watchwiththekids.com/ep/simpsons/1603.html
+URL: https://watchwiththekids.com/ep/simpsons/1603
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4525,7 +4525,7 @@ Watch for:
   - [Caution] Lisa Simpson: “I know this obsession with thinness is unhealthy and anti-feminist... (CRACKING) but that's what a fat girl would say!”
 
 ## S16 E4 — She Used to Be My Girl
-URL: https://watchwiththekids.com/ep/simpsons/1604.html
+URL: https://watchwiththekids.com/ep/simpsons/1604
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4542,7 +4542,7 @@ Watch for:
   - [Mild] Marge Simpson: “Lisa, let me explain what happened tonight. Sometimes when your Mom has half a glass of wine, she goes cuckoo bananas.”
 
 ## S16 E5 — Fat Man and Little Boy
-URL: https://watchwiththekids.com/ep/simpsons/1605.html
+URL: https://watchwiththekids.com/ep/simpsons/1605
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4556,7 +4556,7 @@ Watch for:
   - [Caution] Bart Simpson: “Hey, idiot. You're fat, and your Mom's naked on the internet. You also smell.”
 
 ## S16 E6 — Midnight Rx
-URL: https://watchwiththekids.com/ep/simpsons/1606.html
+URL: https://watchwiththekids.com/ep/simpsons/1606
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4574,7 +4574,7 @@ Watch for:
   - [Caution] Ned Flanders: “Careful, it's hotter than a Fox News weather skank.”
 
 ## S16 E7 — Mommie Beerest
-URL: https://watchwiththekids.com/ep/simpsons/1607.html
+URL: https://watchwiththekids.com/ep/simpsons/1607
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4603,7 +4603,7 @@ Watch for:
   - [Mild] Moe's Thoughts: “And tonight, after some surf 'n' turf and a bottle of champagne, maybe some Snickers pie, I'll explain how the hotel made a little "mistake" and we gotta stay in the same room.”
 
 ## S16 E8 — Homer and Ned's Hail Mary Pass
-URL: https://watchwiththekids.com/ep/simpsons/1608.html
+URL: https://watchwiththekids.com/ep/simpsons/1608
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4620,7 +4620,7 @@ Watch for:
   - [Caution] Football Announcer: “And that's the gun!”
 
 ## S16 E9 — Pranksta Rap
-URL: https://watchwiththekids.com/ep/simpsons/1609.html
+URL: https://watchwiththekids.com/ep/simpsons/1609
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 8 moment(s)
@@ -4636,7 +4636,7 @@ Watch for:
   - [Mild] Homer Simpson: “(ABSENTMINDED) I love you too, Jerry. (SIPS BEER)”
 
 ## S16 E10 — There's Something About Marrying
-URL: https://watchwiththekids.com/ep/simpsons/1610.html
+URL: https://watchwiththekids.com/ep/simpsons/1610
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -4646,14 +4646,14 @@ Watch for:
   - [Caution] Woman: “You've reached Fox. If you're pitching a show where gold-digging skanks get what's coming to them, press one. If you're pitching a rip-off of another network's reality show, press two.”
 
 ## S16 E11 — On a Clear Day I Can't See My Sister
-URL: https://watchwiththekids.com/ep/simpsons/1611.html
+URL: https://watchwiththekids.com/ep/simpsons/1611
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Dr. Julius Hibbert: “My housekeeper is suing me for sexual harassment.”
 
 ## S16 E12 — Goo Goo Gai Pan
-URL: https://watchwiththekids.com/ep/simpsons/1612.html
+URL: https://watchwiththekids.com/ep/simpsons/1612
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -4671,7 +4671,7 @@ Watch for:
   - [Mild] Homer Simpson: “I was this woman's husband for a few days, in name only, and beer will soon obliterate that memory. But I don't think this baby could find any greater love on your planet or ours.”
 
 ## S16 E13 — Mobile Homer
-URL: https://watchwiththekids.com/ep/simpsons/1613.html
+URL: https://watchwiththekids.com/ep/simpsons/1613
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4690,7 +4690,7 @@ Watch for:
   - [Mild] New England Rv-er: “Well, we'll give you regional beers.”
 
 ## S16 E14 — The Seven-Beer Snitch
-URL: https://watchwiththekids.com/ep/simpsons/1614.html
+URL: https://watchwiththekids.com/ep/simpsons/1614
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4704,7 +4704,7 @@ Watch for:
   - [Caution] Homer Simpson: “(YELLING) Kids! Why's the cat so fat?”
 
 ## S16 E15 — Future-Drama
-URL: https://watchwiththekids.com/ep/simpsons/1615.html
+URL: https://watchwiththekids.com/ep/simpsons/1615
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4719,7 +4719,7 @@ Watch for:
   - [Too much] Anoop: “I'm Anoop, you racist cracker!”
 
 ## S16 E16 — Don't Fear the Roofer
-URL: https://watchwiththekids.com/ep/simpsons/1616.html
+URL: https://watchwiththekids.com/ep/simpsons/1616
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4729,7 +4729,7 @@ Watch for:
   - [Mild] Ray Magini: “Sure, I'll help ya, under one condition -- you gotta help me finish this pitcher of beer.”
 
 ## S16 E17 — The Heartbroke Kid
-URL: https://watchwiththekids.com/ep/simpsons/1617.html
+URL: https://watchwiththekids.com/ep/simpsons/1617
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4741,7 +4741,7 @@ Watch for:
   - [Caution] Homer Simpson: “But who else needs to lose weight? Maggie? Grampa? My seldom-seen half brother Herb?”
 
 ## S16 E18 — A Star Is Torn
-URL: https://watchwiththekids.com/ep/simpsons/1618.html
+URL: https://watchwiththekids.com/ep/simpsons/1618
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4757,7 +4757,7 @@ Watch for:
   - [Mild] Homer Simpson: “Don't lose hope, sweetie. I'm gonna write you a song so great, you can't lose. And that's not just the beer talking. (POINTS TO CHEST) Your father's in here too.”
 
 ## S16 E19 — Thank God It's Doomsday
-URL: https://watchwiththekids.com/ep/simpsons/1619.html
+URL: https://watchwiththekids.com/ep/simpsons/1619
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4774,7 +4774,7 @@ Watch for:
   - [Mild] Homer Simpson: “Ah... this is heaven. (SIPS BEER)”
 
 ## S16 E20 — Home Away from Homer
-URL: https://watchwiththekids.com/ep/simpsons/1620.html
+URL: https://watchwiththekids.com/ep/simpsons/1620
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4789,7 +4789,7 @@ Watch for:
   - [Mild] Homer Simpson: “Don't worry, I'll straighten things out with Coach Clay. We're good buddies. We play this game called "who can punch the softest?" And he always lets me win!”
 
 ## S16 E21 — The Father, the Son, and the Holy Guest Star
-URL: https://watchwiththekids.com/ep/simpsons/1621.html
+URL: https://watchwiththekids.com/ep/simpsons/1621
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4805,7 +4805,7 @@ Watch for:
   - [Mild] Father Sean: “...but it ends with bread and wine.”
 
 ## S17 E1 — The Bonfire of the Manatees
-URL: https://watchwiththekids.com/ep/simpsons/1701.html
+URL: https://watchwiththekids.com/ep/simpsons/1701
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4820,7 +4820,7 @@ Watch for:
   - [Mild] Football Announcer: “And with thirty-seven starting players out with the flu, the Oakland Raiders have turned to drunks conscripted from local bars.”
 
 ## S17 E2 — The Girl Who Slept Too Little
-URL: https://watchwiththekids.com/ep/simpsons/1702.html
+URL: https://watchwiththekids.com/ep/simpsons/1702
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4841,7 +4841,7 @@ Watch for:
   - [Mild] Homer Simpson: “Hey, I love waking up drunk in the morning.”
 
 ## S17 E3 — Milhouse of Sand and Fog
-URL: https://watchwiththekids.com/ep/simpsons/1703.html
+URL: https://watchwiththekids.com/ep/simpsons/1703
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -4867,7 +4867,7 @@ Watch for:
   - [Caution] Bart Simpson: “Skanks for nothing, Lamerella. (LAME-ER-ELLA)”
 
 ## S17 E4 — Treehouse of Horror XVI
-URL: https://watchwiththekids.com/ep/simpsons/1704.html
+URL: https://watchwiththekids.com/ep/simpsons/1704
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4888,14 +4888,14 @@ Watch for:
   - [Caution] Moe Szyslak: “(FLYING THROUGH AIR) Ya fat ass.”
 
 ## S17 E5 — Marge's Son Poisoning
-URL: https://watchwiththekids.com/ep/simpsons/1705.html
+URL: https://watchwiththekids.com/ep/simpsons/1705
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Moe Szyslak: “Yes! Homer, we make a dynamite team, huh? With your arm, (TAPS OWN FOREHEAD) and my head-gunk, we're goin' right to the top! (HEARS GUN COCKING NOISE) Whoa.”
 
 ## S17 E6 — See Homer Run
-URL: https://watchwiththekids.com/ep/simpsons/1706.html
+URL: https://watchwiththekids.com/ep/simpsons/1706
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -4903,7 +4903,7 @@ Watch for:
   - [Mild] Kent Brockman: “Mr. Simpson, what about those photos of you strangling your child?”
 
 ## S17 E7 — The Last of the Red Hat Mamas
-URL: https://watchwiththekids.com/ep/simpsons/1707.html
+URL: https://watchwiththekids.com/ep/simpsons/1707
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4918,7 +4918,7 @@ Watch for:
   - [Mild] Chief Wiggum: “Oh here we go with the fat jokes. You know I just wish you could hit the easy targets on the firing range so well. (THEN, SADLY) Oh Lou, why do we hurt each other so?”
 
 ## S17 E8 — The Italian Bob
-URL: https://watchwiththekids.com/ep/simpsons/1708.html
+URL: https://watchwiththekids.com/ep/simpsons/1708
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 9 moment(s)
@@ -4946,7 +4946,7 @@ Watch for:
   - [Caution] Goat Woman: “Kentucky?! In Italian, this mean whore!”
 
 ## S17 E9 — Simpsons Christmas Stories
-URL: https://watchwiththekids.com/ep/simpsons/1709.html
+URL: https://watchwiththekids.com/ep/simpsons/1709
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -4961,7 +4961,7 @@ Watch for:
   - [Mild] Joseph: “(ANGUISHED MOAN) My wine turned into water! Who could've performed such a cruel miracle?”
 
 ## S17 E10 — Homer's Paternity Coot
-URL: https://watchwiththekids.com/ep/simpsons/1710.html
+URL: https://watchwiththekids.com/ep/simpsons/1710
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -4976,7 +4976,7 @@ Watch for:
   - [Mild] Homer Simpson: “As I lay dying on the ocean floor, I remembered everything you've done for me. To Hell with that stupid DNA test and its ninety-nine point nine, nine, nine, nine, seven per cent accuracy -- you're my dad, and I love you.”
 
 ## S17 E11 — We're on the Road to D'ohwhere
-URL: https://watchwiththekids.com/ep/simpsons/1711.html
+URL: https://watchwiththekids.com/ep/simpsons/1711
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4993,7 +4993,7 @@ Watch for:
   - [Mild] Fun Homer: “(TIPSY) Aw c'mon, Serious Homer, let me out! We'll get a monkey drunk and push him down the stairs.”
 
 ## S17 E12 — My Fair Laddy
-URL: https://watchwiththekids.com/ep/simpsons/1712.html
+URL: https://watchwiththekids.com/ep/simpsons/1712
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -5008,7 +5008,7 @@ Watch for:
   - [Mild] G. K. Willington: “(SINGS) AND WHEN I PASSED OUT DRUNK FROM TURPENTINE SHE UNDERSTOOD”
 
 ## S17 E13 — The Seemingly Never-Ending Story
-URL: https://watchwiththekids.com/ep/simpsons/1713.html
+URL: https://watchwiththekids.com/ep/simpsons/1713
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -5025,7 +5025,7 @@ Watch for:
   - [Mild] Moe Szyslak: “(LOW FURY) Listen booze-bags, I got a good thing goin' here. If you mess it up, I will "out" the one of you that is gay.”
 
 ## S17 E14 — Bart Has Two Mommies
-URL: https://watchwiththekids.com/ep/simpsons/1714.html
+URL: https://watchwiththekids.com/ep/simpsons/1714
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5037,7 +5037,7 @@ Watch for:
   - [Mild] Rod Flanders: “(CALL OUT LOUDLY) I'm gay, Daddy! I'm gay! Mrs. Simpson made me gay!”
 
 ## S17 E15 — Homer Simpson, This Is Your Wife
-URL: https://watchwiththekids.com/ep/simpsons/1715.html
+URL: https://watchwiththekids.com/ep/simpsons/1715
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5059,7 +5059,7 @@ Watch for:
   - [Mild] Homer Simpson: “(COMMANDING) Lenny! Bring me a beer and your deepest chamber pot! (CLAPS HANDS TWICE) Chop-chop!”
 
 ## S17 E16 — Million-Dollar Abie
-URL: https://watchwiththekids.com/ep/simpsons/1716.html
+URL: https://watchwiththekids.com/ep/simpsons/1716
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -5077,7 +5077,7 @@ Watch for:
   - [Caution] Sideshow Mel: “(SPUTTERS) Isn't your mother a well-known whore?”
 
 ## S17 E17 — Kiss Kiss, Bang Bangalore
-URL: https://watchwiththekids.com/ep/simpsons/1717.html
+URL: https://watchwiththekids.com/ep/simpsons/1717
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -5090,7 +5090,7 @@ Watch for:
   - [Caution] Homer Simpson: “(MAKING OUT) Oh baby... ooo, did you lose weight?... oh c'mon, baby, don't play hard to milk...”
 
 ## S17 E18 — The Wettest Stories Ever Told
-URL: https://watchwiththekids.com/ep/simpsons/1718.html
+URL: https://watchwiththekids.com/ep/simpsons/1718
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5111,7 +5111,7 @@ Watch for:
   - [Caution] Homer Simpson: “Swim, fatty, swim!”
 
 ## S17 E19 — Girls Just Want to Have Sums
-URL: https://watchwiththekids.com/ep/simpsons/1719.html
+URL: https://watchwiththekids.com/ep/simpsons/1719
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 10 moment(s)
@@ -5127,7 +5127,7 @@ Watch for:
   - [Mild] Lisa's Thoughts: “Okay, I'll do it. But whom should I beat up?”
 
 ## S17 E20 — Regarding Margie
-URL: https://watchwiththekids.com/ep/simpsons/1720.html
+URL: https://watchwiththekids.com/ep/simpsons/1720
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -5148,7 +5148,7 @@ Watch for:
   - [Caution] Ned Flanders: “(UPBEAT) Only ten dollars to paint my curb like a common whore? Well I'm happy to pay for a three-digit spray! (PAYS THEM) Tell you what, I'll give you another hundred if you paint my garage!”
 
 ## S17 E21 — The Monkey Suit
-URL: https://watchwiththekids.com/ep/simpsons/1721.html
+URL: https://watchwiththekids.com/ep/simpsons/1721
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5164,7 +5164,7 @@ Watch for:
   - [Mild] Marge Simpson: “Look, Homie, I brought you a beer.”
 
 ## S17 E22 — Marge and Homer Turn a Couple Play
-URL: https://watchwiththekids.com/ep/simpsons/1722.html
+URL: https://watchwiththekids.com/ep/simpsons/1722
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5178,7 +5178,7 @@ Watch for:
   - [Mild] Duffman: “No, I said "Duffman will do what you want. Stop kicking and punching Duffman."”
 
 ## S18 E1 — The Mook, the Chef, the Wife and Her Homer
-URL: https://watchwiththekids.com/ep/simpsons/1801.html
+URL: https://watchwiththekids.com/ep/simpsons/1801
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5192,7 +5192,7 @@ Watch for:
   - [Caution] Homer Simpson: “You monster! Just cut his Achilles tendon with this knife.”
 
 ## S18 E2 — Jazzy and the Pussycats
-URL: https://watchwiththekids.com/ep/simpsons/1802.html
+URL: https://watchwiththekids.com/ep/simpsons/1802
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5205,7 +5205,7 @@ Watch for:
   - [Mild] Rev. Timothy Lovejoy: “We are here to mourn the tragic loss of Amber Pai Gow Simpson -- a gifted cocktail waitress who hoped one day to learn computers.”
 
 ## S18 E3 — Please Homer, Don't Hammer 'Em
-URL: https://watchwiththekids.com/ep/simpsons/1803.html
+URL: https://watchwiththekids.com/ep/simpsons/1803
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5218,7 +5218,7 @@ Watch for:
   - [Mild] Homer Simpson: “And now to get stinking drunk!”
 
 ## S18 E4 — Treehouse of Horror XVII
-URL: https://watchwiththekids.com/ep/simpsons/1804.html
+URL: https://watchwiththekids.com/ep/simpsons/1804
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -5236,7 +5236,7 @@ Watch for:
   - [Mild] Homer Simpson: “(DRUNK) Bart, there's something I have to tell you father to son. I passed out on your turtle and killed it. Someday you'll thank me.”
 
 ## S18 E5 — G.I. (Annoyed Grunt)
-URL: https://watchwiththekids.com/ep/simpsons/1805.html
+URL: https://watchwiththekids.com/ep/simpsons/1805
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5258,7 +5258,7 @@ Watch for:
   - [Mild] Homer Simpson: “Hmm... Let's see what your hangover has to say!”
 
 ## S18 E6 — Moe'N'a Lisa
-URL: https://watchwiththekids.com/ep/simpsons/1806.html
+URL: https://watchwiththekids.com/ep/simpsons/1806
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -5269,7 +5269,7 @@ Watch for:
   - [Mild] Cocktail Party: int. cocktail party - CONTINUOUS
 
 ## S18 E7 — Ice Cream of Margie (with the Light Blue Hair)
-URL: https://watchwiththekids.com/ep/simpsons/1807.html
+URL: https://watchwiththekids.com/ep/simpsons/1807
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5278,7 +5278,7 @@ Watch for:
   - [Mild] Martin Prince: “I feel like Icarus, flying too close to Apollo's golden orb! (OFF NELSON'S LOOK) Punch away, Nelson.”
 
 ## S18 E8 — The Haw-Hawed Couple
-URL: https://watchwiththekids.com/ep/simpsons/1808.html
+URL: https://watchwiththekids.com/ep/simpsons/1808
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5294,7 +5294,7 @@ Watch for:
   - [Too much] Martin Prince: “He's right. Individually, we are weak like a single twig... (SNAPS TWIG) But as a bundle, we form a mighty faggot.”
 
 ## S18 E9 — Kill Gil, Volumes I & II
-URL: https://watchwiththekids.com/ep/simpsons/1809.html
+URL: https://watchwiththekids.com/ep/simpsons/1809
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -5305,7 +5305,7 @@ Watch for:
   - [Mild] Homer Simpson: “(ANGUISHED) Their drunken singing is ruining St. Patrick's day!”
 
 ## S18 E10 — The Wife Aquatic
-URL: https://watchwiththekids.com/ep/simpsons/1810.html
+URL: https://watchwiththekids.com/ep/simpsons/1810
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5323,7 +5323,7 @@ Watch for:
   - [Mild] Captain Jack: “Wait, this is bait! Homer, I told you to beer batter the shrimp and bait the hooks. (REALIZING, ANGRY) Did you do the opposite?”
 
 ## S18 E11 — Revenge Is a Dish Best Served Three Times
-URL: https://watchwiththekids.com/ep/simpsons/1811.html
+URL: https://watchwiththekids.com/ep/simpsons/1811
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -5333,7 +5333,7 @@ Watch for:
   - [Mild] Lisa Simpson: “(DRUNK) Uh... deux... (VERY DRUNK) troi....”
 
 ## S18 E12 — Little Big Girl
-URL: https://watchwiththekids.com/ep/simpsons/1812.html
+URL: https://watchwiththekids.com/ep/simpsons/1812
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5350,7 +5350,7 @@ Watch for:
   - [Caution] Homer Simpson: “(GRAVE) It's a tragedy, a real tragedy. I mean, what kind of tramp gets knocked up before she's even married?”
 
 ## S18 E13 — Springfield Up
-URL: https://watchwiththekids.com/ep/simpsons/1813.html
+URL: https://watchwiththekids.com/ep/simpsons/1813
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5369,7 +5369,7 @@ Watch for:
   - [Mild] “32-Year-Old Eleanor: (EDGY) I'm a little burnt out. So sometimes, don't shoot me, I have a glass of wine with Buster, here.”
 
 ## S18 E14 — Yokel Chords
-URL: https://watchwiththekids.com/ep/simpsons/1814.html
+URL: https://watchwiththekids.com/ep/simpsons/1814
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5389,7 +5389,7 @@ Watch for:
   - [Too much] Krusty the Clown: “There's Butt-crack Barry, Merle Values, Reverend Racist and Andy Dick.”
 
 ## S18 E15 — Rome-Old and Juli-Eh
-URL: https://watchwiththekids.com/ep/simpsons/1815.html
+URL: https://watchwiththekids.com/ep/simpsons/1815
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -5398,7 +5398,7 @@ Watch for:
   - [Mild] Homer Simpson: “Okay, but I'm not good at details. Or the big picture. I also show up late, and drunk.”
 
 ## S18 E16 — Homerazzi
-URL: https://watchwiththekids.com/ep/simpsons/1816.html
+URL: https://watchwiththekids.com/ep/simpsons/1816
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5410,7 +5410,7 @@ Watch for:
   - [Mild] Homer Simpson: “Okay boy, this is that snooty supermarket all the celebrities shop at. You're gonna help me ambush them. (LOOKS AROUND, AWED) Look at this place. Imported beer? Seedless grapes? Chewing gum?”
 
 ## S18 E17 — Marge Gamer
-URL: https://watchwiththekids.com/ep/simpsons/1817.html
+URL: https://watchwiththekids.com/ep/simpsons/1817
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5426,7 +5426,7 @@ Watch for:
   - [Mild] Bart Simpson: “Wanna go slam a few beers?”
 
 ## S18 E18 — The Boys of Bummer
-URL: https://watchwiththekids.com/ep/simpsons/1818.html
+URL: https://watchwiththekids.com/ep/simpsons/1818
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5444,12 +5444,12 @@ Watch for:
   - [Mild] Homer Simpson: “Let me tell you about a land where it rains beer and hails pretzels, and you can play swim-up blackjack with Abraham Lincoln!”
 
 ## S18 E19 — Crook and Ladder
-URL: https://watchwiththekids.com/ep/simpsons/1819.html
+URL: https://watchwiththekids.com/ep/simpsons/1819
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S18 E20 — Stop! Or My Dog Will Shoot
-URL: https://watchwiththekids.com/ep/simpsons/1820.html
+URL: https://watchwiththekids.com/ep/simpsons/1820
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5466,14 +5466,14 @@ Watch for:
   - [Mild] Bart Simpson: “(CALLING) Here, Strangles! Strangles?”
 
 ## S18 E21 — 24 Minutes
-URL: https://watchwiththekids.com/ep/simpsons/1821.html
+URL: https://watchwiththekids.com/ep/simpsons/1821
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Groundskeeper Willie: “Teens? In Willie's hidey hole?! I'll mop up your blood from the inside!”
 
 ## S18 E22 — You Kent Always Say What You Want
-URL: https://watchwiththekids.com/ep/simpsons/1822.html
+URL: https://watchwiththekids.com/ep/simpsons/1822
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -5483,7 +5483,7 @@ Watch for:
   - [Too much] Lindsay Naegle: “No, no. This station stands by its reporters. Say, what's that powder in your coffee? Is it cocaine?”
 
 ## S19 E1 — He Loves to Fly and He D'ohs
-URL: https://watchwiththekids.com/ep/simpsons/1901.html
+URL: https://watchwiththekids.com/ep/simpsons/1901
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5501,7 +5501,7 @@ Watch for:
   - [Mild] Homer Simpson: “Please tell me you're joking -- it's the difference between champagne and carbonated pee.”
 
 ## S19 E2 — The Homer of Seville
-URL: https://watchwiththekids.com/ep/simpsons/1902.html
+URL: https://watchwiththekids.com/ep/simpsons/1902
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5516,7 +5516,7 @@ Watch for:
   - [Mild] Homer Simpson: “Oh, good. This makes up for me showing up drunk to the father-daughter dance.”
 
 ## S19 E3 — Midnight Towboy
-URL: https://watchwiththekids.com/ep/simpsons/1903.html
+URL: https://watchwiththekids.com/ep/simpsons/1903
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5531,7 +5531,7 @@ Watch for:
   - [Caution] Bart Simpson: “Shut the Hell up, you damn ass whore.”
 
 ## S19 E4 — I Don't Wanna Know Why the Caged Bird Sings
-URL: https://watchwiththekids.com/ep/simpsons/1904.html
+URL: https://watchwiththekids.com/ep/simpsons/1904
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -5544,7 +5544,7 @@ Watch for:
   - [Mild] DOLPH: “Willie. He'll buy beer for you but he'll make you drink it with him.”
 
 ## S19 E5 — Treehouse of Horror XVIII
-URL: https://watchwiththekids.com/ep/simpsons/1905.html
+URL: https://watchwiththekids.com/ep/simpsons/1905
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5559,7 +5559,7 @@ Watch for:
   - [Caution] Homer Simpson: “(MAD) Out of my way, mystery skank!”
 
 ## S19 E6 — Little Orphan Millie
-URL: https://watchwiththekids.com/ep/simpsons/1906.html
+URL: https://watchwiththekids.com/ep/simpsons/1906
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -5569,7 +5569,7 @@ Watch for:
   - [Mild] Homer Simpson: “Good idea. I'll drown my sorrows in Anchor Steam Beer! (REALIZING, BIGGEST EMBARRASSED NOISE YET) Oh, I'm sorry!”
 
 ## S19 E7 — Husbands and Knives
-URL: https://watchwiththekids.com/ep/simpsons/1907.html
+URL: https://watchwiththekids.com/ep/simpsons/1907
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5587,7 +5587,7 @@ Watch for:
   - [Caution] “Husband #2: ...and of course, cut out all fatty foods and alcohol.”
 
 ## S19 E8 — Funeral for a Fiend
-URL: https://watchwiththekids.com/ep/simpsons/1908.html
+URL: https://watchwiththekids.com/ep/simpsons/1908
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -5597,7 +5597,7 @@ Watch for:
   - [Mild] Bart Simpson: “Bob, it's me, Bart. I came here to tell you I never meant for you to die. I just wanted you to go to jail and get beat up a lot. (SAD) Now everyone wishes I was dead...”
 
 ## S19 E9 — Eternal Moonshine of the Simpson Mind
-URL: https://watchwiththekids.com/ep/simpsons/1909.html
+URL: https://watchwiththekids.com/ep/simpsons/1909
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -5612,14 +5612,14 @@ Watch for:
   - [Mild] Duffman: “Now who wants a beer? Ha-ha!”
 
 ## S19 E10 — E Pluribus Wiggum
-URL: https://watchwiththekids.com/ep/simpsons/1910.html
+URL: https://watchwiththekids.com/ep/simpsons/1910
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Carl Carlson: “This punch is too sweet.”
 
 ## S19 E11 — That '90s Show
-URL: https://watchwiththekids.com/ep/simpsons/1911.html
+URL: https://watchwiththekids.com/ep/simpsons/1911
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -5639,7 +5639,7 @@ Watch for:
   - [Mild] Young Moe: “I don't sell booze no more. This is a cigar bar now.”
 
 ## S19 E12 — Love, Springfieldian Style
-URL: https://watchwiththekids.com/ep/simpsons/1912.html
+URL: https://watchwiththekids.com/ep/simpsons/1912
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5654,12 +5654,12 @@ Watch for:
   - [Caution] Siamese Cats: “(BITCHY) ANY MINUTE NOW / THIS POOCH WILL KNOW SHE'S SCREWED...”
 
 ## S19 E13 — The Debarted
-URL: https://watchwiththekids.com/ep/simpsons/1913.html
+URL: https://watchwiththekids.com/ep/simpsons/1913
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S19 E14 — Dial 'N' for Nerder
-URL: https://watchwiththekids.com/ep/simpsons/1914.html
+URL: https://watchwiththekids.com/ep/simpsons/1914
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5683,7 +5683,7 @@ Watch for:
   - [Caution] Zack: “(SHARPLY) Yeah, yeah we're all whores. Just get in there!”
 
 ## S19 E15 — Smoke on the Daughter
-URL: https://watchwiththekids.com/ep/simpsons/1915.html
+URL: https://watchwiththekids.com/ep/simpsons/1915
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5696,7 +5696,7 @@ Watch for:
   - [Mild] Homer Simpson: “Maybe you're drunk.”
 
 ## S19 E16 — Papa Don't Leech
-URL: https://watchwiththekids.com/ep/simpsons/1916.html
+URL: https://watchwiththekids.com/ep/simpsons/1916
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5713,7 +5713,7 @@ Watch for:
   - [Mild] Lurleen's Boyfriend: “Babe, I need a hundred bucks for beer.”
 
 ## S19 E17 — Apocalypse Cow
-URL: https://watchwiththekids.com/ep/simpsons/1917.html
+URL: https://watchwiththekids.com/ep/simpsons/1917
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5724,7 +5724,7 @@ Watch for:
   - [Too much] Stabbed-in-jail: “(CHEERFUL) We'll see who stabs who.”
 
 ## S19 E18 — Any Given Sundance
-URL: https://watchwiththekids.com/ep/simpsons/1918.html
+URL: https://watchwiththekids.com/ep/simpsons/1918
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5736,7 +5736,7 @@ Watch for:
   - [Caution] Head Board Member: “"...played by Martin Lawrence in a fat suit."”
 
 ## S19 E19 — Mona Leaves-a
-URL: https://watchwiththekids.com/ep/simpsons/1919.html
+URL: https://watchwiththekids.com/ep/simpsons/1919
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -5749,7 +5749,7 @@ Watch for:
   - [Caution] Hippos: “(BART'S VOICE SINGS) YO WE'RE ROCKIN' OUT BALLS / (YELLS OUT) Tub of Tard. / Crapper Clogger. / Fatty-watty.”
 
 ## S19 E20 — All About Lisa
-URL: https://watchwiththekids.com/ep/simpsons/1920.html
+URL: https://watchwiththekids.com/ep/simpsons/1920
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5761,7 +5761,7 @@ Watch for:
   - [Too much] Sideshow Mel: “Applause is an addiction, like heroin or checking your email. Once you have a taste, you'll do anything to get more. Don't end up like these people. Don't end up like... (TURNS HEAD, EMOTIONAL) me.”
 
 ## S20 E1 — Sex, Pies and Idiot Scrapes
-URL: https://watchwiththekids.com/ep/simpsons/2001.html
+URL: https://watchwiththekids.com/ep/simpsons/2001
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5778,7 +5778,7 @@ Watch for:
   - [Mild] Mayor Joe Quimby: “Oh no, without the booze these guys all remember how much they hate each other!”
 
 ## S20 E2 — Lost Verizon
-URL: https://watchwiththekids.com/ep/simpsons/2002.html
+URL: https://watchwiththekids.com/ep/simpsons/2002
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5789,7 +5789,7 @@ Watch for:
   - [Mild] Barney Gumble: “I'll clean you up good, giant beer can!”
 
 ## S20 E3 — Double, Double, Boy in Trouble
-URL: https://watchwiththekids.com/ep/simpsons/2003.html
+URL: https://watchwiththekids.com/ep/simpsons/2003
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -5802,7 +5802,7 @@ Watch for:
   - [Mild] Wino: “(OFFENDED) Uh, we're champagne-os. Who wants a mimosa?”
 
 ## S20 E5 — Dangerous Curves
-URL: https://watchwiththekids.com/ep/simpsons/2005.html
+URL: https://watchwiththekids.com/ep/simpsons/2005
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -5810,7 +5810,7 @@ Watch for:
   - [Mild] Homer Simpson: “No, I'm trying to get me drunk.”
 
 ## S20 E6 — Homer and Lisa Exchange Cross Words
-URL: https://watchwiththekids.com/ep/simpsons/2006.html
+URL: https://watchwiththekids.com/ep/simpsons/2006
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5829,7 +5829,7 @@ Watch for:
   - [Too much] Asian Man: “(MILD CHINESE ACCENT) He has a name, you know!”
 
 ## S20 E7 — MyPods and Boomsticks
-URL: https://watchwiththekids.com/ep/simpsons/2007.html
+URL: https://watchwiththekids.com/ep/simpsons/2007
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -5839,7 +5839,7 @@ Watch for:
   - [Mild] Homer Simpson: “Sir? (IMPRESSED) That's the kind of respect you'd have to strangle out of an American kid.”
 
 ## S20 E8 — The Burns and the Bees
-URL: https://watchwiththekids.com/ep/simpsons/2008.html
+URL: https://watchwiththekids.com/ep/simpsons/2008
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5852,7 +5852,7 @@ Watch for:
   - [Caution] Homer Simpson: “(SNORTS) Flowers -- the painted whores of the plant world.”
 
 ## S20 E9 — Lisa the Drama Queen
-URL: https://watchwiththekids.com/ep/simpsons/2009.html
+URL: https://watchwiththekids.com/ep/simpsons/2009
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -5861,7 +5861,7 @@ Watch for:
   - [Caution] Art Instructor: “C'mon, fatty. Keep up!”
 
 ## S20 E10 — Take My Life, Please
-URL: https://watchwiththekids.com/ep/simpsons/2010.html
+URL: https://watchwiththekids.com/ep/simpsons/2010
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5875,14 +5875,14 @@ Watch for:
   - [Mild] Homer Simpson: “I'll just stick with my beer.”
 
 ## S20 E11 — How the Test Was Won
-URL: https://watchwiththekids.com/ep/simpsons/2011.html
+URL: https://watchwiththekids.com/ep/simpsons/2011
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - [Too much] Gary Chalmers: “Lisa, like Captain Kirk, I'm not supposed to interfere. But like T.J. Hooker, I say what is on my mind. If you don't know the answer, just guess.”
 
 ## S20 E12 — No Loan Again, Naturally
-URL: https://watchwiththekids.com/ep/simpsons/2012.html
+URL: https://watchwiththekids.com/ep/simpsons/2012
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5894,14 +5894,14 @@ Watch for:
   - [Mild] Mrs. Muntz: “(DRUNK) What are you, some kind of talking dog?”
 
 ## S20 E13 — Gone Maggie Gone
-URL: https://watchwiththekids.com/ep/simpsons/2013.html
+URL: https://watchwiththekids.com/ep/simpsons/2013
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Kent Brockman: “A solar eclipse is like a woman breast-feeding at a restaurant: it's free, it's beautiful, but under no circumstances should you look at it.”
 
 ## S20 E14 — In the Name of the Grandfather
-URL: https://watchwiththekids.com/ep/simpsons/2014.html
+URL: https://watchwiththekids.com/ep/simpsons/2014
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5921,7 +5921,7 @@ Watch for:
   - [Mild] Homer Simpson: “(TO MAN WALKING BY) Hey, boyo -- how about a tall cool one? (TO ANOTHER MAN PASSING BY) How about you, Greensleeves? Irishmen love to get drunk.”
 
 ## S20 E15 — Wedding for Disaster
-URL: https://watchwiththekids.com/ep/simpsons/2015.html
+URL: https://watchwiththekids.com/ep/simpsons/2015
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -5932,7 +5932,7 @@ Watch for:
   - [Mild] Marge Simpson: “(TIPSY) It's all my fault: Homer wanted to serve those little cocktail hot dogs. But no. I had to have (BITTERLY) spring rolls! They taste like nothing!”
 
 ## S20 E16 — Eeny Teeny Maya Moe
-URL: https://watchwiththekids.com/ep/simpsons/2016.html
+URL: https://watchwiththekids.com/ep/simpsons/2016
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5942,7 +5942,7 @@ Watch for:
   - [Mild] Moe Szyslak: “(LAUGHING) And we can drink champagne out of an acorn top. Our first dance will be on the head of a pin! I've been hoggin' all the good ones. All right, now you go. But hey, keep it short! (CHUCKLES AGAIN)”
 
 ## S20 E17 — The Good, the Sad and the Drugly
-URL: https://watchwiththekids.com/ep/simpsons/2017.html
+URL: https://watchwiththekids.com/ep/simpsons/2017
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -5950,7 +5950,7 @@ Watch for:
   - [Mild] Nelson Muntz: “(LOUD WHISPER) Seal the deal! Punch her! Punch her!”
 
 ## S20 E18 — Father Knows Worst
-URL: https://watchwiththekids.com/ep/simpsons/2018.html
+URL: https://watchwiththekids.com/ep/simpsons/2018
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -5959,7 +5959,7 @@ Watch for:
   - [Mild] Moe Szyslak: “(SOBS LIKE TEENAGE GIRL, THEN CLEARLY SAYS) If I didn't sell booze, they probably wouldn't even come here. (SOBS SOME MORE)”
 
 ## S20 E19 — Waverly Hills, 9-0-2-1-D'oh
-URL: https://watchwiththekids.com/ep/simpsons/2019.html
+URL: https://watchwiththekids.com/ep/simpsons/2019
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5976,7 +5976,7 @@ Watch for:
   - [Mild] Geoff: “(A LITTLE DRUNK) So were you two in the same accident or... or what?”
 
 ## S20 E20 — Four Great Women and a Manicure
-URL: https://watchwiththekids.com/ep/simpsons/2020.html
+URL: https://watchwiththekids.com/ep/simpsons/2020
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -5995,7 +5995,7 @@ Watch for:
   - [Mild] Lisa Simpson: “There's Crabby...Drunky...Hungry!”
 
 ## S21 E1 — Homer the Whopper
-URL: https://watchwiththekids.com/ep/simpsons/2101.html
+URL: https://watchwiththekids.com/ep/simpsons/2101
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6014,7 +6014,7 @@ Watch for:
   - [Caution] Homer Simpson: “Apu, I have to lose weight now. Do you have anything that'll make me vomit?”
 
 ## S21 E2 — Bart Gets a 'Z'
-URL: https://watchwiththekids.com/ep/simpsons/2102.html
+URL: https://watchwiththekids.com/ep/simpsons/2102
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6032,7 +6032,7 @@ Watch for:
   - [Mild] Zack: “(IMITATES CRAZY GUITAR RIFF) (SINGS) THIS PLACE IS A PRISON! (GUITAR NOISE) / ALL YOU KIDS ARE SCREWED! (GUITAR NOISE) / KIDS AND VODKA!”
 
 ## S21 E3 — The Great Wife Hope
-URL: https://watchwiththekids.com/ep/simpsons/2103.html
+URL: https://watchwiththekids.com/ep/simpsons/2103
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6055,7 +6055,7 @@ Watch for:
   - [Mild] Lisa Simpson: “Two drunk guys were fighting outside and everyone went to watch.”
 
 ## S21 E4 — Treehouse of Horror XX
-URL: https://watchwiththekids.com/ep/simpsons/2104.html
+URL: https://watchwiththekids.com/ep/simpsons/2104
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -6068,7 +6068,7 @@ Watch for:
   - [Mild] Homer Simpson: “Woo hoo! An unattended tap! Like takin' beer from a baby!”
 
 ## S21 E5 — The Devil Wears Nada
-URL: https://watchwiththekids.com/ep/simpsons/2105.html
+URL: https://watchwiththekids.com/ep/simpsons/2105
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6084,14 +6084,14 @@ Watch for:
   - [Mild] Women: “(LOUD DRUNK CONVERSATION)”
 
 ## S21 E7 — Rednecks and Broomsticks
-URL: https://watchwiththekids.com/ep/simpsons/2107.html
+URL: https://watchwiththekids.com/ep/simpsons/2107
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Lenny Leonard: “Yeah. There's somethin' wonderful about being drunk outdoors.”
 
 ## S21 E8 — O Brother, Where Bart Thou?
-URL: https://watchwiththekids.com/ep/simpsons/2108.html
+URL: https://watchwiththekids.com/ep/simpsons/2108
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6108,14 +6108,14 @@ Watch for:
   - [Mild] Bart Simpson: “(GROGGY) I'm Bart Simpson. Who the hell are you?”
 
 ## S21 E9 — Thursdays with Abie
-URL: https://watchwiththekids.com/ep/simpsons/2109.html
+URL: https://watchwiththekids.com/ep/simpsons/2109
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Homer Simpson: “Dad, I don't have the right words to say how I really feel about you, but at least I know how to beat up a guy who does.”
 
 ## S21 E10 — Once Upon a Time in Springfield
-URL: https://watchwiththekids.com/ep/simpsons/2110.html
+URL: https://watchwiththekids.com/ep/simpsons/2110
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6124,7 +6124,7 @@ Watch for:
   - [Too much] Krusty the Clown: “(SHRUGS, NOSTALGIC) A lot of suicides in that group... funny suicides (CHUCKLE) but still. (SAD) My day is over, kid.”
 
 ## S21 E11 — Million Dollar Maybe
-URL: https://watchwiththekids.com/ep/simpsons/2111.html
+URL: https://watchwiththekids.com/ep/simpsons/2111
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6135,7 +6135,7 @@ Watch for:
   - [Mild] Homer Simpson: “Here. (SIPS BEER)”
 
 ## S21 E12 — Boy Meets Curl
-URL: https://watchwiththekids.com/ep/simpsons/2112.html
+URL: https://watchwiththekids.com/ep/simpsons/2112
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6152,7 +6152,7 @@ Watch for:
   - [Mild] Marge Simpson: “(OFFHAND) I've been training all my life. I once swept red wine off a white carpet.”
 
 ## S21 E13 — The Color Yellow
-URL: https://watchwiththekids.com/ep/simpsons/2113.html
+URL: https://watchwiththekids.com/ep/simpsons/2113
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6163,7 +6163,7 @@ Watch for:
   - [Caution] Mabel: “Get off my property, Colonel Burns! And if I ever see you in these parts again, (COCKS SHOTGUN) you're gonna be a Memphis belle.”
 
 ## S21 E14 — Postcards from the Wedge
-URL: https://watchwiththekids.com/ep/simpsons/2114.html
+URL: https://watchwiththekids.com/ep/simpsons/2114
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6178,14 +6178,14 @@ Watch for:
   - [Mild] Bart Simpson: “Smooth move, Mom -- tricking Dad into having lunch at the one place that doesn't serve beer.”
 
 ## S21 E15 — Stealing First Base
-URL: https://watchwiththekids.com/ep/simpsons/2115.html
+URL: https://watchwiththekids.com/ep/simpsons/2115
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Kevin: “Nelson... your punch restored my vision! I can see again!”
 
 ## S21 E16 — The Greatest Story Ever D'ohed
-URL: https://watchwiththekids.com/ep/simpsons/2116.html
+URL: https://watchwiththekids.com/ep/simpsons/2116
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6196,7 +6196,7 @@ Watch for:
   - [Caution] Jakob: “You don't want to do a photo with me? You can hold my gun.”
 
 ## S21 E17 — American History X-cellent
-URL: https://watchwiththekids.com/ep/simpsons/2117.html
+URL: https://watchwiththekids.com/ep/simpsons/2117
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -6207,7 +6207,7 @@ Watch for:
   - [Mild] Carl Carlson: “(DRUNKEN REVELING)”
 
 ## S21 E18 — Chief of Hearts
-URL: https://watchwiththekids.com/ep/simpsons/2118.html
+URL: https://watchwiththekids.com/ep/simpsons/2118
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6226,7 +6226,7 @@ Watch for:
   - [Mild] Homer Simpson: “Ahhh, that is so much better than hospital beer.”
 
 ## S21 E19 — The Squirt and the Whale
-URL: https://watchwiththekids.com/ep/simpsons/2119.html
+URL: https://watchwiththekids.com/ep/simpsons/2119
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6239,7 +6239,7 @@ Watch for:
   - [Mild] Homer Simpson: “Hello, local utility? You greedy bastards have gouged Homer Simpson for the last time.”
 
 ## S21 E20 — To Surveil with Love
-URL: https://watchwiththekids.com/ep/simpsons/2120.html
+URL: https://watchwiththekids.com/ep/simpsons/2120
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6257,7 +6257,7 @@ Watch for:
   - [Mild] Duffman: “Now, who wants...beer cozies! A shirt that says "Yo!" Sassy seat cushions! (HOLDS UP SEAT CUSHION READING "PARK YOUR DUFF") And Flash drives for your P.C. so you can take your data and (HAMMY) back it up!!!”
 
 ## S21 E21 — Moe Letter Blues
-URL: https://watchwiththekids.com/ep/simpsons/2121.html
+URL: https://watchwiththekids.com/ep/simpsons/2121
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6280,7 +6280,7 @@ Watch for:
   - [Mild] Homer Simpson: “(SWEETLY) Sorry, honey. I wasn't listening. And I won't be listening now. (SIPS BEER)”
 
 ## S21 E22 — The Bob Next Door
-URL: https://watchwiththekids.com/ep/simpsons/2122.html
+URL: https://watchwiththekids.com/ep/simpsons/2122
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6297,7 +6297,7 @@ Watch for:
   - [Too much] Bart Simpson: “(CAJOLING) Come on, Bob, you don't need to kill me. I'll probably kill myself pretty soon with all the stupid things I do. Oh no, I swallowed my tongue. (FAKES TONGUE-SWALLOWING NOISES)”
 
 ## S21 E23 — Judge Me Tender
-URL: https://watchwiththekids.com/ep/simpsons/2123.html
+URL: https://watchwiththekids.com/ep/simpsons/2123
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6317,7 +6317,7 @@ Watch for:
   - [Mild] Barney Gumble: “To a drunk man that's a yes!”
 
 ## S22 E1 — Elementary School Musical
-URL: https://watchwiththekids.com/ep/simpsons/2201.html
+URL: https://watchwiththekids.com/ep/simpsons/2201
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -6326,7 +6326,7 @@ Watch for:
   - [Mild] Bart Simpson: “Krusty drunk on "The Tonight Show," Krusty drunk on "The Today Show," Krusty confesses to self-mutilation on Match…”
 
 ## S22 E2 — Loan-a Lisa
-URL: https://watchwiththekids.com/ep/simpsons/2202.html
+URL: https://watchwiththekids.com/ep/simpsons/2202
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6337,7 +6337,7 @@ Watch for:
   - [Caution] Chris Hansen: “I'm Chris Hansen from "To Catch A Credit-Whore". We know you've been returning used items all over town.”
 
 ## S22 E3 — MoneyBart
-URL: https://watchwiththekids.com/ep/simpsons/2203.html
+URL: https://watchwiththekids.com/ep/simpsons/2203
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6349,7 +6349,7 @@ Watch for:
   - [Mild] Moe Szyslak: “(ANNOYED) Hey, speaking of stats, I'm none too pleased about your ratio of "seats occupied" to "beers ordered."”
 
 ## S22 E4 — Treehouse of Horror XXI
-URL: https://watchwiththekids.com/ep/simpsons/2204.html
+URL: https://watchwiththekids.com/ep/simpsons/2204
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -6368,7 +6368,7 @@ Watch for:
   - [Too much] Homer Simpson: “(WEARY) I know, I know. Don't serve garlic... don't stab your guest in the heart with a wooden stake... don't ask him if he knows Frankenstein. It's racist somehow.”
 
 ## S22 E5 — Lisa Simpson, This Isn't Your Life
-URL: https://watchwiththekids.com/ep/simpsons/2205.html
+URL: https://watchwiththekids.com/ep/simpsons/2205
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -6381,7 +6381,7 @@ Watch for:
   - [Mild] Groundskeeper Willie: “(SINGS, TO "LOCH LOMOND") OH I'LL WAX THE UPSTAIRS / AND I'LL WAX THE DOWNSTAIRS / THEN I'LL GET DRUNK IN THE LI'BRY!”
 
 ## S22 E6 — The Fool Monty
-URL: https://watchwiththekids.com/ep/simpsons/2206.html
+URL: https://watchwiththekids.com/ep/simpsons/2206
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6396,7 +6396,7 @@ Watch for:
   - [Mild] Homer Simpson: “Yeah, I've done all I can do in that medium. (SIPS BEER)”
 
 ## S22 E7 — How Munched is That Birdie in the Window?
-URL: https://watchwiththekids.com/ep/simpsons/2207.html
+URL: https://watchwiththekids.com/ep/simpsons/2207
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -6408,14 +6408,14 @@ Watch for:
   - [Caution] Homer Simpson: “Even my tramp stamp?”
 
 ## S22 E8 — The Fight Before Christmas
-URL: https://watchwiththekids.com/ep/simpsons/2208.html
+URL: https://watchwiththekids.com/ep/simpsons/2208
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Lisa Simpson: “(DRYLY) Oh really? Well let me ask you this, how many kids bring a gun to meet Santa?”
 
 ## S22 E9 — Donnie Fatso
-URL: https://watchwiththekids.com/ep/simpsons/2209.html
+URL: https://watchwiththekids.com/ep/simpsons/2209
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6432,7 +6432,7 @@ Watch for:
   - [Mild] Krusty the Clown: “(DRUNK) If, if Jews control the media, why can't I get on Jimmy Kimmel, huh? Huh?!”
 
 ## S22 E10 — Moms I'd Like to Forget
-URL: https://watchwiththekids.com/ep/simpsons/2210.html
+URL: https://watchwiththekids.com/ep/simpsons/2210
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -6449,7 +6449,7 @@ Watch for:
   - [Mild] Homer Simpson: “(FRUSTRATED MOAN) Can we at least drink beer or something?”
 
 ## S22 E11 — Flaming Moe
-URL: https://watchwiththekids.com/ep/simpsons/2211.html
+URL: https://watchwiththekids.com/ep/simpsons/2211
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6463,7 +6463,7 @@ Watch for:
   - [Mild] Moe Szyslak: “So, uh, what would you gentlemen like? (NERVOUS LAUGH) I mean, I know what you'd like, and hey, why wouldn't you like it? Oh, ain't being comfortable with something weird the best? I'm gonna pour some beers now.”
 
 ## S22 E12 — Homer the Father
-URL: https://watchwiththekids.com/ep/simpsons/2212.html
+URL: https://watchwiththekids.com/ep/simpsons/2212
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -6483,7 +6483,7 @@ Watch for:
   - [Too much] Fat Chinese Spy: “(SLIGHT CHINESE ACCENT) Really? That's too bad. Because we are very interested in your offer.”
 
 ## S22 E13 — The Blue and the Gray
-URL: https://watchwiththekids.com/ep/simpsons/2213.html
+URL: https://watchwiththekids.com/ep/simpsons/2213
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6498,7 +6498,7 @@ Watch for:
   - [Mild] “Young Woman #1: (VERY ATTRACTED) Oh Homer, I've never seen a drunk hold his vomit like you. (PURRS)”
 
 ## S22 E14 — Angry Dad: The Movie
-URL: https://watchwiththekids.com/ep/simpsons/2214.html
+URL: https://watchwiththekids.com/ep/simpsons/2214
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6506,7 +6506,7 @@ Watch for:
   - [Too much] Herman Millwood: “...the chairs were never paid for, so we repossessed the only thing they had left -- the cartoons: "Space Penis," "Geena Davis Internet Project 1999," "John Stankworth, Fart Detective," "The Adventures Of Parody Man..."”
 
 ## S22 E15 — The Scorpion's Tale
-URL: https://watchwiththekids.com/ep/simpsons/2215.html
+URL: https://watchwiththekids.com/ep/simpsons/2215
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6522,7 +6522,7 @@ Watch for:
   - [Mild] Homer Simpson: “Who would begrudge them a few years of shambling, dope-fogged, into the grave? Besides, our generation's got everything under control! Now, if you'll excuse me, I was supposed to be drunk an hour ago.”
 
 ## S22 E16 — A Midsummer's Nice Dream
-URL: https://watchwiththekids.com/ep/simpsons/2216.html
+URL: https://watchwiththekids.com/ep/simpsons/2216
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6542,7 +6542,7 @@ Watch for:
   - [Mild] Gary Chalmers: “They're blank, Seymour. (HOLDS UP BLANK COCKTAIL NAPKIN)”
 
 ## S22 E17 — Love Is a Many Strangled Thing
-URL: https://watchwiththekids.com/ep/simpsons/2217.html
+URL: https://watchwiththekids.com/ep/simpsons/2217
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -6555,7 +6555,7 @@ Watch for:
   - [Mild] Homer Simpson: “(POUTY) I miss my friends from drunk driving school. (QUIET SOBS) They were so cool.”
 
 ## S22 E18 — The Great Simpsina
-URL: https://watchwiththekids.com/ep/simpsons/2218.html
+URL: https://watchwiththekids.com/ep/simpsons/2218
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6567,7 +6567,7 @@ Watch for:
   - [Caution] Cregg Demon: “Okay, for my first chillusion, I'm gonna descend into Hell and pull up a skank.”
 
 ## S22 E19 — The Real Housewives of Fat Tony
-URL: https://watchwiththekids.com/ep/simpsons/2219.html
+URL: https://watchwiththekids.com/ep/simpsons/2219
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -6579,7 +6579,7 @@ Watch for:
   - [Caution] Luigi: “Hey, don't run with the knife! Ah, stupid pig!”
 
 ## S22 E20 — Homer Scissorhands
-URL: https://watchwiththekids.com/ep/simpsons/2220.html
+URL: https://watchwiththekids.com/ep/simpsons/2220
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
@@ -6588,7 +6588,7 @@ Watch for:
   - [Mild] Homer Simpson: “(THINKS) Well, I open a lot of crazy things when I'm drunk, but I don't think so.”
 
 ## S22 E21 — Keys
-URL: https://watchwiththekids.com/ep/simpsons/2221.html
+URL: https://watchwiththekids.com/ep/simpsons/2221
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6605,7 +6605,7 @@ Watch for:
   - [Too much] Salesman: “(INDICATES ANOTHER CAKE) That one there? Bride's dad made a racist toast.”
 
 ## S22 E22 — The Ned-Liest Catch
-URL: https://watchwiththekids.com/ep/simpsons/2222.html
+URL: https://watchwiththekids.com/ep/simpsons/2222
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6618,7 +6618,7 @@ Watch for:
   - [Mild] Seymour Skinner: “(HOLDING TWO-THIRDS-EMPTY BEER MUG) We made sweet music in the band room, poetry during English class, and you don't wanna know what we did in the multi-purpose room.”
 
 ## S23 E1 — The Falcon and the D'ohman
-URL: https://watchwiththekids.com/ep/simpsons/2301.html
+URL: https://watchwiththekids.com/ep/simpsons/2301
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6633,7 +6633,7 @@ Watch for:
   - [Mild] Snake Jailbird: “(EXASPERATED NOISE) Drunks are sooo boring!”
 
 ## S23 E2 — Bart Stops to Smell the Roosevelts
-URL: https://watchwiththekids.com/ep/simpsons/2302.html
+URL: https://watchwiththekids.com/ep/simpsons/2302
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6648,7 +6648,7 @@ Watch for:
   - [Mild] Nelson Muntz: “This place is as beautiful as the side of a Coors beer can. (SAD) The kind my Dad used to leave in the bathtub.”
 
 ## S23 E3 — Treehouse of Horror XXII
-URL: https://watchwiththekids.com/ep/simpsons/2303.html
+URL: https://watchwiththekids.com/ep/simpsons/2303
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6672,7 +6672,7 @@ Watch for:
   - [Mild] Seymour Skinner: “And wine from their own grapes.”
 
 ## S23 E4 — Replaceable You
-URL: https://watchwiththekids.com/ep/simpsons/2304.html
+URL: https://watchwiththekids.com/ep/simpsons/2304
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6685,7 +6685,7 @@ Watch for:
   - [Mild] Roz: “Your giggle is like strawberry wine.”
 
 ## S23 E5 — The Food Wife
-URL: https://watchwiththekids.com/ep/simpsons/2305.html
+URL: https://watchwiththekids.com/ep/simpsons/2305
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -6699,7 +6699,7 @@ Watch for:
   - [Caution] Bart Simpson: “Aw, come on, Dad, be a foodie! You're already a fatty and a drunkie!”
 
 ## S23 E6 — The Book Job
-URL: https://watchwiththekids.com/ep/simpsons/2306.html
+URL: https://watchwiththekids.com/ep/simpsons/2306
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6708,7 +6708,7 @@ Watch for:
   - [Caution] “Professor Jonathan Frink: The trolls are now vampires, the Brooklyn Bridge is now a castle, and Fuzzlepitch is now Bloodball! Oh! Weak! Weak! And lame!”
 
 ## S23 E7 — The Man in the Blue Flannel Pants
-URL: https://watchwiththekids.com/ep/simpsons/2307.html
+URL: https://watchwiththekids.com/ep/simpsons/2307
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -6725,7 +6725,7 @@ Watch for:
   - [Mild] Regulator: “Homer! I want a Long Island ice tea, America's most complicated cocktail.”
 
 ## S23 E8 — The Ten-Per-Cent Solution
-URL: https://watchwiththekids.com/ep/simpsons/2308.html
+URL: https://watchwiththekids.com/ep/simpsons/2308
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -6751,7 +6751,7 @@ Watch for:
   - [Caution] Homer Simpson: “Now, let me ask you something: is there a place for an old-fashioned lardass like me on today's television?”
 
 ## S23 E9 — Holidays of Future Passed
-URL: https://watchwiththekids.com/ep/simpsons/2309.html
+URL: https://watchwiththekids.com/ep/simpsons/2309
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6773,7 +6773,7 @@ Watch for:
   - [Mild] “"Lenny": Hey Moe, get me another beer!”
 
 ## S23 E10 — Politically Inept, with Homer Simpson
-URL: https://watchwiththekids.com/ep/simpsons/2310.html
+URL: https://watchwiththekids.com/ep/simpsons/2310
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6791,7 +6791,7 @@ Watch for:
   - [Caution] Lisa Simpson: “(SADLY) Looks like we're back to traveling on tramp steamers and produce trucks.”
 
 ## S23 E11 — The D'oh-cial Network
-URL: https://watchwiththekids.com/ep/simpsons/2311.html
+URL: https://watchwiththekids.com/ep/simpsons/2311
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6803,7 +6803,7 @@ Watch for:
   - [Mild] Homer Simpson: “(TIPSY) Man, this website makes talking drunk to my wife so much safer.”
 
 ## S23 E12 — Moe Goes from Rags to Riches
-URL: https://watchwiththekids.com/ep/simpsons/2312.html
+URL: https://watchwiththekids.com/ep/simpsons/2312
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6818,7 +6818,7 @@ Watch for:
   - [Mild] Lenny Leonard: “This is so convenient! I can go straight from doin' my civic duty to having a beer with my best friend Carl!”
 
 ## S23 E13 — The Daughter Also Rises
-URL: https://watchwiththekids.com/ep/simpsons/2313.html
+URL: https://watchwiththekids.com/ep/simpsons/2313
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -6827,7 +6827,7 @@ Watch for:
   - [Mild] Grampa Simpson: “Yeah, there's a lot of fish in the sea, but she picked out a drunken walrus. But you and this Nick fella sound to me like the story of Pyramus and Thisbe.”
 
 ## S23 E14 — At Long Last Leave
-URL: https://watchwiththekids.com/ep/simpsons/2314.html
+URL: https://watchwiththekids.com/ep/simpsons/2314
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6847,7 +6847,7 @@ Watch for:
   - [Mild] Mayor Joe Quimby: “The simple fact is, the city is going broke cleaning up after Homer's drunken shenanigans...”
 
 ## S23 E15 — Exit Through the Kwik-E-Mart
-URL: https://watchwiththekids.com/ep/simpsons/2315.html
+URL: https://watchwiththekids.com/ep/simpsons/2315
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6866,7 +6866,7 @@ Watch for:
   - [Mild] Moe Szyslak: “Whoa, whoa, whoa, whoa! There's a white wine? And wha- a Swiss cheese? And a peanut butter? And a potato chip? And toilet paper? Wha-what?!”
 
 ## S23 E16 — How I Wet Your Mother
-URL: https://watchwiththekids.com/ep/simpsons/2316.html
+URL: https://watchwiththekids.com/ep/simpsons/2316
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6891,7 +6891,7 @@ Watch for:
   - [Mild] Moes: “In this place mothers are for drunk driving!”
 
 ## S23 E17 — Them, Robot
-URL: https://watchwiththekids.com/ep/simpsons/2317.html
+URL: https://watchwiththekids.com/ep/simpsons/2317
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -6907,7 +6907,7 @@ Watch for:
   - [Mild] Homer Simpson: “Now, let me raise this beer to toast...”
 
 ## S23 E18 — Beware My Cheating Bart
-URL: https://watchwiththekids.com/ep/simpsons/2318.html
+URL: https://watchwiththekids.com/ep/simpsons/2318
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6920,7 +6920,7 @@ Watch for:
   - [Mild] Jimbo Jones: “If I wrote down everything you told me to write down, I'd have no time for punching.”
 
 ## S23 E19 — A Totally Fun Thing That Bart Will Never Do Again
-URL: https://watchwiththekids.com/ep/simpsons/2319.html
+URL: https://watchwiththekids.com/ep/simpsons/2319
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6933,7 +6933,7 @@ Watch for:
   - [Caution] Filipino Steward: “Drop dead, fat ass!”
 
 ## S23 E20 — The Spy Who Learned Me
-URL: https://watchwiththekids.com/ep/simpsons/2320.html
+URL: https://watchwiththekids.com/ep/simpsons/2320
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -6942,7 +6942,7 @@ Watch for:
   - [Mild] Homer Simpson: “Sorry. (SIPS BEER)”
 
 ## S23 E21 — Ned 'n Edna's Blend
-URL: https://watchwiththekids.com/ep/simpsons/2321.html
+URL: https://watchwiththekids.com/ep/simpsons/2321
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6956,7 +6956,7 @@ Watch for:
   - [Caution] Bart Simpson: “Which one? Homer or fat ass?”
 
 ## S23 E22 — Lisa Goes Gaga
-URL: https://watchwiththekids.com/ep/simpsons/2322.html
+URL: https://watchwiththekids.com/ep/simpsons/2322
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6969,7 +6969,7 @@ Watch for:
   - [Mild] Lady Gaga: “(SADLY) Tiny diamonds. Hurts like hell.”
 
 ## S24 E1 — Moonshine River
-URL: https://watchwiththekids.com/ep/simpsons/2401.html
+URL: https://watchwiththekids.com/ep/simpsons/2401
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -6977,7 +6977,7 @@ Watch for:
   - [Mild] Homer Simpson: “Observe. (PICKS UP BART'S KRUSTY PHONE, SPEAKS LIKE DRUNK PERSON ACTING SOBER) Hey, it's me again. He's there, isn't he? Well, I hope this doesn't sound weird, but I'm inside your closet.”
 
 ## S24 E2 — Treehouse of Horror XXIII
-URL: https://watchwiththekids.com/ep/simpsons/2402.html
+URL: https://watchwiththekids.com/ep/simpsons/2402
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6988,7 +6988,7 @@ Watch for:
   - [Mild] Teenage Marge: “Let go of him! What kind of jerk strangles a little boy?”
 
 ## S24 E3 — Adventures in Baby-Getting
-URL: https://watchwiththekids.com/ep/simpsons/2403.html
+URL: https://watchwiththekids.com/ep/simpsons/2403
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6998,7 +6998,7 @@ Watch for:
   - [Mild] Lisa Simpson: “I hope you're happy. You all just wasted your time working your way into an afterschool class.”
 
 ## S24 E4 — Gone Abie Gone
-URL: https://watchwiththekids.com/ep/simpsons/2404.html
+URL: https://watchwiththekids.com/ep/simpsons/2404
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7010,7 +7010,7 @@ Watch for:
   - [Mild] Spiro: “Yes. (NOSTALGIC) In the old days. When people ate steak, drank champagne, and the music... oh, the music! (FURIOUS) I hated the music!”
 
 ## S24 E5 — Penny-Wiseguys
-URL: https://watchwiththekids.com/ep/simpsons/2405.html
+URL: https://watchwiththekids.com/ep/simpsons/2405
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7029,7 +7029,7 @@ Watch for:
   - [Mild] Bart Simpson: “Okay, but when I grow up and I'm living on your couch, and I drink all your booze, and sell your jewelry, you gotta be cool.”
 
 ## S24 E6 — A Tree Grows in Springfield
-URL: https://watchwiththekids.com/ep/simpsons/2406.html
+URL: https://watchwiththekids.com/ep/simpsons/2406
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -7041,7 +7041,7 @@ Watch for:
   - [Mild] Homer Simpson: “Moe, I could believe this was a random occurrence, or I could believe some higher power reached down and squeezed the sap outta that tree. I'm choosin' hope! Moe, a bottle of your finest beer!”
 
 ## S24 E7 — The Day the Earth Stood Cool
-URL: https://watchwiththekids.com/ep/simpsons/2407.html
+URL: https://watchwiththekids.com/ep/simpsons/2407
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7056,7 +7056,7 @@ Watch for:
   - [Mild] Emily: “(POINTED) Well, at least I don't put a corporate chemical cocktail into my child's body!”
 
 ## S24 E8 — To Cur with Love
-URL: https://watchwiththekids.com/ep/simpsons/2408.html
+URL: https://watchwiththekids.com/ep/simpsons/2408
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7070,7 +7070,7 @@ Watch for:
   - [Too much] Grampa Simpson: “(NODS) Uh-huh. All my stories have endings now. They're putting something in my Jell-O down at the home. Anyway, Homer and that dog went together like Christmas and suicidal thoughts.”
 
 ## S24 E9 — Homer Goes to Prep School
-URL: https://watchwiththekids.com/ep/simpsons/2409.html
+URL: https://watchwiththekids.com/ep/simpsons/2409
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7088,7 +7088,7 @@ Watch for:
   - [Too much] Gary Chalmers: “There is an alternative to suicide.”
 
 ## S24 E10 — A Test Before Trying
-URL: https://watchwiththekids.com/ep/simpsons/2410.html
+URL: https://watchwiththekids.com/ep/simpsons/2410
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -7097,7 +7097,7 @@ Watch for:
   - [Mild] Homer Simpson: “Good riddance. When I found out shrimp cocktails had no alcohol, I really lost interest.”
 
 ## S24 E11 — The Changing of the Guardian
-URL: https://watchwiththekids.com/ep/simpsons/2411.html
+URL: https://watchwiththekids.com/ep/simpsons/2411
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7106,7 +7106,7 @@ Watch for:
   - [Too much] Portia: “Nah, I turned it down because Cecil Rhodes was such a racist.”
 
 ## S24 E12 — Love is a Many-Splintered Thing
-URL: https://watchwiththekids.com/ep/simpsons/2412.html
+URL: https://watchwiththekids.com/ep/simpsons/2412
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -7123,7 +7123,7 @@ Watch for:
   - [Too much] HILLBILLY M.C.: “Thank you, last contestant. Tomorrow we will feature the no-longer racist country comedy of Barry the Satellite TV Guy.”
 
 ## S24 E13 — Hardly Kirk-ing
-URL: https://watchwiththekids.com/ep/simpsons/2413.html
+URL: https://watchwiththekids.com/ep/simpsons/2413
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7136,7 +7136,7 @@ Watch for:
   - [Mild] Homer Simpson: “Sure, what do I care? (SIPS BEER)”
 
 ## S24 E14 — Gorgeous Grampa
-URL: https://watchwiththekids.com/ep/simpsons/2414.html
+URL: https://watchwiththekids.com/ep/simpsons/2414
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -7145,7 +7145,7 @@ Watch for:
   - [Mild] C. Montgomery Burns: “NO, I GET DRUNK ON... BOOS /”
 
 ## S24 E15 — Black Eyed, Please
-URL: https://watchwiththekids.com/ep/simpsons/2415.html
+URL: https://watchwiththekids.com/ep/simpsons/2415
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -7162,14 +7162,14 @@ Watch for:
   - [Mild] “Nedward Flanders, Sr.: Hey, hey, Homer J.! How many beers did you kill today?”
 
 ## S24 E16 — Dark Knight Court
-URL: https://watchwiththekids.com/ep/simpsons/2416.html
+URL: https://watchwiththekids.com/ep/simpsons/2416
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] C. Montgomery Burns: “What do you mean "actually?" I've punched out (PUNCHING MOTION) four Homer Simpson-shaped burglars tonight alone.”
 
 ## S24 E17 — What Animated Women Want
-URL: https://watchwiththekids.com/ep/simpsons/2417.html
+URL: https://watchwiththekids.com/ep/simpsons/2417
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7180,7 +7180,7 @@ Watch for:
   - [Mild] Homer Simpson: “Well, you didn't have two beers with your lunch. (STIFLES A YAWN)”
 
 ## S24 E18 — Pulpit Friction
-URL: https://watchwiththekids.com/ep/simpsons/2418.html
+URL: https://watchwiththekids.com/ep/simpsons/2418
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -7194,7 +7194,7 @@ Watch for:
   - [Mild] Nelson Muntz: “Hey! There's a fifty in my vest pocket. Will you buy us some beers?”
 
 ## S24 E19 — Whiskey Business
-URL: https://watchwiththekids.com/ep/simpsons/2419.html
+URL: https://watchwiththekids.com/ep/simpsons/2419
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Suicide & self-harm — 2 moment(s)
@@ -7209,7 +7209,7 @@ Watch for:
   - [Too much] Homer Simpson: “The crows weren't racist -- the people who drew them were.”
 
 ## S24 E20 — The Fabulous Faker Boy
-URL: https://watchwiththekids.com/ep/simpsons/2420.html
+URL: https://watchwiththekids.com/ep/simpsons/2420
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7228,7 +7228,7 @@ Watch for:
   - [Mild] Marge Simpson: “Of course. (BEAT) But very, very, very angry at all the time I wasted.”
 
 ## S24 E21 — The Saga of Carl
-URL: https://watchwiththekids.com/ep/simpsons/2421.html
+URL: https://watchwiththekids.com/ep/simpsons/2421
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7241,7 +7241,7 @@ Watch for:
   - [Too much] Homer Simpson: “Yieg err meth frau-baii-rr-a hoo-g-minn-d.”
 
 ## S24 E22 — Dangers on a Train
-URL: https://watchwiththekids.com/ep/simpsons/2422.html
+URL: https://watchwiththekids.com/ep/simpsons/2422
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -7257,7 +7257,7 @@ Watch for:
   - [Mild] Ramona: “Look at them, coochie cooing like that time our connecting flight was delayed and we got drunk and friendly in the Admiral's Club.”
 
 ## S25 E1 — Homerland
-URL: https://watchwiththekids.com/ep/simpsons/2501.html
+URL: https://watchwiththekids.com/ep/simpsons/2501
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7275,7 +7275,7 @@ Watch for:
   - [Mild] Lisa Simpson: “You know, Dad, just because your mission's complete, it doesn't mean you have to go back to pork eating, and beer-drinking...”
 
 ## S25 E2 — Treehouse of Horror XXIV
-URL: https://watchwiththekids.com/ep/simpsons/2502.html
+URL: https://watchwiththekids.com/ep/simpsons/2502
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7289,7 +7289,7 @@ Watch for:
   - [Mild] C. Montgomery Burns: “(DRAMATIC) And now... I must ask that small children leave, good women avert their eyes, and men take a stiff slug of circus whiskey... behold, the most hideous creature of all!”
 
 ## S25 E3 — Four Regrettings and a Funeral
-URL: https://watchwiththekids.com/ep/simpsons/2503.html
+URL: https://watchwiththekids.com/ep/simpsons/2503
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7303,7 +7303,7 @@ Watch for:
   - [Mild] Patty Bouvier: “(SOTTO TO MARGE) You?! Your marriage is a dead fish floating in a tank of stale beer. Your baby's addicted to pacifiers...and your son is out of control!”
 
 ## S25 E4 — Yolo
-URL: https://watchwiththekids.com/ep/simpsons/2504.html
+URL: https://watchwiththekids.com/ep/simpsons/2504
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7312,7 +7312,7 @@ Watch for:
   - [Caution] Groundskeeper Willie: “Well, this knife's got to carve something! (EYES DART)”
 
 ## S25 E5 — Labor Pains
-URL: https://watchwiththekids.com/ep/simpsons/2505.html
+URL: https://watchwiththekids.com/ep/simpsons/2505
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7321,7 +7321,7 @@ Watch for:
   - [Caution] Moe Szyslak: “Too rich for my blood. I should not have anted with my blood.”
 
 ## S25 E6 — The Kid Is All Right
-URL: https://watchwiththekids.com/ep/simpsons/2506.html
+URL: https://watchwiththekids.com/ep/simpsons/2506
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -7329,7 +7329,7 @@ Watch for:
   - [Mild] Bart Simpson: “That ain't rough. (GETS SLAPPED AGAIN) More like a gentle breeze.”
 
 ## S25 E7 — Yellow Subterfuge
-URL: https://watchwiththekids.com/ep/simpsons/2507.html
+URL: https://watchwiththekids.com/ep/simpsons/2507
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -7339,7 +7339,7 @@ Watch for:
   - [Caution] Homer Simpson: “Sorry, but Dick Fiddler is allergic to potatoes.”
 
 ## S25 E8 — White Christmas Blues
-URL: https://watchwiththekids.com/ep/simpsons/2508.html
+URL: https://watchwiththekids.com/ep/simpsons/2508
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -7352,7 +7352,7 @@ Watch for:
   - [Mild] Duffman: “Duff Beer is proud to make a corporate commitment to gouging!”
 
 ## S25 E9 — Steal This Episode
-URL: https://watchwiththekids.com/ep/simpsons/2509.html
+URL: https://watchwiththekids.com/ep/simpsons/2509
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7372,7 +7372,7 @@ Watch for:
   - [Caution] Announcer: “Also available in "Arctic Slut," "Morning After Melon," and "Elon Musk."”
 
 ## S25 E10 — Married to the Blob
-URL: https://watchwiththekids.com/ep/simpsons/2510.html
+URL: https://watchwiththekids.com/ep/simpsons/2510
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7386,7 +7386,7 @@ Watch for:
   - [Mild] Yutaka: “(DRUNKEN MOANS)”
 
 ## S25 E11 — Specs and the City
-URL: https://watchwiththekids.com/ep/simpsons/2511.html
+URL: https://watchwiththekids.com/ep/simpsons/2511
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7401,7 +7401,7 @@ Watch for:
   - [Mild] Marge Simpson: “Well, he's down to two beers in the shower...”
 
 ## S25 E12 — Diggs
-URL: https://watchwiththekids.com/ep/simpsons/2512.html
+URL: https://watchwiththekids.com/ep/simpsons/2512
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -7410,7 +7410,7 @@ Watch for:
   - [Mild] Homer Simpson: “(GETTING IRRITATED) Because you're so drunk you can barely keep it together!”
 
 ## S25 E13 — The Man Who Grew Too Much
-URL: https://watchwiththekids.com/ep/simpsons/2513.html
+URL: https://watchwiththekids.com/ep/simpsons/2513
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -7430,7 +7430,7 @@ Watch for:
   - [Too much] Bart Simpson: “(GRIM) Return the spear to the homo erectus. (HUGE LAUGH) Homo erectus? Where has that word been all my life? (LAUGHS)”
 
 ## S25 E14 — The Winter of His Content
-URL: https://watchwiththekids.com/ep/simpsons/2514.html
+URL: https://watchwiththekids.com/ep/simpsons/2514
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -7441,7 +7441,7 @@ Watch for:
   - [Mild] Kearney Zzyzwicz: “Wow. You just made me gay for tolerance.”
 
 ## S25 E15 — The War of Art
-URL: https://watchwiththekids.com/ep/simpsons/2515.html
+URL: https://watchwiththekids.com/ep/simpsons/2515
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7453,14 +7453,14 @@ Watch for:
   - [Mild] Homer Simpson: “Yeah, yeah, yeah. Just remember, if your mother asks, I took you to a wine tasting.”
 
 ## S25 E16 — You Don't Have to Live Like a Referee
-URL: https://watchwiththekids.com/ep/simpsons/2516.html
+URL: https://watchwiththekids.com/ep/simpsons/2516
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “2nd Gambler: What other ways besides guns and money?”
 
 ## S25 E17 — Luca$
-URL: https://watchwiththekids.com/ep/simpsons/2517.html
+URL: https://watchwiththekids.com/ep/simpsons/2517
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -7477,7 +7477,7 @@ Watch for:
   - [Too much] Homer Simpson: “(ENTERING) Then that makes me the Jackie Robinson of the sport. And you are the racist Philadelphia manager!”
 
 ## S25 E18 — Days of Future Future
-URL: https://watchwiththekids.com/ep/simpsons/2518.html
+URL: https://watchwiththekids.com/ep/simpsons/2518
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -7492,7 +7492,7 @@ Watch for:
   - [Caution] “Professor Jonathan Frink: Oh, you used up all your clones, you fat, fat, fat reckless, fat pig! From now on you're just going to be a face on a monitor. So, enjoy screensaver mode.”
 
 ## S25 E19 — What to Expect When Bart's Expecting
-URL: https://watchwiththekids.com/ep/simpsons/2519.html
+URL: https://watchwiththekids.com/ep/simpsons/2519
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7509,7 +7509,7 @@ Watch for:
   - [Mild] Homer Simpson: “Beer transformed that cute little boy into the man you see before you.”
 
 ## S25 E21 — Pay Pal
-URL: https://watchwiththekids.com/ep/simpsons/2521.html
+URL: https://watchwiththekids.com/ep/simpsons/2521
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7523,7 +7523,7 @@ Watch for:
   - [Mild] Booth: “We will serve food and wine appropriate to period and palette.”
 
 ## S25 E22 — The Yellow Badge of Cowardge
-URL: https://watchwiththekids.com/ep/simpsons/2522.html
+URL: https://watchwiththekids.com/ep/simpsons/2522
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -7535,7 +7535,7 @@ Watch for:
   - [Too much] Cletus Spuckler: “(ALARMED) Crystal meth? Then what the heck did I sell to them Colombian drug lords?!”
 
 ## S26 E1 — Clown in the Dumps
-URL: https://watchwiththekids.com/ep/simpsons/2601.html
+URL: https://watchwiththekids.com/ep/simpsons/2601
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7551,7 +7551,7 @@ Watch for:
   - [Caution] Krusty the Clown: “I say this with love, you disrespectful skank. You've... had more... (SAD) suddenly, I don't feel like doin' this.”
 
 ## S26 E2 — The Wreck of the Relationship
-URL: https://watchwiththekids.com/ep/simpsons/2602.html
+URL: https://watchwiththekids.com/ep/simpsons/2602
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -7562,7 +7562,7 @@ Watch for:
   - [Mild] CAPTAIN BOWDITCH: “(DRUNK) Another success story for The Relation Ship.”
 
 ## S26 E3 — Super Franchise Me
-URL: https://watchwiththekids.com/ep/simpsons/2603.html
+URL: https://watchwiththekids.com/ep/simpsons/2603
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -7570,7 +7570,7 @@ Watch for:
   - [Caution] Grampa Simpson: “Homer, if I ever seem that senile, get a gun and... (PANICKY) What are you doing with that gun?!”
 
 ## S26 E4 — Treehouse of Horror XXV
-URL: https://watchwiththekids.com/ep/simpsons/2604.html
+URL: https://watchwiththekids.com/ep/simpsons/2604
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7592,7 +7592,7 @@ Watch for:
   - [Mild] Homer Simpson: “(ANNOYED GRUNT) I can't believe you wasted our money on fruit.”
 
 ## S26 E5 — Opposites A-Frack
-URL: https://watchwiththekids.com/ep/simpsons/2605.html
+URL: https://watchwiththekids.com/ep/simpsons/2605
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7610,7 +7610,7 @@ Watch for:
   - [Mild] Homer Simpson: “And all those new workers are gonna want to spend their earnings buying what you're selling: beer.”
 
 ## S26 E6 — Simpsorama
-URL: https://watchwiththekids.com/ep/simpsons/2606.html
+URL: https://watchwiththekids.com/ep/simpsons/2606
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -7619,7 +7619,7 @@ Watch for:
   - [Mild] Lisa Simpson: “Dad, we have beer in our time!”
 
 ## S26 E7 — Blazed and Confused
-URL: https://watchwiththekids.com/ep/simpsons/2607.html
+URL: https://watchwiththekids.com/ep/simpsons/2607
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -7629,7 +7629,7 @@ Watch for:
   - [Too much] Bart Simpson: “Milhouse, I am gonna get back at Lassen. Now "The Hobbit" taught us that every dragon has a chink in its armor.”
 
 ## S26 E8 — Covercraft
-URL: https://watchwiththekids.com/ep/simpsons/2608.html
+URL: https://watchwiththekids.com/ep/simpsons/2608
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -7639,7 +7639,7 @@ Watch for:
   - [Mild] PETER D'ABBRUZIO: “Look, Apu. For twenty-five years we wasted money on women, drugs and guitars with live fish inside. And now we want to keep it going.”
 
 ## S26 E9 — I Won't Be Home for Christmas
-URL: https://watchwiththekids.com/ep/simpsons/2609.html
+URL: https://watchwiththekids.com/ep/simpsons/2609
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 4 moment(s)
@@ -7651,7 +7651,7 @@ Watch for:
   - [Too much] Marge Simpson: “No casual racism!”
 
 ## S26 E10 — The Man Who Came to Be Dinner
-URL: https://watchwiththekids.com/ep/simpsons/2610.html
+URL: https://watchwiththekids.com/ep/simpsons/2610
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7664,7 +7664,7 @@ Watch for:
   - [Too much] “ALIEN PORN STAR/FEMALE ALIEN PORN STAR: (MAKE-OUT NOISES)”
 
 ## S26 E11 — Bart's New Friend
-URL: https://watchwiththekids.com/ep/simpsons/2611.html
+URL: https://watchwiththekids.com/ep/simpsons/2611
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7677,14 +7677,14 @@ Watch for:
   - [Mild] Dr. Julius Hibbert: “(DRAMATIC) Beer.”
 
 ## S26 E12 — The Musk Who Fell to Earth
-URL: https://watchwiththekids.com/ep/simpsons/2612.html
+URL: https://watchwiththekids.com/ep/simpsons/2612
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Lou: “(PAINED NOISE) Chief, did anyone ever tell you there's a safety on that gun?”
 
 ## S26 E13 — Walking Big & Tall
-URL: https://watchwiththekids.com/ep/simpsons/2613.html
+URL: https://watchwiththekids.com/ep/simpsons/2613
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7698,7 +7698,7 @@ Watch for:
   - [Caution] Homer Simpson: “…Gloop, Beached Whale, Big Boned, Wisconsin Skinny, Butterball, Dumptruck, Jelly Belly, Pudgy Wudgy, Lard Ass, Blubberino, Buddha Belly, Hurry Eat Tubman, One Ton Soup, (FLIPS PAGE) Blob Saget, Chub Hub, Calvin…”
 
 ## S26 E14 — My Fare Lady
-URL: https://watchwiththekids.com/ep/simpsons/2614.html
+URL: https://watchwiththekids.com/ep/simpsons/2614
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7715,7 +7715,7 @@ Watch for:
   - [Mild] Moe Szyslak: “You are not my friends. To me you're just mouths drinkin' beers!”
 
 ## S26 E15 — The Princess Guide
-URL: https://watchwiththekids.com/ep/simpsons/2615.html
+URL: https://watchwiththekids.com/ep/simpsons/2615
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7731,7 +7731,7 @@ Watch for:
   - [Mild] Homer Simpson: “There was beer involved. I have two daughters. And I've learned you have to let them go their own way. Even the one-year-old.”
 
 ## S26 E16 — Sky Police
-URL: https://watchwiththekids.com/ep/simpsons/2616.html
+URL: https://watchwiththekids.com/ep/simpsons/2616
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)

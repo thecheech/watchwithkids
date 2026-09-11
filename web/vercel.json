@@ -104,6 +104,11 @@
       "has": [{ "type": "host", "value": "watchwithkids.vercel.app" }],
       "destination": "https://watchwiththekids.com/:path*",
       "permanent": true
+    },
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "permanent": true
     }
   ]
 }

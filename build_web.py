@@ -28,6 +28,31 @@ SITE = os.environ.get("WWTK_SITE", "https://watchwiththekids.com").rstrip("/")
 BRAND = "Watch With The Kids"
 TAGLINE = "Your kids — your rules!"
 
+
+def clean_url(path: str) -> str:
+    """Convert a file path to a clean URL (remove .html extension)."""
+    if path.endswith(".html"):
+        return path[:-5]
+    return path
+
+
+def show_url(show_id: str) -> str:
+    """Generate clean URL for a show page."""
+    return f"{SITE}/{show_id}"
+
+
+def episode_url(show_id: str, code: str) -> str:
+    """Generate clean URL for an episode page."""
+    return f"{SITE}/ep/{show_id}/{code}"
+
+
+def guide_url(show_id: str, season: str | None = None) -> str:
+    """Generate clean URL for a guide page."""
+    if season:
+        return f"{SITE}/guides/{show_id}-season-{season}"
+    return f"{SITE}/guides/{show_id}"
+
+
 READY = [
     "friends",
     "seinfeld",
@@ -517,9 +542,9 @@ def extra_head(image_url: str, *, preload_cover: str | None = None) -> str:
 def site_footer(prefix: str = "") -> str:
     return f"""  <footer class="wrap site-footer">
     <p>
-      <a href="{prefix}index.html">{esc(BRAND)}</a>
-      · <a href="{prefix}guides/index.html">What to watch</a>
-      · <a href="{prefix}about.html">How we rate</a>
+      <a href="/">{esc(BRAND)}</a>
+      · <a href="/guides/">What to watch</a>
+      · <a href="/about">How we rate</a>
       · {esc(TAGLINE)}
     </p>
   </footer>"""
@@ -572,7 +597,7 @@ def home_faqs() -> list[tuple[str, str]]:
         ),
         (
             "Where should I start if I just want something safe tonight?",
-            'Open <a href="guides/index.html">What to watch</a> — each show has a list of the '
+            'Open <a href="/guides/">What to watch</a> — each show has a list of the '
             "safest episodes and the ones to skip, built from the same 1–5 scores.",
         ),
     ]
@@ -593,7 +618,7 @@ def show_faqs(show_id: str, name: str, mix: dict) -> list[tuple[str, str]]:
         ),
         (
             f"Which {name} episodes are safest to watch with kids?",
-            f'See the <a href="guides/{esc(show_id)}.html">What to watch in {esc(name)}</a> list — '
+            f'See the <a href="/guides/{esc(show_id)}">What to watch in {esc(name)}</a> list — '
             f"mildest episodes first, then the {BUCKET_UI['skip']['lower']} list so you can skip them.",
         ),
         (
@@ -1050,7 +1075,7 @@ def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
             "partOfSeries": {
                 "@type": "TVSeries",
                 "name": show_name,
-                "url": f"{SITE}/{show_id}.html",
+                "url": show_url(show_id),
             },
             "description": meta_description(show_name, ep),
             "contentRating": ep.get("verdict") or "",
@@ -1077,7 +1102,7 @@ def episode_jsonld(show_id: str, show_name: str, ep: dict, url: str) -> str:
                     "@type": "ListItem",
                     "position": 2,
                     "name": show_name,
-                    "item": f"{SITE}/{show_id}.html",
+                    "item": show_url(show_id),
                 },
                 {"@type": "ListItem", "position": 3, "name": f"{ep_label(ep)} {title}", "item": url},
             ],
@@ -1103,7 +1128,7 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
         next_code = safe_code(eps[i + 1]["code"]) if i + 1 < len(eps) else None
         title = display_title(ep["title"])
         label = ep_label(ep)
-        url = f"{SITE}/ep/{show_id}/{code}.html"
+        url = episode_url(show_id, code)
         bkey = bucket_of(ep)
         badge_cls, badge_text = BUCKET_BADGE[bkey]
         desc = meta_description(show_name, ep)
@@ -1122,12 +1147,12 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
         }
 
         prev_link = (
-            f'<a class="ep-page-link" href="./{prev_code}.html" rel="prev">← Prev</a>'
+            f'<a class="ep-page-link" href="/ep/{show_id}/{prev_code}" rel="prev">← Prev</a>'
             if prev_code
             else '<span class="ep-page-link is-disabled">← Prev</span>'
         )
         next_link = (
-            f'<a class="ep-page-link" href="./{next_code}.html" rel="next">Next →</a>'
+            f'<a class="ep-page-link" href="/ep/{show_id}/{next_code}" rel="next">Next →</a>'
             if next_code
             else '<span class="ep-page-link is-disabled">Next →</span>'
         )
@@ -1164,8 +1189,8 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
   <div class="confetti" aria-hidden="true"></div>
   <div id="episode-root">
     <nav class="topnav wrap ep-nav" aria-label="Breadcrumb">
-      <a class="back-home" href="../../{esc(show_id)}.html">← {esc(show_name)}</a>
-      <a class="back-home subtle" href="../../index.html">All shows</a>
+      <a class="back-home" href="/{esc(show_id)}">← {esc(show_name)}</a>
+      <a class="back-home subtle" href="/">All shows</a>
     </nav>
 
     <header class="ep-hero wrap">
@@ -1229,8 +1254,8 @@ def write_episode_pages(show_id: str, payload: dict) -> int:
       </footer>
 
       <p class="ep-related">
-        <a href="../../guides/{esc(show_id)}.html">What to watch in {esc(show_name)}</a>
-        · <a href="../../guides/{esc(show_id)}-season-{esc(ep.get("season"))}.html">{esc(season_label(ep.get("season"), show_id))} guide</a>
+        <a href="/guides/{esc(show_id)}">What to watch in {esc(show_name)}</a>
+        · <a href="/guides/{esc(show_id)}-season-{esc(ep.get("season"))}">{esc(season_label(ep.get("season"), show_id))} guide</a>
       </p>
       <p class="ep-foot-note">{esc(BRAND)} · {esc(TAGLINE)} · Informal parent guidance, not an official rating.</p>
     </main>
@@ -1257,7 +1282,7 @@ def episode_index_html(show_id: str, payload: dict) -> str:
         code = safe_code(ep["code"])
         themes = theme_sentence(ep) or "no adult themes flagged"
         rows.append(
-            f'<li class="ep-index-row" id="ep-{esc(code)}"><a href="ep/{esc(show_id)}/{esc(code)}.html">'
+            f'<li class="ep-index-row" id="ep-{esc(code)}"><a href="/ep/{esc(show_id)}/{esc(code)}">'
             f'<span class="ep-index-code">{esc(ep_label(ep))}</span> '
             f'<span class="ep-index-title">{esc(display_title(ep["title"]))}</span></a> '
             f'<span class="ep-index-meta">Overall {ep["overall"]}/5 · {esc(ep.get("verdict") or "")} · '
@@ -1267,7 +1292,7 @@ def episode_index_html(show_id: str, payload: dict) -> str:
 
 
 def show_jsonld(show_id: str, payload: dict, mix: dict) -> str:
-    url = f"{SITE}/{show_id}.html"
+    url = show_url(show_id)
     episodes = payload["episodes"]
     graph = [
         {
@@ -1295,7 +1320,7 @@ def show_jsonld(show_id: str, payload: dict, mix: dict) -> str:
                 {
                     "@type": "ListItem",
                     "position": i + 1,
-                    "url": f"{SITE}/guides/{show_id}-season-{season}.html",
+                    "url": guide_url(show_id, season),
                     "name": f"Is {payload['show']} {season_label(season, show_id)} OK for kids?",
                 }
                 for i, season in enumerate(
@@ -1321,7 +1346,7 @@ def show_jsonld(show_id: str, payload: dict, mix: dict) -> str:
 def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     meta = SHOW_PAGE.get(show_id, {"name": payload["show"], "h1": payload["show"]})
     name = meta["name"]
-    url = f"{SITE}/{show_id}.html"
+    url = show_url(show_id)
     total = mix["total"] or 1
     desc = clip_meta(
         f"Is {name} OK for kids? {'All ' if mix['total'] != 1 else ''}{ep_count(mix['total'])} rated 1–5 for violence, sex and "
@@ -1356,8 +1381,8 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
   <div class="confetti" aria-hidden="true"></div>
 
   <nav class="topnav wrap">
-    <a class="back-home" href="index.html">← All shows</a>
-    <a class="back-home subtle" href="guides/{esc(show_id)}.html">What to watch</a>
+    <a class="back-home" href="/">← All shows</a>
+    <a class="back-home subtle" href="/guides/{esc(show_id)}">What to watch</a>
   </nav>
 
   <header class="hero">
@@ -1490,7 +1515,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
       Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating, Suicide / self-harm,
       Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Sexual insults and Racism — with a count of how
       many times it comes up and the exact quote or scene description behind each mention.
-      Start with the <a href="guides/{esc(show_id)}.html">safest {esc(name)} episodes</a> if you
+      Start with the <a href="/guides/{esc(show_id)}">safest {esc(name)} episodes</a> if you
       want something tonight.
     </p>
     <p>
@@ -1530,7 +1555,7 @@ def write_agent_index(show_id: str, payload: dict, mix: dict) -> Path:
     lines = [
         f"# {name} — parent guide ({mix['total']} episodes)",
         "",
-        f"Source: {SITE}/{show_id}.html",
+        f"Source: {show_url(show_id)}",
         f"Scoring: violence, sex and language each 1–5; overall = the highest of the three.",
         f"Buckets: {mix['safe']} {BUCKET_UI['safe']['lower']} (1–2), "
         f"{mix['maybe']} {BUCKET_UI['maybe']['lower']} (3), "
@@ -1540,7 +1565,7 @@ def write_agent_index(show_id: str, payload: dict, mix: dict) -> Path:
     for ep in payload["episodes"]:
         code = safe_code(ep["code"])
         lines.append(f"## {ep_label(ep)} — {clean_title(ep['title'])}")
-        lines.append(f"URL: {SITE}/ep/{show_id}/{code}.html")
+        lines.append(f"URL: {episode_url(show_id, code)}")
         lines.append(
             f"Scores: violence {ep['violence']}/5, sex {ep['sex']}/5, "
             f"language {ep['language']}/5, overall {ep['overall']}/5 ({ep.get('verdict') or ''})"
@@ -1594,7 +1619,7 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         mix = mixes[sid]
         total = mix["total"] or 1
         lines.append(
-            f"- [{s['name']}]({SITE}/{sid}.html): {ep_count(mix['total'])} — "
+            f"- [{s['name']}]({show_url(sid)}): {ep_count(mix['total'])} — "
             f"{bucket_mix_pct(mix)}. "
             f"Full text index: [{sid}.md]({SITE}/llms/{sid}.md)"
         )
@@ -1603,7 +1628,7 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         "## Machine-readable data",
         "",
         f"- [What to watch]({SITE}/guides/): safest episodes and skip lists per show.",
-        f"- [How we rate]({SITE}/about.html): scoring method and disclaimer.",
+        f"- [How we rate]({SITE}/about): scoring method and disclaimer.",
         f"- [Show catalogue JSON]({SITE}/shows.json): shows, covers and rating mix.",
         "- Per-show ratings JSON: " + f"{SITE}/data/<show-id>.js (window.RATINGS payload).",
         "",
@@ -1643,7 +1668,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
         mix = mixes[s["id"]]
         total = mix["total"] or 1
         rows.append(
-            f'<li><a href="{esc(s["id"])}.html"><strong>{esc(s["name"])}</strong></a> — '
+            f'<li><a href="/{esc(s["id"])}"><strong>{esc(s["name"])}</strong></a> — '
             f'{ep_count(mix["total"])} rated: {bucket_mix_pct(mix)}.</li>'
         )
     shows_block = f"""
@@ -1656,7 +1681,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
       Nudity &amp; bodies, Porn / strippers, Swearing, Violence &amp; death, Affairs / cheating,
       Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Sexual insults and Racism —
       is listed with how many times it comes up and the exact quote or scene behind it.
-      Start with <a href="guides/index.html">what to watch tonight</a> if you want the safest
+      Start with <a href="/guides/">what to watch tonight</a> if you want the safest
       episodes first.
     </p>
     <ul class="seo-show-list">
@@ -1698,7 +1723,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
                         "@type": "ListItem",
                         "position": i + 1,
                         "name": s["name"],
-                        "url": f"{SITE}/{s['id']}.html",
+                        "url": show_url(s["id"]),
                     }
                     for i, s in enumerate(live)
                 ],
@@ -1778,7 +1803,7 @@ def _ep_card_html(show_id: str, ep: dict) -> str:
     else:
         sub = ""
     return (
-        f'<li><a class="ep-card" href="../ep/{esc(show_id)}/{esc(code)}.html">'
+        f'<li><a class="ep-card" href="/ep/{esc(show_id)}/{esc(code)}">'
         f"{thumb}"
         f'<span class="ep-card-main">'
         f'<span class="ep-card-top"><span class="ep-card-code">{esc(ep_label(ep))}</span>'
@@ -1841,7 +1866,7 @@ def _static_page(
 
 
 def write_about_page() -> None:
-    url = f"{SITE}/about.html"
+    url = f"{SITE}/about"
     title = "How We Rate TV for Kids"
     desc = clip_meta(
         "Watch With The Kids scores every episode 1–5 for violence, sex and language from the "
@@ -1871,8 +1896,8 @@ def write_about_page() -> None:
         return "".join(bits)
 
     body = f"""  <nav class="topnav wrap">
-    <a class="back-home" href="index.html">← All shows</a>
-    <a class="back-home subtle" href="guides/index.html">What to watch</a>
+    <a class="back-home" href="/">← All shows</a>
+    <a class="back-home subtle" href="/guides/">What to watch</a>
   </nav>
   <header class="hero">
     <div class="wrap hero-inner">
@@ -1969,7 +1994,7 @@ def write_about_page() -> None:
         </article>
       </div>
     </section>
-    <a class="about-cta" href="guides/index.html">
+    <a class="about-cta" href="/guides/">
       <span class="about-cta-stack" aria-hidden="true">
         <img src="covers/spongebob.jpg" alt="" width="320" height="180" />
         <img src="covers/young-sheldon.jpg" alt="" width="320" height="180" />
@@ -2076,7 +2101,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
                 else f'No {BUCKET_UI["safe"]["lower"]} episodes — preview every one'
             )
         return (
-            f'<li><a class="guide-card" href="{esc(sid)}.html">'
+            f'<li><a class="guide-card" href="/guides/{esc(sid)}">'
             f'<span class="guide-cover">'
             f'<img src="../covers/{esc(sid)}.jpg" alt="" width="640" height="360" '
             f'loading="{"eager" if eager else "lazy"}" /></span>'
@@ -2145,8 +2170,8 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
         for s in ranked[:4]
     )
     body = f"""  <nav class="topnav wrap">
-    <a class="back-home" href="../index.html">← All shows</a>
-    <a class="back-home subtle" href="../about.html">How we rate</a>
+    <a class="back-home" href="/">← All shows</a>
+    <a class="back-home subtle" href="/about">How we rate</a>
   </nav>
   <header class="hero">
     <div class="wrap hero-inner">
@@ -2186,7 +2211,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
                         "@type": "ListItem",
                         "position": i + 1,
                         "name": s["name"],
-                        "url": f"{SITE}/guides/{s['id']}.html",
+                        "url": guide_url(s["id"]),
                     }
                     for i, s in enumerate(ranked)
                 ],
@@ -2212,7 +2237,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
 def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, str]]:
     name = payload["show"]
     eps = payload["episodes"]
-    url = f"{SITE}/guides/{show_id}.html"
+    url = guide_url(show_id)
     title = f"What to Watch in {name} With Kids"
     desc = clip_meta(
         f"Safest {name} episodes for kids, plus the {BUCKET_UI['skip']['lower']} list. "
@@ -2227,7 +2252,7 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
         key=lambda s: int(s) if s.isdigit() else 99,
     )
     season_links = " · ".join(
-        f'<a href="{esc(show_id)}-season-{esc(season)}.html">{esc(season_label(season, show_id))}</a>'
+        f'<a href="/guides/{esc(show_id)}-season-{esc(season)}">{esc(season_label(season, show_id))}</a>'
         for season in seasons
     )
     if mix["safe"] == 0:
@@ -2248,8 +2273,8 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
         else f"No {esc(name)} episodes scored {BUCKET_UI['skip']['lower']}."
     )
     body = f"""  <nav class="topnav wrap">
-    <a class="back-home" href="../{esc(show_id)}.html">← {esc(name)}</a>
-    <a class="back-home subtle" href="index.html">All guides</a>
+    <a class="back-home" href="/{esc(show_id)}">← {esc(name)}</a>
+    <a class="back-home subtle" href="/guides/">All guides</a>
   </nav>
   <header class="hero">
     <div class="wrap hero-inner">
@@ -2268,7 +2293,7 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
         <div class="hero-cover">
           <img src="../covers/{esc(show_id)}.jpg" alt="{esc(name)} cover art" width="1920" height="1080" />
         </div>
-        <p class="disclaimer"><a href="../{esc(show_id)}.html">Browse every {esc(name)} episode →</a></p>
+        <p class="disclaimer"><a href="/{esc(show_id)}">Browse every {esc(name)} episode →</a></p>
       </aside>
     </div>
   </header>
@@ -2320,7 +2345,7 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
                     {
                         "@type": "ListItem",
                         "position": i + 1,
-                        "url": f"{SITE}/ep/{show_id}/{safe_code(ep['code'])}.html",
+                        "url": episode_url(show_id, safe_code(ep['code'])),
                         "name": f"{ep_label(ep)} {display_title(ep['title'])}",
                     }
                     for i, ep in enumerate(safe)
@@ -2334,7 +2359,7 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
                         "@type": "ListItem",
                         "position": 2,
                         "name": name,
-                        "item": f"{SITE}/{show_id}.html",
+                        "item": show_url(show_id),
                     },
                     {"@type": "ListItem", "position": 3, "name": "What to watch", "item": url},
                 ],
@@ -2382,7 +2407,7 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
     for season, eps in grouped.items():
         smix = episode_mix(eps)
         label = season_label(season, show_id)
-        url = f"{SITE}/guides/{show_id}-season-{season}.html"
+        url = guide_url(show_id, season)
         title = f"Is {name} {label} OK for Kids?"
         total = smix["total"] or 1
         desc = clip_meta(
@@ -2390,8 +2415,8 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
             f"{bucket_mix_pct(smix)}."
         )
         body = f"""  <nav class="topnav wrap">
-    <a class="back-home" href="{esc(show_id)}.html">← What to watch in {esc(name)}</a>
-    <a class="back-home subtle" href="../{esc(show_id)}.html">{esc(name)} all episodes</a>
+    <a class="back-home" href="/guides/{esc(show_id)}">← What to watch in {esc(name)}</a>
+    <a class="back-home subtle" href="/{esc(show_id)}">{esc(name)} all episodes</a>
   </nav>
   <header class="hero">
     <div class="wrap hero-inner">
@@ -2428,7 +2453,7 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
                     "partOfSeries": {
                         "@type": "TVSeries",
                         "name": name,
-                        "url": f"{SITE}/{show_id}.html",
+                        "url": show_url(show_id),
                     },
                     "description": desc,
                 },
@@ -2440,7 +2465,7 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
                         {
                             "@type": "ListItem",
                             "position": i + 1,
-                            "url": f"{SITE}/ep/{show_id}/{safe_code(ep['code'])}.html",
+                            "url": episode_url(show_id, safe_code(ep['code'])),
                             "name": f"{ep_label(ep)} {display_title(ep['title'])}",
                         }
                         for i, ep in enumerate(eps)
@@ -2454,13 +2479,13 @@ def write_season_guides(show_id: str, payload: dict, mix: dict) -> list[tuple[st
                             "@type": "ListItem",
                             "position": 2,
                             "name": name,
-                            "item": f"{SITE}/{show_id}.html",
+                            "item": show_url(show_id),
                         },
                         {
                             "@type": "ListItem",
                             "position": 3,
                             "name": "What to watch",
-                            "item": f"{SITE}/guides/{show_id}.html",
+                            "item": guide_url(show_id),
                         },
                         {"@type": "ListItem", "position": 4, "name": label, "item": url},
                     ],
@@ -2624,9 +2649,9 @@ def build_show(show_id: str, src: Path, sitemap: list[tuple[str, str]]) -> tuple
     n = write_episode_pages(show_id, full)
     write_agent_index(show_id, full, mix)
 
-    sitemap.append((f"{SITE}/{show_id}.html", "0.9"))
+    sitemap.append((show_url(show_id), "0.9"))
     for ep in listing["episodes"]:
-        sitemap.append((f"{SITE}/ep/{show_id}/{safe_code(ep['code'])}.html", "0.7"))
+        sitemap.append((episode_url(show_id, safe_code(ep['code'])), "0.7"))
 
     print(f"Wrote {out} ({listing['count']} episodes) + {n} episode pages + llms/{show_id}.md")
     return mix, listing
@@ -2657,7 +2682,7 @@ def main() -> None:
     shows = json.loads(shows_path.read_text())
     for s in shows:
         s["ready"] = s["id"] in mixes
-        s["href"] = f"{s['id']}.html" if s["ready"] else None
+        s["href"] = f"/{s['id']}" if s["ready"] else None
         if s["id"] in mixes:
             s["mix"] = mixes[s["id"]]
         else:
@@ -2666,15 +2691,14 @@ def main() -> None:
     (WEB / "shows.js").write_text("window.SHOWS = " + json.dumps(shows, ensure_ascii=False) + ";\n")
 
     write_about_page()
-    sitemap.append((f"{SITE}/about.html", "0.6"))
+    sitemap.append((f"{SITE}/about", "0.6"))
     write_guides_hub(shows, mixes)
     sitemap.append((f"{SITE}/guides/", "0.8"))
     for show_id, payload in payloads.items():
         sitemap.extend(write_show_guide(show_id, payload, mixes[show_id]))
 
-    sitemap.append((f"{SITE}/llms.txt", "0.5"))
-    for show_id in mixes:
-        sitemap.append((f"{SITE}/llms/{show_id}.md", "0.4"))
+    # Note: llms.txt and llms/*.md files are NOT included in Google sitemap
+    # They're for LLM/agent consumption, not for web search indexing
 
     write_sitemap(sitemap)
     write_robots()

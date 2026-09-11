@@ -1,11 +1,11 @@
 # Seinfeld — parent guide (176 episodes)
 
-Source: https://watchwiththekids.com/seinfeld.html
+Source: https://watchwiththekids.com/seinfeld
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 97 mild (1–2), 65 caution (3), 14 too much (4–5).
 
 ## S1 E1 — Good News, Bad News
-URL: https://watchwiththekids.com/ep/seinfeld/0101.html
+URL: https://watchwiththekids.com/ep/seinfeld/0101
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry is excited that a woman he met on the road is coming to visit him in New York. However, he has a tough time discerning whether her intentions are romantic or platonic.
 Watch for:
@@ -23,13 +23,13 @@ Watch for:
   - [Mild] JERRY: “[doubtfully] Yeah, we could do that...why not, why not. [pours the wine] I'm just, I'm really glad you're here. [the phone rings; he picks it up] Yeah, hello...yes...yes, she is, hold on. [to Laura] Uhm, it's for you.”
 
 ## S1 E2 — The Stakeout
-URL: https://watchwiththekids.com/ep/seinfeld/0102.html
+URL: https://watchwiththekids.com/ep/seinfeld/0102
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When Jerry goes to a birthday party with Elaine, he meets a woman he'd like to ask out, but doesn't get the chance to. When she leaves before he gets a chance to find out her name, he and George stakeout her office building.
 Watch for: nothing flagged.
 
 ## S1 E3 — The Robbery
-URL: https://watchwiththekids.com/ep/seinfeld/0103.html
+URL: https://watchwiththekids.com/ep/seinfeld/0103
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Jerry's apartment gets robbed, he decides to move out. George shows him a great apartment, which he plans to take… that is, until George expresses his own desire for the apartment.
 Watch for:
@@ -37,7 +37,7 @@ Watch for:
   - [Mild] JERRY: “One more thing, Benes, regarding sexual activity:”
 
 ## S1 E4 — Male Unbonding
-URL: https://watchwiththekids.com/ep/seinfeld/0104.html
+URL: https://watchwiththekids.com/ep/seinfeld/0104
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry ponders a few courses of action when he sees that he no longer has anything in common with a clingy and obnoxious childhood friend. George has trouble with his latest relationship. Kramer has the idea to open a chain of pizza parlors where you make your own pizza pie.
 Watch for:
@@ -48,7 +48,7 @@ Watch for:
   - [Caution] GEORGE: “(pantomimes sticking an imaginary knife in his heart, and twists it) Oh geeeee.. Go, go!”
 
 ## S1 E5 — The Stock Tip
-URL: https://watchwiththekids.com/ep/seinfeld/0105.html
+URL: https://watchwiththekids.com/ep/seinfeld/0105
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry and George invest based on an insider stock tip, but then lose touch with their inside source. A nervous Jerry lets the declining stock ruin his weekend away with Vanessa, while George decides he's all in.
 Watch for:
@@ -60,7 +60,7 @@ Watch for:
   - [Too much] JERRY: “We cold play "Sorry!" We cold play "Steal the Old Man's Bundle." (To himself) Maybe I can get an extension cord and hang myself. (To Vanessa) What”
 
 ## S2 E1 — The Ex-Girlfriend
-URL: https://watchwiththekids.com/ep/seinfeld/0201.html
+URL: https://watchwiththekids.com/ep/seinfeld/0201
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry begins to date George's ex - girlfriend before he discovers how clingy she is. Meanwhile George refuses to pay a physical therapist, convinced he did nothing and Elaine has a run - in with a friend who has stopped saying "hello" to her.
 Watch for:
@@ -75,7 +75,7 @@ Watch for:
   - [Caution] JERRY: “You're flesh and blood.”
 
 ## S2 E2 — The Pony Remark
-URL: https://watchwiththekids.com/ep/seinfeld/0202.html
+URL: https://watchwiththekids.com/ep/seinfeld/0202
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry worries that he may have killed an old relative, after he offends her with an off-the-cuff comment about hating kids who had ponies growing up.
 Watch for:
@@ -85,13 +85,13 @@ Watch for:
   - [Mild] GEORGE: “They always make me take stock of my life and how I've pretty much wasted all of it, and how I plan to continue wasting it.”
 
 ## S2 E3 — The Jacket
-URL: https://watchwiththekids.com/ep/seinfeld/0203.html
+URL: https://watchwiththekids.com/ep/seinfeld/0203
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry splurges on an expensive new suede jacket, but the colorful inner lining leaves something to be desired. When Elaine does Kramer a favor, Jerry and George get stuck alone with Elaine's intimidating, curmudgeonly father.
 Watch for: nothing flagged.
 
 ## S2 E4 — The Phone Message
-URL: https://watchwiththekids.com/ep/seinfeld/0204.html
+URL: https://watchwiththekids.com/ep/seinfeld/0204
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George regrets not going upstairs for "coffee" after a date, and proceeds to leave his girlfriend a series of increasingly embarrassing phone messages. Meanwhile, Jerry and his girlfriend argue over the comedic value of a TV commercial.
 Watch for:
@@ -101,7 +101,7 @@ Watch for:
   - [Mild] underwear. My goal is to have over three hundred and sixty pair. That way, I
 
 ## S2 E5 — The Apartment
-URL: https://watchwiththekids.com/ep/seinfeld/0205.html
+URL: https://watchwiththekids.com/ep/seinfeld/0205
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry helps Elaine get the apartment above his, but later regrets doing so. George's experiment of wearing a wedding band to attract women goes horribly awry.
 Watch for:
@@ -110,7 +110,7 @@ Watch for:
   - [Mild] GEORGE: “Is that right? (Showing him up) I just threw away a lifetime of guilt-free sex and floor seats for ever sporting event in Madison Square Garden. So please,”
 
 ## S2 E6 — The Statue
-URL: https://watchwiththekids.com/ep/seinfeld/0206.html
+URL: https://watchwiththekids.com/ep/seinfeld/0206
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry finds a statue in a box of his grandfather's old things, that George wants to replace a similar one he broke as a child. When Jerry hires the boyfriend of an author Elaine is working with, to clean his apartment, the cleaning job is spectacular, but the statue goes missing.
 Watch for:
@@ -120,7 +120,7 @@ Watch for:
   - [Mild] ELAINE: “Why don't we just throw a Molotov cocktail through their window?”
 
 ## S2 E7 — The Revenge
-URL: https://watchwiththekids.com/ep/seinfeld/0207.html
+URL: https://watchwiththekids.com/ep/seinfeld/0207
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: George quits his job in a huff, but comes to regret the decision, and is later humiliated by his boss. Jerry believes that the man at the laundromat has stolen a large sum of money from his laundry bag. Employing Elaine's and Kramer's help, respectively, they each plan revenge.
 Watch for:
@@ -138,7 +138,7 @@ Watch for:
   - [Caution] really don't have an apartment. I kinda sleep around.
 
 ## S2 E8 — The Heart Attack
-URL: https://watchwiththekids.com/ep/seinfeld/0208.html
+URL: https://watchwiththekids.com/ep/seinfeld/0208
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: George thinks he's had a heart attack. The doctor tells him otherwise, but he might want to get his tonsils and adenoids removed. Elaine is interested in the doctor and he is interested in her tongue. George not wanting to deal with the cost and the procedure decides to take Kramer's advice of going to see a naturalist, which only makes the situation worse.
 Watch for:
@@ -153,7 +153,7 @@ Watch for:
   - [Caution] DOCTOR: “Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice”
 
 ## S2 E9 — The Deal
-URL: https://watchwiththekids.com/ep/seinfeld/0209.html
+URL: https://watchwiththekids.com/ep/seinfeld/0209
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry and Elaine establish a new set of ground rules so they can remain friends but still sleep with each other often. With Jerry in a dilemma to find Elaine an "appropriate" birthday gift and with George's skepticism, their new deal is doomed from the start.
 Watch for:
@@ -166,7 +166,7 @@ Watch for:
   - [Mild] Jerry: “No, I don't wanna see the naked people.”
 
 ## S2 E10 — The Baby Shower
-URL: https://watchwiththekids.com/ep/seinfeld/0210.html
+URL: https://watchwiththekids.com/ep/seinfeld/0210
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Jerry goes out of town, Elaine uses his apartment for the baby shower of a woman George once dated. However, the party goes awry when Kramer shows up to install illegal cable, Jerry's trip is cancelled, and George intends to confront the mother-to-be for mistreating him on their date years earlier.
 Watch for:
@@ -176,7 +176,7 @@ Watch for:
   - [Mild] JERRY: “Well, I mean, does it ever erupt into a drunken orgy of violence?”
 
 ## S2 E11 — The Chinese Restaurant
-URL: https://watchwiththekids.com/ep/seinfeld/0211.html
+URL: https://watchwiththekids.com/ep/seinfeld/0211
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry, Elaine, and George endure a series of misadventures while waiting the entire episode to get a table at a Chinese restaurant.
 Watch for:
@@ -184,13 +184,13 @@ Watch for:
   - [Mild] lengths anything in the sexual realm. So I know I'm gonna have to stop. And as
 
 ## S2 E12 — The Busboy
-URL: https://watchwiththekids.com/ep/seinfeld/0212.html
+URL: https://watchwiththekids.com/ep/seinfeld/0212
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: George continuously yet inadvertently meddles in the life of a busboy. Elaine has a man come to visit her for a week, we she soon finds is far too long for her liking.
 Watch for: nothing flagged.
 
 ## S3 E1 — The Note
-URL: https://watchwiththekids.com/ep/seinfeld/0301.html
+URL: https://watchwiththekids.com/ep/seinfeld/0301
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry and George's massages end up being more pain than pleasure when Jerry has a misunderstanding with the masseusse and George gets his massage from a man. Jerry and George get Jerry's dentist friend into trouble when they ask him for doctor's notes for physical therapy. Meanwhile, Kramer is convinced he's seen Joe DiMaggio in a neighbourhood donut shop.
 Watch for:
@@ -199,7 +199,7 @@ Watch for:
   - [Mild] George: “I know. That's the point. If it's gonna get sexual, it should get sexual with you.”
 
 ## S3 E2 — The Truth
-URL: https://watchwiththekids.com/ep/seinfeld/0302.html
+URL: https://watchwiththekids.com/ep/seinfeld/0302
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry's audit becomes more trouble than he can handle when George breaks up with the former IRS worker who was helping Jerry, and she ends up in a sanitorium. Meanwhile, Kramer and Elaine have trouble getting along while Kramer dates Elaine's roommate.
 Watch for:
@@ -214,7 +214,7 @@ Watch for:
   - [Mild] JERRY: “Yeah, I know champagne, limos, cigars. WHAT happened to the papers?”
 
 ## S3 E3 — The Pen
-URL: https://watchwiththekids.com/ep/seinfeld/0303.html
+URL: https://watchwiththekids.com/ep/seinfeld/0303
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry and Elaine travel to Florida to see Jerry's parents which they soon regret when Elaine injures her back on a fold - out couch and Jerry gets caught up in a scandal by just saying that he liked someone's pen.
 Watch for:
@@ -229,7 +229,7 @@ Watch for:
   - [Mild] JACK: “Listen do you think I give a damn?”
 
 ## S3 E4 — The Dog
-URL: https://watchwiththekids.com/ep/seinfeld/0304.html
+URL: https://watchwiththekids.com/ep/seinfeld/0304
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When a fellow airline passenger is sent to hospital, Jerry gets stuck watching his unruly dog for several days. With Jerry stuck in his apartment, George and Elaine discover they have very little to talk about on their own. Meanwhile, Kramer has difficulty breaking up with his girlfriend.
 Watch for:
@@ -237,7 +237,7 @@ Watch for:
   - [Mild] Jerry: “I'm telling you the guy's a drunk, he's probably on a bender.”
 
 ## S3 E5 — The Library
-URL: https://watchwiththekids.com/ep/seinfeld/0305.html
+URL: https://watchwiththekids.com/ep/seinfeld/0305
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry is investigated by the library for a book he checked out in 1971 and never returned. Elaine fears for her career when her boss hates her recommendations, and Kramer strikes up a relationship with the librarian. Meanwhile, George believes that a homeless man is his old gym teacher, whom he got fired.
 Watch for:
@@ -251,7 +251,7 @@ Watch for:
   - [Too much] JERRY: “I had him for Hygene. Remember his teeth. It was like from an exhumed corpse.”
 
 ## S3 E6 — The Parking Garage
-URL: https://watchwiththekids.com/ep/seinfeld/0306.html
+URL: https://watchwiththekids.com/ep/seinfeld/0306
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: The gang experience a series of misadventures while trying to find Kramer's car in a mall parking garage.
 Watch for:
@@ -264,7 +264,7 @@ Watch for:
   - [Mild] I'll just go up and say, "Hi, how ya' doing? Would you like a glass of white wine?" JERRY Before you got within twenty feet of this woman, she'd have her finger on the mace button.
 
 ## S3 E7 — The Cafe
-URL: https://watchwiththekids.com/ep/seinfeld/0307.html
+URL: https://watchwiththekids.com/ep/seinfeld/0307
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry tries helping the owner of a small restaurant attract customers by giving him a suggestion. George must take an IQ test for his latest girlfriend, so Elaine helps him in "a caper" where she takes the test for him. Kramer tries to keep his mother's ex-boyfriend's jacket, because it helps him meet women; however the ex-boyfriend comes looking for it.
 Watch for:
@@ -272,7 +272,7 @@ Watch for:
   - [Caution] Jerry: “Well, that would be something, cheating on a IQ test. Hey, remember in college when you passed Lettick the test out the window? You became a legend after that.”
 
 ## S3 E8 — The Tape
-URL: https://watchwiththekids.com/ep/seinfeld/0308.html
+URL: https://watchwiththekids.com/ep/seinfeld/0308
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: While listening to a tape of his previous nights show, Jerry hears the voice of a mysterious woman who talks dirty into his tape recorder and everyone becomes excited by the voice. George tries a new cure for baldness. Kramer searches for the jacket.
 Watch for:
@@ -292,7 +292,7 @@ Watch for:
   - [Caution] Kramer: “Not bloody likely..”
 
 ## S3 E9 — The Nose Job
-URL: https://watchwiththekids.com/ep/seinfeld/0309.html
+URL: https://watchwiththekids.com/ep/seinfeld/0309
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Summary: Jerry's brain and penis play chess against one another to decide whether he should keep dating a vacuous model with whom the "sex is great" but not anything else. George is dating a woman with a big nose, Kramer tells her it like it is and she gets a nose job; however, there is a complication. Kramer gets Elaine to help him retrieve the jacket.
 Watch for:
@@ -308,7 +308,7 @@ Watch for:
   - [Mild] Kramer. Nasty woman, many a night I had to throw her out on the street, drunken
 
 ## S3 E10 — The Stranded
-URL: https://watchwiththekids.com/ep/seinfeld/0310.html
+URL: https://watchwiththekids.com/ep/seinfeld/0310
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry & Elaine go to a party with George, while there they send signals to each other to get out of bad party conversations. Afterward, George abandons them there, when he leaves with a co-worker he has a chance with. Jerry & Elaine keeping the hosts up real late, while waiting for Kramer to come and pick them up. The host later takes Jerry up on his offer to drop by when he is in the city, just as Jerry is leaving. He stays in Jerry's apartment for the evening and parties with Kramer and a lady of the evening. Later George pays the price for his romance in the workplace (he must quit) and he tries to shoplift at the drug store where he says they still owe him ten dollars.
 Watch for:
@@ -318,7 +318,7 @@ Watch for:
   - [Mild] Steve (drunk and slurring): Oh Jerry! Jerry! Look who's here, it's Jerry
 
 ## S3 E11 — The Alternate Side
-URL: https://watchwiththekids.com/ep/seinfeld/0311.html
+URL: https://watchwiththekids.com/ep/seinfeld/0311
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry's car is stolen and the criminal picks up his car phone. George decides to take a fill-in job moving cars from one side of the street to the other; this turns into a disaster for local traffic flow. Kramer gets a chance to do a line in a Woody Allen film; "these pretzels are making me thirsty." Elaine gets tired of her 66-year-old boyfriend and when she is about to break up with him, he has a stroke.
 Watch for:
@@ -337,7 +337,7 @@ Watch for:
   - [Mild] are making me thirsty' and I took a swig of beer, ya know, and I slammed the
 
 ## S3 E12 — The Red Dot
-URL: https://watchwiththekids.com/ep/seinfeld/0312.html
+URL: https://watchwiththekids.com/ep/seinfeld/0312
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Jerry is the unwitting cause of Elaine's boyfriend falling off the wagon. Elaine gets George a job, so he buys her a gift, an $85 cashmere sweater. The sweater has a little red dot on it; hence the price. Elaine gives it back, then George gives it to the cleaning woman, to keep her quiet about them having sex on his desk. George gets fired.
 Watch for:
@@ -361,7 +361,7 @@ Watch for:
   - [Mild] Kramer: “Imagine, you can walk around drunk all day.”
 
 ## S3 E13 — The Subway
-URL: https://watchwiththekids.com/ep/seinfeld/0313.html
+URL: https://watchwiththekids.com/ep/seinfeld/0313
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Everyone has an uncommon experience while going their separate ways on the subway. George meets a beautiful woman who distracts him from his intended destination, a job interview. Jerry falls asleep and then wakes up across from a fat naked man. Elaine's train stops in the middle of a tunnel on her way to be best man at a lesbian wedding. Kramer overhears a hot tip on a horse on his way to pay $600 in traffic violations.
 Watch for:
@@ -377,7 +377,7 @@ Watch for:
   - [Mild] Women: “I wasted my whole morning with you for eight dollars?”
 
 ## S3 E14 — The Pez Dispenser
-URL: https://watchwiththekids.com/ep/seinfeld/0314.html
+URL: https://watchwiththekids.com/ep/seinfeld/0314
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer joins the "Polar Bear Club." Jerry gets one of Kramer's Pez dispensers which makes Elaine laugh during a piano recital of George's girlfriend, and that puts their relationship in jeopardy. Kramer has an idea for a cologne that smells like the beach and suggests that George make a preemptive breakup with his girlfriend, that will give him the "upper hand." The Pez dispenser has a remarkable effect during a drug confrontation.
 Watch for:
@@ -385,7 +385,7 @@ Watch for:
   - [Caution] fish and sea weed? That's why people take showers when the come
 
 ## S3 E15 — The Suicide
-URL: https://watchwiththekids.com/ep/seinfeld/0315.html
+URL: https://watchwiththekids.com/ep/seinfeld/0315
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Elaine needs to fast before an x-ray, so she tries stuffing herself three days before the test. After his neighbor Martin tries suicide, Jerry is hit on by his girlfriend, Gina, while at the hospital. A psychic warns George to cancel his vacation to the Cayman Islands, but never can tell George why. Jerry becomes worried when Newman (a friend of Martins) sees him with Gina. Elaine starts hallucinating from hunger. Everything hinges on a Drake's coffee cake.
 Watch for:
@@ -402,7 +402,7 @@ Watch for:
   - [Caution] ELAINE: “And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.”
 
 ## S3 E16 — The Fix-Up
-URL: https://watchwiththekids.com/ep/seinfeld/0316.html
+URL: https://watchwiththekids.com/ep/seinfeld/0316
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After selling each other on the idea, Jerry and Elaine sell George and Elaine's friend on a blind date, then they await the results. They promise to keep each other updated with "full disclosure," though that doesn't happen. There also may be a problem with a defective condom.
 Watch for:
@@ -418,7 +418,7 @@ Watch for:
   - [Too much] Elaine: “Half a bag? What am I, a hooker? Anyway, they look kind of cheap.”
 
 ## S3 E17 — The Boyfriend (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0317.html
+URL: https://watchwiththekids.com/ep/seinfeld/0317
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry becomes increasingly jealous of Elaine's relationship with Keith Hernandez. The unemployed George Constanza schemes to collect unemployment checks, while the illustrated JFK "second spitter theory" is further investigated.
 Watch for:
@@ -426,7 +426,7 @@ Watch for:
   - [Mild] KRAMER: “Hey you know this is the first time we've ever seen each other naked.”
 
 ## S3 E18 — The Boyfriend (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0318.html
+URL: https://watchwiththekids.com/ep/seinfeld/0318
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry becomes increasingly jealous of Elaine's relationship with Keith Hernandez. The unemployed George Constanza schemes to collect unemployment checks, while the illustrated JFK "second spitter theory" is further investigated.
 Watch for:
@@ -434,7 +434,7 @@ Watch for:
   - [Mild] KRAMER: “Hey you know this is the first time we've ever seen each other naked.”
 
 ## S3 E19 — The Limo
-URL: https://watchwiththekids.com/ep/seinfeld/0319.html
+URL: https://watchwiththekids.com/ep/seinfeld/0319
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry and George lie their way into a limo heading for Madison Square Garden to, or so they think, a Knicks/Bulls basketball game. Along the way they pick up Elaine and Kramer but soon become fearful of two Neo-Nazis and discover the event they're really headed to.
 Watch for:
@@ -446,7 +446,7 @@ Watch for:
   - [Caution] Eva (gun drawn): Who are you?
 
 ## S3 E20 — The Good Samaritan
-URL: https://watchwiththekids.com/ep/seinfeld/0320.html
+URL: https://watchwiththekids.com/ep/seinfeld/0320
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry trails a hit-and-run driver but is attracted to her and begins dating her; he later learns her victim was a longtime quarry and dates the latter as well. Kramer begins having seizures whenever he hears Mary Hart's voice.
 Watch for:
@@ -466,7 +466,7 @@ Watch for:
   - [Mild] Michael stops pouring wine and looks seriously at George
 
 ## S3 E21 — The Letter
-URL: https://watchwiththekids.com/ep/seinfeld/0321.html
+URL: https://watchwiththekids.com/ep/seinfeld/0321
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry learns that his new artist friend, from whom George has been forced to buy a painting, plagiarized a letter to keep him from breaking up with her. Elaine refuses to remove her Baltimore Orioles cap during a New York Yankees game.
 Watch for:
@@ -474,7 +474,7 @@ Watch for:
   - [Mild] MRS.ARM: “A sexually-depraved miscrient, who is seeking to gratify only his”
 
 ## S3 E22 — The Parking Space
-URL: https://watchwiththekids.com/ep/seinfeld/0322.html
+URL: https://watchwiththekids.com/ep/seinfeld/0322
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Coming from an outing to a flea market in New Jersey, Elaine and George damage Jerry's car when George drives over a large pothole. When they get to his apartment they end up spending the whole day arguing over a parking space. Elaine meanwhile has to come with a story about the damage to the car.
 Watch for:
@@ -486,7 +486,7 @@ Watch for:
   - [Caution] Jerry: A gun?!
 
 ## S3 E23 — The Keys
-URL: https://watchwiththekids.com/ep/seinfeld/0323.html
+URL: https://watchwiththekids.com/ep/seinfeld/0323
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry is fed up with Kramer coming into his apartment any time he feels like it and asks him to return his spare set of keys. Kramer begrudgingly complies but then lets it be known that he's leaving for California. When Jerry forgets his keys, he gets George to let him into Elaine's apartment so her can get his spare set.
 Watch for:
@@ -504,7 +504,7 @@ Watch for:
   - [Mild] JERRY: “She's drunk out of her mind.”
 
 ## S4 E1 — The Trip (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0401.html
+URL: https://watchwiththekids.com/ep/seinfeld/0401
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Jerry is asked to appear on The Tonight Show in Los Angeles, George accompanies him to look for Kramer.
 Watch for:
@@ -523,7 +523,7 @@ Watch for:
   - [Mild] Check the time?" You never see Magnum P.I. go, "Should I strangle this guy or
 
 ## S4 E2 — The Trip (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0402.html
+URL: https://watchwiththekids.com/ep/seinfeld/0402
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Kramer is arrested when he is mistaken for a serial killer. After he is exonerated, Jerry, George, and he return to New York.
 Watch for:
@@ -542,13 +542,13 @@ Watch for:
   - [Mild] Check the time?" You never see Magnum P.I. go, "Should I strangle this guy or
 
 ## S4 E3 — The Pitch
-URL: https://watchwiththekids.com/ep/seinfeld/0403.html
+URL: https://watchwiththekids.com/ep/seinfeld/0403
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: NBC executives ask Jerry to come up with an idea for a TV series. George decides he can be a sitcom writer and comes up with "nothing." Kramer trades a radar detector for a helmet, and later Newman receives a speeding ticket.
 Watch for: nothing flagged.
 
 ## S4 E4 — The Ticket
-URL: https://watchwiththekids.com/ep/seinfeld/0404.html
+URL: https://watchwiththekids.com/ep/seinfeld/0404
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Newman uses Kramer as his witness when the former refuses to pay for a speeding ticket.
 Watch for:
@@ -568,7 +568,7 @@ Watch for:
   - [Too much] Mimmicks hanging himself, growing hysterical as only Newman can
 
 ## S4 E5 — The Wallet (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0405.html
+URL: https://watchwiththekids.com/ep/seinfeld/0405
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry is asked to explain to his parents why he does not wear the watch they gave him. Morty Seinfeld thinks his wallet to have been stolen from him at his doctor's appointment.
 Watch for:
@@ -582,13 +582,13 @@ Watch for:
   - [Too much] KRAMER: “Federal Express? Of course. It's the oldest trick in the book. You know it might not be a burglar it might be a murderer.”
 
 ## S4 E6 — The Watch (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0406.html
+URL: https://watchwiththekids.com/ep/seinfeld/0406
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry tries to buy his watch back from Uncle Leo, who found it in the garbage, having been thrown there by Jerry. George tries to resurrect the fledgling NBC deal, while Elaine plans a break up from her psychotherapist with Kramer's help.
 Watch for: nothing flagged.
 
 ## S4 E7 — The Bubble Boy
-URL: https://watchwiththekids.com/ep/seinfeld/0407.html
+URL: https://watchwiththekids.com/ep/seinfeld/0407
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry agrees to visit a boy who lives in a plastic bubble on the way to Susan's parents' cabin. Jerry and Elaine, however, get lost; George and Susan visit the bubble boy instead, which later results in a fight after a misprint in Trivial Pursuit.
 Watch for:
@@ -603,7 +603,7 @@ Watch for:
   - [Mild] <Waitress is strangling Jerry, cook is grabbing Jerry, Elaine is grabbing the cook>
 
 ## S4 E8 — The Cheever Letters
-URL: https://watchwiththekids.com/ep/seinfeld/0408.html
+URL: https://watchwiththekids.com/ep/seinfeld/0408
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Jerry offends Elaine's assistant. Kramer makes a contact for Cuban cigars. A box of letters from John Cheever is all that remains after Susan's father's cabin burns down.
 Watch for:
@@ -618,7 +618,7 @@ Watch for:
   - [Mild] MRS. ROSS: “(Laughing, she points to her shirt) Look, Henry, I spilled wine on me! (Laughs again)”
 
 ## S4 E9 — The Opera
-URL: https://watchwiththekids.com/ep/seinfeld/0409.html
+URL: https://watchwiththekids.com/ep/seinfeld/0409
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Elaine unknowingly is dating Crazy Joe Davola, who has just left a threatening message on Jerry's recorder.
 Watch for:
@@ -626,7 +626,7 @@ Watch for:
   - [Caution] JOE DIVOLA: “He's a clown whose wife is unfaithful to him.”
 
 ## S4 E10 — The Virgin
-URL: https://watchwiththekids.com/ep/seinfeld/0410.html
+URL: https://watchwiththekids.com/ep/seinfeld/0410
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Not having come up for a script for their new sitcom, George and Jerry now have to face the music when they meet with NBC executives. George's lack of discretion however has repercussions. Jerry see Marla Penny in a bar and mentions to George that when he last saw her, she was a virgin. Jerry asks her out and finds out she still is. Elaine, on hearing the news, decides to give her a bit of coaching about men and what she can expect.
 Watch for:
@@ -641,7 +641,7 @@ Watch for:
   - [Too much] George: “She was standing and then she was laughing and then they SHOT her!”
 
 ## S4 E11 — The Contest
-URL: https://watchwiththekids.com/ep/seinfeld/0411.html
+URL: https://watchwiththekids.com/ep/seinfeld/0411
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: After George is caught masturbating by his mother, the four main characters devise a contest to see who can go the longest without pleasuring him/herself. Marla, Jerry's girlfriend, with whom he has yet to have sex, learns of the contest and is disgusted.
 Watch for:
@@ -658,7 +658,7 @@ Watch for:
   - [Mild] JERRY: “Hey, let me ask you a question. In these nudist colonies, do they eat naked in the dining room?”
 
 ## S4 E12 — The Airport
-URL: https://watchwiththekids.com/ep/seinfeld/0412.html
+URL: https://watchwiththekids.com/ep/seinfeld/0412
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry and Elaine fly back to New York. Jerry travels on first class while Elaine on coach. George and Kramer run into trouble while trying to arrive on time to pick up Jerry and Elaine at the airport.
 Watch for:
@@ -672,7 +672,7 @@ Watch for:
   - [Mild] Or, if you prefer something lighter, a poached Dover sole in a delicate white wine sauce with just a *hint* of saffron.
 
 ## S4 E13 — The Pick
-URL: https://watchwiththekids.com/ep/seinfeld/0413.html
+URL: https://watchwiththekids.com/ep/seinfeld/0413
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: George lobbies to get Susan back, only to regret the success of his efforts. Tia (the model Jerry met in "The Airport") dumps Jerry after she sees what appears to be Jerry picking his nose while driving. Elaine decides to send out Christmas cards with her picture on them, and accidentally chooses a revealing shot.
 Watch for:
@@ -686,13 +686,13 @@ Watch for:
   - [Mild] ELAINE: “You want a Christmas card? You want a Christmas card? All right here. [rubs George's head on her breasts] Here's your Christmas card.”
 
 ## S4 E14 — The Movie
-URL: https://watchwiththekids.com/ep/seinfeld/0414.html
+URL: https://watchwiththekids.com/ep/seinfeld/0414
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry does a set at a comedy club, then goes to meet George, Elaine, and Kramer afterward to see a screening of Checkmate. However, a simple miscommunication causes the four to keep missing each other at two different theaters.
 Watch for: nothing flagged.
 
 ## S4 E15 — The Visa
-URL: https://watchwiththekids.com/ep/seinfeld/0415.html
+URL: https://watchwiththekids.com/ep/seinfeld/0415
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George meets an attractive lawyer, Cheryl, who is impressed by his sense of humor. George attempts to keep Elaine and Jerry from meeting Cheryl, believing that Jerry's sense of humor will eclipse him. Babu Bhatt, the former restaurant owner who Jerry helped drive out of business in "The Cafe" (Season 3), has trouble with the INS because Babu's visa renewal was accidentally delivered to Jerry.
 Watch for:
@@ -706,7 +706,7 @@ Watch for:
   - [Mild] George (tasting the wine): Excellent. Like I really know what I'm talking
 
 ## S4 E16 — The Shoes
-URL: https://watchwiththekids.com/ep/seinfeld/0416.html
+URL: https://watchwiththekids.com/ep/seinfeld/0416
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Elaine cant seem to figure out why her shoes are a subject of conversation. Jerry and George pitch their pilot to NBC, but the deal is nearly jinxed when George takes a peek at the cleavage of the NBC president's daughter.
 Watch for:
@@ -720,7 +720,7 @@ Watch for:
   - [Mild] ELAINE: “Bouchard's, on 53rd. <George starts choking on his wine, and attempts to tell Elaine something.>”
 
 ## S4 E17 — The Outing
-URL: https://watchwiththekids.com/ep/seinfeld/0417.html
+URL: https://watchwiththekids.com/ep/seinfeld/0417
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: A prank by Elaine leads a newspaper journalist to think that Jerry and George are gay.
 Watch for:
@@ -741,7 +741,7 @@ Watch for:
   - [Mild] Mrs. S: “Not that there's anything wrong with that, Jerry.”
 
 ## S4 E18 — The Old Man
-URL: https://watchwiththekids.com/ep/seinfeld/0418.html
+URL: https://watchwiththekids.com/ep/seinfeld/0418
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Elaine gets the gang to volunteer at an old folks' home. She gets freaked out by hers, George gets fired by his guy, and Jerry loses his. Kramer and Newman scheme to sell records to a vintage music store and steal the records from Jerry's old guy.
 Watch for:
@@ -752,7 +752,7 @@ Watch for:
   - [Caution] gun and shoot everybody?
 
 ## S4 E19 — The Implant
-URL: https://watchwiththekids.com/ep/seinfeld/0419.html
+URL: https://watchwiththekids.com/ep/seinfeld/0419
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry insists that his new girlfriend has implants. But she keeps insisting that they're "real and spectacular". The mystery goes even deeper when Elaine meets her in the sauna and trips and lands on her breasts.
 Watch for:
@@ -770,7 +770,7 @@ Watch for:
   - [Mild] SIDRA: “I don't know what I'm doing here, I must be crazy. <Moves to the couch and sits on the left side. Jerry tries to run over and beat her to it, but doesn't make it. He sits down on the right side.>”
 
 ## S4 E20 — The Junior Mint
-URL: https://watchwiththekids.com/ep/seinfeld/0420.html
+URL: https://watchwiththekids.com/ep/seinfeld/0420
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Elaine's ex-boyfriend is recovering in the hospital and has surgery. The gang goes to visit. Kramer gets the idea to paint his apartment to simulate the feel of a ski lodge. While at the hospital, Kramer's concern about the operation gets him and Jerry in to watch. But when Kramer sneaks in candy and forces it on Jerry, Jerry starts a chain reaction that causes the Junior Mints to land in Elaine's ex-boyfriend. Jerry thinks he may have killed the guy while George, who learns that he has recently come into some money, decides to invest in the ex-boyfriend's artwork.
 Watch for:
@@ -782,7 +782,7 @@ Watch for:
   - [Too much] Kramer: “We could be tried for murder...”
 
 ## S4 E21 — The Smelly Car
-URL: https://watchwiththekids.com/ep/seinfeld/0421.html
+URL: https://watchwiththekids.com/ep/seinfeld/0421
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry and Elaine realize that the valet who parked Jerry's car has really bad B.O. Jerry soon realizes that the smell isn't just a mere odor, but an entity unto itself, and finally decides that he has to get rid of his car. Meanwhile, George gets reacquainted with Susan and discovers that he drove her to lesbianism, and Kramer dates Susan's girlfriend.
 Watch for:
@@ -800,7 +800,7 @@ Watch for:
   - [Mild] % We shift to Champagne video where George is returning a movie with Kramer.
 
 ## S4 E22 — The Handicap Spot
-URL: https://watchwiththekids.com/ep/seinfeld/0422.html
+URL: https://watchwiththekids.com/ep/seinfeld/0422
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: At Kramer's insistence, George parks his Dad's car in a handicap spot. After a woman is injured because of it, George becomes his Dad's butler while Kramer tries to help the woman.
 Watch for:
@@ -813,7 +813,7 @@ Watch for:
   - [Mild] Frank: “Where the hell is my paper?”
 
 ## S4 E23 — The Pilot (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0423.html
+URL: https://watchwiththekids.com/ep/seinfeld/0423
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: "Jerry"'s pilot finally airs. Elaine avoids the romantic pursue of Dalrymple.
 Watch for:
@@ -829,7 +829,7 @@ Watch for:
   - [Caution] JERRY: “All right she cuts her pasta with a knife.”
 
 ## S4 E24 — The Pilot (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0424.html
+URL: https://watchwiththekids.com/ep/seinfeld/0424
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: "Jerry"'s pilot finally airs. Elaine avoids the romantic pursue of Dalrymple.
 Watch for:
@@ -845,7 +845,7 @@ Watch for:
   - [Caution] JERRY: “All right she cuts her pasta with a knife.”
 
 ## S5 E1 — The Mango
-URL: https://watchwiththekids.com/ep/seinfeld/0501.html
+URL: https://watchwiththekids.com/ep/seinfeld/0501
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
 Summary: Elaine makes a startling confession.
 Watch for:
@@ -864,7 +864,7 @@ Watch for:
   - [Mild] JERRY: “I guess after that many beers he's probably a little groggy anyway.”
 
 ## S5 E2 — The Puffy Shirt
-URL: https://watchwiththekids.com/ep/seinfeld/0502.html
+URL: https://watchwiththekids.com/ep/seinfeld/0502
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer and his soft-spoken friend Leslie start a new line of clothing and Jerry accidentally agrees to wear it on the Today show.
 Watch for:
@@ -872,7 +872,7 @@ Watch for:
   - [Mild] GEORGE: “No, no, no, no. Borrowing money from a friend is like having sex. It just completely changes the relationship.”
 
 ## S5 E3 — The Glasses
-URL: https://watchwiththekids.com/ep/seinfeld/0503.html
+URL: https://watchwiththekids.com/ep/seinfeld/0503
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: George loses his glasses at the health club.
 Watch for:
@@ -885,7 +885,7 @@ Watch for:
   - [Mild] GEORGE: “He's getting on a bus, damn! (To the blind man:) Those are nice glasses.”
 
 ## S5 E4 — The Sniffing Accountant
-URL: https://watchwiththekids.com/ep/seinfeld/0504.html
+URL: https://watchwiththekids.com/ep/seinfeld/0504
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: The gang gets suspicious of their accountant.
 Watch for:
@@ -898,7 +898,7 @@ Watch for:
   - [Mild] *Kramer drinks the beer and smokes the cigarette at the same time*
 
 ## S5 E5 — The Bris
-URL: https://watchwiththekids.com/ep/seinfeld/0505.html
+URL: https://watchwiththekids.com/ep/seinfeld/0505
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry and Elaine are asked to be godparents.
 Watch for:
@@ -911,7 +911,7 @@ Watch for:
   - [Caution] Jerry, be careful. The Mohel's got a knife!
 
 ## S5 E6 — The Lip Reader
-URL: https://watchwiththekids.com/ep/seinfeld/0506.html
+URL: https://watchwiththekids.com/ep/seinfeld/0506
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: George decides to use Jerry's girlfriend to spy on his friends by having her read their lips. Kramer claims he can also read lips and tries to prove it.
 Watch for:
@@ -921,7 +921,7 @@ Watch for:
   - [Mild] George: “She confused "six" with "sex"?”
 
 ## S5 E7 — The Non-Fat Yogurt
-URL: https://watchwiththekids.com/ep/seinfeld/0507.html
+URL: https://watchwiththekids.com/ep/seinfeld/0507
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer invests in a new non-fat yogurt store.
 Watch for:
@@ -934,7 +934,7 @@ Watch for:
   - [Caution] Lloyd Wow, that's a bitch, huh?
 
 ## S5 E8 — The Barber
-URL: https://watchwiththekids.com/ep/seinfeld/0508.html
+URL: https://watchwiththekids.com/ep/seinfeld/0508
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry regrets giving his longtime barber the heave-ho after he gets a ridiculous-looking haircut. George gets a job interview but the boss leaves him with a very cryptic ending. Kramer begs Elaine to let him take part in her charity bachelor auction.
 Watch for:
@@ -944,7 +944,7 @@ Watch for:
   - [Mild] woman so, we had a little party, with cake and champagne. I made a toast.
 
 ## S5 E9 — The Masseuse
-URL: https://watchwiththekids.com/ep/seinfeld/0509.html
+URL: https://watchwiththekids.com/ep/seinfeld/0509
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry gets mad when he dates a masseuse. Kramer and George get massages while Jerry doesn't. Meanwhile, Elaine's new boyfriend is Joel Rifkin, an innocent man who shares the same name as one of New York's most notorious serial killers.
 Watch for:
@@ -964,7 +964,7 @@ Watch for:
   - [Mild] ELAINE: “(she fakes a strangling) RRR...”
 
 ## S5 E10 — The Cigar Store Indian
-URL: https://watchwiththekids.com/ep/seinfeld/0510.html
+URL: https://watchwiththekids.com/ep/seinfeld/0510
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry is deemed a racist when he purchases a Native American statue for Elaine. Kramer tries to get Elaine's company to publish his coffee table book. Elaine runs into a really creepy man on the subway who steals Frank's TV Guide and follows her to the Costanza's house. Meanwhile, George gets grounded when he has sex with a woman in his parents' bed.
 Watch for:
@@ -977,7 +977,7 @@ Watch for:
   - [Too much] Chinese restaurants are? (adopts hackneyed Chinese accent) Oh, ask honolable
 
 ## S5 E11 — The Conversion
-URL: https://watchwiththekids.com/ep/seinfeld/0511.html
+URL: https://watchwiththekids.com/ep/seinfeld/0511
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: George decides to convert to Latvian Orthodox to impress a girl, against his angry parents' objections. Meanwhile, Kramer converts a nun at the church, and Jerry takes a peek in his girlfriend's medicine cabinet and is stunned by what he finds.
 Watch for:
@@ -987,7 +987,7 @@ Watch for:
   - [Mild] George takes a drink of some wine. He spills some on his gown. He makes a
 
 ## S5 E12 — The Stall
-URL: https://watchwiththekids.com/ep/seinfeld/0512.html
+URL: https://watchwiththekids.com/ep/seinfeld/0512
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Summary: Jerry's new girlfriend and Elaine have an argument at the toilet, unaware of each other's identities. Jerry finds himself in an awkward position, as both parties claim their right on the matter, as well as trying to avoid confrontation between the two.
 Watch for:
@@ -1002,7 +1002,7 @@ Watch for:
   - [Mild] yeah I sang 99 bottles of beer on the wall
 
 ## S5 E13 — The Dinner Party
-URL: https://watchwiththekids.com/ep/seinfeld/0513.html
+URL: https://watchwiththekids.com/ep/seinfeld/0513
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: En route to a dinner party, Jerry and Elaine stop off at a bakery and get held up when the bakery runs out of what they want to purchase. Meanwhile, George and Kramer, en route to said dinner party, stop off at a liquor store to buy a bottle of wine and have a hard time picking one out.
 Watch for:
@@ -1020,7 +1020,7 @@ Watch for:
   - [Mild] JERRY: “Hey, what happened to your coat? And what's the smell, what are you drunk?”
 
 ## S5 E14 — The Marine Biologist
-URL: https://watchwiththekids.com/ep/seinfeld/0514.html
+URL: https://watchwiththekids.com/ep/seinfeld/0514
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George starts dating a woman who (told by Jerry) thinks George is a marine biologist. Elaine's electronic organizer injures a person after being launched from a limo by a Russian novelist. Kramer decides to golf on the beach.
 Watch for:
@@ -1028,7 +1028,7 @@ Watch for:
   - [Caution] George: “I'm such a Huge whale fan. These marine biologists were showing how”
 
 ## S5 E15 — The Pie
-URL: https://watchwiththekids.com/ep/seinfeld/0515.html
+URL: https://watchwiththekids.com/ep/seinfeld/0515
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: While shopping for a new suit for a job interview, George and the others stumble upon a mannequin which scarily resembles Elaine. Meanwhile Jerry tries to figure out why his girlfriend won't try his apple pie at Monks.
 Watch for:
@@ -1038,7 +1038,7 @@ Watch for:
   - [Mild] OLIVE: “Why is she wearing her underwear?”
 
 ## S5 E16 — The Stand-In
-URL: https://watchwiththekids.com/ep/seinfeld/0516.html
+URL: https://watchwiththekids.com/ep/seinfeld/0516
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer gets a job with Mickey as a TV stand-in. Jerry sets Elaine up with a guy who he says would be perfect for her. At the end of their first date he takes "it" out.
 Watch for:
@@ -1049,7 +1049,7 @@ Watch for:
   - [Caution] KRAMER: “Hey, nobody put a gun to your head.”
 
 ## S5 E17 — The Wife
-URL: https://watchwiththekids.com/ep/seinfeld/0517.html
+URL: https://watchwiththekids.com/ep/seinfeld/0517
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: While Jerry keeps up the pretense of a pretend marriage with new girlfriend, Meryl, so she can share his dry cleaning discount, Elaine tries to decipher whether a guy at the gym likes her and simultaneously tries to keep him from reporting George to the manager for peeing in the shower; and Kramer prepares to meet his girlfriend, Anna's parents.
 Watch for:
@@ -1064,7 +1064,7 @@ Watch for:
   - [Mild] GRANDPA (to Anna): I thought you said you was bringin' a white boy home! I don't see a white boy! I see a damn fool!
 
 ## S5 E18 — The Raincoats (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0518.html
+URL: https://watchwiththekids.com/ep/seinfeld/0518
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: In this two-part episode, Jerry's parents are visiting before leaving for France which prevents Jerry from having alone time with his new girlfriend, Rachel. George uses the trip to get out of volunteering for the Big Brother program. Kramer and Morty team up to sell Morty's old belt-less trench coat "The Executive" to a vintage clothing store. Elaine's creepy new boyfriend is a "close talker" who enjoys spending time with Jerry's parents.
 Watch for:
@@ -1085,7 +1085,7 @@ Watch for:
   - [Mild] KRAMER: “Well I suppose they are wasted.”
 
 ## S5 E19 — The Raincoats (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0519.html
+URL: https://watchwiththekids.com/ep/seinfeld/0519
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: In this two-part episode, Jerry's parents are visiting before leaving for France which prevents Jerry from having alone time with his new girlfriend, Rachel. George uses the trip to get out of volunteering for the Big Brother program. Kramer and Morty team up to sell Morty's old belt-less trench coat "The Executive" to a vintage clothing store. Elaine's creepy new boyfriend is a "close talker" who enjoys spending time with Jerry's parents.
 Watch for:
@@ -1106,7 +1106,7 @@ Watch for:
   - [Mild] KRAMER: “Well I suppose they are wasted.”
 
 ## S5 E20 — The Fire
-URL: https://watchwiththekids.com/ep/seinfeld/0520.html
+URL: https://watchwiththekids.com/ep/seinfeld/0520
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Kramer pitches his idea for a coffee table book about coffee tables. Kramer takes Toby to see Jerry's act but she heckle's him from the audience. George overreacts somewhat to a fire in the kitchen, showing a side of his character that his new girlfriend does not like.
 Watch for:
@@ -1117,7 +1117,7 @@ Watch for:
   - [Caution] GEORGE (from backstage): He's got a gun! He's got a gun! <Tries to flee the bar in a mad panic. The audience in the club also goes nuts and heads for the exits. Jerry stands onstage, perplexed.>
 
 ## S5 E21 — The Hamptons
-URL: https://watchwiththekids.com/ep/seinfeld/0521.html
+URL: https://watchwiththekids.com/ep/seinfeld/0521
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: The gang goes to the Hamptons for the weekend to visit Elaine's friend new baby.
 Watch for:
@@ -1131,7 +1131,7 @@ Watch for:
   - [Mild] Jerry: “You can see me naked. I can offer you that.”
 
 ## S5 E22 — The Opposite
-URL: https://watchwiththekids.com/ep/seinfeld/0522.html
+URL: https://watchwiththekids.com/ep/seinfeld/0522
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George decides to turn his life around by doing the exact opposite of what he would usually do. Elaine is having a lot of bad luck. Jerry keeps breaking even. Kramer gets the coffee table book published.
 Watch for:
@@ -1145,7 +1145,7 @@ Watch for:
   - [Mild] * We see a sad-looking George staring out at the ocean. Then cut to the office of Mr.Lippman, where Elaine and Mr. Lippman are toasting in champagne.
 
 ## S6 E1 — The Chaperone
-URL: https://watchwiththekids.com/ep/seinfeld/0601.html
+URL: https://watchwiththekids.com/ep/seinfeld/0601
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry dates a Miss America contestant.
 Watch for:
@@ -1163,7 +1163,7 @@ Watch for:
   - [Too much] KRAMER: “You know what I think, Jerry? I think somebody murdered those doves.”
 
 ## S6 E2 — The Big Salad
-URL: https://watchwiththekids.com/ep/seinfeld/0602.html
+URL: https://watchwiththekids.com/ep/seinfeld/0602
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Kramer thinks that a simple penalty stroke may have driven his golf partner, Steve Gennison, to murder a dry cleaner. Jerry is stunned to learn that his girlfriend not only went out with, but was dumped by Newman. George thinks Elaine gave his girlfriend an incorrect thank you when it was actually George who paid for Elaine's lunch. Elaine flirts with a stationery store employee and thinks that she may have sent him the wrong message.
 Watch for:
@@ -1173,7 +1173,7 @@ Watch for:
   - [Too much] Jerry: “Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.”
 
 ## S6 E3 — The Pledge Drive
-URL: https://watchwiththekids.com/ep/seinfeld/0603.html
+URL: https://watchwiththekids.com/ep/seinfeld/0603
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer finds Jerry's old birthday checks from his grandmother and insists he deposits them, which puts Nana in unexpected debt. Elaine accidentally tells the high talker a secret. Mr Pitt eats a Snickers bar with utensils.
 Watch for:
@@ -1189,7 +1189,7 @@ Watch for:
   - [Mild] Jerry: “Yeah, and one of those foam beer can holders.”
 
 ## S6 E4 — The Chinese Woman
-URL: https://watchwiththekids.com/ep/seinfeld/0604.html
+URL: https://watchwiththekids.com/ep/seinfeld/0604
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: George's telephone line crosses with that of a woman named Donna Chang, and everyone seeks her advice when she convinces them that she's Chinese. Jerry winds up dating her. Things get worse when Frank and Estelle announce a separation. Jerry and Elaine can't seem to figure out why Frank Costanza is having mysterious business dealings with a man in a cape.
 Watch for:
@@ -1208,7 +1208,7 @@ Watch for:
   - [Too much] If I like their race, how can that be racist?..
 
 ## S6 E5 — The Couch
-URL: https://watchwiththekids.com/ep/seinfeld/0605.html
+URL: https://watchwiththekids.com/ep/seinfeld/0605
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Elaine dates a moving guy, and things are going well for her until Jerry wants to know what his opinion on abortion is. Poppy returns and he and Kramer are going into business together to create a restaurant where you make your own pizza. Meanwhile, George goes out of his way to cheat on a book club test by renting "Breakfast At Tiffany's" instead of reading the book.
 Watch for:
@@ -1220,7 +1220,7 @@ Watch for:
   - [Mild] POPPIE (opening the gift basket): What's this? A bottle of wine and a five-alarm chili? They're trying to kill Poppie?!
 
 ## S6 E6 — The Gymnast
-URL: https://watchwiththekids.com/ep/seinfeld/0606.html
+URL: https://watchwiththekids.com/ep/seinfeld/0606
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George's girlfriend's mom thinks he is a bum when she catches George eating an éclair out of the trash can, among various other coincidences. Jerry dates a woman who is a former Olympic gymnast and ventures into the territory of sexual pleasures that most men dare not dream of. Elaine tries to pry Mr. Pitt away from looking at Kramer's new 3-D art poster. Meanwhile, Kramer gets a kidney stone.
 Watch for:
@@ -1232,7 +1232,7 @@ Watch for:
   - [Too much] “by the way. It's not bad enough Lincoln got shot in the head, we gotta”
 
 ## S6 E7 — The Soup
-URL: https://watchwiththekids.com/ep/seinfeld/0607.html
+URL: https://watchwiththekids.com/ep/seinfeld/0607
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Kramer convinces Jerry to get a free Armani suit from hack comic Kenny Bania. But when Bania decides that he doesn't want anything except for dinner, Jerry has a hard time accepting the suit knowing that there is a far greater catch involved. Things get even worse when, during the dinner, Bania insists that soup doesn't count as a meal. Meanwhile, Elaine has a British friend stay with her for a week.
 Watch for:
@@ -1247,7 +1247,7 @@ Watch for:
   - [Mild] Simon walks in the open door carrying some beer
 
 ## S6 E8 — The Mom & Pop Store
-URL: https://watchwiththekids.com/ep/seinfeld/0608.html
+URL: https://watchwiththekids.com/ep/seinfeld/0608
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: George buys a convertible he thinks was once owned by Jon Voight. Kramer tries to save a small shoe-repair business. Elaine answers a radio quiz, enabling Mr. Pitt to participate in the Macy's Thanksgiving Day Parade. Meanwhile, Jerry tries to solve the mystery of whether or not he's invited to Tim Whatley's annual Pre-Thanksgiving party.
 Watch for:
@@ -1255,7 +1255,7 @@ Watch for:
   - [Caution] POP: “48 years, Mom! And now we have to close! All because of that idiot and his bloody nose! <Kramer enters.>”
 
 ## S6 E9 — The Secretary
-URL: https://watchwiththekids.com/ep/seinfeld/0609.html
+URL: https://watchwiththekids.com/ep/seinfeld/0609
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: George gets a secretary, saying he will go for efficiency and smarts rather than beauty. He hires a librarian-esque woman, only to find himself falling in love with her.
 Watch for:
@@ -1273,7 +1273,7 @@ Watch for:
   - [Mild] sequestered in a one-bedroom suite with a white wine intravenous.
 
 ## S6 E10 — The Race
-URL: https://watchwiththekids.com/ep/seinfeld/0610.html
+URL: https://watchwiththekids.com/ep/seinfeld/0610
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry dates a girl named Lois, though her boss is Duncan Meyer, an old high school rival of Jerry's, who Jerry once defeated in a track meet, though Duncan has protested the race ever since, and now wants a rematch. Elaine finds out her boyfriend is a communist, George contacts a personal ad from "The Daily Worker", and Kramer gets a job as a shopping center Santa.
 Watch for:
@@ -1285,7 +1285,7 @@ Watch for:
   - [Mild] People snap out of that Christmas spirit like it was a drunken stupor, they just wake up one morning and go, "Oh my god, there's a tree inside the house!
 
 ## S6 E11 — The Switch
-URL: https://watchwiththekids.com/ep/seinfeld/0611.html
+URL: https://watchwiththekids.com/ep/seinfeld/0611
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Elaine loans Mr. Pitt's expensive tennis racket to an executive from Doubleday who hints there may be a job opening for Elaine soon. Jerry's girlfriend never smiles or laughs at his jokes but her roommate laughs at everything he says so he contemplates the switch. George's girlfriend, a model, eats a lot but never puts on weight.
 Watch for:
@@ -1295,7 +1295,7 @@ Watch for:
   - [Mild] {Commercial, then "third scene,"The boys are finishing pizza and beer.
 
 ## S6 E12 — The Label Maker
-URL: https://watchwiththekids.com/ep/seinfeld/0612.html
+URL: https://watchwiththekids.com/ep/seinfeld/0612
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Tim Whatley gives Jerry a label maker as a thank you for his Super Bowl tickets. George is uncomfortable with his girlfriend's male roommate. Kramer and Newman play a game of Risk.
 Watch for:
@@ -1305,7 +1305,7 @@ Watch for:
   - [Mild] and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.
 
 ## S6 E13 — The Scofflaw
-URL: https://watchwiththekids.com/ep/seinfeld/0613.html
+URL: https://watchwiththekids.com/ep/seinfeld/0613
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When George learns that their friend Gary never had cancer as he claimed, he promises to keep it a secret from Jerry. Elaine gets all tied up in knots when she learns that someone said hi to her ex-boyfriend on her behalf. Kramer has a run-in with the local beat cop who tells him there's someone in the neighborhood who has amassed parking tickets for years.
 Watch for:
@@ -1313,7 +1313,7 @@ Watch for:
   - [Mild] to punch Jerry)
 
 ## S6 E16 — The Beard
-URL: https://watchwiththekids.com/ep/seinfeld/0616.html
+URL: https://watchwiththekids.com/ep/seinfeld/0616
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Elaine attempts to convert a gay man to heterosexuality. Kramer sets George up with a woman and, not having a photograph, describes her to a police sketch artist. Jerry hooks up with a female officer who then has Jerry take a polygraph test on whether or not he's seen the show "Melrose Place."
 Watch for:
@@ -1328,7 +1328,7 @@ Watch for:
   - [Caution] Jerry: “So are you going to bring your gun?... All right, then it's settled. First date, no weapons... All right”
 
 ## S6 E17 — The Kiss Hello
-URL: https://watchwiththekids.com/ep/seinfeld/0617.html
+URL: https://watchwiththekids.com/ep/seinfeld/0617
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer tries to create a Utopian society when he puts up pictures of all the residents of his and Jerry's building. Jerry doesn't mind until the women of the building want to be greeted with a kiss. After Jerry objects to kissing hello, he's vilified and nearly kicked out of the building. Meanwhile, Elaine's friend who is a chiropractor skips out on George's appointment and goes skiing instead, and they have a hard time telling her about her dated hairdo.
 Watch for:
@@ -1344,7 +1344,7 @@ Watch for:
   - [Mild] GUY: “I'll go get some more beer.”
 
 ## S6 E18 — The Doorman
-URL: https://watchwiththekids.com/ep/seinfeld/0618.html
+URL: https://watchwiththekids.com/ep/seinfeld/0618
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Elaine house-sits for Mr. Pitt. Jerry goes to meet up with her to go to the movies and winds up offending the Doorman. So to make up for it, Jerry watches the door. But when Jerry leaves his post and the couch in the lobby is stolen, Jerry and Elaine formulate a plan to cover their tracks. Meanwhile, Kramer invents a bra for men and George tries to find a way to get his father out of his apartment.
 Watch for:
@@ -1363,7 +1363,7 @@ Watch for:
   - [Mild] DOORMAN: “Yeah, I just wanna run and get a beer. I'll be back in a minute.”
 
 ## S6 E19 — The Jimmy
-URL: https://watchwiththekids.com/ep/seinfeld/0619.html
+URL: https://watchwiththekids.com/ep/seinfeld/0619
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: The gang has various encounters with a man named Jimmy, who talks about himself in the 3rd person. Jerry suspects Tim Whatley and his assistant are using patients for sexual pleasures. George cuts a deal with Jimmy to sell Jimmy's shoes, but Jimmy gets injured thanks to Kramer's drooling.
 Watch for:
@@ -1373,7 +1373,7 @@ Watch for:
   - [Mild] Jimmy punches Kramer in the mouth.
 
 ## S6 E20 — The Doodle
-URL: https://watchwiththekids.com/ep/seinfeld/0620.html
+URL: https://watchwiththekids.com/ep/seinfeld/0620
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: George dates a girl from Elaine's art class and wonders whether or not her humorous caricature of him is a sign that she likes him or not. Thanks to Newman's fleas, Jerry's visiting parents are forced to stay in Elaine's luxury hotel room. Elaine gets a potential job offer but accidentally leaves the manuscript in Jerry's flea-infested apartment.
 Watch for:
@@ -1387,7 +1387,7 @@ Watch for:
   - [Mild] Nana: “This Champagne's gone flat. ( throws her glass over her shoulder)”
 
 ## S6 E21 — The Fusilli Jerry
-URL: https://watchwiththekids.com/ep/seinfeld/0621.html
+URL: https://watchwiththekids.com/ep/seinfeld/0621
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer gets new license plates, but a DMV screw-up gives him a new vanity license plate. George's mom gets plastic surgery. Jerry tells Puddy about his "move", which he proceeds to use on Elaine.
 Watch for:
@@ -1399,7 +1399,7 @@ Watch for:
   - [Caution] George: “No, you're gonna sit down, you son of a gun...”
 
 ## S6 E22 — The Diplomat's Club
-URL: https://watchwiththekids.com/ep/seinfeld/0622.html
+URL: https://watchwiththekids.com/ep/seinfeld/0622
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry's new agent thinks he's a celebrity who needs his hand held on every little decision. After she tells him that the pilot who flew the plane to Ithaca is in the audience, Jerry freaks out. Kramer goes to the Diplomat's Club to meet up with Jerry and winds up gambling with a Texas business man on which plane is going to arrive first. Meanwhile, Mr. Pitt puts Elaine in his will, and Mr. Pitt's lawyer has reason to suspect that Elaine is up to something.
 Watch for:
@@ -1413,7 +1413,7 @@ Watch for:
   - [Too much] Morgan: “I suppose we all look alike to you, right Costanza?”
 
 ## S6 E23 — The Face Painter
-URL: https://watchwiththekids.com/ep/seinfeld/0623.html
+URL: https://watchwiththekids.com/ep/seinfeld/0623
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Jerry scores premium tickets to a New Jersey Devils playoff game. But Jerry gets weirded out when Puddy shows up at the game and paints his face to match the team colors. Kramer enjoys the game so much that he tries to convince Jerry to get more tickets from the guy Jerry got them from. Meanwhile, George decides to tell his girlfriend that he loves her, only to have the plans backfire on him while Kramer battles a chimpanzee at the zoo.
 Watch for:
@@ -1421,7 +1421,7 @@ Watch for:
   - [Mild] the game. I'll be back, we'll make out.
 
 ## S6 E24 — The Understudy
-URL: https://watchwiththekids.com/ep/seinfeld/0624.html
+URL: https://watchwiththekids.com/ep/seinfeld/0624
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry begins to date a girl who is an understudy for Bette Midler in her new Broadway musical, Rochelle, Rochelle. Jerry, George and Kramer all play on the Improv softball team and happen to be playing against the cast and crew of Rochelle, Rochelle. Kramer fawns over Bette and Jerry's girlfriend cries about her frankfurter falling on the ground but not about her grandmother dying.
 Watch for:
@@ -1431,7 +1431,7 @@ Watch for:
   - [Caution] Frank: “I had an affair with a Korean woman.”
 
 ## S7 E1 — The Engagement
-URL: https://watchwiththekids.com/ep/seinfeld/0701.html
+URL: https://watchwiththekids.com/ep/seinfeld/0701
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Elaine has a problem sleeping in her new apartment because of a dog that keeps barking. Meanwhile, George gets back together with Susan Ross, proposes to her, then begins to have seconds thoughts about it. Jerry breaks up with Melanie because of her peculiar eating habits and Kramer's solution to help Elaine includes Newman, a van and a case of dog-napping.
 Watch for:
@@ -1444,7 +1444,7 @@ Watch for:
   - [Mild] Jerry: “You know what? No champagne. . . . I'll see you later.”
 
 ## S7 E2 — The Postponement
-URL: https://watchwiththekids.com/ep/seinfeld/0702.html
+URL: https://watchwiththekids.com/ep/seinfeld/0702
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Feeling overwhelmed, George wants to postpone marrying Susan.
 Watch for:
@@ -1457,7 +1457,7 @@ Watch for:
   - [Too much] George: “I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.”
 
 ## S7 E3 — The Maestro
-URL: https://watchwiththekids.com/ep/seinfeld/0703.html
+URL: https://watchwiththekids.com/ep/seinfeld/0703
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Elaine dates the conductor of an orchestra who insists everyone calls him "Maestro."
 Watch for:
@@ -1468,7 +1468,7 @@ Watch for:
   - [Mild] "Hello Maestro, how about a beer". O.K. So that's a fact.
 
 ## S7 E4 — The Wink
-URL: https://watchwiththekids.com/ep/seinfeld/0704.html
+URL: https://watchwiththekids.com/ep/seinfeld/0704
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry squirts grapefruit into George's eye at breakfast, and for the rest of the day George is misinterpreted because everyone thinks he is winking at them.
 Watch for:
@@ -1480,7 +1480,7 @@ Watch for:
   - [Caution] STEINBRENNER: “Yogi Berra, Lou Pinella, Bucky Dent, Billy Martin, Dallas Green, Dick Houser, Bill Virdon, Billy Martin, Scott Marrow, Billy Martin, Bob Lemmon, Billy Martin, Gene Michael, Buck Showalter, … uh, tut!, .”
 
 ## S7 E5 — The Hot Tub
-URL: https://watchwiththekids.com/ep/seinfeld/0705.html
+URL: https://watchwiththekids.com/ep/seinfeld/0705
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: George picks up a bad habit from some visiting baseball officials. During the time of the New York City Marathon, Elaine has an out of country runner as her house guest. The runner had overslept and missed the big race at the last Olympics and Jerry obsesses with ensuring that it doesn't happen again. Kramer gets a hot tub from his friend Lomez, and Elaine has writer's block.
 Watch for:
@@ -1502,19 +1502,19 @@ Watch for:
   - [Too much] the air, in ecstasy, as she says...) Yes!
 
 ## S7 E6 — The Soup Nazi
-URL: https://watchwiththekids.com/ep/seinfeld/0706.html
+URL: https://watchwiththekids.com/ep/seinfeld/0706
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: A soup stand owner obsesses about his customers' ordering procedure, but his soup is so good that people line up down the block for it anyway.
 Watch for: nothing flagged.
 
 ## S7 E7 — The Secret Code
-URL: https://watchwiththekids.com/ep/seinfeld/0707.html
+URL: https://watchwiththekids.com/ep/seinfeld/0707
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: George refuses to give anyone his secret code (BOSCO). Kramer buys a police scanner. Jerry does a series of ads for Leapin' Larry's Appliance Store. Elaine has dinner with J. Peterman but after she and Jerry bail on the dinner, George is stuck to dine with Peterman. George spills his secret code to Peterman's dying mother and gets in trouble for it.
 Watch for: nothing flagged.
 
 ## S7 E8 — The Pool Guy
-URL: https://watchwiththekids.com/ep/seinfeld/0708.html
+URL: https://watchwiththekids.com/ep/seinfeld/0708
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry has a hard time telling the pool guy at his new health club that there isn't room for a 5th member of the group. George's worlds collide when Elaine starts hanging out with Susan. Kramer discovers that his phone number is one digit off from that of a popular movie-finding service and offers help to those that mistakenly call his number.
 Watch for:
@@ -1527,7 +1527,7 @@ Watch for:
   - [Mild] know, and the punches started flying -- who do you think would win?
 
 ## S7 E9 — The Sponge
-URL: https://watchwiththekids.com/ep/seinfeld/0709.html
+URL: https://watchwiththekids.com/ep/seinfeld/0709
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: After learning that her prophylactic of choice is being discontinued, Elaine buys a case of Today sponges and scrutinizes her dates for their sponge-worthiness.
 Watch for:
@@ -1542,7 +1542,7 @@ Watch for:
   - [Mild] ELAINE: “Oh yeah, I know all about make-up sex, and I'm really sorry. <Shoves George into the hallway and closes the door. George blocks the door with his foot.>”
 
 ## S7 E10 — The Gum
-URL: https://watchwiththekids.com/ep/seinfeld/0710.html
+URL: https://watchwiththekids.com/ep/seinfeld/0710
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Lloyd Braun comes back from the insane asylum. Kramer takes him under his wing and convinces Jerry to buy gum from him and wear glasses that don't belong to him to prove that Lloyd isn't crazy. George tries to prove to his old neighbor Deena that he isn't crazy after a cashier short changes him.
 Watch for:
@@ -1555,7 +1555,7 @@ Watch for:
   - [Mild] KRAMER: “(slapping Jerry on the back) Ah, he loved it.”
 
 ## S7 E11 — The Rye
-URL: https://watchwiththekids.com/ep/seinfeld/0711.html
+URL: https://watchwiththekids.com/ep/seinfeld/0711
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: After George's parents take back the bread they gifted to Susan's parents, George makes Jerry find another loaf and tries to appease Susan's parents by taking them on Kramer's Manhattan horse tours, to disastrous consequences.
 Watch for:
@@ -1567,7 +1567,7 @@ Watch for:
   - [Mild] SUSAN: “More wine anyone?”
 
 ## S7 E12 — The Caddy
-URL: https://watchwiththekids.com/ep/seinfeld/0712.html
+URL: https://watchwiththekids.com/ep/seinfeld/0712
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Elaine's former acquaintance Sue Ellen Mischkie returns and angers Elaine by not wearing a bra, in response Elaine buys her a bra for her birthday. George locks his keys in his car and leaves it in the Yankee parking lot leading Steinbrenner to believe George is putting in late hours.
 Watch for:
@@ -1582,7 +1582,7 @@ Watch for:
   - [Caution] Elaine makes a gun with her fingers and points it to her head
 
 ## S7 E13 — The Seven
-URL: https://watchwiththekids.com/ep/seinfeld/0713.html
+URL: https://watchwiththekids.com/ep/seinfeld/0713
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George meets Susan's cousins. The wife is expecting a baby and they are having a hard time agreeing on the name. George reveals that he wants to name his kid Seven after Mickey Mantle. The cousins like the idea of naming their kid Seven, but nobody else does. Elaine buys an antique bicycle and hurts her neck in the process. Kramer fixes her neck and wants the bicycle in exchange for payment. Jerry's new girlfriend wears the same dress every single day.
 Watch for:
@@ -1592,7 +1592,7 @@ Watch for:
   - [Mild] shaker, she knocks her glass of red wine over her dress.
 
 ## S7 E14 — The Cadillac (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0714.html
+URL: https://watchwiththekids.com/ep/seinfeld/0714
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: In this hour-long episode, Jerry decides to buy his father a Cadillac. Unfortunately, doing so puts Morty in the hot seat with the condo board of directors. Meanwhile, thanks to Elaine, George can score a date with "My Cousin Vinny" star Marisa Tomei but Elaine objects because of George's engagement with Susan. Kramer turns the tables on the cable company when they want to disconnect his service.
 Watch for:
@@ -1600,7 +1600,7 @@ Watch for:
   - [Mild] GEORGE: “(adamant) It's not cheating if there's no sex!”
 
 ## S7 E15 — The Cadillac (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0715.html
+URL: https://watchwiththekids.com/ep/seinfeld/0715
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: In this hour-long episode, Jerry decides to buy his father a Cadillac. Unfortunately, doing so puts Morty in the hot seat with the condo board of directors. Meanwhile, thanks to Elaine, George can score a date with "My Cousin Vinny" star Marisa Tomei but Elaine objects because of George's engagement with Susan. Kramer turns the tables on the cable company when they want to disconnect his service.
 Watch for:
@@ -1608,7 +1608,7 @@ Watch for:
   - [Mild] GEORGE: “(adamant) It's not cheating if there's no sex!”
 
 ## S7 E16 — The Shower Head
-URL: https://watchwiththekids.com/ep/seinfeld/0716.html
+URL: https://watchwiththekids.com/ep/seinfeld/0716
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Peterman wants Elaine to go to Africa, but when Elaine tests positive for Opium in her physical, that means no dice. George tries to convince his parents to move to Florida so that he finally gets his "buffer zone", but they have problems with Jerry's parents. Kramer and Newman scheme to buy black market shower heads when the building switches to low-flow ones.
 Watch for:
@@ -1620,7 +1620,7 @@ Watch for:
   - [Mild] Jerry: “Actually, I'm drunk.”
 
 ## S7 E17 — The Doll
-URL: https://watchwiththekids.com/ep/seinfeld/0717.html
+URL: https://watchwiththekids.com/ep/seinfeld/0717
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George freaks out when he discovers that Susan has a doll that looks exactly like his mother. Jerry decides to use that as a bit on the Charles Grodin show when his prop gets destroyed in his carry-on luggage, but fellow comedian Sally Weaver screws up his bit by bringing him the wrong doll.
 Watch for:
@@ -1637,7 +1637,7 @@ Watch for:
   - [Mild] ELAINE: “Oh, ok! (Picking up the Ori-dent box, she knocks over a bottle of wine. It spills all over the poster)”
 
 ## S7 E18 — The Friars Club
-URL: https://watchwiththekids.com/ep/seinfeld/0718.html
+URL: https://watchwiththekids.com/ep/seinfeld/0718
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry has a hard time getting membership in the Friar's Club when the Flying Santos Brothers take his jacket during a show. Meanwhile, Elaine suspects that a new co-worker (Rob Schnieder) is faking a hearing disorder to get out of doing work.
 Watch for:
@@ -1660,7 +1660,7 @@ Watch for:
   - [Mild] PAT: “Hey, Jerry. What the hell went wrong? What's the matter with you? Are”
 
 ## S7 E20 — The Calzone
-URL: https://watchwiththekids.com/ep/seinfeld/0720.html
+URL: https://watchwiththekids.com/ep/seinfeld/0720
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George gets Steinbrenner hooked on eggplant calzones from a local Italian restaurant. But George gets banned from the restaurant when he's accused of stealing from the tip jar. He then asks Kramer to pick up the calzones, but Kramer gets kicked out when he tries to pay with pennies. George's last resort in getting the calzones is Newman who wants a cut of every delivery. Meanwhile, Kramer will only wear clothing if it's straight from the dryer.
 Watch for:
@@ -1672,7 +1672,7 @@ Watch for:
   - [Caution] Mr. Steinbrenner: “Corn beef . I don't think so . It is a little fatty .”
 
 ## S7 E21 — The Bottle Deposit (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0721.html
+URL: https://watchwiththekids.com/ep/seinfeld/0721
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: A garage mechanic steals Jerry's car. Elaine tries to win J. Peterman JFK's presidential golf clubs at an auction. George is asked to work on a mysterious assignment. Kramer and Newman run a recycling scam.
 Watch for:
@@ -1680,7 +1680,7 @@ Watch for:
   - [Mild] business. (nostalgic) Clothing the naked natives of Bantu Besh.
 
 ## S7 E22 — The Bottle Deposit (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0722.html
+URL: https://watchwiththekids.com/ep/seinfeld/0722
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: A garage mechanic steals Jerry's car. Elaine tries to win J. Peterman JFK's presidential golf clubs at an auction. George is asked to work on a mysterious assignment. Kramer and Newman run a recycling scam.
 Watch for:
@@ -1688,7 +1688,7 @@ Watch for:
   - [Mild] business. (nostalgic) Clothing the naked natives of Bantu Besh.
 
 ## S7 E23 — The Wait Out
-URL: https://watchwiththekids.com/ep/seinfeld/0723.html
+URL: https://watchwiththekids.com/ep/seinfeld/0723
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: A comment from George ends up causing a married couple to get divorced and Jerry and Elaine to date the soon-to-be exes. Kramer tries wearing jeans.
 Watch for:
@@ -1696,7 +1696,7 @@ Watch for:
   - [Too much] KRAMER: “Yeah, and I'm playing a business man accused of murder.”
 
 ## S7 E24 — The Invitations
-URL: https://watchwiththekids.com/ep/seinfeld/0724.html
+URL: https://watchwiththekids.com/ep/seinfeld/0724
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: It's finally time for George and Susan's wedding. George doesn't think he can go through with the wedding. But when Susan puts George in charge of the wedding invitations, George gets the cheapest ones in the lot, knowing that the glue for the envelopes is cheap. Unfortunately for Susan, the glue is also toxic and licking the envelopes has fatal consequences. Meanwhile, Jerry courts a woman just like him named Janeanne Steinberg and holds up his end of George's "pact".
 Watch for:
@@ -1704,7 +1704,7 @@ Watch for:
   - [Mild] Jerry: “Hey look , Champagne..”
 
 ## S8 E1 — The Foundation
-URL: https://watchwiththekids.com/ep/seinfeld/0801.html
+URL: https://watchwiththekids.com/ep/seinfeld/0801
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George enjoys the single life. Elaine takes over the catalog when J. Peterman suddenly goes missing. Kramer is taking karate lessons.
 Watch for:
@@ -1712,7 +1712,7 @@ Watch for:
   - [Mild] Jerry: “...But with punching and kicking.”
 
 ## S8 E2 — The Soul Mate
-URL: https://watchwiththekids.com/ep/seinfeld/0802.html
+URL: https://watchwiththekids.com/ep/seinfeld/0802
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: George thinks the Board of Directors are talking behind his back. Kramer has a crush on Jerry's new girlfriend. Elaine doesn't see the big deal in having a baby.
 Watch for:
@@ -1721,7 +1721,7 @@ Watch for:
   - [Too much] MR. CROSS: “Oh, yeah. I just assumed he murdered her.”
 
 ## S8 E3 — The Bizarro Jerry
-URL: https://watchwiththekids.com/ep/seinfeld/0803.html
+URL: https://watchwiththekids.com/ep/seinfeld/0803
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George uses Susan's death to pick up women. Elaine's new friend is Jerry's exact opposite. Jerry's new girlfriend has manly hands. Kramer pretends to work for an upscale firm.
 Watch for:
@@ -1729,7 +1729,7 @@ Watch for:
   - [Mild] Well, then at least drink your beer.. [she's opening the bottle--brief closeup on hands]
 
 ## S8 E4 — The Little Kicks
-URL: https://watchwiththekids.com/ep/seinfeld/0804.html
+URL: https://watchwiththekids.com/ep/seinfeld/0804
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry is forced to bootleg a movie for Kramer's friend. George tries the "bad boy" image. No one has the heart to tell Elaine that she's a terrible dancer.
 Watch for:
@@ -1742,7 +1742,7 @@ Watch for:
   - [Caution] Jerry: “People with guns don't understand. That's why they get guns. Too many”
 
 ## S8 E5 — The Package
-URL: https://watchwiththekids.com/ep/seinfeld/0805.html
+URL: https://watchwiththekids.com/ep/seinfeld/0805
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: A mysterious package arrives for Jerry. Elaine is curious about what the doctors are writing in her records. George tries to hit on the cute girl at the "One Hour Photo" place.
 Watch for:
@@ -1757,7 +1757,7 @@ Watch for:
   - [Caution] Newman: “Not so fast pretty boy . There is more to this sordid little affair .”
 
 ## S8 E6 — The Fatigues
-URL: https://watchwiththekids.com/ep/seinfeld/0806.html
+URL: https://watchwiththekids.com/ep/seinfeld/0806
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry's new girlfriend's mentor is dating Bania. Kramer volunteers to host a Jewish singles mixer. George tries to study up on risk management. Elaine promotes a man she is afraid to fire.
 Watch for:
@@ -1769,7 +1769,7 @@ Watch for:
   - [Mild] Frank pours a shot of whiskey and drinks it.
 
 ## S8 E7 — The Checks
-URL: https://watchwiththekids.com/ep/seinfeld/0807.html
+URL: https://watchwiththekids.com/ep/seinfeld/0807
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry gets hundreds of royalty checks, worth 12 cents each, for appearing on a Japanese TV program and gets writer's cramp. George and Jerry pitch their pilot to Japanese TV executives.
 Watch for:
@@ -1777,7 +1777,7 @@ Watch for:
   - [Caution] GEORGE: “How'd you hook up with these guys?”
 
 ## S8 E8 — The Chicken Roaster
-URL: https://watchwiththekids.com/ep/seinfeld/0808.html
+URL: https://watchwiththekids.com/ep/seinfeld/0808
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kenny Rogers' Roasters sets up shop across the street from Jerry and Kramer's apartment. Elaine gets comfortable in her position as president of the catalog but is quickly accused of abusing her company credit card benefits. George purposefully leaves a hat at his girlfriend's apartment in hopes that it will score another date.
 Watch for:
@@ -1787,7 +1787,7 @@ Watch for:
   - [Caution] Jerry: “I guess we like to think we've progressed beyond a knife fight for a”
 
 ## S8 E9 — The Abstinence
-URL: https://watchwiththekids.com/ep/seinfeld/0809.html
+URL: https://watchwiththekids.com/ep/seinfeld/0809
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Abstinence allows George to become a genius, but it turns Elaine into an idiot. Jerry gets bumped from career day at his old Jr. High School. Kramer turns his apartment into a smoking lounge and all the smoke disfigures his face.
 Watch for:
@@ -1801,7 +1801,7 @@ Watch for:
   - [Mild] Jerry: “You mean, not subjecting yourself to your sexual advances.”
 
 ## S8 E10 — The Andrea Doria
-URL: https://watchwiththekids.com/ep/seinfeld/0810.html
+URL: https://watchwiththekids.com/ep/seinfeld/0810
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: A survivor of a shipwreck beats George out of an apartment, so George decides to tell the landlords the tragedies of his life in hopes of getting it back based on pity.
 Watch for:
@@ -1817,7 +1817,7 @@ Watch for:
   - [Mild] WOMAN: “Please! Get help! There's a crazy big-headed woman beating up some guy! Tell the police "The Old Mill Restaurant". Hurry!”
 
 ## S8 E11 — The Little Jerry
-URL: https://watchwiththekids.com/ep/seinfeld/0811.html
+URL: https://watchwiththekids.com/ep/seinfeld/0811
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry bounces a check. Kramer buys a live chicken. George dates a female convict. Elaine dates a man who shaves his head.
 Watch for:
@@ -1828,7 +1828,7 @@ Watch for:
   - [Mild] ELAINE: “Why did you get into a fist fight with the cop? You were innocent!”
 
 ## S8 E12 — The Money
-URL: https://watchwiththekids.com/ep/seinfeld/0812.html
+URL: https://watchwiththekids.com/ep/seinfeld/0812
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry's parents believe he is financially unstable. Kramer has trouble sleeping with his girlfriend. Elaine enjoys her position as President of the J. Peterman catalog. George hopes to get his parents' money when they die.
 Watch for:
@@ -1842,7 +1842,7 @@ Watch for:
   - [Mild] Kramer is examining the label on a wine bottle, as George turns to look at
 
 ## S8 E13 — The Comeback
-URL: https://watchwiththekids.com/ep/seinfeld/0813.html
+URL: https://watchwiththekids.com/ep/seinfeld/0813
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: George tries to come up with a good comeback after someone insults him. Elaine falls in love with a mysterious employee at the video store. Kramer wants to die a certain way. Jerry takes advice from a tennis player who stinks.
 Watch for:
@@ -1857,7 +1857,7 @@ Watch for:
   - [Mild] Elaine reaches into the grocery bag and extracts the bottle of vodka. She
 
 ## S8 E14 — The Van Buren Boys
-URL: https://watchwiththekids.com/ep/seinfeld/0814.html
+URL: https://watchwiththekids.com/ep/seinfeld/0814
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Kramer gets mixed up with a gang when he is mugged by them and mistakenly shows their secret sign.
 Watch for:
@@ -1870,7 +1870,7 @@ Watch for:
   - [Mild] Kramer nods his head while drinking from a mug of beer
 
 ## S8 E15 — The Susie
-URL: https://watchwiththekids.com/ep/seinfeld/0815.html
+URL: https://watchwiththekids.com/ep/seinfeld/0815
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Kramer sets his watch an hour ahead. George tries to avoid a breakup with his girlfriend. A colleague keeps calling Elaine, Susie. Jerry gambles on a basketball game, but the bookie can't pay him.
 Watch for:
@@ -1885,7 +1885,7 @@ Watch for:
   - [Too much] Susie didn't commit suicide!
 
 ## S8 E16 — The Pothole
-URL: https://watchwiththekids.com/ep/seinfeld/0816.html
+URL: https://watchwiththekids.com/ep/seinfeld/0816
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry accidentally drops his girlfriends toothbrush in the toilet. George loses his car keys in a newly paved pothole. Elaine orders food from a restaurant that refuses to deliver to her area. Kramer adopts a highway.
 Watch for:
@@ -1898,7 +1898,7 @@ Watch for:
   - [Mild] NEWMAN: “What the hell was that?”
 
 ## S8 E17 — The English Patient
-URL: https://watchwiththekids.com/ep/seinfeld/0817.html
+URL: https://watchwiththekids.com/ep/seinfeld/0817
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Elaine is dragged to see the movie "The English Patient" on multiple occasions, even though she absolutely hates the film.
 Watch for:
@@ -1918,13 +1918,13 @@ Watch for:
   - [Mild] HAFFLER: “Get the hell outta my office.”
 
 ## S8 E18 — The Nap
-URL: https://watchwiththekids.com/ep/seinfeld/0818.html
+URL: https://watchwiththekids.com/ep/seinfeld/0818
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: George takes a nap under his desk. Kramer swims in the East River. Jerry has some maintenance done on his kitchen. Elaine's new boyfriend buys her a new mattress.
 Watch for: nothing flagged.
 
 ## S8 E19 — The Yada Yada
-URL: https://watchwiththekids.com/ep/seinfeld/0819.html
+URL: https://watchwiththekids.com/ep/seinfeld/0819
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: George's new girlfriend keeps including "Yada Yada" in her stories. Jerry is offended by Tim Whatley's Jewish jokes. Elaine tries to help her friends adopt a baby. Kramer and Mickey fight over two women.
 Watch for:
@@ -1943,7 +1943,7 @@ Watch for:
   - [Mild] Waiter: “Anything to drink? Some wine, perhaps.”
 
 ## S8 E20 — The Millennium
-URL: https://watchwiththekids.com/ep/seinfeld/0820.html
+URL: https://watchwiththekids.com/ep/seinfeld/0820
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Kramer and Newman compete during the early planning of each of their millennium parties.
 Watch for:
@@ -1958,7 +1958,7 @@ Watch for:
   - [Mild] MRS HAMILTON: “I'm sure she'll be along. (handing over a glass) Have some wine,”
 
 ## S8 E21 — The Muffin Tops
-URL: https://watchwiththekids.com/ep/seinfeld/0821.html
+URL: https://watchwiththekids.com/ep/seinfeld/0821
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Elaine opens a new bakery that sells only the tops of the muffins.
 Watch for:
@@ -1970,7 +1970,7 @@ Watch for:
   - [Mild] John Tyler: “How about this. You give me Castanza, I convert your concessions to all chicken no charge. Instead of hot dogs, chicken dogs. Instead of pretzels, chicken twists. Instead of beer, alcoholic chicken.”
 
 ## S8 E22 — The Summer of George
-URL: https://watchwiththekids.com/ep/seinfeld/0822.html
+URL: https://watchwiththekids.com/ep/seinfeld/0822
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Unemployed again, George decides to have a "memorable" summer. Jerry's new girlfriend has another dude. Kramer wins a Tony Award. A new girl at work is hostile towards Elaine.
 Watch for:
@@ -1982,7 +1982,7 @@ Watch for:
   - [Mild] Kramer: “Jerry, it was a whirlwind. They whisked us backstage, the media is sworming, champagne is flowing...whooo! I can't describe how great it is to win.”
 
 ## S9 E1 — The Butter Shave
-URL: https://watchwiththekids.com/ep/seinfeld/0901.html
+URL: https://watchwiththekids.com/ep/seinfeld/0901
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Kramer discovers the amazing yet unknown uses of butter, but accidentally fries himself after using it as sunscreen.
 Watch for:
@@ -1995,7 +1995,7 @@ Watch for:
   - [Mild] sitting in the bar at the comedy club drinking a glass of champagne. Bania
 
 ## S9 E2 — The Voice
-URL: https://watchwiththekids.com/ep/seinfeld/0902.html
+URL: https://watchwiththekids.com/ep/seinfeld/0902
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: George's colleagues try to force him to leave. Jerry makes fun of his girlfriend's bellybutton. Kramer hires an intern. Elaine gets back together with David Puddy.
 Watch for:
@@ -2012,7 +2012,7 @@ Watch for:
   - [Caution] George: “I’m a weed in Hitler’s bunker.”
 
 ## S9 E3 — The Serenity Now
-URL: https://watchwiththekids.com/ep/seinfeld/0903.html
+URL: https://watchwiththekids.com/ep/seinfeld/0903
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry opens up his feelings. Elaine is getting hit on by the Jews. Kramer gets a screen door. George helps his father sell computers.
 Watch for:
@@ -2023,7 +2023,7 @@ Watch for:
   - [Too much] Jerry: “Porn quotes... I'm so lucky to have a friend like you, George. Ever”
 
 ## S9 E4 — The Blood
-URL: https://watchwiththekids.com/ep/seinfeld/0904.html
+URL: https://watchwiththekids.com/ep/seinfeld/0904
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry's parents hire their friend Izzy Mandelbaum to become Jerry's personal trainer while George decides to associate food and television with his love life.
 Watch for:
@@ -2039,7 +2039,7 @@ Watch for:
   - [Mild] Elaine: “All right, but I'm running out of purses here. [takes her purse from a punch ball.]”
 
 ## S9 E5 — The Junk Mail
-URL: https://watchwiththekids.com/ep/seinfeld/0905.html
+URL: https://watchwiththekids.com/ep/seinfeld/0905
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Kramer is annoyed with the catalogs he keeps getting in the mail. Elaine falls in love with a guy because of his smile. George's parents are avoiding him. Jerry can't find it in his heart to reject a gift from an old school friend.
 Watch for:
@@ -2052,7 +2052,7 @@ Watch for:
   - [Mild] Elaine: “"He's not idiotic. He's the Wiz. And nobody beats him. Nobody..."”
 
 ## S9 E6 — The Merv Griffin Show
-URL: https://watchwiththekids.com/ep/seinfeld/0906.html
+URL: https://watchwiththekids.com/ep/seinfeld/0906
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George runs over a flock of pigeons. Jerry's new girlfriend has a toy collection. A new co-worker is freaking Elaine out. Kramer rebuilds the set of the Merv Griffin Show in his apartment.
 Watch for:
@@ -2064,13 +2064,13 @@ Watch for:
   - [Mild] JERRY: “So when I saw George on the street with an 18 pound turkey and a giant box of wine, I thought:”
 
 ## S9 E7 — The Slicer
-URL: https://watchwiththekids.com/ep/seinfeld/0907.html
+URL: https://watchwiththekids.com/ep/seinfeld/0907
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Elaine borrows Kramer's meat slicer to feed her neighbor's cat while George tries to hide his not-so-great past from his new boss.
 Watch for: nothing flagged.
 
 ## S9 E8 — The Betrayal
-URL: https://watchwiththekids.com/ep/seinfeld/0908.html
+URL: https://watchwiththekids.com/ep/seinfeld/0908
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: The gang goes to a wedding in India in this special episode told in reverse. Meanwhile, Kramer uses his superstition to try to make sure he won't drop dead.
 Watch for:
@@ -2086,7 +2086,7 @@ Watch for:
   - [Mild] Notice: "ONE DAY EARLIER" Elaine and George are at Monks. Elaine is drunk
 
 ## S9 E9 — The Apology
-URL: https://watchwiththekids.com/ep/seinfeld/0909.html
+URL: https://watchwiththekids.com/ep/seinfeld/0909
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry dates a nudist, and George seeks an apology from an old friend.
 Watch for:
@@ -2099,7 +2099,7 @@ Watch for:
   - [Caution] Jerry: “"Insert a knife into the center and twist. Then, to make it bloom,”
 
 ## S9 E10 — The Strike
-URL: https://watchwiththekids.com/ep/seinfeld/0910.html
+URL: https://watchwiththekids.com/ep/seinfeld/0910
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry goes out with a woman who is beautiful one day and ugly the next. Kramer goes back to work at H&H Bagels. George makes up a charity. Elaine gives a fake number to a man.
 Watch for:
@@ -2108,7 +2108,7 @@ Watch for:
   - [Mild] JERRY: “Hey! How'd it go with the cocktail franks?”
 
 ## S9 E11 — The Dealership
-URL: https://watchwiththekids.com/ep/seinfeld/0911.html
+URL: https://watchwiththekids.com/ep/seinfeld/0911
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry looks to buy a new car from Elaine's boyfriend. George tries to find a snack. Kramer test drives a car.
 Watch for:
@@ -2119,7 +2119,7 @@ Watch for:
   - [Mild] PUDDY: “(While punching up numbers on a calculator) That chick’s whacked. We’re history. (Back to the transaction) I just left out a couple of things:”
 
 ## S9 E12 — The Reverse Peephole
-URL: https://watchwiththekids.com/ep/seinfeld/0912.html
+URL: https://watchwiththekids.com/ep/seinfeld/0912
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Elaine is embarrassed by Puddy's fur coat. Kramer tries to keep Newman from getting evicted. George carries everything in his wallet. Jerry is through with wallets.
 Watch for:
@@ -2130,7 +2130,7 @@ Watch for:
   - [Mild] Puddy: “(standing guard by the stereo as George walks by him) Hey! Cocktail off the speaker.”
 
 ## S9 E13 — The Cartoon
-URL: https://watchwiththekids.com/ep/seinfeld/0913.html
+URL: https://watchwiththekids.com/ep/seinfeld/0913
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sally Weaver makes fun of Jerry. George's new girlfriend looks just like Jerry. Kramer takes a vow of silence. Elaine gets a job drawing cartoons for the New Yorker.
 Watch for:
@@ -2150,7 +2150,7 @@ Watch for:
   - [Caution] Elaine: “The pig says "my wife is a slut."”
 
 ## S9 E15 — The Wizard
-URL: https://watchwiththekids.com/ep/seinfeld/0915.html
+URL: https://watchwiththekids.com/ep/seinfeld/0915
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry goes down to Florida for his father's birthday. George tries to avoid Susan's parents. Elaine can't figure out her new boyfriend's nationality. Kramer decides to retire.
 Watch for:
@@ -2160,7 +2160,7 @@ Watch for:
   - [Too much] That is racism!"
 
 ## S9 E16 — The Burning
-URL: https://watchwiththekids.com/ep/seinfeld/0916.html
+URL: https://watchwiththekids.com/ep/seinfeld/0916
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Elaine finds out that Puddy is religious. Kramer pretends to have gonorrhea. Jerry's new girlfriend has a tractor story to tell him. George wants everyone at work to like him.
 Watch for:
@@ -2170,7 +2170,7 @@ Watch for:
   - [Caution] Jerry: “And a bit of a tramp if you ask me.”
 
 ## S9 E17 — The Bookstore
-URL: https://watchwiththekids.com/ep/seinfeld/0917.html
+URL: https://watchwiththekids.com/ep/seinfeld/0917
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: George is forced to buy a book he brought into the bathroom. Jerry finds out that his Uncle Leo is a shop lifter. Elaine doesn't want to be known as the office skank. Kramer and Newman start a Hong Kong rickshaw business.
 Watch for:
@@ -2187,7 +2187,7 @@ Watch for:
   - [Caution] ELAINE: “(Talking to a co-worker) Of course Zach and I have been dating. What'd you think, I was the office skank?”
 
 ## S9 E18 — The Frogger
-URL: https://watchwiththekids.com/ep/seinfeld/0918.html
+URL: https://watchwiththekids.com/ep/seinfeld/0918
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: George tries to acquire an old Frogger machine on which he's held the top score since high school.
 Watch for:
@@ -2200,7 +2200,7 @@ Watch for:
   - [Caution] Surprised, he sees a shadowy figure walking towards him holding something resembling a head in one hand and a knife in the other.
 
 ## S9 E19 — The Maid
-URL: https://watchwiththekids.com/ep/seinfeld/0919.html
+URL: https://watchwiththekids.com/ep/seinfeld/0919
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Jerry winds up dating the maid he hired, and she starts to slack off on her duties.
 Watch for:
@@ -2216,7 +2216,7 @@ Watch for:
   - [Too much] JERRY: “Is this the suicide talk or the nickname talk?”
 
 ## S9 E20 — The Puerto Rican Day
-URL: https://watchwiththekids.com/ep/seinfeld/0920.html
+URL: https://watchwiththekids.com/ep/seinfeld/0920
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Jerry, George, Kramer and Elaine get stuck in standstill traffic due to the massive Puerto Rican Day Parade.
 Watch for:
@@ -2229,19 +2229,19 @@ Watch for:
   - [Caution] The gang drives along in Jerry's car with the top down. Elaine and Kramer sit in the back, George is shotgun, and Jerry behind the wheel.
 
 ## S9 E21 — The Clip Show (1) (a.k.a. The Chronicle (1))
-URL: https://watchwiththekids.com/ep/seinfeld/0921.html
+URL: https://watchwiththekids.com/ep/seinfeld/0921
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Just as the four are about to go to the movies, Jerry looks back on the past nine years with the audience.
 Watch for: nothing flagged.
 
 ## S9 E22 — The Clip Show (2) (a.k.a. The Chronicle (2))
-URL: https://watchwiththekids.com/ep/seinfeld/0922.html
+URL: https://watchwiththekids.com/ep/seinfeld/0922
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Just as the four are about to go to the movies, Jerry looks back on the past nine years with the audience.
 Watch for: nothing flagged.
 
 ## S9 E23 — The Finale (1)
-URL: https://watchwiththekids.com/ep/seinfeld/0923.html
+URL: https://watchwiththekids.com/ep/seinfeld/0923
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: After George and Jerry land a production deal with NBC, the four head out for Paris on NBC's private plane and are waylaid in a small Massachusetts town.
 Watch for:
@@ -2270,7 +2270,7 @@ Watch for:
   - [Caution] Kramer: “Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.”
 
 ## S9 E24 — The Finale (2)
-URL: https://watchwiththekids.com/ep/seinfeld/0924.html
+URL: https://watchwiththekids.com/ep/seinfeld/0924
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: After George and Jerry land a production deal with NBC, the four head out for Paris on NBC's private plane and are waylaid in a small Massachusetts town.
 Watch for:

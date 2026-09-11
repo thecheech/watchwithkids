@@ -1,11 +1,11 @@
 # Futurama — parent guide (141 episodes)
 
-Source: https://watchwiththekids.com/futurama.html
+Source: https://watchwiththekids.com/futurama
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 0 mild (1–2), 111 caution (3), 30 too much (4–5).
 
 ## S1 E1 — Space Pilot 3000
-URL: https://watchwiththekids.com/ep/futurama/0101.html
+URL: https://watchwiththekids.com/ep/futurama/0101
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -41,7 +41,7 @@ Watch for:
   - [Mild] He reaches into his chest cabinet and pulls out three bottles of beer ... and drinks them all himself.
 
 ## S1 E2 — The Series Has Landed
-URL: https://watchwiththekids.com/ep/futurama/0102.html
+URL: https://watchwiththekids.com/ep/futurama/0102
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -67,7 +67,7 @@ Watch for:
   - [Caution] (10:26) ⨂Leela: Wow, I never realised the first astronauts were so fat!
 
 ## S1 E3 — I, Roommate
-URL: https://watchwiththekids.com/ep/futurama/0103.html
+URL: https://watchwiththekids.com/ep/futurama/0103
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -94,7 +94,7 @@ Watch for:
   - [Caution] (14:00) ⨂Bender: Those could be anyone's thoughts, fat ass!
 
 ## S1 E4 — Love's Labours Lost in Space
-URL: https://watchwiththekids.com/ep/futurama/0104.html
+URL: https://watchwiththekids.com/ep/futurama/0104
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -112,7 +112,7 @@ Watch for:
   - [Mild] He laughs. Leela fakes a laugh and throws her champagne on the floor while Zapp isn't looking.
 
 ## S1 E5 — Fear of a Bot Planet
-URL: https://watchwiththekids.com/ep/futurama/0105.html
+URL: https://watchwiththekids.com/ep/futurama/0105
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -137,7 +137,7 @@ Watch for:
   - [Mild] Scene: Ship's Cockpit. Leela and Fry have decorated it with banners, paper people and beers.
 
 ## S1 E6 — A Fishful of Dollars
-URL: https://watchwiththekids.com/ep/futurama/0106.html
+URL: https://watchwiththekids.com/ep/futurama/0106
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -163,7 +163,7 @@ Watch for:
   - [Caution] Igner drops the fat suit arm and groans.
 
 ## S1 E7 — My Three Suns
-URL: https://watchwiththekids.com/ep/futurama/0107.html
+URL: https://watchwiththekids.com/ep/futurama/0107
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -186,7 +186,7 @@ Watch for:
   - [Mild] (11:46) ⨂Leela: You see Emperor Plon here? [She points at a painting.] He met his end when he was drunk by Emperor Strug. And before he could even wipe his mouth, Strug was drunk by Shwab.
 
 ## S1 E8 — A Big Piece of Garbage
-URL: https://watchwiththekids.com/ep/futurama/0108.html
+URL: https://watchwiththekids.com/ep/futurama/0108
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -213,7 +213,7 @@ Watch for:
   - [Mild] Bender: “Yeah! And this beer can is made outta old robots.”
 
 ## S1 E9 — Hell Is Other Robots
-URL: https://watchwiththekids.com/ep/futurama/0109.html
+URL: https://watchwiththekids.com/ep/futurama/0109
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -241,7 +241,7 @@ Watch for:
   - [Mild] Fry: “Well he didn't check out. The ashtray's still here. [Nibbler yelps.] Look, Nibbler's caught the scent of vodka and motor oil! Go, boy. Follow that stench.”
 
 ## S2 E1 — A Flight to Remember
-URL: https://watchwiththekids.com/ep/futurama/0201.html
+URL: https://watchwiththekids.com/ep/futurama/0201
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -263,7 +263,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
 
 ## S2 E2 — Mars University
-URL: https://watchwiththekids.com/ep/futurama/0202.html
+URL: https://watchwiththekids.com/ep/futurama/0202
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -287,7 +287,7 @@ Watch for:
   - [Too much] They laugh, chink their glasses and gulp down their champagne.
 
 ## S2 E3 — When Aliens Attack
-URL: https://watchwiththekids.com/ep/futurama/0203.html
+URL: https://watchwiththekids.com/ep/futurama/0203
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -321,7 +321,7 @@ Watch for:
   - [Too much] Time Lapse. Fry, Leela and Bender chink their glasses and raise a toast. The communication screen comes down from the ceiling.
 
 ## S2 E4 — Fry and the Slurm Factory
-URL: https://watchwiththekids.com/ep/futurama/0204.html
+URL: https://watchwiththekids.com/ep/futurama/0204
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -345,7 +345,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S2 E5 — I Second that Emotion
-URL: https://watchwiththekids.com/ep/futurama/0205.html
+URL: https://watchwiththekids.com/ep/futurama/0205
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -373,7 +373,7 @@ Watch for:
   - [Caution] Bender: “The only reason you get all the guys is because you dress like a tramp!”
 
 ## S2 E6 — Brannigan, Begin Again
-URL: https://watchwiththekids.com/ep/futurama/0206.html
+URL: https://watchwiththekids.com/ep/futurama/0206
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -402,7 +402,7 @@ Watch for:
   - [Mild] He hands them some beers and Kif returns.
 
 ## S2 E7 — A Head in the Polls
-URL: https://watchwiththekids.com/ep/futurama/0207.html
+URL: https://watchwiththekids.com/ep/futurama/0207
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -429,7 +429,7 @@ Watch for:
   - [Mild] Nixon: “Computers may be twice as fast as they were in 1973 but your average voter is as drunk and stupid as ever.”
 
 ## S2 E8 — Xmas Story
-URL: https://watchwiththekids.com/ep/futurama/0208.html
+URL: https://watchwiththekids.com/ep/futurama/0208
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -455,7 +455,7 @@ Watch for:
   - [Mild] Tinny Tim: “Excuse me, sir? Might I have a sip of booze?”
 
 ## S2 E9 — Why Must I Be a Crustacean in Love?
-URL: https://watchwiththekids.com/ep/futurama/0209.html
+URL: https://watchwiththekids.com/ep/futurama/0209
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -478,7 +478,7 @@ Watch for:
   - [Mild] She dives on him and they land on a couch. Her mouth flaps snake around Fry's head and she kisses him. Fry struggles to get away. Enter a smartly-dressed Zoidberg carrying flowers and champagne.
 
 ## S2 E10 — Put Your Head on My Shoulders
-URL: https://watchwiththekids.com/ep/futurama/0210.html
+URL: https://watchwiththekids.com/ep/futurama/0210
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -504,7 +504,7 @@ Watch for:
   - [Mild] Amy: “[shouting] Hey, how about some icy margaritas?”
 
 ## S2 E11 — The Lesser of Two Evils
-URL: https://watchwiththekids.com/ep/futurama/0211.html
+URL: https://watchwiththekids.com/ep/futurama/0211
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -532,7 +532,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
 
 ## S2 E12 — Raging Bender
-URL: https://watchwiththekids.com/ep/futurama/0212.html
+URL: https://watchwiththekids.com/ep/futurama/0212
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -556,7 +556,7 @@ Watch for:
   - [Mild] Fnog: “See you in girl hell. I'll be in boy hell -- much nicer!”
 
 ## S2 E13 — A Bicyclops Built for Two
-URL: https://watchwiththekids.com/ep/futurama/0213.html
+URL: https://watchwiththekids.com/ep/futurama/0213
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -581,7 +581,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
 
 ## S2 E14 — How Hermes Requisitioned His Groove Back
-URL: https://watchwiththekids.com/ep/futurama/0214.html
+URL: https://watchwiththekids.com/ep/futurama/0214
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -602,7 +602,7 @@ Watch for:
   - [Mild] Fry: “What the hell's going on? I thought you were anti-dirty not pro-dirty.”
 
 ## S2 E15 — A Clone of My Own
-URL: https://watchwiththekids.com/ep/futurama/0215.html
+URL: https://watchwiththekids.com/ep/futurama/0215
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -625,7 +625,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S2 E16 — The Deep South
-URL: https://watchwiththekids.com/ep/futurama/0216.html
+URL: https://watchwiththekids.com/ep/futurama/0216
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -644,7 +644,7 @@ Watch for:
   - [Mild] Fry: “Every time something good happens to me you say it's some kind of madness, or I'm drunk, or I ate too much candy. Well I saw a real mermaid and I wish for once my friends would have decency and kindness to believe me.”
 
 ## S2 E17 — Bender Gets Made
-URL: https://watchwiththekids.com/ep/futurama/0217.html
+URL: https://watchwiththekids.com/ep/futurama/0217
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -668,7 +668,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S2 E18 — The Problem with Popplers
-URL: https://watchwiththekids.com/ep/futurama/0218.html
+URL: https://watchwiththekids.com/ep/futurama/0218
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -693,7 +693,7 @@ Watch for:
   - [Mild] Bender: “Let's get drunk!”
 
 ## S2 E19 — Mother's Day
-URL: https://watchwiththekids.com/ep/futurama/0219.html
+URL: https://watchwiththekids.com/ep/futurama/0219
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -729,7 +729,7 @@ Watch for:
   - [Caution] Mom: “Jerkwad robots make me sick to my ass! [She presses a button on her fat suit and it disappears.”
 
 ## S2 E20 — Anthology of Interest I
-URL: https://watchwiththekids.com/ep/futurama/0220.html
+URL: https://watchwiththekids.com/ep/futurama/0220
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -761,7 +761,7 @@ Watch for:
   - [Mild] Fry: “Alright. But I need a weapon to fight off drunken robots when I wake up.”
 
 ## S3 E1 — The Honking
-URL: https://watchwiththekids.com/ep/futurama/0301.html
+URL: https://watchwiththekids.com/ep/futurama/0301
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -791,7 +791,7 @@ Watch for:
   - [Mild] Fry: “Bender, I'm alive! [He climbs out.] You didn't hurt me at all. But I know you wanted to, and that's what matters. [He opens a beer.] Here's to you.”
 
 ## S3 E2 — War Is the H-Word
-URL: https://watchwiththekids.com/ep/futurama/0302.html
+URL: https://watchwiththekids.com/ep/futurama/0302
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -828,7 +828,7 @@ Watch for:
   - [Mild] Bender: “You're my kind of soldier, Lemon. A foul-mouthed, barrel-chested, beer-bellied pile of ugly muscle.”
 
 ## S3 E3 — The Cryonic Woman
-URL: https://watchwiththekids.com/ep/futurama/0303.html
+URL: https://watchwiththekids.com/ep/futurama/0303
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -851,7 +851,7 @@ Watch for:
   - [Mild] Fry: “And the people are all phoneys. No one reads. Everything has cilantro on it-- [A limo pulls up and the window comes down. Inside, Michelle and Pauly Shore drink champagne.] Michelle, baby!”
 
 ## S3 E4 — Parasites Lost
-URL: https://watchwiththekids.com/ep/futurama/0304.html
+URL: https://watchwiththekids.com/ep/futurama/0304
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -878,7 +878,7 @@ Watch for:
   - [Mild] Fry: “Of all the parasites I've had over the years, these worms are among the-- Hell! They are the best! Leela, how can I ever repay you for saving them?”
 
 ## S3 E5 — Amazon Women in the Mood
-URL: https://watchwiththekids.com/ep/futurama/0305.html
+URL: https://watchwiththekids.com/ep/futurama/0305
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -899,7 +899,7 @@ Watch for:
   - [Mild] Where you drink champagne and it tastes just like Coca-Cola,
 
 ## S3 E6 — Bendless Love
-URL: https://watchwiththekids.com/ep/futurama/0306.html
+URL: https://watchwiththekids.com/ep/futurama/0306
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -923,7 +923,7 @@ Watch for:
   - [Mild] Bender: “Uh, I knew that. What I'm actually outraged by is your choice of wine. Really, it's the steward's fault.”
 
 ## S3 E7 — The Day the Earth Stood Stupid
-URL: https://watchwiththekids.com/ep/futurama/0307.html
+URL: https://watchwiththekids.com/ep/futurama/0307
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -938,7 +938,7 @@ Watch for:
   - [Caution] Queequeg: “[pointing] Big whale over there.”
 
 ## S3 E8 — That's Lobstertainment!
-URL: https://watchwiththekids.com/ep/futurama/0308.html
+URL: https://watchwiththekids.com/ep/futurama/0308
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -955,7 +955,7 @@ Watch for:
   - [Too much] Woman #2: What's that scribbledy-gook?
 
 ## S3 E9 — The Birdbot of Ice-Catraz
-URL: https://watchwiththekids.com/ep/futurama/0309.html
+URL: https://watchwiththekids.com/ep/futurama/0309
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -980,7 +980,7 @@ Watch for:
   - [Mild] Waterfall Sr.: “Cold showers don't work on Antarctic creatures. Now surely you agree that a quick, semi-painless death is a damn sight better than weeks of starvation.”
 
 ## S3 E10 — The Luck of the Fryrish
-URL: https://watchwiththekids.com/ep/futurama/0310.html
+URL: https://watchwiththekids.com/ep/futurama/0310
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -996,7 +996,7 @@ Watch for:
   - [Mild] Mrs. Fry: “Have a look downstairs. Your brother may be missing but his crap sure isn't.”
 
 ## S3 E11 — The Cyber House Rules
-URL: https://watchwiththekids.com/ep/futurama/0311.html
+URL: https://watchwiththekids.com/ep/futurama/0311
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1018,7 +1018,7 @@ Watch for:
   - [Caution] Leela: “Kind of fatty.”
 
 ## S3 E12 — Insane in the Mainframe
-URL: https://watchwiththekids.com/ep/futurama/0312.html
+URL: https://watchwiththekids.com/ep/futurama/0312
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1050,7 +1050,7 @@ Watch for:
   - [Mild] Amy: “Aw! He looks like a little insane drunken angel.”
 
 ## S3 E13 — Bendin' in the Wind
-URL: https://watchwiththekids.com/ep/futurama/0313.html
+URL: https://watchwiththekids.com/ep/futurama/0313
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1072,7 +1072,7 @@ Watch for:
   - [Mild] Scene: Planet Express: Hangar. Fry grunts and groans as he pushes the VW into the hangar. He wears the previous owner's bandana. Bender sits inside and guzzles down a beer. The rest of the staff gather around.
 
 ## S3 E14 — Time Keeps on Slippin'
-URL: https://watchwiththekids.com/ep/futurama/0314.html
+URL: https://watchwiththekids.com/ep/futurama/0314
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1092,7 +1092,7 @@ Watch for:
   - [Mild] He opens a bottle of champagne and pours it into two glasses. Leela gasps.
 
 ## S3 E15 — I Dated a Robot
-URL: https://watchwiththekids.com/ep/futurama/0315.html
+URL: https://watchwiththekids.com/ep/futurama/0315
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1114,7 +1114,7 @@ Watch for:
   - [Mild] Sebastian Cabot: “[on TV] No, Mr. Smith. You're not in heaven or hell. You're on an aeroplane.”
 
 ## S4 E1 — Roswell that Ends Well
-URL: https://watchwiththekids.com/ep/futurama/0401.html
+URL: https://watchwiththekids.com/ep/futurama/0401
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1133,7 +1133,7 @@ Watch for:
   - [Mild] Bender's body is shaped like a flying saucer. A hatch on it opens and a beer bottle falls out. The men gasp, the general clutching Truman.
 
 ## S4 E2 — A Tale of Two Santas
-URL: https://watchwiththekids.com/ep/futurama/0402.html
+URL: https://watchwiththekids.com/ep/futurama/0402
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1163,7 +1163,7 @@ Watch for:
   - [Mild] He opens the bottle and drinks the beer. From the end of the alley, Smitty and URL watch.
 
 ## S4 E3 — Anthology of Interest II
-URL: https://watchwiththekids.com/ep/futurama/0403.html
+URL: https://watchwiththekids.com/ep/futurama/0403
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1188,7 +1188,7 @@ Watch for:
   - [Caution] Mom: “I'll tell you why I brought you here, you twice-baked barf bags: Because I've always wanted a daughter to love. You want to get adopted, you little skank?”
 
 ## S4 E4 — Love and Rocket
-URL: https://watchwiththekids.com/ep/futurama/0404.html
+URL: https://watchwiththekids.com/ep/futurama/0404
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1208,7 +1208,7 @@ Watch for:
   - [Mild] He pours beer into one of the fuel hatches. Later, in the Planet Express hangar, Bender catches Fry mopping Ship and hits him.
 
 ## S4 E5 — Leela's Homeworld
-URL: https://watchwiththekids.com/ep/futurama/0405.html
+URL: https://watchwiththekids.com/ep/futurama/0405
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -1225,7 +1225,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S4 E6 — Where the Buggalo Roam
-URL: https://watchwiththekids.com/ep/futurama/0406.html
+URL: https://watchwiththekids.com/ep/futurama/0406
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1247,7 +1247,7 @@ Watch for:
   - [Mild] Mr. Wong: “Oh, really? Who gonna save us? [He points at Leela.] One-eye? [He points at Zoidberg.] Lobster mooch? [He points at Bender.] Drunken garbage can?”
 
 ## S4 E7 — A Pharaoh to Remember
-URL: https://watchwiththekids.com/ep/futurama/0407.html
+URL: https://watchwiththekids.com/ep/futurama/0407
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1269,7 +1269,7 @@ Watch for:
   - [Caution] Scene: Market. Fry, Leela and Bender walk through the market with the Osiran behind them. A man makes an enquiry at a "Lose Weight Now - Ask Me How" booth.
 
 ## S4 E8 — Godfellas
-URL: https://watchwiththekids.com/ep/futurama/0408.html
+URL: https://watchwiththekids.com/ep/futurama/0408
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1297,7 +1297,7 @@ Watch for:
   - [Mild] Time Lapse. Bender tastes the "Lordweiser" beer from the tower.
 
 ## S4 E9 — Future Stock
-URL: https://watchwiththekids.com/ep/futurama/0409.html
+URL: https://watchwiththekids.com/ep/futurama/0409
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1315,7 +1315,7 @@ Watch for:
   - [Mild] Steve Castle: “OK. We've got the hot tub hot, the wine cooler's cool. It's Hammer time!”
 
 ## S4 E10 — A Leela of Her Own
-URL: https://watchwiththekids.com/ep/futurama/0410.html
+URL: https://watchwiththekids.com/ep/futurama/0410
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1342,7 +1342,7 @@ Watch for:
   - [Mild] Fry spits out the wine over Bender's face and Bender spits it back.
 
 ## S4 E11 — The 30% Iron Chef
-URL: https://watchwiththekids.com/ep/futurama/0411.html
+URL: https://watchwiththekids.com/ep/futurama/0411
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -1366,7 +1366,7 @@ Watch for:
   - [Mild] Gus: “Oh, I'm not drunk, I'm mentally ill. But I likes what what you said!”
 
 ## S4 E12 — Where No Fan Has Gone Before
-URL: https://watchwiththekids.com/ep/futurama/0412.html
+URL: https://watchwiththekids.com/ep/futurama/0412
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1387,7 +1387,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S5 E1 — Crimes of the Hot
-URL: https://watchwiththekids.com/ep/futurama/0501.html
+URL: https://watchwiththekids.com/ep/futurama/0501
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1417,7 +1417,7 @@ Watch for:
   - [Caution] Leela: “You're both alcoholic, whore-mongering, chain-smoking gamblers?”
 
 ## S5 E2 — Jurassic Bark
-URL: https://watchwiththekids.com/ep/futurama/0502.html
+URL: https://watchwiththekids.com/ep/futurama/0502
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1436,7 +1436,7 @@ Watch for:
   - [Mild] Cryogenisist: “Ugh! I am one hungover cryogenisist. Just throw that mutt in the freezer till his owners get here.”
 
 ## S5 E3 — The Route of All Evil
-URL: https://watchwiththekids.com/ep/futurama/0503.html
+URL: https://watchwiththekids.com/ep/futurama/0503
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1460,7 +1460,7 @@ Watch for:
   - [Mild] Farnsworth: “Uh, might a homeless old man have a touch more beef bourguignon? And another tequila slammer? [LaBarbara scoffs.] Please?”
 
 ## S5 E4 — A Taste of Freedom
-URL: https://watchwiththekids.com/ep/futurama/0504.html
+URL: https://watchwiththekids.com/ep/futurama/0504
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1479,7 +1479,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S5 E5 — Kif Gets Knocked Up a Notch
-URL: https://watchwiththekids.com/ep/futurama/0505.html
+URL: https://watchwiththekids.com/ep/futurama/0505
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1498,7 +1498,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S5 E6 — Less than Hero
-URL: https://watchwiththekids.com/ep/futurama/0506.html
+URL: https://watchwiththekids.com/ep/futurama/0506
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1522,7 +1522,7 @@ Watch for:
   - [Mild] Bender: “So? I'm already super-strong. And my arms do this. [He reaches over to the other end of the hangar, grabs a bottle of beer, retracts his arm and hands the bottle to Fry.] Also I got this going.”
 
 ## S5 E7 — Teenage Mutant Leela's Hurdles
-URL: https://watchwiththekids.com/ep/futurama/0507.html
+URL: https://watchwiththekids.com/ep/futurama/0507
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1555,7 +1555,7 @@ Watch for:
   - [Mild] Amy: “Dad, if you're gonna make fat jokes till I get cute again, I'm just gonna stay in my room.”
 
 ## S5 E8 — The Why of Fry
-URL: https://watchwiththekids.com/ep/futurama/0508.html
+URL: https://watchwiththekids.com/ep/futurama/0508
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1574,7 +1574,7 @@ Watch for:
   - [Mild] Fry: “So I really am important? How I feel when I'm drunk is correct?”
 
 ## S5 E9 — The Sting
-URL: https://watchwiththekids.com/ep/futurama/0509.html
+URL: https://watchwiththekids.com/ep/futurama/0509
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1597,7 +1597,7 @@ Watch for:
   - [Mild] Zoidberg: “I should warn you, I'm a mean drunk.”
 
 ## S5 E10 — The Farnsworth Parabox
-URL: https://watchwiththekids.com/ep/futurama/0510.html
+URL: https://watchwiththekids.com/ep/futurama/0510
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1617,7 +1617,7 @@ Watch for:
   - [Mild] Bender: “And unlabeled booze! Wide-mouth too!”
 
 ## S5 E11 — Three Hundred Big Boys
-URL: https://watchwiththekids.com/ep/futurama/0511.html
+URL: https://watchwiththekids.com/ep/futurama/0511
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1637,7 +1637,7 @@ Watch for:
   - [Mild] A champagne cork slowly shoots out of the top of a bottle.
 
 ## S5 E12 — Spanish Fry
-URL: https://watchwiththekids.com/ep/futurama/0512.html
+URL: https://watchwiththekids.com/ep/futurama/0512
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1664,7 +1664,7 @@ Watch for:
   - [Mild] Bender: “Bonjour. May I offer you a box of wine for the edge of the table?”
 
 ## S5 E13 — Bend Her
-URL: https://watchwiththekids.com/ep/futurama/0513.html
+URL: https://watchwiththekids.com/ep/futurama/0513
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1694,7 +1694,7 @@ Watch for:
   - [Caution] Coilette: “Oh, please! Every man wants a tramp. No wonder you girls aren't married. [She giggles.] I tell you, men are so much better at being women.”
 
 ## S5 E14 — Obsoletely Fabulous
-URL: https://watchwiththekids.com/ep/futurama/0514.html
+URL: https://watchwiththekids.com/ep/futurama/0514
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Violence & injury — 8 moment(s)
@@ -1722,7 +1722,7 @@ Watch for:
   - [Mild] Scene: Desert Island Beach. Bender is back under his rock. He has developed five o'clock rust around his mouth and is muttering to himself. He sees a six pack of beer walking towards him and gasps.
 
 ## S5 E15 — Bender Should Not Be Allowed on Television
-URL: https://watchwiththekids.com/ep/futurama/0515.html
+URL: https://watchwiththekids.com/ep/futurama/0515
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1750,7 +1750,7 @@ Watch for:
   - [Caution] Zoidberg: “Look who's here, everyone! It's Zoidberg, the lovable tramp!”
 
 ## S5 E16 — The Devil's Hands Are Idle Playthings
-URL: https://watchwiththekids.com/ep/futurama/0516.html
+URL: https://watchwiththekids.com/ep/futurama/0516
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1770,7 +1770,7 @@ Watch for:
   - [Mild] Robot Devil: “Looks like I wasted a bus trip.”
 
 ## S6 E1 — Rebirth
-URL: https://watchwiththekids.com/ep/futurama/0601.html
+URL: https://watchwiththekids.com/ep/futurama/0601
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1790,7 +1790,7 @@ Watch for:
   - [Caution] Robot Leela: “I'll kill you, you slut-clops! Hee-ya! [karate kicks her duplicate in the face] He's mine!”
 
 ## S6 E2 — In-A-Gadda-Da-Leela
-URL: https://watchwiththekids.com/ep/futurama/0602.html
+URL: https://watchwiththekids.com/ep/futurama/0602
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1818,7 +1818,7 @@ Watch for:
   - [Mild] Leela: “What a thoughtful and considerate thing to say. What the hell's wrong with you?”
 
 ## S6 E3 — Attack of the Killer App
-URL: https://watchwiththekids.com/ep/futurama/0603.html
+URL: https://watchwiththekids.com/ep/futurama/0603
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -1845,7 +1845,7 @@ Watch for:
   - [Caution] On one of the video screens, the silhouette of Mom in her fat suit stops dancing, walks into the light and fills the entire screen.
 
 ## S6 E4 — Proposition Infinity
-URL: https://watchwiththekids.com/ep/futurama/0604.html
+URL: https://watchwiththekids.com/ep/futurama/0604
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1873,7 +1873,7 @@ Watch for:
   - [Mild] Amy: “Dad, gleesh! I'm attracted to Bender, not his emotionless wine bucket!”
 
 ## S6 E5 — The Duh-Vinci Code
-URL: https://watchwiththekids.com/ep/futurama/0605.html
+URL: https://watchwiththekids.com/ep/futurama/0605
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1888,7 +1888,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S6 E6 — Lethal Inspection
-URL: https://watchwiththekids.com/ep/futurama/0606.html
+URL: https://watchwiththekids.com/ep/futurama/0606
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -1918,7 +1918,7 @@ Watch for:
   - [Caution] Bender: “It's not a suicide booth, you lard-ass. It's a phone booth. [He closes the door]”
 
 ## S6 E7 — The Late Philip J. Fry
-URL: https://watchwiththekids.com/ep/futurama/0607.html
+URL: https://watchwiththekids.com/ep/futurama/0607
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1947,7 +1947,7 @@ Watch for:
   - [Mild] Fry: “I'm gonna grab another beer.”
 
 ## S6 E8 — That Darn Katz!
-URL: https://watchwiththekids.com/ep/futurama/0608.html
+URL: https://watchwiththekids.com/ep/futurama/0608
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1968,7 +1968,7 @@ Watch for:
   - [Mild] Time Lapse: Bender, Fry, Kif and Amy are all dancing. They are clearly drunk. Kif is still drinking.
 
 ## S6 E9 — A Clockwork Origin
-URL: https://watchwiththekids.com/ep/futurama/0609.html
+URL: https://watchwiththekids.com/ep/futurama/0609
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1988,7 +1988,7 @@ Watch for:
   - [Too much] Banjo: “Then you have proven my case, sir, for no one has found a link between apes and this Homo erectus. [The arrow is put between before Homo erectus.]”
 
 ## S6 E10 — The Prisoner of Benda
-URL: https://watchwiththekids.com/ep/futurama/0610.html
+URL: https://watchwiththekids.com/ep/futurama/0610
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2021,7 +2021,7 @@ Watch for:
   - [Mild] Amy: “I wasted my youth porking out.”
 
 ## S6 E11 — Lrrreconcilable Ndndifferences
-URL: https://watchwiththekids.com/ep/futurama/0611.html
+URL: https://watchwiththekids.com/ep/futurama/0611
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2047,7 +2047,7 @@ Watch for:
   - [Caution] Ndnd: “Beats staring at your fat ass on the couch.”
 
 ## S6 E12 — The Mutants Are Revolting
-URL: https://watchwiththekids.com/ep/futurama/0612.html
+URL: https://watchwiththekids.com/ep/futurama/0612
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -2062,7 +2062,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S6 E13 — The Futurama Holiday Spectacular
-URL: https://watchwiththekids.com/ep/futurama/0613.html
+URL: https://watchwiththekids.com/ep/futurama/0613
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2090,7 +2090,7 @@ Watch for:
   - [Too much] Bender: “You vile racist! Haven't my people suffered enough? Now keep drilling for that petroleum oil, you selfish cowards! Although, then again, I guess any kind of oil would be just as”
 
 ## S6 E14 — Neutopia
-URL: https://watchwiththekids.com/ep/futurama/0614.html
+URL: https://watchwiththekids.com/ep/futurama/0614
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2121,7 +2121,7 @@ Watch for:
   - [Caution] Leela: “What a skank. Anyway, Planet Express is still facing foreclosure. There's no way we can raise enough money to save this company.”
 
 ## S6 E15 — Benderama
-URL: https://watchwiththekids.com/ep/futurama/0615.html
+URL: https://watchwiththekids.com/ep/futurama/0615
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2154,7 +2154,7 @@ Watch for:
   - [Mild] Cut to: The Planet Express conference room. The Professor, Hermes, Fry, Leela, Bender, Amy, and Zoidberg are seated around the table, suffering from the hangover.
 
 ## S6 E16 — Ghost in the Machines
-URL: https://watchwiththekids.com/ep/futurama/0616.html
+URL: https://watchwiththekids.com/ep/futurama/0616
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2185,7 +2185,7 @@ Watch for:
   - [Mild] Bender's ghost: “Survived the heart attack?! Damn you, Obamacare!”
 
 ## S6 E17 — Law and Oracle
-URL: https://watchwiththekids.com/ep/futurama/0617.html
+URL: https://watchwiththekids.com/ep/futurama/0617
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2215,7 +2215,7 @@ Watch for:
   - [Mild] Fry: “[Fry presses the NNYPD badge on his helmet and a hologram of Bender sharing the malt liquor in the Planet Express conference room is projected from his nose.] You showed Bender sharing the deadly booze with our friends.”
 
 ## S6 E18 — The Silence of the Clamps
-URL: https://watchwiththekids.com/ep/futurama/0618.html
+URL: https://watchwiththekids.com/ep/futurama/0618
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2246,7 +2246,7 @@ Watch for:
   - [Mild] Bender: “[in an Italian accent] You pizzas gonna be another minute. [Bender walks up to the table wearing a moustache and an apron and holding a tray with a bigger beer mug on it.] We are still waitin' for it to be delivered.”
 
 ## S6 E19 — Yo Leela Leela
-URL: https://watchwiththekids.com/ep/futurama/0619.html
+URL: https://watchwiththekids.com/ep/futurama/0619
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2267,7 +2267,7 @@ Watch for:
   - [Caution] Male voice #1: Popular Slut Club.
 
 ## S6 E20 — All the Presidents' Heads
-URL: https://watchwiththekids.com/ep/futurama/0620.html
+URL: https://watchwiththekids.com/ep/futurama/0620
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2291,7 +2291,7 @@ Watch for:
   - [Mild] Zoidberg: “Hey, hey, LBJ. You wanna get drunk?”
 
 ## S6 E21 — Möbius Dick
-URL: https://watchwiththekids.com/ep/futurama/0621.html
+URL: https://watchwiththekids.com/ep/futurama/0621
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2317,7 +2317,7 @@ Watch for:
   - [Mild] Fry holds a button on a barrel with EMPEROR GROG'S SPACE GROG and a drawing of a space pirate on it, thus filling a beer mug, and releases it.
 
 ## S6 E22 — Fry Am the Egg Man
-URL: https://watchwiththekids.com/ep/futurama/0622.html
+URL: https://watchwiththekids.com/ep/futurama/0622
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2340,7 +2340,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
 
 ## S6 E23 — The Tip of the Zoidberg
-URL: https://watchwiththekids.com/ep/futurama/0623.html
+URL: https://watchwiththekids.com/ep/futurama/0623
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2372,7 +2372,7 @@ Watch for:
   - [Mild] Zoidberg: “[off camera] What the hell are you doing?!”
 
 ## S6 E24 — Cold Warriors
-URL: https://watchwiththekids.com/ep/futurama/0624.html
+URL: https://watchwiththekids.com/ep/futurama/0624
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -2395,7 +2395,7 @@ Watch for:
   - [Mild] Fry opens the can, closes his eyes, and begins drinking from it. The beer freezes. Fry opens his eyes, removes his left hand from the can, and begins suffocating.
 
 ## S6 E25 — Overclockwise
-URL: https://watchwiththekids.com/ep/futurama/0625.html
+URL: https://watchwiththekids.com/ep/futurama/0625
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2415,7 +2415,7 @@ Watch for:
   - [Mild] Bender: “Honestly, I couldn't think o' one good reason. But some decisions can't be made by thinking. Even if you're drunk! No galaxies there.”
 
 ## S6 E26 — Reincarnation
-URL: https://watchwiththekids.com/ep/futurama/0626.html
+URL: https://watchwiththekids.com/ep/futurama/0626
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2431,7 +2431,7 @@ Watch for:
   - [Mild] Hermes: “Sorry you wasted your life, Professor. I guess you never know everything after all.”
 
 ## S7 E1 — The Bots and the Bees
-URL: https://watchwiththekids.com/ep/futurama/0701.html
+URL: https://watchwiththekids.com/ep/futurama/0701
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2465,7 +2465,7 @@ Watch for:
   - [Caution] Bender: “[turning on a lamp] Fry, it's two a.m.! What're ya doin' here glowin' on my skanks?”
 
 ## S7 E2 — A Farewell to Arms
-URL: https://watchwiththekids.com/ep/futurama/0702.html
+URL: https://watchwiththekids.com/ep/futurama/0702
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2493,7 +2493,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
 
 ## S7 E3 — Decision 3012
-URL: https://watchwiththekids.com/ep/futurama/0703.html
+URL: https://watchwiththekids.com/ep/futurama/0703
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2522,7 +2522,7 @@ Watch for:
   - [Too much] Fry: “I'll come. As long as there's no xenophobes there.”
 
 ## S7 E9 — Free Will Hunting
-URL: https://watchwiththekids.com/ep/futurama/0709.html
+URL: https://watchwiththekids.com/ep/futurama/0709
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2547,7 +2547,7 @@ Watch for:
   - [Mild] Bender: “Okay, I will. By shooting you, you bastard!”
 
 ## S7 E24 — Murder on the Planet Express
-URL: https://watchwiththekids.com/ep/futurama/0724.html
+URL: https://watchwiththekids.com/ep/futurama/0724
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2559,7 +2559,7 @@ Watch for:
   - [Caution] McMasters: “Of course not. All your friends are on the bridge having a pizza party. So come on, put the guns down and join us.”
 
 ## S7 E25 — Stench and Stenchibility
-URL: https://watchwiththekids.com/ep/futurama/0725.html
+URL: https://watchwiththekids.com/ep/futurama/0725
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -2579,7 +2579,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
 
 ## S7 E26 — Meanwhile
-URL: https://watchwiththekids.com/ep/futurama/0726.html
+URL: https://watchwiththekids.com/ep/futurama/0726
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2604,7 +2604,7 @@ Watch for:
   - [Mild] Old Fry: “I think it's about time we drank the champagne János poured all those years ago. May I read the toast I was going to make?”
 
 ## S11 E1 — The Impossible Stream
-URL: https://watchwiththekids.com/ep/futurama/1101.html
+URL: https://watchwiththekids.com/ep/futurama/1101
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -2634,7 +2634,7 @@ Watch for:
   - [Mild] Fry: “Yeah. Laugh all ya want, but I've wasted enough of my life. It's time I set myself a goal.”
 
 ## S11 E2 — Children of a Lesser Bog
-URL: https://watchwiththekids.com/ep/futurama/1102.html
+URL: https://watchwiththekids.com/ep/futurama/1102
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2666,7 +2666,7 @@ Watch for:
   - [Mild] The Planet Express crew watch on in tears as Bender reaches into his cavity for some champagne glasses and a jug of treacle. He uncorks it and pours while crying.
 
 ## S11 E3 — How the West Was 1010001
-URL: https://watchwiththekids.com/ep/futurama/1103.html
+URL: https://watchwiththekids.com/ep/futurama/1103
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2692,7 +2692,7 @@ Watch for:
   - [Mild] Zoidberg: “[Cheerfully] If it's something that can be cured by a bone saw! I'll need anesthetic! Get me a bottle of animal whiskey!”
 
 ## S11 E4 — Parasites Regained
-URL: https://watchwiththekids.com/ep/futurama/1104.html
+URL: https://watchwiththekids.com/ep/futurama/1104
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -2710,7 +2710,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots"
 
 ## S11 E5 — Related to Items You've Viewed
-URL: https://watchwiththekids.com/ep/futurama/1105.html
+URL: https://watchwiththekids.com/ep/futurama/1105
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -2736,7 +2736,7 @@ Watch for:
   - [Caution] :[Scene: Mom's office. Mom strips out of her robotic fat suit.]
 
 ## S11 E6 — I Know What You Did Next Xmas
-URL: https://watchwiththekids.com/ep/futurama/1106.html
+URL: https://watchwiththekids.com/ep/futurama/1106
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2769,7 +2769,7 @@ Watch for:
   - [Mild] Hermes walks over to Santa's chest, which is being used as a beer cooler.
 
 ## S11 E7 — Rage Against the Vaccine
-URL: https://watchwiththekids.com/ep/futurama/1107.html
+URL: https://watchwiththekids.com/ep/futurama/1107
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2794,7 +2794,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S11 E9 — The Prince and the Product
-URL: https://watchwiththekids.com/ep/futurama/1109.html
+URL: https://watchwiththekids.com/ep/futurama/1109
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2815,7 +2815,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S11 E10 — All the Way Down
-URL: https://watchwiththekids.com/ep/futurama/1110.html
+URL: https://watchwiththekids.com/ep/futurama/1110
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2839,7 +2839,7 @@ Watch for:
   - [Mild] Fry feeds Bender his beer and the usual flaming burp occurs.
 
 ## S12 E1 — The One Amigo
-URL: https://watchwiththekids.com/ep/futurama/1201.html
+URL: https://watchwiththekids.com/ep/futurama/1201
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2861,7 +2861,7 @@ Watch for:
   - [Mild] Bender: “You're a booze bag? Me, too!”
 
 ## S12 E2 — Quids Game
-URL: https://watchwiththekids.com/ep/futurama/1202.html
+URL: https://watchwiththekids.com/ep/futurama/1202
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2884,7 +2884,7 @@ Watch for:
   - [Mild] …Space" • "Fear of a Bot Planet" • "A Fishful of Dollars" • "My Three Suns" • "A Big Piece of Garbage" • "Hell Is Other Robots" • "A Flight to Remember" • "Mars University" • "When Aliens Attack" • "Fry and the Slurm…
 
 ## S12 E3 — The Temp
-URL: https://watchwiththekids.com/ep/futurama/1203.html
+URL: https://watchwiththekids.com/ep/futurama/1203
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2910,7 +2910,7 @@ Watch for:
   - [Mild] He throws the cocktail at the wreath on the altar, burning it. The wedding guests cheer.
 
 ## S12 E4 — Beauty and the Bug
-URL: https://watchwiththekids.com/ep/futurama/1204.html
+URL: https://watchwiththekids.com/ep/futurama/1204
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2939,7 +2939,7 @@ Watch for:
   - [Caution] Bender: “You lousy tramp! I oughta kick you!”
 
 ## S12 E5 — One is Silicon and the Other Gold
-URL: https://watchwiththekids.com/ep/futurama/1205.html
+URL: https://watchwiththekids.com/ep/futurama/1205
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2969,7 +2969,7 @@ Watch for:
   - [Mild] Dr. Cahill: “Hey, why don't we go to a winery for the weekend? We can just drink wine and hang out.”
 
 ## S12 E6 — Attack of the Clothes
-URL: https://watchwiththekids.com/ep/futurama/1206.html
+URL: https://watchwiththekids.com/ep/futurama/1206
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2994,7 +2994,7 @@ Watch for:
   - [Mild] Fry pops open a champagne bottle.
 
 ## S12 E7 — Planet Espresso
-URL: https://watchwiththekids.com/ep/futurama/1207.html
+URL: https://watchwiththekids.com/ep/futurama/1207
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3017,7 +3017,7 @@ Watch for:
   - [Mild] Hermes: “Wasted? How?”
 
 ## S12 E8 — Cuteness Overlord
-URL: https://watchwiththekids.com/ep/futurama/1208.html
+URL: https://watchwiththekids.com/ep/futurama/1208
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3043,7 +3043,7 @@ Watch for:
   - [Mild] They glance over at the next screen to watch Fry, Leela and Bender handling the package. At one point, Bender opens his chest cavity to rid it of empty beer bottles and steal a vase.
 
 ## S12 E9 — The Futurama Mystery Liberry
-URL: https://watchwiththekids.com/ep/futurama/1209.html
+URL: https://watchwiththekids.com/ep/futurama/1209
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 9 moment(s)
@@ -3072,7 +3072,7 @@ Watch for:
   - [Mild] Cut to inside the manor. de L'eela, the Warbler, and Algebra are having afternoon tea. de L'eela pours some wine into her tea.
 
 ## S12 E10 — Otherwise
-URL: https://watchwiththekids.com/ep/futurama/1210.html
+URL: https://watchwiththekids.com/ep/futurama/1210
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3101,7 +3101,7 @@ Watch for:
   - [Mild] János: János has served many before you. Their souls linger long after the champagne has been drunk.
 
 ## S13 E1 — Destroy Tall Monsters
-URL: https://watchwiththekids.com/ep/futurama/1301.html
+URL: https://watchwiththekids.com/ep/futurama/1301
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3126,7 +3126,7 @@ Watch for:
   - [Mild] Farnsworth: “Because he's too damn big.”
 
 ## S13 E2 — The World is Hot Enough
-URL: https://watchwiththekids.com/ep/futurama/1302.html
+URL: https://watchwiththekids.com/ep/futurama/1302
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -3146,7 +3146,7 @@ Watch for:
   - [Mild] Nixon takes a selfie while Agnew pours some beer into his jar as the audience hoots once more.
 
 ## S13 E3 — Fifty Shades of Green
-URL: https://watchwiththekids.com/ep/futurama/1303.html
+URL: https://watchwiththekids.com/ep/futurama/1303
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3185,7 +3185,7 @@ Watch for:
   - [Mild] Bender: “[gasps] He's cheatin' on you, Chastity! [drinks some beer]”
 
 ## S13 E4 — The Numberland Gap
-URL: https://watchwiththekids.com/ep/futurama/1304.html
+URL: https://watchwiththekids.com/ep/futurama/1304
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -3203,7 +3203,7 @@ Watch for:
   - [Too much] 55: What's almost four? Three? Ya know, 1 through 12 are my friends. [referring to the roman numerals on Fry's watch] I don't appreciate these racist caricatures.
 
 ## S13 E5 — Scared Screenless
-URL: https://watchwiththekids.com/ep/futurama/1305.html
+URL: https://watchwiththekids.com/ep/futurama/1305
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3237,7 +3237,7 @@ Watch for:
   - [Mild] URL walks in leading a still drunk Leela, LaBarbara and Amy.
 
 ## S13 E6 — Wicked Human
-URL: https://watchwiththekids.com/ep/futurama/1306.html
+URL: https://watchwiththekids.com/ep/futurama/1306
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3260,7 +3260,7 @@ Watch for:
   - [Mild] Changstein El-Gamal: “Now, now! Now, now! [bangs gavel] Please, let's not split hairs! Now is the time that we, as leaders of faith, should join hands and gloat! Let's take the win, people! [hold up a glass of communion wine]”
 
 ## S13 E7 — Murderoni
-URL: https://watchwiththekids.com/ep/futurama/1307.html
+URL: https://watchwiththekids.com/ep/futurama/1307
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -3279,7 +3279,7 @@ Watch for:
   - [Mild] Leela takes a pizza cutter and Amy takes a rolling pin. Bender takes a wine bottle and smashes it into a shiv.
 
 ## S13 E8 — Crab Splatter
-URL: https://watchwiththekids.com/ep/futurama/1308.html
+URL: https://watchwiththekids.com/ep/futurama/1308
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3295,7 +3295,7 @@ Watch for:
   - [Mild] Zoidberg is seemingly watching TV on the couch surrounded by empty beer bottles, discarded Red Claw cans, a Chinese takeout box, and fish skulls, and his claw in a bag of Finyuns.
 
 ## S13 E9 — The Trouble with Truffles
-URL: https://watchwiththekids.com/ep/futurama/1309.html
+URL: https://watchwiththekids.com/ep/futurama/1309
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3324,7 +3324,7 @@ Watch for:
   - [Caution] Bender pries open the crate, but when it is opened, everyone gasps as a really fat pig emerges from it.
 
 ## S13 E10 — The White Hole
-URL: https://watchwiththekids.com/ep/futurama/1310.html
+URL: https://watchwiththekids.com/ep/futurama/1310
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3351,7 +3351,7 @@ Watch for:
   - [Mild] The ship zooms downward. Cut to a still hungover Morbo with Linda.
 
 ## S14 E1 — Beef
-URL: https://watchwiththekids.com/ep/futurama/1401.html
+URL: https://watchwiththekids.com/ep/futurama/1401
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3377,7 +3377,7 @@ Watch for:
   - [Mild] Brocky: “[to Fry] Whoa, whoa, whoa, I remember you! You're that loser I wasted in 1999!”
 
 ## S14 E2 — Catfish Hunter
-URL: https://watchwiththekids.com/ep/futurama/1402.html
+URL: https://watchwiththekids.com/ep/futurama/1402
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3405,7 +3405,7 @@ Watch for:
   - [Mild] Zoom out to reveal a robot butler giving her some champagne.
 
 ## S14 E3 — Our Flag Means Medical Coverage
-URL: https://watchwiththekids.com/ep/futurama/1403.html
+URL: https://watchwiththekids.com/ep/futurama/1403
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3428,7 +3428,7 @@ Watch for:
   - [Mild] We lurch about in a drunken rage
 
 ## S14 E4 — Lords of the Ring
-URL: https://watchwiththekids.com/ep/futurama/1404.html
+URL: https://watchwiththekids.com/ep/futurama/1404
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3453,7 +3453,7 @@ Watch for:
   - [Mild] Farnsworth: “Your fat joke is correct. A larger brain has larger caloric demands.”
 
 ## S14 E5 — The Charm Offensive
-URL: https://watchwiththekids.com/ep/futurama/1405.html
+URL: https://watchwiththekids.com/ep/futurama/1405
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -3469,7 +3469,7 @@ Watch for:
   - [Mild] Nixon: “Earth hereby surrenders. I just have one question: What the hell?”
 
 ## S14 E6 — Late Bloomers
-URL: https://watchwiththekids.com/ep/futurama/1406.html
+URL: https://watchwiththekids.com/ep/futurama/1406
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3497,7 +3497,7 @@ Watch for:
   - [Mild] Badrick: “Ah, now listen. I might never'a drunk from a World's Greatest Dad mug, but I recognize goodness. And right now, I'm lookin' at a good man.”
 
 ## S14 E9 — A New New York Yankee in King Elfo's Court
-URL: https://watchwiththekids.com/ep/futurama/1409.html
+URL: https://watchwiththekids.com/ep/futurama/1409
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)

@@ -1,11 +1,11 @@
 # Young Sheldon — parent guide (140 episodes)
 
-Source: https://watchwiththekids.com/young-sheldon.html
+Source: https://watchwiththekids.com/young-sheldon
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 111 mild (1–2), 24 caution (3), 5 too much (4–5).
 
 ## S1 E1 — Pilot
-URL: https://watchwiththekids.com/ep/young-sheldon/0101.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0101
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -17,12 +17,12 @@ Watch for:
   - [Mild] “That's why you drink so much beer.”
 
 ## S1 E2 — Rockets, Communists, and the Dewey Decimal System
-URL: https://watchwiththekids.com/ep/young-sheldon/0102.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0102
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E3 — Poker, Faith, and Eggs
-URL: https://watchwiththekids.com/ep/young-sheldon/0103.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0103
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -36,7 +36,7 @@ Watch for:
   - [Mild] “You know what's stupid? I got to drink pink wine! [DOOR SLAMS.]”
 
 ## S1 E4 — A Therapist, a Comic Book and a Breakfast Sausage
-URL: https://watchwiththekids.com/ep/young-sheldon/0104.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0104
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -48,7 +48,7 @@ Watch for:
   - [Mild] “Now what? Sounds like your mom's making margaritas.”
 
 ## S1 E5 — A Solar Calculator, a Game Ball and a Cheerleader's Bosom
-URL: https://watchwiththekids.com/ep/young-sheldon/0105.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0105
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -56,12 +56,12 @@ Watch for:
   - [Caution] “Mom? ("I FOUGHT THE LAW" BY THE CLASH PLAYING) Robbin' people with a six-gun I fought the law and the law won Sheldon got a B-plus! That's terrible for him! I'm very disappointed in all three of you.”
 
 ## S1 E6 — A Patch, a Modem, and a Zantac
-URL: https://watchwiththekids.com/ep/young-sheldon/0106.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0106
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E7 — A Brisket, Voodoo and Cannonball Run
-URL: https://watchwiththekids.com/ep/young-sheldon/0107.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0107
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -74,7 +74,7 @@ Watch for:
   - [Mild] “Three tablespoons of dried mustard, one cup of Lone Star beer Okay.”
 
 ## S1 E8 — Cape Canaveral, Shrodinger's Cat and Cyndi Lauper's Hair
-URL: https://watchwiththekids.com/ep/young-sheldon/0108.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0108
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -86,7 +86,7 @@ Watch for:
   - [Caution] “I called shotgun.”
 
 ## S1 E9 — Spock, Kirk and Testicular Hernia
-URL: https://watchwiththekids.com/ep/young-sheldon/0109.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0109
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -96,21 +96,21 @@ Watch for:
   - [Mild] “You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly.”
 
 ## S1 E10 — An Eagle Feather, a String Bean, and an Eskimo
-URL: https://watchwiththekids.com/ep/young-sheldon/0110.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0110
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “I used to buy my marijuana there.”
 
 ## S1 E11 — Demons, Sunday School and Prime Numbers
-URL: https://watchwiththekids.com/ep/young-sheldon/0111.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0111
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “But you do eat him, and drink his blood.”
 
 ## S1 E12 — A Computer, a Plastic Pony, and a Case of Beer
-URL: https://watchwiththekids.com/ep/young-sheldon/0112.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0112
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -122,7 +122,7 @@ Watch for:
   - [Too much] “Whoa, that's racist.”
 
 ## S1 E13 — A Sneeze, Detention, and Sissy Spacek
-URL: https://watchwiththekids.com/ep/young-sheldon/0113.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0113
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -131,7 +131,7 @@ Watch for:
   - [Caution] “Their blood ran through my veins.”
 
 ## S1 E14 — Potato Salad, a Broomstick, and Dad's Whiskey
-URL: https://watchwiththekids.com/ep/young-sheldon/0114.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0114
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -141,7 +141,7 @@ Watch for:
   - [Mild] “Why does the kitchen smell like whiskey? Ask her.”
 
 ## S1 E15 — Dolomite, Apple Slices, and a Mystery Woman
-URL: https://watchwiththekids.com/ep/young-sheldon/0115.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0115
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -153,7 +153,7 @@ Watch for:
   - [Caution] “You smoke marijuana? - Mom! - No, ma'am.”
 
 ## S1 E16 — Killer Asteroids, Oklahoma, and a Frizzy Hair Machine
-URL: https://watchwiththekids.com/ep/young-sheldon/0116.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0116
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -163,7 +163,7 @@ Watch for:
   - [Mild] “1 ADULT SHELDON: On any given day, our school gymnasium presented a cocktail of horrors.”
 
 ## S1 E17 — Jiu-Jitsu, Bubble Wrap, and Yoo-hoo
-URL: https://watchwiththekids.com/ep/young-sheldon/0117.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0117
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -177,7 +177,7 @@ Watch for:
   - [Too much] “Homo novus needs a Yoo-hoo.”
 
 ## S1 E18 — A Mother, a Child and a Blue Man's Backside
-URL: https://watchwiththekids.com/ep/young-sheldon/0118.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0118
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -187,12 +187,12 @@ Watch for:
   - [Caution] “We should put a lock on the knife drawer.”
 
 ## S1 E19 — Gluons, Guacamole, and the Color Purple
-URL: https://watchwiththekids.com/ep/young-sheldon/0119.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0119
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E20 — A Dog, a Squirrel, and a Fish Named Fish
-URL: https://watchwiththekids.com/ep/young-sheldon/0120.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0120
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -214,24 +214,24 @@ Watch for:
   - [Mild] “" Okay, see now, Brenda, you don't want to go calling my grandson weird when I've just treated you to a margarita grande.”
 
 ## S1 E21 — Summer Sausage, a Pocket Poncho, and Tony Danza
-URL: https://watchwiththekids.com/ep/young-sheldon/0121.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0121
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E22 — Vanilla Ice Cream, Gentleman Callers, and a Dinette Set
-URL: https://watchwiththekids.com/ep/young-sheldon/0122.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0122
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S2 E1 — A High-Pitched Buzz and Training Wheels
-URL: https://watchwiththekids.com/ep/young-sheldon/0201.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0201
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Jessica Gieger wears a black bra.”
 
 ## S2 E2 — A Rival Prodigy and Sir Isaac Neutron
-URL: https://watchwiththekids.com/ep/young-sheldon/0202.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0202
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -241,7 +241,7 @@ Watch for:
   - [Mild] “Don't you get him another beer.”
 
 ## S2 E3 — A Crisis of Faith and Octopus Aliens
-URL: https://watchwiththekids.com/ep/young-sheldon/0203.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0203
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -255,7 +255,7 @@ Watch for:
   - [Mild] “Why, was there some barbecue sauce on your face? It's a fat joke.”
 
 ## S2 E4 — A Financial Secret and Fish Sauce
-URL: https://watchwiththekids.com/ep/young-sheldon/0204.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0204
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -267,7 +267,7 @@ Watch for:
   - [Mild] “She had a few too many margaritas, so I drove us home.”
 
 ## S2 E5 — A Research Study and Czechoslovakian Wedding Pastries
-URL: https://watchwiththekids.com/ep/young-sheldon/0205.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0205
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -276,7 +276,7 @@ Watch for:
   - [Mild] “What about all those times you punched me? Punches of joy.”
 
 ## S2 E6 — Seven Deadly Sins and a Small Carl Sagan
-URL: https://watchwiththekids.com/ep/young-sheldon/0206.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0206
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -293,14 +293,14 @@ Watch for:
   - [Mild] “I need another beer.”
 
 ## S2 E7 — Carbon Dating and a Stuffed Raccoon
-URL: https://watchwiththekids.com/ep/young-sheldon/0207.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0207
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Don't you get him another beer.”
 
 ## S2 E8 — An 8-Bit Princess and a Flat Tire Genius
-URL: https://watchwiththekids.com/ep/young-sheldon/0208.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0208
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -315,7 +315,7 @@ Watch for:
   - [Mild] “Sorry about the light beer, but Brenda's got me on this health kick.”
 
 ## S2 E9 — Family Dynamics and a Red Fiero
-URL: https://watchwiththekids.com/ep/young-sheldon/0209.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0209
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -325,7 +325,7 @@ Watch for:
   - [Mild] “That's it; I've wasted my life.”
 
 ## S2 E10 — A Stunted Childhood and a Can of Fancy Mixed Nuts
-URL: https://watchwiththekids.com/ep/young-sheldon/0210.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0210
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -334,7 +334,7 @@ Watch for:
   - [Caution] “They don't eat meat, let alone drink blood.”
 
 ## S2 E11 — A Race of Superhumans and a Letter to Alf
-URL: https://watchwiththekids.com/ep/young-sheldon/0211.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0211
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -347,14 +347,14 @@ Watch for:
   - [Too much] “" Of course, there's a strong likelihood that my homo novi might've wiped out all future generations, so I have no idea who's watching this.”
 
 ## S2 E12 — A Tummy Ache and a Whale of a Metaphor
-URL: https://watchwiththekids.com/ep/young-sheldon/0212.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0212
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “It's either cartoons or men in their underwear banging their heads together.”
 
 ## S2 E13 — A Nuclear Reactor And a Boy Called Lovey
-URL: https://watchwiththekids.com/ep/young-sheldon/0213.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0213
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -367,7 +367,7 @@ Watch for:
   - [Mild] “Oh, look! Shrimp cocktail.”
 
 ## S2 E14 — David, Goliath, and a Yoo-Hoo from the Back
-URL: https://watchwiththekids.com/ep/young-sheldon/0214.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0214
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -377,14 +377,14 @@ Watch for:
   - [Mild] “Hell yeah, I did.”
 
 ## S2 E15 — A Math Emergency and Perky Palms
-URL: https://watchwiththekids.com/ep/young-sheldon/0215.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0215
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “They're having sexual problems.”
 
 ## S2 E16 — A Loaf of Bread and a Grand Old Flag
-URL: https://watchwiththekids.com/ep/young-sheldon/0216.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0216
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -392,14 +392,14 @@ Watch for:
   - [Mild] “You rejected me, you punched me in the face, and I'm still here.”
 
 ## S2 E17 — Albert Einstein and the Story of Another Mary
-URL: https://watchwiththekids.com/ep/young-sheldon/0217.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0217
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Take a few beers.”
 
 ## S2 E18 — A Perfect Score and a Bunsen Burner Marshmallow
-URL: https://watchwiththekids.com/ep/young-sheldon/0218.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0218
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -409,14 +409,14 @@ Watch for:
   - [Caution] “Oh, pity the cowboy All bloody and red For the bronco fell on him And bashed in his head There was blood on the saddle And blood all around And a great big puddle of blood On the ground.”
 
 ## S2 E19 — A Political Campaign and a Candy Land Cheater
-URL: https://watchwiththekids.com/ep/young-sheldon/0219.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0219
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “"Barbaric sport encourages bloodlust similar to Roman gladiator games Christians, lions money better spent on science and learning.”
 
 ## S2 E20 — A Proposal and a Popsicle Stick Cross
-URL: https://watchwiththekids.com/ep/young-sheldon/0220.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0220
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -427,26 +427,26 @@ Watch for:
   - [Mild] “There's very little wasted effort.”
 
 ## S2 E21 — A Broken Heart and a Crock Monster
-URL: https://watchwiththekids.com/ep/young-sheldon/0221.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0221
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S2 E22 — A Swedish Science Thing and the Equation for Toast
-URL: https://watchwiththekids.com/ep/young-sheldon/0222.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0222
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Laundry services? Your poor mother has to touch your underwear.”
 
 ## S3 E1 — Quirky Eggheads and Texas Snow Globes
-URL: https://watchwiththekids.com/ep/young-sheldon/0301.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0301
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Mother? - Yes? - Is it okay if I use a knife to butter my toast, or are you worried I'll do something crazy with it? - You can butter your own toast.”
 
 ## S3 E2 — A Broom Closet and Satan's Monopoly Board
-URL: https://watchwiththekids.com/ep/young-sheldon/0302.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0302
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -459,12 +459,12 @@ Watch for:
   - [Mild] “So, what did they do in the bathroom? I'm going to hell.”
 
 ## S3 E3 — An Entrepreneurialist and a Swat on the Bottom
-URL: https://watchwiththekids.com/ep/young-sheldon/0303.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0303
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E4 — Hobbitses, Physicses and a Ball with Zip
-URL: https://watchwiththekids.com/ep/young-sheldon/0304.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0304
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -473,7 +473,7 @@ Watch for:
   - [Caution] “Let's get that blood pumping.”
 
 ## S3 E5 — A Pineapple and the Bosom of Male Friendship
-URL: https://watchwiththekids.com/ep/young-sheldon/0305.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0305
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 5 moment(s)
@@ -484,7 +484,7 @@ Watch for:
   - [Mild] “I've seen her take a wine cooler out of the trash and finish it.”
 
 ## S3 E6 — A Parasol and a Hell of an Arm
-URL: https://watchwiththekids.com/ep/young-sheldon/0306.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0306
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -497,7 +497,7 @@ Watch for:
   - [Mild] “She's hungover! Wants us to keep it down! Are you going for your baseball tryout? - Yup.”
 
 ## S3 E7 — Pongo Pygmaeus and a Culture that Encourages Spitting
-URL: https://watchwiththekids.com/ep/young-sheldon/0307.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0307
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -515,7 +515,7 @@ Watch for:
   - [Mild] “Guess who I'm grabbing a beer with.”
 
 ## S3 E8 — The Sin of Greed and a Chimichanga from Chi-Chi's
-URL: https://watchwiththekids.com/ep/young-sheldon/0308.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0308
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 4 moment(s)
@@ -525,7 +525,7 @@ Watch for:
   - [Mild] “They do have a good margarita.”
 
 ## S3 E9 — A Party Invitation, Football Grapes and an Earth Chicken
-URL: https://watchwiththekids.com/ep/young-sheldon/0309.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0309
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -533,14 +533,14 @@ Watch for:
   - [Mild] “"My mother also threw up, but that was because of wine.”
 
 ## S3 E10 — Teenager Soup and a Little Ball of Fib
-URL: https://watchwiththekids.com/ep/young-sheldon/0310.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0310
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Too much] “In fact, he sold me an athletic supporter to protect my genitals.”
 
 ## S3 E11 — A Live Chicken, a Fried Chicken and Holy Matrimony
-URL: https://watchwiththekids.com/ep/young-sheldon/0311.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0311
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -549,12 +549,12 @@ Watch for:
   - [Mild] “I'm just gonna grab a beer.”
 
 ## S3 E12 — Body Glitter and a Mall Safety Kit
-URL: https://watchwiththekids.com/ep/young-sheldon/0312.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0312
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E13 — Contracts, Rules and a Little Bit of Pig Brains
-URL: https://watchwiththekids.com/ep/young-sheldon/0313.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0313
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 4 moment(s)
@@ -564,7 +564,7 @@ Watch for:
   - [Mild] “Well, evidence suggests I need another beer.”
 
 ## S3 E14 — A Slump, a Cross and Roadside Gravel
-URL: https://watchwiththekids.com/ep/young-sheldon/0314.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0314
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -573,7 +573,7 @@ Watch for:
   - [Mild] “You sure? 'Cause that's how you look when Dad had that breakfast beer.”
 
 ## S3 E15 — A Boyfriend's Ex-Wife and a Good Luck Head Rub
-URL: https://watchwiththekids.com/ep/young-sheldon/0315.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0315
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -584,7 +584,7 @@ Watch for:
   - [Mild] “If you're worried about the beer-drinking, Dad has thoroughly desensitized me.”
 
 ## S3 E16 — Pasadena
-URL: https://watchwiththekids.com/ep/young-sheldon/0316.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0316
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -593,7 +593,7 @@ Watch for:
   - [Mild] “And, you know, tequila.”
 
 ## S3 E17 — An Academic Crime and a More Romantic Taco Bell
-URL: https://watchwiththekids.com/ep/young-sheldon/0317.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0317
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
@@ -602,7 +602,7 @@ Watch for:
   - [Caution] “Did you make this taste bad so Dad would lose weight? Fine.”
 
 ## S3 E18 — A Couple Bruised Ribs and a Cereal Box Ghost Detector
-URL: https://watchwiththekids.com/ep/young-sheldon/0318.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0318
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -619,7 +619,7 @@ Watch for:
   - [Mild] [woman.] Next up we have this Who buys this crap? Me after three beers.
 
 ## S3 E19 — A House for Sale and Serious Woman Stuff
-URL: https://watchwiththekids.com/ep/young-sheldon/0319.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0319
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -630,7 +630,7 @@ Watch for:
   - [Caution] Not just 'cause she's a cop with a gun.
 
 ## S3 E20 — A Baby Tooth and the Egyptian God of Knowledge
-URL: https://watchwiththekids.com/ep/young-sheldon/0320.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0320
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -642,7 +642,7 @@ Watch for:
   - [Caution] You might wanna slow down, we don't have a license to sell guns in here.
 
 ## S3 E21 — A Secret Letter and a Lowly Disc of Processed Meat
-URL: https://watchwiththekids.com/ep/young-sheldon/0321.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0321
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -650,7 +650,7 @@ Watch for:
   - [Mild] How do you handle it all? I'm sitting in a chicken coop drinking a wine cooler at 11:00 a. m. clearly, I don't.
 
 ## S4 E1 — Graduation
-URL: https://watchwiththekids.com/ep/young-sheldon/0401.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0401
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 5 moment(s)
@@ -661,7 +661,7 @@ Watch for:
   - [Mild] You go to church, don't you? Yeah, when I'm not hungover.
 
 ## S4 E2 — A Docent, A Little Lady and a Bouncer Named Dalton
-URL: https://watchwiththekids.com/ep/young-sheldon/0402.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0402
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -672,21 +672,21 @@ Watch for:
   - [Mild] Number two: “Meemaw after a few beers.”
 
 ## S4 E3 — Training Wheels and an Unleashed Chicken
-URL: https://watchwiththekids.com/ep/young-sheldon/0403.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0403
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Swearing — 1 moment(s)
   - [Caution] "Have a great summer. Georgie. " Normally I'd write, "Have a bitching summer," but I figured you wouldn't like that.
 
 ## S4 E4 — Bible Camp and a Chariot of Love
-URL: https://watchwiththekids.com/ep/young-sheldon/0404.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0404
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] accept Jesus Chr Go get me a beer, woman.
 
 ## S4 E5 — A Musty Crypt and a Stick to Pee On
-URL: https://watchwiththekids.com/ep/young-sheldon/0405.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0405
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -700,14 +700,14 @@ Watch for:
   - [Mild] What do you? - [Dale.] Pull a beer out of it.
 
 ## S4 E6 — Freshman Orientation and the Inventor of the Zipper
-URL: https://watchwiththekids.com/ep/young-sheldon/0406.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0406
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Too much] And someone drew genitals.
 
 ## S4 E7 — A Philosophy Class and Worms That Can Chase You
-URL: https://watchwiththekids.com/ep/young-sheldon/0407.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0407
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -716,12 +716,12 @@ Watch for:
   - [Mild] You want to get some coffee? I was thinking vodka, but coffee will do.
 
 ## S4 E8 — An Existential Crisis and a Bear That Makes Bubbles
-URL: https://watchwiththekids.com/ep/young-sheldon/0408.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0408
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S4 E9 — Crappy Frozen Ice Cream and an Organ Grinder's Monkey
-URL: https://watchwiththekids.com/ep/young-sheldon/0409.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0409
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -738,7 +738,7 @@ Watch for:
   - [Mild] What? Bring me back a beer.
 
 ## S4 E10 — Cowboy Aerobics and 473 Grease-Free Bolts
-URL: https://watchwiththekids.com/ep/young-sheldon/0410.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0410
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -747,26 +747,26 @@ Watch for:
   - [Caution] I overheard some of your other candidates talking about marijuana.
 
 ## S4 E11 — A Pager, a Club and a Cranky Bag of Wrinkles
-URL: https://watchwiththekids.com/ep/young-sheldon/0411.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0411
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] Well You ever sleep with him after the divorce? Gross, no.
 
 ## S4 E12 — A Box of Treasure and the Meemaw of Science
-URL: https://watchwiththekids.com/ep/young-sheldon/0412.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0412
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S4 E13 — The Geezer Bus and a New Model for Education
-URL: https://watchwiththekids.com/ep/young-sheldon/0413.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0413
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] My Meemaw gets cranky like this when she's hungover.
 
 ## S4 E15 — A Virus, Heartbreak and a World of Possibilities
-URL: https://watchwiththekids.com/ep/young-sheldon/0415.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0415
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -776,7 +776,7 @@ Watch for:
   - [Caution] What happened? If there's another woman, she's a tramp and you're way prettier.
 
 ## S4 E16 — A Second Prodigy and the Hottest Tips for Pouty Lips
-URL: https://watchwiththekids.com/ep/young-sheldon/0416.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0416
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -787,7 +787,7 @@ Watch for:
   - [Mild] Good luck. The only thing he has a crush on is beer.
 
 ## S4 E17 — A Black Hole
-URL: https://watchwiththekids.com/ep/young-sheldon/0417.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0417
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -797,21 +797,21 @@ Watch for:
   - [Mild] You do that. I'm having a beer.
 
 ## S4 E18 — The Wild and Woolly World of Nonlinear Dynamics
-URL: https://watchwiththekids.com/ep/young-sheldon/0418.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0418
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Dip the pacifier in some whiskey, put him right out.
 
 ## S5 E1 — One Bad Night and Chaos of Selfish Desires
-URL: https://watchwiththekids.com/ep/young-sheldon/0501.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0501
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] You look like you could use a shot with that beer.
 
 ## S5 E2 — Snoopin' Around and the Wonder Twins of Atheism
-URL: https://watchwiththekids.com/ep/young-sheldon/0502.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0502
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -819,7 +819,7 @@ Watch for:
   - [Caution] See, I'm three beeps away from breaking out my shotgun.
 
 ## S5 E3 — Potential Energy and Hooch on a Park Bench
-URL: https://watchwiththekids.com/ep/young-sheldon/0503.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0503
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -828,7 +828,7 @@ Watch for:
   - [Mild] So how come you're here tonight? Were you too drunk to ride your bike home, too? My father's mad 'cause I dropped out of school.
 
 ## S5 E4 — Pish Posh and a Secret Back Room
-URL: https://watchwiththekids.com/ep/young-sheldon/0504.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0504
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -840,7 +840,7 @@ Watch for:
   - [Mild] My pleasure. Could I get a beer? You arrest anybody fun lately? A party clown.
 
 ## S5 E5 — Stuffed Animals and A Sweet Southern Syzygy
-URL: https://watchwiththekids.com/ep/young-sheldon/0505.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0505
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -848,7 +848,7 @@ Watch for:
   - [Mild] What's gonna happen next? You gonna get me a beer.
 
 ## S5 E6 — Money Laundering and a Cascade of Hormones
-URL: https://watchwiththekids.com/ep/young-sheldon/0506.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0506
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -857,7 +857,7 @@ Watch for:
   - [Mild] Andy, would you feel embarrassed talking about sexual intercourse with your mother? Uh Stammering, red-faced.
 
 ## S5 E7 — An Introduction to Engineering and a Glob of Hair Gel
-URL: https://watchwiththekids.com/ep/young-sheldon/0507.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0507
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -873,7 +873,7 @@ Watch for:
   - [Mild] And Dale is? I got that hernia by dragging him onto the bed one night he came in passed-out drunk.
 
 ## S5 E8 — The Grand Chancellor and a Den of Sin
-URL: https://watchwiththekids.com/ep/young-sheldon/0508.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0508
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -882,7 +882,7 @@ Watch for:
   - [Mild] When I was a kid in El Paso, we used to cross the border to drink beer and dance the night away.
 
 ## S5 E9 — The Yips and an Oddly Hypnotic Bohemian
-URL: https://watchwiththekids.com/ep/young-sheldon/0509.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0509
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -896,7 +896,7 @@ Watch for:
   - [Mild] Can I offer you a beer and some thank-you cobbler? Weren't you on your way somewhere? Weight Watchers.
 
 ## S5 E10 — An Expensive Glitch and a Goof-Off Room
-URL: https://watchwiththekids.com/ep/young-sheldon/0510.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0510
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -905,7 +905,7 @@ Watch for:
   - [Mild] What's to keep people from punching it themselves? I'm getting me a free sandwich.
 
 ## S5 E11 — A Lock-In, a Weather Girl and a Disgusting Habit
-URL: https://watchwiththekids.com/ep/young-sheldon/0511.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0511
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -922,7 +922,7 @@ Watch for:
   - [Mild] “like the finest wine”
 
 ## S5 E12 — A Pink Cadillac and a Glorious Tribal Dance
-URL: https://watchwiththekids.com/ep/young-sheldon/0512.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0512
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -931,7 +931,7 @@ Watch for:
   - [Caution] This is a face that would stop the spilling of blood.
 
 ## S5 E13 — A Lot of Band-Aids and the Cooper Surrender
-URL: https://watchwiththekids.com/ep/young-sheldon/0513.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0513
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -948,7 +948,7 @@ Watch for:
   - [Mild] Did you give him beer? Did they give you beer?! SHELDON: Just root beer.
 
 ## S5 E14 — A Free Scratcher and Feminine Wiles
-URL: https://watchwiththekids.com/ep/young-sheldon/0514.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0514
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -960,7 +960,7 @@ Watch for:
   - [Mild] Getting divorced sucks.
 
 ## S5 E15 — A Lobster, an Armadillo and a Way Bigger Number
-URL: https://watchwiththekids.com/ep/young-sheldon/0515.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0515
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -968,7 +968,7 @@ Watch for:
   - [Mild] I love their margaritas.
 
 ## S5 E16 — A Suitcase Full of Cash and a Yellow Clown Car
-URL: https://watchwiththekids.com/ep/young-sheldon/0516.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0516
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -984,7 +984,7 @@ Watch for:
   - [Mild] Want to share a pitcher of margaritas? Oh, something we can both enjoy? That doesn't sound like you.
 
 ## S5 E17 — A Solo Peanut, a Social Butterfly, and the Truth
-URL: https://watchwiththekids.com/ep/young-sheldon/0517.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0517
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1007,7 +1007,7 @@ Watch for:
   - [Mild] Don't tell me to calm down! And good luck with your hangover.
 
 ## S5 E18 — Babies, Lies and a Resplendent Cannoli
-URL: https://watchwiththekids.com/ep/young-sheldon/0518.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0518
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1017,7 +1017,7 @@ Watch for:
   - [Caution] Maybe she cheated on me.
 
 ## S5 E19 — A God-Fearin' Baptist and a Hot Trophy Husband
-URL: https://watchwiththekids.com/ep/young-sheldon/0519.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0519
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1032,7 +1032,7 @@ Watch for:
   - [Mild] Ah, damn it. I'm not here to fight with you, or pass judgment on you, I just want to talk about where we're going with all this.
 
 ## S5 E20 — Uncle Sheldon and a Hormonal Firecracker
-URL: https://watchwiththekids.com/ep/young-sheldon/0520.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0520
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1042,7 +1042,7 @@ Watch for:
   - [Caution] That son of a gun.
 
 ## S5 E21 — White Trash, Holy Rollers and Punching People
-URL: https://watchwiththekids.com/ep/young-sheldon/0521.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0521
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1055,7 +1055,7 @@ Watch for:
   - [Mild] Why aren't you in school? You told me not to punch anyone else, so I left.
 
 ## S5 E22 — A Clogged Pore, a Little Spanish, and the Future
-URL: https://watchwiththekids.com/ep/young-sheldon/0522.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0522
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1072,7 +1072,7 @@ Watch for:
   - [Mild] Jesus turned water into wine.
 
 ## S6 E1 — Four Hundred Cartons of Undeclared Cigarettes and a Niblingo
-URL: https://watchwiththekids.com/ep/young-sheldon/0601.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0601
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1090,7 +1090,7 @@ Watch for:
   - [Mild] Nope. Baby's gonna be a bastard.
 
 ## S6 E2 — Future Worf and the Margarita of the South Pacific
-URL: https://watchwiththekids.com/ep/young-sheldon/0602.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0602
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1106,14 +1106,14 @@ Watch for:
   - [Mild] as the margarita of the South Pacific.
 
 ## S6 E3 — Passion’s Harvest and a Sheldocracy
-URL: https://watchwiththekids.com/ep/young-sheldon/0603.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0603
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] to have sex with me,
 
 ## S6 E4 — Blonde Ambition and the Concept of Zero
-URL: https://watchwiththekids.com/ep/young-sheldon/0604.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0604
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1129,14 +1129,14 @@ Watch for:
   - [Mild] What the hell?
 
 ## S6 E5 — A Resident Advisor and the Word 'Sketchy'
-URL: https://watchwiththekids.com/ep/young-sheldon/0605.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0605
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] without all the murder and mayhem.
 
 ## S6 E6 — An Ugly Car, an Affair and Some Kickass Football
-URL: https://watchwiththekids.com/ep/young-sheldon/0606.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0606
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1150,7 +1150,7 @@ Watch for:
   - [Too much] Kill myself.
 
 ## S6 E7 — A Tougher Nut and a Note on File
-URL: https://watchwiththekids.com/ep/young-sheldon/0607.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0607
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Suicide & self-harm — 2 moment(s)
@@ -1158,7 +1158,7 @@ Watch for:
   - [Too much] Doom Patrol Suicide
 
 ## S6 E8 — Legalese and a Whole Hoo-Ha
-URL: https://watchwiththekids.com/ep/young-sheldon/0608.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0608
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1171,7 +1171,7 @@ Watch for:
   - [Mild] Speaking of which, can I get you a beer?
 
 ## S6 E9 — College Dropouts and the Medford Miracle
-URL: https://watchwiththekids.com/ep/young-sheldon/0609.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0609
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1182,7 +1182,7 @@ Watch for:
   - [Mild] What the hell, Wayne?
 
 ## S6 E10 — Pancake Sunday and Textbook Flirting
-URL: https://watchwiththekids.com/ep/young-sheldon/0610.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0610
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1198,7 +1198,7 @@ Watch for:
   - [Mild] What the hell am I
 
 ## S6 E11 — Ruthless, Toothless and a Week of Bed Rest
-URL: https://watchwiththekids.com/ep/young-sheldon/0611.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0611
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1208,7 +1208,7 @@ Watch for:
   - [Mild] Are you trying to touch my underwear?
 
 ## S6 E12 — A Baby Shower and a Testosterone-Rich Banter
-URL: https://watchwiththekids.com/ep/young-sheldon/0612.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0612
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1220,7 +1220,7 @@ Watch for:
   - [Mild] I'm gonna get some punch.
 
 ## S6 E13 — A Frat Party, a Sleepover and the Mother of All Blisters
-URL: https://watchwiththekids.com/ep/young-sheldon/0613.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0613
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1235,7 +1235,7 @@ Watch for:
   - [Mild] a mean drunk. Noted.
 
 ## S6 E14 — A Launch Party and a Whole Human Being
-URL: https://watchwiththekids.com/ep/young-sheldon/0614.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0614
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1243,14 +1243,14 @@ Watch for:
   - [Mild] So, who did George almost punch?
 
 ## S6 E15 — Teen Angst and a Smart-Boy Walk of Shame
-URL: https://watchwiththekids.com/ep/young-sheldon/0615.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0615
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Swearing — 1 moment(s)
   - [Caution] Son of a bitch.
 
 ## S6 E16 — A Stolen Truck and Going on the Lam
-URL: https://watchwiththekids.com/ep/young-sheldon/0616.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0616
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1265,14 +1265,14 @@ Watch for:
   - [Mild] It means drunk.
 
 ## S6 E17 — A German Folk Song and an Actual Adult
-URL: https://watchwiththekids.com/ep/young-sheldon/0617.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0617
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] You do mean sex, right?
 
 ## S6 E18 — Little Green Men and a Fella's Marriage Proposal
-URL: https://watchwiththekids.com/ep/young-sheldon/0618.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0618
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1284,7 +1284,7 @@ Watch for:
   - [Caution] Maybe I'm the bitch.
 
 ## S6 E19 — A New Weather Girl and a Stay-at-Home Coddler
-URL: https://watchwiththekids.com/ep/young-sheldon/0619.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0619
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 3 moment(s)
@@ -1295,7 +1295,7 @@ Watch for:
   - [Mild] whiskey in that coffee.
 
 ## S6 E20 — German for Beginners and a Crazy Old Man with a Bat
-URL: https://watchwiththekids.com/ep/young-sheldon/0620.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0620
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1305,7 +1305,7 @@ Watch for:
   - [Mild] Beer is not a snack.
 
 ## S6 E21 — A Romantic Getaway and a Germanic Meat-Based Diet
-URL: https://watchwiththekids.com/ep/young-sheldon/0621.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0621
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1314,7 +1314,7 @@ Watch for:
   - [Mild] And, come on, beer and sausage?
 
 ## S6 E22 — A Tornado, a 10-Hour Flight and a Darn Fine Ring
-URL: https://watchwiththekids.com/ep/young-sheldon/0622.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0622
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1322,7 +1322,7 @@ Watch for:
   - [Mild] Okay, please don't bring my boobs up
 
 ## S7 E1 — A Weiner Schnitzel and Underwear in a Tree
-URL: https://watchwiththekids.com/ep/young-sheldon/0701.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0701
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1332,7 +1332,7 @@ Watch for:
   - [Mild] underwear, I have nothing.
 
 ## S7 E2 — A Roulette Wheel and a Piano Playing Dog
-URL: https://watchwiththekids.com/ep/young-sheldon/0702.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0702
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -1340,7 +1340,7 @@ Watch for:
   - [Mild] A beer in the middle of the afternoon?
 
 ## S7 E3 — A Strudel and a Hot American Boy Toy
-URL: https://watchwiththekids.com/ep/young-sheldon/0703.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0703
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1353,14 +1353,14 @@ Watch for:
   - [Mild] Taking one of your beers.
 
 ## S7 E4 — Ants on a Log and a Cheating Winker
-URL: https://watchwiththekids.com/ep/young-sheldon/0704.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0704
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Ooh, that's a big gun.
 
 ## S7 E5 — A Frankenstein's Monster and a Crazy Church Guy
-URL: https://watchwiththekids.com/ep/young-sheldon/0705.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0705
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1372,7 +1372,7 @@ Watch for:
   - [Mild] We're not old enough to drink beer.
 
 ## S7 E6 — Baptists, Catholics and an Attempted Drowning
-URL: https://watchwiththekids.com/ep/young-sheldon/0706.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0706
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1382,7 +1382,7 @@ Watch for:
   - [Mild] Jesus drank wine!
 
 ## S7 E7 — A Proper Wedding and Skeletons in the Closet
-URL: https://watchwiththekids.com/ep/young-sheldon/0707.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0707
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1393,7 +1393,7 @@ Watch for:
   - [Mild] Are you drunk?
 
 ## S7 E8 — An Ankle Monitor and a Big Plastic Crap House
-URL: https://watchwiththekids.com/ep/young-sheldon/0708.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0708
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -1405,14 +1405,14 @@ Watch for:
   - [Mild] I don't know. Y-You want to get drunk?
 
 ## S7 E9 — A Fancy Article and a Scholarship for a Baby
-URL: https://watchwiththekids.com/ep/young-sheldon/0709.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0709
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] and some beer to wash it down.
 
 ## S7 E10 — Community Service and the Key to a Happy Marriage
-URL: https://watchwiththekids.com/ep/young-sheldon/0710.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0710
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1421,14 +1421,14 @@ Watch for:
   - [Too much] This room better be spic and span.
 
 ## S7 E11 — A Little Snip and Teaching Old Dogs
-URL: https://watchwiththekids.com/ep/young-sheldon/0711.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0711
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] Looks like a walking corpse.
 
 ## S7 E12 — A New Home and a Traditional Texas Torture
-URL: https://watchwiththekids.com/ep/young-sheldon/0712.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0712
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Swearing — 3 moment(s)
@@ -1437,7 +1437,7 @@ Watch for:
   - [Mild] Hell, no. I'm gonna tell people
 
 ## S7 E13 — Funeral
-URL: https://watchwiththekids.com/ep/young-sheldon/0713.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0713
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -1446,7 +1446,7 @@ Watch for:
   - [Mild] than the Lone Star Beer company.
 
 ## S7 E14 — Memoir
-URL: https://watchwiththekids.com/ep/young-sheldon/0714.html
+URL: https://watchwiththekids.com/ep/young-sheldon/0714
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)

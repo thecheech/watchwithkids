@@ -1,11 +1,11 @@
 # Brooklyn Nine-Nine — parent guide (135 episodes)
 
-Source: https://watchwiththekids.com/brooklyn-nine-nine.html
+Source: https://watchwiththekids.com/brooklyn-nine-nine
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 10 mild (1–2), 69 caution (3), 56 too much (4–5).
 
 ## S1 E1 — Pilot
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0101.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0101
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -28,7 +28,7 @@ Watch for:
   - [Too much] “Okay, first of all, that's racist.”
 
 ## S1 E2 — The Tagger
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0102.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0102
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -52,7 +52,7 @@ Watch for:
   - [Mild] “Theft, vandalism, drunken disorderly, but he's never been processed.”
 
 ## S1 E3 — The Slump
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0103.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0103
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -76,7 +76,7 @@ Watch for:
   - [Too much] “Why would I swap cases with you? I got multiple calls that a guy in the sackett towers is dealing meth out of his apartment.”
 
 ## S1 E4 — M.E. Time
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0104.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0104
 Scores: violence 3/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -107,7 +107,7 @@ Watch for:
   - [Mild] “Permission to make a fat joke? Granted.”
 
 ## S1 E5 — The Vulture
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0105.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0105
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -143,7 +143,7 @@ Watch for:
   - [Mild] “They were publicly drunk.”
 
 ## S1 E6 — Halloween
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0106.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0106
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -166,7 +166,7 @@ Watch for:
   - [Mild] “Just put the vodka away.”
 
 ## S1 E7 — 48 Hours
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0107.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0107
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -189,7 +189,7 @@ Watch for:
   - [Too much] “A lot of fat guy clothes have racist overtones.”
 
 ## S1 E8 — Old School
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0108.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0108
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -218,7 +218,7 @@ Watch for:
   - [Too much] “What, homo? Ooh! Thank you, Santiago.”
 
 ## S1 E9 — Sal's Pizza
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0109.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0109
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -230,7 +230,7 @@ Watch for:
   - [Caution] “There's blood, wounds, Scully's feet.”
 
 ## S1 E10 — Thanksgiving
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0110.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0110
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -246,7 +246,7 @@ Watch for:
   - [Mild] “" It's tequila with a nicotine patch.”
 
 ## S1 E11 — Christmas
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0111.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0111
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -260,7 +260,7 @@ Watch for:
   - [Caution] “How about "grass"? Marijuana, drugs.”
 
 ## S1 E12 — Pontiac Bandit
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0112.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0112
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -281,7 +281,7 @@ Watch for:
   - [Too much] “That's racist.”
 
 ## S1 E13 — The Bet
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0113.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0113
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -300,7 +300,7 @@ Watch for:
   - [Too much] “So what else don't I know? You cooking meth? You breaking bad? How many phones do you have? I'm sorry, I need to clarify something I said earlier.”
 
 ## S1 E14 — The Ebony Falcon
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0114.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0114
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -319,7 +319,7 @@ Watch for:
   - [Mild] “And you'll be happy to know that he punched me in the face several times.”
 
 ## S1 E15 — Operation: Broken Feather
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0115.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0115
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -339,7 +339,7 @@ Watch for:
   - [Mild] “You're not very bright, are you, bill? Now I know you'd all prefer to go to a bar, drink beer, and eat chips of various textures.”
 
 ## S1 E16 — The Party
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0116.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0116
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -352,7 +352,7 @@ Watch for:
   - [Mild] “Terry chose the champagne.”
 
 ## S1 E17 — Full Boyle
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0117.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0117
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -371,7 +371,7 @@ Watch for:
   - [Caution] “Later, sluts.”
 
 ## S1 E18 — The Apartment
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0118.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0118
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -389,7 +389,7 @@ Watch for:
   - [Mild] “Cinnamon got hit by a drunk driver.”
 
 ## S1 E19 — Tactical Village
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0119.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0119
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -420,7 +420,7 @@ Watch for:
   - [Mild] “Slowly put 'em Oh! Damn it! Terry, time! You broke the record! Yes! Nice! Well done.”
 
 ## S1 E20 — Fancy Brudgom
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0120.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0120
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -447,7 +447,7 @@ Watch for:
   - [Mild] “What? Whiskey and cigars! Mm-hmm.”
 
 ## S1 E21 — Unsolvable
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0121.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0121
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -471,7 +471,7 @@ Watch for:
   - [Mild] “And his life is crap right now.”
 
 ## S1 E22 — Charges and Specs
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0122.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0122
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -487,7 +487,7 @@ Watch for:
   - [Mild] “Cool to be some place right when things get good, right? Another pitcher of your strongest beer, please, good sir, and a glass thingie to drink it out of.”
 
 ## S2 E1 — Undercover
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0201.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0201
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -517,7 +517,7 @@ Watch for:
   - [Caution] “I don't wanna be known as the office slut.”
 
 ## S2 E2 — Chocolate Milk
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0202.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0202
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -544,7 +544,7 @@ Watch for:
   - [Mild] “Where were you on monday around 10:00 pm? Me and my business school buddies get together every monday and have a couple beers.”
 
 ## S2 E3 — The Jimmy Jab Games
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0203.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0203
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -559,7 +559,7 @@ Watch for:
   - [Too much] “We're here about a new and very potent form of ecstasy, which has surfaced in our precinct.”
 
 ## S2 E4 — Halloween II
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0204.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0204
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -577,7 +577,7 @@ Watch for:
   - [Mild] “Enter a parade of drunks that separated the two of you long enough for Terry to kidnap Charles.”
 
 ## S2 E5 — The Mole
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0205.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0205
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 12 moment(s)
@@ -608,7 +608,7 @@ Watch for:
   - [Too much] “There's usually some ecstasy at these things.”
 
 ## S2 E6 — Jake and Sophia
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0206.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0206
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -627,7 +627,7 @@ Watch for:
   - [Mild] “We got drunk together, I invited you up to my apartment, and I kissed you first.”
 
 ## S2 E7 — Lockdown
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0207.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0207
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -643,7 +643,7 @@ Watch for:
   - [Too much] “It's not that weird to say, "may I have some cocaine?" It is.”
 
 ## S2 E8 — Uspis
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0208.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0208
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -657,7 +657,7 @@ Watch for:
   - [Too much] “Jackson, some ecstasy was found on the F train.”
 
 ## S2 E9 — The Road Trip
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0209.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0209
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -677,7 +677,7 @@ Watch for:
   - [Mild] “I only wish in return I could get back all the time I just wasted on this futile project.”
 
 ## S2 E10 — The Pontiac Bandit Returns
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0210.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0210
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -699,7 +699,7 @@ Watch for:
   - [Caution] “Why are you so fat? NYPD.”
 
 ## S2 E11 — Stakeout
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0211.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0211
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -718,7 +718,7 @@ Watch for:
   - [Caution] “Freeze! NYPD! Fatty had it made Like a blade in the sun, like a push in the bush Hey! When you got none Ping pong Alexei Bisko, you're under arrest.”
 
 ## S2 E12 — Beach House
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0212.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0212
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -743,7 +743,7 @@ Watch for:
   - [Too much] “All right, you know what? You guys are being a bunch of racist, homophobic golf cops, and I for one think this weekend's gonna be even more fun because Holt is here.”
 
 ## S2 E13 — Payback
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0213.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0213
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -768,7 +768,7 @@ Watch for:
   - [Too much] “Smart, loyal, homophobic but not racist.”
 
 ## S2 E14 — Defense Rests
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0214.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0214
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -786,7 +786,7 @@ Watch for:
   - [Mild] “Someone messed with the champagne tower.”
 
 ## S2 E15 — Windbreaker City
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0215.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0215
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -813,7 +813,7 @@ Watch for:
   - [Too much] “Sophia text you? No, it's just a lightly racist email forward from my Grandma.”
 
 ## S2 E16 — The Wednesday Incident
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0216.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0216
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -837,7 +837,7 @@ Watch for:
   - [Mild] “I'm sorry you wasted your chit, Jake.”
 
 ## S2 E17 — Boyle-Linetti Wedding
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0217.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0217
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -861,7 +861,7 @@ Watch for:
   - [Mild] “Uh, what would you say is your mom's favorite move at the gym? My mom likes champagne, baked ziti, the Bahamas.”
 
 ## S2 E18 — Captain Peralta
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0218.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0218
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -887,7 +887,7 @@ Watch for:
   - [Caution] “You use the seesaw to press down on their necks until fatty confesses.”
 
 ## S2 E19 — Sabotage
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0219.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0219
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -913,7 +913,7 @@ Watch for:
   - [Mild] “Just go home, have a beer, and smash something.”
 
 ## S2 E20 — Ac/dc
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0220.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0220
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -931,7 +931,7 @@ Watch for:
   - [Mild] “Ooh! I am so hungover.”
 
 ## S2 E21 — Det. Dave Majors
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0221.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0221
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -947,7 +947,7 @@ Watch for:
   - [Mild] “Yeah, that's a sippin' whiskey.”
 
 ## S2 E22 — The Chopper
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0222.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0222
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -972,7 +972,7 @@ Watch for:
   - [Caution] “I signed out that drug dealer's Lamborghini from the impound.”
 
 ## S2 E23 — Johnny and Dora
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0223.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0223
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -982,7 +982,7 @@ Watch for:
   - [Mild] “Wow, champagne and oysters.”
 
 ## S3 E1 — New Captain
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0301.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0301
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -995,7 +995,7 @@ Watch for:
   - [Mild] “Let's just get super drunk.”
 
 ## S3 E2 — The Funeral
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0302.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0302
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1017,7 +1017,7 @@ Watch for:
   - [Mild] “Whatcha doing there, Boyle? Trying to get drunk enough to have sexual intercourse with a vegan.”
 
 ## S3 E3 — Boyle's Hunch
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0303.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0303
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1037,7 +1037,7 @@ Watch for:
   - [Mild] “Wine? Yes, thank you so much.”
 
 ## S3 E4 — The Oolong Slayer
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0304.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0304
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1050,7 +1050,7 @@ Watch for:
   - [Mild] “It's really classing up the booze and take-out menus shelf.”
 
 ## S3 E5 — Halloween III
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0305.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0305
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1073,7 +1073,7 @@ Watch for:
   - [Caution] “Bye-bye, whore.”
 
 ## S3 E6 — Into The Woods
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0306.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0306
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1086,7 +1086,7 @@ Watch for:
   - [Mild] “Gets you drunk, though.”
 
 ## S3 E7 — The Mattress
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0307.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0307
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1109,7 +1109,7 @@ Watch for:
   - [Mild] “She's the reason I quit ballet, and I sure as hell don't want Sam to quit the Big Brother program 'cause of me.”
 
 ## S3 E8 — Ava
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0308.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0308
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1132,7 +1132,7 @@ Watch for:
   - [Too much] “Hitchcock, Scully, how did you get things done before the internet and faxing? Cocaine? Right.”
 
 ## S3 E9 — The Swedes
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0309.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0309
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1154,7 +1154,7 @@ Watch for:
   - [Mild] “Boyle, the champagne? - Oh, well, technically it's a Hungarian Pezsgo from the Tarnok Valley.”
 
 ## S3 E10 — Yippie Kayak
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0310.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0310
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1173,7 +1173,7 @@ Watch for:
   - [Mild] “Tell him Tila Tequila's doing a free show in Central Park.”
 
 ## S3 E11 — Hostage Situation
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0311.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0311
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1191,7 +1191,7 @@ Watch for:
   - [Mild] “I'm done with that playboy lifestyle out till 11:00, drunk on sangria.”
 
 ## S3 E12 — 9 Days
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0312.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0312
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1205,7 +1205,7 @@ Watch for:
   - [Mild] “You're gonna eat this ziti, and you're gonna appreciate it, and you're gonna grow the hell up.”
 
 ## S3 E13 — The Cruise
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0313.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0313
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1229,7 +1229,7 @@ Watch for:
   - [Mild] “But the all-ages piano lounge has bottomless margaritas.”
 
 ## S3 E14 — Karen Peralta
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0314.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0314
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -1266,7 +1266,7 @@ Watch for:
   - [Mild] “What is my mother's favorite drink? Red wine over ice.”
 
 ## S3 E15 — The 98
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0315.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0315
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1287,7 +1287,7 @@ Watch for:
   - [Mild] “We wasted those cool lines on nothing.”
 
 ## S3 E16 — House Mouses
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0316.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0316
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1304,7 +1304,7 @@ Watch for:
   - [Caution] “Where would I have found French fries in a weed farm? Oh, man, look at him.”
 
 ## S3 E17 — Adrian Pimento
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0317.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0317
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1326,7 +1326,7 @@ Watch for:
   - [Mild] “He was fat once, you know? What the hell, Boyle? Speaking of Jeffords, maybe your daughters would like to know that their daddy throws away all their drawings? They just draw so many, and they're all so bad.”
 
 ## S3 E18 — Cheddar
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0318.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0318
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1347,7 +1347,7 @@ Watch for:
   - [Mild] “I've had a hell of a day.”
 
 ## S3 E19 — Terry Kitties
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0319.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0319
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1370,7 +1370,7 @@ Watch for:
   - [Mild] “So basically, you wasted a whole night.”
 
 ## S3 E20 — Paranoia
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0320.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0320
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1390,7 +1390,7 @@ Watch for:
   - [Mild] “Some of us have a hangover.”
 
 ## S3 E21 — Maximum Security
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0321.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0321
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1426,7 +1426,7 @@ Watch for:
   - [Mild] “And if you ever need to talk, or get drunk, or throw stuff off a roof, I mean, I don't know your process.”
 
 ## S3 E22 — The Bureau
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0322.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0322
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1453,7 +1453,7 @@ Watch for:
   - [Caution] “The best episode that year was episode six, entitled "Are We Sluts?" You know the one.”
 
 ## S3 E23 — Greg and Larry
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0323.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0323
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1467,7 +1467,7 @@ Watch for:
   - [Caution] “I always assumed whale would be too fatty.”
 
 ## S4 E1 — Coral Palms Pt.1
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0401.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0401
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1492,7 +1492,7 @@ Watch for:
   - [Mild] “This town is a crap circus.”
 
 ## S4 E2 — Coral Palms Pt. 2
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0402.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0402
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1509,7 +1509,7 @@ Watch for:
   - [Too much] “And? - Snorting meth.”
 
 ## S4 E3 — Coral Palms Pt.3
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0403.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0403
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1528,7 +1528,7 @@ Watch for:
   - [Caution] “Terry feels like a whore.”
 
 ## S4 E4 — The Night Shift
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0404.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0404
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1553,7 +1553,7 @@ Watch for:
   - [Mild] “Caught a drunk guy humping a laptop.”
 
 ## S4 E5 — Halloween IV
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0405.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0405
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1578,7 +1578,7 @@ Watch for:
   - [Caution] “Whore, I'm great on skates.”
 
 ## S4 E6 — Monster in the Closet
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0406.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0406
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1604,7 +1604,7 @@ Watch for:
   - [Mild] “I didn't know you could drunk off champers.”
 
 ## S4 E7 — Mr Santiago
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0407.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0407
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1629,7 +1629,7 @@ Watch for:
   - [Mild] “Everything okay? I was gonna chop the heck out of this bastard, but then he looked me in the eye, and I realized that nature is beautiful.”
 
 ## S4 E8 — Skyfire Cycle
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0408.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0408
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1652,7 +1652,7 @@ Watch for:
   - [Mild] “Look, I didn't want to piss you off.”
 
 ## S4 E9 — The Overmining
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0409.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0409
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1670,7 +1670,7 @@ Watch for:
   - [Caution] “Any questions? Will taking down one drug dealer make a big difference in the overall level of drugs - moving into the city?”
 
 ## S4 E10 — Captain Latvia
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0410.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0410
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1694,7 +1694,7 @@ Watch for:
   - [Too much] “Oh! What were you guys talking about? Did he think the shirt was racist? - [TIRES SQUEALING.]”
 
 ## S4 E11 — The Fugitive
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0411.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0411
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1736,7 +1736,7 @@ Watch for:
   - [Mild] “We wasted a day, and if anyone has egg on their faces, it's you two.”
 
 ## S4 E13 — The Audit
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0413.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0413
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1757,7 +1757,7 @@ Watch for:
   - [Mild] “Jake's chronic tardiness, his slobbiness, and the fact that he wasted half the morning deciding what sneakers to wear those are just some of the reasons we're late.”
 
 ## S4 E14 — Serve & Protect
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0414.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0414
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1771,7 +1771,7 @@ Watch for:
   - [Caution] “And that's how I would lift up a bloody finger with my pen.”
 
 ## S4 E15 — The Last Ride
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0415.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0415
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1789,7 +1789,7 @@ Watch for:
   - [Mild] “So I guess what I'm trying to say is let's go get drunk.”
 
 ## S4 E16 — Moo Moo
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0416.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0416
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1807,7 +1807,7 @@ Watch for:
   - [Too much] “Racism, racism - I'm hanging up.”
 
 ## S4 E17 — Cop-Con
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0417.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0417
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1824,7 +1824,7 @@ Watch for:
   - [Mild] “So I could make tequila steam.”
 
 ## S4 E18 — Chasing Amy
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0418.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0418
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1833,7 +1833,7 @@ Watch for:
   - [Too much] “You're a murderer! Listen, you gotta get over it.”
 
 ## S4 E19 — Your Honor
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0419.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0419
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1849,7 +1849,7 @@ Watch for:
   - [Mild] “Oh my, I just remembered, Carol Spitzheim's house was broken into several months ago, also during wine club.”
 
 ## S4 E20 — The Slaughterhouse
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0420.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0420
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -1869,7 +1869,7 @@ Watch for:
   - [Caution] “Every Sunday after church, Scully and I have dinner together at Wing Sluts.”
 
 ## S4 E21 — The Bank Job
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0421.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0421
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -1895,7 +1895,7 @@ Watch for:
   - [Caution] “Why do you even own that? I was banned from Wing Sluts for using too much sauce, so I got it to sneak past the hostess.”
 
 ## S4 E22 — Crime & Punishment
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0422.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0422
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1914,7 +1914,7 @@ Watch for:
   - [Mild] “Let's order a round of "Hey, Hey, It's Light Beer, Light Beer" and get into it.”
 
 ## S5 E1 — The Big House, Part 1
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0501.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0501
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1937,7 +1937,7 @@ Watch for:
   - [Mild] “Can I ask what this Wilson did - to deserve this? - He beat the crap out of me.”
 
 ## S5 E2 — The Big House, Part 2
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0502.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0502
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1965,7 +1965,7 @@ Watch for:
   - [Caution] “I was cheating on her with a waitress from Wing Sluts named Jamie-Lynn.”
 
 ## S5 E3 — Kicks
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0503.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0503
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1992,7 +1992,7 @@ Watch for:
   - [Mild] “I wasted a year on Chiaki.”
 
 ## S5 E4 — HalloVeen
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0504.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0504
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2017,7 +2017,7 @@ Watch for:
   - [Caution] “I am a Tramp.”
 
 ## S5 E5 — Bad Beat
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0505.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0505
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2046,7 +2046,7 @@ Watch for:
   - [Too much] “The cartel who did the taco truck murders ripped apart the truck, because there was heroin still inside it.”
 
 ## S5 E6 — The Venue
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0506.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0506
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2071,7 +2071,7 @@ Watch for:
   - [Caution] “Let's go talk to that spineless skank.”
 
 ## S5 E7 — Two Turkeys
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0507.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0507
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2102,7 +2102,7 @@ Watch for:
   - [Caution] “My dad's a selfish drunken slut - and my mom's a flighty weirdo.”
 
 ## S5 E8 — Return to Skyfire
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0508.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0508
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2126,7 +2126,7 @@ Watch for:
   - [Mild] “Whoa, look at this place! Ooh, they're selling moss wine.”
 
 ## S5 E9 — 99
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0509.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0509
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2146,7 +2146,7 @@ Watch for:
   - [Too much] “I thought it was just racism.”
 
 ## S5 E10 — Game Night
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0510.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0510
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2165,7 +2165,7 @@ Watch for:
   - [Mild] “Rosa, I broke both your wine glasses and your fridge door and your bathroom.”
 
 ## S5 E11 — The Favor
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0511.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0511
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2188,7 +2188,7 @@ Watch for:
   - [Mild] “Now, how do we expect Kyle to transfer the bug to Seamus? I got him a very expensive bottle of whiskey to give to his uncle as a gift.”
 
 ## S5 E12 — Safe House
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0512.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0512
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2215,7 +2215,7 @@ Watch for:
   - [Mild] “Can I tell you the craziest story? One time I was like so drunk And this meathead comes up to me.”
 
 ## S5 E13 — The Negotiation
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0513.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0513
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2231,7 +2231,7 @@ Watch for:
   - [Caution] “Two years ago before I went straight, I stole a car from a drug dealer.”
 
 ## S5 E14 — The Box
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0514.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0514
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2261,7 +2261,7 @@ Watch for:
   - [Mild] “I didn't want to drive drunk, so I took a cab.”
 
 ## S5 E15 — The Puzzle Master
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0515.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0515
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2272,7 +2272,7 @@ Watch for:
   - [Caution] “We found a smoking gun.”
 
 ## S5 E16 — NutriBoom
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0516.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0516
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2284,7 +2284,7 @@ Watch for:
   - [Too much] “Look, we have reason to believe David Stovelman murdered his wife, Debbie.”
 
 ## S5 E17 — Dfw
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0517.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0517
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -2315,7 +2315,7 @@ Watch for:
   - [Caution] “What's that now? - One more time? You think I'm gonna let my skank parole officer stand in the way of true love? Kurt! He seems like a cool guy.”
 
 ## S5 E18 — Gray Star Mutual
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0518.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0518
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2344,7 +2344,7 @@ Watch for:
   - [Mild] “1 Hey, Charles, want to grab a beer before you go home? - Ooh, a yeast feast.”
 
 ## S5 E19 — Bachelor/ette Party
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0519.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0519
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -2365,7 +2365,7 @@ Watch for:
   - [Mild] “…hired him to play at my wedding, stolen a legally binding contract from him, jumped on a bar and dumped booze on everyone, fallen off the bar, probably given myself a concussion [SLAMS TABLE.]”
 
 ## S5 E20 — Show Me Going
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0520.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0520
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2395,7 +2395,7 @@ Watch for:
   - [Mild] “I just want to get a beer.”
 
 ## S5 E21 — White Whale
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0521.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0521
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2419,7 +2419,7 @@ Watch for:
   - [Mild] “We're drinking the wine with the foot on the label, but it's a huge savings and we can make up the rest if we just assemble the gift bags ourselves.”
 
 ## S5 E22 — Jake & Amy
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0522.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0522
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2440,7 +2440,7 @@ Watch for:
   - [Mild] “But, look, I know it seems like everything sucks, but why don't we just get married tomorrow? You know, we won't have a venue or a band or any of our guests, but we could go to city hall.”
 
 ## S6 E1 — Honeymoon
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0601.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0601
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2468,7 +2468,7 @@ Watch for:
   - [Caution] “Is the pineapple the slut, or is it calling someone else a slut? Clearly the pineapple is the slut.”
 
 ## S6 E2 — Hitchcock & Scully
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0602.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0602
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2491,7 +2491,7 @@ Watch for:
   - [Caution] “Yeah, we never spoke, but if she put an extra wing in our slut bucket, it meant everything was okay.”
 
 ## S6 E3 — The Tattler
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0603.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0603
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2508,7 +2508,7 @@ Watch for:
   - [Mild] “You know, tonight I realized that my talents are being wasted at the Nine-Nine.”
 
 ## S6 E4 — Four Movements
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0604.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0604
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2522,7 +2522,7 @@ Watch for:
   - [Too much] “The game you love is racist - and you're complicit.”
 
 ## S6 E5 — A Tale of Two Bandits
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0605.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0605
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2545,7 +2545,7 @@ Watch for:
   - [Mild] “The only wine they serve is from the Delaware Water Gap.”
 
 ## S6 E6 — The Crime Scene
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0606.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0606
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2572,7 +2572,7 @@ Watch for:
   - [Caution] “Is this about weed? - Should it be? No? You delivered food to the guy in this apartment at 6:40 p.”
 
 ## S6 E7 — The Honeypot
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0607.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0607
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2588,7 +2588,7 @@ Watch for:
   - [Caution] So looks like Operation: “Nasty is a full-on success, huh? You mean Operation: Nasty Sex Slut.”
 
 ## S6 E8 — He Said, She Said
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0608.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0608
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2615,7 +2615,7 @@ Watch for:
   - [Mild] “…I mean, is not hanging out with Beefer really a punishment, per se? Yeah, but if I'm not at Beefer's for whiskey and cigars, then I don't get invited to Vegas with Slurpie and Trundle, and I'm definitely not at…”
 
 ## S6 E9 — The Golden Child
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0609.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0609
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2639,7 +2639,7 @@ Watch for:
   - [Too much] “So what you're saying is, you're not addicted to cocaine? Amy, it's me.”
 
 ## S6 E10 — Gintars
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0610.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0610
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2663,7 +2663,7 @@ Watch for:
   - [Caution] “So I understand you have a potential crime scene, and you'd like to find some blood.”
 
 ## S6 E11 — The Therapist
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0611.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0611
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -2695,7 +2695,7 @@ Watch for:
   - [Mild] “Was he drunk? - One can only assume.”
 
 ## S6 E12 — Casecation
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0612.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0612
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2710,7 +2710,7 @@ Watch for:
   - [Caution] “I'm gonna eat you alive, you dumb son of a bitch.”
 
 ## S6 E13 — The Bimbo
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0613.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0613
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2724,7 +2724,7 @@ Watch for:
   - [Mild] “What the hell? We rented a party limo, drove to Coney Island for hot dogs, and then did karaoke the entire time.”
 
 ## S6 E14 — Ticking Clocks
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0614.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0614
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2751,7 +2751,7 @@ Watch for:
   - [Mild] “You guys, I used to have this boyfriend, Jason, then we broke up 'cause I got drunk at Spring Fling and passed out in a bush, and he took too long to find me, and now he's gone and it's…”
 
 ## S6 E15 — Return of the King
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0615.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0615
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 9 moment(s)
@@ -2774,7 +2774,7 @@ Watch for:
   - [Mild] “I'm gonna take a rain check on the champagne, but it was wonderful seeing you.”
 
 ## S6 E16 — Cinco De Mayo
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0616.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0616
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2796,7 +2796,7 @@ Watch for:
   - [Mild] “Stop, stop! No trumpets! Not today! My head is killing me! Hit the tequila a little early, huh? I'm not hung over, Hitchcock.”
 
 ## S6 E17 — Sicko
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0617.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0617
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2832,7 +2832,7 @@ Watch for:
   - [Too much] “101 years old, and immediately racist on the phone.”
 
 ## S6 E18 — Suicide Squad
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0618.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0618
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2848,7 +2848,7 @@ Watch for:
   - [Too much] “Remember Brighton Beach? 1,200 kilos of heroin in an abandoned subway tunnel.”
 
 ## S7 E1 — Manhunter
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0701.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0701
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2857,7 +2857,7 @@ Watch for:
   - [Caution] “A standard long gun would've ejected the casing right over there, where Holt is already putting down an evidence marker.”
 
 ## S7 E2 — Captain Kim
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0702.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0702
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2883,7 +2883,7 @@ Watch for:
   - [Mild] “Tackling a pit bull without spilling your whiskey, badass.”
 
 ## S7 E3 — Pimemento
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0703.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0703
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2906,7 +2906,7 @@ Watch for:
   - [Mild] “So can anyone tell me what a stereotype is? The Irish are potato-eating drunks.”
 
 ## S7 E4 — The Jimmy Jab Games II
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0704.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0704
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 11+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2926,7 +2926,7 @@ Watch for:
   - [Mild] “Didn't you and Amy just buy a family-friendly midsize sedan? In a rebellious color champagne which is an alcohol.”
 
 ## S7 E5 — Debbie
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0705.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0705
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2945,7 +2945,7 @@ Watch for:
   - [Mild] “She drinks too much wine.”
 
 ## S7 E6 — Trying
-URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0706.html
+URL: https://watchwiththekids.com/ep/brooklyn-nine-nine/0706
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
