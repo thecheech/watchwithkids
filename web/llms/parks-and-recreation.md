@@ -4,7 +4,7 @@ Source: https://watchwiththekids.com/parks-and-recreation.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 46 mild (1–2), 42 caution (3), 34 too much (4–5).
 
-## S1 E1 — 1. CHE01 - Pilot
+## S1 E1 — Pilot
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0101.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
@@ -14,7 +14,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Knope, there's a drunk stuck in the slide.”
 
-## S1 E2 — 2. CHE03 - Canvassing
+## S1 E2 — Canvassing
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0102.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -31,7 +31,7 @@ Watch for:
   - [Too much] “Would you change your mind if I told you that nine out of 10 meth users said the same exact thing? What? How would you even know that? Survey.”
   - [Too much] “We surveyed crystal meth users.”
 
-## S1 E3 — 3. 102 - The Reporter
+## S1 E3 — The Reporter
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0103.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -56,7 +56,7 @@ Watch for:
   - [Mild] “I was probably not thinking 'cause I had two broken femurs and I was blackout drunk.”
   - [Mild] “Andy was drunk when he fell in the pit.”
 
-## S1 E4 — 4. CHE04 - Boys' Club
+## S1 E4 — Boys' Club
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0104.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
@@ -81,7 +81,7 @@ Watch for:
   - [Mild] “I'm doing a little experiment tonight to see what will get me drunker.”
   - [Mild] “"After one and a half beers, "awash in the glow of acceptance "into this elite, exclusive club " Sorry, what club is this? A couple city planners like to drink beer in the courtyard on Tuesday nights.”
 
-## S1 E5 — 5. CHE05 - The Banquet
+## S1 E5 — The Banquet
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0105.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -99,7 +99,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “How about this? "Marlene Griggs-Knope is definitely not a whore.”
 
-## S1 E6 — 6. Rock Show
+## S1 E6 — Rock Show
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0106.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -123,7 +123,7 @@ Watch for:
   - [Mild] “Beers to go! Where are we going? All the bars are closed.”
   - [Mild] “You think I can get my beer bottle in that shopping cart right there? What? Mark, don't.”
 
-## S2 E1 — 1. 201 - Pawnee Zoo
+## S2 E1 — Pawnee Zoo
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0201.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -140,7 +140,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “" I'm so glad you're here! I'm really sober! Okay! Get a drink! You know why tonight's fun? 'Cause everyone's so gay.”
 
-## S2 E2 — 2. 202 - The Stakeout
+## S2 E2 — The Stakeout
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0202.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -154,7 +154,7 @@ Watch for:
   - [Caution] “We were staking out the community garden, because somebody planted marijuana in it.”
   - [Mild] “We were drunk, and he tried to kiss me, and I said, "No, sir, Mark Brendanawicz.”
 
-## S2 E3 — 3. 203 - Beauty Pageant
+## S2 E3 — Beauty Pageant
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0203.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -165,7 +165,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “$90? Yes, because I ordered a beautiful bouquet of daffodils, from a website, after a few glasses of wine.”
 
-## S2 E4 — 4. Practice Date
+## S2 E4 — Practice Date
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0204.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -198,7 +198,7 @@ Watch for:
   - [Mild] “I thought it was terrible wine.”
   - [Mild] “No fires, no ambulances, just good old-fashioned showing up drunk at a guy's house late at night.”
 
-## S2 E5 — 5. Sister City
+## S2 E5 — Sister City
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0205.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -214,7 +214,7 @@ Watch for:
   - [Caution] “Holy cow! There's a lot of guys with guns here.”
   - [Mild] “'Cause, nobody takes a punch like her.”
 
-## S2 E6 — 6. KaBOOM!
+## S2 E6 — KaBOOM!
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0206.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -233,7 +233,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Yeah, but just think of all the kids that'll swing on this swing, fat kids, skinny kids, brainiacs, sluts, the gay drama kids, goths, jocks, the alternative crowd.”
 
-## S2 E7 — 7. Greg Pikitis
+## S2 E7 — Greg Pikitis
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0207.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -247,7 +247,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Go! Vodka! Go! Son.”
 
-## S2 E8 — 8. Ron and Tammy
+## S2 E8 — Ron and Tammy
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0208.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -278,7 +278,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “If I'd had a park like that when I was growing up, I probably wouldn't have gone through such a prolonged mall-slut phase.”
 
-## S2 E9 — 9. The Camel
+## S2 E9 — The Camel
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0209.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -291,7 +291,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “This one's racist.”
 
-## S2 E10 — 10. Hunting Trip
+## S2 E10 — Hunting Trip
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0210.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -320,7 +320,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “So, grab a beer.”
 
-## S2 E11 — 11. Tom's Divorce
+## S2 E11 — Tom's Divorce
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0211.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -346,7 +346,7 @@ Watch for:
   - [Mild] “I'm gonna need a lot of wine, so keep it flowing.”
   - [Mild] “So, where do you want this? So, how you feeling? Rough morning? You know those hangover pills you can order on TV? Mmm.”
 
-## S2 E12 — 12. Christmas Scandal
+## S2 E12 — Christmas Scandal
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0212.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -373,7 +373,7 @@ Watch for:
   - [Mild] “"Bring a case of beer to Sanitation.”
   - [Mild] “They can buy their own beer.”
 
-## S2 E13 — 13. 213 - The Set-Up
+## S2 E13 — The Set-Up
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0213.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -383,7 +383,7 @@ Watch for:
   - [Caution] “Is that his blood? What? Oh, damn, now I have to go back.”
   - [Mild] “So what do you think of your new assistant? I want to punch you in the face so bad right now.”
 
-## S2 E14 — 14. 214 - Leslie's House
+## S2 E14 — Leslie's House
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0214.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -395,7 +395,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Last time, we had a private tour and cocktails at the Indianapolis Aquarium.”
 
-## S2 E15 — 15. 215 - Sweetums
+## S2 E15 — Sweetums
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0215.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -418,7 +418,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “What NutriYums energy bars are just absolutely loaded with high-fructose corn syrup and fatty oils.”
 
-## S2 E16 — 16. 216 - Galentine's Day
+## S2 E16 — Galentine's Day
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0216.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -435,7 +435,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Some champagne? Uh, no, thanks.”
 
-## S2 E17 — 17. 217 - Woman of the Year
+## S2 E17 — Woman of the Year
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0217.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -453,7 +453,7 @@ Watch for:
   - [Mild] “I don't want the damn thing.”
   - [Mild] “Just take the damn thing.”
 
-## S2 E18 — 18. 218 - The Possum
+## S2 E18 — The Possum
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0218.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -470,7 +470,7 @@ Watch for:
   - [Mild] “Not because I'm pissed at Andy, which I'm not.”
   - [Mild] “No, please don't, okay? He's gonna be pissed at me.”
 
-## S2 E19 — 19. 219 - Park Safety
+## S2 E19 — Park Safety
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0219.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -487,7 +487,7 @@ Watch for:
   - [Mild] “What is the first move in any fight? Punch to the balls.”
   - [Mild] “Damn, Jerry! You jumped in a creek for a burrito? What would you do for a Klondike Bar? Kill your wife? Block the opponent's punch and counter-punch to the jaw.”
 
-## S2 E20 — 20. 220 - Summer Catalog
+## S2 E20 — Summer Catalog
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0220.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -509,7 +509,7 @@ Watch for:
   - [Caution] “He made a bong out of a taxidermied raccoon? I caught him smoking pot out of it not three feet from where we're standing.”
   - [Mild] “Three picnic baskets, assorted cheeses, grapes, wine.”
 
-## S2 E21 — 21. 221 - 94 Meetings
+## S2 E21 — 94 Meetings
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0221.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -522,7 +522,7 @@ Watch for:
   - [Caution] “But then word got out, and the reception was a bloodbath.”
   - [Caution] “Newport meet? I was doing a ribbon-cutting at the hospital, and he was there because his blood doesn't work.”
 
-## S2 E22 — 22. 222 - Telethon
+## S2 E22 — Telethon
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0222.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -534,7 +534,7 @@ Watch for:
   - [Mild] “Light beers.”
   - [Mild] “By the way, I'm drunk.”
 
-## S2 E23 — 23. 223 - The Master Plan
+## S2 E23 — The Master Plan
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0223.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -552,7 +552,7 @@ Watch for:
   - [Mild] “You want to get a beer? It's like 10:30 in the morning.”
   - [Mild] “And you seem like you could use a beer.”
 
-## S2 E24 — 24. Freddy Spaghetti
+## S2 E24 — Freddy Spaghetti
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0224.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -564,7 +564,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I think you might find me attractive because you got drunk and kissed me when we first met.”
 
-## S3 E1 — 1. Go Big or Go Home
+## S3 E1 — Go Big or Go Home
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0301.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -584,7 +584,7 @@ Watch for:
   - [Mild] “Can I ask you why not? Because I thought we had a great time the night you got drunk and kissed me.”
   - [Mild] “I would like some wine.”
 
-## S3 E2 — 2. The Flu
+## S3 E2 — The Flu
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0302.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -595,14 +595,14 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Stay back, slut! I know what she's trying to do.”
 
-## S3 E3 — 3. Time Capsule
+## S3 E3 — Time Capsule
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0303.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “This book contains pagan creatures and strong sexual overtones.”
 
-## S3 E4 — 4. Ron and Tammy Part 2
+## S3 E4 — Ron and Tammy Part 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0304.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -624,7 +624,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Sounds like a real whore.”
 
-## S3 E5 — 5. Media Blitz
+## S3 E5 — Media Blitz
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0305.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -636,7 +636,7 @@ Watch for:
 - Swearing — 1 moment(s)
   - [Caution] “What is he typing, anyway? "If you sons of bitches try to remove this typewriter, I'll kill you.”
 
-## S3 E6 — 6. Indianapolis
+## S3 E6 — Indianapolis
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0306.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -666,7 +666,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “That guy just pitched me a cologne called Sluts.”
 
-## S3 E7 — 7. Harvest Festival
+## S3 E7 — Harvest Festival
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0307.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -677,7 +677,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] “Murder the most melons.”
 
-## S3 E8 — 8. Camping
+## S3 E8 — Camping
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0308.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -693,7 +693,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “We got champagne.”
 
-## S3 E9 — 9. Andy and April's Fancy Party
+## S3 E9 — Andy and April's Fancy Party
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0309.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -707,7 +707,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You get drunk.”
 
-## S3 E10 — 10. Soulmates
+## S3 E10 — Soulmates
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0310.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -721,7 +721,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “And I would just stand out there and survey my empire, like a drug dealer in a Michael Bay movie.”
 
-## S3 E11 — 11. Jerry's Painting
+## S3 E11 — Jerry's Painting
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0311.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -746,12 +746,12 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “That's racist.”
 
-## S3 E12 — 12. Eagleton
+## S3 E12 — Eagleton
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0312.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for: nothing flagged.
 
-## S3 E13 — 13. The Fight
+## S3 E13 — The Fight
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0313.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -780,7 +780,7 @@ Watch for:
   - [Mild] “You're stupid, and you're drunk and you're stupid.”
   - [Mild] “Everybody's wasted.”
 
-## S3 E14 — 14. Road Trip
+## S3 E14 — Road Trip
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0314.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -798,7 +798,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “I'm gonna go see a man about some porcelain, you know what I mean? I'm not buying cocaine.”
 
-## S3 E15 — 15. The Bubble
+## S3 E15 — The Bubble
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0315.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -812,7 +812,7 @@ Watch for:
   - [Mild] “Just white wine, cuddling, and crazy amounts of History Channel documentaries.”
   - [Mild] “Starting now, when life gives me lemons, I'm gonna slice them up into wedges and throw them into vodka tonics, which I will then sip in a burlesque nightclub that I co-own with actor Taye Diggs and two of the…”
 
-## S3 E16 — 16. Li'l Sebastian
+## S3 E16 — Li'l Sebastian
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0316.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -827,7 +827,7 @@ Watch for:
   - [Too much] Stripper or strip-club material shows up in the plot.
   - [Too much] “This is the memorial for Li'I Sebastian, not double-coupon night at a strip club.”
 
-## S4 E1 — 1. I'm Leslie Knope
+## S4 E1 — I'm Leslie Knope
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0401.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -851,7 +851,7 @@ Watch for:
   - [Mild] “Would you like any wine to start? Yes, and I'm gonna be direct and honest with you.”
   - [Mild] “I would like a glass of red wine and I'll take the cheapest one you have because I can't tell the difference.”
 
-## S4 E2 — 2. Ron and Tammys
+## S4 E2 — Ron and Tammys
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0402.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -870,7 +870,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Well You and Ron have a big meeting, huh? I'm sure Ron will remember the meeting fondly while he makes toilet wine in a federal prison in Terre Haute.”
 
-## S4 E3 — 3. Born and Raised
+## S4 E3 — Born and Raised
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0403.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -886,14 +886,14 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Was there a lot of blood? - What kind of blade did he use? Uh, three-and-a-half-inch? Serrated? Buckets of blood.”
 
-## S4 E4 — 4. Pawnee Rangers
+## S4 E4 — Pawnee Rangers
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0404.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “This right here's all the blood coming out her face.”
 
-## S4 E5 — 5. Meet 'n' Greet
+## S4 E5 — Meet 'n' Greet
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0405.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -920,7 +920,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Food and Stuff, JJ's Diner, Glenmore Discount Cemetery, uh, Tramp Stamp Tattoos, Enormous Kenny's Fried Dough Stand and Mobile Phone Emporium.”
 
-## S4 E6 — 6. End of the World
+## S4 E6 — End of the World
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0406.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -934,7 +934,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “If you're too drunk to drive, please take one of our shuttles home.”
 
-## S4 E7 — 7. The Treaty
+## S4 E7 — The Treaty
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0407.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -948,7 +948,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Are you insane? He was a million-year-old racist! He said he liked ethnic girls, Tom.”
 
-## S4 E8 — 8. Smallest Park
+## S4 E8 — Smallest Park
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0408.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -962,7 +962,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Because you order white wine, and it gives you a headache.”
 
-## S4 E9 — 9. Trial of Leslie Knope
+## S4 E9 — Trial of Leslie Knope
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0409.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -975,7 +975,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You go down in history as a frozen whore.”
 
-## S4 E10 — 10. Citizen Knope
+## S4 E10 — Citizen Knope
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0410.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -986,7 +986,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Strawberry margaritas! Another use for sal-gar! Financial analysis, automated general ledger accounting systems, audit management.”
 
-## S4 E11 — 11. The Comeback Kid
+## S4 E11 — The Comeback Kid
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0411.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1003,7 +1003,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Do you want one? - No, I find calzone fatty, and unnecessary.”
 
-## S4 E12 — 12. Campaign Ad
+## S4 E12 — Campaign Ad
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0412.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1014,7 +1014,7 @@ Watch for:
   - [Caution] “They took my blood away to use for science.”
   - [Mild] “Well, we have to find a way to beat him.”
 
-## S4 E13 — 13. Bowling for Votes
+## S4 E13 — Bowling for Votes
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0413.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1035,7 +1035,7 @@ Watch for:
   - [Mild] “These beers are as cold as the Tuktoyaktuk Winter Road.”
   - [Mild] “This guy was drunk, and he was aggressive.”
 
-## S4 E14 — 14. Operation Ann
+## S4 E14 — Operation Ann
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0414.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1044,7 +1044,7 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “Hey, Kriss Kross, can we change up the music? It kind of sounds like the end of a movie about a monk who killed himself.”
 
-## S4 E15 — 15. Dave Returns
+## S4 E15 — Dave Returns
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0415.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1062,7 +1062,7 @@ Watch for:
   - [Mild] “Now, if you'll excuse me, I'm about endorse ten beers into my mouth, 'cause this has been an incredibly stressful evening.”
   - [Mild] “Hey, a little tradition after Mouse Rat records, someone buys me booze-- who's it gonna be? All right, look, I know I messed up, but there's something I got to say to you.”
 
-## S4 E16 — 16. Sweet Sixteen
+## S4 E16 — Sweet Sixteen
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0416.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1071,7 +1071,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You made me drunk, you made me drunk, and you-- - No, no.”
 
-## S4 E17 — 17. Campaign Shake-Up
+## S4 E17 — Campaign Shake-Up
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0417.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1085,7 +1085,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I am going to get drunk, and then I'm going to order a three-course meal where each course is made of dessert.”
 
-## S4 E18 — 18. Lucky
+## S4 E18 — Lucky
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0418.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1108,7 +1108,7 @@ Watch for:
   - [Mild] “I am not drunk.”
   - [Mild] “Yes, when you have a jumbo Margarita and some flaming Tequila shots, you can get drunk.”
 
-## S4 E19 — 19. Live Ammo
+## S4 E19 — Live Ammo
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0419.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1131,7 +1131,7 @@ Watch for:
   - [Mild] “Bye, pups! Bye, little piggies! I don't usually poison my body with dark alcohol, but this whiskey is excellent! Nectar of the gods.”
   - [Mild] “What do you say, after work, you, me, whiskey, wheatgrass, Cranium? - Ron? - Chris? Sorry, he's meditating.”
 
-## S4 E20 — 20. The Debate
+## S4 E20 — The Debate
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0420.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1156,7 +1156,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “She's smoooooth like a blended whiskey.”
 
-## S4 E21 — 21. Bus Tour
+## S4 E21 — Bus Tour
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0421.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1175,7 +1175,7 @@ Watch for:
   - [Mild] “It was a hell of a day.”
   - [Mild] “I know he didn't just hit my baby! Hey! What the hell, guys? Move! All right.”
 
-## S4 E22 — 22. Win, Lose, or Draw
+## S4 E22 — Win, Lose, or Draw
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0422.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1195,7 +1195,7 @@ Watch for:
   - [Mild] “Oh, damn it.”
   - [Mild] “Damn it, Jerry.”
 
-## S5 E1 — 1. Ms. Knope Goes To Washington
+## S5 E1 — Ms. Knope Goes To Washington
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0501.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1215,7 +1215,7 @@ Watch for:
   - [Mild] “What about for the children? You can get water from that water fountain and use it to water down the beer.”
   - [Mild] “Cocktail party at the Hay-Adams, and I got us all on the list.”
 
-## S5 E2 — 2. Soda Tax
+## S5 E2 — Soda Tax
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0502.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1230,7 +1230,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “I think we should tax all bad things, like racism and women's vaginae.”
 
-## S5 E3 — 3. How a Bill Becomes a Law
+## S5 E3 — How a Bill Becomes a Law
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0503.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1241,7 +1241,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “I'm not eating racist salad.”
 
-## S5 E4 — 4. Sex Education
+## S5 E4 — Sex Education
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0504.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1266,7 +1266,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Well, maybe not where you come from in "Tramp-sylvania.”
 
-## S5 E5 — 5. Halloween Surprise
+## S5 E5 — Halloween Surprise
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0505.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1288,7 +1288,7 @@ Watch for:
   - [Mild] “All right, what the hell.”
   - [Mild] “I mean, you had this whole plan for your retirement and your beach house and now you're future is just a huge pile of crap.”
 
-## S5 E6 — 6. Ben's Parents
+## S5 E6 — Ben's Parents
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0506.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1307,7 +1307,7 @@ Watch for:
   - [Mild] “Frankly, after what he did at Geoffrey's graduation-- Oh, I have some white wine for you, some Chardonnay.”
   - [Mild] “Look, champagne! Yeah, why don't we just forget about the quilt - and just raise a glass? - Yes! Toasts are fun.”
 
-## S5 E7 — 7. Leslie vs April
+## S5 E7 — Leslie vs April
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0507.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1323,7 +1323,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “It seems like the kind of place a ska band would go to shoot heroin.”
 
-## S5 E8 — 8. Pawnee Commons
+## S5 E8 — Pawnee Commons
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0508.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1339,7 +1339,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Well, they always wine and dine you first, but the fact of the matter is Eagletonians are, without exception, snobby, condescending jerks.”
 
-## S5 E9 — 9. Ron and Diane
+## S5 E9 — Ron and Diane
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0509.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1353,7 +1353,7 @@ Watch for:
   - [Mild] “It's the time we celebrate our most sacred and special event: Jerry Dinner Jerry Dinner - Jerry Dinner - Jerry Dinner what the hell is Jerry Dinner?”
   - [Mild] “Oh, wow! Whoo! This award is the only one I'd ever give a damn about.”
 
-## S5 E10 — 10. Two Parties
+## S5 E10 — Two Parties
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0510.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1385,7 +1385,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Would you like some water? Water? Like fire water? That's racist, and I do not appreciate it.”
 
-## S5 E11 — 11. Women In Garbage
+## S5 E11 — Women In Garbage
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0511.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1395,7 +1395,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Tommy for the dunk! My screen! But it was actually a blood-hungry witch who was wearing their mom's face like a mask! What is wrong with you, woman? Sorry.”
 
-## S5 E12 — 12. Ann's Decision
+## S5 E12 — Ann's Decision
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0512.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1421,7 +1421,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “Also If you're looking to buy some weed, I'm looking as well.”
 
-## S5 E13 — 13. Emergency Response
+## S5 E13 — Emergency Response
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0513.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1438,7 +1438,7 @@ Watch for:
   - [Mild] “Is she gonna be okay? Wouldn't know-- never been hungover.”
   - [Mild] “After I've had too much whiskey, I cook myself a large flank steak, pan-fried in salted butter.”
 
-## S5 E14 — 14. Leslie and Ben
+## S5 E14 — Leslie and Ben
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0514.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1456,7 +1456,7 @@ Watch for:
   - [Mild] “You know what? I have some champagne, back at the office.”
   - [Mild] “Even though they really can't handle their booze.”
 
-## S5 E15 — 15. Correspondents' Lunch
+## S5 E15 — Correspondents' Lunch
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0515.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1470,7 +1470,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Midi-chlorians are a fictional substance found in the blood of Jedi knights from the movie Star Wars Episode 1: The Phantom Menace.”
 
-## S5 E16 — 16. Bailout
+## S5 E16 — Bailout
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0516.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1496,7 +1496,7 @@ Watch for:
   - [Mild] “I'm throwing a huge cocktail party tomorrow for all my best clients.”
   - [Mild] “Mona-Lisa! Did you order the champagne for the client party tonight? Did I order the what for the what-what what, what? What are you even talking about right now? Okay, we need to discuss your work habits.”
 
-## S5 E17 — 17. Partridge
+## S5 E17 — Partridge
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0517.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1514,7 +1514,7 @@ Watch for:
   - [Mild] “What's up, Ron? Just daydreaming about punching Jamm in the face.”
   - [Mild] “It is now quite clear that on innumerable occasions Ron Swanson said he intended to punch councilman Jamm in the face, and then he did.”
 
-## S5 E18 — 18. Animal Control
+## S5 E18 — Animal Control
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0518.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1533,7 +1533,7 @@ Watch for:
   - [Caution] “They're great at ingesting and selling marijuana.”
   - [Caution] “Yeah, so our new director needs to be competent, effective, and not completely stoned all the time.”
 
-## S5 E19 — 19. Article Two
+## S5 E19 — Article Two
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0519.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1552,7 +1552,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “That is an outdated and racist law.”
 
-## S5 E20 — 20. Jerry's Retirement
+## S5 E20 — Jerry's Retirement
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0520.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1566,7 +1566,7 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “He resigned because of corruption and racketeering, and then he died from an overdose of pills.”
 
-## S5 E21 — 21. Swing Vote
+## S5 E21 — Swing Vote
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0521.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1597,7 +1597,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Okay, before we start, anybody want a hot dog? Hot dogs? You know I have irritable bowel syndrome, you racist.”
 
-## S5 E22 — 22. Are You Better Off?
+## S5 E22 — Are You Better Off?
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0522.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1625,7 +1625,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “Recall Knope! Recall Knope! Recall Knope! - Recall Knope! - Legalize weed! Recall Knope! Recall Knope! So, I need to ask you something and I kinda wish Jean-Ralphio wasn't here.”
 
-## S6 E1 — 1. London Part 1 & 2
+## S6 E1 — London Part 1 & 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0601.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1646,7 +1646,7 @@ Watch for:
   - [Mild] “How much beer were you drinking? I know, right? Probably too much.”
   - [Mild] “That's for a hangover.”
 
-## S6 E3 — 3. The Pawnee-Eagleton Tip Off Classic
+## S6 E3 — The Pawnee-Eagleton Tip Off Classic
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0603.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1655,7 +1655,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] “Sure you wanna leave me here with her? What if I'm a murderer? Oh, that's funny.”
 
-## S6 E4 — 4. Doppelgangers
+## S6 E4 — Doppelgangers
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0604.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1669,7 +1669,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Slut and Skank.”
 
-## S6 E5 — 5. Gin It Up!
+## S6 E5 — Gin It Up!
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0605.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1686,7 +1686,7 @@ Watch for:
   - [Mild] “Damn it, Typhoon! Why'd you do this? Maybe if you had bothered to come to my Great Gatsby Brunch, you'd know.”
   - [Mild] “Well, I am going to Rwanda in, like, two weeks for my job, so, what the hell? Cool.”
 
-## S6 E6 — 6. Filibuster
+## S6 E6 — Filibuster
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0606.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1704,7 +1704,7 @@ Watch for:
   - [Mild] “Get! Give me that Margarita! No! I want votes.”
   - [Mild] “Excuse me, worker, bring me a bucket of beers and four hot dogs.”
 
-## S6 E7 — 7. Recall Vote
+## S6 E7 — Recall Vote
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0607.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
@@ -1715,7 +1715,7 @@ Watch for:
   - [Mild] “Wha? Champagne decanters! This is heaven.”
   - [Mild] “" Oh, it's so hard to read when you're drunk.”
 
-## S6 E8 — 8. Fluoride
+## S6 E8 — Fluoride
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0608.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1731,7 +1731,7 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “I want to throw up and kill myself.”
 
-## S6 E9 — 9. The Cones of Dunshire
+## S6 E9 — The Cones of Dunshire
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0609.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1744,7 +1744,7 @@ Watch for:
   - [Caution] “" It's a little wordy, don't you think? "Current owner will not clean up shotgun shells or animal carcasses.”
   - [Caution] “" The hell is wrong with you, Swanson? Fine, I'll clean up the shotgun shells, but the carcasses remain to fertilize my berry patch.”
 
-## S6 E10 — 10. Second Chunce
+## S6 E10 — Second Chunce
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0610.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1767,7 +1767,7 @@ Watch for:
   - [Mild] “Stay away from wine.”
   - [Mild] “Wine is crying juice.”
 
-## S6 E11 — 11. New Beginnings
+## S6 E11 — New Beginnings
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0611.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1779,7 +1779,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Plus, I downloaded this dope app that pops champagne whenever I say something awesome.”
 
-## S6 E12 — 12. Farmers Market
+## S6 E12 — Farmers Market
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0612.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1810,7 +1810,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Oh, hey, Donna, what the hell? You know I can't be around smoke or fatty tuna.”
 
-## S6 E13 — 13. Ann and Chris
+## S6 E13 — Ann and Chris
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0613.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1820,14 +1820,14 @@ Watch for:
   - [Caution] “Shotgun! I called shotgun! - You're all nailed.”
   - [Caution] “You can't--I--double shotgun! We call double shotgun! How come people don't do that more often? It's illegal.”
 
-## S6 E14 — 14. Anniversaries
+## S6 E14 — Anniversaries
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0614.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “Got about 20 minutes before I either get really tired or really horny, so let's roll.”
 
-## S6 E15 — 15. The Wall
+## S6 E15 — The Wall
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0615.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1838,7 +1838,7 @@ Watch for:
   - [Too much] “Thank you for coming by and plunging a dagger into my already-bleeding corpse.”
   - [Mild] “They literally punch me in the face.”
 
-## S6 E16 — 16. New Slogan
+## S6 E16 — New Slogan
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0616.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1853,7 +1853,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I once threw beer at a swan, and then it attacked my niece Rebecca.”
 
-## S6 E17 — 17. Galentine's Day
+## S6 E17 — Galentine's Day
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0617.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1867,7 +1867,7 @@ Watch for:
   - [Caution] “Uh, Andy, why don't you go with Ron and help him? - I really don't need-- - Shotgun! I call shotgun.”
   - [Caution] “Shotgun on all rides for the rest of the day.”
 
-## S6 E18 — 18. Prom
+## S6 E18 — Prom
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0618.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1878,7 +1878,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “, so I think he can get us all free beer.”
 
-## S6 E19 — 19. Flu Season 2
+## S6 E19 — Flu Season 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0619.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1894,7 +1894,7 @@ Watch for:
   - [Mild] “(SINGING) I'll bring the girls You bring the beer And the troops will bring the freedom We're sorry to interrupt, Chipp.”
   - [Mild] “You still drunk from last night? I've been there.”
 
-## S6 E20 — 20. One in 8,000
+## S6 E20 — One in 8,000
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0620.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1906,7 +1906,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Oh, my God, there's blood everywhere.”
 
-## S6 E21 — 21. Moving Up Part 1 & 2
+## S6 E21 — Moving Up Part 1 & 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0621.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1916,7 +1916,7 @@ Watch for:
   - [Mild] “…My sinuses are on the Fritz, and smell is 90% of taste, maybe 95%! Okay, Craig, Donna's gonna be your wine taster.”
   - [Mild] “Steve, can we get these cocktails going for Joan and Perd? Oh, look, Kay Hanley, rock star, thanks for coming by.”
 
-## S7 E1 — 1. 2017
+## S7 E1 — 2017
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0701.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1931,7 +1931,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “'Cause wine makes me sleepy now.”
 
-## S7 E2 — 2. Ron & Jammy
+## S7 E2 — Ron & Jammy
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0702.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1953,7 +1953,7 @@ Watch for:
   - [Mild] “But Tammy only wants me to eat steak and whiskey.”
   - [Mild] “All the steak and whiskey, I have to wear a diaper.”
 
-## S7 E3 — 3. William Henry Harrison
+## S7 E3 — William Henry Harrison
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0703.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1969,7 +1969,7 @@ Watch for:
   - [Mild] “I'll sign the documents here, and then you can bring it to Ron and he can sign it there, and then you can tell Ron to rot in hell.”
   - [Mild] “I cannot believe the weird notary hell I've been trapped in.”
 
-## S7 E4 — 4. Leslie & Ron
+## S7 E4 — Leslie & Ron
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0704.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1980,7 +1980,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I moved our meetings to tomorrow because you are drunk and hungover simultaneously at Yeah, good call.”
 
-## S7 E5 — 5. Gryzzlbox
+## S7 E5 — Gryzzlbox
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0705.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -1997,7 +1997,7 @@ Watch for:
   - [Mild] “Where's my emergency list? Recently I've been feeling like I've wasted the last 10 years of my life, and it all started with this internship.”
   - [Mild] “But what I would like to do is have a glass of wine and talk about that shade Nicki Minaj threw at Jesse Eisenberg at the BAFTAs.”
 
-## S7 E6 — 6. Save JJ's
+## S7 E6 — Save JJ's
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0706.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2010,7 +2010,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “That was a joke cake I got from the grocery store, to weed out low-quality palates.”
 
-## S7 E7 — 7. Donna & Joe
+## S7 E7 — Donna & Joe
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0707.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -2025,7 +2025,7 @@ Watch for:
   - [Mild] “Were you guys drunk? That is hilarious.”
   - [Mild] “Most of Congress is drunk all of the time.”
 
-## S7 E8 — 8. Ms. Ludgate-Dwyer Goes to Washington
+## S7 E8 — Ms. Ludgate-Dwyer Goes to Washington
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0708.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
@@ -2034,7 +2034,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “I feel like I need to take a shower in pig's blood to wash all the niceness off me.”
 
-## S7 E9 — 9. Pie-Mary
+## S7 E9 — Pie-Mary
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0709.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2047,7 +2047,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “So we're looking for a racist ghost with black hair who likes shoeshines.”
 
-## S7 E10 — 10. The Johnny Karate Super Awesome Musical Explosion Show
+## S7 E10 — The Johnny Karate Super Awesome Musical Explosion Show
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0710.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -2056,7 +2056,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I was super wasted.”
 
-## S7 E11 — 11. Two Funerals
+## S7 E11 — Two Funerals
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0711.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
@@ -2064,7 +2064,7 @@ Watch for:
   - [Caution] “I didn't ask for flavored condoms.”
   - [Caution] “See, girls get mad horny when you propose.”
 
-## S7 E12 — 12. One Last Ride, Part 1 & 2
+## S7 E12 — One Last Ride, Part 1 & 2
 URL: https://watchwiththekids.com/ep/parks-and-recreation/0712.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:

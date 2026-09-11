@@ -4,7 +4,7 @@ Source: https://watchwiththekids.com/modern-family.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 129 mild (1–2), 94 caution (3), 23 too much (4–5).
 
-## S1 E1 — 1. Pilot
+## S1 E1 — Pilot
 URL: https://watchwiththekids.com/ep/modern-family/0101.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -24,7 +24,7 @@ Watch for:
   - [Mild] “What the hell is that suppose to mean? Yes, I've gained a few extra pounds while we expecting the baby.”
   - [Mild] “Oh my God, do you love it? -Yes, I What the hell is that? I had Andre do it when we we were gone.”
 
-## S1 E2 — 2. The Bicycle Thief
+## S1 E2 — The Bicycle Thief
 URL: https://watchwiththekids.com/ep/modern-family/0102.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -33,7 +33,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Just get me to wine -- Ooh.”
 
-## S1 E3 — 3. Come Fly With Me
+## S1 E3 — Come Fly With Me
 URL: https://watchwiththekids.com/ep/modern-family/0103.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
@@ -43,7 +43,7 @@ Watch for:
   - [Mild] “" Can we just please get the diapers and get out of here? Fine, but I want to stop by the wine section first.”
   - [Mild] “There's a wine section? Yeah, a really good one -- just past the tires.”
 
-## S1 E4 — 4. The Incident
+## S1 E4 — The Incident
 URL: https://watchwiththekids.com/ep/modern-family/0104.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -64,7 +64,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Yeah, nana got totally wasted.”
 
-## S1 E5 — 5. Coal Digger
+## S1 E5 — Coal Digger
 URL: https://watchwiththekids.com/ep/modern-family/0105.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -83,7 +83,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Dad, loo I was coming to get a beer, anyways.”
 
-## S1 E6 — 6. Run for Your Wife
+## S1 E6 — Run for Your Wife
 URL: https://watchwiththekids.com/ep/modern-family/0106.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -92,7 +92,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Sweet! Two at a time, two at a time, two at a -- Son of a gun, got to fix that step.”
 
-## S1 E7 — 7. En Garde
+## S1 E7 — En Garde
 URL: https://watchwiththekids.com/ep/modern-family/0107.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -101,7 +101,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “It's in his blood.”
 
-## S1 E8 — 8. Great Expectations
+## S1 E8 — Great Expectations
 URL: https://watchwiththekids.com/ep/modern-family/0108.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -118,7 +118,7 @@ Watch for:
   - [Mild] “Fun? Are you joking? Margaritas, you guys, these guys.”
   - [Mild] “Give her eight shots of tequila.”
 
-## S1 E9 — 9. Fizbo
+## S1 E9 — Fizbo
 URL: https://watchwiththekids.com/ep/modern-family/0109.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -128,7 +128,7 @@ Watch for:
   - [Caution] “There are four types of clowns- a tramp, an Auguste, a whiteface and a character.”
   - [Caution] “Sad clown is a tramp.”
 
-## S1 E10 — 10. Undeck the Halls
+## S1 E10 — Undeck the Halls
 URL: https://watchwiththekids.com/ep/modern-family/0110.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -140,7 +140,7 @@ Watch for:
   - [Mild] “What the hell is that? Still funny.”
   - [Mild] “What the hell is that? What the hell is that? [Both Laughing.]”
 
-## S1 E11 — 11. Up All Night
+## S1 E11 — Up All Night
 URL: https://watchwiththekids.com/ep/modern-family/0111.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -157,7 +157,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Wow! And I have some nice wine, a good Cuban cigar for Jay.”
 
-## S1 E12 — 12. Not in My House
+## S1 E12 — Not in My House
 URL: https://watchwiththekids.com/ep/modern-family/0112.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -178,7 +178,7 @@ Watch for:
   - [Caution] “So, what'd he do? Did he cheat on a test? He's a cheater.”
   - [Caution] “He did not cheat on a test.”
 
-## S1 E13 — 13. Fifteen Percent
+## S1 E13 — Fifteen Percent
 URL: https://watchwiththekids.com/ep/modern-family/0113.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -192,7 +192,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You know? I'll get some nice bottle of wine, a little cheese.”
 
-## S1 E14 — 14. Moon Landing
+## S1 E14 — Moon Landing
 URL: https://watchwiththekids.com/ep/modern-family/0114.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -202,7 +202,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Well, you should have thought about that before you took that skank Sharon Nicolini to an Anne Hathaway movie.”
 
-## S1 E15 — 15. My Funky Valentine
+## S1 E15 — My Funky Valentine
 URL: https://watchwiththekids.com/ep/modern-family/0115.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -217,7 +217,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Phil- Or [Chinese Accent.]”
 
-## S1 E16 — 16. Fears
+## S1 E16 — Fears
 URL: https://watchwiththekids.com/ep/modern-family/0116.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -226,7 +226,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What if it's really expensive bottles of wine? Or a suit of armor.”
 
-## S1 E17 — 17. Truth Be Told
+## S1 E17 — Truth Be Told
 URL: https://watchwiththekids.com/ep/modern-family/0117.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -245,7 +245,7 @@ Watch for:
   - [Mild] “You know what? I'm gonna open a bottle of wine.”
   - [Mild] “Are you telling me that I wasted a year of my life on this relationship? - What relationship? - How many other women have you led on? - Now I don't know! - [Claire.]”
 
-## S1 E18 — 18. Starry Night
+## S1 E18 — Starry Night
 URL: https://watchwiththekids.com/ep/modern-family/0118.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -254,7 +254,7 @@ Watch for:
 - Swearing — 1 moment(s)
   - [Caution] “Who did this? You coward son of bitches!”
 
-## S1 E19 — 19. Game Changer
+## S1 E19 — Game Changer
 URL: https://watchwiththekids.com/ep/modern-family/0119.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -262,7 +262,7 @@ Watch for:
   - [Caution] “He's the one that's having an affair.”
   - [Caution] “You could not cheat on her! How about that? Because it has to be a surprise.”
 
-## S1 E20 — 20. Benched
+## S1 E20 — Benched
 URL: https://watchwiththekids.com/ep/modern-family/0120.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -275,7 +275,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “She makes a hell of a margarita.”
 
-## S1 E21 — 21. Travels With Scout
+## S1 E21 — Travels With Scout
 URL: https://watchwiththekids.com/ep/modern-family/0121.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -290,7 +290,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Knife Slashing.
 
-## S1 E22 — 22. Airport 2010
+## S1 E22 — Airport 2010
 URL: https://watchwiththekids.com/ep/modern-family/0122.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -302,7 +302,7 @@ Watch for:
   - [Mild] “Are you drunk? Kinda.”
   - [Mild] “I wanted to spend some time alone with my husband- drink cocktails by the pool, sleep in.”
 
-## S1 E23 — 23. Hawaii
+## S1 E23 — Hawaii
 URL: https://watchwiththekids.com/ep/modern-family/0123.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -318,7 +318,7 @@ Watch for:
   - [Mild] “Yeah, well, she got drunk, and now she's upstairs throwing up.”
   - [Mild] “One minute you're having wine coolers at homecoming, and the next the game of Truth or Claire sweeps your high school.”
 
-## S1 E24 — 24. Family Portrait
+## S1 E24 — Family Portrait
 URL: https://watchwiththekids.com/ep/modern-family/0124.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -331,7 +331,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh, red wine.”
 
-## S2 E1 — 1. The Old Wagon
+## S2 E1 — The Old Wagon
 URL: https://watchwiththekids.com/ep/modern-family/0201.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -343,7 +343,7 @@ Watch for:
   - [Mild] “But you two ladies enjoy your light beers.”
   - [Mild] “How you know we're having light beers? - We only have light beers.”
 
-## S2 E2 — 2. The Kiss
+## S2 E2 — The Kiss
 URL: https://watchwiththekids.com/ep/modern-family/0202.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -357,7 +357,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm gonna get a beer, beer, beer before I hit you in the head, head, head.”
 
-## S2 E3 — 3. Earthquake
+## S2 E3 — Earthquake
 URL: https://watchwiththekids.com/ep/modern-family/0203.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -367,7 +367,7 @@ Watch for:
   - [Mild] “I was going to bring you wine, but you finished the big bottle last night.”
   - [Mild] “I-I'm gonna make you a cocktail.”
 
-## S2 E4 — 4. Strangers on a Treadmill
+## S2 E4 — Strangers on a Treadmill
 URL: https://watchwiththekids.com/ep/modern-family/0204.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -375,7 +375,7 @@ Watch for:
   - [Too much] “They will do each ether's murders.”
   - [Too much] “What are you babbling about? You owe me a murder.”
 
-## S2 E5 — 5. Unplugged
+## S2 E5 — Unplugged
 URL: https://watchwiththekids.com/ep/modern-family/0205.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -391,7 +391,7 @@ Watch for:
   - [Mild] “Parrot? - What parrot? Jay! Jay! Jay! - What is he talking about? What parrot? - How the hell do I know? - What do we do now? - Nothing.”
   - [Mild] “I can't believe that I'm getting a car! Holy crap.”
 
-## S2 E6 — 6. Halloween
+## S2 E6 — Halloween
 URL: https://watchwiththekids.com/ep/modern-family/0206.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -406,7 +406,7 @@ Watch for:
   - [Mild] “Tell me it was booze, cheating, physical abuse no problem.”
   - [Mild] “Trick or treat! We should just put out a bowl of candy and have a cocktail, right? - Yeah.”
 
-## S2 E7 — 7. Chirp
+## S2 E7 — Chirp
 URL: https://watchwiththekids.com/ep/modern-family/0207.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -417,7 +417,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “What's the problem? Don't you think this commercial just might be the teeniest bit racist? I mean, "Save-zilla"? It's not racist.”
 
-## S2 E8 — 8. Manny Get Your Gun
+## S2 E8 — Manny Get Your Gun
 URL: https://watchwiththekids.com/ep/modern-family/0208.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -433,7 +433,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You'd think growing up in a place full of death squads and drunken uncles she'd have learned to move a little bit faster.”
 
-## S2 E9 — 9. Mother Tucker
+## S2 E9 — Mother Tucker
 URL: https://watchwiththekids.com/ep/modern-family/0209.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -449,7 +449,7 @@ Watch for:
   - [Caution] “Oh, is that the skank? - No.”
   - [Caution] “No, there's there's no skank.”
 
-## S2 E10 — 10. Dance Dance Revelation
+## S2 E10 — Dance Dance Revelation
 URL: https://watchwiththekids.com/ep/modern-family/0210.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -464,7 +464,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Although he never said anything was black, 'cause he was a pretty big racist.”
 
-## S2 E11 — 11. Slow Down Your Neighbors
+## S2 E11 — Slow Down Your Neighbors
 URL: https://watchwiththekids.com/ep/modern-family/0211.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -473,7 +473,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You gotta buy me a beer before you could put your hand up my sweater.”
 
-## S2 E12 — 12. Our Children, Ourselves
+## S2 E12 — Our Children, Ourselves
 URL: https://watchwiththekids.com/ep/modern-family/0212.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -486,7 +486,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “You're so gay you can't even think of real girls' names.”
 
-## S2 E13 — 13. Caught in the Act
+## S2 E13 — Caught in the Act
 URL: https://watchwiththekids.com/ep/modern-family/0213.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -501,7 +501,7 @@ Watch for:
   - [Mild] “It's got a three-story wine tower right in the middle of it.”
   - [Mild] “Guy who gets your wine flies around on a wire.”
 
-## S2 E14 — 14. Bixby's Back
+## S2 E14 — Bixby's Back
 URL: https://watchwiththekids.com/ep/modern-family/0214.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -516,7 +516,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “So, champagne? Um, actually, Claire, something's come up so gotta go.”
 
-## S2 E15 — 15. Princess Party
+## S2 E15 — Princess Party
 URL: https://watchwiththekids.com/ep/modern-family/0215.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -532,14 +532,14 @@ Watch for:
   - [Mild] “Dad, what's going on over there? She was a little nervous about your mother being here so she tried her first Xanax, washed it down with a shot of tequila.”
   - [Mild] “We had a long talk last night after you and I "split" that bottle of wine and you "fell asleep" on the stairs.”
 
-## S2 E16 — 16. Regrets Only
+## S2 E16 — Regrets Only
 URL: https://watchwiththekids.com/ep/modern-family/0216.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - [Too much] “Gettin' a little soft, Grandpa? You know, when you get a massage, you sound like a Tijuana prostitute.”
 
-## S2 E17 — 17. Two Monkeys and a Panda
+## S2 E17 — Two Monkeys and a Panda
 URL: https://watchwiththekids.com/ep/modern-family/0217.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -547,7 +547,7 @@ Watch for:
   - [Too much] Stripper or strip-club material shows up in the plot.
   - [Too much] “What did Oprah do now? She had a girl on who at 16 found out that she was adopted and felt betrayed and ran away and became a stripper and not the heart-of-gold kind, the by-the-airport kind.”
 
-## S2 E18 — 18. Boys' Night
+## S2 E18 — Boys' Night
 URL: https://watchwiththekids.com/ep/modern-family/0218.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -567,7 +567,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “You mean homos.”
 
-## S2 E19 — 19. The Musical Man
+## S2 E19 — The Musical Man
 URL: https://watchwiththekids.com/ep/modern-family/0219.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -583,7 +583,7 @@ Watch for:
   - [Mild] “Lower the We love the What the hell? No.”
   - [Mild] “I can't believe we trusted you to put this on the car - after the debacle of that last picture and all the - Damn it.”
 
-## S2 E20 — 20. Someone to Watch Over Lily
+## S2 E20 — Someone to Watch Over Lily
 URL: https://watchwiththekids.com/ep/modern-family/0220.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -598,7 +598,7 @@ Watch for:
   - [Caution] “When you and Dylan were broken up Rachel told him you were a skank and got all up on him.”
   - [Caution] “This will teach that skank a lesson.”
 
-## S2 E21 — 21. Mother's Day
+## S2 E21 — Mother's Day
 URL: https://watchwiththekids.com/ep/modern-family/0221.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -615,14 +615,14 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hear! Hear! - Just grab some wine.”
 
-## S2 E22 — 22. Good Cop Bad Dog
+## S2 E22 — Good Cop Bad Dog
 URL: https://watchwiththekids.com/ep/modern-family/0222.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “You can see me in my underwear whenever you want.”
 
-## S2 E23 — 23. See You Next Fall
+## S2 E23 — See You Next Fall
 URL: https://watchwiththekids.com/ep/modern-family/0223.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -631,7 +631,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Champagne problems, right? Honey, they're not gonna ride the bike.”
 
-## S2 E24 — 24. The One That Got Away
+## S2 E24 — The One That Got Away
 URL: https://watchwiththekids.com/ep/modern-family/0224.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -648,7 +648,7 @@ Watch for:
   - [Mild] “Wha What are you doing with dad's wine? - Getting comfortable.”
   - [Mild] “He once let me drink some of his beer.”
 
-## S3 E1 — 1. Dude Ranch
+## S3 E1 — Dude Ranch
 URL: https://watchwiththekids.com/ep/modern-family/0301.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -659,7 +659,7 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “Do I look like the kind of woman that would cheat on her husband? Yes.”
 
-## S3 E2 — 2. When Good Kids Go Bad
+## S3 E2 — When Good Kids Go Bad
 URL: https://watchwiththekids.com/ep/modern-family/0302.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -668,14 +668,14 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Of course, I can't share those names with you Until I get a glass of wine in my hand.”
 
-## S3 E3 — 3. Phil On Wire
+## S3 E3 — Phil On Wire
 URL: https://watchwiththekids.com/ep/modern-family/0303.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “You know, I'm gonna check the lease, but I'm pretty sure we're not allowed to have a meth lab.”
 
-## S3 E4 — 4. Door to Door
+## S3 E4 — Door to Door
 URL: https://watchwiththekids.com/ep/modern-family/0304.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -683,7 +683,7 @@ Watch for:
   - [Too much] “Okay, you know, Mitchell? Just go to work, okay? I'm gonna take Lily to school, and then when I get home, I'm gonna scrub this place like a crime scene, which it is, because you've murdered joy.”
   - [Too much] “You know that really dangerous intersection? Where desire meets jealousy, and the result is murder? Mnh-mnh.”
 
-## S3 E5 — 5. Hit and Run
+## S3 E5 — Hit and Run
 URL: https://watchwiththekids.com/ep/modern-family/0305.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -700,7 +700,7 @@ Watch for:
   - [Mild] “We figured if a 16-year-old could drive a tractor, he could drink a beer.”
   - [Mild] “…but they saw right through me, so me and a bunch of guys drove across state lines, we got a bunch of booze, we loaded up on fireworks, and I woke up in the morning-- I kid you not-- in a Mexican strip joint.”
 
-## S3 E6 — 6. Go Bullfrogs!
+## S3 E6 — Go Bullfrogs!
 URL: https://watchwiththekids.com/ep/modern-family/0306.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -719,7 +719,7 @@ Watch for:
   - [Mild] “Okay, well, Longinus did invite us to a boutique opening, you know, cocktails, DJ.”
   - [Mild] “All right, there's, like, a thousand people waiting for wine.”
 
-## S3 E7 — 7. Treehouse
+## S3 E7 — Treehouse
 URL: https://watchwiththekids.com/ep/modern-family/0307.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -729,7 +729,7 @@ Watch for:
   - [Mild] “Wanna eat at home? I'll grill some steaks, open a bottle of wine.”
   - [Mild] “Only thing that bothers me is that drunken Amish roof you got up there.”
 
-## S3 E8 — 8. After the Fire
+## S3 E8 — After the Fire
 URL: https://watchwiththekids.com/ep/modern-family/0308.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -744,7 +744,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Daddy, can I have a sip of your beer, please? Oh, my God.”
 
-## S3 E9 — 9. Punkin Chunkin
+## S3 E9 — Punkin Chunkin
 URL: https://watchwiththekids.com/ep/modern-family/0309.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -753,7 +753,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “The aspirin gun.”
 
-## S3 E10 — 10. Express Christmas
+## S3 E10 — Express Christmas
 URL: https://watchwiththekids.com/ep/modern-family/0310.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -764,7 +764,7 @@ Watch for:
   - [Mild] “Oh,what do you think it is,a ring? - Was there wine with this cork? - Yes,there was,and we drank it on Oh,we drank it on,uh eh? Yeah.”
   - [Mild] “How would I have remembered having had wine with my son's boyfriend? No,I do this.”
 
-## S3 E11 — 11. Lifetime Supply
+## S3 E11 — Lifetime Supply
 URL: https://watchwiththekids.com/ep/modern-family/0311.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -772,14 +772,14 @@ Watch for:
   - [Too much] Stripper or strip-club material shows up in the plot.
   - [Too much] “Once, when Manny was 6, Javier took him to the petting zoo, which later, I found out that was the name of the stripper club.”
 
-## S3 E12 — 12. Egg Drop
+## S3 E12 — Egg Drop
 URL: https://watchwiththekids.com/ep/modern-family/0312.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “You don't wanna have sex, but you do want a baby.”
 
-## S3 E13 — 13. Little Bo Bleep
+## S3 E13 — Little Bo Bleep
 URL: https://watchwiththekids.com/ep/modern-family/0313.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -796,7 +796,7 @@ Watch for:
   - [Too much] “Stella is not suicidal.”
   - [Too much] “See? She was not trying to kill herself.”
 
-## S3 E14 — 14. Me? Jealous?
+## S3 E14 — Me? Jealous?
 URL: https://watchwiththekids.com/ep/modern-family/0314.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -809,7 +809,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “…her best friend-- kind of like "The Help," except Delilah was white, and was actually herself quite the racist.”
 
-## S3 E15 — 15. Aunt Mommy
+## S3 E15 — Aunt Mommy
 URL: https://watchwiththekids.com/ep/modern-family/0315.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
@@ -818,7 +818,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What was I thinking? I-I-I just get drunk and I bring a baby into the world? That would be 4 for 4.”
 
-## S3 E16 — 16. Virgin Territory
+## S3 E16 — Virgin Territory
 URL: https://watchwiththekids.com/ep/modern-family/0316.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -831,7 +831,7 @@ Watch for:
   - [Mild] “We had a steak dinner, you gave me my first beer, and, uh It was one of the greatest days we ever spent together.”
   - [Mild] “Anyway, I came out with a couple of beers.”
 
-## S3 E17 — 17. Leap Day
+## S3 E17 — Leap Day
 URL: https://watchwiththekids.com/ep/modern-family/0317.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -846,7 +846,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Why don't you sit down, I send you over a beer, my wife and I watch from over there? That way, everybody enjoys the game-- except me, 'cause I prefer a game where something happens.”
 
-## S3 E18 — 18. Send Out the Clowns
+## S3 E18 — Send Out the Clowns
 URL: https://watchwiththekids.com/ep/modern-family/0318.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -863,7 +863,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Somebody had a flower that squirted Tequila.”
 
-## S3 E19 — 19. Election Day
+## S3 E19 — Election Day
 URL: https://watchwiththekids.com/ep/modern-family/0319.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -879,33 +879,33 @@ Watch for:
   - [Mild] “This city can do more - What the hell's wrong with her? - with the recycling program She sounds drunk! - currently - It's a tooth thing.”
   - [Mild] “Yeah! I-- I don't know about you, But, um I could use a glass of wine.”
 
-## S3 E20 — 20. The Last Walt
+## S3 E20 — The Last Walt
 URL: https://watchwiththekids.com/ep/modern-family/0320.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I will take that beer you were about to offer me, though.”
 
-## S3 E21 — 21. Planes, Train and Cars
+## S3 E21 — Planes, Train and Cars
 URL: https://watchwiththekids.com/ep/modern-family/0321.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “Bunny said he's on an amazing adventure having the time of his life, and that you should pick one of his best friends to sleep with while he's gone.”
 
-## S3 E22 — 22. Disneyland
+## S3 E22 — Disneyland
 URL: https://watchwiththekids.com/ep/modern-family/0322.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
-## S3 E23 — 23. Tableau Vivant
+## S3 E23 — Tableau Vivant
 URL: https://watchwiththekids.com/ep/modern-family/0323.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “I can't do this! This isn't the face of a cold-blooded hatchet man.”
 
-## S3 E24 — 24. Baby on Board
+## S3 E24 — Baby on Board
 URL: https://watchwiththekids.com/ep/modern-family/0324.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -921,7 +921,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “There are coyotes out here and-- and meth addicts! Every time, Cam.”
 
-## S4 E1 — 1. Bringing Up Baby
+## S4 E1 — Bringing Up Baby
 URL: https://watchwiththekids.com/ep/modern-family/0401.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -938,7 +938,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “It's gonna be great! I'm gonna get so fat.”
 
-## S4 E2 — 2. Schooled
+## S4 E2 — Schooled
 URL: https://watchwiththekids.com/ep/modern-family/0402.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -958,7 +958,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Don't slut up your college.”
 
-## S4 E3 — 3. Snip
+## S4 E3 — Snip
 URL: https://watchwiththekids.com/ep/modern-family/0403.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -968,7 +968,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “He had a little piece of bloody toilet paper on his neck.”
 
-## S4 E4 — 4. The Butler's Escape
+## S4 E4 — The Butler's Escape
 URL: https://watchwiththekids.com/ep/modern-family/0404.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -977,14 +977,14 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “So where does a kid go for some peace and quiet? Tell me right now if you're having an affair, and we will find some time later for me to kill you.”
 
-## S4 E5 — 5. Open House of Horrors
+## S4 E5 — Open House of Horrors
 URL: https://watchwiththekids.com/ep/modern-family/0405.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Why is Tyler's mommy so fat? Oh, that's because she has-- she has a baby in her belly.”
 
-## S4 E6 — 6. Yard Sale
+## S4 E6 — Yard Sale
 URL: https://watchwiththekids.com/ep/modern-family/0406.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1002,14 +1002,14 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “It was gorgeous Till she pulled it apart and spelled "homo" on my porch.”
 
-## S4 E7 — 7. Arrested
+## S4 E7 — Arrested
 URL: https://watchwiththekids.com/ep/modern-family/0407.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You are charged with public drunkenness, resisting arrest, and assaulting a police officer, all of which obviously violate our school's code of conduct.”
 
-## S4 E8 — 8. Mistery Date
+## S4 E8 — Mistery Date
 URL: https://watchwiththekids.com/ep/modern-family/0408.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1024,7 +1024,7 @@ Watch for:
   - [Mild] “More margaritas for us.”
   - [Mild] “You're gonna have two margaritas.”
 
-## S4 E9 — 9. When a Tree Falls
+## S4 E9 — When a Tree Falls
 URL: https://watchwiththekids.com/ep/modern-family/0409.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1035,12 +1035,12 @@ Watch for:
   - [Mild] “It's really sweet of you, Luke, but there's just gonna be a bunch of drunk drivers and vandalizers who were stupid enough to get caught.”
   - [Mild] “Jay, where you headed? Why don't you stick around and grab a beer with the dads? Oh, I don't really know those guys.”
 
-## S4 E10 — 10. Diamond in the Rough
+## S4 E10 — Diamond in the Rough
 URL: https://watchwiththekids.com/ep/modern-family/0410.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
-## S4 E11 — 11. New Year's Eve
+## S4 E11 — New Year's Eve
 URL: https://watchwiththekids.com/ep/modern-family/0411.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1063,7 +1063,7 @@ Watch for:
   - [Mild] “But you can always fish some out of a can of fruit cocktail.”
   - [Mild] “Oh! Who wants champagne? Oh, I'll have some.”
 
-## S4 E12 — 12. Party Crasher
+## S4 E12 — Party Crasher
 URL: https://watchwiththekids.com/ep/modern-family/0412.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1072,7 +1072,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “" And them I was like, "bam!" And then I slapped the study onto Charlie's desk, and Carol was like, "but--but--but--" and then I was like, "chu on that!" You said that? Well, not with my mouth.”
 
-## S4 E13 — 13. Fulgencio
+## S4 E13 — Fulgencio
 URL: https://watchwiththekids.com/ep/modern-family/0413.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1089,7 +1089,7 @@ Watch for:
   - [Mild] “Listen, we'd love to have you and the missus over for a glass of wine, or--or, uh, maybe you and I could go out for a boys' night.”
   - [Mild] “There is no husband! She's Lee! Weirdly deep-voiced, alcoholic, gay Lee Cooper who you invited out for a glass of wine!”
 
-## S4 E14 — 14. A Slight at the Opera
+## S4 E14 — A Slight at the Opera
 URL: https://watchwiththekids.com/ep/modern-family/0414.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1100,7 +1100,7 @@ Watch for:
   - [Mild] “How hard is it to support your own head? What the hell? Hello, boys.”
   - [Mild] “Oh, damn, you're good.”
 
-## S4 E15 — 15. Heart Broken
+## S4 E15 — Heart Broken
 URL: https://watchwiththekids.com/ep/modern-family/0415.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1118,7 +1118,7 @@ Watch for:
   - [Mild] “Like--like you've never had a few cocktails and died a cat pink with cherry kool-aid.”
   - [Mild] “And yet when I did that drunk, not a scratch.”
 
-## S4 E16 — 16. Bad Hair Day
+## S4 E16 — Bad Hair Day
 URL: https://watchwiththekids.com/ep/modern-family/0416.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1129,7 +1129,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Look, I've gotta run, but I'd love to have you guys by my apartment for a cocktail before dinner.”
 
-## S4 E17 — 17. Best Men
+## S4 E17 — Best Men
 URL: https://watchwiththekids.com/ep/modern-family/0417.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1153,14 +1153,14 @@ Watch for:
   - [Mild] “Yeah, we're out of vodka.”
   - [Mild] “I'm gonna go pop the champagne and get some glasses.”
 
-## S4 E18 — 18. The Wow Factor
+## S4 E18 — The Wow Factor
 URL: https://watchwiththekids.com/ep/modern-family/0418.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “…half a fish! That's a half a fish! There are certain queer times and occasions in this strange, mixed affair we call life when a man takes this whole universe for a vast practical joke Though the wit thereof he but…”
 
-## S4 E19 — 19. The Future Dunphys
+## S4 E19 — The Future Dunphys
 URL: https://watchwiththekids.com/ep/modern-family/0419.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1173,7 +1173,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I can't believe we wasted all that batter.”
 
-## S4 E20 — 20. Flip Flop
+## S4 E20 — Flip Flop
 URL: https://watchwiththekids.com/ep/modern-family/0420.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1195,7 +1195,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “That skank Zoey broke his heart.”
 
-## S4 E21 — 21. Career Day
+## S4 E21 — Career Day
 URL: https://watchwiththekids.com/ep/modern-family/0421.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1203,7 +1203,7 @@ Watch for:
   - [Caution] “When I had my first loose tooth, my mama tied one end of the string to it, and the other to the tail of a guernsey cow fired off a 12-gauge shotgun, and the cow went running out of the room.”
   - [Caution] “He came in with two price guns in holsters and marked our teacher at $1.”
 
-## S4 E22 — 22. My Hero
+## S4 E22 — My Hero
 URL: https://watchwiththekids.com/ep/modern-family/0422.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1216,7 +1216,7 @@ Watch for:
   - [Mild] “You're still in the running, but I'm not loving that you're drinking wine while watching my brother.”
   - [Mild] “Whoa, where'd you find that? - I know where you keep the beer, Jeff.”
 
-## S4 E23 — 23. Games People Play
+## S4 E23 — Games People Play
 URL: https://watchwiththekids.com/ep/modern-family/0423.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1230,7 +1230,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “This is that bottle of wine I bought Phil when he started his company.”
 
-## S4 E24 — 24. Goodnight, Gracie
+## S4 E24 — Goodnight, Gracie
 URL: https://watchwiththekids.com/ep/modern-family/0424.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1242,7 +1242,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “The Plimptons had a barbecue, and gram and I got a little tipsy on ginger margaritas.”
 
-## S5 E1 — 1. Suddenly, Last Summer
+## S5 E1 — Suddenly, Last Summer
 URL: https://watchwiththekids.com/ep/modern-family/0501.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1257,14 +1257,14 @@ Watch for:
   - [Mild] “So while we're at dinner, Claire is setting up two rocking chairs next to the fireplace, with a bottle of champagne.”
   - [Mild] “Patrick's hangover.”
 
-## S5 E2 — 2. First Days
+## S5 E2 — First Days
 URL: https://watchwiththekids.com/ep/modern-family/0502.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Don't you know how competitive it is out there? Stop pressuring me! You know, this is what happens to kids when they're not sexually active.”
 
-## S5 E3 — 3. Larry's Wife
+## S5 E3 — Larry's Wife
 URL: https://watchwiththekids.com/ep/modern-family/0503.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1274,7 +1274,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “For cocktail hour, they're creating a running waterfall onto which they're going to project a hologram of us embracing.”
 
-## S5 E4 — 4. Farm Strong
+## S5 E4 — Farm Strong
 URL: https://watchwiththekids.com/ep/modern-family/0504.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1292,7 +1292,7 @@ Watch for:
   - [Mild] “Now who's the Magoo? What the hell language was that? Did you see that fresh coat of nail polish? She never went to the doctor.”
   - [Mild] “That damn airline ran out of roast beef.”
 
-## S5 E5 — 5. The Late Show
+## S5 E5 — The Late Show
 URL: https://watchwiththekids.com/ep/modern-family/0505.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1304,7 +1304,7 @@ Watch for:
   - [Mild] “Doesn't the wine get the cow drunk? - Thank you.”
   - [Mild] “I bet Tequila would do it quicker.”
 
-## S5 E6 — 6. The Help
+## S5 E6 — The Help
 URL: https://watchwiththekids.com/ep/modern-family/0506.html
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1324,7 +1324,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Trust me, if I wanted to stab her, that skank be stabbed.”
 
-## S5 E7 — 7. A Fair to Remember
+## S5 E7 — A Fair to Remember
 URL: https://watchwiththekids.com/ep/modern-family/0507.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1341,7 +1341,7 @@ Watch for:
   - [Mild] “Bring me some wine.”
   - [Mild] “After Joe went down, I had a sip of beer by the pool, and a bottle broke.”
 
-## S5 E8 — 8. ClosetCon '13
+## S5 E8 — ClosetCon '13
 URL: https://watchwiththekids.com/ep/modern-family/0508.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1360,17 +1360,17 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Can I get a scotch and a white wine? Wow, rowdy crowd, huh? Trade shows -- people get away from their families, - get a little liquored up.”
 
-## S5 E9 — 9. The Big Game
+## S5 E9 — The Big Game
 URL: https://watchwiththekids.com/ep/modern-family/0509.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
-## S5 E10 — 10. The Old Man & the Tree
+## S5 E10 — The Old Man & the Tree
 URL: https://watchwiththekids.com/ep/modern-family/0510.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
-## S5 E11 — 11. And One to Grow On
+## S5 E11 — And One to Grow On
 URL: https://watchwiththekids.com/ep/modern-family/0511.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1378,7 +1378,7 @@ Watch for:
   - [Too much] “Am I right? Of corpse you are.”
   - [Caution] “He's been resisting, but it's in his blood.”
 
-## S5 E12 — 12. Under Pressure
+## S5 E12 — Under Pressure
 URL: https://watchwiththekids.com/ep/modern-family/0512.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1388,7 +1388,7 @@ Watch for:
   - [Caution] “Right now, you're teaching me how to be a little bitch.”
   - [Mild] “No! - My boots! This is a disaster! Save the seals! What -- what -- what -- what the hell? What did you do? Uh, I won a green award.”
 
-## S5 E13 — 13. Three Dinners
+## S5 E13 — Three Dinners
 URL: https://watchwiththekids.com/ep/modern-family/0513.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1405,7 +1405,7 @@ Watch for:
   - [Mild] “And you brought that bad wine that everybody hated.”
   - [Mild] “I feel like a Margarita.”
 
-## S5 E14 — 14. iSpy
+## S5 E14 — iSpy
 URL: https://watchwiththekids.com/ep/modern-family/0514.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1420,7 +1420,7 @@ Watch for:
   - [Mild] “Elmo's Fire"? Yes! Couple of wine coolers and some '80s Rob Lowe-- I can get into that.”
   - [Mild] “You want some red stuff that reminds you of wine? - Sure.”
 
-## S5 E15 — 15. The Feud
+## S5 E15 — The Feud
 URL: https://watchwiththekids.com/ep/modern-family/0515.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1429,7 +1429,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Son of a gun! He's actually okay.”
 
-## S5 E16 — 16. Spring-A-Ding-Fling
+## S5 E16 — Spring-A-Ding-Fling
 URL: https://watchwiththekids.com/ep/modern-family/0516.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1440,7 +1440,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Attaboy! Attaboy! A beer? Are you crazy? Where you going? You want some? He'll bring it to you.”
 
-## S5 E17 — 17. Other People's Children
+## S5 E17 — Other People's Children
 URL: https://watchwiththekids.com/ep/modern-family/0517.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1453,7 +1453,7 @@ Watch for:
   - [Mild] “You got any more questions, Luke? Just one Can I have a sip? The beer? Sure.”
   - [Mild] “My first drink of beer.”
 
-## S5 E18 — 18. Las Vegas
+## S5 E18 — Las Vegas
 URL: https://watchwiththekids.com/ep/modern-family/0518.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1468,7 +1468,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You want to tell me how you "accidentally" gave someone your key? You want to tell me why you spent all day sipping Tequila out of some guy's navel? - You saw that? - I guessed.”
 
-## S5 E19 — 19. A Hard Jay's Night
+## S5 E19 — A Hard Jay's Night
 URL: https://watchwiththekids.com/ep/modern-family/0519.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1481,7 +1481,7 @@ Watch for:
   - [Mild] “What?! I tried beer.”
   - [Mild] “It's just, you reach a certain age, and you start to wonder, "Am I everything I wanted to be?" I mean, am I selling houses, or am I just selling out? Anything else? Alex tried beer.”
 
-## S5 E20 — 20. Australia
+## S5 E20 — Australia
 URL: https://watchwiththekids.com/ep/modern-family/0520.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1493,7 +1493,7 @@ Watch for:
   - [Mild] “How did you get punched by a kangaroo? Really hard.”
   - [Mild] “You don't mind me saying, you look a bit beaten up.”
 
-## S5 E21 — 21. Sleeper
+## S5 E21 — Sleeper
 URL: https://watchwiththekids.com/ep/modern-family/0521.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1502,7 +1502,7 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “But then it dawned on me -- I was cheating on my wife with the red-hot memory of another woman.”
 
-## S5 E22 — 22. Message Received
+## S5 E22 — Message Received
 URL: https://watchwiththekids.com/ep/modern-family/0522.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1515,7 +1515,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You're drunk with power.”
 
-## S5 E23 — 23. The Wedding (1)
+## S5 E23 — The Wedding (1)
 URL: https://watchwiththekids.com/ep/modern-family/0523.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1526,7 +1526,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Now I'm just feeling racist.”
 
-## S5 E24 — 24. The Wedding (2)
+## S5 E24 — The Wedding (2)
 URL: https://watchwiththekids.com/ep/modern-family/0524.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1537,7 +1537,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “There once was a homo named Tucker Sal, stop.”
 
-## S6 E1 — 1. The Long Honeymoon
+## S6 E1 — The Long Honeymoon
 URL: https://watchwiththekids.com/ep/modern-family/0601.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1552,7 +1552,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh, is that today? So, listen, I have this boring cocktail thing at the office, but I should be home by 6:00, and then we can head to the party.”
 
-## S6 E2 — 2. Do Not Push
+## S6 E2 — Do Not Push
 URL: https://watchwiththekids.com/ep/modern-family/0602.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1569,7 +1569,7 @@ Watch for:
   - [Mild] “Maybe that's what those scientists are looking for -- Rebels! You know what? Who gives a hoot what those bastards want? No offense.”
   - [Mild] “Damn straight.”
 
-## S6 E3 — 3. The Cold
+## S6 E3 — The Cold
 URL: https://watchwiththekids.com/ep/modern-family/0603.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1578,7 +1578,7 @@ Watch for:
   - [Mild] “With a little bit of last night's wine.”
   - [Mild] “Okay, now I need some footage of me reacting to Jay's speech to replace the champagne sneeze, and I'll just drop that into another table full of people.”
 
-## S6 E4 — 4. Marco Polo
+## S6 E4 — Marco Polo
 URL: https://watchwiththekids.com/ep/modern-family/0604.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1593,7 +1593,7 @@ Watch for:
   - [Mild] “Do you know if Alex got my text? Your swipe-card wine.”
   - [Mild] “I spilled my wine in the tub.”
 
-## S6 E5 — 5. Won't You Be Our Neighbor
+## S6 E5 — Won't You Be Our Neighbor
 URL: https://watchwiththekids.com/ep/modern-family/0605.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1614,7 +1614,7 @@ Watch for:
   - [Mild] “The husband is a huge wine collector.”
   - [Mild] “The guys on the other side of this wall, they like to get drunk and play with their nail gun.”
 
-## S6 E6 — 6. Halloween 3: AwesomeLand
+## S6 E6 — Halloween 3: AwesomeLand
 URL: https://watchwiththekids.com/ep/modern-family/0606.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1631,7 +1631,7 @@ Watch for:
   - [Caution] “You lied just to make me feel bad? No, no -- we lied so that we could win with our zombie house o' whores! That is so messed up.”
   - [Caution] “Did you say "whores," or -- No, no.”
 
-## S6 E7 — 7. Queer Eyes, Full Hearts
+## S6 E7 — Queer Eyes, Full Hearts
 URL: https://watchwiththekids.com/ep/modern-family/0607.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1648,7 +1648,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “…who's tackling stereotypes? That on my team, prejudice is considered out of bounds? That we're blitzing bigotry, kicking intolerance, - and beating - Metaphors to death?”
 
-## S6 E8 — 8. Three Turkeys
+## S6 E8 — Three Turkeys
 URL: https://watchwiththekids.com/ep/modern-family/0608.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1663,7 +1663,7 @@ Watch for:
   - [Mild] “You two seem drunk.”
   - [Mild] “This will soak up the booze.”
 
-## S6 E9 — 9. Strangers in the Night
+## S6 E9 — Strangers in the Night
 URL: https://watchwiththekids.com/ep/modern-family/0609.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1679,7 +1679,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hey, you guys have a cat? Um, how about I freshen up that wine, huh? - Oh, no.”
 
-## S6 E10 — 10. Haley's 21st Birthday
+## S6 E10 — Haley's 21st Birthday
 URL: https://watchwiththekids.com/ep/modern-family/0610.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1696,7 +1696,7 @@ Watch for:
   - [Mild] “We're like catnip to drunken bachelorette party girls.”
   - [Mild] “Okay, so, a boy and a girl meet at a frat party and they both think each other is totally hot, so they pound their beers and head upstairs.”
 
-## S6 E11 — 11. The Day We Almost Died
+## S6 E11 — The Day We Almost Died
 URL: https://watchwiththekids.com/ep/modern-family/0611.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1710,7 +1710,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “Sophie threw a rock at me and you yelled, "you're so gay.”
 
-## S6 E12 — 12. The Big Guns
+## S6 E12 — The Big Guns
 URL: https://watchwiththekids.com/ep/modern-family/0612.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1731,7 +1731,7 @@ Watch for:
   - [Mild] “When I get drunk, I snore real loud, so I won't hear a thing.”
   - [Mild] “Here's your beer, Frank.”
 
-## S6 E13 — 13. Rash Decisions
+## S6 E13 — Rash Decisions
 URL: https://watchwiththekids.com/ep/modern-family/0613.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1746,7 +1746,7 @@ Watch for:
   - [Caution] “You're such a slut.”
   - [Caution] “You know it, slut.”
 
-## S6 E14 — 14. Valentine's Day 4: Twisted Sister
+## S6 E14 — Valentine's Day 4: Twisted Sister
 URL: https://watchwiththekids.com/ep/modern-family/0614.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1763,7 +1763,7 @@ Watch for:
   - [Mild] “I turn it on during cocktails, when I tend to forget she's even there.”
   - [Mild] “A little champagne, and dinner will be ready in 10 minutes.”
 
-## S6 E15 — 15. Fight or Flight
+## S6 E15 — Fight or Flight
 URL: https://watchwiththekids.com/ep/modern-family/0615.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1793,21 +1793,21 @@ Watch for:
   - [Caution] “I don't wanna sound like a sentimental softy but does anyone miss the drunken whore she used to be? Oh, I like the new Sal.”
   - [Caution] “What did this skank Sarah say to you? Huh.”
 
-## S6 E16 — 16. Connection Lost
+## S6 E16 — Connection Lost
 URL: https://watchwiththekids.com/ep/modern-family/0616.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “And you know what? This is all your fault because you two introduced this horny stranger into our lives.”
 
-## S6 E17 — 17. Closet? You'll Love It!
+## S6 E17 — Closet? You'll Love It!
 URL: https://watchwiththekids.com/ep/modern-family/0617.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] “Yep, Chase picked out these vintagey sunglasses that look like I could've been murdered at a cool house party in the '70s.”
 
-## S6 E18 — 18. Spring Break
+## S6 E18 — Spring Break
 URL: https://watchwiththekids.com/ep/modern-family/0618.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1825,7 +1825,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You don't have the foot sensitivity of a tramp champ.”
 
-## S6 E19 — 19. Grill, Interrupted
+## S6 E19 — Grill, Interrupted
 URL: https://watchwiththekids.com/ep/modern-family/0619.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1833,7 +1833,7 @@ Watch for:
   - [Mild] “A little early for tequila, isn't it? - It's for Luke.”
   - [Mild] “I've been drinking this tequila, and I cannot find the worm.”
 
-## S6 E20 — 20. Knock 'Em Down
+## S6 E20 — Knock 'Em Down
 URL: https://watchwiththekids.com/ep/modern-family/0620.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1859,7 +1859,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Mild] “You made me gay.”
 
-## S6 E21 — 21. Integrity
+## S6 E21 — Integrity
 URL: https://watchwiththekids.com/ep/modern-family/0621.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1881,7 +1881,7 @@ Watch for:
   - [Mild] “What the hell did you do? - I thought you sent me a message! - Have you lost your mind? Thank God it's still in one piece.”
   - [Mild] “I know that this job sucks, but it might actually lead to something.”
 
-## S6 E22 — 22. Patriot Games
+## S6 E22 — Patriot Games
 URL: https://watchwiththekids.com/ep/modern-family/0622.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1894,7 +1894,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “We'll fire up some steaks, pour a little wine, you pop into those short shorts I chase you around the living room that type of thing.”
 
-## S6 E23 — 23. Crying Out Loud
+## S6 E23 — Crying Out Loud
 URL: https://watchwiththekids.com/ep/modern-family/0623.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1904,7 +1904,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Who's Dan Signer? - I thought we were grabbing a beer at the club.”
 
-## S6 E24 — 24. American Skyper
+## S6 E24 — American Skyper
 URL: https://watchwiththekids.com/ep/modern-family/0624.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1920,7 +1920,7 @@ Watch for:
   - [Mild] “He comes in here eats all my food, drinks all my booze and never so much as does a dish.”
   - [Mild] “I was mad because you wasted your vote on Ralph Nader.”
 
-## S7 E1 — 1. Summer Lovin'
+## S7 E1 — Summer Lovin'
 URL: https://watchwiththekids.com/ep/modern-family/0701.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1937,7 +1937,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “He looks like the kind of guy you want to have a beer with, you know? We have one educator for every four children -- I have a question.”
 
-## S7 E2 — 2. The Day Alex Left for College
+## S7 E2 — The Day Alex Left for College
 URL: https://watchwiththekids.com/ep/modern-family/0702.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1954,7 +1954,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “After we tramp.”
 
-## S7 E3 — 3. The Closet Case
+## S7 E3 — The Closet Case
 URL: https://watchwiththekids.com/ep/modern-family/0703.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -1967,14 +1967,14 @@ Watch for:
   - [Mild] “What the hell? You can stay.”
   - [Mild] “The hell you are! Get! Get! [ Both grunting .]”
 
-## S7 E4 — 4. She Crazy
+## S7 E4 — She Crazy
 URL: https://watchwiththekids.com/ep/modern-family/0704.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Dudes, beer pong! Pong, pong, pong! Beers are in the fridge, bros.”
 
-## S7 E5 — 5. The Verdict
+## S7 E5 — The Verdict
 URL: https://watchwiththekids.com/ep/modern-family/0705.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -1997,7 +1997,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Maybe he'll bring one of those shirtless ab sluts I've seen on his Facebook page.”
 
-## S7 E6 — 6. The More You Ignore Me
+## S7 E6 — The More You Ignore Me
 URL: https://watchwiththekids.com/ep/modern-family/0706.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2014,7 +2014,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “We could fight that -- Say the cop was racist.”
 
-## S7 E7 — 7. Phil's Sexy, Sexy House
+## S7 E7 — Phil's Sexy, Sexy House
 URL: https://watchwiththekids.com/ep/modern-family/0707.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2032,7 +2032,7 @@ Watch for:
   - [Mild] “All right, now, I'm gonna go make some cocktails, - and then when that sun goes down â­- Mm-hmm.”
   - [Mild] “â­- I'll go get the cocktails.”
 
-## S7 E8 — 8. Clean Out Your Junk Drawer
+## S7 E8 — Clean Out Your Junk Drawer
 URL: https://watchwiththekids.com/ep/modern-family/0708.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2053,7 +2053,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I'm sorry! But I have to go pick up my son because my idiot ex-husband loaned his car to his latest Tinder whore.”
 
-## S7 E9 — 9. White Christmas
+## S7 E9 — White Christmas
 URL: https://watchwiththekids.com/ep/modern-family/0709.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2077,7 +2077,7 @@ Watch for:
   - [Too much] “You're sweating like a heroin addict.”
   - [Mild] “You owe her 25 margaritas!”
 
-## S7 E10 — 10. Playdates
+## S7 E10 — Playdates
 URL: https://watchwiththekids.com/ep/modern-family/0710.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2098,7 +2098,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “It's racist, daddy.”
 
-## S7 E11 — 11. Spread Your Wings
+## S7 E11 — Spread Your Wings
 URL: https://watchwiththekids.com/ep/modern-family/0711.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2110,7 +2110,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “They are always banging on your door with a beaker full of margaritas, and The nerd noise is deafening.”
 
-## S7 E12 — 12. Clean for a Day
+## S7 E12 — Clean for a Day
 URL: https://watchwiththekids.com/ep/modern-family/0712.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2125,7 +2125,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I love you way more than my beer making kit Oh, honey.”
 
-## S7 E13 — 13. Thunk in the Trunk
+## S7 E13 — Thunk in the Trunk
 URL: https://watchwiththekids.com/ep/modern-family/0713.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2144,7 +2144,7 @@ Watch for:
   - [Mild] “I'll get you a nice glass of wine to go with it.”
   - [Mild] “Okay, now, my -- mwah! -- Big jealous man, let's go and have some wine.”
 
-## S7 E14 — 14. The Storm
+## S7 E14 — The Storm
 URL: https://watchwiththekids.com/ep/modern-family/0714.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2168,7 +2168,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What? Would it help you to open up if I were to brush your hair? You mean in a hot way? I got us some wine.”
 
-## S7 E15 — 15. I Don't Know How She Does It
+## S7 E15 — I Don't Know How She Does It
 URL: https://watchwiththekids.com/ep/modern-family/0715.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2180,7 +2180,7 @@ Watch for:
   - [Mild] “When we had money, we spent it all on drunken sailors.”
   - [Mild] “You mean "like drunken sailors"? Sure.”
 
-## S7 E16 — 16. The Cover-Up
+## S7 E16 — The Cover-Up
 URL: https://watchwiththekids.com/ep/modern-family/0716.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2205,7 +2205,7 @@ Watch for:
   - [Too much] “I did not peg you for a racist.”
   - [Too much] “You need to know that my husband is the furthest thing from a racist.”
 
-## S7 E17 — 17. Express Yourself
+## S7 E17 — Express Yourself
 URL: https://watchwiththekids.com/ep/modern-family/0717.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2222,7 +2222,7 @@ Watch for:
   - [Mild] “" There's no vodka in a martini.”
   - [Mild] “Anyone want a cocktail? - You know how to make a Manhattan? - Yes.”
 
-## S7 E18 — 18. The Party
+## S7 E18 — The Party
 URL: https://watchwiththekids.com/ep/modern-family/0718.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2242,7 +2242,7 @@ Watch for:
   - [Mild] “A few weeks ago, we caught him with beer.”
   - [Mild] “Manny hates beer.”
 
-## S7 E19 — 19. Man Shouldn't Lie
+## S7 E19 — Man Shouldn't Lie
 URL: https://watchwiththekids.com/ep/modern-family/0719.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2260,7 +2260,7 @@ Watch for:
   - [Mild] “Good! Good! So, you guys are a Christian rock band? Water to Wine.”
   - [Mild] “What's this? If the mood strikes you, why don't you join us onstage, make some joyful noise? Man: Ladies and gentlemen, Water to Wine! [ Cheers and applause .]”
 
-## S7 E20 — 20. Promposal
+## S7 E20 — Promposal
 URL: https://watchwiththekids.com/ep/modern-family/0720.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2275,7 +2275,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I am so sorry, Phil, that I wasted your whole day, but I am more sorry of what I'm gonna do to your car! Gloria, we're above that.”
 
-## S7 E21 — 21. Crazy Train
+## S7 E21 — Crazy Train
 URL: https://watchwiththekids.com/ep/modern-family/0721.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2289,7 +2289,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “There's a wine-and-cheese reception.”
 
-## S7 E22 — 22. Double Click
+## S7 E22 — Double Click
 URL: https://watchwiththekids.com/ep/modern-family/0722.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2298,7 +2298,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “It's dark, and we shared an entire bottle of wine.”
 
-## S8 E1 — 1. The Tale of Three Cities
+## S8 E1 — The Tale of Three Cities
 URL: https://watchwiththekids.com/ep/modern-family/0801.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2320,7 +2320,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “My eyes are but lifeless orbs compared to -- Yeah, go get me a beer.”
 
-## S8 E2 — 2. A Stereotypical Day
+## S8 E2 — A Stereotypical Day
 URL: https://watchwiththekids.com/ep/modern-family/0802.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2337,7 +2337,7 @@ Watch for:
   - [Too much] “They're getting along great, and then one little spat, and her instinct is to go all baby bigot on him? Well -- and I say this with love -- she did just get back from spending a full summer with your family in Missouri.”
   - [Too much] “Well, that's interesting, because the minute it took me to accept the fact that my son was living a different kind of life than the one that I anticipated, Mitchell called me an old, straight, white bigot.”
 
-## S8 E3 — 3. Blindsided
+## S8 E3 — Blindsided
 URL: https://watchwiththekids.com/ep/modern-family/0803.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2351,7 +2351,7 @@ Watch for:
   - [Caution] “I'm running on a gun platform.”
   - [Caution] “What are you talking about? I'm talking about my guns.”
 
-## S8 E4 — 4. Weathering Heights
+## S8 E4 — Weathering Heights
 URL: https://watchwiththekids.com/ep/modern-family/0804.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2364,7 +2364,7 @@ Watch for:
   - [Mild] “This might be kind weird, but would you ever want to grab a beer? Sure.”
   - [Mild] “Three years ago, they gave me an "absolutely anything," and I wasted it on a Popsicle.”
 
-## S8 E5 — 5. Halloween 4: The Revenge of Rod Skyhook
+## S8 E5 — Halloween 4: The Revenge of Rod Skyhook
 URL: https://watchwiththekids.com/ep/modern-family/0805.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2385,7 +2385,7 @@ Watch for:
   - [Mild] “Is that a beer? It's not mine.”
   - [Mild] “Is that the same year your uncle got drunk and planted marbles?”
 
-## S8 E6 — 6. Grab It
+## S8 E6 — Grab It
 URL: https://watchwiththekids.com/ep/modern-family/0806.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2406,7 +2406,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You trampoline? I'm on my tramp like three nights a week! [Chuckles.]”
 
-## S8 E7 — 7. Thanksgiving Jamboree
+## S8 E7 — Thanksgiving Jamboree
 URL: https://watchwiththekids.com/ep/modern-family/0807.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2436,7 +2436,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Oh, well, Clark's head of the math club, and Tina's turned into a bit of a slut.”
 
-## S8 E8 — 8. The Alliance
+## S8 E8 — The Alliance
 URL: https://watchwiththekids.com/ep/modern-family/0808.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2449,7 +2449,7 @@ Watch for:
   - [Mild] “this morning, but can you go back and grab some wine for tonight? You got it.”
   - [Mild] “Red wine? - Oh, thanks.”
 
-## S8 E9 — 9. Snow Ball
+## S8 E9 — Snow Ball
 URL: https://watchwiththekids.com/ep/modern-family/0809.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2464,7 +2464,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Stop implying I'm a racist.”
 
-## S8 E10 — 10. Ringmaster Keifth
+## S8 E10 — Ringmaster Keifth
 URL: https://watchwiththekids.com/ep/modern-family/0810.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2475,7 +2475,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Nothing like a frozen margarita in a hot tub.”
 
-## S8 E11 — 11. Sarge & Pea
+## S8 E11 — Sarge & Pea
 URL: https://watchwiththekids.com/ep/modern-family/0811.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2495,7 +2495,7 @@ Watch for:
   - [Mild] “" Well, we'll see what her boy Brian says when he opens what Esquire Magazine called "the last under-counter wine fridge you'll ever need.”
   - [Mild] “Would anyone care for some champagne? - Oh, yeah.”
 
-## S8 E12 — 12. Do You Believe in Magic
+## S8 E12 — Do You Believe in Magic
 URL: https://watchwiththekids.com/ep/modern-family/0812.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2514,7 +2514,7 @@ Watch for:
   - [Mild] “If you don't come home smelling of light beer and chlorine, do not come home at all.”
   - [Mild] “But around her third beer, I suggested she have some water to stay hydrated.”
 
-## S8 E13 — 13. Do It Yourself
+## S8 E13 — Do It Yourself
 URL: https://watchwiththekids.com/ep/modern-family/0813.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2524,7 +2524,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “If you think you took his knife He's got another one.”
 
-## S8 E14 — 14. Heavy Is the Head
+## S8 E14 — Heavy Is the Head
 URL: https://watchwiththekids.com/ep/modern-family/0814.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2540,7 +2540,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Do you know what I went through in that well on October 14, 1987, while the whole world was focused on that media whore Jessica? - She was a baby, but yeah.”
 
-## S8 E15 — 15. Finding Fizbo
+## S8 E15 — Finding Fizbo
 URL: https://watchwiththekids.com/ep/modern-family/0815.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2559,7 +2559,7 @@ Watch for:
   - [Mild] “Along with some regular cocktails, am I right? Yeah! [Both laugh.]”
   - [Mild] “You go missing, then you mysteriously hurt your hand, and t Okay, okay there is lipstick in this mask, and it is it is the same shade as the lipstick on your beer.”
 
-## S8 E16 — 16. Basketball
+## S8 E16 — Basketball
 URL: https://watchwiththekids.com/ep/modern-family/0816.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2577,7 +2577,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “I'm sorry if that sounds racist.”
 
-## S8 E17 — 17. Pig Moon Rising
+## S8 E17 — Pig Moon Rising
 URL: https://watchwiththekids.com/ep/modern-family/0817.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2586,7 +2586,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Wait, Officer no! My car is only here because I was being responsible! I was babysitting my uncle Joe and got too drunk to drive home! [Grunts.]”
 
-## S8 E18 — 18. Five Minutes
+## S8 E18 — Five Minutes
 URL: https://watchwiththekids.com/ep/modern-family/0818.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2595,7 +2595,7 @@ Watch for:
   - [Mild] “You're drinking wine in your bathrobe with a come-from-nowhere cat.”
   - [Mild] “Ooh, should we order some champagne to celebrate? I can't believe my forecast was wrong.”
 
-## S8 E19 — 19. Frank's Wedding
+## S8 E19 — Frank's Wedding
 URL: https://watchwiththekids.com/ep/modern-family/0819.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2611,7 +2611,7 @@ Watch for:
   - [Caution] “"For man can no more survive without love "than a cooper without his billhook, "nor a whaler less his flensing knife.”
   - [Mild] “The family didn't want me to get back together with Beau on account of he's six-parts Chicopee and married, but I did it anyway, and now he's in County for punching a police horse in the face.”
 
-## S8 E20 — 20. All Things Being Equal
+## S8 E20 — All Things Being Equal
 URL: https://watchwiththekids.com/ep/modern-family/0820.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2628,7 +2628,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “And you were right I stayed away from mixers and I'm not hungover! See?! You can't lose if it's nothing but booze.”
 
-## S8 E21 — 21. Alone Time
+## S8 E21 — Alone Time
 URL: https://watchwiththekids.com/ep/modern-family/0821.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2642,7 +2642,7 @@ Watch for:
   - [Mild] “Help yourself to a glass of wine, my love.”
   - [Mild] “You could split the fish and steak and share the bottle of wine.”
 
-## S8 E22 — 22. The Graduates
+## S8 E22 — The Graduates
 URL: https://watchwiththekids.com/ep/modern-family/0822.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2662,7 +2662,7 @@ Watch for:
   - [Mild] “It's like when you drink too much and your friends get you super-wasted so you never drink again for the rest of the week.”
   - [Mild] “You know, I'm still kind of hungover.”
 
-## S9 E1 — 1. Lake Life
+## S9 E1 — Lake Life
 URL: https://watchwiththekids.com/ep/modern-family/0901.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2673,7 +2673,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Son of a gun.”
 
-## S9 E2 — 2. The Long Goodbye
+## S9 E2 — The Long Goodbye
 URL: https://watchwiththekids.com/ep/modern-family/0902.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2685,7 +2685,7 @@ Watch for:
   - [Mild] “It's the only nonsurgical way to prevent champagne chin.”
   - [Mild] “If it helps, he always orders from the HeartSmart side of my cocktail menu.”
 
-## S9 E3 — 3. Catch of the Day
+## S9 E3 — Catch of the Day
 URL: https://watchwiththekids.com/ep/modern-family/0903.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2705,7 +2705,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “He really shot up, huh? - (CELLPHONE DINGING, CHIMING) Anyway, in the weeks to come, - try and remember that, uh - (CELLPHONE DINGING, CHIMING) Wh That skank No way!”
 
-## S9 E4 — 4. Sex Lies Kickball
+## S9 E4 — Sex Lies Kickball
 URL: https://watchwiththekids.com/ep/modern-family/0904.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2724,7 +2724,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “This is when you sound racist! You come to town and you don't tell me? I ought to punch you in the neck, you son of a bitch.”
 
-## S9 E5 — 5. It's the Great Pumpkin, Phil Dunphy
+## S9 E5 — It's the Great Pumpkin, Phil Dunphy
 URL: https://watchwiththekids.com/ep/modern-family/0905.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2742,12 +2742,12 @@ Watch for:
   - [Mild] “I'd like to think that drinking beer makes my hair grow back, but life ain't fair.”
   - [Mild] “You suck! To think I wasted so much time on such a weepy, clingy, Pez-eating snore! I can't believe I sat there and pretended to be a doll as you brushed my hair! [CROWD MURMURING.]”
 
-## S9 E6 — 6. Ten Years Later
+## S9 E6 — Ten Years Later
 URL: https://watchwiththekids.com/ep/modern-family/0906.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
-## S9 E7 — 7. Winner Winner Turkey Dinner
+## S9 E7 — Winner Winner Turkey Dinner
 URL: https://watchwiththekids.com/ep/modern-family/0907.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2759,7 +2759,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh! - Wow! Cocktails are on me.”
 
-## S9 E8 — 8. Brushes with Celebrity
+## S9 E8 — Brushes with Celebrity
 URL: https://watchwiththekids.com/ep/modern-family/0908.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2774,7 +2774,7 @@ Watch for:
   - [Caution] “You know what? Let's go show him our delightful brand of bitchy friction.”
   - [Mild] “Who? He wrote "The Forgetters and the Forgotten"? "Farce, American Style"? "Screw You For Reading This"? What the hell is happening? Yes, that one, too! He's my favorite playwright.”
 
-## S9 E9 — 9. Tough Love
+## S9 E9 — Tough Love
 URL: https://watchwiththekids.com/ep/modern-family/0909.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2790,7 +2790,7 @@ Watch for:
   - [Mild] “Have more wine.”
   - [Mild] “I'll go get some more wine.”
 
-## S9 E10 — 10. No Small Feet
+## S9 E10 — No Small Feet
 URL: https://watchwiththekids.com/ep/modern-family/0910.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2808,7 +2808,7 @@ Watch for:
   - [Mild] “It's the brand of whiskey he drinks.”
   - [Mild] “I am so drunk.”
 
-## S9 E11 — 11. He Said She Shed
+## S9 E11 — He Said She Shed
 URL: https://watchwiththekids.com/ep/modern-family/0911.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2820,7 +2820,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh, so a glass of wine and a cigarette in the tub isn't cutting it anymore? I don't smoke, honey.”
 
-## S9 E12 — 12. Dear Beloved Family
+## S9 E12 — Dear Beloved Family
 URL: https://watchwiththekids.com/ep/modern-family/0912.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
@@ -2830,7 +2830,7 @@ Watch for:
   - [Mild] “I don't want some hungover freshman from Swarthmore getting his hands all over me.”
   - [Mild] “I'll grab some wine and you can meet me in the bedroom.”
 
-## S9 E13 — 13. In Your Head
+## S9 E13 — In Your Head
 URL: https://watchwiththekids.com/ep/modern-family/0913.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2844,7 +2844,7 @@ Watch for:
   - [Mild] “I even brought his favorite lunch shrimp cocktail and bourbon.”
   - [Mild] “And what's that red stain? Shrimp cocktail sauce, uh-oh.”
 
-## S9 E14 — 14. Spanks for the Memories
+## S9 E14 — Written in the Stars
 URL: https://watchwiththekids.com/ep/modern-family/0914.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2868,7 +2868,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Oh, to find out how racist our high-school friends are? No, to make people in our lives feel worse about their lives.”
 
-## S9 E15 — 15. Spanks for the Memories
+## S9 E15 — Spanks for the Memories
 URL: https://watchwiththekids.com/ep/modern-family/0915.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2884,7 +2884,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Okay, well, so why doesn't everyone just grab some appetizers and any wine that's already opened - Already opened wine.”
 
-## S9 E16 — 16. Wine Weekend
+## S9 E16 — Wine Weekend
 URL: https://watchwiththekids.com/ep/modern-family/0916.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2895,14 +2895,14 @@ Watch for:
   - [Mild] “When does the wine tasting start, because I can use it after the public bashing I've had to endure.”
   - [Mild] “I'm trying to get some wine in Gloria so she passes out early and I can sneak off and feed Stella.”
 
-## S9 E17 — 17. Royal Visit
+## S9 E17 — Royal Visit
 URL: https://watchwiththekids.com/ep/modern-family/0917.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “How many patents do you have? Headscratcher TM, Aspirin Gun, Polite Car Horn that'll put an end to road rage.”
 
-## S9 E18 — 18. Daddy Issues
+## S9 E18 — Daddy Issues
 URL: https://watchwiththekids.com/ep/modern-family/0918.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2913,7 +2913,7 @@ Watch for:
   - [Mild] “I'm gonna go and open a bottle of wine.”
   - [Mild] “Aw, you even found cans of the wine we used to like.”
 
-## S9 E19 — 19. CHiPs and Salsa
+## S9 E19 — CHiPs and Salsa
 URL: https://watchwiththekids.com/ep/modern-family/0919.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2923,7 +2923,7 @@ Watch for:
   - [Mild] “Looks like you got me dead Possum-punch! Possum-punch! Possum-punch! [LAUGHS.]”
   - [Mild] “I imagine that's what it feels like to punch a guy or or catch a ball while running.”
 
-## S9 E20 — 20. Mother!
+## S9 E20 — Mother!
 URL: https://watchwiththekids.com/ep/modern-family/0920.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2936,7 +2936,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What the hell? Does no one know what "upscale cocktail Hollywood glamour fabulous" means? - Hello.”
 
-## S9 E21 — 21. The Escape
+## S9 E21 — The Escape
 URL: https://watchwiththekids.com/ep/modern-family/0921.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2950,7 +2950,7 @@ Watch for:
   - [Mild] “You're not hungover.”
   - [Mild] “It's my favorite vodka.”
 
-## S9 E22 — 22. Clash of Swords
+## S9 E22 — Clash of Swords
 URL: https://watchwiththekids.com/ep/modern-family/0922.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2958,7 +2958,7 @@ Watch for:
   - [Too much] “You're plowing through the heartlands in an inchworm-green Camry with a bumper sticker that says "Meat is Murder.”
   - [Too much] “Slash, don't stab.”
 
-## S10 E1 — 1. I Love a Parade
+## S10 E1 — I Love a Parade
 URL: https://watchwiththekids.com/ep/modern-family/1001.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -2968,7 +2968,7 @@ Watch for:
   - [Mild] “Why the giant bottle of wine? It's for perspective, and nobody's asking that question.”
   - [Mild] “Aha! - Nuh-ha! You're the one who drove across town, paid $12 for parking and then an additional $2 for the yellow wristband for beer and medical tent access.”
 
-## S10 E2 — 2. Kiss And Tell
+## S10 E2 — Kiss And Tell
 URL: https://watchwiththekids.com/ep/modern-family/1002.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -2990,7 +2990,7 @@ Watch for:
   - [Mild] “Was it a peck? Was it with Pepper? Was he drunk? Did you get a peck from a pickled Pepper? How long have you been sitting on that? You kissed a man six week - Hi.”
   - [Mild] “You think my girlfriend is fake? Well, you didn't have any pictures, and at the bar, you said that her name was something like Olive Cocktail-napkin.”
 
-## S10 E3 — 3. A Sketchy Area
+## S10 E3 — A Sketchy Area
 URL: https://watchwiththekids.com/ep/modern-family/1003.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3004,7 +3004,7 @@ Watch for:
   - [Mild] “Watch out! What the hell?! You don't know about Zorbing? It promotes mind/body balance.”
   - [Mild] “How many heart attacks have you had here in the last five years? Zero? Where am I?! America loves closets, and I'm here to build them, damn it!”
 
-## S10 E4 — 4. Torn Between Two Lovers
+## S10 E4 — Torn Between Two Lovers
 URL: https://watchwiththekids.com/ep/modern-family/1004.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3016,7 +3016,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “why don't you guys join us in the kitchen? I'll grab us some wine.”
 
-## S10 E5 — 5. Good Grief
+## S10 E5 — Good Grief
 URL: https://watchwiththekids.com/ep/modern-family/1005.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3031,7 +3031,7 @@ Watch for:
   - [Mild] “Then one time, she overheard me talking about drinking dandelion wine with my with my grandma.”
   - [Mild] “The wine made me go blind for a bit, but - [CHUCKLES.]”
 
-## S10 E6 — 6. On the Same Paige
+## S10 E6 — On the Same Paige
 URL: https://watchwiththekids.com/ep/modern-family/1006.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3045,7 +3045,7 @@ Watch for:
   - [Mild] “I've been saving some occasion wine in my room.”
   - [Mild] “She deserves better than boxed wine.”
 
-## S10 E7 — 7. Did the Chicken Cross the Road?
+## S10 E7 — Did the Chicken Cross the Road?
 URL: https://watchwiththekids.com/ep/modern-family/1007.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3057,7 +3057,7 @@ Watch for:
   - [Mild] “Oh, let me get some champagne.”
   - [Mild] “Mi amor, can I get some wine? That was Estefan's father.”
 
-## S10 E8 — 8. Kids These Days
+## S10 E8 — Kids These Days
 URL: https://watchwiththekids.com/ep/modern-family/1008.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3074,7 +3074,7 @@ Watch for:
   - [Caution] “Come in, we're celebrating! And bring a knife so we can cut this into 20 pieces! Coach Tucker, students are a "protected class" and it is not okay for you, an elite white man of privilege, to bully them.”
   - [Caution] “Can I just say that if I had my gun in my purse, I would shoot myself.”
 
-## S10 E9 — 9. Putting Down Roots
+## S10 E9 — Putting Down Roots
 URL: https://watchwiththekids.com/ep/modern-family/1009.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3090,7 +3090,7 @@ Watch for:
   - [Mild] “I told him we were the honeymooners, and, as a joke, he threatened to punch Dede to the moon.”
   - [Mild] “Remember how you used to pick out my first day of school outfit so I wouldn't get beat up? Or how you'd hold the book while I read myself a bedtime story? And you're still doing it.”
 
-## S10 E10 — 10. Stuck in a Moment
+## S10 E10 — Stuck in a Moment
 URL: https://watchwiththekids.com/ep/modern-family/1010.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3101,7 +3101,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “…behind the one from our old babysitter? Mm, I believe he spoke the charming phrase, "And who is this whore?" Well, Christmas is at Grandpa's this year, so Cam will never see it.”
 
-## S10 E11 — 11. A Moving Day
+## S10 E11 — A Moving Day
 URL: https://watchwiththekids.com/ep/modern-family/1011.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3111,7 +3111,7 @@ Watch for:
   - [Mild] “Oh, but I thought we were gonna go to the Ojai Mime and Wine Festival for your birthday? Oh, yeah, maybe we shouldn't do the party, Mom.”
   - [Mild] “And he hates Central Valley wine.”
 
-## S10 E12 — 12. Blasts from the Past
+## S10 E12 — Blasts from the Past
 URL: https://watchwiththekids.com/ep/modern-family/1012.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3131,7 +3131,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh, Joe, so adorable, you look like a little Uncle Alvaro! One last touch the pocket watch, permanently broken at 3:30 after it stopped a bullet shot by a very drunk and jealous Florence Nightingale.”
 
-## S10 E13 — 13. Whanex?
+## S10 E13 — Whanex?
 URL: https://watchwiththekids.com/ep/modern-family/1013.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3142,7 +3142,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “It's funny you ask I went to a wine and cheese mixer at the Dean's house the other night.”
 
-## S10 E14 — 14. We Need to Talk About Lily
+## S10 E14 — We Need to Talk About Lily
 URL: https://watchwiththekids.com/ep/modern-family/1014.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3158,7 +3158,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “Wait, does he go to the bench overlooking the city where Ryan Gosling and Emma Stone tap danced into each other's hearts? - That's not so gay.”
 
-## S10 E15 — 15. Supershowerbabybowl
+## S10 E15 — Supershowerbabybowl
 URL: https://watchwiththekids.com/ep/modern-family/1015.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3169,7 +3169,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I wasted my time.”
 
-## S10 E16 — 16. Red Alert
+## S10 E16 — Red Alert
 URL: https://watchwiththekids.com/ep/modern-family/1016.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3179,7 +3179,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “" Wanna eat a whole sheet cake? Shut down a bad date? Smuggle some weed into a concert in your tampon box? Ain't nobody looking in there.”
 
-## S10 E17 — 17. The Wild
+## S10 E17 — The Wild
 URL: https://watchwiththekids.com/ep/modern-family/1017.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3192,7 +3192,7 @@ Watch for:
   - [Mild] “Um I go to U of A, and I'm super drunk.”
   - [Mild] “Come on, hurry up! A bet's a bet! I told you I could stand on one leg longer than you! You're the only one whose balance gets better after drinking a jug of whiskey.”
 
-## S10 E18 — 18. Stand By Your Man
+## S10 E18 — Stand By Your Man
 URL: https://watchwiththekids.com/ep/modern-family/1018.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3211,7 +3211,7 @@ Watch for:
   - [Mild] “Cowboy emcee: All right, folks, - we're about to kick off the beer relay! - [Cheering.]”
   - [Mild] “Beer relay! Come on, team! - I'm sorry, guys.”
 
-## S10 E19 — 19. Yes-Woman
+## S10 E19 — Yes-Woman
 URL: https://watchwiththekids.com/ep/modern-family/1019.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3221,7 +3221,7 @@ Watch for:
   - [Mild] “Did we go to a hospital last night? Okay, Grandma Tucker's hangover remedy Put a pat of butter underneath your tongue, tip your head back, and I'll pour the hot sauce up your nose.”
   - [Mild] “where you balance hats on your head, drink beer as a reward [Scottish accent.]”
 
-## S10 E20 — 20. Can't Elope
+## S10 E20 — Can't Elope
 URL: https://watchwiththekids.com/ep/modern-family/1020.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3236,7 +3236,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “If we said yes to everything, then we're no better than that whore Grumpy Cat.”
 
-## S10 E21 — 21. Commencement
+## S10 E21 — Commencement
 URL: https://watchwiththekids.com/ep/modern-family/1021.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3250,7 +3250,7 @@ Watch for:
   - [Mild] “The twins started kicking the second I picked up booze.”
   - [Mild] “If mathematics doesn't matter, then no one can be certain of anything, and I've just wasted the last four no, 16 years of my life, and there's no point in me graduating!”
 
-## S10 E22 — 22. A Year of Birthdays
+## S10 E22 — A Year of Birthdays
 URL: https://watchwiththekids.com/ep/modern-family/1022.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3268,7 +3268,7 @@ Watch for:
   - [Mild] “Vincent's a sloppy drunk.”
   - [Mild] “You're the sloppy drunk! Surprise! Here's a thing I realized You can't get older if you never have birthdays.”
 
-## S11 E1 — 1. New Kids on the Block
+## S11 E1 — New Kids on the Block
 URL: https://watchwiththekids.com/ep/modern-family/1101.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3278,7 +3278,7 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “I read the suicide rate here has plateaued.”
 
-## S11 E2 — 2. Snapped
+## S11 E2 — Snapped
 URL: https://watchwiththekids.com/ep/modern-family/1102.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3295,7 +3295,7 @@ Watch for:
   - [Mild] “Oh, gosh! Bridget! Are you trying to get me drunk? What What Okay, what's what's going on here? Well, Bridget and I are making pasta.”
   - [Mild] “Hey, you know what? Why don't you go open a bottle of wine? Okay.”
 
-## S11 E3 — 3. Perfect Pairs
+## S11 E3 — Perfect Pairs
 URL: https://watchwiththekids.com/ep/modern-family/1103.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3309,7 +3309,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Oh, my God, you guys, let's hurry! Hurrying where? Uh, there's a retrospective "Cher in the '70s: Gypsies, Tramps and Thieves.”
 
-## S11 E4 — 4. Pool Party
+## S11 E4 — Pool Party
 URL: https://watchwiththekids.com/ep/modern-family/1104.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3338,7 +3338,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “When I got married and moved to a mainly white neighborhood with kind of racist lawn statues, that was change.”
 
-## S11 E5 — 5. The Last Halloween
+## S11 E5 — The Last Halloween
 URL: https://watchwiththekids.com/ep/modern-family/1105.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3360,7 +3360,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Is that a beer? - [GASPS.]”
 
-## S11 E6 — 6. A Game of Chicken
+## S11 E6 — A Game of Chicken
 URL: https://watchwiththekids.com/ep/modern-family/1106.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3374,7 +3374,7 @@ Watch for:
   - [Mild] “Yeah, and we weren't even drunk yet.”
   - [Mild] “I think you were very drunk.”
 
-## S11 E7 — 7. The Last Thanksgiving
+## S11 E7 — The Last Thanksgiving
 URL: https://watchwiththekids.com/ep/modern-family/1107.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3388,7 +3388,7 @@ Watch for:
   - [Mild] “1 Okay, we still need wine, cheese, flowers Oh, we have to stop by the bakery.”
   - [Mild] “I like day drinking, but nothing beats being drunk with power.”
 
-## S11 E8 — 8. Tree's a Crowd
+## S11 E8 — Tree's a Crowd
 URL: https://watchwiththekids.com/ep/modern-family/1108.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3402,7 +3402,7 @@ Watch for:
   - [Mild] “Why don't the two of you enjoy your wine in the backyard while we finish setting up in here? What a lovely idea.”
   - [Mild] “What is Champagne.”
 
-## S11 E9 — 9. The Last Christmas
+## S11 E9 — The Last Christmas
 URL: https://watchwiththekids.com/ep/modern-family/1109.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3420,7 +3420,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “And why are you digging through my suitcase? - Uh - CLAIRE: Hey, Dad? Are you just gonna stand there while your wife calls me a tramp? I feel this is a risky time to weigh in.”
 
-## S11 E10 — 10. The Prescott
+## S11 E10 — The Prescott
 URL: https://watchwiththekids.com/ep/modern-family/1110.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
@@ -3430,7 +3430,7 @@ Watch for:
   - [Mild] “Can't say for whom, but let's include a glass of champagne in case his posh wife joins him.”
   - [Mild] “Your husband has asked that you meet him up in one of the rooftop hot tubs for some champagne.”
 
-## S11 E11 — 11. Legacy
+## S11 E11 — Legacy
 URL: https://watchwiththekids.com/ep/modern-family/1111.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
@@ -3441,7 +3441,7 @@ Watch for:
   - [Too much] “Of course, the only way you can destroy a real swooper is to stab its reflection during the Harvest Moon.”
   - [Caution] “Well, obviously, the gun won't be loaded.”
 
-## S11 E12 — 12. Dead on a Rival
+## S11 E12 — Dead on a Rival
 URL: https://watchwiththekids.com/ep/modern-family/1112.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3450,7 +3450,7 @@ Watch for:
   - [Mild] “As much as I enjoyed her pairing the glass of Chablis with my surprise shrimp cocktail, that's not a skill I need in an assistant.”
   - [Mild] “He planned a whole adventure! We'll drink tequila in Honduras.”
 
-## S11 E13 — 13. Paris
+## S11 E13 — Paris
 URL: https://watchwiththekids.com/ep/modern-family/1113.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
@@ -3467,7 +3467,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You're an Auguste clown, not a tramp.”
 
-## S11 E14 — 14. Spuds
+## S11 E14 — Spuds
 URL: https://watchwiththekids.com/ep/modern-family/1114.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:

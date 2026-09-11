@@ -128,6 +128,13 @@ KIDS_SHOW_IDS = {
     "clone-wars", "owl-house", "amphibia", "pokemon",
 }
 
+# Title overrides for known data quality issues from scrape sources
+TITLE_OVERRIDES: dict[str, dict[str, str]] = {
+    "modern-family": {
+        "0914": "Written in the Stars",
+    },
+}
+
 SHOW_META = {
     "seinfeld": {"name": "Seinfeld", "maze": "Seinfeld"},
     "spongebob": {"name": "SpongeBob SquarePants", "maze": "SpongeBob SquarePants"},
@@ -292,6 +299,11 @@ def normalize_ep(show_id: str, raw: dict, idx: int) -> dict:
     episode = raw.get("episode")
     title = clean_episode_title(raw.get("title") or "", raw.get("index_title") or "")
     file_rel = raw.get("file")
+    
+    # Apply title overrides for known data quality issues
+    code = raw.get("code") or episode_code(season or 0, episode or idx + 1)
+    if show_id in TITLE_OVERRIDES and code in TITLE_OVERRIDES[show_id]:
+        title = TITLE_OVERRIDES[show_id][code]
     if show_id == "friends":
         return {
             "season": raw["season"],

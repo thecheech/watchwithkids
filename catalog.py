@@ -34,6 +34,7 @@ _NUM_PREFIX = re.compile(
     r"^\s*(?:"
     r"s?\d{1,2}[ex]\d{1,3}"  # S01E06 / 1x06
     r"|\d{3,4}"  # production code 206
+    r"|[A-Z]{2,4}\d{2,3}"  # production code CHE01, AABF05, etc
     r")\s*(?:[-–—:.]\s*|\s+)",
     re.I,
 )
