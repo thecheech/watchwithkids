@@ -7,6 +7,7 @@ Buckets: 136 mild (1–2), 117 caution (3), 56 too much (4–5).
 ## S1 E1 — Human Flesh
 URL: https://watchwiththekids.com/ep/bobs-burgers/0101.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: In the series premiere episode, Bob rallies the team to cook up some business, so he sends middle child Gene to push samples in the streets, eldest daughter Tina to work the grill and youngest daughter Louise to staff the counter. The day takes an unexpected turn when the health inspector pays a visit because of a little rumor Louise started during "show and tell" at school.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] “But once that body's dead, It's, "hey, don't mistreat the dead body! "hey, don't eat the dead body!" That's the ultimate crime, right? Murder, no big deal.”
@@ -18,6 +19,7 @@ Watch for:
 ## S1 E2 — Crawl Space
 URL: https://watchwiththekids.com/ep/bobs-burgers/0102.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bob learns that Linda's mother is coming for a visit, he wants nothing to do with it. Linda has been cracking the whip at home, making sure every shelf has been dusted and every bed has been made. When she discovers a leak in the roof, she sends Bob to fix it, but he gets stuck in a wall, leaving Linda and the kids to entertain their guests and run the restaurant.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - [Caution] “Gene can sleep with me in my room As long as he doesn't mind my night terrors.”
@@ -32,6 +34,7 @@ Watch for:
 ## S1 E3 — Sacred Cow
 URL: https://watchwiththekids.com/ep/bobs-burgers/0103.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob treats the cow like a member of the family.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Like a sex tape.”
@@ -51,6 +54,7 @@ Watch for:
 ## S1 E4 — Sexy Dance Fighting
 URL: https://watchwiththekids.com/ep/bobs-burgers/0104.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “Jairo sleeps with his eyes open.”
@@ -62,6 +66,7 @@ Watch for:
 ## S1 E5 — Hamburger Dinner Theater
 URL: https://watchwiththekids.com/ep/bobs-burgers/0105.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “Like all their clothes? Well, maybe just a condom and a hat.”
@@ -90,6 +95,7 @@ Watch for:
 ## S1 E6 — Sheesh! Cab, Bob?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0106.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob takes a second job as a late-night cab driver to pay for Tina's party. Things keep getting worse for Bob when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -106,6 +112,7 @@ Watch for:
 ## S1 E7 — Bed & Breakfast
 URL: https://watchwiththekids.com/ep/bobs-burgers/0107.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: With a long weekend approaching, Linda sees an opportunity to capitalize on the tourist traffic by starting a bed and breakfast. But when the reservations are filled by some shady character, Louise plants listening devices all over the house to keep an ear on what's happening.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “You mean you're gonna watch beetles have sex with each other? Mm-hmm.”
@@ -127,6 +134,7 @@ Watch for:
 ## S1 E8 — Art Crawl
 URL: https://watchwiththekids.com/ep/bobs-burgers/0108.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Mild] “That means never holding back anything, right, pit stains? Am I showing? Let's just say your shirt looks like my underwear right now.”
@@ -143,6 +151,7 @@ Watch for:
 ## S1 E9 — Spaghetti Western and Meatballs
 URL: https://watchwiththekids.com/ep/bobs-burgers/0109.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bob and Gene start watching Spaghetti Western films, they wind up alienating Louise. As Gene takes pointers from the films on how to deal with his archrival at school, Tina takes out her aggression and fights her way through a conflict-resolution program.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “You're dead! Quiet! Sexual, sexual Okay, well, I'm gonna go get Gene and Louise from detention.”
@@ -163,6 +172,7 @@ Watch for:
 ## S1 E10 — Burger War
 URL: https://watchwiththekids.com/ep/bobs-burgers/0110.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bob's eccentric landlord, Mr. Fischoeder (guest voice Kline), pays the family a visit, he informs Bob that his rival across the street, Jimmy Pesto of Jimmy Pesto's Pizzeria, wants to take over Bob's lease so that he can expand his gift shop. With little time and not enough money, the Belcher family must cook up some business or luck to save the restaurant.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “fancy face take a trip to the sexy store? No.”
@@ -178,6 +188,7 @@ Watch for:
 ## S1 E11 — Weekend at Mort's
 URL: https://watchwiththekids.com/ep/bobs-burgers/0111.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob and his family are forced to spend the weekend at Mort the Mortician's (guest voice Kindler) while the restaurant is being de-molded. Linda and Bob double date with Mort and a female mortician he meets online (guest voice Sedaris) while Tina babysits Gene and Louise in Mort's crematorium.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “My boob? Yes.”
@@ -195,6 +206,7 @@ Watch for:
 ## S1 E12 — Lobsterfest
 URL: https://watchwiththekids.com/ep/bobs-burgers/0112.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: After the town's annual Lobsterfest is cancelled by a storm, Bob defiantly opens his doors for a festive celebration. When he wakes the next morning, Bob finds the restaurant in disarray and that the town has spurned him, but Bob won't let that deter him from further involvement in the celebratory weekend.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Too much] “I rub my genitals on the couch.”
@@ -211,6 +223,7 @@ Watch for:
 ## S1 E13 — Torpedo
 URL: https://watchwiththekids.com/ep/bobs-burgers/0113.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob's hero, a washed-up baseball player named Torpedo Jones (guest voice Garant), starts pitching for the local minor league team. Torpedo befriends Bob, but the dark underbelly of minor league baseball threatens to corrupt the Belchers.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “" That game, I had a pat of butter in my nostril, sex jelly in my armpit Hell, I was on prescription drugs to stimulate production of earwax.”
@@ -227,6 +240,7 @@ Watch for:
 ## S2 E1 — The Belchies
 URL: https://watchwiththekids.com/ep/bobs-burgers/0201.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The kids hunt for treasure in an abandoned taffy factory and Bob and Linda must find them before the factory's scheduled demolition.
 Watch for:
 - Sex & hookups — 5 moment(s)
   - [Caution] “A horny baby.”
@@ -248,6 +262,7 @@ Watch for:
 ## S2 E2 — Bob Day Afternoon
 URL: https://watchwiththekids.com/ep/bobs-burgers/0202.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: A bank robber (guest star Hader) holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “Shake 'em loose, Bob! Let's Go! I'm trying! They're not letting me go! I have too many unanswered questions! What is sex?! Gene, just let go! I don't know what sex is! I said, I'm coming! Bob! Come back safe, Bobby.”
@@ -271,6 +286,7 @@ Watch for:
 ## S2 E3 — Synchronized Swimming
 URL: https://watchwiththekids.com/ep/bobs-burgers/0203.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Oh, last night, I dreamt I was breast-feeding Gene again, and he had a long white beard like Santa Claus.”
@@ -279,6 +295,7 @@ Watch for:
 ## S2 E4 — Burgerboss
 URL: https://watchwiththekids.com/ep/bobs-burgers/0204.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes "BOB SUX" on the leader board.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “He had sex, then we happened! Deal with it! I was wrong about you.”
@@ -295,6 +312,7 @@ Watch for:
 ## S2 E5 — Food Truckin'
 URL: https://watchwiththekids.com/ep/bobs-burgers/0205.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the "Lolla-Pa-Foods-A-Festival," the Belcher kids' mischief causes the foodies and other truck owners to riot against them.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “I don't want to die a virgin.”
@@ -318,6 +336,7 @@ Watch for:
 ## S2 E6 — Dr. Yap
 URL: https://watchwiththekids.com/ep/bobs-burgers/0206.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help.
 Watch for:
 - Sex & hookups — 6 moment(s)
   - [Caution] “Whatever she needs?! What if, what if she wants to have sex with me? Whatever she needs.”
@@ -338,6 +357,7 @@ Watch for:
 ## S2 E7 — Moody Foodie
 URL: https://watchwiththekids.com/ep/bobs-burgers/0207.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When the restaurant receives a bad review from a food critic, the Belchers fear that the negative press will keep customers away. When Bob shows up at the critic's house for a redo, his plan quickly spirals out of control when the kids and his fellow restaurant owners show up to support him.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Like my underwear.”
@@ -352,6 +372,7 @@ Watch for:
 ## S2 E8 — Bad Tina
 URL: https://watchwiththekids.com/ep/bobs-burgers/0208.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina starts hanging out with bad girl Tammy (guest star Jenny Slate, "Saturday Night Live") in an effort to get closer to Jimmy Junior (H. Jon Benjamin).
 Watch for:
 - Violence & injury — 3 moment(s)
   - [Mild] “Don't be such a boob punch.”
@@ -370,6 +391,7 @@ Watch for:
 ## S2 E9 — Beefsquatch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0209.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “So, how about we take this to the next level? You wanna make out? Okay, on three.”
@@ -382,6 +404,7 @@ Watch for:
 ## S3 E1 — Ear-sy Rider
 URL: https://watchwiththekids.com/ep/bobs-burgers/0301.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader "Horny Dave." Meanwhile, Louise (Kristen Schaal) has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - [Caution] “This was Horny Dave's favorite jam.”
@@ -408,6 +431,7 @@ Watch for:
 ## S3 E2 — Full Bars
 URL: https://watchwiththekids.com/ep/bobs-burgers/0302.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: In BOB'S BURGERS' first-ever Halloween-themed episode, the Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual "Black and Orange" party.
 Watch for:
 - Nudity & bodies — 6 moment(s)
   - [Mild] “"We are getting our boobs ready.”
@@ -429,6 +453,7 @@ Watch for:
 ## S3 E3 — Bob Fires the Kids
 URL: https://watchwiththekids.com/ep/bobs-burgers/0303.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers (guest voices and real-life spouses Nick Offerman and Megan Mullally), who hire the Belcher kids as "weed pickers." Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “It's not a sex thing, though, so Okay, I guess I'll keep these resumés on file.”
@@ -450,6 +475,7 @@ Watch for:
 ## S3 E4 — Mutiny on the Windbreaker
 URL: https://watchwiththekids.com/ep/bobs-burgers/0304.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “Whoo, throw a ripped wedding dress on this daiquiri 'cause it is not a virgin! Go ahead and give yourself a big tip on goldie.”
@@ -459,6 +485,7 @@ Watch for:
 ## S3 E5 — An Indecent Thanksgiving Proposal
 URL: https://watchwiththekids.com/ep/bobs-burgers/0305.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: In the series' first-ever Thanksgiving episode, it's Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder (guest star Kevin Kline) needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “Calvin, your sperm did wonderfully.”
@@ -484,6 +511,7 @@ Watch for:
 ## S3 E6 — The Deepening
 URL: https://watchwiththekids.com/ep/bobs-burgers/0306.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: In an homage to "Jaws," Bob's landlord and pier proprietor Mr. Fischoeder (guest voice Kevin Kline) buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] “Oh, my God, Linda Blair's boobs just popped out of her wet suit.”
@@ -497,6 +525,7 @@ Watch for:
 ## S3 E7 — Tina-Rannosaurus Wrecks
 URL: https://watchwiththekids.com/ep/bobs-burgers/0307.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: After Tina accidentally wrecks the car, and gets the whole family involved with a slimy insurance agent (guest voice Bob Odenkirk), she worries that she's a "jinx".
 Watch for:
 - Violence & injury — 3 moment(s)
   - [Too much] “His last wish was to be buried at the house he was murdered in.”
@@ -512,6 +541,7 @@ Watch for:
 ## S3 E8 — The Unbearable Like-Likeness of Gene
 URL: https://watchwiththekids.com/ep/bobs-burgers/0308.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After Gene gets suckered into dating Courtney (guest voice David Wain), his first girlfriend ever, the entire family wants him to break up with her when they decide she's totally annoying. But when Gene finally musters up the courage to end things, he falters after discovering that Courtney's father (guest voice John Michael Higgins ) writes jingles and could possibly launch his music career.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “Don't blame us, fatty! Lookin' good! Aw! Horny little grandpa.”
@@ -525,6 +555,7 @@ Watch for:
 ## S3 E9 — God Rest Ye Merry Gentle-Mannequins
 URL: https://watchwiththekids.com/ep/bobs-burgers/0309.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet (guest star Zach Galifianakis) living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “And there's only one sex shopping day till Christmas.”
@@ -544,6 +575,7 @@ Watch for:
 ## S3 E10 — Mother Daughter Laser Razor
 URL: https://watchwiththekids.com/ep/bobs-burgers/0310.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “And I'm gonna learn about sex from television, so I don't need that from you, either! Wait, maybe you should take some time to cool off.”
@@ -560,6 +592,7 @@ Watch for:
 ## S3 E11 — Nude Beach
 URL: https://watchwiththekids.com/ep/bobs-burgers/0311.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
+Summary: Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy (guest voice Fred Armisen), seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares.. well, everything else) to find Hugo and bring him back.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “…with a master plan And the ladies call me Tex And the one thing all the ladies know is I'm good at having Sex, sex, sex, sex, sex, sex, sex I leave my shirt on, that's okay Don't make me feel self-conscious, babe…”
@@ -590,6 +623,7 @@ Watch for:
 ## S3 E12 — Broadcast Wagstaff School News
 URL: https://watchwiththekids.com/ep/bobs-burgers/0312.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: There is a "Mad Pooper" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the "bottom" of the situation.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “It was like two babies climbin' on the same boob.”
@@ -599,6 +633,7 @@ Watch for:
 ## S3 E13 — My Fuzzy Valentine
 URL: https://watchwiththekids.com/ep/bobs-burgers/0313.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will "wow" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “If you like the same food or sex angles, you're compatible.”
@@ -615,6 +650,7 @@ Watch for:
 ## S3 E14 — Lindapendant Woman
 URL: https://watchwiththekids.com/ep/bobs-burgers/0314.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda thinks Bob doesn't appreciate her and quits the restaurant to work at a grocery store. In her absence, Bob tries - and fails - to run the place on his own and the kids are stuck in the middle of the marital mayhem. Meanwhile, things get romantic for Tina when she meets her potential soul mate while restocking the milk fridge.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “Oh, hey, nobody ever said I rock at my old job, and I was sleeping with the boss.”
@@ -632,6 +668,7 @@ Watch for:
 ## S3 E15 — O.T. The Outside Toilet
 URL: https://watchwiththekids.com/ep/bobs-burgers/0315.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: In an homage to "E.T. the Extra-Terrestrial," Gene finds an expensive talking toilet and befriends it. Together with Louise and Tina, the Belcher kids help the toilet hide from the evil toilet hunter.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Mild] “I'm a sexy grandma.”
@@ -649,6 +686,7 @@ Watch for:
 ## S3 E16 — Topsy
 URL: https://watchwiththekids.com/ep/bobs-burgers/0316.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Tina? - Tina? - Uh - Huh, how about this? - Huh, huh? - Uh - It's not using sex to sell.”
@@ -658,6 +696,7 @@ Watch for:
 ## S3 E17 — Two For Tina
 URL: https://watchwiththekids.com/ep/bobs-burgers/0317.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh and the two boys get into an epic dance-off for her heart.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Oh, my God, it's like a fairy tale! What a couple of sexy beasts! Can we just go? Hi, Jen.”
@@ -672,6 +711,7 @@ Watch for:
 ## S3 E18 — It Snakes a Village
 URL: https://watchwiththekids.com/ep/bobs-burgers/0318.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “I don't want all these old horny toads anywhere near my parents.”
@@ -690,6 +730,7 @@ Watch for:
 ## S3 E19 — Family Fracas
 URL: https://watchwiththekids.com/ep/bobs-burgers/0319.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show "Family Fracas!" To the dismay of the program's host, they keep winning and coming back each night - that is until their lucky streak comes to a suspicious end.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -700,6 +741,7 @@ Watch for:
 ## S3 E20 — The Kids Run the Restaurant
 URL: https://watchwiththekids.com/ep/bobs-burgers/0320.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: After Bob cuts his finger and faints at the sight of his own blood, Linda brings him to the hospital and leaves the kids home alone. Not ones to waste a golden opportunity, Tina, Gene and Louise transform the basement of the restaurant into a makeshift casino. But they get more than they gamble for when landlord Mr. Fischoeder (guest voice Kevin Kline) stops by and catches them in action.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Winner, winner, burger dinner! Louise, why are we in our underwear? So you don't steal any of that money you're counting.”
@@ -718,6 +760,7 @@ Watch for:
 ## S3 E21 — Boyz 4 Now
 URL: https://watchwiththekids.com/ep/bobs-burgers/0321.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: While accompanying Tina to a "Boyz 4 Now" concert, Louise develops a crush on one of the lead singers, Boo Boo - and is in disbelief that she actually likes a boy! Meanwhile, Gene gets creative - and slightly offensive - in a table-setting competition.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Give me the bad news! Aunt Gayle pepper-sprayed one of her cats because she thought he was an intruder trying to sexually assault her.”
@@ -730,6 +773,7 @@ Watch for:
 ## S3 E22 — Carpe Museum
 URL: https://watchwiththekids.com/ep/bobs-burgers/0322.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: While acting as a parent chaperone on the school's trip to the museum, Bob has a father-daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness and, on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Oh, like how my stepmom's on a sex strike till my dad fixes the VCR.”
@@ -746,6 +790,7 @@ Watch for:
 ## S3 E23 — The Unnatural
 URL: https://watchwiththekids.com/ep/bobs-burgers/0323.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: After Gene loses his confidence at his baseball game, Linda decides to sign him up for baseball camp. The only problem? She needs money to pay for it! Meanwhile, Tina discovers her love for espresso and becomes a caffeine addict.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -760,6 +805,7 @@ Watch for:
 ## S4 E1 — A River Runs Through Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/0401.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob, Linda and the kids go on a camping adventure and face the perils of nature...and Bob's intestines. Braving wild river rapids, eager squirrels and parent/child separation, the Belchers prove they are worth their mettle.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “Your father and I are being held hostage by the horny hermits.”
@@ -776,11 +822,13 @@ Watch for:
 ## S4 E2 — Fort Night
 URL: https://watchwiththekids.com/ep/bobs-burgers/0402.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse, when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie,.
 Watch for: nothing flagged.
 
 ## S4 E3 — Seaplane!
 URL: https://watchwiththekids.com/ep/bobs-burgers/0403.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of "Upskirt Kurt", the most charming pilot in the air.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “Something about Quippiquisset just makes people horny as hell.”
@@ -807,6 +855,7 @@ Watch for:
 ## S4 E4 — My Big Fat Greek Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/0404.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob scores a temporary gig as a cook at an "underdog" frat house and discovers that he fits right in! Hijinks ensue as Bob and the rest of the fraternity brothers find themselves in the middle of a collegiate prank war that involves the house's most famous alumnus, Dr. Yap. Meanwhile, the kids are on a mission to invade the frat house and get in on the action.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “Linda swears by this thing, don't you, Linda? You know, because of your problems with your husband? Yeah! Uh, Bob's got a condition that makes him, uh, sex bad.”
@@ -826,6 +875,7 @@ Watch for:
 ## S4 E5 — Turkey in a Can
 URL: https://watchwiththekids.com/ep/bobs-burgers/0405.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “You want to mess around? What? I don't know, all these turkeys it makes me horny.”
@@ -837,6 +887,7 @@ Watch for:
 ## S4 E6 — Purple Rain-Union
 URL: https://watchwiththekids.com/ep/bobs-burgers/0406.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former band mates from, the Ta-Ta's, to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Mild] “Like three out of five of my sexy parts after I had kids.”
@@ -859,6 +910,7 @@ Watch for:
 ## S4 E7 — Bob and Deliver
 URL: https://watchwiththekids.com/ep/bobs-burgers/0407.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: To Tina's delight, Bob becomes the substitute "Home Ec" teacher at her school and ends up creating a full-scale restaurant in the classroom. However, her excitement is short-lived as Bob's position causes father/daughter friction. But when Gene and Louise go to work for Bob's "school" restaurant, Linda must fend for herself at the family's "other" restaurant .
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “You're not a virgin.”
@@ -875,6 +927,7 @@ Watch for:
 ## S4 E8 — Christmas In The Car
 URL: https://watchwiththekids.com/ep/bobs-burgers/0408.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: After Linda accidentally kills the family tree, the Belchers must go out on Christmas day to find a new one. But when Bob cuts off a giant candy cane truck, they are forced to outrun the madman driver and spend the entire holiday together in the car. Back at the Belcher home, Bob's friend, Teddy, accidentally gets stuck in the kids' Santa trap.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -888,6 +941,7 @@ Watch for:
 ## S4 E9 — Slumber Party
 URL: https://watchwiththekids.com/ep/bobs-burgers/0409.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda plans a surprise slumber party much to Tina's dismay and Tina does everything she can to get the girls to go home. Linda becomes infatuated with a family of racoon's that are getting into the restaurants dumpster.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “I think he just gave me the double guns.”
@@ -898,6 +952,7 @@ Watch for:
 ## S4 E10 — Presto Tina-o
 URL: https://watchwiththekids.com/ep/bobs-burgers/0410.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's "curse".
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “And while you're doing that, Linda's going to get me your biggest knife.”
@@ -906,6 +961,7 @@ Watch for:
 ## S4 E12 — The Frond Files
 URL: https://watchwiththekids.com/ep/bobs-burgers/0412.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob and Linda visit school and learn that their kids' essays about their fantasy version of Wagstaff are "too creative" and "offensive." Eugene transforms the school into a "Fart School for the Gifted" ; Tina, to her delight, depicts a world where she is romanced by countless zombie teenage boys; and Louise creates a school where she takes down a robotic Mr. Frond from the future.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Uh-oh, I'm listening to music on a portable tape player, and it's making me very curious about sex.”
@@ -915,6 +971,7 @@ Watch for:
 ## S4 E13 — Mazel Tina
 URL: https://watchwiththekids.com/ep/bobs-burgers/0413.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the Bfos. Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Spots are for underwear, Tina.”
@@ -924,6 +981,7 @@ Watch for:
 ## S4 E14 — Uncle Teddy
 URL: https://watchwiththekids.com/ep/bobs-burgers/0414.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Bob and Linda leave town for a romantic getaway, they ask Teddy to babysit Tina, Gene and Louise. While the 'rents are away, Teddy is eager to earn the coveted title of "Uncle Teddy" and does so by putting Tina's crush in his rightful place after discovering that he was just using her for - gasp - free burgers! Hijinks ensue.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “What's the holdup with those chips? Whoa, what am I looking at? There's a clog in there And it could be underwear.”
@@ -935,6 +993,7 @@ Watch for:
 ## S4 E15 — The Kids Rob a Train
 URL: https://watchwiththekids.com/ep/bobs-burgers/0415.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The Belchers take a trip on a train and, to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a "taste-off" with a snobby couple.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “" Like in the health and sexuality section at the bookstore.”
@@ -950,6 +1009,7 @@ Watch for:
 ## S4 E16 — I Get Psy-chic Out of You
 URL: https://watchwiththekids.com/ep/bobs-burgers/0416.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After predicting that a telemarketer is calling the restaurant when the phone rings, Linda and the kids believe that she is a psychic. Needless to say her "predictions" irk Bob and spell out hilarious happenings.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “Just do whatever you did for the knife! Ticktock! I'm still figuring out how this works! I don't know when it comes and goes.”
@@ -958,6 +1018,7 @@ Watch for:
 ## S4 E17 — The Equestranauts
 URL: https://watchwiththekids.com/ep/bobs-burgers/0417.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: In an homage to the "Bronies" subculture, Tina attends her first Equestra-con, a convention based on her favorite animated pony show, "The Equestranauts." To her surprise, she finds that the show's fans are middle-aged men. When a powerful super-fan tricks Tina out of her rare toy pony, it's up to Bob to go undercover to get it back.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Mild] “You're like a sexy spy.”
@@ -973,6 +1034,7 @@ Watch for:
 ## S4 E18 — Ambergris
 URL: https://watchwiththekids.com/ep/bobs-burgers/0418.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Gene, Louise, and Tina discover a seaweed-covered object at the beach that turns out to be a large hunk of Ambergris - an extremely valuable, but illegal, by-product of whale poop that is used in high-end perfumes. But Louise tries to cheat Gene and Tina out of the profit she hopes to make by selling the treasure on the black market. Meanwhile, Bob and Linda deal with their psychologically unstable landlord who is building them a new bathroom.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “Is that what sex will be like? Hey, Mr.”
@@ -983,6 +1045,7 @@ Watch for:
 ## S4 E19 — The Kids Run Away
 URL: https://watchwiththekids.com/ep/bobs-burgers/0419.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's "craziness".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “All right, sex time! Oh, my God, right.”
@@ -992,6 +1055,7 @@ Watch for:
 ## S4 E20 — Gene It On
 URL: https://watchwiththekids.com/ep/bobs-burgers/0420.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1000,6 +1064,7 @@ Watch for:
 ## S4 E21 — Wharf Horse
 URL: https://watchwiththekids.com/ep/bobs-burgers/0421.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Motivated by the promise of a new beachside burger joint, Bob conspires with Felix to convince Mr. Fischoeder to sell Wonder Wharf. Meanwhile, Tina protests the destruction of the wharf's carousel by chaining herself to it.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “And not the kind you give to decrepit old businesses, but the kind you give to hot, sexy, successful businesses.”
@@ -1011,6 +1076,7 @@ Watch for:
 ## S4 E22 — World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town -- Part II)
 URL: https://watchwiththekids.com/ep/bobs-burgers/0422.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “Like that time I texted mom that I was super horny when I was really super hungry.”
@@ -1037,6 +1103,7 @@ Watch for:
 ## S5 E1 — Work Hard or Die Trying, Girl
 URL: https://watchwiththekids.com/ep/bobs-burgers/0501.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Gene's "Die Hard"-inspired musical doesn't get picked for the school's fall performance, he decides to stage an underground show with the help of Louise. But Wagstaff Middle School families begin to feud when they learn that Eugene has planned his show on the very same night as Courtney's school-sanctioned "Working Girl"-inspired musical featuring Tina.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Gene, it's 9:30, and I have a lot of sweat in my underwear.”
@@ -1046,6 +1113,7 @@ Watch for:
 ## S5 E2 — Tina and the Real Ghost
 URL: https://watchwiththekids.com/ep/bobs-burgers/0502.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina begins an out-of-this-world romance with a ghost that is believed to be living in the Belcher's basement.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “It's like so You could cut the tension with a knife.”
@@ -1055,6 +1123,7 @@ Watch for:
 ## S5 E3 — Friends With Burger-fits
 URL: https://watchwiththekids.com/ep/bobs-burgers/0503.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. Meanwhile, the kids make an ice rink in the freezer, with Linda running their underground ice wrestling league.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Longest I've been naked in three years.”
@@ -1073,6 +1142,7 @@ Watch for:
 ## S5 E4 — Dawn Of The Peck
 URL: https://watchwiththekids.com/ep/bobs-burgers/0504.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the First Annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “…ho! I've got my finger on the trigger I ain't lettin' go Mama used to tell me Girl, you better load your gun up right She said, "You, you gotta come out smokin' Hit it with your best shot every time”
@@ -1091,6 +1161,7 @@ Watch for:
 ## S5 E5 — Best Burger
 URL: https://watchwiththekids.com/ep/bobs-burgers/0505.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob enters a burger-tasting contest, only to discover that his distinguishing ingredient is missing! To help out their dad, the kids go on a mission to find the ever-so-important black garlic.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Go to your mom's bra drawer and find the cash she thinks is secret.”
@@ -1104,6 +1175,7 @@ Watch for:
 ## S5 E6 — Father Of The Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/0506.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: At Bob's father's Christmas party, Bob and "Big Bob" rehash an old argument and try to outdo each other in the kitchen. Meanwhile, the kids compete to find the best gift for their dad.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] “Talking about your heart, Bob, not your nipple.”
@@ -1124,6 +1196,7 @@ Watch for:
 ## S5 E7 — Tina Tailor Soldier Spy
 URL: https://watchwiththekids.com/ep/bobs-burgers/0507.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina goes undercover in her old Thundergirls troop to find the mole who is giving away their cookie secrets. Meanwhile, Linda dyes her hair blonde.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “Belcher? - Don't say 'cause I'm your boss - 'Cause you're my boss - And you're my sexy assistant.”
@@ -1143,6 +1216,7 @@ Watch for:
 ## S5 E8 — Midday Run
 URL: https://watchwiththekids.com/ep/bobs-burgers/0508.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the powerful job. So, she enlists the help of Gene and Louise. Meanwhile, back at the restaurant, Linda gets artsy and begins to decorate the walls with customer artwork...on napkins.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “You made the wall sexy.”
@@ -1158,6 +1232,7 @@ Watch for:
 ## S5 E9 — Speakeasy Rider
 URL: https://watchwiththekids.com/ep/bobs-burgers/0509.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant Bob and Teddy partner up to serve Teddy's home-brewed beer on the sly.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “I know it's like we both won, but maybe we both don't need to sleep with the trophy, huh? Okay, one more night.”
@@ -1179,6 +1254,7 @@ Watch for:
 ## S5 E10 — Late Afternoon In The Garden Of Bob And Louise
 URL: https://watchwiththekids.com/ep/bobs-burgers/0510.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: In order to become an accepted member of the Community Garden, Bob must make a deal that results in giving Louise's enemy a job at the restaurant. Father and daughter are at odds and a choice must be made.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “If you have to sleep with her to get in, it's okay.”
@@ -1197,6 +1273,7 @@ Watch for:
 ## S5 E11 — Can't Buy Me Math
 URL: https://watchwiththekids.com/ep/bobs-burgers/0511.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina teams up with Darryl to win the Cupid's Couple contest at the school dance. Meanwhile, Linda plans a full week of ambitious Valentine's Day activities for her and Bob.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “Okay, uh "Sexy cooking.”
@@ -1205,6 +1282,7 @@ Watch for:
 ## S5 E12 — The Millie-churian Candidate
 URL: https://watchwiththekids.com/ep/bobs-burgers/0512.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina and Louise volunteer to run Jimmy Junior's class president campaign in order to keep Millie from winning, and ruining the school. Meanwhile, Bob becomes obsessed with a knife after talking himself into buying it for $300.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “What? A kitchen knife for $300.”
@@ -1215,6 +1293,7 @@ Watch for:
 ## S5 E13 — The Gayle Tales
 URL: https://watchwiththekids.com/ep/bobs-burgers/0513.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda's sister, Gayle, arrives at Bob's Burgers in tears because her date for the evening was cancelled and she had theater tickets!!! Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's "date" for the evening via an essay contest.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Where's my sexy fiancÃ©?! Where is he?! Bob! Uh, here I am.”
@@ -1233,6 +1312,7 @@ Watch for:
 ## S5 E14 — L'il Hard Dad
 URL: https://watchwiththekids.com/ep/bobs-burgers/0514.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob becomes obsessed with his new automatic helicopter. When it falls apart for no reason, he enters into a battle with the manufacturer in order to receive a refund. Gene assists Bob in his quest, but things quickly get out of hand and end in a crazy helicopter battle. Meanwhile, Louise and Linda help Tina prepare for her oral book report.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Too much] “Dad! You're shooting BBs at me! Ow! That one hit me in the nipple!”
@@ -1246,6 +1326,7 @@ Watch for:
 ## S5 E15 — Adventures In Chinchilla-sitting
 URL: https://watchwiththekids.com/ep/bobs-burgers/0515.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob and Linda head out on the town for a date - but to Linda's dismay, Bob's idea of romance proves "trivial." Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Or sex determination.”
@@ -1262,6 +1343,7 @@ Watch for:
 ## S5 E16 — The Runaway Club
 URL: https://watchwiththekids.com/ep/bobs-burgers/0516.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The kids are sentenced to Saturday detention and will do anything it takes to leave early, so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe they are being scammed by a young girl at the restaurant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “And I'm gonna sleep with my eyes open.”
@@ -1277,6 +1359,7 @@ Watch for:
 ## S5 E17 — Itty Bitty Ditty Committee
 URL: https://watchwiththekids.com/ep/bobs-burgers/0517.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Gene starts a band with Tina, Louise, Rudy, Peter and Daryl, only to be kicked out and left on his own. After declaring that he will never play his Casio again, Tina and Louise join forces to help Gene rediscover his love of music. Meanwhile, Linda deals with a horrible armpit rash that has everyone disgusted!
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1287,6 +1370,7 @@ Watch for:
 ## S5 E18 — Eat, Spray, Linda
 URL: https://watchwiththekids.com/ep/bobs-burgers/0518.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “We're coming in! Put your boobs away.”
@@ -1303,6 +1387,7 @@ Watch for:
 ## S5 E19 — Housetrap
 URL: https://watchwiththekids.com/ep/bobs-burgers/0519.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: In true Belcher fashion, the family gets stuck in a terrible storm while up in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of a large beach home.
 Watch for:
 - Violence & injury — 4 moment(s)
   - [Too much] “Come on! Helen's not a murderer.”
@@ -1315,6 +1400,7 @@ Watch for:
 ## S5 E20 — Hawk & Chick
 URL: https://watchwiththekids.com/ep/bobs-burgers/0520.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob and Louise are thrilled when they meet Hawk, the star of their favorite samurai vs. monster movie series, and decide to engineer a father-daughter reunion.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Wait, so these movies are about traveling barbers who fight weird Japanese monsters? So, it's like a less sexual Incredible Hulk? Hmm? That's not a tree.”
@@ -1328,6 +1414,7 @@ Watch for:
 ## S5 E21 — The Oeder Games
 URL: https://watchwiththekids.com/ep/bobs-burgers/0521.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: With the threat of a rent increase on Ocean Avenue, Bob and the other tenants organize a rent strike only to discover they will have to compete with each other on the grounds of Mr. Fischoeder's estate in order to keep their rents reasonable.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “I-I run a sex shop, everybody.”
@@ -1353,6 +1440,7 @@ Watch for:
 ## S6 E1 — Sliding Bobs
 URL: https://watchwiththekids.com/ep/bobs-burgers/0601.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob notices that he has started to lose his hair. In a wave of nostalgia, Linda reminisces about Bob's mustache and how it made her fall for him years ago. Meanwhile, the kids tell their own versions of the story of how their parents met.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “Or it's sexy.”
@@ -1375,6 +1463,7 @@ Watch for:
 ## S6 E2 — The Land Ship
 URL: https://watchwiththekids.com/ep/bobs-burgers/0602.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The upcoming Land Ship parade could mean increased business for Bob, until he learns that two port-o-potties will be placed in front the restaurant. Meanwhile, Tina learns from her friends that she's boring, so she joins up with Jordan who has been vandalizing the school with graffiti. But when Jordan wants to spray graffiti on the Land Ship, Tina must decide between ruining the parade or disappointing her new crush.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Ugh, Tina, you're such a goody two boobs.”
@@ -1391,6 +1480,7 @@ Watch for:
 ## S6 E3 — The Hauntening
 URL: https://watchwiththekids.com/ep/bobs-burgers/0603.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: The Belchers are ready for an amazing Halloween! Louise reveals that she has never been scared before and the family sets out to visit a spooky haunted house. When trouble ensues following their visit, the Belchers find themselves in a zany situation more frightening than they bargained for!
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Too much] “What do you think it is? It's probably just a murderer.”
@@ -1399,6 +1489,7 @@ Watch for:
 ## S6 E4 — Gayle Makin' Bob Sled
 URL: https://watchwiththekids.com/ep/bobs-burgers/0604.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Gayle is injured, Linda sends Bob off to pick her up, so that she doesn't miss out on Thanksgiving festivities. But an unexpected snowstorm derails his trip home, and his epic plan to prepare the turkey is foiled. Bob then must put the fate of the turkey and the Belcher Thanksgiving in Linda's hands and spend time bonding with his sister-in-law.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Mild] “Had his head chopped off, skin removed, big ol' boobs It's Thanksgiving Thanksgiving for everybody 'Cept for Europeans.”
@@ -1413,6 +1504,7 @@ Watch for:
 ## S6 E5 — Nice-Capades
 URL: https://watchwiththekids.com/ep/bobs-burgers/0605.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When a grumpy mall Santa threatens the kids with the dreaded Naughty List, Gene, Tina and Louise decide to put on a musical performance spectacular to earn their spot on the Nice List. Can they change Santa's mind in time to save their Christmas? Find out.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1424,6 +1516,7 @@ Watch for:
 ## S6 E6 — The Cook, the Steve, the Gayle, & Her Lover
 URL: https://watchwiththekids.com/ep/bobs-burgers/0606.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bob throws a dinner party to bond with his new friend, Gayle uses the opportunity to introduce the family to her new love interest. Little does she know, Louise has a long-standing feud with Gayle's boyfriend and her niece will stop at nothing to break them apart. Calamity ensues as Bob attempts to impress his new buddy and the kids take action.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Frond make out?! Oh, yeah.”
@@ -1443,6 +1536,7 @@ Watch for:
 ## S6 E7 — The Gene and Courtney Show
 URL: https://watchwiththekids.com/ep/bobs-burgers/0607.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Gene and Courtney get their big break when they are asked to be the new hosts of the morning announcements, but their romantic history threatens to get in the way. Meanwhile, Tina's attempt to play Cupid goes tragically awry when she volunteers to spear-head the Valentine's Day carnation fundraiser.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “1 Ooh, whatcha doing? Making a sexy piggy bank? No, it's the collection box for the Donations 4 Carnations fund-raiser.”
@@ -1460,6 +1554,7 @@ Watch for:
 ## S6 E8 — Sexy Dance Healing
 URL: https://watchwiththekids.com/ep/bobs-burgers/0608.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After Bob slips on the sidewalk, he is forced to take legal action in order to pay for surgery. In a turn of events, Bob finds himself under the care of Jairo, who promises to help him heal without a doctor. Meanwhile, the kids create a fake law firm to settle their personal discrepancies.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Jairo said to arrive with an empty stomach, an open mind and no underwear.”
@@ -1473,6 +1568,7 @@ Watch for:
 ## S6 E9 — Sacred Couch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0609.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After a family vote rules against buying a new couch during TV Night, Louise takes matters into her own hands. The Belchers take sides as they are forced to decide whether memories are enough to keep their family sofa. Will they take the Sofa Queen's advice and learn to love a new couch.
 Watch for:
 - Swearing — 2 moment(s)
   - [Caution] “Son of a bitch.”
@@ -1481,6 +1577,7 @@ Watch for:
 ## S6 E10 — Lice Things Are Lice
 URL: https://watchwiththekids.com/ep/bobs-burgers/0610.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Tina volunteers alongside Nurse Liz, she finds herself involved in the biggest scandal to hit Wagstaff: a lice infestation. Meanwhile, Bob makes improvements to the restaurant that end up driving customers away. Can the Belchers juggle both a crisis at the restaurant and lice.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “When the Amish wanted to build a barn, did they do it themselves? No, Kelly McGillis took a sexy sponge bath and she got Harrison Ford to pitch in.”
@@ -1494,6 +1591,7 @@ Watch for:
 ## S6 E11 — House of 1000 Bounces
 URL: https://watchwiththekids.com/ep/bobs-burgers/0611.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When there is a bounce house crisis at Regular Sized Rudy's birthday party, the Belcher kids devise a scheme to save the day. Meanwhile, Bob deals with an unexpected guest at the restaurant and is forced to come to terms with a longstanding fear.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - [Too much] “DAINKO (high-pitched): Oh, yeah? Well, now I'm a hooker.”
@@ -1505,6 +1603,7 @@ Watch for:
 ## S6 E12 — Stand by Gene
 URL: https://watchwiththekids.com/ep/bobs-burgers/0612.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Yeah, don't get your boobs in a bunch.”
@@ -1516,6 +1615,7 @@ Watch for:
 ## S6 E13 — Wag the Hog
 URL: https://watchwiththekids.com/ep/bobs-burgers/0613.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: When Bob's longtime friend, Critter, finds himself in jail for unpaid parking tickets, the Belchers decide to do what they can to help him out. Meanwhile, Linda takes on a babysitting job that becomes more work than she signed up for.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1541,6 +1641,7 @@ Watch for:
 ## S6 E14 — The Hormone-iums
 URL: https://watchwiththekids.com/ep/bobs-burgers/0614.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Dottie Minerva comes down with a bad case of mono, Tina gets her shot as soloist of the Hormone-iums. But as she rehearses for the big assembly, Tina realizes that her role in the play could ruin her social status. Meanwhile, Linda strikes gold with a business plan that she thinks could make the Belchers rich.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “15! 15 cents from the sexy stylist on the stool.”
@@ -1558,6 +1659,7 @@ Watch for:
 ## S6 E15 — Pro Tiki Con Tiki
 URL: https://watchwiththekids.com/ep/bobs-burgers/0615.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Ooh, our counter's gonna look like a sexy hula dancer! Should I start wearing a coconut bra? No.”
@@ -1573,6 +1675,7 @@ Watch for:
 ## S6 E16 — Bye Bye Boo Boo
 URL: https://watchwiththekids.com/ep/bobs-burgers/0616.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto.
 Watch for:
 - Violence & injury — 6 moment(s)
   - [Too much] “Whoever shot him was good at shooting someone a lot.”
@@ -1592,6 +1695,7 @@ Watch for:
 ## S6 E17 — The Horse Rider-Er
 URL: https://watchwiththekids.com/ep/bobs-burgers/0617.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After finally convincing Bob and Linda to send her to horse camp, Tina realizes she has to part ways with Jericho, her imaginary horse. Meanwhile, Linda decides to create a restaurant camp in an attempt to make things fair for Gene and Louise.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I mean, I am happy with how my god's eye straw bra came out.”
@@ -1601,6 +1705,7 @@ Watch for:
 ## S6 E18 — Secret Admiral-irer
 URL: https://watchwiththekids.com/ep/bobs-burgers/0618.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who lead him to make some questionable choices.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “This hat was once a Tom Skerritt in Top Gun Halloween costume and now look at it.”
@@ -1612,6 +1717,7 @@ Watch for:
 ## S6 E19 — Glued, Where's My Bob?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0619.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: In the 100th episode of BOB'S BURGERS, the kids' goop war lands Bob in a sticky situation. The prank happens to occur on the same day that Skip Marooch calls to tell Bob that a journalist is coming to the restaurant to write a profile and the whole town gets involved.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “And you're waving a knife in my face, which is making me nervous, Lin.”
@@ -1620,6 +1726,7 @@ Watch for:
 ## S7 E1 — Flu-ouise
 URL: https://watchwiththekids.com/ep/bobs-burgers/0701.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside. After Louise vows that she will never forgive her family for their mistake, she falls into a wild fever dream filled with familiar faces, zany musical numbers and a crazy adventure.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] “And about your underwear.”
@@ -1641,6 +1748,7 @@ Watch for:
 ## S7 E2 — Sea Me Now
 URL: https://watchwiththekids.com/ep/bobs-burgers/0702.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Teddy organizes a day trip on his newly refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's prized eraser from the restaurant. Can both Teddy and Tina prove themselves?
 Watch for:
 - Affairs / cheating — 2 moment(s)
   - [Caution] “And didn't she cheat on you, like, a lot? Yes, but I was working seven, eight hours a day, five days a week sometimes.”
@@ -1662,6 +1770,7 @@ Watch for:
 ## S7 E3 — Teen-a Witch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0703.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. When Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose, who leads her to alternate and other-worldly methods of winning. Meanwhile, Bob is on a mission to figure out who is stealing his perfectly crafted pumpkins.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Wait, I thought we were gonna be sexy Judge Judys? No, Jocelyn, I'm gonna be a hot mess.”
@@ -1672,6 +1781,7 @@ Watch for:
 ## S7 E4 — They Serve Horses, Dont They
 URL: https://watchwiththekids.com/ep/bobs-burgers/0704.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in a full-blown investigation, led by Hugo and Ron. Will Bob crack under the pressure or will he lead the investigators to a huge victory?
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] “'Cause, uh, you're gonna scratch your nipples off.”
@@ -1694,6 +1804,7 @@ Watch for:
 ## S7 E5 — Large Brother, Where Fart Thou?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0705.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone. With the house to themselves, the younger Belchers find themselves in a sticky situation, while Bob and Linda get into surprising trouble with their accountant.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Remember when Mom put it under her shirt at the grocery store and pretended she had another boob, and then they made her buy it? (gasps) That was three years ago! We got to throw it.”
@@ -1710,6 +1821,7 @@ Watch for:
 ## S7 E6 — The Quirkducers
 URL: https://watchwiththekids.com/ep/bobs-burgers/0706.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When Mr. Frond's (guest voice David Herman) annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend. Unknowingly, Tina provides her holiday fan fiction as the subject matter and the kids get to work on their own version of the play. Meanwhile, Linda finds a potato with a striking resemblance to her late grandfather.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1726,6 +1838,7 @@ Watch for:
 ## S7 E7 — The Last Gingerbread House on the Left
 URL: https://watchwiththekids.com/ep/bobs-burgers/0707.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: As the Belchers prepare for Christmas, Bob gets an unexpected call from Mr. Fischoeder (guest star Kevin Kline) asking him to bring food to a party at his home. When Bob arrives, he discovers that he has gotten involved in an intense gingerbread house building competition with Mr. Fischoeder's rowdy group of friends. Meanwhile, Linda and Teddy try to inspire some Christmas cheer in the neighbors as they take the kids caroling.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1754,6 +1867,7 @@ Watch for:
 ## S7 E8 — Ex MachTina
 URL: https://watchwiththekids.com/ep/bobs-burgers/0708.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having an unexpected breakthrough with Jimmy Jr. Will technology be the thing that finally unites Tina with her biggest crush of all time? Find out.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Mom, I have a relationship now! A-And, yes, I've stopped changing socks and underwear, and, yes, it smells funny in here.”
@@ -1764,6 +1878,7 @@ Watch for:
 ## S7 E9 — Bob Actually
 URL: https://watchwiththekids.com/ep/bobs-burgers/0709.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “It demonstrates your virility and your sexual style.”
@@ -1779,6 +1894,7 @@ Watch for:
 ## S7 E10 — There's No Business Like Mr. Business Business
 URL: https://watchwiththekids.com/ep/bobs-burgers/0710.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: When Gayle's cat, Mr. Business, secures pet agent Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career. Ever the skeptic, Bob is prepared to shut it down, but learns that Mr. Business could be on the verge of his big break.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] “You can see his nipples.”
@@ -1791,6 +1907,7 @@ Watch for:
 ## S7 E11 — A Few 'Gurt Men
 URL: https://watchwiththekids.com/ep/bobs-burgers/0711.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock-trial. Meanwhile, Bob works with Jimmy Pesto to out a regular food-scammer.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I've never seen a man this naked be this smug.”
@@ -1798,6 +1915,7 @@ Watch for:
 ## S7 E12 — Like Gene For Chocolate
 URL: https://watchwiththekids.com/ep/bobs-burgers/0712.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When Gene learns that the formula for his favorite chocolate has changed, he works with the head of the company in an attempt to remedy the situation. Meanwhile, Bob gets wrapped up in one of Teddy's less-than-perfect plans.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1808,6 +1926,7 @@ Watch for:
 ## S7 E13 — The Grand Mama-Pest Hotel
 URL: https://watchwiththekids.com/ep/bobs-burgers/0713.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob. What could possibly go wrong? Find out.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “What would you call a weekend-long empowerment gathering for girls with speeches from important female leaders? Sex and the City 3.”
@@ -1823,6 +1942,7 @@ Watch for:
 ## S7 E14 — Aquaticism
 URL: https://watchwiththekids.com/ep/bobs-burgers/0714.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn from Linda's customer service skills;
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1833,6 +1953,7 @@ Watch for:
 ## S7 E15 — Ain't Miss Debatin'
 URL: https://watchwiththekids.com/ep/bobs-burgers/0715.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Louise talks her parents into helping sponsor her stop-motion photography with hamburger fllm; Then, when Tina is recruited by the debate team, she finds unexpected success and an even more unexpected relationship.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I want a president with both those things, with feelings, and lips and a butt and boobs if it's a woman.”
@@ -1850,6 +1971,7 @@ Watch for:
 ## S7 E16 — Eggs for Days
 URL: https://watchwiththekids.com/ep/bobs-burgers/0716.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The annual Easter egg hunt always brings out the competitive sides of Bob and Linda, but this time, the game goes awry. After the Belcher parents have a little too much fun hiding the eggs, the entire family is enlisted in finding the lone egg that is quickly rotting in its hiding place. Don't miss the calamity that ensues.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “Oh, I don't think I could sleep with this smell.”
@@ -1862,6 +1984,7 @@ Watch for:
 ## S7 E17 — Zero Larp Thirty
 URL: https://watchwiththekids.com/ep/bobs-burgers/0717.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Linda wins a contest to spend a dream weekend at the home where her favorite television show is filmed, things don't go quite as planned. Also, Teddy's back problems leave him stuck on the floor, while he babysits the kids.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “(sighs) I'm guessing you haven't been sleeping with a pillow between your knees, like we talked about? Dr.”
@@ -1876,6 +1999,7 @@ Watch for:
 ## S7 E18 — The Laser-inth
 URL: https://watchwiththekids.com/ep/bobs-burgers/0718.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Gene accompanies Bob on the last-ever rock-and-roll laser show at the planetarium and Linda and the girls go out for dinner at a wacky restaurant.
 Watch for:
 - Alcohol & drugs — 3 moment(s)
   - [Caution] “What are you mad about? Tickets, socks or marijuana? No.”
@@ -1885,6 +2009,7 @@ Watch for:
 ## S7 E19 — Thelma & Louise Except Thelma is Linda
 URL: https://watchwiththekids.com/ep/bobs-burgers/0719.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After Louise gets in trouble at school, Linda is forced to meet with Mr. Frond and potentially could lose her hard-earned position as the Wagstaff bake sale leader. When she finds out that her daughter was actually trying to help another student, Linda is torn between following school policy or her own moral code. Don't miss a dose of mother-daughter drama.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Anyway, I even got his underwear.”
@@ -1895,6 +2020,7 @@ Watch for:
 ## S7 E20 — Mom, Lies and Videotapes
 URL: https://watchwiththekids.com/ep/bobs-burgers/0720.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff. When Bob's outdated camcorder malfunctions, the kids perform a reimagined version of the pageant for Linda back at home. Will the kids' creative liberties be enough to make Linda feel the Mother's Day love?
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “It's got acid for blood, so it can hurt you even after you've killed it.”
@@ -1905,6 +2031,7 @@ Watch for:
 ## S7 E21 — Paraders of the Lost Float
 URL: https://watchwiththekids.com/ep/bobs-burgers/0721.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] “Oh, look! It's a naked juggler.”
@@ -1916,6 +2043,7 @@ Watch for:
 ## S7 E22 — Into the Mild
 URL: https://watchwiththekids.com/ep/bobs-burgers/0722.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bob finds out that the nearby wilderness equipment store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman. In true Bob fashion, he encounters a snafu that leaves him stuck in the store overnight to fend for himself. Meanwhile, Linda and the kids spend the night watching the rehearsal for Aunt Gayle's one-woman show.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “What's it called? It's called "My Boobs Are Down Here: Laughing and Aging and Raging and Laughing.”
@@ -1928,6 +2056,7 @@ Watch for:
 ## S8 E1 — Brunchsquatch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0801.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos. Meanwhile, Tina, Gene and Louise decide to help Mr. Fischoeder's brother hide from him.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “I'm a sexy little tiger.”
@@ -1950,6 +2079,7 @@ Watch for:
 ## S8 E2 — The Silence of the Louise
 URL: https://watchwiththekids.com/ep/bobs-burgers/0802.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case. Meanwhile, Teddy decides to get into the inspirational poster business, but ends up with mixed results.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -1971,6 +2101,7 @@ Watch for:
 ## S8 E3 — The Wolf of Wharf Street
 URL: https://watchwiththekids.com/ep/bobs-burgers/0803.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: On Halloween night, Linda tries to impress the kids by taking them to look for a wolf that has been terrorizing the town. Meanwhile, an injured and medicated Bob believes that Teddy has turned into a werewolf. Don't miss the spooks.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Doesn't Teddy look hot? I thought I ordered a scary nurse, but I guess I clicked on sexy nurse instead.”
@@ -1986,6 +2117,7 @@ Watch for:
 ## S8 E4 — Sit Me Baby One More Time
 URL: https://watchwiththekids.com/ep/bobs-burgers/0804.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Tina launches a babysitting enterprise, it is quickly derailed after her business nemesis, Tammy, is hired to work alongside her. Meanwhile, Bob and Linda check out their competition at a restaurant that's known for its burgers.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “I understand that you're being a boob pube.”
@@ -2000,6 +2132,7 @@ Watch for:
 ## S8 E5 — Thanks-Hoarding
 URL: https://watchwiththekids.com/ep/bobs-burgers/0805.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Teddy's family unexpectedly announces that they're coming for Thanksgiving, the Belchers reluctantly agree to pitch in. The preparation proves to be much more challenging than they had anticipated, especially upon discovering that Teddy is a secret hoarder.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “Time to take back Thanksgiving! Get ready for Turkey 2: Judgment Day! All right, let me get you a new shirt and, uh, maybe wipe the blood off your face.”
@@ -2013,6 +2146,7 @@ Watch for:
 ## S8 E6 — Bleakening Pts 1 & 2
 URL: https://watchwiththekids.com/ep/bobs-burgers/0806.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda is determined to host a party at the restaurant, in an effort to spread a little extra cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she quickly begins questioning all guests, including Marshmallow's friend – Art the Artist. However, the kids have their own theory, attributing the robbery to the anti-Santa – The Bleaken.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] GENE: “Dad's about to get horny! Where's the god-dang door? - BOB: Hey! (whoops) - What the? Over here! I'm the Christmas thief! The Bleaken is real.”
@@ -2036,6 +2170,7 @@ Watch for:
 ## S8 E8 — V for Valentine-detta
 URL: https://watchwiththekids.com/ep/bobs-burgers/0808.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: After a rough break up on Valentine's Day, the Belcher women have a limo girls' night out to make Tina feel better. Meanwhile, Bob and Gene have a trapeze experience that brings them closer.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “(yells) My bra unhooked.”
@@ -2053,6 +2188,7 @@ Watch for:
 ## S8 E9 — Y Tu Ga-Ga Tambien
 URL: https://watchwiththekids.com/ep/bobs-burgers/0809.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: When a new playground game is introduced, the school's social hierarchy is turned upside-down and Gene disapproves. Meanwhile, Linda fills in for the local library storyteller and pulls out all the stops to perfect her storyteller persona.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] “And there's the monkey's boobs.”
@@ -2071,6 +2207,7 @@ Watch for:
 ## S8 E10 — The Secret Ceramics Room of Secrets
 URL: https://watchwiththekids.com/ep/bobs-burgers/0810.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When the kids are given the task of making homemade gifts for their grandma's birthday, they set out to find a secret room filled with homemade ceramics which, according to urban legend, has been boarded up for years at their school. Meanwhile, Teddy starts a phone repair service and the adults become determined to improve his online rating.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “GENE: More like sexy-tary.”
@@ -2083,6 +2220,7 @@ Watch for:
 ## S8 E11 — Sleeping with the Frenemy
 URL: https://watchwiththekids.com/ep/bobs-burgers/0811.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina allows Tammy to spend Spring Break with the Belchers – and even plays Cupid, setting up Tammy with Brett, a boy from out of town. Then, Gene and Bob enlist the help of Dr. Yap in finding a replacement baby tooth to complete Linda's collection, after Gene loses his own.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Some kind of smarty-boobs speech that gets him over the hump.”
@@ -2092,6 +2230,7 @@ Watch for:
 ## S8 E12 — The Hurt Soccer
 URL: https://watchwiththekids.com/ep/bobs-burgers/0812.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: After forgetting that they signed up Louise for a soccer league, the Belchers must help her prepare to play in the season's last game. With Bob coaching the soccer game, Linda and Gene seize the opportunity to turn the restaurant into a piano bar.
 Watch for:
 - Swearing — 7 moment(s)
   - [Caution] “…you of what you did! What what do I do now? It, uh throw it somewhere? - Kick it! Drop-kick that son of a bitch!”
@@ -2107,6 +2246,7 @@ Watch for:
 ## S8 E13 — Cheer Up Sleepy Gene
 URL: https://watchwiththekids.com/ep/bobs-burgers/0813.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Gene gets invited to his first sleepover and is nervous about it, and when things don't go as planned, he realizes he had a right to be. Meanwhile, Bob and Linda record themselves while sleeping to prove who snores more
 Watch for:
 - Swearing — 3 moment(s)
   - [Caution] “That son of a bitch is really leaving.”
@@ -2116,6 +2256,7 @@ Watch for:
 ## S8 E14 — The Trouble With Doubles
 URL: https://watchwiththekids.com/ep/bobs-burgers/0814.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob and Linda's double-date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, with the parents out of the house, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “Gene, check the VCR and make sure it's hooked up.”
@@ -2133,6 +2274,7 @@ Watch for:
 ## S8 E15 — Go Tina on the Mountain
 URL: https://watchwiththekids.com/ep/bobs-burgers/0815.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods. Meanwhile, Bob and Linda experience what it's like to be empty-nesters.
 Watch for:
 - Swearing — 6 moment(s)
   - [Caution] “Son of a bitch.”
@@ -2147,6 +2289,7 @@ Watch for:
 ## S8 E16 — Are You There Bob? It's Me, Birthday
 URL: https://watchwiththekids.com/ep/bobs-burgers/0816.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Your boobs? I know what we need to do.”
@@ -2163,11 +2306,13 @@ Watch for:
 ## S8 E17 — Boywatch
 URL: https://watchwiththekids.com/ep/bobs-burgers/0817.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Tina decides to join the Junior Lifeguards, but when she struggles with the training, one of her fellow junior guards, Parker, tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free wi-fi at the restaurant, but it is soon threatened by a cyber-attack.
 Watch for: nothing flagged.
 
 ## S8 E18 — As I Walk Through the Alley of the Shadow of Ramps
 URL: https://watchwiththekids.com/ep/bobs-burgers/0818.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I'm just saying, we've all had that fear when you're trying something new that's kind of scary and you think you're never gonna be able to do it, right? I did when I was switching from boob to bottle.”
@@ -2175,6 +2320,7 @@ Watch for:
 ## S8 E19 — Mo Mommy Mo Problems
 URL: https://watchwiththekids.com/ep/bobs-burgers/0819.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The Belchers attend open houses for the free food, per Linda's "momnipotent" Mother's Day request. When Linda meets a charming real estate agent and agrees to a private showing, the kids stumble upon an unexpected surprise and the family ends up at the helm of a real estate scheme.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “(panting) I am so full of cruditÃ©s! TINA: Oh, mine has a swing! LOUISE: Mine has a bathtub in the middle of the room! GENE: Mine has a swing in the bathtub! I don't know if it's a sex thing or a disabled thing.”
@@ -2197,6 +2343,7 @@ Watch for:
 ## S8 E20 — Mission Impos-slug-ble
 URL: https://watchwiththekids.com/ep/bobs-burgers/0820.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Louise's extensive Burobu card collection gets confiscated at school, she devises a tricky plan to get them back. Meanwhile, Bob must give a eulogy for an old acquaintance, despite an unfortunate incident that happened years ago.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Am I gonna lose another? Aah! I won't take sides! I'm like a sexy Switzerland.”
@@ -2208,6 +2355,7 @@ Watch for:
 ## S8 E21 — Something Old, Something New, Something Bob Caters for You
 URL: https://watchwiththekids.com/ep/bobs-burgers/0821.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda tries to save the day.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “…this isn't on you That ceremony was upsetting The way those two rushed into this You'd think it was a shotgun wedding But do I take these buns to have and hold, I do All you can do is do your best-est Toast them…”
@@ -2215,6 +2363,7 @@ Watch for:
 ## S9 E1 — Just One of the Boyz 4 Now for Now
 URL: https://watchwiththekids.com/ep/bobs-burgers/0901.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Convinced she's met the love of her life, Tina decides to disguise herself as a boy and sneak into the Boyz 4 Now auditions to find him. Back at the restaurant, Teddy asks the rest of the Belcher gang to nurse his baby rat back to health.
 Watch for:
 - Nudity & bodies — 7 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2232,6 +2381,7 @@ Watch for:
 ## S9 E2 — The Taking of Funtime One Two Three
 URL: https://watchwiththekids.com/ep/bobs-burgers/0902.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Desperate for the grand prize dune buggy at their local arcade, Louise, Tina and Gene devise a master plan, with the help of Mr. Fischoeder. Meanwhile, Teddy manages to convince Bob and Linda to take in a chicken by promising fresh eggs.
 Watch for:
 - Violence & injury — 3 moment(s)
   - [Caution] “Teddy, I'm just holding a knife.”
@@ -2241,6 +2391,7 @@ Watch for:
 ## S9 E3 — Tweentrepreneurs
 URL: https://watchwiththekids.com/ep/bobs-burgers/0903.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina, Louise and Gene get a taste of business when they join the school's Tweentrepeneurs club. Back at the restaurant, Bob and Linda find themselves outsmarted by a dine-and-dasher.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “That's a knife, Louise.”
@@ -2248,6 +2399,7 @@ Watch for:
 ## S9 E4 — Nightmare on Ocean Avenue Street
 URL: https://watchwiththekids.com/ep/bobs-burgers/0904.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: The kids set out for their regular Halloween shenanigans, but when everyone's candy bags start mysteriously disappearing, it's up to Tina, Louise and Gene to find the culprit. Meanwhile, Teddy decorates the restaurant to compete with another handyman on the street, but gets a little carried away.
 Watch for:
 - Violence & injury — 4 moment(s)
   - [Caution] “It was a hockey goalie with a knife.”
@@ -2258,6 +2410,7 @@ Watch for:
 ## S9 E5 — Live and Let Fly
 URL: https://watchwiththekids.com/ep/bobs-burgers/0905.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The kids learn the dangers of revenge when their plan to get back at the school guidance counselor gets them entangled in a deep rooted sibling rivalry between two pilots. Meanwhile, Linda and Bob put their game faces on when Teddy invites them to a paper airplane contest.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “You once tried to make out with our mom, but she kicked your butt.”
@@ -2276,6 +2429,7 @@ Watch for:
 ## S9 E6 — Bobby Driver
 URL: https://watchwiththekids.com/ep/bobs-burgers/0906.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob agrees to drive professional quilter Edith around town, after she convinces him to join in a plot for revenge. Meanwhile, the kids attend a lavish "Gatsby"-themed birthday party, and Linda helps Teddy expand his taste palate.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] “Just 'cause their nipples are three times as long as ours.”
@@ -2287,6 +2441,7 @@ Watch for:
 ## S9 E7 — I Bob Your Pardon
 URL: https://watchwiththekids.com/ep/bobs-burgers/0907.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
+Summary: The Belchers set out to save a turkey from a trip to the slaughterhouse, but when a local reporter catches wind of their schemes, the mission becomes more complicated than they had anticipated.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Too much] “Get him! - That is my nipple.”
@@ -2309,6 +2464,7 @@ Watch for:
 ## S9 E8 — Roller? I Hardly Knew Her!
 URL: https://watchwiththekids.com/ep/bobs-burgers/0908.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Gene is livid when his best friend, Alex, ditches him to be Courtney's roller-dancing partner. Meanwhile, Teddy, Linda and Bob let their imaginations get the best of them when they discover someone stalking the restaurant.
 Watch for:
 - Violence & injury — 3 moment(s)
   - [Caution] “The blood on the wood My dad was Junior Partners champion in 1983.”
@@ -2318,6 +2474,7 @@ Watch for:
 ## S9 E9 — UFO No You Didn't
 URL: https://watchwiththekids.com/ep/bobs-burgers/0909.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
+Summary: Tina and her new science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they receive a dangerous warning message. Meanwhile, Bob attempts to sell mini coat racks he bought.
 Watch for:
 - Swearing — 7 moment(s)
   - [Caution] “Yeah That sneaky alien faker son of a bitch! And you guys, too! I-I can't believe you helped him! Ugh! I know! We're sorry! And that's why we bought you this gift card.”
@@ -2331,6 +2488,7 @@ Watch for:
 ## S9 E10 — Better Off Sled
 URL: https://watchwiththekids.com/ep/bobs-burgers/0910.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: The battle is on when some angsty teenagers take over Louise, Gene and Tina's usual sledding territory, inciting an epic turf war. Meanwhile, Bob steps in to help Linda, who's in a time crunch to get three scarves knitted before Christmas.
 Watch for:
 - Swearing — 6 moment(s)
   - [Caution] “We're plowing that son of a bitch! - Yeah, we are.”
@@ -2343,6 +2501,7 @@ Watch for:
 ## S9 E11 — Lorenzo's Oil? No, Linda's
 URL: https://watchwiththekids.com/ep/bobs-burgers/0911.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda's new friend introduces her to essential oils and Aunt Gayle is convinced she must be rescued. Meanwhile, Bob and Teddy are bamboozled into performing a series of annoying favors for Mr. Huggins.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “First of all, are silk bathrobes still sexy? - I'm thinking yes, but let's see it.”
@@ -2363,6 +2522,7 @@ Watch for:
 ## S9 E12 — The Helen Hunt
 URL: https://watchwiththekids.com/ep/bobs-burgers/0912.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
+Summary: The Belchers make it their mission to help Teddy get his dream girl, but Tina is convinced she's found a better match for him.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Hmm, they're kind of bloodshot.”
@@ -2383,6 +2543,7 @@ Watch for:
 ## S9 E13 — Bed, Bob and Beyond
 URL: https://watchwiththekids.com/ep/bobs-burgers/0913.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: A Valentine's Day fight between Bob and Linda has the kids feeling confused. After a failed attempt to see a movie, it's up to Tina, Louise and Gene to tell their own story as a distraction from the awkward tension.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2395,6 +2556,7 @@ Watch for:
 ## S9 E14 — Every Which Way But Goose
 URL: https://watchwiththekids.com/ep/bobs-burgers/0914.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Tina, discouraged by not being asked to prom by Jimmy Jr., forms an unhealthy attachment to a goose from the nearby park. Meanwhile, Linda joins a dating app to help Gretchen find a match.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] “How about this one? Is he in a tank top with the nipples cut out? Yeah.”
@@ -2406,6 +2568,7 @@ Watch for:
 ## S9 E15 — The Fresh Princ-ipal
 URL: https://watchwiththekids.com/ep/bobs-burgers/0915.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Things get out of hand when Louise wins a contest to be Principal for a Day. Back at the restaurant, Teddy has a unique suggestion to help Bob when he suddenly finds himself unable to flip burgers.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “So to take his mind off it, that lady gave him her underwear.”
@@ -2414,6 +2577,7 @@ Watch for:
 ## S9 E16 — Roamin' Bob-iday
 URL: https://watchwiththekids.com/ep/bobs-burgers/0916.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The family forces workaholic Bob to take a much-needed day off, only for him to wind up working at a local sandwich shop. Meanwhile, Linda and the kids throw a last minute baby shower at the restaurant for a female biker group.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “Nothing, nothing, nothing makes me happy, happy, happy Nothing brings me nothing but joy So if you haven't tried nada I really think you oughta 'Cause all play and no work Makes me A big, sexy boy Big old sexy boy.”
@@ -2429,6 +2593,7 @@ Watch for:
 ## S9 E17 — What About Blob?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0917.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Gene convinces Tina and Louise to help him save a misunderstood plankton blob from being destroyed by a yacht club.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “It's a majestic life-giving plankton blob and it's damn sexy at night.”
@@ -2442,6 +2607,7 @@ Watch for:
 ## S9 E18 — If You Love It So Much, Why Don't You Marionette?
 URL: https://watchwiththekids.com/ep/bobs-burgers/0918.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The kids visit a marionette theater for a school field trip and Louise gets on the theater owner's bad side. Meanwhile, Bob takes pity on a flyer guy who's handing out flyers in front of the restaurant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Are those puppets gonna make out? -Hot.”
@@ -2452,6 +2618,7 @@ Watch for:
 ## S9 E19 — Long Time Listener, First Time Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/0919.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob meets his personal hero – a renegade radio DJ who refuses to compromise. However, the Belchers get in over their heads when they try to help him stage a comeback.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] “The universe sent him to that bowling alley, and then it sent me to that bowling alley so he could remind me to stick to my guns about fries.”
@@ -2460,6 +2627,7 @@ Watch for:
 ## S9 E20 — The Gene Mile
 URL: https://watchwiththekids.com/ep/bobs-burgers/0920.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When the kids have to run a mandatory mile for school on free-ice-cream-day, they hatch an elaborate plot to sneak away. Meanwhile, Bob and Linda frantically try to secure discount tickets to a show at the Wharf Arts Center.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Is that an eight or a boob? That's an eight, Lin.”
@@ -2470,6 +2638,7 @@ Watch for:
 ## S9 E21 — P.T.A It Ain't So
 URL: https://watchwiththekids.com/ep/bobs-burgers/0921.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Linda attempts to become more involved with the P.T.A., inspired by its seemingly perfect president, Joanne. Meanwhile, Bob tries to cheer up a hardware store owner after unknowingly making a joke about his pet parrot that recently flew away.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Oh, just use your blood.”
@@ -2482,6 +2651,7 @@ Watch for:
 ## S9 E22 — Yes Without My Zeke
 URL: https://watchwiththekids.com/ep/bobs-burgers/0922.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: When Zeke gets in trouble, the Belcher kids and Jimmy Jr. pitch in to help prevent him being sent to a disciplinary school. However, Tina tries to thwart their mission, so she can have Jimmy Jr. and his butt all to herself. Meanwhile, Randy rents out Bob's Burgers to shoot his independent short feature film.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2500,6 +2670,7 @@ Watch for:
 ## S10 E1 — The Ring (But Not Scary)
 URL: https://watchwiththekids.com/ep/bobs-burgers/1001.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob's plan to surprise Linda for their anniversary gets tricky when the kids become involved.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “You're not wearing any underwear.”
@@ -2518,6 +2689,7 @@ Watch for:
 ## S10 E2 — Boys Just Wanna Have Fungus
 URL: https://watchwiththekids.com/ep/bobs-burgers/1002.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Unable to afford a rare gourmet mushroom for a Burger of the Day, Bob and Gene jump into the cutthroat world of mushroom foraging. Meanwhile, Tina's powerful new prescription glasses lead her to believe she has a superpower.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Mild] “A little apocalypse practice, huh? The two of us out there hunting and foraging Shirts off, our boobs bouncing in the wind.”
@@ -2533,6 +2705,7 @@ Watch for:
 ## S10 E3 — Motor, She Boat
 URL: https://watchwiththekids.com/ep/bobs-burgers/1003.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina and Bob participate in the Thundergirls father-daughter cardboard boat race and Tina tries to hide her feelings about Bob's terrible boat-building skills. Meanwhile, Linda drags Louise and Gene to a fire station open house and overstays her welcome.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] “…them punished, so, uh (chuckles) let's wait, okay? - Um - Now, if you'll excuse me, I scraped both my nipples on the way down the tree and I'm gonna go put some lip balm on them in my car.”
@@ -2541,6 +2714,7 @@ Watch for:
 ## S10 E4 — Pig Trouble in Little Tina
 URL: https://watchwiththekids.com/ep/bobs-burgers/1004.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina dissects a fetal pig in science class and things get spooky. Also, Bob and Linda do battle with a giant ball of ear wax.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “So who should I make out with on the hayride Jason Kozlowski or Davey Russo? Well, "Davey" rhymes with "gravy," so maybe Jason? - Oh, my God, good point.”
@@ -2566,6 +2740,7 @@ Watch for:
 ## S10 E5 — Legends of the Mall
 URL: https://watchwiththekids.com/ep/bobs-burgers/1005.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
+Summary: On a Belcher family trip to the mall, Tina is mistaken for a sleeping boy's girlfriend. Meanwhile, Gene and Louise are turned loose on motorized animals, Linda disrupts a book reading and Bob struggles to shop for acceptable pants.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2597,6 +2772,7 @@ Watch for:
 ## S10 E6 — The Hawkening: Look Who's Hawking Now
 URL: https://watchwiththekids.com/ep/bobs-burgers/1006.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob and Louise are riding high, hosting an exclusive screening of a Hawk & Chick movie at the restaurant, until the actor who plays Hawk throws a wrench into the works, for his own mysterious reasons.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hawk & Chick beer Koozie? Oh, guys, that's the collector.”
@@ -2604,6 +2780,7 @@ Watch for:
 ## S10 E7 — Land of the Loft
 URL: https://watchwiththekids.com/ep/bobs-burgers/1007.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Bob and Linda challenge themselves and attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - [Too much] Stripper or strip-club material shows up in the plot.
@@ -2623,6 +2800,7 @@ Watch for:
 ## S10 E8 — Now We're Not Cooking with Gas
 URL: https://watchwiththekids.com/ep/bobs-burgers/1008.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob is determined to do whatever it takes to cook a rare, heritage turkey after the gas goes out on Thanksgiving.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Your meaty breasts are reminding us what we're missing out on.”
@@ -2640,6 +2818,7 @@ Watch for:
 ## S10 E9 — All That Gene
 URL: https://watchwiththekids.com/ep/bobs-burgers/1009.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Gene auditions for a small role in a local theater production, but things backfire when he discovers that Linda actually bargained with the director to get Gene the part.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “She's semi-hooking up with Eric, who's not not straight.”
@@ -2652,6 +2831,7 @@ Watch for:
 ## S10 E10 — Have Yourself a Maily Linda Christmas
 URL: https://watchwiththekids.com/ep/bobs-burgers/1010.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Linda works a temp job at the post office to make extra money for the holidays. But when an important package goes undelivered, Linda breaks protocol and takes it upon herself to save the day. Meanwhile, Bob and Tina are trapped at home with Linda's fussy family and Gene and Louise scramble last-minute to find the perfect gift for Tina.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2660,6 +2840,7 @@ Watch for:
 ## S10 E11 — Drumforgiven
 URL: https://watchwiththekids.com/ep/bobs-burgers/1011.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Gene gets kicked out of the Ocean Avenue Hifi Emporium, but Louise takes matters into her own hands to defend Gene's honor.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] “What? -He probably had a sexy dream about me, and now he doesn't know how to act.”
@@ -2668,6 +2849,7 @@ Watch for:
 ## S10 E12 — A Fish Called Tina
 URL: https://watchwiththekids.com/ep/bobs-burgers/1012.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina goes too far trying to be a perfect mentor. Meanwhile, Bob and Linda test out the gym next door.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Which has nothing to do with having meat and beans all over her boobs - Left and right.”
@@ -2677,6 +2859,7 @@ Watch for:
 ## S10 E13 — Three Girls and a Little Wharfy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1013.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Louise skeptically joins Jessica and fifth grader Megan in their search for Wharfy, a mythical sea monster, while Bob takes an online master class by a world-renowned chef.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Mild] “Gene, you can't go to school naked.”
@@ -2691,6 +2874,7 @@ Watch for:
 ## S10 E14 — Wag the Song
 URL: https://watchwiththekids.com/ep/bobs-burgers/1014.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Tina competes against Gene and Louise to write a new school song for Wagstaff, but finds herself creatively stalled. Meanwhile, Bob and Linda battle blinding glare from Jimmy Pesto's new shiny steel awning across the street.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2708,6 +2892,7 @@ Watch for:
 ## S10 E15 — Yurty Rotten Scoundrels
 URL: https://watchwiththekids.com/ep/bobs-burgers/1015.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Gayle decides to host an artists' workshop in a yurt with only one attendee, Linda feels compelled to go to support her sister. Meanwhile, Louise and Gene lead a covert operation to find a lost cat for a cash reward.
 Watch for:
 - Violence & injury — 4 moment(s)
   - [Caution] Well, I thought we were gonna call it "Blood Fart. " Okay, guys, no more spa day with the ketchup.
@@ -2718,6 +2903,7 @@ Watch for:
 ## S10 E16 — Flat-Top O' the Morning to Ya
 URL: https://watchwiththekids.com/ep/bobs-burgers/1016.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob and the kids help a down-on-his-luck restaurant owner, while Linda and Teddy get carried away with St. Patrick's Day festivities.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Ah, you pinched my boob.
@@ -2735,6 +2921,7 @@ Watch for:
 ## S10 E17 — Just the Trip
 URL: https://watchwiththekids.com/ep/bobs-burgers/1017.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The family takes an unexpected road trip with Nat the limo driver.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Also, Steve is moving and kind of strangling me.
@@ -2744,6 +2931,7 @@ Watch for:
 ## S10 E18 — Tappy Tappy Tappy Tap Tap Tap
 URL: https://watchwiththekids.com/ep/bobs-burgers/1018.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
+Summary: Tina goes to see Josh perform in a tap show, and suspects sabotage when he's injured on stage.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Mild] Did I die? Is this heaven? Nah, 'cause I'm wearing a bra.
@@ -2766,6 +2954,7 @@ Watch for:
 ## S10 E19 — The Handyman Can
 URL: https://watchwiththekids.com/ep/bobs-burgers/1019.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence. Burger Of The Day: The Chili-Delphia Story Burger.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] I always thought I'd grow old and sexy like the grandma from Who's the Boss? If only there was some way to fight this thing.
@@ -2780,6 +2969,7 @@ Watch for:
 ## S10 E20 — Poops!... I Didn't Do It Again
 URL: https://watchwiththekids.com/ep/bobs-burgers/1020.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Louise must face her fear of public pooping when her class goes on an overnight trip to the aquarium. Meanwhile, Linda enlists the family to make a video for her parents' anniversary.
 Watch for:
 - Swearing — 4 moment(s)
   - [Caution] Son of a bitch.
@@ -2790,6 +2980,7 @@ Watch for:
 ## S10 E21 — Local She-ro
 URL: https://watchwiththekids.com/ep/bobs-burgers/1021.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: While trying to show Tina what's great about their town, Linda ends up on the trail of a legendary local singer. Meanwhile, Teddy turns to Bob for help in arguing with a sports radio host.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] It's my ex-wife's sock. I sleep with it on my hand.
@@ -2797,6 +2988,7 @@ Watch for:
 ## S10 E22 — Prank You for Being a Friend
 URL: https://watchwiththekids.com/ep/bobs-burgers/1022.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: A classmate comes to Louise for lessons in how to get in trouble. Meanwhile, Bob reluctantly agrees to bring Jimmy Pesto his hernia medication.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Ow! All the blood is rushing to my head.
@@ -2804,6 +2996,7 @@ Watch for:
 ## S11 E1 — Dream a Little Bob of Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/1101.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob goes on an epic quest to find a misplaced lock box key. Tina attempts to learn a hand-slapping song that everyone can do - but her -.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] “Crotch, dingle, crap, boob”
@@ -2816,6 +3009,7 @@ Watch for:
 ## S11 E2 — Worms of In-rear-ment
 URL: https://watchwiththekids.com/ep/bobs-burgers/1102.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Linda tries to take her family to the symphony on free admission night, but her efforts are thwarted by a pinworm epidemic.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2828,6 +3022,7 @@ Watch for:
 ## S11 E3 — Copa-bob-bana
 URL: https://watchwiththekids.com/ep/bobs-burgers/1103.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob agrees to be the temporary chef at the Fischoeders' new nightclub. Meanwhile, the kids get a hold of a stock tank and decide to throw a pool party in the restaurant basement.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] I'm sorry I cheated on you with that really nice kitchen.
@@ -2838,6 +3033,7 @@ Watch for:
 ## S11 E4 — Heartbreak Hotel-oween
 URL: https://watchwiththekids.com/ep/bobs-burgers/1104.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Louise's plan to get revenge on Halloween for a candy transgression hits a snag when the Belcher kids meet a mysterious elderly woman at a hotel. Meanwhile, Linda and a very squeamish Bob donate blood at a vampire-themed blood mobile.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] There was no sign of foul play, but I bet there was some foreplay, the creep.
@@ -2859,6 +3055,7 @@ Watch for:
 ## S11 E5 — Fast Time Capsules at Wagstaff School
 URL: https://watchwiththekids.com/ep/bobs-burgers/1105.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina is put in charge of the Wagstaff School time capsule project, but she makes an enemy when she rejects Tammy's submission. Meanwhile, Bob teases Linda over her inability to whistle.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] You sound like a sexy teakettle.
@@ -2874,6 +3071,7 @@ Watch for:
 ## S11 E6 — Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids
 URL: https://watchwiththekids.com/ep/bobs-burgers/1106.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The family must figure out how to keep the restaurant open after Bob's flattop breaks on the morning of the Ocean Avenue Business Association's: Ocean Fest on Ocean Avenue.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] You're there, you're looking sexy selling burgers, - you have a cool tattoo.
@@ -2886,6 +3084,7 @@ Watch for:
 ## S11 E7 — Diarrhea of a Poopy Kid
 URL: https://watchwiththekids.com/ep/bobs-burgers/1107.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: When Gene can't eat Thanksgiving dinner because of a stomach flu, the family tries to cheer him up.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - [Mild] “your breast and thigh meat”
@@ -2901,6 +3100,7 @@ Watch for:
 ## S11 E8 — The Terminalator II: Terminals of Endearment
 URL: https://watchwiththekids.com/ep/bobs-burgers/1108.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Linda's parents have a layover at an airport nearby, Bob and Linda attempt to turn it into their annual "visit".
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Even though there was a whole chapter about keeping your sex life alive.
@@ -2912,6 +3112,7 @@ Watch for:
 ## S11 E9 — Mommy Boy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1109.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Linda joins a women's business group, Gene gets possessive of her time. Meanwhile, Louise and Tina want to learn how to fight.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] The sex has never been better.
@@ -2931,6 +3132,7 @@ Watch for:
 ## S11 E10 — Yachty or Nice
 URL: https://watchwiththekids.com/ep/bobs-burgers/1110.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When the Belchers get an unexpected invitation to cater the Glencrest Yacht Club's holiday boat parade, Bob wonders if there's a catch. Meanwhile, Louise has her eye on the present-loaded Santa Schooner.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -2945,6 +3147,7 @@ Watch for:
 ## S11 E11 — Romancing the Beef
 URL: https://watchwiththekids.com/ep/bobs-burgers/1111.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Louise convinces her parents to cash in on the lucrative Valentine's Day dinner business, even though it means putting Bob and Linda's own Valentine's Day plans on hold. Meanwhile, Tina attends Tammy's Anti-Valentine's Day party.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] I'm here as a sexy Valentine's diner, not a sexy health inspector.
@@ -2969,6 +3172,7 @@ Watch for:
 ## S11 E12 — Die Card, or Card Trying
 URL: https://watchwiththekids.com/ep/bobs-burgers/1112.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda drags Bob and the kids out into nature, determined to take the best holiday family portrait ever.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “make out your faces!”
@@ -2978,6 +3182,7 @@ Watch for:
 ## S11 E13 — An Incon-wheelie-ent Truth
 URL: https://watchwiththekids.com/ep/bobs-burgers/1113.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: While on a family trip to the flea market, Bob and Linda are haunted by a lie they told Tina, Gene and Louise about what really happened to their beloved stuffed animal, Wheelie Mammoth.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Let's talk about sex, baby Let's talk about you and me.
@@ -2987,6 +3192,7 @@ Watch for:
 ## S11 E14 — Mr. Lonely Farts
 URL: https://watchwiththekids.com/ep/bobs-burgers/1114.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Linda and Tina go to the shoe store, Gene accidently is left home by himself. Meanwhile, Bob, Louise and Teddy go to buy restaurant equipment from a creepy guy whom Bob found on the internet.
 Watch for:
 - Violence & injury — 10 moment(s)
   - [Too much] “know, psycho murderers?”
@@ -3007,6 +3213,7 @@ Watch for:
 ## S11 E15 — Sheshank Redumption
 URL: https://watchwiththekids.com/ep/bobs-burgers/1115.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda's new routine of diet and exercise gives her gastrointestinal trouble on the day of parent-teacher-student conferences.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - [Mild] Whoever gets the most frowny faces has to wear their bra over their shirt for a whole day.
@@ -3020,6 +3227,7 @@ Watch for:
 ## S11 E16 — Y Tu Tina Tambien
 URL: https://watchwiththekids.com/ep/bobs-burgers/1116.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Tina is forced to listen to Spanish audio lessons in the library to improve her grade, she develops an unexpected crush. Meanwhile, Louise and Gene want to dunk Mr. Frond at the Wagstaff Spring Fair.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] Let's go see if Tina's having a librar-affair.
@@ -3031,6 +3239,7 @@ Watch for:
 ## S11 E17 — Fingers-loose
 URL: https://watchwiththekids.com/ep/bobs-burgers/1117.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina faces a hall-monitor crisis when she falls in love with a new underground trend at Wagstaff that Mr. Frond is trying to squelch. Meanwhile, Bob and Linda try to come up with a way for Teddy to sneak food into a movie theater.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] Okay. Is this like when you couldn't get your underwear off? Because I'm not helping you again.
@@ -3043,6 +3252,7 @@ Watch for:
 ## S11 E18 — Some Kind of Fender Benderful
 URL: https://watchwiththekids.com/ep/bobs-burgers/1118.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Bob gets into a four-car fender bender right outside the restaurant, he realizes finding out who is at fault will not be as simple as he thought.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Is that man punching the air? Yes. He's, uh, he-he's one of our customers.
@@ -3050,6 +3260,7 @@ Watch for:
 ## S11 E19 — Bridge Over Troubled Rudy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1119.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Louise finds out that Rudy has a model bridge that explodes, she decides to set out on a sort-of-kind-of-perilous journey, dragging her siblings along for the ride. Meanwhile, Mort tries to teach Bob, Linda and Teddy how to meditate.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] Breath or breasts? - Mort, sicko.
@@ -3060,6 +3271,7 @@ Watch for:
 ## S11 E20 — Steal Magazine-olias
 URL: https://watchwiththekids.com/ep/bobs-burgers/1120.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The Belcher kids get caught up in a game of cat-and-mouse when Dr. Yap comes to the restaurant in search of something that was taken from the waiting room of his dentistry office. Meanwhile, Bob, Linda and Teddy try to clean a huge bird poop off the restaurant's window.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “Just stop yelling, hook up your”
@@ -3070,11 +3282,13 @@ Watch for:
 ## S11 E21 — Tell Me Dumb Thing Good
 URL: https://watchwiththekids.com/ep/bobs-burgers/1121.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Linda needs the kids' help in fighting for a fun, dumb, local tradition. Meanwhile, Bob is captivated by an online cucumber.
 Watch for: nothing flagged.
 
 ## S11 E22 — Vampire Disco Death Dance
 URL: https://watchwiththekids.com/ep/bobs-burgers/1122.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: After Tina and Bob plan a father-daughter date to see Bob's favorite old campy vampire-sing-along movie, Tina decides to invite her group of friends along, as well. Meanwhile, Linda opens a restaurant for the raccoons in their alley.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] There's not even any blood in it.
@@ -3087,6 +3301,7 @@ Watch for:
 ## S12 E1 — Manic Pixie Crap Show
 URL: https://watchwiththekids.com/ep/bobs-burgers/1201.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Louise must pay a debt to Millie by attending the Pixie Princess Promenade. Meanwhile, a bouquet in the shape of a dog forces Linda to confront her past.
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - [Too much] Whoa. Is that a magical flying sex worker convention? - Oh, it's the Pixie Princess Promenade.
@@ -3096,6 +3311,7 @@ Watch for:
 ## S12 E2 — Crystal Mess
 URL: https://watchwiththekids.com/ep/bobs-burgers/1202.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: In order to help with anxiety about an upcoming oral report, Mr. Frond lends Tina a crystal that his new girlfriend alleges has special powers. Meanwhile, Bob and Linda buy a box of imperfect produce and try to use it all before it rots.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -3108,6 +3324,7 @@ Watch for:
 ## S12 E3 — The Pumpkinening
 URL: https://watchwiththekids.com/ep/bobs-burgers/1203.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Are Mom and Aunt Gayle getting new boobs together? Or switching boobs? - Like Face/Off but Boob/Off? - Mm no.
@@ -3118,11 +3335,13 @@ Watch for:
 ## S12 E4 — Driving Big Dummy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1204.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Bob gets roped into a road trip with Teddy. Meanwhile, Linda and the kids compete for the title of Employee of the Day.
 Watch for: nothing flagged.
 
 ## S12 E5 — Seven-tween Again
 URL: https://watchwiththekids.com/ep/bobs-burgers/1205.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Gene has a freak-out about growing up and desperately tries to relive his youth. Meanwhile, Linda is tempted to try the fancy new hair salon that opened up next to Bob's Burgers, but she's scared of her hairdresser-slash-friend Gretchen's wrath.
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
   - [Too much] Stripper or strip-club material shows up in the plot.
@@ -3137,6 +3356,7 @@ Watch for:
 ## S12 E6 — Beach, Please
 URL: https://watchwiththekids.com/ep/bobs-burgers/1206.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When the Belcher kids participate in a beach clean-up for Wagstaff Volunteer Day, Louise gets drawn into a battle of wits with Mr. Fischoeder. Meanwhile, Teddy surprises Bob and Linda with a new look.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] What's with these fish losing their underwear? What the heck was I thinking? I live here. I forgot how horrible our town is. Blech.
@@ -3145,6 +3365,7 @@ Watch for:
 ## S12 E7 — Loft in Bedslation
 URL: https://watchwiththekids.com/ep/bobs-burgers/1207.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda and the girls attempt to build a loft bed for Louise in just one day. Meanwhile, Bob and Gene host a group of gamers and their tabletop role-playing game.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] Can I sleep with the drill? - Maybe no drill? Fine. Saw.
@@ -3153,6 +3374,7 @@ Watch for:
 ## S12 E8 — Stuck in the Kitchen with You
 URL: https://watchwiththekids.com/ep/bobs-burgers/1208.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bob volunteers to cook Thanksgiving dinner for a retirement home, Louise gets stuck helping him on his most intense cooking day of the year. Meanwhile, Gene and Tina try to help Zeke entertain the residents.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] There's turkey breasts.
@@ -3165,6 +3387,7 @@ Watch for:
 ## S12 E9 — FOMO You Didn't
 URL: https://watchwiththekids.com/ep/bobs-burgers/1209.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Susmita offers to help Tina with a photography class assignment, but Tina can't stop thinking about all the fun Tammy, Jocelyn, Zeke and Jimmy Jr. are having ditching class. Meanwhile, a woman who used to live in the Belchers' apartment comes for a visit.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] I'm in it, and I don't give you permission, I'm not signing a release and I will sue your boobs off.
@@ -3174,6 +3397,7 @@ Watch for:
 ## S12 E10 — Gene's Christmas Break
 URL: https://watchwiththekids.com/ep/bobs-burgers/1210.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy. Meanwhile, Teddy wants to do a neighborhood Secret Santa with Bob and Linda.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] I said one thing! Oh, Daddy. You need a big ol' beer.
@@ -3181,6 +3405,7 @@ Watch for:
 ## S12 E11 — Touch of Eval
 URL: https://watchwiththekids.com/ep/bobs-burgers/1211.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Louise realizes that Mr. Frond's new plan of students evaluating their teachers has shifted the balance of power at school from teacher to kid. Meanwhile, Bob and Linda discover that they don't agree on where they want their final resting place to be.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] Glad I've got my affairs in order.
@@ -3192,6 +3417,7 @@ Watch for:
 ## S12 E12 — Ferry on My Wayward Bob and Linda
 URL: https://watchwiththekids.com/ep/bobs-burgers/1212.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob and Linda accept a Valentine's Day dinner invitation from the chef of a fancy restaurant on Kingshead Island. Meanwhile, the kids have a scheme to get cheap Valentine's Day candy, but first they'll have to make it past an unusually strict Jen the babysitter. Burger of the Day: 'Don''t dream it's Okra Burger'.'
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Is this what the song "I smell sex and candy" is about? Ugh. I'm such an idiot.
@@ -3208,6 +3434,7 @@ Watch for:
 ## S12 E13 — Frigate Me Knot
 URL: https://watchwiththekids.com/ep/bobs-burgers/1213.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda encourages Teddy to attend a farewell ceremony for the ship on which he served in the Navy, but it means confronting his Navy pals and his past.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] “Otherwise, your nipples”
@@ -3221,6 +3448,7 @@ Watch for:
 ## S12 E14 — Video Killed the Gene-io Star
 URL: https://watchwiththekids.com/ep/bobs-burgers/1214.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Gene begrudgingly agrees to participate in a music video for Courtney. Meanwhile, Teddy and Linda obsess over a mysterious customer at the restaurant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Uh, come on, let's make out.”
@@ -3232,6 +3460,7 @@ Watch for:
 ## S12 E15 — Ancient Misbehavin'
 URL: https://watchwiththekids.com/ep/bobs-burgers/1215.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: After feeling slighted by a teacher during a special Ancient Greece unit, Louise, Millie and Regular Sized Rudy take matters into their own hands to restore justice. Meanwhile, Bob gets a room of his own.
 Watch for:
 - Sex & hookups — 4 moment(s)
   - [Caution] And the blood of a virgin.
@@ -3251,6 +3480,7 @@ Watch for:
 ## S12 E17 — The Spider House Rules
 URL: https://watchwiththekids.com/ep/bobs-burgers/1217.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Louise befriends a house spider and hides it in her room after Linda and Bob tell her to remove it from the apartment. Meanwhile, Bob tries to make a friend outside of the people that come to the restaurant.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] Any chance you guys enjoy sleeping with spiders over your head? No? Okay. Phoebe, Charlotte's Web time.
@@ -3268,6 +3498,7 @@ Watch for:
 ## S12 E18 — Clear and Present Ginger
 URL: https://watchwiththekids.com/ep/bobs-burgers/1218.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
+Summary: Linda has a big day planned when her friend, Ginger, comes to visit. Meanwhile, Bob and the kids help Nat with her Limo competition.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -3286,6 +3517,7 @@ Watch for:
 ## S12 E19 — A-Sprout a Boy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1219.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Gene becomes obsessed with an old handheld game, Bob offers to help with a school project, in hopes of steering his son towards more "interesting" pursuits. Meanwhile, Louise and Tina take over a grocery store kiddie ride.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “and I'd had some beer,”
@@ -3293,6 +3525,7 @@ Watch for:
 ## S12 E20 — Sauce Side Story
 URL: https://watchwiththekids.com/ep/bobs-burgers/1220.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Louise, Gene and Tina try to track down a lost family recipe for a Mother's Day gift for Linda, first they have to navigate an old family feud.
 Watch for:
 - Violence & injury — 8 moment(s)
   - [Too much] “and accidentally stabs Joey in the hand!”
@@ -3307,6 +3540,7 @@ Watch for:
 ## S12 E21 — Grade Runner
 URL: https://watchwiththekids.com/ep/bobs-burgers/1221.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Tina's new shirt is ridiculed by Tammy and Jocelyn in a Wagstaff News segment called "Wow or Weird," she turns to her erotic friend-fiction and writes about a futuristic world in which she is a robot.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] You're supposed to retrieve deviant bots so they can be wiped, not make out with them while you play the piano, using your strange scales.
@@ -3321,6 +3555,7 @@ Watch for:
 ## S12 E22 — Some Like It Bot Part 2: Judge-bot Day
 URL: https://watchwiththekids.com/ep/bobs-burgers/1222.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina is on a mission that could get her into a lot of trouble. Then, her family reads her erotic friend fiction, finds out what Tina is up to and tries to stop her.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] I can't find the erotic, sexy stories anywhere.
@@ -3328,6 +3563,7 @@ Watch for:
 ## S13 E1 — To Bob, or Not to Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/1301.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Bob, Linda and the kids help Mr. Fischoeder put on a play to get his brother Felix to confess to a theft. Louise is jealous of Tina's hands.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] Sleep with one hand open.
@@ -3343,11 +3579,13 @@ Watch for:
 ## S13 E2 — The Reeky Lake Show
 URL: https://watchwiththekids.com/ep/bobs-burgers/1302.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: The family's Labor Day lake trip takes a turn when the Belchers find themselves trapped in their cabin, hiding from what lurks outside.
 Watch for: nothing flagged.
 
 ## S13 E3 — What About Job?
 URL: https://watchwiththekids.com/ep/bobs-burgers/1303.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: A school assignment about careers sends Louise spiraling, trying to imagine what her future might hold.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] not to wear underwear.
@@ -3360,6 +3598,7 @@ Watch for:
 ## S13 E4 — Comet-y of Errors
 URL: https://watchwiththekids.com/ep/bobs-burgers/1304.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: At a comet watch party, Bob tries to keep Teddy from going off the deep end, looking for signs from the universe. Meanwhile, the kids try to make their comet wishes come true.
 Watch for:
 - Swearing — 4 moment(s)
   - [Caution] you son of a bitch! Aah!
@@ -3372,6 +3611,7 @@ Watch for:
 ## S13 E5 — So You Stink You Can Dance
 URL: https://watchwiththekids.com/ep/bobs-burgers/1305.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Tina cheers Jimmy Junior on at a semi-prestigious dancing seminar while Bob and Linda compete to see who can catch the most homerun balls outside of Wonder Wharf Stadium.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -3391,11 +3631,13 @@ Watch for:
 ## S13 E6 — Apple Gore-chard!
 URL: https://watchwiththekids.com/ep/bobs-burgers/1306.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard. Meanwhile, Tina and Gene hope to win the school costume parade.
 Watch for: nothing flagged.
 
 ## S13 E7 — Ready Player Gene
 URL: https://watchwiththekids.com/ep/bobs-burgers/1307.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: A VR arcade opens next door and Gene spends all his money. Meanwhile, Louise and Tina try to build a menu tower taller than they ever have before.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Too much] can be murdered in cold blood.
@@ -3404,6 +3646,7 @@ Watch for:
 ## S13 E8 — Putts-giving
 URL: https://watchwiththekids.com/ep/bobs-burgers/1308.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The Belchers go to a mini golf course on Thanksgiving morning.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Naked Thursdays?
@@ -3414,6 +3657,7 @@ Watch for:
 ## S13 E9 — Show Mama from the Grave
 URL: https://watchwiththekids.com/ep/bobs-burgers/1309.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob takes Linda and the kids to visit his mother's grave, but finding the headstone is harder than he expected. Meanwhile, Teddy makes a grave mistake while doing repairs in the Belcher's house.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] on my actual boobs.
@@ -3422,6 +3666,7 @@ Watch for:
 ## S13 E10 — The Plight Before Christmas
 URL: https://watchwiththekids.com/ep/bobs-burgers/1310.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob and Linda try to attend all three kids' holiday performances at the same time.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] and someone punched you
@@ -3429,6 +3674,7 @@ Watch for:
 ## S13 E11 — Cheaty Cheaty Bang Bang
 URL: https://watchwiththekids.com/ep/bobs-burgers/1311.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: After a student accuses her of cheating on a test, Tina needs to get back to school to clear her name, but a snowstorm traps her and her family at home.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] I should go put on a bra.
@@ -3439,11 +3685,13 @@ Watch for:
 ## S13 E12 — Oh Row You Didn't
 URL: https://watchwiththekids.com/ep/bobs-burgers/1312.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: A man trying to row from New Zealand to Nova Scotia visits the restaurant to have a burger and it changes everything.
 Watch for: nothing flagged.
 
 ## S13 E13 — Stop! Or My Mom Will Sleuth!
 URL: https://watchwiththekids.com/ep/bobs-burgers/1313.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Louise is accused of a theft at school, Linda uses her position as school office volunteer to try and solve the case from the inside.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] They wanted to murder it.
@@ -3451,6 +3699,7 @@ Watch for:
 ## S13 E14 — These Boots Are Made for Stalking
 URL: https://watchwiththekids.com/ep/bobs-burgers/1314.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When the coolest teens she's ever seen start coming into the restaurant, Tina decides she needs to be just like them. Meanwhile, Gene and Louise get into a battle of wills over stinky socks.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] I wanna punch you in the face. ♪
@@ -3458,6 +3707,7 @@ Watch for:
 ## S13 E15 — The Show (And Tell) Must Go On
 URL: https://watchwiththekids.com/ep/bobs-burgers/1315.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Louise brings Tina along on a mission to find the perfect item for her last-ever Show and Tell. Meanwhile, Teddy goes overboard trying to impress a date at the restaurant.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Caution] I could put some fake blood on it.
@@ -3468,6 +3718,7 @@ Watch for:
 ## S13 E16 — What a (April) Fool Believes
 URL: https://watchwiththekids.com/ep/bobs-burgers/1316.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Mr. Fischoeder challenges Bob to successfully prank him on April Fool's Day, or lose his lease.
 Watch for:
 - Violence & injury — 5 moment(s)
   - [Too much] Fool's as a cover for murder.
@@ -3484,6 +3735,7 @@ Watch for:
 ## S13 E17 — Crows Encounters of the Bird Kind
 URL: https://watchwiththekids.com/ep/bobs-burgers/1317.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina drags Bob along on a desperate quest to earn her bird-watching badge for ThunderGirls. Meanwhile, Louise and Gene try to keep their new restaurant game a secret from Linda.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] buy cuter underwear.
@@ -3493,6 +3745,7 @@ Watch for:
 ## S13 E18 — Gift Card or Buy Trying
 URL: https://watchwiththekids.com/ep/bobs-burgers/1318.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When a customer leaves a $100 gift card as a tip, Bob, Linda and the kids go on a $20-each shopping spree, and Gene has an awkward run-in with a former friend.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] and toilet paper an medicine and wine.
@@ -3500,6 +3753,7 @@ Watch for:
 ## S13 E19 — Crab-solutely Fabulous
 URL: https://watchwiththekids.com/ep/bobs-burgers/1319.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The kids become a part of a crustacean-themed wrestling show. Meanwhile, Linda tries to form a 21-day habit.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Sponge-Boob Square-Bra.
@@ -3507,6 +3761,7 @@ Watch for:
 ## S13 E20 — Radio No You Didn't
 URL: https://watchwiththekids.com/ep/bobs-burgers/1320.html
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Bob tells Linda and the kids the story behind an old, broken radio that used to belong to his grandmother Alice and the part it played in her discovery that a German spy lived in her building.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] but all she had were nipples
@@ -3515,6 +3770,7 @@ Watch for:
 ## S13 E21 — Mother Author Laser Pointer
 URL: https://watchwiththekids.com/ep/bobs-burgers/1321.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda almost totally accidentally kidnaps a children's book author. Meanwhile, the kids help Mr. Frond try to get his cat out of a tree in front of the school.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] tour with Guns N' Roses.
@@ -3525,6 +3781,7 @@ Watch for:
 ## S13 E22 — Amelia
 URL: https://watchwiththekids.com/ep/bobs-burgers/1322.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Louise takes a class assignment - and a few unhelpful comments by Wayne - very personally. And Bob hires a masseur-in-training to give Linda a massage for Mother's Day.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] we think you're gonna murder our mom?
@@ -3534,6 +3791,7 @@ Watch for:
 ## S14 E1 — Fight at the Not Okay Chore-ral
 URL: https://watchwiththekids.com/ep/bobs-burgers/1401.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Linda and Bob suggest the kids do chores, the family ends up in a showdown.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] I'm not wearing the right bra for this.
@@ -3541,6 +3799,7 @@ Watch for:
 ## S14 E2 — The Amazing Rudy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1402.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Rudy attends an important dinner. The Belchers make an important casserole.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] I got puffy underwear on.
@@ -3554,6 +3813,7 @@ Watch for:
 ## S14 E3 — The Pickleorette
 URL: https://watchwiththekids.com/ep/bobs-burgers/1403.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Bob and Linda help Gretchen throw her sister's bachelorette party. Meanwhile, Tina forces Gene and Louise to play a board game they found on the street.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] to sleep with my husband.
@@ -3578,6 +3838,7 @@ Watch for:
 ## S14 E4 — Running Down a Gene
 URL: https://watchwiththekids.com/ep/bobs-burgers/1404.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Gene tries to learn how to lucid dream in order to recover the world's most perfect song that he wrote while asleep. Meanwhile, Louise and Tina try to trap a cricket whose chirping is keeping Linda up at night.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] the underwear on the floor.
@@ -3585,11 +3846,13 @@ Watch for:
 ## S14 E5 — Bully-ieve It or Not
 URL: https://watchwiththekids.com/ep/bobs-burgers/1405.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: The Belcher kids learn a secret about Zeke's past, while Bob rekindles his feud with Jimmy Pesto.
 Watch for: nothing flagged.
 
 ## S14 E6 — Escape from Which Island?
 URL: https://watchwiththekids.com/ep/bobs-burgers/1406.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip on his exclusive club's secret island. Meanwhile, Linda gives the kids a crash-course on cocktail party etiquette.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] Now Hubert sounds horny?
@@ -3615,6 +3878,7 @@ Watch for:
 ## S14 E7 — The (Raccoon) King and I
 URL: https://watchwiththekids.com/ep/bobs-burgers/1407.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: During a neighborhood block party, Linda makes a mistake that could threaten the life of her favorite alley raccoon.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] that the wine cooler
@@ -3623,6 +3887,7 @@ Watch for:
 ## S14 E8 — Wharf, Me Worry?
 URL: https://watchwiththekids.com/ep/bobs-burgers/1408.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] you want to tell us about sex.
@@ -3634,11 +3899,13 @@ Watch for:
 ## S14 E9 — Fraud of the Dead: Docu-pocalypse
 URL: https://watchwiththekids.com/ep/bobs-burgers/1409.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: A documentary film profiling world class archer Louise Belcher is interrupted by unexpected visitors.
 Watch for: nothing flagged.
 
 ## S14 E10 — The Nightmare 2 Days Before Christmas
 URL: https://watchwiththekids.com/ep/bobs-burgers/1410.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When the power goes out two days before Christmas, The Belchers must spend the holiday at Mr. Fischoeder's family's old hunting lodge.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] and in my underwear.
@@ -3653,11 +3920,13 @@ Watch for:
 ## S14 E11 — Mission Impossi-Bob
 URL: https://watchwiththekids.com/ep/bobs-burgers/1411.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Teddy gets stuck in an underground survival bunker, and he calls on Bob to find him and get him out.
 Watch for: nothing flagged.
 
 ## S14 E12 — Jade in the Shade
 URL: https://watchwiththekids.com/ep/bobs-burgers/1412.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: On a tour of the town's bootlegging history, Linda and Louise stumble into a treasure-hunting adventure. Meanwhile, Bob, Tina and Gene play host to a group of street performers looking to settle a beef.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] The statue where you pinch his nipples?
@@ -3672,6 +3941,7 @@ Watch for:
 ## S14 E13 — Butt Sweat and Fears
 URL: https://watchwiththekids.com/ep/bobs-burgers/1413.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina is determined to get some upper butt action at Chelsea's party, but in her attempts to dry off her nervous butt sweat, her skirt ends up stuck in the dryer. Meanwhile, Teddy tries to get in on the family's competition of building objects from the basement trash.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] and towels and underwear!
@@ -3684,11 +3954,13 @@ Watch for:
 ## S14 E14 — The Big Stieblitzki
 URL: https://watchwiththekids.com/ep/bobs-burgers/1414.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: When the family gets invited to Rudy's father's birthday party, they scramble to make him look better than Paul, who's trying to hit on Rudy's mother. Meanwhile, Tina attempts to convince a woman to commit to a relationship with Rudy's father.
 Watch for: nothing flagged.
 
 ## S14 E15 — The Right Tough Stuff
 URL: https://watchwiththekids.com/ep/bobs-burgers/1415.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Gayle tells the family she's sending in an audition tape to be on Tough Stuff Island, Linda is determined to make her tape boring to save her from being humiliated on a rejection reel. Bob struggles with his new electric grinder while the kids secretly attempt to make Gayle's tape more interesting.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] That's right! Uh, I didn't see a nipple.
@@ -3698,6 +3970,7 @@ Watch for:
 ## S14 E16 — To Catch a Beef
 URL: https://watchwiththekids.com/ep/bobs-burgers/1416.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: When Bosco goes to Bob needing to learn how to make a burger for an undercover mission to oust criminal and burger joint owner Vincent Balicki, it becomes obvious that the sergeant is severely lacking in cooking knowledge. As Bob's family constantly halts any progress in Bob's lessons, Bosco, still unseasoned, goes to his interview, only to meet with his potential criminal employer again back at Bob's Burgers for a spontaneous burger-making test.
 Watch for:
 - Violence & injury — 5 moment(s)
   - [Too much] Oh, my God, we're gonna get murdered.
@@ -3709,6 +3982,7 @@ Watch for:
 ## S15 E1 — The Tina Table: The Tables Have Tina-Ed
 URL: https://watchwiththekids.com/ep/bobs-burgers/1501.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game. Meanwhile, Bob and Linda entertain Teddy by making up the plots to popular horror movies they haven't seen.
 Watch for:
 - Violence & injury — 3 moment(s)
   - [Too much] the movie to come murder me.
@@ -3718,6 +3992,7 @@ Watch for:
 ## S15 E2 — Saving Favorite Drive-In
 URL: https://watchwiththekids.com/ep/bobs-burgers/1502.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing. Meanwhile, Linda accidentally insults another mom while on a group text chain, and Louise and Gene hide from Tina after stealing some of her favorite candy.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Too much] He's a murderer.
@@ -3726,6 +4001,7 @@ Watch for:
 ## S15 E3 — Colon-ly the Dronely
 URL: https://watchwiththekids.com/ep/bobs-burgers/1503.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he accidentally injures himself. Meanwhile, the kids concoct a scheme to prank an overhead drone which is set to film the school from above.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Who's got naked eyes?
@@ -3738,6 +4014,7 @@ Watch for:
 ## S15 E4 — For Whom the Doll Toes
 URL: https://watchwiththekids.com/ep/bobs-burgers/1504.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: It's a mystery within a mystery as Louise stages a murder mystery in a creepy old dollhouse store for reasons that she has trouble explaining.
 Watch for:
 - Violence & injury — 7 moment(s)
   - [Too much] It's a dollhouse murder mystery.
@@ -3751,6 +4028,7 @@ Watch for:
 ## S15 E5 — Don't Stop Be-Cheesin
 URL: https://watchwiththekids.com/ep/bobs-burgers/1505.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Louise trains Tina to be the last student standing during an all-out cheese throwing battle against the other eighth graders. Meanwhile, Bob and Teddy teach Linda how to successfully eavesdrop on customers' conversations without getting caught.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Too much] He looks like a sad corpse, right?
@@ -3759,6 +4037,7 @@ Watch for:
 ## S15 E6 — Hope N' Mic Night
 URL: https://watchwiththekids.com/ep/bobs-burgers/1506.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: The kids want to host an open mic night at the restaurant, but the hidden costs keep mounting and Bob worries that this night will ruin them.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] I don't think sex workers give
@@ -3771,6 +4050,7 @@ Watch for:
 ## S15 E7 — Boogie Days
 URL: https://watchwiththekids.com/ep/bobs-burgers/1507.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: When Louise signs up for a father-daughter boogie board contest, Bob's past comes back to haunt him.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] after you guys had the sex talk?
@@ -3787,6 +4067,7 @@ Watch for:
 ## S15 E8 — They Slug Horses, Don't They?
 URL: https://watchwiththekids.com/ep/bobs-burgers/1508.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina and Louise get into an argument that escalates across several graphic "apology" cards.
 Watch for:
 - Violence & injury — 4 moment(s)
   - [Too much] different murder blades,
@@ -3799,6 +4080,7 @@ Watch for:
 ## S15 E9 — Dog Christmas Day After Afternoon
 URL: https://watchwiththekids.com/ep/bobs-burgers/1509.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: A family trip to go see Christmas lights turns into a rescue mission, in more ways than one.
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Pour some whiskey in mine.
@@ -3806,6 +4088,7 @@ Watch for:
 ## S15 E10 — Advice Things Are Ad-nice
 URL: https://watchwiththekids.com/ep/bobs-burgers/1510.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina becomes the new advice columnist for the school newspaper. Teddy takes on more than he can handle when he volunteers to build a float for the Bounty of the Bay Parade.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] "I've got butt zits, boob hairs,
@@ -3816,6 +4099,7 @@ Watch for:
 ## S15 E11 — Mr. Fischoeder's Opus
 URL: https://watchwiththekids.com/ep/bobs-burgers/1511.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When the Belchers' landlord, Mr. Fischoeder, offers them two months free rent in exchange for catering an important reception at his house, the family must do everything they can to ensure the event goes perfectly.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Maybe it's like Guns N' Roses
@@ -3825,6 +4109,7 @@ Watch for:
 ## S15 E12 — Like a Candle in the Gym
 URL: https://watchwiththekids.com/ep/bobs-burgers/1512.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Linda forces everyone to go on a family walk and the kids stumble onto a bizarre conspiracy theory.
 Watch for:
 - Violence & injury — 3 moment(s)
   - [Caution] Is that blood on your sock?
@@ -3834,6 +4119,7 @@ Watch for:
 ## S15 E13 — Snackface
 URL: https://watchwiththekids.com/ep/bobs-burgers/1513.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina, Gene, and Louise strike it rich in the illegal snack business at school but the addition of a new member to their "cartel" threatens to destroy it all.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] ready to be punched ♪
@@ -3841,6 +4127,7 @@ Watch for:
 ## S15 E14 — The Place Beyond the Pinecones
 URL: https://watchwiththekids.com/ep/bobs-burgers/1514.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257.
 Watch for:
 - Violence & injury — 4 moment(s)
   - [Too much] Just don't get murdered by them
@@ -3851,6 +4138,7 @@ Watch for:
 ## S15 E15 — The Lost City of Atlantic
 URL: https://watchwiththekids.com/ep/bobs-burgers/1515.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: The Belchers have a wild night at a casino and Linda learns more about her late grandfather than she wanted to know.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] a sex on the beach.
@@ -3870,6 +4158,7 @@ Watch for:
 ## S15 E16 — The Shell Game
 URL: https://watchwiththekids.com/ep/bobs-burgers/1516.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob competes in a Bachelor-style competition to inherit Mr. Fischoeder's 100-year-old giant tortoise.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] sex to ottoman in my room.
@@ -3887,6 +4176,7 @@ Watch for:
 ## S15 E17 — Wild Steal-ions
 URL: https://watchwiththekids.com/ep/bobs-burgers/1517.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] super sexy horses book.
@@ -3894,6 +4184,7 @@ Watch for:
 ## S15 E18 — Don't Worry, Be Hoopy
 URL: https://watchwiththekids.com/ep/bobs-burgers/1518.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina must confront her fear and her past when she advances to the County Finals of a national free throw competition.
 Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] "a skanky skank
@@ -3901,6 +4192,7 @@ Watch for:
 ## S15 E19 — The Dead Bo-ats Society
 URL: https://watchwiththekids.com/ep/bobs-burgers/1519.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] Maybe it's that boob weight?
@@ -3913,6 +4205,7 @@ Watch for:
 ## S15 E20 — Dad-urday Kite Fever
 URL: https://watchwiththekids.com/ep/bobs-burgers/1520.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When Big Bob brings over a kite from Bob's childhood, Bob is determined to fly it with his kids. Meanwhile, Teddy seeks Linda's help in rehearsing for a play.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] weird 'cause my underwear's wet.
@@ -3925,6 +4218,7 @@ Watch for:
 ## S15 E21 — Mr. Safebody
 URL: https://watchwiththekids.com/ep/bobs-burgers/1521.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Louise's schoolmate Arnold enlists her to direct a promotional video for his new bodyguarding business. Meanwhile, a stolen car blasting 90's alternative rock is abandoned outside of the restaurant.
 Watch for:
 - Violence & injury — 6 moment(s)
   - [Mild] Yeah, beat him up.
@@ -3937,6 +4231,7 @@ Watch for:
 ## S15 E22 — Insomnibob
 URL: https://watchwiththekids.com/ep/bobs-burgers/1522.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Insomnia sends Bob on a creative spree in the kitchen, but at what cost?.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] And by that, I mean fully nude.
@@ -3947,6 +4242,7 @@ Watch for:
 ## S16 E2 — 'Til Death Do Us Art
 URL: https://watchwiththekids.com/ep/bobs-burgers/1602.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Linda becomes concerned when Gayle turns her love life into a performance art piece.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Mild] and condescending in a sexy way.
@@ -3962,6 +4258,7 @@ Watch for:
 ## S16 E3 — The Twinnening
 URL: https://watchwiththekids.com/ep/bobs-burgers/1603.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Teddy takes a handyman job next door to the restaurant and finds himself trapped inside a store full of spooky antiques.
 Watch for:
 - Violence & injury — 7 moment(s)
   - [Too much] "murder mask," "haunted mask,"
@@ -3975,6 +4272,7 @@ Watch for:
 ## S16 E4 — The Skids in the Hall
 URL: https://watchwiththekids.com/ep/bobs-burgers/1604.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Louise and Gene try to help Tina clear her name after she is fired as a Hall Monitor.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] [LINDA] You look like a sex
@@ -3985,6 +4283,7 @@ Watch for:
 ## S16 E5 — The Secret Guardin'
 URL: https://watchwiththekids.com/ep/bobs-burgers/1605.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina, Gene, and Louise have a secret to keep from Linda, but their plan is jeopardized when Louise gets loopy from dental surgery.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] jumping up and slapping me,
@@ -3998,6 +4297,7 @@ Watch for:
 ## S16 E6 — Get Her to the Zeke
 URL: https://watchwiththekids.com/ep/bobs-burgers/1606.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Tina tries to set up Zeke on a date while the rest of the Belchers contend with a Super Rat.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] He had a little gun.
@@ -4005,6 +4305,7 @@ Watch for:
 ## S16 E7 — Tube for Tina
 URL: https://watchwiththekids.com/ep/bobs-burgers/1607.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Linda has a strong reaction when Tina buys a tiny tube top. Meanwhile, Bob, Teddy, Louise and Gene deal with the consequences of a rare bird flying into the window of the restaurant.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Too much] her nipple sticking out?
@@ -4014,6 +4315,7 @@ Watch for:
 ## S16 E8 — Les Lizárdables
 URL: https://watchwiththekids.com/ep/bobs-burgers/1608.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
+Summary: Gene and Courtney become embroiled in a complex custody battle over an injured lizard.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Mild] Is that code for sex stuff?
@@ -4036,6 +4338,7 @@ Watch for:
 ## S16 E9 — It's a Stunterful Life
 URL: https://watchwiththekids.com/ep/bobs-burgers/1609.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Too much] Explicit body / sex-act language appears in dialogue.
@@ -4046,6 +4349,7 @@ Watch for:
 ## S16 E10 — Heist Things Are Heist
 URL: https://watchwiththekids.com/ep/bobs-burgers/1610.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: After winning a prestigious award, Bob faces a setback at the ceremony, and the kids team up with possible former jewel thief Vincent to put things right.
 Watch for:
 - Nudity & bodies — 5 moment(s)
   - [Mild] Ugh, this bra. It's the
@@ -4063,6 +4367,7 @@ Watch for:
 ## S16 E11 — The Keyboard Kid
 URL: https://watchwiththekids.com/ep/bobs-burgers/1611.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Tina hopes her fast-but-weird typing style gets her an A in typing class so she can attend an upcoming field trip. Her typing teacher has other ideas.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] they were the keyboard's nipples,
@@ -4076,6 +4381,7 @@ Watch for:
 ## S16 E12 — Children of the Carn
 URL: https://watchwiththekids.com/ep/bobs-burgers/1612.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
+Summary: The kids return to Carniapolis to help an ex-carnie restart what they think is an innocent prank-war. Teddy sees his therapist at Bob's.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Have I told you about the sex stuff
@@ -4100,6 +4406,7 @@ Watch for:
 ## S16 E13 — Driving Miss Ragey
 URL: https://watchwiththekids.com/ep/bobs-burgers/1613.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
+Summary: Nat the limo driver helps Linda with her road rage. Meanwhile, the kids and Bob discover both the joys and the risk involved in riding a mattress down the stairs.
 Watch for:
 - Nudity & bodies — 4 moment(s)
   - [Mild] other cars naked, you know?
@@ -4117,6 +4424,7 @@ Watch for:
 ## S16 E14 — Stuck in the Middle with Hu(go)
 URL: https://watchwiththekids.com/ep/bobs-burgers/1614.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: Bob is forced to spend time with one of his least favorite people, while Tina is entrusted with something very close to Jimmy Junior's heart.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Too much] Not my nipple!
@@ -4133,6 +4441,7 @@ Watch for:
 ## S16 E15 — Smellbound
 URL: https://watchwiththekids.com/ep/bobs-burgers/1615.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
+Summary: When a horrible smell threatens to cancel one of the kids' favorite town traditions, Tina, Gene, and Louise decide to try and get rid of the smell themselves.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Harold's sex night, Bob.

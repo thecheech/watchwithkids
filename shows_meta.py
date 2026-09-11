@@ -66,7 +66,7 @@ SHOWS = {
         "age": 11,
         "floor": 9,
         "format": "live-action sitcom",
-        "note": "Family-first; adult plots are talked around rather than shown.",
+        "note": "Family-first sitcom; sex and relationship plots are frequent but talked around rather than shown. Expect ongoing hookup jokes, dating mishaps, and parenting-around-teen-sexuality storylines. Drinking is social (wine, beer at family dinners). The show's strength is warm family dynamics despite awkward situations.",
     },
     "malcolm-in-the-middle": {
         "name": "Malcolm in the Middle",
@@ -82,7 +82,7 @@ SHOWS = {
         "age": 10,
         "floor": 8,
         "format": "live-action sitcom",
-        "note": "The mildest of the rewatch shelf — occasional grown-up subplots.",
+        "note": "The mildest of the rewatch shelf. Occasional wine/beer mentions in adult scenes, rare mild profanity, and infrequent body-image jokes (fat-shaming). Most episodes are gentle family sitcom fare. Preview episodes rated 3+ if your family is navigating weight or self-image conversations.",
     },
     "futurama": {
         "name": "Futurama",
@@ -213,6 +213,7 @@ SHOWS = {
     "bobs-burgers": {
         "name": "Bob's Burgers", "shelf": "rewatch", "age": 11, "floor": 9,
         "format": "animation",
+        "note": "Oddball family restaurant comedy. Plenty of bathroom humor, sexual innuendo, and absurd premises (nude beaches, burlesque clubs as B-plots). The kids are precocious and the humor skews adult, but violence is cartoon-mild and language is mostly clean. Best for families OK with weird, irreverent humor.",
     },
 }
 
