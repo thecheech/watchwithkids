@@ -7,6 +7,7 @@ Buckets: 115 mild (1–2), 28 caution (3), 5 too much (4–5).
 ## S1 E1 — The Fresh Prince Project
 URL: https://watchwiththekids.com/ep/fresh-prince/0101
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Aunt Vivian tries to mediate between her husband Philip and the newly arrived Will.
 Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “I encountered bigotry you could not imagine.”
@@ -14,6 +15,7 @@ Watch for:
 ## S1 E2 — Bang the Drum, Ashley
 URL: https://watchwiththekids.com/ep/fresh-prince/0102
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Will persuades Ashley to pawn her violin for a drum set.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Girls, you must remember to practice more, no? Violin is very jealous, much like the sexy Toscanini.”
@@ -23,6 +25,7 @@ Watch for:
 ## S1 E3 — Clubba Hubba
 URL: https://watchwiththekids.com/ep/fresh-prince/0103
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Will wants to go out with a beautiful girl he meets at the country club, but first he must figure out how to impress her extremely snobbish and very protective father.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “I seem to be painfully shy with the fairer sex.”
@@ -36,6 +39,7 @@ Watch for:
 ## S1 E4 — Not with My Pig, You Don't
 URL: https://watchwiththekids.com/ep/fresh-prince/0104
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Will tries to smooth things between Philip and his very rural parents when they visit to see him receive an award.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “He just loved his skinny-dipping, him and Melvin.”
@@ -44,6 +48,7 @@ Watch for:
 ## S1 E5 — Homeboy, Sweet Homeboy
 URL: https://watchwiththekids.com/ep/fresh-prince/0105
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Will gets a visit from an old pal named Ice Tray, who, to Vivian and Philip's dismay, warms up to Hilary.
 Watch for:
 - Violence & injury — 2 moment(s)
   - [Mild] “The boy got a crazy rabbit punch, like you don't even see it coming.”
@@ -52,6 +57,7 @@ Watch for:
 ## S1 E6 — Mistaken Identity
 URL: https://watchwiththekids.com/ep/fresh-prince/0106
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: While Philip and Vivian go on a trip to Palm Springs in Mrs. Furth's helicopter, Will and Carlton are paid to drive Mr. Furth's Mercedes-Benz there as well. They get pulled over by a police officer for "stealing" the car. Luckily, Will is able to get Philip and Vivian's attention by making a phony confession on TV and he and Carlton are acquitted, Phillip even going so far as to lambaste the officers on duty for immediately writing the two off as criminals instead of going through the proper procedures. This turns into an argument between Will and Carlton about racial profiling after they get home with Carlton insisting that the justice system is not flawed, but when Philip recounts a similar experience, Carlton thinks it over with himself. Meanwhile, Hilary babysits Ashley and proves to be an unhealthy influence on the young girl when she gives her too much coffee.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “Is that the police? - Punch it, man.”
@@ -59,6 +65,7 @@ Watch for:
 ## S1 E7 — Def Poet's Society
 URL: https://watchwiththekids.com/ep/fresh-prince/0107
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The family pressures Will to join an after school club. Following the girls into a poetry class, he spontaneously makes up a poem on the spot to impress them and claims it was written by a reclusive poet named "Raphael de la Ghetto", a name he made up there and then. Impressed, Christina asks to bring him to Poetry Night and after Jazz doesn't come through with an impostor, Will turns to Geoffrey to masquerade.
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “"Panzer-man, panzer-man, O You "Every woman adores a Fascist "The boot in the face, the brute "Brute heart of a brute like you" Sylvia Plath killed herself shortly after writing this poem.”
@@ -66,21 +73,25 @@ Watch for:
 ## S1 E8 — Someday Your Prince Will Be in Effect (1)
 URL: https://watchwiththekids.com/ep/fresh-prince/0108
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: The family heads to the mall to pick up costumes for Hilary's Halloween party, while Will and Carlton place a bet to see who can find a date for the party. Philip gets held up at a gadget store. Vivian sings in a recording booth, where she receives positive feedback and a large audience standing outside listening to her. When Hilary forgets to take a hat off of Ashley and walks out of the store with it, they are accused of shoplifting. Will and Carlton both spot a woman, Melinda, and run to her, ending the episode on a cliffhanger.
 Watch for: nothing flagged.
 
 ## S1 E9 — Someday Your Prince Will Be in Effect (2)
 URL: https://watchwiththekids.com/ep/fresh-prince/0109
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Will and Carlton both try to win Melinda over by making up stories about themselves. Carlton successfully wins her over, much to Will's surprise. Will goes and drowns his sorrows in croissants, where he asks the nerdy waitress, Cindy, out to Hilary's party. Hilary's party starts off great until Carlton's date turns out to be a thief, and the shoplifter Hilary was accused of being.
 Watch for: nothing flagged.
 
 ## S1 E10 — Kiss My Butler
 URL: https://watchwiththekids.com/ep/fresh-prince/0110
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: It is Geoffrey's birthday and Will decides to set him up on a blind date with an English woman named Helen as a gift. Will, thinking she is better for him, figures she will be turned off by his stodgy attitude. However, Geoffrey ends up having a great time with her. Geoffrey also gives Will an insight about prejudging others and that some men view birthdays as a time to reflect on one's life, not party.
 Watch for: nothing flagged.
 
 ## S1 E11 — Courting Disaster
 URL: https://watchwiththekids.com/ep/fresh-prince/0111
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Will joins the school basketball team, of which Carlton is already a member. Will becomes the star player of the team, causing Carlton to become jealous and Will to take practices lightly and treat games as forums for tricks. At the peak of his jealousy, Carlton decides to steal the ball from Will and take the game's winning shot, though he misses, costing the team the game. Both Will and Carlton learn their lessons back at the house.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Boy, you're lucky that was just a starter's pistol.”
@@ -88,11 +99,13 @@ Watch for:
 ## S1 E12 — Talking Turkey
 URL: https://watchwiththekids.com/ep/fresh-prince/0112
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Will's mom, Vy, comes to the Banks household for Thanksgiving. She gets angry that the kids leave all of the work to Geoffrey and criticizes her sister that she wanted Will to be in a safe environment, but not a pampered one. Vivian then decides to make the kids cook Thanksgiving dinner to show how hard other people work to provide for them. Carlton also invites his English teacher to the dinner. However, when the kids make multiple errors, Vy laughs maybe that lesson was not ideal.
 Watch for: nothing flagged.
 
 ## S1 E13 — Knowledge is Power
 URL: https://watchwiththekids.com/ep/fresh-prince/0113
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: In order to get the family car instead of Will, Hilary tells Phil that Will has been disobeying curfew, subcontracting his chores to Ashley and renting out the family car. He is consequently grounded for a month. Will plans revenge; while going to find out where Hilary is shopping, he learns that she dropped out of college three months ago. Will uses this in order to get Hilary to slave for him during his punishment. Hilary tries to get Carlton to go against Will, but instead he blackmails her too. Carlton and Will both have lists of embarrassing tasks that Hilary must do at the dinner table. When this proves too much pressure for Hilary, she admits she dropped out. Her parents have a long talk with her about her path in life, but also come down on Will and Carlton for their blackmail, giving Will another month of confinement. In the end, Will admits to Hilary that he wasn't planning to tell her parents about dropping out of college as he was trying to teach her a lesson about ratting him out, which she gets and learned from it.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “We can punch holes in her credibility.”
@@ -100,6 +113,7 @@ Watch for:
 ## S1 E14 — Day Damn One
 URL: https://watchwiththekids.com/ep/fresh-prince/0114
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Ashley and her friends ask Will to tell a scary story at their slumber party before they go to sleep. Will tells the tale of his first day at Bel-Air Academy and how he carved his name into a desk that the first students of the school carved into.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Breathing just enough to keep the blood circulating.”
@@ -109,6 +123,7 @@ Watch for:
 ## S1 E15 — Deck the Halls
 URL: https://watchwiththekids.com/ep/fresh-prince/0115
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Will realizes that Ashley has never experienced a real Christmas before (since back in Philadelphia, there would be carolers, lights and neat decorations, while in Bel-Air there are only a few decorations, no carolers, and hardly anything in the Christmas spirit) and goes out of his way to let her have one. He decorates the inside of the house and also the outside with hundreds of lights, decor, and colors; upsetting some of the neighbors, to include Evander Holyfield.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Five, six, five, six, seven, and Hold it! What the bloody hell kind of song is that? What do you mean? A little kid sees his mom tongue-wrestling with Santa Claus? Will, it's his father dressed up like Santa Claus.”
@@ -118,16 +133,19 @@ Watch for:
 ## S1 E16 — The Lucky Charm
 URL: https://watchwiththekids.com/ep/fresh-prince/0116
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Due to a couple of coincidences, one of Philip's clients, a very superstitious businessman, thinks Will is his good luck charm. He befriends Will, who is allowed to decide on some of his major decisions in the stock market. Will does not seem to mind, especially when given corporate perks, but Philip warns this could take a turn for the worse.
 Watch for: nothing flagged.
 
 ## S1 E17 — The Ethnic Tip
 URL: https://watchwiththekids.com/ep/fresh-prince/0117
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Will proposes a black history class be instituted at Bel-Air Academy, and expects an easy A when Vivian volunteers to teach it. Many of the students enjoy her ways of teaching, except Will and Carlton when she gives them extra homework to do. At the end of the course, Vivian explains that she gave the two extra homework because as the only two black students in class she thought they'd get more from the course. When Will says he has read The Autobiography of Malcolm X, to which Vivian retorts there is more and unless he learns the full history behind the struggle for equal rights, then he all he has done is trivialize it. The show closes with a Malcolm X quote which reads: "Education is the passport to the future, for tomorrow belongs for those who prepare for it today."
 Watch for: nothing flagged.
 
 ## S1 E18 — The Young and the Restless
 URL: https://watchwiththekids.com/ep/fresh-prince/0118
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: When Uncle Phil's mother comes for a visit after recovering from a bout with the flu, Will talks her into rebelling against Phil's wishes of taking it easy in order to go to a rap concert.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “She works in a fancy men's store where even the underwear comes from Europe.”
@@ -136,6 +154,7 @@ Watch for:
 ## S1 E19 — It Had to Be You
 URL: https://watchwiththekids.com/ep/fresh-prince/0119
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Jazz asks Will the favor of taking his sister Janet out on a date after she moves into town. Will does so reluctantly, until Jazz introduces the two. Will takes Janet on a date, but learns that she's extremely bossy and has her whole life planned out for the pair already. Janet tells Will what to do, where to go and how to look, and criticizes Will for every little thing. Jazz recommends that if Will doesn't like her he should introduce her to someone else. He does so to Carlton at a club. When Janet displays her rudeness, Carlton sternly tells her he expects his dates to be courteous and respectful to others, which surprisingly causes her and Carlton to become a nice couple.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “" Philip, you better sleep with one eye open.”
@@ -143,6 +162,7 @@ Watch for:
 ## S1 E20 — Nice Lady
 URL: https://watchwiththekids.com/ep/fresh-prince/0120
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Geoffrey's old employer Lord Fowler and his daughter Lady Penelope come to the Banks' house for the weekend. Will wants to use the car to go to a Ziggy Marley concert in Nevada, but Philip and Vivian make it conditional on the basis he not cause any trouble while they are hosting their guests. Will is going to have his hands full when Penelope sneaks out to a rough club in L.A. and cavorts with bikers.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “She stole the car, she snuck out to the roughest bar in town and then she hooked up with a human Godzilla.”
@@ -153,6 +173,7 @@ Watch for:
 ## S1 E21 — Love at First Fight
 URL: https://watchwiththekids.com/ep/fresh-prince/0121
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: One of Vivian's students, Kayla Samuels comes over for dinner and Will tries to impress her but fails. Eventually, Will wins her over and inadvertently starts taking time away from her studies so Vivian tells him to cut back on their relationship so Kayla can have a good future. Vivian winds up lecturing Kayla and revealing things about her own struggles to be successful.
 Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “What about my mama? Your mama's so fat, they showed her a picture of her feet and she couldn't identify them.”
@@ -160,6 +181,7 @@ Watch for:
 ## S1 E22 — Banks Shot
 URL: https://watchwiththekids.com/ep/fresh-prince/0122
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Vivian goes away to Berkeley for the weekend, leaving Hilary in charge. When Will steals the car keys to go to the pool hall, and winds up losing his money and the car to a hustler, Philip must go down to rescue him. There he acts like he's never played pool before and lets the hustlers win. They then play again with Philip's signature cue named Lucille for $100 a ball in which Geoffrey gives to him. He then greatly wins over the hustlers (totalling to $900) and gets the car back. Hilary acts as a tyrant to Carlton and Ashley when she is left in charge.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “$300? What for? Hey, young blood.”
@@ -172,16 +194,19 @@ Watch for:
 ## S1 E23 — 72 Hours
 URL: https://watchwiththekids.com/ep/fresh-prince/0123
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Will makes a bet that Carlton wouldn't last a weekend in Jazz's neighborhood, Compton, because of the way he is. Carlton takes the bet too far by becoming very thug-like, wearing colorful clothing, shades, and bandanas (like Will), and Will has to find a way to stop him from going to MacArthur Park at night. He then rats on him to the parents, and they go to rescue him before going to the park. At the house, Carlton wins the bet, and the reason he won is because Will cared about him and didn't want him to possibly die at the park that night.
 Watch for: nothing flagged.
 
 ## S1 E24 — Just Infatuation
 URL: https://watchwiththekids.com/ep/fresh-prince/0124
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Ashley's birthday is nearing and when the family asks her what she would like for her birthday, she shows them a picture of Little T, the popular teen singer. Hilary knows T's agent so she has him come to Ashley's birthday party to perform a song for her. They hit it off and set up a date for the next day. Will and Carlton disagree with the date, so they decide to follow them on their date. They find out that all the things they heard about him were false and let them continue on with their date. At the house, as Ashley is adjusting her hair, Will thinks back to the time he taught her how to rap and how she is already growing up fast.
 Watch for: nothing flagged.
 
 ## S1 E25 — Working It Out
 URL: https://watchwiththekids.com/ep/fresh-prince/0125
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Hilary lands a new job as an assistant to an actress, Marissa Redman who turns out to be completely disrespectful. Will surprises Hilary with Jazz in the office and Marissa takes a liking to Will, wanting to bring him to a restaurant opening and threatens Hilary with being fired in order to set up the date. Will agrees, but only if Hilary goes on a date with Jazz. Marissa gets mad at Hilary for not giving someone champagne when Jazz acts up and gets mad at Marissa for talking to Hilary like that. At home, Hilary thanks Jazz by kissing him.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Did you send him a bottle of champagne like I told you for the premiere of his crappy movie? You said this morning you were thinking of sending him something but didn't know what.”
@@ -190,6 +215,7 @@ Watch for:
 ## S2 E1 — Did the Earth Move for You?
 URL: https://watchwiththekids.com/ep/fresh-prince/0201
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: The Banks family gets tickets to the People's Choice Awards, but on the way there, an earthquake happens. The parents are stuck in Uncle Phil's workplace, Will and his girlfriend Kathleen are stuck in the house's basement, and the rest are stuck in traffic. Will finds out more about his newfound love than he wanted to. Kathleen begins to reveal her true self. They decide to break up because they can't be together. This episode is referenced in "M is for the Many Things She Gave Me" in Season 4.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Pardon me while I go get a knife.”
@@ -197,6 +223,7 @@ Watch for:
 ## S2 E2 — The Mother of All Battles
 URL: https://watchwiththekids.com/ep/fresh-prince/0202
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Ashley is being bullied by Paula Hoover at her school and turns to Will and Carlton for help. Will attempts to teach her how to fight while Carlton tries to teach her how to bribe. Paula and her parents visit Uncle Phil and Aunt Viv and the two sets of parents also clash. The two girls are sitting in the kitchen when they realize that Paula hated Ashley because she bumped into her while she was slow dancing with a boy she liked. Paula thought Ashley did this on purpose, but Ashley says it was because the boy she was dancing with liked Paula and wanted to get closer to her. They then become friends. After a Yo Momma joke directed at Uncle Phil that takes things too far, Uncle Phil punches Paula's father. Philip talks to Ashley about fighting.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Like, picture Mike Tyson in a training bra.”
@@ -211,6 +238,7 @@ Watch for:
 ## S2 E3 — Will Gets a Job
 URL: https://watchwiththekids.com/ep/fresh-prince/0203
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Philip mistakes Will for Carlton accidentally several times and offers to pay for Will's Homecoming dance expenses, causing Will to become paranoid that he is becoming exactly like Carlton and totally living off of Uncle Phil's help and money. Will decides to secretly get a job at a pirate-themed restaurant to pay for the Homecoming expenses himself. Will excitedly tells the news to Uncle Phil, who then grounds him for "not telling the truth" for his missing basketball practices, sleeping in class, and skipping school. Ashley knows about this, and takes the family to the restaurant Will works for. Due to the costume, Uncle Phil originally doesn't recognize Will, who tries to get away with some insults. When Uncle Phil tells the pirate server (Will) about how rude he is being, Will takes the costume off. In the end they make up once Uncle Phil realizes why Will wanted to get a job, and Will realizes it is okay to get help from Uncle Phil to succeed. Meanwhile, Carlton has to put up with Ashley's friend Tina after she sees him in a swimsuit. She follows him around until she sees Will in the costume.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I wonder if it shows too much cleavage.”
@@ -220,6 +248,7 @@ Watch for:
 ## S2 E4 — PSAT Pstory
 URL: https://watchwiththekids.com/ep/fresh-prince/0204
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Will is a picture of confidence, while Carlton is a frazzled bundle of nerves over preparing for college aptitude tests. Carlton is basing his whole future on one test score, while Will does not think too much of it. Will beats Carlton, scoring in the 91% tier (116) while Carlton scores in the 90% tier (114). Carlton pesters Will about the scores and tries to say what could have gone wrong, and concludes that his nervousness distracted him. The next week, during a pop quiz by Coach Smiley, Carlton copies Will's paper when the pressure gets to him. He is caught by Coach Smiley and sent to the headmaster's office. Will tricks the coach into thinking Carlton had a sports injury where he could move his neck toward Will when faced with stress. They believe this, until Carlton thanks Will for getting him out of trouble for cheating and they get caught; Philip grounds them both. Meanwhile, Geoffrey works hard towards getting a raise by cooking and planning a blueprint for a gazebo. When he only gets $20 a week, he quits. The family tries to bring him back and offers him $100 a week; he takes it and Uncle Phil apologizes for taking him for granted.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “Carlton, I don't think they'll send you to prison for cheating on a test.”
@@ -229,6 +258,7 @@ Watch for:
 ## S2 E5 — Granny Gets Busy
 URL: https://watchwiththekids.com/ep/fresh-prince/0205
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: Hattie comes over to the Banks' place for a while. Everyone introduces Hattie to a neighbor, Mrs. Sweeting, who is very boring. That night, Vivian wants to have sex with Phil and bought a brand new nightgown, when he notices a note on the bed saying Hattie went over to play cards with the neighbor. Philip goes to check on her, but he is shocked when he spies on her and finds her kissing Ed Downer, the handyman. The next night, they talk and they both realize that after a year of being a widow, it's time for Hattie to start dating again. Meanwhile, Will and Carlton have a bet with Hilary and Ashley to see who can do something that the opposite gender can do better. Will and Carlton must sew a dress and Hilary and Ashley must build an exercise bike. It ends in a tie as both sides complete their tasks perfectly.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Just come out naked.”
@@ -239,6 +269,7 @@ Watch for:
 ## S2 E6 — Guess Who's Coming to Marry?
 URL: https://watchwiththekids.com/ep/fresh-prince/0206
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Tensions spill over just before the wedding of Will's Aunt Janice, when Will's mom meets Janice's intended husband, Frank who is a white man. Although everyone else is willing to accept Janice's decision, Vy refuses to do so and decides not to attend the interracial wedding, and forbids Will too, even though he's in the ceremony. However, through Will's advices about not controlling everything and that she shouldn't stop loving family just because of choices or opinions, Vy is convinced to go to Janice's wedding and accepts her decision as she happily marries Frank.
 Watch for:
 - Sex & hookups — 3 moment(s)
   - [Caution] “I want to sleep with Carlton.”
@@ -258,6 +289,7 @@ Watch for:
 ## S2 E7 — The Big Four-Oh
 URL: https://watchwiththekids.com/ep/fresh-prince/0207
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: The kids put on a 40th birthday party for Vivian, but this only makes her think life is passing her by. She rethinks her past and what some of her goals were. She remembers back to a time when her soul and main purpose was to be a dancer. When she takes dance lessons, she is intimidated by the young, athletic women. However, she dedicates herself to dance and nails an audition. Vivian decides to return to her job as a professor, realizing her love of teaching is not a life wasted.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “You know, Uncle Phil most husbands wouldn't want their wives running off half naked to a bunch of bulging, masculine dancers that's gonna be grabbing them and lifting them in places their husbands forgot existed.”
@@ -267,6 +299,7 @@ Watch for:
 ## S2 E8 — She Ain't Heavy
 URL: https://watchwiththekids.com/ep/fresh-prince/0208
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Will is getting tickets to a Lakers basketball game when Uncle Phil decides to give the other tickets to one of his clients' daughter. Will hits it off with the full-figured friend named Dee Dee, but her size keeps Will from asking her to the dance. Though Will likes her, he takes the shallow way out as soon as his friends start teasing him. At a pizza place, his friends from the place and school make fun of her size, which Dee Dee hears it when she comes out of the washroom. She ignores Will for a while. He has a very boring date who talks too much, and so does Dee Dee. When he sees her at the dance with another guy, he sees more clearly that it's what's on the inside that counts more than the outside.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “This is the episode of Star Trek where Captain Kirk sleeps with that green girl.”
@@ -276,6 +309,7 @@ Watch for:
 ## S2 E9 — Cased Up
 URL: https://watchwiththekids.com/ep/fresh-prince/0209
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
+Summary: Hilary finally meets the man Uncle Phil has wanted her to date, Eric. He is young, dashing, rich, and the things that Hilary is looking for in a man. All is going well until there is a small car accident caused by Will's new car. Since Will is underage and uninsured, Uncle Phil gets sued as he is the in loco parentis guardian of Will.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Dude's got a gun, next thing you know I got six warning shots in my back.”
@@ -384,6 +418,7 @@ Watch for:
 ## S2 E20 — Those Were the Days
 URL: https://watchwiththekids.com/ep/fresh-prince/0220
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Marge, an old friend of Uncle Phil and Aunt Vivian from their civil rights protesting days shows up at their door one day, she fills the kids' lives with the romanticized stories of their protesting days. As a result, Will goes to some drastic measures to show his displeasure of a Bel Air Prep firing a popular teacher. They soon discover that Marge is on the run and wanted by the FBI.
 Watch for:
 - Nudity & bodies — 3 moment(s)
   - [Mild] “I wanted to do something meaningful and artistic but ain't nobody getting naked.”
@@ -437,6 +472,7 @@ Watch for:
 ## S2 E24 — Strip-Tease for Two
 URL: https://watchwiththekids.com/ep/fresh-prince/0224
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
+Summary: Carlton gets an insider tip regarding a stock for a struggling airline, he talks Geoffrey and Will to buy some stock in the company. After Aunt Vivian asks Will and Carlton to go take a broken bracelet to be fixed, Carlton gets the bright idea to pawn it and buy more stock. However, when the company goes bankrupt and the guys lose all their money, they go to some drastic measures to raise the money to get the bracelet back.
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Between King Thong and Rambro.”
@@ -530,6 +566,7 @@ Watch for:
 ## S3 E8 — Boyz in the Woods
 URL: https://watchwiththekids.com/ep/fresh-prince/0308
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Looking to spend some quality time with Will and Carlton before they head off to college, Uncle Phil decides to take them on a camping trip. However, things go wrong when they get caught in a snow storm that causes them to take shelter in an old, abandoned cave. Meanwhile at home, Hilary tries to have a romantic evening with Trevor, only to have it interrupted by Jazz.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “Man, I'm sleeping with the presidents.”
@@ -541,6 +578,7 @@ Watch for:
 ## S3 E9 — A Night at the Oprah
 URL: https://watchwiththekids.com/ep/fresh-prince/0309
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Hillary's boyfriend Trevor uses an old contact to pull some strings to get Phillip and the family on Oprah's show to talk about family and politics. Will's thrilled about going to Chicago and being on television with them, but there's one small detail, it's only the immediate family appearing on the show. When Will finds out, right before they go on stage, he's mad and jealous about having to sit in the audience. As a result, when Oprah calls on the audience for questions, Will starts embarrassing the family on national television.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Has being in politics ruined your sex life? No, mine's great, how's yours, honey? Oprah, I have a question.”
@@ -581,6 +619,7 @@ Watch for:
 ## S3 E13 — Mommy Nearest
 URL: https://watchwiththekids.com/ep/fresh-prince/0313
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: Vivian's family is in town for a visit, upon Vy's arrival, she tells everyone that she and Robert broke up, surprising everyone. However, her announcement of Will moving back to Philly after graduating high school throws everyone for a bigger loop. As a result, Will tries to find a way to tell his mom that he would rather stay in California than move back home without making her mad.
 Watch for:
 - Sex & hookups — 2 moment(s)
   - [Caution] “Now, what does Aunt Eleanor have that I don't? A horny husband.”
@@ -680,6 +719,7 @@ Watch for:
 ## S3 E22 — Ain't No Business Like Show Business
 URL: https://watchwiththekids.com/ep/fresh-prince/0322
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Will's friend Keith is in Los Angeles from Philadelphia, looking to break into the stand-up comedy scene. Thinking that it's an easy thing to start, Will decides to go down that career path as well, despite the warnings from both Keith and Uncle Phil. When Will sneaks out of the house to go with Carlton, Hilary, and Keith to an open mic night, he gets heckled off the stage while Keith gets a standing ovation. It's at that moment he realizes it's tough to get started down a certain career path if you don't have the talent and experience.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Telling jokes See, that's what your drunk Uncle Lou do at weddings.”
@@ -758,6 +798,7 @@ Watch for:
 ## S4 E6 — Will Goes a-Courtin'
 URL: https://watchwiththekids.com/ep/fresh-prince/0406
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
+Summary: With Aunt Vivian out of town and unable to play mediator between Will, Carlton, and Uncle Phil. The guys promptly get into a little tiff when Uncle Phil hears about a party the boys want to host at the pool house. When Will and Carlton refuse to pay their rent until Uncle Phil fixes their air conditioning, Uncle Phil gets the last laugh when he takes the boys to court.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “And then he slapped me with a subpoena.”
@@ -769,6 +810,7 @@ Watch for:
 ## S4 E7 — Hex and the Single Guy
 URL: https://watchwiththekids.com/ep/fresh-prince/0407
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
+Summary: It's Halloween and Hilary decides to hold a séance with a somewhat well-known psychic in order to say goodbye to Trevor and forces the family to go with her. However, when Will begins to mock the psychic, he puts a curse on him, resulting in everyone else at the mansion having bad luck. Will then goes back to the psychic's house and begs him to lift the curse.
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “So if I hook up with some babe tonight, I promise to practice safe hex.”
@@ -787,6 +829,7 @@ Watch for:
 ## S4 E9 — Fresh Prince After Dark
 URL: https://watchwiththekids.com/ep/fresh-prince/0409
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: When Jackie finally agrees to go on a date with Will, he reluctantly has to cancel when Hilary asks him to be her chaperone at the Playboy Mansion, where she is asked to pose in an upcoming issue. Upon learning of Hilary's opportunity, Uncle Phil forbids her from posing for the magazine. However, when he learns that she decides to go with it, Uncle Phil decides to go into hiding.
 Watch for:
 - Nudity & bodies — 2 moment(s)
   - [Mild] “Imagine how much more fun it would be if we was both naked.”
@@ -795,6 +838,7 @@ Watch for:
 ## S4 E10 — Home is Where the Heart Attack Is
 URL: https://watchwiththekids.com/ep/fresh-prince/0410
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
+Summary: When his doctor says he has to take better care of himself by eating healthier and exercising, Uncle Phil is less than thrilled at that prospect. As a result, he has Will sneak into the mansion unhealthy food from various fast food joints and ultimately has a heart attack. While Uncle Phil is recovering in the hospital, Will tries to convince a scared Carlton to visit his father.
 Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “I'm afraid he's gonna cheat on his diet.”
@@ -813,6 +857,7 @@ Watch for: nothing flagged.
 ## S4 E12 — You've Got to Be a Football Hero
 URL: https://watchwiththekids.com/ep/fresh-prince/0412
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Carlton gets stopped and nearly arrested by police while driving Will's car through a wealthy neighborhood. The episode confronts racial profiling head-on, with Carlton initially refusing to believe the system is flawed until Uncle Phil shares his own experience of being profiled. Meanwhile, Will processes his anger at systemic racism. A powerful episode that many viewers cite as formative in understanding police bias.
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “The doctor said the next punch could kill me.”
@@ -1402,6 +1447,7 @@ Watch for:
 ## S6 E24 — I, Done (2)
 URL: https://watchwiththekids.com/ep/fresh-prince/0624
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
+Summary: Will's estranged father Lou returns after years of absence and promises to take Will on a cross-country trip to reconnect. When Lou abandons Will again at the last minute, Will's pain and anger culminate in one of television's most iconic emotional breakdowns as he collapses into Uncle Phil's arms asking, 'How come he don't want me, man?' The scene is devastating and honest about father abandonment.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] “Let's crack open a bottle of champagne.”
