@@ -94,6 +94,12 @@
       "permanent": true
     },
     {
+      "source": "/",
+      "has": [{ "type": "host", "value": "www.watchwiththekids.com" }],
+      "destination": "https://watchwiththekids.com/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "www.watchwiththekids.com" }],
       "destination": "https://watchwiththekids.com/:path*",
