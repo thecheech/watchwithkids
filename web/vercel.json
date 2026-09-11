@@ -48,6 +48,16 @@
   ],
   "redirects": [
     {
+      "source": "/what-to-watch/:path*",
+      "destination": "/guides/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/what-to-watch",
+      "destination": "/guides/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "www.watchwiththekids.com" }],
       "destination": "https://watchwiththekids.com/:path*",
