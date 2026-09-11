@@ -4,7 +4,7 @@ Source: https://watchwiththekids.com/how-i-met-your-mother.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 29 mild (1–2), 82 caution (3), 97 too much (4–5).
 
-## S1 E1 — 1. Pilot
+## S1 E1 — Pilot
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0101.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -31,7 +31,7 @@ Watch for:
   - [Mild] “No, you are too old to be scared to open a bottle of champagne.”
   - [Mild] “One you plan out for months, the other just slips out when you're half-drunk at some bar.”
 
-## S1 E2 — 2. Purple Giraffe
+## S1 E2 — Purple Giraffe
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0102.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -48,7 +48,7 @@ Watch for:
   - [Mild] “Well, maybe in a few months after it's not so fresh we could all, you know, get a beer.”
   - [Mild] “We could all get a beer now.”
 
-## S1 E3 — 3. Sweet Taste of Liberty
+## S1 E3 — Sweet Taste of Liberty
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0103.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -58,7 +58,7 @@ Watch for:
   - [Mild] “Why do I hang out with you? Why? All I wanted was to have a regular beer at my regular bar, with my regular friends in my regular city.”
   - [Mild] “Now, if you want, you can go to the same bar, drink the same beer, taIk to the same people every day.”
 
-## S1 E4 — 4. Return of the Shirt
+## S1 E4 — Return of the Shirt
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0104.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -81,7 +81,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh, so much more wine.”
 
-## S1 E5 — 5. Okay Awesome
+## S1 E5 — Okay Awesome
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0105.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -106,7 +106,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “Wow! Who knew being in a committed heterosexual relationship could make a guy so gay.”
 
-## S1 E6 — 6. Slutty Pumpkin
+## S1 E6 — Slutty Pumpkin
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0106.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -133,7 +133,7 @@ Watch for:
   - [Mild] “Could this penguin be the slutty pumpkin? Excuse me? This is gonna sound crazy, but I met someone up on this roof four years ago and they mixed that cocktail, and they loved penguins.”
   - [Mild] “(IMITATES ECHO) How do you do this, Ted? How do you sit out here all night on the roof, in the cold, and still have faith your pumpkin's gonna show up? Well, I'm pretty drunk.”
 
-## S1 E7 — 7. Matchmaker
+## S1 E7 — Matchmaker
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0107.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -148,7 +148,7 @@ Watch for:
   - [Mild] “That's a perfect cocktail.”
   - [Mild] “Wait, but if it's not here, that means Lily! - Robin! - What? (EXCLAIMING) (MOUSE SQUEAKING) - Oh, my God! It's real! - No, is it? Do something! No! What the hell was that? You trying to get it drunk?”
 
-## S1 E8 — 8. The Duel
+## S1 E8 — The Duel
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0108.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -163,7 +163,7 @@ Watch for:
   - [Too much] “I stabbed Lily.”
   - [Caution] “Maybe it's the massive blood loss taIking, but I'm starving.”
 
-## S1 E9 — 9. Belly Full of Turkey
+## S1 E9 — Belly Full of Turkey
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0109.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -178,7 +178,7 @@ Watch for:
   - [Mild] “Cranberry juice, potato vodka, and a bouillon cube.”
   - [Mild] “You peed on a church? I peed in an alley, which happened to have a church, which I did not see, because I was drunk.”
 
-## S1 E10 — 10. The Pineapple Incident
+## S1 E10 — The Pineapple Incident
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0110.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -201,7 +201,7 @@ Watch for:
   - [Mild] “We're drunk.”
   - [Mild] “You turn off your brain for a night, and all you're left with the next day is a bad hangover, a sprained ankle and a pineapple.”
 
-## S1 E11 — 11. The Limo
+## S1 E11 — The Limo
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0111.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -213,7 +213,7 @@ Watch for:
   - [Mild] “So, where are you from, Natalya? - She Who knows? The former Soviet Republic of Drunk-off-her-ass-istan? Super drunk fantastic, huh? (MUMBLING) Isn't she awesome? - How are your feet doing, baby? - Oh, okay.”
   - [Mild] “Laugh for the sad clown trapped on his whirling carousel of suits, and cigars, and bimbos, and booze.”
 
-## S1 E12 — 12. The Wedding
+## S1 E12 — The Wedding
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0112.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -230,7 +230,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “This morning at the rehearsal, Claudia called our 7-year-old flower girl a whore.”
 
-## S1 E13 — 13. Drumroll, Please
+## S1 E13 — Drumroll, Please
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0113.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -251,7 +251,7 @@ Watch for:
   - [Mild] “Let's drink many beers.”
   - [Mild] “My new husband and vodka cranberry, which cost $10.”
 
-## S1 E14 — 14. Zip, Zip, Zip
+## S1 E14 — Zip, Zip, Zip
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0114.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -275,7 +275,7 @@ Watch for:
   - [Caution] “I was this close to being a huge slut.”
   - [Caution] “Slut would have been better.”
 
-## S1 E15 — 15. Game Night
+## S1 E15 — Game Night
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0115.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -295,7 +295,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Oh, slut-alert! Oh, great, there it is.”
 
-## S1 E16 — 16. Cupcake
+## S1 E16 — Cupcake
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0116.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -310,7 +310,7 @@ Watch for:
   - [Mild] “Well, at least we get free champagne.”
   - [Mild] “Dollar beer night.”
 
-## S1 E17 — 17. Life Among the Gorillas
+## S1 E17 — Life Among the Gorillas
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0117.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -323,7 +323,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “But if those guys try to pressure you to smoke, what do you say? - Only when I'm drunk.”
 
-## S1 E18 — 18. Nothing Good Happens After 2 A.M.
+## S1 E18 — Nothing Good Happens After 2 A.M.
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0118.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -342,7 +342,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Or we could just drink wine.”
 
-## S1 E19 — 19. Mary the Paralegal
+## S1 E19 — Mary the Paralegal
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0119.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -369,7 +369,7 @@ Watch for:
   - [Caution] “Moron in my face? Oh, and Paralegally Blonde isn't here in her low-cut dress to make me jealous? Oh, so now she's a whore? - What? - You know something? Mary the paralegal is awesome.”
   - [Caution] “So the message is, I should treat every woman like a whore? Come on, dude.”
 
-## S1 E20 — 20. Best Prom Ever
+## S1 E20 — Best Prom Ever
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0120.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -389,7 +389,7 @@ Watch for:
   - [Caution] “Now, ladies, slut up.”
   - [Caution] “They grow up into skanks so fast, don't they, Ted? - So, what, we ready for tonight? - Yeah.”
 
-## S1 E21 — 21. Milk
+## S1 E21 — Milk
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0121.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -398,7 +398,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “Are you guys planning on punching some holes in that box? Of course we are.”
 
-## S1 E22 — 22. Come On
+## S1 E22 — Come On
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0122.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -420,7 +420,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Wow, it took five shots of tequila to get you in that position.”
 
-## S2 E1 — 1. Where Were We?
+## S2 E1 — Where Were We?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0201.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -451,7 +451,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “What a perfect place to whore around.”
 
-## S2 E2 — 2. The Scorpion and the Toad
+## S2 E2 — The Scorpion and the Toad
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0202.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -466,7 +466,7 @@ Watch for:
   - [Mild] “The thing about a hangover is that everyone has their own special remedy.”
   - [Mild] “What are you so chirpy about? She's still drunk from last night.”
 
-## S2 E3 — 3. Brunch
+## S2 E3 — Brunch
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0203.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -480,7 +480,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “You mean the spa the judge ordered him to go to to quit cocaine? Coffee? Now, Grandma and Grandpa didn't like to talk about things that were uncomfortable, emotional, or in any way real.”
 
-## S2 E4 — 4. Ted Mosby: Architect
+## S2 E4 — Ted Mosby: Architect
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0204.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -509,7 +509,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Now where does the rodeo slut live? The building with the green light, apartment 3-C.”
 
-## S2 E5 — 5. World's Greatest Couple
+## S2 E5 — World's Greatest Couple
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0205.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -531,7 +531,7 @@ Watch for:
   - [Mild] “Oh, damn the zucchini bread is "ridonculous.”
   - [Mild] “Honey, I'm Barney, what the hell is going on here? Lily, I can explain How could you? In our own home? You bastard! - I'm so sorry.”
 
-## S2 E6 — 6. Aldrin Justice
+## S2 E6 — Aldrin Justice
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0206.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -550,7 +550,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Birthday girl! I have never needed beer more than I do right now.”
 
-## S2 E7 — 7. Swarley
+## S2 E7 — Swarley
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0207.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -567,7 +567,7 @@ Watch for:
   - [Mild] “" Can I, uh, can I get you a drink? I'd love a beer.”
   - [Mild] “Oh, pumpkin beer-- that was a good one.”
 
-## S2 E8 — 8. Atlantic City
+## S2 E8 — Atlantic City
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0208.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -585,7 +585,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You throwing a big, free party with lots of booze and food and all your single, desperate girlfriends from college? Yeah, glad we dodged that bullet.”
 
-## S2 E9 — 9. Slap Bet
+## S2 E9 — Slap Bet
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0209.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -605,7 +605,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I need another beer.”
 
-## S2 E10 — 10. Single Stamina
+## S2 E10 — Single Stamina
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0210.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -624,7 +624,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Damn baby, nice tramp stamp! - Get off me, you pig! - Hey! Hey! Her body art is not an invitation to grope her, it's an expression of her inner self.”
 
-## S2 E11 — 11. How Lily Stole Christmas
+## S2 E11 — How Lily Stole Christmas
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0211.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -639,7 +639,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I'm telling you, she's a laugh slut.”
 
-## S2 E12 — 12. First Time in New York
+## S2 E12 — First Time in New York
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0212.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -660,7 +660,7 @@ Watch for:
   - [Caution] “No, it shows that you're an I-love-you slut.”
   - [Caution] “But, you know, I'm such a slut, I'm just gonna give it away.”
 
-## S2 E13 — 13. Columns
+## S2 E13 — Columns
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0213.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -675,7 +675,7 @@ Watch for:
   - [Mild] “Come on, Ted, listen, why don't we get back and finish drawing the plans for a building which, in my opinion, is never going to get built, so you and I can get out of here and grab a couple of beers.”
   - [Mild] “Margarita Fridays-- great idea, boss.”
 
-## S2 E14 — 14. Monday Night Football
+## S2 E14 — Monday Night Football
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0214.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -687,7 +687,7 @@ Watch for:
   - [Mild] “Marshall, you're on beer detail.”
   - [Mild] “Beer still works.”
 
-## S2 E15 — 15. Lucky Penny
+## S2 E15 — Lucky Penny
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0215.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -698,7 +698,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “That way, no energy is wasted, and it's all about the run.”
 
-## S2 E16 — 16. Stuff
+## S2 E16 — Stuff
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0216.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -714,7 +714,7 @@ Watch for:
   - [Caution] “Why is this such a big deal? Because I don't want to use some whore's moisturizer! Whoa, she wasn't a whore.”
   - [Caution] “It sounds like a whore to me.”
 
-## S2 E17 — 17. Arrivederci, Fiero
+## S2 E17 — Arrivederci, Fiero
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0217.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -725,7 +725,7 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “The suicidal cat.”
 
-## S2 E18 — 18. Moving Day
+## S2 E18 — Moving Day
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0218.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -747,7 +747,7 @@ Watch for:
   - [Mild] “I did it, baby! I got beer.”
   - [Mild] “We're drinking champagne in the back of a moving van.”
 
-## S2 E19 — 19. Bachelor Party
+## S2 E19 — Bachelor Party
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0219.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -769,7 +769,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Would you pass the wine, please? - No.”
 
-## S2 E20 — 20. Showdown
+## S2 E20 — Showdown
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0220.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -783,7 +783,7 @@ Watch for:
   - [Mild] “I'm gonna go grab a beer.”
   - [Mild] “Back when we were all freshman and Marshall and Lily were just a few short weeks into their relationship It was 4:00 in the morning, and I'm not gonna lie, we were a wee bit wasted.”
 
-## S2 E21 — 21. Something Borrowed
+## S2 E21 — Something Borrowed
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0221.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -798,7 +798,7 @@ Watch for:
   - [Mild] “Oh, I need a glass of wine.”
   - [Mild] “I want I want Scooter! I need a glass of wine.”
 
-## S2 E22 — 22. Something Blue
+## S2 E22 — Something Blue
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0222.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -814,7 +814,7 @@ Watch for:
   - [Mild] “And there, sitting at the bottom of my champagne glass is Mini quiche.”
   - [Mild] “This is by far the drunkest I've ever seen you.”
 
-## S3 E1 — 1. Wait for It
+## S3 E1 — Wait for It
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0301.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -833,7 +833,7 @@ Watch for:
   - [Caution] “That, dear boy, is a tramp stamp.”
   - [Caution] “A tramp stamp.”
 
-## S3 E2 — 2. We're Not from Here
+## S3 E2 — We're Not from Here
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0302.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -850,7 +850,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “Number two marijuana is illegal in the United States, even when baked into a blueberry muffin that someone might mistakenly eat for breakfast right before they leave for their job as a TV newscaster.”
 
-## S3 E3 — 3. Third Wheel
+## S3 E3 — Third Wheel
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0303.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -879,7 +879,7 @@ Watch for:
   - [Caution] “Are they Betas? Because they're all sluts, and you can tell them right now I didn't want to be in their sorority anyway.”
   - [Caution] “All sorority girls are sluts.”
 
-## S3 E4 — 4. Little Boys
+## S3 E4 — Little Boys
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0304.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -904,7 +904,7 @@ Watch for:
   - [Mild] “Suddenly, we see these snake bastards sneaking towards a little baby.”
   - [Mild] “What the hell was that? That was my new mom.”
 
-## S3 E5 — 5. How I Met Everyone Else
+## S3 E5 — How I Met Everyone Else
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0305.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -923,7 +923,7 @@ Watch for:
   - [Mild] “Hey, don't drink their two dollar beer.”
   - [Mild] “" You know? But as drunk as she was, when she woke up the next morning, she still remembered room 110.”
 
-## S3 E6 — 6. I'm Not That Guy
+## S3 E6 — I'm Not That Guy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0306.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -946,7 +946,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Yeah, and I'm sure complete accuracy in all those details was very important to the directors "Dirt and Skank, The Raunch Brothers.”
 
-## S3 E7 — 7. Dowisetrepla
+## S3 E7 — Dowisetrepla
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0307.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -960,7 +960,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Wendy, bring me the comically large bottle of champagne.”
 
-## S3 E8 — 8. Spoiler Alert
+## S3 E8 — Spoiler Alert
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0308.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -974,7 +974,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm a lawyer now 'cause I passed the bar I'm imposing Marshall law on this champagne.”
 
-## S3 E9 — 9. Slapsgiving
+## S3 E9 — Slapsgiving
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0309.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -995,7 +995,7 @@ Watch for:
   - [Mild] “So we're in the kitchen, starting on the pies, and we realize, we don't have a damn thing to say to each other.”
   - [Mild] “Relapse five! That's where we high-five, then it's awkward for a little bit and then we high-five again! What the hell were you doing?”
 
-## S3 E10 — 10. The Yips
+## S3 E10 — The Yips
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0310.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1030,7 +1030,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Or we could just stop drinking beer.”
 
-## S3 E11 — 11. The Platinum Rule
+## S3 E11 — The Platinum Rule
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0311.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1047,7 +1047,7 @@ Watch for:
   - [Caution] “That, dear boy, is a tramp stamp.”
   - [Caution] “A tramp stamp.”
 
-## S3 E12 — 12. No Tomorrow
+## S3 E12 — No Tomorrow
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0312.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1068,7 +1068,7 @@ Watch for:
   - [Too much] “I don't want some Confederate general ghost teaching them his racism.”
   - [Too much] “How is "racist ghost" better than "crooked"? Seriously, somebody tell me how that's better.”
 
-## S3 E13 — 13. Ten Sessions
+## S3 E13 — Ten Sessions
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0313.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1082,7 +1082,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Ah, the butterfly tramp stamp.”
 
-## S3 E14 — 14. The Bracket
+## S3 E14 — The Bracket
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0314.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1097,7 +1097,7 @@ Watch for:
   - [Caution] “I'm going to go to the bathroom now, but, uh, when I come back we'll go to my place and have sex.”
   - [Caution] “I'm the guy who keeps a scrapbook of all of the women I have slept with, but I never thought I was the guy who would sleep with a girl and not even remember her.”
 
-## S3 E15 — 15. The Chain of Screaming
+## S3 E15 — The Chain of Screaming
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0315.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1113,7 +1113,7 @@ Watch for:
   - [Caution] “Your mom's a slut! Yes.”
   - [Caution] “Your mom's a slut, and I'm sorry, Barney, but you and your brother clearly have different fathers, And you know why? It's probably because your mom is a slutty slut! - Keep going.”
 
-## S3 E16 — 16. Sandcastles in the Sand
+## S3 E16 — Sandcastles in the Sand
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0316.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1136,7 +1136,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Louise Marsh?! That's a whore's name if I ever heard one.”
 
-## S3 E17 — 17. The Goat
+## S3 E17 — The Goat
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0317.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1154,7 +1154,7 @@ Watch for:
   - [Mild] “I wish we had some wine, too.”
   - [Mild] “They want you to spend your 30th standing around drinking flat beer ten feet above your living room.”
 
-## S3 E18 — 18. Rebound Bro
+## S3 E18 — Rebound Bro
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0318.html
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1172,7 +1172,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Haley, you are a fat ugly whore.”
 
-## S3 E19 — 19. Everything Must Go
+## S3 E19 — Everything Must Go
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0319.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1194,7 +1194,7 @@ Watch for:
   - [Mild] “Are you kidding? We're popping the champagne right now.”
   - [Mild] “Champagne for everyone, on me, the happiest guy in the world.”
 
-## S3 E20 — 20. Miracles
+## S3 E20 — Miracles
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0320.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1214,7 +1214,7 @@ Watch for:
   - [Mild] “Is there any beer in the fridge? It's 10:00 in the morning.”
   - [Mild] “Well, do you have a better explanation for it? A drunk jackass with a box of pencils? A drunk jackass called "God!" And a box of pencils called "destiny!" Speaking of Barney, I should give him a call.”
 
-## S4 E1 — 1. Do I Know You?
+## S4 E1 — Do I Know You?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0401.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1236,14 +1236,14 @@ Watch for:
   - [Mild] “I'm just grab a beer.”
   - [Mild] “Champagne for everybody.”
 
-## S4 E2 — 2. The Best Burger in New York
+## S4 E2 — The Best Burger in New York
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0402.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “The bun, like a sesame freckled, breast of an angel, resting gently on the ketchup and mustard below.”
 
-## S4 E3 — 3. I Heart NJ
+## S4 E3 — I Heart NJ
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0403.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1263,7 +1263,7 @@ Watch for:
   - [Mild] “Right? We got board games, we got movies, and I think there may be some beer, out in the garage.”
   - [Mild] “Don't drink the beer! I just remembered when I bought it.”
 
-## S4 E4 — 4. Intervention
+## S4 E4 — Intervention
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0404.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1278,7 +1278,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “A bottle of that with beer chasers, and what do you think, cancel the scotch? Vodka rocks.”
 
-## S4 E5 — 5. Shelter Island
+## S4 E5 — Shelter Island
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0405.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1302,7 +1302,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I hear you're a real man whore, so listen up.”
 
-## S4 E6 — 6. Happily Ever After
+## S4 E6 — Happily Ever After
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0406.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1317,7 +1317,7 @@ Watch for:
   - [Mild] “What? Yeah, if the last person I wanted to see walked through the door, I wouldn't say a damn word.”
   - [Mild] “That sucks about your dad, Robin, but congratulations on that game.”
 
-## S4 E7 — 7. Not a Father's Day
+## S4 E7 — Not a Father's Day
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0407.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1338,7 +1338,7 @@ Watch for:
   - [Mild] “Would you excuse me just for a brief second? Did anyone else see the drunk chick? Hey, you guys didn't have to It's a picture of me with no kids.”
   - [Mild] “Oh, let's rob a liquor store! Lily, we're not going anywhere, okay? Whenever we go somewhere when you're drunk, you always fall asleep as soon as we get in the We're going dancing!”
 
-## S4 E8 — 8. Woooo!
+## S4 E8 — Woooo!
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0408.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1367,7 +1367,7 @@ Watch for:
   - [Caution] “You're the slut, you skank.”
   - [Caution] “You're such a whore.”
 
-## S4 E9 — 9. The Naked Man
+## S4 E9 — The Naked Man
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0409.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1399,7 +1399,7 @@ Watch for:
   - [Caution] “I call "slut!" Slut?! Oh?! Oh! Excuse me? I'm sorry,Robin,but you hooking up with this guy makes it seem like the only thing standing between you and sex is clothes.”
   - [Caution] “" : Slut! I dot do it.”
 
-## S4 E10 — 10. The Fight
+## S4 E10 — The Fight
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0410.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1424,7 +1424,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Vodka cranberry.”
 
-## S4 E11 — 11. Little Minnesota
+## S4 E11 — Little Minnesota
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0411.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1442,7 +1442,7 @@ Watch for:
   - [Mild] “I just poured some beer on it.”
   - [Mild] “And I was hoping you'd have A little more wine in you before I asked you this, but I need you to co-sign the lease.”
 
-## S4 E12 — 12. Benefits
+## S4 E12 — Benefits
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0412.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1465,7 +1465,7 @@ Watch for:
   - [Mild] “You have one when you're drunk and you think it's fine.”
   - [Mild] “Hey,uh,you want a beer? Okay.”
 
-## S4 E13 — 13. Three Days of Snow
+## S4 E13 — Three Days of Snow
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0413.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1484,7 +1484,7 @@ Watch for:
   - [Mild] “We were hoping to get drunk.”
   - [Mild] “I mean really drunk.”
 
-## S4 E14 — 14. The Possimpible
+## S4 E14 — The Possimpible
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0414.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1505,7 +1505,7 @@ Watch for:
   - [Too much] “I've been getting a lot of letters about myegment on how racist the school's meal plan is.”
   - [Too much] “And time! What's the count? Thirty-three! ****** MEAL PLAN=RACISM Why is no one coming to my Happenings? sync:ÃÃÃÃ¢ÃÃ¢”
 
-## S4 E15 — 15. The Stinsons
+## S4 E15 — The Stinsons
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0415.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1517,7 +1517,7 @@ Watch for:
   - [Caution] “Yeah, I was a bit of a whore.”
   - [Caution] “Excuse me? A whore, dear.”
 
-## S4 E16 — 16. Sorry, Bro
+## S4 E16 — Sorry, Bro
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0416.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1549,7 +1549,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “It's like,let's all eat baloney sandwiches and be racist.”
 
-## S4 E17 — 17. The Front Porch
+## S4 E17 — The Front Porch
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0417.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1574,7 +1574,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “And if it did,and I didn't look my absolute best for those greasy sluts, I'd regret it forever.”
 
-## S4 E18 — 18. Old King Clancy
+## S4 E18 — Old King Clancy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0418.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1586,7 +1586,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “This is completely different! I just wasted a month of my life working on a dead project.”
 
-## S4 E19 — 19. Murtaugh
+## S4 E19 — Murtaugh
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0419.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1606,7 +1606,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “You've had your fat ass stuck behind that desk for too long.”
 
-## S4 E20 — 20. Mosbius Designs
+## S4 E20 — Mosbius Designs
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0420.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1617,7 +1617,7 @@ Watch for:
   - [Mild] “Having sex with women.”
   - [Mild] “When PJ had a job, he was sexy.”
 
-## S4 E21 — 21. The Three Days Rule
+## S4 E21 — The Three Days Rule
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0421.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1639,7 +1639,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “"I like beer, too.”
 
-## S4 E22 — 22. Right Place, Right Time
+## S4 E22 — Right Place, Right Time
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0422.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1655,7 +1655,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “"What your paintball gun says about your personality"? Below that.”
 
-## S4 E23 — 23. As Fast as She Can
+## S4 E23 — As Fast as She Can
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0423.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1675,7 +1675,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “My mom marinates them in Belgian beer for two days.”
 
-## S4 E24 — 24. The Leap
+## S4 E24 — The Leap
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0424.html
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1687,7 +1687,7 @@ Watch for:
   - [Mild] “Now, birthday beer on the roof.”
   - [Mild] “Tracey, why don't you make me one of those rum and beers - that your dad loves so much? - Sure thing! - Damn it.”
 
-## S5 E1 — 1. Definitions
+## S5 E1 — Definitions
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0501.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1706,7 +1706,7 @@ Watch for:
   - [Mild] “I'll punch a baby.”
   - [Mild] “No, I meant punching Brad.”
 
-## S5 E2 — 2. Double Date
+## S5 E2 — Double Date
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0502.html
 Scores: violence 3/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1729,7 +1729,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Did one of your whores tell you that? And, Lil, Marshall shouldn't have to go to so much trouble just to have an innocent fantasy.”
 
-## S5 E3 — 3. Robin 101
+## S5 E3 — Robin 101
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0503.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1761,7 +1761,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I knew there was a skank, but I thought she'd at least be dumb.”
 
-## S5 E4 — 4. The Sexless Innkeeper
+## S5 E4 — The Sexless Innkeeper
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0504.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1777,7 +1777,7 @@ Watch for:
   - [Mild] “" I swallowed my pride and six shots of whiskey.”
   - [Mild] “We're just gonna grab a quick beer and then take these kooks for a boat ride around the city.”
 
-## S5 E5 — 5. Duel Citizenship
+## S5 E5 — Duel Citizenship
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0505.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1798,7 +1798,7 @@ Watch for:
   - [Mild] “(SHUSHING) You want to go to the store and get some beer? (SOFT CLASSICAL MUSIC PLAYING) Lily is asleep.”
   - [Mild] “God, you're still drunk.”
 
-## S5 E6 — 6. Bagpipes
+## S5 E6 — Bagpipes
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0506.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1819,7 +1819,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “So I just welcomed them to the building, had a hard candy, nodded politely at some racist comments and then left.”
 
-## S5 E7 — 7. The Rough Patch
+## S5 E7 — The Rough Patch
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0507.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1836,7 +1836,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “What is this doing in my champagne? If we make Robin think for even a second that Barney is proposing, she'll lose it, and they'll break up.”
 
-## S5 E8 — 8. The Playbook
+## S5 E8 — The Playbook
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0508.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1858,7 +1858,7 @@ Watch for:
   - [Mild] “No more flimflams! - Damn it! Oh, my God.”
   - [Mild] “I guess I've been so wrapped up in my own stuff that I Oh, crap, she's looking over here.”
 
-## S5 E9 — 9. Slapsgiving 2: Revenge of the Slap
+## S5 E9 — Slapsgiving 2: Revenge of the Slap
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0509.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1875,7 +1875,7 @@ Watch for:
   - [Mild] “Hell, I haven't even seen a wedding photo.”
   - [Mild] “This is basically hell on Earth.”
 
-## S5 E10 — 10. The Window
+## S5 E10 — The Window
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0510.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1894,7 +1894,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “No! Let's have a glass of wine first.”
 
-## S5 E11 — 11. Last Cigarette Ever
+## S5 E11 — Last Cigarette Ever
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0511.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1907,7 +1907,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Well, that half-drunk slob appreciates it.”
 
-## S5 E12 — 12. Girls vs. Suits
+## S5 E12 — Girls vs. Suits
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0512.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1919,7 +1919,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “She's a whore.”
 
-## S5 E13 — 13. Jenkins
+## S5 E13 — Jenkins
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0513.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -1943,7 +1943,7 @@ Watch for:
   - [Mild] “I was really drunk.”
   - [Mild] “You were drunk at 8:00 in the morning? - Yeah, I don't know how that happened.”
 
-## S5 E14 — 14. Perfect Week
+## S5 E14 — Perfect Week
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0514.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1963,7 +1963,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Over 200 women, spanning six continents, and not a single fatty.”
 
-## S5 E15 — 15. Rabbit or Duck
+## S5 E15 — Rabbit or Duck
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0515.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -1979,7 +1979,7 @@ Watch for:
   - [Mild] “That beer looks a little flat.”
   - [Mild] “What? Getting drunk and cleaning the apartment was a plan? I did not say it was a good plan.”
 
-## S5 E16 — 16. Hooked
+## S5 E16 — Hooked
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0516.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -1996,7 +1996,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You want to see my rap poster? Poster whore! Anyway, Lisa Walker strung me along for months until, one night, I went to go tell her how much I loved her, (ALL EX CLAIMING IN ADMIRATION) In song.”
 
-## S5 E17 — 17. Of Course
+## S5 E17 — Of Course
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0517.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2019,7 +2019,7 @@ Watch for:
   - [Caution] “Take a Look at Yourself, You Dumb Slut.”
   - [Caution] “Take a Look at Yourself, You Dumb Slut crap on me! It's not crap! Of Course You're Still Single.”
 
-## S5 E18 — 18. Say Cheese
+## S5 E18 — Say Cheese
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0518.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2044,7 +2044,7 @@ Watch for:
   - [Caution] “Do I get a vote? Skank Lane.”
   - [Caution] “How about no more random skanks at my birthday? Hey, sweetie.”
 
-## S5 E19 — 19. Zoo or False
+## S5 E19 — Zoo or False
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0519.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2059,7 +2059,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Strange, 'cause you look like you just had two vodka tonics thrown in your face.”
 
-## S5 E20 — 20. Home Wreckers
+## S5 E20 — Home Wreckers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0520.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2076,7 +2076,7 @@ Watch for:
   - [Mild] “You must've been drunk off your ass.”
   - [Mild] “"Drunk or Kid?" Which one was I? Lock in your guesses.”
 
-## S5 E21 — 21. Twin Beds
+## S5 E21 — Twin Beds
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0521.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2101,7 +2101,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “Ted and Robin? Not seeming so gay now, am I, Donny? - Appletini for the gentleman.”
 
-## S5 E22 — 22. Robots vs. Wrestlers
+## S5 E22 — Robots vs. Wrestlers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0522.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2126,7 +2126,7 @@ Watch for:
   - [Mild] “You don't decant white wine.”
   - [Mild] “(DRUNKENLY) Rule number 83, if anything that comes out of that baby gets on one of my suits, I get to touch Lily's boobs.”
 
-## S5 E23 — 23. The Wedding Bride
+## S5 E23 — The Wedding Bride
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0523.html
 Scores: violence 2/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2141,7 +2141,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “Oh! What about when he got beat up by the goat? - (ALL LAUGHING) - So funny.”
 
-## S5 E24 — 24. Doppelgangers
+## S5 E24 — Doppelgangers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0524.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2155,7 +2155,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “That's the sound of my three-hole punch.”
 
-## S6 E1 — 1. Big Days
+## S6 E1 — Big Days
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0601.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2168,7 +2168,7 @@ Watch for:
   - [Mild] “Why? Do I look nervous? Look at your beer, dude.”
   - [Mild] “Frilly French undies and a box of wine.”
 
-## S6 E2 — 2. Cleaning House
+## S6 E2 — Cleaning House
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0602.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -2178,7 +2178,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Also, Janey Masterson's mother is a whore, and with gin on her breath at 10:00 in the morning, she's got some nerve kicking us out of the carpool.”
 
-## S6 E3 — 3. Unfinished
+## S6 E3 — Unfinished
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0603.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2197,7 +2197,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “And that asian slut on your Facebook page.”
 
-## S6 E4 — 4. Subway Wars
+## S6 E4 — Subway Wars
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0604.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -2206,7 +2206,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “That's your weirdest nickname for boobs yet.”
 
-## S6 E5 — 5. Architect of Destruction
+## S6 E5 — Architect of Destruction
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0605.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2236,7 +2236,7 @@ Watch for:
   - [Caution] ZOEY: “Hey, guys! I appreciate the great turnout, but just so we're all on the same page, this is not a rally to legalize marijuana.”
   - [Mild] “" "As the musky scent of man "and Marshall's sure-footed traction intoxicated and overpowered me.”
 
-## S6 E6 — 6. Baby Talk
+## S6 E6 — Baby Talk
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0606.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2257,7 +2257,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “" And I don't want my daughter to have a whore's name.”
 
-## S6 E7 — 7. Canning Randy
+## S6 E7 — Canning Randy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0607.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2276,7 +2276,7 @@ Watch for:
   - [Mild] LILY: “Your co-host is getting super-popular because of her stupid commercial, "Boats! Boats! Boats!" So, when you arrived at the GNB party after we left, you were feeling vulnerable and drunk.”
   - [Mild] “Imagine a beer with my name on it.”
 
-## S6 E8 — 8. Natural History
+## S6 E8 — Natural History
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0608.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -2285,7 +2285,7 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “What? How have I changed? Did I cheat on you? No.”
 
-## S6 E9 — 9. Glitter
+## S6 E9 — Glitter
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0609.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2303,7 +2303,7 @@ Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “I even thought she might try to kill herself.”
 
-## S6 E10 — 10. Blitzgiving
+## S6 E10 — Blitzgiving
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0610.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2323,7 +2323,7 @@ Watch for:
   - [Mild] “And they're about to walk through that door, where we will be waiting with some light beer and some rock hard approval.”
   - [Mild] “See you later! Bye-bye! All right, bye-bye! Okay, later! Good-bye! Bye-Bye! (pop) Tap's broke! Can't turn 'em off! Free beer for everyone!”
 
-## S6 E11 — 11. The Mermaid Theory
+## S6 E11 — The Mermaid Theory
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0611.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2338,7 +2338,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Marshall's beer goggles kicked in and his very drunk mind started to see No No, no! No! No, don't turn! Uh-oh.”
 
-## S6 E12 — 12. False Positive
+## S6 E12 — False Positive
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0612.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2360,7 +2360,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I want to be cool aunt Robin, the respected journalist Who gives her beer.”
 
-## S6 E13 — 13. Bad News
+## S6 E13 — Bad News
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0613.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2386,7 +2386,7 @@ Watch for:
   - [Caution] “So, second day of work? (blows raspberry) What's wrong? Oh, you didn't hear? She's the office slut.”
   - [Caution] “I wish I was the office slut.”
 
-## S6 E14 — 14. Last Words
+## S6 E14 — Last Words
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0614.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2404,7 +2404,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “That dress makes you look like a Kansas City whore.”
 
-## S6 E15 — 15. Oh Honey
+## S6 E15 — Oh Honey
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0615.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2416,7 +2416,7 @@ Watch for:
   - [Mild] “I was in the neighborhood and I thought I'd take you up on that beer you're about to offer me.”
   - [Mild] “Can I get you a beer? Oh, Ted, I'm so busy.”
 
-## S6 E16 — 16. Desperation Day
+## S6 E16 — Desperation Day
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0616.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -2427,7 +2427,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “with a drunkenly slurred, "What ya doing?" But when a lady booty-calls a guy, she invents a respectable excuse to mask the fact that she wants to get stuck real good.”
 
-## S6 E17 — 17. Garbage Island
+## S6 E17 — Garbage Island
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0617.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2446,7 +2446,7 @@ Watch for:
   - [Mild] “Damn it! Oh, baby, why aren't you in bed? I can't sleep.”
   - [Mild] “I mean, yes, divorce sucks, but sometimes things need to fall apart to make way for better things.”
 
-## S6 E18 — 18. A Change of Heart
+## S6 E18 — A Change of Heart
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0618.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2469,7 +2469,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Cocktails on the patio.”
 
-## S6 E19 — 19. Legendaddy
+## S6 E19 — Legendaddy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0619.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2491,7 +2491,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hey, Lily, can you toss me a beer? Sure, honey.”
 
-## S6 E20 — 20. The Exploding Meatball Sub
+## S6 E20 — The Exploding Meatball Sub
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0620.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2511,7 +2511,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “All that work wasted.”
 
-## S6 E21 — 21. Hopeless
+## S6 E21 — Hopeless
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0621.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2534,7 +2534,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “My goodness! I sleep around, too.”
 
-## S6 E22 — 22. The Perfect Cocktail
+## S6 E22 — The Perfect Cocktail
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0622.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2570,7 +2570,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “He's just an awful, flatulent racist.”
 
-## S6 E23 — 23. Landmarks
+## S6 E23 — Landmarks
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0623.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2590,7 +2590,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Ho! You're judged by a jury of your beers.”
 
-## S6 E24 — 24. Challenge Accepted
+## S6 E24 — Challenge Accepted
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0624.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2610,7 +2610,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “What about me? I got so fat, at the end of a date, you'd unhook my bra.”
 
-## S7 E1 — 1. The Best Man
+## S7 E1 — The Best Man
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0701.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2631,7 +2631,7 @@ Watch for:
   - [Mild] “You are drunker than I thought.”
   - [Mild] “Because the only person on Earth who loves Ted Mosby more than Marshall Eriksen, is drunk Marshall Eriksen.”
 
-## S7 E2 — 2. The Naked Truth
+## S7 E2 — The Naked Truth
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0702.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2654,7 +2654,7 @@ Watch for:
   - [Mild] “And if my potential future employer, Garrison Cootes, is watching this bow down to Beercules! (hearty, drunken laughter) Well, that could be anybody.”
   - [Mild] “Although, for the record-- sweeping declaration!-- I am never getting drunk again.”
 
-## S7 E3 — 3. Ducky Tie
+## S7 E3 — Ducky Tie
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0703.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2684,7 +2684,7 @@ Watch for:
   - [Mild] “Yeah, I don't know why people think that Mai Tais need booze.”
   - [Mild] “You're not drunk? Huh.”
 
-## S7 E4 — 4. The Stinson Missile Crisis
+## S7 E4 — The Stinson Missile Crisis
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0704.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2712,7 +2712,7 @@ Watch for:
   - [Caution] “And that's assuming the mother of my children is just a huge slut.”
   - [Caution] “That slut is out there.”
 
-## S7 E5 — 5. Field Trip
+## S7 E5 — Field Trip
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0705.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -2723,7 +2723,7 @@ Watch for:
   - [Mild] “Nobody takes an Intro class to get on any other path but the path to not being hungover anymore.”
   - [Mild] “We won! Champagne and cake for everybody! They're celebrating.”
 
-## S7 E6 — 6. Mystery vs. History
+## S7 E6 — Mystery vs. History
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0706.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2750,7 +2750,7 @@ Watch for:
   - [Too much] “She's wanted in Florida on crystal meth charges.”
   - [Mild] “(sighs) You don't buy beer, you rent it.”
 
-## S7 E7 — 7. Noretta
+## S7 E7 — Noretta
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0707.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2764,7 +2764,7 @@ Watch for:
   - [Mild] “I'll-I'll draw you a bath, pour you some champagne, we can forget all about this.”
   - [Mild] “I'll have a glass of champagne, sweet pea.”
 
-## S7 E8 — 8. The Slutty Pumpkin Returns
+## S7 E8 — The Slutty Pumpkin Returns
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0708.html
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2779,7 +2779,7 @@ Watch for:
   - [Mild] “What is this? Canadian whiskey.”
   - [Mild] “It's wrong to bang a drunk chick.”
 
-## S7 E9 — 9. Disaster Averted
+## S7 E9 — Disaster Averted
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0709.html
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -2792,7 +2792,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Drinking beer in front of Barney's giant TV beats sitting in the car listening to Memoires of a Geisha.”
 
-## S7 E10 — 10. Tick Tick Tick...
+## S7 E10 — Tick Tick Tick...
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0710.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2814,7 +2814,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “…scum round the edge of a toilet bowl Flush What the hell is in the place where you should have a soul? Slut You did these two wrong Don't wait too long In fact, you know what?”
 
-## S7 E11 — 11. The Rebound Girl
+## S7 E11 — The Rebound Girl
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0711.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -2826,7 +2826,7 @@ Watch for:
   - [Mild] “Let's get some champagne.”
   - [Mild] “You and I are drunk.”
 
-## S7 E12 — 12. Symphony of Illumination
+## S7 E12 — Symphony of Illumination
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0712.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2855,7 +2855,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hey, while I'm at it, can I get you a beer? He wants to bring the old man a beer.”
 
-## S7 E13 — 13. Tailgate
+## S7 E13 — Tailgate
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0713.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -2876,7 +2876,7 @@ Watch for:
   - [Mild] “Puzzles is a place where people go To feel like they belong Gonna take advantage of dumb drunk girls No, we're not.”
   - [Mild] “That's why today was so important because I just I needed to Did you just open a beer on my father's headstone? Actually, it's a hard cider.”
 
-## S7 E14 — 14. 46 Minutes
+## S7 E14 — 46 Minutes
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0714.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2903,7 +2903,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Look, I know I've been a little drunk and naive tonight, but here's what's gonna happen.”
 
-## S7 E15 — 15. The Burning Beekeeper
+## S7 E15 — The Burning Beekeeper
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0715.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2933,7 +2933,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You called her a whore.”
 
-## S7 E16 — 16. The Drunk Train
+## S7 E16 — The Drunk Train
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0716.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2961,7 +2961,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “It's-it's The Little Engine with Wood, The Whore-ient Express.”
 
-## S7 E17 — 17. No Pressure
+## S7 E17 — No Pressure
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0717.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -2981,7 +2981,7 @@ Watch for:
   - [Mild] “(gasps) (both scream) Why are you in our bed? I took the drunk train and got stuck out here.”
   - [Mild] “Oh, God, I am so hungover.”
 
-## S7 E18 — 18. Karma
+## S7 E18 — Karma
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0718.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3000,7 +3000,7 @@ Watch for:
   - [Mild] “Ugh! Hey! Brainstorm! What if we just have our date here, maybe in the Champagne Room? That was our spot.”
   - [Mild] “He's looking at me like, "Karma, why aren't you booking more time in the Champagne Room?" Well, we'll show him.”
 
-## S7 E19 — 19. The Broath
+## S7 E19 — The Broath
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0719.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3026,7 +3026,7 @@ Watch for:
   - [Caution] “Okay, so anyway, last August, I go bareback with this same slut.”
   - [Caution] “Don't say that whore's name in front of our baby.”
 
-## S7 E20 — 20. Trilogy Time
+## S7 E20 — Trilogy Time
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0720.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3045,7 +3045,7 @@ Watch for:
   - [Mild] “Whassaaaa! Okay, seriously, at least tell me you're gonna change the what will by then be nine-year-old beer commercial reference.”
   - [Mild] “Do you think instead of making a beer fly out of the fridge, I made that lamp break? Either that or the stormtrooper did.”
 
-## S7 E21 — 21. Now We're Even
+## S7 E21 — Now We're Even
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0721.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3065,7 +3065,7 @@ Watch for:
   - [Mild] “I'll grant you that if you include the 12 points for designing the skyscraper, the 83 points for slapping five with Tommy Lee and the 9,000 points for banging Robin before me, our point totals would be about…”
   - [Mild] “Last year, I slapped on a dress, took a few laps around this very bar, and I got this: the phone number of one Stephanie McColgan.”
 
-## S7 E22 — 22. Good Crazy
+## S7 E22 — Good Crazy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0722.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3096,7 +3096,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You people are whores.”
 
-## S7 E23 — 23. The Magician's Code (1)
+## S7 E23 — The Magician's Code (1)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0723.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -3108,7 +3108,7 @@ Watch for:
   - [Mild] “1 Kids, when Aunt Lily went into labor, Marshall was somewhere slightly inconvenient, in Atlantic City with Uncle Barney, and drunk to the point of talking like Yoda.”
   - [Mild] “But he still considers getting up these two steps when he was this drunk to be the hardest one of all.”
 
-## S7 E24 — 24. The Magician's Code (2)
+## S7 E24 — The Magician's Code (2)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0724.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3137,7 +3137,7 @@ Watch for:
   - [Mild] “But he still considers getting up these two steps when he was this drunk to be the hardest one of all.”
   - [Mild] “Four shots of tequila.”
 
-## S8 E1 — 1. Farhampton
+## S8 E1 — Farhampton
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0801.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3164,7 +3164,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “…Robin, Ted and Robin broke up, Robin moved to Brazil, came back with a Latin stud, Ted got jealous, got a tramp stamp, not really relevant to the story I just like mentioning that as much as possible, I hooked up with…”
 
-## S8 E2 — 2. The Pre-Nup
+## S8 E2 — The Pre-Nup
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0802.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3191,7 +3191,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “If I could just take a quick whore's bath in your kitchen sink, then I will skedaddle.”
 
-## S8 E3 — 3. Nannies
+## S8 E3 — Nannies
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0803.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3207,7 +3207,7 @@ Watch for:
   - [Mild] “Damn it! Bangtoberfest is a flop! I can't think of an innovative way to bang chicks that properly honors my return to the game.”
   - [Mild] “Really? It's a nice gesture, but I'm still pissed.”
 
-## S8 E4 — 4. Who Wants to Be a Godparent?
+## S8 E4 — Who Wants to Be a Godparent?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0804.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3226,7 +3226,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “…With a hot chick here and a dumb chick there Huh? Huh? Bro, bro, bro your broat Gently to the bar Hit on sluts, then do ten shots and Huh?”
 
-## S8 E5 — 5. The Autumn of Break-Ups
+## S8 E5 — The Autumn of Break-Ups
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0805.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -3241,7 +3241,7 @@ Watch for:
   - [Caution] “The bitches love him.”
   - [Mild] “You've been a hell of a wingman.”
 
-## S8 E6 — 6. Splitsville
+## S8 E6 — Splitsville
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0806.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3257,7 +3257,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “And then that Danish slut Nadia bursts in You can't wait.”
 
-## S8 E7 — 7. The Stamp Tramp
+## S8 E7 — The Stamp Tramp
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0807.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3286,7 +3286,7 @@ Watch for:
   - [Caution] “Stamp tramp.”
   - [Caution] “Oh (voice breaks): I have nothing but the utmost respect for you skanks.”
 
-## S8 E8 — 8. Twelve Horny Women
+## S8 E8 — Twelve Horny Women
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0808.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3302,7 +3302,7 @@ Watch for:
   - [Caution] “Scooter, do you smell bacon? (laughs sinisterly) Laugh, bitch.”
   - [Caution] “…be grossed out, but you're gonna laugh a little anyway, and then you'll tell a funny story about "that bitch Patrice" at work, but neither one of us are gonna say, "Hey, how's it going?" or "Good to see you!"…”
 
-## S8 E9 — 9. Lobster Crawl
+## S8 E9 — Lobster Crawl
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0809.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3328,7 +3328,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You looked like you were gonna chase Barney down with a sixer of watermelon wine coolers.”
 
-## S8 E10 — 10. The Over-Correction
+## S8 E10 — The Over-Correction
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0810.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3349,7 +3349,7 @@ Watch for:
   - [Mild] “(beeps, hisses) (sighs) (hissing) (choir singing) David Lee Roth's autobiography? Crap.”
   - [Mild] “(cell phone buzzes) (knocking at door) Damn it, Ted! You get those ornaments all year.”
 
-## S8 E11 — 11. The Final Page (1)
+## S8 E11 — The Final Page (1)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0811.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3376,7 +3376,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Lily, are you drunk? What? I I'm on vacation.”
 
-## S8 E12 — 12. The Final Page (2)
+## S8 E12 — The Final Page (2)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0812.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3403,7 +3403,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Lily, are you drunk? What? I I'm on vacation.”
 
-## S8 E13 — 13. Band or DJ?
+## S8 E13 — Band or DJ?
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0813.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3419,7 +3419,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You're gonna stick me with that baby so that you guys can spend five minutes sorting out his love life, followed by an hour of you getting drunk and pretending to be in The Departed.”
 
-## S8 E14 — 14. Ring Up!
+## S8 E14 — Ring Up!
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0814.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3445,7 +3445,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “That slut just got here.”
 
-## S8 E15 — 15. P.S. I Love You
+## S8 E15 — P.S. I Love You
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0815.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3457,7 +3457,7 @@ Watch for:
   - [Mild] “Wait, no, damn it, come back!”
   - [Mild] “Oh, no - Damn, I always forget the little one.”
 
-## S8 E16 — 16. Bad Crazy
+## S8 E16 — Bad Crazy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0816.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3478,7 +3478,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “She broke your TV with a beer bottle? In her defense, she was aiming for the window.”
 
-## S8 E17 — 17. The Ashtray
+## S8 E17 — The Ashtray
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0817.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3491,7 +3491,7 @@ Watch for:
   - [Mild] “And then you know what? I'm gonna find Shelly, and I'm gonna punch her in the face.”
   - [Mild] “I am-- I'm gonna punch a girl and run away.”
 
-## S8 E18 — 18. Weekend at Barney's
+## S8 E18 — Weekend at Barney's
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0818.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3516,7 +3516,7 @@ Watch for:
   - [Mild] “I found two wine glasses you didn't smash.”
   - [Mild] “Would anyone like some wine? It's a nice CÃ´tes du RhÃ´ne.”
 
-## S8 E19 — 19. The Fortress
+## S8 E19 — The Fortress
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0819.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3537,7 +3537,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Not so I could live in a disease-riddled bang pad haunted by the ghosts of your ex-skanks.”
 
-## S8 E20 — 20. The Time Travelers
+## S8 E20 — The Time Travelers
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0820.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3559,7 +3559,7 @@ Watch for:
   - [Mild] “But in this case, yeah, you kind of have to be wasted.”
   - [Mild] “(all agreeing, overlapping chatter) You drink beers in cans still.”
 
-## S8 E21 — 21. Romeward Bound
+## S8 E21 — Romeward Bound
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0821.html
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -3568,7 +3568,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “Yeah, but he also loves Italy! He took a week of Italian in college, and the only reason he dropped it was 'cause he had a conflict with being not stoned.”
 
-## S8 E22 — 22. The Bro Mitzvah
+## S8 E22 — The Bro Mitzvah
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0822.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3598,7 +3598,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Four cosmos, pronto! Now she's drunk, holding up a napkin ring and three breadsticks, and talking about her night with Crosby, Stills and Nash.”
 
-## S8 E23 — 23. Something Old
+## S8 E23 — Something Old
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0823.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3613,7 +3613,7 @@ Watch for:
   - [Mild] “A leaky, ten-year-old beanbag chair covered in beer, bong water and fossilized Cool Ranch Dorito fingerprints.”
   - [Mild] “Ted Italy doesn't need something that is wrinkled, red and leaky, and smells like booze and narcotics.”
 
-## S8 E24 — 24. Something New
+## S8 E24 — Something New
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0824.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3628,7 +3628,7 @@ Watch for:
   - [Mild] “That's when we sit around all hungover, drinking mimosas and talking smack about who looked fat.”
   - [Mild] “Man, you're fast when you're drunk.”
 
-## S9 E1 — 1. The Locket
+## S9 E1 — The Locket
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0901.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3664,7 +3664,7 @@ Watch for:
   - [Mild] “Let's show your critics you're not just a Dumpster on wheels full of drunk idiots.”
   - [Mild] “It's not all champagne and frosting.”
 
-## S9 E2 — 2. Coming Back
+## S9 E2 — Coming Back
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0902.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3700,7 +3700,7 @@ Watch for:
   - [Mild] “Let's show your critics you're not just a Dumpster on wheels full of drunk idiots.”
   - [Mild] “It's not all champagne and frosting.”
 
-## S9 E3 — 3. Last Time in New York
+## S9 E3 — Last Time in New York
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0903.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3725,7 +3725,7 @@ Watch for:
   - [Mild] “(growls) Ha! Whoo! (both grunting) Ha! (both gasp) We'll switch it with this cheap bottle of whiskey.”
   - [Mild] “No big deal? We destroyed their 30-year Glen McKenna and replaced it with cheap booze, ketchup and hand sanny.”
 
-## S9 E4 — 4. The Broken Code
+## S9 E4 — The Broken Code
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0904.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3746,7 +3746,7 @@ Watch for:
   - [Mild] “I'm pissed off because the Rangers just lost to the Boston Bruins.”
   - [Mild] “Well, then, try harder! I'm marrying her in less than two days! What the hell are we gonna do about this?! NARRATOR: As she watched Robin make a new friend, Lily was happy for two seconds.”
 
-## S9 E5 — 5. The Poker Game
+## S9 E5 — The Poker Game
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0905.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3764,7 +3764,7 @@ Watch for:
   - [Mild] “Stuff! Damn it.”
   - [Mild] “Ted's a rat bastard! Never mention his name again! Your coffeemaker? Ted got you that.”
 
-## S9 E6 — 6. Knight Vision
+## S9 E6 — Knight Vision
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0906.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3783,7 +3783,7 @@ Watch for:
   - [Caution] “You're dressed like a whore.”
   - [Caution] “…married! But what can I say? My husband's a sociopath Who's slept with over a hundred women, And I'm a slut who once let my boss feel me up.”
 
-## S9 E7 — 7. No Questions Asked
+## S9 E7 — No Questions Asked
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0907.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3805,7 +3805,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “So you're saying you didn't order room service and you didn't order Prison Sluts Nine? I am saying I did not order room service.”
 
-## S9 E8 — 8. The Lighthouse
+## S9 E8 — The Lighthouse
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0908.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3825,7 +3825,7 @@ Watch for:
   - [Mild] “Yes, this has booze in it.”
   - [Mild] “And I wasted it.”
 
-## S9 E9 — 9. Platonish
+## S9 E9 — Platonish
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0909.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3837,7 +3837,7 @@ Watch for:
   - [Mild] “(chittering) Wow, was that three glasses of wine? Where does the time go (chitters) (chuckles) Look, I know that you need to get back to your studies.”
   - [Mild] “(cell phone ringing) I'm gonna go grab us some beers.”
 
-## S9 E10 — 10. Mom and Dad
+## S9 E10 — Mom and Dad
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0910.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3857,7 +3857,7 @@ Watch for:
   - [Mild] “(R&B music playing) I said, bang Well, we don't need wine.”
   - [Mild] “Bang Bangity bang We don't need champagne, either.”
 
-## S9 E11 — 11. Bedtime Stories
+## S9 E11 — Bedtime Stories
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0911.html
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3876,7 +3876,7 @@ Watch for:
   - [Mild] “She's sipping Chardonnay, not pounding cherry-flavored booze.”
   - [Mild] “Carlotta, some champagne.”
 
-## S9 E12 — 12. The Rehearsal Dinner
+## S9 E12 — The Rehearsal Dinner
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0912.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3905,7 +3905,7 @@ Watch for:
   - [Mild] “Yes, Barney, the booze is real.”
   - [Mild] “We're gonna have a nice dinner, some drinks, and then, according to Robin, if her Aunt Edith gets drunk enough, she'll take off her wig and they'll play hockey with it.”
 
-## S9 E13 — 13. Bass Player Wanted
+## S9 E13 — Bass Player Wanted
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0913.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3923,7 +3923,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “And you don't need to lose weight, Louise, no matter what he told me.”
 
-## S9 E14 — 14. Slapsgiving 3: Slappointment in Slapmarra
+## S9 E14 — Slapsgiving 3: Slappointment in Slapmarra
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0914.html
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -3937,7 +3937,7 @@ Watch for:
   - [Mild] “(sighs) The point is, you need to go get slapped in the face by a bunch of gullible chicks Barney banged.”
   - [Mild] “Why Cleveland? It's the city equivalent of being slapped in the face.”
 
-## S9 E15 — 15. Unpause
+## S9 E15 — Unpause
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0915.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3962,7 +3962,7 @@ Watch for:
   - [Mild] “How you doin'? NARRATOR: "Richard Dawson drunk" Ah, is this your sister?”
   - [Mild] “" So drunk that his speech bore an uncanny resemblance to that of Jabba the Hutt from Return of the Jedi.”
 
-## S9 E16 — 16. How Your Mother Met Me
+## S9 E16 — How Your Mother Met Me
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0916.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3974,7 +3974,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “…geez, what is this knucklehead doing? Excuse me! Hey! You guys need a lift? DARREN: The best man just punched me in the face for no reason.”
 
-## S9 E17 — 17. Sunrise
+## S9 E17 — Sunrise
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0917.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -3993,7 +3993,7 @@ Watch for:
   - [Caution] “If I have to hold the shotgun myself, it's happening.”
   - [Caution] “I thought you don't like guns.”
 
-## S9 E18 — 18. Rally
+## S9 E18 — Rally
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0918.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -4018,7 +4018,7 @@ Watch for:
   - [Mild] “Also, uh, we need it to help a friend recover from a hangover.”
   - [Mild] “Remember? Marshall thought he botched day two of the bar exam, so he freaked out that night and got wasted?”
 
-## S9 E19 — 19. Vesuvius
+## S9 E19 — Vesuvius
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0919.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -4026,7 +4026,7 @@ Watch for:
   - [Too much] Stripper or strip-club material shows up in the plot.
   - [Too much] “Like the one where my college roommates and I went to this male strip club And your friend Dongnose got smacked on the nose with a dong? I know that one.”
 
-## S9 E20 — 20. Daisy
+## S9 E20 — Daisy
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0920.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -4038,7 +4038,7 @@ Watch for:
   - [Caution] “Drink the blood of your vanquished enemy and move on.”
   - [Mild] “Marshall do you want to go over to the Captain's house right now, punch him in the face really fast and then come back and do this wedding? Would that be okay? Ranjit, get the car.”
 
-## S9 E21 — 21. Gary Blauman
+## S9 E21 — Gary Blauman
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0921.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 12+)
 Watch for:
@@ -4050,7 +4050,7 @@ Watch for:
 - Affairs / cheating — 1 moment(s)
   - [Caution] “Gary's the guy that I had an affair with.”
 
-## S9 E22 — 22. The End of the Aisle
+## S9 E22 — The End of the Aisle
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0922.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 12+)
 Watch for:
@@ -4062,7 +4062,7 @@ Watch for:
   - [Mild] “Hell, Ted even cried.”
   - [Mild] “So I'm just gonna run away alone! (panting) Damn it.”
 
-## S9 E23 — 23. Last Forever (1)
+## S9 E23 — Last Forever (1)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0923.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
@@ -4088,7 +4088,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Barney, if you start brewing your own beer now and nail my prom date, so help me Years too late on one of those, Teddy.”
 
-## S9 E24 — 24. Last Forever (2)
+## S9 E24 — Last Forever (2)
 URL: https://watchwiththekids.com/ep/how-i-met-your-mother/0924.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:

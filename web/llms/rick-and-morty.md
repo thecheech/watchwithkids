@@ -4,7 +4,7 @@ Source: https://watchwiththekids.com/rick-and-morty.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 0 mild (1–2), 6 caution (3), 76 too much (4–5).
 
-## S1 E1 — 1. Pilot
+## S1 E1 — Pilot
 URL: https://watchwiththekids.com/ep/rick-and-morty/0101.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -16,7 +16,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “I don't know if a knife is necessary.”
 
-## S1 E2 — 2. Lawnmower Dog
+## S1 E2 — Lawnmower Dog
 URL: https://watchwiththekids.com/ep/rick-and-morty/0102.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -34,7 +34,7 @@ Watch for:
   - [Mild] “But, hey, at least they know not to piss on your carpet, right? Wait a minute.”
   - [Mild] “To hell with my kingdom, bean counter.”
 
-## S1 E3 — 3. Anatomy Park
+## S1 E3 — Anatomy Park
 URL: https://watchwiththekids.com/ep/rick-and-morty/0103.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -61,7 +61,7 @@ Watch for:
   - [Mild] “Oh, no! - Holy crap! Whoa! It's Hepatitis C! Um wait did we have some sort of relationship with him? I think they're just like that? I think they're just good guys.”
   - [Mild] “God damn it, Morty.”
 
-## S1 E4 — 4. M. Night Shaym-Aliens!
+## S1 E4 — M. Night Shaym-Aliens!
 URL: https://watchwiththekids.com/ep/rick-and-morty/0104.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -79,7 +79,7 @@ Watch for:
   - [Mild] “I am finally complete! My my my my man! What the hell?! No.”
   - [Mild] “Now empty the water bottle into the bucket and pour it all into the fuel tank so we can get the hell out of here! What are you doing, Morty?! There's no time! Oh, no.”
 
-## S1 E5 — 5. Meeseeks and Destroy
+## S1 E5 — Meeseeks and Destroy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0105.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -106,7 +106,7 @@ Watch for:
   - [Mild] “More wine? I think I've had enough.”
   - [Mild] “Yeah, yeah, yeah, how about some scotch whiskey? You got any of that around here? Or just a bunch of nonsense words? Rick We'll have two bloogies, please.”
 
-## S1 E6 — 6. Rick Potion #9
+## S1 E6 — Rick Potion #9
 URL: https://watchwiththekids.com/ep/rick-and-morty/0106.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -135,7 +135,7 @@ Watch for:
   - [Mild] “What the hell is going on, Rick? What does it look like? The serum is piggybacking on the virus.”
   - [Mild] “What the hell? The only thing that is known is how cute he is.”
 
-## S1 E7 — 7. Raising Gazorpazorp
+## S1 E7 — Raising Gazorpazorp
 URL: https://watchwiththekids.com/ep/rick-and-morty/0107.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -163,7 +163,7 @@ Watch for:
   - [Mild] “? Oh crap, he named it.”
   - [Mild] “Oh right, because there is something about having a wiener that would make me better walking through a hole? Oh crap.”
 
-## S1 E8 — 8. Rixty Minutes
+## S1 E8 — Rixty Minutes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0108.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -191,7 +191,7 @@ Watch for:
   - [Too much] “What is either code for crystal meth, or a gateway to it.”
   - [Mild] “You'd also be drinking wine, alone in a house full of exotic birds.”
 
-## S1 E9 — 9. Something Ricked This Way Comes
+## S1 E9 — Something Ricked This Way Comes
 URL: https://watchwiththekids.com/ep/rick-and-morty/0109.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -217,7 +217,7 @@ Watch for:
   - [Mild] “Seriously? Holy crap.”
   - [Mild] “…go hard, getting busy with it but I got such a good heart that I'll make the mother wonder if he did it damn right, and I'll do it again, 'cause I am right so I gots to win break bread with the enemy but no matter…”
 
-## S1 E10 — 10. Close Rick-Counters of the Rick Kind
+## S1 E10 — Close Rick-Counters of the Rick Kind
 URL: https://watchwiththekids.com/ep/rick-and-morty/0110.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -235,7 +235,7 @@ Watch for:
   - [Mild] “Do your worst, you little bastards! Kill me! Do it! Do I-I-I-I-it! Morty! Thank God! Get me out of this.”
   - [Mild] “Poor little rickless bastards.”
 
-## S1 E11 — 11. Ricksy Business
+## S1 E11 — Ricksy Business
 URL: https://watchwiththekids.com/ep/rick-and-morty/0111.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -255,7 +255,7 @@ Watch for:
   - [Mild] “Tammy's already drunk.”
   - [Mild] “What does a rapist look like exactly, Beth? Is it a slavic man wearing a denim jacket with a patchy beard and the scent of cheap champagne wafting over his blister-pocked lips?”
 
-## S2 E1 — 1. A Rickle In Time
+## S2 E1 — A Rickle In Time
 URL: https://watchwiththekids.com/ep/rick-and-morty/0201.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -279,7 +279,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You mean drunk? What's that? You got something to say? - No.”
 
-## S2 E2 — 2. Mortynight Run
+## S2 E2 — Mortynight Run
 URL: https://watchwiththekids.com/ep/rick-and-morty/0202.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -302,7 +302,7 @@ Watch for:
   - [Mild] “It's got beer, games, prizes, and you can never tell what time it is.”
   - [Mild] “You kind of wasted your 30s, though, with that whole bird-watching phase.”
 
-## S2 E3 — 3. Auto Erotic Assimilation
+## S2 E3 — Auto Erotic Assimilation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0203.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -341,7 +341,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Where did you learn to talk, you grandpa-stealing slut? I'm feeling Ugh.”
 
-## S2 E4 — 4. Total Rickall
+## S2 E4 — Total Rickall
 URL: https://watchwiththekids.com/ep/rick-and-morty/0204.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -362,7 +362,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Are you drunk? What are you? - My wife coach? - Your what? Oh! God! Oh.”
 
-## S2 E5 — 5. Get Schwifty
+## S2 E5 — Get Schwifty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0205.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -386,7 +386,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “We're sorry for our increased levels of emissions and our racism and, of course, the Amber Alerts I keep ignoring on my phone.”
 
-## S2 E6 — 6. The Ricks Must Be Crazy
+## S2 E6 — The Ricks Must Be Crazy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -411,7 +411,7 @@ Watch for:
   - [Mild] “Your microverse sucks! And your miniverse is the size of a [bleep.]”
   - [Mild] “Everyone's gross, and they all smell like piss all the time.”
 
-## S2 E7 — 7. Big Trouble In Little Sanchez
+## S2 E7 — Big Trouble In Little Sanchez
 URL: https://watchwiththekids.com/ep/rick-and-morty/0207.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -433,7 +433,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “The value of his subservience is wasted on you.”
 
-## S2 E8 — 8. Interdimensional Cable 2: Tempting Fate
+## S2 E8 — Interdimensional Cable 2: Tempting Fate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0208.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -463,7 +463,7 @@ Watch for:
   - [Too much] “…been learning about his accomplishments, from his march on flirk blirk square to his ongoing battle with heroin dependency.”
   - [Too much] “Well, I-it occurs to me that his heroin addiction may not have been a matter of public record.”
 
-## S2 E9 — 9. Look Who's Purging Now
+## S2 E9 — Look Who's Purging Now
 URL: https://watchwiththekids.com/ep/rick-and-morty/0209.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -486,7 +486,7 @@ Watch for:
   - [Mild] “What the hell?! I don't care.”
   - [Mild] “Screw you, Rick! I'll purge you, too, you old, rickety piece of crap! This has been a long time coming! I'm gonna rip your [Bleep.]”
 
-## S2 E10 — 10. The Wedding Squanchers
+## S2 E10 — The Wedding Squanchers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -506,7 +506,7 @@ Watch for:
   - [Mild] “Can you make me a dumb grandson pep talk? It's one part lame advice about stuff you know nothing about and a lot of vodka.”
   - [Mild] “I have a lot of vodka.”
 
-## S3 E1 — 1. The Rickshank Redemption
+## S3 E1 — The Rickshank Redemption
 URL: https://watchwiththekids.com/ep/rick-and-morty/0301.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -526,7 +526,7 @@ Watch for:
   - [Mild] “It was all part of his plan! Jerry, is there any light beer left? It's insane what you miss in prison.”
   - [Mild] “Where's the vodka? Beth, it's him or me! Seems like you guys need some privacy.”
 
-## S3 E2 — 2. Rickmancing the Stone
+## S3 E2 — Rickmancing the Stone
 URL: https://watchwiththekids.com/ep/rick-and-morty/0302.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -552,7 +552,7 @@ Watch for:
   - [Mild] “What's the matter, you piece of crap? Haven't you ever watched your family burn to death before? Now I'm gonna whip you.”
   - [Mild] “Oh, cut the crap, Rick, okay? You proved your point.”
 
-## S3 E3 — 3. Pickle Rick
+## S3 E3 — Pickle Rick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0303.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -572,7 +572,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Wong By the way, racist name Obviously, Morty and Summer are seizing on your arbitrary pickle obsession as an end run around what was supposed to be their therapy.”
 
-## S3 E4 — 4. Vindicators 3: The Return of Worldender
+## S3 E4 — Vindicators 3: The Return of Worldender
 URL: https://watchwiththekids.com/ep/rick-and-morty/0304.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -604,7 +604,7 @@ Watch for:
   - [Mild] “You guys hit the baskets, I'll disarm the drunkenly-improvised neutrino bomb.”
   - [Mild] “I mean, look, when I get drunk, I get stupid and emotional and there's no logic to it.”
 
-## S3 E5 — 5. The Whirly Dirly Conspiracy
+## S3 E5 — The Whirly Dirly Conspiracy
 URL: https://watchwiththekids.com/ep/rick-and-morty/0305.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -633,7 +633,7 @@ Watch for:
   - [Mild] “Morty! Don't "Morty" me! I tricked Rick into taking Dad on an adventure because I thought I could get a break from this kind of but no! Like father, like damn daughter!”
   - [Mild] “God damn it! Go ahead.”
 
-## S3 E6 — 6. Rest and Ricklaxation
+## S3 E6 — Rest and Ricklaxation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0306.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -658,7 +658,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “"Did did d-did you get a new Morty yet?" Because you kept drunk dialing me and crying about it.”
 
-## S3 E7 — 7. The Ricklantis Mixup
+## S3 E7 — The Ricklantis Mixup
 URL: https://watchwiththekids.com/ep/rick-and-morty/0307.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -686,7 +686,7 @@ Watch for:
   - [Mild] “Hands in the air! What the hell, man?! What the hellin' hell? You guys doing a little chemistry homework with Grandpa? Is this what I think it is? Bootleg portal fluid.”
   - [Mild] “Hey! Hey! No, no, no, no Whaa God damn it!”
 
-## S3 E8 — 8. Morty's Mind Blowers
+## S3 E8 — Morty's Mind Blowers
 URL: https://watchwiththekids.com/ep/rick-and-morty/0308.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -716,7 +716,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “air, you're the reason this species is a failure, and it makes me angry! You're drunk.”
 
-## S3 E9 — 9. The ABCs of Beth
+## S3 E9 — The ABCs of Beth
 URL: https://watchwiththekids.com/ep/rick-and-morty/0309.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -750,7 +750,7 @@ Watch for:
   - [Too much] “Now help me! First, I want you to admit that you're a closet racist, a beta-male sexist, and you dragged everyone into a horrible situation by only thinking of yourself.”
   - [Too much] “Dad! -Come on! Just rip the Band-Aid off! Okay! Kiara, when I told you my kids were bigoted racists who were demanding I break up with you, I lied.”
 
-## S3 E10 — 10. The Rickchurian Mortydate
+## S3 E10 — The Rickchurian Mortydate
 URL: https://watchwiththekids.com/ep/rick-and-morty/0310.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -779,7 +779,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “Kennedy Sex Tunnels? Naturally, you'll forget you saw them, along with, in order of national embarrassment, the Truman Cocaine Lounge, the McKinley Hooker Dump, and the Lincoln Slave Coliseum.”
 
-## S4 E1 — 1. Edge of Tomorty: Rick, Die, Rickpeat
+## S4 E1 — Edge of Tomorty: Rick, Die, Rickpeat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0401.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -809,7 +809,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “, racist, accusatory, Isaac Asimov bull[BLEEP.]”
 
-## S4 E2 — 2. The Old Man and the Seat
+## S4 E2 — The Old Man and the Seat
 URL: https://watchwiththekids.com/ep/rick-and-morty/0402.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -833,7 +833,7 @@ Watch for:
   - [Mild] “Summer Smith, let's get the hell out of here.”
   - [Mild] “What in the hell are you doing? - Parenting.”
 
-## S4 E3 — 3. One Crew Over the Crewcoo's Morty
+## S4 E3 — One Crew Over the Crewcoo's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0403.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -852,7 +852,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Aah! You stole the gem I needed to split tachyons and probably fenced it so the 80 people that did all the work could each buy a beer.”
 
-## S4 E4 — 4. Claw and Hoarder: Special Ricktim's Morty
+## S4 E4 — Claw and Hoarder: Special Ricktim's Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0404.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -880,7 +880,7 @@ Watch for:
   - [Caution] “All dragons are sluts deep down, even the ones up above, but we would have to kill the wizard to be free.”
   - [Caution] “We've never had enough sluts to defeat the wizard.”
 
-## S4 E5 — 5. Rattlestar Ricklactica
+## S4 E5 — Rattlestar Ricklactica
 URL: https://watchwiththekids.com/ep/rick-and-morty/0405.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -909,7 +909,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Yeah, it's fun until it's you, - huh, shit nog? - Yeah, have fun sewing those snake costumes together, - you little tramp.”
 
-## S4 E6 — 6. Never Ricking Morty
+## S4 E6 — Never Ricking Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0406.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -937,7 +937,7 @@ Watch for:
   - [Mild] Hey, what the hell? Your leg is healed.
   - [Mild] God damn complicated
 
-## S4 E7 — 7. Promortyus
+## S4 E7 — Promortyus
 URL: https://watchwiththekids.com/ep/rick-and-morty/0407.html
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -954,7 +954,7 @@ Watch for:
   - [Mild] Jesus, Morty, that sucks.
   - [Mild] That we suck and everyone sucks?
 
-## S4 E8 — 8. The Vat of Acid Episode
+## S4 E8 — The Vat of Acid Episode
 URL: https://watchwiththekids.com/ep/rick-and-morty/0408.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -981,7 +981,7 @@ Watch for:
   - [Too much] friendship, Heroin Keith.
   - [Mild] Big man, big genius. Big lonely drunk.
 
-## S4 E9 — 9. Childrick of Mort
+## S4 E9 — Childrick of Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0409.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1013,7 +1013,7 @@ Watch for:
   - [Caution] Getting high and playing
   - [Mild] from her drunk father!
 
-## S4 E10 — 10. Star Mort Rickturn of the Jerri
+## S4 E10 — Star Mort Rickturn of the Jerri
 URL: https://watchwiththekids.com/ep/rick-and-morty/0410.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1037,7 +1037,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] cheap wine and dinosaur pasta.
 
-## S5 E1 — 1. Mort Dinner Rick Andre
+## S5 E1 — Mort Dinner Rick Andre
 URL: https://watchwiththekids.com/ep/rick-and-morty/0501.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1079,7 +1079,7 @@ Watch for:
   - [Mild] You have wasted our lives,
   - [Mild] for a sad, drunk shell of a man
 
-## S5 E2 — 2. Mortyplicity
+## S5 E2 — Mortyplicity
 URL: https://watchwiththekids.com/ep/rick-and-morty/0502.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1107,7 +1107,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] might look like blackface.
 
-## S5 E3 — 3. A Rickconvenient Mort
+## S5 E3 — A Rickconvenient Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0503.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1137,7 +1137,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] I'll get the wine.
 
-## S5 E4 — 4. Rickdependence Spray
+## S5 E4 — Rickdependence Spray
 URL: https://watchwiththekids.com/ep/rick-and-morty/0504.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1171,7 +1171,7 @@ Watch for:
   - [Mild] Get the hell in here!
   - [Mild] Oh, this sucks.
 
-## S5 E5 — 5. Amortycan Grickfitti
+## S5 E5 — Amortycan Grickfitti
 URL: https://watchwiththekids.com/ep/rick-and-morty/0505.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1204,7 +1204,7 @@ Watch for:
   - [Caution] to be offline, skank.
   - [Caution] blackmail you, skank.
 
-## S5 E6 — 6. Rick & Morty's Thanksploitation Spectacular
+## S5 E6 — Rick & Morty's Thanksploitation Spectacular
 URL: https://watchwiththekids.com/ep/rick-and-morty/0506.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1230,7 +1230,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] in a whore's lunchbox.
 
-## S5 E7 — 7. Gotron Jerrysis Rickvangelion
+## S5 E7 — Gotron Jerrysis Rickvangelion
 URL: https://watchwiththekids.com/ep/rick-and-morty/0507.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1253,7 +1253,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] You're so fat you're
 
-## S5 E8 — 8. Rickternal Friendshine of the Spotless Mort
+## S5 E8 — Rickternal Friendshine of the Spotless Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0508.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1275,7 +1275,7 @@ Watch for:
   - [Mild] Let's bring you to life and get a beer.
   - [Mild] us getting a beer?
 
-## S5 E9 — 9. Forgetting Sarick Mortshall
+## S5 E9 — Forgetting Sarick Mortshall
 URL: https://watchwiththekids.com/ep/rick-and-morty/0509.html
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1299,7 +1299,7 @@ Watch for:
   - [Mild] Damn. Just like Jackie Chan!
   - [Mild] Oh, crap, we better skedaddle!
 
-## S5 E10 — 10. Rickmurai Jack
+## S5 E10 — Rickmurai Jack
 URL: https://watchwiththekids.com/ep/rick-and-morty/0510.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1322,7 +1322,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] you wasted your entire life?
 
-## S6 E1 — 1. Solaricks
+## S6 E1 — Solaricks
 URL: https://watchwiththekids.com/ep/rick-and-morty/0601.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1346,7 +1346,7 @@ Watch for:
   - [Mild] Damn it, Morty, there's
   - [Mild] What the hell, Dad?
 
-## S6 E2 — 2. Rick: A Mort Well Lived
+## S6 E2 — Rick: A Mort Well Lived
 URL: https://watchwiththekids.com/ep/rick-and-morty/0602.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1378,7 +1378,7 @@ Watch for:
   - [Too much] I'm 30! I'm a little racist,
   - [Too much] Hard 3" was clearly racist.
 
-## S6 E3 — 3. Bethic Twinstinct
+## S6 E3 — Bethic Twinstinct
 URL: https://watchwiththekids.com/ep/rick-and-morty/0603.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1420,7 +1420,7 @@ Watch for:
   - [Mild] Favorite hangover cure.
   - [Mild] I got drunk with Jerry one night
 
-## S6 E4 — 4. Night Family
+## S6 E4 — Night Family
 URL: https://watchwiththekids.com/ep/rick-and-morty/0604.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1447,7 +1447,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] Screw that. We're not whores.
 
-## S6 E5 — 5. Final DeSmithation
+## S6 E5 — Final DeSmithation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0605.html
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1480,7 +1480,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] And before you say that sounded racist,
 
-## S6 E6 — 6. JuRicksic Mort
+## S6 E6 — JuRicksic Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0606.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1505,7 +1505,7 @@ Watch for:
   - [Mild] What the hell is this?
   - [Mild] God damn it, I need
 
-## S6 E7 — 7. Full Meta Jackrick
+## S6 E7 — Full Meta Jackrick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0607.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1534,7 +1534,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] breast of a meth addict
 
-## S6 E8 — 8. Analyze Piss
+## S6 E8 — Analyze Piss
 URL: https://watchwiththekids.com/ep/rick-and-morty/0608.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1571,7 +1571,7 @@ Watch for:
   - [Mild] me an "ugly drunk."
   - [Mild] and everyone's popping champagne.
 
-## S6 E9 — 9. A Rick in King Mortur's Mort
+## S6 E9 — A Rick in King Mortur's Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0609.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1599,7 +1599,7 @@ Watch for:
   - [Too much] They're talking about heroin,
   - [Mild] drunk, I'm a psychopath,
 
-## S6 E10 — 10. Ricktional Mortpoon's Rickmas Mortcation
+## S6 E10 — Ricktional Mortpoon's Rickmas Mortcation
 URL: https://watchwiththekids.com/ep/rick-and-morty/0610.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1623,7 +1623,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] But you'll die. You're drunk.
 
-## S7 E1 — 1. How Poopy Got His Poop Back
+## S7 E1 — How Poopy Got His Poop Back
 URL: https://watchwiththekids.com/ep/rick-and-morty/0701.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1647,7 +1647,7 @@ Watch for:
   - [Mild] Have two beers, then ten more ♪
   - [Mild] I'm too drunk to flee
 
-## S7 E2 — 2. The Jerrick Trap
+## S7 E2 — The Jerrick Trap
 URL: https://watchwiththekids.com/ep/rick-and-morty/0702.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1671,7 +1671,7 @@ Watch for:
   - [Mild] to use the electric wine opener.
   - [Mild] Hey, another beer?
 
-## S7 E3 — 3. Air Force Wong
+## S7 E3 — Air Force Wong
 URL: https://watchwiththekids.com/ep/rick-and-morty/0703.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1698,7 +1698,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] You're all just drunk!
 
-## S7 E4 — 4. That's Amorte
+## S7 E4 — That's Amorte
 URL: https://watchwiththekids.com/ep/rick-and-morty/0704.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1731,7 +1731,7 @@ Watch for:
   - [Mild] The new spaghetti sucks!
   - [Mild] The hell is this?
 
-## S7 E5 — 5. Unmortricken
+## S7 E5 — Unmortricken
 URL: https://watchwiththekids.com/ep/rick-and-morty/0705.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1756,7 +1756,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Hey, Rick. You drunk yet?
 
-## S7 E6 — 6. Rickfending Your Mort
+## S7 E6 — Rickfending Your Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0706.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1785,7 +1785,7 @@ Watch for:
   - [Mild] You're always drunk.
   - [Mild] Are you drinking wine in there?
 
-## S7 E7 — 7. Wet Kuat Amortican Summer
+## S7 E7 — Wet Kuat Amortican Summer
 URL: https://watchwiththekids.com/ep/rick-and-morty/0707.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1813,7 +1813,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] New friends! Champagne?
 
-## S7 E8 — 8. Rise of the Numbericons: The Movie
+## S7 E8 — Rise of the Numbericons: The Movie
 URL: https://watchwiththekids.com/ep/rick-and-morty/0708.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1833,7 +1833,7 @@ Watch for:
   - [Mild] our God damn hearts.
   - [Mild] Damn. My dream just died.
 
-## S7 E9 — 9. Mort: Ragnarick
+## S7 E9 — Mort: Ragnarick
 URL: https://watchwiththekids.com/ep/rick-and-morty/0709.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1863,7 +1863,7 @@ Watch for:
   - [Mild] kill for a beer and a sandwich.
   - [Mild] gonna give him a beer?
 
-## S7 E10 — 10. Fear No Mort
+## S7 E10 — Fear No Mort
 URL: https://watchwiththekids.com/ep/rick-and-morty/0710.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1891,7 +1891,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] Uh, okay, sluts.
 
-## S8 E1 — 1. Summer of All Fears
+## S8 E1 — Summer of All Fears
 URL: https://watchwiththekids.com/ep/rick-and-morty/0801.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1919,7 +1919,7 @@ Watch for:
   - [Mild] Toss me a beer.
   - [Mild] If this is about the beers,
 
-## S9 E1 — 1. Theres Something About Morty
+## S9 E1 — Theres Something About Morty
 URL: https://watchwiththekids.com/ep/rick-and-morty/0901.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -1942,7 +1942,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Coffee with vodka in it.
 
-## S9 E2 — 2. Ricks Days, Seven Nights
+## S9 E2 — Ricks Days, Seven Nights
 URL: https://watchwiththekids.com/ep/rick-and-morty/0902.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1971,7 +1971,7 @@ Watch for:
   - [Mild] Lots of booze
   - [Mild] He was drunk.
 
-## S9 E3 — 3. Rick Fu Hustle
+## S9 E3 — Rick Fu Hustle
 URL: https://watchwiththekids.com/ep/rick-and-morty/0903.html
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2012,7 +2012,7 @@ Watch for:
   - [Caution] In my day, we called them sluts.
   - [Caution] Whore! Whore!
 
-## S9 E4 — 4. A Ricker Runs Through It
+## S9 E4 — A Ricker Runs Through It
 URL: https://watchwiththekids.com/ep/rick-and-morty/0904.html
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2038,7 +2038,7 @@ Watch for:
   - [Mild] of vodka on this one planet.
   - [Mild] you think those vodka hogs
 
-## S9 E5 — 5. Jer Bud
+## S9 E5 — Jer Bud
 URL: https://watchwiththekids.com/ep/rick-and-morty/0905.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2070,7 +2070,7 @@ Watch for:
   - [Too much] racist piece-of-shit bigots!
   - [Too much] neck racism, probably.
 
-## S9 E6 — 6. Erickerhead
+## S9 E6 — Erickerhead
 URL: https://watchwiththekids.com/ep/rick-and-morty/0906.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2101,7 +2101,7 @@ Watch for:
   - [Mild] a beer garden!
   - [Mild] I give myself when I'm drunk.
 
-## S9 E7 — 7. Mortgully: The Last Rickforest
+## S9 E7 — Mortgully: The Last Rickforest
 URL: https://watchwiththekids.com/ep/rick-and-morty/0907.html
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2119,7 +2119,7 @@ Watch for:
   - [Mild] What the hell?
   - [Mild] God damn it, Morty,
 
-## S9 E8 — 8. Rickuiem Mort a Dream
+## S9 E8 — Rickuiem Mort a Dream
 URL: https://watchwiththekids.com/ep/rick-and-morty/0908.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2147,7 +2147,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Just get an empty beer keg for that.
 
-## S9 E9 — 9. Salute Your Morts
+## S9 E9 — Salute Your Morts
 URL: https://watchwiththekids.com/ep/rick-and-morty/0909.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2178,7 +2178,7 @@ Watch for:
   - [Mild] Get that fart baby a beer!
   - [Mild] I wish we hadn't given beer
 
-## S9 E10 — 10. Field Of Dreams
+## S9 E10 — Field Of Dreams
 URL: https://watchwiththekids.com/ep/rick-and-morty/0910.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:

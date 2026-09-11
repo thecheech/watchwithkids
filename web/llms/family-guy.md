@@ -4,7 +4,7 @@ Source: https://watchwiththekids.com/family-guy.html
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 34 mild (1–2), 123 caution (3), 299 too much (4–5).
 
-## S1 E1 — 1. Death Has a Shadow
+## S1 E1 — Death Has a Shadow
 URL: https://watchwiththekids.com/ep/family-guy/0101.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -41,7 +41,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “President, why do you think the public supports you during these impeachment proceedings? Probably because you're so fat.”
 
-## S1 E2 — 2. I Never Met the Dead Man
+## S1 E2 — I Never Met the Dead Man
 URL: https://watchwiththekids.com/ep/family-guy/0102.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -65,7 +65,7 @@ Watch for:
   - [Mild] “Think I'll go get drunk and beat up midgets.”
   - [Mild] “All the hours we've wasted on that damn idiot box.”
 
-## S1 E3 — 3. Chitty Chitty Death Bang
+## S1 E3 — Chitty Chitty Death Bang
 URL: https://watchwiththekids.com/ep/family-guy/0103.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -81,7 +81,7 @@ Watch for:
   - [Caution] “Come on! Hands off, fatty! Sir, I'm going to have to ask you to leave.”
   - [Caution] “What about that fat girl from the Judds? I'm sorry I've been so selfish.”
 
-## S1 E4 — 4. Mind Over Murder
+## S1 E4 — Mind Over Murder
 URL: https://watchwiththekids.com/ep/family-guy/0104.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -114,7 +114,7 @@ Watch for:
   - [Mild] “My mother used to use whiskey whenever I had a toothache.”
   - [Mild] “Care to partake in one of your oh-so-exhilarating games of peekaboo? Oh, my God! My baby is drunk! PETER: No, I'm not! Him? Yeah.”
 
-## S1 E5 — 5. A Hero Sits Next Door
+## S1 E5 — A Hero Sits Next Door
 URL: https://watchwiththekids.com/ep/family-guy/0105.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -139,7 +139,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “If that slut wants full custody of the kids, she's got it.”
 
-## S1 E6 — 6. The Son Also Draws
+## S1 E6 — The Son Also Draws
 URL: https://watchwiththekids.com/ep/family-guy/0106.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -162,7 +162,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Patty, did you know that your mother is a whore? l think it's great that you and Chris've been spending so much time together.”
 
-## S1 E7 — 7. Brian: Portrait of a Dog
+## S1 E7 — Brian: Portrait of a Dog
 URL: https://watchwiththekids.com/ep/family-guy/0107.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -188,7 +188,7 @@ Watch for:
   - [Mild] “I need a cocktail.”
   - [Mild] “Can you spare some change? Why? So you can go buy yourself another bottle of booze? Why don't you make something of your life, like this dog? That's me! I mean, that was me.”
 
-## S2 E1 — 1. Peter, Peter, Caviar Eater
+## S2 E1 — Peter, Peter, Caviar Eater
 URL: https://watchwiththekids.com/ep/family-guy/0201.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -218,7 +218,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “No, because your ancestors were nothing but a bunch of pimps and whores.”
 
-## S2 E2 — 2. Holy Crap
+## S2 E2 — Holy Crap
 URL: https://watchwiththekids.com/ep/family-guy/0202.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -245,7 +245,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] Theme from The Dick Van Dyke Show.
 
-## S2 E3 — 3. DaBoom
+## S2 E3 — DaBoom
 URL: https://watchwiththekids.com/ep/family-guy/0203.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -271,7 +271,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Not about kickin' your fat ass.”
 
-## S2 E4 — 4. Brian in Love
+## S2 E4 — Brian in Love
 URL: https://watchwiththekids.com/ep/family-guy/0204.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -289,7 +289,7 @@ Watch for:
   - [Mild] “I oughta just give you some beer.”
   - [Mild] “Say we were drunk and knew we wouldn't remember? I'd have to be really, really No! I tell you, Peter, I wish I'd taken this up years ago.”
 
-## S2 E5 — 5. Love Thy Trophy
+## S2 E5 — Love Thy Trophy
 URL: https://watchwiththekids.com/ep/family-guy/0205.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -310,7 +310,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Henry, give the little skank a nice tip.”
 
-## S2 E6 — 6. Death Is a Bitch
+## S2 E6 — Death Is a Bitch
 URL: https://watchwiththekids.com/ep/family-guy/0206.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -333,7 +333,7 @@ Watch for:
   - [Caution] “As it turns out, the lump on your chest was just a fatty corpuscle.”
   - [Caution] “Fatty corpuscle? Wait a minute.”
 
-## S2 E7 — 7. The King Is Dead
+## S2 E7 — The King Is Dead
 URL: https://watchwiththekids.com/ep/family-guy/0207.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -362,7 +362,7 @@ Watch for:
   - [Caution] “Weed said whoever comes up with the best idea for the big Christmas toy this year gets a huge bonus.”
   - [Caution] “Weed, distinguished members of the board may I present this year's hottest toy Mr.”
 
-## S2 E8 — 8. I Am Peter, Hear Me Roar
+## S2 E8 — I Am Peter, Hear Me Roar
 URL: https://watchwiththekids.com/ep/family-guy/0208.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -391,7 +391,7 @@ Watch for:
   - [Mild] “(man) Pawtucket Patriot beer.”
   - [Mild] “Typical male fantasy! Women drinking beer! I guarantee you a man made that commercial.”
 
-## S2 E9 — 9. If I'm Dyin' I'm Lyin'
+## S2 E9 — If I'm Dyin' I'm Lyin'
 URL: https://watchwiththekids.com/ep/family-guy/0209.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -421,7 +421,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Tonight, Katie Couric guest stars as a very perky crack whore.”
 
-## S2 E10 — 10. Running Mates
+## S2 E10 — Running Mates
 URL: https://watchwiththekids.com/ep/family-guy/0210.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -446,7 +446,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] PETER: “Lois Griffin is a slut.”
 
-## S2 E11 — 11. A Picture Is Worth 1,000 Bucks
+## S2 E11 — A Picture Is Worth 1,000 Bucks
 URL: https://watchwiththekids.com/ep/family-guy/0211.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -467,7 +467,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Mr Monatti invited us to a cocktail party so Chris can meet some artists.”
 
-## S2 E12 — 12. Fifteen Minutes of Shame
+## S2 E12 — Fifteen Minutes of Shame
 URL: https://watchwiththekids.com/ep/family-guy/0212.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -493,7 +493,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “But, Dad - Upstairs! You're a McDonald, not a whore.”
 
-## S2 E13 — 13. Road to Rhode Island
+## S2 E13 — Road to Rhode Island
 URL: https://watchwiththekids.com/ep/family-guy/0213.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -517,7 +517,7 @@ Watch for:
   - [Mild] “Public drunkenness, grand theft auto.”
   - [Mild] “We're off on the road to Rhode Island We're not gonna stop till we're there Maybe for a beer.”
 
-## S2 E14 — 14. Let's Go to the Hop
+## S2 E14 — Let's Go to the Hop
 URL: https://watchwiththekids.com/ep/family-guy/0214.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -530,7 +530,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “If you want to be a Supreme Court justice, you gotta pick up that cherry with your butt cheeks and drop it in that beer.”
 
-## S2 E15 — 15. Dammit Janet
+## S2 E15 — Dammit Janet
 URL: https://watchwiththekids.com/ep/family-guy/0215.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -546,7 +546,7 @@ Watch for:
   - [Mild] “Hey, throw me a beer, would ya? Stewardess, the plane just made my beer spill.”
   - [Mild] “Sir, all your beers have been free.”
 
-## S2 E16 — 16. There's Something About Paulie
+## S2 E16 — There's Something About Paulie
 URL: https://watchwiththekids.com/ep/family-guy/0216.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -562,7 +562,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “This is my friend, Big Fat Paulie, and, uh this is his big fat ass.”
 
-## S2 E17 — 17. He's Too Sexy for His Fat
+## S2 E17 — He's Too Sexy for His Fat
 URL: https://watchwiththekids.com/ep/family-guy/0217.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -592,7 +592,7 @@ Watch for:
   - [Caution] “Honey, if you wanna lose weight, I'll put you on a diet and your father can help you exercise.”
   - [Caution] “Go away! Wow, Chris, did you lose weight? Maybe.”
 
-## S2 E18 — 18. E. Peterbus Unum
+## S2 E18 — E. Peterbus Unum
 URL: https://watchwiththekids.com/ep/family-guy/0218.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -608,7 +608,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “That's Petorian for "More beer, you slappy-wag.”
 
-## S2 E19 — 19. The Story on Page One
+## S2 E19 — The Story on Page One
 URL: https://watchwiththekids.com/ep/family-guy/0219.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -626,7 +626,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Behind the fat chick! - Nope? - (Stewie) D'oh! OK.”
 
-## S2 E20 — 20. Wasted Talent
+## S2 E20 — Wasted Talent
 URL: https://watchwiththekids.com/ep/family-guy/0220.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -654,7 +654,7 @@ Watch for:
   - [Mild] “You can only play the piano when you're drunk! That's not true.”
   - [Mild] “I can't do it without booze.”
 
-## S2 E21 — 21. Fore, Father
+## S2 E21 — Fore, Father
 URL: https://watchwiththekids.com/ep/family-guy/0221.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -666,7 +666,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Whoa! Whoa-ho! - How old are you? - Old enough to know you're a whore.”
 
-## S3 E1 — 1. The Thin White Line (1)
+## S3 E1 — The Thin White Line (1)
 URL: https://watchwiththekids.com/ep/family-guy/0301.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -679,7 +679,7 @@ Watch for:
   - [Too much] “(knowing chuckles) - I better take this cocaine down to Evidence.”
   - [Caution] “Peter, are you OK? Mr Weed, I think Peter needs a doc We have a winner! Here, kitty, kitty, kitty, kitty.”
 
-## S3 E2 — 2. Brian Does Hollywood (2)
+## S3 E2 — Brian Does Hollywood (2)
 URL: https://watchwiththekids.com/ep/family-guy/0302.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -709,7 +709,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “|All the studs and sluts are arriving.”
 
-## S3 E3 — 3. Mr. Griffin Goes to Washington
+## S3 E3 — Mr. Griffin Goes to Washington
 URL: https://watchwiththekids.com/ep/family-guy/0303.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -740,7 +740,7 @@ Watch for:
   - [Caution] “Hello?|- Mr Weed? I can't come to work today.”
   - [Caution] “Peter?|- Oh Hi, Mr Weed.”
 
-## S3 E4 — 4. One If By Clam, Two If By Sea
+## S3 E4 — One If By Clam, Two If By Sea
 URL: https://watchwiththekids.com/ep/family-guy/0304.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -766,7 +766,7 @@ Watch for:
   - [Caution] “Is that some kind of crack?|- Crack? You sayin' I got a fat ass? Fellas, fellas.”
   - [Caution] “Hands up!|- Oh, Peter, you didn't! - Hey, fatty's wife is a babe.”
 
-## S3 E5 — 5. And the Wiener is...
+## S3 E5 — And the Wiener is...
 URL: https://watchwiththekids.com/ep/family-guy/0305.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -789,7 +789,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “The end result of a drunken backseat|gropefest and a broken prophylactic? - I'm on the flag girl squad!|- Oh, honey, congratulations.”
 
-## S3 E6 — 6. Death Lives
+## S3 E6 — Death Lives
 URL: https://watchwiththekids.com/ep/family-guy/0306.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -806,7 +806,7 @@ Watch for:
   - [Mild] “But this will! Aah! Aah! You bastard! - What the hell is going on out here?|- Actually, I, uh I, uh Actually, he wanted to ask you something.”
   - [Mild] “Hey! Get out of the way! Damn.”
 
-## S3 E7 — 7. Lethal Weapons
+## S3 E7 — Lethal Weapons
 URL: https://watchwiththekids.com/ep/family-guy/0307.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -836,7 +836,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “You happy now?|- Don't you use that tone of voice, you - What were you gonna say? Fat ass?|- Wide load?”
 
-## S3 E8 — 8. The Kiss Seen Around the World
+## S3 E8 — The Kiss Seen Around the World
 URL: https://watchwiththekids.com/ep/family-guy/0308.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -856,7 +856,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Meg, I strongly suggest you hold|my hand, lest you look like a slut.”
 
-## S3 E9 — 9. Mr. Saturday Knight
+## S3 E9 — Mr. Saturday Knight
 URL: https://watchwiththekids.com/ep/family-guy/0309.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -882,7 +882,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Hey, what's your fat ass doing here? He's my only means of conveyance.”
 
-## S3 E10 — 10. Fish Out of Water
+## S3 E10 — Fish Out of Water
 URL: https://watchwiththekids.com/ep/family-guy/0310.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -906,7 +906,7 @@ Watch for:
   - [Caution] “How am I gonna come up with 50 grand? You could whore yourself out to|a thousand fat chicks for 50 bucks apiece.”
   - [Caution] “You can whore yourself out|to a thousand fat chicks for 50 bucks.”
 
-## S3 E11 — 11. Emission Impossible
+## S3 E11 — Emission Impossible
 URL: https://watchwiththekids.com/ep/family-guy/0311.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -930,7 +930,7 @@ Watch for:
   - [Caution] “|I'll feel like a fatty.”
   - [Caution] “Like I could! He's so fat.”
 
-## S3 E12 — 12. To Live and Die in Dixie
+## S3 E12 — To Live and Die in Dixie
 URL: https://watchwiththekids.com/ep/family-guy/0312.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -961,7 +961,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Get your fat ass back here.”
 
-## S3 E13 — 13. Screwed the Pooch
+## S3 E13 — Screwed the Pooch
 URL: https://watchwiththekids.com/ep/family-guy/0313.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -979,7 +979,7 @@ Watch for:
   - [Caution] “Oh, so I should treat him|like a high-class whore.”
   - [Caution] “Stop! Brian, come quick! - Oh, my God! Those aren't my puppies!|- Then whose are they? (barking) You! You're a whore! A filthy, filthy whore! You must be so relieved.”
 
-## S3 E14 — 14. Peter Griffin: Husband, Father...Brother?
+## S3 E14 — Peter Griffin: Husband, Father...Brother?
 URL: https://watchwiththekids.com/ep/family-guy/0314.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1003,7 +1003,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Yo, did y'all check me when|that hottie was all up in my Kool-Aid? I was lookin' to break off somethin', but my crew gave me the 411 on that skank|and she's all about the bling-bling.”
 
-## S3 E15 — 15. Ready, Willing, and Disabled
+## S3 E15 — Ready, Willing, and Disabled
 URL: https://watchwiththekids.com/ep/family-guy/0315.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1027,7 +1027,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Oh, my God!|- Get your fat ass over to Joe's.”
 
-## S3 E16 — 16. A Very Special Family Guy Freakin' Christmas
+## S3 E16 — A Very Special Family Guy Freakin' Christmas
 URL: https://watchwiththekids.com/ep/family-guy/0316.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -1041,7 +1041,7 @@ Watch for:
   - [Mild] “I don't have a hangover.”
   - [Mild] “So I can drink beer and watch TV?|Because Kiss Saves Santa is on.”
 
-## S3 E17 — 17. Brian Wallows and Peter's Swallows
+## S3 E17 — Brian Wallows and Peter's Swallows
 URL: https://watchwiththekids.com/ep/family-guy/0317.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1063,7 +1063,7 @@ Watch for:
   - [Caution] “(" "One" by Three Dog Night) You are a filthy whore.”
   - [Caution] “…a family place with lots to do "Where in the '50s, a man could mingle|with scores of all the seediest whores "Now his children can, too "You heard it from the canine's mouth "The country's changed -|that is, except…”
 
-## S3 E18 — 18. From Method to Madness
+## S3 E18 — From Method to Madness
 URL: https://watchwiththekids.com/ep/family-guy/0318.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1086,7 +1086,7 @@ Watch for:
   - [Mild] “But it was wasted.”
   - [Mild] “Wasted on all of you! Well, it looks like we have to|reconsider.”
 
-## S3 E19 — 19. Stuck Together, Torn Apart
+## S3 E19 — Stuck Together, Torn Apart
 URL: https://watchwiththekids.com/ep/family-guy/0319.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1116,7 +1116,7 @@ Watch for:
   - [Caution] “Please! Where my eyes are half-closed?|- God, just take the damn compliment! - What is Lois doing with another man?|- Is it possible she's a whore?”
   - [Caution] “Probably that skank who needed a ride.”
 
-## S3 E20 — 20. Road to Europe
+## S3 E20 — Road to Europe
 URL: https://watchwiththekids.com/ep/family-guy/0320.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1139,7 +1139,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “"There's not a whole lot|that we've got to agree on "Cos I love the strains of a classical score "And I like that singer|who looks like a whore - Ricky Martin?|- Love him!”
 
-## S3 E21 — 21. Family Guy Viewer Mail (1)
+## S3 E21 — Family Guy Viewer Mail (1)
 URL: https://watchwiththekids.com/ep/family-guy/0321.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1157,7 +1157,7 @@ Watch for:
   - [Mild] “|- Britney? What are you doing here? I was in the neighbourhood -|I'm gonna steal one of your beers - and I figured I'd stop by and say hi.”
   - [Mild] “|They can be stopped! You can't stop us, Mayor West!|We are all-powerful! Clearly you've let yourselves|become drunk with power.”
 
-## S3 E22 — 22. When You Wish Upon a Weinstein
+## S3 E22 — When You Wish Upon a Weinstein
 URL: https://watchwiththekids.com/ep/family-guy/0322.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -1165,7 +1165,7 @@ Watch for:
   - [Caution] “Enough foreplay.”
   - [Mild] “It seems today that all you see Is violence in movies and sex on TV But where are those good old-fashioned values On which we used to rely?”
 
-## S4 E1 — 1. North by North Quahog
+## S4 E1 — North by North Quahog
 URL: https://watchwiththekids.com/ep/family-guy/0401.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1186,7 +1186,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You fouI, venereaI-disease-carrying, streetwalking whore.”
 
-## S4 E2 — 2. Fast Times at Buddy Cianci Jr. High
+## S4 E2 — Fast Times at Buddy Cianci Jr. High
 URL: https://watchwiththekids.com/ep/family-guy/0402.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1226,7 +1226,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Do you have any idea what time it is? Get in the house, fatty! Chris, you big beautifuI man, I'm so glad you came.”
 
-## S4 E3 — 3. Blind Ambition
+## S4 E3 — Blind Ambition
 URL: https://watchwiththekids.com/ep/family-guy/0403.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1240,7 +1240,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Beer, glass.”
 
-## S4 E4 — 4. Don't Make Me Over
+## S4 E4 — Don't Make Me Over
 URL: https://watchwiththekids.com/ep/family-guy/0404.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1259,7 +1259,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “What about this, Meg? A pink baby tee that says "Little Slut?" - That seems pretty hip.”
 
-## S4 E5 — 5. The Cleveland-Loretta Quagmire
+## S4 E5 — The Cleveland-Loretta Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/0405.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1288,7 +1288,7 @@ Watch for:
   - [Too much] “Work is their cocaine.”
   - [Mild] “This is worse than when they took away my library card for reading while intoxicated.”
 
-## S4 E6 — 6. Petarded
+## S4 E6 — Petarded
 URL: https://watchwiththekids.com/ep/family-guy/0406.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1308,7 +1308,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Oh, yeah? Well, would a mentally retarded guy have hired a bulldozer with a drunk driver to leveI half of his house in celebration of his fantastic test results? Maybe.”
 
-## S4 E7 — 7. Brian the Bachelor
+## S4 E7 — Brian the Bachelor
 URL: https://watchwiththekids.com/ep/family-guy/0407.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1334,7 +1334,7 @@ Watch for:
   - [Caution] “Fat ass? - Yeah.”
   - [Caution] “No! You okay, fat ass? She told me she loved me on what used to be a hit TV show.”
 
-## S4 E8 — 8. 8 Simple Rules for Buying My Teenage Daughter
+## S4 E8 — 8 Simple Rules for Buying My Teenage Daughter
 URL: https://watchwiththekids.com/ep/family-guy/0408.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1358,7 +1358,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “The guy who just whiffed his way down the bar-skank ladder.”
 
-## S4 E9 — 9. Breaking Out Is Hard to Do
+## S4 E9 — Breaking Out Is Hard to Do
 URL: https://watchwiththekids.com/ep/family-guy/0409.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1369,7 +1369,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “This sucks worse than that time I did cocaine with KarI Malden.”
 
-## S4 E10 — 10. Model Misbehavior
+## S4 E10 — Model Misbehavior
 URL: https://watchwiththekids.com/ep/family-guy/0410.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1393,7 +1393,7 @@ Watch for:
   - [Too much] “So, which of the Latin countries are you from? The one with the civiI war, the one with the cocaine or the one with the fancy hats? Isn't this fun, Peter? You and I get to stay in my old high-schooI room.”
   - [Too much] “I mean, she's acting crazier than I did that time I tried Ecstasy.”
 
-## S4 E11 — 11. Peter's Got Woods
+## S4 E11 — Peter's Got Woods
 URL: https://watchwiththekids.com/ep/family-guy/0411.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1419,7 +1419,7 @@ Watch for:
   - [Mild] “I'm not going to avoid Peter like the drunk chick at a party.”
   - [Mild] “What do you say you and me go get a couple of beers, maybe we could Fine.”
 
-## S4 E12 — 12. Perfect Castaway
+## S4 E12 — Perfect Castaway
 URL: https://watchwiththekids.com/ep/family-guy/0412.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1447,7 +1447,7 @@ Watch for:
   - [Mild] “How'd you get the wine coolers? Oh, it's I just did some stuff for a guy in the parking lot.”
   - [Mild] “I'll have a triple cheeseburger and a large fries and Do you sell pants? Hey, Meg, what's with all the beer cans? My dad got a job at the brewery and he gets lots of free beer.”
 
-## S4 E13 — 13. Jungle Love
+## S4 E13 — Jungle Love
 URL: https://watchwiththekids.com/ep/family-guy/0413.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1482,7 +1482,7 @@ Watch for:
   - [Mild] “Especially when you provide the free beer.”
   - [Mild] “Yeah, like we could get her drunk and take turns having sex with her.”
 
-## S4 E14 — 14. Ptv
+## S4 E14 — Ptv
 URL: https://watchwiththekids.com/ep/family-guy/0414.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1512,7 +1512,7 @@ Watch for:
   - [Mild] “We'll spend the day crapping off things that others have dared us to crap off.”
   - [Mild] “Damn! And the motion carries.”
 
-## S4 E15 — 15. Brian Goes Back to College
+## S4 E15 — Brian Goes Back to College
 URL: https://watchwiththekids.com/ep/family-guy/0415.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1542,7 +1542,7 @@ Watch for:
   - [Mild] “Hey, what's up B-Ri? - Stewie, just give me a beer.”
   - [Mild] “Ah, Brian, I am glad you could come to my faculty cocktail party.”
 
-## S4 E16 — 16. The Courtship of Stewie's Father
+## S4 E16 — The Courtship of Stewie's Father
 URL: https://watchwiththekids.com/ep/family-guy/0416.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1559,7 +1559,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “That's good old-fashioned family racism.”
 
-## S4 E17 — 17. The Fat Guy Strangler
+## S4 E17 — The Fat Guy Strangler
 URL: https://watchwiththekids.com/ep/family-guy/0417.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1598,7 +1598,7 @@ Watch for:
   - [Caution] “Whore, slut, bitch.”
   - [Caution] “I'm gonna eat the whore out of you.”
 
-## S4 E18 — 18. The Father, The Son and the Holy Fonz
+## S4 E18 — The Father, The Son and the Holy Fonz
 URL: https://watchwiththekids.com/ep/family-guy/0418.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1636,7 +1636,7 @@ Watch for:
   - [Caution] “Your wife's a Protestant whore and your baby isn't even baptised! All right, Dad.”
   - [Caution] “And she's a whore.”
 
-## S4 E19 — 19. Brian Sings and Swings
+## S4 E19 — Brian Sings and Swings
 URL: https://watchwiththekids.com/ep/family-guy/0419.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1652,7 +1652,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Like the time Peter pretended to be racist to get out ofjury duty.”
 
-## S4 E20 — 20. Patriot Games
+## S4 E20 — Patriot Games
 URL: https://watchwiththekids.com/ep/family-guy/0420.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1671,7 +1671,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Peter, I know you're humiliated, but getting drunk is not the answer.”
 
-## S4 E21 — 21. I Take Thee, Quagmire
+## S4 E21 — I Take Thee, Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/0421.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1692,7 +1692,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “We brought you guys a bottle of wine.”
 
-## S4 E22 — 22. Sibling Rivalry
+## S4 E22 — Sibling Rivalry
 URL: https://watchwiththekids.com/ep/family-guy/0422.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1716,7 +1716,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Easy, easy, girl.”
 
-## S4 E23 — 23. Deep Throats
+## S4 E23 — Deep Throats
 URL: https://watchwiththekids.com/ep/family-guy/0423.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1746,7 +1746,7 @@ Watch for:
   - [Caution] “Well, that's a popular misconception, Mom and Dad, but the fact is, the chief ingredient in marijuana is THC, a mild form of acid, prolonged usage of which can cause adverse effects to your sexual potency…”
   - [Mild] “Oh, my God, Peter, I am so wasted.”
 
-## S4 E24 — 24. Peterotica
+## S4 E24 — Peterotica
 URL: https://watchwiththekids.com/ep/family-guy/0424.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1773,7 +1773,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “And even if they were, who cares? They're whores.”
 
-## S4 E25 — 25. You May Kiss The...Uh...Guy Who Receives
+## S4 E25 — You May Kiss The...Uh...Guy Who Receives
 URL: https://watchwiththekids.com/ep/family-guy/0425.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -1790,7 +1790,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Go smoke a fatty.”
 
-## S4 E26 — 26. Petergeist
+## S4 E26 — Petergeist
 URL: https://watchwiththekids.com/ep/family-guy/0426.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1809,7 +1809,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Yeah, I've heard they all look alike.”
 
-## S4 E27 — 27. Untitled Griffin Family History
+## S4 E27 — Untitled Griffin Family History
 URL: https://watchwiththekids.com/ep/family-guy/0427.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -1831,7 +1831,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hey, what do you say we all head over to the Buzenpuken, eh? Free beer on this motherfuhrer! Eh?! Come on! Well, that's pretty much all there is to tell, kids.”
 
-## S5 E1 — 1. Stewie Loves Lois
+## S5 E1 — Stewie Loves Lois
 URL: https://watchwiththekids.com/ep/family-guy/0501.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1856,7 +1856,7 @@ Watch for:
   - [Caution] “Who's that? Who are you? Where's Peter? Where is he? You're a whore.”
   - [Caution] “Wear your whore makeup, you whore.”
 
-## S5 E2 — 2. Mother Tucker
+## S5 E2 — Mother Tucker
 URL: https://watchwiththekids.com/ep/family-guy/0502.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1889,7 +1889,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “And now he's dead! They're both dead! I don't give a crap about Woodstock, but Snoopy Get off me, you skank! I can't believe you left Dad.”
 
-## S5 E3 — 3. Hell Comes to Quahog
+## S5 E3 — Hell Comes to Quahog
 URL: https://watchwiththekids.com/ep/family-guy/0503.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1918,7 +1918,7 @@ Watch for:
   - [Caution] “Meg, what happened? Fat Ass and his drunk friends left me at the roller rink.”
   - [Caution] “What are you waiting for? Dad, I'm sorry I have to say this, but you're a fat ass who's completely incapable of performing the simplest tasks.”
 
-## S5 E4 — 4. Saving Private Brian
+## S5 E4 — Saving Private Brian
 URL: https://watchwiththekids.com/ep/family-guy/0504.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1956,7 +1956,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Oh, way to stand up for your woman there, fatty.”
 
-## S5 E5 — 5. Whistle While Your Wife Works
+## S5 E5 — Whistle While Your Wife Works
 URL: https://watchwiththekids.com/ep/family-guy/0505.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -1986,7 +1986,7 @@ Watch for:
   - [Mild] “Oh, that sucks, man! I'm wide awake.”
   - [Mild] “Where the hell are those purchase orders? Yeah, it's this bum hand.”
 
-## S5 E6 — 6. Prick Up Your Ears
+## S5 E6 — Prick Up Your Ears
 URL: https://watchwiththekids.com/ep/family-guy/0506.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2017,7 +2017,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “All right, Tooth Whore, do your worst.”
 
-## S5 E7 — 7. Chick Cancer
+## S5 E7 — Chick Cancer
 URL: https://watchwiththekids.com/ep/family-guy/0507.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2051,7 +2051,7 @@ Watch for:
   - [Caution] “I don't want my neighbors seeing a fat, old, dirty whore screaming at me on my front lawn.”
   - [Caution] “"Whore"? - Well, maybe I should come inside.”
 
-## S5 E8 — 8. Barely Legal
+## S5 E8 — Barely Legal
 URL: https://watchwiththekids.com/ep/family-guy/0508.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2084,7 +2084,7 @@ Watch for:
   - [Caution] “She's a she's a skank.”
   - [Caution] “Get naked, you strange whore! Peter, I haven't seen Meg or Brian since last night.”
 
-## S5 E9 — 9. Road to Rupert
+## S5 E9 — Road to Rupert
 URL: https://watchwiththekids.com/ep/family-guy/0509.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2111,7 +2111,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Quit stealing my punch lines, you fat drunk.”
 
-## S5 E10 — 10. Peter's Two Dads
+## S5 E10 — Peter's Two Dads
 URL: https://watchwiththekids.com/ep/family-guy/0510.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2143,7 +2143,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I'm an adorable tramp who wears found clothing and eats out of your garbage can.”
 
-## S5 E11 — 11. The Tan Aquatic with Steve Zissou
+## S5 E11 — The Tan Aquatic with Steve Zissou
 URL: https://watchwiththekids.com/ep/family-guy/0511.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2172,7 +2172,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Well, if it isn't King Lard Ass.”
 
-## S5 E12 — 12. Airport '07
+## S5 E12 — Airport '07
 URL: https://watchwiththekids.com/ep/family-guy/0512.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2206,7 +2206,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “Yeah, and there's an annoying little homo screaming in my kitchen.”
 
-## S5 E13 — 13. Bill and Peter's Bogus Adventure
+## S5 E13 — Bill and Peter's Bogus Adventure
 URL: https://watchwiththekids.com/ep/family-guy/0513.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2238,7 +2238,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “We're a little overloaded 'cause I'm having a fat chick party back here.”
 
-## S5 E14 — 14. No Meals on Wheels
+## S5 E14 — No Meals on Wheels
 URL: https://watchwiththekids.com/ep/family-guy/0514.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -2253,7 +2253,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “It's water weight, you bastard! Get off me! I'm not your whore.”
 
-## S5 E15 — 15. Boys Do Cry
+## S5 E15 — Boys Do Cry
 URL: https://watchwiththekids.com/ep/family-guy/0515.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2272,7 +2272,7 @@ Watch for:
   - [Caution] “Ever since she started smoking pot, she just kind of lays there.”
   - [Mild] “What? - Nevermind Hey, you guys want to see something? Grab a beer and follow me.”
 
-## S5 E16 — 16. No Chris Left Behind
+## S5 E16 — No Chris Left Behind
 URL: https://watchwiththekids.com/ep/family-guy/0516.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -2282,7 +2282,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “Look, I'm sorry, I can't have you in here punching the meat.”
 
-## S5 E17 — 17. It Takes a Village Idiot, and I Married One
+## S5 E17 — It Takes a Village Idiot, and I Married One
 URL: https://watchwiththekids.com/ep/family-guy/0517.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2310,7 +2310,7 @@ Watch for:
   - [Too much] “I could do cocaine if I wanted to.”
   - [Mild] “Oh, I like him! He looks me in the eye! I'd like to have a beer with him.”
 
-## S5 E18 — 18. Meet the Quagmires
+## S5 E18 — Meet the Quagmires
 URL: https://watchwiththekids.com/ep/family-guy/0518.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2333,7 +2333,7 @@ Watch for:
   - [Mild] “Aw, crap! Death! No.”
   - [Mild] “Oh, damn it, Brian, what the hell am I gonna do now? I haven't screw up this bad since I bought Joe Piscopo that barbell set.”
 
-## S6 E1 — 1. Blue Harvest
+## S6 E1 — Blue Harvest
 URL: https://watchwiththekids.com/ep/family-guy/0601.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2359,7 +2359,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Suddenly I'm not so fat, huh? Come on, into the garbage chute.”
 
-## S6 E2 — 2. Movin' Out
+## S6 E2 — Movin' Out
 URL: https://watchwiththekids.com/ep/family-guy/0602.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2388,7 +2388,7 @@ Watch for:
   - [Mild] “Jillian, can you, uh, run and get me a beer from the kitchen? Oh, yeah, sure, no problem.”
   - [Mild] “Wow, h-have youseen Cocktail? - Uh, yeah, yeah.”
 
-## S6 E3 — 3. Believe It or Not, Joe's Walking on Air
+## S6 E3 — Believe It or Not, Joe's Walking on Air
 URL: https://watchwiththekids.com/ep/family-guy/0603.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2417,7 +2417,7 @@ Watch for:
   - [Caution] “Meg, what happened? Fat Ass and his drunk friends left me at the roller rink.”
   - [Caution] “What are you waiting for? Dad, I'm sorry I have to say this, but you're a fat ass who's completely incapable of performing the simplest tasks.”
 
-## S6 E4 — 4. Stewie Kills Lois (1)
+## S6 E4 — Stewie Kills Lois (1)
 URL: https://watchwiththekids.com/ep/family-guy/0604.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2453,7 +2453,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Oh, way to stand up for your woman there, fatty.”
 
-## S6 E5 — 5. Lois Kills Stewie (2)
+## S6 E5 — Lois Kills Stewie (2)
 URL: https://watchwiththekids.com/ep/family-guy/0605.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2482,7 +2482,7 @@ Watch for:
   - [Mild] “Oh, that sucks, man, I'm wide awake.”
   - [Mild] “Where the hell are those purchase orders? Eh, it's this bum hand.”
 
-## S6 E6 — 6. Padre de Familia
+## S6 E6 — Padre de Familia
 URL: https://watchwiththekids.com/ep/family-guy/0606.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2514,7 +2514,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “All right, Tooth Whore, do your worst.”
 
-## S6 E7 — 7. Peter's Daughter
+## S6 E7 — Peter's Daughter
 URL: https://watchwiththekids.com/ep/family-guy/0607.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2546,7 +2546,7 @@ Watch for:
   - [Caution] “I don't want my neighbors seeing a fat, old, dirty whore screaming at me on my front lawn.”
   - [Caution] “Whore? - Well, maybe I should come inside.”
 
-## S6 E8 — 8. McStroke
+## S6 E8 — McStroke
 URL: https://watchwiththekids.com/ep/family-guy/0608.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2567,7 +2567,7 @@ Watch for:
   - [Mild] “Lois! Bring me anotherbeer, please! Uh, Lois, you mind telling me what the hellyou think you're doing? I'm handing you a beer.”
   - [Mild] “This is my good arm! Bring the beer over here! That's better.”
 
-## S6 E9 — 9. Back to the Woods
+## S6 E9 — Back to the Woods
 URL: https://watchwiththekids.com/ep/family-guy/0609.html
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -2586,7 +2586,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I say, this is moreuncomfortable than having James Bradyat a cocktail party.”
 
-## S6 E10 — 10. Play it Again, Brian
+## S6 E10 — Play it Again, Brian
 URL: https://watchwiththekids.com/ep/family-guy/0610.html
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2618,7 +2618,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I'm an adorable tramp who wears found clothing and eats out of your garbage can.”
 
-## S6 E11 — 11. The Former Life of Brian
+## S6 E11 — The Former Life of Brian
 URL: https://watchwiththekids.com/ep/family-guy/0611.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2644,7 +2644,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I myself drank, like, five liters of beer.”
 
-## S6 E12 — 12. Long John Peter
+## S6 E12 — Long John Peter
 URL: https://watchwiththekids.com/ep/family-guy/0612.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2664,7 +2664,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I don't care who theyare, they stink! Get 'em out of here! They stink of good cheer, Lois! After we've had our fillof bread and wine, we shall tell talesof other times we had our fillof bread and wine.”
 
-## S7 E1 — 1. Love Blactually
+## S7 E1 — Love Blactually
 URL: https://watchwiththekids.com/ep/family-guy/0701.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2694,7 +2694,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I just wanna sit here, watch the ball game, have a few beers.”
 
-## S7 E2 — 2. I Dream of Jesus
+## S7 E2 — I Dream of Jesus
 URL: https://watchwiththekids.com/ep/family-guy/0702.html
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2717,7 +2717,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Last time I was down here on Earth, I only hung around with one whore.”
 
-## S7 E3 — 3. Road to Germany
+## S7 E3 — Road to Germany
 URL: https://watchwiththekids.com/ep/family-guy/0703.html
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2735,7 +2735,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Drunk again, I see.”
 
-## S7 E4 — 4. Baby Not on Board
+## S7 E4 — Baby Not on Board
 URL: https://watchwiththekids.com/ep/family-guy/0704.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2759,7 +2759,7 @@ Watch for:
   - [Caution] “I'm stuck behind some fat ass driving too slow.”
   - [Caution] “Some fat ass flipped me off.”
 
-## S7 E5 — 5. The Man with Two Brians
+## S7 E5 — The Man with Two Brians
 URL: https://watchwiththekids.com/ep/family-guy/0705.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -2787,7 +2787,7 @@ Watch for:
   - [Mild] “He's acting all crazy, like Quagmire when he drunk-dials me.”
   - [Mild] “Well, he's obviously drunk.”
 
-## S7 E6 — 6. Tales of a Third Grade Nothing
+## S7 E6 — Tales of a Third Grade Nothing
 URL: https://watchwiththekids.com/ep/family-guy/0706.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2809,7 +2809,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “…Take me out to pLace tonight Where a dude can pick a fight Over who takes home That smoking Chinese bar skank On the right There's a throng of trendy people And they're stretched Around the block And there's one…”
 
-## S7 E7 — 7. Ocean's Three and a Half
+## S7 E7 — Ocean's Three and a Half
 URL: https://watchwiththekids.com/ep/family-guy/0707.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2838,7 +2838,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] Just what I need: “To be rubbed down by big fatty, an old black guy, a cripple and a pervert.”
 
-## S7 E8 — 8. Family Gay
+## S7 E8 — Family Gay
 URL: https://watchwiththekids.com/ep/family-guy/0708.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2869,7 +2869,7 @@ Watch for:
   - [Caution] “I am so gay for you, Scott.”
   - [Caution] “I'm so gay for you, Peter.”
 
-## S7 E9 — 9. The Juice Is Loose!
+## S7 E9 — The Juice Is Loose!
 URL: https://watchwiththekids.com/ep/family-guy/0709.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2896,7 +2896,7 @@ Watch for:
   - [Mild] “So, Lois, you still pissed at me about Stewie being on the roof? - Yes, Peter, I am.”
   - [Mild] “Where's my screwdriver? Holy crap.”
 
-## S7 E10 — 10. FOX-y Lady
+## S7 E10 — FOX-y Lady
 URL: https://watchwiththekids.com/ep/family-guy/0710.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2924,7 +2924,7 @@ Watch for:
   - [Mild] “What's wrong with your picture? Well, see, I got drunk and then got my picture taken.”
   - [Mild] “So that way when I get pulled over for drunk driving, I look the same as on my license.”
 
-## S7 E11 — 11. Not All Dogs Go to Heaven
+## S7 E11 — Not All Dogs Go to Heaven
 URL: https://watchwiththekids.com/ep/family-guy/0711.html
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -2961,7 +2961,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “If there were a God, would he have put you here on Earth with a flat chest and a fat ass? - I'm made in his image.”
 
-## S7 E12 — 12. 420
+## S7 E12 — 420
 URL: https://watchwiththekids.com/ep/family-guy/0712.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -2995,7 +2995,7 @@ Watch for:
   - [Caution] “…said But try and use your heads and don't buy into all the fear Hey! Because all we need is a bag o' weed to make us want to cheer And one, two A bag o' weed, a bag o' weed Oh, everything is better with a bag o'…”
   - [Mild] “You know, Peter, it's sort of adding insult to injury raiding Quagmire's fridge for beer after you killed his cat.”
 
-## S7 E13 — 13. Stew-Roids
+## S7 E13 — Stew-Roids
 URL: https://watchwiththekids.com/ep/family-guy/0713.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3036,7 +3036,7 @@ Watch for:
   - [Caution] “Well, will you look at me? I have the power! He-Man We now return to Lady and the Tramp and Michael Vick.”
   - [Caution] “Hey, Chris, after school today, we're gonna go to the pizza place and make that single mother who works there feel like a slut.”
 
-## S7 E14 — 14. We Love You Conrad
+## S7 E14 — We Love You Conrad
 URL: https://watchwiththekids.com/ep/family-guy/0714.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3062,7 +3062,7 @@ Watch for:
   - [Mild] “Apparently, she gave that dog a bone and he gave it right back! Look, I was drunk out of my mind.”
   - [Mild] “So, Lauren, do you and Paris Hilton and Lindsay Lohan all hang out and go drunk-driving together? I heard that Lindsay Lohan wasn't driving that night.”
 
-## S7 E15 — 15. Three Kings
+## S7 E15 — Three Kings
 URL: https://watchwiththekids.com/ep/family-guy/0715.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3090,7 +3090,7 @@ Watch for:
   - [Mild] “Where the hell is that jack-off? There's, like, 1,200 bucks in that box.”
   - [Mild] “If he ran off with that, oh, I am gonna be so pissed.”
 
-## S7 E16 — 16. Peter's Progress
+## S7 E16 — Peter's Progress
 URL: https://watchwiththekids.com/ep/family-guy/0716.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3116,7 +3116,7 @@ Watch for:
   - [Mild] “Aw, crap! A splinter.”
   - [Mild] “Yes, I am, sir! I want you to turn this settlement upside down until you find Lady Redbush and Griffin Peterson! That fat bastard thinks he can steal my bride and get away with it?”
 
-## S8 E1 — 1. Road to the Multiverse
+## S8 E1 — Road to the Multiverse
 URL: https://watchwiththekids.com/ep/family-guy/0801.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3137,7 +3137,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “…that means I have cool parents who take me on expensive ski trips on spring break, and I get to drink wine with dinner even though I'm only 14 and Oh, my God!”
 
-## S8 E2 — 2. Family Goy
+## S8 E2 — Family Goy
 URL: https://watchwiththekids.com/ep/family-guy/0802.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3166,7 +3166,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “What? That whore! She's betrayed me worse than Lady Macbeth betrayed Duncan.”
 
-## S8 E3 — 3. Spies Reminiscent of Us
+## S8 E3 — Spies Reminiscent of Us
 URL: https://watchwiththekids.com/ep/family-guy/0803.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3184,7 +3184,7 @@ Watch for:
   - [Mild] “Here's your beer, honey.”
   - [Mild] “I don't remember asking for a warm beer.”
 
-## S8 E4 — 4. Brian's Got a Brand New Bag
+## S8 E4 — Brian's Got a Brand New Bag
 URL: https://watchwiththekids.com/ep/family-guy/0804.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3217,7 +3217,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Maybe far away Or maybe real nearby He may be pouring her coffee She may be straightening his tie Help! Somebody! These drunk redneck truckers are trying to have their way with me!”
 
-## S8 E5 — 5. Hannah Banana
+## S8 E5 — Hannah Banana
 URL: https://watchwiththekids.com/ep/family-guy/0805.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3247,7 +3247,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “Chris is gonna be so gay by the end of this.”
 
-## S8 E6 — 6. Quagmire's Baby
+## S8 E6 — Quagmire's Baby
 URL: https://watchwiththekids.com/ep/family-guy/0806.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3278,7 +3278,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Amazingly, this drunk driver turns left into oncoming traffic.”
 
-## S8 E7 — 7. Jerome Is the New Black
+## S8 E7 — Jerome Is the New Black
 URL: https://watchwiththekids.com/ep/family-guy/0807.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3306,7 +3306,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Their most bigoted songs.”
 
-## S8 E8 — 8. Dog Gone
+## S8 E8 — Dog Gone
 URL: https://watchwiththekids.com/ep/family-guy/0808.html
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3328,7 +3328,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Mild] “I'm one big, fat, ridiculous joke.”
 
-## S8 E9 — 9. Business Guy
+## S8 E9 — Business Guy
 URL: https://watchwiththekids.com/ep/family-guy/0809.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3357,7 +3357,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “I was blowing chinks like crazy.”
 
-## S8 E10 — 10. Big Man on Hippocampus
+## S8 E10 — Big Man on Hippocampus
 URL: https://watchwiththekids.com/ep/family-guy/0810.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3386,7 +3386,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Boy, you know, I don't know how a half a glass of wine got me so lightheaded.”
 
-## S8 E11 — 11. Dial Meg for Murder
+## S8 E11 — Dial Meg for Murder
 URL: https://watchwiththekids.com/ep/family-guy/0811.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3422,7 +3422,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Meg, you gonna take those soda cans to the Shaw-skank Redemption Center? Peter, Meg's been suspended from school.”
 
-## S8 E12 — 12. Extra Large Medium
+## S8 E12 — Extra Large Medium
 URL: https://watchwiththekids.com/ep/family-guy/0812.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3442,7 +3442,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “…because The only smell that she'll be smellin' Won't be coming from your bum You wanna take that little whore And spin her on the dancing floor But, boy, before you do a single twirl You must impress that…”
 
-## S8 E13 — 13. Go, Stewie, Go!
+## S8 E13 — Go, Stewie, Go!
 URL: https://watchwiththekids.com/ep/family-guy/0813.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3465,7 +3465,7 @@ Watch for:
   - [Mild] “Damn right, you don't.”
   - [Mild] “Me? What the hell did I do? - You've made me feel so unattractive that I went and did something disgusting and I'm ashamed of myself.”
 
-## S8 E14 — 14. Peter-assment
+## S8 E14 — Peter-assment
 URL: https://watchwiththekids.com/ep/family-guy/0814.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3507,7 +3507,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Do it! - Now get out of here, you slut.”
 
-## S8 E15 — 15. Brian Griffin's House of Payne
+## S8 E15 — Brian Griffin's House of Payne
 URL: https://watchwiththekids.com/ep/family-guy/0815.html
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3532,7 +3532,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “I just banged into some homo's Prius.”
 
-## S8 E16 — 16. April in Quahog
+## S8 E16 — April in Quahog
 URL: https://watchwiththekids.com/ep/family-guy/0816.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3570,7 +3570,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “See you, ching chong.”
 
-## S8 E17 — 17. Brian & Stewie
+## S8 E17 — Brian & Stewie
 URL: https://watchwiththekids.com/ep/family-guy/0817.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3605,7 +3605,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “You look like a fag.”
 
-## S8 E18 — 18. Quagmire's Dad
+## S8 E18 — Quagmire's Dad
 URL: https://watchwiththekids.com/ep/family-guy/0818.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3632,7 +3632,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Caution] “We should all be so gay.”
 
-## S8 E19 — 19. The Splendid Source
+## S8 E19 — The Splendid Source
 URL: https://watchwiththekids.com/ep/family-guy/0819.html
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3664,7 +3664,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Permission to go to the bride-is-a-whore file.”
 
-## S8 E20 — 20. Something, Something, Something, Dark Side
+## S8 E20 — Something, Something, Something, Dark Side
 URL: https://watchwiththekids.com/ep/family-guy/0820.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3695,12 +3695,12 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Last time I was in a dago bar I was drinking a beer in Little Italy.”
 
-## S8 E21 — 21. Partial Terms of Endearment
+## S8 E21 — Partial Terms of Endearment
 URL: https://watchwiththekids.com/ep/family-guy/0821.html
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 14+)
 Watch for: nothing flagged.
 
-## S9 E1 — 1. And Then There Were Fewer
+## S9 E1 — And Then There Were Fewer
 URL: https://watchwiththekids.com/ep/family-guy/0901.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3743,7 +3743,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “Um Oh, that's Dick Van Dyke.”
 
-## S9 E2 — 2. Excellence in Broadcasting
+## S9 E2 — Excellence in Broadcasting
 URL: https://watchwiththekids.com/ep/family-guy/0902.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3773,7 +3773,7 @@ Watch for:
   - [Mild] “Cocktail? Actually, not a bad film.”
   - [Mild] “You know, as classically structured cinema Cocktail's one of the best of its era.”
 
-## S9 E3 — 3. Welcome Back, Carter
+## S9 E3 — Welcome Back, Carter
 URL: https://watchwiththekids.com/ep/family-guy/0903.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3809,7 +3809,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Excuse me? - What the hell is your problem, you jerk? - What? Does he belong to somebody else? Come on, girls, let's ditch this racist dick.”
 
-## S9 E4 — 4. Halloween on Spooner Street
+## S9 E4 — Halloween on Spooner Street
 URL: https://watchwiththekids.com/ep/family-guy/0904.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3849,7 +3849,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “The whore gets her stubby fingers -He puts cigars in his mouth -in my wallet! Larceny! -and he becomes a different person! No freakin' way.”
 
-## S9 E5 — 5. Baby, You Knock Me Out
+## S9 E5 — Baby, You Knock Me Out
 URL: https://watchwiththekids.com/ep/family-guy/0905.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3877,7 +3877,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I'm just out here for fun Yeah, punch each other, you whores! Okay, you Iittle bitch, that's it! You want to fuck with me? Let's go! No matter what you do for the rest of your Iife, you'II always be garbage.”
 
-## S9 E6 — 6. Brian Writes a Bestseller
+## S9 E6 — Brian Writes a Bestseller
 URL: https://watchwiththekids.com/ep/family-guy/0906.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3898,7 +3898,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Stewie, that's racist.”
 
-## S9 E7 — 7. Road to the North Pole
+## S9 E7 — Road to the North Pole
 URL: https://watchwiththekids.com/ep/family-guy/0907.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -3935,7 +3935,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “And I want a pet animal that's half-chinchilla and half-mink, 'cause it'd be really soft, and I could call it chink, and that's okay.”
 
-## S9 E8 — 8. New Kidney in Town
+## S9 E8 — New Kidney in Town
 URL: https://watchwiththekids.com/ep/family-guy/0908.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -3954,7 +3954,7 @@ Watch for:
   - [Mild] “I am so sick of this crap mucking up my Iife.”
   - [Mild] “Stewie, what the hell? Are you out of your mind? I most certainly am not! I know what you're planning to do, and I won't allow it! You're not going to kill yourself for that fat bastard!”
 
-## S9 E9 — 9. And I'm Joyce Kinney
+## S9 E9 — And I'm Joyce Kinney
 URL: https://watchwiththekids.com/ep/family-guy/0909.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -3991,7 +3991,7 @@ Watch for:
   - [Caution] “Your mom's in a porno! I saw her boobs! -Shut up! -Hey, Griffin, your mom's a whore! Come on, guys, knock it off! Yeah, Griffin, your mom's gross and nasty! -Hey! -Not cool! That's a dude's mom! Well, she's also my mom.”
   - [Caution] “Your mom's a whore! -Yeah! Suck it! -You're a whore-daughter! -Yeah, Griffin gets it! Boy, I'm really Iooking forward to this.”
 
-## S9 E10 — 10. Friends of Peter G
+## S9 E10 — Friends of Peter G
 URL: https://watchwiththekids.com/ep/family-guy/0910.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4023,7 +4023,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Is it? Hey, hey, fatty, wake up.”
 
-## S9 E11 — 11. German Guy
+## S9 E11 — German Guy
 URL: https://watchwiththekids.com/ep/family-guy/0911.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4045,7 +4045,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Remember, kids, she's not a whore if she's an actress.”
 
-## S9 E12 — 12. The Hand That Rocks the Wheelchair
+## S9 E12 — The Hand That Rocks the Wheelchair
 URL: https://watchwiththekids.com/ep/family-guy/0912.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4070,7 +4070,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “Ma'am, is this your bag? I don't know how that cocaine got in there.”
 
-## S9 E13 — 13. Trading Places
+## S9 E13 — Trading Places
 URL: https://watchwiththekids.com/ep/family-guy/0913.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4100,7 +4100,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Hey, fat ass, you Iike You Iike this bus bench? I It's okay.”
 
-## S9 E14 — 14. Tiegs for Two
+## S9 E14 — Tiegs for Two
 URL: https://watchwiththekids.com/ep/family-guy/0914.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4130,7 +4130,7 @@ Watch for:
   - [Caution] “Hey, who was that fat chick sneaking out of here this morning? Oh, that was someone I met from class.”
   - [Caution] “Hey, Cheryl, get your fat ass over here before I dump you.”
 
-## S9 E15 — 15. Brothers & Sisters
+## S9 E15 — Brothers & Sisters
 URL: https://watchwiththekids.com/ep/family-guy/0915.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4154,7 +4154,7 @@ Watch for:
   - [Caution] “Aunt Carol, Mom says you'd make a great FIorida whore.”
   - [Caution] “You know, I always thought I'd be a good FIorida whore.”
 
-## S9 E16 — 16. The Big Bang Theory
+## S9 E16 — The Big Bang Theory
 URL: https://watchwiththekids.com/ep/family-guy/0916.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4175,7 +4175,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Hey, slut, get me out of this.”
 
-## S9 E17 — 17. Foreign Affairs
+## S9 E17 — Foreign Affairs
 URL: https://watchwiththekids.com/ep/family-guy/0917.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4196,7 +4196,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “And could you bring me a beer? Oh! I feel so elegant.”
 
-## S9 E18 — 18. It's a Trap!
+## S9 E18 — It's a Trap!
 URL: https://watchwiththekids.com/ep/family-guy/0918.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4223,7 +4223,7 @@ Watch for:
   - [Mild] “And here's something that's gonna piss you off even more.”
   - [Mild] “Bang, bang, boom, boom! Bang, bang, boom, boom? Damn, that thing's operational! Look at that! Blowing up rebel ships! Bet that gets you going.”
 
-## S10 E1 — 1. Lottery Fever
+## S10 E1 — Lottery Fever
 URL: https://watchwiththekids.com/ep/family-guy/1001.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4251,7 +4251,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Look at yourself, you filthy whore.”
 
-## S10 E2 — 2. Seahorse Seashell Party (2)
+## S10 E2 — Seahorse Seashell Party (2)
 URL: https://watchwiththekids.com/ep/family-guy/1002.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4279,7 +4279,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Is this coming from my role model mother? The shoplifter, the drug addict, the porn star, the whore who let Gene Simmons and Bill Clinton go to town on her? Oh, so what? All those things are behind me now.”
 
-## S10 E3 — 3. Screams of Silence: The Story of Brenda Q
+## S10 E3 — Screams of Silence: The Story of Brenda Q
 URL: https://watchwiththekids.com/ep/family-guy/1003.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4315,7 +4315,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Shut up and limp! We're in a handicapped spot, you slut! Well, Miss Quagmire, your brother Glenn is lucky to be alive.”
 
-## S10 E4 — 4. Stewie Goes for a Drive
+## S10 E4 — Stewie Goes for a Drive
 URL: https://watchwiththekids.com/ep/family-guy/1004.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4336,7 +4336,7 @@ Watch for:
   - [Caution] “Doing it with the lights on now, whore? Don't mind looking at his body? I love you so much, though.”
   - [Caution] “I want to thank you Dirty whores, all of you.”
 
-## S10 E5 — 5. Back to the Pilot
+## S10 E5 — Back to the Pilot
 URL: https://watchwiththekids.com/ep/family-guy/1005.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4354,7 +4354,7 @@ Watch for:
   - [Mild] “Hey, who wants to play "Drink the Beer"? Right here.”
   - [Mild] “You win! - All right! - What do I win? - Another beer! Okay, take a last look, 'cause we're out of here.”
 
-## S10 E6 — 6. Thanksgiving
+## S10 E6 — Thanksgiving
 URL: https://watchwiththekids.com/ep/family-guy/1006.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4373,7 +4373,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Nice try, skank.”
 
-## S10 E7 — 7. Amish Guy
+## S10 E7 — Amish Guy
 URL: https://watchwiththekids.com/ep/family-guy/1007.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4392,7 +4392,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Introducing rock 'n' roll! Whoo! I'm on a highway to hell! Highway to hell! I'm on the high You are banished from our community at once! And take your whore daughter with you! How did it go, Dad? Very well, Meg.”
 
-## S10 E8 — 8. Cool Hand Peter
+## S10 E8 — Cool Hand Peter
 URL: https://watchwiththekids.com/ep/family-guy/1008.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4414,7 +4414,7 @@ Watch for:
   - [Mild] “We will drive after a couple of beers and not make a big federal case about it.”
   - [Mild] “What do we got in this thing? Oh, come on! You planted that there! We had drugs? Oh, my God, why am I driving drunk when I could've been driving high? You boys are in a lot of trouble.”
 
-## S10 E9 — 9. Grumpy Old Man
+## S10 E9 — Grumpy Old Man
 URL: https://watchwiththekids.com/ep/family-guy/1009.html
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -4443,7 +4443,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Aw, that sounds like the sad little fat girl who lives in all of us and is struggling to get out.”
 
-## S10 E10 — 10. Quagmire & Meg
+## S10 E10 — Quagmire & Meg
 URL: https://watchwiththekids.com/ep/family-guy/1010.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4471,7 +4471,7 @@ Watch for:
   - [Caution] “Look at Quagmire hitting on that skank.”
   - [Caution] “Peter, that skank is your daughter.”
 
-## S10 E11 — 11. The Blind Side
+## S10 E11 — The Blind Side
 URL: https://watchwiththekids.com/ep/family-guy/1011.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4501,7 +4501,7 @@ Watch for:
   - [Mild] “Coming! Damn it! Oh, my God, Peter.”
   - [Mild] “This is stressing the crap out of me.”
 
-## S10 E12 — 12. Livin' on a Prayer
+## S10 E12 — Livin' on a Prayer
 URL: https://watchwiththekids.com/ep/family-guy/1012.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4521,7 +4521,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You know, Lois, this couch would be perfect for one of your red wine pass-outs.”
 
-## S10 E13 — 13. Tom Tucker: The Man and His Dream
+## S10 E13 — Tom Tucker: The Man and His Dream
 URL: https://watchwiththekids.com/ep/family-guy/1013.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4539,7 +4539,7 @@ Watch for:
   - [Mild] “What the hell is going on here? Is it is itAm I having a stroke? Wait, Peter! Don't go! So, you changed your mind, huh, buddy? We going to Hollywood? You betcha.”
   - [Mild] “But you put me and my family through a lot of crap over the years.”
 
-## S10 E14 — 14. Be Careful What You Fish For
+## S10 E14 — Be Careful What You Fish For
 URL: https://watchwiththekids.com/ep/family-guy/1014.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4556,7 +4556,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Things ain't so good in America right now, which is why we're all so fat.”
 
-## S10 E15 — 15. Burning Down the Bayit
+## S10 E15 — Burning Down the Bayit
 URL: https://watchwiththekids.com/ep/family-guy/1015.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4578,7 +4578,7 @@ Watch for:
   - [Mild] “You're damn right it was.”
   - [Mild] “Oh, my God, he's so pissed, he's calling.”
 
-## S10 E16 — 16. Killer Queen
+## S10 E16 — Killer Queen
 URL: https://watchwiththekids.com/ep/family-guy/1016.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4614,7 +4614,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “In fact, I once caught him trying to pick up a quack whore.”
 
-## S10 E17 — 17. Forget-Me-Not
+## S10 E17 — Forget-Me-Not
 URL: https://watchwiththekids.com/ep/family-guy/1017.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4632,7 +4632,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “Well, Peter isn't here, is he?! Because you were supposed to be watching him, but you were smoking marijuana and he drowned! What? No, he's at a PTA meeting.”
 
-## S10 E18 — 18. You Can't Do That on Television, Peter
+## S10 E18 — You Can't Do That on Television, Peter
 URL: https://watchwiththekids.com/ep/family-guy/1018.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4651,7 +4651,7 @@ Watch for:
   - [Mild] “Peter, what the hell are you doing? Being a good dad like you asked.”
   - [Mild] “Hey, hey, hey, what the hell is all the commotion in here? We're not doing anything.”
 
-## S10 E19 — 19. Mr. and Mrs. Stewie
+## S10 E19 — Mr. and Mrs. Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1019.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4674,7 +4674,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “What the hell were you doing talking to him? You know who I think is an ugly slut? Miss Sharon.”
 
-## S10 E20 — 20. Leggo My Meg-O
+## S10 E20 — Leggo My Meg-O
 URL: https://watchwiththekids.com/ep/family-guy/1020.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4691,7 +4691,7 @@ Watch for:
   - [Mild] “See? Aw, crap, they're taking her onto that yacht.”
   - [Mild] “That's for shooting one of our guys! We got you! In your face! Our boat! Our boat! This boat! Let me go, you fat bastard! I will never be your sex slave! You misunderstand.”
 
-## S10 E21 — 21. Tea Peter
+## S10 E21 — Tea Peter
 URL: https://watchwiththekids.com/ep/family-guy/1021.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4711,7 +4711,7 @@ Watch for:
   - [Mild] “Damn it, this is what I was afraid was going to happen.”
   - [Mild] “Some of our representatives may end up being bastards.”
 
-## S10 E22 — 22. Family Guy Viewer Mail (2)
+## S10 E22 — Family Guy Viewer Mail (2)
 URL: https://watchwiththekids.com/ep/family-guy/1022.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4743,7 +4743,7 @@ Watch for:
   - [Caution] “What a two-bit Wichita whore.”
   - [Caution] “I'm swimming at night 'cause I'm a slut and now I'm paying the price for it.”
 
-## S10 E23 — 23. Internal Affairs
+## S10 E23 — Internal Affairs
 URL: https://watchwiththekids.com/ep/family-guy/1023.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4778,7 +4778,7 @@ Watch for:
   - [Too much] “A major drug bust in Quahog today as police seized over 100 kilos of cocaine.”
   - [Too much] “Apparently, there were 100 kilos of cocaine right here in Quahog, and yet my guy can't get dick.”
 
-## S11 E1 — 1. Into Fat Air
+## S11 E1 — Into Fat Air
 URL: https://watchwiththekids.com/ep/family-guy/1101.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4798,7 +4798,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Seems kind of racist, doesn't it? No, no, 'cause, 'cause Sammy's in on it.”
 
-## S11 E2 — 2. Ratings Guy
+## S11 E2 — Ratings Guy
 URL: https://watchwiththekids.com/ep/family-guy/1102.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4824,7 +4824,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Let me buy you a beer.”
 
-## S11 E3 — 3. The Old Man & the Big 'C'
+## S11 E3 — The Old Man & the Big 'C'
 URL: https://watchwiththekids.com/ep/family-guy/1103.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4856,7 +4856,7 @@ Watch for:
   - [Mild] “You want a beer? Ehh, I don't think so.”
   - [Mild] “Boy, nothing like a beer with the fellas, eh? Peter, would you mind putting on some shoes? Oh, you mean foot prisons? Yes, I would.”
 
-## S11 E4 — 4. Yug Ylimaf
+## S11 E4 — Yug Ylimaf
 URL: https://watchwiththekids.com/ep/family-guy/1104.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4885,7 +4885,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You bastard! You've been using my time machine to nail your bar skanks! Oh, come on, they're not all bad.”
 
-## S11 E5 — 5. Joe's Revenge
+## S11 E5 — Joe's Revenge
 URL: https://watchwiththekids.com/ep/family-guy/1105.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4919,7 +4919,7 @@ Watch for:
   - [Too much] “Bobby Briggs, you're really good at heroin.”
   - [Mild] “She here tonight? Yeah, she's working the Champagne Room.”
 
-## S11 E6 — 6. Lois Comes Out of Her Shell
+## S11 E6 — Lois Comes Out of Her Shell
 URL: https://watchwiththekids.com/ep/family-guy/1106.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -4947,7 +4947,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “What the hell? Hey, sluts! OMG, stop staring at me, please-'kay-thanks.”
 
-## S11 E7 — 7. Friends Without Benefits
+## S11 E7 — Friends Without Benefits
 URL: https://watchwiththekids.com/ep/family-guy/1107.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -4971,7 +4971,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You're a whore, Sheila, and I'm gonna make sure everybody knows it! Here! I can't read.”
 
-## S11 E8 — 8. Jesus, Mary & Joseph
+## S11 E8 — Jesus, Mary & Joseph
 URL: https://watchwiththekids.com/ep/family-guy/1108.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5000,7 +5000,7 @@ Watch for:
   - [Caution] “Yeah, I know that girl-- that's Donna Magdalene, and her sister's a bigger slut than she is.”
   - [Caution] “…gotta help us! You're lucky it's Christmas or I'd call the cops on you dirty grifters! Now you and your whore wife get out of here!”
 
-## S11 E9 — 9. Space Cadet
+## S11 E9 — Space Cadet
 URL: https://watchwiththekids.com/ep/family-guy/1109.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5022,7 +5022,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Hello? Hey, is fat ass home yet? Put him on, I want to talk to him.”
 
-## S11 E10 — 10. Brian's Play
+## S11 E10 — Brian's Play
 URL: https://watchwiththekids.com/ep/family-guy/1110.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -5037,7 +5037,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “We both know those are the ingredients used to make crystal meth.”
 
-## S11 E11 — 11. The Giggity Wife
+## S11 E11 — The Giggity Wife
 URL: https://watchwiththekids.com/ep/family-guy/1111.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -5072,7 +5072,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You heard her, the crazy skank wants to be a wife.”
 
-## S11 E12 — 12. Valentine's Day in Quahog
+## S11 E12 — Valentine's Day in Quahog
 URL: https://watchwiththekids.com/ep/family-guy/1112.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5104,7 +5104,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Yeah, you slut.”
 
-## S11 E13 — 13. Chris Cross
+## S11 E13 — Chris Cross
 URL: https://watchwiththekids.com/ep/family-guy/1113.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5123,7 +5123,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'll pour some wine, rub in some feces, and, to top it off, some mustard mixed with feces.”
 
-## S11 E14 — 14. Call Girl
+## S11 E14 — Call Girl
 URL: https://watchwiththekids.com/ep/family-guy/1114.html
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -5150,7 +5150,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You must be a phone whore.”
 
-## S11 E15 — 15. Turban Cowboy
+## S11 E15 — Turban Cowboy
 URL: https://watchwiththekids.com/ep/family-guy/1115.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5165,7 +5165,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “What? What are you talking about? This is your post-9/11 racism talking.”
 
-## S11 E16 — 16. 12 and a Half Angry Men
+## S11 E16 — 12 and a Half Angry Men
 URL: https://watchwiththekids.com/ep/family-guy/1116.html
 Scores: violence 3/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -5199,7 +5199,7 @@ Watch for:
   - [Mild] “Do you guys mind if I struggle to open these blinds? Damn it, come on, stay up there.”
   - [Mild] “I mean, doesn't that mean anything? No, not to West, that ungrateful bastard.”
 
-## S11 E17 — 17. Bigfat
+## S11 E17 — Bigfat
 URL: https://watchwiththekids.com/ep/family-guy/1117.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5215,7 +5215,7 @@ Watch for:
   - [Too much] “What is the atomic weight of nitrogen? Get him, guys! Stab him in the butt! Okay, bye, you guys.”
   - [Too much] “Honey, don't you think it's weird that our three-year-old son is murdering animals? Nonsense.”
 
-## S11 E18 — 18. Total Recall
+## S11 E18 — Total Recall
 URL: https://watchwiththekids.com/ep/family-guy/1118.html
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -5253,7 +5253,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “My white blood cells attacked the pathogens and created antibodies, and then the pathogens were filtered out by my kidneys into my urine and then expelled from my body, you slut.”
 
-## S11 E19 — 19. Save the Clam
+## S11 E19 — Save the Clam
 URL: https://watchwiththekids.com/ep/family-guy/1119.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5282,7 +5282,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Uh, yes, I'd like to mail this to a whore.”
 
-## S11 E20 — 20. Farmer Guy
+## S11 E20 — Farmer Guy
 URL: https://watchwiththekids.com/ep/family-guy/1120.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5304,7 +5304,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You sick whore.”
 
-## S11 E21 — 21. Road to Vegas
+## S11 E21 — Road to Vegas
 URL: https://watchwiththekids.com/ep/family-guy/1121.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5330,7 +5330,7 @@ Watch for:
   - [Caution] “I see-- is there a less heavy person that could check again for me? I'm sorry, we're all booked up because the Slut Convention's in town.”
   - [Caution] “Slut Convention? Yeah.”
 
-## S11 E22 — 22. No Country Club for Old Men
+## S11 E22 — No Country Club for Old Men
 URL: https://watchwiththekids.com/ep/family-guy/1122.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5353,7 +5353,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I got a big-ass coat, chair to sit in, chalice cup of wine and a midget, but I ain't going out there with all them monsters out there! Daddy, what happened to you? I can't live without the country club.”
 
-## S12 E1 — 1. Finders Keepers
+## S12 E1 — Finders Keepers
 URL: https://watchwiththekids.com/ep/family-guy/1201.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5387,7 +5387,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “That's right, Tom, and I sincerely hope that the caption beneath me doesn't say "Local Fatty.”
 
-## S12 E2 — 2. Vestigial Peter
+## S12 E2 — Vestigial Peter
 URL: https://watchwiththekids.com/ep/family-guy/1202.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5407,7 +5407,7 @@ Watch for:
   - [Mild] “What the hell happened here? Look out! (muffled speaking) He wants to know who you are.”
   - [Mild] “What the hell? Why won't this button? It's the same size I always get.”
 
-## S12 E3 — 3. Quagmire's Quagmire
+## S12 E3 — Quagmire's Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/1203.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5439,7 +5439,7 @@ Watch for:
   - [Mild] “And-and I'm drunk, so I'll give you my keys.”
   - [Mild] “You been drinking tonight, sir? Uh, no, Officer, I just had a glass of dinner with my wine.”
 
-## S12 E4 — 4. A Fistful of Meg
+## S12 E4 — A Fistful of Meg
 URL: https://watchwiththekids.com/ep/family-guy/1204.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -5473,7 +5473,7 @@ Watch for:
   - [Mild] “Don't you remember how much money your father wasted so he could make grand staircase entrances? Hey, is Peter here? Hang on.”
   - [Mild] “You got time for a beer? I don't know.”
 
-## S12 E5 — 5. Boopa-dee Bappa-dee
+## S12 E5 — Boopa-dee Bappa-dee
 URL: https://watchwiththekids.com/ep/family-guy/1205.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5494,7 +5494,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Is it true there's no drinking age here? And they serve wine at every meal? Oh, Meg, nobody likes a drunky-chunky.”
 
-## S12 E6 — 6. Life of Brian
+## S12 E6 — Life of Brian
 URL: https://watchwiththekids.com/ep/family-guy/1206.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5518,7 +5518,7 @@ Watch for:
   - [Mild] “All right, so, I guess we'll split the bill 13 ways? Hey, Judas, he ordered, like, five margaritas.”
   - [Mild] “You want another beer? No.”
 
-## S12 E7 — 7. Into Harmony's Way
+## S12 E7 — Into Harmony's Way
 URL: https://watchwiththekids.com/ep/family-guy/1207.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5542,7 +5542,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “All right, backstage whore, here's the key to my hotel room.”
 
-## S12 E8 — 8. Christmas Guy
+## S12 E8 — Christmas Guy
 URL: https://watchwiththekids.com/ep/family-guy/1208.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5568,7 +5568,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Your beloved holiday movie is incredibly racist.”
 
-## S12 E9 — 9. Peter Problems
+## S12 E9 — Peter Problems
 URL: https://watchwiththekids.com/ep/family-guy/1209.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -5594,7 +5594,7 @@ Watch for:
   - [Mild] “I've only had, like, four beers this morning.”
   - [Mild] “Then that means And that also means You know what, Peter? You tried hard, and you still earned that wine.”
 
-## S12 E10 — 10. Grimm Job
+## S12 E10 — Grimm Job
 URL: https://watchwiththekids.com/ep/family-guy/1210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5622,7 +5622,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “About what? Well, she was my ex-girlfriend, and I believed I was due an explanation about why she was such a whore.”
 
-## S12 E11 — 11. Brian's a Bad Father
+## S12 E11 — Brian's a Bad Father
 URL: https://watchwiththekids.com/ep/family-guy/1211.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5654,7 +5654,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “Lois, why did you buy this?! It was on sale! A writer who inherits a magic typewriter that writes for him, but then it turns out the typewriter is racist? Totally makes sense.”
 
-## S12 E12 — 12. Mom's the Word
+## S12 E12 — Mom's the Word
 URL: https://watchwiththekids.com/ep/family-guy/1212.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5671,7 +5671,7 @@ Watch for:
   - [Mild] “Yeah, I just remembered, I gotta get the hell out of here.”
   - [Mild] “Oh, damn, I wanted to die, not turn into Toaster Man.”
 
-## S12 E13 — 13. 3 Acts of God
+## S12 E13 — 3 Acts of God
 URL: https://watchwiththekids.com/ep/family-guy/1213.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5697,7 +5697,7 @@ Watch for:
   - [Mild] “Uh, yes, telegram for hungover.”
   - [Mild] “…tips at each meal, right? Look, look, God, why why you got to hurt Patriots fans? These are good, drunk people who work hard to get absolutely nowhere in life.”
 
-## S12 E14 — 14. Fresh Heir
+## S12 E14 — Fresh Heir
 URL: https://watchwiththekids.com/ep/family-guy/1214.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -5715,7 +5715,7 @@ Watch for:
   - [Caution] “You don't want to jump the gun.”
   - [Mild] “Last time I was at Grandpa's, I beat him at checkers and he punched one of my hogans.”
 
-## S12 E15 — 15. Secondhand Spoke
+## S12 E15 — Secondhand Spoke
 URL: https://watchwiththekids.com/ep/family-guy/1215.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5734,7 +5734,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Hey, fat ass.”
 
-## S12 E16 — 16. Herpe the Love Sore
+## S12 E16 — Herpe the Love Sore
 URL: https://watchwiththekids.com/ep/family-guy/1216.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5767,7 +5767,7 @@ Watch for:
   - [Caution] “You're a gross slut.”
   - [Caution] “You know, my uncle was in the Army, and he got genital boppo from a Saigon whore Shut up! Just shut up! You should be ashamed of yourself.”
 
-## S12 E17 — 17. The Most Interesting Man in the World
+## S12 E17 — The Most Interesting Man in the World
 URL: https://watchwiththekids.com/ep/family-guy/1217.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5794,7 +5794,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “Homo erectus.”
 
-## S12 E18 — 18. Baby Got Black
+## S12 E18 — Baby Got Black
 URL: https://watchwiththekids.com/ep/family-guy/1218.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5829,7 +5829,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Now, do you prefer "Fatty" or "Miss Boom-Bi-Latty?" So, you don't mind that Pam is black? Chris, it's 1998.”
 
-## S12 E19 — 19. Meg Stinks!
+## S12 E19 — Meg Stinks!
 URL: https://watchwiththekids.com/ep/family-guy/1219.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5858,7 +5858,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm Drunky! The Dakota University mascot! Look how drunk I am! This is important for sports! Oh, look, you can go to Oral Roberts.”
 
-## S12 E20 — 20. He's Bla-ack!
+## S12 E20 — He's Bla-ack!
 URL: https://watchwiththekids.com/ep/family-guy/1220.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5890,7 +5890,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “That sounds even more racist than it is.”
 
-## S12 E21 — 21. Chap Stewie
+## S12 E21 — Chap Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1221.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5918,7 +5918,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Oh, my God, he had a public access show? Live from the shores of Rhode Island, it's the fatty who drives you batty! Peter Griffin! Hey, hey, hey, douche bags! We got a great show for you tonight.”
 
-## S13 E1 — 1. The Simpsons Guy
+## S13 E1 — The Simpsons Guy
 URL: https://watchwiththekids.com/ep/family-guy/1301.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5953,7 +5953,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Love is like a bomb, baby, come on, get it on Livin' like a lover with a radar phone Lookin' like a tramp, like a video vamp Demolition woman, can I be your man?”
 
-## S13 E2 — 2. The Book of Joe
+## S13 E2 — The Book of Joe
 URL: https://watchwiththekids.com/ep/family-guy/1302.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -5983,7 +5983,7 @@ Watch for:
   - [Mild] “Scotty, we need more speed! I'm giving her all she's got, Captain! She can't take any more! Damn.”
   - [Mild] “And how 'bout he got a frog friend that's got some sort of catchphrase? Like, if he's seeing something kooky, he could be like, "Damn, that's cray-cray in a good way, right there!" Wow.”
 
-## S13 E3 — 3. Baking Bad
+## S13 E3 — Baking Bad
 URL: https://watchwiththekids.com/ep/family-guy/1303.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6011,7 +6011,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Stewie, you're drunk.”
 
-## S13 E4 — 4. Brian the Closer
+## S13 E4 — Brian the Closer
 URL: https://watchwiththekids.com/ep/family-guy/1304.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6035,7 +6035,7 @@ Watch for:
   - [Mild] “You know what? Go to hell, Peter! Wow, this is the craziest meal I've had since I had lunch at Tommy Sullivan's house.”
   - [Mild] “Well, we got this crap condo down by the marina.”
 
-## S13 E5 — 5. Turkey Guys
+## S13 E5 — Turkey Guys
 URL: https://watchwiththekids.com/ep/family-guy/1305.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6056,7 +6056,7 @@ Watch for:
   - [Mild] “Damn it, how could you guys do that?! Boy, I must have been really drunk.”
   - [Mild] “Uh, Mom! Daddy! You're right on time! Happy Thanksgiving, dear! We brought some wine, but it's good wine so it's just or us.”
 
-## S13 E6 — 6. The 2000-Year-Old Virgin
+## S13 E6 — The 2000-Year-Old Virgin
 URL: https://watchwiththekids.com/ep/family-guy/1306.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6097,7 +6097,7 @@ Watch for:
   - [Caution] “Just some random slut to maul in a bar back where the payphones used to be.”
   - [Caution] “Aw, crap! I just pulled a thousand muscles! Ow! That was a loud crack! Ah, yeah, that was all bone! Oh! Aw! Son of a whore! Oh, this is bad.”
 
-## S13 E7 — 7. Stewie, Chris & Brian's Excellent Adventure
+## S13 E7 — Stewie, Chris & Brian's Excellent Adventure
 URL: https://watchwiththekids.com/ep/family-guy/1307.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6123,7 +6123,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “And who are we? I don't know, you're just two sluts with me.”
 
-## S13 E8 — 8. Our Idiot Brian
+## S13 E8 — Our Idiot Brian
 URL: https://watchwiththekids.com/ep/family-guy/1308.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6143,7 +6143,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Here, you want a beer? Peter, it's 11:00 a.”
 
-## S13 E9 — 9. This Little Piggy
+## S13 E9 — This Little Piggy
 URL: https://watchwiththekids.com/ep/family-guy/1309.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -6171,7 +6171,7 @@ Watch for:
   - [Too much] “And cocaine.”
   - [Mild] “And as for you, Tin Man, a 19-year-old kid in Cincinnati was struck by a drunk driver last night.”
 
-## S13 E10 — 10. Quagmire's Mom
+## S13 E10 — Quagmire's Mom
 URL: https://watchwiththekids.com/ep/family-guy/1310.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6195,7 +6195,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “That "little bastard" knows how to smoke pot out of an apple.”
 
-## S13 E11 — 11. Encyclopedia Griffin
+## S13 E11 — Encyclopedia Griffin
 URL: https://watchwiththekids.com/ep/family-guy/1311.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6219,7 +6219,7 @@ Watch for:
   - [Mild] “I'll just have four to five beers to stop the shaking, and then I'll go outside.”
   - [Mild] “Will you hold this beer bottle while I try to kick the top off it? Ow! Damn it! You moved it.”
 
-## S13 E12 — 12. Stewie Is Enceinte
+## S13 E12 — Stewie Is Enceinte
 URL: https://watchwiththekids.com/ep/family-guy/1312.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6240,7 +6240,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “I will not! Our child is growing inside me! Stop talking like that! A-And how do you even know it's mine? How dare you! So I'm just some slut?!”
 
-## S13 E13 — 13. Dr. C and the Women
+## S13 E13 — Dr. C and the Women
 URL: https://watchwiththekids.com/ep/family-guy/1313.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6266,7 +6266,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Son of a whore! Give me some milk! Okay, that helped.”
 
-## S13 E14 — 14. #jolo
+## S13 E14 — #jolo
 URL: https://watchwiththekids.com/ep/family-guy/1314.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6290,7 +6290,7 @@ Watch for:
   - [Mild] “Oh, crap, I'm losing my grip! You buy your jeans at Wal-Mart? No, somebody who lost theirs at the church did.”
   - [Mild] “I'm a Barbie girl in a Barbie world Come on, Barbie, let's go party! Peter, damn it, no! Wait, wait, we got to remember the other one.”
 
-## S13 E15 — 15. Once Bitten
+## S13 E15 — Once Bitten
 URL: https://watchwiththekids.com/ep/family-guy/1315.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6310,7 +6310,7 @@ Watch for:
   - [Mild] “I know I like a cold beer after I mow the lawn.”
   - [Mild] “This is 'cause I'm drunk!”
 
-## S13 E16 — 16. Roasted Guy
+## S13 E16 — Roasted Guy
 URL: https://watchwiththekids.com/ep/family-guy/1316.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6345,7 +6345,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “" Peter's so fat and stupid, Lamar Odom tried to bang him.”
 
-## S13 E17 — 17. Fighting Irish
+## S13 E17 — Fighting Irish
 URL: https://watchwiththekids.com/ep/family-guy/1317.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6376,7 +6376,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Eat my button, you whore.”
 
-## S13 E18 — 18. Take My Wife
+## S13 E18 — Take My Wife
 URL: https://watchwiththekids.com/ep/family-guy/1318.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6397,7 +6397,7 @@ Watch for:
   - [Mild] “And what the hell happened to you? Oh, Kimmie and I fell asleep on the beach.”
   - [Mild] “Yeah! Kill the whites! Race war! (grunts Run! Everybody run! What the hell is happening?! Somebody do something! Look! We got to get the attention of that plane! You got to help us! Man, those natives are pissed!”
 
-## S14 E1 — 1. Pilling Them Softly
+## S14 E1 — Pilling Them Softly
 URL: https://watchwiththekids.com/ep/family-guy/1401.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6419,7 +6419,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “What a skank.”
 
-## S14 E2 — 2. Papa Has a Rollin' Son
+## S14 E2 — Papa Has a Rollin' Son
 URL: https://watchwiththekids.com/ep/family-guy/1402.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6443,7 +6443,7 @@ Watch for:
   - [Mild] “My dad's a stinking drunk who lives in Ireland, but you got a perfectly good dad.”
   - [Mild] “Who's ready for another beer? Hey, Cleveland, weren't you supposed to buy the next round? That's a shame Joe never sees his dad.”
 
-## S14 E3 — 3. Guy, Robot
+## S14 E3 — Guy, Robot
 URL: https://watchwiththekids.com/ep/family-guy/1403.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6467,7 +6467,7 @@ Watch for:
   - [Mild] “Ah, damn it.”
   - [Mild] “says this is where a piece of crap has to live.”
 
-## S14 E4 — 4. Peternormal Activity
+## S14 E4 — Peternormal Activity
 URL: https://watchwiththekids.com/ep/family-guy/1404.html
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6494,7 +6494,7 @@ Watch for:
   - [Mild] “Wait a minute, is-is that-- is that his car? (car alarm wailing) Aw, crap, it's still alive! It does not feel like a Wednesday.”
   - [Mild] “Damn it, that bastard is bailing on us.”
 
-## S14 E5 — 5. Peter, Chris, & Brian
+## S14 E5 — Peter, Chris, & Brian
 URL: https://watchwiththekids.com/ep/family-guy/1405.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6515,7 +6515,7 @@ Watch for:
   - [Caution] “Lactating sluts on box springs.”
   - [Caution] “Now, which movie should I start with? "Back-Door Sluts 4.”
 
-## S14 E6 — 6. Peter's Sister
+## S14 E6 — Peter's Sister
 URL: https://watchwiththekids.com/ep/family-guy/1406.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6539,7 +6539,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “How how did? Uh, why-why you so fat? Okay, ask him about anything but his weight.”
 
-## S14 E7 — 7. Hot Pocket-Dial
+## S14 E7 — Hot Pocket-Dial
 URL: https://watchwiththekids.com/ep/family-guy/1407.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6560,7 +6560,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Hey, fat ass, I brought you flowers.”
 
-## S14 E8 — 8. Brokeback Swanson
+## S14 E8 — Brokeback Swanson
 URL: https://watchwiththekids.com/ep/family-guy/1408.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6591,7 +6591,7 @@ Watch for:
   - [Caution] “Hey, uh, uh, just to be clear, I don't really think you're a whore.”
   - [Caution] “Your mother's a whore! I told you that in confidence, Gary.”
 
-## S14 E9 — 9. A Shot in the Dark
+## S14 E9 — A Shot in the Dark
 URL: https://watchwiththekids.com/ep/family-guy/1409.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6623,7 +6623,7 @@ Watch for:
   - [Too much] “I'm not a racist.”
   - [Too much] “Cleveland, why did you do that? Peter, since this is about racism, why don't we take a slow, hands-clasped-behind- the-back walk together? Listen, I know you wouldn't have shot Cleveland Jr.”
 
-## S14 E10 — 10. Candy, Quahog Marshmallow
+## S14 E10 — Candy, Quahog Marshmallow
 URL: https://watchwiththekids.com/ep/family-guy/1410.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6639,7 +6639,7 @@ Watch for:
   - [Mild] “Have you ever killed a dog while driving drunk, and then been upset that there was no way for your car engine to cook it for you on the rest of the drive home? Well, those days are over, thanks to Dr.”
   - [Mild] “…Quahog So, Quagmire, please tell 'em see ya Come on, come on, come on home, Quahog is your home Boy Whiskey, steaks and giant bongs Ricki Lake and Howie Long Giant boobies, firm and strong Not here, only in the U.”
 
-## S14 E11 — 11. The Peanut Butter Kid
+## S14 E11 — The Peanut Butter Kid
 URL: https://watchwiththekids.com/ep/family-guy/1411.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6669,7 +6669,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Are you guys talking about your kids? My daughter is the American Apparel slut baby.”
 
-## S14 E12 — 12. Scammed Yankees
+## S14 E12 — Scammed Yankees
 URL: https://watchwiththekids.com/ep/family-guy/1412.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6687,7 +6687,7 @@ Watch for:
   - [Mild] “Uh, I'll take one terrible beer, filled up way too high, so I spill most of it, and a too-long hot dog on a too-short bun.”
   - [Mild] “Good-bye, being honest about how many beers I've had.”
 
-## S14 E13 — 13. An App a Day
+## S14 E13 — An App a Day
 URL: https://watchwiththekids.com/ep/family-guy/1413.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -6720,7 +6720,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Okay, so this place has hot women, morning booze and free vomit? Maybe I'll join you.”
 
-## S14 E14 — 14. Underage Peter
+## S14 E14 — Underage Peter
 URL: https://watchwiththekids.com/ep/family-guy/1414.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6758,7 +6758,7 @@ Watch for:
   - [Mild] “Oh, my God! Are you drunk again? Yeah, I was, I was just hanging out with my main man, Peter.”
   - [Mild] “Is that, is that wine? Yeah, Adam just poured me a little before dinner.”
 
-## S14 E15 — 15. A Lot Going on Upstairs
+## S14 E15 — A Lot Going on Upstairs
 URL: https://watchwiththekids.com/ep/family-guy/1415.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6774,7 +6774,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Now, if you look closely, she's clearly drunk.”
 
-## S14 E16 — 16. The Heartbreak Dog
+## S14 E16 — The Heartbreak Dog
 URL: https://watchwiththekids.com/ep/family-guy/1416.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6802,7 +6802,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Oh, Brian's a complete dick, we all know that, but I think we're losing sight of the point that Bonnie's a weird slut who's always letting you know she's open for business.”
 
-## S14 E17 — 17. Take a Letter
+## S14 E17 — Take a Letter
 URL: https://watchwiththekids.com/ep/family-guy/1417.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6817,7 +6817,7 @@ Watch for:
   - [Mild] “What the hell? This is from Peter.”
   - [Mild] “Who the hell is Gretchen Mercer? And this is postmarked a week before our wedding! Aw, there was a time when the president of the Jonathan Taylor Thomas Fan Club got a lot of mail.”
 
-## S14 E18 — 18. The New Adventures of Old Tom
+## S14 E18 — The New Adventures of Old Tom
 URL: https://watchwiththekids.com/ep/family-guy/1418.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6837,7 +6837,7 @@ Watch for:
   - [Mild] “We had a bottle of wine and a joint at Bonnie's house, and we want to watch Dallas Portland before the buzz wears off.”
   - [Mild] “Today on CBS This Morning, we'll be talking about how much sleep you need to not be drunk from the night before.”
 
-## S14 E19 — 19. Run, Chris, Run
+## S14 E19 — Run, Chris, Run
 URL: https://watchwiththekids.com/ep/family-guy/1419.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6866,14 +6866,14 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “I just see him walking around with his hands down his pants all day, and he's just so fat and weird, so we feel bad.”
 
-## S14 E20 — 20. Road to India
+## S14 E20 — Road to India
 URL: https://watchwiththekids.com/ep/family-guy/1420.html
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “I'm gonna shoot you with my six-gun.”
 
-## S15 E1 — 1. The Boys in the Band
+## S15 E1 — The Boys in the Band
 URL: https://watchwiththekids.com/ep/family-guy/1501.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -6897,7 +6897,7 @@ Watch for:
   - [Mild] “…Mommy goes "ow" Daddy says "I'm done," Mommy goes "wow" Daddy rolls over and falls asleep Mommy drinks wine in the dark.”
   - [Mild] “…says "I'm done", Mommy goes "wow" STEWIE, BRIAN & OLIVIA: Daddy rolls over and falls asleep Mommy drinks wine in the dark.”
 
-## S15 E2 — 2. Bookie of the Year
+## S15 E2 — Bookie of the Year
 URL: https://watchwiththekids.com/ep/family-guy/1502.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6926,7 +6926,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “You're supposed to yell "Bella, Bella" and grab as much fat ass as you can.”
 
-## S15 E3 — 3. American Gigg-olo
+## S15 E3 — American Gigg-olo
 URL: https://watchwiththekids.com/ep/family-guy/1503.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -6968,7 +6968,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “You know I hit you and whore you out because I love you, right? Hi, there.”
 
-## S15 E4 — 4. Inside Family Guy
+## S15 E4 — Inside Family Guy
 URL: https://watchwiththekids.com/ep/family-guy/1504.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -6995,7 +6995,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “(STATIC CRACKLES) (KNOCKING) JOE: Peter, you ready to hit the Drunken Clam? Over.”
 
-## S15 E5 — 5. Chris Has Got a Date, Date, Date, Date, Date
+## S15 E5 — Chris Has Got a Date, Date, Date, Date, Date
 URL: https://watchwiththekids.com/ep/family-guy/1505.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7014,7 +7014,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “Well, why don't you just kiss her, Griffin? Sorry, I just smoked a joint with the pickup truck kids.”
 
-## S15 E6 — 6. Hot Shots
+## S15 E6 — Hot Shots
 URL: https://watchwiththekids.com/ep/family-guy/1506.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7035,7 +7035,7 @@ Watch for:
   - [Too much] “I moved onto his prayer farm with 45 other members of the Salvation Star Boys, who died in a mass suicide.”
   - [Too much] “(EXPLOSIONS, GLASS SHATTERING) All right, what else did I have to do today? Ah, yes, overdose in my apartment.”
 
-## S15 E7 — 7. High School English
+## S15 E7 — High School English
 URL: https://watchwiththekids.com/ep/family-guy/1507.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7064,7 +7064,7 @@ Watch for:
   - [Mild] “Don't forget drunk.”
   - [Mild] “You hungover? Uh, a little bit, yeah.”
 
-## S15 E8 — 8. Carter and Tricia
+## S15 E8 — Carter and Tricia
 URL: https://watchwiththekids.com/ep/family-guy/1508.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7098,7 +7098,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Lois! Fat Ass! Family, I want you to meet Tricia Takanawa.”
 
-## S15 E9 — 9. How the Griffin Stole Christmas
+## S15 E9 — How the Griffin Stole Christmas
 URL: https://watchwiththekids.com/ep/family-guy/1509.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7131,7 +7131,7 @@ Watch for:
   - [Mild] “How wasted are you? Don't judge me.”
   - [Mild] “Until I went home and had, like, 50 beers, and did forget.”
 
-## S15 E10 — 10. Passenger Fatty-Seven
+## S15 E10 — Passenger Fatty-Seven
 URL: https://watchwiththekids.com/ep/family-guy/1510.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7151,7 +7151,7 @@ Watch for:
   - [Mild] “I know I crap on you a lot, but sometimes, when I'm driving, I think about stuff you say and I laugh.”
   - [Mild] “Yeah, you're the best damn pilot in the world.”
 
-## S15 E11 — 11. Gronkowsbees
+## S15 E11 — Gronkowsbees
 URL: https://watchwiththekids.com/ep/family-guy/1511.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7178,7 +7178,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Also, I'm (bleep) insane! (laughing) Eat a butt, fatty!”
 
-## S15 E12 — 12. Peter's Def Jam
+## S15 E12 — Peter's Def Jam
 URL: https://watchwiththekids.com/ep/family-guy/1512.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7210,7 +7210,7 @@ Watch for:
   - [Mild] “Yeah, I'd drink vodka and Gatorade to that.”
   - [Mild] “NARRATOR (OVER COMPUTER): Audible dot com presents, "Are You There, Vodka? It's Me, Chelsea," as read by Chelsea Handler.”
 
-## S15 E13 — 13. The Finer Strings
+## S15 E13 — The Finer Strings
 URL: https://watchwiththekids.com/ep/family-guy/1513.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7237,7 +7237,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “…You don't want it You're cuckoo Funny, funny, funny what money can do You guys, I got great news! Some skank I used to bang is getting married, and they need someone to play at the ceremony.”
 
-## S15 E14 — 14. The Dating Game
+## S15 E14 — The Dating Game
 URL: https://watchwiththekids.com/ep/family-guy/1514.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -7270,7 +7270,7 @@ Watch for:
   - [Mild] “Should we do it with careful planning, or have another couple beers and then just go for it? Well, let's make that decision after another couple beers.”
   - [Mild] “I wrote several long paragraphs describing my interests, some pet peeves, choice of wine, a couple of inspirational quotes, things I've learned from my cats No, no, no, no.”
 
-## S15 E15 — 15. Cop and a Half-wit
+## S15 E15 — Cop and a Half-wit
 URL: https://watchwiththekids.com/ep/family-guy/1515.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7300,7 +7300,7 @@ Watch for:
   - [Mild] “Your stuff sucks.”
   - [Mild] “Crap, Chris, he's worse off than I thought.”
 
-## S15 E16 — 16. Saturated Fat Guy
+## S15 E16 — Saturated Fat Guy
 URL: https://watchwiththekids.com/ep/family-guy/1516.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7326,7 +7326,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I stopped thinking about the truck and started thinking about Amazon woman Brigitte Nielsen drunk in a Burbank park.”
 
-## S15 E17 — 17. Peter's Lost Youth
+## S15 E17 — Peter's Lost Youth
 URL: https://watchwiththekids.com/ep/family-guy/1517.html
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7350,7 +7350,7 @@ Watch for:
   - [Mild] “(GROANING) Yeah! Now, that's a big-league slide, huh, coach? (GROANING): Damn it! I think it's broken.”
   - [Mild] “Crap! Now we got to find Stewie and write a puppet show.”
 
-## S15 E18 — 18. The Peter Principal
+## S15 E18 — The Peter Principal
 URL: https://watchwiththekids.com/ep/family-guy/1518.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7373,7 +7373,7 @@ Watch for:
   - [Mild] “Don't take any crap from anyone.”
   - [Mild] “This is a hell of a lot easier than when I delivered pizza in New Orleans.”
 
-## S15 E19 — 19. Dearly Deported
+## S15 E19 — Dearly Deported
 URL: https://watchwiththekids.com/ep/family-guy/1519.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7392,7 +7392,7 @@ Watch for:
   - [Caution] ALL: “Yay! (SLURPING) I saw Lady and the Tramp, so I asked if we could eat spaghetti in the alley, but they said no, because of all the homeless masturbation.”
   - [Caution] “Well, maybe he should have thought of that before he opened his slut legs.”
 
-## S15 E20 — 20. A House Full of Peters
+## S15 E20 — A House Full of Peters
 URL: https://watchwiththekids.com/ep/family-guy/1520.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7416,7 +7416,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Sometimes friends put wine out for each other.”
 
-## S16 E1 — 1. Emmy-Winning Episode
+## S16 E1 — Emmy-Winning Episode
 URL: https://watchwiththekids.com/ep/family-guy/1601.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7435,7 +7435,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Mild] “I mean, yay! (CRYING) Man or woman, I'm a big fat joke.”
 
-## S16 E2 — 2. Foxx in the Men House
+## S16 E2 — Foxx in the Men House
 URL: https://watchwiththekids.com/ep/family-guy/1602.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7459,7 +7459,7 @@ Watch for:
   - [Too much] “We were just four middle-aged men doing Ecstasy at a Mexican prom.”
   - [Mild] “And you're not in heaven 'cause you're not holding a margarita.”
 
-## S16 E3 — 3. Nanny Goats
+## S16 E3 — Nanny Goats
 URL: https://watchwiththekids.com/ep/family-guy/1603.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7480,7 +7480,7 @@ Watch for:
   - [Mild] “Enjoying your wine? Oh, what an amazing night.”
   - [Mild] “You come in late last night drunk and tell me to pack car for weekend getaway you book online.”
 
-## S16 E4 — 4. Follow the Money
+## S16 E4 — Follow the Money
 URL: https://watchwiththekids.com/ep/family-guy/1604.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7506,7 +7506,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “You, sir, are a racist and a rude one at that.”
 
-## S16 E5 — 5. Three Directors
+## S16 E5 — Three Directors
 URL: https://watchwiththekids.com/ep/family-guy/1605.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -7525,7 +7525,7 @@ Watch for:
   - [Mild] “They're allergic to beer.”
   - [Mild] “Our top story, stopping the Decepticons with beer? According to our sources, the search is underway for a man strong enough to throw a keg with enough force to save the Seven Wonders of the World.”
 
-## S16 E6 — 6. The D in Apartment 23
+## S16 E6 — The D in Apartment 23
 URL: https://watchwiththekids.com/ep/family-guy/1606.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7551,7 +7551,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Why am I so fat? I'm sorry, Brian, but this is the way it has to be.”
 
-## S16 E7 — 7. Petey IV
+## S16 E7 — Petey IV
 URL: https://watchwiththekids.com/ep/family-guy/1607.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7586,7 +7586,7 @@ Watch for:
   - [Mild] “That's totally my thing! - (HORNS HONKING) - (ANGRY CLAMORING) Ah, the sun feels good on my drunk chest.”
   - [Mild] “Let's go, let's go, let's go, wheels up, let's go! Oh, my God, she can smell the tiny bottles of booze.”
 
-## S16 E8 — 8. Crimes and Meg's Demeanor
+## S16 E8 — Crimes and Meg's Demeanor
 URL: https://watchwiththekids.com/ep/family-guy/1608.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7612,7 +7612,7 @@ Watch for:
   - [Mild] “What can you do for a hangover? Well, Meg, so I don't have to think about my throbbing headache, I try to think of something else, like a riddle.”
   - [Mild] “Booze is nothing but trouble, and you don't need it.”
 
-## S16 E9 — 9. Don't Be a Dickens at Christmas
+## S16 E9 — Don't Be a Dickens at Christmas
 URL: https://watchwiththekids.com/ep/family-guy/1609.html
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7633,7 +7633,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You guys talking 'bout Durd? More champagne, miss? (CHUCKLES): Miss? Oh, my! It's been a long time since anybody's called me miss.”
 
-## S16 E10 — 10. Boy (Dog) Meets Girl (Dog)
+## S16 E10 — Boy (Dog) Meets Girl (Dog)
 URL: https://watchwiththekids.com/ep/family-guy/1610.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7654,7 +7654,7 @@ Watch for:
   - [Mild] “I love chewing the crap out of my foot.”
   - [Mild] “Damn it! Arthur Valentine? Chris! You're okay! But I saw him die.”
 
-## S16 E11 — 11. Dog Bites Bear
+## S16 E11 — Dog Bites Bear
 URL: https://watchwiththekids.com/ep/family-guy/1611.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7681,7 +7681,7 @@ Watch for:
   - [Mild] “I-I was drunk.”
   - [Mild] “So? If you were driving drunk and ran him over, would you still go to jail? Yes! You killed him.”
 
-## S16 E12 — 12. Send in Stewie, Please
+## S16 E12 — Send in Stewie, Please
 URL: https://watchwiththekids.com/ep/family-guy/1612.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7699,7 +7699,7 @@ Watch for:
   - [Caution] “She's just a useless old slut.”
   - [Caution] “Go sleep on the floor where you belong, whore! - All right, well - Hey hey, Bri? Yeah? Would you mind maybe sleeping with me tonight? - Sure.”
 
-## S16 E13 — 13. V Is For Mystery
+## S16 E13 — V Is For Mystery
 URL: https://watchwiththekids.com/ep/family-guy/1613.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7722,7 +7722,7 @@ Watch for:
   - [Caution] “He's got a gun.”
   - [Caution] “From the angle you were aiming the gun, I extrapolated the path of the bullet, and triangulated the deflection point Uh, is this is this speech for me? Because he's dead.”
 
-## S16 E14 — 14. Veteran Guy
+## S16 E14 — Veteran Guy
 URL: https://watchwiththekids.com/ep/family-guy/1614.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7742,7 +7742,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “): Final boarding call for the "Are We Ready To Attack, We Are, And Many People Will Die" booze cruise.”
 
-## S16 E15 — 15. The Woof of Wall Street
+## S16 E15 — The Woof of Wall Street
 URL: https://watchwiththekids.com/ep/family-guy/1615.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7760,7 +7760,7 @@ Watch for:
   - [Too much] “What?! - Stewie, adults are allowed to say racist things because of traffic.”
   - [Too much] “QuÃ©? - I allowed to say racist things because of traffic.”
 
-## S16 E16 — 16. Family Guy' Through the Years
+## S16 E16 — Family Guy' Through the Years
 URL: https://watchwiththekids.com/ep/family-guy/1616.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7777,7 +7777,7 @@ Watch for:
   - [Mild] “Why not, Dad? Is it any worse than your "three X's drawn on the jug" corn whiskey moonshine? What?! No son of mine drink anything but rice wine.”
   - [Mild] “("A FIFTH OF BEETHOVEN" BY WALTER MURPHY PLAYING) (PEOPLE GRUNTING) Yeah, we'll have a round of beers for the table.”
 
-## S16 E17 — 17. Switch the Flip
+## S16 E17 — Switch the Flip
 URL: https://watchwiththekids.com/ep/family-guy/1617.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7807,7 +7807,7 @@ Watch for:
   - [Mild] “The Hangover Part III available for instant download.”
   - [Mild] “(EXHALES) I realize I've wasted most of my life being a pathetic jerk.”
 
-## S16 E18 — 18. HTTPete
+## S16 E18 — HTTPete
 URL: https://watchwiththekids.com/ep/family-guy/1618.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7828,7 +7828,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “Or, as they say in Italian, molto homo.”
 
-## S16 E19 — 19. The Unkindest Cut
+## S16 E19 — The Unkindest Cut
 URL: https://watchwiththekids.com/ep/family-guy/1619.html
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -7857,7 +7857,7 @@ Watch for:
   - [Too much] “…a Fam ily Guy! Is it me, or does David Ortiz look just like the mom on Good Times? - Oh, Peter, that's racist.”
   - [Too much] “That's not racist.”
 
-## S16 E20 — 20. Are You There God? It's Me, Peter
+## S16 E20 — Are You There God? It's Me, Peter
 URL: https://watchwiththekids.com/ep/family-guy/1620.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7889,7 +7889,7 @@ Watch for:
   - [Mild] “I saw you put Ambien in your beer, too.”
   - [Mild] “("TEQUILA SONG" BY THE CHAMPS PLAYING) Vodka! Okay, kids.”
 
-## S17 E1 — 1. Married... With Cancer
+## S17 E1 — Married... With Cancer
 URL: https://watchwiththekids.com/ep/family-guy/1701.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7904,7 +7904,7 @@ Watch for:
   - [Caution] “He called me a dick earlier.”
   - [Mild] “Somebody call 911! Damn it, Fox.”
 
-## S17 E2 — 2. Dead Dog Walking
+## S17 E2 — Dead Dog Walking
 URL: https://watchwiththekids.com/ep/family-guy/1702.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -7931,7 +7931,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Whew! Must have been that fat chick I ate.”
 
-## S17 E3 — 3. Pal Stewie
+## S17 E3 — Pal Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1703.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7950,7 +7950,7 @@ Watch for:
   - [Mild] “Growing one carrot Taking up time Filling up the day with nonsense Vodka in the bushes (HUMMING) Making it better, making it bright What a day Think I'll check the mail.”
   - [Mild] “Where's the bush vodka? (LEAVES RUSTLING) Where is it? Where is it?! Ah, there it is.”
 
-## S17 E4 — 4. Big Trouble in Little Quahog
+## S17 E4 — Big Trouble in Little Quahog
 URL: https://watchwiththekids.com/ep/family-guy/1704.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -7961,7 +7961,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Let's just enjoy our wine.”
 
-## S17 E5 — 5. Regarding Carter
+## S17 E5 — Regarding Carter
 URL: https://watchwiththekids.com/ep/family-guy/1705.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -7986,7 +7986,7 @@ Watch for:
   - [Too much] “It was the '80s, so he was always doing cocaine-and-sushi business meetings.”
   - [Mild] “You know, you guys made me realize that I wasted my whole life caring about money, and I'm not giving up another second.”
 
-## S17 E6 — 6. Stand by Meg
+## S17 E6 — Stand by Meg
 URL: https://watchwiththekids.com/ep/family-guy/1706.html
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8007,7 +8007,7 @@ Watch for:
   - [Mild] “What the hell? - Sorry, I choked.”
   - [Mild] “(DOOR CREAKS) (FOOTSTEPS APPROACHING) What have you got there? A guy letting me back into school says what? - What? Damn it! - Okay, see you on Monday.”
 
-## S17 E7 — 7. The Griffin Winter Games
+## S17 E7 — The Griffin Winter Games
 URL: https://watchwiththekids.com/ep/family-guy/1707.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8025,7 +8025,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Here's a beer.”
 
-## S17 E8 — 8. Con Heiress
+## S17 E8 — Con Heiress
 URL: https://watchwiththekids.com/ep/family-guy/1708.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8036,7 +8036,7 @@ Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “…Kincaid Winslow Coors Oviatt Marlborough Pembroke Huffington Bush Mellon Sinclair Mellencamp Starbucks Van Dyke Third Montgomery Marriott Barrington Chadsworth Big League Chew Chesterfield Kensington Booth Bishop…”
 
-## S17 E9 — 9. Pawtucket Pete
+## S17 E9 — Pawtucket Pete
 URL: https://watchwiththekids.com/ep/family-guy/1709.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -8052,7 +8052,7 @@ Watch for:
   - [Mild] “(BEER CAN OPENS, SLURPING) Griffin? PETER: No.”
   - [Mild] “But first, hey, hungover dads, want to go to a parade? Does that sound like fun on a Sunday morning? Not just being worried about your kids, but everyone else's kids around you, too? For more, here's Tricia Takanawa.”
 
-## S17 E10 — 10. Hefty Shades of Gray
+## S17 E10 — Hefty Shades of Gray
 URL: https://watchwiththekids.com/ep/family-guy/1710.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8078,7 +8078,7 @@ Watch for:
   - [Mild] “Well, now, I have to warn you fellas The only spirits I'm used to chasing are whiskey and tequila.”
   - [Mild] “Farewell, and thank you for feeding me champagne and shrimp all day.”
 
-## S17 E11 — 11. Trump Guy
+## S17 E11 — Trump Guy
 URL: https://watchwiththekids.com/ep/family-guy/1711.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8100,7 +8100,7 @@ Watch for:
   - [Mild] “Folks, to drink this evening, we've got red wine, white wine, and a fifth of bourbon.”
   - [Mild] “What?! - I said - (JANGLING CONTINUES) - I've spent $65 million on vacation homes and daytime wine.”
 
-## S17 E12 — 12. Bri, Robot
+## S17 E12 — Bri, Robot
 URL: https://watchwiththekids.com/ep/family-guy/1712.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8119,7 +8119,7 @@ Watch for:
   - [Too much] “Hey, can robots do cocaine? - What? Nothing, I was just, you know.”
   - [Too much] “Can they get cocaine? Hello, The Girls Aren't the Girls in the Ad Massage.”
 
-## S17 E13 — 13. Trans-Fat
+## S17 E13 — Trans-Fat
 URL: https://watchwiththekids.com/ep/family-guy/1713.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8138,7 +8138,7 @@ Watch for:
   - [Mild] “Anything else, fellas? PETER: Uh, yeah, I'll have a beer.”
   - [Mild] “…press "lobby"! Now, Peter, one of the perks of being a woman is that you get to go out and have a white wine, squeak-fart lunch with your friends.”
 
-## S17 E14 — 14. Family Guy Lite
+## S17 E14 — Family Guy Lite
 URL: https://watchwiththekids.com/ep/family-guy/1714.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8164,7 +8164,7 @@ Watch for:
   - [Caution] “Peter, you got to lose weight.”
   - [Caution] “All right, Peter, today we start helping you lose weight.”
 
-## S17 E15 — 15. No Giggity, No Doubt
+## S17 E15 — No Giggity, No Doubt
 URL: https://watchwiththekids.com/ep/family-guy/1715.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -8179,7 +8179,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I'm beginning to think those vodka cranberries may have had alcohol in them.”
 
-## S17 E16 — 16. You Can't Handle the Booth
+## S17 E16 — You Can't Handle the Booth
 URL: https://watchwiththekids.com/ep/family-guy/1716.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8193,7 +8193,7 @@ Watch for:
   - [Caution] “"Getting new phones was a worse idea than a skank robbery.”
   - [Caution] “PETER: Right, skank robbery.”
 
-## S17 E17 — 17. Island Adventure
+## S17 E17 — Island Adventure
 URL: https://watchwiththekids.com/ep/family-guy/1717.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8211,7 +8211,7 @@ Watch for:
   - [Mild] “My plan is to attach six Jimmy Buffett margarita machines to it, which should be able to propel us home.”
   - [Mild] “From the moment we arrived, I've either been drunk or ejaculating.”
 
-## S17 E18 — 18. Throw It Away
+## S17 E18 — Throw It Away
 URL: https://watchwiththekids.com/ep/family-guy/1718.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -8231,7 +8231,7 @@ Watch for:
   - [Mild] “You drunk already, bro? What's your next fake writing project, a rap opera about Grover Cleveland? (CHUCKLES): No, Lois, that would be ridiculous.”
   - [Mild] “I'm making wine.”
 
-## S17 E19 — 19. Girl, Internetted
+## S17 E19 — Girl, Internetted
 URL: https://watchwiththekids.com/ep/family-guy/1719.html
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -8245,7 +8245,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “If you have a problem with addiction, do not take Pancresta, as smoking Pancresta may mimic the otherworldly high of heroin.”
 
-## S17 E20 — 20. Adam West High
+## S17 E20 — Adam West High
 URL: https://watchwiththekids.com/ep/family-guy/1720.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8267,7 +8267,7 @@ Watch for:
   - [Mild] “Ah, damn it! Oh, I couldn't do that.”
   - [Mild] “Let's cut the crap.”
 
-## S18 E1 — 1. Yacht Rocky
+## S18 E1 — Yacht Rocky
 URL: https://watchwiththekids.com/ep/family-guy/1801.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8290,7 +8290,7 @@ Watch for:
   - [Mild] “What? That's that's the wine talking.”
   - [Mild] “Grab some cocktail sauce on your way.”
 
-## S18 E2 — 2. Bri-Da
+## S18 E2 — Bri-Da
 URL: https://watchwiththekids.com/ep/family-guy/1802.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8323,7 +8323,7 @@ Watch for:
   - [Mild] “Beer in a bag.”
   - [Mild] “All right, Peter, you're so great, why don't you give us an idea? Okay, you know how they put ice in urinals? Well, what happens to that ice at the end of the day? It's wasted.”
 
-## S18 E3 — 3. Absolutely Babulous
+## S18 E3 — Absolutely Babulous
 URL: https://watchwiththekids.com/ep/family-guy/1803.html
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8347,7 +8347,7 @@ Watch for:
   - [Mild] “(CREAKING) Well, I didn't pay for my beer, but I left a hell of a tip.”
   - [Mild] “Get drunk, go upstairs and weird out the kids.”
 
-## S18 E4 — 4. Disney's The Reboot
+## S18 E4 — Disney's The Reboot
 URL: https://watchwiththekids.com/ep/family-guy/1804.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8375,7 +8375,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “Oh! - No way! - He ate it! - People will eat anything! 50 bucks says the fat girl eats a third Big Beef 'n Cheddar.”
 
-## S18 E5 — 5. Cat Fight
+## S18 E5 — Cat Fight
 URL: https://watchwiththekids.com/ep/family-guy/1805.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8397,7 +8397,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “You got any booze in that bag, mister? - No, sir.”
 
-## S18 E6 — 6. Peter & Lois' Wedding
+## S18 E6 — Peter & Lois' Wedding
 URL: https://watchwiththekids.com/ep/family-guy/1806.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8420,7 +8420,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “We did Ecstasy, which was terrible for you, and only ever made me feel fantastic.”
 
-## S18 E7 — 7. Heart Burn
+## S18 E7 — Heart Burn
 URL: https://watchwiththekids.com/ep/family-guy/1807.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8438,7 +8438,7 @@ Watch for:
   - [Too much] “Hey, which line of cocaine is for the bathroom? - I think it's that one.”
   - [Mild] “Like what? - "Have you ever tried wine?" "Can you keep a secret?" "You know this is your fault, right?" Yeah, he'll he'll make you question a lot about yourself.”
 
-## S18 E8 — 8. Shanksgiving
+## S18 E8 — Shanksgiving
 URL: https://watchwiththekids.com/ep/family-guy/1808.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8456,7 +8456,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “I'm just sick of your overt racism.”
 
-## S18 E9 — 9. Christmas is Coming
+## S18 E9 — Christmas is Coming
 URL: https://watchwiththekids.com/ep/family-guy/1809.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8468,7 +8468,7 @@ Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “H-Hey, have you guys seen that mom who wears a swimsuit for a bra? She can't come to these.”
 
-## S18 E10 — 10. Connie's Celica
+## S18 E10 — Connie's Celica
 URL: https://watchwiththekids.com/ep/family-guy/1810.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8498,7 +8498,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “She's a classic, entitled, mean-girl slut.”
 
-## S18 E11 — 11. Short Cuts
+## S18 E11 — Short Cuts
 URL: https://watchwiththekids.com/ep/family-guy/1811.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -8522,7 +8522,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] “Why don't you take her name out of your filthy whore mouth.”
 
-## S18 E12 — 12. Undergrounded
+## S18 E12 — Undergrounded
 URL: https://watchwiththekids.com/ep/family-guy/1812.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8538,7 +8538,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “I want to get one more beer.”
 
-## S18 E13 — 13. Rich Old Stewie
+## S18 E13 — Rich Old Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1813.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8555,7 +8555,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “"Coughing up blood, pain in abdomen, Winnie the Pooh casket.”
 
-## S18 E14 — 14. The Movement
+## S18 E14 — The Movement
 URL: https://watchwiththekids.com/ep/family-guy/1814.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8577,7 +8577,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] I remember after that we Lady-and-the-Tramp'd a croissant together and said this O-line needs to get healthy.
 
-## S18 E15 — 15. Baby Stewie
+## S18 E15 — Baby Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1815.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8601,7 +8601,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Where the hell is my white wine with Sprite in it?! Hi again. That man over there reading a book by himself has offered to pay for your meal if you move to a table outside.
 
-## S18 E16 — 16. Start Me Up
+## S18 E16 — Start Me Up
 URL: https://watchwiththekids.com/ep/family-guy/1816.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8629,7 +8629,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] 'Cause of the cocaine? - No.
 
-## S18 E17 — 17. Coma Guy
+## S18 E17 — Coma Guy
 URL: https://watchwiththekids.com/ep/family-guy/1817.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8647,7 +8647,7 @@ Watch for:
   - [Mild] Well, since this is a nice cocktail party, let's talk about books.
   - [Mild] Excuse me, could I get dos margaritas, por favor? Yoo-hoo! Hello? Senor? Excuse me? Could I get towels? We need more towels.
 
-## S18 E18 — 18. Better Off Meg
+## S18 E18 — Better Off Meg
 URL: https://watchwiththekids.com/ep/family-guy/1818.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8659,7 +8659,7 @@ Watch for:
   - [Caution] Now let's see, if I whap my forehead against this cement floor enough times, I think I can create a blood luge to slide myself out on.
   - [Mild] What's the holdup? - What? I slapped the van twice.
 
-## S18 E19 — 19. Holly Bibble
+## S18 E19 — Holly Bibble
 URL: https://watchwiththekids.com/ep/family-guy/1819.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8690,7 +8690,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] I don't know, maybe throw it in the dryer at least? Don't take this the wrong way, but I'm not taking advice about germs from a whore.
 
-## S18 E20 — 20. Movin' In (Principal Shepherd's Song)
+## S18 E20 — Movin' In (Principal Shepherd's Song)
 URL: https://watchwiththekids.com/ep/family-guy/1820.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8711,7 +8711,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] At least I'm not a withered old slut like you are.
 
-## S19 E1 — 1. Stewie's First Word
+## S19 E1 — Stewie's First Word
 URL: https://watchwiththekids.com/ep/family-guy/1901.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -8728,7 +8728,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] Ahoy! Are you looking to build a city where sports fans can be notoriously racist? Yeah, and can we also ruin "Sweet Caroline" - for everyone else? - Absolutely.
 
-## S19 E2 — 2. The Talented Mr. Stewie
+## S19 E2 — The Talented Mr. Stewie
 URL: https://watchwiththekids.com/ep/family-guy/1902.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8747,7 +8747,7 @@ Watch for:
   - [Mild] I mean, I've already wasted a whole year of my life with him.
   - [Mild] What do you mean? Like dessert or a bottle of wine.
 
-## S19 E3 — 3. Boys & Squirrels
+## S19 E3 — Boys & Squirrels
 URL: https://watchwiththekids.com/ep/family-guy/1903.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8767,7 +8767,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Yikes! - I hate the one story you tell at every cocktail party about almost meeting John Kerry.
 
-## S19 E4 — 4. CutawayLand
+## S19 E4 — CutawayLand
 URL: https://watchwiththekids.com/ep/family-guy/1904.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8790,7 +8790,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] Hey, Lois, you remember that time you and me made it under the boardwalk? When I go back to school, my greaser friends are gonna say, "Tell me more, tell me more," and I'm gonna say you were a slut.
 
-## S19 E5 — 5. La Famiglia Guy
+## S19 E5 — La Famiglia Guy
 URL: https://watchwiththekids.com/ep/family-guy/1905.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8822,7 +8822,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] "You's dead, fat ass.
 
-## S19 E6 — 6. Meg's Wedding
+## S19 E6 — Meg's Wedding
 URL: https://watchwiththekids.com/ep/family-guy/1906.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8841,7 +8841,7 @@ Watch for:
   - [Mild] What happened to a place where you drink beer and talk? It might be time to find a new bar.
   - [Mild] You know what? This calls for champagne.
 
-## S19 E7 — 7. Wild Wild West
+## S19 E7 — Wild Wild West
 URL: https://watchwiththekids.com/ep/family-guy/1907.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -8853,7 +8853,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] “or racism or Brett Kavanaugh”
 
-## S19 E8 — 8. Pawtucket Pat
+## S19 E8 — Pawtucket Pat
 URL: https://watchwiththekids.com/ep/family-guy/1908.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8881,7 +8881,7 @@ Watch for:
   - [Too much] Pawtucket Pat was a horrible racist.
   - [Too much] “and end the institutional racism”
 
-## S19 E9 — 9. The First No L
+## S19 E9 — The First No L
 URL: https://watchwiththekids.com/ep/family-guy/1909.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8898,7 +8898,7 @@ Watch for:
   - [Mild] What the hell? They've never had a front yard family snowball fight when I was there.
   - [Mild] Oh, no, Klunt, that was Stewie's aquarium with the fish you have to feed so damn much and they basically always die anyway.
 
-## S19 E10 — 10. Fecal Matters
+## S19 E10 — Fecal Matters
 URL: https://watchwiththekids.com/ep/family-guy/1910.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8924,7 +8924,7 @@ Watch for:
   - [Mild] Champagne? Maybe open that facing Ah, (BLEEP). My eye! What are we celebrating? Is our IRS audit finally over? Oh, we wish.
   - [Mild] Anyway, this champagne is to celebrate my victory over the Giant Chicken.
 
-## S19 E11 — 11. Boy's Best Friend
+## S19 E11 — Boy's Best Friend
 URL: https://watchwiththekids.com/ep/family-guy/1911.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8941,7 +8941,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] “Holly into paroxysms of ecstasy.”
 
-## S19 E12 — 12. And Then There's Fraud
+## S19 E12 — And Then There's Fraud
 URL: https://watchwiththekids.com/ep/family-guy/1912.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8950,7 +8950,7 @@ Watch for:
   - [Mild] “Is violence in movies and sex on TV”
   - [Mild] Little better sex character who doesn't play as well in the Me Too era.
 
-## S19 E13 — 13. PeTerminator
+## S19 E13 — PeTerminator
 URL: https://watchwiththekids.com/ep/family-guy/1913.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8965,7 +8965,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] (KNOCK ON DOOR) Champagne and chocolate-covered strawberries? Yes, put it over there near the candles.
 
-## S19 E14 — 14. The Marrying Kind
+## S19 E14 — The Marrying Kind
 URL: https://watchwiththekids.com/ep/family-guy/1914.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -8982,7 +8982,7 @@ Watch for:
   - [Mild] I vow to keep you nourished by filling our home with the worst wine in the world and preparing potatoes and applesauce.
   - [Mild] I have Dasani water bottle full of Rite Aid vodka.
 
-## S19 E15 — 15. Customer of the Week
+## S19 E15 — Customer of the Week
 URL: https://watchwiththekids.com/ep/family-guy/1915.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -8996,7 +8996,7 @@ Watch for:
   - [Too much] Now, there are two ways we can go from here: you can give me your absolute trust, or I can get you hooked on heroin.
   - [Too much] Heroin's not bad.
 
-## S19 E16 — 16. Who's Brian Now?
+## S19 E16 — Who's Brian Now?
 URL: https://watchwiththekids.com/ep/family-guy/1916.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9018,7 +9018,7 @@ Watch for:
   - [Mild] I'm lost in the woods, drunk on moonshine.
   - [Mild] Okay, that's it! How are you all actually this dumb? I can't even believe I've wasted my intellect living here.
 
-## S19 E17 — 17. Young Parent Trap
+## S19 E17 — Young Parent Trap
 URL: https://watchwiththekids.com/ep/family-guy/1917.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9027,7 +9027,7 @@ Watch for:
   - [Caution] Run home with these expired military condoms, Ndugu.
   - [Mild] “Is violence in movies and sex on TV”
 
-## S19 E18 — 18. Meg Goes to College
+## S19 E18 — Meg Goes to College
 URL: https://watchwiththekids.com/ep/family-guy/1918.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9039,7 +9039,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] And then I can get back to hustling drunk women upstairs with Tobin and Squee.
 
-## S19 E19 — 19. Family Cat
+## S19 E19 — Family Cat
 URL: https://watchwiththekids.com/ep/family-guy/1919.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9058,7 +9058,7 @@ Watch for:
   - [Mild] Hello? What the hell does this say? - Oh, my God.
   - [Mild] So what you're saying is that everyone who likes cats only likes them because they literally have crap in their brain? - That's correct.
 
-## S19 E20 — 20. Tales of Former Sports Glory
+## S19 E20 — Tales of Former Sports Glory
 URL: https://watchwiththekids.com/ep/family-guy/1920.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9079,7 +9079,7 @@ Watch for:
   - [Mild] Aah! What the hell? Hergy bergy meatball throwy! Come on, this can't be legal.
   - [Mild] Aw, damn it! My temper on the court was increasingly an issue.
 
-## S20 E1 — 1. LASIK Instinct
+## S20 E1 — LASIK Instinct
 URL: https://watchwiththekids.com/ep/family-guy/2001.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9094,7 +9094,7 @@ Watch for:
   - [Caution] [crying.] Ow. Ow Oh, my God, it's a kid! It's Doug! Nice hit, bitch.
   - [Caution] So, Saturday night? - What a dick.
 
-## S20 E2 — 2. Rock Hard
+## S20 E2 — Rock Hard
 URL: https://watchwiththekids.com/ep/family-guy/2002.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9128,7 +9128,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] [QUIETLY.] : That's my fun little way of sayin' I'm a slut.
 
-## S20 E3 — 3. Must Love Dogs
+## S20 E3 — Must Love Dogs
 URL: https://watchwiththekids.com/ep/family-guy/2003.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9147,7 +9147,7 @@ Watch for:
   - [Mild] Come on in, we'll have however many beers it takes to forget how depressing the shelter was.
   - [Mild] I'll go get those aforementioned beers.
 
-## S20 E4 — 4. 80's Guy
+## S20 E4 — 80's Guy
 URL: https://watchwiththekids.com/ep/family-guy/2004.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9167,7 +9167,7 @@ Watch for:
   - [Mild] “and rose-flavored wine gums”
   - [Mild] “and Connor just wasted everyone's time!”
 
-## S20 E5 — 5. Brief Encounter
+## S20 E5 — Brief Encounter
 URL: https://watchwiththekids.com/ep/family-guy/2005.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9195,7 +9195,7 @@ Watch for:
   - [Mild] Doing laundry and drinking beer? Quahog welcomes Duds & Suds, a new laundromat that serves beer.
   - [Mild] Boy, we all get a Doug, huh? Yeah, Tyler's Doug is a drunk stepdad.
 
-## S20 E6 — 6. Cootie & The Blowhard
+## S20 E6 — Cootie & The Blowhard
 URL: https://watchwiththekids.com/ep/family-guy/2006.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9220,7 +9220,7 @@ Watch for:
   - [Caution] And no, Rupert, getting high is not getting sober, I don't care if you found the one AA group in town that tells you otherwise.
   - [Mild] Stewie, aren't you being a little dramatic about this cooties thing? Brian, this is the Flintstones cocktail I have to take every day.
 
-## S20 E7 — 7. Peterschmidt Manor
+## S20 E7 — Peterschmidt Manor
 URL: https://watchwiththekids.com/ep/family-guy/2007.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9242,7 +9242,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Wow! So am I also gonna be a billionaire making websites? No, but you'll use his site to post pictures of wine and passive-aggressively body-shame other moms.
 
-## S20 E8 — 8. The Birthday Bootlegger
+## S20 E8 — The Birthday Bootlegger
 URL: https://watchwiththekids.com/ep/family-guy/2008.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9257,7 +9257,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] What have you learned from this experience? That your mother's a whore.
 
-## S20 E9 — 9. The Fatman Always Rings Twice
+## S20 E9 — The Fatman Always Rings Twice
 URL: https://watchwiththekids.com/ep/family-guy/2009.html
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9282,7 +9282,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] And of course, there was racism.
 
-## S20 E10 — 10. Christmas Crime
+## S20 E10 — Christmas Crime
 URL: https://watchwiththekids.com/ep/family-guy/2010.html
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9306,7 +9306,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] He's not Australian! He name-checks Vancouver in the song! A guy from Australia can't know where Vancouver is? Feels kind of racist.
 
-## S20 E11 — 11. Mister Act
+## S20 E11 — Mister Act
 URL: https://watchwiththekids.com/ep/family-guy/2011.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9322,7 +9322,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] How's that cheap wine headache? Go roll in dirt, you pig.
 
-## S20 E12 — 12. The Lois Quagmire
+## S20 E12 — The Lois Quagmire
 URL: https://watchwiththekids.com/ep/family-guy/2012.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9347,7 +9347,7 @@ Watch for:
   - [Mild] What is this, Mutters Against Drunk Driving? Lois, have a drink.
   - [Mild] Lois, where did you find him? Oh, you think he's so wonderful? Last night he screwed the cocktail waitress.
 
-## S20 E13 — 13. Lawyer Guy
+## S20 E13 — Lawyer Guy
 URL: https://watchwiththekids.com/ep/family-guy/2013.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9366,7 +9366,7 @@ Watch for:
   - [Mild] “for the Corona beer company,”
   - [Mild] Quagmire, you like a beer from time to time.
 
-## S20 E14 — 14. HBO-No
+## S20 E14 — HBO-No
 URL: https://watchwiththekids.com/ep/family-guy/2014.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9381,7 +9381,7 @@ Watch for:
   - [Mild] Hey, whose leg do you have to hump to get a Dornish wine around here? What's Uncle Doggian doing here? - I don't like him.
   - [Mild] It's not just outdoor fireplace wine shops and the opening credits bridge that's actually in Big Sur.
 
-## S20 E15 — 15. Hard Boiled Meg
+## S20 E15 — Hard Boiled Meg
 URL: https://watchwiththekids.com/ep/family-guy/2015.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9395,7 +9395,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Uh, hey, Kel, how's that cocktail coming along? Listen, Meg, I've got a big job I've been thinking about.
 
-## S20 E16 — 16. Prescription Heroine
+## S20 E16 — Prescription Heroine
 URL: https://watchwiththekids.com/ep/family-guy/2016.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9412,7 +9412,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] You know, if it's good with water, it'd be even better with wine, huh? Just like Jesus says.
 
-## S20 E17 — 17. All About Alana
+## S20 E17 — All About Alana
 URL: https://watchwiththekids.com/ep/family-guy/2017.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9425,7 +9425,7 @@ Watch for:
   - [Too much] Boy, my morning jog was murder.
   - [Too much] This woman tried to take over my life and murder me and Oh, my God, you're the guitar priest.
 
-## S20 E18 — 18. Girlfriend, Eh?
+## S20 E18 — Girlfriend, Eh?
 URL: https://watchwiththekids.com/ep/family-guy/2018.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9450,7 +9450,7 @@ Watch for:
   - [Mild] Less filling! The Great American Beer Conflict.
   - [Mild] A nation divided over which was the least trashy quality of a crappy, domestic river beer.
 
-## S20 E19 — 19. First Blood
+## S20 E19 — First Blood
 URL: https://watchwiththekids.com/ep/family-guy/2019.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9477,7 +9477,7 @@ Watch for:
   - [Mild] Once upon a time, Frasier and Niles were invited to a dinner party and both brought the same wine.
   - [Mild] “a morning-after cocktail”
 
-## S20 E20 — 20. Jersey Bore
+## S20 E20 — Jersey Bore
 URL: https://watchwiththekids.com/ep/family-guy/2020.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9506,7 +9506,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] How come the bodies are all so fat? They're full of water, Peter.
 
-## S21 E1 — 1. Oscars Guy
+## S21 E1 — Oscars Guy
 URL: https://watchwiththekids.com/ep/family-guy/2101.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9528,7 +9528,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] fat girl who went missing?
 
-## S21 E2 — 2. Bend or Blockbuster
+## S21 E2 — Bend or Blockbuster
 URL: https://watchwiththekids.com/ep/family-guy/2102.html
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9548,7 +9548,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] No, your mom's a whore.
 
-## S21 E3 — 3. A Wife-Changing Experience
+## S21 E3 — A Wife-Changing Experience
 URL: https://watchwiththekids.com/ep/family-guy/2103.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9570,7 +9570,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] Look, this is gonna sound racist, but
 
-## S21 E4 — 4. The Munchurian Candidate
+## S21 E4 — The Munchurian Candidate
 URL: https://watchwiththekids.com/ep/family-guy/2104.html
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9594,7 +9594,7 @@ Watch for:
   - [Mild] And I can drink wine and scroll
   - [Mild] Peter, I'm gonna open a bottle of wine.
 
-## S21 E5 — 5. Unzipped Code
+## S21 E5 — Unzipped Code
 URL: https://watchwiththekids.com/ep/family-guy/2105.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9621,7 +9621,7 @@ Watch for:
   - [Mild] someone wasted your time,
   - [Mild] part to help make this beer.
 
-## S21 E6 — 6. Happy Holo-ween
+## S21 E6 — Happy Holo-ween
 URL: https://watchwiththekids.com/ep/family-guy/2106.html
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9640,7 +9640,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] Don't be racist with your costume ♪
 
-## S21 E7 — 7. The Stewaway
+## S21 E7 — The Stewaway
 URL: https://watchwiththekids.com/ep/family-guy/2107.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9653,7 +9653,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] and drank some wine,
 
-## S21 E8 — 8. Get Stewie
+## S21 E8 — Get Stewie
 URL: https://watchwiththekids.com/ep/family-guy/2108.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9666,7 +9666,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] Peter needs to lose weight,
 
-## S21 E9 — 9. Carny Knowledge
+## S21 E9 — Carny Knowledge
 URL: https://watchwiththekids.com/ep/family-guy/2109.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9685,7 +9685,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] Taking a whore bath
 
-## S21 E10 — 10. The Candidate
+## S21 E10 — The Candidate
 URL: https://watchwiththekids.com/ep/family-guy/2110.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9712,7 +9712,7 @@ Watch for:
   - [Mild] What do you mean "wine doesn't count"?
   - [Mild] Yes, rosé is wine.
 
-## S21 E11 — 11. Love Story Guy
+## S21 E11 — Love Story Guy
 URL: https://watchwiththekids.com/ep/family-guy/2111.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9733,7 +9733,7 @@ Watch for:
   - [Mild] Why don't you sit down and drink beer
   - [Mild] We had booze, sexy music,
 
-## S21 E12 — 12. Old West
+## S21 E12 — Old West
 URL: https://watchwiththekids.com/ep/family-guy/2112.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9762,7 +9762,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] handsy when you're drunk,
 
-## S21 E13 — 13. Single White Dad
+## S21 E13 — Single White Dad
 URL: https://watchwiththekids.com/ep/family-guy/2113.html
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9788,7 +9788,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] Or the children slinging racist
 
-## S21 E14 — 14. White Meg Can't Jump
+## S21 E14 — White Meg Can't Jump
 URL: https://watchwiththekids.com/ep/family-guy/2114.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9814,7 +9814,7 @@ Watch for:
   - [Mild] Ow! What the hell, Stewie?
   - [Mild] you tubby piece of crap.
 
-## S21 E15 — 15. Adoptation
+## S21 E15 — Adoptation
 URL: https://watchwiththekids.com/ep/family-guy/2115.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9834,7 +9834,7 @@ Watch for:
   - [Mild] Damn it, Chris! Now that's
   - [Mild] Lois, what the hell are you doing?
 
-## S21 E16 — 16. The Bird Reich
+## S21 E16 — The Bird Reich
 URL: https://watchwiththekids.com/ep/family-guy/2116.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9862,7 +9862,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] and a bottle of wine today,
 
-## S21 E17 — 17. A Bottle Episode
+## S21 E17 — A Bottle Episode
 URL: https://watchwiththekids.com/ep/family-guy/2117.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -9880,7 +9880,7 @@ Watch for:
   - [Mild] You're damn right I did!
   - [Mild] You think I give a crap
 
-## S21 E18 — 18. Vat Man and Rob 'Em
+## S21 E18 — Vat Man and Rob 'Em
 URL: https://watchwiththekids.com/ep/family-guy/2118.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9893,7 +9893,7 @@ Watch for:
   - [Mild] that hold all of the brewery's beer.
   - [Mild] $20 per beer?
 
-## S21 E19 — 19. From Russia With Love
+## S21 E19 — From Russia With Love
 URL: https://watchwiththekids.com/ep/family-guy/2119.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9918,7 +9918,7 @@ Watch for:
   - [Mild] that says, "Eto vodka-chas gde-to."
   - [Mild] it's "wine o'clock,"
 
-## S21 E20 — 20. Adult Education
+## S21 E20 — Adult Education
 URL: https://watchwiththekids.com/ep/family-guy/2120.html
 Scores: violence 2/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -9935,7 +9935,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Already drunk at 9:15 ♪
 
-## S22 E1 — 1. Fertilized Megg
+## S22 E1 — Fertilized Megg
 URL: https://watchwiththekids.com/ep/family-guy/2201.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -9956,7 +9956,7 @@ Watch for:
   - [Mild] novelty wine glasses
   - [Mild] an entire bottle of wine.
 
-## S22 E2 — 2. Supermarket Pete
+## S22 E2 — Supermarket Pete
 URL: https://watchwiththekids.com/ep/family-guy/2202.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -9984,7 +9984,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] No, the Drunken Clam.
 
-## S22 E3 — 3. A Stache From the Past
+## S22 E3 — A Stache From the Past
 URL: https://watchwiththekids.com/ep/family-guy/2203.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10002,7 +10002,7 @@ Watch for:
   - [Too much] are just racist old packaging
   - [Too much] Wow, that's very racist.
 
-## S22 E4 — 4. Old World Harm
+## S22 E4 — Old World Harm
 URL: https://watchwiththekids.com/ep/family-guy/2204.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10033,7 +10033,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] mutual love of cocaine
 
-## S22 E5 — 5. Baby, It's Cold Inside
+## S22 E5 — Baby, It's Cold Inside
 URL: https://watchwiththekids.com/ep/family-guy/2205.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10051,7 +10051,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Are you Are you drunk?
 
-## S22 E6 — 6. Boston Stewie
+## S22 E6 — Boston Stewie
 URL: https://watchwiththekids.com/ep/family-guy/2206.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -10073,7 +10073,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] He'll sit on anything. He's a sit slut.
 
-## S22 E7 — 7. Snap(ple) Decision
+## S22 E7 — Snap(ple) Decision
 URL: https://watchwiththekids.com/ep/family-guy/2207.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -10085,7 +10085,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] You were too drunk to remember?
 
-## S22 E8 — 8. Baking Sad
+## S22 E8 — Baking Sad
 URL: https://watchwiththekids.com/ep/family-guy/2208.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10105,7 +10105,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] offensive Chinese accent,
 
-## S22 E9 — 9. The Return of the King (of Queens)
+## S22 E9 — The Return of the King (of Queens)
 URL: https://watchwiththekids.com/ep/family-guy/2209.html
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10120,7 +10120,7 @@ Watch for:
   - [Too much] aftermath of a murder.
   - [Caution] And last week, there was blood.
 
-## S22 E10 — 10. Cabin Pressure
+## S22 E10 — Cabin Pressure
 URL: https://watchwiththekids.com/ep/family-guy/2210.html
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10138,7 +10138,7 @@ Watch for:
   - [Mild] What the hell is happening?!
   - [Mild] Damn it, Peter, focus.
 
-## S22 E11 — 11. Teacher's Heavy Pet
+## S22 E11 — Teacher's Heavy Pet
 URL: https://watchwiththekids.com/ep/family-guy/2211.html
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -10165,7 +10165,7 @@ Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] The corpse of the truth.
 
-## S22 E12 — 12. Take This Job and Love It
+## S22 E12 — Take This Job and Love It
 URL: https://watchwiththekids.com/ep/family-guy/2212.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10190,7 +10190,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] racist uncle hates you.
 
-## S22 E13 — 13. Lifeguard Meg
+## S22 E13 — Lifeguard Meg
 URL: https://watchwiththekids.com/ep/family-guy/2213.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -10202,7 +10202,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] beers to get there, Meg.
 
-## S22 E14 — 14. Fat Actor
+## S22 E14 — Fat Actor
 URL: https://watchwiththekids.com/ep/family-guy/2214.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10216,7 +10216,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Too much] my horrific cocaine habit
 
-## S22 E15 — 15. Faith No More
+## S22 E15 — Faith No More
 URL: https://watchwiththekids.com/ep/family-guy/2215.html
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10242,7 +10242,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] I turn this water into wine.
 
-## S22 E90 — 90. Peter, Peter, Pumpkin Cheater
+## S22 E90 — Peter, Peter, Pumpkin Cheater
 URL: https://watchwiththekids.com/ep/family-guy/2290.html
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10272,7 +10272,7 @@ Watch for:
   - [Caution] Thanks. I just smoked a joint,
   - [Mild] who's an angry drunk
 
-## S23 E1 — 1. Fat Gun
+## S23 E1 — Fat Gun
 URL: https://watchwiththekids.com/ep/family-guy/2301.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10298,7 +10298,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] It looks easy, and I can do it drunk.
 
-## S23 E2 — 2. Live, Laugh, Love
+## S23 E2 — Live, Laugh, Love
 URL: https://watchwiththekids.com/ep/family-guy/2302.html
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10318,7 +10318,7 @@ Watch for:
   - [Mild] of crap that drink coffee,
   - [Mild] [MEG] Change the damn station!
 
-## S23 E3 — 3. Drunk With Power
+## S23 E3 — Drunk With Power
 URL: https://watchwiththekids.com/ep/family-guy/2303.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10343,7 +10343,7 @@ Watch for:
   - [Mild] and getting blackout drunk 24/7,
   - [Mild] Thanks, booze.
 
-## S23 E4 — 4. Lois C.K.
+## S23 E4 — Lois C.K.
 URL: https://watchwiththekids.com/ep/family-guy/2304.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10373,7 +10373,7 @@ Watch for:
   - [Mild] told me to get as drunk as I want
   - [Mild] beer bottles to throw
 
-## S23 E5 — 5. The Chicken or the Meg
+## S23 E5 — The Chicken or the Meg
 URL: https://watchwiththekids.com/ep/family-guy/2305.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10394,7 +10394,7 @@ Watch for:
 - Racism & slurs — 1 moment(s)
   - [Too much] racist or homophobic slurs.
 
-## S23 E6 — 6. Dog Is My Co-Pilot
+## S23 E6 — Dog Is My Co-Pilot
 URL: https://watchwiththekids.com/ep/family-guy/2306.html
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10413,7 +10413,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] hops for beer-making,
 
-## S23 E7 — 7. Pitch Imperfect
+## S23 E7 — Pitch Imperfect
 URL: https://watchwiththekids.com/ep/family-guy/2307.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10434,7 +10434,7 @@ Watch for:
   - [Mild] euthanasia cocktail.
   - [Mild] name-brand euthanasia cocktails,
 
-## S23 E8 — 8. Hard Times at Adam West High
+## S23 E8 — Hard Times at Adam West High
 URL: https://watchwiththekids.com/ep/family-guy/2308.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10459,7 +10459,7 @@ Watch for:
   - [Mild] Holy crap! What happened?
   - [Mild] What the hell are you doing?
 
-## S23 E9 — 9. The Elle Word
+## S23 E9 — The Elle Word
 URL: https://watchwiththekids.com/ep/family-guy/2309.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10485,7 +10485,7 @@ Watch for:
   - [Mild] Holy crap! What happened?
   - [Mild] What the hell are you doing?
 
-## S23 E10 — 10. A Real Who's Hulu
+## S23 E10 — A Real Who's Hulu
 URL: https://watchwiththekids.com/ep/family-guy/2310.html
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10510,7 +10510,7 @@ Watch for:
   - [Caution] about how to get blood stains
   - [Caution] Didn't you see the blood on his shirt?
 
-## S23 E11 — 11. China Doll
+## S23 E11 — China Doll
 URL: https://watchwiththekids.com/ep/family-guy/2311.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -10525,7 +10525,7 @@ Watch for:
   - [Too much] it's racist, so how could
   - [Too much] of an obscure regional racism.
 
-## S23 E12 — 12. One Foot in Front of the Mother
+## S23 E12 — One Foot in Front of the Mother
 URL: https://watchwiththekids.com/ep/family-guy/2312.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10546,7 +10546,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] Well, he needs to lose weight.
 
-## S23 E13 — 13. The Fat Lotus
+## S23 E13 — The Fat Lotus
 URL: https://watchwiththekids.com/ep/family-guy/2313.html
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10561,7 +10561,7 @@ Watch for:
   - [Mild] Caught shoplifting booze and a T-shirt?
   - [Mild] wasted when we hang out.
 
-## S23 E14 — 14. Cool Hand Lois
+## S23 E14 — Cool Hand Lois
 URL: https://watchwiththekids.com/ep/family-guy/2314.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10586,7 +10586,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] glass of wine or something?
 
-## S23 E15 — 15. Martian Meg
+## S23 E15 — Martian Meg
 URL: https://watchwiththekids.com/ep/family-guy/2315.html
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10601,7 +10601,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] and they're a home-wrecking slut.
 
-## S23 E16 — 16. Row v. Wade
+## S23 E16 — Row v. Wade
 URL: https://watchwiththekids.com/ep/family-guy/2316.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10617,7 +10617,7 @@ Watch for:
   - [Mild] Since the beer's expired,
   - [Mild] dust-covered can of beer.
 
-## S23 E17 — 17. Karenheit 451
+## S23 E17 — Karenheit 451
 URL: https://watchwiththekids.com/ep/family-guy/2317.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10650,7 +10650,7 @@ Watch for:
   - [Too much] We don't want to hear your racist book!
   - [Too much] Let him read his racist book!
 
-## S23 E18 — 18. Twain's World
+## S23 E18 — Twain's World
 URL: https://watchwiththekids.com/ep/family-guy/2318.html
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -10686,7 +10686,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] mom's a whore, friends betray him,
 
-## S24 E1 — 1. The Edible Arrangement
+## S24 E1 — The Edible Arrangement
 URL: https://watchwiththekids.com/ep/family-guy/2401.html
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -10696,7 +10696,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] This is like The Hangover
 
-## S24 E2 — 2. Pumpkin Spice Girls
+## S24 E2 — Pumpkin Spice Girls
 URL: https://watchwiththekids.com/ep/family-guy/2402.html
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10718,7 +10718,7 @@ Watch for:
   - [Caution] Nice! Up top, bitch.
   - [Mild] damn free libraries everywhere,
 
-## S24 E3 — 3. Man-Fest Destiny
+## S24 E3 — Man-Fest Destiny
 URL: https://watchwiththekids.com/ep/family-guy/2403.html
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
@@ -10737,7 +10737,7 @@ Watch for:
   - [Mild] because a drunk guy at a bar said to.
   - [Mild] of music, dance and flavored vodka.
 
-## S24 E4 — 4. Bringing Up Brady
+## S24 E4 — Bringing Up Brady
 URL: https://watchwiththekids.com/ep/family-guy/2404.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -10761,7 +10761,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] word "whore" on my chest.
 
-## S24 E5 — 5. Dear Francis
+## S24 E5 — Dear Francis
 URL: https://watchwiththekids.com/ep/family-guy/2405.html
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10779,7 +10779,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] drunk, backwards-hat sex last night,
 
-## S24 E6 — 6. Viewer DMs
+## S24 E6 — Viewer DMs
 URL: https://watchwiththekids.com/ep/family-guy/2406.html
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10793,7 +10793,7 @@ Watch for:
   - [Caution] He's so stoned.
   - [Mild] [GIGGLES] Silly beer.
 
-## S24 E7 — 7. Scent of a Woman
+## S24 E7 — Scent of a Woman
 URL: https://watchwiththekids.com/ep/family-guy/2407.html
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -10823,7 +10823,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] I'm wasted by the way ♪
 
-## S24 E8 — 8. Play Time
+## S24 E8 — Play Time
 URL: https://watchwiththekids.com/ep/family-guy/2408.html
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10858,7 +10858,7 @@ Watch for:
   - [Too much] This play about racism is about
   - [Too much] God, this country is racist.
 
-## S24 E9 — 9. Phony Montana
+## S24 E9 — Phony Montana
 URL: https://watchwiththekids.com/ep/family-guy/2409.html
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10881,7 +10881,7 @@ Watch for:
   - [Mild] Oh, crap, man. It's Carmen.
   - [Mild] wait! What the hell was that?
 
-## S24 E10 — 10. A Few More Ways to Die in the West
+## S24 E10 — A Few More Ways to Die in the West
 URL: https://watchwiththekids.com/ep/family-guy/2410.html
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -10903,7 +10903,7 @@ Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] drunk driving desks.
 
-## S24 E11 — 11. Tall Stewie
+## S24 E11 — Tall Stewie
 URL: https://watchwiththekids.com/ep/family-guy/2411.html
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10931,7 +10931,7 @@ Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] Big, fat ass.
 
-## S24 E12 — 12. Lower G.I. Joe
+## S24 E12 — Lower G.I. Joe
 URL: https://watchwiththekids.com/ep/family-guy/2412.html
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
@@ -10958,7 +10958,7 @@ Watch for:
   - [Mild] some tasty colonoscopy prep cocktails.
   - [Mild] colonoscopy prep cocktails.
 
-## S24 E13 — 13. Friend's Best Man
+## S24 E13 — Friend's Best Man
 URL: https://watchwiththekids.com/ep/family-guy/2413.html
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
@@ -10986,7 +10986,7 @@ Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] I feel like a cheap whore.
 
-## S24 E14 — 14. Let the Goodtimes Walk
+## S24 E14 — Let the Goodtimes Walk
 URL: https://watchwiththekids.com/ep/family-guy/2414.html
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
@@ -11006,7 +11006,7 @@ Watch for:
   - [Mild] [BOTH] Beer!
   - [Mild] or is it like champagne and
 
-## S24 E15 — 15. High School History
+## S24 E15 — High School History
 URL: https://watchwiththekids.com/ep/family-guy/2415.html
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
