@@ -1,18 +1,18 @@
 # The Office — parent guide (186 episodes)
 
-Source: https://watchwiththekids.com/the-office.html
+Source: https://watchwiththekids.com/the-office
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 67 mild (1–2), 71 caution (3), 48 too much (4–5).
 
 ## S1 E1 — Pilot
-URL: https://watchwiththekids.com/ep/the-office/0101.html
+URL: https://watchwiththekids.com/ep/the-office/0101
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 1 moment(s)
   - [Caution] Michael: “Because downsizing is a bitch.”
 
 ## S1 E2 — Diversity Day
-URL: https://watchwiththekids.com/ep/the-office/0102.html
+URL: https://watchwiththekids.com/ep/the-office/0102
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -24,7 +24,7 @@ Watch for:
   - [Too much] Michael: “Abraham Lincoln once said that, "If you're a racist, I will attack you with the North." And those are the principles that I carry with me in the workplace.”
 
 ## S1 E3 — Health Care
-URL: https://watchwiththekids.com/ep/the-office/0103.html
+URL: https://watchwiththekids.com/ep/the-office/0103
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -32,7 +32,7 @@ Watch for:
   - [Too much] Dwight: “Number one, inverted penis.”
 
 ## S1 E4 — The Alliance
-URL: https://watchwiththekids.com/ep/the-office/0104.html
+URL: https://watchwiththekids.com/ep/the-office/0104
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
@@ -43,7 +43,7 @@ Watch for:
   - [Mild] Roy: “[yelling] What the hell is this? What are you trying to cop a feel or something? Huh Halpert?”
 
 ## S1 E5 — Basketball
-URL: https://watchwiththekids.com/ep/the-office/0105.html
+URL: https://watchwiththekids.com/ep/the-office/0105
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -57,7 +57,7 @@ Watch for:
   - [Mild] Michael: “This is a damn shame, but we're like a family here and that just, that won't fly.”
 
 ## S1 E6 — Hot Girl
-URL: https://watchwiththekids.com/ep/the-office/0106.html
+URL: https://watchwiththekids.com/ep/the-office/0106
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -72,7 +72,7 @@ Watch for:
   - [Too much] Michael: “You hear stories about Dunder Mifflin in the eighties before everybody knew how bad cocaine was.”
 
 ## S2 E1 — The Dundies
-URL: https://watchwiththekids.com/ep/the-office/0201.html
+URL: https://watchwiththekids.com/ep/the-office/0201
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -88,7 +88,7 @@ Watch for:
   - [Mild] Jim: “Pam: What? Jim: I don't know, what? Jim: Oh my God! You are so drunk!”
 
 ## S2 E2 — Sexual Harassment
-URL: https://watchwiththekids.com/ep/the-office/0202.html
+URL: https://watchwiththekids.com/ep/the-office/0202
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -110,14 +110,14 @@ Watch for:
   - [Mild] Ryan: “You a big William Hung fan? Todd Packer: Why does everyone ask me that? Who the hell is that?”
 
 ## S2 E3 — Office Olympics
-URL: https://watchwiththekids.com/ep/the-office/0203.html
+URL: https://watchwiththekids.com/ep/the-office/0203
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] Dwight: “Actually, I do own property. My grandfather left me a 60 acre working beet farm. I run it with my cousin, Mose. We sell beets to local stores and restaurants. It's a nice little farm. Sometimes teenagers use it for sex.”
 
 ## S2 E4 — The Fire
-URL: https://watchwiththekids.com/ep/the-office/0204.html
+URL: https://watchwiththekids.com/ep/the-office/0204
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -128,7 +128,7 @@ Watch for:
   - [Caution] Michael: “[to Ryan] [makes clicking noises like shooting a gun] Hey!”
 
 ## S2 E5 — Halloween
-URL: https://watchwiththekids.com/ep/the-office/0205.html
+URL: https://watchwiththekids.com/ep/the-office/0205
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -139,7 +139,7 @@ Watch for:
   - [Mild] Dwight: “Wait, what are you again? Oh, right... Three-hole PUNCH! [punches Jim in the chest and cracks up laughing]”
 
 ## S2 E6 — The Fight
-URL: https://watchwiththekids.com/ep/the-office/0206.html
+URL: https://watchwiththekids.com/ep/the-office/0206
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 9 moment(s)
@@ -154,7 +154,7 @@ Watch for:
   - [Mild] Michael: “Look, if we were in a bar right now, there would be two punches: me punching you and you hitting the floor.”
 
 ## S2 E7 — The Client
-URL: https://watchwiththekids.com/ep/the-office/0207.html
+URL: https://watchwiththekids.com/ep/the-office/0207
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -169,7 +169,7 @@ Watch for:
   - [Mild] Michael: “[under his breath] Kiss ass. Ok, probably going to go late tonight. Burning the midnight tequila. So, I think you could all just take off now.”
 
 ## S2 E8 — Performance Review
-URL: https://watchwiththekids.com/ep/the-office/0208.html
+URL: https://watchwiththekids.com/ep/the-office/0208
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -182,7 +182,7 @@ Watch for:
   - [Mild] Dwight: “No, I went out and got drunk with my laser tag team last night. Crap! I never go out on a Thursday night; what the hell was I thinking?”
 
 ## S2 E9 — E-mail Surveillance
-URL: https://watchwiththekids.com/ep/the-office/0209.html
+URL: https://watchwiththekids.com/ep/the-office/0209
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -196,7 +196,7 @@ Watch for:
   - [Mild] Angela: “Jesus drank wine.”
 
 ## S2 E10 — Christmas Party
-URL: https://watchwiththekids.com/ep/the-office/0210.html
+URL: https://watchwiththekids.com/ep/the-office/0210
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -208,7 +208,7 @@ Watch for:
   - [Mild] Michael: “Secondly, you can get drunk and no one can say anything.”
 
 ## S2 E11 — Booze Cruise
-URL: https://watchwiththekids.com/ep/the-office/0211.html
+URL: https://watchwiththekids.com/ep/the-office/0211
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -217,7 +217,7 @@ Watch for:
   - [Mild] Dwight: “[singing] What do you do with a drunken sailor?”
 
 ## S2 E12 — The Injury
-URL: https://watchwiththekids.com/ep/the-office/0212.html
+URL: https://watchwiththekids.com/ep/the-office/0212
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -227,7 +227,7 @@ Watch for:
   - [Caution] Michael: “The rules of shotgun are very simple and very clear.”
 
 ## S2 E13 — The Secret
-URL: https://watchwiththekids.com/ep/the-office/0213.html
+URL: https://watchwiththekids.com/ep/the-office/0213
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -244,7 +244,7 @@ Watch for:
   - [Mild] Jim: “Remember that thing I told you on the booze cruise about Pam? That... was... personal so if we can just keep that between you and me. That would be great.”
 
 ## S2 E14 — The Carpet
-URL: https://watchwiththekids.com/ep/the-office/0214.html
+URL: https://watchwiththekids.com/ep/the-office/0214
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -253,7 +253,7 @@ Watch for:
   - [Caution] Kelly: “[to Jim] Oh, long-term, definitely. Fall in love, have babies, spend every second together... but don't tell him that, okay? Just tell him I'm, like, up for anything. I mean, I'm not a slut, but who knows?”
 
 ## S2 E15 — Boys and Girls
-URL: https://watchwiththekids.com/ep/the-office/0215.html
+URL: https://watchwiththekids.com/ep/the-office/0215
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -269,7 +269,7 @@ Watch for:
   - [Caution] Angela: “And, apparently, judging from her outfit, Jan aspires to be a whore.”
 
 ## S2 E16 — Valentine's Day
-URL: https://watchwiththekids.com/ep/the-office/0216.html
+URL: https://watchwiththekids.com/ep/the-office/0216
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -286,7 +286,7 @@ Watch for:
   - [Caution] Craig: “She ain't my boss dude. I don't work for that bitch.”
 
 ## S2 E17 — Dwight's Speech
-URL: https://watchwiththekids.com/ep/the-office/0217.html
+URL: https://watchwiththekids.com/ep/the-office/0217
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -300,17 +300,17 @@ Watch for:
   - [Caution] Dwight: “[bangs fists] Blood alone moves the wheels of history!”
 
 ## S2 E18 — Take Your Daughter to Work Day
-URL: https://watchwiththekids.com/ep/the-office/0218.html
+URL: https://watchwiththekids.com/ep/the-office/0218
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for: nothing flagged.
 
 ## S2 E19 — Michael's Birthday
-URL: https://watchwiththekids.com/ep/the-office/0219.html
+URL: https://watchwiththekids.com/ep/the-office/0219
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for: nothing flagged.
 
 ## S2 E20 — Drug Testing
-URL: https://watchwiththekids.com/ep/the-office/0220.html
+URL: https://watchwiththekids.com/ep/the-office/0220
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -325,7 +325,7 @@ Watch for:
   - [Mild] Stanley: “No, I don't. I have a glass of red wine with dinner about once a week. For the antioxidants.”
 
 ## S2 E21 — Conflict Resolution
-URL: https://watchwiththekids.com/ep/the-office/0221.html
+URL: https://watchwiththekids.com/ep/the-office/0221
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -337,7 +337,7 @@ Watch for:
   - [Caution] Dwight: “Last year, I came to work with my spud gun in a duffel bag.”
 
 ## S2 E22 — Casino Night
-URL: https://watchwiththekids.com/ep/the-office/0222.html
+URL: https://watchwiththekids.com/ep/the-office/0222
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -349,7 +349,7 @@ Watch for:
   - [Mild] Ryan: “One beer and one Seven and Seven with eight maraschino cherries, sugar on the rim, blended if you can. Jim: So, that's still going on, huh? You and Kelly?”
 
 ## S3 E1 — Gay Witch Hunt
-URL: https://watchwiththekids.com/ep/the-office/0301.html
+URL: https://watchwiththekids.com/ep/the-office/0301
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -368,7 +368,7 @@ Watch for:
   - [Too much] Michael: “We're all homos!”
 
 ## S3 E2 — The Convention
-URL: https://watchwiththekids.com/ep/the-office/0302.html
+URL: https://watchwiththekids.com/ep/the-office/0302
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -389,7 +389,7 @@ Watch for:
   - [Caution] Angela: “In the Martin family, we like to say, "Looks like someone took the slow train from Philly." That's code for "check out the slut." What is... why are there flies in here?”
 
 ## S3 E3 — The Coup
-URL: https://watchwiththekids.com/ep/the-office/0303.html
+URL: https://watchwiththekids.com/ep/the-office/0303
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -405,7 +405,7 @@ Watch for:
   - [Caution] Michael: “Hug it out, bitch.”
 
 ## S3 E4 — Grief Counseling
-URL: https://watchwiththekids.com/ep/the-office/0304.html
+URL: https://watchwiththekids.com/ep/the-office/0304
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -415,7 +415,7 @@ Watch for:
   - [Mild] Creed: “He was drunk as a skunk, he was flying down Route 6. He slides under an 18 wheeler. Pop. It snaps right off.”
 
 ## S3 E5 — Initiation
-URL: https://watchwiththekids.com/ep/the-office/0305.html
+URL: https://watchwiththekids.com/ep/the-office/0305
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -427,7 +427,7 @@ Watch for:
   - [Mild] Dwight: “[Dwight chokes as Ryan downs a beer in one drink] Temp! Temp! Temp! Temp! Ryan! Ryan! Ryan! Ryan! Yes! Just think, that temp agency could have sent you anywhere. Ryan: I think about that all the time.”
 
 ## S3 E6 — Diwali
-URL: https://watchwiththekids.com/ep/the-office/0306.html
+URL: https://watchwiththekids.com/ep/the-office/0306
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -438,7 +438,7 @@ Watch for:
   - [Mild] Jim: “I'm a drunk driver.”
 
 ## S3 E7 — Branch Closing
-URL: https://watchwiththekids.com/ep/the-office/0307.html
+URL: https://watchwiththekids.com/ep/the-office/0307
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -447,7 +447,7 @@ Watch for:
   - [Too much] Kelly: “If I get to stay and Ryan is laid off, I will kill myself. Like Romeo and Juliet, the Claire Danes one.”
 
 ## S3 E8 — The Merger
-URL: https://watchwiththekids.com/ep/the-office/0308.html
+URL: https://watchwiththekids.com/ep/the-office/0308
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -460,7 +460,7 @@ Watch for:
   - [Mild] Meredith: “Hey, champagne.”
 
 ## S3 E9 — The Convict
-URL: https://watchwiththekids.com/ep/the-office/0309.html
+URL: https://watchwiththekids.com/ep/the-office/0309
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -476,7 +476,7 @@ Watch for:
   - [Too much] Kevin: “Wait, why am I a racist?”
 
 ## S3 E10 — A Benihana Christmas
-URL: https://watchwiththekids.com/ep/the-office/0310.html
+URL: https://watchwiththekids.com/ep/the-office/0310
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -493,7 +493,7 @@ Watch for:
   - [Too much] Michael: “Yeah... well, it's been hard, they're wearing the exact same uniform. And I've been drinking. And you know how all waitresses look alike.”
 
 ## S3 E11 — Back From Vacation
-URL: https://watchwiththekids.com/ep/the-office/0311.html
+URL: https://watchwiththekids.com/ep/the-office/0311
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -501,7 +501,7 @@ Watch for:
   - [Caution] Dwight: “I do not have a knife!”
 
 ## S3 E12 — Traveling Salesmen
-URL: https://watchwiththekids.com/ep/the-office/0312.html
+URL: https://watchwiththekids.com/ep/the-office/0312
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -512,7 +512,7 @@ Watch for:
   - [Caution] Andy: “Caught an eighty-pound shark off of Montauk. It's in the Hamptons. My dad's got a 42-ft Bayliner. Sniped it with a rifle from the crow's nest. Also shot a deer once.”
 
 ## S3 E13 — The Return
-URL: https://watchwiththekids.com/ep/the-office/0313.html
+URL: https://watchwiththekids.com/ep/the-office/0313
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -522,7 +522,7 @@ Watch for:
   - [Mild] Andy: “Gonna go home. Get my beer on. Get my "Lost" on. What are you doing later, wanna hang out?”
 
 ## S3 E14 — Ben Franklin
-URL: https://watchwiththekids.com/ep/the-office/0314.html
+URL: https://watchwiththekids.com/ep/the-office/0314
 Scores: violence 2/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -551,7 +551,7 @@ Watch for:
   - [Caution] Elizabeth: “Oh my God, I would get so fat if I worked here. Pam: Yeah? I lose my appetite all the time. Elizabeth: You could strip you know. Pam: Thanks.”
 
 ## S3 E15 — Phyllis' Wedding
-URL: https://watchwiththekids.com/ep/the-office/0315.html
+URL: https://watchwiththekids.com/ep/the-office/0315
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -560,7 +560,7 @@ Watch for:
   - [Mild] Kelly: “If I was you, I would just like freak out and get really drunk and then tell someone I was pregnant.”
 
 ## S3 E16 — Business School
-URL: https://watchwiththekids.com/ep/the-office/0316.html
+URL: https://watchwiththekids.com/ep/the-office/0316
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -568,7 +568,7 @@ Watch for:
   - [Mild] Michael: “Al-Qaeda, global warming, sex predators...”
 
 ## S3 E17 — Cocktails
-URL: https://watchwiththekids.com/ep/the-office/0317.html
+URL: https://watchwiththekids.com/ep/the-office/0317
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -578,7 +578,7 @@ Watch for:
   - [Mild] Dwight: “The chimney is in decent shape. Not great. I found some termite damage in a crawl space and some structural flaws in the foundation so all in all, it was a pretty fun cocktail party.”
 
 ## S3 E18 — The Negotiation
-URL: https://watchwiththekids.com/ep/the-office/0318.html
+URL: https://watchwiththekids.com/ep/the-office/0318
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -594,7 +594,7 @@ Watch for:
   - [Mild] Jim: “Ok, if you don't want a gift, at least let me buy you a beer, or lunch or something.”
 
 ## S3 E19 — Safety Training
-URL: https://watchwiththekids.com/ep/the-office/0319.html
+URL: https://watchwiththekids.com/ep/the-office/0319
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -616,7 +616,7 @@ Watch for:
   - [Caution] Dwight: “Dwight: Depressed? Isn't that just a fancy word for feeling bummed out? Michael: Dwight, you ignorant slut.”
 
 ## S3 E20 — Product Recall
-URL: https://watchwiththekids.com/ep/the-office/0320.html
+URL: https://watchwiththekids.com/ep/the-office/0320
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -630,7 +630,7 @@ Watch for:
   - [Mild] Andy: “Your call, dude. My girlfriend made an awesome mix. Beer me that disc.”
 
 ## S3 E21 — Women's Appreciation
-URL: https://watchwiththekids.com/ep/the-office/0321.html
+URL: https://watchwiththekids.com/ep/the-office/0321
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -650,12 +650,12 @@ Watch for:
   - [Mild] Jan: “You know whatever. Just let my assistant know if you're coming over so he can get more vodka, OK? Hunter, are you on?”
 
 ## S3 E22 — Beach Games
-URL: https://watchwiththekids.com/ep/the-office/0322.html
+URL: https://watchwiththekids.com/ep/the-office/0322
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for: nothing flagged.
 
 ## S3 E23 — The Job
-URL: https://watchwiththekids.com/ep/the-office/0323.html
+URL: https://watchwiththekids.com/ep/the-office/0323
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -681,7 +681,7 @@ Watch for:
   - [Mild] Dwight: “Michael wasted an enormous amount of the group's time and patience with non-work related ethnic celebrations and parades of soft-minded dogoodedness.”
 
 ## S4 E1 — Fun Run
-URL: https://watchwiththekids.com/ep/the-office/0401.html
+URL: https://watchwiththekids.com/ep/the-office/0401
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -705,7 +705,7 @@ Watch for:
   - [Caution] Angela: “Mix one capsule of omega fatty acid in with her kidney medicine, um...”
 
 ## S4 E2 — Dunder Mifflin Infinity
-URL: https://watchwiththekids.com/ep/the-office/0402.html
+URL: https://watchwiththekids.com/ep/the-office/0402
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -720,7 +720,7 @@ Watch for:
   - [Mild] Ryan: “Michael, I know exactly how much time and man power are wasted in this branch.”
 
 ## S4 E3 — Launch Party
-URL: https://watchwiththekids.com/ep/the-office/0403.html
+URL: https://watchwiththekids.com/ep/the-office/0403
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -731,7 +731,7 @@ Watch for:
   - [Mild] Angela: “Beer, lite beer, streamers, orchids. Better lighting?”
 
 ## S4 E4 — Money
-URL: https://watchwiththekids.com/ep/the-office/0404.html
+URL: https://watchwiththekids.com/ep/the-office/0404
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -755,7 +755,7 @@ Watch for:
   - [Mild] Jim: “Are you a cocktail waitress?”
 
 ## S4 E5 — Local Ad
-URL: https://watchwiththekids.com/ep/the-office/0405.html
+URL: https://watchwiththekids.com/ep/the-office/0405
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -765,7 +765,7 @@ Watch for:
   - [Mild] Jim: “Pam is staying late tonight to uh, achieve her dreams. So I'm pretty proud of her, unfortunately she was my ride home. Meredith: You comin'? Jim: I, ah... Meredith: Piss or get off the pot!”
 
 ## S4 E6 — Branch Wars
-URL: https://watchwiththekids.com/ep/the-office/0406.html
+URL: https://watchwiththekids.com/ep/the-office/0406
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -780,7 +780,7 @@ Watch for:
   - [Too much] Dwight: “And if we have to defend ourselves, I will stab the security guy in the eye with the jumbo chalk.”
 
 ## S4 E7 — Survivor Man
-URL: https://watchwiththekids.com/ep/the-office/0407.html
+URL: https://watchwiththekids.com/ep/the-office/0407
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -793,7 +793,7 @@ Watch for:
   - [Caution] Dwight: “Nothing to worry about. Just using the scope. Safety is... [clicks rifle into safety mode] on.”
 
 ## S4 E8 — The Deposition
-URL: https://watchwiththekids.com/ep/the-office/0408.html
+URL: https://watchwiththekids.com/ep/the-office/0408
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -809,7 +809,7 @@ Watch for:
   - [Caution] Kelly: “Trash talk is hypothetical, like: Your mom is so fat she can eat the internet.”
 
 ## S4 E9 — Dinner Party
-URL: https://watchwiththekids.com/ep/the-office/0409.html
+URL: https://watchwiththekids.com/ep/the-office/0409
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -821,7 +821,7 @@ Watch for:
   - [Mild] Michael: “Ok... alright... here we go. [takes down huge painting behind his seat and puts up a neon beer sign] There. [plugs it in] Oooookay.”
 
 ## S4 E10 — Chair Model
-URL: https://watchwiththekids.com/ep/the-office/0410.html
+URL: https://watchwiththekids.com/ep/the-office/0410
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -836,7 +836,7 @@ Watch for:
   - [Mild] Michael: “We had lots of kids...drinking whiskey and rye, oh why'd you have to go off and die?”
 
 ## S4 E11 — Night Out
-URL: https://watchwiththekids.com/ep/the-office/0411.html
+URL: https://watchwiththekids.com/ep/the-office/0411
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -858,7 +858,7 @@ Watch for:
   - [Mild] Ryan: “With vodka, you're the best.”
 
 ## S4 E12 — Did I Stutter?
-URL: https://watchwiththekids.com/ep/the-office/0412.html
+URL: https://watchwiththekids.com/ep/the-office/0412
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -867,7 +867,7 @@ Watch for:
   - [Caution] Michael: “I knew it. Okay, who we talking about here? Crips? Bloods?”
 
 ## S4 E13 — Job Fair
-URL: https://watchwiththekids.com/ep/the-office/0413.html
+URL: https://watchwiththekids.com/ep/the-office/0413
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -882,7 +882,7 @@ Watch for:
   - [Mild] Pam: “[clink of beer bottles] Beers?”
 
 ## S4 E14 — Goodbye Toby
-URL: https://watchwiththekids.com/ep/the-office/0414.html
+URL: https://watchwiththekids.com/ep/the-office/0414
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -900,7 +900,7 @@ Watch for:
   - [Mild] Holly: “Someday I would love to hear "Beers in Heaven."”
 
 ## S5 E1 — Weight Loss
-URL: https://watchwiththekids.com/ep/the-office/0501.html
+URL: https://watchwiththekids.com/ep/the-office/0501
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -919,7 +919,7 @@ Watch for:
   - [Caution] Michael: “their idea, yes, was to urge you to lose weight, but more importantly what this whole thing is about, this contest is really about being healthy.”
 
 ## S5 E2 — Business Ethics
-URL: https://watchwiththekids.com/ep/the-office/0502.html
+URL: https://watchwiththekids.com/ep/the-office/0502
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -933,7 +933,7 @@ Watch for:
   - [Caution] Michael: “Meredith, why don't you tell Holly... it's not what she thinks. Nothing unethical happened... and that you just like to sleep around.”
 
 ## S5 E3 — Baby Shower
-URL: https://watchwiththekids.com/ep/the-office/0503.html
+URL: https://watchwiththekids.com/ep/the-office/0503
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -944,7 +944,7 @@ Watch for:
   - [Too much] Stanley: “I have swollen ankles, I'm constantly hungry - do you think my nipples don't get sore too?”
 
 ## S5 E4 — Crime Aid
-URL: https://watchwiththekids.com/ep/the-office/0504.html
+URL: https://watchwiththekids.com/ep/the-office/0504
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -959,7 +959,7 @@ Watch for:
   - [Mild] Michael: “Very good, Um, so, Darryl, and the boys in the hood in the warehouse, have graciously donated to, uh, go out for a beer with them right now.”
 
 ## S5 E5 — Employee Transfer
-URL: https://watchwiththekids.com/ep/the-office/0505.html
+URL: https://watchwiththekids.com/ep/the-office/0505
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -968,7 +968,7 @@ Watch for:
   - [Caution] Dwight: “My blood runs Big Red.”
 
 ## S5 E6 — Customer Survey
-URL: https://watchwiththekids.com/ep/the-office/0506.html
+URL: https://watchwiththekids.com/ep/the-office/0506
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -978,7 +978,7 @@ Watch for:
   - [Mild] Alex: “It's Pam. Uh, I came to kidnap you. There's free wine and cheese at the Chuck Close retrospective. Let's go.”
 
 ## S5 E7 — Business Trip
-URL: https://watchwiththekids.com/ep/the-office/0507.html
+URL: https://watchwiththekids.com/ep/the-office/0507
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -997,7 +997,7 @@ Watch for:
   - [Mild] Angela: “Are you drunk?”
 
 ## S5 E8 — Frame Toby
-URL: https://watchwiththekids.com/ep/the-office/0508.html
+URL: https://watchwiththekids.com/ep/the-office/0508
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1019,7 +1019,7 @@ Watch for:
   - [Caution] Dwight: “[on a cell phone in the hallway] Yes, I repeat a drug dealer is on the premisis of Dunder Mifflin.”
 
 ## S5 E9 — The Surplus
-URL: https://watchwiththekids.com/ep/the-office/0509.html
+URL: https://watchwiththekids.com/ep/the-office/0509
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1028,7 +1028,7 @@ Watch for:
   - [Caution] Michael: “And three, [camera zooms out to see fake blood is splattered on the fur coat] you should know that some people think it's cool to throw buckets of fake blood on you as you are walking out of Burlington Coat Factory.”
 
 ## S5 E10 — Moroccan Christmas
-URL: https://watchwiththekids.com/ep/the-office/0510.html
+URL: https://watchwiththekids.com/ep/the-office/0510
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1049,7 +1049,7 @@ Watch for:
   - [Mild] Kevin: “Well, Meredith, there was that one time you bought movie tickets and then you got too drunk to go, so you gave them to me. And that was really cool.”
 
 ## S5 E11 — The Duel
-URL: https://watchwiththekids.com/ep/the-office/0511.html
+URL: https://watchwiththekids.com/ep/the-office/0511
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1065,7 +1065,7 @@ Watch for:
   - [Caution] Dwight: “[yelling as he runs past the radar gun] Aah!”
 
 ## S5 E12 — Prince Family Paper
-URL: https://watchwiththekids.com/ep/the-office/0512.html
+URL: https://watchwiththekids.com/ep/the-office/0512
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1079,7 +1079,7 @@ Watch for:
   - [Mild] Dwight: “[punches Michael on the arm, beckons to Michael for high five, does not get it, high fives himself, smiles contently]”
 
 ## S5 E13 — Stress Relief
-URL: https://watchwiththekids.com/ep/the-office/0513.html
+URL: https://watchwiththekids.com/ep/the-office/0513
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1098,7 +1098,7 @@ Watch for:
   - [Mild] Michael: “Kevin, I can't decide between a fat joke and a dumb joke.”
 
 ## S5 E14 — Lecture Circuit 1
-URL: https://watchwiththekids.com/ep/the-office/0514.html
+URL: https://watchwiththekids.com/ep/the-office/0514
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1111,7 +1111,7 @@ Watch for:
   - [Mild] Michael: “Blonde hair, nice boobs. Not too big, not too small.”
 
 ## S5 E15 — Lecture Circuit 2
-URL: https://watchwiththekids.com/ep/the-office/0515.html
+URL: https://watchwiththekids.com/ep/the-office/0515
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1125,7 +1125,7 @@ Watch for:
   - [Caution] Michael: “Big fat fatty.”
 
 ## S5 E16 — Blood Drive
-URL: https://watchwiththekids.com/ep/the-office/0516.html
+URL: https://watchwiththekids.com/ep/the-office/0516
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1140,14 +1140,14 @@ Watch for:
   - [Caution] Michael: “I am about to give blood. The gift of everlasting life, the transfer of my bodily fluids, oh wow, that's a big needle, that”
 
 ## S5 E17 — Golden Ticket
-URL: https://watchwiththekids.com/ep/the-office/0517.html
+URL: https://watchwiththekids.com/ep/the-office/0517
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Lynn: “[Both laugh] Boobs.”
 
 ## S5 E18 — New Boss
-URL: https://watchwiththekids.com/ep/the-office/0518.html
+URL: https://watchwiththekids.com/ep/the-office/0518
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1159,7 +1159,7 @@ Watch for:
   - [Too much] Pam: “And then, out of that cake, pops another stripper holding a smaller cake.”
 
 ## S5 E19 — Two Weeks
-URL: https://watchwiththekids.com/ep/the-office/0519.html
+URL: https://watchwiththekids.com/ep/the-office/0519
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1173,7 +1173,7 @@ Watch for:
   - [Mild] Charles: “Kevin: Phones? Charles: Also, there has been too much wasted time.”
 
 ## S5 E20 — Dream Team
-URL: https://watchwiththekids.com/ep/the-office/0520.html
+URL: https://watchwiththekids.com/ep/the-office/0520
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1186,7 +1186,7 @@ Watch for:
   - [Mild] Charles: “I was actually in Germany for the 2006 World Cup Finals. Andy: Ahhh. You bastard! That shoulda been me! Charles: Yeah, I love the sport. I love the sport. Alright, man. Andy: Cool!”
 
 ## S5 E21 — Michael Scott Paper Company
-URL: https://watchwiththekids.com/ep/the-office/0521.html
+URL: https://watchwiththekids.com/ep/the-office/0521
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1209,7 +1209,7 @@ Watch for:
   - [Mild] Toby: “[sound of pissing] Hey does blue go with tan?”
 
 ## S5 E22 — Heavy Competition
-URL: https://watchwiththekids.com/ep/the-office/0522.html
+URL: https://watchwiththekids.com/ep/the-office/0522
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1221,14 +1221,14 @@ Watch for:
   - [Mild] Andy: “And you know what? I am here for you. Let me be your traveling pants. [imitates punching on Jim's fist] Ah, what'd you do that for?”
 
 ## S5 E23 — Broke
-URL: https://watchwiththekids.com/ep/the-office/0523.html
+URL: https://watchwiththekids.com/ep/the-office/0523
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] Michael: “You know, David. I don't care if Ryan murdered his entire family he is like a son to me.”
 
 ## S5 E24 — Casual Friday
-URL: https://watchwiththekids.com/ep/the-office/0524.html
+URL: https://watchwiththekids.com/ep/the-office/0524
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1241,7 +1241,7 @@ Watch for:
   - [Too much] Michael: “Am I going to ask them to slit their wrists for me?”
 
 ## S5 E25 — Cafe Disco
-URL: https://watchwiththekids.com/ep/the-office/0525.html
+URL: https://watchwiththekids.com/ep/the-office/0525
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -1251,7 +1251,7 @@ Watch for:
   - [Mild] Phyllis: “Aw, what the hell? [goes to Vance Refrigeration] Hi, Jessica. Is Bob in?”
 
 ## S5 E26 — Company Picnic
-URL: https://watchwiththekids.com/ep/the-office/0526.html
+URL: https://watchwiththekids.com/ep/the-office/0526
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1269,7 +1269,7 @@ Watch for:
   - [Caution] Rolph: “Here's an accounting question for you: what does one fiance plus one lover equal? Answer: one whore.”
 
 ## S6 E1 — Gossip
-URL: https://watchwiththekids.com/ep/the-office/0601.html
+URL: https://watchwiththekids.com/ep/the-office/0601
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1294,7 +1294,7 @@ Watch for:
   - [Mild] Michael: “That's not important, Jim, I just think we shouldn't listen to any of that crap.”
 
 ## S6 E2 — The Meeting
-URL: https://watchwiththekids.com/ep/the-office/0602.html
+URL: https://watchwiththekids.com/ep/the-office/0602
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1308,7 +1308,7 @@ Watch for:
   - [Mild] Andy: “"Hey Andy let's go visit grandma and then get drunk together, ha ha." Michael: Shhh, I'm just trying to figure out what's going on in that room, okay?”
 
 ## S6 E3 — The Promotion
-URL: https://watchwiththekids.com/ep/the-office/0603.html
+URL: https://watchwiththekids.com/ep/the-office/0603
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1317,7 +1317,7 @@ Watch for:
   - [Caution] Phyllis: “Some of them lose weight.”
 
 ## S6 E4 — Niagara
-URL: https://watchwiththekids.com/ep/the-office/0604.html
+URL: https://watchwiththekids.com/ep/the-office/0604
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1342,7 +1342,7 @@ Watch for:
   - [Caution] Michael: “And I know in your day she would be considered a whore but, now, women go out and they have sex and they get wild and they take their tops off and they have pictures taken of them and we need to encouage them.”
 
 ## S6 E5 — Mafia
-URL: https://watchwiththekids.com/ep/the-office/0605.html
+URL: https://watchwiththekids.com/ep/the-office/0605
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1350,7 +1350,7 @@ Watch for:
   - [Too much] Dwight: “No I disagree. "R" is among the most menacing of sounds. That's why they call it "murder." And not "muck-duck."”
 
 ## S6 E6 — The Lover
-URL: https://watchwiththekids.com/ep/the-office/0606.html
+URL: https://watchwiththekids.com/ep/the-office/0606
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1362,7 +1362,7 @@ Watch for:
   - [Caution] Dwight: “...the blood is gushing down, the blood is gushing down... You know, I really would have appreciated a heads-up that you were into dating mothers. I would have introduced you to mine.”
 
 ## S6 E7 — Koi Pond
-URL: https://watchwiththekids.com/ep/the-office/0607.html
+URL: https://watchwiththekids.com/ep/the-office/0607
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1374,7 +1374,7 @@ Watch for:
   - [Too much] Michael: “Kids, just remember, suicide is never the answer. Alright?”
 
 ## S6 E8 — Double Date
-URL: https://watchwiththekids.com/ep/the-office/0608.html
+URL: https://watchwiththekids.com/ep/the-office/0608
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1388,7 +1388,7 @@ Watch for:
   - [Mild] Pam: “Okay. [punches Toby's hand]”
 
 ## S6 E9 — Murder
-URL: https://watchwiththekids.com/ep/the-office/0609.html
+URL: https://watchwiththekids.com/ep/the-office/0609
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1407,7 +1407,7 @@ Watch for:
   - [Mild] Jim: “So let's just say that Dwight has come at you with the throat punch. Now how would you, Dwight, defend against it?”
 
 ## S6 E10 — Shareholder Meeting
-URL: https://watchwiththekids.com/ep/the-office/0610.html
+URL: https://watchwiththekids.com/ep/the-office/0610
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1417,7 +1417,7 @@ Watch for:
   - [Mild] Michael: “Hate to break it to you Oscar but some of us like boobs.”
 
 ## S6 E11 — Scott's Tots
-URL: https://watchwiththekids.com/ep/the-office/0611.html
+URL: https://watchwiththekids.com/ep/the-office/0611
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1429,7 +1429,7 @@ Watch for:
   - [Mild] David Wallace: “Jim, what the hell is happening there?”
 
 ## S6 E12 — Secret Santa
-URL: https://watchwiththekids.com/ep/the-office/0612.html
+URL: https://watchwiththekids.com/ep/the-office/0612
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1443,7 +1443,7 @@ Watch for:
   - [Mild] Michael: “I'll get some punch. That looks delicious. [shoves Santa hat into punch]”
 
 ## S6 E13 — The Banker
-URL: https://watchwiththekids.com/ep/the-office/0613.html
+URL: https://watchwiththekids.com/ep/the-office/0613
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1453,12 +1453,12 @@ Watch for:
   - [Mild] Michael: “Is that dishonest? Well, think of it this way: when you look in the mirror and you see your push-up bra and your fake eyelashes and your make-up and your press-on nails; the principles that I am applying to the…”
 
 ## S6 E14 — Sabre
-URL: https://watchwiththekids.com/ep/the-office/0614.html
+URL: https://watchwiththekids.com/ep/the-office/0614
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for: nothing flagged.
 
 ## S6 E15 — Manager and Salesman
-URL: https://watchwiththekids.com/ep/the-office/0615.html
+URL: https://watchwiththekids.com/ep/the-office/0615
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1476,7 +1476,7 @@ Watch for:
   - [Mild] Dwight: “It is not "farm boy swill," I will show you. It is beet Vodka and it is delicious.”
 
 ## S6 E16 — The Delivery
-URL: https://watchwiththekids.com/ep/the-office/0616.html
+URL: https://watchwiththekids.com/ep/the-office/0616
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1494,14 +1494,14 @@ Watch for:
   - [Caution] Stanley: “Why do you find someone for yourself instead of meddling in our affairs?”
 
 ## S6 E17 — St. Patrick's Day
-URL: https://watchwiththekids.com/ep/the-office/0617.html
+URL: https://watchwiththekids.com/ep/the-office/0617
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] Michael: “Hello hello. Top of the morning to you! Ooh ooh! Green M&amp;Ms! Nature's Viagra! [Grabs and pours Kevin-esque scoop of M&amp;Ms into his coat pocket] Two of my favorite joke areas combined. It'll be a good day.”
 
 ## S6 E18 — New Leads
-URL: https://watchwiththekids.com/ep/the-office/0618.html
+URL: https://watchwiththekids.com/ep/the-office/0618
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1514,7 +1514,7 @@ Watch for:
   - [Mild] Michael: “Wow. Ohhhkay. Man. When I think about all the time I wasted being your friend - I shouldn't have been hanging out watching karate movies with you”
 
 ## S6 E19 — Happy Hour
-URL: https://watchwiththekids.com/ep/the-office/0619.html
+URL: https://watchwiththekids.com/ep/the-office/0619
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1523,7 +1523,7 @@ Watch for:
   - [Mild] Isabel: “Well, I think that he could counter that move. The Scranton strangler is a professional strangler.”
 
 ## S6 E20 — Secretary's Day
-URL: https://watchwiththekids.com/ep/the-office/0620.html
+URL: https://watchwiththekids.com/ep/the-office/0620
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1537,7 +1537,7 @@ Watch for:
   - [Mild] Dwight: “Really? Fine. Let your breasts explode. Three squeezes and I would drain you.”
 
 ## S6 E21 — Body Language
-URL: https://watchwiththekids.com/ep/the-office/0621.html
+URL: https://watchwiththekids.com/ep/the-office/0621
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1554,7 +1554,7 @@ Watch for:
   - [Mild] Dwight: “Scranton Strangler's in the house.”
 
 ## S6 E22 — The Cover-Up
-URL: https://watchwiththekids.com/ep/the-office/0622.html
+URL: https://watchwiththekids.com/ep/the-office/0622
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1573,7 +1573,7 @@ Watch for:
   - [Caution] Donna: “How could you think I would cheat on you?”
 
 ## S6 E23 — The Chump
-URL: https://watchwiththekids.com/ep/the-office/0623.html
+URL: https://watchwiththekids.com/ep/the-office/0623
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1596,7 +1596,7 @@ Watch for:
   - [Mild] Phyllis: “Was there a fistfight?”
 
 ## S6 E24 — Whistleblower
-URL: https://watchwiththekids.com/ep/the-office/0624.html
+URL: https://watchwiththekids.com/ep/the-office/0624
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1605,7 +1605,7 @@ Watch for:
   - [Too much] Jo: “The way I look at it, there's only one of two reasons. He knows a secret about her that she doesn't know herself, or he wants to use her services to mop up after a murder.”
 
 ## S7 E1 — Nepotism
-URL: https://watchwiththekids.com/ep/the-office/0701.html
+URL: https://watchwiththekids.com/ep/the-office/0701
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1615,7 +1615,7 @@ Watch for:
   - [Caution] Phyllis: “Dwight! [Dwight pulls out a hunting knife and jumps off desk]”
 
 ## S7 E2 — Counseling
-URL: https://watchwiththekids.com/ep/the-office/0702.html
+URL: https://watchwiththekids.com/ep/the-office/0702
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1637,7 +1637,7 @@ Watch for:
   - [Mild] Andy: “If someone offers you a cocktail, accept, but keep your wits about you.”
 
 ## S7 E3 — Andy's Play
-URL: https://watchwiththekids.com/ep/the-office/0703.html
+URL: https://watchwiththekids.com/ep/the-office/0703
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1652,7 +1652,7 @@ Watch for:
   - [Mild] Meredith: “[seeing Michael drink from wine bottle] Michael! [bottle gets passed around by Darryl, Meredith and Kevin]”
 
 ## S7 E4 — Sex Ed
-URL: https://watchwiththekids.com/ep/the-office/0704.html
+URL: https://watchwiththekids.com/ep/the-office/0704
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1676,7 +1676,7 @@ Watch for:
   - [Too much] Kelly: “Kelly: I guess maybe you should go marry a meth dealer with crabs.”
 
 ## S7 E5 — The Sting
-URL: https://watchwiththekids.com/ep/the-office/0705.html
+URL: https://watchwiththekids.com/ep/the-office/0705
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1689,7 +1689,7 @@ Watch for:
   - [Mild] Meredith: “So, what's your drink? You a vodka man? Me too.”
 
 ## S7 E6 — Costume Contest
-URL: https://watchwiththekids.com/ep/the-office/0706.html
+URL: https://watchwiththekids.com/ep/the-office/0706
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1701,14 +1701,14 @@ Watch for:
   - [Mild] Dwight: “Yeah. Here's another good idea. Corporate chain of command. We need to strangle Darryl's idea.”
 
 ## S7 E7 — Christening
-URL: https://watchwiththekids.com/ep/the-office/0707.html
+URL: https://watchwiththekids.com/ep/the-office/0707
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
   - [Too much] Church congregation: “If you go to Cabo San Lucas, all the prostitutes are from Cabo Corrientes.”
 
 ## S7 E8 — Viewing Party
-URL: https://watchwiththekids.com/ep/the-office/0708.html
+URL: https://watchwiththekids.com/ep/the-office/0708
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1727,7 +1727,7 @@ Watch for:
   - [Mild] Dwight: “No. Crust first. [Jim turns the pizza around] Okay, now the beer. [Jim shakes his head no] Beer me Jim. [Jim quickly puts the beer into his face] Ssss. Gentle. [drinks the beer] Now I've gotta go meet Angela.”
 
 ## S7 E9 — WUPHF.com
-URL: https://watchwiththekids.com/ep/the-office/0709.html
+URL: https://watchwiththekids.com/ep/the-office/0709
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1743,7 +1743,7 @@ Watch for:
   - [Caution] Michael: “Okay, moving backwards, our I.T. Guys have been... Glasses, Turban, Ear Hair, Fatty 3, Shorts, Fatty 2, Lozenge, and Fatso. I think Lozenge was the one who installed it.”
 
 ## S7 E10 — China
-URL: https://watchwiththekids.com/ep/the-office/0710.html
+URL: https://watchwiththekids.com/ep/the-office/0710
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1753,7 +1753,7 @@ Watch for:
   - [Mild] Jim: “What do you know about boobs?”
 
 ## S7 E11 — Classy Christmas
-URL: https://watchwiththekids.com/ep/the-office/0711.html
+URL: https://watchwiththekids.com/ep/the-office/0711
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1782,7 +1782,7 @@ Watch for:
   - [Mild] Pam: “A party. It's not an excuse to get really drunk or confront someone or have a cathartic experience of any kind.”
 
 ## S7 E12 — Ultimatum
-URL: https://watchwiththekids.com/ep/the-office/0712.html
+URL: https://watchwiththekids.com/ep/the-office/0712
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1802,7 +1802,7 @@ Watch for:
   - [Mild] Michael: “Oh my God! [sprays champagne on Erin]”
 
 ## S7 E13 — The Seminar
-URL: https://watchwiththekids.com/ep/the-office/0713.html
+URL: https://watchwiththekids.com/ep/the-office/0713
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1813,7 +1813,7 @@ Watch for:
   - [Caution] Kelly: “It is important to brand yourself, so I have a couple of things in works. "The Business Bitch", "The Diet Bitch", "The Shopping Bitch", "The Etiquette Bitch."”
 
 ## S7 E14 — The Search
-URL: https://watchwiththekids.com/ep/the-office/0714.html
+URL: https://watchwiththekids.com/ep/the-office/0714
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1822,7 +1822,7 @@ Watch for:
   - [Mild] Kelly: “Ummm, like a week ago, we got really wasted and it just felt right.”
 
 ## S7 E15 — Pda
-URL: https://watchwiththekids.com/ep/the-office/0715.html
+URL: https://watchwiththekids.com/ep/the-office/0715
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1841,7 +1841,7 @@ Watch for:
   - [Mild] Jim: “And what else was there? Jim: Um, bottomless champagne.”
 
 ## S7 E16 — Threat Level Midnight
-URL: https://watchwiththekids.com/ep/the-office/0716.html
+URL: https://watchwiththekids.com/ep/the-office/0716
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1858,7 +1858,7 @@ Watch for:
   - [Mild] Michael: “You meet new friends, and tie that yarn, and that's how you do The Scarn! Todd Packer: [as a drunken man in the bar] If doing The Scarn is gay, then I'm the biggest queer on Earth!”
 
 ## S7 E17 — Todd Packer
-URL: https://watchwiththekids.com/ep/the-office/0717.html
+URL: https://watchwiththekids.com/ep/the-office/0717
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1873,7 +1873,7 @@ Watch for:
   - [Mild] Dwight: “[Dwight tries to open up a drawer on his desk but it only goes out two inches] Damn it.”
 
 ## S7 E18 — Garage Sale
-URL: https://watchwiththekids.com/ep/the-office/0718.html
+URL: https://watchwiththekids.com/ep/the-office/0718
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1883,7 +1883,7 @@ Watch for:
   - [Too much] Michael: “It's easy enough to get a corpse, you just go to a med school. I already have the ring.”
 
 ## S7 E19 — Training Day
-URL: https://watchwiththekids.com/ep/the-office/0719.html
+URL: https://watchwiththekids.com/ep/the-office/0719
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -1893,7 +1893,7 @@ Watch for:
   - [Mild] Deangelo: “That is insane, that is the right term. Let's get some Vodka up in this cranberry, and one for my friend.”
 
 ## S7 E20 — Michael's Last Dundies
-URL: https://watchwiththekids.com/ep/the-office/0720.html
+URL: https://watchwiththekids.com/ep/the-office/0720
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1914,7 +1914,7 @@ Watch for:
   - [Caution] Michael: “[in conference room] Here... [Andy walks in] Okay! By his own omission, this person actually tried marijuana in college, so the Doobie Doobie Pothead Stoner of the Year Award goes to, Andy Bernard! [Andy walks up]”
 
 ## S7 E21 — Goodbye Michael
-URL: https://watchwiththekids.com/ep/the-office/0721.html
+URL: https://watchwiththekids.com/ep/the-office/0721
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1932,7 +1932,7 @@ Watch for:
   - [Mild] Michael: “[in his office talking to Creed, Gabe, and Meredith in that order] Whether you're scared of dying, or dying Alone, or dying drunk in a ditch. Don't be. It's going to be okay.”
 
 ## S7 E22 — The Inner Circle
-URL: https://watchwiththekids.com/ep/the-office/0722.html
+URL: https://watchwiththekids.com/ep/the-office/0722
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1949,7 +1949,7 @@ Watch for:
   - [Caution] Jordan: “Dwight? Deangelo wanted me to ask you if there's anything I can help you with. Dwight: Really? Anything. Jordan: Do you need anything? Dwight: Deangelo, tell your whore to leave me alone.”
 
 ## S7 E23 — Dwight K. Schrute, (Acting) Manager
-URL: https://watchwiththekids.com/ep/the-office/0723.html
+URL: https://watchwiththekids.com/ep/the-office/0723
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1959,7 +1959,7 @@ Watch for:
   - [Mild] Jim: “Let's see, we all have to punch in to a time clock, which is very old, very strong, and has a slot about the size of a finger.”
 
 ## S7 E24 — Search Committee
-URL: https://watchwiththekids.com/ep/the-office/0724.html
+URL: https://watchwiththekids.com/ep/the-office/0724
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1977,7 +1977,7 @@ Watch for:
   - [Mild] Dwight: “[comes in, slapping some papers on the table] I want an interview.”
 
 ## S8 E1 — The List
-URL: https://watchwiththekids.com/ep/the-office/0801.html
+URL: https://watchwiththekids.com/ep/the-office/0801
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -1985,7 +1985,7 @@ Watch for:
   - [Mild] Andy: “Ah hah! Their interpretation of Margarita pizza.”
 
 ## S8 E2 — The Incentive
-URL: https://watchwiththekids.com/ep/the-office/0802.html
+URL: https://watchwiththekids.com/ep/the-office/0802
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1997,7 +1997,7 @@ Watch for:
   - [Mild] Andy: “Pam: Ready! [flips sketch pad showing tattoo possibilities] “I’m not as think as you drunk I am!” [crowd claps and cheers] Ryan: I like it, I like it!”
 
 ## S8 E3 — Lotto
-URL: https://watchwiththekids.com/ep/the-office/0803.html
+URL: https://watchwiththekids.com/ep/the-office/0803
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -2011,12 +2011,12 @@ Watch for:
   - [Caution] Darryl: “When did I get so fat?”
 
 ## S8 E4 — Garden Party
-URL: https://watchwiththekids.com/ep/the-office/0804.html
+URL: https://watchwiththekids.com/ep/the-office/0804
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for: nothing flagged.
 
 ## S8 E5 — Spooked
-URL: https://watchwiththekids.com/ep/the-office/0805.html
+URL: https://watchwiththekids.com/ep/the-office/0805
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2030,7 +2030,7 @@ Watch for:
   - [Too much] Robert California: “It was rumored a man committed suicide there after being possessed by the devil.”
 
 ## S8 E6 — Doomsday
-URL: https://watchwiththekids.com/ep/the-office/0806.html
+URL: https://watchwiththekids.com/ep/the-office/0806
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2047,7 +2047,7 @@ Watch for:
   - [Mild] Gabe: “So, tonight I was thinking, I'm gonna go to the cemetery. I'm gonna drink a little wine and I thought maybe you'd like to come with me.”
 
 ## S8 E7 — Pam's Replacement
-URL: https://watchwiththekids.com/ep/the-office/0807.html
+URL: https://watchwiththekids.com/ep/the-office/0807
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2065,7 +2065,7 @@ Watch for:
   - [Caution] Gabe: “Well he’s probably a drug dealer. That’s the best way to land a hot girlfriend. You just uh get her hooked on blow.”
 
 ## S8 E8 — Gettysburg
-URL: https://watchwiththekids.com/ep/the-office/0808.html
+URL: https://watchwiththekids.com/ep/the-office/0808
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2079,7 +2079,7 @@ Watch for:
   - [Mild] Kevin: “So what is Dunder Mifflin's oatmeal cookie? What is the product that no one wants? Stanley: how about that two-hole-punch letter?”
 
 ## S8 E9 — Mrs. California
-URL: https://watchwiththekids.com/ep/the-office/0809.html
+URL: https://watchwiththekids.com/ep/the-office/0809
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2092,7 +2092,7 @@ Watch for:
   - [Mild] Robert California: “Hello Jim. [Jim tries to escape] Andy: [grabs Jim's leg] No, no. No, no, no! Don't! Damn it, Tuna!”
 
 ## S8 E10 — Christmas Wishes
-URL: https://watchwiththekids.com/ep/the-office/0810.html
+URL: https://watchwiththekids.com/ep/the-office/0810
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2113,7 +2113,7 @@ Watch for:
   - [Mild] Andy: “Meredith, shut your drunk hole right now.”
 
 ## S8 E11 — Trivia
-URL: https://watchwiththekids.com/ep/the-office/0811.html
+URL: https://watchwiththekids.com/ep/the-office/0811
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2122,7 +2122,7 @@ Watch for:
   - [Mild] Robert California: “It would be wasted on a manager's job.”
 
 ## S8 E12 — Pool Party
-URL: https://watchwiththekids.com/ep/the-office/0812.html
+URL: https://watchwiththekids.com/ep/the-office/0812
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2140,7 +2140,7 @@ Watch for:
   - [Too much] Kevin: “That's racist! I don't know. But I would say, by looking at him, no, Darryl does not swim.”
 
 ## S8 E13 — Jury Duty
-URL: https://watchwiththekids.com/ep/the-office/0813.html
+URL: https://watchwiththekids.com/ep/the-office/0813
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2159,7 +2159,7 @@ Watch for:
   - [Caution] Kevin: “Phillip is so fat.”
 
 ## S8 E14 — Special Project
-URL: https://watchwiththekids.com/ep/the-office/0814.html
+URL: https://watchwiththekids.com/ep/the-office/0814
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2169,7 +2169,7 @@ Watch for:
   - [Mild] Andy: “Pam! Ahh! Look what I can do now that she's no longer pregnant. [pretends to punch Pam in the stomach] Bam! Bam! Bam! Bam!”
 
 ## S8 E15 — Tallahassee
-URL: https://watchwiththekids.com/ep/the-office/0815.html
+URL: https://watchwiththekids.com/ep/the-office/0815
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2186,7 +2186,7 @@ Watch for:
   - [Mild] Erin: “I'm sorry to have wasted your time.”
 
 ## S8 E16 — After Hours
-URL: https://watchwiththekids.com/ep/the-office/0816.html
+URL: https://watchwiththekids.com/ep/the-office/0816
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2198,7 +2198,7 @@ Watch for:
   - [Mild] Jim: “Would you like to get a cocktail?”
 
 ## S8 E17 — Test the Store
-URL: https://watchwiththekids.com/ep/the-office/0817.html
+URL: https://watchwiththekids.com/ep/the-office/0817
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2226,7 +2226,7 @@ Watch for:
   - [Caution] Dwight: “Cathy, I would like to introduce you to Fatty Gruesome.”
 
 ## S8 E18 — Last Day In Florida
-URL: https://watchwiththekids.com/ep/the-office/0818.html
+URL: https://watchwiththekids.com/ep/the-office/0818
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2235,7 +2235,7 @@ Watch for:
   - [Caution] Kelly: “Thank you, for someone who actually notices this. No, I didn't lose weight. But I started using my makeup to contour my face to look skinnier. I actually put on five pounds.”
 
 ## S8 E19 — Get the Girl
-URL: https://watchwiththekids.com/ep/the-office/0819.html
+URL: https://watchwiththekids.com/ep/the-office/0819
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2245,7 +2245,7 @@ Watch for:
   - [Mild] Robert California: “All life is sex. And all sex is competition.”
 
 ## S8 E20 — Welcome Party
-URL: https://watchwiththekids.com/ep/the-office/0820.html
+URL: https://watchwiththekids.com/ep/the-office/0820
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2255,7 +2255,7 @@ Watch for:
   - [Caution] Nellie: “God, no. That's the most embarrassing thing of all this. What kind of fool gets her heart broken by bloody stage magician?”
 
 ## S8 E21 — Angry Andy
-URL: https://watchwiththekids.com/ep/the-office/0821.html
+URL: https://watchwiththekids.com/ep/the-office/0821
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 10 moment(s)
@@ -2280,7 +2280,7 @@ Watch for:
   - [Mild] Jim: “I was very drunk.”
 
 ## S8 E22 — Fundraiser
-URL: https://watchwiththekids.com/ep/the-office/0822.html
+URL: https://watchwiththekids.com/ep/the-office/0822
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2295,7 +2295,7 @@ Watch for:
   - [Caution] Dwight: “you people should be ashamed of yourselves! How many courses did we have tonight, two? Three maybe, if you choose the pudding? I mean what waste! these tables tarted up like Victorian whores!”
 
 ## S8 E23 — Turf War
-URL: https://watchwiththekids.com/ep/the-office/0823.html
+URL: https://watchwiththekids.com/ep/the-office/0823
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2304,7 +2304,7 @@ Watch for:
   - [Mild] Robert California: “Closing the Binghamton branch never occurred to me before today. Or, I guess, last night. But, in vino veritas as they say, I’m not gonna start doubting my drunken self now.”
 
 ## S8 E24 — Free Family Portrait Studio
-URL: https://watchwiththekids.com/ep/the-office/0824.html
+URL: https://watchwiththekids.com/ep/the-office/0824
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2318,7 +2318,7 @@ Watch for:
   - [Mild] Jim: “No, no, see? This is what we're talking about. I mean, what was that accent? And last time I checked, you were drunk and now you're not drunk...”
 
 ## S9 E1 — New Guys
-URL: https://watchwiththekids.com/ep/the-office/0901.html
+URL: https://watchwiththekids.com/ep/the-office/0901
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2329,7 +2329,7 @@ Watch for:
   - [Caution] Andy: “Now, I don’t like to throw around the b-word, but I’m going to be a huge bitch to you.”
 
 ## S9 E2 — Roy's Wedding
-URL: https://watchwiththekids.com/ep/the-office/0902.html
+URL: https://watchwiththekids.com/ep/the-office/0902
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2342,7 +2342,7 @@ Watch for:
   - [Mild] Clark: “You'll just come over, put on little lipstick, loosen up with a glass of red wine and then we'll just run through a few stories.”
 
 ## S9 E3 — Andy’s Ancestry
-URL: https://watchwiththekids.com/ep/the-office/0903.html
+URL: https://watchwiththekids.com/ep/the-office/0903
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2353,7 +2353,7 @@ Watch for:
   - [Too much] Meredith: “Cool! Ah! Ah! Ah! Ah! [mimics stabbing into Angela’s throat]”
 
 ## S9 E4 — Work Bus
-URL: https://watchwiththekids.com/ep/the-office/0904.html
+URL: https://watchwiththekids.com/ep/the-office/0904
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2365,7 +2365,7 @@ Watch for:
   - [Caution] Erin: “[bumps into Meredith] Sorry. Meredith: Lose weight. Erin: I'm trying. Sorry.”
 
 ## S9 E5 — Here Comes Treble
-URL: https://watchwiththekids.com/ep/the-office/0905.html
+URL: https://watchwiththekids.com/ep/the-office/0905
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2385,7 +2385,7 @@ Watch for:
   - [Mild] Andy: “Andy: Did you maybe tell them that or...? Broccoli Rob: I just-- I just started yappin’ about the old days, and I guess the wine coolers were flowing, and, you know, somehow things just got hinky.”
 
 ## S9 E6 — The Boat
-URL: https://watchwiththekids.com/ep/the-office/0906.html
+URL: https://watchwiththekids.com/ep/the-office/0906
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2402,7 +2402,7 @@ Watch for:
   - [Mild] Pete: “Oh. Nope. It's not that, he uh, uh he flipped a table one time when he was drunk.”
 
 ## S9 E7 — The Whale
-URL: https://watchwiththekids.com/ep/the-office/0907.html
+URL: https://watchwiththekids.com/ep/the-office/0907
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2419,7 +2419,7 @@ Watch for:
   - [Mild] Jan: “I don’t recall. And yes, Molly is crap.”
 
 ## S9 E8 — The Target
-URL: https://watchwiththekids.com/ep/the-office/0908.html
+URL: https://watchwiththekids.com/ep/the-office/0908
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2447,7 +2447,7 @@ Watch for:
   - [Caution] Pam: “your mama is so fat, when she wears red, people yell, “Hey, kool-aid.” Yeah, your mama’s fat.”
 
 ## S9 E9 — Dwight Christmas
-URL: https://watchwiththekids.com/ep/the-office/0909.html
+URL: https://watchwiththekids.com/ep/the-office/0909
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2465,7 +2465,7 @@ Watch for:
   - [Too much] Oscar: “[Continues reading] "His partner, zwarte piet, or black Peter, a slave boy, often portrayed in colorful pantaloons and blackface."”
 
 ## S9 E10 — Lice
-URL: https://watchwiththekids.com/ep/the-office/0910.html
+URL: https://watchwiththekids.com/ep/the-office/0910
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2474,7 +2474,7 @@ Watch for:
   - [Mild] Jim: “Let's go get a beer.”
 
 ## S9 E11 — Suit Warehouse
-URL: https://watchwiththekids.com/ep/the-office/0911.html
+URL: https://watchwiththekids.com/ep/the-office/0911
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2488,7 +2488,7 @@ Watch for:
   - [Mild] Clark: “Like the time that you got drunk and, and then… Killed those kids on their way to prom!”
 
 ## S9 E12 — Customer Loyalty
-URL: https://watchwiththekids.com/ep/the-office/0912.html
+URL: https://watchwiththekids.com/ep/the-office/0912
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2499,14 +2499,14 @@ Watch for:
   - [Caution] Erin: “Oh, I’m sorry. Didn’t you cheat on Andy?”
 
 ## S9 E13 — Junior Salesman
-URL: https://watchwiththekids.com/ep/the-office/0913.html
+URL: https://watchwiththekids.com/ep/the-office/0913
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Too much] Jim: “Darryl: Your friends are like Spider-man, if he had gotten bitten by a spider and then got really into masturbating.”
 
 ## S9 E14 — Vandalism
-URL: https://watchwiththekids.com/ep/the-office/0914.html
+URL: https://watchwiththekids.com/ep/the-office/0914
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2525,7 +2525,7 @@ Watch for:
   - [Too much] Oscar: “And if you ask me, it's time we bid bigotry hasta luego.”
 
 ## S9 E15 — Couples Discount
-URL: https://watchwiththekids.com/ep/the-office/0915.html
+URL: https://watchwiththekids.com/ep/the-office/0915
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2540,7 +2540,7 @@ Watch for:
   - [Mild] Jim: “You know what? Maybe we should cancel that bottle of wine tonight.”
 
 ## S9 E16 — Moving On
-URL: https://watchwiththekids.com/ep/the-office/0916.html
+URL: https://watchwiththekids.com/ep/the-office/0916
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2561,7 +2561,7 @@ Watch for:
   - [Mild] Alice: “I wasted two years of my life on you, you realize that right?!”
 
 ## S9 E17 — The Farm
-URL: https://watchwiththekids.com/ep/the-office/0917.html
+URL: https://watchwiththekids.com/ep/the-office/0917
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2579,7 +2579,7 @@ Watch for:
   - [Caution] Meredith: “Did you get diarrhea or were you stoned?”
 
 ## S9 E18 — Promos
-URL: https://watchwiththekids.com/ep/the-office/0918.html
+URL: https://watchwiththekids.com/ep/the-office/0918
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2599,7 +2599,7 @@ Watch for:
   - [Mild] Brian: “Alright, that's for you. [hands her beer]”
 
 ## S9 E19 — Stairmageddon
-URL: https://watchwiththekids.com/ep/the-office/0919.html
+URL: https://watchwiththekids.com/ep/the-office/0919
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -2612,7 +2612,7 @@ Watch for:
   - [Mild] “Reporter #1: Senator, were always gay, or did your wife turn you gay?”
 
 ## S9 E20 — Paper Airplane
-URL: https://watchwiththekids.com/ep/the-office/0920.html
+URL: https://watchwiththekids.com/ep/the-office/0920
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2622,7 +2622,7 @@ Watch for:
   - [Caution] Angela: “I had a chance with Dwight, but I didn't take it. And if I went back now, when I'm broke and he just inherited a farm, I'd be one of those gold-digging tramps you read about that try to bag a farmer.”
 
 ## S9 E21 — Livin' The Dream
-URL: https://watchwiththekids.com/ep/the-office/0921.html
+URL: https://watchwiththekids.com/ep/the-office/0921
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2637,7 +2637,7 @@ Watch for:
   - [Mild] Oscar: “And get you the hell outta that place.”
 
 ## S9 E22 — A.a.r.m.
-URL: https://watchwiththekids.com/ep/the-office/0922.html
+URL: https://watchwiththekids.com/ep/the-office/0922
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2654,7 +2654,7 @@ Watch for:
   - [Mild] Jim: “Get the hell outta here.”
 
 ## S9 E23 — Finale
-URL: https://watchwiththekids.com/ep/the-office/0923.html
+URL: https://watchwiththekids.com/ep/the-office/0923
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)

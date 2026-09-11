@@ -1,11 +1,11 @@
 # Wednesday — parent guide (16 episodes)
 
-Source: https://watchwiththekids.com/wednesday.html
+Source: https://watchwiththekids.com/wednesday
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 0 mild (1–2), 15 caution (3), 1 too much (4–5).
 
 ## S1 E1 — Chapter I: Wednesday's Child Is Full of Woe
-URL: https://watchwiththekids.com/ep/wednesday/0101.html
+URL: https://watchwiththekids.com/ep/wednesday/0101
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: When a deliciously wicked prank gets Wednesday expelled, her parents ship her off to Nevermore Academy, the boarding school where they fell in love.
 Watch for:
@@ -25,7 +25,7 @@ Watch for:
   - [Caution] getting stoned.
 
 ## S1 E2 — Chapter II: Woe Is the Loneliest Number
-URL: https://watchwiththekids.com/ep/wednesday/0102.html
+URL: https://watchwiththekids.com/ep/wednesday/0102
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: The sheriff questions Wednesday about the night's strange happenings. Later, Wednesday faces off against a fierce rival in the cutthroat Poe Cup race.
 Watch for:
@@ -53,7 +53,7 @@ Watch for:
   - [Mild] She treats you like crap,
 
 ## S1 E3 — Chapter III: Friend or Woe
-URL: https://watchwiththekids.com/ep/wednesday/0103.html
+URL: https://watchwiththekids.com/ep/wednesday/0103
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: Wednesday stumbles on a secret society. During Outreach Day, Nevermore's outcasts mingle with Jericho's normies in Pilgrim World. Fudge, anyone?
 Watch for:
@@ -77,7 +77,7 @@ Watch for:
   - [Caution] I'm not afraid of being stoned by you.
 
 ## S1 E4 — Chapter IV: Woe What a Night
-URL: https://watchwiththekids.com/ep/wednesday/0104.html
+URL: https://watchwiththekids.com/ep/wednesday/0104
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Summary: Wednesday asks Xavier to the Rave'N dance, sparking Tyler's jealousy — but Thing's got something up his sleeve. Meanwhile, Eugene stakes out the cave.
 Watch for:
@@ -100,7 +100,7 @@ Watch for:
   - [Caution] and kind of stoned myself with my snakes.
 
 ## S1 E5 — Chapter V: You Reap What You Woe
-URL: https://watchwiththekids.com/ep/wednesday/0105.html
+URL: https://watchwiththekids.com/ep/wednesday/0105
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: During Parents Weekend, Wednesday digs into her family's past — and accidentally gets her dad arrested. Enid feels the pressure to "wolf out."
 Watch for:
@@ -133,7 +133,7 @@ Watch for:
   - [Too much] from harm and bigotry.
 
 ## S1 E6 — Chapter VI: Quid Pro Woe
-URL: https://watchwiththekids.com/ep/wednesday/0106.html
+URL: https://watchwiththekids.com/ep/wednesday/0106
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: Wednesday's friends throw her a surprise birthday party. They mean well... but she'd much rather mark the miserable occasion by solving the murders.
 Watch for:
@@ -149,7 +149,7 @@ Watch for:
   - [Mild] Wednesday, what the hell are you thinking?
 
 ## S1 E7 — Chapter VII: If You Don't Woe Me by Now
-URL: https://watchwiththekids.com/ep/wednesday/0107.html
+URL: https://watchwiththekids.com/ep/wednesday/0107
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Summary: Kooky Uncle Fester pays a visit and shares his theory about the monster. Wednesday begrudgingly agrees to a date with Tyler at Crackstone's crypt.
 Watch for:
@@ -165,7 +165,7 @@ Watch for:
   - [Caution] Drop the knife. Down on your knees.
 
 ## S1 E8 — Chapter VIII: A Murder of Woes
-URL: https://watchwiththekids.com/ep/wednesday/0108.html
+URL: https://watchwiththekids.com/ep/wednesday/0108
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: Wednesday lands in trouble with Principal Weems, but that's just the start of her problems. To fight an ancient evil, she'll need all her friends' help.
 Watch for:
@@ -185,7 +185,7 @@ Watch for:
   - [Mild] have been slashed. Every damn one.
 
 ## S2 E1 — Chapter I: Here We Woe Again
-URL: https://watchwiththekids.com/ep/wednesday/0201.html
+URL: https://watchwiththekids.com/ep/wednesday/0201
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Summary: After a productive summer break, Wednesday returns to Nevermore as a grudging campus celebrity — and the target of a dangerous stalker.
 Watch for:
@@ -196,7 +196,7 @@ Watch for:
   - [Mild] the easiest punching bags.
 
 ## S2 E2 — Chapter II: The Devil You Woe
-URL: https://watchwiththekids.com/ep/wednesday/0202.html
+URL: https://watchwiththekids.com/ep/wednesday/0202
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 11+)
 Summary: Chaos reigns on campus as Nevermore celebrates its annual Prank Day. Wednesday confronts an old enemy and gains an unwanted ally.
 Watch for:
@@ -216,7 +216,7 @@ Watch for:
   - [Mild] and daily drug cocktails.
 
 ## S2 E3 — Chapter III: Call of the Woe
-URL: https://watchwiththekids.com/ep/wednesday/0203.html
+URL: https://watchwiththekids.com/ep/wednesday/0203
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 11+)
 Summary: Stripped of both her ability and Goody's book, Wednesday is forced to do some old-fashioned detective work on a school camping trip.
 Watch for:
@@ -232,7 +232,7 @@ Watch for:
   - [Caution] Still bringing a knife to a sword fight?
 
 ## S2 E4 — Chapter IV: If These Woes Could Talk
-URL: https://watchwiththekids.com/ep/wednesday/0204.html
+URL: https://watchwiththekids.com/ep/wednesday/0204
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: It's an Addams family investigation as Fester and Thing commit themselves to Wednesday's case. Trying to conceal one secret, Bianca stumbles on another.
 Watch for:
@@ -248,7 +248,7 @@ Watch for:
   - [Mild] [Dwayne] What the hell was that?
 
 ## S2 E5 — Chapter V: Hyde and Woe Seek
-URL: https://watchwiththekids.com/ep/wednesday/0205.html
+URL: https://watchwiththekids.com/ep/wednesday/0205
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Summary: With Tyler on the loose, Wednesday readies for a risky Día de los Muertos showdown. Slurp's growing hunger poses problems for Pugsley.
 Watch for:
@@ -260,7 +260,7 @@ Watch for:
   - [Caution] of his blood he gave it to drink,
 
 ## S2 E6 — Chapter VI: Woe Thyself
-URL: https://watchwiththekids.com/ep/wednesday/0206.html
+URL: https://watchwiththekids.com/ep/wednesday/0206
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Summary: An encounter with a spirit from Nevermore's past gives Wednesday and Enid a new perspective on one another — and puts one of their classmates in danger.
 Watch for:
@@ -278,7 +278,7 @@ Watch for:
   - [Mild] He slapped you so hard.
 
 ## S2 E7 — Chapter VII: Woe Me the Money
-URL: https://watchwiththekids.com/ep/wednesday/0207.html
+URL: https://watchwiththekids.com/ep/wednesday/0207
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 11+)
 Summary: As the school gala looms, Wednesday digs up dirt on Dort, Enid tries not to wolf out and Morticia engages in a battle of wills with Grandmama.
 Watch for:
@@ -290,7 +290,7 @@ Watch for:
   - [Caution] What your mother needs is blood.
 
 ## S2 E8 — Chapter VIII: This Means Woe
-URL: https://watchwiththekids.com/ep/wednesday/0208.html
+URL: https://watchwiththekids.com/ep/wednesday/0208
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 11+)
 Summary: When buried family secrets are unearthed, Wednesday must race against time to prevent a dark prophecy from being realized.
 Watch for:

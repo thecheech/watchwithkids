@@ -1,11 +1,11 @@
 # The Legend of Korra — parent guide (52 episodes)
 
-Source: https://watchwiththekids.com/legend-of-korra.html
+Source: https://watchwiththekids.com/legend-of-korra
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 36 mild (1–2), 14 caution (3), 2 too much (4–5).
 
 ## S1 E1 — Welcome to Republic City
-URL: https://watchwiththekids.com/ep/legend-of-korra/0101.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0101
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: The series premiere of this cartoon about a bold and rebellious teenage girl who undergoes training to become a fully realized Avatar, Korra arrives in Republic City and discovers it's a dangerous place for benders.
 Watch for:
@@ -14,7 +14,7 @@ Watch for:
   - [Mild] She jumps forward, and punches to the left, leaving a trail of fire.
 
 ## S1 E2 — A Leaf in the Wind
-URL: https://watchwiththekids.com/ep/legend-of-korra/0102.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0102
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra is thrilled to discover the city's Pro-bending Arena, where she meets two brothers who compete there.
 Watch for:
@@ -27,7 +27,7 @@ Watch for:
   - [Mild] Camera moves back as he punches it away.
 
 ## S1 E3 — The Revelation
-URL: https://watchwiththekids.com/ep/legend-of-korra/0103.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0103
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Korra tries to gain access to the Equalist movement and its secretive leader.
 Watch for:
@@ -43,7 +43,7 @@ Watch for:
   - [Mild] Frontal shot of Korra as she curiously eyes her hands, and raises her arms, punching out in an attempt to bend.
 
 ## S1 E4 — The Voice in the Night
-URL: https://watchwiththekids.com/ep/legend-of-korra/0104.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0104
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: A task force recruits Korra to help them with their violent plan to remove Equalists.
 Watch for:
@@ -52,7 +52,7 @@ Watch for:
   - [Mild] …she uses her legs to kick some fire and earth around, but she is ultimately hit in the back by several punches from multiple chi-blockers.
 
 ## S1 E5 — The Spirit of Competition
-URL: https://watchwiththekids.com/ep/legend-of-korra/0105.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0105
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Romantic rivalries disrupt the harmony on Korra's team.
 Watch for:
@@ -66,7 +66,7 @@ Watch for:
   - [Too much] Work with me here, Pabu! You wanna look spic and span in your new uniform, don't you? [To Mako.] So, what do you think of Korra, in a "girlfriend" sort of way?
 
 ## S1 E6 — And the Winner is...
-URL: https://watchwiththekids.com/ep/legend-of-korra/0106.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0106
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra prepares for the pro-bending championship while a sense of danger hovers over the arena.
 Watch for:
@@ -76,7 +76,7 @@ Watch for:
   - [Mild] [Punches his fist into the air.] Yeah!
 
 ## S1 E7 — The Aftermath
-URL: https://watchwiththekids.com/ep/legend-of-korra/0107.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0107
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra worries that a friend is secretly aligned with the Equalists.
 Watch for:
@@ -84,7 +84,7 @@ Watch for:
   - [Too much] She breaks the glass by stabbing the front, missing the Equalist inside who dodges.
 
 ## S1 E8 — When Extremes Meet
-URL: https://watchwiththekids.com/ep/legend-of-korra/0108.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0108
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra quarrels with Councilman Tarrlok in the midst of growing Equalist activity.
 Watch for:
@@ -98,7 +98,7 @@ Watch for:
   - [Mild] She earthbends, causing Tarrlok to fall to the ground. She jumps off and punches the ground, causing a gigantic hole around her. She looks up at him with anger, breathing heavily.
 
 ## S1 E9 — Out of the Past
-URL: https://watchwiththekids.com/ep/legend-of-korra/0109.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0109
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra tries to analyze the mysterious visions she's been having. Meanwhile, Tenzin and Beifong look for Equalist hostages.
 Watch for:
@@ -114,7 +114,7 @@ Watch for:
   - [Caution] [With difficulty.] Yakone. [Yakone bloodbends his arms behind his back.] You won't get away with this!
 
 ## S1 E10 — Turning the Tides
-URL: https://watchwiththekids.com/ep/legend-of-korra/0110.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0110
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Republic City gets bombarded by the Equalists.
 Watch for:
@@ -123,7 +123,7 @@ Watch for:
   - [Caution] [Defensively.] What? No! She was taken by a crazy bloodbender! How did you expect me to act?
 
 ## S1 E11 — Skeletons in the Closet
-URL: https://watchwiththekids.com/ep/legend-of-korra/0111.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0111
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Korra goes undercover and learns a secret while her teammates go after the enemies' stronghold.
 Watch for:
@@ -142,7 +142,7 @@ Watch for:
   - [Mild] [Pacing.] So much for our ambush. If we stay here, we're toast. But there's another way to beat him.
 
 ## S1 E12 — Endgame
-URL: https://watchwiththekids.com/ep/legend-of-korra/0112.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0112
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra confronts the enigmatic ruler of the Equalists.
 Watch for:
@@ -157,7 +157,7 @@ Watch for:
   - [Mild] Korra instinctively throws a punch at Amon, and it suddenly become a blast of air that shoots down the corridor and slams into Amon and Mako, sending them flying.
 
 ## S2 E1 — Rebel Spirit
-URL: https://watchwiththekids.com/ep/legend-of-korra/0201.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0201
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra attends the Southern Water Tribe Festival, where she tries to connect to the spirit world.
 Watch for:
@@ -168,7 +168,7 @@ Watch for:
   - [Mild] [Bumi punches Tenzin's arm, before wrapping his arm around Tenzin's shoulders.] Come on! It'll be fun.
 
 ## S2 E2 — The Southern Lights
-URL: https://watchwiththekids.com/ep/legend-of-korra/0202.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0202
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra she enters a violent maelstrom and discovers a source of spiritual power.
 Watch for:
@@ -176,7 +176,7 @@ Watch for:
   - [Mild] Cut to Korra as she readies her stance, and subsequently punches the frozen portal with airbending, but to no effect. Korra tries to firebend at the portal, but still with no results.
 
 ## S2 E3 — Civil Wars (1)
-URL: https://watchwiththekids.com/ep/legend-of-korra/0203.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0203
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Part 1 of 2. Korra tries to be impartial as tension rises between the northern and southern tribes.
 Watch for:
@@ -185,13 +185,13 @@ Watch for:
   - [Mild] Korra punches a gap within her enclosure and pursues the rebels.
 
 ## S2 E4 — Civil Wars (2)
-URL: https://watchwiththekids.com/ep/legend-of-korra/0204.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0204
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Korra's folks are wrongfully incarcerated, so Korra fights to free them.
 Watch for: nothing flagged.
 
 ## S2 E5 — Peacekeepers
-URL: https://watchwiththekids.com/ep/legend-of-korra/0205.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0205
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra reaches a dead end when she turns to the president for help, so she strikes out on her own.
 Watch for:
@@ -199,7 +199,7 @@ Watch for:
   - [Too much] Explain why my boyfriend stabbed me in the back?
 
 ## S2 E6 — The Sting
-URL: https://watchwiththekids.com/ep/legend-of-korra/0206.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0206
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Future Industries may close up shop because of the threat Triad poses, so Mako does some research and stumbles upon a huge conspiracy at work.
 Watch for:
@@ -207,7 +207,7 @@ Watch for:
   - [Mild] [Evil Unalaq looks ahead, while Nuktuk punches him off balances.] When Unalaq starts trouble, he'll punch him in the mouth.
 
 ## S2 E7 — Beginnings (1)
-URL: https://watchwiththekids.com/ep/legend-of-korra/0207.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0207
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: The origins of the first Avatar are revealed to Korra.
 Watch for:
@@ -216,13 +216,13 @@ Watch for:
   - [Mild] It lifts its mouth while Wan tries to get out of there by punching through but to no avail.
 
 ## S2 E8 — Beginnings (2)
-URL: https://watchwiththekids.com/ep/legend-of-korra/0208.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0208
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Korra sets out to restore balance between the physical and spirit worlds.
 Watch for: nothing flagged.
 
 ## S2 E9 — The Guide
-URL: https://watchwiththekids.com/ep/legend-of-korra/0209.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0209
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Tenzin's assistance is sought by Korra as she prepares to enter the Spirit World for the first time.
 Watch for:
@@ -230,13 +230,13 @@ Watch for:
   - [Caution] [Blankly.] Yeah. Should've known you'd hook up with your old pals. Once a Triple Threat, always a Triple Threat.
 
 ## S2 E10 — A New Spiritual Age
-URL: https://watchwiththekids.com/ep/legend-of-korra/0210.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0210
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Korra arrives in the Spirit World, where she has difficulty forging connections with the spirits.
 Watch for: nothing flagged.
 
 ## S2 E11 — Night of a Thousand Stars
-URL: https://watchwiththekids.com/ep/legend-of-korra/0211.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0211
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Bolin proves to be a hero when President Raiko is attacked.
 Watch for:
@@ -244,7 +244,7 @@ Watch for:
   - [Mild] Cut back to the booth where Bolin punches the floor, crackling the ground with an earth wave which throws the three remaining waterbenders against the ceiling.
 
 ## S2 E12 — Harmonic Convergence
-URL: https://watchwiththekids.com/ep/legend-of-korra/0212.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0212
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra tries to seal the spirit portals prior to Harmonic Convergence.
 Watch for:
@@ -253,13 +253,13 @@ Watch for:
   - [Mild] Bumi begins punching the spirit.
 
 ## S2 E13 — Darkness Falls
-URL: https://watchwiththekids.com/ep/legend-of-korra/0213.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0213
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Unalaq's scheme has a twist uncovered by Korra. Meanwhile, Tenzin must deal with his demons if he wants to rescue his daughter.
 Watch for: nothing flagged.
 
 ## S2 E14 — Light in the Dark
-URL: https://watchwiththekids.com/ep/legend-of-korra/0214.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0214
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra learns of a method she can employ to attempt to destroy the dark spirit.
 Watch for:
@@ -268,7 +268,7 @@ Watch for:
   - [Mild] Korra runs forward and punches Unavaatu before reaching into his chest. As she touches the ball of light, she pulls out Raava. She subsequently prepares to purify Vaatu.
 
 ## S3 E1 — A Breath of Fresh Air
-URL: https://watchwiththekids.com/ep/legend-of-korra/0301.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0301
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: In the third-season opener, Korra uncovers a huge shift in the bending world, which is the result of Harmonic Convergence.
 Watch for:
@@ -278,13 +278,13 @@ Watch for:
   - [Caution] I was alerted that you had a new plan to wipe out these noxious weed. So I thought you'd want everyone to be here to watch.
 
 ## S3 E2 — Rebirth
-URL: https://watchwiththekids.com/ep/legend-of-korra/0302.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0302
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Air Nation is revived thanks to Korra and Team Avatar.
 Watch for: nothing flagged.
 
 ## S3 E3 — The Earth Queen
-URL: https://watchwiththekids.com/ep/legend-of-korra/0303.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0303
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: The team look for Airbenders on a trip to Ba Sing Se.
 Watch for:
@@ -293,7 +293,7 @@ Watch for:
   - [Caution] Bolin and Pabu walk off in a huff. Gun begins to exit the house, and Korra follows him.
 
 ## S3 E4 — In Harm's Way
-URL: https://watchwiththekids.com/ep/legend-of-korra/0304.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0304
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra wants to free Airbenders in Be Sing Se who are being forced to join the Earth Queen's army.
 Watch for:
@@ -304,7 +304,7 @@ Watch for:
   - [Mild] Cut to Team Avatar's residence, where Korra punches a protective glove in anger. Far shot of Korra, which shows that she is attacking Asami in combat attire.
 
 ## S3 E5 — The Metal Clan
-URL: https://watchwiththekids.com/ep/legend-of-korra/0305.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0305
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra and her pals arrive in the metal city of Zaofu.
 Watch for:
@@ -315,7 +315,7 @@ Watch for:
   - [Mild] The metalbender regards the polar bear dog for a moment before bending out her cable and slapping it against the ball, thereby puncturing it and causing it to deflate as she leaves.
 
 ## S3 E6 — Old Wounds
-URL: https://watchwiththekids.com/ep/legend-of-korra/0306.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0306
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Beifong confronts her past.
 Watch for:
@@ -323,7 +323,7 @@ Watch for:
   - [Caution] Suyin breaks free with her knife and sends the cables back at Lin, and the cables slice her cheek, causing Lin to scream in pain.
 
 ## S3 E7 — Original Airbenders
-URL: https://watchwiththekids.com/ep/legend-of-korra/0307.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0307
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: New members receive training from Tenzin, who must also deal with Bumi's poor attitude.
 Watch for:
@@ -331,13 +331,13 @@ Watch for:
   - [Mild] The only way to deal with new recruits is to [Punches a hand forward.] break them down so you can [Brings both hands up.] build them back up.
 
 ## S3 E8 — The Terror Within
-URL: https://watchwiththekids.com/ep/legend-of-korra/0308.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0308
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Zaheer and his crew try to kidnap Korra.
 Watch for: nothing flagged.
 
 ## S3 E9 — The Stakeout
-URL: https://watchwiththekids.com/ep/legend-of-korra/0309.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0309
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Zaheer reveals the goals of the Red Lotus to Korra while his allies close in on her.
 Watch for:
@@ -345,7 +345,7 @@ Watch for:
   - [Too much] [Alarmed. Furrows her brows.] What! You let Korra go?! I thought we were on the same page about this, and then you go and stab me in the back?
 
 ## S3 E10 — Long Live the Queen
-URL: https://watchwiththekids.com/ep/legend-of-korra/0310.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0310
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra and Asami escape and return to the oasis, so Zaheer takes his anger out on the Earth Queen as the Red Lotus destroy the city.
 Watch for:
@@ -358,13 +358,13 @@ Watch for:
   - [Caution] Dhaaah! [Giggles.] Easy, girl. Did you think we weren't coming back to you? [Snuggles Naga.]
 
 ## S3 E11 — The Ultimatum
-URL: https://watchwiththekids.com/ep/legend-of-korra/0311.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0311
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Korra contacts Tenzin as the Red Lotus attack the temple, so Tenzin and his siblings try to fight off the invaders.
 Watch for: nothing flagged.
 
 ## S3 E12 — Enter the Void
-URL: https://watchwiththekids.com/ep/legend-of-korra/0312.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0312
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Zaheer removes the hostages from the temple as Korra prepares to sacrifice herself for the other airbenders.
 Watch for:
@@ -373,7 +373,7 @@ Watch for:
   - [Mild] Come on. [Punches the hairpin, freeing Tenzin before supporting him.] We have to get to the airship.
 
 ## S3 E13 — Venom of the Red Lotus
-URL: https://watchwiththekids.com/ep/legend-of-korra/0313.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0313
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: The Red Lotus poison Korra, who takes to the skies to battle Zaheer.
 Watch for:
@@ -381,7 +381,7 @@ Watch for:
   - [Mild] Ghazan punches the floor, causing rocks to fall down. He melts the walls around him and directs it downward.
 
 ## S4 E1 — After All These Years
-URL: https://watchwiththekids.com/ep/legend-of-korra/0401.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0401
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Kai and Opal try to assist a struggling community in Earth Kingdom three years after Team Avatar was poisoned by Zaheer.
 Watch for:
@@ -389,7 +389,7 @@ Watch for:
   - [Caution] [Calmly and dryly.] That's not blood. It's strawberry pie.
 
 ## S4 E2 — Korra Alone
-URL: https://watchwiththekids.com/ep/legend-of-korra/0402.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0402
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Avatar Korra may have escaped Republic City, but she can't seem to escape her past.
 Watch for:
@@ -397,7 +397,7 @@ Watch for:
   - [Caution] Holding the bundle with her left hand, she takes up a knife laying on her right and puts it up against her hair.
 
 ## S4 E3 — The Coronation
-URL: https://watchwiththekids.com/ep/legend-of-korra/0403.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0403
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: There's only one thing Prince Wu is looking forward to more than ruling the Earth Kingdom, his PARTY!
 Watch for:
@@ -411,13 +411,13 @@ Watch for:
   - [Mild] Yeah, the swampbenders out here really can't take a punch.
 
 ## S4 E4 — The Calling
-URL: https://watchwiththekids.com/ep/legend-of-korra/0404.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0404
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Summary: Pema and Tenzin's kids leave their home to find Korra.
 Watch for: nothing flagged.
 
 ## S4 E5 — Enemy at the Gates
-URL: https://watchwiththekids.com/ep/legend-of-korra/0405.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0405
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Kuvira travels to the city of Zaofu to negotiate with Suyin Beifong. Zaofu is the last city in the Earth Kingdom not under Kuvira's rule.
 Watch for:
@@ -426,7 +426,7 @@ Watch for:
   - [Mild] She punches him back and launches cables into the ground around him, reeling herself in to kick her opponent hard.
 
 ## S4 E6 — The Battle of Zaofu
-URL: https://watchwiththekids.com/ep/legend-of-korra/0406.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0406
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra and Kuvira face off in an epic showdown.
 Watch for:
@@ -434,7 +434,7 @@ Watch for:
   - [Mild] Dodging another fiery punch, she very rapidly bends a slab of earth between her and Korra, breaking the Avatar's attack and pushing her arm up, leaving her side unprotected.
 
 ## S4 E7 — Reunion
-URL: https://watchwiththekids.com/ep/legend-of-korra/0407.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0407
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra returns to Republic City, but Kuvira'a actions spoil her homecoming.
 Watch for:
@@ -446,7 +446,7 @@ Watch for:
   - [Mild] Next to a long dock is a beat up looking red and white, wooden boat with several escaped reeducation campers aboard.
 
 ## S4 E8 — Remembrances
-URL: https://watchwiththekids.com/ep/legend-of-korra/0408.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0408
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Korra goes to Zaheer in order to face her inner fears and find balance within herself.
 Watch for:
@@ -458,7 +458,7 @@ Watch for:
   - [Mild] Mako's first punch knocks Wu to the ground again.
 
 ## S4 E9 — Beyond the Wilds
-URL: https://watchwiththekids.com/ep/legend-of-korra/0409.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0409
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Jinora gets trapped in the Spirit World and Korra mounts a rescue mission, but she's halted by Zaheer's apparition.
 Watch for:
@@ -466,7 +466,7 @@ Watch for:
   - [Mild] Mako is on her trail, though stops to release some fire punches at the incoming vines.
 
 ## S4 E10 — Operation Beifong
-URL: https://watchwiththekids.com/ep/legend-of-korra/0410.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0410
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Bolin assists Opal and Lin in rescuing the Beifongs. Meanwhile, Korra searches for help in the Spirit World.
 Watch for:
@@ -476,7 +476,7 @@ Watch for:
   - [Too much] You can't go in there, kid. It's suicide. Kuvira's onto us.
 
 ## S4 E11 — Kuvira's Gambit
-URL: https://watchwiththekids.com/ep/legend-of-korra/0411.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0411
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Korra and the gang attempt to halt Kuvira's actions against Republic City. Meanwhile, Kuvira reveals a new lethal weapon in her arsenal.
 Watch for:
@@ -487,7 +487,7 @@ Watch for:
   - [Too much] Explicit body / sex-act language appears in dialogue.
 
 ## S4 E12 — Day of the Colossus
-URL: https://watchwiththekids.com/ep/legend-of-korra/0412.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0412
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Team Avatar battle Kuvira in the heart of Republic City, and innocent bystanders are evacuated by Pema and Prince Wu.
 Watch for:
@@ -495,7 +495,7 @@ Watch for:
   - [Mild] This is my hometown and I hate to say it, but there's no use risking all our lives to fight that giant thing! Let her take the city for now! We'll think of some way to come back and beat her!
 
 ## S4 E13 — The Last Stand
-URL: https://watchwiththekids.com/ep/legend-of-korra/0413.html
+URL: https://watchwiththekids.com/ep/legend-of-korra/0413
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Summary: Korra faces off with Kuvira, and the fate of many hangs in the balance.
 Watch for:

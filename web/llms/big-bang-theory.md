@@ -1,11 +1,11 @@
 # The Big Bang Theory — parent guide (263 episodes)
 
-Source: https://watchwiththekids.com/big-bang-theory.html
+Source: https://watchwiththekids.com/big-bang-theory
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 136 mild (1–2), 85 caution (3), 42 too much (4–5).
 
 ## S1 E1 — Pilot
-URL: https://watchwiththekids.com/ep/big-bang-theory/0101.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0101
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Is a comedy about brilliant physicists, Leonard and Sheldon, who are the kind of "beautiful minds" that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door. Sheldon, Leonard's roommate, is quite content spending his nights playing Klingon Boggle with their socially dysfunctional friends, fellow Cal Tech scientists Wolowitz and Koothrappali. However, Leonard sees in Penny a whole new universe of possibilities... including love.
 Watch for:
@@ -22,7 +22,7 @@ Watch for:
   - [Mild] Sheldon: “A beautiful woman stands naked in our shower.”
 
 ## S1 E2 — The Big Bran Hypothesis
-URL: https://watchwiththekids.com/ep/big-bang-theory/0102.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0102
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard volunteers to sign for a package, hoping to make a good impression on Penny. When he enlists the help of his obsessive-compulsive roommate, Sheldon, his attempt at chivalry goes horribly awry.
 Watch for:
@@ -44,7 +44,7 @@ Watch for:
   - [Mild] Leonard: “It is an inefficient design, for example Penny has a flat screen TV, which means all the space behind it is wasted.”
 
 ## S1 E3 — The Fuzzy Boots Corollary
-URL: https://watchwiththekids.com/ep/big-bang-theory/0103.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0103
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard is bummed to learn that his crush, Penny, is seeing someone, so encouraged by his friends and fellow scientists, Leonard actually summons the nerve to ask a woman out on a date.
 Watch for:
@@ -62,7 +62,7 @@ Watch for:
   - [Too much] Sheldon: “If you’re compiling a mix CD for a double suicide. (Leonard is taking supplies out of a bag) Oh, I hope that scratching post is for you.”
 
 ## S1 E4 — The Luminous Fish Effect
-URL: https://watchwiththekids.com/ep/big-bang-theory/0104.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0104
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: When Sheldon gets fired, he explores life beyond physics, but his initial thrill of shopping with Penny devolves over time to him weaving ponchos as a shut-in, forcing Leonard to call on Sheldon's mother.
 Watch for:
@@ -71,7 +71,7 @@ Watch for:
   - [Mild] Mrs Cooper: “Well, that’s what he called it, didn’t even slow down the neighbour kids. It pissed our dog off to no end. You know, you two make a cute couple.”
 
 ## S1 E5 — The Hamburger Postulate
-URL: https://watchwiththekids.com/ep/big-bang-theory/0105.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0105
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After sensing his pursuit of Penny isn't going anywhere, Leonard agrees to an unexpected sexual encounter with fellow scientist Leslie Winkle.
 Watch for:
@@ -94,7 +94,7 @@ Watch for:
   - [Too much] Lesley: “Well, I thought I saw your pupils dilate when you looked at her, which, unless you’re a heroin addict, points to sexual attraction.”
 
 ## S1 E6 — The Middle-Earth Paradigm
-URL: https://watchwiththekids.com/ep/big-bang-theory/0106.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0106
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard, Sheldon, Wolowitz and Koothrappali undertake a challenging and risky experiment-attending the Halloween party being thrown by their hot neighbor, Penny.
 Watch for:
@@ -114,7 +114,7 @@ Watch for:
   - [Too much] Sheldon: “Happy Halloween. (They leave) If it’s any consolation, I thought that homo-habilus line really put him in his place.”
 
 ## S1 E7 — The Dumpling Paradox
-URL: https://watchwiththekids.com/ep/big-bang-theory/0107.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0107
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: When Wolowitz seduces Penny's friend and takes over her apartment, Penny sleeps on Leonard and Sheldon's couch. With Wolowitz preoccupied, the guys discover they are without a fourth member of their group and in desperation, they ask Penny to join their Halo team.
 Watch for:
@@ -142,7 +142,7 @@ Watch for:
   - [Caution] Leonard: “Oh, I don’t think she’s a whore.”
 
 ## S1 E8 — The Grasshopper Experiment
-URL: https://watchwiththekids.com/ep/big-bang-theory/0108.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0108
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Koothrappali is overwhelmed after his parents arrange a blind date, but he discovers he actually can talk to the opposite sex after a few drinks; however, complications set in when his beautiful date is more interested in Sheldon.
 Watch for:
@@ -171,7 +171,7 @@ Watch for:
   - [Caution] Raj: “You have lost so much weight! That must have been difficult for you because you were so, so fat! Do you remember?”
 
 ## S1 E9 — The Cooper-Hofstadter Polarization
-URL: https://watchwiththekids.com/ep/big-bang-theory/0109.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0109
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When Sheldon and Leonard are invited to present their joint findings at a physics conference, Sheldon refuses, and Penny steps in to mediate, only deepening the rift between the two best friends.
 Watch for:
@@ -182,7 +182,7 @@ Watch for:
   - [Mild] Sheldon: “You know, in the future, when we’re disembodied brains in jars, we’re going to look back on this as eight hours well wasted.”
 
 ## S1 E10 — The Loobenfeld Decay
-URL: https://watchwiththekids.com/ep/big-bang-theory/0110.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0110
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: After hearing Penny sing, Leonard lies to avoid seeing her perform, but Sheldon takes it one step further with a more elaborate lie that leads to the appearance of his non-existent cousin.
 Watch for:
@@ -195,7 +195,7 @@ Watch for:
   - [Mild] Toby: “This is amazing. Just sitting on a couch, watching TV with a woman. Not being drunk, or high, or… or… wondering if you’re a dude down there.”
 
 ## S1 E11 — The Pancake Batter Anomaly
-URL: https://watchwiththekids.com/ep/big-bang-theory/0111.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0111
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Sheldon gets sick, Leonard and the boys know what's in store and avoid him like the plague, leaving an unsuspecting Penny to nurse the world's worst patient back to health.
 Watch for:
@@ -203,7 +203,7 @@ Watch for:
   - [Too much] Sheldon: “Somewhere between tool using and cave painting, homo habilus would have figured out to kill the guy with the runny nose.”
 
 ## S1 E12 — The Jerusalem Duality
-URL: https://watchwiththekids.com/ep/big-bang-theory/0112.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0112
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Leonard and Sheldon meet a 15-year-old physics prodigy, Sheldon is distraught that this boy genius is younger and smarter, so in an attempt to restore his sense of purpose, the boys come up with a solution to derail Dennis' research.
 Watch for:
@@ -221,7 +221,7 @@ Watch for:
   - [Too much] Leonard: “Howard, that’s racist, any fifteen year-old girl will do the trick. (Penny slams door.)”
 
 ## S1 E13 — The Bat Jar Conjecture
-URL: https://watchwiththekids.com/ep/big-bang-theory/0113.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0113
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Since Sheldon's only focus is to prove his mental superiority while preparing for the Physics Bowl, the guys kick him off the team and enlist his nemesis Leslie Winkle.
 Watch for:
@@ -234,7 +234,7 @@ Watch for:
   - [Mild] Leonard: “What the hell is that.”
 
 ## S1 E14 — The Nerdvana Annihilation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0114.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0114
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Leonard and the guys buy a time machine prop from a classic 1960 movie, its arrival creates problems for Penny and she tells the boys that their obsession with comics and toys is "pathetic".
 Watch for:
@@ -246,7 +246,7 @@ Watch for:
   - [Caution] Sheldon: “Well is that really necessary. If you need money you can always sell blood. And semen.”
 
 ## S1 E16 — The Peanut Reaction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0116.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0116
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When Penny learns that Leonard doesn't celebrate birthdays, she attempts to throw him a surprise party, but is sidetracked by Sheldon who unexpectedly gets to live out one of his greatest fantasies at an electronics store.
 Watch for:
@@ -265,7 +265,7 @@ Watch for:
   - [Caution] Penny: “I’ve got a hot former fat girl with no self-esteem, I’ve got a girl who punishes her father by sleeping around and an alcoholic who’s two tequila shots away from letting you wear her like a hat.”
 
 ## S1 E17 — The Tangerine Factor
-URL: https://watchwiththekids.com/ep/big-bang-theory/0117.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0117
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Leonard asks Penny out on a date and she says yes, they each seek the "wisdom" of reluctant advisor.
 Watch for:
@@ -275,7 +275,7 @@ Watch for:
   - [Mild] Penny: “Well, Raj can’t talk to me unless he’s drunk, and Wolowitz is, you know, disgusting.”
 
 ## S2 E1 — The Bad Fish Paradigm
-URL: https://watchwiththekids.com/ep/big-bang-theory/0201.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0201
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: After her first date with Leonard goes awry, Penny finds an unwilling confidant in Leonard's anti-social roommate, Sheldon.
 Watch for:
@@ -288,7 +288,7 @@ Watch for:
   - [Mild] Sheldon: “Oh, good Lord. Why don’t you just take your clothes down to the river and beat them with a rock?”
 
 ## S2 E2 — The Codpiece Topology
-URL: https://watchwiththekids.com/ep/big-bang-theory/0202.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0202
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: When Leonard sees Penny with a handsome new guy, he enters into a rebound relationship with Sheldon's nemesis, Leslie Winkle.
 Watch for:
@@ -303,7 +303,7 @@ Watch for:
   - [Mild] The apartment. Leonard is dressed smartly and placing wine on the table. Sheldon enters.
 
 ## S2 E3 — The Barbarian Sublimation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0203.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0203
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon creates a monster when he introduces Penny to the world of online gaming.
 Watch for:
@@ -317,7 +317,7 @@ Watch for:
   - [Mild] Sheldon: “But wouldn’t you prefer to socialise with Tom, who is a sexually passive outdoorsman.”
 
 ## S2 E4 — The Griffin Equivalency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0204.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0204
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Raj, newly famous because of an article in a magazine, gets a big head and makes a disastrous play for Leonard's crush, Penny.
 Watch for:
@@ -333,7 +333,7 @@ Watch for:
   - [Too much] Howard: “It can’t be racist, he’s a beloved character on the Simpsons.”
 
 ## S2 E5 — The Euclid Alternative
-URL: https://watchwiththekids.com/ep/big-bang-theory/0205.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0205
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard and his friends stage an intervention to make Sheldon confront his longstanding refusal to drive.
 Watch for:
@@ -342,13 +342,13 @@ Watch for:
   - [Too much] Leonard: “Fine. Assuming that everything you say is true, how does the biologically superior Homo Novus get to work tomorrow morning?”
 
 ## S2 E6 — The Cooper-Nowitzki Theorem
-URL: https://watchwiththekids.com/ep/big-bang-theory/0206.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0206
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Young grad student's attraction to Sheldon confuses everyone, including Sheldon himself.
 Watch for: nothing flagged.
 
 ## S2 E8 — The Lizard-Spock Expansion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0208.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0208
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Wolowitz thinks he's found the love of his life, until she meets Leonard.
 Watch for:
@@ -358,7 +358,7 @@ Watch for:
   - [Mild] Howard (voice): Really? Is that what you do when someone knocks? Thank you. I had no idea! (opening door) Hey, buddy. What brings you to my little slice of hell?
 
 ## S2 E9 — The White Asparagus Triangulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0209.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0209
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon can barely contain his joy when Leonard starts dating a woman who meets Sheldon's exacting standards.
 Watch for:
@@ -372,7 +372,7 @@ Watch for:
   - [Mild] Leonard: “Want some more wine?”
 
 ## S2 E10 — The Vartabedian Conundrum
-URL: https://watchwiththekids.com/ep/big-bang-theory/0210.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0210
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon uses Dr. Stephanie to check all his hypochondriac symptoms. When Leonard's relationship with a new woman starts moving too fast for him, he goes to Penny for advice.
 Watch for:
@@ -387,7 +387,7 @@ Watch for:
   - [Mild] Steph: “I haven’t heard a thing about you. Leonard? Why haven’t I heard a thing about this woman who lives across the hall and comes into your apartment in the morning in her underwear?”
 
 ## S2 E11 — The Bath Item Gift Hypothesis
-URL: https://watchwiththekids.com/ep/big-bang-theory/0211.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0211
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Christmas is a source of stress for Leonard - whose handsome colleague starts dating Penny - and his friends, who are being tormented by Sheldon's obsession with gift-giving etiquette.
 Watch for:
@@ -405,7 +405,7 @@ Watch for:
   - [Mild] David: “Uh-huh. We’re going to explore the effects of tequila shots on a gorgeous 22-year-old woman.”
 
 ## S2 E12 — The Killer Robot Instability
-URL: https://watchwiththekids.com/ep/big-bang-theory/0212.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0212
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Penny's comment about Wolowitz's love life sends him into a depressed stupor, his friends lose their most important team-mate in an upcoming fighting robot competition.
 Watch for:
@@ -420,7 +420,7 @@ Watch for:
   - [Mild] Howard: “Yeah. They sucker punch you when your eyes are closed.”
 
 ## S2 E13 — The Friendship Algorithm
-URL: https://watchwiththekids.com/ep/big-bang-theory/0213.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0213
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Socially awkward Sheldon develops a scientific procedure for making friends.
 Watch for:
@@ -429,7 +429,7 @@ Watch for:
   - [Mild] Howard: “Oh, you’d think a guy like that would have some kind of booze lackey.”
 
 ## S2 E14 — The Financial Permeability
-URL: https://watchwiththekids.com/ep/big-bang-theory/0214.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0214
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon's "simple" solution to Penny's financial problem leads to a confrontation between Leonard and Penny's hulking ex-boyfriend, Kurt.
 Watch for:
@@ -444,7 +444,7 @@ Watch for:
   - [Mild] Leonard: “And that’s based on the inherent credit-worthiness of people who get drunk and urinate on police vehicles?”
 
 ## S2 E15 — The Maternal Capacitance
-URL: https://watchwiththekids.com/ep/big-bang-theory/0215.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0215
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Disastrous visit from Mrs. Hofstadter brings Leonard and Penny closer together.
 Watch for:
@@ -463,7 +463,7 @@ Watch for:
   - [Mild] Penny’s apartment. Penny and Leonard are doing tequila shots.
 
 ## S2 E16 — The Cushion Saturation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0216.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0216
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Paintball game leads to a fight between Penny and Sheldon, and romance for Wolowitz and Leslie.
 Watch for:
@@ -480,7 +480,7 @@ Watch for:
   - [Caution] Leonard: “Just to shoot the couch with a paintball gun?”
 
 ## S2 E17 — The Terminator Decoupling
-URL: https://watchwiththekids.com/ep/big-bang-theory/0217.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0217
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Train trip to San Francisco takes a major detour when Sheldon discovers he forgot his flash drive and Leonard, Wolowitz and Raj discover that sci-fi actor Summer Glau is onboard.
 Watch for:
@@ -494,7 +494,7 @@ Watch for:
   - [Mild] Leonard: “Is that what he’s drinking? It’s not even real beer.”
 
 ## S2 E18 — The Work Song Nanocluster
-URL: https://watchwiththekids.com/ep/big-bang-theory/0218.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0218
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Penny's home hair products business becomes a complete nightmare when a caffeine-addled Sheldon takes over.
 Watch for:
@@ -514,7 +514,7 @@ Watch for:
   - [Mild] Howard: “Oh, stop with the fake third world crap. Your father’s a gynaecologist, and you had a house full of servants.”
 
 ## S2 E19 — The Dead Hooker Juxtaposition
-URL: https://watchwiththekids.com/ep/big-bang-theory/0219.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0219
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Penny develops a rivalry with a sexy female neighbor who threatens to become "The New Penny" in the building.
 Watch for:
@@ -535,7 +535,7 @@ Watch for:
   - [Caution] Penny: “Well, dead whore on TV, live one in real life.”
 
 ## S2 E20 — The Hofstadter Isotope
-URL: https://watchwiththekids.com/ep/big-bang-theory/0220.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0220
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: While a fellow comic book-loving pal of the guys romances Penny, Leonard and Wolowitz venture out into the world of "Ladies' Night" at a local bar.
 Watch for:
@@ -557,7 +557,7 @@ Watch for:
   - [Mild] Howard: “Which means, as the evening progresses, we will get better looking courtesy of 99 cent margaritas and two-for-one Jell-O shots.”
 
 ## S2 E21 — The Vegas Renormalization
-URL: https://watchwiththekids.com/ep/big-bang-theory/0221.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0221
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Summary: Leonard and Koothrappali take a heartbroken Wolowitz to Las Vegas, leaving Sheldon locked out of his apartment and forced to bunk with Penny.
 Watch for:
@@ -581,7 +581,7 @@ Watch for:
   - [Mild] Penny: “Really? Are you drunk?”
 
 ## S2 E22 — The Classified Materials Turbulence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0222.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0222
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Things begin to look up for Leonard when Penny makes a surprising revelation on her second date with Stuart. Meanwhile, Wolowitz enlists his friends' help when he discovers a critical design flaw in his project for NASA.
 Watch for:
@@ -599,7 +599,7 @@ Watch for:
   - [Mild] Leonard: “Wine? I didn’t say to give her wine.”
 
 ## S2 E23 — The Monopolar Expedition
-URL: https://watchwiththekids.com/ep/big-bang-theory/0223.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0223
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Penny is conflicted when Leonard and his friends decide to spend the summer working - at the North Pole.
 Watch for:
@@ -614,7 +614,7 @@ Watch for:
   - [Too much] Raj, you will be painting sideburns and a Van Dyke on a six-inch figurine of Legolas the elf.
 
 ## S3 E1 — The Electric Can Opener Fluctuation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0301.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0301
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon flees back to Texas in disgrace when he learns the guys tampered with his arctic expedition data, forcing the guys to follow him and threatening Leonard's hopes for a romantic encounter with Penny.
 Watch for:
@@ -629,7 +629,7 @@ Watch for:
   - [Mild] Howard: “If y’all don’t mind, I got a hankerin’ for a Lone Star beer.”
 
 ## S3 E2 — The Jiminy Conjecture
-URL: https://watchwiththekids.com/ep/big-bang-theory/0302.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0302
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Leonard and Penny struggle to recover from an awkward first hookup while Sheldon and Howard stake their best comic books on a bet to determine the species of a cricket.
 Watch for:
@@ -654,7 +654,7 @@ Watch for:
   - [Caution] Prof Crawley: “That tramp took me for everything!”
 
 ## S3 E3 — The Gothowitz Deviation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0303.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0303
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Howard and Raj visit a Goth nightclub to pick up women while Sheldon attempts to build a better Penny using chocolate-based behavior modification.
 Watch for:
@@ -678,7 +678,7 @@ Watch for:
   - [Mild] Raj: “Light beers? Well, Wiki-how about that?”
 
 ## S3 E4 — The Pirate Solution
-URL: https://watchwiththekids.com/ep/big-bang-theory/0304.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0304
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Raj must find a new job or be sent back to India, but Sheldon has a solution, which leaves Leonard and Penny dealing with Howard as third wheel.
 Watch for:
@@ -692,7 +692,7 @@ Watch for:
   - [Too much] Sheldon: “Forgive me, as you know, I’m no adept at reading facial cues, but I’m going to take a stab here, you’re either sad or nauseated.”
 
 ## S3 E5 — The Creepy Candy Coating Corollary
-URL: https://watchwiththekids.com/ep/big-bang-theory/0305.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0305
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: While Sheldon settles a score with his nemesis, Wil Wheaton, Wolowitz begs Leonard to get Penny to set him up with one of her friends.
 Watch for:
@@ -706,7 +706,7 @@ Watch for:
   - [Mild] Howard: “All right, Raj has played his phantom warlord card, and I am going to back him up with my strangling vines. Choke on that, sucka.”
 
 ## S3 E6 — The Cornhusker Vortex
-URL: https://watchwiththekids.com/ep/big-bang-theory/0306.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0306
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon teaches Leonard how to understand football while a kite-fighting incident threatens Howard and Raj's friendship.
 Watch for:
@@ -722,7 +722,7 @@ Watch for:
   - [Mild] Penny: “Oh. I was just kind of hoping you were drunk. Now we’re back live.”
 
 ## S3 E7 — The Guitarist Amplification
-URL: https://watchwiththekids.com/ep/big-bang-theory/0307.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0307
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: An argument between Leonard and Penny proves "inconvenient" to Sheldon.
 Watch for:
@@ -732,7 +732,7 @@ Watch for:
   - [Mild] Sheldon: “All this fighting, I might as well be back with my parents! Damn it, George, I told you if you didn’t quit drinkin’ I’d leave you! Well, I guess that makes you a liar, ’cause I’m drunk as hell and you’re still here!”
 
 ## S3 E8 — The Adhesive Duck Deficiency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0308.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0308
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: With Leonard, Howard and Raj away camping in the desert, an injured Penny has only Sheldon to rely on.
 Watch for:
@@ -747,7 +747,7 @@ Watch for:
   - [Mild] Penny: “I don’t want you to see me naked.”
 
 ## S3 E9 — The Vengeance Formulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0309.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0309
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After he's humiliated on National Public Radio, Sheldon vows to destroy Kripke, while Wolowitz tries not to destroy his new relationship with Bernadette.
 Watch for:
@@ -764,7 +764,7 @@ Watch for:
   - [Too much] Leonard: “You’d have a better shot with the three-breasted Martian hooker from Total Recall.”
 
 ## S3 E10 — The Gorilla Experiment
-URL: https://watchwiththekids.com/ep/big-bang-theory/0310.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0310
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon attempts to help Penny understand Leonard's work, and Wolowitz becomes jealous when Leonard starts hanging out with his new girlfriend.
 Watch for:
@@ -775,7 +775,7 @@ Watch for:
   - [Caution] Bernadette: “Oh. You got me again. This isn’t non-fat yogurt, this is fatty fat fat. Excuse me.”
 
 ## S3 E11 — The Maternal Congruence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0311.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0311
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Visit from Leonard's mother delights Sheldon and horrifies Leonard.
 Watch for:
@@ -803,7 +803,7 @@ Watch for:
   - [Mild] Sheldon: “I don’t blame you. You were intoxicated.”
 
 ## S3 E12 — The Psychic Vortex
-URL: https://watchwiththekids.com/ep/big-bang-theory/0312.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0312
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: While Sheldon and Koothrappali attend a university mixer, Leonard is upset to discover that Penny believes in psychics.
 Watch for:
@@ -815,7 +815,7 @@ Watch for:
   - [Mild] Leonard: “What’s your point? In order to keep having a sexual relationship with Penny, I have to give up everything I believe in, my intellectual integrity, the very nature of who I am? I can’t do that, Howard.”
 
 ## S3 E13 — The Bozeman Reaction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0313.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0313
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When their apartment is robbed, Leonard and Sheldon turn to their friends to create a state-of-the-art security system.
 Watch for:
@@ -823,7 +823,7 @@ Watch for:
   - [Mild] Sheldon: “I see you’re drinking wine.”
 
 ## S3 E14 — The Einstein Approximation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0314.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0314
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon's search for the answer to a physics problem leads him to work at the Cheesecake Factory with Penny.
 Watch for:
@@ -831,7 +831,7 @@ Watch for:
   - [Mild] Sheldon: “Beer-battered fish and chips.”
 
 ## S3 E15 — The Large Hadron Collision
-URL: https://watchwiththekids.com/ep/big-bang-theory/0315.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0315
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Leonard can only bring one guest on a trip to see CERN's Large Hadron Collider in Switzerland on Valentine's Day.
 Watch for:
@@ -851,7 +851,7 @@ Watch for:
   - [Mild] Raj: “Oh, my goodness, look at this room! Champagne! Roses! Oh, and little chocolates! This is going to be the best Valentine’s Day ever.”
 
 ## S3 E16 — The Excelsior Acquisition
-URL: https://watchwiththekids.com/ep/big-bang-theory/0316.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0316
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon winds up in traffic court when he gets a ticket because of Penny.
 Watch for:
@@ -859,7 +859,7 @@ Watch for:
   - [Too much] Howard: “Yeah, right, there’s nothing more awesome and frightening than a man who’s got music blasting from between his nipples.”
 
 ## S3 E17 — The Precious Fragmentation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0317.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0317
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When the guys find a ring from "The Lord of the Rings" at a garage sale, it threatens to tear them apart.
 Watch for:
@@ -882,7 +882,7 @@ Watch for:
   - [Mild] Howard: “So, Sheldon, how’s it feel to get beaten up by a girl?”
 
 ## S3 E18 — The Pants Alternative
-URL: https://watchwiththekids.com/ep/big-bang-theory/0318.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0318
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon's friends come to his aid when his fear of public speaking stands between him and a coveted award.
 Watch for:
@@ -895,7 +895,7 @@ Watch for:
   - [Mild] Sheldon: “When I was little, my sister would say to me, close your eyes, you’ll get a surprise, and then she’d punch me.”
 
 ## S3 E19 — The Wheaton Recurrence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0319.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0319
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Fight between Leonard and Penny threatens their relationship, while Sheldon battles Wil Wheaton in bowling.
 Watch for:
@@ -908,7 +908,7 @@ Watch for:
   - [Mild] Raj: “Ah, beer. The magic elixir that can turn this poor, shy Indian boy into the life of the party. Oh, yeah.”
 
 ## S3 E20 — The Spaghetti Catalyst
-URL: https://watchwiththekids.com/ep/big-bang-theory/0320.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0320
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Leonard and Penny aren't speaking, Sheldon goes to extremes to keep them both happy.
 Watch for:
@@ -923,7 +923,7 @@ Watch for:
   - [Too much] Raj: “All right. Would you mind if I went to your room and downloaded some Asian pornography?”
 
 ## S3 E21 — The Plimpton Stimulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0321.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0321
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard and Sheldon compete for the attention of a famous female physicist.
 Watch for:
@@ -936,7 +936,7 @@ Watch for:
   - [Mild] Raj: “Maybe, but I don’t care. That’s the great thing about Nyquil, it’s like ten-percent booze. I call it the nighttime sniffling, sneezing, coughing, so you can talk to girls medicine.”
 
 ## S3 E22 — The Staircase Implementation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0322.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0322
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard tells Penny about how he met Sheldon for the first time...and what happened to the elevator.
 Watch for:
@@ -944,7 +944,7 @@ Watch for:
   - [Mild] Past Sheldon: “I assure you, you’ll be sorry you wasted your money on an iPod when Microsoft comes out with theirs.”
 
 ## S3 E23 — The Lunar Excitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0323.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0323
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: While Penny worries that dating Leonard has ruined her for normal guys, Wolowitz and Koothrappali search for Sheldon's perfect match online.
 Watch for:
@@ -973,7 +973,7 @@ Watch for:
   - [Caution] Howard: “The phrase is get back on the horse, not whores.”
 
 ## S4 E1 — The Robotic Manipulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0401.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0401
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Penny finds herself along for the ride on Sheldon's first date ever; while Wolowitz finds a new use for a robotic arm.
 Watch for:
@@ -998,7 +998,7 @@ Watch for:
   - [Caution] Amy: “This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?”
 
 ## S4 E2 — The Cruciferous Vegetable Amplification
-URL: https://watchwiththekids.com/ep/big-bang-theory/0402.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0402
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon realizes he won't live long enough to download his consciousness into a robot body, and attempts to extend his lifespan.
 Watch for:
@@ -1008,7 +1008,7 @@ Watch for:
   - [Caution] Sheldon-bot: “Because I called shotgun. Remember?”
 
 ## S4 E3 — The Zazzy Substitution
-URL: https://watchwiththekids.com/ep/big-bang-theory/0403.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0403
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: The guys are concerned as Sheldon searches for an alternative to human companionship.
 Watch for:
@@ -1021,7 +1021,7 @@ Watch for:
   - [Mild] Leonard: “I assume by never again, you mean never again will you drink all of Penny’s beer, then run down to the gas station for a couple of 40s, a box of Slim Jims and the latest issue of Bombay Badonkadonks.”
 
 ## S4 E4 — The Hot Troll Deviation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0404.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0404
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: An embarrassing secret of Wolowitz's comes to light, while Sheldon and Raj have a small war at work.
 Watch for:
@@ -1038,7 +1038,7 @@ Watch for:
   - [Mild] Raj: “Well, seeing as its purpose was to piss you off, I’d say it’s spot-on.”
 
 ## S4 E5 — The Desperation Emanation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0405.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0405
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Leonard realizes he's the only one without a girlfriend, while Sheldon wants to get rid of his.
 Watch for:
@@ -1053,7 +1053,7 @@ Watch for:
   - [Mild] Howard: “Why the hell would you cross Ebola with the common cold?”
 
 ## S4 E6 — The Irish Pub Formulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0406.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0406
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Leonard keeps an affair secret from Sheldon, Howard and Raj.
 Watch for:
@@ -1061,7 +1061,7 @@ Watch for:
   - [Mild] Sheldon: “Don’t listen to him, he’s still light headed from all the Irish whiskey and pickled eggs in his system.”
 
 ## S4 E7 — The Apology Insufficiency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0407.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0407
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon's answers during an FBI interview put Wolowitz's security clearance in jeopardy.
 Watch for:
@@ -1074,7 +1074,7 @@ Watch for:
   - [Mild] Penny (pouring out a shot of tequila): Here you go, one Rosewater Ricky.
 
 ## S4 E8 — The 21-Second Excitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0408.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0408
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: While the guys camp in line for a screening, Penny and Bernadette invite Amy to her first slumber party.
 Watch for:
@@ -1083,7 +1083,7 @@ Watch for:
   - [Mild] Penny: “What the hell was that?”
 
 ## S4 E9 — The Boyfriend Complexity
-URL: https://watchwiththekids.com/ep/big-bang-theory/0409.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0409
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Penny asks Leonard to lie to her father, while Howard, Raj and Bernadette pull an all-nighter at a telescope.
 Watch for:
@@ -1096,7 +1096,7 @@ Watch for:
   - [Too much] Howard: “Actually, Indian Monopoly’s just like regular, except the money’s in Rupees, instead of hotels you build call centers, and when you pick a chance card, you might die of dysentery. Just FYI, that was racist.”
 
 ## S4 E10 — The Alien Parasite Hypothesis
-URL: https://watchwiththekids.com/ep/big-bang-theory/0410.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0410
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Amy finds she has sexual feelings for Penny's ex, while Koothrappali and Wolowitz try to prove who would be the better superhero.
 Watch for:
@@ -1110,7 +1110,7 @@ Watch for:
   - [Mild] Raj: “Oh, yeah? What if the earth was in danger and the only way to save it was to take a shower in the locker room and let other guys see you naked?”
 
 ## S4 E11 — The Justice League Recombination
-URL: https://watchwiththekids.com/ep/big-bang-theory/0411.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0411
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: The guys find a "super" use for Penny's new boyfriend, Zack, when they enter a costume contest as the Justice League.
 Watch for:
@@ -1125,7 +1125,7 @@ Watch for:
   - [Mild] Zack: “You guys want to come in and have a beer?”
 
 ## S4 E12 — The Bus Pants Utilization
-URL: https://watchwiththekids.com/ep/big-bang-theory/0412.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0412
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard's idea for a smartphone app derails his friendship with Sheldon.
 Watch for:
@@ -1136,7 +1136,7 @@ Watch for:
   - [Too much] Raj: “Oh. Very clever. But still racist.”
 
 ## S4 E13 — The Love Car Displacement
-URL: https://watchwiththekids.com/ep/big-bang-theory/0413.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0413
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Tension runs high when everyone is staying at the same hotel for a science event and Bernadette runs into her ex-boyfriend.
 Watch for:
@@ -1151,7 +1151,7 @@ Watch for:
   - [Mild] Amy: “Please don’t touch my breasts.”
 
 ## S4 E14 — The Thespian Catalyst
-URL: https://watchwiththekids.com/ep/big-bang-theory/0414.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0414
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon hopes acting lessons from Penny will help him become a better teacher. Meanwhile, Koothrappali fantasizes about his best friend's girlfriend.
 Watch for:
@@ -1166,7 +1166,7 @@ Watch for:
   - [Mild] Sheldon: “Yes, but he’s going to a better place where he won’t get beat up. So much.”
 
 ## S4 E15 — The Benefactor Factor
-URL: https://watchwiththekids.com/ep/big-bang-theory/0415.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0415
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: A wealthy donor to the university makes Leonard consider how far he's willing to go for the sake of science.
 Watch for:
@@ -1186,7 +1186,7 @@ Watch for:
   - [Caution] Penny: “Good morning, slut.”
 
 ## S4 E16 — The Cohabitation Formulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0416.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0416
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: As Wolowitz contemplates taking things with Bernadette to the next level, Leonard rekindles his relationship with Raj's sister.
 Watch for:
@@ -1206,7 +1206,7 @@ Watch for:
   - [Mild] Bernadette: “It’s cute. You sound a little like a drunken monkey. Ooh-ooh-ooh-ooh!”
 
 ## S4 E17 — The Toast Derivation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0417.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0417
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon struggles to cope when he realizes it's actually Leonard who is the center of their social group.
 Watch for:
@@ -1229,7 +1229,7 @@ Watch for:
   - [Mild] Zack: “Great, I’ll make a beer run.”
 
 ## S4 E18 — The Prestidigitation Approximation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0418.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0418
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard must choose between new girlfriend Priya and his friendship with Penny. Meanwhile, Howard drives Sheldon crazy with a magic trick.
 Watch for:
@@ -1251,7 +1251,7 @@ Watch for:
   - [Too much] Leonard: “Is it racist that I took you to an Indian restaurant?”
 
 ## S4 E19 — The Zarnecki Incursion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0419.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0419
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: When someone hacks Sheldon's online game account, the guys go on a quest to find the culprit.
 Watch for:
@@ -1273,7 +1273,7 @@ Watch for:
   - [Mild] Amy: “Believe me, it’s there, we all have it. Hit me with some more booze, and I’ll show you.”
 
 ## S4 E20 — The Herb Garden Germination
-URL: https://watchwiththekids.com/ep/big-bang-theory/0420.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0420
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Amy experiment on their friends by spreading gossip, while Howard takes a big step in his relationship with Bernadette.
 Watch for:
@@ -1292,7 +1292,7 @@ Watch for:
   - [Mild] Penny: “What the hell are you doing? Howard is your best friend, and that is his girlfriend. You should be ashamed of yourself.”
 
 ## S4 E21 — The Agreement Dissection
-URL: https://watchwiththekids.com/ep/big-bang-theory/0421.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0421
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Priya uses her lawyer skills to pick apart the roommate agreement, the girls take Sheldon dancing.
 Watch for:
@@ -1306,7 +1306,7 @@ Watch for:
   - [Mild] Sheldon: “Ah, memory impairment, the free prize at the bottom of every vodka bottle.”
 
 ## S4 E22 — The Wildebeest Implementation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0422.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0422
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Summary: Raj attempts to cure his social anxiety disorder while Penny uses Bernadette to spy on Leonard and his girlfriend.
 Watch for:
@@ -1330,7 +1330,7 @@ Watch for:
   - [Mild] us away, we love you.” I love you, too, but you cost more than my rent. “But, Penny, you look so good in us.” Damn it, the shoes are right.
 
 ## S4 E23 — The Engagement Reaction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0423.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0423
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: When Howard finally breaks the news to his mom that he's engaged to Bernadette, it lands her in the hospital.
 Watch for:
@@ -1348,7 +1348,7 @@ Watch for:
   - [Mild] Sheldon: “I gargled with tequila and may have swallowed a teeny bit.”
 
 ## S4 E24 — The Roommate Transmogrification
-URL: https://watchwiththekids.com/ep/big-bang-theory/0424.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0424
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Bernadette receives her Ph.D., the guys take joy in reminding an emasculated Wolowitz that he is the only one in their group who isn't a doctor. Meanwhile, Koothrappali becomes Sheldon's new roommate after hearing Leonard and Priya engaging in a "Star Trek" bedroom fantasy.
 Watch for:
@@ -1369,7 +1369,7 @@ Watch for:
   - [Too much] Raj: “I’m the new Homo in town. That came out wrong.”
 
 ## S5 E1 — The Skank Reflex Analysis
-URL: https://watchwiththekids.com/ep/big-bang-theory/0501.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0501
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Penny worries that she's screwed things up permanently with her friends, while Sheldon takes command of the paintball team.
 Watch for:
@@ -1401,7 +1401,7 @@ Watch for:
   - [Caution] Amy: “You can’t blame yourself. When your prefrontal cortex fails to make you happy, promiscuity rewards you with the needed flood of dopamine. We neurobiologists refer to this as the skank reflex.”
 
 ## S5 E2 — The Infestation Hypothesis
-URL: https://watchwiththekids.com/ep/big-bang-theory/0502.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0502
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Fight between Sheldon and Penny leaves Amy caught in the middle, while Leonard tries to spice up his long-distance relationship with Priya.
 Watch for:
@@ -1420,7 +1420,7 @@ Watch for:
   - [Too much] Raj: “How can you be so racist?”
 
 ## S5 E3 — The Pulled Groin Extrapolation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0503.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0503
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Leonard and Amy get to know each other better, while Howard and Bernadette spend the weekend with Mrs. Wolowitz.
 Watch for:
@@ -1440,7 +1440,7 @@ Watch for:
   - [Caution] Amy: “The inevitable, he was lonely and vulnerable from missing his girlfriend, while I was charming, supportive and, let’s face it, in this dress, the perfect combination of Madonna and whore.”
 
 ## S5 E4 — The Wiggly Finger Catalyst
-URL: https://watchwiththekids.com/ep/big-bang-theory/0504.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0504
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Raj finally meets a girl he can communicate with.
 Watch for:
@@ -1456,7 +1456,7 @@ Watch for:
   - [Mild] Sheldon: “Let’s see what I’ll be washing that succotash down with. A pitcher of margaritas.”
 
 ## S5 E5 — The Russian Rocket Reaction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0505.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0505
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Leonard get invited to a party at Wil Wheaton's house, and Howard gets an out-of-this-world opportunity.
 Watch for:
@@ -1468,7 +1468,7 @@ Watch for:
   - [Too much] Leonard: “No, it’s okay. I’m gonna stab my friend in the chest.”
 
 ## S5 E6 — The Rhinitis Revelation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0506.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0506
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Sheldon competes with the gang for his mother's attention when she comes to visit.
 Watch for:
@@ -1487,7 +1487,7 @@ Watch for:
   - [Too much] Mrs Cooper: “Oh, I thought the one we couldn’t say was ching chong.”
 
 ## S5 E7 — The Good Guy Fluctuation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0507.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0507
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Cute comic book artist puts Leonard and Priya's relationship to the test, while Sheldon tries to scare the guys for Halloween.
 Watch for:
@@ -1512,7 +1512,7 @@ Watch for:
   - [Mild] Penny: “Okay, good, because there’s this one guy I used to date who’s about to be force-fed wine and cheese if he doesn’t get to the point.”
 
 ## S5 E8 — The Isolation Permutation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0508.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0508
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Amy is crushed when Bernadette and Penny go shopping for wedding dresses without her.
 Watch for:
@@ -1530,7 +1530,7 @@ Watch for:
   - [Mild] Amy: “Well, I came here to get a bottle of wine like Penny taught me to do when you’re sad.”
 
 ## S5 E9 — The Ornithophobia Diffusion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0509.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0509
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard and Penny try hanging out alone, and Sheldon must overcome his fear of birds.
 Watch for:
@@ -1547,7 +1547,7 @@ Watch for:
   - [Caution] Sheldon: “Age seven, a blood-thirsty chicken chases me up a tree. Age twelve, a magpie tries to steal the retainer out of my mouth. Age sixteen, a parrot in a pet store called me fat ass. Need I go on?”
 
 ## S5 E10 — The Flaming Spittoon Acquisition
-URL: https://watchwiththekids.com/ep/big-bang-theory/0510.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0510
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon considers taking his relationship with Amy to the next level when Stuart from the comic book store asks her out on a date.
 Watch for:
@@ -1563,7 +1563,7 @@ Watch for:
   - [Mild] Bernadette: “Looks like it’s just us playing. (Penny snores) Penny? (Penny snores louder) Penny, we’re out of wine!”
 
 ## S5 E11 — The Speckerman Recurrence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0511.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0511
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard must face his fears after being contacted by his high school tormentor.
 Watch for:
@@ -1590,7 +1590,7 @@ Watch for:
   - [Mild] Sheldon: “Then take away his keys and make him wander the streets with the other drunks.”
 
 ## S5 E13 — The Recombination Hypothesis
-URL: https://watchwiththekids.com/ep/big-bang-theory/0513.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0513
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Everything might change when Leonard offers Penny a spur of the moment invitation to a romantic dinner for two.
 Watch for:
@@ -1611,7 +1611,7 @@ Watch for:
   - [Caution] Leonard: “We are next to a Suburu with a Gore/Lieberman bumper sticker.”
 
 ## S5 E14 — The Beta Test Initiation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0514.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0514
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard and Penny experiment with dating, while Raj develops a peculiar relationship with his phone's virtual assistant.
 Watch for:
@@ -1624,7 +1624,7 @@ Watch for:
   - [Mild] Raj: “Can I pour you some wine?”
 
 ## S5 E15 — The Friendship Contraction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0515.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0515
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon's selfish demands force Leonard to reconsider their friendship. Meanwhile, Wolowitz tries to pick his astronaut nickname.
 Watch for:
@@ -1644,7 +1644,7 @@ Watch for:
   - [Mild] Sheldon: “Oh, he’ll be back. Wine and a girl in the dark, he’s gonna be bored out of his mind.”
 
 ## S5 E16 — The Vacation Solution
-URL: https://watchwiththekids.com/ep/big-bang-theory/0516.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0516
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Sheldon is forced to take his vacation, he goes to work with Amy in her neurobiology lab. Meanwhile, Bernadette wants Howard to sign a pre-nup.
 Watch for:
@@ -1664,7 +1664,7 @@ Watch for:
   - [Mild] Sheldon: “It’s not. I’ll have you know, in the field of physics, we work with particles so small, they make fat jokes about the locus coeruleus, i.e., when your locus coeruleus sits around the house, it sits around the house.”
 
 ## S5 E17 — The Rothman Disintegration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0517.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0517
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When an office at the University opens up, Sheldon must compete for it with his archenemy, Kripke. Meanwhile, a gift from Amy makes Penny uncomfortable.
 Watch for:
@@ -1678,7 +1678,7 @@ Watch for:
   - [Mild] Amy: “Originally we were painted nude. But I had him add clothes, ’cause I thought it was an unnecessary challenge to our heterosexuality.”
 
 ## S5 E18 — The Werewolf Transformation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0518.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0518
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon's life is turned upside-down after his barber gets sick. Meanwhile, astronaut training causes Wolowitz to rethink his decision to go into space.
 Watch for:
@@ -1692,7 +1692,7 @@ Watch for:
   - [Mild] Sheldon: “Oh, relax. It was just her bottom and her breasts.”
 
 ## S5 E19 — The Weekend Vortex
-URL: https://watchwiththekids.com/ep/big-bang-theory/0519.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0519
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon chooses to play video games with the guys rather than go with Amy to her aunt's birthday party.
 Watch for:
@@ -1709,7 +1709,7 @@ Watch for:
   - [Mild] Penny: “So, now I will drink this entire cup of beer, and you will go again and we can… uh… all right.”
 
 ## S5 E20 — The Transporter Malfunction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0520.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0520
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Penny buys Leonard and Sheldon "Star Trek" collectibles as a thank-you, leading Sheldon to be haunted by Mr. Spock. Meanwhile, Raj decides he has met the "Future Mrs. Koothrappali" after his parents set him up on a date.
 Watch for:
@@ -1726,7 +1726,7 @@ Watch for:
   - [Too much] Raj: “Listen, I love your charming racist humour, but any chance you could not knock my religion while she’s here.”
 
 ## S5 E21 — The Hawking Excitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0521.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0521
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Wolowitz gets to work with Stephen Hawking, Sheldon is willing to do anything to meet his hero.
 Watch for:
@@ -1737,7 +1737,7 @@ Watch for:
   - [Mild] Penny: “Ugh. Why are you washing Howard’s man panties?”
 
 ## S5 E22 — The Stag Convergence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0522.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0522
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Bernadette reconsiders marrying Howard after learning about his sexual history.
 Watch for:
@@ -1769,7 +1769,7 @@ Watch for:
   - [Mild] Sheldon: “Jeepers, I’m drunk.”
 
 ## S5 E23 — The Launch Acceleration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0523.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0523
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: NASA reschedules Howard's mission, putting his and Bernadette's wedding plans in jeopardy. Meanwhile, Leonard says something surprising to Penny in the bedroom.
 Watch for:
@@ -1785,7 +1785,7 @@ Watch for:
   - [Too much] Mr. Rostenkowski: “Nah, his wife shot him. But she was nuts, so in a way.”
 
 ## S5 E24 — The Countdown Reflection
-URL: https://watchwiththekids.com/ep/big-bang-theory/0524.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0524
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Howard and Bernadette decide they want to be married before his NASA launch, the gang rushes to put on a wedding.
 Watch for:
@@ -1795,7 +1795,7 @@ Watch for:
   - [Mild] Leonard: “Where’d you get a beer?”
 
 ## S6 E1 — The Date Night Variable
-URL: https://watchwiththekids.com/ep/big-bang-theory/0601.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0601
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: With his friends on dates, Raj must face his loneliness. Also, Wolowitz is caught in an argument between Bernadette and his mom, even while he's in space.
 Watch for:
@@ -1812,7 +1812,7 @@ Watch for:
   - [Mild] Raj: “She’s kind of a mean drunk, but what are you gonna do?”
 
 ## S6 E2 — The Decoupling Fluctuation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0602.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0602
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When Sheldon learns that Penny is thinking about breaking up with Leonard, he tries to intervene. Meanwhile, in space, the other astronauts pick on Howard.
 Watch for:
@@ -1822,7 +1822,7 @@ Watch for:
   - [Caution] Leonard: “The guy who seems like an emotionless robot is you, but your relationship with Amy is causing you to transform into a red-blooded man with sexual desires.”
 
 ## S6 E3 — The Higgs Boson Observation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0603.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0603
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Amy feels threatened when Sheldon hires a young female assistant, and the pressure of being in space takes its toll on Wolowitz.
 Watch for:
@@ -1837,7 +1837,7 @@ Watch for:
   - [Caution] Amy (to Penny, on other side of room): You were right. I had nothing to worry about. That skank’s your problem, not mine.
 
 ## S6 E4 — The Re-Entry Minimization
-URL: https://watchwiththekids.com/ep/big-bang-theory/0604.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0604
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Wolowitz returns from space, he doesn't get the hero's welcome he expected. Meanwhile, Game Night turns into a battle of the sexes.
 Watch for:
@@ -1850,7 +1850,7 @@ Watch for:
   - [Mild] Penny: “Okay. Just for the record, I have never entered a wet T-shirt contest. I’ve won a few, but that’s just because I spill when I’m drunk, so…”
 
 ## S6 E5 — The Holographic Excitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0605.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0605
 Scores: violence 1/5, sex 5/5, language 1/5, overall 5/5 (Heavy — skip for under 16)
 Summary: The gang celebrates Halloween at Stuart's comic book store. Meanwhile, Leonard seduces Penny with science.
 Watch for:
@@ -1866,7 +1866,7 @@ Watch for:
   - [Too much] Howard: “But you know what wasn’t a party? That hotel in Kazakhstan they put you up in before the launch. I mean, it’s your last night on Earth. You’d think you’d get one porn channel.”
 
 ## S6 E6 — The Extract Obliteration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0606.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0606
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon's relationship with Stephen Hawking is threatened over a game of "Words with Friends," and Penny secretly enrolls in a class at the local college.
 Watch for:
@@ -1883,7 +1883,7 @@ Watch for:
   - [Mild] Penny: “Okay. An examination of the economic, cultural, and political roots of slavery in the Old South, 1619 to 1865. What the hell is this?”
 
 ## S6 E7 — The Habitation Configuration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0607.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0607
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Wolowitz struggles with moving out of his mother's house. Meanwhile, Sheldon is caught in the middle of an argument between Amy and Wil Wheaton.
 Watch for:
@@ -1892,7 +1892,7 @@ Watch for:
   - [Mild] Howard: “Okay, I have now officially moved out of my mother’s house. You are now the only woman in my life who I’ll see naked in the bathroom.”
 
 ## S6 E8 — The 43 Peculiarity
-URL: https://watchwiththekids.com/ep/big-bang-theory/0608.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0608
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Howard and Raj try to get to the bottom of why Sheldon disappears every afternoon at 2:45. Meanwhile, Leonard and Penny deal with jealousy in their relationship.
 Watch for:
@@ -1903,7 +1903,7 @@ Watch for:
   - [Too much] Leonard: “Right, the case of who murdered three Saturday nights of my life?”
 
 ## S6 E9 — The Parking Spot Escalation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0609.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0609
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When the University reassigns Sheldon's parking spot to Wolowitz, their fight affects the whole gang.
 Watch for:
@@ -1923,7 +1923,7 @@ Watch for:
   - [Caution] Sheldon: “A naked man sat on it. Now, here’s my concern, his diet is rich in fatty deli meats. What test do you have to detect lipid residue?”
 
 ## S6 E10 — The Fish Guts Displacement
-URL: https://watchwiththekids.com/ep/big-bang-theory/0610.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0610
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon tries to nurse a sick Amy back to health, while Wolowitz prepares for an upcoming fishing trip with his father-in-law.
 Watch for:
@@ -1937,7 +1937,7 @@ Watch for:
   - [Mild] Sheldon: “You know, it’s a tad old-school, but my father was not one to spare the rod when my brother would sneak into his truck and drink his driving whiskey.”
 
 ## S6 E11 — The Santa Simulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0611.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0611
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon revisits some Christmas memories during a game of Dungeons and Dragons, while Penny, Bernadette and Amy try to find a girl for Koothrappali when he joins the girls for ladies' night.
 Watch for:
@@ -1956,7 +1956,7 @@ Watch for:
   - [Mild] Penny: “Of course he is. Look, that girl just got dumped by her boyfriend. She’s angry, she’s drunk, and her favorite movie is Slumdog Millionaire. I mean.”
 
 ## S6 E12 — The Egg Salad Equivalency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0612.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0612
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon gets accused of sexual harassment at the University and winds up getting Leonard, Raj and Wolowitz in trouble.
 Watch for:
@@ -1982,7 +1982,7 @@ Watch for:
   - [Too much] Sheldon: “Yes. No, yeah, but in his defense, that wasn’t racist. He’s also brown.”
 
 ## S6 E13 — The Bakersfield Expedition
-URL: https://watchwiththekids.com/ep/big-bang-theory/0613.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0613
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: While the guys take a road trip to a comic book convention dressed as "Star Trek: The Next Generation" characters, the girls stay home and try to interpret a comic book.
 Watch for:
@@ -1995,7 +1995,7 @@ Watch for:
   - [Mild] Penny: “Oh, this is the best. You have booze with breakfast on a Tuesday, you got a problem. You do it on the weekend, you got brunch.”
 
 ## S6 E14 — The Cooper/Kripke Inversion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0614.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0614
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon is forced to work with Barry Kripke and faces a crisis of confidence. Meanwhile, Howard and Raj spend $1,000 on action figures of themselves.
 Watch for:
@@ -2015,7 +2015,7 @@ Watch for:
   - [Mild] Howard: “I can’t believe I wasted all that money.”
 
 ## S6 E15 — The Spoiler Alert Segmentation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0615.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0615
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: When Sheldon and Leonard fight, it affects Penny and Amy's living arrangements. Meanwhile, Raj takes care of Mrs. Wolowitz while Howard is away.
 Watch for:
@@ -2033,7 +2033,7 @@ Watch for:
   - [Mild] Penny: “Come on, Amy, let’s go drink wine and talk about what jerks our boyfriends are.”
 
 ## S6 E16 — The Tangible Affection Proof
-URL: https://watchwiththekids.com/ep/big-bang-theory/0616.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0616
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: While the guys try to give their significant others the perfect Valentine's Day, Raj and Stuart throw a "lonely people" party at the comic book store.
 Watch for:
@@ -2053,7 +2053,7 @@ Watch for:
   - [Mild] Penny: “Okay. You know what? This might be the wine talking, but I have a very important question to ask you.”
 
 ## S6 E17 — The Monster Isolation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0617.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0617
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: After a terrible date, Koothrappali vows to never leave his apartment. Meanwhile, Penny actually impresses Sheldon with her acting skills.
 Watch for:
@@ -2068,7 +2068,7 @@ Watch for:
   - [Too much] Sheldon: “I did shoot one last week, in honour of Black History Month, but I was informed by my roommate that my spot-on portrayal of George Washington Carver could be considered wildly racist.”
 
 ## S6 E18 — The Contractual Obligation Implementation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0618.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0618
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard, Sheldon and Wolowitz speak to junior high girls about careers in science. Meanwhile, Koothrappali plans a date with Lucy.
 Watch for:
@@ -2092,7 +2092,7 @@ Watch for:
   - [Mild] Penny: “You’re kidding, right? We’re not just gonna get drunk and go on rides?”
 
 ## S6 E19 — The Closet Reconfiguration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0619.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0619
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Howard struggles with whether or not he should open a letter from his father, and Leonard and Penny throw a "grown-up" cocktail party at the apartment.
 Watch for:
@@ -2103,7 +2103,7 @@ Watch for:
   - [Mild] Leonard: “I’m thinking you need a testosterone patch. Penny and I just want to do something low-key. You know, cocktails, light jazz music, hors d’oeuvres.”
 
 ## S6 E20 — The Tenure Turbulence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0620.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0620
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard, Sheldon and Raj fight for tenure at the University, and the competition heats up when the girls get involved.
 Watch for:
@@ -2121,7 +2121,7 @@ Watch for:
   - [Mild] Bernadette: “I think that’s enough wine for now.”
 
 ## S6 E21 — The Closure Alternative
-URL: https://watchwiththekids.com/ep/big-bang-theory/0621.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0621
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon feels lost after one of his favorite TV shows gets canceled too soon and Amy tries to help him get over his compulsive need for closure. Meanwhile, Raj discovers a secret about his new love interest, Lucy.
 Watch for:
@@ -2135,7 +2135,7 @@ Watch for:
   - [Too much] Penny: “Yeah, it was fun. Kind of reminded me of my high school. But instead of vampires, we had meth heads. But both came out at night and had messed up teeth.”
 
 ## S6 E22 — The Proton Resurgence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0622.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0622
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Leonard hire Professor Proton, the host of their favorite childhood TV show, to perform. Also, Howard and Bernadette run into trouble babysitting Raj's dog.
 Watch for:
@@ -2144,7 +2144,7 @@ Watch for:
   - [Mild] Arthur: “Sure, what the hell.”
 
 ## S6 E23 — The Love Spell Potential
-URL: https://watchwiththekids.com/ep/big-bang-theory/0623.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0623
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: When the girls' trip to Vegas falls through, the guys invite them to play Dungeons & Dragons, causing Sheldon and Amy's relationship to take an unexpected turn. Meanwhile, Koothrappali and Lucy go on a very awkward date.
 Watch for:
@@ -2167,7 +2167,7 @@ Watch for:
   - [Mild] Amy: “No rules? We’re not gonna get drunk and have a six-way with the Blue Man Group, are we?”
 
 ## S6 E24 — The Bon Voyage Reaction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0624.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0624
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: New success for Leonard makes Sheldon very jealous and throws Penny for a loop. Meanwhile, Koothrappali pushes Lucy too far in their relationship.
 Watch for:
@@ -2177,7 +2177,7 @@ Watch for:
   - [Mild] Penny: “That’s great. Do you want some wine?”
 
 ## S7 E1 — The Hofstadter Insufficiency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0701.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0701
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: With Leonard away, Sheldon and Penny spend quality time together sharing intimate secrets. Also, Wolowitz helps Raj get over his ex-girlfriend.
 Watch for:
@@ -2194,7 +2194,7 @@ Watch for:
   - [Mild] Sheldon: “Well, perhaps you’re obsessively picturing him engaged in drunken coitus with another woman. Is that it? Did I get it right?”
 
 ## S7 E2 — The Deception Verification
-URL: https://watchwiththekids.com/ep/big-bang-theory/0702.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0702
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard's friendship with Sheldon is put to the test when he returns from the North Sea. Meanwhile, Wolowitz's relationship with his mother causes an unusual threat to his masculinity.
 Watch for:
@@ -2218,7 +2218,7 @@ Watch for:
   - [Caution] Howard: “You’re kidding, right? I mean, you know I’m trying to lose weight. God, I thought we were partners in this marriage.”
 
 ## S7 E3 — The Scavenger Vortex
-URL: https://watchwiththekids.com/ep/big-bang-theory/0703.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0703
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When the entire gang competes in a scavenger hunt designed by Raj, it brings out the best - and worst - in everyone.
 Watch for:
@@ -2231,7 +2231,7 @@ Watch for:
   - [Mild] Penny: “Wow. I can drink a beer underwater.”
 
 ## S7 E4 — The Raiders Minimization
-URL: https://watchwiththekids.com/ep/big-bang-theory/0704.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0704
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: Sheldon seeks revenge after Amy ruins one of his favorite movies. Meanwhile, Leonard discovers a way to get Penny to do anything, and Raj and Stuart create online dating profiles.
 Watch for:
@@ -2251,13 +2251,13 @@ Watch for:
   - [Mild] Raj: “Come on. One more time. Yeah, it’s, it’s a little blurry, but I think that works in your favour. Do you want a beer?”
 
 ## S7 E5 — The Workplace Proximity
-URL: https://watchwiththekids.com/ep/big-bang-theory/0705.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0705
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Sheldon must decide how much "Amy time" is too much after she takes a job at his university. Meanwhile, Howard finds himself sleeping on Raj's couch after a fight with Bernadette.
 Watch for: nothing flagged.
 
 ## S7 E6 — The Romance Resonance
-URL: https://watchwiththekids.com/ep/big-bang-theory/0706.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0706
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon's major scientific breakthrough makes him feel like a fraud. Meanwhile, Howard's romantic gesture to Bernadette causes Penny to step up her game with Leonard.
 Watch for:
@@ -2275,7 +2275,7 @@ Watch for:
   - [Mild] Penny: “I discovered a secret ingredient. The flavour packet. That sucker is well named. All right, lover boy, get ready, ’cause there is a crap storm of romance coming your way.”
 
 ## S7 E7 — The Proton Displacement
-URL: https://watchwiththekids.com/ep/big-bang-theory/0707.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0707
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon feels slighted when Professor Proton seeks advice from Leonard instead of him, and he seeks revenge by befriending a rival science TV host, Bill Nye. Meanwhile, Raj gets jealous when Howard crashes "girls' night".
 Watch for:
@@ -2285,7 +2285,7 @@ Watch for:
   - [Mild] Raj: “You think they came up with that? They were going to drink beer and play darts.”
 
 ## S7 E8 — The Itchy Brain Simulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0708.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0708
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard tries to keep Sheldon from overreacting when a past mistake comes to light, but Sheldon punishes Leonard by making him walk a mile in his shoes. Meanwhile, Penny confronts Raj's ex-girlfriend, Lucy.
 Watch for:
@@ -2300,7 +2300,7 @@ Watch for:
   - [Too much] Penny: “I’m not gonna say anything. I just want to check her out. Because she hurt my friend. My Indian friend. Who’s racist now?”
 
 ## S7 E9 — The Thanksgiving Decoupling
-URL: https://watchwiththekids.com/ep/big-bang-theory/0709.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0709
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Sheldon protests when the gang drags him to Mrs. Wolowitz's house for Thanksgiving. Meanwhile, Penny and Leonard must deal with a mistake from her past.
 Watch for:
@@ -2320,7 +2320,7 @@ Watch for:
   - [Caution] Howard: “You know, my mom’s been to Arizona. She rode one of those mules down in the Grand Canyon. Long story short, they had to shoot it. ‘Cause she’s so fat. I’ll get the door while you finish laughing. Hey, guys.”
 
 ## S7 E10 — The Discovery Dissipation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0710.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0710
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard and Amy help Sheldon cope with the shame he's feeling after his accidental contribution to science is disproved. Meanwhile, Raj must stay with Howard and Bernadette for a week.
 Watch for:
@@ -2331,7 +2331,7 @@ Watch for:
   - [Mild] Amy: “I’ll get the vodka.”
 
 ## S7 E11 — The Cooper Extraction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0711.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0711
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: While Sheldon is away in Texas, everyone gathers to decorate the apartment Christmas tree, and they each realize how much he has changed their lives.
 Watch for:
@@ -2347,7 +2347,7 @@ Watch for:
   - [Too much] Amy: “It’s great. It’s Christmastime and Jimmy Stewart’s really depressed and he’s gonna jump off a bridge and kill himself.”
 
 ## S7 E12 — The Hesitation Ramification
-URL: https://watchwiththekids.com/ep/big-bang-theory/0712.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0712
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When Penny's big acting break on NCIS is a bust, Leonard struggles to help her, which results in Penny asking Leonard a bold relationship question. Meanwhile, Sheldon tries to learn how to be funny and Raj tries to work on his "game" before talking to girls.
 Watch for:
@@ -2359,7 +2359,7 @@ Watch for:
   - [Caution] Sheldon: “For example, uh, Wolowitz’s mother is so fat that she decided to go on a diet, or exercise, or both.”
 
 ## S7 E13 — The Occupation Recalibration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0713.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0713
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon tries to relax after he is forced to take a vacation. Meanwhile, Leonard struggles to be supportive of Penny after she quits her job, and Bernadette seeks Stuart's help in replacing one of Howard's comic books.
 Watch for:
@@ -2367,7 +2367,7 @@ Watch for:
   - [Too much] Sheldon: “I’ve read that there are great yogis who have such mastery over their bodies they can draw water in through their genitals.”
 
 ## S7 E14 — The Convention Conundrum
-URL: https://watchwiththekids.com/ep/big-bang-theory/0714.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0714
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: After the guys can't get Comic-Con tickets, Sheldon tries to hold his own convention and winds up spending a wild night with James Earl Jones. Meanwhile, the girls see if they can act like "grown-ups".
 Watch for:
@@ -2382,7 +2382,7 @@ Watch for:
   - [Mild] Sheldon: “I can’t believe we wasted all that time on our Hulk costumes.”
 
 ## S7 E15 — The Locomotive Manipulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0715.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0715
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Love is in the air when Sheldon and Amy join Howard and Bernadette for a trip to wine country. Meanwhile, Leonard and Penny must rush Raj's dog to the vet.
 Watch for:
@@ -2397,7 +2397,7 @@ Watch for:
   - [Mild] Sheldon: “Well, if you want romance, then let’s have romance. Oh, look, there’s wine. Mmm. Grape juice that burns. Uh, now let’s gaze into each other’s eyes, hmm? You blinked. I win.”
 
 ## S7 E17 — The Friendship Turbulence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0717.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0717
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: After the insults fly, Bernadette tries to broker the peace between Wolowitz and Sheldon. Meanwhile, Penny is offered an embarrassing movie role and Raj asks Amy to write to a woman on his behalf.
 Watch for:
@@ -2415,7 +2415,7 @@ Watch for:
   - [Mild] Penny: “Because it was crap. It’s a sequel to that awful killer gorilla movie I was in.”
 
 ## S7 E18 — The Mommy Observation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0718.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0718
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When Sheldon visits his Mom in Houston, he is forced to confront a new reality. Meanwhile, Raj's 'Murder Mystery' party starts some fights within the gang.
 Watch for:
@@ -2440,7 +2440,7 @@ Watch for:
   - [Mild] Penny: “Well, my beer isn’t flat and my rack’s not saggy. So far, the future’s great.”
 
 ## S7 E19 — The Indecision Amalgamation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0719.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0719
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: While Raj is wracked with guilt when he tries to date two women at once, Penny wrestles with whether to take a role in a cheesy movie and Sheldon is torn trying to choose between two gaming systems.
 Watch for:
@@ -2449,7 +2449,7 @@ Watch for:
   - [Mild] Raj: “Well, to be honest, we only went on four dates, hugged twice, kissed once, and there was a handshake loaded with sexual innuendo.”
 
 ## S7 E20 — The Relationship Diremption
-URL: https://watchwiththekids.com/ep/big-bang-theory/0720.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0720
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon faces a personal crisis after deciding he's wasting his time with string theory. Meanwhile, a double date between Raj, Emily and the Wolowitzes ends in embarrassment for Howard.
 Watch for:
@@ -2460,7 +2460,7 @@ Watch for:
   - [Caution] Sheldon: “Oh, please. If I wanted to take up a fad, I’d get a tramp stamp.”
 
 ## S7 E21 — The Anything Can Happen Recurrence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0721.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0721
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Sheldon tries to be spontaneous, it leads to unexpected friction between Penny, Amy and Bernadette. Meanwhile, Raj seeks Howard's help in preparing for a date with Emily.
 Watch for:
@@ -2475,7 +2475,7 @@ Watch for:
   - [Caution] Howard: “A straight-up gore-fest? You hate this stuff.”
 
 ## S7 E22 — The Proton Transmogrification
-URL: https://watchwiththekids.com/ep/big-bang-theory/0722.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0722
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Professor Proton helps Sheldon cope with grief, while Leonard turns a relationship milestone into a competition with Penny. Meanwhile, Amy and Bernadette make a "Star Wars Day" gift for the guys.
 Watch for:
@@ -2488,7 +2488,7 @@ Watch for:
   - [Caution] Amy: “Oh, I went to the library and took out a book on biology to see what whores did.”
 
 ## S7 E23 — The Gorilla Dissolution
-URL: https://watchwiththekids.com/ep/big-bang-theory/0723.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0723
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Bad day causes Penny to reevaluate her life choices - including Leonard. Meanwhile, Howard and Bernadette struggle to care for Mrs. Wolowitz, and Raj gets relationship advice from Sheldon.
 Watch for:
@@ -2506,7 +2506,7 @@ Watch for:
   - [Mild] Wil: “Penny, it’s not about being famous. It’s about the art. It’s about the passion we have for our craft. (Text message tone) I have an audition for Sharknado 2. If I book this, I am totally gonna pay you back for this beer.”
 
 ## S7 E24 — The Status Quo Combustion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0724.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0724
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon is forced to confront an uncertain future and considers a major move. Meanwhile, Raj and Emily take it to the next level, and Mrs. Wolowitz's injury is a major headache for Howard and Bernadette.
 Watch for:
@@ -2520,7 +2520,7 @@ Watch for:
   - [Mild] Penny: “You want some wine?”
 
 ## S8 E1 — The Locomotion Interruption
-URL: https://watchwiththekids.com/ep/big-bang-theory/0801.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0801
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard and Amy take an unexpected road trip to Arizona to pick up Sheldon. Meanwhile, Penny interviews for a job at Bernadette's company, and Howard is weirded out by Stuart's relationship with Mrs. Wolowitz.
 Watch for:
@@ -2535,7 +2535,7 @@ Watch for:
   - [Too much] Sheldon: “You know, Sherlock Holmes liked to use cocaine to sharpen his focus. But I’m sure those Cool Ranch Doritos are doing the trick.”
 
 ## S8 E2 — The Junior Professor Solution
-URL: https://watchwiththekids.com/ep/big-bang-theory/0802.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0802
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon is ordered to teach a class, and the gang is surprised when Howard signs up to take it; and tensions between Penny and Bernadette afford Amy an opportunity to play one against the other.
 Watch for:
@@ -2547,7 +2547,7 @@ Watch for:
   - [Caution] Amy: “I’m saying, in the spirit of science, what is that little skank’s problem?”
 
 ## S8 E3 — The First Pitch Insufficiency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0803.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0803
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Wolowitz is nervous after NASA asks him to throw out the first pitch at a Los Angeles Angels game. Meanwhile, Leonard and Penny try to prove Sheldon wrong after he says that he and Amy are a "superior couple".
 Watch for:
@@ -2557,7 +2557,7 @@ Watch for:
   - [Caution] Sheldon: “And it may not be cool to say so, but I think that love affair is still pretty hot today.”
 
 ## S8 E6 — The Expedition Approximation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0806.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0806
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Raj test whether they could survive a dark-matter research expedition in a salt mine by simulating the conditions in a steam tunnel. Meanwhile, Leonard and Penny seek advice from Wolowitz and Bernadette after they fight about money.
 Watch for:
@@ -2571,7 +2571,7 @@ Watch for:
   - [Mild] Howard: “Talk about wasted money. What about the late fees on our credit card because somebody didn’t pay the bill on time?”
 
 ## S8 E7 — The Misinterpretation Agitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0807.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0807
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: The guys try to help Penny out of an awkward work dilemma. Meanwhile, Amy and Bernadette argue over whether or not female scientists should play up their sexuality.
 Watch for:
@@ -2589,7 +2589,7 @@ Watch for:
   - [Caution] Raj: “The gun from Hellboy?”
 
 ## S8 E8 — The Prom Equivalency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0808.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0808
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When the gang recreates a high school prom on the roof the of the guys' apartment building, Sheldon feels pressure to participate in all the typical romantic traditions.
 Watch for:
@@ -2611,7 +2611,7 @@ Watch for:
   - [Mild] Howard: “Stuart, we have to talk. This thing with you and my mom, I hate it. It’s making me crazy. You and I were friends for years, and now you’re bringing my mother to a party I’m going to? What the hell?”
 
 ## S8 E9 — The Septum Deviation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0809.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0809
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Leonard gets minor surgery on his nose, Sheldon is the one in need of sympathy. Meanwhile, Raj's parents' impending divorce causes Howard and Bernadette to work on their own marriage.
 Watch for:
@@ -2619,7 +2619,7 @@ Watch for:
   - [Caution] Sheldon: “Oh, you’re hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose. The minute you sneeze web, I’m moving out.”
 
 ## S8 E10 — The Champagne Reflection
-URL: https://watchwiththekids.com/ep/big-bang-theory/0810.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0810
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon says a tearful goodbye to "Fun with Flags." Also, Leonard, Howard and Raj look for something significant in a dead professor's research, and Bernadette is shocked to learn her co-workers' true feelings from Penny.
 Watch for:
@@ -2633,7 +2633,7 @@ Watch for:
   - [Too much] Sheldon: “You heard him, Leonard. No, it’s not racist.”
 
 ## S8 E11 — The Clean Room Infiltration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0811.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0811
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: On Christmas Eve, Amy plans a traditional Victorian dinner, while Raj, Leonard and Howard scramble to remove a pigeon that flew into the clean room at the university. To prove a point to Amy, a Scrooge-like Sheldon buys her the worst possible gift.
 Watch for:
@@ -2646,7 +2646,7 @@ Watch for:
   - [Mild] Sheldon: “Because in the last ten minutes, Santa came to town, kissed Mommy and ran Grandma over with a reindeer. I had a drunk uncle who did all those things. Nobody sings songs about him.”
 
 ## S8 E12 — The Space Probe Disintegration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0812.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0812
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Wolowitz tries to distract Raj, who is anxiously awaiting data from a space probe he helped launch. Meanwhile, Sheldon and Leonard go dress shopping with Penny and Amy.
 Watch for:
@@ -2663,7 +2663,7 @@ Watch for:
   - [Caution] Penny: “Uh, not really a great outfit for work, unless something opens up in the hookers and whores division. Hey, can I ask you something?”
 
 ## S8 E14 — The Troll Manifestation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0814.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0814
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: After Leonard and Sheldon co-publish a physics paper, they must defend themselves against criticism from an online bully. Also, girls' night finds Penny, Amy and Bernadette confronting embarrassing moments from their past.
 Watch for:
@@ -2675,7 +2675,7 @@ Watch for:
   - [Mild] Sheldon: “We could, but we always run the risk of someone else beating us to the punch.”
 
 ## S8 E15 — The Comic Book Store Regeneration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0815.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0815
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Wolowitz receives some shocking news as everyone prepares for the reopening of Stuart's comic book store. Penny teaches Sheldon how to "let it go," but can't follow her own advice after she learns something infuriating about Amy. Also, Leonard and Raj think they spot Nathan Fillion at a restaurant.
 Watch for:
@@ -2685,7 +2685,7 @@ Watch for:
   - [Caution] Penny: “Son of a bitch.”
 
 ## S8 E16 — The Intimacy Acceleration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0816.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0816
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: As a joke, Sheldon and Penny try an experiment designed to make participants fall in love. Also, Leonard, Amy, Raj and Emily spend the evening trying to escape a room with a "zombie." And, after returning from Mrs. Wolowitz' funeral, Bernadette and Howard run into trouble at the airport.
 Watch for:
@@ -2694,7 +2694,7 @@ Watch for:
   - [Mild] Penny: “Well, not to steal from the Bible, but turning water into wine sounds pretty good.”
 
 ## S8 E17 — The Colonization Application
-URL: https://watchwiththekids.com/ep/big-bang-theory/0817.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0817
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Trouble arises when Amy learns Sheldon has applied for a one-way mission to colonize Mars. Also, a trip to the pet store ends in a fight for Sheldon and Amy, Leonard surprises Penny with a very "adult" purchase, and, Raj is caught snooping in Emily's apartment.
 Watch for:
@@ -2705,7 +2705,7 @@ Watch for:
   - [Mild] Howard: “Does she have any pillows or wine glasses?”
 
 ## S8 E18 — The Leftover Thermalization
-URL: https://watchwiththekids.com/ep/big-bang-theory/0818.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0818
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Friction ensues when a magazine fails to mention Leonard in an article about the paper he co-wrote with Sheldon. Also, a blackout at Mrs. Wolowitz's home leads to a final family dinner in her honor.
 Watch for:
@@ -2715,7 +2715,7 @@ Watch for:
   - [Caution] Penny: “Guys, if I wanted to hear people be bitchy, I’d go to my real salon.”
 
 ## S8 E19 — The Skywalker Incursion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0819.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0819
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Leonard and Sheldon are invited to speak at UC Berkeley, they take a detour to try to meet an idol. Also, when Bernadette and Howard battle over the fate of his Dr. Who TARDIS, Raj and Amy offer to settle the dispute with a game of ping pong.
 Watch for:
@@ -2733,7 +2733,7 @@ Watch for:
   - [Mild] Penny: “Oh, I meant beer pong.”
 
 ## S8 E20 — The Fortification Implementation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0820.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0820
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Sheldon and Amy build a blanket fort, they come to major crossroads in their relationship. Also, Wolowitz meets the half-brother he never knew he had, and when Penny is invited to appear on Wil Wheaton's podcast, she and Leonard have a huge, on-air argument.
 Watch for:
@@ -2742,7 +2742,7 @@ Watch for:
   - [Mild] Josh: “So, I have to ask, was the robot sexy?”
 
 ## S8 E21 — The Communication Deterioration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0821.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0821
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When Raj is asked to create a message in case a NASA mission discovers alien life, the guys fight over what he should do. Also, Penny is torn between auditioning for a movie or keeping her successful pharmaceutical sales job.
 Watch for:
@@ -2755,7 +2755,7 @@ Watch for:
   - [Mild] Bernadette: “Don’t take this the wrong way, but how many of these little booze balls have you had?”
 
 ## S8 E22 — The Graduation Transmission
-URL: https://watchwiththekids.com/ep/big-bang-theory/0822.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0822
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Wolowitz questions his engineering abilities when he and Sheldon can't get a toy drone to fly. Meanwhile, a cancelled flight nearly prevents Leonard from giving the commencement address at his former high school, and Raj pits his parents against each other when his father cuts him off financially.
 Watch for:
@@ -2767,7 +2767,7 @@ Watch for:
   - [Mild] Penny: “Uh, yeah, I just need to throw in a few last minute things, you know, makeup, underwear, clothes.”
 
 ## S8 E23 — The Maternal Combustion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0823.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0823
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Personalities collide when Sheldon and Leonard's mothers finally meet. Meanwhile, Howard finally decides to "man up" and do his fair share of the housework - but not without a little help from his friends.
 Watch for:
@@ -2779,7 +2779,7 @@ Watch for:
   - [Too much] Mrs Cooper: “Doesn’t matter, a good Christian would’ve turned the other cheek. On the other hand, a good Texan would’ve shot her, so, I just kind of split the difference. Hey, who’s in the mood for spaghetti and hot dogs?”
 
 ## S8 E24 — The Commitment Determination
-URL: https://watchwiththekids.com/ep/big-bang-theory/0824.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0824
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: In the Season 8 finale, Leonard and Penny are pressured to set a wedding date by Sheldon, whose relationship with Amy has taken an interesting turn.
 Watch for:
@@ -2789,7 +2789,7 @@ Watch for:
   - [Mild] Howard: “Right. You’re gonna break up with a girl who has sex with you. Can you believe this guy?”
 
 ## S9 E1 — The Matrimonial Momentum
-URL: https://watchwiththekids.com/ep/big-bang-theory/0901.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0901
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Summary: After driving to Vegas to get married, Penny struggles with Leonard's confession that he kissed another girl. Also, Sheldon doesn't know how to act after Amy pushes pause on their relationship.
 Watch for:
@@ -2808,7 +2808,7 @@ Watch for:
   - [Caution] Mrs Cooper: “Well, honey, don’t send it back yet. Your sister’s married, and I’m not letting your brother give my grandmother’s ring to that whore he’s dating.”
 
 ## S9 E2 — The Separation Oscillation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0902.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0902
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard confronts the woman he kissed on the North Sea in an attempt to set Penny's mind at ease. Also, Sheldon films a special episode of "Fun with Flags" after his breakup with Amy, and Bernadette feels guilty about withholding a secret from Penny.
 Watch for:
@@ -2822,7 +2822,7 @@ Watch for:
   - [Mild] Leonard: “You know, what we did, when we were drunk.”
 
 ## S9 E4 — The 2003 Approximation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0904.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0904
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon learns of an impending change in his living arrangements and decides to revert back to 2003, a simpler time before he met Leonard and Penny. Also, Howard and Raj form a band to play at the Comic Book Store.
 Watch for:
@@ -2830,7 +2830,7 @@ Watch for:
   - [Caution] Howard: “Oh, please. Your brain belongs to whoever’s willing to sleep with you.”
 
 ## S9 E5 — The Perspiration Implementation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0905.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0905
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: The guys take a fencing lesson from Barry Kripke and Sheldon finds himself in an awkward position when Kripke expresses interest in Amy. Also, when Stuart struggles to get female customers at the Comic Book Store, Penny, Amy and Bernadette come by to help him out.
 Watch for:
@@ -2848,7 +2848,7 @@ Watch for:
   - [Mild] Raj: “How many sips of that beer did he have?”
 
 ## S9 E6 — The Helium Insufficiency
-URL: https://watchwiththekids.com/ep/big-bang-theory/0906.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0906
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: In the midst of a nation-wide helium shortage, Sheldon and Leonard take desperate measures to get the supplies they need. Also, Penny and Bernadette download a dating app on Amy's phone to try and find her a new man.
 Watch for:
@@ -2861,7 +2861,7 @@ Watch for:
   - [Mild] Leonard: “Listen, we can do the experiment as planned and beat the Swedish team to the punch, or we can kiss our dreams good-bye because we were to afraid to break a few rules.”
 
 ## S9 E7 — The Spock Resonance
-URL: https://watchwiththekids.com/ep/big-bang-theory/0907.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0907
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: While being interviewed for a documentary about Spock from "Star Trek", Sheldon struggles to suppress his emotions about his recent break-up with Amy. Also, Wolowitz and Bernadette butt heads over remodeling his childhood home.
 Watch for:
@@ -2869,7 +2869,7 @@ Watch for:
   - [Mild] Bernadette: “Oh, please. Mom did everything. All you did was come home from work, sit on the couch and drink beer. How is that raising kids?”
 
 ## S9 E8 — The Mystery Date Observation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0908.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0908
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Leonard, Penny and Bernadette learn that Amy is going out on a dinner date, the trio set out to spy on her and the guy. Meanwhile, Sheldon recruits Raj and Howard to find a woman for him, since they were responsible for getting Amy and him together.
 Watch for:
@@ -2881,7 +2881,7 @@ Watch for:
   - [Caution] Sheldon: “Off the top of my head? Uh, prospective women weed themselves out in a battle of wits until only one champion remains, and she shows up at my door flush with…”
 
 ## S9 E9 — The Platonic Permutation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0909.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0909
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Amy try hanging out as friends when they spend Thanksgiving together at the aquarium. Also, Wolowitz reluctantly agrees to volunteer at the soup kitchen with Bernadette, Raj and Emily, and Penny discovers that Leonard knows more about her than she thought.
 Watch for:
@@ -2894,7 +2894,7 @@ Watch for:
   - [Caution] Sheldon: “I don’t know if I’d call it discussing. You kind of sat back and let me do all the work. Let’s see, what’s next on the list. Oh, uh, do you whittle, and if so, what kind of knife do you use.”
 
 ## S9 E10 — The Earworm Reverberation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0910.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0910
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Sheldon has a revelation when he realizes why a song was stuck in his head. Also, Amy invites Dave over for dinner despite their previously awkward date, and Wolowitz and Koothrappali become obsessed with a fan of their band, "Footprints on the Moon".
 Watch for:
@@ -2908,7 +2908,7 @@ Watch for:
   - [Mild] Raj: “Yeah. He’s 24. He’s a deejay. He brews his own beer. He’s got awesome tattoos. Dude, he’s got a hot girlfriend, too.”
 
 ## S9 E12 — The Sales Call Sublimation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0912.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0912
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Penny gets more than she bargained for when Leonard agrees to meet with a psychiatrist on her behalf. Also, Sheldon and Koothrappali collaborate on an astronomical discovery, and Wolowitz and Bernadette can't believe what they are feeling after Stuart moves out.
 Watch for:
@@ -2919,7 +2919,7 @@ Watch for:
   - [Too much] Howard: “I know. It’s not like he returns the favour when he watches his Japanese porn cartoons.”
 
 ## S9 E15 — The Valentino Submergence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0915.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0915
 Scores: violence 2/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Amy host a live Valentine's Day episode of Fun with Flags, Leonard and Penny grapple with getting older, Howard and Bernadette find a surprise in their hot tub and Raj is torn between Emily and the cute girl he met at the Comic Bookstore.
 Watch for:
@@ -2941,7 +2941,7 @@ Watch for:
   - [Mild] Barry: “Thwee diffewent men? Damn, girl, way to give the milk away?”
 
 ## S9 E16 — The Positive Negative Reaction
-URL: https://watchwiththekids.com/ep/big-bang-theory/0916.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0916
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: When the gang finds out about Bernadette's pregnancy, they celebrate by singing karaoke. Also, Bernadette is concerned when Wolowitz freaks out over her pregnancy announcement, and Wolowitz is convinced he must make more money to provide for the baby.
 Watch for:
@@ -2962,13 +2962,13 @@ Watch for:
   - [Mild] Amy: “He used a period instead of a question mark. He’s so wasted.”
 
 ## S9 E17 — The Celebration Experimentation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0917.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0917
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: After more than nine years together, the gang finally celebrates Sheldon's birthday, surprising him with a special guest.
 Watch for: nothing flagged.
 
 ## S9 E18 — The Application Deterioration
-URL: https://watchwiththekids.com/ep/big-bang-theory/0918.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0918
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard, Sheldon, and Wolowitz run into problems when they file for a patent for their infinite persistence gyroscope. Also, Penny, Amy and Bernadette give Koothrappali dating advice when Emily reaches out to him after their breakup.
 Watch for:
@@ -2980,7 +2980,7 @@ Watch for:
   - [Caution] Amy: “She’s pregnant, she’s not a bloodhound.”
 
 ## S9 E19 — The Solder Excursion Diversion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0919.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0919
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Amy is shocked at a revelation from Sheldon after she buys him a new laptop. Also, Koothrappali sells out Leonard and Wolowitz after they lie to their wives in order to attend an early screening of a movie.
 Watch for:
@@ -2998,7 +2998,7 @@ Watch for:
   - [Mild] Bernadette: “Sometimes he solders at home with his shirt off. It’s like a beer commercial.”
 
 ## S9 E20 — The Big Bear Precipitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0920.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0920
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon spills a secret of Leonard's when the two take a weekend cabin trip with Penny and Amy. Also, when Koothrappali goes overboard with pregnancy gifts, Wolowitz and Bernadette must draw the line.
 Watch for:
@@ -3008,7 +3008,7 @@ Watch for:
   - [Mild] Sheldon: “Oh, never have I ever drunk milk past its expiration date.”
 
 ## S9 E21 — The Viewing Party Combustion
-URL: https://watchwiththekids.com/ep/big-bang-theory/0921.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0921
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Everyone must choose sides when a small argument between Leonard and Sheldon erupts into a heated fight during a group get-together.
 Watch for:
@@ -3028,7 +3028,7 @@ Watch for:
   - [Mild] Howard: “So what the hell happened?”
 
 ## S9 E22 — The Fermentation Bifurcation
-URL: https://watchwiththekids.com/ep/big-bang-theory/0922.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0922
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: The gang goes to a wine bar and runs into Penny's old boyfriend, Zack. Also, Bernadette gets stuck spending the evening with Sheldon when she can't go wine tasting with the group, and things don't go as planned when Koothrappali introduces his new girlfriend, Claire.
 Watch for:
@@ -3043,7 +3043,7 @@ Watch for:
   - [Mild] Sheldon: “Wine again? Yeah, no, thank you. I like my grapes the old-fashioned way, in a juice box.”
 
 ## S9 E23 — The Line Substitution Solution
-URL: https://watchwiththekids.com/ep/big-bang-theory/0923.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0923
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon hires Stuart to spend the day with Amy when he'd rather go to a movie screening. Also, Leonard's mother, Beverly, comes to town and Penny struggles to make a connection with her.
 Watch for:
@@ -3055,7 +3055,7 @@ Watch for:
   - [Mild] Howard: “I can’t believe we’re gonna get beat up, and it’s not because of your chair.”
 
 ## S9 E24 — The Convergence Convergence
-URL: https://watchwiththekids.com/ep/big-bang-theory/0924.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/0924
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Chaos ensues when Leonard's recently divorced parents, Alfred and Beverly, and Sheldon's devoutly religious mother, Mary, come to town. Also, Wolowitz and Koothrappali think the government is out to get them when they are contacted about their guidance system.
 Watch for:
@@ -3065,7 +3065,7 @@ Watch for:
   - [Caution] Beverly: “You do understand our marriage ended because he had an affair.”
 
 ## S10 E1 — The Conjugal Conjecture
-URL: https://watchwiththekids.com/ep/big-bang-theory/1001.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1001
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: After Sheldon's mother and Leonard's father share an evening together, everyone deals with an awkward morning the following day. Also, Penny's family arrives for the ceremony, including her anxiety-ridden mother, Susan, and her drug dealing brother, Randall.
 Watch for:
@@ -3079,7 +3079,7 @@ Watch for:
   - [Mild] Wyatt: “Well, I could use another beer.”
 
 ## S10 E3 — The Dependence Transcendence
-URL: https://watchwiththekids.com/ep/big-bang-theory/1003.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1003
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Tensions rise when the boys struggle to complete their government project on time and Sheldon tries an energy drink to stay awake. Also, Penny and Amy go to a "party" at Bert the geologist's house, and Kooothrappali learns Bernadette's true feelings about her pregnancy when they clean out the future baby room.
 Watch for:
@@ -3094,7 +3094,7 @@ Watch for:
   - [Too much] Raj: “Oh, come on, we could share a pretzel and get sideways glances from racist old ladies.”
 
 ## S10 E4 — The Cohabitation Experimentation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1004.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1004
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: When Amy's apartment floods, she proposes a "cohabitation experiment" with Sheldon. Also, Howard and Bernadette are upset when Koothrappali learns the gender of the baby before they do.
 Watch for:
@@ -3112,7 +3112,7 @@ Watch for:
   - [Mild] Amy: “Good call. Seeing your Teen Titans underwear really got my motor running.”
 
 ## S10 E5 — The Hot Tub Contamination
-URL: https://watchwiththekids.com/ep/big-bang-theory/1005.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1005
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard and Penny must separate a quarreling Sheldon and Amy when their cohabitation does not go as planned, and Sheldon threatens to break off their relationship when Amy refuses to adhere to the bathroom schedule. Also, Howard and Bernadette find unexpected guests at their house when they decide to stay home from a planned vacation.
 Watch for:
@@ -3123,7 +3123,7 @@ Watch for:
   - [Mild] Howard: “He’s in our hot tub drinking our wine.”
 
 ## S10 E7 — The Veracity Elasticity
-URL: https://watchwiththekids.com/ep/big-bang-theory/1007.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1007
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: In order to continue living with Sheldon, Amy lies to him about repairs being made to her apartment and they host an "on location" episode of "Fun With Flags" in Penny's apartment. Also, Leonard lets Penny decorate Sheldon's old room after he learns that she has been secretly moving Leonard's collectibles into storage.
 Watch for:
@@ -3131,7 +3131,7 @@ Watch for:
   - [Mild] Penny: “We turned your room into a sex dungeon.”
 
 ## S10 E8 — The Brain Bowl Incubation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1008.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1008
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: After a successful experiment combining their genes, Sheldon will stop at nothing to convince Amy they should procreate. Also, Koothrappali is embarrassed to tell the gang what the new woman he's dating does for a living.
 Watch for:
@@ -3141,7 +3141,7 @@ Watch for:
   - [Mild] Howard: “No, she’s right. As long as I’ve known you, you’ve always been self-conscious about your cleavage.”
 
 ## S10 E9 — The Geology Elevation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1009.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1009
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Bert, a Caltech geologist, wins the MacArthur Genius fellowship, Sheldon is overcome with jealousy. Also, Wolowitz finds an old remote control Stephen Hawking action figure he invented.
 Watch for:
@@ -3152,7 +3152,7 @@ Watch for:
   - [Mild] Sheldon: “I didn’t punch him. He turned around, and I gave him a Captain Kirk karate chop. I’m not even sure he knows I did it.”
 
 ## S10 E10 — The Property Division Collision
-URL: https://watchwiththekids.com/ep/big-bang-theory/1010.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1010
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Leonard must divide up their possessions and remove Penny's things from 4B.
 Watch for:
@@ -3169,7 +3169,7 @@ Watch for:
   - [Mild] Stuart: “You mean the one with the empty beer bottles in the sandbox? We’ll pass, thank you.”
 
 ## S10 E11 — The Birthday Synchronicity
-URL: https://watchwiththekids.com/ep/big-bang-theory/1011.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1011
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Amy attempt to have an intimate moment together to celebrate Amy's birthday; Bernadette and Wolowitz welcome their newborn baby to the world.
 Watch for:
@@ -3186,7 +3186,7 @@ Watch for:
   - [Caution] Raj: “For God’s sake, just drive in the knife, why don’t you.”
 
 ## S10 E12 — The Holiday Summation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1012.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1012
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Amy visit Leonard and Penny for the first time since the holidays and share details about their terrible trip to Texas.
 Watch for:
@@ -3200,7 +3200,7 @@ Watch for:
   - [Caution] Sheldon: “All right. This is on you. Amy and I are living together in sin, like a couple of New Yorkers. Now, while you scold us, I’m going to get a knife and a fork. Joe may be sloppy, but Sheldon’s not.”
 
 ## S10 E13 — The Romance Recalibration
-URL: https://watchwiththekids.com/ep/big-bang-theory/1013.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1013
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard and Penny ask for Sheldon's and Amy's help on putting the romance back in their marriage. Howard and Raj go to extreme lengths to stop the floor in Halley's bedroom from making noise.
 Watch for:
@@ -3215,7 +3215,7 @@ Watch for:
   - [Mild] Sheldon: “Very well. Hey, later we’ll check out the minibar, I’ll show you how Godzilla gets drunk.”
 
 ## S10 E14 — The Emotion Detection Automation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1014.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1014
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon beta tests an MIT invention after hearing it can help him read people's emotions. Also, Leonard can't hide his feelings when Penny announces her brother is coming to town and Raj invites his ex-girlfriends over to give him dating advice.
 Watch for:
@@ -3226,7 +3226,7 @@ Watch for:
   - [Caution] Leonard: “Fine. You invited your drug dealer brother to stay with us for God knows how long and didn’t bother to ask me first.”
 
 ## S10 E15 — The Locomotion Reverberation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1015.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1015
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard and Wolowitz try to distract Sheldon when he slows the progress of their guidance system. Also, Penny and Amy take Bernadette out for the night, leaving Raj and Stuart to care for baby Halley.
 Watch for:
@@ -3239,7 +3239,7 @@ Watch for:
   - [Mild] Bernadette: “I’m not sad. I just wanted to get drunk and not wear sweatpants.”
 
 ## S10 E16 — The Allowance Evaporation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1016.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1016
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Amy have their first fight since moving in together, and Koothrappali is shocked at the realities of financial independence when he stops receiving support from his father.
 Watch for:
@@ -3252,7 +3252,7 @@ Watch for:
   - [Mild] Howard: “What, what are you doing? I, I, I schlepped the baby over, I brought imported beer. Why don’t you like me?”
 
 ## S10 E18 — The Escape Hatch Identification
-URL: https://watchwiththekids.com/ep/big-bang-theory/1018.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1018
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Raj moves out of his apartment, Leonard and Penny offer him Sheldon's old room.
 Watch for:
@@ -3260,7 +3260,7 @@ Watch for:
   - [Caution] Howard: “He also never had sex in that room. That’s something else to look forward to.”
 
 ## S10 E19 — The Collaboration Fluctuation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1019.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1019
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Leonard, Penny and Raj adjust to their new living arrangement, and Sheldon takes an interest in Amy's work.
 Watch for:
@@ -3276,7 +3276,7 @@ Watch for:
   - [Mild] Raj: “It didn’t work for Randy, it didn’t work for Tina, it sure as hell isn’t gonna work for Jennifer.”
 
 ## S10 E20 — The Recollection Dissipation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1020.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1020
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon pushes himself to the limit when he collaborates on projects with Leonard and Wolowitz as well as Amy on the same day. Also, Bernadette is nearing the end of her maternity leave and must return to work.
 Watch for:
@@ -3289,7 +3289,7 @@ Watch for:
   - [Mild] Stuart: “Why don’t you think she’s fine? She sounds fine, she looks fine. If I saw her on the street I’d say, damn, that girl’s fine.”
 
 ## S10 E21 — The Separation Agitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1021.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1021
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Howard and Bernadette have a hard time leaving Halley in day care when Bernadette returns to work. Also, Bert introduces the gang to his new girlfriend, Rebecca.
 Watch for:
@@ -3297,7 +3297,7 @@ Watch for:
   - [Mild] Bert: “She was also interested in walking around my house in her underwear. Now the only one doing that is me.”
 
 ## S10 E22 — The Cognition Regeneration
-URL: https://watchwiththekids.com/ep/big-bang-theory/1022.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1022
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard isn't thrilled when Penny considers taking a new job offered by her ex-boyfriend, Zack.
 Watch for:
@@ -3310,7 +3310,7 @@ Watch for:
   - [Mild] Bernadette: “Yeah, they say the yeast in beer helps with milk production.”
 
 ## S10 E23 — The Gyroscopic Collapse
-URL: https://watchwiththekids.com/ep/big-bang-theory/1023.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1023
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: After Leonard, Sheldon and Wolowitz celebrate the completion of the top secret air force project, they are met with an unpleasant surprise. Also, Amy is offered a summer position as a visiting researcher.
 Watch for:
@@ -3319,7 +3319,7 @@ Watch for:
   - [Mild] Howard: “No. Then you’ll get all sexed up and I’m not in the mood. I mean, an entire year wasted.”
 
 ## S10 E24 — The Long Distance Dissonance
-URL: https://watchwiththekids.com/ep/big-bang-theory/1024.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1024
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: The gang is concerned when Sheldon's former admirer, Dr. Ramona Nowitzki, resurfaces while Amy is away at Princeton.
 Watch for:
@@ -3332,7 +3332,7 @@ Watch for:
   - [Too much] Sheldon: “Yeah. Raj made the funniest joke, he said, which is the best ladder to use to hang myself?”
 
 ## S11 E1 — The Proposal Proposal
-URL: https://watchwiththekids.com/ep/big-bang-theory/1101.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1101
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Amy gives Sheldon an answer to his proposal while Howard and Bernadette struggle with some unexpected news.
 Watch for:
@@ -3340,7 +3340,7 @@ Watch for:
   - [Mild] “Some suggestion of make-up sex that did not go over well, even though it's not like we can get more pregnant.”
 
 ## S11 E2 — The Retraction Reaction
-URL: https://watchwiththekids.com/ep/big-bang-theory/1102.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1102
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard angers the university – and the entire physics community – after he gives an embarrassing interview. Also, Amy and Bernadette bond over having to hide their success from Sheldon and Howard.
 Watch for:
@@ -3355,7 +3355,7 @@ Watch for:
   - [Mild] “Are we running there? Because watching drunk Sheldon run would be the highlight of my life.”
 
 ## S11 E3 — The Relaxation Integration
-URL: https://watchwiththekids.com/ep/big-bang-theory/1103.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1103
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: As Sheldon stresses about picking a wedding date, Amy tries to convince him he has a more laid-back side. Also, Koothrappali and Stuart compete to win the heart of Bernadette's new coworker, Ruchi.
 Watch for:
@@ -3363,7 +3363,7 @@ Watch for:
   - [Mild] “Mm, it's true-- Freud thought dreams were about sex, Adler thought they were about dominance Then again, mine are just about being married to this little guy.”
 
 ## S11 E4 — The Explosion Implosion
-URL: https://watchwiththekids.com/ep/big-bang-theory/1104.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1104
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Howard and Sheldon bond when they drive to the desert to shoot off a model rocket. Also, when Leonard's mom, Beverly, finds a new best friend in Penny, it rubs Leonard the wrong way.
 Watch for:
@@ -3374,7 +3374,7 @@ Watch for:
   - [Caution] “You're rough and tumble? You bet I am, bitch.”
 
 ## S11 E5 — The Collaboration Contamination
-URL: https://watchwiththekids.com/ep/big-bang-theory/1105.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1105
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Koothrappali confide in Bernadette when they can't handle Amy and Wolowitz working together. Also, Penny and Leonard learn new tactics for how to deal Sheldon from an unlikely source.
 Watch for:
@@ -3383,7 +3383,7 @@ Watch for:
   - [Mild] “Yeah? Anything interesting? Well, I just saw a picture of a baby's head crowning, so I hope you enjoyed sex, because we're done with that.”
 
 ## S11 E6 — The Proton Regeneration
-URL: https://watchwiththekids.com/ep/big-bang-theory/1106.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1106
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon goes head-to-head with Wil Wheaton for the role of the new Professor Proton. Also, Penny steps in to take care of Halley when Bernadette and Wolowitz both wind up on bed rest.
 Watch for:
@@ -3391,7 +3391,7 @@ Watch for:
   - [Mild] “So was having sex, and look where that got us.”
 
 ## S11 E7 — The Geology Methodology
-URL: https://watchwiththekids.com/ep/big-bang-theory/1107.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1107
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Bert collaborate on a research project, despite Sheldon's embarrassment. Also, Penny and Bernadette coach Koothrappali on how to navigate his relationship with Ruchi.
 Watch for:
@@ -3405,7 +3405,7 @@ Watch for:
   - [Caution] “Oh, almost paradise We're knocking on heaven's door Almost paradise And then I had to catalog it by color, viscosity and percentage of blood.”
 
 ## S11 E8 — The Tesla Recoil
-URL: https://watchwiththekids.com/ep/big-bang-theory/1108.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1108
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Leonard and Wolowitz are furious after they learn Sheldon went to work with the military behind their backs. Also, while Bernadette is on bed rest, she asks Raj to do some digging when she suspects Ruchi is trying to steal her job.
 Watch for:
@@ -3421,7 +3421,7 @@ Watch for:
   - [Mild] “Damn it! Excuse us.”
 
 ## S11 E9 — The Bitcoin Entanglement
-URL: https://watchwiththekids.com/ep/big-bang-theory/1109.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1109
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon tries to teach the guys a lesson after they cut him out of a potentially valuable Bitcoin investment. Also, a seven-year-old video reveals a secret about Leonard and Penny's relationship.
 Watch for:
@@ -3433,7 +3433,7 @@ Watch for:
   - [Mild] “I was gonna write you an e-mail, but I'm a little drunk, and spelling is a sober person's game, so I feel I owe you a 'splanation.”
 
 ## S11 E10 — The Confidence Erosion
-URL: https://watchwiththekids.com/ep/big-bang-theory/1110.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1110
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Amy try to eliminate stress from wedding planning by applying math to the process. Also, Koothrappali "breaks up" with Wolowitz after realizing his best friend is actually hurting his confidence.
 Watch for:
@@ -3445,7 +3445,7 @@ Watch for:
   - [Caution] “Please, confidence is like red blood cells-- it's nice if you got some, but you don't need 'em.”
 
 ## S11 E11 — The Celebration Reverberation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1111.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1111
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Wolowitz plan birthday celebrations for Amy and Halley, respectively. Also, Leonard receives a Christmas letter from his brother that causes him to spiral out about his own lack of accomplishments.
 Watch for:
@@ -3455,7 +3455,7 @@ Watch for:
   - [Mild] “Well should we make love now? How can you even think about sex? Hey, I'm a man; I have annual needs just like anyone.”
 
 ## S11 E12 — The Matrimonial Metric
-URL: https://watchwiththekids.com/ep/big-bang-theory/1112.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1112
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: To discover who would be most qualified to be best man and maid of honor at their wedding, Sheldon and Amy subject their friends to a series of secret experiments. Also, Penny reveals her true feelings about Amy.
 Watch for:
@@ -3465,7 +3465,7 @@ Watch for:
   - [Mild] “Pink saying, âJesus thinks you've had enough whiskey.”
 
 ## S11 E13 — The Solo Oscillation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1113.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1113
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Sheldon kicks Amy out to work solo, she and Leonard bond during a series of science experiments. Also, Bert the geologist replaces Wolowitz in the band Footprints on the Moon, and Sheldon finds Penny a surprising source of scientific inspiration.
 Watch for:
@@ -3475,7 +3475,7 @@ Watch for:
   - [Caution] “…my idol, I'm homicidal Gonna roll over you till your brains come out And your bones will crunch and your blood will spout!”
 
 ## S11 E14 — The Separation Triangulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1114.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1114
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Koothrappali finds himself in the middle of domestic drama when he learns the woman he's dating, Nell, has a very upset husband, Oliver. Also, when Sheldon rents his old room back for a quiet place to work, he drives Leonard crazy by being a model tenant.
 Watch for:
@@ -3488,7 +3488,7 @@ Watch for:
   - [Too much] “I was just trying not to be racist.”
 
 ## S11 E15 — The Novelization Correlation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1115.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1115
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Sheldon petitions Wil Wheaton to appear on the new Professor Proton show, Wil offers a role to Amy instead. Also, Penny gets angry when she thinks the female protagonist in Leonard's novel is based on her.
 Watch for:
@@ -3502,7 +3502,7 @@ Watch for:
   - [Mild] “Damn it, Logan.”
 
 ## S11 E16 — The Neonatal Nomenclature
-URL: https://watchwiththekids.com/ep/big-bang-theory/1116.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1116
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: When Bernadette won't go into labor, all her friends try different tactics to get things started. Also, Wolowitz confronts Bernadette after Amy accidentally reveals she's already chosen their son's name.
 Watch for:
@@ -3519,7 +3519,7 @@ Watch for:
   - [Mild] “It's not a champagne cork.”
 
 ## S11 E17 — The Athenaeum Allocation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1117.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1117
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard jumps through hoops to help secure the perfect wedding venue for Sheldon and Amy. Also, Bernadette and Wolowitz have a hard time deciding who should stay at home with the kids and who should go back to work.
 Watch for:
@@ -3529,7 +3529,7 @@ Watch for:
   - [Too much] “The kids could've screamed bloody murder and you wouldn't have woken up.”
 
 ## S11 E18 — The Gates Excitation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1118.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1118
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Penny gets the opportunity to host Bill Gates at work when his company wants to partner with her pharmaceutical company. Also, Leonard, Koothrappali and Wolowitz do everything in their power to meet him, while Sheldon thinks he is the victim of an April Fools prank.
 Watch for:
@@ -3539,7 +3539,7 @@ Watch for:
   - [Mild] “And a whole bottle of wine.”
 
 ## S11 E19 — The Tenant Disassociation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1119.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1119
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Leonard learns Sheldon is the president of the tenants association, he decides to run against him. Also, Bernadette encourages Wolowitz and Koothrappali to find the owner of a drone after they find it in the backyard.
 Watch for:
@@ -3552,7 +3552,7 @@ Watch for:
   - [Mild] “(laughs) You got beaten up by a baby.”
 
 ## S11 E20 — The Reclusive Potential
-URL: https://watchwiththekids.com/ep/big-bang-theory/1120.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1120
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: A brilliant but reclusive scientist, Doctor Wolcott, invites Sheldon to his cabin in the middle of nowhere, and Leonard, Raj and Howard go along for the trip. Also, Penny and Bernadette improvise after Amy doesn't like the tame bachelorette party they planned for her.
 Watch for:
@@ -3566,13 +3566,13 @@ Watch for:
   - [Mild] “All right, you know what, why don't we stay home, have a little wine What are you not getting about this?! Dr.”
 
 ## S11 E21 — The Comet Polarization
-URL: https://watchwiththekids.com/ep/big-bang-theory/1121.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1121
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Sheldon's comic book store experiences changes when writer Neil Gaiman puts Stuart's store on the map. Also, Koothrappali takes credit for Penny's astronomical discovery, and friendships are threatened.
 Watch for: nothing flagged.
 
 ## S11 E22 — The Monetary Insufficiency
-URL: https://watchwiththekids.com/ep/big-bang-theory/1122.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1122
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Sheldon goes to Vegas to win money for science. Also, Penny and Bernadette take Amy wedding dress shopping, but her terrible choice entangles them in a web of lies.
 Watch for:
@@ -3586,7 +3586,7 @@ Watch for:
   - [Mild] “Would you like some champagne? Oh, thank you.”
 
 ## S11 E23 — The Sibling Realignment
-URL: https://watchwiththekids.com/ep/big-bang-theory/1123.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1123
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Sheldon learns that his mother won't attend his wedding unless he invites his brother, Georgie, he and Leonard travel to Texas to end a family feud. Also, the Wolowitz kids inadvertently infest Amy, Bernadette, Wolowitz and Koothrappali with pinkeye.
 Watch for:
@@ -3602,7 +3602,7 @@ Watch for:
   - [Mild] “If it makes you feel any better, my mom's most proud of Sheldon, too, so Leonard, you want a beer? Yeah, I would love a beer.”
 
 ## S11 E24 — The Bow Tie Asymmetry
-URL: https://watchwiththekids.com/ep/big-bang-theory/1124.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1124
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Amy and Sheldon's wedding provides Sheldon with the information he needs to make a breakthrough in his symmetrical string theory. Meanwhile, their friends pick up Sheldon and Amy's families from the airport, and Mark Hamill agrees to officiate at the ceremony.
 Watch for:
@@ -3611,7 +3611,7 @@ Watch for:
   - [Too much] “I don't think it's racist.”
 
 ## S12 E1 — The Conjugal Configuration
-URL: https://watchwiththekids.com/ep/big-bang-theory/1201.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1201
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Amy's honeymoon runs aground in New York, while Penny and Leonard discover they are uncomfortably similar to Amy's parents, Mr. and Mrs. Fowler. Also, Koothrappali insults physicist Neil deGrasse Tyson and starts a Twitter war.
 Watch for:
@@ -3625,7 +3625,7 @@ Watch for:
   - [Mild] “And when we get there, I'm gonna need you to say that again, except naked.”
 
 ## S12 E2 — The Wedding Gift Wormhole
-URL: https://watchwiththekids.com/ep/big-bang-theory/1202.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1202
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Sheldon and Amy drive themselves crazy trying to figure out what "perfect gift" Leonard and Penny gave them for their wedding. Also, Koothrappali decides he wants to settle down and asks his father to arrange a marriage for him.
 Watch for:
@@ -3635,7 +3635,7 @@ Watch for:
   - [Mild] “If there's a chance someone's gonna see you naked, it's also polite to make sure you're well-groomed down there.”
 
 ## S12 E3 — The Procreation Calculation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1203.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1203
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: The Wolowitzes' life gets complicated when Stuart starts bringing his new girlfriend home. Also, Penny and Leonard talk about starting a family while Koothrappali explores an arranged marriage.
 Watch for:
@@ -3647,7 +3647,7 @@ Watch for:
   - [Mild] “I'm so sorry if I wasted your time.”
 
 ## S12 E4 — The Tam Turbulence
-URL: https://watchwiththekids.com/ep/big-bang-theory/1204.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1204
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When Sheldon won't tell anyone why he's never mentioned Tam, his childhood best friend, Leonard takes matters into his own hands. Also, Bernadette and Penny take out Raj's fiancée, Anu, for dinner to get the skinny on her.
 Watch for:
@@ -3656,7 +3656,7 @@ Watch for:
   - [Mild] “Bernie came home pretty drunk.”
 
 ## S12 E5 — The Planetarium Collision
-URL: https://watchwiththekids.com/ep/big-bang-theory/1205.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1205
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Amy doesn't have time to work on super-asymmetry, Sheldon goes to great lengths to ensure she's available to work with him even it if means accidentally sabotaging her career in the process. Also, Koothrappali doesn't want Wolowitz to join him in hosting a show at the planetarium.
 Watch for:
@@ -3665,7 +3665,7 @@ Watch for:
   - [Mild] “How sexy are we talking? Oh, you know, tight pants, huge biceps, magic hammer.”
 
 ## S12 E6 — The Imitation Perturbation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1206.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1206
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When Wolowitz dresses up as Sheldon for Halloween, Sheldon seeks retaliation at Leonard and Penny's Halloween party. Also, Leonard is shocked that Penny doesn't remember their first kiss.
 Watch for:
@@ -3675,7 +3675,7 @@ Watch for:
   - [Mild] “I was drunk, and I was still with Kurt, and I was using you to make myself feel better.”
 
 ## S12 E7 — The Grant Allocation Derivation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1207.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1207
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard is caught between a rock and a hard place when he's responsible for distributing extra grant money. Also, Bernadette turns the backyard playhouse into a hideaway from her husband and kids.
 Watch for:
@@ -3688,7 +3688,7 @@ Watch for:
   - [Mild] “Yeah? With a bag full of wine? I Got to stay hydrated.”
 
 ## S12 E8 — The Consummation Deviation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1208.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1208
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon tries to bond with Amy's father, but when Wolowitz lures Mr. Fowler away with magic tricks, Sheldon has no choice but to bond with Mrs. Fowler. Also, Koothrappali and Anu try to get physical for the first time.
 Watch for:
@@ -3709,7 +3709,7 @@ Watch for:
   - [Mild] “So you've been drunk every time we've seen each other? No.”
 
 ## S12 E9 — The Citation Negation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1209.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1209
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Amy are devastated after learning from a Russian paper that Super Asymmetry has already been discovered and disproven. Also, ultra-competitive Bernadette asks Stuart's girlfriend, Denise, to teach her how to beat Howard in a popular videogame.
 Watch for:
@@ -3725,7 +3725,7 @@ Watch for:
   - [Mild] “Whoo! What a rush! All right, can we go eat now? - Hell yeah.”
 
 ## S12 E10 — The VCR Illumination
-URL: https://watchwiththekids.com/ep/big-bang-theory/1210.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1210
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Summary: Sheldon and Amy are still down about their theory being disproven, but a VHS tape from Sheldon's past inspires him not to give up. Also, Bernadette turns into a pageant mom when she tries to help Wolowitz ace his Magic Castle audition.
 Watch for:
@@ -3738,7 +3738,7 @@ Watch for:
   - [Too much] “If you think about it, they're just the strippers of the emblem world.”
 
 ## S12 E11 — The Paintball Scattering
-URL: https://watchwiththekids.com/ep/big-bang-theory/1211.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1211
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Penny and Leonard organize a paintball game that results in mayhem when Sheldon is jealous of Amy. Also, Koothrappali catches Anu with her ex-boyfriend, and Stuart doesn't want to move in with Denise.
 Watch for:
@@ -3749,7 +3749,7 @@ Watch for:
   - [Mild] “You know what I call this drink? - A waste of champagne? No.”
 
 ## S12 E12 — The Propagation Proposition
-URL: https://watchwiththekids.com/ep/big-bang-theory/1212.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1212
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Penny's ex-boyfriend, Zack, and his wife want a baby, but when Zack is infertile, they ask Leonard for help. Also, Koothrappali attempts to mend things with his ex-fiancée, Anu.
 Watch for:
@@ -3762,19 +3762,19 @@ Watch for:
   - [Mild] “Uh, okay, well, how is that different than what you're doing? Hmm? Worried that you wasted so many years dating the wrong people, and now, you're just looking for a shortcut.”
 
 ## S12 E13 — The Confirmation Polarization
-URL: https://watchwiththekids.com/ep/big-bang-theory/1213.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1213
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When Sheldon and Amy's super asymmetry theory is proven by two physicists, Dr. Pemberton and Dr. Campbell from Chicago, they're thrilled, until they try to kick Amy off the Nobel nomination. Also, Bernadette has a big success at work and Penny's going to be a part of it – whether she wants to or not.
 Watch for: nothing flagged.
 
 ## S12 E14 — The Meteorite Manifestation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1214.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1214
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: Sheldon is thrilled to help Bernadette and Wolowitz navigate bureaucratic paperwork, until he discovers they are breaking the law. Also, Leonard is disappointed when his friends exclude him from a scientific project.
 Watch for: nothing flagged.
 
 ## S12 E15 — The Donation Oscillation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1215.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1215
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Penny tries to seduce an abstaining Leonard to ruin his "donation" for her ex-boyfriend, Zack, and his wife, Marissa. Also, Wolowitz, Bernadette, Anu and Koothrappali turn Koothrappali's canceled bachelor party into a couple's trip aboard the "vomit comet".
 Watch for:
@@ -3788,7 +3788,7 @@ Watch for:
   - [Mild] “That time you got drunk and stole a horse.”
 
 ## S12 E16 — The D&D Vortex
-URL: https://watchwiththekids.com/ep/big-bang-theory/1216.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1216
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When the gang finds out Wil Wheaton hosts a celebrity Dungeons and Dragons game involving William Shatner, Joe Manganiello, Kareem Abdul-Jabbar and Kevin Smith, deception and betrayal are the path to make it to the one open seat.
 Watch for:
@@ -3799,13 +3799,13 @@ Watch for:
   - [Caution] “Oh, a-and that, uh, the guy that played the werewolf on-on True Blood, he was there.”
 
 ## S12 E17 — The Conference Valuation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1217.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1217
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Summary: When Penny and Bernadette go to San Diego for a pharmaceutical sales convention, Wolowitz is in charge of the kids. Also, Sheldon finds a book on experimenting on kids, and the guys plus Amy make a day of it.
 Watch for: nothing flagged.
 
 ## S12 E18 — The Laureate Accumulation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1218.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1218
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: When competitors Pemberton and Campbell charm America on a publicity tour, Sheldon and Amy try to bring Nobel laureates Kip Thorne, George Smoot and Frances Arnold to their side. Also, Halley's fear of the dark leads to opportunity and conflict for Howard, Bernadette and Stuart.
 Watch for:
@@ -3820,7 +3820,7 @@ Watch for:
   - [Mild] “We can also find out what's so damn funny about birds.”
 
 ## S12 E19 — The Inspiration Deprivation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1219.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1219
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Summary: The concept of what it would mean for women everywhere if Amy were to win a Nobel Prize causes Amy to have a meltdown. Also, Koothrappali and Wolowitz try to relive the good old days after Wolowitz buys a scooter that looks like the one he had years ago.
 Watch for:
@@ -3835,7 +3835,7 @@ Watch for:
   - [Mild] “You know what I like to do? Numb your brain with alcohol and watch a reality show where wealthy people pick fake arguments with each other? Hey, don't knock it until you've wasted a couple hundred hours of your life.”
 
 ## S12 E20 — The Decision Reverberation
-URL: https://watchwiththekids.com/ep/big-bang-theory/1220.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1220
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Koothrappali is worried people won't take him seriously in his own field after publishing a paper that suggests he may have discovered alien life. Also, Leonard wants to be the principal investigator on a plasma physics study.
 Watch for:
@@ -3845,7 +3845,7 @@ Watch for:
   - [Mild] “Don't take this the wrong way, but that was even more exciting than the sex.”
 
 ## S12 E21 — The Plagiarism Schism
-URL: https://watchwiththekids.com/ep/big-bang-theory/1221.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1221
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Summary: Kripke has proof that Dr. Pemberton plagiarized his thesis in college, and Sheldon and Amy aren't sure if they should turn him in or not. Also, Wolowitz is happily surprised to learn that Bernadette wasn't the only waitress at the Cheesecake Factory who had a crush on him back in the day.
 Watch for:
@@ -3863,7 +3863,7 @@ Watch for:
   - [Mild] “Are you drunk? I was, and then I still was.”
 
 ## S12 E22 — The Maternal Conclusion
-URL: https://watchwiththekids.com/ep/big-bang-theory/1222.html
+URL: https://watchwiththekids.com/ep/big-bang-theory/1222
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Summary: Leonard is pleasantly surprised when Beverly comes to visit and she's genuinely kind to him, until he finds out the real reason she's there. Also, Denise and Stuart overstay their welcome at the Wolowitz house.
 Watch for:

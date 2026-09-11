@@ -1,11 +1,11 @@
 # South Park — parent guide (334 episodes)
 
-Source: https://watchwiththekids.com/south-park.html
+Source: https://watchwiththekids.com/south-park
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 6 mild (1–2), 41 caution (3), 287 too much (4–5).
 
 ## Ep 47 — Joining the Panderverse
-URL: https://watchwiththekids.com/ep/south-park/0047.html
+URL: https://watchwiththekids.com/ep/south-park/0047
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -34,7 +34,7 @@ Watch for:
   - [Caution] huh, fat ass?
 
 ## Ep 48 — Not Suitable for Children
-URL: https://watchwiththekids.com/ep/south-park/0048.html
+URL: https://watchwiththekids.com/ep/south-park/0048
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -71,7 +71,7 @@ Watch for:
   - [Caution] She is not a slut.
 
 ## Ep 49 — The End of Obesity
-URL: https://watchwiththekids.com/ep/south-park/0049.html
+URL: https://watchwiththekids.com/ep/south-park/0049
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -101,7 +101,7 @@ Watch for:
   - [Caution] like a cum whore.
 
 ## S1 E1 — Cartman Gets an Anal Probe
-URL: https://watchwiththekids.com/ep/south-park/0101.html
+URL: https://watchwiththekids.com/ep/south-park/0101
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -122,7 +122,7 @@ Watch for:
   - [Caution] “Where? - Stan wants to kiss Wendy Testaburger - Shut up, fat ass, I don't like her.”
 
 ## S1 E2 — Weight Gain 4000
-URL: https://watchwiththekids.com/ep/south-park/0102.html
+URL: https://watchwiththekids.com/ep/south-park/0102
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -145,7 +145,7 @@ Watch for:
   - [Too much] “Just two hummingbirds moaning and groaning and letting their bodies caress and touch each other in ecstasy.”
 
 ## S1 E3 — Volcano
-URL: https://watchwiththekids.com/ep/south-park/0103.html
+URL: https://watchwiththekids.com/ep/south-park/0103
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -160,7 +160,7 @@ Watch for:
   - [Mild] “Uncle Jimbo, we don't drink beer.”
 
 ## S1 E4 — Big Gay Al's Big Gay Boat Ride
-URL: https://watchwiththekids.com/ep/south-park/0104.html
+URL: https://watchwiththekids.com/ep/south-park/0104
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -171,7 +171,7 @@ Watch for:
   - [Too much] “Speaking of pounding ass, here comes Stan's homo dog! Shut up, dude! Sparky, where'd you get that pink scarf? That's the gayest dog I've ever seen.”
 
 ## S1 E5 — An Elephant Makes Love to a Pig
-URL: https://watchwiththekids.com/ep/south-park/0105.html
+URL: https://watchwiththekids.com/ep/south-park/0105
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -200,7 +200,7 @@ Watch for:
   - [Mild] “There's nothing worse than getting drunk and waking up next to a pig.”
 
 ## S1 E6 — Death
-URL: https://watchwiththekids.com/ep/south-park/0106.html
+URL: https://watchwiththekids.com/ep/south-park/0106
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -231,7 +231,7 @@ Watch for:
   - [Caution] “It's about time, you lazy-ass son of a whore! Come on, let's go! What the? - Hey, he's coming towards us.”
 
 ## S1 E7 — Pinkeye
-URL: https://watchwiththekids.com/ep/south-park/0107.html
+URL: https://watchwiththekids.com/ep/south-park/0107
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 12 moment(s)
@@ -253,7 +253,7 @@ Watch for:
   - [Caution] “I'm not the one who looks like Pippi Longstocking! My mom's not on the cover of Crack Whore magazine.”
 
 ## S1 E8 — Starvin' Marvin
-URL: https://watchwiththekids.com/ep/south-park/0108.html
+URL: https://watchwiththekids.com/ep/south-park/0108
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -274,7 +274,7 @@ Watch for:
   - [Mild] “They killed Kenny! - You bastard! Goodbye, guys.”
 
 ## S1 E9 — Mr. Hankey, the Christmas Poo
-URL: https://watchwiththekids.com/ep/south-park/0109.html
+URL: https://watchwiththekids.com/ep/south-park/0109
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
@@ -283,7 +283,7 @@ Watch for:
   - [Caution] “Who's that fat chick? - Sally Struthers.”
 
 ## S1 E10 — Damien
-URL: https://watchwiththekids.com/ep/south-park/0110.html
+URL: https://watchwiththekids.com/ep/south-park/0110
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 11 moment(s)
@@ -300,7 +300,7 @@ Watch for:
   - [Mild] “All you bastards ruined Christmas.”
 
 ## S1 E11 — Tom's Rhinoplasty
-URL: https://watchwiththekids.com/ep/south-park/0111.html
+URL: https://watchwiththekids.com/ep/south-park/0111
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -317,7 +317,7 @@ Watch for:
   - [Caution] “I'm not kissing ass, you slut! - Miss Ellen, can I talk to you? Of course, Wendy.”
 
 ## S1 E12 — Mecha-Streisand
-URL: https://watchwiththekids.com/ep/south-park/0112.html
+URL: https://watchwiththekids.com/ep/south-park/0112
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -338,7 +338,7 @@ Watch for:
   - [Caution] “I'll teach you to meddle with my triangle! - It's not my triangle, it's Kyle's! - Don't pass it back on me, fat ass! Screw you, hippie! - Where is the Triangle of Zinthar? - I don't remember.”
 
 ## S1 E13 — Cartman's Mom is a Dirty Slut
-URL: https://watchwiththekids.com/ep/south-park/0113.html
+URL: https://watchwiththekids.com/ep/south-park/0113
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -371,7 +371,7 @@ Watch for:
   - [Caution] “Wow, we're sorry your mom's a whore.”
 
 ## S2 E1 — Terrance & Phillip in "Not Without My Anus"
-URL: https://watchwiththekids.com/ep/south-park/0201.html
+URL: https://watchwiththekids.com/ep/south-park/0201
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -396,7 +396,7 @@ Watch for:
   - [Mild] “God damn it.”
 
 ## S2 E2 — Cartman's Mom is Still a Dirty Slut
-URL: https://watchwiththekids.com/ep/south-park/0202.html
+URL: https://watchwiththekids.com/ep/south-park/0202
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -429,7 +429,7 @@ Watch for:
   - [Caution] “Dude, you're a big fat ass, and your mom is a hermapholite.”
 
 ## S2 E3 — Chickenlover
-URL: https://watchwiththekids.com/ep/south-park/0203.html
+URL: https://watchwiththekids.com/ep/south-park/0203
 Scores: violence 2/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -454,7 +454,7 @@ Watch for:
   - [Mild] “Second, I'd like to say to all those out there who think they can screw chickens just to teach people to read: Your days are numbered!! And finally, I'd like to say that reading totally sucks ass!”
 
 ## S2 E4 — Ike's Wee Wee
-URL: https://watchwiththekids.com/ep/south-park/0204.html
+URL: https://watchwiththekids.com/ep/south-park/0204
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -481,7 +481,7 @@ Watch for:
   - [Mild] “Yeh, why the hell not? It's just a beer.”
 
 ## S2 E5 — Conjoined Fetus Lady
-URL: https://watchwiththekids.com/ep/south-park/0205.html
+URL: https://watchwiththekids.com/ep/south-park/0205
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -504,7 +504,7 @@ Watch for:
   - [Caution] “I caught it! I caught it! - That's not fair! He's so fat, it stuck in his belly! - South Park on offense! - Great job children! Just stay focused now.”
 
 ## S2 E6 — The Mexican Staring Frog of Southern Sri Lanka
-URL: https://watchwiththekids.com/ep/south-park/0206.html
+URL: https://watchwiththekids.com/ep/south-park/0206
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -529,7 +529,7 @@ Watch for:
   - [Mild] “Yeah, TV's and beer.”
 
 ## S2 E7 — City on the Edge of Forever (a.k.a. Flashbacks)
-URL: https://watchwiththekids.com/ep/south-park/0207.html
+URL: https://watchwiththekids.com/ep/south-park/0207
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -555,7 +555,7 @@ Watch for:
   - [Caution] “Hey you guys, can we order a pizza? What the hell are you all staring at!?!?!? Stop laughing you whores!!!! I SAID SHUT UP!!!!!!!!!!!!! Let's hear it for Ms.”
 
 ## S2 E8 — Summer Sucks
-URL: https://watchwiththekids.com/ep/south-park/0208.html
+URL: https://watchwiththekids.com/ep/south-park/0208
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -582,7 +582,7 @@ Watch for:
   - [Caution] “He's a two-timing whore.”
 
 ## S2 E9 — Chef's Chocolate Salty Balls
-URL: https://watchwiththekids.com/ep/south-park/0209.html
+URL: https://watchwiththekids.com/ep/south-park/0209
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -603,7 +603,7 @@ Watch for:
   - [Mild] “He's back, he's back! That was delicious! My salty chocolate balls must've rejuvinated him! You got the best balls in the whole world Chef! You damn right.”
 
 ## S2 E10 — Chickenpox
-URL: https://watchwiththekids.com/ep/south-park/0210.html
+URL: https://watchwiththekids.com/ep/south-park/0210
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -630,7 +630,7 @@ Watch for:
   - [Mild] “I wanted to be somebody! I wanted to be somebody to! I just wasn't born with a silver enima up my ass! You're just jealous! You're a bitter old drunk just like your father! Now, don't make me do that again.”
 
 ## S2 E11 — Roger Ebert Should Lay Off the Fatty Foods
-URL: https://watchwiththekids.com/ep/south-park/0211.html
+URL: https://watchwiththekids.com/ep/south-park/0211
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 9 moment(s)
@@ -647,7 +647,7 @@ Watch for:
   - [Caution] “No no no pain killer! I'll be ok! Oh um ok, Van Galder, I'm counselor Mackey, have you been smoking marijuna? Marijuana's bad, mmkay? Must tell the machine the machine is eee Well I've never seen anything like this.”
 
 ## S2 E12 — Clubhouses
-URL: https://watchwiththekids.com/ep/south-park/0212.html
+URL: https://watchwiththekids.com/ep/south-park/0212
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -672,7 +672,7 @@ Watch for:
   - [Caution] “Hat is a two-timin whore! - And now we all learn from Mr.”
 
 ## S2 E13 — Cow Days
-URL: https://watchwiththekids.com/ep/south-park/0213.html
+URL: https://watchwiththekids.com/ep/south-park/0213
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -703,7 +703,7 @@ Watch for:
   - [Caution] “Go help him Kenny! Uh uh! I know what's gonna happen alright! - Oh my god they killed Kenny! - You bastards! And this brave little whore from the East, has really put on a show for us today!”
 
 ## S2 E14 — Chef Aid
-URL: https://watchwiththekids.com/ep/south-park/0214.html
+URL: https://watchwiththekids.com/ep/south-park/0214
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -726,7 +726,7 @@ Watch for:
   - [Caution] “My only hope is to whore myself to every woman in town.”
 
 ## S2 E15 — Spooky Fish
-URL: https://watchwiththekids.com/ep/south-park/0215.html
+URL: https://watchwiththekids.com/ep/south-park/0215
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -758,7 +758,7 @@ Watch for:
   - [Caution] “Shut your goddamn mouth, fat ass.”
 
 ## S2 E16 — Merry Christmas Charlie Manson!
-URL: https://watchwiththekids.com/ep/south-park/0216.html
+URL: https://watchwiththekids.com/ep/south-park/0216
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -783,7 +783,7 @@ Watch for:
   - [Mild] “Hankey ever found out he would be so pissed.”
 
 ## S2 E17 — Gnomes (a.k.a. Underpants Gnomes)
-URL: https://watchwiththekids.com/ep/south-park/0217.html
+URL: https://watchwiththekids.com/ep/south-park/0217
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -808,7 +808,7 @@ Watch for:
   - [Caution] “You hear that you're not gonna get away with this you whore! Excuse me! Boys, we've talked it over and we want you to take your case to the mayor.”
 
 ## S2 E18 — Prehistoric Ice Man
-URL: https://watchwiththekids.com/ep/south-park/0218.html
+URL: https://watchwiththekids.com/ep/south-park/0218
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -832,7 +832,7 @@ Watch for:
   - [Mild] “Oh my God! They revived Gorak! You bastards! - Yes, and I need you to communicate with him.”
 
 ## S3 E1 — Rainforest Schmainforest
-URL: https://watchwiththekids.com/ep/south-park/0301.html
+URL: https://watchwiththekids.com/ep/south-park/0301
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -854,7 +854,7 @@ Watch for:
   - [Mild] “They're they're bastards.”
 
 ## S3 E2 — Spontaneous Combustion
-URL: https://watchwiththekids.com/ep/south-park/0302.html
+URL: https://watchwiththekids.com/ep/south-park/0302
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 12 moment(s)
@@ -874,7 +874,7 @@ Watch for:
   - [Mild] “Dammit! How come you're not combusting? Come on Randy, you said we were gonna drink beer and watch the fight.”
 
 ## S3 E3 — The Succubus (a.k.a. Chef's Mama)
-URL: https://watchwiththekids.com/ep/south-park/0303.html
+URL: https://watchwiththekids.com/ep/south-park/0303
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -900,7 +900,7 @@ Watch for:
   - [Mild] “I'm just here for an eye exam, alright! Keep the fat jokes to yourself.”
 
 ## S3 E4 — Jakovasaurs
-URL: https://watchwiththekids.com/ep/south-park/0304.html
+URL: https://watchwiththekids.com/ep/south-park/0304
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -917,7 +917,7 @@ Watch for:
   - [Mild] “…Stop screwing around! Hey! You're screwing around too much! - Oh, my God! They killed Kenny! - You Bastards!”
 
 ## S3 E5 — Tweek vs. Craig
-URL: https://watchwiththekids.com/ep/south-park/0305.html
+URL: https://watchwiththekids.com/ep/south-park/0305
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -934,7 +934,7 @@ Watch for:
   - [Mild] “…Stop screwing around! Hey! You're screwing around too much! - Oh, my God! They killed Kenny! - You Bastards!”
 
 ## S3 E6 — Sexual Harassment Panda
-URL: https://watchwiththekids.com/ep/south-park/0306.html
+URL: https://watchwiththekids.com/ep/south-park/0306
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -951,7 +951,7 @@ Watch for:
   - [Caution] “…So whatever the outcome, things look very bright for Kyle's Dad! Personally, I think Kyle's dad is just a whore taking advantage of everyone in town and This just in!”
 
 ## S3 E7 — Cat Orgy (1)
-URL: https://watchwiththekids.com/ep/south-park/0307.html
+URL: https://watchwiththekids.com/ep/south-park/0307
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -964,7 +964,7 @@ Watch for:
   - [Mild] “Hey! I was watching aliens on TV! - Well, I'm watching Friends, turd! That's my boyfriend! Go answer the door while I make sure I don't have food in my braces! - Hey, is Shelly around? - Who the hell are you?”
 
 ## S3 E8 — Two Guys Naked in a Hot Tub (2) (a.k.a. Melvins)
-URL: https://watchwiththekids.com/ep/south-park/0308.html
+URL: https://watchwiththekids.com/ep/south-park/0308
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -981,7 +981,7 @@ Watch for:
   - [Too much] “…angered Bosley! Tom, I'm standing in front of a house where a religious cult is planning to commit mass suicide when the meteor shower starts!”
 
 ## S3 E9 — Jewbilee (3)
-URL: https://watchwiththekids.com/ep/south-park/0309.html
+URL: https://watchwiththekids.com/ep/south-park/0309
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -996,7 +996,7 @@ Watch for:
   - [Mild] “…people from your ways, only because of their race, you become separatist! And being a separatist sucks ass!”
 
 ## S3 E10 — Korn's Groovy Pirate Ghost Mystery
-URL: https://watchwiththekids.com/ep/south-park/0310.html
+URL: https://watchwiththekids.com/ep/south-park/0310
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1017,7 +1017,7 @@ Watch for:
   - [Caution] “Aw, nuts! Come on, Ned, this ain't no whore house, it's a hor-ROR house.”
 
 ## S3 E11 — Chinpokomon
-URL: https://watchwiththekids.com/ep/south-park/0311.html
+URL: https://watchwiththekids.com/ep/south-park/0311
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 5 moment(s)
@@ -1030,7 +1030,7 @@ Watch for:
   - [Caution] “…out of control! You did this to my sister! Uh, all I did was show her how to You made my sister into a slut!”
 
 ## S3 E12 — Hooked on Monkey Fonics
-URL: https://watchwiththekids.com/ep/south-park/0312.html
+URL: https://watchwiththekids.com/ep/south-park/0312
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1042,7 +1042,7 @@ Watch for:
   - [Mild] “…it looks like he's tried everywhere in the world! Well, he hasn't been here yet! Where's this?! What the hell did you hit, Cartman?!”
 
 ## S3 E13 — Starvin' Marvin in Space!
-URL: https://watchwiththekids.com/ep/south-park/0313.html
+URL: https://watchwiththekids.com/ep/south-park/0313
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1057,7 +1057,7 @@ Watch for:
   - [Caution] “…just use the action button and Alabama Man busts her lip open! Shut up, bitch! Needs to fight a sick sick whore!”
 
 ## S3 E14 — The Red Badge of Gayness (a.k.a. War)
-URL: https://watchwiththekids.com/ep/south-park/0314.html
+URL: https://watchwiththekids.com/ep/south-park/0314
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1066,7 +1066,7 @@ Watch for:
   - [Too much] …can't just hit a drum! You have to beat the shit out of it! Shut your pot hole! I'll take you out, you fuckin' drum!
 
 ## S3 E15 — Mr. Hankey's Christmas Classics
-URL: https://watchwiththekids.com/ep/south-park/0315.html
+URL: https://watchwiththekids.com/ep/south-park/0315
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1081,7 +1081,7 @@ Watch for:
   - [Caution] “…is well! It's Christmas time in hell! Gather close together and make it quick! We gotta make room for Andy Dick!”
 
 ## S3 E16 — Are You There God, It's Me Jesus
-URL: https://watchwiththekids.com/ep/south-park/0316.html
+URL: https://watchwiththekids.com/ep/south-park/0316
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1099,7 +1099,7 @@ Watch for:
   - [Mild] “This sucks balls!”
 
 ## S3 E17 — Worldwide Recorder Concert (a.k.a. The Brown Noise)
-URL: https://watchwiththekids.com/ep/south-park/0317.html
+URL: https://watchwiththekids.com/ep/south-park/0317
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1120,7 +1120,7 @@ Watch for:
   - [Caution] “…my God! I wasn't good enough for you! Was that it, dad?! - Well NO! Sure! You could go off and screw any whore on Ryland Street, but when it came to your own son, you were just too busy!”
 
 ## S4 E1 — The Tooth Fairy's TATS 2000
-URL: https://watchwiththekids.com/ep/south-park/0401.html
+URL: https://watchwiththekids.com/ep/south-park/0401
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1142,7 +1142,7 @@ Watch for:
   - [Caution] “Hey! Come on, fat ass! Do not open your eyes until morning Or else i will kick you in the nuts Ahh, in the nuts.”
 
 ## S4 E2 — Cartman's Silly Hate Crime 2000
-URL: https://watchwiththekids.com/ep/south-park/0402.html
+URL: https://watchwiththekids.com/ep/south-park/0402
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1171,7 +1171,7 @@ Watch for:
   - [Caution] “Let's all hear it for Cartman's big, fat ass! Do British people count as an ethnicity for hate crimes? -Naah.”
 
 ## S4 E3 — Timmy! 2000
-URL: https://watchwiththekids.com/ep/south-park/0403.html
+URL: https://watchwiththekids.com/ep/south-park/0403
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1190,7 +1190,7 @@ Watch for:
   - [Mild] “Timmy, timmy! Timmy! Timmy! Timmy! Timmy! Timmy! Timmy! Man it sucks not being part of lollapalabala.”
 
 ## S4 E4 — Quintuplets 2000
-URL: https://watchwiththekids.com/ep/south-park/0404.html
+URL: https://watchwiththekids.com/ep/south-park/0404
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1212,7 +1212,7 @@ Watch for:
   - [Too much] “We're gotta get all the frenchy-Fu fag nasties outta ya.”
 
 ## S4 E5 — Cartman Joins NAMBLA
-URL: https://watchwiththekids.com/ep/south-park/0405.html
+URL: https://watchwiththekids.com/ep/south-park/0405
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1227,7 +1227,7 @@ Watch for:
   - [Caution] “? Nyah-Nyah-Nyah? ? Nyah-Nyah-Nyah? ? I got into "nambla"? ? And you guys didn't? What are you talking about, fat ass?”
 
 ## S4 E6 — Cherokee Hair Tampons
-URL: https://watchwiththekids.com/ep/south-park/0406.html
+URL: https://watchwiththekids.com/ep/south-park/0406
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1256,7 +1256,7 @@ Watch for:
   - [Mild] “Did you know that not one of your students knew who sam adams was? Well, who cares about a guy that makes beer? Jesus christ, i'm trying to teach history! Frankly, mr.”
 
 ## S4 E7 — Chef Goes Nanners
-URL: https://watchwiththekids.com/ep/south-park/0407.html
+URL: https://watchwiththekids.com/ep/south-park/0407
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1275,7 +1275,7 @@ Watch for:
   - [Too much] “But now i realize that i almost let racism Turn me into a racist.”
 
 ## S4 E8 — Something You Can Do with Your Finger (a.k.a. Fingerbang)
-URL: https://watchwiththekids.com/ep/south-park/0408.html
+URL: https://watchwiththekids.com/ep/south-park/0408
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1302,7 +1302,7 @@ Watch for:
   - [Caution] “Have you ever tried marijuana? No! Well, maybe it's time.”
 
 ## S4 E9 — Do the Handicapped Go to Hell? (1)
-URL: https://watchwiththekids.com/ep/south-park/0409.html
+URL: https://watchwiththekids.com/ep/south-park/0409
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1321,7 +1321,7 @@ Watch for:
   - [Mild] “I am not! You are too! Dude, this lady told us that if you don't confess your sins And you don't eat crackers and drink wine, then you go to hell, period!”
 
 ## S4 E10 — Probably (2)
-URL: https://watchwiththekids.com/ep/south-park/0410.html
+URL: https://watchwiththekids.com/ep/south-park/0410
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1345,7 +1345,7 @@ Watch for:
   - [Caution] “The only thing of yours that's larger in size is your big fat ass! Suck my balls.”
 
 ## S4 E11 — Fourth Grade
-URL: https://watchwiththekids.com/ep/south-park/0411.html
+URL: https://watchwiththekids.com/ep/south-park/0411
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1366,7 +1366,7 @@ Watch for:
   - [Mild] “Hey, hurry up in there! Jesus, you're taking too long in the damn tree of insight! You in there? Hey, where the hell did she go? What the? Ahh! Who-Who are you? I am you, i am your gay side.”
 
 ## S4 E12 — Trapper Keeper
-URL: https://watchwiththekids.com/ep/south-park/0412.html
+URL: https://watchwiththekids.com/ep/south-park/0412
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1386,7 +1386,7 @@ Watch for:
   - [Caution] “Screw you, fat ass! Hey, screw you.”
 
 ## S4 E13 — Helen Keller! The Musical
-URL: https://watchwiththekids.com/ep/south-park/0413.html
+URL: https://watchwiththekids.com/ep/south-park/0413
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 11 moment(s)
@@ -1406,7 +1406,7 @@ Watch for:
   - [Mild] “I've wasted it.”
 
 ## S4 E14 — Pip (a.k.a. Great Expectations)
-URL: https://watchwiththekids.com/ep/south-park/0414.html
+URL: https://watchwiththekids.com/ep/south-park/0414
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1430,7 +1430,7 @@ Watch for:
   - [Mild] “Oh, why would she have wasted all that time Sending me to school and turning me into a gentleman? Well, about that, pip, There's another person who wants to see you.”
 
 ## S4 E15 — Fat Camp
-URL: https://watchwiththekids.com/ep/south-park/0415.html
+URL: https://watchwiththekids.com/ep/south-park/0415
 Scores: violence 3/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1451,7 +1451,7 @@ Watch for:
   - [Caution] “Now he's in jail for being a whore.”
 
 ## S4 E16 — The Wacky Molestation Adventure
-URL: https://watchwiththekids.com/ep/south-park/0416.html
+URL: https://watchwiththekids.com/ep/south-park/0416
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1467,7 +1467,7 @@ Watch for:
   - [Mild] “Do you think they're gonna be pissed at us for lying that they molested us And sending them all to jail for 10 days? Well, they can't be too pissed off, I mean, we made them a banner.”
 
 ## S4 E17 — A Very Crappy Christmas
-URL: https://watchwiththekids.com/ep/south-park/0417.html
+URL: https://watchwiththekids.com/ep/south-park/0417
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1495,7 +1495,7 @@ Watch for:
   - [Caution] “I'm so fat, help me out over here.”
 
 ## S5 E1 — It Hits the Fan
-URL: https://watchwiththekids.com/ep/south-park/0501.html
+URL: https://watchwiththekids.com/ep/south-park/0501
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1525,7 +1525,7 @@ Watch for:
   - [Too much] “On tv, they usually don't allow- "Fag".”
 
 ## S5 E2 — Cripple Fight
-URL: https://watchwiththekids.com/ep/south-park/0502.html
+URL: https://watchwiththekids.com/ep/south-park/0502
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1541,7 +1541,7 @@ Watch for:
   - [Mild] “"I think it's all very sacrilege- It's all very sacrilege " "God damn it! God damn it!" And of course, my very favorite "Timmy! Timmy! I'm living a lie, i'm living a lie, timmy!" "Timmy, i'm living a lie.”
 
 ## S5 E3 — Super Best Friends
-URL: https://watchwiththekids.com/ep/south-park/0503.html
+URL: https://watchwiththekids.com/ep/south-park/0503
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1565,7 +1565,7 @@ Watch for:
   - [Caution] “Cartman, you fat ass tattletale! At least i'm not the boy in the plastic bubble.”
 
 ## S5 E4 — Scott Tenorman Must Die
-URL: https://watchwiththekids.com/ep/south-park/0504.html
+URL: https://watchwiththekids.com/ep/south-park/0504
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1590,7 +1590,7 @@ Watch for:
   - [Too much] “We don't take pubes, end of story! Racist!”
 
 ## S5 E5 — Terrance and Phillip: Behind the Blow
-URL: https://watchwiththekids.com/ep/south-park/0505.html
+URL: https://watchwiththekids.com/ep/south-park/0505
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1616,7 +1616,7 @@ Watch for:
   - [Caution] “Kenny's a random slut.”
 
 ## S5 E6 — Cartmanland
-URL: https://watchwiththekids.com/ep/south-park/0506.html
+URL: https://watchwiththekids.com/ep/south-park/0506
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1639,7 +1639,7 @@ Watch for:
   - [Caution] “Ohh! That's gay.”
 
 ## S5 E7 — Proper Condom Use
-URL: https://watchwiththekids.com/ep/south-park/0507.html
+URL: https://watchwiththekids.com/ep/south-park/0507
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 12 moment(s)
@@ -1673,7 +1673,7 @@ Watch for:
   - [Mild] “Stay away from us, bastards, we don't wanna get pregnant! Yeah, just take your diseases and go away forever.”
 
 ## S5 E8 — Towelie
-URL: https://watchwiththekids.com/ep/south-park/0508.html
+URL: https://watchwiththekids.com/ep/south-park/0508
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -1698,7 +1698,7 @@ Watch for:
   - [Caution] “You're going to have to choose between their lives And getting high.”
 
 ## S5 E9 — Osama Bin Laden Has Farty Pants
-URL: https://watchwiththekids.com/ep/south-park/0509.html
+URL: https://watchwiththekids.com/ep/south-park/0509
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1719,7 +1719,7 @@ Watch for:
   - [Mild] “Heartless, gutless bastards! All right, men.”
 
 ## S5 E10 — How to Eat with Your Butt
-URL: https://watchwiththekids.com/ep/south-park/0510.html
+URL: https://watchwiththekids.com/ep/south-park/0510
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1731,7 +1731,7 @@ Watch for:
   - [Caution] “I'm gonna go home and eat another chocolate gun.”
 
 ## S5 E11 — The Entity (a.k.a. The Ginger Device)
-URL: https://watchwiththekids.com/ep/south-park/0511.html
+URL: https://watchwiththekids.com/ep/south-park/0511
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1745,7 +1745,7 @@ Watch for:
   - [Mild] “Damn! Just have to face facts that i'm gonna live with My crappy cousin forever.”
 
 ## S5 E12 — Here Comes the Neighborhood
-URL: https://watchwiththekids.com/ep/south-park/0512.html
+URL: https://watchwiththekids.com/ep/south-park/0512
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Swearing — 5 moment(s)
@@ -1764,7 +1764,7 @@ Watch for:
   - [Caution] “And cartman for having a whore for a mom.”
 
 ## S5 E13 — Kenny Dies
-URL: https://watchwiththekids.com/ep/south-park/0513.html
+URL: https://watchwiththekids.com/ep/south-park/0513
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 6 moment(s)
@@ -1778,7 +1778,7 @@ Watch for:
   - [Caution] “Okay, and what if you could have two wishes? What would the second one be? I know, i bet you'd like to meet madonna, huh? What was that? He said madonna's an old anorexic whore Who wore out her welcome years ago.”
 
 ## S5 E14 — Butters' Very Own Episode
-URL: https://watchwiththekids.com/ep/south-park/0514.html
+URL: https://watchwiththekids.com/ep/south-park/0514
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1797,7 +1797,7 @@ Watch for:
   - [Mild] “Yeah, too bad you're not a broad 'Cause i need some god damn poontang.”
 
 ## S6 E1 — Jared Has Aides
-URL: https://watchwiththekids.com/ep/south-park/0601.html
+URL: https://watchwiththekids.com/ep/south-park/0601
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1822,7 +1822,7 @@ Watch for:
   - [Caution] “Oh, you just wait until i get home, mister! I'll be waiting with bells on, You old horse-Banging skank.”
 
 ## S6 E2 — Asspen
-URL: https://watchwiththekids.com/ep/south-park/0602.html
+URL: https://watchwiththekids.com/ep/south-park/0602
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1836,7 +1836,7 @@ Watch for:
   - [Mild] “Skiing sucks! Yeah, what a stupid sport.”
 
 ## S6 E3 — Freak Strike
-URL: https://watchwiththekids.com/ep/south-park/0603.html
+URL: https://watchwiththekids.com/ep/south-park/0603
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1869,7 +1869,7 @@ Watch for:
   - [Caution] “You god damn whore! Attention, maury viewers.”
 
 ## S6 E4 — Fun with Veal
-URL: https://watchwiththekids.com/ep/south-park/0604.html
+URL: https://watchwiththekids.com/ep/south-park/0604
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1887,14 +1887,14 @@ Watch for:
   - [Mild] “Really? Yup, damn things ain't worth spit now.”
 
 ## S6 E6 — Professor Chaos
-URL: https://watchwiththekids.com/ep/south-park/0606.html
+URL: https://watchwiththekids.com/ep/south-park/0606
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] “TOWELIE'S COOL, BUT HE GETS STONED ALL THE TIME.”
 
 ## S6 E7 — The Simpsons Already Did It
-URL: https://watchwiththekids.com/ep/south-park/0607.html
+URL: https://watchwiththekids.com/ep/south-park/0607
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1913,7 +1913,7 @@ Watch for:
   - [Mild] “…cup to south park So that a huge soccer riot can destroy- Simpsons did it! Simpsons did it! Take all the beer cans in south park And have them shaken up in a huge mixer at the paint store So that they- Episode 9f17…”
 
 ## S6 E8 — Red Hot Catholic Love
-URL: https://watchwiththekids.com/ep/south-park/0608.html
+URL: https://watchwiththekids.com/ep/south-park/0608
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1933,7 +1933,7 @@ Watch for:
   - [Mild] “…of it applies to what being a catholic is all about! But the holy document of vatican law states that- To hell with the holy document of vatican law!”
 
 ## S6 E9 — Free Hat
-URL: https://watchwiththekids.com/ep/south-park/0609.html
+URL: https://watchwiththekids.com/ep/south-park/0609
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1955,7 +1955,7 @@ Watch for:
   - [Too much] “The one with the cocaine problem escaped, mein director! Leave him! Let him run back to his mommy.”
 
 ## S6 E10 — Bebe's Boobs Destroy Society
-URL: https://watchwiththekids.com/ep/south-park/0610.html
+URL: https://watchwiththekids.com/ep/south-park/0610
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 9 moment(s)
@@ -1980,7 +1980,7 @@ Watch for:
   - [Caution] “She's a total slut! You know what i heard? I heard that she made out With eight different boys in one minute! I heard that she lifted her shirt To the boys at the bus stop.”
 
 ## S6 E11 — Child Abduction is Not Funny
-URL: https://watchwiththekids.com/ep/south-park/0611.html
+URL: https://watchwiththekids.com/ep/south-park/0611
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1997,7 +1997,7 @@ Watch for:
   - [Caution] “You're such a fat ass, cartman.”
 
 ## S6 E12 — A Ladder to Heaven
-URL: https://watchwiththekids.com/ep/south-park/0612.html
+URL: https://watchwiththekids.com/ep/south-park/0612
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -2023,7 +2023,7 @@ Watch for:
   - [Mild] “I'm not sharing my body with that poor piece of crap.”
 
 ## S6 E13 — The Return of the Fellowship of the Ring to the Two Towers
-URL: https://watchwiththekids.com/ep/south-park/0613.html
+URL: https://watchwiththekids.com/ep/south-park/0613
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2058,7 +2058,7 @@ Watch for:
   - [Caution] “Backdoor sluts 9! Backdoor sluts 9! Is that bad? Backdoor sluts 9 makes crotch capers 3 Look like "naughty nurses 2"! It is the single most vile, twisted, Dark piece of porn ever made.”
 
 ## S6 E14 — Death Camp of Tolerance
-URL: https://watchwiththekids.com/ep/south-park/0614.html
+URL: https://watchwiththekids.com/ep/south-park/0614
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2084,7 +2084,7 @@ Watch for:
   - [Caution] “You don't need three lunches, eric, You're fat enough as it is.”
 
 ## S6 E15 — The Biggest Douche in the Universe
-URL: https://watchwiththekids.com/ep/south-park/0615.html
+URL: https://watchwiththekids.com/ep/south-park/0615
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Swearing — 5 moment(s)
@@ -2097,7 +2097,7 @@ Watch for:
   - [Caution] “…for biggest douche in the universe award, Ya douche! Son of a bitch! Kenny! Shut up, kenny! You shut up, fat ass!”
 
 ## S6 E16 — My Future Self 'n' Me
-URL: https://watchwiththekids.com/ep/south-park/0616.html
+URL: https://watchwiththekids.com/ep/south-park/0616
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2130,7 +2130,7 @@ Watch for:
   - [Mild] “I thought the "hangover black" went really nice in the lobby.”
 
 ## S6 E17 — Red Sleigh Down
-URL: https://watchwiththekids.com/ep/south-park/0617.html
+URL: https://watchwiththekids.com/ep/south-park/0617
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Swearing — 7 moment(s)
@@ -2143,7 +2143,7 @@ Watch for:
   - [Mild] “You bastards.”
 
 ## S7 E1 — Cancelled
-URL: https://watchwiththekids.com/ep/south-park/0701.html
+URL: https://watchwiththekids.com/ep/south-park/0701
 Scores: violence 1/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2165,7 +2165,7 @@ Watch for:
   - [Mild] “I mean, we're just now starting to see people get really pissed off at each other.”
 
 ## S7 E2 — Krazy Kripples
-URL: https://watchwiththekids.com/ep/south-park/0702.html
+URL: https://watchwiththekids.com/ep/south-park/0702
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2181,7 +2181,7 @@ Watch for:
   - [Too much] “Look! My gang, which I can't talk about because it's super secret, is the most important thing to me now! And if you two don't like it, you can just pass the blunt to the nigga on your left.”
 
 ## S7 E3 — Toilet Paper
-URL: https://watchwiththekids.com/ep/south-park/0703.html
+URL: https://watchwiththekids.com/ep/south-park/0703
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 8 moment(s)
@@ -2197,7 +2197,7 @@ Watch for:
   - [Caution] “This isn't playtime, you're being punished! Fine! But we'll have the last laugh tonight, artwhore! Yeah! Payback time, you ugly skank! D'you think that's enough? Should be fine.”
 
 ## S7 E4 — I'm a Little Bit Country
-URL: https://watchwiththekids.com/ep/south-park/0704.html
+URL: https://watchwiththekids.com/ep/south-park/0704
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2218,7 +2218,7 @@ Watch for:
   - [Mild] “Disgraceful! Stan and Kyle, it's up to you to show all those war-mongerers that the Founding Fathers agree with us! Do you think kids in every town have to deal with this crap? Enter, young messenger.”
 
 ## S7 E5 — Fat Butt and Pancake Head
-URL: https://watchwiththekids.com/ep/south-park/0705.html
+URL: https://watchwiththekids.com/ep/south-park/0705
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2244,7 +2244,7 @@ Watch for:
   - [Caution] “Hoohh, I love you too, Ben! But But what? But what if you still have feelings for the slut with the large ass? I still care for her.”
 
 ## S7 E6 — Lil' Crime Stoppers
-URL: https://watchwiththekids.com/ep/south-park/0706.html
+URL: https://watchwiththekids.com/ep/south-park/0706
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2272,7 +2272,7 @@ Watch for:
   - [Caution] “Oh well, then maybe you can tell me who was in charge of the feminist movement of the early sixties! A bunch of fat old skanks on their periods?”
 
 ## S7 E7 — Red Man's Greed
-URL: https://watchwiththekids.com/ep/south-park/0707.html
+URL: https://watchwiththekids.com/ep/south-park/0707
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 6 moment(s)
@@ -2286,7 +2286,7 @@ Watch for:
   - [Mild] “Here, drink some beer.”
 
 ## S7 E8 — South Park is Gay!
-URL: https://watchwiththekids.com/ep/south-park/0708.html
+URL: https://watchwiththekids.com/ep/south-park/0708
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -2301,7 +2301,7 @@ Watch for:
   - [Too much] “Yeah, don't be such a fag, dude! God-damnit!”
 
 ## S7 E9 — Christian Rock Hard
-URL: https://watchwiththekids.com/ep/south-park/0709.html
+URL: https://watchwiththekids.com/ep/south-park/0709
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 9 moment(s)
@@ -2316,7 +2316,7 @@ Watch for:
   - [Mild] “Why the hell did you tell us to dress nice to take us out here? Because, Token, we have to take pictures for our album cover.”
 
 ## S7 E10 — Grey Dawn
-URL: https://watchwiththekids.com/ep/south-park/0710.html
+URL: https://watchwiththekids.com/ep/south-park/0710
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2332,7 +2332,7 @@ Watch for:
   - [Mild] “Can I help you? Help this! The revolution is on, brother! We're taking control of the town! Well, alright, well it's about damn time! Hey everyone, we're taking the town.”
 
 ## S7 E11 — Casa Bonita
-URL: https://watchwiththekids.com/ep/south-park/0711.html
+URL: https://watchwiththekids.com/ep/south-park/0711
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2350,7 +2350,7 @@ Watch for:
   - [Mild] “Man, that sucks about Butters.”
 
 ## S7 E12 — All About the Mormons?
-URL: https://watchwiththekids.com/ep/south-park/0712.html
+URL: https://watchwiththekids.com/ep/south-park/0712
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2365,7 +2365,7 @@ Watch for:
   - [Mild] “Damn, that kid is cool, huh?”
 
 ## S7 E13 — Butt Out
-URL: https://watchwiththekids.com/ep/south-park/0713.html
+URL: https://watchwiththekids.com/ep/south-park/0713
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 10 moment(s)
@@ -2381,7 +2381,7 @@ Watch for:
   - [Mild] “You guys, I am seriously gettin' pissed off now! Now come on, we're goin' to the tobacco company.”
 
 ## S7 E14 — Raisins
-URL: https://watchwiththekids.com/ep/south-park/0714.html
+URL: https://watchwiththekids.com/ep/south-park/0714
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2405,7 +2405,7 @@ Watch for:
   - [Caution] “Just get outta our football game, you stupid skank! Fuck you, fat ass! You guys are assholes! Oh yeah, well, at least we have assholes, you dumb girl! Yeah, that's right! God, you're so stupid! What a whore.”
 
 ## S7 E15 — It's Christmas in Canada
-URL: https://watchwiththekids.com/ep/south-park/0715.html
+URL: https://watchwiththekids.com/ep/south-park/0715
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2427,7 +2427,7 @@ Watch for:
   - [Mild] “How can ze French not drink wine? Travestie! Okay, you can come with us.”
 
 ## S8 E1 — Good Times with Weapons
-URL: https://watchwiththekids.com/ep/south-park/0801.html
+URL: https://watchwiththekids.com/ep/south-park/0801
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2455,7 +2455,7 @@ Watch for:
   - [Too much] “Iya! And I am Black Taku, with the power of perfect spelling! Guys, we're we're really not playing, okay? Wha, what, what's the m-matter, f-fellas? Are you nnnninjas or p-p-p-pussies? We're twice the ninjas you fags are!”
 
 ## S8 E2 — Up the Down Steroid
-URL: https://watchwiththekids.com/ep/south-park/0802.html
+URL: https://watchwiththekids.com/ep/south-park/0802
 Scores: violence 2/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2475,7 +2475,7 @@ Watch for:
   - [Mild] “If you had seen The Passion you would know that Hell is reserved for the Jews, and all those who don't accept Christ.”
 
 ## S8 E3 — The Passion of the Jew
-URL: https://watchwiththekids.com/ep/south-park/0803.html
+URL: https://watchwiththekids.com/ep/south-park/0803
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2494,14 +2494,14 @@ Watch for:
   - [Caution] “…and Phillip" Hey Terrance, I think I have a- Mom! Doorbell! Mom! Answer the door! Goddamnit, lazy-ass whore.”
 
 ## S8 E4 — You Got F**ked in the Ass
-URL: https://watchwiththekids.com/ep/south-park/0804.html
+URL: https://watchwiththekids.com/ep/south-park/0804
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 14+)
 Watch for:
 - Homophobic jokes — 1 moment(s)
   - [Too much] “People will think we're fags.”
 
 ## S8 E5 — Awesom-o
-URL: https://watchwiththekids.com/ep/south-park/0805.html
+URL: https://watchwiththekids.com/ep/south-park/0805
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2521,7 +2521,7 @@ Watch for:
   - [Too much] “…Touch my body! You and me! Check it out, my not-hot body! Come on, my body! Wow, kid, you're a little faggot!”
 
 ## S8 E6 — The Jeffersons
-URL: https://watchwiththekids.com/ep/south-park/0806.html
+URL: https://watchwiththekids.com/ep/south-park/0806
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2546,7 +2546,7 @@ Watch for:
   - [Too much] “Black sonofabitch! I'm planting the cocaine now.”
 
 ## S8 E7 — Goobacks
-URL: https://watchwiththekids.com/ep/south-park/0807.html
+URL: https://watchwiththekids.com/ep/south-park/0807
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2567,7 +2567,7 @@ Watch for:
   - [Too much] “Timecist? You know, a racist, but against people from the- People from the future.”
 
 ## S8 E8 — Douche and Turd
-URL: https://watchwiththekids.com/ep/south-park/0808.html
+URL: https://watchwiththekids.com/ep/south-park/0808
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2586,7 +2586,7 @@ Watch for:
   - [Caution] “Goddamnit you guys, Butters is our friend! And he's allowed to have his opinion! Butters which is funnier? A stupid not-funny giant douche or a super funny turd sandwich? Hahaa, a turd sandwich! You misled him, fat ass!”
 
 ## S8 E9 — Something Wall-Mart This Way Comes
-URL: https://watchwiththekids.com/ep/south-park/0809.html
+URL: https://watchwiththekids.com/ep/south-park/0809
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 6 moment(s)
@@ -2598,7 +2598,7 @@ Watch for:
   - [Mild] “What the hell? Butters? Butters? Uh what the hell are you doing? Wull ah I'm just playin' Monster.”
 
 ## S8 E10 — Pre-School
-URL: https://watchwiththekids.com/ep/south-park/0810.html
+URL: https://watchwiththekids.com/ep/south-park/0810
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2626,7 +2626,7 @@ Watch for:
   - [Mild] “And while I wasted away my time in prison you've been enjoying nice, normal lives!”
 
 ## S8 E11 — Quest for Ratings
-URL: https://watchwiththekids.com/ep/south-park/0811.html
+URL: https://watchwiththekids.com/ep/south-park/0811
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2645,7 +2645,7 @@ Watch for:
   - [Mild] “Get to it! Nobody has any ideas? This sucks.”
 
 ## S8 E12 — Stupid Spoiled Whore Video Playset
-URL: https://watchwiththekids.com/ep/south-park/0812.html
+URL: https://watchwiththekids.com/ep/south-park/0812
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2672,7 +2672,7 @@ Watch for:
   - [Caution] “Girls, what on earth are you doing? We're being stupid spoiled whores.”
 
 ## S8 E13 — Cartman's Incredible Gift
-URL: https://watchwiththekids.com/ep/south-park/0813.html
+URL: https://watchwiththekids.com/ep/south-park/0813
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2697,7 +2697,7 @@ Watch for:
   - [Mild] “It appears we've wasted your time.”
 
 ## S8 E14 — Woodland Critter Christmas
-URL: https://watchwiththekids.com/ep/south-park/0814.html
+URL: https://watchwiththekids.com/ep/south-park/0814
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2712,7 +2712,7 @@ Watch for:
   - [Mild] “Hi there! What the hell? How come you're all alone on Christmas Eve.”
 
 ## S9 E1 — Mr. Garrison's Fancy New Vagina
-URL: https://watchwiththekids.com/ep/south-park/0901.html
+URL: https://watchwiththekids.com/ep/south-park/0901
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2735,7 +2735,7 @@ Watch for:
   - [Caution] “I beat out YOUR fat ass, Cartman! All students trying out for the All-State team to center court! Good luck.”
 
 ## S9 E2 — Die Hippie, Die
-URL: https://watchwiththekids.com/ep/south-park/0902.html
+URL: https://watchwiththekids.com/ep/south-park/0902
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2746,7 +2746,7 @@ Watch for:
   - [Caution] “I mean, is there anything more selfish than doing nothing but getting high and listening to music all day long? He's right.”
 
 ## S9 E3 — Wing
-URL: https://watchwiththekids.com/ep/south-park/0903.html
+URL: https://watchwiththekids.com/ep/south-park/0903
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Swearing — 10 moment(s)
@@ -2762,7 +2762,7 @@ Watch for:
   - [Mild] “Don't give us that crap!”
 
 ## S9 E4 — Best Friends Forever
-URL: https://watchwiththekids.com/ep/south-park/0904.html
+URL: https://watchwiththekids.com/ep/south-park/0904
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2777,7 +2777,7 @@ Watch for:
   - [Too much] “Fag! To Eric Cartman: Eric, I never really liked you.”
 
 ## S9 E5 — The Losing Edge
-URL: https://watchwiththekids.com/ep/south-park/0905.html
+URL: https://watchwiththekids.com/ep/south-park/0905
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 9 moment(s)
@@ -2794,7 +2794,7 @@ Watch for:
   - [Mild] “Wha-what do you mean? I mean, you always get in a fight with scrappy redneck dats up here in the mountains, but some of those Division Two dads are tough! Yeah, those dads get REALLY drunk and obnoxious.”
 
 ## S9 E6 — The Death of Eric Cartman
-URL: https://watchwiththekids.com/ep/south-park/0906.html
+URL: https://watchwiththekids.com/ep/south-park/0906
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2814,7 +2814,7 @@ Watch for:
   - [Too much] “That sounds great! Hey fags, what's going on? Dude, I was on the toilet all night from that chicken.”
 
 ## S9 E7 — Erection Day
-URL: https://watchwiththekids.com/ep/south-park/0907.html
+URL: https://watchwiththekids.com/ep/south-park/0907
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2845,7 +2845,7 @@ Watch for:
   - [Too much] “Okay, that was the Goth kids with "Talent Shows Are For Fags" That was killer.”
 
 ## S9 E8 — Two Days Before the Day After Tomorrow
-URL: https://watchwiththekids.com/ep/south-park/0908.html
+URL: https://watchwiththekids.com/ep/south-park/0908
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2863,7 +2863,7 @@ Watch for:
   - [Caution] “He has his Jew ethics, while he whores his greedy Jew gold, and he will Jew you out if you tell him about this! Hey dudes.”
 
 ## S9 E9 — Marjorine
-URL: https://watchwiththekids.com/ep/south-park/0909.html
+URL: https://watchwiththekids.com/ep/south-park/0909
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
@@ -2878,7 +2878,7 @@ Watch for:
   - [Mild] “Hit it, Kenny Damn, Ken! Here.”
 
 ## S9 E10 — Follow That Egg
-URL: https://watchwiththekids.com/ep/south-park/0910.html
+URL: https://watchwiththekids.com/ep/south-park/0910
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2908,7 +2908,7 @@ Watch for:
   - [Too much] “And everyone is happy! Well what about lesbians?! Well like anyone cares about fuckin' dykes.”
 
 ## S9 E11 — Ginger Kids
-URL: https://watchwiththekids.com/ep/south-park/0911.html
+URL: https://watchwiththekids.com/ep/south-park/0911
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2924,7 +2924,7 @@ Watch for:
   - [Too much] “…he isn't really ginger, it'll be hysterical! Are you in? totally You know, Cartman is an uncaring, bigoted intolerant asshole, but I have to admit, I had my own prejudice about gingers.”
 
 ## S9 E12 — Trapped in the Closet
-URL: https://watchwiththekids.com/ep/south-park/0912.html
+URL: https://watchwiththekids.com/ep/south-park/0912
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2941,7 +2941,7 @@ Watch for:
   - [Mild] “What are you, stupid?! Then how do we make money from those people?! Well, it's not about the money, it's about the message, right? Waait a minute, whoa, whoa! You don't actually believe this crap, do you?”
 
 ## S9 E13 — Free Willzyx
-URL: https://watchwiththekids.com/ep/south-park/0913.html
+URL: https://watchwiththekids.com/ep/south-park/0913
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2960,7 +2960,7 @@ Watch for:
   - [Mild] “Oh crap! There's more of them! Get him in the water! Goodbye, Willzyx! Swim, mighty whale! You're free! Okay, Manuel, hit it.”
 
 ## S9 E14 — Bloody Mary
-URL: https://watchwiththekids.com/ep/south-park/0914.html
+URL: https://watchwiththekids.com/ep/south-park/0914
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2985,7 +2985,7 @@ Watch for:
   - [Mild] “All right! - Come on! Or maybe I'll have three beers.”
 
 ## S10 E1 — The Return of Chef
-URL: https://watchwiththekids.com/ep/south-park/1001.html
+URL: https://watchwiththekids.com/ep/south-park/1001
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3015,7 +3015,7 @@ Watch for:
   - [Caution] “Daaance? Anybody wanna daaance? Come on, bitch! Dance! Up yours, fatty.”
 
 ## S10 E2 — Smug Alert!
-URL: https://watchwiththekids.com/ep/south-park/1002.html
+URL: https://watchwiththekids.com/ep/south-park/1002
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3037,7 +3037,7 @@ Watch for:
   - [Caution] “That's gay, heh.”
 
 ## S10 E3 — Cartoon Wars (1)
-URL: https://watchwiththekids.com/ep/south-park/1003.html
+URL: https://watchwiththekids.com/ep/south-park/1003
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3057,7 +3057,7 @@ Watch for:
   - [Too much] “…your prophet ! Well, you know what ? I'd be pretty pissed off too ! Mrs Garrison, that is ignorant and racist !”
 
 ## S10 E4 — Cartoon Wars (2)
-URL: https://watchwiththekids.com/ep/south-park/1004.html
+URL: https://watchwiththekids.com/ep/south-park/1004
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3081,7 +3081,7 @@ Watch for:
   - [Caution] “Osama bin Laden had this to say: If you look closely at the writing in "Family Guy", you will see that the jokes never derive from the plot, and I think that's totally gay.”
 
 ## S10 E5 — A Million Little Fibers
-URL: https://watchwiththekids.com/ep/south-park/1005.html
+URL: https://watchwiththekids.com/ep/south-park/1005
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -3110,7 +3110,7 @@ Watch for:
   - [Too much] “Your fans look to you to be all-knowing and all-seeing and you've just spent two weeks supporting a lying racist towel.”
 
 ## S10 E6 — ManBearPig
-URL: https://watchwiththekids.com/ep/south-park/1006.html
+URL: https://watchwiththekids.com/ep/south-park/1006
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3131,7 +3131,7 @@ Watch for:
   - [Mild] “Excelsior! We're almost there! I can't keep carrying him, dude! I've got no strength! Yes you do! What the hell is that? Oh my God.”
 
 ## S10 E7 — Tsst
-URL: https://watchwiththekids.com/ep/south-park/1007.html
+URL: https://watchwiththekids.com/ep/south-park/1007
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3147,7 +3147,7 @@ Watch for:
   - [Mild] “What the hell is this?! Skinless chicken, boiled vegetables and salad?! This is just like Auschwitz! This is more aggressive-dominant behavior.”
 
 ## S10 E8 — Make Love, Not Warcraft
-URL: https://watchwiththekids.com/ep/south-park/1008.html
+URL: https://watchwiththekids.com/ep/south-park/1008
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3164,7 +3164,7 @@ Watch for:
   - [Mild] “No! Noooo! What the hell are you guys doing? Don't tell me you all quit playing World of Warcraft too?! Dude, we're done.”
 
 ## S10 E9 — Mystery of the Urinal Deuce
-URL: https://watchwiththekids.com/ep/south-park/1009.html
+URL: https://watchwiththekids.com/ep/south-park/1009
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 5 moment(s)
@@ -3175,7 +3175,7 @@ Watch for:
   - [Mild] “So then, who was responsible for 9/11? Whattaya mean? A bunch of pissed-off Muslims.”
 
 ## S10 E10 — Miss Teacher Bangs a Boy
-URL: https://watchwiththekids.com/ep/south-park/1010.html
+URL: https://watchwiththekids.com/ep/south-park/1010
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -3203,7 +3203,7 @@ Watch for:
   - [Caution] “I'm gonna get that hallway-defilng slut no matter what it takes! Are you in?! I got some badass guys to help me.”
 
 ## S10 E11 — Hell On Earth 2006
-URL: https://watchwiththekids.com/ep/south-park/1011.html
+URL: https://watchwiththekids.com/ep/south-park/1011
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3227,7 +3227,7 @@ Watch for:
   - [Too much] “You don't understand, fool! I ain't missin' the party! W-what party? - I already got my wristband, see? You've got to get me to Los Angeles! Well can't you just take a plane? How, punk?! We don't use money in her, nigga!”
 
 ## S10 E12 — Go God Go (1)
-URL: https://watchwiththekids.com/ep/south-park/1012.html
+URL: https://watchwiththekids.com/ep/south-park/1012
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3251,7 +3251,7 @@ Watch for:
   - [Too much] “Well, you're a faggot! Continue.”
 
 ## S10 E13 — Go God Go XII (2)
-URL: https://watchwiththekids.com/ep/south-park/1013.html
+URL: https://watchwiththekids.com/ep/south-park/1013
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3274,7 +3274,7 @@ Watch for:
   - [Too much] “Explain?? How can I be so stupid?? Richard, come back, please! Well go ahead and leave, you atheist faggot! Have fun mocking God in hell! You queer! Mr.”
 
 ## S10 E14 — Stanley's Cup
-URL: https://watchwiththekids.com/ep/south-park/1014.html
+URL: https://watchwiththekids.com/ep/south-park/1014
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3286,7 +3286,7 @@ Watch for:
   - [Mild] “All right! Give 'em hell, boys! All right! Yeah! It's a tie game here in Colorado as we get set to start the final period.”
 
 ## S11 E1 — With Apologies to Jesse Jackson
-URL: https://watchwiththekids.com/ep/south-park/1101.html
+URL: https://watchwiththekids.com/ep/south-park/1101
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3309,7 +3309,7 @@ Watch for:
   - [Too much] “Everyone wave to the nigger guy, say "Hi, nigger guy.”
 
 ## S11 E2 — Cartman Sucks
-URL: https://watchwiththekids.com/ep/south-park/1102.html
+URL: https://watchwiththekids.com/ep/south-park/1102
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -3329,7 +3329,7 @@ Watch for:
   - [Mild] “Oh no, my dad? Do you understand the concept of hell? Do you realize that if we don't fix you, you will burn in a lake of fire for eternity? Well yeah, but I just don't quite understand what you're fixing.”
 
 ## S11 E3 — Lice Capades
-URL: https://watchwiththekids.com/ep/south-park/1103.html
+URL: https://watchwiththekids.com/ep/south-park/1103
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -3347,7 +3347,7 @@ Watch for:
   - [Mild] “…Then go ahead and die there, I'm leaving with my baby! Actually, you're never leaving here either, Travis! Damn you!”
 
 ## S11 E4 — The Snuke
-URL: https://watchwiththekids.com/ep/south-park/1104.html
+URL: https://watchwiththekids.com/ep/south-park/1104
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3358,7 +3358,7 @@ Watch for:
   - [Too much] “But that's all I'm saying: today, bigotry and racism saved the day.”
 
 ## S11 E5 — Fantastic Easter Special
-URL: https://watchwiththekids.com/ep/south-park/1105.html
+URL: https://watchwiththekids.com/ep/south-park/1105
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3375,7 +3375,7 @@ Watch for:
   - [Caution] “Don't be soft, Your Holiness! These "whores" must be punished in front of everyone! You swore on the cross, fatso! Yeah.”
 
 ## S11 E6 — D-Yikes
-URL: https://watchwiththekids.com/ep/south-park/1106.html
+URL: https://watchwiththekids.com/ep/south-park/1106
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3400,7 +3400,7 @@ Watch for:
   - [Too much] “The Persians had agreed to leave it a lesbian bar for no dyke should be without cocktails.”
 
 ## S11 E7 — Night of the Living Homeless
-URL: https://watchwiththekids.com/ep/south-park/1107.html
+URL: https://watchwiththekids.com/ep/south-park/1107
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 8 moment(s)
@@ -3414,7 +3414,7 @@ Watch for:
   - [Mild] “Each one of you just put in a little change? Change? What the hell happened here? That's far enough! Just march your butts right back out of our town! We, just came to ask a question.”
 
 ## S11 E8 — Le Petit Tourette
-URL: https://watchwiththekids.com/ep/south-park/1108.html
+URL: https://watchwiththekids.com/ep/south-park/1108
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3445,7 +3445,7 @@ Watch for:
   - [Too much] “…what I say! I got a golden ticket! Thanks to Kyle! I got a golden twinkle in my eye! Aw, shit! To all the fags that place this sub on their website and remove the first line.”
 
 ## S11 E9 — More Crap
-URL: https://watchwiththekids.com/ep/south-park/1109.html
+URL: https://watchwiththekids.com/ep/south-park/1109
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 4 moment(s)
@@ -3455,7 +3455,7 @@ Watch for:
   - [Mild] “Thanks for the news flash! I haven't taken a crap in over three weeks! The question is why?! Well, what food have you been eating? - P.”
 
 ## S11 E10 — Imaginationland (1)
-URL: https://watchwiththekids.com/ep/south-park/1110.html
+URL: https://watchwiththekids.com/ep/south-park/1110
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3473,7 +3473,7 @@ Watch for:
   - [Too much] “Faggot I need you to keep surveillance North to North East.”
 
 ## S11 E11 — Imaginationland (2)
-URL: https://watchwiththekids.com/ep/south-park/1111.html
+URL: https://watchwiththekids.com/ep/south-park/1111
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3485,7 +3485,7 @@ Watch for:
   - [Mild] “And instead I got Snarf and Popeye and Luke Skywalker all pissed off.”
 
 ## S11 E12 — Imaginationland (3)
-URL: https://watchwiththekids.com/ep/south-park/1112.html
+URL: https://watchwiththekids.com/ep/south-park/1112
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3499,7 +3499,7 @@ Watch for:
   - [Mild] “You'd better not say that! You'll go to hell! It's possible that hell is also imaginary.”
 
 ## S11 E13 — Guitar Queer-o
-URL: https://watchwiththekids.com/ep/south-park/1113.html
+URL: https://watchwiththekids.com/ep/south-park/1113
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3518,7 +3518,7 @@ Watch for:
   - [Caution] “You want me to teach you boys how? That's gay, Mr.”
 
 ## S11 E14 — The List
-URL: https://watchwiththekids.com/ep/south-park/1114.html
+URL: https://watchwiththekids.com/ep/south-park/1114
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 6 moment(s)
@@ -3530,7 +3530,7 @@ Watch for:
   - [Caution] “I don't wanna find out I'm good-looking and become a total shithead when I grow up.”
 
 ## S12 E1 — Tonsil Trouble
-URL: https://watchwiththekids.com/ep/south-park/1201.html
+URL: https://watchwiththekids.com/ep/south-park/1201
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3556,7 +3556,7 @@ Watch for:
   - [Mild] “Well that's just great! Of all the times to get AIDS, I get it right when everyone stops giving a crap!”
 
 ## S12 E2 — Britney's New Look
-URL: https://watchwiththekids.com/ep/south-park/1202.html
+URL: https://watchwiththekids.com/ep/south-park/1202
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3581,7 +3581,7 @@ Watch for:
   - [Caution] “Used to be we just picked someone by lottery and then stoned them to death.”
 
 ## S12 E3 — Major Boobage
-URL: https://watchwiththekids.com/ep/south-park/1203.html
+URL: https://watchwiththekids.com/ep/south-park/1203
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3606,7 +3606,7 @@ Watch for:
   - [Mild] “Dude, he's getting super-wasted on life.”
 
 ## S12 E4 — Canada on Strike
-URL: https://watchwiththekids.com/ep/south-park/1204.html
+URL: https://watchwiththekids.com/ep/south-park/1204
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3623,7 +3623,7 @@ Watch for:
   - [Caution] “You should care! This strike affects everybody, fat ass.”
 
 ## S12 E5 — Eek, A Penis!
-URL: https://watchwiththekids.com/ep/south-park/1205.html
+URL: https://watchwiththekids.com/ep/south-park/1205
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3645,7 +3645,7 @@ Watch for:
   - [Too much] “Well then get an AIDS test, Thompson, 'cause your wife's a dude, faggot! Yeah! I'm back!”
 
 ## S12 E6 — Over Logging
-URL: https://watchwiththekids.com/ep/south-park/1206.html
+URL: https://watchwiththekids.com/ep/south-park/1206
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -3659,7 +3659,7 @@ Watch for:
   - [Mild] “Oh this sucks! I can't jack off to this! Damnit.”
 
 ## S12 E7 — Super Fun Time
-URL: https://watchwiththekids.com/ep/south-park/1207.html
+URL: https://watchwiththekids.com/ep/south-park/1207
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3676,7 +3676,7 @@ Watch for:
   - [Mild] “You can't help being a douchebag.”
 
 ## S12 E8 — The China Probrem
-URL: https://watchwiththekids.com/ep/south-park/1208.html
+URL: https://watchwiththekids.com/ep/south-park/1208
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3700,7 +3700,7 @@ Watch for:
   - [Too much] “Harro prease, Bing bao ching chong! Yeah, well.”
 
 ## S12 E9 — Breast Cancer Show Ever
-URL: https://watchwiththekids.com/ep/south-park/1209.html
+URL: https://watchwiththekids.com/ep/south-park/1209
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -3729,7 +3729,7 @@ Watch for:
   - [Too much] “Now you all think i'm a fag.”
 
 ## S12 E10 — Pandemic (1)
-URL: https://watchwiththekids.com/ep/south-park/1210.html
+URL: https://watchwiththekids.com/ep/south-park/1210
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 10 moment(s)
@@ -3745,7 +3745,7 @@ Watch for:
   - [Mild] “That's enough! You don't have to videotape every single -- What the hell was that? Oh, my god! Something's going on outside.”
 
 ## S12 E11 — Pandemic (2): The Startling
-URL: https://watchwiththekids.com/ep/south-park/1211.html
+URL: https://watchwiththekids.com/ep/south-park/1211
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Swearing — 5 moment(s)
@@ -3756,7 +3756,7 @@ Watch for:
   - [Mild] “Damn you, Craig.”
 
 ## S12 E12 — About Last Night...
-URL: https://watchwiththekids.com/ep/south-park/1212.html
+URL: https://watchwiththekids.com/ep/south-park/1212
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3780,7 +3780,7 @@ Watch for:
   - [Mild] “He seems wasted.”
 
 ## S12 E13 — Elementary School Musical
-URL: https://watchwiththekids.com/ep/south-park/1213.html
+URL: https://watchwiththekids.com/ep/south-park/1213
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3810,7 +3810,7 @@ Watch for:
   - [Too much] “We said, we won't be a part of this fag and look at you.”
 
 ## S12 E14 — The Ungroundable
-URL: https://watchwiththekids.com/ep/south-park/1214.html
+URL: https://watchwiththekids.com/ep/south-park/1214
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3829,7 +3829,7 @@ Watch for:
   - [Caution] “It went this way? Yeah, it's over there by the fat girl, the big nose kid, the the midget and the kid with pock marks on his face.”
 
 ## S13 E1 — The Ring
-URL: https://watchwiththekids.com/ep/south-park/1301.html
+URL: https://watchwiththekids.com/ep/south-park/1301
 Scores: violence 1/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -3864,7 +3864,7 @@ Watch for:
   - [Caution] “What about her? Oh, boy Kenny, we know you really like this girl, but-- But what? Well, we've heard that she's Kenny your girlfriend is a notorious whore.”
 
 ## S13 E2 — The Coon
-URL: https://watchwiththekids.com/ep/south-park/1302.html
+URL: https://watchwiththekids.com/ep/south-park/1302
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3889,7 +3889,7 @@ Watch for:
   - [Caution] “The city is a dying whore.”
 
 ## S13 E3 — Margaritaville
-URL: https://watchwiththekids.com/ep/south-park/1303.html
+URL: https://watchwiththekids.com/ep/south-park/1303
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3906,7 +3906,7 @@ Watch for:
   - [Caution] “Heghgh! Of all the times for people to decide to stop buying things, it had to be the week that Grand Theft Auto 4 comes out for Nintendo DS! Heghgh! You want something new every week, fat ass.”
 
 ## S13 E4 — Eat, Pray, Queef
-URL: https://watchwiththekids.com/ep/south-park/1304.html
+URL: https://watchwiththekids.com/ep/south-park/1304
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3927,7 +3927,7 @@ Watch for:
   - [Mild] “Ahh! Damn it, I'm trying to enjoy my wine, Katie! No, that was me, Phillip, I farted.”
 
 ## S13 E5 — Fishsticks
-URL: https://watchwiththekids.com/ep/south-park/1305.html
+URL: https://watchwiththekids.com/ep/south-park/1305
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -3947,7 +3947,7 @@ Watch for:
   - [Caution] “…to other gay fish All those lonely nights at the grocery store In the frozen fish aisle feelin' like a whore 'Cause I wasn't bein' true y'know everyone said That I have to make a switch Now I know that I'm a gay…”
 
 ## S13 E6 — Pinewood Derby
-URL: https://watchwiththekids.com/ep/south-park/1306.html
+URL: https://watchwiththekids.com/ep/south-park/1306
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -3967,7 +3967,7 @@ Watch for:
   - [Mild] “No, hey, wait, wait, no! Well, that sucks! COMEDY CENTRAL Captioned by SoundwritersTM”
 
 ## S13 E7 — Fatbeard
-URL: https://watchwiththekids.com/ep/south-park/1307.html
+URL: https://watchwiththekids.com/ep/south-park/1307
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 8 moment(s)
@@ -3985,7 +3985,7 @@ Watch for:
   - [Caution] “No, fat ass, I came to get my brother! We all have to get out of here! It isn't safe! It isn't safe.”
 
 ## S13 E8 — Dead Celebrities
-URL: https://watchwiththekids.com/ep/south-park/1308.html
+URL: https://watchwiththekids.com/ep/south-park/1308
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4007,7 +4007,7 @@ Watch for:
   - [Mild] “Billy Mays, no! - Mold, mildew, even those impossible wine stains are gone in a flash when you snipe them away.”
 
 ## S13 E9 — Butters' Bottom Bitch
-URL: https://watchwiththekids.com/ep/south-park/1309.html
+URL: https://watchwiththekids.com/ep/south-park/1309
 Scores: violence 1/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -4049,7 +4049,7 @@ Watch for:
   - [Caution] “…what - Give it to me! Come on, you sissies, I can fit more of you! Yeah, you like your little stripper whore?”
 
 ## S13 E10 — W.t.f.
-URL: https://watchwiththekids.com/ep/south-park/1310.html
+URL: https://watchwiththekids.com/ep/south-park/1310
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4082,7 +4082,7 @@ Watch for:
   - [Caution] “Let's save the girlfriend-is-a-whore line until after Stan head-butts Butters for trying to stop the fight again.”
 
 ## S13 E11 — Whale Whores
-URL: https://watchwiththekids.com/ep/south-park/1311.html
+URL: https://watchwiththekids.com/ep/south-park/1311
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -4103,7 +4103,7 @@ Watch for:
   - [Caution] “…whaling problem for a second? - But their old captain, Paul Watson, was an unorganized, incompetent media whore who thought lying to everyone was okay as long as it served his cause.”
 
 ## S13 E12 — The F Word
-URL: https://watchwiththekids.com/ep/south-park/1312.html
+URL: https://watchwiththekids.com/ep/south-park/1312
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 9 moment(s)
@@ -4127,7 +4127,7 @@ Watch for:
   - [Too much] “They really are faggots.”
 
 ## S13 E13 — Dances with Smurfs
-URL: https://watchwiththekids.com/ep/south-park/1313.html
+URL: https://watchwiththekids.com/ep/south-park/1313
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4157,7 +4157,7 @@ Watch for:
   - [Caution] “Can you see why many students think you're an ineffective slut? Are you denying that the Smurf holocaust ever happened? Is that what you're suggesting? - Look, Eric.”
 
 ## S13 E14 — Pee
-URL: https://watchwiththekids.com/ep/south-park/1314.html
+URL: https://watchwiththekids.com/ep/south-park/1314
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -4175,7 +4175,7 @@ Watch for:
   - [Too much] “…the only non-minority on earth! How many of our species survived? - That wasn't a Mayan Apocalypse, you racist idiot!”
 
 ## S14 E1 — Sexual Healing
-URL: https://watchwiththekids.com/ep/south-park/1401.html
+URL: https://watchwiththekids.com/ep/south-park/1401
 Scores: violence 3/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -4206,7 +4206,7 @@ Watch for:
   - [Caution] “…pills?! Oh, yeah, take more vicodin, Tiger! That'll help! Will you just listen to me? Listen to this! You whore!”
 
 ## S14 E2 — The Tale of Scrotie McBoogerballs
-URL: https://watchwiththekids.com/ep/south-park/1402.html
+URL: https://watchwiththekids.com/ep/south-park/1402
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4230,7 +4230,7 @@ Watch for:
   - [Caution] “All because one little prick Had to go and write a book, leopold stotch.”
 
 ## S14 E3 — Medicinal Fried Chicken
-URL: https://watchwiththekids.com/ep/south-park/1403.html
+URL: https://watchwiththekids.com/ep/south-park/1403
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4254,7 +4254,7 @@ Watch for:
   - [Mild] “Could you grab me a beer? Stan? Sharon!Hey,hey,Sharon! What? Mr.”
 
 ## S14 E4 — You Have 0 Friends
-URL: https://watchwiththekids.com/ep/south-park/1404.html
+URL: https://watchwiththekids.com/ep/south-park/1404
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -4273,7 +4273,7 @@ Watch for:
   - [Mild] “How many friends do you have, Kenny? How the hell do i only have 37 friends?”
 
 ## S14 E5 — 200
-URL: https://watchwiththekids.com/ep/south-park/1405.html
+URL: https://watchwiththekids.com/ep/south-park/1405
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4299,7 +4299,7 @@ Watch for:
   - [Caution] “You should know, fat ass.”
 
 ## S14 E6 — 201
-URL: https://watchwiththekids.com/ep/south-park/1406.html
+URL: https://watchwiththekids.com/ep/south-park/1406
 Scores: violence 3/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Porn / strippers / sex work — 3 moment(s)
@@ -4330,7 +4330,7 @@ Watch for:
   - [Caution] “He got a little bored one week And had an affair with a slut named Liane Cartman.”
 
 ## S14 E7 — Crippled Summer
-URL: https://watchwiththekids.com/ep/south-park/1407.html
+URL: https://watchwiththekids.com/ep/south-park/1407
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4361,7 +4361,7 @@ Watch for:
   - [Caution] “You are a liar and a swindler who will do anything for money, and I -- we're here for Towelie, fat ass!”
 
 ## S14 E8 — Poor and Stupid
-URL: https://watchwiththekids.com/ep/south-park/1408.html
+URL: https://watchwiththekids.com/ep/south-park/1408
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4389,7 +4389,7 @@ Watch for:
   - [Too much] “People who weren't sure what to think of Nascar are more sure today after a Nascar driver released bigoted and ignorant statements on his podcast.”
 
 ## S14 E9 — It's a Jersey Thing
-URL: https://watchwiththekids.com/ep/south-park/1409.html
+URL: https://watchwiththekids.com/ep/south-park/1409
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4419,7 +4419,7 @@ Watch for:
   - [Caution] “Who the fuck are you to tell me what to do? You trashy whores get out of here and leave her alone.”
 
 ## S14 E10 — Insheeption
-URL: https://watchwiththekids.com/ep/south-park/1410.html
+URL: https://watchwiththekids.com/ep/south-park/1410
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4429,7 +4429,7 @@ Watch for:
   - [Mild] “" Eh, when a chick says, "we need to talk" you might as well start punching yourself in the balls, dude.”
 
 ## S14 E11 — Coon 2: Hindsight
-URL: https://watchwiththekids.com/ep/south-park/1411.html
+URL: https://watchwiththekids.com/ep/south-park/1411
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4443,7 +4443,7 @@ Watch for:
   - [Mild] “I get drunk and I don't remember things.”
 
 ## S14 E12 — Mysterion Rises
-URL: https://watchwiththekids.com/ep/south-park/1412.html
+URL: https://watchwiththekids.com/ep/south-park/1412
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4475,7 +4475,7 @@ Watch for:
   - [Mild] “I know it sounds hard to believe, but we were actually really drunk the entire time.”
 
 ## S14 E13 — Coon Vs. Coon & Friends
-URL: https://watchwiththekids.com/ep/south-park/1413.html
+URL: https://watchwiththekids.com/ep/south-park/1413
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -4503,7 +4503,7 @@ Watch for:
   - [Caution] “You might not wanna go Hey, can I see the double rainbow fellas? Fellas? Isn't it beautiful, you guys? There's no double rainbow, fat ass.”
 
 ## S14 E14 — CrÃ¨me Fraiche
-URL: https://watchwiththekids.com/ep/south-park/1414.html
+URL: https://watchwiththekids.com/ep/south-park/1414
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4525,7 +4525,7 @@ Watch for:
   - [Mild] “I'd take some, red wine, about a quarter cup, then get a wooden spoon.”
 
 ## S15 E1 — HUMANCENTiPAD
-URL: https://watchwiththekids.com/ep/south-park/1501.html
+URL: https://watchwiththekids.com/ep/south-park/1501
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4548,7 +4548,7 @@ Watch for:
   - [Mild] “Seriously you guys! Tom Saltzman's dad is a drunk driver he's the one who ran over Joey Potts' dog because Joey Potts' doesn't know how to take care of his animals which is why he gets beat by is mom.”
 
 ## S15 E2 — Funnybot
-URL: https://watchwiththekids.com/ep/south-park/1502.html
+URL: https://watchwiththekids.com/ep/south-park/1502
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -4572,7 +4572,7 @@ Watch for:
   - [Mild] “What's that? Could you say that in the other ear? Did you guys see Funnybot on Saturday Night Live? You gotta see Funnybot in Hangover 3.”
 
 ## S15 E3 — Royal Pudding
-URL: https://watchwiththekids.com/ep/south-park/1503.html
+URL: https://watchwiththekids.com/ep/south-park/1503
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4601,7 +4601,7 @@ Watch for:
   - [Caution] “You're trying? You call rolling your fat ass out on the stage and lazily blurting out your lines like a turtle taking a shit.”
 
 ## S15 E4 — T.m.i.
-URL: https://watchwiththekids.com/ep/south-park/1504.html
+URL: https://watchwiththekids.com/ep/south-park/1504
 Scores: violence 2/5, sex 5/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4633,7 +4633,7 @@ Watch for:
   - [Caution] “You get a little flash of anger when someone tells you you got tits like a forty year old woman, fat boy? You like that? Shitty titty jelly belly? Oh, yeah, he's a big boy! Get that fatty some mud flaps for his ass.”
 
 ## S15 E5 — Crack Baby Athletic Association
-URL: https://watchwiththekids.com/ep/south-park/1505.html
+URL: https://watchwiththekids.com/ep/south-park/1505
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -4652,7 +4652,7 @@ Watch for:
   - [Too much] “It's like these voices in my head won't be quiet until I use again! And so am I correct that you are eight and a half months pregnant and still addicted to cocaine?”
 
 ## S15 E6 — City Sushi
-URL: https://watchwiththekids.com/ep/south-park/1506.html
+URL: https://watchwiththekids.com/ep/south-park/1506
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4685,7 +4685,7 @@ Watch for:
   - [Too much] “A tweety? Rook, rook, all these racist people think that the Chinese and the Japanese are the same, right?”
 
 ## S15 E7 — You're Getting Old
-URL: https://watchwiththekids.com/ep/south-park/1507.html
+URL: https://watchwiththekids.com/ep/south-park/1507
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -4705,7 +4705,7 @@ Watch for:
   - [Mild] “You know damn well it sounds like crap to you too.”
 
 ## S15 E8 — Ass Burgers
-URL: https://watchwiththekids.com/ep/south-park/1508.html
+URL: https://watchwiththekids.com/ep/south-park/1508
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -4732,7 +4732,7 @@ Watch for:
   - [Caution] “How are we doing those patties? - About three minutes, fat ass.”
 
 ## S15 E9 — The Last of the Meheecans
-URL: https://watchwiththekids.com/ep/south-park/1509.html
+URL: https://watchwiththekids.com/ep/south-park/1509
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -4752,7 +4752,7 @@ Watch for:
   - [Caution] “You're gonna have to do better than that, Mexican! Better than being a fat ass Texan! Just because I'm Texan doesn't mean I'm fat! No, you're fat to begin with, chubby.”
 
 ## S15 E10 — Bass to Mouth
-URL: https://watchwiththekids.com/ep/south-park/1510.html
+URL: https://watchwiththekids.com/ep/south-park/1510
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4781,7 +4781,7 @@ Watch for:
   - [Mild] “Don't take the I'm sorry I wasted your time.”
 
 ## S15 E11 — Broadway Bro Down
-URL: https://watchwiththekids.com/ep/south-park/1511.html
+URL: https://watchwiththekids.com/ep/south-park/1511
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4804,7 +4804,7 @@ Watch for:
   - [Mild] “Anything goes - Blowjob - Anything goes - Blowjob Man time! Hear things more clearly I'm about to get drunk and loud have me a rowdy good time All I need is my girl and my truck and some Rogers Hammerstein.”
 
 ## S15 E12 — 1%
-URL: https://watchwiththekids.com/ep/south-park/1512.html
+URL: https://watchwiththekids.com/ep/south-park/1512
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -4832,7 +4832,7 @@ Watch for:
   - [Caution] “You're a little disturbed right now, but maybe you can Shut your fat piehole, bitch! You know what you did, skank! You let Clyde Frog get murdered! No, Rumper Tumpskin, I didn't.”
 
 ## S15 E13 — A History Channel Thanksgiving
-URL: https://watchwiththekids.com/ep/south-park/1513.html
+URL: https://watchwiththekids.com/ep/south-park/1513
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -4847,7 +4847,7 @@ Watch for:
   - [Caution] “Fat ass, why don't you come and help? You're really being grumpy today.”
 
 ## S15 E14 — The Poor Kid
-URL: https://watchwiththekids.com/ep/south-park/1514.html
+URL: https://watchwiththekids.com/ep/south-park/1514
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4871,7 +4871,7 @@ Watch for:
   - [Caution] “You done spilled that on my titties, skank! They're white trash.”
 
 ## S16 E1 — Reverse Cowgirl
-URL: https://watchwiththekids.com/ep/south-park/1601.html
+URL: https://watchwiththekids.com/ep/south-park/1601
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -4897,7 +4897,7 @@ Watch for:
   - [Mild] “You can't even take a crap at IHOP without a fourty-minute line! Shoes off, belts off! Sharp objects go in the plastic tray! This is inhumane.”
 
 ## S16 E2 — Cash for Gold
-URL: https://watchwiththekids.com/ep/south-park/1602.html
+URL: https://watchwiththekids.com/ep/south-park/1602
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -4921,7 +4921,7 @@ Watch for:
   - [Mild] “You are going to that senior's cocktail party.”
 
 ## S16 E3 — Faith Hilling
-URL: https://watchwiththekids.com/ep/south-park/1603.html
+URL: https://watchwiththekids.com/ep/south-park/1603
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -4937,7 +4937,7 @@ Watch for:
   - [Mild] “To hell with you, Mr.”
 
 ## S16 E4 — Jewpacabra
-URL: https://watchwiththekids.com/ep/south-park/1604.html
+URL: https://watchwiththekids.com/ep/south-park/1604
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -4952,7 +4952,7 @@ Watch for:
   - [Mild] “It's trying to get in! Where the hell are you guys?! Well, we got scared so we're next door at Wingstreet.”
 
 ## S16 E5 — Butterballs
-URL: https://watchwiththekids.com/ep/south-park/1605.html
+URL: https://watchwiththekids.com/ep/south-park/1605
 Scores: violence 2/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -4979,7 +4979,7 @@ Watch for:
   - [Too much] “"Â You're a little faggot.”
 
 ## S16 E6 — I Should Have Never Gone Ziplining
-URL: https://watchwiththekids.com/ep/south-park/1606.html
+URL: https://watchwiththekids.com/ep/south-park/1606
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -5006,7 +5006,7 @@ Watch for:
   - [Caution] “Ziplining was your idea, fat ass.”
 
 ## S16 E7 — Cartman Finds Love
-URL: https://watchwiththekids.com/ep/south-park/1607.html
+URL: https://watchwiththekids.com/ep/south-park/1607
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Swearing — 6 moment(s)
@@ -5021,7 +5021,7 @@ Watch for:
   - [Too much] “I'm the racist.”
 
 ## S16 E8 — Sarcastaball
-URL: https://watchwiththekids.com/ep/south-park/1608.html
+URL: https://watchwiththekids.com/ep/south-park/1608
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5032,7 +5032,7 @@ Watch for:
   - [Mild] “…Cuddle up! Now, what is going on out there?! That kid is provoking us! He's saying mean things to try to piss us off.”
 
 ## S16 E9 — Raising the Bar
-URL: https://watchwiththekids.com/ep/south-park/1609.html
+URL: https://watchwiththekids.com/ep/south-park/1609
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 10 moment(s)
@@ -5054,7 +5054,7 @@ Watch for:
   - [Caution] “Who's got doo doo like a fatty scoot-dee doo.”
 
 ## S16 E10 — Insecurity
-URL: https://watchwiththekids.com/ep/south-park/1610.html
+URL: https://watchwiththekids.com/ep/south-park/1610
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -5089,7 +5089,7 @@ Watch for:
   - [Caution] “The Jewish population isn't dying out, fat ass, it's growing.”
 
 ## S16 E11 — Going Native
-URL: https://watchwiththekids.com/ep/south-park/1611.html
+URL: https://watchwiththekids.com/ep/south-park/1611
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5114,7 +5114,7 @@ Watch for:
   - [Caution] “Then a little boy called me a skank.”
 
 ## S16 E12 — A Nightmare on Face Time
-URL: https://watchwiththekids.com/ep/south-park/1612.html
+URL: https://watchwiththekids.com/ep/south-park/1612
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -5134,7 +5134,7 @@ Watch for:
   - [Mild] “Hello family!!! Who wants champagne?!?!!? Randy, what is all this? It's finally happened Sharon.”
 
 ## S16 E13 — A Scause for Applause
-URL: https://watchwiththekids.com/ep/south-park/1613.html
+URL: https://watchwiththekids.com/ep/south-park/1613
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5155,7 +5155,7 @@ Watch for:
   - [Mild] “Dude, I don't give a crap about using recycled plastic.”
 
 ## S16 E14 — Obama Wins!
-URL: https://watchwiththekids.com/ep/south-park/1614.html
+URL: https://watchwiththekids.com/ep/south-park/1614
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 9 moment(s)
@@ -5173,7 +5173,7 @@ Watch for:
   - [Caution] “And you claim that a General Tsao hired your friend Fat Ass to steal the ballots.”
 
 ## S17 E1 — Let Go, Let Gov
-URL: https://watchwiththekids.com/ep/south-park/1701.html
+URL: https://watchwiththekids.com/ep/south-park/1701
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -5204,7 +5204,7 @@ Watch for:
   - [Caution] “Blabbing, prissy little skank! Why do people talk on the phone like that? I can't even get a minute of peace before that bitch walks in holding the cell phone out like this and talking on speakerphone.”
 
 ## S17 E2 — Informative Murder Porn
-URL: https://watchwiththekids.com/ep/south-park/1702.html
+URL: https://watchwiththekids.com/ep/south-park/1702
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -5239,7 +5239,7 @@ Watch for:
   - [Mild] “I wouldn't have to live in a boring sexless marriage where all we do is piss each other off.”
 
 ## S17 E3 — World War Zimmerman
-URL: https://watchwiththekids.com/ep/south-park/1703.html
+URL: https://watchwiththekids.com/ep/south-park/1703
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -5260,7 +5260,7 @@ Watch for:
   - [Mild] “Please advise! - Damn it! They aren't telling me anything.”
 
 ## S17 E4 — Goth Kids 3: Dawn of the Posers
-URL: https://watchwiththekids.com/ep/south-park/1704.html
+URL: https://watchwiththekids.com/ep/south-park/1704
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -5293,7 +5293,7 @@ Watch for:
   - [Caution] “Shut up, mom! Leave me alone, you conformist bag of demon jizz! Fatty! Ok, so Ike, do you have any questions? You're fucking stupid, Kyle! That's not a question.”
 
 ## S17 E5 — Taming Strange
-URL: https://watchwiththekids.com/ep/south-park/1705.html
+URL: https://watchwiththekids.com/ep/south-park/1705
 Scores: violence 1/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5323,7 +5323,7 @@ Watch for:
   - [Too much] “She's a dyke.”
 
 ## S17 E6 — Ginger Cow
-URL: https://watchwiththekids.com/ep/south-park/1706.html
+URL: https://watchwiththekids.com/ep/south-park/1706
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -5345,7 +5345,7 @@ Watch for:
   - [Caution] “What is it, Kyle? You're a fat skank, Mom.”
 
 ## S17 E7 — Black Friday
-URL: https://watchwiththekids.com/ep/south-park/1707.html
+URL: https://watchwiththekids.com/ep/south-park/1707
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -5367,7 +5367,7 @@ Watch for:
   - [Caution] “Oh, my god, they're so gay.”
 
 ## S17 E8 — A Song of Ass and Fire
-URL: https://watchwiththekids.com/ep/south-park/1708.html
+URL: https://watchwiththekids.com/ep/south-park/1708
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5391,7 +5391,7 @@ Watch for:
   - [Caution] “Ah, god - There's another army out there who thinks they're better than us, and we are not going to be beat by the traitor whore kenny.”
 
 ## S17 E9 — Titties and Dragons
-URL: https://watchwiththekids.com/ep/south-park/1709.html
+URL: https://watchwiththekids.com/ep/south-park/1709
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -5417,7 +5417,7 @@ Watch for:
   - [Caution] “You can't die! Everybody really likes you! We are not going to be beat by that traitor whore Kenny! Seems a shame that the fight will be so one-sided.”
 
 ## S17 E10 — The Hobbit
-URL: https://watchwiththekids.com/ep/south-park/1710.html
+URL: https://watchwiththekids.com/ep/south-park/1710
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5442,7 +5442,7 @@ Watch for:
   - [Caution] “Look at those thighs Come on, you gotta push harder! You better work out, whore! Whoa She looks sweet.”
 
 ## S18 E1 — Go Fund Yourself
-URL: https://watchwiththekids.com/ep/south-park/1801.html
+URL: https://watchwiththekids.com/ep/south-park/1801
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -5460,7 +5460,7 @@ Watch for:
   - [Mild] “I don't - Holy mother Mary! - What? Somebody raided KickStarter and they burned the building to the ground! - What? - Somebody killed KickStarter! Who the hell would burn KickStarter to the ground?”
 
 ## S18 E2 — Gluten Free Ebola
-URL: https://watchwiththekids.com/ep/south-park/1802.html
+URL: https://watchwiththekids.com/ep/south-park/1802
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -5481,7 +5481,7 @@ Watch for:
   - [Mild] “Beer is all wheat, dad! Shut up! Beer's bad for you? We're gonna need you to come with us, sir.”
 
 ## S18 E3 — The Cissy
-URL: https://watchwiththekids.com/ep/south-park/1803.html
+URL: https://watchwiththekids.com/ep/south-park/1803
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -5503,7 +5503,7 @@ Watch for:
   - [Mild] “You just gonna drink beer alone all day? It's okay.”
 
 ## S18 E4 — Handicar
-URL: https://watchwiththekids.com/ep/south-park/1804.html
+URL: https://watchwiththekids.com/ep/south-park/1804
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5523,7 +5523,7 @@ Watch for:
   - [Mild] “Mimsy, I told you to put the explosives under Timmy's seat! You told me to put the explosives under the seat of that fake, soft-spoken douchebag that everyone loves!”
 
 ## S18 E5 — The Magic Bush
-URL: https://watchwiththekids.com/ep/south-park/1805.html
+URL: https://watchwiththekids.com/ep/south-park/1805
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -5542,7 +5542,7 @@ Watch for:
   - [Mild] “What the hell are these police drones doing? We can't protest now? Just hover, honey.”
 
 ## S18 E6 — Freemium Isn't Free
-URL: https://watchwiththekids.com/ep/south-park/1806.html
+URL: https://watchwiththekids.com/ep/south-park/1806
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5564,7 +5564,7 @@ Watch for:
   - [Mild] “You need to realize that you have something in your brain that you somehow inherited from your grandpa that makes you act this way, okay? I don't know how you can say that when you're standing here - chugging beer.”
 
 ## S18 E7 — Grounded Vindaloop
-URL: https://watchwiththekids.com/ep/south-park/1807.html
+URL: https://watchwiththekids.com/ep/south-park/1807
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -5594,7 +5594,7 @@ Watch for:
   - [Mild] Man: “What the hell are you doing, kid?! Butters, it's, uh, time to stop.”
 
 ## S18 E8 — Cock Magic
-URL: https://watchwiththekids.com/ep/south-park/1808.html
+URL: https://watchwiththekids.com/ep/south-park/1808
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -5612,7 +5612,7 @@ Watch for:
   - [Mild] “Hell, he's never even lost one health.”
 
 ## S18 E9 — #rehash
-URL: https://watchwiththekids.com/ep/south-park/1809.html
+URL: https://watchwiththekids.com/ep/south-park/1809
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5632,7 +5632,7 @@ Watch for:
   - [Mild] “What the hell is that? It's Cartman's stupid online persona.”
 
 ## S18 E10 — #HappyHolograms
-URL: https://watchwiththekids.com/ep/south-park/1810.html
+URL: https://watchwiththekids.com/ep/south-park/1810
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -5653,7 +5653,7 @@ Watch for:
   - [Too much] “What? We're not racist.”
 
 ## S19 E1 — Stunning and Brave
-URL: https://watchwiththekids.com/ep/south-park/1901.html
+URL: https://watchwiththekids.com/ep/south-park/1901
 Scores: violence 2/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -5686,7 +5686,7 @@ Watch for:
   - [Too much] “black and blue! Whoo, whoo! We are language police fighting bigotry! Hurtful words can suck our turds, 'cause it's P.”
 
 ## S19 E2 — Where My Country Gone?
-URL: https://watchwiththekids.com/ep/south-park/1902.html
+URL: https://watchwiththekids.com/ep/south-park/1902
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5708,7 +5708,7 @@ Watch for:
   - [Too much] “How bad can a president be? If certain people want to leave this country, then let them! You tell those pussy homos they can suck my balls! But, Mr.”
 
 ## S19 E3 — The City Part of Town
-URL: https://watchwiththekids.com/ep/south-park/1903.html
+URL: https://watchwiththekids.com/ep/south-park/1903
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5729,7 +5729,7 @@ Watch for:
   - [Too much] “Do you think it's true? Do you think we're really bigoted, country bumpkins? No, hey, we are not bumpkins, okay? Kenny's a bumpkin.”
 
 ## S19 E4 — You're Not Yelping
-URL: https://watchwiththekids.com/ep/south-park/1904.html
+URL: https://watchwiththekids.com/ep/south-park/1904
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -5749,7 +5749,7 @@ Watch for:
   - [Caution] “If youâre such a great leader, tell the city what you want, fat ass! Donât call me fat, son.”
 
 ## S19 E5 — Safe Space
-URL: https://watchwiththekids.com/ep/south-park/1905.html
+URL: https://watchwiththekids.com/ep/south-park/1905
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -5773,7 +5773,7 @@ Watch for:
   - [Mild] “…"Fast and the Furious" And this little piggy goes direct to cable And this little piggy just bought $53 in beer and frozen pizzas!”
 
 ## S19 E6 — Tweek x Craig
-URL: https://watchwiththekids.com/ep/south-park/1906.html
+URL: https://watchwiththekids.com/ep/south-park/1906
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -5801,7 +5801,7 @@ Watch for:
   - [Caution] “But keep the door open, all right? Theyâre so gay.”
 
 ## S19 E7 — Naughty Ninjas
-URL: https://watchwiththekids.com/ep/south-park/1907.html
+URL: https://watchwiththekids.com/ep/south-park/1907
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -5833,7 +5833,7 @@ Watch for:
   - [Caution] “Ninjas? Oh, that's so gay.”
 
 ## S19 E8 — Sponsored Content
-URL: https://watchwiththekids.com/ep/south-park/1908.html
+URL: https://watchwiththekids.com/ep/south-park/1908
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -5856,7 +5856,7 @@ Watch for:
   - [Too much] “Iâve been called a bigot towards persons with disabilities.”
 
 ## S19 E9 — Truth and Advertising
-URL: https://watchwiththekids.com/ep/south-park/1909.html
+URL: https://watchwiththekids.com/ep/south-park/1909
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -5878,7 +5878,7 @@ Watch for:
   - [Caution] “Knock it off! Is there a problem, guys? Go get my pen, fat ass! I'm am not your slave, Kyle.”
 
 ## S19 E10 — PC Principal Final Justice
-URL: https://watchwiththekids.com/ep/south-park/1910.html
+URL: https://watchwiththekids.com/ep/south-park/1910
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -5908,7 +5908,7 @@ Watch for:
   - [Too much] “We have a new enemy out thereâ¦ An almost invisible foe that is so bigoted, so racially biased, they actually think we should all die.”
 
 ## S20 E1 — Member Berries
-URL: https://watchwiththekids.com/ep/south-park/2001.html
+URL: https://watchwiththekids.com/ep/south-park/2001
 Scores: violence 1/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -5931,7 +5931,7 @@ Watch for:
   - [Caution] “Are you or are you not the Internet troll skankhunt42? It's skank-hunt42, and no, I am not.”
 
 ## S20 E2 — Skank Hunt
-URL: https://watchwiththekids.com/ep/south-park/2002.html
+URL: https://watchwiththekids.com/ep/south-park/2002
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -5947,7 +5947,7 @@ Watch for:
   - [Caution] “Game on, whore.”
 
 ## S20 E3 — The Damned
-URL: https://watchwiththekids.com/ep/south-park/2003.html
+URL: https://watchwiththekids.com/ep/south-park/2003
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -5972,7 +5972,7 @@ Watch for:
   - [Too much] “…as a retaliation for Heidi Turner quitting social media! Now, because of the actions of one sexist, bigoted, racist troll We have a gender war on our hands.”
 
 ## S20 E4 — Wieners Out
-URL: https://watchwiththekids.com/ep/south-park/2004.html
+URL: https://watchwiththekids.com/ep/south-park/2004
 Scores: violence 2/5, sex 5/5, language 4/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -6002,7 +6002,7 @@ Watch for:
   - [Caution] “This is why we all have to come together, Skank.”
 
 ## S20 E5 — Douche and a Danish
-URL: https://watchwiththekids.com/ep/south-park/2005.html
+URL: https://watchwiththekids.com/ep/south-park/2005
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6030,7 +6030,7 @@ Watch for:
   - [Caution] “It's not mean if it's hilarious! If we all worked with you, Skank, could we do it? Could we troll an entire country? If we all work together? Maybe.”
 
 ## S20 E6 — Fort Collins
-URL: https://watchwiththekids.com/ep/south-park/2006.html
+URL: https://watchwiththekids.com/ep/south-park/2006
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6062,7 +6062,7 @@ Watch for:
   - [Caution] “Nobody cares about your fat sister with Lyme disease, skank.”
 
 ## S20 E7 — Oh, Jeez
-URL: https://watchwiththekids.com/ep/south-park/2007.html
+URL: https://watchwiththekids.com/ep/south-park/2007
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -6092,7 +6092,7 @@ Watch for:
   - [Caution] “You and I need each other, Skank.”
 
 ## S20 E8 — Members Only
-URL: https://watchwiththekids.com/ep/south-park/2008.html
+URL: https://watchwiththekids.com/ep/south-park/2008
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -6120,7 +6120,7 @@ Watch for:
   - [Too much] “You insisted that I was a bigot, that I was an intolerant relic left over from another time.”
 
 ## S20 E9 — Not Funny
-URL: https://watchwiththekids.com/ep/south-park/2009.html
+URL: https://watchwiththekids.com/ep/south-park/2009
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -6152,7 +6152,7 @@ Watch for:
   - [Caution] “Skank, get ahold of yourself.”
 
 ## S20 E10 — The End of Serialization As We Know It
-URL: https://watchwiththekids.com/ep/south-park/2010.html
+URL: https://watchwiththekids.com/ep/south-park/2010
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -6178,7 +6178,7 @@ Watch for:
   - [Caution] “Skank, whoever's doing it is doing it from your account.”
 
 ## S21 E1 — White People Renovating Houses
-URL: https://watchwiththekids.com/ep/south-park/2101.html
+URL: https://watchwiththekids.com/ep/south-park/2101
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -6200,7 +6200,7 @@ Watch for:
   - [Mild] “I'll pepper spray you, sonabitch! - Oh, ah, damn it! - [Bleep.]”
 
 ## S21 E2 — Put It Down
-URL: https://watchwiththekids.com/ep/south-park/2102.html
+URL: https://watchwiththekids.com/ep/south-park/2102
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Suicide & self-harm — 5 moment(s)
@@ -6220,7 +6220,7 @@ Watch for:
   - [Mild] “God damn it.”
 
 ## S21 E3 — Holiday Special
-URL: https://watchwiththekids.com/ep/south-park/2103.html
+URL: https://watchwiththekids.com/ep/south-park/2103
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -6252,7 +6252,7 @@ Watch for:
   - [Caution] “Your wife's a whore.”
 
 ## S21 E4 — Franchise Prequel
-URL: https://watchwiththekids.com/ep/south-park/2104.html
+URL: https://watchwiththekids.com/ep/south-park/2104
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6278,7 +6278,7 @@ Watch for:
   - [Mild] “This franchise plan sucks.”
 
 ## S21 E5 — Hummels & Heroin
-URL: https://watchwiththekids.com/ep/south-park/2105.html
+URL: https://watchwiththekids.com/ep/south-park/2105
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6305,7 +6305,7 @@ Watch for:
   - [Caution] “Drug dealer?! All right.”
 
 ## S21 E6 — Sons A Witches
-URL: https://watchwiththekids.com/ep/south-park/2106.html
+URL: https://watchwiththekids.com/ep/south-park/2106
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6324,7 +6324,7 @@ Watch for:
   - [Mild] “Yeah, and you guys get wasted.”
 
 ## S21 E7 — Doubling Down
-URL: https://watchwiththekids.com/ep/south-park/2107.html
+URL: https://watchwiththekids.com/ep/south-park/2107
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6353,7 +6353,7 @@ Watch for:
   - [Caution] “That dirty whore! Who does that bitch think she is?! Packing my lunch for me? [BLEEP.]”
 
 ## S21 E8 — Moss Piglets
-URL: https://watchwiththekids.com/ep/south-park/2108.html
+URL: https://watchwiththekids.com/ep/south-park/2108
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6376,7 +6376,7 @@ Watch for:
   - [Caution] “We got the fat girl.”
 
 ## S21 E9 — SUPER HARD PCness
-URL: https://watchwiththekids.com/ep/south-park/2109.html
+URL: https://watchwiththekids.com/ep/south-park/2109
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 9 moment(s)
@@ -6394,7 +6394,7 @@ Watch for:
   - [Too much] “Canadians should care about the rest of the world! You are a racist, fwiend!”
 
 ## S21 E10 — Splatty Tomato
-URL: https://watchwiththekids.com/ep/south-park/2110.html
+URL: https://watchwiththekids.com/ep/south-park/2110
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -6416,7 +6416,7 @@ Watch for:
   - [Mild] “Hey, what the hell's going on?! They're together! Who's together? The Principal and the Vice Principal! They can't be together! They're co-workers! [Vomits.]”
 
 ## S22 E1 — Dead Kids
-URL: https://watchwiththekids.com/ep/south-park/2201.html
+URL: https://watchwiththekids.com/ep/south-park/2201
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6437,7 +6437,7 @@ Watch for:
   - [Too much] “I am not a racist.”
 
 ## S22 E2 — A Boy and a Priest
-URL: https://watchwiththekids.com/ep/south-park/2202.html
+URL: https://watchwiththekids.com/ep/south-park/2202
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6456,7 +6456,7 @@ Watch for:
   - [Mild] “Well, this sucks.”
 
 ## S22 E3 — The Problem with a Poo
-URL: https://watchwiththekids.com/ep/south-park/2203.html
+URL: https://watchwiththekids.com/ep/south-park/2203
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6485,7 +6485,7 @@ Watch for:
   - [Caution] “You decided to call the mayor a titless whore.”
 
 ## S22 E4 — Tegridy Farms
-URL: https://watchwiththekids.com/ep/south-park/2204.html
+URL: https://watchwiththekids.com/ep/south-park/2204
 Scores: violence 2/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6512,7 +6512,7 @@ Watch for:
   - [Caution] “Tegridy Weed from Tegridy Farms.”
 
 ## S22 E5 — The Scoots
-URL: https://watchwiththekids.com/ep/south-park/2205.html
+URL: https://watchwiththekids.com/ep/south-park/2205
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -6528,7 +6528,7 @@ Watch for:
   - [Mild] “What the hell? Look at my car! Who's gonna pay for - Sorry, dude! - God damn it! Get off the God damn streets with those things! [TIRES SQUEAL.]”
 
 ## S22 E6 — Time to Get Cereal
-URL: https://watchwiththekids.com/ep/south-park/2206.html
+URL: https://watchwiththekids.com/ep/south-park/2206
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -6551,7 +6551,7 @@ Watch for:
   - [Mild] “Damn it! When children leave school, they're supposed to be out of harm's way.”
 
 ## S22 E7 — Nobody Got Cereal?
-URL: https://watchwiththekids.com/ep/south-park/2207.html
+URL: https://watchwiththekids.com/ep/south-park/2207
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6575,7 +6575,7 @@ Watch for:
   - [Caution] “You (BLEEP)ing slut! That's right, Harrison Yates.”
 
 ## S22 E8 — Buddah Box
-URL: https://watchwiththekids.com/ep/south-park/2208.html
+URL: https://watchwiththekids.com/ep/south-park/2208
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6592,7 +6592,7 @@ Watch for:
   - [Mild] “Get off my towel! God damn it!”
 
 ## S22 E9 — Unfulfilled
-URL: https://watchwiththekids.com/ep/south-park/2209.html
+URL: https://watchwiththekids.com/ep/south-park/2209
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -6610,7 +6610,7 @@ Watch for:
   - [Mild] IRISH SINGER: “Working me fingers to the bone I needs me a drink before goin' home Be back in the morning, pack boxes at dawn Workin' for Amazon Can I get a beer, please? Whatcha got on tap? Amazon, Amazon light, and Amazon IPA.”
 
 ## S22 E10 — Bike Parade
-URL: https://watchwiththekids.com/ep/south-park/2210.html
+URL: https://watchwiththekids.com/ep/south-park/2210
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -6634,7 +6634,7 @@ Watch for:
   - [Mild] “Damn you, Tegridy! Ice cold beer, down-home Days Country music and bike parades We got Tegridy all around - Round - Round That's life livin' in our Colorado town [BABIES CRYING.]”
 
 ## S23 E1 — Mexican Joker
-URL: https://watchwiththekids.com/ep/south-park/2301.html
+URL: https://watchwiththekids.com/ep/south-park/2301
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6665,7 +6665,7 @@ Watch for:
   - [Caution] “Jack? Everything alright? Yeah, you want a normal size or a big fatty? Jack! A brutal act of terror in an American town.”
 
 ## S23 E2 — Band in China
-URL: https://watchwiththekids.com/ep/south-park/2302.html
+URL: https://watchwiththekids.com/ep/south-park/2302
 Scores: violence 3/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -6684,7 +6684,7 @@ Watch for:
   - [Caution] “We're gonna move back to our old house? No! I've been trying to figure out how to make more money selling weed.”
 
 ## S23 E3 — Shots!!!
-URL: https://watchwiththekids.com/ep/south-park/2303.html
+URL: https://watchwiththekids.com/ep/south-park/2303
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -6708,7 +6708,7 @@ Watch for:
   - [Too much] “…not like that I do business with China, but personally, I think you guys having a problem with China is racist.”
 
 ## S23 E4 — Let Them Eat Goo
-URL: https://watchwiththekids.com/ep/south-park/2304.html
+URL: https://watchwiththekids.com/ep/south-park/2304
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -6730,7 +6730,7 @@ Watch for:
   - [Caution] “Do, like a sale? Like a fall sale? Not good enough! Shelley? I hate marijuana.”
 
 ## S23 E5 — Tegridy Farms Halloween Special
-URL: https://watchwiththekids.com/ep/south-park/2305.html
+URL: https://watchwiththekids.com/ep/south-park/2305
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -6756,7 +6756,7 @@ Watch for:
   - [Caution] “High as a kite every tennis match.”
 
 ## S23 E6 — Danger Close: The Battle of Long Tan
-URL: https://watchwiththekids.com/ep/south-park/2306.html
+URL: https://watchwiththekids.com/ep/south-park/2306
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 6 moment(s)
@@ -6773,7 +6773,7 @@ Watch for:
   - [Caution] “But if he doesn't get out of it, then what happens to us? We'd probably have to sell the farm, and move back to town, and sort of live our lives without the marijuana business, and without Daddy.”
 
 ## S23 E7 — Board Girls
-URL: https://watchwiththekids.com/ep/south-park/2307.html
+URL: https://watchwiththekids.com/ep/south-park/2307
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6802,7 +6802,7 @@ Watch for:
   - [Too much] “You're right! They realize that raising a gender-based issue of strength doesn't necessarily make one a bigot or a bully.”
 
 ## S23 E8 — Turd Burglars
-URL: https://watchwiththekids.com/ep/south-park/2308.html
+URL: https://watchwiththekids.com/ep/south-park/2308
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -6822,7 +6822,7 @@ Watch for:
   - [Caution] “There you are, you Goddamn bitch! I will take you to court, fat whore!”
 
 ## S23 E9 — Basic Cable
-URL: https://watchwiththekids.com/ep/south-park/2309.html
+URL: https://watchwiththekids.com/ep/south-park/2309
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -6840,7 +6840,7 @@ Watch for:
   - [Mild] “Still sucks.”
 
 ## S23 E10 — Christmas Snow
-URL: https://watchwiththekids.com/ep/south-park/2310.html
+URL: https://watchwiththekids.com/ep/south-park/2310
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -6868,7 +6868,7 @@ Watch for:
   - [Mild] “Come on! What the hell? I dunno, there's some kind of blockage in front of the booze section.”
 
 ## S24 E97 — The Pandemic Special
-URL: https://watchwiththekids.com/ep/south-park/2497.html
+URL: https://watchwiththekids.com/ep/south-park/2497
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6900,7 +6900,7 @@ Watch for:
   - [Too much] “This is This is racist television,”
 
 ## S24 E98 — South ParQ Vaccination Special
-URL: https://watchwiththekids.com/ep/south-park/2498.html
+URL: https://watchwiththekids.com/ep/south-park/2498
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -6935,7 +6935,7 @@ Watch for:
   - [Caution] Oh, you fucking slut! This is why we keep old people in the back of the line! Cartman, just stick to the fucking plan! Oh, great, Kyle.
 
 ## S24 E99 — Post COVID
-URL: https://watchwiththekids.com/ep/south-park/2499.html
+URL: https://watchwiththekids.com/ep/south-park/2499
 Scores: violence 3/5, sex 3/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -6976,7 +6976,7 @@ Watch for:
   - [Mild] “I drop wine shots into the beer.”
 
 ## S25 E1 — Pajama Day
-URL: https://watchwiththekids.com/ep/south-park/2501.html
+URL: https://watchwiththekids.com/ep/south-park/2501
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -6991,7 +6991,7 @@ Watch for:
   - [Caution] Hey, don't put that pajama wearing slut in here with us! Chief, they're asking for your assistance - down on Brighton Street.
 
 ## S25 E2 — The Big Fix
-URL: https://watchwiththekids.com/ep/south-park/2502.html
+URL: https://watchwiththekids.com/ep/south-park/2502
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Swearing — 7 moment(s)
@@ -7014,7 +7014,7 @@ Watch for:
   - [Caution] Then why did you spell it Token without the "L" or the "I"?! J. R. R. Tolkien has an "L" in it? That's gay.
 
 ## S25 E3 — City People
-URL: https://watchwiththekids.com/ep/south-park/2503.html
+URL: https://watchwiththekids.com/ep/south-park/2503
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -7028,7 +7028,7 @@ Watch for:
   - [Mild] It's the damn real estate agents! They're the ones who are going overboard.
 
 ## S25 E4 — Back to the Cold War
-URL: https://watchwiththekids.com/ep/south-park/2504.html
+URL: https://watchwiththekids.com/ep/south-park/2504
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7048,7 +7048,7 @@ Watch for:
   - [Caution] What kind of problems? Well, you know, bullies, and, uh, pressure for marijuana, you know, with Don't move! Now I want some goddamn answers.
 
 ## S25 E5 — Help, My Teenager Hates Me
-URL: https://watchwiththekids.com/ep/south-park/2505.html
+URL: https://watchwiththekids.com/ep/south-park/2505
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7079,7 +7079,7 @@ Watch for:
   - [Mild] “against some drunk rednecks?”
 
 ## S25 E6 — Credigree Weed St. Patrick's Day Special
-URL: https://watchwiththekids.com/ep/south-park/2506.html
+URL: https://watchwiththekids.com/ep/south-park/2506
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7106,7 +7106,7 @@ Watch for:
   - [Too much] What's your point? I'm looking at my point, you racist son of a bitch.
 
 ## S26 E1 — Cupid Ye
-URL: https://watchwiththekids.com/ep/south-park/2601.html
+URL: https://watchwiththekids.com/ep/south-park/2601
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -7125,7 +7125,7 @@ Watch for:
   - [Too much] to be a racist piece of shit.
 
 ## S26 E2 — The World-Wide Privacy Tour
-URL: https://watchwiththekids.com/ep/south-park/2602.html
+URL: https://watchwiththekids.com/ep/south-park/2602
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -7147,7 +7147,7 @@ Watch for:
   - [Caution] this, you dumb slut?
 
 ## S26 E3 — Japanese Toilet
-URL: https://watchwiththekids.com/ep/south-park/2603.html
+URL: https://watchwiththekids.com/ep/south-park/2603
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -7175,7 +7175,7 @@ Watch for:
   - [Mild] Oh, sure, I'll take some champagne.
 
 ## S26 E4 — Deep Learning
-URL: https://watchwiththekids.com/ep/south-park/2604.html
+URL: https://watchwiththekids.com/ep/south-park/2604
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 14+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -7188,7 +7188,7 @@ Watch for:
   - [Mild] Oh, God-[BLEEP]-damn it.
 
 ## S26 E5 — DikinBaus Hot Dogs
-URL: https://watchwiththekids.com/ep/south-park/2605.html
+URL: https://watchwiththekids.com/ep/south-park/2605
 Scores: violence 2/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -7212,7 +7212,7 @@ Watch for:
   - [Caution] hours on a job, fat ass.
 
 ## S26 E6 — Spring Break
-URL: https://watchwiththekids.com/ep/south-park/2606.html
+URL: https://watchwiththekids.com/ep/south-park/2606
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7237,7 +7237,7 @@ Watch for:
   - [Mild] You guys have wasted
 
 ## S27 E1 — Sermon on the 'Mount
-URL: https://watchwiththekids.com/ep/south-park/2701.html
+URL: https://watchwiththekids.com/ep/south-park/2701
 Scores: violence 3/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -7266,7 +7266,7 @@ Watch for:
   - [Too much] then who's the retarded faggot
 
 ## S27 E2 — Got a Nut
-URL: https://watchwiththekids.com/ep/south-park/2702.html
+URL: https://watchwiththekids.com/ep/south-park/2702
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -7285,7 +7285,7 @@ Watch for:
   - [Caution] all women are whores,
 
 ## S27 E3 — Sickofancy
-URL: https://watchwiththekids.com/ep/south-park/2703.html
+URL: https://watchwiththekids.com/ep/south-park/2703
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7309,7 +7309,7 @@ Watch for:
   - [Caution] Yeah, it's 'cause my marijuana business
 
 ## S27 E4 — Wok is Dead
-URL: https://watchwiththekids.com/ep/south-park/2704.html
+URL: https://watchwiththekids.com/ep/south-park/2704
 Scores: violence 1/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -7336,7 +7336,7 @@ Watch for:
   - [Caution] Labubus every day, whore.
 
 ## S27 E5 — Conflict of Interest
-URL: https://watchwiththekids.com/ep/south-park/2705.html
+URL: https://watchwiththekids.com/ep/south-park/2705
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -7356,7 +7356,7 @@ Watch for:
   - [Caution] Take that bet down right now, fat ass!
 
 ## S28 E1 — Twisted Christian
-URL: https://watchwiththekids.com/ep/south-park/2801.html
+URL: https://watchwiththekids.com/ep/south-park/2801
 Scores: violence 1/5, sex 4/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -7383,7 +7383,7 @@ Watch for:
   - [Too much] Are you a fag?
 
 ## S28 E2 — The Woman in the Hat
-URL: https://watchwiththekids.com/ep/south-park/2802.html
+URL: https://watchwiththekids.com/ep/south-park/2802
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Swearing — 12 moment(s)
@@ -7401,7 +7401,7 @@ Watch for:
   - [Mild] whatever the hell you need to do,
 
 ## S28 E3 — Sora Not Sorry
-URL: https://watchwiththekids.com/ep/south-park/2803.html
+URL: https://watchwiththekids.com/ep/south-park/2803
 Scores: violence 1/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 14)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -7428,7 +7428,7 @@ Watch for:
   - [Mild] What the hell is this?
 
 ## S28 E4 — Turkey Trot
-URL: https://watchwiththekids.com/ep/south-park/2804.html
+URL: https://watchwiththekids.com/ep/south-park/2804
 Scores: violence 1/5, sex 1/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -7452,7 +7452,7 @@ Watch for:
   - [Too much] Oh, I'm a racist?
 
 ## S28 E5 — The Crap Out
-URL: https://watchwiththekids.com/ep/south-park/2805.html
+URL: https://watchwiththekids.com/ep/south-park/2805
 Scores: violence 3/5, sex 2/5, language 5/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)

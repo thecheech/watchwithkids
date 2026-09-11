@@ -1,17 +1,17 @@
 # Amphibia — parent guide (106 episodes)
 
-Source: https://watchwiththekids.com/amphibia.html
+Source: https://watchwiththekids.com/amphibia
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 99 mild (1–2), 7 caution (3), 0 too much (4–5).
 
 ## S1 E1 — Anne or Beast?
-URL: https://watchwiththekids.com/ep/amphibia/0101.html
+URL: https://watchwiththekids.com/ep/amphibia/0101
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Sprig tries to capture a mysterious beast to prove that he's responsible.
 Watch for: nothing flagged.
 
 ## S1 E2 — Best Fronds
-URL: https://watchwiththekids.com/ep/amphibia/0102.html
+URL: https://watchwiththekids.com/ep/amphibia/0102
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Sprig takes Anne swimming in a nearby lake to help her feel less homesick.
 Watch for:
@@ -20,25 +20,25 @@ Watch for:
   - [Mild] Friend punch! (hit Anne)
 
 ## S1 E3 — Cane Crazy
-URL: https://watchwiththekids.com/ep/amphibia/0103.html
+URL: https://watchwiththekids.com/ep/amphibia/0103
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When Anne breaks Hop Pop's favorite cane, she and her friends set out to replace it.
 Watch for: nothing flagged.
 
 ## S1 E4 — Flood, Sweat and Tears
-URL: https://watchwiththekids.com/ep/amphibia/0104.html
+URL: https://watchwiththekids.com/ep/amphibia/0104
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When Anne's bedroom floods, she and Sprig must bunk together.
 Watch for: nothing flagged.
 
 ## S1 E5 — Hop Luck
-URL: https://watchwiththekids.com/ep/amphibia/0105.html
+URL: https://watchwiththekids.com/ep/amphibia/0105
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: To win a village cooking contest, Anne leads the family on a quest to make pizza.
 Watch for: nothing flagged.
 
 ## S1 E6 — Stakeout
-URL: https://watchwiththekids.com/ep/amphibia/0106.html
+URL: https://watchwiththekids.com/ep/amphibia/0106
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Sprig wants Anne and Hop Pop to get along, so he tricks them into going on a stakeout.
 Watch for:
@@ -47,13 +47,13 @@ Watch for:
   - [Mild] Hop Pop: “"Blam Berry Blitz. The drink that punches you in the face and doesn't stop." Hah! That silly drink won't keep you up! Now, this will keep you up.”
 
 ## S1 E7 — The Domino Effect
-URL: https://watchwiththekids.com/ep/amphibia/0107.html
+URL: https://watchwiththekids.com/ep/amphibia/0107
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne wants to keep a caterpillar as a pet, but she'll have to keep it a secret from Hop Pop.
 Watch for: nothing flagged.
 
 ## S1 E8 — Taking Charge
-URL: https://watchwiththekids.com/ep/amphibia/0108.html
+URL: https://watchwiththekids.com/ep/amphibia/0108
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: After one of the Plantars mysteriously runs out the charge on Anne's phone, the family embarks on a mission to try and recharge it.
 Watch for:
@@ -65,19 +65,19 @@ Watch for:
   - [Caution] Smash to Anne and the Plantars watching the show into the night; Anne, Sprig and Polly are engrossed, eyes bloodshot and veiny, while Hop Pop isn't interested.
 
 ## S1 E9 — Anne Theft Auto
-URL: https://watchwiththekids.com/ep/amphibia/0109.html
+URL: https://watchwiththekids.com/ep/amphibia/0109
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: In an attempt to learn to drive the family snail wagon, Anne and Sprig take it for a joy ride.
 Watch for: nothing flagged.
 
 ## S1 E10 — Breakout Star
-URL: https://watchwiththekids.com/ep/amphibia/0110.html
+URL: https://watchwiththekids.com/ep/amphibia/0110
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne's pimple breakout makes her a celebrity in Wartwood.
 Watch for: nothing flagged.
 
 ## S1 E11 — Sprig vs. Hop Pop
-URL: https://watchwiththekids.com/ep/amphibia/0111.html
+URL: https://watchwiththekids.com/ep/amphibia/0111
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Angry with how the Plantar farm is being run, Sprig decides to overthrow Hop Pop.
 Watch for:
@@ -86,7 +86,7 @@ Watch for:
   - [Caution] She moves aside in time for the cowapillar to eat a weed and smiles with success.
 
 ## S1 E12 — Girl Time
-URL: https://watchwiththekids.com/ep/amphibia/0112.html
+URL: https://watchwiththekids.com/ep/amphibia/0112
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne plans to give Polly some long-overdue girl time, whether Polly wants it or not.
 Watch for:
@@ -94,7 +94,7 @@ Watch for:
   - [Mild] (brightens up) Well, I guess it couldn't hurt. Plus, you and Sprig are always getting into fun trouble! So what are we doing? Toad rustling? SNAKE PUNCHING?!
 
 ## S1 E13 — Dating Season
-URL: https://watchwiththekids.com/ep/amphibia/0113.html
+URL: https://watchwiththekids.com/ep/amphibia/0113
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne and Hop Pop learn Sprig may like Ivy Sundew, so they attempt to set them up.
 Watch for:
@@ -103,19 +103,19 @@ Watch for:
   - [Mild] (He throws a punch she blocks, then she kicks him in the face causing him to grunt.
 
 ## S1 E14 — Anne vs. Wild
-URL: https://watchwiththekids.com/ep/amphibia/0114.html
+URL: https://watchwiththekids.com/ep/amphibia/0114
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne pretends to like camping, which is fine until she goes dangerously overboard.
 Watch for: nothing flagged.
 
 ## S1 E15 — Contagi-Anne
-URL: https://watchwiththekids.com/ep/amphibia/0115.html
+URL: https://watchwiththekids.com/ep/amphibia/0115
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne fakes getting sick to get off work, but the rest of the family gets sick.
 Watch for: nothing flagged.
 
 ## S1 E16 — Family Shrub
-URL: https://watchwiththekids.com/ep/amphibia/0116.html
+URL: https://watchwiththekids.com/ep/amphibia/0116
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Sprig and Polly think their family history is boring until they uncover family secrets.
 Watch for:
@@ -123,7 +123,7 @@ Watch for:
   - [Caution] Hop Pop: “Don't have to be blood to be a Plantar, Anne. [Polly waves her glue & stick-covered flipper in the background.]”
 
 ## S1 E17 — Lily Pad Thai
-URL: https://watchwiththekids.com/ep/amphibia/0117.html
+URL: https://watchwiththekids.com/ep/amphibia/0117
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne gets a job at Stumpy's diner and transforms the humble frog eatery into a flashy Thai fusion restaurant.
 Watch for:
@@ -133,19 +133,19 @@ Watch for:
   - [Too much] Duckweed: “Bad...Bad? That was incredible! A food that tries to eat you? The irony, the ecstasy! I simply must tell everyone. To the message board!”
 
 ## S1 E18 — Plantar's Last Stand
-URL: https://watchwiththekids.com/ep/amphibia/0118.html
+URL: https://watchwiththekids.com/ep/amphibia/0118
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When rent on the Plantar's food stand skyrockets, Anne has to show Hop Pop the key to being a great salesman.
 Watch for: nothing flagged.
 
 ## S1 E19 — Toad Tax
-URL: https://watchwiththekids.com/ep/amphibia/0119.html
+URL: https://watchwiththekids.com/ep/amphibia/0119
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne befriends toad soldiers to gain respect in Wartwood.
 Watch for: nothing flagged.
 
 ## S1 E20 — Prison Break
-URL: https://watchwiththekids.com/ep/amphibia/0120.html
+URL: https://watchwiththekids.com/ep/amphibia/0120
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Toad Tower finds itself under attack by a pair of horrifying herons.
 Watch for:
@@ -153,13 +153,13 @@ Watch for:
   - [Too much] Grime: “Quiet. It's not just a bird. It's a heron, a murderous predator that happens to love the taste of flesh.”
 
 ## S1 E21 — Grubhog Day
-URL: https://watchwiththekids.com/ep/amphibia/0121.html
+URL: https://watchwiththekids.com/ep/amphibia/0121
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: During Grubhog Day, Sprig has to decide whether to uphold his responsibilities or have fun at the carnival.
 Watch for: nothing flagged.
 
 ## S1 E22 — Hop Pop and Lock
-URL: https://watchwiththekids.com/ep/amphibia/0122.html
+URL: https://watchwiththekids.com/ep/amphibia/0122
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: To impress Sylvia Sundew, Hop Pop asks Anne to teach him to dance.
 Watch for:
@@ -167,13 +167,13 @@ Watch for:
   - [Mild] punching sounds
 
 ## S1 E23 — Civil Wart
-URL: https://watchwiththekids.com/ep/amphibia/0123.html
+URL: https://watchwiththekids.com/ep/amphibia/0123
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When Anne exposes Wartwood to a teen romance film, the town splits on the movie's love triangle.
 Watch for: nothing flagged.
 
 ## S1 E24 — Hop-Popular
-URL: https://watchwiththekids.com/ep/amphibia/0124.html
+URL: https://watchwiththekids.com/ep/amphibia/0124
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: After losing his stand, Hop Pop decides to run for mayor of Wartwood.
 Watch for:
@@ -183,7 +183,7 @@ Watch for:
   - [Mild] He punches Toadstool.
 
 ## S1 E25 — Croak and Punishment
-URL: https://watchwiththekids.com/ep/amphibia/0125.html
+URL: https://watchwiththekids.com/ep/amphibia/0125
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When Sprig's rare and precious Blue Moon Shell is stolen, he and Anne investigate to find the thief.
 Watch for:
@@ -191,13 +191,13 @@ Watch for:
   - [Caution] Investigator 1: “One knife victim without pants. We've gotta catch this sicko.”
 
 ## S1 E26 — Trip to the Archives
-URL: https://watchwiththekids.com/ep/amphibia/0126.html
+URL: https://watchwiththekids.com/ep/amphibia/0126
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: To prepare for Anne's quest, the Plantars visit the town archives and accidentally get trapped.
 Watch for: nothing flagged.
 
 ## S1 E27 — Snow Day
-URL: https://watchwiththekids.com/ep/amphibia/0127.html
+URL: https://watchwiththekids.com/ep/amphibia/0127
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When a winter cold snap freezes all the frogs in Wartwood, Anne must protect the townspeople.
 Watch for:
@@ -205,19 +205,19 @@ Watch for:
   - [Caution] Um, hello! I'm warm-blooded.
 
 ## S1 E28 — Cracking Mrs. Croaker
-URL: https://watchwiththekids.com/ep/amphibia/0128.html
+URL: https://watchwiththekids.com/ep/amphibia/0128
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: In an effort to make Mrs. Croaker like him, Sprig digs up a secret from her past.
 Watch for: nothing flagged.
 
 ## S1 E29 — A Night at the Inn
-URL: https://watchwiththekids.com/ep/amphibia/0129.html
+URL: https://watchwiththekids.com/ep/amphibia/0129
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: The Plantars stay at a bed and breakfast for the night, but Polly discovers the caretakers aren't what they seem.
 Watch for: nothing flagged.
 
 ## S1 E30 — Wally and Anne
-URL: https://watchwiththekids.com/ep/amphibia/0130.html
+URL: https://watchwiththekids.com/ep/amphibia/0130
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Everyone calls Anne crazy when she claims to have seen the mythical Moss Man.
 Watch for:
@@ -225,43 +225,43 @@ Watch for:
   - [Caution] Around morning in the forest, Wally is still playing his accordion in a somewhat jolly way while Anne is feeling sleep-depraved with bloodshot eyes following him.
 
 ## S1 E31 — Family Fishing Trip
-URL: https://watchwiththekids.com/ep/amphibia/0131.html
+URL: https://watchwiththekids.com/ep/amphibia/0131
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Sprig wants to spend time with Hop Pop on their family fishing trip, but Hop Pop's friend Sylvia gets in the way.
 Watch for: nothing flagged.
 
 ## S1 E32 — Bizarre Bazaar
-URL: https://watchwiththekids.com/ep/amphibia/0132.html
+URL: https://watchwiththekids.com/ep/amphibia/0132
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne's music box goes missing at the mysterious and exclusive Bizarre Bazaar.
 Watch for: nothing flagged.
 
 ## S1 E33 — Cursed!
-URL: https://watchwiththekids.com/ep/amphibia/0133.html
+URL: https://watchwiththekids.com/ep/amphibia/0133
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: After Anne helps Sprig break up with Maddie, strange things start happening to them.
 Watch for: nothing flagged.
 
 ## S1 E34 — Fiddle Me This
-URL: https://watchwiththekids.com/ep/amphibia/0134.html
+URL: https://watchwiththekids.com/ep/amphibia/0134
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When a popular talent competition comes to Wartwood, Hop Pop goes overboard in training Sprig to win.
 Watch for: nothing flagged.
 
 ## S1 E35 — The Big Bugball Game
-URL: https://watchwiththekids.com/ep/amphibia/0135.html
+URL: https://watchwiththekids.com/ep/amphibia/0135
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne must learn the value of teamwork to win the town's annual Bugball game.
 Watch for: nothing flagged.
 
 ## S1 E36 — Combat Camp
-URL: https://watchwiththekids.com/ep/amphibia/0136.html
+URL: https://watchwiththekids.com/ep/amphibia/0136
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne, Sprig and Polly are forced to stay at a daycare center that turns out to be more than it seems.
 Watch for: nothing flagged.
 
 ## S1 E37 — Children of the Spore
-URL: https://watchwiththekids.com/ep/amphibia/0137.html
+URL: https://watchwiththekids.com/ep/amphibia/0137
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: A scary mushroom adventure!
 Watch for:
@@ -269,13 +269,13 @@ Watch for:
   - [Caution] Whoo-hoo! Shotgun!
 
 ## S1 E38 — Anne of the Year
-URL: https://watchwiththekids.com/ep/amphibia/0138.html
+URL: https://watchwiththekids.com/ep/amphibia/0138
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne wins the prestigious "Frog of the Year" award and gets to plan her own party, but the frogs of Wartwood may not be ready for a human-style bash.
 Watch for: nothing flagged.
 
 ## S1 E39 — Reunion
-URL: https://watchwiththekids.com/ep/amphibia/0139.html
+URL: https://watchwiththekids.com/ep/amphibia/0139
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: During a banquet hosted by the toads, Anne is reunited with a friend from home.
 Watch for:
@@ -283,19 +283,19 @@ Watch for:
   - [Caution] Sasha: “Right? Let's get outta here. [heaving] Mrs. Virk, the sight of blood... I-- I'm gonna be sick...!”
 
 ## S2 E1 — Handy Anne
-URL: https://watchwiththekids.com/ep/amphibia/0201.html
+URL: https://watchwiththekids.com/ep/amphibia/0201
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Worried that something bad could happen while they are in Newtopia, Anne decides to disaster-proof the farm.
 Watch for: nothing flagged.
 
 ## S2 E2 — Fort in the Road
-URL: https://watchwiththekids.com/ep/amphibia/0202.html
+URL: https://watchwiththekids.com/ep/amphibia/0202
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Sprig longs for exotic road trip adventures, but Hop Pop's strict road rules threaten to spoil all of his fun plans.
 Watch for: nothing flagged.
 
 ## S2 E3 — The Ballad of Hopediah Plantar
-URL: https://watchwiththekids.com/ep/amphibia/0203.html
+URL: https://watchwiththekids.com/ep/amphibia/0203
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Hop Pop's efforts to be hailed as a hero backfire when he stands up to the wrong family.
 Watch for:
@@ -303,7 +303,7 @@ Watch for:
   - [Mild] Hop Hop throws another punch with his tongue which leaves Talbert on the ground.
 
 ## S2 E4 — Anne Hunter
-URL: https://watchwiththekids.com/ep/amphibia/0204.html
+URL: https://watchwiththekids.com/ep/amphibia/0204
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Anne must put her self-consciousness aside in order to learn the true way of the hunter.
 Watch for:
@@ -311,7 +311,7 @@ Watch for:
   - [Too much] ♪ When the hunt is on and the moon is high ♪ (it is seen Anne trying to hang herself from vines but she falls)
 
 ## S2 E5 — Truck Stop Polly
-URL: https://watchwiththekids.com/ep/amphibia/0205.html
+URL: https://watchwiththekids.com/ep/amphibia/0205
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Feeling unappreciated, Polly hatches a plan to make the family pay attention to her.
 Watch for:
@@ -319,7 +319,7 @@ Watch for:
   - [Caution] 'Ain't that a shame,' said Fergus as he drew his knife!" (a knife comes out)
 
 ## S2 E6 — A Caravan Named Desire
-URL: https://watchwiththekids.com/ep/amphibia/0206.html
+URL: https://watchwiththekids.com/ep/amphibia/0206
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Hop Pop signs the family up to join a traveling theater troupe, hoping to realize his dream of being an actor.
 Watch for:
@@ -327,7 +327,7 @@ Watch for:
   - [Mild] All right, boys. That's our cue. (they beat up the bank guards)
 
 ## S2 E7 — Quarreler's Pass
-URL: https://watchwiththekids.com/ep/amphibia/0207.html
+URL: https://watchwiththekids.com/ep/amphibia/0207
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Hop Pop drops Sprig and Polly off at a trail designed to help them get along.
 Watch for:
@@ -338,13 +338,13 @@ Watch for:
   - [Mild] Me? (hits her) You're the one who's punching everyone!
 
 ## S2 E8 — Toadcatcher
-URL: https://watchwiththekids.com/ep/amphibia/0208.html
+URL: https://watchwiththekids.com/ep/amphibia/0208
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Sasha and Grime must reconcile their differences to escape Newtopia's most skilled warrior, General Yunnan.
 Watch for: nothing flagged.
 
 ## S2 E9 — Swamp and Sensibility
-URL: https://watchwiththekids.com/ep/amphibia/0209.html
+URL: https://watchwiththekids.com/ep/amphibia/0209
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: When Anne discovers an old friend who has been living a double life, she becomes fixated on helping him be his true self.
 Watch for:
@@ -356,7 +356,7 @@ Watch for:
   - [Caution] Anne: “So... Walliam, what's going on here? I thought you were a fun-loving tramp, not some little rich boy.”
 
 ## S2 E10 — Wax Museum
-URL: https://watchwiththekids.com/ep/amphibia/0210.html
+URL: https://watchwiththekids.com/ep/amphibia/0210
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: The family visits a mysterious roadside oddities museum where every treasure comes with a price.
 Watch for:
@@ -364,7 +364,7 @@ Watch for:
   - [Mild] Anne: “Stick to physical comedy. Got it. (She punches herself in the face.)”
 
 ## S2 E11 — Marcy at the Gates
-URL: https://watchwiththekids.com/ep/amphibia/0211.html
+URL: https://watchwiththekids.com/ep/amphibia/0211
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: The family must defeat an entire ant army before they enter Newtopia.
 Watch for:
@@ -373,25 +373,25 @@ Watch for:
   - [Mild] Marcy punching, grunting
 
 ## S2 E12 — Scavenger Hunt
-URL: https://watchwiththekids.com/ep/amphibia/0212.html
+URL: https://watchwiththekids.com/ep/amphibia/0212
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne, Sprig and Marcy receive a mysterious message from the king of Newtopia that sends them on a puzzle-solving mission.
 Watch for: nothing flagged.
 
 ## S2 E13 — The Plantars Check In
-URL: https://watchwiththekids.com/ep/amphibia/0213.html
+URL: https://watchwiththekids.com/ep/amphibia/0213
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne finally meets with King Andrias and tries to enlist his help in getting back home.
 Watch for: nothing flagged.
 
 ## S2 E14 — Lost in Newtopia
-URL: https://watchwiththekids.com/ep/amphibia/0214.html
+URL: https://watchwiththekids.com/ep/amphibia/0214
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne and Polly vow to experience the city like locals but end up on a wild ride through the streets of Newtopia.
 Watch for: nothing flagged.
 
 ## S2 E15 — Sprig Gets Schooled
-URL: https://watchwiththekids.com/ep/amphibia/0215.html
+URL: https://watchwiththekids.com/ep/amphibia/0215
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Sprig is offered a spot at Newtopia University.
 Watch for:
@@ -399,7 +399,7 @@ Watch for:
   - [Mild] Anne: “Yeah. They're probably having crazy cool parties and slapping farm animals right now. Just over that wall. [sighs]”
 
 ## S2 E16 — Little Frogtown
-URL: https://watchwiththekids.com/ep/amphibia/0216.html
+URL: https://watchwiththekids.com/ep/amphibia/0216
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Hop Pop investigates the disappearance of an old friend and the shadowy crime syndicate he suspects are behind it.
 Watch for:
@@ -407,7 +407,7 @@ Watch for:
   - [Caution] Hop Pop: “What's this? Blood?”
 
 ## S2 E17 — Hopping Mall
-URL: https://watchwiththekids.com/ep/amphibia/0217.html
+URL: https://watchwiththekids.com/ep/amphibia/0217
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Hop Pop takes the kids to a Newtopian shopping mall to buy souvenirs, and Anne will do anything to get the perfect gift for her mom back home.
 Watch for:
@@ -415,25 +415,25 @@ Watch for:
   - [Too much] It's the only way to not murder that pollywog!
 
 ## S2 E18 — The Sleepover to End All Sleepovers
-URL: https://watchwiththekids.com/ep/amphibia/0218.html
+URL: https://watchwiththekids.com/ep/amphibia/0218
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne and Marcy issue a Scare Dare Challenge that brings Sprig and Polly into forbidden areas of the castle.
 Watch for: nothing flagged.
 
 ## S2 E19 — A Day at the Aquarium
-URL: https://watchwiththekids.com/ep/amphibia/0219.html
+URL: https://watchwiththekids.com/ep/amphibia/0219
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne and the Plantars look to spend what could be their last day together at the Newtopia Aquarium.
 Watch for: nothing flagged.
 
 ## S2 E20 — The Shut-In!
-URL: https://watchwiththekids.com/ep/amphibia/0220.html
+URL: https://watchwiththekids.com/ep/amphibia/0220
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: The Plantars stay inside during a blue moon, so they won't turn into beasts. To pass the time, they tell spooky stories.
 Watch for: nothing flagged.
 
 ## S2 E21 — Night Drivers
-URL: https://watchwiththekids.com/ep/amphibia/0221.html
+URL: https://watchwiththekids.com/ep/amphibia/0221
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -441,14 +441,14 @@ Watch for:
   - [Mild] [screaming] Punch it, Sprig!
 
 ## S2 E22 — Return to Wartwood
-URL: https://watchwiththekids.com/ep/amphibia/0222.html
+URL: https://watchwiththekids.com/ep/amphibia/0222
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Sprig: “Ivy, I'm sorry I didn't get you a red sunshell. [Ivy friendly punches Sprig] Ow!”
 
 ## S2 E23 — Ivy on the Run
-URL: https://watchwiththekids.com/ep/amphibia/0223.html
+URL: https://watchwiththekids.com/ep/amphibia/0223
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -456,34 +456,34 @@ Watch for:
   - [Mild] Wally: “You what? [Anne dodges Polly's hit that ended up punching Wally's face as he groans in slow-motion, then Wally falls knocked out.]”
 
 ## S2 E24 — After the Rain
-URL: https://watchwiththekids.com/ep/amphibia/0224.html
+URL: https://watchwiththekids.com/ep/amphibia/0224
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E25 — The First Temple
-URL: https://watchwiththekids.com/ep/amphibia/0225.html
+URL: https://watchwiththekids.com/ep/amphibia/0225
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Marcy: “(She throws some punches.) Yeah, yeah, yeah, yeah!”
 
 ## S2 E26 — New Wartwood
-URL: https://watchwiththekids.com/ep/amphibia/0226.html
+URL: https://watchwiththekids.com/ep/amphibia/0226
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E27 — Friend or Frobo?
-URL: https://watchwiththekids.com/ep/amphibia/0227.html
+URL: https://watchwiththekids.com/ep/amphibia/0227
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E28 — Toad to Redemption
-URL: https://watchwiththekids.com/ep/amphibia/0228.html
+URL: https://watchwiththekids.com/ep/amphibia/0228
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E29 — Maddie & Marcy
-URL: https://watchwiththekids.com/ep/amphibia/0229.html
+URL: https://watchwiththekids.com/ep/amphibia/0229
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -491,39 +491,39 @@ Watch for:
   - [Too much] Hop Pop: “Did you girls just mistake me for a corpse?!”
 
 ## S2 E30 — The Second Temple
-URL: https://watchwiththekids.com/ep/amphibia/0230.html
+URL: https://watchwiththekids.com/ep/amphibia/0230
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E31 — Barrel's Warhammer
-URL: https://watchwiththekids.com/ep/amphibia/0231.html
+URL: https://watchwiththekids.com/ep/amphibia/0231
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E32 — Bessie & MicroAngelo
-URL: https://watchwiththekids.com/ep/amphibia/0232.html
+URL: https://watchwiththekids.com/ep/amphibia/0232
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E33 — The Third Temple
-URL: https://watchwiththekids.com/ep/amphibia/0233.html
+URL: https://watchwiththekids.com/ep/amphibia/0233
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E34 — The Dinner
-URL: https://watchwiththekids.com/ep/amphibia/0234.html
+URL: https://watchwiththekids.com/ep/amphibia/0234
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] None. They prefer utter darkness and the smell of blood.
 
 ## S2 E35 — Battle of the Bands
-URL: https://watchwiththekids.com/ep/amphibia/0235.html
+URL: https://watchwiththekids.com/ep/amphibia/0235
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S2 E36 — True Colors
-URL: https://watchwiththekids.com/ep/amphibia/0236.html
+URL: https://watchwiththekids.com/ep/amphibia/0236
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -533,7 +533,7 @@ Watch for:
   - [Mild] King Andrias destroys Frobo with a punch.
 
 ## S3 E1 — The New Normal
-URL: https://watchwiththekids.com/ep/amphibia/0301.html
+URL: https://watchwiththekids.com/ep/amphibia/0301
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -543,14 +543,14 @@ Watch for:
   - [Mild] Yeah! Do the punch again! Anne?
 
 ## S3 E2 — Hop 'Til You Drop
-URL: https://watchwiththekids.com/ep/amphibia/0302.html
+URL: https://watchwiththekids.com/ep/amphibia/0302
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] (punches himself and he's punching himself a lot
 
 ## S3 E3 — Turning Point
-URL: https://watchwiththekids.com/ep/amphibia/0303.html
+URL: https://watchwiththekids.com/ep/amphibia/0303
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -561,12 +561,12 @@ Watch for:
   - [Mild] Mayor Toadstool punches the last Frobot and then punches another Frobot.
 
 ## S3 E4 — Thai Feud
-URL: https://watchwiththekids.com/ep/amphibia/0304.html
+URL: https://watchwiththekids.com/ep/amphibia/0304
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S3 E5 — Adventures in Catsitting
-URL: https://watchwiththekids.com/ep/amphibia/0305.html
+URL: https://watchwiththekids.com/ep/amphibia/0305
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -574,7 +574,7 @@ Watch for:
   - [Caution] BLOOD!! THERE'S BLOOD EVERYWHERE!!!
 
 ## S3 E6 — Fight at the Museum
-URL: https://watchwiththekids.com/ep/amphibia/0306.html
+URL: https://watchwiththekids.com/ep/amphibia/0306
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -582,12 +582,12 @@ Watch for:
   - [Caution] Anne looks up at the skeleton, where Sprig cuts a rope with a knife and passes it to Polly, she grabs it in her teeth and cuts another rope, she passes it to Hop Pop, he takes it from his tongue and cuts another rope.
 
 ## S3 E7 — Temple Frogs
-URL: https://watchwiththekids.com/ep/amphibia/0307.html
+URL: https://watchwiththekids.com/ep/amphibia/0307
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Watch for: nothing flagged.
 
 ## S3 E8 — Fixing Frobo
-URL: https://watchwiththekids.com/ep/amphibia/0308.html
+URL: https://watchwiththekids.com/ep/amphibia/0308
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -595,7 +595,7 @@ Watch for:
   - [Mild] King Andrias destroys Frobo with a punch.
 
 ## S3 E9 — Anne-Sterminator
-URL: https://watchwiththekids.com/ep/amphibia/0309.html
+URL: https://watchwiththekids.com/ep/amphibia/0309
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -606,7 +606,7 @@ Watch for:
   - [Mild] She punched him in the face. (Anne laughs nervously)
 
 ## S3 E10 — Mr. X
-URL: https://watchwiththekids.com/ep/amphibia/0310.html
+URL: https://watchwiththekids.com/ep/amphibia/0310
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Anne takes the Plantars to the movies, while the Boonchuys try to stop a government agent from finding them.
 Watch for:
@@ -615,7 +615,7 @@ Watch for:
   - [Caution] Anne and the Plantars crouch at the box office and see Jenny checking people out with an infrared gun.
 
 ## S3 E11 — Sprig's Birthday
-URL: https://watchwiththekids.com/ep/amphibia/0311.html
+URL: https://watchwiththekids.com/ep/amphibia/0311
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne tries to give Sprig a great Earth birthday.
 Watch for:
@@ -623,7 +623,7 @@ Watch for:
   - [Mild] Friend punch!
 
 ## S3 E12 — Spider-Sprig
-URL: https://watchwiththekids.com/ep/amphibia/0312.html
+URL: https://watchwiththekids.com/ep/amphibia/0312
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Determined to make his mark on Earth, Sprig becomes a superhero.
 Watch for:
@@ -632,7 +632,7 @@ Watch for:
   - [Mild] (punches a defective car) Yet so powerful and a perfect fit.
 
 ## S3 E13 — Olivia & Yunan
-URL: https://watchwiththekids.com/ep/amphibia/0313.html
+URL: https://watchwiththekids.com/ep/amphibia/0313
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Back in Amphibia, Olivia and Yunan try to rescue Marcy.
 Watch for:
@@ -640,19 +640,19 @@ Watch for:
   - [Mild] Lady Olivia lightly punches General Yunan in the shoulder.
 
 ## S3 E14 — Hollywood Hop Pop
-URL: https://watchwiththekids.com/ep/amphibia/0314.html
+URL: https://watchwiththekids.com/ep/amphibia/0314
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Hop Pop tries to make it as an actor in Hollywood.
 Watch for: nothing flagged.
 
 ## S3 E15 — If You Give a Frog a Cookie
-URL: https://watchwiththekids.com/ep/amphibia/0315.html
+URL: https://watchwiththekids.com/ep/amphibia/0315
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne trusts a questionable scientist who may have found a way to get them to Amphibia.
 Watch for: nothing flagged.
 
 ## S3 E16 — Froggy Little Christmas
-URL: https://watchwiththekids.com/ep/amphibia/0316.html
+URL: https://watchwiththekids.com/ep/amphibia/0316
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Anne attempts to surprise her mom with a Thai Go float for the city Christmas parade while the Plantars struggle to understand the holiday. Meanwhile, King Andrias prepares a deadly surprise.
 Watch for:
@@ -666,7 +666,7 @@ Watch for:
   - [Mild] ALLY! JESS! PUNCH IT!!!
 
 ## S3 E17 — Escape to Amphibia
-URL: https://watchwiththekids.com/ep/amphibia/0317.html
+URL: https://watchwiththekids.com/ep/amphibia/0317
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: With one shot at getting the Plantars back to Amphibia, Anne and her parents must go up against Mr. X and the FBI.
 Watch for:
@@ -678,7 +678,7 @@ Watch for:
   - [Mild] (while forms a right punch) AHA! Now we're (shaking the punch) getting somewhere. (clasps his fingers in front) Tell me more.
 
 ## S3 E18 — Commander Anne
-URL: https://watchwiththekids.com/ep/amphibia/0318.html
+URL: https://watchwiththekids.com/ep/amphibia/0318
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Anne is made leader of the Wartwood Resistance, even though she's not good at the job.
 Watch for:
@@ -689,7 +689,7 @@ Watch for:
   - [Mild] Loggle throws both Mrs. Croaker and Wally into the air, who both punch the snake's mind-control collar from opposite sides. The collar breaks and the freed snake slithers away. Everyone cheers.
 
 ## S3 E19 — Sprivy
-URL: https://watchwiththekids.com/ep/amphibia/0319.html
+URL: https://watchwiththekids.com/ep/amphibia/0319
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Sprig and Ivy devise a scheme to be together.
 Watch for:
@@ -697,7 +697,7 @@ Watch for:
   - [Too much] Sprig: “Oooh. A corpse-maker moth. [clears throat] You're supposed to kiss when you see one, otherwise your crops will be cursed for seven years. [pecks Ivy's cheek] Just to be safe.”
 
 ## S3 E20 — Sasha's Angels
-URL: https://watchwiththekids.com/ep/amphibia/0320.html
+URL: https://watchwiththekids.com/ep/amphibia/0320
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: A team of Resistance fighters gets captured by ruthless marauders.
 Watch for:
@@ -707,7 +707,7 @@ Watch for:
   - [Mild] Enough with the slapping!
 
 ## S3 E21 — Olm Town Road
-URL: https://watchwiththekids.com/ep/amphibia/0321.html
+URL: https://watchwiththekids.com/ep/amphibia/0321
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Anne and her friends search for the ancient city of Proteus.
 Watch for:
@@ -716,7 +716,7 @@ Watch for:
   - [Too much] Murderous Olms, it is!
 
 ## S3 E22 — Mother of Olms
-URL: https://watchwiththekids.com/ep/amphibia/0322.html
+URL: https://watchwiththekids.com/ep/amphibia/0322
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne and the crew meet with Mother Olm, the keeper of ancient prophecies.
 Watch for:
@@ -724,7 +724,7 @@ Watch for:
   - [Too much] (The withered hand belongs to the corpse of a newt, holding a bottle of the brain cream the kids are carrying.
 
 ## S3 E23 — Grime's Pupil
-URL: https://watchwiththekids.com/ep/amphibia/0323.html
+URL: https://watchwiththekids.com/ep/amphibia/0323
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Due to dire circumstances, Grime is forced to train an apprentice.
 Watch for:
@@ -736,7 +736,7 @@ Watch for:
   - [Mild] impressed) Hachi machi! Ooh! (gets double-punched by Sprig, and crashes into a tree.
 
 ## S3 E24 — The Root of Evil
-URL: https://watchwiththekids.com/ep/amphibia/0324.html
+URL: https://watchwiththekids.com/ep/amphibia/0324
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Anne and the Plantars get stuck in a strange village of plant lovers.
 Watch for:
@@ -744,7 +744,7 @@ Watch for:
   - [Too much] Gary, wait! I know we've had some bad history. You tried to enslave my hometown, and I violently murdered you that one time.
 
 ## S3 E25 — The Core & The King
-URL: https://watchwiththekids.com/ep/amphibia/0325.html
+URL: https://watchwiththekids.com/ep/amphibia/0325
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: King Andrias confronts the demons of his past.
 Watch for:
@@ -752,13 +752,13 @@ Watch for:
   - [Caution] (Andrias uses his laser sword to attack her, then Leif uses a hand gun to shoot him, dodges the bullets with his sword. She disappears suddenly.)'
 
 ## S3 E26 — Newts in Tights
-URL: https://watchwiththekids.com/ep/amphibia/0326.html
+URL: https://watchwiththekids.com/ep/amphibia/0326
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: While on a recon mission, Anne and Sprig confront an old mentor.
 Watch for: nothing flagged.
 
 ## S3 E27 — Fight or Flight
-URL: https://watchwiththekids.com/ep/amphibia/0327.html
+URL: https://watchwiththekids.com/ep/amphibia/0327
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 7+)
 Summary: Anne tries to rescue an old friend from one of King Andrias' robot camps.
 Watch for:
@@ -766,7 +766,7 @@ Watch for:
   - [Caution] Well, bless my bowie knife. It's a coastal kill-a-moth!
 
 ## S3 E28 — The Three Armies
-URL: https://watchwiththekids.com/ep/amphibia/0328.html
+URL: https://watchwiththekids.com/ep/amphibia/0328
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Anne and Sasha must convince the frogs, newts and toads to work together.
 Watch for:
@@ -775,7 +775,7 @@ Watch for:
   - [Mild] Tritonio: “Let me guess. You want to bash in a front door, beat up anyone you see, and take the music box.”
 
 ## S3 E29 — The Beginning of the End
-URL: https://watchwiththekids.com/ep/amphibia/0329.html
+URL: https://watchwiththekids.com/ep/amphibia/0329
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: The final battle begins.
 Watch for:
@@ -784,7 +784,7 @@ Watch for:
   - [Mild] Anne and Sasha feel the tempo of the music as Olivia and Yunan start to fight them. The duo tries to throw punches at Anne and Sasha, but they dodge. They kick back at them while destroying the collars in the process.
 
 ## S3 E30 — All In
-URL: https://watchwiththekids.com/ep/amphibia/0330.html
+URL: https://watchwiththekids.com/ep/amphibia/0330
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Anne and her friends fight for their lives as the fate of both worlds hangs in the balance.
 Watch for:
@@ -799,7 +799,7 @@ Watch for:
   - [Mild] The mech launches multiple rocket missiles towards Anne. She barely dodges each one as they explode, but the the explosions mask Andrias' position. It pulls back for a punch.
 
 ## S3 E31 — The Hardest Thing
-URL: https://watchwiththekids.com/ep/amphibia/0331.html
+URL: https://watchwiththekids.com/ep/amphibia/0331
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Anne's journey comes to an end.
 Watch for:

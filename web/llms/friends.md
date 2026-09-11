@@ -1,11 +1,11 @@
 # Friends — parent guide (228 episodes)
 
-Source: https://watchwiththekids.com/friends.html
+Source: https://watchwiththekids.com/friends
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 33 mild (1–2), 129 caution (3), 66 too much (4–5).
 
 ## S1 E1 — The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)
-URL: https://watchwiththekids.com/ep/friends/0101.html
+URL: https://watchwiththekids.com/ep/friends/0101
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -26,7 +26,7 @@ Watch for:
   - [Mild] Chandler: “Sometimes I wish I was a lesbian... (They all stare at him.) Did I say that out loud?”
 
 ## S1 E2 — The One With the Sonogram at the End
-URL: https://watchwiththekids.com/ep/friends/0102.html
+URL: https://watchwiththekids.com/ep/friends/0102
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -42,7 +42,7 @@ Watch for:
   - [Mild] Scene, Monica and Rachel's, Monica and Ross are pouring wine for their parents.
 
 ## S1 E3 — The One With the Thumb
-URL: https://watchwiththekids.com/ep/friends/0103.html
+URL: https://watchwiththekids.com/ep/friends/0103
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -50,7 +50,7 @@ Watch for:
   - [Mild] Joey: “Even nicer when everyone gets to wear their underwear..”
 
 ## S1 E4 — The One With George Stephanopoulos
-URL: https://watchwiththekids.com/ep/friends/0104.html
+URL: https://watchwiththekids.com/ep/friends/0104
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -72,7 +72,7 @@ Watch for:
   - [Mild] Joey: “The hell with hockey, let's all do that!”
 
 ## S1 E5 — The One With the East German Laundry Detergent
-URL: https://watchwiththekids.com/ep/friends/0105.html
+URL: https://watchwiththekids.com/ep/friends/0105
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -91,7 +91,7 @@ Watch for:
   - [Mild] Monica: “Hello! Were we at the same table? It's like... cocktails in Appalachia.”
 
 ## S1 E6 — The One With the Butt
-URL: https://watchwiththekids.com/ep/friends/0106.html
+URL: https://watchwiththekids.com/ep/friends/0106
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -106,7 +106,7 @@ Watch for:
   - [Mild] Chandler: “and I've just wasted about thirty-five of them talking to you people, so, uh..”
 
 ## S1 E7 — The One With the Blackout
-URL: https://watchwiththekids.com/ep/friends/0107.html
+URL: https://watchwiththekids.com/ep/friends/0107
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -118,7 +118,7 @@ Watch for:
   - [Mild] Joey: “Yeeeeaaaahhh! What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...' (Rachel comes into the room behind them)”
 
 ## S1 E8 — The One Where Nana Dies Twice
-URL: https://watchwiththekids.com/ep/friends/0108.html
+URL: https://watchwiththekids.com/ep/friends/0108
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -132,7 +132,7 @@ Watch for:
   - [Mild] Mrs. Geller: “More wine, dear?”
 
 ## S1 E9 — The One Where Underdog Gets Away
-URL: https://watchwiththekids.com/ep/friends/0109.html
+URL: https://watchwiththekids.com/ep/friends/0109
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -143,7 +143,7 @@ Watch for:
   - [Mild] Joey: “I've gotta see this. All right Ugly Naked Guy!”
 
 ## S1 E10 — The One With the Monkey
-URL: https://watchwiththekids.com/ep/friends/0110.html
+URL: https://watchwiththekids.com/ep/friends/0110
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -158,7 +158,7 @@ Watch for:
   - [Mild] David: “Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?”
 
 ## S1 E11 — The One With Mrs. Bing
-URL: https://watchwiththekids.com/ep/friends/0111.html
+URL: https://watchwiththekids.com/ep/friends/0111
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -179,7 +179,7 @@ Watch for:
   - [Mild] Ross: “I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in”
 
 ## S1 E12 — The One With the Dozen Lasagnas
-URL: https://watchwiththekids.com/ep/friends/0112.html
+URL: https://watchwiththekids.com/ep/friends/0112
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -196,7 +196,7 @@ Watch for:
   - [Mild] Ross: “No problem, ok, mmmwa (kisses Carol) oh, mmmwa (kisses Carol's stomach, then punches Susan's shoulder) Susan... (Ross leaves.)”
 
 ## S1 E13 — The One With the Boobies
-URL: https://watchwiththekids.com/ep/friends/0113.html
+URL: https://watchwiththekids.com/ep/friends/0113
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -211,7 +211,7 @@ Watch for:
   - [Caution] Joey: “He's gonna keep cheating on my ma like she wanted, she's gonna keep pretending she doesn't know even though she does, and my…”
 
 ## S1 E14 — The One With the Candy Hearts
-URL: https://watchwiththekids.com/ep/friends/0114.html
+URL: https://watchwiththekids.com/ep/friends/0114
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -229,7 +229,7 @@ Watch for:
   - [Mild] Phoebe: “Ok, so now we need, um sage branches and the sacramental wine.”
 
 ## S1 E15 — The One With the Stoned Guy
-URL: https://watchwiththekids.com/ep/friends/0115.html
+URL: https://watchwiththekids.com/ep/friends/0115
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -242,7 +242,7 @@ Watch for:
   - [Mild] Rachel: “Let me, let me get you some wine!”
 
 ## S1 E16 — The One With Two Parts, part 1
-URL: https://watchwiththekids.com/ep/friends/0116.html
+URL: https://watchwiththekids.com/ep/friends/0116
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -256,7 +256,7 @@ Watch for:
   - [Mild] Monica points the remote at her TV, and punches out a key combination from the book, but the dreaded SAP logo remains and Spanish still comes forth.
 
 ## S1 E17 — The One With Two Parts, Part 2
-URL: https://watchwiththekids.com/ep/friends/0117.html
+URL: https://watchwiththekids.com/ep/friends/0117
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -274,7 +274,7 @@ Watch for:
   - [Mild] Phoebe: “(as Ursula) That's right, I don't... But I was, I was drunk on you!”
 
 ## S1 E18 — The One With All The Poker
-URL: https://watchwiththekids.com/ep/friends/0118.html
+URL: https://watchwiththekids.com/ep/friends/0118
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -286,7 +286,7 @@ Watch for:
   - [Mild] Monica and Phoebe get up and start celebrating in the kitchen, pouring wine and singing. Rachel, shocked, goes to join them.
 
 ## S1 E19 — The One Where the Monkey Gets Away
-URL: https://watchwiththekids.com/ep/friends/0119.html
+URL: https://watchwiththekids.com/ep/friends/0119
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -309,7 +309,7 @@ Watch for:
   - [Mild] Rachel: “Great! It went great. Really great. Hey, is that wine?”
 
 ## S1 E20 — The One With the Evil Orthodontist
-URL: https://watchwiththekids.com/ep/friends/0120.html
+URL: https://watchwiththekids.com/ep/friends/0120
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -325,7 +325,7 @@ Watch for:
   - [Mild] Rachel: “…of there? Listen honey, if I'm hogging the ball too much you just jump right in there and take a couple punches because I'm telling you, this feels great.”
 
 ## S1 E21 — The One With The Fake Monica
-URL: https://watchwiththekids.com/ep/friends/0121.html
+URL: https://watchwiththekids.com/ep/friends/0121
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -337,7 +337,7 @@ Watch for:
   - [Mild] Rachel: “Are you drunk?!”
 
 ## S1 E22 — The One With the Ick Factor
-URL: https://watchwiththekids.com/ep/friends/0122.html
+URL: https://watchwiththekids.com/ep/friends/0122
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -354,7 +354,7 @@ Watch for:
   - [Mild] Gerston: “Uh, like, could these margaritas be any stronger? (They discover that Chandler is listening) Hey, Chandler.”
 
 ## S1 E23 — The One With the Birth
-URL: https://watchwiththekids.com/ep/friends/0123.html
+URL: https://watchwiththekids.com/ep/friends/0123
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -363,7 +363,7 @@ Watch for:
   - [Too much] Chandler: “Somebody wanna help me, tryin' to rip out my heart. (they pull her hand off of him) Uh, that's great. (looking around) Anybody seen a nipple?”
 
 ## S1 E24 — The One Where Rachel Finds Out
-URL: https://watchwiththekids.com/ep/friends/0124.html
+URL: https://watchwiththekids.com/ep/friends/0124
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -376,7 +376,7 @@ Watch for:
   - [Mild] Joey: “We want you to be happy. And I may only have a couple beers in me, but... I love you, man. (Joey gives Ross a hug)”
 
 ## S2 E1 — The One With Ross' New Girlfriend
-URL: https://watchwiththekids.com/ep/friends/0201.html
+URL: https://watchwiththekids.com/ep/friends/0201
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -384,7 +384,7 @@ Watch for:
   - [Mild] Ross: “You deserve to be with someone who appreciates you, and who gets how funny and sweet and amazing, and adorable, and sexy you are, you know?”
 
 ## S2 E2 — The One With the Breast Milk
-URL: https://watchwiththekids.com/ep/friends/0202.html
+URL: https://watchwiththekids.com/ep/friends/0202
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 6 moment(s)
@@ -407,7 +407,7 @@ Watch for:
   - [Mild] Store Guy: “Oh my god, Todd! What the hell did you do?”
 
 ## S2 E3 — The One Where Mr. Heckles Dies
-URL: https://watchwiththekids.com/ep/friends/0203.html
+URL: https://watchwiththekids.com/ep/friends/0203
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -420,7 +420,7 @@ Watch for:
   - [Mild] MONICA: “You're all going to hell.”
 
 ## S2 E4 — The One With Phoebe's Husband
-URL: https://watchwiththekids.com/ep/friends/0204.html
+URL: https://watchwiththekids.com/ep/friends/0204
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -445,7 +445,7 @@ Watch for:
   - [Mild] DUNCAN: “Well, I've never told you this but, there were one or two times, back in college, when I'd get really drunk, go to a straight bar and wake up with a woman next to me.”
 
 ## S2 E5 — The One With Five Steaks and an Eggplant
-URL: https://watchwiththekids.com/ep/friends/0205.html
+URL: https://watchwiththekids.com/ep/friends/0205
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -457,7 +457,7 @@ Watch for:
   - [Mild] JADE: “I got a little drunk...and naked.”
 
 ## S2 E6 — The One With the Baby on the Bus
-URL: https://watchwiththekids.com/ep/friends/0206.html
+URL: https://watchwiththekids.com/ep/friends/0206
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -471,7 +471,7 @@ Watch for:
   - [Too much] PHOEBE: “You know, I don't know, when I sang "Su-Su-Suicide", I got a dollar seventy-five.”
 
 ## S2 E7 — The One Where Ross Finds Out
-URL: https://watchwiththekids.com/ep/friends/0207.html
+URL: https://watchwiththekids.com/ep/friends/0207
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -491,7 +491,7 @@ Watch for:
   - [Mild] RACH: “Umm, I think there was a restaurant... I know there was wine. . .”
 
 ## S2 E8 — The One With the List
-URL: https://watchwiththekids.com/ep/friends/0208.html
+URL: https://watchwiththekids.com/ep/friends/0208
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -507,7 +507,7 @@ Watch for:
   - [Mild] MNCA: “[getting the wine] Do not start without me. Do not start without me.”
 
 ## S2 E9 — The One With Phoebe's Dad
-URL: https://watchwiththekids.com/ep/friends/0209.html
+URL: https://watchwiththekids.com/ep/friends/0209
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -520,7 +520,7 @@ Watch for:
   - [Mild] CHANDLER: “He didn't want anybody to see him but he'd be drunk so he'd stumble, crash into something and wake everybody up.”
 
 ## S2 E10 — The One With Russ
-URL: https://watchwiththekids.com/ep/friends/0210.html
+URL: https://watchwiththekids.com/ep/friends/0210
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -535,7 +535,7 @@ Watch for:
   - [Mild] MNCA: “Well, we just happen to go to alot of places where you might drink. I mean, how do you go to a wine tasting without having a drink? Or... or to a club, or to the... zoo.”
 
 ## S2 E11 — The One With the Lesbian Wedding
-URL: https://watchwiththekids.com/ep/friends/0211.html
+URL: https://watchwiththekids.com/ep/friends/0211
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -553,7 +553,7 @@ Watch for:
   - [Mild] ROSS: “Oh, I believe I had the half-drunk cappuccino with the lipstick on the rim.”
 
 ## S2 E12-13 — The One After the Superbowl
-URL: https://watchwiththekids.com/ep/friends/0212-0213.html
+URL: https://watchwiththekids.com/ep/friends/0212-0213
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -585,7 +585,7 @@ Watch for:
   - [Mild] COMMERCIAL VOICEOVER: “...With MonkeyShine Beer. [MonkeyShine theme] MonkeyShine Beer, 'cause it's a jungle out there.]”
 
 ## S2 E14 — The One With the Prom Video
-URL: https://watchwiththekids.com/ep/friends/0214.html
+URL: https://watchwiththekids.com/ep/friends/0214
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -596,7 +596,7 @@ Watch for:
   - [Mild] MONICA: “I just told Rachel that Roy touched my boob.”
 
 ## S2 E15 — The One Where Rachel and Ross... You Know
-URL: https://watchwiththekids.com/ep/friends/0215.html
+URL: https://watchwiththekids.com/ep/friends/0215
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -612,7 +612,7 @@ Watch for:
   - [Too much] ROSS: “Look, homo-habilus hasn't even learned how to use tools yet and they've got him here wi, with clay pots.”
 
 ## S2 E16 — The One Where Joey Moves Out
-URL: https://watchwiththekids.com/ep/friends/0216.html
+URL: https://watchwiththekids.com/ep/friends/0216
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -622,12 +622,12 @@ Watch for:
   - [Mild] RACHEL: “Yeah, who's gonna eat all our food, and tie up our phone lines, and - is that my bra? What the hell you doin' with my bra?”
 
 ## S2 E17 — The One Where Eddie Moves In
-URL: https://watchwiththekids.com/ep/friends/0217.html
+URL: https://watchwiththekids.com/ep/friends/0217
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for: nothing flagged.
 
 ## S2 E18 — The One Where Dr. Remore Dies
-URL: https://watchwiththekids.com/ep/friends/0218.html
+URL: https://watchwiththekids.com/ep/friends/0218
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -642,7 +642,7 @@ Watch for:
   - [Mild] PHOEBE: “Hi, um, I just thought that it would be fun if the three of us had some beers and got to know each other.”
 
 ## S2 E19 — The One Where Eddie Won't Go
-URL: https://watchwiththekids.com/ep/friends/0219.html
+URL: https://watchwiththekids.com/ep/friends/0219
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -650,7 +650,7 @@ Watch for:
   - [Mild] CHANDLER: “Our next cocktail party?”
 
 ## S2 E20 — The One Where Old Yeller Dies
-URL: https://watchwiththekids.com/ep/friends/0220.html
+URL: https://watchwiththekids.com/ep/friends/0220
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -665,7 +665,7 @@ Watch for:
   - [Mild] CHANDLER: “Yeah, Ross can't go so it's between my friend Eric Prower who has breath issues and Dan with the poking. [starts poking Monica in the shoulder] 'Did you see that play? Do you want some more beer? Is that Spike Lee?'”
 
 ## S2 E21 — The One With the Two Bullies
-URL: https://watchwiththekids.com/ep/friends/0221.html
+URL: https://watchwiththekids.com/ep/friends/0221
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -679,7 +679,7 @@ Watch for:
   - [Mild] MONICA: “I don't want a beer.”
 
 ## S2 E22 — The One With the Two Parties
-URL: https://watchwiththekids.com/ep/friends/0222.html
+URL: https://watchwiththekids.com/ep/friends/0222
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -699,7 +699,7 @@ Watch for:
   - [Mild] GIRL 1: “Is it true they have beer?”
 
 ## S2 E23 — The One With the Chicken Pox
-URL: https://watchwiththekids.com/ep/friends/0223.html
+URL: https://watchwiththekids.com/ep/friends/0223
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -711,7 +711,7 @@ Watch for:
   - [Caution] CHANDLER: “Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.”
 
 ## S2 E24 — The One With Barry and Mindy's Wedding
-URL: https://watchwiththekids.com/ep/friends/0224.html
+URL: https://watchwiththekids.com/ep/friends/0224
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -720,7 +720,7 @@ Watch for:
   - [Mild] Starts to walk down the aisle, unfortunately she doesn't realize that her dress is bunched up in her underwear and her butt is showing.
 
 ## S3 E1 — The One With the Princess Leia Fantasy
-URL: https://watchwiththekids.com/ep/friends/0301.html
+URL: https://watchwiththekids.com/ep/friends/0301
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -735,7 +735,7 @@ Watch for:
   - [Mild] Monica: “Richard's living room, drinking wine.”
 
 ## S3 E2 — The One Where No-one's Ready
-URL: https://watchwiththekids.com/ep/friends/0302.html
+URL: https://watchwiththekids.com/ep/friends/0302
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -749,7 +749,7 @@ Watch for:
   - [Caution] Monica: “What do you mean, you're not comfortable with this? Come on we're friends!! (Michelle hangs up) That bitch always hated me.”
 
 ## S3 E3 — The One With the Jam
-URL: https://watchwiththekids.com/ep/friends/0303.html
+URL: https://watchwiththekids.com/ep/friends/0303
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -760,7 +760,7 @@ Watch for:
   - [Mild] Chandler: “Hey, Joe, I gotta ask. The girl from the Xerox place buck naked (holds up one hand), or, or a big tub of jam. (holds up the other hand)”
 
 ## S3 E4 — The One With The Metaphorical Tunnel
-URL: https://watchwiththekids.com/ep/friends/0304.html
+URL: https://watchwiththekids.com/ep/friends/0304
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -776,7 +776,7 @@ Watch for:
   - [Caution] Chandler: “Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.”
 
 ## S3 E5 — The One With Frank Jr.
-URL: https://watchwiththekids.com/ep/friends/0305.html
+URL: https://watchwiththekids.com/ep/friends/0305
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -794,7 +794,7 @@ Watch for:
   - [Mild] Joey: “Relax. Here hold this (hands her his beer). This old stuff just comes right off. (he bends down to try and lift some tile right in the middle of the floor, in his tight pants.)”
 
 ## S3 E6 — The One With The Flashback
-URL: https://watchwiththekids.com/ep/friends/0306.html
+URL: https://watchwiththekids.com/ep/friends/0306
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -815,7 +815,7 @@ Watch for:
   - [Mild] Chandler: “Do you have any beers? We’re out of beers.”
 
 ## S3 E7 — The One With the Race Car Bed
-URL: https://watchwiththekids.com/ep/friends/0307.html
+URL: https://watchwiththekids.com/ep/friends/0307
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -825,7 +825,7 @@ Watch for:
   - [Mild] Joey throws a punch and just lightly taps her on the shoulder, Phoebe counters with a jab to the nose.
 
 ## S3 E8 — The One With The Giant Poking Device
-URL: https://watchwiththekids.com/ep/friends/0308.html
+URL: https://watchwiththekids.com/ep/friends/0308
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -840,7 +840,7 @@ Watch for:
   - [Too much] Joey: “If the Homo Sapiens, were in fact ‘Homo-sapien’, is that why there extinct?”
 
 ## S3 E9 — The One With The Football
-URL: https://watchwiththekids.com/ep/friends/0309.html
+URL: https://watchwiththekids.com/ep/friends/0309
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -855,14 +855,14 @@ Watch for:
   - [Caution] Chandler: “(from the shotgun) Hike!”
 
 ## S3 E10 — The One Where Rachel Quits
-URL: https://watchwiththekids.com/ep/friends/0310.html
+URL: https://watchwiththekids.com/ep/friends/0310
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Chandler: “Well seeing that drunk Santa wet himself, really perked up my Christmas.”
 
 ## S3 E11 — The One Where Chandler Can’t Remember Which Sister
-URL: https://watchwiththekids.com/ep/friends/0311.html
+URL: https://watchwiththekids.com/ep/friends/0311
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -885,7 +885,7 @@ Watch for:
   - [Mild] Chandler: “I wasn’t sure which one Mary-Angela was. (all of Joey’s sisters gasp) Look, I’m sorry okay, I was really drunk, and you all look really similar.”
 
 ## S3 E12 — The One With All The Jealousy
-URL: https://watchwiththekids.com/ep/friends/0312.html
+URL: https://watchwiththekids.com/ep/friends/0312
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -903,7 +903,7 @@ Watch for:
   - [Mild] Chandler: “Well, if the magician can open my beer with his but cheeks, then all right.”
 
 ## S3 E13 — The One Where Monica and Richard Are Friends
-URL: https://watchwiththekids.com/ep/friends/0313.html
+URL: https://watchwiththekids.com/ep/friends/0313
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -919,7 +919,7 @@ Watch for:
   - [Mild] She goes into her bedroom, and sees Richard who has covered the room in roses and has two glasses of wine and a rose between his lips.
 
 ## S3 E14 — The One With Phoebe’s Ex-Partner
-URL: https://watchwiththekids.com/ep/friends/0314.html
+URL: https://watchwiththekids.com/ep/friends/0314
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -933,7 +933,7 @@ Watch for:
   - [Caution] Phoebe: “Okay. (singing) ‘Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.’ That’s all I have so far.”
 
 ## S3 E15 — The One Where Ross and Rachel Take A Break
-URL: https://watchwiththekids.com/ep/friends/0315.html
+URL: https://watchwiththekids.com/ep/friends/0315
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -946,7 +946,7 @@ Watch for:
   - [Mild] Chloe: “Oh, okay. (to the bartender) Hey, two beers. (sits down next to him)”
 
 ## S3 E16 — The One The Morning After
-URL: https://watchwiththekids.com/ep/friends/0316.html
+URL: https://watchwiththekids.com/ep/friends/0316
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -967,7 +967,7 @@ Watch for:
   - [Mild] Chandler: “Yeah, well, I guess they had a fight, and he got drunk....”
 
 ## S3 E17 — The One Without The Ski Trip
-URL: https://watchwiththekids.com/ep/friends/0317.html
+URL: https://watchwiththekids.com/ep/friends/0317
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -989,7 +989,7 @@ Watch for:
   - [Mild] Ross: “Umm, candles, champagne, yeah anniversaries are great. ‘Cause you know love lasts forever, y'know. Nothing like it in this lifetime, money in the bank, so Rachel and I broke up.”
 
 ## S3 E18 — The One With The Hypnosis Tape
-URL: https://watchwiththekids.com/ep/friends/0318.html
+URL: https://watchwiththekids.com/ep/friends/0318
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1005,7 +1005,7 @@ Watch for:
   - [Too much] Joey: “Yeah, or-or to get a hooker.”
 
 ## S3 E19 — The One With The Tiny T-shirt
-URL: https://watchwiththekids.com/ep/friends/0319.html
+URL: https://watchwiththekids.com/ep/friends/0319
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1021,7 +1021,7 @@ Watch for:
   - [Mild] Joey: “Well, why don’t you tell me what you’re supposed to be! Huh? Because I sure as hell can’t figure it out! I talk to you and nothin’. You look at me, and it’s nothin’. (He kisses her) Nothing.”
 
 ## S3 E20 — The One With The Dollhouse
-URL: https://watchwiththekids.com/ep/friends/0320.html
+URL: https://watchwiththekids.com/ep/friends/0320
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1032,7 +1032,7 @@ Watch for:
   - [Caution] Monica: “Oh, she was a cruel, cranky, old bitch! (Ross gives her a look) (to Ross) And I’m sorry she died. Did Dad say I get the dollhouse?”
 
 ## S3 E21 — The One With A Chick. And A Duck
-URL: https://watchwiththekids.com/ep/friends/0321.html
+URL: https://watchwiththekids.com/ep/friends/0321
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1045,7 +1045,7 @@ Watch for:
   - [Too much] Rachel: “Sophisticated like a hooker?”
 
 ## S3 E22 — The One With The Screamer
-URL: https://watchwiththekids.com/ep/friends/0322.html
+URL: https://watchwiththekids.com/ep/friends/0322
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1057,7 +1057,7 @@ Watch for:
   - [Mild] Kate: “(drunk) So you really think those newspapers are just jealous of me?”
 
 ## S3 E23 — The One With Ross's Thing
-URL: https://watchwiththekids.com/ep/friends/0323.html
+URL: https://watchwiththekids.com/ep/friends/0323
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1075,7 +1075,7 @@ Watch for:
   - [Mild] Monica: “Joey, put that down! (the phone rings) Oh my God! It's Pete. Okay, get out!! How the hell do you answer a video-phone! (steps in front of it, and automatically answers it)”
 
 ## S3 E24 — The One With The Ultimate Fighting Champion
-URL: https://watchwiththekids.com/ep/friends/0324.html
+URL: https://watchwiththekids.com/ep/friends/0324
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1091,7 +1091,7 @@ Watch for:
   - [Mild] Chandler: “No, no I just ah, didn’t do them. Instead, I ah, hung out with a couple of friends and had a couple of beers so I certainly don’t deserve any praise, verbal or otherwise.”
 
 ## S3 E25 — The One At The Beach
-URL: https://watchwiththekids.com/ep/friends/0325.html
+URL: https://watchwiththekids.com/ep/friends/0325
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1111,7 +1111,7 @@ Watch for:
   - [Mild] Ross: “Whoa, hey! What are doing? Trying to get me drunk?”
 
 ## S4 E1 — The One With The Jellyfish
-URL: https://watchwiththekids.com/ep/friends/0401.html
+URL: https://watchwiththekids.com/ep/friends/0401
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1125,7 +1125,7 @@ Watch for:
   - [Too much] Phoebe: “There-there was a suicide note?! (Ursula nods ‘Yes.’) Well, do you still have it?”
 
 ## S4 E2 — The One With The Cat
-URL: https://watchwiththekids.com/ep/friends/0402.html
+URL: https://watchwiththekids.com/ep/friends/0402
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1143,7 +1143,7 @@ Watch for:
   - [Caution] Monica: “And the fat girl inside of me really wants to go.”
 
 ## S4 E3 — The One With The ‘Cuffs
-URL: https://watchwiththekids.com/ep/friends/0403.html
+URL: https://watchwiththekids.com/ep/friends/0403
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1159,7 +1159,7 @@ Watch for:
   - [Mild] Monica: “Oh! Did anybody see that-that documentary on the Korean War? (Joey is pissed)”
 
 ## S4 E4 — The One With The Ballroom Dancing
-URL: https://watchwiththekids.com/ep/friends/0404.html
+URL: https://watchwiththekids.com/ep/friends/0404
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1175,7 +1175,7 @@ Watch for:
   - [Caution] Phoebe: “Then these policemen, thought I was a whore too.”
 
 ## S4 E5 — The One With Joey's New Girlfriend
-URL: https://watchwiththekids.com/ep/friends/0405.html
+URL: https://watchwiththekids.com/ep/friends/0405
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1194,7 +1194,7 @@ Watch for:
   - [Mild] Chandler: “Listen, I-I'm gonna grab a beer. (Leaves)”
 
 ## S4 E6 — The One With The Dirty Girl
-URL: https://watchwiththekids.com/ep/friends/0406.html
+URL: https://watchwiththekids.com/ep/friends/0406
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1203,7 +1203,7 @@ Watch for:
   - [Too much] Ross: “Did homo-erectus hunt with wooden tools?”
 
 ## S4 E7 — The One Where Chandler Crosses a Line
-URL: https://watchwiththekids.com/ep/friends/0407.html
+URL: https://watchwiththekids.com/ep/friends/0407
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1222,7 +1222,7 @@ Watch for:
   - [Mild] Joey: “Hey! Samboucha Margarita?”
 
 ## S4 E8 — The One With Chandler in a Box
-URL: https://watchwiththekids.com/ep/friends/0408.html
+URL: https://watchwiththekids.com/ep/friends/0408
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1232,7 +1232,7 @@ Watch for:
   - [Mild] Rachel: “(pouring the wine) Sick-sick-sick-sick.”
 
 ## S4 E9 — The One Where They’re Gonna PARTY!
-URL: https://watchwiththekids.com/ep/friends/0409.html
+URL: https://watchwiththekids.com/ep/friends/0409
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1255,7 +1255,7 @@ Watch for:
   - [Mild] Monica: “All right, that I’ll retract. But I stand by my review, I know food and that wasn’t it. You’re marinara sauce tasted like tomato juice! You should serve it with vodka and a piece of celery.”
 
 ## S4 E10 — The One With The Girl From Poughkeepsie
-URL: https://watchwiththekids.com/ep/friends/0410.html
+URL: https://watchwiththekids.com/ep/friends/0410
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1270,7 +1270,7 @@ Watch for:
   - [Mild] Asked him to bring my friends all kind of crap.
 
 ## S4 E11 — The One With Phoebe’s Uterus
-URL: https://watchwiththekids.com/ep/friends/0411.html
+URL: https://watchwiththekids.com/ep/friends/0411
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1284,7 +1284,7 @@ Watch for:
   - [Mild] Tour Guide: “I’m Rhonda, (motions to her breasts) and these aren’t real! (Joey and Ross look at each other, shocked)”
 
 ## S4 E12 — The One With The Embryos
-URL: https://watchwiththekids.com/ep/friends/0412.html
+URL: https://watchwiththekids.com/ep/friends/0412
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1295,7 +1295,7 @@ Watch for:
   - [Mild] Frank: “I know! Why don’t you get drunk! That worked for a lot of girls in my high school.”
 
 ## S4 E13 — The One With Rachel’s Crush
-URL: https://watchwiththekids.com/ep/friends/0413.html
+URL: https://watchwiththekids.com/ep/friends/0413
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 9 moment(s)
@@ -1331,7 +1331,7 @@ Watch for:
   - [Caution] Chandler: “Steps! (He opens the door to his apartment to Ross and Joey looking at the new Playboy) Slut!”
 
 ## S4 E14 — The One With Joey’s Dirty Day
-URL: https://watchwiththekids.com/ep/friends/0414.html
+URL: https://watchwiththekids.com/ep/friends/0414
 Scores: violence 2/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1369,7 +1369,7 @@ Watch for:
   - [Mild] Chandler: “Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!”
 
 ## S4 E15 — The One With All The Rugby
-URL: https://watchwiththekids.com/ep/friends/0415.html
+URL: https://watchwiththekids.com/ep/friends/0415
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1383,7 +1383,7 @@ Watch for:
   - [Mild] Liam and Devon both take a swig of their beers, while Ross takes a swig of his coffee. The Brits both crush their cans, and not to be out done, Ross crushes his coffee cup, spilling its contents.
 
 ## S4 E16 — The One With The Fake Party
-URL: https://watchwiththekids.com/ep/friends/0416.html
+URL: https://watchwiththekids.com/ep/friends/0416
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1403,7 +1403,7 @@ Watch for:
   - [Mild] Scene: The hallway, Ross is sitting on the step drinking a beer as Rachel comes out of the guys apartment.
 
 ## S4 E17 — The One With The Free Porn
-URL: https://watchwiththekids.com/ep/friends/0417.html
+URL: https://watchwiththekids.com/ep/friends/0417
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1423,7 +1423,7 @@ Watch for:
   - [Caution] Phoebe: “(She opens the case and removes a knife and an soda can.) Now, don’t you hate it when you have to cut a tin can with an ordinary steak knife?”
 
 ## S4 E18 — The One With Rachel’s New Dress
-URL: https://watchwiththekids.com/ep/friends/0418.html
+URL: https://watchwiththekids.com/ep/friends/0418
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1442,7 +1442,7 @@ Watch for:
   - [Mild] Mr. Burgin: “France sucks!”
 
 ## S4 E19 — The One With All The Haste
-URL: https://watchwiththekids.com/ep/friends/0419.html
+URL: https://watchwiththekids.com/ep/friends/0419
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1452,7 +1452,7 @@ Watch for:
   - [Mild] Joey: “Hey, want a beer? (Hands him a beer and sits down in one of the chairs.) (Jumping up.) WHOA!!!!”
 
 ## S4 E20 — The One With All the Wedding Dresses
-URL: https://watchwiththekids.com/ep/friends/0420.html
+URL: https://watchwiththekids.com/ep/friends/0420
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1464,7 +1464,7 @@ Watch for:
   - [Mild] Time lapse, all three girls are now wearing wedding dresses, eating popcorn, drinking beer, and watching TV.
 
 ## S4 E21 — The One With The Invitation
-URL: https://watchwiththekids.com/ep/friends/0421.html
+URL: https://watchwiththekids.com/ep/friends/0421
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1477,7 +1477,7 @@ Watch for:
   - [Mild] Scene, A Restaurant, Rachel is on her date, drunk, and is leaving that answering machine message.
 
 ## S4 E22 — The One With The Worst Best Man Ever
-URL: https://watchwiththekids.com/ep/friends/0422.html
+URL: https://watchwiththekids.com/ep/friends/0422
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1498,7 +1498,7 @@ Watch for:
   - [Mild] Phoebe: “I know. It’s just y’know usually when you’re, when you’re done with the pregnant thing, y’know, then you get to do the mom thing. I’m gonna be y’know, sitting around in my leather pants, drinking Tequila.”
 
 ## S4 E23 — The One With Ross’s Wedding Parts I and II
-URL: https://watchwiththekids.com/ep/friends/0423.html
+URL: https://watchwiththekids.com/ep/friends/0423
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1523,7 +1523,7 @@ Watch for:
   - [Mild] Monica: “My mother’s driving me crazy, but Ross is getting married. I’m happy. (A drunken man approaches.) I’m not going to let anything spoil that.”
 
 ## S5 E1 — The One After Ross Says Rachel
-URL: https://watchwiththekids.com/ep/friends/0501.html
+URL: https://watchwiththekids.com/ep/friends/0501
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1541,7 +1541,7 @@ Watch for:
   - [Mild] Rachel: “Ahh, yes, I will have a glass of the Merlot and uh, (points to Ross’s seat.) he will have a white wine spritzer.”
 
 ## S5 E2 — The One With All The Kissing
-URL: https://watchwiththekids.com/ep/friends/0502.html
+URL: https://watchwiththekids.com/ep/friends/0502
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1557,7 +1557,7 @@ Watch for:
   - [Mild] Joey: “That was good beer.”
 
 ## S5 E3 — The One Hundredth
-URL: https://watchwiththekids.com/ep/friends/0503.html
+URL: https://watchwiththekids.com/ep/friends/0503
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1571,7 +1571,7 @@ Watch for:
   - [Mild] Joey: “…reveal a copy of Playpen, which is the TV version of Playboy Magazine.) Check it out, huh?! This is what naked women looked like the month you were born.”
 
 ## S5 E4 — The One Where Phoebe Hates PBS
-URL: https://watchwiththekids.com/ep/friends/0504.html
+URL: https://watchwiththekids.com/ep/friends/0504
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1585,7 +1585,7 @@ Watch for:
   - [Mild] Chandler: “(entering, happily, with a bottle of champagne, thinking that Monica is the only one there) Ha-ha-ha-(sees everyone)-enh-enh. I'm so glad you guys are all here! My office finally got wrinkle free fax paper!”
 
 ## S5 E5 — The One With All the Kips
-URL: https://watchwiththekids.com/ep/friends/0505.html
+URL: https://watchwiththekids.com/ep/friends/0505
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1597,7 +1597,7 @@ Watch for:
   - [Mild] Monica: “All weekend? That's a whole lotta naked.”
 
 ## S5 E6 — The One With The Yeti
-URL: https://watchwiththekids.com/ep/friends/0506.html
+URL: https://watchwiththekids.com/ep/friends/0506
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1607,7 +1607,7 @@ Watch for:
   - [Caution] Chandler: “Yeah, just some 9-year-old Filipino kids who worked their fingers bloody for 12 cents an hour. (Phoebe stares at him wide-eyed. Chandler sees her reaction.) That didn't happen, I made that up!”
 
 ## S5 E7 — The One Where Ross Moves In
-URL: https://watchwiththekids.com/ep/friends/0507.html
+URL: https://watchwiththekids.com/ep/friends/0507
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1618,7 +1618,7 @@ Watch for:
   - [Too much] Joey: “Um-hmm! Look, I-I-I don't know how much more of this I can take! Did you know he taped over my Baywatch tape with some show about bugs! My God! What if that had been porn?”
 
 ## S5 E8 — The One With The Thanksgiving Flashbacks
-URL: https://watchwiththekids.com/ep/friends/0508.html
+URL: https://watchwiththekids.com/ep/friends/0508
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -1645,7 +1645,7 @@ Watch for:
   - [Caution] Big Nosed Rachel: “Guess what?! All that stuff about Nancy Branson being a slut was all a rumor so Chip dumped her and he wants to come over to my house tonight!”
 
 ## S5 E9 — The One With Ross's Sandwich
-URL: https://watchwiththekids.com/ep/friends/0509.html
+URL: https://watchwiththekids.com/ep/friends/0509
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1663,7 +1663,7 @@ Watch for:
   - [Too much] Phoebe: “Well, he stabbed me first!!”
 
 ## S5 E10 — The One With The Inappropriate Sister
-URL: https://watchwiththekids.com/ep/friends/0510.html
+URL: https://watchwiththekids.com/ep/friends/0510
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1677,7 +1677,7 @@ Watch for:
   - [Mild] Danny: “Oh, damn! I got it on my pants.”
 
 ## S5 E11 — The One With All The Resolutions
-URL: https://watchwiththekids.com/ep/friends/0511.html
+URL: https://watchwiththekids.com/ep/friends/0511
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1688,7 +1688,7 @@ Watch for:
   - [Too much] Ross: “(in ecstasy) Ahhhhhhhhhhhhhh……….”
 
 ## S5 E12 — The One With Chandler's Work Laugh
-URL: https://watchwiththekids.com/ep/friends/0512.html
+URL: https://watchwiththekids.com/ep/friends/0512
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1701,7 +1701,7 @@ Watch for:
   - [Mild] Scene: Chandler, Joey, and Ross's, Chandler is reading a magazine as Ross hands him a beer.
 
 ## S5 E13 — The One With Joey's Bag
-URL: https://watchwiththekids.com/ep/friends/0513.html
+URL: https://watchwiththekids.com/ep/friends/0513
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1714,7 +1714,7 @@ Watch for:
   - [Mild] Rachel: “Okay now Joey, y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear?”
 
 ## S5 E14 — The One Where Everyone Finds Out
-URL: https://watchwiththekids.com/ep/friends/0514.html
+URL: https://watchwiththekids.com/ep/friends/0514
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1738,7 +1738,7 @@ Watch for:
   - [Mild] Rachel: “(handing her the wine) Okay honey, now I'm gonna try to listen from right here!”
 
 ## S5 E15 — The One With The Girl Who Hits Joey
-URL: https://watchwiththekids.com/ep/friends/0515.html
+URL: https://watchwiththekids.com/ep/friends/0515
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -1754,7 +1754,7 @@ Watch for:
   - [Mild] “but when I first meet you y'know Kurt, I thought, y'know abrasive drunk, umm Lola, mind”
 
 ## S5 E16 — The One With A Cop
-URL: https://watchwiththekids.com/ep/friends/0516.html
+URL: https://watchwiththekids.com/ep/friends/0516
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1770,7 +1770,7 @@ Watch for:
   - [Caution] Cop: “Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen.”
 
 ## S5 E17 — The One With Rachel's Inadvertant Kiss
-URL: https://watchwiththekids.com/ep/friends/0517.html
+URL: https://watchwiththekids.com/ep/friends/0517
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -1791,7 +1791,7 @@ Watch for:
   - [Caution] Rachel: “(stopping him) Wh-whoa! All right, okay-okay, I see, I see what's going on here! Now listen, look-look, I'm sorry if I gave you the wrong impression, but I am not some hussy who will just sleep around to get ahead!”
 
 ## S5 E18 — The One Where Rachel Smokes
-URL: https://watchwiththekids.com/ep/friends/0518.html
+URL: https://watchwiththekids.com/ep/friends/0518
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1801,7 +1801,7 @@ Watch for:
   - [Mild] Phoebe: “Oh wait, I change my mind! (She slams the door on them.) Okay, let's talk about the party! I have so many ideas! (Holds up a cocktail napkin.)”
 
 ## S5 E19 — The One Where Ross Can't Flirt
-URL: https://watchwiththekids.com/ep/friends/0519.html
+URL: https://watchwiththekids.com/ep/friends/0519
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1816,7 +1816,7 @@ Watch for:
   - [Mild] Not that there's anything wrong with that, it's just that I'm not.
 
 ## S5 E20 — The One With The Ride Along
-URL: https://watchwiththekids.com/ep/friends/0520.html
+URL: https://watchwiththekids.com/ep/friends/0520
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1829,14 +1829,14 @@ Watch for:
   - [Mild] Rachel: “Oh. Oh! (Takes a slug of tequila.)”
 
 ## S5 E21 — The One With The Ball
-URL: https://watchwiththekids.com/ep/friends/0521.html
+URL: https://watchwiththekids.com/ep/friends/0521
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Phoebe: “Okay. (He grabs his gun and shoots the bird.) Oh! Oh no.”
 
 ## S5 E22 — The One With Joey's Big Break
-URL: https://watchwiththekids.com/ep/friends/0522.html
+URL: https://watchwiththekids.com/ep/friends/0522
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1851,7 +1851,7 @@ Watch for:
   - [Caution] Phoebe: “Oh no, I am mad at you. I know that much. But, I am sorry about the fat ass thing. You actually have a very sweet little hiney.”
 
 ## S5 E23 — The One In Vegas
-URL: https://watchwiththekids.com/ep/friends/0523.html
+URL: https://watchwiththekids.com/ep/friends/0523
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -1874,7 +1874,7 @@ Watch for:
   - [Mild] Cut to the casino, a very drunk and doodled on Rachel is walking arm in arm with an equally drunk and doodled on Ross are walking through the casino and greeting people on their way through.
 
 ## S6 E1 — The One After Vegas
-URL: https://watchwiththekids.com/ep/friends/0601.html
+URL: https://watchwiththekids.com/ep/friends/0601
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1888,7 +1888,7 @@ Watch for:
   - [Mild] Rachel: “Oh Ross, come on! This is not, this is not a marriage!! This is the world’s worst hangover! Ross, listen, if you do not get this annulment, I will!”
 
 ## S6 E2 — The One Where Ross Hugs Rachel
-URL: https://watchwiththekids.com/ep/friends/0602.html
+URL: https://watchwiththekids.com/ep/friends/0602
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1903,7 +1903,7 @@ Watch for:
   - [Mild] Ross: “This was just a drunken mistake and I need to get it annulled.”
 
 ## S6 E3 — The One With Ross’s Denial
-URL: https://watchwiththekids.com/ep/friends/0603.html
+URL: https://watchwiththekids.com/ep/friends/0603
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1911,7 +1911,7 @@ Watch for:
   - [Mild] Chandler: “Hey-hey! I thought Naked Thursday’s was just our thing man!”
 
 ## S6 E4 — The One Where Joey Loses His Insurance
-URL: https://watchwiththekids.com/ep/friends/0604.html
+URL: https://watchwiththekids.com/ep/friends/0604
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1932,7 +1932,7 @@ Watch for:
   - [Mild] Chandler: “I’m sorry! Hey-hey Joe, why don’t you uh, lift up your shirt? (He does.) Take a look at this kiddo. (Alex finally starts crying.) We have a crying child! Roll the damn cameras!”
 
 ## S6 E5 — The One With Joey’s Porsche
-URL: https://watchwiththekids.com/ep/friends/0605.html
+URL: https://watchwiththekids.com/ep/friends/0605
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1948,7 +1948,7 @@ Watch for:
   - [Mild] Rachel: “Well, remember how we were too drunk to remember anything the night we were married?”
 
 ## S6 E6 — The One The Last Night
-URL: https://watchwiththekids.com/ep/friends/0606.html
+URL: https://watchwiththekids.com/ep/friends/0606
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1957,7 +1957,7 @@ Watch for:
   - [Mild] Scene: Rachel’s bedroom, Rachel is entering carrying two glasses of wine. She gives one to Phoebe, keeps one, and completely ignores Monica.
 
 ## S6 E7 — The One Where Phoebe Runs
-URL: https://watchwiththekids.com/ep/friends/0607.html
+URL: https://watchwiththekids.com/ep/friends/0607
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1970,7 +1970,7 @@ Watch for:
   - [Mild] Janine: “Hey Joey, I got some beer for you.”
 
 ## S6 E8 — The One With Ross’s Teeth
-URL: https://watchwiththekids.com/ep/friends/0608.html
+URL: https://watchwiththekids.com/ep/friends/0608
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -1990,7 +1990,7 @@ Watch for:
   - [Mild] Ross: “Mmm-Hmm. (Picking up their wine glasses.)”
 
 ## S6 E9 — The One Where Ross Got High
-URL: https://watchwiththekids.com/ep/friends/0609.html
+URL: https://watchwiththekids.com/ep/friends/0609
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2007,7 +2007,7 @@ Watch for:
   - [Mild] Joey: “Rach, you’re killin’ us here, will ya serve the dessert already? Those drunken dancers are waiting!”
 
 ## S6 E10 — The One With The Routinue
-URL: https://watchwiththekids.com/ep/friends/0610.html
+URL: https://watchwiththekids.com/ep/friends/0610
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -2021,7 +2021,7 @@ Watch for:
   - [Caution] Chandler: “Ah, you’re still just a little fat girl inside aren’t you? (He kisses her on the cheek)”
 
 ## S6 E11 — The One With The Apothecary Table
-URL: https://watchwiththekids.com/ep/friends/0611.html
+URL: https://watchwiththekids.com/ep/friends/0611
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -2030,7 +2030,7 @@ Watch for:
   - [Mild] Chandler: “Eh, they’re both good. I generally just go with, Monica’s drunk again. (Monica glares at him.)”
 
 ## S6 E12 — The One With The Joke
-URL: https://watchwiththekids.com/ep/friends/0612.html
+URL: https://watchwiththekids.com/ep/friends/0612
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2040,7 +2040,7 @@ Watch for:
   - [Mild] Rachel: “Oh, yeah, sure. I mean, like in the case of this young woman, she has lost her clothes, so she rides naked on the horse, she’s crying out, ‘Where are they, where are they?’”
 
 ## S6 E13 — The One With Rachel’s Sister
-URL: https://watchwiththekids.com/ep/friends/0613.html
+URL: https://watchwiththekids.com/ep/friends/0613
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2056,7 +2056,7 @@ Watch for:
   - [Caution] Rachel: “Ugh, she is a slut!”
 
 ## S6 E14 — The One Where Chandler Can’t Cry
-URL: https://watchwiththekids.com/ep/friends/0614.html
+URL: https://watchwiththekids.com/ep/friends/0614
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2071,7 +2071,7 @@ Watch for:
   - [Mild] Ross: “Uh okay, well there’s-there’s wine in the kitchen.”
 
 ## S6 E15-16 — The One That Could Have Been
-URL: https://watchwiththekids.com/ep/friends/0615-0616.html
+URL: https://watchwiththekids.com/ep/friends/0615-0616
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 11 moment(s)
@@ -2114,7 +2114,7 @@ Watch for:
   - [Caution] Monica: “Hey, check me out, I’m a slut!”
 
 ## S6 E17 — The One With The Unagi
-URL: https://watchwiththekids.com/ep/friends/0617.html
+URL: https://watchwiththekids.com/ep/friends/0617
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2129,7 +2129,7 @@ Watch for:
   - [Caution] Joey: “(To Ross) I really prefer doing that at the home office y’know? (Ross nods his head.) Ooh-ooh, maybe they want like some of my blood or-or spit or something, huh?”
 
 ## S6 E18 — The One Where Ross Dates A Student
-URL: https://watchwiththekids.com/ep/friends/0618.html
+URL: https://watchwiththekids.com/ep/friends/0618
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2138,7 +2138,7 @@ Watch for:
   - [Caution] Ralph Lauren underwear campaign; body/sex-appeal comedy.
 
 ## S6 E19 — The One With Joey’s Fridge
-URL: https://watchwiththekids.com/ep/friends/0619.html
+URL: https://watchwiththekids.com/ep/friends/0619
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2148,7 +2148,7 @@ Watch for:
   - [Mild] Joey: “So what? I drove down, sold T-shirts, had a blast. And y’know who knows how to party? Drunk college chicks.”
 
 ## S6 E20 — The One With Mac and C.H.E.E.S.E.
-URL: https://watchwiththekids.com/ep/friends/0620.html
+URL: https://watchwiththekids.com/ep/friends/0620
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2169,7 +2169,7 @@ Watch for:
   - [Caution] Thus starts another series of flashbacks all dealing with the pressure the rest of the Friends have to deal with in their jobs. The first flashback is from The One With The Stoned Guy.
 
 ## S6 E21 — The One Where Ross Meets Elizabeth’s Dad
-URL: https://watchwiththekids.com/ep/friends/0621.html
+URL: https://watchwiththekids.com/ep/friends/0621
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2183,7 +2183,7 @@ Watch for:
   - [Mild] Rachel: “Oh we were, but that was just a (pause as the audience reacts), I mean that was just a big drunken mistake.”
 
 ## S6 E22 — The One Where Paul’s The Man
-URL: https://watchwiththekids.com/ep/friends/0622.html
+URL: https://watchwiththekids.com/ep/friends/0622
 Scores: violence 1/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2200,7 +2200,7 @@ Watch for:
   - [Mild] Rachel: “(She sets down her wine class, picks up a walnut, and knocks another one on the floor.) Oops.”
 
 ## S6 E23 — The One With The Ring
-URL: https://watchwiththekids.com/ep/friends/0623.html
+URL: https://watchwiththekids.com/ep/friends/0623
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2213,7 +2213,7 @@ Watch for:
   - [Caution] Rachel: “Well, you’re lucky you never met that bitch Sharon Majesky. Anyway, umm… The rest of you life, y’know? Any regrets?”
 
 ## S6 E24 — The One With The Proposal
-URL: https://watchwiththekids.com/ep/friends/0624.html
+URL: https://watchwiththekids.com/ep/friends/0624
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2229,7 +2229,7 @@ Watch for:
   - [Mild] Phoebe: “Well, just buy the damn boat! (She’s still working her way through her tray of booze.)”
 
 ## S7 E1 — The One With Monica’s Thunder
-URL: https://watchwiththekids.com/ep/friends/0701.html
+URL: https://watchwiththekids.com/ep/friends/0701
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2245,7 +2245,7 @@ Watch for:
   - [Mild] Ross: “I found a note on my door, "Come to Monica’s quick, bring champagne and a Three Musketeers bar."”
 
 ## S7 E2 — The One With Rachel’s Book
-URL: https://watchwiththekids.com/ep/friends/0702.html
+URL: https://watchwiththekids.com/ep/friends/0702
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2264,7 +2264,7 @@ Watch for:
   - [Mild] Monica: “A jazz trio for cocktails. The Bay City Rollers for dancing. Wait, that was from my sixth grade wedding.”
 
 ## S7 E3 — The One With Phoebe’s Cookies
-URL: https://watchwiththekids.com/ep/friends/0703.html
+URL: https://watchwiththekids.com/ep/friends/0703
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2281,7 +2281,7 @@ Watch for:
   - [Mild] Rachel: “Well, does a good student drink seven beers during his first lesson?”
 
 ## S7 E4 — The One With Rachel’s Assistant
-URL: https://watchwiththekids.com/ep/friends/0704.html
+URL: https://watchwiththekids.com/ep/friends/0704
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2295,7 +2295,7 @@ Watch for:
   - [Mild] Ross: “Ohh! Ohh! In college, Chandler got drunk and slept with the lady who cleaned our dorm!”
 
 ## S7 E5 — The One With The Engagement Picture
-URL: https://watchwiththekids.com/ep/friends/0705.html
+URL: https://watchwiththekids.com/ep/friends/0705
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2311,7 +2311,7 @@ Watch for:
   - [Caution] Rachel: “Why? Is he? He is! Isn’t he? He’s dating that slut in marketing!”
 
 ## S7 E6 — The One With The Nap Partners
-URL: https://watchwiththekids.com/ep/friends/0706.html
+URL: https://watchwiththekids.com/ep/friends/0706
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2329,7 +2329,7 @@ Watch for:
   - [Mild] Ross: “(playing the drunk uncle) When Monica was a little girl, I remember that—(Phoebe screams and tackles him)—Ooh!! Ow! Very good!”
 
 ## S7 E7 — The One With Ross’s Book
-URL: https://watchwiththekids.com/ep/friends/0707.html
+URL: https://watchwiththekids.com/ep/friends/0707
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2342,14 +2342,14 @@ Watch for:
   - [Mild] Joey: “My beers?! Look you guys, she’s a very nice girl. Okay? We had a good time, but I just—I don’t see it going anywhere.”
 
 ## S7 E8 — The One Where Chandler Doesn’t Like Dogs
-URL: https://watchwiththekids.com/ep/friends/0708.html
+URL: https://watchwiththekids.com/ep/friends/0708
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Caution] Chandler: “Y’know, for you, and…(Clears his throat) I left the door open and she must have gotten out and I looked everywhere, all over the apartment, including the roof, which FYI Ross, one of your neighbors, growing weed.”
 
 ## S7 E9 — The One With All The Candy
-URL: https://watchwiththekids.com/ep/friends/0709.html
+URL: https://watchwiththekids.com/ep/friends/0709
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2369,14 +2369,14 @@ Watch for:
   - [Too much] Chandler: “…Hey, and you can not smoke in here! (Takes the cigarette and takes a drag for himself.) (Exhaling in ecstasy) Merry Christmas.”
 
 ## S7 E10 — The One With the Holiday Armadillo
-URL: https://watchwiththekids.com/ep/friends/0710.html
+URL: https://watchwiththekids.com/ep/friends/0710
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] Phoebe: “Yeah, oh, "Your mom probably won't kill herself," y’know?”
 
 ## S7 E11 — The One With All The Cheesecakes
-URL: https://watchwiththekids.com/ep/friends/0711.html
+URL: https://watchwiththekids.com/ep/friends/0711
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2390,7 +2390,7 @@ Watch for:
   - [Mild] Ross: “Hey Joe, while you’re over there how about another beer for the Ross-A-Tron?”
 
 ## S7 E12 — The One Where They’re Up All Night
-URL: https://watchwiththekids.com/ep/friends/0712.html
+URL: https://watchwiththekids.com/ep/friends/0712
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2410,7 +2410,7 @@ Watch for:
   - [Mild] Joey: “Man, I’m starving! What the hell was I thinking at dinner?! "Do you want soup or salad?" Both! Always order both!”
 
 ## S7 E13 — The One Where Rosita Dies
-URL: https://watchwiththekids.com/ep/friends/0713.html
+URL: https://watchwiththekids.com/ep/friends/0713
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2426,7 +2426,7 @@ Watch for:
   - [Mild] Rachel: “(grabbing a beer out of the chair’s fridge) I am so psyched I kept this chair for myself!”
 
 ## S7 E14 — The One Where They All Turn Thirty
-URL: https://watchwiththekids.com/ep/friends/0714.html
+URL: https://watchwiththekids.com/ep/friends/0714
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2442,7 +2442,7 @@ Watch for:
   - [Mild] Chandler: “Monica’s wasted.”
 
 ## S7 E15 — The One With Joey’s New Brain
-URL: https://watchwiththekids.com/ep/friends/0715.html
+URL: https://watchwiththekids.com/ep/friends/0715
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2463,7 +2463,7 @@ Watch for:
   - [Mild] Scene: Silvercup Studios, a scene is being shot where Dina and Fredrick are celebrating Jessica’s horrible accident by drinking champagne.
 
 ## S7 E16 — The One With The Truth About London
-URL: https://watchwiththekids.com/ep/friends/0716.html
+URL: https://watchwiththekids.com/ep/friends/0716
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 11 moment(s)
@@ -2495,14 +2495,14 @@ Watch for:
   - [Caution] Phoebe: “I know! Robin is so gay!”
 
 ## S7 E17 — The One With The Cheap Wedding Dress
-URL: https://watchwiththekids.com/ep/friends/0717.html
+URL: https://watchwiththekids.com/ep/friends/0717
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Megan: “We met with him. Did he show you the photos of the nude wedding he did?”
 
 ## S7 E18 — The One With Joey’s Award
-URL: https://watchwiththekids.com/ep/friends/0718.html
+URL: https://watchwiththekids.com/ep/friends/0718
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2516,7 +2516,7 @@ Watch for:
   - [Too much] Monica: “The woman that got married a bunch of times and killed herself when you were 13?”
 
 ## S7 E19 — The One With Ross and Monica’s Cousin
-URL: https://watchwiththekids.com/ep/friends/0719.html
+URL: https://watchwiththekids.com/ep/friends/0719
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2539,7 +2539,7 @@ Watch for:
   - [Mild] Ross: “She was the one who suggested opening a bottle of wine.”
 
 ## S7 E20 — The One With Rachel’s Big Kiss
-URL: https://watchwiththekids.com/ep/friends/0720.html
+URL: https://watchwiththekids.com/ep/friends/0720
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2549,7 +2549,7 @@ Watch for:
   - [Mild] Rachel: “I’m not vanilla! I’ve done lots of crazy things! I mean I got-I got drunk and married in Vegas!”
 
 ## S7 E21 — The One With The Vows
-URL: https://watchwiththekids.com/ep/friends/0721.html
+URL: https://watchwiththekids.com/ep/friends/0721
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2567,7 +2567,7 @@ Watch for:
   - [Mild] Ross: “That little naked guy would be me.”
 
 ## S7 E22 — The One With Chandler’s Dad
-URL: https://watchwiththekids.com/ep/friends/0722.html
+URL: https://watchwiththekids.com/ep/friends/0722
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2587,7 +2587,7 @@ Watch for:
   - [Caution] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S7 E23 — The One With Chandler and Monica’s Wedding
-URL: https://watchwiththekids.com/ep/friends/0723.html
+URL: https://watchwiththekids.com/ep/friends/0723
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2604,7 +2604,7 @@ Watch for:
   - [Mild] Joey: “I know! I’m sorry! The guy’s drunk, they won’t let me go until we get this.”
 
 ## S7 Especial — Friends: The Stuff You’ve Never Seen
-URL: https://watchwiththekids.com/ep/friends/07outtakes.html
+URL: https://watchwiththekids.com/ep/friends/07outtakes
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2622,7 +2622,7 @@ Watch for:
   - [Caution] Courtney: “They made me dance, in the fat suit.”
 
 ## S8 E1 — The One After "I Do"
-URL: https://watchwiththekids.com/ep/friends/0801.html
+URL: https://watchwiththekids.com/ep/friends/0801
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2637,7 +2637,7 @@ Watch for:
   - [Caution] Fat Girl: Gert!
 
 ## S8 E2 — The One With The Red Sweater
-URL: https://watchwiththekids.com/ep/friends/0802.html
+URL: https://watchwiththekids.com/ep/friends/0802
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2650,7 +2650,7 @@ Watch for:
   - [Too much] Monica: “Oh thanks. (Reading the bill) Champagne, strawberries…Oh my God! I can’t believe Chandler ordered porn on our wedding night!”
 
 ## S8 E3 — The One Where Rachel Tells…
-URL: https://watchwiththekids.com/ep/friends/0803.html
+URL: https://watchwiththekids.com/ep/friends/0803
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2662,7 +2662,7 @@ Watch for:
   - [Caution] Monica: “Yeah, but I’m the only one related by blood.”
 
 ## S8 E4 — The One With The Videotape
-URL: https://watchwiththekids.com/ep/friends/0804.html
+URL: https://watchwiththekids.com/ep/friends/0804
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2681,7 +2681,7 @@ Watch for:
   - [Mild] Scene: Ross's Apartment, Ross is on his date with Kristen and they’re drinking wine.
 
 ## S8 E5 — The One With Rachel’s Date
-URL: https://watchwiththekids.com/ep/friends/0805.html
+URL: https://watchwiththekids.com/ep/friends/0805
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -2700,7 +2700,7 @@ Watch for:
   - [Mild] Ross: “(entering with a pizza and beer) Hey!”
 
 ## S8 E6 — The One With The Halloween Party
-URL: https://watchwiththekids.com/ep/friends/0806.html
+URL: https://watchwiththekids.com/ep/friends/0806
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2715,7 +2715,7 @@ Watch for:
   - [Mild] Ursula: “Yeah. It wasn’t a town when I got there, but it was a town when I left. (To Eric) Shall we get me really drunk?”
 
 ## S8 E7 — The One With The Stain
-URL: https://watchwiththekids.com/ep/friends/0807.html
+URL: https://watchwiththekids.com/ep/friends/0807
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2734,7 +2734,7 @@ Watch for:
   - [Too much] Ross: “That’s not really porn.”
 
 ## S8 E8 — The One With The Stripper
-URL: https://watchwiththekids.com/ep/friends/0808.html
+URL: https://watchwiththekids.com/ep/friends/0808
 Scores: violence 1/5, sex 5/5, language 3/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2765,7 +2765,7 @@ Watch for:
   - [Caution] Chandler: “All right Rock, Paper, Scissors who has to tell the whore to leave! (Joey smirks.) What?”
 
 ## S8 E9 — The One With The Rumor
-URL: https://watchwiththekids.com/ep/friends/0809.html
+URL: https://watchwiththekids.com/ep/friends/0809
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2778,7 +2778,7 @@ Watch for:
   - [Caution] Joey: “(Monica moves the knife again.) What?!”
 
 ## S8 E10 — The One With Monica’s Boots
-URL: https://watchwiththekids.com/ep/friends/0810.html
+URL: https://watchwiththekids.com/ep/friends/0810
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2787,7 +2787,7 @@ Watch for:
   - [Caution] Monica: “I can’t do that either! The soles’ are already a little scuffed up and the insides are filled with my blood.”
 
 ## S8 E11 — The One With Ross’ Big Step Forward
-URL: https://watchwiththekids.com/ep/friends/0811.html
+URL: https://watchwiththekids.com/ep/friends/0811
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2810,7 +2810,7 @@ Watch for:
   - [Mild] Monica: “From the tequila factory?”
 
 ## S8 E12 — The One Where Joey Dates Rachel
-URL: https://watchwiththekids.com/ep/friends/0812.html
+URL: https://watchwiththekids.com/ep/friends/0812
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2833,7 +2833,7 @@ Watch for:
   - [Mild] Joey: “I never laughed so hard—Did you see the wine come out of my nose?”
 
 ## S8 E13 — The One Where Chandler Takes a Bath
-URL: https://watchwiththekids.com/ep/friends/0813.html
+URL: https://watchwiththekids.com/ep/friends/0813
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2845,7 +2845,7 @@ Watch for:
   - [Caution] greatest love affair of their lives! And they would have me to thank, and we could all
 
 ## S8 E14 — The One With The Secret Closet
-URL: https://watchwiththekids.com/ep/friends/0814.html
+URL: https://watchwiththekids.com/ep/friends/0814
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -2867,7 +2867,7 @@ Watch for:
   - [Mild] Joey: “Well uh, I wanted to have a few beers, but uh, I got rid of those because Rachel couldn’t stand the smell of them.”
 
 ## S8 E15 — The Birthing Video
-URL: https://watchwiththekids.com/ep/friends/0815.html
+URL: https://watchwiththekids.com/ep/friends/0815
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -2888,7 +2888,7 @@ Watch for:
   - [Mild] Ross: “And you thought she was going to be in our way! So, why don’t you, uh, open the champagne, and I’ll be right back. I’ve got a surprise for you.”
 
 ## S8 E16 — The One Where Joey Tells Rachel
-URL: https://watchwiththekids.com/ep/friends/0816.html
+URL: https://watchwiththekids.com/ep/friends/0816
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2899,7 +2899,7 @@ Watch for:
   - [Mild] Don: “…so I’ve been slowly phasing out the wine importing and focusing more on the cheese side of things.”
 
 ## S8 E17 — The One With The Tea Leaves
-URL: https://watchwiththekids.com/ep/friends/0817.html
+URL: https://watchwiththekids.com/ep/friends/0817
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2911,7 +2911,7 @@ Watch for:
   - [Mild] Mona: “(entering, with her date) I am so sorry I spilled wine all over your shirt.”
 
 ## S8 E18 — The One In Massapequa
-URL: https://watchwiththekids.com/ep/friends/0818.html
+URL: https://watchwiththekids.com/ep/friends/0818
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2920,7 +2920,7 @@ Watch for:
   - [Mild] Chandler: “Ya know if you want to, I can just hold them down and you could (Punches the air).”
 
 ## S8 E19 — The One With Joey’s Interview
-URL: https://watchwiththekids.com/ep/friends/0819.html
+URL: https://watchwiththekids.com/ep/friends/0819
 Scores: violence 1/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2939,7 +2939,7 @@ Watch for:
   - [Caution] Phoebe: “Wow! Nice! Manly and also kind of a slut.”
 
 ## S8 E20 — The One With The Baby Shower
-URL: https://watchwiththekids.com/ep/friends/0820.html
+URL: https://watchwiththekids.com/ep/friends/0820
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2960,7 +2960,7 @@ Watch for:
   - [Mild] Rachel: “Is that a beer bong for a baby?”
 
 ## S8 E21 — The One With The Cooking Class
-URL: https://watchwiththekids.com/ep/friends/0821.html
+URL: https://watchwiththekids.com/ep/friends/0821
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2979,7 +2979,7 @@ Watch for:
   - [Caution] Rachel: “No! I’m not! I-I-I just think it’s wrong! It’s-it’s that I’m—Here I am about to pop and he’s out picking up some shop girl at Sluts ‘R’ Us!”
 
 ## S8 E22 — The One Where Rachel Is Late
-URL: https://watchwiththekids.com/ep/friends/0822.html
+URL: https://watchwiththekids.com/ep/friends/0822
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -2992,7 +2992,7 @@ Watch for:
   - [Mild] Phoebe: “Until then, General Grant, why don’t you set up camp (She puts the bill in her bra) right there.”
 
 ## S8 E23 — The One Where Rachel Has A Baby
-URL: https://watchwiththekids.com/ep/friends/0823.html
+URL: https://watchwiththekids.com/ep/friends/0823
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 7 moment(s)
@@ -3022,7 +3022,7 @@ Watch for:
   - [Caution] Rachel: “Oh great! Suddenly she sounds like a biblical whore.”
 
 ## S9 E1 — The One Where No One Proposes
-URL: https://watchwiththekids.com/ep/friends/0901.html
+URL: https://watchwiththekids.com/ep/friends/0901
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -3040,7 +3040,7 @@ Watch for:
   - [Mild] Chandler: “This is okay. We’re all adults here; there’s nothing to be ashamed of. Now, let’s put our underwear in our pockets and walk out the door. (They do so and find Mr. Geller leaning against a wall stunned.)”
 
 ## S9 E2 — The One Where Emma Cries
-URL: https://watchwiththekids.com/ep/friends/0902.html
+URL: https://watchwiththekids.com/ep/friends/0902
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3056,7 +3056,7 @@ Watch for:
   - [Mild] Chandler: “Umm, you know how we always said that it would be fun to move to Paris for a year? You know, you could study French cooking and I could write and we could take a picnic along the Seine and go wine tasting in Bordeaux?”
 
 ## S9 E3 — The One With The Pediatrician
-URL: https://watchwiththekids.com/ep/friends/0903.html
+URL: https://watchwiththekids.com/ep/friends/0903
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3068,7 +3068,7 @@ Watch for:
   - [Mild] Joey: “No, no, that's not what I meant. Let's get you a cocktail.”
 
 ## S9 E4 — The One With The Sharks
-URL: https://watchwiththekids.com/ep/friends/0904.html
+URL: https://watchwiththekids.com/ep/friends/0904
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -3087,7 +3087,7 @@ Watch for:
   - [Mild] Monica: “: Im very, very drunk right now.”
 
 ## S9 E5 — The One With Phoebe's Birthday Dinner
-URL: https://watchwiththekids.com/ep/friends/0905.html
+URL: https://watchwiththekids.com/ep/friends/0905
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -3107,7 +3107,7 @@ Watch for:
   - [Mild] Joey: “(returns to their old table where elderly people are sitting now, sits) Finally you guys made it. (looks up, turns left to Phoebe�s chair) Pheebs, who the hell�uhuhh!”
 
 ## S9 E6 — The One With The Male Nanny
-URL: https://watchwiththekids.com/ep/friends/0906.html
+URL: https://watchwiththekids.com/ep/friends/0906
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3124,7 +3124,7 @@ Watch for:
   - [Mild] Scene: Ross and Rachel's kitchen. Ross got a beer from the refrigerator and opens the bottle. Rachel now also enters the kitchen.
 
 ## S9 E7 — The One With Ross's Inappropriate Song
-URL: https://watchwiththekids.com/ep/friends/0907.html
+URL: https://watchwiththekids.com/ep/friends/0907
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3143,7 +3143,7 @@ Watch for:
   - [Mild] Chandler: “It may be customary to get a beer...”
 
 ## S9 E8 — The One With Rachel's Other Sister
-URL: https://watchwiththekids.com/ep/friends/0908.html
+URL: https://watchwiththekids.com/ep/friends/0908
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3157,7 +3157,7 @@ Watch for:
   - [Mild] <Rachel and Amy 'fighting'.. They're really just trying to slap each other and just keep slapping their hands>
 
 ## S9 E9 — Rachel's Phone Number
-URL: https://watchwiththekids.com/ep/friends/0909.html
+URL: https://watchwiththekids.com/ep/friends/0909
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3174,7 +3174,7 @@ Watch for:
   - [Mild] Monica turns to get the wine.� Chandler peeps through the peephole.� Joey, seeing something, peeps back.� Chandler ducks.� Monica returns with two glasses of wine.� She gives one to Joey.
 
 ## S9 E10 — The One With Christmas In Tulsa
-URL: https://watchwiththekids.com/ep/friends/0910.html
+URL: https://watchwiththekids.com/ep/friends/0910
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3192,7 +3192,7 @@ Watch for:
   - [Caution] Monica: “"Wendy" is a fat girl name.”
 
 ## S9 E11 — Rachel Goes Back To Work
-URL: https://watchwiththekids.com/ep/friends/0911.html
+URL: https://watchwiththekids.com/ep/friends/0911
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3210,7 +3210,7 @@ Watch for:
   - [Mild] Monica: “You call eight hours alone with my label maker wasted time? Ooh, now I get to use my shredder!”
 
 ## S9 E12 — Phoebe's Rats
-URL: https://watchwiththekids.com/ep/friends/0912.html
+URL: https://watchwiththekids.com/ep/friends/0912
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -3226,7 +3226,7 @@ Watch for:
   - [Mild] Monica: “Wouldn't kick her out of bed. No more Vodka for me! (put her glass down)”
 
 ## S9 E13 — Monica Sings
-URL: https://watchwiththekids.com/ep/friends/0913.html
+URL: https://watchwiththekids.com/ep/friends/0913
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3244,7 +3244,7 @@ Watch for:
   - [Mild] Chandler: “�Jeremiah was a bullfrog. Was a good friend of mine, never understood a single word he said, but I helped him drink his wine.� So you just touch yourself for anything?”
 
 ## S9 E14 — The One With the Blind Dates
-URL: https://watchwiththekids.com/ep/friends/0914.html
+URL: https://watchwiththekids.com/ep/friends/0914
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3266,7 +3266,7 @@ Watch for:
   - [Mild] Scene: Delmonico's. Ross is still waiting for his date and drinking wine. The waiter comes up to him again.
 
 ## S9 E15 — The Mugging
-URL: https://watchwiththekids.com/ep/friends/0915.html
+URL: https://watchwiththekids.com/ep/friends/0915
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3284,7 +3284,7 @@ Watch for:
   - [Caution] Phoebe: “She was a drug dealer!”
 
 ## S9 E16 — The One With The Boob Job
-URL: https://watchwiththekids.com/ep/friends/0916.html
+URL: https://watchwiththekids.com/ep/friends/0916
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3303,7 +3303,7 @@ Watch for:
   - [Caution] Rachel: “Oh my god Chandler! If you can't handle this, what are you going to be like in the hospital? With the blood and the screaming and the little present that's shooting out of her!?”
 
 ## S9 E17 — The One With The Memorial Service
-URL: https://watchwiththekids.com/ep/friends/0917.html
+URL: https://watchwiththekids.com/ep/friends/0917
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3317,7 +3317,7 @@ Watch for:
   - [Mild] Monica: “You know, on the way over here, I saw this drunk guy throw up. And then a pigeon ate it!”
 
 ## S9 E18 — The one with the lottery
-URL: https://watchwiththekids.com/ep/friends/0918.html
+URL: https://watchwiththekids.com/ep/friends/0918
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3329,7 +3329,7 @@ Watch for:
   - [Mild] Monica: “They're all in there! Even these five that I hid in my bra (takes some tickets out of her bra and gives them to Phoebe)...”
 
 ## S9 E19 — The one with Rachel's dream
-URL: https://watchwiththekids.com/ep/friends/0919.html
+URL: https://watchwiththekids.com/ep/friends/0919
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3338,7 +3338,7 @@ Watch for:
   - [Caution] Joey: “Also so gay!”
 
 ## S9 E20 — The One With The Soap Opera Party
-URL: https://watchwiththekids.com/ep/friends/0920.html
+URL: https://watchwiththekids.com/ep/friends/0920
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3354,7 +3354,7 @@ Watch for:
   - [Mild] Monica: “That's different! I was drunk and stupid!”
 
 ## S9 E21 — The one with the fertility test
-URL: https://watchwiththekids.com/ep/friends/0921.html
+URL: https://watchwiththekids.com/ep/friends/0921
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3374,7 +3374,7 @@ Watch for:
   - [Mild] Joey: “(sipping red wine from a glass) Who says that wine has to cost more than milk!”
 
 ## S9 E22 — The one with the donor
-URL: https://watchwiththekids.com/ep/friends/0922.html
+URL: https://watchwiththekids.com/ep/friends/0922
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 8 moment(s)
@@ -3399,7 +3399,7 @@ Watch for:
   - [Mild] Phoebe: “You got it! Ok. But not on the wine that you made, ok, because I just don't want to go back to the Emergency Room.”
 
 ## S9 E23-24 — The one in Barbados
-URL: https://watchwiththekids.com/ep/friends/0923-0924.html
+URL: https://watchwiththekids.com/ep/friends/0923-0924
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3442,7 +3442,7 @@ Watch for:
   - [Too much] Ross: “... and while there are certainly vast differences between these Mesozoic fossiles and the example of Homo erectus...”
 
 ## S10 E1 — The One After Joey And Rachel Kiss
-URL: https://watchwiththekids.com/ep/friends/1001.html
+URL: https://watchwiththekids.com/ep/friends/1001
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3457,7 +3457,7 @@ Watch for:
   - [Caution] Phoebe: “He was gonna break-up with you on your birthday? And, I don't like to kiss-and-tell, but he cheated on you a lot this weekend.”
 
 ## S10 E2 — The One Where Ross Is Fine
-URL: https://watchwiththekids.com/ep/friends/1002.html
+URL: https://watchwiththekids.com/ep/friends/1002
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3473,7 +3473,7 @@ Watch for:
   - [Mild] Ross: “The first batch of margaritas was not so great, but the second batch is gooooood.”
 
 ## S10 E3 — The One With Ross' Tan
-URL: https://watchwiththekids.com/ep/friends/1003.html
+URL: https://watchwiththekids.com/ep/friends/1003
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3497,7 +3497,7 @@ Watch for:
   - [Mild] Joey takes the ice-bucket with the champagne bottle in it and puts it on his sore spot
 
 ## S10 E4 — The One With The Cake
-URL: https://watchwiththekids.com/ep/friends/1004.html
+URL: https://watchwiththekids.com/ep/friends/1004
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3511,7 +3511,7 @@ Watch for:
   - [Caution] Phoebe: “Oooh, I love family traditions like that. When uhm... when Ursula and I were kids, on our birthday, our stepdad would sell his blood to buy us food!”
 
 ## S10 E5 — The One Where Rachel's Sister Baby-sits
-URL: https://watchwiththekids.com/ep/friends/1005.html
+URL: https://watchwiththekids.com/ep/friends/1005
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3523,7 +3523,7 @@ Watch for:
   - [Too much] Joey: “Hey, finished my recommendation. (he hands it over to Chandler) Here. And I think you’ll be very, very happy. It’s the longest I ever spent on a computer without looking at porn.”
 
 ## S10 E6 — The One With Ross' Grant
-URL: https://watchwiththekids.com/ep/friends/1006.html
+URL: https://watchwiththekids.com/ep/friends/1006
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 5 moment(s)
@@ -3534,7 +3534,7 @@ Watch for:
   - [Mild] Joey: “Damn it! (he leaves)”
 
 ## S10 E7 — The One With The Home Study
-URL: https://watchwiththekids.com/ep/friends/1007.html
+URL: https://watchwiththekids.com/ep/friends/1007
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3555,7 +3555,7 @@ Watch for:
   - [Mild] our social worker and you never called her back and she is still pissed, so she can't
 
 ## S10 E8 — The One With The Late Thanksgiving
-URL: https://watchwiththekids.com/ep/friends/1008.html
+URL: https://watchwiththekids.com/ep/friends/1008
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3564,7 +3564,7 @@ Watch for:
   - [Too much] Phoebe: “Oh, yeah, happy needless-turkey-murder day.”
 
 ## S10 E9 — The One With The Birth Mother
-URL: https://watchwiththekids.com/ep/friends/1009.html
+URL: https://watchwiththekids.com/ep/friends/1009
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3579,7 +3579,7 @@ Watch for:
   - [Mild] Joey: “And a shrimp cocktail.”
 
 ## S10 E10 — The One Where Chandler Gets Caught
-URL: https://watchwiththekids.com/ep/friends/1010.html
+URL: https://watchwiththekids.com/ep/friends/1010
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3603,7 +3603,7 @@ Watch for:
   - [Mild] Chandler: “Not it! Damn it!”
 
 ## S10 E11 — The One Where The Stripper Cries
-URL: https://watchwiththekids.com/ep/friends/1011.html
+URL: https://watchwiththekids.com/ep/friends/1011
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3626,7 +3626,7 @@ Watch for:
   - [Caution] Monica: “Two guys in one night? Wow, I thought she became a slut after she got her nose fixed.”
 
 ## S10 E12 — The One With Phoebe's Wedding
-URL: https://watchwiththekids.com/ep/friends/1012.html
+URL: https://watchwiththekids.com/ep/friends/1012
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3641,7 +3641,7 @@ Watch for:
   - [Mild] Monica: “I love you. (Phoebe leans in to kiss her.) Oh, wait, wait, wait! No hugs. The dresses... Oh what the hell. (the girls hug)”
 
 ## S10 E13 — The One Where Joey Speaks French
-URL: https://watchwiththekids.com/ep/friends/1013.html
+URL: https://watchwiththekids.com/ep/friends/1013
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -3654,7 +3654,7 @@ Watch for:
   - [Mild] Phoebe; Oh, incredible! Oh! Champagne, candle-lit dinners, moonlight walks on the beach, it was sooo ro-man-tic!
 
 ## S10 E14 — The One With Princess Consuela
-URL: https://watchwiththekids.com/ep/friends/1014.html
+URL: https://watchwiththekids.com/ep/friends/1014
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3673,7 +3673,7 @@ Watch for:
   - [Mild] Chandler: “Ooh! Israeli champagne. And it's vanilla!”
 
 ## S10 E15 — The One Where Estelle Dies
-URL: https://watchwiththekids.com/ep/friends/1015.html
+URL: https://watchwiththekids.com/ep/friends/1015
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -3685,7 +3685,7 @@ Watch for:
   - [Caution] Chandler: “Or facing a bitch of a commute.”
 
 ## S10 E16 — The One With Rachel's Going Away Party
-URL: https://watchwiththekids.com/ep/friends/1016.html
+URL: https://watchwiththekids.com/ep/friends/1016
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3706,7 +3706,7 @@ Watch for:
   - [Mild] Rachel: “Because it is too damn hard Ross.”
 
 ## S10 E17-18 — The Last One
-URL: https://watchwiththekids.com/ep/friends/1017-1018.html
+URL: https://watchwiththekids.com/ep/friends/1017-1018
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)

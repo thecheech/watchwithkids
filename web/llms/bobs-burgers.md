@@ -1,11 +1,11 @@
 # Bob's Burgers — parent guide (309 episodes)
 
-Source: https://watchwiththekids.com/bobs-burgers.html
+Source: https://watchwiththekids.com/bobs-burgers
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 136 mild (1–2), 117 caution (3), 56 too much (4–5).
 
 ## S1 E1 — Human Flesh
-URL: https://watchwiththekids.com/ep/bobs-burgers/0101.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0101
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -16,7 +16,7 @@ Watch for:
   - [Caution] “You're a couple of sluts! I think it's nice.”
 
 ## S1 E2 — Crawl Space
-URL: https://watchwiththekids.com/ep/bobs-burgers/0102.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0102
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -30,7 +30,7 @@ Watch for:
   - [Mild] “You ever hear of a cocktail called the swanky-panky? No.”
 
 ## S1 E3 — Sacred Cow
-URL: https://watchwiththekids.com/ep/bobs-burgers/0103.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0103
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -49,7 +49,7 @@ Watch for:
   - [Caution] “Is this ketchup? It's the blood of 100,000 slaughtered cows.”
 
 ## S1 E4 — Sexy Dance Fighting
-URL: https://watchwiththekids.com/ep/bobs-burgers/0104.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0104
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -60,7 +60,7 @@ Watch for:
   - [Mild] “Thanks for getting beat up for me.”
 
 ## S1 E5 — Hamburger Dinner Theater
-URL: https://watchwiththekids.com/ep/bobs-burgers/0105.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0105
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -88,7 +88,7 @@ Watch for:
   - [Caution] “Oh, there's my knife.”
 
 ## S1 E6 — Sheesh! Cab, Bob?
-URL: https://watchwiththekids.com/ep/bobs-burgers/0106.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0106
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -104,7 +104,7 @@ Watch for:
   - [Mild] “You're drunk.”
 
 ## S1 E7 — Bed & Breakfast
-URL: https://watchwiththekids.com/ep/bobs-burgers/0107.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0107
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -125,7 +125,7 @@ Watch for:
   - [Too much] “Don't be racist! I decorated it myself.”
 
 ## S1 E8 — Art Crawl
-URL: https://watchwiththekids.com/ep/bobs-burgers/0108.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0108
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -141,7 +141,7 @@ Watch for:
   - [Caution] “Put the knife down, Louise.”
 
 ## S1 E9 — Spaghetti Western and Meatballs
-URL: https://watchwiththekids.com/ep/bobs-burgers/0109.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0109
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -161,7 +161,7 @@ Watch for:
   - [Caution] “I warned you, skank! Whoa, whoa, whoa, whoa, whoa, whoa, whoa! Girls, please.”
 
 ## S1 E10 — Burger War
-URL: https://watchwiththekids.com/ep/bobs-burgers/0110.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0110
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -176,7 +176,7 @@ Watch for:
   - [Too much] “That's right son, like heroin! - Yes! But this family's gonna have to execute perfectly to pull this off where's Louise? This one shall have his first gig.”
 
 ## S1 E11 — Weekend at Mort's
-URL: https://watchwiththekids.com/ep/bobs-burgers/0111.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0111
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -193,7 +193,7 @@ Watch for:
   - [Mild] “Cremate?! No! No cremating dad! It was a drunk nap! It's trying to sweet-talk us.”
 
 ## S1 E12 — Lobsterfest
-URL: https://watchwiththekids.com/ep/bobs-burgers/0112.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0112
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -209,7 +209,7 @@ Watch for:
   - [Mild] “Beer? Absolutely! Atmosphere? Yeah nnnn eh Ah, good enough.”
 
 ## S1 E13 — Torpedo
-URL: https://watchwiththekids.com/ep/bobs-burgers/0113.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0113
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -225,7 +225,7 @@ Watch for:
   - [Mild] “See me? Boy, this microphone smells like beer.”
 
 ## S2 E1 — The Belchies
-URL: https://watchwiththekids.com/ep/bobs-burgers/0201.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0201
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -246,7 +246,7 @@ Watch for:
   - [Too much] “Stick to noodles, right? - Is that racist? - Yes.”
 
 ## S2 E2 — Bob Day Afternoon
-URL: https://watchwiththekids.com/ep/bobs-burgers/0202.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0202
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -269,7 +269,7 @@ Watch for:
   - [Caution] “Bobby! How did you miss that?! Fatty got in the way.”
 
 ## S2 E3 — Synchronized Swimming
-URL: https://watchwiththekids.com/ep/bobs-burgers/0203.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0203
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -277,7 +277,7 @@ Watch for:
   - [Mild] “What, are we going to run laps naked? Oh, and Gene, here's your Navajo warrior mask for your history class.”
 
 ## S2 E4 — Burgerboss
-URL: https://watchwiththekids.com/ep/bobs-burgers/0204.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0204
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -293,7 +293,7 @@ Watch for:
   - [Mild] “I beat him up 'cause he's a nerd.”
 
 ## S2 E5 — Food Truckin'
-URL: https://watchwiththekids.com/ep/bobs-burgers/0205.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0205
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -316,7 +316,7 @@ Watch for:
   - [Caution] “Makeover, ooh! We're gonna turn this whore into a Pretty Woman! Big mistake! Big! I love that part.”
 
 ## S2 E6 — Dr. Yap
-URL: https://watchwiththekids.com/ep/bobs-burgers/0206.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0206
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 6 moment(s)
@@ -336,7 +336,7 @@ Watch for:
   - [Caution] “I can't believe this! You're a hurtful slut, Bob! I can't take this anymore, Lin.”
 
 ## S2 E7 — Moody Foodie
-URL: https://watchwiththekids.com/ep/bobs-burgers/0207.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0207
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -350,7 +350,7 @@ Watch for:
   - [Mild] “No, period! I'm gonna walk over to the Moody Foody's house and cook him dinner! Wine him, dine him, That's right, Gene! Thank you, Tina.”
 
 ## S2 E8 — Bad Tina
-URL: https://watchwiththekids.com/ep/bobs-burgers/0208.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0208
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -368,7 +368,7 @@ Watch for:
   - [Caution] “Temp tramp stamps! Where's Tina? She should be doing this.”
 
 ## S2 E9 — Beefsquatch
-URL: https://watchwiththekids.com/ep/bobs-burgers/0209.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0209
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -380,7 +380,7 @@ Watch for:
   - [Caution] “Spatula Knife Hands! Oh, hi, Beefsquatch.”
 
 ## S3 E1 — Ear-sy Rider
-URL: https://watchwiththekids.com/ep/bobs-burgers/0301.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0301
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -406,7 +406,7 @@ Watch for:
   - [Caution] “Yeah, calm it, hussy! Do not call my wife a whore.”
 
 ## S3 E2 — Full Bars
-URL: https://watchwiththekids.com/ep/bobs-burgers/0302.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0302
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 6 moment(s)
@@ -427,7 +427,7 @@ Watch for:
   - [Caution] “What?! I- I didn't even know I did it! I couldn't feel her underneath this stupid fat suit that you made me wear! Oh.”
 
 ## S3 E3 — Bob Fires the Kids
-URL: https://watchwiththekids.com/ep/bobs-burgers/0303.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0303
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -448,7 +448,7 @@ Watch for:
   - [Mild] “I'll get you a beer A beer'd be nice.”
 
 ## S3 E4 — Mutiny on the Windbreaker
-URL: https://watchwiththekids.com/ep/bobs-burgers/0304.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0304
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -457,7 +457,7 @@ Watch for:
   - [Mild] “Ooh-ooh-ooh, sexy lady, ocean lady.”
 
 ## S3 E5 — An Indecent Thanksgiving Proposal
-URL: https://watchwiththekids.com/ep/bobs-burgers/0305.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0305
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -482,7 +482,7 @@ Watch for:
   - [Mild] “I've only had half of four bottles of wine.”
 
 ## S3 E6 — The Deepening
-URL: https://watchwiththekids.com/ep/bobs-burgers/0306.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0306
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -495,7 +495,7 @@ Watch for:
   - [Mild] “If a spike strip can stop those drunk Shriners, it should be able to stop a shark.”
 
 ## S3 E7 — Tina-Rannosaurus Wrecks
-URL: https://watchwiththekids.com/ep/bobs-burgers/0307.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0307
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -510,7 +510,7 @@ Watch for:
   - [Mild] “You smell like wine.”
 
 ## S3 E8 — The Unbearable Like-Likeness of Gene
-URL: https://watchwiththekids.com/ep/bobs-burgers/0308.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0308
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -523,7 +523,7 @@ Watch for:
   - [Caution] “Don't blame us, fatty! Lookin' good! Aw! Horny little grandpa.”
 
 ## S3 E9 — God Rest Ye Merry Gentle-Mannequins
-URL: https://watchwiththekids.com/ep/bobs-burgers/0309.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0309
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -542,7 +542,7 @@ Watch for:
   - [Mild] “You always want to make punch.”
 
 ## S3 E10 — Mother Daughter Laser Razor
-URL: https://watchwiththekids.com/ep/bobs-burgers/0310.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0310
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -558,7 +558,7 @@ Watch for:
   - [Mild] “Logan, come on! We got to think! Walk a mile in each other's shoes Oh, I swear to God, if you keep talking, I'm gonna gut-punch you! It's a beautiful story of love and acceptance.”
 
 ## S3 E11 — Nude Beach
-URL: https://watchwiththekids.com/ep/bobs-burgers/0311.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0311
 Scores: violence 2/5, sex 5/5, language 2/5, overall 5/5 (Heavy — skip for under 16)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -588,7 +588,7 @@ Watch for:
   - [Caution] “Nothing's ever gonna keep you down Big fatty wins the tug! Bad luck, little fatty! Three legs, four thighs and two ding-dongs.”
 
 ## S3 E12 — Broadcast Wagstaff School News
-URL: https://watchwiththekids.com/ep/bobs-burgers/0312.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0312
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -597,7 +597,7 @@ Watch for:
   - [Caution] “Um, skank? That's much better! Uh, I hate your new hair color.”
 
 ## S3 E13 — My Fuzzy Valentine
-URL: https://watchwiththekids.com/ep/bobs-burgers/0313.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0313
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -613,7 +613,7 @@ Watch for:
   - [Too much] “…forever Security in life And someone to love ya Instead of being all alone Such a lonely existence I'd kill myself.”
 
 ## S3 E14 — Lindapendant Woman
-URL: https://watchwiththekids.com/ep/bobs-burgers/0314.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0314
 Scores: violence 2/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -630,7 +630,7 @@ Watch for:
   - [Mild] “Dollar whiskey, dollar scotch, dollar bourbon, dollar crotch.”
 
 ## S3 E15 — O.T. The Outside Toilet
-URL: https://watchwiththekids.com/ep/bobs-burgers/0315.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0315
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -647,7 +647,7 @@ Watch for:
   - [Caution] “You dining alone? How does that happen? Whoa, whoa, ladies! Bring it down a notch, huh? Why don't I get you a nice booth in the back, right? We were all single once, but you don't got to be a slut about it, you know?”
 
 ## S3 E16 — Topsy
-URL: https://watchwiththekids.com/ep/bobs-burgers/0316.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0316
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -656,7 +656,7 @@ Watch for:
   - [Mild] “I've been using it as a wine koozie.”
 
 ## S3 E17 — Two For Tina
-URL: https://watchwiththekids.com/ep/bobs-burgers/0317.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0317
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -670,7 +670,7 @@ Watch for:
   - [Mild] “What the hell? Cut the fog, man! Cut the fog! Yeah! Douglas, what do you think? Take it slow or go rough? Josh, you be as nasty as you need to be.”
 
 ## S3 E18 — It Snakes a Village
-URL: https://watchwiththekids.com/ep/bobs-burgers/0318.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0318
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -688,7 +688,7 @@ Watch for:
   - [Mild] “As - Ooh, yay, wine.”
 
 ## S3 E19 — Family Fracas
-URL: https://watchwiththekids.com/ep/bobs-burgers/0319.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0319
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -698,7 +698,7 @@ Watch for:
   - [Caution] “I call shotgun! I call optional third row.”
 
 ## S3 E20 — The Kids Run the Restaurant
-URL: https://watchwiththekids.com/ep/bobs-burgers/0320.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0320
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -716,7 +716,7 @@ Watch for:
   - [Mild] “Mostly beer, but still.”
 
 ## S3 E21 — Boyz 4 Now
-URL: https://watchwiththekids.com/ep/bobs-burgers/0321.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0321
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -728,7 +728,7 @@ Watch for:
   - [Too much] “There's been a murder backstage.”
 
 ## S3 E22 — Carpe Museum
-URL: https://watchwiththekids.com/ep/bobs-burgers/0322.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0322
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -744,7 +744,7 @@ Watch for:
   - [Mild] “Frond? - Wine Thermos.”
 
 ## S3 E23 — The Unnatural
-URL: https://watchwiththekids.com/ep/bobs-burgers/0323.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0323
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -758,7 +758,7 @@ Watch for:
   - [Mild] “But isn't that vandalism? Babe Ruth used to beat the crap out of a root beer machine.”
 
 ## S4 E1 — A River Runs Through Bob
-URL: https://watchwiththekids.com/ep/bobs-burgers/0401.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0401
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -774,12 +774,12 @@ Watch for:
   - [Mild] “Um, can I borrow some wine, too? Wine helps me drink.”
 
 ## S4 E2 — Fort Night
-URL: https://watchwiththekids.com/ep/bobs-burgers/0402.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0402
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E3 — Seaplane!
-URL: https://watchwiththekids.com/ep/bobs-burgers/0403.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0403
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -805,7 +805,7 @@ Watch for:
   - [Mild] “Wine opener! - Ding! Thank you, Louise! This is no time for wine, Dad! Oh, man.”
 
 ## S4 E4 — My Big Fat Greek Bob
-URL: https://watchwiththekids.com/ep/bobs-burgers/0404.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0404
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -824,7 +824,7 @@ Watch for:
   - [Mild] “And it's not just because we're always drunk.”
 
 ## S4 E5 — Turkey in a Can
-URL: https://watchwiththekids.com/ep/bobs-burgers/0405.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0405
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -835,7 +835,7 @@ Watch for:
   - [Too much] “Yeah, because I was up all night trying to stop a turkey murderer.”
 
 ## S4 E6 — Purple Rain-Union
-URL: https://watchwiththekids.com/ep/bobs-burgers/0406.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0406
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -857,7 +857,7 @@ Watch for:
   - [Caution] “We'll start with "We're the Ta-Ta's" and then we'll go right into "You Were All Wrong About Us" and then "Oh, Boy, You All Got So Fat.”
 
 ## S4 E7 — Bob and Deliver
-URL: https://watchwiththekids.com/ep/bobs-burgers/0407.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0407
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -873,7 +873,7 @@ Watch for:
   - [Caution] “Play the movie! Movie! Movie! Movie! Movie! Movie! Movie! Alphonso Poo Poo Fatty III! Dr.”
 
 ## S4 E8 — Christmas In The Car
-URL: https://watchwiththekids.com/ep/bobs-burgers/0408.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0408
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -886,7 +886,7 @@ Watch for:
   - [Mild] “Exactly! I thought we'd worked past the whole punching thing.”
 
 ## S4 E9 — Slumber Party
-URL: https://watchwiththekids.com/ep/bobs-burgers/0409.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0409
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -896,7 +896,7 @@ Watch for:
   - [Mild] “"Get him some wine"? He likes red.”
 
 ## S4 E10 — Presto Tina-o
-URL: https://watchwiththekids.com/ep/bobs-burgers/0410.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0410
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -904,7 +904,7 @@ Watch for:
   - [Caution] “Butcher knife, check! Whoa, why do you have that? Me and Gene were playing pirates.”
 
 ## S4 E12 — The Frond Files
-URL: https://watchwiththekids.com/ep/bobs-burgers/0412.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0412
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -913,7 +913,7 @@ Watch for:
   - [Mild] “Nude! Clothing match negative.”
 
 ## S4 E13 — Mazel Tina
-URL: https://watchwiththekids.com/ep/bobs-burgers/0413.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0413
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -922,7 +922,7 @@ Watch for:
   - [Caution] “Get all the blood to your head.”
 
 ## S4 E14 — Uncle Teddy
-URL: https://watchwiththekids.com/ep/bobs-burgers/0414.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0414
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -933,7 +933,7 @@ Watch for:
   - [Mild] “But the welcome cocktail party starts now in the Sunset Lounge and your name badge is good for a complimentary drink.”
 
 ## S4 E15 — The Kids Rob a Train
-URL: https://watchwiththekids.com/ep/bobs-burgers/0415.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0415
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -948,7 +948,7 @@ Watch for:
   - [Mild] “At least I'll get drunk-ish.”
 
 ## S4 E16 — I Get Psy-chic Out of You
-URL: https://watchwiththekids.com/ep/bobs-burgers/0416.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0416
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -956,7 +956,7 @@ Watch for:
   - [Caution] “And his friend, my other gun.”
 
 ## S4 E17 — The Equestranauts
-URL: https://watchwiththekids.com/ep/bobs-burgers/0417.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0417
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -971,7 +971,7 @@ Watch for:
   - [Caution] “A tattoo! They're tramp-stamping our tramp! How's my best buddy doing? Um, very excited, but I'd sure love to check out those dolls again real quick, and, um, I think I have to pee.”
 
 ## S4 E18 — Ambergris
-URL: https://watchwiththekids.com/ep/bobs-burgers/0418.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0418
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -981,7 +981,7 @@ Watch for:
   - [Mild] “Wine? Calvin.”
 
 ## S4 E19 — The Kids Run Away
-URL: https://watchwiththekids.com/ep/bobs-burgers/0419.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0419
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -990,7 +990,7 @@ Watch for:
   - [Too much] “Louise, what a surprise! I'm so glad it's you and not a murderer.”
 
 ## S4 E20 — Gene It On
-URL: https://watchwiththekids.com/ep/bobs-burgers/0420.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0420
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -998,7 +998,7 @@ Watch for:
   - [Too much] “Hwah! Oh, no! That's my funny bone! Which is what I call my penis! Eh, you're hurting it! We're number one! Also I have to go number one.”
 
 ## S4 E21 — Wharf Horse
-URL: https://watchwiththekids.com/ep/bobs-burgers/0421.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0421
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1009,7 +1009,7 @@ Watch for:
   - [Caution] “I, uh I realized what you were trying to do was horribly wrong and is that a gun? Yup.”
 
 ## S4 E22 — World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town -- Part II)
-URL: https://watchwiththekids.com/ep/bobs-burgers/0422.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0422
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1035,7 +1035,7 @@ Watch for:
   - [Mild] “Ooh, I'm gonna have a bottle of wine and eat some croutons in bed.”
 
 ## S5 E1 — Work Hard or Die Trying, Girl
-URL: https://watchwiththekids.com/ep/bobs-burgers/0501.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0501
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1044,7 +1044,7 @@ Watch for:
   - [Too much] “…Wheeler! In a way that I can't tell you about right now! So never mind! Bye! Why did you throw that corpse on my car?”
 
 ## S5 E2 — Tina and the Real Ghost
-URL: https://watchwiththekids.com/ep/bobs-burgers/0502.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0502
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1053,7 +1053,7 @@ Watch for:
   - [Mild] “I just need one more sip of my sÃ©ance wine.”
 
 ## S5 E3 — Friends With Burger-fits
-URL: https://watchwiththekids.com/ep/bobs-burgers/0503.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0503
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1071,7 +1071,7 @@ Watch for:
   - [Caution] “Really? We're doing this? You're a mid-level drug dealer in an apartment stairwell.”
 
 ## S5 E4 — Dawn Of The Peck
-URL: https://watchwiththekids.com/ep/bobs-burgers/0504.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0504
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1089,7 +1089,7 @@ Watch for:
   - [Mild] “Time to reward myself with some beer.”
 
 ## S5 E5 — Best Burger
-URL: https://watchwiththekids.com/ep/bobs-burgers/0505.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0505
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1102,7 +1102,7 @@ Watch for:
   - [Mild] “Gonna go have a plate of shrimp, a 20-ounce beer and a massage, from my friend, Hank the masseuse Oh, my God.”
 
 ## S5 E6 — Father Of The Bob
-URL: https://watchwiththekids.com/ep/bobs-burgers/0506.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0506
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1122,7 +1122,7 @@ Watch for:
   - [Mild] “It can be snow or Santa or beer or gin or rum or schnapps.”
 
 ## S5 E7 — Tina Tailor Soldier Spy
-URL: https://watchwiththekids.com/ep/bobs-burgers/0507.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0507
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1141,7 +1141,7 @@ Watch for:
   - [Mild] “What the hell was that? Our handshake.”
 
 ## S5 E8 — Midday Run
-URL: https://watchwiththekids.com/ep/bobs-burgers/0508.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0508
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1156,7 +1156,7 @@ Watch for:
   - [Caution] “She's having surgery today, and I just wanted to mascot around for her before she went under the knife.”
 
 ## S5 E9 — Speakeasy Rider
-URL: https://watchwiththekids.com/ep/bobs-burgers/0509.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0509
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1177,7 +1177,7 @@ Watch for:
   - [Mild] “Another one of the beers we normally sell here? Sure.”
 
 ## S5 E10 — Late Afternoon In The Garden Of Bob And Louise
-URL: https://watchwiththekids.com/ep/bobs-burgers/0510.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0510
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1195,7 +1195,7 @@ Watch for:
   - [Mild] “(Louise grunts) Oh, crap.”
 
 ## S5 E11 — Can't Buy Me Math
-URL: https://watchwiththekids.com/ep/bobs-burgers/0511.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0511
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1203,7 +1203,7 @@ Watch for:
   - [Mild] “" Sexy cooking I knew it.”
 
 ## S5 E12 — The Millie-churian Candidate
-URL: https://watchwiththekids.com/ep/bobs-burgers/0512.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0512
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1213,7 +1213,7 @@ Watch for:
   - [Mild] “You're going to be president! Whew, head rush! I'm already a little drunk with power! Louise is disqualified for breaking into my office.”
 
 ## S5 E13 — The Gayle Tales
-URL: https://watchwiththekids.com/ep/bobs-burgers/0513.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0513
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1231,7 +1231,7 @@ Watch for:
   - [Mild] “And Lindette ended up married to the old drunk from the bar because she was a mean person who liked grounding people and going solo.”
 
 ## S5 E14 — L'il Hard Dad
-URL: https://watchwiththekids.com/ep/bobs-burgers/0514.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0514
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1244,7 +1244,7 @@ Watch for:
   - [Mild] “I call it "nighttime shopping, with wine.”
 
 ## S5 E15 — Adventures In Chinchilla-sitting
-URL: https://watchwiththekids.com/ep/bobs-burgers/0515.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0515
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1260,7 +1260,7 @@ Watch for:
   - [Caution] “You guys smoke weed? No, the chinchilla you paid $40 for.”
 
 ## S5 E16 — The Runaway Club
-URL: https://watchwiththekids.com/ep/bobs-burgers/0516.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0516
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1275,7 +1275,7 @@ Watch for:
   - [Mild] “All right! Hell yeah! Oh, my God, yeah! Let's do it.”
 
 ## S5 E17 — Itty Bitty Ditty Committee
-URL: https://watchwiththekids.com/ep/bobs-burgers/0517.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0517
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1285,7 +1285,7 @@ Watch for:
   - [Caution] “…I'll be a potter Or a teacher like Welcome Back, Kotter Maybe I'll juggle or maybe I'll juice Be a Top Gun and be friends with Goose One thing I know for sure I don't need music I don't need you anymore I don't…”
 
 ## S5 E18 — Eat, Spray, Linda
-URL: https://watchwiththekids.com/ep/bobs-burgers/0518.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0518
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1301,7 +1301,7 @@ Watch for:
   - [Too much] “What did he do? He's really racist.”
 
 ## S5 E19 — Housetrap
-URL: https://watchwiththekids.com/ep/bobs-burgers/0519.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0519
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1313,7 +1313,7 @@ Watch for:
   - [Caution] “He's-he's stoned out of his mind.”
 
 ## S5 E20 — Hawk & Chick
-URL: https://watchwiththekids.com/ep/bobs-burgers/0520.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0520
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1326,7 +1326,7 @@ Watch for:
   - [Caution] “We are going to weed you out! Crap, we need the villagers! Lin! Lin! Psst! We need you guys up here.”
 
 ## S5 E21 — The Oeder Games
-URL: https://watchwiththekids.com/ep/bobs-burgers/0521.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0521
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1351,7 +1351,7 @@ Watch for:
   - [Mild] “Snipers! Shoot him! Oh, crap.”
 
 ## S6 E1 — Sliding Bobs
-URL: https://watchwiththekids.com/ep/bobs-burgers/0601.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0601
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1373,7 +1373,7 @@ Watch for:
   - [Mild] “I'm sorry I wasted your time.”
 
 ## S6 E2 — The Land Ship
-URL: https://watchwiththekids.com/ep/bobs-burgers/0602.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0602
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1389,7 +1389,7 @@ Watch for:
   - [Mild] “What the hell?! - Uh, yeah.”
 
 ## S6 E3 — The Hauntening
-URL: https://watchwiththekids.com/ep/bobs-burgers/0603.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0603
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1397,7 +1397,7 @@ Watch for:
   - [Too much] “What? No, it's not a murderer, Tina.”
 
 ## S6 E4 — Gayle Makin' Bob Sled
-URL: https://watchwiththekids.com/ep/bobs-burgers/0604.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0604
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1411,7 +1411,7 @@ Watch for:
   - [Caution] “Time to eat, my little low-blood-sugar booger.”
 
 ## S6 E5 — Nice-Capades
-URL: https://watchwiththekids.com/ep/bobs-burgers/0605.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0605
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1422,7 +1422,7 @@ Watch for:
   - [Mild] “…outside's gettin' thicker So let's open that bottle of liquor Hey, bourbon, take me home On bourbon, on vodka, on scotch and on gin Take me back Let the North Pole dancing begin It's my party (humming) Felix?”
 
 ## S6 E6 — The Cook, the Steve, the Gayle, & Her Lover
-URL: https://watchwiththekids.com/ep/bobs-burgers/0606.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0606
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1441,7 +1441,7 @@ Watch for:
   - [Mild] “Hey, how about some more wine, huh? Ha! Mr.”
 
 ## S6 E7 — The Gene and Courtney Show
-URL: https://watchwiththekids.com/ep/bobs-burgers/0607.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0607
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1458,7 +1458,7 @@ Watch for:
   - [Mild] “Branca's mop bucket is full of beer.”
 
 ## S6 E8 — Sexy Dance Healing
-URL: https://watchwiththekids.com/ep/bobs-burgers/0608.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0608
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1471,7 +1471,7 @@ Watch for:
   - [Mild] “" What is this crap? Hildy, do you want this to get tied up in the courts for years? Or do you want to just give me the extra fillings and send me on my way? Ugh.”
 
 ## S6 E9 — Sacred Couch
-URL: https://watchwiththekids.com/ep/bobs-burgers/0609.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0609
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 2 moment(s)
@@ -1479,7 +1479,7 @@ Watch for:
   - [Mild] “Damn it, Dad! Do you want the old couch back or don't you?! Okay, fine.”
 
 ## S6 E10 — Lice Things Are Lice
-URL: https://watchwiththekids.com/ep/bobs-burgers/0610.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0610
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1492,7 +1492,7 @@ Watch for:
   - [Mild] “How do we get the word out? Did someone say "free beer"? Where? Where's free beer? Ohh Yes! I'll make a sign! After a couple of beers, this stuff pretty much delivers itself.”
 
 ## S6 E11 — House of 1000 Bounces
-URL: https://watchwiththekids.com/ep/bobs-burgers/0611.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0611
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1503,7 +1503,7 @@ Watch for:
   - [Mild] “I got pretty drunk this morning at brunch at the lodge.”
 
 ## S6 E12 — Stand by Gene
-URL: https://watchwiththekids.com/ep/bobs-burgers/0612.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0612
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1514,7 +1514,7 @@ Watch for:
   - [Mild] “Beat her, Mike, and you get a free burger.”
 
 ## S6 E13 — Wag the Hog
-URL: https://watchwiththekids.com/ep/bobs-burgers/0613.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0613
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1539,7 +1539,7 @@ Watch for:
   - [Too much] “Yeah, he hardly wants any meth.”
 
 ## S6 E14 — The Hormone-iums
-URL: https://watchwiththekids.com/ep/bobs-burgers/0614.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0614
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1556,7 +1556,7 @@ Watch for:
   - [Mild] “Some company stole my idea! Booze Shoes.”
 
 ## S6 E15 — Pro Tiki Con Tiki
-URL: https://watchwiththekids.com/ep/bobs-burgers/0615.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0615
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1571,7 +1571,7 @@ Watch for:
   - [Mild] “Anything you want to do? Go grab a beer downstairs? You got it.”
 
 ## S6 E16 — Bye Bye Boo Boo
-URL: https://watchwiththekids.com/ep/bobs-burgers/0616.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0616
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -1590,7 +1590,7 @@ Watch for:
   - [Caution] “…dance during the Boyz 4 Now cover of "Maniac," which appeared on their covers album We Got You Covered! Easy, girl, easy.”
 
 ## S6 E17 — The Horse Rider-Er
-URL: https://watchwiththekids.com/ep/bobs-burgers/0617.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0617
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1599,7 +1599,7 @@ Watch for:
   - [Too much] “(grunts) Uh-oh, looks like there was a murder! We need CSI: Napkin Swamp.”
 
 ## S6 E18 — Secret Admiral-irer
-URL: https://watchwiththekids.com/ep/bobs-burgers/0618.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0618
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1610,7 +1610,7 @@ Watch for:
   - [Mild] “Then we drank a lot of wine, and then Taj brought a whole goat, and then we drank some grain alcohol from Iceland.”
 
 ## S6 E19 — Glued, Where's My Bob?
-URL: https://watchwiththekids.com/ep/bobs-burgers/0619.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0619
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1618,7 +1618,7 @@ Watch for:
   - [Mild] “What, are they writing an article on guys with mustaches you wanna punch? Zoom! (chuckles) I say "zoom" now.”
 
 ## S7 E1 — Flu-ouise
-URL: https://watchwiththekids.com/ep/bobs-burgers/0701.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0701
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1639,7 +1639,7 @@ Watch for:
   - [Mild] “I threw the best swamp parties I'd serve wine and calamaris And we'd drink and drink and drink and drink and Yup, got it, we got it.”
 
 ## S7 E2 — Sea Me Now
-URL: https://watchwiththekids.com/ep/bobs-burgers/0702.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0702
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 2 moment(s)
@@ -1660,7 +1660,7 @@ Watch for:
   - [Caution] “Also, please don't weed-whack us.”
 
 ## S7 E3 — Teen-a Witch
-URL: https://watchwiththekids.com/ep/bobs-burgers/0703.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0703
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1670,7 +1670,7 @@ Watch for:
   - [Caution] “And then one year my dad sat in the bushes with a BB gun and he waited for the squirrels to come.”
 
 ## S7 E4 — They Serve Horses, Dont They
-URL: https://watchwiththekids.com/ep/bobs-burgers/0704.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0704
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1692,7 +1692,7 @@ Watch for:
   - [Caution] “Well, what do you want now? Are you gonna sell us napkins that are really trees?! Easy, girl, easy.”
 
 ## S7 E5 — Large Brother, Where Fart Thou?
-URL: https://watchwiththekids.com/ep/bobs-burgers/0705.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0705
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1708,7 +1708,7 @@ Watch for:
   - [Caution] “Whoa, whoa, easy, Tina girl.”
 
 ## S7 E6 — The Quirkducers
-URL: https://watchwiththekids.com/ep/bobs-burgers/0706.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0706
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -1724,7 +1724,7 @@ Watch for:
   - [Mild] “Hell yeah! I wouldn't mind getting home early, too.”
 
 ## S7 E7 — The Last Gingerbread House on the Left
-URL: https://watchwiththekids.com/ep/bobs-burgers/0707.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0707
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1752,7 +1752,7 @@ Watch for:
   - [Mild] “Go home and drink the kind of hot cocoa that's wine.”
 
 ## S7 E8 — Ex MachTina
-URL: https://watchwiththekids.com/ep/bobs-burgers/0708.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0708
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1762,7 +1762,7 @@ Watch for:
   - [Mild] “Whoa, what the hell is the robot doing here? Did anyone approve this? I was told to do everything a normal student would do.”
 
 ## S7 E9 — Bob Actually
-URL: https://watchwiththekids.com/ep/bobs-burgers/0709.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0709
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1777,7 +1777,7 @@ Watch for:
   - [Caution] “Louise, I wanted to ask you to give this Love Weed and this card to Chloe Barbash for me, in Science.”
 
 ## S7 E10 — There's No Business Like Mr. Business Business
-URL: https://watchwiththekids.com/ep/bobs-burgers/0710.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0710
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1789,14 +1789,14 @@ Watch for:
   - [Mild] “Everybody ready to go to the cat food audition today? - Oh, damn it! - Attagirl! - (doorbell rings) - Uh, uh, there's Gayle.”
 
 ## S7 E11 — A Few 'Gurt Men
-URL: https://watchwiththekids.com/ep/bobs-burgers/0711.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0711
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I've never seen a man this naked be this smug.”
 
 ## S7 E12 — Like Gene For Chocolate
-URL: https://watchwiththekids.com/ep/bobs-burgers/0712.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0712
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1806,7 +1806,7 @@ Watch for:
   - [Caution] “You started this crazy candy ride, now finish it, you son of a bitch! Wow! I love motivational speeches.”
 
 ## S7 E13 — The Grand Mama-Pest Hotel
-URL: https://watchwiththekids.com/ep/bobs-burgers/0713.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0713
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1821,7 +1821,7 @@ Watch for:
   - [Too much] “Heroin Conference? What do you mean, like a jazz concert? That really isn't the best name.”
 
 ## S7 E14 — Aquaticism
-URL: https://watchwiththekids.com/ep/bobs-burgers/0714.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0714
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1831,7 +1831,7 @@ Watch for:
   - [Mild] “I got to say, this place looks pretty much like an aquarium with a couple of religious signs slapped up.”
 
 ## S7 E15 — Ain't Miss Debatin'
-URL: https://watchwiththekids.com/ep/bobs-burgers/0715.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0715
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1848,7 +1848,7 @@ Watch for:
   - [Mild] “(whines) Henry, I know I wasted valuable debate minutes breaking up with you, but you're still my debate partner, and I think maybe we can win this thing.”
 
 ## S7 E16 — Eggs for Days
-URL: https://watchwiththekids.com/ep/bobs-burgers/0716.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0716
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1860,7 +1860,7 @@ Watch for:
   - [Mild] “I-I think I might have still been drunk earlier.”
 
 ## S7 E17 — Zero Larp Thirty
-URL: https://watchwiththekids.com/ep/bobs-burgers/0717.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0717
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1874,7 +1874,7 @@ Watch for:
   - [Mild] “(snoring) - (bell ringing) Really? You'd better fetch me a bed wine.”
 
 ## S7 E18 — The Laser-inth
-URL: https://watchwiththekids.com/ep/bobs-burgers/0718.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0718
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -1883,7 +1883,7 @@ Watch for:
   - [Mild] “Just sipping my wine.”
 
 ## S7 E19 — Thelma & Louise Except Thelma is Linda
-URL: https://watchwiththekids.com/ep/bobs-burgers/0719.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0719
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1893,7 +1893,7 @@ Watch for:
   - [Mild] “Hey, can we get another round of beer, too? - And more fries? Like a butt-load? - Yup.”
 
 ## S7 E20 — Mom, Lies and Videotapes
-URL: https://watchwiththekids.com/ep/bobs-burgers/0720.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0720
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1903,7 +1903,7 @@ Watch for:
   - [Mild] “I'd live on a diet of wine and cheese You'd teach me to say thank you and also please Manners are important.”
 
 ## S7 E21 — Paraders of the Lost Float
-URL: https://watchwiththekids.com/ep/bobs-burgers/0721.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0721
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1914,7 +1914,7 @@ Watch for:
   - [Caution] “Ha! Kids, arm your T-shirt guns.”
 
 ## S7 E22 — Into the Mild
-URL: https://watchwiththekids.com/ep/bobs-burgers/0722.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0722
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1926,7 +1926,7 @@ Watch for:
   - [Caution] “I looked up, she looked at me, and she gave me a wink and the finger guns.”
 
 ## S8 E1 — Brunchsquatch
-URL: https://watchwiththekids.com/ep/bobs-burgers/0801.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0801
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1948,7 +1948,7 @@ Watch for:
   - [Mild] “Skunky little booze hounds.”
 
 ## S8 E2 — The Silence of the Louise
-URL: https://watchwiththekids.com/ep/bobs-burgers/0802.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0802
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1969,7 +1969,7 @@ Watch for:
   - [Caution] “Oh, a tramp named O-line.”
 
 ## S8 E3 — The Wolf of Wharf Street
-URL: https://watchwiththekids.com/ep/bobs-burgers/0803.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0803
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1984,7 +1984,7 @@ Watch for:
   - [Caution] “Ooh, Bosom Bloodies.”
 
 ## S8 E4 — Sit Me Baby One More Time
-URL: https://watchwiththekids.com/ep/bobs-burgers/0804.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0804
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1998,7 +1998,7 @@ Watch for:
   - [Mild] “But I'm still drinking a lot of wine.”
 
 ## S8 E5 — Thanks-Hoarding
-URL: https://watchwiththekids.com/ep/bobs-burgers/0805.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0805
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2011,7 +2011,7 @@ Watch for:
   - [Mild] “Give me some wine.”
 
 ## S8 E6 — Bleakening Pts 1 & 2
-URL: https://watchwiththekids.com/ep/bobs-burgers/0806.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0806
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2034,7 +2034,7 @@ Watch for:
   - [Mild] “Yeah, you wrap like a drunk, blind bear.”
 
 ## S8 E8 — V for Valentine-detta
-URL: https://watchwiththekids.com/ep/bobs-burgers/0808.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0808
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2051,7 +2051,7 @@ Watch for:
   - [Mild] “Do you think it's that drunk clown? I I wish.”
 
 ## S8 E9 — Y Tu Ga-Ga Tambien
-URL: https://watchwiththekids.com/ep/bobs-burgers/0809.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0809
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2069,7 +2069,7 @@ Watch for:
   - [Mild] “Yeah, like when mom left that bottle of beer in the freezer.”
 
 ## S8 E10 — The Secret Ceramics Room of Secrets
-URL: https://watchwiththekids.com/ep/bobs-burgers/0810.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0810
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2081,7 +2081,7 @@ Watch for:
   - [Too much] “What's all this cocaine doing at school? Throw it away.”
 
 ## S8 E11 — Sleeping with the Frenemy
-URL: https://watchwiththekids.com/ep/bobs-burgers/0811.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0811
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2090,7 +2090,7 @@ Watch for:
   - [Too much] “Do places deliver here, or is the neighborhood too dangerous? Oh, it's super safe except for that huge unsolved murder that's gonna happen.”
 
 ## S8 E12 — The Hurt Soccer
-URL: https://watchwiththekids.com/ep/bobs-burgers/0812.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0812
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 7 moment(s)
@@ -2105,7 +2105,7 @@ Watch for:
   - [Mild] “I'm sorry! It was I We got a-an e-mail, and I Oh! Oh, I didn't realize you got an e-mail! I completely forgot it happened at all! It was during wine time! Guys, guys, shush, shush, shush.”
 
 ## S8 E13 — Cheer Up Sleepy Gene
-URL: https://watchwiththekids.com/ep/bobs-burgers/0813.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0813
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 3 moment(s)
@@ -2114,7 +2114,7 @@ Watch for:
   - [Mild] “This is a living hell.”
 
 ## S8 E14 — The Trouble With Doubles
-URL: https://watchwiththekids.com/ep/bobs-burgers/0814.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0814
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -2131,7 +2131,7 @@ Watch for:
   - [Caution] “But maybe I'll sleep in your bed, too, you know, just to keep the knife company.”
 
 ## S8 E15 — Go Tina on the Mountain
-URL: https://watchwiththekids.com/ep/bobs-burgers/0815.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0815
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 6 moment(s)
@@ -2145,7 +2145,7 @@ Watch for:
   - [Mild] “(sniffs) It smells like beer.”
 
 ## S8 E16 — Are You There Bob? It's Me, Birthday
-URL: https://watchwiththekids.com/ep/bobs-burgers/0816.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0816
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2161,19 +2161,19 @@ Watch for:
   - [Mild] “I might have an alcoholic drink tonight, an alcoholic wine.”
 
 ## S8 E17 — Boywatch
-URL: https://watchwiththekids.com/ep/bobs-burgers/0817.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0817
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S8 E18 — As I Walk Through the Alley of the Shadow of Ramps
-URL: https://watchwiththekids.com/ep/bobs-burgers/0818.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0818
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I'm just saying, we've all had that fear when you're trying something new that's kind of scary and you think you're never gonna be able to do it, right? I did when I was switching from boob to bottle.”
 
 ## S8 E19 — Mo Mommy Mo Problems
-URL: https://watchwiththekids.com/ep/bobs-burgers/0819.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0819
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2195,7 +2195,7 @@ Watch for:
   - [Mild] “Damn dust in this house.”
 
 ## S8 E20 — Mission Impos-slug-ble
-URL: https://watchwiththekids.com/ep/bobs-burgers/0820.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0820
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2206,14 +2206,14 @@ Watch for:
   - [Mild] “Are they always drunk? If only we could distract them, get them out of the yard for a second, and we had a rope or something.”
 
 ## S8 E21 — Something Old, Something New, Something Bob Caters for You
-URL: https://watchwiththekids.com/ep/bobs-burgers/0821.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0821
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “…this isn't on you That ceremony was upsetting The way those two rushed into this You'd think it was a shotgun wedding But do I take these buns to have and hold, I do All you can do is do your best-est Toast them…”
 
 ## S9 E1 — Just One of the Boyz 4 Now for Now
-URL: https://watchwiththekids.com/ep/bobs-burgers/0901.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0901
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 7 moment(s)
@@ -2230,7 +2230,7 @@ Watch for:
   - [Mild] “Crap, crap, crap, crap! (gulping) (exhales) Thank you.”
 
 ## S9 E2 — The Taking of Funtime One Two Three
-URL: https://watchwiththekids.com/ep/bobs-burgers/0902.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0902
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2239,14 +2239,14 @@ Watch for:
   - [Mild] “Great punch.”
 
 ## S9 E3 — Tweentrepreneurs
-URL: https://watchwiththekids.com/ep/bobs-burgers/0903.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0903
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “That's a knife, Louise.”
 
 ## S9 E4 — Nightmare on Ocean Avenue Street
-URL: https://watchwiththekids.com/ep/bobs-burgers/0904.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0904
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -2256,7 +2256,7 @@ Watch for:
   - [Caution] “As long as we don't see any blood.”
 
 ## S9 E5 — Live and Let Fly
-URL: https://watchwiththekids.com/ep/bobs-burgers/0905.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0905
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2274,7 +2274,7 @@ Watch for:
   - [Caution] “Process-ily Cecily can process her ass! - (gasps) - You promised that no one at school would see us singing and dancing in your dumb video! Hold his arms! We're gonna make it look like an accident! Easy, girl!”
 
 ## S9 E6 — Bobby Driver
-URL: https://watchwiththekids.com/ep/bobs-burgers/0906.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0906
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2285,7 +2285,7 @@ Watch for:
   - [Caution] “Gas pills? You mean these? Hey, how come fatty's got your fart meds? - Has he got the toots, too? - Harold! (farts) So you don't really get fits? I get farts.”
 
 ## S9 E7 — I Bob Your Pardon
-URL: https://watchwiththekids.com/ep/bobs-burgers/0907.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0907
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2307,7 +2307,7 @@ Watch for:
   - [Mild] “I mean, coyotes have to eat Oh, my God! What am I saying? Get the hell away from Drew P.”
 
 ## S9 E8 — Roller? I Hardly Knew Her!
-URL: https://watchwiththekids.com/ep/bobs-burgers/0908.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0908
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -2316,7 +2316,7 @@ Watch for:
   - [Caution] “She's not here to kill you with gun glasses, Lin.”
 
 ## S9 E9 — UFO No You Didn't
-URL: https://watchwiththekids.com/ep/bobs-burgers/0909.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0909
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Swearing — 7 moment(s)
@@ -2329,7 +2329,7 @@ Watch for:
   - [Mild] “(gasping) - (whimpering) The aliens might destroy Earth! I know! This sucks.”
 
 ## S9 E10 — Better Off Sled
-URL: https://watchwiththekids.com/ep/bobs-burgers/0910.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0910
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 6 moment(s)
@@ -2341,7 +2341,7 @@ Watch for:
   - [Mild] “It's the time of year for peace and goodwill, damn it.”
 
 ## S9 E11 — Lorenzo's Oil? No, Linda's
-URL: https://watchwiththekids.com/ep/bobs-burgers/0911.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0911
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2361,7 +2361,7 @@ Watch for:
   - [Mild] “I don't have any beer, but you want a tomato juice? Oh, no thanks, Mr.”
 
 ## S9 E12 — The Helen Hunt
-URL: https://watchwiththekids.com/ep/bobs-burgers/0912.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0912
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2381,7 +2381,7 @@ Watch for:
   - [Mild] “Helen, look at Teddy pour these drinks He's like friggin' Tom Cruise in Cocktail.”
 
 ## S9 E13 — Bed, Bob and Beyond
-URL: https://watchwiththekids.com/ep/bobs-burgers/0913.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0913
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2393,7 +2393,7 @@ Watch for:
   - [Mild] “Scottjon Dansteve decides to call his best mate for some help, a soccer hooligan named Johnny Nottinghill! - Johnny's like - I'm watching footie on the telly in the pubby where the beer is.”
 
 ## S9 E14 — Every Which Way But Goose
-URL: https://watchwiththekids.com/ep/bobs-burgers/0914.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0914
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2404,7 +2404,7 @@ Watch for:
   - [Too much] “Eatin' brains and doin' cocaine! - Gene.”
 
 ## S9 E15 — The Fresh Princ-ipal
-URL: https://watchwiththekids.com/ep/bobs-burgers/0915.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0915
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2412,7 +2412,7 @@ Watch for:
   - [Mild] “Bob's not wearing my underwear.”
 
 ## S9 E16 — Roamin' Bob-iday
-URL: https://watchwiththekids.com/ep/bobs-burgers/0916.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0916
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2427,7 +2427,7 @@ Watch for:
   - [Caution] “Did you guys use buns to clean up the blood? They're fine.”
 
 ## S9 E17 — What About Blob?
-URL: https://watchwiththekids.com/ep/bobs-burgers/0917.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0917
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2440,7 +2440,7 @@ Watch for:
   - [Mild] “That oceanographer is bringing champagne to his oceanography friends? Yeah, he is not an oceanographer.”
 
 ## S9 E18 — If You Love It So Much, Why Don't You Marionette?
-URL: https://watchwiththekids.com/ep/bobs-burgers/0918.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0918
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2450,7 +2450,7 @@ Watch for:
   - [Mild] “GENE: Ow, my boob.”
 
 ## S9 E19 — Long Time Listener, First Time Bob
-URL: https://watchwiththekids.com/ep/bobs-burgers/0919.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0919
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -2458,7 +2458,7 @@ Watch for:
   - [Caution] “Lot of blood, sweat and farts in that chair.”
 
 ## S9 E20 — The Gene Mile
-URL: https://watchwiththekids.com/ep/bobs-burgers/0920.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0920
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2468,7 +2468,7 @@ Watch for:
   - [Caution] “It's like your bones turn into nails and your blood turns into pain.”
 
 ## S9 E21 — P.T.A It Ain't So
-URL: https://watchwiththekids.com/ep/bobs-burgers/0921.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0921
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2480,7 +2480,7 @@ Watch for:
   - [Caution] “Also, did you lose weight? - In a day? Maybe.”
 
 ## S9 E22 — Yes Without My Zeke
-URL: https://watchwiththekids.com/ep/bobs-burgers/0922.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/0922
 Scores: violence 3/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2498,7 +2498,7 @@ Watch for:
   - [Mild] “Okay, gotcha! (grunting) - (groans) - What the hell are you doing? You're getting ceiling dirt all over my floors! - There's somebody up there.”
 
 ## S10 E1 — The Ring (But Not Scary)
-URL: https://watchwiththekids.com/ep/bobs-burgers/1001.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1001
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2516,7 +2516,7 @@ Watch for:
   - [Caution] “We have to save Mom and Dad's marriage, so Dad won't end up as a single skank.”
 
 ## S10 E2 — Boys Just Wanna Have Fungus
-URL: https://watchwiththekids.com/ep/bobs-burgers/1002.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1002
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -2531,7 +2531,7 @@ Watch for:
   - [Too much] “Which one? - Cocaine.”
 
 ## S10 E3 — Motor, She Boat
-URL: https://watchwiththekids.com/ep/bobs-burgers/1003.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1003
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2539,7 +2539,7 @@ Watch for:
   - [Mild] “Was my underwear showing when I was climbing down the tree? I wore my Thursdays 'cause my Saturdays had a case of the Mondays, if you know what I mean.”
 
 ## S10 E4 — Pig Trouble in Little Tina
-URL: https://watchwiththekids.com/ep/bobs-burgers/1004.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1004
 Scores: violence 3/5, sex 3/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2564,7 +2564,7 @@ Watch for:
   - [Mild] “Skeleton Banjo Tina, attack! Damn it! Why won't you just leave me alone? Wait a minute, wait a minute.”
 
 ## S10 E5 — Legends of the Mall
-URL: https://watchwiththekids.com/ep/bobs-burgers/1005.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1005
 Scores: violence 3/5, sex 4/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2595,14 +2595,14 @@ Watch for:
   - [Mild] “We're going to the champagne pants store.”
 
 ## S10 E6 — The Hawkening: Look Who's Hawking Now
-URL: https://watchwiththekids.com/ep/bobs-burgers/1006.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1006
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Hawk & Chick beer Koozie? Oh, guys, that's the collector.”
 
 ## S10 E7 — Land of the Loft
-URL: https://watchwiththekids.com/ep/bobs-burgers/1007.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1007
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -2621,7 +2621,7 @@ Watch for:
   - [Mild] “So you have one of those things with the curly copper pipes, and then whiskey comes out of it? Yes.”
 
 ## S10 E8 — Now We're Not Cooking with Gas
-URL: https://watchwiththekids.com/ep/bobs-burgers/1008.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1008
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2638,7 +2638,7 @@ Watch for:
   - [Mild] “Lot of beer bottles.”
 
 ## S10 E9 — All That Gene
-URL: https://watchwiththekids.com/ep/bobs-burgers/1009.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1009
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2650,7 +2650,7 @@ Watch for:
   - [Mild] “Wanted to see if you Damn it! Aah! Stupid! Mr.”
 
 ## S10 E10 — Have Yourself a Maily Linda Christmas
-URL: https://watchwiththekids.com/ep/bobs-burgers/1010.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1010
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2658,7 +2658,7 @@ Watch for:
   - [Too much] “Nice, sweaty and weird: if my penis could talk.”
 
 ## S10 E11 — Drumforgiven
-URL: https://watchwiththekids.com/ep/bobs-burgers/1011.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1011
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2666,7 +2666,7 @@ Watch for:
   - [Mild] “If you don't care, then why are you yelling?! Because this whole thing is stupid! Teddy, are you sure this isn't because you had - a sexy dream about me? - What? No! Recently? No! - I'm still not sure about this.”
 
 ## S10 E12 — A Fish Called Tina
-URL: https://watchwiththekids.com/ep/bobs-burgers/1012.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1012
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2675,7 +2675,7 @@ Watch for:
   - [Caution] “My blood is pumping, my en-dolphins are flowin'.”
 
 ## S10 E13 — Three Girls and a Little Wharfy
-URL: https://watchwiththekids.com/ep/bobs-burgers/1013.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1013
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -2689,7 +2689,7 @@ Watch for:
   - [Mild] “You were drunk and vomiting when you took this pretty grainy picture.”
 
 ## S10 E14 — Wag the Song
-URL: https://watchwiththekids.com/ep/bobs-burgers/1014.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1014
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -2706,7 +2706,7 @@ Watch for:
   - [Mild] “Should it really be about poop? Or whatever the hell Rudy's doing? If we don't do the song, I'll be forgotten.”
 
 ## S10 E15 — Yurty Rotten Scoundrels
-URL: https://watchwiththekids.com/ep/bobs-burgers/1015.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1015
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -2716,7 +2716,7 @@ Watch for:
   - [Caution] I think that cat might have a knife.
 
 ## S10 E16 — Flat-Top O' the Morning to Ya
-URL: https://watchwiththekids.com/ep/bobs-burgers/1016.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1016
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -2733,7 +2733,7 @@ Watch for:
   - [Mild] You're drunk. I'm tipsy.
 
 ## S10 E17 — Just the Trip
-URL: https://watchwiththekids.com/ep/bobs-burgers/1017.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1017
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -2742,7 +2742,7 @@ Watch for:
   - [Mild] And I brought some wine. It's rosÃ© for day.
 
 ## S10 E18 — Tappy Tappy Tappy Tap Tap Tap
-URL: https://watchwiththekids.com/ep/bobs-burgers/1018.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1018
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -2764,7 +2764,7 @@ Watch for:
   - [Mild] Gotcha. How could you do this to Josh, - you cold-hearted bastard? - Whoa, whoa, whoa.
 
 ## S10 E19 — The Handyman Can
-URL: https://watchwiththekids.com/ep/bobs-burgers/1019.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1019
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2778,7 +2778,7 @@ Watch for:
   - [Caution] Back off, Logan. You're not taking Rudy and his tramp stamp anywhere.
 
 ## S10 E20 — Poops!... I Didn't Do It Again
-URL: https://watchwiththekids.com/ep/bobs-burgers/1020.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1020
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -2788,21 +2788,21 @@ Watch for:
   - [Mild] Damn it, I wasn't recording.
 
 ## S10 E21 — Local She-ro
-URL: https://watchwiththekids.com/ep/bobs-burgers/1021.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1021
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] It's my ex-wife's sock. I sleep with it on my hand.
 
 ## S10 E22 — Prank You for Being a Friend
-URL: https://watchwiththekids.com/ep/bobs-burgers/1022.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1022
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Ow! All the blood is rushing to my head.
 
 ## S11 E1 — Dream a Little Bob of Bob
-URL: https://watchwiththekids.com/ep/bobs-burgers/1101.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1101
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -2814,7 +2814,7 @@ Watch for:
   - [Mild] “Oh, they don't have booze?”
 
 ## S11 E2 — Worms of In-rear-ment
-URL: https://watchwiththekids.com/ep/bobs-burgers/1102.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1102
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -2826,7 +2826,7 @@ Watch for:
   - [Caution] Boy, I am growing like a weed.
 
 ## S11 E3 — Copa-bob-bana
-URL: https://watchwiththekids.com/ep/bobs-burgers/1103.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1103
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -2836,7 +2836,7 @@ Watch for:
   - [Mild] He seems drunk but okay, I think.
 
 ## S11 E4 — Heartbreak Hotel-oween
-URL: https://watchwiththekids.com/ep/bobs-burgers/1104.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1104
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2857,7 +2857,7 @@ Watch for:
   - [Mild] So why did you take the photo and the letters, Dolores? Oh, I was having a cocktail at the bar.
 
 ## S11 E5 — Fast Time Capsules at Wagstaff School
-URL: https://watchwiththekids.com/ep/bobs-burgers/1105.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1105
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2872,7 +2872,7 @@ Watch for:
   - [Mild] Sam said the song's to the tune of "On Top of Old Smoky," whatever the hell that is.
 
 ## S11 E6 — Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids
-URL: https://watchwiththekids.com/ep/bobs-burgers/1106.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1106
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2884,7 +2884,7 @@ Watch for:
   - [Mild] I don't know, rocks, croquet balls, drunk birds.
 
 ## S11 E7 — Diarrhea of a Poopy Kid
-URL: https://watchwiththekids.com/ep/bobs-burgers/1107.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1107
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -2899,7 +2899,7 @@ Watch for:
   - [Mild] Just gonna grab the wine and, oh, I forgot to throw this old chicken Parmesan out.
 
 ## S11 E8 — The Terminalator II: Terminals of Endearment
-URL: https://watchwiththekids.com/ep/bobs-burgers/1108.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1108
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2910,7 +2910,7 @@ Watch for:
   - [Mild] I'm gonna put my seat so far back I start a fight with the person behind me and then make Mom beat him up.
 
 ## S11 E9 — Mommy Boy
-URL: https://watchwiththekids.com/ep/bobs-burgers/1109.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1109
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2929,7 +2929,7 @@ Watch for:
   - [Mild] “Turns out the only punch”
 
 ## S11 E10 — Yachty or Nice
-URL: https://watchwiththekids.com/ep/bobs-burgers/1110.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1110
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -2943,7 +2943,7 @@ Watch for:
   - [Mild] I'm having craft beers and chicken satay and craft beers.
 
 ## S11 E11 — Romancing the Beef
-URL: https://watchwiththekids.com/ep/bobs-burgers/1111.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1111
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -2967,7 +2967,7 @@ Watch for:
   - [Mild] They look a little drunk and bloated.
 
 ## S11 E12 — Die Card, or Card Trying
-URL: https://watchwiththekids.com/ep/bobs-burgers/1112.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1112
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2976,7 +2976,7 @@ Watch for:
   - [Mild] We make a hang glider out of Dad's underwear, and we glide down to the parking lot - and go home.
 
 ## S11 E13 — An Incon-wheelie-ent Truth
-URL: https://watchwiththekids.com/ep/bobs-burgers/1113.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1113
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -2985,7 +2985,7 @@ Watch for:
   - [Caution] Um, maybe we should stay in the pocket knife family.
 
 ## S11 E14 — Mr. Lonely Farts
-URL: https://watchwiththekids.com/ep/bobs-burgers/1114.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1114
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 10 moment(s)
@@ -3005,7 +3005,7 @@ Watch for:
   - [Mild] “Aah! What the hell?!”
 
 ## S11 E15 — Sheshank Redumption
-URL: https://watchwiththekids.com/ep/bobs-burgers/1115.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1115
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -3018,7 +3018,7 @@ Watch for:
   - [Too much] Well, what about murderers? Well, murder is bad, too, but at least it's not pooping outside like some kind of psycho.
 
 ## S11 E16 — Y Tu Tina Tambien
-URL: https://watchwiththekids.com/ep/bobs-burgers/1116.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1116
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -3029,7 +3029,7 @@ Watch for:
   - [Mild] They're not gonna be wasted.
 
 ## S11 E17 — Fingers-loose
-URL: https://watchwiththekids.com/ep/bobs-burgers/1117.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1117
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3041,14 +3041,14 @@ Watch for:
   - [Mild] Damn it. Damn it. Damn it! I took a little break for a sloppy joe, and stumbled sideways into a mess of my own.
 
 ## S11 E18 — Some Kind of Fender Benderful
-URL: https://watchwiththekids.com/ep/bobs-burgers/1118.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1118
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Is that man punching the air? Yes. He's, uh, he-he's one of our customers.
 
 ## S11 E19 — Bridge Over Troubled Rudy
-URL: https://watchwiththekids.com/ep/bobs-burgers/1119.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1119
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3058,7 +3058,7 @@ Watch for:
   - [Mild] I mean, pizza and beers on me when this is all over, eh? If that thing doesn't blow up and kill us all.
 
 ## S11 E20 — Steal Magazine-olias
-URL: https://watchwiththekids.com/ep/bobs-burgers/1120.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1120
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3068,12 +3068,12 @@ Watch for:
   - [Caution] And dirt. And blood? Oh, it's probably ketchup.
 
 ## S11 E21 — Tell Me Dumb Thing Good
-URL: https://watchwiththekids.com/ep/bobs-burgers/1121.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1121
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S11 E22 — Vampire Disco Death Dance
-URL: https://watchwiththekids.com/ep/bobs-burgers/1122.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1122
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3085,7 +3085,7 @@ Watch for:
   - [Caution] Yeah. Oh. That guy's dressed up as Vamp von Tramp, the vampire gigolo.
 
 ## S12 E1 — Manic Pixie Crap Show
-URL: https://watchwiththekids.com/ep/bobs-burgers/1201.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1201
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -3094,7 +3094,7 @@ Watch for:
   - [Too much] His back-story is he was framed for his wife's murder.
 
 ## S12 E2 — Crystal Mess
-URL: https://watchwiththekids.com/ep/bobs-burgers/1202.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1202
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3106,7 +3106,7 @@ Watch for:
   - [Too much] “Only stab you a little”
 
 ## S12 E3 — The Pumpkinening
-URL: https://watchwiththekids.com/ep/bobs-burgers/1203.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1203
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3116,12 +3116,12 @@ Watch for:
   - [Too much] Because she murdered someone? No. Not everyone murders someone, Gayle.
 
 ## S12 E4 — Driving Big Dummy
-URL: https://watchwiththekids.com/ep/bobs-burgers/1204.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1204
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S12 E5 — Seven-tween Again
-URL: https://watchwiththekids.com/ep/bobs-burgers/1205.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1205
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -3135,7 +3135,7 @@ Watch for:
   - [Mild] (ENTRY BELL JINGLES) Got room for a reverse cowlick? Linda? LINDA: (BURPS) Oh, that wine.
 
 ## S12 E6 — Beach, Please
-URL: https://watchwiththekids.com/ep/bobs-burgers/1206.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1206
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3143,7 +3143,7 @@ Watch for:
   - [Mild] Do you think it feels naked? Should we toss a shirt on it? Well, you did it, Louise.
 
 ## S12 E7 — Loft in Bedslation
-URL: https://watchwiththekids.com/ep/bobs-burgers/1207.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1207
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3151,7 +3151,7 @@ Watch for:
   - [Caution] “Up there, sleeping with the gods”
 
 ## S12 E8 — Stuck in the Kitchen with You
-URL: https://watchwiththekids.com/ep/bobs-burgers/1208.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1208
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3163,7 +3163,7 @@ Watch for:
   - [Caution] Whoa, what's that? Some kind of kitchen gun? Sort of. It's a torch used for finishing crÃ¨me brÃ»lÃ©e.
 
 ## S12 E9 — FOMO You Didn't
-URL: https://watchwiththekids.com/ep/bobs-burgers/1209.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1209
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3172,14 +3172,14 @@ Watch for:
   - [Mild] And Mom's boob was fine.
 
 ## S12 E10 — Gene's Christmas Break
-URL: https://watchwiththekids.com/ep/bobs-burgers/1210.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1210
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] I said one thing! Oh, Daddy. You need a big ol' beer.
 
 ## S12 E11 — Touch of Eval
-URL: https://watchwiththekids.com/ep/bobs-burgers/1211.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1211
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -3190,7 +3190,7 @@ Watch for:
   - [Mild] Wow, sounds like you went, I want to say, way too far? What? No, Tina, I punched up.
 
 ## S12 E12 — Ferry on My Wayward Bob and Linda
-URL: https://watchwiththekids.com/ep/bobs-burgers/1212.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1212
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3206,7 +3206,7 @@ Watch for:
   - [Mild] Then I beat her again, and then I beat my other friend, and then I beat some guy who was annoyed that I'd been playing so long, and then I beat his dumb friend.
 
 ## S12 E13 — Frigate Me Knot
-URL: https://watchwiththekids.com/ep/bobs-burgers/1213.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1213
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3219,7 +3219,7 @@ Watch for:
   - [Mild] Where have you been? I stress-ate all the crab cakes, and now I'm starting in on the cocktail weenies, and everyone keeps giving me the evil eye.
 
 ## S12 E14 — Video Killed the Gene-io Star
-URL: https://watchwiththekids.com/ep/bobs-burgers/1214.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1214
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3230,7 +3230,7 @@ Watch for:
   - [Caution] But there's no blood.
 
 ## S12 E15 — Ancient Misbehavin'
-URL: https://watchwiththekids.com/ep/bobs-burgers/1215.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1215
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -3249,7 +3249,7 @@ Watch for:
   - [Mild] Everything else here is cold, but the beer is warm.
 
 ## S12 E17 — The Spider House Rules
-URL: https://watchwiththekids.com/ep/bobs-burgers/1217.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1217
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3266,7 +3266,7 @@ Watch for:
   - [Mild] A bottle of wine would be a nice send-off gesture.
 
 ## S12 E18 — Clear and Present Ginger
-URL: https://watchwiththekids.com/ep/bobs-burgers/1218.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1218
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3284,14 +3284,14 @@ Watch for:
   - [Mild] I have some tequila someone left in the hallway we can drink.
 
 ## S12 E19 — A-Sprout a Boy
-URL: https://watchwiththekids.com/ep/bobs-burgers/1219.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1219
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “and I'd had some beer,”
 
 ## S12 E20 — Sauce Side Story
-URL: https://watchwiththekids.com/ep/bobs-burgers/1220.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1220
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 8 moment(s)
@@ -3305,7 +3305,7 @@ Watch for:
   - [Mild] “at her wedding and then punched me?”
 
 ## S12 E21 — Grade Runner
-URL: https://watchwiththekids.com/ep/bobs-burgers/1221.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1221
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3319,14 +3319,14 @@ Watch for:
   - [Mild] Good if you need to run out for wine, too.
 
 ## S12 E22 — Some Like It Bot Part 2: Judge-bot Day
-URL: https://watchwiththekids.com/ep/bobs-burgers/1222.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1222
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] I can't find the erotic, sexy stories anywhere.
 
 ## S13 E1 — To Bob, or Not to Bob
-URL: https://watchwiththekids.com/ep/bobs-burgers/1301.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1301
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3341,12 +3341,12 @@ Watch for:
   - [Caution] with your big, knife-sharpening mitts.
 
 ## S13 E2 — The Reeky Lake Show
-URL: https://watchwiththekids.com/ep/bobs-burgers/1302.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1302
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S13 E3 — What About Job?
-URL: https://watchwiththekids.com/ep/bobs-burgers/1303.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1303
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3358,7 +3358,7 @@ Watch for:
   - [Mild] Oh, Zeke captains a booze cruise
 
 ## S13 E4 — Comet-y of Errors
-URL: https://watchwiththekids.com/ep/bobs-burgers/1304.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1304
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -3370,7 +3370,7 @@ Watch for:
   - [Caution] Sea-weed. Like, see, like, look.
 
 ## S13 E5 — So You Stink You Can Dance
-URL: https://watchwiththekids.com/ep/bobs-burgers/1305.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1305
 Scores: violence 1/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3389,12 +3389,12 @@ Watch for:
   - [Mild] precious spirit, damn it.
 
 ## S13 E6 — Apple Gore-chard!
-URL: https://watchwiththekids.com/ep/bobs-burgers/1306.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1306
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S13 E7 — Ready Player Gene
-URL: https://watchwiththekids.com/ep/bobs-burgers/1307.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1307
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3402,7 +3402,7 @@ Watch for:
   - [Mild] punch. Asteroid punch.
 
 ## S13 E8 — Putts-giving
-URL: https://watchwiththekids.com/ep/bobs-burgers/1308.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1308
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3412,7 +3412,7 @@ Watch for:
   - [Mild] And have wine?
 
 ## S13 E9 — Show Mama from the Grave
-URL: https://watchwiththekids.com/ep/bobs-burgers/1309.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1309
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3420,14 +3420,14 @@ Watch for:
   - [Mild] your side. A little side boob.
 
 ## S13 E10 — The Plight Before Christmas
-URL: https://watchwiththekids.com/ep/bobs-burgers/1310.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1310
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] and someone punched you
 
 ## S13 E11 — Cheaty Cheaty Bang Bang
-URL: https://watchwiththekids.com/ep/bobs-burgers/1311.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1311
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3437,26 +3437,26 @@ Watch for:
   - [Too much] Should we go murder the puppet?
 
 ## S13 E12 — Oh Row You Didn't
-URL: https://watchwiththekids.com/ep/bobs-burgers/1312.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1312
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S13 E13 — Stop! Or My Mom Will Sleuth!
-URL: https://watchwiththekids.com/ep/bobs-burgers/1313.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1313
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] They wanted to murder it.
 
 ## S13 E14 — These Boots Are Made for Stalking
-URL: https://watchwiththekids.com/ep/bobs-burgers/1314.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1314
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] I wanna punch you in the face. ♪
 
 ## S13 E15 — The Show (And Tell) Must Go On
-URL: https://watchwiththekids.com/ep/bobs-burgers/1315.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1315
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3466,7 +3466,7 @@ Watch for:
   - [Mild] And three beers, thanks.
 
 ## S13 E16 — What a (April) Fool Believes
-URL: https://watchwiththekids.com/ep/bobs-burgers/1316.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1316
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -3482,7 +3482,7 @@ Watch for:
   - [Mild] have a beer sometime.
 
 ## S13 E17 — Crows Encounters of the Bird Kind
-URL: https://watchwiththekids.com/ep/bobs-burgers/1317.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1317
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3491,21 +3491,21 @@ Watch for:
   - [Mild] I'm slapping them with a fine.
 
 ## S13 E18 — Gift Card or Buy Trying
-URL: https://watchwiththekids.com/ep/bobs-burgers/1318.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1318
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] and toilet paper an medicine and wine.
 
 ## S13 E19 — Crab-solutely Fabulous
-URL: https://watchwiththekids.com/ep/bobs-burgers/1319.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1319
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Sponge-Boob Square-Bra.
 
 ## S13 E20 — Radio No You Didn't
-URL: https://watchwiththekids.com/ep/bobs-burgers/1320.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1320
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3513,7 +3513,7 @@ Watch for:
   - [Too much] GENE: “Nipple him! Then take”
 
 ## S13 E21 — Mother Author Laser Pointer
-URL: https://watchwiththekids.com/ep/bobs-burgers/1321.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1321
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3523,7 +3523,7 @@ Watch for:
   - [Too much] Don't do a murder-suicide.
 
 ## S13 E22 — Amelia
-URL: https://watchwiththekids.com/ep/bobs-burgers/1322.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1322
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3532,14 +3532,14 @@ Watch for:
   - [Mild] Uh, hey, Lin. Uh, nice wine.
 
 ## S14 E1 — Fight at the Not Okay Chore-ral
-URL: https://watchwiththekids.com/ep/bobs-burgers/1401.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1401
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] I'm not wearing the right bra for this.
 
 ## S14 E2 — The Amazing Rudy
-URL: https://watchwiththekids.com/ep/bobs-burgers/1402.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1402
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3552,7 +3552,7 @@ Watch for:
   - [Mild] Beer pong, anyone?
 
 ## S14 E3 — The Pickleorette
-URL: https://watchwiththekids.com/ep/bobs-burgers/1403.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1403
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3576,19 +3576,19 @@ Watch for:
   - [Mild] Good wine at this place, huh?
 
 ## S14 E4 — Running Down a Gene
-URL: https://watchwiththekids.com/ep/bobs-burgers/1404.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1404
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] the underwear on the floor.
 
 ## S14 E5 — Bully-ieve It or Not
-URL: https://watchwiththekids.com/ep/bobs-burgers/1405.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1405
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E6 — Escape from Which Island?
-URL: https://watchwiththekids.com/ep/bobs-burgers/1406.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1406
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3613,7 +3613,7 @@ Watch for:
   - [Mild] Hi, I'm drunk.
 
 ## S14 E7 — The (Raccoon) King and I
-URL: https://watchwiththekids.com/ep/bobs-burgers/1407.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1407
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -3621,7 +3621,7 @@ Watch for:
   - [Mild] And wine. Full-bodied reds.
 
 ## S14 E8 — Wharf, Me Worry?
-URL: https://watchwiththekids.com/ep/bobs-burgers/1408.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1408
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3632,12 +3632,12 @@ Watch for:
   - [Too much] murder out of people's eyes.
 
 ## S14 E9 — Fraud of the Dead: Docu-pocalypse
-URL: https://watchwiththekids.com/ep/bobs-burgers/1409.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1409
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E10 — The Nightmare 2 Days Before Christmas
-URL: https://watchwiththekids.com/ep/bobs-burgers/1410.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1410
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3651,12 +3651,12 @@ Watch for:
   - [Mild] wine reindeer glasses
 
 ## S14 E11 — Mission Impossi-Bob
-URL: https://watchwiththekids.com/ep/bobs-burgers/1411.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1411
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E12 — Jade in the Shade
-URL: https://watchwiththekids.com/ep/bobs-burgers/1412.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1412
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3670,7 +3670,7 @@ Watch for:
   - [Mild] our updated cocktail list
 
 ## S14 E13 — Butt Sweat and Fears
-URL: https://watchwiththekids.com/ep/bobs-burgers/1413.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1413
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3682,12 +3682,12 @@ Watch for:
   - [Caution] That one got my blood pumping.
 
 ## S14 E14 — The Big Stieblitzki
-URL: https://watchwiththekids.com/ep/bobs-burgers/1414.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1414
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S14 E15 — The Right Tough Stuff
-URL: https://watchwiththekids.com/ep/bobs-burgers/1415.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1415
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3696,7 +3696,7 @@ Watch for:
   - [Mild] Maybe with a little less of my underwear
 
 ## S14 E16 — To Catch a Beef
-URL: https://watchwiththekids.com/ep/bobs-burgers/1416.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1416
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -3707,7 +3707,7 @@ Watch for:
   - [Caution] um, "Burn one, bloody,
 
 ## S15 E1 — The Tina Table: The Tables Have Tina-Ed
-URL: https://watchwiththekids.com/ep/bobs-burgers/1501.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1501
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3716,7 +3716,7 @@ Watch for:
   - [Caution] Like, the blood dripping off the machete
 
 ## S15 E2 — Saving Favorite Drive-In
-URL: https://watchwiththekids.com/ep/bobs-burgers/1502.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1502
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3724,7 +3724,7 @@ Watch for:
   - [Too much] I'm not a murderer.
 
 ## S15 E3 — Colon-ly the Dronely
-URL: https://watchwiththekids.com/ep/bobs-burgers/1503.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1503
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3736,7 +3736,7 @@ Watch for:
   - [Caution] Is our school Top Gun?
 
 ## S15 E4 — For Whom the Doll Toes
-URL: https://watchwiththekids.com/ep/bobs-burgers/1504.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1504
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -3749,7 +3749,7 @@ Watch for:
   - [Caution] in his own blood.
 
 ## S15 E5 — Don't Stop Be-Cheesin
-URL: https://watchwiththekids.com/ep/bobs-burgers/1505.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1505
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -3757,7 +3757,7 @@ Watch for:
   - [Mild] can totally beat them.
 
 ## S15 E6 — Hope N' Mic Night
-URL: https://watchwiththekids.com/ep/bobs-burgers/1506.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1506
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3769,7 +3769,7 @@ Watch for:
   - [Mild] Couldn't it be a wine bar?
 
 ## S15 E7 — Boogie Days
-URL: https://watchwiththekids.com/ep/bobs-burgers/1507.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1507
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3785,7 +3785,7 @@ Watch for:
   - [Mild] Some beer for your tears.
 
 ## S15 E8 — They Slug Horses, Don't They?
-URL: https://watchwiththekids.com/ep/bobs-burgers/1508.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1508
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -3797,14 +3797,14 @@ Watch for:
   - [Mild] and plastic champagne flutes.
 
 ## S15 E9 — Dog Christmas Day After Afternoon
-URL: https://watchwiththekids.com/ep/bobs-burgers/1509.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1509
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] Pour some whiskey in mine.
 
 ## S15 E10 — Advice Things Are Ad-nice
-URL: https://watchwiththekids.com/ep/bobs-burgers/1510.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1510
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -3814,7 +3814,7 @@ Watch for:
   - [Mild] beers. They were so cold.
 
 ## S15 E11 — Mr. Fischoeder's Opus
-URL: https://watchwiththekids.com/ep/bobs-burgers/1511.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1511
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3823,7 +3823,7 @@ Watch for:
   - [Mild] Superior Cocktails.
 
 ## S15 E12 — Like a Candle in the Gym
-URL: https://watchwiththekids.com/ep/bobs-burgers/1512.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1512
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -3832,14 +3832,14 @@ Watch for:
   - [Caution] Yes, they are. Yucky, bloody feet.
 
 ## S15 E13 — Snackface
-URL: https://watchwiththekids.com/ep/bobs-burgers/1513.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1513
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] ready to be punched ♪
 
 ## S15 E14 — The Place Beyond the Pinecones
-URL: https://watchwiththekids.com/ep/bobs-burgers/1514.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1514
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -3849,7 +3849,7 @@ Watch for:
   - [Mild] I could beat up a wolf.
 
 ## S15 E15 — The Lost City of Atlantic
-URL: https://watchwiththekids.com/ep/bobs-burgers/1515.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1515
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3868,7 +3868,7 @@ Watch for:
   - [Caution] A lot mad, you gramp tramp.
 
 ## S15 E16 — The Shell Game
-URL: https://watchwiththekids.com/ep/bobs-burgers/1516.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1516
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -3885,21 +3885,21 @@ Watch for:
   - [Mild] drink lingonberry wine,
 
 ## S15 E17 — Wild Steal-ions
-URL: https://watchwiththekids.com/ep/bobs-burgers/1517.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1517
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] super sexy horses book.
 
 ## S15 E18 — Don't Worry, Be Hoopy
-URL: https://watchwiththekids.com/ep/bobs-burgers/1518.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1518
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sexual insults — 1 moment(s)
   - [Caution] "a skanky skank
 
 ## S15 E19 — The Dead Bo-ats Society
-URL: https://watchwiththekids.com/ep/bobs-burgers/1519.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1519
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -3911,7 +3911,7 @@ Watch for:
   - [Caution] bloodthirsty dog there.
 
 ## S15 E20 — Dad-urday Kite Fever
-URL: https://watchwiththekids.com/ep/bobs-burgers/1520.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1520
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3923,7 +3923,7 @@ Watch for:
   - [Caution] I want to get high as a kite.
 
 ## S15 E21 — Mr. Safebody
-URL: https://watchwiththekids.com/ep/bobs-burgers/1521.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1521
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -3935,7 +3935,7 @@ Watch for:
   - [Mild] throat punches the other.
 
 ## S15 E22 — Insomnibob
-URL: https://watchwiththekids.com/ep/bobs-burgers/1522.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1522
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -3945,7 +3945,7 @@ Watch for:
   - [Mild] or was it burger wine?
 
 ## S16 E2 — 'Til Death Do Us Art
-URL: https://watchwiththekids.com/ep/bobs-burgers/1602.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1602
 Scores: violence 3/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -3960,7 +3960,7 @@ Watch for:
   - [Caution] In blood, I assume, right?
 
 ## S16 E3 — The Twinnening
-URL: https://watchwiththekids.com/ep/bobs-burgers/1603.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1603
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -3973,7 +3973,7 @@ Watch for:
   - [Mild] Punch in 0000, and then the pound sign.
 
 ## S16 E4 — The Skids in the Hall
-URL: https://watchwiththekids.com/ep/bobs-burgers/1604.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1604
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -3983,7 +3983,7 @@ Watch for:
   - [Mild] I forgot my underwear,
 
 ## S16 E5 — The Secret Guardin'
-URL: https://watchwiththekids.com/ep/bobs-burgers/1605.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1605
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -3996,14 +3996,14 @@ Watch for:
   - [Mild] I'm Teddy. Catholic as hell.
 
 ## S16 E6 — Get Her to the Zeke
-URL: https://watchwiththekids.com/ep/bobs-burgers/1606.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1606
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] He had a little gun.
 
 ## S16 E7 — Tube for Tina
-URL: https://watchwiththekids.com/ep/bobs-burgers/1607.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1607
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -4012,7 +4012,7 @@ Watch for:
   - [Mild] around the house naked,
 
 ## S16 E8 — Les Lizárdables
-URL: https://watchwiththekids.com/ep/bobs-burgers/1608.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1608
 Scores: violence 2/5, sex 4/5, language 3/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -4034,7 +4034,7 @@ Watch for:
   - [Caution] Are you trying to say "skank"?
 
 ## S16 E9 — It's a Stunterful Life
-URL: https://watchwiththekids.com/ep/bobs-burgers/1609.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1609
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -4044,7 +4044,7 @@ Watch for:
   - [Too much] of not feeling my penis?
 
 ## S16 E10 — Heist Things Are Heist
-URL: https://watchwiththekids.com/ep/bobs-burgers/1610.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1610
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 5 moment(s)
@@ -4061,7 +4061,7 @@ Watch for:
   - [Mild] for access to the wine patio.
 
 ## S16 E11 — The Keyboard Kid
-URL: https://watchwiththekids.com/ep/bobs-burgers/1611.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1611
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4074,7 +4074,7 @@ Watch for:
   - [Mild] And wine. And the perfect pineapple
 
 ## S16 E12 — Children of the Carn
-URL: https://watchwiththekids.com/ep/bobs-burgers/1612.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1612
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -4098,7 +4098,7 @@ Watch for:
   - [Mild] this fun beer bottle collection?
 
 ## S16 E13 — Driving Miss Ragey
-URL: https://watchwiththekids.com/ep/bobs-burgers/1613.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1613
 Scores: violence 1/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -4115,7 +4115,7 @@ Watch for:
   - [Mild] Crunch on this, you bastard!
 
 ## S16 E14 — Stuck in the Middle with Hu(go)
-URL: https://watchwiththekids.com/ep/bobs-burgers/1614.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1614
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -4131,7 +4131,7 @@ Watch for:
   - [Mild] That guy has made our life hell.
 
 ## S16 E15 — Smellbound
-URL: https://watchwiththekids.com/ep/bobs-burgers/1615.html
+URL: https://watchwiththekids.com/ep/bobs-burgers/1615
 Scores: violence 3/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)

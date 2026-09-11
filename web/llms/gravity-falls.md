@@ -1,11 +1,11 @@
 # Gravity Falls — parent guide (40 episodes)
 
-Source: https://watchwiththekids.com/gravity-falls.html
+Source: https://watchwiththekids.com/gravity-falls
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 31 mild (1–2), 9 caution (3), 0 too much (4–5).
 
 ## S1 E1 — Tourist Trapped
-URL: https://watchwiththekids.com/ep/gravity-falls/0101.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0101
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -15,7 +15,7 @@ Watch for:
   - [Mild] Mabel elbow punches a gnome off. Shmebulock jumps up behind Dipper, who grabs him and slams him into the steering wheel out of annoyance.
 
 ## S1 E2 — The Legend of the Gobblewonker
-URL: https://watchwiththekids.com/ep/gravity-falls/0102.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0102
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -23,7 +23,7 @@ Watch for:
   - [Mild] (Punching each other excitedly and walking towards the sound) Yes yes yes! Hoo hoo hoo!
 
 ## S1 E3 — Headhunters
-URL: https://watchwiththekids.com/ep/gravity-falls/0103.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0103
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 11 moment(s)
@@ -40,7 +40,7 @@ Watch for:
   - [Mild] Wax Shakespeare's hands still move, and begin strangling Mabel.
 
 ## S1 E4 — The Hand That Rocks the Mabel
-URL: https://watchwiththekids.com/ep/gravity-falls/0104.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0104
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -50,7 +50,7 @@ Watch for:
   - [Mild] Dipper and Gideon scream. Gideon slaps Dipper and the two start slapping each other and then start screaming again. Mabel, who is holding the mystic amulet, levitates the two of them and then floats down.
 
 ## S1 E5 — The Inconveniencing
-URL: https://watchwiththekids.com/ep/gravity-falls/0105.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0105
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -62,7 +62,7 @@ Watch for:
   - [Mild] Go, Dipper! Punch that metal thing!
 
 ## S1 E6 — Dipper vs. Manliness
-URL: https://watchwiththekids.com/ep/gravity-falls/0106.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0106
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -74,7 +74,7 @@ Watch for:
   - [Mild] Man! Man! Man! Man! (continue chanting while pituitaur is punching another manotaur in the face)
 
 ## S1 E7 — Double Dipper
-URL: https://watchwiththekids.com/ep/gravity-falls/0107.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0107
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -83,12 +83,12 @@ Watch for:
   - [Mild] Slapping Dipper) Quit hitting myself, quit hitting myself! (Is tackled by Number 8
 
 ## S1 E8 — Irrational Treasure
-URL: https://watchwiththekids.com/ep/gravity-falls/0108.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0108
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E9 — The Time Traveler's Pig
-URL: https://watchwiththekids.com/ep/gravity-falls/0109.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0109
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -99,7 +99,7 @@ Watch for:
   - [Caution] Ooooooohhhhhhh! (picks him up) Your face is so fat!
 
 ## S1 E10 — Fight Fighters
-URL: https://watchwiththekids.com/ep/gravity-falls/0110.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0110
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -111,7 +111,7 @@ Watch for:
   - [Mild] HAHAHAHAHA! (Repeatedly punches the support beam)
 
 ## S1 E11 — Little Dipper
-URL: https://watchwiththekids.com/ep/gravity-falls/0111.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0111
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -119,7 +119,7 @@ Watch for:
   - [Mild] Maybe it can. (Pulls out Swiss army knife with scissors, cuts the rope freeing the discount dollar and they start flying away)
 
 ## S1 E12 — Summerween
-URL: https://watchwiththekids.com/ep/gravity-falls/0112.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0112
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -127,7 +127,7 @@ Watch for:
   - [Caution] (Holding leaking container of fake blood) Uh-oh. Think this one's leaking!
 
 ## S1 E13 — Boss Mabel
-URL: https://watchwiththekids.com/ep/gravity-falls/0113.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0113
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -135,7 +135,7 @@ Watch for:
   - [Mild] Comes up with a large moving bag) Mabel! I captured something! This is gonna blow those tourists away! Ha ha! (The creature inside the bag grabs Dipper's arm, and Dipper punches it repeatably, and the creature lets go.
 
 ## S1 E14 — Bottomless Pit!
-URL: https://watchwiththekids.com/ep/gravity-falls/0114.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0114
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -144,14 +144,14 @@ Watch for:
   - [Caution] Oh, and I do. You see, I lied to you. In addition I've been parking in handicapped spaces, shoplifting fireworks and smuggling endangered animals across multiple state lines. Also, you're fat.
 
 ## S1 E15 — The Deep End
-URL: https://watchwiththekids.com/ep/gravity-falls/0115.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0115
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Well, thanks, I— (Mr. Poolcheck strangles him in a hug.) Yep. Oh, this is happening.
 
 ## S1 E16 — Carpet Diem
-URL: https://watchwiththekids.com/ep/gravity-falls/0116.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0116
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -166,14 +166,14 @@ Watch for:
   - [Caution] I said, uh, shut up old man! You're fat and dumb and you're a dummy and, take that! (Lightly punches Stan on the arm)
 
 ## S1 E17 — Boyz Crazy
-URL: https://watchwiththekids.com/ep/gravity-falls/0117.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0117
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Finally, a good reason to punch a teenager in the face. Let's roll!
 
 ## S1 E18 — Land Before Swine
-URL: https://watchwiththekids.com/ep/gravity-falls/0118.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0118
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -189,7 +189,7 @@ Watch for:
   - [Caution] snorts and cocks head
 
 ## S1 E19 — Dreamscaperers
-URL: https://watchwiththekids.com/ep/gravity-falls/0119.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0119
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -201,7 +201,7 @@ Watch for:
   - [Mild] Left hook! (Punches the man in the face, shattering his teeth)
 
 ## S1 E20 — Gideon Rises
-URL: https://watchwiththekids.com/ep/gravity-falls/0120.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0120
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -210,7 +210,7 @@ Watch for:
   - [Mild] (Shoots water guns at Dipper and Mabel and pops out of cardboard box) Soos-ed!
 
 ## S2 E1 — Scary-Oke
-URL: https://watchwiththekids.com/ep/gravity-falls/0201.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0201
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -219,7 +219,7 @@ Watch for:
   - [Mild] (Pulls a zombie head off his jacket and watches it dissolve in his hand) This is bigger than we imagined. We need to bring in the big guns.
 
 ## S2 E2 — Into the Bunker
-URL: https://watchwiththekids.com/ep/gravity-falls/0202.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0202
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -227,7 +227,7 @@ Watch for:
   - [Mild] Two! (Punches symbol)
 
 ## S2 E3 — The Golf War
-URL: https://watchwiththekids.com/ep/gravity-falls/0203.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0203
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -237,7 +237,7 @@ Watch for:
   - [Mild] Yeah! If you beat her at this, she could never rag on you again. Imagine it!
 
 ## S2 E4 — Sock Opera
-URL: https://watchwiththekids.com/ep/gravity-falls/0204.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0204
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -246,7 +246,7 @@ Watch for:
   - [Mild] Ha! Ha! Ha! (punches her arm and Candy and Grenda laugh) Okay, fine! You know what? I'll do it on my own! (in attic, typing) Passwords. Passwords. Mabel. Is. Useless. (Yawns) Oh, man...
 
 ## S2 E5 — Soos and the Real Girl
-URL: https://watchwiththekids.com/ep/gravity-falls/0205.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0205
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -258,7 +258,7 @@ Watch for:
   - [Mild] Stay back, you monster! (Gets punched into the dumpster. Willie gets ready for the final punch, but Stan ducks and it hits Old Goldie, who bites his hand) Yes, yes, get 'em Goldie, get 'em!
 
 ## S2 E6 — Little Gift Shop of Horrors
-URL: https://watchwiththekids.com/ep/gravity-falls/0206.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0206
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -270,7 +270,7 @@ Watch for:
   - [Mild] Kid, I'm sorry I doubted you. (Punches through clay). You were right! Stop-motion is pure evil.
 
 ## S2 E7 — Society of the Blind Eye
-URL: https://watchwiththekids.com/ep/gravity-falls/0207.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0207
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -279,7 +279,7 @@ Watch for:
   - [Mild] What is that gizmo? It looks like a hair dryer. Are you guys barbers? (The Lead Member zaps her with the gun.) AAAAAH!
 
 ## S2 E8 — Blendin's Game
-URL: https://watchwiththekids.com/ep/gravity-falls/0208.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0208
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -294,7 +294,7 @@ Watch for:
   - [Mild] Are you kidding me?! Do you have any idea what you’ve just wasted?! Do you how many have died to get the time wish; the wars that were started?!
 
 ## S2 E9 — The Love God
-URL: https://watchwiththekids.com/ep/gravity-falls/0209.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0209
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -306,7 +306,7 @@ Watch for:
   - [Mild] All according to plan. (He's hit again and his friends continue to cheer as the guards beat him senselessly)
 
 ## S2 E10 — Northwest Mansion Noir
-URL: https://watchwiththekids.com/ep/gravity-falls/0210.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0210
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -316,14 +316,14 @@ Watch for:
   - [Mild] Prepare the panic room. (Punches stuffed squirrel off of his shoulder)
 
 ## S2 E11 — Not What He Seems
-URL: https://watchwiththekids.com/ep/gravity-falls/0211.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0211
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Swearing — 1 moment(s)
   - [Caution] Several agents rappel out of a helicopter. Cut to the Mystery Shack attic, where agents crash in and cock their weapons.
 
 ## S2 E12 — A Tale of Two Stans
-URL: https://watchwiththekids.com/ep/gravity-falls/0212.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0212
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 9 moment(s)
@@ -340,7 +340,7 @@ Watch for:
   - [Mild] (Stoically) I'd say we wasted a car trip.
 
 ## S2 E13 — Dungeons, Dungeons, & More Dungeons
-URL: https://watchwiththekids.com/ep/gravity-falls/0213.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0213
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -348,7 +348,7 @@ Watch for:
   - [Mild] (Takes out a gun) Your math is no match for my gun, you idiot!
 
 ## S2 E14 — The Stanchurian Candidate
-URL: https://watchwiththekids.com/ep/gravity-falls/0214.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0214
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -358,7 +358,7 @@ Watch for:
   - [Mild] Is shrugging off birdseed) No, stop it! (turns to crowd) Thank you, but stop it! (eagles begin flying around Stan) Aah! Get back, you terror birds! (Stan punches them out and keeps climbing
 
 ## S2 E15 — The Last Mabelcorn
-URL: https://watchwiththekids.com/ep/gravity-falls/0215.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0215
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 7 moment(s)
@@ -371,7 +371,7 @@ Watch for:
   - [Mild] Candy, Grenda, Mabel and Wendy are behind her. They are all beat up and covered in unicorn fluids and tears.
 
 ## S2 E16 — Roadside Attraction
-URL: https://watchwiththekids.com/ep/gravity-falls/0216.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0216
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -384,7 +384,7 @@ Watch for:
   - [Mild] Truth is, I've been divorced once, and slapped more times than I can remember.
 
 ## S2 E17 — Dipper and Mabel vs. the Future
-URL: https://watchwiththekids.com/ep/gravity-falls/0217.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0217
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -396,7 +396,7 @@ Watch for:
   - [Caution] Also, if it touches you it will seal up all the orifices in your face, (cocks gun) so try to avoid that.
 
 ## S2 E18 — Weirdmageddon (1)
-URL: https://watchwiththekids.com/ep/gravity-falls/0218.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0218
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -408,7 +408,7 @@ Watch for:
   - [Mild] You think you can stop me? (Punches the air) Go ahead, Pine Tree, show me what you've got!
 
 ## S2 E19 — Weirdmageddon (2): Escape from Reality
-URL: https://watchwiththekids.com/ep/gravity-falls/0219.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0219
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -417,7 +417,7 @@ Watch for:
   - [Mild] Punch open the doors
 
 ## S2 E20 — Weirdmageddon (3): Take Back the Falls
-URL: https://watchwiththekids.com/ep/gravity-falls/0220.html
+URL: https://watchwiththekids.com/ep/gravity-falls/0220
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 10 moment(s)

@@ -1,11 +1,11 @@
 # Stranger Things — parent guide (34 episodes)
 
-Source: https://watchwiththekids.com/stranger-things.html
+Source: https://watchwiththekids.com/stranger-things
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 0 mild (1–2), 5 caution (3), 29 too much (4–5).
 
 ## S1 E1 — The Vanishing of Will Byers
-URL: https://watchwiththekids.com/ep/stranger-things/0101.html
+URL: https://watchwiththekids.com/ep/stranger-things/0101
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab.
 Watch for:
@@ -32,7 +32,7 @@ Watch for:
   - [Caution] “You mean, you're not a slut.”
 
 ## S1 E2 — The Weirdo on Maple Street
-URL: https://watchwiththekids.com/ep/stranger-things/0102.html
+URL: https://watchwiththekids.com/ep/stranger-things/0102
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.
 Watch for:
@@ -62,7 +62,7 @@ Watch for:
   - [Mild] “Make sure I don't get drunk and do anything stupid.”
 
 ## S1 E3 — Holly, Jolly
-URL: https://watchwiththekids.com/ep/stranger-things/0103.html
+URL: https://watchwiththekids.com/ep/stranger-things/0103
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.
 Watch for:
@@ -80,7 +80,7 @@ Watch for:
   - [Mild] “I told you she didn't know what the hell she was talking about!”
 
 ## S1 E4 — The Body
-URL: https://watchwiththekids.com/ep/stranger-things/0104.html
+URL: https://watchwiththekids.com/ep/stranger-things/0104
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover. Nancy and Jonathan form an unlikely alliance.
 Watch for:
@@ -99,7 +99,7 @@ Watch for:
   - [Mild] “don't mention the beers.”
 
 ## S1 E5 — The Flea and the Acrobat
-URL: https://watchwiththekids.com/ep/stranger-things/0105.html
+URL: https://watchwiththekids.com/ep/stranger-things/0105
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.
 Watch for:
@@ -120,7 +120,7 @@ Watch for:
   - [Mild] “[beer can clatters] -[both chuckle]”
 
 ## S1 E6 — The Monster
-URL: https://watchwiththekids.com/ep/stranger-things/0106.html
+URL: https://watchwiththekids.com/ep/stranger-things/0106
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: A frantic Jonathan looks for Nancy in the darkness, but Steve's looking for her, too. Hopper and Joyce uncover the truth about the lab's experiments.
 Watch for:
@@ -146,7 +146,7 @@ Watch for:
   - [Caution] “You don't want to be known as the lying slut now, do you?”
 
 ## S1 E7 — The Bathtub
-URL: https://watchwiththekids.com/ep/stranger-things/0107.html
+URL: https://watchwiththekids.com/ep/stranger-things/0107
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Eleven struggles to reach Will, while Lucas warns that "the bad men are coming." Nancy and Jonathan show the police what Jonathan caught on camera.
 Watch for:
@@ -168,7 +168,7 @@ Watch for:
   - [Caution] “The slut with a heart of gold.”
 
 ## S1 E8 — The Upside Down
-URL: https://watchwiththekids.com/ep/stranger-things/0108.html
+URL: https://watchwiththekids.com/ep/stranger-things/0108
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Dr. Brenner holds Hopper and Joyce for questioning while the boys wait with Eleven in the gym. Back at Will's, Nancy and Jonathan prepare for battle.
 Watch for:
@@ -191,7 +191,7 @@ Watch for:
   - [Mild] “Damn it. -[Mike] It roars in anger!”
 
 ## S2 E1 — Madmax
-URL: https://watchwiththekids.com/ep/stranger-things/0201.html
+URL: https://watchwiththekids.com/ep/stranger-things/0201
 Scores: violence 2/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.
 Watch for:
@@ -212,7 +212,7 @@ Watch for:
   - [Mild] “I said, "Hire yourself a damn lawyer. See how far that gets you."”
 
 ## S2 E2 — Trick or Treat, Freak
-URL: https://watchwiththekids.com/ep/stranger-things/0202.html
+URL: https://watchwiththekids.com/ep/stranger-things/0202
 Scores: violence 2/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: After Will sees something terrible on trick-or-treat night, Mike wonders whether Eleven's still out there. Nancy wrestles with the truth about Barb.
 Watch for:
@@ -233,7 +233,7 @@ Watch for:
   - [Mild] “No, it's fine. Wine makes me crazy.”
 
 ## S2 E3 — The Pollywog
-URL: https://watchwiththekids.com/ep/stranger-things/0203.html
+URL: https://watchwiththekids.com/ep/stranger-things/0203
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Dustin adopts a strange new pet, and Eleven grows increasingly impatient. A well-meaning Bob urges Will to stand up to his fears.
 Watch for:
@@ -257,7 +257,7 @@ Watch for:
   - [Mild] “People say stupid things when they're wasted.”
 
 ## S2 E4 — Will the Wise
-URL: https://watchwiththekids.com/ep/stranger-things/0204.html
+URL: https://watchwiththekids.com/ep/stranger-things/0204
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: An ailing Will opens up to Joyce -- with disturbing results. While Hopper digs for the truth, Eleven unearths a surprising discovery.
 Watch for:
@@ -272,7 +272,7 @@ Watch for:
   - [Mild] “Grow the hell up!”
 
 ## S2 E5 — Dig Dug
-URL: https://watchwiththekids.com/ep/stranger-things/0205.html
+URL: https://watchwiththekids.com/ep/stranger-things/0205
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Nancy and Jonathan swap conspiracy theories with a new ally as Eleven searches for someone from her past. "Bob the Brain" tackles a difficult problem.
 Watch for:
@@ -291,7 +291,7 @@ Watch for:
   - [Mild] “It's a central nervous system depressant. So yes, with vodka.”
 
 ## S2 E6 — The Spy
-URL: https://watchwiththekids.com/ep/stranger-things/0206.html
+URL: https://watchwiththekids.com/ep/stranger-things/0206
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Will's connection to a shadowy evil grows stronger, but no one's quite sure how to stop it. Elsewhere, Dustin and Steve forge an unlikely bond.
 Watch for:
@@ -313,7 +313,7 @@ Watch for:
   - [Mild] “Wasted. [sighs] -Yeah.”
 
 ## S2 E7 — The Lost Sister
-URL: https://watchwiththekids.com/ep/stranger-things/0207.html
+URL: https://watchwiththekids.com/ep/stranger-things/0207
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: Psychic visions draw Eleven to a band of violent outcasts and an angry girl with a shadowy past.
 Watch for:
@@ -331,7 +331,7 @@ Watch for:
   - [Mild] “Damn, Shirley. -[police sirens wailing]”
 
 ## S2 E8 — The Mind Flayer
-URL: https://watchwiththekids.com/ep/stranger-things/0208.html
+URL: https://watchwiththekids.com/ep/stranger-things/0208
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: An unlikely hero steps forward when a deadly development puts the Hawkins Lab on lockdown, trapping Will and several others inside.
 Watch for:
@@ -351,7 +351,7 @@ Watch for:
   - [Caution] “He's gonna call whatever whore he's seeing tonight”
 
 ## S2 E9 — The Gate
-URL: https://watchwiththekids.com/ep/stranger-things/0209.html
+URL: https://watchwiththekids.com/ep/stranger-things/0209
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Eleven makes plans to finish what she started while the survivors turn up the heat on the monstrous force that's holding Will hostage.
 Watch for:
@@ -373,7 +373,7 @@ Watch for:
   - [Mild] “The hell is this?”
 
 ## S3 E1 — Suzie, Do You Copy?
-URL: https://watchwiththekids.com/ep/stranger-things/0301.html
+URL: https://watchwiththekids.com/ep/stranger-things/0301
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: Summer brings new jobs and budding romance. But the mood shifts when Dustin's radio picks up a Russian broadcast, and Will senses something is wrong.
 Watch for:
@@ -394,7 +394,7 @@ Watch for:
   - [Caution] “You wanna be banned for life, lard-ass?”
 
 ## S3 E2 — The Mall Rats
-URL: https://watchwiththekids.com/ep/stranger-things/0302.html
+URL: https://watchwiththekids.com/ep/stranger-things/0302
 Scores: violence 1/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Nancy and Jonathan follow a lead, Steve and Robin sign on to a secret mission, and Max and Eleven go shopping. A rattled Billy has troubling visions.
 Watch for:
@@ -407,7 +407,7 @@ Watch for:
   - [Mild] “I caught one of the little bastards.”
 
 ## S3 E3 — The Case of the Missing Lifeguard
-URL: https://watchwiththekids.com/ep/stranger-things/0303.html
+URL: https://watchwiththekids.com/ep/stranger-things/0303
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: With El and Max looking for Billy, Will declares a day without girls. Steve and Dustin go on a stakeout, and Joyce and Hopper return to Hawkins Lab.
 Watch for:
@@ -429,7 +429,7 @@ Watch for:
   - [Mild] “♪ Them good ol' boys Were drinking whiskey and rye ♪”
 
 ## S3 E4 — The Sauna Test
-URL: https://watchwiththekids.com/ep/stranger-things/0304.html
+URL: https://watchwiththekids.com/ep/stranger-things/0304
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: A code red brings the gang back together to face a frighteningly familiar evil. Karen urges Nancy to keep digging, and Robin finds a useful map.
 Watch for:
@@ -455,7 +455,7 @@ Watch for:
   - [Mild] “Just press the damn button, nerd.”
 
 ## S3 E5 — The Flayed
-URL: https://watchwiththekids.com/ep/stranger-things/0305.html
+URL: https://watchwiththekids.com/ep/stranger-things/0305
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Strange surprises lurk inside an old farmhouse and deep beneath the Starcourt Mall. Meanwhile, the Mind Flayer is gathering strength.
 Watch for:
@@ -483,7 +483,7 @@ Watch for:
   - [Mild] “I mean, come on, if you drink this crap, it'll kill you.”
 
 ## S3 E6 — E Pluribus Unum
-URL: https://watchwiththekids.com/ep/stranger-things/0306.html
+URL: https://watchwiththekids.com/ep/stranger-things/0306
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Dr. Alexei reveals what the Russians have been building, and Eleven sees where Billy has been. Dustin and Erica stage a daring rescue.
 Watch for:
@@ -510,7 +510,7 @@ Watch for:
   - [Caution] “I said, get away! -You-- You whore!”
 
 ## S3 E7 — The Bite
-URL: https://watchwiththekids.com/ep/stranger-things/0307.html
+URL: https://watchwiththekids.com/ep/stranger-things/0307
 Scores: violence 3/5, sex 2/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: With time running out -- and an assassin close behind -- Hopper's crew races back to Hawkins, where El and the kids are preparing for war.
 Watch for:
@@ -542,7 +542,7 @@ Watch for:
   - [Caution] “Fatty foods, ugly decadence,”
 
 ## S3 E8 — The Battle of Starcourt
-URL: https://watchwiththekids.com/ep/stranger-things/0308.html
+URL: https://watchwiththekids.com/ep/stranger-things/0308
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Terror reigns in the food court when the Mind Flayer comes to collect. But down below, in the dark, the future of the world is at stake.
 Watch for:
@@ -562,7 +562,7 @@ Watch for:
   - [Mild] “He's a douchebag of the highest order, Robin.”
 
 ## S4 E1 — The Hellfire Club
-URL: https://watchwiththekids.com/ep/stranger-things/0401.html
+URL: https://watchwiththekids.com/ep/stranger-things/0401
 Scores: violence 3/5, sex 3/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: El is bullied at school. Joyce opens a mysterious package. A scrappy player shakes up D&D night.
 Watch for:
@@ -591,7 +591,7 @@ Watch for:
   - [Caution] “[voice distorting] …or I'm gonna gut you like the fat pig that you are.”
 
 ## S4 E2 — Vecna's Curse
-URL: https://watchwiththekids.com/ep/stranger-things/0402.html
+URL: https://watchwiththekids.com/ep/stranger-things/0402
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: A plane brings Mike to California — and a dead body brings Hawkins to a halt. Nancy goes looking for leads. A shaken Eddie tells the gang what he saw.
 Watch for:
@@ -623,7 +623,7 @@ Watch for:
   - [Mild] “I see a whole lot of beer around.”
 
 ## S4 E3 — The Monster and the Superhero
-URL: https://watchwiththekids.com/ep/stranger-things/0403.html
+URL: https://watchwiththekids.com/ep/stranger-things/0403
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 11+)
 Summary: Murray and Joyce fly to Alaska, and El faces serious consequences. Robin and Nancy dig up dirt on Hawkins' demons. Dr. Owens delivers sobering news.
 Watch for:
@@ -652,7 +652,7 @@ Watch for:
   - [Mild] “pound some beers,”
 
 ## S4 E4 — Dear Billy
-URL: https://watchwiththekids.com/ep/stranger-things/0404.html
+URL: https://watchwiththekids.com/ep/stranger-things/0404
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Max is in grave danger... and running out of time. A patient at Pennhurst asylum has visitors. Elsewhere, in Russia, Hopper is hard at work.
 Watch for:
@@ -679,7 +679,7 @@ Watch for:
   - [Mild] “[Mike] What the hell is going on?!”
 
 ## S4 E5 — The Nina Project
-URL: https://watchwiththekids.com/ep/stranger-things/0405.html
+URL: https://watchwiththekids.com/ep/stranger-things/0405
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Owens takes El to Nevada, where she's forced to confront her past, while the Hawkins kids comb a crumbling house for clues. Vecna claims another victim.
 Watch for:
@@ -702,7 +702,7 @@ Watch for:
   - [Mild] “but a cold beer would really calm my jangled nerves.”
 
 ## S4 E6 — The Dive
-URL: https://watchwiththekids.com/ep/stranger-things/0406.html
+URL: https://watchwiththekids.com/ep/stranger-things/0406
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Behind the Iron Curtain, a risky rescue mission gets underway. The California crew seeks help from a hacker. Steve takes one for the team.
 Watch for:
@@ -731,7 +731,7 @@ Watch for:
   - [Mild] “[in English] You are drunk, American.”
 
 ## S4 E7 — The Massacre at Hawkins Lab
-URL: https://watchwiththekids.com/ep/stranger-things/0407.html
+URL: https://watchwiththekids.com/ep/stranger-things/0407
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: As Hopper braces to battle a monster, Dustin dissects Vecna's motives — and decodes a message from beyond. El finds strength in a distant memory.
 Watch for:
@@ -756,7 +756,7 @@ Watch for:
   - [Mild] “Just inhaled a bunch of that crap. [coughs] It's stuck in my throat.”
 
 ## S4 E8 — Papa
-URL: https://watchwiththekids.com/ep/stranger-things/0408.html
+URL: https://watchwiththekids.com/ep/stranger-things/0408
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: Nancy has sobering visions, and El passes an important test. Back in Hawkins, the gang gathers supplies and prepares for battle.
 Watch for:
@@ -787,7 +787,7 @@ Watch for:
   - [Mild] “Flip that damn thumb around.”
 
 ## S4 E9 — The Piggyback
-URL: https://watchwiththekids.com/ep/stranger-things/0409.html
+URL: https://watchwiththekids.com/ep/stranger-things/0409
 Scores: violence 3/5, sex 1/5, language 4/5, overall 4/5 (Skip for under 13)
 Summary: With selfless hearts and a clash of metal, heroes fight from every corner of the battlefield to save Hawkins — and the world itself.
 Watch for:

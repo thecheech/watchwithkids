@@ -1,11 +1,11 @@
 # Malcolm in the Middle — parent guide (151 episodes)
 
-Source: https://watchwiththekids.com/malcolm-in-the-middle.html
+Source: https://watchwiththekids.com/malcolm-in-the-middle
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 99 mild (1–2), 46 caution (3), 6 too much (4–5).
 
 ## S1 E1 — Pilot
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0101.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0101
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -14,7 +14,7 @@ Watch for:
   - [Mild] “He goes to parties, drinks beer and goes skiing.”
 
 ## S1 E2 — Red Dress
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0102.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0102
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -25,7 +25,7 @@ Watch for:
   - [Mild] “Oh, can I have another vodka martini, please? Very good.”
 
 ## S1 E3 — Home Alone 4
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0103.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0103
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -36,7 +36,7 @@ Watch for:
   - [Mild] “So it wasn't a complete waste, and Mom always says it's not a wasted experience if you learn something from it.”
 
 ## S1 E4 — Shame
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0104.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0104
 Scores: violence 3/5, sex 2/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 4 moment(s)
@@ -56,7 +56,7 @@ Watch for:
   - [Mild] “I don't suppose there's a beer guy around here.”
 
 ## S1 E5 — Malcolm Babysits
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0105.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0105
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -72,7 +72,7 @@ Watch for:
   - [Mild] “They are sent off to Valhalla in flaming ships! They are not put in beer hats or used as photo props or given fake moustaches.”
 
 ## S1 E6 — Sleepover
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0106.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0106
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -84,7 +84,7 @@ Watch for:
   - [Caution] “You never stop bitching.”
 
 ## S1 E7 — Francis Escapes
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0107.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0107
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sexual insults — 2 moment(s)
@@ -92,7 +92,7 @@ Watch for:
   - [Caution] “No one's saying she's not a tramp.”
 
 ## S1 E8 — Krelboyne Picnic
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0108.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0108
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -101,14 +101,14 @@ Watch for:
   - [Caution] “Blood tastes funny.”
 
 ## S1 E9 — Lois vs. Evil
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0109.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0109
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “Not to mention the most talented sweet and sexy What? Francis are are you sure you're really how you are? Tanya, I'm so confused.”
 
 ## S1 E10 — Stock Car Races
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0110.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0110
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Swearing — 6 moment(s)
@@ -122,14 +122,14 @@ Watch for:
   - [Mild] “Get your dad a beer.”
 
 ## S1 E11 — Funeral
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0111.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0111
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “I don't want to go anymore! Just leave me alone! ( music continues ) ( music stops ) How could you let her see me in my underwear? Mom, this has gone too far.”
 
 ## S1 E12 — Cheerleader
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0112.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0112
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -138,7 +138,7 @@ Watch for:
   - [Caution] Spangler: “My mother was neither a madonna or a whore! She was a damn fine woman.”
 
 ## S1 E13 — Rollerskates
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0113.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0113
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -148,7 +148,7 @@ Watch for:
   - [Caution] “They paraded every Tom, Dick and Harry through that room to look at me.”
 
 ## S1 E14 — The Bots and the Bees
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0114.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0114
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -165,14 +165,14 @@ Watch for:
   - [Mild] “( gears growl ) What the hell is that thing? That thing is a little project we have been working on around here.”
 
 ## S1 E15 — Smunday
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0115.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0115
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] “Did Grandpa really punch Jimmy Carter in the face? No, he just threw a rock at the motorcade and ran off.”
 
 ## S1 E16 — Water Park (1)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0116.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0116
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -184,7 +184,7 @@ Watch for:
   - [Mild] “And I brought the cocktails.”
 
 ## S2 E1 — Traffic Jam (2)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0201.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0201
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -199,17 +199,17 @@ Watch for:
   - [Mild] “And you do not deserve to be an ice cream! Come here bastard! That's what you get for your trouble.”
 
 ## S2 E2 — Halloween Approximately
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0202.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0202
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S2 E3 — Lois's Birthday
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0203.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0203
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S2 E4 — Dinner Out
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0204.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0204
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -227,12 +227,12 @@ Watch for:
   - [Mild] “Her daddy got drunk.”
 
 ## S2 E5 — Casino
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0205.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0205
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S2 E6 — Convention
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0206.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0206
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -246,7 +246,7 @@ Watch for:
   - [Caution] “Come on guys! Not so fat! That cute! It's so cute! Yes .”
 
 ## S2 E7 — Robbery
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0207.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0207
 Scores: violence 3/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -258,7 +258,7 @@ Watch for:
   - [Caution] “…not know I felt something break, and if they were not my pants were inside me "I told you?, Fights illegal cock at least you won something.”
 
 ## S2 E8 — Therapy
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0208.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0208
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -269,7 +269,7 @@ Watch for:
   - [Mild] “That sucks! Where did that flame? Malcolm, I want you dear sientras relaxed.”
 
 ## S2 E9 — High School Play
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0209.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0209
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -278,14 +278,14 @@ Watch for:
   - [Caution] “know that our grief spirit and it never will Not worth it! seems I'm again the only man around here - I can not believe that Nicole is thus seen if you want to look like whore is well .”
 
 ## S2 E10 — The Bully
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0210.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0210
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “We can take the beating, but we should not use underwear in case we split our ups and half.”
 
 ## S2 E11 — Old Mrs. Old
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0211.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0211
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -296,7 +296,7 @@ Watch for:
   - [Too much] “…a major problem Very well, thank you I have to go Well, it was not her I need another bag Again? How the fuck up so much?”
 
 ## S2 E12 — Krelboyne Girl
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0212.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0212
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -304,7 +304,7 @@ Watch for:
   - [Mild] “No, I was thinking about what's in your bra! Well I mean .”
 
 ## S2 E13 — New Neighbors
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0213.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0213
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -319,7 +319,7 @@ Watch for:
   - [Mild] “…to call him "Oly" - Really? Do not you remember? They were joking and laughing like old friends drinking whiskey Much, much whiskey Clearly, if, right?”
 
 ## S2 E14 — Hal Quits
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0214.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0214
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -330,7 +330,7 @@ Watch for:
   - [Mild] “Do you know how many parties I missed this week? In many moves could have been how many girls could have known that drunk would have taken it off if I had been at his side to encourage them .”
 
 ## S2 E15 — The Grandparents
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0215.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0215
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -342,14 +342,14 @@ Watch for:
   - [Mild] “oh, I'm so full, I should not ask for another Are you all right Grandma? if you want I can take the bag or whiskey.”
 
 ## S2 E16 — Traffic Ticket
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0216.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0216
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Suicide & self-harm — 1 moment(s)
   - [Too much] “Are you kidding? "It's brilliant From now on what she says something it we take in the face! Francis, I can not! If I show this video mom go crazy! And then kill the messenger, that's me! You're asking me to suicide!”
 
 ## S2 E17 — Surgery
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0217.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0217
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -357,7 +357,7 @@ Watch for:
   - [Caution] “This is what we call "a hysterical patient" I'm not hysterical, I just think it would be a good idea I have another test decirdir blood before the body open up! Well that's a great idea, really great.”
 
 ## S2 E18 — Reese Cooks
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0218.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0218
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -367,7 +367,7 @@ Watch for:
   - [Caution] “What a surprise! The trick is to support rapid cutting knife on the knuckles and lifting Who cut it? I did.”
 
 ## S2 E19 — Tutoring Reese
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0219.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0219
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -377,14 +377,14 @@ Watch for:
   - [Too much] “I will put "the girls at the conference" No, no, no more porn! Brother, that's a documentary Au!, God! My eye! Try to find that one Francis, walk disgusting stuff.”
 
 ## S2 E20 — Bowling
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0220.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0220
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “Mom did not do this I mean it, you play bowling Oh, the hormones can be cut here with a knife What kind of parent leaves those children alone just like that.”
 
 ## S2 E21 — Malcolm vs. Reese
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0221.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0221
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 2 moment(s)
@@ -392,14 +392,14 @@ Watch for:
   - [Mild] “Totally sucks, Is not there anything fun to do here?”
 
 ## S2 E22 — Mini-Bike
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0222.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0222
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “But do not ever wash my things, I am only touches my underwear.”
 
 ## S2 E23 — Carnival
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0223.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0223
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -415,7 +415,7 @@ Watch for:
   - [Mild] “Dedicated to show us hell and send to an early grave These guys just do not know how much we suffer.”
 
 ## S2 E24 — Evacuation
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0224.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0224
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -425,12 +425,12 @@ Watch for:
   - [Caution] “blood does not circulate well.”
 
 ## S2 E25 — Flashback
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0225.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0225
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E1 — Houseboat (1)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0301.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0301
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -441,12 +441,12 @@ Watch for:
   - [Caution] “Watch out! > (CLATTERING) Dewey Can I see that spear gun? Sure.”
 
 ## S3 E2 — Emancipation (2)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0302.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0302
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E3 — Book Club
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0303.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0303
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -460,7 +460,7 @@ Watch for:
   - [Mild] “(ALL GIGGLE DRUNKENLY) Shhh!”
 
 ## S3 E4 — Malcolm's Girlfriend
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0304.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0304
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -479,7 +479,7 @@ Watch for:
   - [Caution] “Don't you wanna go to college? Don't you care about your future? You are not old enough to prioritise between homework and some tramp! Your mother's right.”
 
 ## S3 E5 — Charity
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0305.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0305
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -492,7 +492,7 @@ Watch for:
   - [Mild] “More wine? Please.”
 
 ## S3 E6 — Health Scare
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0306.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0306
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -502,21 +502,21 @@ Watch for:
   - [Mild] “Do it over, even if you're here all night! What? That paint you wasted is coming out of your pay.”
 
 ## S3 E7 — Christmas
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0307.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0307
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Caution] “Had to sleep with the pigs.”
 
 ## S3 E8 — Poker
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0308.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0308
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] “No way! You be a gentleman! It's just like touching a corpse It's just like touching a corpse How many lessons have you had? What? None! Really? I'm impressed! You have very good instincts.”
 
 ## S3 E9 — Reese's Job
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0309.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0309
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -531,7 +531,7 @@ Watch for:
   - [Caution] “OK, ready! That is so cool! I wish you had a gun so we can really test this out.”
 
 ## S3 E10 — Lois's Makeover
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0310.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0310
 Scores: violence 1/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 2 moment(s)
@@ -539,7 +539,7 @@ Watch for:
   - [Too much] “This guy was convinced I was a prostitute.”
 
 ## S3 E11 — Company Picnic (1)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0311.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0311
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -548,7 +548,7 @@ Watch for:
   - [Mild] “I drank an entire bottle of champagne then I passed out.”
 
 ## S3 E12 — Company Picnic (2)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0312.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0312
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -557,7 +557,7 @@ Watch for:
   - [Too much] “Where's Amis? He ran out yelling about government helicopters and murderous clones.”
 
 ## S3 E13 — Reese Drives
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0313.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0313
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -568,7 +568,7 @@ Watch for:
   - [Caution] “Reese surrounded by and 20 gallons of explosive fuel?! It's like giving a shark a sub-machine gun! (PHONE RINGS) Hello? Hey, Dad.”
 
 ## S3 E14 — Cynthia's Back
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0314.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0314
 Scores: violence 3/5, sex 3/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -590,19 +590,19 @@ Watch for:
   - [Mild] “There's more to life than falling down drunk and acting like a jackass.”
 
 ## S3 E15 — Hal's Birthday
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0315.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0315
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “He got a new back shaver, we got to eat cake cut by a knife and Mom has promised not to yell at us any more.”
 
 ## S3 E16 — Hal Coaches
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0316.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0316
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E17 — Dewey's Dog
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0317.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0317
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 5 moment(s)
@@ -613,7 +613,7 @@ Watch for:
   - [Mild] “(CRASH!) I don't believe it, he's drunk again! Face it, Francis, there's no hope for this guy.”
 
 ## S3 E18 — Poker #2
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0318.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0318
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -623,12 +623,12 @@ Watch for:
   - [Caution] “No! You don't bring a gun into this house.”
 
 ## S3 E19 — Clip Show
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0319.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0319
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S3 E20 — Jury Duty
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0320.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0320
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -642,7 +642,7 @@ Watch for:
   - [Caution] “…and rubbed it all over Moynihan! Impossible! You just don't wanna be proven wrong! I am not wrong! The knife entered at a downward angle.”
 
 ## S3 E21 — Cliques
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0321.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0321
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -650,12 +650,12 @@ Watch for:
   - [Mild] “(ALL SOB) Thanks for the heads-up on the underwear.”
 
 ## S3 E22 — Monkey
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0322.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0322
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E1 — Zoo
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0401.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0401
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -666,7 +666,7 @@ Watch for:
   - [Caution] “And third, you were the one dating that slut manicurist! Here is where we put the houses for the horses.”
 
 ## S4 E2 — Humilithon
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0402.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0402
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -683,7 +683,7 @@ Watch for:
   - [Caution] “BOY: - She's a big slut.”
 
 ## S4 E3 — Family Reunion
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0403.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0403
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -696,7 +696,7 @@ Watch for:
   - [Mild] “When my best friend - moved away - When I got beaten up - at school - When I spent - a whole summer crying And I didn't know why!”
 
 ## S4 E4 — Stupid Girl
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0404.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0404
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -709,7 +709,7 @@ Watch for:
   - [Mild] “We're going to throw away his beer, get someone to take you home, and you should totally dump that guy.”
 
 ## S4 E5 — Forwards Backwards
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0405.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0405
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -721,7 +721,7 @@ Watch for:
   - [Mild] “I got to tell you, Hal, this beer is tasting mighty bitter.”
 
 ## S4 E6 — Forbidden Girlfriend
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0406.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0406
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -732,12 +732,12 @@ Watch for:
   - [Caution] “I jumped in a line - at the mall to ditch my Dad, - And I ended up giving blood - at the Red Cross.”
 
 ## S4 E7 — Malcolm Holds His Tongue
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0407.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0407
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S4 E8 — Boys at the Ranch
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0408.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0408
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -746,7 +746,7 @@ Watch for:
   - [Mild] “Well, if I am such a genius, how come that I am drunk and lost in the desert with a bullet in my ass? Hal, listen to me.”
 
 ## S4 E9 — Grandma Sues
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0409.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0409
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -758,7 +758,7 @@ Watch for:
   - [Mild] “Punch yourself - in the face.”
 
 ## S4 E10 — If Boys Were Girls
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0410.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0410
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -772,7 +772,7 @@ Watch for:
   - [Mild] “With tips, I can pay rent on the trailer - and still keep - my husband in beer.”
 
 ## S4 E11 — Long Drive
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0411.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0411
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 5 moment(s)
@@ -785,7 +785,7 @@ Watch for:
   - [Caution] “Which is just medical jargon for the simple fact that every time you boys misbehave, - you might as well - be taking a knife - And putting it in that baby's - tiny little heart.”
 
 ## S4 E12 — Kicked Out
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0412.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0412
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -797,7 +797,7 @@ Watch for:
   - [Mild] “So that makes it okay that Malcolm spent the night - sleeping on a booze- - soaked mattress - In some dark alley? - Craig - Oh, my God! He's - probably dead by now! - Malcolm can take care - of himself.”
 
 ## S4 E13 — Stereo Store
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0413.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0413
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -812,7 +812,7 @@ Watch for:
   - [Mild] “(echoing): Can I get you a beer? I'm good.”
 
 ## S4 E14 — Hal's Friend
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0414.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0414
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -825,14 +825,14 @@ Watch for:
   - [Mild] “Sweet! - First beer, 7:04.”
 
 ## S4 E15 — Garage Sale
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0415.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0415
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Fat-shaming — 1 moment(s)
   - [Caution] “(whinnies) (laughs) Boy, I don't remember that he was so fat.”
 
 ## S4 E16 — Academic Octathalon
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0416.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0416
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -847,7 +847,7 @@ Watch for:
   - [Caution] “Isn't it amazing? Are you sure this is going to fit because you're so fat.”
 
 ## S4 E17 — Clip Show #2
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0417.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0417
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -857,7 +857,7 @@ Watch for:
   - [Too much] “No, I You're wishing me dead? Why would you say such a thing? Oh, and there is no reaction at all to my suicide.”
 
 ## S4 E18 — Reese's Party
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0418.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0418
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -868,7 +868,7 @@ Watch for:
   - [Caution] “You boys aren't even - supposed to be here - And you're - throwing A coed slumber party? Who's the fat chick? Okay, that's it.”
 
 ## S4 E19 — Future Malcolm
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0419.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0419
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 4 moment(s)
@@ -880,7 +880,7 @@ Watch for:
   - [Mild] “What? There's no Camembert? You expect me to have my wine without any Camembert? - That ruins - my entire aesthetic! - Francis - Forget it.”
 
 ## S4 E20 — Baby (1)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0420.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0420
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -891,7 +891,7 @@ Watch for:
   - [Too much] “You see, she's a horrible bigot.”
 
 ## S4 E21 — Baby (2)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0421.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0421
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -904,7 +904,7 @@ Watch for:
   - [Mild] “What?! This slutty cocktail waitress in Manitoba.”
 
 ## S4 E22 — Day Care
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0422.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0422
 Scores: violence 1/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -919,7 +919,7 @@ Watch for:
   - [Caution] “I don't need no evil weed Oh, man.”
 
 ## S5 E1 — Vegas
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0501.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0501
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -929,7 +929,7 @@ Watch for:
   - [Mild] “Two cocktails with apricots.”
 
 ## S5 E2 — Watching The Baby
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0502.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0502
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -941,7 +941,7 @@ Watch for:
   - [Mild] “What do we do now? I do not know from where they can be taken ¹ æ beer.”
 
 ## S5 E3 — Goodbye Kitty
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0503.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0503
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -951,7 +951,7 @@ Watch for:
   - [Mild] “But it comes to second base (the catching for boob) if I've got something to say.”
 
 ## S5 E4 — Thanksgiving
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0504.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0504
 Scores: violence 1/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Swearing — 4 moment(s)
@@ -969,7 +969,7 @@ Watch for:
   - [Mild] “And you know what? I was thinking of, Also forget about getting drunk the c up.”
 
 ## S5 E5 — Malcolm Films Reese
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0505.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0505
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -978,14 +978,14 @@ Watch for:
   - [Mild] else was punching him.
 
 ## S5 E6 — Malcolm's Job
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0506.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0506
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.”
 
 ## S5 E7 — Christmas Trees
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0507.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0507
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -993,14 +993,14 @@ Watch for:
   - [Caution] “And where would I get a spear gun? This is your son? It depends on what you mean by son.”
 
 ## S5 E8 — Block Party
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0508.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0508
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “If I wanted to you solicitation, is already on your wisielibycie my underwear.”
 
 ## S5 E9 — Dirty Magazine
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0509.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0509
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1012,12 +1012,12 @@ Watch for:
   - [Mild] “Otto, it's so wonderful that the party! Everything is perfect the e Quiet, please! Is everyone could briefly interrupt getting drunk?”
 
 ## S5 E10 — Hot Tub
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0510.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0510
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S5 E11 — Ida's Boyfriend
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0511.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0511
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1027,7 +1027,7 @@ Watch for:
   - [Too much] “My specjalnoæ - murder.”
 
 ## S5 E12 — Softball
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0512.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0512
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -1035,7 +1035,7 @@ Watch for:
   - [Mild] “I love you so much, the boys ch Przytuliæ you? The busiest him a little to find the beer.”
 
 ## S5 E13 — Lois' Sister
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0513.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0513
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1052,14 +1052,14 @@ Watch for:
   - [Mild] “Get in the car! What you have reached the æ car without an engine? Than than a party with beer.”
 
 ## S5 E14 — Malcolm Dates A Family
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0514.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0514
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “My mom is horrible! My mom call of a drunk on my birthday ¿¿So that I yczyæ money.”
 
 ## S5 E15 — Reese's Apartment
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0515.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0515
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -1071,14 +1071,14 @@ Watch for:
   - [Mild] “Do not worry, essay will not wasted the.”
 
 ## S5 E16 — Malcolm Visits College
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0516.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0516
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] “Mom, what are you doing with my underwear?! You had it all crammed up there in the corner.”
 
 ## S5 E17 — Polly In The Middle
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0517.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0517
 Scores: violence 1/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1090,7 +1090,7 @@ Watch for:
   - [Mild] “(Spanish for "you") You speak the crap I have zrobiæ.”
 
 ## S5 E18 — Dewey's Special Class
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0518.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0518
 Scores: violence 1/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Porn / strippers / sex work — 1 moment(s)
@@ -1099,7 +1099,7 @@ Watch for:
   - [Mild] “I wasted no of the 150 bucks.”
 
 ## S5 E19 — Experiment
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0519.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0519
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1109,7 +1109,7 @@ Watch for:
   - [Mild] “But I want to know ¿ebycie that the if y jaka the bniêta pair steal me and later brought up girl it will be on your wine.”
 
 ## S5 E20 — Victor's Other Family
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0520.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0520
 Scores: violence 2/5, sex 1/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1121,7 +1121,7 @@ Watch for:
   - [Mild] “What the hell are you talking about?! - I'm trying to help you.”
 
 ## S5 E21 — Reese Joins The Army (1)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0521.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0521
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1130,12 +1130,12 @@ Watch for:
   - [Too much] “…the EOE your backpack and semi-repellent coat? Backpack as domylam up Pulling off was achieved with the corpse, and semi-coat Is going to rain?”
 
 ## S5 E22 — Reese Joins The Army (2)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0522.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0522
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S6 E1 — Reese Comes Home (3)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0601.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0601
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -1145,7 +1145,7 @@ Watch for:
   - [Too much] “So you're saying if he dies, then you'll be even? I didn't say he was going to die! - Malcolm, he almost killed himself with Bisquick once.”
 
 ## S6 E2 — Busey's Run Away
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0602.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0602
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1153,7 +1153,7 @@ Watch for:
   - [Mild] “Are all the women naked? That is all you heard, isn't it? Mom Dad breakfast Jamie Dewey Dad dinner.”
 
 ## S6 E3 — Standee
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0603.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0603
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -1166,7 +1166,7 @@ Watch for:
   - [Too much] “It's probably the saddest sight of all when racism impacts on white people.”
 
 ## S6 E4 — Pearl Harbor
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0604.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0604
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1180,7 +1180,7 @@ Watch for:
   - [Mild] “And then go away! Seriously, what do you have to do to get popped for drunk and disorderly around here? He was out on the curb in his underpants, rolling burning trash cans into the street.”
 
 ## S6 E5 — Kitty's Back
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0605.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0605
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1191,21 +1191,21 @@ Watch for:
   - [Mild] “I'll have another Margarita.”
 
 ## S6 E6 — Hal's Christmas Gift
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0606.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0606
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] “What?! Oh, for God's sakes! Can you think of a Christmas reason for stopping somewhere I can sell blood? Oh, Hal, don't worry about it.”
 
 ## S6 E7 — Hal Sleepwalks
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0607.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0607
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Why don't you just do something simple? You know, get a bottle of champagne, watch a sunset, recite a poem to her.”
 
 ## S6 E8 — Lois Battles Jamie
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0608.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0608
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1215,7 +1215,7 @@ Watch for:
   - [Caution] “I have to empty the blood out of my shoes again.”
 
 ## S6 E9 — Malcolm's Car
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0609.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0609
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1230,7 +1230,7 @@ Watch for:
   - [Mild] “Today was totally wasted.”
 
 ## S6 E10 — Billboard
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0610.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0610
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1248,7 +1248,7 @@ Watch for:
   - [Mild] “One night he got me drunk and borrowed $400 from me! What? He bought a velour suit and faked his own death to get out of paying me back.”
 
 ## S6 E11 — Dewey's Opera
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0611.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0611
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1259,7 +1259,7 @@ Watch for:
   - [Caution] “What if Don Argento solves his romantic problems with a machete in a tragic, yet comedic, big bloody mess? Yes, I want to return a mattress I bought last week in accord with your 30-day return policy.”
 
 ## S6 E12 — Living Will
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0612.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0612
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1268,7 +1268,7 @@ Watch for:
   - [Mild] “You want to go through the arrest reports? I'll pour some more wine.”
 
 ## S6 E13 — Tiki Lounge
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0613.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0613
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 3 moment(s)
@@ -1277,7 +1277,7 @@ Watch for:
   - [Mild] “So, if you'll excuse me, I think I saw a slightly drunk Ms.”
 
 ## S6 E14 — Ida Loses A Leg
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0614.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0614
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1291,7 +1291,7 @@ Watch for:
   - [Caution] “Oh, my God, this sucks! That was, like, the one thing I was living for and it's just not working at all! - Can you take the soap opera outside? I want to watch the whore that gives the weather.”
 
 ## S6 E15 — Chad's Sleepover
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0615.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0615
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 2 moment(s)
@@ -1301,7 +1301,7 @@ Watch for:
   - [Too much] “You know what? Sometimes if you're just being bigoted and unreasonable, maybe I don't have to listen to you.”
 
 ## S6 E16 — No Motorcycles
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0616.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0616
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 5 moment(s)
@@ -1314,7 +1314,7 @@ Watch for:
   - [Mild] “And meanwhile, I plan this whole trip, and now I find out you're sober, and I'm standing here with a bottle of booze like some kind of jackass.”
 
 ## S6 E17 — Butterflies
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0617.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0617
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 3 moment(s)
@@ -1325,7 +1325,7 @@ Watch for:
   - [Caution] “Where's the toothpaste? -I'm on a break.”
 
 ## S6 E18 — Ida's Dance
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0618.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0618
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1342,7 +1342,7 @@ Watch for:
   - [Caution] “And not on her back like your slut daughter.”
 
 ## S6 E19 — Motivational Seminar
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0619.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0619
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1353,7 +1353,7 @@ Watch for:
   - [Caution] “Hey, you need a gun?”
 
 ## S6 E20 — Stilts
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0620.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0620
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1373,7 +1373,7 @@ Watch for:
   - [Mild] “Bad? He's been coming to work drunk for 20 years.”
 
 ## S6 E21 — Buseys Takes A Hostage
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0621.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0621
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Affairs / cheating — 1 moment(s)
@@ -1382,14 +1382,14 @@ Watch for:
   - [Too much] “So, if Rex Huntington is the finest doctor in Spring Valley, why is he defending Jessica in the murder trial.”
 
 ## S6 E22 — Mrs. Tri-County
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0622.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0622
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
   - [Mild] “If you want to, have a sex change, come back in 20 years and we'll talk.”
 
 ## S7 E1 — Burning Man
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0701.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0701
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1397,12 +1397,12 @@ Watch for:
   - [Mild] “Are all the women naked? That is all you heard, isn't it? Mom Dad breakfast Jamie Dewey Dad dinner.”
 
 ## S7 E2 — Health Insurance
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0702.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0702
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 9+)
 Watch for: nothing flagged.
 
 ## S7 E3 — Reese vs. Stevie
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0703.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0703
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1415,7 +1415,7 @@ Watch for:
   - [Mild] “All that fussing and primping and time I wasted to shut out laughter that stopped 30 years ago.”
 
 ## S7 E4 — Halloween
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0704.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0704
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1436,7 +1436,7 @@ Watch for:
   - [Mild] “I wasted my whole break sitting with some shoplifter and no one else even considered coming to help.”
 
 ## S7 E5 — Jessica Stays Over
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0705.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0705
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1449,7 +1449,7 @@ Watch for:
   - [Mild] “Seems he got drunk Friday night, decided to track down her mom and tried to drive a street-sweeper to Mexico.”
 
 ## S7 E6 — Secret Boyfriend
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0706.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0706
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 2 moment(s)
@@ -1459,7 +1459,7 @@ Watch for:
   - [Caution] “Look, I'll walk you through the experiment, I'll do your homework, but I will not cheat on a test for you, okay? Fair enough.”
 
 ## S7 E7 — Blackout
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0707.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0707
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1475,7 +1475,7 @@ Watch for:
   - [Mild] “Don't cover for him! Malcolm, you're such a big man when you're getting drunk to impress your friends.”
 
 ## S7 E8 — Army Buddy
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0708.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0708
 Scores: violence 2/5, sex 2/5, language 3/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1490,14 +1490,14 @@ Watch for:
   - [Mild] “Why don't I get the footbath ready? It's my own damn fault for thinking there was a magic pill to give me my life back.”
 
 ## S7 E9 — Malcolm Defends Reese
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0709.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0709
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] “It feels like someone's stabbing you all over with tiny, razor-sharp knives.”
 
 ## S7 E10 — Malcolm's Money
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0710.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0710
 Scores: violence 3/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1514,7 +1514,7 @@ Watch for:
   - [Caution] “I mean, who does it hurt to let two old people be happy? You whore! You stole my husband! No, I just used him without your permission and gave him back to you Just like someone did with my sewing machine.”
 
 ## S7 E11 — Bride of Ida (1)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0711.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0711
 Scores: violence 2/5, sex 4/5, language 2/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1539,7 +1539,7 @@ Watch for:
   - [Caution] “I shave! Hide your shame, whore! You can't talk to my wife that way.”
 
 ## S7 E12 — College Recruiters (2)
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0712.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0712
 Scores: violence 1/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 3 moment(s)
@@ -1555,14 +1555,14 @@ Watch for:
   - [Caution] “If I was a woman, I'd be a slut.”
 
 ## S7 E13 — Mono
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0713.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0713
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “Chaffley? The one who's always on my ass about the lawn? Well, she can stand on her head and drink a pitcher of beer in seven seconds.”
 
 ## S7 E14 — Hal Grieves
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0714.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0714
 Scores: violence 1/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1570,7 +1570,7 @@ Watch for:
   - [Mild] “So you think a weekend of nurturing and sex is going to get him through this? Do you even know this man?! What the hell's all this? Turns out Dad still has some grieving left to do.”
 
 ## S7 E15 — A.a.
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0715.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0715
 Scores: violence 2/5, sex 2/5, language 1/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -1585,14 +1585,14 @@ Watch for:
   - [Mild] “I mean, maybe I have a glass of champagne on my birthday -Every birthday? -What does that have to do with anything? -I think we should get going -Come on, Mom, you have the classic signs.”
 
 ## S7 E16 — Lois Strikes Back
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0716.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0716
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] “She also requested a bottle of champagne and the romance package.”
 
 ## S7 E17 — Hal's Dentist
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0717.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0717
 Scores: violence 2/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -1601,7 +1601,7 @@ Watch for:
   - [Mild] “You want a beer? Malcolm in the Middle Forom.”
 
 ## S7 E18 — Bomb Shelter
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0718.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0718
 Scores: violence 2/5, sex 2/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1612,7 +1612,7 @@ Watch for:
   - [Mild] “Turns out, I'm naturally talented at science and dancing two things that are guaranteed to get you beat up.”
 
 ## S7 E19 — Stevie in the Hospital
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0719.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0719
 Scores: violence 3/5, sex 2/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -1624,7 +1624,7 @@ Watch for:
   - [Mild] “Let's beat him on the water.”
 
 ## S7 E20 — Cattle Court
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0720.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0720
 Scores: violence 3/5, sex 1/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -1636,7 +1636,7 @@ Watch for:
   - [Too much] “Unless, of course, you pull the "Suicide" card.”
 
 ## S7 E21 — Morp
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0721.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0721
 Scores: violence 2/5, sex 3/5, language 2/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -1654,7 +1654,7 @@ Watch for:
   - [Mild] “You know I wasn't planning on the night ending this way, but why don't we get out of here, grab a blanket and a bottle of wine and go to the beach.”
 
 ## S7 E22 — Graduation
-URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0722.html
+URL: https://watchwiththekids.com/ep/malcolm-in-the-middle/0722
 Scores: violence 1/5, sex 1/5, language 2/5, overall 2/5 (Mild — okay from about 9+)
 Watch for:
 - Racism & slurs — 1 moment(s)

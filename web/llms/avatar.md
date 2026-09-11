@@ -1,11 +1,11 @@
 # Avatar: The Last Airbender — parent guide (61 episodes)
 
-Source: https://watchwiththekids.com/avatar.html
+Source: https://watchwiththekids.com/avatar
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 50 mild (1–2), 5 caution (3), 6 too much (4–5).
 
 ## S1 E1 — The Boy in the Iceberg
-URL: https://watchwiththekids.com/ep/avatar/0101.html
+URL: https://watchwiththekids.com/ep/avatar/0101
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -19,12 +19,12 @@ Watch for:
   - [Too much] Katara hops across the short distance between her floe and the iceberg on five tiny chinks of ice; Sokka, close behind her, does the same.
 
 ## S1 E2 — The Avatar Returns
-URL: https://watchwiththekids.com/ep/avatar/0102.html
+URL: https://watchwiththekids.com/ep/avatar/0102
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E3 — The Southern Air Temple
-URL: https://watchwiththekids.com/ep/avatar/0103.html
+URL: https://watchwiththekids.com/ep/avatar/0103
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -34,7 +34,7 @@ Watch for:
   - [Too much] Explicit body / sex-act language appears in dialogue.
 
 ## S1 E4 — The Warriors of Kyoshi
-URL: https://watchwiththekids.com/ep/avatar/0104.html
+URL: https://watchwiththekids.com/ep/avatar/0104
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -44,7 +44,7 @@ Watch for:
   - [Mild] Sokka bends through his knees and attacks the female warrior by trying to punch her.
 
 ## S1 E5 — The King of Omashu
-URL: https://watchwiththekids.com/ep/avatar/0105.html
+URL: https://watchwiththekids.com/ep/avatar/0105
 Scores: violence 1/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -54,7 +54,7 @@ Watch for:
   - [Too much] Explicit body / sex-act language appears in dialogue.
 
 ## S1 E6 — Imprisoned
-URL: https://watchwiththekids.com/ep/avatar/0106.html
+URL: https://watchwiththekids.com/ep/avatar/0106
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -64,12 +64,12 @@ Watch for:
   - [Mild] The three, joined by Momo, hide behind a fallen tree and spy on a young boy bending boulders into the air and punching them into the side of the ravine.
 
 ## S1 E7 — The Spirit World (Winter Solstice, Part 1)
-URL: https://watchwiththekids.com/ep/avatar/0107.html
+URL: https://watchwiththekids.com/ep/avatar/0107
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E8 — Avatar Roku (Winter Solstice, Part 2)
-URL: https://watchwiththekids.com/ep/avatar/0108.html
+URL: https://watchwiththekids.com/ep/avatar/0108
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -78,7 +78,7 @@ Watch for:
   - [Mild] He leaps into the air to avoid the Great Fire Sage's fire punch.
 
 ## S1 E9 — The Waterbending Scroll
-URL: https://watchwiththekids.com/ep/avatar/0109.html
+URL: https://watchwiththekids.com/ep/avatar/0109
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -86,7 +86,7 @@ Watch for:
   - [Mild] Oh comes up behind him with a knife, Aang turns and blows the bison whistle. Oh stands confused while Sokka comes up behind him and pushes him off the ship.
 
 ## S1 E10 — Jet
-URL: https://watchwiththekids.com/ep/avatar/0110.html
+URL: https://watchwiththekids.com/ep/avatar/0110
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -94,17 +94,17 @@ Watch for:
   - [Mild] [Sokka puts his ear to the handle of his knife.] Nothing yet. [Whispers.] Wait! Yes, someone's approaching.
 
 ## S1 E11 — The Great Divide
-URL: https://watchwiththekids.com/ep/avatar/0111.html
+URL: https://watchwiththekids.com/ep/avatar/0111
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E12 — The Storm
-URL: https://watchwiththekids.com/ep/avatar/0112.html
+URL: https://watchwiththekids.com/ep/avatar/0112
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E13 — The Blue Spirit
-URL: https://watchwiththekids.com/ep/avatar/0113.html
+URL: https://watchwiththekids.com/ep/avatar/0113
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -112,7 +112,7 @@ Watch for:
   - [Mild] The lone guard grabs the alarm horn next to him, but a knife knocks it out of his hand.
 
 ## S1 E14 — The Fortuneteller
-URL: https://watchwiththekids.com/ep/avatar/0114.html
+URL: https://watchwiththekids.com/ep/avatar/0114
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -120,7 +120,7 @@ Watch for:
   - [Mild] No, punch him in the bill! [Swings a fist upward.]
 
 ## S1 E15 — Bato of the Water Tribe
-URL: https://watchwiththekids.com/ep/avatar/0115.html
+URL: https://watchwiththekids.com/ep/avatar/0115
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -132,12 +132,12 @@ Watch for:
   - [Mild] Zuko punches and kicks at Aang, sending fire blasts at him.
 
 ## S1 E16 — The Deserter
-URL: https://watchwiththekids.com/ep/avatar/0116.html
+URL: https://watchwiththekids.com/ep/avatar/0116
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E17 — The Northern Air Temple
-URL: https://watchwiththekids.com/ep/avatar/0117.html
+URL: https://watchwiththekids.com/ep/avatar/0117
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -145,33 +145,33 @@ Watch for:
   - [Mild] Cut to a frontal shot of the mechanist, pleased that Sokka is interested.] If you like that, wait till you see my finger-safe knife sharpener.
 
 ## S1 E18 — The Waterbending Master
-URL: https://watchwiththekids.com/ep/avatar/0118.html
+URL: https://watchwiththekids.com/ep/avatar/0118
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S1 E19 — The Siege of the North, Part 1
-URL: https://watchwiththekids.com/ep/avatar/0119.html
+URL: https://watchwiththekids.com/ep/avatar/0119
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Alcohol & drugs — 1 moment(s)
   - [Mild] [Angered.] Princess Yue is wasted on a self-absorbed weasel like you!
 
 ## S1 E20 — The Siege of the North, Part 2
-URL: https://watchwiththekids.com/ep/avatar/0120.html
+URL: https://watchwiththekids.com/ep/avatar/0120
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] A moment later, a white face appears with gray patches around its eyes and luscious, blood-red lips.
 
 ## S2 E1 — The Avatar State
-URL: https://watchwiththekids.com/ep/avatar/0201.html
+URL: https://watchwiththekids.com/ep/avatar/0201
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] He casts a look at Zuko, who holds the knife under his ponytail.
 
 ## S2 E2 — The Cave of Two Lovers
-URL: https://watchwiththekids.com/ep/avatar/0202.html
+URL: https://watchwiththekids.com/ep/avatar/0202
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
@@ -182,21 +182,21 @@ Watch for:
   - [Caution] Cuts to a close-up of a badgermole who cocks its head curiously.
 
 ## S2 E3 — Return to Omashu
-URL: https://watchwiththekids.com/ep/avatar/0203.html
+URL: https://watchwiththekids.com/ep/avatar/0203
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Before they can reach it, Ty Lee's fist emerges from one of the holes in the floor and punches Sokka's foot, causing him to fall over and slide toward the edge.
 
 ## S2 E4 — The Swamp
-URL: https://watchwiththekids.com/ep/avatar/0204.html
+URL: https://watchwiththekids.com/ep/avatar/0204
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] [Bending a vine out of the way.] I protect the swamp from folks that want to hurt it, like this fella with his big knife.
 
 ## S2 E5 — Avatar Day
-URL: https://watchwiththekids.com/ep/avatar/0205.html
+URL: https://watchwiththekids.com/ep/avatar/0205
 Scores: violence 3/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -212,14 +212,14 @@ Watch for:
   - [Mild] Sokka and Katara look very worried as the wheel starts to slow down. It passes by "strangled by a platypus bear" and "eaten by sharks." Aang anxiously awaits his punishment. The wheel comes to a halt.
 
 ## S2 E6 — The Blind Bandit
-URL: https://watchwiththekids.com/ep/avatar/0206.html
+URL: https://watchwiththekids.com/ep/avatar/0206
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Take your stances! [His students take their fighting stances, except for Aang.] Now, strike as if you're punching through your opponent's head!
 
 ## S2 E7 — Zuko Alone
-URL: https://watchwiththekids.com/ep/avatar/0207.html
+URL: https://watchwiththekids.com/ep/avatar/0207
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 6 moment(s)
@@ -231,7 +231,7 @@ Watch for:
   - [Mild] [Zuko kneels down in front of Sela, with Lee peeking around his mother's back, offering the knife.] It's yours. You should have it.
 
 ## S2 E8 — The Chase
-URL: https://watchwiththekids.com/ep/avatar/0208.html
+URL: https://watchwiththekids.com/ep/avatar/0208
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Sex & hookups — 1 moment(s)
@@ -242,21 +242,21 @@ Watch for:
   - [Mild] She begins to draw a stream of water with which to attack Mai, however, the knife thrower hurls two shuriken knives her way.
 
 ## S2 E9 — Bitter Work
-URL: https://watchwiththekids.com/ep/avatar/0209.html
+URL: https://watchwiththekids.com/ep/avatar/0209
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Some call lightning the cold-blooded fire.
 
 ## S2 E10 — The Library
-URL: https://watchwiththekids.com/ep/avatar/0210.html
+URL: https://watchwiththekids.com/ep/avatar/0210
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] [Running up to the library.] Library sinking! [Punches both fists into the library to stop it from sinking.
 
 ## S2 E11 — The Desert
-URL: https://watchwiththekids.com/ep/avatar/0211.html
+URL: https://watchwiththekids.com/ep/avatar/0211
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -265,7 +265,7 @@ Watch for:
   - [Mild] Sokka drowsily sits up and smiles like a drunken idiot. Toph also erects herself, smacking her lips.
 
 ## S2 E12 — The Serpent's Pass
-URL: https://watchwiththekids.com/ep/avatar/0212.html
+URL: https://watchwiththekids.com/ep/avatar/0212
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -273,14 +273,14 @@ Watch for:
   - [Mild] Say hi to that big fuzzball for me. [Punches Aang in the arm.]
 
 ## S2 E13 — The Drill
-URL: https://watchwiththekids.com/ep/avatar/0213.html
+URL: https://watchwiththekids.com/ep/avatar/0213
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Swinging a knife around her finger; relieved.] Finally, something to do. [Rises and walks out.
 
 ## S2 E14 — City of Walls and Secrets
-URL: https://watchwiththekids.com/ep/avatar/0214.html
+URL: https://watchwiththekids.com/ep/avatar/0214
 Scores: violence 2/5, sex 4/5, language 1/5, overall 4/5 (Skip for under 13)
 Watch for:
 - Sex & hookups — 2 moment(s)
@@ -292,7 +292,7 @@ Watch for:
   - [Too much] As Jet swings at Zuko's feet, Zuko stabs one of his broadswords through the hilt, pinning it to the ground. Jet looks at it with annoyance before focusing back on Zuko.
 
 ## S2 E15 — The Tales of Ba Sing Se
-URL: https://watchwiththekids.com/ep/avatar/0215.html
+URL: https://watchwiththekids.com/ep/avatar/0215
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -302,24 +302,24 @@ Watch for:
   - [Mild] As he rides, he punches the ground causing a large wall of earth to rise as he rides in a large circle creating a pen to block the running animals.
 
 ## S2 E16 — Appa's Lost Days
-URL: https://watchwiththekids.com/ep/avatar/0216.html
+URL: https://watchwiththekids.com/ep/avatar/0216
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S2 E17 — Lake Laogai
-URL: https://watchwiththekids.com/ep/avatar/0217.html
+URL: https://watchwiththekids.com/ep/avatar/0217
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Too much] She stabs her finger at Jet once more for emphasis, eyes narrowed. Cut to Jet entering a dimly lit warehouse, which sits empty except for a few sacks and a pile of canvas and rope.
 
 ## S2 E18 — The Earth King
-URL: https://watchwiththekids.com/ep/avatar/0218.html
+URL: https://watchwiththekids.com/ep/avatar/0218
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S2 E19 — The Guru
-URL: https://watchwiththekids.com/ep/avatar/0219.html
+URL: https://watchwiththekids.com/ep/avatar/0219
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -328,19 +328,19 @@ Watch for:
   - [Mild] She takes another punch as we cut back to Ba Sing Se. Katara walks by the Jasmine Dragon.
 
 ## S2 E20 — The Crossroads of Destiny
-URL: https://watchwiththekids.com/ep/avatar/0220.html
+URL: https://watchwiththekids.com/ep/avatar/0220
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Caution] Spreading war and violence and hatred is in your blood!
 
 ## S3 E1 — The Awakening
-URL: https://watchwiththekids.com/ep/avatar/0301.html
+URL: https://watchwiththekids.com/ep/avatar/0301
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E2 — The Headband
-URL: https://watchwiththekids.com/ep/avatar/0302.html
+URL: https://watchwiththekids.com/ep/avatar/0302
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -348,12 +348,12 @@ Watch for:
   - [Mild] Hide continues trying to punch at Aang, but he continuously evades with ease, much to Hide's frustration.
 
 ## S3 E3 — The Painted Lady
-URL: https://watchwiththekids.com/ep/avatar/0303.html
+URL: https://watchwiththekids.com/ep/avatar/0303
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E4 — Sokka's Master
-URL: https://watchwiththekids.com/ep/avatar/0304.html
+URL: https://watchwiththekids.com/ep/avatar/0304
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -362,7 +362,7 @@ Watch for:
   - [Too much] Side-view of the fight as Sokka watches his sword fly into the air and stab into the ground several feet away.
 
 ## S3 E5 — The Beach
-URL: https://watchwiththekids.com/ep/avatar/0305.html
+URL: https://watchwiththekids.com/ep/avatar/0305
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -371,7 +371,7 @@ Watch for:
   - [Mild] Cut to frontal view of Mai throwing a knife out.
 
 ## S3 E6 — The Avatar and the Firelord
-URL: https://watchwiththekids.com/ep/avatar/0306.html
+URL: https://watchwiththekids.com/ep/avatar/0306
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
@@ -380,14 +380,14 @@ Watch for:
   - [Mild] [Scene changes to Fire Navy ships searching in the polar regions.] I wasted the remainder of my life searching in vain.
 
 ## S3 E7 — The Runaway
-URL: https://watchwiththekids.com/ep/avatar/0307.html
+URL: https://watchwiththekids.com/ep/avatar/0307
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] Toph punches Sokka in the arm.] Don't ever tell her I said any of this!
 
 ## S3 E8 — Chapter Eighth: The Puppetmaster
-URL: https://watchwiththekids.com/ep/avatar/0308.html
+URL: https://watchwiththekids.com/ep/avatar/0308
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -396,43 +396,43 @@ Watch for:
   - [Caution] My work is done. [Turns to Katara.] Congratulations, Katara. You're a bloodbender.
 
 ## S3 E9 — Nightmares and Daydreams
-URL: https://watchwiththekids.com/ep/avatar/0309.html
+URL: https://watchwiththekids.com/ep/avatar/0309
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Nudity & bodies — 1 moment(s)
   - [Mild] Hey! I'm tryin' build Appa some armor here so he doesn't have to go into the invasion naked. He's your bison.
 
 ## S3 E10 — The Day of Black Sun, Part 1: The Invasion
-URL: https://watchwiththekids.com/ep/avatar/0310.html
+URL: https://watchwiththekids.com/ep/avatar/0310
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] …to her eyes, her fingers wiggling outward in a mimicry of the Avatar State.] Gonna get your glow on and [Punches the air with a determined expression on her face.] hit him with a little Avatar State action?
 
 ## S3 E11 — The Day of Black Sun, Part 2: The Eclipse
-URL: https://watchwiththekids.com/ep/avatar/0311.html
+URL: https://watchwiththekids.com/ep/avatar/0311
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E12 — The Western Air Temple
-URL: https://watchwiththekids.com/ep/avatar/0312.html
+URL: https://watchwiththekids.com/ep/avatar/0312
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E13 — The Firebending Masters
-URL: https://watchwiththekids.com/ep/avatar/0313.html
+URL: https://watchwiththekids.com/ep/avatar/0313
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for: nothing flagged.
 
 ## S3 E14 — The Boiling Rock, Part 1
-URL: https://watchwiththekids.com/ep/avatar/0314.html
+URL: https://watchwiththekids.com/ep/avatar/0314
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] The two scuffle as the prisoners cheer them on. They break apart and Zuko goes for a punch. Chit Sang throws Zuko onto the floor.
 
 ## S3 E15 — The Boiling Rock, Part 2
-URL: https://watchwiththekids.com/ep/avatar/0315.html
+URL: https://watchwiththekids.com/ep/avatar/0315
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -442,7 +442,7 @@ Watch for:
   - [Mild] Cut to shot of the cell where Sokka is seen punching the mattress which Zuko holds up, the two faking the entire scenario.
 
 ## S3 E16 — The Southern Raiders
-URL: https://watchwiththekids.com/ep/avatar/0316.html
+URL: https://watchwiththekids.com/ep/avatar/0316
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 4 moment(s)
@@ -452,7 +452,7 @@ Watch for:
   - [Mild] Everybody except Katara holds up their cups.] Hear! Hear! [Aang nudges him with his elbow, before Toph lightly punches him.
 
 ## S3 E17 — The Ember Island Players
-URL: https://watchwiththekids.com/ep/avatar/0317.html
+URL: https://watchwiththekids.com/ep/avatar/0317
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -461,7 +461,7 @@ Watch for:
   - [Mild] [Punching the air.] I wouldn't want it any other way!
 
 ## S3 E18 — Sozin's Comet, Part 1: The Phoenix King
-URL: https://watchwiththekids.com/ep/avatar/0318.html
+URL: https://watchwiththekids.com/ep/avatar/0318
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 3 moment(s)
@@ -470,14 +470,14 @@ Watch for:
   - [Mild] The second thug continues punching June. She throws her drink into the air, throws the thug at a table, catches her drink and takes a sip.
 
 ## S3 E19 — Sozin's Comet, Part 2: The Old Masters
-URL: https://watchwiththekids.com/ep/avatar/0319.html
+URL: https://watchwiththekids.com/ep/avatar/0319
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)
   - [Mild] [Aerial view of the group.] You can beat him! [Turns to the others.] And we'll be there to help.
 
 ## S3 E20 — Sozin's Comet, Part 3: Into the Inferno
-URL: https://watchwiththekids.com/ep/avatar/0320.html
+URL: https://watchwiththekids.com/ep/avatar/0320
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 2 moment(s)
@@ -485,7 +485,7 @@ Watch for:
   - [Mild] He opens it, and with the other fist punches two large fireballs toward Azula, and the fire emerges to create one massive blast.
 
 ## S3 E21 — Chapter Twenty One: Sozin's Comet, Part 4: Avatar Aang
-URL: https://watchwiththekids.com/ep/avatar/0321.html
+URL: https://watchwiththekids.com/ep/avatar/0321
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Watch for:
 - Violence & injury — 1 moment(s)

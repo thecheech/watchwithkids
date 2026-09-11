@@ -1,11 +1,11 @@
 # The Owl House — parent guide (43 episodes)
 
-Source: https://watchwiththekids.com/owl-house.html
+Source: https://watchwiththekids.com/owl-house
 Scoring: violence, sex and language each 1–5; overall = the highest of the three.
 Buckets: 31 mild (1–2), 12 caution (3), 0 too much (4–5).
 
 ## S1 E1 — A Lying Witch and a Warden
-URL: https://watchwiththekids.com/ep/owl-house/0101.html
+URL: https://watchwiththekids.com/ep/owl-house/0101
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: When Luz stumbles upon a portal to a magical realm, she befriends a rebellious witch, Eda, and a tiny warrior, King.
 Watch for:
@@ -15,7 +15,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S1 E2 — Witches Before Wizards
-URL: https://watchwiththekids.com/ep/owl-house/0102.html
+URL: https://watchwiththekids.com/ep/owl-house/0102
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: An ancient wizard gives Luz a map for a mystical quest.
 Watch for:
@@ -28,7 +28,7 @@ Watch for:
   - [Mild] Eda punches the wall hard enough to shake the whole house and leave cracks in the wall.
 
 ## S1 E3 — I Was a Teenage Abomination
-URL: https://watchwiththekids.com/ep/owl-house/0103.html
+URL: https://watchwiththekids.com/ep/owl-house/0103
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Luz sneaks into the local magic school to help a friend and makes a new enemy in the process.
 Watch for:
@@ -40,7 +40,7 @@ Watch for:
   - [Mild] Luz punches it through the chest, then takes Willow's wrist and runs.
 
 ## S1 E4 — The Intruder
-URL: https://watchwiththekids.com/ep/owl-house/0104.html
+URL: https://watchwiththekids.com/ep/owl-house/0104
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Luz and King must defend The Owl House from a mysterious intruder.
 Watch for:
@@ -49,7 +49,7 @@ Watch for:
   - [Mild] [Grunting, tears the sock into pieces, then punches the remnants.] Where are you now, ducky sock?
 
 ## S1 E5 — Covention
-URL: https://watchwiththekids.com/ep/owl-house/0105.html
+URL: https://watchwiththekids.com/ep/owl-house/0105
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Luz's lesson about witch covens goes awry when she finds herself thrust into a witch's duel.
 Watch for:
@@ -60,7 +60,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S1 E6 — Hooty's Moving Hassle
-URL: https://watchwiththekids.com/ep/owl-house/0106.html
+URL: https://watchwiththekids.com/ep/owl-house/0106
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: When Luz, Willow and Gus accidentally animate the Owl House, the house runs amok around Bonesborough.
 Watch for:
@@ -68,7 +68,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S1 E7 — Lost in Language
-URL: https://watchwiththekids.com/ep/owl-house/0107.html
+URL: https://watchwiththekids.com/ep/owl-house/0107
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: While checking out the library, Luz's pranks lead to unintended consequences.
 Watch for:
@@ -79,7 +79,7 @@ Watch for:
   - [Mild] The door slams shut. The three of them look at it for a second before laughing. Emira punches Luz's shoulder.
 
 ## S1 E8 — Once Upon a Swap
-URL: https://watchwiththekids.com/ep/owl-house/0108.html
+URL: https://watchwiththekids.com/ep/owl-house/0108
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: A simple disagreement leads to a complex situation when Eda, King and Luz triple-down on a wager.
 Watch for:
@@ -88,7 +88,7 @@ Watch for:
   - [Mild] He grunts and rips his shirt off, then punches the sign and runs off. The teens laugh, then gasp and run off when the elf returns. Cut to them all laughing as King, holding a crow, shushes them.
 
 ## S1 E9 — Something Ventured, Someone Framed
-URL: https://watchwiththekids.com/ep/owl-house/0109.html
+URL: https://watchwiththekids.com/ep/owl-house/0109
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: When Gus sneaks Luz into Hexside School to present at the Human Appreciation Society, Luz sees a side of the school she didn't expect.
 Watch for:
@@ -98,7 +98,7 @@ Watch for:
   - [Mild] Prepares to punch him.] Executive action. [Grabs the bell's tongue.
 
 ## S1 E10 — Escape of the Palisman
-URL: https://watchwiththekids.com/ep/owl-house/0110.html
+URL: https://watchwiththekids.com/ep/owl-house/0110
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: When an adventure with Eda's staff goes awry, Luz and her friends have to earn the staff back from a mysterious forest creature, or lose the staff forever.
 Watch for:
@@ -109,7 +109,7 @@ Watch for:
   - [Mild] No, no! Bad Eda! You are my beast and I control you. [Punches her wing.] Hey!
 
 ## S1 E11 — Sense and Insensitivity
-URL: https://watchwiththekids.com/ep/owl-house/0111.html
+URL: https://watchwiththekids.com/ep/owl-house/0111
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: When King becomes a bestselling author, he learns a valuable lesson in reading the fine print.
 Watch for:
@@ -124,7 +124,7 @@ Watch for:
   - [Mild] Cut to the forest, where the merchant is beat up.
 
 ## S1 E12 — Adventures in the Elements
-URL: https://watchwiththekids.com/ep/owl-house/0112.html
+URL: https://watchwiththekids.com/ep/owl-house/0112
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: Luz needs to learn a new spell, so Eda takes her to the most magical place on the island to train.
 Watch for:
@@ -132,7 +132,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S1 E13 — The First Day
-URL: https://watchwiththekids.com/ep/owl-house/0113.html
+URL: https://watchwiththekids.com/ep/owl-house/0113
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: During Luz's first day of Magic School, curiosity gets the best of her, and she finds herself thrown into the Delinquent Track, where she's not allowed to learn magic.
 Watch for:
@@ -141,7 +141,7 @@ Watch for:
   - [Mild] Hey, don't worry about what those dorks think. If you want my advice, walk into class and punch the first kid you see. To establish dominance.
 
 ## S1 E14 — Really Small Problems
-URL: https://watchwiththekids.com/ep/owl-house/0114.html
+URL: https://watchwiththekids.com/ep/owl-house/0114
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: King confides in a carnival fortune teller who makes his dream come true, but it comes at a cost.
 Watch for:
@@ -151,7 +151,7 @@ Watch for:
   - [Mild] [Tugging cuff on Luz's shorts.] Beat up the man and steal his things for me.
 
 ## S1 E15 — Understanding Willow
-URL: https://watchwiththekids.com/ep/owl-house/0115.html
+URL: https://watchwiththekids.com/ep/owl-house/0115
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Luz, Willow, and Amity take a trip down Memory Lane.
 Watch for:
@@ -162,7 +162,7 @@ Watch for:
   - [Mild] Cut to photo class as Gus and Luz run in, Willow walking drunkenly behind them.
 
 ## S1 E16 — Enchanting Grom Fright
-URL: https://watchwiththekids.com/ep/owl-house/0116.html
+URL: https://watchwiththekids.com/ep/owl-house/0116
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Luz experiences Grom, Hexside's version of Prom, and it's not what she expects.
 Watch for:
@@ -174,7 +174,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S1 E17 — Wing It Like Witches
-URL: https://watchwiththekids.com/ep/owl-house/0117.html
+URL: https://watchwiththekids.com/ep/owl-house/0117
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: Not your average underdog story.
 Watch for:
@@ -185,7 +185,7 @@ Watch for:
   - [Mild] Well, we beat them and proved our social dominance. All is right in the hierarchy.
 
 ## S1 E18 — Agony of a Witch
-URL: https://watchwiththekids.com/ep/owl-house/0118.html
+URL: https://watchwiththekids.com/ep/owl-house/0118
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: On a school field trip to the mysterious Emperor's Castle, Luz strays from the group and into danger.
 Watch for:
@@ -199,7 +199,7 @@ Watch for:
   - [Mild] Lilith punches the wall at the same time a loud crash happens. She stares at her hand. Cut to the Relic Room, where the barricade now has a hole in it. Luz coughs. Willow's tree shrinks to nothing.
 
 ## S1 E19 — Young Blood, Old Souls
-URL: https://watchwiththekids.com/ep/owl-house/0119.html
+URL: https://watchwiththekids.com/ep/owl-house/0119
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Luz's skills as a witch are put to the test when she attempts the impossible.
 Watch for:
@@ -208,7 +208,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S2 E1 — Separate Tides
-URL: https://watchwiththekids.com/ep/owl-house/0201.html
+URL: https://watchwiththekids.com/ep/owl-house/0201
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Luz feels guilty about Eda losing her powers, so she sets sail in search of a lucrative bounty to help the Owl House.
 Watch for:
@@ -220,7 +220,7 @@ Watch for:
   - [Caution] [Eda's magic fails; the bottle explodes, covering Eda in apple blood.] Or at least she was until her curse overpowered her and weakened her magic.
 
 ## S2 E2 — Escaping Expulsion
-URL: https://watchwiththekids.com/ep/owl-house/0202.html
+URL: https://watchwiththekids.com/ep/owl-house/0202
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: When Amity Blight's parents get Luz, Willow and Gus expelled from Hexside, Luz strikes a dangerous deal with them to get back into school.
 Watch for:
@@ -231,7 +231,7 @@ Watch for:
   - [Mild] Amity's spell circle disappears, the Abomaton stands up and tries to punch Amity, but Amity holds him back with her spell circles with all her might. The Abomaton's hands start melting.
 
 ## S2 E3 — Echoes of the Past
-URL: https://watchwiththekids.com/ep/owl-house/0203.html
+URL: https://watchwiththekids.com/ep/owl-house/0203
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: King's delusions of grandeur lead Luz, Lilith and Hooty to a dangerous new island.
 Watch for:
@@ -240,7 +240,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S2 E4 — Keeping Up A-fear-ances
-URL: https://watchwiththekids.com/ep/owl-house/0204.html
+URL: https://watchwiththekids.com/ep/owl-house/0204
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Eda gets an unwelcome visit from a family member who puts a strain on everyone in the Owl House.
 Watch for:
@@ -253,7 +253,7 @@ Watch for:
   - [Mild] Yeah, you [Jokingly punches Gwendolyn.] should've. But, hey, don't be a stranger. Okay, Mom?
 
 ## S2 E5 — Through the Looking Glass Ruins
-URL: https://watchwiththekids.com/ep/owl-house/0205.html
+URL: https://watchwiththekids.com/ep/owl-house/0205
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: Gus tries to impress a group of cool kids from Glandus High; Luz and Amity journey into the most dangerous section of the library.
 Watch for:
@@ -263,7 +263,7 @@ Watch for:
   - [Caution] I would like that very much. You're both welcome to come whenever you please. [He makes finger guns and leaves.]
 
 ## S2 E6 — Hunting Palismen
-URL: https://watchwiththekids.com/ep/owl-house/0206.html
+URL: https://watchwiththekids.com/ep/owl-house/0206
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: It's Palisman Pairing Day at Hexside! But Luz doesn't match with a Palisman of her own and soon she finds herself on an unexpected journey with a foe.
 Watch for:
@@ -272,7 +272,7 @@ Watch for:
   - [Mild] He proceeds to punch the wall repeatedly, pulling his hand away on the final punch, and puts his mask back on.
 
 ## S2 E7 — Eda's Requiem
-URL: https://watchwiththekids.com/ep/owl-house/0207.html
+URL: https://watchwiththekids.com/ep/owl-house/0207
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: A person from Eda's past enlists her in a rebellion against the Emperor.
 Watch for:
@@ -282,7 +282,7 @@ Watch for:
   - [Mild] something about punching fears in the face?
 
 ## S2 E8 — Knock, Knock, Knockin' on Hooty's Door
-URL: https://watchwiththekids.com/ep/owl-house/0208.html
+URL: https://watchwiththekids.com/ep/owl-house/0208
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: Hooty tries to help King, Eda and Luz with their problems, but it doesn't go as planned.
 Watch for:
@@ -291,7 +291,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S2 E9 — Eclipse Lake
-URL: https://watchwiththekids.com/ep/owl-house/0209.html
+URL: https://watchwiththekids.com/ep/owl-house/0209
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: When Luz gets sick with the Common Mold, it's up to Amity, King and Eda to find an important ingredient for the portal door—but they're not the only ones on its trail.
 Watch for:
@@ -301,7 +301,7 @@ Watch for:
   - [Mild] By the fourth time, she anticipates where he'll pop up and jabs with her staff before punching him with an abomination spiked gauntlet.
 
 ## S2 E10 — Yesterday's Lie
-URL: https://watchwiththekids.com/ep/owl-house/0210.html
+URL: https://watchwiththekids.com/ep/owl-house/0210
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 8+)
 Summary: Luz thinks she's found a way back home but questions if she's ready for what she'll find on the other side.
 Watch for:
@@ -311,7 +311,7 @@ Watch for:
   - [Mild] Vee! Five! Number Five! Agh! [Punches black water.]
 
 ## S2 E11 — Follies at the Coven Day Parade
-URL: https://watchwiththekids.com/ep/owl-house/0211.html
+URL: https://watchwiththekids.com/ep/owl-house/0211
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: In the aftermath of her trip home, Luz takes on daring rescue missions during the Coven Day parade.
 Watch for:
@@ -321,7 +321,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S2 E12 — Elsewhere and Elsewhen
-URL: https://watchwiththekids.com/ep/owl-house/0212.html
+URL: https://watchwiththekids.com/ep/owl-house/0212
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Luz is desperate for more information about Philip Wittebane, the creator of the portal door. With Lilith's help, she sets off on a journey for the ages.
 Watch for:
@@ -338,7 +338,7 @@ Watch for:
   - [Mild] We're here to celebrate the new assistant curator of the Supernatural Museum of History. [Lifts his wine cup.] Here's to you, Lulu!
 
 ## S2 E13 — Any Sport in a Storm
-URL: https://watchwiththekids.com/ep/owl-house/0213.html
+URL: https://watchwiththekids.com/ep/owl-house/0213
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Hunter goes undercover at Hexside for his most important mission yet. Meanwhile, Willow is determined to succeed at an exciting new sport.
 Watch for:
@@ -349,7 +349,7 @@ Watch for:
   - [Mild] Okay, listen, I'm sorry about this whole cell thing, but did you really have to punch Steve, Skara?
 
 ## S2 E14 — Reaching Out
-URL: https://watchwiththekids.com/ep/owl-house/0214.html
+URL: https://watchwiththekids.com/ep/owl-house/0214
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Amity wants to prove herself to her father, and Luz thinks she's found the perfect way to do it: Underground Witch Duels.
 Watch for:
@@ -361,7 +361,7 @@ Watch for:
   - [Mild] Cut to Luz closing her eyes to not see Amity's abomination punching Scab.
 
 ## S2 E15 — Them's the Breaks, Kid
-URL: https://watchwiththekids.com/ep/owl-house/0215.html
+URL: https://watchwiththekids.com/ep/owl-house/0215
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Eda tells a story from her teen years: the day she met Raine Whispers.
 Watch for:
@@ -372,7 +372,7 @@ Watch for:
   - [Mild] Both are about to punch the other and yell as Terra watches in anticipation.
 
 ## S2 E16 — Hollow Mind
-URL: https://watchwiththekids.com/ep/owl-house/0216.html
+URL: https://watchwiththekids.com/ep/owl-house/0216
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: A magical mishap transports Luz and Hunter into a new mindscape…and this one is a twisted nightmare.
 Watch for:
@@ -384,7 +384,7 @@ Watch for:
   - [Mild] No one wants to think they've wasted their life following the wrong person. You just gotta find something big to change their minds.
 
 ## S2 E17 — Edge of the World
-URL: https://watchwiththekids.com/ep/owl-house/0217.html
+URL: https://watchwiththekids.com/ep/owl-house/0217
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: King's quest to uncover his past leads to shocking revelations and horrifying truths.
 Watch for:
@@ -395,7 +395,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S2 E18 — Labyrinth Runners
-URL: https://watchwiththekids.com/ep/owl-house/0218.html
+URL: https://watchwiththekids.com/ep/owl-house/0218
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: When the Emperor's coven comes to Hexside, Gus teams up with an unlikely ally.
 Watch for:
@@ -403,7 +403,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S2 E19 — O Titan, Where Art Thou
-URL: https://watchwiththekids.com/ep/owl-house/0219.html
+URL: https://watchwiththekids.com/ep/owl-house/0219
 Scores: violence 2/5, sex 1/5, language 1/5, overall 2/5 (Mild — okay from about 8+)
 Summary: Eda and Luz scramble to face the Day of Unity. King faces his true identity.
 Watch for:
@@ -413,7 +413,7 @@ Watch for:
   - [Caution] "Young Blood, Old Souls"
 
 ## S2 E20 — Clouds on the Horizon
-URL: https://watchwiththekids.com/ep/owl-house/0220.html
+URL: https://watchwiththekids.com/ep/owl-house/0220
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Everyone on the Isles prepares to celebrate the Day of Unity.
 Watch for:
@@ -428,7 +428,7 @@ Watch for:
   - [Mild] Alador's eyes begin glowing purple, and he summons two large fists out of abomination goo. He uses these to punch the Abomatons and knock them to the ground, while also bursting through some of the factory's pipes.
 
 ## S2 E21 — King's Tide
-URL: https://watchwiththekids.com/ep/owl-house/0221.html
+URL: https://watchwiththekids.com/ep/owl-house/0221
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: The Day of Unity begins.
 Watch for:
@@ -437,7 +437,7 @@ Watch for:
   - [Caution] And I'm sorry, but I just realized I only have enough Titan's Blood to open the portal.
 
 ## S3 E1 — Thanks to Them
-URL: https://watchwiththekids.com/ep/owl-house/0301.html
+URL: https://watchwiththekids.com/ep/owl-house/0301
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: After months of trying, Luz and her friends make a daring attempt to return to the Demon Realm.
 Watch for:
@@ -447,7 +447,7 @@ Watch for:
   - [Caution] Gus said I could get apple blood from the apple butcher, but...
 
 ## S3 E2 — For the Future
-URL: https://watchwiththekids.com/ep/owl-house/0302.html
+URL: https://watchwiththekids.com/ep/owl-house/0302
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: Luz and her friends race against Belos to confront the Collector and save the Boiling Isles.
 Watch for:
@@ -462,7 +462,7 @@ Watch for:
   - [Mild] Don't worry! I bet we'll all feel better when we punch Belos right through the face, and yes, I mean through the face.
 
 ## S3 E3 — Watching and Dreaming
-URL: https://watchwiththekids.com/ep/owl-house/0303.html
+URL: https://watchwiththekids.com/ep/owl-house/0303
 Scores: violence 3/5, sex 1/5, language 1/5, overall 3/5 (Preview first — about 10+)
 Summary: The fate of everything on the Boiling Isles now rests on the shoulders of a human, a cursed witch, and a determined but tiny little King.
 Watch for:

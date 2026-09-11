@@ -17,7 +17,7 @@
     "coverH": 1080,
     "coverLocal": "covers/friends.jpg",
     "blurb": "Six young (20-something) people from New York City (Manhattan), on their own and struggling to survive in the real world, find the…",
-    "href": "friends.html",
+    "href": "/friends",
     "mix": {
       "safe": 33,
       "maybe": 129,
@@ -42,7 +42,7 @@
     "coverH": 1080,
     "coverLocal": "covers/the-office.jpg",
     "blurb": "Steve Carell stars in The Office, a fresh and funny mockumentary-style glimpse into the daily interactions of the eccentric workers at the…",
-    "href": "the-office.html",
+    "href": "/the-office",
     "mix": {
       "safe": 67,
       "maybe": 71,
@@ -67,7 +67,7 @@
     "coverH": 1080,
     "coverLocal": "covers/parks-and-recreation.jpg",
     "blurb": "Parks and Recreation is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of",
-    "href": "parks-and-recreation.html",
+    "href": "/parks-and-recreation",
     "mix": {
       "safe": 46,
       "maybe": 42,
@@ -94,7 +94,7 @@
     "coverH": 2160,
     "coverLocal": "covers/brooklyn-nine-nine.jpg",
     "blurb": "Brooklyn Nine-Nine is an ensemble comedy about a talented-but-carefree detective, a by-the-book police captain and their precinct…",
-    "href": "brooklyn-nine-nine.html",
+    "href": "/brooklyn-nine-nine",
     "mix": {
       "safe": 10,
       "maybe": 69,
@@ -121,7 +121,7 @@
     "coverH": 1080,
     "coverLocal": "covers/how-i-met-your-mother.jpg",
     "blurb": "How I Met Your Mother is a comedy about Ted and how he fell in love. It all starts when Ted's best friend, Marshall drops the bombshell…",
-    "href": "how-i-met-your-mother.html",
+    "href": "/how-i-met-your-mother",
     "mix": {
       "safe": 29,
       "maybe": 82,
@@ -146,7 +146,7 @@
     "coverH": 1080,
     "coverLocal": "covers/big-bang-theory.jpg",
     "blurb": "The Big Bang Theory is a comedy about brilliant physicists, Leonard and Sheldon, who are the kind of \"beautiful minds\" that understand how…",
-    "href": "big-bang-theory.html",
+    "href": "/big-bang-theory",
     "mix": {
       "safe": 136,
       "maybe": 85,
@@ -172,7 +172,7 @@
     "coverH": 1080,
     "coverLocal": "covers/modern-family.jpg",
     "blurb": "Modern Family revolves around three different types of families (nuclear, step- and same-sex) living in the Los Angeles area, who are…",
-    "href": "modern-family.html",
+    "href": "/modern-family",
     "mix": {
       "safe": 129,
       "maybe": 94,
@@ -197,7 +197,7 @@
     "coverH": 1080,
     "coverLocal": "covers/seinfeld.jpg",
     "blurb": "Seinfeld is the story of a fictionalized version of stand-up comedian Jerry Seinfeld, his life in New York City and his quirky group of…",
-    "href": "seinfeld.html",
+    "href": "/seinfeld",
     "mix": {
       "safe": 97,
       "maybe": 65,
@@ -223,7 +223,7 @@
     "coverH": 2160,
     "coverLocal": "covers/simpsons.jpg",
     "blurb": "The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and…",
-    "href": "simpsons.html",
+    "href": "/simpsons",
     "mix": {
       "safe": 303,
       "maybe": 218,
@@ -250,7 +250,7 @@
     "coverH": 2160,
     "coverLocal": "covers/futurama.jpg",
     "blurb": "Futurama follows pizza guy Philip J. Fry, who reawakens in 31st century New New York after a cryonics lab accident. Now part of the Planet…",
-    "href": "futurama.html",
+    "href": "/futurama",
     "mix": {
       "safe": 0,
       "maybe": 111,
@@ -275,7 +275,7 @@
     "coverH": 720,
     "coverLocal": "covers/malcolm-in-the-middle.jpg",
     "blurb": "In the words of They Might Be Giants' rollicking Grammy-winning theme song, \"life is unfair.\" The inventive and wholly original sitcom…",
-    "href": "malcolm-in-the-middle.html",
+    "href": "/malcolm-in-the-middle",
     "mix": {
       "safe": 99,
       "maybe": 46,
@@ -301,7 +301,7 @@
     "coverH": 2160,
     "coverLocal": "covers/bobs-burgers.jpg",
     "blurb": "The series follows Bob who runs Bob's Burgers, with the help of his wife and their three kids. Bob has big ideas about burgers, but the…",
-    "href": "bobs-burgers.html",
+    "href": "/bobs-burgers",
     "mix": {
       "safe": 136,
       "maybe": 117,
@@ -327,7 +327,7 @@
     "coverH": 1080,
     "coverLocal": "covers/phineas-and-ferb.jpg",
     "blurb": "Phineas and Ferb are Phineas Flynn and his stepbrother, Ferb Fletcher who are determined to make every day of their summer vacation fun.…",
-    "href": "phineas-and-ferb.html",
+    "href": "/phineas-and-ferb",
     "mix": {
       "safe": 247,
       "maybe": 2,
@@ -354,7 +354,7 @@
     "coverH": 1080,
     "coverLocal": "covers/spongebob.jpg",
     "blurb": "Come follow the adventures of the world's most lovable sponge and his starfish sidekick! Though they have the best intentions, SpongeBob…",
-    "href": "spongebob.html",
+    "href": "/spongebob",
     "mix": {
       "safe": 601,
       "maybe": 1,
@@ -381,7 +381,7 @@
     "coverH": 1152,
     "coverLocal": "covers/avatar.jpg",
     "blurb": "Water. Earth. Fire. Air. Only the Avatar was the master of all four elements. Only he could stop the ruthless Fire Natio…",
-    "href": "avatar.html",
+    "href": "/avatar",
     "mix": {
       "safe": 50,
       "maybe": 5,
@@ -408,7 +408,7 @@
     "coverH": 1080,
     "coverLocal": "covers/adventure-time.jpg",
     "blurb": "Adventure Time's unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo and encounter its colorful",
-    "href": "adventure-time.html",
+    "href": "/adventure-time",
     "mix": {
       "safe": 225,
       "maybe": 11,
@@ -434,7 +434,7 @@
     "coverH": 2160,
     "coverLocal": "covers/bluey.jpg",
     "blurb": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures,…",
-    "href": "bluey.html",
+    "href": "/bluey",
     "mix": {
       "safe": 152,
       "maybe": 0,
@@ -461,7 +461,7 @@
     "coverH": 1080,
     "coverLocal": "covers/steven-universe.jpg",
     "blurb": "Steven Universe, from Adventure Time writer-artist Rebecca Sugar, is a coming-of-age story told from the perspective of Steven, the…",
-    "href": "steven-universe.html",
+    "href": "/steven-universe",
     "mix": {
       "safe": 146,
       "maybe": 3,
@@ -487,7 +487,7 @@
     "coverH": 1080,
     "coverLocal": "covers/full-house.jpg",
     "blurb": "Full House follows Danny Tanner, widowed father of three young and rambunctious girls recruits his two buddies--his rock 'n' roller…",
-    "href": "full-house.html",
+    "href": "/full-house",
     "mix": {
       "safe": 112,
       "maybe": 7,
@@ -514,7 +514,7 @@
     "coverH": 2160,
     "coverLocal": "covers/gravity-falls.jpg",
     "blurb": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer with their great Uncle in the…",
-    "href": "gravity-falls.html",
+    "href": "/gravity-falls",
     "mix": {
       "safe": 31,
       "maybe": 9,
@@ -540,7 +540,7 @@
     "coverH": 1080,
     "coverLocal": "covers/fresh-prince.jpg",
     "blurb": "Will Smith plays a young man transplanted from the tough streets of Philadelphia to live with his wealthy Bel-Air relatives, causing…",
-    "href": "fresh-prince.html",
+    "href": "/fresh-prince",
     "mix": {
       "safe": 115,
       "maybe": 28,
@@ -566,7 +566,7 @@
     "coverH": 1080,
     "coverLocal": "covers/young-sheldon.jpg",
     "blurb": "For young Sheldon Cooper, it isn't easy growing up in East Texas. Being a once-in-a-generation mind…",
-    "href": "young-sheldon.html",
+    "href": "/young-sheldon",
     "mix": {
       "safe": 111,
       "maybe": 24,
@@ -593,7 +593,7 @@
     "coverH": 1750,
     "coverLocal": "covers/rick-and-morty.jpg",
     "blurb": "Rick is a mentally gifted, but sociopathic and alcoholic scientist and a grandfather to Morty; an aw…",
-    "href": "rick-and-morty.html",
+    "href": "/rick-and-morty",
     "mix": {
       "safe": 0,
       "maybe": 6,
@@ -619,7 +619,7 @@
     "coverH": 1080,
     "coverLocal": "covers/family-guy.jpg",
     "blurb": "Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of…",
-    "href": "family-guy.html",
+    "href": "/family-guy",
     "mix": {
       "safe": 34,
       "maybe": 123,
@@ -644,7 +644,7 @@
     "coverH": 720,
     "coverLocal": "covers/south-park.jpg",
     "blurb": "South Park is an adult comedy animation show centred around 4 children in the small town of south pa…",
-    "href": "south-park.html",
+    "href": "/south-park",
     "mix": {
       "safe": 6,
       "maybe": 41,
@@ -671,7 +671,7 @@
     "coverH": 2160,
     "coverLocal": "covers/wednesday.jpg",
     "blurb": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore…",
-    "href": "wednesday.html",
+    "href": "/wednesday",
     "mix": {
       "safe": 0,
       "maybe": 15,
@@ -697,7 +697,7 @@
     "coverH": 2160,
     "coverLocal": "covers/kpop-demon-hunters.jpg",
     "blurb": "K-pop superstars Rumi, Mira and Zoey sell out stadiums by day and secretly defend their fans from demons by night — until a rival boy band…",
-    "href": "kpop-demon-hunters.html",
+    "href": "/kpop-demon-hunters",
     "mix": {
       "safe": 1,
       "maybe": 0,
@@ -721,7 +721,7 @@
     "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
     "ready": true,
     "blurb": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces …",
-    "href": "stranger-things.html",
+    "href": "/stranger-things",
     "mix": {
       "safe": 0,
       "maybe": 5,
@@ -748,7 +748,7 @@
     "summary": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
     "ready": true,
     "blurb": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
-    "href": "legend-of-korra.html",
+    "href": "/legend-of-korra",
     "mix": {
       "safe": 36,
       "maybe": 14,
@@ -775,7 +775,7 @@
     "summary": "The Clone Wars television series chronicles the events taking place during Star Wars Episode II: Attack of the Clones and Star Wars Episode III: Revenge of the Sith. The Clone Wars will ultimately lead to the downfall of the Jedi and the rise of the Galactic Empire.",
     "ready": true,
     "blurb": "The Clone Wars television series chronicles the events taking place during Star Wars Episode II: Attack of the Clones an…",
-    "href": "clone-wars.html",
+    "href": "/clone-wars",
     "mix": {
       "safe": 120,
       "maybe": 13,
@@ -802,7 +802,7 @@
     "summary": "The Owl House follows Luz, a self-assured teenage human girl who accidentally stumbles upon a portal to the Demon Realm where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
     "ready": true,
     "blurb": "The Owl House follows Luz, a self-assured teenage human girl who accidentally stumbles upon a portal to the Demon Realm …",
-    "href": "owl-house.html",
+    "href": "/owl-house",
     "mix": {
       "safe": 31,
       "maybe": 12,
@@ -829,7 +829,7 @@
     "summary": "Amphibia chronicles the adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the fictitious world of Amphibia, a rural marshland full of frog-people. With the help of an excitable young frog named Sprig, Anne will transform into a hero and discover the first true friendship of her life.",
     "ready": true,
     "blurb": "Amphibia chronicles the adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the ficti…",
-    "href": "amphibia.html",
+    "href": "/amphibia",
     "mix": {
       "safe": 99,
       "maybe": 7,
@@ -856,7 +856,7 @@
     "summary": "Pocket Monsters, or Pokémon for short. These arethe mysterious and wondrous creatures of this planet. They can be seen everywhere in the world—in the sky, in the sea, in the forests, in the cities.Ash and Pikachu continue their adventures, going wherever the wind takes them and wherever their hearts lead them, chasing the unfulfilled dream of becoming a \"Pokémon Master.\"Encounters with wild Pokémon along the way—andTeam Rocket's pursuit, aiming to steal Pikachu.Ash and Pikachu were continuing their usual adventurous days, but one day in a forest, they encountered a wounded legendary Pokémon, Latias ...!",
     "ready": true,
     "blurb": "Pocket Monsters, or Pokémon for short. These arethe mysterious and wondrous creatures of this planet. They can be seen e…",
-    "href": "pokemon.html",
+    "href": "/pokemon",
     "mix": {
       "safe": 78,
       "maybe": 1,
