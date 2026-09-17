@@ -201,6 +201,7 @@ SHOWS = {
     "fresh-prince": {
         "name": "The Fresh Prince of Bel-Air", "shelf": "rewatch", "age": 11, "floor": 9,
         "format": "live-action sitcom",
+        "note": "Fish-out-of-water family sitcom with a warm heart. Dating talk, class-clash humor, and mild profanity are common. Several memorable episodes tackle racism, police profiling, and absent fathers directly—powerful discussion-starters for 11+ families ready for those conversations. Most episodes are lighter fare; preview anything rated 3+.",
     },
     "brooklyn-nine-nine": {
         "name": "Brooklyn Nine-Nine", "shelf": "rewatch", "age": 13, "floor": 11,

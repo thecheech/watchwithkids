@@ -1979,6 +1979,7 @@ Watch for:
 ## S8 E1 — The List
 URL: https://watchwiththekids.com/ep/the-office/0801
 Scores: violence 1/5, sex 1/5, language 1/5, overall 1/5 (Usually fine — about 10+)
+Summary: The office staff become obsessed when they find a list of names in two columns in Robert California's notebook.
 Watch for:
 - Alcohol & drugs — 2 moment(s)
   - [Mild] Andy: “Okay. You guys ever had Margarita pizza?”
