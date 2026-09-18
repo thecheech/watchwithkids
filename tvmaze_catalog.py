@@ -45,6 +45,11 @@ TITLE_ALIASES: dict[str, dict[str, str]] = {
         "pilot episode": "pilot",
         "the middle earth paradigm": "the middle earth paradigm",
     },
+    "outer-banks": {
+        # Springfield labels; TVMaze uses the broadcast names.
+        "the runaway": "the runway",
+        "decision day": "family plot",
+    },
     "seinfeld": {
         # Transcript index uses the working title; TVMaze uses the broadcast name.
         "the seinfeld chronicles": "good news bad news",

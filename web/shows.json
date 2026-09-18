@@ -927,5 +927,33 @@
       "total": 40
     },
     "shelf": "rewatch"
+  },
+  {
+    "id": "outer-banks",
+    "name": "Outer Banks",
+    "mazeId": 42062,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/538/1345409.jpg",
+    "coverType": "background",
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Mystery"
+    ],
+    "premiered": "2020",
+    "runtime": 51,
+    "summary": "On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his father's disappearance.",
+    "ready": true,
+    "coverW": 1920,
+    "coverH": 1080,
+    "coverLocal": "covers/outer-banks.jpg",
+    "blurb": "On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his…",
+    "href": "/outer-banks",
+    "mix": {
+      "safe": 0,
+      "maybe": 8,
+      "skip": 32,
+      "total": 40
+    },
+    "shelf": "rewatch"
   }
 ]

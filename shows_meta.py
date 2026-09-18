@@ -140,6 +140,14 @@ SHOWS = {
         "format": "live-action comedy-drama",
         "note": "Workplace football sitcom — swearing, adult themes and mental-health storylines vary by episode.",
     },
+    "outer-banks": {
+        "name": "Outer Banks",
+        "shelf": "rewatch",
+        "age": 15,
+        "floor": 13,
+        "format": "live-action adventure",
+        "note": "Teen treasure-hunt drama — violence, sex, drugs and language swing hard by episode.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",

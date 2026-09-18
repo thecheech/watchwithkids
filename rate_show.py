@@ -171,6 +171,7 @@ SHOW_META = {
     "full-house": {"name": "Full House", "maze": "Full House"},
     "wednesday": {"name": "Wednesday", "maze": "Wednesday"},
     "ted-lasso": {"name": "Ted Lasso", "maze": "Ted Lasso"},
+    "outer-banks": {"name": "Outer Banks", "maze": "Outer Banks"},
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
     "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
     "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},

@@ -21,6 +21,7 @@
     "full-house",
     "wednesday",
     "ted-lasso",
+    "outer-banks",
     "stranger-things",
   ];
   /** Made-for-kids — separate shelf so Bluey isn't next to South Park. */

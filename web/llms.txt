@@ -46,6 +46,7 @@
 - [Amphibia](https://watchwiththekids.com/amphibia): 106 episodes — 93% mild, 7% caution, 0% too much. Full text index: [amphibia.md](https://watchwiththekids.com/llms/amphibia.md)
 - [Pokémon: Indigo League](https://watchwiththekids.com/pokemon): 79 episodes — 99% mild, 1% caution, 0% too much. Full text index: [pokemon.md](https://watchwiththekids.com/llms/pokemon.md)
 - [Ted Lasso](https://watchwiththekids.com/ted-lasso): 40 episodes — 0% mild, 0% caution, 100% too much. Full text index: [ted-lasso.md](https://watchwiththekids.com/llms/ted-lasso.md)
+- [Outer Banks](https://watchwiththekids.com/outer-banks): 40 episodes — 0% mild, 20% caution, 80% too much. Full text index: [outer-banks.md](https://watchwiththekids.com/llms/outer-banks.md)
 
 ## Machine-readable data
 

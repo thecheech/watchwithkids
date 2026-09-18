@@ -21,6 +21,7 @@ index at the project root for compatibility with the web app).
 | [KPop Demon Hunters](transcripts/kpop-demon-hunters/) | — | 1 | 10,082 | springfieldspringfield.co.uk |
 | [Malcolm in the Middle](transcripts/malcolm-in-the-middle/) | 7 | 151 | 422,764 | springfieldspringfield.co.uk |
 | [Modern Family](transcripts/modern-family/) | 11 | 246 | 920,793 | springfieldspringfield.co.uk |
+| [Outer Banks](transcripts/outer-banks/) | 4 | 40 | 226,243 | springfieldspringfield.co.uk |
 | [Parks and Recreation](transcripts/parks-and-recreation/) | 7 | 122 | 425,996 | springfieldspringfield.co.uk |
 | [Phineas and Ferb](transcripts/phineas-and-ferb/) | 5 | 249 | 979,220 | phineasandferb.fandom.com |
 | [Pokémon: Indigo League](transcripts/pokemon/) | — | 115 | 168,932 | pokemon.fandom.com |
@@ -41,7 +42,7 @@ index at the project root for compatibility with the web app).
 | [Wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | springfieldspringfield.co.uk |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 34 shows, 6,139 transcripts, 20,284,440 words.**
+**Total: 35 shows, 6,179 transcripts, 20,510,683 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

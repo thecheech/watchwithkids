@@ -51,6 +51,7 @@ READY = [
     "simpsons",
     "wednesday",
     "ted-lasso",
+    "outer-banks",
     "kpop-demon-hunters",
     "stranger-things",
     "legend-of-korra",
