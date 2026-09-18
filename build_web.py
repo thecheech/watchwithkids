@@ -27,6 +27,9 @@ DATA.mkdir(exist_ok=True)
 SITE = os.environ.get("WWTK_SITE", "https://watchwiththekids.com").rstrip("/")
 BRAND = "Watch With The Kids"
 TAGLINE = "Your kids — your rules!"
+TIKTOK_URL = "https://www.tiktok.com/@watchwiththekids"
+YOUTUBE_URL = "https://www.youtube.com/@WatchWithTheKids"
+SOCIAL_SAME_AS = [TIKTOK_URL, YOUTUBE_URL]
 
 
 def clean_url(path: str) -> str:
@@ -539,6 +542,19 @@ def extra_head(image_url: str, *, preload_cover: str | None = None) -> str:
     )
 
 
+def social_nav_html() -> str:
+    return f"""    <nav class="social-links" aria-label="{esc(BRAND)} on social">
+      <a class="social-link tiktok" href="{esc(TIKTOK_URL)}" target="_blank" rel="noopener noreferrer">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg>
+        <span>TikTok</span>
+      </a>
+      <a class="social-link youtube" href="{esc(YOUTUBE_URL)}" target="_blank" rel="noopener noreferrer">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186 31.59 31.59 0 0 0 0 12a31.59 31.59 0 0 0 .502 5.814 3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136A31.59 31.59 0 0 0 24 12a31.59 31.59 0 0 0-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+        <span>YouTube</span>
+      </a>
+    </nav>"""
+
+
 def site_footer(prefix: str = "") -> str:
     return f"""  <footer class="wrap site-footer">
     <p>
@@ -547,6 +563,7 @@ def site_footer(prefix: str = "") -> str:
       · <a href="/about">How we rate</a>
       · {esc(TAGLINE)}
     </p>
+{social_nav_html()}
   </footer>"""
 
 
@@ -1629,6 +1646,8 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         "",
         f"- [What to watch]({SITE}/guides/): safest episodes and skip lists per show.",
         f"- [How we rate]({SITE}/about): scoring method and disclaimer.",
+        f"- [TikTok]({TIKTOK_URL})",
+        f"- [YouTube]({YOUTUBE_URL})",
         f"- [Show catalogue JSON]({SITE}/shows.json): shows, covers and rating mix.",
         "- Per-show ratings JSON: " + f"{SITE}/data/<show-id>.js (window.RATINGS payload).",
         "",
@@ -1713,6 +1732,7 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
                 "url": f"{SITE}/",
                 "slogan": TAGLINE,
                 "logo": f"{SITE}/icon-192.png",
+                "sameAs": SOCIAL_SAME_AS,
             },
             {
                 "@type": "ItemList",

@@ -722,7 +722,56 @@ a.count-chip:hover {
   font-weight: 700;
 }
 
+.foot p {
+  margin: 0;
+}
+
 .foot strong { color: var(--coral); }
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 0.95rem 0 0;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.42rem;
+  min-height: 44px;
+  padding: 0.4rem 0.9rem 0.4rem 0.7rem;
+  border: 2px solid var(--ink);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 0.92rem;
+  line-height: 1;
+  box-shadow: 0 3px 0 var(--ink);
+}
+
+.social-link svg {
+  display: block;
+  width: 1.15rem;
+  height: 1.15rem;
+  flex: 0 0 auto;
+}
+
+.social-link.tiktok svg { color: #111; }
+.social-link.youtube svg { color: #ff1744; }
+
+@media (hover: hover) {
+  .social-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 0 var(--ink);
+  }
+
+  .social-link.tiktok:hover { background: #e7fbff; }
+  .social-link.youtube:hover { background: #ffe8ee; }
+}
 
 /* MacBook 14 / laptop heights — keep hero inside one screen */
 @media (min-width: 960px) and (max-height: 980px) {
@@ -945,4 +994,8 @@ a.count-chip:hover {
 .foot a {
   color: inherit;
   font-weight: 800;
+}
+
+.foot .social-link {
+  color: var(--ink);
 }

@@ -50,6 +50,8 @@
 
 - [What to watch](https://watchwiththekids.com/guides/): safest episodes and skip lists per show.
 - [How we rate](https://watchwiththekids.com/about): scoring method and disclaimer.
+- [TikTok](https://www.tiktok.com/@watchwiththekids)
+- [YouTube](https://www.youtube.com/@WatchWithTheKids)
 - [Show catalogue JSON](https://watchwiththekids.com/shows.json): shows, covers and rating mix.
 - Per-show ratings JSON: https://watchwiththekids.com/data/<show-id>.js (window.RATINGS payload).
 
