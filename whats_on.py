@@ -23,7 +23,7 @@ SERVICES: list[dict] = [
         "slug": "netflix-family-movies",
         "service": "Netflix",
         "short": "Netflix",
-        "cover": "kpop-demon-hunters.jpg",
+        "cover": "whats-on/dog-man.jpg",
         "h1": "Good Family Movies on Netflix Right Now",
         "title": "Good Family Movies on Netflix Right Now (September 18, 2026)",
         "desc": (
@@ -46,6 +46,7 @@ SERVICES: list[dict] = [
                 "title": "Dog Man",
                 "year": 2025,
                 "mpaa": "PG",
+                "image": "whats-on/dog-man.jpg",
                 "added": "September 13",
                 "ages": "6–10",
                 "verdict": "play",
@@ -65,6 +66,7 @@ SERVICES: list[dict] = [
                 "title": "Puss in Boots: The Last Wish",
                 "year": 2022,
                 "mpaa": "PG",
+                "image": "whats-on/puss-in-boots-the-last-wish.jpg",
                 "added": "September 10",
                 "ages": "8+",
                 "verdict": "preview",
@@ -85,6 +87,7 @@ SERVICES: list[dict] = [
                 "title": "Monster at the End of This Story",
                 "year": 2026,
                 "mpaa": "TV-Y",
+                "image": "whats-on/monster-at-the-end-of-this-story.jpg",
                 "added": "September 7",
                 "ages": "2–6",
                 "verdict": "play",
@@ -100,6 +103,7 @@ SERVICES: list[dict] = [
                 "title": "Barbie in the Nutcracker",
                 "year": 2001,
                 "mpaa": "G",
+                "image": "whats-on/barbie-in-the-nutcracker.jpg",
                 "added": "September 14",
                 "ages": "4–8",
                 "verdict": "play",
@@ -115,6 +119,7 @@ SERVICES: list[dict] = [
                 "title": "Robots",
                 "year": 2005,
                 "mpaa": "PG",
+                "image": "whats-on/robots.jpg",
                 "added": "September 16",
                 "ages": "6–10",
                 "verdict": "play",
@@ -134,6 +139,7 @@ SERVICES: list[dict] = [
                 "title": "Flushed Away",
                 "year": 2006,
                 "mpaa": "PG",
+                "image": "whats-on/flushed-away.jpg",
                 "added": "September 1",
                 "ages": "6+",
                 "verdict": "play",
@@ -149,6 +155,7 @@ SERVICES: list[dict] = [
                 "title": "Shark Tale",
                 "year": 2004,
                 "mpaa": "PG",
+                "image": "whats-on/shark-tale.jpg",
                 "added": "September 1",
                 "ages": "7+",
                 "verdict": "preview",
@@ -168,6 +175,7 @@ SERVICES: list[dict] = [
                 "title": "Antz",
                 "year": 1998,
                 "mpaa": "PG",
+                "image": "whats-on/antz.jpg",
                 "added": "September 1",
                 "ages": "8+",
                 "verdict": "preview",
@@ -187,6 +195,7 @@ SERVICES: list[dict] = [
                 "title": "The Prince of Egypt",
                 "year": 1998,
                 "mpaa": "PG",
+                "image": "whats-on/prince-of-egypt.jpg",
                 "added": "September 1",
                 "ages": "8+",
                 "verdict": "preview",
@@ -207,6 +216,7 @@ SERVICES: list[dict] = [
                 "title": "The Flintstones",
                 "year": 1994,
                 "mpaa": "PG",
+                "image": "whats-on/flintstones.jpg",
                 "added": "September 1",
                 "ages": "8+",
                 "verdict": "preview",
@@ -970,7 +980,19 @@ def _pick_html(pick: dict) -> str:
             f'<a href="{_esc(pick["catalog"])}">open the show page</a>.</p>'
         )
     extra = watch + catalog
-    return f"""    <article class="wo-pick {_verdict_class(pick["verdict"])}">
+    poster = ""
+    has_img = bool(pick.get("image"))
+    if has_img:
+        poster = (
+            f'<img class="wo-poster" src="../covers/{_esc(pick["image"])}" '
+            f'alt="" width="260" height="390" loading="lazy" decoding="async" />'
+        )
+    cls = _verdict_class(pick["verdict"])
+    if has_img:
+        cls += " has-poster"
+    return f"""    <article class="wo-pick {cls}">
+      {poster}
+      <div class="wo-pick-body">
       <header class="wo-pick-head">
         <p class="wo-verdict">{_esc(pick["verdict_label"])}</p>
         <h3>{_esc(pick["title"])} <span>({_esc(pick["year"])})</span></h3>
@@ -978,6 +1000,7 @@ def _pick_html(pick: dict) -> str:
       </header>
       <p>{pick["why"]}</p>
       {extra}
+      </div>
     </article>"""
 
 
