@@ -1131,11 +1131,23 @@ def _require_posters() -> None:
 
 
 def _service_nav(current: str | None = None) -> str:
+    icons = {
+        "netflix-family-movies": ("netflix", "netflix.svg"),
+        "disney-plus-family-movies": ("disney", "disney.svg"),
+        "prime-video-family-movies": ("amazon", "amazon.svg"),
+        "max-family-movies": ("max", "max.svg"),
+        "apple-tv-family-movies": ("apple", "apple.svg"),
+        "paramount-plus-family-movies": ("paramount", "paramount.svg"),
+    }
     links = []
     for s in SERVICES:
         cls = ' class="is-current"' if s["slug"] == current else ""
+        provider, icon = icons[s["slug"]]
         links.append(
-            f'<a href="/whats-on/{_esc(s["slug"])}"{cls}>{_esc(s["short"])}</a>'
+            f'<a href="/whats-on/{_esc(s["slug"])}"{cls} data-provider="{provider}" '
+            f'aria-label="{_esc(s["short"])}">'
+            f'<img class="wo-svc-logo" src="../icons/{icon}" alt="" width="24" height="16" />'
+            f'<span>{_esc(s["short"])}</span></a>'
         )
     return (
         '<nav class="wo-services" aria-label="Streaming services">'
