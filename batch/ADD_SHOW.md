@@ -52,8 +52,8 @@ All must exit 0. Spot-check `ratings/<id>.json` episode count and `web/<id>.html
 ### 5. Mark done
 In `batch/queue.json` set `"status": "done"`, add `"completedAt": "<ISO8601>"`, and a short `"result"` (episode count + any caveats).
 
-### 6. Commit and push (required — every successful show)
-Always commit **and** push to `origin` on the current branch after a green validate. Do this without waiting for a human ask.
+### 6. Commit, push, and deploy production (required — every successful show)
+Always commit **and** push to `origin` on the current branch after a green validate, then deploy production. Do this without waiting for a human ask.
 
 ```bash
 git add -A
@@ -65,17 +65,19 @@ Add <Name> episode ratings to catalog.
 EOF
 )"
 git push -u origin HEAD
+
+# Push alone does NOT update production — deploy explicitly:
+vercel deploy --prod --yes --archive=tgz
 ```
 
-One commit per show. Include ratings, web pages, covers, stills, queue status, and registration edits. If push fails, leave `"status": "done"` but set `"pushError"` and stop — do not start the next show.
-
-Do **not** deploy to Vercel unless the queue item or user message says so.
+One commit per show. Include ratings, web pages, covers, stills, queue status, and registration edits. If push or deploy fails, leave `"status": "done"` but set `"pushError"` / `"deployError"` and stop — do not start the next show.
 
 ## Failure rules
 - If transcripts cannot be found after trying alternate sources: set `"status": "blocked"`, `"blockReason": "..."`, commit+push the queue update, stop for this hour.
 - If rating/build fails: leave `"in_progress"`, record `"lastError"`, commit+push the partial queue state if useful, do not start the next show.
 - Never mark `done` without green `check_ratings.py` + `validate_sitemaps.py`.
 - Never leave generated catalog files uncommitted after a successful show.
+- Never skip `vercel deploy --prod` after a successful show — git push alone does not update the live site.
 
 ## Shelf / age defaults
 Use queue fields. When unsure: rewatch sitcoms ≈ age 12–13 / floor 10–11; teen Netflix ≈ 14–15 / floor 12–13; adult animation ≈ 16 / floor 14 (like Rick and Morty).
