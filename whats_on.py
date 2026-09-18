@@ -1255,14 +1255,6 @@ def hub_body() -> str:
     <ul class="wo-hub-grid">
       {"".join(cards)}
     </ul>
-    <section class="wo-section">
-      <h2>How this is different from What to watch</h2>
-      <p>
-        <a href="/guides/">What to watch</a> is episode lists for shows we’ve scored 1–5.
-        <strong>What’s on</strong> is the weekly streaming roundup: new movies, age notes,
-        and a 60-second script you can film for TikTok, Reels or Shorts.
-      </p>
-    </section>
   </main>"""
 
 

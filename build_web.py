@@ -10,7 +10,7 @@ import re
 import shutil
 from datetime import date
 from pathlib import Path
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 
 from catalog import dedupe_codes
 from parents_guide import pnk_content
@@ -841,6 +841,114 @@ def watch_action(show_id: str, show_name: str) -> dict | None:
     if not data or not data["watch"]:
         return None
     return {"@type": "WatchAction", "target": outbound_href(data["watch"][0])}
+
+
+# Internal What's on guides — auto-link streamer names in page body copy.
+STREAMER_GUIDE_LINKS: tuple[tuple[str, str], ...] = (
+    ("Paramount+", "/whats-on/paramount-plus-family-movies"),
+    ("Prime Video", "/whats-on/prime-video-family-movies"),
+    ("Apple TV+", "/whats-on/apple-tv-family-movies"),
+    ("Disney+", "/whats-on/disney-plus-family-movies"),
+    ("HBO Max", "/whats-on/max-family-movies"),
+    ("Netflix", "/whats-on/netflix-family-movies"),
+    ("Max", "/whats-on/max-family-movies"),
+    ("HBO", "/whats-on/max-family-movies"),
+    ("Prime", "/whats-on/prime-video-family-movies"),
+)
+_STREAMER_NAME_RE = re.compile(
+    r"Paramount\+|Prime Video|Apple TV\+|Disney\+|HBO Max|Netflix|\bMax\b|\bHBO\b|\bPrime\b"
+)
+_STREAMER_HREF = {name: href for name, href in STREAMER_GUIDE_LINKS}
+_STREAMER_SKIP_TAGS = frozenset(
+    {"a", "script", "style", "code", "pre", "textarea", "svg", "button", "noscript"}
+)
+
+
+def _streamer_skip_href(page_path: str | None) -> str | None:
+    if not page_path:
+        return None
+    normalized = page_path.replace("\\", "/").replace(".html", "").rstrip("/")
+    for href in dict.fromkeys(_STREAMER_HREF.values()):
+        slug = href.rstrip("/").rsplit("/", 1)[-1]
+        if normalized == f"/whats-on/{slug}" or normalized.endswith(f"/{slug}"):
+            return href
+    return None
+
+
+def _link_streamer_plain(text: str, *, skip_href: str | None = None) -> str:
+    if not text or not _STREAMER_NAME_RE.search(text):
+        return text
+
+    def repl(match: re.Match[str]) -> str:
+        name = match.group(0)
+        href = _STREAMER_HREF.get(name)
+        if not href or (skip_href and href.rstrip("/") == skip_href.rstrip("/")):
+            return name
+        return f'<a class="streamer-link" href="{href}">{name}</a>'
+
+    return _STREAMER_NAME_RE.sub(repl, text)
+
+
+def link_streamer_names(html: str, *, skip_href: str | None = None) -> str:
+    """Wrap bare streamer names in body HTML with links to What's on guides."""
+    if not html or not _STREAMER_NAME_RE.search(html):
+        return html
+    parts = re.split(r"(<!--.*?-->|<[^>]+>)", html, flags=re.DOTALL)
+    out: list[str] = []
+    skip_stack: list[str] = []
+    for part in parts:
+        if not part:
+            continue
+        if part.startswith("<!--") or (part.startswith("<") and part.endswith(">")):
+            out.append(part)
+            if part.startswith("<!--"):
+                continue
+            tag_match = re.match(r"</?\s*([A-Za-z][\w:-]*)", part)
+            if not tag_match:
+                continue
+            tag = tag_match.group(1).lower()
+            if tag not in _STREAMER_SKIP_TAGS:
+                continue
+            if part.startswith("</"):
+                if skip_stack and skip_stack[-1] == tag:
+                    skip_stack.pop()
+            elif part.endswith("/>"):
+                continue
+            else:
+                skip_stack.append(tag)
+            continue
+        if skip_stack:
+            out.append(part)
+        else:
+            out.append(_link_streamer_plain(part, skip_href=skip_href))
+    return "".join(out)
+
+
+def link_streamer_names_document(html: str, *, page_path: str | None = None) -> str:
+    """Apply streamer autolinks inside <body> only (never <title>/meta)."""
+    skip_href = _streamer_skip_href(page_path)
+    match = re.search(r"(<body\b[^>]*>)(.*)(</body>)", html, flags=re.IGNORECASE | re.DOTALL)
+    if not match:
+        return link_streamer_names(html, skip_href=skip_href)
+    return (
+        html[: match.start(2)]
+        + link_streamer_names(match.group(2), skip_href=skip_href)
+        + html[match.end(2) :]
+    )
+
+
+def apply_streamer_links_sitewide() -> int:
+    """Idempotent pass over every HTML page under web/."""
+    changed = 0
+    for path in sorted(WEB.rglob("*.html")):
+        raw = path.read_text()
+        rel = "/" + path.relative_to(WEB).as_posix()
+        updated = link_streamer_names_document(raw, page_path=rel)
+        if updated != raw:
+            path.write_text(updated)
+            changed += 1
+    print(f"Streamer guide links: updated {changed} HTML pages")
+    return changed
 
 
 # ── data payloads ─────────────────────────────────────────────────────────────
@@ -1887,6 +1995,7 @@ def _static_page(
     prefix: str,
     og_type: str = "website",
 ) -> str:
+    body = link_streamer_names(body, skip_href=_streamer_skip_href(urlparse(url).path))
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -2783,6 +2892,7 @@ def main() -> None:
     write_robots()
     write_llms_txt(shows, mixes)
     update_index_html(shows, mixes)
+    apply_streamer_links_sitewide()
 
     print(f"Updated shows.js ready flags: {sorted(mixes)}")
     print(f"Sitemap: {len(sitemap)} URLs · robots.txt · llms.txt · llms/*.md · guides + what's on + about")
