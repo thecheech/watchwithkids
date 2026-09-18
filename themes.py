@@ -427,6 +427,7 @@ FINE_BY_SHOW = {
     "modern-family": ["Family sitcom", "Mockumentary family chaos"],
     "abbott-elementary": ["Workplace comedy", "School mockumentary"],
     "regular-show": ["Park-worker cartoon hijinks", "Cartoon Network adventure comedy"],
+    "amazing-digital-circus": ["Virtual-circus cartoon", "Surreal digital-world comedy"],
 }
 
 # Kids animation: slapstick is the genre, not a warning sign.

@@ -196,6 +196,14 @@ SHOWS = {
         "format": "animated fantasy",
         "note": "League of Legends origin story — episode-to-episode violence and darker themes vary a lot.",
     },
+    "amazing-digital-circus": {
+        "name": "The Amazing Digital Circus",
+        "shelf": "kids",
+        "age": 10,
+        "floor": 8,
+        "format": "kids animation",
+        "note": "GLITCH YouTube circus — bright cartoon look with existential dread, body horror, and language that ramps up.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",

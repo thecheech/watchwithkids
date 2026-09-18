@@ -39,6 +39,7 @@ index at the project root for compatibility with the web app).
 | [Steven Universe](transcripts/steven-universe/) | 5 | 149 | 456,835 | steven-universe.fandom.com |
 | [Stranger Things](transcripts/stranger-things/) | 4 | 34 | 166,248 | 8flix.com (via TidyTuesday) |
 | [Ted Lasso](transcripts/ted-lasso/) | 4 | 40 | 209,250 | springfieldspringfield.co.uk |
+| [The Amazing Digital Circus](transcripts/amazing-digital-circus/) | 1 | 32 | 72,351 | tadc.fandom.com + springfieldspringfield (S1E1–E3) |
 | [The Big Bang Theory](transcripts/big-bang-theory/) | 12 | 279 | 795,605 | bigbangtrans.wordpress.com + springfieldspringfield (S11-12) |
 | [The Fresh Prince of Bel-Air](transcripts/fresh-prince/) | 6 | 148 | 378,300 | springfieldspringfield.co.uk |
 | [The Legend of Korra](transcripts/legend-of-korra/) | — | 104 | 590,263 | avatar.fandom.com |
@@ -48,7 +49,7 @@ index at the project root for compatibility with the web app).
 | [Wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | springfieldspringfield.co.uk |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 41 shows, 6,871 transcripts, 22,725,666 words.**
+**Total: 42 shows, 6,903 transcripts, 22,798,017 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

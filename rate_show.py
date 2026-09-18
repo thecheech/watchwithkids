@@ -126,7 +126,7 @@ KIDS_SHOW_IDS = {
     "spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar",
     "gravity-falls", "steven-universe", "kpop-demon-hunters", "legend-of-korra",
     "clone-wars", "owl-house", "amphibia", "pokemon", "percy-jackson",
-    "regular-show",
+    "regular-show", "amazing-digital-circus",
 }
 
 # Title overrides for known data quality issues from scrape sources
@@ -136,6 +136,10 @@ TITLE_OVERRIDES: dict[str, dict[str, str]] = {
     },
     "abbott-elementary": {
         "0508": "Birthday",
+    },
+    "amazing-digital-circus": {
+        # maze_episode_title strips a trailing "Episode" (meant for "Pilot Episode").
+        "0107": "Beach Episode",
     },
 }
 
@@ -185,6 +189,10 @@ SHOW_META = {
     "regular-show": {"name": "Regular Show", "maze": "Regular Show"},
     "king-of-the-hill": {"name": "King of the Hill", "maze": "King of the Hill"},
     "arcane": {"name": "Arcane", "maze": "Arcane"},
+    "amazing-digital-circus": {
+        "name": "The Amazing Digital Circus",
+        "maze": "The Amazing Digital Circus",
+    },
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
     "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
     "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},

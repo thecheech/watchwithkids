@@ -1272,5 +1272,33 @@
     "shelf": "rewatch",
     "seasons": 2,
     "isMovie": false
+  },
+  {
+    "id": "amazing-digital-circus",
+    "name": "The Amazing Digital Circus",
+    "mazeId": 72128,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/483/1207540.jpg",
+    "coverType": "poster",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "premiered": "2023",
+    "runtime": null,
+    "summary": "The Amazing Digital Circus is a psychological dark comedy. It follows a cast of humans—Pomni, Jax, Ragatha, Gangle, Kinger, and Zooble—who have become trapped in the titular circus, a virtual reality game. Under the direction of the circus's ringmaster, an artificial intelligence named Caine.",
+    "ready": true,
+    "coverLocal": "covers/amazing-digital-circus.jpg",
+    "href": "/amazing-digital-circus",
+    "mix": {
+      "safe": 6,
+      "maybe": 3,
+      "skip": 0,
+      "total": 9,
+      "seasons": 1,
+      "is_movie": false
+    },
+    "shelf": "kids",
+    "seasons": 1,
+    "isMovie": false
   }
 ]

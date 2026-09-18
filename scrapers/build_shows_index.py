@@ -42,6 +42,7 @@ DISPLAY = {
     "regular-show": ("Regular Show", "regularshow.fandom.com"),
     "king-of-the-hill": ("King of the Hill", "springfieldspringfield.co.uk"),
     "arcane": ("Arcane", "springfieldspringfield.co.uk"),
+    "amazing-digital-circus": ("The Amazing Digital Circus", "tadc.fandom.com + springfieldspringfield (S1E1–E3)"),
     "kpop-demon-hunters": ("KPop Demon Hunters", "springfieldspringfield.co.uk"),
     "stranger-things": ("Stranger Things", "8flix.com (via TidyTuesday)"),
     "legend-of-korra": ("The Legend of Korra", "avatar.fandom.com"),

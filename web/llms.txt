@@ -53,6 +53,7 @@
 - [Regular Show](https://watchwiththekids.com/regular-show): 246 episodes — 69% mild, 31% caution, 0% too much. Full text index: [regular-show.md](https://watchwiththekids.com/llms/regular-show.md)
 - [King of the Hill](https://watchwiththekids.com/king-of-the-hill): 259 episodes — 58% mild, 34% caution, 8% too much. Full text index: [king-of-the-hill.md](https://watchwiththekids.com/llms/king-of-the-hill.md)
 - [Arcane](https://watchwiththekids.com/arcane): 18 episodes — 22% mild, 67% caution, 11% too much. Full text index: [arcane.md](https://watchwiththekids.com/llms/arcane.md)
+- [The Amazing Digital Circus](https://watchwiththekids.com/amazing-digital-circus): 9 episodes — 67% mild, 33% caution, 0% too much. Full text index: [amazing-digital-circus.md](https://watchwiththekids.com/llms/amazing-digital-circus.md)
 
 ## Machine-readable data
 

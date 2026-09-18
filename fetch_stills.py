@@ -65,6 +65,7 @@ READY = [
     "regular-show",
     "king-of-the-hill",
     "arcane",
+    "amazing-digital-circus",
 ]
 
 

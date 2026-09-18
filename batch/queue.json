@@ -132,11 +132,14 @@
       "shelf": "kids",
       "age": 10,
       "floor": 8,
-      "source": "blocked-pending-source",
-      "ssSlug": null,
+      "source": "wiki",
+      "ssSlug": "the-amazing-digital-circus-2023",
+      "wikiApi": "https://tadc.fandom.com/api.php",
       "mazeQuery": "The Amazing Digital Circus",
-      "status": "pending",
-      "note": "No Springfield scripts; need fandom/manual transcripts before hourly run can succeed"
+      "status": "done",
+      "note": "Springfield has S1E1–E3 only; later episodes from tadc.fandom.com",
+      "completedAt": "2026-09-18T22:09:31Z",
+      "result": "9 episodes rated (S1 complete; all TVMaze episodes). Springfield S1E1–E3 plus tadc.fandom.com for E4–E9; extras/trailers dropped. Overrode Beach Episode title. check_ratings + sitemaps green. Mix 6 mild / 3 caution / 0 too much — Mildenhall Manor, They All Get Guns, and Remember are preview-first."
     },
     {
       "order": 10,

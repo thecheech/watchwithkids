@@ -99,6 +99,7 @@ READY = [
     "regular-show",
     "king-of-the-hill",
     "arcane",
+    "amazing-digital-circus",
 ]
 
 SHOW_PAGE = {
@@ -179,6 +180,10 @@ SHOW_PAGE = {
     "arcane": {
         "name": "Arcane",
         "h1": 'Arcane <span class="pop">🔮</span>',
+    },
+    "amazing-digital-circus": {
+        "name": "The Amazing Digital Circus",
+        "h1": 'The Amazing Digital Circus <span class="pop">🎪</span>',
     },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
