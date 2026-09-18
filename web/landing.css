@@ -186,6 +186,8 @@ main,
   -webkit-background-clip: text;
   background-clip: text;
   animation: gradient-shift 5s ease-in-out infinite;
+  /* Tight h1 letter-spacing collapses "kids?" — give the ? room */
+  padding-right: 0.12em;
 }
 
 @keyframes gradient-shift {
