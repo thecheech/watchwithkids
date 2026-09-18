@@ -1828,6 +1828,7 @@ body.report-open {
   flex: 0 0 auto;
 }
 
+.social-link.instagram svg { color: #e4405f; }
 .social-link.tiktok svg { color: #111; }
 .social-link.youtube svg { color: #ff1744; }
 
@@ -1837,6 +1838,7 @@ body.report-open {
     box-shadow: 0 5px 0 var(--ink);
   }
 
+  .social-link.instagram:hover { background: #fdeef5; }
   .social-link.tiktok:hover { background: #e7fbff; }
   .social-link.youtube:hover { background: #ffe8ee; }
 }
