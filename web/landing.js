@@ -250,6 +250,17 @@
     });
   }
 
+  function catalogLine(s) {
+    if (s.isMovie) return "Movie";
+    const seasons = Number(s.seasons) || 0;
+    const eps = (s.mix && s.mix.total) || 0;
+    if (!seasons && !eps) return "";
+    if (!seasons) return eps === 1 ? "1 episode" : `${eps} episodes`;
+    const seasonBit = seasons === 1 ? "1 season" : `${seasons} seasons`;
+    const epBit = eps === 1 ? "1 episode" : `${eps} episodes`;
+    return `${seasonBit} · ${epBit}`;
+  }
+
   function cardHtml(s, i, soonMode) {
     const soon = soonMode || !s.ready;
     const tag = soon ? `<span class="status soon">Coming soon</span>` : "";
@@ -259,6 +270,10 @@
     const mix = s.mix;
     const scoreHtml =
       !soon && mix && mix.total ? safeScoreHtml(mix) : "";
+    const catalog = soon ? "" : catalogLine(s);
+    const catalogHtml = catalog
+      ? `<p class="catalog">${escapeHtml(catalog)}</p>`
+      : "";
     return `
       <${tagName} class="${cls}" data-i="${i}" ${soon ? "" : `href="${href}"`}>
         <img src="${s.coverLocal}" alt="${escapeHtml(s.name)}" width="${s.coverW || 1920}" height="${s.coverH || 1080}" loading="lazy" />
@@ -269,6 +284,7 @@
           <p class="year">${escapeHtml(s.premiered || "")}${
             s.genres?.[0] ? ` · ${escapeHtml(s.genres[0])}` : ""
           }</p>
+          ${catalogHtml}
           ${scoreHtml}
         </div>
       </${tagName}>

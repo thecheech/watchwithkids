@@ -376,6 +376,60 @@ def ep_count(n: int) -> str:
     return f"{n} episode" if int(n) == 1 else f"{n} episodes"
 
 
+def season_count(n: int) -> str:
+    return "1 season" if int(n) == 1 else f"{n} seasons"
+
+
+def catalog_size(episodes: list[dict], show_id: str | None = None) -> dict:
+    """Numbered seasons (specials/season 0 excluded) plus episode total."""
+    total = len(episodes)
+    numbered = {
+        str(ep.get("season"))
+        for ep in episodes
+        if str(ep.get("season")) not in {"0", "None", "none", ""}
+    }
+    seasons = len(numbered)
+    is_movie = show_id in MOVIE_SHOWS or (seasons == 0 and total <= 2)
+    return {"seasons": seasons, "episodes": total, "is_movie": is_movie}
+
+
+def catalog_line(size: dict, *, compact: bool = False) -> str:
+    if size.get("is_movie"):
+        return "Movie"
+    seasons = int(size.get("seasons") or 0)
+    eps = int(size.get("episodes") or 0)
+    if not seasons:
+        return f"{eps} eps" if compact and eps != 1 else ep_count(eps)
+    season_txt = season_count(seasons)
+    ep_txt = f"{eps} eps" if compact and eps != 1 else ("1 ep" if compact else ep_count(eps))
+    return f"{season_txt} · {ep_txt}"
+
+
+def catalog_size_from_show(s: dict) -> dict:
+    mix = s.get("mix") or {}
+    return {
+        "seasons": int(s.get("seasons") or mix.get("seasons") or 0),
+        "episodes": int(mix.get("total") or s.get("episodes") or 0),
+        "is_movie": bool(s.get("isMovie") or mix.get("is_movie")),
+    }
+
+
+def catalog_hero_html(size: dict) -> str:
+    """Show-page facts row: big numbers, right under the H1."""
+    if size.get("is_movie"):
+        return '<p class="hero-catalog">Movie</p>'
+    seasons = int(size.get("seasons") or 0)
+    eps = int(size.get("episodes") or 0)
+    bits = []
+    if seasons:
+        noun = "season" if seasons == 1 else "seasons"
+        bits.append(f"<strong>{seasons}</strong> {noun}")
+    noun = "episode" if eps == 1 else "episodes"
+    bits.append(f"<strong>{eps}</strong> {noun}")
+    sep = ' <span class="sep" aria-hidden="true">·</span> '
+    return f'<p class="hero-catalog">{sep.join(bits)}</p>'
+
+
 def safe_code(code: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]+", "-", str(code)).strip("-") or "ep"
 
@@ -1472,24 +1526,28 @@ def episode_index_html(show_id: str, payload: dict) -> str:
 def show_jsonld(show_id: str, payload: dict, mix: dict) -> str:
     url = show_url(show_id)
     episodes = payload["episodes"]
+    size = catalog_size(episodes, show_id)
+    series = {
+        "@type": "TVSeries",
+        "@id": f"{url}#series",
+        "name": payload["show"],
+        "url": url,
+        "numberOfEpisodes": len(episodes),
+        "image": f"{SITE}/covers/{show_id}.jpg",
+        "description": (
+            f"Parent guide to every {payload['show']} episode: violence, sex and language "
+            f"scored 1–5 with the exact moments quoted."
+        ),
+        **(
+            {"potentialAction": watch_action(show_id, payload["show"])}
+            if watch_action(show_id, payload["show"])
+            else {}
+        ),
+    }
+    if size["seasons"] and not size["is_movie"]:
+        series["numberOfSeasons"] = size["seasons"]
     graph = [
-        {
-            "@type": "TVSeries",
-            "@id": f"{url}#series",
-            "name": payload["show"],
-            "url": url,
-            "numberOfEpisodes": len(episodes),
-            "image": f"{SITE}/covers/{show_id}.jpg",
-            "description": (
-                f"Parent guide to every {payload['show']} episode: violence, sex and language "
-                f"scored 1–5 with the exact moments quoted."
-            ),
-            **(
-                {"potentialAction": watch_action(show_id, payload["show"])}
-                if watch_action(show_id, payload["show"])
-                else {}
-            ),
-        },
+        series,
         {
             "@type": "ItemList",
             "name": f"{payload['show']} seasons rated for kids",
@@ -1567,6 +1625,7 @@ def write_show_html(show_id: str, payload: dict, mix: dict) -> None:
     <div class="wrap hero-inner">
       <div class="hero-copy">
         <h1>Is {esc(name)} OK for kids?</h1>
+        {catalog_hero_html(catalog_size(payload["episodes"], show_id))}
         <p class="tagline">
           {meta["h1"]} — every episode scored so you can decide
           <strong>before you press play</strong>.
@@ -1850,9 +1909,10 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
     for s in live:
         mix = mixes[s["id"]]
         total = mix["total"] or 1
+        size = catalog_size_from_show(s)
         rows.append(
             f'<li><a href="/{esc(s["id"])}"><strong>{esc(s["name"])}</strong></a> — '
-            f'{ep_count(mix["total"])} rated: {bucket_mix_pct(mix)}.</li>'
+            f'{esc(catalog_line(size))}, rated: {bucket_mix_pct(mix)}.</li>'
         )
     shows_block = f"""
   <section class="wrap seo-copy" aria-label="Shows rated">
@@ -2298,6 +2358,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
             f'<span class="guide-body">'
             f"{badge}"
             f"<h2>{esc(s['name'])}</h2>"
+            f'<p class="guide-catalog">{esc(catalog_line(catalog_size_from_show(s)))}</p>'
             f'<p class="guide-stat">{esc(stat)}</p>'
             f'<span class="guide-mix" aria-hidden="true">'
             f'<span class="guide-seg safe" style="flex-grow:{safe_pct}"></span>'
@@ -2473,7 +2534,7 @@ def write_show_guide(show_id: str, payload: dict, mix: dict) -> list[tuple[str, 
   <header class="hero">
     <div class="wrap hero-inner">
       <div class="hero-copy">
-        <p class="eyebrow">{mix["total"]} episodes rated 1–5</p>
+        <p class="eyebrow">{esc(catalog_line(catalog_size(eps, show_id)))} rated 1–5</p>
         <h1>What to watch in {esc(name)} with kids</h1>
         <p class="tagline">
           Start with a {BUCKET_UI["safe"]["lower"]} episode, or check the skip list before movie night.
@@ -2845,6 +2906,9 @@ def build_show(show_id: str, src: Path, sitemap: list[tuple[str, str]]) -> tuple
     listing["count"] = len(listing["episodes"])
     full["count"] = len(full["episodes"])
     mix = episode_mix(listing["episodes"])
+    size = catalog_size(listing["episodes"], show_id)
+    mix["seasons"] = size["seasons"]
+    mix["is_movie"] = size["is_movie"]
 
     out = DATA / f"{show_id}.js"
     out.write_text("window.RATINGS = " + json.dumps(listing, ensure_ascii=False) + ";\n")
@@ -2892,8 +2956,12 @@ def main() -> None:
         s["shelf"] = shelf_of(s["id"])
         if s["id"] in mixes:
             s["mix"] = mixes[s["id"]]
+            s["seasons"] = mixes[s["id"]].get("seasons", 0)
+            s["isMovie"] = bool(mixes[s["id"]].get("is_movie"))
         else:
             s.pop("mix", None)
+            s.pop("seasons", None)
+            s.pop("isMovie", None)
     shows_path.write_text(json.dumps(shows, indent=2, ensure_ascii=False) + "\n")
     (WEB / "shows.js").write_text("window.SHOWS = " + json.dumps(shows, ensure_ascii=False) + ";\n")
 
