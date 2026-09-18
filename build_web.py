@@ -86,6 +86,7 @@ READY = [
     "wednesday",
     "ted-lasso",
     "outer-banks",
+    "invincible",
     "kpop-demon-hunters",
     "stranger-things",
     "legend-of-korra",
@@ -153,6 +154,7 @@ SHOW_PAGE = {
     "wednesday": {"name": "Wednesday", "h1": 'Wednesday <span class="pop">🖤</span>'},
     "ted-lasso": {"name": "Ted Lasso", "h1": 'Ted Lasso <span class="pop">⚽</span>'},
     "outer-banks": {"name": "Outer Banks", "h1": 'Outer Banks <span class="pop">🌊</span>'},
+    "invincible": {"name": "Invincible", "h1": 'Invincible <span class="pop">🦸</span>'},
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "h1": 'KPop Demon Hunters <span class="pop">🎤</span>',

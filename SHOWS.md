@@ -18,6 +18,7 @@ index at the project root for compatibility with the web app).
 | [Futurama](transcripts/futurama/) | 11 | 141 | 852,953 | theinfosphere.org |
 | [Gravity Falls](transcripts/gravity-falls/) | 2 | 40 | 203,706 | gravityfalls.fandom.com |
 | [How I Met Your Mother](transcripts/how-i-met-your-mother/) | 9 | 208 | 625,893 | springfieldspringfield.co.uk |
+| [Invincible](transcripts/invincible/) | 4 | 33 | 144,818 | springfieldspringfield.co.uk |
 | [KPop Demon Hunters](transcripts/kpop-demon-hunters/) | — | 1 | 10,082 | springfieldspringfield.co.uk |
 | [Malcolm in the Middle](transcripts/malcolm-in-the-middle/) | 7 | 151 | 422,764 | springfieldspringfield.co.uk |
 | [Modern Family](transcripts/modern-family/) | 11 | 246 | 920,793 | springfieldspringfield.co.uk |
@@ -42,7 +43,7 @@ index at the project root for compatibility with the web app).
 | [Wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | springfieldspringfield.co.uk |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 35 shows, 6,179 transcripts, 20,510,683 words.**
+**Total: 36 shows, 6,212 transcripts, 20,655,501 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

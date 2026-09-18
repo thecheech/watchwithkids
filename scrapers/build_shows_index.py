@@ -36,6 +36,7 @@ DISPLAY = {
     "wednesday": ("Wednesday", "springfieldspringfield.co.uk"),
     "ted-lasso": ("Ted Lasso", "springfieldspringfield.co.uk"),
     "outer-banks": ("Outer Banks", "springfieldspringfield.co.uk"),
+    "invincible": ("Invincible", "springfieldspringfield.co.uk"),
     "kpop-demon-hunters": ("KPop Demon Hunters", "springfieldspringfield.co.uk"),
     "stranger-things": ("Stranger Things", "8flix.com (via TidyTuesday)"),
     "legend-of-korra": ("The Legend of Korra", "avatar.fandom.com"),

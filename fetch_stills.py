@@ -52,6 +52,7 @@ READY = [
     "wednesday",
     "ted-lasso",
     "outer-banks",
+    "invincible",
     "kpop-demon-hunters",
     "stranger-things",
     "legend-of-korra",

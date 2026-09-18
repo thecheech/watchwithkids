@@ -47,6 +47,7 @@
 - [Pokémon: Indigo League](https://watchwiththekids.com/pokemon): 79 episodes — 99% mild, 1% caution, 0% too much. Full text index: [pokemon.md](https://watchwiththekids.com/llms/pokemon.md)
 - [Ted Lasso](https://watchwiththekids.com/ted-lasso): 40 episodes — 0% mild, 0% caution, 100% too much. Full text index: [ted-lasso.md](https://watchwiththekids.com/llms/ted-lasso.md)
 - [Outer Banks](https://watchwiththekids.com/outer-banks): 40 episodes — 0% mild, 20% caution, 80% too much. Full text index: [outer-banks.md](https://watchwiththekids.com/llms/outer-banks.md)
+- [Invincible](https://watchwiththekids.com/invincible): 32 episodes — 0% mild, 16% caution, 84% too much. Full text index: [invincible.md](https://watchwiththekids.com/llms/invincible.md)
 
 ## Machine-readable data
 

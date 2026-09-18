@@ -50,6 +50,10 @@ TITLE_ALIASES: dict[str, dict[str, str]] = {
         "the runaway": "the runway",
         "decision day": "family plot",
     },
+    "invincible": {
+        # Springfield short label for S2E6.
+        "not that": "it s not that simple",
+    },
     "seinfeld": {
         # Transcript index uses the working title; TVMaze uses the broadcast name.
         "the seinfeld chronicles": "good news bad news",

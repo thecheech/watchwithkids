@@ -148,6 +148,14 @@ SHOWS = {
         "format": "live-action adventure",
         "note": "Teen treasure-hunt drama — violence, sex, drugs and language swing hard by episode.",
     },
+    "invincible": {
+        "name": "Invincible",
+        "shelf": "adult",
+        "age": 16,
+        "floor": 14,
+        "format": "adult animation",
+        "note": "TV-MA. Rated here so you know which episodes are roughest, not because it is kids TV.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",

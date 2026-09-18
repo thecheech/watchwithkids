@@ -1,0 +1,33 @@
+season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
+1,1,0101,It's About Time,3,2,4,4,14,Skip for under 14,Sex & hookups — “ever talk about sex”
+1,2,0102,Here Goes Nothing,3,1,4,4,14,Skip for under 14,Violence & injury — Someone murdered the Guardians of the Globe last night.
+1,3,0103,Who You Calling Ugly?,3,2,4,4,14,Skip for under 14,"Sex & hookups — The guys who are interested are either going through puberty, or popping up on sex offender registries."
+1,4,0104,"Neil Armstrong, Eat Your Heart Out",3,1,4,4,14,Skip for under 14,"Violence & injury — Did you maybe push too far? Are you questioning me? No one else at scene of murders, only Omni-Man."
+1,5,0105,That Actually Hurt,3,1,5,5,16,Heavy — skip for under 16,Affairs / cheating — But now that you're not even part of a team Rex cheated on me! Teen Team broke up.
+1,6,0106,You Look Kinda Dead,3,3,4,4,14,Skip for under 14,"Sex & hookups — So Do one, or, ideally, all of you, want to have sex tonight, and get in on the ground floor of my inheritance? -Gross."
+1,7,0107,We Need to Talk,3,1,5,5,16,Heavy — skip for under 16,Violence & injury — “Murdered and robbed”
+1,8,0108,Where I Really Come From,3,1,5,5,16,Heavy — skip for under 16,"Violence & injury — Does Mark know that his dad's a murderer? Keep out of this, Cecil."
+2,1,0201,A Lesson for Your Next Life,3,1,5,5,16,Heavy — skip for under 16,Violence & injury — [Cecil] Someone murdered
+2,2,0202,In About Six Hours I Lose My Virginity to a Fish,3,2,4,4,14,Skip for under 14,Sex & hookups — not losing your virginity.
+2,3,0203,"This Missive, This Machination",3,2,5,5,16,Heavy — skip for under 16,"Sex & hookups — super sperm or something, do you?"
+2,4,0204,It's Been a While,3,1,5,5,16,Heavy — skip for under 16,Nudity & bodies — wearing pants with no underwear.
+2,5,0205,This Must Come as a Shock,3,1,5,5,16,Heavy — skip for under 16,Violence & injury — It must be his blood.
+2,6,0206,It's Not That Simple,3,1,5,5,16,Heavy — skip for under 16,Affairs / cheating — enough of him cheating on me
+2,7,0207,I'm Not Going Anywhere,3,1,5,5,16,Heavy — skip for under 16,"Violence & injury — instead of just punching them, you know?"
+2,8,0208,I Thought You Were Stronger,3,1,3,3,14,Preview first — about 14+,Violence & injury — He's a murderer!
+3,1,0301,You're Not Laughing Now,3,1,5,5,16,Heavy — skip for under 16,Violence & injury — You almost murdered me for nothing.
+3,2,0302,A Deal with the Devil,3,1,5,5,16,Heavy — skip for under 16,"Sex & hookups — [female] Hey, sexy."
+3,3,0303,"You Want a Real Costume, Right?",3,1,5,5,16,Heavy — skip for under 16,Violence & injury — to murder their whole team.
+3,4,0304,You Were My Hero,3,1,4,4,14,Skip for under 14,Violence & injury — [executioner 1] Murder.
+3,5,0305,This Was Supposed to Be Easy,3,2,5,5,16,Heavy — skip for under 16,Sex & hookups — I know you and Eve are having sex.
+3,6,0306,All I Can Say Is I'm Sorry,3,1,3,3,14,Preview first — about 14+,Violence & injury — Why is that murderer
+3,7,0307,What Have I Done?,3,1,5,5,16,Heavy — skip for under 16,Violence & injury — I murdered my own father.
+3,8,0308,I Thought You'd Never Shut Up,3,1,4,4,14,Skip for under 14,Affairs / cheating — Even though he cheated on me
+4,1,0401,Making the World a Better Place,3,2,4,4,14,Skip for under 14,"Sex & hookups — Uh, they know adults have sex, Paul."
+4,2,0402,I'll Give You the Grand Tour,3,1,3,3,14,Preview first — about 14+,Violence & injury — were just trying to murder everyone.
+4,3,0403,I Gotta Get Some Air,2,1,5,5,16,Heavy — skip for under 16,Violence & injury — This is fruit punch.
+4,4,0404,Hurm,3,1,3,3,14,Preview first — about 14+,Sex & hookups — Violence like that is merely foreplay
+4,5,0405,Give Us a Moment,3,2,5,5,16,Heavy — skip for under 16,Sex & hookups — This is better than sex.
+4,6,0406,You Look Horrible,3,1,4,4,14,Skip for under 14,Violence & injury — who's gonna get shot in the face
+4,7,0407,Don't Do Anything Rash,3,1,3,3,14,Preview first — about 14+,Violence & injury — [Thragg] The blood
+4,8,0408,Don't Leave Me Hanging Here,2,2,5,5,16,Heavy — skip for under 16,Sex & hookups — I'll just sex it out of you later.

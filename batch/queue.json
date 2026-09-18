@@ -16,8 +16,8 @@
       "mazeQuery": "Ted Lasso",
       "status": "done",
       "completedAt": "2026-09-18T15:45:00+02:00",
-      "result": "40 episodes rated (S1\u2013S4 partial; TVMaze missing Yes & Baby + 3 more S4 scripts). check_ratings + sitemaps green. Overall scores skew high due to swearing.",
-      "note": "First in batch \u2014 Apple TV+ football sitcom; parents-guide demand + rising"
+      "result": "40 episodes rated (S1–S4 partial; TVMaze missing Yes & Baby + 3 more S4 scripts). check_ratings + sitemaps green. Overall scores skew high due to swearing.",
+      "note": "First in batch — Apple TV+ football sitcom; parents-guide demand + rising"
     },
     {
       "order": 2,
@@ -32,7 +32,7 @@
       "status": "done",
       "completedAt": "2026-09-18T15:08:00Z",
       "result": "40 episodes rated (S1–S4; TVMaze S5 has 10 more with no Springfield scripts). Aliased The Runaway→The Runway and Decision Day→Family Plot. check_ratings + sitemaps green. Mix 0 mild / 8 caution / 32 too much — language and teen sex/violence drive scores up.",
-      "note": "Teen caution \u2014 high parents-guide demand"
+      "note": "Teen caution — high parents-guide demand"
     },
     {
       "order": 3,
@@ -44,8 +44,10 @@
       "source": "ss",
       "ssSlug": "invincible-2021",
       "mazeQuery": "Invincible",
-      "status": "pending",
-      "note": "Adult animation \u2014 rate like Rick and Morty"
+      "status": "done",
+      "note": "Adult animation — rate like Rick and Morty",
+      "completedAt": "2026-09-18T16:04:37Z",
+      "result": "32 episodes rated (S1–S4; dropped Presenting Atom Eve special — not a numbered TVMaze episode). Aliased Not That!→It's Not That Simple. check_ratings + sitemaps green. Mix 0 mild / 5 caution / 27 too much — gore and language drive scores up."
     },
     {
       "order": 4,
@@ -71,7 +73,7 @@
       "ssSlug": "abbott-elementary-2021",
       "mazeQuery": "Abbott Elementary",
       "status": "pending",
-      "note": "Workplace sitcom \u2014 Modern Family / Office lane"
+      "note": "Workplace sitcom — Modern Family / Office lane"
     },
     {
       "order": 6,
