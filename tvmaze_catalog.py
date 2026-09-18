@@ -70,6 +70,17 @@ TITLE_ALIASES: dict[str, dict[str, str]] = {
         "a regular show epic final battle the power part 3": "a regular show epic final battle",
         "rigby s graduation day special": "rigby s graduation day",
     },
+    "king-of-the-hill": {
+        # Springfield spelling / punctuation vs TVMaze broadcast names.
+        "the arrow head": "the arrowhead",
+        "the man who shot cane skretteberg": "the man who shot cane skretteburg",
+        "nd they call it bobby love": "and they call it bobby love",
+        "a firefighting we will go": "a fire fighting we will go",
+        "three coaches and a bobbyv": "three coaches and a bobby",
+        "nancy s boys": "nancy boys",
+        "it ain t over til the fat neighbor sings": "it ain t over till the fat neighbor sings",
+        "portrait of the artist as a young clown": "a portrait of the artist as a young clown",
+    },
     "seinfeld": {
         # Transcript index uses the working title; TVMaze uses the broadcast name.
         "the seinfeld chronicles": "good news bad news",
@@ -142,6 +153,9 @@ def title_keys(show_id: str, title: str) -> list[str]:
 
     raw = html.unescape(str(title or "")).strip()
     cleaned = maze_episode_title(raw)
+    # Numbered parts before paren-stripping so "(1)" / "(2)" do not share a key.
+    add(re.sub(r"\((\d+)\)", r" \1", raw))
+    add(re.sub(r"\((\d+)\)", r" \1", cleaned))
     add(raw)
     add(cleaned)
     add(_SERIES_EP_PREFIX.sub("", raw).strip())
@@ -154,10 +168,6 @@ def title_keys(show_id: str, title: str) -> list[str]:
         for part in (right.strip(), left.strip(), f"{right.strip()} {left.strip()}"):
             if part and not re.match(r"^(chapter|book|part|episode|season)\b", part, re.I):
                 add(part)
-
-    # "Weirdmageddon (1)" -> "Weirdmageddon 1"
-    add(re.sub(r"\((\d+)\)", r" \1", raw))
-    add(re.sub(r"\((\d+)\)", r" \1", cleaned))
 
     # "Civil Wars, Part 1" -> "Civil Wars 1"
     add(re.sub(r"\bpart\s+(\d+)\b", r"\1", raw, flags=re.I))

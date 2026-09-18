@@ -97,6 +97,7 @@ READY = [
     "amphibia",
     "pokemon",
     "regular-show",
+    "king-of-the-hill",
 ]
 
 SHOW_PAGE = {
@@ -169,6 +170,10 @@ SHOW_PAGE = {
     "regular-show": {
         "name": "Regular Show",
         "h1": 'Regular Show <span class="pop">🍦</span>',
+    },
+    "king-of-the-hill": {
+        "name": "King of the Hill",
+        "h1": 'King of the Hill <span class="pop">⛽</span>',
     },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",

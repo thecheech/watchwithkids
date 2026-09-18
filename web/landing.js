@@ -24,6 +24,7 @@
     "outer-banks",
     "stranger-things",
     "abbott-elementary",
+    "king-of-the-hill",
   ];
   /** Made-for-kids — separate shelf so Bluey isn't next to South Park. */
   const KIDS_ORDER = [

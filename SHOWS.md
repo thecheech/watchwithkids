@@ -21,6 +21,7 @@ index at the project root for compatibility with the web app).
 | [How I Met Your Mother](transcripts/how-i-met-your-mother/) | 9 | 208 | 625,893 | springfieldspringfield.co.uk |
 | [Invincible](transcripts/invincible/) | 4 | 33 | 144,818 | springfieldspringfield.co.uk |
 | [KPop Demon Hunters](transcripts/kpop-demon-hunters/) | — | 1 | 10,082 | springfieldspringfield.co.uk |
+| [King of the Hill](transcripts/king-of-the-hill/) | 13 | 259 | 701,617 | springfieldspringfield.co.uk |
 | [Malcolm in the Middle](transcripts/malcolm-in-the-middle/) | 7 | 151 | 422,764 | springfieldspringfield.co.uk |
 | [Modern Family](transcripts/modern-family/) | 11 | 246 | 920,793 | springfieldspringfield.co.uk |
 | [Outer Banks](transcripts/outer-banks/) | 4 | 40 | 226,243 | springfieldspringfield.co.uk |
@@ -46,7 +47,7 @@ index at the project root for compatibility with the web app).
 | [Wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | springfieldspringfield.co.uk |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 39 shows, 6,594 transcripts, 21,986,948 words.**
+**Total: 40 shows, 6,853 transcripts, 22,688,565 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

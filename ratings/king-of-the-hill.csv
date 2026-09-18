@@ -1,0 +1,260 @@
+season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
+1,1,0101,Pilot,3,1,2,3,11,Preview first — about 11+,"Sex & hookups — “Peggy! - In fact, Hank's sperm count - That's enough.”"
+1,2,0102,Square Peg,1,5,2,5,16,Heavy — skip for under 16,Sex & hookups — “You talk about them dang old condom dispenser with them be.”
+1,3,0103,The Order of the Straight Arrow,2,1,2,2,11,Mild — okay from about 11+,Nudity & bodies — “Would it kill a tree if she wore a bra? [Radio static.]”
+1,4,0104,Hank's Got the Willies,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “Dale, I bought you a beer.”"
+1,5,0105,Luanne's Saga,1,4,2,4,13,Skip for under 13,"Nudity & bodies — “Son, have you lost your mind? Aren't you supposed to knock first? I could've been naked.”"
+1,6,0106,Hank's Unmentionable Problem,2,1,2,2,11,Mild — okay from about 11+,Sex & hookups — “Maybe Kahn'll let you borrow his sexy little import.”
+1,7,0107,Westie Side Story,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “And I'm a lucky son of a gun, I'll tell you what to have a woman like you care so much about me.”"
+1,8,0108,Shins of the Father,3,1,2,3,11,Preview first — about 11+,"Porn / strippers / sex work — “So, I'm buying you a hooker.”"
+1,9,0109,Peggy the Boggle Champ,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “I think I need one of those $8 beers.”
+1,10,0110,Keeping Up with Our Joneses,1,1,2,2,11,Mild — okay from about 11+,"Sex & hookups — “It's gonna give you a low sperm count, man.”"
+1,11,0111,King of the Ant Hill,3,1,2,3,11,Preview first — about 11+,Violence & injury — “I got to pull out the big gun.”
+1,12,0112,Plastic White Female,1,1,3,3,11,Preview first — about 11+,Swearing — “What a bitch.”
+2,1,0201,How to Fire a Rifle Without Really Trying,3,1,2,3,11,Preview first — about 11+,Violence & injury — “We should get him a rifle and Bobby is too young to own a rifle.”
+2,2,0202,Texas City Twister,2,3,2,3,11,Preview first — about 11+,"Sex & hookups — “Keep going! Use the momentum! All right, way to go! Do you think Alex Trebek is sexy, Aunt Peg? Get out of my mind.”"
+2,3,0203,The Arrowhead,2,1,1,2,11,Mild — okay from about 11+,"Nudity & bodies — “That's right, they're breasts! Big deal! Excuse me, Professor, I'm Hank Hill.”"
+2,4,0204,Hilloween,3,2,2,3,11,Preview first — about 11+,"Sex & hookups — “I guess the old saying ""Sex kills.”"
+2,5,0205,"Jumpin' Crack Bass (It's a Gas, Gas, Gas)",2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “How about some fluorescent salmon eggs or marshmallow bait, or some blood-dough balls? I tried those before.”"
+2,6,0206,Husky Bobby,1,1,1,1,11,Usually fine — about 11+,"Sex & hookups — “Are you too sexy for your shirt or aren't you? I'm sorry, Mr.”"
+2,7,0207,The Man Who Shot Cane Skretteburg,3,1,2,3,11,Preview first — about 11+,Sex & hookups — “The man whose sperm struggled through that tiny urethra God cursed you with to create our wonderful son.”
+2,8,0208,The Son That Got Away,1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “It's either the place where old people go to die or young people go to make out.”
+2,9,0209,The Company Man,3,4,2,4,13,Skip for under 13,Porn / strippers / sex work — Stripper or strip-club material shows up in the plot.
+2,10,0210,Bobby Slam,3,2,3,3,11,Preview first — about 11+,Sex & hookups — “Title 9 of the civil rights act clearly prohibits sex discrimination in public schools and guarantees equal athletic opportunities for all boys and girls.”
+2,11,0211,The Unbearable Blindness of Laying,2,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “I didn't fight off a bunker full of horny privates to let you cop a feel.”
+2,12,0212,Meet the Manger Babies,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “You put 30 kids in there, and lose their attention fruit punch all over my new carpet.”"
+2,13,0213,Snow Job,1,1,1,1,11,Usually fine — about 11+,
+2,14,0214,I Remember Mono,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “hey, hank, did you ever wonde r what it'd be like to drink beer standin' over there? Curiosity killed the cat, dale.”"
+2,15,0215,Three Days of the Kahndo,1,2,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “Now, the last time bobby went to mexico, he was still on the breast.”"
+2,16,0216,Traffic Jam,2,1,2,2,11,Mild — okay from about 11+,"Sex & hookups — “Uh-huh, uh Your urethra is so narrow sperm be going through there single file.”"
+2,17,0217,Hank's Dirty Laundry,1,3,2,3,11,Preview first — about 11+,"Sex & hookups — “I'm doin' this for all of you! Do you know this guy? No dadgum way, man! That's some dirty old man, hanging around sex toys, man.”"
+2,18,0218,The Final Shinsult,2,1,1,2,11,Mild — okay from about 11+,Violence & injury — “My dad can't even load his own hunting rifle anymore.”
+2,19,0219,Leanne's Saga,3,1,2,3,11,Preview first — about 11+,"Sex & hookups — “? I've been watching you for days now, baby ? ? I just love your sexy ways now, baby ?”"
+2,20,0220,Junkie Business,2,1,2,2,11,Mild — okay from about 11+,"Sex & hookups — “You can't ask about age, race, religion, or sexual affiliation.”"
+2,21,0221,"Life in the Fast Lane, Bobby's Saga",2,1,2,2,11,Mild — okay from about 11+,Violence & injury — “Witchard? Jimmy witchard? You told bobby to listen to jimmy witchard? He was in my gun club.”
+2,22,0222,Peggy's Turtle Song,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “Me and some of my students take over the back room at earl's, drink some wine, play songs, just kind of take a little potshot at the holiday.”"
+2,23,0223,Propane Boom (1),3,1,2,3,11,Preview first — about 11+,Violence & injury — “why is the pope holding that gun? That is not the pope.”
+3,1,0301,Death of a Propane Salesman (2),1,4,2,4,13,Skip for under 13,Nudity & bodies — Explicit body / sex-act language appears in dialogue.
+3,2,0302,And They Call It Bobby Love,1,1,1,1,11,Usually fine — about 11+,Alcohol & drugs — “( Bill sighs ) BILL WHAT ARE YOU DOING? I'M DRINKING BEER.”
+3,3,0303,Peggy's Headache,1,2,2,2,11,Mild — okay from about 11+,Affairs / cheating — “SHE'S HAVING AN AFFAIR.”
+3,4,0304,Pregnant Paws,2,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “OR IF THAT'S UNACCEPTABLE I CAN PRESCRIBE A SPECIFIC SERIES OF SEXUAL TECHNIQUES.”
+3,5,0305,Next of Shin,1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “HILL BUT I DO HAVE TO MEASURE YOUR SPERM COUNT.”
+3,6,0306,Peggy's Pageant Fever,1,2,2,2,11,Mild — okay from about 11+,Nudity & bodies — “DID YOU KNOW SHE COULD PLAY THE LAP STEEL GUITAR AND SHE ONLY HAS NINE PERCENT BODY FA AND IT'S ALL IN HER BREASTS? ( sighing ): HMM TSK.”
+3,7,0307,Nine Pretty Darn Angry Men,1,1,3,3,11,Preview first — about 11+,"Nudity & bodies — “DANG OL' GET NAKED ON THAT DANG OL' THING, MAN.”"
+3,8,0308,Good Hill Hunting,3,1,2,3,11,Preview first — about 11+,Violence & injury — “( all laughing ) I'M NOT ASHAMED AND I'M GLAD THERE'S PEOPLE OUT THERE THINNING THE HERD BUT IF I WANT TO GET SLOPPY DRUNK AND SHOOT OFF GUNS WITH A BUNCH OF GUYS I'LL GO TO MY DAD'S OSCAR PARTY.”
+3,9,0309,"Pretty, Pretty Dresses",2,1,3,3,11,Preview first — about 11+,"Violence & injury — “"" THERE'S NOTHING WE CAN DO BUT SIT BACK AND WATCH THE BLOODBATH.”"
+3,10,0310,A Fire Fighting We Will Go,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “YOU PUSHED ME ASIDE, MADE ME LOOK LIKE A FOOL IN FRONT OF MY OWN FLESH AND BLOOD.”"
+3,11,0311,To Spank with Love,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “YOU KNOW, I HAVE A LITTLE SPEECH I'VE BEEN SAVING FOR THE DAY BOBBY GETS BEAT UP BY A BULLY BUT I DON'T THINK THAT'S EVER GOING TO HAPPEN.”"
+3,12,0312,Three Coaches and a Bobby,2,4,2,4,13,Skip for under 13,Nudity & bodies — Explicit body / sex-act language appears in dialogue.
+3,13,0313,De-Kahnstructing Henry,3,1,2,3,11,Preview first — about 11+,"Violence & injury — Minh: “CONNIE? CONNIE, COW MAH NUNG NUM CU! MAE', HOW LINV NUM MOO HOW? COW MA NIE DIAO NEE! TAH CAWP CUAH TOOK JOW GAW TOOK KU GUN.”"
+3,14,0314,The Wedding of Bobby Hill,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “12 YEARS OLD AND DRINKING A BEER? I DIDN'T EVEN LIKE IT.”
+3,15,0315,Sleight of Hank,1,1,1,1,11,Usually fine — about 11+,"Alcohol & drugs — “TALKING ABOUT THAT COCKTAIL WAITRESS GAVE ME HER PHONE NUMBER AND GO BACK IN THAT PLACE AND OL' ROPES AND PULLEYS ALL OVER, MAN.”"
+3,16,0316,Jon Vitti Presents: Return to La Grunta,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — Boomhauer: “Tell you what about 5:00 I'm going to have beers and then go hanging out at auto store you know and then come back and workin' out maybe something like that.”
+3,17,0317,Escape from Party Island,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — Hank: “I'LL HAVE A DUNE-BURGGY, MEDIUM RARE, AND A BEER.”"
+3,18,0318,Love Hurts and So Does Art,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “WELL, GOUT OCCURS WHEN URIC ACID CRYSTALS FORM IN THE BLOODSTREAM AND COLLECT IN AN EXTREMITY LIKE BOBBY'S BIG TOE.”"
+3,19,0319,Hank's Cowboy Movie,1,1,1,1,11,Usually fine — about 11+,"Alcohol & drugs — Bill: “AND, AND THAT'S AFTER HAVING TWO CHICKENS! ( laughing ): BOY WAS I DRUNK.”"
+3,20,0320,Dog Dale Afternoon,3,1,2,3,11,Preview first — about 11+,Nudity & bodies — “IT'S NOT YOUR NAKED BUTT IN THAT PICTURE.”
+3,21,0321,Revenge of the Lutefisk,2,4,1,4,13,Skip for under 13,Porn / strippers / sex work — Stripper or strip-club material shows up in the plot.
+3,22,0322,Death and Texas,3,1,2,3,11,Preview first — about 11+,"Porn / strippers / sex work — “""ONE BOX OF PORNOGRAPHY, A JUG OF CORN LIQUOR, ""A FARRAH FAWCETT POSTER, A MILWAUKEE SAWZ-ALL AND A BRICK OF COCAINE ON EVERY TUESDAY.”"
+3,23,0323,Wings of the Dope,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “( melodic guitar intro playing) THE SALVATION ARMY BAND PLAYED AND THE CHILDREN DRUNK LEMONADE AND THE MORNING LASTED ALL DAY ALL DAY AND THROUGH AN OPEN WINDOW IT CAME LIKE SINATRA IN A…”
+3,24,0324,Take Me Out of the Ball Game,1,4,2,4,13,Skip for under 13,Sex & hookups — “I'M HAVING SEX WITH HER.”
+3,25,0325,As Old as the Hills,2,3,2,3,11,Preview first — about 11+,Sex & hookups — “I'M A VIRGIN.”
+4,1,0401,Peggy Hill: The Decline and Fall,2,1,1,2,11,Mild — okay from about 11+,Nudity & bodies — “WHAT THE? THE KID IS LEAKING OUT OF HIS CHEST! THAT'S FROM HIS NIPPLES.”
+4,2,0402,Cotton's Plot,3,1,2,3,11,Preview first — about 11+,Violence & injury — “TOJO HAD A MACHINE GUN NEST HIGH UP ON A HILL-- HAD MY WHOLE UNIT PINNED DOWN.”
+4,3,0403,Bills Are Made to Be Broken,1,1,1,1,11,Usually fine — about 11+,"Alcohol & drugs — “ASPIRIN THIS MORNING, RED WINE LAST NIGHT.”"
+4,4,0404,Little Horrors of Shop,2,1,2,2,11,Mild — okay from about 11+,Violence & injury — “USING A SAW FOR A WEAPON MAKES ABOUT AS MUCH SENSE AS USING A GUN TO CUT A TWO-BY-FOUR.”
+4,5,0405,Aisle 8A,1,1,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “YOU KNOW WHAT I'M SAYING, MAN? YEAH, I WAS THINKING THE NINJA TURTLES WITH UNDERWEAR.”"
+4,6,0406,A Beer Can Named Desire,2,1,2,2,11,Mild — okay from about 11+,Violence & injury — “UH-HUH MY HUSBAND ALPHONSE DAUTERIVE-- WILLIAM'S UNCLE BY BLOOD.”
+4,7,0407,The Hank's Giving,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “YOU'RE ACTING LIKE YOU'RE DRUNK.”
+4,8,0408,Not in My Back Hoe,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “…WHEN TO HOLD 'EM WHEN TO HOLD 'EM"" I WAS A HIGHWAYMAN ALONG THE COACH ROADS I DID RIDE WITH SWORD AND PISTOL BY MY SIDE SING IT, BROTHER.”"
+4,9,0409,To Kill a Ladybird,3,1,2,3,11,Preview first — about 11+,"Nudity & bodies — “YOU'RE IN YOU'RE UNDERWEAR, SHUG.”"
+4,10,0410,Hillennium,1,1,1,1,11,Usually fine — about 11+,
+4,11,0411,Old Glory,1,2,2,2,11,Mild — okay from about 11+,"Affairs / cheating — “""MY HUSBAND'S LOVE AFFAIR WITH BEER AND WHY I'M NOT JEALOUS.”"
+4,12,0412,Rodeo Days,1,1,2,2,11,Mild — okay from about 11+,Nudity & bodies — “EXCEPT FOR THE COWBOY AND THE MAN WHO STRAPS THE BULL'S GENITALS THERE'S NOBODY MORE IMPORTAN THAN THE FRIEND CHEERING IN THE STANDS.”
+4,13,0413,Hanky Panky (1),2,4,2,4,13,Skip for under 13,Sex & hookups — “I KNOW YOU DON'T HAVE SEX.”
+4,14,0414,High Anxiety (2),3,3,2,3,11,Preview first — about 11+,Sex & hookups — “I DIDN'T SLEEP WITH DEBBIE.”
+4,15,0415,Naked Ambition,1,3,2,3,11,Preview first — about 11+,"Sex & hookups — “BOBBY? TRUTH ABOUT YOUR LITTLE BOY NOT SO PRETTY AFTER ALL, IS IT, HANK HILL? HE GIRL-CRAZY SEX FIEND.”"
+4,16,0416,Movin' on Up,3,1,3,3,11,Preview first — about 11+,Nudity & bodies — “YOU SAW YOUR UNCLE'S NIPPLES.”
+4,17,0417,Bill of Sales,1,1,1,1,11,Usually fine — about 11+,Violence & injury — “MY OOH TUBE SOCK IS SOAKING UP MOST OF THE BLOOD.”
+4,18,0418,Won't You Pimai Neighbor?,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “CAN I HAVE IT? OH, THAT NOT MY BEER.”"
+4,19,0419,Hank's Bad Hair Day,2,1,3,3,11,Preview first — about 11+,Nudity & bodies — “HEARD HE WAS ARRESTED FOR RUNNING NAKED WITH A STRAIGHT RAZOR AND A BARBER POLE.”
+4,20,0420,Meet the Propaniacs,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “BILL, GET A BEER.”"
+4,21,0421,Nancy Boys,3,3,2,3,11,Preview first — about 11+,Sex & hookups — “DID YOU KNOW SHE ONLY SLEEPS WITH HIM ON HIS BIRTHDAY AND CHRISTMAS? THAT'S WHY SHE GETS SO DEPRESSED AROUND THE HOLIDAYS.”
+4,22,0422,Flush with Power,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “WITH WHAT, A WATER PISTOL? YOU SEEMED TO HAVE PLENTY OF THE WET STUFF THESE DAYS DON'T YOU, SIR? ( laughing ) AW I DON'T KNOW WHAT YOU'RE TALKING ABOUT! I USE SECRET ASIAN WATERING TECHNIQUE.”"
+4,23,0423,Transnational Amusements Presents: Peggy's Magic Sex Feet,1,1,1,1,11,Usually fine — about 11+,Porn / strippers / sex work — “NOT ON THE COVER AND I CERTAINLY WOULDN'T OPEN I BECAUSE I DO NOT READ PORNOGRAPHY.”
+4,24,0424,Peggy's Fan Fair,2,1,1,2,11,Mild — okay from about 11+,Violence & injury — “NO KNIFE EVEN.”
+5,1,0501,The Perils of Polling,2,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “Character is about having principles and not sleeping with the help and such.”
+5,2,0502,The Buck Stops Here,3,2,3,3,11,Preview first — about 11+,Nudity & bodies — “I press his gambling suit and I pack his naked-lady playing cards.”
+5,3,0503,"I Don't Want to Wait for Our Lives to Be Over, I Want to Know Right Now, Will It Be... Sorry. Do Do Doo Do Do, Do Do Doo Do Do, Do Do Doo Do Do, Doo...Don't Want to Wait",1,1,2,2,11,Mild — okay from about 11+,Sex & hookups — “How's the weather up there? That's it! What are you doing here? I came to apologize and make out with tongues.”
+5,4,0504,Spin the Choice,2,1,2,2,11,Mild — okay from about 11+,Nudity & bodies — “Come on! The naked photography books are downstairs.”
+5,5,0505,Peggy Makes the Big Leagues,2,1,1,2,11,Mild — okay from about 11+,"Violence & injury — “Hank, can you slap together a make-up mid-term? I'll do it quickly, but it won't be slapped together.”"
+5,6,0506,When Cotton Comes Marching Home Again,3,1,3,3,11,Preview first — about 11+,Violence & injury — “Dad! Just taught the boy how to fire a gun.”
+5,7,0507,What Makes Bobby Run?,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “You old son of a gun, how was the drive? This stinking crowd is dead! What is this? Guldang Wimbledon? Here we go, Longhorns.”"
+5,8,0508,'Twas the Nut Before Christmas,1,1,2,2,11,Mild — okay from about 11+,"Suicide & self-harm — “Notre Dame lost, Bill had a great Christmas and now he's taking down his decorations instead of trying to hang himself with them.”"
+5,9,0509,Chasing Bobby,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “Your truck drove you to the hospital when you cut your toe with a weed-whacker.”
+5,10,0510,Yankee Hankie,3,1,3,3,11,Preview first — about 11+,"Violence & injury — “Now, give me the gun.”"
+5,11,0511,Hank and the Great Glass Elevator,1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “And I can't wait to take you home and unwrap you and then have sex.”
+5,12,0512,Now Who's the Dummy?,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — TV ANNOUNCER: “Bay, Ken, you can cut the tension with a knife.”"
+5,13,0513,Ho Yeah!,2,3,2,3,11,Preview first — about 11+,Porn / strippers / sex work — “She is a prostitute.”
+5,14,0514,The Exterminator,3,3,2,3,11,Preview first — about 11+,"Sex & hookups — “I mean, would you want to sleep with a bum? - No.”"
+5,15,0515,Luanne Virgin 2.0,1,4,1,4,13,Skip for under 13,"Sex & hookups — “So that means you're not-- Uncle Hank, I quit being a virgin the first time I had sex.”"
+5,16,0516,Hank's Choice,2,4,2,4,13,Skip for under 13,Sex & hookups — “And for less than the cost of cleaning the house we could pay to have a second TV set hooked up to the cable.”
+5,17,0517,It's Not Easy Being Green,2,1,3,3,11,Preview first — about 11+,Violence & injury — “Over our bloody and beaten bodies.”
+5,18,0518,The Trouble with Gribbles,1,1,3,3,11,Preview first — about 11+,Affairs / cheating — “But the love affair between juries and tobacco companies has cooled.”
+5,19,0519,Hank's Back Story,1,2,2,2,11,Mild — okay from about 11+,"Sex & hookups — “Now that the inspection is over, hook up the nitrous oxide to my engine.”"
+5,20,0520,Kidney Boy and Hamster Girl: A Love Story,1,1,1,1,11,Usually fine — about 11+,
+6,1,0601,Bobby Goes Nuts,3,2,1,3,11,Preview first — about 11+,"Sex & hookups — “Although, I've recently learned how to sleep with my eyes open.”"
+6,2,0602,Soldier of Misfortune,3,4,2,4,13,Skip for under 13,Sex & hookups — “The generalissimo was guarded better than a Mafia don's virgin daughter.”
+6,3,0603,Lupe's Revenge,2,1,1,2,11,Mild — okay from about 11+,"Violence & injury — “Go, Rumpert! I'd do the split but I've got a backup pistol strapped to my ankle and I'm not as flexible as I used to be.”"
+6,4,0604,"The Father, the Son and J.C.",1,1,1,1,11,Usually fine — about 11+,Alcohol & drugs — “You get to build a Habitat for Humanity house for driving drunk? I've been on the waiting list for two years.”
+6,5,0605,Father of the Bribe,3,4,3,4,13,Skip for under 13,"Sex & hookups — “(Dale) All right, let's see,,, I told you about the sperm-couit-loweriig soft driiks, Told you about SuperCuts catalogiig DNA, I'm ruiiiig dry here, Wait!”"
+6,6,0606,I'm with Cupid,1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “Can I sleep with you guys tonight? - Hank? - No.”
+6,7,0607,Torch Song Hillogy,1,1,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “Although, to be true to the ancient Olympians before me I should be nude.”"
+6,8,0608,Joust Like a Woman,1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “We should not discuss matters of trade in the presence of the fairer sex.”
+6,9,0609,The Bluegrass is Always Greener,1,1,2,2,11,Mild — okay from about 11+,"Porn / strippers / sex work — “""Bill Monroe""? ""The Foggy Mountain Boys""? - Minh, have you seen this pornography? - Don't worry.”"
+6,10,0610,The Substitute Spanish Prisoner,1,1,1,1,11,Usually fine — about 11+,
+6,11,0611,Unfortunate Son,3,1,3,3,11,Preview first — about 11+,"Violence & injury — “I'm sorry, I must have dropped that money somewhere in the Philippines fighting for your freedom, you damn draft-dodger! You mean to tell me that this bloodsucking ganef never served his country? Four-F.”"
+6,12,0612,"Are You There, God? It's Me, Margaret Hill",1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “Just so you don't hear it from anyone else I'm sleeping with the new employee.”
+6,13,0613,Tankin' It to the Streets,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “My wrist hurts so much, I can barely open my beer.”"
+6,14,0614,Of Mice and Little Green Men,2,1,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “That UFO place? Oh, God! And, FYl, Boomhauer said he could see your nipples on stage.”"
+6,15,0615,A Man Without a Country Club,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “What the I knew I left my beer in a hole somewhere.”
+6,16,0616,Beer and Loathing,2,1,2,2,11,Mild — okay from about 11+,Violence & injury — “I got shotgun.”
+6,17,0617,Fun with Jane and Jane,3,1,2,3,11,Preview first — about 11+,Violence & injury — “She stabbed my daddy in the back with a fork.”
+6,18,0618,My Own Private Rodeo,3,3,2,3,11,Preview first — about 11+,Sex & hookups — “Boomhauer and I are gonna go out in the parking lot and make out.”
+6,19,0619,Sug Night,2,4,2,4,13,Skip for under 13,Sex & hookups — “They'll have sex robots by then and Hank won't need me.”
+6,20,0620,Dang Ol' Love,1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “Boomhauer had grown-up sex with the ice cream lady and now he's dumped her.”
+6,21,0621,Returning Japanese (1),3,4,2,4,13,Skip for under 13,Sex & hookups — “But this ain't about sex.”
+6,22,0622,Returning Japanese (2),3,4,2,4,13,Skip for under 13,Sex & hookups — “But this ain't about sex.”
+7,1,0701,Get Your Freak Off,1,3,2,3,11,Preview first — about 11+,Sex & hookups — “We're ranking by sexy.”
+7,2,0702,The Fat and the Furious,2,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “You'd look damn sexy wearing nothing but my Mustard Yellow Championship belt.”
+7,3,0703,"Bad Girls, Bad Girls, Whatcha Gonna Do",1,1,3,3,11,Preview first — about 11+,Sex & hookups — “We could do something with photosynthesis but that's not very sexy.”
+7,4,0704,Goodbye Normal Jeans,2,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “I would rather share it with a man who needs me a man who is also alone on Thanksgiving because of the stigma society attaches to his unconventional sexual appetites.”
+7,5,0705,Dances with Dogs,1,1,2,2,11,Mild — okay from about 11+,Violence & injury — “It's in your blood.”
+7,6,0706,The Son Also Roses,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “The Cowboys don't win every year, but I'm still a big fan and they have gun and drug problems.”"
+7,7,0707,The Texas Skilsaw Massacre,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “I mean, I've been known to do carpentry stone-drunk but you're normally so careful around tools.”"
+7,8,0708,Full Metal Dust Jacket,3,1,2,3,11,Preview first — about 11+,Violence & injury — “What the hell are you doing? I can't hide a gun inside it without hollowing it out.”
+7,9,0709,Pigmalion,1,2,1,2,11,Mild — okay from about 11+,"Sex & hookups — “Oh, you mean sex? N-n-no no no Yes.”"
+7,10,0710,Megalo Dale,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “This gig may be less of a quote-unquote ""extermination"" and more of a quote-unquote ""murder.”"
+7,11,0711,Boxing Luanne,2,2,1,2,11,Mild — okay from about 11+,Sex & hookups — “To Luanne! Getting rich off a pretty lady's even better than sleeping with one.”
+7,12,0712,Vision Quest,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “Knife through the eye, huh? That's probably what killed him.”"
+7,13,0713,Queasy Rider,1,2,3,3,11,Preview first — about 11+,"Sex & hookups — “Even his elbows are nicotine stained, he refuses to acknowledge he's bald, and he sobs uncontrollably after sex.”"
+7,14,0714,Board Games,2,2,3,3,11,Preview first — about 11+,Sex & hookups — “Our kids get out of school in the middle of the day when they air all those sex and drug-filled after-school specials.”
+7,15,0715,An Officer and a Gentle Boy,1,1,3,3,11,Preview first — about 11+,"Nudity & bodies — “What if the wires from this doorbell are connected to his nipples? It is worse than I could have imagined! Will you let us in?! Let us in! We demand to see Bobby Hill! Peggy, protocol.”"
+7,16,0716,The Miseducation of Bobby Hill,3,1,1,3,11,Preview first — about 11+,Violence & injury — “What's that gun for?”
+7,17,0717,The Good Buck,1,2,2,2,11,Mild — okay from about 11+,Sex & hookups — “I'll be out there tomorrow to personally hook up your new tanks.”
+7,18,0718,I Never Promised You an Organic Garden,1,1,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “"" (disgusted sigh) Why does every book about organic gardens have naked people in it? Well, this one has three chapters on Nixon and nothing about bugs.”"
+7,19,0719,Be True to Your Fool,3,1,2,3,11,Preview first — about 11+,"Porn / strippers / sex work — “He sleeps on my car, he's always stealing Ladybird's squeaky toys Remember when he kept a chamber pot by his bed? He keeps burying his porno in our backyard, and he Well, I can't put up with it forever.”"
+7,20,0720,Racist Dawg,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “No matter how drunk they were.”
+7,21,0721,Night and Deity,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “It's time to bring in the big gun, the top-shelf pigeon exterminator of Heimlich County, the pigeon god.”"
+7,22,0722,Maid in Arlen,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “(all agreeing) Yeah, just having a beer.”"
+7,23,0723,The Witches of East Arlen,2,1,2,2,11,Mild — okay from about 11+,Violence & injury — “What's caninus spiritus? Dog blood.”
+8,1,0801,Patch Boomhauer,3,3,2,3,11,Preview first — about 11+,"Porn / strippers / sex work — “I mean, he brought beer but then the prostitutes.”"
+8,2,0802,Reborn to Be Wild,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “Maybe it's just me, but I'd rather Bobby be in a Christian gang than one of those murdering gangs.”"
+8,3,0803,New Cowboy on the Block,2,1,2,2,11,Mild — okay from about 11+,Sex & hookups — “Did you move back the curfew in your block charter? Because that would be very sexy.”
+8,4,0804,The Incredible Hank,1,2,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “Hey, dude, is that a pimple or another nipple? I'll take that ""F.”"
+8,5,0805,Flirting with the Master,2,2,1,2,11,Mild — okay from about 11+,"Sex & hookups — “Hmm, that is one sexy priest.”"
+8,6,0806,After the Mold Rush,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “Punch a few holes in your wall, rip up your floorboards.”"
+8,7,0807,"Livin' on Reds, Vitamin C and Propane",1,1,1,1,11,Usually fine — about 11+,
+8,8,0808,"Rich Hank, Poor Hank",1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “He got a dang ol' whole refrigerator full of that ol' ""Crystal"" champagne, man.”"
+8,9,0809,Ceci N'est Pas Une King of the Hill,1,4,2,4,13,Skip for under 13,Nudity & bodies — Explicit body / sex-act language appears in dialogue.
+8,10,0810,That's What She Said,1,1,2,2,11,Mild — okay from about 11+,"Sex & hookups — “Hill, I believe we have a strong case for a lawsuit based on male-on-male sexual harassment.”"
+8,11,0811,My Hair Lady,1,3,1,3,11,Preview first — about 11+,Sex & hookups — “Which hair gel do you suggest for my hair type? Virgin or Dirty Girl? Bobby.”
+8,12,0812,Phish and Wildlife,1,1,1,1,11,Usually fine — about 11+,"Nudity & bodies — “Okay, I'm a hippie I'm naked, because I smoked all my clothes.”"
+8,13,0813,Cheer Factor,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “Everyone, take a knife! Is it stab-and-stab? No, it's stab and a-stab.”"
+8,14,0814,Dale Be Not Proud,3,2,1,3,11,Preview first — about 11+,"Sex & hookups — “So, while you were me, did you sleep with Nancy? No! Too late! And now, we drink.”"
+8,15,0815,"Après Hank, le Deluge",1,2,3,3,11,Preview first — about 11+,Nudity & bodies — “I have three socks and no underwear.”
+8,16,0816,Daletech,2,4,2,4,13,Skip for under 13,"Sex & hookups — “You look as sexy to me as propane tank, I tell you what.”"
+8,17,0817,How I Learned to Stop Worrying and Love the Alamo,3,3,2,3,11,Preview first — about 11+,Sex & hookups — “Their bunsen burners have been hooked up to nothing for years.”
+8,18,0818,"Girl, You'll Be a Giant Soon",3,1,2,3,11,Preview first — about 11+,Violence & injury — “The scene of Arlen's most notorious crime of passion! Also most exciting murder ever to happen in a laundry room.”
+8,19,0819,Stressed for Success,1,1,3,3,11,Preview first — about 11+,Swearing — “Just cock your head a little bit.”
+8,20,0820,Hank's Back,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “When do we start the yoga? Hank, do you tell your blood to start moving through your veins? Or the air to start filling your lungs? You probably do.”"
+8,21,0821,The Redneck on Rainey Street,2,1,3,3,11,Preview first — about 11+,"Violence & injury — “What's in this stink-bait? Well, you got your ground liver, blood, vinegar, Alpo and my secret ingredient that makes it stink.”"
+8,22,0822,Talking Shop!,2,1,2,2,11,Mild — okay from about 11+,Sex & hookups — “You could probably make out with her.”
+9,1,0901,A Rover Runs Through It,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “…ask us, ""Where are the trees?"" What they'll ask is, ""Where's the got dang steak?!"" Enjoy your celebrity cocktail hour, Mr.”"
+9,2,0902,Ms. Wakefield,1,2,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “I'll never top that oil painting I commissioned last year-- ""Nude Dale In Repose.”"
+9,3,0903,Death Buys a Timeshare,1,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “( rifle shot ) ( screams ) What the?! Dang ol' dang! ( cackling ) Damn, you should've seen your faces.”"
+9,4,0904,"Yard, She Blows!",1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “Every three weeks I put down a 28-3-3 mix of fertilizer and weed control.”
+9,5,0905,Dale to the Chief,3,2,2,3,11,Preview first — about 11+,"Sex & hookups — “""Sex: F?"" That's female! ( both laugh ) Could you imagine Dad a woman? ( imitating Hank ): Now where did I put my panty hose? Bobby, living room.”"
+9,6,0906,The Petriot Act,3,2,1,3,11,Preview first — about 11+,Sex & hookups — “It's from some company that makes Viagra for lizards.”
+9,7,0907,Enrique-cilable Differences,2,1,1,2,11,Mild — okay from about 11+,Sex & hookups — “Maybe it's because when I married Yolanda I was a virgin and she wasn't.”
+9,8,0908,Mutual of OmAbwah,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “…( gasps ): Yes! BILL: We buried the needle, Boomhauer! We're frying where no man has fried before! A cold beer is going to taste so good with this scalding hot fish.”"
+9,9,0909,Care-Takin' Care of Business,1,1,2,2,11,Mild — okay from about 11+,Affairs / cheating — “( giggling ) I feel like I'm cheating on my lawn.”
+9,10,0910,Arlen City Bomber,1,1,2,2,11,Mild — okay from about 11+,"Racism & slurs — “Mom's into responsibility now, too? Plumber nurse's aide All these jobs are racist against people who don't have skills.”"
+9,11,0911,Redcorn Gambles with His Future,1,2,2,2,11,Mild — okay from about 11+,"Sex & hookups — “Where can I find John Redcorn? Oh, he's the visionary right over there, the one dripping with sex appeal and turquoise jewelry.”"
+9,12,0912,Smoking and the Bandit,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “I can't believe we'll get to meet the bandit! Do you think he's a match man or a lighter man? If he beats up our dads, do you think he'll let us live with him?”"
+9,13,0913,Gone with the Windstorm,3,1,2,3,11,Preview first — about 11+,"Nudity & bodies — “Oh, and don't sign across my cleavage either.”"
+9,14,0914,Bobby on Track,1,1,1,1,11,Usually fine — about 11+,
+9,15,0915,It Ain't Over Till the Fat Neighbor Sings,2,2,1,2,11,Mild — okay from about 11+,"Nudity & bodies — “So, William, are you wearing? What? Everyone in the chorus wears the same custom underwear.”"
+10,1,1001,Hank's on Board,2,1,2,2,11,Mild — okay from about 11+,Violence & injury — “We'll tell your father we were beaten up and robbed.”
+10,2,1002,Bystand Me,1,2,2,2,11,Mild — okay from about 11+,"Porn / strippers / sex work — “This may or may not help, but when I get writer's block, I buy a prostitute.”"
+10,3,1003,Bill's House,2,1,2,2,11,Mild — okay from about 11+,Violence & injury — “A halfway house? This is all I need-- a bunch of jittery drunks breaking into my house and rummaging through my guns.”
+10,4,1004,Harlottown,1,4,1,4,13,Skip for under 13,"Porn / strippers / sex work — “Call girls, molls, pink pants-- prostitutes.”"
+10,5,1005,A Portrait of the Artist as a Young Clown,1,1,1,1,11,Usually fine — about 11+,
+10,6,1006,Orange You Sad I Did Say Banana,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “He is a proud Lao man, willing to shed his blood for our mother country.”"
+10,7,1007,You Gotta Believe (In Moderation),1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “The spiced wine should be hot enough by now.”
+10,8,1008,Business is Picking Up,1,2,2,2,11,Mild — okay from about 11+,"Sex & hookups — “He appears confident, but not at all like he wants to have sex with her.”"
+10,9,1009,The Year of Washing Dangerously,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “Hey, Hank Hill! My new employee! Better punch in early! ( sighs ) HANK: I just can't believe this.”"
+10,10,1010,Hank Fixes Everything,3,1,3,3,11,Preview first — about 11+,Violence & injury — “I give you permission to say you murdered me.”
+10,11,1011,Church Hopping,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “The one thing people don't realize about car dealerships is the easy access to cocaine.”
+10,12,1012,24 Hour Propane People,1,4,1,4,13,Skip for under 13,"Nudity & bodies — “But if you don't want mix-ins, you're going to have to wear this ""I like nude ice cream"" button.”"
+10,13,1013,The Texas Panhandler,2,2,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “Change? Thanks, bra.”"
+10,14,1014,Hank's Bully,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “We keep beer in there, for God's sake.”"
+10,15,1015,Edu-macating Lucky,2,2,3,3,11,Preview first — about 11+,"Sex & hookups — “I know when you say ""guck"" you really mean divorce? Crack? Condoms.”"
+11,1,1101,The Peggy Horror Picture Show,3,1,1,3,11,Preview first — about 11+,Sex & hookups — “They can go straight from a PTA meeting to a sexy night on the town.”
+11,2,1102,SerPUNt,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “You know, I always thought we'd be on TV for being murdered in our sleep.”"
+11,3,1103,Blood and Sauce,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “Well, a lot of them won't be blood kin, but I say, ""It's a family reunion! Invite 'em all, and let God sort 'em out! That cable spool you call a dinner table only seats six.”"
+11,4,1104,Luanne Gets Lucky,2,1,3,3,11,Preview first — about 11+,"Violence & injury — “Yeah, and my rifle could use a burled walnut stock.”"
+11,5,1105,Hank Gets Dusted,3,1,2,3,11,Preview first — about 11+,Nudity & bodies — “Me and the guys could always get naked.”
+11,6,1106,Glen Peggy Glen Ross,3,2,1,3,11,Preview first — about 11+,"Sex & hookups — “Just throw in a few sexy adjectives, but not too sexy.”"
+11,7,1107,The Passion of the Dauterive,1,2,1,2,11,Mild — okay from about 11+,Porn / strippers / sex work — “She was a prostitute! Bill! (nervous laughter) Just kidding.”
+11,8,1108,Grand Theft Arlen,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “Dang, I just got shot in the face! The President's Fitness Test demands total focus.”"
+11,9,1109,Peggy's Gone to Pots,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “Oh, God, a gun.”"
+11,10,1110,"Hair Today, Gone Today",2,3,1,3,11,Preview first — about 11+,Sex & hookups — “So I'd be sleeping with John Redcorn as if our lives depended on it.”
+11,11,1111,"Bill, Bulk, and the Body Buddies",2,2,2,2,11,Mild — okay from about 11+,"Sex & hookups — “The machines are great, but it's nothing but gay sex all the time.”"
+11,12,1112,Lucky's Wedding Suit,1,1,1,1,11,Usually fine — about 11+,
+12,1,1201,Suite Smells of Excess,1,1,1,1,11,Usually fine — about 11+,"Alcohol & drugs — “Bobby, you just earned yourself a beer.”"
+12,2,1202,Bobby Rae,2,1,1,2,11,Mild — okay from about 11+,Nudity & bodies — “I've already tried it on without underwear.”
+12,3,1203,The Powder Puff Boys,2,1,1,2,11,Mild — okay from about 11+,"Nudity & bodies — “We got spirit, how about you? It's going to be a test of will and strength to have fake boobs and not be touching them all the time.”"
+12,4,1204,Four Wave Intersection,2,1,2,2,11,Mild — okay from about 11+,"Nudity & bodies — “I got thrown down the Avalanche, naked! Joseph, why didn't you help him? Because I ran away.”"
+12,5,1205,Death Picks Cotton,3,1,1,3,11,Preview first — about 11+,Violence & injury — “You call this twigloo a shed? Backin WW deuce I built a survival shed out of bamboo and mud and blood and dung.”
+12,6,1206,Raise the Steaks,1,1,1,1,11,Usually fine — about 11+,"Nudity & bodies — “Tell me, are you wearing tie-dye underwear? Are you wearing any underwear at all? (sighing): Guys, I am not now, nor will I ever be, a hippie.”"
+12,7,1207,Tears of an Inflatable Clown,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “Everyone I know that's died has been shot in the woods and then taken to a hospital, where they died.”"
+12,8,1208,The Minh Who Knew Too Much,3,1,2,3,11,Preview first — about 11+,Violence & injury — “Get me a gun.”
+12,9,1209,Dream Weaver,3,1,2,3,11,Preview first — about 11+,"Sex & hookups — “And to a lesser and more sexual extent, my wife.”"
+12,10,1210,Doggone Crazy,3,1,2,3,11,Preview first — about 11+,Violence & injury — “A butcher's knife? All right.”
+12,11,1211,Trans-Fascism,1,1,2,2,11,Mild — okay from about 11+,"Alcohol & drugs — “(moans) Sugar-free! Light beer! You don't have to worry about me anymore, Hank.”"
+12,12,1212,Three Men and a Bastard (A.K.A. The Untitled Blake McCormick Project),1,3,2,3,11,Preview first — about 11+,Sex & hookups — “I've had a lot of quality time with the kids since Charlene hooked up with her old girlfriends.”
+12,13,1213,The Accidental Terrorist,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “What? Hank Hill, you son of a gun.”"
+12,14,1214,Lady and Gentrification,1,1,1,1,11,Usually fine — about 11+,"Violence & injury — “Peg, the cool Realtor, slapping fives and throwing up peace signs.”"
+12,15,1215,Behind Closed Doors,2,1,1,2,11,Mild — okay from about 11+,"Nudity & bodies — “What's that trick with the, uh Peggy! What are you doing in your underwear outside the master bathroom? I want us to be a closer, more open family.”"
+12,16,1216,Pour Some Sugar on Kahn,2,2,1,2,11,Mild — okay from about 11+,"Sex & hookups — “…That's Kahn's song! He's stealing Kahn's song! In the world of karaoke, stealing a man's song is like sleeping with his wife and making him listen to it as others watch and cheer.”"
+12,17,1217,Six Characters in Search of a House,2,2,2,2,11,Mild — okay from about 11+,"Sex & hookups — “(tapping at door) Hey, I just moved in down the block, and I'm required bylaw to tell everybody I'm a sex offender.”"
+12,18,1218,The Courtship of Joseph's Father,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “A bottle of champagne and two glasses.”
+12,19,1219,Strangeness on a Train,3,2,2,3,11,Preview first — about 11+,Sex & hookups — “I would not rule out sex-crazed hobos.”
+12,20,1220,Cops and Robert,2,2,2,2,11,Mild — okay from about 11+,"Sex & hookups — “And when they don't, I'll sue for sex discrimination.”"
+12,21,1221,It Came from the Garage,1,1,1,1,11,Usually fine — about 11+,"Alcohol & drugs — “Come on, let's go grab a beer.”"
+12,22,1222,Life: A Loser's Manual,1,1,2,2,11,Mild — okay from about 11+,Alcohol & drugs — “Have a beer with me.”
+13,1,1301,Dia-bill-ic Shock,1,1,2,2,11,Mild — okay from about 11+,"Affairs / cheating — “All right, Bill! Whoo! Just because you've been cheated by life doesn't mean you can cheat on my court! Bill is really hustling out there! This is amazing.”"
+13,2,1302,Earthy Girls Are Easy,2,1,2,2,11,Mild — okay from about 11+,"Violence & injury — “Gribble, what else you got? So this fellow's going to save us, huh? How do you know him, again? He used to be in the gun club until we kicked him out.”"
+13,3,1303,Square-Footed Monster,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “Was anyone violently murdered there? Okay, have two former presidents ever shook hands there? Uh, no.”"
+13,4,1304,Lost in Myspace,1,1,3,3,11,Preview first — about 11+,Nudity & bodies — “I'm going to wear a purple lace bra Wait a minute.”
+13,5,1305,No Bobby Left Behind,2,2,2,2,11,Mild — okay from about 11+,"Sex & hookups — “Why can't we just go back to the gold star/smiley face system? The same reason we won't let you sleep with your ""banky"" anymore.”"
+13,6,1306,A Bill Full of Dollars,1,1,1,1,11,Usually fine — about 11+,"Violence & injury — “I'll sell a few guns and invest, too.”"
+13,7,1307,Straight as an Arrow,1,1,1,1,11,Usually fine — about 11+,"Violence & injury — “Hey, look, it's my old Arrow knife.”"
+13,8,1308,"Lucky See, Monkey Do",1,1,1,1,11,Usually fine — about 11+,"Nudity & bodies — “Trust me, it will be your ""breast"" friend.”"
+13,9,1309,What Happens at the National Propane Gas Convention in Memphis Stays at the National Propane Convention in Memphis,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “We need some schnapps to help us think! Let's get the hell out of here, boy! Damn! My breath stinks like blood and peppermint.”"
+13,10,1310,Master of Puppets,2,2,1,2,11,Mild — okay from about 11+,Porn / strippers / sex work — “I'm watching prostitutes buy panty hose.”
+13,11,1311,Bwah My Nose,1,4,2,4,13,Skip for under 13,Nudity & bodies — Explicit body / sex-act language appears in dialogue.
+13,12,1312,Uncool Customer,1,2,1,2,11,Mild — okay from about 11+,"Nudity & bodies — “That's good, 'cause that patch makes my boobs really sensitive.”"
+13,13,1313,Nancy Does Dallas,2,1,1,2,11,Mild — okay from about 11+,Affairs / cheating — “Really? I always thought you and Wade were having an affair.”
+13,14,1314,Born Again on the Fourth of July,2,1,3,3,11,Preview first — about 11+,"Violence & injury — “Amen! Hallelujah! Not the murderers, heretics, liars, the fornicators! Especially not the fornicators.”"
+13,15,1315,Serves Me Right for Giving General George S. Patton the Bathroom Key,3,1,2,3,11,Preview first — about 11+,Affairs / cheating — “My dad gave me the greatest gift: the trust and honor of handling his affairs.”
+13,16,1316,Bad News Bill,3,1,2,3,11,Preview first — about 11+,"Violence & injury — “Hill, the boy may not have lost any blood, but he lost something more important-- his innocence.”"
+13,17,1317,Manger Baby Einstein,3,1,2,3,11,Preview first — about 11+,Violence & injury — “The nerve of that man! Murderer! Assassin of hope! You are not invited to the Babies Stealer! Plagiarer! You're both acting like idiots.”
+13,18,1318,Uh-Oh Canada,1,1,1,1,11,Usually fine — about 11+,"Alcohol & drugs — “Look, I know we all miss Boomhauer, but he wouldn't want us crying in our beer.”"
+13,19,1319,The Boy Can't Help It,2,1,1,2,11,Mild — okay from about 11+,"Nudity & bodies — “More and more girls are getting boobs, so there're not as many desperate ones anymore.”"
+13,20,1320,To Sirloin with Love,1,2,1,2,11,Mild — okay from about 11+,"Sex & hookups — “Lucky for you, the Japanese are developing robots-- Sexy robots to care for the elderly.”"
+13,21,1321,The Honeymooners,2,1,2,2,11,Mild — okay from about 11+,Nudity & bodies — “Do you still miniature golf in the nude or was that just for the picture? Wow you really remember.”
+13,22,1322,Bill Gathers Moss,1,2,1,2,11,Mild — okay from about 11+,Sex & hookups — “Lori and me are gonna make out in the janitor's closet.”
+13,23,1323,"When Joseph Met Lori, and Made Out with Her in the Janitor's Closet",2,1,2,2,11,Mild — okay from about 11+,Nudity & bodies — “I can't wait to make my underwear my only-wear.”
+13,24,1324,Just Another Manic Kahn-Day,3,1,1,3,11,Preview first — about 11+,"Violence & injury — “Oh, my god! It's the Texas A&F team! Let's stab one in the restroom! No! Let's blind them.”"

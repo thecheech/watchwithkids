@@ -183,6 +183,7 @@ SHOW_META = {
     },
     "abbott-elementary": {"name": "Abbott Elementary", "maze": "Abbott Elementary"},
     "regular-show": {"name": "Regular Show", "maze": "Regular Show"},
+    "king-of-the-hill": {"name": "King of the Hill", "maze": "King of the Hill"},
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
     "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
     "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},

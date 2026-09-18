@@ -105,8 +105,10 @@
       "source": "ss",
       "ssSlug": "king-of-the-hill",
       "mazeQuery": "King of the Hill",
-      "status": "pending",
-      "note": "Revival driving searches; large classic catalog"
+      "status": "done",
+      "note": "Revival driving searches; large classic catalog",
+      "completedAt": "2026-09-18T20:09:52Z",
+      "result": "259 episodes rated (S1–S13; TVMaze S14–S15 revival has 20 more with no Springfield scripts). Aliased Arrow Head, Skretteberg, Firefighting, Bobbyv, Nancy's Boys, 'til/Till, Portrait. Returning Japanese (1)/(2) matched separately. check_ratings + sitemaps green. Mix 150 mild / 89 caution / 20 too much."
     },
     {
       "order": 8,

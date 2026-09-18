@@ -180,6 +180,14 @@ SHOWS = {
         "format": "kids animation",
         "note": "Cartoon Network park-worker comedy — cartoon violence and crude jokes ramp up in later seasons.",
     },
+    "king-of-the-hill": {
+        "name": "King of the Hill",
+        "shelf": "rewatch",
+        "age": 13,
+        "floor": 11,
+        "format": "animated sitcom",
+        "note": "Texas suburban animated sitcom — beer, propane, and adult jokes; revival is driving new searches.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",

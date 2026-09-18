@@ -63,6 +63,7 @@ READY = [
     "amphibia",
     "pokemon",
     "regular-show",
+    "king-of-the-hill",
 ]
 
 

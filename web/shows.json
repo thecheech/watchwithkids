@@ -1060,5 +1060,28 @@
       "total": 246
     },
     "shelf": "kids"
+  },
+  {
+    "id": "king-of-the-hill",
+    "name": "King of the Hill",
+    "mazeId": 115,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/633/1583514.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy"
+    ],
+    "premiered": "1997",
+    "runtime": 30,
+    "summary": "King of the Hill depicts the life and times of Hank Hill, his family, and their neighbors in the fictional suburb of Arlen, Texas, the heartland of America. A hard-working, loyal family man and proud Texan, Hank always strives to be a voice of common sense and reason. After years away, Hank and Peggy Hill return to a changed America, while Bobby balances owning a restaurant and enjoying life as a young adult.",
+    "ready": true,
+    "coverLocal": "covers/king-of-the-hill.jpg",
+    "href": "/king-of-the-hill",
+    "mix": {
+      "safe": 150,
+      "maybe": 89,
+      "skip": 20,
+      "total": 259
+    },
+    "shelf": "rewatch"
   }
 ]
