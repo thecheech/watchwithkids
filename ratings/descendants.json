@@ -1,0 +1,126 @@
+{
+  "show": "Descendants: The Rise of Red",
+  "show_id": "descendants",
+  "shelf": "kids",
+  "age": 8,
+  "age_floor": 7,
+  "audience_note": "Disney villain-kid musical — time travel, sword fights, and a coup; songs stay PG.",
+  "scale": {
+    "min": 1,
+    "max": 5,
+    "meaning": {
+      "violence": "Physical harm, fights, scary injury, weapons (slapstick counts lightly).",
+      "sex": "Sex talk, innuendo, affairs, nudity jokes, strippers, pregnancy/sex plots.",
+      "language": "Swears, crude insults, sexual slang (damn/hell mild; stronger words higher)."
+    },
+    "labels": {
+      "1": "None / fine",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Strong",
+      "5": "Heavy"
+    }
+  },
+  "disclaimer": "Informal parental guidance from transcript signals — not an official rating. Taste varies by family.",
+  "count": 1,
+  "episodes": [
+    {
+      "season": 0,
+      "episode": 1,
+      "code": "0001",
+      "title": "Descendants: The Rise of Red",
+      "index_title": "Descendants: The Rise of Red",
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=descendants-the-rise-of-red",
+      "file": "transcripts/descendants/0001-descendants-the-rise-of-red.txt",
+      "summary": "Former Villain Kid Uma, now headmaster of Auradon Prep, extends an invite to the school to another VK – Red, the rebellious daughter of the Queen of Hearts from Wonderland. After the Queen of Hearts incites a coup against Auradon, Red must team up with Cinderella's perfectionist daughter Chloe and travel back in time to try to undo the traumatic event that set Red's mother down her villainous path.",
+      "violence": 2,
+      "sex": 1,
+      "language": 1,
+      "overall": 2,
+      "age": 8,
+      "verdict": "Mild — okay from about 8+",
+      "why": "Scores low: the strongest thing we found is violence & injury (explicit, in dialogue).",
+      "themes": {
+        "fine": [
+          "Disney villain-kid musical",
+          "Auradon / Wonderland adventure",
+          "Mostly kid-ok if you skip past the mild bits below"
+        ],
+        "watch": [
+          "Violence & injury",
+          "Swearing"
+        ],
+        "watch_detail": [
+          {
+            "theme": "Violence & injury",
+            "group": "violence",
+            "how": "“you're gonna stab me in the back too”",
+            "count": 2,
+            "intensity": 3,
+            "severity": 4,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": null,
+                "text": "you're gonna stab me in the back too",
+                "mode": "dialogue",
+                "intensity": 3,
+                "severity": 4,
+                "at": "mid"
+              },
+              {
+                "kind": "quote",
+                "speaker": null,
+                "text": "and exactly how to stab her in the back.",
+                "mode": "dialogue",
+                "intensity": 3,
+                "severity": 4,
+                "at": "mid"
+              }
+            ]
+          },
+          {
+            "theme": "Swearing",
+            "group": "language",
+            "how": "“Prick her with a thousand thorns?”",
+            "count": 2,
+            "intensity": 2,
+            "severity": 3,
+            "mode": "dialogue",
+            "instances": [
+              {
+                "kind": "quote",
+                "speaker": null,
+                "text": "Prick her with a thousand thorns?",
+                "mode": "dialogue",
+                "intensity": 2,
+                "severity": 3,
+                "at": "late"
+              },
+              {
+                "kind": "quote",
+                "speaker": null,
+                "text": "Fairy Godmother sucks at magic.",
+                "mode": "dialogue",
+                "intensity": 1,
+                "severity": 2,
+                "at": "mid"
+              }
+            ]
+          }
+        ],
+        "optional": [],
+        "optional_detail": [],
+        "notes_extra": []
+      },
+      "examples": [
+        "Violence & injury — “you're gonna stab me in the back too”",
+        "Swearing — “Prick her with a thousand thorns?”"
+      ],
+      "notes": null,
+      "flags": [],
+      "source": "heuristic"
+    }
+  ]
+}

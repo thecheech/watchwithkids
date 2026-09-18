@@ -23112,5 +23112,11 @@
       "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/629/1573732.jpg",
       "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573732.jpg"
     }
+  },
+  "descendants": {
+    "0001": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/527/1319111.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/527/1319111.jpg"
+    }
   }
 }

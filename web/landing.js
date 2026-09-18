@@ -45,6 +45,7 @@
     "percy-jackson",
     "regular-show",
     "amazing-digital-circus",
+    "descendants",
   ];
   /** TV-MA / adult animation — rated so you know which episodes are roughest. */
   const ADULT_ORDER = ["rick-and-morty", "family-guy", "south-park", "invincible"];

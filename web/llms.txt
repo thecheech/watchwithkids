@@ -54,6 +54,7 @@
 - [King of the Hill](https://watchwiththekids.com/king-of-the-hill): 259 episodes — 58% mild, 34% caution, 8% too much. Full text index: [king-of-the-hill.md](https://watchwiththekids.com/llms/king-of-the-hill.md)
 - [Arcane](https://watchwiththekids.com/arcane): 18 episodes — 22% mild, 67% caution, 11% too much. Full text index: [arcane.md](https://watchwiththekids.com/llms/arcane.md)
 - [The Amazing Digital Circus](https://watchwiththekids.com/amazing-digital-circus): 9 episodes — 67% mild, 33% caution, 0% too much. Full text index: [amazing-digital-circus.md](https://watchwiththekids.com/llms/amazing-digital-circus.md)
+- [Descendants: The Rise of Red](https://watchwiththekids.com/descendants): 1 episode — 100% mild, 0% caution, 0% too much. Full text index: [descendants.md](https://watchwiththekids.com/llms/descendants.md)
 
 ## Machine-readable data
 

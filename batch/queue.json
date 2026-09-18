@@ -148,11 +148,13 @@
       "shelf": "kids",
       "age": 8,
       "floor": 7,
-      "source": "blocked-pending-source",
-      "ssSlug": null,
+      "source": "ss",
+      "ssSlug": "descendants-the-rise-of-red",
       "mazeQuery": "Descendants",
-      "status": "pending",
-      "note": "No SS scripts found; resolve film vs series + transcript source before run"
+      "status": "done",
+      "note": "Disney+ film — not Wicked World shorts; Springfield movie script (wiki page was a stub)",
+      "completedAt": "2026-09-18T23:06:38Z",
+      "result": "1 movie rated (Descendants: The Rise of Red). Film, not the Wicked World shorts or the 2015–2019 trilogy. Springfield movie script (9,957 words); descendants.fandom.com transcript was a 1,506-word stub. TVMaze franchise show 28908 also lists Descendants 1–3 and unreleased Wicked Wonderland (2026). check_ratings + sitemaps green. Mix 1 mild / 0 caution / 0 too much."
     }
   ]
 }

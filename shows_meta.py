@@ -212,6 +212,14 @@ SHOWS = {
         "format": "animated movie",
         "note": "Animated movie — demon battles throughout; the villain preys on shame and fear.",
     },
+    "descendants": {
+        "name": "Descendants: The Rise of Red",
+        "shelf": "kids",
+        "age": 8,
+        "floor": 7,
+        "format": "live-action musical movie",
+        "note": "Disney villain-kid musical — time travel, sword fights, and a coup; songs stay PG.",
+    },
     # Not yet rated — used for the "coming soon" shelves so the homepage can still
     # sort them into the right audience.
     "bluey": {"name": "Bluey", "shelf": "kids", "age": 4, "floor": 4, "format": "kids animation"},
@@ -428,4 +436,4 @@ CANON_ONLY = {
 }
 
 # Single-entry movies — not "Season 1 Episode 1".
-MOVIE_SHOWS = {"kpop-demon-hunters"}
+MOVIE_SHOWS = {"kpop-demon-hunters", "descendants"}

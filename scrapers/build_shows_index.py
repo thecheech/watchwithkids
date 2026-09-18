@@ -44,6 +44,7 @@ DISPLAY = {
     "arcane": ("Arcane", "springfieldspringfield.co.uk"),
     "amazing-digital-circus": ("The Amazing Digital Circus", "tadc.fandom.com + springfieldspringfield (S1E1–E3)"),
     "kpop-demon-hunters": ("KPop Demon Hunters", "springfieldspringfield.co.uk"),
+    "descendants": ("Descendants: The Rise of Red", "springfieldspringfield.co.uk"),
     "stranger-things": ("Stranger Things", "8flix.com (via TidyTuesday)"),
     "legend-of-korra": ("The Legend of Korra", "avatar.fandom.com"),
     "clone-wars": ("Star Wars: The Clone Wars", "springfieldspringfield.co.uk"),

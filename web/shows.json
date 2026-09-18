@@ -1300,5 +1300,34 @@
     "shelf": "kids",
     "seasons": 1,
     "isMovie": false
+  },
+  {
+    "id": "descendants",
+    "name": "Descendants: The Rise of Red",
+    "mazeId": 28908,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/527/1319111.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Music"
+    ],
+    "premiered": "2024",
+    "runtime": 92,
+    "summary": "Former Villain Kid Uma, now headmaster of Auradon Prep, extends an invite to the school to another VK – Red, the rebellious daughter of the Queen of Hearts from Wonderland. After the Queen of Hearts incites a coup against Auradon, Red must team up with Cinderella's perfectionist daughter Chloe and travel back in time to try to undo the traumatic event that set Red's mother down her villainous path.",
+    "ready": true,
+    "coverLocal": "covers/descendants.jpg",
+    "href": "/descendants",
+    "mix": {
+      "safe": 1,
+      "maybe": 0,
+      "skip": 0,
+      "total": 1,
+      "seasons": 0,
+      "is_movie": true
+    },
+    "shelf": "kids",
+    "seasons": 0,
+    "isMovie": true
   }
 ]

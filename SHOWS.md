@@ -14,6 +14,7 @@ index at the project root for compatibility with the web app).
 | [Bluey](transcripts/bluey/) | 3 | 152 | 407,115 | blueypedia.fandom.com |
 | [Bob's Burgers](transcripts/bobs-burgers/) | 16 | 312 | 1,268,805 | springfieldspringfield.co.uk |
 | [Brooklyn Nine-Nine](transcripts/brooklyn-nine-nine/) | 7 | 135 | 534,115 | springfieldspringfield.co.uk |
+| [Descendants: The Rise of Red](transcripts/descendants/) | — | 1 | 9,957 | springfieldspringfield.co.uk |
 | [Family Guy](transcripts/family-guy/) | 24 | 456 | 1,429,993 | springfieldspringfield.co.uk |
 | [Friends](episodes.json) | 10 | 228 | 879,510 | edersoncorbari.github.io/friends |
 | [Full House](transcripts/full-house/) | 5 | 120 | 320,151 | springfieldspringfield.co.uk |
@@ -49,7 +50,7 @@ index at the project root for compatibility with the web app).
 | [Wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | springfieldspringfield.co.uk |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 42 shows, 6,903 transcripts, 22,798,017 words.**
+**Total: 43 shows, 6,904 transcripts, 22,807,974 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

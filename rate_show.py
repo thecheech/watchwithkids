@@ -126,7 +126,7 @@ KIDS_SHOW_IDS = {
     "spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar",
     "gravity-falls", "steven-universe", "kpop-demon-hunters", "legend-of-korra",
     "clone-wars", "owl-house", "amphibia", "pokemon", "percy-jackson",
-    "regular-show", "amazing-digital-circus",
+    "regular-show", "amazing-digital-circus", "descendants",
 }
 
 # Title overrides for known data quality issues from scrape sources
@@ -194,6 +194,10 @@ SHOW_META = {
         "maze": "The Amazing Digital Circus",
     },
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
+    "descendants": {
+        "name": "Descendants: The Rise of Red",
+        "maze": "Descendants",
+    },
     "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
     "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},
     "clone-wars": {"name": "Star Wars: The Clone Wars", "maze": "Star Wars: The Clone Wars"},

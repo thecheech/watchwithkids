@@ -428,6 +428,7 @@ FINE_BY_SHOW = {
     "abbott-elementary": ["Workplace comedy", "School mockumentary"],
     "regular-show": ["Park-worker cartoon hijinks", "Cartoon Network adventure comedy"],
     "amazing-digital-circus": ["Virtual-circus cartoon", "Surreal digital-world comedy"],
+    "descendants": ["Disney villain-kid musical", "Auradon / Wonderland adventure"],
 }
 
 # Kids animation: slapstick is the genre, not a warning sign.

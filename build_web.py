@@ -100,6 +100,7 @@ READY = [
     "king-of-the-hill",
     "arcane",
     "amazing-digital-circus",
+    "descendants",
 ]
 
 SHOW_PAGE = {
@@ -184,6 +185,10 @@ SHOW_PAGE = {
     "amazing-digital-circus": {
         "name": "The Amazing Digital Circus",
         "h1": 'The Amazing Digital Circus <span class="pop">🎪</span>',
+    },
+    "descendants": {
+        "name": "Descendants: The Rise of Red",
+        "h1": 'Descendants: The Rise of Red <span class="pop">♥️</span>',
     },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
@@ -609,7 +614,7 @@ def display_title(title: str) -> str:
 
 def season_label(season, show_id: str | None = None) -> str:
     raw = str(season)
-    if raw == "0" and show_id in {"kpop-demon-hunters"}:
+    if raw == "0" and show_id in MOVIE_SHOWS:
         return "Movie"
     if raw == "0":
         return "Specials"

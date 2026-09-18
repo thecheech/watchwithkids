@@ -66,6 +66,7 @@ READY = [
     "king-of-the-hill",
     "arcane",
     "amazing-digital-circus",
+    "descendants",
 ]
 
 
