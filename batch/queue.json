@@ -59,8 +59,10 @@
       "source": "ss",
       "ssSlug": "percy-jackson-and-the-olympians-2023",
       "mazeQuery": "Percy Jackson and the Olympians",
-      "status": "pending",
-      "note": "Disney+ family adventure"
+      "status": "done",
+      "note": "Disney+ family adventure",
+      "completedAt": "2026-09-18T17:07:16Z",
+      "result": "16 episodes rated (S1–S2; TVMaze S3 is 8 TBA placeholders with no Springfield scripts). check_ratings + sitemaps green. Mix 16 mild / 0 caution / 0 too much."
     },
     {
       "order": 5,

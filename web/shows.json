@@ -983,5 +983,33 @@
       "total": 32
     },
     "shelf": "adult"
+  },
+  {
+    "id": "percy-jackson",
+    "name": "Percy Jackson and the Olympians",
+    "mazeId": 48108,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/477/1194121.jpg",
+    "coverType": "background",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "premiered": "2023",
+    "runtime": null,
+    "summary": "12-year-old modern demigod Percy Jackson has just come to terms with his newfound supernatural powers when the sky god Zeus accuses him of stealing his master lightning bolt. Now Percy must trek across America to find it and restore order to Olympus.",
+    "ready": true,
+    "coverW": 3840,
+    "coverH": 2160,
+    "coverLocal": "covers/percy-jackson.jpg",
+    "blurb": "12-year-old modern demigod Percy Jackson has just come to terms with his newfound supernatural powers when the sky god Zeus accuses him of…",
+    "href": "/percy-jackson",
+    "mix": {
+      "safe": 16,
+      "maybe": 0,
+      "skip": 0,
+      "total": 16
+    },
+    "shelf": "kids"
   }
 ]

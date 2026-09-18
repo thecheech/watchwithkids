@@ -125,7 +125,7 @@ TROPE_RULES = [
 KIDS_SHOW_IDS = {
     "spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar",
     "gravity-falls", "steven-universe", "kpop-demon-hunters", "legend-of-korra",
-    "clone-wars", "owl-house", "amphibia", "pokemon",
+    "clone-wars", "owl-house", "amphibia", "pokemon", "percy-jackson",
 }
 
 # Title overrides for known data quality issues from scrape sources
@@ -173,6 +173,10 @@ SHOW_META = {
     "ted-lasso": {"name": "Ted Lasso", "maze": "Ted Lasso"},
     "outer-banks": {"name": "Outer Banks", "maze": "Outer Banks"},
     "invincible": {"name": "Invincible", "maze": "Invincible"},
+    "percy-jackson": {
+        "name": "Percy Jackson and the Olympians",
+        "maze": "Percy Jackson and the Olympians",
+    },
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
     "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
     "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},

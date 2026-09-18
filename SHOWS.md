@@ -24,6 +24,7 @@ index at the project root for compatibility with the web app).
 | [Modern Family](transcripts/modern-family/) | 11 | 246 | 920,793 | springfieldspringfield.co.uk |
 | [Outer Banks](transcripts/outer-banks/) | 4 | 40 | 226,243 | springfieldspringfield.co.uk |
 | [Parks and Recreation](transcripts/parks-and-recreation/) | 7 | 122 | 425,996 | springfieldspringfield.co.uk |
+| [Percy Jackson and the Olympians](transcripts/percy-jackson/) | 2 | 16 | 53,840 | springfieldspringfield.co.uk |
 | [Phineas and Ferb](transcripts/phineas-and-ferb/) | 5 | 249 | 979,220 | phineasandferb.fandom.com |
 | [Pokémon: Indigo League](transcripts/pokemon/) | — | 115 | 168,932 | pokemon.fandom.com |
 | [Rick and Morty](transcripts/rick-and-morty/) | 9 | 82 | 273,333 | springfieldspringfield.co.uk |
@@ -43,7 +44,7 @@ index at the project root for compatibility with the web app).
 | [Wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | springfieldspringfield.co.uk |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 36 shows, 6,212 transcripts, 20,655,501 words.**
+**Total: 37 shows, 6,228 transcripts, 20,709,341 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

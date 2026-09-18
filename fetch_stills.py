@@ -53,6 +53,7 @@ READY = [
     "ted-lasso",
     "outer-banks",
     "invincible",
+    "percy-jackson",
     "kpop-demon-hunters",
     "stranger-things",
     "legend-of-korra",

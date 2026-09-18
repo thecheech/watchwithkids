@@ -156,6 +156,14 @@ SHOWS = {
         "format": "adult animation",
         "note": "TV-MA. Rated here so you know which episodes are roughest, not because it is kids TV.",
     },
+    "percy-jackson": {
+        "name": "Percy Jackson and the Olympians",
+        "shelf": "kids",
+        "age": 10,
+        "floor": 8,
+        "format": "live-action adventure",
+        "note": "Disney+ demigod quest — monster fights and mythic peril vary by episode.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",

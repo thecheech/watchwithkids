@@ -48,6 +48,7 @@
 - [Ted Lasso](https://watchwiththekids.com/ted-lasso): 40 episodes — 0% mild, 0% caution, 100% too much. Full text index: [ted-lasso.md](https://watchwiththekids.com/llms/ted-lasso.md)
 - [Outer Banks](https://watchwiththekids.com/outer-banks): 40 episodes — 0% mild, 20% caution, 80% too much. Full text index: [outer-banks.md](https://watchwiththekids.com/llms/outer-banks.md)
 - [Invincible](https://watchwiththekids.com/invincible): 32 episodes — 0% mild, 16% caution, 84% too much. Full text index: [invincible.md](https://watchwiththekids.com/llms/invincible.md)
+- [Percy Jackson and the Olympians](https://watchwiththekids.com/percy-jackson): 16 episodes — 100% mild, 0% caution, 0% too much. Full text index: [percy-jackson.md](https://watchwiththekids.com/llms/percy-jackson.md)
 
 ## Machine-readable data
 
