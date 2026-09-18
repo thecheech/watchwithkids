@@ -502,33 +502,12 @@ def page_data(mixes: dict) -> dict:
         ),
     ]
 
-    video = {
-        "title": "2026 Emmys: What You Can Actually Watch With Kids",
-        "hook": "The Emmy for best comedy just went to a horror show.",
-        "script": (
-            "Widow's Bay won Outstanding Comedy Series. It is a TV-MA haunted-island "
-            "horror comedy — not a sitcom. What you can put on with kids: The Muppet Show "
-            "on Disney+, Abbott Elementary if they're about 10+, Sesame Street or Pixar's "
-            "Win or Lose from the Children's Emmys. Skip South Park even though it won "
-            "best animated. Full list on Watch With The Kids."
-        ),
-        "onscreen": [
-            "SKIP: Widow's Bay — won comedy, it's horror",
-            "PLAY: The Muppet Show — Disney+",
-            "PLAY 10+: Abbott Elementary",
-            "PLAY little kids: Sesame Street / Win or Lose",
-            "SKIP: South Park — won animated",
-        ],
-        "cta": "watchwiththekids.com/emmys-2026",
-    }
-
     return {
         "play": play,
         "kids_emmys": kids_emmys,
         "preview": preview,
         "skip": skip,
         "faqs": faqs,
-        "video": video,
     }
 
 
@@ -536,7 +515,6 @@ def page_body(mixes: dict) -> str:
     data = page_data(mixes)
     from build_web import faq_html
 
-    shots = "".join(f"<li>{_esc(x)}</li>" for x in data["video"]["onscreen"])
     return f"""  <nav class="topnav wrap">
     <a class="back-home" href="/">← All shows</a>
     <a class="back-home subtle" href="/whats-on/">What's on</a>
@@ -615,27 +593,6 @@ def page_body(mixes: dict) -> str:
       <div class="wo-picks">
 {_picks(data["skip"])}
       </div>
-    </section>
-    <section class="wo-section wo-video" id="video">
-      <h2>60-second video version</h2>
-      <p class="wo-video-kicker">Title to post</p>
-      <p class="wo-video-title">{_esc(data["video"]["title"])}</p>
-      <p><strong>Hook:</strong> {_esc(data["video"]["hook"])}</p>
-      <p><strong>Script:</strong> {_esc(data["video"]["script"])}</p>
-      <p class="wo-watch-label">On-screen text</p>
-      <ul class="wo-watch">{shots}</ul>
-      <p><strong>End card:</strong> {_esc(data["video"]["cta"])}</p>
-    </section>
-    <section class="wo-section">
-      <h2>How this is different from What's on</h2>
-      <p>
-        <a href="/whats-on/">What's on</a> is the Friday list of newly added family
-        movies on Netflix, Disney+, Prime, Max, Apple TV+ and Paramount+.
-        <a href="/guides/">What to watch</a> is episode-by-episode 1–5 scores for
-        shows in our catalog. <strong>This page</strong> is a one-off filter of the
-        2026 Emmys — parent notes for titles we have not fully scored, plus links
-        into Simpsons, Bob's Burgers, South Park and Rick and Morty where we have.
-      </p>
     </section>
     <p class="wo-disclaimer">
       Primetime winners as of the 78th Emmys on September 14, 2026; Children's
