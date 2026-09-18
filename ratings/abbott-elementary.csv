@@ -1,0 +1,94 @@
+season,episode,code,title,violence,sex,language,overall,age,verdict,example_1
+1,1,0101,Pilot,1,4,2,4,13,Skip for under 13,Nudity & bodies — My support was gonna do about as much as that five-year-old bra you've got on right there.
+1,2,0102,Light Bulb,1,1,1,1,10,Usually fine — about 10+,
+1,3,0103,Wishlist,1,1,2,2,10,Mild — okay from about 10+,Violence & injury — “The bloody paper towel”
+1,4,0104,New Tech,2,1,2,2,10,Mild — okay from about 10+,"Violence & injury — Like, you want to run up the Rocky steps, but you can't take a punch in the face."
+1,5,0105,Student Transfer,1,1,1,1,10,Usually fine — about 10+,"Affairs / cheating — Wow. You think you know someone, and then they cheat on you with their thumb."
+1,6,0106,Gifted Program,1,4,2,4,13,Skip for under 13,Porn / strippers / sex work — Stripper or strip-club material shows up in the plot.
+1,7,0107,Art Teacher,1,1,2,2,10,Mild — okay from about 10+,Alcohol & drugs — She never got wine stains on her teeth.
+1,8,0108,Work Family,1,1,1,1,10,Usually fine — about 10+,
+1,9,0109,Step Class,1,2,1,2,10,Mild — okay from about 10+,"Sex & hookups — Little Pinot little ""Peaky Blinders. "" You all do know what sexy means, right? Oh, I know."
+1,10,0110,Open House,2,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — When I did Teachers Without Borders, we had a lot of free time, so we basically would just play cards and have sex with each other."
+1,11,0111,Desking,1,1,2,2,10,Mild — okay from about 10+,"Nudity & bodies — I worked as a pipe fitter, a minor league baseball bunting coach, a tastefully nude model, sold RVs for summer."
+1,12,0112,Ava vs. Superintendent,1,1,2,2,10,Mild — okay from about 10+,"Swearing — “""Bad Bitches Only""”"
+1,13,0113,Zoo Balloon,1,1,1,1,10,Usually fine — about 10+,"Violence & injury — I get to do ""Mr. Johnson's Day Off. "" That's when I watch ""Ferris Bueller's Day Off,"" which is a movie about a depressed kid who murders his father's Ferrari."
+2,1,0201,Development Day,1,1,2,2,10,Mild — okay from about 10+,"Alcohol & drugs — a beer can at the Flyers' arena,"
+2,2,0202,Wrong Delivery,2,4,2,4,13,Skip for under 13,"Sex & hookups — Look, I know it's not sexy, but"
+2,3,0203,Story Samurai,1,1,1,1,10,Usually fine — about 10+,
+2,4,0204,The Principal's Office,1,1,2,2,10,Mild — okay from about 10+,Alcohol & drugs — with my wine pairings.
+2,5,0205,Juice,1,1,2,2,10,Mild — okay from about 10+,Sex & hookups — for a Mini-Me and a sexy Dr. Evil.
+2,6,0206,Candy Zombies,1,2,3,3,10,Preview first — about 10+,Sex & hookups — all the references to sex and sexuality.
+2,7,0207,Attack Ad,2,4,2,4,13,Skip for under 13,"Sex & hookups — Well, he finds shaved meat sexy,"
+2,8,0208,Egg Drop,1,1,3,3,10,Preview first — about 10+,"Swearing — The mom with the ""Bitch"" tattoo?"
+2,9,0209,Sick Day,1,1,3,3,10,Preview first — about 10+,Swearing — I'm about to retire from this bitch.
+2,10,0210,Holiday Hookah,2,1,2,2,10,Mild — okay from about 10+,"Nudity & bodies — a nude art model,"
+2,11,0211,Read-A-Thon,1,1,1,1,10,Usually fine — about 10+,
+2,12,0212,Fight,2,1,2,2,10,Mild — okay from about 10+,Violence & injury — I'm supposed to beat up?
+2,13,0213,Fundraiser,1,1,1,1,10,Usually fine — about 10+,Alcohol & drugs — who could turn water into wine
+2,14,0214,Valentine's Day,1,1,2,2,10,Mild — okay from about 10+,Racism & slurs — Like an anti-racist Icarus.
+2,15,0215,Fire,1,1,2,2,10,Mild — okay from about 10+,"Alcohol & drugs — Actually, they age like fine wine"
+2,16,0216,Teacher's Conference,2,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — ""Sex Ed on the Beach."""
+2,17,0217,Mural Arts,1,1,2,2,10,Mild — okay from about 10+,"Sex & hookups — I'm thinking sexy, but dangerous."
+2,18,0218,Teacher Appreciation,1,2,2,2,10,Mild — okay from about 10+,"Sex & hookups — watch that ""Sex and the City"""
+2,19,0219,Festival,2,1,3,3,10,Preview first — about 10+,"Violence & injury — Suwoo, on my blood ♪"
+2,20,0220,Educator of the Year,1,1,2,2,10,Mild — okay from about 10+,"Violence & injury — Two young guns, killing awards season."
+2,21,0221,Mom,1,1,3,3,10,Preview first — about 10+,Swearing — and then she go calling bitches broke.
+2,22,0222,Franklin Institute,1,1,1,1,10,Usually fine — about 10+,
+3,1,0301,Career Day Part 1,1,1,2,2,10,Mild — okay from about 10+,Violence & injury — so now we're pulling out the big guns.
+3,2,0302,Career Day Part 2,1,1,2,2,10,Mild — okay from about 10+,Violence & injury — so now we're pulling out the big guns.
+3,3,0303,Gregory's Garden Goofballs,1,1,1,1,10,Usually fine — about 10+,
+3,4,0304,Smoking,2,1,2,2,10,Mild — okay from about 10+,Suicide & self-harm — Fatal overdoses in Philly
+3,5,0305,Breakup,2,1,3,3,10,Preview first — about 10+,Violence & injury — we are gonna have bad blood.
+3,6,0306,Willard R. Abbott,1,1,2,2,10,Mild — okay from about 10+,"Alcohol & drugs — It's ""The Hangover,"" and, no, it's not."
+3,7,0307,Librarian,1,1,2,2,10,Mild — okay from about 10+,Sex & hookups — of those little finger condoms
+3,8,0308,Panel,1,3,3,3,10,Preview first — about 10+,Sex & hookups — They're hooking up.
+3,9,0309,Alex,1,1,2,2,10,Mild — okay from about 10+,Nudity & bodies — I hope you get a nude from the T-800!
+3,10,0310,2 Ava 2 Fest,1,1,1,1,10,Usually fine — about 10+,Violence & injury — There will be blood oaths.
+3,11,0311,Double Date,2,1,3,3,10,Preview first — about 10+,Violence & injury — Blood was spraying everywhere.
+3,12,0312,Mother's Day,1,1,2,2,10,Mild — okay from about 10+,Alcohol & drugs — and I can't show up drunk.
+3,13,0313,Smith Playground,2,1,3,3,10,Preview first — about 10+,Violence & injury — Okay. I shouldn't punch
+3,14,0314,Party,1,1,2,2,10,Mild — okay from about 10+,"Violence & injury — You need anything? A knife,"
+4,1,0401,Back to School,2,3,2,3,10,Preview first — about 10+,Sex & hookups — When you told everybody that we had sex.
+4,2,0402,Ringworm,1,1,3,3,10,Preview first — about 10+,Sex & hookups — I can't with this virgin.
+4,3,0403,Class Pet,2,1,2,2,10,Mild — okay from about 10+,Violence & injury — I wasn't slapped.
+4,4,0404,Costume Contest,2,1,3,3,10,Preview first — about 10+,"Sex & hookups — Gregory is sexy gumballs,"
+4,5,0405,Dad Fight,2,1,2,2,10,Mild — okay from about 10+,Violence & injury — Go ahead. Sucker-punch him.
+4,6,0406,The Deli,2,1,2,2,10,Mild — okay from about 10+,Violence & injury — I'm like three punches away
+4,7,0407,Winter Show,2,1,1,2,10,Mild — okay from about 10+,"Violence & injury — Fruit punch, crunch ♪"
+4,8,0408,Winter Break,2,4,3,4,13,Skip for under 13,Sex & hookups — We were gonna have a threesome?
+4,9,0409,Volunteers,1,1,3,3,10,Preview first — about 10+,Sex & hookups — He couldn't make out anything
+4,10,0410,Testing,1,1,1,1,10,Usually fine — about 10+,
+4,11,0411,Strike,1,1,1,1,10,Usually fine — about 10+,
+4,12,0412,Girard Creek,2,1,3,3,10,Preview first — about 10+,"Violence & injury — in this blood is, um"
+4,13,0413,Science Fair,1,1,1,1,10,Usually fine — about 10+,
+4,14,0414,District Budget Meeting,1,1,4,4,13,Skip for under 13,"Swearing — Chop chop, bitch."
+4,15,0415,100th Day of School,1,1,1,1,10,Usually fine — about 10+,
+4,16,0416,Books,1,1,4,4,13,Skip for under 13,Swearing — How could a busy bitch like myself
+4,17,0417,Karaoke,2,4,3,4,13,Skip for under 13,Sex & hookups — Is to sleep with a man
+4,18,0418,Audit,1,1,2,2,10,Mild — okay from about 10+,"Alcohol & drugs — your time wasted, but"
+4,19,0419,Music Class,1,1,2,2,10,Mild — okay from about 10+,"Violence & injury — blood vs. water, 1."
+4,20,0420,Ava Fest: Tokyo Drift,1,1,3,3,10,Preview first — about 10+,"Swearing — [PARENT 3] 'Sup, bitch?"
+4,21,0421,Rally,2,1,3,3,10,Preview first — about 10+,Violence & injury — smoking-gun evidence
+4,22,0422,Please Touch Museum,1,1,1,1,10,Usually fine — about 10+,
+5,1,0501,Team Building,1,1,3,3,10,Preview first — about 10+,"Swearing — why your bitch left you, bitch."""
+5,2,0502,Cheating,1,2,2,2,10,Mild — okay from about 10+,Sex & hookups — So I hooked up our
+5,3,0503,Ballgame,1,1,2,2,10,Mild — okay from about 10+,Sex & hookups — and a sexy tech genius.
+5,4,0504,Game Night,1,1,3,3,10,Preview first — about 10+,Violence & injury — Dibs on shotgun. Amateurs. [CHUCKLES]
+5,5,0505,Camping,1,1,1,1,10,Usually fine — about 10+,
+5,6,0506,No Phones,1,1,1,1,10,Usually fine — about 10+,
+5,7,0507,Goofgirl,1,1,1,1,10,Usually fine — about 10+,
+5,8,0508,Birthday,1,1,3,3,10,Preview first — about 10+,Porn / strippers / sex work — off of strippers' butts.
+5,9,0509,Mall,1,1,2,2,10,Mild — okay from about 10+,"Nudity & bodies — bra, you ruled the mall."
+5,10,0510,Mall Part 2: Questions & Concerns,2,1,3,3,10,Preview first — about 10+,Violence & injury — someone slapped Sister
+5,11,0511,Mall Part 3: Heroes,1,1,1,1,10,Usually fine — about 10+,
+5,12,0512,Picture Day,1,2,3,3,10,Preview first — about 10+,"Nudity & bodies — were feeling a little naked,"
+5,13,0513,Candygrams,2,1,2,2,10,Mild — okay from about 10+,Violence & injury — Bloody good apartment
+5,14,0514,Aide,1,1,2,2,10,Mild — okay from about 10+,"Violence & injury — No, no. That's called corpse pose."
+5,15,0515,Safety Day,3,2,2,3,10,Preview first — about 10+,"Sex & hookups — Barb, that's a sex dream."
+5,16,0516,Campaign,2,1,1,2,10,Mild — okay from about 10+,Violence & injury — Don't pull any punches.
+5,17,0517,No Homework,1,4,1,4,13,Skip for under 13,Porn / strippers / sex work — Stripper or strip-club material shows up in the plot.
+5,18,0518,April Fools,1,2,2,2,10,Mild — okay from about 10+,Sex & hookups — I have to sleep with one eye open.
+5,19,0519,Trip,2,1,2,2,10,Mild — okay from about 10+,Violence & injury — those white teens murder each other?
+5,20,0520,Night Out,1,4,4,4,13,Skip for under 13,Sex & hookups — but now sleeps with a member
+5,21,0521,Ava & Fest,1,1,1,1,10,Usually fine — about 10+,
+5,22,0522,Miami,2,2,3,3,10,Preview first — about 10+,Nudity & bodies — Naked and Afraid marathon on.

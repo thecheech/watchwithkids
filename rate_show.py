@@ -133,6 +133,9 @@ TITLE_OVERRIDES: dict[str, dict[str, str]] = {
     "modern-family": {
         "0914": "Written in the Stars",
     },
+    "abbott-elementary": {
+        "0508": "Birthday",
+    },
 }
 
 SHOW_META = {
@@ -177,6 +180,7 @@ SHOW_META = {
         "name": "Percy Jackson and the Olympians",
         "maze": "Percy Jackson and the Olympians",
     },
+    "abbott-elementary": {"name": "Abbott Elementary", "maze": "Abbott Elementary"},
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
     "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
     "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},

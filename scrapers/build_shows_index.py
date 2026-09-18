@@ -38,6 +38,7 @@ DISPLAY = {
     "outer-banks": ("Outer Banks", "springfieldspringfield.co.uk"),
     "invincible": ("Invincible", "springfieldspringfield.co.uk"),
     "percy-jackson": ("Percy Jackson and the Olympians", "springfieldspringfield.co.uk"),
+    "abbott-elementary": ("Abbott Elementary", "springfieldspringfield.co.uk"),
     "kpop-demon-hunters": ("KPop Demon Hunters", "springfieldspringfield.co.uk"),
     "stranger-things": ("Stranger Things", "8flix.com (via TidyTuesday)"),
     "legend-of-korra": ("The Legend of Korra", "avatar.fandom.com"),

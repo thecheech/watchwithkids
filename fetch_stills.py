@@ -54,6 +54,7 @@ READY = [
     "outer-banks",
     "invincible",
     "percy-jackson",
+    "abbott-elementary",
     "kpop-demon-hunters",
     "stranger-things",
     "legend-of-korra",

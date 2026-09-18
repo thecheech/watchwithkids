@@ -164,6 +164,14 @@ SHOWS = {
         "format": "live-action adventure",
         "note": "Disney+ demigod quest — monster fights and mythic peril vary by episode.",
     },
+    "abbott-elementary": {
+        "name": "Abbott Elementary",
+        "shelf": "rewatch",
+        "age": 12,
+        "floor": 10,
+        "format": "live-action sitcom",
+        "note": "Philadelphia public-school mockumentary — workplace jokes and innuendo, milder than The Office.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",
@@ -329,7 +337,7 @@ NON_EPISODE_PATTERNS = [
     r"\bsneak peek\b",
     r"\b(?:music video|theme song|opening)\b",
     r"\bchuckie finster\b",  # Rugrats crossover filler
-    r"\bpanel\b",
+    r"(?!^panel$)\bpanel\b",  # drop con panels; keep Abbott Elementary S3E08 "Panel"
     r"\bcomic[- ]con\b",
     r"\binterview\b",
     r"\bcompilation\b",

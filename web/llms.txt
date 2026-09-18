@@ -49,6 +49,7 @@
 - [Outer Banks](https://watchwiththekids.com/outer-banks): 40 episodes — 0% mild, 20% caution, 80% too much. Full text index: [outer-banks.md](https://watchwiththekids.com/llms/outer-banks.md)
 - [Invincible](https://watchwiththekids.com/invincible): 32 episodes — 0% mild, 16% caution, 84% too much. Full text index: [invincible.md](https://watchwiththekids.com/llms/invincible.md)
 - [Percy Jackson and the Olympians](https://watchwiththekids.com/percy-jackson): 16 episodes — 100% mild, 0% caution, 0% too much. Full text index: [percy-jackson.md](https://watchwiththekids.com/llms/percy-jackson.md)
+- [Abbott Elementary](https://watchwiththekids.com/abbott-elementary): 93 episodes — 65% mild, 25% caution, 11% too much. Full text index: [abbott-elementary.md](https://watchwiththekids.com/llms/abbott-elementary.md)
 
 ## Machine-readable data
 

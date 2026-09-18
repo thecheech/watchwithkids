@@ -88,6 +88,7 @@ READY = [
     "outer-banks",
     "invincible",
     "percy-jackson",
+    "abbott-elementary",
     "kpop-demon-hunters",
     "stranger-things",
     "legend-of-korra",
@@ -159,6 +160,10 @@ SHOW_PAGE = {
     "percy-jackson": {
         "name": "Percy Jackson and the Olympians",
         "h1": 'Percy Jackson and the Olympians <span class="pop">⚡</span>',
+    },
+    "abbott-elementary": {
+        "name": "Abbott Elementary",
+        "h1": 'Abbott Elementary <span class="pop">🍎</span>',
     },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",

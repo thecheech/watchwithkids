@@ -425,6 +425,7 @@ FINE_BY_SHOW = {
     "futurama": ["Sci-fi sitcom", "Future delivery-crew adventures"],
     "parks-and-recreation": ["Workplace comedy", "Small-town government hijinks"],
     "modern-family": ["Family sitcom", "Mockumentary family chaos"],
+    "abbott-elementary": ["Workplace comedy", "School mockumentary"],
 }
 
 # Kids animation: slapstick is the genre, not a warning sign.

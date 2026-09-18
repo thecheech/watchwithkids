@@ -23,6 +23,7 @@
     "ted-lasso",
     "outer-banks",
     "stranger-things",
+    "abbott-elementary",
   ];
   /** Made-for-kids — separate shelf so Bluey isn't next to South Park. */
   const KIDS_ORDER = [

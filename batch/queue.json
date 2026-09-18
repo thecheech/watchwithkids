@@ -74,8 +74,10 @@
       "source": "ss",
       "ssSlug": "abbott-elementary-2021",
       "mazeQuery": "Abbott Elementary",
-      "status": "pending",
-      "note": "Workplace sitcom — Modern Family / Office lane"
+      "status": "done",
+      "note": "Workplace sitcom — Modern Family / Office lane",
+      "completedAt": "2026-09-18T18:10:00Z",
+      "result": "93 episodes rated (S1–S5; TVMaze S6 Jungle Classroom has no Springfield script yet). Combined Career Day Part 1-2 used for S3E01–E02. Aliased Teacher Conference→Teacher's Conference; Springfield S5E08 Mall→Birthday. check_ratings + sitemaps green. Mix 60 mild / 23 caution / 10 too much."
     },
     {
       "order": 6,

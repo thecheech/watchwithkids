@@ -6,6 +6,7 @@ index at the project root for compatibility with the web app).
 
 | Show | Seasons | Transcript files | Words | Source |
 |------|---------|------------------|-------|--------|
+| [Abbott Elementary](transcripts/abbott-elementary/) | 5 | 92 | 335,687 | springfieldspringfield.co.uk |
 | [Adventure Time](transcripts/adventure-time/) | 10 | 236 | 494,853 | adventuretime.fandom.com |
 | [Amphibia](transcripts/amphibia/) | — | 106 | 282,084 | amphibia.fandom.com |
 | [Avatar: The Last Airbender](transcripts/avatar/) | — | 84 | 473,576 | avatar.fandom.com |
@@ -44,7 +45,7 @@ index at the project root for compatibility with the web app).
 | [Wednesday](transcripts/wednesday/) | 2 | 16 | 73,731 | springfieldspringfield.co.uk |
 | [Young Sheldon](transcripts/young-sheldon/) | 7 | 141 | 370,387 | springfieldspringfield.co.uk |
 
-**Total: 37 shows, 6,228 transcripts, 20,709,341 words.**
+**Total: 38 shows, 6,320 transcripts, 21,045,028 words.**
 
 Notes:
 - Friends: 228 files covering all 236 episodes (double episodes combined) + S7 outtakes special.

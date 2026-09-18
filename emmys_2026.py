@@ -114,7 +114,8 @@ def page_data(mixes: dict) -> dict:
                 "Philadelphia public-school workplace sitcom: mockumentary talking heads, "
                 "underfunded classrooms, Quinta Brunson. TV-PG language and adult workplace "
                 "jokes exist; sex plots and gore do not. Fine for most 10+ with you in the "
-                "room. We have not scored it episode by episode yet."
+                "room. Episode-by-episode scores are on the show page — 60 mild, 23 caution, "
+                "10 too much."
             ),
             "watch_for": [
                 "Occasional swearing and innuendo",

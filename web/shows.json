@@ -1011,5 +1011,30 @@
       "total": 16
     },
     "shelf": "kids"
+  },
+  {
+    "id": "abbott-elementary",
+    "name": "Abbott Elementary",
+    "mazeId": 55350,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/538/1345361.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy"
+    ],
+    "premiered": "2021",
+    "runtime": 30,
+    "summary": "In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.",
+    "ready": true,
+    "coverW": 3840,
+    "coverH": 2160,
+    "coverLocal": "covers/abbott-elementary.jpg",
+    "href": "/abbott-elementary",
+    "mix": {
+      "safe": 60,
+      "maybe": 23,
+      "skip": 10,
+      "total": 93
+    },
+    "shelf": "rewatch"
   }
 ]

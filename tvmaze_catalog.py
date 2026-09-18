@@ -54,6 +54,15 @@ TITLE_ALIASES: dict[str, dict[str, str]] = {
         # Springfield short label for S2E6.
         "not that": "it s not that simple",
     },
+    "abbott-elementary": {
+        # Springfield combined the S3 Career Day hour; TVMaze lists two episodes.
+        "career day part 1": "career day part 1 2",
+        "career day 1": "career day part 1 2",
+        "career day part 2": "career day part 1 2",
+        "career day 2": "career day part 1 2",
+        # Apostrophe dropped on Springfield.
+        "teacher conference": "teacher s conference",
+    },
     "seinfeld": {
         # Transcript index uses the working title; TVMaze uses the broadcast name.
         "the seinfeld chronicles": "good news bad news",
