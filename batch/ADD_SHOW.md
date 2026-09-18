@@ -52,15 +52,30 @@ All must exit 0. Spot-check `ratings/<id>.json` episode count and `web/<id>.html
 ### 5. Mark done
 In `batch/queue.json` set `"status": "done"`, add `"completedAt": "<ISO8601>"`, and a short `"result"` (episode count + any caveats).
 
-### 6. Commit (if asked / if automation is allowed to commit)
-One commit per show, message like: `Add <Name> episode ratings to catalog`.
+### 6. Commit and push (required — every successful show)
+Always commit **and** push to `origin` on the current branch after a green validate. Do this without waiting for a human ask.
 
-Do **not** deploy to Vercel unless the queue item or user message says so. Prefer committing so the next hourly run sees an updated queue.
+```bash
+git add -A
+# transcripts/ is gitignored on purpose — do not force-add it
+git status
+git commit -m "$(cat <<'EOF'
+Add <Name> episode ratings to catalog.
+
+EOF
+)"
+git push -u origin HEAD
+```
+
+One commit per show. Include ratings, web pages, covers, stills, queue status, and registration edits. If push fails, leave `"status": "done"` but set `"pushError"` and stop — do not start the next show.
+
+Do **not** deploy to Vercel unless the queue item or user message says so.
 
 ## Failure rules
-- If transcripts cannot be found after trying alternate sources: set `"status": "blocked"`, `"blockReason": "..."`, move on next hour.
-- If rating/build fails: leave `"in_progress"`, record `"lastError"`, do not start the next show.
+- If transcripts cannot be found after trying alternate sources: set `"status": "blocked"`, `"blockReason": "..."`, commit+push the queue update, stop for this hour.
+- If rating/build fails: leave `"in_progress"`, record `"lastError"`, commit+push the partial queue state if useful, do not start the next show.
 - Never mark `done` without green `check_ratings.py` + `validate_sitemaps.py`.
+- Never leave generated catalog files uncommitted after a successful show.
 
 ## Shelf / age defaults
 Use queue fields. When unsure: rewatch sitcoms ≈ age 12–13 / floor 10–11; teen Netflix ≈ 14–15 / floor 12–13; adult animation ≈ 16 / floor 14 (like Rick and Morty).
