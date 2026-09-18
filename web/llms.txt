@@ -49,7 +49,9 @@
 
 ## Machine-readable data
 
+- [What's on](https://watchwiththekids.com/whats-on/): weekly family movies newly added on Netflix, Disney+, Prime, Max, Apple TV+ and Paramount+.
 - [What to watch](https://watchwiththekids.com/guides/): safest episodes and skip lists per show.
+- [2026 Emmys with kids](https://watchwiththekids.com/emmys-2026): which nominees and winners are OK on a family couch.
 - [How we rate](https://watchwiththekids.com/about): scoring method and disclaimer.
 - [Instagram](https://www.instagram.com/watchwiththekids/)
 - [TikTok](https://www.tiktok.com/@watchwiththekids)

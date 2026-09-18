@@ -566,7 +566,9 @@ def site_footer(prefix: str = "") -> str:
     return f"""  <footer class="wrap site-footer">
     <p>
       <a href="/">{esc(BRAND)}</a>
+      · <a href="/whats-on/">What's on</a>
       · <a href="/guides/">What to watch</a>
+      · <a href="/emmys-2026">Emmys 2026</a>
       · <a href="/about">How we rate</a>
       · {esc(TAGLINE)}
     </p>
@@ -622,7 +624,21 @@ def home_faqs() -> list[tuple[str, str]]:
         (
             "Where should I start if I just want something safe tonight?",
             'Open <a href="/guides/">What to watch</a> — each show has a list of the '
-            "safest episodes and the ones to skip, built from the same 1–5 scores.",
+            "safest episodes and the ones to skip, built from the same 1–5 scores. "
+            'For new movies on Netflix and other apps, see <a href="/whats-on/">What\'s on</a>.',
+        ),
+        (
+            "What's on vs What to watch — what's the difference?",
+            '<a href="/whats-on/">What\'s on</a> is the weekly list of newly added family '
+            "movies on Netflix, Disney+, Prime Video, Max, Apple TV+ and Paramount+. "
+            '<a href="/guides/">What to watch</a> is episode-by-episode scores for shows in our catalog.',
+        ),
+        (
+            "What from the 2026 Emmys is OK to watch with kids?",
+            "Most Primetime winners are adult TV. "
+            'See <a href="/emmys-2026">Emmys 2026 with kids</a> — The Muppet Show, '
+            "Abbott Elementary, the Children's &amp; Family Emmy winners — and why "
+            "comedy winner Widow's Bay is a skip.",
         ),
     ]
 
@@ -1651,7 +1667,9 @@ def write_llms_txt(shows: list[dict], mixes: dict[str, dict]) -> None:
         "",
         "## Machine-readable data",
         "",
+        f"- [What's on]({SITE}/whats-on/): weekly family movies newly added on Netflix, Disney+, Prime, Max, Apple TV+ and Paramount+.",
         f"- [What to watch]({SITE}/guides/): safest episodes and skip lists per show.",
+        f"- [2026 Emmys with kids]({SITE}/emmys-2026): which nominees and winners are OK on a family couch.",
         f"- [How we rate]({SITE}/about): scoring method and disclaimer.",
         f"- [Instagram]({INSTAGRAM_URL})",
         f"- [TikTok]({TIKTOK_URL})",
@@ -1709,7 +1727,9 @@ def update_index_html(shows: list[dict], mixes: dict[str, dict]) -> None:
       Suicide / self-harm, Alcohol / Drugs, Gay / Lesbian, Fat-shaming, Sexual insults and Racism —
       is listed with how many times it comes up and the exact quote or scene behind it.
       Start with <a href="/guides/">what to watch tonight</a> if you want the safest
-      episodes first.
+      episodes first, or <a href="/whats-on/">What's on</a> for this week's new family
+      movies on the streaming apps. After the 78th Emmys, start with
+      <a href="/emmys-2026">what's actually OK to watch with kids</a>.
     </p>
     <ul class="seo-show-list">
       {"".join(rows)}
@@ -1860,6 +1880,7 @@ def _static_page(
     jsonld: dict,
     body: str,
     prefix: str,
+    og_type: str = "website",
 ) -> str:
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -1870,7 +1891,7 @@ def _static_page(
   <meta name="description" content="{esc(desc)}" />
   <link rel="canonical" href="{esc(url)}" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="{esc(og_type)}" />
   <meta property="og:site_name" content="{esc(BRAND)}" />
   <meta property="og:title" content="{esc(title)}" />
   <meta property="og:description" content="{esc(desc)}" />
@@ -1925,6 +1946,8 @@ def write_about_page() -> None:
 
     body = f"""  <nav class="topnav wrap">
     <a class="back-home" href="/">← All shows</a>
+    <a class="back-home subtle" href="/whats-on/">What's on</a>
+    <a class="back-home subtle" href="/emmys-2026">Emmys 2026</a>
     <a class="back-home subtle" href="/guides/">What to watch</a>
   </nav>
   <header class="hero">
@@ -2199,6 +2222,8 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
     )
     body = f"""  <nav class="topnav wrap">
     <a class="back-home" href="/">← All shows</a>
+    <a class="back-home subtle" href="/whats-on/">What's on</a>
+    <a class="back-home subtle" href="/emmys-2026">Emmys 2026</a>
     <a class="back-home subtle" href="/about">How we rate</a>
   </nav>
   <header class="hero">
@@ -2206,7 +2231,7 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
       <div class="hero-copy">
         <p class="eyebrow">Safest episodes · Skip lists</p>
         <h1>What to watch with the kids</h1>
-        <p class="tagline">Every episode scored 1–5 for violence, sex and language. Pick a show — the safest episodes are listed first.</p>
+        <p class="tagline">Every episode scored 1–5 for violence, sex and language. Pick a show — the safest episodes are listed first. New movies on Netflix and the other apps live in <a href="/whats-on/">What's on</a>.</p>
         <div class="hero-pills">
           <span>✅ Safest first</span>
           <span>🤔 {BUCKET_UI["maybe"]["label"]}</span>
@@ -2219,6 +2244,8 @@ def write_guides_hub(shows: list[dict], mixes: dict[str, dict]) -> None:
     </div>
   </header>
   <main class="wrap guide-sections">
+    <p class="wo-inline-banner">Looking for <strong>new family movies</strong> on Netflix, Disney+, Prime, Max, Apple TV+ or Paramount+? That's <a href="/whats-on/">What's on</a> — updated every Friday.</p>
+    <p class="wo-inline-banner emmy-inline">The 2026 Emmys just happened. <a href="/emmys-2026">What's actually OK to watch with kids</a> — the comedy winner is a horror show.</p>
 {chr(10).join(sections)}
   </main>"""
     jsonld = {
@@ -2578,10 +2605,16 @@ def write_robots() -> None:
 SITEMAP_EP_CHUNK = 2000
 
 
-def _write_urlset(path: Path, entries: list[tuple[str, str]], today: str) -> None:
+def _write_urlset(
+    path: Path,
+    entries: list[tuple[str, str]],
+    today: str,
+    *,
+    changefreq: str = "monthly",
+) -> None:
     body = "\n".join(
         f"  <url><loc>{esc(loc)}</loc><lastmod>{today}</lastmod>"
-        f"<changefreq>monthly</changefreq><priority>{prio}</priority></url>"
+        f"<changefreq>{changefreq}</changefreq><priority>{prio}</priority></url>"
         for loc, prio in entries
     )
     path.write_text(
@@ -2604,12 +2637,15 @@ def write_sitemap(urls: list[tuple[str, str]]) -> None:
 
     pages: list[tuple[str, str]] = []
     guides: list[tuple[str, str]] = []
+    weekly: list[tuple[str, str]] = []
     episodes: list[tuple[str, str]] = []
     for loc, prio in unique:
         if "/ep/" in loc:
             episodes.append((loc, prio))
         elif "/guides/" in loc:
             guides.append((loc, prio))
+        elif "/whats-on/" in loc:
+            weekly.append((loc, prio))
         else:
             pages.append((loc, prio))
 
@@ -2620,6 +2656,9 @@ def write_sitemap(urls: list[tuple[str, str]]) -> None:
     if guides:
         _write_urlset(WEB / "sitemap-guides.xml", guides, today)
         child_maps.append(f"{SITE}/sitemap-guides.xml")
+    if weekly:
+        _write_urlset(WEB / "sitemap-whats-on.xml", weekly, today, changefreq="weekly")
+        child_maps.append(f"{SITE}/sitemap-whats-on.xml")
     for i in range(0, len(episodes), SITEMAP_EP_CHUNK):
         chunk = episodes[i : i + SITEMAP_EP_CHUNK]
         n = i // SITEMAP_EP_CHUNK + 1
@@ -2723,6 +2762,12 @@ def main() -> None:
     sitemap.append((f"{SITE}/about", "0.6"))
     write_guides_hub(shows, mixes)
     sitemap.append((f"{SITE}/guides/", "0.8"))
+    from whats_on import write_whats_on_pages
+
+    sitemap.extend(write_whats_on_pages())
+    from emmys_2026 import write_emmys_2026_page
+
+    sitemap.extend(write_emmys_2026_page(mixes))
     for show_id, payload in payloads.items():
         sitemap.extend(write_show_guide(show_id, payload, mixes[show_id]))
 
@@ -2735,7 +2780,7 @@ def main() -> None:
     update_index_html(shows, mixes)
 
     print(f"Updated shows.js ready flags: {sorted(mixes)}")
-    print(f"Sitemap: {len(sitemap)} URLs · robots.txt · llms.txt · llms/*.md · guides + about")
+    print(f"Sitemap: {len(sitemap)} URLs · robots.txt · llms.txt · llms/*.md · guides + what's on + about")
 
 
 if __name__ == "__main__":

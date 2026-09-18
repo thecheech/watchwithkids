@@ -471,6 +471,75 @@ a.count-chip:hover {
   margin: 0.25rem auto 1.75rem;
 }
 
+.tonight-banner {
+  display: grid;
+  gap: 0.2rem;
+  text-decoration: none;
+  color: inherit;
+  border: 3px solid var(--ink);
+  border-radius: 22px;
+  box-shadow: 0 8px 0 var(--ink);
+  padding: 0.95rem 1.15rem 1rem;
+  margin-bottom: 1rem;
+  transition: transform 0.2s var(--ease), box-shadow 0.2s var(--ease);
+}
+
+.tonight-banner:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 11px 0 var(--ink);
+}
+
+.tonight-banner.emmys {
+  background: linear-gradient(120deg, #efe4ff 0%, #d4b8ff 42%, #ffd24a 100%);
+}
+
+.tonight-banner.emmys .tonight-kicker {
+  color: #4a1d86;
+}
+
+.tonight-banner h2 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+.tonight-banner p {
+  margin: 0.15rem 0 0.45rem;
+  font-weight: 750;
+  color: var(--ink);
+  max-width: 42rem;
+}
+
+.tonight-banner .cta {
+  justify-self: start;
+}
+
+.tonight-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 1100px) {
+  .tonight-row {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .tonight-row .tonight-copy h2 {
+    font-size: clamp(1.3rem, 1.8vw, 1.7rem);
+  }
+}
+
+.tonight-card.whats-on {
+  background: linear-gradient(120deg, #e8f4ff 0%, #c9e4ff 48%, #ffd6ea 100%);
+}
+
+.tonight-card.whats-on .tonight-kicker {
+  color: #1d4f86;
+}
+
 .tonight-card {
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.2fr);
@@ -863,6 +932,10 @@ a.count-chip:hover {
     padding: 0.7rem 1.05rem;
   }
 
+  .tonight-row {
+    grid-template-columns: 1fr;
+  }
+
   .tonight-card {
     grid-template-columns: 1fr;
     padding: 0.9rem 0.95rem 1rem;
@@ -928,6 +1001,11 @@ a.count-chip:hover {
   .tonight-card:hover {
     transform: none;
     box-shadow: 0 10px 0 var(--ink);
+  }
+
+  .tonight-banner:hover {
+    transform: none;
+    box-shadow: 0 8px 0 var(--ink);
   }
 }
 
