@@ -1083,5 +1083,30 @@
       "total": 259
     },
     "shelf": "rewatch"
+  },
+  {
+    "id": "arcane",
+    "name": "Arcane",
+    "mazeId": 55138,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/544/1360594.jpg",
+    "coverType": "background",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "premiered": "2021",
+    "runtime": 41,
+    "summary": "Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions — and the power that will tear them apart.",
+    "ready": true,
+    "coverLocal": "covers/arcane.jpg",
+    "href": "/arcane",
+    "mix": {
+      "safe": 4,
+      "maybe": 12,
+      "skip": 2,
+      "total": 18
+    },
+    "shelf": "rewatch"
   }
 ]

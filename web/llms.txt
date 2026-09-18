@@ -52,6 +52,7 @@
 - [Abbott Elementary](https://watchwiththekids.com/abbott-elementary): 93 episodes — 65% mild, 25% caution, 11% too much. Full text index: [abbott-elementary.md](https://watchwiththekids.com/llms/abbott-elementary.md)
 - [Regular Show](https://watchwiththekids.com/regular-show): 246 episodes — 69% mild, 31% caution, 0% too much. Full text index: [regular-show.md](https://watchwiththekids.com/llms/regular-show.md)
 - [King of the Hill](https://watchwiththekids.com/king-of-the-hill): 259 episodes — 58% mild, 34% caution, 8% too much. Full text index: [king-of-the-hill.md](https://watchwiththekids.com/llms/king-of-the-hill.md)
+- [Arcane](https://watchwiththekids.com/arcane): 18 episodes — 22% mild, 67% caution, 11% too much. Full text index: [arcane.md](https://watchwiththekids.com/llms/arcane.md)
 
 ## Machine-readable data
 

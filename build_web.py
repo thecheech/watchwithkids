@@ -98,6 +98,7 @@ READY = [
     "pokemon",
     "regular-show",
     "king-of-the-hill",
+    "arcane",
 ]
 
 SHOW_PAGE = {
@@ -174,6 +175,10 @@ SHOW_PAGE = {
     "king-of-the-hill": {
         "name": "King of the Hill",
         "h1": 'King of the Hill <span class="pop">⛽</span>',
+    },
+    "arcane": {
+        "name": "Arcane",
+        "h1": 'Arcane <span class="pop">🔮</span>',
     },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",

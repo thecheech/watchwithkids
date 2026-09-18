@@ -188,6 +188,14 @@ SHOWS = {
         "format": "animated sitcom",
         "note": "Texas suburban animated sitcom — beer, propane, and adult jokes; revival is driving new searches.",
     },
+    "arcane": {
+        "name": "Arcane",
+        "shelf": "rewatch",
+        "age": 14,
+        "floor": 12,
+        "format": "animated fantasy",
+        "note": "League of Legends origin story — episode-to-episode violence and darker themes vary a lot.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",

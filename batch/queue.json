@@ -120,8 +120,10 @@
       "source": "ss",
       "ssSlug": "arcane-2021",
       "mazeQuery": "Arcane",
-      "status": "pending",
-      "note": "Avatar-audience crossover; violence by episode"
+      "status": "done",
+      "note": "Avatar-audience crossover; violence by episode",
+      "completedAt": "2026-09-18T21:04:46Z",
+      "result": "18 episodes rated (S1–S2 complete; all TVMaze episodes have Springfield scripts). check_ratings + sitemaps green. Mix 4 mild / 12 caution / 2 too much — violence and language drive scores up."
     },
     {
       "order": 9,

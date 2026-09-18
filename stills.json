@@ -23000,5 +23000,79 @@
       "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/68/172074.jpg",
       "original": "https://static.tvmaze.com/uploads/images/original_untouched/68/172074.jpg"
     }
+  },
+  "arcane": {
+    "0101": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/373/933222.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/373/933222.jpg"
+    },
+    "0102": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/373/933223.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/373/933223.jpg"
+    },
+    "0103": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/373/933224.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/373/933224.jpg"
+    },
+    "0104": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/375/938099.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/375/938099.jpg"
+    },
+    "0105": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/375/938100.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/375/938100.jpg"
+    },
+    "0106": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/375/938101.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/375/938101.jpg"
+    },
+    "0107": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/376/941882.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/376/941882.jpg"
+    },
+    "0108": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/376/941883.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/376/941883.jpg"
+    },
+    "0109": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/376/941884.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/376/941884.jpg"
+    },
+    "0201": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/543/1357689.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/543/1357689.jpg"
+    },
+    "0202": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/543/1357690.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/543/1357690.jpg"
+    },
+    "0203": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/543/1357691.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/543/1357691.jpg"
+    },
+    "0204": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/544/1360445.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/544/1360445.jpg"
+    },
+    "0205": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/544/1360446.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/544/1360446.jpg"
+    },
+    "0206": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/544/1360447.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/544/1360447.jpg"
+    },
+    "0207": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/545/1362773.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/545/1362773.jpg"
+    },
+    "0208": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/545/1362774.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/545/1362774.jpg"
+    },
+    "0209": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/545/1362776.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/545/1362776.jpg"
+    }
   }
 }

@@ -64,6 +64,7 @@ READY = [
     "pokemon",
     "regular-show",
     "king-of-the-hill",
+    "arcane",
 ]
 
 
