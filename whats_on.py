@@ -4,10 +4,12 @@
 from __future__ import annotations
 
 import html
+from datetime import date
 from pathlib import Path
 
-UPDATED = "2026-09-18"
-UPDATED_DISPLAY = "September 18, 2026"
+_TODAY = date.today()
+UPDATED = _TODAY.isoformat()
+UPDATED_DISPLAY = _TODAY.strftime("%B %d, %Y").replace(" 0", " ")
 REGION = "US"
 
 # Evergreen slugs. Rewrite in place each Friday; do not date the URL.
@@ -1019,20 +1021,6 @@ def _list_block(title: str, items: list[dict], key_title: str, key_body: str) ->
     </section>"""
 
 
-def _video_html(video: dict) -> str:
-    shots = "".join(f"<li>{_esc(x)}</li>" for x in video["onscreen"])
-    return f"""    <section class="wo-section wo-video" id="video">
-      <h2>60-second video version</h2>
-      <p class="wo-video-kicker">Title to post</p>
-      <p class="wo-video-title">{_esc(video["title"])}</p>
-      <p><strong>Hook:</strong> {_esc(video["hook"])}</p>
-      <p><strong>Script:</strong> {_esc(video["script"])}</p>
-      <p class="wo-watch-label">On-screen text</p>
-      <ul class="wo-watch">{shots}</ul>
-      <p><strong>End card:</strong> {_esc(video["cta"])}</p>
-    </section>"""
-
-
 def _service_nav(current: str | None = None) -> str:
     links = []
     for s in SERVICES:
@@ -1093,10 +1081,10 @@ def article_body(svc: dict) -> str:
   <header class="hero wo-hero">
     <div class="wrap hero-inner">
       <div class="hero-copy">
-        <p class="eyebrow">What's on · {_esc(svc["service"])} · {REGION}</p>
-        <h1>{_esc(svc["h1"])}</h1>
+        <p class="eyebrow">What's on · {_esc(svc["service"])} · {REGION} · {UPDATED_DISPLAY}</p>
+        <h1>{_esc(svc["h1"])} ({UPDATED_DISPLAY})</h1>
         <p class="tagline">{svc["lede"]}</p>
-        <p class="wo-updated">Updated {UPDATED_DISPLAY}. Same URL every week — we rewrite this page, we don’t date the slug.</p>
+        <p class="wo-updated">Updated {UPDATED_DISPLAY}.</p>
       </div>
     </div>
   </header>
@@ -1116,7 +1104,6 @@ def article_body(svc: dict) -> str:
 {already}
 {skip}
 {coming}
-{_video_html(svc["video"])}
     <p class="wo-disclaimer">
       Catalog is {REGION} {_esc(svc["service"])} as of {UPDATED_DISPLAY}. Titles move by
       country and can vanish without notice. Informal parent guidance — not an official
@@ -1247,6 +1234,7 @@ def write_whats_on_pages() -> list[tuple[str, str]]:
 
     for svc in SERVICES:
         url = f"{SITE}/whats-on/{svc['slug']}"
+        page_title = f"{svc['h1']} ({UPDATED_DISPLAY})"
         desc = clip_meta(svc["desc"])
         items = [
             {
@@ -1262,8 +1250,8 @@ def write_whats_on_pages() -> list[tuple[str, str]]:
             "@graph": [
                 {
                     "@type": "Article",
-                    "headline": svc["h1"],
-                    "name": svc["title"],
+                    "headline": page_title,
+                    "name": page_title,
                     "description": desc,
                     "datePublished": UPDATED,
                     "dateModified": UPDATED,
@@ -1304,7 +1292,7 @@ def write_whats_on_pages() -> list[tuple[str, str]]:
         (out_dir / f"{svc['slug']}.html").write_text(
             _static_page(
                 url=url,
-                title=svc["title"],
+                title=page_title,
                 desc=desc,
                 image=f"{SITE}/covers/{svc['cover']}",
                 css_href="../friends.css",
