@@ -17,6 +17,7 @@ Site section name: **What's on**. Hub: `/whats-on/`. Per-service evergreen slugs
 2. **Lead with newly added titles.** Catalog staples go in “Already on.” Adult dumps go in Skip even if the poster looks family.
 3. Edit `whats_on.py`:
    - each service `lede`, `tonight`, `picks`, `series`, `skip`, `coming`, `faqs`
+   - every pick, series, and already-on title needs an `image` (file under `web/covers/`)
    - dates stamp themselves from today on build
 4. Keep the H1 as `Good Family Movies on {Service} Right Now (Month D, YYYY)` with today's date. Same date in `<title>`, kicker, and `dateModified`.
 5. Build + validate:

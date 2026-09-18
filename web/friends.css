@@ -3624,44 +3624,31 @@ body.report-open {
 }
 
 .wo-hero .guide-hero-covers {
-  min-height: 280px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.55rem;
+  min-height: 0;
   height: 100%;
+  align-content: center;
+  padding: 0.15rem;
 }
 
-.wo-hero .guide-hero-covers img {
-  width: 47%;
-}
-
-.wo-hero .guide-hero-covers img:nth-child(1) {
-  top: 12%;
-  left: 1%;
-  transform: rotate(-7deg);
-  z-index: 2;
-}
-
-.wo-hero .guide-hero-covers img:nth-child(2) {
-  top: 6%;
-  right: 1%;
-  left: auto;
-  transform: rotate(5deg);
-  z-index: 3;
-}
-
-.wo-hero .guide-hero-covers img:nth-child(3) {
-  top: auto;
-  bottom: 10%;
-  left: 8%;
-  transform: rotate(-3.5deg);
-  z-index: 1;
-}
-
+.wo-hero .guide-hero-covers img,
+.wo-hero .guide-hero-covers img:nth-child(1),
+.wo-hero .guide-hero-covers img:nth-child(2),
+.wo-hero .guide-hero-covers img:nth-child(3),
 .wo-hero .guide-hero-covers img:nth-child(4) {
+  position: static;
   top: auto;
-  bottom: 5%;
-  right: 3%;
+  right: auto;
+  bottom: auto;
   left: auto;
-  transform: rotate(7deg);
-  z-index: 4;
+  width: 100%;
+  height: auto;
+  max-height: none;
+  margin: 0;
+  transform: none;
+  z-index: auto;
 }
 
 @media (max-width: 900px) {
@@ -3670,38 +3657,10 @@ body.report-open {
   }
 
   .wo-hero .guide-hero-covers {
-    min-height: 0;
     height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 1rem 1.1rem 1.15rem;
+    padding: 0.35rem;
+    gap: 0.45rem;
   }
-
-  .wo-hero .guide-hero-covers img {
-    position: relative;
-    flex: 0 0 auto;
-    align-self: center;
-    width: 27%;
-    max-width: 168px;
-    height: auto;
-    max-height: 6.4rem;
-    aspect-ratio: 16 / 10;
-    top: auto;
-    right: auto;
-    bottom: auto;
-    left: auto;
-    margin-left: -1.15rem;
-  }
-
-  .wo-hero .guide-hero-covers img:first-child {
-    margin-left: 0;
-  }
-
-  .wo-hero .guide-hero-covers img:nth-child(1) { transform: rotate(-8deg); z-index: 1; }
-  .wo-hero .guide-hero-covers img:nth-child(2) { transform: rotate(-2deg); z-index: 2; }
-  .wo-hero .guide-hero-covers img:nth-child(3) { transform: rotate(3deg); z-index: 3; }
-  .wo-hero .guide-hero-covers img:nth-child(4) { transform: rotate(8deg); z-index: 4; }
 }
 
 .wo-hero .tagline {
@@ -3835,6 +3794,12 @@ body.report-open {
   font-family: var(--display);
   font-size: 1.35rem;
   letter-spacing: -0.03em;
+}
+
+.wo-pick-head h3 a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
 }
 
 .wo-pick-head h3 span {
@@ -3993,6 +3958,83 @@ body.report-open {
 
 .wo-inline-banner.emmy-inline {
   background: #efe4ff;
+}
+
+html:has(.emmy-jump-bar) {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.75rem;
+}
+
+.emmy-jump-bar {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  margin: 0.7rem 0 0;
+  padding: 0.55rem 0;
+  background: rgba(255, 247, 251, 0.94);
+  border-top: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+  backdrop-filter: blur(10px);
+}
+
+.emmy-jump {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.45rem;
+}
+
+.emmy-jump-kicker {
+  margin: 0 0.15rem 0 0;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.emmy-jump a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+  border: 2px solid var(--ink);
+  box-shadow: 0 2px 0 var(--ink);
+  text-decoration: none;
+  color: var(--ink);
+  font-weight: 800;
+  font-size: 0.88rem;
+  white-space: nowrap;
+  background: #fff;
+}
+
+.emmy-jump a:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 0 var(--ink);
+}
+
+.emmy-jump-play { background: #d8ffe8; }
+.emmy-jump-kids { background: #efe4ff; }
+.emmy-jump-older { background: #fff3c4; }
+.emmy-jump-skip { background: #ffd0d0; }
+.emmy-jump-faq { background: #fff; }
+
+.emmy-page .wo-section,
+.faq {
+  scroll-margin-top: 4.75rem;
+}
+
+@media (max-width: 700px) {
+  .emmy-jump-kicker {
+    flex: 1 0 100%;
+  }
+
+  .emmy-jump a {
+    min-height: 40px;
+    font-size: 0.84rem;
+    padding: 0.2rem 0.65rem;
+  }
 }
 
 .emmy-sec-lead {

@@ -234,6 +234,7 @@ SERVICES: list[dict] = [
         "series": [
             {
                 "title": "Pokémon Horizons: Season 3 — Rising Hope, Part 4",
+                "image": "whats-on/pokemon-horizons.jpg",
                 "added": "September 18",
                 "note": (
                     "Today’s drop. New episodes, not a movie. If they still want the original "
@@ -243,6 +244,7 @@ SERVICES: list[dict] = [
             },
             {
                 "title": "Gabby’s Dollhouse, Season 14",
+                "image": "whats-on/gabbys-dollhouse.jpg",
                 "added": "September 14",
                 "note": (
                     "Preschool cat-and-now-puppy playdate season. Fine in the background while "
@@ -251,6 +253,7 @@ SERVICES: list[dict] = [
             },
             {
                 "title": "Stranger Things: Tales From ’85, Season 2",
+                "image": "whats-on/stranger-things-tales-from-85.jpg",
                 "added": "September 17",
                 "note": (
                     "Animated Hawkins is milder than the live-action show, but it is still "
@@ -262,6 +265,7 @@ SERVICES: list[dict] = [
         "already": [
             {
                 "title": "KPop Demon Hunters",
+                "image": "kpop-demon-hunters.jpg",
                 "href": "/kpop-demon-hunters",
                 "note": (
                     "Still the Netflix original everyone is asking for. We scored the film from "
@@ -271,6 +275,7 @@ SERVICES: list[dict] = [
             },
             {
                 "title": "Pokémon: Indigo League",
+                "image": "pokemon.jpg",
                 "href": "/pokemon",
                 "note": "79 episodes rated: almost all mild. Start here if Horizons feels too new.",
             },
@@ -307,11 +312,13 @@ SERVICES: list[dict] = [
             {
                 "when": "September 23",
                 "title": "Wonka’s The Golden Ticket",
+                "image": "whats-on/wonkas-the-golden-ticket.jpg",
                 "note": "Reality competition in a chocolate factory — not a kids movie.",
             },
             {
                 "when": "September 24",
                 "title": "A Magnificent Life",
+                "image": "whats-on/a-magnificent-life.jpg",
                 "note": (
                     "Sylvain Chomet adult animation about a filmmaker. Do not confuse with a "
                     "family cartoon."
@@ -320,11 +327,13 @@ SERVICES: list[dict] = [
             {
                 "when": "September 29",
                 "title": "LEGO One Piece",
+                "image": "whats-on/lego-one-piece.jpg",
                 "note": "Two-part animated special. Milder pirate cartoon than the live-action.",
             },
             {
                 "when": "September 30",
                 "title": "Thomas & Friends: Really Helpful Engines",
+                "image": "whats-on/thomas-really-helpful-engines.jpg",
                 "note": "Preschool movie for the train kids.",
             },
         ],
@@ -400,6 +409,7 @@ SERVICES: list[dict] = [
             {
                 "title": "LEGO Star Wars: The Mandalorian",
                 "year": 2026,
+                "image": "whats-on/lego-star-wars-the-mandalorian.jpg",
                 "mpaa": "TV-Y7",
                 "added": "September 2",
                 "ages": "5–10",
@@ -416,6 +426,7 @@ SERVICES: list[dict] = [
             {
                 "title": "The Mandalorian and Grogu",
                 "year": 2026,
+                "image": "whats-on/the-mandalorian-and-grogu.jpg",
                 "mpaa": "PG",
                 "added": "September 2",
                 "ages": "8+",
@@ -438,6 +449,7 @@ SERVICES: list[dict] = [
         "already": [
             {
                 "title": "Star Wars: The Clone Wars",
+                "image": "clone-wars.jpg",
                 "href": "/clone-wars",
                 "note": (
                     "133 episodes we rated: 90% mild. Better weeknight TV than putting on "
@@ -446,6 +458,7 @@ SERVICES: list[dict] = [
             },
             {
                 "title": "Phineas and Ferb, Gravity Falls, Amphibia, The Owl House",
+                "image": "phineas-and-ferb.jpg",
                 "href": "/guides/",
                 "note": "All scored episode by episode. Gravity Falls and Owl House need a preview on the spookier eps.",
             },
@@ -460,6 +473,7 @@ SERVICES: list[dict] = [
             {
                 "when": "September 23",
                 "title": "Toy Story 5",
+                "image": "whats-on/toy-story-5.jpg",
                 "note": (
                     "Woody, Buzz, Jessie vs. new tech in Bonnie’s house. The actual family "
                     "event of the month. We’ll refresh this page when it lands."
@@ -519,6 +533,7 @@ SERVICES: list[dict] = [
             {
                 "title": "Ice Age",
                 "year": 2002,
+                "image": "whats-on/ice-age.jpg",
                 "mpaa": "PG",
                 "added": "September 1",
                 "ages": "5–10",
@@ -534,6 +549,7 @@ SERVICES: list[dict] = [
             {
                 "title": "Ice Age: Dawn of the Dinosaurs",
                 "year": 2009,
+                "image": "whats-on/ice-age-dawn-of-the-dinosaurs.jpg",
                 "mpaa": "PG",
                 "added": "September 1",
                 "ages": "6–11",
@@ -550,6 +566,7 @@ SERVICES: list[dict] = [
         "already": [
             {
                 "title": "The SpongeBob Movie: Search for SquarePants",
+                "image": "whats-on/spongebob-search-for-squarepants.jpg",
                 "href": "/spongebob",
                 "note": (
                     "On Prime as a rental, not as a Prime-included title. Stream it on "
@@ -572,6 +589,7 @@ SERVICES: list[dict] = [
             {
                 "when": "September 23",
                 "title": "The Love Hypothesis",
+                "image": "whats-on/the-love-hypothesis.jpg",
                 "note": "Adult rom-com. Do not add it to the kids profile because it is ‘new.’",
             },
         ],
@@ -631,6 +649,7 @@ SERVICES: list[dict] = [
             {
                 "title": "Dr. Seuss’ Horton Hears a Who!",
                 "year": 2008,
+                "image": "whats-on/horton-hears-a-who.jpg",
                 "mpaa": "G",
                 "added": "September 1",
                 "ages": "4–9",
@@ -647,16 +666,19 @@ SERVICES: list[dict] = [
         "series": [
             {
                 "title": "Krypto Saves the Day, Season 2A",
+                "image": "whats-on/krypto-saves-the-day.jpg",
                 "added": "September 10",
                 "note": "Preschool Superman’s dog. New batch this month.",
             },
             {
                 "title": "Batwheels, Season 3E",
+                "image": "whats-on/batwheels.jpg",
                 "added": "September 19",
                 "note": "Tomorrow. Talking Bat-vehicles. Fine for 4–7.",
             },
             {
                 "title": "Teen Titans Go!, Season 9H",
+                "image": "whats-on/teen-titans-go.jpg",
                 "added": "September 20",
                 "note": "Gag cartoon. Harmless, exhausting, not a movie.",
             },
@@ -664,6 +686,7 @@ SERVICES: list[dict] = [
         "already": [
             {
                 "title": "Studio Ghibli library",
+                "image": "whats-on/totoro.jpg",
                 "href": "/guides/",
                 "note": (
                     "Totoro and Ponyo for little kids. Spirited Away and The Boy and the Heron "
@@ -672,6 +695,7 @@ SERVICES: list[dict] = [
             },
             {
                 "title": "Harry Potter films",
+                "image": "whats-on/harry-potter-philosophers-stone.jpg",
                 "href": "/guides/",
                 "note": (
                     "The eight movies, not the HBO series (that’s Christmas 2026). Philosopher’s "
@@ -680,6 +704,7 @@ SERVICES: list[dict] = [
             },
             {
                 "title": "Adventure Time",
+                "image": "adventure-time.jpg",
                 "href": "/adventure-time",
                 "note": "236 episodes rated, 95% mild. Better weeknight than putting on Beetlejuice because it ‘looked cartoony.’",
             },
@@ -698,11 +723,13 @@ SERVICES: list[dict] = [
             {
                 "when": "September 27",
                 "title": "Totally Spies, Season 7C",
+                "image": "whats-on/totally-spies.jpg",
                 "note": "Tween spy cartoon. Milder than it looks.",
             },
             {
                 "when": "Christmas 2026",
                 "title": "Harry Potter (HBO series)",
+                "image": "whats-on/harry-potter-hbo.jpg",
                 "note": "Not out. Do not search for it in the app yet.",
             },
         ],
@@ -764,6 +791,7 @@ SERVICES: list[dict] = [
             {
                 "title": "Snoopy Presents: There’s No Place Like Home, Snoopy",
                 "year": 2026,
+                "image": "whats-on/snoopy-no-place-like-home.jpg",
                 "mpaa": "TV-G",
                 "added": "July 31 (still the new one)",
                 "ages": "4–10",
@@ -781,6 +809,7 @@ SERVICES: list[dict] = [
         "series": [
             {
                 "title": "Interrupting Chicken, Camp Snoopy, Shape Island, Wonder Pets: In the City",
+                "image": "whats-on/interrupting-chicken.jpg",
                 "added": "On the kids tab now",
                 "note": "Apple’s actual kids slate. None of them premiered this week; they’re the reliable shelf.",
             },
@@ -788,6 +817,7 @@ SERVICES: list[dict] = [
         "already": [
             {
                 "title": "Ted Lasso (Season 4, in progress)",
+                "image": "ted-lasso.jpg",
                 "href": "/ted-lasso",
                 "note": (
                     "New episodes this month. We rated 40 episodes: 100% too much for younger "
@@ -805,6 +835,7 @@ SERVICES: list[dict] = [
             {
                 "when": "Later in 2026",
                 "title": "Snoopy Unleashed (feature, in production)",
+                "image": "whats-on/snoopy-unleashed.jpg",
                 "note": "Not out. Don’t search the app for it yet.",
             },
         ],
@@ -862,6 +893,7 @@ SERVICES: list[dict] = [
             {
                 "title": "Clash of the Thundermans",
                 "year": 2026,
+                "image": "whats-on/clash-of-the-thundermans.jpg",
                 "mpaa": "TV-G",
                 "added": "September 3",
                 "ages": "6–12",
@@ -881,6 +913,7 @@ SERVICES: list[dict] = [
             {
                 "title": "The SpongeBob Movie: Search for SquarePants",
                 "year": 2025,
+                "image": "whats-on/spongebob-search-for-squarepants.jpg",
                 "mpaa": "PG",
                 "added": "February 17 (still the one to play)",
                 "ages": "5–10",
@@ -900,6 +933,7 @@ SERVICES: list[dict] = [
         "already": [
             {
                 "title": "SpongeBob SquarePants (series)",
+                "image": "spongebob.jpg",
                 "href": "/spongebob",
                 "note": "602 episodes rated: 100% mild. If the movie is a hit, stay on the series.",
             },
@@ -914,6 +948,7 @@ SERVICES: list[dict] = [
             {
                 "when": "Likely mid-October",
                 "title": "PAW Patrol: The Dino Movie",
+                "image": "whats-on/paw-patrol-dino.jpg",
                 "note": (
                     "Still in theaters as of mid-August; digital purchase exists, Paramount+ "
                     "date not posted. Don’t promise it this week."
@@ -966,6 +1001,38 @@ def _verdict_class(verdict: str) -> str:
     return "preview"
 
 
+COVERS = Path(__file__).resolve().parent / "web" / "covers"
+
+
+def _poster_img(path: str, alt: str = "") -> str:
+    return (
+        f'<img class="wo-poster" src="../covers/{_esc(path)}" '
+        f'alt="{_esc(alt)}" width="260" height="390" loading="lazy" decoding="async" />'
+    )
+
+
+def _card(inner: str, image: str | None, cls: str = "") -> str:
+    classes = " ".join(x for x in (cls, "has-poster" if image else "") if x)
+    poster = _poster_img(image) if image else ""
+    return f"""    <article class="wo-pick {classes}">
+      {poster}
+      <div class="wo-pick-body">
+      {inner}
+      </div>
+    </article>"""
+
+
+def _cards_section(heading: str, cards: list[str]) -> str:
+    if not cards:
+        return ""
+    return f"""    <section class="wo-section">
+      <h2>{_esc(heading)}</h2>
+      <div class="wo-picks">
+{chr(10).join(cards)}
+      </div>
+    </section>"""
+
+
 def _pick_html(pick: dict) -> str:
     chips = "".join(
         f'<li>{_esc(item)}</li>' for item in pick.get("watch_for") or []
@@ -982,28 +1049,56 @@ def _pick_html(pick: dict) -> str:
             f'<a href="{_esc(pick["catalog"])}">open the show page</a>.</p>'
         )
     extra = watch + catalog
-    poster = ""
-    has_img = bool(pick.get("image"))
-    if has_img:
-        poster = (
-            f'<img class="wo-poster" src="../covers/{_esc(pick["image"])}" '
-            f'alt="" width="260" height="390" loading="lazy" decoding="async" />'
-        )
-    cls = _verdict_class(pick["verdict"])
-    if has_img:
-        cls += " has-poster"
-    return f"""    <article class="wo-pick {cls}">
-      {poster}
-      <div class="wo-pick-body">
-      <header class="wo-pick-head">
+    inner = f"""<header class="wo-pick-head">
         <p class="wo-verdict">{_esc(pick["verdict_label"])}</p>
         <h3>{_esc(pick["title"])} <span>({_esc(pick["year"])})</span></h3>
         <p class="wo-meta">{_esc(pick["mpaa"])} · Added {_esc(pick["added"])} · Best for {_esc(pick["ages"])}</p>
       </header>
       <p>{pick["why"]}</p>
-      {extra}
-      </div>
-    </article>"""
+      {extra}"""
+    return _card(inner, pick.get("image"), _verdict_class(pick["verdict"]))
+
+
+def _series_section(items: list[dict]) -> str:
+    cards = []
+    for item in items:
+        inner = f"""<header class="wo-pick-head">
+        <p class="wo-verdict">New series</p>
+        <h3>{_esc(item["title"])}</h3>
+        <p class="wo-meta">Added {_esc(item["added"])}</p>
+      </header>
+      <p>{item["note"]}</p>"""
+        cards.append(_card(inner, item.get("image")))
+    return _cards_section("New series (not movies)", cards)
+
+
+def _already_section(items: list[dict]) -> str:
+    cards = []
+    for item in items:
+        name = (
+            f'<a href="{_esc(item["href"])}">{_esc(item["title"])}</a>'
+            if item.get("href")
+            else _esc(item["title"])
+        )
+        inner = f"""<header class="wo-pick-head">
+        <p class="wo-verdict">Already on</p>
+        <h3>{name}</h3>
+      </header>
+      <p>{item["note"]}</p>"""
+        cards.append(_card(inner, item.get("image")))
+    return _cards_section("Already on — we rated these", cards)
+
+
+def _coming_section(items: list[dict]) -> str:
+    cards = []
+    for item in items:
+        inner = f"""<header class="wo-pick-head">
+        <p class="wo-verdict">{_esc(item["when"])}</p>
+        <h3>{_esc(item["title"])}</h3>
+      </header>
+      <p>{item["note"]}</p>"""
+        cards.append(_card(inner, item.get("image")))
+    return _cards_section("Coming later this month", cards)
 
 
 def _list_block(title: str, items: list[dict], key_title: str, key_body: str) -> str:
@@ -1019,6 +1114,20 @@ def _list_block(title: str, items: list[dict], key_title: str, key_body: str) ->
 {rows}
       </ul>
     </section>"""
+
+
+def _require_posters() -> None:
+    missing = []
+    for svc in SERVICES:
+        for group in ("picks", "series", "already", "coming"):
+            for item in svc.get(group) or []:
+                img = item.get("image")
+                if not img:
+                    missing.append(f"{svc['slug']} {group}: {item['title']}")
+                elif not (COVERS / img).is_file():
+                    missing.append(f"missing file {img} ({item['title']})")
+    if missing:
+        raise SystemExit("What's on posters missing:\n  " + "\n  ".join(missing))
 
 
 def _service_nav(current: str | None = None) -> str:
@@ -1037,40 +1146,10 @@ def _service_nav(current: str | None = None) -> str:
 
 def article_body(svc: dict) -> str:
     picks = "\n".join(_pick_html(p) for p in svc["picks"])
-    series = _list_block("New series (not movies)", svc.get("series") or [], "title", "note")
-    already = ""
-    # already items may include href — patch titles
-    if svc.get("already"):
-        rows = []
-        for item in svc["already"]:
-            name = (
-                f'<a href="{_esc(item["href"])}">{item["title"]}</a>'
-                if item.get("href")
-                else f"<strong>{item['title']}</strong>"
-            )
-            rows.append(f"      <li>{name} — {item['note']}</li>")
-        already = f"""    <section class="wo-section">
-      <h2>Already on — we rated these</h2>
-      <ul class="wo-plain">
-{chr(10).join(rows)}
-      </ul>
-    </section>"""
+    series = _series_section(svc.get("series") or [])
+    already = _already_section(svc.get("already") or [])
     skip = _list_block("On the service, not for family night", svc.get("skip") or [], "title", "why")
-    coming_rows = "\n".join(
-        f'      <li><span class="wo-when">{_esc(c["when"])}</span> '
-        f'<strong>{_esc(c["title"])}</strong> — {c["note"]}</li>'
-        for c in svc.get("coming") or []
-    )
-    coming = (
-        f"""    <section class="wo-section">
-      <h2>Coming later this month</h2>
-      <ul class="wo-plain">
-{coming_rows}
-      </ul>
-    </section>"""
-        if coming_rows
-        else ""
-    )
+    coming = _coming_section(svc.get("coming") or [])
     from build_web import faq_html
 
     return f"""  <nav class="topnav wrap">
@@ -1169,6 +1248,8 @@ def write_whats_on_pages() -> list[tuple[str, str]]:
         clip_meta,
         faq_jsonld,
     )
+
+    _require_posters()
 
     out_dir: Path = WEB / "whats-on"
     if out_dir.exists():

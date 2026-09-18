@@ -576,7 +576,7 @@ def site_footer(prefix: str = "") -> str:
   </footer>"""
 
 
-def faq_html(items: list[tuple[str, str]]) -> str:
+def faq_html(items: list[tuple[str, str]], section_id: str | None = None) -> str:
     blocks = []
     for q, a in items:
         blocks.append(
@@ -585,8 +585,9 @@ def faq_html(items: list[tuple[str, str]]) -> str:
             f"      <p>{a}</p>\n"
             f"    </details>"
         )
+    id_attr = f' id="{esc(section_id)}"' if section_id else ""
     return (
-        '  <section class="wrap seo-copy faq" aria-label="Frequently asked questions">\n'
+        f'  <section class="wrap seo-copy faq"{id_attr} aria-label="Frequently asked questions">\n'
         "    <h2>Common questions</h2>\n"
         + "\n".join(blocks)
         + "\n  </section>"
