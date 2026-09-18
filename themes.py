@@ -426,6 +426,7 @@ FINE_BY_SHOW = {
     "parks-and-recreation": ["Workplace comedy", "Small-town government hijinks"],
     "modern-family": ["Family sitcom", "Mockumentary family chaos"],
     "abbott-elementary": ["Workplace comedy", "School mockumentary"],
+    "regular-show": ["Park-worker cartoon hijinks", "Cartoon Network adventure comedy"],
 }
 
 # Kids animation: slapstick is the genre, not a warning sign.
@@ -437,6 +438,7 @@ SLAPSTICK_SHOWS = {
     "gravity-falls",
     "steven-universe",
     "avatar",
+    "regular-show",
 }
 
 

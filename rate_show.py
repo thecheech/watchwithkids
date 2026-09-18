@@ -126,6 +126,7 @@ KIDS_SHOW_IDS = {
     "spongebob", "bluey", "phineas-and-ferb", "adventure-time", "avatar",
     "gravity-falls", "steven-universe", "kpop-demon-hunters", "legend-of-korra",
     "clone-wars", "owl-house", "amphibia", "pokemon", "percy-jackson",
+    "regular-show",
 }
 
 # Title overrides for known data quality issues from scrape sources
@@ -181,6 +182,7 @@ SHOW_META = {
         "maze": "Percy Jackson and the Olympians",
     },
     "abbott-elementary": {"name": "Abbott Elementary", "maze": "Abbott Elementary"},
+    "regular-show": {"name": "Regular Show", "maze": "Regular Show"},
     "kpop-demon-hunters": {"name": "KPop Demon Hunters", "maze": "KPop Demon Hunters"},
     "stranger-things": {"name": "Stranger Things", "maze": "Stranger Things"},
     "legend-of-korra": {"name": "The Legend of Korra", "maze": "The Legend of Korra"},

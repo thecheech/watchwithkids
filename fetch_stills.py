@@ -62,6 +62,7 @@ READY = [
     "owl-house",
     "amphibia",
     "pokemon",
+    "regular-show",
 ]
 
 

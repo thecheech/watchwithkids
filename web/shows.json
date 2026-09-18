@@ -1036,5 +1036,29 @@
       "total": 93
     },
     "shelf": "rewatch"
+  },
+  {
+    "id": "regular-show",
+    "name": "Regular Show",
+    "mazeId": 868,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/223/558626.jpg",
+    "coverType": "background",
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "premiered": "2010",
+    "runtime": 15,
+    "summary": "The Regular Show is about Mordecai and Rigby who are two best friends who take the problems and mundane tasks of their boring job to fantastical places.",
+    "ready": true,
+    "coverLocal": "covers/regular-show.jpg",
+    "href": "/regular-show",
+    "mix": {
+      "safe": 169,
+      "maybe": 77,
+      "skip": 0,
+      "total": 246
+    },
+    "shelf": "kids"
   }
 ]

@@ -63,6 +63,13 @@ TITLE_ALIASES: dict[str, dict[str, str]] = {
         # Apostrophe dropped on Springfield.
         "teacher conference": "teacher s conference",
     },
+    "regular-show": {
+        # Wiki drops "Show" and combines the series finale.
+        "a regular epic final battle": "a regular show epic final battle",
+        "a regular show epic final battle the power": "a regular show epic final battle",
+        "a regular show epic final battle the power part 3": "a regular show epic final battle",
+        "rigby s graduation day special": "rigby s graduation day",
+    },
     "seinfeld": {
         # Transcript index uses the working title; TVMaze uses the broadcast name.
         "the seinfeld chronicles": "good news bad news",

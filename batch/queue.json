@@ -90,8 +90,10 @@
       "ssSlug": "regular-show-2010",
       "wikiApi": "https://regularshow.fandom.com/api.php",
       "mazeQuery": "Regular Show",
-      "status": "pending",
-      "note": "Prefer fandom wiki if transcripts exist"
+      "status": "done",
+      "note": "Prefer fandom wiki if transcripts exist",
+      "completedAt": "2026-09-18T19:08:33Z",
+      "result": "246 episodes rated (S1–S8; all TVMaze numbered episodes). Wiki transcripts plus 9 Springfield fills (Grilled Cheese Deluxe, Prank Callers, Don, My Mom, Jinx, Over the Top, Think Positive, Bad Kiss, Benson's Pig). Combined finale wiki page used for S8E27–E29. Aliased Graduation Day Special. check_ratings + sitemaps green. Mix 169 mild / 77 caution / 0 too much."
     },
     {
       "order": 7,

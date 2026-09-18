@@ -96,6 +96,7 @@ READY = [
     "owl-house",
     "amphibia",
     "pokemon",
+    "regular-show",
 ]
 
 SHOW_PAGE = {
@@ -164,6 +165,10 @@ SHOW_PAGE = {
     "abbott-elementary": {
         "name": "Abbott Elementary",
         "h1": 'Abbott Elementary <span class="pop">🍎</span>',
+    },
+    "regular-show": {
+        "name": "Regular Show",
+        "h1": 'Regular Show <span class="pop">🍦</span>',
     },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",

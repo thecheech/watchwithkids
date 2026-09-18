@@ -21948,5 +21948,19 @@
       "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/26/66510.jpg",
       "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66510.jpg"
     }
+  },
+  "regular-show": {
+    "0101": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/596/1490626.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/596/1490626.jpg"
+    },
+    "0333": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/596/1490622.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/596/1490622.jpg"
+    },
+    "0422": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/607/1517885.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/607/1517885.jpg"
+    }
   }
 }
