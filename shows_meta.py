@@ -132,6 +132,14 @@ SHOWS = {
         "format": "live-action fantasy",
         "note": "Macabre boarding-school mystery — murder, monsters and deadpan dark humor.",
     },
+    "ted-lasso": {
+        "name": "Ted Lasso",
+        "shelf": "rewatch",
+        "age": 13,
+        "floor": 11,
+        "format": "live-action comedy-drama",
+        "note": "Workplace football sitcom — swearing, adult themes and mental-health storylines vary by episode.",
+    },
     "kpop-demon-hunters": {
         "name": "KPop Demon Hunters",
         "shelf": "kids",

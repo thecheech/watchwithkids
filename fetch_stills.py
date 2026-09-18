@@ -50,6 +50,7 @@ READY = [
     "bobs-burgers",
     "simpsons",
     "wednesday",
+    "ted-lasso",
     "kpop-demon-hunters",
     "stranger-things",
     "legend-of-korra",

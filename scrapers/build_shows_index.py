@@ -33,6 +33,15 @@ DISPLAY = {
     "steven-universe": ("Steven Universe", "steven-universe.fandom.com"),
     "the-office": ("The Office (US)", "brianbuie/the-office (GitHub)"),
     "young-sheldon": ("Young Sheldon", "springfieldspringfield.co.uk"),
+    "wednesday": ("Wednesday", "springfieldspringfield.co.uk"),
+    "ted-lasso": ("Ted Lasso", "springfieldspringfield.co.uk"),
+    "kpop-demon-hunters": ("KPop Demon Hunters", "springfieldspringfield.co.uk"),
+    "stranger-things": ("Stranger Things", "8flix.com (via TidyTuesday)"),
+    "legend-of-korra": ("The Legend of Korra", "avatar.fandom.com"),
+    "clone-wars": ("Star Wars: The Clone Wars", "springfieldspringfield.co.uk"),
+    "owl-house": ("The Owl House", "theowlhouse.fandom.com"),
+    "amphibia": ("Amphibia", "amphibia.fandom.com"),
+    "pokemon": ("Pokémon: Indigo League", "pokemon.fandom.com"),
 }
 
 

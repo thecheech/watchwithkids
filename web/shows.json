@@ -866,5 +866,32 @@
     "coverLocal": "covers/pokemon.jpg",
     "coverW": 1920,
     "coverH": 1080
+  },
+  {
+    "id": "ted-lasso",
+    "name": "Ted Lasso",
+    "mazeId": 44458,
+    "cover": "https://static.tvmaze.com/uploads/images/original_untouched/452/1131100.jpg",
+    "coverType": "background",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Sports"
+    ],
+    "premiered": "2020",
+    "runtime": 43,
+    "summary": "An idealistic — and clueless — all-American football coach is hired to manage an English football club despite having no soccer coaching experience at all.",
+    "ready": true,
+    "coverW": 3920,
+    "coverH": 2204,
+    "coverLocal": "covers/ted-lasso.jpg",
+    "blurb": "An idealistic — and clueless — all-American football coach is hired to manage an English football club despite having no soccer…",
+    "href": "/ted-lasso",
+    "mix": {
+      "safe": 0,
+      "maybe": 0,
+      "skip": 40,
+      "total": 40
+    }
   }
 ]
