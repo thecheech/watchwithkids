@@ -14,7 +14,7 @@ from urllib.parse import quote_plus
 
 from catalog import dedupe_codes
 from parents_guide import pnk_content
-from shows_meta import CANON_ONLY, MOVIE_SHOWS, meta_for
+from shows_meta import CANON_ONLY, MOVIE_SHOWS, meta_for, shelf_of
 from themes import SEVERITY_TIER_HINT, SEVERITY_TIER_LABEL, severity_score, severity_tier
 
 ROOT = Path(__file__).resolve().parent
@@ -2711,6 +2711,7 @@ def main() -> None:
     for s in shows:
         s["ready"] = s["id"] in mixes
         s["href"] = f"/{s['id']}" if s["ready"] else None
+        s["shelf"] = shelf_of(s["id"])
         if s["id"] in mixes:
             s["mix"] = mixes[s["id"]]
         else:

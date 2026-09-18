@@ -23,7 +23,8 @@
       "maybe": 129,
       "skip": 66,
       "total": 228
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "the-office",
@@ -48,7 +49,8 @@
       "maybe": 71,
       "skip": 48,
       "total": 186
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "parks-and-recreation",
@@ -73,7 +75,8 @@
       "maybe": 42,
       "skip": 34,
       "total": 122
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "brooklyn-nine-nine",
@@ -100,7 +103,8 @@
       "maybe": 69,
       "skip": 56,
       "total": 135
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "how-i-met-your-mother",
@@ -127,7 +131,8 @@
       "maybe": 82,
       "skip": 97,
       "total": 208
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "big-bang-theory",
@@ -152,7 +157,8 @@
       "maybe": 85,
       "skip": 42,
       "total": 263
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "modern-family",
@@ -178,7 +184,8 @@
       "maybe": 94,
       "skip": 23,
       "total": 246
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "seinfeld",
@@ -203,7 +210,8 @@
       "maybe": 65,
       "skip": 14,
       "total": 176
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "simpsons",
@@ -229,7 +237,8 @@
       "maybe": 218,
       "skip": 43,
       "total": 564
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "futurama",
@@ -256,7 +265,8 @@
       "maybe": 111,
       "skip": 30,
       "total": 141
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "malcolm-in-the-middle",
@@ -281,7 +291,8 @@
       "maybe": 46,
       "skip": 6,
       "total": 151
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "bobs-burgers",
@@ -307,7 +318,8 @@
       "maybe": 117,
       "skip": 56,
       "total": 309
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "phineas-and-ferb",
@@ -333,7 +345,8 @@
       "maybe": 2,
       "skip": 0,
       "total": 249
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "spongebob",
@@ -360,7 +373,8 @@
       "maybe": 1,
       "skip": 0,
       "total": 602
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "avatar",
@@ -387,7 +401,8 @@
       "maybe": 5,
       "skip": 6,
       "total": 61
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "adventure-time",
@@ -414,7 +429,8 @@
       "maybe": 11,
       "skip": 0,
       "total": 236
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "bluey",
@@ -440,7 +456,8 @@
       "maybe": 0,
       "skip": 0,
       "total": 152
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "steven-universe",
@@ -467,7 +484,8 @@
       "maybe": 3,
       "skip": 0,
       "total": 149
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "full-house",
@@ -493,7 +511,8 @@
       "maybe": 7,
       "skip": 0,
       "total": 119
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "gravity-falls",
@@ -520,7 +539,8 @@
       "maybe": 9,
       "skip": 0,
       "total": 40
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "fresh-prince",
@@ -546,7 +566,8 @@
       "maybe": 28,
       "skip": 5,
       "total": 148
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "young-sheldon",
@@ -572,7 +593,8 @@
       "maybe": 24,
       "skip": 5,
       "total": 140
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "rick-and-morty",
@@ -599,7 +621,8 @@
       "maybe": 6,
       "skip": 76,
       "total": 82
-    }
+    },
+    "shelf": "adult"
   },
   {
     "id": "family-guy",
@@ -625,7 +648,8 @@
       "maybe": 123,
       "skip": 299,
       "total": 456
-    }
+    },
+    "shelf": "adult"
   },
   {
     "id": "south-park",
@@ -650,7 +674,8 @@
       "maybe": 41,
       "skip": 287,
       "total": 334
-    }
+    },
+    "shelf": "adult"
   },
   {
     "id": "wednesday",
@@ -677,7 +702,8 @@
       "maybe": 15,
       "skip": 1,
       "total": 16
-    }
+    },
+    "shelf": "rewatch"
   },
   {
     "id": "kpop-demon-hunters",
@@ -703,7 +729,8 @@
       "maybe": 0,
       "skip": 0,
       "total": 1
-    }
+    },
+    "shelf": "kids"
   },
   {
     "id": "stranger-things",
@@ -730,7 +757,8 @@
     },
     "coverLocal": "covers/stranger-things.jpg",
     "coverW": 1920,
-    "coverH": 1080
+    "coverH": 1080,
+    "shelf": "rewatch"
   },
   {
     "id": "legend-of-korra",
@@ -757,7 +785,8 @@
     },
     "coverLocal": "covers/legend-of-korra.jpg",
     "coverW": 1920,
-    "coverH": 1080
+    "coverH": 1080,
+    "shelf": "kids"
   },
   {
     "id": "clone-wars",
@@ -784,7 +813,8 @@
     },
     "coverLocal": "covers/clone-wars.jpg",
     "coverW": 1920,
-    "coverH": 1080
+    "coverH": 1080,
+    "shelf": "kids"
   },
   {
     "id": "owl-house",
@@ -811,7 +841,8 @@
     },
     "coverLocal": "covers/owl-house.jpg",
     "coverW": 1920,
-    "coverH": 1080
+    "coverH": 1080,
+    "shelf": "kids"
   },
   {
     "id": "amphibia",
@@ -838,7 +869,8 @@
     },
     "coverLocal": "covers/amphibia.jpg",
     "coverW": 1920,
-    "coverH": 1080
+    "coverH": 1080,
+    "shelf": "kids"
   },
   {
     "id": "pokemon",
@@ -865,7 +897,8 @@
     },
     "coverLocal": "covers/pokemon.jpg",
     "coverW": 1920,
-    "coverH": 1080
+    "coverH": 1080,
+    "shelf": "kids"
   },
   {
     "id": "ted-lasso",
@@ -892,6 +925,7 @@
       "maybe": 0,
       "skip": 40,
       "total": 40
-    }
+    },
+    "shelf": "rewatch"
   }
 ]

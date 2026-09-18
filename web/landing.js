@@ -20,6 +20,7 @@
     "fresh-prince",
     "full-house",
     "wednesday",
+    "ted-lasso",
     "stranger-things",
   ];
   /** Made-for-kids — separate shelf so Bluey isn't next to South Park. */
@@ -42,6 +43,11 @@
   const ADULT_ORDER = ["rick-and-morty", "family-guy", "south-park"];
   // Empty - all shows with ratings are now in one of the shelves above
   const SOON_ORDER = [];
+  const SHELF_IDS = {
+    rewatch: READY_ORDER,
+    kids: KIDS_ORDER,
+    adult: ADULT_ORDER,
+  };
 
   const SLIDE_MS = 4000;
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -59,6 +65,14 @@
   }
 
   const byId = Object.fromEntries(shows.map((s) => [s.id, s]));
+  const listed = new Set([...READY_ORDER, ...KIDS_ORDER, ...ADULT_ORDER]);
+  /** Ready shows missing from the hardcoded lists still land on a shelf. */
+  function withUnlisted(ids, shelf) {
+    const extra = shows
+      .filter((s) => s.ready && !listed.has(s.id) && (s.shelf || "rewatch") === shelf)
+      .map((s) => s.id);
+    return extra.length ? [...ids, ...extra] : ids;
+  }
   /** Lead with gray-area-heavy shows (Friends, etc.), not the all-clear cartoons. */
   function borderlineKey(s) {
     const mix = s.mix || {};
@@ -78,9 +92,9 @@
       return String(a.name || "").localeCompare(String(b.name || ""));
     });
   }
-  const ready = byBorderline(ordered(READY_ORDER));
-  const kids = ordered(KIDS_ORDER);
-  const adult = ordered(ADULT_ORDER);
+  const ready = byBorderline(ordered(withUnlisted(SHELF_IDS.rewatch, "rewatch")));
+  const kids = ordered(withUnlisted(SHELF_IDS.kids, "kids"));
+  const adult = ordered(withUnlisted(SHELF_IDS.adult, "adult"));
   const soon = SOON_ORDER.map((id) => byId[id]).filter(Boolean);
   const HERO_SHOWS = ["friends", "the-office", "modern-family", "big-bang-theory", "seinfeld", "parks-and-recreation"];
   const heroSlides = ordered(HERO_SHOWS);

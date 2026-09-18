@@ -28,6 +28,7 @@ Expect `transcripts/<id>/` + `episodes.json` with real dialogue (not empty stubs
 - `shows_meta.py` — shelf, age, floor, format, note (use queue hints)
 - `rate_show.py` — add to `SHOW_META` (`name` + `maze` title); add to `KIDS_SHOW_IDS` only if shelf is kids
 - `build_web.py` — append to `READY` + `SHOW_PAGE`
+- `web/landing.js` — append id to `READY_ORDER` / `KIDS_ORDER` / `ADULT_ORDER` (rewatch / kids / adult). Extra ready shows also auto-append from `shows.js` `shelf`.
 - `fetch_stills.py` — append same id to `READY`
 - `scrapers/build_shows_index.py` — `DISPLAY` entry
 - `web/shows.json` — new catalog object (`id`, `name`, `mazeId`, cover URLs, genres, premiered, summary, `ready: true`, `coverLocal`, `href`). Leave `mix` zeros; `build_web.py` refreshes it.
