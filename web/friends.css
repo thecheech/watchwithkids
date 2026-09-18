@@ -3701,6 +3701,16 @@ body.report-open {
   margin: 0 0 1.45rem;
 }
 
+.wo-services-kicker {
+  flex: 0 0 100%;
+  margin: 0 0 -0.2rem;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
 .wo-services a {
   position: relative;
   display: inline-flex;
@@ -3985,14 +3995,16 @@ body.report-open {
 
 .wo-hub-card {
   display: grid;
-  gap: 0.25rem;
+  grid-template-rows: auto 1fr;
+  gap: 0;
   text-decoration: none;
   color: inherit;
   background: #fff;
   border: 3px solid var(--ink);
   border-radius: 16px;
   box-shadow: 0 6px 0 var(--ink);
-  padding: 0.95rem 1rem;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .wo-hub-card:hover {
@@ -4000,12 +4012,48 @@ body.report-open {
   box-shadow: 0 9px 0 var(--ink);
 }
 
+.wo-hub-cover {
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #111;
+}
+
+.wo-hub-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 22%;
+  display: block;
+  transition: transform 0.45s ease;
+}
+
+.wo-hub-card:hover .wo-hub-cover img {
+  transform: scale(1.05);
+}
+
+.wo-hub-body {
+  display: grid;
+  gap: 0.28rem;
+  padding: 0.85rem 0.95rem 0.95rem;
+  align-content: start;
+}
+
 .wo-hub-svc {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
   font-size: 0.75rem;
   font-weight: 800;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--muted);
+}
+
+.wo-hub-svc .wo-svc-logo {
+  width: 1.35rem;
+  height: auto;
+  flex: 0 0 auto;
 }
 
 .wo-hub-card strong {
@@ -4178,6 +4226,10 @@ html:has(.emmy-jump-bar) {
     grid-template-columns: 1fr;
   }
 
+  .wo-hub-card:hover .wo-hub-cover img {
+    transform: none;
+  }
+
   .wo-when {
     display: block;
     min-width: 0;
@@ -4191,5 +4243,11 @@ html:has(.emmy-jump-bar) {
 
   .wo-poster {
     width: 84px;
+  }
+}
+
+@media (hover: none) {
+  .wo-hub-card:hover .wo-hub-cover img {
+    transform: none;
   }
 }

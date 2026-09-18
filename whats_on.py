@@ -1130,30 +1130,30 @@ def _require_posters() -> None:
         raise SystemExit("What's on posters missing:\n  " + "\n  ".join(missing))
 
 
+SERVICE_ICONS = {
+    "netflix-family-movies": ("netflix", "netflix.svg"),
+    "disney-plus-family-movies": ("disney", "disney.svg"),
+    "prime-video-family-movies": ("amazon", "amazon.svg"),
+    "max-family-movies": ("max", "max.svg"),
+    "apple-tv-family-movies": ("apple", "apple.svg"),
+    "paramount-plus-family-movies": ("paramount", "paramount.svg"),
+}
+
+
 def _service_nav(current: str | None = None) -> str:
-    icons = {
-        "netflix-family-movies": ("netflix", "netflix.svg"),
-        "disney-plus-family-movies": ("disney", "disney.svg"),
-        "prime-video-family-movies": ("amazon", "amazon.svg"),
-        "max-family-movies": ("max", "max.svg"),
-        "apple-tv-family-movies": ("apple", "apple.svg"),
-        "paramount-plus-family-movies": ("paramount", "paramount.svg"),
-    }
     links = []
     for s in SERVICES:
         cls = ' class="is-current"' if s["slug"] == current else ""
-        provider, icon = icons[s["slug"]]
+        provider, icon = SERVICE_ICONS[s["slug"]]
         links.append(
             f'<a href="/whats-on/{_esc(s["slug"])}"{cls} data-provider="{provider}" '
             f'aria-label="{_esc(s["short"])}">'
             f'<img class="wo-svc-logo" src="../icons/{icon}" alt="" width="24" height="16" />'
             f'<span>{_esc(s["short"])}</span></a>'
         )
-    return (
-        '<nav class="wo-services" aria-label="Streaming services">'
-        + "".join(links)
-        + "</nav>"
-    )
+    label = "Other guides" if current else "Streaming services"
+    kicker = '<p class="wo-services-kicker">Other guides:</p>' if current else ""
+    return f'<nav class="wo-services" aria-label="{label}">{kicker}' + "".join(links) + "</nav>"
 
 
 def article_body(svc: dict) -> str:
@@ -1207,13 +1207,29 @@ def article_body(svc: dict) -> str:
 def hub_body() -> str:
     cards = []
     for s in SERVICES:
-        first = s["picks"][0]["title"] if s["picks"] else s["service"]
+        first_pick = s["picks"][0] if s["picks"] else None
+        first = first_pick["title"] if first_pick else s["service"]
+        cover = (first_pick or {}).get("image") or s.get("cover") or ""
+        provider, icon = SERVICE_ICONS[s["slug"]]
+        thumb = (
+            f'<span class="wo-hub-cover" aria-hidden="true">'
+            f'<img src="../covers/{_esc(cover)}" alt="" width="400" height="225" '
+            f'loading="lazy" decoding="async" />'
+            f"</span>"
+            if cover
+            else ""
+        )
         cards.append(
-            f'<li><a class="wo-hub-card" href="/whats-on/{_esc(s["slug"])}">'
-            f'<span class="wo-hub-svc">{_esc(s["short"])}</span>'
+            f'<li><a class="wo-hub-card" href="/whats-on/{_esc(s["slug"])}" '
+            f'data-provider="{provider}">'
+            f"{thumb}"
+            f'<span class="wo-hub-body">'
+            f'<span class="wo-hub-svc">'
+            f'<img class="wo-svc-logo" src="../icons/{icon}" alt="" width="24" height="16" />'
+            f'<span>{_esc(s["short"])}</span></span>'
             f"<strong>{_esc(s['h1'])}</strong>"
             f'<span class="wo-hub-pick">Tonight: {_esc(first)}</span>'
-            f"</a></li>"
+            f"</span></a></li>"
         )
     return f"""  <nav class="topnav wrap">
     <a class="back-home" href="/">← All shows</a>
